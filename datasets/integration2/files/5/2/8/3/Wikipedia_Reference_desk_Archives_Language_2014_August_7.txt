@@ -1,0 +1,85 @@
+<noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Language|Language desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Language/2014 August 6|August 6]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Language/July 2014|Jul]] | [[Wikipedia:Reference desk/Archives/Language/August 2014|August]] | [[Wikipedia:Reference desk/Archives/Language/September 2014|Sep]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Language/2014 August 8|[[Wikipedia:Reference desk/Archives/Language/2014 August 8|August 8]]|[[Wikipedia:Reference desk/Language|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Language Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Language/2014 August 17|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= August 7 =
+
+== Ecclesiastes 9:11 ==
+
+What is the Hebrew like for this verse? "...the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill" (KJB) is, in my opinion, some sexy English. Most translations follow this prose more or less exactly. Is it because it's a straightforward translation of the Hebrew or just because it's so good? As a followup question, in what English translation was this formulation first seen? And finally, what's the deal with the [http://theology101.org/bib/vul/ecc009.htm#011 Vulgate's translation]? It seems to be accusative-infinitive in indirect statement but with genitive plurals where I would expect obvious datives of advantage (if I were translating the English to Latin). Is the sense that the things do not belong to their counterparts? ''÷[[user:seresin|seresin]]'' 03:47, 7 August 2014 (UTC)
+
+:The Latin strikes me as a literal translation of a [[construct state]] in Hebrew. Unfortunately Hebrew completely confounds me so I can't check the original... [[User:Adam Bishop|Adam Bishop]] ([[User talk:Adam Bishop|talk]]) 03:59, 7 August 2014 (UTC)
+::The Hebrew has no construct forms in this verse. - [[User:Lindert|Lindert]] ([[User talk:Lindert|talk]]) 09:08, 7 August 2014 (UTC)
+
+:See the top of the central column at http://biblehub.com/multi/ecclesiastes/9-11.htm 
+:and click on "Hebrew" to see http://biblehub.com/text/ecclesiastes/9-11.htm.
+:—[[User:Wavelength|Wavelength]] ([[User talk:Wavelength|talk]]) 05:26, 7 August 2014 (UTC)
+
+:GOD'S WORD®, as usual, screws it up by equating "strong" with "[[Hero#Christianity|heroes]]". [[User:InedibleHulk|InedibleHulk]] [[User_Talk:InedibleHulk|(talk)]] 06:22, 7 August 2014 (UTC)
+
+:See Wavelength's links. The answer is that it is indeed a straightforward translation of the Hebrew. The [[Douay–Rheims Bible]] translation (relevant portion from 1610) is basically identical, even though it is translated from the Latin: [http://www.drbo.org/chapter/23009.htm]. [[Wycliffe's Bible|Wycliffe's translation]] (1395) is similar, though it uses 'of' instead of 'to', and it adds 'men' to several adjectives: "''rennyng is not of swift men, nethir batel is of stronge men, nether breed is of wise men, nether richessis ben of techeris, ne grace is of crafti men''" ([http://wesley.nnu.edu/fileadmin/imported_site/biblical_studies/wycliffe/Ecc.txt]). I think the first English bible to use the same formulation as the King James is the [[Geneva Bible]] (1560): "''the race is not to the swift, nor the battell to the strong, nor yet bread to the wise, nor also riches to men of vnderstanding, neither yet fauour to men of knowledge''"([http://studybible.info/Geneva/Ecclesiastes%209]). - [[User:Lindert|Lindert]] ([[User talk:Lindert|talk]]) 09:08, 7 August 2014 (UTC)
+::It is indeed a literal translation of the Hebrew, but not of the construct state; Hebrew, like many languages, lacks the verb "to have" (used in this verse with the sense of "to win", "to get"), and uses the form "''something'' is to ''someone''" to mean "''someone'' has ''something''". Thus, a simpler translation would read "the swift do not win the race, the strong do not win the war..." [[User:הסרפד|<span style="font-family:'Times New Roman'" dir="rtl">הסרפד</span>]] ([[User talk:הסרפד|call me '''''Hasirpad''''']]) 17:14, 7 August 2014 (UTC)
+
+:That phrase is just a list of words connected by "nor" and "to", which is easy to translate into any language.  What's hard to translate are ambiguous words, puns, poetry, idioms ("speak of the devil!") and the like.  --[[User:Bowlhover|Bowlhover]] ([[User talk:Bowlhover|talk]]) 17:37, 7 August 2014 (UTC)
+
+== Any idea what this means? ==
+
+I was researching hazing deaths and I came across an incident from 1903. I've paraphrased the rest, but verbatim the last sentence:
+
+Shortly after being initiated into ΦΨΧ, German born Loew was found deceased in his dorm room while his South African roomate was found unconscious. Upon awakening, Loew's roomate described the hazing. A week prior, Loew was undressed, blindfolded, and taking into a room where he was laid on a block of ice. He was then carried upstairs to a balcony and thrown over the railing, a drop of 24 feet. Underneath the railing were students holding a sheet. When he fell onto the sheet, he was tossed up and down until he was unconscious. After reviving, he was beaten severely. He was given whisky and quinine that evening. The following Saturday, he took the second degree. In the morning, he was found dead, and his chum, who had just taken the first degree, was in serious condition. [http://books.google.com/books?id=hsIIAQAAIAAJ&pg=PA3&lpg=PA3&dq=Martin+Loew+hazing&source=bl&ots=750An_vpRS&sig=fIFKdUnGJcVQ1v0Qqmtvjb-RX4Y&hl=en&sa=X&ei=SQjjU6D0MY6nyASW-IDoCA&ved=0CCoQ6AEwAw#v=onepage&q=Martin%20Loew%20hazing&f=false source]
+
+Does anyone know what that last part means? He took the second degree while his chum took the first degree? I was in a sorority, so it's not some greek term as far as I'm aware. I'm wondering if it's a bit of outdated slang meaning something like, the one guy's beating was less severe than the other guy's. Has anyone come across this so far? [[User:Bali88|Bali88]] ([[User talk:Bali88|talk]]) 05:28, 7 August 2014 (UTC)
+
+:Possibly 'degree' was a term for a stage of initiation - as in the degrees of [[Freemasonry|masonic]] ritual. [[User:AndyTheGrump|AndyTheGrump]] ([[User talk:AndyTheGrump|talk]]) 05:37, 7 August 2014 (UTC)
+
+::Ditto. Within this context, 'degree' means 'phase/stage/level'. [[User:Plasmic Physics|Plasmic Physics]] ([[User talk:Plasmic Physics|talk]]) 06:11, 7 August 2014 (UTC)
+
+:::Might be where [[Third degree (interrogation)]] came from. [[User:InedibleHulk|InedibleHulk]] [[User_Talk:InedibleHulk|(talk)]] 10:44, 7 August 2014 (UTC)
+
+So let's say I wanted to include this example in a wikipedia article, how would you write it? It ''sounds'' like these events happened the weekend before he died and another set of events happened the next weekend, directly preceeding his death. Should I go ahead and say that the series of events was repeated? Should I just include the excerpt (and say that it's a verbatim excerpt)? What would you do? [[User:Bali88|Bali88]] ([[User talk:Bali88|talk]]) 13:44, 7 August 2014 (UTC)
+
+:Hmm...found this additional [http://news.google.com/newspapers?nid=2249&dat=19031119&id=TB00AAAAIBAJ&sjid=xOAIAAAAIBAJ&pg=1451,2665568 source], which is slightly clearer.
+
+== lever themselves upward ==
+
+The following comes from Martin Amis's "Lionel Asbo: State of England": "But it would be foolish to suppose that each and every gangbanger and posse-artist(and every Yardie and jihadi) in the entire manor had heard tell of the great asocial. And it was different at night, because different people, different shapes, levered themselves upward after dark... Des was fleet of foot, but he was otherwise unsuited to life in Diston Town." I find the phrase "levered themselves upward" puzzling. What does it possibly mean here? Would you enlighten me on this point? Thank you!  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/221.221.147.219|221.221.147.219]] ([[User talk:221.221.147.219|talk]]) 09:41, 7 August 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:Probably means they "got up" out of bed. There's an old saying said when seeing an unruly or strange person after dark, "[[They Only Come Out at Night (disambiguation)|They only come out at night]]". Des could run away from these shady types, but couldn't do much else with them. Diston Town seems like a rough place. [[User:InedibleHulk|InedibleHulk]] [[User_Talk:InedibleHulk|(talk)]] 10:50, 7 August 2014 (UTC)
+
+:This [https://www.youtube.com/watch?v=WHSPVNbF5lY song] doesn't have much to do with the question, but a little. It's also pretty good, if a bit weird. [[User:InedibleHulk|InedibleHulk]] [[User_Talk:InedibleHulk|(talk)]] 10:53, 7 August 2014 (UTC)
+:Surely it means "became part of a higher social class". Remember, English people are always obsessed with class! Those who are despised in the day are princes of the night. [[Special:Contributions/92.20.30.40|92.20.30.40]] ([[User talk:92.20.30.40|talk]]) 00:06, 8 August 2014 (UTC)
+::That's sometimes true, but I don't know. When we ascend social ladders, we tend to "climb" or "rocket" them. "Lever" suggest getting an elbow or hand underneath, and [http://idioms.thefreedictionary.com/pry+out+of prying] oneself out of bed.
+
+::But words often work on [[allusion|multiple levels]], especially in literature, so we can both be right. [[User:InedibleHulk|InedibleHulk]] [[User_Talk:InedibleHulk|(talk)]] 09:58, 8 August 2014 (UTC)
+
+== Japanese words for video, clip, motion picture, etc. ==
+
+What kind of video do the Japanese words "蔵出し画像" actually refer to? (Or what do these words really mean?)
+
+Thanks a million!
+
+--[[Special:Contributions/58.11.249.146|58.11.249.146]] ([[User talk:58.11.249.146|talk]]) 13:45, 7 August 2014 (UTC)
+:The words mean "brewery", but I don't know what it has to do with videos. '''[[User:Rcsprinter123|<span style="font-family:futura; font-size:11pt; color:#DF3A01">Rcsprinter<sub>123</sub></span>]]  ''' [[User talk:Rcsprinter123|<span style="font-family:copperplate; font-size:10pt; color:#488AC7">(state the obvious)</span>]] <small>@</small> 20:12, 7 August 2014 (UTC)
+::I'm pretty sure that {{nihongo|蔵出し|くらだし|kuradashi}} literally means "straight from the warehouse, etc." It is often used for sake, etc., but can be used more euphemistically to describe other things sold/released directly by the source, e.g., manufacturer, creator, etc., from their "storage facility". Since the "thing" in this case is a {{eigo|画像|gazō|image, etc.}}, my guess is that it is some kind of image, picture, photo, etc. which has never been publically released before, but is now available for viewing, sale, etc. directly from the source. Maybe it's something which has been sitting in some storage facility, or maybe it's something that has been part of somebody's personal private collection which is now being made available simply because the timing is right. For example, a photographer may take lots of photos of a certain subject just to have them on file for possible use at some later date or just for their own personal use. It is also possible that "kuradashi" is just being used for advertising reasons, i.e., to create the perception of being something "fresh" and "new" as in "never been seen before". These are just guesses. I'm sure somebody will correct me if I am wrong. {{p|smile}}  - [[User:Marchjuly|Marchjuly]] ([[User talk:Marchjuly|talk]]) 05:03, 8 August 2014 (UTC)
+:::I'm a native ja speaker. Marchjuly is right. [[User:Oda Mari|Oda Mari]] <small>([[User talk:Oda Mari|talk]])</small> 09:26, 8 August 2014 (UTC)
+:::: <small> Heh. When I read your first sentence, I thought you were pretending to be a German who knows only rudimentary English but is pretending to be a native English speaker.  Ja?  No?  :)  --  [[User:JackofOz|<font face="Papyrus">Jack of Oz</font>]] [[User talk:JackofOz#top|<span style="font-size:85%"><font face="Verdana" ><sup>[pleasantries]</sup></font></span>]] 22:27, 8 August 2014 (UTC) </small>
+:::::??? What made you think that way, {{reply to|JackofOz}}?  I am Japanese in Japan. [[User:Oda Mari|Oda Mari]] <small>([[User talk:Oda Mari|talk]])</small> 09:11, 9 August 2014 (UTC)
+:::::: "Ja" is the German word for "yes".  Ja?  Nein?  Sorry if this attempt at humour failed to amuse.  :)  --  [[User:JackofOz|<font face="Papyrus">Jack of Oz</font>]] [[User talk:JackofOz#top|<span style="font-size:85%"><font face="Verdana" ><sup>[pleasantries]</sup></font></span>]] 10:14, 9 August 2014 (UTC)
+:::::::Ja, I noticed, but it was too late. Sorry, my brain doesn't work well as it's too hot in Japan. You don't have to tell me that my English is poor and clumsy. I know it too well. You stay warm (ugh), I try to stay cool. [[User:Oda Mari|Oda Mari]] <small>([[User talk:Oda Mari|talk]])</small> 10:51, 9 August 2014 (UTC)
+:::::::: We have a deal.  --  [[User:JackofOz|<font face="Papyrus">Jack of Oz</font>]] [[User talk:JackofOz#top|<span style="font-size:85%"><font face="Verdana" ><sup>[pleasantries]</sup></font></span>]] 11:56, 9 August 2014 (UTC)
+::If it is for a film, could it mean [[direct-to-video]] as opposed to theatrical release? (Just a guess.) <font face="Century Gothic">&nbsp;&nbsp;&nbsp;→&nbsp;[[User:Michael J|Michael&nbsp;J]]&nbsp;[[User talk:Michael J|Ⓣ]]&nbsp;[[Special:Contributions/Michael J|Ⓒ]]&nbsp;[[Special:Emailuser/Michael_J|Ⓜ]]</font> 12:28, 9 August 2014 (UTC)
+::: I think the Japanese word {{nihongo4|[[:ja:オリジナルビデオ|オリジナルビデオ]]|orijinaru bideo}} is what is commonly used to describe direct-to-video releases. I don't think {{nihongo2|蔵出し映像|くらだしえいぞう|kuradashi eizō}} is used for such things, but not sure. - [[User:Marchjuly|Marchjuly]] ([[User talk:Marchjuly|talk]]) 07:10, 13 August 2014 (UTC)

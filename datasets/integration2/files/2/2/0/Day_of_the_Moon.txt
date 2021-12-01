@@ -1,0 +1,119 @@
+{{distinguish|Transformers: Dark of the Moon}}
+{{Good article}}
+{{Infobox Doctor Who episode
+| number             = 214b
+| serial_name        = Day of the Moon
+| show               = DW
+| type               = episode
+| image              = 
+| caption            = 
+| doctor             = [[Matt Smith (actor)|Matt Smith]] ([[Eleventh Doctor]])
+| companions         = 
+* [[Karen Gillan]] ([[Amy Pond]])
+* [[Arthur Darvill]] ([[Rory Williams]])
+* [[Alex Kingston]] ([[River Song (Doctor Who)|River Song]])
+| guests             = 
+*[[Mark Sheppard]] – Canton Everett Delaware III
+*[[Marnix van den Broeke]] – [[Silence (Doctor Who)|The Silence]]
+*[[Stuart Milligan]] – President [[Richard Nixon]]
+*[[Kerry Shale]] – Dr Renfrew
+*Glenn Wrage – Gardner
+*Jeff Mash – Grant
+*Sydney Wade – Little Girl
+*Tommy Campbell – Sergeant
+*Peter Banks – Doctor Shepherd
+*[[Frances Barber]] – [[List of Doctor Who villains#Madame Kovarian|Eye Patch Lady]]
+*Ricky Fearon – Tramp
+*[[Chuk Iwuji]] – Carl Peterson
+*Mark Griffin – Phil
+| director           = [[Toby Haynes]]
+| writer             = [[Steven Moffat]]
+| script_editor      = Caroline Henry
+| producer           = Marcus Wilson<ref>{{cite web|url=https://www.bbc.co.uk/doctorwho/dw/news/bulletin_110411_01/Matt_Smith_Video_and_New_Series_Overview|title=Matt Smith Video and New Series Overview|work=BBC|accessdate=15 April 2011}}</ref>
+| executive_producer = {{Unbulleted list| Steven Moffat | [[Piers Wenger]] |  [[Beth Willis (producer)|Beth Willis]] }}
+| composer           = [[Murray Gold]]
+| production_code    = 2.2
+| series             = [[Doctor Who (series 6)|Series 6]]
+| length             = 2nd of 2-part story, 45 minutes
+| date               = {{Start date|2011|4|30|df=y}}
+| preceding          = "[[The Impossible Astronaut]]"
+| following          = "[[The Curse of the Black Spot]]"
+}}
+
+"'''Day of the Moon'''" is the second episode of the [[Doctor Who (series 6)|sixth series]] of the British [[science fiction]] [[television series]] ''[[Doctor Who]]''. Written by show runner [[Steven Moffat]], and directed by [[Toby Haynes]], the episode was first broadcast on 30 April 2011 on [[BBC One]] in the United Kingdom and on [[BBC America]] in the United States. The episode is the second of a two-part story that began with "[[The Impossible Astronaut]]" on 23 April.
+
+In 1969 America, alien time traveller [[Eleventh Doctor|the Doctor]] ([[Matt Smith (actor)|Matt Smith]]) along with his [[Companion (Doctor Who)|companions]] [[Amy Pond]] ([[Karen Gillan]]) and [[Rory Williams]] ([[Arthur Darvill]]), archaeologist [[River Song (Doctor Who)|River Song]] ([[Alex Kingston]]) and [[FBI]] [[special agent|agent]] Canton Everett Delaware III ([[Mark Sheppard]]), attempt to lead the human race into a revolution against the [[Silence (Doctor Who)|Silence]], a religious order of aliens who cannot be remembered after they are encountered.
+
+"The Impossible Astronaut" and "Day of the Moon" were designed to be a darker opener to the series and were partially filmed in the United States, a first for the programme. Moffat was keen on incorporating [[Area 51]], the [[Apollo 11]] [[Moon landing]], and President [[Richard Nixon]] (played by [[Stuart Milligan]]) into the plot. The episode received final viewing figures of 7.3 million in the UK. It received generally positive reviews from critics, though many worried about the number of questions that had been left unanswered.
+
+==Plot==
+
+===Synopsis===
+<!--THIS IS A CONCISE PLOT SYNOPSIS, DO NOT ADD DETAIL-->
+The [[Eleventh Doctor]] and his allies, [[Amy Pond|Amy]], [[Rory Williams|Rory]], [[River Song (Doctor Who)|River Song]] and ex-[[FBI]] agent Canton Everett Delaware III, escape the girl in the space suit, and spend three months tracking down the alien religious order the [[Silence (Doctor Who)|Silence]] and find they exist across the entire planet, and have the ability to place post-hypnotic suggestions in humans they encounter. While the Doctor alters part of the [[Apollo Command/Service Module|command module]] of [[Apollo 11]], Canton and Amy visit a nearby orphanage in Florida, hoping to find where the girl in the space suit was taken from. The Silence kidnaps Amy, taking her to an underground control room. Canton shoots and wounds one of the creatures, and from it the Doctor learns the Silence's name.
+
+Analysing the now-empty space suit, River realises that the girl possesses incredible strength to have forced her way out of it, and that the suit's advanced life-support technology would have called President [[Richard Nixon|Nixon]] as the highest authority figure on Earth when the girl got scared. The Doctor realises why the Silence have been controlling humanity; by guiding their technological advances, they have influenced humanity into the [[Space Race]] for purposes of building a space suit, which must somehow be crucial to their intentions. Meanwhile, Canton interrogates the captured Silence member, who mocks humanity for treating him when "...you should kill us all on sight". Canton records this using Amy's mobile phone.
+
+The Doctor tracks down Amy's location, and lands the TARDIS in the Silence's control room five days later. As River and Rory hold the Silence at bay, the Doctor shows them the live broadcast of the Moon landing. As they watch, the Doctor uses his modification of the Apollo [[command module Columbia|command module ''Columbia'']] to insert Canton's recording of the wounded Silence member into the footage of the landing. Because of this message, humans will now turn upon the Silence whenever they see them. The group frees Amy and departs in the TARDIS, while River kills all the Silence in the control room. Amy, telling the Doctor that while she is not pregnant, she worries that if she is pregnant, her travels in the TARDIS might affect her child's development. <!--do not alter this sentence, see talk page-->As the trio sets off, the Doctor discreetly uses the TARDIS scanner to attempt to determine if Amy is pregnant.<!--do not alter this sentence, see talk page--> Six months later, the girl in the space suit is in New York, dying. She starts to regenerate to fix her body.
+
+===Continuity===
+The Silence's 'time engine' set was previously used in "[[The Lodger (Doctor Who)|The Lodger]]".<ref name="confidential" /> The Doctor describes it as "very Aickman Road", a reference to the house the ship occupied in that episode.<ref name="4thdimension">{{cite web|url=https://www.bbc.co.uk/programmes/b010y5l3|title=Day of the Moon: The Fourth Dimension|publisher=[[BBC]]|accessdate=5 August 2011}}</ref> When the Silence reveals their name to the Doctor, the Doctor has flash-backs to "[[The Eleventh Hour (Doctor Who)|The Eleventh Hour]]" and "[[The Vampires of Venice]]", the first mentions of the Silence.<ref name="4thdimension" /> The "[[List of Doctor Who villains#Madame Kovarian|Eye Patch Lady]]" ([[Frances Barber]]) appears for the first time in this episode, and makes similar appearances in "[[The Curse of the Black Spot]]"<ref name="DScurse">{{cite web|first=Morgan|last=Jeffery|url=http://www.digitalspy.com/british-tv/s7/doctor-who/news/a318129/doctor-who-review-the-curse-of-the-black-spot.html|title='Doctor Who' review: 'The Curse of the Black Spot'|publisher=[[Digital Spy]]|date=7 May 2011|accessdate=10 December 2011}}</ref> and "[[The Rebel Flesh]]"<ref>{{cite web|first=Richard|last=Edwards|url=http://www.sfx.co.uk/2011/05/21/doctor-who-6-05-%E2%80%9Cthe-rebel-flesh%E2%80%9D-review/|title=Doctor Who: "The Rebel Flesh" – TV Review|work=SFX|date=21 May 2011|accessdate=10 December 2011}}</ref> before her connection to Amy is revealed in "[[The Almost People]]".<ref>{{cite episode|title=[[The Almost People]]|series=[[Doctor Who]]|airdate=28 May 2011|credits=[[Matthew Graham]] (writer), Julian Simpson (director), Marcus Wilson (producer)|network=[[BBC]]|station=[[BBC One]]|seriesno=6|number=6}}</ref> The Doctor uses the TARDIS's scanners to detect Amy's alternating pregnancy state. The Doctor repeats the scan with the same results in "The Curse of the Black Spot"<ref name="DScurse" /> and "The Rebel Flesh".<ref>{{cite web|first=Dan|last=Martin|url= https://www.theguardian.com/tv-and-radio/tvandradioblog/2011/may/21/doctor-who-the-rebel-flesh|title=Doctor Who: The Rebel Flesh&nbsp;— Series 32, episode 5|work=[[The Guardian]]|date=21 May 2011|accessdate=10 December 2011}}</ref>
+
+The Doctor and Rory discuss both being present at the fall of Rome. As an [[Auton]], Rory guarded the Pandorica from the Roman era to the present day in "[[The Big Bang (Doctor Who)|The Big Bang]]",<ref>{{cite episode|title=[[The Big Bang (Doctor Who)|The Big Bang]]|series=[[Doctor Who]]|airdate=26 June 2010|credits=[[Steven Moffat]] (writer), [[Toby Haynes]] (director), [[Peter Bennett (producer)|Peter Bennett]] (producer)|network=[[BBC]]|station=[[BBC One]]|seriesno=5|number=13}}</ref> and the [[First Doctor]] indirectly instigated the [[Great Fire of Rome]] in ''[[The Romans (Doctor Who)|The Romans]]'' (1965).<ref>{{cite web|first=Christopher|last=Bahn|url=http://www.avclub.com/articles/the-romans,85203/|title=The Romans|work=[[The A.V. Club]]|date=30 September 2012|accessdate=27 March 2013}}</ref> The Doctor is held captive in Area 51, which he had visited previously in the [[Tenth Doctor]] animated serial ''[[Dreamland (Doctor Who)|Dreamland]]''.<ref name="4thdimension" />
+
+==Production==
+[[File:Mark A. Sheppard by Gage Skidmore.jpg|thumb|200px|The opening scene was based on guest actor Mark Sheppard's history of being villains in American television roles.]]
+Steven Moffat, head writer of the new series, said before broadcast that this would be one of the darkest openers to a series ever done for ''Doctor Who''.<ref name="BBCnews"/> Director [[Toby Haynes]] believed that the darker episodes like "[[The Impossible Astronaut]]" and "Day of the Moon" would allow the series to get into "more dangerous territory."<ref name="confidential">{{cite episode |title=Breaking the Silence |series=[[Doctor Who Confidential]] |network=[[BBC]] |station=[[BBC Three]] |airdate=30 April 2011 |seriesno=6 |number=2}}</ref> The creation of the Silence was partly inspired by the figure from the [[Edvard Munch]] painting ''[[The Scream]]''.<ref name="BBCnews">{{cite news | url=https://www.bbc.co.uk/news/entertainment-arts-12969897 | title=Doctor Who boss says season start is 'darkest yet' | date=5 April 2011 | accessdate=7 April 2011 | publisher=BBC}}</ref> Introducing the alien villains became a "big challenge" for the producers; it would tie in with the loose "silence will fall" arc that carried through the fifth series. Moffat did not wish to end the arc in the previous series, as he felt it would be "more fun" to continue it. Elsewhere in the episode, Delaware was written to be deceptively antagonistic towards the protagonists, which was based on actor Mark Sheppard's past as villains for his work in American television. Moffat was also keen on the idea of having the Doctor imprisoned with a beard in Area 51.<ref name="confidential"/> Smith wore a glued-on beard, which was difficult to peel off.<ref>{{cite web|first=Justin|last=Harp|url=http://www.digitalspy.com/british-tv/s7/doctor-who/news/a301726/matt-smith-wore-fake-beard-for-who-ep.html|title=Matt Smith 'wore fake beard for Who ep'|publisher=[[Digital Spy]]|date=2 February 2011|accessdate=11 June 2012}}</ref>
+
+Incorporating Nixon into the plot was accidental; Moffat wanted to set the story during the Moon landing and looked up the United States president during the time. He was initially disappointed that it was such a "rubbish one" and briefly considered using a generic, unnamed president, such as the one seen in "[[The Sound of Drums]]". However, he thought it "didn't feel right for a story partly about real events" and realised it could be fun to use Nixon. He believed there was something "comically awkward" about him, and it would be interesting for the Doctor to have to work with someone he did not like.<ref>{{cite book|last=Hickman|first=Clayton|title=The Brilliant Book 2012|year=2011|publisher=[[BBC Books]]|isbn=978-1849902304|page=27}}</ref> The episode makes references to the [[Watergate scandal]] and [[David Frost]].<ref name="4thdimension"/>
+
+Many of the opening scenes of the episode were filmed on location in the United States. The sequence where Delaware chases Amy was shot in the [[Valley of the Gods]] in [[Utah]]. Gillan found it difficult to run because of the altitude.<ref name="confidential" /> The scene in which Amy confronts Canton was originally watched by three Silence in the script, but this did not make it to the film version.<ref name="4thdimension" /> The sequence where Delaware chases Rory was shot at the [[Glen Canyon Dam]] in [[Arizona]]. The Dam sequence was the final scene to be shot in the States.<ref name="confidential"/> "The Impossible Astronaut" and "Day of the Moon" marked the first time that ''Doctor Who'' has filmed [[principal photography]] footage within the United States.<ref>{{cite web|first=Kevin|last=Wicks|url=http://www.bbcamerica.com/anglophenia/2010/10/its-official-doctor-who-to-film-in-the-us-for-the-first-time/|title=It's Official: 'Doctor Who' To Film in the U.S. For the First Time|publisher=[[BBC America]]|date=10 October 2010|accessdate=5 May 2012}}</ref> The sequence where Delaware chases River in [[New York City]] was shot in central [[Cardiff]]. A set was later constructed in a studio for the jump sequence, and Kingston was replaced by a stunt woman to perform the jump. The scenes set in Area 51 were filmed in a large disused hangar in South Wales.<ref name="confidential"/>
+
+The Florida orphanage was filmed at the abandoned [[Troy House]] in [[Monmouthshire]]. To add the effect that a storm is outside the building, the production crew placed rain machines outdoors and flashing lights to simulate [[lightning]]. The Silence were portrayed by [[Marnix van den Broeke]] and other performers. The masks caused vision difficulties for the performers, who had to be guided by two people when they had to walk. Van den Broeke did not provide the voices of the Silence, as it was replaced during post-production. The control room set used from "[[The Lodger (Doctor Who)|The Lodger]]" was used again for this episode. Moffat wanted the set to be used again, feeling it would be a suitable Silence base. The set was adapted to give it a darker, evil feel.<ref name="confidential"/>
+
+==Broadcast and reception==
+"Day of the Moon" was first broadcast on [[BBC One]] on 30 April 2011 at 6 pm<ref>{{cite press release |url=https://www.bbc.co.uk/pressoffice/proginfo/tv/2011/wk18/sat.shtml#sat_drwho|title=Network TV BBC Week 18: Saturday 30 April 2011 |accessdate=5 August 2011 |publisher=[[BBC]]}}</ref> and on the same date on [[BBC America]] in the United States.<ref>{{cite web|url=http://www.bbcamerica.com/doctor-who/guide/season-6/episode-2/|title=Day of the Moon|publisher=[[BBC America]]|accessdate=5 August 2011}}</ref> Initial overnight ratings showed that the episode had been watched by 5.4 million viewers, a decrease of 1.1 million from the previous week.<ref>{{cite web |url=http://www.digitalspy.co.uk/tv/s7/doctor-who/news/a317300/doctor-who-audience-slips-to-54m.html |title='Doctor Who' audience slips to 5.4m |first=Paul |last=Millar |date=1 May 2011 |accessdate=2 May 2011 |publisher=[[Digital Spy]]}}</ref> The episode received final ratings of 7.3 million viewers on BBC One, seventh for the week on that channel.<ref>{{cite web|url=http://www.barb.co.uk/whats-new/weekly-top-10?_s=4|title=Weekly Top 10 Programmes|publisher=Broadcasters' Audience Research Board|accessdate=8 May 2011}}</ref> It received an [[Appreciation Index]] of 87, considered "excellent".<ref>{{cite web |url=http://www.doctorwhonews.net/2011/05/dwn020511130312-day-of-moon-scores-ai.html |title=Day of the Moon scores AI of 87 |date=2 May 2011 |accessdate=3 May 2011 |publisher=Doctor Who News}}</ref>
+
+===Critical reception===
+The episode was met with generally positive reviews from television critics. Dan Martin of ''[[The Guardian]]'' praised the episode for its "action, tension, horror and River Song in a business suit," but felt it "sags a little around the middle."<ref name=guardianrv/> Martin believed the scenes with Amy and Delaware in the orphanage were the "fear factor" of the episode.<ref name=guardianrv>{{cite news |url=https://www.theguardian.com/tv-and-radio/tvandradioblog/2011/apr/30/doctor-who-day-of-the-moon |title=Doctor Who: Day of the Moon&nbsp;— Series 32, episode 2 |first=Dan |last=Martin |date=30 April 2011 |accessdate=2 May 2011 |work=[[The Guardian]] |publisher=[[Guardian Media Group]]}}</ref> He later rated it the fourth best episode of the series, though [[The Wedding of River Song|the finale]] was not included in the list.<ref>{{cite web|first=Dan|last=Martin|url=https://www.theguardian.com/tv-and-radio/tvandradioblog/2011/sep/30/best-episode-13th-doctor-who|title=Doctor Who: which is the best episode of this series?|work=The Guardian|date=30 September 2011|accessdate=20 November 2011}}</ref> Morgan Jeffery of [[Digital Spy]] stated "after the sensational opening gambit that kicked off the series premiere, it's perhaps unsurprising that 'Day of the Moon' starts with a similarly thrilling onslaught of action."<ref name="digspyrv"/> Jeffery was positive towards the nano-recorder, which provided the episode with "a number of unsettling moments in which characters listen back to their own terrified exclamations about the Silents."<ref name="digspyrv"/> However, Jeffery felt the final scenes "expose this episode's chief flaw&nbsp;— quite simply, too much is left unresolved."<ref name="digspyrv"/> In conclusion, the reviewer stated "While 'The Impossible Astronaut' aced the set-up, 'Day of the Moon' falters slightly in providing the resolution."<ref name="digspyrv"/> Jeffery rated the episode four stars out of five.<ref name="digspyrv">{{cite web |url=http://www.digitalspy.co.uk/tv/s7/doctor-who/news/a316937/doctor-who-review-day-of-the-moon.html |title='Doctor Who' review: 'Day of the Moon' |first=Morgan |last=Jeffery |publisher=[[Digital Spy]] |date=1 May 2011 |accessdate=4 May 2011}}</ref>
+
+Tom Phillips of ''[[Metro (British newspaper)|Metro]]'' stated that "Amy and Canton's sojourn to the orphanage was not just a high-mark for sheer skin-crawling horror on recent mainstream telly&nbsp;— that image of The Silence nesting on the ceiling like cadaverous bat-people will live on in the nightmares of many, many children&nbsp;— but also genuinely, properly weird."<ref name="metrorv">{{cite news |first=Tom |last=Phillips |title=Doctor Who review&nbsp;— spooky, exciting and crammed with plot twists |url=http://www.metro.co.uk/tv/reviews/862054-doctor-who-review-spooky-exciting-and-crammed-with-plot-twists |work=[[Metro (British newspaper)|Metro]] |publisher=[[Associated Newspapers]] |date=29 April 2011 |accessdate=4 May 2011}}</ref> Dave Golder from ''[[SFX (magazine)|SFX]]'' thought that although the series was "shaping up to be like no other before it, as the show moves even further away from its traditional series of sequential standalone stories format and more towards ''[[Lost (TV series)|Lost]]'' style storytelling", that the episode "is no mere exercise in delayed gratification. You want fun? You want creepy? You want action? You've got it&nbsp;– all not-so-neatly tied up with a neat bow tie."<ref name="SFXrv"/> Golder went on to state that "once again we're treated to some outstanding direction, glorious performances, near flawless FX and gorgeous locations ... "Day Of The Moon" is huge fun, effortlessly entertaining, beguilingly bat's-arse  and blessed with a cliffhanger so jawdroppingly unexpected it's bound to keep viewers hooked". He gave the episode a rating of four out of five stars.<ref name="SFXrv">{{cite news |first=Dave|last=Golder|title=Doctor Who 6.02 "Day Of The Moon" TV Review |url=http://www.sfx.co.uk/2011/04/29/doctor-who-6-02-%E2%80%9Cday-of-the-moon%E2%80%9D-tv-review/ |work=[[SFX (magazine)|SFX]] |publisher=[[Future plc]] |date=29 April 2011 |accessdate=4 May 2011}}</ref>
+
+[[IGN]] reviewer Matt Risley rated the episode 9 out of 10, saying it "maintained the thrills, chills and scalp-scratching plot twists of "The Impossible Astronaut", whilst somehow tweaking its predecessor's thundering pace into 45 minutes of near-perfectly plotted TV."<ref name="IGN">{{cite web|first=Matt|last=Risley|url=http://tv.ign.com/articles/116/1165330p1.html|title=Doctor Who: "Day of the Moon" review|publisher=[[IGN]]|date=30 April 2011|accessdate=5 August 2011}}</ref> When comparing it to "The Impossible Astronaut", he said it was "scarier, creepier...and more action packed in every way...[and] also managed to leave things on a suitably epic, mythos-expanding note."<ref name="IGN" /> He concluded, "the show as a whole has a brand new energy, and we can't wait to see where ''Who'' goes from here."<ref name="IGN" />
+
+Gavin Fuller of ''[[The Daily Telegraph]]'' was more critical with the episode, stating, "having set up an interesting cliffhanger last week, it was a tad annoying that Steven Moffat did his trick again of taking a swerve with the pre-credits section of this week's episode, and more supposed shock value with the shootings of Amy and Rory," but also more annoyed "that what exactly was going on here, and how it was influenced by the events of the previous episode, were never exactly explained, leaving the audience to fill in the blanks."<ref name="telegraphrv"/> Fuller believed that the plot and ending "only raised more questions than answers," believing that the overarching storyline would "require the audience's concentration over many weeks; any casual viewer tuning in this week, and I suspect not a few fans, will have been left baffled by the goings-on," but still felt the episode "was interesting and showed just how, when the writers use their imagination, ''Doctor Who'' can tell stories in a way little else on television can."<ref name="telegraphrv">{{cite news |url=https://www.telegraph.co.uk/culture/tvandradio/8479708/Doctor-Who-episode-2-Day-of-the-Moon-review.html |title=Doctor Who, episode 2: Day of the Moon, review |first=Gavin |last=Fuller |date=30 April 2011 |accessdate=4 May 2011 |work=[[The Daily Telegraph]] |publisher=Telegraph Media Group}}</ref>
+
+==See also==
+* [[Apollo 11 in popular culture]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikiquote|Eleventh Doctor}}
+*{{TardisIndexFile|Day of the Moon}}
+*{{imdb episode|1723889}}
+*{{BBCDWnew | year=2011 | id=b010y5l3 | title=Day of the Moon}}
+
+<!--
+*{{Doctor Who RG|id=who_tv59|title=Day of the Moon|quotes=y}}
+===Reviews===
+*{{DWRG|id=daymoon|title=Day of the Moon}}
+-->
+
+{{Doctor Who episodes|N6}}
+{{Doctor Who episodes by Steven Moffat |state=autocollapse}}
+{{Regeneration stories}}
+{{River Song stories}}
+{{Richard Nixon|state=collapsed}}
+
+[[Category:Cultural depictions of Richard Nixon]]
+[[Category:Fiction set in 1969]]
+[[Category:Fiction set in 1970]]
+[[Category:Television episodes written by Steven Moffat]]
+[[Category:2011 British television episodes]]
+[[Category:Eleventh Doctor episodes]]
+[[Category:Doctor Who pseudohistorical serials]]
+[[Category:Doctor Who stories set on Earth]]
+[[Category:Television episodes set in Washington, D.C.]]
+[[Category:Television episodes directed by Toby Haynes]]

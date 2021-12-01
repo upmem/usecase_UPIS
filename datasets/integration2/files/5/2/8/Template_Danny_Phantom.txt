@@ -1,0 +1,49 @@
+{{Navbox
+| name = Danny Phantom
+|title = ''[[Danny Phantom]]''
+|state = {{{state|autocollapse}}}
+|bodyclass = hlist
+|basestyle = background:#5cff72
+
+|above=
+* [[List of Danny Phantom episodes|Episodes]]
+* [[List of Danny Phantom characters|Characters]]
+
+|group2= Video games
+| list2 = {{Navbox|child|evenodd=swap
+| listclass = hlist
+| basestyle = background:#5cff72
+| group1 = Main series
+| list1  = 
+* ''[[Danny Phantom: The Ultimate Enemy|Ultimate Enemy]]''
+* ''[[Danny Phantom: Urban Jungle|Urban Jungle]]''
+
+| group2 = Other games
+| list2  = 
+* ''[[Nicktoons: Freeze Frame Frenzy]]''
+* ''[[Nicktoons Movin']]''
+* ''[[Nicktoons Unite!]]''
+* ''[[Nicktoons Winners Cup Racing]]''
+* ''[[Nicktoons: Battle for Volcano Island]]''
+* ''[[Nicktoons: Attack of the Toybots]]''
+* ''[[SpongeBob SquarePants featuring Nicktoons: Globs of Doom|Nicktoons: Globs of Doom]]''
+* ''[[Nicktoons Nitro]]''
+* ''[[Nicktoons MLB]]''
+* ''[[Nickelodeon Kart Racers 2: Grand Prix|Nickelodeon Kart Racers 2]]''
+
+}}
+
+|group3= Related pages
+|list3 =
+* ''[[Danny Phantom Ghost Zone]]''
+
+| below =
+* {{Icon|Category}} '''[[:Category:Danny Phantom|Category]]'''
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Nickelodeon navigational boxes]]
+[[Category:Nicktoons navigational boxes]]
+[[Category:American animated series navigational boxes]]
+[[Category:Danny Phantom|-]]
+</noinclude>

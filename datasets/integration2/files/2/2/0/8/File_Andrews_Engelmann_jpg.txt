@@ -1,0 +1,19 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Still of actor Andrews Engelmann for https://en.wikipedia.org/wiki/Andrews_Engelmann
+|Source = '''Original publication''': unknown<br/>
+'''Immediate source''': https://alchetron.com/Andrews-Engelmann
+|Date = unknown
+|Author = unknown
+|Article = Andrews Engelmann
+|Purpose = for visual identification of the person in question, at the top of his/her biographical article
+|Replaceability = No free equivalent exists that would effectively identify the individual in question. Free images are not available as the actor worked in the copyrighted media of theatre & film. A replaceable free photo for this individual is impossible as he is deceased.
+|Minimality = a / The image is of sufficient res. for the article and for identification purposes, but lower res. than the original image.
+b / It is the sole intended image for the article.
+|Commercial = The copy is of sufficient res. for commentary and I.D., but lower res. than the original. Copies made from it will be of inferior quality, unsuitable as pirate versions or other uses that would compete with any commercial purpose of the original still.
+|Other information = The subject of the photograph has been deceased since: 25 February 1992<br/>
+Image is important to illustrate/provide visual info. for the article. Use of the image in no way violates the copyright holder's legal rights.
+}}
+
+==Licensing==
+{{Non-free biog-pic|Andrews Engelmann}}

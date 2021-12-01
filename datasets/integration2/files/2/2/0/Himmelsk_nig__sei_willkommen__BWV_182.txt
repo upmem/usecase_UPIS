@@ -1,0 +1,156 @@
+{{Infobox Bach composition
+| title                 = {{lang|de|Himmelskönig, sei willkommen}}
+| bwv                   = 182
+| type                  = [[Church cantata (Bach)|Church cantata]]
+| image                 = Schlosskirche Weimar 1660.jpg
+| image_upright         = 0.8
+| caption               = The [[Schlosskirche, Weimar|''Schlosskirche'' in Weimar]]
+| occasion              = {{plainlist|
+* [[Palm Sunday]]
+* [[Annunciation]]
+}}
+| performed             = {{Timeline-event|date={{Start date|1714|03|25|df=y}}|location=[[Weimar]]}}
+| movements             = 8
+| text_poet             = [[Salomon Franck]]
+| chorale               = [[Jesu Leiden, Pein und Tod]] by [[Paul Stockmann]]
+| vocal                 = {{plainlist|
+* [[SATB|{{abbr|SATB|soprano, alto, tenor and bass}}]] choir
+* solo: alto, tenor and bass
+}}
+| instrumental          = {{hlist | recorder | 2 violins | 2 violas | continuo}}
+| italic title = no
+}}
+[[File:Giotto - Scrovegni - -26- - Entry into Jerusalem2.jpg|right|thumb|[[Giotto di Bondone|Giotto]]: ''Entry into Jerusalem'']]
+'''{{lang|de|Himmelskönig, sei willkommen}}''' (King of Heaven, welcome),<ref name="Dellal" /> '''{{abbr|BWV|Bach-Werke-Verzeichnis (catalogue of Bach's works)}}{{nbsp}}182''', is a [[Bach cantata|church cantata]] by [[Johann Sebastian Bach]]. He composed it in Weimar for [[Palm Sunday]], and first performed it on 25 March 1714, which was also the feast of the [[Annunciation]] that year.
+
+== History and words ==
+In Weimar, Bach was the court organist of [[Prince Johann Ernst of Saxe-Weimar|Johann Ernst von Sachsen-Weimar]]. On 2 March 1714, he was promoted to {{lang|de|Konzertmeister}}, an honour which included a monthly performance of a church cantata in the {{lang|de|Schlosskirche}}.<ref name="Bredenbach" /><ref name="Koster" /> According to Bach scholar [[Alfred Dürr]], this cantata is Bach's first cantata in a series which was meant to cover all Sundays within four years.<ref name="Mincham" /> However, [[Widerstehe doch der Sünde, BWV 54|''Widerstehe doch der Sünde'', BWV 54]] has also been proposed as the first.
+In any event, BWV 182 preceded {{lang|de|[[Weinen, Klagen, Sorgen, Zagen, BWV 12|''Weinen, Klagen, Sorgen, Zagen'', BWV 12]]|italic=unset}}.
+
+Bach composed the cantata for the [[Marian feast]] of the [[Church cantata#Annunciation (25 March)|Annunciation]], always celebrated on 25 March, which fell on Palm Sunday in 1714. Other than in Leipzig, where ''[[tempus clausum]]'' was observed during [[Lent]] and no cantatas were permitted, Bach could perform in Weimar a cantata especially meant for the [[Triumphal entry into Jerusalem|entry of Jesus into Jerusalem]]. The prescribed readings for the day were from the [[Epistle to the Philippians]], "everyone be in the spirit of Christ" ({{Sourcetext|source=Bible|version=King James|book=Philippians|chapter=2|verse=5|range=–11}}), or from the [[First Epistle to the Corinthians]], "of the Last Supper" ({{Sourcetext|source=Bible|version=King James|book=1 Corinthians|chapter=11|verse=23|range=–32}}), and from the [[Gospel of Matthew]], the entry into Jerusalem ({{Sourcetext|source=Bible|version=King James|book=Matthew|chapter=21|verse=1|range=–9}}).<ref name="Dürr" />
+
+The poetry was written by the court poet [[Salomon Franck]], although the work is not found in his printed editions. Bach's biographer [[Philipp Spitta]] concluded this from stylistic comparison and observing a lack of [[recitative]]s between [[aria]]s. The poetry derives from the entry into Jerusalem a similar entry into the heart of the believer, who should prepare himself and will be given heavenly joy in return. The language intensifies the mystical aspects: {{lang|de|Himmelskönig}} (King of Heaven),<ref name="Dellal" /> "{{lang|de|Du hast uns das Herz genommen|italic=no}}" (You have taken our hearts from us),<ref name="Dellal" /> "{{lang|de|Leget euch dem Heiland unter|italic=no}}" (Lay yourselves beneath the Savior).<ref name="Dellal" /> The chorale in [[Movement (music)|movement]] 7 is the final [[stanza]] 33 of [[Paul Stockmann]]'s hymn for [[Passiontide]] "[[Jesu Leiden, Pein und Tod]]" (1633).
+
+A [[da capo]] sign after the last aria in some parts suggests that originally the cantata was meant to be concluded by a repeat of the opening chorus.
+
+Bach first performed it in the Schlosskirche on [[Church cantata#Palm Sunday|Palm Sunday]], 25 March 1714. As Bach could not perform the cantata in Leipzig on Palm Sunday, he used it on the feast of the [[Annunciation]] on 25 March 1724, which had coincided with Palm Sunday for the first performance as well. He performed it in Leipzig two more times.<ref name="Dürr" />
+
+== Structure and scoring ==
+
+The cantata in eight movements is scored for [[alto]], [[tenor]], and [[Bass (voice type)|bass]] soloists, a [[SATB|four-part choir]], [[Recorder (musical instrument)|recorder]], two [[violin]]s, two [[viola]]s and [[Figured bass#Basso continuo|basso continuo]].<ref name="Dürr" />
+
+# Sonata
+# Chorus: {{lang|de|Himmelskönig, sei willkommen}}
+# Recitative (bass): {{lang|de|Siehe, ich komme, im Buch ist von mir geschrieben}}
+# Aria (bass): {{lang|de|Starkes Lieben}}
+# Aria (alto): {{lang|de|Leget euch dem Heiland unter}}
+# Aria (tenor): {{lang|de|Jesu, laß durch Wohl und Weh}}
+# Chorale: {{lang|de|Jesu, deine Passion ist mir lauter Freude}}
+# Chorus: {{lang|de|So lasset uns gehen in Salem der Freuden}}
+
+== Music ==
+The cantata is intimately scored to match the church building. An instrumental ''Sonata'' in the rhythm of a [[French Overture]] depicts the arrival of the King.<ref name="Dürr" /> (In his cantata {{lang|de|[[BWV 61|''Nun komm, der Heiden Heiland'', BWV 61]]|italic=unset}}, for Advent that same year on the same reading, Bach went further and set a chorus in the form of such an overture). The recorder and a solo violin are accompanied by ''[[pizzicato]]'' in the divided violas and the continuo.<ref name="Mincham" /> The first chorus is in da capo form, beginning with a [[fugue]], which leads to a [[Homophony|homophonic]] conclusion. The middle section contains two similar [[Canon (music)|canonic]] developments.<ref name="Dürr" />
+
+The following biblical quotation is set as the only recitative of the cantata. It is given to the bass as the ''[[vox Christi]]'' (voice of Christ) and expands to an [[arioso]].<ref name="Mincham" /> The instrumentation of the three arias turns from the crowd in the Biblical scene to the individual believer, the first accompanied by violin and divided violas, the second by a lone recorder, the last only by the continuo.<ref name="Dürr" />
+
+The chorale is arranged as a [[chorale fantasia]] in the manner of [[Pachelbel]]; every line is first prepared in the lower voices, then the soprano sings the [[cantus firmus]], while the other voices interpret the words, for example by fast movement on "{{lang|de|Freude}}" (joy).<ref name="Dürr" /> The closing chorus is, according to conductor [[John Eliot Gardiner]], "a sprightly choral dance that could have stepped straight out of a comic opera of the period".<ref name="Gardiner" />
+
+== Recordings ==
+* ''Les Grandes Cantates de J. S. Bach Vol. 9'', [[Fritz Werner]], [[Heinrich-Schütz-Chor Heilbronn]], [[Pforzheim Chamber Orchestra]], [[Claudia Hellmann]], [[Helmut Krebs]], [[Erich Wenk]], [[Erato Records|Erato]] 1961
+* ''J. S. Bach: Kantaten 106 · 182'', [[Jürgen Jürgens]], [[Monteverdi-Chor Hamburg]], [[Leonhardt Consort]], [[Julia Falk]], [[Bert van t'Hoff]], [[Jacques Villisech]], [[Telefunken]] 1963
+* ''Bach Cantatas Vol. 2 – Easter'', [[Karl Richter (conductor)|Karl Richter]], [[Münchener Bach-Chor]], [[Münchener Bach-Orchester]], Alto: [[Anna Reynolds (singer)|Anna Reynolds]], [[Peter Schreier]], [[Theo Adam]], [[Archiv Produktion]] 1975
+* ''Die Bach Kantate Vol. 29'', [[Helmuth Rilling]], [[Gächinger Kantorei]], [[Bach-Collegium Stuttgart]], [[Doris Soffel]], [[Aldo Baldin]], [[Philippe Huttenlocher]], [[Hänssler Classic|Hänssler]] 1975
+* ''J. S. Bach: Das Kantatenwerk – Sacred Cantatas Vol. 9'', [[Nikolaus Harnoncourt]], [[Tölzer Knabenchor]], [[Concentus Musicus Wien]], [[Paul Esswood]], [[Kurt Equiluz]], [[Robert Holl]], [[Teldec]] 1988
+* ''J. S. Bach: Complete Cantatas Vol. 2'', [[Ton Koopman]], [[Amsterdam Baroque Orchestra & Choir]], [[Kai Wessel (countertenor)|Kai Wessel]], [[Christoph Prégardien]], [[Klaus Mertens]], Antoine Marchand 1995
+* ''J. S. Bach: Christ lag in Todesbanden; Lobet den Herrn; Himmelskönig sei willkommen'', [[Philippe Pierlot]], [[Choeur de Chambre de Namur]], [[Ricercar Consort]], [[Steve Dugardin]], [[Ian Honeyman]], [[Max van Egmond]], Ricercar 1995
+* ''Cantata BWV 182'', [[Masaaki Suzuki]], [[Bach Collegium Japan]], [[Yoshikazu Mera]], [[Makoto Sakurada]], [[Peter Kooy]], [[BIS Records|BIS]] 1996
+* ''Bach Cantatas Vol. 21: Cambridge/Walpole St Peter'', [[John Eliot Gardiner]], [[Monteverdi Choir]], [[English Baroque Soloists]], [[Nathalie Stutzmann]], [[James Gilchrist (tenor)|James Gilchrist]], [[Peter Harvey (bass)|Peter Harvey]], [[Soli Deo Gloria (label)|Soli Deo Gloria]] 2000
+
+== References ==
+{{reflist | 30em
+| refs =
+
+<ref name="Bredenbach">{{cite web
+| last = Bredenbach
+| first = Ingo
+| url = http://www.bachchor-tuebingen.de/dateien/Programm.pdf
+| title = Programmeinführung
+| publisher = Bachchor Tübingen
+| language = German
+| accessdate = 8 April 2010
+}}</ref>
+
+<ref name="Dellal">{{cite web
+| last = Dellal
+| first = Pamela
+| authorlink = Pamela Dellal
+| url = http://www.emmanuelmusic.org/notes_trans/transl_cantata/bwv182.htm
+| title = BWV 182 - "Himmelskönig, sei willkommen"
+| publisher = Emmanuel Music
+| accessdate = 12 April 2014
+}}</ref>
+
+<ref name="Dürr">{{cite book
+| last = Dürr
+| first = Alfred
+| authorlink = Alfred Dürr
+| title = Die Kantaten von Johann Sebastian Bach
+| year = 1981
+| publisher = Deutscher Taschenbuchverlag
+| isbn = 3-423-04080-7
+| volume = 1
+| edition = 4
+| pages = [https://archive.org/details/diekantatenvonjo0002durr/page/226 226–230]
+| language = German
+| url = https://archive.org/details/diekantatenvonjo0002durr/page/226
+}}</ref>
+
+<ref name="Gardiner">{{Cite AV media notes
+| last = Gardiner
+| first = John Eliot
+| author-link = John Eliot Gardiner
+| url = https://www.hyperion-records.co.uk/dc.asp?dc=D_SDG118
+| title = Johann Sebastian Bach (1685-1750) / Cantatas Nos 1, 22, 23, 54, 127, 159 & 182
+| publisher = [[Soli Deo Gloria (record label)|Soli Deo Gloria]] (at [[Hyperion Records]] website)
+| year = 2006
+| accessdate = 1 March 2019
+}}</ref>
+
+<ref name="Koster">{{cite web
+| last = Koster
+| first = Jan
+| url = http://www.let.rug.nl/Linguistics/diversen/bach/weimar2.html
+| title = Weimar 1708–1717
+| publisher = let.rug.nl
+| accessdate = 16 December 2011
+}}</ref>
+
+<ref name="Mincham">{{cite web
+| last = Mincham
+| first = Julian
+| url = http://www.jsbachcantatas.com/documents/chapter-46-bwv-182.htm
+| title = Chapter 46 BWV 182 Himmelskönig, sei willkommen
+| publisher = jsbachcantatas.com
+| year = 2010
+| accessdate = 8 April 2011
+}}</ref>
+
+}}
+
+== Sources ==
+* {{IMSLP|work=Himmelskönig, sei willkommen, BWV 182 (Bach, Johann Sebastian)|cname=Himmelskönig, sei willkommen, BWV 182}}
+* [http://www.bach-digital.de/receive/BachDigitalWork_work_00000220?lang=en Himmelskönig, sei willkommen BWV 182; BC A 53 / A 172 / Sacred cantata (Palm Sunday)] [[Bach Digital]]
+* {{DNB portal|300008872}}
+* [http://www.bach-cantatas.com/BWV182.htm Cantata BWV 182 Himmelskönig, sei willkommen]: history, scoring, sources for text and music, translations to various languages, discography, discussion, Bach Cantatas Website
+* [http://www.uvm.edu/~classics/faculty/bach/BWV182.html BWV 182 Himmelskönig, sei willkommen]: English translation, [[University of Vermont]]
+* [http://webdocs.cs.ualberta.ca/~wfb/cantatas/182.html BWV 182 Himmelskönig, sei willkommen]: text, scoring, [[University of Alberta]]
+
+{{Church cantatas by Johann Sebastian Bach}}
+{{Bach cantatas}}
+{{Authority control}}
+
+{{DISPLAYTITLE:''Himmelskönig, sei willkommen'', BWV 182}}
+{{DEFAULTSORT:Himmelskonig Sei Willkommen Bwv 182}}
+[[Category:Church cantatas by Johann Sebastian Bach]]
+[[Category:1714 compositions]]
+[[Category:Music for the Holy Week]]

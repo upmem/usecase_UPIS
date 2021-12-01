@@ -1,0 +1,29 @@
+== Summary ==
+{{album cover fur
+<!-- REQUIRED -->
+|Article= Shoot to Thrill
+|Use=Infobox
+<!-- HIGHLY RECOMMENDED -->
+|Source= Scanned from a copy of the single
+<!-- ADDITIONAL INFORMATION -->
+|Name= Shoot to Thrill (live)
+|Artist= [[AC/DC]]
+|Label= [[Columbia Records]]
+|Graphic Artist= [[AC/DC]]
+|Item= Single cover
+|Type= 7" single
+|Website= 
+|Owner= 
+|Commentary= 
+<!-- OVERRIDE FIELDS -->
+|Description= This is the cover of AC/DC's 2011 limited edition 7" single, Shoot to Thrill (live)
+|Portion= 
+|Low_resolution= Yes
+|Purpose= To show the cover of the single
+|Replaceability= No
+|other_information= 
+}}
+
+== Licensing ==
+{{Non-free album cover|image has rationale=yes}}
+[[Category:AC/DC album covers]]

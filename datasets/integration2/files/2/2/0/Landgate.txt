@@ -1,0 +1,53 @@
+{{Use dmy dates|date=September 2015}}
+{{Use Australian English|date=September 2015}}
+{{Infobox Government agency
+|agency_name     = Landgate
+|logo            = Landgate_logo.svg
+|logo_width      = 120px
+|logo_caption    = 
+|formed          = 1 January 2007
+|preceding1      = Department of Land Information (DLI)
+|preceding2      = Department of Land Administration (DOLA)
+|preceding3      = [[Department of Lands and Surveys, Western Australia|Department of Lands and Surveys]] (DOLS)
+|dissolved       = 
+|superseding     = 
+|jurisdiction    = [[Government of Western Australia]]
+|employees       = 
+|chief1_name     = Graeme Gammie
+|chief1_position = Chief Executive<ref>{{cite web|url=https://www0.landgate.wa.gov.au/about-us/our-story/our-governance-and-structure/landgate-board|title=Landgate Board|publisher=Landgate|accessdate=2017-03-30}}</ref>
+|parent_agency   = 
+|child1_agency   = 
+|website         = [http://www.landgate.wa.gov.au/ www.landgate.wa.gov.au]
+|footnotes       = 
+}}
+
+The '''Western Australian Land Information Authority''' operates under the business name of '''Landgate'''.<ref>{{cite web |url=https://www0.landgate.wa.gov.au/about-us |title=About us - Landgate |publisher=Landgate |access-date=11 May 2018}}</ref> Formerly the '''Department of Land Information''' ('''DLI'''), the '''Department of Land Administration''' ('''DOLA''') and the '''[[Department of Lands and Surveys, Western Australia|Department of Lands and Surveys]]''' ('''DOLS'''), it is the [[statutory authority]] responsible for [[property]] and land information in [[Western Australia]].
+
+== Current activities ==
+Landgate maintains the official register of land ownership and survey information for the 2,645,600&nbsp;km<sup>2</sup> of [[Western Australia]].
+
+The authority provides a wide range of products and services such as Certificates of [[Title]], Property Sales Reports, Survey Plans, [[aerial photography]], [[satellite imagery]], [[map]]s and [[data]], and are responsible for valuing the State's land and property for government purposes.
+
+Landgate also provides consultancy services in the areas of survey, valuation (government only), international relations, pastoral and rangelands, and [[Native Title]]s.
+
+In order to deliver these services and provide context to the State’s property interests, Landgate coordinates access to location information held across WA government departments through the [[Western Australian Land Information System]] (WALIS). This information is made available through an [[open data]] platform called the [[Shared Location Information Platform]], or SLIP, which is accessed through the WA Government's open data website, [https://Data.wa.gov.au data.wa.gov.au] (DataWA). 
+
+Landgate also manages the Capture WA program, which coordinates spatial imagery captures on behalf of all state and local government agencies in Western Australia in a bid to reduce costs and duplication.  
+
+== See also ==
+* [[Western Australian Land Information System]]
+* [[Department of Lands and Surveys, Western Australia]]
+* [[Surveyor General of Western Australia]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www0.landgate.wa.gov.au/ Landgate]
+* [http://spur.wa.gov.au/better-business SPUR - better business: Western Australian Land Information System]
+{{Government departments of Western Australia}}
+
+[[Category:Government departments of Western Australia]]
+[[Category:Government agencies established in 2007]]
+[[Category:2007 establishments in Australia]]
+[[Category:Land management in Australia]]

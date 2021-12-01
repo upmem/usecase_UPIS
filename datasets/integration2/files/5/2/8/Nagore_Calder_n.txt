@@ -1,0 +1,79 @@
+{{short description|Spanish footballer}}
+{{Infobox football biography
+| name           = Nagore Calderón
+| image          = 
+| caption        =
+| fullname       = Nagore Calderón Rodríguez
+| birth_date     = {{Birth date and age|df=yes|1993|6|2}}
+| birth_place    = [[Madrid]], Spain
+| height         = 156cm
+| currentclub    = [[Sevilla FC (women)|Sevilla]]
+| clubnumber     = 6
+| position       = [[Midfielder#Central midfielder|Central midfielder]]
+| youthyears1    = 
+| youthclubs1    = Atlético Concilio
+| youthyears2    = 2005–2009
+| youthclubs2    = [[Atlético Madrid (women)|Atlético Madrid]]
+| years1         = 2009–2016
+| clubs1         = [[Atlético Madrid (women)|Atlético Madrid]]
+| caps1          =
+| goals1         = 
+| years2         = 2016–2017
+| clubs2         = [[Levante UD (women)|Levante]]
+| caps2          = 28 
+| goals2         = 1
+| years3         = 2017–
+| clubs3         = [[Sevilla FC (women)|Sevilla]]
+| caps3          = 56
+| goals3         = 7
+| pcupdate       = 5 May 2019
+| nationalyears1 = 2012–2015
+| nationalteam1  = [[Spain women's national football team|Spain]]
+| nationalcaps1  = 12
+| nationalgoals1 = 2
+}}
+{{family name hatnote|Calderón|Rodríguez|lang=Spanish}} 
+'''Nagore Calderón Rodríguez''' (born 2 June 1993) is a Spanish [[Association football|football]] [[midfielder]] who plays for [[Primera División (women)|Primera División]] club [[Sevilla FC (women)|Sevilla]]. She was a member of the [[Spain women's national football team|Spain national team]] between 2012 and 2015.
+
+==Career==
+Calderón started to play football in Atlético Concilio and when she was 12 years old she went to [[Atlético Madrid (women)|Atlético Madrid]]. In 2016, she moved to [[Levante UD (women)|Levante UD]] then one year later, to newly-[[Promotion and relegation|promoted]] [[Sevilla FC Femenino|Sevilla FC]].
+
+==International career==
+In October 2012 she made her debut for the [[Spain women's national football team]] in the second leg of the [[UEFA Women's Euro 2013|2013 European Championship]]'s [[UEFA Women's Euro 2013 qualifying#Play-off round|repêchage]], which marked Spain's second qualification for the championship, sixteen years after their first.<ref>[http://www.futfem.com/vernoticia.php?id=2186 Nagore Calderón: "Debuting with the senior team was a dream made true".] futfem.com, 27 October 2012</ref> As a junior international she won the [[2010 UEFA U-17 Women's Championship|2010 U-17 European Championship]]<ref>[http://www.as.com/futbol/articulo/espana-conquista-oro-penaltis/20100626dasdasftb_22/Tes ''Spain wins the gold medal on penalties'']. [[Diario AS]]</ref> and a bronze in the [[2010 FIFA U-17 Women's World Cup|2010 U-17 World Cup]].<ref>[https://www.fifa.com/worldfootball/statisticsandrecords/players/player=325624/index.html Statistics] in [[FIFA]]'s website</ref>
+
+In June 2013, national team [[Coach (sports)|coach]] [[Ignacio Quereda]] called Calderón up to his 23-player squad for the [[UEFA Women's Euro 2013]] finals in Sweden.<ref>{{cite web|url=http://www.uefa.com/womenseuro/news/newsid=1968137.html|title=Spain stick with tried and trusted|date=29 June 2013|accessdate=30 July 2013|work=Uefa.com|publisher=[[UEFA]]}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|+Goals for the Spanish WNT in official competitions
+! width=175px|Competition !! width=75px|Stage !! width=75px|Date !! width=100px|Location !! width=185px|Opponent !! width=25px|Goals !! width=25|Result !! width=25px|Overall
+|-align=center
+| [[2015 FIFA Women's World Cup|2015 FIFA World Cup]] || Qualifiers || 2014–04–10 || [[Skopje]] || align=left|{{fbw|MKD}} || '''2''' || bgcolor=#CCFFCC|10–0 || '''2'''
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{FIFA player|325624}}
+* {{Twitter}}
+*[https://www.txapeldunak.com/cas/futbol_femenino/jugadora.asp?id=4423 Profile] at Txapeldunak.com {{in lang|es}}
+
+{{Sevilla FC (women) squad}}
+{{Spain squad 2013 UEFA Women's European Championship}}
+
+{{DEFAULTSORT:Calderon, Nagore}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Spanish women's footballers]]
+[[Category:Spain women's international footballers]]
+[[Category:Madrilenian footballers]]
+[[Category:Primera División (women) players]]
+[[Category:Atlético Madrid Femenino players]]
+[[Category:Levante UD Femenino players]]
+[[Category:Women's association football midfielders]]
+[[Category:Sevilla FC (women) players]]
+
+
+{{Spain-women-footy-bio-stub}}
+{{Spain-footy-midfielder-stub}}

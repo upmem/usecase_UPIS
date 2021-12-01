@@ -1,0 +1,46 @@
+{{Infobox Given Name Revised
+| name = Zadoc
+| image= 
+| imagesize= 
+| caption= 
+| pronunciation= 
+| gender = Male
+| meaning = just / righteous
+| region =
+| origin = [[Hebrew language|Hebrew]]
+| related names = Zadok (alternate spelling)
+| footnotes =
+}}
+'''Zadoc''' (also spelt '''Zadock''' or '''Zadok''') is a given name, originally from [[Hebrew]], meaning "just" or "righteous". It was originally the name of several biblical figures.<ref>{{cite book|author=M.G. Easton M.A., D.D.|title= Illustrated Bible Dictionary, Third Edition (Public Domain, copy freely) |publisher= Thomas Nelson|year= 1897 |url=http://www.biblestudytools.com/dictionary/zadok/}}</ref>
+
+== People with this name ==
+
+=== Biblical ===
+* [[Zadok]], Hebrew High Priest of King David and King Solomon
+* The father of Jerusha, wife of King [[Uzziah]], and mother of King Jotham
+* "The scribe" set over the treasuries of the temple by [[Nehemiah]] along with a priest and a Levite 
+* The sons of Baana, one of those who assisted in rebuilding the wall of Jerusalem
+
+=== Other ===
+* [[Zadoc P. Beach]] (1861-??), American politician
+* [[Zadok Ben-David]] (born 1949), Israeli artist 
+* [[Zadoc Benedict]], American businessman
+* [[Zadok Casey]] (1796–1862), American politician 
+* [[Zadock Cook]] (1769–1863), American politician
+* [[Zadoc Dederick]], American inventor
+* [[Zadok Domnitz]] (born 1933), Israeli chess player
+* [[Zadok HaKohen]] (1823–1900), Polish rabbi
+* [[Zadoc Kahn]] (1839–1905), French rabbi
+* [[Zadok Magruder]] (1729–1811), American farmer and patriot
+* [[Zadok Malka]] (born 1964), Israeli football player
+* [[Zadock Pratt]] (1790–1871), American tanner and politician
+* [[Zadock Thompson]] (1796–1856), American naturalist
+* [[Zadoc Weatherford]] (1888–1983), American politician
+
+==References==
+{{reflist}}
+
+{{Given name}}
+{{DEFAULTSORT:Zadoc}}
+[[Category:English masculine given names]]
+[[Category:Hebrew masculine given names]]

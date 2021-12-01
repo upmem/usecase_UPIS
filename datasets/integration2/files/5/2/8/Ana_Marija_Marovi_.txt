@@ -1,0 +1,30 @@
+{{notability|bio|date=January 2020}}
+{{use dmy dates|date=January 2020}}
+{{infobox person
+| name               = Ana Marija Marović
+| image          = Photo of Ana Marija Marović.jpg
+| birth_date         = {{birth year|1815}}
+| death_date         = {{death year and age|1887|1815}}
+| occupation         = {{flatlist|
+* Writer
+* painter }}
+}}
+'''Ana Marija Marović''' (1815–1887) was a writer and painter in [[Italy]] and [[Montenegro]].  She knew the [[Italian language|Italian]] and [[Croatian language]]s.<ref name="WomenWriters" />
+
+==References==
+{{reflist |refs=
+
+<ref name="WomenWriters">{{cite web |url=http://neww.huygens.knaw.nl/authors/show/3512 |title=Author: Marović, Ana Marija |website=WomenWriters |publisher=[[Royal Netherlands Academy of Arts and Sciences]] |language=en |access-date=2020-01-28 |url-status=live |archive-url=https://web.archive.org/web/20150106123100/http://neww.huygens.knaw.nl/authors/show/3512 |archive-date=2015-01-06}}</ref>
+
+}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Marovic, Ana Marija}}
+[[Category:1815 births]]
+[[Category:1887 deaths]]
+[[Category:19th-century Italian painters]]
+[[Category:19th-century Italian women writers]]
+[[Category:19th-century women artists]]
+
+{{Europe-artist-stub}}

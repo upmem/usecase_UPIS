@@ -1,0 +1,522 @@
+{{redirect|French Championships||French Championship (disambiguation)}}
+{{About|the tennis tournament|the golf tournament|Open de France|the badminton tournament|French Open (badminton)}}
+{{short description|French Open Tennis Championships}}
+{{Use dmy dates|date=July 2014}}
+{{Infobox GrandSlamTournaments
+| Name = Roland-Garros<ref>{{cite web|title=Un siècle d'histoire|url=https://www.rolandgarros.com/fr-fr/page/roland-garros-un-siecle-histoire-de-decugis-a-nadal|website=rolandgarros.com}}</ref>
+| Last = 2020 French Open
+| Last alias = 2020 French Open
+| Current = <!--2021 French Open-->
+| Current alias = <!--2021 French Open-->
+| Logo = Logo Roland-Garros.svg
+| Logo size = 150px
+| Bar Color = #FF915F
+| Founded = {{start date and age|df=yes|1891}}
+| Editions = 124 (2020)<br>90 [[Grand Slam (tennis)|Grand Slam]] events (since [[1925 French Championships|1925]])
+| City = [[Paris]], [[16th arrondissement of Paris|XVI<sup>e</sup>]]
+| Country = [[France]]
+| Venue = Societé de Sport de Île de Puteaux, at [[Puteaux]] {{small|(1891–1894)}}; Tennis Club de Paris, at [[Auteuil-Neuilly-Passy|Auteuil]], Paris {{small|(1895–1908)}}; Société Athlétique de la Villa Primrose at [[Bordeaux]] {{small|(1909)}}; Croix-Catelan de [[Racing Club de France]] at the [[Bois de Boulogne]], Paris<br />{{small|(1910–1924, 1926)}}<br /> [[Stade Français]] at [[Saint-Cloud]]<br />{{small|(1925, 1927)}}<br /> [[Stade Roland Garros]] {{small|(since 1928)}}
+| Surface = Sand – outdoors {{small|(1891–1907)}} <br />[[Clay court|Clay]] – outdoors {{small|(1908–present)}}{{efn|Except [[Stade Roland Garros#Court Philippe Chatrier|Court Philippe Chatrier]] during rain delay.}}
+| Prize Money = [[euro|€]]38,000,000  (2020)<ref>{{cite news|title=French Open 2020 Purse Money (Revealed) |url=https://www.sportekz.com/tennis/french-open-2020-prize-money/|publisher=sportekz.com|date=24 September 2020}}</ref>
+| Men Draw = 128S / 128Q / 64D 
+| Men Current =  [[Rafael Nadal]] ''(singles)'' <br/> [[Kevin Krawietz]] <br/> [[Andreas Mies]] ''(doubles)''
+| Men Most S = [[Rafael Nadal]] (13)
+| Men Most D = [[Roy Emerson]] (6)
+| Women Draw = 128S / 96Q / 64D
+| Women Current = [[Iga Świątek]] ''(singles)'' <br/> [[Tímea Babos]] <br/> [[Kristina Mladenovic]] ''(doubles)''
+| Women Most S = [[Chris Evert]] (7)
+| Women Most D = [[Martina Navratilova]] (7)
+| Mixed Draw = 32
+| Mixed Current = [[Latisha Chan]] <br/> [[Ivan Dodig]]
+| Mixed Most M = [[Ken Fletcher]] / <br/> [[Jean-Claude Barclay]] (3)
+| Mixed Most F = [[Margaret Court]] (4)
+| Web site = http://www.rolandgarros.com
+| Notes =
+}}
+The '''French Open''' ({{lang-fr|Internationaux de France de Tennis}}), also called '''Roland-Garros''' ({{IPA-fr|ʁɔlɑ̃ ɡaʁos|lang}}), is a major [[tennis]] [[tournament]] held over two weeks at the [[Stade Roland Garros|Stade Roland-Garros]] in [[Paris]], France, beginning in late May each year.{{efn|Usually when the tournament is held in the May–June schedule, there are exceptions have been made: 1946 and 1947 tournaments were held in July after [[The Championships, Wimbledon|Wimbledon]] followed the [[aftermath of World War II]]; and 2020, which was held in late September after the [[US Open (tennis)|US Open]] due to the [[COVID-19 pandemic]].}} The venue is named after the French aviator [[Roland Garros (aviator)|Roland Garros]]. It is the premier [[clay court]] tennis championship tournament in the world and the second of the four annual [[Grand Slam (tennis)|Grand Slam]] tournaments,<ref>{{cite web|url=http://www.iht.com/articles/2001/06/30/a20_16.php|title=Change Seems Essential to Escape Extinction: Wimbledon: World's Most Loved Dinosaur|first= Christopher|last= Clarey|work=[[International Herald Tribune]]|date=30 June 2001|accessdate=20 July 2007 |archiveurl = https://web.archive.org/web/20071016123550/http://iht.com/articles/2001/06/30/a20_16.php <!-- Bot retrieved archive --> |archivedate = 16 October 2007}}</ref> the other three being the [[Australian Open]], [[The Championships, Wimbledon|Wimbledon]] and the [[US Open (tennis)|US Open]]. The French Open is currently the only Grand Slam tournament held on clay, and it is the conclusion of the spring clay court season. Before 1975, the French Open was the lone non-grass major tournament.<ref>{{cite magazine|title=What Is The Most Prestigious Grand Slam Tennis Tournament?|url=https://www.forbes.com/sites/monteburke/2012/05/30/what-is-the-most-prestigious-grand-slam-tennis-tournament/|magazine=Forbes|accessdate=25 June 2013|author=Monte Burke|date=30 May 2012|quote= That survey asked 108 top players to rank the four Slams in order of prestige. The ranking went as follows: 1. Wimbledon 2. French Open 3. U.S. Open 4. Australian Open}}</ref> Between the seven rounds needed for a championship, the slow-playing surface and the best-of-five-set men's singles matches, the event is widely considered to be the most physically demanding tennis tournament in the world.<ref>{{cite web|url=http://www.iht.com/articles/2006/05/26/news/preview.php| title= In a year of change at Roland Garros, the winners may stay the same |first= Christopher|last= Clarey|work=International Herald Tribune|date=26 May 2006|accessdate=8 August 2007 |archiveurl = https://web.archive.org/web/20071016123605/http://iht.com/articles/2006/05/26/news/preview.php |archivedate=16 October 2007 }}</ref><ref>{{cite web|url=http://eurosport.yahoo.com/22052008/58/french-open-countdown-borg-s-view-rg.html| title= French Open – Countdown: Borg's view on RG |work=[[Eurosport]]|date=22 May 2008|accessdate=22 May 2008 }}{{dead link|date=May 2020|bot=medic}}{{cbignore|bot=medic}} [http://www.tennis.com/messageboards/forums/thread-view.asp?tid=8809&DisplayType=threaded&setCookie=1 Alt URL]</ref>
+
+==History==
+Officially named in French ''Internationaux de France de Tennis'' and ''Roland-Garros'' (the "French International of Tennis" and "Roland Garros" in English),<ref>{{cite web|title=Un siècle d'histoire|url=https://www.rolandgarros.com/fr-fr/page/roland-garros-un-siecle-histoire-de-decugis-a-nadal|website=rolandgarros.com}}</ref> the tournament is referred to in English as the "French Open" and alternatively as "Roland Garros", which is the designation used by the tournament itself in all languages.<ref>{{cite web|author1=Christopher Clarey|title=A Puzzler in Paris: French Open or Roland Garros?|url=https://www.nytimes.com/2013/05/24/sports/tennis/a-puzzler-in-paris-french-open-or-roland-garros.html|website=[[The New York Times]]|date=23 May 2013}}</ref> (The [[Stade Roland-Garros|stadium]] and tournament are both hyphenated as ''Roland-Garros'' because French spelling rules dictate that in the name of a place or event named after a person, the elements of the name are joined together with a [[hyphen]].<ref>{{cite book|title=Le Ramat typographique|last=Ramat|first=Aurel|year=1994|publisher=Éditions Charles Corlet|isbn=2854804686|page=63}}</ref>)
+
+In 1891 the '''''Championnat de France''''', which is commonly referred to in English as the '''French Championships''', began. They were only open to tennis players who were members of French clubs. The first winner was [[H. Briggs]], a British who resided in Paris and was a member of the Club Stade Français. In the final he defeated [[P. Baigneres]] in straight sets.<ref name=PastWinners>{{cite web|work=rolandgarros.com |title=Event Guide / History / Past Winners 1891-2008 |url=http://www.rolandgarros.com/en_FR/about/history/pastwinners.html |accessdate=2009-07-03 |url-status=dead |archiveurl=https://web.archive.org/web/20120513071553/http://www.rolandgarros.com/en_FR/about/history/pastwinners.html |archivedate=May 13, 2012 }}</ref> The first women's singles tournament, with four entries, was held in 1897. The mixed doubles event was added in 1902 and the women's doubles in 1907. This "French club members only" tournament was played until 1924, using four different venues during that period:
+
+* Societé de Sport de Île de Puteaux, in [[Puteaux]], [[Île-de-France]] (nex to the [[Seine|Seine river]]); played on the club's ten sand grounds laid out on a bed of rubble. 1891, 1893, 1894 (men's singles), 1895 (men's singles), 1897 (women's singles), 1902 (women's singles and mixed doubles), 1905 (women's singles and mixed doubles), 1907 (men's singles, women's singles, mixed doubles) editions.
+* The Croix-Catelan of the [[Racing Club de France]] (club founded in 1882 which initially had two lawn-tennis courts with four more grass courts opened some years later, but due to the difficulty of maintenance, they were eventually transformed into clay courts) in the [[Bois de Boulogne]], [[Paris]]. Played on [[Grass court|grass]] (''pelouse'') and later on [[Clay court|clay]]. 1892, 1894 (men's doubles), 1895 (men's doubles), 1897 (women's singles), 1901 (men's doubles), 1903 (men's doubles and mixed doubles), 1904, 1907 (men's doubles), 1908, 1910-1914, 1920-1924 editions.
+* [[Tennis Club de Paris]] (club founded in 1895 which initially had four indoor wood courts and five outdoor clay courts), at 71, Boulevard Exelmans in the [[16th arrondissement of Paris|Auteuil]] neighborhood, Paris. Initially had four indoor wood courts and five outdoor clay courts. 1896, 1897 (men's singles), 1898, 1899, 1900, 1901 (men's and women's singles), 1902 (men's singles), 1903 (men's singles and women's singles), 1905 (men's singles) and 1906 editions.
+* Société Athlétique de la Villa Primrose in [[Bordeaux]], on clay. Only played in 1909. 
+
+In the period of 1915-1919, no tournament was organized due to [[World War I]].
+
+In 1925, the French Championships became open to all amateurs internationally and was designated a major championship by the ILTF. It was held at the [[Stade Français]] in [[Saint-Cloud]] (site of the previous World Hard Court Championships) in 1925 and 1927, on clay courts. In 1926 the Croix-Catelan of the Racing Club de France hosted the event in Paris, site of the previous French club members only tournament, also on clay.
+
+Another clay court tournament, called the [[World Hard Court Championships]], is sometimes considered the true precursor to the modern French Open as it admitted international competitors. This was held at Stade Français in Saint-Cloud, from 1912 to 1914, 1920, 1921 and 1923, with the 1922 event held in [[Brussels]], Belgium. Winners of this tournament included world No. 1s such as Tony Wilding from New Zealand (1913, 1914) and Bill Tilden from the US (1921). In 1924 there was no World Hard Court Championships due to tennis being played at the Paris Olympic Games.
+
+After the [[The Four Musketeers (tennis)|Mousquetaires]] or Philadelphia Four ([[René Lacoste]], [[Jean Borotra]], [[Henri Cochet]], and [[Jacques Brugnon]]) won the [[Davis Cup]] on American soil in 1927, the French decided to defend the cup in 1928 at a new tennis stadium at Porte d'Auteuil. The ''Stade de France'' had offered the tennis authorities three hectares of land with the condition that the new stadium must be named after the World War I hero [[aviator|pilot]] [[Roland Garros (aviator)|Roland Garros]].<ref>{{cite web |author1=Evan Gershkovich |title=Who was Roland Garros? The fighter pilot behind the French Open |url=https://www.nytimes.com/2017/06/10/briefing/roland-garros-facts-french-open.html |website=[[The New York Times]] |date=10 June 2017}}</ref> The new [[Stade de Roland Garros]] (whose central court was renamed [[Court Philippe Chatrier]] in 1988) hosted that Davis Cup challenge. On May 24, 1928 the French International Championships moved there, and the event has been held there ever since.<ref name="Historypage">{{cite web | title=Roland Garros: a venue open all year long. Past Winners and Draws | publisher=ftt.fr | url=http://www.fft.fr/rolandgarros/default_en.asp?id=1575 | accessdate=7 August 2007 | url-status=dead | archiveurl=https://web.archive.org/web/20070808145713/http://www.fft.fr/rolandgarros/default_en.asp?id=1575 | archivedate=8 August 2007 | df=dmy-all }}</ref>
+
+During World War II, the [[Tournoi de France (tennis)|tournament]] was not held in 1940 and from 1941 through 1945 it took place on the same grounds, but those events are not recognized by the French governing body, the [[Fédération Française de Tennis]].<ref>{{cite magazine|author1=Henry D. Fetter|title=The French Open During World War II: A Hidden History|url=https://www.theatlantic.com/entertainment/archive/2011/06/the-french-open-during-world-war-ii-a-hidden-history/239974/|magazine=[[The Atlantic]]|date=6 June 2011}}</ref> In 1946 and 1947, the French Championships were held after Wimbledon, making it the third [[Grand Slam (tennis)|Grand Slam]] event of the year. In 1968, the French Championships became the first Grand Slam tournament to go [[Open Tennis|open]], allowing both amateurs and professionals to compete.<ref name="Historypage"/>
+
+[[File:Roland_Garros_08.JPG|thumb|200px|left|Court number 2 at the French Open.]]
+Since 1981, new prizes have been presented: the Prix Orange (for the player demonstrating the best sportsmanship and cooperative attitude with the press), the Prix Citron (for the player with the strongest character and personality) and the Prix Bourgeon (for the tennis player revelation of the year). In another novelty, since 2006 the tournament has begun on a Sunday, featuring 12 singles matches played on the three main courts. Additionally, on the eve of the tournament's opening, the traditional Benny Berthet exhibition day takes place, where the profits go to different charity associations. In March 2007, it was announced that the event would provide equal prize money for both men and women in all rounds for the first time.<ref>{{cite web|url=http://www.sonyericssonwtatour.com/1/newsroom/stories/?ContentID=1215 |title=Roland Garros Awards Equal Pay |publisher=WTA Tour |date=16 March 2007 |accessdate=20 July 2007 |url-status=dead |archiveurl=https://web.archive.org/web/20070623122943/http://www.sonyericssonwtatour.com/1/newsroom/stories/?ContentID=1215 |archivedate=23 June 2007 }}</ref>
+In 2010, it was announced that the French Open was considering a move away from Roland Garros as part of a continuing rejuvenation of the tournament.<ref>{{cite news|url=http://news.bbc.co.uk/sport1/hi/tennis/8580652.stm| title=French Open could move away from Roland Garros in Paris| date=16 March 2007|accessdate=20 July 2007|work=BBC News}}</ref> Plans to renovate and expand Roland Garros have put aside any such consideration, and the tournament remains in its long time home.
+
+===Expansion in the early 21st century===
+From 2004 to 2008, plans were developed to build a covered stadium with a roof, as complaints continued over delayed matches.<ref>{{cite web | url=http://news.bbc.co.uk/sport2/hi/tennis/3781357.stm | title=Roland Garros set for roof | accessdate=29 March 2015}}</ref><ref>{{cite web | url=https://www.nytimes.com/2006/05/27/sports/tennis/27tennis.ready.html | title=French Open Adds Day; Clay Stays the Same | accessdate=29 March 2015}}</ref><ref>{{cite web | url=http://sports.espn.go.com/sports/tennis/french08/news/story?id=3413596 | title=Only 13 matches completed before rain halts play | accessdate=29 March 2015}}</ref> Various proposals were put forward to expand the facility or to move the French Open to a completely new, 55-court venue outside of Paris city limits. In 2011 the decision was taken to maintain the tournament within its existing venue.<ref>{{cite web|author1=Christopher Clarey|title=Renovation Plans in Limbo, Roland Garros Faces Future|url=https://www.nytimes.com/2013/05/29/sports/tennis/renovation-plans-in-limbo-roland-garros-faces-future.html|work=[[The New York Times]]|date=28 May 2013}}</ref><ref>{{cite web|author1=Andrew Roberts|title=French Open Tennis Will Stay in Paris at Upgraded Roland Garros|url=https://www.bloomberg.com/news/articles/2011-02-13/french-open-tennis-tournament-to-stay-at-roland-garros-organizers-say|publisher=[[Bloomberg L.P.|Bloomberg]]|date=14 February 2011}}</ref> The expansion project called for a new stadium to be built alongside the historical [[Jardin des Serres d'Auteuil|Auteuil's greenhouses]] and expansion of old stadiums and the tournament village.<ref>{{cite web|title=Modernising Roland Garros stadium|url=http://www.nouveaurolandgarros.com/welcome-new-roland-garros-page|publisher=[[Fédération Française de Tennis]] (FFT)|url-status=dead|archiveurl=https://web.archive.org/web/20150810175146/http://www.nouveaurolandgarros.com/welcome-new-roland-garros-page|archivedate=10 August 2015|df=dmy-all}}</ref> A wide-ranging project to overhaul the venue was presented in 2011, including building a roof over Court [[Philippe Chatrier|Philippe-Chatrier]], demolishing and replacing Court No. 1 with a grassy hill for outdoors viewing, and geographical extension of the venue eastward into the [[Jardin des Serres d'Auteuil]].<ref>{{Cite web|url=https://www.debatpublic.fr/projet-nouveau-stade-roland-garros|title=Projet de nouveau stade Roland-Garros {{!}} CNDP - Commission nationale du débat public|website=www.debatpublic.fr|access-date=2019-06-02}}</ref>
+
+Legal opposition from environmental defence associations and other stakeholders delayed the works for several years as litigation ensued.<ref>{{Cite web|url=https://sport.francetvinfo.fr/tennis/extension-de-roland-garros-retour-devant-la-justice-365573|title=Extension de Roland-Garros: retour devant la justice|website=Francetvsport|language=fr|access-date=2019-06-02}}</ref> In particular, the city council voted in May 2015 against the expansion project, but on 9 June 2015 Paris Mayor [[Anne Hidalgo]] announced the signing of the construction permits, with work scheduled to begin in September of that year and conclude in 2019.<ref>{{cite web|author1=Kamakshi Tandon|title=Paris city council votes against French Open expansion project|url=http://www.tennis.com/pro-game/2015/05/paris-city-council-votes-against-french-open-expansion-project/55068/|publisher=Tennis.com|date=29 May 2015}}</ref><ref>{{cite web|title=Roland Garros Revamp Gets Green Light|url=http://sports.ndtv.com/tennis/news/243624-roland-garros-revamp-gets-green-light|publisher=NDTV|date=10 June 2015|access-date=11 June 2015|archive-url=https://web.archive.org/web/20160304201235/http://sports.ndtv.com/tennis/news/243624-roland-garros-revamp-gets-green-light|archive-date=4 March 2016|url-status=dead}}</ref> In December 2015, the Administrative Court of Paris once again halted renovation work, but the French Tennis Federation won the right to proceed with the renovation on appeal.<ref>{{cite web | url=http://www.tennisworldusa.org/French-Federation-to-Appeal-against-Roland-Garros-Modernization-suspension-articolo31293.html | title=French Federation to Appeal against Roland Garros´ Modernization suspension! |publisher=Tennis World|date=26 March 2016}}</ref>
+
+Renovation work finally commenced at the close of the 2018 edition of the tournament. Redeveloped seating and a retractable roof was constructed for Court Philippe-Chatrier and the new 5,000-seat Court [[Simonne Mathieu|Simonne-Mathieu]] was opened, having been named after France's second-highest achieving female tennis player, and noted for its innovative use of greenhouse encasing architecture.<ref>{{Cite web|url=https://www.independent.co.uk/sport/tennis/french-open-2019-day-one-court-simonnemathieu-roland-garros-paris-new-court-a8931081.html|title=Court Simonne-Mathieu stunning new addition to Roland Garros|date=2019-05-26|website=The Independent|language=en|access-date=2019-06-02}}</ref> The renewal of the venue has been generally well-received by the players and the public.<ref>{{Cite web|url=https://www.francetvinfo.fr/sports/tennis/roland-garros/un-ecrin-extraordinaire-le-court-simonne-mathieu-de-roland-garros-fait-l-unanimite-chez-les-joueurs-et-spectateurs_3470487.html|title="Un écrin extraordinaire" : le court Simonne-Mathieu de Roland-Garros fait l'unanimité chez les joueurs et spectateurs|date=2019-06-02|website=Franceinfo|language=fr|access-date=2019-06-02}}</ref> The 2020 edition of the tournament, which was the first to be assisted by the roof over Philippe-Chatrier, was postponed to September and was played before limited spectators, due to the [[COVID-19 pandemic]].<ref>{{cite web|url=https://www.nytimes.com/2020/09/27/sports/tennis/french-open-preview.html|title=New for This Pandemic French Open: Fall Weather and Lights|work=The New York Times|date=27 September 2020|author=Christopher Clarey}}</ref> Floodlights were also installed over each of the courts in the precinct, allowing the tournament to facilitate night matches for the first time.<ref>{{cite web|url=https://tennishead.net/french-open-lights-up-as-another-tradition-dies/|title=French Open lights up as another tradition dies|date=21 September 2020|work=tennishead.net}}</ref>
+
+==Surface characteristics==
+
+Clay courts slow down the ball and produce a high bounce when compared with [[grass court]]s or [[Hard (tennis)|hard courts]]. For this reason, clay courts take away some of the advantages of big servers and serve-and-volleyers, which makes it hard for these types of players to dominate on the surface. For example, [[Pete Sampras]], known for his huge serve and who won 14 Grand Slam titles, never won the French Open – his best result was reaching the semi-finals in [[1996 French Open|1996]]. Many other notable players have won multiple Grand Slam events but have never won the French Open, including [[John McEnroe]], [[Frank Sedgman]], [[John Newcombe]], [[Venus Williams]], [[Stefan Edberg]], [[Boris Becker]], Lleyton Hewitt, [[Jimmy Connors]], [[Louise Brough]], [[Virginia Wade]] or [[Martina Hingis]]; McEnroe and Edberg lost their sole French Open finals appearances in five sets.
+
+On the other hand, players whose games are more suited to slower surfaces, such as [[Rafael Nadal]], [[Björn Borg]], [[Ivan Lendl]], [[Mats Wilander]], [[Justine Henin]] and [[Chris Evert]], have found great success at this tournament.  In the [[Tennis open era|Open Era]], the only male players who have won both the French Open and [[The Championships, Wimbledon|Wimbledon]], played on faster grass courts, are [[Rod Laver]], [[Jan Kodeš]], [[Björn Borg]], [[Andre Agassi]], [[Rafael Nadal]], [[Novak Djokovic]] and [[Roger Federer]]. Borg's French Open—Wimbledon double was achieved three times consecutively (1978, 1979, 1980) and regarded by Wimbledon officials as "the most difficult double in tennis".<ref name=Wimbledonrecords>{{cite web |url=http://www.wimbledon.com/heritage/history/legends/bjorn-borg |title=Wimbledon Legends – Bjorn Borg |publisher=Wimbledon.com |first=Ronald |last=Atkin |accessdate=4 February 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120211101251/http://www.wimbledon.com/heritage/history/legends/bjorn-borg |archivedate=11 February 2012 |df=dmy-all }}</ref> The feat took 28 years to be repeated and was done 3 times consecutively, twice by Rafael Nadal (2008, 2010) and once by Roger Federer (2009).<ref>{{Cite web|url=http://www.tennis.com/pro-game/2014/06/nadal-roland-garros-wimbledon-double-no-longer-tough/51865/|title=Nadal: Roland Garros-Wimbledon double no longer that tough|website=Tennis.com|access-date=2019-01-30}}</ref>
+
+==Ball boys and ball girls==
+At the 2010 French Open there were 250 "ramasseurs de balles" which in English translates literally as "gatherers of balls".  They are aged between 12 and 16 years old, and dress in matching shirts and shorts. The 250 ball boys and ball girls are chosen to take part in the French Open by an application and selection process, which in 2010 had approximately 2,500 applicants from across France.<ref>{{cite news|url=https://www.nytimes.com/2010/06/02/sports/tennis/02ballkids.html| title=Ball Kids Wake Up The French Open| date=1 June 2010|accessdate=20 April 2011|work=The New York Times|first=John|last=Branch}}</ref> Upon selection the ball boys and ball girls participate in preparatory training in the weeks leading up to the French Open to ensure that they are prepared for the day they set foot on the tennis court in front of a global audience.
+
+==Prize money and ranking points==
+[[File:Court Philippe Chatrier May 30th 2013.jpg|thumb|200px|right|Court Philippe Chatrier during the 2013 French Open.]]
+For 2018, the prize money purse was increased to €39,197,000. If a player makes it to the indicated round, they will receive the points and money listed (provided they don't make it to a further round). Men and women often receive different point values based on the rules of their respective tours. Players receive prize money and points as follows:<ref>{{Cite web|url=https://fft-rg-commun-news.cdn.prismic.io/fft-rg-commun-news%2F39f04cca-4cb2-4be2-9deb-91f4120ac867_press+release+prize+money+roland-garros+2018.pdf|title=Press Release 2018 French Open Prize Money Increase to over €39 million|date=22 March 2018}}</ref>
+
+{|class=wikitable style=font-size:95%;text-align:center
+|+ Prize Money (2018)
+|-
+| colspan="2" style="width:200px; background:#dfe2e9;"|'''Event'''
+|  style="width:80px; background:lime;"|'''W'''
+|  style="width:85px; background:thistle;"|F
+|  style="width:85px; background:#ff0;"|SF
+|  style="width:85px; background:#ffebcd;"|QF
+| style="width:85px; background:#afeeee;" |4R
+| style="width:85px; background:#afeeee;" |3R
+| style="width:85px; background:#afeeee;" |2R
+| style="width:85px; background:#afeeee;" |1R
+|-
+| rowspan="2" style="background:#dfe2e9;"|'''Singles'''
+| style="background:#ededed;"|Points (M/F)
+|2000
+|1200 / 1300
+|720 / 780
+|360 / 430
+|180 / 240
+|90 / 130
+|45 / 70
+|10/10
+|-
+| style="background:#ededed;"|Prize money
+|€2,200,000
+|€1,120,000
+|€560,000
+|€380,000
+|€222,000
+|€130,000
+|€79,000
+|€40,000
+|-
+| rowspan="2" style="background:#dfe2e9;"|'''Doubles'''
+| style="background:#ededed;"|Points (M/F)
+|2000
+|1200 / 1300
+|720 / 780
+|360 / 430
+|180 / 240
+|90 / 130
+| 0 / 10
+| –
+|-
+| style="background:#ededed;"|Prize money<sup><big>*</big></sup>
+|€560,000
+|€280,000
+|€139,000
+|€76,000
+|€41,000
+|€22,000
+|€11,000
+| –
+|-
+| rowspan="2" style="background:#dfe2e9;"|'''Mixed<br />Doubles'''
+| style="background:#ededed;"|Points
+|NA
+|NA
+|NA
+|NA
+|NA
+|NA
+| –
+| –
+|-
+| style="background:#ededed;"|Prize money<sup><big>*</big></sup>
+|€120,000
+|€60,000
+|€30,000
+|€17,000
+|€9,500
+|€4,750
+| –
+| –
+|}
+<sub>*per team</sub>
+
+==Champions==
+
+===Past champions===
+* [[List of French Open Men's Singles champions|Men's Singles]], winner of the ''[[Coupe des Mousquetaires]]''{{efn|name=SinglesMen|Last French Men's Singles champion: [[Yannick Noah]] (1983).}}
+* [[List of French Open Women's Singles champions|Women's Singles]], winner of the ''[[Coupe Suzanne Lenglen]]''{{efn|name=SinglesWomen|Last French Women's Singles champion: [[Mary Pierce]] (2000).}}
+* [[List of French Open Men's Doubles champions|Men's Doubles]], winners of the ''Coupe Jacques Brugnon''
+* [[List of French Open Women's Doubles champions|Women's Doubles]], winners of the ''Coupe Simone Mathieu''
+* [[List of French Open Mixed Doubles champions|Mixed Doubles]], winners of the ''Coupe Marcel Bernard''
+* [[List of French Open champions|All champions]] ''(Open Era)''
+
+The trophies, designed and made by Maison [[Mellerio dits Meller]], are all made of pure silver with finely etched decorations on their side. Each new singles winner gets his or her name written on the base of the trophy. Winners receive custom-made pure silver replicas of the trophies they have won.<ref>{{cite web|title=An A to Z of Roland Garros|url=http://www.rolandgarros.com/en_FR/tournament_info/201307161374012338649.html|website=rolandgarros.com|publisher=[[Fédération Française de Tennis]] (FFT)|url-status=dead|archiveurl=https://web.archive.org/web/20150402233658/http://www.rolandgarros.com/en_FR/tournament_info/201307161374012338649.html|archivedate=2 April 2015|df=dmy-all}}</ref>
+
+===Current champions===
+<gallery>
+File:Paris-FR-75-Roland Garros-2 juin 2014-Nadal-23.jpg|'''[[Rafael Nadal]]''' was the winner of the Men's Singles in 2020.
+File:Swiatek RG19 (1) (48199020336).jpg|'''[[Iga Świątek]]''' was the winner of the Women's Singles in 2020.
+File:Krawietz RGQ19 (17) (48002699583).jpg|'''[[Kevin Krawietz]]''' was part of the winning Men's Doubles team in 2020. 
+File:Andreas Mies.png|'''[[Andreas Mies]]''' was part of the winning Men's Doubles team in 2020.
+File:Babos WM17 (8) (35347486494).jpg|'''[[Tímea Babos]]''' was part of the winning Women's Doubles team in 2020.	
+File:Kristina Mladenovic - Roland-Garros 2013 cropped - 002.jpg|'''[[Kristina Mladenovic]]''' was part of the winning Women's Doubles team in 2020.
+File:Chan L. RG19 (4) (48199371941).jpg|'''[[Latisha Chan]]''' was part of the winning Mixed Doubles team in 2019. It was her second Grand Slam mixed doubles title.
+File:Dodig RG18 (10) (42978898161).jpg|'''[[Ivan Dodig]]''' was part of the winning Mixed Doubles team in 2019. It was his second Grand Slam mixed doubles title. 
+</gallery>
+{| class="wikitable"
+|- style="background:#efefef;"
+|'''Event'''
+|'''Champion'''
+|'''Runner-up'''
+|'''Score'''
+|-
+| [[2020 French Open – Men's Singles|Men's Singles]] || {{flagicon|ESP}} [[Rafael Nadal]] || {{flagicon|SRB}} [[Novak Djokovic]] || 6–0, 6–2, 7–5
+|-
+| [[2020 French Open – Women's Singles|Women's Singles]] || {{flagicon|POL}} [[Iga Świątek]] ||{{flagicon|USA}} [[Sofia Kenin]] || 6–4, 6–1
+|-
+| [[2020 French Open – Men's Doubles|Men's Doubles]] || {{flagicon|GER}} [[Kevin Krawietz]]<br />{{flagicon|GER}} [[Andreas Mies]] || {{flagicon|CRO}} [[Mate Pavić]]<br />{{flagicon|BRA}} [[Bruno Soares]] || 6–3, 7–5
+|-
+| [[2020 French Open – Women's Doubles|Women's Doubles]] || {{flagicon|HUN}} [[Tímea Babos]]<br />{{flagicon|FRA}} [[Kristina Mladenovic]] || {{flagicon|CHI}} [[Alexa Guarachi]]<br />{{flagicon|USA}} [[Desirae Krawczyk]] || 6–4, 7–5
+|-
+| [[2019 French Open – Mixed Doubles|Mixed Doubles]] || {{flagicon|TPE}} [[Latisha Chan]]<br />{{flagicon|CRO}} [[Ivan Dodig]] || {{flagicon|CAN}} [[Gabriela Dabrowski]]<br />{{flagicon|CRO}} [[Mate Pavić]] || 6–1, 7–6<sup>(7–5)</sup>
+|}
+
+==Records==
+
+{| class="wikitable"
+|-
+! '''Record'''
+! style="width:110px;"|''' Era '''
+! '''Player(s)'''
+! '''Num.'''
+! '''Years'''
+|-
+|colspan=5|'''''Men since 1891'''''
+|-
+|rowspan=3| Winner of most men's singles titles
+|| Before 1925: <br/><small>(French club members only event)</small>
+| {{flagicon|FRA}} [[Max Decugis]]
+| style="text-align:center;"|8
+| 1903–1904, 1907–1909, 1912–1914
+|-
+|| 1925–1967:
+| {{flagicon|FRA}} [[Henri Cochet]]
+| style="text-align:center;"|4
+|  1926, 1928, 1930, 1932 <br /> Note: Also won World Hard Court Championship in 1922
+|-
+|| After 1967:
+| {{flagicon|ESP}} [[Rafael Nadal]]
+| style="text-align:center;"|13
+| 2005–2008, 2010–2014, 2017–2020
+
+|-
+|rowspan=3| Winner of most consecutive men's singles titles
+|| Before 1925: <br/><small>(French club members only event)</small>
+| {{flagicon|FRA}} [[Paul Aymé]]
+| style="text-align:center;"|4
+| 1897–1900
+|-
+|| 1925–1967:
+| {{flagicon|USA}} [[Frank Parker]] <br/> {{flagicon|EGY}} [[Jaroslav Drobný]] <br/> {{flagicon|USA}} [[Tony Trabert]] <br/> {{flagicon|ITA}} [[Nicola Pietrangeli]]
+| style="text-align:center;"|2
+| 1948–1949 <br/> 1951–1952 <br/> 1954–1955 <br/> 1959–1960
+|-
+|| After 1967:
+| {{flagicon|ESP}} [[Rafael Nadal]]
+| style="text-align:center;"|5
+| 2010–2014
+|-
+|rowspan=3|Winner of most men's doubles titles
+|| Before 1925: <br/><small>(French club members only event)</small>
+| {{flagicon|FRA}} [[Max Decugis]]
+| style="text-align:center;"|13
+| 1902–1909,  1911–1914, 1920<ref name=fo>{{cite web|title=French Open winners|url=http://www.rolandgarros.com/en_FR/about/history/winners.html|publisher=Roland Garros|accessdate=2 February 2015}}</ref>
+|-
+|| 1925–1967:
+| {{flagicon|AUS}} [[Roy Emerson]]
+| style="text-align:center;"|6
+| 1960, 1962 with [[Neale Fraser]], 1961 with [[Rod Laver]], 1963 with [[Manuel Santana]], 1964 with [[Ken Fletcher]], 1965 with [[Fred Stolle]]
+|-
+| After 1967:
+| {{flagicon|CAN}} [[Daniel Nestor]]<br/>{{flagicon|BLR}} [[Max Mirnyi]]
+| style="text-align:center;"|4
+| 2007 with [[Mark Knowles]], 2010 with [[Nenad Zimonjić]], 2011, 2012 with [[Max Mirnyi]] <br/> 2005, 2006 with [[Jonas Björkman]], 2011, 2012 with [[Daniel Nestor]]
+|-
+|rowspan=3| Winner of most consecutive men's doubles titles
+|| Before 1925: <br/><small>(French club members only event)</small>
+| {{flagicon|FRA}} [[Maurice Germot]]
+| style="text-align:center;"|10
+| 1906–1914, 1920<ref name=fo/>
+|-
+|| 1925–1967:
+| {{flagicon|AUS}} [[Roy Emerson]]
+| style="text-align:center;"|6
+| 1960–1965
+|-
+|After 1967:
+|{{flagicon|CAN}} [[Daniel Nestor]]
+| style="text-align:center;"|3
+|  2010–2012
+|-
+|rowspan=2| Winner of most mixed doubles titles – Men
+|| Before 1925: <br/><small>(French club members only event)</small>
+| {{flagicon|FRA}} [[Max Decugis]]
+| style="text-align:center;"|7
+| 1904–1906, 1908–1909, 1914 and 1920 with [[Suzanne Lenglen]]
+|-
+|| 1925-today:
+| {{flagicon|AUS}} [[Ken Fletcher]]<br />{{flagicon|FRA}} [[Jean-Claude Barclay]]
+| style="text-align:center;"|3
+| 1963–1965 with [[Margaret Court]]<br/>1968, 1971, 1973 with [[Françoise Dürr]]
+|-
+|rowspan=2| Winner of most titles (total: singles, doubles, mixed) – men
+| Before 1925: <br/><small>(French club members only event)</small>
+| {{flagicon|FRA}} [[Max Decugis]]
+| style="text-align:center;"|28
+| 1902–1920 (8 singles, 13 doubles, 7 mixed)
+|-
+| 1925-today:
+| {{flagicon|ESP}} [[Rafael Nadal]]
+| style="text-align:center;"|13
+| 2005–2008, 2010–2014, 2017–2020 (13 singles)
+|-
+|colspan=5|'''''Women since 1897'''''
+|-
+|rowspan=2|Winner of most women's singles titles
+||Till 1967: <br /><small>(incl. French club members only era)</small>
+| {{flagicon|FRA}} [[Suzanne Lenglen]]
+| style="text-align:center;"|6
+| 1920–1923, 1925–1926 <br /> Note: Also won World Hard Court Championship in 1914, 1921–1923
+|-
+||After 1967:
+| {{flagicon|USA}} [[Chris Evert]]
+| style="text-align:center;"|7
+| 1974–1975, 1979–1980, 1983, 1985–1986
+|-
+|rowspan=2|Winner of most consecutive women's singles titles
+| Till 1967: <br /><small>(incl. French club members only era)</small>
+| {{flagicon|FRA}} [[Jeanne Matthey]] <br /> {{flagicon|FRA}} [[Suzanne Lenglen]]
+| style="text-align:center;"|4
+| 1909–1912 <br /> 1920–1923
+|-
+| After 1967:
+| {{flagicon|YUG}}/{{flagicon|USA}} [[Monica Seles]] <br /> {{flagicon|BEL}} [[Justine Henin]]
+| style="text-align:center;"|3
+| 1990–1992 <br /> 2005–2007
+|-
+|rowspan=2|Winner of most women's doubles titles
+| Till 1967: <br /><small>(incl. French club members only era)</small>
+| {{flagicon|FRA}} [[Simonne Mathieu]]
+| style="text-align:center;"|6
+| 1933, 1934 with [[Elizabeth Ryan]], 1936–1937, 1938 with [[Billie Yorke]], 1939 with [[Jadwiga Jędrzejowska]]
+|-
+| After 1967:
+| {{flagicon|CZE}}/{{flagicon|USA}} [[Martina Navratilova]]
+| style="text-align:center;"|7
+| 1975 with Chris Evert, 1982 with [[Anne Smith]], 1984–1985, 1987, 1988 with [[Pam Shriver]], 1986 with [[Andrea Temesvári]]
+|-
+|rowspan=2|Winner of most consecutive women's doubles titles
+| Till 1967: <br /><small>(incl. French club members only era)</small>
+| {{flagicon|FRA}} [[Françoise Dürr]]
+| style="text-align:center;"|5
+| 1967–1971
+|-
+| After 1967:
+| {{flagicon|CZE}}/{{flagicon|USA}} [[Martina Navratilova]] <br/><br/> {{flagicon|USA}} [[Gigi Fernández]]
+| style="text-align:center;"|5
+| 1984–1987, 1988 with [[Pam Shriver]], 1986 with [[Andrea Temesvári]] <br/><br/> 1991 with [[Jana Novotná]], 1992–95 with [[Natasha Zvereva]]
+|-
+|rowspan=2|Winner of most mixed doubles titles – women
+| Till 1967: <br /><small>(incl. French club members only era)</small>
+| {{flagicon|FRA}} [[Suzanne Lenglen]]
+| style="text-align:center;"|7
+| 1914, 1920 with [[Max Decugis]], 1921–1923, 1925, 1926 with [[Jacques Brugnon]]
+|-
+| After 1967:
+| {{flagicon|FRA}} [[Françoise Dürr]]
+| style="text-align:center;"|3
+| 1968, 1971, 1973 with [[Jean-Claude Barclay]]
+|-
+|rowspan=2|Winner of most titles (total: singles, doubles, mixed) – women
+| Till 1967: <br /><small>(incl. French club members only era)</small>
+| {{flagicon|FRA}} [[Suzanne Lenglen]]
+| style="text-align:center;"|15
+| 1919–1926 (6 singles, 2 doubles, 7 mixed)
+|-
+| After 1967:
+| {{flagicon|CZE}}/{{flagicon|USA}} [[Martina Navratilova]]
+| style="text-align:center;"|11
+| 1974–1988 (2 singles, 7 doubles, 2 mixed)
+|-
+|colspan=5|'''''Miscellaneous'''''
+|-
+|rowspan=2|Youngest winner
+|Men:
+|{{flagicon|USA}} [[Michael Chang]]
+|colspan=2|17 years and 3 months
+|-
+|Women:
+|{{flagicon|YUG}}/{{flagicon|USA}} [[Monica Seles]]
+|colspan=2|16 years and 6 months
+|-
+|rowspan=2|Oldest winner
+|Men:
+|{{flagicon|FRA}} [[André Vacherot]]
+|colspan=2|40 years and 9 months
+|-
+|Women:
+|{{flagicon|HUN}} [[Zsuzsa Körmöczy]]
+|colspan=2|33 years and 10 months
+|-
+|rowspan=2|Unseeded Winners
+|Men:
+|{{flagicon|FRA}} [[Marcel Bernard]] <br/> {{flagicon|SWE}} [[Mats Wilander]] <br/> {{flagicon|BRA}} [[Gustavo Kuerten]] <br/> {{flagicon|ARG}} [[Gastón Gaudio]]
+|colspan=2|1946 <br/> 1982 <br/> 1997 <br/> 2004
+|-
+|Women:
+|{{flagicon|GBR}} [[Margaret Scriven]] <br/> {{flagicon|LAT}} [[Jeļena Ostapenko]] <br/> {{flagicon|POL}} [[Iga Świątek]]
+|colspan=2|1933 <br/> 2017 <br/> 2020 
+|-
+|-
+|rowspan=2|Match wins (singles)
+|Men:
+| {{flagicon|ESP}} [[Rafael Nadal]]
+|100 
+|2005–2020 (open era)
+|-
+|Women:
+|{{flagicon|FRG}} [[Steffi Graf]]
+|84 
+|1983–1999 (open era)
+|}
+
+==Television coverage==
+{{wide image|Court_Philippe_Chatrier_-_1er_tour_de_Roland_Garros_2010_-_tennis_french_open.jpg|1000px|[[2010 French Open]] – [[Court Philippe Chatrier]]}}
+
+Broadcast rights to the French Open (as of 2018) are as follows:<ref name="tv">{{cite web | url=http://www.totalsportek.com/tennis/french-open-tv-channels-broadcasting-live/ | title=Channels Broadcasting French Open 2018 Live on TV & Online | accessdate= 3 March 2018}}</ref>
+
+===France===
+[[France Télévisions]] and [[Eurosport]] hold the [[Sports broadcasting contracts in France|broadcast rights]] to the French Open until 2021.
+
+===United Kingdom===
+[[ITV Sport]] and [[Eurosport]] holds broadcasting rights to show the French Open tennis tournaments until 2021.<ref>{{cite web|url=http://www.itv.com/presscentre/press-releases/french-open-stay-itv-until-2018#.U5SZ49xGods/ |title=French Open to stay on ITV until 2021 |publisher=ITV Press Centre |date=6 June 2014 |accessdate=8 June 2014}}</ref> The bulk of the daily coverage is broadcast on [[ITV4]] although both singles finals plus other weekend matches are shown on [[ITV (TV channel)|ITV]]. [[John Inverdale]] hosts the coverage. Commentators include [[Nick Mullins]], [[Jonathan Overend]], [[Mark Petchey]], [[Samantha Smith (tennis)|Sam Smith]], [[Jim Courier]], [[Fabrice Santoro]] and [[Anne Keothavong]].
+
+Studio presentation for the French Open on Eurosport is hosted by [[Barbara Schett]] sometimes joined by [[Mats Wilander]]. Commentators include Simon Reed, Chris Bradnam, Nick Lester, [[Jason Goodall]], [[Jo Durie]], [[Frew McMillan]], [[Arvind Parmar]] and [[Chris Wilkinson]].
+
+===United States===
+[[Tennis on NBC|NBC]]'s coverage of the French Open began in [[1975 French Open|1975]].<ref>{{cite web |url=http://fangsbites.com/2013/05/nbc-begins-coverage-of-the-20134-french-open-this-sunday/ |title=NBC Begins Coverage of The 2013 French Open This Sunday |last1=Fang |first1=Ken |last2= |first2= |date=23 May 2013 |work=Fang's Bites |publisher= |accessdate=26 May 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20131208040936/http://fangsbites.com/2013/05/nbc-begins-coverage-of-the-20134-french-open-this-sunday/ |archivedate=8 December 2013 |df=dmy-all }}</ref> [[Tennis Channel]] owns pay television rights to the tournament. Coverage of morning window (U.S. time) matches were sub-licensed to [[ESPN]] for broadcast by [[ESPN2]] from 2007 through 2015.<ref name=aa-espnfrenchopen>{{cite web|title=ESPN drops the French Open, NBCSN could step in|url=http://awfulannouncing.com/2015/espn-drops-the-french-open-nbcsn-could-step-in.html|website=Awful Announcing|accessdate=3 August 2015}}</ref> In August 2015, ESPN announced that it would discontinue its sub-licensing and drop coverage of the French Open beginning in 2016, with network staff citing that because of the structure of the arrangement, its coverage "did not fit our successful model at the other three Majors"—where ESPN is the exclusive rightsholder.<ref name=aa-espnfrenchopen/> Tennis Channel chose to retain these rights under its new owner [[Sinclair Broadcast Group]], nearly doubling the amount of coverage Tennis Channel will air from Roland Garros.<ref>{{cite news|url=http://www.multichannel.com/news/content/tennis-channel-aces-french-open-pay-tv-rights/403283|title=Tennis Channel Extends French Open Pay TV Rights|last=Umstead|first=R. Thomas|date=14 March 2016|work=Multichannel News|accessdate=16 March 2016}}</ref><ref>{{cite news|url=http://www.sportsbusinessdaily.com/Journal/Issues/2015/08/03/Media/ESPN-French-Open.aspx|title=ESPN bids French Open adieu after 13 years|last=Ourand, John & Kaplan, Daniel|first=-|date=3 August 2015|work=[[Sports Business Journal]]|accessdate=16 March 2016}}</ref>
+
+Other than a three-year stint on [[Tennis on CBS|CBS]], NBC has remained the American [[television network]] home of the French Open since [[1983 French Open|1983]]. Since acquiring rights to the [[Indianapolis 500]] in 2019, NBC's coverage begins on [[Memorial Day]], the second day of the tournament; the network provides coverage windows on the holiday and the second weekend in the afternoon U.S. time. These windows consist of exclusive tape-delayed matches from earlier in the day, but any ongoing matches at the window's start are shown live to their conclusion. The later men's and women's semifinals are broadcast live on NBC in the [[Eastern Time Zone]] and tape-delayed in others, but since 2017 these matches are also simulcast on [[NBCSN]] to allow nationwide live coverage. Finals are live nationwide.<ref>{{cite web |title=French Open TV Schedule 2018 |url=http://www.sportsmediawatch.com/french-open-tv-schedule-nbc-tennis-channel-nbcsn-not-espn/ |website=Sports Media Watch |date=19 May 2016}}</ref>
+
+===Other countries and areas===
+'''Europe''' – [[Eurosport]] and the Eurosport Player<ref name="Broadcasters">{{cite web | url=https://www.rolandgarros.com/fr-fr/broadcasters | title=Broadcasters | publisher=Roland-Garros | date=January 31, 2020 | accessdate=January 31, 2020}}</ref> {{small|(co-broadcaster in various countries)}}
+* Albania – [[Radio Televizioni Shqiptar|RTSH]]<ref name="Broadcasters"/>
+* Austria – [[ORF (broadcaster)|ORF]]<ref name="Broadcasters"/>
+* Belgium – [[RTBF]]<ref name="Broadcasters"/>
+* Bulgaria – [[Bulgarian National Television|BNT]]<ref name="Broadcasters"/>
+* Croatia – [[Hrvatska radiotelevizija|HRT]]<ref name="Broadcasters"/>
+* Cyprus – [[Cyprus Broadcasting Corporation|CyBC]]<ref name="Broadcasters"/>
+* Czech Republic – [[Česká Televize]]<ref name="Broadcasters"/>
+* Estonia – [[Postimees|Postimees TV]]<ref name="Broadcasters"/>
+* Finland – [[Yleisradio Oy|Yle]]<ref name="Broadcasters"/>
+* Georgia – [[Silknet]]<ref name="Broadcasters"/>
+* Greece – [[Hellenic Broadcasting Corporation|ERT]]<ref name="Broadcasters"/>
+* Ireland – [[Eir Sport 1]]<ref name="Broadcasters"/>
+* Montenegro – [[RTCG]]<ref name="Broadcasters"/>
+* Russia – [[Russian Television and Radio Broadcasting Network|RTRS]]<ref name="Broadcasters"/>
+* Slovakia – [[Markíza]]<ref name="Broadcasters"/>
+* Slovenia – [[Radiotelevizija Slovenija|RTV Slovenija]]<ref name="Broadcasters"/>
+* Switzerland – [[Swiss Broadcasting Corporation|SRG SSR]]<ref name="Broadcasters"/>
+'''Americas''' – [[ESPN Latin America|ESPN]]<ref name="Broadcasters"/> {{small|(except Brazil & Canada)}}
+* Argentina – [[Televisión Pública Argentina]]<ref name="Broadcasters"/>
+* Brazil – [[BandSports]]<ref name="Broadcasters"/>
+* Canada – [[Réseau des sports|RDS]] (French) & [[The Sports Network|TSN]] (English)<ref name="Broadcasters"/>
+* Caribbean – [[ESPN Caribbean]]<ref name="Broadcasters"/> 
+* United States - [[NBCSN]] and [[The Tennis Channel]]
+'''Africa'''
+* North Africa and Middle East – [[beIN Sports]]<ref name="Broadcasters"/>
+* Southern Africa – [[SuperSport (South African TV channel)|SuperSport]]<ref name="Broadcasters"/>
+'''Asia'''
+* China – [[China Central Television|CCTV]]<ref name="Broadcasters"/>
+* South Korea – [[JTBC Golf&Sports]]<ref name="Broadcasters"/>
+* Japan – [[Wowow|WOWOW]] & [[TV Tokyo]]<ref name="Broadcasters"/>
+* Indian Subcontinent – [[Star Sports]] Select<ref name="Broadcasters"/>
+* Southeast Asia – [[Fox Sports Asia|Fox Sports]]<ref name="Broadcasters"/>
+'''Oceania'''
+* Australia – [[Fox Sports (Australia)|Fox Sports]] and [[SBS Sport]]<ref>{{cite web|url=http://www.adnews.com.au/news/sbs-continues-to-push-the-boundaries-by-tackling-diversity-sexism-racism-in-2018|title=SBS continues to push the boundaries by tackling diversity, sexism, racism in 2018|publisher=AdNews|first=Arvind|last=Hickman|date=15 November 2017|accessdate=25 November 2017}}</ref>
+* New Zealand – [[Sky Sport (New Zealand)|Sky Sport]]<ref name="Broadcasters"/>
+* Fiji & Pacific Islands – Fox Sports<ref name="Broadcasters"/>
+
+==See also==
+;Lists of champions
+*[[List of French Open champions]] ''(Open Era, all events)''
+**[[List of French Open men's singles champions]]
+**[[List of French Open women's singles champions]]
+**[[List of French Open men's doubles champions]] 
+**[[List of French Open women's doubles champions]]
+**[[List of French Open mixed doubles champions]]
+*[[List of French Open singles finalists during the open era]], records and statistics
+
+;Other Grand Slam tournaments
+*[[Australian Open]]
+*[[The Championships, Wimbledon|Wimbledon]]
+*[[US_Open_(tennis)|US Open]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|French Open}}
+* [http://www.rolandgarros.com/ Official website]
+* {{in lang|fr}} [https://web.archive.org/web/20050707013329/http://roland-garros.france2.fr/ Roland Garros on France2]
+* {{in lang|fr}} [http://www.ina.fr/rolandgarros Roland Garros on ina.fr : more than 600 hours of audio/visual archives]
+* [http://www.paris-photos.org/roland-garros.php Photos of Roland Garros]
+* [http://www.grandslamhistory.com/index.php?menu=winners&act=GetWinnersTGSU&id_tour=2&id_event=1&id_nation=0/ French Open – All winners and runners-up. Reference book]
+
+{{S-start}}
+{{Succession box
+|title=[[Grand Slam (tennis)|Grand Slam Tournament]]
+|before=[[Australian Open]]
+|after=[[The Championships, Wimbledon|Wimbledon]]
+|years='''May–June'''}}
+{{S-end}}
+
+{{French Open championships}}
+{{Grand Slam Tournaments}}
+{{tennis box}}
+{{Grand Slam champions}}
+{{Portal bar|Tennis|France}}
+{{Coord|48|50|49.8|N|2|14|57.3|E|display=title}}
+
+[[Category:French Open| ]]
+[[Category:1891 establishments in France]]
+[[Category:Annual sporting events in France]]
+[[Category:16th arrondissement of Paris]]
+[[Category:Grand Slam (tennis) tournaments]]
+[[Category:Major tennis tournaments]]
+[[Category:Clay court tennis tournaments]]
+[[Category:Recurring sporting events established in 1891]]
+[[Category:June sporting events]]
+[[Category:May sporting events]]
+[[Category:Tennis in Paris]]
+[[Category:Tennis tournaments in France]]

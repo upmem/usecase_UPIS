@@ -1,0 +1,130 @@
+{{Infobox album
+| name       = Fantastic Beasts and Where to Find Them
+| type       = Film score
+| artist     = [[James Newton Howard]]
+| cover      = Fantastic Beasts Standard Sdtk Cover.jpg
+| alt        =
+| released   = 4 November 2016 (Vinyl)<br/>18 November 2016 (Digital/Physical)
+| recorded   = Summer 2016
+| venue      =
+| studio     = [[Abbey Road Studios]]<br/>{{small|([[City of Westminster|Westminster]], [[London]])}}
+| genre      = Soundtrack
+| length     = 72:00 (Standard edition)<br/>100:00 (Deluxe edition)
+| label      = [[WaterTower Music]]
+| producer   =
+| prev_title = [[The Huntsman: Winter's War]]
+| prev_year  = 2016
+| next_title = [[Detroit (film)|Detroit]]
+| next_year  = 2017
+| misc       = {{Extra chronology
+ | artist     = [[Wizarding World]] soundtrack
+ | type       = Soundtrack
+ | prev_title = [[Harry Potter and the Deathly Hallows – Part 2 (soundtrack)|Deathly Hallows – Part 2]]
+ | prev_year  = 2011
+ | title      = Fantastic Beasts and Where to Find Them
+ | year       = 2016
+ | next_title = [[Fantastic Beasts: The Crimes of Grindelwald (soundtrack)|Fantastic Beasts: The Crimes of Grindelwald]]
+ | next_year  = 2018
+}}
+}}
+
+'''''Fantastic Beasts and Where to Find Them''''' is the [[film score]] to the 2016 [[Fantastic Beasts and Where to Find Them (film)|film of the same name]], written and composed by [[James Newton Howard]]. A limited edition vinyl was first released on 4 November 2016.<ref>{{cite web |title=Fantastic Beasts And Where To Find Them: Music From The Motion Picture (Picture Disc LP) |url=https://watertower-music.shop.musictoday.com/product/XQLP04/fantastic-beasts-and-where-to-find-them-music-from-the-motion-picture-picture-disc-lp |website=[[WaterTower Music]] |accessdate=September 7, 2019}}</ref> The soundtrack was later released in both digital and physical formats on 18 November 2016 by [[WaterTower Music]].<ref name="Pottermore">{{cite web|title=Exclusive: Pottermore debuts the main theme from the soundtrack for Fantastic Beasts|url=https://www.pottermore.com/news/pottermore-officially-debuts-main-theme-from-fantastic-beasts-soundtrack|website=[[Pottermore]]|accessdate=11 October 2016}}</ref>
+
+==Background==
+On 6 April 2016, it was announced that [[James Newton Howard]] would be composing the music for the film with veteran [[Harry Potter (film series)|Harry Potter]] director [[David Yates]] at the helm and [[J.K Rowling]] penning the screenplay.<ref>{{cite web |last1=Levine |first1=Nick |title=‘Fantastic Beasts’: James Newton Howard to score JK Rowling’s ‘Harry Potter’ spin-off |url=https://www.nme.com/news/film/fantastic-beasts-james-newton-howard-to-score-jk-875743 |website=[[NME]] |publisher=BandLab Technologies |accessdate=September 7, 2019 |date=9 April 2016}}</ref> Howard stated that the film posed a "particular challenge" for him as it needed to be different and distinguishable from the previous Harry Potter films which saw iconic themes from acclaimed composer [[John Williams]].<ref>{{cite web |last1=Lapin |first1=Andrew |title=James Newton Howard On Why ‘Fantastic Beasts’ Was So Hard to Score And Why He’s Going On Tour |url=https://www.indiewire.com/2017/07/james-newton-howard-interview-harry-potter-fantastic-beasts-1201849718/ |website=[[IndieWire]] |publisher=[[Penske Media Corporation]] |accessdate=September 7, 2019 |date=3 July 2017}}</ref> In an interview with [[Pottermore]], Howard stated that "it really is a balance of keeping the magic, the slight tension and the comedy. You don’t want it to be too much one way or the other. It’s always a balancing act between things like pace, character point of view, action and humour." Discussions with Yates, suggested that the music should feel "like we’re being invited into a grand adventure". 
+
+Howard spent the majority of the time writing the themes at his piano for the main characters. For the character of Newt, he wrote two primary themes, a theme that displays Newt's warm personality and whimsicalness, and a theme for Newt's heroic actions which Howard calls "kind of the big, muscular hero theme". For Jacob, Howard crafted a tune that encompasses "lazy, bluesy 1920s quasi-jazzy kind". There were also themes for the creatures namely, the Erumpent, Demiguise and the Niffler.<ref>{{cite web |title=How composer James Newton Howard soundtracked Fantastic Beasts |url=https://web.archive.org/web/20170408015347/https://www.pottermore.com/news/interview-with-fantastic-beasts-composer-james-newton-howard |website=[[Pottermore]] |via=[[Wayback Machine]]|accessdate=October 1, 2020 |date=18 November 2016}}</ref>
+
+The score was recorded at [[Abbey Road Studios]] in [[London]] with a 97-piece [[London Symphony Orchestra]] conducted by Pete Anthony, with orchestrations by Jeff Atmajian and Peter Boyer. The score was mixed by [[Shawn Murphy (sound engineer)|Shawn Murphy]].
+
+==Track listing==
+{{Track listing
+| all_music =
+| headline = Standard Edition — Disc One
+| title1 = Main Titles – Fantastic Beasts and Where To Find Them
+| length1 = 2:56
+| title2 = There Are Witches Among Us / The Bank / The Niffler
+| length2 = 6:55
+| title3 = Tina Takes Newt In / Macusa Headquarters
+| length3 = 1:57
+| title4 = Pie or Strudel / Escaping Queenie and Tina's Place
+| length4 = 3:06
+| title5 = Credence Hands Out Leaflets
+| length5 = 2:05
+| title6 = Inside The Case
+| length6 = 9:10
+| title7 = The Erumpent
+| length7 = 3:30
+| title8 = In The Cells
+| length8 = 2:12
+| title9 = Tina and Newt Trial / Let's Get The Good Stuff Out / You're One of Us Now / Swooping Evil
+| length9 = 8:01
+| title10 = Gnarlak Negotiations
+| length10 = 2:58
+| title11 = The Demiguise and The Occamy
+| length11 = 4:07
+| title12 = A Close Friend
+| length12 = 1:52
+| title13 = The Obscurus / Rooftop Chase
+| length13 = 3:50
+| title14 = He's Listening To You Tina
+| length14 = 2:07
+| title15 = Relieve Him of His Wand / Newt Releases The Thunderbird / Jacob's Farewell
+| length15 = 12:34
+| title16 = Newt Says Goodbye to Tina / Jacob's Bakery
+| length16 = 3:28
+| title17 = End Titles – Fantastic Beasts and Where To Find Them
+| length17 = 2:22
+|total_length = 73:00
+}}
+
+{{Track listing
+| all_music =
+| headline = Deluxe Edition: Bonus — Disc Two
+| title1 = A Man and His Beasts
+| length1 = 8:31
+| title2 = Soup and Leaflets
+| length2 = 2:20
+| title3 = Billywig
+| length3 = 1:31
+| title4 = The Demiguise and The Lollipop
+| length4 = 0:59
+| title5 = I’m Not Your Ma
+| length5 = 2:05
+| title6 = Blind Pig (performed by [[Emmi (Australian singer)|Emmi]])
+| length6 = 1:29
+| title7 = Newt Talks To Credence
+| length7 = 2:13
+| title8 = End Titles Pt.2 – Fantastic Beasts and Where To Find Them
+| length8 = 1:22
+| title9 = Kowalski Rag
+| length9 = 5:13
+|total_length = 25:43
+}}
+
+==Charts==
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2016–17)
+! scope="col"| Peak<br /> position
+|-
+{{album chart|Flanders|68|artist=Soundtrack / James Newton Howard|album=Fantastic Beasts And Where To Find Them|rowheader=true|accessdate=26 November 2016}}
+|-
+{{album chart|Wallonia|140|artist=Soundtrack / James Newton Howard|album=Fantastic Beasts And Where To Find Them|rowheader=true|accessdate=21 January 2017}}
+|-
+! scope="row"| French Albums ([[Syndicat National de l'Édition Phonographique|SNEP]])<ref>{{cite web|url=http://www.snepmusique.com/tops-semaine/top-albums-fusionnes/?ye=2016&we=47|title=Le Top de la semaine : Top Albums Fusionnes – SNEP (Week 47, 2016)|publisher=[[Syndicat National de l'Édition Phonographique]]|language=French|accessdate=29 November 2016}}</ref>
+| 161
+|-
+{{album chart|Billboard200|192|artist=Soundtrack|rowheader=true|accessdate=29 November 2016}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Harry Potter}}
+
+[[Category:2016 soundtrack albums]]
+[[Category:London Symphony Orchestra soundtracks]]
+[[Category:WaterTower Music soundtracks]]
+[[Category:Wizarding World music]]
+[[Category:Fantasy film soundtracks]]

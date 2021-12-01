@@ -1,0 +1,36 @@
+{{for|his nephew, the English barrister and judge|Thomas Abney (judge)}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox person/Wikidata | fetchwikidata=ALL | honorific_prefix   = [[Sir]]}}
+'''Sir Thomas Abney''' (January 1640 – 6 February 1722) was a merchant and banker who served as [[Lord Mayor of London]] for the year 1700 to 1701.
+
+Abney was the son of James Abney and was born in [[Willesley]], then in [[Derbyshire]] but now in [[Leicestershire]]. He was the younger brother of [[Edward Abney]], later MP for [[Leicester (UK Parliament constituency)|Leicester]]. He was educated at [[Loughborough Grammar School]], where a house is named after him.
+
+Abney was apprenticed to William Thorogood, citizen & fishmonger of London, on 1 February 1658.<ref>C. Webb, London Livery Company Apprentices. Vol. 44. Fishmongers' Company 1614–1800 (London: Society of Genealogists, 2004)</ref> In 1668, he took up the Freedom of the [[Worshipful Company of Fishmongers|Fishmongers Company]] and also married Sarah Caryl who died in 1698. In 1694 he was one of the original [[List of directors of the Bank of England|Directors of the Bank of England]]  and was elected a [[Sheriff of London]]. He was elected [[Lord Mayor of London]] in 1700 and was knighted by [[William III of England|William III]].<ref name="ALD">{{cite web |url =   http://www.british-history.ac.uk/no-series/london-aldermen/hen3-1912/pp75-119 |title= 'Chronological list of aldermen: 1651-1700', in The Aldermen of the City of London Temp. Henry III - 1912 (London, 1908), pp. 75-119.  | author= Alfred P Beaven |publisher= British History Online| accessdate = 15 January 2019}}</ref>
+
+Abney was a pious man, and no business or festivity, was allowed to interrupt his religious observances. It was said that "on the day he became Lord Mayor, he withdrew from the Guildhall after supper, read prayers at home, and then returned to his guests". For thirty-six years he kept Dr [[Isaac Watts]], as his guest and friend, at his mansion at [[Stoke Newington]].<ref name="Thornbury">{{cite web |url =    http://www.british-history.ac.uk/old-new-london/vol1/pp396-416 |title= 'The Lord Mayors of London', in Old and New London: Volume 1 (London, 1878), pp. 396-416.   | author=   Walter Thornbury |publisher= British History Online| accessdate =   16 January 2019}}</ref>
+
+In 1700, Abney married [[Mary Abney|Mary Gunston]], who was surprisingly independent. It was Mary Abney who gave his name to [[Abney Park]] in [[Stoke Newington]]. Abney had a nephew also named [[Thomas Abney (judge)|Thomas Abney]], who was a judge.<ref name="DNB">{{cite DNB|wstitle=Abney, Thomas (1640-1722)|volume=1}}</ref>
+
+==References==
+{{Reflist}}
+
+{{s-start}}
+{{s-civ}}
+{{succession box 
+| title=[[File:Coat of Arms of The City of London.svg|55px|center]] [[List of Lord Mayors of London|Lord Mayor of London]]
+|years= 1700-1701  
+| before=[[Richard Levett|Sir Richard Levett]]
+| after= [[William Gore (Lord Mayor of London)|Sir William Gore]]
+}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Abney, Thomas}}
+[[Category:1640 births]]
+[[Category:1721 deaths]]
+[[Category:People from Derbyshire (before 1897)]]
+[[Category:People educated at Loughborough Grammar School]]
+[[Category:Sheriffs of the City of London]]
+[[Category:18th-century lord mayors of London]]
+[[Category:Knights Bachelor]]

@@ -1,0 +1,65 @@
+{{Use dmy dates|date=October 2019}}
+{{Infobox school 
+| name          = Miltoncross Academy
+| image         = 
+| image_size          = 
+| caption       = 
+| coordinates   = {{coord|50.8007|-1.0607|type:edu_region:GB_dim:100|format=dec|display=inline,title}}
+| motto         = 
+| established   = {{Start date|1999|09|01|df=y}}
+| closed        = 
+| type          = [[Academy (English school)|Academy]]
+| religious_affiliation      =  
+| president     = 
+| head_label    =  Headteacher
+| head          =  Ms Fiona Calderbank
+| r_head_label  = 
+| r_head        = 
+| chair_label   = 
+| chair         = 
+| founder       = 
+| address        = Milton Road
+| city          = [[Milton, Portsmouth|Milton]]<br>[[Portsmouth]]
+| county        = [[Hampshire]]
+| country       = [[England]]
+| postcode      = PO3 6RB
+| dfeno         = 851/4003 
+| urn           = 140605 
+| ofsted        = yes
+| staff         = 
+| capacity      =
+| enrolment    =  <!-- {{As of|YYYY|MM|lc=on}} -->
+| gender        = [[Mixed-sex education|Coeducational]]
+| lower_age     = 11
+| upper_age     = 16
+| houses        = 
+| colours       =   
+| publication   = 
+| free_label_1  = 
+| free_1        = 
+| free_label_2  = 
+| free_2        = 
+| free_label_3  = 
+| free_3        = 
+| website       = http://www.miltoncrossacademy.org/
+}}
+
+'''Miltoncross Academy''' (formerly Miltoncross School) It is a [[Mixed-sex education|coeducational]] [[secondary school]] located in the [[Milton, Portsmouth|Milton]] area of [[Portsmouth]] in the [[English county]] of [[Hampshire]].<ref>http://www.miltoncrossacademy.org/</ref>
+
+The school is situated on the site of the former 'Priorsdean' Hospital for infectious diseases, which was established in 1884. Miltoncross School opened on the site in September 1999, but did not move to the building it is housed in until 2000. Previously a [[Community school (England and Wales)|community school]] administered by [[Portsmouth City Council]], Miltoncross school converted to [[Academy (English school)|academy status]] on 1 November 2014 and was renamed Miltoncross Academy. The school is sponsored by The Kemnal Academies Trust, but continues to coordinate with Portsmouth City Council for admissions.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.miltoncrossacademy.org/ Miltoncross Academy official website]
+
+{{Schools in Hampshire}}
+
+[[Category:Secondary schools in Portsmouth]]
+[[Category:Educational institutions established in 1999]]
+[[Category:1999 establishments in England]]
+[[Category:Academies in Portsmouth]]
+
+
+{{Hampshire-school-stub}}

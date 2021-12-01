@@ -1,0 +1,75 @@
+{{Biathlon World Championships 2012}}
+The women's mass start competition of the [[Biathlon World Championships 2012]] was held on March 11, 2012 at 16:00 local time.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SWMS/BT_C51D2_1.0.pdf Start list]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+== Results ==
+The race started at 16:00.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SWMS/BT_C73E_1.0.pdf Final Results] {{webarchive |url=https://web.archive.org/web/20140202105304/http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SWMS/BT_C73E_1.0.pdf |date=February 2, 2014 }}</ref>
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Bib !! Name !! Country !! Penalties (P+P+S+S) !! Time   !! Deficit
+|-
+|  {{gold01}} || 3 || align=left|[[Tora Berger]] || align=left|{{flag|Norway}} || 1 (0+0+1+0) || 35:41.6 ||
+|-
+|  {{silver02}} || 4 || align=left|[[Marie-Laure Brunet]] || align=left|{{flag|France}}  || 1 (0+0+0+1) || 35:49.7 ||+8.1
+|-
+|  {{bronze03}} || 9 || align=left|[[Kaisa Mäkäräinen]] || align=left|{{flag|Finland}}  || 1 (0+0+0+1) || 35:54.3||+12.7
+|-
+|  {{sort|04|4}} || 24 || align=left|[[Tina Bachmann]] || align=left|{{flag|Germany}}  || 2 (0+1+0+1) || 36:24.0 ||+42.4
+|-
+|  {{sort|05|5}} || 2 || align=left|[[Darya Domracheva]] || align=left|{{flag|Belarus}} || 5 (1+0+2+2) || 36:37.2 ||+55.6
+|-
+|  {{sort|06|6}} || 11 || align=left|[[Marie Dorin Habert]] || align=left|{{flag|France}} || 1 (0+0+1+0) || 36:40.5 ||+58.9
+|-
+|  {{sort|07|7}} || 5 || align=left|[[Vita Semerenko]] || align=left|{{flag|Ukraine}}  || 1 (0+1+0+0) || 36:41.6 ||+1:00.0
+|-
+|  {{sort|08|8}} || 12 || align=left|[[Anastasiya Kuzmina]] || align=left|{{flag|Slovakia}}  || 3 (1+1+0+1) || 36:43.5	 ||+1:01.9
+|-
+|  {{sort|09|9}} || 18 || align=left|{{Nowrap|[[Weronika Nowakowska-Ziemniak]]}} || align=left|{{flag|Poland}} || 2 (0+0+1+1) || 36:44.9 ||+1:03.3
+|-
+|  10 || 1 || align=left|[[Magdalena Neuner]] || align=left|{{flag|Germany}}  || 6 (1+1+1+3) || 36:52.0	 ||+1:10.4
+|-
+|  11 || 28 || align=left|[[Jana Gereková]] || align=left|{{flag|Slovakia}}  ||  2 (0+0+0+2)|| 36:56.9	 ||+1:15.3
+|-
+|  12 || 10 || align=left|[[Andrea Henkel]] || align=left|{{flag|Germany}}  || 3 (0+1+1+1) || 37:00.5 ||+1:18.9
+|-
+|  13 || 14 || align=left|[[Teja Gregorin]] || align=left|{{flag|Slovenia}} || 2 (0+0+2+0) || 37:02.4 ||+1:20.8
+|-
+|  14 || 17 ||align=left| [[Veronika Vítková]] || align=left|{{Nowrap|{{flag|Czech Republic}}}} || 2 (0+0+0+2) || 37:02.8 ||+1:21.2
+|-
+|  15 || 7 || align=left|[[Helena Ekholm]] || align=left|{{flag|Sweden}}  || 2 (0+1+0+1) || 37:06.4	 ||+1:24.8
+|-
+|  16 || 26 || align=left|[[Susan Dunklee]] || align=left|{{flag|United States}}  || 1 (1+0+0+0) || 37:10.3 ||+1:28.7
+|-
+|  17 || 29 || align=left|[[Anaïs Bescond]] || align=left|{{flag|France}}  ||  4 (1+1+1+1)|| 37:20.5	 ||+1:38.9
+|-
+|  18 || 13 || align=left|[[Synnøve Solemdal]] || align=left|{{flag|Norway}} || 4 (0+1+1+2) || 37:20.6	 ||+1:39.0
+|-
+|  19 || 6 || align=left|[[Olga Vilukhina]] || align=left|{{flag|Russia}}  || 3 (2+1+0+0) || 37:22.0 ||+1:40.4
+|-
+|  20 || 19 || align=left|[[Anna Maria Nilsson]] || align=left|{{flag|Sweden}} || 2 (0+0+1+1)|| 37:33.1	 ||+1:51.5
+|-
+|  21 || 25 || align=left|[[Fuyuko Suzuki]] || align=left|{{flag|Japan}} || 1 (1+0+0+0) || 37:54.0 ||+2:12.4
+|-
+|  22 || 23 || align=left|[[Elise Ringen]] || align=left|{{flag|Norway}} || 5 (0+0+3+2) || 38:00.0||+2:18.4
+|-
+|  23 || 23 || align=left|[[Zina Kocher]] || align=left|{{flag|Canada}}  || 4 (1+1+1+1) || 38:12.2||+2:30.6
+|-
+|  24 || 15 || align=left|[[Svetlana Sleptsova]] || align=left|{{flag|Russia}} || 5 (2+1+1+1) || 38:40.6 ||+2:59.0
+|-
+|  25 || 30 || align=left|[[Krystyna Guzik|Krystyna Pałka]] || align=left|{{flag|Poland}} || 5 (0+0+2+3) || 38:51.2 ||+3:09.6
+|-
+|  26 || 20 ||align=left|[[Selina Gasparin]] || align=left|{{flag|Switzerland}} || 5 (1+1+1+2) || 39:09.1||+3:27.5
+|-
+|  27 || 27 || align=left|[[Mari Laukkanen]] || align=left|{{flag|Finland}}  ||  5 (2+1+0+2) || 40:10.6	 ||+4:29.0
+|-
+|  28 || 22 || align=left|[[Michela Ponza]] || align=left|{{flag|Italy}} || 4 (1+1+1+1) || 40:25.4	 ||+4:43.8
+|-
+|  29 || 16 || align=left|[[Magdalena Gwizdoń]] || align=left|{{flag|Poland}} || 5 (3+0+1+1) || 41:08.1 ||+5:26.5
+|-
+|  {{hs|99}} || 8 ||  align=left|[[Olga Zaitseva]] || align=left|{{flag|Russia}}   || 1 (0+0+0+1) || {{sort|99:99.9|DSQ}} ||
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Biathlon World Championships 2012 - Women's mass start}}
+[[Category:Biathlon World Championships 2012]]
+[[Category:2012 in German women's sport]]

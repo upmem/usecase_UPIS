@@ -1,0 +1,13 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = This image depicts the logo for MTV's Total Request A.M.
+|Source = https://www.twitter.com/trl/
+|Article = Total Request Live
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.
+|Replaceability = n.a.
+|Minimality = This image depicts the logo for MTV's Total Request A.M.
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free logo}}

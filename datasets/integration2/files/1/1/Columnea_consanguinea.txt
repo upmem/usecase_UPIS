@@ -1,0 +1,68 @@
+{{Speciesbox
+| image_alt =
+| image = Columnea consanguinea (foliage).jpg
+| image_caption = The leaves of ''Columnea consanguinea'' have characteristic red heart-shaped markings on their lower surfaces
+| genus = Columnea
+| species = consanguinea
+| authority = [[Johannes Ludwig Emil Robert von Hanstein|Hanst.]]
+| range_map =
+| range_map_caption =
+| synonyms_ref = <ref name="WIEHLER2">{{cite journal|author=Hans Wiehler |year=1973|title=One hundred transfers from ''Alloplectus'' and ''Columnea'' (Gesneriaceae)|journal=Phytologia |volume=27|issue=5|pages=309–329|url=http://biostor.org/reference/63611.text|doi=10.5962/bhl.part.13920|doi-access=free}}</ref>
+| synonyms =
+*''Columnea darienensis''<br/><small>[[Conrad Vernon Morton|C.V. Morton]]</small>
+*''Dalbergaria consanguinea''<br/><small>(Hanst.) [[Hans Wiehler|Wiehler]]</small>
+*''Dalbergaria darienensis''<br/><small>(C.V. Morton) Wiehler</small>
+}}
+
+'''''Columnea consanguinea''''' is a [[species]] of [[flowering plant]]s in the genus ''[[Columnea]]''. They are [[endemism|endemic]] to [[Colombia]], [[Costa Rica]], [[Ecuador]], [[Nicaragua]], and [[Panama]]. They are distinctive for possessing red translucent heart-shaped markings on their leaves that serve to attract their main [[pollinator]]s - the [[hummingbird]] ''[[Heliodoxa jacula]]'' - to their more inconspicuous [[flower]]s.
+
+The species was first described by [[Johannes von Hanstein]] in 1865. It is classified under the [[family (biology)|family]] [[Gesneriaceae]].
+
+==Description==
+''Columnea consanguinea'' is a [[shrub]]-like [[herb]] with unbranched pale brown and hairy stems that grow to a maximum length of around {{convert|1|to|1.2|m|ft|abbr=on}} long. Their leaves are borne on [[Petiole (botany)|stalks]] around {{convert|1|cm|in|abbr=on}} in length, and arranged in an [[Phyllotaxis|opposite pattern]] along the stems. However, one leaf in each pair is a great deal smaller than the other leaf, giving the impression that the leaves are arranged alternately.<ref name="COSTARICA"/>
+
+The larger leaf blades are lanceolate with unequal sides. They are about {{convert|12|to|16|cm|in}} long and {{convert|3|to|6|cm|abbr=on}} wide. They are smooth on the upper surface and slightly hairy on the lower surface. They are predominantly dark green in color but bear characteristic translucent bright red heart-shaped markings on the underside of their leaves. The markings are visible on the upper surface as yellow-green areas. The smaller leaves in the pairs are only {{convert|1|to|2.5|cm|in|abbr=on}} in length, and about {{convert|0.8|cm|in|abbr=on}} in width. They are located flush to the stems and look like small sheaths.<ref name="COSTARICA">{{cite book|author1=Margaret B. Gargiullo |author2=Barbara L. Magnuson |author3=Larry D. Kimball |title=A Field Guide to Plants of Costa Rica|publisher =Oxford University Press|year =2008|page=316|isbn =978-0-19-518824-0|url =https://books.google.com/books?id=oVB97mIDIrYC&pg=PA316}}</ref><ref name="MORTON">{{cite book|author=Conrad Vernon Morton|editor =Paul C. Standley|title =Flora of Costa Rica|chapter =Gesneriaceae|publisher =Field Museum of Natural History|series =Botanical Series, Volume XVIII, Part IV|year =1938|pages=1160&ndash;1170|chapter-url =https://archive.org/details/floraofcostarica184fistan|author-link =Conrad Vernon Morton}}</ref>
+
+The small tubular flowers arise from the stem near the bases of the leaves. They are about {{convert|3|cm|in|abbr=on}} long and {{convert|0.8|cm|in|abbr=on}} wide. The petals are pale yellow in color while the [[Calyx (botany)|calyx]] can be green to red. They bloom all throughout the year and develop into small numerous yellow fruits.<ref name="COSTARICA"/>
+
+''Columnea consanguinea'' closely resemble ''[[Columnea florida]]''. The latter also has red heart-shaped markings on their leaves but can be distinguished by the teeth-like (pectinate) edges of their flower calyces.<ref name="MORTON"/>
+[[File:Heliodoxa jacula (female) taxobox.jpg|thumb|The Green-crowned Brilliant (''[[Heliodoxa jacula]]'') is the main [[pollinator]] of ''Columnea consanguinea'']]
+
+==Ecology==
+''Columnea consanguinea'' have relatively small and drab flowers. In order to attract their main [[pollinator]]s, the [[nectarivorous]] Green-crowned Brilliant (''[[Heliodoxa jacula]]''),<ref name="HUM">{{cite book|author1=Abel Almarales-Castro |author2=Charles B. Fenster |editor =Silvana Marten Rodriguez|title =Evolution of pollination and breeding systems of Antillean Gesneriaceae|chapter =An evaluation of pollination syndromes in Antillean Gesneriaceae: evidence for bat, hummingbird and generalized flowers|year =2008|pages=69, 71|isbn =978-0-549-96589-3|chapter-url =https://books.google.com/books?id=pnzM1-s6aWkC&pg=PA71}}</ref><ref name="WEBER2">{{cite web|url=http://www.genera-gesneriaceae.at/genera/columnea_sl.htm|title=''Columnea'' s. lat. |author1=Anton Weber |author2=Laurence E. Skog |date=January 5, 2007|work=The Genera of Gesneriaceae. Basic information with illustration of selected species. Ed. 2|accessdate=February 13, 2012}}</ref> they instead use the markings on their leaves. [[Sunlight]] filtering through the translucent patches on their leaves give them a brilliant red color, reminiscent of [[stained-glass window]]s.<ref name="STAINEDGLASS">{{cite web|url=http://www.gesneriads.ca/colum044.htm|title=''Columnea consanguinea''|author=Ron Myhr|publisher=The Gesneriad Reference Web|accessdate=February 13, 2012}}</ref> Hummingbirds, like all birds, possess excellent color vision greater than that of humans. They are attracted to the red color of the markings and can then find their way to the flowers to feed. In doing so, they pollinate the flowers of ''C. consanguinea''.<ref name="ATTEN">{{Cite episode | title = Flowering| episodelink = The Private Life of Plants#3. "Flowering" | series = The Private Life of Plants | serieslink = The Private Life of Plants | credits = Presenter: [[David Attenborough]] | network = [[BBC]] | station = [[BBC One]] | airdate = January 25, 1995 | minutes = 7:47 }}</ref>
+
+The same strategy is used by ''C. florida'', which also have red markings on their leaves.<ref name="FLORIDA">{{cite web|url=http://www.gesneriads.ca/colum159.htm|title=''Columnea florida''|author=Ron Myhr|publisher=The Gesneriad Reference Web|accessdate=February 13, 2012}}</ref>
+
+==Distribution and habitat==
+''Columnea consanguinea'' grow in tropical [[rainforest]]s at altitudes of {{convert|300|to|1900|m|ft|abbr=on}} [[above sea level]]. They can be found either growing on the ground (terrestrial) or on the trunks of trees ([[epiphytic]]).<ref name="COSTARICA"/> They are [[endemism|endemic]] to [[Colombia]], [[Costa Rica]], [[Ecuador]], [[Nicaragua]], and [[Panama]].<ref name="TROPICOS">{{cite web|url=http://www.tropicos.org/NamePage.aspx?nameid=14000500&projectid=3|title=''Columnea consanguinea'' Hanst.|author=Laurence Skog|date=April 20, 2009|publisher=Tropicos.org, Missouri Botanical Garden|accessdate=February 13, 2012|author-link=Laurence Skog}}</ref><ref name="SI"/>
+
+==Taxonomy and nomenclature==
+''Columnea consanguinea'' was first described by the German botanist [[Johannes von Hanstein]] in 1865. Though Hanstein mistakenly assumed that the [[type specimen]]s were from the [[Philippines]],<ref name="HANSTEIN">{{cite journal|author=Johannes von Hanstein|year=1865|title=Die Gesneraceen des K. Herbariums und der Gärten zu Berlin, nebst monographischer Uehersicht der Familie im Ganzen|journal=Linnaea|volume=34|issue=3|pages=383&ndash;384|language=German, Latin|url=https://archive.org/details/mobot31753002428628|author-link=Johannes von Hanstein}}</ref> they were actually collected by the German botanist [[Hermann Wendland]] on March 24, 1857 from Costa Rica.<ref name="Wendland">{{cite web|url=http://plants.jstor.org/specimen/goet003873|title=Type of ''Columnea consanguinea'' Hanst.|publisher=JSTOR Plant Science|accessdate=February 13, 2012}}</ref>
+
+The generic name ''[[Columnea]]'' was named by [[Carl Linnaeus]] after the [[Latinisation of names|Latinized spelling]] of the name of the 16th-century Italian botanist [[Fabio Colonna]] (Latin: ''Fabius Columnus'').<ref name="WEBER">{{cite web|url=http://www.genera-gesneriaceae.at/genera/columnea_sstr.htm|title=''Columnea'' s.str. (sensu Wiehler 1983) |author=Anton Weber & [[Laurence E. Skog]]|date=July 13, 2007|work=The Genera of Gesneriaceae. Basic information with illustration of selected species. Ed. 2|accessdate=February 13, 2012}}</ref> Hanstein did not explain the etymology of the [[Specific name (botany)|specific epithet]], but ''[[wikt:consanguinea|consanguinea]]'' is Latin for "with blood".<ref name="MW">{{cite web|url=http://www.merriam-webster.com/dictionary/consanguineous|title=consanguineous|work=Merriam-Webster|publisher=Merriam-Webster, Incorporated|accessdate=February 13, 2012}}</ref>
+
+It is classified under the genus ''Columnea'' in the [[tribe (biology)|tribe]] Episcieae, subfamily Gesnerioideae, of the [[family (biology)|family]] [[Gesneriaceae]].<ref name="TROPICOS"/> The German botanist [[Hans Wiehler]] reclassified it under a separate genus as ''Dalbergaria consanguinea'' in 1973. Wiehler's classification, however, has not gained acceptance among other specialists. Most notably, the American botanist [[Laurence Skog]] of the [[Smithsonian Institution]] prefers to treat them as belonging to the genus ''Columnea''.<ref name="WIEHLER">{{cite journal|author=Hans Wiehler |year=1973|title=One hundred transfers from Alloplectus and Columnea (Gesneriaceae)|journal=Phytologia |volume=27|issue=5|pages=309–329|url=http://biostor.org/reference/63611.text|author-link=Hans Wiehler|doi=10.5962/bhl.part.13920|doi-access=free}}</ref><ref name="SKOG">{{cite web|url=http://www.gesneriads.ca/gencolum.htm|title=''Columnea''|author=Ron Myhr|publisher=The Gesneriad Reference Web|accessdate=February 13, 2012|url-status=dead|archiveurl=https://web.archive.org/web/20120204114025/http://www.gesneriads.ca/gencolum.htm|archivedate=February 4, 2012}}</ref>
+
+Three [[variety (botany)|varieties]] are currently recognized:<ref name="TROPICOS"/><ref name="SI">{{cite web|url=http://persoon.si.edu/gesneriaceae/checklist/result.cfm|title=World Checklist of Gesneriaceae|author1=L.E. Skog |author2=J.K. Boggan |year=2007|publisher=Department of Botany, Smithsonian Institution|accessdate=February 13, 2012}}</ref>
+*''Columnea consanguinea'' var. ''adpressa'' <small>[[Brian D. Morley|B.D. Morley]]</small>
+::- Found in Costa Rica and Panama
+*''Columnea consanguinea'' var. ''consanguinea'' <small>Hanst.</small>
+:::<small>([[Synonym (taxonomy)|=]])</small> ''Dalbergaria consanguinea'' <small>(Hanst.) Wiehler</small>
+::- Found in [[Antioquia Department|Antioquia]], [[Department of Chocó|Chocó]], [[Risaralda Department|Risaralda]], and [[Valle del Cauca]] of Colombia, [[Esmeraldas, Ecuador|Esmeraldas]] in Ecuador, and Costa Rica, Nicaragua, and Panama.
+*''Columnea consanguinea'' var. ''darienensis'' <small>(C.V. Morton) B.D. Morley</small>
+:::<small>(=)</small> ''Columnea darienensis'' <small>C.V. Morton</small>
+:::<small>(=)</small> ''Dalbergaria darienensis'' <small>(C.V. Morton) Wiehler </small>
+::- Found in the [[Darién Gap]] region in the border between Colombia and Panama
+
+==References==
+{{Reflist|40em}}
+
+{{Taxonbar|from=Q4036426}}
+
+[[Category:Columnea|consanguinea]]
+[[Category:Flora of Colombia]]
+[[Category:Flora of Costa Rica]]
+[[Category:Flora of Ecuador]]
+[[Category:Flora of Nicaragua]]
+[[Category:Flora of Panama]]
+[[Category:Plants described in 1865]]

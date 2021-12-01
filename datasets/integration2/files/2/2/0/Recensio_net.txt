@@ -1,0 +1,41 @@
+{{Orphan|date=January 2013}}
+
+'''recensio.net''' – review platform for European history – is a Europe-wide, multi-language platform for scholarly [[review]]s of historical literature. Launched in January 2011, the platform is operated by three institutions: the [[Bavarian State Library]] in Munich, the [[German Historical Institute|German Historical Institute Paris]], and the [[Institute of European History]] in Mainz. It has been described by the media as an attempt of historians to "venture into the Web 2.0".<ref name=waha />
+
+== Concept ==
+
+The aim of the platform is to answer a perceived restriction of the humanities in Europe, a widespread orientation on languages and national borders.<ref name=waha>Mathias Waha: ''Der Historiker und das Web 2.0'', in: Süddeutsche Zeitung, 2. Februar 2011, Feuilleton, p. 15.[German]</ref> Recensio.net attempts to promote and facilitate the exchange between and the scholarly discussion amongst European historians, primarily by making reviews of publications on European history more visible and easier to access.<ref>http://www.recensio.net/ueberuns-en/index_html</ref> To accomplish that, all reviews published on recensio.net are available in [[Open access (publishing)|Open Access]] and searchable in full text. The [[Bavarian State Library]] Munich supports the reviews with [[metadata]] and long-term archival storage. 
+
+recensio.net acts as an Open Access aggregator. It brings together reviews of recent historical publications published in scholarly journals on one platform. The reviews deal with European history and may have been published both online or in print. All editorial offices of cooperating journals still work independently. Currently, the platform features review sections of more than twenty historical journals from all over Europe,<ref>http://www.recensio.net/rezensionen/zeitschriften?set_language=en</ref> amongst them "Reviews in History"<ref>http://www.history.ac.uk/reviews/</ref> published by Britain's [[Institute of Historical Research]] (IHR) and the "German Historical Institute London Bulletin".<ref>http://www.ghil.ac.uk/publications/bulletin.html</ref>
+
+On the second branch of the platform, authors of historical monographs and articles can present the core statements of their publications, thus putting them up for scholarly discussion. Users can comment on both reviews and presentations, and become involved in the discussion of current topics and approaches within the field of European history. In doing so, recensio.net aims to promote the ideas of [[web 2.0]] amongst European historians.
+
+To overcome the language barrier, the platform uses three navigational languages (English, German and French), whereas reviews and presentations may be written in any European language. Currently, texts in more than ten different languages can be found on recensio.net.
+
+== Organising institutions ==
+
+recensio.net is a joint project of the [[Bavarian State Library]] (BSB) Munich, the [[University of Cologne]] and the [[Leibniz Institute of European History]] (IEG) Mainz, funded by the [[German Research Foundation]] (DFG). The editorial staff is located at the Centre for Electronic Publishing (ZEP), a unit of the BSB.
+
+On the occasion of the launch of recensio.net, the international conference "Scholarly communication in the digital age",<ref name=waha /> took place in January 2011 at the Historisches Kolleg in Munich.
+
+== References ==
+
+* Klaus Gantert: ''Elektronische Informationsressourcen für Historiker''. Berlin 2011, p.&nbsp;331f.
+* Nicolai Hannig and Hiram Kümper: ''Rezensionen. Finden - Verstehen - Schreiben''. Schwalbach/Ts. 2012, p.&nbsp;52-54.
+* Lilian Landes: ''Open Access und Geschichtswissenschaften – Notwendigkeit, Chancen, Probleme'', in: LIBREAS. Library Ideas, 14 (1/2009). [http://www.ib.hu-berlin.de/~libreas/libreas_neu/ausgabe14/024lan.htm Online-Version]. [German]
+* Lilian Landes: ''Rezensieren im Zeitalter des Web 2.0. Das Rezensionsportal recensio.net'', in: Bibliotheksmagazin 1/2011, p.&nbsp;22-25. [https://web.archive.org/web/20110905034551/http://www.bayerische-staatsbibliothek.de/fileadmin/imageswww/pdf-dateien/bibliotheksmagazin/BM2011-1.pdf Online-Version].[German]
+* Enrico Natale: ''Recensio.net - Plateforme européenne de comptes rendus en histoire'', infoclio.ch (27 janvier 2011) [https://web.archive.org/web/20120307220032/http://www.infoclio.ch/fr/node/23342 Online-Version] {{in lang|fr}}
+* Mathias Waha: ''Der Historiker und das Web 2.0'', in: [[Süddeutsche Zeitung]], 2. Februar 2011, Feuilleton, p.&nbsp;15.[German]
+
+== External links ==
+* [https://www.recensio.net/front-page-en?set_language=en Official website]
+* [http://www.bsb-muenchen.de/Aktuelles-aus-der-Bayerischen-Staatsbibliothek.14+M57d0acf4f16.0.html Bavarian State Library (BSB) Munich]
+* [http://uni-koeln.de/ University of Cologne]
+* [http://www.ieg-mainz.de/likecms/index.php?site=site.htm&dir=&nav=122 Leibniz Institute of European History Mainz]
+
+==Notes==
+<!--- See [[Wikipedia:Footnotes]] on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+{{DEFAULTSORT:Recensio.Net}}
+[[Category:History websites of Germany]]

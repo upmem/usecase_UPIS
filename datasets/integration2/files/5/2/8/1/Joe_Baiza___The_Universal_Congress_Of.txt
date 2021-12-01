@@ -1,0 +1,83 @@
+{{Infobox album
+| name       = Joe Baiza & The Universal Congress Of
+| type       = studio
+| artist     = [[Joe Baiza]] & [[Universal Congress Of|The Universal Congress Of]]
+| cover      = Universal Congress Of - Universal Congress Of.jpeg
+| alt        =
+| released   = {{Start date|1987}}
+| recorded   = {{Start date|1986|5|30}}
+| venue      =
+| studio     = Control Center Studios<br /> {{small|([[Hollywood]], CA)}}
+| genre      = [[Free jazz]], [[noise rock]]
+| length     = 33:05
+| label      = [[SST Records|SST]] (109)
+| producer   =
+| chronology = [[Universal Congress Of]]
+| prev_title =
+| prev_year  =
+| next_title = [[Prosperous and Qualified]]
+| next_year  = 1988
+}}
+{{Album ratings
+|rev1 = [[Allmusic]]
+|rev1score = {{rating|2.5|5}}<ref name="allmusic">{{cite web |first=John |last=Dougan |url={{Allmusic|class=album|id=mw0000273173|pure_url=yes}}|title=Universal Congress Of: ''Joe Baiza & The Universal Congress Of'' > Review |publisher=Allmusic |date= |accessdate=October 9, 2012}}</ref>
+}}
+
+'''''Joe Baiza & The Universal Congress Of''''' is the debut [[studio album]] of [[free jazz]] ensemble [[Universal Congress Of]], released in 1987 through [[SST Records|SST]].<ref name="trouserpress">{{cite web |first1=Ira |last1=Robbins |first2=David |last2=Sprague |url=http://trouserpress.com/entry.php?a=joe_baiza_and_the_universal_congress_of |title=Universal Congress Of |work=[[Trouser Press]] |year=2007 |accessdate=April 10, 2016}}</ref>
+
+== Track listing ==
+{{Tracklist
+| headline = Side one
+| title1          = Certain Way
+| length1         = 18:46
+}}
+{{tracklist
+| headline = Side two
+| title1          = Certain Way
+| note1           = Continued
+| length1         = 9:56
+| title2          = Chasing
+| length2         = 4:22
+}}
+
+== Personnel ==
+Adapted from the ''Joe Baiza & The Universal Congress Of'' liner notes.<ref name="linearnotes">{{cite AV media notes |title=Joe Baiza & The Universal Congress Of |others=[[Joe Baiza]] & [[Universal Congress Of|The Universal Congress Of]] |year=1987 |type=sleeve |publisher=[[SST Records]] |location=Lawndale, California}}</ref>
+{{Col-begin}}
+{{Col-2}}
+;Universal Congress Of
+*[[Joe Baiza]]&nbsp;– [[guitar]]
+*Mike Demers&nbsp;– [[bass guitar]]
+*Jason Kahn&nbsp;– [[Drum kit|drums]]
+*Paul Uriaz&nbsp;– guitar
+{{Col-2}}
+;Production and additional personnel
+*David Amico&nbsp;– [[cover art]], [[illustrations]]
+{{End}}
+
+==Release history==
+{|class="wikitable"
+! Region
+! Date
+! Label
+! Format
+! Catalog
+|-
+| United States
+| 1987
+| [[SST Records|SST]]
+| [[vinyl record|LP]]
+| SST 109
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://www.discogs.com/The-Universal-Congress-Of-Joe-Baiza-The-Universal-Congress-Of/release/890047 ''Joe Baiza & The Universal Congress Of''] at [[Discogs]] (list of releases)
+
+{{Universal Congress Of}}
+
+{{DEFAULTSORT:Joe Baiza and The Universal Congress Of}}
+[[Category:1987 debut albums]]
+[[Category:SST Records albums]]
+[[Category:Universal Congress Of albums]]

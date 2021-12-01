@@ -1,0 +1,58 @@
+{{more footnotes|date=January 2013}}
+{{Infobox company
+ | name = Scarfilm
+ | logo= logo SCARFILM.jpg
+ | logo_size=
+ | logo_caption= Scarfilm Logo (2015)
+ | founder= [[Gérald Frydman]]
+ | key_people= 
+*[[Barney Frydman]]
+*[[Philippe Geus]]
+ | location_city = [[Brussels]]
+ | location_country = Belgium
+ | industry = Film
+ | products= Motion pictures
+ | homepage= {{url|scarfilm.net}}
+}}
+
+'''Scarfilm''' is a [[Belgium|Belgian]] [[film production]] house.
+
+== History ==
+The Belgian director [[Gérald Frydman]] founded Scarfilm in 1976 to produce his own films, after remarked ones.
+
+In 2014, for Scarfilm it's a new start with a new production team to develop films, music video, commercials and corporate video.
+
+== Filmography ==
+*"Agulana" (1976) won a prize in [[Cannes Film Festival]] in 1976
+*"L'immortel"(1981)
+*"Last Cut"(1982)
+*"That's all Folks"(1984)
+*"Les Effaceurs"(1991)
+*"J'ai eu dur"(1996)
+*"Arthur Masson, l'homme qui écrivait des livres"(documentary)(2001)
+*"La Séquence Sylverstein"(2003)
+*"Porteur d'eau"(2004) directed by [[Carlos Rendón Zipagauta]]
+*"Battle" (2008)
+*"One Last Time" (2010)
+*"Strangers" (2011)
+*"Lipstick" (2012)
+*"In Exequiel" (2013)
+*"La Graine" (2015)
+
+== See also ==
+* [[Palme d'or]] ([[Le Cheval de Fer]] directed by Gérald Frydman won the [[Short Film Palme d'Or]] at the [[1984 Cannes Film Festival]])
+
+== References ==
+
+{{cite web |url=http://www.cinematek.be/?node=17&event_id=100112702&lng=fr |title=Hommage à Gérald Frydman |publisher=Cinematek |accessdate=1 September 2012 }}
+
+== External links ==
+* {{imdb company|0049058}}
+* {{official website|http://www.scarfilm.net/}}
+
+[[Category:Cinema of Belgium]]
+[[Category:Film production companies of Belgium]]
+[[Category:Entertainment companies established in 1976]]
+[[Category:Mass media companies established in 1976]]
+[[Category:1976 establishments in Belgium]]
+[[Category:Companies based in Brussels]]

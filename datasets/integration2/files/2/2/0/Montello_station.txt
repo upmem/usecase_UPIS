@@ -1,0 +1,44 @@
+{{Infobox station
+| style = MBTA
+| name = Montello
+| image=Montello MBTA station, Brockton MA.jpg
+| image_caption=An inbound train arrives at Montello station in 2013
+| address = 150 Spark Street, [[Brockton, Massachusetts]]
+| coordinates = {{coord|42.1064|-71.0217 |format=dms |region:US-MA_type:railwaystation |display=inline,title}}
+| line = [[Fall River Railroad (1846)|Middleborough Main Line]]
+| other = {{bus icon}} [[MBTA bus]]: {{MBTABus|230}}<br />{{bus icon}} [[Brockton Area Transit Authority|BAT]]: 10, 11
+| platform =2 [[side platform]]s
+| tracks=2
+| parking = 425 spaces ($4.00 fee)<br />12 accessible spaces
+| bicycle = 16 spaces
+| passengers = 416 (weekday average boardings)<ref name=CRcounts>{{MBTA CR 2018}}</ref>
+| pass_year = 2018
+| opened = September 29, 1997<ref name="netransit">{{NETransit}}</ref>
+|closed = June 30, 1959 (former station)
+| ADA = Yes
+| owned =
+| zone = 4
+| former =
+| services = {{Adjacent stations|system=MBTA|line=Middleborough|left=Holbrook/Randolph|right=Brockton}}
+}}
+
+'''Montello''' is an [[MBTA Commuter Rail]] [[train station|station]] in [[Brockton, Massachusetts]]. It serves the [[Middleborough/Lakeville Line]]. Located north of downtown Brockton, it has two full-length high-level platforms serving the line's two tracks, and is fully [[MBTA accessibility|accessible]].
+
+==History==
+[[File:A gazetteer of the state of Massachusetts - with numerous illustrations (1890) (14766729382).jpg|thumb|left|1880s woodcutting of the former Montello station]]
+The station opened on September 29, 1997 along with the rest of the [[Old Colony Lines (MBTA)|Old Colony Lines]] service.<ref name=netransit /> A [[New Haven Railroad]] station was located at Montello on the [[Fall River Railroad (1846)|Middleborough Main Line]] until the Old Colony Division closed in 1959. It was renamed from Huntington Heights on January 15, 1885.<ref>{{Cite journal |jstor=43504499 |title=Dates of Some of the Principal Events in the History of 100 Years of the Railroad in New England. 1826-1926 |first=Warren |last=Jacobs |date=October 1928 |journal=[[Railway and Locomotive Historical Society Bulletin]] |publisher=Railway and Locomotive Historical Society |volume=17 |pages=15–28}}</ref>
+{{clear left}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{commons category}}
+*[https://www.mbta.com/stops/Montello MBTA - Montello]
+*[https://www.google.com/maps/@42.1070138,-71.0210306,3a,60y,232.97h,88.17t/data=!3m6!1e1!3m4!1sQ4EgWxY7FKK6mdJUrCHrBQ!2e0!7i13312!8i6656?hl=en Station from SPARK Street from Google Maps Street View]
+
+[[Category:Stations along Old Colony Railroad lines]]
+[[Category:MBTA Commuter Rail stations in Plymouth County, Massachusetts]]
+[[Category:Railway stations in the United States opened in 1997]]
+
+{{Massachusetts-railstation-stub}}

@@ -1,0 +1,51 @@
+__TOC__
+{{SPIarchive notice|1=SixMillionStrong}}
+{{SPIpriorcases}}
+===13 April 2017===
+
+
+====Suspected sockpuppets====
+* {{checkuser|1=MexicanSteve}}
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=SixMillionStrong User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+SixMillionStrong gets warned for edit warring against multiple editors at [[:/r/The_Donald]], blanks page, shortly after MexicanSteve account is created and continues the edit war. [[User:Grayfell|Grayfell]] ([[User talk:Grayfell|talk]]) 00:50, 13 April 2017 (UTC)
+
+:Both editors also edit talk pages by removing previous comments.[https://en.wikipedia.org/w/index.php?title=Wikipedia:Sockpuppet_investigations/SixMillionStrong&diff=775154541&oldid=775153999][https://en.wikipedia.org/w/index.php?title=Talk:New_Nationalism_(21st_century)&diff=775067928&oldid=760257369] [[User:Grayfell|Grayfell]] ([[User talk:Grayfell|talk]]) 01:05, 13 April 2017 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+Post was linked here on T_D https://www.reddit.com/r/The_Donald/comments/651qsm/huh_so_apparently_this_sub_is_a_safeharbor_for/ <!-- Template:Unsigned --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:MexicanSteve|MexicanSteve]] ([[User talk:MexicanSteve#top|talk]] • [[Special:Contributions/MexicanSteve|contribs]]) 00:55, 13 April 2017 (UTC)</small>
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+*{{confirmed}} plus:
+**{{checkuser|Egalitarianlad}}
+**{{checkuser|Saltysausage}}
+*Blocked, tagged, closing.--[[User:Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]) 01:24, 13 April 2017 (UTC)
+
+----<!--- All comments go ABOVE this line, please. -->
+===16 April 2017===
+
+
+====Suspected sockpuppets====
+* {{checkuser|1=Supernaturalsamantha}}
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=SixMillionStrong User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+Supernaturalsamantha account was created shortly after most recent unblock request was denied.[https://en.wikipedia.org/w/index.php?title=User_talk:Saltysausage&oldid=775479590] As before,[https://en.wikipedia.org/w/index.php?title=/r/The_Donald&diff=775151199&oldid=775148712] editor insists on using a specific reddit post as a source.[https://en.wikipedia.org/w/index.php?title=/r/The_Donald&diff=prev&oldid=775500198] 
+
+As before,[https://en.wikipedia.org/w/index.php?title=User_talk:SixMillionStrong&diff=prev&oldid=775198905] editor has difficulty with talk pages,[https://en.wikipedia.org/w/index.php?title=Talk:/r/The_Donald&diff=prev&oldid=775607554] (which could just be reddit's easier UI) and has an interest in recent negative news about Islam [https://en.wikipedia.org/w/index.php?title=Talk:Khan_Shaykhun_chemical_attack&diff=prev&oldid=775489784] [https://en.wikipedia.org/w/index.php?title=2017_Melbourne_car_attack&diff=prev&oldid=775068949] (which could just be coming from /r/The_Donald). Sock acknowledges that /r/The_Donald might "at best" be Islamophobic.[https://en.wikipedia.org/w/index.php?title=/r/The_Donald&diff=775112531&oldid=775070208]
+
+Supernaturalsamantha has also edited while logged out.[https://en.wikipedia.org/w/index.php?title=/r/The_Donald&diff=775608780&oldid=775607464] [[User:Grayfell|Grayfell]] ([[User talk:Grayfell|talk]]) 00:49, 16 April 2017 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+*{{checkuser|1=JamesBaxx}}
+*Added above account already blocked, indeffing sock account and closing. <br />&nbsp;—&nbsp;[[User:Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">Berean Hunter</span>]] [[User talk :Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">(talk)</span>]] 22:20, 17 April 2017 (UTC)
+----<!--- All comments go ABOVE this line, please. -->

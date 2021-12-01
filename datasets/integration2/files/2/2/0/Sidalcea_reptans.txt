@@ -1,0 +1,35 @@
+{{Speciesbox
+|image = Sidalcea reptans (5987753641).jpg
+|genus = Sidalcea
+|species = reptans
+|authority = [[Edward Lee Greene|Greene]]<ref name=PLANTS>{{PLANTS|id=SIRE|taxon=Sidalcea reptans|accessdate=12 November 2015}}</ref>
+}}
+
+'''''Sidalcea reptans''''' is a species of flowering plant in the [[Malvaceae|mallow family]] known by the common name '''Sierra checkerbloom''' and '''Sierra checker mallow'''.<ref name=PLANTS/><ref name=calflora>[http://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7583 Calflora: ''Sidalcea reptans'']</ref>
+
+==Distribution==
+The plant is [[Endemism|endemic]] to [[California]], where it can be found throughout the [[Sierra Nevada (U.S.)|Sierra Nevada]] at {{convert|1120|-|2000|m|ft}} in elevation, especially the central peaks of the range.<ref name=calflora/> It grows in moist and dry habitat types in the mountains, in meadows of [[yellow pine forest]] and [[red fir]] forest.<ref name=calflora/>
+
+==Description==
+''Sidalcea reptans'' is a [[rhizome|rhizomatous]] perennial herb reaching up to {{convert|0.5|m|ft}} tall. Lower portions of the stem sometimes root when in contact with moist substrate. It is coated in long, bristly hairs.
+
+The leaf blades are also bristly. They vary in shape, the lower ones barely lobed and borne on long [[Petiole (botany)|petioles]], and the higher ones often deeply cut into lobes.
+
+The [[inflorescence]] is a long, open series of flowers with pink to lavender petals up to 2 centimeters in length. The bloom period is June to August.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=44437 Jepson Manual eFlora (TJM2) treatment of ''Sidalcea reptans'']{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://plants.usda.gov/java/profile?symbol=SIRE USDA Plants Profile for ''Sidalcea reptans'' (Sierra checkerbloom)]
+* {{CalPhotos|Sidalcea|reptans}}
+
+{{Taxonbar|from=Q7507996}}
+
+[[Category:Sidalcea|reptans]]
+[[Category:Endemic flora of California]]
+[[Category:Flora of the Sierra Nevada (U.S.)]]
+
+
+{{Malveae-stub}}

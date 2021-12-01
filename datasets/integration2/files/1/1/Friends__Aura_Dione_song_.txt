@@ -1,0 +1,191 @@
+{{Use mdy dates|date=June 2020}}
+{{Infobox song
+| name       = Friends
+| cover      = Aura Dione Friends.jpg
+| alt        =
+| type       = single
+| artist     = [[Aura Dione]] featuring [[Rock Mafia]]
+| album      = [[Before the Dinosaurs (album)|Before the Dinosaurs]]
+| released   = {{Start date|2012|03|02}}
+| format     = [[Compact Disc single|CD single]], digital download
+| recorded   = [[Santa Monica, California]], United States<br/><small>(Rock Mafia Studios)</small>
+| studio     =
+| venue      =
+| genre      = Pop
+| length     = {{Duration|m=3|s=42}}
+| label      = [[Island Records|Island]], [[Universal Music Group|Universal]], Koolmusic
+| writer     = Aura Dione, [[Antonina Armato]], [[Tim James (music producer)|Tim James]], [[David Jost]]
+| producer   = [[Rock Mafia]], David Jost
+| chronology = [[Aura Dione]]
+| prev_title = [[Geronimo (Aura Dione song)|Geronimo]]
+| prev_year  = 2011
+| next_title = [[In Love with the World]]
+| next_year  = 2012
+}}
+"'''Friends'''" is a song by [[Danish people|Danish]] singer-songwriter [[Aura Dione]] from her second studio album, ''[[Before the Dinosaurs (album)|Before the Dinosaurs]]''. The song features American production team [[Rock Mafia]] who co-wrote the song with Dione and [[David Jost]]. Dione wrote the song to let her friends know how precious they are to her. "Friends" was released as the album's second single on March 2, 2012. It became Dione's third top ten hit in her native Denmark, where it peaked at number six. "Friends" also became a top ten hit in Germany, Switzerland and Austria.
+
+== Chart performance ==
+The song debuted at number twenty-five on February 17, 2012 in Denmark.<ref>{{cite web|title=Track Top-40|url=http://hitlisterne.dk/default.asp?w=06&y=2012&list=t40|publisher=[[Tracklisten]]. IFPI Danmark & Nielsen Music|accessdate=February 17, 2012|date=February 17, 2012}}</ref> The following week the song rose to number twelve.<ref>{{cite web|title=Track Top-40|url=http://hitlisterne.dk/default.asp?w=07&y=2012&list=t40|publisher=[[Tracklisten]]. IFPI Danmark & Nielsen Music|accessdate=February 24, 2012|date=February 24, 2012}}</ref> In its third week on the chart the song peaked at number six, becoming Dione's third top 10 single.<ref name="DEN"/> The song has since been certified gold by [[IFPI Denmark]] for sales of 15,000 digital copies. In Switzerland, "Friends" debuted at number sixty-four on the chart issue dated February 26, 2012.<ref name="SWI"/> In its fourth week on the chart, the song peaked at number ten on March 18, 2012.<ref name="SWI"/> The song has since been certified gold by [[International Federation of the Phonographic Industry]] (IFPI) for shipments of 15,000 copies in Switzerland. "Friends" debuted at number thirteen in Austria on the chart dated March 9, 2012.<ref name="AUT"/> The following week it peaked at number three.<ref name="AUT"/> The song debuted at number five in Germany, becoming Dione's third top 10 hit.<ref name="GER"/> On the chart issue dated May 25, 2012 the song hit number 1 on [[ZPAV|Polish Airplay Top 5]].
+
+== Live performances ==
+Aura Dione performed "Friends" on November 30, 2011 on German television show ''[[The Dome (television program)|The Dome]]'' along with "[[Geronimo (Aura Dione song)|Geronimo]]". On February 14, 2012 Aura performed the song in Moscow, Russia on ''Big Love Show''. On February 18, 2012 she performed the song for the first time on Danish television in the singing competition ''[[Voice – Danmarks største stemme|Voice – The Biggest Voice of Denmark]]'' together with the eight semi-finalists.
+
+== Track listing ==
+*;CD single<ref name=de_cd/>
+#"Friends" ([[Rock Mafia]] & [[David Jost]] Radio Mix)
+#"Friends"
+
+*;Digital download<ref name=de_dd/>
+#"Friends" (Rock Mafia & David Jost Radio Mix) – 4:00
+#"Friends" – 3:42
+#"Friends" (Van Beil Remix) – 4:59
+#"Friends" (Banks & Rawdriguez Drumstep Remix) – 3:40
+#"Friends" (Banks & Rawdriguez Moombathon Remix) – 3:18
+#"Friends" (Bodybangers Remix) – 5:22
+
+== Credits and personnel ==
+*Aura Dione – songwriter
+*[[Antonina Armato]] – songwriter, producer, vocal recording
+*[[Tim James (music producer)|Tim James]] – songwriter, producer, vocal recording, mixing
+*[[David Jost]] – songwriter, producer, vocal recording
+*Steve Hammons – engineer
+*Adam Comstock – engineer
+*Paul Palmer – mixing
+*Devrim Karaoğlu – programming
+*Sean Hurley – bass
+*Rami Jaffee – keyboards
+*David Davidson – string arrangement, violin
+*David Angel – violin
+*Kristin Wilkinson – viola
+*John Catchings – cello
+*Kai Blankenberg – mastering
+
+Credits adapted from ''Before the Dinosaurs'' liner notes.<ref>{{cite AV media notes |title=[[Before the Dinosaurs (album)|Before the Dinosaurs]] |others=[[Aura Dione]] |date=2011 |type=liner notes |publisher=[[Island Records]], [[Universal Music Group|Universal Music]], Koolmusic |id=060252785619}}</ref>
+
+== Charts and certifications ==
+{{col-begin}}
+{{col-2}}
+
+=== Weekly charts ===
+{| class="wikitable sortable plainrowheaders"
+! scope="col" | Chart (2012)
+! scope="col" | Peak<br />position
+|-
+{{singlechart|Austria|3|artist=Aura Dione feat. Rock Mafia|song=Friends|refname="AUT"}}
+|-
+{{singlechart|Bulgaria|1|artist=Aura Dione|song=Friends|url=http://www.bamp-bg.org/2009-07-08-09-48-53/nielsen/332-07052012-13052012.html|urltitle=07.05.2012–13.05.2012}}
+|-
+{{singlechart|Czech Republic|8|artist=Aura Dione|song=Friends|week=29|year=2012}}
+|-
+|Denmark ([[Tracklisten]])<ref name="DEN">{{cite web|title=Track Top-40|url=http://hitlisterne.dk/default.asp?w=08&y=2012&list=t40|publisher=[[Tracklisten]]. IFPI Danmark & Nielsen Music|accessdate=March 2, 2012|date=March 2, 2012}}</ref>
+| style="text-align:center;"| 6
+|-
+{{singlechart|Germany2|4|artist=Dione,Aura Feat. Rock Mafia|song=Friends (2-track)|songid=916199|accessdate=3 March 2020|refname="GER"}}
+|-
+|Germany ([[German Airplay Chart|Airplay Chart]])<ref name="germanairplay">{{cite web |url=http://germancharts.com/airplay_charts.asp?week=201212 |title=Airplay Charts Deutschland – Woche 12/2012 |last1= |first1= |last2= |first2= |date= |website= |publisher=German Charts |access-date=January 30, 2017 |quote=}}</ref>
+| style="text-align:center;"|1
+|-
+{{singlechart|Hungary|19|artist=Aura Dione|song=Friends|week=36|year=2012}}
+|-
+| Lebanon ([[The Official Lebanese Top 20|Lebanese Top 20]])<ref>{{cite web|url=http://www.olt20.com/Aura_Dione#fragment-2|title=Aura Dione Lebanese Chart Top 20 History|publisher=[[The Official Lebanese Top 20]]|accessdate=March 14, 2012}}</ref>
+||<center>2</center>
+|-
+|Luxembourg Digital Songs (''[[Billboard (magazine)|Billboard]]'')<ref>{{Cite web|url=http://www.billboard.com/biz/charts/2012-04-07/luxembourg-digital-songs|work = [[Billboard (magazine)|Billboard]]|title=Luxembourg Digital Songs – April 7, 2012}}</ref>
+|align="center"| 2
+|-
+|{{singlechart|Poland|1|year=2012|chartid=683}}
+|-
+|Romania ([[Romanian Top 100]])<ref>{{cite web|title=Ediţia din 28 octombrie 2012 (28 October 2012 edition)|url=http://romaniantop10.blogspot.ro/2012/10/editia-din-28102012.html|accessdate=October 28, 2012|language=Romanian}}</ref>
+| style="text-align:center;"| 6
+|-
+|Russia ([[Tophit|Top Radio Hits]])<ref>{{cite web|url=https://tophit.ru/en/tracks/37152/|title=Aura Dione – Friends|publisher=[[Tophit]] |accessdate=July 3, 2019}}</ref> 
+|style="text-align:center;"|1
+|-
+{{singlechart|Slovakia|24|artist=Aura Dione|song=Friends|week=16|year=2012}}
+|-
+{{singlechart|Switzerland|10|artist=Aura Dione feat. Rock Mafia|song=Friends|refname="SWI"}}
+|-
+|Ukraine (Radio Airplay)<ref>{{cite web|title=11 Червня 2012 [11 June 2012] |url=http://fdr.com.ua/chart/top_40/ |accessdate=June 12, 2012 |language=Ukrainian |url-status=dead |archiveurl=https://www.webcitation.org/6PIspmoHW?url=http://fdr.com.ua/chart/top_40/ |archivedate=May 3, 2014 }}</ref>
+| style="text-align:center;"| 3
+|}
+{{col-2}}
+
+===Year-end charts===
+{|class="wikitable sortable"
+|-
+! scope="col"| Chart (2012)
+! scope="col"| Position
+|-
+|Austria ([[Ö3 Austria Top 40]])<ref>{{cite web|url=https://austriancharts.at/year.asp?cat=s&id=2012|title=Jahreshitparade Singles 2012|website=austriancharts.at|accessdate=June 8, 2020}}</ref>
+| style="text-align:center;"|52
+|-
+|Germany ([[Official German Charts]])<ref>{{cite web|url=https://www.offiziellecharts.de/charts/single-jahr/for-date-2012|title=Top 100 Single-Jahrescharts|language=German|work=[[GfK Entertainment]]|publisher=offiziellecharts.de|accessdate=June 8, 2020}}</ref>
+| style="text-align:center;"|49
+|-
+|Hungary ([[Mahasz|Rádiós Top 40]])<ref>{{cite web |title=MAHASZ Rádiós TOP 100 2012|url=http://zene.slagerlistak.hu/archivum/eves-osszesitett-listak/radios/2012|publisher=Mahasz |language=hungarian |accessdate=January 18, 2013}}</ref>
+| style="text-align:center;"|68
+|-
+|Poland – Airplay ([[Polish Society of the Phonographic Industry|ZPAV]])<ref>{{cite web|url=http://zpav.pl/aktualnosci.php?idaktualnosci581 |title=Airplay Top 2012 |publisher=[[Polish Society of the Phonographic Industry|ZPAV]] |language=Polish |accessdate=May 23, 2013}}</ref>
+| style="text-align:center;"|5
+|-
+|Poland – Digital ([[Polish Society of the Phonographic Industry|ZPAV]])<ref>{{cite web|url=http://www.zpav.pl/aktualnosci.php?idaktualnosci=538 |title=TOP digital utworów – 2012 |publisher=[[Polish Society of the Phonographic Industry|ZPAV]] |language=Polish |accessdate=March 23, 2013}}</ref>
+| style="text-align:center;"|32
+|-
+| Russia Airplay ([[Tophit]])<ref>{{cite web|url=https://tophit.ru/en/chart/russia/yearly/2012-01-01/all/all|title=Russian Top Year-End Radio Hits (2012)|publisher=[[Tophit]] |accessdate=August 9, 2019}}</ref> 
+|style="text-align:center;"| 3
+|-
+|Switzerland ([[Schweizer Hitparade]])<ref>{{cite web|url=http://hitparade.ch/charts/jahreshitparade/2012|title=Schweizer Jahreshitparade 2012 – hitparade.ch|publisher=Hung Medien|accessdate=June 8, 2020}}</ref>
+| style="text-align:center;"|74
+|-
+| Ukraine Airplay ([[Tophit]])<ref>{{cite web|url=https://tophit.ru/en/chart/ukraine/yearly/2012-01-01/all/al|title=Ukrainian Top Year-End Radio Hits (2012)|publisher=[[Tophit]] |accessdate=August 9, 2019}}</ref> 
+|style="text-align:center;"| 14
+|-
+|}
+
+===Certifications===
+{{certification Table Top}}
+{{certification Table Entry|type=single|region=Austria|artist=Aura Dione|title=Friends|award=Gold|certyear=2012|relyear=2012}}
+{{certification Table Entry|type=single|region=Denmark|artist=Aura Dione|title=Friends|award=Gold|certyear=2012|relyear=2012|relmonth=11|relday=04|recent=false|id=17}}
+{{certification Table Entry|type=single|region=Germany|artist=Aura Dione|title=Friends|award=Gold|certyear=2012|relyear=2012}}
+{{certification Table Entry|type=single|region=Switzerland|artist=Aura Dione|title=Friends|award=Gold|certyear=2012|relyear=2012}}
+{{Certification Table Bottom|format=3col}}
+{{col-end}}
+
+==Release history==
+{| class="wikitable"
+|-
+! scope="row"| Region
+! scope="row"| Date
+! scope="row"| Format
+! scope="row"| Label
+|-
+|Denmark<ref>{{cite magazine|last=Henneberg|first=Christoffer|title=Aura runder en million streams|url=http://gaffa.dk/nyhed/56703|magazine=[[Gaffa (magazine)|Gaffa]]|accessdate=January 23, 2012|language=Danish|date=February 17, 2012}}</ref>
+|January 23, 2012
+|[[Radio airplay]]
+|rowspan="2"|[[Island Records]], [[Universal Music Group|Universal Music]], Koolmusic
+|-
+|Germany<ref name=de_cd>{{cite web|title=Friends (2-Track): Aura Feat. Rock Mafia Dione: Amazon.de: Musik|url=https://www.amazon.de/Friends-2-Track-Feat-Mafia-Dione/dp/B007762JKE/|publisher=Amazon.de|accessdate=October 22, 2011}}</ref><ref name=de_dd>{{cite web|title=Friends: Aura Dione: Amazon.de: MP3-Downloads|url=https://www.amazon.de/gp/product/B0078IH8UW/|publisher=Amazon.de|accessdate=February 17, 2012}}</ref>
+|March 2, 2012
+|[[Compact Disc single|CD single]], digital download
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{MetroLyrics song|aura-dione|friends}}<!-- Licensed lyrics provider -->
+
+{{Aura Dione}}
+
+[[Category:2012 singles]]
+[[Category:Aura Dione songs]]
+[[Category:Songs written by Antonina Armato]]
+[[Category:Songs written by Tim James (musician)]]
+[[Category:Number-one singles in Poland]]
+[[Category:Music videos directed by Ray Kay]]
+[[Category:Songs written by David Jost]]
+[[Category:Songs written by Aura Dione]]
+[[Category:2010 songs]]
+[[Category:Island Records singles]]
+[[Category:Universal Music Group singles]]
+[[Category:Song recordings produced by Rock Mafia]]

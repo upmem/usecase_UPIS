@@ -1,0 +1,25 @@
+
+<div class="boilerplate afd vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result was '''REDIRECT''' to [[Vlad Yudin]] until such time as the topic meets [[WP:NF]]. '''[[User:MichaelQSchmidt|<font color="blue">Schmidt, </font>]]''' ''[[User talk:MichaelQSchmidt|<sup><small>Michael Q.</small></sup>]]'' 08:26, 31 October 2014 (UTC)	
+
+===[[Catskill Park (film)]]===
+
+:{{la|Catskill Park (film)}} – (<includeonly>[[Wikipedia:Articles for deletion/Catskill Park (film)|View AfD]]</includeonly><noinclude>[[Wikipedia:Articles for deletion/Log/2014 October 24#{{anchorencode:Catskill Park (film)}}|View log]]</noinclude>{{int:dot-separator}} <span class="plainlinks">[https://tools.wmflabs.org/jackbot/snottywong/cgi-bin/votecounter.cgi?page=Wikipedia:Articles_for_deletion/Catskill_Park_(film) Stats]</span>)
+:({{Find sources AFD|Catskill Park (film)}})
+No indication of notability. I couldn't find any coverage of this film in independent reliable sources other than IMDB. [[User:Ahecht|Ahecht]] (<small>[[User_talk:Ahecht|<span style="color:#FFF;background:#00f;display:inline-block;line-height:1.1em;vertical-align:-0.3em;font-size:75%;text-align:center;"><b>TALK<br />PAGE</b></span>]]</small>) 19:16, 16 October 2014 (UTC)
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/United States of America|list of United States of America-related deletion discussions]]. [[User:Gene93k|• Gene93k]] ([[User talk:Gene93k|talk]]) 00:46, 17 October 2014 (UTC)</small>
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Film|list of Film-related deletion discussions]]. [[User:Gene93k|• Gene93k]] ([[User talk:Gene93k|talk]]) 00:46, 17 October 2014 (UTC)</small>
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Science fiction|list of Science fiction-related deletion discussions]]. [[User:Gene93k|• Gene93k]] ([[User talk:Gene93k|talk]]) 00:46, 17 October 2014 (UTC)</small>
+*'''Redirect to [[Vlad Yudin]]'''. If/when this releases and gains more coverage, we can always unredirect this but at this point in time it'd just [[WP:TOOSOON]] for an entry. We don't have enough coverage to really merit an article at this point in time. [[User:Tokyogirl79|Tokyogirl79]][[user talk:Tokyogirl79|'''<span style='color: #19197;background-color: #FFFFFF;'>  (｡◕‿◕｡)</span>''']]  08:02, 19 October 2014 (UTC)
+<hr style="width:55%;" />
+:<span style="color:#FF4F00;">'''[[WP:RELIST|Relisted]] to generate a more thorough discussion so a clearer consensus may be reached.'''</span><br />
+:<small>Please add new comments below this notice. Thanks, [[User:Natg 19|Natg 19]] ([[User talk:Natg 19|talk]]) 21:58, 24 October 2014 (UTC)</small><!-- from Template:Relist -->
+<hr style="width:55%;" />
+* '''Redirect''' to [[Vlad Yudin]].  I noticed a few trivial mentions, all of which seem to already be in the article, but I agree that it seems a bit too soon.  Could also be userfied or moved to draft space.  Surprisingly, there's no coverage at all in the usual places ([[Bloody Disgusting]], [[Dread Central]], [[Twitch Film]], etc). [[User:NinjaRobotPirate|NinjaRobotPirate]] ([[User talk:NinjaRobotPirate|talk]]) 06:53, 26 October 2014 (UTC)
+* '''Redirect''' to [[Vlad Yudin]] or possibly [[The Vladar Company]] based on a lack of substantial coverage at this time on the film. [[User:I JethroBT|<font color="green" face="Candara"><b>I, JethroBT</b></font>]][[User talk:I JethroBT| <sup>drop me a line</sup>]] 02:24, 31 October 2014 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. <!--Template:Afd bottom--></div>

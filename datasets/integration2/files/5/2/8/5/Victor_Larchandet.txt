@@ -1,0 +1,77 @@
+{{infobox rugby biography
+| name           = Victor Larchandet
+| image          = 
+| image_size     = 
+| caption        = 
+| alt            = 
+| birth_name     = Marie Victor Xavier Lardanchet
+| birth_date     = 29 December 1863<ref name="SR">{{cite Sports-Reference | url=https://www.sports-reference.com/olympics/athletes/la/victor-lardanchet-1.html | archive-url=https://web.archive.org/web/20200417200720/https://www.sports-reference.com/olympics/athletes/la/victor-lardanchet-1.html | url-status=dead | archive-date=17 April 2020 | title=Victor Larchandet | accessdate=20 May 2016}}</ref>
+| birth_place    = [[Desnes, Jura|Desnes]], [[Jura (department)|Jura]], France<ref name="SR" />
+| death_date     = {{death date and age|1936|11|8|1863|12|29|df=yes}}
+| death_place    = 
+| height         = 
+| weight         = 
+| school         = 
+| university     = 
+| spouse         = 
+| children       = 
+| relatives      = 
+| occupation     = 
+| ru_currentteam         = 
+| ru_position            = 
+| ru_youthyears          = &nbsp;
+| ru_youthclubs          = 
+| ru_clubyears           = &nbsp;
+| ru_proclubs            = 
+| ru_clubcaps            = 
+| ru_clubpoints          = 
+| ru_clubupdate          = 
+| ru_provinceyears       = 
+| ru_province            = 
+| ru_provincecaps        = 
+| ru_provincepoints      = 
+| super14years           = &nbsp;
+| super14                = 
+| super14caps            = 
+| super14points          = 
+| ru_nationalyears       = &nbsp;
+| ru_nationalteam        = 
+| ru_nationalcaps        = 
+| ru_nationalpoints      = 
+| ru_ntupdate            = 
+| ru_sevensnationalyears = &nbsp;
+| ru_sevensnationalteam  = 
+| ru_sevensnationalcomp  = 
+| ru_coachyears          = 
+| ru_coachclubs          = 
+| ru_refereeyears        = 
+| ru_refereecomps        = 
+| ru_refereeapps         = 
+| medals =
+{{MedalSport|Men's [[rugby union]]}}
+{{MedalCountry | {{FRA}} }}
+{{MedalCompetition|[[Rugby union at the Summer Olympics|Olympic Games]]}}
+{{MedalGold|[[1900 Summer Olympics|1900 Paris]] | [[Rugby union at the 1900 Summer Olympics|Team competition]]}}
+}}
+
+'''Victor Larchandet''' (29 December 1863 &ndash; 8 November 1936) was a French [[rugby union]] player. He competed at the [[1900 Summer Olympics]] and won [[olympic medal|gold]] as part of the French team in what was the [[Rugby union at the 1900 Summer Olympics|first rugby union competition]] at an [[Olympic Games]].<ref name="olympic stats">{{cite web | url=http://www.games-encyclo.org/index.php?id=33181&L=1 | title=Olympic Facts and Results | publisher=Encyclopedia of the Games | accessdate=20 May 2016}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IOC profile|victor-lardanchet}}
+* {{ESPNscrum|1442}}
+* [https://gw.geneanet.org/mahelblonde?n=lardanchet&oc=&p=marie+victor+xavier Victor Larchandet's profile at Geneanet]
+
+{{DEFAULTSORT:Larchande, Victor}}
+[[Category:1863 births]]
+[[Category:1936 deaths]]
+[[Category:Olympic rugby union players of France]]
+[[Category:French rugby union players]]
+[[Category:Olympic gold medalists for France]]
+[[Category:Rugby union players at the 1900 Summer Olympics]]
+[[Category:Medalists at the 1900 Summer Olympics]]
+
+
+{{France-rugbyunion-bio-stub}}

@@ -1,0 +1,43 @@
+{{Speciesbox
+|image = Sidalcea ranunculacea (5987755167).jpg
+|genus = Sidalcea
+|species = ranunculacea
+|authority = [[Edward Lee Greene|Greene]]<ref name=PLANTS>{{PLANTS|id=SIRA|taxon=Sidalcea ranunclacea|accessdate=12 November 2015}}</ref>
+}}
+
+'''''Sidalcea ranunculacea''''' is a species of flowering plant in the [[Malvaceae|mallow family]] known by the common name '''marsh checkerbloom''' and '''marsh checker mallow'''.<ref name=PLANTS/><ref>[http://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7582 Calflora: ''Sidalcea ranunculacea'']</ref>
+
+==Description==
+The plant is [[Endemism|endemic]] to [[California]], known only within [[Tulare County, California|Tulare County]] and [[Kern County, California|Kern County]]. It grows in the Southern [[Sierra Nevada (U.S.)|Sierra Nevada]] and [[Greenhorn Mountains]] at {{convert|1820|-|3050|m|ft}} in elevation.<ref>{{Cite web |url=http://www.calflora.org/cgi-bin/county_taxon.cgi?where-calrecnum=7582 |title=Calflora distribution map: ''Sidalcea ranunculacea'' |access-date=2016-03-09 |archive-url=https://web.archive.org/web/20160309132249/http://www.calflora.org/cgi-bin/county_taxon.cgi?where-calrecnum=7582 |archive-date=2016-03-09 |url-status=dead }}</ref> Many populations are within the [[Sequoia National Forest]], [[Sequoia National Park]], or [[Kings Canyon National Park]].
+
+It grows in moist areas, such as wet meadows and on stream banks, in [[yellow pine forest]], [[red fir]] forest, [[Lodgepole pine|lodgepole]] forest habitats.
+
+==Description==
+''Sidalcea ranunculacea'' is a [[rhizome|rhizomatous]] perennial herb reaching up to {{convert|0.5|m|ft}} tall. It is coated in hairs, the lower ones becoming bristly. The fleshy lobed leaf blades also have hairs and bristles.
+
+The [[inflorescence]] is a dense, spikelike cluster or series of clusters of flowers. Each flower has five pink to purple petals up to 1.5 centimeters long. The blooming period is June to August.
+
+==See also==
+*{{C|Flora of the Sierra Nevada (U.S.)|Flora of the Sierra Nevada}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7582 Calflora Database: ''Sidalcea ranunculacea'' (Marsh checker mallow, Marsh checkerbloom)]
+*[http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=44436 Jepson Manual eFlora (TJM2) treatment of ''Sidalcea ranunculacea'']{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://plants.usda.gov/java/profile?symbol=SIRA USDA Plants Profile for ''Sidalcea ranunculacea'']
+*[http://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Sidalcea+ranunculacea UC CalPhotos gallery: ''Sidalcea ranunculacea'']
+
+{{Taxonbar|from=Q7507995}}
+
+[[Category:Sidalcea|ranunculacea]]
+[[Category:Endemic flora of California]]
+[[Category:Flora of the Sierra Nevada (U.S.)]]
+[[Category:Greenhorn Mountains]]
+[[Category:Natural history of Kern County, California]]
+[[Category:Natural history of Tulare County, California]]
+[[Category:Sequoia National Forest|~]]
+
+
+{{Malveae-stub}}

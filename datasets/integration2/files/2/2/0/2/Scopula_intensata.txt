@@ -1,0 +1,33 @@
+{{short description|Species of geometer moth in subfamily Sterrhinae}}
+{{Speciesbox
+| name = ''Scopula intensata''
+| image = 
+| image_caption = 
+| image2 = 
+| image2_caption = 
+| taxon = Scopula intensata
+| authority = ([[Frederic Moore|Moore]], 1887)<ref>{{cite journal |last=Sihvonen |first=Pasi |date=April 1, 2005 |url=https://academic.oup.com/zoolinnean/article/143/4/473/2726869 |title=Phylogeny and classification of the Scopulini moths (Lepidoptera: Geometridae, Sterrhinae) |journal=Zoological Journal of the Linnean Society |volume=143 |issue=4 |pages=473–530 |doi=10.1111/j.1096-3642.2005.00153.x|doi-access=free }}</ref>
+| synonyms =
+*''Idaea intensata'' <small>Moore, 1887</small>
+*''Scopula ochriata'' <small>Prout, 1938</small>
+}}
+
+'''''Scopula intensata''''' is a [[moth]] of the  family [[Geometridae]]. It is found in [[India]] and [[Sri Lanka]].<ref>{{LepIndex |id=215940}}</ref>
+
+==Description==
+Wingspan is 24mm. Male is whitish irrorated with fuscous color. Frons fuscous. Fore wings with brown costa and an oblique antemedial line from cell to inner margin. Medial and postmedial oblique waved line present. Medial line not reaching costa. There are two submarginal and a marginal line. Hind wings with antemedial, postmedial, two submarginal and a marginal line. Female much suffused with fuscous. Fore wings with antemedial line angled in cell and continued to the costa. Both wings with cell-specks. Hind wings with sub-basal line.
+
+==References==
+{{Commons}}
+{{Wikispecies}}
+{{Reflist}}
+
+{{Taxonbar|from=Q7434810}}
+
+[[Category:Moths described in 1887]]
+[[Category:Scopula|intensata]]
+[[Category:Moths of India]]
+[[Category:Moths of Sri Lanka]]
+
+
+{{Scopula-stub}}

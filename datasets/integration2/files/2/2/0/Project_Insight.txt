@@ -1,0 +1,36 @@
+{{Refimprove|date=December 2009}}
+
+<!-- Deleted image removed: [[Image:PI Wawona.jpg|right]] -->
+'''Project Insight''' ('''P.I.''') is a division of the [[San Francisco Recreation & Parks Department]] which provides recreational and [[learning]] activities for [[Deafness|hearing-impaired]] and [[Blindness|vision-impaired]] [[child]]ren, [[Adolescence|teenagers]], young adults.
+
+Founded circa 1990, Project Insight is based at Wawona Clubhouse<ref name="PI">{{cite web |url= http://www.parks.sfgov.org/site/recpark_page.asp?id=3072 |title= Project Insight website |publisher= (includes [http://www.parks.sfgov.org/site/recpark_page.asp?id=3072#photos photo albums] from skiing, rock climbing and white water rafting trips) |access-date= 2006-11-03 |archive-url= https://web.archive.org/web/20061010172831/http://www.parks.sfgov.org/site/recpark_page.asp?id=3072 |archive-date= 2006-10-10 |url-status= dead }}</ref>  in the [[Sigmund Stern Recreation Grove]], two miles south of San Francisco's [[Golden Gate Park]].  Participants, [[Employment|staff]] and [[Volunteering|volunteer]]s use [[American Sign Language]].
+__TOC__
+==Purpose and activities==
+Because [[deaf|deaf and hard of hearing]] youth are often isolated from their hearing [[peer group]] and excluded from [[recreation]]al and [[Civil society|group social experiences]], Project Insight:
+* Strives to integrate young people with disabilities into the general community,<ref name="PI"/><ref name="Golf">{{cite web |url= http://www.gilroydispatch.com/sports/contentview.asp?c=80210 |title= Sense of stroke |work= [[Gilroy, California|Gilroy]] Dispatch |date= 29 October 2003 |quote= }}</ref> while supporting their individuality, independence, dignity, and [[Multiculturalism|cultural diversity]]
+* Promotes [[learning]] and [[Developmental psychology|development]], focusing on self-expression, [[teamwork]], [[education]] and building [[Cognition|cognitive]], [[Social skills|social]] and [[motor skill]]s
+* Provides a variety of recreation, outdoor [[adventure]] and cultural activities, including:
+:* After school [[homework]] clubs, [[handicraft|arts and crafts]], cultural events, parties, etc.
+:* [[Golf]]<ref name="Golf"/>
+:* [[Hiking]]  ([[Yosemite National Park]] is a favourite destination)
+:* [[Rock climbing]]
+:* [[Skiing]]
+:* [[Taiko|Taiko drumming]]<ref name="Taiko RCW">{{cite web |url= http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/09/16/BAG4CL6QQ31.DTL |title= Robinson Wadsworth — musician, adventurer |author= Nanette Asimov |work= [[San Francisco Chronicle]] |date= 16 September 2006 |quote=  Taiko drumming — thunderous and thrilling — was tailor-made for his kids at Project Insight, decided Mr. Wadsworth, who kept a set of drums at the Recreation and Park Department.  The drums were so loud that many youngsters could hear their sounds, [P.I. Director] Metcalf-Tobin said.  Even those who were profoundly deaf could feel the drum's vibrations.  "They'd just go wild on it," he said. }}</ref><ref name="Taiko RIT">{{cite web |url= http://www.pen.ntid.rit.edu/events/exchanges/2003/taiko-drumming.php |title= Taiko Drumming at NTID |publisher= Sponsored by [[Rochester Institute of Technology]] [[National Technical Institute for the Deaf]] and [[PEN-International]] with support from [http://www.sftaiko.com/ San Francisco Taiko Dojo], [[Grandmaster (martial arts)|Grand Master]] [http://www.kqed.org/arts/places/spark/profile.jsp?id=4878 Seiichi Tanaka] and Project Insight staff member [[Artist in residence]] ([http://www.pen.ntid.rit.edu/gallery_new.php?gallery=/newimages/events/exchanges/2004/Taiko%20Drumming%20at%20NTID/med/&photo=1&max=20 photo gallery]). |date= Three week program, February 1–21, 2004 }}</ref>
+:* [[White water]] [[Rafting]]
+
+==See also==
+{{Portal|San Francisco Bay Area}}
+* [[Dorothy Miles Cultural Centre]]
+* [[Youth Leadership Camp]]
+
+==References==
+{{More footnotes|date=December 2009}}
+{{Reflist}}
+
+==External links==
+*{{url|http://sfrecpark.org/recprogram/adaptive-recreation/}}
+
+{{coord missing|San Francisco County, California}}
+
+[[Category:Schools for the deaf in the United States]]
+[[Category:Deaf culture in the United States]]

@@ -1,0 +1,760 @@
+{{EngvarB|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+The '''1979–80 Football League Cup''' was the 20th season of the [[Football League Cup]], a knockout competition for England's top 92 [[Association football|football]] clubs. The winners qualified for the [[1980–81 UEFA Cup]], if not already qualified for European competition.
+
+[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] won the competition by defeating the reigning holders and European champions [[Nottingham Forest F.C.|Nottingham Forest]] 1–0 in the [[1980 Football League Cup Final|final]] on 15 March 1980. This was their second League Cup success, after winning in [[1973–74 Football League Cup|1974]].
+
+{{infobox football tournament season
+| title               = 1979–80 League Cup
+| year                =
+| other_title         =
+| image               =
+| imagesize           =
+| caption             =
+| country             = England & {{WAL}}
+| num_teams           = 92
+| defending champions =
+| champions           = '''[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] '''
+| runner-up           = [[Nottingham Forest F.C.|Nottingham Forest]]
+| matches             =
+| goals               =
+| top goal scorer     =
+| player              =
+| prevseason          = [[1978–79 Football League Cup|1978–79]]
+| nextseason          = [[1980–81 Football League Cup|1980–81]]
+}}
+
+==First round==
+The 56 Football League clubs who had comprised the [[Football League Third Division|Third]] and [[Football League Fourth Division|Fourth Divisions]] during [[1978–79 Football League|the previous season]], plus the bottom eight of the [[Football League Second Division|Second Division]], all competed from the first round. Ties were two-legged affairs, with the [[away goals rule]] being applied after extra time where necessary. If teams could still not be divided, penalties were taken. Games were staged on 11/13 and 14–15 August 1979.
+
+===First Leg===
+{| class="wikitable" style="text-align:center;"
+!width=175 |Home Team
+!width=20 |Score
+!width=175  |Away Team
+!width= 125|Date
+|-
+|	[[Blackpool F.C.|Blackpool]]	||	1–1	||	[[Rochdale A.F.C.|Rochdale]]	||	11 August 1979
+|-
+|	[[Bradford City A.F.C.|Bradford City]]	||	0–2	||	[[Darlington F.C.|Darlington]]	||	11 August 1979
+|-
+|	[[Bury F.C.|Bury]]	||	0–3	||	[[Blackburn Rovers F.C.|Blackburn Rovers]]	||	11 August 1979
+|-
+|	[[Chester City F.C.|Chester]]	||	2–1	||	[[Walsall F.C.|Walsall]]	||	11 August 1979
+|-
+|	[[Chesterfield F.C.|Chesterfield]]	||	5–1	||	[[Hartlepool United F.C.|Hartlepool United]]	||	11 August 1979
+|-
+|	[[Colchester United F.C.|Colchester United]]	||	2–0	||	[[Watford F.C.|Watford]]	||	11 August 1979
+|-
+|	[[Gillingham F.C.|Gillingham]]	||	3–0	||	[[Luton Town F.C.|Luton Town]]	||	11 August 1979
+|-
+|	[[Grimsby Town F.C.|Grimsby Town]]	||	2–0	||	[[Scunthorpe United F.C.|Scunthorpe United]]	||	11 August 1979
+|-
+|	[[Halifax Town A.F.C.|Halifax Town]]	||	2–2	||	[[Shrewsbury Town F.C.|Shrewsbury Town]]	||	11 August 1979
+|-
+|	[[Hereford United F.C.|Hereford United]]	||	1–3	||	[[Exeter City F.C.|Exeter City]]	||	11 August 1979
+|-
+|	[[Huddersfield Town F.C.|Huddersfield Town]]	||	2–1	||	[[Crewe Alexandra F.C.|Crewe Alexandra]]	||	11 August 1979
+|-
+|	[[Leicester City F.C.|Leicester City]]	||	1–2	||	[[Rotherham United F.C.|Rotherham United]]	||	11 August 1979
+|-
+|	[[Lincoln City F.C.|Lincoln City]]	||	2–1	||	[[Barnsley F.C.|Barnsley]]	||	11 August 1979
+|-
+|	[[Mansfield Town F.C.|Mansfield Town]]	||	1–0	||	[[York City F.C.|York City]]	||	11 August 1979
+|-
+|	[[Newport County A.F.C.|Newport County]]	||	1–0	||	[[Plymouth Argyle F.C.|Plymouth Argyle]]	||	11 August 1979
+|-
+|	[[Northampton Town F.C.|Northampton Town]]	||	2–1	||	[[Millwall F.C.|Millwall]]	||	13 August 1979
+|-
+|	[[Oxford United F.C.|Oxford United]]	||	1–5	||	[[Reading F.C.|Reading]]	||	11 August 1979
+|-
+|	[[Peterborough United F.C.|Peterborough United]]	||	3–1	||	[[Charlton Athletic F.C.|Charlton Athletic]]	||	11 August 1979
+|-
+|	[[Portsmouth F.C.|Portsmouth]]	||	1–1	||	[[Swindon Town F.C.|Swindon Town]]	||	11 August 1979
+|-
+|	[[Port Vale F.C.|Port Vale]]	||	1–2	||	[[Tranmere Rovers F.C.|Tranmere Rovers]]	||	11 August 1979
+|-
+|	[[Sheffield United F.C.|Sheffield United]]	||	1–1	||	[[Doncaster Rovers F.C.|Doncaster Rovers]]	||	11 August 1979
+|-
+|	[[Sheffield Wednesday F.C.|Sheffield Wednesday]]	||	1–1	||	[[Hull City A.F.C.|Hull City]]	||	11 August 1979
+|-
+|	[[Southend United F.C.|Southend United]]	||	2–1	||	[[Brentford F.C.|Brentford]]	||	15 August 1979
+|-
+|	[[Stockport County F.C.|Stockport County]]	||	2–1	||	[[Wigan Athletic F.C.|Wigan Athletic]]	||	11 August 1979
+|-
+|	[[Swansea City F.C.|Swansea City]]	||	4–1	||	[[A.F.C. Bournemouth|Bournemouth]]	||	11 August 1979
+|-
+|	[[Torquay United F.C.|Torquay United]]	||	1–2	||	[[Bristol Rovers F.C.|Bristol Rovers]]	||	11 August 1979
+|-
+|	[[Wimbledon F.C.|Wimbledon]]	||	4–1	||	[[Aldershot F.C.|Aldershot]]	||	11 August 1979
+|-
+|	[[Wrexham F.C.|Wrexham]]	||	1–1	||	[[Carlisle United F.C.|Carlisle United]]	||	11 August 1979
+|-
+|}
+
+===Second Leg===
+{| class="wikitable" style="text-align:center;"
+!width=175 |Home Team
+!width=50 |Score
+!width=175  |Away Team
+!width= 125|Date
+!width= 50|Agg
+|-
+|	[[Aldershot F.C.|Aldershot]]	||	1–2	||	'''[[Wimbledon F.C.|Wimbledon]]'''	||	14 August 1979	||	2–6
+|-
+|	'''[[Barnsley F.C.|Barnsley]]'''	||	2–1<ref name="aet">After Extra Time</ref><ref name="bwo4op">[[Barnsley F.C.|Barnsley]] won on 4–3 on penalties</ref>	||	[[Lincoln City F.C.|Lincoln City]]	||	14 August 1979	||	3–3
+|-
+|	'''[[Blackburn Rovers F.C.|Blackburn Rovers]]'''	||	3–2	||	[[Bury F.C.|Bury]]	||	14 August 1979	||	6–2
+|-
+|	[[A.F.C. Bournemouth|Bournemouth]]	||	0–0	||	'''[[Swansea City F.C.|Swansea City]]'''	||	14 August 1979	||	1–4
+|-
+|	[[Brentford F.C.|Brentford]]	||	1–4	||	'''[[Southend United F.C.|Southend United]]'''	||	21 August 1979	||	2–6
+|-
+|	[[Bristol Rovers F.C.|Bristol Rovers]]	||	1–3<ref name="aet">After Extra Time</ref>	||	'''[[Torquay United F.C.|Torquay United]]'''	||	14 August 1979	||	3–4
+|-
+|	[[Carlisle United F.C.|Carlisle United]]	||	1–2	||	'''[[Wrexham F.C.|Wrexham]]'''	||	14 August 1979	||	2–3
+|-
+|	[[Charlton Athletic F.C.|Charlton Athletic]]	||	1–1	||	'''[[Peterborough United F.C.|Peterborough United]]'''	||	14 August 1979	||	2–4
+|-
+|	[[Crewe Alexandra F.C.|Crewe Alexandra]]	||	1–3	||	'''[[Huddersfield Town F.C.|Huddersfield Town]]'''	||	15 August 1979	||	2–5
+|-
+|	[[Darlington F.C.|Darlington]]	||	0–3	||	'''[[Bradford City A.F.C.|Bradford City]]'''	||	14 August 1979	||	2–3
+|-
+|	'''[[Doncaster Rovers F.C.|Doncaster Rovers]]'''	||	3–1	||	[[Sheffield United F.C.|Sheffield United]]	||	14 August 1979	||	4–2
+|-
+|	'''[[Exeter City F.C.|Exeter City]]'''	||	2–1	||	[[Hereford United F.C.|Hereford United]]	||	15 August 1979	||	5–2
+|-
+|	[[Hartlepool United F.C.|Hartlepool United]]	||	2–1	||	'''[[Chesterfield F.C.|Chesterfield]]'''	||	14 August 1979	||	3–6
+|-
+|	[[Hull City A.F.C.|Hull City]]	||	1–2	||	'''[[Sheffield Wednesday F.C.|Sheffield Wednesday]]'''	||	14 August 1979	||	2–3
+|-
+|	[[Luton Town F.C.|Luton Town]]	||	1–1	||	'''[[Gillingham F.C.|Gillingham]]'''	||	14 August 1979	||	1–4
+|-
+|	[[Millwall F.C.|Millwall]]	||	2–2	||	'''[[Northampton Town F.C.|Northampton Town]]'''	||	15 August 1979	||	3–4
+|-
+|	'''[[Plymouth Argyle F.C.|Plymouth Argyle]]'''	||	2–0	||	[[Newport County A.F.C.|Newport County]]	||	14 August 1979	||	2–1
+|-
+|	'''[[Reading F.C.|Reading]]'''	||	2–1	||	[[Oxford United F.C.|Oxford United]]	||	15 August 1979	||	7–2
+|-
+|	[[Rochdale A.F.C.|Rochdale]]	||	0–1	||	'''[[Blackpool F.C.|Blackpool]]'''	||	14 August 1979	||	1–2
+|-
+|	'''[[Rotherham United F.C.|Rotherham United]]'''	||	3–0	||	[[Leicester City F.C.|Leicester City]]	||	14 August 1979	||	5–1
+|-
+|	[[Scunthorpe United F.C.|Scunthorpe United]]	||	0–0	||	'''[[Grimsby Town F.C.|Grimsby Town]]'''	||	14 August 1979	||	0–2
+|-
+|	'''[[Shrewsbury Town F.C.|Shrewsbury Town]]'''	||	1–0	||	[[Halifax Town A.F.C.|Halifax Town]]	||	14 August 1979	||	3–2
+|-
+|	'''[[Swindon Town F.C.|Swindon Town]]'''	||	2–0	||	[[Portsmouth F.C.|Portsmouth]]	||	14 August 1979	||	3–1
+|-
+|	'''[[Tranmere Rovers F.C.|Tranmere Rovers]]'''	||	1–0	||	[[Port Vale F.C.|Port Vale]]	||	15 August 1979	||	3–1
+|-
+|	[[Walsall F.C.|Walsall]]	||	0–0	||	'''[[Chester City F.C.|Chester]]'''	||	14 August 1979	||	1–2
+|-
+|	[[Watford F.C.|Watford]]	||	2–1	||	'''[[Colchester United F.C.|Colchester United]]'''	||	14 August 1979	||	2–3
+|-
+|	[[Wigan Athletic F.C.|Wigan Athletic]]	||	0–0	||	'''[[Stockport County F.C.|Stockport County]]'''	||	15 August 1979	||	1–2
+|-
+|	[[York City F.C.|York City]]	||	3–2<ref name="aet">After Extra Time</ref><ref name="mtwotagr">[[Mansfield Town F.C.|Mansfield Town]] won on the Away Goals Rule</ref>	||	'''[[Mansfield Town F.C.|Mansfield Town]]'''	||	14 August 1979	||	3–3
+|-
+|}
+
+==Second round==
+
+The 28 first round winners were joined by the remaining clubs from the Second Division and all from the First Division. Ties for the first time in League Cup were two-legged affairs at this stage of the competition, with the away goals rule being applied after extra time where necessary. If teams could still not be divided, penalties were taken. Games were staged on 28–29 August and 3–5 September 1979.
+
+===First Leg===
+{| class="wikitable" style="text-align:center;"
+!width=175 |Home Team
+!width=20 |Score
+!width=175  |Away Team
+!width=125|Date
+|-
+|	[[Birmingham City F.C.|Birmingham City]]	||	2–1	||	[[Preston North End F.C.|Preston North End]]	||	28 August 1979
+|-
+|	[[Blackburn Rovers F.C.|Blackburn Rovers]]	||	1–1	||	[[Nottingham Forest F.C.|Nottingham Forest]]	||	29 August 1979
+|-
+|	[[Bolton Wanderers F.C.|Bolton Wanderers]]	||	1–2	||	[[Southend United F.C.|Southend United]]	||	28 August 1979
+|-
+|	[[Brighton and Hove Albion F.C.|Brighton and Hove Albion]]	||	2–0	||	[[Cambridge United F.C.|Cambridge United]]	||	28 August 1979
+|-
+|	[[Bristol City F.C.|Bristol City]]	||	1–0	||	[[Rotherham United F.C.|Rotherham United]]	||	28 August 1979
+|-
+|	[[Burnley F.C.|Burnley]]	||	1–1	||	[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]	||	28 August 1979
+|-
+|	[[Chesterfield F.C.|Chesterfield]]	||	3–0	||	[[Shrewsbury Town F.C.|Shrewsbury Town]]	||	28 August 1979
+|-
+|	[[Colchester United F.C.|Colchester United]]	||	0–2	||	[[Aston Villa F.C.|Aston Villa]]	||	28 August 1979
+|-
+|	[[Derby County F.C.|Derby County]]	||	0–1	||	[[Middlesbrough F.C.|Middlesbrough]]	||	29 August 1979
+|-
+|	[[Doncaster Rovers F.C.|Doncaster Rovers]]	||	3–1	||	[[Exeter City F.C.|Exeter City]]	||	28 August 1979
+|-
+|	[[Everton F.C.|Everton]]	||	2–0	||	[[Cardiff City F.C.|Cardiff City]]	||	28 August 1979
+|-
+|	[[Gillingham F.C.|Gillingham]]	||	1–1	||	[[Norwich City F.C.|Norwich City]]	||	28 August 1979
+|-
+|	[[Grimsby Town F.C.|Grimsby Town]]	||	1–0	||	[[Huddersfield Town F.C.|Huddersfield Town]]	||	28 August 1979
+|-
+|	[[Ipswich Town F.C.|Ipswich Town]]	||	0–1	||	[[Coventry City F.C.|Coventry City]]	||	29 August 1979
+|-
+|	[[Leeds United F.C.|Leeds United]]	||	1–1	||	[[Arsenal F.C.|Arsenal]]	||	29 August 1979
+|-
+|	[[Leyton Orient F.C.|Orient]]	||	2–2	||	[[Wimbledon F.C.|Wimbledon]]	||	29 August 1979
+|-
+|	[[Northampton Town F.C.|Northampton Town]]	||	3–0	||	[[Oldham Athletic A.F.C.|Oldham Athletic]]	||	28 August 1979
+|-
+|	[[Notts County F.C.|Notts County]]	||	0–0	||	[[Torquay United F.C.|Torquay United]]	||	28 August 1979
+|-
+|	[[Peterborough United F.C.|Peterborough United]]	||	0–0	||	[[Blackpool F.C.|Blackpool]]	||	29 August 1979
+|-
+|	[[Plymouth Argyle F.C.|Plymouth Argyle]]	||	2–2	||	[[Chelsea F.C.|Chelsea]]	||	28 August 1979
+|-
+|	[[Queens Park Rangers F.C.|Queens Park Rangers]]	||	2–1	||	[[Bradford City A.F.C.|Bradford City]]	||	28 August 1979
+|-
+|	[[Reading F.C.|Reading]]	||	4–3	||	[[Mansfield Town F.C.|Mansfield Town]]	||	29 August 1979
+|-
+|	[[Sheffield Wednesday F.C.|Sheffield Wednesday]]	||	1–1	||	[[Manchester City F.C.|Manchester City]]	||	28 August 1979
+|-
+|	[[Southampton F.C.|Southampton]]	||	5–0	||	[[Wrexham F.C.|Wrexham]]	||	28 August 1979
+|-
+|	[[Stockport County F.C.|Stockport County]]	||	1–1	||	[[Crystal Palace F.C.|Crystal Palace]]	||	29 August 1979
+|-
+|	[[Stoke City F.C.|Stoke City]]	||	1–1	||	[[Swansea City F.C.|Swansea City]]	||	29 August 1979
+|-
+|	[[Sunderland A.F.C.|Sunderland]]	||	2–2	||	[[Newcastle United F.C.|Newcastle United]]	||	29 August 1979
+|-
+|	[[Swindon Town F.C.|Swindon Town]]	||	1–0	||	[[Chester City F.C.|Chester]]	||	28 August 1979
+|-
+|	[[Tottenham Hotspur F.C.|Tottenham Hotspur]]	||	2–1	||	[[Manchester United F.C.|Manchester United]]	||	29 August 1979
+|-
+|	[[Tranmere Rovers F.C.|Tranmere Rovers]]	||	0–0	||	[[Liverpool F.C.|Liverpool]]	||	29 August 1979
+|-
+|	[[West Bromwich Albion F.C.|West Bromwich Albion]]	||	1–1	||	[[Fulham F.C.|Fulham]]	||	29 August 1979
+|-
+|	[[West Ham United F.C.|West Ham United]]	||	3–1	||	[[Barnsley F.C.|Barnsley]]	||	28 August 1979
+|-
+|}
+
+===Second Leg===
+{| class="wikitable" style="text-align:center;"
+!width=225 |Home Team
+!width=50 |Score
+!width=225  |Away Team
+!width=125|Date
+!width=50|Agg
+|-
+|	'''[[Arsenal F.C.|Arsenal]]'''	||	7–0	||	[[Leeds United F.C.|Leeds United]]	||	4 September 1979	||	8–1
+|-									
+|	'''[[Aston Villa F.C.|Aston Villa]]'''	||	0–2<ref name="aet">After Extra Time</ref><ref name="avwo9op">[[Aston Villa F.C.|Aston Villa]] won on 9–8 on penalties</ref>	||	[[Colchester United F.C.|Colchester United]]	||	5 September 1979	||	2–2
+|-									
+|	[[Barnsley F.C.|Barnsley]]	||	0–2	||	'''[[West Ham United F.C.|West Ham United]]'''	||	4 September 1979	||	1–5
+|-									
+|	[[Blackpool F.C.|Blackpool]]	||	0–1	||	'''[[Peterborough United F.C.|Peterborough United]]'''	||	5 September 1979	||	0–1
+|-									
+|	[[Bradford City A.F.C.|Bradford City]]	||	0–2	||	'''[[Queens Park Rangers F.C.|Queens Park Rangers]]'''	||	5 September 1979	||	1–4
+|-									
+|	[[Cambridge United F.C.|Cambridge United]]	||	1–2	||	'''[[Brighton and Hove Albion F.C.|Brighton and Hove Albion]]'''	||	4 September 1979	||	1–4
+|-									
+|	[[Cardiff City F.C.|Cardiff City]]	||	1–0	||	'''[[Everton F.C.|Everton]]'''	||	5 September 1979	||	1–2
+|-									
+|	[[Chelsea F.C.|Chelsea]]	||	1–2	||	'''[[Plymouth Argyle F.C.|Plymouth Argyle]]'''	||	4 September 1979	||	3–4
+|-									
+|	[[Chester City F.C.|Chester]]	||	1–1	||	'''[[Swindon Town F.C.|Swindon Town]]'''	||	5 September 1979	||	1–2
+|-									
+|	'''[[Coventry City F.C.|Coventry City]]'''	||	0–0	||	[[Ipswich Town F.C.|Ipswich Town]]	||	4 September 1979	||	1–0
+|-									
+|	'''[[Crystal Palace F.C.|Crystal Palace]]'''	||	7–0	||	[[Stockport County F.C.|Stockport County]]	||	4 September 1979	||	8–1
+|-									
+|	'''[[Exeter City F.C.|Exeter City]]'''	||	5–1<ref name="aet">After Extra Time</ref>	||	[[Doncaster Rovers F.C.|Doncaster Rovers]]	||	5 September 1979	||	6–4
+|-									
+|	[[Fulham F.C.|Fulham]]	||	0–1	||	'''[[West Bromwich Albion F.C.|West Bromwich Albion]]'''	||	5 September 1979	||	1–2
+|-									
+|	[[Huddersfield Town F.C.|Huddersfield Town]]	||	1–4	||	'''[[Grimsby Town F.C.|Grimsby Town]]'''	||	4 September 1979	||	1–5
+|-									
+|	'''[[Liverpool F.C.|Liverpool]]'''	||	4–0	||	[[Tranmere Rovers F.C.|Tranmere Rovers]]	||	4 September 1979	||	4–0
+|-									
+|	'''[[Manchester City F.C.|Manchester City]]'''	||	2–1	||	[[Sheffield Wednesday F.C.|Sheffield Wednesday]]	||	4 September 1979	||	3–2
+|-									
+|	'''[[Manchester United F.C.|Manchester United]]'''	||	3–1	||	[[Tottenham Hotspur F.C.|Tottenham Hotspur]]	||	5 September 1979	||	4–3
+|-									
+|	'''[[Mansfield Town F.C.|Mansfield Town]]'''	||	4–2<ref name="aet">After Extra Time</ref>	||	[[Reading F.C.|Reading]]	||	4 September 1979	||	7–6
+|-									
+|	'''[[Middlesbrough F.C.|Middlesbrough]]'''	||	1–1<ref name="aet">After Extra Time</ref>	||	[[Derby County F.C.|Derby County]]	||	4 September 1979	||	2–1
+|-									
+|	[[Newcastle United F.C.|Newcastle United]]	||	2–2<ref name="aet">After Extra Time</ref><ref name="swo7op">[[Sunderland F.C.|Sunderland]] won on 7–6 on penalties</ref>	||	'''[[Sunderland A.F.C.|Sunderland]]'''	||	5 September 1979	||	4–4
+|-									
+|	'''[[Norwich City F.C.|Norwich City]]'''	||	4–2	||	[[Gillingham F.C.|Gillingham]]	||	5 September 1979	||	5–3
+|-									
+|	'''[[Nottingham Forest F.C.|Nottingham Forest]]'''	||	6–1	||	[[Blackburn Rovers F.C.|Blackburn Rovers]]	||	5 September 1979	||	7–2
+|-									
+|	[[Oldham Athletic A.F.C.|Oldham Athletic]]	||	3–1	||	'''[[Northampton Town F.C.|Northampton Town]]'''	||	4 September 1979	||	3–4
+|-									
+|	[[Preston North End F.C.|Preston North End]]	||	0–1	||	'''[[Birmingham City F.C.|Birmingham City]]'''	||	4 September 1979	||	1–3
+|-									
+|	[[Rotherham United F.C.|Rotherham United]]	||	1–1	||	'''[[Bristol City F.C.|Bristol City]]'''	||	4 September 1979	||	1–2
+|-									
+|	[[Shrewsbury Town F.C.|Shrewsbury Town]]	||	0–0	||	'''[[Chesterfield F.C.|Chesterfield]]'''	||	4 September 1979	||	0–3
+|-									
+|	'''[[Southend United F.C.|Southend United]]'''	||	0–0	||	[[Bolton Wanderers F.C.|Bolton Wanderers]]	||	3 September 1979	||	2–1
+|-									
+|	[[Swansea City F.C.|Swansea City]]	||	1–3<ref name="aet">After Extra Time</ref>	||	'''[[Stoke City F.C.|Stoke City]]'''	||	4 September 1979	||	2–4
+|-									
+|	[[Torquay United F.C.|Torquay United]]	||	0–1	||	'''[[Notts County F.C.|Notts County]]'''	||	5 September 1979	||	0–1
+|-									
+|	'''[[Wimbledon F.C.|Wimbledon]]'''	||	2–2<ref name="aet">After Extra Time</ref><ref name="wwo5op">[[Wimbledon F.C.|Wimbleon]] won on 5–4 on penalties</ref>	||	[[Leyton Orient F.C.|Orient]]	||	4 September 1979	||	4–4
+|-									
+|	'''[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]'''	||	2–0	||	[[Burnley F.C.|Burnley]]	||	4 September 1979	||	3–1
+|-									
+|	[[Wrexham F.C.|Wrexham]]	||	0–3	||	'''[[Southampton F.C.|Southampton]]'''	||	5 September 1979	||	0–8
+|-									
+|}
+
+==Third round==
+Ties were straight knockout games, with additional replays if required. The original games were staged on 25–26 September 1979.
+
+{| class="wikitable" style="text-align: center"
+|-
+!Home team
+!Score
+!Away team
+!Date
+|-
+|	'''[[Arsenal F.C.|Arsenal]]'''	||	2–1	||	[[Southampton F.C.|Southampton]]	||	25 September 1979
+|-							
+|	[[Aston Villa F.C.|Aston Villa]]	||	0–0	||	[[Everton F.C.|Everton]]	||	25 September 1979
+|-							
+|	[[Birmingham City F.C.|Birmingham City]]	||	1–2	||	'''|[[Exeter City F.C.|Exeter City]]'''	||	26 September 1979
+|-							
+|	[[Crystal Palace F.C.|Crystal Palace]]	||	1–2	||	'''[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]'''	||	25 September 1979
+|-							
+|	'''[[Grimsby Town F.C.|Grimsby Town]]'''	||	3–1	||	[[Notts County F.C.|Notts County]]	||	25 September 1979
+|-							
+|	'''[[Liverpool F.C.|Liverpool]]'''	||	3–1	||	[[Chesterfield F.C.|Chesterfield]]	||	25 September 1979
+|-							
+|	[[Manchester City F.C.|Manchester City]]	||	1–1	||	[[Sunderland A.F.C.|Sunderland]]	||	26 September 1979
+|-							
+|	[[Mansfield Town F.C.|Mansfield Town]]	||	0–3	||	'''[[Queens Park Rangers F.C.|Queens Park Rangers]]'''	||	25 September 1979
+|-							
+|	[[Middlesbrough F.C.|Middlesbrough]]	||	1–3	||	'''[[Nottingham Forest F.C.|Nottingham Forest]]'''	||	25 September 1979
+|-							
+|	[[Northampton Town F.C.|Northampton Town]]	||	0–1	||	'''[[Brighton and Hove Albion F.C.|Brighton and Hove Albion]]'''	||	25 September 1979
+|-							
+|	'''[[Norwich City F.C.|Norwich City]]'''	||	4–1	||	[[Manchester United F.C.|Manchester United]]	||	26 September 1979
+|-							
+|	[[Peterborough United F.C.|Peterborough United]]	||	1–1	||	[[Bristol City F.C.|Bristol City]]	||	26 September 1979
+|-							
+|	[[Plymouth Argyle F.C.|Plymouth Argyle]]	||	0–0	||	[[Wimbledon F.C.|Wimbledon]]	||	25 September 1979
+|-							
+|	[[Stoke City F.C.|Stoke City]]	||	2–2	||	[[Swindon Town F.C.|Swindon Town]]	||	26 September 1979
+|-							
+|	'''[[West Bromwich Albion F.C.|West Bromwich Albion]]'''	||	2–1	||	[[Coventry City F.C.|Coventry City]]	||	26 September 1979
+|-							
+|	[[West Ham United F.C.|West Ham United]]	||	1–1	||	[[Southend United F.C.|Southend United]]	||	25 September 1979
+|-
+|}
+
+===Replays===
+{| class="wikitable" style="text-align:center;"
+|-
+!width=175 |Home Team
+!width=20 |Score
+!width=175  |Away Team
+!width=125|Date
+|-
+|	'''[[Bristol City F.C.|Bristol City]]'''	||4–0||	[[Peterborough United F.C.|Peterborough United]]	||	2 October 1979
+|-
+|	'''[[Everton F.C.|Everton]]'''	||	4–1	||	[[Aston Villa F.C.|Aston Villa]]	||	9 October 1979
+|-
+|	[[Southend United F.C.|Southend United]]	||	0–0<ref name="aet">After Extra Time</ref>	||	[[West Ham United F.C.|West Ham United]]	||	1 October 1979
+|-
+|	'''[[Sunderland A.F.C.|Sunderland]]'''	||	1–0	||	[[Manchester City F.C.|Manchester City]]	||	3 October 1979
+|-
+|	'''[[Swindon Town F.C.|Swindon Town]]'''	||	2–1	||	[[Stoke City F.C.|Stoke City]]	||	3 October 1979
+|-
+|	'''[[Wimbledon F.C.|Wimbledon]]'''	||	1–0<ref name="aet">After Extra Time</ref>	||	[[Plymouth Argyle F.C.|Plymouth Argyle]]	||	2 October 1979
+|-
+|}
+
+=== 2nd Replay===
+{| class="wikitable" style="text-align:center;"
+|-
+!width=175 |Home Team
+!width=20 |Score
+!width=175  |Away Team
+!width=125|Date
+|-
+|	'''[[West Ham United F.C.|West Ham United]]'''	||	5–1	||	[[Southend United F.C.|Southend United]]	||	8 October 1979
+|-
+|}
+
+==Fourth round==
+Ties were straight knockout games, with additional replays if required. The original games were staged on 30–31 October 1979.
+
+===Ties===
+{| class="wikitable" style="text-align:center;"
+|-
+!width=175 |Home Team
+!width=20 |Score
+!width=175  |Away Team
+!width=125|Date
+|-
+|	[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]	||	0–0	||	[[Arsenal F.C.|Arsenal]]	||	30 October 1979
+|-							
+|	[[Bristol City F.C.|Bristol City]]	||	1–1	||	[[Nottingham Forest F.C.|Nottingham Forest]]	||	30 October 1979
+|-							
+|	'''[[Grimsby Town F.C.|Grimsby Town]]'''	||	2–1	||	[[Everton F.C.|Everton]]	||	30 October 1979
+|-							
+|	'''[[Liverpool F.C.|Liverpool]]'''	||	2–0	||	[[Exeter City F.C.|Exeter City]]	||	30 October 1979
+|-							
+|	[[Queens Park Rangers F.C.|Queens Park Rangers]]	||	1–1	||	[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]	||	30 October 1979
+|-							
+|	[[Sunderland F.C.|Sunderland]]	||	1–1	||	[[West Ham United F.C.|West Ham United]]	||	31 October 1979
+|-							
+|	[[West Bromwich Albion F.C.|West Bromwich Albion]]	||	0–0	||	[[Norwich City F.C.|Norwich City]]	||	31 October 1979
+|-							
+|	[[Wimbledon F.C.|Wimbledon]]	||	1–2	||	'''[[Swindon Town F.C.|Swindon Town]]'''	||	30 October 1979
+|-							
+|}
+
+===Replays===
+{| class="wikitable" style="text-align:center;"
+|-
+!width=225 |Home Team
+!width=20 |Score
+!width=175  |Away Team
+!width=125|Date
+|-
+|	'''[[Arsenal F.C.|Arsenal]]'''	||	4–0	||	[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]	||	13 November 1979
+|-							
+|	'''[[Norwich City F.C.|Norwich City]]'''	||	3–0	||	[[West Bromwich Albion F.C.|West Bromwich Albion]]	||	7 November 1979
+|-							
+|	'''[[Nottingham Forest F.C.|Nottingham Forest]]'''	||	3–0	||	[[Bristol City F.C.|Bristol City]]	||	14 November 1979
+|-							
+|	'''[[West Ham United F.C.|West Ham United]]'''	||	2–1	||	[[Sunderland F.C.|Sunderland]]	||	5 November 1979
+|-							
+|	'''[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]'''	||	1–0	||	[[Queens Park Rangers F.C.|Queens Park Rangers]]	||	6 November 1979
+|-							
+|}
+
+==Fifth round==
+Ties were straight knockout games, with additional replays if required.
+
+{{football box
+|date=4 December 1979
+|time=
+|team1=[[Arsenal F.C.|Arsenal]]
+|score=1–1
+|report=
+|team2=[[Swindon Town F.C.|Swindon Town]]
+|goals1=[[Alan Sunderland|Sunderland]] {{goal|(pen.)}}
+|goals2=[[Billy Tucker|Tucker]] {{goal}}
+|stadium=[[Arsenal Stadium|Highbury]], London
+|attendance=38,024
+|referee=J. Hunting}}
+{{football box
+| date = 4 December 1979
+| time = 
+| round = 
+| event = 
+| team1 = [[Grimsby Town F.C.|Grimsby Town]]
+| score1 = 
+| score2 = 
+| score = 0–0
+| report = 
+| team2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| goals1 = 
+| goals2 = 
+| penaltyscore = 
+| penalties1 = 
+| penalties2 = 
+| stadium = [[Blundell Park]], Cleethorpes
+| location = 
+| attendance = 23,115
+| referee = 
+| aet = 
+}}
+{{football box
+|date=4 December 1979
+|time=
+|team1=[[West Ham United F.C.|West Ham United]]
+|score=0–0
+|report=
+|team2=[[Nottingham Forest F.C.|Nottingham Forest]]
+|goals1=
+|goals2=
+|stadium=[[Boleyn Ground|Upton Park]], London
+|attendance=35,856
+|referee=}}
+{{football box
+|date=5 December 1979
+|time=
+|team1=[[Norwich City F.C.|Norwich City]]
+|score=1–3
+|report=
+|team2=[[Liverpool F.C.|Liverpool]]
+|goals1=[[Martin Peters|Peters]] {{goal}}
+|goals2=[[David Johnson (footballer born 1951)|Johnson]] {{goal}} {{goal}}<br />[[Kenny Dalglish|Dalglish]] {{goal}}
+|stadium=[[Carrow Road]], Norwich
+|attendance=23,000
+|referee=}}
+
+===Replays===
+{{football box
+|date= 11 December 1979
+|time=
+|team1=[[Swindon Town F.C.|Swindon Town]]
+|score=4 – 3 ([[Extra time|a.e.t.]])
+|report=
+|team2=[[Arsenal F.C.|Arsenal]]
+|goals1=[[Steve Walford|Walford]] {{goal|(og.)}}<br />[[Alan Mayes|Mayes]] {{goal}}<br />[[John Hollins|Hollins]] {{goal|(og.)}}<br />[[Andy Rowland|Rowland]] {{goal}}
+|goals2= [[Liam Brady|Brady]] {{goal}} {{goal}}<br />[[Brian Talbot|Talbot]] {{goal}}
+|stadium=[[County Ground, Swindon]]
+|attendance=21,795
+|referee= A. Hamil}}
+{{football box
+|date=11 December 1979
+|time=
+|team1=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|score=1 – 1 ([[Extra time|a.e.t.]])
+|report=
+|team2=[[Grimsby Town F.C.|Grimsby Town]]
+|goals1=[[Andy Gray (footballer born 1955)|Gray]] {{goal}}
+|goals2=
+|stadium=[[Molineux Stadium|Molineux]], Wolverhampton
+|attendance=28,455
+|referee= }}
+{{football box
+|date=12 December 1979
+|time=
+|team1=[[Nottingham Forest F.C.|Nottingham Forest]]
+|score=3 – 0 ([[Extra time|a.e.t.]])
+|report=
+|team2=[[West Ham United F.C.|West Ham United]]
+|goals1=[[Garry Birtles|Birtles]] {{goal}}<br />[[John O'Hare|O'Hare]] {{goal}}<br />[[Martin O'Neill|O'Neill]] {{goal}}
+|goals2=
+|stadium=[[City Ground]], Nottingham
+|attendance=25,462
+|referee= }}
+
+===2nd Replay===
+{{football box
+|date=18 December 1979
+|time=
+|team1=[[Grimsby Town F.C.|Grimsby Town]]
+|score=0–2
+|report= 
+|team2=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|goals1=
+|goals2=[[Kenny Hibbitt|Hibbitt]] {{goal|(pen.)}}<br />[[John Richards (footballer)|Richards]] {{goal}}
+|stadium=[[Baseball Ground]], Derby
+|attendance=16,475
+|referee= }}
+
+==Semi-finals==
+Ties were once again two-legged affairs with the winners advancing to the final. Extra time and then penalties would be used in the second leg if required.
+
+===First leg===
+{{football box
+|date=22 January 1980
+|time=
+|team1=[[Nottingham Forest F.C.|Nottingham Forest]]
+|score=1–0
+|report=
+|team2=[[Liverpool F.C.|Liverpool]]
+|goals1=[[John Robertson (footballer born 1953)|Robertson]] {{goal|89|pen.}}
+|goals2=
+|stadium=[[City Ground]], Nottingham
+|attendance=32,234
+|referee= }}
+{{football box
+|date=22 January 1980
+|time=
+|team1=[[Swindon Town F.C.|Swindon Town]]
+|score=2–1
+|report=
+|team2=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|goals1=[[Andy Rowland|Rowland]] {{goal|13}}<br>[[Alan Mayes|Mayes]] {{goal|86}}
+|goals2=[[Peter Daniel (footballer born 1955)|Daniel]] {{goal|26}}
+|stadium=[[County Ground, Swindon]]
+|attendance=26,000
+|referee= A. Robinson}}
+
+===Second leg===
+{{football box
+|date=12 February 1980
+|time=
+|team1=[[Liverpool F.C.|Liverpool]]
+|score=1–1
+|report=
+|team2=[[Nottingham Forest F.C.|Nottingham Forest]]
+|goals1=[[David Fairclough|Fairclough]] {{goal|89}}
+|goals2=[[John Robertson (footballer born 1953)|Robertson]] {{goal|([[Penalty kick (association football)|pen.]])}}
+|stadium=[[Anfield]], Liverpool
+|attendance=50,880
+|referee= }}
+''Nottingham Forest won 2–1 on aggregate''
+{{football box
+|date=12 February 1980
+|time=
+|team1=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|score=3–1
+|report=
+|team2=[[Swindon Town F.C.|Swindon Town]]
+|goals1=[[John Richards (footballer)|Richards]] {{goal|53||73}}<br />[[Mel Eves|Eves]] {{goal|59}}
+|goals2=[[Ray McHale|McHale]] {{goal|62|pen.}}
+|stadium=[[Molineux Stadium|Molineux]], Wolverhampton
+|attendance=41,031
+|referee=N. Midgley }}
+''Wolverhampton Wanderers won 4–3 on aggregate''
+
+==Final==
+{{main|1980 Football League Cup Final}}
+
+{{football box
+|date=15 March 1980<br/>15:00 [[Western European Time|GMT]]
+|team1=[[Nottingham Forest F.C.|Nottingham Forest]]
+|score=0–1
+|team2=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|goals1=
+|goals2=[[Andy Gray (footballer born 1955)|Gray]] {{goal|67}}
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], London
+|attendance=96,527
+|referee=David Richardson ([[Lancashire County Football Association|Great Harwood]])}}
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _white_stripes2
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _white_stripes2
+ | pattern_sh = _red_stripes
+ | pattern_so = _redtop_2whitestripes
+ | leftarm    = DD0000
+ | body       = DD0000
+ | rightarm   = DD0000
+ | shorts     = FFFFFF
+ | socks      = DD0000
+ | title      = Nottingham Forest
+}}
+|{{Football kit 
+ | pattern_la = _blackborder
+ | pattern_b  = _collarblack
+ | pattern_ra = _blackborder
+ | leftarm    = febd11
+ | body       = febd11
+ | rightarm   = febd11
+ | shorts     = 000000
+ | socks      = febd11
+ | title      = Wolverhampton Wanderers
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|'''NOTTINGHAM FOREST:'''
+|-
+!width="25"| !!width="25"|
+|-
+| ||'''1''' ||[[Peter Shilton]]
+|-
+| ||'''2''' ||[[Viv Anderson]]
+|-
+| ||'''3''' ||[[Frank Gray]]
+|-
+| ||'''4''' ||[[John McGovern (footballer)|John McGovern]] ([[Captain (association football)|c]]) 
+|-
+| ||'''5''' ||[[David Needham]]
+|-
+| ||'''6''' ||[[Kenny Burns]]
+|-
+| ||'''7''' ||[[Martin O'Neill]]
+|-
+| ||'''8''' ||[[Ian Bowyer]]
+|-
+| ||'''9''' ||[[Garry Birtles]]
+|-
+| ||'''10'''||[[Trevor Francis]] 
+|-
+| ||'''11'''||[[John Robertson (footballer born 1953)|John Robertson]]
+|-
+|colspan=4|'''Substitute:'''
+|-
+| ||'''12'''||[[John O'Hare]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Brian Clough]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|colspan="4"|'''WOLVERHAMPTON WANDERERS:'''
+|-
+!width="25"| !!width="25"|
+|-
+| ||'''1''' ||[[Paul Bradshaw (footballer born 1956)|Paul Bradshaw]]
+|-
+| ||'''2''' ||[[Geoff Palmer (footballer)|Geoff Palmer]]
+|-
+| ||'''3''' ||[[Derek Parkin]]
+|-
+| ||'''4''' ||[[Peter Daniel (footballer born 1955)|Peter Daniel]]
+|-
+| ||'''5''' ||[[Emlyn Hughes]] ([[Captain (association football)|c]]) 
+|-
+| ||'''6''' ||[[George Berry (footballer)|George Berry]]
+|-
+| ||'''7''' ||[[Kenny Hibbitt]]
+|-
+| ||'''8''' ||[[Willie Carr]]
+|-
+| ||'''9''' ||[[Andy Gray (footballer born 1955)|Andy Gray]]
+|-
+| ||'''10'''||[[John Richards (footballer)|John Richards]]
+|-
+| ||'''11'''||[[Mel Eves]]
+|-
+|colspan=4|'''Substitute:'''
+|-
+| ||'''12'''|| [[Colin Brazier (footballer)|Colin Brazier]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[John Barnwell]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''MATCH OFFICIALS'''
+*Assistant referees:
+**M.J.R. Barker ([[Shropshire Football Association|Oswestry]])
+**B.A. Champion (Bristol)
+*Reserve referee: B.H. Daniels ([[Essex County Football Association|Brentwood]])
+| width=50% valign=top|
+'''MATCH RULES'''
+*90 minutes
+*30 minutes of extra-time if necessary.
+*Replay (at Manchester United) if scores still level
+*One named substitute
+*Maximum of 1 substitution
+|}
+
+==References==
+
+===General===
+*{{cite web |url=http://www.soccerbase.com/tournaments/tournament.sd?tourn_id=508
+ |title=English League Cup 1979/1980 |accessdate=3 February 2009 |publisher=[[Racing Post|Soccerbase]]}}
+*{{cite web |url=http://www.rsssf.com/tablese/engleagcuphistfull.html
+ |title=England League Cup Full Results 1960–1996 |accessdate=3 February 2009 |publisher=Rec.Sport.Soccer Statistics Foundation| archiveurl= https://web.archive.org/web/20090221012511/http://rsssf.com/tablese/engleagcuphistfull.html| archivedate= 21 February 2009 | url-status=live}}
+*{{cite web |url=http://www.statto.com/football/stats/england/league-cup/1979-1980/results |title=English League Cup 1979–1980 : Results |accessdate=19 January 2012 |publisher=Statto |archive-url=https://web.archive.org/web/20160304064050/http://www.statto.com/football/stats/england/league-cup/1979-1980/results |archive-date=4 March 2016 |url-status=dead |df=dmy-all }}
+
+===Specific===
+{{reflist}}
+
+{{Football League Cup seasons}}
+{{1979–80 in English football}}
+{{1979–80 in European football (UEFA)}}
+
+{{DEFAULTSORT:1979-80 Football League Cup}}
+[[Category:EFL Cup seasons]]
+[[Category:1979–80 domestic association football cups]]
+[[Category:1979–80 in English football|Lea]]
+[[Category:1979–80 Football League|Cup]]

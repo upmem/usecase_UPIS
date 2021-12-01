@@ -1,0 +1,93 @@
+{{Multiple issues|
+{{BLP sources|date=September 2017}}
+{{notability|date=September 2017}}
+}}
+
+{{Infobox philosopher
+| name = Dennis J. Schmidt
+| image = 
+| caption =
+| birth_name =
+| birth_date = 
+| birth_place =
+| death_date =
+| death_place =
+| era = [[Contemporary philosophy]]
+| region = [[Western philosophy]]
+| school_tradition = [[Continental philosophy|Continental]]
+| main_interests = [[Hermeneutics]]<br />[[Ancient Greek Philosophy]]<br />[[Literary Criticism]]
+| thesis_title      = Between Hegel and Heidegger: An Essay on Dialectic and Difference
+| thesis_url        = https://philpapers.org/rec/SCHBHA-6
+| thesis_year       = 1980
+| doctoral_advisor  = [[Jacques Taminiaux]]
+| notable_ideas =
+| influences = 
+| influenced = 
+}}
+
+'''Dennis Joseph Schmidt''' is an [[American people|American]] [[philosopher]] living in [[Sydney, Australia]] where he is Research Professor and Chair at [[Western Sydney University]]. Prior to moving to Sydney in 2015, he taught at [[Binghamton University]] (1982-1994), [[Villanova University]] (1994-2003), and [[Penn State University]] (2003-2015).  He is known for his research on [[ancient Greek philosophy]] and [[Ancient_Greek_literature|literature]], [[post-Kantian philosophy]], [[hermeneutics]] and [[philosophy of art]].<ref>[https://books.google.com/books?id=RWFBdG7YPDUC&pg=PA66&lpg=PA66&dq=dennis+schmidt+philosophy&source=bl&ots=R3ai7rKyJJ&sig=8abMsoHfCtAQ8MgeWrdTxH4UGhk&hl=en&sa=X&sqi=2&ved=0ahUKEwiFtO7PkOjMAhWBI8AKHdoVARUQ6AEIWDAJ#v=onepage&q=dennis%20schmidt%20philosophy&f=false Stereoscopic Thinking]</ref><ref>[http://www.encyclopedia.com/article-1G2-3446800832/hermeneutics.html Hermeneutics]</ref><ref>[http://scholarship.haverford.edu/philosophy_facpubs/183/ Review of Dennis J. Schmidt's Between Word and Image: Heidegger, Klee, and Gadamer on Gesture and Genesis], by [[Kathleen Wright]]</ref><ref>[http://www.sunypress.edu/p-5060-being-and-time.aspx Being and Time]</ref>
+He received his [[PhD]] in [[philosophy]] from the [[Boston College]] in 1982.<ref>[http://www85.homepage.villanova.edu/dennis.schmidt/ About Dennis Schmidt]</ref>
+
+Dennis Schmidt lives with his wife, Jennifer Mensch (who also teaches at Western Sydney University and is the author or 'Kant's Organisim') and his daughter Zoe Schmidt.
+
+Schmidt is the editor of "[[SUNY]] Press Series in Contemporary Continental Philosophy" which has published a number of important works in the contemporary Continental tradition.  In addition to his own publications Schmidt has substantially revised and edited [[Joan Stambaugh]]'s 1995 translation of [[Martin Heidegger]]'s ''[[Being and Time]]'' (1927).
+
+==Bibliography==
+* Schmidt, D. (2014), 'Idiome der Wahrheit', : Vittorio Klostermann 9783465042273.
+* Schmidt, D. (2012), 'Between Word and Image: Heidegger, Klee, and Gadamer on Gesture and Genesis', : Indiana University Press 9780253006189.
+* On Germans and Other Greeks: Tragedy and Ethical Life (Indiana University Press, 2001)
+* The Ubiquity of the Finite: Hegel, Heidegger and the Entitlements of Philosophy, MIT Press: Cambridge, Massachusettsm, 1988
+* The Difficulties of Ethical Life, Fordham UP, 2008. Co-edited with [[Shannon Sullivan]]
+* Lyrical and Ethical Subjects (SUNY Press, 2005)
+* Hermeneutische Wege (co-edited with Günter Figal, Mohr-Siebeck Verlag, 2000)
+
+==See also==
+*[[German philosophy]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://complit.la.psu.edu/people/djs61 Dennis Schmidt at Pennsylvania State University]
+* [http://www.uws.edu.au/staff_profiles/uws_profiles/professor_dennis_schmidt Dennis Schmidt at Western Sydney University]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schmidt, Dennis}}
+[[Category:20th-century essayists]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century philosophers]]
+[[Category:21st-century essayists]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American philosophers]]
+[[Category:21st-century philosophers]]
+[[Category:American male essayists]]
+[[Category:American male non-fiction writers]]
+[[Category:American male writers]]
+[[Category:American scholars of ancient Greek philosophy]]
+[[Category:Boston College alumni]]
+[[Category:Bucknell University alumni]]
+[[Category:Contemporary philosophers]]
+[[Category:Continental philosophers]]
+[[Category:Gadamer scholars]]
+[[Category:German–English translators]]
+[[Category:Heidegger scholars]]
+[[Category:Hermeneutists]]
+[[Category:Historians of philosophy]]
+[[Category:Living people]]
+[[Category:Pennsylvania State University faculty]]
+[[Category:Philosophers of art]]
+[[Category:Philosophers of culture]]
+[[Category:Philosophers of literature]]
+[[Category:Philosophers of nihilism]]
+[[Category:Philosophy academics]]
+[[Category:Philosophy writers]]
+[[Category:Translators of Martin Heidegger]]
+[[Category:Translators of philosophy]]
+[[Category:Western Sydney University faculty]]
+[[Category:Year of birth missing (living people)]]
+
+{{philosopher-stub}}

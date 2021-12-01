@@ -1,0 +1,292 @@
+[[File:B-57B Canberra 3d Bombardment Wing Johnson AB Japan 1956.jpg|thumb|Martin B-57C Canberra from the [[3d Bombardment Wing]], [[Johnson Air Base]], Japan, 1956.  Shown in the original USAF black night motif.]]
+[[File:EB-57A Air Defense Command Defense Systems Evaluation.jpg|thumb|EB-57A Air Defense Command Defense Systems Evaluation Aircraft.]]
+The Martin [[B-57 Canberra]] was first manufactured in 1953, and the [[United States Air Force]] had accepted a total of 403 B-57s before production ended in early 1957.  The last USAF B-57 was retired in 1983.
+
+It was the last tactical bomber used by the United States Air Force, being engaged in combat operations during the Vietnam War (1963–1971).  It also performed a wide variety of other missions.  This list is of the units it was assigned to, missions performed, and the bases it was stationed.
+
+==Units==
+
+===Tactical Bombardment===
+The B-57B Tactical Bomber was the replacement for the [[World War II]] [[B-26 Invader]].  Assigned to [[Tactical Air Command|TAC]], [[USAFE]], [[PACAF]].  202  aircraft produced.  Production began in 1952, deliveries began in 1954. TAC aircraft sent to [[Air National Guard]] by 1958, being replaced by [[F-100 Super Sabre]].   USAFE aircraft withdrawn from [[France]] in 1957 by agreement with French Government.
+
+PACAF 8th and 13th Bombardment Squadrons flew B-57B Tactical Bombers in combat during [[Vietnam War]], 1964–1969. The B-57G modification (Tropic Moon Night Intruder, 18 B-57B aircraft modified, 1968–1969) flew in combat 1970–1972.   Last aircraft retired from Air National Guard, 1974.
+
+The B-57Cs was a limited-production dual-control trainer version of the B-57B (1954–1958).  38 produced.  A small number of B-57Cs were later re-equipped and redesignated as RB-57C for service alongside RB-57A Reconnaissance aircraft as trainers when the latter were issued to ANG units.
+{{Col-begin}}
+{{Col-break|width=50%}}
+* [[3d Bombardment Wing]], Tactical (B-57B/C) (PACAF)
+: [[Johnson AB]], Japan, 1956–1960
+: [[Yokota AB]], Japan, 1960–1963
+:: [[8th Bombardment Squadron]], Tactical 
+:: [[13th Bombardment Squadron]], Tactical 
+:: [[90th Bombardment Squadron]], Tactical
+
+* [[345th Bombardment Wing]], Tactical (B-57B/C) (TAC)
+: 345th Bombardment Group (1954–1957) received first production USAF B-57Bs, July 1954
+: [[Langley AFB]], Virginia, 1954–1959
+::[[498th Bombardment Squadron]], Tactical
+::[[499th Bombardment Squadron]], Tactical
+::[[500th Bombardment Squadron]], Tactical
+::[[501st Bombardment Squadron]], Tactical
+
+* [[461st Bombardment Wing]], Tactical (B-57B/C) (TAC)
+: [[Hill AFB]], Utah, 1955–1956
+: [[Blytheville AFB]], Arkansas, 1956–1958
+:: [[764th Bombardment Squadron]], Tactical
+:: [[765th Bombardment Squadron]], Tactical
+:: [[766th Bombardment Squadron]], Tactical
+
+* [[3510th Combat Crew Training Wing]],  (B-57B/C) (ATC)
+: [[Randolph AFB]], Texas, 1954–1956
+:: [[3511th Combat Crew Training Squadron]]
+
+* [[17th Bombardment Group]], Tactical (B-57B/C) (TAC)
+: [[Hurlburt Field]], Florida, 1955–1956
+:: [[34th Bombardment Squadron]], Tactical
+
+{{Col-break|width=50%}}
+* [[38th Bombardment Group]], Tactical (B-57B/C) (USAFE)
+:[[Laon-Couvron AB]], France, 1955–1957
+:: [[71st Bombardment Squadron]], Tactical
+:: [[405th Bombardment Squadron]], Tactical
+:: [[822d Bombardment Squadron]], Tactical
+
+* [[41st Air Division]] (B-57B) (PACAF)
+: [[Yokota Air Base]], Japan, 1964
+:: [[8th Bombardment Squadron]], Tactical
+:: [[13th Bombardment Squadron]], Tactical
+
+* [[405th Fighter Wing]] (B-57B) (PACAF)
+: [[Clark Air Base]], Philippines, 1965–1968
+:: [[8th Bombardment Squadron]], Tactical   (Tail Code: PQ)
+:: [[13th Bombardment Squadron]], Tactical  (Tail Code: PV)
+:: Both squadrons performed rotating temporary duty at:
+::: [[Tan Son Nhut Air Base]], [[Bien Hoa Air Base]], [[Da Nang Air Base]], South Vietnam, 1965–1968
+
+* [[35th Tactical Fighter Wing]] (B-57B) (PACAF)
+: [[Phan Rang Air Base]], South Vietnam, 1968–1969
+:: [[8th Bombardment Squadron]], Tactical   (Tail Code: PQ)
+:: [[13th Bombardment Squadron]], Tactical  (Tail Code: PV)
+
+* [[15th Tactical Fighter Wing]] (B-57G) (TAC)
+: [[MacDill AFB]], Florida, 1969–1972 
+:: [[13th Bombardment Squadron]], 1969–1970 (Tail Code: FS)
+:: 4424th Combat Crew Training Squadron, 1969–1972 (Tail Code: FS)
+
+* [[8th Tactical Fighter Wing]] (B-57G) (PACAF)
+: [[Ubon RTAFB]], Thailand, 1970–1972
+:: [[13th Bombardment Squadron]] (Tail Code: FK)
+{{col-end}}
+
+===Tactical Reconnaissance===
+The RB-57A was the replacement for the RB-26 night reconnaissance aircraft.  67 produced.   The aircraft was filled with various cameras and was unarmed, its mission  being day and night, high and low, and visual and photographic reconnaissance.  It filled the photo-reconnaissance mission of the RB-26, but were not reliable and also had a high accident rate.   Replaced by the [[RB-66B Destroyer]] and [[RF-101C Voodoo]] by 1958; survivors sent to the [[Air National Guard]].  Some were converted to [[Air Defense Command]] EB-57A electronic warfare aircraft to provide training for air defense radar units.  By 1973, most of the surviving R/EB-57A's had been retired to AMARC at [[Davis Monthan AFB]], Arizona. A few were converted to RB-57F strategic reconnaissance/weather reconnaissance aircraft.
+
+Ten RB-57As were modified for high-altitude strategic reconnaissance over non-friendly areas under "Project Heartthrob".  Designated RB-57A-1s, they flew high-altitude reconnaissance missions over [[Eastern Europe]], [[China|Communist China]] and [[North Korea]] in the late 1950s.  Two other RB-57As, designated RB-57A-2 were modified with a bulbous nose containing AN/APS-60 mapping radar and a SIGINT direction finder system in 1957 under project SARTAC.
+
+Eight RB-57Es were modified from B-57E Target Towing aircraft and were fitted with cameras and other sensors as part of the "[[Patricia Lynn Project]]" during the [[Vietnam War]].   They were used in spotting [[Viet Cong]] river traffic at night along the [[Mekong Delta]] southeast of [[Saigon]]. In 1969/70, Patricia Lynn missions were flown into [[Laos]] and into [[Cambodia]]. The Patricia Lynn operation was terminated in mid-1971. 
+ 
+{{Col-begin}}
+{{Col-break|width=50%}}
+* [[10th Tactical Reconnaissance Wing]] (RB-57A) (USAFE)
+: [[1st Tactical Reconnaissance Squadron]]
+:: [[Spangdahlem AB]], West Germany, 1954–1957
+
+* [[363d Tactical Reconnaissance Wing]] (RB-57A) (TAC)
+: [[22d Tactical Reconnaissance Squadron]]
+: [[41st Tactical Reconnaissance Squadron]]
+: [[43d Tactical Reconnaissance Squadron]]
+:: [[Shaw AFB]], South Carolina, 1954–1956
+:: (First USAF operational B-57 wing)
+
+* [[66th Tactical Reconnaissance Group]] (RB-57A) (USAFE)
+: [[30th Tactical Reconnaissance Squadron]]
+:: [[Sembach AB]], West Germany. 1954–1958
+{{Col-break|width=50%}}
+* [[33d Tactical Group]], Detachment 1,  (RB-57E) (PACAF)
+: Re-designated: 6250th Combat Support Group Detachment 1
+: Re-designated: [[460th Tactical Reconnaissance Wing]], Detachment 1 
+:: [[Tan Son Nhut AB]], South Vietnam, 1963–1971
+:: Also operated from: [[Da Nang AB]], South Vietnam
+
+* [[6021st Reconnaissance Squadron]] (RB-57A-1) (FEAF)
+:: [[Yokota AB]], Japan, 1955–1957
+* [[7407th Support Squadron]] (RB-57A-1, RB-57A-2) (USAFE)
+:: [[Wiesbaden AB]], West Germany, 1955–1957
+{{col-end}}
+
+===Strategic Reconnaissance===
+The RB-57D was a high-altitude strategic reconnaissance aircraft.  20 produced.  Extended wing with higher thrust engine modification of B-57B, operated in lower stratosphere.   Operations remain largely classified (1957–1963).  Replaced by [[Lockheed U-2]].
+
+The RB-57F was the result of an early-1960s program to produce a virtually new high-altitude reconnaissance aircraft out of the B-57.  21 produced.  Developed from some RB-57As, RB-57Bs, and RB-57Ds in 1963 with newer engines and wider wings.   Used for strategic reconnaissance.  Transferred to [[Air Weather Service]] as WB-57Fs, 1968
+
+Two WB-57Fs are the only B-57 aircraft model still flyable and in service (NASA, 2011).
+
+{{Col-begin}}
+{{Col-break|width=50%}}
+* [[4080th Strategic Reconnaissance Wing]] (RB-57D) (SAC)
+: [[4028th Strategic Reconnaissance Squadron]]
+: Detachment 1 operated from: [[Yokota AB]], Japan
+: Detachment 2 operated from: [[Eielson AFB]], Alaska
+:: [[Naval Air Station Albany#Turner Air Force Base (1947-66)|Turner AFB]], Georgia, 1956–1957
+:: [[Laughlin AFB]], Texas, 1957–1959
+
+{{Col-break|width=50%}}
+* [[6091st Reconnaissance Squadron]] (RB-57F) (PACAF)
+: [[Yokota AB]], Japan, 1963–1968 
+* [[556th Reconnaissance Squadron]] (RB-57F) (PACAF)
+: [[Yokota AB]], Japan (RB-57F), 1968–1972
+* [[7407th Support Squadron]] (RB-57D, RB-57F) (USAFE)
+: [[Wiesbaden AB]], West Germany, 1957–1964 (D), 1963–1974 (F) 
+{{col-end}}
+
+===Weather Reconnaissance===
+B/RB-57C/D/E/Fs operated by the [[Air Weather Service]].   WB-57Ds used for high altitude atmospheric sampling for nuclear weapons testing/monitoring.   WF-57Fs were remaining RB-57Fs re-designation after June, 1968.  Used for high-altitude weather monitoring and occasionally fitted with cameras for clandestine strategic reconnaissance flights.  Retired 1981.
+{{Col-begin}}
+{{Col-break|width=50%}}
+* [[4926th Test Squadron]] (Sampling) 
+: Re-designated: [[1211th Test Squadron]]  (Sampling)
+:: [[Kirtland AFB]], New Mexico,  1955–1963 (B-57B), 1957–1963 (RB-57D)
+* [[55th Weather Reconnaissance Squadron]] (RB-57F)
+:: [[McClellan AFB]], California, 1963–1964
+: 55th Weather Reconnaissance Squadron, Detachment 1 (RB-57F)
+:: [[Eielson AFB]], Alaska, 1963–1964
+* [[56th Weather Reconnaissance Squadron]], (WB-57B, R/WB-57F) 
+:: [[Yokota AB]], Japan, 1962–1964, 1966–1972
+{{Col-break|width=50%}}
+* [[57th Weather Reconnaissance Squadron]],  (WB-57B, R/WB-57F)  
+: [[Avalon Airport]], Melbourne, Victoria, Australia, 1962–1969
+* [[58th Weather Reconnaissance Squadron]] (WB-57C, WB-57E, R/WB-57F)
+:: [[Kirtland AFB]], New Mexico, 1 Feb 1964-1 Jul 1974
+: Detachment: [[RAAF Base East Sale]], Victoria, Australia (R/WB-57F)
+: Detachment: [[El Plumerillo International Airport]], Argentina (R/WB-57F)
+: 58th Weather Reconnaissance Squadron, Detachment 1, [[Eielson AFB]], Alaska (R/WB-57F)
+{{col-end}}
+
+===Tow Target===
+Dedicated [[Air Defense Command]] target towing aircraft used for training of [[F-86D Sabre]], [[F-94C Starfire]], and [[F-89D Scorpion]] interceptors firing 2.75-inch [[Mk 4/Mk 40 Folding-Fin Aerial Rocket]]s.  68 produced.  As [[F-102 Delta Dagger]] interceptors firing heat-seeking [[AIM-4 Falcon]] air-to-air missiles became available, the target towing mission of the B-57E became obsolete, and beginning in 1960 the B-57Es were adapted to electronic countermeasures and faker target aircraft (EB-57E).
+
+In order to cover combat losses in the [[Vietnam War]], twelve B-57Es were reconfigured as combat-capable B-57Bs at the Martin factory in late 1965 and were deployed to Southeast Asia for combat.  Six converted to RB-57E "Patricia Lynn" tactical reconnaissance aircraft during the Vietnam War.  Retired 1974.
+{{Col-begin}}
+{{Col-break|width=50%}}
+* 7272d Air Base Group (USAFE)
+:: [[Wheelus AB]], Libya, 1957–1961
+* 1st Aerial Target Squadron (ADC)
+: Re-designated: 1st Tow Target Squadron
+:: [[Biggs Army Airfield#Biggs Air Force Base (1947-66)|Biggs AFB]], Texas, 1957–1960
+* 3d Tow Target Squadron (TAC)
+:: [[George AFB]], California, 1957–1960
+* 4756th Tow Target Squadron (ADC)
+:: [[Tyndall AFB]], Florida, 1957–1960
+{{Col-break|width=50%}}
+* 8d Bombardment Squadron, TT Flight (PACAF)
+: Re-designated: 6th Tow Target Squadron
+:: [[Johnson AB]], Japan, 1957–1960
+* 17th Tow Target Squadron (ADC)
+:: [[Yuma AFB]], Arizona. 1957–1959
+:: [[MacDill AFB]], Florida, 1959–1960
+{{col-end}}
+
+===Defense Systems Evaluation===
+Used by [[Air Defense Command]] as simulated target aircraft for interceptors and training of ground control intercept radar units.   Used re-purposed RB-57As, B-57Bs, B-57Cs, B-57E as they became available from their previous missions.   Used by active duty units until 1981; [[Air National Guard]] until 1983.
+
+{{Col-begin}}
+{{Col-break|width=50%}}
+* 4677th Defense System Evaluation Squadron, (RB-57B, EB-57E)
+: 4677th Defense System Evaluation Squadron, Detachment 1, Holloman AFB, New Mexico (RB-57D)
+: Re-designated: [[17th Defense Systems Evaluation Squadron]]
+:: [[Hill AFB]], Utah, 1959–1972
+:: [[Malmstrom AFB]], Montana, 1972–1979
+
+* 5040th Radar Evaluation Squadron (EB-57B) (AAC) (10th AD)
+: Re-designated: 5070th System Evaluation Squadron 
+:: [[Elmendorf AFB]], Alaska, 1957–1960
+
+* 5041st Tactical Operations Squadron (EB-57) (AAC) (21st CW)
+:: [[Elmendorf AFB]], Alaska, 1971–1977
+{{Col-break|width=50%}}
+* [[4758th Defense Systems Evaluation Squadron]] (EB-57E) 
+:: [[Biggs AFB]], Texas, 1958–1960
+:: [[Holloman AFB]], New Mexico, 1960–1968
+
+* [[4713th Defense Systems Evaluation Squadron]] (EB-57A/B/E)
+:: [[Stewart AFB]], New York, 1959–1969
+:: [[Otis AFB]], Massachusetts, 1969–1972
+:: [[Westover AFB]], Massachusetts, 1972–1974
+
+* [[6091st Reconnaissance Squadron]] (EB-57E)
+:: [[Yokota AB]], Japan
+: Re-designated: [[556th Reconnaissance Squadron]]
+:: Moved to [[Kadena AB]], Okinawa.
+{{col-end}}
+
+===Air National Guard===
+{{Col-begin}}
+{{Col-break|width=50%}}
+* 106th Tactical Reconnaissance Wing
+: [[149th Tactical Reconnaissance Squadron]] (RB-57A), 1 Aircraft
+: [[Virginia Air National Guard]]
+:: [[Richmond International Airport|Richmond ANGB]], VA, Apr–Jun 1958
+
+* [[110th Tactical Reconnaissance Group]]
+: [[172d Tactical Reconnaissance Squadron]] (RB-57A/C)
+: [[Michigan Air National Guard]]
+:: [[Battle Creek Air National Guard Base|Battle Creek ANGB]], MI, 1958–1971
+
+* [[123d Tactical Reconnaissance Group]]
+: [[162d Tactical Reconnaissance Squadron]] (RB-57B)
+: [[Kentucky Air National Guard]]
+:: [[Louisville Air National Guard Base|Louisville ANGB]], KY, 1958–1965
+
+* [[152d Tactical Reconnaissance Group]]
+: [[192d Tactical Reconnaissance Squadron]] (RB-57A/C)
+: [[Nevada Air National Guard]]
+:: [[Reno-Tahoe International Airport|Reno ANGB]], NV, 1961–1965
+
+{{Col-break|width=50%}}
+* [[158th Defense Systems Evaluation Group]]
+: [[134th Defense Systems Evaluation Squadron]] (EB-57B/C)
+: [[Vermont Air National Guard]]
+:: [[Burlington Air National Guard Base|Burlington ANGB]], VT
+:: Last USAF unit to operate B-57s, 1974-retired 1983.
+
+* [[189th Tactical Reconnaissance Group]]
+: [[154th Tactical Reconnaissance Squadron]] (RB-57A)
+: [[Arkansas Air National Guard]]
+:: [[Little Rock Air Force Base]], AR, 1958–1965
+
+* [[190th Tactical Reconnaissance Group]]
+:: Re-Designated: 190th Defense Systems Evaluation Group
+: [[117th Tactical Reconnaissance Squadron]] (RB-57A, B-57G)
+:: Re-Designated: 117th Defense Systems Evaluation Squadron, (EB-57B)
+: [[Kansas Air National Guard]]
+:: [[Naval Air Station Hutchinson]], KS, 1958
+:: [[Forbes Air Force Base]], KS, 1967–1976
+{{col-end}}
+
+===Operational Support===
+Used by Air Force Systems Command at [[Edwards AFB]], California and [[Eglin AFB]] Florida for functional test flights and modification testing.  Also for various special projects such as hurricane monitoring; Air Force Special Weapons Center; high altitude research; aircraft missile launch testing; missile guidance systems testing, FAA and NASA research projects.
+{{Col-begin}}
+{{Col-break|width=50%}}
+* 1001st Operations Group, [[Andrews AFB]], Maryland
+: Star Flight, 1958–1962
+* 4950th Test Wing, [[Wright-Patterson AFB]], Ohio
+* 6550th Operations Squadron, [[Patrick AFB]], Florida
+* Rome Air Development Center, [[Griffiss AFB]], New York
+* HQ, [[Air Defense Command]], [[Peterson AFB]], Colorado
+{{Col-break|width=50%}}
+* [[Air Force Flight Test Center]], [[Edwards AFB]], California
+* [[Air Armament Center]], [[Eglin AFB]], Florida
+* [[Federal Aviation Administration]]
+* [[United States Department of Commerce]] (Weather)
+* [[NASA]], [[Ellington Field]], Texas
+{{col-end}}
+
+==References==
+* Mikesh, Robert C. Martin B-57 Canberra: The Complete Record. Atglen, Pennsylvania: Schiffer Publishing Ltd., 1995. {{ISBN|0-88740-661-0}}.
+* Mueller, Robert. Air Force Bases Volume I: Active Air Force Bases Within the United States of America on 17 September 1982. Office of Air Force History, 1989.
+* Ravenstein, Charles A. Air Force Combat Wings Lineage and Honors Histories 1947–1977. Office of Air Force History, 1984.
+* [http://www.joebaugher.com/usaf_bombers/b57.html Baugher, Martin B-57]
+
+==External links==
+
+[[Category:United States military aircraft]]

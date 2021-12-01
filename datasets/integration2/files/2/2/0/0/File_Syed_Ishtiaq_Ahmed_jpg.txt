@@ -1,0 +1,13 @@
+== Summary ==
+{{Non-free use rationale
+ |Article           = Syed Ishtiaq Ahmed
+ |Description       = was a Bangladeshi lawyer and constitutionalist.
+ |Source            = http://en.banglapedia.org/index.php?title=Ahmed,_Syed_Ishtiaq
+ |Portion           = 
+ |Low_resolution    = yes
+ |Purpose           = use in infovox
+ |Replaceability    = 
+ |other_information = deceased person
+}}
+== Licensing ==
+{{Non-free historic image}}

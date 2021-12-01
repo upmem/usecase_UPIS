@@ -1,0 +1,36 @@
+{{Infobox NRHP
+  | name = Camp Mont Shenandoah Historic District
+  | nrhp_type = hd  | nocat = yes  
+  | image = Camp Mont Shenandoah entrance.jpg
+  | caption = Entrance from [[Virginia State Route 42|State Route 42]]
+  | location = 218 Mont Shenandoah Ln., near [[Millboro Springs, Virginia|Millboro Springs]], [[Virginia]]
+  | coordinates = {{coord|37|59|13|N|79|38|44|W|display=inline,title}}
+  | locmapin = Virginia#USA
+  | built = {{Start date|1927}}
+  | architect = 
+  | architecture =                 
+  | added = April 6, 2015
+  | area = {{convert|60|acre}}
+  | refnum = 15000136<ref name="nris">{{NRISref|version=2010a}}</ref>
+}}
+'''Camp Mont Shenandoah''' is an all-girls summer camp near [[Millboro Springs, Virginia]].  Located on {{convert|60|acre|ha}} in the Allegheny Mountains of western Virginia, it was established in 1927, and is one of the oldest continuously-operating summer camps in the state.  Its buildings and grounds are mainly in a rustic style befitting the environment.  In addition to residential cabins, it has a lodge and dining hall.  Activities supported include tennis, basketball, canoeing on the [[Cowpasture River]], and archery, as well as arts and crafts.<ref name=NRHP>{{cite web|url=http://www.dhr.virginia.gov/registers/Counties/Bath/008-5048_CampMontShenandoah_2014_NRHP_FINAL.pdf|title=NRHP nomination for Camp Mont Shenandoah Historic District|publisher=Virginia DHR|accessdate=2015-09-19}}</ref>  The camp was listed on the [[National Register of Historic Places]] in 2015.<ref name="nris"/>
+
+==See also==
+*[[National Register of Historic Places listings in Bath County, Virginia]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.campmontshenandoah.com/ Camp Mont Shenandoah web site]
+
+{{National Register of Historic Places in Virginia}}
+
+[[Category:Bath County, Virginia]]
+[[Category:Summer camps in Virginia|Mont Shenandoah]]
+[[Category:Park buildings and structures on the National Register of Historic Places in Virginia]]
+[[Category:Non-profit organizations based in Virginia]]
+[[Category:National Register of Historic Places in Bath County, Virginia]]
+[[Category:Historic districts on the National Register of Historic Places in Virginia]]
+[[Category:Temporary populated places on the National Register of Historic Places]]
+[[Category:1927 establishments in Virginia]]

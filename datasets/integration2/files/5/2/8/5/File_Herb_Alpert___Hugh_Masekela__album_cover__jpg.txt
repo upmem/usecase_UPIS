@@ -1,0 +1,28 @@
+== Summary ==
+{{album cover fur
+<!-- REQUIRED -->
+|Article=Herb Alpert / Hugh Masekela
+|Use=Infobox
+<!-- HIGHLY RECOMMENDED -->
+|Source=http://www.allmusic.com/album/herb-alpert-hugh-masekela-mw0000199410
+<!-- ADDITIONAL INFORMATION -->
+|Name= ''[[Herb Alpert / Hugh Masekela]]''
+|Artist= [[Herb Alpert]] and [[Hugh Masekela]]
+|Label= [[A&M Records]] and [[Horizon Records]]
+|Graphic Artist= 
+|Item= 
+|Type= album
+|Website= 
+|Owner= [[A&M Records]] and [[Horizon Records]]
+|Commentary= 
+<!-- OVERRIDE FIELDS -->
+|Description= 
+|Portion= full cover
+|Low_resolution= yes
+|Purpose=
+|Replaceability= 
+|other_information= 
+}}
+
+== Licensing ==
+{{Non-free album cover|image has rationale=yes|auto=yes}}

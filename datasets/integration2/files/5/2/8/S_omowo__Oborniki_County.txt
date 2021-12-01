@@ -1,0 +1,38 @@
+{{Other places3|Słomowo (disambiguation){{!}}Słomowo}}
+{{Infobox settlement
+| name = Słomowo
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Rogoźno|Rogoźno]]
+|pushpin_map=Poland
+|coordinates = {{coord|52|41|N|16|57|E|region:PL|display=inline}}
+| elevation_m =
+| population_total =
+| website = }}
+'''Słomowo''' {{IPAc-pl|s|ł|o|'|m|o|w|o}} is a [[village]] in the administrative district of [[Gmina Rogoźno]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) &ndash; TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|9|km|mi|0}} south-west of [[Rogoźno]], {{convert|10|km|mi|0|abbr=on}} east of [[Oborniki]], and {{convert|32|km|mi|0|abbr=on}} north of the regional capital [[Poznań]].
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Rogoźno}}
+
+{{coord|52.6833|N|16.9500|E|region:PL_type:city_source:enwiki-GNS-gminamatcher|display=title}}
+
+{{DEFAULTSORT:Slomowo, Oborniki County}}
+[[Category:Villages in Oborniki County]]
+
+
+{{Oborniki-geo-stub}}

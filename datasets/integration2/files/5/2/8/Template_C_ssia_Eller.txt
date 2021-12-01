@@ -1,0 +1,58 @@
+{{Navbox musical artist
+| name       = Cássia Eller
+| title      = [[Cássia Eller]]
+| listclass = hlist
+| background = solo_singer
+
+| group1     = Studio albums
+| list1      =
+* ''[[Cássia Eller (1990 album)|Cássia Eller]]''
+* ''[[O Marginal (album)|O Marginal]]''
+* ''[[Cássia Eller (1994 album)|Cássia Eller]]''
+* ''[[Veneno AntiMonotonia]]''
+* ''[[Com Você... Meu Mundo Ficaria Completo]]''
+* ''[[Dez de Dezembro]]''
+| group2     = Live albums and videos
+| list2      =
+* ''[[Cássia Eller ao Vivo]]''
+* ''[[Veneno Vivo]]''
+* ''[[Cássia Rock Eller]]''
+* ''[[Acústico MTV (Cássia Eller album)|Acústico MTV]]''
+| group3     = Compilations
+| list3      =
+* ''Millenium''
+* ''[[Participação Especial]]''
+* ''[[Perfil (Cássia Eller album)|Perfil]]''
+* ''I Love MPB''
+* ''A Arte de Cássia Eller''
+* ''Novo Millenium''
+* ''Raridades''
+| group4     = Extended plays 
+| list4      =
+* ''[[Veneno Vivo]]''
+* ''Cássia Eller ''
+| group5     = Singles
+| list5      =
+* "Por Enquanto"
+* "Malandragem"
+* "E.C.T."
+* "1º De Julho"
+* "Lanterna dos Afogados"
+* "Coroné Antonio Bento"
+* "Nós"
+* "Todo Amor que Houver nessa Vida"
+* "O Segundo Sol"
+* "Palavras ao Vento"
+* "Luz dos Olhos"
+* "Partido Alto"
+* "Quando A Maré Encher"
+* "Relicário"
+* "Vá Morar com O Diabo"
+* "Queremos Saber"
+* "No Recreio"
+* "All Star"
+* "Eu Sou Neguinha?"
+* "Smells Like Teen Spirit"
+}}<noinclude>
+[[Category:Brazilian musicians templates|Eller, Cássia]]
+</noinclude>

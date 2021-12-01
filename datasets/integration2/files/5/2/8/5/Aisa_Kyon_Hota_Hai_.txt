@@ -1,0 +1,103 @@
+{{Use dmy dates|date=February 2017}}
+{{Use Indian English|date=February 2017}}
+{{Infobox film
+| name           = Aisa Kyon Hota Hai?
+| image          = 
+| alt            = 
+| caption        = 
+| native_name      = <!-- {{Infobox name module|language|title}} or {{Infobox name module|title}} -->
+| director       = {{plainlist|
+* [[Ajay Kanchan]]
+* [[Mahesh Bhatt]]
+}}
+| producer       = {{plainlist|
+* Mahesh Bhatt
+* Dr. Dominic Emmanula
+}}
+| writer         = <!-- or: | writers = -->
+| screenplay     = 
+| story          = 
+| based_on       = <!-- {{based on|title of the original work|writer of the original work}} -->
+| starring       = {{plainlist|
+* [[Rati Agnihotri]]
+* [[Aryan Vaid]]
+* [[Gopi Bhalla]]
+* Mehul Bhojak
+* [[Avtar Gill]]
+* [[Johnny Lever]] 
+* [[Rachana Maurya]]
+}}
+| narrator       = <!-- or: | narrators = -->
+| music          = Tausif Akhtar
+| cinematography = Rajan Kinagi
+| editing        = Ashfaq Makrani
+| studio         = [[Vishesh Films]]
+| distributor    = <!-- or: | distributors = -->
+| released       = {{film date|df=yes|2006|2|6|India}}
+| runtime        = 
+| country        = India
+| language       = Hindi
+| budget         = 
+| gross          = <!--(please use condensed and rounded values, e.g. "£11.6 million" not "£11,586,221")-->
+}}
+
+'''''Aisa Kyun Hota Hai?''''' is a 2006 [[Bollywood]] film produced by [[Mahesh Bhatt]] for [[Vishesh Films]], directed by Ajay Kanchan as his directorial debut,<ref name="TOI">19 December 2010, Jyothi Prabhakar, [http://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/Real-stories-are-best-stories-Ajay-Kanchan/articleshow/7122385.cms "Real stories are best stories: Ajay Kanchan"], ''[[Times of India]]''</ref> and starring [[Rati Agnihotri]], [[Aryan Vaid]], [[Gopi Bhalla]], Mehul Bhojak, and [[Avtar Gill]].<ref name="Filmibeat">[http://www.filmibeat.com/bollywood/movies/aisa-kyon-hota-hai.html Filmibeat], 16 October 2016</ref>
+
+==Plot==
+Kiran ([[Rati Agnihotri]]) marries Vivek, and shortly after they wed, they separate and Vivek returns to the U.S. and refuses to talk to Kiran, who gives birth to a son she names Raj.  She learns that Vivek never loved her but married her to gain funds in his fathers will requiring that he marry to inherit. Kiran decides to not tell Raj about his father. In college years later, Raj has become a star basketball player, who hates men who leave their families, using as examples Bhagwan Shri Ram who had abandoned his pregnant wife, and Bhagwan Shri Buddh who had abandoned his family. Raj has numerous affairs with fellow-collegians, and ends up contracting HIV.
+
+==Cast==
+{{div col|colwidth=30em}}
+* [[Rati Agnihotri]] as Kiran
+* [[Aryan Vaid]] as Raj
+* [[Gopi Bhalla]]
+* Mehul Bhojak as Raunaq 'Ronny' Singh
+* [[Avtar Gill]] as Inspector Premraj Bhatt
+* [[Johnny Lever]] as Basketball Coach Banta Singh
+* [[Rachana Maurya]] as Aditi
+* Megha Chatterji		
+* Dr. Dominic Emmanuel as Principal of Dominic Savio College
+* Anisha Hinduja	
+* Mitra Joshi		
+* Akanksha Malhotra 
+* Shruti Malhotra as Tanvi Hyder Ali Khan 
+* Manish Mathur	
+{{div col end}}
+
+==Soundtrack==
+{| class="wikitable"
+! Song !! Singer(s)
+|-
+| Aisa Kyun Hota Hai
+| [[Shreya Ghoshal]]
+|-
+| Ishq Dhamaka
+| [[Kunal Ganjawala]], Sowmya Raoh 
+|-
+| If You Wanna Love Me
+| Tauseef Akhtar
+|-
+| Ishq Huwa Hai, Huwa Hai
+| Tauseef Akhtar
+|-
+| Oh Yara Dildara
+| Shreya Ghoshal, [[Sonu Nigam]]
+|-
+| Tere Bachpan Kee Mai Lori
+| [[Alka Yagnik]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{IMDb title|0465376}}
+
+[[Category:2000s Hindi-language films]]
+[[Category:2006 films]]
+[[Category:Indian films]]
+[[Category:2000s crime action films]]
+[[Category:Indian crime action films]]
+
+
+{{2000s-Hindi-film-stub}}

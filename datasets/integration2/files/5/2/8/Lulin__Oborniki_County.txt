@@ -1,0 +1,37 @@
+{{other places|Lulin}}
+{{Infobox settlement
+| name = Lulin
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline = Udekorowane drzwi domu weselnego - Lulin - 004161n.jpg
+| image_caption = House in Lulin, decorated for a wedding, dated 1980
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Oborniki|Oborniki]]
+| pushpin_map = Poland
+| coordinates = {{coord|52|35|N|16|43|E|region:PL|display=inline}}
+| elevation_m =
+| population_total =
+| website = }}
+'''Lulin''' {{IPAc-pl|'|l|u|l|i|n}} ({{lang-de|Lulenau}}) is a [[village]] in the administrative district of [[Gmina Oborniki]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|11|km|mi|0}} south-west of [[Oborniki]] and {{convert|25|km|mi|0|abbr=on}} north-west of the regional capital [[Poznań]].
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Oborniki}}
+
+{{coord|52.5833|N|16.7167|E|region:PL_type:city_source:enwiki-GNS-gminamatcher|display=title}}
+
+[[Category:Villages in Oborniki County|Lulin]]
+
+
+{{Oborniki-geo-stub}}

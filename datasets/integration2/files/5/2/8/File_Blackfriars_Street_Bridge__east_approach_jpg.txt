@@ -1,0 +1,19 @@
+{{Information
+| description = 
+
+author's image of subject of article, Blackfriars Street Bridge, showing road surface and east approach
+
+ 
+
+
+| source      = {{own}}
+| date        = 17 November 2007
+| author      = [[User:Alethe|Alethe]] ([[User talk:Alethe|talk]]) ([[Special:ListFiles/Alethe|Uploads]])
+}}
+{{GFDL-self|migration=relicense}}
+
+author's image of subject of article, Blackfriars Street Bridge, showing road surface and east approach
+
+ {{GFDL-self|migration=relicense}}
+
+{{Copy to Wikimedia Commons|bot=Fbot|priority=true}}

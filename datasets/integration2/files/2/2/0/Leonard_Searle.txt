@@ -1,0 +1,17 @@
+[[File:Leonard Searle.jpg|thumb|Leonard Searle]]
+'''Leonard Searle''' (October 23, 1930 – July 2, 2010) was an English-born American astronomer who worked on theories of the [[Big Bang]]. He was born in [[Mitcham]], a suburb of London, and studied at [[University of St Andrews|St Andrews]] in [[Scotland]] and [[Princeton University|Princeton]] in [[New Jersey]].<ref name="Maugh II">{{cite news|url=http://www.latimes.com/news/obituaries/la-me-leonard-searle-20100730,0,5675233.story|title=Leonard Searle dies at 79; astronomer's work provided key information on the Big Bang|last=Maugh II|first=Thomas H.|date=30 July 2010|work=[[Los Angeles Times]]|accessdate=1 August 2010}}</ref> After receiving his doctorate he started working at the [[University of Toronto]] in 1953, leaving in 1960 for the [[California Institute of Technology]]. In 1963 he moved to [[Australia]] for a post at the [[Mount Stromlo Observatory]], before settling finally at the [[Carnegie Institution for Science|Carnegie]] observatories in [[Pasadena, California|Pasadena]], [[California]], in 1968. In 1989 he became director of the Carnegie Observatories.<ref name=CIfS>{{cite web|url=http://obs.carnegiescience.edu/content/galaxy-formation-pioneer-dr-leonard-searle-dies|title=The Carnegie Observatories - Galaxy Formation Pioneer Dr Leonard Searle Dies|publisher=[[Carnegie Institution for Science]]|accessdate=1 August 2010|archive-url=https://web.archive.org/web/20160815072623/http://obs.carnegiescience.edu/content/galaxy-formation-pioneer-dr-leonard-searle-dies|archive-date=15 August 2016|url-status=dead}}</ref>
+
+Searle's work focused on the conditions of the Big Bang and the early universe, and on the formation of heavy elements in stars.<ref name="Maugh II"/> One of his main fields of study was the abundance of [[helium]] in the early universe. With [[Wallace L. W. Sargent|Wallace Sargent]] he developed a model to calculate the [[hydrogen]]-to-helium composition of [[Galaxy|galaxies]].<ref name=CIfS/> As director of the Carnegie Observatories, he was also central to the construction of the [[Las Campanas Observatory]] in [[Chile]], considered the best natural imaging telescopes in the world.<ref name="Maugh II"/> Searle married Eleanor Millard, whom he met at Princeton, in 1952. Eleanor Searle, a [[Middle Ages|medieval]] historian, died in 1999.<ref name=CIfS/>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Searle, Leonard}}
+[[Category:1930 births]]
+[[Category:2010 deaths]]
+[[Category:American astronomers]]
+[[Category:Alumni of the University of St Andrews]]
+[[Category:English emigrants to the United States]]
+[[Category:Princeton University alumni]]
+[[Category:University of Toronto faculty]]
+[[Category:California Institute of Technology faculty]]

@@ -1,0 +1,25 @@
+== Summary ==
+{{Non-free use rationale logo
+| Article           = Pearl River County, Mississippi
+| Use               = Org
+<!-- ADDITIONAL INFORMATION -->
+| Used for          = 
+| Owner             = 
+| Website           = 
+| History           = 
+| Commentary        =
+<!--OVERRIDE FIELDS -->
+| Description       = Seal of [[Pearl River County, Mississippi]]
+| Source            = source: http://www.pearlrivercounty.net/images/cseal.jpg
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = <!--Must be specified if Use is not Infobox / Org / Brand / Product-->
+| Replaceability    = 
+| other_information = 
+}}
+
+
+
+
+== Licensing ==
+{{Non-free logo|image has rationale=yes}}[[Category:Images of official seals]]

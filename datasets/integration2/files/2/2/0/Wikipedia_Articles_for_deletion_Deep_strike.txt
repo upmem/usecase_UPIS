@@ -1,0 +1,25 @@
+<div class="boilerplate metadata vfd" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.  ''
+<!--
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result of the debate was '''delete'''. [[User:Mailer diablo|Mailer Diablo]] 17:34, 3 April 2006 (UTC)
+
+===[[Deep strike]]===
+Contested Prod: "''Non-encyclopedic article: [[WP:NOT#Wikipedia is not an indiscriminate collection of information|Wikipedia is not a game guide]], and this article goes into far too much detail on a relatively minor point in the ''[[Warhammer 40,000]]'' game''". Prod removed, with the reasoning that with 100s of 40K articles in existence, very minor ones should stay. 
+
+I'm bringing this to Afd, because the article is about a single game rule available for use by no more than two units from each army [[Codex (Warhammer 40,000)|Codex]]. Of the hundreds of 40k articles on wikipedia, this is the only one I've found dealing with a special game rule; most of the articles deal with the organisations, characters, and events of the fictional universe the game is based around. In addition, Wikipedia IS NOT [[WP:NOT#Wikipedia is not an indiscriminate collection of information|an instruction manual]], for very very minor wargame rules or otherwise -- [[User:Saberwyn|Saberwyn]] 21:04, 28 March 2006 (UTC)
+* '''Comment''': Isn't this an important aspect of the game? There seems to be a lot of google hits for something so minor [http://www.google.com/search?hl=en&q=%22Deep+strike%22+warhammer&spell=1]. Maybe it should be merged with the game. -- [[User:JJay|JJay]] 21:09, 28 March 2006 (UTC)
+**This section of rules takes up less space in the rulebook than it does on Wikipedia (2 small paragraphs at most), is only available to a select number of units, and is is only legal in certain forms of gameplay. -- [[User:Saberwyn|Saberwyn]] 21:42, 28 March 2006 (UTC)
+* '''Delete''' per original prod.  These are game instructions.  --[[User:Lockley|Lockley]] 21:20, 28 March 2006 (UTC)
+* '''Delete''' per original prod (which for reference, I put on). This is not an important part of the Warhammer 40,000 universe. --[[User:Pak21|Pak21]] 22:23, 28 March 2006 (UTC)
+*'''Deep delete''' [[User:Savidan|savidan]]<sup>[[User_talk:Savidan|(talk)]] [[Wikipedia:Esperanza|<span style="color:#008000;">(e@)</span>]]</sup> 22:57, 28 March 2006 (UTC)
+*<small>'''Note''':  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Warhammer 40,000|list of Warhammer 40,000-related deletions]].  </small> <small>-- [[User:Pak21|Pak21]] 08:16, 29 March 2006 (UTC)</small>
+*'''Delete''', at best mention in [[Codex (Warhammer 40,000)]]. [[User:Proto|<span style="text-decoration:none"><span style="text-underline:none"><font color="#007700">Proto</font></span></span>]]<font color="#555555"><b>||</b></font><small>[[User_talk:Proto|<span style="text-decoration:none"><span style="text-underline:none"><font color="#007700">type</font></span></span>]]</small> 09:14, 29 March 2006 (UTC)
+**Thaot would not be the place to mention it. The best would be an uncreated (ad I'd advise against creating it) [[List of Warhammer 40,000 special rules]]. -- [[User:Saberwyn|Saberwyn]] 10:44, 29 March 2006 (UTC)
+***[[Wikipedia:Don't stuff beans up your nose]] [[User:Stifle|Stifle]] 11:46, 31 March 2006 (UTC)
+* '''Delete''' Per nom. We don't need articles on special rules - that is what the rule book is for [[User:Localzuk|Localzuk]] <sup>[[User_talk:Localzuk|(talk)]]</sup> 19:16, 30 March 2006 (UTC)
+*'''Slight merge''' to [[Warhammer 40K]] or '''delete'''. [[User:Stifle|Stifle]] 11:46, 31 March 2006 (UTC)
+
+
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page.</div>

@@ -1,0 +1,1680 @@
+{{short description|Fifth season of ISL}}
+{{Use dmy dates|date=February 2020}}
+{{Use Indian English|date=September 2018}}
+{{infobox football league season
+| competition        = [[Indian Super League]]
+| season             = 2018–19
+| winners            = [[Bengaluru FC|Bengaluru]]
+| continentalcup1    = [[AFC Cup]]
+| continentalcup1 qualifiers = [[Bengaluru FC|Bengaluru]]
+| continentalcup2    = 
+| continentalcup2 qualifiers = 
+| matches            = 95
+| total goals        = 254
+| league topscorer   = [[Ferran Corominas|Coro]]<br/>(16 goals)
+| best goalkeeper    = [[Gurpreet Singh Sandhu]]<br/>(96.32 minutes per goal)
+| biggest home win   = {{nobreak|[[FC Goa|Goa]] 5–0 [[Mumbai City FC|Mumbai City]]}}<br/>(24 October 2018)<br/>{{nobreak|[[Mumbai City FC|Mumbai City]] 6–1 [[Kerala Blasters FC|Kerala Blasters]]}}<br/>(16 December 2018)
+| biggest away win   = {{nobreak|[[FC Pune City|Pune City]] 0–3 [[Bengaluru FC|Bengaluru]]}}<br/>(22 October 2018)<br/>{{nobreak|[[Jamshedpur FC|Jamshedpur]] 1–4 [[FC Pune City|Pune City]]}}<br/>(16 February 2019)
+| highest scoring    = {{nobreak|[[Chennaiyin FC|Chennaiyin]] 3–4 [[NorthEast United FC|NorthEast United]]}}<br/>(18 October 2018)<br/>{{nobreak|[[Mumbai City FC|Mumbai City]] 6–1 [[Kerala Blasters FC|Kerala Blasters]]}}<br/>(16 December 2018)
+| longest wins       = [[Bengaluru FC|Bengaluru]] (6 games)
+| longest unbeaten   = [[Bengaluru FC|Bengaluru]] (11 games)
+| longest winless    = [[Kerala Blasters FC|Kerala Blasters]] (14 games)
+| longest losses     = [[Chennaiyin FC|Chennaiyin]] (5 games)
+| highest attendance = 41,202<br/>{{nobreak|[[ATK (football club)|ATK]] 0–2 [[Kerala Blasters FC|Kerala Blasters]]}}<br/>(29 September 2018)
+| lowest attendance  = 3,134<br/>{{nobreak|[[Delhi Dynamos FC|Delhi Dynamos]] 2–0 [[Kerala Blasters FC|Kerala Blasters]]}}<br/>(31 January 2019)
+| attendance         = 1,131,304
+| average attendance = 13,155
+| prevseason         = [[2017–18 Indian Super League season|2017–18]]
+| nextseason         = [[2019–20 Indian Super League season|2019–20]]
+| updated            = 
+| dates              = 29 September – 17 March
+}}
+The '''2018–19 Indian Super League season''' was the fifth season of the [[Indian Super League]], one of the top Indian professional [[Association football|football]] leagues. It was established in 2013. The regular season began on 29 September 2018 and concluded on 17 March 2019.<ref name="DNA">{{cite news |title=ISL 2018–19: Schedule, fixtures, date, time, venue, teams and squads of Indian Super League season 5 |url=https://www.dnaindia.com/sports/report-isl-2018-19-schedule-fixtures-date-time-venue-teams-and-squads-of-indian-super-league-season-5-2668940 |access-date=29 September 2018 |work=DNA India |date=29 September 2018 |archive-url=https://web.archive.org/web/20180929155515/https://www.dnaindia.com/sports/report-isl-2018-19-schedule-fixtures-date-time-venue-teams-and-squads-of-indian-super-league-season-5-2668940 |archive-date=29 September 2018 |url-status=live }}</ref> The league took a mid-season break for around one month from 17 December 2018 to early January 2019 due to [[India national football team|India]]'s participation in the [[2019 AFC Asian Cup]].<ref name="DNA"/> 
+
+[[Chennaiyin FC|Chennaiyin]] were the defending champions, having defeated [[Bengaluru FC|Bengaluru]] in the [[2018 Indian Super League Final|2018 final]], however they did not qualify for the playoffs having finished the last in the regular season. [[Bengaluru FC]] won their maiden title by defeating [[FC Goa]] 1–0 in the [[2019 Indian Super League Final|final]] which was held on 17 March 2019.<ref>{{Cite web|url=https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/isl-bengaluru-fc-beat-fc-goa-to-win-maiden-title/articleshow/68455045.cms|title=ISL: Bengaluru FC beat FC Goa to win maiden title|website=The Times of India|access-date=18 March 2019|archive-url=https://web.archive.org/web/20190317215956/https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/isl-bengaluru-fc-beat-fc-goa-to-win-maiden-title/articleshow/68455045.cms|archive-date=17 March 2019|url-status=live}}</ref><ref>{{Cite news|url=https://www.thehindu.com/sport/football/indian-super-league-final-bheke-makes-it-a-fantastic-day-for-bengaluru-fc/article26561798.ece|title=Indian Super League final: Bheke makes it a fantastic day for Bengaluru FC|last=Marar|first=Nandakumar|date=2019-03-17|work=The Hindu|access-date=18 March 2019|language=en-IN|issn=0971-751X|archive-url=https://web.archive.org/web/20190401223056/https://www.thehindu.com/sport/football/indian-super-league-final-bheke-makes-it-a-fantastic-day-for-bengaluru-fc/article26561798.ece|archive-date=1 April 2019|url-status=live}}</ref>
+
+==Teams==
+{{location map+ |India
+|float=right
+|width=350
+|alt=Locations of the Indian Super League teams
+|caption=Locations of the Indian Super League teams
+|places=
+{{location map~ |India |lat=22.56972 |long=88.36972 |label= <div style="font-size:100%;position:relative;top:4px;">{{nobreak|[[ATK (football club)|ATK]]}}</div>|position=bottom}}
+{{location map~ |India |lat=12.58 |long=77.34 |label= <div style="font-size:100%;position:relative;top:4px;">{{nobreak|[[Bengaluru FC|Bengaluru]]}}</div>|position=left}}
+{{location map~ |India |lat=13.08389 |long=80.27000 |label= <div style="font-size:100%;position:relative;top:4px;">{{nobreak|[[Chennaiyin FC|Chennaiyin]]}}</div>|position=right}}
+{{location map~ |India |lat=15.49300 |long=73.81800 |label= <div style="font-size:100%;">{{nobreak|[[FC Goa|Goa]]}}</div>|position=left}}
+{{location map~ |India |lat=22.47 |long=86.12 |label= <div style="font-size:100%;">{{nobreak|[[Jamshedpur FC|Jamshedpur]]}}</div>|position=left}}
+{{location map~ |India |lat=18.97500 |long=72.82583 |label= <div style="font-size:100%;">{{nobreak|[[Mumbai City FC|Mumbai City]]}}</div>|position=top}}
+{{location map~ |India |lat=18.47361 |long=73.79778 |label= <div style="font-size:100%;position:relative;top:4px;">{{nobreak|[[FC Pune City|Pune City]]}}</div>|position=right}}
+{{location map~ |India |lat=26.11|long=91.44|label= <div style="font-size:100%;">{{nobreak|[[NorthEast United FC|NorthEast United]]}}</div>|position=left}}
+{{location map~ |India |lat=28.3636|long=77.1348|label= <div style="font-size:100%;">{{nobreak|[[Delhi Dynamos FC|Delhi Dynamos]]}}</div>|position=right}}
+{{location map~ |India |lat=9.97|long=76.28|label= <div style="font-size:100%;">{{nobreak|[[Kerala Blasters FC|Kerala Blasters]]}}</div>|position=right}}
+}}
+
+===Stadiums and locations===
+{| class="wikitable sortable"
+|-
+! Team
+! City/State
+! Stadium
+! Capacity
+|-
+| [[ATK (football club)|ATK]]
+| [[Kolkata]], [[West Bengal]]
+| [[Salt Lake Stadium]]
+| style="text-align:center"| {{Nts|85,000}}<ref>{{cite web|title=Salt Lake Stadium|url=http://www.indiansuperleague.com/clubs/499-atk-profile/venue/|website=Indian Super League|access-date=22 March 2018|archive-url=https://web.archive.org/web/20190403231347/https://www.indiansuperleague.com/clubs/499-atk-profile/venue|archive-date=3 April 2019|url-status=live}}</ref>
+|-
+| [[Bengaluru FC|Bengaluru]]
+| [[Bengaluru]], [[Karnataka]]
+| [[Sree Kanteerava Stadium]]
+| style="text-align:center"| {{Nts|25,810}}<ref>{{cite web|title=Kanteerava Stadium|archive-url=https://web.archive.org/web/20180908202528/https://www.indiansuperleague.com/clubs/656-bengaluru-fc-profile/venue/|url=https://www.indiansuperleague.com/clubs/656-bengaluru-fc-profile/venue/|website=Indian Super League|archive-date=8 September 2018}}</ref>
+|-
+| [[Chennaiyin FC|Chennaiyin]]
+| [[Chennai]], [[Tamil Nadu]]
+| [[Jawaharlal Nehru Stadium (Chennai)|Jawaharlal Nehru Stadium]]
+| style="text-align:center"| {{Nts|20,765}}<ref>{{cite web|url=http://www.indiansuperleague.com/clubs/505-chennaiyin-fc-profile/venue/|title=Jawaharlal Nehru Stadium, Chennai|publisher=ISL|access-date=31 May 2017|archive-url=https://web.archive.org/web/20171114093419/http://www.indiansuperleague.com/clubs/505-chennaiyin-fc-profile/venue/|archive-date=14 November 2017|url-status=live}}</ref>
+|-
+| [[Delhi Dynamos FC|Delhi Dynamos]]
+| [[Delhi]]
+| [[Jawaharlal Nehru Stadium (Delhi)|Jawaharlal Nehru Stadium]]
+| style="text-align:center"| {{Nts|14,342}}<ref>{{cite web|url=http://www.indiansuperleague.com/delhi-dynamos-fc/venue|title=Jawaharlal Nehru Stadium, Delhi|publisher=ISL|access-date=31 May 2017|archive-url=https://web.archive.org/web/20160304214318/http://www.indiansuperleague.com/delhi-dynamos-fc/venue|archive-date=4 March 2016|url-status=dead}}</ref>
+|-
+| [[FC Goa|Goa]]
+| [[Margao]], [[Goa]]
+| [[Fatorda Stadium]]
+| style="text-align:center"| {{Nts|18,600}}<ref>{{cite web|url=http://www.indiansuperleague.com/fc-goa/venue|title=Fatorda Stadium|publisher=ISL|access-date=31 May 2017|archive-url=https://web.archive.org/web/20170529113410/http://www.indiansuperleague.com/fc-goa/venue|archive-date=29 May 2017|url-status=live}}</ref>
+|-
+| [[Jamshedpur FC|Jamshedpur]]
+| [[Jamshedpur]], [[Jharkhand]]
+| [[JRD Tata Sports Complex]]
+| style="text-align:center"| {{Nts|24,424}}<ref>{{cite web|url=http://www.indiansuperleague.com/clubs/1159-jamshedpur-fc-profile/venue|title=JRD Tata Sports Complex, Jamshedpur|publisher=ISL|access-date=12 November 2017|archive-url=https://web.archive.org/web/20171117193419/http://www.indiansuperleague.com/clubs/1159-jamshedpur-fc-profile/venue/|archive-date=17 November 2017|url-status=live}}</ref>
+|-
+| [[Kerala Blasters FC|Kerala Blasters]]
+| [[Kochi]], [[Kerala]]
+| [[EMS Stadium|Jawaharlal Nehru Stadium]]
+| style="text-align:center"| {{Nts|38,086}}<ref>{{cite web|url=http://www.indiansuperleague.com/clubs/498-kerala-blasters-fc-profile/venue|title=Jawaharlal Nehru Stadium, Kochi|publisher=ISL|access-date=12 November 2017|archive-url=https://web.archive.org/web/20171116033536/http://www.indiansuperleague.com/clubs/498-kerala-blasters-fc-profile/venue|archive-date=16 November 2017|url-status=live}}</ref>
+|-
+| [[Mumbai City FC|Mumbai City]]
+| [[Mumbai]], [[Maharashtra]]
+| [[Mumbai Football Arena]]
+|  style="text-align:center"| {{Nts|7,790}}<ref>{{cite web|title=Mumbai Football Arena|url=http://www.indiansuperleague.com/mumbai-city-fc/venue|website=Indian Super League|access-date=31 May 2017|archive-url=https://web.archive.org/web/20170602220202/http://www.indiansuperleague.com/mumbai-city-fc/venue|archive-date=2 June 2017|url-status=live}}</ref>
+|-
+| [[NorthEast United FC|NorthEast United]]
+| [[Guwahati]], [[Assam]]
+| [[Indira Gandhi Athletic Stadium]]
+| style="text-align:center"| {{Nts|23,627}}<ref>{{cite web|url=http://www.indiansuperleague.com/northeast-united-fc/venue|title=Indira Gandhi Athletic Stadium|publisher=ISL|access-date=31 May 2017|archive-url=https://web.archive.org/web/20170627062409/http://www.indiansuperleague.com/northeast-united-fc/venue|archive-date=27 June 2017|url-status=live}}</ref>
+|-
+| [[FC Pune City|Pune City]]
+| [[Pune]], [[Maharashtra]]
+| [[Balewadi Stadium]]
+| style="text-align:center"| {{Nts|10,237}}<ref>{{cite web|url=http://www.indiansuperleague.com/fc-pune-city/venue|title=Shree Shiv Chhatrapati Sports Complex|publisher=ISL|access-date=31 May 2017|archive-url=https://web.archive.org/web/20170613222109/http://www.indiansuperleague.com/fc-pune-city/venue|archive-date=13 June 2017|url-status=live}}</ref>
+|}
+
+===Personnel and sponsorship===
+{| class="wikitable sortable" style="text-align: left; font-size:100%"
+|-
+! Team
+! Head coach
+! Captain
+! Kit manufacturer
+! Shirt sponsor
+|-
+| [[ATK (football club)|ATK]]
+| {{flagicon|ENG}} [[Steve Coppell]]<ref>{{cite web|url=https://scroll.in/field/919713/atk-coach-steve-coppell-blasts-unprofessional-super-cup-after-pull-out-from-i-league-clubs|title=ATK coach Steve Coppell blasts 'unprofessional' Super Cup after pull out from I-League clubs|access-date=24 September 2019|archive-url=https://web.archive.org/web/20190521190018/https://scroll.in/field/919713/atk-coach-steve-coppell-blasts-unprofessional-super-cup-after-pull-out-from-i-league-clubs|archive-date=21 May 2019|url-status=live}}</ref>
+| {{flagicon|ESP}} [[Manuel Lanzarote]]
+| [[Nivia Sports|Nivia]]<ref name="ATK">{{cite web|title=ATK Nike and CESC|url=https://twitter.com/WorldATK/status/932501763663454208|website=ATK (Twitter)}}</ref>
+| [[CESC Limited]]<ref name="ATK"/>
+|-
+| [[Bengaluru FC|Bengaluru]]
+| {{flagicon|ESP}} [[Carles Cuadrat]]
+| {{flagicon|IND}} [[Sunil Chhetri]]
+| [[Puma (brand)|Puma]]<ref name="BFC">{{cite web|title=New Bengaluru FC Home Kit|url=https://twitter.com/bengalurufc/status/896025297065095168|website=Bengaluru FC (Twitter)}}</ref>
+| [[Kia Motors]]<ref>{{cite web|title=Kia Motors India pen four-year sponsorship deal with Bengaluru FC|url=https://www.business-standard.com/article/pti-stories/kia-motors-new-principal-sponsor-of-bengaluru-fc-118100500874_1.html|access-date=25 August 2019|archive-url=https://web.archive.org/web/20190825124840/https://www.business-standard.com/article/pti-stories/kia-motors-new-principal-sponsor-of-bengaluru-fc-118100500874_1.html|archive-date=25 August 2019|url-status=live}}</ref>
+|-
+| [[Chennaiyin FC|Chennaiyin]]
+| {{flagicon|ENG}} [[John Gregory (footballer)|John Gregory]]
+| {{flagicon|BRA}} [[Maílson Alves]]
+| [[Performax]]<ref>{{cite web|title=Chennaiyin FC announce Performax as new kit sponsor|url=https://twitter.com/ChennaiyinFC/status/914346735249625088|website=Chennaiyin FC (Twitter)}}</ref>
+| [[Apollo Tyres]]<ref>{{cite web|title=Chennaiyin FC announce Apollo Tyres as sponsor|url=https://twitter.com/ChennaiyinFC/status/931378909072916480|website=Chennaiyin FC (Twitter)}}</ref>
+|-
+| [[Delhi Dynamos FC|Delhi Dynamos]]
+|  {{flagicon|ESP}} [[Josep Gombau]]
+|  {{flagicon|ESP}} [[Marcos Tébar]]
+| [[TYKA Sports]]
+| [[Aspire Academy]]
+|-
+| [[FC Goa|Goa]]
+|  {{flagicon|ESP}} [[Sergio Lobera]]
+|  {{flagicon|IND}} [[Mandar Rao Dessai]]
+| Sqad Gear
+| [[Xiaomi]]<ref>{{cite web|url=https://www.sportskeeda.com/football/fc-goa-announces-xiaomi-india-as-its-title-sponsor|title=FC Goa announces Xiaomi India as its Title Sponsor|access-date=24 September 2019|archive-url=https://web.archive.org/web/20190924095614/https://www.sportskeeda.com/football/fc-goa-announces-xiaomi-india-as-its-title-sponsor|archive-date=24 September 2019|url-status=live}}</ref>
+|-
+| [[Jamshedpur FC|Jamshedpur]]
+| {{flagicon|ESP}} [[César Ferrando]]
+| {{flagicon|ESP}} [[Tiri (footballer)|Tiri]]
+| [[Nivia Sports|Nivia]]
+| [[Tata Steel]]
+|-
+| [[Kerala Blasters]]
+| {{flagicon|POR}} [[Nelo Vingada]]
+| {{flagicon|IND}} [[Sandesh Jhingan]]
+| Six5Six
+| [[Muthoot Pappachan Group|Muthoot Pappachan]]
+|-
+| [[Mumbai City FC|Mumbai City]]
+| {{flagicon|POR}} [[Jorge Costa]]
+| {{flagicon|Romania}} [[Lucian Goian]]
+| Sqad Gear
+| ACE Group
+|-
+| [[NorthEast United FC|NorthEast United]]
+|  {{flagicon|NED}} [[Eelco Schattorie]]
+|  {{flagicon|NGA}} [[Bartholomew Ogbeche]]
+| [[Performax]]
+| [[McDowell's No. 1]]
+|-
+| [[FC Pune City|Pune City]]
+| {{flagicon|ENG}} [[Phil Brown (footballer, born 1959)|Phil Brown]]
+| {{flagicon|ENG}} [[Matt Mills]]
+| Six5Six
+| [[Suzuki Gixxer]]
+|}
+
+{{clear}}
+
+===Head coaching changes===
+{| class="wikitable sortable"
+|-
+!Team
+!Outgoing coach
+!Manner of departure
+!Date of vacancy
+!Position in table
+!Incoming coach
+!Date of appointment
+|-
+| [[FC Pune City|Pune City]]
+|{{flagicon|SRB}} [[Ranko Popović]]
+| Contract finished
+| 31 May 2018<ref>{{cite news |title=Ranko Popovic quits as coach of FC Pune City |url=https://indianexpress.com/article/sports/football/ranko-popovic-quits-as-coach-of-fc-pune-city-5197084/ |access-date=29 September 2018 |work=Indian Express |date=30 May 2018 |archive-url=https://web.archive.org/web/20180929155732/https://indianexpress.com/article/sports/football/ranko-popovic-quits-as-coach-of-fc-pune-city-5197084/ |archive-date=29 September 2018 |url-status=live }}</ref>
+| rowspan="8" align="center" | ''Pre-season''
+|{{flagicon|BRA}} [[Marcos Paquetá]]
+| 1 June 2018<ref>{{cite news |title=ISL side FC Pune City name Brazilian coach Marcos Paqueta as Ranko Popovic's replacement |url=https://www.firstpost.com/sports/isl-side-fc-pune-city-name-brazilian-coach-marcos-paqueta-as-ranko-popovics-replacement-4491663.html |access-date=29 September 2018 |work=FirstPost |date=1 June 2018 |archive-url=https://web.archive.org/web/20180929155936/https://www.firstpost.com/sports/isl-side-fc-pune-city-name-brazilian-coach-marcos-paqueta-as-ranko-popovics-replacement-4491663.html |archive-date=29 September 2018 |url-status=live }}</ref>
+|-
+| [[Bengaluru FC|Bengaluru]]
+|{{flagicon|ESP}} [[Albert Roca]]
+| Contract finished
+| 31 May 2018<ref>{{cite news |last1=Menon |first1=Sandeep |title=Coach Albert Roca to leave Bengaluru FC |url=https://timesofindia.indiatimes.com/sports/football/top-stories/coach-albert-roca-to-leave-bengaluru-fc/articleshow/64209813.cms |access-date=29 September 2018 |work=The Times of India |date=17 May 2018 |archive-url=https://web.archive.org/web/20181214132348/https://timesofindia.indiatimes.com/sports/football/top-stories/coach-albert-roca-to-leave-bengaluru-fc/articleshow/64209813.cms |archive-date=14 December 2018 |url-status=live }}</ref>
+|{{flagicon|ESP}} [[Carles Cuadrat]]
+| 14 June 2018<ref>{{cite news |last1=Cyriac |first1=Biju Babu |title=Carles Cuadrat named Bengaluru FC head coach |url=https://timesofindia.indiatimes.com/sports/football/top-stories/carles-cuadrat-named-bengaluru-fc-head-coach/articleshow/64588402.cms |access-date=29 September 2018 |work=The Times of India |date=14 June 2018 |archive-url=https://web.archive.org/web/20181214131857/https://timesofindia.indiatimes.com/sports/football/top-stories/carles-cuadrat-named-bengaluru-fc-head-coach/articleshow/64588402.cms |archive-date=14 December 2018 |url-status=live }}</ref>
+|-
+| [[ATK (football club)|ATK]]
+|{{flagicon|IRL}} [[Robbie Keane]]
+| Contract finished
+| 31 May 2018<ref>{{cite news |title=Robbie Keane is set to make a decision on his future in football |url=https://extra.ie/2018/04/16/sport/soccernews/robbie-keane-is-set-to-make-a-decision-on-his-future-in-football |access-date=29 September 2018 |work=Extra |date=16 April 2018 |archive-url=https://web.archive.org/web/20180929163216/https://extra.ie/2018/04/16/sport/soccernews/robbie-keane-is-set-to-make-a-decision-on-his-future-in-football |archive-date=29 September 2018 |url-status=live }}</ref>
+|{{flagicon|ENG}} [[Steve Coppell]]
+| 18 June 2018<ref name="Coppell ATK">{{cite news |last1=Bhattacharya |first1=Nilesh |title=ATK appoint Steve Coppell as new coach |url=https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/atk-appoint-steve-coppell-as-new-coach/articleshow/64634765.cms |access-date=29 September 2018 |work=The Times of India |date=18 June 2018 |archive-url=https://web.archive.org/web/20181228002946/https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/atk-appoint-steve-coppell-as-new-coach/articleshow/64634765.cms |archive-date=28 December 2018 |url-status=live }}</ref>
+|-
+| [[Jamshedpur FC|Jamshedpur]]
+|{{flagicon|ENG}} [[Steve Coppell]]
+| Contract finished
+| 31 May 2018<ref name="Coppell ATK"/>
+|{{flagicon|ESP}} [[César Ferrando]]
+| 21 July 2018<ref>{{cite news |title=Jamshedpur FC appoint ex Atletico Madrid manager Cesar Ferrando Jimenez as head coach |url=https://scroll.in/field/887457/isl-jamshedpur-fc-appoint-ex-atletico-madrid-manager-cesar-ferrando-jimenez-as-head-coach |access-date=29 September 2018 |work=Scroll.in |date=21 July 2018 |archive-url=https://web.archive.org/web/20180722131809/https://scroll.in/field/887457/isl-jamshedpur-fc-appoint-ex-atletico-madrid-manager-cesar-ferrando-jimenez-as-head-coach |archive-date=22 July 2018 |url-status=live }}</ref>
+|-
+| [[Delhi Dynamos FC|Delhi Dynamos]]
+|{{flagicon|ESP}} [[Miguel Ángel Portugal]]
+| Mutual consent
+| 2 May 2018<ref>{{cite news |title=Miguel Angel Portugal leaves Delhi Dynamos by mutual consent, to become Granada manager |url=https://scroll.in/field/877644/miguel-angel-portugal-leaves-delhi-dynamos-by-mutual-consent-to-become-granada-manager |access-date=29 September 2018 |work=Scroll.in |date=2 May 2018 |archive-url=https://web.archive.org/web/20190129132945/https://scroll.in/field/877644/miguel-angel-portugal-leaves-delhi-dynamos-by-mutual-consent-to-become-granada-manager |archive-date=29 January 2019 |url-status=live }}</ref>
+|{{flagicon|ESP}} [[Josep Gombau]]
+| 2 August 2018<ref>{{cite news |title=Delhi Dynamos appoint former Barcelona B manager Josep Gombau as head coach for a two-year term |url=https://www.firstpost.com/sports/delhi-dynamos-appoint-former-barcelona-b-manager-josep-gombau-as-head-coach-for-a-two-year-term-4879291.html |access-date=29 September 2018 |work=FirstPost |date=2 August 2018 |archive-url=https://web.archive.org/web/20180929162829/https://www.firstpost.com/sports/delhi-dynamos-appoint-former-barcelona-b-manager-josep-gombau-as-head-coach-for-a-two-year-term-4879291.html |archive-date=29 September 2018 |url-status=live }}</ref>
+|-
+| [[FC Pune City|Pune City]]
+|{{flagicon|BRA}} [[Marcos Paquetá]]
+| Contract terminated
+| 29 June 2018<ref>{{cite news |title=Marcos Paqueta terminates contract with Pune City to join Botafogo |url=http://www.goal.com/en-in/news/isl-201819-marcos-paqueta-pune-city-botafogo/r08vb00cnuxs1409jd0g39cat |access-date=29 September 2018 |work=Goal.com |date=29 June 2018 |archive-url=https://web.archive.org/web/20180810180559/http://www.goal.com/en-in/news/isl-201819-marcos-paqueta-pune-city-botafogo/r08vb00cnuxs1409jd0g39cat |archive-date=10 August 2018 |url-status=live }}</ref>
+|{{flagicon|ESP}} [[Miguel Ángel Portugal]]
+| 9 August 2018<ref>{{cite news |title=FC Pune City sign former Delhi Dynamos boss Miguel Angel Portugal |url=http://www.goal.com/en/news/isl-201819-former-delhi-dynamos-boss-miguel-ang/p398sxt2f6bj1f502ouv8kpq9 |access-date=29 September 2018 |work=Goal.com |date=9 August 2018 |archive-url=https://web.archive.org/web/20180929155516/http://www.goal.com/en/news/isl-201819-former-delhi-dynamos-boss-miguel-ang/p398sxt2f6bj1f502ouv8kpq9 |archive-date=29 September 2018 |url-status=live }}</ref>
+|-
+| [[Mumbai City FC|Mumbai City]]
+|{{flagicon|CRC}} [[Alexandre Guimarães]]
+| Mutual consent
+| 14 August 2018<ref>{{cite web |title=Guimaraes departs |url=https://twitter.com/MumbaiCityFC/status/1029226881298518016/photo/1?_e_pi_=7%2CPAGE_ID10%2C9196769652 |website=Mumbai City FC (Twitter)}}</ref>
+|{{flagicon|POR}} [[Jorge Costa]]
+| 14 August 2018<ref>{{cite news |title=Jorge Costa appointed as Mumbai City FC head coach |url=https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/jorge-costa-appointed-as-mumbai-city-fc-head-coach/articleshow/65404124.cms |access-date=29 September 2018 |work=The Times of India |date=14 August 2018 |archive-url=https://web.archive.org/web/20181101052322/https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/jorge-costa-appointed-as-mumbai-city-fc-head-coach/articleshow/65404124.cms |archive-date=1 November 2018 |url-status=live }}</ref>
+|-
+| [[NorthEast United FC|NorthEast United]]
+|{{flagicon|ISR}} [[Avram Grant]]
+| Contract finished
+| 31 May 2018
+|{{flagicon|NED}} [[Eelco Schattorie]]
+| 18 August 2018<ref>{{cite news |title=Eelco Schattorie named NorthEast United FC Head Coach for ISL-5! |url=http://www.arunfoot.com/eelco-schattorie-named-northeast-united-fc-head-coach-for-isl-5/ |access-date=29 September 2018 |work=Arunfoot |date=18 August 2018 |archive-url=https://web.archive.org/web/20180929160024/http://www.arunfoot.com/eelco-schattorie-named-northeast-united-fc-head-coach-for-isl-5/ |archive-date=29 September 2018 |url-status=live }}</ref>
+|-
+| [[FC Pune City|Pune City]]
+|{{flagicon|ESP}} [[Miguel Ángel Portugal]]
+| Sacked
+| 26 October 2018<ref name="Portugal Sacked">{{cite news |title=FC PUNE CITY RELIEVE HEAD COACH MIGUEL ANGEL PORTUGAL FROM HIS DUTIES |url=http://www.fcpunecity.com/fc-pune-city-relieve-head-coach-miguel-angel-portugal-from-his-duties/ |access-date=26 October 2018 |work=FC Pune City |date=26 October 2018 }}{{Dead link|date=June 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|align=center|10th
+|{{flagicon|IND}} [[Pradyum Reddy]] (Interim)
+| 26 October 2018<ref name="Portugal Sacked"/>
+|-
+|[[Kerala Blasters]]
+|{{flagicon|ENG}} [[David James (footballer, born 1970)|David James]]
+|Sacked
+|18 December 2018
+|align=center|8th
+|{{flagicon|POR}} [[Nelo Vingada]]
+| 18 January 2019
+|-
+| [[FC Pune City|Pune City]]
+|{{flagicon|IND}} [[Pradyum Reddy]] (Interim)
+| Mutual consent
+| 24 December 2018
+|align=center|7th
+|{{flagicon|ENG}} [[Phil Brown (footballer, born 1959)|Phil Brown]]
+| 24 December 2018
+|}
+
+===Roster changes===
+{{Main|List of 2018–19 Indian Super League season roster changes}}
+
+==Foreign Players==
+{{More information|List of foreign Indian Super League players}}
+<!--- ONLY ADD PLAYERS WHOSE SIGNINGS HAVE BEEN CONFIRMED OR CONFIRMED TO HAVE EXTENDED CONTRACTS -->
+The number of foreign players allowed in the squad will be reduced from eight to seven from 2018 to 2019 season, however the maximum number of foreign players allowed on the pitch will remain same at five.<ref>{{cite web|url=https://timesofindia.indiatimes.com/city/goa/isl-foreign-player-quota-reduced-to-7/articleshow/63454321.cms|title=ISL: Foreign player quota reduced to 7|date=25 March 2018|access-date=3 January 2019|archive-url=https://web.archive.org/web/20190507213455/https://timesofindia.indiatimes.com/city/goa/isl-foreign-player-quota-reduced-to-7/articleshow/63454321.cms|archive-date=7 May 2019|url-status=live}}</ref>
+
+{| class="wikitable" style="font-size:90%;"
+|-
+!Club
+!Foreigner 1
+!Foreigner 2
+!Foreigner 3
+!Foreigner 4
+!Foreigner 5
+!Foreigner 6
+!Foreigner 7
+|-
+| [[ATK (football club)|ATK]]
+| {{flagicon|BRA}} [[Éverton Santos]]
+| {{flagicon|BRA}} [[Gerson Vieira]]
+| {{flagicon|CMR}} [[Andre Bikey]]
+| {{flagicon|ENG}} [[John Johnson (footballer)|John Johnson]]
+| {{flagicon|NGA}} [[Kalu Uche]]
+| {{flagicon|ESP}} [[Edu García]]
+| {{flagicon|ESP}} [[Manuel Lanzarote]]
+|-
+| [[Bengaluru FC|Bengaluru]]
+| {{flagicon|ESP}} [[Álex Barrera]]
+| {{flagicon|ESP}} [[Dimas Delgado]]
+| {{flagicon|ESP}} [[Xisco Hernández]]
+| {{flagicon|ESP}} [[Juanan]]
+| {{flagicon|ESP}} [[Luisma (footballer, born 1989)|Luisma]]
+| {{flagicon|ESP}} [[Albert Serrán]]
+| {{flagicon|VEN}} [[Miku (footballer)|Miku]]
+|-
+| [[Chennaiyin FC|Chennaiyin]]
+| {{flagicon|AUS}} [[Chris Herd]]
+| {{flagicon|BRA}} [[Maílson Alves]]
+| {{flagicon|BRA}} [[Raphael Augusto]]
+| {{flagicon|BRA}} [[Eli Sabiá]]
+| {{flagicon|NED}} [[Gregory Nelson]]
+|  
+|
+|-
+| [[Delhi Dynamos FC|Delhi Dynamos]]
+| {{flagicon|MEX}} [[Ulises Dávila]]
+| {{flagicon|NED}} [[Gianni Zuiverloon]]
+| {{flagicon|SVN}} [[Rene Mihelič]]
+| {{flagicon|ESP}} [[Adrià Carmona]]
+| {{flagicon|ESP}} [[Martí Crespí]]
+| {{flagicon|ESP}} [[Francisco Dorronsoro]]
+| {{flagicon|ESP}} [[Marcos Tébar]]
+|-
+| [[FC Goa|Goa]]
+| {{flagicon|FRA}} [[Hugo Boumous]]
+| {{flagicon|MAR}} [[Ahmed Jahouh]]
+| {{flagicon|MAR}} [[Zaid Krouch]]
+| {{flagicon|SEN}} [[Mourtada Fall]]
+| {{flagicon|ESP}} [[Edu Bedia]]
+| {{flagicon|ESP}} [[Ferran Corominas|Coro]]
+| {{flagicon|ESP}} [[Carlos Peña (Spanish footballer)|Carlos Peña]]
+|-
+| [[Jamshedpur FC|Jamshedpur]]
+| {{flagicon|AUS}} [[Tim Cahill]]
+| {{flagicon|BRA}} [[Memo (footballer)|Memo]]
+| {{flagicon|ESP}} [[Mario Arqués]]
+| {{flagicon|ESP}} [[Carlos Calvo (footballer, born 1985)|Carlos Calvo]]
+| {{flagicon|ESP}} [[Sergio Cidoncha]]
+| {{flagicon|ESP}} [[Pablo Morgado]]
+| {{flagicon|ESP}} [[Tiri (footballer)|Tiri]]
+|-
+| [[Kerala Blasters FC|Kerala Blasters]]
+| {{flagicon|FRA}} [[Cyril Kali]]
+| {{flagicon|GHA}} [[Courage Pekuson]]
+| {{flagicon|SRB}} [[Nikola Krčmarević]]
+| {{flagicon|SRB}} [[Nemanja Lakić-Pešić]]
+| {{flagicon|SRB}} [[Slaviša Stojanović (footballer, born 1989)|Slaviša Stojanović]]
+| {{flagicon|SVN}} [[Matej Poplatnik]]
+| {{flagicon|UGA}} [[Kizito Keziron]]
+|-
+| [[Mumbai City FC|Mumbai City]]
+| {{flagicon|BRA}} [[Rafael Bastos]]
+| {{flagicon|DRC}} [[Arnold Issoko]]
+| {{flagicon|POR}} [[Paulo Machado]]
+| {{flagicon|ROU}} [[Lucian Goian]]
+| {{flagicon|SEN}} [[Modou Sougou]]
+| {{flagicon|SRB}} [[Marko Klisura]]
+| {{flagicon|URU}} [[Matías Mirabaje]]
+|-
+| [[NorthEast United FC|NorthEast United]]
+| {{flagicon|COL}} [[José David Leudo]]
+| {{flagicon|COL}} [[Janeiler Rivas Palacios]]
+| {{flagicon|CRO}} [[Mato Grgić]]
+| {{flagicon|GRE}} [[Panagiotis Triadis]]
+| {{flagicon|NGA}} [[Bartholomew Ogbeche]]
+| {{flagicon|URU}} [[Federico Gallego]]
+| {{flagicon|URU}} [[Juan Cruz Mascia]]
+|-
+| [[FC Pune City|Pune City]]
+| {{flagicon|AUT}} [[Marko Stanković]]
+| {{flagicon|BRA}} [[Diego Carlos]]
+| {{flagicon|BRA}} [[Marcelinho (footballer, born 1987)|Marcelinho]]
+| {{flagicon|CAN}} [[Iain Hume]]
+| {{flagicon|ENG}} [[Matt Mills]]
+| {{flagicon|ESP}} [[Jonathan Vila]]
+| {{flagicon|URU}} [[Martín Díaz]]
+|}
+
+==Regular season==
+===League table===
+<onlyinclude><!--To include this table in a page, use
+{{:2018–19 Indian Super League season|transcludesection=Regular season}}
+-->{{#invoke:Sports table|main|style=WDL
+|section=Regular season
+|source=[https://www.indiansuperleague.com/standings Indian Super League]
+
+<!--Update team positions here-->
+|team1=BFC |team2=FCG |team3=MCFC |team4=NEU |team5=JFC |team6=ATK |team7=FCPC |team8=DDFC |team9=KBFC |team10=CFC
+
+<!--Update team results here and then (if needed) positions above-->
+|update=complete
+|win_ATK=6  |draw_ATK=6  |loss_ATK=6  |gf_ATK=18  |ga_ATK=22  |status_ATK=  <!-- ATK -->
+|win_BFC=10 |draw_BFC=4  |loss_BFC=4  |gf_BFC=29  |ga_BFC=22  |status_BFC=C <!-- Bengaluru -->
+|win_CFC=2  |draw_CFC=3  |loss_CFC=13 |gf_CFC=16  |ga_CFC=32  |status_CFC=  <!-- Chennaiyin -->
+|win_DDFC=4 |draw_DDFC=6 |loss_DDFC=8 |gf_DDFC=23 |ga_DDFC=27 |status_DDFC= <!-- Delhi Dynamos -->
+|win_FCG=10 |draw_FCG=4  |loss_FCG=4  |gf_FCG=36  |ga_FCG=20  |status_FCG=  <!-- Goa -->
+|win_JFC=6  |draw_JFC=9  |loss_JFC=3  |gf_JFC=29  |ga_JFC=21  |status_JFC=  <!-- Jamshedpur -->
+|win_KBFC=2 |draw_KBFC=9 |loss_KBFC=7 |gf_KBFC=18 |ga_KBFC=28 |status_KBFC= <!-- Kerala Blasters -->
+|win_MCFC=9 |draw_MCFC=3 |loss_MCFC=6 |gf_MCFC=25 |ga_MCFC=20 |status_MCFC= <!-- Mumbai City -->
+|win_NEU=7  |draw_NEU=8  |loss_NEU=3  |gf_NEU=22  |ga_NEU=18  |status_NEU=  <!-- NorthEast United -->
+|win_FCPC=6 |draw_FCPC=4 |loss_FCPC=8 |gf_FCPC=24 |ga_FCPC=30 |status_FCPC= <!-- Pune City -->
+
+<!--Head-to-head-->
+|hth_BFC=Head-to-head standings: Bengaluru 6 pts, Goa 0 pts. |hth_FCG=BFC
+
+<!--Update team qualifications here (defined below)-->
+|result1=FIN |result2=FIN |result3=FIN |result4=FIN
+
+<!--Team definitions (wikilinks in table)-->
+|name_ATK=[[ATK (football club)|ATK]]
+|name_BFC=[[Bengaluru FC|Bengaluru]]
+|name_CFC=[[Chennaiyin FC|Chennaiyin]]
+|name_DDFC=[[Delhi Dynamos FC|Delhi Dynamos]]
+|name_FCG=[[FC Goa|Goa]]
+|name_JFC=[[Jamshedpur FC|Jamshedpur]]
+|name_KBFC=[[Kerala Blasters FC|Kerala Blasters]]
+|name_MCFC=[[Mumbai City FC|Mumbai City]]
+|name_NEU=[[NorthEast United FC|NorthEast United]]
+|name_FCPC=[[FC Pune City|Pune City]]
+
+<!--Table settings and rules-->
+|show_limit=5
+|class_rules=1) points; 2) head-to-head points; 3) head-to-head goal difference; 4) head-to-head goals scored; 5) goal difference; 5) number of goals scored; 6) fair play ranking; 6) drawing of lots
+
+<!--Qualification and relegation column definitions-->
+|res_col_header=Q
+|col_FIN=green1 |text_FIN=Advance to [[2018–19 Indian Super League playoffs|Indian Super League Playoffs]]
+}}</onlyinclude>
+
+===Results===
+{{#invoke:sports results|main
+|source = [http://www.indiansuperleague.com/schedule-fixtures Indian Super League]
+|update = complete
+|a_note =
+|matches_style = FBR
+
+|team1=KOL
+|team2=BEN
+|team3=CHE
+|team4=DEL
+|team5=GOA
+|team6=JAM
+|team7=KER
+|team8=MUM
+|team9=NEU
+|team10=PUN
+
+<!--Team definitions (wikilinks in table)-->
+|name_KOL=[[ATK (football club)|ATK]]
+|name_BEN=[[Bengaluru FC|Bengaluru]]
+|name_CHE=[[Chennaiyin FC|Chennai]]
+|name_DEL=[[Delhi Dynamos FC|Delhi]]
+|name_GOA=[[FC Goa|Goa]]
+|name_JAM=[[Jamshedpur FC|Jamshedpur]]
+|name_KER=[[Kerala Blasters FC|Kerala Blasters]]
+|name_MUM=[[Mumbai City FC|Mumbai City]]
+|name_NEU={{nowrap|[[NorthEast United FC|NorthEast United]]}}
+|name_PUN=[[FC Pune City|Pune City]]
+
+<!-- ATK -->
+
+<!-- ATK -->              |match_KOL_KOL=
+<!-- Bengaluru FC -->     |match_KOL_BEN=1–2
+<!-- Chennaiyin -->       |match_KOL_CHE=2–1
+<!-- Delhi Dynamos -->    |match_KOL_DEL=2–1
+<!-- FC Goa -->           |match_KOL_GOA=0–0
+<!-- Jamshedpur -->       |match_KOL_JAM=2–1
+<!-- Kerala Blasters -->  |match_KOL_KER=0–2
+<!-- Mumbai City -->      |match_KOL_MUM=1–3
+<!-- NorthEast United --> |match_KOL_NEU=0–1
+<!-- FC Pune City -->     |match_KOL_PUN=1–0
+
+<!-- Bengaluru FC -->
+
+<!-- ATK -->              |match_BEN_KOL=1–0
+<!-- Bengaluru FC -->     |match_BEN_BEN=
+<!-- Chennaiyin -->       |match_BEN_CHE=1–0
+<!-- Delhi Dynamos -->    |match_BEN_DEL=1–0
+<!-- FC Goa -->           |match_BEN_GOA=3–0
+<!-- Jamshedpur -->       |match_BEN_JAM=2–2
+<!-- Kerala Blasters -->  |match_BEN_KER=2–2
+<!-- Mumbai City -->      |match_BEN_MUM=1–1
+<!-- NorthEast United --> |match_BEN_NEU=2–1
+<!-- FC Pune City -->     |match_BEN_PUN=2–1
+
+<!-- Chennaiyin -->
+
+<!-- ATK -->              |match_CHE_KOL=2–3
+<!-- Bengaluru FC -->     |match_CHE_BEN=2–1
+<!-- Chennaiyin -->       |match_CHE_CHE=
+<!-- Delhi Dynamos -->    |match_CHE_DEL=1–3
+<!-- FC Goa -->           |match_CHE_GOA=1–3
+<!-- Jamshedpur -->       |match_CHE_JAM=0–0
+<!-- Kerala Blasters -->  |match_CHE_KER=0–0
+<!-- Mumbai City -->      |match_CHE_MUM=0–1
+<!-- NorthEast United --> |match_CHE_NEU=3–4
+<!-- FC Pune City -->     |match_CHE_PUN=1–2
+
+<!-- Delhi Dynamos -->
+
+<!-- ATK -->              |match_DEL_KOL=1–2
+<!-- Bengaluru FC -->     |match_DEL_BEN=3–2
+<!-- Chennaiyin -->       |match_DEL_CHE=0–0
+<!-- Delhi Dynamos -->    |match_DEL_DEL=
+<!-- FC Goa -->           |match_DEL_GOA=0–0
+<!-- Jamshedpur -->       |match_DEL_JAM=2–2
+<!-- Kerala Blasters -->  |match_DEL_KER=2–0
+<!-- Mumbai City -->      |match_DEL_MUM=2–4
+<!-- NorthEast United --> |match_DEL_NEU=0–2
+<!-- FC Pune City -->     |match_DEL_PUN=1–1
+
+<!-- Goa -->
+
+<!-- ATK -->              |match_GOA_KOL=3–0
+<!-- Bengaluru FC -->     |match_GOA_BEN=1–2
+<!-- Chennaiyin -->       |match_GOA_CHE=1–0
+<!-- Delhi Dynamos -->    |match_GOA_DEL=3–2
+<!-- FC Goa -->           |match_GOA_GOA=
+<!-- Jamshedpur -->       |match_GOA_JAM=0–0
+<!-- Kerala Blasters -->  |match_GOA_KER=3–0
+<!-- Mumbai City -->      |match_GOA_MUM=5–0
+<!-- NorthEast United --> |match_GOA_NEU=5–1
+<!-- FC Pune City -->     |match_GOA_PUN=4–2
+
+<!-- Jamshedpur -->
+
+<!-- ATK -->              |match_JAM_KOL=1–1
+<!-- Bengaluru FC -->     |match_JAM_BEN=5–1
+<!-- Chennaiyin -->       |match_JAM_CHE=3–1
+<!-- Delhi Dynamos -->    |match_JAM_DEL=2–1
+<!-- FC Goa -->           |match_JAM_GOA=4–1
+<!-- Jamshedpur -->       |match_JAM_JAM=
+<!-- Kerala Blasters -->  |match_JAM_KER=2–2
+<!-- Mumbai City -->      |match_JAM_MUM=1–0
+<!-- NorthEast United --> |match_JAM_NEU=0–0
+<!-- FC Pune City -->     |match_JAM_PUN=1–4
+
+<!-- Kerala Blasters -->
+
+<!-- ATK -->              |match_KER_KOL=1–1
+<!-- Bengaluru FC -->     |match_KER_BEN=1–2
+<!-- Chennaiyin -->       |match_KER_CHE=3–0
+<!-- Delhi Dynamos -->    |match_KER_DEL=1–1
+<!-- FC Goa -->           |match_KER_GOA=1–3
+<!-- Jamshedpur -->       |match_KER_JAM=1–1
+<!-- Kerala Blasters -->  |match_KER_KER=
+<!-- Mumbai City -->      |match_KER_MUM=1–1
+<!-- NorthEast United --> |match_KER_NEU=0–0
+<!-- FC Pune City -->     |match_KER_PUN=0–1
+
+<!-- Mumbai City -->
+
+<!-- ATK -->              |match_MUM_KOL=0–0
+<!-- Bengaluru FC -->     |match_MUM_BEN=1–0
+<!-- Chennaiyin -->       |match_MUM_CHE=2–0
+<!-- Delhi Dynamos -->    |match_MUM_DEL=2–0
+<!-- FC Goa -->           |match_MUM_GOA=0–2
+<!-- Jamshedpur -->       |match_MUM_JAM=0–2
+<!-- Kerala Blasters -->  |match_MUM_KER=6–1
+<!-- Mumbai City -->      |match_MUM_MUM=
+<!-- NorthEast United --> |match_MUM_NEU=0–2
+<!-- FC Pune City -->     |match_MUM_PUN=2–0
+
+<!-- NorthEast United -->
+
+<!-- ATK -->              |match_NEU_KOL=0–0
+<!-- Bengaluru FC -->     |match_NEU_BEN=1–1
+<!-- Chennaiyin -->       |match_NEU_CHE=1–0
+<!-- Delhi Dynamos -->    |match_NEU_DEL=1–1
+<!-- FC Goa -->           |match_NEU_GOA=2–2
+<!-- Jamshedpur -->       |match_NEU_JAM=1–1
+<!-- Kerala Blasters -->  |match_NEU_KER=2–1
+<!-- Mumbai City -->      |match_NEU_MUM=0–1
+<!-- NorthEast United --> |match_NEU_NEU=
+<!-- FC Pune City -->     |match_NEU_PUN=1–1
+
+<!-- Pune City -->
+
+<!-- ATK -->              |match_PUN_KOL=2–2
+<!-- Bengaluru FC -->     |match_PUN_BEN=0–3
+<!-- Chennaiyin -->       |match_PUN_CHE=2–4
+<!-- Delhi Dynamos -->    |match_PUN_DEL=1–3
+<!-- FC Goa -->           |match_PUN_GOA=2–0
+<!-- Jamshedpur -->       |match_PUN_JAM=2–1
+<!-- Kerala Blasters -->  |match_PUN_KER=1–1
+<!-- Mumbai City -->      |match_PUN_MUM=2–1
+<!-- NorthEast United --> |match_PUN_NEU=0–2
+<!-- FC Pune City -->     |match_PUN_PUN=
+}}
+
+==Playoffs==
+{{main|2018–19 Indian Super League playoffs}}
+
+===Bracket===
+{{#lst:2018–19 Indian Super League playoffs|Bracket}}
+
+===Semi-finals===
+{{#lst:2018–19 Indian Super League playoffs|semis}}
+
+===Final===
+{{#lst:2018–19 Indian Super League playoffs|final}}
+
+==Season statistics==
+===Scoring===
+{{col-begin}}
+{{col-2}}
+
+====Top scorers====
+<!--PLEASE UPDATE 'AS OF' DATE BEFORE SAVING-->
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Club
+!Goals
+|-
+|rowspan="1"|1
+|align="left"|{{flagicon|ESP}} [[Ferran Corominas|Coro]]
+|align="left"|Goa
+|rowspan="1"|16
+|-
+|rowspan="2"|2
+|align="left"|{{flagicon|Nigeria}} [[Bartholomew Ogbeche]]
+|align="left"|NorthEast United
+|rowspan="2"|12
+|-
+|align="left"|{{flagicon|Senegal}} [[Modou Sougou]]
+|align="left"|Mumbai City
+|-
+|rowspan="1"|4
+|align="left"|{{flagicon|IND}} [[Sunil Chhetri]]
+|align="left"|Bengaluru
+|rowspan="1"|9
+|-
+|rowspan="1"|5
+|align="left"|{{flagicon|ESP}} [[Edu Bedia]]
+|align="left"|Goa
+|rowspan="1"|7
+|-
+|rowspan="1"|6
+|align="left"|{{flagicon|BRA}} [[Marcelinho (footballer, born 1987)|Marcelinho]]
+|align="left"|Pune City
+|rowspan="1"|6
+|-
+|rowspan="5"|7
+|align="left"|{{flagicon|VEN}} [[Miku (footballer)|Miku]]
+|align="left"|Bengaluru
+|rowspan="5"|5
+|-
+|align="left"|{{flagicon|ESP}} [[Manuel Lanzarote]]
+|align="left"|ATK
+|-
+|align="left"|{{flagicon|IND}} [[Lallianzuala Chhangte]]
+|align="left"|Delhi Dynamos
+|-
+|align="left"|{{flagicon|IND}} [[Udanta Singh]]
+|align="left"|Bengaluru
+|-
+|align="left"|{{flagicon|BRA}} [[Rafael Bastos]]
+|align="left"|Mumbai City
+|-
+! colspan="5" style="text-align:right;"| <small>Source:<ref name=topscorer>{{cite web|url=https://www.indiansuperleague.com/stats/115-138-goals-player-statistics|title=Goals|work=Indian Super League|access-date=29 September 2018|archive-url=https://web.archive.org/web/20181018201708/https://www.indiansuperleague.com/stats/115-138-goals-player-statistics|archive-date=18 October 2018|url-status=live}}</ref></small>
+|}
+{{col-2}}
+
+====Top Indian scorers====
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Club
+!Goals
+|-
+|rowspan="1"|1
+|align="left"|[[Sunil Chhetri]]
+|align="left"|Bengaluru
+|rowspan="1"|9
+|-
+|rowspan="2"|2
+|align="left"|[[Lallianzuala Chhangte]]
+|align="left"|Delhi Dynamos
+|rowspan="2"|5
+|-
+|align="left"|[[Udanta Singh]]
+|align="left"|Bengaluru
+|-
+|rowspan="6"|4
+|align="left"| [[Daniel Lalhlimpuia]]
+|align="left"|Delhi Dynamos
+|rowspan="6"|4
+|-
+|align="left"|[[Michael Soosairaj]]
+|align="left"|Jamshedpur
+|-
+|align="left"|[[Thoi Singh]]
+|align="left"|Chennaiyin
+|-
+|align="left"| [[Robin Singh (footballer)|Robin Singh]]
+|align="left"|Pune City
+|-
+|align="left"| [[Rowllin Borges]]
+|align="left"|NorthEast United
+|-
+|align="left"|[[Jackichand Singh]]
+|align="left"|Goa
+|-
+! colspan="5" style="text-align:right;"| <small>Source:<ref name=topscorer/></small>
+|}
+{{col-end}}
+
+==== Hat-tricks ====
+<!--NO LIVE UPDATES, PLEASE WAIT UNTIL SOURCES UPDATED-->
+{{Main|List of Indian Super League hat-tricks}}
+{| class="wikitable"
+|-
+! Player !! For !! Against !! style="text-align:center"| Result !! Date !! Ref
+|-
+| {{flagicon|NGA}} {{sortname|Bartholomew|Ogbeche}} || NorthEast United || Chennaiyin || 3–4 (A) || {{dts|format=dmy|2018|10|18}} ||<ref>{{cite web |title=Ogbeche Hat trick 18 October 2018 |url=https://us.soccerway.com/matches/2018/10/18/india/indian-super-league/chennai-titans/northeast-united/2907960/?ICID=PL_MS_05 |website=Soccerway |access-date=20 October 2018 |archive-url=https://web.archive.org/web/20181021030048/https://us.soccerway.com/matches/2018/10/18/india/indian-super-league/chennai-titans/northeast-united/2907960/?ICID=PL_MS_05 |archive-date=21 October 2018 |url-status=live }}</ref>
+|-
+| {{flagicon|SEN}} {{sortname|Modou|Sougou}}<sup>4</sup> || Mumbai City || Kerala Blasters || 6–1 (H) || {{dts|format=dmy|2018|12|16}} ||<ref>{{cite web|url=https://us.soccerway.com/matches/2018/12/16/india/indian-super-league/mumbai-city/kerala-blasters/2908008/|title=Mumbai City 6–1 Kerala Blasters|date=16 December 2018}}</ref>
+|-
+| {{flagicon|SEN}} {{sortname|Modou|Sougou}} || Mumbai City || ATK || 3–1 (A) || {{dts|format=dmy|2019|2|22}} ||<ref>{{cite web|url=https://us.soccerway.com/matches/2019/02/22/india/indian-super-league/atletico-de-kolkata/mumbai-city/2966918/|title=ATK 1–3 Mumbai City|date=22 February 2019|access-date=23 February 2019|archive-url=https://web.archive.org/web/20190223133127/https://us.soccerway.com/matches/2019/02/22/india/indian-super-league/atletico-de-kolkata/mumbai-city/2966918/|archive-date=23 February 2019|url-status=live}}</ref>
+|}
+
+* <small><sup>4</sup> – Player scored four goals</small>
+{{col-begin}}
+{{col-2}}
+
+====Top assists====
+<!--PLEASE UPDATE 'AS OF' DATE BEFORE SAVING-->
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Club
+!Assists
+|-
+|rowspan="2"|1
+|align="left"|{{flagicon|COD}} [[Arnold Issoko]]
+|align="left"|Mumbai City
+|rowspan="2"|7
+|-
+|align="left"|{{flagicon|ESP}} [[Ferran Corominas|Coro]]
+|align="left"|Goa
+|-
+|rowspan="1"|3
+|align="left"|{{flagicon|ESP}} [[Carlos Calvo (footballer, born 1985)|Carlos Calvo]]
+|align="left"|Jamshedpur
+|rowspan="1"|6
+|-
+|rowspan="4"|4
+|align="left"|{{flagicon|FRA}} [[Hugo Boumous]]
+|align="left"|Goa
+|rowspan="4"|5
+|-
+|align="left"|{{flagicon|ESP}} [[Edu Bedia]]
+|align="left"|Goa
+|-
+|align="left"|{{flagicon|ESP}} [[Xisco Hernández]]
+|align="left"|Bengaluru
+|-
+|align="left"|{{flagicon|URU}} [[Federico Gallego]]
+|align="left"|NorthEast United
+|-
+|rowspan="7"|8
+|align="left"|{{flagicon|VEN}} [[Miku (footballer)|Miku]]
+|align="left"|Bengaluru
+|rowspan="7"|4
+|-
+|align="left"|{{flagicon|BRA}} [[Marcelinho (footballer, born 1987)|Marcelinho]]
+|align="left"|Pune City
+|-
+|align="left"|{{flagicon|IND}} [[Brandon Fernandes]]
+|align="left"|Goa
+|-
+|align="left"|{{flagicon|ESP}} [[Dimas Delgado]]
+|align="left"|Goa
+|-
+|align="left"|{{flagicon|IND}} [[Seiminlen Doungel]]
+|align="left"|Kerala Balsters
+|-
+|align="left"|{{flagicon|IND}} [[Jackichand Singh]]
+|align="left"|Goa
+|-
+|align="left"|{{flagicon|POR}} [[Paulo Machado]]
+|align="left"|Mumbai City
+|-
+! colspan="5" style="text-align:right;"| <small>Source:<ref name=topassist>{{cite web|url=https://www.indiansuperleague.com/stats/115-153-assists-player-statistics|title=Assists|work=Indian Super League|access-date=29 September 2018|archive-url=https://web.archive.org/web/20181021054712/https://www.indiansuperleague.com/stats/115-153-assists-player-statistics|archive-date=21 October 2018|url-status=live}}</ref></small>
+|}
+{{col-2}}
+
+====Top Indian assists====
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Club
+!Assists
+|-
+|rowspan="3"|1
+|align="left"| [[Brandon Fernandes]]
+|align="left"|Goa
+|rowspan="3"|4
+|-
+|align="left"| [[Seiminlen Doungel]]
+|align="left"|Kerala Blasters
+|-
+|align="left"| [[Jackichand Singh]]
+|align="left"|Goa
+|-
+|rowspan="6"|4
+|align="left"| [[Robin Singh (footballer)|Robin Singh]]
+|align="left"|Pune City
+|rowspan="6"|3
+|-
+|align="left"| [[Pritam Kotal]]
+|align="left"|ATK
+|-
+|align="left"| [[Ashique Kuruniyan]]
+|align="left"|Pune City
+|-
+|align="left"| [[Udanta Singh]]
+|align="left"|Bengaluru
+|-
+|align="left"|[[Sunil Chhetri]]
+|align="left"|Bengaluru
+|-
+|align="left"|[[Harmanjot Khabra]]
+|align="left"|Bengaluru
+|-
+! colspan="5" style="text-align:right;"| <small>Source:<ref name=topassist/></small>
+|}
+{{col-end}}
+
+===Cleansheets===
+{{updated|11 March 2019}}
+<!--NO LIVE UPDATES, PLEASE WAIT UNTIL SOURCES UPDATED-->
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Club
+!Clean<br />sheets
+|-
+|rowspan="3"|1
+|align="left" | [[Pawan Kumar (footballer, born 1990)|Pawan Kumar]]
+|align="left" |NorthEast United
+|rowspan="3"|6
+|-
+|align="left"| [[Amrinder Singh]]
+|align="left"|Mumbai City
+|-
+|align="left"| [[Gurpreet Singh Sandhu]]
+|align="left"|Bengaluru
+|-
+|rowspan="5" |4
+|align="left"| [[Naveen Kumar (footballer)|Naveen Kumar]]
+|align="left"|Goa
+|rowspan="5" |4
+|-
+|align="left" |[[Dheeraj Singh Moirangthem]]
+|align="left" |Kerala Blasters
+|-
+|align="left"| [[Mohammad Nawaz (footballer)|Mohammad Nawaz]]
+|align="left"|Goa
+|-
+|align="left" | [[Subrata Pal]]
+|align="left" |Jamsedpur
+|-
+|align="left" |[[Arindam Bhattacharya (footballer)|Arindam Bhattacharya]]
+|align="left" |ATK
+|-
+! colspan="5" style="text-align:right;"| <small>Source:<ref name=cleansheets>{{cite web|url=https://www.indiansuperleague.com/stats/115-141-clean-sheets-player-statistics|title=Clean Sheets|work=Indian Super League|access-date=27 October 2018|archive-url=https://web.archive.org/web/20191020175845/https://www.indiansuperleague.com/stats/115-141-clean-sheets-player-statistics|archive-date=20 October 2019|url-status=live}}</ref></small>
+|}
+
+=== Discipline ===
+
+==== Player ====
+<!--NO LIVE UPDATES, PLEASE WAIT UNTIL SOURCES UPDATED-->
+* Most yellow cards: '''7'''<ref>{{cite web |title=YC Players |url=https://www.indiansuperleague.com/stats/115-143-yellow-cards-player-statistics |website=Indian Super League |access-date=14 November 2018 |archive-url=https://web.archive.org/web/20181021054709/https://www.indiansuperleague.com/stats/115-143-yellow-cards-player-statistics |archive-date=21 October 2018 |url-status=live }}</ref>
+** [[Harmanjot Khabra]] (Bengaluru)
+
+<!--NO LIVE UPDATES, PLEASE WAIT UNTIL SOURCES UPDATED-->
+* Most red cards: '''2'''<ref>{{cite web |title=RC Players |url=https://www.indiansuperleague.com/stats/115-144-red-cards-player-statistics |website=Indian Super League |access-date=14 November 2018 |archive-url=https://web.archive.org/web/20181021185718/https://www.indiansuperleague.com/stats/115-144-red-cards-player-statistics |archive-date=21 October 2018 |url-status=live }}</ref>
+**  [[Marcelinho (footballer, born 1987)|Marcelinho]] (Pune City)
+
+==== Club ====
+<!--NO LIVE UPDATES, PLEASE WAIT UNTIL SOURCES UPDATED-->
+* Most yellow cards: '''50'''<ref>{{cite web |title=Yellow Cards |url=https://www.indiansuperleague.com/stats/115-133-yellow-cards-club-statistics |website=Indian Super League |access-date=14 November 2018 |archive-url=https://web.archive.org/web/20181005035234/https://www.indiansuperleague.com/stats/115-133-yellow-cards-club-statistics |archive-date=5 October 2018 |url-status=live }}</ref>
+** Pune City
+
+<!--NO LIVE UPDATES, PLEASE WAIT UNTIL SOURCES UPDATED-->
+* Most red cards: '''3'''<ref>{{cite web |title=Red Cards |url=https://www.indiansuperleague.com/stats/115-134-red-cards-club-statistics |website=Indian Super League |access-date=14 November 2018 |archive-url=https://web.archive.org/web/20181021185721/https://www.indiansuperleague.com/stats/115-134-red-cards-club-statistics |archive-date=21 October 2018 |url-status=live }}</ref>
+** Bengaluru
+** Pune City
+
+==Average home attendances==
+{{See also|Indian Super League attendance}}
+{|class="wikitable sortable"
+|-
+!width=160|Team
+!{{Tooltip|GP|Home games played}}
+!width=45|{{Tooltip|Cumulative|Cumulative total of all home games attendance}}
+!width=45|{{Tooltip|High|Highest season attendance}}
+!width=45|{{Tooltip|Low|Lowest season attendance}}
+!width=45|{{Tooltip|Mean|Statistical mean season attendance}}
+|-
+|[[Jamshedpur FC|Jamshedpur]]||align=center|9||align=center|180,140||align=center|23,050||align=center|14,678||align=center bgcolor="#98FB98"|20,016
+<!-- 22812 + 20472 + 22751 + 23050 + 21847 + 21310 + 17890 + 15330 + 14678 -->
+|-
+|[[ATK (football club)|ATK]]||align=center|8||align=center|146,482||align=center bgcolor="#98FB98"|41,202||align=center|5,321||align=center|18,310
+<!-- 41202 + 19853 + 15382 + 17656 + 15333 + 21870 + 9865 + 5321 + missing -->
+|-
+|[[Kerala Blasters FC|Kerala Blasters]]||align=center|8||align=center|136,996||align=center|31,166||align=center|3,298||align=center|17,125
+<!-- 31166 + 29962 + 28916 + 21962 + 8451 + 8659 + 4582 + 3298 + missing -->
+|-
+|[[FC Goa|Goa]]||align=center|10|| align="center" |163,779|| align="center" |17,807||align=center|14,482||align=center|16,378
+<!-- 15932 + 16705 + 17495 + 17807 + 17385 + 14875 + 15163 + 14482 + 16128 + 17807 -->
+|-
+|[[Bengaluru FC|Bengaluru]]||align=center|10|| align="center" |143,293|| align="center" |21,636||align=center|9,379||align=center|14,329
+<!-- 20786 + 15893 + 10983 + 11907 + 13892 + 9379 + 11970 + 13572 + 13275 + 21636 -->
+|-
+|[[NorthEast United FC|NorthEast United]]|| align="center" |9|| align="center" |121,122|| align="center" |21,786|| align="center" |6,873|| align="center" |13,458
+<!-- 18321 + 16992 + 13941 + 9134 + 12371 + 10231 + missing + 6873 + 11473 + 21786 -->
+|-
+|[[Chennaiyin FC|Chennaiyin]]|| align="center" |7|| align="center" |85,270|| align="center" |14,992|| align="center" |6,939|| align="center" |12,181
+<!-- 14992 + 14293 + 13122 + 13017 + 13123 + 9784 + missing + 6939 + missing -->
+|-
+|[[Delhi Dynamos FC|Delhi Dynamos]]||align=center|9||align=center|63,861||align=center|12,342||align=center|3,134||align=center|7,096
+<!-- 10283 + 9143 + 8141 + 12342 + 8656 + 5121 + 3134 + 3296 + 3745 -->
+|-
+|[[FC Pune City|Pune City]]||align=center|6||align=center|40,554||align=center|8,193||align=center|5,941||align=center|6,759
+<!-- 8193 + 7261 + 6391 + 6814 + 5941 + 5954 + missing + missing + missing -->
+|-
+|[[Mumbai City FC|Mumbai City]]||align=center|10|| align="center" |49,807|| align="center" |7,563||align=center|3,462||align=center|4,981
+<!-- 7563 + 4288 + 3592 + 4623 + 3462 + 6023 + 4725 + 4778 + 3627 + 7126 -->
+|-
+!Total||align=center|86|| align="center" |1,131,304|| align="center" |41,202||align=center|3,134||align=center|13,155
+|-
+! colspan="7" style="text-align:right;"| <small>Source:<ref>{{cite web|title=Attendance|url=https://www.worldfootball.net/attendance/ind-indian-super-league-2018-2019/1/|website=worldfootball.net|access-date=29 September 2018|archive-url=https://web.archive.org/web/20180929233300/https://www.worldfootball.net/attendance/ind-indian-super-league-2018-2019/1/|archive-date=29 September 2018|url-status=live}}</ref></small>
+|}
+
+==Awards==
+*Source: [http://www.indiansuperleague.com/stats/19-150-golden-boot-award-statistics Indian Super League website]
+<!-- PLEASE DO NOT ADD AWARDS WHICH CANNOT BE VERIFIED FROM OFFICIAL WEBSITE. -->
+
+===Hero of the Match===
+{| class="wikitable"
+|-
+! rowspan="2"|Match
+! colspan="2"|Hero of the Match
+! rowspan="2"|Match
+! colspan="2"|Hero of the Match
+! rowspan="2"|Match
+! colspan="2"|Hero of the Match
+|-
+! Player
+! Club
+! Player
+! Club
+! Player
+! Club
+|-
+| Match 1
+|  [[Matej Poplatnik]]
+| Kerala Blasters
+| Match 33
+|  [[Gerson Vieira]]
+| ATK
+| Match 65
+|[[Lallianzuala Chhangte]]
+|Delhi Dynamos
+|-
+| Match 2
+|  [[Miku (footballer)|Miku]]
+| Bengaluru
+| Match 34
+|  [[Ferran Corominas|Coro]]
+| Goa
+| Match 66
+|  [[Ferran Corominas|Coro]]
+| Goa
+|-
+| Match 3
+|  [[Ferran Corominas|Coro]]
+| Goa
+| Match 35
+|  [[Ashique Kuruniyan]]
+| Pune City
+| Match 67
+|  [[Marcelinho (footballer, born 1987)|Marcelinho]]
+| Pune City
+|-
+| Match 4
+|  [[Jerry Mawihmingthanga]]
+| Jamshedpur
+| Match 36
+|  [[Sunil Chhetri]]
+| Bengaluru
+| Match 68
+|  [[Manuel Lanzarote]]
+| ATK
+|-
+| Match 5
+|  [[Rana Gharami]]
+| Delhi Dynamos
+| Match 37
+|  [[Sandesh Jhingan]]
+| Kerala Blasters
+| Match 69
+| [[Brandon Fernandes]]
+| Goa
+|-
+| Match 6
+|  [[John Johnson (footballer)|John Johnson]]
+| ATK
+| Match 38
+|  [[Subhasish Bose]]
+| Mumbai City
+| Match 70
+| [[Udanta Singh]]
+| Bengaluru
+|-
+| Match 7
+|  [[Sandesh Jhingan]]
+| Kerala Blasters
+| Match 39
+|  [[Pablo Morgado]]
+| Jamshedpur
+| Match 71
+| [[Panagiotis Triadis]]
+| NorthEast United
+|-
+| Match 8
+|  [[Ahmed Jahouh]]
+| Goa
+| Match 40
+|  [[Nishu Kumar]]
+| Bengaluru
+| Match 72
+|[[Memo (footballer)|Memo]]
+|Jamshedpur
+|-
+| Match 9
+|  [[Nishu Kumar]]
+| Bengaluru
+| Match 41
+|  [[Federico Gallego]]
+| NorthEast United
+| Match 73
+|[[Raphael Augusto|Raphael Agusto]]
+|Chennaiyin
+|-
+| Match 10
+|  [[Balwant Singh (footballer)|Balwant Singh]]
+| ATK
+| Match 42
+|  [[Pronay Halder]]
+| ATK
+| Match 74
+| [[Edu Garcia]]
+| ATK
+|-
+| Match 11
+|  [[Bartholomew Ogbeche]]
+| NorthEast United
+| Match 43
+|  [[Dheeraj Singh Moirangthem]]
+| Kerala Blasters
+| Match 75
+|[[Rowllin Borges]]
+|NorthEast United
+|-
+| Match 12
+|  [[Arnold Issoko]]
+| Mumbai City
+| Match 44
+|  [[Rahul Bheke]]
+| Bengaluru
+| Match 76
+|[[Ferran Corominas|Coro]]
+|Goa
+|-
+| Match 13
+|  [[C.K. Vineeth]]
+| Kerala Blasters
+| Match 45
+|  [[José David Leudo]]
+| NorthEast United
+| Match 77
+| [[Matej Poplatnik]]
+| Kerala Blasters
+|-
+| Match 14
+|  [[Sergio Cidoncha]]
+| Jamshedpur
+| Match 46
+|  [[Manuel Lanzarote]]
+| ATK
+| Match 78
+| [[Robin Singh (footballer)|Robin Singh]]
+| Pune City
+|-
+| Match 15
+|  [[Sunil Chhetri]]
+| Bengaluru
+| Match 47
+|  [[Paulo Machado]]
+| Mumbai City
+| Match 79
+| [[Daniel Lalhlimpuia]]
+| Delhi Dynamos
+|-
+| Match 16
+|  [[Francisco Dorronsoro]]
+| Delhi Dynamos
+| Match 48
+|  [[Seiminlen Doungel]]
+| Kerala Blasters
+| Match 80
+|[[Ahmed Jahouh]]
+|Goa
+|-
+| Match 17
+|  [[Edu Bedia]]
+| Goa
+| Match 49
+|  [[Chencho Gyeltshen]]
+| Bengaluru
+| Match 81
+| [[Rowllin Borges]]
+| NorthEast United
+|-
+| Match 18
+|  [[Farukh Choudhary]]
+| Jamshedpur
+| Match 50
+|  [[Modou Sougou]]
+| Mumbai City
+| Match 82
+| [[Miku (footballer)|Miku]]
+| Bengaluru
+|-
+| Match 19
+|  [[Manuel Lanzarote]]
+| ATK
+| Match 51
+|  [[Jonathan Vila]]
+| Pune City
+| Match 83
+| [[Modou Sougou]]
+| Mumbai City
+|-
+| Match 20
+|  [[Arnold Issoko]]
+| Mumbai City
+| Match 52
+|  [[José David Leudo]]
+| NorthEast United
+| Match 84
+| [[Anirudh Thapa]]
+| Chennaiyin
+|-
+| Match 21
+|  [[Ahmed Jahouh]]
+| Goa
+| Match 53
+| [[Arnold Issoko]]
+|Mumbai City
+| Match 85
+| [[Vinit Rai]]
+| Delhi Dynamos
+|-
+| Match 22
+|  [[Seiminlen Doungel]]
+| Kerala Blasters
+| Match 54
+|  [[Marcelinho (footballer, born 1987)|Marcelinho]]
+| Pune City
+| Match 86
+| [[Michael Soosairaj]]
+| Jamshedpur
+|-
+| Match 23
+|  [[Federico Gallego]]
+| NorthEast United
+| Match 55
+|  [[Tiri (footballer)|Tiri]]
+| Jamshedpur
+| Match 87
+| [[Ferran Corominas|Coro]]
+|Goa
+|-
+| Match 24
+|  [[Erik Paartalu]]
+| Bengaluru
+| Match 56
+| [[Erik Paartalu]]
+|Bengaluru
+| Match 88
+| [[Lalthathanga Khawlhring]]
+| NorthEast United
+|-
+| Match 25
+|  [[Michael Soosairaj]]
+| Jamshedpur
+| Match 57
+| [[Ferran Corominas|Coro]]
+|Goa
+| Match 89
+| [[Iain Hume]]
+| Pune City 
+|-
+| Match 26
+|  [[Adil Khan (footballer)|Adil Khan]]
+| Pune City
+| Match 58
+|  [[Nanda Kumar]]
+| Delhi Dynamos
+| Match 90
+| [[Edu Garcia]]
+| ATK
+|-
+| Match 27
+|  [[Paulo Machado]]
+| Mumbai City
+| Match 59
+|[[Modou Sougou]]
+|Mumbai City
+| Match 91 (SF)
+|[[José David Leudo]]
+|NorthEast United
+|-
+| Match 28
+|  [[Tiri (footballer)|Tiri]]
+| Jamshedpur
+| Match 60
+| [[Edu Garcia]]
+| ATK
+| Match 92 (SF)
+|[[Mourtada Fall]]
+|Goa
+|-
+| Match 29
+|  [[Dimas Delgado|Dimas]]
+| Bengaluru
+| Match 61
+| [[Bartholomew Ogbeche]]
+| NorthEast United
+| Match 93 (SF)
+| [[Miku (footballer)|Miku]]
+| Bengaluru
+|-
+| Match 30
+|  [[Maílson Alves]]
+| Chennaiyin
+| Match 62
+|[[Paulo Machado]]
+|Mumbai City
+| Match 94 (SF)
+|[[Mourtada Fall]]
+|Goa
+|-
+| Match 31
+|  [[Ahmed Jahouh]]
+| Goa
+| Match 63
+|[[Subrata Pal|Subrata Paul]]
+|Jamshedpur
+| Match 95 (F)
+|[[Rahul Bheke]]
+|Bengaluru
+|-
+| Match 32
+|  [[Arnold Issoko]]
+| Mumbai City
+| Match 64
+|[[Gurpreet Singh Sandhu]]
+|Bengaluru
+|}
+
+{{clear}}
+
+===ISL Emerging Player of the Match===
+{| class="wikitable"
+|-
+! rowspan="2"|Match
+! colspan="2"|Emerging Player of the Match
+! rowspan="2"|Match
+! colspan="2"|Emerging Player of the Match
+! rowspan="2"|Match
+! colspan="2"|Emerging Player of the Match
+|-
+! Player
+! Club
+! Player
+! Club
+! Player
+! Club
+|-
+| Match 1
+| [[Dheeraj Singh Moirangthem]]
+| Kerala Blasters
+| Match 33
+| [[Komal Thatal]]
+| ATK
+| Match 65
+|[[Nanda Kumar]]
+|Delhi Dynamos
+|-
+| Match 2
+| [[Jerry Lalrinzuala]]
+| Chennaiyin
+| Match 34
+| [[Mohammad Nawaz (footballer)|Mohammed Nawaz]]
+| Goa
+| Match 66
+| [[Mohammad Nawaz (footballer)|Mohammed Nawaz]]
+| Goa
+|-
+| Match 3
+| [[Nikhil Kadam]]
+| NorthEast United
+| Match 35
+| [[Jerry Mawihmingthanga]]
+| Jamshedpur
+| Match 67
+| [[Sarthak Golui]]
+| Pune City
+|-
+| Match 4
+| [[Jerry Mawihmingthanga]]
+| Jamshedpur
+| Match 36
+| [[Brandon Fernandes]]
+| Goa
+| Match 68
+| [[Hitesh Sharma (footballer)|Hitesh Sharma]]
+| ATK
+|-
+| Match 5
+| [[Ashique Kuruniyan]]
+| Pune City
+| Match 37
+| [[Dheeraj Singh Moirangthem|Dheeraj Singh]]
+| Kerala Blasters
+| Match 69
+| [[Lallianzuala Chhangte]]
+| Delhi Dynamos
+|-
+| Match 6
+| [[Rehenesh TP]]
+| NorthEast United
+| Match 38
+| [[Komal Thatal]]
+| ATK
+| Match 70
+| [[Dheeraj Singh Moirangthem|Dheeraj Singh]]
+| Kerala Blasters
+|-
+| Match 7
+| [[Dheeraj Singh Moirangthem]]
+| Kerala Blasters
+| Match 39
+| [[Michael Soosairaj]]
+| Jamshedpur
+| Match 71
+|  [[Nanda Kumar]]
+| Delhi Dynamos
+|-
+| Match 8
+| [[Mohammad Nawaz (footballer)|Mohammad Nawaz]]
+| Goa
+| Match 40
+| [[Lallianzuala Chhangte]]
+| Delhi Dynamos
+| Match 72
+|[[Farukh Choudhary]]
+|Jamshedpur
+|-
+| Match 9
+| [[Gourav Mukhi]]
+| Jamshedpur
+| Match 41
+| [[Ashique Kuruniyan]]
+| Pune City
+| Match 73
+| [[Laldinliana Renthlei]]
+| Chennaiyin
+|-
+| Match 10
+| [[Komal Thatal]]
+| ATK
+| Match 42
+| [[Mohammad Nawaz (footballer)|Mohammad Nawaz]]
+| Goa
+| Match 74
+| [[Sahil Panwar]]
+| Pune City
+|-
+| Match 11
+| [[Jerry Lalrinzuala]]
+| Chennaiyin
+| Match 43
+| [[Isaac Vanmalsawma]]
+| Chennaiyin
+| Match 75
+|[[Raynier Fernandes]]
+|Mumbai City
+|-
+| Match 12
+| [[Nikhil Poojari]]
+| Pune City
+| Match 44
+| [[Ashique Kuruniyan]]
+| Pune City
+| Match 76
+|[[Brandon Fernandes]]
+|Goa
+|-
+| Match 13
+| [[Lallianzuala Chhangte]]
+| Delhi Dynamos
+| Match 45
+| [[Redeem Tlang]]
+| NorthEast United
+| Match 77
+| [[Sahal Abdul Samad]]
+| Kerala Blasters
+|-
+| Match 14
+| [[Michael Soosairaj]]
+| Jamshedpur
+| Match 46
+| [[Hitesh Sharma (footballer)|Hitesh Sharma]]
+| ATK
+| Match 78
+| [[Sahil Panwar]]
+| Pune City
+|-
+| Match 15
+| [[Sahil Panwar]]
+| Pune City
+| Match 47
+| [[Lallianzuala Chhangte]]
+| Delhi Dynamos
+| Match 79
+| [[Nanda Kumar]]
+| Delhi Dynamos
+|-
+| Match 16
+| [[Isaac Vanmalsawma]]
+| Chennaiyin
+| Match 48
+| [[Jerry Mawihmingthanga]]
+| Jamshedpur
+| Match 80
+| [[Mohammad Rakip]]
+| Kerala Blasters
+|-
+| Match 17
+| [[Chinglensana Singh (footballer)|Chinglensana Singh]]
+| Goa
+| Match 49
+| [[Lalthathanga Khawlhring]]
+| NorthEast United
+| Match 81
+| [[Ashique Kuruniyan]]
+| Pune City
+|-
+| Match 18
+| [[Michael Soosairaj]]
+| Jamshedpur
+| Match 50
+| [[Raynier Fernandes]]
+| Mumbai City
+| Match 82
+| [[Brandon Fernandes]]
+| Goa
+|-
+| Match 19
+| [[Jerry Lalrinzuala]]
+| Chennaiyin
+| Match 51
+| [[Sarthak Golui]]
+| Pune City
+| Match 83
+| [[Pranjal Bhumij]]
+| Mumbai City
+|-
+| Match 20
+| [[Ravi Kumar (footballer)|Ravi Kumar]]
+| Mumbai City
+| Match 52
+| [[Redeem Tlang]]
+| NorthEast United
+| Match 84
+| [[Isaac Vanmalsawma]]
+| Chennaiyin
+|-
+| Match 21
+| [[Mohammad Nawaz (footballer)|Mohammad Nawaz]]
+| Goa
+| Match 53
+|[[Subhasish Bose]]
+|Mumbai City
+| Match 85
+|[[Rohit Kumar]]
+|Pune City
+|-
+| Match 22
+| [[Michael Soosairaj]]
+| Jamshedpur
+| Match 54
+| [[Kamaljit Singh]]
+| Pune City
+| Match 86
+| [[Jerry Mawihmingthanga]]
+| Jamshedpur
+|-
+| Match 23
+| [[Redeem Tlang]]
+| NorthEast United
+| Match 55
+| [[Farukh Choudhary]]
+| Jamshedpur
+| Match 87
+| [[Saviour Gama]]
+| Goa
+|-
+| Match 24
+| [[Komal Thatal]]
+| ATK
+| Match 56
+| [[Ankit Mukherjee]]
+| ATK
+| Match 88
+| [[Sahal Abdul Samad]]
+| Kerala Blasters
+|-
+| Match 25
+| [[Sumeet Passi]]
+| Jamshedpur
+| Match 57
+|[[Seriton Fernandes]]
+|Goa
+| Match 89
+| [[Mohammad Yasir]]
+| Pune City
+|-
+| Match 26
+| [[Kamaljit Singh]]
+| Pune City
+| Match 58
+| [[Isaac Vanmalsawma]]
+| Chennaiyin
+| Match 90
+| [[Ankit Mukherjee]]
+| ATK
+|-
+| Match 27
+| [[Anirudh Thapa]]
+| Chennaiyin
+| Match 59
+|[[Raynier Fernandes]]
+|Mumbai City
+| Match 91 (SF)
+|[[Redeem Tlang]]
+|NorthEast United
+|-
+| Match 28
+| [[Mohammad Sajid Dhot]]
+| Delhi Dynamos
+| Match 60
+| [[Sahal Abdul Samad]]
+| Kerala Blasters
+| Match 92 (SF)
+|[[Brandon Fernandes]]
+|Goa
+|-
+| Match 29
+| [[Lalruatthara]]
+| Kerala Blasters
+| Match 61
+| [[Lalthathanga Khawlhring]]
+| NorthEast United
+| Match 93 (SF)
+| [[Nishu Kumar]]
+| Bengaluru
+|-
+| Match 30
+| [[Ashique Kuruniyan]]
+| Pune City
+| Match 62
+|[[Raynier Fernandes]]
+|Mumbai City
+| Match 94 (SF)
+|[[Brandon Fernandes]]
+|Goa
+|-
+| Match 31
+| [[Lallianzuala Chhangte]]
+| Delhi Dynamos
+| Match 63
+|[[Michael Soosairaj]]
+|Jamshedpur
+| Match 95 (F)
+|[[Nishu Kumar]]
+|Bengaluru
+|-
+| Match 32
+| [[Redeem Tlang]]
+| NorthEast United
+| Match 64
+|[[Lalthathanga Khawlhring]]
+|NorthEast United
+|}
+
+===End of season awards===
+{| class="wikitable"
+|- style="background:#cccccc;"
+!Award
+!Player
+!Club
+|-
+|- style="background:#f4f4f4;"
+|-
+|Golden Ball For The Hero of the League
+|{{flagicon|ESP}} [[Ferran Corominas|Coro]]
+|[[FC Goa|Goa]]
+|-
+|ISL Emerging Player of the Season
+|{{flagicon|IND}} [[Sahal Abdul Samad]]
+|[[Kerala Blasters FC|Kerala Blasters]]
+|-
+|Golden Glove
+|{{flagicon|IND}} [[Gurpreet Singh Sandhu]]
+|[[Bengaluru FC|Bengaluru]]
+|-
+|Winning Pass Season Award For Most Assists
+|{{flagicon|COD}} [[Arnold Issoko]]
+|[[Mumbai City FC|Mumbai City]]
+|-
+|Golden Boot
+|{{flagicon|ESP}} [[Ferran Corominas|Coro]]
+|[[FC Goa|Goa]]
+|-
+|Best Pitch of the Season
+|colspan="2"|[[Kerala Blasters FC|Kerala Blasters]] for [[Jawaharlal Nehru Stadium (Kochi)]]
+|}
+
+==See also==
+* [[2018–19 I-League]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.indiansuperleague.com/ Official website]
+
+{{Indian Super League}}
+{{2018–19 in Indian football}}
+{{2018 in Asian football (AFC)}}
+{{2019 in Asian football (AFC)}}
+
+{{DEFAULTSORT:2018-19 Indian Super League season}}
+[[Category:2018–19 Indian Super League season| ]]
+[[Category:Indian Super League seasons]]
+[[Category:2018–19 in Indian football leagues|1]]
+[[Category:2018–19 in Asian association football leagues|India]]

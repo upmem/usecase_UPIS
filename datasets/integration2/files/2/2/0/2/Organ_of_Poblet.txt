@@ -1,0 +1,123 @@
+{{one source|date=December 2012}}
+[[File:Orgue Metzler del Monestir de Poblet.JPG|thumb|250px|The Metzler organ of the Abbey of Poblet ([[Catalonia]], 2012)]]
+The '''organ of Poblet''' is a three manual, 56 stop [[pipe organ]] installed in the church of the Abbey of Santa Maria of [[Poblet]] ([[Catalonia]], Spain). It was built in 2012 by the Swiss firm Metzler Orgelbau AG.<ref>{{cite web|title=New Instruments|url=http://www.metzler-orgelbau.ch/htm/EN/recents.htm#New%20instruments|publisher=Metzler Orgelbau AG|accessdate=20 December 2012}}</ref>
+
+== Technical description and information ==
+The instrument is entirely mechanical in both key and stop actions. The slider chests, case, pipe work and all components were manufactured directly by Metzler craftsmen under the supervision of the organ builder Joan Carles Castro (Barcelona). The instrument installation includes:<ref name=AM>{{cite web|last=Metzler|first=Andreas|title=The New Metzler Organ of Poblet|url=http://www.poblet.cat/pfw_files/cma/PDF_fitxers/El_nou_orgue_del_monestir_de_Poblet.pdf|publisher=Metzler Orgelbau AG|accessdate=20 December 2012}}</ref>  
+:– 56 stops on a three manual console and pedalboard
+:– Approximately 3,500 pipes, whose lengths range from 5 meters down to the shortest at 1 centimetre.
+:– The dimensions of the instrument are:
+::Height: 8.70 m
+::Width: 7.20 m
+::Depth: 4.10 m
+
+== Tonal conception ==
+It is an instrument of interregional Baroque sound aesthetics, i.e., a well-balanced synthesis of the most significant features of the European organ schools of the Baroque era. The tonal design is based on the German Baroque style, centered in the music of [[Johann Sebastian Bach|J. S. Bach]]. However the instrument also includes bright reeds, mutations and fonds of French and Spanish character, and late Baroque elements. The voicing and tonal finishing were in charge of Andreas Metzler in consultation with the Abbey's main organist Josep Antoni Peramos, [[Cistercians|O. Cist.]].<ref name=AM />
+
+== Specifications==
+<ref>{{cite web|title=Monastery of Poblet - New Organ|url=http://www.poblet.cat/index.php?MjEy&LDI1MA%3D%3D|publisher=Monastery of Poblet|accessdate=20 December 2012}}</ref> 
+{|class="wikitable"
+|'''I. Rückpositiv'''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||(C-g3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||'''II. Hauptwerk'''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||(C-g3)
+|-
+|colspan="4"|
+|-
+|Prestant||8'||Prestant||16'
+|-
+|Quintade||8'||Bourdon||16'
+|-
+|Bourdon||8'||Principal||8'
+|-
+|Octave||4'||Viola||8'
+|-
+|Rohrflöte||4'||Rohrflöte||8'
+|-
+|Nasard||2 2/3'||Octave||4'
+|-
+|Doublette||2'||Holzflöte||4'
+|-
+|Terz||1 3/5'||Quinte||2 2/3'
+|-
+|Larigot||1 1/3'||Superoctave||2'
+|-
+|Sesquialter||II||Mixtur major||IV
+|-
+|Scharf||IV||Mixtur minor||III
+|-
+|Trompete||8'||Cornet||V
+|-
+|Cromorne||8'||Fagott||16'
+|-
+|||||Trompette||8'
+|-
+|Tremulant||||Clairon|| 4'
+|-
+|Zimbelstern||||||
+|-
+|||||Tremulant||
+|-
+|colspan="4"|
+|- 
+|'''III. Unterwerk'''||(C-g3)||I – II||
+|- 
+|||||III – II||
+|-
+|Gambe||8'||||
+|-
+|Unda maris||8'||||
+|-
+|Hohlflöte||8'||||
+|-
+|Holzgedackt||8'||'''P. Pedalwerk'''||(C-f1)
+|-
+|Prestant||4'||||
+|-
+|Salicet||4'||Untersatz||32'
+|-
+|Traversflöte||4'||Principalbass||16'
+|-
+|Octave||2'||Subbass||16'
+|-
+|Waldflöte||2'||Octavbass||8'
+|-
+|Sifflöte||1'||Violabass (HW)||8'
+|-
+|Cornett||III||Choralbass||4'
+|-
+|Zimbel||III||Bauernflöte||2'
+|-
+|Oboe||8'||Rauschpfeife||V
+|-
+|Vox humana||8'||Bombarde||16'
+|-
+|||||Fagott (HW)||16'
+|-
+|Tremulant||||Trompete||8'
+|-
+|Rossignol||||Trompete||4'
+|-
+|colspan="4"|
+|-
+|Batalla||||I – P||
+|-
+|Trompeta||8'||II – P||
+|-
+|Clarín||4'||III – P||
+|-
+|||||III 4' – P||
+|-
+|}
+
+==See also==
+
+* [[Organ (music)|Organ]]
+* [[Monastery of Poblet|Abbey of Poblet]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://www.poblet.cat Abbey of Poblet]
+* [http://www.metzler-orgelbau.ch/htm/EN/index.htm Metzler Orgelbau AG]
+
+[[Category:Individual pipe organs|Poblet]]
+[[Category:Conca de Barberà]]

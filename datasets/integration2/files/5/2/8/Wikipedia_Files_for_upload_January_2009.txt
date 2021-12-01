@@ -1,0 +1,1582 @@
+{{Wikipedia:Images for upload/ArchiveHeader}}
+
+== File:Hoisington House ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' This is an image of Hoisington House, showing how decrepit the house looks.
+
+'''URL:''' http://www.flickr.com/photos/22958680@N05/2997091612/
+
+'''License:''' Public Domain <code>{{[[Template:PD-author|PD-author]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://www.flickr.com/photos/22958680@N05/2997091612/ I own the image, it's ok.
+
+'''Author/Copyright Holder's Name:''' Tom Vance
+
+'''Article To Be Used On/Reason For Upload:''' This is to be used on the article entitled, "Hoisington House"
+
+[[Special:Contributions/71.29.222.238|71.29.222.238]] ([[User talk:71.29.222.238|talk]]) 03:20, 29 December 2008 (UTC)
+
+{{#switch: {{lc: ? }}
+| a
+| accepted
+| accept = :[[Image:Symbol confirmed.svg|15px]] '''Image uploaded''' {{#if:|You can find it at '''[[:{{{2}}}]]'''.}} Thank you for your contribution to Wikipedia!
+| d
+| declined
+| decline = :[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined.
+| ?
+| c
+| comment
+| q
+| question = :[[Image:Symbol opinion vote.svg|15px]] '''Comment:'''
+}} Hi there and thanks for your request. Please edit the image on Flickr and change the license to Public Domain, or another suitable license (suitable licenses are listed in the wizard). When you're done, edit this request and leave a note that you've changed the license by clicking on the [edit] button on the right hand side at the top of this section. After you've left a note here we'll upload the image. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 06:40, 31 December 2008 (UTC)
+
+{{#switch: {{lc: accept }}
+| a
+| accepted
+| accept = :[[Image:Symbol confirmed.svg|15px]] '''Image uploaded''' {{#if:File:Hoisington_House.jpg|You can find it at '''[[:File:Hoisington_House.jpg]]'''.}} Thank you for your contribution to Wikipedia!
+| d
+| declined
+| decline = :[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined.
+| ?
+| c
+| comment
+| q
+| question = :[[Image:Symbol opinion vote.svg|15px]] '''Comment:'''
+}} '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 01:44, 2 January 2009 (UTC) 
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== File:GustavusMyers.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' This is a photo of New York journalist and author [[Gustavus Myers]], date unknown.  
+
+'''URL:''' http://www.silverbearcafe.com/private/images/csimage024.jpg
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' 
+http://www.silverbearcafe.com/private/silverpres1.html
+
+'''Author/Copyright Holder's Name:''' 
+Charles Savoie
+
+'''Article To Be Used On/Reason For Upload:''' 
+No image currently exists for the article on Gustavus Myers. 
+
+[[Special:Contributions/72.74.210.130|72.74.210.130]] ([[User talk:72.74.210.130|talk]]) 15:57, 1 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== File:OwneyGeoghegan.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[bare knuckle boxing|bare-knuckle boxer]] [[Owney Geoghegan]] from the Mechanics Delight Boxing Card series. 
+
+'''URL:''' http://static.boxrec.com/wiki/thumb/7/74/Geoghegan.Owney.jpg/300px-Geoghegan.Owney.jpg
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://www.boxrec.com/media/index.php/Owney_Geoghegan
+
+'''Author/Copyright Holder's Name:''' Mechanics Delight Boxing Card
+
+'''Article To Be Used On/Reason For Upload:''' [[Owney Geoghegan]]
+
+[[Special:Contributions/72.74.210.130|72.74.210.130]] ([[User talk:72.74.210.130|talk]]) 16:18, 1 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== File:Alexander S. Williams - NYT.png ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of Police Inspector [[Alexander S. Williams]], from the [[New York Times]] (May 25, 1895).
+
+'''URL:''' http://query.nytimes.com/mem/archive-free/pdf?_r=1&res=9405E6D7133DE433A25756C2A9639C94649ED7CF
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://query.nytimes.com/mem/archive-free/pdf?_r=1&res=9405E6D7133DE433A25756C2A9639C94649ED7CF
+
+'''Author/Copyright Holder's Name:''' [[New York Times]]
+
+'''Article To Be Used On/Reason For Upload:''' [[Alexander S. Williams]]
+
+[[Special:Contributions/72.74.210.130|72.74.210.130]] ([[User talk:72.74.210.130|talk]]) 18:21, 1 January 2009 (UTC)
+{{#switch: {{lc: accept }}
+| a
+| accepted
+| accept = :[[Image:Symbol confirmed.svg|15px]] '''Image uploaded''' {{#if:File:Alexander S. Williams - NYT.png|You can find it at '''[[:File:Alexander S. Williams - NYT.png]]'''.}} Thank you for your contribution to Wikipedia!
+| d
+| declined
+| decline = :[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined.
+| ?
+| c
+| comment
+| q
+| question = :[[Image:Symbol opinion vote.svg|15px]] '''Comment:'''
+}} [[User:Seidenstud|Seidenstud]] ([[User talk:Seidenstud|talk]]) 03:09, 2 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== File:RaymondHitchcock.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' A photo/signed autograph of [[vaudevillian]] and [[silent film]] star [[Raymond Hitchcock (actor)|Raymond Hitchcock]]. 
+
+'''URL:''' http://www.vaudevillewars.com/_photos/1673.jpg
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://www.vaudevillewars.com/vaudeville-performers.html
+
+'''Author/Copyright Holder's Name:''' [[University of Washington]]
+
+'''Article To Be Used On/Reason For Upload:''' [[Raymond Hitchcock (actor)|Raymond Hitchcock]]
+
+[[Special:Contributions/72.74.210.130|72.74.210.130]] ([[User talk:72.74.210.130|talk]]) 16:09, 1 January 2009 (UTC)
+{{#switch: {{lc: accept }}
+| a
+| accepted
+| accept = :[[Image:Symbol confirmed.svg|15px]] '''Image uploaded''' {{#if:|You can find it at '''[[:{{{2}}}]]'''.}} Thank you for your contribution to Wikipedia!
+| d
+| declined
+| decline = :[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined.
+| ?
+| c
+| comment
+| q
+| question = :[[Image:Symbol opinion vote.svg|15px]] '''Comment:'''
+}} [[User talk:Msgj|Martin]] 08:59, 4 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== File:UDECU Ambulance.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' Photograph of the [[University Emergency Care Unit]]'s ambulance.  
+
+'''URL:''' http://www.udel.edu/PR/UDaily/2007/jul/UDEmergencyTeam_07lg.jpg
+
+'''License:''' Fair Use <nowiki>{{Non-free promotional}} 
+{{Non-free use rationale
+| Description       = Photograph of the [[University Emergency Care Unit]]'s ambulance.  
+| Source            = http://www.udel.edu/PR/UDaily/2007/jul/udecu071806.html
+| Article           = University Emergency Care Unit
+| Portion           = Full Image
+| Low_resolution    = Yes
+| Purpose           = To show the ambulance operated by the [[University of Delaware Emergency Care Unit]]
+| Replaceability    = No freely licensed alternatives available. 
+| other_information = 
+}}</nowiki>
+
+
+'''Link To License Information:''' n/a
+
+'''Author/Copyright Holder's Name:''' University of Delaware
+
+'''Article To Be Used On/Reason For Upload:''' [[University of Delaware Emergency Care Unit]] because it has no images.
+
+[[User:EMSbuff|EMSbuff]] ([[User talk:EMSbuff|talk]]) 02:52, 3 January 2009 (UTC)
+
+{{#switch: {{lc: d }}
+| a
+| accepted
+| accept = :[[Image:Symbol confirmed.svg|15px]] '''Image uploaded''' {{#if:|You can find it at '''[[:{{{2}}}]]'''.}} Thank you for your contribution to Wikipedia!
+| d
+| declined
+| decline = :[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined.
+| ?
+| c
+| comment
+| q
+| question = :[[Image:Symbol opinion vote.svg|15px]] '''Comment:'''
+}} Hi EMSbuff and thanks for your request. That image is replaceable because anyone can go down and take a photo of the ambulance themselves, so it doesn't qualify for fair use. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 03:31, 3 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== File:St Bonaventures High School, City Branch, Hyderabad ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:'''St Bonaventures High School, City Branch, Hyderabad 
+
+'''URL:''' http://en.wikipedia.org/wiki/St_Bonaventure%27s_High_School
+
+'''License:''' Public Domain <code>{{[[Template:PD-author|PD-author]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' 
+
+'''Author/Copyright Holder's Name:''' F H MEMON
+
+'''Article To Be Used On/Reason For Upload:''' YES
+
+[[Special:Contributions/91.104.182.156|91.104.182.156]] ([[User talk:91.104.182.156|talk]]) 09:34, 31 December 2008 (UTC)
+{{#switch: {{lc: ? }}
+| a
+| accepted
+| accept = :[[Image:Symbol confirmed.svg|15px]] '''Image uploaded''' {{#if:|You can find it at '''[[:{{{2}}}]]'''.}} Thank you for your contribution to Wikipedia!
+| d
+| declined
+| decline = :[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined.
+| ?
+| c
+| comment
+| q
+| question = :[[Image:Symbol opinion vote.svg|15px]] '''Comment:'''
+}} Please specify the URL of the image that you would like uploaded. [[User talk:Msgj|Martin]] 10:02, 31 December 2008 (UTC)
+:
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. No reply. Feel free to submit another request once you've addressed the concerns above. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 09:35, 6 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== BillyPorter.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Billy Porter]], a member of the [[George Leonidas Leslie]] burglary gang, from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Billy+Porter%22&lr=#PPA275,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Billy+Porter%22&lr=#PPA20,M1
+
+'''Author/Copyright Holder's Name:''' George W. Walling
+
+'''Article To Be Used On/Reason For Upload:''' [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.218.22|72.74.218.22]] ([[User talk:72.74.218.22|talk]]) 01:30, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:BillyPorter.jpg]]'''. Thank you for your contribution to Wikipedia!
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== EdGoodie.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Ed Goodie]], a member of the [[George Leonidas Leslie]] burglary gang, from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Eddie+Goodie%22&lr=#PPA276,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Eddie+Goodie%22&lr=#PPA20,M1
+
+'''Author/Copyright Holder's Name:''' George W. Walling
+
+'''Article To Be Used On/Reason For Upload:''' [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.218.22|72.74.218.22]] ([[User talk:72.74.218.22|talk]]) 01:34, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:EdGoodie.jpg]]'''. Thank you for your contribution to Wikipedia!
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== Millenium Window of St. Benet Biscop Catholic High School.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' This is a photograph of the Millenium Window at St. Benet Biscop Catholic High School, Northumberland, UK. It was taken in 2000
+
+'''URL:''' http://www.st-benetbiscop.org.uk/Main%20Page%20Images/Stained%20Glass%20St%20Benet%20300%20631%20Medium.jpg
+
+'''License:''' Fair use: the image is not copywrited - it is a photograph of a stained glass window at the school which was published on the school website and is frequently used elsewhere in issues relating to the school. Normally photographs of this would not be permitted to be taken out of respect.
+
+'''Link To License Information:'''  http://www.st-benetbiscop.org.uk/Main%20Pages/Our%20Patron%20Page.htm
+
+'''Author/Copyright Holder's Name:''' St. Benet Biscop Catholic High School
+
+'''Article To Be Used On/Reason For Upload:''' Because there is no picture of the window in the article relating to St. Benet Biscop Catholic High School
+
+[[Special:Contributions/90.201.48.212|90.201.48.212]] ([[User talk:90.201.48.212|talk]]) 12:39, 6 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. The bottom of [http://www.st-benetbiscop.org.uk/Main%20Pages/Our%20Patron%20Page.htm this page] asserts copyright. We are unable to upload copyrighted images (unless they qualify for fair use). Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 08:03, 7 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Crest of St. Benet Biscop Catholic High School.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' The image is the Crest of St. Benet Biscop Catholic High School, produced in 2007 (image in the centre of the web page)
+
+'''URL:''' http://www.welbeckdesign.com/portfolio/
+
+'''License:''' Copyright © 2008 Welbeck Design Ltd. 
+
+'''Link To License Information:''' http://www.welbeckdesign.com/ (bottom of page)
+
+'''Author/Copyright Holder's Name:''' Welbeck Design Ltd. 
+
+'''Article To Be Used On/Reason For Upload:''' No image of the school crest is present in the article
+
+[[Special:Contributions/90.201.48.212|90.201.48.212]] ([[User talk:90.201.48.212|talk]]) 14:56, 6 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. We are unable to upload copyrighted images (unless they qualify for fair use). Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 08:05, 7 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Sücsi Forest ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' This is a photo taken by me in the Sücsi Forest about a typical part of the nature reserve.
+
+'''URL:''' http://www.flickr.com/photos/andorp/771652681/in/set-72157600751767405/
+
+'''License:''' Public Domain <code>{{[[Template:PD-author|PD-author]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://www.flickr.com/
+
+'''Author/Copyright Holder's Name:''' Andor Pivarcsi
+
+'''Article To Be Used On/Reason For Upload:''' http://en.wikipedia.org/wiki/Kisk%C5%91r%C3%B6s
+so far there are no photos in the article about this nature reserve area. 
+
+[[Special:Contributions/80.216.110.40|80.216.110.40]] ([[User talk:80.216.110.40|talk]]) 22:00, 6 January 2009 (UTC)
+
+:[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' Hi there and thanks for your request. The image appears to be licensed as a copyrighted image (which we're unable to upload). Please consider licensing the image as Creative Commons Attribution, Creative Commons Attribution Share-Alike or Public Domain - we can use images licensed under those on Wikipedia. If you change the license, let us know back here and we'll upload it. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 08:12, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:Sücsi Forest.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 04:19, 8 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== PeteEmerson.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Pete Emerson|"Banjo" Pete Emerson]], a member of the [[George Leonidas Leslie]] burglary gang, from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Pete+Emerson%22&lr=#PPA262,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Pete+Emerson%22&lr=#PPA20,M1
+
+'''Author/Copyright Holder's Name:''' George W. Walling
+
+'''Article To Be Used On/Reason For Upload:''' [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.218.22|72.74.218.22]] ([[User talk:72.74.218.22|talk]]) 01:40, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:PeteEmerson.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:49, 8 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== DanNoble.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Dan Noble]], a 19th century [[English]] [[gentleman thief|gentleman burglar]], from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Dan+Noble%22&lr=#PPA255,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Dan+Noble%22&lr=#PPA20,M1
+
+'''Author/Copyright Holder's Name:''' Valerian Gribayedoff
+
+'''Article To Be Used On/Reason For Upload:''' [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.218.22|72.74.218.22]] ([[User talk:72.74.218.22|talk]]) 01:47, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:DanNoble.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:44, 8 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== JimmyHope.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Jimmy Hope]], a member of the [[George Leonidas Leslie]] burglary gang, from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22John+Hope%22&lr=#PPA267,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22John+Hope%22&lr=#PPA20,M1
+
+'''Author/Copyright Holder's Name:''' Valerian Gribayedoff
+
+'''Article To Be Used On/Reason For Upload:''' [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.218.22|72.74.218.22]] ([[User talk:72.74.218.22|talk]]) 01:52, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:JimmyHope.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:41, 8 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== MikeKurtz.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Mike Kurtz|Michael "Sheeney Mike" Kurtz]], a leader of the [[Dutch Mob]], from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Michael+Kurtz%22&lr=#PPA285,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Michael+Kurtz%22&lr=#PPA20,M1
+
+'''Author/Copyright Holder's Name:''' Valerian Gribayedoff
+
+'''Article To Be Used On/Reason For Upload:''' [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.218.22|72.74.218.22]] ([[User talk:72.74.218.22|talk]]) 02:01, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:MikeKurtz.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:37, 8 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Fredericka Mendelbaum2.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of a typical [[dinner party]] hosted by [[Marm Mandelbaum]], a 19th century [[fence (criminal)|criminal fence]] and underworld figure, from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Marm+Mandelbaum%22&lr=#PPA290,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Marm+Mandelbaum%22&lr=#PPA20,M1
+
+'''Author/Copyright Holder's Name:''' George W. Walling
+
+'''Article To Be Used On/Reason For Upload:''' [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.218.22|72.74.218.22]] ([[User talk:72.74.218.22|talk]]) 02:11, 7 January 2009 (UTC)
+:[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' Hi there and thanks for your requests. I can't see the images on the Google Book Search links. Can you point me to where the images are hosted? Thanks, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 09:01, 7 January 2009 (UTC)
+::The images are [http://books.google.com/books?id=b6IXAAAAYAAJ&printsec=frontcover&dq=Recollections+of+a+New+York+Chief+of+Police&lr= here] and [http://books.google.com/books?id=b6IXAAAAYAAJ here]. [[Special:Contributions/72.74.195.83|72.74.195.83]] ([[User talk:72.74.195.83|talk]]) 17:06, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:Fredericka Mendelbaum2.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:35, 8 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== JohnJourdan.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d --> 
+'''Description:''' An illustration of [[John Jourdan]], a [[police captain]] of the [[New York City Police Department]], from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22John+Jourdan%22&lr=#PPA123,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22John+Jourdan%22&lr=#PPA19,M1
+
+'''Author/Copyright Holder's Name:''' George W. Walling
+
+'''Article To Be Used On/Reason For Upload:''' [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.195.83|72.74.195.83]] ([[User talk:72.74.195.83|talk]]) 16:57, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:JohnJourdan.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:30, 8 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== NewYorkPoliceRiot.jpg == 
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of fighting at City Hall between Municipal and Metropolitan police officers during the [[New York City Police Riot|Police Riot of 1857]] from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Metropolitan+and+Municipal+police%22&lr=#PPA59,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22Metropolitan+and+Municipal+police%22&lr=#PPA19,M1
+
+'''Author/Copyright Holder's Name:''' Valerian Gribayedoff
+
+'''Article To Be Used On/Reason For Upload:''' [[New York City Police Riot|Police Riot of 1857]] 
+
+[[Special:Contributions/72.74.195.83|72.74.195.83]] ([[User talk:72.74.195.83|talk]]) 17:04, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:NewYorkPoliceRiot.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:23, 8 January 2009 (UTC) 
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== AlbertRichardson.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Albert D. Richardson]] identifying [[Daniel McFarland]] as his murderer shortly before his death. Police Captain [[Anthony J. Allaire]], who apprehended McFarland, is in the background. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=Death-Bed+Recognition&lr=#PPA102,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=Death-Bed+Recognition&lr=#PPA19,M1
+
+'''Author/Copyright Holder's Name:''' George W. Walling
+
+'''Article To Be Used On/Reason For Upload:''' [[Anthony J. Allaire]] 
+
+[[Special:Contributions/72.74.195.83|72.74.195.83]] ([[User talk:72.74.195.83|talk]]) 17:43, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:AlbertRichardson.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:16, 8 January 2009 (UTC) 
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== AnthonyAllaire.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Anthony J. Allaire]], a [[police inspector]] of the [[New York City Police Department]], from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=Anthony+J.+Allaire&lr=#PPA450,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=Anthony+J.+Allaire&lr=#PPA21,M1
+
+'''Author/Copyright Holder's Name:''' Valerian Gribayedoff
+
+'''Article To Be Used On/Reason For Upload:''' [[Anthony J. Allaire]] and [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.195.83|72.74.195.83]] ([[User talk:72.74.195.83|talk]]) 17:49, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:AnthonyAllaire.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:10, 8 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== AnthonyAllaire2.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' A photograph of [[NYPD]] [[police inspector]] [[Anthony J. Allaire]] while serving with the 133rd New York Volunteer Infantry Regiment during the [[American Civil War]]. 
+
+'''URL:''' http://www.old-picture.com/civil-war/Lieutenant-Allaire-Infantry-Colonel.htm
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://www.old-picture.com/civil-war/Lieutenant-Allaire-Infantry-Colonel.htm
+
+'''Author/Copyright Holder's Name:''' http://www.old-picture.com
+
+'''Article To Be Used On/Reason For Upload:''' [[Anthony J. Allaire]]
+
+[[Special:Contributions/72.74.195.83|72.74.195.83]] ([[User talk:72.74.195.83|talk]]) 17:56, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:Anthony J. Allaire.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 04:59, 8 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== PatsyConroy.jpg == 
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Patsy Conroy]], a 19th century river pirate and leader of the Patsy Conroy Gang, from "Criminals of America, Or, Tales of the Lives of Thieves: Enabling Every One to be His Own Detective" (1876) by Philip Farley. 
+
+'''URL:''' http://books.google.com/books?id=YNBScZWSTscC&printsec=frontcover&dq=Patsey+Conroy&lr=#PPA535,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=YNBScZWSTscC&printsec=frontcover&dq=Patsey+Conroy&lr=#PPA633,M1
+
+'''Author/Copyright Holder's Name:''' Philip Farley
+
+'''Article To Be Used On/Reason For Upload:''' [[List of historical criminals of New York City]]
+
+[[Special:Contributions/72.74.195.83|72.74.195.83]] ([[User talk:72.74.195.83|talk]]) 19:51, 7 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:PatsyConroy.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:57, 8 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== RedLeary.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Red Leary]], member of [[George Leonidas Leslie]]'s burglary gang, from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=Red+Leary&lr=#PPA303,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=Red+Leary&lr=#PPA21,M1
+
+'''Author/Copyright Holder's Name:''' Valerian Gribayedoff
+
+'''Article To Be Used On/Reason For Upload:''' [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.195.83|72.74.195.83]] ([[User talk:72.74.195.83|talk]]) 00:00, 8 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:RedLeary.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:06, 8 January 2009 (UTC) 
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== JohnnyWalsh.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of gang leader [[Johnny Walsh]] from "Recollections of a New York Chief of Police" (1887) by George W. Walling. 
+
+'''URL:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22John+Walsh%22&lr=#PPA400,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=b6IXAAAAYAAJ&pg=PA21&dq=%22John+Walsh%22&lr=#PPA21,M1
+
+'''Author/Copyright Holder's Name:''' Valerian Gribayedoff
+
+'''Article To Be Used On/Reason For Upload:''' [[Johnny Walsh]] and [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.195.83|72.74.195.83]] ([[User talk:72.74.195.83|talk]]) 00:08, 8 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:JohnnyWalsh.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:03, 8 January 2009 (UTC) 
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== Sa Dingding at ICA ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' This image is of Sa Dingding performing at the Institute of Contemporary Arts in London on 7th November 2008.
+
+'''URL:''' http://www.flickr.com/photos/thatcherryblossomtreeinthedistance/3150581046/
+
+'''License:''' Public Domain <code>{{[[Template:PD-author|PD-author]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://www.flickr.com/photos/thatcherryblossomtreeinthedistance/3150581046/
+
+'''Author/Copyright Holder's Name:''' Arun Viswambaran
+
+'''Article To Be Used On/Reason For Upload:''' Sa Dingding, as there are no images on this article.
+
+[[Special:Contributions/86.166.124.201|86.166.124.201]] ([[User talk:86.166.124.201|talk]]) 21:54, 4 January 2009 (UTC)
+:[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' On the Flickr page, all rights reserved is indicated. If you uploaded the image to Flickr, please change to copyright status on Flickr to Creative Commons BY or Creative Commons BY-SA.--[[User:Natl1|Natl1]]<small> ([[User_Talk:Natl1|Talk Page]]) ([[Special:Contributions/Natl1|Contribs]])</small> 21:17, 5 January 2009 (UTC)
+::Public domain works also. Let us know back here if you uploaded the image and can change it. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 09:33, 6 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. No response. Please submit another request after changing the copyright status of the image. Thanks, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 03:49, 12 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Muthukrishnaperi_Map ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' 
+
+'''URL:c:\Map1.jpeg''' 
+
+'''License:''' 
+
+'''Link To License Information:''' 
+
+'''Author/Copyright Holder's Name:''' 
+
+'''Article To Be Used On/Reason For Upload:''' 
+
+[[Special:Contributions/121.242.16.5|121.242.16.5]] ([[User talk:121.242.16.5|talk]]) 06:08, 6 January 2009 (UTC)
+:
+:[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' Hi there and thanks for your request. We are unable to accept images that are only stored on your computer as we are not able to access them. Please consider creating a free Flickr account (at http://flickr.com), uploading the image there and then following the instructions in the Wizard (located [[WP:Images for upload/Wizard|here]]) for Flickr images. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 09:41, 6 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. No response. Feel free to submit another request using the wizard. Thanks, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 03:51, 12 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Sentenced - Love & Death ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' This is the cover art for the EP "Love & Death" by the artist Sentenced.
+
+'''URL:''' http://www.sentenced.org/v3/kuvat/love_iso.jpg
+
+'''License:''' 
+
+'''Link To License Information:''' 
+
+'''Author/Copyright Holder's Name:''' The label, Century Media Records, or the graphic artist.
+
+'''Article To Be Used On/Reason For Upload:''' Love & Death main infobox. This an image of the cover art of the Sentenced album Love & Death.
+
+[[Special:Contributions/24.147.132.109|24.147.132.109]] ([[User talk:24.147.132.109|talk]]) 17:11, 10 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. The image is copyrighted. We are unable to upload copyrighted images unless they qualify for [[WP:Fair use|fair use]]. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 03:40, 11 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== MasroorHouse.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' This image illustrate the house of Dr. Mujahid Masroor son of Dr. Masroor Ahmed, picture taken june 2008.
+
+'''URL:''' http://wikipedia.org/imagehosting/IMG0204A.JPG
+
+'''License:''' Public Domain
+
+'''Link To License Information:''' http://wikipedia.org/Mujahid_Masroor(at the bottom of the page)
+
+'''Author/Copyright Holder's Name:''' Dr. Mujahid Masroor
+
+'''Article To Be Used On/Reason For Upload:''' Mujahid Masroor, because there is no image in the article.
+
+[[User:Mujahid Masroor|Mujahid Masroor]] ([[User talk:Mujahid Masroor|talk]]) 20:19, 7 January 2009 (UTC)
+
+:[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' Hi there and thanks for your request. We need the link to the image to be able to upload it. The links in the wizard were there as an example and aren't actually valid URLs. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 04:24, 8 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. No response. Feel free to submit another request using the wizard. Thanks, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 07:35, 14 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Matt Henney ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' Matt Henney Scoring The Only Goal In The BSN PLay Off Final 2008
+
+'''URL:''' http://www.egremont-today.com/901henney.jpg
+
+'''License:''' Public Domain <nowiki>{{pd-author}}</nowiki>
+
+'''Link To License Information:''' http://www.egremont-today.com/page1.htm
+
+'''Author/Copyright Holder's Name:''' Egremont Today
+
+'''Article To Be Used On/Reason For Upload:''' to put on the matt henney page
+
+[[Special:Contributions/86.152.70.169|86.152.70.169]] ([[User talk:86.152.70.169|talk]]) 16:49, 9 January 2009 (UTC)
+
+:[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' Hi there and thanks for your request. The page the image is on doesn't have any information about copyright. For the image to be uploaded as Public Domain the site needs to state somewhere that the image is licensed under Public Domain. Is there somewhere you could link me that proves the image is licensed under Public Domain or another license we can use on Wikipedia? Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:30, 10 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. No response. Please submit another request for this image if there's proof that the image is in the public domain somewhere on the site. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 01:22, 15 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Benedict Biscop.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' This is a depiction of Benedict Biscop, a Saint from Northumberland, United Kingdom.
+
+'''URL:''' http://www.spartacus.schoolnet.co.uk/MEDbiscop.htm (image on the left)
+
+'''License:''' Fair Use - the image has not been copywrited
+
+'''Link To License Information:''' http://www.spartacus.schoolnet.co.uk/MEDbiscop.htm
+
+'''Author/Copyright Holder's Name:''' Not copywrited
+
+'''Article To Be Used On/Reason For Upload:''' No image of Benedict Biscop exists on the article
+
+[[Special:Contributions/90.201.48.100|90.201.48.100]] ([[User talk:90.201.48.100|talk]]) 22:43, 13 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. Hi and thanks for your request. The website must specifically state that the image is licensed under a license we can use on Wikipedia for it to be able to be uploaded. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 07:41, 14 January 2009 (UTC) 
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== The Millenium Window of St. Benet Biscop Catholic High.pjg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An image of the Millenium Window at St Benet Biscop Catholic High School in Northumberland, UK. Produced in 2000
+
+'''URL:'''  http://www.iona-art-glass.co.uk/new_windows_ecc.htm
+
+'''License:''' Fair use - the image is not copywrited
+
+'''Link To License Information:''' http://www.iona-art-glass.co.uk/new_windows_ecc.htm
+
+'''Author/Copyright Holder's Name:''' the image is not copywrited
+
+'''Article To Be Used On/Reason For Upload:'''  No depiction of the  Millenium Window exists on the article on St Benet Biscop Catholic High School, despite the fact that it is mentioned frequently
+
+[[Special:Contributions/90.201.48.100|90.201.48.100]] ([[User talk:90.201.48.100|talk]]) 22:54, 13 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. The [http://www.iona-art-glass.co.uk main page] of the website states that the contents are copyrighted. We are unable to upload copyrighted images unless they qualify for [[WP:Fair use|fair use]]. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 01:42, 15 January 2009 (UTC) 
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Independence Center ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' This image is a picture of Independence Center Mall in Independence, Missouri for the Independence Center page.
+
+'''URL:''' http://www.olivebranchinn.us/images/attractions/independence-center.jpg
+
+'''License:''' Public
+
+'''Link To License Information:''' http://en.wikipedia.org/wiki/Independence_Center
+
+'''Author/Copyright Holder's Name:''' Independence Center
+
+'''Article To Be Used On/Reason For Upload:''' There is no current image on the Independence Center Page of Independence Center Mall.
+
+[[Special:Contributions/75.30.217.195|75.30.217.195]] ([[User talk:75.30.217.195|talk]]) 23:54, 13 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. Every page on the website says it's copyrighted; if you live near there, why not take your own picture? [[User:Empire3131|Empire3131]] ([[User talk:Empire3131|talk]]) 00:55, 14 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== MaxHochstein.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Max Hochstein]], a [[Tammany Hall]] political organizer and "fixer" for [[ward boss]] [[Charles S. Solomon|Charles "Silver Dollar" Smith]], from "The American Metropolis from Knickerboxer Days to the Present Time" (1897) by Frank Moss. 
+
+'''URL:''' http://books.google.com/books?id=UDR8goLuR0IC&pg=PA22&dq=%22Max+Hochstim%22#PPA232,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=UDR8goLuR0IC&pg=PA22&dq=%22Max+Hochstim%22#PPA7,M1
+
+'''Author/Copyright Holder's Name:''' Frank Moss
+
+'''Article To Be Used On/Reason For Upload:''' [[List of historical criminals of New York City]]
+
+[[Special:Contributions/71.184.55.34|71.184.55.34]] ([[User talk:71.184.55.34|talk]]) 03:00, 14 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:Max Hochstein.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 03:01, 15 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Ditcher.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:'''  This is a image of Ditcher
+
+'''URL:''' http://www.freewebs.com/ditcheronline/ditcher.jpg
+
+'''License:''' Public Domain <code>{{[[Template:PD-author|PD-author]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' 
+
+'''Author/Copyright Holder's Name:''' Ditcher
+
+'''Article To Be Used On/Reason For Upload:''' Ditcher, because there's currently no images in the article.
+
+[[User:Ditcher|Ditcher]] ([[User talk:Ditcher|talk]]) 03:57, 14 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. There's no indication of copyright status on the website. Additionally the article [[Ditcher]] doesn't exist. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 01:45, 15 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== shivaji mane IMG0247A.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' 
+
+'''URL:''' 
+
+'''License:''' Creative Commons Attribution-Share Alike <code>{{[[Template:CC-by-sa-3.0|CC-by-sa-3.0]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' 
+
+'''Author/Copyright Holder's Name:''' 
+
+'''Article To Be Used On/Reason For Upload:''' 
+
+[[Special:Contributions/59.96.89.66|59.96.89.66]] ([[User talk:59.96.89.66|talk]]) 16:17, 10 January 2009 (UTC)
+
+:[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' Hi and thanks for your request. We need all of the information the wizard asks for to be able to upload the image, like the URL of the image - where to find it on the internet. Please either edit your request (you can click the [edit] button by the title: shivaji mane IMG0247A.jpg) or submit a new request using the wizard filling in all the information it asks for. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 03:37, 11 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. Your request has been declined. No response. Feel free to submit another request using the wizard. Thanks, [[User:Empire3131|Empire3131]] ([[User talk:Empire3131|talk]]) 18:25, 16 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Saint Benet Biscop.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' Drawing of St. Benet Biscop - a Northumbrian Saint.
+
+'''URL:''' http://www.sunderland.gov.uk/libraries/Leaflets/Benedict%20Biscop.pdf (at top left of page)
+
+'''License:''' Fair Use - the image is not copywrited
+
+'''Link To License Information:''' http://www.sunderland.gov.uk/libraries/Leaflets/Benedict%20Biscop.pdf
+
+'''Author/Copyright Holder's Name:'''  the image is not copywrited
+
+'''Article To Be Used On/Reason For Upload:''' No image exists on wikipedia of the Saint.
+
+[[Special:Contributions/90.201.48.100|90.201.48.100]] ([[User talk:90.201.48.100|talk]]) 22:49, 13 January 2009 (UTC)
+:
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. Sorry, unless the website says it's not copyrighted, then it probably is. You might like to read [[Wikipedia:Images#Finding images on the Internet|Finding images on the Internet]] [[User talk:Msgj|Martin]] 15:23, 15 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== Nina Dobrev in 2007.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:'''this is just a picture of Nina Dobrev
+
+'''URL:'''http://www.celebritywonder.com/picture/Nina_Dobrev/ActressNinaD_John_Shea_15727184.jpg 
+
+'''License:''' Creative Commons Attribution <code>{{[[Template:Cc-by-3.0|Cc-by-3.0]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' 
+
+'''Author/Copyright Holder's Name:'''Alexander william 
+
+'''Article To Be Used On/Reason For Upload:'''Nina Dobrev, she has n pictures online. 
+
+[[Special:Contributions/98.114.93.155|98.114.93.155]] ([[User talk:98.114.93.155|talk]]) 18:51, 16 January 2009 (UTC)
+:Images appear to have been uploaded to celebritywonder.com in violation of WireImage's copyright. [[User:Wronkiew|Wronkiew]] ([[User talk:Wronkiew|talk]]) 19:06, 16 January 2009 (UTC)
+::Possibly, but we cannot be sure about that can we ... only speculate. [[User talk:Msgj|Martin]] 20:49, 16 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. Hi and thanks for your request. I'm going to decline this request because it looks like the images would be copyrighted. CelebrityWonder has a copyright notice on the bottom of at least some of their pages. I'd also be more willing to say WireImage (watermarked copyright) is the actual copyright holder of the images because they're part of GettyImages. If you can find a appropriately licensed image of Nina Dobrev for Wikipedia we'd be happy to upload it. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 09:19, 17 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Manny-Pacquiao-01-0503b.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' This image illustrates Manny-Pacquiao courtesy HBO
+
+'''URL:''' http://www.canadastarboxing.com/images/fighters/Manny-Pacquiao-01-0503b.jpg
+
+'''License:''' Canadastar Boxing Inc
+
+'''Link To License Information:''' http://www.canadastarboxing.com/Fighters/manny-pacquiao-record.htm (at the bottom of the page)
+
+'''Author/Copyright Holder's Name:''' Canadastar Boxing Inc
+
+'''Article To Be Used On/Reason For Upload:''' Manny-Pacquiao,  because there's currently no new images of him. 
+
+[[Special:Contributions/67.174.249.62|67.174.249.62]] ([[User talk:67.174.249.62|talk]]) 10:16, 17 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. Hi, Welcome to Wikipedia. We can not upload copyrighted images.  [[User:Empire3131|Empire3131]] ([[User talk:Empire3131|talk]]) 17:30, 17 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== Photo upload request for Elon Bomani ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:'''  Elon Bomani.jpg - Professional Photo of Dr. Elon Bomani taken in 2007.
+
+'''URL:'''  http://www.thedynamicdiva.com/media.html  (please use center photo)
+
+'''License:''' Creative Commons Attribution <code>{{[[Template:Cc-by-3.0|Cc-by-3.0]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' 
+
+'''Author/Copyright Holder's Name:''' Dr. Elon Bomani
+
+'''Article To Be Used On/Reason For Upload:'''  Should be used on Elon Bomani's Wikipedia entry at: en.wikipedia.org/wiki/Elon_Bomani - 25k 
+Thanks.
+[[Special:Contributions/75.110.78.125|75.110.78.125]] ([[User talk:75.110.78.125|talk]]) 15:11, 15 January 2009 (UTC)
+
+:[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' If this is your photograph and website, please email the form at [[WP:CONSENT]] to the address mentioned there, and post back here when you have done that. If it is not yours then I'm afraid it's copywritten and cannot be uploaded without permission. [[User talk:Msgj|Martin]] 15:40, 15 January 2009 (UTC)
+::
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. No response [[User:Empire3131|Empire3131]] ([[User talk:Empire3131|talk]]) 02:38, 20 January 2009 (UTC) 
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== JohnDecker.gif ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+
+'''Description:''' An 1863 illustration of [[John Decker (fire chief)|John Decker]], [[fire chief]] of the [[New York City Fire Department|New York Volunteer Fire Brigade]], as appearing in "Reminiscences of the Old Fire Laddies and Volunteer Fire Departments of New York and Brooklyn" (1885) by J. Frank Kernan. 
+
+'''URL:''' http://books.google.com/books?id=D2QEAAAAYAAJ&pg=PP19&dq=%22John+Decker#PPA14,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=D2QEAAAAYAAJ&pg=PP19&vq=Decker&dq=%22John+Decker&source=gbs_search_s&cad=0
+
+'''Author/Copyright Holder's Name:''' J. Frank Kernan
+
+'''Article To Be Used On/Reason For Upload:''' [[John Decker (fire chief)]] or [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.206.153|72.74.206.153]] ([[User talk:72.74.206.153|talk]]) 01:11, 21 January 2009 (UTC)
+
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:JohnDecker.gif]]'''. Thank you for your contribution to Wikipedia! [[User:Natl1|Natl1]]<small> ([[User_Talk:Natl1|Talk Page]]) ([[Special:Contributions/Natl1|Contribs]])</small> 21:00, 21 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== JoeHowardJr.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An illustration of [[Joe Howard, Jr.]], longtime reporter for the ''[[New York Times]]'' and city editor of the ''[[Brooklyn Eagle]]'', as appearing in ''[[Harper's Weekly]]'', June 4, 1864. 
+
+'''URL:''' http://www.museumofhoaxes.com/gold.html
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://www.museumofhoaxes.com/gold.html
+
+'''Author/Copyright Holder's Name:''' ''[[Harper's Weekly]]''
+
+'''Article To Be Used On/Reason For Upload:''' [[Joe Howard, Jr.]]
+
+[[Special:Contributions/72.74.206.153|72.74.206.153]] ([[User talk:72.74.206.153|talk]]) 01:31, 21 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:JoeHowardJr.jpg]]'''. Thank you for your contribution to Wikipedia!--[[User:Natl1|Natl1]]<small> ([[User_Talk:Natl1|Talk Page]]) ([[Special:Contributions/Natl1|Contribs]])</small> 20:49, 21 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== JohnDecker2.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d --> 
+'''Description:''' An 1885 illustration of [[John Decker (fire chief)|John Decker]], [[fire chief]] of the [[New York City Fire Department|New York Volunteer Fire Brigade]], as appearing in "Reminiscences of the Old Fire Laddies and Volunteer Fire Departments of New York and Brooklyn" (1885) by J. Frank Kernan. 
+
+'''URL:''' http://books.google.com/books?id=D2QEAAAAYAAJ&pg=PP19&dq=%22John+Decker#PPA424,M1
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=D2QEAAAAYAAJ&pg=PP20&vq=Decker&dq=%22John+Decker&source=gbs_search_s&cad=0
+
+'''Author/Copyright Holder's Name:''' J. Frank Kernan
+
+'''Article To Be Used On/Reason For Upload:''' [[John Decker (fire chief)]] or [[List of historical criminals of New York City]] 
+
+[[Special:Contributions/72.74.206.153|72.74.206.153]] ([[User talk:72.74.206.153|talk]]) 01:17, 21 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:JohnDecker2.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 04:24, 24 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== JohnDecker3.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' An 1863 illustration of [[John Decker (fire chief)|John Decker]], [[fire chief]] of the [[New York City Fire Department|New York Volunteer Fire Brigade]], being attacked by rioters during the [[New York Draft Riots]]. The image appears in "Historic Fires of New York City" (2005) by Glenn P. Corbett and Donald J. Cannon. 
+
+'''URL:''' http://books.google.com/books?id=fVgI0wgnxusC&pg=PA34&vq=Decker&dq=%22John+Decker&lr=&source=gbs_search_s&cad=0
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://books.google.com/books?id=fVgI0wgnxusC&pg=PA6
+
+'''Author/Copyright Holder's Name:''' Glenn P. Corbett and Donald J. Cannon
+
+'''Article To Be Used On/Reason For Upload:''' [[John Decker (fire chief)]] or [[New York Draft Riots]]. 
+
+[[Special:Contributions/72.74.206.153|72.74.206.153]] ([[User talk:72.74.206.153|talk]]) 01:26, 21 January 2009 (UTC)
+
+[[Image:Symbol question.svg|17px]] '''Question Do you have proof that this image was published before 1923? The book was copyrighted in 2005 and makes no mention of a previous publication.'''--[[User:Terrillja|<font color="003300">Terrillja</font>]][[User Talk:Terrillja|<font color="black"><sub> talk</sub></font>]] 22:02, 21 January 2009 (UTC)
+
+:*In the link provided to the licence information, unfortunatly while there are no individual citations, the author states the images provided in the book are in the public domain sources such as musuems (Mand Library, FASNY Museum of Firefighting) and government agencies ([[Library of Congress]]). While there may be exceptions to modern photographs from the FDNY Photo Unit, ''Fire Engineering'' magazine and individual photographers, the image in question is clearly a newspaper illustration from 1863. Could this be used under fair use ? [[Special:Contributions/72.74.221.198|72.74.221.198]] ([[User talk:72.74.221.198|talk]]) 01:26, 22 January 2009 (UTC)
+::I think there's proof enough that the images would be in public domain. Because I'm in New Zealand I can't access the full version of Google Books though to upload them. '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 02:59, 24 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:JohnDecker3.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 04:33, 24 January 2009 (UTC) 
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== Sean O'pry photographed by me, Bert Hamilton, in 2006. ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' Sean O'pry photographed by Bert Hamilton in 2006.
+
+'''URL:''' http://hamilton.home.comcast.net/~hamilton/DSC_0617resized.jpg
+
+'''License:''' Creative Commons Attribution <code>{{[[Template:Cc-by-3.0|Cc-by-3.0]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' 
+
+'''Author/Copyright Holder's Name:''' http://en.wikipedia.org/wiki/Sean_O%27Pry (at the bottom of the page) 
+
+'''Article To Be Used On/Reason For Upload:''' Sean O'pry, because there's currently no images in the article.
+
+[[Special:Contributions/76.20.251.15|76.20.251.15]] ([[User talk:76.20.251.15|talk]]) 17:38, 24 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. Hi and thanks for your request. Because the website states "All images including web design are copyrighted all rights reserved & may not be published or used in any way shape or form in any manner or media." we can't upload the image. If you are the copyright holder of the work consider creating an account on [[Flickr]] and uploading the image there under an appropriate license (CC-BY is fine), then going through the Flickr part of the wizard process. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 06:45, 25 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== FederalVanderburgh.jpg ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' A photograph of American doctor and [[homeopathist]] Dr. [[Federal Vanderburgh]]. 
+
+'''URL:''' http://www.homeoint.org/seror/biograph/vanderburgh.htm
+
+'''License:''' Was first published in the US before 1923 <code>{{[[Template:PD-US|PD-US]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://www.homeoint.org/seror/biograph/vanderburgh.htm
+
+'''Author/Copyright Holder's Name:''' Dr. Robert Seror
+
+'''Article To Be Used On/Reason For Upload:''' [[Federal Vanderburgh]]
+
+[[Special:Contributions/72.74.226.36|72.74.226.36]] ([[User talk:72.74.226.36|talk]]) 06:17, 26 January 2009 (UTC)
+
+:[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' Hey and thanks for your request. It looks like the image is copyrighted according to the site it's on. Could you link us to somewhere that would prove the image is in Public Domain? Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 08:28, 27 January 2009 (UTC)
+'''Comment'''. The photograph was taken sometime prior to his death in 1868. I assume it was published in one of the several books used to write the article which were all published before 1923. Could the image be used under fair use ? [[Special:Contributions/72.74.205.199|72.74.205.199]] ([[User talk:72.74.205.199|talk]]) 08:42, 27 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:FederalVanderburgh.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 07:10, 28 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== Current View of Red Top Service Station, and Caboose ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' Photos Taken by Tourists along Route 66
+
+'''URL:''' 
+
+'''License:''' Public Domain
+
+'''Link To License Information:''' None
+
+'''Author/Copyright Holder's Name:''' 
+
+'''Article To Be Used On/Reason For Upload:''' 
+
+[[Special:Contributions/207.160.234.129|207.160.234.129]] ([[User talk:207.160.234.129|talk]]) 18:35, 21 January 2009 (UTC)
+
+[[Image:Symbol opinion vote.svg|20px]] '''Comment:''' You didn't provide a link to the image to be uploaded.--[[User:Terrillja|<font color="003300">Terrillja</font>]][[User Talk:Terrillja|<font color="black"><sub> talk</sub></font>]] 21:59, 21 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. No response. Feel free to resubmit using the wizard. '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 01:20, 30 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Actin microfilament model ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' A model of actin microfilament, asymmetric unit is highlighted. The model is constructed with perfect helical symmetry imposed.
+
+'''URL:''' http://nano-d.inrialpes.fr/wp-content/gallery/samson/samsonsnapshotmicrofil03.png
+
+'''License:''' Creative Commons Attribution <code>{{[[Template:Cc-by-3.0|Cc-by-3.0]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' 
+
+'''Author/Copyright Holder's Name:''' Sergei Grudinin, NANO-D, INRIA Rhone-Alpes
+
+'''Article To Be Used On/Reason For Upload:''' actin, microfilament
+[[Special:Contributions/88.164.116.162|88.164.116.162]] ([[User talk:88.164.116.162|talk]]) 22:34, 15 January 2009 (UTC)
+
+:[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' Because the website doesn't say anything about copyright we have to assume that the image would be copyrighted. If you own the image or can otherwise prove that the image is licensed under an appropriate license for Wikipedia please post back and we'll go from there. Thanks, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:58, 16 January 2009 (UTC)
+::[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. no response 02:36, 20 January 2009 (UTC) <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Empire3131|Empire3131]] ([[User talk:Empire3131|talk]] • [[Special:Contributions/Empire3131|contribs]]) </span></small><!-- Template:Unsigned -->
+:::[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' Reopening per note on my talk page. '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 03:26, 24 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. No response. Feel free to resubmit using the wizard. '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 01:21, 30 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Namman Muay Liniment USA FDA Registered ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' This image illustrates the Namman Muay Liniment Image, picture was taken in Dec 2008
+
+'''URL:''' http://www.flickr.com/photos/34552858@N03/3213981046/
+
+'''License:''' Public Domain <code>{{[[Template:PD-author|PD-author]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://www.flickr.com/photos/34552858@N03/3213981046/
+
+'''Author/Copyright Holder's Name:''' Anthony Salcedo
+
+'''Article To Be Used On/Reason For Upload:''' [[Namman Muay Liniment]], because there's currently no images in the article
+
+[[User:Nakmuay007|Nakmuay007]] ([[User talk:Nakmuay007|talk]]) 23:32, 20 January 2009 (UTC)
+:'''Comment:''' On the Flickr page, all rights reserved is indicated. If you uploaded the image to Flickr, please change to copyright status on Flickr to Creative Commons BY or Creative Commons BY-SA or Public Domain. thanks. [[User:Empire3131|Empire3131]] ([[User talk:Empire3131|talk]]) 23:42, 20 January 2009 (UTC)
+
+:[[Image:Symbol opinion vote.svg|15px]] '''Comment:''' Hey and thanks for your request. "I, the copyright holder of this work, hereby release it into the public domain" is in the images description, but if we upload the image, to the bots that review the requests it'll still look like it's copyrighted. If you have access to do so, like Empire3131 said, you can change the license status on the image to a suitable one, or ask the person who uploaded the image to do that. After that if you edit this request in saying you have done so or submit a new one if this one's been declined because of no response we'll upload the image. Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 02:57, 24 January 2009 (UTC)
+::Note that the article does not exist. [[User:Empire3131|Empire3131]] ([[User talk:Empire3131|talk]]) 23:12, 24 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. No response '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 01:23, 30 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+
+== Halifax ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#ffcece" | [[Image:Symbol oppose vote.svg|declined|14px]] This image for upload request has been declined. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' Halifax the band for their wikipedia page. They don't have a pic so i want to put this on there.
+
+'''URL:''' http://viewmorepics.myspace.com/index.cfm?fuseaction=viewImage&friendID=677658&albumID=1013525&imageID=40996182
+
+'''License:''' Public Domain <code>{{[[Template:PD-author|PD-author]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' 
+
+'''Author/Copyright Holder's Name:''' Taken by their photographer Juan Fiesta.
+
+'''Article To Be Used On/Reason For Upload:''' Halifax (band). No pic i want one.  
+
+[[Special:Contributions/24.21.158.82|24.21.158.82]] ([[User talk:24.21.158.82|talk]]) 00:11, 22 January 2009 (UTC)
+
+[[Image:Symbol question.svg|17px]] '''Question. ''' Are you the copyright holder, Juan Fiesta? Your licensing claims that you are the author. --[[User:Terrillja|<font color="003300">Terrillja</font>]][[User Talk:Terrillja|<font color="black"><sub> talk</sub></font>]] 00:23, 22 January 2009 (UTC)
+:Hi and thanks for your request. Is there anywhere that you could like to that could prove that the image is licensed under Public Domain? If not and you're the author or know the author they could create a free [[Flickr]] account, upload the image there under an appropriate license then you could go through the Flickr part of the Wizard process. @Terrillja PD-Author can be used if the author is the person who released the image into Public Domain but it doesn't necessarily have to be the uploader. The Wizard automatically adds in the tags for the license selected, so they can usually be ignored (they are sometimes confusing). Regards, '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 03:05, 24 January 2009 (UTC)
+
+:[[Image:Symbol_declined.svg|15px]] '''Image upload request declined.''' Your request has been declined. No response '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 01:24, 30 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}
+== Sean O'Pry ==
+
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color:#A0FFA0" | [[Image:Symbol support vote.svg|declined|14px]] This image for upload request has been accepted. <span style="color:red;">Please do not modify it.</span>
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white;" |
+<div class="boilerplate metadata afc" style="background-color:#E0E0E0; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">''This request for upload has been reviewed.  The reviewer comments appear below the submission text.''
+<!--Template:Ifu d -->
+'''Description:''' Sean O'Pry photographed by Bert Hamilton in 2006.
+
+'''URL:''' http://farm4.static.flickr.com/3477/3229507367_8e11ba34d9.jpg?v=0
+
+'''License:''' Creative Commons Attribution <code>{{[[Template:Cc-by-3.0|Cc-by-3.0]]}}</code>
+<!-- You should be OK to leave the above section alone --> 
+
+'''Link To License Information:''' http://www.flickr.com/photos/23982751@N04/3229507367/
+
+'''Author/Copyright Holder's Name:''' Bert Hamilton
+
+'''Article To Be Used On/Reason For Upload:''' Sean O'Pry, because there's currently no images in the article.
+
+[[User:Ganymedecallisto|Ganymedecallisto]] ([[User talk:Ganymedecallisto|talk]]) 02:54, 27 January 2009 (UTC)
+
+:[[Image:Symbol opinion vote.svg|20px]] '''Comment:''' The license for the image specifies that all rights are reserved. If you would like to have this image uploaded, either you or the owner of the image must change the license on Flickr to one we can use, such as CC-by.--[[User:Terrillja|<font color="003300">Terrillja</font>]][[User Talk:Terrillja|<font color="black"><sub> talk</sub></font>]] 03:08, 27 January 2009 (UTC)
+::I made the necessary changes within my Flickr account. [[User:Ganymedecallisto|Ganymedecallisto]] ([[User talk:Ganymedecallisto|talk]]) 03:40, 31 January 2009 (UTC)
+
+:[[Image:Symbol confirmed.svg|15px]] '''Image uploaded.''' You can find it at '''[[:File:Sean O'Pry.jpg]]'''. Thank you for your contribution to Wikipedia! '''<font size="2" face="Verdana">[[User:Matt.T|<span style="color:green">Matt</span>]] <span style="color:darkgreen">(</span>[[User talk:Matt.T|<span style="color:darkgreen">Talk</span>]]<span style="color:darkgreen">)</span></font>''' 05:15, 31 January 2009 (UTC)
+|-
+| style="text-align:center;" | ''This is an archived discussion. <span style="color:red;">'''Please do not modify it.'''</span>''
+|}

@@ -1,0 +1,13 @@
+{{#if:yes|<noinclude>[[Category:Passed DYK nominations&nbsp;from October 2012]]<div style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived discussion of the DYK nomination of the article below. <span style="color:red">'''Please do not modify this page.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as [[{{TALKPAGENAME}}|this nomination's talk page]], [[Talk:{{SUBPAGENAME}}|the article's talk page]] or [[Wikipedia talk:Did you know]]), unless there is consensus to re-open the discussion at this page.  '''No further edits should be made to this page'''.''
+
+The result was: '''promoted''' by ''[[User: Allen3|Allen3]]''&nbsp;<sup>[[User talk:Allen3|talk]]</sup> 09:36, 10 October 2012 (UTC)<br />}}
+====Nectophrynoides tornieri====
+{{DYK nompage links|nompage=Nectophrynoides tornieri|Nectophrynoides tornieri}}
+*... that the female '''[[Nectophrynoides tornieri|Tornier's forest toad]]''' is [[Vivipary|viviparous]] and has been known to carry 35 young at one time?
+:*''Reviewed'': [[Template:Did you know nominations/Hairstyles in the 1950s|Hairstyles in the 1950s]]
+<small>Created/expanded  by [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]).  Self nom at 05:50, 9 October 2012 (UTC)</small>
+
+:*[[File:Symbol question.svg|16px]]Article: Five-fold expansion, long enough (2243 chars), meets policy. Hook: format ok, interesting, the viviparous part needs an inline citation unless it is OK to reference a whole paragraph with a single citation. [[User:Bamse|bamse]] ([[User talk:Bamse|talk]]) 08:16, 9 October 2012 (UTC)
+::*Thank you. I have added an extra reference. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 12:47, 9 October 2012 (UTC)
+:::*[[File:Symbol confirmed.svg|16px]] Thank you. Ready to go. [[User:Bamse|bamse]] ([[User talk:Bamse|talk]]) 15:30, 9 October 2012 (UTC){{#if:yes|</div></noinclude>|{{#ifeq:{{FULLPAGENAME}}|Template talk:Did you know/{{SUBPAGENAME}}|[[Category:Pending DYK nominations]]|{{#ifeq:{{FULLPAGENAME}}|Template:Did you know nominations/{{SUBPAGENAME}}|[[Category:Pending DYK nominations]]}}}}}}<!--Please do not write below this line or remove this line. Place comments above this line.-->

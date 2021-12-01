@@ -1,0 +1,29 @@
+{{Use dmy dates|date=March 2018}}
+{{Infobox sportsperson
+| name           = Philippos Xenophontos
+| full_name      = 
+| image          = 
+| caption        = 
+| nationality    = Cypriot
+| sport          = [[Alpine skiing]]
+| birth_date     = {{birth date and age|1953|10|17|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+}}
+
+'''Philippos Xenophontos''' (born 17 October 1953) is a Cypriot [[Alpine skiing|alpine skier]]. He competed in [[Alpine skiing at the 1980 Winter Olympics|two events]] at the [[1980 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/xe/philippos-xenophontos-1.html |archive-url=https://web.archive.org/web/20200418122609/https://www.sports-reference.com/olympics/athletes/xe/philippos-xenophontos-1.html |url-status=dead |archive-date=18 April 2020 |title=Philippos Xenophontos Olympic Results |accessdate=20 March 2018}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Xenophontos, Philippos}}
+[[Category:1953 births]]
+[[Category:Living people]]
+[[Category:Cypriot male alpine skiers]]
+[[Category:Olympic alpine skiers of Cyprus]]
+[[Category:Alpine skiers at the 1980 Winter Olympics]]
+[[Category:Place of birth missing (living people)]]
+{{Cyprus-alpine-skiing-bio-stub}}

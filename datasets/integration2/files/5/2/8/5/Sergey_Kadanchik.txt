@@ -1,0 +1,51 @@
+{{Infobox military person
+| name = Sergey Nikolaevich Kadanchik
+| native_name = Сергей Николаевич Каданчик
+| image = 
+| birth_date = 12 September 1906
+| death_date = 15 September 1943
+| birth_place = [[Asipovichy District|Moiseyevichi]], [[Bobruysky Uyezd]], [[Minsk Governorate]], [[Russian Empire]]
+| death_place = [[Novorossiysk]]
+| allegiance = [[Soviet Union]]
+| branch = [[Red Army]]
+| serviceyears = 1928–43
+| rank = [[Lieutenant colonel]]
+| unit = [[318th Rifle Division (Soviet Union)|318th Rifle Division]]
+| battles = [[Soviet invasion of Poland]]<br>
+[[Winter War]]<br>
+[[World War II]]
+*[[Novorossiysk Amphibious Operation]]
+| awards = [[Hero of the Soviet Union]]<br>[[Order of Lenin]] (2)<br>[[Order of the Red Banner]]<br>[[Order of the Red Star]]
+}}
+
+'''Sergey Nikolaevich Kadanchik''' (Russian: Сергей Николаевич Каданчик; 12 September 1906 – 15 September 1943) was a Belarusian [[Red Army]] [[lieutenant colonel]] and posthumous [[Hero of the Soviet Union]]. After being drafted into the Red Army in 1928, Kadanchik graduated from officer training courses and fought in the [[Soviet invasion of Poland]] and the [[Winter War]] in 1939–40. He became a regimental commander in December 1942 and in September 1943 led it during the [[Novorossiysk|Novorossiysk Amphibious Operation]]. Kadanchik was killed when a shell hit the observation post where he was positioned. For his actions, Kadanchik was posthumously awarded the title Hero of the Soviet Union.<ref name=":0">{{Ruheroes|name=Sergey Kadanchik|id=10275}}</ref>
+
+== Early life and Interwar years ==
+Kadanchik was born on 12 September 1906 in the village of Moiseyevichi in [[Minsk Governorate]] to a peasant family. He graduated from primary school and was drafted into the Red Army in 1928. In 1932, Kadanchik graduated from the Kiev United Training Courses for Red Army commanders. He fought in the Soviet invasion of Poland in September 1939 and the Winter War with Finland the following year. Kadanchik joined the [[Communist Party of the Soviet Union]] in 1940.<ref name=":0" /><ref name=":1">{{Cite book|url=http://www.az-libr.ru/index.htm?Persons&A04/f0a21a78/index|title=Герои Советского Союза: Краткий биографический словарь|publisher=Voenizdat|year=1987|editor-last=Shkadov|editor-first=Ivan|volume=1 Abaev-Lubitsch|location=Moscow|language=Russian|trans-title=Heroes of the Soviet Union: A Brief Biographical Dictionary}}</ref>
+
+== World War II ==
+Following the German invasion of the Soviet Union, Kadanchik fought in combat from 22 June 1941. He fought on the [[Southern Front (Soviet Union)|Southern Front]], [[Southwestern Front (Soviet Union)|Southwestern Front]], [[Transcaucasian Front]] and [[North Caucasian Front]]. On 13 December 1942, Kadanchik was appointed commander of the 1339th Rifle Regiment of the [[318th Rifle Division (Soviet Union)|318th Rifle Division]].<ref>{{Cite web|url=http://samsv.narod.ru/Div/Sd/sd318/main.html|title=318-я стрелковая дивизия|last=|first=|date=|website=samsv.narod.ru|publisher=|language=Russian|trans-title=318th Rifle Division|archive-url=https://web.archive.org/web/20160617143531/http://samsv.narod.ru/Div/Sd/sd318/main.html|archive-date=17 June 2016|access-date=2016-05-21}}</ref> On 24 April 1943, he was awarded the [[Order of the Red Banner]].<ref>Order No. 24, 18th Army, available online at [https://pamyat-naroda.ru/heroes/podvig-chelovek_nagrazhdenie16372813/ pamyat-naroda.ru]</ref> During the Novorossiysk Amphibious Operation in September 1943, the regiment was to capture the area from the eastern breakwater to Staropassazhirskoy and advance to the outskirts of Mefodiyevsky.<ref name=":0" />  
+
+The landing began on 9 September. Before reaching the shore, Kadanchik's boat sank after it hit a mine. He was rescued by a ship returning to [[Gelendzhik]]. Kadanchik arrived on the beachhead before the evening. Lieutenant General [[Ivan Yefimovich Petrov|Ivan  Petrov]], commander of the [[North Caucasian Front]], concluded that a breakthrough in the German line would be most likely to succeed in the sector assigned to Kadanchik's regiment. During the second half of 10 September the Germans brought up reinforcements, launching seven counterattacks. These were repulsed but by the evening some elements of the regiment had been pushed back to the sea. During the night German attacks forced the regiment back to the coast and it became surrounded. Kadanchik was killed on 15 September<ref name=":1" /> when a German shell hit the bell tower from where he was observing the fighting.<ref name=":0" /><ref>{{Cite book|url=http://militera.lib.ru/memo/russian/laskin_ia2/07.html|title=У Волги и на Кубани|last=Laskin|first=Ivan|publisher=Voenizdat|year=1986|location=Moscow|pages=180–216|language=Russian|trans-title=In Volga and in the Kuban}}</ref> 
+
+On 18 September, for actions during the Novorossiysk operation Kadanchik was awarded the title Hero of the Soviet Union and the [[Order of Lenin]]. <ref>Hero of the Soviet Union award list, available online at [https://pamyat-naroda.ru/heroes/podvig-chelovek_nagrazhdenie12096718/ pamyat-naroda.ru]</ref>He was buried in Gelendzhik <ref>Irretrievable loss report, 5 October 1943, 318th Rifle Division, available online at [https://pamyat-naroda.ru/heroes/memorial-chelovek_donesenie4575831/ pamyat-naroda.ru]</ref>and was reburied in a mass grave in the Heroes Square of Novorossiysk.<ref name=":0" /><ref name=":1" />
+
+== Legacy ==
+Streets in Novorossiysk and [[Osipovichi]] are named for Kadanchik. There is also a fishing trawler named for him, as well as a memorial plaque at the school in Moiseyevichi.<ref name=":0" /><ref name=":1" />
+
+== References ==
+<references />
+
+{{DEFAULTSORT:Kadanchik, Sergey}}
+[[Category:1906 births]]
+[[Category:1943 deaths]]
+[[Category:People from Asipovichy District]]
+[[Category:People from Bobruysky Uyezd]]
+[[Category:Communist Party of the Soviet Union members]]
+[[Category:Soviet Army officers]]
+[[Category:People of the Soviet invasion of Poland]]
+[[Category:Soviet military personnel of the Winter War]]
+[[Category:Soviet military personnel killed in World War II]]
+[[Category:Heroes of the Soviet Union]]
+[[Category:Recipients of the Order of Lenin]]
+[[Category:Recipients of the Order of the Red Banner]]

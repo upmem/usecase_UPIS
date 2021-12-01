@@ -1,0 +1,51 @@
+{{Infobox album
+| name       = Tiger Trap
+| type       = Studio
+| artist     = [[Tiger Trap]]
+| cover      = Tiger_Trap.jpg
+| alt        =
+| released   = 25 May 1993<ref>{{Cite web|url=https://tigertrapband.bandcamp.com/album/tiger-trap-klp017|title=Tiger Trap [KLP017], by Tiger Trap|website=Tiger Trap|access-date=2019-06-01}}</ref>
+| recorded   = 1993
+| venue      =
+| studio     =
+| genre      = [[Twee pop]], [[indie pop]]
+| length     =
+| label      = [[K Records]]
+| producer   = [[Calvin Johnson (musician)|Calvin Johnson]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+{{Album ratings
+| rev1 = [[Allmusic]]
+| rev1score =  {{Rating|4.5|5}}<ref>{{Allmusic|class=album|id=r215958}}</ref>
+| rev2 = [[Robert Christgau]]
+| rev2score= {{rating-Christgau|neither}}<ref>{{Cite web |url=https://www.robertchristgau.com/get_artist.php?id=3926&name=Tiger+Trap |title=Tiger Trap Reviews |last=Christgau |first=Robert |authorlink=Robert Christgau |website=Robertchristgau.com}}</ref>
+| rev3= ''[[Billboard (magazine)|Billboard]]''
+| rev3score= (favorable)<ref>{{Cite magazine |date=1993-07-10 |editor-last=Verna |editor-first=Paul |editor2-last=Morris |editor2-first=Chris |editor3-last=Morris |editor3-first=Edward |title=Album Reviews |url=https://books.google.com/books?id=CxAEAAAAMBAJ&pg=PA46 |magazine=[[Billboard (magazine)|Billboard]] |page=46}}</ref> 
+}}
+
+'''''Tiger Trap''''' is the only album released by the band [[Tiger Trap]]. It was released in 1993 on [[K Records]] and was produced by [[Calvin Johnson (musician)| Calvin Johnson]]. With about 10,000 copies sold, it was K Records' best-selling album until they released [[Beck]]'s ''[[One Foot in the Grave (album) | One Foot in the Grave]]'' the following year.<ref>{{Cite web |url=http://articles.latimes.com/1994-06-26/entertainment/ca-8567_1_mellow-gold |title=Pop Eye |last=Hochman |first=Steve |website=[[Los Angeles Times]] |publication-date=26 June 1994}}</ref> 
+==Critical reaction==
+In 2014, Andrew Earles called the album "quintessential", and wrote that on it, Tiger Trap "packed each song with at least one pop hook."<ref>{{Cite book |url=https://books.google.com/books?id=4ufUBAAAQBAJ&pg=PA333 |title=Gimme Indie Rock: 500 Essential American Underground Rock Albums 1981-1996 |last=Earles |first=Andrew |publisher=[[Voyageur Press]] |year=2014 |page=333}}</ref> In 2015, [[The A.V. Club]]'s Jason Heller wrote that the album "embodies twee," but added that "it’s also a forceful, potent, consummately melodic complement to the more strident sounds of riot grrrl that were raging around them at the time."<ref>{{Cite web |url=http://www.avclub.com/article/where-start-indie-charm-beat-happening-and-k-recor-226751 |title=Where to start with the indie charm of Beat Happening and K Records |last=Heller |first=Jason |website=[[The A.V. Club]] |publication-date=5 November 2015}}</ref>
+
+== Track listing ==
+# "Puzzle Pieces"
+# "You're Sleeping"
+# "Eight Wheels"
+# "Supercrush"
+# "Tore a Hole"
+# "Words and Smiles"
+# "For Sure"
+# "You and Me"
+# "Supreme Nothing"
+# "Chester"
+# "My Broken Heart"
+# "Prettiest Boy"
+
+==References==
+{{Reflist}}
+
+[[Category:1993 debut albums]]
+[[Category:K Records albums]]

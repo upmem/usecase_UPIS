@@ -1,0 +1,647 @@
+{{Use mdy dates|date=June 2017}}
+{{Use American English|date=June 2017}}
+{{Infobox football league season
+  | season                     = '''1999'''
+  | mlscup                     = [[D.C. United]] (3rd title)
+  | shield                     = [[D.C. United]] (2nd shield)
+  | league topscorer           = [[Stern John]]<br>[[Roy Lassiter]]<br>[[Jason Kreis]]<br>(18 goals)
+  | matches                    = 192
+  | total goals                = 549
+  | average goals              = 
+  | biggest home win           =
+  | biggest away win           =
+  | highest scoring            =
+  | longest wins               =
+  | longest unbeaten           =
+  | longest losses             =
+  | highest attendance         = [[Columbus Crew SC|Columbus Crew]]<br>Season: 283,129<br>Game Avg.: 17,696 
+  | lowest attendance          = [[Sporting Kansas City|Kansas City Wizards]]<br>Season: 130,924<br>Game Avg.: 8,183 
+  | attendance                 = 2,742,102
+  | average attendance         = 14,282
+  | prevseason                 = [[1998 Major League Soccer season|1998]]
+  | nextseason                 = [[2000 Major League Soccer season|2000]]
+}}
+
+The '''1999 Major League Soccer season''' was the fourth season in [[Major League Soccer]]'s history. This was the last season which used the 35 yard line shootout rule to resolve tied games, and that of the countdown timer, with [[MLS Cup 1999]] adopting the IFAB-standard running clock thereafter.
+
+==Final standings==
+
+{| class="wikitable" style="text-align: center;"
+|-
+!width="170"|Eastern Conference
+!width="40"|{{Tooltip| P | Played}}
+!width="40"|{{Tooltip| W | Win}}
+!width="40"|{{Tooltip|(sw)|Shootout Win}}
+!width="40"|{{Tooltip|(sl)|Shootout Loss}}
+!width="40"|{{Tooltip| L | Loss}}
+!width="40"|{{Tooltip| GF | Goals for}}
+!width="40"|{{Tooltip| GA | Goals against}}
+!width="40"|{{Tooltip| GD | Goal difference}}
+!width="40"|{{Tooltip| Pts | Points}}
+|-
+|align=left|s - [[D.C. United]]
+|32||23||6||3||9||65||43||+22||57
+|-
+|align=left|x - [[Columbus Crew]]
+|32||19||6||4||13||48||39||+9||45
+|-
+|align=left|x - [[Tampa Bay Mutiny]]
+|32||14||5||7||18||51||50||+1||32
+|-
+|align=left|x - [[Miami Fusion]]
+|32||13||5||4||19||42||59||–17||29
+|-
+|align=left|[[New England Revolution]]
+|32||12||5||7||20||38||53||–15||26
+|-
+|align=left|[[MetroStars]]
+|32||7||3||5||25||32||64||–32||15
+|}
+
+{| class="wikitable" style="text-align: center;"
+|-
+!width="170"|Western Conference
+!width="40"|{{Tooltip| P | Played}}
+!width="40"|{{Tooltip| W | Win}}
+!width="40"|{{Tooltip|(sw)|Shootout Win}}
+!width="40"|{{Tooltip|(sl)|Shootout Loss}}
+!width="40"|{{Tooltip| L | Loss}}
+!width="40"|{{Tooltip| GF | Goals for}}
+!width="40"|{{Tooltip| GA | Goals against}}
+!width="40"|{{Tooltip| GD | Goal difference}}
+!width="40"|{{Tooltip| Pts | Points}}
+|-
+|align=left|y - [[LA Galaxy|Los Angeles Galaxy]]
+|32||20||3||4||12||49||29||+20||54
+|-
+|align=left|x - [[FC Dallas|Dallas Burn]]
+|32||19||3||6||13||54||35||+19||51
+|-
+|align=left|x - [[Chicago Fire Soccer Club|Chicago Fire]]
+|32||18||3||5||14||51||36||+15||48
+|-
+|align=left|x - [[Colorado Rapids]]
+|32||20||6||3||12||38||39||–1||48
+|-
+|align=left|[[San Jose Clash]]
+|32||19||10||3||13||48||49||–1||37
+|-
+|align=left|[[Kansas City Wizards]]
+|32||8||2||6||24||33||53||–20||20
+|}
+
+*The top four teams in each conference make the playoffs.<br>'''Wins (W)''' are worth 3 points.<br>'''Shootout Wins (SW)''' are worth 1 point, and is considered a Win in the standings.<br>'''Shootout Loss (SL)''' are worth 0 points, and is considered a Loss in the standings.<br>'''Loss (L)''' are worth 0 points.
+*s = Supporters Shield winner
+*y = Conference Leader
+*x = Clinched playoff berth
+
+==MLS Cup Playoffs==
+===Bracket===
+{{8TeamBracket-MLS Divisional Version 1
+| RD1='''Conference Semifinals'''
+| RD2='''Conference Finals'''
+| RD3='''[[MLS Cup 1999|MLS Cup '99]]'''
+| group1='''Eastern Conference'''
+| group2='''Western Conference'''
+| score-width=35px
+| team-width=175px
+| RD1-seed1=E1
+| RD1-team1='''[[D.C. United]]'''
+| RD1-score1-1=2
+| RD1-score1-2=0 (3)
+| RD1-score1-3=x
+| RD1-seed2=E4
+| RD1-team2=[[Miami Fusion|Miami]]
+| RD1-score2-1=0
+| RD1-score2-2=0 (2)
+| RD1-score2-3=x
+| RD1-seed3=E2
+| RD1-team3='''[[Columbus Crew|Columbus]]'''
+| RD1-score3-1=2
+| RD1-score3-2=2
+| RD1-score3-3=x
+| RD1-seed4=E3
+| RD1-team4=[[Tampa Bay Mutiny|Tampa Bay]]
+| RD1-score4-1=0
+| RD1-score4-2=0
+| RD1-score4-3=x
+| RD1-seed5=W1
+| RD1-team5='''[[Los Angeles Galaxy|Los Angeles]]'''
+| RD1-score5-1=3
+| RD1-score5-2=2
+| RD1-score5-3=x
+| RD1-seed6=W4
+| RD1-team6=[[Colorado Rapids|Colorado]]
+| RD1-score6-1=0
+| RD1-score6-2=0
+| RD1-score6-3=x
+| RD1-seed7=W2
+| RD1-team7='''[[Dallas Burn|Dallas]]'''
+| RD1-score7-1=2
+| RD1-score7-2=0
+| RD1-score7-3=3
+| RD1-seed8=W3
+| RD1-team8=[[Chicago Fire (soccer)|Chicago]]
+| RD1-score8-1=1
+| RD1-score8-2=4
+| RD1-score8-3=2
+| RD2-seed1=E1
+| RD2-team1='''[[D.C. United]]'''
+| RD2-score1-1=2
+| RD2-score1-2=1
+| RD2-score1-3=4
+| RD2-seed2=E2
+| RD2-team2=[[Columbus Crew|Columbus]]
+| RD2-score2-1=1
+| RD2-score2-2=5
+| RD2-score2-3=0
+| RD2-seed3=W1
+| RD2-team3='''[[Los Angeles Galaxy|Los Angeles]]'''
+| RD2-score3-1=2
+| RD2-score3-2=2
+| RD2-score3-3=3
+| RD2-seed4=W2
+| RD2-team4=[[Dallas Burn|Dallas]]
+| RD2-score4-1=1
+| RD2-score4-2=3
+| RD2-score4-3=1
+| RD3-seed1=E1
+| RD3-team1='''[[D.C. United]]'''
+| RD3-score1-1='''2'''
+| RD3-seed2=W1
+| RD3-team2=[[Los Angeles Galaxy|Los Angeles]]
+| RD3-score2-1=0
+}}
+*'''Best of Three series winner will advance.'''
+
+===Conference semifinals===
+
+'''Eastern Conference'''
+
+{{Football box|
+date = October 16, 1999<br>Game 1 |
+team1 = [[Miami Fusion]] |
+score = 0–2|
+team2 = [[D.C. United]] |
+goals1 = |
+goals2 = [[Jaime Moreno (footballer, born 1974)|Moreno]] {{goal|34', 88}}|
+stadium = [[Robert F. Kennedy Memorial Stadium]]<br>Washington, D.C.<br>Attendance: 18,011
+}}
+
+{{Football box|
+date = October 24, 1999<br>Game 2 |
+team1 = [[D.C. United]] |
+score = 0–0 (AET)<br>3–2 (S.O.) |
+team2 = [[Miami Fusion]] |
+goals1 = |
+goals2 = |
+stadium = [[Lockhart Stadium]]<br>[[Fort Lauderdale, Florida]]<br>Attendance: 8,446
+}}
+
+*D.C. United advance 2–0, to the Conference Finals.
+----
+
+{{Football box|
+date = October 17, 1999<br>Game 1 |
+team1 = [[Tampa Bay Mutiny]] |
+score = 0–2|
+team2 = [[Columbus Crew SC|Columbus Crew]] |
+goals1 = |
+goals2 = [[Stern John|John]] {{goal|78', 84}}|
+stadium = [[Columbus Crew Stadium]]<br>[[Columbus, Ohio]]<br>Attendance: 9,188<ref>https://www.columbuscrewsc.com/media/results/1999</ref>
+}}
+
+{{Football box|
+date = October 22, 1999<br>Game 2 |
+team1 = [[Columbus Crew SC|Columbus Crew]] |
+score = 2–0 |
+team2 = [[Tampa Bay Mutiny]] |
+goals1 = [[Brian West (soccer)|West]] {{goal|23}}<br>[[Jeff Cunningham|Cunningham]] {{goal|88}}|
+goals2 = |
+stadium = [[Raymond James Stadium]]<br>[[Tampa, Florida]]<br>Attendance: 14,392
+}}
+
+*Columbus Crew advance 2–0, to the Conference Finals.
+----
+
+'''Western Conference'''
+
+{{Football box|
+date = October 17, 1999<br>Game 1 |
+team1 = [[Colorado Rapids]] |
+score = 0–3|
+team2 = [[LA Galaxy|Los Angeles Galaxy]] |
+goals1 = |
+goals2 = [[Ezra Hendrickson|Hendrickson]] {{goal|8}}<br>[[Greg Vanney|Vanney]] {{goal|52|pen.}}<br>[[Cobi Jones|Jones]] {{goal|57}}|
+stadium = [[Rose Bowl (stadium)|Rose Bowl]]<br>[[Pasadena, California]]<br>Attendance: 16,307
+}}
+
+{{Football box|
+date = October 22, 1999<br>Game 2 |
+team1 = [[LA Galaxy|Los Angeles Galaxy]] |
+score = 2–0 |
+team2 = [[Colorado Rapids]] |
+goals1 = [[Danny Pena|Pena]] {{goal|74}}<br>[[Joey Franchino|Franchino]] {{goal|84}}|
+goals2 = |
+stadium = [[Mile High Stadium]]<br>[[Denver, Colorado]]<br>Attendance:---
+}}
+
+*Los Angeles Galaxy advance 2–0, to the Conference Finals.
+----
+
+{{Football box|
+date = October 16, 1999<br>Game 1 |
+team1 = [[Chicago Fire S.C.|Chicago Fire]] |
+score = 1–2|
+team2 = [[FC Dallas|Dallas Burn]] |
+goals1 = [[John Ball (soccer, born 1972)|Ball]] {{goal|79}}|
+goals2 = [[Ariel Graziani|Graziani]] {{goal|52}}<br>[[Mark Santel|Santel]] {{goal|75}}|
+stadium = [[Cotton Bowl (stadium)|Cotton Bowl]]<br>[[Dallas, Texas]]<br>Attendance: 10,980
+}}
+
+{{Football box|
+date = October 23, 1999<br>Game 2 |
+team1 = [[FC Dallas|Dallas Burn]] |
+score = 0–4 |
+team2 = [[Chicago Fire S.C.|Chicago Fire]] |
+goals1 = |
+goals2 = [[Piotr Nowak|Nowak]] {{goal|18}}<br>[[Roman Kosecki|Kosecki]] {{goal|36}}<br>[[Ante Razov|Razov]] {{goal|42}}<br>[[Dema Kovalenko|Kovalenko]] {{goal|47}}|
+stadium = [[Soldier Field]]<br>[[Chicago, Illinois]]<br>Attendance:---
+}}
+
+{{Football box|
+date = October 27, 1999<br>Game 3 |
+team1 = [[Chicago Fire S.C.|Chicago Fire]] |
+score = 2–3 |
+team2 = [[FC Dallas|Dallas Burn]] |
+goals1 = [[Ante Razov|Razov]] {{goal|3}}<br>[[Jesse Marsch|Marsch]] {{goal|5}}|
+goals2 = [[Chad Deering|Deering]] {{goal|55}}<br>[[Jorge Rodríguez (footballer, born 1971)|Rodríguez]] {{goal|84|pen.}}<br>[[Ariel Graziani|Graziani]] {{goal|86}}|
+stadium = [[Cotton Bowl (stadium)|Cotton Bowl]]<br>[[Dallas, Texas]]<br>Attendance:---
+}}
+
+*Dallas Burn advance 2–1, to the Conference Finals.
+
+===Conference finals===
+
+{{Football box|
+date = October 31, 1999<br>Game 1 |
+team1 = [[Columbus Crew SC|Columbus Crew]] |
+score = 1–2|
+team2 = [[D.C. United]] |
+goals1 = [[Jeff Cunningham|Cunningham]] {{goal|76}}|
+goals2 = [[Jaime Moreno (footballer, born 1974)|Moreno]] {{goal|15}}<br>[[Ben Olsen|Olsen]] {{goal|72}}|
+stadium = [[Robert F. Kennedy Memorial Stadium]]<br>Washington, D.C.<br>Attendance: 14,529
+}}
+
+{{Football box|
+date = November 7, 1999<br>Game 2 |
+team1 = [[D.C. United]] |
+score = 1–5|
+team2 = [[Columbus Crew SC|Columbus Crew]] |
+goals1 = [[Roy Lassiter|Lassiter]] {{goal|7}}|
+goals2 = [[Ansil Elcock|Elcock]] {{goal|20}}<br>[[Jeff Cunningham|Cunningham]] {{goal|41}}<br>[[Stern John]] {{goal|48', 61', 84}}|
+stadium = [[Columbus Crew Stadium]]<br>[[Columbus, Ohio]]<br>Attendance: 12,778
+}}
+
+{{Football box|
+date = November 13, 1999<br>Game 3 |
+team1 = [[Columbus Crew]] |
+score = 0–4|
+team2 = [[D.C. United]] |
+goals1 = |
+goals2 = [[Jaime Moreno (footballer, born 1974)|Moreno]] {{goal|17}}<br>[[Roy Lassiter|Lassiter]] {{goal|34', 52}}<br>[[Marco Etcheverry|Etcheverry]] {{goal|86}}|
+stadium = [[Robert F. Kennedy Memorial Stadium]]<br>Washington, D.C.<br>Attendance: 21,451
+}}
+
+*D.C. United advance 2–1, advance to MLS Cup '99.
+----
+
+{{Football box|
+date = October 31, 1999<br>Game 1 |
+team1 = [[FC Dallas|Dallas Burn]] |
+score = 1–2|
+team2 = [[LA Galaxy|Los Angeles Galaxy]] |
+goals1 = [[Ariel Graziani|Graziani]] {{goal|75}}|
+goals2 = [[Mauricio Cienfuegos|Cienfuegos]] {{goal|39}}<br>[[Ezra Hendrickson|Hendrickson]] {{goal|90}}|
+stadium = [[Rose Bowl (stadium)|Rose Bowl]]<br>[[Pasadena, California]]<br>Attendance:---
+}}
+
+{{Football box|
+date = November 7, 1999<br>Game 2 |
+team1 = [[LA Galaxy|Los Angeles Galaxy]] |
+score = 2–2 (AET)<br>3–4 (S.O.)|
+team2 = [[FC Dallas|Dallas Burn]] |
+goals1 = [[Carlos Hermosillo|Hermosillo]] {{goal|12', 55}}|
+goals2 = [[Ariel Graziani|Graziani]] {{goal|33', 74}}|
+stadium = [[Cotton Bowl (stadium)|Cotton Bowl]]<br>[[Dallas, Texas]]<br>Attendance:---
+}}
+
+{{Football box|
+date = November 11, 1999<br>Game 3 |
+team1 = [[FC Dallas|Dallas Burn]] |
+score = 1–3|
+team2 = [[LA Galaxy|Los Angeles Galaxy]] |
+goals1 = [[Jason Kreis|Kreis]] {{goal|89|pen.}}|
+goals2 = [[Greg Vanney|Vanney]] {{goal|3|pen.}}<br>[[Carlos Hermosillo|Hermosillo]] {{goal|20}}<br>[[Mauricio Cienfuegos|Cienfuegos]] {{goal|68}}|
+stadium = [[Rose Bowl (stadium)|Rose Bowl]]<br>[[Pasadena, California]]<br>Attendance:---
+}}
+
+*Los Angeles Galaxy advance 2–1. advance to MLS Cup '99.
+
+===[[MLS Cup '99]]===
+
+{{Football box|
+date = November 21, 1999 |
+team1 = [[LA Galaxy|Los Angeles Galaxy]] |
+score = 0–2 |
+team2 = [[D.C. United]] |
+goals1 = |
+goals2 = [[Jaime Moreno (footballer, born 1974)|Moreno]] {{goal|19}}<br>[[Ben Olsen|Olsen]] {{goal|45}}+|
+stadium = [[Foxboro Stadium]]<br>[[Foxborough, Massachusetts]]<br>Attendance: 44,910
+}}
+
+*D.C. United and Los Angeles Galaxy earn MLS berths to [[2000 CONCACAF Champions' Cup]].
+
+==Player awards==
+===Weekly awards===
+{| class="wikitable" style="font-size:95%"
+!Week!!Player of the Week!!Team
+|-
+|Week 1|| {{Flagicon|USA}} [[Jason Kreis]]|| [[Dallas Burn]]
+|-
+|Week 2|| {{Flagicon|USA}} [[Ante Razov]]|| [[Chicago Fire S.C.|Chicago Fire]]
+|-
+|Week 3|| {{Flagicon|USA}} [[Ante Razov]]|| [[Chicago Fire S.C.|Chicago Fire]]
+|-
+|Week 4|| {{Flagicon|USA}} [[Matt Jordan]]|| [[Dallas Burn]]
+|-
+|Week 5|| {{Flagicon|USA}} [[Jason Kreis]]|| [[Dallas Burn]]
+|-
+|Week 6|| {{Flagicon|ZAF}} [[Ivan McKinley]]|| [[New England Revolution]]
+|-
+|Week 7|| {{Flagicon|USA}} [[Jeff Cunningham]]|| [[Columbus Crew]]
+|-
+|Week 8|| {{Flagicon|USA}} [[Mark Chung]]|| [[New York/New Jersey MetroStars]]
+|-
+|Week 9|| {{Flagicon|USA}} [[Roy Lassiter]]|| [[D.C. United]]
+|-
+|Week 10|| {{Flagicon|VEN}} [[Giovanni Savarese]]|| [[New England Revolution]]
+|-
+|Week 11|| {{Flagicon|USA}} [[Jason Kreis]]|| [[Dallas Burn]]
+|-
+|Week 12|| {{Flagicon|BOL}} [[Jaime Moreno (footballer, born 1974)|Jaime Moreno]]|| [[D.C. United]]
+|-
+|Week 13|| {{Flagicon|USA}} [[Joe-Max Moore]]|| [[New England Revolution]]
+|-
+|Week 14|| {{Flagicon|PAN}} [[Jorge Dely Valdés]]|| [[Colorado]]
+|-
+|Week 15|| {{Flagicon|TRI}} [[Stern John]]|| [[Columbus Crew]]
+|-
+|Week 16|| {{Flagicon|USA}} [[Jason Kreis]]|| [[Dallas Burn]]
+|-
+|Week 17|| {{Flagicon|USA}} [[Chris Klein (soccer)|Chris Klein]]|| [[Sporting Kansas City|Kansas City Wizards]]
+|-
+|Week 18|| {{Flagicon|ESA}} [[Raúl Díaz Arce]]|| [[Tampa Bay Mutiny]]
+|-
+|Week 19|| {{Flagicon|CZE}} [[Luboš Kubík]]|| [[Chicago Fire S.C.|Chicago Fire]]
+|-
+|Week 20|| {{Flagicon|ECU}} [[Ariel Graziani]]|| [[Dallas Burn]]
+|-
+|Week 21|| {{Flagicon|USA}} [[Ben Olsen]]|| [[D.C. United]]
+|-
+|Week 22|| {{Flagicon|USA}} [[Manny Lagos]]|| [[Tampa Bay Mutiny]]
+|-
+|Week 23|| {{Flagicon|VEN}} [[Giovanni Savarese]]|| [[New England Revolution]]
+|-
+|Week 24|| {{Flagicon|USA}} [[Eddie Lewis (American soccer)|Eddie Lewis]]|| [[San Jose Clash]]
+|-
+|Week 25|| {{Flagicon|USA}} [[Brian McBride]]|| [[Columbus Crew]]
+|-
+|Week 26|| {{Flagicon|USA}} [[Jason Kreis]]|| [[Dallas Burn]]
+|-
+|Week 27|| {{Flagicon|USA}} [[Jason Kreis]]|| [[Dallas Burn]]
+|}
+
+===Monthly awards===
+{| class="wikitable" style="font-size:95%"
+!Month!!Player of the Month!!Team
+|-
+|March|| {{Flagicon|USA}} [[Ante Razov]]|| [[Chicago Fire S.C.|Chicago Fire]]
+|-
+|April|| {{Flagicon|LBR}} [[Musa Shannon]]|| [[Tampa Bay Mutiny]]
+|-
+|May|| {{Flagicon|USA}} [[Roy Lassiter]]|| [[D.C. United]]
+|-
+|June|| {{Flagicon|USA}} [[Jason Kreis]]|| [[Dallas Burn]]
+|-
+|July|| {{Flagicon|ESA}} [[Raúl Díaz Arce]]|| [[Tampa Bay Mutiny]]
+|-
+|August|| {{Flagicon|USA}} [[Matt Jordan]]|| [[Dallas Burn]]
+|-
+|September|| {{Flagicon|SLV}} [[Ronald Cerritos]]|| [[San Jose Clash]]
+|}
+
+===End of season awards===
+
+{| class="wikitable" style="font-size:100%";|"text-align: center;"
+!Award!!Player!!Team
+|-
+|Most Valuable Player||{{flagicon|USA}} [[Jason Kreis]]||[[Dallas Burn]]
+|-
+|Scoring Champion||{{flagicon|USA}} [[Jason Kreis]] - (51 Pts.)||[[Dallas Burn]]
+|-
+|Defender of the Year||{{flagicon|JAM}} [[Robin Fraser]]||[[LA Galaxy|Los Angeles Galaxy]]
+|-
+|Goalkeeper of the Year||{{flagicon|USA}} [[Kevin Hartman]]||[[LA Galaxy|Los Angeles Galaxy]]
+|-
+|Rookie of the Year||{{flagicon|USA}} [[Jay Heaps]]||[[Miami Fusion]]
+|-
+|Coach of the Year||{{flagicon|GER}}{{flagicon|USA}} [[Sigi Schmid]]||[[LA Galaxy|Los Angeles Galaxy]]
+|-
+|Goal of the Year||{{flagicon|BOL}} [[Marco Etcheverry]]||[[D.C. United]]
+|-
+|Fair Play Award||{{flagicon|USA}} [[Steve Ralston]]||[[Tampa Bay Mutiny]]
+|}
+
+==Player statistics==
+===Top Goal Scorers===
+{| class="wikitable"
+|-
+! width="50px" | Rank
+! Player
+! Club
+! width="50px" | Goals
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| '''1'''
+| align="left"|{{flagicon|TRI}} [[Stern John]]
+| align="left"| [[Columbus Crew]]
+| '''18'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+|
+| align="left"|{{flagicon|USA}} [[Roy Lassiter]]
+| align="left"| [[D.C. United]]
+| '''18'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+|
+| align="left"|{{flagicon|USA}} [[Jason Kreis]]
+| align="left"| [[Dallas Burn]]
+| '''18'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| '''4'''
+| align="left"|{{flagicon|USA}} [[Joe-Max Moore]]
+| align="left"| [[New England Revolution]]
+| '''15'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+|
+| align="left"|{{flagicon|SLV}} [[Ronald Cerritos]]
+| align="left"| [[San Jose Clash]]
+| '''15'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| '''6'''
+| align="left"|{{flagicon|USA}} [[Ante Razov]]
+| align="left"| [[Chicago Fire S.C.|Chicago Fire]]
+| '''14'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| '''7'''
+| align="left"|{{flagicon|SLV}} [[Raúl Díaz Arce]]
+| align="left"| [[San Jose Clash]],<br>[[Tampa Bay Mutiny]]
+| '''13'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| '''8'''
+| align="left"|{{flagicon|LBR}} [[Musa Shannon]]
+| align="left"| [[Tampa Bay Mutiny]]
+| '''12'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+|
+| align="left"|{{flagicon|USA}} [[Jeff Cunningham]]
+| align="left"| [[Columbus Crew]]
+| '''12'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| '''10'''
+| align="left"|{{flagicon|COL}} [[Diego Serna]]
+| align="left"| [[Miami Fusion]]
+| '''10'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+|
+| align="left"|{{flagicon|BOL}} [[Jaime Moreno (footballer, born 1974)|Jaime Moreno]]
+| align="left"| [[D.C. United]]
+| '''10'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+|
+| align="left"|{{flagicon|VEN}} [[Giovanni Savarese]]
+| align="left"| [[New England Revolution]]
+| '''10'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+|
+| align="left"|{{flagicon|USA}} [[Josh Wolff]]
+| align="left"| [[Chicago Fire S.C.|Chicago Fire]]
+| '''10'''
+|- align="center" valign="top" bgcolor="#FFFFFF"
+|
+| align="left"|{{flagicon|PAN}} [[Jorge Dely Valdés]]
+| align="left"| [[Colorado Rapids]]
+| '''10'''
+|}
+
+==International Competition==
+
+[[CONCACAF Champions' Cup]]
+
+*'''[[Chicago Fire S.C.|Chicago Fire]]'''<br>Defeated {{flagicon|TRI}} [[Joe Public F.C.]] 2–0 (Quarterfinals).<br>Lost {{flagicon|CRC}} [[L.D. Alajuelense]] 5–4 PK, 1–1 draw (Semi-finals).<br>Draw {{flagicon|USA}} [[D.C. United]] Third place match 2–2. (Third place shared)
+*'''[[D.C. United]]'''<br>Defeated {{flagicon|HON}} [[Club Olimpia Deportivo|Olimpia]] 1–0 (Quarterfinals).<br>Lost {{flagicon|MEX}} [[Necaxa]] 3–1 (Semifinals).<br>Draw {{flagicon|USA}} [[Chicago Fire S.C.|Chicago Fire]] Third place match 2–2. (Third place shared)
+
+==Attendance==
+
+{| class="wikitable" style="font-size:100%";|"text-align: center;"
+!Club
+!Games
+!Home Total
+!Home Average
+|-
+|[[Columbus Crew]]
+|align=center|16
+|align=center|283,129
+|align=center|17,696
+|-
+|[[LA Galaxy|Los Angeles Galaxy]]
+|align=center|16
+|align=center|282,113
+|align=center|17,632
+|- 
+|[[D.C. United]]
+|align=center|16
+|align=center|278,711
+|align=center|17,419
+|-
+|[[New England Revolution]]
+|align=center|16
+|align=center|267,752
+|align=center|16,795
+|-
+|[[Chicago Fire S.C.|Chicago Fire]]
+|align=center|16
+|align=center|256,261
+|align=center|16,016
+|-
+|[[San Jose Clash]]
+|align=center|16
+|align=center|239,350
+|align=center|14,959
+|-
+|[[New York/New Jersey MetroStars]]
+|align=center|16
+|align=center|235,301
+|align=center|14,706
+|-
+|[[Colorado Rapids]]
+|align=center|16
+|align=center|224,459
+|align=center|14,029
+|-
+|[[Tampa Bay Mutiny]]
+|align=center|16
+|align=center|209,700
+|align=center|13,106
+|-
+|[[Dallas Burn]]
+|align=center|16
+|align=center|195,381
+|align=center|12,211
+|-
+|[[Miami Fusion]]
+|align=center|16
+|align=center|139,021
+|align=center|8,689
+|-
+|[[Sporting Kansas City|Kansas City Wizards]]
+|align=center|16
+|align=center|130,924
+|align=center|8,183
+|-
+|'''OVERALL'''
+|align=center|'''192'''
+|align=center|'''2,742,102'''
+|align=center|'''14,282'''
+|}
+
+==Coaches==
+===Eastern Conference===
+*[[D.C. United]]: [[Thomas Rongen]]
+
+===Western Conference===
+*[[Dallas Burn]]: [[Dave Dir]]
+*[[Kansas City Wiz]]: [[Ron Newman]], [[Ken Fogarty]] and [[Bob Gansler]]
+*[[San Jose Clash]]: [[Brian Quinn (soccer)|Brian Quinn]]
+
+==References==
+{{Reflist}}
+*[https://web.archive.org/web/20100804034247/http://www.mlssoccer.com/content/1999-full-season-stats MLS Site]
+
+{{Major League Soccer}}
+{{1999 MLS season by team}}
+{{Major League Soccer seasons}}
+
+{{DEFAULTSORT:1999 Major League Soccer Season}}
+[[Category:1999 Major League Soccer season| ]]
+[[Category:Major League Soccer seasons]]
+[[Category:1999 in American soccer leagues]]

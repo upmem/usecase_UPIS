@@ -1,0 +1,14 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Poster for the 1976 West German film Silence in the Forest
+|Source = https://www.imdb.com/title/tt0075173/mediaviewer/rm3988724992
+|Author = Unknown
+|Article = Silence in the Forest (1976 film)
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = For use in the relevant article infobox only
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free movie poster}}

@@ -1,0 +1,131 @@
+{{Infobox settlement
+|official_name          = Dolga Njiva pri Šentlovrencu 
+|other_name             =
+|native_name            = 
+|nickname               =
+|settlement_type        = 
+|motto                  =
+|image_skyline          =  
+|imagesize              = 250px
+|image_caption          =
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+||pushpin_map           = Slovenia
+|pushpin_label_position = left
+|pushpin_map_caption    = Location in Slovenia
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of Slovenia.svg|25px]] [[Slovenia]]
+|subdivision_type1      = Traditional region
+|subdivision_name1      = [[Lower Carniola]]
+|subdivision_type2      = [[Statistical regions of Slovenia|Statistical region]]
+|subdivision_name2      = [[Southeast Slovenia Statistical Region|Southeast Slovenia]]
+|subdivision_type3      = [[Municipalities of Slovenia|Municipality]]
+|subdivision_name3      = [[Municipality of Trebnje|Trebnje]]
+|subdivision_type4      =
+|subdivision_name4      =
+|leader_name            =
+|leader_title1          =
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =
+|established_date       =
+|established_title2     =
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|area_magnitude         =
+|unit_pref                = 
+|area_footnotes           =
+|area_total_km2           = 1.42
+|area_land_km2            =
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+|population_as_of               =2002
+|population_footnotes           =
+|population_note                =
+|population_total               = 65
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_blank2_title        =Religions
+|population_blank2              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+|timezone               =
+|utc_offset             =
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|45|57|8.25|N|14|56|8.24|E|region:SI|display=inline,title}}
+|elevation_footnotes    =
+|elevation_m            = 331
+|elevation_ft           =
+|postal_code_type       =
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                =
+|footnotes              = <ref>[http://www.stat.si/eng/index.asp Statistical Office of the Republic of Slovenia]</ref>
+}}
+
+'''Dolga Njiva pri Šentlovrencu''' ({{IPA-sl|ˈdoːu̯ɡa ˈnjiːʋa pɾi ʃɛntˈloːu̯ɾɛntsu|pron}} or {{IPA-sl|- ʃənt-|pron}}) is a small [[village]] north of [[Šentlovrenc]] in the [[Municipality of Trebnje]] in eastern [[Slovenia]]. The area is part of the historical [[Lower Carniola]] region. The municipality is now included in the [[Southeast Slovenia Statistical Region]].<ref>[http://www.trebnje.si/ Trebnje municipal site]</ref>
+
+==Name==
+The name of the settlement was changed from ''Dolga Njiva'' to ''Dolga Njiva pri Šentlovrencu'' in 1953.<ref>''Spremembe naselij 1948–95''. 1996. Database. Ljubljana: Geografski inštitut ZRC SAZU, DZS.</ref>
+
+==Church==
+A small [[church (building)|church]] in the settlement is dedicated to the [[Feast of the Cross|Finding of the Holy Cross]] and belongs to the [[Parish]] of Šentlovrenc. It is a medieval building and contains fragments of 16th-century [[fresco]]s in the [[nave]].<ref>[http://rkd.situla.org/ Slovenian Ministry of Culture register of national heritage] reference number ešd 2469</ref> 
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.geopedia.si/Geopedia_en.html?params=L410_F10142342_T105_vF_b4_x495523.812_y90157.16_s15 Dolga Njiva pri Šentlovrencu at Geopedia]
+
+{{Trebnje}}
+
+{{DEFAULTSORT:Dolga Njiva pri Sentlovrencu}}
+[[Category:Populated places in the Municipality of Trebnje]]
+
+{{Trebnje-geo-stub}}

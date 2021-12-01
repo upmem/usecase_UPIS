@@ -1,0 +1,21 @@
+{{speciesbox
+| image =
+| status = 
+| genus = Mesalina
+| species = martini
+| authority = ([[George Albert Boulenger|Boulenger]], 1897) 
+| }}
+
+'''''Mesalina martini''''', also known as '''Martin's desert racer''', is a species of sand-dwelling [[lizard]] in the family [[Lacertidae]]. It occurs in [[Yemen]], [[Egypt]], [[Sudan]], [[Eritrea]], [[Ethiopia]], and [[Somalia]].<ref name=RDB>{{NRDB species|genus=Mesalina |species=martini|accessdate=12 May 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5083883}}
+
+[[Category:Mesalina|martini]]
+[[Category:Reptiles described in 1897]]
+[[Category:Taxa named by George Albert Boulenger]]
+
+
+{{Lacertidae-stub}}

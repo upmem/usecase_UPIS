@@ -1,0 +1,76 @@
+{{Orphan|date=January 2018}}
+
+{{Infobox settlement
+|official_name            = Summit Heights, Fontana, CA
+|image_skyline            =  
+|imagesize                =
+|image_caption            =
+|image_seal               =
+|image_map                = 
+|mapsize                  =
+|map_caption              =
+|image_map1               = 
+|mapsize1                 =
+|map_caption1             =
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Bernardino County, California]]
+|subdivision_name3        = [[Fontana, California]]
+|government_type          =
+|leader_title             =
+|leader_name              =
+|established_date         = 2002
+<!-- Area------------------>
+| area_total_sq_mi        = .537
+| area_land_sq_mi         = .537
+|website                  = http://www.fontana.org/index.aspx?NID=1299
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 92336
+|blank_name               =
+|blank_info               =
+|blank1_name              =
+|blank1_info              =
+}}
+
+'''Summit Heights''' is a [[planned community]] in north [[Fontana, California]].
+
+==History==
+Summit Heights is a 316-acre master-planned community in [[Fontana, California]] adjacent to [[Etiwanda, Rancho Cucamonga, California]]. Located along Summit Avenue and Beech Avenue, construction of the community began in 2002 on a portion of the community. Homes in this community have been built by [[PulteGroup]], [[KB Home]], and [[Hovnanian Enterprises]]
+
+==Geography==
+Summit Heights is at the base of the [[San Gabriel Mountains]] and is in between [[Interstate 15 in California|Interstate 15]] and [[Interstate 210 and State Route 210 (California)|Interstate 210]] forming a triangle.
+
+===Design and development===
+The Summit Heights development is divided into six "block". Throughout all the blocks there are a total of 1,051 single-family residential lots with various lot sizes.<ref>http://www.fontana.org/index.aspx?NID=1299</ref> Home sizes in this community range from 1,200 sq. feet to 3,200 square feet. Houses
+
+Summit Heights also has two neighboring shopping centers, Summit Heights Gateway and Falcon Ridge Town Center.
+
+The community also has 2 park within the boundaries and a water park, skate park, and dog park titled [http://www.fontana.org/index.aspx?NID=247 Fontana Park] to the north-east on Summit Avenue, with a lifestyle center called the Jessie Turner Center.<ref>http://www.fontana.org/index.aspx?NID=247</ref>
+
+==Demographics==
+In the community, the median household income is about $102,000 annually.<ref>http://www.city-data.com/neighborhood/Summit-Heights-Fontana-CA.html</ref> The average priced home is $300,000 to $400,000 depending on sq. footage and number of bedrooms.
+
+===2010===
+65% of all residents in Summit Heights are Hispanic with 20% being white and 15% another race according to [http://www.city-data.com/neighborhood/Summit-Heights-Fontana-CA.html City Data for Summit Heights]
+
+==Education==
+The community is served by the [[Etiwanda School District]] and [[Chaffey Joint Union High School District]]. A branch of the San Bernardino Public Library is located on the east outskirt of the neighborhood.
+
+Etiwanda Colony and [[Summit Intermediate]] both serve elementary and middle school students in the community. [[Etiwanda High School]] serves grades 9-12.
+
+Etiwanda Colony has been named a [[California Distinguished School]]<ref>http://teacherweb.com/CA/EtiwandaColonyElementary/SchoolHomePage/sdhp1.aspx</ref> and [[Summit Intermediate]] has been named a National School to Watch and [[California Distinguished School]].<ref>http://www.teacherweb.com/CA/SummitIntermediate/SchoolHomePage/sdhp1.aspx</ref>
+
+==References==
+{{Reflist|1}}
+
+==External links==
+* [http://www.fontana.org/index.aspx?NID=1299 Summit Heights Specific Plan] Fontana Planning Department
+* [http://etiwanda.org/ Etiwanda School District]
+
+{{coord missing|San Bernardino County, California}}
+
+[[Category:Fontana, California]]
+[[Category:Planned communities]]

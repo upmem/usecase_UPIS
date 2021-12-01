@@ -1,0 +1,119 @@
+{{short description|Genus of leaf beetles from Africa}}
+{{Automatic taxobox
+| taxon=Pseudocolaspis
+| display_parents = 2
+| authority = [[Francis de Laporte de Castelnau|Laporte]], 1833<ref name="Laporte1833">{{cite journal|last=Laporte|first=F. L. N. de Caumont|year=1833|title=Mémoire sur les divisions du genre ''Colaspis''|url=https://biodiversitylibrary.org/page/12253711|journal=Revue Entomologique|volume=1|pages=18–25}}</ref>
+| image = Pseudocolaspis - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 036 02 0002.tif
+| type_species = ''[[Pseudocolaspis coerulea]]''
+| type_species_authority = [[Francis de Laporte de Castelnau|Laporte]], 1833
+| synonyms_ref = <ref>{{cite journal|first=B.J.|last=Selman|year=1963|title=A reappraisal of the status of the genus ''Eubrachis'' (Eumolpidae, Coleoptera), together with a key to the related genera|journal=[[Annals and Magazine of Natural History]]|series=13|volume=6|issue=70|pages=637–639|doi=10.1080/00222936308651409}}</ref>
+| synonyms =
+* ''Eubrachis'' <small>[[Pierre François Marie Auguste Dejean|Dejean]], 1836</small>
+* ''Eubrachys'' <small>Monrós & [[Jan Bechyné|Bechyné]], 1956<br />(misspelling)</small><ref name="Monrós1956">{{cite journal|last1=Monrós|first1=F.|last2=Bechyné|first2=J.|year=1956|title=Uber einige verkannte Chrysomeliden - Namen|url=http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1956_Separata_117.pdf|journal=Entomologischen Arbeiten aus dem Museum G. Frey|volume=7|pages=1118–1137}}</ref>
+}}
+
+'''''Pseudocolaspis''''' is a genus of [[leaf beetle]]s in the subfamily [[Eumolpinae]].<ref>{{cite web|title=Pseudocolaspis|url=http://www.chrysomelidae.it/afr_Eum/genere_Pseudocolaspis.html|website=African Eumolpinae site|access-date=20 March 2018}}</ref> It contains about 80 species, which are found in [[tropical Africa]].
+
+==Species==
+{{columns-list|colwidth=35em|
+*''[[Pseudocolaspis albertiana]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis albopilosa]]'' <small>[[Raffaello Gestro|Gestro]], 1895</small><ref name="Gestro1895">{{cite journal|last=Gestro|first=R.|year=1895|title=Esplorazione del Giuba e dei suoi affluenti compiuta dal Cap. V. Bottego durante gli anni 1892-93 sotto gli auspicii della Società Geografica Italiana. Risultati Zoologici. XVI. Coleotteri|url=https://biodiversitylibrary.org/page/30042797|journal=Annali del Museo Civico di Storia Naturale di Genova|series=2|volume=15|pages=247–478}}</ref>
+*''[[Pseudocolaspis albostriata]]'' <small>[[Martin Jacoby|Jacoby]], 1886</small>
+*''[[Pseudocolaspis alluaudi]]'' <small>[[Maurice Pic|Pic]], 1940</small><ref name="Pic1940">{{cite journal|last=Pic|first=M.|year=1940|title=Opuscula martialis|url=https://biodiversitylibrary.org/page/54289681|journal=L'Echange, Revue Linnéenne, Moulins|volume=Numéro spécial|pages=1–16}}</ref>
+*''[[Pseudocolaspis auroscutata]]'' <small>[[Raffaello Gestro|Gestro]], 1895</small><ref name="Gestro1895"/>
+*''[[Pseudocolaspis azurea]]'' <small>[[Thomas Ansell Marshall|Marshall]], 1865</small><ref name="Marshall1865">{{cite journal|last=Marshall|first=T. A.|year=1865|title=Eumolpidarum Species novae|url=https://biodiversitylibrary.org/page/13387949|journal=The Journal of Entomology|volume=2|pages=347–352}}</ref>
+*''[[Pseudocolaspis bicoloripes]]'' <small>[[Maurice Pic|Pic]], 1939</small><ref name="Pic1939">{{cite journal|last=Pic|first=M.|year=1939|title=Coléoptères Phytophages d'Angola|url=https://biodiversitylibrary.org/page/43714260|journal=Revue Suisse de Zoologie|volume=46|issue=4|pages=115–142}}</ref>
+*''[[Pseudocolaspis brachiata]]'' <small>[[Édouard Lefèvre|Lefèvre]], 1890</small><ref name="Lefèvre1889">{{cite journal|first=E.|year=1889|last=Lefèvre|title=Description of new species of South African Eumolpidae|journal=Transactions of the South African Philosophical Society|volume=6|issue=1|pages=39–43|doi=10.1080/21560382.1889.9526253|url=https://zenodo.org/record/1829010}}</ref>
+*''[[Pseudocolaspis brevesetosa]]'' <small>[[Maurice Pic|Pic]], 1939</small><ref name="Pic1939"/>
+*''[[Pseudocolaspis chrysites]]'' <small>[[Carl Eduard Adolph Gerstaecker|Gerstaecker]], 1871</small>
+*''[[Pseudocolaspis coerulea]]'' <small>Laporte, 1833</small><ref name="Laporte1833"/>
+*''[[Pseudocolaspis crampeli]]'' <small>[[Maurice Pic|Pic]], 1940</small><ref name="Pic1940"/>
+*''[[Pseudocolaspis cribripes]]'' <small>[[Raffaello Gestro|Gestro]], 1895</small><ref name="Gestro1895"/> (possibly synonym of ''P. tridentifera'' [[Raffaello Gestro|Gestro]])
+*''[[Pseudocolaspis cupreofemorata]]'' <small>[[Martin Jacoby|Jacoby]], 1900</small><ref name="Jacoby1900">{{cite journal|first=M.|last=Jacoby|year=1900|title=On new genera and species of Phytophagous Coleoptera from South and Central Africa|url=https://biodiversitylibrary.org/page/35994461|journal=[[Proceedings of the Zoological Society of London]]|volume=1900|pages=203–266}}</ref>
+**''[[Pseudocolaspis cupreofemorata cupreofemorata]]'' <small>[[Martin Jacoby|Jacoby]], 1900</small><ref name="Jacoby1900"/>
+**''[[Pseudocolaspis cupreofemorata overlaeti]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis cyanella]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis cynoides]]'' <small>(Burgeon, 1940)</small> (erroneously regarded as ''Scelodonta'' by Selman, 1972)
+*''[[Pseudocolaspis diversepubens]]'' <small>[[Maurice Pic|Pic]], 1939</small><ref name="Pic1939"/>
+*''[[Pseudocolaspis diversesculpta]]'' <small>[[Maurice Pic|Pic]], 1940</small><ref name="Pic1940"/>
+*''[[Pseudocolaspis duvivieri]]'' <small>[[Martin Jacoby|Jacoby]], 1903</small><ref name="Jacoby1903">{{cite journal|last=Jacoby|first=M.|year=1903|title=Descriptions of new genera and species of Phytophagous Coleoptera obtained by Herr Conradt in West-Africa (Cameroons)|url=https://biodiversitylibrary.org/page/9009949|journal=Entomologische Zeitung|volume=64|pages=292–336}}</ref>
+*''[[Pseudocolaspis favareli]]'' <small>[[Maurice Pic|Pic]], 1938</small>
+*''[[Pseudocolaspis femorata]]'' <small>[[Joseph Sugar Baly|Baly]], 1878</small><ref name="Baly1878">{{cite journal|first=J. S.|last=Baly|year=1878|title=Description of New Species and Genera of Eumolpidæ|journal=[[Zoological Journal of the Linnean Society]]|volume=14|issue=75|pages=246–265|doi=10.1111/j.1096-3642.1878.tb01834.x}}</ref>
+*''[[Pseudocolaspis fortidens]]'' <small>Berti & Rapilly, 1973</small>
+*''[[Pseudocolaspis fulgidipes]]'' <small>Ancey, 1883</small>
+*''[[Pseudocolaspis gangalaensis]]'' <small>Selman, 1972</small><ref name="Selman1972">{{cite journal|last=Selman|first=B. J.|year=1972|title=Eumolpinae (Coleoptera: Chrysomelidae)|journal=Exploration Parc National de la Garamba. Mission H. De Saeger|volume=55|pages=1–95}}</ref>
+*''[[Pseudocolaspis garambaensis]]'' <small>Selman, 1972</small><ref name="Selman1972"/>
+*''[[Pseudocolaspis gibbicollis]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis gracilipes]]'' <small>[[Édouard Lefèvre|Lefèvre]], 1890</small><ref name="Lefèvre1889"/>
+*''[[Pseudocolaspis hottentota]]'' <small>[[Édouard Lefèvre|Lefèvre]], 1890</small><ref name="Lefèvre1889"/>
+*''[[Pseudocolaspis impressipennis]]'' <small>[[Maurice Pic|Pic]], 1940</small><ref name="Pic1940"/>
+*''[[Pseudocolaspis inimvuaensis]]'' <small>Selman, 1972</small><ref name="Selman1972"/>
+*''[[Pseudocolaspis insignis]]'' <small>[[Édouard Lefèvre|Lefèvre]], 1890</small>
+*''[[Pseudocolaspis intermedia]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis irregularis]]'' <small>[[Maurice Pic|Pic]], 1953</small> (possibly to move to genus ''Tanybria'')
+*''[[Pseudocolaspis isoensis]]'' <small>Selman, 1972</small><ref name="Selman1972"/>
+*''[[Pseudocolaspis laeta]]'' <small>[[Julius Weise|Weise]], 1909</small><ref name="Weise1909">{{cite book|last=Weise|first=J.|year=1909|chapter=Chrysomelidae und Coccinellidae|chapter-url=https://biodiversitylibrary.org/page/1372024|editor-last=Sjöstedt|editor-first=Y.|editor-link=Bror Yngve Sjöstedt|title=Wissenschaftliche ergebnisse der Schwedischen zoologischen expedition nach dem Kilimandjaro, dem Meru und den umgebenden Massaisteppen Deutsch-Ostafrikas 1905-1906|volume=1|at=Abt. 7, pp. 153–266, taf. 4|place=Stockholm|publisher=P. Palmquists Aktiebolag}}</ref>
+*''[[Pseudocolaspis lansbergi]]'' <small>[[Édouard Lefèvre|Lefèvre]], 1890</small>
+*''[[Pseudocolaspis lateralis]]'' <small>[[Martin Jacoby|Jacoby]], 1898</small><ref name="Jacoby1898">{{cite journal|first=M.|last=Jacoby|year=1898|title=Additions to the knowledge of the Phytophagous Coleoptera of Africa. Part I|url=https://www.biodiversitylibrary.org/page/30952543|journal=[[Proceedings of the Zoological Society of London]]|volume=1898|pages=212–242}}</ref>
+*''[[Pseudocolaspis laticollis]]'' <small>[[Martin Jacoby|Jacoby]], 1898</small><ref name="Jacoby1898"/>
+*''[[Pseudocolaspis lindneri]]'' <small>[[Ferdinand Karsch|Karsch]], 1882</small><ref name="Karsch1882">{{cite journal|last=Karsch|first=F.|year=1882|title=Verzeichniss der von Herrn Stabsarzt Dr. Falkenstein in Westafrika (Chinchozo) gesammelten Chrysomeliden, Endomychiden, Coccinelliden und Anthotribiden|url=https://biodiversitylibrary.org/page/32507506|journal=Berliner Entomologische Zeitschrift|volume=26|pages=395–403}}</ref>
+*''[[Pseudocolaspis longithorax]]'' <small>[[Maurice Pic|Pic]], 1951</small>
+*''[[Pseudocolaspis mabangaensis]]'' <small>Selman, 1972</small><ref name="Selman1972"/>
+*''[[Pseudocolaspis maynei]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis metallica]]'' <small>Laporte, 1833</small><ref name="Laporte1833"/>
+*''[[Pseudocolaspis minima]]'' <small>[[Maurice Pic|Pic]], 1939</small>
+*''[[Pseudocolaspis minuta]]'' <small>[[Maurice Pic|Pic]], 1939</small><ref name="Pic1939"/>
+*''[[Pseudocolaspis minutuloides]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis mombonensis]]'' <small>[[Julius Weise|Weise]], 1906</small><ref name="Weise1906">{{cite journal|last=Weise|first=J.|year=1906|title=Ostafrikanische Chrysomeliden und Coccinelliden|url=https://biodiversitylibrary.org/page/33758381|journal=[[Deutsche Entomologische Zeitschrift]]|volume=1906|issue=1|pages=35–64}}</ref>
+*''[[Pseudocolaspis motoensis]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis murrayi]]'' <small>[[Joseph Sugar Baly|Baly]], 1860</small><ref>{{cite journal|last=Baly|first=J. S.|year=1861|title=Descriptions of new genera and species of Phytophaga|url=https://www.biodiversitylibrary.org/page/12767901|journal=The Journal of Entomology|volume=1|pages=193–206}}</ref>
+*''[[Pseudocolaspis nobilis]]'' <small>[[Julius Weise|Weise]], 1906</small><ref name="Weise1906"/>
+*''[[Pseudocolaspis obscura]]'' <small>[[Ludwig Wilhelm Schaufuss|Schaufuss]], 1871</small> (possibly to move to other genus)
+*''[[Pseudocolaspis pachnephora]]'' <small>Fairmaire, 1887</small>
+*''[[Pseudocolaspis pedestris]]'' <small>[[Édouard Lefèvre|Lefèvre]], 1884</small>
+*''[[Pseudocolaspis pseudosetulosa]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis punctatolineata]]'' <small>([[James Thomson (entomologist)|J. Thomson]], 1858)</small>
+*''[[Pseudocolaspis pygmaea]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis rigida]]'' <small>[[Joseph Sugar Baly|Baly]], 1877</small><ref name="Baly1877">{{cite journal|last=Baly|first=J. S.|year=1877|title=Descriptions of new species of phytophagous beetles belonging to the family Eumolpidae; and a monograph of the genus ''Eumolpus''|url=https://www.biodiversitylibrary.org/page/32000198|journal=[[Transactions of the Entomological Society of London]]|volume=1877|issue=1|pages=37–56}}</ref>
+*''[[Pseudocolaspis robustipes]]'' <small>[[Maurice Pic|Pic]], 1939</small><ref name="Pic1939"/>
+*''[[Pseudocolaspis ruficornis]]'' <small>[[Maurice Pic|Pic]], 1951</small>
+*''[[Pseudocolaspis rufimembris]]'' <small>[[Maurice Pic|Pic]], 1939</small>
+*''[[Pseudocolaspis rufitarsis]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis sacra]]'' <small>Lopatin, 1983</small>
+*''[[Pseudocolaspis saegeri]]'' <small>Selman, 1972</small><ref name="Selman1972"/>
+*''[[Pseudocolaspis semipurpurea]]'' <small>[[Thomas Ansell Marshall|Marshall]], 1865</small><ref name="Marshall1865"/>
+*''Pseudocolaspis semipurpurea'' <small>[[Maurice Pic|Pic]], 1939</small><ref name="Pic1939"/> (junior homonym of ''semipurpurea'' Marshall)
+*''[[Pseudocolaspis sericata]]'' <small>[[Thomas Ansell Marshall|Marshall]], 1865</small><ref name="Marshall1865"/>
+*''[[Pseudocolaspis sericea]]'' <small>[[Julius Weise|Weise]], 1910</small>
+*''[[Pseudocolaspis servula]]'' <small>[[Thomas Ansell Marshall|Marshall]], 1865</small><ref name="Marshall1865"/>
+*''[[Pseudocolaspis setulosa]]'' <small>[[Édouard Lefèvre|Lefèvre]], 1886</small>
+*''[[Pseudocolaspis severini]]'' <small>[[Martin Jacoby|Jacoby]], 1900</small><ref name="Jacoby1900"/>
+*''[[Pseudocolaspis splendens]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis subdentata]]'' <small>[[Maurice Pic|Pic]], 1939</small><ref name="Pic1939"/>
+*''[[Pseudocolaspis substriata]]'' <small>[[Julius Weise|Weise]], 1904</small><ref>{{cite journal|last=Weise|first=J.|year=1904|title=''Pseudocolaspis substriata'' n. sp|url=https://biodiversitylibrary.org/page/33083656|journal=[[Deutsche Entomologische Zeitschrift]]|volume=1904|issue=1|page=100}}</ref>
+*''[[Pseudocolaspis sulcatipennis]]'' <small>[[Maurice Pic|Pic]], 1940</small><ref name="Pic1940"/>
+*''[[Pseudocolaspis tibialis]]'' <small>[[Ludwig Wilhelm Schaufuss|Schaufuss]], 1871</small>
+*''[[Pseudocolaspis tridentifera]]'' <small>[[Raffaello Gestro|Gestro]], 1895</small><ref name="Gestro1895"/>
+*''[[Pseudocolaspis tuberculata]]'' <small>[[Martin Jacoby|Jacoby]], 1903</small><ref name="Jacoby1903"/>
+*''[[Pseudocolaspis tuberculicollis]]'' <small>[[Martin Jacoby|Jacoby]], 1893</small><ref name="Jacoby1893">{{cite journal|last=Jacoby|first=M.|year=1893|title=Descriptions of some new species of Eumolpidae and Halticidae from Africa (Gaboon)|url=https://biodiversitylibrary.org/page/33758859|journal=[[The Entomologist]]|volume=26|pages=97–102}}</ref>
+*''[[Pseudocolaspis uelensis]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis utukuruensis]]'' <small>Selman, 1972</small><ref name="Selman1972"/>
+*''[[Pseudocolaspis vanderijsti]]'' <small>Burgeon, 1940</small>
+*''[[Pseudocolaspis variegata]]'' <small>[[Édouard Lefèvre|Lefèvre]], 1890</small><ref name="Lefèvre1889"/>
+*''[[Pseudocolaspis villiersi]]'' <small>[[Maurice Pic|Pic]], 1953</small>
+*''[[Pseudocolaspis viridana]]'' <small>[[Édouard Lefèvre|Lefèvre]], 1890</small><ref name="Lefèvre1889"/>
+*''[[Pseudocolaspis wittei]]'' <small>Burgeon, 1942</small><ref>{{cite journal|last=Burgeon|first=L.|year=1942|title=Chrysomelidae - S. Fam. Eumolpinae|url=http://biblio.naturalsciences.be/rbins-publications/institut-des-parcs-nationaux-du-congo/exploration-du-parc-national-albert-exploratie-van-het-nationaal-albert-park-mission-zending-g-f-de-witte-1933-1935/37-1942-mission-zending-g-f-de-witte-1933-1935-chrysomelidae-eumolpinae/irscnb_p4137_rbins18742_37_corps-de-texte-red.pdf|journal=Exploration du Parc National Albert - Exploratie van Het Nationaal Albert Park - Mission/Zending G.F. De Witte (1933-1935)|volume=37|pages=3–31}}</ref>
+}}
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q959787}}
+
+[[Category:Eumolpinae]]
+[[Category:Chrysomelidae genera]]
+[[Category:Beetles of Africa]]
+[[Category:Taxa named by Francis de Laporte de Castelnau]]
+
+
+{{Eumolpinae-stub}}

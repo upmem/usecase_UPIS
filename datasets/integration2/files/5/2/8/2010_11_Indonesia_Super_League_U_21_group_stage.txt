@@ -1,0 +1,1034 @@
+{{Main|2010–11 Indonesia Super League U-21}}
+{{See also|2010–11 Indonesia Super League U-21 knockout stage}}
+The '''2011 Indonesia Super League U-21 group stage'''<ref>{{Cite web |url=http://liga-indonesia.co.id/bli/index.php?go=news.matchfull&divisi=22 |title=ISL U-21 Review |access-date=2011-02-08 |archive-url=https://web.archive.org/web/20120313002749/http://liga-indonesia.co.id/bli/index.php?go=news.matchfull&divisi=22 |archive-date=2012-03-13 |url-status=dead }}</ref> matches took place between 19 January - 17 April 2011 for first group stage and between 26–30 April 2011 for second group stage.
+
+== First round ==
+Group winners and runners-up advanced to the [[#Second round|second group stage]].
+===Group 1===
+<section begin=R1G1 />{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=PRSB|name_PRSB=[[Persib Bandung U-21|Persib U-21]]
+|team2=SMPD|name_SMPD=[[Semen Padang U-21]]
+|team3=PSPS|name_PSPS=[[PSPS Pekanbaru U-21|PSPS U-21]]
+|team4=PRSJ|name_PRSJ=[[Persija Jakarta U-21|Persija U-21]]
+|team5=SRWJ|name_SRWJ=[[Sriwijaya FC U-21]]
+|win_PRSB=5|draw_PRSB=1|loss_PRSB=2|gf_PRSB=16|ga_PRSB=9|status_PRSB=A
+|win_SMPD=5|draw_SMPD=1|loss_SMPD=2|gf_SMPD=13|ga_SMPD=9|status_SMPD=A
+|win_PSPS=2|draw_PSPS=3|loss_PSPS=3|gf_PSPS=7|ga_PSPS=6
+|win_PRSJ=1|draw_PRSJ=4|loss_PRSJ=3|gf_PRSJ=6|ga_PRSJ=11
+|win_SRWJ=2|draw_SRWJ=1|loss_SRWJ=5|gf_SRWJ=10|ga_SRWJ=17
+|status_text_A=Advanced to the [[#Second round|second group stage]]
+|col_A=#cfc|result1=A|result2=A
+|update=complete|source=[http://liga-indonesia.co.id/bli/index.php?go=news.matchfull&divisi=22 ISL U-21 Review] and [https://web.archive.org/web/20101010073907/http://liga-indonesia.co.id/bli/index.php?go=news.standings ISL U-21 Table]
+}}<section end=R1G1 />
+
+{{football box
+|id = Persib Bandung U-21 v Semen Padang U-21
+|date= 23 January 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Persib Bandung U-21|Persib U-21]]
+|score= 2 &ndash; 1
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4450&home=PERSIB%20U21 Report]
+|team2= [[Semen Padang U-21]]
+|goals1= [[Budiawan]] {{goal|13}} <br />[[Asep Amung Hidayat|Asep A.H]] {{yel|43}} <br />[[Rudi Geofani]] {{goal|46}} 
+|goals2= {{goal|8}} [[Muhammad Sa'i Rahman|M. Sa'i Rahman]] <br />{{yel|13}} [[Angga Murina Pratama|Angga M.P]] <br />{{yel|36}} [[Yosua Pahabol]] <br />{{yel|77}} [[Hutri Andri Yusa|H.A. Yusa]]
+|stadium= [[Siliwangi Stadium]], [[Bandung]]
+|attendance= 8,200
+|referee= [[Olehadi]] }}
+----
+{{football box
+|id = PSPS U-21 v Sriwijaya FC U-21
+|date= 26 January 2011
+|time= 13:00 ([[UTC+7]])
+|team1= [[PSPS U-21]]
+|score= 2 &ndash; 0
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4454&home=PSPS%20U21 Report]
+|team2= [[Sriwijaya FC U-21|Sriwijaya U-21]]
+|goals1= [[Zulkhairi Amami|Zulkhairi]] {{goal|5}} <br />[[Jamilus Ardi]] {{yel|26}} <br />[[Rio Tutrianto]] {{yel|60}} <br />[[Budi Sukatmanto]] {{goal|78}}  <br />[[Dedi Putra]] {{yel|79}}
+|goals2= {{yel|67}} [[Dere Halman]] 
+|stadium= [[Sport Center Stadium]], [[Kuantan Singingi|Kuansing]]
+|attendance= 2,245
+|referee= [[Rorim Situmeang]] }}
+----
+{{football box
+|id = Persija Jakarta U-21 v Persib Bandung U-21
+|date= 29 January 2011
+|time= 13:30 ([[UTC+7]])
+|team1=[[Persija Jakarta U-21|Persija U-21]]
+|score= 0 &ndash; 0
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4455&home=PERSIJA%20U21 Report]
+|team2= [[Persib Bandung U-21|Persib U-21]]  
+|goals1= [[Ade Fajar Bintaro|Ade Fajar]] {{yel|13}} <br />[[Arief Dwi Wicaksono|Arief Dwi]] {{yel|29}} <br />[[Reza .M]] {{yel|83}} 
+|goals2= {{yel|78}} [[Asep Amung Hidayat|Asep A.H]] 
+|stadium= [[Gelanggang Mahasiswa Soemantri Brodjonegoro Stadium|GMSB Stadium]], [[Jakarta]]
+|attendance= 400
+|referee=[[Rorim Situmeang]] }}
+----
+{{football box
+|id = Semen Padang U-21 v PSPS U-21
+|date= 30 January 2011
+|time= 12:30 ([[UTC+7]])
+|team1= [[Semen Padang U-21]]
+|score= 0 &ndash; 0
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4457&home=SEMEN%20PADANG%20U21 Report]
+|team2= [[PSPS U-21]]
+|goals1= [[Muhammad Sa'i Rahman|M. Sa'i Rahman]] {{yel|44}} <br />[[Arifan Fitra Masril|Arifan F.M]] {{yel|83}}
+|goals2= {{yel|56}} [[Cecep Arifin]] 
+|stadium= [[Haji Agus Salim Stadium|H. Agus Salim Stadium]], [[Padang, Indonesia|Padang]]
+|attendance= 100
+|referee= [[M. Safei]]}}
+----
+{{football box
+|id = PSPS U-21 v Persija Jakarta U-21
+|date= 4 February 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[PSPS U-21]]
+|score= 1 &ndash; 1
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4462&home=PSPS%20U21 Report]
+|team2= [[Persija Jakarta U-21|Persija U-21]]
+|goals1= [[Tengku Lutfi Hidayat|Tengku Lutfi]] {{goal|19|pen.}}
+|goals2= {{goal|21}} [[Tri Johan]] <br />{{yel|45}} [[Delton .S]] <br />{{yel|75}} [[Ade Wahyudi]]
+|stadium= [[Sport Center Stadium]], [[Kuantan Singingi|Kuansing]]
+|attendance= 276
+|referee= [[Rorim Situmeang]] }}
+----
+{{football box
+|id = Sriwijaya FC U-21 v Semen Padang U-21
+|date= 6 February 2011
+|time= 08:30 ([[UTC+7]])
+|team1= [[Sriwijaya FC U-21|Sriwijaya U-21]]
+|score= 4 &ndash; 1
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4464&home=SRIWIJAYA%20FC%20U21 Report]
+|team2= [[Semen Padang U-21]]  
+|goals1= [[Yusuf Efendi]] {{yel|4}} <br />[[Dere Halman]] {{yel|29}}<br /> [[Rizsky Dwi Ramadhana|Rizsky Dwi]] {{goal|40}} <br />[[Bayu Pujasuma]] {{goal|43}} <br />Yusuf Efendi {{goal|63}} <br />[[Muhammad Al Firzon|Al Firzon]] {{goal|77}}
+|goals2= {{yel|73}} [[Doni Andika Putra|Doni A.P]] <br/>{{goal|76}} Doni A.P <br />{{yel|82}} [[Angga Murina Pratama|Angga M.P]]
+|stadium= [[Bumi Sriwijaya Stadium]], [[Palembang]]
+|attendance= 513
+|referee= [[Sulistyoko]] }}
+----
+{{football box
+|id = Persib Bandung U-21 v PSPS U-21
+|date= 9 February 2011
+|time= 13:00 ([[UTC+7]])
+|team1= [[Persib Bandung U-21|Persib U-21]]
+|score= 2 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4467&home=PERSIB%20U21 Report]
+|team2= [[PSPS U-21]]  
+|goals1= [[Irpan Setiawan]] {{goal|70}} <br />[[Erwin Ramdani]] {{goal|81}}
+|goals2= {{goal|31}} [[Noves Joy M.Z|Joy]] <br />{{yel|72}} [[M. Al'Asyari Akbar|M. Al'Asyari]] <br/>{{yel|76}} [[Jamilus Ardi]]
+|stadium= [[Siliwangi Stadium]], [[Bandung]]
+|attendance= 0
+|referee= [[Maslah Iksan]] }}
+----
+{{football box
+|id = Persija Jakarta U-21 v Sriwijaya FC U-21
+|date= 11 February 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Persija Jakarta U-21|Persija U-21]]
+|score= 2 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4470&home=PERSIJA%20U21 Report]
+|team2= [[Sriwijaya FC U-21|Sriwijaya U-21]]  
+|goals1= [[Reza .M]] {{goal|45||59}}
+|goals2= {{yel|11}} [[Ibnu Guntoro]] <br />{{yel|32}} [[Muhammad Yusuf Alwan|M. Yusuf]] <br/>{{goal|44}} [[Rizsky Dwi Ramadhana|Rizsky Dwi]]
+|stadium= [[Gelanggang Mahasiswa Soemantri Brodjonegoro Stadium|GMSB Stadium]], [[Jakarta]]
+|attendance= 300
+|referee= [[Hamsir (referee)|Hamsir]] }}
+----
+{{football box
+|id = Sriwijaya FC U-21 v Persib Bandung U-21
+|date= 16 February 2011
+|time= 08:30 ([[UTC+7]])
+|team1= [[Sriwijaya FC U-21|Sriwijaya U-21]]  
+|score= 1 &ndash; 4
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4476&home=SRIWIJAYA%20FC%20U21 Report]
+|team2= [[Persib Bandung U-21|Persib U-21]]
+|goals1= [[Jeki Arisandi]] {{yel|47}} <br />[[Bayu Pujasuma]] {{yel|60}} <br />Bayu Pujasuma {{sent off|0|73}} <br />[[Rizsky Dwi Ramadhana|Rizsky Dwi]] {{goal|90}}
+|goals2= {{goal|6||15}} [[Erwin Ramdani]] <br />{{goal|34}} [[Ana Supriatna]] <br />{{yel|58}} [[Anggi Indra Permana|Anggi Indra]] <br/>{{goal|75}} [[Suhandi]] <br />{{yel|87}} [[Rudi Geofani]]
+|stadium= [[Jakabaring Stadium]], [[Palembang]]
+|attendance= 251
+|referee= [[Sulistyoko]] }}
+
+{{football box
+|id = Semen Padang U-21 v Persija Jakarta U-21
+|date= 16 February 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Semen Padang U-21]] 
+|score= 2 &ndash; 0
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4475&home=SEMEN%20PADANG%20U21 Report]
+|team2= [[Persija Jakarta U-21|Persija U-21]] 
+|goals1= [[Doni Andika Putra|Andika Putra]] {{goal|4}} <br>[[Anggi Topano]] {{yel|33}} <br>[[Yosua Pahabol]] {{goal|44}}
+|goals2= {{yel|16}} [[Juan Rifandi]] <br />{{yel|22}} [[Ade Fajar Bintaro|Ade Fajar]]
+|stadium= [[Haji Agus Salim Stadium|H. Agus Salim Stadium]], [[Padang, Indonesia|Padang]]
+|attendance= 391
+|referee= [[Maslah Iksan]] }}
+----
+{{football box
+|id = Semen Padang U-21 v Sriwijaya FC U-21
+|date= 5 March 2011
+|time= 15:00 ([[UTC+7]])
+|team1= [[Semen Padang U-21]] 
+|score= 3 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4479&home=SEMEN%20PADANG%20U21 Report]
+|team2= [[Sriwijaya FC U-21|Sriwijaya U-21]] 
+|goals1= [[Yosua Pahabol]] {{goal|8||67}} <br>[[Joshua Christian Itaar|J.C. Itaar]] {{yel|32}} <br>[[Satria Eka Putra|Eka Putra]] {{goal|46}} <br>[[Doni Andika Putra|Andika Putra]] {{yel|87}}
+|goals2= {{goal|6}} [[Rachmad Ramadhan]] <br />{{yel|7}} [[Dere Halman]]
+|stadium= [[Haji Agus Salim Stadium|H. Agus Salim Stadium]], [[Padang, Indonesia|Padang]]
+|attendance= 511
+|referee= [[Maslah Iksan]] }}
+----
+{{football box
+|id = Persija Jakarta U-21 v Semen Padang U-21
+|date= 13 March 2011
+|time= 13:30 ([[UTC+7]])
+|team1= [[Persija Jakarta U-21|Persija U-21]]
+|score= 1 &ndash; 2 
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4486&home=PERSIJA%20U21 Report]
+|team2= [[Semen Padang U-21]]  
+|goals1= [[Tri Johan]] {{yel|37}} <br />[[Angga Putra Nurohman|Angga]] {{yel|79}} <br />[[Walid Anshori]] {{yel|79}} <br />[[Rendy .A]] {{goal|85}} <br />[[Juan Rifandi]] {{sent off|2|50|86}} 
+|goals2= {{goal|17}} [[Andi Rizky Purwanto|Andi Rizky]] <br>{{goal|26}} [[Yosua Pahabol]] <br>{{yel|39}} [[Angga Murina Pratama|Angga Pratama]] <br>{{yel|63}} [[Joshua Christian Itaar|J.C. Itaar]] <br>{{sent off|2|37|71}} [[Doni Andika Putra|Andika Putra]] 
+|stadium= [[Gelanggang Mahasiswa Soemantri Brodjonegoro Stadium|GMSB Stadium]], [[Jakarta]]
+|attendance= 800
+|referee= [[Abdul Malik (football referee)|Abdul Malik]] }}
+----
+{{football box
+|id = Persib Bandung U-21 v Sriwijaya FC U-21
+|date= 18 March 2011
+|time= 08:30 ([[UTC+7]])
+|team1= [[Persib Bandung U-21|Persib U-21]]
+|score= 3 &ndash; 0 
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4487&home=PERSIB%20U21 Report]
+|team2= [[Sriwijaya FC U-21|Sriwijaya U-21]]  
+|goals1= [[Johan Yoga Utama|Johan Yoga]] {{goal|28}} <br />[[Suhandi]] {{goal|62}} <br />[[Budiawan]] {{goal|66}} 
+|goals2= {{sent off|0|20}} [[Rezha Gusti Fahlevi|Rezha Fahlevi]] <br>{{yel|87}} [[Catur Dwi Suranto|Catur Dwi]] 
+|stadium= [[Jalak Harupat Soreang Stadium|Jalak Harupat Stadium]], [[Bandung Regency|Bandung]]
+|attendance= 0
+|referee= [[Abdul Malik (football referee)|Abdul Malik]] }}
+----
+{{football box
+|id = PSPS U-21 v Semen Padang U-21
+|date= 19 March 2011
+|time= 13:00 ([[UTC+7]])
+|team1= [[PSPS U-21]]
+|score= 0 &ndash; 1 
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4488&home=PSPS%20U21 Report]
+|team2= [[Semen Padang U-21]]  
+|goals1= [[M. Al'Asyari Akbar|M. Al'syari]] {{yel|35}} <br />[[Rian Domanik]] {{yel|45}} 
+|goals2= {{yel|57}} [[Anggi Topano]] <br>{{goal|80}} [[Yosua Pahabol]] 
+|stadium= [[Rumbai Stadium]], [[Pekanbaru]]
+|attendance= 535
+|referee= [[Rorim Situmeang]] }}
+----
+{{football box
+|id = Sriwijaya FC U-21 v Persija Jakarta U-21
+|date= 23 March 2011
+|time= 08:00 ([[UTC+7]])
+|team1= [[Sriwijaya FC U-21|Sriwijaya U-21]]
+|score= 1 &ndash; 1 
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4491&home=SRIWIJAYA%20FC%20U21 Report]
+|team2= [[Persija Jakarta U-21|Persija U-21]]  
+|goals1= [[Muhammad Yusuf Alwan|M. Yusuf]] {{yel|39}} <br />[[Rizsky Dwi Ramadhana|Rizsky Dwi]] {{goal|88}} 
+|goals2= {{goal|87}} [[Reza .M]] 
+|stadium= [[Bumi Sriwijaya Stadium]], [[Palembang]]
+|attendance= 0
+|referee= [[Mulyadi]] }}
+----
+{{football box
+|id = Persib Bandung U-21 v Persija Jakarta U-21
+|date= 27 March 2011
+|time= 10:00 ([[UTC+7]])
+|team1= [[Persib Bandung U-21|Persib U-21]]
+|score= 4 &ndash; 1 
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4493&home=PERSIB%20U21 Report]
+|team2= [[Persija Jakarta U-21|Persija U-21]]  
+|goals1= [[Rudi Geofani]] {{goal|11||45}} <br />[[Johan Yoga Utama|Johan Yoga]] {{goal|20}} <br/>[[Ana Supriatna]] {{yel|41}} <br />[[Anggi Indra Permana|Anggi Indra]] {{goal|46}} <br />Ana Supriatna {{goal|80}} 
+|goals2= {{yel|67}} [[Tri Johan]] <br>{{yel|68}} [[Ivan Hardiyanto]] <br />{{goal|90}} [[Rendy .A]] 
+|stadium= [[Jalak Harupat Soreang Stadium|Jalak Harupat Stadium]], [[Bandung Regency|Bandung]]
+|attendance= 0
+|referee= [[Joni Parera]] }}
+----
+{{football box
+|id = Persija Jakarta U-21 v PSPS U-21
+|date= 3 April 2011
+|time= 13:30 ([[UTC+7]])
+|team1= [[Persija Jakarta U-21|Persija U-21]]
+|score= 0 &ndash; 0 
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4497&home=PERSIJA%20U21 Report]
+|team2= [[PSPS U-21]]  
+|goals1= [[Reza .M]] {{yel|39}} 
+|goals2= {{yel|41}} [[Andri Kurniawan]] <br>{{yel|72}} [[Tengku Lutfi Hidayat|Tengku Lutfi]] 
+|stadium= [[Gelanggang Mahasiswa Soemantri Brodjonegoro Stadium|GMSB Stadium]], [[Jakarta]]
+|attendance= 200
+|referee= [[Khusnul Yaqin]] }}
+----
+{{football box
+|id = PSPS U-21 v Persib Bandung U-21
+|date= 8 April 2011
+|time= 08:30 ([[UTC+7]])
+|team1= [[PSPS U-21]]  
+|score= 2 &ndash; 0 
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4500&home=PSPS%20U21 Report]
+|team2= [[Persib Bandung U-21|Persib U-21]]
+|goals1= [[Dika Hanggara]] {{goal|7}} <br>[[Sapri Koto]] {{goal|27}} <br>[[Rio Tutrianto]] {{yel|63}} 
+|goals2= {{yel|32}} [[Rudiyana]] 
+|stadium= [[Haji Agus Salim Stadium|H. Agus Salim Stadium]], [[Padang, Indonesia|Padang]]
+|attendance= 500
+|referee= [[Jimmy Napitupulu]] }}
+----
+{{football box
+|id = Semen Padang U-21 v Persib Bandung U-21
+|date= 12 April 2011
+|time= 08:15 ([[UTC+7]])
+|team1= [[Semen Padang U-21]]  
+|score= 3 &ndash; 1 
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4504&home=SEMEN%20PADANG%20U21 Report]
+|team2= [[Persib Bandung U-21|Persib U-21]]
+|goals1= [[Satria Eka Putra|Satria Eka]] {{goal|2||4||26}} <br>[[Wahyu Firnanda]] {{yel|27}} <br>[[Robertho Sogrim]] {{yel|28}} <br>[[Joshua Christian Itaar|J.C. Itaar]] {{yel|58}} <br>Satria Eka {{sent off|2|74|76}}
+|goals2= {{goal|62}} [[Rully Muhammad Salim|Rully Salim]] <br>{{yel|77}} [[Ana Supriatna]]
+|stadium= [[Haji Agus Salim Stadium|H. Agus Salim Stadium]], [[Padang, Indonesia|Padang]]
+|attendance= 53
+|referee= [[Rorim Situmeang]] }}
+----
+{{football box
+|id = Sriwijaya FC U-21 v PSPS Pekanbaru U-21
+|date= 17 April 2011
+|time= 08:30 ([[UTC+7]])
+|team1= [[Sriwijaya FC U-21|Sriwijaya U-21]]  
+|score= 2 &ndash; 1 
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4503&home=SRIWIJAYA%20FC%20U21 Report]
+|team2= [[PSPS U-21]]
+|goals1= [[Rizky Muhendry]] {{yel|36}} <br>[[Jeki Arisandi]] {{goal|50}} <br>[[Yusuf Efendi]] {{yel|27}} <br>[[Heru Ganesha Putra|Heru Ganesha]] {{goal|28}}
+|goals2= {{goal|62}} [[Zulkhairi Amami]]
+|stadium= [[Bumi Sriwijaya Stadium]], [[Palembang]]
+|attendance= 312
+|referee= [[Mulyadi]] }}
+
+===Group 2===
+<section begin=R1G2 />{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=PLJY|name_PLJY=[[Pelita Jaya U-21]]
+|team2=PRSL|name_PRSL=[[Persela U-21]]
+|team3=ARMA|name_ARMA=[[Arema FC U-21]]
+|team4=DLSD|name_DLSD=[[Deltras Sidoarjo U-21]]
+|team5=PRSJ|name_PRSJ=[[Persijap U-21]]
+|win_PLJY=5|draw_PLJY=1|loss_PLJY=2|gf_PLJY=14|ga_PLJY=6|status_PLJY=A
+|win_PRSL=5|draw_PRSL=0|loss_PRSL=3|gf_PRSL=15|ga_PRSL=8|status_PRSL=A
+|win_ARMA=5|draw_ARMA=0|loss_ARMA=3|gf_ARMA=11|ga_ARMA=10
+|win_DLSD=4|draw_DLSD=0|loss_DLSD=4|gf_DLSD=13|ga_DLSD=13
+|win_PRSJ=0|draw_PRSJ=1|loss_PRSJ=7|gf_PRSJ=3|ga_PRSJ=19
+|status_text_A=Advanced to the [[#Second round|second group stage]]
+|col_A=#cfc|result1=A|result2=A
+
+|update=complete|source=[http://liga-indonesia.co.id/bli/index.php?go=news.matchfull&divisi=22 ISL U-21 Review] and [https://web.archive.org/web/20101010073907/http://liga-indonesia.co.id/bli/index.php?go=news.standings ISL U-21 Table]
+}}<section end=R1G2 />
+
+{{football box
+|id = Persijap U-21 v Pelita Jaya U-21
+|date= 19 January 2011
+|time= 19:00 ([[UTC+7]])
+|team1= [[Persijap U-21]]
+|score= 0 &ndash; 0
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4448&home=PERSIJAP%20U21 Report]
+|team2= [[Pelita Jaya U-21]]
+|goals1= [[Moch. Choirudin]] {{yel|45}} 
+|goals2= {{yel|55}} [[Saripulloh]] <br />{{yel|67}} [[Syahfriza Dwi Oktavian|Dwi Okta]] <br />{{yel|73}} [[Feriansyah Mas'ud|Feriansyah]]
+|stadium= [[Gelora Bumi Kartini Stadium|GBK Stadium]], [[Jepara]]
+|attendance= 150
+|referee= [[Hamsir (referee)|Hamsir]] }}
+
+{{football box
+|id = Arema FC U-21 v Persela U-21
+|date= 19 January 2011
+|time= 19:00 ([[UTC+7]])
+|team1= [[Arema FC U-21|Arema U-21]]
+|score= 2 &ndash; 1
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4447&home=AREMA%20FC%20U21 Report]
+|team2= [[Persela U-21]]
+|goals1= [[Muhammad Andi Fatchur Rohman|Fatchur Rohman]] {{goal|13}} <br />[[Sunarto (footballer)|Sunarto]] {{goal|35}}  <br />Sunarto {{yel|42}}
+|goals2= {{goal|4}} [[Fandi Eko Utomo|Fandi Eko]] <br />{{yel|33}} [[Eky Taufik Febriyanto|Eky Taufik]] <br />{{yel|68}} [[Agung Fitrayanto]] 
+|stadium= [[Kanjuruhan Stadium]], [[Malang]]
+|attendance= 650
+|referee= [[Ahmad Suparman]] }}
+----
+{{football box
+|id = Persela U-21 v Persijap U-21
+|date= 24 January 2011
+|time= 15:30 ([[UTC+7]])
+|team1=[[Persela U-21]]
+|score= 2 &ndash; 0
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4452&home=PERSELA%20U21 Report]
+|team2= [[Persijap U-21]]  
+|goals1= [[Fandi Eko Utomo|Fandi Eko]] {{goal|11}} <br />Fandi Eko {{yel|58}} <br />[[Mohammad Nasrulloh|M. Nasrulloh]] {{goal|71}} <br />M. Nasrulloh {{yel|89}} 
+|goals2= {{yel|43}} [[Sulis Triyono]] <br />{{yel|56}} [[Ahmad Buchori]]
+|stadium= [[Surajaya Stadium]], [[Lamongan]]
+|attendance= 200
+|referee= [[Hamsir (referee)|Hamsir]] }}
+----
+{{football box
+|id = Deltras Sidoarjo U-21 v Arema FC U-21
+|date= 29 January 2011
+|time= 08:00 ([[UTC+7]])
+|team1= [[Deltras Sidoarjo U-21|Deltras U-21]]
+|score= 2 &ndash; 1
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4456&home=DELTRAS%20U21 Report]
+|team2= [[Arema FC U-21|Arema U-21]]
+|goals1= [[Dave Mustaine]] {{goal|69}} <br />[[Ahmad Hamdan Syaifuddin|Ahmad H.S]] {{goal|71}}
+|goals2= {{goal|47}} [[Luxi Ariawan]] <br />{{yel|81}} [[Sunarto (footballer)|Sunarto]] 
+|stadium= [[Gelora Delta Stadium]], [[Sidoarjo]]
+|attendance= 123
+|referee= [[Sulistyoko]] }}
+----
+{{football box
+|id = Pelita Jaya U-21 v Persela U-21
+|date= 30 January 2011
+|time= 15:25 ([[UTC+7]])
+|team1= [[Pelita Jaya U-21]]
+|score= 1 &ndash; 3
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4458&home=PELITA%20JAYA%20U21 Report]
+|team2= [[Persela U-21]]
+|goals1= [[Riyandi Ramadhana Putra|Riyandi Putra]] {{goal|11}}
+|goals2= {{yel|41}} [[Ryco Fernanda]] <br />{{goal|45}} Ryco Fernanda <br />{{goal|50}} [[Sutrisno Hadi Kusuma|Sutrisno]] <br />{{goal|66}} [[Rudy Santoso]]
+|stadium= [[Singaperbangsa Stadium]], [[Karawang]]
+|attendance= 1,127
+|referee= [[Joni Parera]] }}
+----
+{{football box
+|id = Persijap U-21 v Deltras Sidoarjo U-21
+|date= 2 February 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Persijap U-21]]
+|score= 2 &ndash; 3
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4460&home=PERSIJAP%20U21 Report]
+|team2= [[Deltras Sidoarjo U-21|Deltras U-21]]
+|goals1= [[Abdul Latif Hasyim|Abdul Latif]] {{goal|18}} <br />[[Muchammad Alex Fatoni|M. Alex Fatoni]] {{yel|64}} <br />Abdul Latif {{yel|70}} <br />[[Alex Fauzi]] {{goal|75}}
+|goals2= {{goal|22}} [[Wage Dwi Aryo|Dwi Aryo]] <br/>{{goal|71||73}} [[Ahmad Hamdan Syaifuddin|Ahmad H.S]] <br />{{yel|89}} Ahmad H.S
+|stadium= [[Gelora Bumi Kartini Stadium|GBK Stadium]], [[Jepara]]
+|attendance= 100
+|referee= [[Saripudin]] }}
+----
+{{football box
+|id = Arema FC U-21 v Persijap U-21
+|date= 7 February 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Arema FC U-21|Arema U-21]]
+|score= 1 &ndash; 0
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4465&home=AREMA%20FC%20U21 Report]
+|team2= [[Persijap U-21]]  
+|goals1= [[Muhammad Andi Fatchur Rohman|Fatchur Rohman]] {{yel|7}} <br />[[Gilang Didik Permadi|Gilang D.P]] {{yel|62}} <br />[[Dicho Chorniawan]] {{goal|84}} <br />[[Luxi Ariawan]] {{yel|87}}
+|goals2= {{yel|40}} [[Andi Supriyanto]] <br/>{{yel|45}} [[Efendi Junianto]] <br />{{yel|58}} [[Muhammad Akhsan Alfafa|M. Akhsan]] <br />{{yel|75}} [[Ahmad Buchori]]
+|stadium= [[Kanjuruhan Stadium]], [[Malang]]
+|attendance= 157
+|referee= [[Jerry Elly]] }}
+----
+{{football box
+|id = Deltras Sidoarjo U-21 v Pelita Jaya U-21
+|date= 8 February 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Deltras Sidoarjo U-21|Deltras U-21]]
+|score= 0 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4466&home=DELTRAS%20U21 Report]
+|team2= [[Pelita Jaya U-21]]
+|goals1= 
+|goals2= {{goal|83}} [[Afriansyah]]
+|stadium= [[Gelora Delta Stadium]], [[Sidoarjo]]
+|attendance= 300
+|referee= [[Abdul Malik (football referee)|Abdul Malik]] }}
+----
+{{football box
+|id = Persela U-21 v Deltras Sidoarjo U-21
+|date= 13 February 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Persela U-21]]
+|score= 2 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4471&home=PERSELA%20U21 Report]
+|team2= [[Deltras Sidoarjo U-21|Deltras U-21]]
+|goals1= [[Fandi Eko Utomo|Fandi Eko]] {{goal|50||89}}
+|goals2= {{yel|37}} [[Wage Dwi Aryo|Dwi Aryo]] <br/>{{yel|63}} [[Yoga Wahyu Prasetya|Yoga Wahyu]] <br />{{goal|86}} [[Fatchur Rony Rostadi|Fatchur R.S]]
+|stadium= [[Surajaya Stadium]], [[Lamongan]]
+|attendance= 0
+|referee= [[Retu Slamet Wijaya]] }}
+
+{{football box
+|id = Pelita Jaya U-21 v Arema FC U-21
+|date= 13 February 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Pelita Jaya U-21]]
+|score= 3 &ndash; 0
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4472&home=PELITA%20JAYA%20U21 Report]
+|team2= [[Arema FC U-21|Arema U-21]]
+|goals1= [[Afrian Candra Perdana|Afrian C.P]] {{yel|62}} <br />[[Riyandi Ramadhana Putra|Riyandi Putra]] {{goal|65}} <br />[[Saripulloh]] {{yel|69}} <br />[[Afriansyah]] {{goal|82||90}} <br />[[M. Syukron]] {{yel|87}}
+|goals2= 
+|stadium= [[Singaperbangsa Stadium]], [[Karawang]]
+|attendance= 527
+|referee= [[Sulistyoko]] }}
+----
+{{football box
+|id = Deltras Sidoarjo U-21 v Persela U-21
+|date= 6 March 2011
+|time= 19:00 ([[UTC+7]])
+|team1= [[Deltras Sidoarjo U-21|Deltras U-21]]
+|score= 2 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4480&home=DELTRAS%20U21 Report]
+|team2= [[Persela U-21]]
+|goals1= [[Wage Dwi Aryo|Dwi Aryo]] {{goal|30}} <br/>[[Ahmad Hamdan Syaifuddin|Ahmad H.S]] {{goal|36}} <br/>[[Egi Wahyu Anugrah Ramadhan|Egi Wahyu]] {{yel|38}} <br />[[Agung Setiawan]] {{yel|70}} 
+|goals2= {{goal|16}} [[Fandi Eko Utomo|Fandi Eko]] <br>{{yel|55}} [[Galih Rangga Birama|Galih Rangga]] <br>{{yel|82}} [[M. Radikal Idealis|M. Radikal]] 
+|stadium= [[Gelora Delta Stadium]], [[Sidoarjo]]
+|attendance= 1,000
+|referee= [[Sulistyoko]] }}
+----
+{{football box
+|id = Pelita Jaya U-21 v Deltras Sidoarjo U-21
+|date= 12 March 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Pelita Jaya U-21]]
+|score= 2 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4485&home=PELITA%20JAYA%20U21 Report]
+|team2= [[Deltras Sidoarjo U-21|Deltras U-21]]
+|goals1= [[Asep Berlian]] {{yel|74}} <br />[[M. Syukron]] {{yel|86}} <br />[[Asep Budi Santoso|Asep Budi]] {{yel|90}}
+|goals2= {{yel|16}} [[Yoga Wahyu Prasetya|Yoga Wahyu]] <br />{{yel|86}} [[Ahmad Setiawan]] <br />{{goal|90}} [[Dave Mustaine]] 
+|stadium= [[Singaperbangsa Stadium]], [[Karawang]]
+|attendance= 300
+|referee= [[Hamsir]] }}
+----
+{{football box
+|id = Persijap U-21 v Arema FC U-21
+|date= 22 March 2011
+|time= 19:00 ([[UTC+7]])
+|team1= [[Persijap U-21]]
+|score= 0 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4490&home=PERSIJAP%20U21 Report]
+|team2= [[Arema FC U-21|Arema U-21]]
+|goals1= [[Fendy Julianto|Fendy]] {{yel|30}}
+|goals2= {{yel|19}} [[Darmawan Wicaksono|Darmawan]] <br />{{goal|90}} [[Mohammad Andi Fatchur Rohman|Fatchur Rohman]] <br />{{sent off|2|28|89}} [[Dedik Priyo Laksono|Dedik Priyo]]
+|stadium= [[Gelora Bumi Kartini Stadium|GBK Stadium]], [[Jepara]]
+|attendance= 500
+|referee= [[Najamuddin Aspiran]] }}
+----
+{{football box
+|id = Arema FC U-21 v Pelita Jaya U-21
+|date= 27 March 2011
+|time= 18:30 ([[UTC+7]])
+|team1= [[Arema FC U-21|Arema U-21]]
+|score= 2 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4494&home=AREMA%20FC%20U21 Report]
+|team2= [[Pelita Jaya U-21]]
+|goals1= [[Mohammad Andi Fatchur Rohman|Fatchur Rohman]] {{goal|29||47}} <br />[[Darmawan Wicaksono|Darmawan]] {{sent off|0|45}} <br />[[Aji Saka (footballer)|Aji Saka]] {{yel|90}} 
+|goals2= {{yel|45}} [[Riyandi Ramadhana Putra|Riyandi Putra]] <br />{{sent off|0|45}} [[Ibnu Adzam]] <br />{{yel|67}} {{goal|71}} [[Afriansyah]] <br />{{yel|86}} [[Saripulloh]] 
+|stadium= [[Kanjuruhan Stadium]], [[Malang]]
+|attendance= 215
+|referee= [[Hamsir]] }}
+----
+{{football box
+|id = Arema FC U-21 v Deltras Sidoarjo U-21
+|date= 1 April 2011
+|time= 18:30 ([[UTC+7]])
+|team1= [[Arema FC U-21|Arema U-21]]
+|score= 4 &ndash; 0
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4495&home=AREMA%20FC%20U21 Report]
+|team2= [[Deltras Sidoarjo U-21|Deltras U-21]]
+|goals1= [[Ribut Wahyudi]] {{goal|3||15}} <br />[[Gilang Didik Permadi|Gilang D.P]] {{yel|41}} <br />Ribut Wahyudi {{yel|42}} <br />[[Mohammad Andi Fatchur Rohman|Fatchur Rohman]] {{goal|50}} <br />Gilang D.P {{goal|81}} 
+|goals2= {{yel|26}} [[Moch. Farid]] <br />{{yel|40}} [[M. Bagus Nurwaanto]] <br />{{yel|85}} [[Dave Mustaine]] 
+|stadium= [[Kanjuruhan Stadium]], [[Malang]]
+|attendance= 206
+|referee= [[Olehadi]] }}
+----
+{{football box
+|id = Persela U-21 v Pelita Jaya U-21
+|date= 2 April 2011
+|time= 19:00 ([[UTC+7]])
+|team1= [[Persela U-21]]
+|score= 0 &ndash; 1
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4496&home=PERSELA%20U21 Report]
+|team2= [[Pelita Jaya U-21]]
+|goals1= [[Thomas Rian Bayu Hermawan|Rian Bayu]] {{yel|27}} <br />[[Eky Taufik Febriyanto|Eky Taufik]] {{yel|55}}
+|goals2= {{goal|35}} [[Afriansyah]] <br />{{yel|77}} [[Asep Berlian]] <br />{{yel|87}} [[Shahar Ginanjar]] 
+|stadium= [[Surajaya Stadium]], [[Lamongan]]
+|attendance= 101
+|referee= [[Joni Parera]] }}
+----
+{{football box
+|id = Persijap U-21 v Persela U-21
+|date= 7 April 2011
+|time= 19:00 ([[UTC+7]])
+|team1= [[Persijap U-21]]
+|score= 1 &ndash; 3
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4499&home=PERSIJAP%20U21 Report]
+|team2= [[Persela U-21]]
+|goals1= [[Andi Supriyanto]] {{goal|15}} <br />[[Alex Fauzi]] {{yel|39}} <br />[[Moch. Choirudin]] {{yel|72}} <br />[[Muchamad Alex Fatoni|M. Alex Fatoni]] {{yel|89}}
+|goals2= {{goal|35}} [[Sutrisno Hardi Kusuma|Sutrisno .H.K]] <br />{{goal|45||70}} [[Rudy Santoso]] <br />{{yel|76}} [[Ryco Fernanda]] 
+|stadium= [[Gelora Bumi Kartini Stadium|GBK Stadium]], [[Jepara]]
+|attendance= 225
+|referee= [[Sulistyoko]] }}
+----
+{{football box
+|id = Deltras Sidoarjo U-21 v Persijap U-21
+|date= 13 April 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Deltras Sidoarjo U-21|Deltras U-21]]
+|score= 4 &ndash; 0
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4501&home=DELTRAS%20U21 Report]
+|team2= [[Persijap U-21]]
+|goals1= [[Faisal Muttaqin]] {{goal|47}} <br />[[Dave Mustaine]] {{goal|53|pen.}} <br />[[Ahmad Setiawan]] {{goal|65}} <br />[[Agung Setiawan]] {{yel|69}} <br />[[M. Bagus Nurwaanto]] {{yel|71}} <br />[[M. Nasrul Hidayah]] {{goal|74|pen.}}
+|goals2= {{yel|33}} [[Efendi Junianto]] <br />{{yel|67}} [[Teguh Wibowo Santoso|Teguh wibowo]] <br />{{yel|71}} [[M. Afif Fahrudi]] <br />{{yel|72}} [[Ahmad Fa Izin]] <br />{{yel|80}} [[Muhammad Sapuan]] 
+|stadium= [[Gelora Delta Stadium]], [[Sidoarjo]]
+|attendance= 200
+|referee= [[M. Safei]] }}
+----
+{{football box
+|id = Pelita Jaya U-21 v Persijap U-21
+|date= 17 April 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Pelita Jaya U-21]]
+|score= 4 &ndash; 0
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4505&home=PELITA%20JAYA%20U21 Report]
+|team2= [[Persijap U-21]]
+|goals1= [[Afrian Candra Perdana|Afrian Candra]] {{goal|4}} <br />[[Afriansyah]] {{goal|16||32|pen.}} <br />[[Jhoni Arif Purwanto|Jhoni Arif]] {{goal|40}} <br />[[Muhamad Darusman]] {{yel|70}} <br />[[Ibnu Adzam]] {{goal|87}}
+|goals2= {{yel|33}} [[Tommy Veriyanto]] 
+|stadium= [[Singaperbangsa Stadium]], [[Karawang]]
+|attendance= 600
+|referee= [[Maslah Iksan]] }}
+
+{{football box
+|id = Persela U-21 v Arema FC U-21
+|date= 17 April 2011
+|time= 15:00 ([[UTC+7]])
+|team1= [[Persela U-21]]
+|score= 3 &ndash; 0
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4506&home=PERSELA%20U21 Report]
+|team2= [[Arema FC U-21]]
+|goals1= [[M. Radikal Idealis|M. Radikal]] {{yel|48}} <br />[[Fandi Eko Utomo|Fandi Eko]] {{goal|57}} <br />[[Rudy Santoso]] {{goal|64||73}} 
+|goals2= {{yel|36}} [[Galih Rajasa Dhana|Galih Rajasa]] <br />{{yel|47}} [[Zainal Solli]] <br />{{yel|55}} [[Dedik Priyo Laksono|Dedik Priyo]] 
+|stadium= [[Surajaya Stadium]], [[Lamongan]]
+|attendance= 2,252
+|referee= [[Ahmad Suparman]] }}
+
+===Group 3===
+<section begin=R1G3 />{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=PRPT|name_PRPT=[[Persisam Putra U-21]]
+|team2=PRSW|name_PRSW=[[Persiwa Wamena U-21|Persiwa U-21]]
+|team3=PRPR|name_PRPR=[[Persipura U-21]]
+|team4=BNTG|name_BNTG=[[Bontang FC U-21]]
+|team5=PRSB|name_PRSB=[[Persiba U-21]]
+|win_PRPT=6|draw_PRPT=0|loss_PRPT=2|gf_PRPT=25|ga_PRPT=11|status_PRPT=A
+|win_PRSW=5|draw_PRSW=0|loss_PRSW=3|gf_PRSW=11|ga_PRSW=12|status_PRSW=A
+|win_PRPR=4|draw_PRPR=2|loss_PRPR=2|gf_PRPR=9|ga_PRPR=7
+|win_BNTG=2|draw_BNTG=1|loss_BNTG=5|gf_BNTG=9|ga_BNTG=18
+|win_PRSB=0|draw_PRSB=3|loss_PRSB=5|gf_PRSB=3|ga_PRSB=9
+|status_text_A=Advanced to the [[#Second round|second group stage]]
+|col_A=#cfc|result1=A|result2=A
+
+|update=complete|source=[http://liga-indonesia.co.id/bli/index.php?go=news.matchfull&divisi=22 ISL U-21 Review] and [https://web.archive.org/web/20101010073907/http://liga-indonesia.co.id/bli/index.php?go=news.standings ISL U-21 Table]
+}}<section end=R1G3 />
+
+{{football box
+|id = Persiwa Wamena U-21 v Persiba U-21
+|date= 20 January 2011
+|time= 15:30 ([[UTC+9]])
+|team1= [[Persiwa Wamena U-21|Persiwa U-21]]
+|score= 1 &ndash; 0
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4449&home=PERSIWA%20U21 Report]
+|team2= [[Persiba U-21]]
+|goals1= [[Yohanes Ferinando Pahabol|Ferinando]] {{goal|53}} <br />Ferinando {{yel|83}} 
+|goals2= {{yel|37}} [[Asman (footballer)|Asman]]
+|stadium= [[Pendidikan Stadium]], [[Wamena]]
+|attendance= 1,200
+|referee= [[Khusnul Yaqin]] }}
+----
+{{football box
+|id = Persisam Putra U-21 v Bontang FC U-21
+|date= 23 January 2011
+|time= 20:00 ([[UTC+8]])
+|team1= [[Persisam Putra U-21|Persisam U-21]]
+|score= 4 &ndash; 3
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4451&home=PERSISAM%20U21 Report]
+|team2= [[Bontang FC U-21|Bontang U-21]]
+|goals1= [[Loudry Meilana Setiawan|Loudry M.S]] {{goal|13}} <br />[[Radiansyah]] {{goal|22|pen.}}  <br />[[Aldeir Makatindu]] {{goal|30}} <br />[[Imam Bayhaqi]] {{goal|89}}
+|goals2= {{yel|2}} [[Anderson Imanuel Lapod|Anderson]] <br />{{yel|39}} [[Hendra L.M]] <br />{{goal|64||70}} [[Arnoldy Polii]] <br />{{goal|72}} [[Toni Iswanto]] <br />{{yel|78}} [[Idul Hakim]] 
+|stadium= [[Segiri Samarinda Stadium|Segiri Stadium]], [[Samarinda]]
+|attendance= 1,328
+|referee= [[Joni Parera]] }}
+----
+{{football box
+|id = Persipura U-21 v Persiba U-21
+|date= 25 January 2011
+|time= 18:30 ([[UTC+9]])
+|team1=[[Persipura U-21]]
+|score= 0 &ndash; 0
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4453&home=PERSIPURA%20U21 Report]
+|team2= [[Persiba U-21]]  
+|goals1= [[Hendrik Fandekris Rewang|Hendrik Rewang]] {{yel|54}} <br />[[Daniel Siogama Tata|Daniel Tata]] {{yel|61}} <br />[[Sampari Yermia Matui|S.Y Matui]] {{yel|90}} 
+|goals2= {{sent off|2|19|59}} [[Achmad Rahmadhan]] <br />{{yel|82}} [[Muhammad Husain Sangaji|M. Husain]]
+|stadium= [[Mandala Stadium]], [[Jayapura]]
+|attendance= 215
+|referee= [[Djumadi Effendi]] }}
+----
+{{football box
+|id = Persiwa Wamena U-21 v Persipura U-21
+|date= 30 January 2011
+|time= 15:30 ([[UTC+9]])
+|team1= [[Persiwa Wamena U-21|Persiwa U-21]]
+|score= 4 &ndash; 1
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4459&home=PERSIWA%20U21 Report]
+|team2= [[Persipura U-21]]
+|goals1= [[Yohanes Ferinando Pahabol|Ferinando]] {{goal|41||66||74}} <br />[[Franciskus X. Mumpo|F.X. Mumpo]] {{goal|52}} <br />Ferinando {{yel|75}} <br />[[Franciskus R. Mabel|F.R. Mabel]] {{yel|85}}
+|goals2= {{goal|84}} [[Ravel Zakeus Ohee|Ravel Ohee]] <br />{{yel|84}} [[Vence Leonardo Yaas|Leonardo]] 
+|stadium= [[Pendidikan Stadium]], [[Wamena]]
+|attendance= 532
+|referee= [[Anselmus (referee)|Anselmus]] }}
+----
+{{football box
+|id = Persiba U-21 v Persisam Putra U-21
+|date= 2 February 2011
+|time= 19:30 ([[UTC+8]])
+|team1= [[Persiba U-21]]
+|score= 1 &ndash; 2
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4461&home=PERSIBA%20U21 Report]
+|team2= [[Persisam Putra U-21|Persisam U-21]]
+|goals1= [[Muhammad Husain Sangaji|M. Husain]] {{yel|73}} <br />[[Rusmin Nuryadin]] {{goal|81|pen.}}
+|goals2= {{goal|46}} [[Aldeir Makatindu]] <br />{{goal|51}} [[Loudry Meilana Setiawan|Loudry M.S]] <br />{{yel|56}} [[M. Arsyad]]
+|stadium= [[Persiba Stadium]], [[Balikpapan]]
+|attendance= 750
+|referee= [[Joni Parera]] }}
+----
+{{football box
+|id = Persiba U-21 v Bontang FC U-21
+|date= 5 February 2011
+|time= 15:30 ([[UTC+8]])
+|team1= [[Persiba U-21]]
+|score= 1 &ndash; 1
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4463&home=PERSIBA%20U21 Report]
+|team2= [[Bontang FC U-21|Bontang U-21]]
+|goals1= [[Eko Sirayuddin Syam|Eko Syam]] {{yel|41}} <br />[[Asman (footballer)|Asman]] {{yel|67}} <br />[[Suryadi (footballer)|Suryadi]] {{goal|76}} <br />[[Hafiz Romdani]] {{yel|77}}
+|goals2= {{yel|14}} [[Asri (footballer)|Asri]] <br/>{{goal|90}} [[Arifuddin Ansar]] <br />{{yel|90}} Arifuddin Ansar
+|stadium= [[Persiba Stadium]], [[Balikpapan]]
+|attendance= 315
+|referee= [[Djumadi Effendi]] }}
+----
+{{football box
+|id = Bontang FC U-21 v Persiwa Wamena U-21
+|date= 10 February 2011
+|time= 16:30 ([[UTC+8]])
+|team1= [[Bontang FC U-21|Bontang U-21]]
+|score= 1 &ndash; 0
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4469&home=BONTANG%20FC%20%20U21 Report]
+|team2= [[Persiwa Wamena U-21|Persiwa U-21]]
+|goals1= [[Arnoldy Polii]] {{goal|54}}
+|goals2= {{yel|78}} [[Frenky Adi Kosay|Frenky Kosay]]
+|stadium= [[Mulawarman Stadium]], [[Bontang]]
+|attendance= 100
+|referee= [[Djumadi Effendi]] }}
+
+{{football box
+|id = Persisam Putra U-21 v Persipura U-21
+|date= 10 February 2011
+|time= 19:00 ([[UTC+8]])
+|team1= [[Persisam Putra U-21|Persisam U-21]]
+|score= 1 &ndash; 2
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4468&home=PERSISAM%20U21 Report]
+|team2 = [[Persipura U-21]]
+|goals1 = [[M. Nur Yassin]] {{yel|24}} <br>[[Sevan Lingga Pratama|Lingga]] {{yel|28}} <br>[[M. Arsyad]] {{yel|55}} <br>[[Dendi Sembiring]] {{goal|79}}
+|goals2 = {{yel|36}} [[Daniel Siogama Tata|Daniel Tata]] <br>{{yel|44}} [[Christison Benyamin Dimara|Tison Dimara]] <br>{{goal|47|pen.}} [[Gilbert Richard Dwaramury|Gilbert]] <br>{{goal|82}} [[Felix Meraudje]] 
+|stadium = [[Segiri Samarinda Stadium|Segiri Stadium]], [[Samarinda]]
+|attendance= 1,279
+|referee = [[Khusnul Yaqin]] }}
+----
+{{football box
+|id = Bontang FC U-21 v Persipura U-21
+|date= 13 February 2011
+|time= 15:30 ([[UTC+8]])
+|team1= [[Bontang FC U-21|Bontang U-21]]
+|score= 1 &ndash; 2
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4473&home=BONTANG%20FC%20%20U21 Report]
+|team2= [[Persipura U-21]]
+|goals1= [[Nur Aidil]] {{goal|25}} <br>[[Anderson Imanuel Lapod|Anderson]] {{yel|34}} <br>[[Hendra L.M]] {{yel|66}} <br>[[Ikhwal]] {{yel|75}} <br>[[Rachamad Ajens Ariansyah|R.A. Ariansyah]] {{yel|90}}
+|goals2= {{goal|17}} [[Gilbert Richard Dwaramury|Gilbert]] <br>{{goal|23}} [[Marthen Karafir]] <br>{{yel|55}} [[Sampari Yermia Matui|Yermia Matui]] <br>{{yel|87}} Marthen Karafir <br>{{sent off|0|88}} Gilbert
+|stadium= [[Mulawarman Stadium]], [[Bontang]]
+|attendance= 300
+|referee= [[M. Safei]] }}
+
+{{football box
+|id = Persisam Putra U-21 v Persiwa Wamena U-21
+|date= 13 February 2011
+|time= 19:00 ([[UTC+8]])
+|team1= [[Persisam Putra U-21|Persisam U-21]]
+|score= 9 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4474&home=PERSISAM%20U21 Report]
+|team2 = [[Persiwa Wamena U-21|Persiwa U-21]]
+|goals1 = [[Aldeir Makatindu|Aldeir]] {{goal|6||21||45|pen.|||57}} <br>[[Radiansyah]] {{goal|12||84}} <br>[[Adi Sucipto]] {{goal|32}} <br>[[Imam Bayhaqi]] {{goal|37}} <br>[[Loudry Meilana Setiawan|Loudry M.S]] {{goal|87}}
+|goals2 = {{yel|42}} [[Usa Laksono]] <br>{{yel|64}} [[Frenky Adi Kosay|Frenky Kosay]] <br>{{yel|80}} [[Franciskus R. Mabel|F.R. Mabel]] <br>{{goal|89}} Robert Huby 
+|stadium = [[Segiri Samarinda Stadium|Segiri Stadium]], [[Samarinda]]
+|attendance= 1,549
+|referee = [[Saripudin]] }}
+----
+{{football box
+|id = Persiwa Wamena U-21 v Persisam Putra U-21
+|date= 7 March 2011
+|time= 15:30 ([[UTC+9]])
+|team1= [[Persiwa Wamena U-21|Persiwa U-21]]
+|score= 1 &ndash; 0
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4481&home=PERSIWA%20U21 Report]
+|team2 = [[Persisam Putra U-21|Persisam U-21]]
+|goals1 = [[Usa Laksono]] {{yel|18}} <br>[[Yuni Daren Nekwek|Yuni Daren]] {{goal|70}} 
+|goals2 = 
+|stadium = [[Pendidikan Stadium]], [[Wamena]]
+|attendance= 239
+|referee = [[Suharto (referee)|Suharto]] }}
+
+{{football box
+|id = Persipura U-21 v Bontang FC U-21
+|date= 7 March 2011
+|time= 18:30 ([[UTC+9]])
+|team1= [[Persipura U-21]]
+|score= 3 &ndash; 0 ([[Walkover|w.o]])
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4482&home=PERSIPURA%20U21 Report]
+|team2= [[Bontang FC U-21|Bontang U-21]]
+|goals1= 
+|goals2= 
+|stadium= [[Mandala Stadium]], [[Jayapura]]
+|attendance= 458
+|referee= [[Olehadi]] }}
+----
+{{football box
+|id = Persiwa Wamena U-21 v Bontang FC U-21
+|date= 10 March 2011
+|time= 15:30 ([[UTC+9]])
+|team1= [[Persiwa Wamena U-21|Persiwa U-21]]
+|score= 3 &ndash; 0 ([[Walkover|w.o]])
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4483&home=PERSIWA%20U21 Report]
+|team2 = [[Bontang FC U-21|Bontang U-21]]
+|goals1 = 
+|goals2 = 
+|stadium = [[Pendidikan Stadium]], [[Wamena]]
+|attendance= 150
+|referee = [[Saripudin]] }}
+
+{{football box
+|id = Persipura U-21 v Persisam Putra U-21
+|date= 10 March 2011
+|time= 18:30 ([[UTC+9]])
+|team1= [[Persipura U-21]]
+|score= 0 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4484&home=PERSIPURA%20U21 Report]
+|team2= [[Persisam Putra U-21|Persisam U-21]]
+|goals1= 
+|goals2= {{goal|70}} [[Aldeir Makatindu]]
+|stadium= [[Mandala Stadium]], [[Jayapura]]
+|attendance= 482
+|referee= Mardi }}
+----
+{{football box
+|id = Persisam Putra U-21 v Persipura U-21
+|date= 23 March 2011
+|time= 16:30 ([[UTC+8]])
+|team1= [[Persisam Putra U-21|Persisam U-21]]
+|score= 3 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4489&home=PERSISAM%20U21 Report]
+|team2 = [[Persiba U-21]]
+|goals1 = [[Imam Baihaqi]] {{goal|53}} <br>[[Ahmad Fadeli]] {{goal|65}} <br>[[Adi Sucipto]] {{goal|68}} <br>[[Dendi Sembiring]] {{yel|89}}
+|goals2 = {{goal|12}} [[Suryadi (footballer)|Suryadi]] <br>{{yel|45}} [[Yudi Asmawanto]] <br>{{yel|81}} Reski 
+|stadium = [[Segiri Samarinda Stadium|Segiri Stadium]], [[Samarinda]]
+|attendance= 1,326
+|referee = [[M. Safei]] }}
+----
+{{football box
+|id = Bontang FC U-21 v Persiba U-21
+|date= 26 March 2011
+|time= 19:00 ([[UTC+8]])
+|team1= [[Bontang FC U-21|Bontang U-21]]
+|score= 1 &ndash; 0
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4492&home=BONTANG%20FC%20%20U21 Report]
+|team2= [[Persiba U-21]]
+|goals1= [[Stefano Manangka]] {{yel|22}} <br>[[Imran Nur]] {{yel|65}} <br>[[Rachamad Ajens Ariansyah|R.A. Ariansyah]] {{goal|89}}
+|goals2= {{sent off|2|40|64}} [[Muhammad Husain Sangaji|Muh. Husain]]
+|stadium= [[Mulawarman Stadium]], [[Bontang]]
+|attendance= 100
+|referee= [[Khusnul Yaqin]] }}
+----
+{{football box
+|id = Persipura U-21 v Persiwa Wamena U-21
+|date= 3 April 2011
+|time= 15:30 ([[UTC+9]])
+|team1= [[Persipura U-21]]
+|score= 1 &ndash; 0
+|report=[http://liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4498&home=PERSIPURA%20U21 Report]
+|team2= [[Persiwa Wamena U-21|Persiwa U-21]]
+|goals1= [[Arnold Macklis Haay|Mucklis Haay]] {{yel|68}} <br />[[Felix Maraudjo]] {{yel|72}} <br />[[Vence Leonardo Yaas|Leonardo]] {{goal|76}} <br />Leonardo {{yel|76}}
+|goals2= {{yel|27}} [[Vicky Pahabol]] <br />{{yel|68}} [[Frenky Adi Kosay|Frenky Kosay]] 
+|stadium= [[Mandala Stadium]], [[Jayapura]]
+|attendance= 183
+|referee= [[Saripudin]] }}
+----
+{{football box
+|id = Persiba U-21 v Persipura U-21
+|date= 13 April 2011
+|time= 16:00 ([[UTC+8]])
+|team1= [[Persiba U-21]]
+|score= 0 &ndash; 0
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4502&home=PERSIBA%20U21 Report]
+|team2= [[Persipura U-21]]
+|goals1= [[Awal Ramadhan]] {{yel|57}} <br />[[Suryadi (footballer)|Suryadi]] {{yel|64}} <br />[[Achmad Setiawan]] {{yel|90}}
+|goals2= {{yel|25}} [[Rizad Rahakbauw]] <br />{{yel|47}} [[Christison Benyamin Dimara|Tison Dimara]]
+|stadium= [[Persiba Stadium]], [[Balikpapan]]
+|attendance= 250
+|referee= [[Mulyadi]] }}
+----
+{{football box
+|id = Persiba U-21 v Persiwa Wamena U-21
+|date= 17 April 2011
+|time= 15:30 ([[UTC+8]])
+|team1= [[Persiba U-21]]
+|score= 0 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4508&home=PERSIBA%20U21 Report]
+|team2= [[Persiwa Wamena U-21|Persiwa U-21]]
+|goals1= [[Achmad Rahmadhan]] {{sent off|0|40}} <br />[[Hari Prayogi]] {{yel|58}} <br />[[Achmad Setiawan]] {{yel|65}}
+|goals2= {{yel|30}} Robert Huby <br />{{sent off|0|40}} [[Yohanes Ferinando Pahabol|Feri Pahabol]] <br />{{yel|59}} [[Frenky Adi Kosay|Frenky Kosay]] <br />{{goal|83}} Robert Huby
+|stadium= [[Persiba Stadium]], [[Balikpapan]]
+|attendance= 2,312
+|referee= [[Olehadi]] }}
+
+{{football box
+|id = Bontang FC U-21 v Persisam Putra U-21
+|date= 17 April 2011
+|time= 19:00 ([[UTC+8]])
+|team1= [[Bontang FC U-21|Bontang U-21]]
+|score= 2 &ndash; 5
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4507&home=BONTANG%20FC%20%20U21 Report]
+|team2= [[Persisam Putra U-21|Persisam U-21]]
+|goals1= Ardian {{goal|10}} <br />[[Anderson Imanuel Lapod|Anderson]] {{yel|17}} <br />Ardian {{yel|17}} <br />[[Gusti Muhammad Ahyan Rifani|Gusti Rifani]] {{goal|50}} <br />[[Rachamad Ajens Ariamsyah]] {{yel|54}} <br />[[Idul Hakim]] {{yel|72}}
+|goals2= {{goal|15||84||89}} [[Radiansyah]] <br />{{yel|28}} [[Sebastian Ferdy Juanito|Ferdy Juan]] <br />{{yel|43}} [[Imam Bayhaki]] <br />{{yel|61}} [[Ismail Marzuki]] <br />{{yel|77}} [[Sevan Lingga Pratama|Lingga Pratama]] <br />{{yel|79}} [[Dendi Sembiring]]
+|stadium= [[Mulawarman Stadium]], [[Bontang]]
+|attendance= 100
+|referee= [[M. Safei]] }}
+
+== Second round ==
+All match play in [[Soemantri Brodjonegoro Stadium]]. The draw for this Round took place on 21 April 2011<ref>[http://www.bolaindo.com/?page=berita&sub=detail&id=17563 Hasil Drawing Babak 6 Besar LSI U-21]</ref> with ties to be played on the weekend of 26–30 April 2011. Group winners and runners-up advanced to the [[2010–11 Indonesia Super League U-21 knockout stage|knockout round]].
+
+===Group A===
+<section begin=R2GA />{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=PRPT|name_PRPT=[[Persisam Putra Samarinda U-21|Persisam U-21]]
+|team2=PRSL|name_PRSL=[[Persela U-21]]
+|team3=PRSB|name_PRSB=[[Persib Bandung U-21|Persib U-21]]
+|win_PRPT=1|draw_PRPT=1|loss_PRPT=0|gf_PRPT=3|ga_PRPT=1|status_PRPT=A
+|win_PRSL=0|draw_PRSL=2|loss_PRSL=0|gf_PRSL=2|ga_PRSL=2|status_PRSL=A
+|win_PRSB=0|draw_PRSB=1|loss_PRSB=1|gf_PRSB=1|ga_PRSB=3
+|col_A=#cfc|status_text_A=Advanced to the [[2010–11 Indonesia Super League U-21 knockout stage|knockout round]]
+|result1=A|result2=A
+|update=complete|source=[http://liga-indonesia.co.id/bli/index.php?go=news.matchfull&divisi=22 ISL U-21 Review] and [https://web.archive.org/web/20101010073907/http://liga-indonesia.co.id/bli/index.php?go=news.standings ISL U-21 Table]
+}}<section end=R2GA />
+
+{{football box
+|id = Persib Bandung U-21 v Persela U-21
+|date= 26 April 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Persib Bandung U-21|Persib U-21]]
+|score= 1 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4509&home=PERSIB%20U21 Report]
+|team2= [[Persela U-21]]
+|goals1= [[Erwin Ramdani]] {{yel|20}} <br />[[Rudi Geofani]] {{yel|31}} <br />[[Suhandi]] {{yel|36}} <br />[[Rudiyana]] {{goal|90}}
+|goals2= {{goal|12}} [[Muhammad Bangkit Sabily|M.B. Sabily]] <br />{{yel|12}} M.B. Sabily <br />{{yel|34}} [[Galih Rangga Birama|Galih Rangga]]
+|stadium= [[Soemantri Brodjonegoro Stadium]], [[Jakarta]]
+|attendance= 0
+|referee= [[Armando Pribadi]] }}
+----
+{{football box
+|id = Persela U-21 v Persisam Putra U-21
+|date= 28 April 2011
+|time= 19:00 ([[UTC+7]])
+|team1= [[Persela U-21]]
+|score= 1 &ndash; 1
+|report= [http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4510&home=PERSELA%20U21 (Report)]
+|team2= [[Persisam Putra U-21|Persisam U-21]]
+|goals1= [[Agung Fitrayanto]] {{Yel|15}} <br />Agung Fitrayanto {{goal|45|pen.}} <br />[[Sutrisno Hardi Kusuma|Sutrisno Hardi]] {{Yel|55}} <br />[[Ryco Fernanda]] {{sent off|2|57|73}} 
+|goals2= {{goal|2}} [[Radiansyah]] <br />{{yel|34}} [[Muhammad Zainal Fanani|Muh. Zainal]] <br />{{yel|83}} [[Wahyu Kristanto]] <br />{{yel|90}} [[Adi Sucipto]]
+|stadium= [[Soemantri Brodjonegoro Stadium]], [[Jakarta]]
+|attendance= 0
+|referee= [[Olehadi]] }}
+----
+{{football box
+|id = Persisam Putra Samarinda U-21 v Persib Bandung U-21
+|date= 30 April 2011
+|time= 15:30 ([[UTC+9]])
+|team1=[[Persisam Putra Samarinda U-21|Persisam U-21]]
+|score= 2 &ndash; 0
+|report= [http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4511&home=PERSISAM%20U21 (Report)]
+|team2= [[Persib Bandung U-21|Persib U-21]]  
+|goals1= [[Wahyu Kristanto]] {{Yel|50}} <br />[[Imam Bayhaqi]] {{goal|72}} <br />[[Loudry Meliana Setiawan|Loudry Meilana]] {{Yel|78}} <br />[[Aldeir Makatindu]] {{goal|82}} <br />[[Radiansyah]] {{yel|90}}
+|goals2= {{sent off|2|78|90}} [[Ana Supriatna]]
+|stadium= [[Soemantri Brodjonegoro Stadium]], [[Jakarta]]
+|attendance= 0
+|referee= [[Joni Parera]] }}
+
+===Group B===
+<section begin=R2GB />{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=PRSW|name_PRSW=[[Persiwa Wamena U-21|Persiwa U-21]]
+|team2=SMPD|name_SMPD=[[Semen Padang FC U-21|Semen Padang U-21]]
+|team3=PLJY|name_PLJY=[[Pelita Jaya U-21]]
+|win_PRSW=1|draw_PRSW=1|loss_PRSW=0|gf_PRSW=2|ga_PRSW=1|status_PRSW=A
+|win_SMPD=1|draw_SMPD=1|loss_SMPD=0|gf_SMPD=2|ga_SMPD=1|status_SMPD=A
+|win_PLJY=0|draw_PLJY=0|loss_PLJY=2|gf_PLJY=0|ga_PLJY=2
+|col_A=#cfc|status_text_A=Advanced to the [[2010–11 Indonesia Super League U-21 knockout stage|knockout round]]
+|result1=A|result2=A
+|update=complete|source=[http://liga-indonesia.co.id/bli/index.php?go=news.matchfull&divisi=22 ISL U-21 Review] and [https://web.archive.org/web/20101010073907/http://liga-indonesia.co.id/bli/index.php?go=news.standings ISL U-21 Table]
+}}<section end=R2GB />
+
+{{football box
+|id = Semen Padang FC U-21 v Persiwa Wamena U-21
+|date= 26 April 2011
+|time= 19:00 ([[UTC+7]])
+|team1= [[Semen Padang FC U-21|Semen Padang U-21]]
+|score= 1 &ndash; 1
+|report=[http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4512&home=SEMEN%20PADANG%20U21 Report]
+|team2= [[Persiwa Wamena U-21|Persiwa U-21]]
+|goals1= [[Yosua Pahabol]] {{goal|50}} <br />[[Anggi Topano]] {{yel|52}} 
+|goals2= {{goal|14}} [[Fransiskus X. Mumpo|F.X. Mumpo]] <br />{{yel|73}} [[Hobert Robert Elopere|Robert Elopere]] <br />{{yel|77}} [[Alan Arthur Aronggear|Alan Aronggear]]
+|stadium= [[Soemantri Brodjonegoro Stadium]], [[Jakarta]]
+|attendance= 0
+|referee= [[Sulistyoko]] }}
+----
+{{football box
+|id = Persiwa Wamena U-21 v Pelita Jaya U-21
+|date= 28 April 2011
+|time= 15:30 ([[UTC+7]])
+|team1= [[Persiwa Wamena U-21|Persiwa U-21]]
+|score= 1 &ndash; 0
+|report= [http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4513&home=PERSIWA%20U21 (Report)]
+|team2= [[Pelita Jaya U-21]]
+|goals1= [[Yohanes Ferinando Pahabol|Feri Pahabol]] {{goal|51}} <br />[[Jeverson Aud]] {{yel|79}}
+|goals2= {{yel|76}} [[Jhoni Arif Purwanto|Jhoni Arif]]
+|stadium= [[Soemantri Brodjonegoro Stadium]], [[Jakarta]]
+|attendance= 0
+|referee= [[Joni Parera]] }}
+----
+{{football box
+|id = Pelita Jaya U-21 v Semen Padang FC U-21
+|date= 30 April 2011
+|time= 19:00 ([[UTC+7]])
+|team1=[[Pelita Jaya U-21]]
+|score= 0 &ndash; 1
+|report= [http://www.liga-indonesia.co.id/bli/index.php?go=news.matchreview&matchID=4514&home=PELITA%20JAYA%20U21 (Report)]
+|team2= [[Semen Padang FC U-21|Semen Padang U-21]]  
+|goals1= [[Asep Berlian]] {{yel|67}}
+|goals2= {{yel|7}} [[Arifan Fitra Masril|Arifan Fitra]] <br />{{yel|40}} [[Satria Eka Putra|Satria Eka]] <br />{{yel|63}} [[Yosua Pahabol]] <br />{{goal|77}} [[Robertho Sogrim]] 
+|stadium= [[Soemantri Brodjonegoro Stadium]], [[Jakarta]]
+|attendance= 100
+|referee= [[Olehadi]] }}
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20101010073907/http://liga-indonesia.co.id/bli/index.php?go=news.standings Indonesia Super League standings (including U-21 ISL)]
+*[https://web.archive.org/web/20101126015647/http://liga-indonesia.co.id/bli/index.php?go=news.clubdetail&type=detail&klub=5 Profile ISL U-21 Club Participant]
+
+{{2010-11 in Indonesian football}}
+{{Indonesia Super League U-21 seasons}}
+
+{{DEFAULTSORT:2010-11 Indonesia Super League U-21 group stage}}
+[[Category:2010–11 Indonesia Super League U-21|group stage]]

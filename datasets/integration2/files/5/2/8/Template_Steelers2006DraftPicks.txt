@@ -1,0 +1,24 @@
+{{Navbox
+| name       = Steelers2006DraftPicks
+| title      = [[Pittsburgh Steelers|<span style="{{NFLSecondaryColor|Pittsburgh Steelers}}">Pittsburgh Steelers</span>]] [[2006 NFL draft|<span style="{{NFLSecondaryColor|Pittsburgh Steelers}}">2006 NFL draft</span>]] selections
+| state = {{{state|autocollapse}}}
+| titlestyle = {{NFLPrimaryStyle|Pittsburgh Steelers|border=2}}; {{NFLSecondaryColor|Pittsburgh Steelers}};
+| bodyclass  = hlist
+| list1      =
+* [[Santonio Holmes]]
+* [[Anthony Smith (safety)|Anthony Smith]]
+* [[Willie Reid (American football)|Willie Reid]]
+* [[Willie Colon (American football)|Willie Colon]]
+* [[Orien Harris]]
+* [[Omar Jacobs]]
+* [[Charles Davis (tight end)|Charles Davis]]
+* [[Marvin Philip]]
+* [[Cedric Humes]]
+<noinclude>
+| below      = {{Pittsburgh Steelers Draft template list}}
+| belowstyle = {{NFLAltPrimaryColor|Pittsburgh Steelers|year=2006}}
+</noinclude>
+}}<noinclude>
+{{collapsible option}}
+[[Category:Pittsburgh Steelers draft navigational boxes|2006]]
+</noinclude>

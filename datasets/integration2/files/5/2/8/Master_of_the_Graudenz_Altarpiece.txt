@@ -1,0 +1,30 @@
+{{multiple image 
+| direction         = vertical 
+| header            = <big>Grudziądz Altarpiece</big> 
+| header_background = #BBDD99 
+| width             = 237 
+| image1            = Grudziądz_Polyptych_15.jpg
+| caption1          =
+| image2            = Grudziądz_Polyptych_16.jpg
+| caption2          = Grudziądz Polyptych (opened and closed)
+}}
+
+The '''Master of the Grudziądz Altarpiece''' was a [[Bohemia]]n artist,<ref>Jan Royt, ''Medieval Painting in Bohemia'', [[Karolinum Press]], Praha 2003, p. 100</ref> active at the end of the 14th and the beginning of the 15th century.  His name is derived from an altarpiece which hung in the castle of the [[Teutonic Knights]] in [[Grudziądz]] ({{lang-de|Graudenz)}}, and may now be seen in [[National Museum in Warsaw]].<ref name="technologiaartis">[http://www.technologiaartis.org/3malba-drevo-poliptyk.html Technika malarska obrazów Poliptyku Grudziądzkiego] {{Webarchive|url=https://web.archive.org/web/20160303210132/http://www.technologiaartis.org/3malba-drevo-poliptyk.html |date=2016-03-03 }} (Technology of Grudziądz Altarpiece) at ''TechnologiaArtis.org.''</ref>  Closed, the altarpiece depicts the ''Noli me tangere'' and the [[resurrection]] of the dead on two registers to the left; on the right, [[Christ]] in Majesty and [[Mary, mother of Jesus|the Virgin]] and [[John the Apostle]].  The wings show eight scenes from the [[Passion (Christianity)|Passion]], while inside are scenes from the [[Life of the Virgin]].  At the center is an image of the [[Death of the Virgin|Death]] and [[Coronation of the Virgin]].
+
+It seems probable that the Master worked on the altarpiece with the aid of another artist; he seems to have been responsible for the Coronation scenes himself, showing a debt to the [[Master of the Třeboň Altarpiece]] in the process. The Passion cycle is likely by the hand of a painter from [[Lower Saxony]], from the circle of [[Master Bertram]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category-inline|Grudziądz Polyptych}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Master Of The Graudenz Altarpiece}}
+[[Category:Gothic painters]]
+[[Category:15th-century births]]
+[[Category:16th-century deaths]]
+[[Category:Czech painters]]
+[[Category:Anonymous artists|Graudenz Altarpiece, Master of the]]
+[[Category:Paintings of the National Museum, Warsaw]]

@@ -1,0 +1,53 @@
+{{Infobox settlement
+|official_name          = Dashtadem <br/> Դաշտադեմ
+|name_local             = 
+|image_skyline          = Դաշտադեմ.JPG
+|image_alt              = 
+|image_caption          = The keep inside Dashtadem Fortress.
+|pushpin_map            = Armenia
+|mapsize                = 150px
+|subdivision_type       = Country
+|subdivision_name       = [[Armenia]]
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      = [[Aragatsotn Province|Aragatsotn]]
+|leader_title           = Mayor
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2         = 0.73
+|area_footnotes         =
+|population_as_of       = 2001
+|population_total       = 613
+|population_density_km2 = auto
+|timezone               = [[Greenwich Mean Time|GMT+4]]
+|utc_offset             = +4
+|timezone_DST           = 
+|utc_offset_DST         =
+|coordinates            = {{coord|40|20|40.126|N|43|51|32.676|E|region:AM|display=inline,title}}
+|elevation_m            = 1458
+|area_code              = 
+|website                = 
+}}
+
+'''Dashtadem''' ({{lang-hy|Դաշտադեմ}}; formerly, '''Nerkin Talin''' (Note: The majority of residents in neighboring Talin still refer to Dashtadem as Nerkin Talin); Russified as '''Nizhniy Talin'''; both meaning "lower Talin") is a village located in the [[Aragatsotn Province]] of [[Armenia]]. The village contains the large [[Dashtadem Fortress]] dating to the 10th century but substantially rebuilt in the 19th century, along with a chapel dedicated to Saint Sargis also dating to the 10th century. The fortress keep has an [[Arabic language|Arabic]] dedicatory inscription of 1174, written in [[Kufic]] script attributing the structure to [[Sultan ibn Mahmud]] (Shahanshah), one of the [[Shaddadids]]. Past the village to the north just east of the road to [[Talin, Armenia|Talin]], and a few hundred meters before the electric substation (south), are the ruins of a large medieval [[caravanserai]]. Large sections of walls remain standing and the overall plan is still easily distinguished amongst the ruins. The remains of [[Stone Age]] obsidian workshops can be found on a hill to the west. In a cemetery south of Dashtadem, lies the restored 7th-century [[Kristapori Vank]].<ref name="Kiesling">{{cite book|last1=Kiesling |first1=Brady| first2=Raffi| last2= Kojian| year=2005 |title=Rediscovering Armenia: Guide| edition= 2nd| publisher=Matit Graphic Design Studio| location=Yerevan| pages=49-50| isbn=99941-0-121-8}}</ref><ref name="Holding">{{cite book|last=Holding |first=Deirdre |year=2014 |title=Armenia: with Nagorno Karabagh (Bradt Travel Guides)| edition= 4th| publisher=Globe Pequot Press| location=Guilford, Conn.| page=157| isbn=978-1-84162-555-3}}</ref>
+
+
+== Gallery ==
+<gallery>
+Image:Dashtadem Fortress 1.JPG|The keep at Dashtadem Fortress, 10th century
+Image:Kristapori Vank 1.JPG|Kristapori Vank (7th century, restored) with 13th-century rectangular bell tower (left)
+Image:Khachkar on way to Kristapori Vank.JPG|Large [[khachkar]] along the road that leads to Kristapori Vank.
+</gallery>
+
+== See also ==
+*[[Aragatsotn Province]]
+
+== References ==
+{{reflist}}
+* {{GEOnet2|32FA881E6BFB3774E0440003BA962ED3}} (as Nerkin Talin)
+* {{ArmenianCensus|70}}
+
+{{Aragatsotn}}
+[[Category:Populated places in Aragatsotn Province]]
+
+{{Aragatsotn-geo-stub}}

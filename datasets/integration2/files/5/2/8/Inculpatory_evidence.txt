@@ -1,0 +1,23 @@
+{{Evidence law}}
+'''Inculpatory evidence''' is [[evidence]] that shows, or tends to show, a person's involvement in an act, or evidence that can establish [[guilt (law)|guilt]].  In [[criminal law]], the prosecution has a duty to provide all evidence to the [[Defense (legal)|defense]], whether it favors the prosecution's case or the defendant's case.  Evidence that tends to show a person's innocence is considered [[exculpatory evidence]].
+
+For example, if a man is poisoned to death by an overdose of [[arsenic]], and a bottle of arsenic is found in the purse of his wife, that bottle could be considered inculpatory evidence against his wife. The bottle of arsenic in his wife's purse could also be considered exculpatory evidence, tending to show the man's innocence as far as suicide is concerned.
+
+==References==
+{{reflist}}
+* {{cite book
+ | last = Sperry 
+ | first = Len 
+ | year = 2006
+ | title = Dictionary of Legal and Ethical Terms and Issues: The Essential Guide for Mental Health Professionals
+ | publisher = Routledge 
+ | location = New York
+ | isbn = 9780415953214
+ | oclc = 68207326
+ | url = https://books.google.com/books?id=gzjtCy1JZvsC
+}}
+
+[[Category:Criminal law]]
+
+
+{{criminal-law-stub}}

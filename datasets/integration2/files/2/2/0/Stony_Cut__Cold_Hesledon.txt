@@ -1,0 +1,66 @@
+{{Infobox protected area
+| name            = Stony Cut, Cold Hesledon
+| iucn_category   = 
+| iucn_ref        = 
+<!-- images -->
+| photo           = 
+| photo_caption   = 
+<!-- map -->
+| map             = United Kingdom County Durham
+| map_image       = 
+| map_size        = 243
+| map_caption     = Location of Stony Cut, Cold Hesledon SSSI, Co Durham
+| relief          = 1
+<!-- location -->
+| location        = [[Easington (district)|Easington]], [[North East England|North East]], England
+| nearest_city    = 
+| nearest_town    = 
+| coordinates     = {{coord|54|49|09|N|1|21|1|W|display=inline,title}}
+| coords_ref      = 
+<!-- stats --> 
+| length          = 
+| length_mi       =
+| length_km       = 
+| width           = 
+| width_mi        = 
+| width_km        = 
+| area_ha         = 0.83
+| area_ref        = 
+| elevation       = 
+| elevation_avg   = 
+| elevation_min   = 
+| elevation_max   = 
+| dimensions      = 
+| designation     = 
+<!-- dates & info -->
+| authorized      = 
+| created         = 
+| designated      = 
+| established     = 1996
+| named_for       = 
+| visitation_num  = 
+| visitation_year = 
+| visitation_ref  = 
+| governing_body  = Natural England
+| administrator   = 
+| operator        = 
+| owner           =
+<!-- website, embedded --> 
+| website         = [http://www.natureonthemap.org.uk/map.aspx?map=sssi&feature=2000046,sssi,HYPERLINK,LABEL Map of site]
+| embedded        = 
+}}
+
+'''Stony Cut, Cold Hesledon''' is a [[Site of Special Scientific Interest]] in the [[Easington (district)|Easington]] district of north-east [[County Durham]], [[England]]. It consists of a shallow cutting alongside [[Seaham]] Golf Course close to the village of [[Cold Hesledon]].
+
+The cutting exposes a section of [[Lopingian|Late Permian]] Ford Formation ([[Zechstein]]) [[dolomite (rock)|dolomite]] in which the transition from the flat to the crest of the shelf-edge of an ancient [[reef]] is clearly visible. The site has been designated as of national importance in the [[Geological Conservation Review]].<ref name="SSSI">{{cite web |url=http://www.english-nature.org.uk/citation/citation_photo/2000046.pdf |title=Stony Cut, Cold Hesledon |year=1996 |publisher=[[English Nature]] |accessdate=1 August 2010}}</ref>
+
+==References==
+{{reflist}}
+
+{{SSSIs County Durham}}
+
+[[Category:Sites of Special Scientific Interest in County Durham]]
+
+
+{{England-SSSI-stub}}
+{{Durham-geo-stub}}

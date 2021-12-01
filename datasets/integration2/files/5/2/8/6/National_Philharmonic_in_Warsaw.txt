@@ -1,0 +1,65 @@
+{{Infobox building
+| name                 = National Philharmonic in Warsaw 
+| logo                 = 
+| logo_caption         = 
+| image                = Filharmonia Narodowa w Warszawie 2020.jpg
+| alt                  = The concert hall in May 2020
+| caption              = 
+| altitude             = 
+| building_type        = [[List of concert halls|Concert Hall]]
+| architectural_style  = [[Socialist realism]], [[Eclecticism in architecture|Eclecticist]] 
+| structural_system    = 
+| cost                 = 
+| client               = 
+| owner                = 
+| current_tenants      = [[Warsaw National Philharmonic Orchestra]]
+| landlord             = 
+| address              = 
+| location_country     = Poland
+| coordinates          = {{coord|52|14|03|N|21|00|40|E|region:PL|display=inline}}
+| map_type             = Poland
+| map_caption          = Location in Poland
+| start_date           = 1900
+| completion_date      = {{start date and age|1901|||df=yes}}
+| inauguration_date    = 
+| renovation_date      = 
+| height               = 
+| diameter             = 
+| other_dimensions     = 
+| floor_count          = 
+| floor_area           = 
+| main_contractor      = 
+| architect            = Karol Kozłowski (1901), <br />Eugeniusz Szparkowski (1955)
+| architecture_firm    = 
+| structural_engineer  = 
+| services_engineer    = 
+| civil_engineer       = 
+| other_designers      = 
+| quantity_surveyor    = 
+| awards               = 
+| website =  [http://filharmonia.pl/ filharmonia.pl]
+| references           = 
+}}
+
+The '''National Philharmonic in Warsaw''' ([[Polish language|Polish]]: ''Filharmonia Narodowa w Warszawie'') is a Polish cultural institution, located at 5&nbsp;Jasna Street in [[Warsaw]]. The building was built between 1900 and 1901, under the direction of Karol Kozłowski, to be reconstructed in 1955 by Eugeniusz Szparkowski. The director of the institution is Wojciech Nowak.<ref>{{cite web|title=Historia|url=http://filharmonia.pl/o-nas/historia|website=filharmonia.pl|accessdate=13 April 2017}}</ref><ref>{{cite web|title=Filharmonia Narodowa w Warszawie {{!}} Miejsce {{!}} Culture.pl|url=http://culture.pl/pl/miejsce/filharmonia-narodowa-w-warszawie|website=Culture.pl|accessdate=13 April 2017|language=pl}}</ref> It is the main venue of the [[Warsaw National Philharmonic Orchestra]].
+
+Since 1955, the institution organises the [[International Chopin Piano Competition]].
+
+The building hosts the annual festival [[Warsaw Autumn]].<ref>{{cite web|title=Strona główna – BIP – Filharmonia Narodowa w Warszawie|url=http://www.filharmonia.4bip.pl/|website=www.filharmonia.4bip.pl|accessdate=13 April 2017|language=pl}}</ref>
+
+<center><gallery heights=120 widths=160>
+File:Warsaw Philharmonic - southern facade.jpg|Warsaw Philharmonic, 1901
+File:Filharmonia Warszawska około 1901.PNG|Warsaw Philharmonic, c.1901
+File:Warsaw Philharmonic - interior.JPG|Interior of the Warsaw Philharmonic, c.1901
+File:Filharmonia Narodowa w Warszawie.jpg|Warsaw Philharmonic, 1939
+
+</gallery></center>
+
+==References==
+{{Reflist}}
+{{Authority control}}
+[[Category:Concert halls in Poland]]
+[[Category:1901 establishments in Poland]]
+[[Category:Music venues completed in 1901]]
+[[Category:Music venues completed in 1955]]
+[[Category:Tourist attractions in Warsaw]]

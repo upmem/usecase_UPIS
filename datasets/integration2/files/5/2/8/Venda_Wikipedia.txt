@@ -1,0 +1,7 @@
+#REDIRECT [[List of Wikipedias]]
+
+{{Rcat shell|
+{{Wikidata redirect}}
+{{R to list entry}}
+{{R printworthy}}
+}}

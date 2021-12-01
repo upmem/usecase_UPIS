@@ -1,0 +1,61 @@
+<noinclude>{{Wikipedia:Wikipedia Signpost/Templates/Long-image}}</noinclude>
+__NOTOC__
+__NOEDITSECTION__
+<h2 style="margin-right:60px;">News and notes</h2>
+:<small>By [[User:Flcelloguy|Flcelloguy]], [[April 3]] [[2006]]</small>
+
+===French Wikiquote temporarily deleted===
+The [[:q:fr:Accueil|French Wikiquote]] was taken down on Wednesday and replaced with the following notice in French and English:
+
+: After analyzing the data contained in the fr.wikiquote site, the Wikimedia Foundation has determined that the material stored in the fr.wikiquote database does not provide the basic assurance of legal soundness necessary to the permanence of the project. Therefore, the site will be entirely taken down to be erased and relaunched. A policy requiring greater traceability of quotations will be put in place on fr.wikiquote version II. This action has been taken for the benefit of all Wikimedia Foundation projects.
+
+Access to database dumps was also prohibited.  The relaunch had been expected to take place immediately following the deletion, but after a number of French community members expressed concern about the lack of committed participants to prevent renewed problems, the relaunch was delayed and it is not certain when it will occur.
+
+===Article email list reaches milestone===
+On Thursday, [[User:Raul654|Raul654]], the [[WP:FA|featured article director]], announced that the [http://mail.wikipedia.org/mailman/listinfo/daily-article-l daily-article-l] list, which sends out the featured article of the day, had surpassed over 10,000 subscribers. The list sends the featured article of the day, which appears on the [[Main Page]], via email to the subscribers.
+
+===French Wikipedia selects Arbitration Committee===
+Last week, the [[French Wikipedia]] [[:fr:Wikipédia:Comité_d'arbitrage/élection_du_3e_CAr|elected]] seven users to the local [[:fr:Wikipédia:Comité d'arbitrage|Arbitration Committee]]. The 3rd election for the French ArbCom, each candidate had an average of 65 votes. Voting was conducted publicly on the site similarly to how the English Wikipedia's [[Wikipedia:Arbitration Committee Elections January 2006|January elections]] were held: voters could vote support, oppose, or neutral for each candidate. Of the 14 candidates, 12 met the requirement of having greater than 2/3 support, and the seven candidates with the highest number of support votes were chosen to serve.
+
+===Pakistan briefly blocks Wikipedia===
+[[Pakistan]] blocked access to all Wikipedias this week, citing the images of the prophet [[Muhammad]], especially in the [[Jyllands-Posten Muhammad cartoons controversy]] article. However, the block was brief, lasting only approximately seven hours. Earlier in March, Pakistan had already blocked access to other websites also showing depictions of Muhammad.
+
+===Closure of September 11 Wiki proposed===
+A [[:m:Proposals_for_closing_projects#Closure_of_September_11_Wiki|proposal]] for closing the [http://sep11.wikipedia.org/wiki/In_Memoriam September 11 Wikipedia], which was a wiki in tribute of the [[September 11, 2001 attacks]], was initiated this week after much discussion. General consensus was to close and then move the site due to inactivity and the inappropriateness of the site as a Wikipedia project. Already partially moved to MemoryWiki.org, the content could also be archived again and be retrievable for those who wish to download it.
+
+===Overhaul of Meta proposed===
+A [[:m:Meta:MetaProject to Overhaul Meta|MetaProject]] to overhaul [[:m:|Meta]] was started, with the goal of the project to "streamline Meta by eliminating irrelevant content, building infrastructure, rewriting documentation, and organising its content in an efficient, intuitive manner." However, the project soon came under criticism, with people citing that the project's participants were inappropriately deleting images and other useful pages and redirects. Discussion carried over to the [http://mail.wikipedia.org/mailman/listinfo/wikien-l English Wikipedia's mailing list], along with the [http://mail.wikipedia.org/mailman/listinfo/foundation-l Foundation mailing list].
+
+===Briefly===
+*The [[:sr:|Serbian Wikipedia]] has reached 30,000 articles.
+*The [[:mk:|Macedonian Wikipedia]] has reached 5,000 articles.
+*The [[:wikt:sr:|Serbian Wiktionary]] has reached 1,000 entries.
+*The [[:b:sv:Huvudsida|Swedish Wikibooks]] has reached 500 Wikibook modules.
+*The [[:cs:|Czech Wikipedia]] has reached 5,000 registered users.
+*The [[:fr:|French Wikipedia]] has reached 90,000 registered users.
+*The [[:zh-yue:|Cantonese Wikipedia]] has reached 100 articles.
+*The [[:vi:|Vietnamese Wikipedia]] has reached 30,000 pages and 200,000 edits.
+*The [[:wikt:ko:Main Page|Korean Wiktionary]] has reached 5,000 entries.
+*The [[:tr:|Turkish Wikipedia]] has reached 20,000 articles.
+*The [[:nrm:|Norman Wikipedia]] has reached 100 articles.
+*The [[:ba:|Bashkir Wikipedia]] has reached 100 articles.
+*The [[:id:|Indonesian Wikipedia]] has reached 20,000 articles.
+*The [[:fa:|Persian Wikipedia]] has reached 5,000 registered users.
+*The [[:eu:|Basque Wikipedia]] has reached 6,000 articles.
+*The [[:ar:|Arabic Wikipedia]] has reached 12,000 articles.
+*The [[:zh:s:首页|Chinese Wikisource]] has reached 3,000 articles.
+*The [[:fr:|French Wikipedia]] has reached 260,000 articles.
+*The [[:no:|Norwegian Wikipedia]] has reached 10,000 registered users.
+
+
+<noinclude><center><small>{{hide in print|1=
+Also this week:  [[Wikipedia:Wikipedia Signpost/2006-04-03/Bureaucrats|Bureaucrats resign]]
+&mdash; [[Wikipedia:Wikipedia Signpost/2006-04-03/April Fools|April Fools']]
+&mdash; [[Wikipedia:Wikipedia Signpost/2006-04-03/News and notes|News and notes]]
+&mdash; [[Wikipedia:Wikipedia Signpost/2006-04-03/In the news|Press coverage]]
+&mdash; [[Wikipedia:Wikipedia Signpost/2006-04-03/Features and admins|Features and admins]]
+&mdash; [[Wikipedia:Wikipedia Signpost/2006-04-03/Technology report|B.R.I.O.N.]]
+&mdash; [[Wikipedia:Wikipedia Signpost/2006-04-03/Arbitration report|T.R.O.L.L.]] 
+}}</small></center></noinclude>
+[[Category:Wikipedia Signpost archives 2006-04|03 News]]
+[[Category:Wikipedia Signpost News and notes archives 2006|0403]]

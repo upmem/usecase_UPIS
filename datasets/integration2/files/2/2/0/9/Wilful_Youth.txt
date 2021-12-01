@@ -1,0 +1,61 @@
+{{Use mdy dates|date=October 2020}}
+{{short description|1927 film}}
+{{Infobox film
+| name =Wilful Youth
+| image =
+| image_size =
+| caption =
+| director = [[Dallas M. Fitzgerald]]
+| producer =Dallas M. Fitzgerald
+| writer =  [[Gardner Bradford]] <br> [[Gladys Gordon]] <br> [[Ada McQuillan]]
+| narrator =
+| starring = [[Edna Murphy]] <br> [[Kenneth Harlan]] <br> [[Jack Richardson (actor)|Jack Richardson]]
+| music = 
+| cinematography = [[Milton Moore ]]
+| editing = [[Desmond O'Brien ]]
+| studio =Dallas M. Fitzgerald Productions 
+| distributor = Peerless Pictures 
+| released =  December 19, 1927
+| runtime = 60 minutes
+| country = United States
+| language = Silent <br> English intertitles
+| budget =
+| gross =
+| preceded_by =
+| followed_by =
+| website =
+}}
+'''''Wilful Youth''''' is a 1927 American [[silent film|silent]] [[drama film]] directed by [[Dallas M. Fitzgerald]] and starring [[Edna Murphy]], [[Kenneth Harlan]] and [[Jack Richardson (actor)|Jack Richardson]].<ref>Munden p.906</ref>
+
+==Cast==
+* [[Edna Murphy]] as Edna Tavernay 
+* [[Kenneth Harlan]] as Jack Compton 
+* [[Jack Richardson (actor)|Jack Richardson]] as Edward Compton 
+* [[Walter Perry (actor)|Walter Perry]] as Terrance Clang 
+* [[Jimmy Aubrey]] as Steve Daley 
+* [[James Florey]] as Bull Thompson 
+* [[Eugenie Forde]] as Mrs. Claudia Tavernay 
+* [[Arthur Morrison (actor)|Arthur Morrison]] as Sheriff
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* Munden, Kenneth White. ''The American Film Institute Catalog of Motion Pictures Produced in the United States, Part 1''. University of California Press, 1997.
+
+==External links==
+* {{IMDb title|0179537}}
+
+{{Dallas M. Fitzgerald}}
+
+[[Category:1927 films]]
+[[Category:1927 drama films]]
+[[Category:English-language films]]
+[[Category:American films]]
+[[Category:American silent feature films]]
+[[Category:American drama films]]
+[[Category:Films directed by Dallas M. Fitzgerald]]
+[[Category:American black-and-white films]]
+
+
+{{1920s-silent-drama-film-stub}}

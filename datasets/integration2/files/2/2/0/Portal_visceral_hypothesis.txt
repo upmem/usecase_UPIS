@@ -1,0 +1,17 @@
+{{multiple issues|
+{{Orphan|date=September 2010}}
+{{Refimprove|date=November 2009}}
+}}
+
+The '''portal-visceral hypothesis''' describes a possible mechanism for some of the health effects of [[obesity]], particularly the [[metabolic syndrome]].  It says that obesity (especially visceral obesity) results in increased circulation of [[free fatty acids]] and thus, via [[Randle's effect]], in [[insulin resistance]].<ref>{{cite journal|title=Failure of fat cell proliferation, mitochondrial function and fat oxidation results in ectopic fat storage, insulin resistance and type II diabetes mellitus|first1=L.|last1=Heilbronn|first2=S. R.|last2=Smith|first3=E.|last3=Ravussin|date=1 January 2004|journal=Int J Obes Relat Metab Disord|volume=28|issue=S4|pages=S12–S21|doi=10.1038/sj.ijo.0802853|pmid = 15592481|doi-access=free}}</ref>
+
+The word "portal" refers to the [[hepatic portal circulation]] from the digestive system to the liver.  The portal-visceral hypothesis is a replacement for the earlier "portal hypothesis", which said that visceral obesity leads to an increase in fatty acid levels specifically in the portal vein.
+
+==References==
+{{Reflist}}
+
+[[Category:Diabetes]]
+[[Category:Medical conditions related to obesity]]
+
+
+{{endocrine-disease-stub}}

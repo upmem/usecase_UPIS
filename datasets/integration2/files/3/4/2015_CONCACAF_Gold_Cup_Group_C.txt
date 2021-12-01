@@ -1,0 +1,870 @@
+'''Group C of the 2015 CONCACAF Gold Cup''' was one of three groups competing of nations at the [[2015 CONCACAF Gold Cup]]. The group's matches were played in July. All six group matches were played at venues in the United States. Matches were played at [[Chicago]]'s [[Soldier Field]] on July 9, [[Glendale, Arizona|Glendale]]'s [[University of Phoenix Stadium]] on July 12 and [[Charlotte, North Carolina|Charlotte]]'s [[Bank of America Stadium]] on July 15.<ref>{{cite web|title=CONCACAF Announces 2015 Gold Cup Host Cities, Venues, Group Seeds and Group Stage Dates|url=http://www.concacaf.com/article/concacaf-announces-2015-gold-cup-host-cities-venues-group-seeds-and-group-stage-dates|publisher=CONCACAF.com|accessdate=17 December 2014|date=16 December 2014}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Zone
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! November 2014{{refn|group=nb|The rankings of November 2014 were used for seeding for the [[2015 CONCACAF Gold Cup#Draw|draw]].}}
+! Start of event
+|-
+| C1 || style=white-space:nowrap | {{fb|MEX}} || [[North American Football Union|NAFU]] || <span style="display:none">*</span> Automatic  || N/A || data-sort-value="13" | 13th || [[2013 CONCACAF Gold Cup|2013]] || data-sort-value="7.6" | '''Winners''' ([[1993 CONCACAF Gold Cup|1993]], [[1996 CONCACAF Gold Cup|1996]], [[1998 CONCACAF Gold Cup|1998]], [[2003 CONCACAF Gold Cup|2003]], [[2009 CONCACAF Gold Cup|2009]], [[2011 CONCACAF Gold Cup|2011]]) || 20 || 23
+|-
+| C2 || style=white-space:nowrap | {{fb|GUA}} || [[Central American Football Union|UNCAF]] || [[2014 Copa Centroamericana]] 2nd place || 10 September 2014 || data-sort-value="10" | 10th || [[2011 CONCACAF Gold Cup|2011]] || data-sort-value="4.1" | Fourth place ([[1996 CONCACAF Gold Cup|1996]]) || 73 || 93
+|-
+| C3 || style=white-space:nowrap | {{fb|TRI}} || [[Caribbean Football Union|CFU]] || [[2014 Caribbean Cup]] 2nd place || 13 November 2014 || data-sort-value="9" | 9th || [[2013 CONCACAF Gold Cup|2013]] || data-sort-value="4.1" | Semi-finals ([[2000 CONCACAF Gold Cup|2000]]) || 54 || 67
+|-
+| C4 || style=white-space:nowrap | {{fb|CUB}} || [[Caribbean Football Union|CFU]] || [[2014 Caribbean Cup]] 4th place || 13 November 2014 || data-sort-value="8" | 8th || [[2013 CONCACAF Gold Cup|2013]] || data-sort-value="3.2" | Quarter-finals ([[2003 CONCACAF Gold Cup|2003]], [[2013 CONCACAF Gold Cup|2013]]) || 79 || 107
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+{{2015 CONCACAF Gold Cup Group C table}}
+In the [[2015 CONCACAF Gold Cup knockout stage|quarter-finals]]:
+*Trinidad and Tobago advanced to play Panama (third-placed team of either [[2015 CONCACAF Gold Cup Group A|Group A]]).
+*Mexico advanced to play Costa Rica (runner-up of [[2015 CONCACAF Gold Cup Group B|Group B]]).
+*Cuba (as one of the [[2015 CONCACAF Gold Cup#Ranking of third-placed teams|two best third-placed teams]]) advanced to play United States (winner of [[2015 CONCACAF Gold Cup Group A|Group A]]).
+
+==Matches==
+All times [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC−4]]). If the venue is located in a different [[time zone]], the local time is given in parentheses.<ref>{{cite web|url=http://concacaf.us6.list-manage2.com/track/click?u=78d3589fb61466b549ff752e5&id=4c2f2291ae&e=cd2f6d7174|title=CONCACAF Gold Cup 2015 Schedule}}</ref>
+
+===Trinidad and Tobago vs Guatemala===
+{{Football box
+| date         = {{Start date|2015|7|9|df=y}}
+| time         = 19:00 (18:00 [[Central Time Zone|CDT]])
+| team1        = {{fb-rt|TRI}}
+| team2        = {{fb|GUA}}
+| score        = 3–1
+| goals1       = [[Sheldon Bateau|Bateau]] {{goal|10}}<br>[[Cordell Cato|Cato]] {{goal|13}}<br>[[Joevin Jones|J. Jones]] {{goal|25}}
+| goals2       = [[Carlos Ruiz (Guatemalan footballer)|Ruiz]] {{goal|61}}
+| stadium      = [[Soldier Field]], [[Chicago]]
+| attendance   = 54,126
+| referee      = [[Jhon Pitti]] ([[Panamanian Football Federation|Panama]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230123 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _trinidad12h
+ |pattern_b  = _trinidad12h
+ |pattern_ra = _trinidad12h
+ |pattern_sh = _trinidad12h
+ |pattern_so = red
+ |leftarm    = ff0000
+ |body       = ff0000
+ |rightarm   = ff0000
+ |shorts     = 100000
+ |socks      = ff0000
+ |title      = Trinidad and Tobago
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _Guatemala15h
+ |pattern_ra =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFff
+ |socks      = FFFFFF
+ |title      = Guatemala
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''21'''|| [[Jan-Michael Williams]]
+|-
+|RB||'''5''' || [[Daneil Cyrus]] || {{yel|35}}
+|-
+|CB||'''6''' || [[Radanfah Abu Bakr]] || {{yel|51}}
+|-
+|CB||'''4''' || [[Sheldon Bateau]]
+|-
+|LB||'''3''' || [[Joevin Jones]] || || {{suboff|80}}
+|-
+|RM||'''2''' || [[Aubrey David]]
+|-
+|CM||'''8''' || [[Khaleem Hyland]] || {{yel|67}} || {{suboff|77}}
+|-
+|CM||'''13''' || [[Cordell Cato]]  
+|-
+|LM||'''19''' || [[Kevan George]]
+|-
+|CF||'''11''' || [[Ataullah Guerra]] || || {{suboff|63}}
+|-
+|CF||'''9''' || [[Kenwyne Jones]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW||'''10'''|| [[Willis Plaza]] || || {{subon|63}}
+|-
+|MF||'''14'''|| [[Andre Boucaud]] || {{yel|80}} || {{subon|77}}
+|-
+|MF||'''23'''|| [[Lester Peltier]] || || {{subon|80}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|[[Stephen Hart (footballer)|Stephen Hart]]
+|}
+|valign="top"|[[File:TRI-GUA-2015-07-09.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''21''' || [[Ricardo Jérez Jr.|Ricardo Jérez]]
+|-
+|CB||'''4''' || [[Wilson Lalín]] || {{yel|74}}
+|-
+|CB||'''3''' || [[Elías Vásquez]]
+|-
+|CB||'''5''' || [[Moisés Hernández]]
+|-
+|RWB||'''14''' || [[Kendel Herrarte]] || || {{suboff|70}}
+|-
+|CM||'''23''' || [[Jorge Aparicio]]  
+|-
+|CM||'''8''' || [[Jean Márquez]] || || {{suboff|46}}
+|-
+|LWB||'''18''' || [[Stefano Cincotta]] || || {{suboff|46}}
+|-
+|AM||'''20''' || [[Carlos Ruiz (Guatemalan footballer)|Carlos Ruiz]] ([[Captain (association football)|c]]) || {{yel|73}} 
+|-
+|CF||'''10''' || [[José Manuel Contreras]] 
+|-
+|CF||'''16''' || [[Marco Pappa]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF||'''6'''|| [[Carlos Mejía]] || || {{subon|46}}
+|-
+|FW||'''22'''|| [[Minor López]] || || {{subon|46}}
+|-
+|FW||'''9'''|| [[Édgar Chinchilla]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Iván Sopegno]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Eric Boria ([[United States Soccer Federation|United&nbsp;States]])
+<br />Philippe Brière ([[Canadian Soccer Association|Canada]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United&nbsp;States]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-trinidad-tobago-vs-guatemala|title=Gold Cup Game Notes: Trinidad and Tobago vs. Guatemala|publisher=CONCACAF.com|date=9 July 2015|access-date=10 July 2015|archive-url=https://web.archive.org/web/20150711175844/http://www.concacaf.com/article/gold-cup-game-notes-trinidad-tobago-vs-guatemala|archive-date=11 July 2015|url-status=dead}}</ref>
+|}
+
+===Mexico vs Cuba===
+{{Football box
+| date         = {{Start date|2015|7|9|df=y}}
+| time         = 21:30 (20:30 [[Central Time Zone|CDT]])
+| team1        = {{fb-rt|MEX}}
+| team2        = {{fb|CUB}}
+| score        = 6–0
+| goals1       = [[Oribe Peralta|Peralta]] {{goal|17||37||62}}<br>[[Carlos Vela|Vela]] {{goal|22}}<br>[[Andrés Guardado|Guardado]] {{goal|44}}<br>[[Giovani dos Santos|G. dos Santos]] {{goal|75}}
+| goals2       = 
+| stadium      = [[Soldier Field]], [[Chicago]]
+| attendance   = 54,126
+| referee      = [[Wálter Quesada]] ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230124 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mexico15h
+ |pattern_b  = _mexico15h
+ |pattern_ra = _mexico15h
+ |pattern_sh = _mexico15h
+ |pattern_so = _mexico15h
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Mexico
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = 
+ |pattern_ra =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFff
+ |socks      = FFFFFF
+ |title      = Cuba
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''13'''|| [[Guillermo Ochoa]]
+|-
+|RB || '''22'''|| [[Paul Aguilar]]
+|-
+|CB || '''2'''|| [[Francisco Javier Rodríguez|Francisco Rodríguez]]
+|-
+|CB || '''5'''|| [[Diego Antonio Reyes|Diego Reyes]]
+|-
+|LB || '''7'''|| [[Miguel Layún]]
+|-
+|CM || '''16'''|| [[Antonio Ríos]]
+|-
+|CM || '''8'''|| [[Jonathan dos Santos]]&nbsp; || || {{suboff|56}}
+|-
+|RW || '''6'''|| [[Héctor Herrera]]
+|-
+|LW || '''18'''|| [[Andrés Guardado]] ([[Captain (association football)|c]]) || || {{suboff|71}}
+|-
+|CF || '''11'''|| [[Carlos Vela]] || || {{suboff|71}}
+|-
+|CF || '''19'''|| [[Oribe Peralta]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''10'''|| [[Giovani dos Santos]] || || {{subon|56}}
+|-
+|MF || '''9'''|| [[Jesús Manuel Corona]] || || {{subon|71}}
+|-
+|MF || '''21'''|| [[Carlos Esquivel]] || || {{subon|71}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|[[Miguel Herrera]]
+|}
+|valign="top"|[[File:MEX-CUB-2015-07-09.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''21'''|| [[Diosvelis Guerra]]
+|-
+|CB || '''3'''|| [[Yénier Márquez]] ([[Captain (association football)|c]])
+|-
+|CB || '''13'''|| [[Jorge Luis Corrales]] || || {{suboff|79}}
+|-
+|RWB || '''6'''|| [[Yaisnier Napoles]]
+|-
+|CM || '''23'''|| [[Felix Guerra]] || || {{suboff|66}}
+|-
+|CM || '''10'''|| [[Ariel Martínez]]
+|-
+|LWB || '''8'''|| [[Alberto Gómez (Cuban footballer)|Alberto Gómez]]
+|-
+|RW || '''5'''|| [[Jorge Luís Clavelo]]
+|-
+|AM || '''19'''|| [[Yasmany López]]
+|-
+|LW || '''16'''|| [[Hánier Dranguet]]
+|-
+|CF || '''20'''|| [[Armando Coroneaux]]&nbsp; || || {{suboff|54}}
+|-
+|colspan=3|'''Substitutions:'''<ref group="mexcub">Cuba were only able to name five of a possible twelve substitutes on the bench. Six players named in the Cuba squad were not present in the country due to US visa problems: [[Adrián Diz]], [[Arichel Hernandez]], [[Daniel Luis]], [[Andy Vaquero]], [[Maikel Reyes]] and [[Sandy Sánchez]]. Forward [[Keiler García]] had defected to the United States whilst in Chicago prior to the match.</ref>
+|-
+|MF || '''7'''|| [[Darío Suárez]] || || {{subon|54}}
+|-
+|DF || '''4'''|| [[Ángel Horta]] || || {{subon|66}}
+|-
+|MF || '''17'''|| [[Libán Pérez]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Walter Benítez]]<ref group="mexcub">Head coach [[Raúl González Triana|Raúl González]] was not present in the [[United States]] due to a visa problem. Assistant coach [[Walter Benítez]] took control of the national team for the game.</ref>
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Octavio Jara ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+<br />Juan Zumba ([[Salvadoran Football Federation|El&nbsp;Salvador]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Armando Castro ([[National Autonomous Federation of Football of Honduras|Honduras]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-mexico-vs-cuba|title=Gold Cup Game Notes: Mexico vs. Cuba|publisher=CONCACAF.com|date=9 July 2015|access-date=10 July 2015|archive-url=https://web.archive.org/web/20150711160804/http://www.concacaf.com/article/gold-cup-game-notes-mexico-vs-cuba|archive-date=11 July 2015|url-status=dead}}</ref>
+|}
+
+;Notes
+
+{{reflist|group="mexcub"}}
+
+===Trinidad and Tobago vs Cuba===
+{{Football box
+| date         = {{Start date|2015|7|12|df=y}}
+| time         = 18:30 (16:30 [[Mountain Time Zone|MST]])
+| team1        = {{fb-rt|TRI}}
+| team2        = {{fb|CUB}}
+| score        = 2–0
+| goals1       = [[Sheldon Bateau|Bateau]] {{goal|17}}<br>[[Andre Boucaud|Boucaud]] {{goal|42}}
+| goals2       = 
+| stadium      = [[University of Phoenix Stadium]], [[Glendale, Arizona|Glendale]]
+| attendance   = 62,910
+| referee      = [[David Gantar]] ([[Canadian Soccer Association|Canada]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230129 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _trinidad12h
+ |pattern_b  = _trinidad12h
+ |pattern_ra = _trinidad12h
+ |pattern_sh = _trinidad12h
+ |pattern_so = red
+ |leftarm    = ff0000
+ |body       = ff0000
+ |rightarm   = ff0000
+ |shorts     = 100000
+ |socks      = ff0000
+ |title      = Trinidad and Tobago
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = 
+ |pattern_ra =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFff
+ |socks      = FFFFFF
+ |title      = Cuba
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''21'''|| [[Jan-Michael Williams]]|| ||{{suboff|45}}
+|-
+|RB || '''6'''|| [[Radanfah Abu Bakr]]
+|-
+|CB || '''2'''|| [[Aubrey David]]
+|-
+|CB || '''4'''|| [[Sheldon Bateau]]
+|-
+|LB || '''17'''|| [[Mekeil Williams]]
+|-
+|CM || '''23'''|| [[Lester Peltier]] || || {{suboff|80}}
+|-
+|CM || '''19'''|| [[Kevan George]]
+|-
+|RW || '''14'''|| [[Andre Boucaud]] ||{{yel|28}}
+|-
+|LW || '''3'''|| [[Joevin Jones]]
+|-
+|CF || '''11'''|| [[Ataullah Guerra]] || || {{suboff|67}}
+|-
+|CF || '''9'''|| [[Kenwyne Jones]] ([[Captain (association football)|c]]) ||{{yel|51}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK || '''1'''|| [[Marvin Phillip]] || ||{{subon|45}}
+|-
+|MF || '''20'''|| [[Keron Cummings]] || ||{{subon|67}}
+|-
+|MF || '''13'''|| [[Cordell Cato]] || ||{{subon|80}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|[[Stephen Hart (footballer)|Stephen Hart]]
+|}
+|valign="top"|[[File:TRI-CUB 2015-07-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''21'''|| [[Diosvelis Guerra]]
+|-
+|RB || '''6'''|| [[Yaisnier Napoles]]
+|-
+|CB || '''2'''|| [[Andy Vaquero]]
+|-
+|CB || '''5'''|| [[Jorge Luís Clavelo]]
+|-
+|LB || '''15'''|| [[Adrián Diz]] ||{{yel|15}}
+|-
+|DM || '''8'''|| [[Alberto Gómez (Cuban footballer)|Alberto Gómez]] || || {{suboff|68}}
+|-
+|RM || '''18'''|| [[Daniel Luis]] || || {{suboff|79}}
+|-
+|LM || '''22'''|| [[Alain Cervantes]] || ||{{suboff|61}}
+|-
+|AM || '''3'''|| [[Yénier Márquez]] ([[Captain (association football)|c]])
+|-
+|CF || '''10'''|| [[Ariel Martínez]] ||{{yel|65}}
+|-
+|CF || '''9'''|| [[Maikel Reyes]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''7'''|| [[Darío Suárez]] || || {{subon|61}}
+|-
+|MF || '''17'''|| [[Libán Pérez]] || || {{subon|68}}
+|-
+|DF || '''16'''|| [[Hánier Dranguet]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Raúl González Triana|Raúl González]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Philippe Brière ([[Canadian Soccer Association|Canada]])
+<br />Daniel Belleau ([[Canadian Soccer Association|Canada]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Elmer Bonilla ([[Salvadoran Football Federation|El&nbsp;Salvador]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-trinidad-tobago-vs-cuba|title=Gold Cup Game Notes: Trinidad & Tobago vs. Cuba|publisher=CONCACAF.com|date=12 July 2015|access-date=12 July 2015|archive-url=https://web.archive.org/web/20150923222543/http://www.concacaf.com/article/gold-cup-game-notes-trinidad-tobago-vs-cuba|archive-date=23 September 2015|url-status=dead}}</ref>
+|}
+
+===Guatemala vs Mexico===
+{{Football box
+| date         = {{Start date|2015|7|12|df=y}}
+| time         = 21:00 (19:00 [[Mountain Time Zone|MST]])
+| team1        = {{fb-rt|GUA}}
+| team2        = {{fb|MEX}}
+| score        = 0–0
+| goals1       = 
+| goals2       = 
+| stadium      = [[University of Phoenix Stadium]], [[Glendale, Arizona|Glendale]]
+| attendance   = 62,910
+| referee      = Armando Castro ([[National Autonomous Federation of Football of Honduras|Honduras]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230130 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _Guatemala15a
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _3_stripes_white
+ |leftarm    = 343FC5
+ |body       = 343FC5
+ |rightarm   = 343FC5
+ |shorts     = 343FC5
+ |socks      = 343FC5
+ |title      = Guatemala
+}}
+|{{Football kit
+ |pattern_la = _mexico15a
+ |pattern_b  = _mexico15a
+ |pattern_ra = _mexico15a
+ |pattern_sh = _mexico15a
+ |pattern_so = _long_mexico15a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Mexico
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''12'''|| [[Paulo César Motta]]
+|-
+|RB || '''15'''|| [[Dennis López]]
+|-
+|CB || '''4'''|| [[Wilson Lalín]]
+|-
+|CB || '''3'''|| [[Elías Vásquez]]
+|-
+|LB || '''2'''|| [[Rubén Morales]] || {{yel|11}}
+|-
+|DM || '''5'''|| [[Moisés Hernández]] || {{yel|77}} || {{suboff|82}}
+|-
+|DM || '''17'''|| [[Brandon de León]]
+|-
+|AM || '''23'''|| [[Jorge Aparicio]] || {{yel|37}}
+|-
+|AM || '''10'''|| [[José Manuel Contreras]]&nbsp; || {{sent off|2|73|76}}
+|-
+|CF || '''20'''|| [[Carlos Ruiz (Guatemalan footballer)|Carlos Ruiz]] ([[Captain (association football)|c]]) || || {{suboff|77}}
+|-
+|CF || '''22'''|| [[Minor López]] || || {{suboff|87}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''16'''|| [[Marco Pappa]] || || {{subon|77}}
+|-
+|DF || '''18'''|| [[Stefano Cincotta]] || || {{subon|82}}
+|-
+|FW || '''9'''|| [[Édgar Chinchilla]] || || {{subon|87}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Iván Sopegno]]
+|}
+|valign="top"|[[File:GUA-MEX 2015-07-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''13'''|| [[Guillermo Ochoa]]
+|-
+|RB || '''22'''|| [[Paul Aguilar]] || {{yel|45}} || {{suboff|82}}
+|-
+|CB || '''2'''|| [[Francisco Javier Rodríguez|Francisco Rodríguez]]
+|-
+|CB || '''5'''|| [[Diego Antonio Reyes|Diego Reyes]]
+|-
+|LB || '''7'''|| [[Miguel Layún]] || {{yel|50}}
+|-
+|DM || '''23'''|| [[José Juan Vázquez|José Vázquez]] || || {{suboff|66}}
+|-
+|RM || '''6'''|| [[Héctor Herrera]]
+|-
+|LM || '''18'''|| [[Andrés Guardado]] ([[Captain (association football)|c]])
+|-
+|AM || '''8'''|| [[Jonathan dos Santos]] || || {{suboff|86}}
+|-
+|CF || '''19'''|| [[Oribe Peralta]]
+|-
+|CF || '''11'''|| [[Carlos Vela]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''21'''|| [[Carlos Esquivel]] || || {{subon|66}}
+|-
+|FW || '''10'''|| [[Giovani dos Santos]] || || {{subon|82}}
+|-
+|FW || '''14'''|| [[Javier Orozco]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Miguel Herrera]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Octavio Jara ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+<br />Juan Zumba ([[Salvadoran Football Federation|El&nbsp;Salvador]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Wálter Quesada]] ([[Costa Rican Football Federation|Costa&nbsp;Rica]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-guatemala-vs-mexico|title=Gold Cup Game Notes: Guatemala vs. Mexico|publisher=CONCACAF.com|date=12 July 2015|access-date=12 July 2015|archive-url=https://web.archive.org/web/20150923222520/http://www.concacaf.com/article/gold-cup-game-notes-guatemala-vs-mexico|archive-date=23 September 2015|url-status=dead}}</ref>
+|}
+
+===Cuba vs Guatemala===
+{{Football box
+| date         = {{Start date|2015|7|15|df=y}}
+| time         = 18:00
+| team1        = {{fb-rt|CUB}}
+| team2        = {{fb|GUA}}
+| score        = 1–0
+| goals1       = [[Maikel Reyes|Reyes]] {{goal|72}}
+| goals2       = 
+| stadium      = [[Bank of America Stadium]], [[Charlotte, North Carolina|Charlotte]]
+| attendance   = 55,823
+| referee      = Elmer Bonilla ([[Salvadoran Football Federation|El&nbsp;Salvador]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230135 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  =
+ |pattern_ra = 
+ |pattern_sh =
+ |pattern_so = 
+ |leftarm    = EE0000
+ |body       = EE0000
+ |rightarm   = EE0000
+ |shorts     = EE0000
+ |socks      = EE0000
+ |title      = Cuba
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _Guatemala15h
+ |pattern_ra =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFff
+ |socks      = FFFFFF
+ |title      = Guatemala
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''21'''|| [[Diosvelis Guerra]]
+|-
+|CB || '''15'''|| [[Adrián Diz]]
+|-
+|CB || '''13'''|| [[Jorge Luis Corrales]]&nbsp; || {{yel|17}} || {{suboff|60}}
+|-
+|CB || '''3'''|| [[Yénier Márquez]] ([[Captain (association football)|c]])
+|-
+|RWB || '''2'''|| [[Andy Vaquero]]
+|-
+|LWB || '''6'''|| [[Yaisnier Napoles]] || {{yel|14}}
+|-
+|RM || '''18'''|| [[Daniel Luis]] || || {{suboff|67}}
+|-
+|CM || '''5'''|| [[Jorge Luís Clavelo]]
+|-
+|LM || '''8'''|| [[Alberto Gómez (Cuban footballer)|Alberto Gómez]] || {{yel|85}} || {{suboff|85}}
+|-
+|CF || '''10'''|| [[Ariel Martínez]]
+|-
+|CF || '''9'''|| [[Maikel Reyes]] || {{yel|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''22'''|| [[Alain Cervantes]] || || {{subon|60}}
+|-
+|DF || '''16'''|| [[Hánier Dranguet]] || || {{subon|67}}
+|-
+|MF || '''17'''|| [[Libán Pérez]] || || {{subon|85}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|[[Raúl González Triana|Raúl González]]
+|}
+|valign="top"|[[File:CUB-GUA-2015-07-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''12'''|| [[Paulo César Motta]]
+|-
+|RB || '''15'''|| [[Dennis López]]
+|-
+|CB || '''4'''|| [[Wilson Lalín]] || || {{suboff|46}}
+|-
+|CB || '''3'''|| [[Elías Vásquez]] || {{yel|45}}
+|-
+|LB || '''2'''|| [[Rubén Morales]] || {{yel|62}} 
+|-
+|CM || '''6'''|| [[Carlos Mejía]]
+|-
+|CM || '''23'''|| [[Jorge Aparicio]]
+|-
+|RW || '''17'''|| [[Brandon de León]] || || {{suboff|60}}
+|-
+|LW || '''16'''|| [[Marco Pappa]]
+|-
+|CF || '''22'''|| [[Minor López]] || || {{suboff|68}}
+|-
+|CF || '''20'''|| [[Carlos Ruiz (Guatemalan footballer)|Carlos Ruiz]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''19'''|| [[Carlos Figueroa (footballer)|Carlos Figueroa]] || || {{subon|46}}
+|-
+|DF || '''18'''|| [[Stefano Cincotta]] || || {{subon|60}}
+|-
+|FW || '''9'''|| [[Édgar Chinchilla]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Iván Sopegno]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Daniel Belleau ([[Canadian Soccer Association|Canada]])
+<br />Philippe Brière ([[Canadian Soccer Association|Canada]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[David Gantar]] ([[Canadian Soccer Association|Canada]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-cuba-vs-guatemala|title=Gold Cup Game Notes: Cuba vs. Guatemala|publisher=CONCACAF.com|date=15 July 2015|access-date=16 July 2015|archive-url=https://web.archive.org/web/20150716082501/http://www.concacaf.com/article/gold-cup-game-notes-cuba-vs-guatemala|archive-date=16 July 2015|url-status=dead}}</ref>
+|}
+
+===Mexico vs Trinidad and Tobago===
+{{football box
+| date         = {{Start date|2015|7|15}}
+| time         = 20:30
+| team1        = {{fb-rt|MEX}}
+| team2        = {{fb|TRI}}
+| score        = 4–4
+| goals1       = [[Paul Aguilar|Aguilar]] {{goal|32}}<br>[[Carlos Vela|Vela]] {{goal|51}}<br>[[Andrés Guardado|Guardado]] {{goal|88}}<br>[[Kenwyne Jones|K. Jones]] {{goal|90|o.g.}}
+| goals2       = [[Keron Cummings|Cummings]] {{goal|55||67}}<br>[[Kenwyne Jones|K. Jones]] {{goal|58}}<br>[[Yohance Marshall|Marshall]] {{goal|90+3}}
+| stadium      = [[Bank of America Stadium]], [[Charlotte, North Carolina|Charlotte]]
+| attendance   = 55,823
+| referee      = [[Mark Geiger]] ([[United States Soccer Federation|United&nbsp;States]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230136 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mexico15h
+ |pattern_b  = _mexico15h
+ |pattern_ra = _mexico15h
+ |pattern_sh = _mexico15h
+ |pattern_so = _mexico15h
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Mexico
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _tri15a
+ |pattern_ra =
+ |pattern_sh = _red_stripes
+ |leftarm    = ff0000
+ |body       = FFFFFF
+ |rightarm   = ff0000
+ |shorts     = FFFFff
+ |socks      = FFFFFF
+ |title      = Trinidad and Tobago
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''13'''|| [[Guillermo Ochoa]]
+|-
+|CB || '''5'''|| [[Diego Antonio Reyes|Diego Reyes]]
+|-
+|CB || '''2'''|| [[Francisco Javier Rodríguez|Francisco Rodríguez]]
+|-
+|CB || '''3'''|| [[Yasser Corona]] ||  || {{suboff|78}}
+|-
+|RWB || '''22'''|| [[Paul Aguilar]]
+|-
+|LWB || '''7'''|| [[Miguel Layún]]
+|-
+|RM || '''6'''|| [[Héctor Herrera]] || {{yel|66}}
+|-
+|CM || '''8'''|| [[Jonathan dos Santos]] ||  || {{suboff|66}}
+|-
+|LM || '''18'''|| [[Andrés Guardado]] ([[Captain (association football)|c]])
+|-
+|CF || '''10'''|| [[Giovani dos Santos]] ||  || {{suboff|46}}
+|-
+|CF || '''11'''|| [[Carlos Vela]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''19'''|| [[Oribe Peralta]] ||  || {{subon|46}}
+|-
+|MF || '''9'''|| [[Jesús Manuel Corona]] ||  || {{subon|66}}
+|-
+|MF || '''21''' || [[Carlos Esquivel]] ||  || {{subon|78}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|[[Miguel Herrera]]
+|}
+|valign="top"|[[File:MEX-TRI-2015-07-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1'''|| [[Marvin Phillip]]
+|-
+|RB || '''2'''|| [[Aubrey David]]
+|-
+|CB || '''4'''|| [[Sheldon Bateau]]
+|-
+|CB || '''18'''|| [[Yohance Marshall]]
+|-
+|LB || '''17'''|| [[Mekeil Williams]] || {{yel|76}}
+|-
+|RM || '''3'''|| [[Joevin Jones]]
+|-
+|CM || '''13'''|| [[Cordell Cato]]
+|-
+|LM || '''19'''|| [[Kevan George]]
+|-
+|RF || '''8'''|| [[Khaleem Hyland]] || || {{suboff|78}}
+|-
+|CF || '''20'''|| [[Keron Cummings]] || {{yel|60}} || {{suboff|89}}
+|-
+|LF || '''9'''|| [[Kenwyne Jones]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''15''' || [[Dwane James]] || {{subon|78}}
+|-
+|FW || '''10''' || [[Willis Plaza]] || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Stephen Hart (footballer)|Stephen Hart]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Eric Boria ([[United States Soccer Federation|United&nbsp;States]])
+<br />Peter Manikowski ([[United States Soccer Federation|United&nbsp;States]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jhon Pitti]] ([[Panamanian Football Federation|Panama]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-mexico-vs-trinidad-tobago|title=Gold Cup Game Notes: Mexico vs. Trinidad and Tobago|publisher=CONCACAF.com|date=15 July 2015|access-date=16 July 2015|archive-url=https://web.archive.org/web/20150716095017/http://www.concacaf.com/article/gold-cup-game-notes-mexico-vs-trinidad-tobago|archive-date=16 July 2015|url-status=dead}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.concacaf.com/category/gold-cup}}
+
+{{2015 CONCACAF Gold Cup}}
+
+[[Category:2015 CONCACAF Gold Cup|Group C]]

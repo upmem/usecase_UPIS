@@ -1,0 +1,29 @@
+{{short description|Genus of beetles}}
+{{Italic title}}
+{{Taxobox
+| image = Jurua monachina - Flickr - Bennyboymothman.jpg
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Beetle|Coleoptera]]
+| subordo = [[Polyphaga]]
+| familia = [[Cerambycidae]]
+| genus = '''''[[Jurua (beetle)|Jurua]]'''''
+| species = '''''J. monachina'''''
+| binomial = ''Jurua monachina''
+| binomial_authority = (White, 1855)
+| synonyms = 
+}}
+
+'''''Jurua monachina''''' is a species of [[beetle]] in the family [[Cerambycidae]], and the only species in the genus '''''Jurua'''''. It was described by White in 1855.<ref>Bezark, Larry G. [http://plant.cdfa.ca.gov/byciddb/bycidview.asp A Photographic Catalog of the Cerambycidae of the World] {{Webarchive|url=https://web.archive.org/web/20130827211041/http://plant.cdfa.ca.gov/byciddb/bycidview.asp |date=2013-08-27 }}. Retrieved on 22 May 2012.</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q14830626}}
+
+[[Category:Anisocerini]]
+[[Category:Beetles described in 1855]]
+[[Category:Monotypic beetle genera]]
+
+{{Anisocerini-stub}}

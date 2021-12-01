@@ -1,0 +1,61 @@
+{{short description|Kazakhstani cyclist}}
+{{Other uses|Sergei Yakovlev (disambiguation){{!}}Sergei Yakovlev}}
+{{Infobox cyclist
+| name          = Sergei Yakovlev
+| image         = Sergej Jakovlev.jpg
+| caption       =
+| fullname      = Sergei Yakovlev<br>Сергей Яковлев
+| nickname      =
+| birth_date    = {{Birth date and age|1976|4|21}}
+| birth_place   = [[Temirtau]], [[Karaganda Region]], [[Kazakh SSR]]
+| height        = {{height|m=1.74|precision=0}}
+| weight        = {{convert|62|kg|lb|abbr=on}}
+| currentteam   =
+| discipline    = [[Road bicycle racing|Road]]
+| role          = Rider
+| ridertype     =
+| amateuryears1 =
+| amateurteam1  =
+| proyears1     = 1999&ndash;2000
+| proteam1      = Besson Chaussures
+| proyears2     = 2001
+| proteam2      = {{ct|CTA|2001}}
+| proyears3     = 2002&ndash;2005
+| proteam3      = {{ct|TMO|2002}}
+| proyears4     = 2006
+| proteam4      = {{ct|ONC|2006a}}
+| proyears5     = 2007&ndash;2008
+| proteam5      = {{ct|AST|2007}}
+| majorwins     = [[Tour de l'Ain]] (2000)
+}}
+'''Sergei Yakovlev''', ({{lang-kz|Сергей Яковлев}}, born April 21, 1976 in [[Temirtau]], [[Karaganda Region]], [[Soviet Union]], now [[Kazakhstan]]) is a Kazakhstani (ethnic Russian) professional [[road bicycle racer]]. He is currently without a team. He turned professional in 1999 and rode for Besson Chaussures for two seasons, then [[Acqua & Sapone-Caffè Mokambo|Acqua & Sapone]] and then he moved to [[Team Telekom]] which became T-Mobile. After fellow Kazakhstani [[Alexander Vinokourov]] left T-Mobile at the end of 2005, Yakovlev went with him to [[Liberty Seguros-Würth team]] and then the [[Astana Team|Astana cycling team]].  Yakovlev's victories include being the national champion of Kazakhstan in 2000, the 2000 edition of the Tour de l'Ain and a stage in the [[Tour de Suisse]].<ref>{{cite web|url=http://www.trap-friis.dk/cykling/kazakhstan.Yakovlev.htm|title=Sergei Yakovlev|publisher=trap-friis.dk|accessdate=2007-08-15}}</ref>
+
+==Major results==
+{{div col}}
+* [[Tour d'Indonesia]] - 1 stage (2005)
+* [[Tour de Suisse]] - 1 stage (2003)
+* {{KAZ}} National Road Race Champion (2000)
+* [[Tour de l'Ain]] (2000)
+* Asian Road Race Champion (1999)
+* [[Circuit Franco-Belge]] - 1 stage (1999)
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Yakovlev, Sergei}}
+[[Category:Kazakhstani male cyclists]]
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Olympic cyclists of Kazakhstan]]
+[[Category:Cyclists at the 2000 Summer Olympics]]
+[[Category:Cyclists at the 2004 Summer Olympics]]
+[[Category:Tour de Suisse stage winners]]
+[[Category:People from Temirtau]]
+[[Category:Cyclists at the 2002 Asian Games]]
+[[Category:Vuelta a España cyclists]]
+[[Category:Giro d'Italia cyclists]]
+[[Category:Asian Games competitors for Kazakhstan]]
+
+
+{{Kazakhstan-cycling-bio-stub}}

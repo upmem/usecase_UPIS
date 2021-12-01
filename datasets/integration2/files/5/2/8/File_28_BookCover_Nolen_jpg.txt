@@ -1,0 +1,25 @@
+== Summary ==
+{{Non-free use rationale book cover 
+| Article           = 28 (book)
+| Use               = Header
+<!-- OPTIONAL FIELDS -->
+| Title             = ''[[28 (book)|28: Stories of AIDS in Africa]]''
+| Author            = [[Stephanie Nolen]]
+| Publisher         = 
+| Cover_artist      = 
+| Website           = 
+| Owner             = 
+| Commentary        = 
+| Year              = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = [http://www.randomhouse.ca/catalog/display.pperl?isbn=9780676978223 this page by the publisher].
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = 
+| Replaceability    = 
+| Other_information = 
+}}
+
+== Licensing ==
+{{Non-free book cover|image has rationale=yes|category=Mainstream fiction book cover images}}

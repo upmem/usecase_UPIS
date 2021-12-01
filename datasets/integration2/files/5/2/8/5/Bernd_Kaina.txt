@@ -1,0 +1,51 @@
+{{short description|German biologist and toxicologist}}
+{{Orphan|date=February 2017}}
+
+'''Bernd Kaina''', born on January 7, 1950 in Drewitz, is a German biologist and [[toxicologist]]. His research is devoted to [[DNA]] damage and repair, DNA damage response, genotoxic signaling and [[cell death]] induced by carcinogenic DNA damaging insults.
+
+== Education ==
+Kaina completed his degree in Biology at the [[Martin Luther University of Halle-Wittenberg]], where he also completed his PhD thesis on the effects of the neurotropic carcinogen N-methyl-N-nitrosourea on human cells. 
+From 1975 to 1984, he was a project leader at the Central Institute for Genetics and Crop Plant Research in [[Gatersleben]] and focused on the genotoxic effect of [[alkylating agents]] and [[adaptive response]] in various experimental systems.
+From 1984 to 1985, he was a scholarship holder of the [[European Community]] at the Institute of Molecular Biology in Leiden, Netherlands, and afterwards, from 1985 to 1987, he was a guest researcher at the [[German Cancer Research Centre]] in [[Heidelberg]], Germany.
+As a Heisenberg Fellow of the German Research Foundation (DFG), he moved to the Institute of Genetics and Toxicology at the Nuclear Research Centre in Karlsruhe. From there, he was appointed as full professor and Head of Division of Applied Toxicology at the Institute of Toxicology of the Johannes Gutenberg-University in Mainz, Germany. Since 2004, he is the director of the Institute of Toxicology at the University Medical Centre of the Johannes Gutenberg-University in Mainz.<ref>[http://www.unimedizin-mainz.de/toxikologie/project-groups/gruppen/prof-dr-bernd-kaina.html?L=1] {{Webarchive|url=https://web.archive.org/web/20160821154439/http://www.unimedizin-mainz.de/toxikologie/project-groups/gruppen/prof-dr-bernd-kaina.html?L=1 |date=2016-08-21 }} Kaina's work and CV</ref>
+
+== Research ==
+Kaina made significant contributions to our understanding of the effects of alkylating carcinogens and chemotherapeutic agents. He identified the repair enzyme [[O-6-methylguanine-DNA methyltransferase]] (MGMT) as a protection mechanism against the killing, clastogenic, recombinogenic and carcinogenic effects of alkylating carcinogens. In a translational research program, his group studied the importance of DNA repair in drug resistance of [[glioblastomas]], malignant [[melanomas]] and other tumour types. He also contributed to a deeper insight of the mutagenic and cytotoxic effect of UV light, [[ionizing radiation]] and chemical genotoxins, assessed the regulation of repair genes and showed that specific DNA repair functions can be induced following genotoxic stress, thus contributing to the cells’ adaptation to these detrimental exposure. He demonstrated a repair defect in immunocompetent cells ([[monocytes]]) and assessed the regulation of repair genes by [[cytokines]]. He is also engaged in studies on the genotoxic effects of TCM drugs such as [[artesunate]]. He contributed to more than 300 publications in internationally respected journals and books.<ref>[https://www.ncbi.nlm.nih.gov/pubmed/?term=Kaina+B Bernd Kaina's Publication list] in [[Pubmed]]</ref>
+
+== Awards and honours ==
+* [http://www.unimedizin-mainz.de/typo3temp/secure_downloads/16228/0/f10cb54157d122df392a4cd34125ba8e8fb68053/Announcement.pdf] Ulrich-Hagen Award of the German Society for Radiation Biology (2014)
+* [http://www.unimedizin-mainz.de/typo3temp/secure_downloads/16228/0/f10cb54157d122df392a4cd34125ba8e8fb68053/GT_Society_of_Toxicology.pdf] Toxicology Award of the German Association for Experimental and Clinical Pharmacology and Toxicology (2012)
+* [http://www.unimedizin-mainz.de/typo3temp/secure_downloads/16228/0/f10cb54157d122df392a4cd34125ba8e8fb68053/German_Cancer_Society2011.pdf] German Cancer Award, experimental part (2011)
+* Research Award of the German Environmental Mutagen Society (2009)
+* Heisenberg Fellow of the German Research Foundation
+
+== Selected publications ==
+* Roos W., Thomas A., Kaina B. (2016) DNA damage and the balance between survival and death in cancer biology, 16, 20-33, [https://www.ncbi.nlm.nih.gov/pubmed/26678314 ''Nature Rev. Cancer'']
+* Roos W., Kaina B. (2013) DNA damage-induced cell death: from specific DNA lesions to the DNA damage response and apoptosis, 332, 237-248, [https://www.ncbi.nlm.nih.gov/pubmed/22261329 ''Cancer Letters'']
+* Bauer, M., Goldstein M., Christmann M., Becker H., Heylmann D., Kaina B. (2011) Human monocytes are severely impaired in base and DNA double-strand break repair that renders them vulnerable to oxidative stress, 108, 21105-21110 [https://www.ncbi.nlm.nih.gov/pubmed/?term=Human+monocytes+are+severely+impaired+in+base+and+DNA+double-strand+break+repair+that+renders+them+vulnerable+to+oxidative+stress, ''Proceedings of the National Academy of Sciences of the United States'']
+* Kaina B., Margison G., Christmann M. (2010) Targeting O6-methylguanine-DNA methyltransferase with specific inhibitors as a strategy in cancer therapy, 67, 3663-3681 [https://www.ncbi.nlm.nih.gov/pubmed/?term=Targeting+O6-methylguanine-DNA+methyltransferase+with+specific+inhibitors+as+a+strategy+in+cancer+therapy ''Cellular and Molecular Life Sciences'']
+* Kaina B., Christmann M., Naumann S., Roos W. (2007) MGMT: key node in the battle against genotoxicity, carcinogenicity and apoptosis induced by alkylating agents, [[DNA Repair]], 6, 1079-1099, [https://www.ncbi.nlm.nih.gov/pubmed/?term=MGMT%3A+key+node+in+the+battle+against+genotoxicity%2C+carcinogenicity+and+apoptosis+induced+by+alkylating+agents ''DNA Repair'']
+* Batista L.F.Z., Roos W., Christmann M., Menck C., Kaina B. (2007) Differential sensitivity of malignant glioma cells to methylating and chloroethylating anticancer drugs: p53 determines the switch by regulating xpc, ddb2 and DNA double-strand breaks, 67, 11886-11895, [https://www.ncbi.nlm.nih.gov/pubmed/?term=Differential+sensitivity+of+malignant+glioma+cells+to+methylating+and+chloroethylating+anticancer+drugs%3A+p53+determines+the+switch+by+regulating+xpc%2C+ddb2+and+DNA+double-strand+breaks''Cancer Research'']
+* Kaina B. (2004) Mechanisms and consequences of methylating agent-induced SCEs and chromosomal aberrations: a long road traveled and still a far way to go, 104, 77-86 [https://www.ncbi.nlm.nih.gov/pubmed/?term=Mechanisms+and+consequences+of+methylating+agent-induced+SCEs+and+chromosomal+aberrations%3A+a+long+road+traveled+and+still+a+far+way+to+go ''Cytogenetic and Genome Research'']
+* Kaina B., Fritz G., Mitra S., Coquerelle T. (1991) Transfection and expression of human O6-methylguanine-DNA methyltransferase (MGMT) DNA in Chinese hamster cells: the role of MGMT in protection against the genotoxic effects of alkylating agents, 12, 1857-1867, [https://www.ncbi.nlm.nih.gov/pubmed/?term=Transfection+and+expression+of+human+O6-methylguanine-DNA+methyltransferase+(MGMT)+DNA+in+Chinese+hamster+cells%3A+the+role+of+MGMT+in+protection+against+the+genotoxic+effects+of+alkylating+agents ''Carcinogenesis'']
+
+== References ==
+{{Reflist}}
+* Scientific autobiography in A. Philippu (edt), Berenkamp Verlag, 2004
+* [http://www.spandidos-publications.com/COVER_LEGENDS/ijo_33_5_cover_legend.pdf Cover legend]: ''[[International Journal of Oncology]]'' 2008
+* Ulrich-Hagen Prize 2014 [https://www.uni-mainz.de/presse/62199.php ]
+* German Cancer Aid Prize 2011 [https://www.uni-mainz.de/presse/43671.php ]
+* Prize for research on DNA repair 2010 [https://www.uni-mainz.de/presse/40870.php ]
+
+== External links ==
+* [https://web.archive.org/web/20160821180041/http://www.unimedizin-mainz.de/toxikologie/startpage.html?L=1 ''Institute of Toxicology''], University Medical Centre, Mainz, Germany
+* Bernd Kaina's list of publications in [https://www.ncbi.nlm.nih.gov/pubmed/?term=Kaina+B ''Pubmed'']
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kaina, Bernd}}
+[[Category:German biologists]]
+[[Category:German toxicologists]]
+[[Category:Johannes Gutenberg University Mainz]]
+[[Category:1950 births]]
+[[Category:Living people]]

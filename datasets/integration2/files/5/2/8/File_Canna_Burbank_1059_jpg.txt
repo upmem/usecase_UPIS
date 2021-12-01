@@ -1,0 +1,13 @@
+== Summary ==
+{{Information|
+|Description = Canna Italian Group 'Burbank'
+|Source = self-made
+|Created 2006-09-29
+|Author = Claines Canna 
+|Permission = Commons
+}}
+
+== Licensing ==
+{{GFDL-self-with-disclaimers|migration=relicense}}
+
+{{Copy to Wikimedia Commons|bot=Fbot|priority=true}}

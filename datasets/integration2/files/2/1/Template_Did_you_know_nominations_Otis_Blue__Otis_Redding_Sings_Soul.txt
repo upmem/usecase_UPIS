@@ -1,0 +1,11 @@
+{{#if:no|<noinclude>[[Category:Failed DYK nominations&nbsp;from February 2012]]<div style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived discussion of the DYK nomination of the article below. <span style="color:red">'''Please do not modify this page.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as [[{{TALKPAGENAME}}|this nomination's talk page]], [[Talk:{{SUBPAGENAME}}|the article's talk page]] or [[Wikipedia talk:Did you know]]), unless there is consensus to re-open the discussion at this page.  '''No further edits should be made to this page'''.''
+
+The result was: '''rejected''' by [[User:Miyagawa|<font face="Verdana">Miyagawa</font>]] [[User talk:Miyagawa|<font face="Verdana">(talk)</font>]] 21:14, 24 February 2012 (UTC)<br />}}
+====Otis Blue: Otis Redding Sings Soul====
+{{DYK nompage links|nompage=Otis Blue: Otis Redding Sings Soul|Otis Blue: Otis Redding Sings Soul}}
+*... that in [[Otis Redding|Redding]]'s '''''[[Otis Blue: Otis Redding Sings Soul|Otis Blue]]''''' all but one song were recorded in 24 hours?
+<small>Created/expanded  by [[User:GreatOrangePumpkin|GreatOrangePumpkin]] ([[User talk:GreatOrangePumpkin|talk]]).  Self nom at 12:35, 18 February 2012 (UTC)</small>
+
+:*I reviewed [[Template:Did you know nominations/HIM Damsyik]]. 
+[[File:Symbol delete vote.svg|16px]] Not new enough.  Recent expansion is only 25%.--[[User:Ishtar456|Ishtar456]] ([[User talk:Ishtar456|talk]]) 00:25, 21 February 2012 (UTC){{#if:no|</div></noinclude>|{{#ifeq:{{FULLPAGENAME}}|Template talk:Did you know/{{SUBPAGENAME}}|[[Category:Pending DYK nominations]]|{{#ifeq:{{FULLPAGENAME}}|Template:Did you know nominations/{{SUBPAGENAME}}|[[Category:Pending DYK nominations]]}}}}}}<!--Please do not write below this line or remove this line. Place comments above this line.-->

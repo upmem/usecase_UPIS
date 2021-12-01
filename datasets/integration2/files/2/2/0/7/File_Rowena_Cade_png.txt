@@ -1,0 +1,17 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Rowena Cade (1893 - 1983) was the creator of the Minack Theatre in Porthcurno, Cornwall, UK
+|Source = '''Original publication''': unknown<br/>
+'''Immediate source''': http://www.deedsnotwordstowardsliberation.com/100-derbyshire-women-1?lightbox=dataItem-iqjwune02
+|Date = unknown
+|Author = unknown
+|Article = Rowena Cade
+|Purpose = for visual identification of the person in question, at the top of his/her biographical article
+|Replaceability = copyright
+|Minimality = crop
+|Commercial = crop and med res
+|Other information = The subject of the photograph has been deceased since: 1983
+}}
+
+==Licensing==
+{{Non-free biog-pic|Rowena Cade}}

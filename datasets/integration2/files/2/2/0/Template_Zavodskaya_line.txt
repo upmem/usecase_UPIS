@@ -1,0 +1,36 @@
+{| {{Railway line header|collapse={{#if:{{{collapse|}}}|{{{collapse}}}|no}}}}
+{{BS-header|[[Russian Empire Railways]], [[Saint Petersburg - Beloostrov]]<br />[[Zavodskaya line]] (1916 - 1920s)||gray}}
+{{BS-table}}
+{{BS||lake|[[Rasliw]]||bg=#007cc3|tw=180px}}
+{{BS4|WASSER||WASSER|ARCH||[[Sestroretsk armory]]}}
+{{BS4|WASSER|exKBHFa|WASSERl|WASSERq|'''5.4'''|[[Sestroretsk railway station (1871-1924)|Sestroretsk railway station]]|[[Sestroretsk]]}}
+{{BS3-startCollapsible|WASSER|exSTR|||Trackside||1871-1886|bg=#ccccff}}
+{{BS3|WASSER|exSTR|HUBa|line|[[Miller's line]]|bg=#DCDCDC}}
+{{BS3|WASSER|exABZgl|exCONTfq|'''5.2'''|To|[[Miller's pier]]|O3=HUBe|bg=#DCDCDC}}
+{{BS3-startCollapsible|WASSER|exSTR|CONTg|line|[[Template:Saint Petersburg Finlyandsky - Beloostrov through Sestroretsk|SPb-Sestr.-Beloostr.]]|O3=HUBa|bg=#DCDCDC}}
+{{BS3|WASSER|exSTR|LSTR|{{rmri|u}}||[[Finlyandsky Rail Terminal|Finlyandsky Rail Term.]]|O3=HUB|bg=#DCDCDC}}
+{{BS3|WASSER|exSTR|LSTR|{{rmri|u}}||[[Sestroretsk]]|O3=HUB}}
+|}
+{{BS3|WASSER|exSPLa|STRr|'''3.9'''|{{rmri|u}}|[[Kurort]]|O2=STR+l|O3=HUBe|bg=#DCDCDC}}
+{{BS3|WASSER|exvSTR|O2=STR}}
+{{BS3|WASSER|exvSHI1l-STRl|exSTR+r|'''3.6'''|{{rmri|d}}|[[Beloostrov]]|O2=STR|O3=HUBa|bg=#DCDCDC}}
+{{BS3|WASSER|STR|exCONTf|line|[[Sestroretsk spur line]]||(1871-1873)|O3=HUB|bg=#DCDCDC}}
+{{BS3|WASSER|exSTR|HUBe|line|[[Miller's line]]||(1873-1886)|bg=#DCDCDC}}
+|}
+{{BS4|WASSERl|WBRÜCKE1|WASSERq|WASSER+r|'''3.4'''|[[Sestra crossover, Sestroretsk direct|Sestra crossover]]|''[[Sestra River (Leningrad Oblast)|Sestra]]''}}
+{{BS4-startCollapsible||exSTR|CONTg|WASSER|line|[[Vyborg line]]|O3=HUBa|O4=GRZq|bg=#DCDCDC}}
+{{BS4||STR|LSTR|WASSER|{{rmri|u}}||[[Vyborg railway station|Vyborg]]|O3=HUB}}
+{{BS4||exSTR|LSTR|WASSER|{{rmri|u}}||[[Zelenogorsk]]|O3=HUB}}
+|}
+{{BS4||STR|STR|WASSERl|{{rmri|u}}|[[Solnechnoye, Saint Petersburg|Solnechnoye]]|O3=HUBe|bg=#DCDCDC}}
+{{BS2|exSTRl|ABZgr+r|'''0.3'''}}
+{{BS2||KBHFxa|'''0.0'''|[[Beloostrov]]|}}
+{{BS3-startCollapsible|||STR|line|[[Vyborg line]]|O3=HUBa|bg=#DCDCDC}}
+{{BS3|||LSTR|{{rmri|d}}||[[Finlyandsky Rail Terminal|Finlyandsky Rail Term.]]|O3=HUB}}
+{{BS3|||LSTR|{{rmri|d}}||[[Lanskaya railway station|Lanskaya]]|O3=HUB}}
+|}
+{{BS2||CONTf|{{rmri|d}}|[[Pesochny, Saint Petersburg|Pesochny]]|O2=HUBe|bg=#DCDCDC}}
+|}<small>''Distances in kilometers''</small>
+|}<noinclude>
+[[Category:Templates for railway lines in Russia|{{PAGENAME}}]]
+</noinclude>

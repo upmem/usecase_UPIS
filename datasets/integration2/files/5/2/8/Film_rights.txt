@@ -1,0 +1,34 @@
+'''Film rights''' are rights under [[copyright]] law to produce a [[film]] as a [[derivative work]] of a given item of [[intellectual property]]. In [[US law]], these rights belong to the holder of the copyright, who may sell (or "[[option (filmmaking)|option]]") them to someone in the film industry—usually a [[film producer|producer]] or [[film director|director]], or sometimes a specialist broker of such properties—who will then try to gather industry professionals and secure the financial backing necessary to convert the property into a film. Such rights differ from the right to commercially exhibit a finished motion picture, which rights are usually referred to as "exhibition rights" or "public-performance rights".
+
+==Origins==
+In the [[United States of America|United States]], the need to secure film rights of previously published or produced source materials still under copyright stems from [[case law]].  In 1907, the [[Kalem Company]] produced a one-reel [[silent film]] version of General [[Lew Wallace]]'s [[novel]] ''[[Ben-Hur: A Tale of the Christ|Ben-Hur]]'' without first securing film rights.  Wallace's estate and his American publisher, [[Harper & Brothers]] sued for [[copyright infringement]].  The [[United States Supreme Court]] ruled in favor of the plaintiffs, establishing the [[precedent]] that all adaptations are subject to copyright.
+
+== Options ==
+When producers '''option''' a script, they are purchasing the right to buy certain rights to intellectual property.  A general option fee is 10% of the cost of the rights, should the producers manage to secure full financing for their project and have it "greenlit".    Because few projects actually manage to be greenlit, options allow producers to reduce their loss in the event that a project fails to come to fruition. Should the project be greenlit, an option provides a legally binding guarantee to purchase the film rights.
+
+The contract for an option will specify the length of time it is valid for. If the producer is unable to have their project greenlit within the specified timeframe (e.g. two years), the option will expire. The rights holder can then put the previously optioned rights up for sale again. Or, the contract may allow the producer to renew the option for a certain price.
+
+== Chain of title ==
+As it is common for scripts to be stuck in [[development hell]], the options for a script may expire and be resold on multiple occasions. As well, producers who purchase an option and rework the script own the rights to their own derivative work- while the original rights holder owns the underlying rights.  This lineage is referred to as the [[chain of title]].  This lineage can become cloudy if the underlying rights are divided.  Producers may purchase the rights to a specific region (i.e. a country, the entire world, or the universe) and/or they may purchase ancillary rights such as merchandising rights.
+
+In some cases, it may be uncertain as to the exact owners of a particular version of a script and to the exact set of rights.  It is important for an [[entertainment lawyer]] to determine how 'clean' a chain of title is.
+
+== See also ==
+* [[Screenplay]]
+* [[Chain of title]]
+* Copyright precedent set by [[Ben Hur (1907 film)|''Ben Hur'' (1907 film)]]
+
+==References==
+{{refimprove|date=April 2016}}
+{{Reflist}}
+
+* Petridis, Sotiris. "[https://www.academia.edu/7966790/Comparative_Issues_on_Copyright_Protection_for_Films_in_the_US_and_Greece Comparative Issues on Copyright Protection for Films in the US and Greece.]"  [[Journal of Intellectual Property Rights]] Vol. 19, Issue 4 (July 2014).
+
+==External links==
+*[https://books.google.com/books?id=Sm09AAAAIAAJ&pg=PA488&lpg=PA488&dq=%22harper+%26+brothers+v.+kalem%22&source=web&ots=WcRY9U4eNe&sig=NOFUOTOkC4agpGyopFIo-YxikCw&hl=en&sa=X&oi=book_result&resnum=1&ct=result#PPA488,M1 Google Book Search file on ''Harper & Brothers v. Kalem Company (1909)''], from the book ''Select Cases on the Law of Torts'', by [[John Henry Wigmore]].
+* Petridis, Sotiris. “[https://www.academia.edu/7966790/Comparative_Issues_on_Copyright_Protection_for_Films_in_the_US_and_Greece Comparative Issues on Copyright Protection for Films in the US and Greece.]”  [[Journal of Intellectual Property Rights]] Vol. 19, Issue 4 (July 2014).
+
+{{filmmaking}}
+
+[[Category:Film and video terminology]]
+[[Category:Intellectual property law]]

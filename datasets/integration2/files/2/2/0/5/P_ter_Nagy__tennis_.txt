@@ -1,0 +1,626 @@
+{{short description|Hungarian tennis player}}
+{{BLP sources|date=October 2015}}
+{{Hungarian name|Nagy Péter}}
+{{Infobox tennis biography
+|name                              = Péter Nagy
+|image                             = 
+|caption                           = 
+|country                           = {{HUN}}
+|residence                         = [[Budapest]], Hungary
+|birth_date                        = {{birth date and age|df=yes|1992|3|17}} 
+|birth_place                       = Budapest, Hungary
+|height                            = {{height|m=1.80}}
+|turnedpro                         = 
+|plays                             = Right-handed (two handed-backhand)
+|careerprizemoney                  = [[US$|$]]80,525
+|singlesrecord                     = 3–4 <small> (at [[ATP Tour]] level, [[Grand Slam (tennis)|Grand Slam]] level, and in [[Davis Cup]])</small>
+|singlestitles                     = 0<br><small>0 [[ATP Challenger Tour|Challenger]], 3 [[ITF Men's Circuit|Futures]]</small>
+|highestsinglesranking             = No. 409 (15 May 2017)
+|currentsinglesranking             = No. 543 (19 October 2020)
+|AustralianOpenresult              = 
+|FrenchOpenresult                  = 
+|Wimbledonresult                   = 
+|USOpenresult                      = 
+|doublesrecord                     = 1–2 <small> (at [[ATP Tour]] level, [[Grand Slam (tennis)|Grand Slam]] level, and in [[Davis Cup]])</small>
+|doublestitles                     = 0<br><small>0 [[ATP Challenger Tour|Challenger]], 12 [[ITF Men's Circuit|Futures]]</small>
+|highestdoublesranking             = No. 283 (10 December 2018)
+|currentdoublesranking             = No. 606 (19 October 2020)
+|AustralianOpenDoublesresult       = 
+|FrenchOpenDoublesresult           = 
+|WimbledonDoublesresult            =   
+|USOpenDoublesresult               = 
+|Team                              = yes
+|DavisCupresult                    = 4–5
+|updated                           = 19 October 2020
+}}
+
+'''Péter Nagy''' (born 17 March 1992) is a [[Hungary|Hungarian]] [[tennis]] player.
+
+Nagy has a career high [[Association of Tennis Professionals|ATP]] singles ranking of 409 achieved on 15 May 2017. He also has a career high ATP doubles ranking of 283 achieved on 10 December 2018. Nagy has won three [[International Tennis Federation|ITF]] singles titles and twelve ITF doubles titles.
+
+Playing for [[Hungary Davis Cup team|Hungary]] in [[Davis Cup]], Nagy has a W/L record of 4–5.
+
+==Future and Challenger finals==
+===Singles: 11 (3–8)===
+{|class=wikitable style=font-size:97%
+|-
+!Legend
+|- style="background:moccasin;"
+|Challengers 0 (0–0)
+|- style="background:#cffcff;"
+|Futures 11 (3–8)
+|}
+{|class="sortable wikitable" style=font-size:97%
+|-
+!Outcome
+!No.
+!Date
+!Tournament
+!Surface
+!Opponent
+!Score
+|-bgcolor=#cffcff
+|bgcolor=FFA07A|Runner-up
+| 1.
+|{{dts|format=mdy|2014-11-16}}
+| {{flagicon|USA}} [[Niceville, Florida|Niceville]] USA F31
+| Clay
+| {{flagicon|USA}} Will Spencer
+| 4–6, 6–2, 4–6
+|-bgcolor=#cffcff
+|bgcolor=98FB98|Winner
+| 1.
+|{{dts|format=mdy|2015-07-26}}
+| {{flagicon|SVK}} [[Slovenská Ľupča]] Slovakia F2
+| Clay
+| {{flagicon|CZE}} Petr Michnev
+| 6–3, 7–5
+|-bgcolor=#cffcff
+|bgcolor=FFA07A|Runner-up
+| 2.
+|{{dts|format=mdy|2016-05-15}}
+| {{flagicon|CRO}} [[Bol, Croatia|Bol]] Croatia F6
+| Clay
+| {{flagicon|SRB}} [[Nikola Čačić]]
+| 5–7, 4–6
+|-bgcolor=#cffcff
+|bgcolor=FFA07A|Runner-up
+| 3.
+|{{dts|format=mdy|2016-05-22}}
+| {{flagicon|CRO}} [[Bol, Croatia|Bol]] Croatia F7
+| Clay
+| {{flagicon|ITA}} [[Riccardo Bellotti]]
+| 6–7<sup>(3–7)</sup>, 0–6
+|-bgcolor=#cffcff
+|bgcolor=98FB98|Winner
+| 2.
+|{{dts|format=mdy|2016-06-19}}
+| {{flagicon|POL}} [[Warsaw]] Poland F4
+| Clay
+| {{flagicon|POL}} [[Marcin Gawron]]
+| 6–4, 0–6, 6–4
+|-bgcolor=#cffcff
+|bgcolor=FFA07A|Runner-up
+| 4.
+|{{dts|format=mdy|2016-09-24}}
+| {{flagicon|HUN}} [[Dunakeszi]] Hungary F6
+| Clay
+| {{flagicon|CRO}} [[Kristijan Mesaroš]]
+| 3–6, 2–6
+|-bgcolor=#cffcff
+|bgcolor=FFA07A|Runner-up
+| 5.
+|{{dts|format=mdy|2016-10-01}}
+| {{flagicon|HUN}} [[Balatonboglár]] Hungary F7
+| Clay
+| {{flagicon|IND}} [[Sumit Nagal]]
+| 6–7<sup>(3–7)</sup>, 1–6
+|-bgcolor=#cffcff
+|bgcolor=FFA07A|Runner-up
+| 6.
+|{{dts|format=mdy|2018-11-04}}
+| {{flagicon|TUR}} [[Antalya]] Turkey F34
+| Clay
+| {{flagicon|ESP}} [[Javier Barranco Cosano]]
+| 4–6, 1–6
+|-bgcolor=#cffcff
+|bgcolor=98FB98|Winner
+| 3.
+|{{dts|format=mdy|2019-08-11}}
+|{{flagicon|SRB}} M15 [[Novi Sad]], Serbia
+| Clay
+| {{flagicon|SRB}} [[Marko Miladinović]]
+| 7–6<sup>(7–4)</sup>, 6–4
+|-bgcolor=#cffcff
+|bgcolor=FFA07A|Runner-up
+| 7.
+|{{dts|format=mdy|2019-09-22}}
+|{{flagicon|SRB}} M15 [[Zlatibor (town)|Zlatibor]], Serbia
+| Clay
+| {{flagicon|BIH}} [[Nerman Fatić]]
+| 5–7, 3–6
+|-bgcolor=#cffcff
+|bgcolor=FFA07A|Runner-up
+| 8.
+|{{dts|format=mdy|2019-10-13}}
+|{{flagicon|BUL}} M15 [[Burgas]], Bulgaria
+| Clay
+| {{flagicon|ITA}} [[Fabrizio Ornago]]
+| 3–6 ret.
+|}
+
+===Doubles 28 (12–16)===
+{|class=wikitable style=font-size:97%
+|-
+!Legend
+|- style="background:moccasin;"
+|Challengers 0 (0–0)
+|- style="background:#cffcff;"
+|Futures 28 (12–16)
+|}
+{|class=wikitable
+!Outcome
+!No.
+!Date
+!Tournament
+!Surface
+!Partner
+!Opponents
+!Score
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|1.
+|{{dts|format=dmy|17 September 2011}}
+|{{flagicon|HUN}} [[Budapest]], Hungary F1
+|Clay
+|{{flagicon|HUN}} [[Levente Gödry]]
+|{{flagicon|CHI}} [[Hans Podlipnik-Castillo]]<br>{{flagicon|AUT}} [[Marc Rath]]
+|6–2, 4–6, [3–10]
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|2.
+|{{dts|format=dmy|27 July 2014}}
+|{{flagicon|SRB}} [[Valjevo]], Serbia F6
+|Clay
+|{{flagicon|HUN}} [[Levente Gödry]]
+|{{flagicon|MNE}} [[Ljubomir Čelebić]]<br>{{flagicon|ITA}} [[Davide Melchiorre]]
+|3–6, 6–4, [10–8]
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|3.
+|{{dts|format=mdy|2015-06-26}}
+|{{flagicon|SVK}} [[Slovenská Ľupča]] Slovakia F2
+|Clay
+|{{flagicon|HUN}} [[Gábor Borsos]]
+|{{flagicon|ITA}} [[Francesco Borgo]]<br>{{flagicon|ITA}} [[Alessandro Colella]]
+|4–6, 4–6
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|4.
+|{{dts|format=mdy|2015-11-22}}
+|{{flagicon|USA}} [[Pensacola, Florida|Pensacola]], USA F33
+|Clay
+|{{flagicon|CAN}} [[Denis Shapovalov]]
+|{{flagicon|USA}} [[Christopher Ephron]]<br>{{flagicon|BRA}} [[Bruno Savi]]
+|6–3, 6–2
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|5.
+|{{dts|format=mdy|2016-01-24}}
+|{{flagicon|USA}} [[Sunrise, Florida|Sunrise]], USA F4
+|Clay
+|{{flagicon|CAN}} [[Denis Shapovalov]]
+|{{flagicon|SWE}} [[Isak Arvidsson]]<br>{{flagicon|JPN}} [[Kaichi Uchida]]
+|4–6, 4–6
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|6.
+|{{dts|format=mdy|2016-02-07}}
+|{{flagicon|USA}} [[Palm Coast, Florida|Palm Coast]], USA F6
+|Clay
+|{{flagicon|USA}} [[Will Spencer (tennis)|Will Spencer]]
+|{{flagicon|CHI}} [[Nicolás Jarry]]<br>{{flagicon|CHI}} [[Juan Carlos Sáez]]
+|1–6, 2–6
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|7.
+|{{dts|format=mdy|2016-04-24}}
+|{{flagicon|USA}} [[Orange Park, Florida|Orange Park]], USA F14
+|Clay
+|{{flagicon|CAN}} [[Denis Shapovalov]]
+|{{flagicon|PHI}} [[Ruben Gonzales (tennis)|Ruben Gonzales]]<br>{{flagicon|USA}} [[Dennis Nevolo]]
+|6–2, 6–3
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|8.
+|{{dts|format=mdy|2016-08-28}}
+|{{flagicon|AUT}} [[Pörtschach am Wörthersee|Pörtschach]], Austria F7
+|Clay
+|{{flagicon|SLO}} [[Nik Razboršek]]
+|{{flagicon|BOL}} [[Hugo Dellien]]<br>{{flagicon|BOL}} [[Federico Zeballos]]
+|3–6, 0–6
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|9.
+|{{dts|format=mdy|2016-09-11}}
+|{{flagicon|HUN}} [[Budapest]], Hungary F4
+|Clay
+|{{flagicon|HUN}} [[Levente Gödry]]
+|{{flagicon|HUN}} [[Gábor Borsos]]<br>{{flagicon|HUN}} [[Ádám Kellner]]
+|4–6, 6–1, [6–10]
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|10.
+|{{dts|format=mdy|2016-09-24}}
+|{{flagicon|HUN}} [[Dunakeszi]], Hungary F6
+|Clay
+|{{flagicon|HUN}} [[Levente Gödry]]
+|{{flagicon|HUN}} [[Attila Balázs]]<br>{{flagicon|HUN}} [[Gergely Kisgyörgy]]
+|1–6, 3–6
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|11.
+|{{dts|format=mdy|2017-05-28}}
+|{{flagicon|HUN}} [[Balatonalmádi]], Hungary F3
+|Clay
+|{{flagicon|HUN}} [[Levente Gödry]]
+|{{flagicon|HUN}} [[Gábor Borsos]]<br>{{flagicon|HUN}} [[Viktor Filipenkó]]
+|3–6, 4–6
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|12.
+|{{dts|format=mdy|2017-06-18}}
+|{{flagicon|HUN}} [[Gyula, Hungary]] F4
+|Clay
+|{{flagicon|HUN}} [[Levente Gödry]]
+|{{flagicon|SRB}} [[Nikola Čačić]]<br>{{flagicon|AUS}} [[Scott Puodziunas]]
+|6–7<sup>(2–7)</sup>, 2–6
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|13.
+|{{dts|format=mdy|2017-07-02}}
+|{{flagicon|ROU}} [[Curtea de Argeș]], Romania F5
+|Clay
+|{{flagicon|COL}} [[Cristian Rodríguez (tennis)|Cristian Rodríguez]]
+|{{flagicon|ROU}} [[Adrian Barbu]]<br>{{flagicon|SUI}} [[Riccardo Maiga]]
+|6–4, 7–6<sup>(8–6)</sup>
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|14.
+|{{dts|format=mdy|2017-10-08}}
+|{{flagicon|TUR}} [[Antalya]], Turkey F37
+|Clay
+|{{flagicon|GER}} [[Peter Torebko]]
+|{{flagicon|BRA}} [[Felipe Meligeni Alves]]<br>{{flagicon|BRA}} [[Caio Silva]]
+|4–6, 3–6
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|15.
+|{{dts|format=mdy|2018-03-25}}
+|{{flagicon|CRO}} [[Opatija]], Croatia F3
+|Clay
+|{{flagicon|MNE}} [[Ljubomir Čelebić]]
+|{{flagicon|ARG}} [[Tomás Lipovsek Puches]]<br>{{flagicon|BRA}} [[Bruno Sant'Anna]]
+|4–6, 1–6
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|16.
+|{{dts|format=mdy|2018-06-09}}
+|{{flagicon|ITA}} [[Padova]], Italy F13
+|Clay
+|{{flagicon|HUN}} [[Gábor Borsos]]
+|{{flagicon|ROU}} [[Vasile Antonescu]]<br>{{flagicon|ROU}} [[Bogdan Ionuț Apostol]]
+|6–2, 6–7<sup>(8–10)</sup>, [10–7]
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|17.
+|{{dts|format=mdy|2018-08-12}}
+|{{flagicon|SRB}} [[Novi Sad]], Serbia F1
+|Clay
+|{{flagicon|FRA}} [[Florent Diep]]
+|{{flagicon|SRB}} [[Dejan Katić]]<br>{{flagicon|SRB}} [[Goran Marković (tennis)|Goran Marković]]
+|W/O
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|18.
+|{{dts|format=mdy|2018-08-19}}
+|{{flagicon|SRB}} [[Novi Sad]], Serbia F2
+|Clay
+|{{flagicon|TUN}} [[Moez Echargui]]
+|{{flagicon|BUL}} [[Gabriel Donev]]<br>{{flagicon|BUL}} [[Plamen Milushev]]
+|5–7, 6–4, [10–6]
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|19.
+|{{dts|format=mdy|2018-09-01}}
+|{{flagicon|HUN}} [[Székesfehérvár]], Hungary F7
+|Clay
+|{{flagicon|HUN}} [[Levente Gödry]]
+|{{flagicon|NED}} [[Gijs Brouwer]]<br>{{flagicon|NED}} [[Jelle Sels]]
+|7–6<sup>(7–4)</sup>, 3–6, [5–10]
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|20.
+|{{dts|format=mdy|2018-09-30}}
+|{{flagicon|TUR}} [[Antalya]], Turkey F29
+|Clay
+|{{flagicon|BEL}} [[Jeroen Vanneste]]
+|{{flagicon|ITA}} [[Erik Crepaldi]]<br>{{flagicon|TUR}} [[Koray Kırcı]]
+|6–4, 6–3
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|21.
+|{{dts|format=mdy|2018-10-13}}
+|{{flagicon|ITA}} [[Pula, Sardinia|Santa Margherita Di Pula]], Italy F31
+|Clay
+|{{flagicon|HUN}} [[Gábor Borsos]]
+|{{flagicon|AUT}} [[Matthias Haim]]<br>{{flagicon|GER}} [[Jakob Sude]]
+|6–3, 0–6, [10–7]
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|22.
+|{{dts|format=mdy|2018-11-25}}
+|{{flagicon|RSA}} [[Stellenbosch]], South Africa F1
+|Hard
+|{{flagicon|HUN}} [[Gábor Borsos]]
+|{{flagicon|USA}} [[Connor Farren]]<br>{{flagicon|USA}} [[Christian Langmo]]
+|6–3, 7–6<sup>(7–4)</sup>
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|23.
+|{{dts|format=mdy|2018-12-02}}
+|{{flagicon|RSA}} [[Stellenbosch]], South Africa F2
+|Hard
+|{{flagicon|HUN}} [[Gábor Borsos]]
+|{{flagicon|ZIM}} [[Benjamin Lock]]<br>{{flagicon|ZIM}} [[Courtney John Lock]]
+|7–6<sup>(7–1)</sup>, 6–2
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|24.
+|{{dts|format=mdy|2019-01-20}}
+|{{flagicon|TUN}} M15 [[Monastir, Tunisia|Monastir]], Tunisia
+|Hard
+|{{flagicon|HUN}} [[Gábor Borsos]]
+|{{flagicon|ITA}} [[Jannik Sinner]]<br>{{flagicon|CHN}} [[Zhang Zhizhen]]
+|6–1, 3–6, [10–7]
+|- style="background:#cffcff;"
+|bgcolor=98FB98|Winner
+|25.
+|{{dts|format=mdy|2019-05-12}}
+|{{flagicon|SVK}} M15 [[Piešťany]], Slovakia
+|Clay
+|{{flagicon|HUN}} [[Fábián Marozsán]]
+|{{flagicon|SUI}} [[Raphael Baltensperger]]<br>{{flagicon|RUS}} [[Matvey Khomentovskiy]]
+|7–6<sup>(7–2)</sup>, 6–0
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|26.
+|{{dts|format=mdy|2019-08-17}}
+|{{flagicon|SRB}} M15 [[Novi Sad]], Serbia
+|Clay
+|{{flagicon|CHN}} [[Shen Ao]]
+|{{flagicon|PER}} [[Arklon Huertas del Pino]]<br>{{flagicon|PER}} [[Conner Huertas del Pino]]
+|2–6, 3–6
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|27.
+|{{dts|format=mdy|2020-02-23}}
+|{{flagicon|TUR}} M15 [[Antalya]], Turkey
+|Clay
+|{{flagicon|HUN}} [[Fábián Marozsán]]
+|{{flagicon|ROU}} [[Călin Manda]]<br>{{flagicon|UKR}} [[Oleg Prihodko]]
+|6–2, 6–7<sup>(3–7)</sup>, [8–10]
+|- style="background:#cffcff;"
+|bgcolor=FFA07A|Runner-up
+|28.
+|{{dts|format=mdy|2020-03-01}}
+|{{flagicon|TUR}} M25 [[Antalya]], Turkey
+|Clay
+|{{flagicon|HUN}} [[Fábián Marozsán]]
+|{{flagicon|CZE}} [[Jonáš Forejtek]]<br>{{flagicon|CZE}} [[Michael Vrbenský]]
+|3–6, 4–6
+|}
+
+==Record against other players==
+
+Nagy's match record against players who have been ranked in the top 100, with those who are active in boldface. <br>
+ATP Tour, Challenger and Future tournaments' main draw and qualifying matches are considered.
+{{tennis hth header}}
+<!-- Alexander Zverev -->
+{{tennis hth opponent|o={{flagicon|GER}} '''[[Alexander Zverev]]'''|hr={{Sort|03|3}}|w=1|l=1|lm={{tennis hth opponent last match|rt=Lost|s=2–6, 2–6|t=[[2019 Davis Cup Qualifying Round#Germany vs. Hungary|2019 Davis Cup]]|rd=Q}}}}
+<!-- Matteo Berrettini -->
+{{tennis hth opponent|o={{flagicon|ITA}} '''[[Matteo Berrettini]]'''|hr={{Sort|08|8}}|w=0|l=1|lm={{tennis hth opponent last match|rt=Lost|s=3–6, 4–6|t=[[2018 Gazprom Hungarian Open – Singles#Third qualifier|2018 Budapest]]|rd=Q1}}}}
+<!-- Andrey Rublev -->
+{{tennis hth opponent|o={{flagicon|RUS}} '''[[Andrey Rublev (tennis)|Andrey Rublev]]'''|hr={{Sort|08|8}}|w=0|l=1|lm={{tennis hth opponent last match|rt=Lost|s=2–6, 5–7|t=2013 United States F31|rd=2R}}}}
+<!-- Denis Shapovalov -->
+{{tennis hth opponent|o={{flagicon|CAN}} '''[[Denis Shapovalov]]'''|hr={{Sort|10|10}}|w=0|l=1|lm={{tennis hth opponent last match|rt=Lost|s=3–6, 6–4, 4–6|t=2016 United States F14|rd=2R}}}}
+<!-- Félix Auger-Aliassime -->
+{{tennis hth opponent|o={{flagicon|CAN}} '''[[Félix Auger-Aliassime]]'''|hr={{Sort|17|17}}|w=0|l=2|lm={{tennis hth opponent last match|rt=Lost|s=3–6, 0–6|t=2017 United States F5|rd=2R}}}}
+<!-- Chung Hyeon -->
+{{tennis hth opponent|o={{flagicon|KOR}} '''[[Chung Hyeon]]'''|hr={{Sort|19|19}}|w=0|l=1|lm={{tennis hth opponent last match|rt=Lost|s=2–6, 0–6|t=[[2017 Delray Beach Open – Singles#Qualifying|2017 Delray Beach]]|rd=Q1}}}}
+<!-- Victor Hănescu -->
+{{tennis hth opponent|o={{flagicon|ROU}} [[Victor Hănescu]]|hr={{Sort|26|26}}|w=0|l=1|lm={{tennis hth opponent last match|rt=Lost|s=5–7, 1–6|t=2016 United States F7|rd=2R}}}}
+<!-- Laslo Đere -->
+{{tennis hth opponent|o={{flagicon|SRB}} '''[[Laslo Đere]]'''|hr={{Sort|27|27}}|w=0|l=1|lm={{tennis hth opponent last match|rt=Lost|s=4–6, 5–7|t=2014 Hungary F3|rd=QF}}}}
+<!-- Dudi Sela -->
+{{tennis hth opponent|o={{flagicon|ISR}} '''[[Dudi Sela]]'''|hr={{Sort|29|29}}|w=1|l=0|lm={{tennis hth opponent last match|rt=Won|s=6–2, 6–3, 4–6, 4–6, 6–1|t=[[2016 Davis Cup Europe/Africa Zone Group I#Hungary vs. Israel|2016 Davis Cup]]|rd=1R}}}}
+<!-- Miomir Kecmanović -->
+{{tennis hth opponent|o={{flagicon|SRB}} '''[[Miomir Kecmanović]]'''|hr={{Sort|39|39}}|w=0|l=1|lm={{tennis hth opponent last match|rt=Lost|s=2–6, 1–6|t=2017 United States F4|rd=SF}}}}
+<!-- Yoshihito Nishioka -->
+{{tennis hth opponent|o={{flagicon|JPN}} '''[[Yoshihito Nishioka]]'''|hr={{Sort|48|48}}|w=0|l=1|lm={{tennis hth opponent last match|rt=Lost|s=3–6, 5–7|t=2011 United States F31|rd=Q4}}}}
+<!-- Facundo Bagnis -->
+{{tennis hth opponent|o={{flagicon|ARG}} '''[[Facundo Bagnis]]'''|hr={{Sort|55|55}}|w=1|l=0|lm={{tennis hth opponent last match|rt=Won|s=2–6, 7–6<sup>(7-4)</sup>, 6–3|t=[[2017 Visit Panamá Cup – Singles|2017 Panama City]]|rd=Q3}}}}
+<!-- Tommy Paul -->
+{{tennis hth opponent|o={{flagicon|USA}} '''[[Tommy Paul (tennis)|Tommy Paul]]'''|hr={{Sort|55|55}}|w=1|l=3|lm={{tennis hth opponent last match|rt=Lost|s=4–6, 4–6|t=2017 United States F6|rd=QF}}}}
+<!-- Dominik Koepfer -->
+{{tennis hth opponent|o={{flagicon|GER}} '''[[Dominik Koepfer]]'''|hr={{Sort|61|61}}|w=1|l=0|lm={{tennis hth opponent last match|rt=Won|s=6–2, 6–2|t=2017 United States F4|rd=1R}}}}
+<!-- Mirza Bašić -->
+{{tennis hth opponent|o={{flagicon|BIH}} '''[[Mirza Bašić]]'''|hr={{Sort|74|74}}|w=0|l=1|lm={{tennis hth opponent last match|rt=Lost|s=6–4, 4–6, 3–6, 3–6|t=[[2015 Davis Cup Europe/Africa Zone Group II#Hungary vs. Bosnia and Herzegovina|2015 Davis Cup]]|rd=2R}}}}
+<!-- Attila Balázs -->
+{{tennis hth opponent|o={{flagicon|HUN}} '''[[Attila Balázs]]'''|hr={{Sort|76|76}}|w=0|l=4|lm={{tennis hth opponent last match|rt=Lost|s=0–6, 1–6|t=2018 Turkey F6|rd=1R}}}}
+<!-- Norbert Gombos -->
+{{tennis hth opponent|o={{flagicon|SVK}} '''[[Norbert Gombos]]'''|hr={{Sort|80|80}}|w=0|l=2|lm={{tennis hth opponent last match|rt=Lost|s=7–6<sup>(7-3)</sup>, 2–6, 4–6|t=[[2016 WHB Hungarian Open – Singles|2016 Budapest]]|rd=1R}}}}
+<!-- Brayden Schnur -->
+{{tennis hth opponent|o={{flagicon|CAN}} '''[[Brayden Schnur]]'''|hr={{Sort|92|92}}|w=0|l=1|lm={{tennis hth opponent last match|rt=Lost|s=2–6, 5–7|t=2013 United States F6|rd=Q1}}}}
+<!-- Andrej Martin -->
+{{tennis hth opponent|o={{flagicon|SVK}} '''[[Andrej Martin]]'''|hr={{Sort|93|93}}|w=0|l=1|lm={{tennis hth opponent last match|rt=Lost|s=4–6, 2–6, 4–6|t=[[2016 Davis Cup Europe/Africa Zone Group I#Hungary vs. Slovakia|2016 Davis Cup]]|rd=2R}}}}
+{{tennis hth footer|w=5|l=23|u={{date|2020-11-02}}}}
+
+==Davis Cup==
+
+===Participations: (4–5)===
+
+{|
+|-valign=top
+|
+{|class=wikitable
+!Group membership
+|-bgcolor=#FFFFCC
+|World Group (0–0)
+|-bgcolor="#F7F2E0"
+|Qualifying Round (0–2)
+|- style="background:#B0E0E6;"
+|WG Play-off (1–0)
+|-bgcolor=#CCFFCC
+|Group I (1–2)
+|-bgcolor=#FFCCFF
+|Group II (2–1)
+|-bgcolor=#99CCFF
+|Group III (0–0)
+|-bgcolor=#FFCC99
+|Group IV (0–0)
+|}
+|
+{|class=wikitable
+!Matches by surface
+|-
+|Hard (0–2)
+|-
+|Clay (4–3)
+|-
+|Grass (0–0)
+|-
+|Carpet (0–0)
+|}
+|
+{|class=wikitable 
+|-
+!Matches by type
+|-
+|Singles (3–4)
+|-
+|Doubles (1–1)
+|}
+|}
+* {{increase}} {{decrease}} indicates the outcome of the Davis Cup match followed by [[Davis Cup#Ties and rubbers|the score]], date, place of event, [[Davis Cup structure|the zonal classification and its phase]], and [[Tennis court#Types of tennis courts|the court surface]].
+
+{|class=wikitable
+!Rubber outcome
+!No.
+!Rubber
+!Match type (partner if any)
+!Opponent nation
+!Opponent player(s)
+!Score
+|-
+!colspan=7|{{increase}}3–2; [[2015 Davis Cup Europe/Africa Zone Group II|17–19 July 2015]]; Siófok KC, [[Siófok]], Hungary; Europe/Africa Zone Group II Second round; Clay surface
+|-bgcolor=#FFCCFF
+|bgcolor=FFA07A|Defeat
+|1
+|II
+|Singles
+|rowspan=2|{{flagicon|BIH}} [[Bosnia and Herzegovina Davis Cup team|Bosnia and Herzegovina]]
+|[[Mirza Bašić]]
+|6–4, 4–6, 3–6, 3–6
+|-
+|-bgcolor=#FFCCFF
+|bgcolor=98FB98|Victory
+|2
+|V
+|Singles
+|[[Tomislav Brkić]]
+|6–4, 6–3, 6–3
+|-
+!colspan=7|{{increase}}3–2; [[2015 Davis Cup Europe/Africa Zone Group II|18-20 September 2015]]; Bulgarian National Tennis Center, [[Sofia]], Bulgaria; Europe/Africa Zone Group II Third round; Clay surface
+|-bgcolor=#FFCCFF
+|bgcolor=98FB98|Victory
+|3
+|I
+|Singles
+|{{flagicon|BUL}} [[Bulgaria Davis Cup team|Bulgaria]]
+|[[Dimitar Kutrovsky]]
+|6–4, 6–0, 6–3
+|-
+!colspan=7|{{increase}}3–2; [[2016 Davis Cup Europe/Africa Zone Group I|4–6 March 2016]]; Hősök tere, [[Budapest]], Hungary; Europe/Africa Zone Group I First round; Clay surface
+|-bgcolor=#CCFFCC
+|bgcolor=98FB98|Victory
+|4
+|I
+|Singles
+|rowspan=2|{{flagicon|ISR}} [[Israel Davis Cup team|Israel]]
+|[[Dudi Sela]]
+|6–2, 6–3, 4–6, 4–6, 6–1
+|-
+|-bgcolor=#CCFFCC
+|bgcolor=FFA07A|Defeat
+|5
+|V
+|Singles ([[dead rubber]])
+|[[Amir Weintraub]]
+|7–5, 4–6, 2–6
+|-
+!colspan=7|{{decrease}}0–3; [[2016 Davis Cup Europe/Africa Zone Group I|15-17 July 2016]]; Europe Tennis Center, [[Budapest]], Hungary; Europe/Africa Zone Group I Second round; Clay surface
+|-bgcolor=#CCFFCC
+|bgcolor=FFA07A|Defeat
+|6
+|I
+|Singles
+|{{flagicon|SVK}} [[Slovakia Davis Cup team|Slovakia]]
+|[[Andrej Martin]]
+|4–6, 2–6, 4–6
+|-
+!colspan=7|{{decrease}}2–3; [[2018 Davis Cup World Group Play-offs|14–16 September 2018]]; Lurdy Ház, [[Budapest]], Hungary; World Group Play-off; Clay surface
+|-bgcolor=#B0E0E6
+|bgcolor=98FB98|Victory
+|7
+|III
+|Doubles (with [[Gábor Borsos]])
+|{{flagicon|CZE}} [[Czech Republic Davis Cup team|Czech Republic]]
+|[[Roman Jebavý]] / [[Lukáš Rosol]]
+|3–6, 4–6, 6–1, 6–2, 6–4
+|-
+!colspan=7|{{decrease}}0–5; [[2019 Davis Cup Qualifying Round|1–2 February 2019]]; [[Fraport Arena]], [[Frankfurt]], Germany; Davis Cup Qualifying Round; Hard (indoor) surface
+|-bgcolor="#F7F2E0"
+|bgcolor=FFA07A|Defeat
+|8
+|II
+|Singles
+|rowspan=2|{{flagicon|GER}} [[Germany Davis Cup team|Germany]]
+|[[Alexander Zverev]]
+|2–6, 2–6
+|-
+|-bgcolor="#F7F2E0"
+|bgcolor=FFA07A|Defeat
+|9
+|III
+|Doubles (with [[Gábor Borsos]])
+|[[Tim Pütz]] / [[Jan-Lennard Struff]]
+|2–6, 3–6
+|}
+
+==External links==
+*{{ATP|N729}}
+*{{ITF profile|100092113}}
+*{{Davis Cup player|800293035<!--was 100092113-->}}
+
+{{Top ten Hungarian male singles tennis players}}
+{{Top ten Hungarian male doubles tennis players}}
+
+{{DEFAULTSORT:Nagy, Peter}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:Hungarian male tennis players]]
+[[Category:Sportspeople from Budapest]]
+[[Category:Texas A&M–Corpus Christi Islanders men's tennis players]]
+
+{{Hungary-tennis-bio-stub}}

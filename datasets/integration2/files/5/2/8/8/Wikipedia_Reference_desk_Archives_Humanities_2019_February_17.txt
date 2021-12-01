@@ -1,0 +1,48 @@
+<noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Humanities|Humanities desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Humanities/2019 February 16|February 16]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Humanities/January 2019|Jan]] | [[Wikipedia:Reference desk/Archives/Humanities/February 2019|February]] | [[Wikipedia:Reference desk/Archives/Humanities/March 2019|Mar]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Humanities/2019 February 18|[[Wikipedia:Reference desk/Archives/Humanities/2019 February 18|February 18]]|[[Wikipedia:Reference desk/Humanities|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center; font-family:Arial; color:#FFFFFF;" | '''Welcome to the Wikipedia Humanities Reference Desk Archives'''
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Humanities/2019 February 27|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= February 17 =
+
+==Idiomatic translation==
+Hi Folks, can some please give me an idiomatic German translation to English of this wee micro thesis title: ''Schleiermacher und Goethe. Ein Beitrag zur Geschichte des deutschen Geistes''
+
+Thanks. '''<span style="text-shadow:7px 7px 8px black;">[[User:scope_creep|<font color=" #3399ff" face="Papyrus">scope_creep</font>]]<sup>[[User talk:scope_creep#top|<font face="Papyrus">Talk</font>]]</sup></span>''' 12:23, 17 February 2019 (UTC)
+:Well, "idiomatic" in academic-title-ese, at least: ''[[Schleiermacher]] and [[Goethe]]: A Contribution to the History of the German Spirit''. [[User:Deor|Deor]] ([[User talk:Deor|talk]]) 15:22, 17 February 2019 (UTC)
+::{{ping|Deor}} Thanks. '''<span style="text-shadow:7px 7px 8px black;">[[User:scope_creep|<font color=" #3399ff" face="Papyrus">scope_creep</font>]]<sup>[[User talk:scope_creep#top|<font face="Papyrus">Talk</font>]]</sup></span>''' 15:44, 17 February 2019 (UTC)
+
+== Meister ==
+
+[[Meister#Professional_degree]] uses inline references such as "[5]", and there aren't even that many entries in the references section of that article. It needs cleanup, or possibly removal, depending on where the text was copied from. [[Special:Contributions/109.65.45.251|109.65.45.251]] ([[User talk:109.65.45.251|talk]]) 20:49, 17 February 2019 (UTC)
+:The culprit is an IP that put a bunch of bracketed numbers with no references - about 2 years ago, which shows how much the article is being watched.[https://en.wikipedia.org/w/index.php?title=Meister&diff=711200256&oldid=689287151] ←[[User:Baseball Bugs|Baseball Bugs]] <sup>''[[User talk:Baseball Bugs|What's up, Doc?]]''</sup> [[Special:Contributions/Baseball_Bugs|carrots]]→ 21:02, 17 February 2019 (UTC)
+::I have taken out the random numbers and added a [[Template:Citation needed|citation needed tag]] as a temporary fix. The article doesn't seem to be supported by any [[Wikipedia:WikiProject|WikiProject]] so it may take some time for anyone to come to its rescue, unless another editor here fancies a challenge. [[User:Alansplodge|Alansplodge]] ([[User talk:Alansplodge|talk]]) 19:59, 18 February 2019 (UTC)
+
+==Brits in an independent Scotland question==
+Had Scotland voted for independence from the UK in 2014, would any Scot who would have wanted to move to Britain and/or retain his/her British citizenship been allowed to do so? [[Special:Contributions/68.96.93.163|68.96.93.163]] ([[User talk:68.96.93.163|talk]]) 23:52, 17 February 2019 (UTC)
+
+:[[2014_Scottish_independence_referendum#Citizenship]]. In summary: as far as Scotland was concerned, yes; as far as rump UK was concerned, probably, but they hadn't given it much thought. [[User:Henry Flower|Henry]][[User talk:Henry Flower|<sup>Flower</sup>]] 08:29, 18 February 2019 (UTC)
+::"Current British nationality law – the [[British Nationality Act 1981]] - does not prevent British citizens from holding dual/multiple nationalities. Assuming that Scottish nationality law also allowed for dual citizenship, British citizens who became eligible for Scottish citizenship could, in theory, become dual Scottish/British citizens. However, it is possible that the UK Government would decide to impose some qualifying restrictions on who could continue to claim British citizenship – for example, by requiring a historical or ongoing connection to the rest of the UK, or requiring people to actively choose to retain their British citizenship.  This would have some similarities with the approach taken in 1949 towards citizens of Eire after the Republic of Ireland was established". From [https://www.parliament.uk/business/publications/research/scotland-the-referendum-and-independence/impact-on-borders-and-citizenship/ ''House of Commons Library - Scotland referendum 2014: the impact of independence on borders and citizenship'']. 
+::Our [[British nationality law and the Republic of Ireland]] article explains that last point. [[User:Alansplodge|Alansplodge]] ([[User talk:Alansplodge|talk]]) 19:32, 18 February 2019 (UTC)
+*(Because someone has to say it) - The premise of the question is flawed ... after all, [[No true Scotsman]] would even consider becoming an English citizen. [[User:Blueboar|Blueboar]] ([[User talk:Blueboar|talk]]) 20:29, 18 February 2019 (UTC)
+
+:::[[Britain]] is an island. \o/ <span style="color: green; font-size: small; font-family: Impact">~ [[User:RTG|R]].[[User_Talk:RTG|T]].[[Special:Contributions/RTG|G]]</span> 20:28, 18 February 2019 (UTC)
+:::: Well, [[Great Britain]] is. Plain "Britain" is ambiguous: it can refer either to the island of Great Britain alone, or to the [[United Kingdom]], which is one island plus part of another (Ireland).  --  [[User:JackofOz|<span style="font-family: Papyrus;">Jack of Oz</span>]] [[User talk:JackofOz#top|<span style="font-size:85%; font-family: Verdana;"><sup>[pleasantries]</sup></span>]] 17:47, 19 February 2019 (UTC)
+:::::See [[Terminology of the British Isles]] also.  It is at once ''fuzzy'' and ''inconsistent'', but that's ok.  All language is.  --[[User:Jayron32|<span style="color:#009">Jayron</span>]][[User talk:Jayron32|<b style="color:#090">''32''</b>]] 19:00, 19 February 2019 (UTC)
+::::::Even Great Britain can sometimes be used to refer to the [[Great Britain and Northern Ireland]] or the United Kingdom, whether as a contraction or synonym. This is particularly the case in sports, most notably [[Great Britain at the Olympics]]. [[User:Nil Einne|Nil Einne]] ([[User talk:Nil Einne|talk]]) 19:56, 19 February 2019 (UTC)
+{{small|1=If Scotland goes independent, will Great Britain have to change its name to Still Pretty Good Britain? [[Special:Contributions/173.228.123.166|173.228.123.166]] ([[User talk:173.228.123.166|talk]]) 20:53, 22 February 2019 (UTC)}}
+:{{small|Yes, Senator Leahy. ←[[User:Baseball Bugs|Baseball Bugs]] <sup>''[[User talk:Baseball Bugs|What's up, Doc?]]''</sup> [[Special:Contributions/Baseball_Bugs|carrots]]→ 22:29, 22 February 2019 (UTC)}}

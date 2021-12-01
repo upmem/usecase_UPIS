@@ -1,0 +1,69 @@
+{{Infobox person 
+| name = Édouard Le Jeune
+| image = 
+| image_size = 
+| caption = 
+| birth_name =
+| birth_date = 20 February 1921
+| birth_place = [[Berrien, Finistère|Berrien]], Finistère, France
+| death_date = {{death date and age|2017|4|9|1921|2|20|df=y}}
+| death_place = [[Dinéault]], Finistère, France
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates = 
+| residence = 
+| nationality =
+| other_names = 
+| known_for = 
+| education = 
+| alma mater = 
+| employer = 
+| occupation = Politician
+| title =
+| salary = 
+| networth = 
+| term = 
+| predecessor = 
+| successor = 
+| party = [[Union of Democrats and Independents – UC]]<br/>[[Union for French Democracy]]
+| boards = 
+| religion =
+| spouse = Marie-Thérèse Le Jeune
+| children = 
+| parents = 
+| relatives = 
+}}
+'''Édouard Le Jeune''' (20 February 1921 – 9 April 2017) was a French [[World War II]] veteran and politician. He was the mayor of [[Dinéault]] from 1953 to 1989, and a senator for [[Finistère]] from 1971 to 1998. He was the founding president of the [[Parc naturel régional d'Armorique]].
+[[File:View along Monts d'Arrée 1.jpg|thumb|right|View of the Parc naturel régional d'Armorique, founded by Le Jeune in 1969.]]
+
+==Early life==
+Édouard Le Jeune was born on 20 February 1921 in Berrien, France.<ref name="ouestfranceobit">{{cite news|title=Dinéault. Décès d’Édouard Le Jeune, figure politique du Finistère|url=http://www.ouest-france.fr/bretagne/chateaulin-29150/dineault-deces-d-edouard-le-jeune-figure-politique-du-finistere-4922298|accessdate=April 13, 2017|work=Ouest-France|date=April 11, 2017}}</ref><ref name="letelegrammeobit">{{cite news|title=Dinéault. Décès d'Édouard Le Jeune l'homme du Centre-Finistère|url=http://www.letelegramme.fr/bretagne/dineault-deces-d-edouard-le-jeune-l-homme-du-centre-finistere-13-04-2017-11473374.php#closePopUp|accessdate=April 13, 2017|work=Le Télégramme|date=April 13, 2017}}</ref><ref name="senatebio">{{cite web|title=LE JEUNE Edouard|url=http://www.senat.fr/senateur/le_jeune_edouard71024a.html|website=French Senate|accessdate=April 13, 2017}}</ref> In 1943, after the Germans had invaded France during [[World War II]], he joined the [[French Resistance]].<ref name="ouestfranceobit"/><ref name="letelegrammeobit"/> After the war, he was awarded the [[Resistance Medal]] and the [[Cross of the resistance volunteer combatant]].<ref name="ouestfranceobit"/>
+
+==Career==
+[[File:Dinéault (29) Mairie.JPG|thumb|right|The new townhall of Dinéault, dedicated by Le Jeune in 1979.]] 
+Le Jeune first joined the [[Union of Democrats and Independents – UC]], and later the [[Union for French Democracy]].<ref name="ouestfranceobit"/> He served as the mayor of [[Dinéault]] from 1953 to 1989.<ref name="ouestfranceobit"/><ref name="letelegrammeobit"/> He dedicated a new townhall in 1979.<ref name="letelegrammeobit"/> He established the [[Parc naturel régional d'Armorique]] in 1969,<ref name="letelegrammeobit"/> and he served as its founding president.<ref name="ouestfranceobit"/> He served as a member of the [[Senate (France)|French Senate]], where he represented [[Finistère]] from 1971 to 1998.<ref name="ouestfranceobit"/><ref name="letelegrammeobit"/><ref name="senatebio"/>
+
+Le Jeune received the [[Legion of Honour]] in 1999.<ref name="letelegrammeobit"/>
+
+==Personal life and death==
+Le Jeune married a native of Dinéault, Marie-Thérèse, in 1951.<ref name="letelegrammeobit"/> He died on 9 April 2017 in [[Dinéault]].<ref name="ouestfranceobit"/> His funeral was held at the Church in Dinéault on 13 April 2017.<ref name="ouestfranceobit"/>
+
+==References==
+{{Reflist}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Le Jeune, Edouard}}
+[[Category:1921 births]]
+[[Category:2017 deaths]]
+[[Category:People from Finistère]]
+[[Category:Recipients of the Resistance Medal]]
+[[Category:Mayors of places in Brittany]]
+[[Category:French Senators of the Fifth Republic]]
+[[Category:Union for French Democracy politicians]]
+[[Category:Recipients of the Legion of Honour]]
+[[Category:Senators of Finistère]]
+
+
+{{France-mayor-stub}}

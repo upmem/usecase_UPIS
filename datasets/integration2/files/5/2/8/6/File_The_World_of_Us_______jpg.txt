@@ -1,0 +1,11 @@
+==Summary==
+{{non-free use rationale poster
+| Article = The World of Us
+| Source = [http://www.koreanfilm.or.kr/jsp/films/index/filmsView.jsp?movieCd=20153450 KOFIC]
+| Media = film
+| Use = Infobox
+| Distributor = Atnine Film
+}}
+
+==Licensing==
+{{Non-free movie poster|Fair use images of movie posters|image has rationale=yes}}

@@ -1,0 +1,45 @@
+{{Infobox mountain
+| name = Birks
+| photo = Birks_from_Arnison_Crag.jpg
+| photo_caption = Birks seen across Hag Beck from Arnison Crag, 1 km to the NE.
+| elevation_m = 622
+| elevation_ref = 
+| prominence_m = 19
+| prominence_ref = 
+| parent_peak = [[St Sunday Crag]]
+| listing = [[Nuttall (hill)|Nuttall]], [[List of Wainwrights|Wainwright]]
+| location = [[Cumbria]], [[England]]
+| range = [[Lake District]], [[Eastern Fells]]
+| grid_ref_UK = NY380143
+| topo = [[Ordnance Survey|OS]] ''Landranger'' 90 [[Ordnance Survey|OS]] ''Explorer'' 5
+| map = United Kingdom Lake District
+| map_caption = Location in Lake District, UK
+| coordinates = {{coord|54.52|N|2.956|W|type:mountain_scale:100000|format=dms|display=inline,title}}
+}}
+
+'''Birks''' is a fell in the English [[Lake District]] situated two kilometres south west of the village of [[Patterdale]] in the [[Eastern Fells]]. The fells summit sits on a shoulder of the north east ridge of the higher and better known fell of [[St Sunday Crag]], by which it is dominated, walkers often pass over the top of Birks either climbing or descending from the larger fell. The fell's name means a place where [[Birch]] trees predominate.
+
+==Topography==
+Birks reaches a height of 622 meters (2,041&nbsp;feet) and is characterised by a grassy summit ridge which has precipitous craggy slopes to the north and west which fall away to the valley of Grisedale, its southern flank is steep and grassy and ends in the valley of Deepdale and to the north east the main ridge descends towards Patterdale over Black Crag and through Glenamara Park. 
+
+Birks is regarded by guide book writers as an unspectacular fell, it has 19 meters of [[Topographic prominence|prominence]] from St Sunday Crag and therefore qualifies as a [[List of Nuttalls in England|Nuttall]], while [[Alfred Wainwright]] gives the fell a separate chapter in his [[Pictorial Guide to the Lakeland Fells]] because ''"it is sufficiently well defined to deserve a separate name"''.
+
+==Geology==
+The principal rocks of the summit area are the pebbly [[sandstone]]s of the Blind Cove Member. The flanks carry [[andesite]] sills and [[volcaniclastic]] sandstone.<ref name="BGS">[[British Geological Survey]]: 1:50,000 series maps, ''England & Wales Sheet 29'': BGS (1999)</ref>
+
+==Ascents==
+The fell is always climbed from the Patterdale valley, with no other starting point being viable. The ascent is a pleasant walk through the wooded Glenamara Park along a footpath which leaves Patterdale and follows Hag Beck and then a ruined dry stone wall to the summit. An alternative route goes via Thornhow End and finds a way through Black Crags at attain the top of the fell. Most walkers who climb Birks will continue on to St Sunday Crag which is a comfortable climb of about 240 metres with a few small dips on the ridge.
+
+==Summit==
+The highlight of the view from the summit is a good view of the lower reach of [[Ullswater]].
+
+==References==
+<references />
+* A Pictorial Guide to the Lakeland Fells, Eastern Fells, Alfred Wainwright {{ISBN|0-7112-2454-4}}
+* The Mountains of England and Wales, John and Anne Nuttall {{ISBN|1-85284-037-4}}
+* [[British Geological Survey]]: 1:50,000 series maps, ''England & Wales Sheet 29'': BGS (1999)
+
+{{Eastern Fells}}
+
+[[Category:Fells of the Lake District]]
+[[Category:Nuttalls]]

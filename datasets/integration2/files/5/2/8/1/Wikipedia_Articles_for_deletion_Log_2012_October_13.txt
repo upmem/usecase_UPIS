@@ -1,0 +1,83 @@
+{{Recent AfDs}}
+<div class="boilerplate metadata vfd" style="background-color: #F3F9FF; margin: 0 auto; padding: 0 1px 0 0; border: 1px solid #AAAAAA; font-size:10px">
+{| width = "100%"
+|-
+! width="50%" align="left"  | <font color="gray">&lt;</font> [[Wikipedia:Articles for deletion/Log/2012 October 12|12 October]]
+! width="50%" align="right" |  [[Wikipedia:Articles for deletion/Log/2012 October 14|14 October]] <font color="gray">&gt;</font>
+|}
+</div>
+<div align = "center">'''[[Wikipedia:Guide to deletion|Guide to deletion]]'''</div>
+{{Cent}}
+<small>{{purge|Purge server cache}}</small>
+__TOC__
+<!-- Add new entries to the TOP of the following list -->
+{{Wikipedia:Articles for deletion/Enzina Fuschini}}
+<!-- {{Wikipedia:Articles for deletion/Brizzly}} -->
+<!-- {{Wikipedia:Articles for deletion/Boid for Android (2nd nomination)}} -->
+<!-- {{Wikipedia:Articles for deletion/Barry Charles Honig (2nd nomination)}} -->
+{{Wikipedia:Articles for deletion/Alicia Alighatti}}
+{{Wikipedia:Articles for deletion/Dillan Lauren}}
+{{Wikipedia:Articles for deletion/Boo D. Licious (2nd nomination)}}
+{{Wikipedia:Articles for deletion/Founders: A Novel of the Coming Collapse}}
+{{Wikipedia:Articles for deletion/Ujjwal Patni}}
+{{Wikipedia:Articles for deletion/Josh Or Himat}}
+<!-- {{Wikipedia:Articles for deletion/Rainman}} -->
+<!-- {{Wikipedia:Articles for deletion/Riley Costello (actor)}} -->
+{{Wikipedia:Articles for deletion/Gerhard Kramm}}
+{{Wikipedia:Articles for deletion/Dann Pursey}}
+<!-- {{Wikipedia:Articles for deletion/Scott Herriott}} -->
+{{Wikipedia:Articles for deletion/Empower Network}}
+{{Wikipedia:Articles for deletion/Antelope, Nebraska}}
+<!-- {{Wikipedia:Articles for deletion/Willow Tufano}} -->
+{{Wikipedia:Articles for deletion/M2thak}}
+{{Wikipedia:Articles for deletion/David R. Darrow}}<!--Relisted-->
+<!-- {{Wikipedia:Articles for deletion/Prayer for the Unborn (Latitudes Session)}} --><!--Relisted-->
+{{Wikipedia:Articles for deletion/Curtis Rona}}<!--Relisted-->
+<!-- {{Wikipedia:Articles for deletion/Mike Freese}} --><!--Relisted-->
+{{Wikipedia:Articles for deletion/Robert Rooks (NAACP Criminal Justice Director)}}<!--Relisted-->
+{{Wikipedia:Articles for deletion/Shawn Welling (3rd nomination)}}
+{{Wikipedia:Articles for deletion/Suzanne W. Tourtellotte}}
+{{Wikipedia:Articles for deletion/Pavel Míranda}}
+{{Wikipedia:Articles for deletion/Gianni Subba}}
+{{Wikipedia:Articles for deletion/Quek Kim Hock (2nd nomination)}}
+{{Wikipedia:Articles for deletion/Bruce Loh}}
+<!-- {{Wikipedia:Articles for deletion/Chris Foote Wood}} -->
+{{Wikipedia:Articles for deletion/NO ONE}}
+<!-- {{Wikipedia:Articles for deletion/List of latent human viral infections}} -->
+{{Wikipedia:Articles for deletion/List of viruses}}
+{{Wikipedia:Articles for deletion/Stephen M.D. Chang}}
+{{Wikipedia:Articles for deletion/Natural marriage}}
+{{Wikipedia:Articles for deletion/World Congress of Families}}
+<!-- {{Wikipedia:Articles for deletion/DeFilm}} -->
+<!-- {{Wikipedia:Articles for deletion/International Peace and Security Institute}} -->
+<!-- {{Wikipedia:Articles for deletion/Lovers and Other Strangers (radio program)}} -->
+<!-- {{Wikipedia:Articles for deletion/Mahamahopadhyaya Pandit Ram Avatar Sharma}} -->
+<!-- {{Wikipedia:Articles for deletion/Kazuo Nagano}} --> 
+<!-- {{Wikipedia:Articles for deletion/Sagar Alias Jacky (Character)}} -->
+<!-- {{Wikipedia:Articles for deletion/Mashaka dialect}} -->
+{{Wikipedia:Articles for deletion/815 Records LLC}}
+{{Wikipedia:Articles for deletion/Twitten}}
+{{Wikipedia:Articles for deletion/The J*Lu Blog}}
+{{Wikipedia:Articles for deletion/1635: The Papal Stakes}}
+<!-- {{Wikipedia:Articles for deletion/So Fresh: The Hits of Winter 2011}} -->
+<!-- {{Wikipedia:Articles for deletion/Macadam Flower Tour Live}} -->
+<!-- {{Wikipedia:Articles for deletion/Luan Santana Live in Rio}} -->
+<!-- {{Wikipedia:Articles for deletion/Blood in the Water: Live in San Diego (2nd nomination)}} -->
+<!-- {{Wikipedia:Articles for deletion/Malik Deenar Uroos}} -->
+<!-- {{Wikipedia:Articles for deletion/Darren Kitchen (2nd nomination)}} -->
+{{Wikipedia:Articles for deletion/Sophia Uguz}}
+{{Wikipedia:Articles for deletion/Jayden Cole}}
+{{Wikipedia:Articles for deletion/Modern geocentrism}}<!--Relisted-->
+{{Wikipedia:Articles for deletion/The Color Bars}}<!--Relisted-->
+{{Wikipedia:Articles for deletion/Something Wicked Comes}}<!--Relisted-->
+{{Wikipedia:Articles for deletion/Jacob Rice (philanthropist)}}<!--Relisted-->
+<!-- {{Wikipedia:Articles for deletion/Airdale Brewing Company}} --><!--Relisted-->
+{{Wikipedia:Articles for deletion/Sandra Schleret}}<!--Relisted-->
+{{Wikipedia:Articles for deletion/Crittercism}}<!--Relisted-->
+{{Wikipedia:Articles for deletion/Earned run average minus batting average}}
+<!-- {{Wikipedia:Articles for deletion/Ricardo Janota}} --><!--Relisted-->
+<!-- {{Wikipedia:Articles for deletion/Stevie Rachelle}} --><!--Relisted-->
+{{Wikipedia:Articles for deletion/Elizabeth "Betty" Roberts}}<!--Relisted-->
+<!-- {{Wikipedia:Articles for deletion/Euro RSCG London}} --><!--Relisted-->
+{{Wikipedia:Articles for deletion/Chunqai Jiang}}<!--Relisted-->
+{{Wikipedia:Articles for deletion/Dhirgham Ismail}}<!--Relisted-->

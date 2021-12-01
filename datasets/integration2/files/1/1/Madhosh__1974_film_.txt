@@ -1,0 +1,80 @@
+{{Use dmy dates|date=November 2015}}
+{{Use Indian English|date=November 2015}}
+{{multiple issues|
+{{Unreferenced|date=April 2011}}
+{{Lead too short|date=July 2020}}
+{{No plot|date=July 2020}}
+{{Unreliable sources|date=July 2020}}
+}}
+{{Infobox film
+| name           = Madhosh
+| image          = Madhosh (1974).jpg
+| image_size     =
+| caption        = Poster
+| director       =Desh Gautam
+| producer       =[[Tahir Hussain]]
+| writer         =
+| narrator       =
+| starring       =
+| music          = [[Rahul Dev Burman]]
+| cinematography =
+| editing        =
+| distributor    =
+| released       = [[Bollywood films of 1974|1974]]
+| runtime        =
+| country        = India
+| language       = Hindi
+| budget         =
+| gross          =
+| preceded_by    =
+| followed_by    =
+| website        =
+}}
+
+'''''Madhosh''''' is a [[Bollywood films of 1974|1974]] [[Bollywood]] [[drama film]] directed by Desh Gautam.
+
+== Cast ==
+*[[Reena Roy]] – Minal
+*[[Rakesh Roshan]]
+*[[Mahendra Sandhu]]
+*[[Johnny Walker (actor)|Johnny Walker]]
+*[[Jayshree T.]]
+*[[Helen Jairag Richardson|Helen]]
+*Ravindra Kapoor
+*[[Aamir Khan]] – Child artist
+
+== Music ==
+The music has done by [[Rahul Dev Burman]].
+{|class="wikitable"
+! Song
+! Singer
+|-
+| "Sharaabi Aankhen, Gulaabi Chehra"
+| '''[[Asha Bhosle]]''', [[R. D. Burman]]
+|-
+| "Kasam Khaao Tum Ek Baar"
+| Asha Bhosle, [[Kishore Kumar]]
+|-
+| "Mera Chhota Sa Dil Tune Chheena"
+| Asha Bhosle, Kishore Kumar
+|-
+| "Jaan Mare Balmu Hamaar" 
+| Asha Bhosle
+|-
+| "Nathani Mori Dole Re" 
+| Asha Bhosle
+|-
+|}
+
+== External links ==
+* {{IMDb title|id=0122162|title=Madhosh}}
+
+[[Category:Films scored by R. D. Burman]]
+[[Category:1970s drama films]]
+[[Category:Indian films]]
+[[Category:Indian drama films]]
+[[Category:1970s Hindi-language films]]
+
+
+{{1970s-Hindi-film-stub}}
+{{1970s-drama-film-stub}}

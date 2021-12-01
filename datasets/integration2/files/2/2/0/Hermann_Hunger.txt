@@ -1,0 +1,39 @@
+{{Expand German|Hermann Hunger|date=October 2010}}
+{{Infobox person/Wikidata | fetchwikidata=ALL|occupation=Assyriologist and professor|suppressfields=education position held}}
+[[File:Cuneiform tablet recording observation of Halley's Comet.JPG|thumb|right|Observation of Halley's Comet, recorded in [[cuneiform]] on a clay tablet between 22 and 28 September 164 BCE, [[Babylon]], Iraq. [[British Museum]].<ref>[https://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=327183&partid=1&IdNum=41462 Entry at the British Museum Collection Database.]</ref>]]
+
+'''Hermann Hunger''' (born 1942), an Austrian Assyriologist, Professor of Assyriology at the [[University of Vienna]] from where he retired in 2007.<ref>{{Cite web |url=http://www.oeaw.ac.at/oeaw_servlet/e_PersonenDetailsGeneric?id=11132 |title=Entry at Austrian Academy of Sciences |access-date=2010-09-04 |archive-url=https://web.archive.org/web/20110105144122/http://www.oeaw.ac.at/oeaw_servlet/e_PersonenDetailsGeneric?id=11132 |archive-date=2011-01-05 |url-status=dead }}</ref> He has been recognized as a leading authority on [[Babylonian astronomy]] and celestial omens.<ref>[http://members.westnet.com.au/Gary-David-Thompson/page9i.html "Biographies of Modern Historians of Ancient Occidental Astral Sciences"] {{webarchive|url=https://web.archive.org/web/20150402090325/http://members.westnet.com.au/Gary-David-Thompson/page9i.html |date=2015-04-02 }}  by Gary D. Thompson (retrieved April 27, 2015)</ref><ref>{{cite journal|author=Salvo De Meis|title=An Astronomical Analysis of the Occultations Published by Hermann Hunger|journal=Wiener Zeitschrift für die Kunde des Morgenlandes|volume=97|series=Festschrift für Hermann Hunger zum 65. Geburtstag gewidmet von seinen Freunden, Kollegen und Schülern (2007)|date=2007|pp=121-136|publisher=Department of Oriental Studies, University of Vienna|jstor=23861411}}</ref>
+
+Hunger translated a cuneiform tablet from the [[Babylonian astronomical diaries]] that describes the appearance of [[Halley's Comet]] in 163 BCE.<ref name="Gary Kronk 1999 p.8">{{Cite book|author=G. Kronk|title=Cometography, vol.1 |publisher=[[Cambridge University Press]]|year=1999|url=https://books.google.com/books?id=Umxbb68tmZMC&pg=PA8|isbn= 978-0-521-58504-0|page=14}}</ref>
+
+== Biography ==
+Hermann Hunger, son of the Byzantinist Herbert Hunger, studied oriental studies at the [[University of Vienna]] after graduating in 1960. In 1963/64 he studied Assyriology and Arabic at the [[University of Heidelberg]] and from 1964 to 1966 at the [[University of Münster]], where he received his doctorate in Assyriology and Semitic philology in 1966 under Wolfram von Soden (Babylonian and Assyrian colophones). From 1967 to 1970 he was a consultant at the [[German Archaeological Institute]] in Baghdad. From 1970 to 1973 he was Research Associate at the [[University of Chicago]] and then until 1976 assistant at the [[Institute for Oriental Studies]] at the University of Vienna, where he completed his habilitation. From 1976 to 1978 he was [[Associate Professor]] at the [[University of Chicago Oriental Institute]] and from 1978 he was Associate Professor of Assyriology at the University of Vienna, where he retired in 2007.
+
+He is considered one of the leading authorities on Babylonian astronomy history, where he worked early with [[Otto Neugebauer]] and [[Abraham Sachs]], and later with [[David Pingree]]. He was collaborator in the ''[[Chicago Assyrian Dictionary]]''.
+
+Hunger is a member of the [[American Philosophical Society]] and the [[Austrian Academy of Sciences]], of which he is chairman of the Commission for the History of Natural Sciences, Mathematics and Medicine and the Mycenaean Commission. In 2010 he became an honorary member of the American Oriental Society. Hunger is co-editor of the ''[[Archiv für Orientforschung]]''.
+
+== Published works ==
+* Mul.Apin, 1989 (with [[David Pingree]]). Astral Sciences in Mesopotamia (Handbook of Oriental Studies/Handbuch Der Orientalistik), 1999 (with David Pingree).
+* Astronomical Diaries And Related Texts From Babylonia, 2006.<ref>{{Cite web |url=http://members.westnet.com.au/Gary-David-Thompson/page11-44.html |title=Archived copy |access-date=2010-09-01 |archive-url=https://web.archive.org/web/20110927213454/http://members.westnet.com.au/Gary-David-Thompson/page11-44.html |archive-date=2011-09-27 |url-status=dead }}</ref>
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hunger, Hermann}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:People from Bautzen]]
+[[Category:Assyriologists]]
+[[Category:Archaeoastronomers]]
+[[Category:Austrian orientalists]]
+[[Category:Austrian historians]]
+[[Category:University of Vienna faculty]]
+[[Category:Austrian people of German descent]]
+
+
+
+{{Austria-academic-bio-stub}}
+{{archaeologist-stub}}

@@ -1,0 +1,78 @@
+{{about||the former station in Lower Merion Township, Pennsylvania|Barmouth station (SEPTA)|the former station in Co. Londonderry|Barmouth railway station (Northern Ireland)}}
+
+{{Use dmy dates|date=July 2015}}
+{{Use British English|date=July 2015}}
+{{Infobox station
+| name                = Barmouth
+| native_name         = {{lang-cy|Abermaw}}
+| symbol_location     = gb
+| symbol              = rail
+| image               = Barmouth railway station, Gwynedd (geograph 4662694).jpg
+| borough             = [[Barmouth]], [[Gwynedd]]
+| country             = Wales
+| coordinates         = {{coord|52.723|N|4.057|W|type:railwaystation_region:GB|display=inline,title}}
+| grid_name           = [[Ordnance Survey National Grid|Grid reference]]
+| grid_position       = {{gbmapscaled|SH612158|25|SH612158}}
+| manager             = [[Transport for Wales Rail|Transport for Wales]]
+| platforms           = 2
+| code                = BRM
+| classification      = [[United Kingdom railway station categories|DfT category]] E
+| opened              = 1867
+| mpassengers =
+{{Rail pass box |pass_year=2015/16 |passengers={{increase}} 0.191 million}}
+{{Rail pass box |pass_year=2016/17 |passengers={{decrease}} 0.186 million}}
+{{Rail pass box |pass_year=2017/18 |passengers={{increase}} 0.187 million}}
+{{Rail pass box |pass_year=2018/19 |passengers={{increase}} 0.198 million}}
+{{Rail pass box |pass_year=2019/20 |passengers={{decrease}} 0.195 million}}
+| footnotes           = Passenger statistics from the [[Office of Rail and Road]]
+}}
+'''Barmouth railway station''' serves the [[seaside resort|seaside]] town of [[Barmouth]] in [[Gwynedd]], [[Wales]]. The station is on the [[Cambrian Line|Cambrian Coast Railway]] with passenger services to [[Harlech railway station|Harlech]], [[Porthmadog railway station|Porthmadog]], [[Pwllheli railway station|Porthmadog]], [[Tywyn railway station|Tywyn]], [[Aberdovey railway station|Aberdovey]], [[Machynlleth railway station|Machynlleth]] and [[Shrewsbury railway station|Shrewsbury]]. Between [[Morfa Mawddach railway station|Morfa Mawddach]] and [[Barmouth]] the railway crosses the [[Afon Mawddach]] on the [[Barmouth Bridge]].
+
+==History==
+The station (opened in 1867) originally extended further south, with a platform for trains to [[Ruabon Barmouth Line|Dolgellau and Ruabon]] on the south side of the level crossing. This platform became disused following the closure of the Dolgellau line in 1965, but remained in situ with its waiting room until the early 1990s. It was demolished to make way for a bus stop and car park. The goods yard was redeveloped around the same time by [[Co-operative Retail Services]] and, as at Tywyn and Pwllheli, is now occupied by a supermarket.
+
+Until the 1960s there was a summer service between London Paddington and Pwllheli, via Birmingham Snow Hill, Shrewsbury and Machynlleth.
+
+The station [[signal box]], also on the south side of the level crossing, became disused in the 1980s as the Cambrian Line's traditional [[Railway signalling|signalling]] system was replaced with radio signalling ([[RETB]]). After lying derelict for several years, it was moved to {{rws|Glyndyfrdwy}} on the preserved [[Llangollen Railway]].
+
+==Facilities==
+[[File:Barmouth Station (geograph 6027386).jpg|thumb|left|The station as seen from the level crossing (September 2018)]]
+The southbound platform was improved in 2003 and is now home to Barmouth's tourist information centre. The station is unstaffed, but the tourist information centre provides a travel information service. The building also houses a small museum devoted to the history of Barmouth.
+
+==Services==
+Trains operate every two hours in each direction, southbound to {{rws|Machynlleth}}, {{rws|Shrewsbury}} & {{rws|Birmingham International}} and northbound to {{rws|Pwllheli}} (a limited number also originate or terminate here). On Sundays, there is a single service each way all year, with extra trains in the summer.<ref>{{NRtimes|May 2016|76}}</ref> All services at Barmouth are provided by Transport for Wales using its [[British Rail Class 158|Class 158]] [[Diesel Multiple Unit|DMUs]].
+
+From 3 January 2014, train services were suspended due to major infrastructure damage at several locations along the line caused by storm-force winds and the resultant [[tidal surges]]. Part of the sea wall to the north near {{rws|Llanaber}} was swept away, leading to severe damage to the formation which closed the line for 5 months, whilst further south a section of embankment at Tonfannau was washed out. [[Network Rail]] restored service to Barmouth from the south on 10 February 2014, and the line as far north as Harlech in May the same year.<ref>[http://www.walesonline.co.uk/news/wales-news/section-cambrian-coast-line-damaged-6859303 "Section of Cambrian Coast line damaged by ferocious storms to reopen in May ahead of schedule"]''Wales Online'' article 21 March 2014; Retrieved 12 October 2016</ref> The northern end of the route beyond {{rws|Harlech}} remained closed until 1 September 2014 due to the reconstruction of the [[Pont Briwet]] viaduct.
+
+{{rail start}}
+{{rail line|previous=[[Morfa Mawddach railway station|Morfa Mawddach]]|route=[[Transport for Wales]]<br /><small>[[Cambrian Coast Line]]</small>|next=[[Llanaber railway station|Llanaber]] |col={{KAW colour}} }}
+{{s-rail-next|title=Historical}}
+{{s-rail-national|next=Llanaber|previous=Morfa Mawddach|toc=GWR|route=[[Aberystwith and Welsh Coast Railway]]|status=Historical|note2=Line and station open|note=Line and station open}}
+{{s-rail-national|next=|previous=Morfa Mawddach|toc=GWR|route=[[Ruabon to Barmouth Line]]|status=Historical|note2=|note=Line and station open}}
+{{s-end}}
+
+==Gallery==
+<gallery class=center>
+File:Barmouth railway station MMB 06 158823.jpg|[[Arriva Trains Wales]] [[British Rail Class 158|158823]] departs for {{rws|Birmingham International}}.
+File:Barmouth railway station 1863285 37db31d2.jpg|Barmouth Station in 1962
+File:Barmouth 2 railway station 2171647 c9dc9203.jpg|A double-headed return holiday express in 1962
+File:Barmouth station geograph-2523573-by-Ben-Brooksbank.jpg|Train from Chester in 1962
+</gallery>
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite book|title=Ruabon to Barmouth|first1=Vic|last1=Mitchell|first2=Keith|last2=Smith|at=figs. 117-120|publisher=Middleton Press|location=West Sussex|year=2010|isbn=9781906008840|oclc=651922152}}
+
+== External links ==
+{{commons category-inline|Barmouth railway station}}
+{{stn art lrnk|BRM|LL421LS}}
+
+{{Gwynedd railway stations}}
+
+[[Category:Railway stations in Gwynedd]]
+[[Category:Former Cambrian Railway stations]]
+[[Category:Railway stations in Great Britain opened in 1867]]
+[[Category:Railway stations served by Transport for Wales Rail]]
+[[Category:Barmouth]]

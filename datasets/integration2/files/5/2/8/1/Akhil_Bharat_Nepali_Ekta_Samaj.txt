@@ -1,0 +1,32 @@
+{{Use Indian English|date=October 2015}}
+{{Use dmy dates|date=October 2015}}
+{{Infobox militant organization
+|name          = Akhil Bharat Nepali Ekta Samaj
+|logo          = Akhil-Bharat-Nepali-Ekta-Samaj.png
+|caption       =  
+|leader        = Ram Prasad Sharma<br>Raju Nepali
+|dates         = 
+|area          = [[Northeast India]], [[Uttar Pradesh]] & [[Bihar]] ([[India]])
+|ideology      = [[Maoism]]<br>[[Greater Nepal]]
+|status        = {{flagicon|India}} Designated as a [[terrorist organisation]] by the [[Minister of Home Affairs (India)|Indian Ministry of Home Affairs]]}}
+
+'''Akhil Bharat Nepali Ekta Samaj''' (ABNES) is a group founded in 1979 in [[Varanasi]], [[India]], whose stated purpose is to work for the unity amongst, and welfare of [[Nepalese people]] residing in India.<ref name="satp">{{cite web|url=http://www.satp.org/satporgtp/countries/india/terroristoutfits/ABNES.htm |title=Extremist Group&nbsp;— Akhil Bharat Nepali Ekta Samaj (ABNES) |publisher=Satp.org |date= |accessdate=2012-10-09}}</ref> On July 2002 it was declared a [[terrorist organisation]], and banned by the [[Minister of Home Affairs (India)|Ministry of Home Affairs]].<ref>{{cite web|url=http://www.mha.gov.in/uniquepage.asp?Id_Pk=292 |title=::Ministry of Home Affairs |publisher=Mha.gov.in |date=2011-12-07 |accessdate=2012-10-09 |url-status=dead |archiveurl=https://web.archive.org/web/20130425132802/http://mha.gov.in/uniquepage.asp?id_pk=292 |archivedate=25 April 2013 }}</ref><ref name="satp"/>
+
+Following this designation, Janardhan Thapa, an executive member of the group's central committee, announced that they would change their name and focus on "social and cultural activities".<ref name="satp"/>
+
+Translated into [[English Language|English]] from [[Hindi]], the group is roughly called the 'All India Nepalese Integration Society.'<ref>{{cite web|url=https://translate.google.com/#view=home&op=translate&sl=hi&tl=en&text=अखिल%20भारत%20नेपाली%20एकता%20समा |title = Google Translate}}</ref>
+==References==
+{{Reflist}}
+
+{{Terror outfits}}
+
+[[Category:Communist militant groups]]
+[[Category:Left-wing militant groups in India]]
+[[Category:Maoist organisations in India]]
+[[Category:Organizations designated as terrorist in Asia]]
+[[Category:Organisations based in Varanasi]]
+[[Category:Organizations established in 1979]]
+[[Category:Terrorism in India]]
+[[Category:Organisations designated as terrorist by India]]
+{{India-org-stub}}
+{{Terrorism-stub}}

@@ -1,0 +1,213 @@
+{{Use British English|date=January 2014}}
+{{Use dmy dates|date=January 2014}}
+{{Infobox album
+| name       = Steam
+| type       = Studio
+| artist     = [[East 17]]
+| cover      = East17steam.jpg
+| alt        =
+| released   = 17 October 1994
+| recorded   = 1994
+| venue      =
+| studio     =
+| length     = 45:01
+| label      = [[London Records|London]]
+| producer   = Phil Harding, Ian Curnow, Rob Kean, [[Biffco|Richard Stannard]]
+| prev_title = [[Walthamstow (album)|Walthamstow]]
+| prev_year  = 1993
+| next_title = [[Up All Night (East 17 album)|Up All Night]]
+| next_year  = 1995
+| misc       = {{Singles
+ | name        = Steam
+ | type        = studio
+ | single1     = Around the World
+ | single1date = 2 May 1994
+ | single2     = Steam
+ | single2date = 19 September 1994
+ | single3     = Stay Another Day
+ | single3date = 21 November 1994
+ | single4     = Let It Rain
+ | single4date = 13 March 1995
+ | single5     = Hold My Body Tight
+ | single5date = 5 June 1995
+}}
+}}
+
+'''''Steam''''' is the second studio album by English boy band [[East 17]]. It was released in the UK on 13 October 1994 by [[London Records]]. The album was certified as 2x Platinum in the UK.
+
+The US version of the album features the three Top 10 hits from their first album ("House of Love", "Deep", "It's Alright"), plus four new Top 10 hits, "Around the World" (#3), "Steam" (#7), "Let It Rain" (#10) and the Christmas No. 1 "Stay Another Day".
+
+==Track listing==
+{{Track listing
+| headline        = Standard version
+| extra_column    = Producer(s)
+
+| title1          = Steam
+| writer1         = [[Tony Mortimer]], [[Biffco|Richard Stannard]], Matt Rowebottom
+| extra1          = Stannard, [[Phil Harding (producer)|Phil Harding]]{{ref|a|[a]}}, Ian Curnow{{ref|a|[a]}}, Rob Kean{{ref|a|[a]}}
+| length1         = 3.23
+
+| title2          = [[Hold My Body Tight]]
+| writer2         = Mortimer, Stannard, Rowebottom
+| extra2          = Harding, Curnow, Kean
+| length2         = 3.51
+
+| title3          = Let It All Go
+| writer3         = Mortimer, [[Terry Coldwell]], Kean, Dominic Hawken
+| extra3          = Harding, Curnow, Kean
+| length3         = 4.16
+
+| title4          = Set Me Free
+| writer4         = Mortimer
+| extra4          = Harding, Curnow, Kean
+| length4         = 4.47
+
+| title5          = [[Stay Another Day]]
+| writer5         = Mortimer, Kean, Hawken
+| extra5          = Harding, Curnow, Kean
+| length5         = 4.25
+
+| title6          = [[Around the World (East 17 song)|Around the World]]
+| writer6         = Mortimer, Brian Harvey, Rowebottom, Stannard
+| extra6          = Stannard
+| length6         = 4.33
+
+| title7          = [[Let It Rain (East 17 song)|Let It Rain]]
+| writer7         = Mortimer, Kean, Harding, Curnow
+| extra7          = Harding, Curnow, Kean
+| length7         = 4.07
+
+| title8          = Be There
+| writer8         = Mortimer, Kean, Hawken
+| extra8          = Harding, Curnow, Kean
+| length8         = 3.49
+
+| title9          = M.F. Power
+| writer9         = Mortimer
+| extra9          = Harding, Curnow, Kean
+| length9         = 3.31
+
+| title10         = Generation XTC
+| writer10        = Mortimer, Kean, Harding, Curnow
+| extra10         = Harding, Curnow, Kean
+| length10        = 4.22
+}}
+;Notes
+*<sup>{{note|a|[a]}}</sup> signifies an additional producer
+
+==Charts==
+
+===Weekly charts===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable sortable"
+|-
+!Chart (1994)
+!Peak<br/>position
+|-
+{{albumchart|Australia|16|artist=East 17|album=Steam}}
+|-
+{{albumchart|Austria|3|artist=East 17|album=Steam}}
+|-
+|Belgian Albums ([[Ultratop]] Flanders)<ref name=Billboard4February>{{Cite web|url=https://books.google.com/books?id=sAsEAAAAMBAJ&q=east+17|title=Hits of the World - Belgium|work=[[Billboard (magazine)|Billboard]]|publisher=[[Nielsen Business Media, Inc.]]|date=4 February 1995|accessdate=21 July 2012|page=65}}</ref>
+| style="text-align:center;"|7
+|-
+{{albumchart|Wallonia|16|artist=East 17|album=Steam}}
+|-
+{{albumchart|Netherlands|12|artist=East 17|album=Steam}}
+|-
+|align="left"|[[European Albums Chart]]<ref>{{cite web|url=https://books.google.com/books?id=sgsEAAAAMBAJ&q=east+17 |title=Billboard - Google Books |publisher=Books.googe.ca |date=1995-01-28 |accessdate=2014-01-24}}</ref>
+| style="text-align:center;"|7
+|-
+|align="left"| Finnish Albums ([[Suomen virallinen lista]])<ref>source:
+Pennanen, Timo: Sisältää hitin - levyt ja esittäjät Suomen musiikkilistoilla vuodesta 1972. Helsinki: Kustannusosakeyhtiö Otava, 2006. {{ISBN|9789511210535}}. page: 280</ref>
+| style="text-align:center;"|23
+|-
+{{albumchart|France|11|artist=East 17|album=Steam}}
+|-
+{{albumchart|Germany|10|artist=East 17|album=Steam}}
+|-
+|align="left"|Hungarian Albums ([[Association of Hungarian Record Companies|MAHASZ]])<ref>{{cite web|url=http://www.mahasz.hu/?menu=slagerlistak&menu2=archivum |title=Archívum – Slágerlisták – MAHASZ – Magyar Hanglemezkiadók Szövetsége |publisher=Mahasz.hu |accessdate=31 December 2011}}</ref>
+| style="text-align:center;"|17
+|-
+|Irish Albums ([[Irish Recorded Music Association|IRMA]])<ref>{{Cite web|url=http://irish-charts.com/showitem.asp?interpret=East+17&titel=Steam&cat=a&status=added|title=Irish Albums Chart|publisher=irish-charts.com}}</ref>
+| style="text-align:center;"|10
+|-
+{{albumchart|Italy|15|artist=East 17|album=Steam}}
+|-
+{{albumchart|Norway|24|artist=East 17|album=Steam}}
+|-
+{{albumchart|Scotland|3|date=1995-01-01}}
+|-
+{{albumchart|Sweden|19|artist=East 17|album=Steam}}
+|-
+{{albumchart|Switzerland|8|artist=East 17|album=Steam}}
+|-
+{{albumchart|UK|3|artist=East 17}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable"
+|-
+!Chart (1994)
+!Position
+|-
+|align="left"|French Albums (SNEP)<ref>{{cite web|url=http://www.infodisc.fr/B-CD_1994.php|title=Classement Albums – année 1994|language=French|access-date=14 June 2011|url-status=dead|archive-url=https://web.archive.org/web/20160112173148/http://www.infodisc.fr/B-CD_1994.php|archive-date=12 January 2016|df=dmy-all}}</ref>
+| style="text-align:center;"| 20
+|-
+|align="left"|UK Albums (OCC)
+| style="text-align:center;"| 10
+|-
+!Chart (1995)
+!Position
+|-
+|align="left"|Austrian Albums (Ö3 Austria)
+| style="text-align:center;"| 32
+|-
+|align="left"|Belgian (Flanders) Albums (ULTRATOP)<ref>http://www.ultratop.be/nl/annual.asp?year=1995&cat=a</ref>
+| style="text-align:center;"| 96
+|-
+|align="left"|Belgian (Wallonia) Albums (ULTRATOP)<ref>http://www.ultratop.be/fr/annual.asp?year=1995&cat=a</ref>
+| style="text-align:center;"| 33
+|-
+|align="left"|German Albums (Offizielle Deutsche Charts)<ref>https://www.offiziellecharts.de/charts/album-jahr/for-date-1995</ref>
+| style="text-align:center;"|39
+|-
+|align="left"|Swiss Albums (Schweizer Hitparade)
+| style="text-align:center;"| 27
+|-
+|align="left"|UK Albums (OCC)
+| style="text-align:center;"| 68
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Australia|type=album|artist=East 17|title=Steam|relyear=1994|certyear=1995|certref=<ref>{{cite book|last=Ryan|first=Gavin|title=Australia's Music Charts 1988-2010|year=2011|publisher=Moonlight Publishing|location=Mt. Martha, VIC, Australia}}</ref>|award=Gold}}
+{{Certification Table Entry|region=Belgium|certyear=1995|type=album|artist=East 17|title=Steam|access-date=1 February 2019|relyear=1994|award=Gold}}
+{{Certification Table Entry|region=France|type=album|artist=East 17|title=Steam|award=Platinum|access-date=25 July 2012|relyear=1994|salesamount=331,900<ref>{{cite web |url=http://www.infodisc.fr/CDCertif_O2.php?debut=250 |title=InfoDisc : Les Certifications (Albums) du SNEP (les Disques Double Or) |publisher=Infodisc.fr |date= |access-date=2014-01-24 |url-status=dead |archive-url=https://web.archive.org/web/20101228034042/http://infodisc.fr/CDCertif_O2.php?debut=250 |archive-date=28 December 2010 |df=dmy-all }}</ref>}}
+{{Certification Table Entry|region=Germany|type=album|artist=East 17|title=Steam|access-date=25 July 2012|relyear=1994|award=Gold}}
+{{Certification Table Entry|region=Switzerland|type=album|artist=East 17|title=Steam|access-date=25 July 2012|relyear=1994|award=Platinum}}
+{{Certification Table Entry|region=United Kingdom|type=album|artist=East 17|title=Steam|award=Platinum|number=2|access-date=25 July 2012|relyear=1994||salesamount=600,000}}
+{{certification Table Summary}}
+{{certification Table Entry|title=Steam|artist=East 17|type=album|region=Europe|award=Platinum|certyear=1996}}
+{{Certification Table Entry|region=Worldwide|nocert=yes|salesamount=2,000,000|salesref=<ref>{{cite web|url=https://books.google.com/books?id=Gw8EAAAAMBAJ&pg=PA58 |title=Billboard - Google Books |via=[[Google Books]]|date=1996-02-17 |access-date=2014-01-24}}</ref>}}
+{{certification Table Bottom}}
+
+==References==
+{{Reflist}}
+
+==Additional sources==
+*[https://www.amazon.co.uk/Steam-East-17/dp/B000026EQ0/ref=sr_1_4?ie=UTF8&s=music&qid=1198810084&sr=1-4 Amazon.co.uk East 17: Steam] 
+*[http://www.discogs.com/East-17-Steam/release/504111 discogs.com East 17: Steam]
+
+{{East 17}}
+
+{{DEFAULTSORT:Steam (East 17 Album)}}
+[[Category:1994 albums]]
+[[Category:East 17 albums]]
+[[Category:Albums produced by Richard Stannard]]
+
+
+{{1990s-pop-album-stub}}

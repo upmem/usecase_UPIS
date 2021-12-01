@@ -1,0 +1,82 @@
+{{Use dmy dates|date=August 2015}}
+{{Use New Zealand English|date=August 2015}}
+{{Infobox station
+ | name=Naenae
+ | type=[[Public transport in Wellington|Metlink]] [[suburban rail]]
+ | image=
+ | image_caption=
+ | address= Cambridge Terrace, Naenae, Lower Hutt, New Zealand
+ | coordinates= {{coord|41|11.876|S|174|56.754|E|type:railwaystation_region:NZ|}}
+ | line=[[Wairarapa Line]]
+ | other=
+ | structure=
+ | platform=Island
+ | levels=
+ | tracks=Main line (2)
+ | parking=Yes
+ | bicycle=
+ | passengers=
+ | pass_year=
+ | pass_percent=
+ | pass_system=
+ | opened=7 January 1946
+ | closed=
+ | rebuilt=
+ | electrified=14 September 1953
+ | ADA=
+ | code= NAEN
+ | owned=[[Greater Wellington Regional Council]]
+ | zone=5
+ | former=
+ | services=
+{{s-note|text=[[ONTRACK]]}}
+{{s-rail|title=Tranz Metro}}
+{{s-line|system=Tranz Metro|line=Hutt Valley Line|previous=Wingate|next=Epuni|}}
+ | mpassengers=
+}}
+
+'''Naenae railway station''' is a suburban railway station serving [[Naenae]] and [[Avalon, New Zealand|Avalon]] in [[Lower Hutt]], [[New Zealand]]. The station is located on the [[Hutt Valley Line|Hutt Valley section]] of the [[Wairarapa Line]], {{convert|18.3|km|mi|abbr=on}} north of [[Wellington railway station|Wellington]]. The station is served by [[Public transport in Wellington|Metlink]]'s [[electric multiple unit]] trains of the [[New Zealand FP class electric multiple unit|"Matangi" FP class]]. Trains stopping at Naenae run to Wellington, [[Taita railway station|Taitā]] and [[Upper Hutt railway station|Upper Hutt]].
+
+The station has an [[island platform]] between double tracks, linked via a pedestrian subway to Cambridge Terrace and the Naenae shopping centre in the east and Oxford Terrace and Avalon in the west.
+
+== History ==
+Naenae station opened on 7 January 1946 when a single line of the then Hutt Valley Branch was extended from [[Waterloo Interchange (Hutt Central) railway station|Waterloo]] to Naenae. The station served as the branch's terminus until the extension to [[Taita railway station|Taitā]] (then known as Taita) opened fifteen months later in April 1947; at the same time the line south of Naenae was double-tracked. Double track north of the station to Taitā opened in February 1953, and the line through Naenae was electrified on 12 September 1953. In March 1954, Naenae became part of the main Wairarapa Line when the Taitā to Haywards (now [[Manor Park railway station, New Zealand|Manor Park]]) extension opened and the existing Melling to Haywards line closed.<ref>Hoy, D.G. ''Rails out of the Capital'' ([[NZRLS]], 1970) pp. 62,63</ref>
+
+Naenae Station closed from 14 May 2012 to allow a rebuild of the station to take place. The rebuild included a new platform shelter, resurfacing of the platform itself and renovation of the subway connecting the platform to Cambridge and Oxford Terraces. A shuttle bus service was provided between Naenae and Waterloo Station on weekdays during peak times.<ref>{{cite web|url=http://www.metlink.org.nz/upgrade-to-naenae-station|title=Upgrade to Naenae Station|accessdate=2012-05-13|author=Metlink|authorlink=Public transport in Wellington|publisher=Greater Wellington Regional Council|archiveurl=https://web.archive.org/web/20120502104902/http://www.metlink.org.nz/upgrade-to-naenae-station/|archivedate=2 May 2012|url-status=dead|df=dmy-all}}</ref><ref>{{cite web|url=http://www.metlink.org.nz/news/naenae-station-will-re-open-on-monday-27-august-2012/|title=Naenae Station to reopen|date=13 August 2012|accessdate=24 June 2013|publisher=[[Tranz Metro]]|url-status=dead|archiveurl=https://web.archive.org/web/20150120222850/http://www.metlink.org.nz/news/naenae-station-will-re-open-on-monday-27-august-2012/|archivedate=20 January 2015|df=dmy-all}}</ref>
+The station reopened on 27 August 2012.
+<ref>{{cite news
+ |title       = Naenae Station will re-open on Monday 27 August 2012
+ |url         = http://www.metlink.org.nz/naenae-station-will-re-open-on-monday-27-august-2012/
+ |accessdate  = 12 September 2012
+ |newspaper   = GWRC
+ |date        = 13 August 2012
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20120816234339/http://www.metlink.org.nz/naenae-station-will-re-open-on-monday-27-august-2012/
+ |archivedate = 16 August 2012
+ |df          = dmy-all
+}}</ref>
+
+In 2018 automatic pedestrian gates which lock shut were installed as some pedestrians and cyclists ignored the flashing lights on the adjacent level crossing.<ref>{{cite web|url=   https://www.stuff.co.nz/dominion-post/news/108287125/terrifying-wellington-level-crossing-made-safter |title= Terrifying- Wellington level crossing made safter |publisher=  Stuff (Fairfax) |date= 1 November 2018}}</ref>
+
+== Services ==
+[[Transdev Wellington]], on behalf of the [[Greater Wellington Regional Council]], operates [[Hutt Valley Line]] electric suburban services under the "Metlink" brand between Wellington and Upper Hutt via Naenae. The basic daytime off-peak timetable is:
+*2&nbsp;trains per hour (tph) to Wellington, stopping all stations.
+*2&nbsp;tph to Upper Hutt, stopping all stations.
+
+[[Public transport in Wellington|Metlink]] bus routes 121 and 130 serve Naenae station.
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* Passenger service timetables from [https://web.archive.org/web/20070604093715/http://www.metlink.org.nz/section10.php Metlink] and [https://web.archive.org/web/20070608134619/http://www.tranzmetro.co.nz/ Tranz Metro].
+<br>
+{{Wairarapa Line stations}}
+
+[[Category:Rail transport in Wellington]]
+[[Category:Buildings and structures in Lower Hutt]]
+[[Category:Railway stations in New Zealand]]
+[[Category:Railway stations opened in 1946]]
+
+
+{{NewZealand-railstation-stub}}

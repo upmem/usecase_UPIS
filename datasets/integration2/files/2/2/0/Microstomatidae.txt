@@ -1,0 +1,29 @@
+{{Taxobox
+| image = Microstoma microstoma Gervais.jpg
+| image_caption = [[Slender argentine]], ''Microstoma microstoma''
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Actinopterygii]]
+| ordo = [[Argentiniformes]]
+| familia = '''Microstomatidae'''
+| subdivision_ranks = Genera
+| subdivision = 
+''[[Microstoma (fish)|Microstoma]]''<br/>
+''[[Nansenia (fish)|Nansenia]]''<br/>
+''[[Xenophthalmichthys]]''
+}}
+The '''Microstomatidae''' ('''pencil smelts''') are a family of [[marine smelt]]s native to the [[Atlantic]], [[Indian Ocean|Indian]], and [[Pacific Ocean]]s.
+
+==References==
+* {{FishBase family | family = Microstomatidae | month = February| year = 2012}}
+* {{ITIS | id = 553195 | taxon = Microstomatidae | accessdate = 28 March 2006}}
+
+{{Taxonbar|from=Q135684}}
+
+[[Category:Microstomatidae| ]]
+[[Category:Deep sea fish]]
+[[Category:Marine fish families]]
+[[Category:Ray-finned fish families]]
+
+
+{{Argentiniformes-stub}}

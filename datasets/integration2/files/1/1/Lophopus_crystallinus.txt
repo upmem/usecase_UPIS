@@ -1,0 +1,40 @@
+{{Taxobox
+| image =
+| image_caption =
+| regnum = [[Animal]]ia 
+| phylum = [[Bryozoa]]
+| ordo = 
+| classis = [[Phylactolaemata]]
+| familia = [[Lophopodidae]]
+| genus = [[Lophopus]] 
+| species = '''''L. crystallinus'''''
+| binomial = ''Lophopus crystallinus''
+| binomial_authority = ([[Peter Simon Pallas|Pallas]], 1768)
+}}
+'''''Lophopus crystallinus''''', commonly known as the '''bellflower animal''' or '''crystal moss animal''', is the first<ref>[https://web.archive.org/web/20150704190419/http://www.nhm.ac.uk/nature-online/species-of-the-day/biodiversity/economic-impact/lophopus-crystallinus/index.html Lophopus crystallinus (bellflower animal or crystal moss animal)] Species of the day – [[Natural History Museum]] (archived)</ref> species ever described of the genus ''[[Lophopus]]'', from the [[Lophopodidae]] family, and is the only member of the family that can be found in the [[United Kingdom|UK]].<ref name=arkive>[http://www.arkive.org/freshwater-bryozoan/lophopus-crystallinus/ Lophopus crystallinus] {{Webarchive|url=https://web.archive.org/web/20120106183945/http://www.arkive.org/freshwater-bryozoan/lophopus-crystallinus/ |date=2012-01-06 }} [[ARKive]]</ref>
+
+==Description==
+The species are [[colony (biology)|colonial]], and have a [[gelatin]]ous outer wall. They are fan shaped when viewed with the naked eye.
+
+==Distribution==
+The species can be found in as many as 62 [[lake]]s and [[river]]s throughout the [[United Kingdom|UK]].<ref>{{cite book |year=1999 |title=UK Biodiversity Group Tranche 2 Action Plans |publisher=Peterborough |volume=4 |pages=437–439}}</ref>
+
+==Feeding==
+It feeds on [[algae]]. It prefers cold climate, and is tolerant of [[eutrophication]].
+
+==Life and reproduction==
+The species [[biological life cycle|life cycle]] is few months. They start dormanting in September, and reproduce by [[winter]]. They die by March. However, in spring fed pools they could live and reproduce forever. Their sexual  reproduction is quite rare, and is poorly known. They grow by budding with different kinds of [[zooid]]s.<ref>[http://www.nhm.ac.uk/nature-online/species-of-the-day/biodiversity/economic-impact/lophopus-crystallinus/biology/index.html Life cycle and Reproduction]</ref>
+
+==Conservation==
+It is listed as a priority species under the [[UK Biodiversity Action Plan]].<ref name=arkive />
+
+==References==
+{{Reflist}}
+
+== Bibliography ==
+* Hill S & Okamura BA ''Review of the ecology of Lophopus crystallinus (Plumatellida, Lophopodidae), a rare species within the UK.'' na ; Biologiezentrum Linz/Austria ; Denisia 16, zugleich Kataloge der OÖ.Landesmuseen Neue Serie 28 (2005), 193-201([https://web.archive.org/web/20140726181540/https://84a69b9b8cf67b1fcf87220d0dabdda34414436b-www.googledrive.com/host/0B0PLtJjhTxnkZDAzOGQxY2EtOTIzOS00ZjlkLWJhYmMtYWYzY2QwYmQ2ZjFi/Books/D/Denisia,%20Biologiezentrum%20Linz,%20Austria/Part%2002/Denisia,%20Biologiezentrum%20Linz,%20Austria%20Vol%200016-0193-0201.pdf pdf from Google Drive]).
+
+{{Taxonbar|from=Q2905343}}
+
+[[Category:Animals described in 1768]]
+[[Category:Phylactolaemata]]

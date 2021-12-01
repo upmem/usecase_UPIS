@@ -1,0 +1,65 @@
+{{short description|American professional soccer player|bot=PearBOT 5}}
+{{Infobox football biography
+| name = Caleb Duvernay
+| image = 
+| fullname = 
+| birth_date = {{Birth date and age|1996|7|24}}
+| birth_place = [[Cary, North Carolina]], United States
+| height = {{height|m=1.70}}
+| currentclub = 
+| clubnumber = 
+| position = [[Defender (association football)|Defender]]
+| youthyears1 = 
+| youthclubs1 = [[North Carolina FC Youth]]
+| collegeyears1 = 2014–2017
+| college1 = [[NC State Wolfpack men's soccer|NC State Wolfpack]]
+| collegecaps1 = 67
+| collegegoals1 = 2 
+| years1 = 2015–2018
+| clubs1 = [[North Carolina FC U23]]
+| caps1 = 23
+| goals1 = 1
+| years3 = 2019–2020
+| clubs3 = [[North Carolina FC]]
+| caps3 = 16
+| goals3 = 0
+| nationalyears1 = 
+| nationalteam1 = 
+| nationalcaps1 = 
+| nationalgoals1 = 
+| club-update = July 17, 2020
+}}
+
+'''Caleb Duvernay''' (born July 24, 1996) is an American professional [[association football|soccer]] player who plays as a [[Defender (association football)|defender]].
+==Career==
+===College & Youth===
+Duvernay played four years of [[college soccer]] at the [[North Carolina State University]] between 2014 and 2017.<ref>https://gopack.com/roster.aspx?rp_id=4805</ref>
+
+While at college, Duvernay played with [[North Carolina FC U23|Carolina RailHawks U23s]] in the [[National Premier Soccer League]] in 2015 and 2016, and [[North Carolina FC U23]] in the [[USL PDL]] in 2017.<ref>https://www.uslleaguetwo.com/roster_players/18184412</ref>
+
+===Professional===
+On January 21, 2018, Duvernay was selected 61st overall in the [[2018 MLS SuperDraft]] by [[Portland Timbers]].<ref>https://www.timbers.com/post/2018/01/21/2018-mls-superdraft-timbers-select-four-players-final-two-rounds</ref> However, he did not sign with the club. He instead spent 2018 playing in the USL PDL with North Carolina U23.<ref>https://www.uslleaguetwo.com/roster_players/24811649</ref>
+
+On March 15, 2019, Duvernay signed his first professional contract with [[USL Championship]] side [[North Carolina FC]].<ref>https://www.northcarolinafc.com/news_article/show/1004531</ref> He appeared in 16 games with the club over parts of two seasons before leaving the team on August 24, 2020.<ref>{{cite web|url=https://www.northcarolinafc.com/news_article/show/1119195|title=NCFC and Caleb Duvernay Mutually Part Ways|website=NorthCarolinaFC.com|date=August 24, 2020|access-date=August 28, 2020}}</ref>
+
+==References==
+{{reflist}}
+
+
+
+{{DEFAULTSORT:Duvernay, Caleb}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:American soccer players]]
+[[Category:Association football defenders]]
+[[Category:NC State Wolfpack men's soccer players]]
+[[Category:North Carolina FC U23 players]]
+[[Category:North Carolina FC players]]
+[[Category:Soccer players from North Carolina]]
+[[Category:National Premier Soccer League players]]
+[[Category:USL League Two players]]
+[[Category:USL Championship players]]
+[[Category:Portland Timbers draft picks]]
+
+
+{{US-footy-defender-stub}}

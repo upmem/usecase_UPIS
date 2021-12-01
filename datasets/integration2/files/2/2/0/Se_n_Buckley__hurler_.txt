@@ -1,0 +1,67 @@
+{{Multiple issues|
+{{BLP sources|date=February 2013}}
+{{one source|date=February 2013}}
+}}
+{{Use dmy dates|date=October 2020}}
+{{Use Irish English|date=October 2020}}
+{{Infobox GAA player
+| code= Hurling
+| sport = Hurling
+| image = 
+| name = Seán Buckley
+| irish = Seán Ó Buachalla
+| fullname = 
+| birth_date = 1938
+| feet = 5
+| inches = 7
+| occupation = 
+| county = Kilkenny
+| province = Leinster
+| club = [[St Lachtain's GAA|St Lachtain's]]
+| cposition = 
+| clubs = 
+| clyears = 1950s-1970s
+| clapps(points) = 
+| clcounty = 1
+| clprovince= 
+| clallireland = 
+| counties = [[Kilkenny GAA|Kilkenny]]
+| icposition = Left wing-forward
+| icyears = 1957-1960
+| icapps(points) = 
+| icprovince = 4 (1 as sub)
+| icallireland = 2 (1 as sub)
+| nhl = 0
+| allstars = 0
+| clupdate = 
+| icupdate =
+| birth_place=[[Freshford, County Kilkenny]]
+}}
+'''Seán Buckley''' (born 1938 in [[Freshford, County Kilkenny]]) is an [[Irish people|Irish]] former sportsperson.  He played [[hurling]] with his local club [[St Lachtain's GAA|St Lachtain's]] and was a member of the [[Kilkenny GAA|Kilkenny]] senior inter-county team from 1957 until 1970.<ref>{{cite web|url=http://www.hoganstand.com/Kilkenny/Profile.aspx|title=Kilkenny GAA profile|publisher=www.hoganstand.com|accessdate=2010-08-01|url-status=dead|archiveurl=https://web.archive.org/web/20111014192436/http://hoganstand.com/Kilkenny/Profile.aspx|archivedate=2011-10-14}}</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-sports}} 
+{{succession box|
+ before=[[Séamus Cleere]]|
+ title=[[List of Kilkenny senior hurling team captains|Kilkenny Senior Hurling Captain]]|
+ years=1964|
+ after=[[Paddy Moran (hurler)|Paddy Moran]]
+}}
+{{s-end}}
+
+{{Kilkenny Hurling Team 1963}}
+{{Kilkenny Hurling Team 1964}}
+{{Kilkenny Hurling Team 1966}}
+{{Kilkenny Hurling Team 1969}}
+
+{{DEFAULTSORT:Buckley, Sean}}
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:All-Ireland Senior Hurling Championship winners]]
+[[Category:Kilkenny inter-county hurlers]]
+[[Category:St Lachtain's hurlers]]
+
+{{Kilkenny-hurling-bio-stub}}

@@ -1,0 +1,15 @@
+== Summary ==
+{{Non-free use rationale| Article           = Dragon Ball: Raging Blast
+| Description       = Production art to the PlayStation 3 and Xbox 360 video game, ''Dragon Ball: Raging Blast''.
+| Source            = Namco Bandai, Bird Studio/Shueisha, & Toei Animation 2009.
+| Portion           = The image is only a small portion of the commercial product.
+| Low_resolution    = It is a low resolution image.
+| Purpose           = It illustrates educational articles about the video game from which the in game still was taken. 
+| Replaceability    = Copyrighted image, so no free replacement can be found. 
+| other_information = 
+}}
+
+== Licensing ==
+{{Non-free character|image has rationale=yes}}
+
+[[Category:Dragon Ball images]]

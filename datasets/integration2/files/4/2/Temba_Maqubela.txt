@@ -1,0 +1,97 @@
+<!-- Deleted image removed: [[File:Temba Maqubela, Phillips Academy.jpg|thumb|alt=Temba Maqubela.|Temba Maqubela{{deletable image-caption|Friday, 16 June 2017|F7}}]] -->
+{{Infobox person
+| honorific_prefix          =
+| name                      = <!-- include middle initial, if not specified in birth_name -->
+| honorific_suffix          =
+| native_name               =
+| native_name_lang          =
+| image                     = TembaMaqubela.png
+| image_size                =
+| alt                       =
+| caption                   = Temba Maqubela
+| birth_name                =
+| birth_date                = {{birth year and age|1958}} <!--- {{Birth date and age|1958|??|??}} -->
+| birth_place               = [[King William's Town]], [[South Africa]]
+| death_date                = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place               =
+| death_cause               =
+| resting_place             =
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments                 =
+| residence                 =
+| nationality               =
+| other_names               =
+| ethnicity                 = <!-- Ethnicity should be supported with a citation from a reliable source -->
+| citizenship               =
+| occupation                = [[Headmaster]]
+| organization              = [[Groton School]]
+| years_active              = 
+| alma_mater                = [[University of Ibadan]] <br> [[University of Kentucky]] 1993
+| agent                     =
+| known_for                 =
+| notable_works             = 
+| style                     =
+| influences                =
+| influenced                =
+| home_town                 =
+| salary                    =
+| net_worth                 = <!-- Net worth should be supported with a citation from a reliable source -->
+| height                    = <!-- {{height|m=}} -->
+| weight                    = <!-- {{convert|weight in kg|kg|lb}} -->
+| television                =
+| title                     =
+| term                      =
+| predecessor               = Richard B. Commons
+| relatives                 =
+| callsign                  =
+| awards                    =
+| signature                 =
+| signature_alt             =
+| signature_size            =
+| module                    =
+| website                   = <!-- {{URL|Example.com}} -->
+| footnotes                 =
+| box_width                 =
+}}
+
+'''Temba Maqubela''' (born 1958) is a South African educator and administrator. In July 2013 he began as the eighth Headmaster at The Groton School.  He previously served as the Dean of Faculty and Assistant Head for Academics at [[Phillips Academy]], Andover.<ref>{{Cite web |url=http://www.andover.edu/About/Newsroom/Pages/Temba-Maqubela-named-headmaster-of-Groton-School.aspx |title=Archived copy |access-date=2013-03-01 |archive-url=https://web.archive.org/web/20121205035952/http://www.andover.edu/About/Newsroom/Pages/Temba-Maqubela-named-headmaster-of-Groton-School.aspx |archive-date=2012-12-05 |url-status=dead }}</ref> He served as director of (MS)2, a program that addresses math and science needs for African American, Latino, and Native American high school students. Over the course of his 26-year tenure at Phillips Academy,<ref>{{Citation |url= https://www.nytimes.com/2007/01/07/education/edlife/07prepared.html?pagewanted=print |last=Pappano |first= Laura |title=The Incredibles |newspaper=New York Times |date= January 8, 2007 |page=18(L)}}</ref> Maqubela served as a member of the advisory committee, as Chair of the Chemistry department, and as a chemistry teacher. Maqubela launched the ACE Scholars Program, which tackles the preparation gap among gifted students, and took the lead on Andover’s Global Perspectives Group, which focuses on global education for students and faculty.
+
+== Education and awards ==
+
+Maqubela is a graduate of [[University of Ibadan]] (B.S.), and [[University of Kentucky]] (M.S.).
+
+He was awarded the White House Distinguished Teacher Award in 1993 and was inducted into the Hall of Fame for the Northeast Section of the [[American Chemical Society]] in 2002.<ref>{{Cite news|url=http://www.boston.com/news/local/massachusetts/2012/10/25/new-headmaster-begin-groton-school-july/7C0pNfqsREGxL1X98xhOeJ/story.html|title=New headmaster to begin at Groton School in July 2013|date=2012-10-26|work=Boston.com|access-date=2018-11-13|language=en-US}}</ref>
+
+== Personal ==
+
+In 1976, when only 17 years old, Maqubela escaped South Africa and went into exile. He lived throughout Africa before moving to the United States with his wife and son in 1986. He taught at public school in New York City before teaching at [[Phillips Academy]].  As of 2013, Maqubela has been instated as the eighth headmaster of [[Groton School]] as well as an [[organic chemistry]] teacher.
+
+Maqubela serves on the Board of [[South Africa Partners]], which builds mutually beneficial partnerships between the United States and South Africa in the areas of health and education. He is a co-founder and Board Director of [http://www.masibumbanedevelopment.org.za/ Masibumbane Development Organization], a newly established NGO grounded in a rich tradition and born from decades of powerful service in the Eastern Cape of South Africa.
+
+He is also a current Board Advisor for the [[African Leadership Academy]], a pan-African secondary institution that aims to educate and develop outstanding students into principled, ethical leaders for Africa.
+
+Maqubela's wife Vuyelwa Maqubela, is the daughter of [[R.L. Peteni]], educator and author of [[Hill of Fools]]; the first novel written in both English and Xhosa. She was an English teacher at [[Phillips Academy]] until the pair moved to [[Groton School]], and a Board Member at [[Grassroot Soccer]], a nonprofit organization that promotes HIV/AIDS education and prevention in Africa.  Vuyelwa now teaches English at [[Groton School]]
+
+He is the grandson of [[Z.K. Matthews]], a celebrated South African scholar, educator, and activist. His  first-cousin is [[Naledi Pandor]], Minister of Home Affairs in South Africa. Maqubela's work has appeared in the [[Washington Post]], where he authored an op-ed regarding the death of South African president [[Nelson Mandela]], whom his grandfather taught, and was close with his family.<ref>{{Citation |url=https://www.washingtonpost.com/opinions/it-took-a-village/2013/12/09/7487c3c2-6128-11e3-bf45-61f69f54fc5f_story.html |title=It took a village] |first=Temba |last=Maqubela |authorlink=Temba Maqubela |date= December 9, 2013 }}</ref> Additionally, Maqubela contributed to Independent School Magazine, where he discussed the importance of socioeconomic and demographic inclusion in the United States secondary education system.<ref>{{Cite web|url=http://www.nais.org/Magazines-Newsletters/ISMagazine/Pages/Inclusion.aspx|title=Inclusion|website=www.nais.org|access-date=2016-07-15}}</ref>
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+{{Refbegin|30em}}
+* Vance,Valerie. [http://www.csmonitor.com/1991/0819/19131.html S. Africans on Write Track; US Program Teaches Black Teachers How to Encourage Self-Expression]. [[The Christian Science Monitor]], August 19, 1991
+* "Interview with Temba Maqubela on Nelson Mandela." [[All Things Considered]] ([[NPR]]) December 6, 2013. {{Subscription required|via=[[General OneFile]]}} 
+*Seth Stern. [https://web.archive.org/web/20181119092750/https://www.highbeam.com/doc/1P2-1451494.html "Summer camp targets high achievers when it counts."] [[Chicago Sun-Times]]. 2002. [[HighBeam Research]]. 
+*[https://web.archive.org/web/20181120001742/https://www.highbeam.com/doc/1G1-89851118.html It's tough, it's intense - and kids love it] [[The Christian Science Monitor]]. 2002. HighBeam Research. 
+* Jordana Hart, [https://www.highbeam.com/doc/1P2-8195461.html South African Seeks To Unlock Minds Of A Nation's Children]{{dead link|date=August 2020|bot=medic}}{{cbignore|bot=medic}} [[The Boston Globe]] (Boston, MA). 1990. HighBeam Research. (October 16, 2016). 
+* Shari Rudavsky, Globe Correspondent. [https://www.highbeam.com/doc/1P2-7726595.html Summer Of Science Recharges Attitudes]{{dead link|date=August 2020|bot=medic}}{{cbignore|bot=medic}}. The Boston Globe (Boston, MA). 2002. HighBeam Research. 
+* "Daniel, Nneji, Ayuba, Cynosure of All Eyes At Kora Awards." Africa News Service 19 Dec. 2005. {{Subscription required|via=[[General OneFile]]}} 
+{{refend}}
+
+{{DEFAULTSORT:Maqubela, Temba}}
+[[Category:1958 births]]
+[[Category:American educators]]
+[[Category:Living people]]
+[[Category:South African emigrants to the United States]]
+[[Category:University of Ibadan alumni]]
+[[Category:University of Kentucky alumni]]

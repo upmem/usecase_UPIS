@@ -1,0 +1,20 @@
+{{Navbox
+| name = Polly Farmer Medal winners
+| title = [[Indigenous All-Stars (Australian rules football)|<span style="color:gold">Polly Farmer Medal &middot; Indigenous All-Stars games Best on Ground</span>]]
+|listclass = hlist
+| titlestyle = background:black; color:gold;
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| list2 =
+* 1983: Handy
+* 1994: [[Fabian Francis|Francis]]
+* 2003: [[Adam Goodes|Goodes]]
+* 2005: [[Daniel Wells (footballer)|Wells]]
+* 2007: [[Andrew McLeod|McLeod]]
+* 2009: [[Matt Campbell (Australian footballer)|Campbell]]
+* 2013: [[Harley Bennell|Bennell]]
+* 2015: [[Shaun Burgoyne|Burgoyne]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Indigenous All-Stars (Australian rules football) navigational boxes]]
+[[Category:Australian rules football awards navigational boxes]]
+</noinclude>

@@ -1,0 +1,48 @@
+{{Infobox hospital
+| Name        = Provident Hospital of Cook County
+| Org/Group   = 
+| Image       = Provident Hospital of Cook County.jpg
+| image alt   = <!-- optional -->
+| Caption     = <!-- optional -->
+| map_type    = 
+| latitude    = <!-- used only for adding a map, with map_type -->
+| longitude   = <!-- used only for adding a map, with map_type -->
+| Logo        = 
+| Logo Size   = <!-- optional -->
+| Location    = 550 E. 51st Street<br/>[[Chicago]]
+| State       = Illinois
+| Country     = US
+| Coordinates = 
+| HealthCare  =
+| Funding     = Public
+| Type        = Community, Teaching
+| Speciality  = <!-- if devoted to a speciality (ie not a broad spectrum of specialities) and Type=Specialist/Teaching -->
+| Standards   = <!-- optional if no national standards -->
+| Emergency   = <!-- UK/IR/HK/SG: Yes/No, CA/US: I/II/III for Trauma certification level -->
+| Affiliation = [[Loyola University Chicago]] [[Stritch School of Medicine]]<ref>http://www.cchil.org/dom/provident.html#Loyola {{webarchive|url=https://web.archive.org/web/20080905230935/http://www.cchil.org/dom/provident.html |date=2008-09-05 }} Affiliation with Loyola</ref> and [[Midwestern University]]
+| Patron      = <!-- 'None' or the individual who acts as the hospital patron -->
+| Network     = [[Cook County Hospital]] System
+| Beds        = 
+| Founded     = 1891 as Provident Hospital and Training School<br/> Reopened in 1993 as Provident Hospital of Cook County
+| Closed      = 1987-1993
+| Website     = {{URL|1=http://www.cookcountyhhs.org/locations/provident-hospital/}}
+}}
+'''Provident Hospital''',<ref>[http://www.providentfoundation.org/history/index.html The Provident Foundation] {{webarchive|url=https://web.archive.org/web/20081226203249/http://www.providentfoundation.org/history/index.html |date=2008-12-26 }}</ref> now a public hospital, was the first African-American owned and operated hospital in America.<ref>{{cite web | url=https://www.nlm.nih.gov/exhibition/aframsurgeons/history.html | author=National Library of Medicine | title=History: Early medical education}}</ref> Provident was established in [[Chicago]] in 1891 by Dr. [[Daniel Hale Williams]], an [[African-American]] surgeon during the time in American history where few public or private medical facilities were open to black Americans. It was founded to provide health care and medical training. Its initial officers were president John M. Brown, vice president [[Richard Mason Hancock]], treasurer John T. Jenifer, secretary Louis H. Reynolds, and auditor Lloyd D. Wheeler<ref>In Lightest Africa, Chicago Daily Tribune (Chicago, Illinois) July 31, 1892, page 33, accessed October 6, 2016 at https://web.archive.org/web/20161009123804/https://www.newspapers.com/clip/6918104/in_lightest_africa_chicago_daily/</ref>
+
+Owned and run by African Americans, from its start Provident was open to all regardless of race. It was also "the first private hospital in the State of Illinois to provide internship opportunities for black physicians . . .[t]he first to establish a school of nursing to train black women . . . one of the first black hospitals to provide postgraduate courses and residencies for black physicians and the first black hospital approved by the American College of Surgeons for full graduate training in surgery. Provident also offered an important forum, a proving ground for ideas about black self determination and institutional survival."<ref>{{Cite web |date=2015-12-14 |title=Provident Hospital: A Living Legacy |url=https://imss.org/provident-hospital-a-living-legacy/ |access-date=2020-10-01 |website=International Museum of Surgical Science |language=en}}</ref> In 1893, the first documented heart surgery was performed by Dr. Daniel Williams at Provident Hospital and Training School. Though the historic Provident Hospital was forced to close in 1987 due to financial difficulties, it reopened in 1998 as part of [[Cook County Hospital]] System.<ref>[http://www.cchil.org/dom/bureau.html Cook County Bureau of Health Services] {{webarchive|url=https://web.archive.org/web/20070616015616/http://www.cchil.org/dom/bureau.html |date=2007-06-16 }}</ref> to provide services to residents of Chicago's [[South Side (Chicago)|South Side]]. It is now known as ''Provident Hospital of Cook County''.<ref>[http://www.cchil.org/dom/provident.html Provident Hospital of Cook County] {{webarchive|url=https://web.archive.org/web/20080905230935/http://www.cchil.org/dom/provident.html |date=2008-09-05 }} It is currently being considered for closure by the Cook County Board of Health.</ref>
+[[Alton Abraham]], the [[social entrepreneur]] associated with [[Sun Ra]], worked here.
+
+==References==
+{{reflist}}
+
+{{coord|41.802566|N|87.613499|W|source:Flickr|format=dms|display=title}}
+
+{{authority control}}
+
+[[Category:Hospitals in Chicago]]
+[[Category:Defunct hospitals in Illinois]]
+[[Category:Historically black hospitals in the United States]]
+
+
+{{Illinois-hospital-stub|Chicago=y}}
+{{Chicago-struct-stub}}

@@ -1,0 +1,14 @@
+== Summary ==
+{{Non-free use rationale
+ |Article           = Quintessential Player
+ |Description       = Quintessential Media Player version 5.0, released 18/02/2009, shown in Full Mode with its Media Library.
+ |Source            = http://www.quinnware.com/template3/images/home/qmp.jpg
+ |Portion           = Window
+ |Low_resolution    = yes
+ |Purpose           = In the absence of a free alternative, this image can serve for the identification of, and critical commentary on, Quintessential Media Player. The image is representative of the software, showing the default view for the player, without skin or layout modification.
+ |Replaceability    = No.
+ |other_information = 
+}}
+
+== Licensing ==
+{{Non-free software screenshot|image has rationale=yes|Screenshots of Windows software}}

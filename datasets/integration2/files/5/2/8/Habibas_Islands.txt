@@ -1,0 +1,68 @@
+{{Infobox lighthouse
+| item = Q23013092
+| name = Iles Habibas Lighthouse
+| image_name = Touria - Îles Habibas.jpg
+| image_width = 
+| caption = Iles Habibas Lighthouse in 1960
+| location = Iles Habibas<br>[[Algeria]]
+| pushpin_map = Algeria
+| relief = 1
+| pushpin_map_caption = Algeria 
+| pushpin = lighthouse
+| coordinates = {{coord|35|43|14.0|N|1|8|00.23|W|type:landmark|display=inline}}
+| coordinates_footnotes =
+| yearbuilt = 1878<ref name= Habibas>{{cite web|url=http://www.onsm-dz.com/?p=detailphares&equipement_id=29|title=Ile Habibas|website=Office Nationale de Signalisation Maritime|publisher= Ministere des Travaux Publics|accessdate=30 April 2017}}</ref>
+| yearlit  = 
+| automated = 
+| yeardeactivated = 
+| foundation = 
+| construction = masonry tower
+| shape = quadrangular tower with balcony and lantern atop 1-storey keeper’s house
+| marking = white tower, 
+| height = {{convert|13.8|m|ft}}<ref name=Habibas/>
+| focalheight = {{convert|113.3|m|ft}}<ref name=Habibas/>
+| lens = 
+| currentlens =
+| lightsource = solar power
+| intensity = 180 W<ref name=Habibas/>
+| range = {{convert|20|nmi}}<ref name=Habibas/>
+| characteristic = Fl W 5s.<ref>{{cite ngall|113|2015|}}</ref>
+| fogsignal = 
+| racon = 
+| admiralty = E6714
+| canada = 
+| NGA = 22684
+| ARLHS = ALG-001<ref>{{cite web|url=https://www.unc.edu/~rowlett/lighthouse/dza.htm|title=Western Algeria|website=The Lighthouse Directory|publisher=University of North Carolina at Chapel Hill|accessdate=30 April 2017}}</ref>
+| USCG = 
+| country = 
+| countrynumber = 
+| countrylink =
+| managingagent = Office Nationale de Signalisation Maritime
+| heritage =
+| module =
+}}
+
+[[File:Loc Îles Habibas.svg|thumbnail|left|Habibas Islands]]
+[[File:Habibas_from_coast.jpg|thumbnail|left|Islands viewed from the coast]]
+The '''Habibas islands''' ( {{lang-ar|جزر حبيبة}}) {{coord|35|43|29|N|1|8|00|W}} are located about 12&nbsp;km off the [[Algeria]]n coast, northwest of [[Oran]].  The islands consist of a principal island  1.3&nbsp;km long surrounded by an [[archipelago]] covering a total area of about 40 ha.<ref name="algeria.com">http://www.algeria.com/blog/iles-habibas-marine-nature-reserve</ref>  The highest point on the Habibas islands reaches 105 m. The islands are of [[volcanic]] origin.
+
+The Habibas islands fall under the [[Bou Zedjar]] municipality in the [[Aïn Témouchent Province]], Algeria.
+There are no permanent population centres, but there is a small [[jetty]], a [[lighthouse]] (built in 1879) and a few small buildings. The islands make up the Iles Habibas Marine Nature Reserve.<ref name="algeria.com"/>
+
+By the end of 2006, a project to rehabilitate and maintain the island was to commence, backed by Algerian and [[France|French]] funding. The stated objective was to support the local [[ecosystem]].<ref>{{Cite web |url=http://www.visitoran.com/news/article.asp?106 |title=Archived copy |access-date=2011-12-09 |archive-url=https://web.archive.org/web/20131203032355/http://www.visitoran.com/news/article.asp?106 |archive-date=2013-12-03 |url-status=dead }}</ref>
+
+==See also==
+*[[List of lighthouses in Algeria]]
+
+== References ==
+{{reflist}}
+
+{{Portal bar|Engineering}}
+
+[[Category:Islands of Africa]]
+[[Category:Islands of Algeria]]
+[[Category:Lighthouses in Algeria]]
+
+
+{{Oran-geo-stub}}
+{{island-stub}}

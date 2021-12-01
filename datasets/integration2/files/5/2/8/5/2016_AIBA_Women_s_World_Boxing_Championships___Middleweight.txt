@@ -1,0 +1,92 @@
+{{short description|Boxing competitions}}
+{{Infobox sports competition event
+|event = Middleweight
+|championship = 2016 AIBA Women's World Boxing Championships
+|dates = 21–27 May
+|competitors = 34
+|nations = 34
+|gold = [[Claressa Shields]]
+|gold_nation = USA
+|silver = [[Nouchka Fontijn]]
+|silver_nation = NED
+|bronze = [[Chen Nien-chin]]
+|bronze_nation = TPE
+|bronze2 = [[Savannah Marshall]]
+|bronze2_nation = GBR
+|prev = [[2014 AIBA Women's World Boxing Championships – Middleweight|2014]]
+|next = [[2018 AIBA Women's World Boxing Championships – Middleweight|2018]]
+}}
+{{2016Women'sWorldBoxingChampionships}}
+The '''Middleweight (75&nbsp;kg)''' competition at the [[2016 AIBA Women's World Boxing Championships]] was held from 19 to 27 May 2016.
+
+==Draw==
+===Preliminaries===
+{| class="wikitable" style="text-align: center; font-size:90% "
+! align="right" width="190"|
+!width="60"|Result
+!align="left" width="190"|
+|-
+| align="left"|{{flagicon|TJK}} [[Shoira Zulkaynarova]]
+| align="center"|'''TKO'''
+| align="left"|'''{{flagicon|GER}} [[Sarah Scheurich]]'''
+|-
+| align="left"|'''{{flagicon|TUR}} [[Sema Çalışkan]]'''
+| align="center"|'''WO'''
+| align="left"|{{flagicon|THA}} [[Sudaporn Seesondee]]
+|}
+
+===Main draw===
+{{#invoke:RoundN|N32
+|widescore=yes|bold_winner=high
+|3rdplace=no
+| RD1=Round of 32
+| RD2=Round of 16
+| RD3=Quarterfinals
+| RD4=Semifinals
+| RD5=Final
+<!-- Date-Place/Team 1/Score 1/Team 2/Score 2 -->
+<!-- round of 32-->
+|20 May|{{flagicon|USA}} [[Claressa Shields]]|TKO|{{flagicon|GER}} [[Sarah Scheurich]]|
+|20 May|{{Nowrap|{{flagicon|UZB}} [[Nafisakhon Askarova]]}}|3|{{flagicon|SRI}} [[Nilanthi Andaraweera]]|0
+|20 May|{{flagicon|ARG}} [[Lucía Pérez (boxer)|Lucía Pérez]]|2|{{flagicon|NZL}} [[Deanne Carpenter]]|1
+|20 May|{{flagicon|AUS}} [[Caitlin Parker]]|1|{{flagicon|KAZ}} [[Violleta Knyazeva]]|2
+|20 May|{{flagicon|PAN}} [[Atheyna Byion]]|0|{{flagicon|BRA}} [[Andreia Bandeira]]|3
+|20 May|{{flagicon|CRO}} [[Anamarija Maršić]]|0|{{flagicon|TPE}} [[Chen Nien-chin]]|3
+|20 May|{{flagicon|MAR}} [[Khadija Mardi]]|3|{{flagicon|IRL}} [[Christine Desmond]]|0
+|20 May|{{flagicon|KOR}} [[Kim Shin-hyeong]]|0|{{flagicon|CAN}} [[Ariane Fortin]]|3
+|20 May|{{flagicon|CHN}} [[Li Qian (boxer)|Li Qian]]|3|{{flagicon|VIE}} [[Ngô Thị Chung]]|0
+|20 May|{{flagicon|SWE}} [[Anna Laurell Nash]]|3|{{flagicon|ESP}} [[Tamara García]]|0
+|20 May|{{flagicon|UKR}} [[Mariya Borutsa]]|0|{{flagicon|IND}} [[Pooja Rani]]|3
+|20 May|{{flagicon|GBR}} [[Savannah Marshall]]|3|{{flagicon|AZE}} [[Elena Vystropova]]|0
+|20 May|{{flagicon|FRA}} [[Erika Guerrier]]|3|{{flagicon|HUN}} [[Petra Szatmári]]|0
+|20 May|{{flagicon|PRK}} [[Jang Un-hui]]|1|{{flagicon|DOM}} [[Yenebier Guillén]]|2
+|20 May|{{flagicon|ROU}} [[Marinela Radu]]|0|{{flagicon|POL}} [[Lidia Fidura]]|3
+|20 May|{{flagicon|TUR}} [[Sema Çalışkan]]|0|{{flagicon|NED}} [[Nouchka Fontijn]]|3
+<!-- round of 16-->
+|22 May|{{flagicon|USA}} [[Claressa Shields]]|3|{{flagicon|UZB}} [[Nafisakhon Askarova]]|0
+|22 May|{{flagicon|ARG}} [[Lucía Pérez (boxer)|Lucía Pérez]]|0|{{flagicon|KAZ}} [[Violleta Knyazeva]]|3
+|22 May|{{flagicon|BRA}} [[Andreia Bandeira]]|0|{{flagicon|TPE}} [[Chen Nien-chin]]|3
+|22 May|{{flagicon|MAR}} [[Khadija Mardi]]|2|{{flagicon|CAN}} [[Ariane Fortin]]|0
+|22 May|{{flagicon|CHN}} [[Li Qian (boxer)|Li Qian]]|3|{{flagicon|SWE}} [[Anna Laurell Nash]]|0
+|22 May|{{flagicon|IND}} [[Pooja Rani]]|0|{{flagicon|GBR}} [[Savannah Marshall]]|3
+|22 May|{{flagicon|FRA}} [[Erika Guerrier]]|3|{{flagicon|DOM}} [[Yenebier Guillén]]|0
+|22 May|{{flagicon|POL}} [[Lidia Fidura]]|0|{{flagicon|NED}} [[Nouchka Fontijn]]|3
+<!-- quarter finals -->
+|24 May|{{flagicon|USA}} [[Claressa Shields]]|3|{{flagicon|KAZ}} [[Violleta Knyazeva]]|0
+|24 May|{{flagicon|TPE}} [[Chen Nien-chin]]|3|{{flagicon|MAR}} [[Khadija Mardi]]|0
+|24 May|{{flagicon|CHN}} [[Li Qian (boxer)|Li Qian]]|0|{{flagicon|GBR}} [[Savannah Marshall]]|3
+|24 May|{{flagicon|FRA}} [[Erika Guerrier]]|0|{{flagicon|NED}} [[Nouchka Fontijn]]|3
+<!-- semi finals -->
+|26 May|{{flagicon|USA}} [[Claressa Shields]]|3|{{flagicon|TPE}} [[Chen Nien-chin]]|0
+|26 May|{{flagicon|GBR}} [[Savannah Marshall]]|0|{{flagicon|NED}} [[Nouchka Fontijn]]|3
+<!-- final -->
+|27 May|{{flagicon|USA}} [[Claressa Shields]]|3|{{flagicon|NED}} [[Nouchka Fontijn]]|0
+}}
+
+==References==
+*[https://d21c25674tgiqk.cloudfront.net/2016/02/C75-C75WW75_4.pdf Draw]
+
+{{Footer World Womens Amateur Champions Middleweight}}
+
+{{DEFAULTSORT:2016 AIBA Women's World Boxing Championships - Middleweight}}
+[[Category:2016 AIBA Women's World Boxing Championships|Middleweight]]

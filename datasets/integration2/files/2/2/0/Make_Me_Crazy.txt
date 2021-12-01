@@ -1,0 +1,71 @@
+{{Use dmy dates|date=August 2011}}
+{{Use Australian English|date=August 2011}}
+{{Infobox song
+| name       = Make Me Crazy
+| cover      = Make me crazy Scandal'Us.jpg
+| alt        =
+| type       = single
+| artist     = [[Scandal'us]]
+| album      = [[Startin' Somethin']]
+| released   = 15 July 2001 <small>([[Australia]])</small>
+| format     = [[CD single]]
+| recorded   = [[Sydney]]
+| studio     =
+| venue      =
+| genre      = [[Pop music|Pop]]
+| length     =
+| label      = [[Warner Music]]
+| writer     = Griffin, [[Dinesh Wicks]], Wingate
+| producer   = Michael Szumowski
+| prev_title = [[Me, Myself & I (Scandal'us song)|Me, Myself & I]]
+| prev_year  = 2001
+| next_title =
+| next_year  =
+}}
+
+"'''Make Me Crazy'''" is the second and final single by [[Scandal'us]] from their debut album ''Startin' Somethin{{'}}''. It did not live up to the success of their debut single, "[[Me, Myself & I (Scandal'us song)|Me, Myself & I]]", only managing to debut and peak at No. 30 on the Australian [[ARIA Charts]].<ref>{{cite web |url=http://www.australian-charts.com/showitem.asp?interpret=Scandal%27us&titel=Make+Me+Crazy&cat=s |title=Scandal'Us - Make Me Crazy (song) |work=australian-charts.com |accessdate=15 August 2010}}</ref> This was the last release from the band before they broke up in 2002.
+
+==Track listing==
+; Maxi Single
+# "Make Me Crazy" (3:15)
+# "Make Me Crazy" (Crazy Nights Mix) (3:30)
+# "Make Me Crazy" (Wired Meshmix)	(3:26)
+# "Make Me Crazy" (KCB Klubbmix) (3:34)
+# "Make Me Crazy" (Karaoke Mix) (3:17)
+
+
+==Charts==
+{| class="wikitable"
+!align="left"|Chart (2001)
+!align="left"|Peak<br/>Position
+|-
+|align="left"|Australian [[Australian Recording Industry Association|ARIA]] Singles Chart
+|align="center"|30 
+|}
+
+{| class="wikitable"
+!align="center" bgcolor="white" colspan="31"|Australian ARIA Top 50 Singles Chart
+|- style="background-color: #white;"
+!align="center"|Week
+!01
+!02
+!03
+!04
+!05
+|-
+!align="center" style="background-color: #white;"|Position
+|<center>'''30'''</center>
+|<center>35</center>
+|<center>39</center>
+|<center>43</center>
+|<center>50</center>
+|}
+
+==References==
+{{Reflist}}
+
+{{2000s-pop-single-stub}}
+
+[[Category:2001 singles]]
+[[Category:Warner Music Group singles]]
+[[Category:2001 songs]]

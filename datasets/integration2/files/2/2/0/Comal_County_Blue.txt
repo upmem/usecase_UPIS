@@ -1,0 +1,75 @@
+{{Infobox album|
+|
+| name       = Comal County Blue
+| type       = studio
+| artist     = [[Jason Boland & The Stragglers]]
+| cover      = jbsccb.jpg
+| alt        =
+| released   = August 26, 2008
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Red Dirt (music)|Red Dirt]], [[Texas Country]]
+| length     =
+| label      = Thirty Tigers
+| producer   = [[Lloyd Maines]]
+| prev_title = [[The Bourbon Legend]]
+| prev_year  = 2006
+| next_title = [[High in the Rockies: A Live Album]]
+| next_year  = 2010
+}}
+
+'''''Comal County Blue''''' is [[Jason Boland & The Stragglers]]'s sixth album. It was released in August 2008. The album is dedicated to the late Bob Childers and Jerry "Uncle Stoney" Newport. It is the third album by the band to be produced by [[Lloyd Maines]]. The album features a duet with Texas singer/songwriter, [[Robert Earl Keen]], entitled "The Party's Not Over." The tenth track was co-written with [[Cody Canada]] of [[Cross Canadian Ragweed]] and is recorded on the band's 1998 album, ''Carney''. The last track on the album is a version of the song, "Outlaw Band," written by Bob Childers and Randy Crouch.
+
+Jennifer Webb of [[About.com]] gave the album 4.5 stars out of 5.<ref>{{Cite web |url=http://countrymusic.about.com/od/cdreviewsal/fr/ComalCountyBlue.htm |title=Archived copy |access-date=2013-02-28 |archive-url=https://web.archive.org/web/20130403041408/http://countrymusic.about.com/od/cdreviewsal/fr/ComalCountyBlue.htm |archive-date=2013-04-03 |url-status=dead }}</ref>
+
+==Track listing==
+#"Sons And Daughters Of Dixie" (Jason Boland) - 3:49
+#"Down Here On Earth" (Boland) - 3:05
+#"Comal County Blue" (Boland) - 4:02
+#"Something You Don't See Everyday" (Boland) - 4:04
+#"Bottle By My Bed" (Boland) - 5:14
+#"The Party's Not Over" ft. [[Robert Earl Keen]] (Boland, Roger Ray) - 3:46
+#"If It Were Up To Me" (Boland) - 3:56
+#"May Not Be Love" (Boland) - 3:43
+#"No Reason Being Late" (Boland, Johnny Burke) - 3:12
+#"Alright" (Boland, [[Cody Canada]]) - 3:05
+#"God Is Mad At Me" (Boland, Jackson Taylor) - 4:12
+#"Outlaw Band" ([[Bob Childers]], [[Randy Crouch]], Layle Stagner) - 5:04
+
+==Personnel==
+*Jason Boland - Vocals, Acoustic Guitar
+*Roger Ray - Lead Guitar, Pedal Steel, Lap Steel, 12 String, Dobro
+*Grant Tracy - Bass, Harmony Vocals
+*Brad Rice - Drums, Djembe (Jimbay)
+*Noah Jeffries - Banjo, Fiddle, Mandolin
+*Lloyd Maines - Acoustic Guitar, Baritone Guitar
+*John Micael Whitby - B3 Organ, Piano
+*Drew Womack - Harmony Vocals
+*Robert Earl Keen - Vocals
+*Jessica Murray - Harmony Vocals
+
+==Chart performance==
+{| class="wikitable"
+! Chart (2008)
+! Peak<br />position
+|-
+| U.S. ''Billboard'' Top Country Albums
+| align="center"| 30
+|-
+| U.S. ''Billboard'' 200
+| align="center"| 160
+|-
+| U.S. ''Billboard'' Top Heatseekers
+| align="center"| 2
+|-
+| U.S. ''Billboard'' Independent Albums
+| align="center"| 19
+|}
+
+== References ==
+{{reflist}}
+
+{{Jason Boland & the Stragglers}}
+[[Category:Jason Boland & The Stragglers albums]]
+[[Category:2008 albums]]

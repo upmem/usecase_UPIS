@@ -1,0 +1,32 @@
+The '''Operation National Sword''' was a policy initiative launched in 2017 by the [[Government of China]] to monitor and more stringently review recyclable waste imports.<ref name="complydirect.com">{{cite web |title=Global markets and material price updates |url=https://www.complydirect.com/news/global-markets-and-material-price-updates/ |website=complydirect.com |accessdate=1 May 2020}}</ref> Before the policy, China was importing the vast majority of recyclables from North America and Europe for two decades. This practice of buying recyclables, brought raw materials for the growing industrial capacity of China, but also brought a lot of contaminated recyclables which ended up accruing in China, causing other environmental concerns such as air and water pollution.
+
+The action was interpreted as an international relations move by China against [[Western world|Western countries]].<ref name="atlanticcouncil.orgsw">{{cite web|title=Recycling is going to waste!|url=https://www.atlanticcouncil.org/blogs/energysource/recycling-is-going-to-waste/|accessdate=1 May 2020|website=atlanticcouncil.org}}</ref> The policy caused a [[ripple effect]] in the global recyclables market, causing major pile ups in Western countries who had been collecting lower quality recyclables in [[single-stream recycling]], and displacing some of those recyclable to other countries, mostly in South East Asia, like Vietnam and Malaysia.
+
+== Background ==
+
+The Chinese Government implemented the [[Operation Green Fence]] in February 2013. This initiative antecedes the Operation National Sword, as it was already launched as an aggressive inspection effort aimed at reducing the amount of contaminated recyclables and waste that was being sent to the country.<ref>{{cite web |title=Why American towns are more selective than ever about what they recycle |url=https://bigthink.com/politics-current-affairs/recycling-industry?rebelltitem=2#rebelltitem2 |website=bigthink.com |accessdate=1 May 2020}}</ref>
+
+== Implementation ==
+
+In April 2017, [[Communist Party of China|Chinese Communist Party]] [[General Secretary of the Communist Party of China|general secretary]] [[Xi Jinping]] in a speech during the 34th meeting of the Reform Enforcement Task Force emphasized the country's focus on environmental issues related to foreign "waste". China then notified the [[World Trade Organization]] (WTO) in 18 July 2017 that it intends to ban additional "solid waste" imports by year-end.<ref>{{Cite web|title=WTO {{!}} 2017 News items – China's import ban on solid waste queried at import licensing meeting|url=https://www.wto.org/english/news_e/news17_e/impl_03oct17_e.htm|access-date=26 April 2019|website=www.wto.org}}</ref> This includes plastics waste, unsorted waste paper and waste textile materials. China also announced that the percentage of contaminants allowed in recycled materials would drop from 5–10% to 0.5%.<ref>{{Cite journal|last=Waldrop|first=M. Mitchell|date=2020-10-01|title=Recycling meets reality|url=https://www.knowablemagazine.org/article/sustainability/2020/recycling-meets-reality|journal=Knowable Magazine|doi=10.1146/knowable-092920-1}}</ref> In March 2018, the National Sword policy came into effect, banning the import of 24 categories of scrap materials, including low-grade plastics and unsorted mixed paper.<ref>{{Cite web|last=李松|title=California feeling effects of China's waste ban – Chinadaily.com.cn|url=http://global.chinadaily.com.cn/a/201806/04/WS5b14f166a31001b82571e0ac.html|access-date=26 April 2019|website=global.chinadaily.com.cn}}</ref>
+
+== Impact ==
+
+After the implementation of the policy, a knock-on effect was caused on the amount of plastic accepted for import by Chinese re-processors.<ref name="complydirect.com"/> Immediately after the Chinese notification in July 2017, organizations such as the [[Institute of Scrap Recycling Industries]] and the [[Bureau of International Recycling]] warned that this action would cause job losses, shut down many recycling facilities and send more waste to landfills.<ref name="dssa">{{cite web |title=Will China's crackdown on 'foreign garbage' force wealthy countries to recycle more of their own waste? |url=https://theconversation.com/will-chinas-crackdown-on-foreign-garbage-force-wealthy-countries-to-recycle-more-of-their-own-waste-81440 |website=theconversation.com |accessdate=1 May 2020}}</ref> The ONS encouraged the [[Western world]] to turn to nations like [[Malaysia]], the [[Philippines]], [[Cambodia]], [[Thailand]], and [[India]], among other countries. However, by early 2019, many Southeast Asian countries also started to reject the waste as well.<ref name="atlanticcouncil.orgsw"/> A 2018 study by Brooks et al. estimated that ONS could displace an estimated 111 million tons of discarded plastic by 2030.<ref>{{cite book |last1=O'Neill |first1=Kate |title=Waste |url=https://books.google.com/books?id=wXGtDwAAQBAJ&q=%22operation+national+sword%22&pg=PT113}}</ref>
+
+=== Impact on plastic recycling ===
+One of the main reasons that China implemented of the 2017 National Sword Policy, was to decrease the import of low quality plastics that are hard to [[Plastic recycling|sort and recycle]] and were accumulating in trash dumps and at recyclers.<ref name=":0">{{Cite web|title=Piling Up: How China’s Ban on Importing Waste Has Stalled Global Recycling|url=https://e360.yale.edu/features/piling-up-how-chinas-ban-on-importing-waste-has-stalled-global-recycling|access-date=2020-10-12|website=Yale E360|language=en-US}}</ref> Before the ban, 95% of plastics collected in the European Union and 70 percent of plastics collected in the U.S. were sent to China.<ref name=":0" /> Most of these plastics were low quality, because of [[Single-stream recycling|single stream collection]] and increased complexity of separating different colors and types of plastic.<ref name=":0" /> 
+
+Upon implementation of the policy in 2017, plastic imports to China plummeted by 99%.<ref name=":0" /> This lead to [[waste stream]] backlogs across Europe and North America.<ref name=":0" /> When they could find buyers, most European plastic was diverted to  Indonesia, Turkey, India, Malaysia, and Vietnam.<ref name=":0" />
+
+== See also ==
+
+* [[Operation Green Fence]]
+* [[China waste import ban]]
+
+== References ==
+
+{{reflist|30em}}
+
+[[Category:Environmental issues in China]]
+[[Category:Pollution in China]]

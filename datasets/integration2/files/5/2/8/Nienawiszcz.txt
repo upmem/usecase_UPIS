@@ -1,0 +1,35 @@
+{{Infobox settlement
+| name = Nienawiszcz
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline = Nienawiszcz (lake).jpg
+| image_caption = Jezioro Nienawiszcz Duża (Lake in Nienawiszcz)
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Rogoźno|Rogoźno]]
+|pushpin_map=Poland
+|coordinates = {{coord|52|40|59|N|16|59|45|E|type:city_region:PL_source:GNS-enwiki|display=inline,title|notes=<ref>{{cite web |title=GeoNames.org |url=https://www.geonames.org/3090944/nienawiszcz.html |website=www.geonames.org |accessdate=19 February 2020}}</ref>}}
+| elevation_m =
+| population_total =
+| postal_code = 64-610<ref>{{cite web |title=Oficjalyn Spis Pocztowych Numerów Adresowych |url=http://www.poczta-polska.pl/hermes/uploads/2013/02/spispna.pdf?84cd58 |website=www.poczta-polska.pl |accessdate=19 February 2020 |page=813 |language=pl |date=2013}}</ref>
+| registration_plate = POB
+| blank1_name_sec1 = [[System identyfikatorów i nazw miejscowości|SIMC]]
+| blank1_info_sec1 = 0529031
+| website = }}
+'''Nienawiszcz''' {{IPAc-pl|ń|e1|'|n|a|w|i|sz|cz}} is a [[village]] in the administrative district of [[Gmina Rogoźno]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) &ndash; TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|8|km|mi|0}} south of [[Rogoźno]], {{convert|13|km|mi|0|abbr=on}} east of [[Oborniki]], and {{convert|32|km|mi|0|abbr=on}} north of the regional capital [[Poznań]].
+
+==References==
+{{reflist}}
+
+{{Gmina Rogoźno}}
+
+[[Category:Villages in Oborniki County|Nienawiszcz]]
+{{Oborniki-geo-stub}}

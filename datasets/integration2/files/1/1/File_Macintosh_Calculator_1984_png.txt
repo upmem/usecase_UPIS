@@ -1,0 +1,14 @@
+== Summary ==
+{{Non-free use rationale
+ |Article           = Calculator (Apple)
+ |Description       = Original calculator application from 128k Macintosh
+ |Source            = Screenshot 
+ |Portion           = Entire window
+ |Low_resolution    = No
+ |Purpose           = To provide visual reference
+ |Replaceability    = Replaceable
+ |other_information = 
+}}
+
+== Licensing ==
+{{non-free software screenshot|image has rationale=yes}}

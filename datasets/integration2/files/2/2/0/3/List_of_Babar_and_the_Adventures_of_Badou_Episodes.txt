@@ -1,0 +1,5 @@
+#REDIRECT [[Babar and the Adventures of Badou#Episodes]]
+
+{{Redirect category shell|
+{{R to section}}
+}}

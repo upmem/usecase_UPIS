@@ -1,0 +1,42 @@
+{{Use dmy dates|date=November 2019}}
+{{Use Irish English|date=November 2019}}
+{{Infobox road
+|country = IRL
+|type = R
+|route = 164
+|length_km = 36
+|destinations = 
+* '''[[County Cavan]]'''
+** [[Kingscourt]] - ([[R162 road|R162]]), ([[R165 road|R165]])
+* '''[[County Meath]]'''
+** ''Boggan Cross Roads''
+** [[Moynalty]] - ([[R194 road|R194]])
+** Crosses the ''[[Kells Blackwater|River Blackwater]]'' 
+** [[Kells, County Meath|Kells]] ''joins'' [[R147 road (Ireland)|R147]] ''then'' [[N52 road (Ireland)|N52]], ''leaves'' N52
+** [[Scurlockstown]] 
+** [[Fordstown]]
+** ''Terminates at the'' [[N51 road (Ireland)|N51]] ''near'' [[Athboy]]
+}}
+The '''R164 road''' is a [[Regional road (Ireland)|regional road]] in [[Republic of Ireland|Ireland]], linking [[Kingscourt]] in [[County Cavan]] to the [[N51 road (Ireland)|N51]] near [[Athboy]], [[County Meath]].
+
+==Route==
+[[File:IMG R164overBlackwater.jpg|thumb|left|R164 crosses the Blackwater near Kells]]
+North to South the route starts in Kingscourt, County Cavan and in 2 km crosses into County Meath. It continues southwards through [[Moynalty]], across the [[Kells Blackwater]] river and into [[Kells, County Meath|Kells]]. 
+
+In Kells it joins the [[R147 road (Ireland)|R147]] at ''Carrick Street'' and continues through ''Castle Street''; turns into the [[N52 road (Ireland)|N52]] at ''Cross Street''; continues through ''Farrell Street'' and ''Bective Street'' before leaving the N52 and heading south along ''Rockfield Street''.
+
+It leaves Kells south through [[Scurlockstown]] and [[Fordstown]] before terminating at the [[N51 road (Ireland)|N51]] 3 km east of [[Athboy]].
+
+==See also==
+*[[Roads in Ireland]]
+*[[National primary road]]
+*[[National secondary road]]
+
+==References==
+*[https://web.archive.org/web/20070927005411/http://www.transport.ie/upload/general/7617-0.pdf Roads Act 1993 (Classification of Regional Roads) Order 2006] – [[Department of Transport, Tourism and Sport|Department of Transport]]
+
+{{Roads in Ireland}}
+
+[[Category:Regional roads in the Republic of Ireland]]
+[[Category:Roads in County Meath]]
+[[Category:Roads in County Cavan]]

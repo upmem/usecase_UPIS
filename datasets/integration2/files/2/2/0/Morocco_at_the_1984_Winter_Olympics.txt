@@ -1,0 +1,119 @@
+{{infobox country at games
+| NOC = MAR
+| NOCname = [[Moroccan Olympic Committee]]<br> {{lang-ar|اللجنة الأولمبية الوطنية المغربية|links=no}}
+| games = Winter Olympics
+| year = 1984
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.cnom.org.ma }}&nbsp;{{in lang|fr}}
+| location = [[Sarajevo]]
+| competitors = 4 (man)
+| sports = 1
+| flagbearer = 
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+'''[[Morocco]]''' competed at the '''[[1984 Winter Olympics]]''' in [[Sarajevo]], [[Socialist Federal Republic of Yugoslavia|Yugoslavia]].
+
+==Alpine skiing==
+{{main|Alpine skiing at the 1984 Winter Olympics}}
+
+;Men
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Race 1
+!colspan="2"|Race 2
+!colspan="2"|Total
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|[[Hamid Oujebbad]]
+|rowspan="4"|Giant Slalom
+|align="center"|1:58.13
+|align="center"|80
+|align="center"|2:08.56
+|align="center"|74
+|align="center"|4:06.69
+|align="center"|74
+|-
+|[[Brahim Ait Sibrahim]]
+|align="center"|1:56.32
+|align="center"|77
+|align="center"|DNF
+|align="center"|&ndash;
+|align="center"|DNF
+|align="center"|&ndash;
+|-
+|[[Ahmed Ait Moulay]]
+|align="center"|1:54.54
+|align="center"|75
+|align="center"|2:03.41
+|align="center"|71
+|align="center"|3:57.95
+|align="center"|73
+|-
+|[[Ahmad Ouachit]]
+|align="center"|1:45.17
+|align="center"|65
+|align="center"|1:56.94
+|align="center"|65
+|align="center"|3:42.11
+|align="center"|64
+|-
+|[[Ahmed Ait Moulay]]
+|rowspan="3"|Slalom
+|align="center"|1:24.80
+|align="center"|64
+|align="center"|1:18.45
+|align="center"|43
+|align="center"|
+|align="center"|
+|-
+|[[Brahim Ait Sibrahim]]
+|align="center"|1:18.90
+|align="center"|60
+|align="center"|DNF
+|align="center"|&ndash;
+|align="center"|DNF
+|align="center"|&ndash;
+|-
+|[[Ahmad Ouachit]]
+|align="center"|1:13.14
+|align="center"|54
+|align="center"|1:10.34
+|align="center"|37
+|align="center"|2:23.38
+|align="center"|38
+|}
+
+==References==
+*[https://web.archive.org/web/20070612020125/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+* [https://web.archive.org/web/20200417042618/https://www.sports-reference.com/olympics/winter/1984/ Olympic Winter Games 1984, full results by sports-reference.com]
+
+{{Nations at the 1984 Winter Olympics}}
+
+[[Category:Nations at the 1984 Winter Olympics]]
+[[Category:Morocco at the Winter Olympics by year|1984 Winter Olympics]]
+[[Category:1984 in Moroccan sport]]
+
+
+{{Morocco-sport-stub}}
+{{1984-winter-Olympic-stub}}

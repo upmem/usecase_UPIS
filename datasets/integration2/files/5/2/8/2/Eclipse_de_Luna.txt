@@ -1,0 +1,185 @@
+{{short description|album by Maite Perroni}}
+{{Infobox album
+| name       = Eclipse de Luna
+| type       = Album
+| artist     = [[Maite Perroni]]
+| cover      =
+| alt        =
+| released   = August 23, 2013 <small>(World)</small><br>November 14, 2013 <small>(Brazil)</small><br>July 15, 2014 <small>(Editión De Luxe)(Mexico)</small>
+| recorded   = 2013
+| venue      =
+| studio     =
+| genre      = [[Pop music|Pop]], [[Bachata (music)|Bachata]]
+| length     =
+| label      = [[Warner Music Group]]
+| producer   =
+| prev_title = Discography of [[RBD]]
+| prev_year  = 2004-2009
+| next_title = 
+| next_year  =
+| misc       = {{Singles
+ | name        = Eclipse de Luna
+ | type        = Studio
+ | single1     = Tú y Yo
+ | single1date = June 17, 2013
+ | single2     = Eclipse de Luna
+ | single2date = September 17, 2013
+ | single3     = Inexplicable feat. Thiaguinho
+ | single3date = November 01, 2013
+ | single4     = Vas a Querer Volver
+ | single4date = April 29, 2014
+ | single5     = Como Se Explica O Amor
+ | single5date = July 15, 2014
+ | single6     = Todo Lo Que Soy
+ | single6date = July 19, 2014
+}}
+}}
+
+'''''Eclipse De Luna''''' is the debut solo album by Mexican singer [[Maite Perroni]]. It was released on August 23, 2013 through Warner Music . Its physical edition was distributed four days later. On September 6, [[Maite Perroni]] announced her record label was going to launch a Brazilian edition with appearance by Thiaguinho.
+
+==Background==
+In February 2013, it was announced that the singer moved to [[New York City]] to study music and prepare her solo debut album. On April 12, 2013, during an interview with [[People en Español]], Perroni stated ''- "It is a hard pretentious. We are not here to bring sounds never heard before. Just want to feel , to move the body and soul. I've been writing for a couple of weeks and need to record four songs to finish the album."''
+
+On June 17, 2013, through a twit cam, Perroni released the lyric video for the song " Tú y Yo"; the first single from the album in her official channel on [[YouTube]]. The single's release was scheduled for June 14, but was released on June 18, 2013, digitally.
+
+==Track listing==
+*1ª Tú y Yo
+*2ª Como Yo
+*3ª Me Va
+*4ª Inexplicable
+*5ª Y Lloro (And I Cry)
+*6ª Agua Bendita
+*7ª Llueve, llueve
+*8ª Eclipse De Luna
+*9ª Melancolía (Saudade)
+*10ª ¿Qué Te Hace Falta?
+*11ª Sueño Contigo
+*12ª Ojos Divinos (feat. Koko Stambuk)
+
+===[[iTunes]] Bonus Track===
+*13ª Los Cangrejos
+
+===Brazilian Edition===
+*13ª "Inexplicable" – (feat. [[Thiago André Barbosa|Thiaguinho]])
+
+===Deluxe Edition===
+*13ª Vas a Querer Volver
+*14ª Todo lo Que Soy (feat. [[Álex Ubago]])
+*15ª Loca de Amor
+*16ª Los Cangrejos
+*17ª Tú y Yo (videoclip)
+*18ª Eclipse de Luna (videoclip)
+*19ª Eclipse de Luna (Baile) (videoclip)
+
+===Single===
+*1ª Como se Explica o Amor? (Song for Meu Pecado)
+
+== Charts ==
+The album debuted on the ''[[Billboard (magazine)|Billboard]]'' [[Top Latin Albums]] at number 9 and at number 2 on the [[Latin Pop Albums]].<ref>[http://www.billboard.com/charts/latin-pop-albums]</ref> On the Mexican Albums Chart the album debuted at number 3.<ref>[https://web.archive.org/web/20130608025654/http://www.amprofon.com.mx/top-20.php]</ref>
+
+{|class="wikitable sortable"
+|-
+!Charts (2013)
+!Peak<br />position
+|-
+|[[AMPROFON|Mexican Albums Chart]]<ref>[https://web.archive.org/web/20130608025654/http://www.amprofon.com.mx/top-20.php]</ref>
+| style="text-align:center;"|3
+|-
+|U.S. ''[[Billboard (magazine)|Billboard]]'' [[Top Latin Albums]]<ref>{{cite web|url=http://www.billboard.com/charts/latin-albums?page=3 |title=Top Latin Albums: Page 4 |publisher=Billboard |accessdate=2013-09-21}}</ref>
+| style="text-align:center;"|9
+|-
+|U.S. ''Billboard'' [[Latin Pop Albums]]<ref>{{cite web |url=http://www.billboard.com/charts/latin-pop-albums |title=Latin Pop Albums: Page 1 |publisher=Billboard |accessdate=2013-09-21}}</ref>
+| style="text-align:center;"|2 
+|}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders"
+|-
+!Chart (2013)
+!Position
+|-
+!scope="row"|Brazilian Albums Chart<ref>{{cite web|url=http://fotpforums.com/topic/71921-year-end-chart-brazil-2013-albums/ |title=Year End Chart Brazil 2013 |publisher=fotpforums.com |date=2013-12-21 |accessdate=2013-12-27}}</ref>
+| style="text-align:center;"|99
+|}
+
+{| class="wikitable sortable plainrowheaders"
+|-
+!Chart (2014)
+!Position
+|-
+!scope="row"|Brazilian Albums Chart<ref>{{cite news|url=http://www.abpd.hospedagemdesites.ws/home/numeros-do-mercado/ano-2014/ |title=20 DVDs MAIS VENDIDOS NO BRASIL - Ano 2014|language=Portuguese |accessdate=August 3, 2015|work=ABPD}}</ref>
+| style="text-align:center;"|88
+|}
+
+===''Singles''===
+{|class="wikitable"
+!rowspan="2"|Year
+!rowspan="2"|Song
+!colspan="9"|Peaks
+!rowspan="2"|Album
+|-
+!align="center" width="30"| <small>[[México|MEX Monitor Latino]]</small>
+!align="center" width="30"| <small>[[México|MEX Monitor Latino Pop]]</small>
+!align="center" width="30"| <small>[[México|MEX Billboard México Airplay]]</small>
+!align="center" width="30"| <small>[[México|MEX Billboard México Español Airplay]]</small>
+!align="center" width="30"| <small>GRE Billboard Digital Songs</small>
+!align="center" width="30"| <small>[[Costa Rica|COS Monitec]]</small>
+!align="center" width="30"| <small>[[Billboard (magazine)|US Latin Pop]]</small>
+!align="center" width="30"| <small>[[Billboard (magazine)|US Latin Digital]]</small>
+!align="center" width="30"| <small>[[Billboard (magazine)|US Latin Digital Pop]]</small>
+|-
+|2013
+| Tú y Yo
+| align="center" |65
+| align="center" |25
+| align="center" |9
+| align="center" |4
+| align="center" |4
+| align="center" |1
+| align="center" |20
+| align="center" |25
+| align="center" |12
+| rowspan="4" align="center" |''Eclipse de Luna''
+|-
+|2013
+| Eclipse de Luna
+| align="center" |122
+| align="center" |43
+| align="center" |27
+| align="center" |12
+| align="center" |11
+| align="center" |5
+| align="center" |—
+| align="center" |—
+| align="center" |—
+|-
+|2014
+| Vas a Querer Volver
+| align="center" |62
+| align="center" |20
+| align="center" |19
+| align="center" |6
+| align="center" |—
+| align="center" |3
+| align="center" |19
+| align="center" |—
+| align="center" |19
+|-
+|2014
+| Todo Lo Que Soy (feat. [[Alex Ubago]])
+| align="center" |—
+| align="center" |—
+| align="center" |24
+| align="center" |6
+| align="center" |—
+| align="center" |—
+| align="center" |—
+| align="center" |—
+| align="center" |—
+|}
+
+==References==
+{{reflist|2}}
+
+[[Category:Maite Perroni albums]]
+[[Category:2013 debut albums]]

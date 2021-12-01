@@ -1,0 +1,22 @@
+{{Information
+||Description = Book cover, [[Sabre River (module)|Sabre River]] by [[Douglas Niles]] & [[Bruce Nesmith]]
+|Source = wizards.com, URL = http://wizards.com/ 
+|Date = 1984
+|Author = Original cover artwork by [[Keith Parkinson]] 
+|Permission = Fair use of copyrighted material (book cover) 
+|other_versions = }}
+
+== Licensing ==
+This image is of a book cover{{Non-free book cover|image has rationale=yes|category=Dungeons & Dragons module covers}}
+{{Non-free use rationale|Description=Book cover, [[Sabre River (module)|Sabre River]] by [[Douglas Niles]] & [[Bruce Nesmith]]
+|Source= Scanned by DM2ortiz
+|Portion=Front cover
+|Low_resolution= Yes.
+|Article=Sabre River
+|Purpose=The image is used as the primary means of visual identification of the article topic. 
+|Replaceability=No free alternative exists.
+|other_information=
+}}
+
+==Original uploader information==
+* 20:53, 7 June 2007 . . {{user3|Dm2ortiz}} . . 848×1067 (212,949 bytes) ''(== Summary == Information ||Description = Book cover, Sabre River by Douglas Niles & Bruce Nesmith |Source = wizards.com, URL = http://wizards.com/ |Date = 1984 |Author = Original cover artwork by Keith Parkinson )''

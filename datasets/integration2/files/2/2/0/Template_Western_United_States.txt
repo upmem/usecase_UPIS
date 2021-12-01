@@ -1,0 +1,107 @@
+{{Navbox
+| title     = [[Western United States]]
+| listclass = hlist
+| basestyle = background:#ECA8B3;
+| name      = Western United States
+| collapse_state = <includeonly>{{{1|autocollapse}}}</includeonly><noinclude>expanded</noinclude>
+
+| group1 = Regions
+| list1  = 
+* [[Rocky Mountains]]
+* [[Great Basin]]
+* [[West Coast of the United States|West Coast]]
+* [[Pacific Northwest]]
+* [[Mountain States]]
+
+| group2 = [[U.S. state|States]]
+| list2  = 
+<!-- Definitions of the Western US are not unanimous. A consensus of the inclusion of certain states and cities should be reached in the discussion. No edit wars, please! -->
+* [[Alaska]]
+* [[Arizona]]
+* [[California]]
+* [[Colorado]]
+* [[Hawaii]]
+* [[Idaho]]
+* [[Montana]]
+* [[Nevada]]
+* [[New Mexico]]
+* [[Oregon]]
+* [[Utah]]
+* [[Washington (state)|Washington]]
+* [[Wyoming]]
+
+| group3 = [[Territories of the United States|Territories]]
+| list3 =
+* [[American Samoa]]
+* [[Guam]]
+* [[Northern Mariana Islands]]
+
+| group4 = [[Metropolitan area|Major metropolitan areas]]
+| list4  = 
+* [[Los Angeles metropolitan area|Los Angeles]]
+** [[Greater Los Angeles|Greater LA]]
+* [[Phoenix metropolitan area|Phoenix]]
+* [[San Francisco Bay Area]]
+** [[San Jose–San Francisco–Oakland, CA Combined Statistical Area|San Jose–Oakland]]
+* [[Inland Empire (California)|San Bernardino-Riverside]] 
+* [[Seattle metropolitan area|Seattle]]
+* [[San Diego metropolitan area|San Diego]]
+* [[Denver metropolitan area|Denver]]
+* [[Portland metropolitan area|Portland]]
+* [[Las Vegas Valley|Las Vegas]]
+** [[Las Vegas–Paradise, NV MSA|Paradise]]
+* [[Sacramento metropolitan area|Sacramento]]
+* [[Salt Lake City metropolitan area|Salt Lake City]]
+* [[Honolulu County, Hawaii|Honolulu]]
+** [[Oahu]]
+* [[Albuquerque metropolitan area|Albuquerque]]
+** [[Albuquerque–Santa Fe–Las Vegas combined statistical area|Santa Fe]]
+* [[Anchorage metropolitan area|Anchorage]]
+
+| group5 = [[List of United States cities by population|Major cities]]
+| list5  = 
+* [[Anchorage, Alaska|Anchorage]]
+* [[Albuquerque]]
+* [[Denver]]
+* [[Honolulu]]
+* [[Las Vegas]]
+* [[Los Angeles]]
+* [[Long Beach, California|Long Beach]]
+* [[Oakland, California|Oakland]]
+* [[Phoenix, Arizona|Phoenix]]
+* [[Portland, Oregon|Portland]]
+* [[Reno, Nevada|Reno]]
+* [[Riverside, California|Riverside]]
+* [[Sacramento, California|Sacramento]]
+* [[San Bernardino, California|San Bernardino]]
+* [[San Diego]]
+* [[San Francisco]]
+* [[San Jose, California|San Jose]]
+* [[Salt Lake City]]
+* [[Seattle]]
+* [[Spokane, Washington|Spokane]]
+* [[Tucson, Arizona|Tucson]]
+
+| group6 = [[List of capitals in the United States|State capitals]]
+| list6  = 
+* [[Boise, Idaho|Boise]]
+* [[Carson City, Nevada|Carson City]]
+* [[Cheyenne, Wyoming|Cheyenne]]
+* [[Denver]]
+* [[Helena, Montana|Helena]]
+* [[Honolulu]]
+* [[Juneau, Alaska|Juneau]]
+* [[Olympia, Washington|Olympia]]
+* [[Phoenix, Arizona|Phoenix]]
+* [[Sacramento, California|Sacramento]]
+* [[Salem, Oregon|Salem]]
+* [[Salt Lake City]]
+* [[Santa Fe, New Mexico|Santa Fe]]
+
+| group7 = [[List of capitals in the United States|Territorial capitals]]
+| list7 = 
+* [[Hagåtña, Guam|Hagåtña]]
+* [[Pago Pago]]
+* [[Saipan]]
+
+}}<noinclude>[[Category:United States regions templates]]</noinclude>

@@ -1,0 +1,37 @@
+{{Speciesbox
+|image = Sidalcea robusta (5987756437).jpg
+|status = G2
+|status_system = TNC
+|genus = Sidalcea
+|species = robusta
+|authority = [[Amos Arthur Heller|A.Heller]] ''ex'' [[Eva Myrtelle Roush|Roush]]<ref name=PLANTS>{{PLANTS|id=SIRO2|taxon=Sidalcea robusta|accessdate=12 November 2015}}</ref>
+}}
+
+'''''Sidalcea robusta''''' is an uncommon species of flowering plant in the [[Malvaceae|mallow family]] known by the common name '''Butte County checkerbloom'''.<ref name=PLANTS/>
+
+==Description==
+{{unsourced-section|date=November 2019}}
+This [[rhizome|rhizomatous]] perennial herb produces a sturdy stem which can exceed a meter in height. ''Sidalcea robusta'' is mostly hairless above with sparse hairs near the base. The leaves are divided into pointed lobes and have bristly hairs on their upper surfaces. The [[inflorescence]] is a long, open series of flowers which can be {{convert|30|-|40|cm|abbr=on}} in length. The flowers each have five pale pink petals up to {{convert|3.5|cm|abbr=on}} long that turn yellowish as they dry.
+
+==Distribution==
+''Sidalcea robusta'' is [[Endemism|endemic]] to [[Butte County, California]], where it is known from about 20 occurrences, including some near [[Chico, California|Chico]]. It is a resident of [[chaparral]] and woodland habitat in mountain foothills.
+
+It is an [[Endangered species]] listed by the [[California Native Plant Society]] Inventory of Rare and Endangered Plants and [[The Nature Conservancy]].<ref>[http://www.rareplants.cnps.org/detail/1125.html California Native Plant Society, Inventory of Rare and Endangered Plants (online edition, v8-02): ''Sidalcea robusta''] . accessed 3.8.2016.</ref><ref>[http://www.natureserve.org/explorer/servlet/NatureServe?searchName=Sidalcea+robusta The Nature Conservancy, Imperiled flora: ''Sidalcea robusta'']</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7584 Calflora Database: ''Sidalcea robusta''  (Butte County checkerbloom)]
+*[http://herbaria4.herb.berkeley.edu/eflora_display.php?tid=44438 Jepson Manual eFlora (TJM2) treatment of ''Sidalcea robusta'']{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://plants.usda.gov/java/profile?symbol=SIRO2 USDA Plants Profile for ''Sidalcea robusta'' (Butte County checkerbloom)]
+*[http://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Sidalcea+robusta UC CalPhotos gallery: ''Sidalcea robusta'']
+
+{{Taxonbar|from=Q7507998}}
+
+[[Category:Sidalcea|robusta]]
+[[Category:Endemic flora of California]]
+[[Category:Natural history of the California chaparral and woodlands]]
+[[Category:Natural history of Butte County, California]]
+[[Category:Chico, California]]
+{{Malveae-stub}}

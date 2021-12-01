@@ -1,0 +1,367 @@
+{{for|the [[owarai]] term|Glossary of owarai terms#shimoneta}}
+{{short description|Japanese light novel, manga, and anime series}}
+{{Infobox animanga/Header
+| name            = Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist
+| image           = Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai light novel volume 1 cover.jpg
+| caption         = First light novel volume cover featuring Ayame Kajou.
+| ja_kanji        = 下ネタという概念が存在しない退屈な世界
+| ja_romaji       = Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
+| genre           = {{ubl|[[Dystopian]]<ref>{{cite web |last1=Dempsey |first1=Joe |title=The Sex-Obsessed Cyberpunk Dystopia of Shimoneta |url=https://www.animenewsnetwork.com/feature/2015-10-28/the-sex-obsessed-cyberpunk-dystopia-of-shimoneta/.94709 |website=Anime News Network |accessdate=November 5, 2018 |date=October 28, 2015}}</ref>|[[School story|School]] [[comedy]]<ref>{{cite web |last1=Loo |first1=Egan |title=Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai School Comedy Novels Get Anime |url=https://www.animenewsnetwork.com/news/2014-10-16/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-school-comedy-novels-get-anime/.80009 |website=[[Anime News Network]] |accessdate=November 5, 2018 |date=October 16, 2014}}</ref>|[[Sex comedy]]<ref>{{cite web |last1=Osmond |first1=Andrew |title=Evangelion 1.11 and Shimoneta Released Monday |url=https://www.animenewsnetwork.com/news/2017-04-23/evangelion-1.11-and-shimoneta-released-monday/.115184 |website=[[Anime News Network]] |accessdate=January 3, 2020 |date=April 23, 2017}}</ref><ref>{{cite web |last1=Browne |first1=Nicoletta Christina |title=Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist |url=https://www.themanime.org/viewreview.php?id=1800 |website=T.H.E.M. Anime Reviews |accessdate=June 25, 2020}}</ref>}}<!-- Genres should be based on what reliable sources list them as and not on personal interpretations. Limit of the three most relevant genres in accordance with [[MOS:A&M]]. -->
+}}
+{{Infobox animanga/Print
+| type            = light novel
+| author          = Hirotaka Akagi
+| illustrator     = Eito Shimotsuki
+| publisher       = [[Shogakukan]]
+| demographic     = Male
+| imprint           = [[Gagaga Bunko]]
+| first           = July 18, 2012
+| last            = February 18, 2016
+| volumes         = 11 + 1 Extra
+| volume_list     = #Light novels
+}}
+{{Infobox animanga/Print
+| type            = manga
+| title           = Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai: Man**-hen
+| author          = Hirotaka Akagi
+| illustrator     = Yuzuki N'
+| publisher       = [[Mag Garden]]
+| demographic     = ''[[Shōnen manga|Shōnen]]''
+| magazine        = [[Monthly Comic Blade]]
+| first           = March 28, 2014
+| last            = February 5, 2016
+| volumes         = 4
+| volume_list     = #Manga
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| director        = Youhei Suzuki
+| producer        = 
+| writer          = [[Masahiro Yokotani]]
+| music           = Akiyuki Tateyama
+| studio          = [[J.C.Staff]]
+| licensee     = {{English anime licensee 
+ |AUS=[[Madman Entertainment]]
+ |[[North America|NA]]/[[United Kingdom|UK]]|[[Funimation]]
+}}
+| network     = [[AT-X (company)|AT-X]], [[Tokyo MX]], [[Kyoto Broadcasting System|KBS]], [[Chiba Television Broadcasting|CTC]], [[Television Kanagawa|tvk]], [[Sun Television|Sun TV]], [[TV Aichi]], [[Nippon BS Broadcasting|BS11]]
+| first           = July 4, 2015 
+| last            = September 19, 2015
+| episodes        = 12
+| episode_list    = #Anime
+}}
+{{Infobox animanga/Footer}}
+{{Nihongo|'''''Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist'''''|下ネタという概念が存在しない退屈な世界|Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai}}, officially abbreviated as {{nihongo|'''''Shimoseka'''''|下セカ}} in Japan, is a Japanese [[light novel]] series written by Hirotaka Akagi and illustrated by Eito Shimotsuki. [[Shogakukan]] has published eleven volumes since February 2016 under their [[Gagaga Bunko]] imprint. A manga adaptation titled {{Nihongo|''Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai: Man**-hen{{efn|In Japanese, [[O mark]] often represents hidden characters.}}''|下ネタという概念が存在しない退屈な世界 マン●篇}} with art by Yuzuki N' began serialization in [[Mag Garden]]'s [[shōnen manga|''shōnen'' manga]] magazine ''[[Monthly Comic Blade]]'' in March 2014. An [[anime]] television series adaptation by [[J.C.Staff]] aired from July 4 to September 19, 2015. {{nihongo|''Shimoneta''|[[:ja:下ネタ|下ネタ]]}} is a Japanese word for "[[vulgar slang]]", "dirty joke," "blue joke," or "erotic topic."
+
+==Plot==
+In the [[dystopian]] future of 2030, the Japanese government is cracking down on any perceived immoral activity from using risqué language to distributing lewd materials in the country, to the point where all citizens are forced to wear high-tech devices called Peace Makers (PM) at all times that analyze every spoken word and hand motions for any action that could break the law. A new high school student named Tanukichi Okuma enters the country's leading elite "public morals school" to reunite with his crush and student council president, Anna Nishikinomiya. However, Tanukichi quickly finds himself entwined with the perverted terrorist "Blue Snow" ("Tundra's Blue" in some translations) when she kidnaps and forces him to join her organization, "SOX", in creating and spreading pornographic material across the city as a form of protest against the regulations.
+
+==Characters==
+
+;{{nihongo|Tanukichi Okuma|奥間 狸吉|Okuma Tanukichi}}
+:{{voiced by|[[Yūsuke Kobayashi (voice actor)|Yūsuke Kobayashi]]<ref name="Japanese cast 1">{{cite web|first=Lynzee|last=Loveridge|title=Shizuka Ishigami, Yūsuke Kobayashi Star in Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai TV Anime|url=https://www.animenewsnetwork.com/news/2015-02-17/shizuka-ishigami-yusuke-kobayashi-star-in-shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-tv-anime/.85108|website=Anime News Network|date=February 17, 2015|accessdate=December 22, 2019}}</ref>|[[Josh Grelle]]<ref name="ENVoiceCast">{{cite web|first=Crystalyn|last=Hodgkins|url=http://www.animenewsnetwork.com/news/2016-08-12/funimation-reveals-dub-casts-for-overlord-shimoneta-1st-live-action-rurouni-kenshin-film-6th-hetalia-season/.105328 |title=Funimation Reveals Dub Casts For Overlord, Shimoneta, 1st Live-Action Rurouni Kenshin Film, 6th Hetalia Season |website=Anime News Network |date=August 12, 2016 |accessdate=August 17, 2016}}</ref>}}
+:The protagonist of the story, Tanukichi is the son of an infamous dirty joke terrorist named Zenjuro, who was arrested by the Japanese moral authorities years ago after trying to spread condoms around the [[National Diet Building|Diet]] building in defiance of the moral laws. He graduated from a public intermediate school with the "lowest morals score" according to his classmates. He finds himself constantly torn between keeping the secret of Ayame's [[alter-ego]] as a lewd terrorist and turning her in to the authorities to win Anna's favor.
+
+;{{nihongo|Ayame Kajou|華城 綾女|Kajō Ayame|extra2= / }} {{nihongo|Blue Snow|雪原の青|Setsugen no Ao|lit. "Blue of the Snowfield"}}
+:{{voiced by|[[Shizuka Ishigami]]<ref name="Japanese cast 1"/>|[[Jamie Marchi]]<ref name="ENVoiceCast"/>}}
+:The vice-president of the student council and daughter of a disgraced former Diet member who unsuccessfully fought against the public morality laws. Ayame secretly acts outside of school as the perverted terrorist "Blue Snow," wearing panties over her face, spreading semi-pornographic leaflets, and shouting dirty jokes in defiance of the Japanese moral authorities. After kidnapping Tanukichi, she decides to form the group SOX with him and expand her activities to include the school and beyond. Her father taught her a code she can use on her mobile phone that disables the collars and PMs she wears for three minutes per day allowing her to freely say or do any lewd things during the time.
+
+;{{nihongo|Anna Nishikinomiya|アンナ・錦ノ宮|Anna Nishikinomiya<!-- not "Nishikinomiya Anna" -->}}
+:{{voiced by|[[Miyu Matsuki]]<ref name="Japanese cast 1"/>|[[Monica Rial]]<ref name="ENVoiceCast"/>}}
+:Student council president and Tanukichi's childhood crush who has tasked him with hunting down Blue Snow before she can endanger the morals of the school. After being accidentally kissed by Tanukichi, she develops an obsessive yandere-like love for him. However, due to lack of knowledge on "immoral" subjects, she ends up expressing her love in extreme ways. She exhibits extreme amounts of superhuman strength, speed and dexterity, especially when angered or motivated.
+
+;{{nihongo|Otome Saotome|早乙女 乙女|Saotome Otome}}
+:{{voiced by|[[Satomi Arai]]<ref name="Japanese cast 1"/>|[[Brittney Karbowski]]<ref name="ENVoiceCast"/>}}
+:An artistic prodigy whose paintings have won awards and are even displayed throughout the school, though she seems bored by the attention. After inadvertently discovering Tanukichi changing out of a Blue Snow costume, she blackmails him into being her "pet" for a while, and later joins SOX in order to learn how to draw explicit artwork after being educated on the subject by Ayame. Because her PM is able to detect any lewd movement her hands make, she instead taught herself to draw by holding tools with her mouth to avoid its sensor.
+
+;{{nihongo|Hyouka Fuwa|不破 氷菓|Fuwa Hyōka}}
+:{{voiced by|[[Saori Gotō]]<ref name="Japanese cast 1"/>|Mikaela Krantz<ref name="ENVoiceCast"/>}}
+:A budding scientist and classmate of Tanukichi who is obsessed with solving the mystery behind how babies are truly conceived, as the Japanese moral authorities have censored everything pertaining to [[sex education]] beyond vague generalities. She even went so far as to constantly visit [[gynecology]] clinics and hospitals in order to learn more until she was banned from visiting them. Often collects insects to study their reproductive habits. She has a very sharp sense of observation. Though not officially a member of SOX, she helps them out from time to time because she is aware (to some degree) of the identities of its members.
+
+;{{nihongo|Raiki Gouriki|轟力 雷樹|Gōriki Raiki}}
+:{{voiced by|[[Kenta Miyake]]<ref name="Japanese cast 2"/>|[[David Wald]]<ref name="ENVoiceCast"/>}}
+:Treasurer of the student council with a posture and demeanor similar to that of a gorilla, though he hates bananas. He initially distrusted Tanukichi upon learning that he is Zenjuro's son, but later comes to respect him and care for his well-being after Tanukichi saved Anna from stalkers that attacked which left him hospitalized.
+
+;{{nihongo|Kosuri Onigashira|鬼頭 鼓修理|Onigashira Kosuri}}
+:{{voiced by|[[Yui Horie]]<ref name="Japanese cast 2">{{cite web|first=Egan|last=Loo|title= Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai Adds More Cast|url=https://www.animenewsnetwork.com/news/2015-03-16/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-adds-more-cast/.86024|website=Anime News Network|date=March 16, 2015|accessdate=December 22, 2019}}</ref>|Lara Woodhull<ref name="ENVoiceCast"/>}}
+:The daughter of Keisuke and a fangirl of SOX who carries multiple weapons (such as [[air guns]] and [[Taser|electric stuns]]) with her and uses tactics she learned from romantic and shōjo manga to manipulate people, even her allies. Ayame lets her join in partly because her hairstyle looks similar to the tip of a penis.
+
+;{{nihongo|Matsukage Nishikinomiya|錦ノ宮 祠影|Nishikinomiya Matsukage}}
+:{{voiced by|[[Hajime Iijima]]<ref name="Full Cast">{{cite web|title=Stream & Watch Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist Episodes Online|url=https://www.funimation.com/shows/shimoneta-a-boring-world-where-the-concept-of-dirty-jokes-doesnt-exist/|website=Funimation|archiveurl=https://web.archive.org/web/20170503133722/https://www.funimation.com/shows/shimoneta-a-boring-world-where-the-concept-of-dirty-jokes-doesnt-exist/|archivedate=May 3, 2017|accessdate=December 23, 2019}}</ref>|Ben Bryant<ref name="Full Cast"/>}}
+:Anna's father and a [[National Diet]] member who was the driving force behind the original public morals laws that turned Japan into a "highly moral society." He uses the excuse of protecting morality to exert his control over the whole country.
+
+;{{nihongo|Sophia Nishikinomiya|ソフィア・錦ノ宮|Sofia Nishikinomiya}}
+:{{voiced by|[[Sayaka Ohara]]<ref name="Full Cast"/>|[[Lydia Mackay]]<ref name="Full Cast"/>}}
+:Anna's mother who is behind a push for even stricter public morality laws than the currently enacted ones in order to create an ideal world that poses virtually no threat to Anna's chastity.
+
+;{{nihongo|Oboro Tsukimigusa|月見草 朧|Tsukimigusa Oboro}}
+:{{voiced by|[[Sumire Uesaka]]<ref name="Japanese cast 2"/>|Megan Vander Pluym<ref name="Full Cast"/>}}
+:A seemingly female school prefect trained by Matsukage to adhere to a strict moral code that mostly revolves around protecting Anna from all potentially immoral influences, including mundane items like basketball hoops and toilet paper rolls. Oboro even has this codified under "Five Provisions," which includes the caveat that Oboro cannot interfere if Anna herself exhibits lewd behavior or desires. Oboro is surprisingly quick to change position on what is considered "illegal" material when a student protests strongly enough.
+
+;{{nihongo|Keisuke Onigashira|鬼頭 慶介|Onigashira Keisuke}}
+:Father of Kosuri; ero-terrorist who made deals with the moral authorities, angering the other terrorist groups around Japan, as well as his own daughter.
+
+;{{nihongo|Takuma Ichinose|一ノ瀬 琢磨|Ichinose Takuma|extra2= / }} {{nihongo|White Peak|頂の白|Itadaki no Shiro|lit. "White of the Top"}}
+:{{voiced by|[[Ken Narita]]<ref name="Full Cast"/>|[[Anthony Bowling]]<ref name="ENVoiceCast"/>}}
+:Ero-terrorist who wraps himself in panties and is obsessed with underwear, having his own concepts of what is considered the best type of underwear. A "high-class pervert" who leads the group "Gathered Fabric" to steal all kinds of undergarments across Japan, he ends up clashing against SOX because Ayame believes him to be ruining the group's reputation by performing terrorist acts such as [[Carjacking|hijacking]] public transportation under the claim that Gathered Fabric is an ally of SOX.
+
+;{{nihongo|Base Black|手の黒|Tehen no Kuro|lit. "Black Hand"}}
+:{{voiced by|[[Sho Hayami]]<ref name="Full Cast"/>|[[Christopher R. Sabat]]<ref name="ENVoiceCast"/>}}
+:An ero-terrorist who appears in the anime's last episode. He personally knew and worked alongside Zenjuro and planned to unlock a secret vault filled with erotic treasures using an artefact that was passed down to Tanukichi. He gathered the main cast to a resort via false invitations and challenged them to a duel for the artifact through Yakyuken.
+
+;{{nihongo|Binkan|びんかんちゃん|}}
+:{{voiced by|[[Yui Ogura]]<ref name="Japanese cast 2"/>}}
+:An anime original character. Binkan is just an innocent bystander who is often nearby whenever SOX performs another act of ero-terrorism, staring at their latest handiwork. She is hardly acknowledged by the main characters until the final episode where it is shown that she is a prefect in training under the leadership of Oboro. Binkan's real name is never mentioned; her nickname roughly translates to "little sensitive (girl)."
+
+;{{nihongo|Nadeshiko Kajou|華城 撫子|Kajō Nadeshiko}}
+:Ayame's stepmother who secretly opposes the new moral laws, especially the ones against mixed bathing. Runs an old-style Japanese inn with a [[Onsen|hot spring bath]], and taught Ayame how to be a proper Japanese lady growing up.
+
+;{{nihongo|Ranko Okuma|奥間 爛子|Okuma Ranko}}
+:Tanukichi's mother, nicknamed the "Fullmetal Ogress" for her tall stature and gruff demeanour. Ranko is a staunch supporter of the new moral authorities and a friend of Sophia. She taught Tanukichi how to fight and defend himself.
+
+;{{nihongo|Annie Brown|アニー・ブラウン|Annie Brown}}
+:An American technical expert hired by the Japanese government to promote the PM technology overseas, but has a tenuous grasp of the Japanese language, leading to her often using dirty innuendo when she tries to speak it. She later becomes attracted to Tanukichi.
+
+;{{nihongo|Yutori Nuregoromo|濡衣 ゆとり|Nuregoromo Yutori}}
+:An old childhood friend of Tanukichi and member of a rural farmer family.
+
+;{{nihongo|Love Machine|羅武マシーン|Rabu Mashīn}}
+:The founder and leader of the ero-terrorist group Bacon Lettuce Moms.
+
+==Media==
+
+===Light novels===
+The first light novel volume was published on July 18, 2012 by Shogakukan under their Gagaga Bunko imprint.<ref name="Volume 1"/> Eleven volumes and one extra have been published.<ref>{{cite web|title=下ネタという概念が存在しない退屈な世界|url=https://www.shogakukan.co.jp/books/volume/29428|publisher=[[Shogakukan]]|accessdate=December 22, 2019|language=Japanese}}</ref>
+
+{{Graphic novel list/header
+| WithTitle  = no
+| OneLanguage = yes
+| Width = 100%
+}}
+{{Graphic novel list
+| VolumeNumber    = 1
+| RelDate         = July 18, 2012<ref name="Volume 1">{{cite web|url=http://www.shogakukan.co.jp/books/detail/_isbn_9784094513523|title=下ネタという概念が存在しない退屈な世界 #1|publisher=[[Shogakukan]]|accessdate=2014-10-16|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451352-3
+}}
+{{Graphic novel list
+| VolumeNumber    = 2
+| RelDate         = November 20, 2012<ref>{{cite web|url=http://www.shogakukan.co.jp/books/detail/_isbn_9784094513769|title=下ネタという概念が存在しない退屈な世界 #2|publisher=Shogakukan|accessdate=2014-10-16|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451376-9
+}}
+{{Graphic novel list
+| VolumeNumber    = 3
+| RelDate         = April 18, 2013<ref>{{cite web|url=http://www.shogakukan.co.jp/books/detail/_isbn_9784094514070|title=下ネタという概念が存在しない退屈な世界 #3|publisher=Shogakukan|accessdate=2014-10-16|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451407-0
+}}
+{{Graphic novel list
+| VolumeNumber    = 4
+| RelDate         = August 20, 2013<ref>{{cite web|url=http://www.shogakukan.co.jp/books/detail/_isbn_9784094514322|title=下ネタという概念が存在しない退屈な世界 #4|publisher=Shogakukan|accessdate=2014-10-16|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451432-2
+}}
+{{Graphic novel list
+| VolumeNumber    = 5
+| RelDate         = January 17, 2014<ref>{{cite web|url=http://www.shogakukan.co.jp/books/detail/_isbn_9784094514636|title=下ネタという概念が存在しない退屈な世界 #5|publisher=Shogakukan|accessdate=2014-10-16|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451463-6
+}}
+{{Graphic novel list
+| VolumeNumber    = 6
+| RelDate         = May 20, 2014<ref>{{cite web|url=http://www.shogakukan.co.jp/books/detail/_isbn_9784094514858|title=下ネタという概念が存在しない退屈な世界 #6|publisher=Shogakukan|accessdate=2014-10-16|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451485-8
+}}
+{{Graphic novel list
+| VolumeNumber    = 7
+| RelDate         = September 18, 2014<ref>{{cite web|url=http://www.shogakukan.co.jp/books/detail/_isbn_9784094515114|title=下ネタという概念が存在しない退屈な世界 #7|publisher=Shogakukan|accessdate=2014-10-16|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451511-4
+}}
+{{Graphic novel list
+| VolumeNumber    = 8
+| RelDate         = February 18, 2015<ref>{{cite web|url=http://www.shogakukan.co.jp/books/detail/_isbn_9784094515367|title=下ネタという概念が存在しない退屈な世界 #8|publisher=Shogakukan|accessdate=2015-02-20|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451536-7
+}}
+{{Graphic novel list
+| VolumeNumber    = 9
+| RelDate         = June 18, 2015<ref>{{cite web|url=http://www.shogakukan.co.jp/books/detail/_isbn_9784094515558|title=下ネタという概念が存在しない退屈な世界 #9|publisher=Shogakukan|accessdate=2015-08-03|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451555-8
+}}
+{{Graphic novel list
+| VolumeNumber    = 10
+| RelDate         = September 18, 2015<ref>{{cite web|url=https://www.shogakukan.co.jp/books/09451572|title=下ネタという概念が存在しない退屈な世界 #10|publisher=Shogakukan|accessdate=2019-10-22|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451572-5
+}}
+{{Graphic novel list
+| VolumeNumber    = 11
+| RelDate         = February 18, 2016<ref>{{cite web|url=https://www.shogakukan.co.jp/books/09451594|title=下ネタという概念が存在しない退屈な世界 #11|publisher=Shogakukan|accessdate=2019-10-22|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451594-7
+}}
+{{Graphic novel list
+| VolumeNumber    = EX
+| RelDate         = July 20, 2016<ref>{{cite web|url=https://www.shogakukan.co.jp/books/09451620|title=下ネタという概念が存在しない退屈な世界　○ＥＸ|publisher=Shogakukan|accessdate=December 22, 2019|language=Japanese}}</ref>
+| ISBN            = 978-4-09-451620-3
+}}
+{{Graphic novel list/footer}}
+
+===Manga===
+A manga adaptation by Yuzuki N' was serialized in [[Mag Garden]]'s ''[[Monthly Comic Blade]]'' from March 28, 2014 to February 5, 2016.<ref>{{cite web|title=ブレイドで「グリザイアの果実」開幕、由美子視点の物語|url=https://natalie.mu/comic/news/113185|website=Natalie|date=March 28, 2014|accessdate=August 5, 2020|language=Japanese}}</ref><ref>{{cite web|title=「ジョーカー・ゲーム」コミカライズがガーデンで始動、アニメ放送に先駆け|url=https://natalie.mu/comic/news/175094|website=Natalie|date=February 5, 2016|accessdate=August 5, 2020|language=Japanese}}</ref>
+
+{{Graphic novel list/header
+| WithTitle  = no
+| OneLanguage = yes
+| Width = 100%
+}}
+{{Graphic novel list
+| VolumeNumber    = 1
+| RelDate         = February 18, 2015<ref>{{cite web|title=下ネタという概念が存在しない退屈な世界マン●篇（1）　（ブレイドコミックス）|url=https://books.rakuten.co.jp/rb/13075951/|website=Rakuten.co.jp|accessdate=December 22, 2019|language=Japanese}}</ref>
+| ISBN            = 978-4-80-000413-0
+}}
+{{Graphic novel list
+| VolumeNumber    = 2
+| RelDate         = June 18, 2015<ref>{{cite web|title=下ネタという概念が存在しない退屈な世界マン●篇（2）　（ブレイドコミックス）|url=https://books.rakuten.co.jp/rb/13239380/|website=Rakuten.co.jp|accessdate=December 22, 2019|language=Japanese}}</ref>
+| ISBN            = 978-4-80-000471-0
+}}
+{{Graphic novel list
+| VolumeNumber    = 3
+| RelDate         = August 10, 2015<ref>{{cite web|title=下ネタという概念が存在しない退屈な世界マン●篇（3）　（ブレイドコミックス）|url=https://books.rakuten.co.jp/rb/13308675/|website=Rakuten.co.jp|accessdate=December 22, 2019|language=Japanese}}</ref>
+| ISBN            = 978-4-80-000486-4
+}}
+{{Graphic novel list
+| VolumeNumber    = 4
+| RelDate         = April 9, 2016<ref>{{cite web|title=下ネタという概念が存在しない退屈な世界マン●篇（4）　（ブレイドコミックス）|url=https://books.rakuten.co.jp/rb/13855041/|website=Rakuten.co.jp|accessdate=December 22, 2019|language=Japanese}}</ref>
+| ISBN            = 978-4-80-000564-9
+}}
+{{Graphic novel list/footer}}
+
+===Anime===
+An [[anime]] television series adaptation was announced by Gagaga Bunko in October 2014.<ref>{{cite web|first=Egan|last=Loo|title=Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai School Comedy Novels Get Anime|url=https://www.animenewsnetwork.com/news/2014-10-16/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-school-comedy-novels-get-anime/.80009|website=Anime News Network|date=October 16, 2014|accessdate=December 22, 2019}}</ref> The series was produced by [[J.C.Staff]] and directed by Youhei Suzuki, with [[Masahiro Yokotani]] handling the scripts, Masahiro Fujii designing the characters, and Akiyuki Tateyama composing the music.<ref name="Japanese cast 1"/><ref name="Japanese cast 2"/> It aired on [[AT-X (company)|AT-X]], [[Tokyo MX]], [[Kyoto Broadcasting System|KBS]], [[Chiba Television Broadcasting|CTC]] and other channels from July 4 to September 19, 2015.<ref name=Promo>{{cite web|first=Karen|last=Ressler|title=Shimoneta Anime Promo Videos Accompany Premiere|url=https://www.animenewsnetwork.com/news/2015-07-04/shimoneta-anime-promo-videos-accompany-premiere/.90080|website=Anime News Network|date=July 4, 2015|accessdate=December 23, 2019}}</ref> SOX performed the opening theme "B Chiku Sentai SOX", while [[Sumire Uesaka]] performed the ending theme "Inner Urge".<ref name=Promo/><ref>{{cite web|first=Karen|last=Ressler|title=Sumire Uesaka Performs Ending Theme for Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai Anime|url=https://www.animenewsnetwork.com/news/2015-05-25/sumire-uesaka-performs-ending-theme-for-shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-anime/.88545|website=Anime News Network|date=May 25, 2015|accessdate=December 22, 2019}}</ref> The series is licensed in North America by [[Funimation]].<ref>{{cite web|title=Wave after wave of shows. Your summer has arrived.|url=https://www.funimation.com/blog/2015/06/29/wave-after-wave-of-shows-your-summer-has-arrived/|website=Funimation|date=June 19, 2015|accessdate=December 22, 2019}}</ref> In Australia and New Zealand, the series is licensed by [[Madman Entertainment]], who simulcasted the series on AnimeLab.<ref>{{cite web|first=Jessica|last=McCallum|title=AnimeLab Simulcast Line-Up For Summer 2015|url=https://www.animelab.com/blog/animelab-simulcast-line-up-for-summer-2015/|website=AnimeLab|date=June 30, 2015|accessdate=December 22, 2019}}</ref>
+
+{|class="wikitable" style="width:100%; margin:auto; background:#FFF;"
+|- style="border-bottom: 3px solid #B22222;"
+! style="width:3em;"  | No.
+! Title<ref>{{cite web|title=Story|url=http://www.shimoseka.com/sp/story/|website=shimoseka.com|accessdate=August 5, 2020|language=Japanese}}</ref>{{efn|All English titles are taken from [[Funimation]].}}
+! style="width:10em;" | Original air date
+|-
+{{Episode list
+| EpisodeNumber   = 1
+| Title           = Whom Public Order and Morality Serve?
+| AltTitle        = Kōjoryōzoku wa ta ga tame ni?
+| RAltTitle       = &nbsp;({{Nihongo2|公序良俗は誰が為に？}})
+| OriginalAirDate = {{Start date|2015|7|4}}<ref>{{cite web|title=週間番組表(2015/07/01～2015/07/05)|url=https://www.at-x.com/sp/program/31714|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = Tanukichi Okuma heads to school by monorail where he looks forward to reuniting with his crush, Anna Nishikinomiya. After trying to defuse a tense situation, he finds himself about to be arrested by the Decency Squad when the infamous perverted terrorist Blue Snow appears, allowing Tanukichi escapes in the confusion. Later at school, Tanukichi's troubles continue as a classmate demands he answer how babies are made. The student council then brings him in to ask that he hunt down Blue Snow. Later that day, he heads to a quiet cafe with vice-president Ayame Kajou, who reveals she is actually Blue Snow. After being threatened into joining her crusade, Tanukichi helps her execute a plan at school during a student assembly, first spreading more perverted leaflets around the packed gym and then tricking the teachers into running outside while Ayame plays a video of two flies mating while she adds her own sound effects. Meanwhile, Tanukichi disguises himself as Blue Snow and starts drawing a giant asterisk sign on the track with a line painting machine. The entire school, including Tanukichi, finds themselves having trouble dealing with the weird new feelings brought on by this act.
+}}
+{{Episode list
+| EpisodeNumber   = 2
+| Title           = The Mysteries of Pregnancy
+| AltTitle        = Ninshin no nazo
+| RAltTitle       = &nbsp;({{Nihongo2|妊娠のなぞ}})
+| OriginalAirDate = {{Start date|2015|7|11}}<ref>{{cite web|title=週間番組表(2015/07/06～2015/07/12)|url=https://www.at-x.com/sp/program/31715|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = While the school is recovering from Blue Snow's latest activity, Tanukichi recalls his own past and his connection to Anna, gaining the trust of the student council. Ayame then tasks him with copying and spreading increasingly-rare paper inserts with suggestive pornographic material across the school. Anna even hangs one such picture in the student council room, unaware of the double-meaning behind it until Tanukichi points it out. Tanukichi crushes on Anna again, but Ayame quietly warns him not to pursue her, as she can be frightening when angry, and that Anna's parents were responsible for the current and potential-future morals laws that have a stranglehold on Japan. Later, Ayame decides to hatch another plot at school during physical exams for the freshmen students. Ayame distracts Anna and Gouriki while Tanukichi disguises himself as Blue Snow and attempts to teach some students dirty words by sight. However, Anna catches the disguised Tanukichi, cornering him until Ayame appears as the real Blue Snow with the captured urine samples of the freshmen boys. As Anna and Gouriki race after her, Tanukichi takes off his Blue Snow disguise, unaware that an artistic student spotted him from a nearby roof.
+}}
+{{Episode list
+| EpisodeNumber   = 3
+| Title           = How to Love Someone
+| AltTitle        = Hito no aishi-kata
+| RAltTitle       = &nbsp;({{Nihongo2|人の愛し方}})
+| OriginalAirDate = {{Start date|2015|7|18}}<ref>{{cite web|title=週間番組表(2015/07/13～2015/07/19)|url=https://www.at-x.com/sp/program/31716|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = During an award ceremony, Otome Saotome dramatically rips up her certificate on stage and claims she is in a slump. Later, Otome drags Tanukichi out of class and threatens to reveal his connection to Blue Snow unless he helps her resolve a romantic issue. Meanwhile, Anna finds herself dealing with a mysterious stalker. After taking Otome out to dinner, Tanukichi finds out that she is also in love with Anna. However, when she threatens to turn him in, Tanukichi claims to be in love with Ayame instead. The next day, Ayame thinks that Otome could be the stalker. At the student council meeting, Ayame schemes to draw the stalker out of hiding by posing as Anna's boyfriend. As the plan is launched at a public park, Otome reveals how Anna is her sole reason for painting. Suddenly, multiple stalkers appear and attack the disguised Ayame. Tanukichi leaps out of cover and defends the girls, but one of the thugs manages to briefly knock him out as he inadvertently kisses Anna. Tanukichi tries to excuse himself but falls unconscious as Anna tries to deal with new, unresolved feelings from the kiss.
+}}
+{{Episode list
+| EpisodeNumber   = 4
+| Title           = The Saying Goes... Love Is Justice
+| AltTitle        = Sekai iwaku, ai wa seigi
+| RAltTitle       = &nbsp;({{Nihongo2|世界いわく、愛は正義}})
+| OriginalAirDate = {{Start date|2015|7|25}}<ref>{{cite web|title=週間番組表(2015/07/20～2015/07/26)|url=https://www.at-x.com/sp/program/31717|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = After spending time in the hospital, Ayame tells Tanukichi that she has persuaded Otome to join SOX in hopes of making more risqué artwork. Tanukichi soon returns to school, but Ayame is strangely absent and Anna keeps avoiding him. Later, Ayame talks about her latest plan to reclaim a hidden stash of old pornographic material located on private property in Yotsuga Forest. She can't do it alone, so instead she plans to lure the students from school out to the forest during the weekend. However, her plans are sidelined when Tanukichi is targeted by a stalker and Anna's mother, Sophia, shows up to the school in person to get the students to support her new legislation. Running low on options, Ayame decides to have Tanukichi confront his stalker. However, the stalker turns out to be Anna, who restrains and attempts to rape Tanukichi. After Ayame accidentally interrupts them, Anna flees. Later that night, Hyouka confronts Anna in the lobby of her apartment, asking why her science lab was sterilized without asking. Anna responds that it was done out of love, as the more "impure" influences she eliminates, the more she will be rewarded with love.
+}}
+{{Episode list
+| EpisodeNumber   = 5
+| Title           = For Whom the Dirty Terrorism Benefits?
+| AltTitle        = Shimoneta tero wa ta ga tame ni?
+| RAltTitle       = &nbsp;({{Nihongo2|下ネタテロは誰が為に？}})
+| OriginalAirDate = {{Start date|2015|8|1}}<ref>{{cite web|title=週間番組表(2015/08/01～2015/08/02)|url=https://www.at-x.com/sp/program/31719|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = Ayame tasks Tanukichi with distributing Otome's new pornographic artwork to the students along with a map to Yotsuga Forest. However, Tanukichi finds himself targeted by an increasingly-obsessive Anna, who tries to make him drink her "love nectar". While escaping from Anna, he accidentally drops his bag filled with illegal material in Hyouka's lab. On Sunday, the day of the "X Prohibition Law" signature drive, Sophia plans to greet the students of her daughter's academy in person and Ayame plans to quixotically storm the forest against a large force of the Decency Squad. Surprisingly, the students all show up at the forest, as Hyouka picked up Tanukichi's material and quietly spread copies around school herself. Just then, Anna shows up in person, chasing down a disguised Ayame. Ayame tosses Tanukichi down into the forest, where he finds the porn stash in a suggestively-shaped cave. However, when he hears Ayame being strangled by Anna, he decides to save her. Anna can't understand why the new terrorist gives her similar feelings to Tanukichi. Later that night, Sophia holds a press conference announcing the success of the petition drive, but discovers too late that someone replaced her signed petitions with pornographic artwork.
+}}
+{{Episode list
+| EpisodeNumber   = 6
+| Title           = Handmade Warmth!
+| AltTitle        = Tezukuri no nuku mori!
+| RAltTitle       = &nbsp;({{Nihongo2|手作りのぬくもり！}})
+| OriginalAirDate = {{Start date|2015|8|8}}<ref>{{cite web|title=週間番組表(2015/08/03～2015/08/09)|url=https://www.at-x.com/sp/program/31720|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = As Otome's hentai drawings spread around the school, Ayame decides to take the next step and make masturbation aids. Tanukichi is assigned the task of getting Hyouka to develop small vibrators, but upon coming to collect one, a mostly-naked Hyouka attempts to learn about his "cucumber" as payment for her services. While they argue, Anna stops by and starts growing jealous, so Tanukichi quickly hands her a finished vibrating egg without telling her its true purpose to calm her down. The next day, Tanukichi accidentally activates the vibrator with the wireless remote Hyouka gave him, reawakening Anna's lust. Tanukichi tries desperately to escape or find a way to turn off the vibrator, but none of his friends want to help him, and Anna finally traps him inside the student council room after Gouriki finds and brings him to her. Tanukichi discovers that Anna turned the vibrator into a pendant, but is unable to reach it while being pinned down under her. Eventually, the vibrator shorts out as Anna climaxes and Tanukichi manages to escape. Later, Anna overhears Otome make a dirty remark about Tanukichi and starts strangling him while Ayame refuses to help.
+}}
+{{Episode list
+| EpisodeNumber   = 7
+| Title           = What SOX Created
+| AltTitle        = SOX ga tsukuri shi mono
+| RAltTitle       = &nbsp;({{Nihongo2|SOXが作りし者}})
+| OriginalAirDate = {{Start date|2015|8|15}}<ref>{{cite web|title=週間番組表(2015/08/10～2015/08/16)|url=https://www.at-x.com/sp/program/31721|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = SOX forms alliances with other erotic terrorist groups throughout Japan. Back at school, the student council discovers that someone has been stealing underwear throughout the city. Tanukichi and Ayame watch a girls' changing room to catch a thief, but when Ayame runs off, Anna appears to sexually assault Tanukichi again. Shortly after that, Tanukichi reunites with Ayame only to find her speaking with Hyouka, and confiscates her [[yaoi]] book with characters loosely based on himself and Gouriki. Soon, Gouriki manages to round up multiple underwear thieves around school, when a mysterious terrorist calling himself "White Peak" of the group "Gathered Fabric" broadcasts his message across school. Back at the cafe, Ayame declares that SOX must take down White Peak. Later that same night, Tanukichi helps a little girl escape the Decency Squad with the help of Hyouka. The girl then tries to attack Tanukichi until he reveals that he's a member of SOX. The girl reveals herself to be Kosuri Onigashira. Ayame is reluctant to trust her, as Kosuri is daughter of Keisuke, another ero-terrorist who made deals with the moral authorities. However, she decides to let Kosuri become a member of SOX.
+}}
+{{Episode list
+| EpisodeNumber   = 8
+| Title           = The Devil Blows His Own Trumpet
+| AltTitle        = Akuma ga ki tari te hora o fuku
+| RAltTitle       = &nbsp;({{Nihongo2|悪魔が来たりてホラを吹く}})
+| OriginalAirDate = {{Start date|2015|8|22}}<ref>{{cite web|title=週間番組表(2015/08/17～2015/08/23)|url=https://www.at-x.com/sp/program/31722|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = Tanukichi wakes up to find Kosuri sleeping next to him and Anna, who had been standing there for hours. He quickly decides to pretend Kosuri is his little sister. Later at school, Anna's father has sent Oboro Tsukimigusa to become the school's prefect. However, unlike the moral authorities, Oboro starts by removing mundane items. She also tries to confiscate Hyouka's yaoi manga until Hyouka convinces her that it has useful value. Meanwhile, Ayame plans to have SOX distribute Otome's drawings at other schools. Kosuri decides to take charge of the operation herself. Later, Kosuri returns to report her mission was completely successful, and fueled by her new success, treats Tanukichi like a slave. While Tanukichi detests her methods, he cannot bring himself to sell Kosuri out to Ayame. The next day, Ayame privately tells Tanukichi that SOX's actions suffered blowback with the sudden appearance of Oboro and her comrades. On top of dealing with the threats of the moral authorities and the Gathered Fabric faction, SOX must also find a way to sabotage the prefect system before the government exports it to other schools.
+}}
+{{Episode list
+| EpisodeNumber   = 9
+| Title           = Do Androids Dream of Electric Masseurs?
+| AltTitle        = Andoroido wa denki anma no yume o miru ka
+| RAltTitle       = &nbsp;({{Nihongo2|アンドロイドは電気アンマの夢を見るか}})
+| OriginalAirDate = {{Start date|2015|8|29}}<ref>{{cite web|title=週間番組表(2015/08/24～2015/08/30)|url=https://www.at-x.com/sp/program/31723|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = Ayame launches an operation at school to try and sabotage both the school's prefect program and Gathered Fabric at the same time. First, she uses her Blue Snow persona to spread more lewd drawing materials throughout school while Tanukichi will hang his used boxers to try and attract Gathered Fabric. However, Anna and Oboro come through the door instead. Anna again assaults Tanukichi. Meanwhile, Kosuri gets jealous that she is left out of the action. When Ayame launches the same plan again, Tanukichi manages to knock out several Gathered Fabric members. Later, Tanukichi subdues and steps on the crotch of someone who stumbled into the room. However, he discovers that person is Oboro, and that she actually has a penis. Oboro explains that he has been trained to serve Anna and her father faithfully. Suddenly, the fire alarm is pulled and the school evacuates. Back at SOX's hideout, Kosuri takes responsibility for the act, but Ayame scolds her for sabotaging the plan. As SOX tries to think of their next move, they receive a message written on a pair of panties to meet at a nearby park, where White Peak himself appears.
+}}
+{{Episode list
+| EpisodeNumber   = 10
+| Title           = Masturbation Quest
+| AltTitle        = Jī-kyū kuesuto
+| RAltTitle       = &nbsp;({{Nihongo2|ジイ級クエスト}})
+| OriginalAirDate = {{Start date|2015|9|5}}<ref>{{cite web|title=週間番組表(2015/09/01～2015/09/06)|url=https://www.at-x.com/sp/program/31725|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = As SOX makes negotiations with White Peak, Ayame chastises him for using erotic terrorism as a front for the panty thefts. The next morning, Tanukichi rushes to school on a bus. While talking to Ayame, however, Tanukichi and Gouriki's bus is hijacked. Among the jacked buses, Hyouka, Anna, Oboro, and Otome are in separate buses. During his bus jacking, White Peak also hijacks the PM system and proclaims war and his organization's affiliation with SOX. As Hyouka is interrupted watching the news, she identifies the jacker's gun as a fake. Meanwhile, in Anna and Oboro's bus, Anna single-handedly beats the jacker down. On Tanukichi and Gouriki's bus, as Gouriki is about to give up his undergarments, he causes everybody to vomit in the bus. As Tanukichi escapes, Ayame finds a leak in White Peak's true identity. To apprehend White Peak, Ayame has Kosuri lure out his bus. Despite Tanukichi using musk panties, he is overpowered by White Peak. After Ayame intervenes, Tanukichi attempts to restrain him. Before SOX successfully captures him, however, Ayame gets kicked out of the bus by Kosuri, revealing she has joined Gathered Fabric.
+}}
+{{Episode list
+| EpisodeNumber   = 11
+| Title           = Techno Break
+| AltTitle        = Tekuno bureiku
+| RAltTitle       = &nbsp;({{Nihongo2|テクノブレイク}})
+| OriginalAirDate = {{Start date|2015|9|12}}<ref>{{cite web|title=週間番組表(2015/09/07～2015/09/13)|url=https://www.at-x.com/sp/program/31726|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = As Kosuri points her stun gun at Tanukichi, he has no choice but to flee the bus. After Kosuri helps out White Peak, they proceed to take the hostages to Zoshigaoka Academy. Meanwhile, Tanukichi is approached by Hyouka. At the school, Gathered Fabric make ransom demands. As the students put on fresh pairs of panties, Otome becomes excited at the sight. Later, Ayame and Tanukichi assess the dire situation at hand. As Tanukichi is awkwardly approached again by Hyouka, she explains how people like Anna are brainwashed to believe that anything they do is "righteous". Tanukichi then devises a risky plan. While Kosuri devises tactics for Gathered Fabric, White Peak reveals that he has no intention of starting a revolution. Feeling betrayed, Kosuri attempts to immobilize him. Later, Otome calls Tanukichi. Afterwards, White Peak is confronted by Ayame, Tanukichi, Anna, Gouriki, and Oboro. Tanukichi reveals that his plan was to get Anna to join forces with SOX. As Otome helps the students escape, Ayame and Anna finish off White Peak for good. After Ayame's dirty joke speech to the public, Kosuri returns to SOX, now acknowledging Ayame as her master once more.
+}}
+{{Episode list
+| EpisodeNumber   = 12
+| Title           = Dirty Jokes Forever!
+| AltTitle        = Shimoneta yo eien ni
+| RAltTitle       = &nbsp;({{Nihongo2|下ネタよ永遠に}})
+| OriginalAirDate = {{Start date|2015|9|19}}<ref>{{cite web|title=週間番組表(2015/09/14～2015/09/20)|url=https://www.at-x.com/sp/program/31727|website=AT-X|accessdate=August 5, 2020|language=Japanese}}</ref>
+| ShortSummary    = SOX receives an invitation to meet up at a hot springs resort in Nukumi. Tanukichi remembers an artifact passed down to him by his father. When they arrive at the resort, they are met by Gouriki and Anna. Later, they find Sophia's unconscious body where they are confronted by an ero-terrorist called Base Black. He reveals himself to be the one who gathered everyone to the resort. He then challenges them to a duel for the artifact through [[Yakyuken]]. Gouriki's loss and subsequent undressing stuns Base Black long enough for Tanukichi to retrieve the artifact. As Tanukichi and Ayame are riding the tram, Anna appears while climbing the cables to catch up to Tanukichi and causes the floor of the tram to collapse. The duo reach an old mansion and explore it, finding a mechanism that the artifact fits through. Kosuri and Otome catch up to them and help open the vault which contains a treasure of erotic sculptures and statues. They pledge that one day the treasure will be able to see the world again when the anti-profanity enforcement comes to an end.
+}}
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.shimoseka.com Anime official website] {{in lang|ja}}
+*[http://comic.mag-garden.co.jp/812/934.html ''Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai: Man**-hen''] at [[Mag Garden]] Comic Online {{in lang|ja}}
+*{{ann|anime|16731}}
+
+{{J.C.Staff}}
+
+{{DEFAULTSORT:Shimoneta}}
+[[Category:2012 Japanese novels]]
+[[Category:Anime and manga based on light novels]]
+[[Category:AT-X (TV network) original programming]]
+[[Category:Comedy anime and manga]]
+[[Category:Dystopian anime and manga]]
+[[Category:Funimation]]
+[[Category:Gagaga Bunko]]
+[[Category:Shogakukan franchises]]
+[[Category:J.C.Staff]]
+[[Category:Light novels]]
+[[Category:Mag Garden manga]]
+[[Category:Sex comedy anime and manga]]
+[[Category:School life in anime and manga]]
+[[Category:Shōnen manga]]

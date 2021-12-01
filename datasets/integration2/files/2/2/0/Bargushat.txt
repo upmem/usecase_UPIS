@@ -1,0 +1,45 @@
+{{Infobox settlement
+|official_name =Bargushat
+|native_name =Բարգուշատ
+|settlement_type        = village
+|pushpin_map            =Armenia
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name       = {{flag|Armenia}}
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      =[[Syunik Region|Syunik]]
+|subdivision_type2      = [[List of municipalities of Armenia|community]]
+|subdivision_name2      = [[Syunik (village)|Syunik]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2011
+|population_total =98
+|population_density_km2   =
+|timezone =&nbsp;
+|utc_offset             = +4
+|timezone_DST           =&nbsp; 
+|utc_offset_DST         = +5
+|coordinates            = {{coord|39|13|21|N|46|27|58|E|region:AM|display=inline,title}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+|footnotes              ={{GEOnet2|32FA881E6C173774E0440003BA962ED3}}
+}}
+'''Bargushat''' ({{lang-hy|Բարգուշատ}}, formerly '''Arznak''', Արզնակ) is a [[village]] in the [[Community (Armenia)|rural community]] of [[Syunik (village)|Syunik]] in the [[Syunik Region|Syunik Province]] of [[Armenia]].<ref>{{ARMSTATdata|44}}</ref>
+
+== See also ==
+*[[Syunik Province]]
+
+== References ==
+{{reflist}}
+
+{{Syunik}}
+{{Syunik (village)}}
+
+[[Category:Populated places in Syunik Province]]
+
+{{Syunik-geo-stub}}

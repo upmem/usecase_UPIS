@@ -1,0 +1,23 @@
+{{Speciesbox
+|image =
+|genus = Mahonia
+|species = polyodonta
+|authority = Fedde
+|synonyms = *''Berberis polyodonta'' <small>(Fedde) Laferr.</small>
+*''Mahonia pachakshirensis'' <small>Ahrendt</small>
+|synonyms_ref =
+}}
+
+'''''Mahonia polyodonta''''' is a shrub in the [[Berberidaceae]] described as a species in 1901.<ref>[https://www.biodiversitylibrary.org/item/690#page/353/mode/1up Fedde, Friedrich Karl Georg. 1901.  Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie 29(3–4): 339–340] descriptions in Latin, commentary in German</ref> It is native to [[Assam]], [[Myanmar]], and southwestern [[China]] ([[Guizhou]], [[Hubei]], [[Sichuan]], [[Tibet]], [[Yunnan]]).<ref>[http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242331287 Flora of China Vol. 19 Page 779 <big>峨眉十大功劳</big> e mei shi da gong lao ''Mahonia polyodonta'' Fedde]</ref>
+
+==References==
+{{reflist}}
+
+{{Taxonbar|from=Q11051601}}
+
+[[Category:Mahonia|polyodonta]]
+[[Category:Flora of Asia]]
+[[Category:Plants described in 1901]]
+
+
+{{Ranunculales-stub}}

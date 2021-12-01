@@ -1,0 +1,24 @@
+{{Speciesbox
+|image = 
+|image_caption = 
+|genus = Lupinus
+|species = magnificus
+|authority = [[M.E. Jones]]
+}}
+
+'''''Lupinus magnificus''''', commonly known as '''Panamint Mountain lupine''', is a species of [[flowering plant]] from the order of [[Lamiales]].
+
+The plant is endemic to [[California]], within [[Death Valley National Park]] in [[Death Valley]] and the [[Panamint Range]].<ref>{{cite web|url=http://plants.usda.gov/core/profile?symbol=LUMA|title=''Lupinus magnificus'' M.E. Jones|publisher=Plants Profile|work=[[United States Department of Agriculture|USDA]]|accessdate=November 5, 2013}}</ref> where it can be found in the .<ref>{{cite book|url= https://books.google.com/books?id=vxAaBv8fW00C&q=Lupinus+magnificus&pg=PA495|author=Tim Johnson|title=CRC Ethnobotany Desk Reference|year=1999|publisher=[[CRC Press]]|page=495|isbn=0-8493-1187-X}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q15470420}}
+
+[[Category:Lupinus|magnificus]]
+[[Category:Endemic flora of California]]
+[[Category:Flora of the California desert regions]]
+[[Category:Natural history of the Mojave Desert]]
+[[Category:Death Valley National Park]]
+[[Category:Panamint Range]]
+[[Category:Natural history of Inyo County, California]]

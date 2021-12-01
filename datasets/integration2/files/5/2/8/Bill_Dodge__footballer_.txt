@@ -1,0 +1,41 @@
+{{short description|English footballer}}
+{{Use dmy dates|date=June 2016}}
+{{Use British English|date=June 2016}}
+{{Infobox football biography
+|name= Bill Dodge
+|image=
+|fullname= William Charles Dodge
+|birth_date={{Birth date and age|df=y|1937|3|10|}}
+| birth_place = [[Hackney Central|Hackney]], [[London]], England
+|death_date=
+| height = 
+|position=[[Wing half]]
+| years1 = ?–1957 | years2 = 1957–1962 | years3 = 1962–1963 | years4 = 1963| years5 = 1965–1971
+| clubs1 = [[Eton Manor F.C.|Eton Manor]] | clubs2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]] | clubs3 = [[Crystal Palace F.C.|Crystal Palace]] | clubs4 = [[Kettering Town F.C.|Kettering Town]] | clubs5 = [[Ashford Town F.C. (Kent)|Ashford Town (Kent)]]
+| caps1 = ? | goals1 = ? | caps2 = 6 | goals2 = 0 | caps3 = 3 | goals3 = 0 | caps4 =  | goals4 =  | caps5 = 
+}}
+'''William Charles Dodge''' (born 10 March 1937 in [[Hackney Central|Hackney]], [[London]]) is an English former professional [[association football|footballer]] who played for [[Eton Manor F.C.|Eton Manor]], [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and [[Crystal Palace F.C.|Crystal Palace]].<ref>Hugman,B.J. (Ed) ''The PFA Premier& Football League Players' Records 1946-2005'' (2005) {{ISBN|1-85291-665-6}} p173. Retrieved 4 June 2010</ref>
+
+==Playing career==
+Dodge began his career at [[Non-League football|non-League]] club Eton Manor before joining Tottenham Hotspur in October, 1957. In January, 1959 after a string of poor results ''Spurs'' manager, [[Bill Nicholson (footballer)|Bill Nicholson]] dropped legendary [[Danny Blanchflower]] in a favour of the younger Dodge (the first of 57 players to be given their club debut by Nicholson) who played in a more defensive role. The decision prompted the [[Northern Ireland national football team|Northern Ireland]] international to request a transfer. However, the [[White Hart Lane]] club were knocked out of the [[1958-59 FA Cup|FA Cup]] by giantkillers [[Norwich City F.C.|Norwich City]] on 15 February 1959. After this shock result, Blanchflower was reinstated and appointed team captain a fortnight later.<ref>[http://www.sixtiescity.com/Wembley/spurs61.htm Bill Dodge] {{webarchive |url=https://web.archive.org/web/20101108043624/http://www.sixtiescity.com/Wembley/spurs61.htm |date=8 November 2010 }} Retrieved 4 June 2010</ref> Dodge featured in ten matches in all competitions in 1959 with the ''Lilywhites''.<ref>[http://www.topspurs.com/thfc-fp-index.htm Tottenham Hotspur F.C A-Z of players] Retrieved 28 November 2012</ref> He transferred to Crystal Palace in July, 1962 where he notched up a further three appearances.
+
+He went on to play non-league football with [[Kettering Town F.C.|Kettering Town]]<ref>{{NeilBrownPlayers|player1/billdodge}}</ref> and [[Ashford Town F.C. (Kent)|Ashford Town (Kent)]] for whom he had a 100% league appearance record over five years, and in his overall stay at Ashford a total of 425 appearances in all competitions.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.mehstg.com/blkrnote.htm Dodge's Spurs debut]
+
+{{DEFAULTSORT:Dodge, Bill}}
+[[Category:1937 births]]
+[[Category:Living people]]
+[[Category:Footballers from Hackney Central]]
+[[Category:English footballers]]
+[[Category:Association football wing halves]]
+[[Category:Eton Manor F.C. players]]
+[[Category:Tottenham Hotspur F.C. players]]
+[[Category:Crystal Palace F.C. players]]
+[[Category:Ashford United F.C. players]]
+[[Category:Kettering Town F.C. players]]
+[[Category:English Football League players]]

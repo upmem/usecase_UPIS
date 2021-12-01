@@ -1,0 +1,771 @@
+{{Use dmy dates|date=February 2015}}
+{{Use British English|date=February 2015}}
+{{Infobox football club season
+| club     = [[Liverpool F.C.]]
+| season   = 1983&ndash;84
+| chairman = [[John Smith (businessman)|John W Smith]]
+| manager  = [[Joe Fagan]]
+
+| league        = [[1983–84 in English football#First Division|First Division]]
+| league result = '''Champions'''
+| league topscorer = [[Ian Rush]] (32)
+| season topscorer = [[Ian Rush]] (47)
+
+| cup4        = [[1983–84 European Cup|European Cup]]
+| cup4 result = '''Winners'''
+| cup1        = [[1983–84 FA Cup|FA Cup]]
+| cup1 result = Fourth round
+| cup2        = [[1983–84 Football League Cup|League Cup]]
+| cup2 result = '''Winners'''
+| cup3        = [[1983 FA Charity Shield|FA Charity Shield]]
+| cup3 result = Runners-up
+
+| pattern_la1 = _liverpool84
+| pattern_ra1 = _liverpool84
+| pattern_b1  = _liverpool84
+| pattern_sh1 = _white_stripes
+| pattern_so1 = _2_stripes_white
+| leftarm1    = dd0000
+| body1       = dd0000
+| rightarm1   = dd0000
+| shorts1     = dd0000
+| socks1      = dd0000
+| pattern_la2 = _redborder
+| pattern_ra2 = _redborder
+| pattern_b2  = _redcollar
+| pattern_sh2 = _white_stripes
+| pattern_so2 = _band_red
+| leftarm2    = FFFF00
+| body2       = FFFF00
+| rightarm2   = FFFF00
+| shorts2     = FFFF00
+| socks2      = FFFF00
+| prevseason = [[1982–83 Liverpool F.C. season|1982–83]]
+| nextseason = [[1984–85 Liverpool F.C. season|1984–85]]
+}}
+
+The 1983–84 season was the 92nd season in [[Liverpool F.C.]]'s existence, and their 22nd consecutive year in the top-flight.
+
+It was Liverpool's first season under the management of [[Joe Fagan]], who was promoted from the coaching staff after the retirement of [[Bob Paisley]], their manager of the last nine seasons who had won at least one major trophy in all but the first of his seasons as manager (including six league titles and three European Cups). Fagan's first season as manager ended with Liverpool becoming the first team in England to win three major trophies in the same season as they won the league title, European Cup and League Cup. They beat Roma on penalties to win the [[UEFA Champions League|European Cup]] for the fourth time (their sixth European trophy win overall), and defeated Merseyside rivals Everton in the League Cup final replay, and fought off a challenge from the likes of [[Southampton F.C.|Southampton]], [[Nottingham Forest F.C.|Nottingham Forest]], Manchester United and Queen's Park Rangers to win their 15th league title, and their third consecutive title.
+
+The undoubted star of the season was striker Ian Rush, who scored 32 goals in the league and 47 in all competitions.<ref>{{cite web|url = http://www.liverpoolfc.com/news/latest-news/163576-rush-and-dalglish-the-best-ever|title= Rush and Dalglish? The best ever!|date=27 May 2014|work=Liverpoolfc.com |access-date=27 May 2014}}</ref>	
+
+It was the last season at the club for midfielder [[Graeme Souness]], who was sold to Italian side Sampdoria at the end of the campaign.<ref>{{cite web|url = http://www.liverpoolfc.com/news/latest-news/163583-souness-was-the-best-i-have-seen|title= Souness was the best I have seen|date=27 May 2014|work=Liverpoolfc.com |access-date=27 May 2014}}</ref>
+
+==Events of the season==
+
+'''August'''
+[[Bob Paisley]], the most successful manager in English football, retired as Liverpool's manager at the end of the [[1982–83 in English football|1982–83 season]] after nine glorious years at the helm. His successor was 62-year-old "boot room" veteran [[Joe Fagan]].
+
+The Fagan era began with the [[FA Charity Shield]] at [[Wembley Stadium]] on 20 August 1983. Liverpool, defending league champions, lost 2–0 in front of a 92,000 crowd, with [[Bryan Robson]] scoring both of the goals for [[FA Cup]] winners [[Manchester United F.C.|Manchester United]]. The league campaign began unspectacularly seven days later with a 1–1 draw at newly promoted [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].
+
+'''September'''
+Liverpool's bid for a fourth [[European Cup]] triumph began on 14 September with a 1–0 away win in the first round first leg over [[Denmark|Danish]] champions [[Odense]]. Qualification for the next stage was confirmed two weeks later when the Reds won 5–0 in the return leg at [[Anfield]].
+
+They had a decent month in the league as well, finishing the month in fourth place behind [[West Ham United F.C.|West Ham United]], Manchester United and [[Southampton F.C.|Southampton]].<ref>[http://www.liverpool-mad.co.uk/footydb/loadgen.asp?Day=24&Month=Sep&ssnno=113&teamno=342 Snapshot Tables 1983-1984 24 Sep Liverpool – Liverpool FC – LFC Online<!-- Bot generated title -->]</ref>
+
+'''October'''
+October saw Liverpool's League Cup quest begin in the second round, where they eliminated Third Division [[Brentford F.C.|Brentford]] by a comfortable margin. Their European Cup campaign thrown into question with a goalless home draw with [[Atletico Bilbao]] of [[Spain]] in the second round first leg, leaving them to need at least a score draw in the return leg in order to progress to the quarter-finals. In the league, however, excellent wins over West Ham United and Luton Town helped them to attain second place as the month drew to a close, two points short of leaders Manchester United. As well as the surprise challenge from West Ham United, they also had a race for the title mounting from fellow [[London]] side [[Queen's Park Rangers F.C.|QPR]], who like West Ham had never won the title before, but were also playing their first top division season since promotion the previous campaign.<ref>[http://www.liverpool-mad.co.uk/footydb/loadgen.asp?Day=29&Month=Oct&ssnno=113&teamno=342 Snapshot Tables 1983-1984 29 Oct Liverpool – Liverpool FC – LFC Online<!-- Bot generated title -->]</ref>
+
+'''November'''
+November was a rocky month for the Reds. They did manage to dispose of Atletico Bilbao in the European Cup, but were held to two draws by Fulham in the League Cup third round, finally winning the second replay. They did, however, climb to the top of the First Division, though the challenge from West Ham United and Manchester United remained intense, while a surprise challenge was springing from Tottenham Hostpur and unfashionable Luton Town – the latter who had been on the receiving end of a 6–0 demolition (and five goals by [[Ian Rush]]) by the Reds a month earlier.
+<ref name=autogenerated1>[http://www.liverpool-mad.co.uk/footydb/loadtmrs.asp?ssnno=113&teamno=342 Results Fixtures 1983-1984 Liverpool – Liverpool FC – LFC Online<!-- Bot generated title -->]</ref>
+
+'''December'''
+10 December 1983 brought one of the most embarrassing defeats ever inflicted on Liverpool Football Club. They travelled to [[Highfield Road]] for a First Division clash with a [[Coventry City F.C.|Coventry City]] side who were emerging as surprise title challengers under young manager [[Bobby Gould]], and found themselves on the receiving end of a 4–0 defeat. However, they pulled together the following weekend to demolish [[Notts County F.C.|Notts County]] 5–0 at Anfield, and entered 1984 still in pole position and three points ahead of their nearest rivals Manchester United.<ref>[http://www.liverpool-mad.co.uk/footydb/loadgen.asp?Day=31&Month=Dec&ssnno=113&teamno=342 Snapshot Tables 1983-1984 31 Dec Liverpool – Liverpool FC – LFC Online<!-- Bot generated title -->]</ref>
+
+The League Cup quest continued with a replay win over [[Birmingham City F.C.|Birmingham City]] in the fourth round.
+
+'''January'''
+The first Liverpool game of 1984 was a 1–1 home draw with Manchester United in the league, billed by many as a championship decider – the outcome of which left the top two unchanged. The FA Cup quest began with a 4–0 home win over a [[Newcastle United F.C.|Newcastle United]] led by former Liverpool striker [[Kevin Keegan]], but ended later in the month with a shock 2–0 defeat at the hands of the previous season's losing finalists [[Brighton & Hove Albion]]. They also achieved a League Cup quarter-final replay win over [[Sheffield Wednesday F.C.|Sheffield Wednesday]], like Keegan's Newcastle on the way to promotion to the First Division. There was a real chance of a treble this season.
+
+'''February'''
+Liverpool maintained top place in the First Division throughout February.<ref>[http://www.liverpool-mad.co.uk/footydb/loadgen.asp?Day=25&Month=Feb&ssnno=113&teamno=342 Snapshot Tables 1983-1984 25 Feb Liverpool – Liverpool FC – LFC Online<!-- Bot generated title -->]</ref> In the League Cup semi-finals, they were held to a surprise 2–2 draw by Third Division minnows [[Walsall F.C.|Walsall]] in the first leg at Anfield before winning the return leg 2–0 at [[Fellows Park]], to secure a place in the League Cup final a month later against [[Merseyside]] rivals [[Everton F.C.|Everton]], who were on a run in the cup competitions despite dismal league form which had seen repeated calls from fans for manager [[Howard Kendall]] to be sacked.
+
+'''March'''
+March saw Liverpool seal their first trophy of the season when they won 1–0 in the final replay at [[Maine Road]] on 28 March 1984, three days after the first game saw them draw 0–0 with Everton at [[Wembley Stadium]]. The European adventure resumed with an excellent 5-1 aggregate win over [[Portugal|Portuguese]] champions [[S.L. Benfica|Benfica]]. They were still going strong in the league as well, and by the end of March only Manchester United (two points behind them) were looking able to catch them.<ref>[http://www.liverpool-mad.co.uk/footydb/loadgen.asp?Day=31&Month=Mar&ssnno=113&teamno=342 Snapshot Tables 1983-1984 31 Mar Liverpool – Liverpool FC – LFC Online<!-- Bot generated title -->]</ref>
+
+'''April'''
+A succession of wins could have wrapped up Liverpool's 15th league title before the end of April, but a shock defeat to relegation threatened [[Stoke City F.C.|Stoke City]] and a 3–3 draw with [[Leicester City F.C.|Leicester City]] meant that April ended with Liverpool still just two points ahead of Manchester United with four games remaining. And a late surge from QPR and Southampton suggested that the title might not end up at Anfield or [[Old Trafford]].<ref>[http://www.liverpool-mad.co.uk/footydb/loadgen.asp?Day=28&Month=Apr&ssnno=113&teamno=342 Snapshot Tables 1983-1984 28 Apr Liverpool – Liverpool FC – LFC Online<!-- Bot generated title -->]</ref>
+
+Liverpool reached their fourth European Cup final by eliminated [[FC Dinamo București|Dinamo Bucharest]] in the semi-finals.<ref>[[Liverpool vs. Dinamo Bucharest, 1984 European Cup Semi-Final>]]</ref>
+
+'''May'''
+May 1984 was one of the most glorious months ever experienced by Liverpool Football Club, but it began with a result that suggested the month could turn out to be one of the most disappointing. A goalless draw at relegation threatened [[Birmingham City F.C.|Birmingham City]] (who soon went down thanks to a late escape act by Stoke City) could have been enough for Liverpool to lose their lead to Manchester United on goal difference, but [[Ron Atkinson|Ron Atkinson's]] side also managed only a draw that weekend, and there was still a mathematical chance of either QPR or Southampton winning the title.<ref>[http://www.liverpool-mad.co.uk/footydb/loadgen.asp?Day=05&Month=May&ssnno=113&teamno=342 Snapshot Tables 1983-1984 5 May Liverpool – Liverpool FC – LFC Online<!-- Bot generated title -->]</ref>
+
+Two days after the scare in the midlands, another midland side – [[Coventry City F.C.|Coventry City]] – took on Liverpool, this time at Anfield. Any talk of a repeat of the December humiliation at Highfield Road was quickly silenced as the Reds crushed the Sky Blues 5-0 (with Ian Rush scoring four goals and pushing them to the edge of the relegation zone just five months after they had been pushing for the title) and opened up a five-point lead to a Manchester United side who were beaten by [[Nottingham Forest F.C.|Nottingham Forest]] on the same day. Southampton were now the only side other than Manchester United who could catch Liverpool, but the Reds only needed two points from their final two games to be sure of the title.<ref>[http://www.liverpool-mad.co.uk/footydb/loadgen.asp?Day=07&Month=May&ssnno=113&teamno=342 Snapshot Tables 1983-1984 7 May Liverpool – Liverpool FC – LFC Online<!-- Bot generated title -->]</ref>
+
+Liverpool drew their penultimate league game of the season with doomed [[Notts County F.C.|Notts County]] at [[Meadow Lane]], but Manchester United and Southampton were only able to draw their games as well – meaning that Liverpool had become only the third English club to win three successive league titles.<ref>[http://www.liverpool-mad.co.uk/footydb/loadgen.asp?Day=12&Month=May&ssnno=113&teamno=342 Snapshot Tables 1983-1984 12 May Liverpool – Liverpool FC – LFC Online<!-- Bot generated title -->]</ref><ref>{{cite web|url = http://www.liverpoolfc.com/news/latest-news/163577-joe-was-brushing-up-the-dressing-room|title= Joe was brushing up the dressing room|date=27 May 2014|work=Liverpoolfc.com |access-date=27 May 2014}}</ref>	
+
+The championship trophy was presented to the club on 15 May 1984 after the final league game of the season – a 1–1 draw with [[Norwich City F.C.|Norwich City]] at Anfield.
+
+The European Cup final was played on 30 May 1984. Veteran defender [[Phil Neal]] put the Reds ahead against [[AS Roma]] at the [[Stadio Olimpico]] in [[Rome]], but the [[Italy|Italians]] later equalised to force a 1–1 draw which remained the score as full-time and then extra time loomed. The match went to a penalty shoot-out, which the Reds won 4–2, becoming the first English club to win three major trophies in the same season. It was their fourth European Cup triumph – a record only bettered by [[Real Madrid]] who won it six times between 1956 and 1966.
+
+==Squad==
+
+===Goalkeepers===
+* {{flagicon|ENG}} [[Bob Bolder]]
+* {{flagicon|ZIM}} [[Bruce Grobbelaar]]
+
+===Defenders===
+* {{flagicon|IRE}} [[Jim Beglin]]
+* {{flagicon|SCO}} [[Gary Gillespie]]
+* {{flagicon|SCO}} [[Alan Hansen]]
+* {{flagicon|ENG}} [[Alan Kennedy]]
+* {{flagicon|IRE}} [[Mark Lawrenson]]
+* {{flagicon|SCO}} [[John McGregor (footballer born 1963)|John McGregor]]
+* {{flagicon|ENG}} [[Phil Neal]]
+* {{flagicon|SCO}} [[Steve Nicol]]
+* {{flagicon|ENG}} [[Phil Thompson]]
+
+===Midfielders===
+* {{flagicon|ENG}} [[Craig Johnston]]
+* {{flagicon|ENG}} [[Sammy Lee (footballer)|Sammy Lee]]
+* {{flagicon|SCO}} [[Graeme Souness]]
+* {{flagicon|SCO}} [[John Wark]]
+* {{flagicon|IRE}} [[Ronnie Whelan]]
+
+===Attackers===
+* {{flagicon|SCO}} [[Kenny Dalglish]]
+* {{flagicon|ENG}} [[David Hodgson (footballer)|David Hodgson]]
+* {{flagicon|ENG}} [[Michael Robinson (footballer)|Michael Robinson]]
+* {{flagicon|WAL}} [[Ian Rush]]
+
+==League table==
+{{:1983–84 Football League|transcludesection=First Division|only_totals=y|showteam=LIV}}
+
+==Results==
+===First Division===
+{{Main|1983–84 Football League#First Division}}
+{| class=wikitable
+!Date
+!Opponents
+!Venue
+!Result
+!Scorers
+!Attendance
+!Report 1
+!Report 2
+|- bgcolor="#ffffdd"
+|	27-Aug-83	||	[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]	||	A	||	1–1	||	[[Ian Rush|Rush]] {{goal|46}}	||	26,249	||	[http://www.lfchistory.net/SeasonArchive/Game/2417 Report]	||	[https://web.archive.org/web/20131025182425/http://www.liverweb.org.uk/report.asp?rec_id=4397 Report]
+|- bgcolor="#ddffdd"
+|	31-Aug-83	||	[[Norwich City F.C.|Norwich City]]	||	A	||	1–0	||	[[Graeme Souness|Souness]] {{goal|29}}	||	23,859	||	[http://www.lfchistory.net/SeasonArchive/Game/1342 Report]	||	[https://web.archive.org/web/20131025182435/http://www.liverweb.org.uk/report.asp?rec_id=4398 Report]
+|- bgcolor="#ddffdd"
+|	03-Sep-83	||	[[Nottingham Forest F.C.|Nottingham Forest]]	||	H	||	1–0	||	[[Ian Rush|Rush]] {{goal|84}}	||	31,376	||	[http://www.lfchistory.net/SeasonArchive/Game/1343 Report]	||	[https://web.archive.org/web/20131026012743/http://www.liverweb.org.uk/report.asp?rec_id=4399 Report]
+|- bgcolor="#ffffdd"
+|	06-Sep-83	||	[[Southampton F.C.|Southampton]]	||	H	||	1–1	||	[[Ian Rush|Rush]] {{goal|60}}	||	26,331	||	[http://www.lfchistory.net/SeasonArchive/Game/1344 Report]	||	[https://web.archive.org/web/20131026012709/http://www.liverweb.org.uk/report.asp?rec_id=4400 Report]
+|- bgcolor="#ddffdd"
+|	10-Sep-83	||	[[Arsenal F.C.|Arsenal]]	||	A	||	2–0	||	[[Craig Johnston|Johnston]] {{goal|17}} [[Kenny Dalglish|Dalglish]] {{goal|67}}	||	47,896	||	[http://www.lfchistory.net/SeasonArchive/Game/1345 Report]	||	[https://web.archive.org/web/20131026012657/http://www.liverweb.org.uk/report.asp?rec_id=4401 Report]
+|- bgcolor="#ddffdd"
+|	17-Sep-83	||	[[Aston Villa F.C.|Aston Villa]]	||	H	||	2–1	||	[[Kenny Dalglish|Dalglish]] {{goal|73}} [[Ian Rush|Rush]] {{goal|79}}	||	34,246	||	[http://www.lfchistory.net/SeasonArchive/Game/1347 Report]	||	[https://web.archive.org/web/20131026012740/http://www.liverweb.org.uk/report.asp?rec_id=4402 Report]
+|- bgcolor="#ffdddd"
+|	24-Sep-83	||	[[Manchester United F.C.|Manchester United]]	||	A	||	0–1	||		||	56,121	||	[http://www.lfchistory.net/SeasonArchive/Game/1348 Report]	||	[https://web.archive.org/web/20131025182433/http://www.liverweb.org.uk/report.asp?rec_id=4403 Report]
+|- bgcolor="#ffdddd"
+|	01-Oct-83	||	[[Sunderland F.C.|Sunderland]]	||	H	||	0–1	||		||	29,534	||	[http://www.lfchistory.net/SeasonArchive/Game/1350 Report]	||	[https://web.archive.org/web/20131026012658/http://www.liverweb.org.uk/report.asp?rec_id=4404 Report]
+|- bgcolor="#ddffdd"
+|	15-Oct-83	||	[[West Ham United F.C.|West Ham United]]	||	A	||	3–1	||	[[Michael Robinson (footballer)|Robinson]] {{goal|15||24||74}}	||	32,555	||	[http://www.lfchistory.net/SeasonArchive/Game/1352 Report]	||	[https://web.archive.org/web/20131026012704/http://www.liverweb.org.uk/report.asp?rec_id=4405 Report]
+|- bgcolor="#ddffdd"
+|	22-Oct-83	||	[[Queens Park Rangers F.C.|Queens Park Rangers]]	||	A	||	1–0	||	[[Steve Nicol|Nicol]] {{goal|83}}	||	27,140	||	[http://www.lfchistory.net/SeasonArchive/Game/1354 Report]	||	[https://web.archive.org/web/20131025182432/http://www.liverweb.org.uk/report.asp?rec_id=4406 Report]
+|- bgcolor="#ddffdd"
+|	29-Oct-83	||	[[Luton Town F.C.|Luton Town]]	||	H	||	6–0	||	[[Ian Rush|Rush]] {{goal|2||5||36||55||88}} [[Kenny Dalglish|Dalglish]] {{goal|38}}	||	31,940	||	[http://www.lfchistory.net/SeasonArchive/Game/1356 Report]	||	[https://web.archive.org/web/20131026012747/http://www.liverweb.org.uk/report.asp?rec_id=4407 Report]
+|- bgcolor="#ddffdd"
+|	06-Nov-83	||	[[Everton F.C.|Everton]]	||	H	||	3–0	||	[[Ian Rush|Rush]] {{goal|16}} [[Michael Robinson (footballer)|Robinson]] {{goal|60}} [[Steve Nicol|Nicol]] {{goal|85}}	||	40,875	||	[http://www.lfchistory.net/SeasonArchive/Game/1358 Report]	||	[https://web.archive.org/web/20131026012749/http://www.liverweb.org.uk/report.asp?rec_id=4408 Report]
+|- bgcolor="#ffffdd"
+|	12-Nov-83	||	[[Tottenham Hotspur F.C.|Tottenham Hotspur]]	||	A	||	2–2	||	[[Michael Robinson (footballer)|Robinson]] {{goal|6}} [[Ian Rush|Rush]] {{goal|65}}	||	45,032	||	[http://www.lfchistory.net/SeasonArchive/Game/1360 Report]	||	[https://web.archive.org/web/20131025182428/http://www.liverweb.org.uk/report.asp?rec_id=4409 Report]
+|- bgcolor="#ddffdd"
+|	19-Nov-83	||	[[Stoke City F.C.|Stoke City]]	||	H	||	1–0	||	[[Ian Rush|Rush]] {{goal|67}}	||	26,529	||	[http://www.lfchistory.net/SeasonArchive/Game/1361 Report]	||	[https://web.archive.org/web/20131026012730/http://www.liverweb.org.uk/report.asp?rec_id=4410 Report]
+|- bgcolor="#ffffdd"
+|	26-Nov-83	||	[[Ipswich Town F.C.|Ipswich Town]]	||	A	||	1–1	||	[[Kenny Dalglish|Dalglish]] {{goal|62}}	||	23,826	||	[http://www.lfchistory.net/SeasonArchive/Game/1363 Report]	||	[https://web.archive.org/web/20131025182445/http://www.liverweb.org.uk/report.asp?rec_id=4411 Report]
+|- bgcolor="#ddffdd"
+|	03-Dec-83	||	[[Birmingham City F.C.|Birmingham City]]	||	H	||	1–0	||	[[Ian Rush|Rush]] {{goal|86}}	||	24,791	||	[http://www.lfchistory.net/SeasonArchive/Game/1365 Report]	||	[https://web.archive.org/web/20131026012724/http://www.liverweb.org.uk/report.asp?rec_id=4412 Report]
+|- bgcolor="#ffdddd"
+|	10-Dec-83	||	[[Coventry City F.C.|Coventry City]]	||	A	||	0–4	||		||	20,586	||	[http://www.lfchistory.net/SeasonArchive/Game/1366 Report]	||	[https://web.archive.org/web/20131026012637/http://www.liverweb.org.uk/report.asp?rec_id=4413 Report]
+|- bgcolor="#ddffdd"
+|	17-Dec-83	||	[[Notts County F.C.|Notts County]]	||	H	||	5–0	||	[[Steve Nicol|Nicol]] {{goal|12}} [[Graeme Souness|Souness]] {{goal|pen 22||83}} [[Own Goal]] {{goal|35}} [[Ian Rush|Rush]] {{goal|50}}	||	22,436	||	[http://www.lfchistory.net/SeasonArchive/Game/1367 Report]	||	[https://web.archive.org/web/20131025182443/http://www.liverweb.org.uk/report.asp?rec_id=4414 Report]
+|- bgcolor="#ddffdd"
+|	26-Dec-83	||	[[West Bromwich Albion F.C.|West Bromwich Albion]]	||	A	||	2–1	||	[[Steve Nicol|Nicol]] {{goal|16}} [[Graeme Souness|Souness]] {{goal|62}}	||	25,139	||	[http://www.lfchistory.net/SeasonArchive/Game/1370 Report]	||	[https://web.archive.org/web/20131026012733/http://www.liverweb.org.uk/report.asp?rec_id=4415 Report]
+|- bgcolor="#ffffdd"
+|	27-Dec-83	||	[[Leicester City F.C.|Leicester City]]	||	H	||	2–2	||	[[Sammy Lee (footballer)|Lee]] {{goal|74}} [[Ian Rush|Rush]] {{goal|83}}	||	33,664	||	[http://www.lfchistory.net/SeasonArchive/Game/1371 Report]	||	[https://web.archive.org/web/20131026012641/http://www.liverweb.org.uk/report.asp?rec_id=4416 Report]
+|- bgcolor="#ddffdd"
+|	31-Dec-83	||	[[Nottingham Forest F.C.|Nottingham Forest]]	||	A	||	1–0	||	[[Ian Rush|Rush]] {{goal|28}}	||	29,692	||	[http://www.lfchistory.net/SeasonArchive/Game/1372 Report]	||	[https://web.archive.org/web/20131026012722/http://www.liverweb.org.uk/report.asp?rec_id=4417 Report]
+|- bgcolor="#ffffdd"
+|	02-Jan-84	||	[[Manchester United F.C.|Manchester United]]	||	H	||	1–1	||	[[Craig Johnston|Johnston]] {{goal|32}}	||	45,122	||	[http://www.lfchistory.net/SeasonArchive/Game/1373 Report]	||	[https://web.archive.org/web/20131026012719/http://www.liverweb.org.uk/report.asp?rec_id=4418 Report]
+|- bgcolor="#ffdddd"
+|	14-Jan-84	||	[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]	||	H	||	0–1	||		||	23,325	||	[http://www.lfchistory.net/SeasonArchive/Game/1375 Report]	||	[https://web.archive.org/web/20131026012643/http://www.liverweb.org.uk/report.asp?rec_id=4419 Report]
+|- bgcolor="#ddffdd"
+|	20-Jan-84	||	[[Aston Villa F.C.|Aston Villa]]	||	A	||	3–1	||	[[Ian Rush|Rush]] {{goal|46||70||80}}	||	19,566	||	[http://www.lfchistory.net/SeasonArchive/Game/1377 Report]	||	[https://web.archive.org/web/20131025182448/http://www.liverweb.org.uk/report.asp?rec_id=4420 Report]
+|- bgcolor="#ddffdd"
+|	01-Feb-84	||	[[Watford F.C.|Watford]]	||	H	||	3–0	||	[[Ian Rush|Rush]] {{goal|10}} [[Steve Nicol|Nicol]] {{goal|41}} [[Ronnie Whelan|Whelan]] {{goal|45}}	||	20,746	||	[http://www.lfchistory.net/SeasonArchive/Game/1380 Report]	||	[https://web.archive.org/web/20131026012727/http://www.liverweb.org.uk/report.asp?rec_id=4421 Report]
+|- bgcolor="#ffffdd"
+|	04-Feb-84	||	[[Sunderland F.C.|Sunderland]]	||	A	||	0–0	||		||	25,646	||	[http://www.lfchistory.net/SeasonArchive/Game/1381 Report]	||	[https://web.archive.org/web/20131026012645/http://www.liverweb.org.uk/report.asp?rec_id=4422 Report]
+|- bgcolor="#ddffdd"
+|	11-Feb-84	||	[[Arsenal F.C.|Arsenal]]	||	H	||	2–1	||	[[Alan Kennedy|Kennedy]] {{goal|12}} Neal {{goal|78}}	||	34,642	||	[http://www.lfchistory.net/SeasonArchive/Game/1383 Report]	||	[https://web.archive.org/web/20131026012720/http://www.liverweb.org.uk/report.asp?rec_id=4423 Report]
+|- bgcolor="#ffffdd"
+|	18-Feb-84	||	[[Luton Town F.C.|Luton Town]]	||	A	||	0–0	||		||	14,877	||	[http://www.lfchistory.net/SeasonArchive/Game/1385 Report]	||	[https://web.archive.org/web/20131026012729/http://www.liverweb.org.uk/report.asp?rec_id=4424 Report]
+|- bgcolor="#ddffdd"
+|	25-Feb-84	||	[[Queens Park Rangers F.C.|Queens Park Rangers]]	||	H	||	2–0	||	[[Ian Rush|Rush]] {{goal|80}} [[Michael Robinson (footballer)|Robinson]] {{goal|55}}	||	32,206	||	[http://www.lfchistory.net/SeasonArchive/Game/1386 Report]	||	[https://web.archive.org/web/20131025182447/http://www.liverweb.org.uk/report.asp?rec_id=4425 Report]
+|- bgcolor="#ffffdd"
+|	03-Mar-84	||	[[Everton F.C.|Everton]]	||	A	||	1–1	||	[[Ian Rush|Rush]] {{goal|17}}	||	51,245	||	[http://www.lfchistory.net/SeasonArchive/Game/1387 Report]	||	[https://web.archive.org/web/20131026012717/http://www.liverweb.org.uk/report.asp?rec_id=4426 Report]
+|- bgcolor="#ddffdd"
+|	10-Mar-84	||	[[Tottenham Hotspur F.C.|Tottenham Hotspur]]	||	H	||	3–1	||	[[Kenny Dalglish|Dalglish]] {{goal|41}} [[Ronnie Whelan|Whelan]] {{goal|43}} [[Sammy Lee (footballer)|Lee]] {{goal|88}}	||	36,718	||	[http://www.lfchistory.net/SeasonArchive/Game/1389 Report]	||	[https://web.archive.org/web/20131026012646/http://www.liverweb.org.uk/report.asp?rec_id=4427 Report]
+|- bgcolor="#ffdddd"
+|	16-Mar-84	||	[[Southampton F.C.|Southampton]]	||	A	||	0–2	||		||	19,698	||	[http://www.lfchistory.net/SeasonArchive/Game/1390 Report]	||	[https://web.archive.org/web/20131026012639/http://www.liverweb.org.uk/report.asp?rec_id=4428 Report]
+|- bgcolor="#ddffdd"
+|	31-Mar-84	||	[[Watford F.C.|Watford]]	||	A	||	2–0	||	[[John Wark|Wark]] {{goal|58}} [[Ian Rush|Rush]] {{goal|80}}	||	21,293	||	[http://www.lfchistory.net/SeasonArchive/Game/1394 Report]	||	[https://web.archive.org/web/20131026012725/http://www.liverweb.org.uk/report.asp?rec_id=4429 Report]
+|- bgcolor="#ddffdd"
+|	07-Apr-84	||	[[West Ham United F.C.|West Ham United]]	||	H	||	6–0	||	[[Ian Rush|Rush]] {{goal|6||18}} [[Kenny Dalglish|Dalglish]] {{goal|12}} [[Ronnie Whelan|Whelan]] {{goal|28}} [[Graeme Souness|Souness]] {{goal|62||70}}	||	38,359	||	[http://www.lfchistory.net/SeasonArchive/Game/1395 Report]	||	[https://web.archive.org/web/20131026012652/http://www.liverweb.org.uk/report.asp?rec_id=4430 Report]
+|- bgcolor="#ffdddd"
+|	14-Apr-84	||	[[Stoke City F.C.|Stoke City]]	||	A	||	0–2	||		||	24,372	||	[http://www.lfchistory.net/SeasonArchive/Game/1397 Report]	||	[https://web.archive.org/web/20131026012712/http://www.liverweb.org.uk/report.asp?rec_id=4431 Report]
+|- bgcolor="#ffffdd"
+|	18-Apr-84	||	[[Leicester City F.C.|Leicester City]]	||	A	||	3–3	||	[[Ronnie Whelan|Whelan]] {{goal|14}} [[Ian Rush|Rush]] {{goal|59}} [[John Wark|Wark]] {{goal|81}}	||	26,553	||	[http://www.lfchistory.net/SeasonArchive/Game/1398 Report]	||	[https://web.archive.org/web/20131025182430/http://www.liverweb.org.uk/report.asp?rec_id=4432 Report]
+|- bgcolor="#ddffdd"
+|	21-Apr-84	||	[[West Bromwich Albion F.C.|West Bromwich Albion]]	||	H	||	3–0	||	[[Own Goal]] {{goal|20}} [[Graeme Souness|Souness]] {{goal|25}} [[Kenny Dalglish|Dalglish]] {{goal|29}}	||	35,320	||	[http://www.lfchistory.net/SeasonArchive/Game/1399 Report]	||	[https://web.archive.org/web/20131026012750/http://www.liverweb.org.uk/report.asp?rec_id=4433 Report]
+|- bgcolor="#ffffdd"
+|	28-Apr-84	||	[[Ipswich Town F.C.|Ipswich Town]]	||	H	||	2–2	||	[[Alan Kennedy|Kennedy]] {{goal|31}} [[Ian Rush|Rush]] {{goal|37}}	||	32,069	||	[http://www.lfchistory.net/SeasonArchive/Game/1401 Report]	||	[https://web.archive.org/web/20131026012710/http://www.liverweb.org.uk/report.asp?rec_id=4434 Report]
+|- bgcolor="#ffffdd"
+|	05-May-84	||	[[Birmingham City F.C.|Birmingham City]]	||	A	||	0–0	||		||	18,809	||	[http://www.lfchistory.net/SeasonArchive/Game/1402 Report]	||	[https://web.archive.org/web/20131026012655/http://www.liverweb.org.uk/report.asp?rec_id=4435 Report]
+|- bgcolor="#ddffdd"
+|	07-May-84	||	[[Coventry City F.C.|Coventry City]]	||	H	||	5–0	||	[[Ian Rush|Rush]] {{goal|43||45||57 pen||81}} [[Alan Hansen|Hansen]] {{goal|71}}	||	33,393	||	[http://www.lfchistory.net/SeasonArchive/Game/1403 Report]	||	[https://web.archive.org/web/20131026012752/http://www.liverweb.org.uk/report.asp?rec_id=4436 Report]
+|- bgcolor="#ffffdd"
+|	12-May-84	||	[[Notts County F.C.|Notts County]]	||	A	||	0–0	||		||	18,745	||	[http://www.lfchistory.net/SeasonArchive/Game/1404 Report]	||	[https://web.archive.org/web/20131025182427/http://www.liverweb.org.uk/report.asp?rec_id=4437 Report]
+|- bgcolor="#ffffdd"
+|	15-May-84	||	[[Norwich City F.C.|Norwich City]]	||	H	||	1–1	||	[[Ian Rush|Rush]] {{goal|30}}	||	38,837	||	[http://www.lfchistory.net/SeasonArchive/Game/1405 Report]	||	[https://web.archive.org/web/20131025182437/http://www.liverweb.org.uk/report.asp?rec_id=4438 Report]
+|}
+
+===FA Charity Shield===
+{{Main|1983 FA Charity Shield}}
+{{footballbox
+|date=20 August 1983
+|time=15:00 [[UTC+1]]
+|team1=[[Manchester United F.C.|Manchester United]]
+|score=2–0
+|team2=[[Liverpool F.C.|Liverpool]]
+|report = [http://www.lfchistory.net/SeasonArchive/Game/1341 Report]<br />[https://web.archive.org/web/20131024135816/http://liverweb.org.uk/report.asp?rec_id=4463 Report]
+|goals1=[[Bryan Robson|Robson]] {{goal}} {{goal}}
+|goals2=
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=92,000
+|referee= }}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Gary Bailey]]
+|-
+|DF ||'''2''' ||{{flagicon|ENG}} [[Mike Duxbury]]
+|-
+|DF ||'''3''' ||{{flagicon|SCO}} [[Arthur Albiston]]
+|-
+|MF ||'''4''' ||{{flagicon|ENG}} [[Ray Wilkins]]
+|-
+|DF ||'''5''' ||{{flagicon|IRL}} [[Kevin Moran (footballer)|Kevin Moran]]
+|-
+|DF ||'''6''' ||{{flagicon|SCO}} [[Gordon McQueen]]
+|-
+|MF ||'''7''' ||{{flagicon|ENG}} [[Bryan Robson]] ([[Captain (association football)|c]])
+|-
+|MF ||'''8''' ||{{flagicon|NED}} [[Arnold Mühren]] || || {{suboff}}
+|-
+|FW ||'''9''' ||{{flagicon|IRL}} [[Frank Stapleton]]
+|-
+|FW ||'''10'''||{{flagicon|NIR}} [[Norman Whiteside]]
+|-
+|MF ||'''11'''||{{flagicon|SCO}} [[Arthur Graham]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|DF ||'''12'''||{{flagicon|ENG}} [[John Gidman]] || || {{subon}}
+|-
+|MF ||'''13'''||{{flagicon|SCO}} [[Lou Macari]]
+|-
+|GK ||'''14'''||{{flagicon|ENG}} [[Jeff Wealands]]
+|-
+|MF ||'''15'''||{{flagicon|ENG}} [[Remi Moses]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Ron Atkinson]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ZIM}} [[Bruce Grobbelaar]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Phil Neal]]
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Alan Kennedy]] ([[Captain (association football)|c]])
+|-
+|CM ||'''4''' ||{{flagicon|IRL}} [[Mark Lawrenson]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Phil Thompson]] || || {{suboff|61}}
+|-
+|CB ||'''6''' ||{{flagicon|SCO}} [[Alan Hansen]]
+|-
+|CF ||'''7''' ||{{flagicon|SCO}} [[Kenny Dalglish]]
+|-
+|RM ||'''8''' ||{{flagicon|ENG}} [[Sammy Lee (footballer)|Sammy Lee]]
+|-
+|CF ||'''9''' ||{{flagicon|WAL}} [[Ian Rush]]
+|-
+|LM ||'''10'''||{{flagicon|IRL}} [[Michael Robinson (footballer)|Michael Robinson]] || || {{suboff|61}}
+|-
+|CM ||'''11'''||{{flagicon|SCO}} [[Graeme Souness]]
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|MF ||'''12'''||{{flagicon|ENG}} [[Craig Johnston]] || || {{subon|61}}
+|-
+|FW ||'''13'''||{{flagicon|ENG}} [[David Hodgson (footballer)|David Hodgson]] || || {{subon|61}}
+|-
+|GK ||'''14'''||{{flagicon|ENG}} [[Bob Bolder]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Joe Fagan]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match rules'''
+* 90 minutes, no [[extra time]]
+* Four named substitutes
+* Maximum of two substitutions
+|}
+
+===FA Cup===
+{{Main|1983–84 FA Cup}}
+{| class=wikitable
+!Date
+!Opponents
+!Venue
+!Result
+!Scorers
+!Attendance
+!Report 1
+!Report 2
+|- bgcolor="#ddffdd"
+|	06-Jan-84	||	[[Newcastle United F.C.|Newcastle United]]	||	H	||	4–0	||	[[Michael Robinson (footballer)|Robinson]] {{goal|8}} [[Ian Rush|Rush]] 2 {{goal|28||86}} [[Craig Johnston|Johnston]] {{goal|63}}	||	33,566	||	[http://www.lfchistory.net/SeasonArchive/Game/1374 Report]	||	[https://web.archive.org/web/20131026012745/http://www.liverweb.org.uk/report.asp?rec_id=4439 Report]
+|- bgcolor="#ffdddd"
+|	29-Jan-84	||	[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]	||	A	||	0–2	||		||	19,057	||	[http://www.lfchistory.net/SeasonArchive/Game/1379 Report]	||	[https://web.archive.org/web/20131026012635/http://www.liverweb.org.uk/report.asp?rec_id=4440 Report]
+|}
+
+===League Cup===
+{{Main|1983–84 Football League Cup}}
+{| class=wikitable
+!Date
+!Opponents
+!Venue
+!Result
+!Scorers
+!Attendance
+!Report 1
+!Report 2
+|- bgcolor="#ddffdd"
+|	05-Oct-83	||	[[Brentford F.C.|Brentford]]	||	A	||	4–1	||	[[Ian Rush|Rush]] {{goal|23||70}} [[Michael Robinson (footballer)|Robinson]] {{goal|51}} [[Graeme Souness|Souness]] {{goal|57}}	||	17,859	||	[http://www.lfchistory.net/SeasonArchive/Game/1351 Report]	||	[https://web.archive.org/web/20131026012714/http://www.liverweb.org.uk/report.asp?rec_id=4441 Report]
+|- bgcolor="#ddffdd"
+|	25-Oct-83	||	[[Brentford F.C.|Brentford]]	||	H	||	4–0	||	[[Graeme Souness|Souness]] {{goal|pen 38}} [[David Hodgson (footballer)|Hodgson]] {{goal|65}} [[Kenny Dalglish|Dalglish]] {{goal|69}} [[Michael Robinson (footballer)|Robinson]] {{goal|87}}	||	9,902	||	[http://www.lfchistory.net/SeasonArchive/Game/1355 Report]	||	[https://web.archive.org/web/20131026012628/http://www.liverweb.org.uk/report.asp?rec_id=4442 Report]
+|- bgcolor="#ffffdd"
+|	08-Nov-83	||	[[Fulham F.C.|Fulham]]	||	A	||	1–1	||	[[Ian Rush|Rush]] {{goal|64}}	||	20,142	||	[http://www.lfchistory.net/SeasonArchive/Game/1359 Report]	||	[https://web.archive.org/web/20131026012736/http://www.liverweb.org.uk/report.asp?rec_id=4443 Report]
+|- bgcolor="#ffffdd"
+|	22-Nov-83	||	[[Fulham F.C.|Fulham]]	||	H	||	1–1	||	[[Kenny Dalglish|Dalglish]] {{goal|50}}	||	15,783	||	[http://www.lfchistory.net/SeasonArchive/Game/1362 Report]	||	[https://web.archive.org/web/20131026012715/http://www.liverweb.org.uk/report.asp?rec_id=4444 Report]
+|- bgcolor="#ddffdd"
+|	29-Nov-83	||	[[Fulham F.C.|Fulham]]	||	A	||	1–0	||	[[Graeme Souness|Souness]] {{goal|114}}	||	20,905	||	[http://www.lfchistory.net/SeasonArchive/Game/1364 Report]	||	[https://web.archive.org/web/20131026012633/http://www.liverweb.org.uk/report.asp?rec_id=4445 Report]
+|- bgcolor="#ffffdd"
+|	20-Dec-83	||	[[Birmingham City F.C.|Birmingham City]]	||	A	||	1–1	||	[[Graeme Souness|Souness]] {{goal|26}}	||	17,405	||	[http://www.lfchistory.net/SeasonArchive/Game/1368 Report]	||	[https://web.archive.org/web/20131026012735/http://www.liverweb.org.uk/report.asp?rec_id=4446 Report]
+|- bgcolor="#ddffdd"
+|	22-Dec-83	||	[[Birmingham City F.C.|Birmingham City]]	||	H	||	3–0	||	[[Steve Nicol|Nicol]] {{goal|39}} [[Ian Rush|Rush]] {{goal|53||pen 74}}	||	11,638	||	[http://www.lfchistory.net/SeasonArchive/Game/1369 Report]	||	[https://web.archive.org/web/20131026012631/http://www.liverweb.org.uk/report.asp?rec_id=4447 Report]
+|- bgcolor="#ffffdd"
+|	17-Jan-84	||	[[Sheffield Wednesday F.C.|Sheffield Wednesday]]	||	A	||	2–2	||	[[Steve Nicol|Nicol]] {{goal|20}} Neal {{goal|pen 60}}	||	49,357	||	[http://www.lfchistory.net/SeasonArchive/Game/1376 Report]	||	[https://web.archive.org/web/20131025182450/http://www.liverweb.org.uk/report.asp?rec_id=4448 Report]
+|- bgcolor="#ddffdd"
+|	25-Jan-84	||	[[Sheffield Wednesday F.C.|Sheffield Wednesday]]	||	H	||	3–0	||	[[Ian Rush|Rush]] {{goal|37||85}} [[Michael Robinson (footballer)|Robinson]] {{goal|74}}	||	40,485	||	[http://www.lfchistory.net/SeasonArchive/Game/1378 Report]	||	[https://web.archive.org/web/20131026012738/http://www.liverweb.org.uk/report.asp?rec_id=4449 Report]
+|- bgcolor="#ffffdd"
+|	07-Feb-84	||	[[Walsall F.C.|Walsall]]	||	H	||	2–2	||	[[Ronnie Whelan|Whelan]] {{goal|14||73}}	||	31,073	||	[http://www.lfchistory.net/SeasonArchive/Game/1382 Report]	||	[https://web.archive.org/web/20131025182438/http://www.liverweb.org.uk/report.asp?rec_id=4450 Report]
+|- bgcolor="#ddffdd"
+|	14-Feb-84	||	[[Walsall F.C.|Walsall]]	||	A	||	2–0	||	[[Ian Rush|Rush]] {{goal|13}} [[Ronnie Whelan|Whelan]] {{goal|52}}	||	19,591	||	[http://www.lfchistory.net/SeasonArchive/Game/1384 Report]	||	[https://web.archive.org/web/20131026012758/http://www.liverweb.org.uk/report.asp?rec_id=4451 Report]
+|}
+
+'''Final'''
+{{Main|1984 Football League Cup Final#Match_details}}
+{{footballbox
+|date=25 March 1984
+|time=15:00
+|team1=[[Liverpool F.C.|Liverpool]]
+|score=0–0 (a.e.t)
+|report=[http://www.lfchistory.net/SeasonArchive/Game/1392 Report]<br />[http://www.liverweb.org.uk/report.asp?rec_id=4452 Report]{{dead link|date=July 2020|bot=medic}}{{cbignore|bot=medic}}
+|team2=[[Everton F.C.|Everton]]
+|goals1=
+|goals2=
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=100,000
+|referee=[[Alan Robinson (referee)|Alan Robinson]] }}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ZIM}} [[Bruce Grobbelaar]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Phil Neal]]
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Alan Kennedy]]
+|-
+|CB ||'''4''' ||{{flagicon|IRL}} [[Mark Lawrenson]]
+|-
+|LM ||'''5''' ||{{flagicon|IRL}} [[Ronnie Whelan]]
+|-
+|CB ||'''6''' ||{{flagicon|SCO}} [[Alan Hansen]]
+|-
+|CF ||'''7''' ||{{flagicon|SCO}} [[Kenny Dalglish]]
+|-
+|RM ||'''8''' ||{{flagicon|ENG}} [[Sammy Lee (footballer)|Sammy Lee]]
+|-
+|CF ||'''9''' ||{{flagicon|WAL}} [[Ian Rush]]
+|-
+|CM ||'''10'''||{{flagicon|ENG}} [[Craig Johnston]] || || {{suboff|91}}
+|-
+|CM ||'''11'''||{{flagicon|SCO}} [[Graeme Souness]] ([[Captain (association football)|c]])
+|-
+|colspan=4|'''Substitute:'''
+|-
+|FW ||'''12'''|| {{flagicon|IRL}} [[Michael Robinson (footballer)|Michael Robinson]] || || {{subon|91}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Joe Fagan]]
+|}
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|WAL}} [[Neville Southall]]
+|-
+|DF ||'''2''' ||{{flagicon|ENG}} [[Gary Stevens (footballer, born 1963)|Gary Stevens]]
+|-
+|DF ||'''3''' ||{{flagicon|ENG}} [[John Bailey (footballer, born 1957)|John Bailey]]
+|-
+|DF ||'''4''' ||{{flagicon|WAL}} [[Kevin Ratcliffe]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||{{flagicon|ENG}} [[Derek Mountfield]]
+|-
+|MF ||'''6''' ||{{flagicon|ENG}} [[Peter Reid]]
+|-
+|MF ||'''7''' ||{{flagicon|SCO}} [[Alan Irvine (footballer, born 1958)|Alan Irvine]]
+|-
+|FW ||'''8''' ||{{flagicon|ENG}} [[Adrian Heath]]
+|-
+|FW ||'''9''' ||{{flagicon|SCO}} [[Graeme Sharp]]
+|-
+|FW ||'''10'''||{{flagicon|ENG}} [[Kevin Richardson (footballer)|Kevin Richardson]]
+|-
+|MF ||'''11'''||{{flagicon|IRL}} [[Kevin Sheedy (Irish footballer)|Kevin Sheedy]]
+|-
+|colspan=4|'''Substitute:'''
+|-
+|DF ||'''12'''||{{flagicon|ENG}} [[Alan Harper (footballer)|Alan Harper]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Howard Kendall]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes.
+*30 minutes of extra-time if necessary.
+*Replay if scores still level.
+*One named substitute.
+*Maximum of one substitution.
+|}
+
+'''Replay'''
+{{Main|1984 Football League Cup Final#Replay}}
+{{footballbox
+|date=28 March 1984
+|time=19:30
+|team1=[[Liverpool F.C.|Liverpool]]
+|score=1–0
+|report=[http://www.lfchistory.net/SeasonArchive/Game/1393 Report]<br />[https://web.archive.org/web/20131024135820/http://liverweb.org.uk/report.asp?rec_id=4453 Report]
+|team2=[[Everton F.C.|Everton]]
+|goals1=[[Graeme Souness|Souness]] {{goal|21}}
+|goals2=
+|stadium=[[Maine Road]], [[Manchester]]
+|attendance=52,089
+|referee=[[Alan Robinson (referee)|Alan Robinson]] }}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ZIM}} [[Bruce Grobbelaar]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Phil Neal]]
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Alan Kennedy]]
+|-
+|CB ||'''4''' ||{{flagicon|IRL}} [[Mark Lawrenson]]
+|-
+|LM ||'''5''' ||{{flagicon|IRL}} [[Ronnie Whelan]]
+|-
+|CB ||'''6''' ||{{flagicon|SCO}} [[Alan Hansen]]
+|-
+|CF ||'''7''' ||{{flagicon|SCO}} [[Kenny Dalglish]]
+|-
+|RM ||'''8''' ||{{flagicon|ENG}} [[Sammy Lee (footballer)|Sammy Lee]]
+|-
+|CF ||'''9''' ||{{flagicon|WAL}} [[Ian Rush]]
+|-
+|CM ||'''10'''||{{flagicon|ENG}} [[Craig Johnston]]
+|-
+|CM ||'''11'''||{{flagicon|SCO}} [[Graeme Souness]] ([[Captain (association football)|c]])
+|-
+|colspan=4|'''Substitute:'''
+|-
+|FW ||'''12'''|| {{flagicon|IRL}} [[Michael Robinson (footballer)|Michael Robinson]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Joe Fagan]]
+|}
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|WAL}} [[Neville Southall]]
+|-
+|DF ||'''2''' ||{{flagicon|ENG}} [[Gary Stevens (footballer, born 1963)|Gary Stevens]]
+|-
+|DF ||'''3''' ||{{flagicon|ENG}} [[John Bailey (footballer, born 1957)|John Bailey]]
+|-
+|DF ||'''4''' ||{{flagicon|WAL}} [[Kevin Ratcliffe]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||{{flagicon|ENG}} [[Derek Mountfield]]
+|-
+|MF ||'''6''' ||{{flagicon|ENG}} [[Peter Reid]]
+|-
+|MF ||'''7''' ||{{flagicon|SCO}} [[Alan Irvine (footballer, born 1958)|Alan Irvine]] {{suboff}}
+|-
+|FW ||'''8''' ||{{flagicon|ENG}} [[Adrian Heath]]
+|-
+|FW ||'''9''' ||{{flagicon|SCO}} [[Graeme Sharp]]
+|-
+|FW ||'''10'''||{{flagicon|ENG}} [[Kevin Richardson (footballer)|Kevin Richardson]]
+|-
+|MF ||'''11'''||{{flagicon|ENG}} [[Alan Harper (footballer)|Alan Harper]]
+|-
+|colspan=4|'''Substitute:'''
+|-
+|MF ||'''12'''||{{flagicon|ENG}} [[Andy King (footballer born 1956)|Andy King]] {{subon}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Howard Kendall]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes.
+*30 minutes of extra-time if necessary.
+*One named substitute.
+*Maximum of one substitution.
+|}
+
+===European Cup===
+{{Main|1983–84 European Cup}}
+{| class=wikitable
+!Date
+!Opponents
+!Venue
+!Result
+!Scorers
+!Attendance
+!Report 1
+!Report 2
+|- bgcolor="#ddffdd"
+|	14-Sep-83	||	[[Odense Boldklub|Odense BK]]	||	A	||	1–0	||	[[Kenny Dalglish|Dalglish]] {{goal|14}}	||	30,000	||	[http://www.lfchistory.net/SeasonArchive/Game/1346 Report]	||	[https://web.archive.org/web/20131026012756/http://www.liverweb.org.uk/report.asp?rec_id=4454 Report]
+|- bgcolor="#ddffdd"
+|	28-Sep-83	||	[[Odense Boldklub|Odense BK]]	||	H	||	5–0	||	[[Michael Robinson (footballer)|Robinson]] {{goal|14||72}} [[Kenny Dalglish|Dalglish]] {{goal|32||40}} [[Own Goal]] {{goal|65}}	||	14,985	||	[http://www.lfchistory.net/SeasonArchive/Game/1349 Report]	||	[https://web.archive.org/web/20131025182440/http://www.liverweb.org.uk/report.asp?rec_id=4455 Report]
+|- bgcolor="#ffffdd"
+|	19-Oct-83	||	[[Athletic Bilbao]]	||	H	||	0–0	||		||	33,063	||	[http://www.lfchistory.net/SeasonArchive/Game/1353 Report]	||	[https://web.archive.org/web/20131026012702/http://www.liverweb.org.uk/report.asp?rec_id=4456 Report]
+|- bgcolor="#ddffdd"
+|	02-Nov-83	||	[[Athletic Bilbao]]	||	A	||	1–0	||	[[Ian Rush|Rush]] {{goal|66}}	||	47,500	||	[http://www.lfchistory.net/SeasonArchive/Game/1357 Report]	||	[https://web.archive.org/web/20131026012648/http://www.liverweb.org.uk/report.asp?rec_id=4457 Report]
+|- bgcolor="#ddffdd"
+|	07-Mar-84	||	[[S.L. Benfica|Benfica]]	||	H	||	1–0	||	[[Ian Rush|Rush]] {{goal|66}}	||	39,096	||	[http://www.lfchistory.net/SeasonArchive/Game/1388 Report]	||	[https://web.archive.org/web/20131026012650/http://www.liverweb.org.uk/report.asp?rec_id=4458 Report]
+|- bgcolor="#ddffdd"
+|	21-Mar-84	||	[[S.L. Benfica|Benfica]]	||	A	||	4–1	||	[[Ronnie Whelan|Whelan]] {{goal|9||87}} [[Craig Johnston|Johnston]] {{goal|33}} [[Ian Rush|Rush]] {{goal|79}}	||	70,000	||	[http://www.lfchistory.net/SeasonArchive/Game/1391 Report]	||	[https://web.archive.org/web/20131026012700/http://www.liverweb.org.uk/report.asp?rec_id=4459 Report]
+|- bgcolor="#ddffdd"
+|	11-Apr-84	||	[[FC Dinamo București|Dinamo Bucharest]]	||	H	||	1–0	||	[[Sammy Lee (footballer)|Lee]] {{goal|25}}	||	36,941	||	[http://www.lfchistory.net/SeasonArchive/Game/1396 Report]	||	[https://web.archive.org/web/20131026012754/http://www.liverweb.org.uk/report.asp?rec_id=4460 Report]
+|- bgcolor="#ddffdd"
+|	25-Apr-84	||	[[FC Dinamo București|Dinamo Bucharest]]	||	A	||	2–1	||	[[Ian Rush|Rush]] {{goal|11||84}}	||	60,000	||	[http://www.lfchistory.net/SeasonArchive/Game/1400 Report]	||	[https://web.archive.org/web/20131025182442/http://www.liverweb.org.uk/report.asp?rec_id=4461 Report]
+|}
+
+'''Final'''
+{{Main|1984 European Cup Final}}
+{{footballbox
+|date=30 May 1984
+|time=20:15 [[Central European Time|CET]]
+|team1=[[Liverpool F.C.|Liverpool]] {{flagicon|ENG}}
+|score=1–1 {{aet}}
+|report=[http://www.lfchistory.net/SeasonArchive/Game/1406 Report]<br />[https://web.archive.org/web/20080319104230/http://www.liverweb.org.uk/report.asp?rec_id=4462 Report]
+|team2={{flagicon|ITA}} [[A.S. Roma|Roma]]
+|goals1=[[Phil Neal|Neal]] {{goal|13}}
+|goals2=[[Roberto Pruzzo|Pruzzo]] {{goal|42}}
+|stadium=[[Stadio Olimpico]], [[Rome]]
+|attendance=69,693
+|referee=[[Erik Fredriksson]] ([[Swedish Football Association|Sweden]])
+|penalties1=[[Steve Nicol|Nicol]] {{penmiss}}<br />[[Phil Neal|Neal]] {{pengoal}}<br />[[Graeme Souness|Souness]] {{pengoal}}<br />[[Ian Rush|Rush]] {{pengoal}}<br />[[Alan Kennedy|Kennedy]] {{pengoal}}
+|penaltyscore=4–2
+|penalties2={{pengoal}} [[Agostino Di Bartolomei|Di Bartolomei]]<br/>{{penmiss}} [[Bruno Conti|Conti]]<br/>{{pengoal}} [[Ubaldo Righetti|Righetti]]<br/>{{penmiss}} [[Francesco Graziani|Graziani]] }}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _liverpool84
+ | pattern_b  = _liverpool84
+ | pattern_ra = _liverpool84
+ | pattern_sh = _white_stripes
+ | pattern_so = _2_stripes_white
+ | leftarm = DD0000
+ | body    = DD0000
+ | rightarm = DD0000
+ | shorts   = DD0000
+ | socks = DD0000
+ | title = Liverpool
+}}
+|{{Football kit
+ | pattern_la = _borderonwhite
+ | pattern_b  = _collarwithbodywhite
+ | pattern_ra = _borderonwhite
+ | leftarm = DD041A
+ | body    = DD041A
+ | rightarm = DD041A
+ | shorts   = FFFFFF
+ | socks = FFFFFF
+ | title = Roma
+}}
+|}
+
+{| width=100%
+|valign="top" width=50%|
+{| style=font-size:90% cellspacing=0 cellpadding=0
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ZIM}} [[Bruce Grobbelaar]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Phil Neal]] || {{yel|32}}
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Alan Kennedy]]
+|-
+|CB ||'''4''' ||{{flagicon|IRL}} [[Mark Lawrenson]]
+|-
+|LM ||'''5''' ||{{flagicon|IRL}} [[Ronnie Whelan]]
+|-
+|CB ||'''6''' ||{{flagicon|SCO}} [[Alan Hansen]]
+|-
+|SS ||'''7''' ||{{flagicon|SCO}} [[Kenny Dalglish]] || || {{suboff|94}}
+|-
+|RM ||'''8''' ||{{flagicon|ENG}} [[Sammy Lee (footballer)|Sammy Lee]]
+|-
+|CF ||'''9''' ||{{flagicon|WAL}} [[Ian Rush]]
+|-
+|CM ||'''10'''||{{flagicon|ENG}} [[Craig Johnston]] || || {{suboff|72}}
+|-
+|CM ||'''11'''||{{flagicon|SCO}} [[Graeme Souness]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''12'''||{{flagicon|IRL}} [[Michael Robinson (footballer)|Michael Robinson]] || || {{subon|94}}
+|-
+|GK ||'''13'''||{{flagicon|ENG}} [[Bob Bolder]] 
+|-
+|DF ||'''14'''||{{flagicon|SCO}} [[Steve Nicol]] || || {{subon|72}}
+|-
+|FW ||'''15'''||{{flagicon|ENG}} [[David Hodgson (footballer)|David Hodgson]] 
+|-
+|DF ||'''16'''||{{flagicon|SCO}} [[Gary Gillespie]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ENG}} [[Joe Fagan]]
+|}
+|valign="top"|
+|valign="top" width=50%|
+{| style=font-size:90% cellspacing=0 cellpadding=0 align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Franco Tancredi]]
+|-
+|RB ||'''2''' ||{{flagicon|ITA}} [[Michele Nappi]]
+|-
+|CB ||'''3''' ||{{flagicon|ITA}} [[Sebastiano Nela]]
+|-
+|CB ||'''4''' ||{{flagicon|ITA}} [[Ubaldo Righetti]]
+|-
+|CM ||'''5''' ||{{flagicon|BRA}} [[Paulo Roberto Falcão]]
+|-
+|LB ||'''6''' ||{{flagicon|ITA}} [[Dario Bonetti]]
+|-
+|SS ||'''7''' ||{{flagicon|ITA}} [[Bruno Conti]] || {{yel|15}}
+|-
+|CM ||'''8''' ||{{flagicon|BRA}} [[Toninho Cerezo]] || || {{suboff|115}}
+|-
+|CF ||'''9''' ||{{flagicon|ITA}} [[Roberto Pruzzo]] || || {{suboff|64}}
+|-
+|DM ||'''10'''||{{flagicon|ITA}} [[Agostino Di Bartolomei]] ([[Captain (association football)|c]])
+|-
+|CF ||'''11'''||{{flagicon|ITA}} [[Francesco Graziani]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA}} [[Astutillo Malgioglio]]
+|-
+|DF ||'''13'''||{{flagicon|ITA}} [[Emidio Oddi]]
+|-
+|MF ||'''14'''||{{flagicon|ITA}} [[Mark Tullio Strukelj]] || || {{subon|115}}
+|-
+|FW ||'''15'''||{{flagicon|ITA}} [[Odoacre Chierico]] || || {{subon|64}}
+|-
+|FW ||'''16'''||{{flagicon|ITA}} [[Francesco Vincenzi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SWE}} [[Nils Liedholm]]
+|}
+|}
+
+==References==
+*[http://www.lfchistory.net/SeasonArchive/Games/25 LFC History.net – Games for the 1983–84 season]
+*[https://web.archive.org/web/20131108123341/http://www.liverweb.org.uk/season.asp?season=198384 Liverweb - Games for the 1983–84 season]
+{{reflist}}
+
+{{Liverpool F.C. seasons}}
+{{1983–84 in English football}}
+
+{{DEFAULTSORT:1983-84 Liverpool F.C. season}}
+[[Category:Liverpool F.C. seasons]]
+[[Category:English football clubs 1983–84 season|Liverpool]]
+[[Category:UEFA Champions League-winning seasons]]
+[[Category:English football championship-winning seasons]]

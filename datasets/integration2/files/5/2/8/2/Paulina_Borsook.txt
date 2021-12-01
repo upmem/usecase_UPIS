@@ -1,0 +1,49 @@
+'''Paulina Borsook''' is an American [[Technology journalism|technology journalist]] and writer who has written for ''[[Wired (magazine)|Wired]]'', ''[[Mother Jones (magazine)|Mother Jones]]'', and [[Suck.com]]. She is perhaps best known for her 2000 book ''Cyberselfish'', a critique of the [[Libertarianism|libertarian]] mindset of the digital technology community. As an [[artist-in-residence]] at [[Stanford University]], in 2013 she began work on ''My Life as a Ghost,'' an [[art installation]] based on her experiences living with the [[traumatic brain injury]] she suffered due to a gunshot when she was 14 years old.
+
+==Biography==
+Paulina Borsook was born in [[Pasadena, California|Pasadena]], [[California]]. In 1969, when she was 15, she ran away from home and stayed at [[Rochdale College]] in [[Toronto]], [[Canada]].<ref>{{cite news|title=Not home for the holidays|url=http://www.salon.com/2000/11/21/runaway_2/|newspaper=Salon|date=November 21, 2000}}</ref> She later attended [[University of California, Santa Barbara|UC Santa Barbara]] where she ran a radio show on [[KCSB-FM|KCSB]]. She graduated from [[University of California, Berkeley|UC Berkeley]] with a degree in [[psycholinguistics]] and a minor in philosophy. She then attended graduate school at the [[University of Arizona]] before transferring to [[Columbia University]] where she earned her [[Master of Fine Arts|MFA]].<ref name="bio">{{cite web|title = Contact/bio|url = http://www.paulinaborsook.com/about.html|publisher = Paulinaborsook.com|accessdate = 24 August 2013}}</ref>
+
+Beginning in 1981, Borsook took a job at a [[Marin County, California|Marin County]], California software company. She later worked for the New York-based ''Data Communications'' publication in 1984 before returning to [[San Francisco]] in 1987.<ref name="Independent"/>
+
+Borsook has written extensively about the culture surrounding technology, including [[Silicon Valley]], [[cypherpunk]]s, [[bionomics]], and [[technolibertarianism]]. Her first short story, "Virtual Romance", was nominated for the [[Pushcart Prize]].<ref name="bio"/> She became a contributing writer at ''Wired'' in the 1990s and her [[short story]] about an email romance, "Love Over The Wires", was the first fiction published by the magazine.<ref>{{cite news|last=Borsook|first=Paulina|title=Love Over the Wires|url=https://www.wired.com/wired/archive/1.04/lotw.html|newspaper=Wired|date=September–October 1993}}</ref> She has also written for ''Mother Jones'' and [[Suck.com]], where she wrote under the name "Justine".<ref>{{cite web|last=Krempl|first=Stefan|title=The religion of technolibertarianism|url=http://www.heise.de/tp/artikel/9/9243/1.html|publisher=Telepolis|date=August 8, 2001}}</ref>
+
+===''Cyberselfish''===
+Borsook wrote the book ''Cyberselfish: A Critical Romp Through the Terribly Libertarian Culture of High Tech'', which was published by [[PublicAffairs]] in 2000.<ref name="Independent">{{cite news|title=Paulina Borsook: The grande dame of digital culture|url=https://www.independent.co.uk/news/business/analysis-and-features/paulina-borsook-the-grande-dame-of-digital-culture-694094.html|newspaper=The Independent|date=31 July 2000}}</ref> The book was based on an essay that appeared in ''Mother Jones'' in 1996 and traces the origins of [[technolibertarianism]].<ref>{{cite news|last=Borsook|first=Paulina|title=Cyberselfish|url=https://www.motherjones.com/politics/1996/07/cyberselfish|newspaper=Mother Jones|date=July–August 1996}}</ref><ref>{{cite news|last=Kamiya|first=Gary|title=Smashing the state|url=http://www.salon.com/1997/01/20/state970120/|newspaper=Salon|date=January 20, 1997}}</ref> In the book, she characterizes the culture of the digital technology community as predominately [[libertarianism|libertarian]], anti-government, and anti-regulation.<ref>{{cite news|last=Kakutani|first=Michiko|title=Silicon Valley Views the Economy as a Rain Forest|url=https://books.google.com/books?id=CGV-sHezvSgC&q=Paulina%20Borsook&pg=PA1382|newspaper=The New York Times Book Review|date=July 25, 2000|isbn=9781579580582}}</ref> ''Cyberselfish'' criticized the lack of philanthropy in digital technology circles and questioned how an industry birthed through government funding could be so vehemently anti-government. The book also includes Borsook's experiences as a woman at ''Wired'' magazine and in [[Silicon Valley]]. [[Open-source software|Open-source]] software advocate [[Eric S. Raymond]] criticized Borsook's take in an article he wrote for ''[[Salon (website)|Salon]]'' in 2000.<ref>{{cite news|last=Raymond|first=Eric|title=Don't tweak the geeks!|url=http://www.salon.com/2000/06/28/kakutani_3/|newspaper=Salon|date=June 28, 2000}}</ref><ref>{{cite news|title=Paulina Borsook to Eric Raymond: Don't you Kakutani me!|url=http://www.salon.com/2000/06/30/borsook_raymond/|newspaper=Salon|date=June 30, 2000}}</ref>
+
+===''My Life as a Ghost''===
+
+As a 14-year-old, Borsook suffered a [[traumatic brain injury]] (TBI) after being shot in the head. In 2013, after attending a meeting of people with TBI, Borsook realized that some others with TBI had the same experiences of disconnection she had always felt, a "ghostly" feeling that "[s]omething gets dislocated in the sense of knowing that you belong to yourself and your life". From this epiphany, she conceived the project “[http://mylifeasaghost.org/ My Life as a Ghost],” an [[art installation]] that combines video, audio, performance, and other media into a [[built environment]] to explore "[w]hat happens when the soul is blasted out of the body and is incompletely returned".<ref>{{cite news|last=Dakkak |first=Angelique|title=Paulina Borsook shares thoughts on her "My Life as a Ghost" project|url=http://www.stanforddaily.com/2013/11/11/paulina-borsook-shares-thoughts-on-her-my-life-as-a-ghost-project/|magazine=The Stanford Daily|date=November 11, 2013}}</ref>
+
+She became the first artist in the [[Stanford University|Stanford Arts Institute’s]] new Research Residency program, and presented the concept to an audience in October 2013 at Stanford University's Bing Theatre.<ref>{{cite web|last=Eichelberger|first=Eric|title=Paulina Borsook: My Life as a Ghost|url=http://artsinstitute.stanford.edu/paulina-borsook-my-life-as-a-ghost|publisher= The Stanford Arts Institute|date=October 31, 2013}}</ref>
+
+==Personal life==
+Borsook is divorced, and lives in [[Santa Cruz, California|Santa Cruz]], California.<ref>{{cite news|title=Revenge of the chocolate zucchini bread|url=http://www.salon.com/2000/10/10/zucchini/|newspaper=Salon|date=October 10, 2000}}</ref> She has advocated for the end of the [[light brown apple moth]] eradication programs of the [[United States Department of Agriculture]] (USDA) and the [[California Department of Food and Agriculture]] ([[California Department of Food and Agriculture|CDFA]]).<ref name="bio"/>
+
+== Bibliography ==
+
+=== By Paulina Borsook ===
+
+==== Books ====
+* ''Cyberselfish. a critical romp through the terribly libertarian culture of high tech'', PublicAffairs, 2000, 1st ed., {{ISBN|1891620789}}, 276 p. (Translated into German: ''Schöne neue Cyberwelt. Mythen, Helden und Irrwege des Hightech'', dtv, 2001, translator: Hubert Beck, {{ISBN|9783423242554}})
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://paulinaborsook.com/ PaulinaBorsook.com]
+*[http://www.nettime.org/Lists-Archives/nettime-l-0203/msg00154.html Cyberselfishness Explained: Interview with Paulina Borsook]
+*[http://mylifeasaghost.org/ My Life as a Ghost]
+
+{{authority control}}
+
+{{DEFAULTSORT:Borsook, Paulina}}
+[[Category:1950s births]]
+[[Category:Living people]]
+[[Category:American magazine writers]]
+[[Category:American technology writers]]
+[[Category:Columbia University School of the Arts alumni]]
+[[Category:Writers from Pasadena, California]]
+[[Category:University of Arizona alumni]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:University of California, Santa Barbara alumni]]
+[[Category:American women non-fiction writers]]

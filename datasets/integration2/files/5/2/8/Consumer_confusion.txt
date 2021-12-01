@@ -1,0 +1,46 @@
+{{Use dmy dates|date=December 2011}}
+'''Consumer confusion''' is a state of mind that leads to [[consumer]]s making imperfect [[purchasing decision]]s or lacking confidence in the correctness of their purchasing decisions.<ref name="Walsh1999">{{cite journal |last1=Walsh|first1=K|year=1999 |title=Marketing and Public Sector Management |journal=European Journal of Marketing |volume=28 |issue=3 |pages=63–71 |doi= 10.1108/03090569410057308|url= |accessdate= }}</ref>
+
+==Confusion==
+Confusion occurs when a consumer fails to correctly understand or interpret products and services.<ref name="Turnbull2000">{{cite journal |last1=Turnbull|first1=P W|year=2000 |title=Customer Confusion: The Mobile Phone Market |journal=Journal of Marketing Management |volume=16 |issue=1–3 |pages=143–163 |doi= 10.1362/026725700785100523|url= |accessdate= }}</ref>  This, in turn, leads to them making imperfect purchasing decisions. This concept is important to [[marketeer]]s because consumer confusion may result in reduced sales, reduced [[customer satisfaction|satisfaction]] with products and difficulty communicating effectively with the consumer. It is a widely studied and broad subject which is a part of [[consumer behaviour]] and [[decision making]].<ref name="Soloman2004">Soloman, M R ''Consumer Behaviour: Buying, Having and Being''. Prentice Hall p.7</ref>
+
+==Causes==
+===Choice overload===
+[[Choice overload]] (sometimes called [[overchoice]] in the context of confusion) occurs when the set of purchasing options becomes overwhelmingly large for a consumer. A good example is wine in the UK where supermarkets may present over 1000 different products leaving the consumer with a difficult choice process. Whilst large assortments do have some positive aspects (principally [[novelty]] and stimulation<ref name="Darden1994">{{cite journal |last1=Darden|last2=Griffin|year=1994 |title=|journal=|volume= |issue= |pages= |publisher= |doi= |url= |accessdate= }}</ref> and optimal solutions<ref name="Baumol1956">{{cite journal |last1=Baumol|last2=Ide|year=1956 |title=|journal=|volume= |issue= |pages= |publisher= |doi= |url= |accessdate= }}</ref>) any assortment greater than around 12-14 products leads to confusion and specifically transferring the ownership of quality assurance to the consumer.<ref name="Broniarczyk2008"/> What this means in practice is reduced levels of satisfaction with purchases from large assortments as a consumer may be left with doubt that they have succeeded in finding the "best" product. Choice overload is growing with ever larger supermarkets and the internet being two of the main causes.<ref name="Broniarczyk2008">{{cite journal |last1=Broniarczyk|first1=S M|year=2008 |title=Product Assortment and Consumer Psychology |journal=|volume= |issue= |pages= |publisher= |doi= |url= |accessdate= }}</ref>
+
+===Similarity===
+Similarity is where two or more products lack differentiating features which prevents the consumer easily distinguishing between them. Differentiating features could be any from the [[marketing mix]] or anything else associated with the product such as [[brand]]. Similarity of products has the negative effect on the consumer of increasing the cognitive effort required to make a decision.<ref name="Loken1986">{{cite journal |last1=Loken|first1= M|year=1986 |title= |journal=|volume= |issue= |pages= |publisher= |doi= |url= |accessdate= }}</ref> and reducing the perception of accuracy of decision. Both of these reduce the satisfaction with a decision and thereby satisfaction with the purchase.
+
+===Lack of information===
+A consumer may suffer from lack of information if the information doesn't exist, is unavailable to them at the required moment or is too complex for them to use in their decision making process.
+
+===Information overload===
+Too much information surrounding a product or service disturbs the consumer by forcing them to engage in a more complex and time-consuming purchasing process. This, and the fact that it is difficult to compare and value the information when it is superfluous, leaves the consumer unsatisfied, insecure regarding what choice to make, and more prone to delay the decision-making, and thereby the actual purchase.<ref name="Walsh2007">{{cite journal |last1=Walsh|year=2007 |title=Consumer confusion proneness:Scale development, validation, and application |journal=Journal of Marketing Management|volume=23 |issue= |pages= |doi= |url= |accessdate= |display-authors=etal}}</ref>
+
+===Lack of consistency===
+When information provided on a product and/or service is not consistent with the consumer's previously held beliefs and convictions, ambiguity occurs in the understanding of the product.<ref name="Walsh2007"/>
+
+== Law ==
+[[Trademark infringement]] is measured by the multi-factor "[[likelihood]] of confusion" test. That is, a new mark will infringe on an existing trademark if the new mark is so similar to the original that consumers are likely to confuse the two marks, and mistakenly purchase from the wrong company.<ref name=polaroid>{{cite court |litigants=Polaroid v. Polarad |vol=287 |reporter=F.2d |opinion=492 |pinpoint= |court=2nd Cir. |date=1961 |url=https://scholar.google.com/scholar_case?q=Polaroid+Corporation+v.+Polarad+Electronics&hl=en&as_sdt=4,60,107,112,114,122,127,129&case=2293827617926067028&scilh=0 |accessdate= |quote=}}</ref>
+
+The likelihood of confusion test turns on several factors,<ref name=polaroid /> including:
+* Strength of the plaintiff's trademark; 
+* Degree of similarity between the two marks at issue; 
+* Similarity of the goods and services at issue;
+* Evidence of actual confusion; 
+* Purchaser sophistication; 
+* Quality of the defendant's goods or services; 
+* Defendant's intent in adopting the mark.
+
+''Initial interest confusion'' occurs when a mark is used to attract a consumer, but upon inspection there is no confusion. This type of confusion is well-recognized for Internet searches, where a consumer may be looking for the site of one company, and a second site mimics keywords and metadata to draw hits from the "real" site.
+
+''[[Point of sale]] confusion'' occurs when a consumer believes their product to be from a company which it is not.
+
+''Post sale confusion'' occurs after a product is purchased, and third parties mistakenly think that the product is produced by a different, generally more prestigious, brand.
+
+==References==
+{{Reflist|2}}
+
+{{Consumer behaviour}}
+
+[[Category:Consumer behaviour]]

@@ -1,0 +1,25 @@
+== Summary ==
+{{Non-free use rationale poster
+| Media             = film
+| Article           = The Dead Don't Dream
+| Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+| Name              = The Dead Don't Dream
+| Distributor       = United Artists
+| Publisher         = 
+| Type              = 
+| Website           =
+| Owner             = 
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+| Replaceability    = 
+| other_information = 
+}}
+
+== Licensing ==
+{{Non-free poster|image has rationale=yes}}

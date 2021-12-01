@@ -1,0 +1,43 @@
+{{Infobox mountain
+| name = San Pablo
+| photo = Volcan_San_Pedro.jpg
+| photo_caption = Volcan San Pablo from just below the summit on [[San Pedro (Chile volcano)|San Pedro volcano]]
+| elevation_m = 6092
+| elevation_ref = <ref name="difrol">{{cite web
+ |url         = http://www.difrol.cl/index.php?option=com_difrol&tabla=cumbres&tarea=mostrar&id=14&Itemid=25
+ |title       = Cumbres en Zona Fronteriza: Volcán San Pablo
+ |accessdate  = 9 February 2012
+ |publisher   = Chilean Government - Difrol
+ |language    = Spanish
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20120316001647/http://www.difrol.cl/index.php?option=com_difrol&tabla=cumbres&tarea=mostrar&id=14&Itemid=25
+ |archivedate = 16 March 2012
+}}</ref>
+| prominence_m = 790
+| prominence_ref = <ref>Google maps, terrain mode</ref>
+| location = [[Chile]]
+| range = [[Andes]]
+| coordinates = {{coord|21|52|S|68|22|W|type:mountain}}
+| coordinates_ref = <ref name="difrol"/>
+| type = [[Stratovolcano]]
+| age = 
+| last_eruption = 
+| first_ascent = 1910 <ref>{{cite web |title=San Pablo |url=http://www.andes.org.uk/andes-information-files/6000m-peaks.asp |website=Andes Website |accessdate=2020-06-22}}</ref>
+| easiest_route = North side to col then West slopes
+}}
+
+'''San Pablo''' is a dormant volcano located in the [[Antofagasta Region]] of [[Chile]], near the [[Bolivia]] border. It is joined to the younger [[San Pedro (Chile volcano)|San Pedro volcano]] by a high col.
+
+San Pablo was active in pre-[[Glacial period|glacial]] times. After that period, [[Glacier|glaciations]] formed a girdle of [[Moraine|moraines]] and the mountain was covered by ash fall from neighbouring San Pedro.<ref>{{Cite journal|last=O'callaghan|first=L. J.|last2=Francis|first2=P. W.|date=1986-03-01|title=Volcanological and petrological evolution of San Pedro volcano, Provincia EI Loa, North Chile|url=http://jgs.lyellcollection.org/content/143/2/275|journal=Journal of the Geological Society|volume=143|issue=2|pages=277|doi=10.1144/gsjgs.143.2.0275|issn=0016-7649|via=}}</ref> Its central crater was eroded and a glacier formed inside. The volcano itself is formed by three groups of [[andesite]] lavas which variously contain [[pyroxene]] or [[hornblende]]; these groups are known as the Lower Group, the Middle Group and the Summit Group.<ref>{{Cite journal|last=Francis|first=P. W.|last2=Roobol|first2=M. J.|last3=Walker|first3=G. P. L.|last4=Cobbold|first4=P. R.|last5=Coward|first5=M.|date=1974-01-01|title=The San Pedro and San Pablo volcanoes of northern Chile and their hot avalanche deposits|journal=Geologische Rundschau|language=en|volume=63|issue=1|pages=357–388|doi=10.1007/BF01820994|issn=0016-7835}}</ref>
+
+Cerro paniri and volcan san pablo chile ii region.jpg
+San Pablo volcano (left) and [[Cerro Paniri]] (center).
+ 
+==References==
+{{Reflist}}
+
+[[Category:Mountains of Chile]]
+[[Category:Stratovolcanoes of Chile]]
+[[Category:Volcanoes of Antofagasta Region]]
+
+{{Antofagasta-geo-stub}}

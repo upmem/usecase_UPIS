@@ -1,0 +1,19 @@
+<div class="boilerplate metadata afd vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result was  '''DELETE'''.  '''[[User:Postdlf|postdlf]]''' (''[[User talk:Postdlf|talk]]'') 23:03, 12 April 2011 (UTC)
+===[[The Gas Theory of Universe Creation]]===
+
+:{{la|The Gas Theory of Universe Creation}} – (<includeonly>[[Wikipedia:Articles for deletion/The Gas Theory of Universe Creation|View AfD]]</includeonly><noinclude>[[Wikipedia:Articles for deletion/Log/2011 April 6#{{anchorencode:The Gas Theory of Universe Creation}}|View log]]</noinclude>)
+:({{Find sources|The Gas Theory of Universe Creation}})
+[[WP:NOR|Original research]], PROD removed by author. [[User:Gilo1969|<span style="font-weight: bold; font-style: italic; font-size: 130%; color: white; background: #0066CC; font-family: 'Arial Rounded MT Bold',Arial,Sans-serif">GILO&nbsp;</span>]]&nbsp;[[Special:Contributions/Gilo1969|<span style="font-weight: bold; color: white; background: red; position: absolute; font-family: 'Arial',Arial,Sans-serif"><sup>&nbsp;ACCIDENT &&nbsp;</sup></span>]][[User talk:Gilo1969|<span style="font-weight: bold; color: white; background: red; font-family: 'Arial',Arial,Sans-serif"><sub>EMERGENCY</sub></span>]] 18:02, 6 April 2011 (UTC)
+*'''Comment''' Irrespective of the actual merits of inclusion, I've blanked the article pending verification via OTRS for the material as it has been previously published elsewhere. [[User:VernoWhitney|VernoWhitney]] ([[User talk:VernoWhitney|talk]]) 18:16, 6 April 2011 (UTC)
+*'''Delete''' Wikipedia is not a free web host. There's COI issues with this article, being that the author claims copyright ownership on the material that is being copyvio'ed. [[Special:Contributions/65.93.12.101|65.93.12.101]] ([[User talk:65.93.12.101|talk]]) 04:26, 7 April 2011 (UTC)
+*'''Delete''' for original research, among other reasons. We're [[WP:FORUM|not the place to publish new theories]].--[[User:Physics is all gnomes|Physics is all gnomes]] ([[User talk:Physics is all gnomes|talk]]) 21:44, 7 April 2011 (UTC)
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Science|list of Science-related deletion discussions]]. --[[User:Physics is all gnomes|Physics is all gnomes]] ([[User talk:Physics is all gnomes|talk]]) 21:47, 7 April 2011 (UTC)<!--Template:Deletion sorting--></small>
+*'''Delete''' as OR. --[[User:Kkmurray|Kkmurray]] ([[User talk:Kkmurray|talk]]) 02:05, 8 April 2011 (UTC)
+*'''Comment''' Marking this article with both COPYVIO and COI, whether due to ignorance or cynicism, disgusts me. [[User:Anarchangel|Anarchangel]] ([[User talk:Anarchangel|talk]]) 02:18, 8 April 2011 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. <!--Template:Afd bottom--></div>

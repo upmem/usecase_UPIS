@@ -1,0 +1,91 @@
+{{electiontable|Greenlandic local elections, 2017|Summary of the 04 April 2017 [[Administrative_divisions_of_Greenland#Municipalities|Municipal Councils of Greenland]] [[2017 Greenlandic local elections|election results]]<ref>http://qinersineq.gl/</ref>}}
+|- style="background-color:#E9E9E9"
+!style="text-align:left" rowspan="2" colspan="2"| Parties
+!style="text-align:left" rowspan="2"| Leaders
+! colspan="3"| Votes
+! colspan="2"| Seats
+|-
+! #
+! %
+! ±
+! #
+! ±
+|-
+
+|-
+|style="background-color:{{Forward (Greenland)/meta/color}}"|
+|style="text-align:left"| '''[[Forward (Greenland)|Forward]]''' (''Siumut'') (S)
+|style="text-align:left"| [[Kim Kielsen]]
+| 10,407
+| 41.5
+| {{decrease}} 6.0
+| 39
+| {{increase}} 3
+|-
+|style="background-color:{{Community of the People/meta/color}}"|
+|style="text-align:left"| '''[[Inuit Ataqatigiit|Community of the People]]''' (''Inuit Ataqatigiit'') (IA)
+|style="text-align:left"| [[Sara Olsvig]]
+| 8,117
+| 32.4
+| {{decrease}} 3.0
+| 26
+| {{increase}} 6
+|-
+|style="background-color:{{Solidarity (Greenland)/meta/color}}"|
+|style="text-align:left"| '''[[Feeling of Community|Unionist Party]]''' (''Atassut'') (A)
+|style="text-align:left"| [[Siverth K. Heilmann]]
+| 2,949
+| 11.8
+| {{decrease}} 1.1
+| 9
+| {{steady}} 0
+|-
+|style="background-color:{{Democrats (Greenland)/meta/color}}"|
+|style="text-align:left"| '''[[Democrats (Greenland)|Democrats]]''' (''Demokraatit'') (D)
+|style="text-align:left"| [[Randi V. Evaldsen]]
+| 2,059
+| 8.2
+| {{increase}} 1.8
+| 4
+| {{increase}} 2
+|-
+|style="background-color:{{Naleraq Party/meta/color}}"|
+|style="text-align:left"| '''[[Partii Naleraq|Point of Orientation Party]]''' (''Partii Naleraq'') (PN)
+|style="text-align:left"| [[Hans Enoksen]]
+| 1,143
+| 4.6
+| New
+| 3
+| New
+|-
+|style="background-color:{{Independent (politician)/meta/color}}"|
+|style="text-align:left" colspan="2"| '''[[Independent politician|Candidates without parties]]'''
+| 0
+| 0.0
+| {{decrease}} 0.2
+| 0
+| {{decrease}} 1
+|- style="background-color:#AAAAAA"
+|colspan="8"|
+|-
+|style="background-color:gray"|
+|style="text-align:left" colspan="2"| Invalid votes
+| 132
+|
+|
+|
+|
+|- style="background-color:#AAAAAA"
+|colspan="8"|
+|-
+|style="text-align:left" colspan="3"| Subtotal&emsp;(Turnout: 61.1% – electorate: 41.036)
+| 25,059
+| 100.0
+|
+| 81
+|
+|}
+<small>All turnout figures include invalid votes, subtotals and totals exclude invalid votes</small><noinclude>{{reflist}}</noinclude><noinclude>
+
+[[Category:Greenland election result templates|Local 2017]]
+</noinclude>

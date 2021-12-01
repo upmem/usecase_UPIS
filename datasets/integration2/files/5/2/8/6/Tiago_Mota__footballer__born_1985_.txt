@@ -1,0 +1,55 @@
+{{short description|Portuguese footballer}}
+{{Infobox football biography
+| name = Tiago Mota
+| fullname = Tiago José Bico Mota
+| birth_date = {{birth date and age|1985|11|12|df=yes}}
+| image = 
+| birth_place = [[Lisbon]], Portugal
+| height = {{height|m=1.80}}
+| position = [[Midfielder]]
+| currentclub = [[U.D. Vilafranquense|Vilafranquense]] (staff)
+| clubnumber = 
+| youthyears1 = 2001–2002 | youthclubs1 = CAC
+| youthyears2 = 2002–2004 | youthclubs2 = [[FC Porto|Porto]]
+| youthyears3 = 2004–2005 | youthclubs3 = [[S.C. Lourinhanense|Lourinhanense]]
+| years1 = 2005–2006 | clubs1 = Loures                                     | caps1 =     | goals1 =
+| years2 = 2006–2007 | clubs2 = Oeiras                                     | caps2 =     | goals2 =
+| years3 = 2007–2008 | clubs3 = [[Atlético Clube de Portugal|Atlético CP]] | caps3 = 15  | goals3 = 1
+| years4 = 2008–2009 | clubs4 = [[Nea Salamis Famagusta FC|Nea Salamis]]   | caps4 = 21  | goals4 = 0
+| years5 = 2009–2017 | clubs5 = [[Clube Oriental de Lisboa|Oriental]]      | caps5 = 233 | goals5 = 16
+| years6 = 2017–2018 | clubs6 = [[Atlético Clube da Malveira|Malveira]]    | caps6 =     | goals6 = 
+| years7 = 2018–2019 | clubs7 = [[U.D. Vilafranquense|Vilafranquense]]     | caps7 = 19  | goals7 = 1
+| pcupdate = 
+| ntupdate = 
+}}
+'''Tiago José Bico Mota''' (born 12 November 1985) is a [[Portugal|Portuguese]] retired [[association football|football]] player.
+
+==Career==
+===Club career===
+He made his professional debut in the [[Segunda Liga]] for [[Clube Oriental de Lisboa|Oriental]] on 9 August 2014 in a game against [[C.D. Santa Clara|Santa Clara]].<ref>{{cite web|publisher=Soccerway|url=https://int.soccerway.com/matches/2014/08/09/portugal/liga-de-honra/cd-santa-clara/clube-oriental-lisboa/1756787/|title=Game Report by Soccerway|date=9 August 2014}}</ref>
+
+===Later career===
+After a prolonged injury, 34-year old Mota retired at the end of 2019 and immediately became a part of the technical team of his last club [[U.D. Vilafranquense]].<ref>[https://www.record.pt/futebol/futebol-nacional/2--liga/vilafranquense/detalhe/tiago-mota-pendura-chuteiras-e-integra-equipa-tecnica-do-vilafranquense Tiago Mota pendura chuteiras e integra equipa técnica do Vilafranquense], record.pt, 1 January 2020</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+
+{{DEFAULTSORT:Mota, Tiago}}
+[[Category:1985 births]]
+[[Category:Sportspeople from Lisbon]]
+[[Category:Living people]]
+[[Category:Portuguese footballers]]
+[[Category:Portuguese expatriate footballers]]
+[[Category:Atlético Clube de Portugal players]]
+[[Category:Nea Salamis Famagusta FC players]]
+[[Category:Clube Oriental de Lisboa players]]
+[[Category:U.D. Vilafranquense players]]
+[[Category:Liga Portugal 2 players]]
+[[Category:Cypriot Second Division players]]
+[[Category:Association football midfielders]]
+[[Category:Portuguese expatriate sportspeople in Cyprus]]
+[[Category:Expatriate footballers in Cyprus]]
+
+{{Portugal-footy-midfielder-stub}}

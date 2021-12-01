@@ -1,0 +1,12 @@
+{{POTD {{{1|{{{style|default}}}}}}
+|image=Io highest resolution true color.jpg
+|title=[[Io]]
+|texttitle=Io
+|size=300
+|caption=
+
+A true-color image of '''[[Io (moon)|Io]]''', one of the moons of [[Jupiter]], taken by the ''[[Galileo (spacecraft)|Galileo]]'' spacecraft. The dark spot just left of the center is the erupting volcano [[Prometheus (volcano)|Prometheus]]. The whitish plains on either side of it are coated with volcanically deposited [[sulfur dioxide]] frost, whereas the yellower regions contain a higher proportion of [[sulfur]].
+
+|credit=Photo: [[NASA]]
+}}<noinclude>[[Category:Wikipedia Picture of the day {{#time:F Y|{{SUBPAGENAME}}}}]]
+</noinclude>

@@ -1,0 +1,67 @@
+{{multiple issues|
+{{one source|date=August 2013}}
+{{more footnotes|date=October 2013}}
+}}
+
+{{Infobox military unit
+| unit_name        = 12th Light Infantry Brigade (Airmobile)
+| native_name      = 12ª Bda Inf L (Amv)
+| country          = Brazil
+| image            =12bdalv.png 
+| caption          =12th Light Infantry Brigade (Airmobile) insignia
+| size             = 4,000 men, more than 110 motorized and 110 mechanized combat vehicles, 24 field airmobile howitzers
+| command_structure= 2nd Army Division
+| dates             = 1995 - Present
+| current_commander          = [[General de brigada|Gen Bda Cmb]] William Georges Felippe Abrahão<ref>[http://www.exercito.gov.br/c/document_library/get_file?uuid=19de0d51-d16a-4bf1-9a1d-dbcffa0a7c58&groupId=16768 Informex n.º 2012/29] {{Webarchive|url=https://web.archive.org/web/20121127025829/http://www.exercito.gov.br/c/document_library/get_file?uuid=19de0d51-d16a-4bf1-9a1d-dbcffa0a7c58&groupId=16768 |date=2012-11-27 }} of November 8, 2012</ref>
+| garrison         = Rua Marquês do Herval 109, [[Caçapava]], {{flag|São Paulo}}
+| website          = {{URL|http://www.bdaamv.eb.mil.br|Unit website}}
+}}
+
+'''12th Light Infantry Brigade (Airmobile) - 12ª Bda Inf L (Amv)''' is a major elite unit of the [[Brazilian Army]]. Its headquarters is located in [[Cacapava]] in [[São Paulo]]. Its catchment area covers the whole country. It is framed by the [[2nd Division Army]] / [[Military Command Southeast]], based in [[São Paulo (city)|São Paulo]].
+
+The 12th Light Infantry Brigade is organized, equipped and trained for deployment on short notice and at any point of the country. Can move by air, for business jets and civilian or military aircraft and helicopters [[Brazilian Air Force|Air Force]], but their primary means of transportation are the rotorcraft Command Army Aviation. From bases located near their barracks, their main means of transport is by helicopter, means of transport by which performs its main function, the [[airmobile assault]], the Light Brigade constitutes an effective instrument of strategic reach permanently available to the Land Force, being an integral unit of the [[Rapid Action Force and Strategic]] ([[Rapid Action Force and Strategic|FAR]]) in the [[Brazilian Army]].
+
+==History==
+
+On June 18, 1919, the 4th Infantry Brigade was created, based in the city of São Paulo, and after successive transformations, gave rise to the current Light Brigade. In September 1919 the Brigade was transferred to Cacapava, having been temporarily extinguished in November 1930. In October 1932 Command of the 4th Inf Brigade was reactivated in May and 1934 becomes organic 2nd Infantry Division.
+    
+In 1938 it was opened the Command Infantry divisional (ID / 2), replacing the 4th Inf Brigade, which is extinct. Remains under that name until 1971, when a change occurs to the 12th Infantry Brigade and becomes part of the 2nd Army Division.
+    
+Fifteen years later had his name changed again, and began to form in the 12th Motorized Infantry Brigade, finally, by Ministerial Reserved No. 023, of June 19, 1995, was transformed in the 12th Light Infantry Brigade (Airmobile), maintaining its headquarters in Cacapava.
+
+==Organic military units==
+
+* '''Command 12th Light Infantry Brigade (Airmobile)''' - [[Caçapava]]
+** Command Company of 12th Light Infantry Brigade (Airmobile) – Caçapava
+** [[4th Light Infantry Battalion (Motorized)]] – [[Osasco]]
+** [[5th Light Infantry Battalion (Motorized)]] - [[Lorena, São Paulo|Lorena]]
+** [[6th Light Infantry Battalion (Mechanized)]] - Caçapava
+** [[20th Light Field Artillery Group (Airmobile)]] - [[Barueri]]
+** [[22nd Light Logistic Battalion]] - Barueri
+** [[1st Light Cavalry Mechanized Battalion (Airmobile)]] - Valença 
+** [[12th Light Combat Engineering Company]] – [[Pindamonhangaba]]
+** [[5th Anti-Air Missile & Gun Artillery battery]] - Osasco
+** [[12th Light Signals Company]] - Caçapava
+** [[12th Army Police Platoon]] - Caçapava
+
+==Kind of Organic Units==
+
+[[Light Infantry Battalion (Motorized)]] - Anti-tank and anti-air capable, 54 wheeled motorized fast vehicles, all weather combat, airmobile / air-dropable
+[[Infantry Battalion (Mechanized)]] - Anti-tank and anti-air capable, 54 wheeled light armoured fast vehicles, all weather combat, airmobile
+[[Light Cavalry Mechanized Battalion (Airmobile)]] - Fast light armoured, anti-tank / recognition / security, 54 combat vehicles, airmobile
+[[Light Field Artillery Group (Airmobile)]] - Field artillery, airmobile, 24 fast mountable / unmountable howitzer artillery
+
+==See also==
+* [[Defense Ministry]] - Ministério da Defesa
+* [[Brazilian Army]]
+* [[Brigade (Army)|Military Brigades]]
+
+==References==
+{{Reflist}}
+{{more citations needed|date=September 2013}}
+
+==External links==
+*[http://www.bdaamv.eb.mil.br/ Site of 12ª Bda Inf L (Amv)]
+
+{{DEFAULTSORT:12th Light Infantarry Brigade (Airmobile)}}
+[[Category:Army units and formations of Brazil]]

@@ -1,0 +1,16 @@
+{{CBSB Standings Start|1983 Southwest Conference baseball standings|Southwest Conference}}
+{{CBSB Standings Entry| {{abbr|No.|Number}} 1 [[1983 Texas Longhorns baseball team|Texas]] |conf-champ=y|tourney=y|ncaa-invited=y|18|3|66|14}}
+{{CBSB Standings Entry| {{abbr|No.|Number}} 24 {{CBSB link|year=1983|team=Arkansas Razorbacks|title=Arkansas}} |ncaa-invited=y|13|8|44|21}}
+{{CBSB Standings Entry| {{CBSB link|year=1983|team=Houston Cougars|title=Houston}} |13|8|43|15}}
+{{CBSB Standings Entry| {{CBSB link|year=1983|team=Baylor Bears|title=Baylor}} |8|7|20|9}}
+{{CBSB Standings Entry| {{CBSB link|year=1983|team=Rice Owls|title=Rice}} |2|11|9|12}}
+{{CBSB Standings Entry| {{CBSB link|year=1983|team=Texas Tech Red Raiders|title=Texas Tech}} |8|13|18|23}}
+{{CBSB Standings Entry| {{CBSB link|year=1983|team=TCU Horned Frogs|title=TCU}} |6|15|26|25}}
+{{CBSB Standings Entry| {{CBSB link|year=1983|team=Texas A&M Aggies|title=Texas A&M}} |4|17|24|21}}
+{{CBSB Standings End|date=June 30, 1983<ref>{{cite web|url=http://www.boydsworld.com/data/standings/standings1983.html|publisher=boydsworld.com|title=College Baseball Conference Standings -- 1950|accessdate=October 16, 2014}}</ref>|poll=[[1983 NCAA Division I baseball rankings#Collegiate Baseball|Collegiate Baseball]]|tourney=[[1983 Southwest Conference Baseball Tournament|Tournament]]|conf-champ=y|ncaa-invited=y|ncaa-tourney-link=[[1983 NCAA Division I Baseball Tournament|NCAA Tournament]]}}
+<noinclude>
+{{Template reference list}}
+[[Category:1983 Southwest Conference baseball season|+Standings]]
+[[Category:1983 NCAA Division I baseball standings templates|Southwest Conference]]
+[[Category:Southwest Conference baseball standings templates]]
+</noinclude>

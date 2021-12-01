@@ -1,0 +1,65 @@
+{{Infobox earthquake
+|title= 1932 Ierissos earthquake
+|timestamp = 1932-09-26 19:20:46
+|isc-event = 906386
+|anss-url = iscgem906386
+|local-date = {{Start date|1932|09|26}}
+|local-time = 21:20:46
+|map2 = {{Location map | Greece
+ | label=
+ | lat=39.8
+ | long=23.8
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 7.0 {{M|s|link=y}}<ref name="Pavlides"/>
+|depth={{convert|40|km|abbr=on}}
+|location={{coord|39.8|23.8|display=inline,title}}
+|countries affected = [[Greece]], [[Ierissos]]
+|tsunami = {{convert|1|m|abbr=on}} <ref name=PAGER-CAT/>
+|intensity = [[Mercalli intensity scale|X (''Extreme'')]] <ref name=NGDC/>
+|casualties =491<ref name="NGDC_E"/>
+}}
+
+The '''1932 Ierissos earthquake''' occurred at 19:20 on 26 September. It caused severe damage in [[Ierissos]] and the surrounding part of the [[Chalkidiki]] peninsula, with 491 casualties reported.
+
+==Tectonic setting==
+The [[Aegean Sea]] is an area of mainly [[extensional tectonics]] caused by the [[subduction]] of the [[African Plate]] beneath [[Aegean Sea Plate]]. In the northwest Aegean, extension on approximately W-E trending extensional faults is accompanied by dextral (right lateral) [[Fault (geology)#Strike-slip faults|strike-slip]] on SW-NE trending faults, and minor sinistral (left lateral) movement on NW-SE trending faults, accommodating the diffuse plate boundary zone between the [[Eurasian Plate]] and the Aegean Sea Plate.<ref name="USGS_Tectonic_Summary">{{cite web|url=https://earthquake.usgs.gov/earthquakes/world/greece/tectonic_summary.php |title=Tectonic Summary of Greece |last=USGS |date=29 March 2010 |accessdate=26 July 2010 |archiveurl=https://web.archive.org/web/20100729002223/http://earthquake.usgs.gov/earthquakes/world/greece/tectonic_summary.php |archivedate=29 July 2010 |url-status=dead }}</ref> The earthquake has been attributed to movement on the Stratoni fault, one of the W-E trending faults that shows predominantly dip-slip extension.<ref name="Pavlides">{{cite journal|last=Pavlides|first=S.B.|author2=Tranos M.D.|year=1991|title=Structural characteristics of two strong earthquakes in the North Aegean: Ierissos (1932) and Agios Efstratios (1968)|journal=Journal of Structural Geology|volume=13|issue=2|doi=10.1016/0191-8141(91)90067-s|pages=205–214|bibcode=1991JSG....13..205P}}</ref>
+
+==Damage==
+The earthquake destroyed the town of Ierissos and several villages in the surrounding area.<ref name="Pavlides"/> 10,000 people were left homeless. The cost of the damage was estimated as 5 million [[drachma]]s.<ref name="NGDC_E">{{cite web|url=http://www.ngdc.noaa.gov/nndc/struts/results?eq_0=3502&t=101650&s=13&d=22,26,13,12&nd=display|title=Comments for the Significant Earthquake|last=NGDC|accessdate=1 August 2010}}</ref>
+
+The minor [[tsunami]] caused no damage.<ref name="NGDC_T">{{cite web|url=http://www.ngdc.noaa.gov/nndc/struts/results?eq_0=3502&t=101650&s=18&d=99,91,95,93&nd=display|title=Comments for the Tsunami Event|last=NGDC|accessdate=1 August 2010}}</ref>
+
+==Characteristics==
+The Stratoni fault was identified as the fault responsible for the 1932 event because of evidence of surface ruptures recorded soon after the earthquake and from the [[Isoseismal map|pattern of isoseismals]], which were elongated in a W-E to NW-SE orientation and similarly orientated volume of recently observed seismicity.<ref name="Pavlides"/> From the observation of [[slickensides]] along exposed fault planes, the movement along the fault is dip-slip extensional with local areas of oblique slip with a component of sinistral (left-lateral) strike-slip.  The extension direction is currently oriented north-south but, when the fault was formed, was oriented NNE-SSW, perpendicular to the fault trace, possibly due to subsequent clockwise rotation of the area.<ref name="Pavlides"/>
+
+The earthquake was followed by three strong [[aftershock]]s (M=6.0, 5.7 & 6.2) in the period 26&ndash;29 September, and the largest (M6.3) on 11 May of the following year.<ref name="Pavlides"/>
+
+A minor tsunami was reported, which was recorded by a temporary [[tide gauge]], giving a maximum height of 1 m. The movement awoke the operator of a [[dredger]], who saw a current spreading up the Strimonas River about an hour after the earthquake.<ref name="NGDC_T"/>
+
+==See also==
+* [[List of earthquakes in 1932]]
+* [[List of earthquakes in Greece]]
+
+==References==
+{{Reflist|refs=
+<ref name=NGDC>{{citation|title=Significant Earthquake Database|url=https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1|author=National Geophysical Data Center / World Data Service (NGDC/WDS)|publisher=[[National Geophysical Data Center]], [[National Oceanic and Atmospheric Administration|NOAA]]|doi=10.7289/V5TD9V7K|year=1972|type=Data Set}}</ref>
+<ref name=PAGER-CAT>{{citation|title=PAGER-CAT Earthquake Catalog|url=https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/|author=USGS|date=September 4, 2009|publisher=[[United States Geological Survey]]|series=Version 2008_06.1 }}</ref>
+}}
+
+==External links==
+*{{EQ-isc-link|906386}}
+
+{{Earthquakes in 1932}}
+{{Earthquakes in Greece}}
+
+[[Category:Earthquakes in Greece]]
+[[Category:1932 earthquakes|Ierissos Earthquake, 1932]]
+[[Category:History of Chalkidiki]]
+[[Category:1932 in Greece|Ierissos Earthquake, 1932]]
+[[Category:1932 tsunamis]]

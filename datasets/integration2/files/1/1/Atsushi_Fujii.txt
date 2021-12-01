@@ -1,0 +1,49 @@
+{{short description|Japanese baseball player}}
+{{Infobox NPB player
+| name        = Atsushi Fujii<br/>藤井 淳志
+| image       = 中日ドラゴンズ藤井淳志選手.jpg
+| image_size  = 250px
+| caption     = Fujii with the Chunichi Dragons
+| position    = [[Outfielder]]
+| team        = Chunichi Dragons
+| number      = 4
+| birth_date  = {{birth date and age|1981|5|20}}
+| bats        = Right
+| throws      = Right
+| debutleague = [[Nippon Professional Baseball|NPB]]
+| debutdate   = March 31
+| debutyear   = 2006
+| debutteam   = Chunichi Dragons
+| statyear    = 2019
+| statleague  = NPB
+| stat1label  = [[Batting average (baseball)|Batting average]]
+| stat1value  = .262
+| stat2label  = [[Hit (baseball)|Hits]]
+| stat2value  = 634
+| stat3label  = [[Home run]]s
+| stat3value  = 45
+| stat4label  = [[Run batted in|RBI]]
+| stat4value  = 273
+| stat5label  = [[Stolen base]] 
+| stat5value  = 46
+| teams       = 
+*[[Chunichi Dragons]] ({{npby|2006}}&ndash;present)
+}}
+'''Atsushi Fujii''' (藤井 淳志, born May 20, 1981 in [[Toyohashi, Aichi|Toyohashi]], [[Aichi Prefecture]]) is a [[Japanese people|Japanese]] professional [[baseball]] [[outfielder]] for the [[Chunichi Dragons]] in [[Japan]]'s [[Nippon Professional Baseball]]. He has played for the Dragons since 2006.
+
+==External links==
+{{Baseballstats|brm=fujii-001ats}}
+*[http://bis.npb.or.jp/eng/players/51455112.html NBP]
+
+{{Chunichi Dragons roster navbox}}
+
+{{DEFAULTSORT:Fujii, Atsushi}}
+[[Category:1981 births]]
+[[Category:Living people]]
+[[Category:People from Toyohashi]]
+[[Category:Baseball people from Aichi Prefecture]]
+[[category:University of Tsukuba alumni]]
+[[Category:Japanese baseball players]]
+[[category:Nippon Professional Baseball outfielders]]
+[[Category:Chunichi Dragons players]]
+{{Japan-baseball-outfielder-stub}}

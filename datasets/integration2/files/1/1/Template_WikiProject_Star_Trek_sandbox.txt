@@ -1,0 +1,29 @@
+{{WPBannerMeta
+|PROJECT             = Star Trek
+ |substcheck=<includeonly>{{subst:</includeonly><includeonly>substcheck}}</includeonly>
+ |small={{{small|}}}
+ |category={{{category|¬}}}
+ |listas={{{listas|}}}
+|IMAGE_LEFT          = Delta-shield.svg
+ |IMAGE_LEFT_SMALL   = 30px
+ |IMAGE_LEFT_LARGE   = 50px
+|QUALITY_SCALE       = subpage
+ |class={{{class|}}}
+ |importance={{{importance|}}}
+|ASSESSMENT_LINK     = Wikipedia:WikiProject Star Trek/Assessment
+|MAIN_TEXT           = This {{pagetype|{{{class|}}}}} is within the scope of '''[[Wikipedia:WikiProject Star Trek|WikiProject Star Trek]]'''{{#ifeq:{{{small|}}}|yes||, an attempt to build a comprehensive and detailed guide to all ''[[Star Trek]]''-related topics on Wikipedia. If you would like to participate, you can edit the article attached to this page, or visit the [[Wikipedia:WikiProject Star Trek|project page]], where you can join the project and/or contribute to the [[Wikipedia talk:WikiProject Star Trek|discussion]]}}.
+|MAIN_CAT            = WikiProject Star Trek articles
+|PORTAL              = 
+|note 1              = {{{merge|}}}
+ |NOTE_1_TEXT        = The possible merging of this {{pagetype|{{{class|}}}}} has been [[Wikipedia:WikiProject Star Trek/Merging#{{PAGENAME}}|discussed]] by editors of the WikiProject.
+ |NOTE_1_IMAGE       = Merge-arrows.svg
+ |NOTE_1_SIZE        = 30px
+|note 2              = {{{needs-picture|}}}
+ |NOTE_2_TEXT        = It is requested that a '''picture''' or '''pictures''' be [[Wikipedia:Uploading images|included]] in this article to [[Wikipedia:Guide to improving articles|improve its quality]].
+ |NOTE_2_IMAGE       = Image-request.svg
+ |NOTE_2_SIZE        = 30px
+ |NOTE_2_CAT         = Star Trek articles needing images
+|COMMENTS            = yes
+}}<noinclude>
+{{Documentation}}
+</noinclude>

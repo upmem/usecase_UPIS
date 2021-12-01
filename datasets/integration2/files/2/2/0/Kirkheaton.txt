@@ -1,0 +1,58 @@
+{{about|the village in West Yorkshire|the village in Northumberland|Kirkheaton, Northumberland}}
+{{More citations needed|date=February 2018}}
+{{Short description|Village in West Yorkshire, England}}
+{{Use dmy dates|date=October 2019}}
+{{Use British English|date=November 2019}}
+{{Infobox UK place
+|static_image_name = St John's Church, Kirkheaton - geograph.org.uk - 97593.jpg
+|static_image_caption = St John's Church
+|official_name = Kirkheaton
+|os_grid_reference = 
+|coordinates = {{coord|53.6552|-1.7290|display=inline,title}}
+|label_position =           bottom
+|metropolitan_borough =     [[Kirklees]]
+|metropolitan_county =      [[West Yorkshire]]
+|region =                   Yorkshire and the Humber
+|country = England 
+|post_town = 
+|postcode_area = 
+|postcode_district = 
+|dial_code = 01484
+|constituency_westminster= 
+|population = 
+}}
+
+'''Kirkheaton''' is a village {{convert|3|mi|0}} north east of [[Huddersfield]], [[West Yorkshire]], England with a population of 4,209 together with Upper Heaton.{{Citation needed|date=February 2018}} [[Historic counties of England|Historically]], it is part of the [[West Riding of Yorkshire]]. The name Heaton comes from Old English "Heah" meaning high and "tun" meaning settlement along with Old Norse"Kirk" meaning church.
+<!-- Headings as per wp:UKCITIES -->
+<!-- == History == -->
+<!-- == Governance == -->
+<!-- == Geography == -->
+<!-- == Demography == -->
+<!-- == Economy == -->
+<!-- == Landmarks == -->
+<!-- == Transport == -->
+
+==Parish Church==
+The Parish church in Kirkheaton,<ref>{{cite web|url=http://www.kirkheatonchurch.org.uk/|title=St.Johns Kirkheaton|website=www.kirkheatonchurch.org.uk|accessdate=7 November 2019}}</ref> dedicated to St John the Baptist, is one of the earliest churches in the area, there was a stone church on the site before the Norman Conquest. In the churchyard is a fine memorial to a disaster which shook the nation in 1818, a horrific fire in a local cotton mill, [[Colne Bridge Mill]], in which 14 workers, all girls and many of them very young, were trapped and lost their lives.<ref>The names and ages of the victims, and a description of the disaster, are carved into the monument itself.</ref><ref>{{cite web|url=https://kirkleescousins.co.uk/atkinsons-mill-fire-21st-february-1818/|title=Tragedy at Atkinson's Mill|date=2 March 2018|accessdate=7 November 2019}}</ref>
+
+== Education ==
+Kirkheaton has a primary school, Kirkheaton Primary School, which is situated on New Road.<ref>{{EduBase|107683|Kirkheaton Primary School}}. [[Department for Education]]: EduBase. Retrieved 4 February 2018</ref> 
+<!-- == Religious sites == -->
+<!-- == Sports == -->
+<!-- == Public services == -->
+
+== Notable people ==
+* England cricketers [[George Herbert Hirst]], [[Allen Hill]] and [[Wilfred Rhodes]] were born in the village and played cricket for Kirkheaton Cricket Club. Also the cricketers, [[William Bates (cricketer)|William Bates]], [[John Thewlis Senior]], and [[Lewis Wrathmell]], were also all born in the village and played for [[Yorkshire County Cricket Club]].
+
+==See also==
+*[[Listed buildings in Kirkburton]]
+
+==References==
+{{Reflist}}
+
+{{commons category|Kirkheaton, West Yorkshire|Kirkheaton}}
+
+{{authority control}}
+
+[[Category:Villages in West Yorkshire]]
+[[Category:Geography of Kirklees]]

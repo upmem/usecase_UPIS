@@ -1,0 +1,29 @@
+{{Italic title}}
+{{taxobox
+|regnum = [[Plantae]]
+|unranked_divisio = [[Angiosperms]]
+|unranked_classis = [[Eudicots]]
+|unranked_ordo = [[Asterids]]
+|ordo = [[Lamiales]]
+|familia = [[Acanthaceae]]
+|genus = ''[[Ruellia]]''
+|species = '''''R. brevicaulis'''''
+|binomial = ''Ruellia brevicaulis''
+|binomial_authority = ([[Helge Ness|Ness]]) [[Gustav Lindau|Lindau]]
+|}}
+
+'''''Ruellia capitata''''' ([[synonymy|syn.]] ''Strobilanthes capitatus'' [[T.Anders.]], ''Strobilanthes pentstemonoides'' [[T.Anders.]]) is a [[plant]] native to [[Cerrado]] [[vegetation]] of [[Argentina]], [[Brazil]], and [[Paraguay]].
+
+==See also==
+* [[List of plants of Cerrado vegetation of Brazil]]
+
+==External links==
+*[http://internt.nhm.ac.uk/cgi-bin/botany/paraguay/detail.dsml?index=geogr&ID=38 Plant diversity in Paraguay: ''Ruellia brevicaulis'']
+*[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-33062005000400031&lng=pt&nrm=&tlng=pt ''Ruellia brevicaulis'' in Phenology of the [[herbaceous layer]] in a campo sujo community in the Fazenda Água Limpa, Federal District, Brazil]
+
+{{Taxonbar|from=Q7377820}}
+
+[[Category:Ruellia|brevicaulis]]
+
+
+{{Acanthaceae-stub}}

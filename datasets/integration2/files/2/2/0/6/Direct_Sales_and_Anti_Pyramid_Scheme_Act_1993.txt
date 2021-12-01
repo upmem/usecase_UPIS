@@ -1,0 +1,75 @@
+{{Infobox legislation
+|short_title            = Direct Sales and Anti-Pyramid Scheme Act 1993
+|legislature            = [[Parliament of Malaysia]]
+|image                  = MalaysianParliament.jpg
+|imagesize              = 
+|imagealt               = 
+|caption                = 
+|long_title             = An Act to provide for the licensing of persons carrying on direct sales business, for the regulation of direct selling, for prohibiting pyramid scheme or arrangement, chain distribution scheme or arrangement, or any similar scheme or arrangement, and for other matters connected therewith.  
+|citation               = [http://www.agc.gov.my/agcportal/uploads/files/Publications/LOM/EN/Act%20500%20%20-%20Direct%20Sales%20and%20Anti-Pyramid%20Scheme%20Act%201993.pdf Act 500]
+|territorial_extent     = Throughout [[Malaysia]]
+|considered_by          =
+|enacted_by             = [[Dewan Rakyat]]
+|date_enacted           = 
+|date_passed            = 20 October 1992
+|enacted_by2            = [[Dewan Negara]]
+|date_enacted2          = 
+|date_passed2           = 
+|date_assented          = 
+|royal_assent           = 22 January 1993
+|date_signed            = 
+|signed_by              = 
+|date_commenced         = 4 February 1993
+|date_effective         = [1 June 1993, P.U. (B) 152/1993] 
+|date_of_expiry         = 
+|date_repealed          = 
+|administered_by        = 
+|bill                   = Direct Sales Bill 1992
+|bill_citation          = [http://parlimen.gov.my/files/billindex/pdf/1992/DR201992E.pdf D.R. 20/1992]
+|bill_date              = 
+|introduced_by          = [[Abu Hassan Omar]], [[Minister of Domestic Trade and Consumer Affairs (Malaysia)|Minister of Domestic Trade and Consumer Affairs]]
+|1st_reading            = [http://www.parlimen.gov.my/files/hindex/pdf/DR-22071992.pdf 22 July 1992]
+|2nd_reading            = [http://www.parlimen.gov.my/files/hindex/pdf/DR-19101992.pdf 19 October 1992]
+|3rd_reading            = [http://www.parlimen.gov.my/files/hindex/pdf/DR-20101992.pdf 20 October 1992]
+|conf_committee_passed  = 
+|committee_report       = 
+|bill2                  = Direct Sales Bill 1992
+|bill_citation2         = [http://parlimen.gov.my/files/billindex/pdf/1992/DR201992E.pdf D.R. 20/1992]
+|bill_date2             = 
+|introduced_by2         = [[]], [[Minister of  (Malaysia)|Minister of ]]
+|1st_reading2           = [http://www.parlimen.gov.my/files/hindex/pdf/DN-16121992.pdf 16 December 1992]
+|2nd_reading2           = [ ]
+|3rd_reading2           = [ ]
+|conf_committee_passed2 = 
+|committee_report2      = 
+|date_conf_committee    = 
+|white_paper            = 
+|amendments             = Direct Sales (Amendment) Act 2010 [Act A1379]
+|repeals                = 
+|related_legislation    = 
+|summary                = 
+|keywords               = 
+|status                 = In force
+}}
+The '''Direct Sales and Anti-Pyramid Scheme Act 1993''' ({{lang-ms|Akta Jualan Langsung dan Skim Anti-Piramid 1993}}), is a [[Malaysia]]n laws which enacted to provide for the licensing of persons carrying on direct sales business, for the regulation of direct selling, for prohibiting pyramid scheme or arrangement, chain distribution scheme or arrangement, or any similar scheme or arrangement, and for other matters connected therewith.
+
+==Structure==
+The Direct Sales and Anti-Pyramid Scheme Act 1993, in its current form (1 December 2011), consists of 7 Parts containing 45 sections and 1 schedule (including 1 amendment).
+* Part I: Preliminary
+* Part II: Requirement for a Licence to Carry on Direct Sales Business
+* Part III: Door-to-door Sales and, Mail Order Sales and Sales through Electronic Transactions
+* Part IV: Direct Sales Contracts
+* Part V: Cooling-off Period and Rescission
+* Part VA: Prohibition of Pyramid Scheme
+* Part VI: Enforcement
+* Part VII: Miscellaneous
+* Schedule
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.agc.gov.my/agcportal/uploads/files/Publications/LOM/EN/Act%20500%20%20-%20Direct%20Sales%20and%20Anti-Pyramid%20Scheme%20Act%201993.pdf Direct Sales and Anti-Pyramid Scheme Act 1993] {{PD-notice}}
+
+[[Category:1993 in Malaysian law]]
+[[Category:Malaysian federal legislation]]

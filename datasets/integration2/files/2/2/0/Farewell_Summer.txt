@@ -1,0 +1,57 @@
+{{About|the Bradbury novel|the Helen Hooven Santmyer novella|Farewell, Summer|the flower|Goldenrod}}
+{{Infobox book | 
+| name          = Farewell Summer
+| title_orig    = 
+| translator    = 
+| image         = Farewellsummer.jpg
+| image_size = 200px
+| alt = Hardback cover of Farewell Summer
+| caption = 
+| author        = [[Ray Bradbury]]
+| illustrator   = 
+| cover_artist  = 
+| country       = United States
+| language      = English
+| series        = 
+| genre         = [[Autobiographical novel]]
+| publisher     = [[William Morrow and Company|William Morrow]]
+| release_date  = October 17, 2006
+| english_release_date =
+| media_type    = Print (hardback)
+| pages         = 224  
+| isbn          = 0-06-113154-7
+| dewey= 813/.54 22
+| congress= PS3503.R167 F45 2006
+| oclc= 70335478
+| preceded_by   = [[Dandelion Wine]] and [[Something Wicked This Way Comes (novel)|Something Wicked This Way Comes]]
+| followed_by   = 
+}}
+
+'''''Farewell Summer''''' is a novel by American writer [[Ray Bradbury]], published on October 17, 2006. It was his last novel released in his lifetime. It is a sequel to his 1957 novel ''[[Dandelion Wine]]'', and is set during an [[Indian summer]] in October 1929. The story concerns a mock war between the young and the old in [[Green Town, Illinois]], and the sexual awakening of Doug Spaulding as he turns 14. With ''[[Something Wicked This Way Comes (novel)|Something Wicked This Way Comes]]'', they form a trilogy of novels inspired by Bradbury's childhood in [[Waukegan, Illinois]].
+
+The first chapter, also titled ''Farewell Summer'', appeared in ''[[The Stories of Ray Bradbury]]'' in 1980. Jonathan R. Eller and William F. Touponce discuss a draft of the unpublished novel in some detail in their book, ''Ray Bradbury: The Life of Fiction'' (2004).
+
+''[[Publishers Weekly]]'' called the novel a "poignant, wise but slight 'extension' of the indefatigable Bradbury's semiautobiographical ''[[Dandelion Wine]]''" and concluded, "Bradbury's mature but fresh return to his beloved early writing conveys a depth of feeling." ''[[Kirkus Reviews]]'' found it "a thin work, heavily reliant on dialogue, but one that serves as an intriguing coda to one of Bradbury's classics." ''[[Booklist]]'' said, "A touching meditation on memories, aging, and the endless cycle of birth and death, and a fitting capstone, perhaps, to a brilliant career."
+
+== History ==
+In the afterword to ''Farewell Summer'', Bradbury ... contends that the novel was actually intended to follow what became the ''Dandelion Wine'' story arc as a complete book tentatively titled ''Summer Morning, Summer Night''. "When I delivered it to my publishers they said, 'My God, this is much too long. Why don't we publish the first 90,000 words as a novel and keep the second part for some future year when it is ready to be published'" (pp.&nbsp;207–208).<ref>{{Cite web |url=http://www.strangehorizons.com/reviews/2006/12/farewell_summer.shtml |title=Archived copy |access-date=2007-12-11 |archive-url=https://web.archive.org/web/20071209074640/http://www.strangehorizons.com/reviews/2006/12/farewell_summer.shtml |archive-date=2007-12-09 |url-status=dead }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Isfdb title|id=198627}}
+* [http://raybradburyboard.com/groupee_files/attachments/1/0/0/1001035812/1001035812_Farewell_Summer_Dust_Jacket.jpg?ts=44884C82&key=CA94248C982F36C9247D944D7F254A66&referrer=http%3A%2F%2Fraybradburyboard.com%2Feve%2Fforums%2Fa%2Fga%2Ful%2F5891035812%2FFarewell_Summer_Dust_Jacket.jpg Dust jacket of ''Farewell Summer'']
+
+{{Ray Bradbury|state=collapsed}}
+
+[[Category:Novels by Ray Bradbury]]
+[[Category:2006 American novels]]
+[[Category:American autobiographical novels]]
+[[Category:Sequel novels]]
+[[Category:Novels set in Illinois]]
+[[Category:Fiction set in 1929]]
+[[Category:Waukegan, Illinois]]
+
+
+{{2000s-autobio-novel-stub}}

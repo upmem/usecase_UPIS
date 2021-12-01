@@ -1,0 +1,35 @@
+{{Navbox
+| name      = Niarchos family
+| title     = Niarchos family
+| bodyclass = hlist
+| state     = {{{state<includeonly>|autocollapse</includeonly>}}}
+
+| group1 = [[Stavros Niarchos]] descendants
+| list1  = 
+* [[Philip Niarchos]]
+* [[Spyros Niarchos]]
+* Maria Niarchos
+* Konstantin Niarchos 
+* [[Elena Ford]]
+
+| group2 = Philip Niarchos<br />/ [[Victoria Niarchos|Victoria Guinness]]
+| list2  = 
+* Stavros Niarchos III
+* Eugenie Niarchos
+* Theodorakis ("Theo") Niarchos
+* Electra Niarchos
+
+| group3 = Spyros Niarchos<br />/ [[Daphne Guinness]]
+| list3  = 
+* Nicolas Stavros Niarchos
+* Alexis ("Lex") Niarchos
+* Ines Niarchos
+
+| below = 
+* [[Spetsopoula]]
+* [[Stavros Niarchos Foundation]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Family templates]]
+</noinclude>

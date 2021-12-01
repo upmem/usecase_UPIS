@@ -1,0 +1,71 @@
+<noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Computing|Computing desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Computing/2019 February 16|February 16]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Computing/January 2019|Jan]] | [[Wikipedia:Reference desk/Archives/Computing/February 2019|February]] | [[Wikipedia:Reference desk/Archives/Computing/March 2019|Mar]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Computing/2019 February 18|[[Wikipedia:Reference desk/Archives/Computing/2019 February 18|February 18]]|[[Wikipedia:Reference desk/Computing|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center; font-family:Arial; color:#FFFFFF;" | '''Welcome to the Wikipedia Computing Reference Desk Archives'''
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Computing/2019 February 27|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= February 17 =
+
+== Printer Has Stopped Working ==
+
+I have a Brother 2360 printer connected to a Dell desktop computer that is running Windows 10.  After working properly for a long time, it suddenly stopped working yesterday, meaning that files to be printed began queuing and not printing.  I tried cancelling the print jobs, and all that did was to cancel the print jobs.  I tried unplugging the printer and plugging it back in.  The printer will print a test page on command from the front, but won't do anything else.  Finally I uninstalled the printer driver from the Control Panel.  I mean I uninstalled the printer driver from the Device Manager.  (I still think of the Control Panel, even though that term has been superseded by the Settings options with the gear wheel icon.)  Now I can't find a way to get Windows to find the printer and re-install the printer.  
+
+What are reasonable next steps to regain my previous functionality of printing to this device?  I don't think that I still have the CD.  Can I, for instance, download the driver from the Brother web site?  Should Windows 10 be able to detect and install the device?
+
+{{collapsetop|Please do not give stupid advice.}}
+Any completely stupid advice, such as buying an Apple, or copying print images to a thumb drive and taking the images to a public library, may be ridiculed or may be copied to the editor's talk page.
+{{collapsebottom}}
+[[User:Robert McClenon|Robert McClenon]] ([[User talk:Robert McClenon|talk]]) 06:15, 17 February 2019 (UTC)
+:Have you tried the 'Add a printer or scanner' option (in the 'System settings') and then clicking 'refresh' if needed? Also how is the printer connected? [[User:Nil Einne|Nil Einne]] ([[User talk:Nil Einne|talk]]) 16:01, 17 February 2019 (UTC)
+::[[User:Nil Einne]] - It didn't detect the printer and doesn't want to add it.  It does offer to add an HP Envy 4520.  I understand that.  The 4520 is in a different part of the house and is a wireless printer.  I think that I will add it later, but at this point that isn't what I want.  The 2360 is supposedly connected by USB between the printer and the Dell.  It occurs to me that the next obvious step is to check the USB at both ends, the back of the printer and the back of the Dell.  [[User:Robert McClenon|Robert McClenon]] ([[User talk:Robert McClenon|talk]]) 17:41, 17 February 2019 (UTC)
+:::If it's connected by USB and is on then it should show up in [[Device Manager]] if it's detected in any way by Windows, no matter if there are driver or any other problem. If it doesn't, this likely indicates either a cable problem or something wrong with the printer or USB port. [[User:Nil Einne|Nil Einne]] ([[User talk:Nil Einne|talk]]) 18:18, 17 February 2019 (UTC)
+::::The [https://support.brother.com/g/b/countrytop.aspx?c=us&lang=en Brother website] recognizes model HL-L2360 [https://www1.pcmag.com/media/images/371846-brother-hl-l2360dw.jpg (picture)] and offers troubleshooting questions, manual, specifications and support contact by form or telephone. Downloads of drivers and a "repair tool" are available. [[User:DroneB|DroneB]] ([[User talk:DroneB|talk]]) 19:15, 17 February 2019 (UTC)
+::::Try to connect it to a different usb port and/or to a different computer. [[User:Ruslik0|Ruslik]]_[[User Talk:Ruslik0|<span style="color:red">Zero</span>]] 20:23, 17 February 2019 (UTC)
+:::::Thank you to everybody.  I uninstalled the printer, and my efforts to reinstall it were apparently unsuccessful.  I checked the USB connections, and was considering buying a new USB cable, since the cable is the cheapest thing to replace.  Then I did a power-off restart.  The printer is now working.  I am not sure what solved the problem, but if this happens again, I will try a power-off restart first rather than last, because it is relatively straightforward anyway.  [[User:Robert McClenon|Robert McClenon]] ([[User talk:Robert McClenon|talk]]) 03:10, 18 February 2019 (UTC)
+:::::I have a question about the advice to try to connect it to a different computer.  I assume that referred to the USB cable.  Was that intended to check the cable, or to check the port?  I didn't do that, but just want to understand in case I try it again some other time.  [[User:Robert McClenon|Robert McClenon]] ([[User talk:Robert McClenon|talk]]) 03:10, 18 February 2019 (UTC)
+::::::It was an advice to check that USB interface generally works. USB can sometimes suffer from weird problems. [[User:Ruslik0|Ruslik]]_[[User Talk:Ruslik0|<span style="color:red">Zero</span>]] 20:51, 18 February 2019 (UTC)
+::::::For clarity, did you try powering off the printer after you started having problems but before you mentioned above? If not, FWIW, turning off the device and turning it back it on again is often one of the first trouble shooting steps that should be tried with any device depending on various factors like the difficulty and risk of doing so. If two devices are involved, trying it for both devices is generally better. (So e.g. if it's a computer connected to another self powered device, try it for both. If the device isn't self powered, disconnecting it would have the same effect.) If at all possible, it's better to turn it off or disconnect it at the wall, since any standby power modes of the built in power button probably means the device isn't properly reset. (Powering it off at the wall is generally not so important for modern computers for various reasons.) [[User:Nil Einne|Nil Einne]] ([[User talk:Nil Einne|talk]]) 18:39, 19 February 2019 (UTC)
+
+== Firefox and caching rate ==
+
+I know that Firefox has a parameter for adjusting the rate at which the cache of open tabs are updated in "about:config", but I can't remember what it's called.  There are so many of them, hard to find the one you want.  Basically, the problem is that if you have a lot of tabs open Firefox caching almost completely takes over all the processor resource.  Can anyone help me out with a name? [[User:Spinningspark|<b style="background:#FAFAD2;color:#C08000">Spinning</b>]][[User talk:Spinningspark|<b style="color:#4840A0">Spark</b>]] 19:20, 17 February 2019 (UTC)
+
+== Sorting in Excel ==
+
+When we alphabetize a book or film title like ''The Godfather'', we eliminate the word "The" (or "A" or "An") and we alphabetize by the "G" of "Godfather".  So, let's say that I have a very long list (of titles) ... and I want to simplify the task of alphabetizing them all by sorting with Excel.    Does Microsoft Excel have any easy way of doing this?  Or do they have some complex way of handling it?  Or is the Excel program not capable of handling this problem at all?  Thanks.    [[User:Joseph A. Spadaro|Joseph A. Spadaro]] ([[User talk:Joseph A. Spadaro|talk]]) 22:23, 17 February 2019 (UTC)
+
+:I have never seen a way to do that easily. I make a second column that converts all letters to lower case, replaces "^the " with an empty string, replaced "^a " with an empty string and replaced "^an " with an empty string. Then, if I wanted, I could get rid of similar words I want to ignore. I then sort the entire table by the column I created. [[Special:Contributions/209.149.113.5|209.149.113.5]] ([[User talk:209.149.113.5|talk]]) 12:51, 18 February 2019 (UTC)
+
+:This works. I know because I've done it:
+::Search and replace "The and space" with "The;#". Then "The Godfather" will appear "The#;Godfather".
+::Copy paste the column to a notepad.
+::Paste it back into a column with ";" as the delimiter. That will put "The" into column 1 and "Moviename" into column 2.
+::Sort by column 2.
+::To combine the two columns again there are a few options. One is to copy paste the two columns to a notepad and replace "#" with ";" and paste back into the same place with ";" as the delimiter. (If the notepad paste suddenly contains "#+tab" then replace "#+tab" with ";".)
+::Done.
+:[[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 21:09, 18 February 2019 (UTC)
+
+:It really depends on what you want the end result to look like. For example, I have an Excel file with a list of movie titles (my DVD collection) and I have the titles written as "Godfather, The". If that's the result you're looking for and you don't want to do it all by hand, you could set up a nested IF statement with MIDs and CONCATENATEs to rearrange the titles. For example, if the title is in A1, try this: =IF(LEFT(A1,4)="The ",CONCATENATE(MID(A1,5,99),", The"),IF(LEFT(A1,3)="An ",CONCATENATE(MID(A1,4,99),", An"),IF(LEFT(A1,2)="A ",CONCATENATE(MID(A1,3,99),", A"),A1))) That covers the "A", "An", and "The" initial words; you can see how to add more if you'd like. [[User:Matt Deres|Matt Deres]] ([[User talk:Matt Deres|talk]]) 02:52, 19 February 2019 (UTC)
+
+It's not so easy to do that automatically since there are so many different cases to handle.  In practice you'll typically make a column with the title the way you want it displayed ("The Godfather"), and another column (manually curated) giving the sorting key ("Godfather, The") if it's not the same as the display title.  See [[WP:SORTKEY]] for how Wikipedia handles this: there are metadata tags in the articles saying how the titles should be sorted. [[Special:Contributions/173.228.123.166|173.228.123.166]] ([[User talk:173.228.123.166|talk]]) 06:51, 19 February 2019 (UTC)
+:Indeed.  And just to show how tricky this is, the best sorting key for ''The Godfather'' is more likely to be "godfather", with no capital letters and no "the". Also no diacritical marks, if you're working in English. Whether or not spaces should be preserved in the middle of the sorting key (for example, whether the sorting key for ''A Christmas Carol'' is "christmascarol" or "christmas carol") depends on whose sorting rules you're using. --[[Special:Contributions/76.69.46.228|76.69.46.228]] ([[User talk:76.69.46.228|talk]]) 07:29, 19 February 2019 (UTC)
+
+:I understand. Anyhow, if you do it the way I do, be careful about Lord of the Rings, because there is "the and space", so you'd have to shove a symbol at the beginning of the title to make sure "the", when first in the title, is all that is affected. Also, really, all that code baffles me. What I do is easy. Problematic titles start with "the" or "A" or "An" and not much else. The whole thing takes like 1 minute. It seems like the easiest way. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 08:14, 19 February 2019 (UTC)
+
+::Except for the part where you have to go through every title anyway to make sure that you don't hit movies that have "a" or "an" or "the" somewhere inside the title, of which there is no shortage. Excel IF statements are notoriously convoluted looking, but the logic simply says "If the first word of the title is "a/an/the", grab the rest of the title after that word, and stick the trimmed word at the end." [[User:Matt Deres|Matt Deres]] ([[User talk:Matt Deres|talk]]) 19:14, 20 February 2019 (UTC)
+:::Fair enough, my friend. For simpletons like me, :) I'll just use my method and start with a symbol at the beginning to prevent the problem you describe. Best, [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 00:26, 21 February 2019 (UTC)
+::::It's not just prefixes like a/an.  You might want to alphabetize [[1984 (1956 film)]] as "nineteen eighty four" etc.  There is a table in Knuth vol 3 giving a bunch of examples like that.  [[Special:Contributions/173.228.123.166|173.228.123.166]] ([[User talk:173.228.123.166|talk]]) 10:06, 21 February 2019 (UTC)
+:::::True. I only dealt with the question as asked, but you're correct that sorting is a complicated process with many hidden questions to stumble over. [[User:Matt Deres|Matt Deres]] ([[User talk:Matt Deres|talk]]) 16:05, 21 February 2019 (UTC)

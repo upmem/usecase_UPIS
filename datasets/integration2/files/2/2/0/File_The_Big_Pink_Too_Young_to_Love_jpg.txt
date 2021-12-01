@@ -1,0 +1,27 @@
+{{album cover fur
+<!-- REQUIRED -->
+|Article= Too Young to Love
+|Use=Infobox
+<!-- HIGHLY RECOMMENDED -->
+|Source=
+<!-- ADDITIONAL INFORMATION -->
+|Name= Too Young to Love
+|Artist= The Big Pink
+|Label= House Anxiety
+|Graphic Artist= 
+|Item= 
+|Type= 
+|Website= 
+|Owner= 
+|Commentary= 
+<!-- OVERRIDE FIELDS -->
+|Description= 
+|Portion= 
+|Low_resolution= Yes
+|Purpose=
+|Replaceability= 
+|other_information= 
+}}
+
+==Licensing==
+{{non-free album cover|image has rationale=yes|auto=yes}}

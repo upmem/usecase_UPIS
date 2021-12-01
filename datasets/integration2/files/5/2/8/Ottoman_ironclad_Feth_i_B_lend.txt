@@ -1,0 +1,141 @@
+{{good article}}
+{{Use dmy dates|date=December 2016}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=Feth-i Bülend - 90645---0001.jpg
+|Ship caption=''Feth-i Bülend'' during repairs in Ansaldo factory.
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Ottoman Empire]]
+|Ship flag={{shipboxflag|Ottoman Empire|naval-1845}}
+|Ship name=''Feth-i Bülend''
+|Ship builder=[[Thames Iron Works]], [[London]]
+|Ship laid down=May 1868
+|Ship launched=1869
+|Ship commissioned=1870
+|Ship fate=[[Hulk (ship)|Hulk]] in 1910, sunk by Greek torpedo boat in 1912
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Feth-i Bülend|ironclad|4}}
+|Ship displacement= {{convert|2762|t|LT|lk=on}}
+|Ship length= {{convert|72|m|ftin|abbr=on}} ([[length between perpendiculars|p.p.]])
+|Ship beam={{convert|11.9|m|ftin|abbr=on}}
+|Ship draft={{convert|5.2|m|ftin|abbr=on}}
+|Ship propulsion=
+*1 × [[compound engine]]
+*1 × [[screw propeller]]
+|Ship power=
+*{{convert|3250|ihp|lk=in|abbr=on}}
+*6 × box-type [[boiler]]s
+|Ship speed={{convert|13|kn|lk=in}}
+|Ship complement=16 officers, 153 sailors
+|Ship armament=4 × {{convert|9|in|mm|abbr=on|0|order=flip}} [[Armstrong gun]]s
+|Ship armor=
+*[[Belt armor|Belt]]: 229&nbsp;mm
+*[[Casemate]]: 229&nbsp;mm
+|Ship notes=
+}}
+|}
+
+'''''Feth-i Bülend''''' ([[Ottoman Turkish language|Ottoman Turkish]]: "Great Victory") was an [[Ottoman Empire|Ottoman]] [[ironclad warship]] built in the late 1860s, the lead ship of [[Feth-i Bülend-class ironclad|her class]]. The [[Ottoman Navy]] ordered her from the British [[Thames Iron Works]], and she was [[keel laying|laid down]] in 1868, [[ship launching|launched]] in 1869, and [[ship commissioning|commissioned]] in 1870. She was armed with four {{cvt|229|mm|0}} guns, was powered by a single-screw [[compound steam engine]] with a top speed of {{convert|13|kn|lk=in}}.
+
+''Feth-i Bülend'' saw action during the [[Russo-Turkish War of 1877–1878]], where she battled the Russian steamer ''Vesta'' in an inconclusive engagement. The Ottoman fleet was laid up for most of the next twenty years, and ''Feth-i Bülend'' saw no activity during this period. Modernized in 1890, she was nevertheless still not in condition for active service at the outbreak of the [[Greco-Turkish War (1897)|Greco-Turkish War]] in 1897. She was therefore heavily rebuilt in Germany between 1903 and 1907. At the start of the [[First Balkan War]] in 1912, the ship was stationed in [[Salonica]]; the ship was disarmed so the guns could be used to strengthen the port's fortifications. On the night of 31 October, a Greek [[torpedo boat]] slipped into the harbor and sank ''Feth-i Bülend'', killing seven of her crew.
+
+== Design ==
+{{main|Feth-i Bülend-class ironclad}}
+[[File:Feth-i Bülend (1869).jpg|thumb|left|Line-drawing of ''Feth-i Bülend'']]
+
+''Feth-i Bülend'' was {{convert|72.01|m|ftin|abbr=on}} [[length between perpendiculars|long between perpendiculars]], with a [[beam (nautical)|beam]] of {{convert|11.99|m|ftin|abbr=on}} and a [[draft (hull)|draft]] of {{convert|5.51|m|ftin|abbr=on}}. The hull was constructed with iron, and [[displacement (ship)|displaced]] {{convert|2762|MT|LT|sp=us|lk=on}} normally and {{convert|1601|MT|LT|abbr=on}} [[builder's old measurement|BOM]]. She had a crew of 16&nbsp;officers and 153&nbsp;enlisted men.{{sfn|Gardiner|p=390}}{{sfn|Langensiepen & Güleryüz|p=138}}
+
+The ship was powered by a single horizontal [[compound engine]] which drove one [[screw propeller]]. Steam was provided by six coal-fired [[box boiler]]s that were trunked into a single [[funnel (ship)|funnel]] [[amidships]]. The engine was rated at {{convert|3250|ihp|lk=in}} and produced a top speed of {{convert|13|kn|lk=in}}, though by 1877 she was only capable of {{convert|10|kn}}. Decades of poor maintenance had reduced the ship's speed to {{convert|8|kn}} by 1892. ''Feth-i Bülend'' carried {{convert|600|MT|abbr=on}} of coal. A supplementary sailing rig was also fitted.{{sfn|Gardiner|p=390}}{{sfn|Langensiepen & Güleryüz|p=138}}
+
+The ship was armed with a battery of four {{convert|222|mm|abbr=on}} [[muzzleloader|muzzle-loading]] [[Armstrong gun]]s mounted in a central, armored [[casemate]], two guns per side. The guns were positioned so as to allow any two to fire directly ahead, astern, or to either [[broadside]]. The casemate had heavy armor protection, with the gun battery protected by 222&nbsp;mm of iron plating. The upper section of the casemate had thinner armor, at {{convert|150|mm|abbr=on}} thick. The hull had a complete [[belt armor|armored belt]] at the [[waterline]], which extended .6&nbsp;m (2&nbsp;ft) above the line and 1.2&nbsp;m (4&nbsp;ft) below. The above-water portion was 222&nbsp;mm thick, while the submerged part was 150&nbsp;mm thick.{{sfn|Gardiner|p=390}}{{sfn|Langensiepen & Güleryüz|p=138}}
+
+== Service history ==
+===Construction and the Russo-Turkish War===
+''Feth-i Bülend'', meaning "Great Victory",{{sfn|Langensiepen & Güleryüz|p=198}} was ordered in 1867 from the [[Thames Iron Works]], [[Blackwall Yard]] in [[London]] and was laid down in May 1868. She was launched in 1869 and began [[sea trials]] in 1870, being commissioned into the [[Ottoman Navy]] later that year. Upon completion, ''Feth-i Bülend'' and the other ironclads then being built in Britain and France were sent to [[Crete]] to assist in stabilizing the island in the aftermath of the [[Cretan Revolt (1866–1869)|Cretan Revolt]] of 1866&ndash;1869. During this period, the Ottoman fleet, under [[Hobart Pasha]], remained largely inactive, with training confined to reading translated British instruction manuals.{{sfn|Langensiepen & Güleryüz|pp=3, 5, 138}} Early in the ship's career, the Ottoman ironclad fleet was activated every summer for short cruises from the [[Golden Horn]] to the [[Bosporus]] to ensure their propulsion systems were in operable condition.{{sfn|Sturton|p=138}}
+
+[[File:Naval battle between "Vesta" and "Fetkh-i Bulend" at the Black Sea, July 11, 1877.jpg|thumb|Painting depicting ''Feth-i Bülend''{{'}}s (left) battle with ''Vesta'' (center)]]
+
+''Feth-i Bülend'' saw extensive service in the [[Black Sea]] during the [[Russo-Turkish War of 1877–1878]], based primarily at [[Batumi]]. She took part in the bombardment of Russian positions and capture of the Black Sea port of [[Sokhumi]] on 14–16 May 1877. On 23 July, she engaged the Russian armed steamer ''Vesta'' in an inconclusive action. Poor visibility from smoke and escaping steam forced the ships to disengage, both with slight damage and few casualties. On the 31st, ''Feth-i Bülend'', her [[sister ship]] {{ship|Ottoman ironclad|Mukaddeme-i Hayir||2}}, the [[steam frigate]] {{ship|Ottoman frigate|Mubir-i Sürur||2}}, and several other ships departed [[Sochum]] for [[Trabzon]] to bring ground troops to [[Varna]] to defend against an expected Russian attack across the [[Danube]]. The Ottoman fleet then returned to Batumi, where it remained largely inactive. During a patrol on 25 August, ''Feth-i Bülend'' encountered the Russian [[yacht]] ''Livadia'', but the Russian vessel fled before ''Feth-i Bülend'' could close to effective range.{{sfn|Langensiepen & Güleryüz|p=6}}
+
+===Inactivity in the 1880s and 1890s===
+Following the Ottoman defeat in 1878, the ship was laid up in [[Constantinople]]. The annual summer cruises to the Bosporus ended. By the mid-1880s, the Ottoman ironclad fleet was in poor condition, and ''Feth-i Bülend'' was unable to go to sea. Many of the ships' engines were unusable, having seized up from rust, and their [[hull (watercraft)|hulls]] were badly [[biofouling|fouled]]. The British [[naval attache]] to the Ottoman Empire at the time estimated that the [[Imperial Arsenal]] would take six months to get just five of the ironclads ready to go to sea. Throughout this period, the ship's crew was limited to about one-third the normal figure. During a period of tension with Greece in 1886, the fleet was brought to full crews and the ships were prepared to go to sea, but none actually left the Golden Horn, and they were quickly laid up again. By that time, most of the ships were capable of little more than {{convert|4|to|6|kn}}.{{sfn|Sturton|pp=138, 144}}
+
+The fleet remained inactive at the [[Golden Horn]] for twenty years, though in October 1889, ''Feth-i Bülend'' left the Golden Horn to escort the [[German Emperor]], [[Kaiser Wilhelm II]], during a [[state visit]] to the Ottoman Empire. She accompanied Wilhelm as he cruised though the [[Dardanelles]] and the [[Sea of Marmara]] to Constantinople.{{sfn|Sturton|p=144}} ''Feth-i Bülend'' was refitted at the [[Imperial Arsenal (Ottoman Empire)|Imperial Arsenal]] in 1890. During this refit, several small guns were installed, including a pair of {{convert|87|mm|abbr=on}} [[Krupp]] guns, two {{convert|63|mm|abbr=on}} guns, two {{convert|37|mm|abbr=on}} guns, and one {{cvt|25.4|mm|0}} [[Nordenfelt gun]].{{sfn|Langensiepen & Güleryüz|p=138}} In 1892, ''Feth-i Bülend'' and the ironclad {{ship|Ottoman ironclad|Asar-i Tevfik||2}} were ordered to reinforce the Cretan Squadron during a period of unrest on the island, but neither vessel was capable of going to sea, owing to leaky boiler tubes.{{sfn|Sturton|p=144}} At the start of the [[Greco-Turkish War (1897)|Greco-Turkish War]] in February 1897, the Ottomans inspected the fleet and found that almost all of the vessels, including ''Feth-i Bülend'', to be completely unfit for combat against the [[Greek Navy]].{{sfn|Langensiepen & Güleryüz|pp=6–9}}
+
+===Reconstruction and loss===
+Following the end of the war, the government decided to begin a naval reconstruction program. The first stage was to rebuild the older armored warships, including ''Feth-i Bülend''. The Ottomans contacted several foreign shipyards; initially, Krupp's [[Germaniawerft]] received the contract to rebuild ''Feth-i Bülend'' on 11 August 1900, but by December 1902, the Ottomans had reached an agreement with [[Armstrong-Whitworth|Armstrong]]-[[Gio. Ansaldo & C.|Ansaldo]] in [[Genoa]] to rebuild the vessel. The work was conducted between 1903 and 1907. The ship was reboilered with a pair of [[water-tube boiler]]s manufactured by the Imperial Arsenal, which improved speed slightly to {{convert|9|kn|abbr=on}}. Her armament was completely replaced with new, [[quick-firing gun]]s manufactured by Krupp. Four [[15 cm SK L/40 gun]]s were mounted in the casemate, and six {{cvt|75|mm|0}} guns and six {{convert|57|mm|abbr=on}} guns were installed on the upper deck.{{sfn|Langensiepen & Güleryüz|pp=10–11, 138}}
+
+At the outbreak of the [[Italo-Turkish War]] of 1911–1912, ''Feth-i Bülend'' was assigned to the Reserve Division, and she saw no action during the conflict.{{sfn|Beehler|p=12}} Instead, she was disarmed and most of her weapons&mdash;including all four 15&nbsp;cm guns, and four each of the 75&nbsp;mm and 57&nbsp;mm guns&mdash;were used to bolster the defenses of [[Salonica]]'s harbor. The guns were manned by 90 of the ship's crew. The ship itself was converted to a [[barracks ship]]. At the time of the outbreak of the [[First Balkan War]] on 18 October 1912, the ship's commander was Captain (''[[Binbaşi]]'') Aziz Mahmut Bey, who also functioned as the naval garrison commander. On the night of 31 October, the Greek [[torpedo boat]] ''No. 11'' passed by the shore batteries and searchlights and through the mine barrages at 22:20. She launched three torpedoes at 23:30 against ''Feth-i Bülend''. One torpedo missed, hitting the quay, but the two others hit the ship, causing her to capsize and sink. Seven of its crew, including the ship's ''[[imam]]'', were killed in the sinking, while the Greek vessel exited the harbor by the same route without further incident.{{sfn|Langensiepen & Güleryüz|p=19–20}}
+
+== Footnotes ==
+{{Reflist|20em}}
+
+==References==
+* {{Cite book
+  |last=Beehler
+  |first=William Henry
+  |title=The History of the Italian-Turkish War: September 29, 1911, to October 18, 1912
+  |year=1913
+  |location=Annapolis
+  |publisher=United States Naval Institute
+  |url=https://books.google.com/books?id=OWcoAAAAYAAJ
+  |ref={{sfnref|Beehler}}
+  |oclc=1408563
+  }}
+* {{cite book
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | year = 1979
+  | title = Conway's All the World's Fighting Ships 1860–1905
+  | publisher = Conway Maritime Press
+  | location = London
+  | isbn = 978-0-85177-133-5
+  | ref = {{sfnRef|Gardiner}}
+  | url-access = registration
+  | url = https://archive.org/details/conwaysallworlds0000unse_l2e2
+  }}
+* {{cite book
+  |last1=Langensiepen
+  |first1=Bernd
+  |last2=Güleryüz
+  |first2=Ahmet
+  |year=1995
+  |title=The Ottoman Steam Navy 1828–1923
+  |publisher=Conway Maritime Press
+  |location=London
+  |isbn=978-0-85177-610-1
+  |name-list-style=amp
+  |ref={{sfnref|Langensiepen & Güleryüz}}
+  }}
+* {{cite journal
+  |last=Sturton
+  |first=Ian
+  |title=Through British Eyes: Constantinople Dockyard, the Ottoman Navy, and the Last Ironclad, 1876–1909
+  |journal=Warship International
+  |volume=57
+  |number=2
+  |location=Toledo
+  |publisher=International Naval Research Organization
+  |issn=0043-0374
+  |ref={{sfnRef|Sturton}}
+  }}
+
+==Further reading==
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+
+{{Feth-i Bülend class ironclad}}
+{{1912 shipwrecks}}
+{{coord missing|Aegean Sea}}
+
+{{DEFAULTSORT:Feth-I Bulend}}
+[[Category:1869 ships]]
+[[Category:Ships built in Leamouth]]
+[[Category:Naval ships of the Ottoman Empire in the Balkan Wars]]
+[[Category:Shipwrecks in the Aegean Sea]]
+[[Category:Maritime incidents in 1912]]
+[[Category:Feth-i Bülend-class ironclads]]

@@ -1,0 +1,22 @@
+{{User:COIBot/Summary/LinkReports}}
+Reporting statistics of link bonitofest.com; 0 records.
+* {{LinkSummary|bonitofest.com}}.
+* bonitofest.com resolves to [http://200.169.230.165 200.169.230.165] - {{LinkSummary|200.169.230.165}}.
+* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+
+Reports
+COIBot reported 0 links.
+----
+Below a full report on all use of the link bonitofest.com.
+
+This list is intended to see how the [[:en:WP:EL|external link]] gets used, it does '''not''' imply that involved accounts are having a [[:en:WP:COI|conflict of interest]] in adding the link, or that the involved accounts are [[:en:WP:SPAM|spamming]] the link.
+
+LinkWatcher records:
+
+# 2009-10-27 23:22:09 (UTC): User [[:w:pt:User:200.184.127.252|w:pt:200.184.127.252]] ([[:w:pt:User talk:200.184.127.252|talk]] - [[:w:pt:Special:Contributions/200.184.127.252|contribs]]; 8) to [[:w:pt:Bonito de Santa Fé]] ([http://pt.wikipedia.org/w/index.php?diff=17430436&oldid=17179112&rcid=18287168 diff] - [http://pt.wikipedia.org/w/index.php?diff=17430436&action=edit&undoafter=17179112&undo=17430436 undo]) - Link: www.bonitofest.com.<!--ID 280408--><br/>* Links added in this diff: www.bonitofest.com (8, 7, 7, 1) www.pmbsf.com.br (8, 1, 1, 1) 
+# 2009-10-27 23:36:28 (UTC): User [[:w:pt:User:200.184.127.252|w:pt:200.184.127.252]] ([[:w:pt:User talk:200.184.127.252|talk]] - [[:w:pt:Special:Contributions/200.184.127.252|contribs]]; 8) to [[:w:pt:Bonito de Santa Fé]] ([http://pt.wikipedia.org/w/index.php?diff=17430576&oldid=17430446&rcid=18287314 diff] - [http://pt.wikipedia.org/w/index.php?diff=17430576&action=edit&undoafter=17430446&undo=17430576 undo]) - Link: www.bonitofest.com/bandeira_bonito.jpg.<!--ID 281018--><br/>* Links added in this diff: www.bonitofest.com/bandeira_bonito.jpg (8, 7, 7, 1) 
+# 2009-10-27 23:39:21 (UTC): User [[:w:pt:User:200.184.127.252|w:pt:200.184.127.252]] ([[:w:pt:User talk:200.184.127.252|talk]] - [[:w:pt:Special:Contributions/200.184.127.252|contribs]]; 8) to [[:w:pt:Bonito de Santa Fé]] ([http://pt.wikipedia.org/w/index.php?diff=17430609&oldid=17430577&rcid=18287349 diff] - [http://pt.wikipedia.org/w/index.php?diff=17430609&action=edit&undoafter=17430577&undo=17430609 undo]) - Link: www.bonitofest.com/bandeira_bonito.jpg.<!--ID 281134--><br/>* Links added in this diff: www.bonitofest.com/bandeira_bonito.jpg (8, 7, 7, 1) 
+# 2009-10-27 23:42:11 (UTC): User [[:w:pt:User:200.184.127.252|w:pt:200.184.127.252]] ([[:w:pt:User talk:200.184.127.252|talk]] - [[:w:pt:Special:Contributions/200.184.127.252|contribs]]; 8) to [[:w:pt:Bonito de Santa Fé]] ([http://pt.wikipedia.org/w/index.php?diff=17430655&oldid=17430609&rcid=18287398 diff] - [http://pt.wikipedia.org/w/index.php?diff=17430655&action=edit&undoafter=17430609&undo=17430655 undo]) - Link: www.bonitofest.com/bandeira_bonito.htm.<!--ID 281275--><br/>* Links added in this diff: www.bonitofest.com/bandeira_bonito.htm (8, 7, 7, 1) www.bonitofest.com/bandeira_bonito.htm (8, 7, 7, 1) 
+# 2009-10-27 23:44:22 (UTC): User [[:w:pt:User:200.184.127.252|w:pt:200.184.127.252]] ([[:w:pt:User talk:200.184.127.252|talk]] - [[:w:pt:Special:Contributions/200.184.127.252|contribs]]; 8) to [[:w:pt:Bonito de Santa Fé]] ([http://pt.wikipedia.org/w/index.php?diff=17430687&oldid=17430655&rcid=18287432 diff] - [http://pt.wikipedia.org/w/index.php?diff=17430687&action=edit&undoafter=17430655&undo=17430687 undo]) - Link: www.bonitofest.com/bandeira_bonito.htm/.<!--ID 281318--><br/>* Links added in this diff: www.bonitofest.com/bandeira_bonito.htm/ (8, 7, 7, 1) 
+# 2009-10-27 23:51:48 (UTC): User [[:w:pt:User:200.184.127.252|w:pt:200.184.127.252]] ([[:w:pt:User talk:200.184.127.252|talk]] - [[:w:pt:Special:Contributions/200.184.127.252|contribs]]; 8) to [[:w:pt:Bonito de Santa Fé]] ([http://pt.wikipedia.org/w/index.php?diff=17430789&oldid=17430687&rcid=18287537 diff] - [http://pt.wikipedia.org/w/index.php?diff=17430789&action=edit&undoafter=17430687&undo=17430789 undo]) - Link: www.bonitofest.com/bonito/.<!--ID 281713--><br/>* Links added in this diff: www.bonitofest.com/bonito/ (8, 7, 7, 1) 
+<!-- tags: -->{{NOINDEX}}

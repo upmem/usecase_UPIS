@@ -1,0 +1,11 @@
+==Summary==
+{{Non-free use rationale poster
+| Article = OPUS: The Day We Found Earth
+| Use     = Infobox
+| Name    = [[OPUS: The Day We Found Earth]]
+| Owner   = [[SIGONO]]
+| Source  = Google Play
+}}
+
+==Licensing==
+{{non-free poster|image has rationale=yes|Fair use images of video game posters}}

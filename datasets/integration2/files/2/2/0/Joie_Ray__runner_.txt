@@ -1,0 +1,44 @@
+{{MedalTableTop|Ray, Coolidge, Nurmi.jpg|250px|Joie Ray, left, and [[Paavo Nurmi]], right, visit U.S. President [[Calvin Coolidge]] at the [[White House]] on 21 February 1925.}}
+{{MedalSport | Men's [[Athletics at the Summer Olympics|athletics]]}}
+{{MedalCountry | the {{USA}} }}
+{{MedalOlympics}}
+{{MedalBronze| [[1924 Summer Olympics|1924 Paris]] | [[Athletics at the 1924 Summer Olympics – Men's 3000 metre team race|3000 metre team]]}}
+{{MedalBottom}}
+
+'''Joseph William "Joie" Ray''' (April 13, 1894 – May 13, 1978) was an American [[track and field]] athlete and member of the United States [[National Track and Field Hall of Fame]]. He held world records for the {{convert|1|mi|km|adj=on}} and {{convert|2|mi|km|adj=on}} distances. He represented the United States in the three [[Olympic Games]] held the 1920s, earning a bronze medal for the [[Athletics at the 1924 Summer Olympics - Men's 3000 metre team race|3000 m team race]] in 1924.
+
+==Biography==
+Ray was born in [[Kankakee, Illinois]], on April 13, 1894. Early in his career, the {{convert|5|ft|5|in|m|sp=us|adj=on}} and {{convert|118|lb|kg|adj=on}} runner—considered short and stocky—competed for the [[Illinois Athletic Club]].<ref name=USATF>{{cite web | title = Joie Ray | url = http://www.usatf.org/halloffame/TF/showBio.asp?HOFIDs=132 | publisher = [[USA Track & Field]] | date =  | accessdate = 2008-07-03 }}</ref> Ray was nicknamed "The Kankakee Kid", after his hometown, and "Chesty" or "Chesty Joie" after a newspaper, early in his career, called him "a chesty little guy with a great heart".<ref name=NYT-obit>{{cite news | title = Joie Ray, 84, dead; starred as runner | work = [[The New York Times]] | date = 1978-05-16 | page = 69 }}</ref> Ray was considered one of the most versatile distance runners of the 1920s, competing in races from the [[1500 metres]] to [[marathon]]s. Among his 13 national [[Amateur Athletic Union|AAU]] titles were 8 outdoor mile titles. Ray won the [[Millrose Games]]' Wannamaker one and a half-mile (2400 m) race (which changed to the [[Wanamaker Mile]] in 1926) seven times in the eight-year span from 1917 to 1924, losing in 1925 to [[Paavo Nurmi]] of [[Finland]]. Later that same year he tied the indoor mile world record at 4 minutes 12 seconds, and was part of a 4 × 1-mile (4 × 1.6&nbsp;km) relay that set a world record.<ref name=USATF />
+
+Ray competed for the United States in the [[1920 Summer Olympics]] at [[Antwerp]], placing 8th in the [[Athletics at the 1920 Summer Olympics – Men's 1500 metres|1500 metre race]]. In the [[1924 Summer Olympics|1924 Games]] in [[Paris]], Ray competed in only the [[Athletics at the 1924 Summer Olympics - Men's 3000 metre team race|3000 metre team race]] for which he won a bronze medal.<ref name=USATF /> In the [[1928 Summer Olympics|1928 Olympics]] he placed 14th in the [[Athletics at the 1928 Summer Olympics - Men's 10000 metres|10000 metres]] and 5th in the [[Athletics at the 1928 Summer Olympics - Men's marathon|marathon]].<ref name=USATF /> Though Ray's Olympic results were lackluster, he won over 950 medals in his career. His favorite career moment was his first [[Boston Marathon]] in 1928. He finished third despite considerable pain for the last two miles (3.2&nbsp;km).
+
+In the 1920s, when not competing in running events, Ray was a cab driver,<ref name=USATF /> and also competed in other events, dabbling in [[boxing]], [[roller derby]], and [[snowshoe]] races in [[Canada]]. He preceded his third-place finish in the 1928 Boston Marathon by competing in a [[dance marathon]] for 1,730 hours. Later in life, Ray worked in a steel mill in [[Gary, Indiana|Gary]], [[Indiana]], moving to [[Michigan]] after retiring.<ref name=NYT-obit />
+
+Ray continued to run throughout his life. At age 68, he was timed at 6:18.3 on a {{convert|1|mi|m|adj=on}} course, a time he bettered on his 70th birthday, with a time of 6:11.5. Ray was elected to the U.S. National Track and Field Hall of Fame in 1976. Ray died on 13 May 1978 in [[Berrien Springs, Michigan|Berrien Springs]], Michigan, after a short illness.<ref name=NYT-obit />
+
+==References==
+{{Reflist}}
+
+{{Footer US NC 800m Men}}
+{{Footer US NC 1500m Men}}
+{{Footer US NC 10000m Men}}
+{{Footer US NC Indoor 800m Men}}
+{{Footer US NC Indoor 3000 meters Men}}
+{{Footer USA Track & Field 1920 Summer Olympics}}
+{{Footer USA Track & Field 1924 Summer Olympics}}
+{{Footer USA Track & Field 1928 Summer Olympics}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Ray, Joie}}
+[[Category:1894 births]]
+[[Category:1978 deaths]]
+[[Category:Athletes (track and field) at the 1920 Summer Olympics]]
+[[Category:Athletes (track and field) at the 1924 Summer Olympics]]
+[[Category:Olympic bronze medalists for the United States in track and field]]
+[[Category:Athletes (track and field) at the 1928 Summer Olympics]]
+[[Category:Olympic track and field athletes of the United States]]
+[[Category:Sportspeople from Kankakee, Illinois]]
+[[Category:Medalists at the 1924 Summer Olympics]]
+[[Category:American male long-distance runners]]
+[[Category:Sportspeople from Gary, Indiana]]

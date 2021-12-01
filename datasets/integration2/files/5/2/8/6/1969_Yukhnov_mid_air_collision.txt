@@ -1,0 +1,96 @@
+{{Infobox aircraft occurrence
+|name = 1969 Yukhnov mid-air collision
+| image = 
+| image_upright =
+| alt = 
+| caption = 
+| occurrence_type = Accident
+| date = 23 June 1969
+| summary = [[Mid-air collision]]
+| site = Poroslitsy village, Yukhnov district, Kaluga region
+| coordinates =</li>
+*Аn-12{{coord|54|35|53.51|N|35|36|27.86|E|type:event_region:RU|display=inline}}</li>
+*Il-14{{coord|54|36|8|N|35|32|59|E|type:event_region:RU|display=inline}}
+| total_fatalities = 120
+|plane1_image = File:CCCP-93921.png
+|plane1_caption = An Aeroflot Ilyushin Il-14, similar to the one involved in the collision
+| aircraft_name = 
+| stopover0 = 
+| last_stopover = 
+| injuries = 
+| missing = 
+| survivors = 
+|plane2_image = File:Antonov An-12BP, Russia - Air Force AN0966286.jpg
+|plane2_caption  = Antonov An-12BP, similar to the one involved in the collision
+|plane2_type = [[Antonov An-12BP]]
+|plane2_operator = [[Soviet Air Forces|Soviet Air Force]]
+| plane2_tailnum = 08525 (callsign)
+|plane2_origin = [[Kėdainiai Air Base]]
+|plane2_stopover = [[S. Darius and S. Girėnas Airport|Aleksotas Airport]]
+|plane2_destination = [[Dyagilevo (air base)|Dyagilevo Air Base]]
+|plane2_passengers = 91
+|plane2_crew = 5
+|plane2_fatalities = 96 
+|plane2_survivors = 0
+|plane1_type = [[Ilyushin Il-14M]]
+|plane1_operator = [[Aeroflot]]
+|plane1_tailnum = CCCP-52018
+|plane1_origin = [[Bykovo Airport]]
+|plane1_stopover = [[Chernihiv Shestovytsia Airport]]
+|plane1_destination = [[Simferopol International Airport]]
+|plane1_passengers = 19
+|plane1_crew = 5
+|plane1_fatalities = 24 
+|plane1_survivors = 0
+}}
+The '''1969 Yukhnov mid-air collision''' occurred when an [[Ilyushin Il-14M]], operating as Aeroflot Flight 831, a scheduled domestic passenger flight from Moscow-[[Bykovo Airport]] to [[Simferopol Airport]], Crimea [[Mid-air collision|collided in the air]] on 23 June 1969 with an [[Antonov An-12BP]] of the [[Soviet Air Force]] over the [[Yukhnovsky District|Yukhnovsky district]] of [[Kaluga Oblast]], in the [[Russian SFSR]] of the [[Soviet Union]].  All 120 occupants of both aircraft perished in the crash.<ref name=":0">{{Cite web|url=http://aviation-safety.net/database/record.php?id=19690623-2|title=ASN Aircraft accident Ilyushin 14M CCCP-52018 Poroslitsy village, Yukhnov district, Kaluga region|last=Ranter|first=Harro|website=aviation-safety.net|access-date=2017-04-13}}</ref><ref name=":1">{{Cite web|url=http://aviation-safety.net/database/record.php?id=19690623-3|title=ASN Aircraft accident Antonov 12BP registration unknown Poroslitsy village, Yukhnov district, Kaluga region|last=Ranter|first=Harro|website=aviation-safety.net|access-date=2017-04-13}}</ref>
+
+== Aircraft involved ==
+
+=== CCCP-52018 ===
+The aircraft operating Aeroflot Flight 831 was an Ilyushin Il-14M registered CCCP-52018 to the Ukraine division of Aeroflot.  At the time of the accident the aircraft had 24,653 flight hours.<ref name=":0" /><ref name=":2">{{Cite web|url=http://airdisaster.ru/database.php?id=78|title=Столкновение Ил-14М и Ан-12БП над Калужской областью (борт СССР-52018), 23 июня 1969 года. // AirDisaster.ru - авиационные происшествия, инциденты и авиакатастрофы в СССР и России - факты, история, статистика|website=airdisaster.ru|access-date=2017-04-13}}</ref><ref>{{Cite web|url=http://russianplanes.net/reginfo/43379|title=✈ russianplanes.net ✈ наша авиация|website=russianplanes.net|access-date=2017-04-13}}</ref> Five crew members and 19 passengers were aboard Flight 831.  The cockpit crew included [[Pilot in command|Captain]] Georgy Pavlenko and [[First officer (aeronautics)|copilot]] Viktor Pavlovich Buyanov.<ref name=":2" />
+
+=== Soviet Air Force Antonov An-12BP ===
+The Antonov An-12 belonging to the Soviet Air Force that was involved in the accident (callsign 08525) was part of a formation of four aircraft demonstrating tactical flight maneuvers to the [[Minister of Defence (Soviet Union)|Minister of Defense]], [[Andrei Grechko]].  Two of the aircraft were transporting equipment; the other two, including the one involved in the crash, was carrying paratroopers of the [[7th Guards Mountain Air Assault Division]].<ref name=":1" /> Five flight crew members and 91 paratroopers were aboard the aircraft, all of whom perished in the crash.  The cockpit crew consisted of the following pilots: Major Alexei Ryabtsev, Junior lieutenant Vladimir Priplov, and Captain Nikolai Mikhailovich Maslyuk.<ref name=":3">{{Cite web|url=http://war.airdisaster.ru/database.php?id=162|title=Столкновение Ил-14М и Ан-12БП над Калужской областью (борт 08525 (позывной)), 23 июня 1969 года. // AirDisaster.ru - авиационные происшествия, инциденты и авиакатастрофы военной авиации в СССР и России - факты, история, статистика|website=war.airdisaster.ru|access-date=2017-04-13}}</ref>
+
+== Crash details ==
+At 13:25 the An-12 involved in the accident (callsign 08525) took off from [[Kėdainiai Air Base]], and was the last one in a formation of four to take off.  The four An-12s took off in 8-10 minute intervals and held altitudes between {{convert|3000|and|3600|m|abbr=on}}.
+
+At 14:07 the Ilyushin Il-14 took off from Bykovo Airport and climbed to the assigned altitude of {{convert|2700|m|abbr=on}}.
+
+At 14:40:55 the crew of Il-14 contacted [[air traffic control]] and requested permission to climb to {{convert|3300|m|abbr=on}} due to severe [[turbulence]] and [[cumulus cloud]]s.  Due to the An-12s at {{convert|3000|m|abbr=on}}, the controller instead offered to grant permission for the flight to descend to {{convert|2700|m|abbr=on}}, but the pilots of the Il-14 declined the offer because the turbulence may be worse at a lower altitude.
+
+At 14:50:17 the An-12 passed over Yukhnov and was switched to another controller and confirmed that they were at an altitude of {{convert|3000|m|abbr=on}}.
+
+At 14:52 the two aircraft collided over Yukhnov.  The An-12 was on a bearing of 106-121° with a speed of {{convert|500|-|529|kph|mph kn|abbr=on}}; the Il-14  was on a bearing of 235-245° with a speed of {{convert|324|-|360|kph|mph kn|abbr=on}}h.  The aircraft first struck at the wingtips; then the An-12's nose collided with the right [[Tailplane|horizontal stabilizer]] of the Il-14. The An-12 lost the right wing and right wing engines from the impact, causing the aircraft to [[Spin (aerodynamics)|spin]] to the ground. The Il-14 lost part of the right wing and the upper part of the [[fuselage]].  The An-12 crashed in a field near Vypolzovo village, and the Il-14 crashed near Trinity village.  The aircraft fell approximately {{convert|3800|m|abbr=on}} apart from each other.  All 120 people aboard both aircraft perished.<ref name=":2" /><ref name=":3" />
+
+== Causes ==
+The investigation into the crash found that the pilots of the Ilyushin Il-14 disobeyed instructions from air traffic control and climbed to the altitude of {{convert|3000|m|abbr=on}} to avoid the clouds and turbulence, where the formation of Antonov An-12s were flying.  The collision occurred at an altitude of {{convert|2910|-|2960|m|abbr=on}}, the Il-14 should have been flying at an altitude of {{convert|2700|m|abbr=on}}.  The pilots of the An-12 were also found to be at fault for flying slightly lower than their assigned altitude of {{convert|3000|m|abbr=on}}.<ref name=":0" /><ref name=":3" />
+
+== Memorial ==
+[[File:Yukhnov mid-air collision 5.jpg|thumb|The memorial for the fallen soldiers.]]
+[[Vasily Margelov]], Commander of the Airborne Forces and General of the Army, decided that a memorial would be constructed in memory of the fallen soldiers.  Money was raised for the construction of a monument to the dead soldiers.  In total, 250 thousand rubles were collected.  A year after the disaster, the memorial was constructed at the site the An-12 crashed.  The monument, designed by [[Yevgeny Vuchetich]], depicts a kneeling mother and paratrooper and contains the inscription: ''Eternal memory to the heroes-paratroopers and pilots''.  Next to the monument is a platform with 96 marble slabs, each with naming a soldier killed in the accident.<ref>{{Citation|last=avm74BC|title=Русский: Памятник на месте катастрофы самолёта Ан-12 после столкновения с Ил-14 ()|date=2012-07-28|url=https://commons.wikimedia.org/wiki/File:Yukhnov_mid-air_collision_5.jpg|accessdate=2017-04-13}}</ref><ref>{{Citation|last=avm74BC|title=Русский: Памятник на месте катастрофы самолёта Ан-12 после столкновения с Ил-14 ()|date=2012-07-28|url=https://commons.wikimedia.org/wiki/File:Yukhnov_mid-air_collision_7.jpg|accessdate=2017-04-13}}</ref>
+
+At the site of the crashed Ilyushin Il-14 there is a monument to the pilots and passengers.
+
+== See also ==
+* [[7th Guards Mountain Air Assault Division]]
+
+== References ==
+{{reflist}}
+
+{{Aeroflot}}
+{{Aviation accidents and incidents in 1969}}
+{{Aviation accidents and incidents in Russia}}
+
+[[Category:Aviation accidents and incidents in the Soviet Union]]
+[[Category:Aviation accidents and incidents in 1969]]
+[[Category:Aviation accidents and incidents caused by pilot error]]
+[[Category:Aeroflot accidents and incidents|Aeroflot]]
+[[Category:Accidents and incidents involving the Antonov An-12]]
+[[Category:1969 in the Soviet Union]]
+[[Category:Mid-air collisions]]
+[[Category:June 1969 events in Europe]]
+[[Category:Airliner accidents and incidents involving mid-air collisions]]
+[[Category:Accidents and incidents involving military aircraft]]
+[[Category:Kaluga Oblast]]

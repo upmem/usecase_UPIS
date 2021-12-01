@@ -1,0 +1,23 @@
+{{Speciesbox
+| taxon = Trichomycterus guaraquessaba
+| authority = [[Wolmar Benjamin Wosiacki|Wosiacki]], 2005
+}}
+
+'''''Trichomycterus guaraquessaba''''' is a species of [[pencil catfish]] presently only known from [[Rio Bracinho]], a small isolated river in [[Paraná (state)|Paraná]] state, [[Brazil]].
+
+This is an elongate catfish up to {{convert|91.5|cm|in}} [[fish measurement|standard length]]. It has no unique [[comparative anatomy|morphological]] features and can be distinguished from its congeners by a combination of characters including a uniformly grey colouring with only small dark spots on the flank, [[pelvic fin]] not covering the [[urogenital]] opening and square-ended [[caudal fin]].
+
+==References==
+* {{cite journal| author=Wosiacki, W. B.| date=2005| title=A new species of ''Trichomycterus'' (Siluriformes: Trichomycteridae) from south Brazil and redescription of ''T. iheringi'' (Eigenmann)| journal=[[Zootaxa]]| volume=1040| pages=49–64| url=http://www.mapress.com/zootaxa/2005f/zt01040p064.pdf}}
+* {{FishBase |genus= Trichomycterus|species= guaraquessaba| month = February | year = 2012}}
+{{Reflist}}
+
+{{Taxonbar|from=Q3753721}}
+
+[[Category:Trichomycterus|guaraquessaba]]
+[[Category:Fish of South America]]
+[[Category:Fish of Brazil]]
+[[Category:Fish described in 2005]]
+
+
+{{Trichomycteridae-stub}}

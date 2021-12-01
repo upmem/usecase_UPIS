@@ -1,0 +1,29 @@
+'''Joseph Coëtnempren de Kersaint''' (29 November 1746 – [[Isle de France (Mauritius)|Isle de France]] ([[Mauritius]]), 1797){{sfnp|Roussel|Forrer|2019|p=61}}  was a [[France|French]] Navy officer.
+
+== Biography ==
+Joseph Coëtnempren de Kersaint was born to the family of [[Guy François Coëtnempren de Kersaint]], a French Navy officer. His two brothers, [[Armand de Kersaint]] (1742–1793) and [[Guy Pierre Kersaint]] (1747–1822), also served in the Navy.
+
+Kersaint joined the Navy at a [[Garde-Marine]] on 25 July 1762. He was promoted to Ensign on 15 September 1771, and to Lieutenant on 5 February 1786.{{sfnp|Roussel|Forrer|2019|p=61}}
+
+He served on ''Heure du Berger'' from November 1767 to January 1769. {{sfnp|Roussel|Forrer|2019|p=61}}
+
+In 1776, he served on the 40-gun frigate [[French frigate Consolante (1775)|''Consolante'']].{{sfnp|Roussel|Forrer|2019|p=61}} In June 1778, he transferred to the 64-gun [[French ship Brillant (1774)|''Brillant'']].{{sfnp|Roussel|Forrer|2019|p=61}}
+
+Kersaint married at Isle de France on 3 April 1780.{{sfnp|Roussel|Forrer|2019|p=61}}
+
+In June 1782, Kersaint, by then retired from the Navy,{{sfnp|Cunat|1852|p=251}} departed Brest, captaining the corvette ''Duc de Chartes''. He arrived at Achem on 24 November.{{sfnp|Lacour-Gayet|1910|p=538}}
+
+==Notes, citations, and references==
+'''Notes'''
+{{reflist|group=note}}
+
+'''Citations'''
+{{Reflist|30em}}
+
+'''References'''
+* {{cite book |last1=Cunat |first1=Charles |authorlink1=Charles Cunat|title=Histoire du Bailli de Suffren |date=1852 |publisher=A. Marteville et Lefas |location=Rennes |pages=447 |url=https://books.google.com/books?id=-jkBAAAAQAAJ}}
+* {{cite book |last=Lacour-Gayet |first=Georges|authorlink=Georges Lacour-Gayet|title=La marine militaire de la France sous le règne de Louis XVI |date=1910 |publisher=Honoré Champion |location=Paris |url=https://gallica.bnf.fr/ark:/12148/bpt6k1181278.texteImage}}
+* {{cite book |last1=Roussel|first1=Claude-Youenn|last2=Forrer|first2=Claude|authorlink2=Claude Forrer|title=Tromelin et Suffren, un conflit entre marins|date=2019 |publisher=Kronos |location= |isbn=978-2-917232-88-0}}
+{{France-mil-bio-stub}}
+{{DEFAULTSORT:Kersaint, Joseph}}
+[[Category:French Navy officers]]

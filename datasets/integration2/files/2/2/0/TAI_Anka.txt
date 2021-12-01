@@ -1,0 +1,259 @@
+{{Use dmy dates|date=October 2019}}
+<!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. -->
+{|{{Infobox aircraft begin
+ |name= Anka
+ |image= File:TAI ANKA-S..jpg
+ |caption= Turkish Anka-S 
+}}{{Infobox aircraft type
+ |type= [[Unmanned aerial vehicle]]<br>[[Unmanned combat aerial vehicle]]
+ |national origin= [[Turkey]]
+ |manufacturer= [[Turkish Aerospace Industries]]
+ |first flight= 30 December 2010
+ |designer= <!--only appropriate for single designers, not project leaders-->
+ |first= <!--if it hasn't happened, leave it out!-->
+ |introduction= April 2013
+ |retired= <!--date the aircraft left military or revenue service. If vague or multiples, it probably should be skipped-->
+ |status= In service<ref name="IMMINENT">{{cite journal|url=http://www.todayszaman.com/news-305039-mass-production-of-turkeys-first-national-uav-imminent.html|title=Mass production of Turkey's first national UAV imminent|last=Soncan|first=Emre|publisher=Today's Zaman Newspaper|date=24 January 2013|accessdate=24 January 2013|url-status=dead|archiveurl=https://web.archive.org/web/20130124185837/http://todayszaman.com/news-305039-mass-production-of-turkeys-first-national-uav-imminent.html|archivedate=24 January 2013}}</ref>
+ |primary user= [[Turkish Air Force]]
+ |more users= [[General Directorate of Security (Turkey)]] <br> [[Tunisian Air Force]]
+ |produced= 2010-present
+ |number built= 25
+ |program cost= over $200M<ref>{{cite news|title=TAI's troubled pride: Anka and Hürkuş|url=http://www.turkishweekly.net/news/178189/tai-s-troubled-pride-anka-and-hurkus.html|publisher=[[Turkish Weekly]]|date=6 January 2015|url-status=dead|archiveurl=https://web.archive.org/web/20150517172337/http://www.turkishweekly.net/news/178189/tai-s-troubled-pride-anka-and-hurkus.html|archivedate=17 May 2015}}</ref>
+ |unit cost= 
+ |developed from= [[TAI Gözcü]]
+ |variants with their own articles= 
+ |developed into = [[TAI Aksungur]]
+}}
+|}
+
+The '''TAI Anka''' is a family of [[unmanned aerial vehicle]]s (UAV) developed by [[Turkish Aerospace Industries]] (TAI) for the requirements of the [[Turkish Armed Forces]]. The basic Anka-A is classified as a [[Medium-altitude long-endurance unmanned aerial vehicle|Medium Altitude Long Endurance (MALE) UAV]]. Envisioned in the early 2000s for tactical surveillance and reconnaissance missions, the Anka has now evolved into a modular platform with [[synthetic aperture radar]], precise weapons and satellite communication. The drone is named after a [[Phoenix (mythology)|phoenix]]-like mythological creature called ''[[Zumrud-u Anka|Zümrüd-ü Anka]]'' (''Anka kuşu'' in [[Turkish language|Turkish]].)<ref>{{Cite web|date=2020-11-08|title=what do you know about Turkish drones|url=https://www.alsuleiman.net/archives/164|access-date=2020-11-13|website=علي السليمان Ali Al Suleiman|language=ar}}</ref><ref>{{Cite web|date=2020-11-01|title=طائرات بدون طيَّار.. هكذا فرضت تركيا قوَّتها في الجو|url=https://www.alsuleiman.net/archives/118|access-date=2020-11-13|website=علي السليمان Ali Al Suleiman|language=ar}}</ref>
+
+==Design==
+[[File:ANKA_TUSAS.jpg|thumb|Anka in flight]]
+The TUAV system consists of three air vehicles (A/V), Ground Control Station (GCS), Ground Data Terminal (GDT), Automatic Take-off, and Landing System (ATOLS), Transportable Image Exploitation System (TIES), Remote Video Terminal (RVT) and various Ground Support Equipment (GSE).
+
+The TUAV system, which is designed for night and day missions including adverse weather conditions, performs real-time image intelligence, surveillance, reconnaissance, moving/stationery target detection, recognition, identification, and tracking missions.<ref name="TRDEFENCE">{{cite web|title=TAI Unveils ANKA Unmanned Airplane|url=http://www.trdefence.com/?p=1121|publisher=TRDefence|accessdate=20 July 2010|archive-url=https://web.archive.org/web/20100725200906/http://www.trdefence.com/?p=1121|archive-date=25 July 2010|url-status=live}}</ref>
+
+While the TUAV system has an [[open architecture]] to support other potential payloads and missions, within the context of the existing project the air vehicle is configured to carry the following payloads on board:<ref name="TAI">{{cite web|title=Turkish Indigenous MALE UAV (Anka)|url=https://www.tai.com.tr/en/product/anka-multi-role-isr-system|publisher=TAI|accessdate=29 September 2018|archive-url=https://web.archive.org/web/20180408093615/https://www.tai.com.tr/en/product/anka-multi-role-isr-system|archive-date=8 April 2018|url-status=live}}</ref>
+
+* Electro-optic Color Day Camera (EO Day TV)
+* Electro-optic/[[Forward Looking Infrared]]/[[Laser rangefinder]]/[[Laser Designator]] and Spotter Camera (EO/FLIR/LRF/LDS)
+* Synthetic Aperture Radar/[[Ground Moving Target Indicator]] (SAR/GMTI)
+* [[Inverse SAR]] (ISAR)
+
+The whole composite airframe is composed of a monoblock fuselage, detachable wing and V-Tail, retractable landing gear, redundant control surfaces, avionics and payload bays and service doors. The sandwich skin structure is reinforced by composite or metallic frames, ribs, and supports. Propelled by a pusher type heavy fuel engine, the aircraft is furnished with fuselage fuel tanks and fuel system, ice protection system, environmental control system, lighting system, redundant electrical system with battery backup, and harness system.
+
+The platform is also equipped with a digital flight control system, electro-mechanical actuators, and flight control sensor systems such as GPS, pitot-static, air data computer, navigation sensor, transducers, temperature, pressure, displacement sensors, etc.<ref name="ROCKWELL">{{cite web|title=Rockwell Collins selected to provide guidance and navigation system for Turkish Aerospace Industries' Anka Unmanned Aerial Vehicle|url=http://rockwellcollins.com/sitecore/content/Data/News/2011_Cal_Yr/GS/FY11GSNR22-TAI_release.aspx|publisher=Rockwell Collins|accessdate=11 May 2011|archive-url=https://web.archive.org/web/20110826082007/http://rockwellcollins.com/sitecore/content/Data/News/2011_Cal_Yr/GS/FY11GSNR22-TAI_release.aspx|archive-date=26 August 2011|url-status=live}}</ref> Various tasks are distributed along flight management computers and auxiliary control boxes. Identification and communication units and interface computers are employed in order to establish real time wide band communication and provide test and diagnostics functions. An air traffic radio is also integrated in the communication system for the integration of the aircraft into the civilian airspace. All flight critical equipment are dual or triple redundant and emergency modes of operational scenarios are taken into consideration for fail safe design.
+
+All airborne and ground-based flight control software is developed by TAI while payload and other relevant hardware and software items are aimed to be developed by national sub-contractors, such as [https://www.aselsan.com.tr Aselsan], [https://www.ayesas.com AYESAS], and [http://www.milsoft.com.tr MilSOFT].
+
+UAV operations are supported by highly sophisticated ground control system with complete redundancy, developed by a domestic defence company Savronik.<ref name="SAVRONIK">[http://www.savronik.com.tr/en/?defence-programs&07 Unmanned Air Vehicle Ground Control Station Shelter] {{Webarchive|url=https://web.archive.org/web/20120325190055/http://www.savronik.com.tr/en/?defence-programs&07 |date=25 March 2012 }}, ''Savronik''. Retrieved 1 July 2011.</ref> Whole mission segments of the air vehicle can be managed, monitored and controlled by a GCS. A pre-programmed mission plan can be loaded before the flight begins or can be altered during the flight. All the imagery stream of the payloads can be displayed and recorded in real time and all the payloads can be controlled from the GCS. ATOLS allows the air vehicle to perform its operation without operator intervention, including the most critical phases which are landing and take-off.
+
+In TIES, valuable intelligence information can be obtained by the analysis of bulky imagery data. TIES operators can initiate intelligence missions prior to or during flight. Refined information flows to the upper command layer in order to assist the headquarters to monitor a network of TUAV systems and benefit from the gathered intelligence information. Another interface of the TUAV system is the RVT, with which other friendly units who are close to the target area can utilize the real time imagery that TUAV air vehicle broadcasts.
+
+==Development==
+[[File:TAI_Anka_Teknofest2019_(1).jpg|thumb|Anka at Teknofest 2019]] 
+The contract regarding the development of an indigenous Medium Altitude Long Endurance (MALE) [[Unmanned Aerial Vehicle]] (UAV) system for the reconnaissance requirements of the Turkish Armed Forces became effective on 24 December 2004. Within the framework of the program, a total of three prototypes and ground systems will be designed, developed, manufactured, and tested by mid-2011 as part of the prototype development phase. Subsequently, in 2012, the serial production phase of Anka-A would be launched and additional 10 systems (meaning 30 air vehicles) built for the Turkish Air Force.
+
+* On 30 December 2010, the first TAI Anka unmanned aerial vehicle completed its debut flight, with 14 minutes of cruising, at 15:45 local time.<ref name="HURRIYET_JAN_2011">{{cite web|last=Eksi|first=Ozgur|title=Hürriyet: Ve ANKA uçtu|url=http://www.hurriyet.com.tr/gundem/16660379.asp?gid=373|accessdate=4 January 2011|language=Turkish|archive-url=https://web.archive.org/web/20110104082920/http://www.hurriyet.com.tr/gundem/16660379.asp?gid=373|archive-date=4 January 2011|url-status=live}}</ref> It crashed after 15 minutes.<ref name="Atomic">{{cite web |last1=Gettinger |first1=Dan |title=Turkey's military drones: an export product that's disrupting NATO |url=https://thebulletin.org/2019/12/turkeys-military-drones-an-export-product-thats-disrupting-nato/ |website=Bulletin of the Atomic Scientists |accessdate=12 December 2019}}</ref> Defence Minister Vecdi Gönül confirmed the flight.<ref name="ZAMAN_01">[http://www.zaman.com.tr/haber.do?haberno=1074255&title=insansiz-hava-araci-gelistirme-projesi-imzalandi "First flight of Anka took place last week, on Thursday", stated Defence Minister Vecdi Gonul] {{webarchive|url=https://web.archive.org/web/20120314013833/http://www.zaman.com.tr/haber.do?haberno=1074255&title=insansiz-hava-araci-gelistirme-projesi-imzalandi |date=14 March 2012 }}, Zaman, Retrieved 4 January 2011</ref>
+* On 5 May 2011, TAI released the test flight video of Anka.<ref name="ANADOLUAJANSI">{{cite news|url=http://www.aa.com.tr/tr/anka-test-ucusunda.html |title=TAI Anka Test Flight |publisher=[[Anatolian Agency]]. See the bottom of the cited webpage |url-status=dead |archiveurl=https://web.archive.org/web/20110508140706/http://www.aa.com.tr/tr/anka-test-ucusunda.html |archivedate=8 May 2011 }}</ref> Anka-A flew a test and calibration mission of 2h 30m.
+* Turkish Aerospace Industries announced on 25 October 2011 that the Anka had successfully completed its subsequent flight and landing tests and that it will now be in the Turkish Air Force inventory in 2012 that is much earlier than expected. Footage released by TAI also shows the Anka landing successfully putting all speculation abouts its crash landings to rest.<ref name="WORLDBULLETIN">{{cite web|url=http://www.worldbulletin.net/?aType=haber&ArticleID=80767|title=Domestic unmanned aerial vehicle to spot PKK in Turkey|publisher=World Bulletin|date=25 October 2011|access-date=26 October 2011|archive-url=https://web.archive.org/web/20121211005855/http://www.worldbulletin.net/?aType=haber&ArticleID=80767|archive-date=11 December 2012|url-status=live}}</ref>
+* On 22 November 2011, the Anka held the follow-up test flight for 6 hours at 20,000&nbsp;ft. The vehicle demonstrated its automatic take-off and landing system for the first time.<ref name="DHA">{{cite journal|url=http://www.dha.com.tr/6-saat-ucan-anka-otomatik-pilot-sistemiyle-inis-kalkis-yapti-son-dakika-haberi_237012.html|title=Anka 6 saat havada kaldı|publisher=Dogan News Agency|date=24 November 2011|accessdate=2 December 2011|language=Turkish|archive-url=https://web.archive.org/web/20111127034040/http://www.dha.com.tr/6-saat-ucan-anka-otomatik-pilot-sistemiyle-inis-kalkis-yapti-son-dakika-haberi_237012.html|archive-date=27 November 2011|url-status=live}}</ref><ref name="ANADOLUAJANSI_NOV_11">{{cite news|url=http://www.anadoluajansi.com.tr/tr/guncel-haberler/104164-20-bin-fitte-6-saat-kaldi |title=20 bin fitte 6 saat kaldı |publisher=[[Anatolian Agency]] |date=24 November 2011 |accessdate=25 November 2011 |language=Turkish |url-status=dead |archiveurl=https://web.archive.org/web/20111126090522/http://www.anadoluajansi.com.tr/tr/guncel-haberler/104164-20-bin-fitte-6-saat-kaldi |archivedate=26 November 2011 }}</ref>
+* On 5 January 2012, Defence Industry Executive Committee authorized Undersecretariat for Defence Industries to commence talks with Turkish Aerospace Industries for the serial production of 10 Anka vehicles.<ref>{{cite web|url=http://www.ssm.gov.tr/anasayfa/hizli/duyurular/PressReleases/Documents/Bas%C4%B1nAciklamas%C4%B105012012.pdf|title=SSM press release|publisher=Undersecretariat for Defence Industries (SSM)|date=5 January 2012|accessdate=5 January 2012|language=Turkish|url-status=dead|archiveurl=https://web.archive.org/web/20140113205332/http://www.ssm.gov.tr/anasayfa/hizli/duyurular/PressReleases/Documents/Bas%C4%B1nAciklamas%C4%B105012012.pdf|archivedate=13 January 2014}}</ref>
+* On 27 September 2012, an Anka prototype crashed during a flight test due to a technical problem.<ref name="SUASNEWS">{{cite web|url=http://www.suasnews.com/2012/10/19014/anka-uav-prototype-crashes-during-test-flight/|title=ANKA UAV Prototype Crashes During Test Flight|publisher=Suasnews.com|date=3 October 2012|access-date=3 October 2012|archive-url=https://web.archive.org/web/20121015065842/http://www.suasnews.com/2012/10/19014/anka-uav-prototype-crashes-during-test-flight/|archive-date=15 October 2012|url-status=live}}</ref>
+* On 20 January 2013, Anka completed acceptance tests by the [[Turkish Air Force]]. The final acceptance tests were conducted near Ankara, and involved an 18‑hour‑long, 200&nbsp;km ring flight. The tests also included a night landing in adverse weather conditions. The Anka has flown more than 140 hours and reached and altitude of 26,000 feet.<ref name="IMMINENT"/><ref name="TAI 2">{{cite web|url=https://www.tai.com.tr/tr/basin-bultenleri/anka-kabul-testlerini-tamamladi|title=Anka Kabul Testlerini tamamladı|access-date=24 January 2013|archive-url=https://web.archive.org/web/20130730181649/https://www.tai.com.tr/tr/basin-bultenleri/anka-kabul-testlerini-tamamladi|archive-date=30 July 2013|url-status=live}}</ref><ref name="HABERTURK">{{cite journal|url=http://ekonomi.haberturk.com/teknoloji/haber/814150-anka-testi-gecti/|title=ANKA Passed the Test|publisher=HaberTurk.com|date=24 October 2013|access-date=24 January 2013|archive-url=https://web.archive.org/web/20130127142103/http://ekonomi.haberturk.com/teknoloji/haber/814150-anka-testi-gecti|archive-date=27 January 2013|url-status=live}}</ref>
+* On 13 May 2013, the [[Pakistan Aeronautical Complex]], Kamra handed over the first batch of Anka UAV parts to [[Turkish Aerospace Industries]] during [[International Defence Industry Fair|IDEF 2013]] at Istanbul, Turkey.<ref name="APP">{{cite news|title=PAC Kamra delivers first batch of UAV parts to Turkey|url=http://www.app.com.pk/en_/index.php?option=com_content&task=view&id=235038&Itemid=2|accessdate=22 August 2013|publisher=[[Associated Press of Pakistan]]|date=13 May 2013|url-status=dead|archiveurl=https://web.archive.org/web/20140113180637/http://www.app.com.pk/en_/index.php?option=com_content&task=view&id=235038&Itemid=2|archivedate=13 January 2014}}</ref><ref name="EXPRESSTRIBUNE">{{cite news|title=Pakistan builds parts for Turkey drones|url=http://tribune.com.pk/story/548713/pakistan-builds-parts-for-turkey-drones/|accessdate=22 August 2013|newspaper=[[The Express Tribune]]|date=13 May 2013|archive-url=https://web.archive.org/web/20130821012008/http://tribune.com.pk/story/548713/pakistan-builds-parts-for-turkey-drones/|archive-date=21 August 2013|url-status=live}}</ref>
+* On 6 December 2013, another Anka UAV crashed in southeastern Turkey during a day flight.<ref>{{cite news|title=Turkish-Made Drone Anka Crashes|url=http://archive.defensenews.com/article/20131209/DEFREG01/312090022/Turkish-Made-Drone-Anka-Crashes|publisher=defensenews.com|date=9 December 2013|url-status=dead|archiveurl=https://archive.is/20150117100310/http://archive.defensenews.com/article/20131209/DEFREG01/312090022/Turkish-Made-Drone-Anka-Crashes|archivedate=17 January 2015}}</ref>
+
+==Configurations==
+Turkey's Directorate for Defence Industries has been stressing advanced variants of the Anka with larger payload capacity, extending Block A capabilities to the features like:
+*[[Communications satellite|SATCOM]]
+*[[SIGINT]]<ref>{{cite news |url=http://www.janes.com/article/78883/turkey-s-anka-uav-gains-sigint-capabilities?from_rss=1 |publisher=[[Jane's Information Group]] |title=Turkey's Anka UAV gains SIGINT capabilities |first=Lale |last=Sariibrahimoglu |quote=SSM did not give any more details, but Turkey’s NTV news channel reported on 26 March that the new version is destined for the Turkish National Intelligence Agency (MIT). |date=27 March 2018 |access-date=5 April 2018 |archive-url=https://web.archive.org/web/20180405090531/http://www.janes.com/article/78883/turkey-s-anka-uav-gains-sigint-capabilities?from_rss=1 |archive-date=5 April 2018 |url-status=live }}</ref>
+*[[Air-to-ground weaponry|Air-to-ground]] and air-to-air missile integration
+According to the authority, the Anka will eventually have an indigenous 155&nbsp;hp turbo-prop engine developed by TUSAŞ Engine Industries (TEI), with the cooperation of local companies in the future.
+
+==Variants==
+
+===Anka +A===
+On 19 July 2012, the Turkish Defense Industry Executive Committee (SSIK) announced that Turkish Aerospace Industries had commenced research and development for the design and development of a "hunter killer" High-Altitude Long-Endurance version of the Anka UAV, named the Anka +A. It was planned that Anka +A will carry Cirit missiles of Turkey's [[ROKETSAN]]. The engines of the Anka +A UCAV had not yet been determined. It might have more powerful turbo engines or it could have gas turbine engine.  The weight of Anka +A UCAV would be more than 4 tons compared to Anka Block A's 1.5 tons. It was highly expected that the UCAV would be presented to public in the events of IDEF'13 on 7–10 May 2013.<ref name="HDN">{{cite journal|url=http://www.hurriyetdailynews.com/turkey-set-to-produce-its-own-armed-uavs.aspx?pageID=238&nID=25830&NewsCatID=345|title=Turkey Set to Produce its own Armed UAVs|access-date=20 July 2012|archive-url=https://web.archive.org/web/20120720220220/http://www.hurriyetdailynews.com/turkey-set-to-produce-its-own-armed-uavs.aspx?pageID=238&nID=25830&NewsCatID=345|archive-date=20 July 2012|url-status=live}}</ref><ref name="SUNDAYSZAMAN">{{cite news|url=http://www.sundayszaman.com/sunday/newsDetail_getNewsById.action?newsId=286926|title=Turkey to manufacture armed version of national drone|date=18 July 2012|publisher=Sunday's Zaman|access-date=20 July 2012|archive-url=https://web.archive.org/web/20140114040507/http://www.sundayszaman.com/sunday/newsDetail_getNewsById.action?newsId=286926|archive-date=14 January 2014|url-status=live}}</ref><ref name="ZAMAN_02">[http://www.zaman.com.tr/haber.do?haberno=1321448&title=ankalar-silahlaniyor Zaman] {{webarchive|url=https://web.archive.org/web/20120723172803/http://www.zaman.com.tr/haber.do?haberno=1321448&title=ankalar-silahlaniyor |date=23 July 2012 }} Anka UAVs are getting armed</ref><ref name="YOUTUBE">{{cite video|url=https://www.youtube.com/watch?v=nwUeMD757e4|title=Anka MURAD BAYAR TRT AVAZ KANALINA KONUK OLDU|access-date=13 January 2014|archive-url=https://web.archive.org/web/20140617133247/http://www.youtube.com/watch?v=nwUeMD757e4|archive-date=17 June 2014|url-status=live}}</ref>
+
+=== Anka-B ===
+[[File:TAI-ANKA-UAV-FAR14-3659.JPG|thumb|Anka-B with SAR Radar]]
+On 30 January 2015, the Anka-B completed its maiden flight successfully. Anka Block B is an improved version of the Anka Block A. The UAV carries an Aselsan synthetic aperture radar/ground moving-target indicator payload in addition to the platform's electro-optical/infrared sensor. During the maiden flight, Anka-B successfully performed "basic shakedown" and auto-landing. The Anka Block B also has a greater payload capacity than that of the Anka-A which includes SAR/ISAR/GMTI radar (in addition to the cameras of Anka A) that obtains and remits high resolution intelligence data back to base.<ref>{{cite news |url=http://www.trthaber.com/haber/bilim-teknik/yeni-nesil-anka-goklerde-165302.html |publisher=TRT News |title=Yeni nesil "ANKA" göklerde |date=30 January 2015 |access-date=1 February 2015 |archive-url=https://web.archive.org/web/20150202022643/http://www.trthaber.com/haber/bilim-teknik/yeni-nesil-anka-goklerde-165302.html |archive-date=2 February 2015 |url-status=live }}</ref><ref>{{cite magazine |url=http://www.janes.com/article/48513/turkey-s-anka-block-b-uav-completes-maiden-flight |magazine=[[IHS Jane's Defence Weekly]] |title=Turkey's Anka Block-B UAV completes maiden flight |first=Lale |last=Sariibrahimoglu |date=30 January 2015 |access-date=4 February 2015 |archive-url=https://web.archive.org/web/20150205023306/http://www.janes.com/article/48513/turkey-s-anka-block-b-uav-completes-maiden-flight |archive-date=5 February 2015 |url-status=live }}</ref> The Anka Block B paved the way for weaponisation of the platform in the foreseeable future. Anka Block B passed 30.000 feet, 26 hours and 200&nbsp;km radius during the test flights. Turkish Air Force ordered 10 Anka Block B in 2013 at a cost of $300 million.<ref>{{cite news |url=http://www.flightglobal.com/news/articles/upgraded-anka-carries-out-maiden-flight-408567/ |publisher=Flight Global |title=Upgraded Anka carries out maiden flight |first=Beth |last=Stevenson |date=2 February 2015 |access-date=4 February 2015 |archive-url=https://web.archive.org/web/20150204082230/http://www.flightglobal.com/news/articles/upgraded-anka-carries-out-maiden-flight-408567/ |archive-date=4 February 2015 |url-status=live }}</ref>
+
+=== Anka-S ===
+[[File:TaiIDEF2015.JPG|thumb|Anka-S with modified radome for SATCOM]]
+Anka-S is a serial production configuration of Anka. It is equipped with ViaSat's VR-18C Highpower [[Communications satellite|SATCOM]] antenna and a national flight control computer. Like Block A and Block B, Anka-S will be powered by [[Thielert Centurion|Thielert Centurion 2.0S]]. On the other hand, Turkish Engine Industries (TEI) has been developing a national engine, capable of running with diesel and JP-8 jet fuel.
+
+On 25 October 2013, Turkish Undersecretariat for Defence Industry (SSM) ordered 10 Anka-S UAVs and 12 ground control stations for $290 million ($220.6 million + TRY 137 million). The UAVs would be delivered in three batches (2+4+4). The first batch was planned to be delivered in March 2017. A total of 6 aircraft were planned to be delivered in 2017.
+
+In 2016, media reported that the TAI was manufacturing 4 Anka-S UAVs for the armed forces. The first two of these aircraft were to be equipped with StarFIRE 380-HDL FLIR payload. However, these would be replaced with Aselsan CATS later on.<ref>{{Cite journal|year=2016|title=İnsansız Hava Aracı İHA Projeleri|journal=Savunma Ve Havacilik}}</ref>
+
+On 17 August 2018, Directorate for Defence Industries announced that the Anka-S completed its first live fire tests. The platform was tested with MAM-L ammunition developed by the Roketsan.<ref>{{cite magazine |url=https://www.janes.com/article/82468/satellite-controlled-anka-s-uav-fires-guided-munitions |magazine=[[IHS Jane's Defence Weekly]] |title=Satellite-controlled Anka-S UAV fires guided munitions |first=Lale |last=Sariibrahimoglu |date=20 August 2018 |access-date=29 September 2018 |archive-url=https://web.archive.org/web/20180930034204/https://www.janes.com/article/82468/satellite-controlled-anka-s-uav-fires-guided-munitions |archive-date=30 September 2018 |url-status=dead}}</ref> In September, Ismail Demir, director of the Turkey's defence industry authority, shared a picture of the first Anka-S equipped with Aselsan CATS optical system.<ref>https://twitter.com/IsmailDemirSSB/status/1044620673581285376</ref> TAI delivered 2 more Anka-S to [[Turkish Air Force]] in September 2018,<ref>https://twitter.com/SavunmaSanayii/status/1042381426493153280</ref> increasing the Anka-S inventory of Turkish Air Force to 8 aircraft. TAI is planning to deliver a total of 10 Anka-S to Turkish Air Force before 2019.<ref>https://twitter.com/Acemal71/status/1042393522974932992</ref>
+
+In August 2018, the Anka-S carried out Turkey's "first satellite-controlled airstrike". In December, an Anka completed its first flight with an engine produced domestically. In 2019, the Anka broke its endurance records, flying longer than 24 hours.<ref name="Atomic"/>
+
+Although Ankas have an operational range of about 100 miles, the Anka-S (satellite-enabled) is capable of flying beyond "line of sight".<ref name="Atomic"/>
+
+=== Anka-I ===
+Electronic warfare and intelligence UAV made for the [[National Intelligence Organization (Turkey)|National Intelligence Organization]]. Equipped with electronic warfare and intelligence systems (ELINT and COMINT).
+<ref>http://www.millisavunma.com/anka-i-elektronik-harp-ve-istihbarat-iha/</ref>
+
+=== Anka-2===
+
+The Anka-2 (code name [[TAI Aksungur|Aksungur]]) is a twin engined version of the Anka-S which has a significantly higher payload capacity. This version is still under development and is planned to be taken into operation in 2020.
+
+==Operational history==
+The Anka performed its first mission flight on 5 February 2016 in Turkey's eastern province of [[Elazig province|Elazig]] performing a four-hour exploration and observation flight.<ref>[http://www.defensenews.com/story/defense/policy-budget/industry/2016/02/07/turkish-drone-anka-makes-debut-flight/79973784/ Turkish Drone Anka Makes Debut Flight] - Defensenews.com, 7 February 2016</ref>
+
+In the course of Turkey's [[Operation Olive Branch]] in 2018, the UAV for the first time used the Smart Micro Munition, [[MAM-L Smart Micro Munition|MAM-L]].<ref name="sabahdamage" />
+
+Multiple Anka-S drones along with the advanced [[Bayraktar TB2]] drones were deployed and extensively used during the [[Operation Spring Shield]] launched by Turkey following the [[2020 Balyun airstrikes|heavy losses]] the Turkish forces incurred at the hands of the [[Russian military intervention in the Syrian Civil War|Russian-backed]] Syrian government in northwestern Syria at the end February 2020.<ref name="sabahdamage">{{Cite web|url=https://www.dailysabah.com/business/defense/damage-caused-to-assad-regime-assets-demonstrates-turkeys-high-uav-capabilities |title=Damage caused to Assad regime assets demonstrates Turkey's high UAV capabilities |website=dailysabah.com|date=1 March 2020}}</ref> The deployment was assessed by experts to be a tactical game-changer.<ref name="sabahdamage" /><ref>{{Cite web|url=https://www.defenseworld.net/news/26447/Ten_Hezbollah__Syrian_Army_Commanders_Killed_in_Turkish_Drone_Strikes#.XmQdE6hKiUk|title=Ten Hezbollah, Syrian Army Commanders Killed in Turkish Drone Strikes|website=www.defenseworld.net|date=3 March 2020}}</ref><ref>{{Cite web|url=https://www.aa.com.tr/en/science-technology/turkey-s-drone-use-puts-forward-new-military-doctrine/1755210|title='Turkey's drone use puts forward new military doctrine |website=[[Anadolu Agency|aa.com.tr]]|access-date=2020-03-07}}</ref>
+
+On 25 February 2020, Syrian Air defenses shot down an Anka-S.<ref>[https://fighterjetsworld.com/latest-news/syrian-air-defense-force-shot-down-turkey-air-force-tai-anka-uav-over-syria/20491/ Syrian Air Defense Force Shot Down Turkey Air Force TAI Anka UAV Over Syria]</ref><ref>{{cite web|url=https://fighterjetsworld.com/latest-news/aircraft-crash/turkish-anka-s-drone-reportedly-shot-down-by-syrian-air-defense-over-idlib/20568/|title=Turkish Anka-S Drone Reportedly Shot Down By Syrian Air Defense Over Idlib|quote=''In February 25 2020 another Anka-S was shot down''}}</ref>
+
+On 1 March 2020, an Anka-S was shot down while operating in the Syrian province of Idlib by an air defence system, near the town of [[Saraqib]].<ref>[https://www.dailysabah.com/politics/assad-regime-aircraft-downed-in-nw-idlib/news Assad regime downs Turkish drone in Syria after announcing airspace closure]</ref><ref>[https://theaviationist.com/2020/03/01/two-syrian-su-24-fencer-jets-and-a-turkish-drone-shot-down-over-idlib-region-syria/ Two Syrian Su-24 Fencer Jets And A Turkish Drone Shot Down Over Idlib Region, Syria.]</ref>
+
+==Export history==
+* On 23 November 2012, [[Egypt]] signed a contract with [[Turkish Aerospace Industries]] to purchase 10 Anka UAV's.<ref name="FLIGHTGLOBAL">{{cite web|url=http://www.flightglobal.com/news/articles/tai-to-sell-anka-uavs-to-egypt-379397/|title=TAI to sell Anka UAVs to Egypt|access-date=28 November 2012|archive-url=https://web.archive.org/web/20121201142519/http://www.flightglobal.com/news/articles/tai-to-sell-anka-uavs-to-egypt-379397/|archive-date=1 December 2012|url-status=live}}</ref><ref name="DAILYAIRFORCE">{{cite web|url=http://www.dailyairforce.com/1206/egypt-to-buy-anka-uavs.html|title=Egypt to Buy Anka UAVs|archive-url=https://web.archive.org/web/20121201035101/http://www.dailyairforce.com/1206/egypt-to-buy-anka-uavs.html|archive-date=1 December 2012|url-status=live}}</ref> The deal was later cancelled. Some sources claimed that the cancellation was due to the disagreements between [[Justice and Development Party (Turkey)|AK Parti]] government of then Prime Minister [[Recep Tayyip Erdoğan]] and the Egyptian military regime led by General [[Abdel Fattah el-Sisi]], while other sources stated the deal was never finalized. Recep Tayyip Erdogan was supporting the first democratically elected president in Egypt's, who had won the Egyptian presidential election in 2012, before getting ousted in a military coup on July 3, 2013.<ref>{{cite news|title=Turkey suspends delivery of ANKA drones to Egypt|url=http://www.hurriyetdailynews.com/turkey-suspends-delivery-of-anka-drones-to-egypt.aspx?pageID=517&nID=52474|newspaper=[[Hürriyet Daily News]]|date=14 August 2013|quote=There never was an agreement between Turkey and Egypt for the sale of the Turkish drone ANKA|access-date=11 January 2015|archive-url=https://web.archive.org/web/20150402111736/http://www.hurriyetdailynews.com/turkey-suspends-delivery-of-anka-drones-to-egypt.aspx?pageID=517&nID=52474|archive-date=2 April 2015|url-status=live}}</ref>
+* In April 2013, [[Saudi Arabia]]n officials expressed interest in the Anka UAV.<ref name="ARMYRECOGNITION">{{cite web|url=http://www.armyrecognition.com/april_2013_news_defence_army_military_industry_uk/saudi_arabia_could_be_interested_to_buy_the_future_turkish_main_battle_tank_altay_uav_anka_2804132.html|title=Saudi Arabia could be interested to buy the future Turkish main battle tank Altay and UAV Anka|publisher=Armyrecognition.com|date=28 April 2013|access-date=28 April 2013|archive-url=https://web.archive.org/web/20130504124438/http://www.armyrecognition.com/april_2013_news_defence_army_military_industry_uk/saudi_arabia_could_be_interested_to_buy_the_future_turkish_main_battle_tank_altay_uav_anka_2804132.html|archive-date=4 May 2013|url-status=live}}</ref> In November 2017, a Turkish official confirmed talks had been ongoing since 2013 for the purchase of 6 systems, but no official contract had been signed yet. The official stated specific requirements regarding reconnaissance capability and a possible transfer of technology to Saudi Arabia. A different source noted budgetary challenges to be overcome due to Saudi Arabia demanding a lower price due to lower oil prices constraining Saudi income.<ref name="SaudiTalks">{{cite web|last1=Mchantaf|first1=Chirine|title=Saudis in talks with TAI to buy six Anka turkish Drones|url=https://www.defensenews.com/digital-show-dailies/2017/11/17/saudis-in-talks-with-tai-to-buy-six-anka-turkish-drones/|website=Defense News|accessdate=18 November 2017|archiveurl=https://archive.is/20171118115048/https://www.defensenews.com/digital-show-dailies/2017/11/17/saudis-in-talks-with-tai-to-buy-six-anka-turkish-drones/|archivedate=18 November 2017|location=Abu Dhabi|date=18 November 2017|url-status=dead}}</ref>
+* In late November 2018, during IDEAS 2018, it was confirmed that [[Pakistan Navy]] is interested in Anka-S and has begun negotiations with Turkish Aerospace Industries for this UAV.<ref>{{cite news|title=IDEAS 2018: PAKISTAN NAVY IS NEGOTIATING FOR ANKA-S UAV|url=https://quwa.org/2018/11/29/ideas-2018-pakistan-navy-is-negotiating-for-anka-s-uav-2/|publisher=Quwa.org|date=29 November 2018|access-date=3 December 2018|archive-url=https://web.archive.org/web/20181203204249/https://quwa.org/2018/11/29/ideas-2018-pakistan-navy-is-negotiating-for-anka-s-uav-2/|archive-date=3 December 2018|url-status=live}}</ref>
+
+===Failed bids===
+* In November 2017 it was revealed that there were talks with the [[United Arab Emirates]], which ultimately amounted to no tangible results, in large part due to the United Arab Emirates also locally developing competing unmanned systems.<ref name="SaudiTalks"/>
+
+== Operators ==
+<!--READ FIRST: This section is for cited entries only. Please do not add entries into this list without a citation from a reliable source. All entries without a citation will be removed. Thank you.-->
+
+;{{flag|Turkey}} – 24 active<ref>https://armstrade.org/includes/periodics/news/2020/0826/122059339/detail.shtml</ref> 
+* [[Turkish Air Force]] – 16 active (planned total 40)
+* [[National Intelligence Organization (Turkey)|Turkish National Intelligence Organization]] – Anka-I variant
+* [[Turkish Naval Forces]] - 4 delivered<ref>{{cite news|title=Residency of Defence Industries:3 Ankas delivered|url=https://twitter.com/SavunmaSanayii/status/1183084239551680512|publisher=[[Twitter]]|date=12 October 2019|archivedate=13 October 2019}}</ref><ref>https://www.defenseworld.net/news/27711/Turkey_Delivers_Upgraded_ANKA_Combat_Drone_to_Navy#.X2XtFYuP7IU</ref>
+
+;{{flag|Tunisia}}
+* A contract was signed in March 2020 for 6 Anka-S and 3 command centers at $USD 240 million.<ref>https://www.armyrecognition.com/march_2020_news_defense_global_security_army_industry/tunisia_to_purchase_turkish-made_anka-s_unmanned_aerial_vehicles.html</ref>
+
+==Specifications (Anka-A)==
+
+{{Aircraft specs
+|ref=TAI.com : Anka<ref name=TAI_ANKA_UAV>{{cite web|url=https://www.tusas.com.tr/urun/anka|title=Unmanned Aerial Vehicle System Anka, Official Brochure|publisher=TAI|date=May 2011|accessdate=23 May 2011|url-status=dead|archiveurl=https://web.archive.org/web/20110722124219/http://www.tai.com.tr/ds_Resource/image/content/ANKA-ENG.pdf|archivedate=22 July 2011}}</ref>
+|prime units?=met
+<!--
+        General characteristics
+-->
+|capacity= {{cvt|200|kg|0}} payload
+|length m=8
+|length note=
+|span m=17.3
+|span note=
+|height m=3.4
+|height note=
+|wing area sqm=
+|wing area note=
+|aspect ratio=<!-- sailplanes -->
+|airfoil=
+|empty weight kg=
+|empty weight note=
+|gross weight kg=
+|gross weight note=
+|max takeoff weight kg=1600
+|max takeoff weight note=
+|fuel capacity=
+|more general=
+<!--
+        Powerplant
+-->
+|eng1 number=1
+|eng1 name=[[Tusaş Engine Industries]] PD170[https://www.tei.com.tr/en/products/tei-pd170] <ref>{{Cite web |url=https://www.dailysabah.com/defense/2018/12/28/turkish-uav-anka-makes-maiden-flight-using-domestically-developed-engine |title=Archived copy |access-date=12 February 2019 |archive-url=https://web.archive.org/web/20190212190334/https://www.dailysabah.com/defense/2018/12/28/turkish-uav-anka-makes-maiden-flight-using-domestically-developed-engine |archive-date=12 February 2019 |url-status=live }}</ref>
+|eng1 type=4-cylinder liquid-cooled in-line turbo-charged diesel engine
+|eng1 kw=127
+|eng1 note= . Formerly [[Thielert Centurion 2.0]]
+
+|prop blade number=3
+|prop name=constant-speed propeller
+|prop dia m=<!-- propeller aircraft -->
+|prop dia note=
+<!--
+        Performance
+-->
+|max speed kmh=217
+|max speed note=
+|cruise speed kmh=204
+|cruise speed note=
+|stall speed kmh=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed note=
+|range km=1448
+|range note=
+|combat range km=200
+|combat range note=datalink range
+|ferry range km=
+|ferry range note=
+|endurance=24 hours with {{cvt|200|kg|0}} payload<ref name=ZAMAN_03>{{cite web|title=Head of SSM Murad Bayar explains the road map|url=http://www.zaman.com.tr/haber.do?haberno=1006094&title=yerli-heronlarda-silah-mujdesi|publisher=Zaman Newspaper|accessdate=20 July 2010|language=Turkish|date=17 July 2010|url-status=dead|archiveurl=https://web.archive.org/web/20100720045108/http://zaman.com.tr/haber.do?haberno=1006094&title=yerli-heronlarda-silah-mujdesi|archivedate=20 July 2010}}</ref>
+|ceiling m=9144
+|ceiling note=<ref name=PROJECT_ANKA_UAV>{{cite web|url=https://www.tai.com.tr/en/project/anka-medium-altitude-long-endurance-uav-system|title=Anka MALE UAV System|url-status=dead|archiveurl=https://web.archive.org/web/20140114080011/https://www.tai.com.tr/en/project/anka-medium-altitude-long-endurance-uav-system|archivedate=14 January 2014}}</ref>
+|g limits=<!-- aerobatic -->
+|roll rate=<!-- aerobatic -->
+|climb rate ms=
+|climb rate note=
+|time to altitude=
+|wing loading kg/m2=
+|wing loading note=
+|fuel consumption kg/km=
+|power/mass=
+|thrust/weight=
+|more performance=
+|avionics=
+* [[ASELFLIR-300T]], SAR/GMTI, ISAR payload
+* INS/GPS and air data sensor suite system<ref name=ROCKWELL/>
+
+===Armaments===
+* [[MAM (Smart Micro Munition)]]
+* [[Roketsan Cirit]]
+*Tubitak-Sage Bozok Laser Guided Rockets<ref>http://www.defensenews.com/story/defense/policy-budget/industry/2015/05/17/turkey-to-outfit-drones-with-local-mini-rocket/27490289/</ref><ref>{{Cite web |url=http://www.uasvision.com/2015/05/20/turkey-to-fit-laser-guided-missiles-to-anka/ |title=Archived copy |access-date=20 May 2015 |archive-url=https://web.archive.org/web/20150522105237/http://www.uasvision.com/2015/05/20/turkey-to-fit-laser-guided-missiles-to-anka/ |archive-date=22 May 2015 |url-status=live }}</ref>
+}}
+
+==See also==
+{{Aircontent
+|see also=<!-- other related articles that have not already linked: -->
+* [[Unmanned Air Vehicle]]
+* [[Joint Direct Attack Munition]]
+|similar aircraft=<!-- aircraft that are of similar role, era, and capability as this design: -->
+* [[MQ-1 Predator]]
+* [[MQ-1C Warrior]]
+* [[Bayraktar Tactical UAS]]
+* [[Vestel Karayel]]
+* [[IAI Heron]]
+* [[Shahed 129]]
+* [[Fotros (UCAV)|Fotros]]
+* [[CASC Rainbow#CH-4|CH-4]]
+* [[CAIG Wing Loong]]
+|lists=<!-- relevant lists that this aircraft appears in: -->
+* [[List of unmanned aerial vehicles]]
+<!-- See [[WP:Air/PC]] for more explanation of these fields. -->
+
+}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category|TAI Anka}}
+* [https://www.tai.com.tr Turkish Aerospace Industries (TAI)]
+* [https://www.youtube.com/watch?v=an2hjusMoIw TAI Anka Documentary]
+* [https://www.youtube.com/watch?v=hIF3o_KJgI0 TAI Anka Presentation]
+* [http://www.flightglobal.com/articles/2006/08/01/208209/turkey-reveals-male-uav-details.html Flight Global: Turkey reveals MALE UAV details]
+* [https://web.archive.org/web/20070608194641/http://www.eastweststudies.org/makale_detail.php?tur=100&makale=40 East West Studies: Turkish Unmanned Aerial Vehicle (TIHA) Program]
+
+{{TAI aircraft}}
+
+[[Category:International unmanned aerial vehicles]]
+[[Category:Unmanned military aircraft of Turkey]]
+[[Category:Medium-altitude long-endurance unmanned aerial vehicles]]
+[[Category:Military robots]]
+[[Category:Single-engined pusher aircraft]]
+[[Category:V-tail aircraft]]
+[[Category:TAI aircraft|Anka]]
+[[Category:Synthetic aperture radar]]
+[[Category:Aircraft first flown in 2010]]

@@ -1,0 +1,73 @@
+__TOC__
+{{SPIarchive notice|1=Vickydvignesh}}
+{{SPIpriorcases}}
+===13 April 2017===
+
+
+====Suspected sockpuppets====
+* {{checkuser|1=Amvicky}}
+* {{checkuser|1=Vickyluffy}}
+* {{checkuser|1=Jallikattuman}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Amvicky User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+All three of these accounts have been engaging in the exact same editing pattern on ''[[One Piece]]'' related articles, including removing a source that directly states the worldwide print copies of the manga series that came directly from the publisher[http://www.animenewsnetwork.com/daily-briefs/2017-04-02/one-piece-manga-has-350-million-copies-in-print-worldwide/.114254] and adding in their own figure based on a compilations of sources. The similarity in name between Vickyluffy and Amvicky makes it obvious that the two accounts are the same person. —'''[[User:TheFarix|Farix]]'''&nbsp;([[User talk:TheFarix|t]]&nbsp;&#124;&nbsp;[[Special:Contributions/TheFarix|c]]) 15:26, 13 April 2017 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+*{{confirmed}}, blocked, tagged, closing.--[[User:Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]) 17:54, 13 April 2017 (UTC)
+
+----<!--- All comments go ABOVE this line, please. -->
+===18 April 2017===
+
+
+====Suspected sockpuppets====
+
+* {{checkuser|1=Kolaveridaw}}
+* {{checkuser|1=JOYDBOY}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Vickydvignesh User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+[[WP:QUACK]], quack. Same types of edits, same arguments that a reliable source is "wrong". —'''[[User:TheFarix|Farix]]'''&nbsp;([[User talk:TheFarix|t]]&nbsp;&#124;&nbsp;[[Special:Contributions/TheFarix|c]]) 15:44, 18 April 2017 (UTC)
+:added {{u|JOYDBOY}} as this is another brand new account making similar edits as previous socks. —'''[[User:TheFarix|Farix]]'''&nbsp;([[User talk:TheFarix|t]]&nbsp;&#124;&nbsp;[[Special:Contributions/TheFarix|c]]) 15:47, 18 April 2017 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+*Added page protections, indeffing socks and closing. <br />&nbsp;—&nbsp;[[User:Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">Berean Hunter</span>]] [[User talk :Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">(talk)</span>]] 02:18, 19 April 2017 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+===17 September 2017===
+
+
+====Suspected sockpuppets====
+* {{checkuser|1=RajaRajaCholan}}
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Vickydvignesh User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+* Lots of intersections with one of the socks, [https://tools.wmflabs.org/sigma/editorinteract.py?users=Amvicky&users=RajaRajaCholan&users=&startdate=&enddate=&ns=&server=enwiki Amvicky] in weird areas, like anime, manga, and Indian Tamil-language cinema.  
+* {{noping|Amvicky}} was a chronic misuser of the minor edit feature, as is {{noping|RajaRajaCholan}}
+* "Correcting Error" (with those caps) comes up a lot in RajaRajaCholan's and Amvicky's edit summaries. [[User:Cyphoidbomb|Cyphoidbomb]] ([[User talk:Cyphoidbomb|talk]]) 10:54, 17 September 2017 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+*{{Endorse}} - Seems pretty close for a duck call imo but not rock-solid, enough evidence for CU persists.  <span style="font-family:'Trebuchet MS',Geneva,sans-serif">[[User:QEDK|<span style="color:#f55">QEDK</span>]] ([[User talk:QEDK|<span style="color:#fac">愛</span>]] • [[Special:Contributions/QEDK|<span style="color:#fac">海</span>]])</span> 15:33, 17 September 2017 (UTC)
+:*{{re|QEDK}} I don't see anything to check against, everything in the archives is stale. [[User:Courcelles|Courcelles]] ([[User talk:Courcelles|talk]]) 04:35, 18 September 2017 (UTC)
+::*{{re|Courcelles}} Definitely my bad, I must have imagined some green "not stales" the last time I went through the archives, probably need my sleep. What'd be your behavioural take on this. --<span style="font-family:'Trebuchet MS',Geneva,sans-serif">[[User:QEDK|<span style="color:#f55">QEDK</span>]] ([[User talk:QEDK|<span style="color:#fac">愛</span>]] • [[Special:Contributions/QEDK|<span style="color:#fac">海</span>]])</span> 12:32, 18 September 2017 (UTC)
+:::*I'd consider a block on behavioural grounds, but as I've got to run it won't be coming down right now. [[User:Courcelles|Courcelles]] ([[User talk:Courcelles|talk]]) 19:58, 19 September 2017 (UTC)
+*Indeffed based on behavior and closing. <br />&nbsp;—&nbsp;[[User:Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">Berean Hunter</span>]] [[User talk :Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">(talk)</span>]] 20:50, 19 September 2017 (UTC)
+----<!--- All comments go ABOVE this line, please. -->

@@ -1,0 +1,17 @@
+<div align="justify">
+{| class="noprint" align="center" style="clear:both; background: transparent; text-align:center; font-size:95%" cellspacing="3" cellpadding="3" rules="none" border="0"
+|-
+|'''[[:ru:Заглавная страница|Encyclopedia]]'''
+|'''[[:ru:Wikt:Заглавная страница|Dictionary]]'''
+|'''[[:ru:q:Заглавная страница|Quotations]]'''
+|'''[[:ru:s:Заглавная страница|Texts]]'''
+|'''[[:ru:n:Заглавная страница|News]]'''
+|'''[[:ru:b:Заглавная страница|Books]]'''
+|-
+|[[File:Wikipedia-logo-v2.svg|25x35px|link=:ru:Заглавная страница]]
+|[[File:Wikiquote-logo.svg|25x30px|link=:ru:Wikt:Заглавная страница]]
+|[[File:Wiktionary-logo-en.svg|25x35px|link=:ru:q:Заглавная страница]]
+|[[File:Wikisource-logo.svg|25x30px|link=:ru:s:Заглавная страница]]
+|[[File:Wikinews-logo.svg|40x35px|link=:ru:n:Заглавная страница]]
+|[[File:Wikibooks-logo.svg|25x30px|link=:ru:b:Заглавная страница]]
+|}</div><noinclude>[[Category:Russia portal|{{SUBPAGENAME}}]]</noinclude>

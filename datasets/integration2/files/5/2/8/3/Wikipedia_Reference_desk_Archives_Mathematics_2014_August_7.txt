@@ -1,0 +1,31 @@
+<noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Mathematics|Mathematics desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Mathematics/2014 August 6|August 6]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Mathematics/July 2014|Jul]] | [[Wikipedia:Reference desk/Archives/Mathematics/August 2014|August]] | [[Wikipedia:Reference desk/Archives/Mathematics/September 2014|Sep]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 August 8|[[Wikipedia:Reference desk/Archives/Mathematics/2014 August 8|August 8]]|[[Wikipedia:Reference desk/Mathematics|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Mathematics Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 August 17|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= August 7 =
+
+== Notation for points in 4D space ==
+
+When giving coordinates in [[four-dimensional space]], does the dimension perpendicular to meatspace, or to the only triad of dimensions renderable spatially, conventionally come ''before'' or ''after'' the dimensions x, y and z? For example, should the center of the default spawn region in ''[[Minecraft]]'' (which, in [[JSON]], is {'dimension':0; 'x':0; 'y':128; 'z':0;}) by expressed as (0,0,128,0) or (0,128,0,0) [when a ''w''-axis is reserved to distinguish the overworld from the Nether and the End]? [[User:NeonMerlin|<span style="background:#000;color:red;border:#0f0 solid;border-width:1px 0">Neon</span>]][[User talk:NeonMerlin|<span style="background:#0f0;color:#000;border:red solid;border-width:1px 0">Merlin</span>]] 00:55, 7 August 2014 (UTC)
+:Alphabetically the w-coordinate comes before x, y, and z. [[User:Bo Jacoby|Bo Jacoby]] ([[User talk:Bo Jacoby|talk]]) 02:22, 7 August 2014 (UTC).
+::And even so, I believe it's customary to put w fourth. -- [[User:Meni Rosenfeld|Meni Rosenfeld]] ([[User Talk:Meni Rosenfeld|talk]]) 05:47, 7 August 2014 (UTC)
+
+: Incidentally, for the [[hyperboloid model]] of hyperbolic space, which uses one "redundant" timelike dimension, I've seen (and used) both conventions: ''t,x,y,z'' and ''x,y,z,t''. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 07:30, 7 August 2014 (UTC)
+
+:(x,y,z,w) is the canonical form I was taught for euclidean 4-space, but Minecraft is a different construct from that, isn't it? I mean, if we want to be precise, I'd think the overworld is a (subset) of R^3, and the netherworld is another copy of R^3. So, mathematically, I think this world would be [[isomorphic]] to the [[Disjoint_union_(topology)]] of X,Y, where each X,Y is a subset of R^3. --Except not quite, as we'd have to identify the points where the player can travel from the overworld to the netherworld. Anyway, ''representing'' this as 3+1 space where the +1 is just a flag for netherworld seems reasonable enough, but I thought the actual topology of the world might also be interesting to consider. (It doesn't work well anymore, but there was a time when discussing [[Asteroids_(video game)]] was a good way to illustrate the topology of the [[torus]] ;) [[User:SemanticMantis|SemanticMantis]] ([[User talk:SemanticMantis|talk]]) 17:09, 7 August 2014 (UTC)
+::Further- if there were only one point to transport between the overworld and netherworld, the game space would be the [[Wedge_sum]] of two copies of R^3. I may be missing something, but I think that construction could be generalized to take a quotient by n-many pairwise point identifications. The point is, the game world is not really a 4-space, it's a [[quotient space]] of a disjoint union of 3-spaces. [[User:SemanticMantis|SemanticMantis]] ([[User talk:SemanticMantis|talk]]) 20:01, 7 August 2014 (UTC)

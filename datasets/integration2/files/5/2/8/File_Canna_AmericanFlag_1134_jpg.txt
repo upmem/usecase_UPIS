@@ -1,0 +1,12 @@
+{{Information
+|Description = Canna Italian Group 'American Flag'
+|Source = self-made
+|Created 2006-09-18
+|Author = Claines Canna 
+|Permission = Commons
+}}
+
+== Licensing ==
+{{GFDL-self-with-disclaimers|migration=relicense}}
+
+{{Copy to Wikimedia Commons|bot=Fbot|priority=true}}

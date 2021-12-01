@@ -1,0 +1,12 @@
+== Summary ==
+{{Information
+ |Description    = In Vivo at Saarang.
+ |Source         = I ([[User:Saarang iitm|Saarang iitm]] ([[User talk:Saarang iitm|talk]])) created this work entirely by myself.
+ |Date           = 16:15, 9 December 2011 (UTC)
+ |Author         = [[User:Saarang iitm|Saarang iitm]] ([[User talk:Saarang iitm|talk]])
+ |other_versions = 
+}}
+== Licensing ==
+{{self|cc-zero}}
+{{Copy to Wikimedia Commons|bot=Svenbot|priority=true}}
+{{Orphan image}}

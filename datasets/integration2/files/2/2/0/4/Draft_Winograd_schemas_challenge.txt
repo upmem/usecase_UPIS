@@ -1,0 +1,3 @@
+#redirect [[Winograd Schema Challenge]]
+
+{{R with history}}

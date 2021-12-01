@@ -1,0 +1,41 @@
+{{Infobox organization
+| name = 
+| logo = PDMA logo.png
+| logo_size = 150px
+| type = Professional Association
+| founded_date = 1976<ref name=founding>{{cite book |last= Beckley |first= Jacqueline |title= Accelerating new food product design and development |publisher= Wiley-Blackwell |year= 2007 |page=123 |isbn= 978-0-8138-0809-3 }}</ref>
+| key_people = Allan Anderson(Chair)<br />Charles Noble(Vice-Chair)<br />Meredith Baratz(Secretary/Treasurer)
+| area_served = Worldwide
+| method = Certification, industry standards, conferences, publications
+| num_volunteers = ~1000
+| num_employees = unknown
+| num_members = Over 3500
+| Non-profit_slogan = ''Connecting Innovators Worldwide''
+| homepage = [http://www.pdma.org pdma.org]
+}}
+
+The '''Product Development and Management Association''' ('''PDMA''') is a non-profit professional society that organizes and publishes information about the [[New product development|development of new products]].
+
+Founded in 1976,<ref name=founding /> they currently have about 3500 members worldwide,<ref>[http://www.iirusa.com/feieurope/pdma-partner.xml Front End Innovation Europe's Strategic Partner - The PDMA]</ref> with 22 chapters in the [[United States]] and 16 affiliates in other parts of the world, including [[India]].
+
+PDMA operates a training program leading to the New Product Development Professional (NPDP) certification.
+
+They hold an annual conference that gives an opportunity for professional exchange, and they offer a wide range of publications, including: 
+* The bimonthly ''[[Journal of Product Innovation Management]]'' (JPIM)<ref name="blackwell">[http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-5885 Journal of Product Innovation Management - Journal Information] Wiley-Blackwell</ref>
+* Visions Magazine
+* PDMA Handbook of New Product Development.<ref name="book1">Kenneth B. Kahn (editor): [https://www.amazon.com/dp/0471485241 The PDMA Handbook of New Product Development, Second Edition] published by [[John Wiley & Sons]]. {{ISBN|0-471-48524-1}}.</ref>
+* further books on product development topics
+
+The JPIM journal, published by [[Wiley-Blackwell]] and held in numerous university libraries, ranked 19 out of 40 marketing journals that were evaluated for their usefulness in a 2002 study.<ref>{{cite journal|author=Vasilis Theoharakis and Andrew Hirst|title=Perceptual differences of marketing journals: a worldwide perspective|journal=Marketing Letters|volume=13|issue=4|pages=389–402 |year=2002|doi=10.1023/A:1020378718456}}</ref>
+
+==External links==
+* http://www.pdma.org/
+* [http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-5885 ''Journal of Product Innovation Management'' homepage]
+
+==References==
+{{reflist}}
+
+[[Category:Professional associations based in Chicago]]
+
+
+{{prof-assoc-stub}}

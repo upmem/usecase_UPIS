@@ -1,0 +1,19 @@
+{{Speciesbox
+| image =Crassinella lunulata (YPM IZ 023787).jpeg
+| genus = Crassinella
+| species = lunulata
+| authority = (Conrad, 1834)
+| display_parents = 3
+}}
+
+'''''Crassinella lunulata''''', or the '''lunate crassinella''', is a species of very small [[bivalve]] [[mollusc]] in the [[family (biology)|family]] [[Crassatellidae]]. It can be found along the Atlantic coast of North America, ranging from [[Massachusetts]] to [[Texas]].<ref>Abbott, R.T. & Morris, P.A. ''A Field Guide to Shells: Atlantic and Gulf Coasts and the West Indies.'' New York: Houghton Mifflin, 1995. 43.</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3012668}}
+
+[[Category:Crassatellidae]]
+
+
+{{bivalve-stub}}

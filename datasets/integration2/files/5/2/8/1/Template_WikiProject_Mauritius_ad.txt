@@ -1,0 +1,5 @@
+{| style="margin:1em auto; font-family:Comic Sans MS; background:transparent; text-align:center;"
+| [[File:Wikiproject_Mauritius.gif|468x60px|link=Wikipedia:WikiProject Mauritius]]
+|}<noinclude>
+[[Category:WikiProject Mauritius templates]]
+</noinclude>

@@ -1,0 +1,61 @@
+{{Orphan|date=March 2020}}
+
+{{Infobox person
+| name               = Elsa Mahler
+| image              = 
+| caption            = 
+| imagesize          = 
+| birth_name         = Elsa-Eugenie Mahler
+| birth_date         = 15 November 1882
+| birth_place        = [[Moscow]], [[Russian empire|Russia]]
+| death_date         = 30 June 1970
+| death_place        = [[Riehen]],  ([[Canton of Basel-Stadt|BS]]), [[Switzerland]]
+| occupation         = Teacher (school and university)<br>University professor ([[University of Basel]])
+| language           = 
+| party              = 
+| spouse             = 
+| parents            = Josef Mathias Eduard Mahler<br>Louise Sivers
+| children           = 
+| alma_mater         = 
+}}
+
+'''Elsa Mahler''' (15 November 1882 - 30 June 1970) was a [[Russian empire|Russian]]-born scholar of [[Slavic studies]] and [[:de:Volkskunde|folk arts]] who came to [[Switzerland]] in 1919/20 and was refused permission to return home by the new [[Russian Soviet Federative Socialist Republic|Soviet government]].   In 1938 she became the first woman to be appointed to a professorship at the [[University of Basel]].<ref name=EMlautHLS>{{cite web|url=http://www.hls-dhs-dss.ch/textes/d/D32491.php|title=Mahler, Elsa|author=Heinrich Riggenbach|work=Historische Lexikon der Schweiz, Bern|date=22 October 2009|accessdate=24 May 2018}}</ref><ref name=EMlautUniBS>{{cite web|title=Auf Umwegen zum Ziel: Elsa Mahler - die erste Professorin der Universität Basel |url= https://unigeschichte.unibas.ch/lokal-global/der-nationale-und-internationale-kontext/wege-nach-basel/elsa-mahler.html| publisher= Historisches Seminar der Universität Basel/unigeschichte |date=2010 |accessdate=24 May 2018}}</ref>
+
+== Life ==
+Elsa-Eugenie Mahler was born in [[Moscow]] where her father Josef Mathias Eduard Mahler, a merchant-engineer originally from Switzerland, had settled.<ref name=EMlautHLS/><ref name=EMNachlass>{{cite web| url=http://aleph.unibas.ch/F/?local_base=DSV05&con_lng=GER&func=find-b&find_code=SYS&request=000121332| title= Nachlass Elsa Mahler (1882-1970) (accompanying biographical note)| work= 10 Archivschachteln, 40 Karteikästen mit Glasnegativen | publisher=swissbib Basel Bern | accessdate=24 May 2018}}</ref>   Her mother, born Louise Sivers, came from the [[Baltic Germans|Baltic German community]].<ref name=EMlautUniBS/>   Mahler attended school in Moscow.   She then went on to pursue her further education at the Philology-History department of the so-called [[Bestuzhev Courses]] in [[Saint Petersburg]], which was the largest and most prominent education academy in [[Russian empire|the entire empire]] - and according to at least one source the only such institution - that admitted women.<ref name=BesCouperPreLib>{{cite web|url=https://web.archive.org/web/20160304034513/http://www.prlib.ru/en-us/History/Pages/Item.aspx?itemid=679|title=Women’s higher education institution (Bestuzhev Courses) opened in St. Petersburg|date=2 October 1878|work=From the Presidential library materials|publisher=Boris Yeltsin Presidential Library / Президентская библиотека имени Б. Н. Ельцина,  Saint-Petersburg|accessdate=24 May 2018}}</ref>   She then travelled to the west, studying [[Classics|classical]] [[philology]] and [[Art history]] at [[Berlin]] and [[Munich]], but she returned to [[Saint Petersburg]] in 1913 without having completed a degree course.   [[First World War|War]] broke out in August 1914 and she spent the next few years as a teacher, working in a succession of Saint Petersburg schools.   She continued to teach in [[Petrograd]] during the [[Russian Revolution]] and during the early part of the [[Russian Civil War|ensuing civil war]], until the schools were closed down.<ref name=EMlautUniBS/>
+
+Only in 1919 did she embark on an academic career, accepting a position as an assistant at the [[Russian Academy of Sciences]] back in Moscow, responsible for the antiquities collection.   In 1920 she undertook a "further training holiday" in [[Switzerland]], and when she wanted to return to what by now had become the [[Soviet Union]] the authorities there refused to let her back.   Presumably they had decided that she should be deported.   So she remained in [[Basel]].<ref name=EMlautUniBS/>
+
+Having embarked on an academic career the previous year, Elsa Mahler was determined to pursue it, but not in the subjects she had hitherto studied.  Instead she turned to [[Russian studies]].   Her provenance and upbringing, education and experience of teaching all provided important support for this.   The route she followed was far from conventional, however.   In 1924 she received her doctorate from [[University of Basel|Basel University]] in exchange for a dissertation on the trade in [[:de:Megarische Becher|ancient Megaran ceramic beakers]].   Although her dissertation was based on archaeology, while she was producing it she was also trying to obtain a university post as a lecturer in Russian.   In April 1923 she was successful, and now followed her chosen career with renewed tenacity.<ref name=EMlautUniBS/>   She passed her [[habilitation]] in 1928, also at Basel, which under most circumstances opened the way for a long-term academic career.   Her dissertation, this time, concerned "The Russian death chant".   For the next ten years she worked at the university as a [[Privatdozent|Privatdozentin (''loosely, "tutor"'')]].   In  1938 she was given an extraordinary professorship at the [[University of Basel]], becoming the university's first female professor.<ref name=EMlautUniBS/>
+
+== Teaching and research ==
+For more than forty years Elsa Mahler taught the [[Russian language]], [[Russian literature|literature]] and [[Russian art|art]].  Even after becoming a professor, she still continued to provide language teaching at all levels.   Generations of students from a diverse range of academic disciplines, and many others who had no curriculum requirement to do so, were introduced to the Russian language by her or were helped to build on existing knowledge of it.   Between [[Second World War|1929 and 1945]] with all the countries surrounding Switzerland engaged in intense warfare in alliance with or in opposition to the [[Soviet Union]], Russian language skills were in particular demand, in 1944 she published a Russian language textbook.   She followed this up in 1946 with a "Russian Reader".<ref name=EMlautUniBS/>
+
+Her lectures embraced the entire range of [[Russian studies]].   However, the principal focus was on [[:de:Neuere russische Literatur|nineteenth and twentieth century Russian literature]].   She embarked on a book project, a History of Russian Literature with Biographical Portraits of the Major Figures, but this remained unfinished at her death.<ref name=EMNachlass/>
+
+At first glance, it is remarkable how few of Mahler's many students ever received a degree.   The explanation lies in the course structures at Basel University during much of the time that Mahler taught there.   [[Russian studies]] was treated as a fringe subject, and no "first degrees" in it were awarded.   Those of her students who did graduate did so by means of a doctorate, which normally required several additional years of study.   Two of her students who did graduate nevertheless deserve a mention:  Rudolf Bächtold taught at Basel University between 1953 and 1983, appointed in 1963 to a professorship in the History and Languages of the Slavic peoples.   Robin Kemball worked as Professor of Russian Studies at the [[University of Lausanne]] between 1970 and 1987.
+
+The [[Military occupations by the Soviet Union|continuing presence of]] the [[Soviet army]] in large parts of central Europe and the increasingly stark [[cold war|cold war tensions]] of the later 1940s led to an increased interest from the politicians  across western Europe in university-level Russian studies.   Just as [[Elizabeth Hill (linguist)|Elizabeth Hill]] was able to establish a formidable [[Slavic studies|Department of Slavic Studies]] at [[Cambridge University|Cambridge in England]], so at [[Basel University|Basel]] the subject received increased recognition.   Until 1949 Elsa Mahler is described in records as head of the university's "Russian Library".   In 1949 she becomes identified as head of "Russian Seminars".   In 1958/59, five years after her official retirement (although she was still teaching) the "Russian Seminars" were expanded, becoming the "Slavic Seminars".
+
+Her own research choices appeared idiosyncratic to some.   She became increasingly focused on collecting Russian folk songs.   Her 1936 book "Die russische Totenklage", a greatly expanded version of her habilitation dissertation, depended heavily on written sources, her two other major works were both based on her own visits, during the late 1930s, to the "Pečoryland", which the [[Treaty of Tartu (Russian–Estonian)|Treaty of Tartu]] had left as a linguistically and culturally Russian enclave within [[History of Estonia (1920–39)|Estonia]], which had been an independent republic since 1920.   The first of these books, "Altrussische Lieder aus dem Pečoryland" (1951, ''"Old Russian songs from the Pečoryland"''), is far more than a song collection, being a study of songs and their incorporation and use in daily life, with portraits of singers, texts and melodies.<ref name=CBS>Christine Burckhardt-Seebass: Von Bürgersitten und Trachten. Töchter Helvetiens auf ethnologischen Pfaden. In: Elsbeth Wallhöfer (Hrsg.): Mass nehmen, Mass halten. Böhlau, Wien 2008, {{ISBN|978-3-205-77562-1}}, pp. 164–181.</ref>   The second book, "Die russischen dörflichen Hochzeitsbräuche" (1960, ''"Russian village wedding customs"'')  (dedicated to [[University of Basel|Basel University]] in celebration of its 500h anniversary) has been described as "an early controversial folkloric monograph on gender issues".<ref name=CBS/>
+<!---
+
+Uni BS
+
+In der biographischen Studie über Elsa Mahler wird gesagt, der 17. April 1923 gelte als Gründungstag des Slavischen Seminars (Kalmykov/Riggenbach, S. 592). Dies muss präzisiert werden: Der Tag markiert den Beginn der Tätigkeit von Frau Mahler an der Universität Basel. Der lange und steinige Weg von der Eröffnung des Russisch-Lektorats bis zur Anerkennung des Faches als einer eigenständigen Disziplin im Institutsrang ist in den Vorlesungsverzeichnissen ablesbar: Bis zum Sommersemester 1949 war Frau Mahler Vorsteherin der «Russischen Bibliothek», danach des «Russischen Seminars», und erst im Wintersemester 1958/59, als sie schon fünf Jahre pensioniert war, aber immer noch Übungen abhielt, wurde aus dem «Russischen» das «Slavische Seminar».
+Elsa Mahler hatte als Angehörige der Universität Basel viele Hindernisse zu überwinden: als Frau in einer Männerdomäne und als Vertreterin eines Randfaches, dem breite Schichten der Gesellschaft – besonders während des Kalten Kriegs – argwöhnisch gegenüberstanden. Trotzdem hat sie mit ihrem persönlichen Engagement und ihrer wissenschaftlichen Leistung die Slavistik so zu etablieren vermocht, dass das Fach weitergeführt wurde. Die Nachricht im August 2008 – 70 Jahre nach ihrer Ernennung zur a.o. Professorin –, dass die Slavistik ab 2009 mit der Wahl von Thomas Grob zum vierten Mal neu besetzt werde, hätte Elsa Mahler mit Freude und Genugtuung erfüllt.
+--->
+
+== References ==
+{{reflist|35em}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mahler, Elsa}}
+[[Category:People from Moscow]]
+[[Category:People from Basel-Stadt]]
+[[Category:Slavists]]
+[[Category:Swiss folklorists]]
+[[Category:University of Basel faculty]]
+[[Category:1882 births]]
+[[Category:1970 deaths]]

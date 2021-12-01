@@ -1,0 +1,126 @@
+{{Infobox bus line
+|number        = Bandai-bashi Line (BRT)
+|bgcolor       = #ff4422
+|titlecolor    = #ffffff
+|image         = BRTNiigata_LocalBus.jpg
+|image_width   = 290px
+|caption       = <!-- caption for the main image -->
+|system        = 
+|operator      = [[Niigata Kotsu]]
+|garage        =
+|vehicle       = 
+|livery        =
+|pvr           =
+|status        = 
+|open          = September 5, 2015
+|close         =
+|predecessors  =
+|night         =
+|locale        = [[Niigata, Niigata|Niigata]]
+|communities   = 
+|landmarks     =
+|termini       = <!-- used when route starts and stops at a single location, overrides the start and end parameters -->
+|start         = [[Niigata Station]]
+|via           = [[Bandai Bridge]] [[Furumachi]]
+|end           = Aoyama<ref>{{cite web|url= https://www.city.niigata.lg.jp/kurashi/doro/kotsu/newsystem/bussystem/shiryosyu.files/jigyo_05-06.pdf |title=BRT Pamph 3 - Niigata City }}</ref>
+|length        = 7 km
+|otherroutes   =
+|level         =
+|level1        =
+|frequency     = Weekdays: every 3-10 mins
+                        Weekends: every 10 mins
+|alt_frequency =
+|time          = 30 minutes
+|day           = 5:45 am - 12:00 am
+|zone          = 
+|ridership     = 9,222 (May 2018)
+|annualpatronage= 
+|transfers     = 
+|timetable_link= [http://www.niigata-kotsu.co.jp/~noriai/brt/timetable/detail/unkoubin_w/b1.pdf Weekdays (2018.3-)]<br />[http://www.niigata-kotsu.co.jp/~noriai/brt/timetable/detail/unkoubin_h/b1.pdf Weekends (2018.3-)]
+|map_link      = 
+|map           = [[File:LineMap of BRT Bandai-bashi Line.svg|300px]]
+|map_state     = 
+|map_name      = 
+|previous_line = <!-- link to article of previous route if sequential -->
+|next_line     = <!-- link to article of next route if sequential -->
+|notes         = <!-- anything special in small font, centered at the bottom of the infobox -->
+}}
+{{Nihongo|'''Bandai-bashi Line'''|萬代橋ライン}} is a bus line in [[Niigata, Niigata|Niigata]], [[Niigata Prefecture]], Japan. It is operated by [[Niigata Kotsu]], and called '''BRT'''.
+
+==List of stops==
+{{GeoGroup|article=Bandai-bashi Line}}
+As of April 2018, the following stops are available.<ref>{{cite web|url= http://www.niigata-kotsu.co.jp/~noriai/brt/map/area/niigatabus_c.pdf |title=RouteMap (Central Niigata) - Niigata Kotsu (2018.3) }}</ref>
+
+* ● Stops at this stop
+* | Does not stop at this stop
+{| class="wikitable"
+|-
+!No.!!Name!!Japanese!!Rapid!!Surrounding area!!Coordinates<br /><small>(for Aoyama)</small>
+|-
+||01||Niigata-eki-mae <small>[Niigata Sta.]</small>||新潟駅前||●||[[Niigata Station]]
+|style="font-size:xx-small"|{{Coord|37|54|47.4|N|139|3|39.3|E|name=01. Niigata-eki-mae}}
+|-
+||02||Ekimae-dori||駅前通|| <nowiki>|</nowiki> ||
+|style="font-size:xx-small"|{{Coord|37|54|56.1|N|139|3|34.1|E|name=02. Ekimae-dori}}
+|-
+||03||Bandai City||万代シテイ||●||[[Bandai City|Bandai shopping district]], [[Niigata Nippo Media Ship]]
+|style="font-size:xx-small"|{{Coord|37|55|3.9|N|139|3|24.1|E|name=03. Bandai City}}
+|-
+||04||Ishizue-cho||礎町|| <nowiki>|</nowiki> ||
+|style="font-size:xx-small"|{{Coord|37|55|15.1|N|139|3|2.3|E|name=04. Ishizue-cho}}
+|-
+||05||Honcho||本町||●||
+|style="font-size:xx-small"|{{Coord|37|55|16.9|N|139|2|51.3|E|name=05. Honcho}}
+|-
+||06||Furumachi||古町||●||[[Furumachi (Niigata)|Furumachi shopping district]], [[Next21]]
+|style="font-size:xx-small"|{{Coord|37|55|19.5|N|139|2|36.1|E|name=06. Furumachi}}
+|-
+||07||Higashinaka-dori||東中通|| <nowiki>|</nowiki> ||
+|style="font-size:xx-small"|{{Coord|37|55|14.7|N|139|2|24.4|E|name=07. Higashinaka-dori}}
+|-
+||08||Shiyakusyo-mae <small>[City Office]</small>||市役所前||●||Niigata City Office, [[Hakusan Park]]
+|style="font-size:xx-small"|{{Coord|37|54|55.4|N|139|2|9.7|E|name=08. Shiyakusyo-mae}}
+|-
+||09||Hakusan-ura||白山浦|| <nowiki>|</nowiki> ||
+|style="font-size:xx-small"|{{Coord|37|54|51.3|N|139|1|57.5|E|name=09. Hakusan-ura}}
+|-
+||10||Hakusan-eki-mae <small>[Hakusan Sta.]</small>||白山駅前|| <nowiki>|</nowiki> ||[[Hakusan Station (Niigata)|Hakusan Station]]
+|style="font-size:xx-small"|{{Coord|37|54|44.6|N|139|1|50|E|name=10. Hakusan-eki-mae}}
+|-
+||11||Koko-dori||高校通|| <nowiki>|</nowiki> ||
+|style="font-size:xx-small"|{{Coord|37|54|38.1|N|139|1|34.3|E|name=11. Koko-dori}}
+|-
+||12||Miyamae-dori||宮前通|| <nowiki>|</nowiki> ||
+|style="font-size:xx-small"|{{Coord|37|54|32.4|N|139|1|24.1|E|name=12. Miyamae-dori}}
+|-
+||13||Daiichi-Koko-mae <small>[Niigata Daiichi High School]</small>||第一高校前||●||[[Sekiya Station (Niigata)|Sekiya Station]]
+|style="font-size:xx-small"|{{Coord|37|54|18.9|N|139|1|6.9|E|name=13. Daiichi-Koko-mae}}
+|-
+||14||Higashi-sekiya||東関屋|| <nowiki>|</nowiki> ||
+|style="font-size:xx-small"|{{Coord|37|54|8.8|N|139|0|55.1|E|name=14. Higashi-sekiya}}
+|-
+||15||Sekiyaokawa-mae||関屋大川前|| <nowiki>|</nowiki> ||
+|style="font-size:xx-small"|{{Coord|37|54|2.6|N|139|0|50.4|E|name=15. Sekiyaokawa-mae}}
+|-
+||16||Aoyama||青山||●||Aeon Shopping Center, [[Aoyama Station (Niigata)|Aoyama Station]]
+|style="font-size:xx-small"|{{Coord|37|53|48.3|N|139|0|20.6|E|name=16. Aoyama}}
+|}
+[[File:BRTFurumachi 201703.jpg|thumb|Articulated bus at Furumachi, March 2017]]
+[[File:BRTNiigata Sta01.jpg|thumb|Niigata-eki-mae]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.niigata-kotsu.co.jp/~noriai/brt/rosenjikoku.htm Timetables and Maps (2018.3-) - Niigata Kotsu] {{in lang|ja}}
+
+{{Niigata transit}}
+
+{{Authority control}}
+
+[[Category:Niigata (city)]]
+[[Category:Transport in Niigata Prefecture]]
+[[Category:Bus rapid transit in Japan]]
+
+
+{{bus-stub}}

@@ -1,0 +1,1041 @@
+{{short description|Wikipedia list article}}
+This is a list of episodes from ''[[Rolie Polie Olie]]''.
+
+==Series overview==
+<onlyinclude>{| class="wikitable"
+|-
+! style="padding:0 8px;" colspan="2" rowspan="2"| Season
+! style="padding:0 8px;" rowspan="2"| Episodes
+! style="padding:0 80px;" colspan="2"| Original 
+|-
+! First 
+! Last 
+|-
+| style="width:15px; background:#6A4794;"|
+| style="text-align:center;"| [[<includeonly>List of Rolie Polie Olie episodes</includeonly>#Season 1 (1998)|1]]
+| style="text-align:center;"| 13
+| style="text-align:center;"| October 4, 1998
+| style="text-align:center;"| December 30, 1998
+|-
+| style="width:15px; background:#14663D;"|
+| style="text-align:center;"| [[<includeonly>List of Rolie Polie Olie episodes</includeonly>#Season 2 (1999)|2]]
+| style="text-align:center;"| 13
+| style="text-align:center;"| January  8, 1999
+| style="text-align:center;"| April 11, 1999
+|-
+| style="width:15px; background:#FB9B0D;"|
+| style="text-align:center;"| [[<includeonly>List of Rolie Polie Olie episodes</includeonly>#Season 3 (1999)|3]]
+| style="text-align:center;"| 14
+| style="text-align:center;"| September 30, 1999
+| style="text-align:center;"| December 22, 1999
+|-
+| style="width:15px; background:#770077;"|
+| style="text-align:center;"| [[<includeonly>List of Rolie Polie Olie episodes</includeonly>#Season 4 (2000)|4]]
+| style="text-align:center;"| 13
+| style="text-align:center;"| January 4, 2000
+| style="text-align:center;"| April 25, 2000
+|-
+| style="width:15px; background:#8D4233;"|
+| style="text-align:center;"| [[<includeonly>List of Rolie Polie Olie episodes</includeonly>#Season 5 (2000)|5]]
+| style="text-align:center;"| 12
+| style="text-align:center;"| September 11, 2000
+| style="text-align:center;"| December 14, 2000
+|-
+| style="width:15px; background:#0000FF;"|
+| style="text-align:center;"| [[<includeonly>List of Rolie Polie Olie episodes</includeonly>#Season 6 (2002–04)|6]]
+| style="text-align:center;"| 11
+| style="text-align:center;"| September 21, 2002
+| style="text-align:center;"| April 28, 2004
+|-
+| style="width:15px; background:#b60000;"|
+| style="text-align:center;"| [[<includeonly>List of Rolie Polie Olie episodes</includeonly>#Movies|Movies]]
+| style="text-align:center;"| 2
+| style="text-align:center;"| August 13, 2002
+| style="text-align:center;"| June 3, 2003
+|}</onlyinclude>
+
+==Episodes==
+===Season 1 (1998)===
+{| class="wikitable" width="100%" style="margin-right: 0;"
+|-
+! style="background-color: #6A4794; color: #FFF;"| Series no.
+! style="background-color: #6A4794; color: #FFF;"| Episode no.
+! style="background-color: #6A4794; color: #FFF;"| Title
+! style="background-color: #6A4794; color: #FFF;"| Directed by
+! style="background-color: #6A4794; color: #FFF;"| Written by
+! style="background-color: #6A4794; color: #FFF;"| Original air date
+|-
+{{Episode list
+ |EpisodeNumber=1
+ |EpisodeNumber2 = 1
+ |Title=Little Sister, Big Brother"<hr />"Through Trick and Thin"<hr />"Bedlam
+ |DirectedBy= Mike Fallows
+ |WrittenBy= [[Peter Sauder]]
+ |OriginalAirDate= {{Start date|1998|10|04}}
+ |ShortSummary=Zowie starts to act crazy and Olie must figure out why; Olie tries to teach Spot some tricks; Olie and Zowie get ready for bed.
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=2
+ |EpisodeNumber2 = 2
+ |Title=Ciminin Toast"<hr />"I Find Rock"<hr />"Tooth on the Loose
+ |DirectedBy= Mike Fallows
+ |WrittenBy= Betty Quan<hr />[[Ian James Corlett]]
+ |OriginalAirDate= {{Start date|1998|10|11}}
+ |ShortSummary=Olie and Zowie try to make a surprise breakfast-in-bed (Breakfast Soup Surprise and Ciminin Toast) for Polina and Percy; Zowie finds a rock which she considers her "pet"; Olie loses a tooth and he and Spot try to catch Pappy's dentures.
+'''Note''': "Tooth on the Loose" was released on the VHS of the same name in May 8, 2001.
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=3
+ |EpisodeNumber2 = 3
+ |Title=Nap for Spot"<hr />"The Monster Movie Night"<hr />"The Top Dog Fish
+ |DirectedBy= Mike Fallows
+ |WrittenBy=Betty Quan<hr />Ben Joseph<hr />Peter Sauder
+ |OriginalAirDate= {{Start date|1998|10|18}}
+ |ShortSummary=Spot's sleepy and he must find his way.; Olie's friend Billy stays at the Polies for the late-night TV Monster Movie Marathon; When the Polies look after a fish from Olie's school, Spot becomes jealous.
+'''Note''': "Top Dog Fish" was released on the "Happy Hearts Day" VHS and the "Springy-Time Fun' DVD.
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=4
+ |EpisodeNumber2 = 4
+ |Title=The House Detectives"<hr />"The Backyard Jungle"<hr />"The Best Doggone Show in the World
+ |DirectedBy= Mike Fallows
+ |WrittenBy= Ben Joseph<hr />Betty Quan<hr />Peter Sauder
+ |OriginalAirDate= {{Start date|1998|10|25}}
+ |ShortSummary=Olie and Zowie must find Percy's keys; Olie grows a giant tomato plant; Telly (Tubey) the Television gets under the weather and the Polies can't watch their favorite show.
+'''Note''': "The Best Doggone Show in the World" was released on the "Meet Rolie Polie Olie" VHS.
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=5
+ |EpisodeNumber2 = 5
+ |Title=Mutiny on the Bouncy"<hr />"Roll the Camera"<hr />"Pappy's Boat
+ |DirectedBy= Mike Fallows
+ |WrittenBy=Ben Joseph<hr />{{StoryTeleplay|s=Ian James Corlett|ex1label=Written by|ex1=Peter Sauder}}<hr />Nicola Barton
+ |OriginalAirDate= {{Start date|1998|11|01}}
+ |ShortSummary=Olie and Billy pretend to be pirates; Olie records a video about his family; Olie, Zowie, and Pappy pretend to go fishing on his houseboat.
+'''Note''': "Roll the Camera" was released on the "Meet Rolie Polie Olie" VHS.
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=6
+ |EpisodeNumber2 = 6
+ |Title=Where's Pappy?"<hr />"Hopin` and a Hoppin'"<hr />"Just Like Dad
+ |DirectedBy= Mike Fallows
+ |WrittenBy= Ben Joseph<hr />Betty Quan<hr />Peter Sauder
+ |OriginalAirDate= {{Start date|1998|11|08}}
+ |ShortSummary=Pappy cannot find his way out of the closet; Olie tries to hop on one foot; Olie acts like his dad and does one of his jobs.
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=7
+ |EpisodeNumber2 = 7
+ |Title=Spot's Birthday"<hr />"Sir Rolie Polie Oily"<hr />"Universal Spot
+ |DirectedBy= Mike Fallows
+ |WrittenBy= Bonnie Chung<hr />Betty Quan<hr />Ben Joseph
+ |OriginalAirDate= {{Start date|1998|11|15}}
+ |ShortSummary=It is Spot's birthday and the Polies look back when Spot was first adopted back to the day that Zowie was a baby; Olie pretends to be a knight; a new remote makes everything go crazy.
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=8
+ |EpisodeNumber2 = 8
+ |Title=Squaresville"<hr />"Zowie's Harmonica"<hr />"Unruly Polie Olie
+ |DirectedBy= Mike Fallows
+ |WrittenBy= Betty Quan<hr />Bonnie Chung{{small|(story)}} Peter Sauder<hr />Peter Sauder
+ |OriginalAirDate= {{Start date|1998|11|22}}
+ |ShortSummary=Olie devises a square world for him and Billy to play in; Zowie has a harmonica; Olie and Billy learn that life without rules isn't always a good thing. '''Note''':Squaresville was released as the first segment of the Round Pal Square Friend VHS tape
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=9
+ |EpisodeNumber2 = 9
+ |Title=Rolie Polie Pogo"<hr />"2 Not So Easy Pieces"<hr />"Gotta Dance
+ |DirectedBy= Mike Fallows
+ |WrittenBy=Bonnie Chung<hr />Bruce Robb<hr />Bonnie Chung
+ |OriginalAirDate= {{Start date|1998|11|29}}
+ |ShortSummary=Olie's new pogo stick causes trouble; When Olie finds a lot of pieces he must find them; Zowie grows jealous of Olie and Billy's victory dances.
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=10
+ |EpisodeNumber2 = 10
+ |Title=Pappy Days"<hr />"Copy Cat and Mouse"<hr />"The Bump
+ |DirectedBy= Mike Fallows
+ |WrittenBy= Bonnie Chung<hr />Erika Strobel<hr />Peter Sauder
+ |OriginalAirDate= {{Start date|1998|12|06}}
+ |ShortSummary=Pappy tries to stop the kids from getting scared by a blackout during a thunderstorm; Olie tries to get Zowie to copy-cat herself upstairs for a nap; A mysterious sound is heard while the Polies are trying to sleep, so they attempt to figure out what it is.
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=11
+ |EpisodeNumber2 = 11
+ |Title=Zowie Got Game"<hr />"Hickety Ups"<hr />"Chili's Cold
+ |DirectedBy= Mike Fallows
+ |WrittenBy= [[John van Bruggen]]<hr />Anna Rehak {{small|(story)}} Betty Quan<hr />Bonnie Chung {{small|(story)}}
+ |OriginalAirDate= {{Start date|1998|12|13}}
+ |ShortSummary=Zowie plays ball with Olie; Olie gets the hiccups; Chili the Refrigerator gets sick with a cold.
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=12
+ |EpisodeNumber2 = 12
+ |Title=Our 2 Dads"<hr />"What to Be"<hr />"The Magno-Men
+ |DirectedBy= Mike Fallows
+ |WrittenBy=Bonnie Chung<hr />John van Bruggen<hr />Ben Joseph 
+ |OriginalAirDate= {{Start date|1998|12|20}}
+ |ShortSummary=Olie's dad acts like Gizmo; Olie tries to decide what to be besides a space ranger; Olie gets attached by a new machine that Percy invented.
+ |LineColor=6A4794
+}}
+{{Episode list
+ |EpisodeNumber=13
+ |EpisodeNumber2 = 13
+ |Title=The Scavenger Hunt"<hr />"What's Up Jack?"<hr />"Grown Ups and Kids
+ |DirectedBy= Mike Fallows
+ |WrittenBy= Ben Joseph and Bonnie Chung<hr />Peter Sauder<hr />Ben Joseph
+ |OriginalAirDate= {{Start date|1998|12|30}}
+ |ShortSummary=A scavenger hunt in the backyard; Olie pretends to rescue Zowie's toy dragons from a jack-in-the-box, who pretends to be the bad guy; Olie, Billy and Zowie imagine themselves as the grown-ups and the Polie parents as the kids.
+'''Note''': "Grownups and Kids" was released on the "Growing Upsy Daisy" VHS on June 11, 2002.
+ |LineColor=6A4794
+}}
+|}
+
+===Season 2 (1999–2000)===
+{| class="wikitable" width="100%" style="margin-right: 0;"
+|-
+! style="background-color: #14663D; color: #FFF;" width=8%| Series no.
+! style="background-color: #14663D; color: #FFF;" width=8%| Episode no.
+! style="background-color: #14663D; color: #FFF;"| Title
+! style="background-color: #14663D; color: #FFF;"| Directed by
+! style="background-color: #14663D; color: #FFF;"| Written by
+! style="background-color: #14663D; color: #FFF;"| Storyboard by
+! style="background-color: #14663D; color: #FFF;"| Original air date
+|-
+{{Episode list
+ |EpisodeNumber=14
+ |EpisodeNumber2=1
+ |Title=Mom's Night Out"<hr />"Polie Pox"<hr />"Da Plane! Da Plane!
+ |DirectedBy= Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy= [[Nadine van der Velde]]<hr />Ben Joseph
+ |Aux2= Lance Taylor<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|1999|6|8}}
+ |ShortSummary=Mrs. Polie goes out for the night to go bowling; Zowie feels lonely about playing with her brother Olie when he catches the Polie Pox (their equivalent to [[chickenpox]]); Olie, Pappy, Billy and Zowie race planes. 
+'''Note''': "Mom's Night Out" was released as the last segment on the "Happy Hearts Day" VHS tape on January 9, 2001 and the "Springy-Time Fun" DVD on September 7, 2004.
+'''FUN FACT''': "Da Plane, Da Plane" is the last episode to use the 1998 Métal Hurlant Productions logo.
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=15
+ |EpisodeNumber2=2
+ |Title=Surprise!"<hr />"Mousetrap"<hr />"To Space And Beyond
+ |DirectedBy= Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy=Bonnie Chung<hr />{{StoryTeleplay|s=Frank Young|ex1label=Written by|ex1=Bonnie Chung}}<hr />Ben Joseph
+ |Aux2= Andrew Tan<hr />Lance Taylor
+ |OriginalAirDate= {{Start date|1999|9|11}}
+ |ShortSummary= The Polie family prepares a surprise birthday party for Olie; The mouse from the cat clock escapes; Pappy, Billy, Olie and Zowie pretend to be in space.
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=16
+ |EpisodeNumber2=3
+ |Title=Go Fish"<hr />"Roller Derby"<hr />"A Birthday Present For Mom
+ |DirectedBy= Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy= Nadine Van der Velde & [[Scott Kraft]]<hr />Ben Joseph<hr />Nadine van der Velde
+ |Aux2= Andrew Tan<hr />Lance Taylor
+ |OriginalAirDate= {{Start date|1999|9|26}}
+ |ShortSummary= The fish from Olie's school gets sick and has babies; Olie roller-skates everywhere when he should be doing his homework; In "A Birthday Present for Mom" It's Polina's Birthday and Olie doesn't have enough money to buy her a present, so he and Zowie try opening a lemonade stand.
+'''Note''': The first segment of this episode reveals that the school fish turns out to be female.
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=17
+ |EpisodeNumber2=4
+ |Title=A Little Souped Coup-y"<hr />"Rain Rain Go Away"<hr />"Beach Blanket Gizmo
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy= Scott Kraft & Nadine van der Velde<hr />Ben Joseph<hr />Scott Kraft
+ |Aux2= Lance Taylor<hr />Christophe Villez
+ |OriginalAirDate= {{Start date|1999|9|30}}
+ |ShortSummary=Olie's family tries to get themselves and Coupy the Car ready for a parade; The rain inspires Olie to stay in the house and dance for the sun to come out; When Olie cannot go to the beach Uncle Gizmo throws a beach party for him.
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=18
+ |EpisodeNumber2=5
+ |Title=Y2 Pappy"<hr />"Upside Downers"<hr />"Cutie Go Bye-Bye
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy=Scott Kraft<hr />Dave Dias<hr />Carol Commisso
+ |Aux2= Richard Poulin<hr />Andrew Tan<hr />Steve Remen
+ |OriginalAirDate= {{Start date|1999|10|6}}
+ |ShortSummary=Pappy becomes a Y2 robot, and Olie must find a way to cure the situation; When the machine (from Magno Men) turns everyone upside down they must find a way to get right-side-up; Zowie's doll, Cutie-Cries-A-Lot, goes missing and Olie must find her.
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=19
+ |EpisodeNumber2=6
+ |Title=Olie's Note"<hr />"Baby Binky"<hr />"A Record Bustin' Day
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy= Nicola Barton<hr />Erika Strobel<hr />Ben Joseph
+ |Aux2= Lance Taylor<hr />Andrew Tan<hr />Christophe Villez
+ |OriginalAirDate= {{Start date|1999|10|9}}
+ |ShortSummary=Olie brings home a note, and tries to be good, thinking the note says something about a bad thing he did, but it later turns out to be an invitation to a fair; Billy gets a new baby brother named Binky. Olie has a special record for Polieville
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=20
+ |EpisodeNumber2=7
+ |Title=Where O Where Did Olie Go?"<hr />"Gone Dog-Gone Dog"<hr />"A Chip Off The Old Orb
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy=Scott Kraft
+ |Aux2= Francois Bruel<hr />Lance Taylor<hr />David Thrasher
+ |OriginalAirDate= {{Start date|1999|10|16}}
+ |ShortSummary=Olie shrinks and must find his way to get to his normal size; Spot accidentally grows into a giant and escapes to catch cars and planes around Polieville and must get back to his normal size; Olie and his dad accidentally shrink and must find a way to get big again.
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=21
+ |EpisodeNumber2=8
+ |Title=The Legend Of Spookie Ookie"<hr />"Oooh Scary"<hr />"Zowie, Queen Of The Pumpkins
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy=Laura Kosterski<hr />Ben Joseph<hr />Nicola Barton
+ |Aux2= David Thrasher<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|1999|10|23}}
+ |ShortSummary=A legendary robot, Spookie Ookie, is scary; Olie and his friends build a scare zone for his friends; Zowie and Spookie Ookie must find their way into his house.
+'''Note''': All 3 episodes were released on the "Spookie Ookie Halloween" VHS in August 2001.
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=22
+ |EpisodeNumber2=9
+ |Title=Looove Bug"<hr />"Seven Minutes And Counting"<hr />"Olie's New Suit
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy=Nicola Barton<hr />[[Kenneth Ross (screenwriter)|Ken Ross]]<hr />Nicola Barton
+ |Aux2= Andrew Tan<hr />Christophe Villez<hr />Francois Bruel
+ |OriginalAirDate= {{Start date|1999|11|2}}
+ |ShortSummary=Polly Pie comes to Polieville to play with Olie and Billy and they welcome Polly to Polieville; Olie learns seven minutes as he tries to get ready for his baseball game; Olie's new suit comes to the Polies house, but he doesn't like the way it looks because he's afraid his guests, Billy and Polly, will laugh at him.
+'''Note''': "Looove Bug" was released on the "Happy Hearts Day" VHS and the "Springy-Time Fun" DVD.
+ |LineColor=14663D 
+}}
+{{Episode list
+ |EpisodeNumber=23
+ |EpisodeNumber2=10
+ |Title=Mission Invisible"<hr />"Muscle Bots"<hr />"Hypno-Eyes
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy=Scott Kraft<hr />Ben Joseph<hr />Ken Ross
+ |Aux2= David Thrasher<hr />Christophe Villez<hr />Francois Bruel
+ |OriginalAirDate= {{Start date|1999|11|6}}
+ |ShortSummary=Olie becomes invisible when his mom calls him; While Percy and Polina are jogging, Olie teaches Billy and Zowie to become Muscle-Bots; Olie gets hypno glasses.
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=24
+ |EpisodeNumber2=11
+ |Title=Starry Starry Night"<hr />"Snowie"<hr />"Jingle Jangle Day's Eve
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy=Nicola Barton<hr />Nadine van der Velde & Scott Kraft
+ |Aux2= Francois Bruel<hr />Tom Nesbitt<hr />Lance Taylor
+ |OriginalAirDate= {{Start date|1999|11|13}}
+ |ShortSummary=When Zowie breaks Pappy's star named Starry, Klanky must fix it; Olie plays in the snow; Percy reads a holiday story. PS: "Jingle Jangle Day's Eve" is a parody of ''[[A Visit from St. Nicholas|The Night Before Christmas]]''.
+'''Note''': All 3 episodes were released as bonus episodes on the "Olie's Winter Wonderland" DVD and the "Rolie Polie Christmas" VHS.
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=25
+ |EpisodeNumber2=12
+ |Title=Little Bot Zoo"<hr />"Zowie's Soupy Hero"<hr />"Coupy Won't Fit
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy=Laura Kosterski<hr />{{StoryTeleplay|s=Carol Commisso|ex1label=Written by|ex1=Scott Kraft}}<hr />Ken Ross
+ |Aux2= David Thrasher<hr />Christophe Villez<hr />Tom Nesbitt
+ |OriginalAirDate= {{Start date|1999|11|23}}
+ |ShortSummary=Zowie and Binky pretend to be animals at a zoo, as Percy is trying to tire them out for a nap; Zowie dreams of being a superhero; Since Coupy the Car can't fit in the garage, the Polies decide to get rid of the old junk in the garage by having a garage sale.
+'''Note''': "Little Bot Zoo" is an episode where Olie is absent 
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=26
+ |EpisodeNumber2=13
+ |Title=Zowie Do, Olie Too"<hr />"Dicey Situation"<hr />"[[Square peg in a round hole|Square Plane In A Round Hole]]
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy=Nicola Barton<hr />Laura Kosterski<hr />Scott Kraft
+ |Aux2= Francois Bruel<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|1999|11|27}}
+ |ShortSummary=Zowie finds some stuff to do; Dicey, the Bevels' cat, gets lost; Olie borrows Billy's plane and promises to be careful with it, only to accidentally break it when he tries flying it through a window.
+ |LineColor=14663D
+}}
+{{Episode list
+ |EpisodeNumber=27
+ |EpisodeNumber2=14
+ |Title=Gotcha!"<hr />"Springy Chicken"<hr />"A Polie Egg-Stravaganza
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br />Ron Pitts
+ |WrittenBy=Michael Stokes<hr />Erika Strobel
+ |Aux2= Francois Bruel<hr />Frank Lintzen<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2000|1|11}}
+ |ShortSummary=Olie and Billy chase after Pappy's runaway dentures; The Polies prepare themselves for the Springy Chicken; Springy Chicken's baby hatches early and the Polies try everything they can to keep the chick in the nest.
+'''Note''': The latter two episodes were released on the "Easter Egg-Stravaganza" VHS and the "Springy Time Fun" DVD.
+ |LineColor=14663D
+}}
+|}
+
+===Season 3 (2000–2001)===
+{| class="wikitable plainrowheaders" width=100%
+|-
+! style="background-color: #FB9B0D; color: #FFF;" width=8%| Series no.
+! style="background-color: #FB9B0D; color: #FFF;" width=8%| Episode no.
+! style="background-color: #FB9B0D; color: #FFF;"| Title
+! style="background-color: #FB9B0D; color: #FFF;"| Directed by
+! style="background-color: #FB9B0D; color: #FFF;"| Written by
+! style="background-color: #FB9B0D; color: #FFF;"| Storyboard by
+! style="background-color: #FB9B0D; color: #FFF;"| Original air date
+|-
+{{Episode list
+ |EpisodeNumber=27
+ |EpisodeNumber2 = 1
+ |Title=Home Sick"<hr />"Leaf Me Alone"<hr />"Round and Round and Square We Go
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy=Scott Kraft<hr />Ken Ross<hr />Melissa Clark
+ |Aux2=Tom Nesbitt<hr />Andrew Tan<hr />Christophe Villez
+ |OriginalAirDate= {{Start date|2000|8|30}}
+ |ShortSummary=The Polies' house comes down with a cold, and they try to make the house feel better; Zowie and Binky chase a leaf all over the backyard, wrecking each card house that Olie and Billy make; The Bevils and the Polies are having a backyard barbecue.
+ |LineColor= FB9B0D
+}}
+{{Episode list
+ |EpisodeNumber=28
+ |EpisodeNumber2 = 2
+ |Title=Throw It In Gear"<hr />"A Tooth For A Tooth"<hr />"Polie Collectables
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy=Ben Joseph<hr />Nicola Barton<hr />{{StoryTeleplay|s=[[Jennifer Pertsch]]|ex1label=Written by|ex1=Michael Stokes}}
+ |Aux2=Jean-Noël Malinge<hr />Francois Bruel<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2000|9|20}}
+ |ShortSummary=Olie puts things into gear; Olie loses a tooth, and tapes the Tooth Fairy's arrival with Billy; Olie's family look at their collectables.
+'''Note''': This is the second episode to have a segment in which Olie loses a tooth, the first being episode 2 of the first season, that segment being "Tooth on the Loose".
+ |LineColor= FB9B0D
+ }}
+{{Episode list
+ |EpisodeNumber=29
+ |EpisodeNumber2 = 3
+ |Title=Doggy Day Afternoon"<hr />"Visibly Invisible"<hr />"Itty Bitty Baby Starry
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy=Melissa Clark
+ |Aux2=Francois Bruel<hr />Tom Nesbitt<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2000|9|28}}
+ |ShortSummary=Spot has a great day; Olie becomes invisible; When a baby star crash lands in Planet Polie, Percy must attempt a way to bring him back to his parents to let him help out to bring him back into space.
+
+'''Note''': "Itty Bitty Baby Starry" was released on the "Jingle Jangle Holiday" VHS and the "Olie's Winter Wonderland" DVD.
+ |LineColor= FB9B0D
+}}
+{{Episode list
+ |EpisodeNumber=30
+ |EpisodeNumber2 = 4
+ |Title=Baby Talk"<hr />"Putting On The Dog"<hr />"Whistlin' Zowie
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy=Dave Dias<hr />Ben Joseph<hr />Nicola Barton
+ |Aux2=Francois Bruel<hr />Tom Nesbitt<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2000|10|21}}
+ |ShortSummary=Olie and Billy try to teach Binky some new words; Spot gets clean in time for a date with Fifi; Zowie tries to whistle.
+ |LineColor= FB9B0D
+}}
+{{Episode list
+ |EpisodeNumber=31
+ |EpisodeNumber2 = 5
+ |Title=Square Roots"<hr />"1 Olie, 2 Olie, 3 Olie, 4"<hr />"Switcheroo
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy=Scott Kraft and Nadine van der Velde<hr />Melissa Clark<hr />Michael Stokes
+ |Aux2=Lance Taylor<hr />Christophe Villez<hr />Francois Bruel
+ |OriginalAirDate= {{Start date|2000|11|7}}
+ |ShortSummary= Olie makes a video of the Bevels' life as a family; Olie clones himself in an attempt to get to have fun and have his homework done at once; Olie and Billy switch their shapes.
+
+'''Note''': "Switcheroo" was released on the "Round Pal Square Friend" VHS in July 16, 2002.
+ |LineColor= FB9B0D
+}}
+{{Episode list
+ |EpisodeNumber=32
+ |EpisodeNumber2 = 6
+ |Title=Giz-nesia"<hr />"1001 Gearabian Nights"<hr />"Showdown At The Ol' Polie Corral
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy=Scott Kraft<hr />Melissa Clark
+ |Aux2=Francois Bruel<hr />Frank Lintzen<hr />Francois Bruel
+ |OriginalAirDate= {{Start date|2000|09|11}}
+ |ShortSummary=Gizmo comes over to visit but all Olie and Zowie want to do is watch a movie, and while trying to get their attention, Gizmo develops amnesia; Billy and Olie must read a book to school, but thanks to a mishap with Olie's dad's redecorator, they begin floating on their own "magic carpet" as they read; Zowie wants to watch a cowboy movie but Olie wants to watch Space Boy, so they flip a coin in order to determine who will get to watch the TV.
+ |LineColor= FB9B0D
+ }}
+{{Episode list
+ |EpisodeNumber=33
+ |EpisodeNumber2 = 7
+ |Title=Let's Make History"<hr />"Adventure Of Space Dads"<hr />"Silly Willy Day
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy=Michael Stokes<hr />Erika Strobel
+ |Aux2=Christophe Villez<hr />Lionel Allaix<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2000|12|24}}
+ |ShortSummary=The kids put on a play about how the planet Polie was discovered; When Olie and Billy start arguing over a game of tag, so their fathers step in and show them how to play without arguing; As the comet Sillious heads towards Polieville, color returns to the gray lives of the Polies, but they start to act crazy due to silliness:Olie walks on his hands, Zowie wears glasses, Percy sings nonstop while on rollerskates, and Polina bounces on a pogo stick. 
+'''Note''': This is the 4th of July episode and also marks the first time fireworks appear in CGI. Like the actual fireworks on some shows and films the fireworks in this episode get shot from stars rather than on the ground like an actual [[fireworks]] display would do on 4th of July and New Year's Eve.
+ |LineColor= FB9B0D
+ }}
+{{Episode list
+ |EpisodeNumber=34
+ |EpisodeNumber2 = 8
+ |Title=Detective Polie's Cookie Caper"<hr />"The Lie"<hr />Guess It's Nite Nite
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy={{StoryTeleplay|s=Erika Strobel|ex1label=Written by|ex1=Scott Kraft}}<hr />Michael Stokes<hr />Nicola Barton
+ |Aux2=Tom Nesbitt<hr />Christophe Pittet<hr />Lionel Allaix
+ |OriginalAirDate= {{Start date|2001|2|1}}
+ |ShortSummary=Olie tries to finds out who stole the cookies that Polina made; Olie tells a lie when he doesn't want to eat his brussel sprouts; It's lights out in the Polies' house, and Olie and Zowie make it hard for Pappy to get them in bed.
+'''Note''': "The Lie" was released on the "Telling the Truth" VHS in June 11, 2002 (not the September 11, 2001 release).
+ |LineColor= FB9B0D
+}}
+{{Episode list
+ |EpisodeNumber=35
+ |EpisodeNumber2 = 9
+ |Title=When Zowie All Growed Up"<hr />"Scruba-dub-dubby-A Spot In The Tubby"<hr />"Hide And Go Sleep
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy=Scott Kraft<hr />Ben Joseph<hr />Dave Dias
+ |Aux2=Andrew Tan<hr />Frank Lintzen<hr />Lance Taylor
+ |OriginalAirDate= {{Start date|2001|2|8}}
+ |ShortSummary=Zowie is feeling down about being too little to do the things that Olie can do, so Gizmo tells her about the time when Percy was feeling the same way; Olie gives Spot a bath; Zowie and Olie play hide and seek.
+ |LineColor= FB9B0D
+ }}
+{{Episode list
+ |EpisodeNumber=36
+ |EpisodeNumber2 = 10
+ |Title=Rewind"<hr />"Who's The Bestest Of Them All"<hr />"But Why?
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy=Michael Stokes<hr />Nicola Barton
+ |Aux2=Lance Taylor<hr />Christophe Pittet<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2001|2|15}}
+ |ShortSummary=Percy makes a Rewind-a-lator, which causes everything to go backwards; Olie wants to know who is the best; Zowie keeps asking "but why?" when she can't do certain things.
+ |LineColor= FB9B0D
+ }}
+{{Episode list
+ |EpisodeNumber=37
+ |EpisodeNumber2 = 11
+ |Title=Just Putting Around"<hr />"Soupy Zowie And The Bogey Bot"<hr />"No Hugs Please
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy=Melissa Clark<hr />{{StoryTeleplay|s=Scott Kraft|ex1label=Written by|ex1=Dave Dias}}<hr />Nicola Barton
+ |Aux2=Christophe Pittet<hr />Francois Bruel<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2001|2|22}}
+ |ShortSummary=Olie's dad plays golf; Zowie thinks she is a superhero after believing there's a monstrous robot under her bed; Olie doesn't want any hugs.
+ |LineColor= FB9B0D
+ }}
+{{Episode list
+ |EpisodeNumber= 38
+ |EpisodeNumber2 = 12
+ |Title=Cool It!"<hr />"Polie Pests"<hr />"Camp Out"
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Ron Pitts
+ |WrittenBy=Scott Kraft<hr />Melissa Clark<hr />Kim Thompson
+ |Aux2=Frank Lintzen<hr />Tom Nesbitt<hr />Frank Lintzen
+ |OriginalAirDate= {{Start date|2001|2|29}}
+ |ShortSummary=On a hot day, the Polies turn their backyard into a skating rink; Olie and Polly learn about caterpillars; The kids camp out in the backyard.
+ |LineColor= FB9B0D
+ }}
+|}
+
+===Season 4 (2001)===
+{| class="wikitable plainrowheaders" width=100%
+|-
+! style="background-color: #770077; color: #FFF;" width=8%| Series no.
+! style="background-color: #770077; color: #FFF;" width=8%| Episode no.
+! style="background-color: #770077; color: #FFF;"| Title
+! style="background-color: #770077; color: #FFF;"| Directed by
+! style="background-color: #770077; color: #FFF;"| Written by
+! style="background-color: #770077; color: #FFF;"| Storyboard by
+! style="background-color: #770077; color: #FFF;"| Original air date
+|-
+{{Episode list
+ |EpisodeNumber=38
+ |EpisodeNumber2 = 1
+ |Title=Pretend Friend"<hr />"Beddy Day for Daddy"<hr />"Chunk Squarey
+ |DirectedBy= Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy= Ben Joseph<hr />Dave Dias<hr />[[Scott Kraft]]
+ |Aux2=Lance Taylor<hr />Lionel Allaix<hr />Frank Lintzen
+ |OriginalAirDate= {{Start date|2001|7|4}}
+ |ShortSummary=Zowie has fun with an imaginary friend who may not be as imaginary as she thinks; Percy Polie comes down with a cold and Zowie is told to make sure he stays in bed until he gets better; Polieville is caught up in "The Twirl", which is a song and dance performed by Chunk Squarey, who is from Cuby.
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=39
+ |EpisodeNumber2 = 2
+ |Title=We Scream for Ice Cream"<hr />"Pomps Up"<hr />"Anchor Away
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy= Melissa Clark<hr />Hugh Duffy<hr />Nicola Barton
+ |Aux2= Tom Nesbitt<hr />Andrew Tan<hr />Francois Bruel
+ |OriginalAirDate= {{Start Date|2001|7|17}}
+ |ShortSummary=The kids go to a planet made of ice cream; The boys help make Gizmo's pomp stand upright when it somehow flops in front of Gizmo's face; Olie's parents remember the day they first met.
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=40
+ |EpisodeNumber2 = 3
+ |Title=Guys and Dollies"<hr/>"Dinglie Danglie Doodle"<hr/>"Dancin' Machines
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Nicola Barton<hr />Scott Kraft<hr/>Dave Dias
+ |Aux2=Tom Nesbitt<hr/>Francois Bruel<hr/>Frank Lintzen
+ |OriginalAirDate= {{Start date|2001|7|31}}
+ |ShortSummary=Olie finds out why girls play with dolls; Zowie learns a bad word and must find a way to stop saying it all the time; Some of the machines begin to dance.
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=41
+ |EpisodeNumber2 = 4
+ |Title=Bubble Trouble"<hr />"Calling All Space Boys"<hr />"Binky Break
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Hugh Duffy<hr />Ben Joseph<hr />Dave Dias
+ |Aux2=Lionel Allaix<hr />Christophe Villez<hr />Francois Bruel
+ |OriginalAirDate= {{Start date|2001|8|14}}
+ |ShortSummary=Olie and Zowie are having trouble with bubbles and they can't find their way home; Olie goes on a space adventure; Zowie babysits Binky as she tries everything she can to stop Binky from breaking everything.
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=42
+ |EpisodeNumber2 = 5
+ |Title=Who's the Worstest"<hr />"Puzzle Peace"<hr />"Robo Rangers
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Jennifer Pertsch<hr />Hugh Duffy<hr />Ken Ross
+ |Aux2=Lance Taylor<hr />Alan Bunce<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2001|8|26}}
+ |ShortSummary=After Billy loses a game of boinky ball, Olie decides play other games with him, ''by losing on purpose to make Billy better''; Olie is trying to find a puzzle piece; Olie and Billy are Robo Rangers and go through all the tips when scouting.
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=43
+ |EpisodeNumber2 = 6
+ |Title=Rust In Space"<hr />"All Wound Up"<hr />"Soap-bot Derby
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Ben Joseph<hr />Melissa Clark<hr />Dave Dias
+ |Aux2=Lionel Allaix<hr />Frank Lintzen<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2001|8|28}}
+ |ShortSummary=Olie discovers rust in outer space; Polina is feeling all wound up; Olie and Billy race against Zowie and Polli.
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=44
+ |EpisodeNumber2 = 7
+ |Title=Treasure of the Rolie Polie Madre"<hr />"Lost and Found"<hr />"Zowie's Petals
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Ken Ross<hr />Nicola Barton<hr />Hugh Duffy
+ |Aux2=Tom Nesbitt<hr />Francois Bruel<hr />Christophe Villez
+ |OriginalAirDate= {{Start date|2001|8|30}}
+ |ShortSummary=When Zowie accidentally takes Olie and Billy's treasure, she does not tell them, causing the boys to suspect each other of taking it; Olie loses a toy his dad gives him; Zowie finds a flower that she tries to nurse back to health.
+'''Bad Notice''': Treasure of the Rolie Polie Madre is not only one of the few episodes that has potty humor, but it is also one of the most controversial episodes because of Zowie stealing Olie and Billy's treasure
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=45
+ |EpisodeNumber2 = 8
+ |Title=Day for Night"<hr />"Zowie Cycle"<hr />"Mighty Olie
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Melissa Clark<hr />Bridget Newson<hr />Ben Joseph
+ |Aux2=Lance Taylor<hr />Tom Nesbitt<hr />Lance Taylor
+ |OriginalAirDate= {{Start date|2001|9|4}}
+ |ShortSummary=A [[solar eclipse]] in Polieville is happening. The sun is going black; Zowie wants to ride a bicycle; Olie thinks that he is tough.  '''Note''': This is the first Rolie Polie Olie episode with a [[Solar eclipse]] ever used.
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=46
+ |EpisodeNumber2 = 9
+ |Title=Space Telly"<hr />"Ultra Good Space Heroes"<hr />It's a Roundi-ful Life
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Jennifer Pertsch<hr />Dave Dias<hr />Nicola Barton
+ |Aux2=Andrew Tan<hr/>Francois Bruel<hr />Martial Harivel
+ |OriginalAirDate= {{Start date|2001|9|11}}
+ |ShortSummary=Olie is watching space on a television; Olie and Billy pretend to be heroes; After Olie runs away and thinks nobody wants him around anymore Percy, Zowie and Polina must find a way to bring him back.  '''Note:''' This episode aired the same day as the [[September 11 attacks|9/11 attacks]].
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=47
+ |EpisodeNumber2 = 10
+ |Title=Cheery Spherey Day"<hr />"Diary Daze"<hr />"Rock-a-bye Billy
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Dave Dias<hr />Bridget Newson<hr />Nicola Barton
+ |Aux2=Frank Lintzen<hr />Tom Nesbitt<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2001|9|17}}
+ |ShortSummary=The Polies invite the Bevels over to celebrate a holiday that reminds them that all shapes are important; Olie has to write down his weekend activities in a diary for a school project, however when he spends all his time thinking up fun activities to put into his diary, he misses out on the real weekend fun; It's the annual Polie/Bevel talent show but Billy can't think of any talents that he has. Olie, however, overhears Billy singing a lullaby to Binky, and points out something Billy has been taking for granted, that he can sing Binky to sleep.
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=48
+ |EpisodeNumber2 = 11
+ |Title=Housey Wake up"<hr />"Blue Coupey"<hr />"YesTHANKYOUPlease
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Scott Kraft<hr />Dave Dias<hr />Jennifer Pertsch
+ |Aux2=Lionel Allaix<hr />Lance Taylor<hr />Francois Bruel
+ |OriginalAirDate= {{Start date|2001|9|28}}
+ |ShortSummary=Housey the House is overworked and refuses to wake up; Coupey the Car is jealous over the attention Percy is giving to Motorboy when Gizmo brings him for a tune-up; Gizmo disguises himself to teach Zowie a few lessons in etiquette.
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=49
+ |EpisodeNumber2 = 12
+ |Title=Wheelie"<hr />"Clippy Clop"<hr />"Doofy Looking Olie
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Scott Kraft<hr />Nicola Barton<hr />Dave Dias
+ |Aux2=Alan Bunce<hr />Andrew Tan<hr />Tom Nesbitt
+ |OriginalAirDate= {{Start date|2001|10|18}}
+ |ShortSummary=Olie and Zowie meet a new friend named Wheelie who has a wheel instead of legs; Pappy's horse Clippy has loses her confidence and Olie and Zowie try to help her regain it; Convinced by a television commercial that he looks doofy, Olie wants to get a box spiffer-upper kit to improve his looks, but as soon as he gets it and starts doing so right away, his parents decide to improve their looks, too. Zowie, who didn't use the spiffer-upper, thinks they look funnier than before. 
+'''Note''': The first segment was released on the "Round Pal Square Friend" VHS in October 2, 2001.
+ |LineColor=770077
+ }}
+{{Episode list
+ |EpisodeNumber=50
+ |EpisodeNumber2 = 13
+ |Title=Song of the Blue Fish"<hr />"Lady Bug Lady Bug Fly Away Home"<hr />"Bevel Beddie Bye
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Erika Strobel<hr />{{StoryTeleplay|s=Scott Kraft|ex1label=Written by|ex1=Jennifer Pertsch}}<hr />Hugh Duffy
+ |Aux2=Lance Taylor<hr />Frank Lintzen
+ |OriginalAirDate= {{Start date|2001|10|25}}
+ |ShortSummary= Olie wants to hear the blue fish song; Olie is trying to get a ladybug back to its home; Olie sleeps over at the Bevels' house.
+'''Note''': This is the only time the Bevels night time song was used
+ |LineColor=770077
+}}
+|}
+
+===Season 5 (2001–2002)===
+{| class="wikitable plainrowheaders" width=100%
+|-
+! style="background-color: #8D4233; color: #FFF;" width=8%| Series no.
+! style="background-color: #8D4233; color: #FFF;" width=8%| Episode no.
+! style="background-color: #8D4233; color: #FFF;"| Title
+! style="background-color: #8D4233; color: #FFF;"| Directed by
+! style="background-color: #8D4233; color: #FFF;"| Written by
+! style="background-color: #8D4233; color: #FFF;"| Storyboard by
+! style="background-color: #8D4233; color: #FFF;"| Original air date
+|-
+{{Episode list
+ |EpisodeNumber=51
+ |EpisodeNumber2 = 1
+ |Title=A Little Hero"<hr />"Binky's Birthday"<hr />"Hiding in Plain Sight
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Ben Joseph<hr />Bridget Newson<hr />Scott Kraft
+ |Aux2=Martial Harivel<hr />Lionel Allaix<hr />Tom Nesbitt
+ |OriginalAirDate= {{Start date|2001|12|11}}
+ |ShortSummary=Olie and Billy summon Space Boy and Space Dog because they forgot to say good-bye when they saw them depart on TV, only to learn there is a hero in every one of them; It's Binky's birthday; Zowie hides from Olie in plain view.
+ |LineColor=8D4233
+ }}
+{{Episode list
+ |EpisodeNumber=52
+ |EpisodeNumber2 = 2
+ |Title=Making the Best of It"<hr />"Superest Bot of Them All"<hr />"Oh Olie, Olie It's a Wired World
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Dave Dias<hr />Ken Ross<hr />Ben Joseph
+ |Aux2=Francois Bruel<hr />Christophe Villez<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2001|12|17}}
+ |ShortSummary=Big Gene Green and Junior invite Olie and his dad to their planet for a picnic; Olie, Billy, and Polly compete to be the superest bot of them all, each displaying their own individual powers; Olie's dad uses some kind of machine to try to turn on a broken light in the kitchen, only in the process to mix things up.
+ |LineColor=8D4233
+ }}
+{{Episode list
+ |EpisodeNumber=53
+ |EpisodeNumber2 = 3
+ |Title=Forgive and Forget It"<hr />"Spot That Hero"<hr />"A Jingle Jangle Wish
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Melissa Clark<hr />Dave Dias<hr />Nicola Barton
+ |Aux2=Sebastien Mainette <br>(3a and 3b)<hr />Tom Nesbitt
+ |OriginalAirDate= {{Start date|2001|12}}
+ |ShortSummary= Olie gets mad at Spot when he destroys Olie's 'Gonnawinitall' ball, and soon learns to forgive Spot; Spot dreams of becoming a superhero after hearing about Fifi saving a little bot from a car; After Olie and Zowie visit Klanky Klaus, Zowie forgets to ask Klanky about her gift, so it's up to Olie to send Klanky the message.
+ |LineColor=8D4233
+ }}
+{{Episode list
+ |EpisodeNumber=54
+ |EpisodeNumber2 = 4
+ |Title=Dino Bots"<hr />"A Couple of Good Sports"<hr />"Pappy's Pals
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Bridget Newson<hr />Ben Joseph<hr />Dave Dias
+ |Aux2=Frank Lintzen<hr />Lance Taylor<hr />Alan Bunce
+ |OriginalAirDate= {{Start date|2001|12|21}}
+ |ShortSummary=Olie and Polly search for dino bots with Pappy; Olie and Billy are being good sports to their mates; While Pappy is away, his animals stay at the Polies' house.
+ |LineColor=8D4233
+ }}
+{{Episode list
+ |EpisodeNumber=55
+ |EpisodeNumber2 = 5
+ |Title=Bots Will Be Boys"<hr />"Screwy"<hr />"Good Princess Zowie
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Dave Dias<hr />Scott Kraft<hr />Jennifer Pertsch
+ |Aux2=Tom Nesbitt <br>(4a and 4b)<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2001|12|28}}
+ |ShortSummary=Percy and Gizmo compete against each other to see who can do repairs on Pappys farm the fastest, while Olie teams up with the former and Zowie with the latter; Olie and Billy meet a new kid in school named Screwy; Olie, Zowie, Polly, and Billy are playing the King of Everything game, and Zowie wants the King of Everything crown, but doesn't know how to get it.
+ |LineColor=8D4233
+ }}
+{{Episode list
+ |EpisodeNumber=56
+ |EpisodeNumber2 = 6
+ |Title=Madame Bot-erfly"<hr />"Boxing Day"<hr />"It's Just Not Fair
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Hugh Duffy<hr />Erika Strobel<hr />Nicola Barton
+ |Aux2=Francois Bruel<hr />Alan Bunce<hr />Lionel Allaix
+ |OriginalAirDate= {{Start date|2002|2|11}}
+ |ShortSummary=A polka dotted butterfly leads Olie and Zowie to some lost treasures of the past; Olie and Polly believe that Billy is moving; After being told that he cannot skate in the house, Billy decides that a lot of things are not fair.
+ |LineColor=8D4233
+ }}
+{{Episode list
+ |EpisodeNumber=57
+ |EpisodeNumber2 = 7
+ |Title=Dare Ya!"<hr />"Round Beard's Ghost"<hr />"Screwy Day
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Dave Dias<hr />Erika Strobel<hr />Jennifer Pertsch
+ |Aux2=Francois Bruel<hr />Christophe Villez<hr />Lance Taylor
+ |OriginalAirDate= {{Start date|2002|2|14}}
+ |ShortSummary=Screwy is daring Olie and Billy to do things they are afraid to do; Olie searches for Round Beard's ghost; Screwy is bullying Billy because he can't tumble.
+ |LineColor=8D4233
+ }}
+{{Episode list
+ |EpisodeNumber=58
+ |EpisodeNumber2 = 8
+ |Title=Tug-A-Wheelie"<hr />"Always Chasing Rainbows"<hr />"Follow Yer Nose
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Bridget Newson<hr />Jennifer Pertsch<hr />Scott Kraft
+ |Aux2=Andrew Tan<hr />Tom Nesbitt<hr />Sebastien Mainette
+ |OriginalAirDate= {{Start date|2002|2|26}}
+ |ShortSummary=Wheelie tries to make Olie, Zowie, Billy and Pollie feel good, especially when it is shown he can't always come to the park; When Olie and Zowie cannot play they must find a rainbow, a Rolie Trolie and a pot of golden lugnuts; Olie loses his nose and chases it all around Polieville Park.
+'''Note''': "Always Chasing Rainbows" was released on the "Easter Egg-Stravaganza" VHS and the "Springy-Time Fun" DVD.
+ |LineColor=#8D4233
+ }}
+{{Episode list
+ |EpisodeNumber=59
+ |EpisodeNumber2 = 9
+ |Title=Ten Foot Olie"<hr />"The Big Drip"<hr />"Invasion of the Ticklers!
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Dave Dias<hr />Ben Joseph<hr />Nicola Barton
+ |Aux2=Alan Bunce<hr />Frank Lintzen<hr />Andrew Tan
+ |OriginalAirDate= {{Start date|2002|3|14}}
+ |ShortSummary=Olie grows to ten feet tall; An annoying drip is waking up the family; in fact, a small leak ends up flooding the house; Ticklers invade Olie's world.
+ |LineColor=#8D4233
+ }}
+{{Episode list
+ |EpisodeNumber=60
+ |EpisodeNumber2 = 10
+ |Title=Widget Watchers"<hr />"Shippin' and Receivin'"<hr />"The Bestest Field Trip of All
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Melissa Clark<hr />Dave Dias<hr />{{StoryTeleplay|s=Scott Kraft|ex1label=Written by|ex1=Melissa Clark}}
+ |Aux2=Sebastien Mainette<hr />Lionel Allaix<hr />Christophe Villez
+ |OriginalAirDate= {{Start date|2002|3|17}}
+ |ShortSummary=Screwy's favorite constellation is going extinct, so Olie and the others convince everyone in Polieville to watch the Widget constellation; Not being able to finish their school project, Olie and Billy try to finish their castle a different way; Everyone is going on a field trip to Pappy's farm and Screwy claims to be the best at everything.
+ |LineColor=#8D4233
+ }}
+{{Episode list
+ |EpisodeNumber=61
+ |EpisodeNumber2 = 11
+ |Title=Blind as a Bot"<hr />"Beauty and the Bot"<hr />"Olie's Bot-ler
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy=Jennifer Pertsch<hr />Bridget Newson<hr />{{StoryTeleplay|s=Hugh Duffy|ex1label=Written by|ex1=Dave Dias}}
+ |Aux2=Lionel Allaix<hr />Francois Bruel<hr />Tom Nesbitt
+ |OriginalAirDate= {{Start date|2002|4|28}}
+ |ShortSummary=Percy takes off his glasses to make himself look young again; A knockoff to [[Beauty and the Beast (1991 film)|Beauty and the Beast]] from Disney and Olie and his friends pretend it's a romantic story. a robot helps Olie and his family clean up a mess.
+ |LineColor=#8d4233
+ }}
+{{Episode list
+ |EpisodeNumber=62
+ |EpisodeNumber2 = 12
+ |Title=Chunk Sings the Blues"<hr />"Cast Off"<hr />"Orb's Well That Ends Well
+ |DirectedBy=Mike Fallows {{small|(supervising)}}<br>Bill Giggie and Ron Pitts
+ |WrittenBy={{StoryTeleplay|s=Hugh Duffy|ex1label=Written by|ex1=Dave Dias}}<hr />Nicola Barton<hr />Bridget Newson
+ |Aux2=Christophe Villez<hr />Alan Bunce<hr />Andrew Tan
+ |OriginalAirDate={{Start date|2002|6|14}}
+ |ShortSummary=Chunk gets a [[Pimple|bimple]] on his forehead and someone should fill in for him until his bimple is gone; When Olie cracks his orb, he must get a cast for his head; It's the last day of school and everyone is excited to be on Summer Break, and soon find out a little more about Screwy.
+'''Note''': "Cast Off" was featured in the "Telling the Truth" VHS from September 11, 2001 before it aired on television.
+ |LineColor=#8D4233
+ }}
+|}
+
+===Season 6 (2002–2004)===
+{| class="wikitable plainrowheaders" width=100%
+|-
+! style="background:#00f; color:#ffffff;"| No. in<br>series
+! style="background:#00f; color:#ffffff;"| No. in<br>season
+! style="background:#00f; color:#ffffff;"| Title
+! style="background:#00f; color:#ffffff;"| Directed by
+! style="background:#00f; color:#ffffff;"| Written by
+! style="background:#00f; color:#ffffff;"| Storyboard by
+! style="background:#00f; color:#ffffff;"| Original air date
+|-
+{{Episode list
+ |EpisodeNumber=62
+ |EpisodeNumber2 = 1
+|Title=The Great Defender of Fun
+|RTitle=<ref>{{IMDb title|0339593|Rolie Polie Olie: The Great Defender of Fun}}</ref>
+|DirectedBy=Ron Pitts
+|WrittenBy=Nadine van der Velde
+|Aux2=Andrew Tan, Lance Taylor and Christophe Villez
+|OriginalAirDate={{Start date|2002|08|13}}
+|ShortSummary=An evil space pirate named Gloomius Maximus (Voiced by [[James Woods]]) tries to drain all the happiness and fun out of everyone. Unfortunately for Olie, an invitation to Zowie's third birthday party accidentally flies off into space and makes its way aboard Gloomius's ship. Gloomius never had a birthday party himself, so he sets out to make Zowie's as miserable as possible. He zaps the robots with the Glum Beam and takes them to the Galaxy of Gloom. Between Olie's super silly ray and some help from Saturday morning heroes Space Boy and Space Dog, the day is saved by silliness. In the end, Gloomius Maximus becomes good. This movie is the premiere of season 6.
+'''Note''': This is the last time Joshua Tucci voices Billy.
+|LineColor=0000FF
+}}
+|-
+{{Episode list
+ |EpisodeNumber=63
+ |EpisodeNumber2 = 2
+ |Title=Soupey Zowie and Diaper Dyna-mo"<hr />"Magnetitus"<hr />"A Little Wish
+ |DirectedBy=Ron Pitts
+ |WrittenBy=Dave Dias<hr />Michael Stokes<hr />Steve Sullivan
+ |Aux2=Alan Bunce<hr />Christophe Villez<hr />Frank Lintzen
+ |OriginalAirDate={{Start date|2002|9|21}}
+ |ShortSummary=Zowie wants to play with the big kids; When Screwy comes down with a case of Magnetitus. It spreads all over the kids including Olie; Zowie and Olie stay with Pappy.<br>'''Note''': This is the first episode where Billy Bevel is voiced by Kristopher Clarke due to Joshua Tucci's departure.
+ |LineColor=0000FF
+ }}
+{{Episode list
+ |EpisodeNumber=64
+ |EpisodeNumber2 = 3
+ |Title=Blast From The Past"<hr />"Gone Screwy"<hr />"Mother Giz
+ |DirectedBy=Ron Pitts
+ |WrittenBy=Alice Prodanou <br>(4a and 4b)<hr />Steve Sullivan
+ |Aux2=Frank Lintzen<hr />Christophe Villez<hr />François Bruel
+ |OriginalAirDate={{Start date|2002|11|17}}
+ |ShortSummary=Aunt Polieanna gives Pappy a surprise visit and reminisces on her many adventures after getting swept away through a wormhole; Olie and Screwy become cosmobot cadets; Mom and Dad go dancing.
+ |LineColor=0000FF
+ }}
+{{Episode list
+ |EpisodeNumber=65
+ |EpisodeNumber2 = 4
+ |Title=A Little Jingle Jangle Sparkler"<hr />"A Gift For Klanky Klaus"<hr />"All's Squared Away Day
+ |DirectedBy=Ron Pitts
+ |WrittenBy=Michael Stokes<hr />Nicola Barton<hr />Elizabeth Keyushian
+ |Aux2=Lance Taylor<hr />Christophe Villez<hr />Frank Lintzen
+ |OriginalAirDate={{Start date|2003|4|16}}
+ |ShortSummary=It's Zowie's turn to pick the Jingle Jangle star, but when she picks a very old star, Olie isn't convinced it will shine; Zowie gives a present to Klanky Klaus; When Olie loses the last piece for Billy's present, Olie must find it. <br>'''Note''': John Neville replaces Howard Jerome as the voice of Klanky Klaus.
+ |LineColor=0000FF
+}}
+{{Episode list
+ |EpisodeNumber=66
+ |EpisodeNumber2 = 5
+ |Title=Give It Back 
+Gloomius"<hr />"Olie Unsproinged"<hr />"Bot O' The Housey
+ |DirectedBy=Ron Pitts
+ |WrittenBy=Steve Sullivan<hr />Robin Stein<hr />Steve Sullivan
+ |Aux2=Alan Bunce<hr />Tom Nesbitt<hr />François Bruel
+ |OriginalAirDate={{Start date|2003|8|12}}
+ |ShortSummary=When Gloomius takes the swing, Polly Pie's dog, FiFi, and the stuff from Polieville Park, the Polies finds a way to get it back.  When Olie hurts himself from his skate stunt, he must find a way to help his spring.  While Percy goes away on a trip with Baxter, he leaves Olie and Billy in charge of Housey.<br>'''Note''': Paul Haddad voices Gloomius Maximus, replacing [[James Woods]], who played the part in ''The Great Defender of Fun''.
+ |LineColor=0000FF
+ }}
+{{Episode list
+ |EpisodeNumber=67
+ |EpisodeNumber2 = 6
+ |Title=Gumming Up The Works"<hr />"Hands Across Polieville"<hr />"Rolie Polie Pop Tops
+ |DirectedBy=Ron Pitts
+ |WrittenBy=Alice Prodanou<hr />Michael Stokes<hr />Steve Sullivan
+ |Aux2=Alan Bunce<hr />Christophe Villez<hr />Lance Taylor
+ |OriginalAirDate={{Start date|2003|8|22}}
+ |ShortSummary=When some gum escapes Planet Polie, Olie and Billy make it return; Olie, Billy, and Screwy get stuck together and are forced to do things together as a team; Screwy loses his head when he drinks too much soda, so Olie and Billy try to retrieve it.
+ |LineColor=0000FF
+ }}
+{{Episode list
+ |EpisodeNumber=68
+ |EpisodeNumber2 = 7
+ |Title=Lunchmaster 3000"<hr />"Puzzle Planet"<hr />"A Totally Backwards Day
+ |DirectedBy=Ron Pitts
+ |WrittenBy=Steve Sullivan<hr />Nicola Barton<hr />Jennifer Pertsch
+ |Aux2=François Bruel<hr />Christophe Villez<hr />Lance Taylor
+ |OriginalAirDate={{Start date|2003|8|26}}
+ |ShortSummary= Olie grows jealous of Screwy's new lunchbox that can talk; Olie, Billy, and Aunt Polieanna search for the missing pieces of Billy's board game; Everything in Polieville is turned backwards, so Olie does things backwards for a day, from sliding up the slide to talking backwards.
+ |LineColor=0000FF
+ }}
+{{Episode list
+ |EpisodeNumber=69
+ |EpisodeNumber2 = 8
+ |Title=Zowie's School Daze"<hr />"Beacon Blinkin' Day"<hr />"When Mr. Sunny Gets Blue
+ |DirectedBy=Ron Pitts
+ |WrittenBy=Alice Prodanou<hr />Robin Stein<br> (7b and 7c)
+ |Aux2=François Bruel<hr />Tom Nesbitt<br>(7b and 7c)
+ |OriginalAirDate={{Start date|2003|9|6}}
+ |ShortSummary=Olie prepares Zowie for her first day of school; When Olie gets bullied, he learns that bullying is wrong and he has a "blinking beacon day"; everything on the planet changes colors. Mr. Sunny turns blue after Olie and his family forget to thank him, and Olie and his family must help him to become happy.
+ |LineColor=0000FF
+ }}
+{{Episode list
+ |EpisodeNumber=70
+ |EpisodeNumber2 = 9
+ |Title=Straighten Upper-er To The Rescue"<hr />"The Great Manner Hunt"<hr />"Polie Poppin' Day
+ |DirectedBy=Ron Pitts
+ |WrittenBy={{StoryTeleplay|s=Steve Sullivan|ex1label=Written by|ex1=Elizabeth Keyushian}}<hr />Alice Prodanou<hr />Steve Sullivan
+ |Aux2=Lance Taylor<hr />Tom Nesbitt<hr />Christophe Villez
+ |OriginalAirDate={{Start date|2004|1|17}}
+ |ShortSummary=Olie's antennae loses its shape, so he has to wear a straighten-upper for a week until his antennae is straight again; Olie and Billy make videos around the house to teach Zowie some good manners; It's a special day for the Polies.
+ |LineColor=0000FF 
+ }}
+{{Episode list
+|EpisodeNumber=71
+|EpisodeNumber2 = 10
+|Title=The Baby Bot Chase
+|RTitle=<ref>{{cite web|url=https://www.amazon.com/Rolie-Polie-Olie-Baby-Chase/dp/B000089G5Q|title=Rolie Polie Olie - Baby Bot Chase|work=Buena Vista Home Entertainment|accessdate=October 29, 2019|via=Amazon}}</ref>
+|DirectedBy=Ron Pitts
+|WrittenBy=Scott Kraft, Alice Prodanou, Steve Sullivan and Nadine van der Velde
+|Aux2=Andrew Tan, Lance Taylor and Christophe Villez
+|OriginalAirDate={{Start date|2003|06|03}}
+|ShortSummary=Two Baby Bots named Coochie and Coo escape from their Mothership. When there is not enough room in Coupey, Olie and his family must take Gloomius Maximus' pirate ship to the Mothership. Afterwards, Gloomius adds Coochie and Coo to the Polie family after the Nursebot reveals that the Mothership is not their real home.
+|LineColor=0000FF
+}}
+{{Episode list
+ |EpisodeNumber=72
+ |EpisodeNumber2 = 11
+ |Title=The Secret Life Of Babies"<hr />"Shhhhhh!!"<hr />"The Coochie Coochie Coo Blues
+ |DirectedBy=Ron Pitts
+ |WrittenBy=Steve Sullivan<hr />N/A<hr />{{StoryTeleplay|s=Jennifer Pertsch|ex1label=Written by|ex1=Alice Prodanou}}
+ |Aux2=Frank Lintzen<hr/>N/A<hr />Christophe Villez
+ |OriginalAirDate={{Start date|2004|1|30}}
+ |ShortSummary=Coochie and her brother Coo are introduced in all three episodes. Coochie and Coo become part of the Polie Family, Olie and Billy try to be quiet so the babies can sleep, and Zowie grows jealous of the babies because they get so much attention.
+ |LineColor=0000FF
+ }}
+{{Episode list
+ |EpisodeNumber=73
+ |EpisodeNumber2 = 12
+ |Title=Big Babies"<hr />"Kooky Kites"<hr />"Twin Sittin
+ |DirectedBy=Ron Pitts
+ |WrittenBy=Robin Stein<br>(10a and 10b)<hr />N/A
+ |Aux2=Francois Bruel<hr />Frank Lintzen<hr />N/A
+ |OriginalAirDate={{Start date|2004|2|12}}
+ |ShortSummary=Percy builds a machine and the babies, being babies, activate it without even knowing what it does, causing Olie to switch brains with Spot and the babies to switch brains with the parents. Now Zowie must find a way to get everyone to switch back, and fast; It's Kooky Kite Day and the Polie kids are rearin' to get started on Kite making, even Coochie and Coo seem like eager beavers; Uncle Giz is over to babysit Olie, Zowie, Coochie and Coo. Olie and Zowie know what a great babysitter Uncle Giz.
+ |LineColor=0000FF
+ }}
+{{Episode list
+ |EpisodeNumber=74
+ |EpisodeNumber2 = 13
+ |Title=A Polie Family Frolic"<hr />"Has Anyone Seen My Coo?"<hr />"Babies Go Home
+ |DirectedBy=Ron Pitts
+ |WrittenBy=N/A<hr />Scott Kraft<hr />Steve Sullivan
+ |Aux2=N/A<hr />Christophe Villez<hr />Andrew Tan and Lance Taylor
+ |OriginalAirDate={{Start date|2004|4|28}}
+ |ShortSummary=Family Frolic Day starts; Olie's babies fly around the house; The twins find their way back home in the nursery. 
+'''Note''': Scenes from this episode were featured in ''The Baby Bot Chase''.
+ |LineColor=0000FF
+ }}
+|}
+
+==Movies==
+{{Episode table
+|overall=
+|background=#90ee90
+|title=
+|director=
+|writer=
+|aux2=
+|aux2T=Storyboard by
+|airdate=
+|episodes=
+
+{{Episode list
+|EpisodeNumber=M1
+|Title=The Great Defender of Fun
+|RTitle=<ref>{{IMDb title|0339593|Rolie Polie Olie: The Great Defender of Fun}}</ref>
+|DirectedBy=Ron Pitts
+|WrittenBy=Nadine van der Velde
+|Aux2=Andrew Tan, Lance Taylor and Christophe Villez
+|OriginalAirDate={{Start date|2002|08|13}}
+|ShortSummary=An evil space pirate named Gloomius Maximus (Voiced by [[James Woods]]) tries to drain all the happiness and fun out of everyone. Unfortunately for Olie, an invitation to Zowie's third birthday party accidentally flies off into space and makes its way aboard Gloomius's ship. Gloomius never had a birthday party himself, so he sets out to make Zowie's as miserable as possible. He zaps the robots with the Glum Beam and takes them to the Galaxy of Gloom. Between Olie's super silly ray and some help from Saturday morning heroes Space Boy and Space Dog, the day is saved by silliness. In the end, Gloomius Maximus becomes good.
+|LineColor=#90ee90
+}}
+{{Episode list
+|EpisodeNumber=M2
+|Title=The Baby Bot Chase
+|RTitle=<ref>{{cite web|url=https://www.amazon.com/Rolie-Polie-Olie-Baby-Chase/dp/B000089G5Q|title=Rolie Polie Olie - Baby Bot Chase|work=Buena Vista Home Entertainment|accessdate=October 29, 2019|via=Amazon}}</ref>
+|DirectedBy=Ron Pitts
+|WrittenBy=Scott Kraft, Alice Prodanou, Steve Sullivan and Nadine van der Velde
+|Aux2=Andrew Tan, Lance Taylor and Christophe Villez
+|OriginalAirDate={{Start date|2003|06|03}}
+|ShortSummary=Two Baby Bots named Coochie and Coo escape from their Mothership. When there is not enough room in Coupey, Olie and his family must take Gloomius Maximus' pirate ship to the Mothership. Afterwards, Gloomius adds Coochie and Coo to the Polie family after the Nursebot reveals that the Mothership is not their real home.
+|LineColor=#90ee90
+}}
+}}
+
+==References==
+{{reflist}}
+
+{{DISPLAYTITLE:List of ''Rolie Polie Olie'' episodes}}
+{{DEFAULTSORT:Rolie Polier Olie Episodes, List Of}}
+[[Category:Lists of Canadian children's animated television series episodes]]

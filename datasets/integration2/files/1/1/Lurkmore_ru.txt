@@ -1,0 +1,7 @@
+#REDIRECT [[Lurkmore]]
+
+{{rcat shell|
+{{R from domain name}}
+}}
+
+[[Category:Redirects from .ru domain names]]

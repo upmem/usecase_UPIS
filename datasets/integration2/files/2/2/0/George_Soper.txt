@@ -1,0 +1,41 @@
+'''George Albert Soper II''' (2 February 1870 – 17 June 1948) was an American sanitation engineer. He was best known for discovering [[Mary Mallon]], also known as Typhoid Mary, a carrier of [[Typhoid fever]] who had no symptoms.<ref>[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1911442/pdf/bullnyacadmed00595-0063.pdf GEORGE A.SOPER: THE CURIOUS CAREER OF TYPHOID MARY] ''www.ncbi.nlm.nih.gov'', accessed 25 April 2020</ref>
+
+== Biography ==
+Soper was the son of George Albert Soper (1837 – 1869) and Georgianna Lydia Buckman (d. 1882).<ref name="FG_GAS" />
+
+He received his degree from [[Rensselaer Polytechnic Institute]] in 1895 and a PhD from [[Columbia University]] in 1899.{{sfn|Leavitt|1996|p=15}} He was described as 'Major, US Army', in the entry for 1907 in the New York City Department of Health Centennial Newspaper noting the 'discovery of the carrier, Typhoid Mary'.<ref>[https://www1.nyc.gov/assets/doh/downloads/pdf/history/chronology-1966centennial.pdf Arthur Bushel, in 'Frank Leslie's Illustrated Newspaper' 1866 New York City Department of Health Centennial 1966, page 14] March 1966 ''www1.nyc.gov'', accessed 27 April 2020</ref> He was the managing director of the American Society for the Control of Cancer, which later changed its name to the [[American Cancer Society]], from 1923–1928.<ref name=FG_GAS>{{findagrave|110265766}}</ref>
+
+Typhoid Mary was tracked down and arrested by Ms. Willa Carey Noble, a bacteriologist at ''Research laboratories of the Public Health Department of New York City'' under [[William Hallock Park]], in Mr. Soper's office, as he acknowledged in his writings.{{where|date=April 2020}}
+
+== References ==
+{{reflist}}
+*[https://www.nytimes.com/1948/06/18/archives/dr-6-a-soper-dies-foij6ht-epidemics-sanitary-engineer78traced-1904.html?searchResultPosition=4 Dr. G. A. Soper dies; fought epidemics]. [[New York Times]], June 18, 1948.  p23.
+*[[:s:Author:George Albert Soper]]
+
+==Sources==
+*{{cite book
+ | first    =Judith 
+|last=Walzer Leavitt
+ |title      =Typhoid Mary: Captive to the Public's Health
+ |language          = en
+ |url        = https://books.google.com/books?id=cgDHAgAAQBAJ&printsec=frontcover&dq=judith+leavitt+typhoid+mary 
+ |location         = Boston
+ |publisher = Beacon Press
+ |year           = 1996
+ |ref           = Leavitt
+}}
+
+==External links==
+{{Scholia}}
+* {{Internet Archive author |sname=George Soper}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Soper, George}}
+[[Category:1870 births]]
+[[Category:Columbia School of Engineering and Applied Science alumni]]
+[[Category:1948 deaths]]
+[[Category:Rensselaer Polytechnic Institute alumni]]
+
+
+{{US-engineer-stub}}

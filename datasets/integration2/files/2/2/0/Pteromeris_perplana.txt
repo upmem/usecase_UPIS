@@ -1,0 +1,19 @@
+{{Speciesbox
+| image =
+| genus = Pteromeris
+| species = perplana
+| authority = ([[Timothy Abbott Conrad|Conrad]], 1841)
+| display_parents = 3
+}}
+
+'''''Pteromeris perplana''''', or the flat cardita, is a species of [[bivalve]] [[mollusc]] in the [[family (biology)|family]] [[Carditidae]]. It can be found along the Atlantic coast of North America, ranging from [[North Carolina]] to [[Florida]].<ref>Abbott, R.T. & Morris, P.A. ''A Field Guide to Shells: Atlantic and Gulf Coasts and the West Indies.'' New York: Houghton Mifflin, 1995. 45.</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3012728}}
+
+[[Category:Carditidae]]
+[[Category:Bivalves described in 1841]]
+
+{{bivalve-stub}}

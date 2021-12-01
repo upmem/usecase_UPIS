@@ -1,0 +1,143 @@
+{{infobox country at games
+| NOC = MAR
+| NOCname = [[Moroccan Olympic Committee]]<br> {{lang-ar|اللجنة الأولمبية الوطنية المغربية|links=no}}
+| games = Winter Olympics
+| year = 1968
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.cnom.org.ma }}&nbsp;{{in lang|fr}}
+| location = [[Grenoble]]
+| competitors = 5 (men)
+| sports = 1
+| flagbearer = 
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+'''[[Morocco]]''' competed in the [[Winter Olympic Games]] for the first time at the '''[[1968 Winter Olympics]]''' in [[Grenoble]], [[France]].
+
+== Alpine skiing==
+{{main|Alpine skiing at the 1968 Winter Olympics}}
+
+;Men
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Race 1
+!colspan="2"|Race 2
+!colspan="2"|Total
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|[[Mimoun Ouitot]]
+|rowspan="4"|Giant Slalom
+|align="center"|DNF
+|align="center"|&ndash;
+|align="center"|&ndash;
+|align="center"|&ndash;
+|align="center"|DNF
+|align="center"|&ndash;
+|-
+|[[Mohamed Aomar]]
+|align="center"|DNF
+|align="center"|&ndash;
+|align="center"|&ndash;
+|align="center"|&ndash;
+|align="center"|DNF
+|align="center"|&ndash;
+|-
+|[[Hassan Lahmaoui]]
+|align="center"|2:24.97
+|align="center"|90
+|align="center"|2:23.69
+|align="center"|84
+|align="center"|4:48.66
+|align="center"|86
+|-
+|[[Said Housni]]
+|align="center"|2:24.40
+|align="center"|89
+|align="center"|2:16.28
+|align="center"|80
+|align="center"|4:40.68
+|align="center"|83
+|}
+
+;Men's slalom
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!colspan="2"|Heat 1
+!colspan="2"|Heat 2
+!colspan="6"|Final
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time 1
+!Rank
+!Time 2
+!Rank
+!Total
+!Rank
+|-
+|[[Said Housni]]
+|align="center"|1:19.93
+|align="center"|5
+|align="center"|DNS
+|align="center"|-
+|colspan="6" align="center"|Did not advance
+|-
+|[[Mohamed Aomar]]
+|align="center"|1:29.54
+|align="center"|6
+|align="center"|1:20.03
+|align="center"|4
+|colspan="6" align="center"|Did not advance
+|-
+|[[Hassan Lahmaoui]]
+|align="center"|DSQ
+|align="center"|&ndash;
+|align="center"|1:09.16
+|align="center"|4
+|colspan="6" align="center"|Did not advance
+|-
+|[[Mehdi Mouidi]]
+|align="center"|1:13.61
+|align="center"|6
+|align="center"|1:10.90
+|align="center"|3
+|colspan="6" align="center"|Did not advance
+|}
+
+==References==
+*[https://web.archive.org/web/20070612020125/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+* [https://web.archive.org/web/20200417042444/https://www.sports-reference.com/olympics/winter/1968/ Olympic Winter Games 1968, full results by sports-reference.com]
+
+{{Nations at the 1968 Winter Olympics}}
+
+[[Category:Nations at the 1968 Winter Olympics]]
+[[Category:Morocco at the Winter Olympics by year|1968 Winter Olympics]]
+[[Category:1968 in Moroccan sport]]
+
+
+{{Morocco-sport-stub}}
+{{1968-winter-Olympic-stub}}

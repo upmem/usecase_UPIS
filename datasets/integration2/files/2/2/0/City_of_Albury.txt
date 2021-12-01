@@ -1,0 +1,234 @@
+{{about|the [[Local government in Australia|local government area]]|the city|Albury, New South Wales}}
+{{Use dmy dates|date=April 2014}}
+{{Use Australian English|date=April 2014}}
+{{Infobox Australian place 
+| type = lga
+| name     = City of Albury
+| state    = nsw
+| image    = Albury LGA NSW.png
+| caption  = Location in [[New South Wales]]
+| coordinates = {{coord|36|03|S|146|57|E|region:AU-NSW_type:adm2nd|display=inline,title}}
+| pop      = 53767
+| pop_year = 2018
+| pop_footnotes = <ref name=ABSLGA>{{cite web|title=3218.0 – Regional Population Growth, Australia, 2017-18: Population Estimates by Local Government Area (ASGS 2018), 2017 to 2018 |url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3218.02017-18|website=Australian Bureau of Statistics|publisher=[[Australian Bureau of Statistics]]|date=27 March 2019|accessdate=25 October 2019}} Estimated resident population, 30 June 2018.</ref>
+| area     = 305.9
+| area_footnotes = <ref name=ABSLGA/>
+| mayor    = Kevin Mack ([[Independent (politician)|Independent]])
+| seat     = [[Albury, New South Wales|Albury]]<ref name="dlg" >{{cite web |title=Albury City Council |publisher=[[New South Wales Department of Local Government|Department of Local Government]] |url=http://www.dlg.nsw.gov.au/dlg/dlghome/dlg_CouncilContactDetails.asp?slacode=60 |accessdate=30 November 2006}}</ref>
+| region   = [[Riverina]] / [[South West Slopes]]
+| stategov = [[Electoral district of Albury|Albury]]
+| fedgov   = [[Division of Farrer|Farrer]]
+| logo     = Albury City logo.svg
+| url      = http://www.alburycity.nsw.gov.au
+| near-n   = [[Greater Hume Shire|Greater Hume]]
+| near-ne  = [[Greater Hume Shire|Greater Hume]]
+| near-e   = [[Greater Hume Shire|Greater Hume]]
+| near-se  = ''[[Wodonga City Council|Wodonga]] ([[Victoria (Australia)|Vic]])''
+| near-s   = ''[[Wodonga City Council|Wodonga]] ([[Victoria (Australia)|Vic]])''
+| near-sw  = ''[[Wodonga City Council|Wodonga]] ([[Victoria (Australia)|Vic]])''
+| near-w   = [[Greater Hume Shire|Greater Hume]]
+| near-nw  = [[Greater Hume Shire|Greater Hume]]
+| est      = 1946
+}}
+The '''City of Albury''' is a [[Local government in Australia|local government area]] in the [[Riverina]] region of [[New South Wales]], Australia. The area covers {{convert|305.9|km2}} to the north of the Murray River. The area extends around {{convert|10|to|12|km}} east and west along the river from the centre of Albury and up to {{convert|20|km}} north. The population of the City of Albury area was 53,767<ref name=ABSLGA/> in June 2018.
+
+Albury is located {{convert|460|km}} to the south–west of [[Sydney central business district|Sydney]] and {{convert|260|km}} to the north–east of [[Melbourne central business district|Melbourne]]. The national [[Hume Highway]] passes through the area. Other major road transport links include the [[Riverina Highway]] that commences east of Albury and runs west to [[Deniliquin]]; and north of Albury, the [[Olympic Highway]] connects Albury with [[Cowra, New South Wales|Cowra]]. The city forms a major crossing point of the [[Murray River]] and also the railway junction of the [[Main Southern railway line, New South Wales|Main Southern line]] with the [[North East railway line|North East line]].
+
+Albury was declared a municipality in 1859 and proclaimed a city in 1946.<ref>{{cite web |url=http://www.alburycity.nsw.gov.au/librarymuseum/research/200792051679.htm |title=Albury and District Historical Society |work=Research and references |publisher=Albury City Council |accessdate=8 July 2008 |url-status=dead |archiveurl=https://web.archive.org/web/20080723070939/http://www.alburycity.nsw.gov.au/librarymuseum/research/200792051679.htm |archivedate=23 July 2008 |df=dmy-all }}</ref>
+
+The [[Mayor]] of the City of Albury is [[Alderman|Cr.]] Kevin Mack, an [[Independent (politician)|independent]] politician.<ref name=mayor>{{cite press release |url=http://www.alburycity.nsw.gov.au/www/html/17-news.asp?n=1485 |title=Cr Alice Glachan elected Mayor of Albury |date=24 September 2012 |accessdate=29 September 2012 |publisher=Albury City Council |archive-url=https://archive.is/20121126231434/http://www.alburycity.nsw.gov.au/www/html/17-news.asp?n=1485 |archive-date=26 November 2012 |url-status=dead }}</ref>
+
+== Suburbs within the local government area ==
+
+Suburbs within the City of Albury are:
+{{columns-list|colwidth=18em|
+* [[Albury, New South Wales|Albury]]
+* [[East Albury, New South Wales|East Albury]]
+* [[Ettamogah, New South Wales|Ettamogah]]
+* [[Glenroy, New South Wales|Glenroy]]
+* [[Hamilton Valley, New South Wales|Hamilton Valley]]
+* [[Lavington, New South Wales|Lavington]]
+* [[Lake Hume Village, New South Wales|Lake Hume Village]]
+* [[North Albury, New South Wales|North Albury]]
+* [[South Albury, New South Wales|South Albury]]
+* [[Splitters Creek, New South Wales|Splitters Creek]]
+* [[Springdale Heights, New South Wales|Springdale Heights]]
+* [[Table Top, New South Wales|Table Top]]
+* [[Thurgoona, New South Wales|Thurgoona]]
+* [[West Albury, New South Wales|West Albury]]
+* [[Wirlinga, New South Wales|Wirlinga]]
+}}
+
+==Demographics==
+At the [[Census in Australia#2011|2011 Census]], there were {{formatnum:47810}} people in the Albury local government area, of these 48.3% were male and 51.7% were female. [[Aboriginal and Torres Strait Islander people]] made up 2.3% of the population. The [[median#Medians for populations|median]] age of people in the City of Albury area was 37 years. Children aged 0 – 14 years made up 19.4% of the population and people aged 65 years and over made up 15.2% of the population. Of people in the area aged 15 years and over, 46.1% were married and 12.5% were either divorced or separated.<ref name="Census2011">{{Census 2011 AUS|id=LGA10050 |name=Albury (C) |accessdate=2 December 2012 |quick=on}}</ref>
+
+Population growth in the City of Albury Council area between the 2001 Census and the 2006 Census was 9.38%; and in the subsequent five years to the 2011 Census was 3.30%. When compared with total population growth of Australia for the same periods, being 5.78% and 8.32% respectively, population growth in the Albury local government area was generally on par with the national average.<ref name="Census2001"/> The median [[household income|weekly income]] for residents within the City of Albury area was slightly below the national average.<ref name="Census2011"/><ref name="Census2006"/>
+
+At the 2011 Census, the proportion of residents in the Albury local government area who stated their [[ancestor|ancestry]] as Australian or [[Anglo-Saxons|Anglo-Saxon]] exceeded 77% of all residents (national average was 65.2%). In excess of 58% of all residents in the City of Albury area nominated a [[Religion in Australia|religious]] affiliation with [[Christianity in Australia|Christianity]] at the 2011 Census, which was slightly higher than the national average of 50.2%. Meanwhile, as at the Census date, compared to the national average, households in the Albury local government area had a significantly lower than average proportion (6.8%) where two or more languages are spoken (national average was 20.4%); and a significantly higher proportion (90.4%) where [[Australian English|English]] only was spoken at home (national average was 76.8%).<ref name="Census2011"/>
+
+{| class="wikitable"
+|-
+!colspan=7|Selected historical census data for Albury local government area
+|-
+!colspan=3|Census year !!2001<ref name="Census2001">{{Census 2001 AUS|id=LGA10050 |name=Albury (C) |accessdate=5 December 2012 |quick=on}}</ref>!!2006<ref name="Census2006">{{Census 2006 AUS|id=LGA10050 |name=Albury (C) |accessdate=5 December 2012 |quick=on}}</ref>!!2011<ref name="Census2011"/>!!2016<ref name="Census2016">{{Census 2016 AUS|id=LGA10050 | name = Albury (C)| quick = on | accessdate = 27 June 2017}}</ref>
+|-
+|rowspan=4 colspan="2"|Population ||Estimated residents on [[Census in Australia|census night]] ||align="right"|{{formatnum:42314}} ||align="right"|{{gain}}&nbsp;{{formatnum:46282}} ||align="right"|{{gain}}&nbsp;{{formatnum:47810}} ||align="right"|{{gain}}&nbsp;{{formatnum:51076}}
+|-
+|align="right"|[[List of local government areas in New South Wales|LGA rank in terms of size within New South Wales]] ||align="right"| ||align="right"|<small></small> ||align="right"|{{nts|45}}<small>th</small> ||align="right"|{{gain}}&nbsp;{{nts|44}}<small>th</small>
+|-
+|align="right"|% of New South Wales population ||align="right"| ||align="right"| ||align="right"|0.69% ||align="right"|{{loss}}&nbsp;0.68%
+|-
+|align="right"|% of Australian population ||align="right"|0.23% ||align="right"|{{steady}}&nbsp;0.23% ||align="right"|{{loss}}&nbsp;0.22% ||align="right"|{{steady}}&nbsp;0.22%
+|-
+!colspan=3|Cultural and language diversity !! !! !! !!
+|-
+|rowspan=5 colspan=2|[[ancestor|Ancestry]],<br />top responses ||English||align="right"| ||align="right"|  ||align="right"|29.3% ||align="right"|{{loss}}&nbsp;28.8%
+|-
+|Australian||align="right"| ||align="right"|  ||align="right"|30.4% ||align="right"|{{loss}}&nbsp;28.5%
+|-
+|Irish||align="right"| ||align="right"|  ||align="right"|10.0% ||align="right"|{{gain}}&nbsp;10.2%
+|-
+|[[Scottish people|Scottish]]||align="right"| ||align="right"|  ||align="right"|7.8% ||align="right"|{{gain}}&nbsp;8.1%
+|-
+|German||align="right"| ||align="right"|  ||align="right"|5.8% ||align="right"|{{loss}}&nbsp;5.5%
+|-
+|rowspan=5 colspan=2|Language,<br />top responses<br />(other than [[Australian English|English]]) ||[[Nepali language|Nepali]]||align="right"|n/c ||align="right"|{{steady}}&nbsp;n/c ||align="right"|{{profit}}&nbsp;0.5% ||align="right"|{{profit}}&nbsp;1.0%
+|-
+|[[Punjabi language|Punjabi]]||align="right"|n/c ||align="right"|{{steady}}&nbsp;n/c ||align="right"|{{steady}}&nbsp;n/c ||align="right"|{{gain}}&nbsp;0.5%
+|-
+|[[Mandarin language|Mandarin]]||align="right"|n/c ||align="right"|{{steady}}&nbsp;n/c ||align="right"|{{steady}}&nbsp;n/c ||align="right"|{{gain}}&nbsp;0.3%
+|-
+|[[Greek language|Greek]]||align="right"|0.4% ||align="right"|{{steady}}&nbsp;0.4% ||align="right"|{{steady}}&nbsp;0.4% ||align="right"|{{loss}}&nbsp;0.3%
+|-
+|[[Hindi language|Hindi]]||align="right"|n/c ||align="right"|{{steady}}&nbsp;n/c ||align="right"|{{profit}}&nbsp;0.2% ||align="right"|{{profit}}&nbsp;0.3%
+|-
+!colspan=3|Religious affiliation !! !! !! !!
+|-
+|rowspan=5 colspan=2|[[Religion in Australia|Religious]] affiliation,<br />top responses ||[[Irreligion in Australia|No Religion]]||align="right"|12.5% ||align="right"|{{profit}}&nbsp;16.4% ||align="right"|{{profit}}&nbsp;19.9% ||align="right"|{{profit}}&nbsp;27.5%
+|-
+|[[Roman Catholic Church in Australia|Catholic]]||align="right"|29.0% ||align="right"|{{loss}}&nbsp;28.9% ||align="right"|{{loss}}&nbsp;28.4% ||align="right"|{{loss}}&nbsp;25.6%
+|-
+|[[Anglican Church of Australia|Anglican]]||align="right"|24.3% ||align="right"|{{loss}}&nbsp;22.4% ||align="right"|{{loss}}&nbsp;20.4% ||align="right"|{{loss}}&nbsp;16.9%
+|-
+|Not Stated||align="right"|n/c ||align="right"|{{steady}}&nbsp;n/c ||align="right"|{{steady}}&nbsp;n/c ||align="right"|{{gain}}&nbsp;9.2%
+|-
+|[[Uniting Church in Australia|Uniting Church]]||align="right"|7.2% ||align="right"|{{loss}}&nbsp;6.3% ||align="right"|{{loss}}&nbsp;5.5% ||align="right"|{{loss}}&nbsp;4.2%
+|-
+!colspan=3|Median weekly incomes !! !! !! !!
+|-
+|rowspan=2 colspan=2|Personal income ||Median weekly personal income||align="right"| ||align="right"|{{AUD}}452 ||align="right"|{{AUD}}558 ||align="right"|{{AUD}}642
+|-
+|align="right"|% of Australian median income||align="right"| ||align="right"|97.0% ||align="right"|{{loss}}&nbsp;96.7% ||align="right"|{{gain}}&nbsp;97.0%
+|-
+|rowspan=2 colspan=2|Family income  ||Median weekly family income||align="right"| ||align="right"|A$919 ||align="right"|A$1,360 ||align="right"|A$1,532
+|-
+|align="right"|% of Australian median income||align="right"| ||align="right"|89.5% ||align="right"|{{gain}}&nbsp;91.8% ||align="right"|{{loss}}&nbsp;88.4%
+|-
+|rowspan=2 colspan=2|Household income ||Median weekly household income||align="right"| ||align="right"|A$1,137 ||align="right"|A$1,025 ||align="right"|A$1,185
+|-
+|align="right"|% of Australian median income||align="right"| ||align="right"|97.1% ||align="right"|{{loss}}&nbsp;83.1% ||align="right"|{{loss}}&nbsp;82.4%
+|-
+|}
+
+== Council ==
+
+===Current composition and election method===
+Albury City Council is composed of nine [[Councillor]]s elected [[Single transferable vote|proportionally]] as a single [[Ward (country subdivision)|ward]]. All Councillors are elected for a fixed four-year term of office. The Mayor is elected by the Councillors at the first meeting of the Council. The most recent election was held on 10 September 2016, and the makeup of the council is as follows:<ref name="ER-2016">{{cite web|title=Albury Council Election Results|url=http://vtr.elections.nsw.gov.au/albury-city-council/councillor|website=Electoral Commission of New South Wales|accessdate=18 September 2016|date=17 September 2016}}</ref>
+
+{| class="wikitable"
+|-
+!colspan="2"|Party!!Councillors
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| [[Independent (politician)|Independents]] and Unaligned
+| align=right | 7
+|-
+| {{Australian party style|Greens}}|&nbsp;
+| [[Greens New South Wales|The Greens]]
+| align=right | 1
+|-
+| {{Australian party style|Labor}}|&nbsp;
+| [[Australian Labor Party (New South Wales Branch)|Country Labor]]
+| align=right | 1
+|-
+|
+| '''Total'''
+| align=right | '''9'''
+|}
+
+The current Council, elected in 2016, in order of election, is:<ref name=ER-2016/>
+
+{| class="wikitable"
+|-
+!colspan="2"|Councillor!!Party!!Notes
+|-
+| {{Australian party style|Independent}} |&nbsp;
+|Kevin Mack
+| [[Independent (politician)|Independent]]
+| [[Mayor]]
+|-
+| {{Australian party style|Independent}} |&nbsp;
+| Alice Glachan
+| Independent
+|
+|-
+| {{Australian party style|Greens}}|&nbsp;
+| Amanda Cohn
+| [[Greens New South Wales|Greens]]
+|Deputy Mayor
+|-
+| {{Australian party style|Independent}}|&nbsp;
+|Henk Van de Ven
+| Independent
+|
+|-
+| {{Australian party style|Independent}}|&nbsp;
+|John Stuchbery
+| Independent
+|Elected on Kevin Mack's ticket
+|-
+| {{Australian party style|Labor}}|&nbsp;
+| Darren Cameron
+| [[Australian Labor Party (New South Wales Branch)|Country Labor]]
+| 
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| David Thurley
+| Independent
+|
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| Murray King
+| Independent
+|Elected on Kevin Mack's ticket
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| Graham Docksey
+| Independent
+| Elected on Alice Glachan's [[ticket (election)|ticket]]
+|}
+
+== Sister city ==
+
+The City of Albury has a [[sister city]] with:
+*Wodonga<ref>{{Cite web|url=https://knowyourcouncil.vic.gov.au/councils/wodonga|title=Wodonga City - Know Your Council|website=Know Your Council|language=English|archive-url=https://web.archive.org/web/20180311083034/https://knowyourcouncil.vic.gov.au/councils/wodonga|archive-date=11 March 2018|url-status=live|access-date=27 July 2018}}</ref>
+
+==See also==
+* [[List of mayors of Albury]]
+* [[List of local government areas in New South Wales]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[https://web.archive.org/web/20080707012150/http://www.alburycity.nsw.gov.au/index.htm Albury City Council] – official website
+*[http://lgam.wikidot.com/albury-city-council Local Government & Municipal Knowledge Base – Albury City Council Page]
+
+{{City of Albury suburbs}}
+{{Local Government Areas of the Riverina}}
+{{Local Government Areas of New South Wales}}
+
+[[Category:City of Albury| ]]
+[[Category:Local government areas of the Riverina|Albury]]
+[[Category:Local government areas of New South Wales|Albury]]
+[[Category:Albury, New South Wales]]

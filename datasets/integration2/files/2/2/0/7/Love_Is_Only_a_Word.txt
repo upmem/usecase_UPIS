@@ -1,0 +1,68 @@
+{{Infobox film
+| name = Love Is Only a Word
+| image =File:Love Is Only a Word.jpg
+| caption = 
+| director = [[Alfred Vohrer]]
+| producer =  {{ubl|[[Erwin Gitt]]|[[Luggi Waldleitner]]}}
+| writer =  {{ubl|[[Manfred Purzer]]|[[Johannes Mario Simmel]] (novel)}}
+| narrator =
+| starring = {{ubl|[[Judy Winter]]|[[Herbert Fleischmann]]|[[Malte Thorsten]]}}
+| music = [[Erich Ferstl]] 
+| cinematography = [[Charly Steinberger]] 
+| editing =  [[Jutta Hering]]    
+| studio = [[Roxy Film]]  
+| distributor = [[Constantin Film]]
+| released = 12 November 1971   
+| runtime = 111 minutes
+| country = West Germany 
+| language = [[German language|German]] 
+| budget =
+| gross =
+| preceded_by =
+| followed_by =
+| website =
+}}
+'''''Love Is Only a Word''''' ({{lang-de|'''Liebe ist nur ein Wort'''}}) is a 1971 West German [[drama film]] directed by [[Alfred Vohrer]] and starring [[Judy Winter]], [[Herbert Fleischmann]] and [[Malte Thorsten]].<ref>Bock & Bergfelder p.504</ref>
+
+==Cast==
+* [[Judy Winter]] as Verena Angenfort
+* [[Herbert Fleischmann]] as Manfred Angenfort
+* [[Malte Thorsten]] as Oliver Mansfeld
+* [[Donata Höffer]] as Geraldine Reber
+* [[Karl Walter Diess]] as Butler Leo
+* [[Joey Schoenfelder]] as Hansi
+* [[Konrad Georg]] as Professor
+* [[Friedrich Siemers]] as Dr. Florian
+* [[Bernd Redecker]] as Walter Colland
+* [[Manuel Iregsusi]] as Raschid
+* [[Friedrich G. Beckhaus]] as Kommissar Hardenberg
+* [[Holger Hagen]] as Dr. Haberl
+* [[Inge Langen]] as Katharina Mansfeld, Olivers Mutter
+* [[Dieter Wagner]] as Deutschlehrer
+* [[Ossi Eckmüller]] as Zollbeamter
+* [[Gretl Schörg]] as Pflegerin
+* [[Elisabeth Volkmann]] as Angenforts Sekretärin
+* [[Franz Rudnick]] as Kasilowski
+* [[Frank Süssenguth]] as Pilot Teddy Behnke
+
+== References ==
+{{reflist}}
+
+== Bibliography ==
+* Bock, Hans-Michael & Bergfelder, Tim. ''The Concise CineGraph. Encyclopedia of German Cinema''. Berghahn Books, 2009.
+
+== External links ==
+* {{IMDb title|0067343}}
+
+[[Category:1971 films]]
+[[Category:1971 drama films]]
+[[Category:German drama films]]
+[[Category:West German films]]
+[[Category:German-language films]]
+[[Category:Films directed by Alfred Vohrer]]
+[[Category:Constantin Film films]]
+[[Category:Adultery in films]]
+[[Category:Films based on Austrian novels]]
+
+
+{{1970s-Germany-film-stub}}

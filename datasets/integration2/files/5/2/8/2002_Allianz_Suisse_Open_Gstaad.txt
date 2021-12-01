@@ -1,0 +1,36 @@
+{{TennisEventInfo|2002|Allianz Suisse Open Gstaad|
+| date=8–14 July 
+| edition=57th
+| category=[[ATP International Series|International Series]]
+| surface=[[Clay court|Clay]] / outdoor
+| location=[[Gstaad]], Switzerland
+| venue=[[Roy Emerson Arena]] 
+| champs={{flagicon|ESP}} [[Àlex Corretja]]
+| champd={{flagicon|AUS}} [[Joshua Eagle]] / {{flagicon|CZE}} [[David Rikl]]
+}}
+
+The '''2002 Allianz Suisse Open Gstaad''' was a men's [[tennis]] tournament played on [[Clay court|outdoor clay courts]] at the [[Roy Emerson Arena]] in [[Gstaad]] in [[Switzerland]] and was part of the [[ATP International Series|International Series]] of the [[2002 ATP Tour]]. It was the 57th edition of the tournament and was held from 8 July until 14 July 2002. [[Àlex Corretja]] won the singles title.
+
+==Finals==
+===Singles===
+{{main|2002 Allianz Suisse Open Gstaad – Singles}}
+{{flagicon|ESP}} [[Àlex Corretja]] defeated {{flagicon|ARG}} [[Gastón Gaudio]] 6–3, 7–6<sup>(7–3)</sup>, 7–6<sup>(7–3)</sup>
+* It was Corretja's 1st title of the year and the 19th of his career.
+
+===Doubles===
+{{main|2002 Allianz Suisse Open Gstaad – Doubles}}
+{{flagicon|AUS}} [[Joshua Eagle]] / {{flagicon|CZE}} [[David Rikl]] defeated {{flagicon|ITA}} [[Massimo Bertolini]] / {{flagicon|ITA}} [[Cristian Brandi]] 7–6<sup>(7–5)</sup>, 6–4
+* It was Eagle's 1st title of the year and the 3rd of his career. It was Rikl's 3rd title of the year and the 25th of his career.
+
+==External links==
+* [http://www.allianzsuisseopengstaad.com/ Official website] {{in lang|de}}
+* [http://www.allianzsuisseopengstaad.com/fr/ Official website] {{in lang|fr}}
+* [http://www.allianzsuisseopengstaad.com/en/ Official website] 
+* [http://www.atpworldtour.com/Tennis/Tournaments/Gstaad.aspx ATP tournament profile]
+
+{{Swiss Open tournaments}}
+{{2002 ATP Tour}}
+
+[[Category:2002 ATP Tour|Allianz Suisse Open Gstaad]]
+[[Category:Swiss Open (tennis)]]
+[[Category:2002 in Swiss sport]]

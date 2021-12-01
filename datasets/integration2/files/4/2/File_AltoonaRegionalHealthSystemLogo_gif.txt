@@ -1,0 +1,15 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Logo of the formerly named Altoona Regional Health System prior to UPMC merger
+|Author=Altoona Regional Health System
+|Source = http://www.altoonaregional.org/about.htm
+|Article = UPMC Altoona
+|Purpose = to illustrate a historical primary means of visual identification.
+|Replaceability = n.a.
+|Minimality = The logo is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.
+|Commercial = n.a.
+|Other information = This trademark appears to use only simply shapes and letters that may not fall under US copyright protection, but the A symbol may represent mountains and thus that image has potential copyright applicability.
+}}
+
+==Licensing==
+{{Non-free logo|image has rationale=yes}}

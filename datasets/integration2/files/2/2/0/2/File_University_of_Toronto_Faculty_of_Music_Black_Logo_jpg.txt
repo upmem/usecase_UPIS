@@ -1,0 +1,11 @@
+==Summary==
+{{Non-free use rationale logo
+| Article  = University of Toronto, Faculty of Music
+| Use      = Org
+| Used for = [[University of Toronto, Faculty of Music]]
+| Owner    = [[University of Toronto]]
+| Source   = 
+}}
+
+==Licensing==
+{{non-free logo|image has rationale=yes|University and college logos}}

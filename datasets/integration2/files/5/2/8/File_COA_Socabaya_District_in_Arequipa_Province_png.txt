@@ -1,0 +1,16 @@
+== Summary ==
+{{Non-free use rationale|Article           = Socabaya District 
+|Description       = Coat of arms of the socabaya district in the arequipa province in the arequipa region.
+|Source            = [http://munisocabaya.gob.pe/ munisocabaya.gob.pe]
+|Portion           = Regional coat of arms
+|Low_resolution    = yes
+|Purpose           = Coat of arms to illustrate and identify the region.
+|Replaceability    = no. used to identify the region, no other means available.
+|other_information = It illustrates educational articles about the subject represented by the image. It is not replaceable with an uncopyrighted or freely copyrighted image of comparable educational value. A free image could not be created to replace it without itself being a derivative work.
+}}
+
+== Licensing ==
+{{Non-free logo|image has rationale=yes}}
+
+[[Category:Coat of arms images|Peru Socabaya]]
+[[Category:Peruvian coats of arms|Socabaya]]

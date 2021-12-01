@@ -1,0 +1,84 @@
+{{Recent AfDs}}
+<div class="boilerplate metadata vfd" style="background-color: #F3F9FF; margin: 0 auto; padding: 0 1px 0 0; border: 1px solid #AAAAAA; font-size:10px">
+{| width = "100%"
+|-
+! width="50%" align="left"  | <font color="gray">&lt;</font> [[Wikipedia:Articles for deletion/Log/2013 August 28|28 August]]
+! width="50%" align="right" |  [[Wikipedia:Articles for deletion/Log/2013 August 30|30 August]] <font color="gray">&gt;</font>
+|}
+</div>
+<div align = "center">'''[[Wikipedia:Guide to deletion|Guide to deletion]]'''</div>
+{{Cent}}
+<small>{{purge|Purge server cache}}</small>
+__TOC__
+<!-- Add new entries to the TOP of the following list -->
+<!-- {{Wikipedia:Articles for deletion/Anne-Marie Bourcier}} -->
+<!-- {{Wikipedia:Articles for deletion/Mukadender}} -->
+{{Wikipedia:Articles for deletion/D. Matthew Millar}}
+{{Wikipedia:Articles for deletion/Wall Worm}}<!--Relisted-->
+{{Wikipedia:Articles for deletion/Tor Johannes Helleland hacking incident}}<!--Relisted-->
+<!-- {{Wikipedia:Articles for deletion/Gowachin}} -->
+{{Wikipedia:Articles for deletion/Night hag (Dungeons & Dragons)}}
+<!-- {{Wikipedia:Articles for deletion/Sharkticon}} -->
+{{Wikipedia:Articles for deletion/Tom Brosius}}
+<!-- {{Wikipedia:Articles for deletion/Volrath}} -->
+{{Wikipedia:Articles for deletion/Samuel Calkin}}
+{{Wikipedia:Articles for deletion/Continental Congress 2.0}}
+{{Wikipedia:Articles for deletion/Genesis. The game of man in the World.}}
+{{Wikipedia:Articles for deletion/Bob Smither (2nd nomination)}}
+{{Wikipedia:Articles for deletion/Singlish vocabulary (3rd nomination)}}<!--Relisted-->
+{{Wikipedia:Articles for deletion/Sin Klub Entertainment (2nd nomination)}}<!--Relisted-->
+<!-- {{Wikipedia:Articles for deletion/Steve Pettifer}} --><!--Relisted-->
+<!-- {{Wikipedia:Articles for deletion/Vic Black}} -->
+{{Wikipedia:Articles for deletion/Simone Brunozzi}}
+{{Wikipedia:Articles for deletion/Tony Defries}}
+<!-- {{Wikipedia:Articles for deletion/Alessandro Figus}} -->
+<!-- {{Wikipedia:Articles for deletion/Danielle Meagher}} -->
+{{Wikipedia:Articles for deletion/300watches}}
+{{Wikipedia:Articles for deletion/DeskRoll}}
+{{Wikipedia:Articles for deletion/MUSH (e-mail client)}}
+{{Wikipedia:Articles for deletion/Mike Ryan (music video producer)}}
+ 	
+{{Wikipedia:Articles for deletion/Seabury}}
+<!-- {{Wikipedia:Articles for deletion/Igor Manko}} -->
+{{Wikipedia:Articles for deletion/Generation Undefined}}
+<!-- {{Wikipedia:Articles for deletion/Shams Ali Qalandar}} -->
+{{Wikipedia:Articles for deletion/The Suspect (2013 film)}}
+{{Wikipedia:Articles for deletion/Longirostres}}
+<!-- {{Wikipedia:Articles for deletion/Arden Leigh}} -->
+{{Wikipedia:Articles for deletion/Corruption in Sudan}}
+{{Wikipedia:Articles for deletion/List of Filipino inventions and discoveries}}
+{{Wikipedia:Articles for deletion/Family Life International (New Zealand)}}
+<!-- {{Wikipedia:Articles for deletion/Pavel Maksakovsky}} -->
+{{Wikipedia:Articles for deletion/KC (Kevin Chilvers)}}
+{{Wikipedia:Articles for deletion/Curb mining}}
+{{Wikipedia:Articles for deletion/Shooto}}
+{{Wikipedia:Articles for deletion/Barry Wingard}}
+<!-- {{Wikipedia:Articles for deletion/Nate Bucklin}} -->
+<!-- {{Wikipedia:Articles for deletion/Derrick Strickland}} -->
+<!-- {{Wikipedia:Articles for deletion/British Muslim Awards}} -->
+{{Wikipedia:Articles for deletion/Megacivilization}}
+<!-- {{Wikipedia:Articles for deletion/Jack Soifer}} -->
+{{Wikipedia:Articles for deletion/Sean MacBride Peace Prize}}
+{{Wikipedia:Articles for deletion/List of corruption scandals in Romania}}
+{{Wikipedia:Articles for deletion/Crevier}}
+<!-- {{Wikipedia:Articles for deletion/Mista Mahaj J}} -->
+{{Wikipedia:Articles for deletion/What a Hero!}}
+{{Wikipedia:Articles for deletion/Best Of Tollywood}}
+{{Wikipedia:Articles for deletion/Ali and Nino – Literary Robbery!}}
+{{Wikipedia:Articles for deletion/Tamar Injia}}
+<!-- {{Wikipedia:Articles for deletion/Newcastle University spin-out companies}} -->
+{{Wikipedia:Articles for deletion/Iran's intelligence quotient}}
+{{Wikipedia:Articles for deletion/Romblon Triangle}}
+{{Wikipedia:Articles for deletion/Zoe Aggeliki}}
+<!-- {{Wikipedia:Articles for deletion/Fred Kakon}} -->
+<!-- {{Wikipedia:Articles for deletion/VIA Technologies shareholders and subsidiaries}} -->
+{{Wikipedia:Articles for deletion/Network-Centric Solutions-2 (NETCENTS-2)}}
+<!-- {{Wikipedia:Articles for deletion/City First}} -->
+{{Wikipedia:Articles for deletion/Simona Williams}}
+{{Wikipedia:Articles for deletion/Twin Tail}}
+<!-- {{Wikipedia:Articles for deletion/Cyber Wars}} --><!--Relisted-->
+<!-- {{Wikipedia:Articles for deletion/London Easylink}} --><!--Relisted-->
+<!-- {{Wikipedia:Articles for deletion/ACM Air Charter}} --><!--Relisted-->
+<!-- {{Wikipedia:Articles for deletion/ANts P2P}} --><!--Relisted-->
+{{Wikipedia:Articles for deletion/Eminem 2013 Tour}}
+{{Wikipedia:Articles for deletion/William Edward Bauer}}

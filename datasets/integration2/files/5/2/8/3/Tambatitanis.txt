@@ -1,0 +1,24 @@
+{{short description|Genus of titanosauriform dinosaur from the Early Cretaceous Period of Japan}}
+{{Automatic taxobox
+| fossil_range = [[Early Cretaceous]], {{fossilrange|112.6|109.0}} [[Albian]]
+| image = Tambatitanis amicitiae.jpg
+| image_upright = 1.15
+| image_caption = Caudal vertebrae
+| taxon = Tambatitanis
+| authority = Saegusa & Ikeda, [[2014 in paleontology|2014]]
+| type_species = {{extinct}}'''''Tambatitanis amicitiae'''''
+| type_species_authority = Saegusa & Ikeda, 2014
+}}
+[[File:Tambatitanis.jpg|thumb|left|upright|Dentary]]
+'''''Tambatitanis''''' (meaning "Tamba giant", after Tamba, the name given to the northwest of Kansai, Japan<ref name=Saegusa2014 /> is an extinct [[genus]] of [[titanosauriform]] [[dinosaur]] from the [[Early Cretaceous]] (probably early [[Albian]]<ref name="Paul">{{Cite book|title=The Princeton Field Guide to Dinosaurs: Second Edition|last=Paul|first=Gregory S.|publisher=Princeton University Press|year=2016|isbn=978-0-691-16766-4|location=Princeton, New Jersey|pages=224}}</ref>) of [[Japan]]. It is known from a single [[type species]], '''''Tambatitanis amicitiae''''', which is known from the [[Sasayama Group]].<ref name="Saegusa2014">{{cite journal |author1=Saegusa, H. |author2=Ikeda, T. |year=2014 |title=A new titanosauriform sauropod (Dinosauria: Saurischia) from the Lower Cretaceous of Hyogo, Japan |journal=Zootaxa |volume=3848 |issue=1 |pages=1–66 |doi=10.11646/zootaxa.3848.1.1 |pmid=25112425}}</ref> It was probably around 14 meters long and its mass was estimated at some 4 tonnes.<ref name="Paul"/> It was a [[Basal (phylogenetics)|basal]] titanosauriform and possibly belonged to the [[Euhelopodidae]].<ref name="Saegusa2014" /> The holotype was collected between 2006-2010.<ref>H. Saegusa, S. Tanaka, T. Ikeda, T. Matsubara, H. Frutani and K. Handa. 2008. On the occurrence of sauropod and some associated vertebrate fossils from the Lower Cretaceous Sasayama Group of Hyogo Prefecture, SW Japan. ''Journal of Fossil Research'' 41(1):2-12</ref>
+
+==References==
+{{Reflist}}
+
+{{Portal|Dinosaurs}}
+{{Sauropodomorpha|M.}}
+{{Taxonbar|from=Q17524002}}
+
+[[Category:Early Cretaceous dinosaurs of Asia]]
+[[Category:Fossil taxa described in 2014]]
+[[Category:Extinct animals of Japan]]

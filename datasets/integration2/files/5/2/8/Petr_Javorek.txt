@@ -1,0 +1,62 @@
+{{short description|Czech footballer}}
+{{Infobox football biography
+|          name      = Petr Javorek
+|               image =Petr Javorek.jpg
+|            caption =Javorek in 2014
+|            fullname =
+|         birth_date = {{Birth date and age|df=yes|1986|9|2}}
+|      birth_place = [[Czechoslovakia]]
+|              height = {{height|m=1.86}}
+|            position = [[Midfielder]]
+|         currentclub = [[SK Dynamo České Budějovice|České Budějovice]]
+|          clubnumber = 20
+|  youthyears1 =
+|  youthclubs1 =
+| years1 =  2005
+| years2 =  2009–2010 
+| years3 =  2010–
+| years4 =  2011–2013
+| years5 =  2013–2017
+| years6 =  2017–
+| clubs1 =  [[1. FK Příbram|Marila Příbram]]
+| clubs2 =  [[FC Hlučín|Hlučín]]
+| clubs3 =  [[FK Spartak MAS Sezimovo Ústí|Sezimovo Ústí]] 
+| clubs4 =  → [[SK Dynamo České Budějovice|České Budějovice]] (loan)
+| clubs5 =  [[FK MAS Táborsko|Táborsko]] 
+| clubs6 =  [[SK Dynamo České Budějovice|České Budějovice]] 
+| caps1 = 7      
+| caps2 = 30
+| caps3 = 63
+| caps4 = 44
+| caps5 = 93
+| caps6 = 15
+| goals1 = 0
+| goals2 = 2
+| goals3 = 13
+| goals4 = 2
+| goals5 = 16
+| goals6 = 1
+| club-update = {{date|01-03-2018}}
+}}
+'''Petr Javorek''' (born 2 September 1986) is a professional [[Czech Republic|Czech]] [[association football|football]] player.
+
+==References==
+* {{Fotbal DNES|id=3004863}}
+* {{Soccerway|petr-javorek/87292}}
+* [http://guardian.touch-line.com/StatsCentre.asp?Lang=0&CTID=27&CPID=89&pStr=Player&PLID=190459&TEID=934 Guardian Football]
+
+{{Use dmy dates|date=January 2011}}
+
+{{DEFAULTSORT:Javorek, Petr}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:Czech footballers]]
+[[Category:Czech First League players]]
+[[Category:1. FK Příbram players]]
+[[Category:FC Hlučín players]]
+[[Category:FC MAS Táborsko players]]
+[[Category:SK Dynamo České Budějovice players]]
+
+{{CzechRepublic-footy-midfielder-stub}}
+[[Category:Association football midfielders]]
+[[Category:Czech National Football League players]]

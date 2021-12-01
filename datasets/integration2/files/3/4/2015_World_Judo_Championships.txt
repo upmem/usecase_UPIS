@@ -1,0 +1,226 @@
+{{short description|Judo competition}}
+{{Infobox sports competition event
+|competition    = 2015 World Judo Championships
+|image          = 
+|dates          = 24–30 August 2015
+|competitors    = 729
+|nations        = 120
+|venue          = [[Alau Ice Palace]]
+|location       = [[Astana]], [[Kazakhstan]]
+|prev           = [[2014 World Judo Championships|2014]]
+|next           = [[2017 World Judo Championships|2017]]
+}}
+{{2015JudoWorldChampionships}}
+The '''2015 [[World Judo Championships]]''' were held in [[Astana]], [[Kazakhstan]], from 24–30 August 2015. The competition was held at the [[Alau Ice Palace]].<ref>{{cite web|url=http://www.intjudo.eu/News/cikk2637|title=2015 World Championships signed for Astana, Kazakhstan|date=28 September 2013|work=intjudo.eu|access-date=17 December 2014|archive-url=https://web.archive.org/web/20141220064737/http://www.intjudo.eu/News/cikk2637|archive-date=20 December 2014|url-status=dead|df=dmy-all}}</ref><ref>{{cite web|url=http://www.insidethegames.biz/articles/1016238/astana-awarded-2015-world-judo-championships|title=Astana awarded 2015 World Judo Championships|date=29 September 2013|work=insidethegames.biz}}</ref><ref>{{cite web|url=http://www.britishjudo.org.uk/news/the-alau-ice-palace-rings-up-the-curtain-for-the-2015-world-judo-championships|title=The Alau Ice Palace rings up the curtain for the 2015 World Judo Championships|date=23 August 2015|work=britishjudo.org.uk}}</ref>
+
+==Schedule==
+''All times are local ([[Time in Kazakhstan|UTC+6]]).''<ref>{{Cite web |url=http://www.intjudo.eu/upload/2015_06/24/143514528456764480/2015_wc_astana_v05.05.2015.pdf |title=Schedule |access-date=2015-07-21 |archive-url=https://web.archive.org/web/20150722062028/http://www.intjudo.eu/upload/2015_06/24/143514528456764480/2015_wc_astana_v05.05.2015.pdf |archive-date=2015-07-22 |url-status=dead }}</ref>
+
+{| class="wikitable"
+|-
+! Event Date !! Starting Time !! Event Details
+|-
+| rowspan=2|24 August || rowspan=2|11:00 || Men −60&nbsp;kg
+|-
+| Women −48&nbsp;kg
+|-
+| rowspan=2|25 August || rowspan=2|11:00 || Men −66&nbsp;kg
+|-
+| Women −52&nbsp;kg
+|-
+| rowspan=2|26 August || rowspan=2|11:00 || Men −73&nbsp;kg
+|-
+| Women −57&nbsp;kg
+|-
+| rowspan=2|27 August || rowspan=2|11:00 || Men −81&nbsp;kg
+|-
+| Women −63&nbsp;kg
+|-
+| rowspan=3|28 August || rowspan=3|11:00 || Men −90&nbsp;kg
+|-
+| Women −70&nbsp;kg
+|-
+| Women −78&nbsp;kg
+|-
+| rowspan=3|29 August || rowspan=3|11:00 || Men −100&nbsp;kg
+|-
+| Men +100&nbsp;kg
+|-
+| Women +78&nbsp;kg
+|-
+| rowspan=2|30 August || rowspan=2|10:00 || Men team
+|-
+| Women team
+|}
+
+==Medal summary==
+===Medal table===
+{{Medals table
+ | caption        = 
+ | host           = KAZ
+ | flag_template  = 
+ | event          = 
+ | team           = 
+ | gold_JPN = 8 | silver_JPN = 4 | bronze_JPN = 5
+ | gold_FRA = 2 | silver_FRA = 2 | bronze_FRA = 2
+ | gold_KOR = 2 | silver_KOR = 1 | bronze_KOR = 3
+ | gold_KAZ = 1 | silver_KAZ = 1 | bronze_KAZ = 0 | host_KAZ = yes 
+ | gold_SLO = 1 | silver_SLO = 1 | bronze_SLO = 0
+ | gold_ARG = 1 | silver_ARG = 0 | bronze_ARG = 0
+ | gold_CHN = 1 | silver_CHN = 0 | bronze_CHN = 0
+ | gold_RUS = 0 | silver_RUS = 2 | bronze_RUS = 1
+ | gold_ROU = 0 | silver_ROU = 2 | bronze_ROU = 0
+ | gold_GER = 0 | silver_GER = 1 | bronze_GER = 3
+ | gold_POL = 0 | silver_POL = 1 | bronze_POL = 0
+ | gold_ESP = 0 | silver_ESP = 1 | bronze_ESP = 0
+ | gold_MGL = 0 | silver_MGL = 0 | bronze_MGL = 4
+ | gold_GEO = 0 | silver_GEO = 0 | bronze_GEO = 3
+ | gold_BRA = 0 | silver_BRA = 0 | bronze_BRA = 2
+ | gold_BLR = 0 | silver_BLR = 0 | bronze_BLR = 1
+ | gold_BEL = 0 | silver_BEL = 0 | bronze_BEL = 1
+ | gold_CAN = 0 | silver_CAN = 0 | bronze_CAN = 1
+ | gold_COL = 0 | silver_COL = 0 | bronze_COL = 1
+ | gold_CUB = 0 | silver_CUB = 0 | bronze_CUB = 1
+ | gold_ISR = 0 | silver_ISR = 0 | bronze_ISR = 1
+ | gold_NED = 0 | silver_NED = 0 | bronze_NED = 1
+ | gold_UKR = 0 | silver_UKR = 0 | bronze_UKR = 1
+ | gold_UZB = 0 | silver_UZB = 0 | bronze_UZB = 1
+}}
+
+===Men's events===
+{| {{MedalistTable|type=Event|labelwidth=180}}
+|-
+|rowspan=2|Extra-lightweight (60&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-60&sprache=english Men's 60 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Men's 60 kg}}
+|rowspan=2|{{flagmedalist|[[Yeldos Smetov]]|KAZ}}
+|rowspan=2|{{flagmedalist|[[Rustam Ibrayev]]|KAZ}}
+|{{flagmedalist|[[Toru Shishime]]|JPN}}
+|-
+|{{flagmedalist|[[Kim Won-jin (judoka)|Kim Won-jin]]|KOR}}
+|-
+|rowspan=2|Half-lightweight (66&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-66&sprache=english Men's 66 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Men's 66 kg}}
+|rowspan=2|{{flagmedalist|[[An Ba-ul]]|KOR}}
+|rowspan=2|{{flagmedalist|[[Mikhail Pulyaev]]|RUS}}
+|{{flagmedalist|[[Golan Pollack]]|ISR}}
+|-
+|{{flagmedalist|[[Rishod Sobirov]]|UZB}}
+|-
+|rowspan=2|Lightweight (73&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-73&sprache=english Men's 73 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Men's 73 kg}}
+|rowspan=2|{{flagmedalist|[[Shohei Ono]]|JPN}}
+|rowspan=2|{{flagmedalist|[[Riki Nakaya]]|JPN}}
+|{{flagmedalist|[[Sainjargalyn Nyam-Ochir]]|MGL}}
+|-
+|{{flagmedalist|[[An Chang-rim]]|KOR}}
+|-
+|rowspan=2|Half-middleweight (81&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-81&sprache=english Men's 81 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Men's 81 kg}}
+|rowspan=2|{{flagmedalist|[[Takanori Nagase]]|JPN}}
+|rowspan=2|{{flagmedalist|[[Loïc Pietri]]|FRA}}
+|{{flagmedalist|[[Antoine Valois-Fortier]]|CAN}}
+|-
+|{{flagmedalist|[[Victor Penalber]]|BRA}}
+|-
+|rowspan=2|Middleweight (90&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-90&sprache=english Men's 90 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Men's 90 kg}}
+|rowspan=2|{{flagmedalist|[[Gwak Dong-han]]|KOR}}
+|rowspan=2|{{flagmedalist|[[Kirill Denisov]]|RUS}}
+|{{flagmedalist|[[Varlam Liparteliani]]|GEO}}
+|-
+|{{flagmedalist|[[Mashu Baker]]|JPN}}
+|-
+|rowspan=2|Half-heavyweight (100&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-100&sprache=english Men's 100 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Men's 100 kg}}
+|rowspan=2|{{flagmedalist|[[Ryunosuke Haga]]|JPN}}
+|rowspan=2|{{flagmedalist|[[Karl-Richard Frey]]|GER}}
+|{{flagmedalist|[[Toma Nikiforov]]|BEL}}
+|-
+|{{flagmedalist|[[Dimitri Peters]]|GER}}
+|-
+|rowspan=2|Heavyweight (+100&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=p100&sprache=english Men's +100 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Men's +100 kg}}
+|rowspan=2|{{flagmedalist|[[Teddy Riner]]|FRA}}
+|rowspan=2|{{flagmedalist|[[Ryu Shichinohe]]|JPN}}
+|{{flagmedalist|[[Adam Okruashvili]]|GEO}}
+|-
+|{{flagmedalist|[[Iakiv Khammo]]|UKR}}
+|-
+|rowspan=2|Team<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen_teams2015/tta.php?tta_mode=team&aktion=pdf_sheet&klasse=m&sprache=english Men's team results]</ref><br>{{DetailsLink|2015 World Judo Championships – Men's team}}
+|rowspan=2|{{JPN}}
+|rowspan=2|{{KOR}}
+|{{GEO}}
+|-
+|{{MGL}}
+|}
+
+===Women's events===
+{| {{MedalistTable|type=Event|labelwidth=180}}
+|-
+|rowspan=2|Extra-lightweight (48&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-48&sprache=english Women's 48 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Women's 48 kg}}
+|rowspan=2|{{flagmedalist|[[Paula Pareto]]|ARG}}
+|rowspan=2|{{flagmedalist|[[Haruna Asami]]|JPN}}
+|{{flagmedalist|[[Jeong Bo-kyeong]]|KOR}}
+|-
+|{{flagmedalist|[[Ami Kondo]]|JPN}}
+|-
+|rowspan=2|Half-lightweight (52&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-52&sprache=english Women's 52 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Women's 52 kg}}
+|rowspan=2|{{flagmedalist|[[Misato Nakamura]]|JPN}}
+|rowspan=2|{{flagmedalist|[[Andreea Chițu]]|ROU}}
+|{{flagmedalist|[[Érika Miranda]]|BRA}}
+|-
+|{{flagmedalist|[[Darya Skrypnik]]|BLR}}
+|-
+|rowspan=2|Lightweight (57&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-57&sprache=english Women's 57 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Women's 57 kg}}
+|rowspan=2|{{flagmedalist|[[Kaori Matsumoto]]|JPN}}
+|rowspan=2|{{flagmedalist|[[Corina Căprioriu]]|ROU}}
+|{{flagmedalist|[[Automne Pavia]]|FRA}}
+|-
+|{{flagmedalist|[[Dorjsürengiin Sumiyaa]]|MGL}}
+|-
+|rowspan=2|Half-middleweight (63&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-63&sprache=english Women's 63 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Women's 63 kg}}
+|rowspan=2|{{flagmedalist|[[Tina Trstenjak]]|SLO}}
+|rowspan=2|{{flagmedalist|[[Clarisse Agbegnenou]]|FRA}}
+|{{flagmedalist|{{nowrap|[[Tsedevsürengiin Mönkhzayaa]]}}|MGL}}
+|-
+|{{flagmedalist|[[Miku Tashiro]]|JPN}}
+|-
+|rowspan=2|Middleweight (70&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-70&sprache=english Women's 70 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Women's 70 kg}}
+|rowspan=2|{{flagmedalist|[[Gévrise Émane]]|FRA}}
+|rowspan=2|{{flagmedalist|[[María Bernabéu]]|ESP}}
+|{{flagmedalist|[[Fanny Posvite]]|FRA}}
+|-
+|{{flagmedalist|[[Yuri Alvear]]|COL}}
+|-
+|rowspan=2|Half-heavyweight (78&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=-78&sprache=english Women's 78 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Women's 78 kg}}
+|rowspan=2|{{flagmedalist|[[Mami Umeki]]|JPN}}
+|rowspan=2|{{flagmedalist|[[Anamari Velenšek]]|SLO}}
+|{{flagmedalist|[[Luise Malzahn]]|GER}}
+|-
+|{{flagmedalist|[[Marhinde Verkerk]]|NED}}
+|-
+|rowspan=2|Heavyweight (+78&nbsp;kg)<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen2015/tta.php?tta_mode=&aktion=pdf_sheet&klasse=p78&sprache=english Women's +78 kg results]</ref><br>{{DetailsLink|2015 World Judo Championships – Women's +78 kg}}
+|rowspan=2|{{flagmedalist|[[Yu Song (judoka)|Yu Song]]|CHN}}
+|rowspan=2|{{flagmedalist|[[Megumi Tachimoto]]|JPN}}
+|{{flagmedalist|[[Kanae Yamabe]]|JPN}}
+|-
+|{{flagmedalist|[[Idalys Ortiz]]|CUB}}
+|-
+|rowspan=2|Team<ref>[http://judolive01.lb.judobase.org/www.judo-world.net/ijf/world/wc_sen_teams2015/tta.php?tta_mode=team&aktion=pdf_sheet&klasse=w&sprache=english Women's team results]</ref><br>{{DetailsLink|2015 World Judo Championships – Women's team}}
+|rowspan=2|{{JPN}}
+|rowspan=2|{{POL}}
+|{{GER}}
+|-
+|{{RUS}}
+|}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[https://web.archive.org/web/20141217180539/http://worldjudo2015.kz/en Official website]
+*[http://www.ijf.org International Judo Federation]
+
+{{WC Judo}}
+{{World championships in 2015}}
+
+[[Category:2015 World Judo Championships| ]]
+[[Category:World Judo Championships|2015]]
+[[Category:2015 in judo|World Judo Championships]]
+[[Category:2015 in Kazakhstani sport|World Judo Championships]]
+[[Category:Sport in Nur-Sultan|2015 World Judo Championships]]
+[[Category:International sports competitions hosted by Kazakhstan|2015 World Judo Championships]]
+[[Category:Judo in Kazakhstan]]

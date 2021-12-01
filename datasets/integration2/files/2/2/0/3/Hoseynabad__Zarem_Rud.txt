@@ -1,0 +1,47 @@
+{{Infobox settlement
+|official_name =Hoseynabad
+|native_name =حسين آباد
+|settlement_type        = village
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name = {{flag|Iran}}
+|subdivision_type1 =[[Provinces of Iran|Province]]
+|subdivision_name1 =[[Mazandaran Province|Mazandaran]]
+|subdivision_type2 =[[Counties of Iran|County]]
+|subdivision_name2 = [[Neka County|Neka]]
+|subdivision_type3 =[[Bakhsh]]
+|subdivision_name3 =[[Hezarjarib District|Hezarjarib]]
+|subdivision_type4 =[[Rural Districts of Iran|Rural District]]
+|subdivision_name4 =[[Zarem Rud Rural District|Zarem Rud]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2006
+|population_total =24
+|population_density_km2   =auto
+|timezone               = [[Iran Standard Time|IRST]]
+|utc_offset             = +3:30
+|timezone_DST           = [[Iran Daylight Time|IRDT]]
+|utc_offset_DST         = +4:30
+|coordinates            = 
+|elevation_m            = 
+|area_code              = 
+|website                = 
+|footnotes              =
+}}{{For|other places with similar names|Hoseynabad (disambiguation){{!}}Hoseynabad}}'''Hoseynabad''' ({{lang-fa|حسين آباد}}, also [[Romanize]]d as '''Ḩoseynābād''') is a village in [[Zarem Rud Rural District]], [[Hezarjarib District]], [[Neka County]], [[Mazandaran Province]], [[Iran]]. At the 2006 census, its population was 24, in 8 families.<ref>{{IranCensus2006|02}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Neka County}}
+
+{{coord missing|Mazandaran Province}}
+
+{{Portal|Iran}}
+
+[[Category:Populated places in Neka County]]
+
+
+{{Neka-geo-stub}}

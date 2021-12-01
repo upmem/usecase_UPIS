@@ -1,0 +1,24 @@
+'''Sonna of Britonia''' (? - 646 - ?) was a medieval [[Britonia]]n priest in [[Galicia (Spain)|Galicia]] who signed at the Seventh Council of Toledo.<ref>[[The Catholic Encyclopedia]] 1913 - Some authorities have sought to fix the date of the foundation of this diocese (under its primitive name of Britonia) earlier than the second half of the ... Sonna, his successor, was one of the bishops who signed at the Seventh Council of Toledo ..</ref>
+
+{{s-start}}
+{{s-rel|ca}}
+{{succession box | title=[[Britonia|Bishop of Britonia]] | before=[[Metopius]] | after=[[Susa of Britonia]] | years= ?-&ndash;646-? }}
+{{s-end}}
+
+==References==
+{{reflist}}
+
+== External links ==
+
+* {{in lang|es}} [http://www.mondonedoferrol.org/ Official web site of the Diocese of Mondoñedo-Ferrol]
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Sonna Of Britonia}}
+[[Category:Galician clergy]]
+[[Category:7th-century bishops]]
+
+
+{{Galicia-bio-stub}}
+{{Spain-RC-bishop-stub}}

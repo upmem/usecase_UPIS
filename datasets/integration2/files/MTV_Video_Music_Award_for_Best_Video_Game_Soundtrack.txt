@@ -1,0 +1,39 @@
+{{Unreferenced|date=December 2009}}
+The '''MTV Video Music Award for Best Video Game Soundtrack''' was awarded from 2004 to 2006 as an attempt by MTV to tap into the video gaming community in order to gain greater audiences for its VMAs.  When the [[MTV Video Music Awards]] were revamped in 2007, this award was eliminated and never brought back.
+
+==Recipients==
+{| class="wikitable"
+! Year !! Winner !! Other nominees
+|-
+|{{Mtvvma|2004}}
+|''[[Tony Hawk's Underground]]'' ([[Activision]])
+|
+* <small>''[[Madden NFL 2004]]'' ([[Electronic Arts]])</small>
+* <small>''[[Need for Speed: Underground]]'' ([[Electronic Arts]])</small>
+* <small>''[[SSX 3]]'' ([[Electronic Arts]])</small>
+* <small>''[[True Crime: Streets of LA]]'' ([[Activision]])</small>
+|-
+|{{Mtvvma|2005}}
+|''[[Dance Dance Revolution Extreme (North America)|Dance Dance Revolution Extreme]]'' ([[Konami]])
+|
+* <small>''[[Def Jam: Fight for NY]]'' ([[Electronic Arts]])</small>
+* <small>''[[Madden NFL 2005]]'' ([[Electronic Arts]])</small>
+* <small>''[[Midnight Club 3: DUB Edition]]'' ([[Rockstar Games]])</small>
+* <small>''[[Tony Hawk's Underground 2]]'' ([[Activision]])</small>
+|-
+|{{Mtvvma|2006}}
+|''[[Marc Eckō's Getting Up: Contents Under Pressure]]'' ([[Atari]])
+|
+* <small>''[[Burnout Revenge]]'' ([[Electronic Arts]])</small>
+* <small>''[[Driver: Parallel Lines]]'' ([[Atari]])</small>
+* <small>''[[Fight Night Round 3]]'' ([[Electronic Arts]])</small>
+* <small>''[[NBA 2K6]]"'' ([[2K Games]])</small>
+|}
+
+{{MTV Video Music Awards}}
+
+{{DEFAULTSORT:Mtv Video Music Award For Best Video Game Soundtrack}}
+[[Category:MTV Video Music Awards]]
+[[Category:Music video awards]]
+[[Category:Awards established in 2004]]
+[[Category:Awards disestablished in 2006]]

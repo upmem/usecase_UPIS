@@ -1,0 +1,14 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = This image is of the album cover of the single version of [[Goodbye Horses]] by [[Q Lazzarus]].
+|Source = www.psyche-hq.de/goodbye-horses/
+|Author = Q Lazzarus, William Garvey
+|Article = Goodbye Horses
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = The image will only be used to show the album cover on the [[Goodbye Horses]] page, and will not be used for commercial purposes.
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free album cover|image has rationale=yes}}

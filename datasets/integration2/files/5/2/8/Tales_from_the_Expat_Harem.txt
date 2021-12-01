@@ -1,0 +1,87 @@
+{{multiple issues|
+{{over-coverage|date=July 2014}}
+{{COI|date=July 2014}}
+}}
+
+{{Infobox book
+| name          = Tales from the Expat Harem: Foreign Women in Modern Turkey
+| title_orig    = 
+| translator    = 
+| image         = 
+| caption = Fourth Turkish edition cover
+| author        = [[Anastasia M. Ashman]] and [[Jennifer Eaton Gökmen]]
+| illustrator   = 
+| cover_artist  = 
+| country       = United States & [[Turkey]]
+| language      = English & [[Turkish language|Turkish]]
+| series        = 
+| subject       = [[Travel]]
+| genre         = [[Non-fiction]]
+| publisher     = [[Seal Press]] & [[Doğan Kitap]]
+| release_date  = 2006
+| english_release_date =
+| media_type    = Print ([[Hardcover|Hardback]])
+| pages         = 
+| isbn =  975-293-381-5
+| dewey= 956.104/086/91 22
+| congress= DR432 .T29 2006
+| oclc= 61285623
+| preceded_by   = 
+| followed_by   = 
+}}
+
+'''''Tales from the Expat Harem: Foreign Women in Modern Turkey '''''({{lang-tr|Türkçe Sevmek}}) is a nonfiction anthology by 32 [[expatriate]] women about their lives in modern [[Turkey]], published by [[Seal Press]] in North America (2006, {{ISBN|1-58005-155-3}}) and [[Doğan Kitap]] in Turkey (2005, {{ISBN|975-293-381-5}} Turkish edition, {{ISBN|975-293-372-6}} English edition).
+
+Edited by [[Anastasia M. Ashman]] and [[Jennifer Eaton Gökmen]], two American writers based in [[Istanbul]], it was an English language #1 national bestseller in Turkey in January 2006{{citation needed|date=July 2014}}. Its Turkish edition, '''''Türkçe Sevmek: Türkiye'de Yaşayan Yabancı Kadınların Gözüyle Türkler''''', contains a foreword written by the Turkish novelist [[Elif Shafak]].
+
+In May 2008, the book and its editors were featured on [[NBC|NBC's]] ''[[Today (NBC program)|Today]]'', on its occasional travel segment ''[[Where in the World is Matt Lauer?]]''<ref>[http://today.msnbc.msn.com/id/21134540/vp/24404193#24404193 NBC News]{{dead link|date=November 2019|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+==Contributing writers==
+{|
+|-
+|Amanda Coffin ||  Erica Kaya ||  Nancy Lunsford
+|-
+|Ana Carolina Fletes ||  Eveline Zoutendijk||  Natalie Baker
+|-
+|[[Anastasia M. Ashman]] || [[Jennifer Eaton Gokmen]] ||  Pat Yale
+|-
+|Annie Prior Ozsarac ||  Jessica Lutz  ||  Rhonda Vander Sluis
+|-
+|Catherine Salter Bayar ||  Karen-Claire Voss ||  Sally Green
+|-
+|Catherine Yigit ||  Katherine Belliel ||  Susan Fleming Holm
+|-
+|Claire Uhr ||  Kathleen Hamilton Gundogdu ||  Tanala OsaYande
+|-
+|Dana Gonzalez ||  Louise Ruskin ||  Trici Venola
+|-
+|Dena Sukaya||  Mahira Afridi-Perese ||  Valerie Tasiran 
+|-
+|Diane Caldwell ||  Maria Yarbrough Orhon ||  [[Wendy J. Fox]]
+|-
+|Eppie Lunsford  ||  Maureen Basedow
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+*[http://www.expatharem.com/ Official Website]
+
+[[Category:2006 non-fiction books]]
+[[Category:Turkish autobiographies]]
+[[Category:Essay collections]]
+[[Category:Travel books]]
+[[Category:Autobiographies]]
+[[Category:Anthropology books]]
+[[Category:Harem]]
+[[Category:Ethnographic literature]]
+[[Category:Sociology books]]
+[[Category:Gender studies books]]
+[[Category:Feminist books]]
+[[Category:Arts in Turkey]]
+[[Category:Turkish literature]]
+[[Category:Turkish society]]
+[[Category:Tourism in Turkey]]
+[[Category:Culture in Istanbul]]
+[[Category:Books about Turkey]]

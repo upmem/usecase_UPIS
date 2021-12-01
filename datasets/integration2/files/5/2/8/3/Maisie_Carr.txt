@@ -1,0 +1,128 @@
+{{short description|Australian ecologist}}
+{{Infobox scientist
+| name        = Maisie Carr
+| image       = Maisie Carr (nee Fawcett), 1944.JPG
+| imagesize   = 
+| alt         = 
+| caption     = Maisie Carr (''née'' Fawcett), 1944
+| birth_date  = {{birth date|1912|02|26|df=y}}
+| birth_place = [[Footscray, Victoria]]
+| death_date  = {{death date and age|1988|09|09|1912|02|26|df=y}}
+| death_place = [[Canberra]]
+| death_cause = 
+| resting_place = Gungahlin Cemetery
+| resting_place_coordinates =  <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence   = 
+| citizenship = 
+| nationality = 
+| fields      = [[Botany]], [[ecology]]
+| workplaces  = [[University of Melbourne]]
+| patrons     =
+| alma_mater  = University of Melbourne
+| thesis_title =  <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url  =   <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year =   <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for   = 
+| influences  = 
+| influenced  = 
+| awards      = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse      = Denis John Carr
+| partner     =   <!--(or | partners = )-->
+| children    = 
+| signature   =   <!--(filename only)-->
+| signature_alt = 
+| website     =   <!--{{URL|www.example.com}}-->
+| footnotes   = 
+}}
+
+'''Maisie Carr''' (''née'' '''Fawcett'''; 1912–1988) was an innovative Australian ecologist and botanist who contributed much to our understanding of the uniqueness of [[Flora of Australia|Australian plants]] and their environmental systems.<ref name=dcarr>{{Citation | author=Denis John Carr, 1915- | title=A book for Maisie : celebrating the life and work of S.G.M. Carr née Fawcett, pioneer Australian alpine ecologist, 1912-88 | date=2005 | publisher=D.J. Carr | isbn=978-0-646-45596-9 }}</ref>
+
+==Foundation years ==
+[[File:Melbourne-High-School-2006.jpg|thumb|Melbourne High School, 2006]]
+Maisie Carr was born Stella Grace Maisie Fawcett in [[Footscray, Victoria|Footscray]], Melbourne. Neither of her parents had a science background but her love of plants was likely fostered by visits to nearby salt-marshes, her grandmother's garden and in nature study classes.
+
+Maisie (as she was always known) attended Footscray's Hyde Street State School where she was first in her class<ref>{{cite news |url=http://nla.gov.au/nla.news-article75071449 |title=HYDE STREET SCHOOL CUMING PRIZE LIST. |newspaper=[[Independent (Footscray)|Independent]] |location=Footscray, Vic. |date=16 December 1922 |accessdate=27 August 2014 |page=3 |publisher=National Library of Australia}}</ref> and Dux in 1924 and then attended [[Melbourne High School]]. Her diligence was evident at an early age; in 1920 she won £2 in a competition for finding the largest number (87) of Australian postal towns within the letters of ''AUSTRALBA TOOTH PASTE'' (the sponsor of the competition).<ref>{{cite news |url=http://nla.gov.au/nla.news-article4577580 |title=Classified Advertising. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Melbourne |date=15 October 1920 |accessdate=27 August 2014 |page=12 |publisher=National Library of Australia}}</ref>
+
+After graduation she returned to her old primary school as a junior teacher while at night studying zoology and geology at Austral Coaching College.<ref name=adb>{{cite book|last1=Gillbank|first1=Linden|title=Carr, Stella Grace Maisie (1912-1988)1|chapter-url=http://adb.anu.edu.au/biography/carr-stella-grace-maisie-201|website=Australian Dictionary of Biography|chapter=Carr, Stella Grace Maisie (1912–1988)|publisher=National Centre of Biography, Australian National University}}</ref>   Maisie attended [[University of Melbourne]] (on a Teachers' College secondary studentship) being awarded B.Sc.,1935 and M.Sc. in Botany, 1936.<ref name=adb/><ref>{{cite news |url=http://nla.gov.au/nla.news-article11025623 |title=UNIVERSITY EXAMINATIONS. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Melbourne |date=4 April 1936 |accessdate=27 August 2014 |page=19 |publisher=National Library of Australia}}</ref>
+
+Maisie's academic abilities won her a number of scholarships. In March 1935, she was awarded the Howitt natural history scholarship, established from a bequest of entomologist [[Godfrey Howitt]].<ref>{{cite news |url=http://nla.gov.au/nla.news-article12221167 |title=UNIVERSITY OF MELBOURNE. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Melbourne |date=20 March 1935 |accessdate=27 August 2014 |page=5 |publisher=National Library of Australia}}</ref><ref>{{cite web|title=UTR6.6 – THE HOWITT NATURAL HISTORY SCHOLARSHIPS|url=http://www.unimelb.edu.au/unisec/utr/pdf/utr6006.pdf|publisher=[[University of Melbourne]]|accessdate=27 August 2014|archive-url=https://web.archive.org/web/20140214235137/http://unimelb.edu.au/unisec/utr/pdf/utr6006.pdf|archive-date=14 February 2014|url-status=dead}}</ref>
+
+In December 1936, Maisie was awarded the Wyselaskie Scholarship, established by [[John Dickson Wyselaskie]] in 1883.<ref>{{cite news |url=http://nla.gov.au/nla.news-article11943338 |title=HARMONY NEEDED. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Melbourne |date=3 December 1936 |accessdate=27 August 2014 |page=14 |publisher=National Library of Australia}}</ref><ref>{{cite web|title=UTR 6.7 - WYSELASKIE SCHOLARSHIPS|url=http://www.unimelb.edu.au/unisec/utr/pdf/utr6007.pdf|publisher=[[University of Melbourne]]|accessdate=27 August 2014|archive-url=https://web.archive.org/web/20140214235141/http://unimelb.edu.au/unisec/utr/pdf/utr6007.pdf|archive-date=14 February 2014|url-status=dead}}</ref>
+
+In April 1937, Maisie was awarded the Caroline Kay scholarship in Botany; the scholarship was established by the Reverend David Kay in memory of his daughter Caroline.<ref>{{cite news |url=http://nla.gov.au/nla.news-article11060313 |title=UNIVERSITY CLASS LISTS. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Melbourne |date=29 April 1937 |accessdate=27 August 2014 |page=9 |publisher=National Library of Australia}}</ref><ref>{{cite web|title=UTR6.20 - CAROLINE KAY'S SCHOLARSHIPS|url=http://www.unimelb.edu.au/unisec/utr/pdf/utr6020.pdf|publisher=[[University of Melbourne]]|accessdate=27 August 2014|archive-url=https://web.archive.org/web/20140214235225/http://unimelb.edu.au/unisec/utr/pdf/utr6020.pdf|archive-date=14 February 2014|url-status=dead}}</ref>
+
+==Major research interests ==
+
+=== Ecology of Australian Alps ===
+[[File:Maisie Carr on a horse, Bogong High Plains, 1949.JPG|thumb|Maisie Carr on her horse "Sheila", Bogong High Plains, 1949]]
+Although her initial research activities focused on [[coral fungi]], she studied fungal and [[nematode]] diseases of plants as well. As a student, attending field-trips with the McCoy Society for Field Investigation and Research<ref name=adb/> proved to be a harbinger for decades of her subsequent professional life. In 1936, Maisie participated in one of the society's expeditions to [[Sir Joseph Banks Islands]] in the [[Spencer Gulf]] of [[South Australia]] to undertake a full scientific survey of the islands.<ref>{{cite news |url=http://nla.gov.au/nla.news-article132039783 |title=Young Scientists Leave Tonight to Begin Island Survey. |newspaper=[[The News (Adelaide)|The News]] |location=Adelaide |date=3 December 1936 |accessdate=27 August 2014 |page=3 |publisher=National Library of Australia}}</ref>
+
+In 1940, Maisie was appointed the secretary of the committee to award the Isabella D. Marshall scholarship to enable a female student to live away from home in order to study at the [[University of Melbourne]]. Miss Marshall was the mistress of method of English in the School of Education at the University of Melbourne until her death in 1938. Miss Marshalls friends raised £500 to fund the scholarship.<ref>{{cite news |url=http://nla.gov.au/nla.news-article11299968 |title=UNIVERSITY SCHOLARSHIP. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Melbourne |date=24 October 1940 |accessdate=27 August 2014 |page=8 |publisher=National Library of Australia}}</ref><ref>{{cite news |url=http://nla.gov.au/nla.news-article12465061 |title=Miss Isabella Marshall. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Melbourne |date=12 August 1938 |accessdate=27 August 2014 |page=10 |publisher=National Library of Australia}}</ref>
+ 
+From 1941 onward, Maisie conducted extensive innovative ecology research in the [[Australian Alps|Australian alpine environment]] where extensive [[overgrazing|over-grazing]] by cattle and sheep was causing [[soil erosion]] and degradation of a delicate ecosystem. Permits to graze these high plains commenced in the late 1880s and the changes wrought by the hooved animals facilitated the arrival (in 1920s) of rabbits which caused further change.
+
+Additional motivation for the studies was prompted by the soil [[siltation]] threat to the soon to be constructed [[Kiewa Hydroelectric Scheme]]. Maisie was the first research officer of the Soil Conservation Board and was responsible for establishing exclusion fencing on reference plots in [[Bogong High Plains]]. Having excluded grazing from select high-plains plots (and not from adjacent plots), Maisie and team members recorded changes in regrowth vegetation (both type and density) over decades.
+
+In the early years, Maisie surveyed these plots via horseback on her own but over subsequent years with teams of participants (from department of botany, University of Melbourne), these plots have become the longest continuous series of ecological data-sites in Australia.<ref>{{cite news|title=Plots on the High Plains|work=The Age|date=8 Feb 1966}}</ref><ref name="cow">{{cite web |url=http://www.cowpaddock.com/report2.html |title=The Cow Paddock - a report to Parks Victoria |accessdate=5 June 2007 }}</ref>
+
+===Chronology of alpine ecology events===
+[[File:Bogonghighplainssummer.JPG|thumb|Bogong high plains in summer]]
+The sequence of significant events in alpine ecology and Maisie Carr's role is detailed below:<ref name=dcarr/>
+
+* 1944: Soil Conservation Board established – Maisie Carr Research Officer
+* 1945: Establishment of exclusion plots in Rocky Valley
+* 1946:  Establishment of exclusion plots in Pretty Valley<ref name=dcarr/>
+* 1947: Publication of Report on the Ecology of Hume Catchment
+* 1966: One of Maisie's final High Plains expeditions
+* 1968: Grazing gradually withdrawn from [[Kosciuszko National Park]]
+* 1991: Grazing phased out to 20% of Bogong High Plains
+* 2005: Grazing banned from Victorian [[Alpine National Park]]
+
+=== Eucalypt taxonomy ===
+
+While initiating foundation alpine ecology studies, Maisie became frustrated with the inadequacy of published floras and responded by preparing a botanical key.<ref>{{Citation | author1=University of Melbourne. School of Botany | title=The Families and genera of Victorian plants | date=1962 | publisher=The University | edition=4th | url=http://trove.nla.gov.au/work/8813070 | accessdate=14 August 2014 }}</ref> This has evolved into a teaching collection of 100-200 plant specimens from that region of north-east Victoria which is still in use for teaching and research field work purposes today.
+
+Much of this early taxonomy work was undertaken while she was employed at [[University of Melbourne]] (beginning in 1949) in the Botany Department headed at the time by Prof. J. S. Turner. In addition to her research interests, she lectured on [[plant taxonomy]] as well as ecology (to science and agricultural students) becoming a senior lecturer in that department three years later.
+
+Together with Professor John Stewart Turner she published academic reports of the results of the exclusion fencing experiments and more broadly the destructive impact of grazing on the ecology (of plant life as well as soil degradation) of the Victorian alpine region.<ref>{{cite journal|last1=Carr|first1=S J M|title=The Ecology of Bogong High Plains I|journal=Australian Journal of Botany|date=1959|volume=7|pages=12–33|doi=10.1071/bt9590012}}</ref><ref>{{cite journal|last1=Carr|first1=S G M|title=Fencing experiments on grassland|journal=Australian Journal of Botany|date=1959|volume=7|pages=34–63|doi=10.1071/bt9590034}}</ref>
+
+Maisie's interest in the taxonomy of Australian plants (particularly the [[Eucalyptus|''Genus Eucalyptus'']]) extended beyond the alpine species and this interest was fostered by her marriage (in 1955) to Denis John Carr, who was also an academic in the botany department at University of Melbourne. Their marriage was the start of decades of collaborative efforts studying [[plant morphology]] and taxonomy.  Their studies continued during academic appointments (of DJ Carr) in [[Belfast]] (1960-1967) and later back in Australia (in [[Canberra]], [[Australian National University]] from 1968) where Maisie was a visiting fellow. Their academic contributions together resulted in dozens of articles, often in highly specialist publications. 
+
+The couple was opposed to any splitting of the genus Eucalyptus into smaller groupings. They did, however, make significant contributions to descriptions of the morphology of eucalypts. Published phylogenetic analyses (based on DNA sequences and morphology) would later show that Eucalyptus was not a particularly uniform genus and that the classification needed to be revised. The current definitive electronic identification and information system covering 894 Australian eucalypts is EUCLID.<ref name=EUCLID>{{cite web|title=What is EUCLID?|url=http://www.anbg.gov.au/cpbr/cd-keys/euclid3/index.html|publisher=[[Australian National Botanic Gardens]]|accessdate=14 September 2014}}</ref>
+
+==Later life==
+Maisie was a chain smoker (of cigarettes) and developed chronic bronchitis. She was eventually hospitalized for this (and related conditions); she died on Friday 9 September 1988 in the [[Royal Canberra Hospital]].<ref>{{cite news |url=http://nla.gov.au/nla.news-article102069847 |title=Family Notices. |newspaper=[[The Canberra Times]] |date=11 September 1988 |accessdate=27 August 2014 |page=16 |publisher=National Library of Australia}}</ref> She was buried in Gungahlin cemetery on Tuesday 13 September 1988. Her husband Denis died on Saturday 19 July 2008 and was buried with Maisie on Monday 28 July 2008.<ref>{{cite web|title=Grave Search Results|url=http://www.canberracemeteries.com.au/grave-search|website=Canberra Cemeteries|publisher=ACT Public Cemeteries Authority|accessdate=10 September 2014}}</ref>
+
+==Legacy==
+
+The University of Melbourne has established a set of scholarships, called the Maisie Fawcett Scholarships, in her honour.<ref>{{cite web|title=Maisie Fawcett Scholarships|url=http://services.unimelb.edu.au/scholarships/grad/local/maisie|publisher=[[University of Melbourne]]|accessdate=27 August 2014|archive-url=https://web.archive.org/web/20140825124033/http://services.unimelb.edu.au/scholarships/grad/local/maisie|archive-date=25 August 2014|url-status=dead}}</ref>
+
+{{botanist|S.G.M.Carr|Carr, Maisie}}
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://oa.anu.edu.au/obituary/carr-stella-grace-maisie-201 An obituary of Maisie Carr, by ANU colleague Prof.Brian Gunning]
+*[http://www.abc.net.au/radionational/programs/hindsight/bogong-high-plains/5496604 Big Fella is Watching - change on the Bogong High Plains]
+* [http://www.anbg.gov.au/biography/carr-maisie.html photo of an elderly Maisie Carr]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Carr, Maisie}}
+[[Category:1912 births]]
+[[Category:1988 deaths]]
+[[Category:Australian women scientists]]
+[[Category:Australian ecologists]]
+[[Category:Scientists from Melbourne]]
+[[Category:University of Melbourne alumni]]
+[[Category:University of Melbourne women]]
+
+[[Category:20th-century Australian botanists]]
+[[Category:20th-century women scientists]]

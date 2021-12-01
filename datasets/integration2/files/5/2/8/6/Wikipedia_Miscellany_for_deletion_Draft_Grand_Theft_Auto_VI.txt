@@ -1,0 +1,16 @@
+
+{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Miscellany for deletion|{{mfd top collapse|1='''[[Wikipedia:Miscellany for deletion/Draft:Grand Theft Auto VI]]'''}}|}}<div class="boilerplate mfd vfd xfd-closed" style="background-color: #E3D2FB; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+__NOINDEX__
+:''The following discussion is an archived debate of the proposed deletion of the miscellaneous page below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the page's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--
+Note:  If you are seeing this page as a result of an attempt to nominate a miscellany page for deletion, you must manually edit the MfD nomination links to create a new discussion page using the name format of [[Wikipedia:Miscellany for deletion/NAMESPACE:PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result of the discussion was: '''delete''' .  &spades;[[User:Premeditated Chaos|PMC]]&spades; [[User_talk:Premeditated Chaos|(talk)]] 23:51, 21 April 2017 (UTC)
+====[[:Draft:Grand Theft Auto VI]]====
+:{{pagelinks|Draft:Grand Theft Auto VI}}
+Unannounced sequel. No known information, only assorted unreliable rumours. [[User talk:Reach Out to the Truth|Reach Out to the Truth]] 19:52, 13 April 2017 (UTC)
+
+*'''Delete''' under [[WP:RUMOUR]]. According to point 5 of the section, Wikipedia is not for product announcements and rumors about those products. --[[User:Rlin8|Rlin8]] ([[User talk:Rlin8|talk]]) 23:41, 20 April 2017 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the page's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page.</div>
+
+{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Miscellany for deletion|{{collapse bottom}}|}}

@@ -1,0 +1,122 @@
+{{about|the former [[Local government in Australia|local government area]]|the regional town|Gundagai, New South Wales}}
+{{Use dmy dates|date=September 2012}}
+{{Use Australian English|date=September 2012}}
+{{Infobox Australian place | type = lga
+| name     = Gundagai Shire 
+| image    = Gundagai LGA NSW.png
+| caption  = Location in NSW
+| state    = nsw
+| region   = [[Riverina]]
+| area     = 2457
+| seat     = [[Gundagai, New South Wales|Gundagai]]<ref name="dlg" >{{cite web |title=Gundagai Shire Council |publisher=[[New South Wales Department of Local Government|Department of Local Government]] |url=http://www.dlg.nsw.gov.au/dlg/dlghome/dlg_CouncilContactDetails.asp?slacode=3500 |accessdate=9 November 2006 }}</ref>
+| est      = {{start date|1924|01|01|df=y}}
+| abolished = {{end date|2016|05|12|df=y}}
+| coordinates = {{coord|35|04|S|148|07|E|region:AU-NSW_type:adm2nd|display=inline,title}}
+| pop      = 3747
+| pop_year = 2013 est
+| pop_footnotes =<ref>{{cite web|url=http://www.abs.gov.au/ausstats/subscriber.nsf/log?openagent&32180ds0003_2003-13.xls&3218.0&Data%20Cubes&811CDB2C6F0319E3CA257CAE000ECBD6&0&2012-13&03.04.2014&Latest|title=3218.0  Regional Population Growth, Australia. Table 1. Estimated Resident Population, Local Government Areas, New South Wales|date=3 April 2014|accessdate=11 September 2014}}</ref>
+| logo     = 
+| url      = www.gundagai.nsw.gov.au
+| mayor    = [[Councillor|Cr.]] Abb McAlister ([[Independent (politician)|Unaligned]])<ref name=mayor/>
+| fedgov   = [[Division of Riverina|Riverina]] 
+| stategov = [[Electoral district of Cootamundra|Cootamundra]] 
+| near-nw  = [[Junee Shire|Junee]] 
+| near-w   = [[City of Wagga Wagga|Wagga Wagga]] 
+| near-sw  = [[City of Wagga Wagga|Wagga Wagga]]
+| near-s   = [[Tumut Shire|Tumut]]
+| near-se  = [[Tumut Shire|Tumut]]
+| near-e   = [[Yass Valley Council|Yass Valley]]
+| near-ne  = [[Harden Shire|Harden]]
+| near-n   = [[Cootamundra Shire|Cootamundra]]}}
+'''Gundagai Shire''' was a [[Local government in Australia|local government area]] in the [[Riverina]] region of [[New South Wales]], Australia. On 12 May 2016, Gundagai Shire was abolished and merged with the neighbouring [[Cootamundra Shire]] to establish [[Gundagai Council]].<ref name="merger">{{cite web |url=https://www.strongercouncils.nsw.gov.au/new-councils/gundagai-council/ |title=Gundagai Council |publisher=New South Wales Government |accessdate=20 May 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160611155448/https://www.strongercouncils.nsw.gov.au/new-councils/gundagai-council/ |archive-date=11 June 2016 |df=dmy-all }}</ref>
+
+The Shire was located adjacent to the [[Hume Highway]].  Gundagai Shire is primarily rural, with a small population. 80% of the Shire's population live in the town of [[Gundagai, New South Wales|Gundagai]].  The four villages in the Shire were [[Coolac, New South Wales|Coolac]], [[Tumblong, New South Wales|Tumblong]], [[Muttama, New South Wales|Muttama]] and [[Nangus, New South Wales|Nangus]], with populations ranging from 40 to 90 people.
+
+The last [[Mayor]] of Gundagai Shire was [[Councillor|Cr.]] Abb McAlister, an [[Independent (politician)|unaligned]] politician.<ref name=mayor/>
+
+==History==
+Gundagai was declared a Municipality in [[1889 in Australia|1889]], and [[Adjungbilly Shire]] Council created in [[1906 in Australia|1906]] to administer the district. The Municipality of Gundagai and the Adjungbilly Shire were amalgamated on 1 January 1924 to form the Gundagai Shire Council, which was the administrative body of the area.<ref>{{Gazette NSW| title = Local Government Act 1919. Proclamation| issue = 156| page = 5875| date = 21 December 1923| url  = https://trove.nla.gov.au/newspaper/article/225145420 | access-date = 23 December 2019| via = National Library of Australia}}</ref>
+
+A [[Local government areas of New South Wales#Reviews of local government areas|2015 review of local government boundaries]] recommended that Gundagai Shire merge with adjoining councils. The [[Government of New South Wales|NSW Government]] considered two proposals. The first proposed a merger between the Gundagai and [[Cootamundra Shire|Cootamundra]] shires to form a new council with an area of {{convert|3981|km2}} and support a population of approximately {{formatnum:11500}}.<ref>{{cite web |url=https://dpc-olg-ss.s3.amazonaws.com/e066e55e34580b6248025f0d87bf4dc9/Cootamundra-Gundagai.pdf |title=Merger proposal: Cootamundra Council, Gundagai Shire Council |publisher=[[Government of New South Wales]] |date=January 2016 |accessdate=10 March 2016 |page=7 }}</ref> The alternative, proposed by [[Harden Shire]] on 28 February 2016, was for an amalgamation of the Cootamundra, Gundagai and Harden shires.<ref>{{cite web |url=https://dpc-olg-ss.s3.amazonaws.com/1456972721/assets/Uploads/COOTAMUNDRA-GUNDAGAI-HARDEN-SHIRE-COUNCILS.pdf |title=Fit For Future: Alternate Merger Proposal - Harden Shire Council |publisher=[[Government of New South Wales]] |date=28 February 2016 |accessdate=8 March 2016 |author=Harden Shire Council }}</ref> Following an independent review, on 12 May 2016 the [[Minister for Local Government (New South Wales)|Minister for Local Government]] announced the dissolution of the Cootamunda and Gundagai shires, with their area merging to establish the [[Gundagai Council]].<ref name="merger"/> After the merger was gazetted, opposition continued through a Facebook page.<ref>{{cite web |url=https://www.facebook.com/Save-Gundagai-Shire-675718309237964/timeline | title=Save Gundagai Shire |website=Facebook |accessdate=22 May 2016}}</ref>
+
+== Council ==
+[[File:Gundagai Shire Council Chambers.jpg|thumb|250px|Gundagai Shire Council Chambers]]
+
+In 1952 Gundagai Shire Council won a coveted A.R. Bluett Memorial Award for progress.<ref>{{cite news |work=The Sydney Morning Herald |date=25 August 1954 |page=14 |title=Councils Gey Awards For Progress |url=http://nla.gov.au/nla.news-article18436294? }}</ref>
+
+During 2011 Gundagai Shire Council was one of 110 state and local council authorities where employees were under investigation by the [[Independent Commission Against Corruption (New South Wales)|Independent Commission Against Corruption]] as part of Operation Jarek. It was claimed that employees of some state and local authorities had accepted benefits including gift cards and other items from companies in return for placing orders and continuing business relationships with these companies.<ref>{{cite book |publisher=Independent Commission Against Corruption, New South Wales |title=Public authorities – corruption allegations concerning acceptance of gifts and benefits; and alleged payment of fraudulent invoices (Operation Jarek) |url=http://www.icac.nsw.gov.au/investigations/current-investigations/investigationdetail/185 |year=2011 |accessdate=30 September 2012}}</ref>
+
+===Composition and election method===
+Gundagai Shire Council was composed of eight [[councillor]]s elected [[Single transferable vote|proportionally]] from a single [[Ward (country subdivision)|ward]]. All councillors were elected for fixed four-year terms of office. The mayor was elected by the councillors at the first meeting of the Council. The last election was held on 8 September 2012, and the makeup of the Council was as follows:<ref name="EC-C"/>
+
+{| class="wikitable"
+|-
+!colspan="2"|Party!!Councillors
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| [[Independent (politician)|Independents]] and Unaligned
+| align=right | 8
+|-
+|
+| '''Total'''
+| align=right | '''8'''
+|}
+
+The last Council, elected in 2012, in order of election, was:<ref name="EC-C">{{cite web |url=http://vtr.elections.nsw.gov.au/gundagai-shire-council/councillor |title=Gundagai Shire Council: Summary of First Preference and Group Votes for each Candidate |date=13 September 2012 |work=Local Government Elections 2012 |publisher=Electoral Commission of New South Wales |accessdate=30 September 2012 }}</ref>
+
+{| class="wikitable"
+|-
+!colspan="2"|Councillor!!Party!!Notes
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| Abb McAlister
+| Unaligned
+| Mayor<ref name=mayor>{{cite web |url=http://gundagai.local-e.nsw.gov.au/index.php?option=com_jentlacontent&view=category&id=2686&Itemid=3161 |title=Councillors |work=Council |publisher=Gundagai Shire Council |date=18 September 2012 |accessdate=30 September 2012 |archive-url=https://web.archive.org/web/20130409140135/http://gundagai.local-e.nsw.gov.au/index.php?option=com_jentlacontent&view=category&id=2686&Itemid=3161 |archive-date=9 April 2013 |url-status=dead }}</ref>
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| Ron Moses
+| Unaligned
+| 
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| Mike Kingwill
+| [[Independent (politician)|Independent]]
+| 
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| Peter Gain
+| Independent
+| 
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| David Graham
+| Unaligned
+| Deputy Mayor<ref name=mayor/>
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| Mason Crane
+| Unaligned
+| 
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| Ronnie Magnone
+| Unaligned
+| 
+|-
+| {{Australian party style|Independent}}|&nbsp;
+| Peter Batey
+| Independent
+| 
+|}
+
+==References==
+{{reflist}}
+
+{{NSW former LGAs}}
+{{NSW Local Government amalgamations 2016|state=collapsed}}
+
+[[Category:Former local government areas of New South Wales]]
+[[Category:Local government areas of the Riverina]]
+[[Category:1924 establishments in Australia]]
+[[Category:2016 disestablishments in Australia]]
+[[Category:Hume Highway]]

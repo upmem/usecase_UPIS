@@ -1,0 +1,26 @@
+{{Speciesbox
+|image = 
+|image_caption = 
+|genus = Mahonia
+|species = paucijuga
+|authority = C.Y.Wu ex S.Y.Bao 
+|synonyms = ''Berberis paucijuga'' (C.Y.Wu ex S.Y.Bao) Laferr.
+|synonyms_ref = <ref name=o/>
+}}
+
+'''''Mahonia paucijuga''''' is a shrub in the family [[Berberidaceae]] described as a species in 1987.<ref>C.Y.Wu ex S.Y.Bao. 1987.  Acta Phytotaxonomica Sinica 25(2): 151–152, pl. 2</ref> It is endemic to the province of [[Yunnan]] in southwestern [[China]].<ref name=o>[http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242331286 Flora of China Vol. 19 Page 777 <big>景东十大功劳</big> jing dong shi da gong lao ''Mahonia paucijuga'' C. Y. Wu ex S. Y. Bao]</ref>
+
+{{Commons|Mahonia paucijuga}}
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q11089945}}
+
+[[Category:Endemic flora of Yunnan]]
+[[Category:Mahonia|paucijuga]]
+[[Category:Vulnerable plants]]
+[[Category:Plants described in 1987]]
+
+
+{{Ranunculales-stub}}

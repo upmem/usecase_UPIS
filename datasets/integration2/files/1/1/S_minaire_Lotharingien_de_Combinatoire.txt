@@ -1,0 +1,51 @@
+{{unreferenced|date=August 2012}}
+{{Infobox journal
+| title         = Séminaire Lotharingien de Combinatoire
+| image         = 
+| former_name   = 
+| abbreviation  = Sémin. Lothar. Comb.
+| mathscinet    = Sém. Lothar. Combin.
+| discipline    = [[Combinatorics]]
+| language      = 
+| editor        = 
+| publisher     = 
+| country       = 
+| history       = 
+| frequency     = 
+| openaccess    = Yes
+| license       = 
+| impact        = 
+| impact-year   = 
+| ISSN          = 
+| eISSN         = 
+| CODEN         = 
+| JSTOR         = 
+| LCCN          = 
+| OCLC          = 
+| website       = 
+| link1         = 
+| link1-name    = 
+| link2         = 
+| link2-name    = 
+}}
+The '''Séminaire Lotharingien de Combinatoire''' (Lotharingian Seminar of Combinatorics) is a peer-reviewed academic journal specialising in combinatorial mathematics, named after [[Lotharingia]].
+
+It has existed since 1980 as a regular joint seminar in Combinatorics for the Universities of [[University of Bayreuth|Bayreuth]], [[University of Erlangen–Nuremberg|Erlangen]] and [[University of Strasbourg|Strasbourg]]. In 1994, it was decided to create a journal under the same name. The regular meetings continue to this day.
+
+==See also==
+
+*[[M. Lothaire]]
+
+==External links==
+* [http://www.emis.de/journals/SLC/ Séminaire Lotharingien de Combinatoire]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Seminaire Lotharingien de Combinatoire}}
+[[Category:Combinatorics journals]]
+[[Category:Open access journals]]
+
+
+{{Combin-stub}}
+{{math-journal-stub}}

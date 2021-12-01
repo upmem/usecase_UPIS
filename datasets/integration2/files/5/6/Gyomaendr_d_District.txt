@@ -1,0 +1,138 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| name                   = Gyomaendrőd District
+| native_name            = <small>''Gyomaendrődi járás''</small>
+| native_name_lang       = hu
+| settlement_type        = [[Districts of Hungary]]
+|image_flag           = 
+|image_blank_emblem   = Coa Hungary Town Gyomaendrőd.svg
+|blank_emblem_type    = Coat of arms
+|image_map            = Gyomaendrődi járás.png
+|map_caption          = Gyomaendrőd District within Hungary and Békés County. 
+| subdivision_type       = [[Countries of the world|Country]]
+| subdivision_name       = {{HUN}}
+| subdivision_type1      = [[Counties of Hungary|County]]
+| subdivision_name1      = [[Békés County|Békés]]
+| seat_type              = District seat
+| seat                   = [[Gyomaendrőd]]
+| timezone               = 
+| utc_offset             = 
+| timezone_DST           = 
+| utc_offset_DST         = 
+| coordinates            = 
+| area_footnotes         = 
+| area_total_km2         = 686.21
+| area_rank              = [[Békés County#Regional structure|4th in Békés]]
+|population_footnotes    = 
+|population_as_of        = 2011 census
+|population_total        = 23,943
+|population_rank         = [[Békés County#Regional structure|8th in Békés]]
+|population_density_km2  = 35
+| website                = 
+}}
+'''Gyomaendrőd''' ({{lang-hu|Gyomaendrődi járás}}) is a district in north-western part of [[Békés County]]. ''[[Gyomaendrőd]]'' is also the name of the town where the district seat is found. The district is located in the [[Southern Great Plain|Southern Great Plain Statistical Region]].
+
+== Geography ==
+Gyomaendrőd District borders with [[Karcag District]] ''([[Jász-Nagykun-Szolnok County]])'' to the north, [[Szeghalom District]] and [[Békés District]] to the east, [[Szarvas District]] to the southwest, [[Mezőtúr District]] ''(Jász-Nagykun-Szolnok County)'' to the west. The number of the inhabited places in Gyomaendrőd District is '''5'''.
+
+== Municipalities ==
+The district has '''2''' [[List of cities and towns of Hungary|towns]] and '''3''' villages.
+(ordered by population, as of 1 January 2012)<ref>[http://www.ksh.hu/docs/hun/hnk/hnk_2012.xls A KSH 2012. évi helységnévkönyve]</ref>
+{{columns-list|colwidth=30em|
+*[[Csárdaszállás]] (442)
+*'''[[Dévaványa]]''' (7,622)
+*[[Ecsegfalva]] (1,157)
+*'''[[Gyomaendrőd]]''' (13,674) – district seat
+*[[Hunya]] (634)
+}}
+The '''bolded''' municipalities are cities.
+
+==Demographics==
+{{Pie chart
+|thumb = right
+|caption = Religion in Gyomaendrőd District (2011 census)
+|label1 = [[Catholic Church]]
+|value1 = 20.1
+|color1 = DarkOrchid
+|label2 = [[Calvinism]]
+|value2 = 16.3
+|color2 = DodgerBlue
+|label3 = [[Lutheranism]]
+|value3 = 1.0
+|color3 = DeepSkyBlue
+|label4 = Other religions
+|value4 = 1.0
+|color4 = Chartreuse
+|label5 = [[Irreligion|Non-religious]]
+|value5 = 34.7
+|color5 = Honeydew
+|label6 = [[Atheism|Atheists]]
+|value6 = 0.9
+|color6 = Grey
+|label7 = Undeclared
+|value7 = 26.0
+|color7 = Black
+}}
+In 2011, it had a population of 23,943 and the [[population density]] was 35/km².
+
+{| class="wikitable"
+! Year
+! County population<ref>népesség.com, ''[http://nepesseg.com/jaras/gyomaendrodi "Gyomaendrődi járás népessége"]''</ref>
+! Change
+|-
+| 2011
+| 23,943
+|align="right"| n/a
+|}
+
+===Ethnicity===
+Besides the Hungarian majority, the main minorities are the Roma (approx. 700) and German (200).
+
+Total population (2011 census): 23,943<br>
+Ethnic groups (2011 census):<ref>4.1.6.1 A népesség nemzetiség szerint, 2011, {{in lang|hu}} ''[http://www.ksh.hu/nepszamlalas/tablak_teruleti_04]''</ref> Identified themselves: 21,242 persons:
+*[[Hungarians]]: 20,172 (94.96%)
+*[[Romani people in Hungary|Gypsies]]: 688 (3.24%)
+*Others and indefinable: 382 (1.80%)
+Approx. 2,500 persons in Gyomaendrőd District did not declare their ethnic group at the 2011 census.
+
+===Religion===
+Religious adherence in the county according to 2011 census:<ref>4.1.7.1 A népesség vallás, felekezet szerint, 2011, {{in lang|hu}} ''[http://www.ksh.hu/nepszamlalas/tablak_teruleti_04]''</ref>
+
+*Catholic – 4,823 ([[Roman Catholicism in Hungary|Roman Catholic]] – 4,806; [[Hungarian Greek Catholic Church|Greek Catholic]] – 16);
+*[[Reformed Church in Hungary|Reformed]] – 3,910;
+*[[Evangelical-Lutheran Church in Hungary|Evangelical]] – 233;
+*other religions – 221; 
+*[[Irreligion|Non-religious]] – 8,315; 
+*[[Atheism]] – 224;
+*''Undeclared'' – 6,217.
+
+==Gallery==
+<center>
+<gallery widths="200px" heights="200px" perrow="4">
+File:Gyoma járási hivatal.JPG|[[Gyomaendrőd]], Town Hall
+File:A 127-es vasútvonal Dévaványán.JPG|Landscape in [[Dévaványa]]
+File:Gyoma-Kor-477.JPG|[[Körös]] river near Gyoma
+File:Gyomaendrőd5.jpg|St. Emeric Church in Endrőd
+</gallery>
+</center>
+
+==See also==
+*[[List of cities and towns of Hungary]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.iranyitoszamnavigator.hu/gyomaendrodi-jaras-telepulesei Postal codes of the Gyomaendrőd District]
+
+{{Gyomaendrőd District}}
+{{Districts of Békés County}}
+
+{{coord missing|Hungary}}
+
+
+{{authority control}}
+
+[[Category:Districts in Békés County]]
+
+
+{{Bekes-geo-stub}}

@@ -1,0 +1,128 @@
+{{Use dmy dates|date=May 2018}}
+{{Infobox album
+| name       = Aria
+| type       = studio
+| artist     = [[Asia (band)|Asia]]
+| cover      = AsiaAria.jpg
+| border     = yes
+| released   = April 1994
+| recorded   = November 1993 – March 1994
+| studio     = {{hlist
+ | Parkgate, [[Battle, East Sussex|Battle]], Sussex
+ | Maison Rouge, London
+ }}
+| genre      = [[Progressive rock]]
+| length     = {{Duration|m=48|s=14}}
+| label      = Bullet Proof
+| producer   = {{hlist
+ | [[Geoff Downes]]
+ | [[John Payne (singer)|John Payne]]
+ }}
+| prev_title = [[Aqua (Asia album)|Aqua]]
+| prev_year  = 1992
+| next_title = [[Arena (Asia album)|Arena]]
+| next_year  = 1996
+| misc       = {{Singles
+ | name        = Aria
+ | type        = studio
+ | single1     = Anytime
+ | single1date = 1994
+ | single2     = Military Man
+ | single2date = 1994 (promo)
+ | single3     = Summer/Feels Like Love
+ | single3date = 1994 (promo)
+ }}
+}}
+
+{{Album ratings
+| rev1 = [[AllMusic]]
+| rev1score = {{Rating|3|5}}<ref name="AllMusic">{{Allmusic |class=album |id=aria-mw0000612337 |label=Asia: ''Aria'' > Review |first=Alex S |last=Garcia |accessdate=3 May 2018}}</ref>
+}}
+
+'''''Aria''''' is the fifth studio album by British rock band [[Asia (band)|Asia]], released in April 1994 in the United Kingdom by Bullet Proof Records and in 1995 in the United States by Mayhem Recordings. Unlike its [[Aqua (Asia album)|predecessor]], which was recorded with the help of several guest musicians, ''Aria'' features a stable line-up consisting of vocalist and bassist [[John Payne (singer)|John Payne]], keyboard player [[Geoff Downes]], guitarist [[Al Pitrelli]] and drummer [[Mike Sturgis|Michael Sturgis]].
+
+==Track listing==
+{{Track listing
+| total_length  = 48:14
+| all_writing   = [[Geoff Downes]] and [[John Payne (singer)|John Payne]], except "Desire" and "Aria" written by Payne, [[Andy Nye]] and Downes
+| title1        = Anytime
+| length1       = 4:57
+| title2        = Are You Big Enough?
+| length2       = 4:08
+| title3        = Desire
+| length3       = 5:20
+| title4        = Summer
+| length4       = 4:07
+| title5        = Sad Situation
+| length5       = 3:59
+| title6        = Don't Cut the Wire (Brother)
+| length6       = 5:20
+| title7        = Feels Like Love
+| length7       = 4:50
+| title8        = Remembrance Day
+| length8       = 4:19
+| title9        = Enough's Enough
+| length9       = 4:37
+| title10        = Military Man
+| length10       = 4:10
+| title11        = Aria
+| length11       = 2:27
+}}
+{{Track listing
+| headline      = 1998 Snapper Music bonus track
+| total_length  = 52:42
+| collapsed = yes
+| title12        = Reality
+| length12       = 4:27
+}}
+{{Track listing
+| headline      = 2005 Inside Out Music remastered edition bonus tracks
+| total_length  = 62:15
+| collapsed = yes
+| title12        = Reality
+| length12       = 4:26
+| title13        = Military Man
+| note13        = acoustic
+| length13       = 4:23
+| title14        = Anytime
+| note14        = multimedia video
+| length14       = 2:41
+}}
+
+==Personnel==
+===Asia===
+* [[John Payne (singer)|John Payne]] – lead vocals, backing vocals, bass, guitar; producer
+* [[Geoff Downes]] – keyboards; producer
+* [[Al Pitrelli]] – guitars
+* [[Mike Sturgis|Michael Sturgis]] – drums
+
+===Technical personnel===
+* Andy Reilly – engineer, mixing engineer (at Les Ballons Du Chien Studios, Oxfordshire)
+* Gary Stevenson – mixing engineer
+* [[Roger Dean (artist)|Roger Dean]] – cover design, painting, logotypes
+* Brian Burrows – sleeve layout/typography
+* Paul Rider – photography
+
+==Charts==
+{| class="wikitable sortable plainrowheaders"
+|-
+! Chart (1994)
+! Peak<br/>position
+|-
+|{{Album chart|Germany4|89|id=1860|artist=Asia|album=Aria|accessdate=3 May 2018}}
+|-
+|{{Album chart|Switzerland|31|artist=Asia|album=Aria|accessdate=3 May 2018}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Asia (band)
+| state      = collapsed
+}}
+
+[[Category:Asia (band) albums]]
+[[Category:1994 albums]]
+[[Category:Albums produced by Geoff Downes]]
+[[Category:Albums produced by John Payne (singer)]]
+[[Category:Albums with cover art by Roger Dean (artist)]]

@@ -1,0 +1,26 @@
+{{Automatic taxobox
+| fossil_range = [[Early Cretaceous]] {{fossil range|125|112}}
+| image = Chuanqilong chaoyangensis.png
+| image_caption = Holotype specimen
+| taxon = Chuanqilong
+| authority = Han et al., [[2014 in paleontology|2014]]
+| type_species = {{extinct}}'''''Chuanqilong chaoyangensis'''''
+| type_species_authority = Han et al., 2014
+}}
+[[File:Chuanqilong skull.png|thumb|left|Skull and mandible]]
+
+'''''Chuanqilong''''' (meaning "legendary dragon") is an extinct [[genus]] of [[ankylosaurid]] [[dinosaur]] from the [[Early Cretaceous]] of [[China]]. It is known from the [[type species]], '''''Chuanqilong chaoyangensis'''''.<ref>{{cite journal |author1=Han, F. |author2=Zheng, W. |author3=Hu, D. |author4=Xu, X. |author5=Barrett, P.M. |year=2014 |title=A New Basal Ankylosaurid (Dinosauria: Ornithischia) from the Lower Cretaceous Jiufotang Formation of Liaoning Province, China |journal=PLoS ONE |volume=9 |issue=8 |pages=e104551 |doi=10.1371/journal.pone.0104551 |pmid=25118986 |pmc=4131922}}</ref> It lived during the Aptian stage of early Cretaceous period (125 - 112 mya) and was about {{convert|4.5|m|ftin|abbr=off}} long. Its weight is estimated at some {{convert|450|kg|lb|abbr=off}}.<ref>http://www.dinochecker.com/dinosaurs/CHUANQILONG</ref>
+
+==References==
+{{Reflist}}
+
+{{Thyreophora|A.}}
+{{Taxonbar|from=Q17516418}}
+
+[[Category:Early Cretaceous dinosaurs of Asia]]
+[[Category:Jiufotang fauna]]
+[[Category:Cretaceous China]]
+[[Category:Fossils of China]]
+[[Category:Fossil taxa described in 2014]]
+
+{{ankylosaur-stub}}

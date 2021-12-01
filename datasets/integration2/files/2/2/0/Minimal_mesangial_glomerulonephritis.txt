@@ -1,0 +1,37 @@
+{{Infobox medical condition (new)
+| name            = <!--{{PAGENAME}} by default-->
+| synonym         = 
+| image           = <!-- Just the filename without File: or |thumb, etc. -->
+| image_size      = 
+| alt             = 
+| caption         = 
+| pronounce       = 
+| specialty       = nephrology
+| symptoms        =
+| complications   =
+| onset           =
+| duration        =
+| types           = 
+| causes          =
+| risks           =
+| diagnosis       =
+| differential    =
+| prevention      =
+| treatment       =
+| medication      =
+| prognosis       =
+| frequency       =
+| deaths          =
+}}
+'''Minimal mesangial glomerulonephritis''' is a type of [[glomerulonephritis]] is seen in 10% to 25% of [[Systemic lupus erythematosus|SLE]] cases, and is associated with mild clinical [[symptoms]]. [[Immune complexes]] deposit in the [[mesangium]], with a slight increase in the [[mesangial matrix]] and [[cellularity]].<ref name="isbn0-8089-2366-8">{{cite book |author1=Robbins, Stanley L. |author2=Kumar, Vinay |title=Robbins basic pathology |edition= |language= |publisher=Saunders/Elsevier |location= |year=2007 |origyear= |pages=142 |quote= |isbn=978-0-8089-2366-4 |oclc= |doi= |url= |accessdate=}}</ref>
+
+==References==
+{{reflist}}
+
+{{Lupus nephritis}}
+{{Nephrology}}
+
+[[Category:Kidney diseases]]
+
+
+{{genitourinary-disease-stub}}

@@ -1,0 +1,62 @@
+{{short description|Venezuelan baseball player}}
+{{Use mdy dates|date=June 2015}}
+{{Infobox baseball biography
+|image = 
+|name=Edgar Ibarra
+|position= [[Pitcher]]
+|bats=Left
+|throws=Left
+|birth_date={{Birth date and age|1989|5|31}}
+|birth_place=[[Valencia, Carabobo]]
+|debutleague = MLB
+|debutdate=June 2
+|debutyear=2015
+|debutteam=Los Angeles Angels of Anaheim
+| finaldate   = June 5
+| finalyear   = 2015
+| finalteam   = Los Angeles Angels of Anaheim
+|statleague = MLB
+| stat1label  = [[Win–loss record (pitching)|Win–loss record]]
+| stat1value  = 0–0
+| stat2label  = [[Earned run average]]
+| stat2value  = 2.25
+| stat3label  = [[Strikeout]]s
+| stat3value  = 3
+|teams=
+*[[Los Angeles Angels of Anaheim]] ({{mlby|2015}})
+}}
+'''Edgar Alexander Ibarra''' (born May 31, 1989) is a Venezuelan former [[professional baseball]] [[pitcher]].
+
+Ibarra began his professional career with the [[Minnesota Twins]]' organization. After the 2013 season, the Twins purchased Ibarra's contract, adding him to their [[40-man roster]].<ref>{{cite web|url=http://www.startribune.com/sports/twins/230597601.html |title=Twins don't make qualifying offer to Pelfrey; sign 8 for Rochester |publisher=Star Tribune |date= |accessdate=November 22, 2013}}</ref> He signed with the Angels before the 2015 season, and was promoted to the major leagues on June 1.<ref>{{cite web|url=http://www.dailynews.com/sports/20150601/angels-pitching-staff-back-to-12-after-calling-up-lefty-edgar-ibarra|title=Angels’ pitching staff back to 12 after calling up lefty Edgar Ibarra|work=dailynews.com|accessdate=June 3, 2015}}</ref> He made his major league debut on June 2.<ref>{{cite web|url=http://www.ocregister.com/angels/ibarra-664104-one-angels.html|title=VIDEO: Angels' Ibarra records first big-league strikeout|work=The Orange County Register|accessdate=June 3, 2015}}</ref>
+
+After signing a minor league contract with the [[Philadelphia Phillies]] before the 2016 season, Ibarra was released by the team at the end of Spring Training.<ref>{{cite web|url=http://m.milb.com/milb/player/500891|title=Edgar Ibarra MiLB profile|work=milb.com|accessdate=April 1, 2016}}</ref>
+
+==See also==
+* [[List of Major League Baseball players from Venezuela]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{baseballstats|mlb=500891|br=i/ibarred01|brm=ibarra001edg}}
+
+{{DEFAULTSORT:Ibarra, Edgar}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Beloit Snappers players]]
+[[Category:Elizabethton Twins players]]
+[[Category:Fort Myers Miracle players]]
+[[Category:Gulf Coast Twins players]]
+[[Category:Los Angeles Angels of Anaheim players]]
+[[Category:Major League Baseball pitchers]]
+[[Category:Major League Baseball players from Venezuela]]
+[[Category:New Britain Rock Cats players]]
+[[Category:Rochester Red Wings players]]
+[[Category:Salt Lake Bees players]]
+[[Category:Sportspeople from Valencia, Carabobo]]
+[[Category:Tigres de Aragua players]]
+[[Category:Venezuelan expatriate baseball players in the United States]]
+[[Category:Venezuelan Summer League Cubs/Twins players]]
+[[Category:Venezuelan Summer League Twins/Blue Jays players]]
+
+{{Venezuela-baseball-pitcher-stub}}

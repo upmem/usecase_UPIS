@@ -1,0 +1,9 @@
+{{SVG}}
+== Summary ==
+{{Non-free use rationale logo
+| Article           = SC Langenthal
+| Use               = Infobox 
+| Source            = http://www.sihf.ch/de/clubs/national-league/#/clubs/nl-b
+}}
+== Licensing ==
+{{Non-free logo|Ice hockey logos|image has rationale=yes}}

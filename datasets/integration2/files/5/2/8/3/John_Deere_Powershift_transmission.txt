@@ -1,0 +1,7 @@
+The [[John Deere]] PowerShift transmission was an eight-speed [[semi-automatic transmission]] without a [[torque converter]], used in John Deere  [[tractors]], including the iconic [[John Deere Model 4020]].<ref>[http://www.tractordata.com/farm-tractors/000/0/6/64-john-deere-4020-transmission.html TractorData.com John Deere 4020 tractor transmission information]</ref> The Powershift is not to be confused with similar John Deere transmissions (including the Quad-Range and the  PowrQuad<ref>[http://salesmanual.deere.com/sales/salesmanual/en_NA/tractors/2012/feature/transmissions/6030_7030/6030_7030_powrquad_transmission_story.html Transmissions, PowrQuad™ 19-mph and 25-mph]</ref>), or with the [[Ford]] Ultra Command Powershift or the [[Allis Chalmers]] Power Director. The PowerShift was dropped in favor of the PowrQuad during the 1980s and reintroduced in the 90s as a 16-speed model built by Funk, a company that was eventually purchased by John Deere. The 5-speed version was also used in the Ford 8630 series tractors as a 36-speed Funk Ultra Command.<ref>[http://www.tractorbynet.com/forums/new-holland-owning-operating/50880-ford-8830-a-post575138.html#post575138 Ford 8830]</ref>
+
+==References==
+{{reflist}}
+{{Agri-stub}}
+
+[[Category:John Deere]]

@@ -1,0 +1,37 @@
+{{Navbox musical artist
+| name       = Obscura
+| title      = '''[[Obscura (band)|Obscura]]'''
+| state = {{{state|autocollapse}}}
+| bodyclass  = hlist
+| background = group_or_band
+
+| above = 
+* '''[[Steffen Kummerer]]'''
+* '''Linus Klausenitzer'''
+* '''Rafael Trujillo'''
+* '''Sebastian Lanser'''
+
+* [[Hannes Grossmann]]
+* [[Christian Muenzner]]
+* [[Jeroen Paul Thesseling]]
+* Jonas Fischer
+* Markus Lempsch
+* Jonas Baumgartl
+
+| group1 = Studio albums
+| list1  = 
+* ''[[Retribution (Obscura album)|Retribution]]''
+* ''[[Cosmogenesis (album)|Cosmogenesis]]''
+* ''[[Omnivium]]''
+* ''[[Akróasis]]''
+* ''[[Diluvium (album)|Diluvium]]''
+
+| group2 = Compilations
+| list2  =
+* ''[[Illegimitation]]''
+}}<noinclude>
+{{collapsible option}}
+[[Category:Germany heavy metal musical group navigational boxes]]
+[[Category:Progressive metal musical group navigational boxes]]
+[[Category:Death metal musical group navigational boxes]]
+</noinclude>

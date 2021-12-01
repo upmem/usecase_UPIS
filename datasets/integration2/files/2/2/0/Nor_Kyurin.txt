@@ -1,0 +1,48 @@
+{{coord|40|05|26|N|44|27|50|E|display=title}}
+
+{{Infobox settlement
+|official_name          = Nor Kyurin <br/> Նոր Կյուրին 
+|name_local             = Նոր Կյուրին 
+|image_skyline          = Nor Kyurin.JPG
+|image_caption          = Nor Kyurin and Mt. Ararat, May 2009.
+|pushpin_map            = Armenia
+|mapsize                = 150px
+|subdivision_type       = Country
+|subdivision_name       = [[Armenia]]
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      = [[Ararat (province)|Ararat]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2         = 
+|area_footnotes         = 
+|population_as_of       = 2001
+|population_total       = 967
+|population_density_km2 =
+|timezone               = &nbsp;
+|utc_offset             = +4
+|timezone_DST           = &nbsp; 
+|utc_offset_DST         = +5
+|coordinates            = {{coord|40|05|26|N|44|27|50|E|region:AM|display=inline}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+}}
+
+'''Nor Kyurin''' ({{lang-hy|Նոր Կյուրին}}, also [[Romanize]]d as '''Nor Kurin''') is a village in the [[Ararat (province)|Ararat Province]] of [[Armenia]].  Nor Kyurin means New Kyurin, pronounced [gjurin] or [gyrin] in [[Western Armenian]].  It was named after the city of [[Gürün]], which is known as Gurin or Gyurin to Armenians ([[Traditional Armenian orthography|TAO]]: Կիւրին, [[Reformed Armenian Orthography|RAO]]: Կյուրին), was a part of historical [[Lesser Armenia|Pokr Hayk]] and had a significant Armenian population until the [[Armenian genocide]].
+
+==See also==
+* [[Ararat Province]]
+
+== References ==
+* {{GEOnet2|32FA8866196D3774E0440003BA962ED3}}
+* {{ArmenianCensus|97}}
+* {{citation|last=Kiesling |first=Brady |title=Rediscovering Armenia: Guide |publisher=Matit Graphic Design Studio|location=[[Yerevan, Armenia]]|year=2005}}
+
+{{Ararat}}
+
+[[Category:Populated places in Ararat Province]]
+
+
+{{AraratAM-geo-stub}}

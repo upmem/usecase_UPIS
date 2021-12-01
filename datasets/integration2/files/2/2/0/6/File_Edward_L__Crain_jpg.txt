@@ -1,0 +1,16 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = An American folk musician active in the 1930s.
+|Source = Uploaded from Google Images.
+|Date = Unknown, presumably the 1930s.
+|Author = Harry S Smith
+|Article = Edward L. Crain
+|Purpose = For visual identification of the object of the article. The article as a whole is dedicated specifically to a discussion of this work.
+|Replaceability = n.a.
+|Minimality = Visual identification.
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free historic image}}
+{{Category ordered by date|Non-free files uploaded as object of commentary|2016|07|25}}

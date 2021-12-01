@@ -1,0 +1,28 @@
+{{Italic title}}{{Taxobox
+| name = ''Latgognoma dacryodes''
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Lepidoptera]]
+| familia = [[Pyralidae]]
+| genus = '''''Latagognoma'''''<ref name="Pyraloidea db">{{cite web |url=http://globiz.pyraloidea.org/Pages/Reports/TaxonReport.aspx |title=GlobIZ search |website=Global Information System on Pyraloidea |accessdate=2011-09-29 }}</ref>
+| genus_authority = Tams, 1935
+| species = '''''L. dacryodes'''''
+| binomial = ''Latagognoma dacryodes''
+| binomial_authority = Tams, 1935
+| synonyms = 
+}}
+'''''Latagognoma''''' is a genus of [[Pyralidae|snout moths]]. It was described by Tams in 1935, and contains the species '''''L. dacryodes'''''. It is known from [[Samoa]].
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q6495055}}
+
+[[Category:Pyralinae]]
+[[Category:Monotypic moth genera]]
+[[Category:Moths of Oceania]]
+[[Category:Pyralidae genera]]
+
+
+{{Pyralinae-stub}}

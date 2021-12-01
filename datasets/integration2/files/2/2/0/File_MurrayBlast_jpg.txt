@@ -1,0 +1,16 @@
+== Summary ==
+Album cover: "Murray the K's Blasts from the Past"
+
+Source:  http://www.recordresearch.com/Album_Photos/pages/ZZZVarious_Murray%20the%20K.htm
+ 
+
+==Fair use rationale==
+It is contended that the use of this image in [[Murray the K]] qualifies as fair use for the following reasons:
+# This image illustrates the cover of the album discussed in the article.  This image can be used for identification purposes in relation to this article.
+# It does not limit the copyright owner's rights to market or sell the album in any way.
+# The image is of lower resolution than the original cover.
+# The image is being used in an informative way and does not detract from sales of this album.
+# No free or public domain images have been located for this cover.
+
+== Licensing ==
+{{Non-free album cover|image has rationale=yes}}

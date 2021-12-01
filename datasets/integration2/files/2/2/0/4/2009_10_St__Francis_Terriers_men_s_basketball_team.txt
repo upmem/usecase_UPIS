@@ -1,0 +1,625 @@
+{{short description|American college basketball season}}
+{{Infobox NCAA team season
+| mode              = Basketball
+| year              = 2009–10
+| prev_year         = 2008–09
+| next_year         = 2010–11
+| team              = St. Francis Terriers
+| image             = Script logo St. Francis College Terriers.jpg
+| conference        = Northeast Conference
+| division          =
+| short_conf   = NEC
+| CoachRank         =
+| APRank            =
+| record            = 11–18
+| conf_record        = 8–10
+| head_coach         = [[Brian Nash (basketball)|Brian Nash]]
+| hc_year            = 5th
+| asst_coach1        = Clive Bentick   
+| ac1_year          = 3rd
+| asst_coach2        = Allen Griffin
+| ac2_year          = 4th
+| asst_coach3        = Andy Johnston
+| ac3_year          = 2nd
+| stadium      = [[Generoso Pope Athletic Complex]]
+| champion          =
+| bowl       =
+| bowl_result =
+}}
+{{2009–10 Northeast Conference men's basketball standings}}
+The '''2009–10 St. Francis Terriers men's basketball team''' represented [[St. Francis College]] during the [[2009–10 NCAA Division I men's basketball season]]. The team was coached by [[Brian Nash (basketball)|Brian Nash]], who was in his fifth year at the helm of the St. Francis Terriers. The Terriers' home games were played at the [[Generoso Pope Athletic Complex]]. The team has been a member of the [[Northeast Conference]] since 1981.
+
+Nash's team finished at 11–18 overall and 8–10 in conference play for an 8th-place finish. After the season Nash resigned, he produced a 47–99 record through five seasons as the Terriers' head coach.<ref>{{cite web|title=BRIAN NASH RESIGNS AS ST. FRANCIS MEN'S BASKETBALL COACH|url=http://www.sfcathletics.com/news/2010/4/7/MBB_0407101315.aspx?path=mbball|publisher=SFCAthletics.com|accessdate=6 December 2013}}</ref>
+
+==Roster==
+{{CBB roster/Header |hdr_txtcolor=white|subhdr_txtcolor=white|hdr_bgcolor=#0038A8|subhdr_bgcolor=#CE1126|year=2009|team=St. Francis Brooklyn Terriers|sex=men}}
+{{CBB roster/Player|first=Kayode    |last=Ayeni      |num=32|pos=G/F|ft=6|in=5 |lbs=180|class=SR|rs=|home=[[Brooklyn, NY]]}}
+{{CBB roster/Player|first=Herman    |last=Wrice      |num=23|pos=F  |ft=6|in=7 |lbs=210|class=SR|rs=|home=[[Philadelphia, PA]]}}
+{{CBB roster/Player|first=Nigel     |last=Byam       |num=21|pos=F  |ft=6|in=7 |lbs=210|class=SR|rs=|home=[[Brooklyn, NY]]}}
+{{CBB roster/Player|first=Alexander |last=Harrington |num=40|pos=C/F|ft=6|in=9 |lbs=220|class=JR|rs=|home=[[Lanham, Maryland]]}}
+{{CBB roster/Player|first=Ricky     |last=Cadell     |num=11|pos=G  |ft=6|in=2 |lbs=180|class=JR|rs=|home=[[Bronx, NY]]}}
+{{CBB roster/Player|first=Brandon   |last=Fisher     |num=5 |pos=G  |ft=5|in=11|lbs=185|class=JR|rs=|home=[[Chicago, Illinois]]}} 
+{{CBB roster/Player|first=Akeem     |last=Bennett    |num=24|pos=G/F|ft=6|in=3 |lbs=180|class=JR|rs=|home=[[Long Island, NY]]}}
+{{CBB roster/Player|first=Ricky     |last=Williams  |num=5 |pos=G  |ft=5|in=11|lbs=180|class=SO|rs=|home=[[Brooklyn, New York]]}}  
+{{CBB roster/Player|first=Stefan    |last=Perunicic  |num=2 |pos=G/F|ft=6|in=6 |lbs=195|class=SO|rs=|link=y|home=[[Belgrade, Serbia]]}}
+{{CBB roster/Player|first=Justin    |last=Newton     |num=15|pos=G  |ft=6|in=0 |lbs=190|class=SO|rs=|home=[[Brooklyn, NY]]}}
+{{CBB roster/Player|first=Richard   |last=Clark      |num=20|pos=C  |ft=6|in=9 |lbs=215|class=SO|rs=|home=[[Berkshire, England]]}}
+{{CBB roster/Player|first=Akeem     |last=Johnson    |num=30|pos=F  |ft=6|in=6 |lbs=200|class=FR|rs=|home=[[Brooklyn, New York]]}}
+{{CBB roster/Footer
+|head_coach=
+* [[Brian Nash]] ([[Keene State College|Keene State '92]])
+|asst_coach=
+* Clive Bentick ([[Canisius College|Canisius '01]]) 
+* Andy Johnston ([[University of New Hampshire|New Hampshire]])
+* Allen Griffin ([[Syracuse University|Syracuse '01]]) 
+|roster_url=http://www.sfcathletics.com/roster.aspx?roster=35&path=mbball  
+|accessdate=April 1st, 2010
+}}
+
+==Schedule and results==
+{{CBB schedule start|attend=yes|rank=no|gamehighs=no|tv=no}}
+|-
+!colspan=12 style="background:#0038A8; border: 2px solid #CE1126;;color:#FFFFFF;"| Regular Season
+{{CBB schedule entry
+| date         = November 13, 2009
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Brown University|team=Brown Bears|title=Brown}}
+| opprank      =
+| site_stadium = [[Generoso Pope Athletic Complex]]
+| site_cityst  = [[Brooklyn, NY]]
+| gamename     =
+| tv           =
+| score        = 64–68
+| overtime     =
+| attend       = 743 
+| record       = 0–1
+}}
+{{CBB schedule entry
+| date         = November 17, 2009
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Boston College|team=Boston College Eagles|title=Boston College}}
+| opprank      =
+| site_stadium = [[Silvio O. Conte Forum]]
+| site_cityst  = [[Chestnut Hill, MA]]
+| gamename     = 
+| tv           =
+| score        = 44–72
+| overtime     =
+| attend       = 2,882  
+| record       = 0–2
+}}
+{{CBB schedule entry
+| date         = November 21, 2009
+| time         = 2:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Canisius College|team=Canisius Golden Griffins|title=Canisius}}
+| opprank      =
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     = 
+| tv           =
+| score        = 69–79
+| overtime     = 
+| attend       = 365    
+| record       = 0–3
+}}
+{{CBB schedule entry
+| date         = November 24, 2009
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2009–10 UMass Minutemen men's basketball team|UMass]]
+| opprank      =  
+| site_stadium = [[William D. Mullins Center]]
+| site_cityst  = [[Amherst, MA]]
+| gamename     =
+| tv           =
+| score        = 65–83
+| overtime     =
+| attend       = 2,411  
+| record       = 0–4
+}}
+{{CBB schedule entry
+| date         = November 28, 2009
+| time         = 4:00&nbsp;pm
+| nonconf      = y
+| homecoming   =
+| away         = y
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Colgate University|team=Colgate Raiders|title=Colgate}}
+| opprank      =  
+| site_stadium = [[Cotterell Court]]
+| site_cityst  = [[Hamilton, NY]]
+| gamename     =
+| tv           =
+| score        = 66–65
+| overtime     =
+| attend       = 265 
+| record       = 1–4
+}}
+{{CBB schedule entry
+| date         = December 3, 2009
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Central Connecticut State University|team=Central Connecticut State Blue Devils|title=Central Connecticut State}}
+| opprank      =  
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     =
+| tv           =
+| score        = 50–63
+| overtime     =
+| attend       = 393  
+| record       = 1–5 (0–1)
+}}   
+{{CBB schedule entry
+| date         = December 5, 2009
+| time         = 12:00&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Bryant University|team=Bryant Bulldogs|title=Bryant}}
+| opprank      =
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     =
+| tv           =
+| score        = 54–48
+| overtime     =
+| attend       = 502    
+| record       = 2–5 (1–1)
+}}
+{{CBB schedule entry
+| date         = December 8, 2009
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=University of Hartford|team=Hartford Hawks|title=Hartford}}
+| opprank      =
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     =
+| tv           =
+| score        = 63–60
+| overtime     =
+| attend       = 293  
+| record       = 3–5
+}}
+{{CBB schedule entry
+| date         = December 13, 2009
+| time         = 1:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2009–10 Syracuse Orange men's basketball team|Syracuse]]
+| opprank      =
+| site_stadium = [[Carrier Dome]]
+| site_cityst  = [[Syracuse, NY]]
+| gamename     =
+| tv           =
+| score        = 51–75
+| overtime     =
+| attend       = 19,381   
+| record       = 3–6
+}}
+{{CBB schedule entry
+| date         = December 22, 2009
+| time         = 7:35&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Lafayette College|team=Lafayette Leopards|title=Lafayette}}
+| opprank      =
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     =
+| tv           =
+| score        = 69–74
+| overtime     =
+| attend       = 578 
+| record       = 3–7
+}}
+{{CBB schedule entry
+| date         = December 29, 2009
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Fairfield University|team=Fairfield Stags|title=Fairfield}}
+| opprank      =
+| site_stadium = [[Webster Bank Arena]]
+| site_cityst  = [[Bridgeport, CT]]
+| gamename     =
+| tv           =
+| score        = 58–65
+| overtime     =
+| attend       = 1,960  
+| record       = 3–8
+}}
+{{CBB schedule entry
+| date         = January 7, 2010
+| time         = 7:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Saint Francis University|team=Saint Francis Red Flash|title=Saint Francis (PA)}}
+| opprank      =
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     =
+| tv           =
+| score        = 69–57
+| overtime     =
+| attend       = 378  
+| record       = 4–8 (2–1)
+}}  
+{{CBB schedule entry
+| date         = January 9, 2010
+| time         = 4:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = [[2009–10 Robert Morris Colonials men's basketball team|Robert Morris]]
+| opprank      =
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     =
+| tv           =
+| score        = 63–67
+| overtime     =
+| attend       = 307
+| record       = 4–9 (2–2) 
+}}
+{{CBB schedule entry
+| date         = January 11, 2010
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Columbia University|team=Columbia Lions|title=Columbia}}
+| opprank      =
+| site_stadium = [[Levien Gymnasium]]
+| site_cityst  = [[Manhattan, NY]]
+| gamename     =
+| tv           =
+| score        = 59–53
+| overtime     = 
+| attend       = 410  
+| record       = 5–9
+}}
+{{CBB schedule entry
+| date         = January 14, 2010
+| time         = 7:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         = y
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Mount St. Mary's University|team=Mount St. Mary's Mountaineers|title=Mount St. Mary's}}
+| opprank      =
+| site_stadium = [[Knott Arena]]
+| site_cityst  = [[Emmitsburg, MD]]
+| gamename     =
+| tv           =
+| score        = 61–58
+| overtime     =
+| attend       = 1,018
+| record       = 6–9 (3–2) 
+}}
+{{CBB schedule entry
+| date         = January 16, 2010
+| time         = 7:00&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         = y
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Wagner College|team=Wagner Seahawks|title=Wagner}}
+| opprank      =
+| site_stadium = [[Spiro Sports Center]]
+| site_cityst  = [[Staten Island, NY]]
+| gamename     =
+| tv           =
+| score        = 60–53
+| overtime     =
+| attend       = 1,056 
+| record       = 7–9 (4–2)
+}}
+{{CBB schedule entry
+| date         = January 18, 2010
+| time         = 7:00&nbsp;pm
+| nonconf      = y
+| homecoming   =
+| away         = y
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Dartmouth College|team=Dartmouth Big Green|title=Dartmouth}}
+| opprank      =
+| site_stadium = [[Leede Arena]]
+| site_cityst  = [[Hanover, NH]]
+| gamename     =
+| tv           =
+| score        = 64–65
+| overtime     =
+| attend       = 358  
+| record       = 7–10   
+}}
+{{CBB schedule entry
+| date         = January 21, 2010
+| time         = 7:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Mount St. Mary's University|team=Mount St. Mary's Mountaineers|title=Mount St. Mary's}}
+| opprank      =
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     =
+| tv           =
+| score        = 63–60
+| overtime     = 
+| attend       = 437 
+| record       = 8–10 (5–2)    
+}}
+{{CBB schedule entry
+| date         = January 23, 2010
+| time         = 4:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Wagner College|team=Wagner Seahawks|title=Wagner}}
+| opprank      =
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     =
+| tv           =
+| score        = 57–54
+| overtime     = 
+| attend       = 605  
+| record       = 9–10 (6–2) 
+}}
+{{CBB schedule entry
+| date         = January 28, 2010
+| time         = 7:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Saint Francis University|team=Saint Francis Red Flash|title=Saint Francis (PA)}}
+| opprank      =
+| site_stadium = [[DeGol Arena]]
+| site_cityst  = [[Loretto, PA]]
+| gamename     =
+| tv           =
+| score        = 63–71
+| overtime     =
+| attend       = 1,123 
+| record       = 9–11 (6–3)
+}}
+{{CBB schedule entry
+| date         = January 30, 2010
+| time         = 7:00&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2009–10 Robert Morris Colonials men's basketball team|Robert Morris]]
+| opprank      =
+| site_stadium = [[Charles L. Sewall Center]]
+| site_cityst  = [[Moon Township, PA]]
+| gamename     =
+| tv           =
+| score        = 56–74
+| overtime     =
+| attend       = 1,124  
+| record       = 9–12 (6–4)
+}}
+{{CBB schedule entry
+| date         = February 4, 2010
+| time         = 7:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Long Island University|team=Long Island Blackbirds|title=Long Island}}
+| opprank      =
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     =
+| tv           =
+| score        = 53–62
+| overtime     =
+| attend       = 773 
+| record       = 9–13 (6–5)
+}}
+{{CBB schedule entry
+| date         = February 6, 2010
+| time         = 7:00&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Long Island University|team=Long Island Blackbirds|title=Long Island}}
+| opprank      =
+| site_stadium = [[Athletic, Recreation & Wellness Center]]
+| site_cityst  = Brooklyn, NY
+| gamename     = [[Battle of Brooklyn (basketball)|Battle of Brooklyn]]
+| tv           =
+| score        = 88–84
+| overtime     = 3OT
+| attend       = 879   
+| record       = 10–13 (7–5)
+}}
+{{CBB schedule entry
+| date         = February 11, 2010
+| time         = 7:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Quinnipiac University|team=Quinnipiac Bobcats|title=Quinnipiac}}
+| opprank      =
+| site_stadium = [[TD Bank Sports Center]]
+| site_cityst  = [[Hamden, CT]]
+| gamename     =
+| tv           =
+| score        = 65–77
+| overtime     =
+| attend       = 1,298
+| record       = 10–14 (7–6)
+}}
+{{CBB schedule entry
+| date         = February 13, 2010
+| time         = 3:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         = y
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Sacred Heart University|team=Sacred Heart Pioneers|title=Sacred Heart}}
+| opprank      =
+| site_stadium = [[William H. Pitt Center]]
+| site_cityst  = [[Fairfield, CT]]
+| gamename     = 
+| tv           =
+| score        = 50–62
+| overtime     =
+| attend       = 1,294 
+| record       = 10–15 (7–7)
+}}
+{{CBB schedule entry
+| date         = February 18, 2010
+| time         = 7:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Monmouth University|team=Monmouth Hawks|title=Monmouth}}
+| opprank      =
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     = 
+| tv           =
+| score        = 49–51
+| overtime     =
+| attend       = 683 
+| record       = 10–16 (7–8)
+}}
+{{CBB schedule entry
+| date         = February 20, 2010
+| time         = 4:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Fairleigh Dickinson University|team=Fairleigh Dickinson Knights|title=Fairleigh Dickinson}}
+| opprank      =
+| site_stadium = Generoso Pope Athletic Complex
+| site_cityst  = Brooklyn, NY
+| gamename     = 
+| tv           =
+| score        = 55–56
+| overtime     =
+| attend       = 705   
+| record       = 10–17 (7–9)
+}}
+{{CBB schedule entry
+| date         = February 25, 2010
+| time         = 7:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         = y
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Bryant University|team=Bryant Bulldogs|title=Bryant}}
+| opprank      =
+| site_stadium = [[Chace Athletic Center]]
+| site_cityst  = [[Smithfield, RI]]
+| gamename     = 
+| tv           =
+| score        = 69–60
+| overtime     = OT
+| attend       = 424  
+| record       = 11–17 (8–9)
+}}
+{{CBB schedule entry
+| date         = February 27, 2010
+| time         = 4:30&nbsp;pm
+| nonconf      =
+| homecoming   =
+| away         = y
+| neutral      =
+| rank         = no
+| opponent     = {{cbb link|year=2009-10|school=Central Connecticut State University|team=Central Connecticut Blue Devils|title=Central Connecticut State}}
+| opprank      =
+| site_stadium = [[William H. Detrick Gymnasium]]
+| site_cityst  = [[New Britain, CT]]
+| gamename     = 
+| tv           =
+| score        = 56–68
+| overtime     =
+| attend       = 1,774  
+| record       = 11–18 (8–10)
+}}
+{{CBB schedule end}}<ref>{{cite web|title=2009-10 St. Francis (NY) Men's Basketball Schedule|url=http://www.fanbase.com/St-Francis-%28NY%29-Terriers-Mens-Basketball-2009-10/schedule|publisher=fanbase.com|accessdate=22 April 2014|archive-url=https://web.archive.org/web/20160206225920/http://www.fanbase.com/st-francis-%28ny%29-terriers-mens-basketball-2009-10/schedule|archive-date=6 February 2016|url-status=dead|df=dmy-all}}</ref><ref>{{cite web|title=2009-10 St. Francis (NY) Terriers Schedule and Results|url=https://www.sports-reference.com/cbb/schools/st-francis-ny/2010-schedule.html|publisher=sports-reference.com|accessdate=22 April 2014}}</ref><ref>{{cite web | url=http://bbpassport.com/team/st-francis-ny/games/2009 | title=ST. FRANCIS (NY) TERRIERS ★ Games in 2009-10 | publisher=Basketball Passport | accessdate=22 April 2014 | archive-url=https://web.archive.org/web/20140430055644/http://bbpassport.com/team/st-francis-ny/games/2009 | archive-date=2014-04-30 | url-status=dead }}</ref>
+
+==References==
+{{Reflist}}
+
+{{St. Francis Brooklyn Terriers men's basketball navbox}}
+
+{{DEFAULTSORT:2009-10 St. Francis Terriers men's basketball team}}
+[[Category:St. Francis Brooklyn Terriers men's basketball seasons]]
+[[Category:2009–10 Northeast Conference men's basketball season|St. Francis]]
+[[Category:2009 in sports in New York City]]
+[[Category:2010 in sports in New York City]]

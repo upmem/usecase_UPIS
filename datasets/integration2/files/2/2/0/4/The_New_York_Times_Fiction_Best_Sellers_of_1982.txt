@@ -1,0 +1,131 @@
+This is a list of adult [[fiction]] books that topped [[List of The New York Times Fiction Best Sellers|''The New York Times'' Fiction Best Seller list]] in [[1982 in literature|1982]].<ref> Adult New York Times Best Seller Lists for 1982. [http://www.hawes.com/1982/1982.htm]</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!Date
+!Book
+!Author
+|-
+| January 3 || rowspan=6|''[[An Indecent Obsession]]'' || rowspan=6|[[Colleen McCullough]]
+|-
+| January 10
+|-
+| January 17
+|-
+| January 24
+|-
+| January 31
+|-
+| February 7
+|-
+| February 14 || ''[[The Hotel New Hampshire]]'' || [[John Irving]]
+|-
+| February 21 || ''An Indecent Obsession'' || Colleen McCullough
+|-
+| February 28 || rowspan=3|''[[North and South (Jakes novel)|North and South]]'' || rowspan=3|[[John Jakes]]
+|-
+| March 7
+|-
+| March 14
+|-
+| March 21 || rowspan=11|''[[The Parsifal Mosaic]]'' || rowspan=11|[[Robert Ludlum]]
+|-
+| March 28
+|-
+| April 4
+|-
+| April 11
+|-
+| April 18
+|-
+| April 25
+|-
+| May 2
+|-
+| May 9
+|-
+| May 16
+|-
+| May 23
+|-
+| May 30
+|-
+| June 6 || ''[[The Man from St. Petersburg]]'' || [[Ken Follett]]
+|-
+| June 13 || rowspan=3|''The Parsifal Mosaic'' || rowspan=3|Robert Ludlum
+|-
+| June 20
+|-
+| June 27
+|-
+| July 4 || ''[[The Prodigal Daughter]]'' || [[Jeffrey Archer]]
+|-
+| July 11 || rowspan=2|''The Parsifal Mosaic'' || rowspan=2|Robert Ludlum
+|-
+| July 18
+|-
+| July 25 || rowspan=3|''The Prodigal Daughter'' || rowspan=3|Jeffrey Archer
+|-
+| August 1
+|-
+| August 8
+|-
+| August 15 || ''[[Different Seasons]]'' || [[Stephen King]]
+|-
+| August 22 || ''The Prodigal Daughter'' || Jeffrey Archer
+|-
+| August 29 || rowspan=2|''Different Seasons'' || rowspan=2|Stephen King
+|-
+| September 5
+|-
+| September 12 || rowspan=4|''[[Master of the Game (novel)|Master of the Game]]'' || rowspan=4|[[Sidney Sheldon]]
+|-
+| September 19
+|-
+| September 26
+|-
+| October 3
+|-
+| October 10 || rowspan=12|''[[Space (novel)|Space]]'' || rowspan=12|[[ James A. Michener| James Michener]]
+|-
+| October 17
+|-
+| October 24
+|-
+| October 31
+|-
+| November 7
+|-
+| November 14
+|-
+| November 21
+|-
+| November 28
+|-
+| December 5
+|-
+| December 12
+|-
+| December 19
+|-
+| December 26
+|}
+
+==See also==
+{{portal|Books|Lists}}
+* [[1982 in literature]]
+* [[Lists of The New York Times Fiction Best Sellers|Lists of ''The New York Times'' Fiction Best Sellers]]
+* [[Publishers Weekly list of bestselling novels in the United States in the 1980s|''Publishers Weekly'' list of bestselling novels in the United States in the 1980s]]
+{{clear}}
+
+==References==
+{{reflist}}
+
+{{NYT fiction number 1s}}
+
+{{DISPLAYTITLE:''The New York Times'' Fiction Best Sellers of 1982}}
+
+{{DEFAULTSORT:New York Times Fiction Best Sellers of 1982, The}}
+[[Category:The New York Times Best Seller list|1982]]
+[[Category:1982 fiction books|.]]
+[[Category:1982 in the United States]]

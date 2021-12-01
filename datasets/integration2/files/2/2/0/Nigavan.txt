@@ -1,0 +1,43 @@
+{{coord|40|37|18|N|44|17|57|E|display=title}}
+{{Infobox settlement
+|official_name =Nigavan
+|native_name =Նիգավան 
+|pushpin_map            =Armenia
+|mapsize                =150px
+|subdivision_type       = Country
+|subdivision_name       = [[Armenia]]
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      =[[Aragatsotn]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2001
+|population_total =707
+|population_density_km2   =
+|timezone =&nbsp;
+|utc_offset             = +4
+|timezone_DST           =&nbsp; 
+|utc_offset_DST         = +5
+|coordinates            = {{coord|40|37|18|N|44|17|57|E|region:AM|display=inline}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+}}
+'''Nigavan''' ({{lang-hy|Նիգավան}}; until 1947, '''Danagirmaz''' and '''Damagermaz'''; from 1947 to 1967, '''Ovit''' and '''Hovit''') is a town in the [[Aragatsotn|Aragatsotn Province]] of [[Armenia]]. The town has a [[cyclopean architecture|cyclopean]] fort.
+
+== See also ==
+*[[Aragatsotn Province]]
+
+== References ==
+*{{GEOnet2|32FA881E6BF43774E0440003BA962ED3}}
+*{{ArmenianCensus|70}}
+*Kiesling, ''Rediscovering Armenia'', p. 22, available online at the [https://web.archive.org/web/20080626205330/http://yerevan.usembassy.gov/armenia.pdf US embassy to Armenia's website]
+
+{{Aragatsotn}}
+
+[[Category:Populated places in Aragatsotn Province]]
+
+{{Aragatsotn-geo-stub}}

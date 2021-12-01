@@ -1,0 +1,642 @@
+{{short description|American college basketball season}}
+{{Infobox NCAA team season
+  |year=2010–11
+  | team = Longwood Lancers
+  |sport=Basketball
+  | image =Longwood Lancers Wordmark.png
+  | image_size = 250
+  |conference=independent
+  |division=
+  |short_conf=Ind
+  |record = 12–19
+  |conf_record= 0–0
+  |head_coach=[[Mike Gillian]]
+  |hc_year = 8th
+  |asst_coach1=Bill Reinson
+  |ac1_year=9th
+  |asst_coach2=Doug Thibault
+  |ac2_year=8th
+  |asst_coach3=Tim Fudd
+  |ac3_year=8th
+  |stadium=[[Willett Hall]]
+  |champion=
+  |tourney=
+  |tourney_result=
+}}
+<!--{{2010–11 independent men's basketball standings}}-->
+The '''2010–11 Longwood Lancers men's basketball team''' represented [[Longwood University]] during the [[2010–11 NCAA Division I men's basketball season]]. The team was led by eighth-year head coach Mike Gillian, and played their home games at [[Willett Hall]] as a [[NCAA Division I independent schools (basketball)|Division I independent]] school.
+
+==Last season==
+The [[2009–10 Longwood Lancers men's basketball team|Lancers]] had a record of 12–19.
+
+== Roster ==
+{{CBB roster/Header|year=2010|team=Longwood Lancers|hdr_bgcolor=#002B7F|subhdr_bgcolor=#AFAAA3|hdr_txtcolor=#AFAAA3|subhdr_txtcolor=#002B7F|high_school=yes}}
+{{CBB roster/Player|first=Jeremiah|last=Bowman |link=|dab=|num=1|pos=G|ft=6|in=2|lbs=188|class=JR|rs=|cur_rs=|home=[[Washington, D.C.|Washington, DC]]|high_school=[[Middleburg Academy|Middleburg]]/[[Harcum College|Harcum]]|note=}}
+{{CBB roster/Player|first=Martiz|last=Washington |link=|dab=|num=2|pos=G|ft=6|in=0|lbs=175|class=JR|rs=|cur_rs=|home=[[Hopewell, Virginia|Hopewell, VA]]|high_school=[[Christchurch School|Christchurch]]|note=}}
+{{CBB roster/Player|first=Anthony|last=Taylor |link=|dab=|num=3|pos=G|ft=6|in=2|lbs=200|class=FR|rs=|cur_rs=|home=[[Egg Harbor Township, New Jersey|Egg Harbor Township, NJ]]|high_school=[[Egg Harbor Township High School|Egg Harbor Township]]|note=}}
+{{CBB roster/Player|first=Antwan|last=Carter |link=|dab=|num=4|pos=C|ft=6|in=6|lbs=225|class=JR|rs=|cur_rs=|home=[[St. Petersburg, Florida|St. Petersburg, FL]]|high_school=[[St. Petersburg High School|St. Petersburg]]|note=}}
+{{CBB roster/Player|first=Stephen|last=Shockley |link=|dab=|num=10|pos=G|ft=6|in=0|lbs=180|class=SO|rs=|cur_rs=|home=[[Leesburg, Virginia|Leesburg, VA]]|high_school=[[Heritage High School (Leesburg, Virginia)|Heritage High School]]|note=}}
+{{CBB roster/Player|first=Earl|last=Gee II |link=|dab=|num=11|pos=G|ft=5|in=10|lbs=155|class=SR|rs=|cur_rs=|home=[[Chesterfield, Virginia|Chesterfield, VA]]|high_school=[[Manchester High School (Virginia)|Manchester]]|note=}}
+{{CBB roster/Player|first=Tristan|last=Carey |link=|dab=|num=12|pos=G|ft=6|in=4|lbs=195|class=SO|rs=|cur_rs=|home=[[Colonial Beach, Virginia|Colonial Beach, VA]]|high_school=[[Colonial Beach High School|Colonial Beach]]/[[La Salle University|La Salle]]|note=}}
+{{CBB roster/Player|first=David|last=Robinson |link=|dab=|num=13|pos=G|ft=6|in=4|lbs=185|class=FR|rs=|cur_rs=|home=Chesterfield, VA|high_school=[[Cosby High School|Cosby]]|note=}}
+{{CBB roster/Player|first=Aaron|last=Mitchell |link=|dab=|num=20|pos=G|ft=6|in=2|lbs=190|class=SR|rs=|cur_rs=|home=[[Matoaca, Virginia|Matoaca, VA]]|high_school=[[Manatee High School|Manatee]]|note=}}
+{{CBB roster/Player|first=Mark|last=Parker |link=|dab=|num=21|pos=G/F|ft=6|in=7|lbs=192|class=FR|rs=|cur_rs=|home=[[Clayton, North Carolina|Clayton, NC]]|high_school=[[West Johnston High School|West Johnston]]|note=}}
+{{CBB roster/Player|first=Jeylani|last=Dublin |link=|dab=|num=22|pos=F|ft=6|in=6|lbs=210|class=FR|rs=|cur_rs=|home=[[Brooklyn, New York|Brooklyn, NY]]|high_school=[[Millbrook School|Millbrook]]|note=}}
+{{CBB roster/Player|first=Durann|last=Neil |link=|dab=|num=25|pos=G|ft=6|in=2|lbs=205|class=JR|rs=yes|cur_rs=X|home=[[Pleasantville, New Jersey|Pleasantville, NJ]]|high_school=[[LEAP Academy University Charter School|Leap Academy]]|note=}}
+{{CBB roster/Player|first=Jeffrey|last=Ryan |link=|dab=|num=31|pos=F|ft=6|in=7|lbs=185|class=SR|rs=|cur_rs=X|home=[[Beacon, New York|Beacon, NY]]|high_school=[[Newburgh Free Academy|Newburgh]]|note=}}
+{{CBB roster/Player|first=Jan|last=van der Kooij |link=|dab=|num=33|pos=F|ft=6|in=7|lbs=222|class=JR|rs=|cur_rs=|home=[[Tiendeveen|Tiendeveen, NL]]|high_school=Roelof van Echten|note=}}
+{{CBB roster/Player|first=Jeff|last=Havenstein |link=|dab=|num=44|pos=F|ft=6|in=8|lbs=235|class=FR|rs=|cur_rs=|home=[[Mt. Airy, Maryland|Mt. Airy, MD]]|high_school=[[Linganore High School|Linganore]]|note=}}
+{{CBB roster/Footer
+|head_coach=
+* [[Mike Gillian]] ([[Massachusetts College of Liberal Arts|North Adams State]])
+|asst_coach=
+* Bill Reinson ([[University of Phoenix|Phoenix]])
+* Doug Thibault ({{college|Boise State}})
+* Tim Fudd ([[American University|American]])
+|roster_url=http://longwoodlancers.com/roster.aspx?roster=89&path=mbasket
+|accessdate=17 December 2014
+}}
+
+== Schedule ==
+{{CBB schedule start|rank=no|attend=yes}}
+|-
+!colspan=9 style="background:#002B7F; color:#AFAAA3;"| Regular season
+{{CBB schedule entry
+ | date         = November 12
+ | time         = 8:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Kansas Jayhawks men's basketball team|Kansas]]
+ | opprank      = 7
+ | site_stadium = [[Allen Fieldhouse]]
+ | site_cityst  = [[Lawrence, KS]]
+ | gamename     = 
+ | tv           = 
+ | score        = 75–113
+ | overtime     = 
+ | attend       = 16,300
+ | record       = 0–1
+}}
+{{CBB schedule entry
+ | date         = November 15
+ | time         = 8:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Stephen F. Austin Lumberjacks men's basketball team|Stephen F. Austin]]
+ | opprank      = 
+ | site_stadium = [[William R. Johnson Coliseum]]
+ | site_cityst  = [[Nacogdoches, TX]]
+ | gamename     = 
+ | tv           = 
+ | score        = 54–80
+ | overtime     = 
+ | attend       = 1,856
+ | record       = 0–2
+}}
+{{CBB schedule entry
+ | date         = November 18
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[Virginia–Wise Highland Cavaliers|Virginia–Wise]]
+ | opprank      = 
+ | site_stadium = [[Willett Hall]]
+ | site_cityst  = [[Farmville, VA]]
+ | gamename     = 
+ | tv           = 
+ | score        = 104–70
+ | overtime     = 
+ | attend       = 1,318
+ | record       = 1–2
+}}
+{{CBB schedule entry
+ | date         = November 20
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Columbia Lions men's basketball team|Columbia]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 95–76
+ | overtime     = 
+ | attend       = 1,348
+ | record       = 2–2
+}}
+{{CBB schedule entry
+ | date         = November 22
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[Montreat College]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 111–62
+ | overtime     = 
+ | attend       = 1,162
+ | record       = 3–2
+}}
+{{CBB schedule entry
+ | date         = November 27
+ | time         = 1:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Campbell Fighting Camels men's basketball team|Campbell]]
+ | opprank      = 
+ | site_stadium = [[John W. Pope, Jr. Convocation Center|Pope Convocation Center]]
+ | site_cityst  = [[Buies Creek, NC]]
+ | gamename     = 
+ | tv           = 
+ | score        = 77–93
+ | overtime     = 
+ | attend       = 1,023
+ | record       = 3–3
+}}
+{{CBB schedule entry
+ | date         = November 29
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 78–83
+ | overtime     = 
+ | attend       = 1,129
+ | record       = 3–4
+}}
+{{CBB schedule entry
+ | date         = December 1
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 James Madison Dukes men's basketball team|James Madison]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = [[Fox College Sports|FCS]]
+ | score        = 78–88
+ | overtime     = 
+ | attend       = 1,963
+ | record       = 3–5
+}}
+{{CBB schedule entry
+ | date         = December 4
+ | time         = 2:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Marquette Golden Eagles men's basketball team|Marquette]]
+ | opprank      = 
+ | site_stadium = [[BMO Harris Bradley Center]]
+ | site_cityst  = [[Milwaukee, WI]]
+ | gamename     = 
+ | tv           = 
+ | score        = 65–96
+ | overtime     = 
+ | attend       = 13,869
+ | record       = 3–6
+}}
+{{CBB schedule entry
+ | date         = December 11
+ | time         = 1:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 VMI Keydets men's basketball team|VMI]]
+ | opprank      = 
+ | site_stadium = [[Cameron Hall (Virginia)|Cameron Hall]]
+ | site_cityst  = [[Lexington, VA]]
+ | gamename     = 
+ | tv           = 
+ | score        = 82–114
+ | overtime     = 
+ | attend       = 3,212
+ | record       = 3–7
+}}
+{{CBB schedule entry
+ | date         = December 13
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Seton Hall Pirates men's basketball team|Seton Hall]]
+ | opprank      = 
+ | site_stadium = [[Prudential Center]]
+ | site_cityst  = [[Newark, NJ]]
+ | gamename     = 
+ | tv           = 
+ | score        = 51–78
+ | overtime     = 
+ | attend       = 5,836
+ | record       = 3–8
+}}
+{{CBB schedule entry
+ | date         = December 17
+ | time         = 9:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 New Mexico Lobos men's basketball team|New Mexico]]
+ | opprank      = 
+ | site_stadium = [[WisePies Arena]]
+ | site_cityst  = [[Albuquerque, NM]]
+ | gamename     = IBN Sports Las Vegas Classic
+ | tv           = 
+ | score        = 54–91
+ | overtime     = 
+ | attend       = 14,144
+ | record       = 3–9
+}}
+{{CBB schedule entry
+ | date         = December 19
+ | time         = 4:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Colorado Buffaloes men's basketball team|Colorado]]
+ | opprank      = 
+ | site_stadium = [[Coors Events Center]]
+ | site_cityst  = [[Boulder, CO]]
+ | gamename     = IBN Sports Las Vegas Classic
+ | tv           = 
+ | score        = 59–104
+ | overtime     = 
+ | attend       = 2,556
+ | record       = 3–10
+}}
+{{CBB schedule entry
+ | date         = December 22
+ | time         = 2:30&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = yes
+ | rank         = no
+ | opponent     = [[2010–11 SIU Edwardsville Cougars men's basketball team|SIU Edwardsville]]
+ | opprank      = 
+ | site_stadium = [[Orleans Arena]]
+ | site_cityst  = [[Las Vegas, NV]]
+ | gamename     = IBN Sports Las Vegas Classic
+ | tv           = 
+ | score        = 71–78
+ | overtime     = 
+ | attend       = 150
+ | record       = 3–11
+}}
+{{CBB schedule entry
+ | date         = December 23
+ | time         = 2:30&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = yes
+ | rank         = no
+ | opponent     = [[2010–11 South Carolina State Bulldogs men's basketball team|South Carolina State]]
+ | opprank      = 
+ | site_stadium = Orleans Arena
+ | site_cityst  = Las Vegas, NV
+ | gamename     = IBN Sports Las Vegas Classic
+ | tv           = 
+ | score        = 90–73
+ | overtime     = 
+ | attend       = 150
+ | record       = 4–11
+}}
+{{CBB schedule entry
+ | date         = December 29
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 William & Mary Tribe men's basketball team|William & Mary]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 83–81
+ | overtime     = 
+ | attend       = 1,339
+ | record       = 5–11
+}}
+{{CBB schedule entry
+ | date         = January 2
+ | time         = 2:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Colgate Raiders men's basketball team|Colgate]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 61–80
+ | overtime     = 
+ | attend       = 402
+ | record       = 5–12
+}}
+{{CBB schedule entry
+ | date         = January 4
+ | time         = 7:30&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Navy Midshipmen men's basketball team|Navy]]
+ | opprank      = 
+ | site_stadium = [[Alumni Hall (Navy)|Alumni Hall]]
+ | site_cityst  = [[Annapolis, MD]]
+ | gamename     = 
+ | tv           = 
+ | score        = 70–87
+ | overtime     = 
+ | attend       = 1,433
+ | record       = 5–13
+}}
+{{CBB schedule entry
+ | date         = January 6
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 South Dakota Coyotes men's basketball team|South Dakota]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 85–82
+ | overtime     = 
+ | attend       = 306
+ | record       = 6–13
+}}
+{{CBB schedule entry
+ | date         = January 9
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 North Dakota Fighting Sioux men's basketball team|North Dakota]]
+ | opprank      = 
+ | site_stadium = [[Betty Engelstad Sioux Center]]
+ | site_cityst  = [[Grand Forks, ND]]
+ | gamename     = 
+ | tv           = 
+ | score        = 74–90
+ | overtime     = 
+ | attend       = 1,301
+ | record       = 6–14
+}}
+{{CBB schedule entry
+ | date         = January 18
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 NJIT Highlanders men's basketball team|NJIT]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 88–81
+ | overtime     = 
+ | attend       = 1,218
+ | record       = 7–14
+}}
+{{CBB schedule entry
+ | date         = January 22
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+ | opprank      = 
+ | site_stadium = [[Cassell Coliseum]]
+ | site_cityst  = [[Blacksburg, VA]]
+ | gamename     = 
+ | tv           = 
+ | score        = 52–70
+ | overtime     = 
+ | attend       = 9,847
+ | record       = 7–15
+}}
+{{CBB schedule entry
+ | date         = January 25
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = Campbell
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 72–62
+ | overtime     = 
+ | attend       = 1,429
+ | record       = 8–15
+}}
+{{CBB schedule entry
+ | date         = January 29
+ | time         = 2:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Savannah State Tigers men's basketball team|Savannah State]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 67–76
+ | overtime     = 
+ | attend       = 1,158
+ | record       = 8–16
+}}
+{{CBB schedule entry
+ | date         = February 2
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = Colgate
+ | opprank      = 
+ | site_stadium = [[Cotterell Court]]
+ | site_cityst  = [[Hamilton, NY]]
+ | gamename     = 
+ | tv           = 
+ | score        = 86–97
+ | overtime     = 
+ | attend       = 587
+ | record       = 8–17
+}}
+{{CBB schedule entry
+ | date         = February 5
+ | time         = 2:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = NJIT
+ | opprank      = 
+ | site_stadium = [[Fleisher Center]]
+ | site_cityst  = [[Newark, NJ]]
+ | gamename     = 
+ | tv           = 
+ | score        = 64–65
+ | overtime     = 
+ | attend       = 620
+ | record       = 8–18
+}}
+{{CBB schedule entry
+ | date         = February 9
+ | time         = 8:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 Maryland Terrapins men's basketball team|Maryland]]
+ | opprank      = 
+ | site_stadium = [[Xfinity Center (College Park, Maryland)|Comcast Center]]
+ | site_cityst  = [[College Park, MD]]
+ | gamename     = 
+ | tv           = 
+ | score        = 52–106
+ | overtime     = 
+ | attend       = 14,526
+ | record       = 8–19
+}}
+{{CBB schedule entry
+ | date         = February 12
+ | time         = 2:00&nbsp;pm
+ | nonconf      = yes
+ | away         = yes
+ | neutral      = 
+ | rank         = no
+ | opponent     = Savannah State
+ | opprank      = 
+ | site_stadium = [[Tiger Arena]]
+ | site_cityst  = [[Savannah, GA]]
+ | gamename     = 
+ | tv           = 
+ | score        = 75–56
+ | overtime     = 
+ | attend       = 633
+ | record       = 9–19
+}}
+{{CBB schedule entry
+ | date         = February 16
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[Southern Virginia University]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 99–64
+ | overtime     = 
+ | attend       = 1,332
+ | record       = 10–19
+}}
+{{CBB schedule entry
+ | date         = February 19
+ | time         = 2:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[2010–11 CSU Bakersfield Roadrunners men's basketball team|CSU Bakersfield]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 79–72
+ | overtime     = 
+ | attend       = 1,138
+ | record       = 11–19
+}}
+{{CBB schedule entry
+ | date         = February 24
+ | time         = 7:00&nbsp;pm
+ | nonconf      = yes
+ | away         = 
+ | neutral      = 
+ | rank         = no
+ | opponent     = [[Washington Adventist University|Washington Adventist]]
+ | opprank      = 
+ | site_stadium = Willett Hall
+ | site_cityst  = Farmville, VA
+ | gamename     = 
+ | tv           = 
+ | score        = 113–84
+ | overtime     = 
+ | attend       = 1,348
+ | record       = 12–19
+}}
+{{CBB schedule end
+|poll=[[AP Poll]]
+|timezone=[[Eastern Time Zone|Eastern Time]]
+|rank=no}}
+<ref name="LongwoodSchedule">{{cite web
+| title = 2010–2011 Schedule
+| url = http://longwoodlancers.com/schedule.aspx?schedule=114&path=mbasket
+| website = LongwoodLancers.com
+| accessdate = 17 December 2014
+}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Longwood Lancers men's basketball navbox}}
+
+{{DEFAULTSORT:Longwood Lancers men's basketball team, 2010-11}}
+[[Category:Longwood Lancers men's basketball seasons|2010-11 team]]
+[[Category:2010–11 NCAA Division I men's basketball season]]
+[[Category:2010 in sports in Virginia]]
+[[Category:2011 in sports in Virginia]]

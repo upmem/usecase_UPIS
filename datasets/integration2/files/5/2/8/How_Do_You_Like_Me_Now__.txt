@@ -1,0 +1,129 @@
+{{Infobox album
+| name       = How Do You Like Me Now?!
+| type       = studio
+| artist     = [[Toby Keith]]
+| cover      = Hdylmn.jpg
+| alt        =
+| released   = November 2, 1999
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Country music|Country]]
+| length     = 40:59
+| label      = [[DreamWorks Records|DreamWorks]]
+| producer   = [[James Stroud]]<br>Toby Keith
+| prev_title = [[Greatest Hits Volume One (Toby Keith album)|Greatest Hits Volume One]]<BR>
+| prev_year  = 1998
+| next_title = [[Pull My Chain]]<BR>
+| next_year  = 2001
+| misc       = {{Singles
+ | name        = How Do You Like Me Now
+ | type        = studio
+ | single1     = When Love Fades
+ | single1date = 1999
+ | single2     = [[How Do You Like Me Now]]
+ | single2date = November 22, 1999
+ | single3     = [[Country Comes to Town]]
+ | single3date = May 15, 2000
+ | single4     = [[You Shouldn't Kiss Me Like This]]
+ | single4date = October 16, 2000
+}}
+}}
+{{Album ratings
+| rev1 = [[Allmusic]]
+| rev1Score = {{rating|4|5}} <ref>{{Allmusic|class=album|id=r431425}}</ref>
+}}
+'''''How Do You Like Me Now?!''''' is the fifth studio album from [[United States|American]] [[country music]] artist [[Toby Keith]]. It was his first album for [[DreamWorks Records]] after leaving [[Mercury Records]]. After buying the master, Keith gave the album to DreamWorks.<ref>https://calgaryherald.com/entertainment/Keith+never+mince+words/5596280/story.html</ref> The lead single, "When Love Fades", peaked at #44 on the [[Hot Country Songs]] charts because it was pulled for the follow-up single (which was the title track) that spent five weeks at number one on the same chart, in addition to reaching #31 on the [[Billboard Hot 100|''Billboard'' Hot 100]], becoming Keith's biggest hit at the time. Furthermore, "How Do You Like Me Now?!" was declared the number-one country song of 2000 according to ''[[Billboard (magazine)|Billboard]]''. The third and fourth singles from this album, respectively, were "Country Comes to Town" (#4 on Hot Country Songs) and "You Shouldn't Kiss Me Like This", which spent three non-contiguous weeks at number one on the country chart as well. Overall, the album was certified platinum in the U.S. for sales of one million copies.
+
+The album was produced by [[James Stroud]], then the head of DreamWorks Records.<ref>{{cite journal|last=Price|first=Deborah Evans|date=October 9, 1999|title=Toby Keith lands At DreamWorks|journal=Billboard|page=57|url=http://www.americanradiohistory.com/Archive-Billboard/90s/1999/BB-1999-10-09.pdf}}</ref>
+
+==Track listing==
+#"[[How Do You Like Me Now?! (song)|How Do You Like Me Now?!]]" (Toby Keith, [[Chuck Cannon]]) - 3:27
+#"When Love Fades" (Keith, Cannon) - 3:04
+#"Blue Bedroom" (Keith, Cannon) - 3:28
+#"New Orleans" ([[Mark D. Sanders]], [[Bob DiPiero]], [[Steve Seskin]]) - 4:11
+#"[[Country Comes to Town]]" (Keith) - 3:38
+#"Heart to Heart (Stelen's Song)" (Keith) - 3:33
+#"She Only Gets That Way with Me" (Keith, [[Scotty Emerick]]) - 2:29
+#"Die with Your Boots On" (Keith, Jim Femino) - 3:05
+#"[[You Shouldn't Kiss Me Like This]]" (Keith) - 3:42
+#"Hold You, Kiss You, Love You" ([[Byron Hill]], Jack Jones, Frank Mickey Jones Jr.) - 3:13
+#"Do I Know You (Bottom of My Heart)" (Keith) - 3:35
+#"I Know a Wall When I See One" (J. B. Rudd, [[Jerry Salley]]) - 3:13
+
+==Musicians==
+*Mike Brignardello - [[bass guitar]]
+*[[Larry Byrom]] - [[acoustic guitar]]
+*Mark Casstevens - acoustic guitar
+*[[Dan Dugmore]] - [[steel guitar]]
+*[[Paul Franklin (musician)|Paul Franklin]] - steel guitar
+*Sonny Garrish - steel guitar
+*Owen Hale - [[drum kit|drums]]
+*[[Aubrey Haynie]] - [[mandolin]]
+*Clayton Ivey - [[piano]], [[keyboard instrument|keyboards]], [[organ (instrument)|organ]]
+*[[Toby Keith]] - lead vocals
+*[[Paul Leim]] - drum programming on "New Orleans"
+*B. James Lowry - acoustic guitar
+*Terry McMillan - [[harmonica]]
+*Jerry McPherson - [[electric guitar]]
+*[[Brent Mason]] - electric guitar
+*[[Steve Nathan]] - keyboards, organ
+*[[Brent Rowan]] - electric guitar
+*[[John Wesley Ryles]] - background vocals
+*Gary Smith - piano, keyboards, organ
+*[[Glenn Worf]] - bass guitar
+*Curtis Young - background vocals
+
+==Chart performance==
+{{col-start}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (1999–2001)
+! scope="col"| Peak<br /> position
+|-
+! scope="row"| Canadian Country Albums (''[[RPM (magazine)|RPM]]'')
+| 8
+|-
+{{album chart|Billboard200|56|artist=Toby Keith|rowheader=true|accessdate=October 25, 2020}}
+|-
+{{album chart|BillboardCountry|9|artist=Toby Keith|rowheader=true|accessdate=October 25, 2020}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2000)
+! scope="col"| Position
+|-
+! scope="row"| US ''Billboard'' 200<ref>{{cite web|url=https://www.billboard.com/charts/year-end/2000/top-billboard-200-albums|title=Top Billboard 200 Albums – Year-End 2000|work=Billboard|accessdate=October 25, 2020}}</ref>
+| 170
+|-
+! scope="row"| US Top Country Albums (''Billboard'')<ref>{{cite web|url=http://www.billboard.com/charts/year-end/2000/top-country-albums|title=Top Country Albums – Year-End 2000|work=Billboard|accessdate=October 25, 2020}}</ref>
+| 18
+|}
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2001)
+! scope="col"| Position
+|-
+! scope="row"| US ''Billboard'' 200<ref>{{cite web|url=https://www.billboard.com/charts/year-end/2001/top-billboard-200-albums|title=Top Billboard 200 Albums – Year-End 2001|work=Billboard|accessdate=October 25, 2020}}</ref>
+| 131
+|-
+! scope="row"| US Top Country Albums (''Billboard'')<ref>{{cite web|url=http://www.billboard.com/charts/year-end/2001/top-country-albums|title=Top Country Albums – Year-End 2001|work=Billboard|accessdate=October 25, 2020}}</ref>
+| 12
+|}
+{{col-end}}
+
+==References==
+{{reflist}}
+
+{{Toby Keith}}
+
+[[Category:1999 albums]]
+[[Category:Toby Keith albums]]
+[[Category:DreamWorks Records albums]]
+[[Category:Albums produced by James Stroud]]

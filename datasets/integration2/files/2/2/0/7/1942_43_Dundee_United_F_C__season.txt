@@ -1,0 +1,145 @@
+{{Use dmy dates|date=April 2012}}
+{{Infobox Football club season
+| club = [[Dundee United F.C.|Dundee United]]
+| logo = [[File:Dufc.gif]]
+| season = 1942–43
+| manager = [[Jimmy Littlejohn]]
+| chairman =
+| league = [[North Eastern Football League (Scotland)|North Eastern League Series 1]]
+| league result = 6th <br />W5 D0 L9 F24 A36 P10
+| cup1 = [[North Eastern Football League (Scotland)|North Eastern League Series 2]]
+| cup1 result = 6th <br />W5 D1 L8 F25 A32 P11
+| cup2 = [[Supplementary Cup]] | cup2 result = Round 1
+| cup3 = [[Mitchell Cup]] | cup3 result = Round 1
+| league topscorer =
+| season topscorer =
+| highest attendance =
+| lowest attendance =
+| prevseason = [[1941–42 Dundee United F.C. season|1941–42]]
+| nextseason = [[1943–44 Dundee United F.C. season|1943–44]]
+}}
+
+The '''1942–43 season''' was the 36th year of [[football (soccer)|football]] played by [[Dundee United F.C.|Dundee United]], and covers the period from 1 July 1942 to 30 June 1943.
+
+==Match results==
+Dundee United played a total of 32 unofficial matches during the 1942–43 season.<ref name="results">{{cite web|url=http://www.arabarchive.co.uk/matches.php?|title=Match results 1942/1943|work=Arab Archive|accessdate=20 August 2013}}</ref>
+
+===Legend===
+{| class="wikitable"
+|-
+|- bgcolor = "#d0ffe3"
+|<small>Win</small>
+|- bgcolor = "#f3f3f3"
+|<small>Draw</small>
+|- bgcolor = "#ffd0e3"
+|<small>Loss</small>
+|}
+
+All results are written with Dundee United's score first.
+Own goals in italics
+
+===North Eastern League Series 1===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+|-
+!Date!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- bgcolor = "#ffd0e3"
+|8 August 1942||[[Rangers F.C.|Rangers "A"]]||[[Ibrox Park|A]]||1-2||2,500||
+|- bgcolor = "#d0ffe3"
+|15 August 1942||[[Raith Rovers F.C.|Raith Rovers]]||[[Tannadice Park|H]]||3-2||2,000||
+|- bgcolor = "#ffd0e3"
+|22 August 1943||[[Heart of Midlothian F.C.|Heart of Midlothian "A"]]||[[Tynecastle Park|A]]||1-3||2,500||
+|- bgcolor = "#d0ffe3"
+|29 August 1942||[[Dunfermline Athletic F.C.|Dunfermline Athletic]]||[[Tannadice Park|H]]||3-1||3,000||
+|- bgcolor = "#ffd0e3"
+|5 September 1942||[[East Fife F.C.|East Fife]]||[[Bayview Park, Methil|A]]||0-3||4,000||
+|- bgcolor = "#ffd0e3"
+|12 September 1942||[[Aberdeen F.C.|Aberdeen]]||[[Tannadice Park|H]]||0-4||6,000||
+|- bgcolor = "#d0ffe3"
+|19 September 1942||[[Hibernian F.C.|Hibernian "A"]]||[[Tannadice Park|H]]||3-1||3,500|| 
+|- bgcolor = "#d0ffe3"
+|26 September 1942||[[Heart of Midlothian F.C.|Heart of Midlothian "A"]]||[[Tannadice Park|H]]||3-1||?,???||
+|- bgcolor = "#ffd0e3"
+|3 October 1942||[[Raith Rovers F.C.|Raith Rovers]]||[[Stark's Park|A]]||0-4||2,000||
+|- bgcolor = "#d0ffe3"
+|10 October 1942||[[Rangers F.C.|Rangers "A"]]||[[Tannadice Park|H]]||3-2||?,???||
+|- bgcolor = "#ffd0e3"
+|17 October 1942||[[East Fife F.C.|East Fife]]||[[Tannadice Park|H]]||0-1||1,500||
+|- bgcolor = "#ffd0e3"
+|24 October 1942||[[Aberdeen F.C.|Aberdeen]]||[[Pittodrie Park|A]]||0-1||7,000||
+|- bgcolor = "#ffd0e3"
+|31 October 1942||[[Hibernian F.C.|Hibernian "A"]]||[[Easter Road|A]]||4-6||500||
+|- bgcolor = "#ffd0e3"
+|7 November 1942||[[Dunfermline Athletic F.C.|Dunfermline Athletic]]||[[East End Park|A]]||3-5||2,000||
+|}
+
+===North Eastern League Series 2===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+|-
+!Date!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- bgcolor = "#d0ffe3"
+|1 January 1943||[[Aberdeen F.C.|Aberdeen]]||[[Tannadice Park|H]]||1-0||?,???||
+|- bgcolor = "#ffd0e3"
+|2 January 1943||[[East Fife F.C.|East Fife]]||[[Tannadice Park|H]]||1-2||4,500||
+|- bgcolor = "#f3f3f3"
+|16 January 1943||[[Heart of Midlothian F.C.|Heart of Midlothian "A"]]||[[Tynecastle Park|A]]||2-2||2,000|| 
+|- bgcolor = "#d0ffe3"
+|23 January 1943||[[Raith Rovers F.C.|Raith Rovers]]||[[Stark's Park|A]]||6-2||8,000||
+|- bgcolor = "#ffd0e3"
+|30 January 1943||[[Hibernian F.C.|Hibernian "A"]]||[[Easter Road|A]]||2-3||750||
+|- bgcolor = "#d0ffe3"
+|6 February 1943||[[Rangers F.C.|Rangers "A"]]||[[Tannadice Park|H]]||2-1||4,000||
+|- bgcolor = "#ffd0e3"
+|13 February 1943||[[Aberdeen F.C.|Aberdeen]]||[[Pittordrie Park|A]]||0-3||6,000||
+|- bgcolor = "#d0ffe3"
+|20 February 1943||[[Heart of Midlothian F.C.|Heart of Midlothian "A"]]||[[Tannadice Park|H]]||4-1||1,000|| 
+|- bgcolor = "#ffd0e3"
+|27 February 1943||[[Raith Rovers F.C.|Raith Rovers]]||[[Tannadice Park|H]]||3-4||4,000||
+|- bgcolor = "#d0ffe3"
+|6 March 1943||[[Hibernian F.C.|Hibernian "A"]]||[[Tannadice Park|H]]||2-0||2,000||
+|- bgcolor = "#ffd0e3"
+|13 March 1943||[[Rangers F.C.|Rangers "A"]]||[[Ibrox Park|A]]|||1-3||4,000||
+|- bgcolor = "#d0ffe3"
+|20 March 1943||[[Dunfermline Athletic F.C.|Dunfermline Athletic]]||[[Tannadice Park|H]]||4-2||1,500||
+|- bgcolor = "#ffd0e3"
+|27 March 1943||[[Raith Rovers F.C.|Raith Rovers]]||[[Tannadice Park|H]]||3-4||4,000||
+|- bgcolor = "#ffd0e3"
+|17 April 1943||[[Dunfermline Athletic F.C.|Dunfermline Athletic]]||[[East End Park|A]]||1-3||1,000||
+|}
+
+===Supplementary Cup===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+|-
+!Date!!Rd!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- bgcolor = "#f3f3f3"
+|21 November 1942||R1 L1||[[Rangers F.C.|Rangers "A"]]||[[Tannadice Park|H]]||0-0||7,000||
+|- bgcolor = "#ffd0e3"
+|28 November 1942||R1 L2||[[Rangers F.C.|Rangers "A"]]||[[Ibrox Park|A]]||1-2||8,000||
+|}
+
+===Mitchell Cup===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+|-
+!Date!!Rd!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- bgcolor = "#d0ffe3"
+|3 April 1943||R1 L1||[[Raith Rovers F.C.|Raith Rovers]]||[[Stark's Park|A]]||2-1||3,500||
+|- bgcolor = "#ffd0e3"
+|10 April 1943||R1 L2||[[Raith Rovers F.C.|Raith Rovers]]||[[Tannadice Park|H]]||0-3||?,???||
+|}
+
+==See also==
+* [[1942–43 in Scottish football]]
+
+==References==
+{{Reflist}}
+
+{{Dundee United F.C.}}
+{{Dundee United F.C. seasons}}
+{{1942–43 in Scottish football}}
+
+{{DEFAULTSORT:1942-43 Dundee United F.C. season}}
+[[Category:Dundee United F.C. seasons]]
+[[Category:Scottish football clubs 1942–43 season|Dundee United]]
+
+
+{{Scotland-season-footyclub-stub}}
+{{Dundee-stub}}

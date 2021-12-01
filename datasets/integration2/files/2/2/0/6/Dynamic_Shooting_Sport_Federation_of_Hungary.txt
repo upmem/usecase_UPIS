@@ -1,0 +1,92 @@
+{{Infobox organization
+| name                = Dynamic Shooting Sport Federation of Hungary
+| native_name         = Magyar Dinamikus Lövészsport Szövetség
+| native_name_lang    = [[Hungarian language|Hungarian]]
+| named_after         = 
+| image               = 
+| image_size          = 
+| alt                 = 
+| caption             = 
+| map                 = 
+| map_size            = 
+| map_alt             = 
+| map_caption         = 
+| map2                = 
+| map2_size           = 
+| map2_alt            = 
+| map2_caption        = 
+| abbreviation        = 
+| motto               = 
+| predecessor         = 
+| merged              = 
+| successor           = 
+| formation           = {{start date||||df=y}}
+| founder             = 
+| founding_location   = 
+| extinction          = 
+| merger              = 
+| type                = 
+| tax_id              = <!-- or | vat_id = (for European organizations) -->
+| registration_id     = <!-- for non-profit org -->
+| status              = 
+| purpose             = 
+| headquarters        = 
+| location            = 
+| coords              = <!-- {{coord|LAT|LON|display=inline,title}} -->
+| region              = 
+| services            = 
+| products            = 
+| methods             = 
+| fields              = 
+| membership          = 
+| membership_year     = 
+| language            = 
+| owner               = <!-- or | owners = -->
+| sec_gen             = 
+| leader_title        = 
+| leader_name         = 
+| leader_title2       = 
+| leader_name2        = 
+| leader_title3       = 
+| leader_name3        = 
+| leader_title4       = 
+| leader_name4        = 
+| board_of_directors  = 
+| key_people          = 
+| main_organ          = 
+| parent_organization = [[International Practical Shooting Confederation]]
+| subsidiaries        = 
+| secessions          = 
+| affiliations        = 
+| budget              = 
+| budget_year         = 
+| revenue             = 
+| revenue_year        = 
+| disbursements       = 
+| expenses            = 
+| expenses_year       = 
+| endowment           = 
+| staff               = 
+| staff_year          = 
+| volunteers          = 
+| volunteers_year     = 
+| slogan              = 
+| mission             = 
+| website             = {{URL|mdlsz.sport.hu}}
+| remarks             = 
+| formerly            = 
+| footnotes           = 
+}}
+'''Dynamic Shooting Sport Federation of Hungary''', [[Hungarian language|Hungarian]] '''Magyar Dinamikus Lövészsport Szövetség''', is the [[Hungary|Hungarian]] association for [[practical shooting]] under the [[International Practical Shooting Confederation]] (IPSC)<ref>[http://www.ipsc.org/ipsc/regions.php IPSC.org :: Regions]</ref> as well as [[metallic silhouette shooting]] under the [[International Metallic Silhouette Shooting Union]] (IMSSU).
+
+== References ==
+<references/>
+
+{{Sports governing bodies in Hungary}}
+{{IPSC Championships}}
+{{IPSC Regions}}
+
+[[Category:Regions of the International Practical Shooting Confederation]]
+[[Category:Sports governing bodies in Hungary|Practical Shooting]]
+
+{{shooting-sport-stub}}

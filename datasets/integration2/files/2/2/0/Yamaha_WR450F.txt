@@ -1,0 +1,304 @@
+{{Infobox Motorcycle
+|name             = Yamaha WR450F
+|image            = [[File:2010 Yamaha WR450F at 2009 Seattle International Motorcycle Show 1.jpg|250px]]
+|caption          = 2010 Yamaha WR450F
+|aka              =
+|manufacturer     = [[Yamaha Motor Company]]
+|parent_company   = [[Yamaha Corporation]]
+|production       =
+|model_year       = Since 1998
+|assembly         =
+|predecessor      =
+|successor        =
+|class            = [[Enduro motorcycle|Enduro]]
+|engine           = [[Single-cylinder engine|Single-cylinder]], [[DOHC]], [[Multivalve]], [[Internal combustion engine cooling|water-cooled]], [[four-stroke]]
+|top_speed        =
+|power            =
+|torque           =
+|ignition         =
+|transmission     = 5-speed, wet clutch, chain drive
+|frame            =
+|suspension       = Front: Kayaba inverted fork; fully adjustable<br>
+Rear: single shock; fully adjustable
+|brakes           = Hydraulic single disc brakes
+|front wheel = {{Convert|21|in|abbr=on}}
+|rear wheel = {{Convert|18|in|abbr=on}}
+|tires            =
+|rake_trail       =
+|wheelbase        =
+|length           =
+|width            =
+|height           =
+|seat_height      =
+|dry_weight       =
+|wet_weight       =
+|fuel_capacity    =
+|oil_capacity     =
+|fuel_consumption =
+|turning_radius   =
+|related          =
+}}
+The '''Yamaha WR450F''' is an [[Types of motorcycles#Off-road|off-road]] motorcycle made by [[Yamaha Motor Company]]. It currently has a {{Convert|450|cc|abbr=on}} [[Radiator (engine cooling)|liquid-cooled]] [[single-cylinder]] engine. First offered in 1998 at 400cc, it shared many components and design concepts with the [[Yamaha YZ450F#First generation: YZ400F 1998–2000|YZ400F]] motocross model. It is basically the racing [[Yamaha YZ450F|YZ450F]] detuned slightly for more controllable power, with a headlight and lighting coil, softer suspension, a [[kickstand]], lower noise specifications, larger radiators and lower emissions. The WR in the name indicates a [[Gear train#Wide-ratio vs. close-ratio transmission|wide-ratio gear box]] common to most [[Enduro motorcycle|enduro]] or trail bikes and stands in contrast to the close-ratio gearbox essential to a [[motocross]] racer. Over the years the WR has benefited from the advances made in the YZ motocross version gaining displacement and advancements such as an aluminum frame and improved suspension.  Over much of its life the weight of the WR450F has remained fairly constant ranging from 244 to 249 pounds [[Wet weight|dry weight]].<ref name=YMC/>
+
+{| class="wikitable"
+|-
+| 2000 || 426cc displacement, updated clutch basket
+|-
+| 2003 || 450cc displacement, automatic decompression exhaust cam and electric starting, side access airbox
+|-
+| 2006 || Digital display, revised CDI map
+|-
+| 2007 || Aluminium frame, new headlight, LED taillight, revised [[dry-sump]] engine & camshafts (less lift and duration)
+|-
+| 2012 || [[Fuel injection]], YZ250F chassis, KYB SSS-type forks, revised engine position.
+|-
+| 2016 || Reverse slant, 4-valve engine
+|-
+|}
+
+{{Infobox Motorcycle
+| name = First Generation WR400F
+| image =File:Yamaha WR 400F 2000.jpg
+| aka =
+| manufacturer = Yamaha
+| parent_company =
+| production = 1998-1999
+| predecessor =
+| successor = WR426F
+| class =
+| engine = Five-valve, 400 cc
+| power =
+| torque =
+| transmission =
+| suspension = 
+| brakes = 
+| tires =
+| rake_trail =
+| wheelbase = 1998-1999: {{convert|1495|mm|in|0|abbr=on}} 2000: {{convert|1490|mm|in|0|abbr=on}}
+| length = 1998-1999: {{convert|2191|mm|in|0|abbr=on}} 2000: {{convert|2171|mm|in|0|abbr=on}}
+| width = {{convert|827|mm|in|0|abbr=on}}
+| height = {{convert|1303|mm|in|0|abbr=on}}
+| seat_height = {{convert|991|mm|in|0|abbr=on}}
+| dry_weight =
+| wet_weight = {{Convert|271|lb|kg|abbr=on}} 
+| fuel_capacity = {{Convert|3.2|usgal|abbr=on}}
+| related =
+| similar =
+}}
+
+==First generation: WR400F - 1998-2000==
+
+Yamaha introduced the WR 400F in 1998. The 400F is a {{Convert|400|cc|abbr=on}} four-stroke off-road motorcycle produced for three years, beginning in 1998 and ending in 2000 (only the YZ was upgraded to 426&nbsp;cc in 2000). The WR400F is related to the YZ400F, a motocross model. Like the YZ400, it was considered to be a groundbreaking model in motorcycle history, ushering in the four-stroke era which ended the dominance of [[two-stroke engine]]s in motocross and offroad racing. While many modern performance four-stroke dirt bikes have been criticized for excessive rebuild costs and short motor lifespans, the Yamaha WR400F has an impressive record of reliability, often attributed to its steel valves and generous oil capacity.{{Citation needed|date=September 2017}}
+
+{{Infobox Motorcycle
+| name = Second Generation WR426F <ref name=Yamaha2a>{{Citation|url=http://www.motorcycle.com/manufacturer/yamaha/2001-yamaha-wr426f-14482.html  |title=2001 Yamaha WR426F |publisher=Motorcycles.com |year=2001 }}</ref><ref name=Yamaha2b>{{Citation|url=http://www.motorcycle-usa.com/277/1072/Motorcycle-Article/2002-Yamaha-WR426F.aspx |title=2002 Yamaha WR426F  |publisher=MotorcycleUSA.com |year=2002 }}</ref>
+| image =
+| aka =
+| manufacturer =
+| parent_company =
+| production = 2001-2003
+| predecessor = WR400F
+| successor = WR450F
+| class =
+| engine = Titanium five-valve, 426 cc, 95mm x 60.1mm stroke, compression ratio 12.5:1
+| transmission =
+| suspension       = 
+| brakes           = 250mm front, 245mm rear
+| front wheel = 80/100-21
+| rear wheel = 120/90-18
+| wheelbase = {{Convert|1490|mm|in|abbr=on}}
+| length = {{convert|2171|mm|in|0|abbr=on}}
+| width = {{convert|827|mm|in|0|abbr=on}}
+| height = {{convert|1490|mm|in|0|abbr=on}}
+| seat_height= {{Convert|1303|mm|in|abbr=on}}
+| dry_weight =
+| wet_weight = {{convert|122|kg|lbs|0|abbr=on}}
+| fuel_capacity = {{Convert|3.2|usgal|abbr=on}}
+| related =
+| similar =
+}}
+
+==Second generation: WR426F - 2001-2002==
+In 2001 the WR400F's engine was uprated and it became the WR426F increasing the displacement to {{Convert|426|cc|abbr=on}} for greater power and throttle response.{{citation needed|reason=increasing the displacement ... for ... throttle response|date=September 2017}} A beefier YZ style clutch basket and plates than those on the WR400 improved clutch performance. Frame geometry was identical to the 2002 YZ250 and YZ426F with a 58.7 inch wheelbase and 14.7 inches of ground clearance. This was the last WR to make use of a manual compression release for starting.
+
+==Third generation: Yamaha WR450F - 2003-2006==
+{{Infobox Motorcycle
+|name             = Third Generation WR450F
+|image            =
+|aka              =
+|manufacturer     =
+|parent_company   =
+|production       = 2003 through 2006
+|model_year       =
+|predecessor      = WR426F
+|successor        =
+|class            =
+|engine           = Titanium five-valve, 449 cc, 95mm x 63.4mm stroke, compression ratio 12.3:1
+|top_speed        =
+|power            =
+|torque           =
+|transmission     =
+|frame            = Steel
+|suspension       = Front: {{convert|11.8|in|mm|0|abbr=on}} travel<br>Rear: 11.6-in travel
+|brakes           = Front: 250&nbsp;mm disc <br> Rear: 245&nbsp;mm disc
+|tires            = Front: 80/100-21 51M<br> Rear: 110/100-18 64M
+|rake_trail       =
+|wheelbase        = {{convert|58.5|in|mm|0|abbr=on}}
+|length           =  {{convert|85.6|in|mm|0|abbr=on}}
+|width            =  {{convert|32.5|in|mm|0|abbr=on}}
+|height           =  {{convert|51|in|mm|0|abbr=on}}
+|seat_height      =  {{convert|38.6|in|mm|0|abbr=on}}
+|dry_weight       =  {{Convert|244|lb|kg|abbr=on}}
+|wet_weight       =  {{Convert|273|lb|kg|abbr=on}}
+|fuel_capacity    =  {{Convert|2.6|usgal|abbr=on}} 2003-2005, {{Convert|2.1|usgal|L|abbr=on}} 2006
+|oil_capacity     =
+|fuel_consumption =
+|turning_radius   =
+|climbing_ability =
+|related          = [[Yamaha YZ450F|YZ450F]], [[Yamaha WR250F|WR250F]]
+}}
+
+For 2003, the engine displacement was increased to {{Convert|449|cc|abbr=on}}, the fuel tank was reduced to 2.6 gallons <ref name=YMC>http://www.yamaha-motor.com/sport/products/modelspeccompare/210/1132/0/compare.aspx</ref> and the bike came with an electric starter as standard equipment. The 2005 WR weighed in at 244 pounds dry, the seat height was reduced to 38&nbsp;inches and the fuel tank was decreased to 2.1 gallons.<ref name=YMC/><ref>{{cite web|url=http://www.motorcycle-usa.com/11/453/Motorcycle-Article/2005-WR450F-vs-CRF450X-Comparo-Conclusion.aspx |title=2005 WR450F vs CRF450X Comparo Conclusion |publisher=Motorcycle USA |date=2005-05-23 |accessdate=2011-12-27}}</ref> The 2006 WR weighed in at 249 pounds dry<ref name=YMC/> and produced 42 horsepower.<ref>{{cite web|url=http://www.motorcycle-usa.com/276/415/Motorcycle-Article/2006-Yamaha-WR450-Comparison.aspx |title=2006 Yamaha WR450 Comparison |publisher=Motorcycle USA |date=2006-05-22 |accessdate=2011-12-27}}</ref>
+
+A limited production version of the WR450F was the WR450F 2-Trac, which featured [[2WD|2-wheel drive]]. The gearbox output sprocket drove a short, fully enclosed chain to a pump, which in turn pushed the oil to the front hub via the pipe and back via the parallel pipe.<ref name="Blezard">{{cite web|last=Blezard|first=Paul|title=Yamaha WR450F 2-Trac - Review|url=http://www.mcnews.com.au/testing/yamaha/wr-2trac/page1.htm|work=www.mcnews.com.au|accessdate=14 March 2013}}</ref> A maximum of 15% of the power was transmitted to the front wheel at any time.<ref name="Blezard" /> Yamaha planned on building 250 2-Tracs in 2004, but only a few were built, which were used for [[Motorcycle enduro|enduro]] racing.<ref name="Blezard" /> 2006 was the last year of the steel frames.
+
+The 2003 and 2004 models were red sticker bikes in California.
+
+==Fourth generation: Yamaha WR450F - 2007-2011==
+{{Infobox Motorcycle
+|name             = Fourth Generation WR450F
+|image            = [[File:2010 Yamaha WR450F at 2009 Seattle International Motorcycle Show 1.jpg|250px]]
+|caption          = 2010 Yamaha WR450F
+|aka              =
+|manufacturer     = [[Yamaha Motor Corporation]]
+|parent_company   =
+|production       = 2007 through 2011
+|model_year       =
+|predecessor      = WR450F
+|successor        =
+|class            =
+|engine           = Titanium five-valve, 449 cc, 95mm x 63.4mm stroke, compression ratio 12.3:1
+|top_speed        =
+|power            =
+|torque           =
+|transmission     = 5-speed, constant mesh<ref name="4genyamahaservicemanual">{{cite book |title=Owner's Service Manual WR450FW|date=August 2006}}</ref>
+|frame            = Aluminum, semi-double cradle<ref name="4genyamahaservicemanual" />
+|suspension       = Front: [[KYB]] cartridge forks with {{convert|11.8|in|mm|0|abbr=on}} travel<br>Rear: [[KYB]] shock with {{convert|12|in|mm|0|abbr=on}} travel<ref name="4genyamahaservicemanual" />
+|brakes           = Front: 250&nbsp;mm disc <br> Rear: 245&nbsp;mm disc
+|tires            = Front: 80/100-21 51M<br> Rear: 110/100-18 64M
+|rake_trail       = 27.3°, {{convert|117|mm|abbr=on}} <ref name="4genyamahaservicemanual" />
+|wheelbase        = {{convert|1485|mm|in|0|abbr=on}}<ref name="4genyamahaservicemanual" />
+|length           =  {{convert|2175|mm|in|0|abbr=on}}<ref name="4genyamahaservicemanual" />
+|width            =  {{convert|825|mm|in|0|abbr=on}}<ref name="4genyamahaservicemanual" />
+|height           =  {{convert|1295|mm|in|0|abbr=on}}<ref name="4genyamahaservicemanual" />
+|seat_height      =  {{convert|980|mm|in|0|abbr=on}}<ref name="4genyamahaservicemanual" />
+|dry_weight       =  {{Convert|248|lb|kg|abbr=on}}<ref name="4genyamahaservicemanual"/>
+|wet_weight       =  {{Convert|273|lb|kg|abbr=on}}
+|fuel_capacity    =  {{Convert|2.11|usgal|L|abbr=on}}<ref name="4genyamahaservicemanual" />
+|oil_capacity     =
+|fuel_consumption =
+|turning_radius   =
+|climbing_ability =
+|related          = [[Yamaha YZ450F|YZ450F]], [[Yamaha WR250F|WR250F]]
+}}
+For 2007, the WR gained an aluminum frame dropping the weight from 249 to 246 pounds.<ref>{{cite web|url=http://www.motorcycle-usa.com/277/260/Motorcycle-Article/2007-Yamaha-WR450F-WR250F.aspx |title=2007 Yamaha WR450F WR250F |publisher=Motorcycle USA |date= |accessdate=2011-12-27}}</ref>
+In addition to the aluminum frame, the 2007 WR450F saw a revised dry-sump engine, with a new [[Harmonic balancer|balancer]], cylinder head, and camshafts with less lift and duration than previous generations and restyled plastics.  2009 saw new graphics, and 2010 was not sold in the US.{{Clarify|date=September 2017}}
+
+==Fifth generation: Yamaha WR450F - 2012-2015==
+{{Infobox Motorcycle
+|name             = Fifth Generation WR450F
+|image            = [[File:2012 Yamaha WR450f, Feb 2019.jpg|250px]]
+|caption          = 2012 Yamaha WR450F
+|aka              =
+|manufacturer     = [[Yamaha Motor Corporation]]
+|parent_company   =
+|production       = 2012 through 2015
+|model_year       =
+|predecessor      = WR450F
+|successor        =
+|class            =
+|engine           = Titanium five-valve, 449 cc, 95mm x 63.4mm stroke, compression ratio 12.3:1
+|top_speed        =
+|power            = 
+|torque           = 
+|transmission     = 5-speed, constant-mesh<ref name="5genyamahaservicemanual">{{cite book |title=Owner's Service Manual WR450FB|date=January 2012}}</ref>
+|frame            = Aluminum, semi-double cradle<ref name="5genyamahaservicemanual" />
+|suspension       = Front: [[KYB]] SSS cartridge forks with {{convert|11.8|in|mm|0|abbr=on}} travel<br>Rear: [[KYB]] shock with {{convert|12|in|mm|0|abbr=on}} travel
+|brakes           = Front: 250&nbsp;mm disc <br> Rear: 245&nbsp;mm disc<ref name="5genyamahaservicemanual" />
+|tires            = Front: 80/100-21 51M<br> Rear: 120/90-18 65M<ref name="5genyamahaservicemanual" />
+|rake_trail       = 27.0°, {{convert|117|mm|abbr=on}} <ref name="5genyamahaservicemanual" />
+|wheelbase        = {{convert|1465|mm|in|0|abbr=on}}<ref name="5genyamahaservicemanual" />
+|length           = {{convert|2160|mm|in|0|abbr=on}}<ref name="5genyamahaservicemanual" />
+|width            = {{convert|825|mm|in|0|abbr=on}}<ref name="5genyamahaservicemanual" />
+|height           = {{convert|1275|mm|in|0|abbr=on}}<ref name="5genyamahaservicemanual" />
+|seat_height      = {{convert|960|mm|in|0|abbr=on}}<ref name="5genyamahaservicemanual" />
+|dry_weight       =
+|wet_weight       = {{Convert|273|lb|kg|abbr=on}}<ref name="5genyamahaservicemanual" />
+|fuel_capacity    = {{Convert|1.98|usgal|L|abbr=on}}<ref name="5genyamahaservicemanual" />
+|oil_capacity     = {{Convert|1.27|usqt|L|abbr=on}}<ref name="5genyamahaservicemanual" />
+|fuel_consumption =
+|turning_radius   =
+|climbing_ability =
+|related          = [[Yamaha YZ450F|YZ450F]], [[Yamaha WR250F|WR250F]]
+}}
+After 3 years of design, the all-new 2012 WR450F was released and featured a 2012 YZ250F frame, [[Kayaba Industry|KYB]] SSS forks, [[fuel injection]], and an altered motor position.<ref name=motocrossmag>{{Citation|url=https://motocrossactionmag.com/we-ride-the-all-new-yamaha-wr450f-a-yz250f-with-a-yz450f-engine/|title=WE RIDE THE ALL-NEW YAMAHA WR450F: A YZ250F WITH A YZ450F ENGINE|publisher=Motocross Action Magazine|year=2012}}</ref>  Per Yamaha's designers, the only modifications required to the YZ250F chassis were updated motor mounts <ref name=motocrossmag/>.  The engine was rotated back to move the [[center of gravity]] and improve handling<ref name=motocrossmag/>
+
+==Sixth generation: Yamaha WR450F - 2016-2018==
+{{Infobox Motorcycle
+|name             = Sixth Generation WR450F <ref name=Yamaha4>{{Citation|url=https://www.yamahamotorsports.com/off-road/models/2016/wr450f#Panel-Specifications|title=2016 Yamaha WR450F Off-Road Motorcycle - Specifications |publisher=Yamaha Motor Corporation USA |year=2016 }}</ref>
+|image            =
+|aka              =
+|manufacturer     =
+|parent_company   =
+|production       = 2016-2018
+|model_year       =
+|predecessor      = WR450F
+|successor        =
+|class            =
+|engine           = Fuel-injected, Titanium four-valve, 97.0 mm x 60.8 mm stroke, compression ratio 12.5:1
+|top_speed        =
+|power            =
+|torque           =
+|transmission     =
+|frame            =
+|suspension       = Front: {{convert|12.2|in|mm|0|abbr=on}} travel<br>Rear: {{convert|12.5|in|mm|0|abbr=on}} travel
+|brakes           = Front: 270&nbsp;mm disc <br> Rear: 245&nbsp;mm disc
+|tires            = Front: 80/100-21 51M<br> Rear: 120/90-18 64M
+|rake_trail       =
+|wheelbase        = {{convert|57.7|in|mm|0|abbr=on}}
+|length           =  {{convert|85.2|in|mm|0|abbr=on}}
+|width            =  {{convert|32.5|in|mm|0|abbr=on}}
+|height           =  {{convert|50.4|in|mm|0|abbr=on}}
+|seat_height      =  {{convert|38.0|in|mm|0|abbr=on}}
+|dry_weight       =  {{Convert|249|lb|kg|abbr=on}}
+|wet_weight       = {{Convert|271|lb|kg|abbr=on}} 
+|fuel_capacity    =  {{Convert|2.0|usgal|abbr=on}}
+|oil_capacity     =
+|fuel_consumption =
+|turning_radius   =
+|climbing_ability =
+|related          = Yamaha YZ250FX
+|similar = KTM 450XC-F
+}}
+For 2016,  the WR was given the reverse slant, 4-valve, fuel injected motor previously available in the [[Yamaha_YZ450F#Fifth_generation_YZ450F_2010-Present|YZ450F]] since 2010. Yamaha also introduced a new model, the YZ450FX, a more [[Enduro]] competition oriented version of the off-road 450 utilizing more design elements of the motocross model such as stiffer suspension and a close ratio gear box while maintaining electric start and the 18" rear wheel.
+
+For 2017, the WR450F largely remained the same, except for modifications to the air box cover as well as a change from silver to black rims.
+
+For 2018, the WR450F remained similar to the 2016-2017 models, with a large distinction being that the bike was no longer available to register as green sticker in the state of California.
+
+https://www.yamahamotorsports.com/off-road/models/2016/wr450f
+
+== See also ==
+* [[Yamaha WR250F]]
+* [[Yamaha YZ450F]]
+
+== References ==
+{{Commons category}}
+{{reflist|30em}}
+
+{{Yamaha motorcycles}}
+{{Yamaha motorcycles timeline}}
+
+[[Category:Yamaha motorcycles|WR450F]]
+[[Category:Off-road motorcycles]]
+[[Category:Motorcycles introduced in 1998]]

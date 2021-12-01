@@ -1,0 +1,9 @@
+{{Portal|Denmark|Biography|Film|Animation}}
+{{Fooian fooers
+ | Profession = animators
+ | Nationality = Danish 
+ | Country = Denmark
+ | Supercategory = film people
+ | Supercategory2 = artists
+}}
+[[Category:Danish animation|Animators]]

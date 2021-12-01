@@ -1,0 +1,79 @@
+{{Infobox Christian leader
+| type        = Bishop
+| honorific-prefix = Most Reverend
+| name        = Alessandro Borghi
+| title       = Bishop of Sansepolcro
+| other_names = 
+| image       = 
+| image_size  = 
+| alt         =
+| caption     = 
+| church      = [[Catholic Church]]
+| archdiocese = 
+| diocese     = [[Roman Catholic Diocese of Sansepolcro|Diocese of Sansepolcro]]
+| see         = 
+| term        = 1598–1605
+| predecessor = [[Niccolò Tornabuoni]]
+| successor   = [[Girolamo Incontri]]
+<!--   Orders   -->
+| ordination     = 
+| ordained_by    = 
+| consecration   = 
+| consecrated_by = 
+| cardinal       =
+| created_cardinal_by = 
+| rank           = 
+<!--   Personal details   -->
+| birth_date    = 1559
+| birth_place   = [[Modigliana]], [[Italy]]
+| death_date    = 9 August 1613 (age 54)
+| death_place   = [[Sansepolcro]], [[Italy]]
+| previous_post = 
+| nationality   = 
+| religion      =
+| ethnicity     =
+}}
+
+'''Alessandro Borghi''' (1559 – 9 August 1613) was a Roman Catholic prelate who served as [[Bishop of Sansepolcro]] (1598–1605).<ref name=HierarchiaIII>{{cite book|url=https://archive.org/details/hierarchiacathol03eube|first=Konrad|last=Eubel|title=HIERARCHIA CATHOLICA MEDII ET RECENTIORIS AEVI Vol III|pages=[https://archive.org/details/hierarchiacathol03eube/page/143 143]|date=1923|publisher=Libreria Regensbergiana|location=Münster|edition=second|ISBN=}} ''(in Latin)''</ref><ref name=HierarchiaIV>{{cite book|url=https://archive.org/stream/hierarchiacathol04eubeuoft|last1=Gauchat|first1=Patritius (Patrice)|title=HIERARCHIA CATHOLICA MEDII ET RECENTIORIS AEVI Vol IV|pages=134|date=1935|publisher=Libraria Regensbergiana|location=Münster|ISBN=}} ''(in Latin)''</ref><ref name=CathHierAlessBorghi>[http://www.catholic-hierarchy.org/bishop/bborghi.html "Bishop Alessandro Borghi"] ''[[Catholic-Hierarchy.org]]''. David M. Cheney. Retrieved June 24, 2017</ref><ref name=CathHierSansepolcro>[http://www.catholic-hierarchy.org/diocese/ds201.html "Diocese of Sansepolcro (Borgo San Sepolcro)"] ''[[Catholic-Hierarchy.org]]''. David M. Cheney. Retrieved February 29, 2016</ref><ref name=GCathSansepolcro>[http://www.gcatholic.org/dioceses/former/sans0.htm "Diocese of Sansepolcro"] ''GCatholic.org''. Gabriel Chow. Retrieved February 29, 2016</ref> 
+
+==Biography==
+Alessandro Borghi was born in [[Modigliana]], [[Italy]] in 1559.<ref name=CathHierAlessBorghi />
+On 22 June 1598, he was appointed during the papacy of [[Pope Clement VIII]] as [[Bishop of Sansepolcro]].<ref name=HierarchiaIII /><ref name=HierarchiaIV /><ref name=CathHierAlessBorghi />
+He served as Bishop of Sansepolcro until his resignation in December 1605.<ref name=CathHierAlessBorghi /> 
+He died on 9 August 1613.<ref name=CathHierAlessBorghi /> 
+
+==Episcopal succession==
+While bishop, he was the [[principal co-consecrator]] of:<ref name=CathHierAlessBorghi />
+{{columns-list|colwidth=30em|
+*[[Guido Bentivoglio d'Aragona]], [[Titular Archbishop]] of ''Colossae'' (1607); 
+*[[Ulpiano Volpi]], [[Archbishop of Chieti]] (1609); 
+*[[Francesco Mottini]], [[Bishop of Brugnato]] (1609); 
+*[[Antonio Cesonio]], [[Bishop of Oppido Mamertina]] (1609); 
+*[[Benedetto Ala]], [[Archbishop of Urbino]] (1610); 
+*[[Luca Semproni]], [[Bishop of Città di Castello]] (1610); 
+*[[Rodolfo Paleotti]], [[Bishop of Imola]] (1611); 
+*[[Francesco Piccolomini (bishop)]], [[Bishop of Grosseto]] (1611); 
+*[[Guillaume d'Hugues]], [[Archbishop of Embrun]] (1612); and
+*[[Denis-Simon de Marquemont]], [[Archbishop of Lyon]] (1612).
+}}
+
+== References ==
+{{reflist}}
+
+{{s-start}}
+{{s-rel|ca}}
+{{succession box
+| title  = [[Bishop of Sansepolcro]]
+| years  = 1598–1605
+| before = [[Niccolò Tornabuoni]]
+| after  = [[Girolamo Incontri]]}}
+{{s-end}}
+
+{{Subject bar |portal1= Biography |portal2= Catholicism |portal3= Italy}}
+{{Authority control}}
+{{DEFAULTSORT:Borghi, Alessandro}}
+[[Category:16th-century Roman Catholic bishops]]
+[[Category:17th-century Roman Catholic bishops]]
+[[Category:Bishops appointed by Pope Clement VIII]]
+[[Category:1559 births]]
+[[Category:1613 deaths]]

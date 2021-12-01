@@ -1,0 +1,40 @@
+{{see also|Wełna, Kuyavian-Pomeranian Voivodeship}}
+{{Infobox settlement
+| name = Wełna
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline = Welna church 2.jpg
+| image_caption = Exaltation of the Cross Church
+| image_flag =
+| image_shield =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Rogoźno|Rogoźno]]
+| coordinates = {{coord|52|43|32|N|16|54|46|E|region:PL|display=inline}}
+| pushpin_map = Poland
+| pushpin_label_position = right
+| elevation_m =
+| population_total = 173
+| website = }}
+
+'''Wełna''' {{IPAc-pl|'|w|e|U|n|a}} is a [[village]] in the administrative district of [[Gmina Rogoźno]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|7|km|mi|0}} south-west of [[Rogoźno]], {{convert|11|km|mi|0|abbr=on}} north-east of [[Oborniki]], and {{convert|37|km|mi|0|abbr=on}} north of the regional capital [[Poznań]].
+
+The village has a population of 173.
+
+==References==
+{{reflist}}
+
+{{Gmina Rogoźno}}
+
+{{coord|52|43|32|N|16|54|46|E|region:PL_type:city|display=title}}
+
+{{DEFAULTSORT:Welna, Greater Poland Voivodeship}}
+[[Category:Villages in Oborniki County]]
+
+
+{{Oborniki-geo-stub}}

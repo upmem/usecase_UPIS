@@ -1,0 +1,47 @@
+{{Infobox settlement
+| name = Piasty Wielkie
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Bartoszyce County|Bartoszyce]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Górowo Iławeckie]]
+| coordinates = {{coord|54|16|28|N|20|31|38|E|region:PL|display=inline}}
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| elevation_m =
+| population_total =
+| website = }}
+'''Piasty Wielkie''' {{IPAc-pl|'|p|j|a|s|t|y|-|'|w|j|e|l|k|J|e}} ({{lang-de |Groß Peisten}}) is a [[village]] in the administrative district of [[Gmina Górowo Iławeckie]], within [[Bartoszyce County]], [[Warmian-Masurian Voivodeship]], in northern Poland, close to the border with the [[Kaliningrad Oblast]] of [[Russia]].<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|3|km|mi|0}} east of [[Górowo Iławeckie]], {{convert|18|km|mi|0|abbr=on}} west of [[Bartoszyce]], and {{convert|55|km|mi|0|abbr=on}} north of the regional capital [[Olsztyn]].
+
+== History ==
+
+Before 1945 the area was part of Germany ([[East Prussia]]).
+
+The name derives back to the [[Old Prussian]] term "paustre" for wilderness and was first mentioned in 1414 as a location of a mill and a settlement of 4 free [[Old Prussians]] in the region of [[Natangia]] with 27 cultivated and 3 desolate "Haken", a square measure of the [[Teutonic Knights]]. 
+
+In 1858 the manor was bought by [[Bethel Henry Strousberg]], a railway pioneer who fell into bankruptcy in 1875.<ref>Horst Schulz, Der Kreis Preußisch Eylau, Verden 1983 (German)</ref>
+
+== Population ==
+
+*1933: 291
+*1939: 247<ref>[http://www.verwaltungsgeschichte.de/preylau.html verwaltungsgeschichte.de]</ref>
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Górowo Iławeckie}}
+{{coord|54|16|28|N|20|31|38|E|region:PL_type:city|display=title}}
+
+[[Category:Villages in Bartoszyce County|Piasty Wielkie]]
+{{Bartoszyce-geo-stub}}

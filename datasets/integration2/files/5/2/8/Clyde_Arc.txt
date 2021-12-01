@@ -1,0 +1,69 @@
+{{Use dmy dates|date=September 2014}}
+{{Use British English|date=September 2014}}
+{{Infobox Bridge 
+|bridge_name = Clyde Arc
+|image=ClydeArc.jpg
+|caption= View of the Clyde Arc from the East
+|official_name = Clyde Arc
+|locale = [[Glasgow]], Scotland
+|carries = Motor vehicles, cyclists and pedestrians
+|crosses = [[River Clyde]]
+|cost = £20.3 million (Budget)
+|open = 18 September 2006
+|traffic = 
+|design = 
+|toll = Free
+|mainspan = {{convert|96|m|ft|abbr=on}}
+|width = {{convert|22|m|ft|abbr=on}}
+|coordinates= {{coord|55|51|26|N|4|16|57|W|region:GB_type:landmark}}
+}}
+[[File:Clydearc-glasgow-2008.jpg|thumb|right|300px|Clyde Arc]]
+The '''Clyde Arc''' (known locally as the '''Squinty Bridge''') is a road bridge spanning the [[River Clyde]] in [[Glasgow]], [[Scotland]], connecting [[Finnieston]] near the [[Clyde Auditorium]] and [[SEC Centre|SEC]] with [[Pacific Quay]] and [[Glasgow Science Centre]] in [[Govan]]. A prominent feature of the bridge is its innovative curved design and the way that it crosses the river at an angle. The Arc is the first city centre traffic crossing over the river built since the [[Kingston Bridge, Glasgow|Kingston Bridge]] was opened to traffic in 1970.
+
+The bridge was named the "Clyde Arc" upon its official opening on 18 September 2006. It has been previously known as the "Finnieston Bridge" or the "Squinty Bridge".<ref>"Evening Times" [http://www.eveningtimes.co.uk/hi/news/5057197.html] {{Webarchive|url=https://web.archive.org/web/20060925180334/http://www.eveningtimes.co.uk/hi/news/5057197.html |date=25 September 2006 }}. 2006. Accessed 18 September 2006.</ref>
+
+==Design==
+The bridge was designed by the [[Halcrow Group Limited|Halcrow Group]] and built by [[Kilsyth]]-based [[civil engineering]] company [[Edmund Nuttall]]. [[Glasgow City Council]] instigated the project in conjunction with [[Scottish Enterprise]] and the [[Scottish Government]]. Piling works for the bridge were carried out from a large floating barge on the Clyde, whilst the bridge superstructure was fabricated offsite. The bridge-deck concrete-slab units were cast at an onsite pre-casting yard. Planning permission was granted in 2003 and construction of the bridge began in May 2005. It was structurally completed in April 2006. The bridge project cost an estimated £20.3M.<ref>"Road Traffic Technology" [http://www.roadtraffic-technology.com/projects/finnieston/] {{Webarchive|url=https://web.archive.org/web/20061019151254/http://www.roadtraffic-technology.com/projects/finnieston/ |date=19 October 2006 }}. 2006. Accessed Sept 18th, 2006.</ref> The Bridge is designed to last 120 years.<ref name="BBC7208575">{{cite web| url=http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7208575.stm| title=Public will not foot bridge bill| date=2008-01-25| accessdate=2008-01-29| work=BBC News| archive-date=28 January 2008| archive-url=https://web.archive.org/web/20080128164620/http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7208575.stm| url-status=live}}</ref>
+
+The bridge has a main span of {{convert|96|m|ft|abbr=on}} with two end spans of {{convert|36.5|m|ft|abbr=on}}, resulting in a total span of {{convert|169|m|ft|abbr=on}}. The design of the main span features a steel arch. The supports for the main span are located within the river with the abutments located behind the existing quay walls. The central navigation height at mean water height is {{convert|5.4|m|ft|abbr=on}}.
+ 
+It was officially opened on 18 September 2006 by [[Glasgow City Council]] leader [[Steven Purcell]], although pedestrians were allowed to walk across it the previous two days as part of Glasgow's annual "[[Doors_Open_Days#Doors_open_days_in_Scotland|Doors Open]]" Weekend.
+
+The bridge connects Finnieston Street on the north bank of the river to Govan Road on the southern bank. The bridge takes four lanes of traffic, two of which are dedicated to [[public transport]] and two for private and commercial traffic. There are also pedestrian and cycle paths. The new bridge was built to provide better access to Pacific Quay and allow better access to regeneration areas on both banks of the Clyde. The bridge has been designed to cope with a possible light rapid transit system (light railway scheme) or even a tram system.
+
+The bridge is the first part of a massive development project planned to regenerate Glasgow. There are two more bridges planned – the £40M [[Tradeston Bridge]] and a further pedestrian bridge linking [[Springfield Quay]] with [[Lancefield Quay]] on the north bank. The canting basin and [[graving dock]] next to Pacific Quay are to be developed along with [[Tradeston]] and [[Laurieston, Glasgow|Laurieston]]. Plans are afoot to transform [[Rutherglen]] and [[Dalmarnock]] as the 'athletes' village' for the [[2014 Commonwealth Games]] in Glasgow.<ref>"The Glasgow Herald" [http://ww1.theherald.co.uk/features/69439.html]{{dead link|date=August 2017 |bot=InternetArchiveBot |fix-attempted=yes }}. 2006. Accessed Sept 18th, 2006.</ref>
+
+==Support hanger failure==
+
+The bridge was closed between 14 January and 28 June 2008 due to the failure of one support hanger, and cracks found in a second.
+
+On the night of 14 January 2008 the connecting fork on one of the bridge's 14 hangers (supporting cables that transfer the weight of the roadway to the bridge's arch) snapped; [[Strathclyde Police]] quickly closed the bridge to traffic.<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7188577.stm|title=Clyde Arc closed by cable 'snap'|publisher=BBC Scotland|date=2008-01-15|accessdate=2008-01-15|archive-date=16 January 2008|archive-url=https://web.archive.org/web/20080116151906/http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7188577.stm|url-status=live}}</ref> Robert Booth, a spokesman for Glasgow City Council said:
+{{cquote|We don't believe the integrity of the bridge is affected. The Clyde Arc is designed to allow for the removal of one of the bridge supports at a time for repair and maintenance without affecting its operation. However, our number one priority is public safety and until we are completely satisfied the bridge is safe to use, it will remain closed.}}
+
+A detailed inspection on 24 January found a stress fracture in a second support cable stay, like the one which had failed previously. Engineers determined that all of these connectors would have to be replaced; rather than a brief closure the bridge would have to remain closed for six months.<ref name="constructionnews">"Sitting pretty in Glasgow", p3 ''Construction News'' Issue 7060, 20 March 2008</ref> In addition traffic on the river below was also halted.<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7207693.stm|title=Second fault on 'Squinty Bridge'|publisher=BBC Scotland News|date=2008-01-24|accessdate=2008-01-24|archive-date=27 January 2008|archive-url=https://web.archive.org/web/20080127153539/http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7207693.stm|url-status=live}}</ref> In March Nuttall began installing five temporary saddle frames atop the bridge's arch; these allowed the weight of the bridge to be supported without the hangers. This allowed them to replace defective fork connectors at the top and bottom of each hanger.<ref name="constructionnews"/>
+
+The bridge recommenced on 28 June 2008 with just two of its four lanes in use, having had all the cast [[steel]] connectors replaced with milled steel connectors.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7477405.stm |title=Clyde Arc reopens after repairs |date=2008-06-29 |accessdate=2008-06-30 |work=BBC News |archive-date=30 November 2020 |archive-url=https://web.archive.org/web/20201130151844/http://news.bbc.co.uk/2/hi/uk_news/scotland/glasgow_and_west/7477405.stm |url-status=live }}</ref> Once reopened, Glasgow City Council estimated that 6,500 crossings will be made every day using the bridge.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7437386.stm|title=Date for 'Squinty Bridge' opening|date=2008-06-04|accessdate=2008-06-04|publisher=BBC|archive-date=30 November 2020|archive-url=https://web.archive.org/web/20201130151848/http://news.bbc.co.uk/2/hi/uk_news/scotland/glasgow_and_west/7437386.stm|url-status=live}}</ref>
+
+On 8 January 2009, New Civil Engineer reported that subcontractor Watson Steel was suing Macalloy, the supplier of the suspect connectors, for £1.8 million.{{citation needed|date=February 2010}}  According to reports, Watson alleges steel obtained from Macalloy did not meet British Standards or their own specifications; parts were inadequately manufactured, and did not tally with test certificates provided by the firm.{{citation needed|date=February 2010}}
+
+==See also==
+* [[Hulme Arch Bridge]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070209192424/http://www.inglasgow.com/inglaig/gallery.asp?categoryid=594 Photographs taken at the opening ceremony]
+*[http://www.clydewaterfront.com/finnieston_bridge.aspx Clyde Arc - Clyde Waterfront project details]
+
+{{River Clyde}}
+
+[[Category:Road bridges in Scotland]]
+[[Category:Bridges in Glasgow]]
+[[Category:Bridges across the River Clyde]]
+[[Category:Through arch bridges in the United Kingdom]]
+[[Category:Pedestrian bridges in Scotland]]
+[[Category:Bridges completed in 2006]]
+[[Category:Engineering failures]]
+[[Category:Govan]]
+[[Category:2006 establishments in Scotland]]

@@ -1,0 +1,35 @@
+[[File:Chałupa_o_konstrukcji_zrębowej_ze_szczytem_ceglanym_-_Owcze_Głowy_nr_26_-_003016n.jpg|alt=|thumb|Log cabin with a brick gable.]]
+{{Infobox settlement
+| name = Owczegłowy
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Rogoźno|Rogoźno]]
+| elevation_m =
+| population_total =
+| website = }}
+'''Owczegłowy''' {{IPAc-pl|o|f|cz|e|'|g|ł|o|w|y}} is a [[village]] in the administrative district of [[Gmina Rogoźno]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref>
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Rogoźno}}
+
+{{coord|52|43|58|N|17|02|35|E|region:PL_type:city_source:kolossus-plwiki|display=title}}
+
+{{DEFAULTSORT:Owczeglowy}}
+[[Category:Villages in Oborniki County]]
+
+{{Oborniki-geo-stub}}

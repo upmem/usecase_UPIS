@@ -1,0 +1,62 @@
+{{Infobox government agency
+| agency_name     = Ministry of Tourism
+| type            = 
+| nativename      = 
+| nativename_a    = 
+| nativename_r    = 
+| seal            = 
+| seal_width      = 
+| seal_caption    = 
+| logo            = Coat of arms of Haiti.svg
+| logo_width      = 100px
+| logo_caption    = Coat of arms of Haiti
+| picture         = 
+| picture_width   = 
+| picture_caption = 
+| formed          = <!-- {{Start date|YYYY|MM|DD}} OR {{Start date and age|YYYY|MM|DD}} -->
+| preceding1      = 
+| preceding2      = <!-- up to |preceding6= -->
+| dissolved       = 
+| superseding     = 
+| agency_type     =
+| jurisdiction    = [[Haiti|Republic of Haiti]]
+| headquarters    = 
+| coordinates     = <!-- {{coord|LATITUDE|LONGITUDE|type:landmark_region:US|display=inline,title}} -->
+| motto           = 
+| employees       = 
+| budget          = 
+| minister1_name  = Guy Didier Hyppolite
+| minister1_pfo   = 
+| minister2_name  = 
+| minister2_pfo   = <!-- up to |minister7_name= -->
+| deputyminister1_name = 
+| deputyminister1_pfo  = 
+| deputyminister2_name = 
+| deputyminister2_pfo  = <!-- up to |deputyminister7_name= -->
+| chief1_name     = 
+| chief1_position = 
+| chief2_name     = 
+| chief2_position = <!-- up to |chief9_name= -->
+| parent_department = 
+| parent_agency   = 
+| child1_agency   = 
+| child2_agency   = <!-- up to |child25_agency= -->
+| keydocument1    = <!-- up to |keydocument6= -->
+| website         = http://www.haititourisme.gouv.ht/
+| map             = 
+| map_width       = 
+| map_caption     = 
+| footnotes       = 
+| embed           =
+}}
+
+The '''Ministry of Tourism ''' is a ministry of the [[Government of Haiti]]. This ministry is responsible for [[Tourist attraction|tourist attractions]] and [[Lodging|accommodations]] for travelers, along with playing an integral role in the Prime Minister's Cabinet.
+
+{{Ministries of Haiti}}
+
+{{authority control}}
+
+[[Category:Government ministries of Haiti]]
+
+
+{{Haiti-stub}}

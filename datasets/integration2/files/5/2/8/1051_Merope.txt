@@ -1,0 +1,353 @@
+{{Infobox planet
+ | minorplanet     = yes
+ | name            = 1051 Merope
+ | background      = #D6D6D6
+ | image           = 
+ | image_size      = 
+ | caption         = 
+ | discovery_ref   = &thinsp;<ref name="MPC-object" />
+ | discoverer      = [[Karl Reinmuth|K. Reinmuth]]
+ | discovery_site  = [[Heidelberg-Königstuhl State Observatory|Heidelberg Obs.]]
+ | discovered      = 16 September 1925
+ | mpc_name        = (1051) Merope
+ | alt_names       = 1925 SA{{·}}1926 XA<br />{{mp|1931 TM|3}}{{·}}1936 OG<br />A908 TE
+ | pronounced      = {{IPAc-en|ˈ|m|ɛr|ə|p|iː}}<ref>Noah Webster (1884) ''A Practical Dictionary of the English Language''</ref>
+ | named_after     = [[Merope (Pleiades)|Μερόπη]] ''Meropē''&thinsp;<ref name="springer" /><br />{{small|(Greek mythology)}}
+ | mp_category     = {{nowrap|[[main-belt]]&thinsp;<ref name="MPC-object" />{{·}}{{small|([[Kirkwood gap|outer]])}}&thinsp;<ref name="jpldata" /><ref name="lcdb" />}}<br />[[Alauda family|Alauda]]&thinsp;<ref name="Ferret" />
+ | orbit_ref       = &thinsp;<ref name="jpldata" />
+ | epoch           = 23 March 2018 ([[Julian day|JD]] 2458200.5)
+ | uncertainty     = 0
+ | observation_arc = 92.19 [[Julian year (astronomy)|yr]] (33,673 d)
+ | aphelion        = 3.5341 [[Astronomical unit|AU]]
+ | perihelion      = 2.8948 AU
+ | semimajor       = 3.2144 AU
+ | eccentricity    = 0.0994
+ | period          = 5.76 yr (2,105 d)
+ | mean_anomaly    = 25.459[[Degree (angle)|°]]
+ | mean_motion     = {{Deg2DMS|0.1710|sup=ms}} / day
+ | inclination     = 23.507°
+ | asc_node        = 180.72°
+ | arg_peri        = 152.97°
+ | mean_diameter   = {{val|60.439|0.146|ul=km}}<ref name="Masiero-2014" /><br />{{val|65.130|0.245|u=km}}<ref name="WISE" /><br />{{val|67.11|u=km}} {{small|(derived)}}<ref name="lcdb" /><br />{{val|67.21|1.9|u=km}}<ref name="SIMPS" /><br />{{val|69.22|21.30|u=km}}<ref name="Nugent-2015" /><br />{{val|69.85|0.88|u=km}}<ref name="AKARI" /><br />{{val|74.36|28.24|u=km}}<ref name="Nugent-2016" />
+ | rotation        = {{val|13.717|0.0164|ul=h}}<ref name="Waszczak-2015" /><br />{{val|27.2|0.3|u=h}}<ref name="Carbo-2009b" />
+ | albedo          = {{val|0.03|0.05}}<ref name="Nugent-2016" /><br />0.0358 {{small|(derived)}}<ref name="lcdb" /><br />{{val|0.040|0.001}}<ref name="AKARI" /><br />{{val|0.04|0.03}}<ref name="Nugent-2015" /><br />{{val|0.0429|0.003}}<ref name="SIMPS" /><br />{{val|0.0457|0.0058}}<ref name="WISE" /><br />{{val|0.053|0.009}}<ref name="Masiero-2014" />
+ | spectral_type   = [[P-type asteroid|P]]&thinsp;<ref name="WISE" />{{·}}[[C-type asteroid|C]]&thinsp;<ref name="Veres-2015" />
+ | abs_magnitude   = 9.90<ref name="WISE" /><ref name="SIMPS" /><ref name="AKARI" />{{·}}10.0<ref name="jpldata" /><br />{{val|10.05|0.40}}<ref name="Veres-2015" /><br />{{val|10.051|0.001}} {{small|(R)}}<ref name="Waszczak-2015" /><br />10.10<ref name="lcdb" /><ref name="Nugent-2015" />{{·}}10.11<ref name="Nugent-2016" />
+}}
+
+'''1051 Merope''' {{IPAc-en|ˈ|m|ɛr|ə|p|iː}} is a dark Alauda [[asteroid]] from the outermost region of the [[asteroid belt]], approximately {{convert|68|km|mi|abbr=off|sp=us}} in diameter. It was discovered on 16 September 1925, by German astronomer [[Karl Reinmuth]] at the [[Heidelberg-Königstuhl State Observatory]] in Heidelberg, Germany, and given the provisional designation {{mp|1925 SA}}.<ref name="MPC-object" /> Reinmuth named it after the nymph [[Merope (Pleiades)|Merope]] from Greek mythology.<ref name="springer" /> The asteroid has a [[rotation period]] of 27.2 hours.<ref name="lcdb" />
+
+== Orbit and classification ==
+
+''Merope'' is a member of the [[Alauda family]] ({{small|[[FIN tbl#902|902]]}}),<ref name="Ferret" /> a large [[Asteroid family|family]] of carbonaceous asteroids and named after its parent body, [[702&nbsp;Alauda]].<ref name="Nesvorny-2014" />{{rp|23}}
+
+It orbits the Sun in the [[Kirkwood gap|outermost]] asteroid belt at a distance of 2.9–3.5&nbsp;[[Astronomical unit|AU]] once every 5 years and 9 months (2,105 days; [[semi-major axis]] of 3.21&nbsp;AU). Its orbit has an [[orbital eccentricity|eccentricity]] of 0.10 and an [[orbital inclination|inclination]] of 24[[Degree (angle)|°]] with respect to the [[ecliptic]].<ref name="jpldata" />
+
+The asteroid was first observed as {{mp|A908 TE}} at Taunton Observatory {{Obscode|803}} in October 1908. The body's [[observation arc]] begins at Heidelberg in October 1925, or three weeks after its official discovery observation.<ref name="MPC-object" />
+
+== Physical characteristics ==
+
+''Merope'' has been characterized as a primitive [[P-type asteroid]] by the [[Wide-field Infrared Survey Explorer]] (WISE),<ref name="WISE" /> and as a common carbonaceous [[C-type asteroid]] by [[Pan-STARRS]]{{'}} photometric survey.<ref name="Veres-2015" />
+
+=== Rotation period ===
+
+In March 2009, a rotational [[lightcurve]] of ''Merope'' was obtained from photometric observations by astronomers at the [[Oakley Southern Sky Observatory]] in Australia. Lightcurve analysis gave a [[rotation period]] of 27.2 hours with a brightness variation of 0.20 [[Magnitude (astronomy)|magnitude]] ({{small|[[LCDB quality code|U=2]]}}).<ref name="Carbo-2009b" /> In October 2012, astronomers at the [[Palomar Transient Factory]] in California measured a period 13.717 hours with an amplitude of 0.11 magnitude in the R-band ({{small|[[LCDB quality code|U=2]]}}),<ref name="Waszczak-2015" /> which seems to be an alternative period solution (1:2 alias) of what the Australian astronomers had previously measured. Previous observations by Gino Farroni and by Federico Manzini from 2004 and 2005, respectively, have been provisional and of poor quality ({{small|[[LCDB quality code|U=1/1]]}}).<ref name="lcdb" /><ref name="geneva-obs" />
+
+=== Diameter and albedo ===
+
+According to the surveys carried out by the Infrared Astronomical Satellite [[IRAS]], the Japanese [[Akari (satellite)|Akari satellite]] and the [[NEOWISE]] mission of NASA's WISE telescope, ''Merope'' measures between 60.439 and 74.36 kilometers in diameter and its surface has an [[astronomical albedo|albedo]] between 0.03 and 0.053.<ref name="Masiero-2014" /><ref name="WISE" /><ref name="SIMPS" /><ref name="Nugent-2015" /><ref name="AKARI" /><ref name="Nugent-2016" />
+
+The ''Collaborative Asteroid Lightcurve Link'' derives an albedo of 0.0358 and a diameter of 67.11 kilometers based on an [[absolute magnitude]] of 10.1.<ref name="lcdb" />
+
+== Naming ==
+
+This [[minor planet]] was named after the nymph [[Merope (Pleiades)|Merope]] from [[Greek mythology]]. She is one of the seven [[Pleiades (Greek mythology)|Pleiades]], daughters of the Titan [[Atlas (mythology)|Atlas]] and the sea-nymph [[Pleione (mythology)|Pleione]] ({{small|[[Astronomische Nachrichten|AN]]&thinsp;229;297}}).<ref name="springer" /> [[Merope (star)|Merope]] is also a bright star in the constellation of [[Taurus (constellation)|Taurus]] and one of the [[Pleiades#Brightest stars|brightest members]] of the [[Pleiades]] star cluster, also known as the "Seven Sister".
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name="jpldata">{{cite web
+  |type       = 2017-11-25 last obs.
+  |title      = JPL Small-Body Database Browser: 1051 Merope (1925 SA)
+  |url        = https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2001051
+  |publisher  = [[Jet Propulsion Laboratory]]
+  |accessdate = 21 March 2018}}</ref>
+
+<ref name="springer">{{cite book
+  |title      = Dictionary of Minor Planet Names – (1051) Merope
+  |last       = Schmadel | first = Lutz D.
+  |publisher  = Springer Berlin Heidelberg
+  |page       = 90
+  |date       = 2007
+  |isbn       = 978-3-540-00238-3
+  |doi       = 10.1007/978-3-540-29925-7_1052 |chapter       = (1051) Merope }}</ref>
+
+<ref name="MPC-object">{{cite web
+  |title      = 1051 Merope (1925 SA)
+  |work       = Minor Planet Center
+  |url        = https://www.minorplanetcenter.net/db_search/show_object?object_id=1051
+  |accessdate = 21 March 2018}}</ref>
+
+<ref name="geneva-obs">{{cite web
+  |title      = Asteroids and comets rotation curves – (1051) Merope
+  |last       = Behrend |first = Raoul
+  |publisher  = Geneva Observatory
+  |url        = http://obswww.unige.ch/~behrend/page3cou.html#001051
+  |accessdate = 21 March 2018}}</ref>
+
+<ref name="Masiero-2014">{{cite journal
+  |display-authors = 6
+  |first1     = Joseph R. |last1 = Masiero
+  |first2     = T. |last2 = Grav
+  |first3     = A. K. |last3 = Mainzer
+  |first4     = C. R. |last4 = Nugent
+  |first5     = J. M. |last5 = Bauer
+  |first6     = R. |last6 = Stevenson
+  |first7     = S. |last7 = Sonnett
+  |date       = August 2014
+  |title      = Main-belt Asteroids with WISE/NEOWISE: Near-infrared Albedos
+  |journal    = The Astrophysical Journal
+  |volume     = 791
+  |issue      = 2
+  |page       = 11
+  |bibcode    = 2014ApJ...791..121M
+  |doi        = 10.1088/0004-637X/791/2/121
+  |arxiv      = 1406.6645}}</ref>
+
+<ref name="Ferret">{{cite web
+  |title      = Asteroid 1051 Merope – Nesvorny HCM Asteroid Families V3.0
+  |work       = Small Bodies Data Ferret
+  |url        = https://sbntools.psi.edu/ferret/SimpleSearch/results.action?targetName=1051+Merope
+  |accessdate = 24 October 2019}}</ref>
+
+<ref name="Nesvorny-2014">{{Cite book
+  |first1     = D. |last1 = Nesvorný
+  |first2     = M. |last2 = Broz
+  |first3     = V. |last3 = Carruba
+  |date       = December 2014
+  |title      = Identification and Dynamical Properties of Asteroid Families
+  |journal    = Asteroids IV
+  |pages      = 297–321
+  |bibcode    = 2015aste.book..297N
+  |doi        = 10.2458/azu_uapress_9780816532131-ch016
+  |arxiv      = 1502.01628
+  |isbn = 9780816532131}}</ref>
+
+<ref name="lcdb">{{cite web
+  |title      = LCDB Data for (1051) Merope
+  |publisher  = Asteroid Lightcurve Database (LCDB)
+  |url        = http://www.minorplanet.info/PHP/generateOneAsteroidInfo.php?AstInfo=1051%7CMerope
+  |accessdate = 21 March 2018}}</ref>
+
+<ref name="WISE">{{cite journal
+  |display-authors = 6
+  |first1     = A. |last1 = Mainzer
+  |first2     = T. |last2 = Grav
+  |first3     = J. |last3 = Masiero
+  |first4     = E. |last4 = Hand
+  |first5     = J. |last5 = Bauer
+  |first6     = D. |last6 = Tholen
+  |first7     = R. S. |last7 = McMillan
+  |first8     = T. |last8 = Spahr
+  |first9     = R. M. |last9 = Cutri
+  |first10    = E. |last10 = Wright
+  |first11    = J. |last11 = Watkins
+  |first12    = W. |last12 = Mo
+  |first13    = C. |last13 = Maleszewski
+  |date       = November 2011
+  |title      = NEOWISE Studies of Spectrophotometrically Classified Asteroids: Preliminary Results
+  |journal    = The Astrophysical Journal
+  |volume     = 741
+  |issue      = 2
+  |page       = 25
+  |bibcode    = 2011ApJ...741...90M
+  |doi        = 10.1088/0004-637X/741/2/90
+  |arxiv      = 1109.6407}}</ref>
+
+<ref name="SIMPS">{{cite journal
+  |first1     = E. F. |last1 = Tedesco
+  |first2     = P. V. |last2 = Noah
+  |first3     = M. |last3 = Noah
+  |first4     = S. D. |last4 = Price
+  |date       = October 2004
+  |title      = IRAS Minor Planet Survey V6.0
+  |url        = https://sbnarchive.psi.edu/pds3/iras/IRAS_A_FPA_3_RDR_IMPS_V6_0/data/diamalb.tab
+  |journal    = NASA Planetary Data System
+  |volume     = 12
+  |pages      = IRAS-A-FPA-3-RDR-IMPS-V6.0
+  |bibcode    = 2004PDSS...12.....T
+  |accessdate = 22 October 2019}}</ref>
+
+<ref name="AKARI">{{cite journal
+  |display-authors = 6
+  |first1     = Fumihiko |last1 = Usui
+  |first2     = Daisuke |last2 = Kuroda
+  |first3     = Thomas G. |last3 = Müller
+  |first4     = Sunao |last4 = Hasegawa
+  |first5     = Masateru |last5 = Ishiguro
+  |first6     = Takafumi |last6 = Ootsubo
+  |first7     = Daisuke |last7 = Ishihara
+  |first8     = Hirokazu |last8 = Kataza
+  |first9     = Satoshi |last9 = Takita
+  |first10    = Shinki |last10 = Oyabu
+  |first11    = Munetaka |last11 = Ueno
+  |first12    = Hideo |last12 = Matsuhara
+  |first13    = Takashi |last13 = Onaka
+  |date       = October 2011
+  |title      = Asteroid Catalog Using Akari: AKARI/IRC Mid-Infrared Asteroid Survey
+  |url        = http://pasj.oxfordjournals.org/content/63/5/1117.full.pdf+html
+  |journal    = Publications of the Astronomical Society of Japan
+  |volume     = 63
+  |issue      = 5
+  |pages      = 1117–1138
+  |bibcode    = 2011PASJ...63.1117U
+  |doi        = 10.1093/pasj/63.5.1117
+  |access-date= 17 October 2019|doi-access= free
+  }} ([http://vizier.cfa.harvard.edu/viz-bin/VizieR-5?-source=J/PASJ/63/1117/acua_v1&Num=1051 online], [https://core.ac.uk/download/pdf/43545172.pdf AcuA catalog p. 153])</ref>
+
+<ref name="Nugent-2015">{{cite journal
+  |display-authors = 6
+  |first1     = C. R. |last1 = Nugent
+  |first2     = A. |last2 = Mainzer
+  |first3     = J. |last3 = Masiero
+  |first4     = J. |last4 = Bauer
+  |first5     = R. M. |last5 = Cutri
+  |first6     = T. |last6 = Grav
+  |first7     = E. |last7 = Kramer
+  |first8     = S. |last8 = Sonnett
+  |first9     = R. |last9 = Stevenson
+  |first10    = E. L. |last10 = Wright
+  |date       = December 2015
+  |title      = NEOWISE Reactivation Mission Year One: Preliminary Asteroid Diameters and Albedos
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2015ApJ...814..117N
+  |journal    = The Astrophysical Journal
+  |volume     = 814
+  |issue      = 2
+  |page       = 13
+  |bibcode    = 2015ApJ...814..117N
+  |doi        = 10.1088/0004-637X/814/2/117
+  |arxiv      = 1509.02522
+  |access-date= 21 March 2018}}</ref>
+
+<ref name="Nugent-2016">{{cite journal
+  |display-authors = 6
+  |first1     = C. R. |last1 = Nugent
+  |first2     = A. |last2 = Mainzer
+  |first3     = J. |last3 = Bauer
+  |first4     = R. M. |last4 = Cutri
+  |first5     = E. A. |last5 = Kramer
+  |first6     = T. |last6 = Grav
+  |first7     = J. |last7 = Masiero
+  |first8     = S. |last8 = Sonnett
+  |first9     = E. L. |last9 = Wright
+  |date       = September 2016
+  |title      = NEOWISE Reactivation Mission Year Two: Asteroid Diameters and Albedos
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2016AJ....152...63N
+  |journal    = The Astronomical Journal
+  |volume     = 152
+  |issue      = 3
+  |page       = 12
+  |bibcode    = 2016AJ....152...63N
+  |doi        = 10.3847/0004-6256/152/3/63
+  |arxiv      = 1606.08923
+  |access-date= 21 March 2018}}</ref>
+
+<ref name="Carbo-2009b">{{Cite journal
+  |display-authors = 6
+  |first1     = Landry |last1 = Carbo
+  |first2     = Dawson |last2 = Green
+  |first3     = Katherine |last3 = Kragh
+  |first4     = Jonathan |last4 = Krotz
+  |first5     = Andrew |last5 = Meiers
+  |first6     = Bernadette |last6 = Patino
+  |first7     = Zachary |last7 = Pligge
+  |first8     = Nelson |last8 = Shaffer
+  |first9     = Richard |last9 = Ditteon
+  |date       = October 2009
+  |title      = Asteroid Lightcurve Analysis at the Oakley Southern Sky Observatory: 2008 October thru 2009 March
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2009MPBu...36..152C
+  |journal    = The Minor Planet Bulletin
+  |volume     = 36
+  |issue      = 4
+  |pages      = 152–157
+  |issn       = 1052-8091
+  |bibcode    = 2009MPBu...36..152C
+  |access-date= 21 March 2018}}</ref>
+
+<ref name="Waszczak-2015">{{cite journal
+  |display-authors = 6
+  |first1     = Adam |last1 = Waszczak
+  |first2     = Chan-Kao |last2 = Chang
+  |first3     = Eran O. |last3 = Ofek
+  |first4     = Russ |last4 = Laher
+  |first5     = Frank |last5 = Masci
+  |first6     = David |last6 = Levitan
+  |first7     = Jason |last7 = Surace
+  |first8     = Yu-Chi |last8 = Cheng
+  |first9     = Wing-Huen |last9 = Ip
+  |first10    = Daisuke |last10 = Kinoshita
+  |first11    = George |last11 = Helou
+  |first12    = Thomas A. |last12 = Prince
+  |first13    = Shrinivas |last13 = Kulkarni
+  |date       = September 2015
+  |title      = Asteroid Light Curves from the Palomar Transient Factory Survey: Rotation Periods and Phase Functions from Sparse Photometry
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2015AJ....150...75W
+  |journal    = The Astronomical Journal
+  |volume     = 150
+  |issue      = 3
+  |page       = 35
+  |bibcode    = 2015AJ....150...75W
+  |doi        = 10.1088/0004-6256/150/3/75
+  |arxiv      = 1504.04041
+  |access-date= 21 March 2018}}</ref>
+
+<ref name="Veres-2015">{{cite journal
+  |display-authors = 6
+  |first1     = Peter |last1 = Veres
+  |first2     = Robert |last2 = Jedicke
+  |first3     = Alan |last3 = Fitzsimmons
+  |first4     = Larry |last4 = Denneau
+  |first5     = Mikael |last5 = Granvik
+  |first6     = Bryce |last6 = Bolin
+  |first7     = Serge |last7 = Chastel
+  |first8     = Richard J. |last8 = Wainscoat
+  |first9     = William S. |last9 = Burgett
+  |first10    = Kenneth C. |last10 = Chambers
+  |first11    = Heather |last11 = Flewelling
+  |first12    = Nick |last12 = Kaiser
+  |first13    = Eugen A. |last13 = Magnier
+  |first14    = Jeff S. |last14 = Morgan
+  |first15    = Paul A. |last15 = Price
+  |first16    = John L. |last16 = Tonry
+  |first17    = Christopher |last17 = Waters
+  |date       = November 2015
+  |title      = Absolute magnitudes and slope parameters for 250,000 asteroids observed by Pan-STARRS PS1 - Preliminary results
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2015Icar..261...34V
+  |journal    = Icarus
+  |volume     = 261
+  |pages      = 34–47
+  |bibcode    = 2015Icar..261...34V
+  |doi        = 10.1016/j.icarus.2015.08.007
+  |arxiv      = 1506.00762
+  |access-date= 21 March 2018}}</ref>
+
+}} <!-- end of reflist -->
+
+== External links ==
+* [http://www.minorplanet.info/PHP/lcdbsummaryquery.php Asteroid Lightcurve Database (LCDB)], query form ([http://www.minorplanet.info/lightcurvedatabase.html info])
+* [https://books.google.com/books?id=aeAg1X7afOoC&pg Dictionary of Minor Planet Names], Google books
+* [http://obswww.unige.ch/~behrend/page_cou.html Asteroids and comets rotation curves, CdR] – Observatoire de Genève, Raoul Behrend
+* [https://www.minorplanetcenter.net/iau/lists/NumberedMPs000001.html Discovery Circumstances: Numbered Minor Planets (1)-(5000)] – Minor Planet Center
+* {{AstDys|1051}}
+* {{JPL small body}}
+
+{{Use dmy dates|date=March 2018}}
+{{Minor planets navigator |1050 Meta |number=1051 |1052 Belgica}}
+{{Small Solar System bodies}}
+
+{{DEFAULTSORT:Merope}}
+[[Category:Alauda asteroids|001051]]
+[[Category:Discoveries by Karl Wilhelm Reinmuth]]
+[[Category:Minor planets named from Greek mythology]]
+[[Category:Named minor planets]]
+[[Category:Astronomical objects discovered in 1925|19250916]]

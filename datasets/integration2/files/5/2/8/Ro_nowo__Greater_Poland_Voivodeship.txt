@@ -1,0 +1,43 @@
+{{Other places3|Roznowo (disambiguation){{!}}Roznowo}}
+{{Infobox settlement
+| name = Rożnowo
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline = Kościół św. Katarzyny w Rożnowie 03.JPG
+| image_caption = Saint Catherine church in Rożnowo
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Oborniki|Oborniki]]
+| coordinates = {{coord|52|40|52|N|16|52|4|E|region:PL|display=inline}}
+| pushpin_map = Poland
+| pushpin_label_position = right
+| elevation_m =
+| population_total = 1500
+| website = }}
+'''Rożnowo''' {{IPAc-pl|r|o|ż|'|n|o|w|o}} ({{lang-de|Ruschdorf}}) is a [[village]] in the administrative district of [[Gmina Oborniki]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|5|km|mi|0}} north-east of [[Oborniki]] and {{convert|32|km|mi|0|abbr=on}} north of the regional capital [[Poznań]].
+
+Rożnowo is best known as the birthplace of [[Włodzimierz Krzyżanowski]], a military leader and brigade commander in the Union Army during the [[American Civil War]]. He was a first cousin to composer [[Frédéric Chopin]].
+
+The village has a population of 1,500.
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Oborniki}}
+
+{{coord|52|40|52|N|16|52|4|E|region:PL_type:city|display=title}}
+
+{{DEFAULTSORT:Roznowo, Greater Poland Voivodeship}}
+[[Category:Villages in Oborniki County]]
+
+
+{{Oborniki-geo-stub}}

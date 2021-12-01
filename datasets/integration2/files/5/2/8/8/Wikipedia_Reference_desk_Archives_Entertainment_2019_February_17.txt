@@ -1,0 +1,25 @@
+<noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Entertainment|Entertainment desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Entertainment/2019 February 16|February 16]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Entertainment/January 2019|Jan]] | [[Wikipedia:Reference desk/Archives/Entertainment/February 2019|February]] | [[Wikipedia:Reference desk/Archives/Entertainment/March 2019|Mar]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Entertainment/2019 February 18|[[Wikipedia:Reference desk/Archives/Entertainment/2019 February 18|February 18]]|[[Wikipedia:Reference desk/Entertainment|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center; font-family:Arial; color:#FFFFFF;" | '''Welcome to the Wikipedia Entertainment Reference Desk Archives'''
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Entertainment/2019 February 27|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= February 17 =
+
+== Replacing image trouble ==
+
+I have been wanting to replace the image on the [[Match Game-Hollywood Squares Hour]] article with a clear image from the official Buzzr website that is airing the reruns in a marathon but keep getting the previous image. Is there anything I'm doing wrong with this or is this all I can do. [[User:Pahiy|Pahiy]] ([[User talk:Pahiy|talk]]) 21:57, 17 February 2019 (UTC)
+: {{ReplyTo|Pahiy}} I see the Buzzr image in the article.  Try [[WP:PURGE]].  [[User:RudolfRed|RudolfRed]] ([[User talk:RudolfRed|talk]]) 23:26, 17 February 2019 (UTC)

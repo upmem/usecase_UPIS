@@ -1,0 +1,7 @@
+{{Non-free use rationale logo
+| Article = EQUiSat
+| Source = http://brownspace.org/equisat/
+| Use = Infobox
+}}
+==License==
+{{non-free logo|image has rationale=yes}}

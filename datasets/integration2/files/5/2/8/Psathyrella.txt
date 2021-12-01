@@ -1,0 +1,39 @@
+{{Automatic taxobox
+|image=Psathyrella_corrugis.jpg
+|image_caption=''[[Psathyrella corrugis]]''
+|taxon=Psathyrella
+|authority=([[Elias Magnus Fries|Fr.]]) [[Lucien Quélet|Quél.]] (1872)
+|type_species=''[[Psathyrella gracilis]]''
+|type_species_authority=(Fr.) Quél. (1872)
+}}
+
+'''''Psathyrella''''' is a large [[genus]] of about 400 species,<ref name=Kirk2008>{{cite book |authors=Kirk PM, Cannon PF, Minter DW, Stalpers JA. |title=Dictionary of the Fungi |edition=10th |publisher=CAB International |location=Wallingford, UK |year=2008 |page=564 |isbn=978-0-85199-826-8}}</ref> and is similar to the genera ''[[Coprinellus]]'', ''[[Coprinopsis]]'', ''[[Coprinus]]'' and ''[[Panaeolus]]'', usually with a thin [[pileus (mycology)|cap]] and white or yellowish white hollow [[stipe (mycology)|stem]]. The caps do not self digest as do those of ''Coprinellus'' and ''Coprinopsis''. Some also have brown [[spore]]s rather than black. These fungi are often drab-colored, difficult to identify, and all members are considered inedible or worthless (for eating) and so they are often overlooked. However they are quite common and can occur at times when there are few other mushrooms to be seen. The first report of a [[lamella (mycology)|gilled]] mushroom fruiting underwater is ''[[Psathyrella aquatica]]''.<ref>{{cite journal |authors=Frank JL, Coffan RA, Southworth D. |year=2010 |title=Aquatic gilled mushrooms: ''Psathyrella'' fruiting in the Rogue River in southern Oregon |journal=Mycologia |pmid=20120233 |volume=102 |issue=1 |pages=93–107 |doi=10.3852/07-190 |s2cid=7175296 }}</ref>
+
+The genus name ''Psathyrella'' is a diminutive form of ''Psathyra'', derived from the Greek word meaning "friable", psathuros (ψαθυρος).  The type species of ''Psathyrella'' is ''Psathyrella gracilis'', which is now known as ''Psathyrella corrugis''.
+
+==Characteristics==
+In order to identify the species it may be necessary to take into account the presence and nature of any [[partial veil|veil]] remnants on cap (which may only be visible on very young [[fruiting bodies]]), the colour of young fruiting bodies, which is often more vivid than with older ones, whether the cap is [[hygrophanous]] (it can well be a translucent brown or [[ochre]] colour in a humid state but a pure opaque white on drying out), and the spore size and the presence and nature of [[cheilocystidium|cheilocystidia]], [[pleurocystidium|pleurocystidia]] and [[caulocystidium|caulocystidia]], distinctive sterile cells on the gill face, gill edge and stipe respectively.  All Psathyrella species are unusually fragile, and both the cap and stem break with very little effort.  Unlike most agarics, the caps of ''Psathyrella species'' easily break into triangular shaped pieces.
+
+==Selected species==
+''For complete list see'' [[List of Psathyrella species|List of ''Psathyrella'' species]]
+
+* ''[[Psathyrella ammophila]]'' (dune brittlestem)
+* ''[[Psathyrella aquatica]]''
+* ''[[Psathyrella bipellis]]''
+* ''[[Psathyrella candolleana]]'' (pale brittlestem)
+* ''[[Psathyrella corrugis]]'' (red edge brittlestem) (type sp., older synonym of ''Psathyrella gracilis'')
+* ''[[Psathyrella piluliformis]]'' / ''Psathyrella hydrophila'' (common stump brittlestem)
+
+==References==
+{{Reflist}}
+*Marcel Bon : ''The Mushrooms and Toadstools of Britain and North-Western Europe'' (Hodder & Stoughton, 1987). {{ISBN|0-340-39935-X}}
+
+==External links==
+*[http://www.hti.umich.edu:80/cgi/t/text/text-idx?c=fung1tc;cc=fung1tc;view=toc;idno=AJN6254.0001.001 ''The North American species of'' Psathyrella] by Alexander H. Smith, 1972. (Full text of monograph.)
+
+{{Taxonbar|from=Q2705558}}
+
+[[Category:Psathyrellaceae]]
+[[Category:Inedible fungi]]
+[[Category:Agaricales genera]]
+[[Category:Taxa named by Elias Magnus Fries]]

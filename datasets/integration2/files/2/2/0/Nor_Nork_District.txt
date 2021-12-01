@@ -1,0 +1,92 @@
+{{Infobox settlement
+|official_name =Nor Nork
+|native_name =Նոր Նորք 
+|pushpin_map            =Armenia
+|mapsize                =150px
+|coordinates            = 
+|subdivision_type       = Country
+|subdivision_name       = [[Armenia]]
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      = [[Yerevan]]
+|leader_title           = Mayor of district
+|leader_name            = Hayk Mhryan
+|established_title      =
+|established_date       = 
+|area_total_km2           = 14
+|area_footnotes           = 
+|population_as_of         = 2011 census
+|population_total =126,065
+|population_density_km2   = auto
+|timezone               = [[Armenia Time|AMT]]
+|utc_offset             = +4
+|timezone_DST           =
+|utc_offset_DST         = 
+<!-- images and maps ----------->
+|image_skyline= Nor Nork Yerevan skyline 02.jpg
+|imagesize=
+|image_caption= Nor Nork skyline
+|image_flag=
+|flag_size=
+|image_sea=
+|seal_size=
+|image_shield=
+|shield_size=
+|image_blank_emblem=
+|blank_emblem_type=
+|blank_emblem_size=
+|image_map=Yerevan Nor Nork district.png 
+|map_caption=Nor Nork district shown in red 
+|pushpin_label_position=<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption=
+|pushpin_mapsize=
+|elevation_m              = 
+|area_code                = 
+|website                  = {{url|http://www.nor-norq.am/}}
+}}
+
+'''Nor Nork''' ({{lang-hy|Նոր Նորք}}, ''Nor Nork'') is one of the [[Districts of Yerevan|12 districts]] of [[Yerevan]], the capital of [[Armenia]]. It is located at the eastern part of the city. It is bordered by the districts of [[Nork-Marash District|Nork-Marash]], [[Kentron District|Kentron]] and [[Kanaker-Zeytun District|Kanaker-Zeytun]] from the west, [[Avan District|Avan]] from the north and [[Erebuni District|Erebuni]] from the south. [[Kotayk Province]] forms the eastern border of the district.<ref>[https://www.yerevan.am/am/districts/nor-nork/ Nor Nork at Yerevan.am]</ref>
+
+The district is unofficially divided into smaller neighborhoods including the 9 blocks of Nor Nork and the Bagrevand neighborhood. As of the 2011 census, the population of the district is 126,065.
+
+==Streets and landmarks==
+===Main streets===
+*Davit Bek street
+*Gai avenue
+*Tevosyan street
+*Gyurjyan street
+*Minski street
+*Vilnyus street
+
+===Landmarks===
+*[[Saint Sarkis Church, Nor Nork|Saint Sarkis Church]] (built in 1999)
+*[[Holy Mother of God Church, Nor Nork|Holy Mother of God Church]] (built in 2014)
+*Fridtjof Nansen Park
+*Tatul Krpeyan Park
+*Vaspurakan Park
+*Suren Nazaryan Garden
+*Tigranes the Great Park
+*[[Yerevan Zoo]]
+*[[Yerevan Water World]]
+*[[Vazgen Sargsyan Military Institute]]
+*[[Ministry of Defence of Armenia]]
+
+==Gallery==
+<gallery widths="140px" heights="140px" perrow=5 caption="Nor Nork district">
+File:Սուրբ Սարգիս եկեղեցի, Նոր Նորք, Երեւան.JPG|[[Saint Sarkis Church, Nor Nork|Saint Sarkis Church]], consecrated in 1999
+File:Հայկ Նահապետի արձան.jpg|The statue of [[Hayk]] Nahapet in Nor Nork
+File:Tork Angegh.JPG|The statue of [[Tork Angegh]] in Nor Nork
+File:WaterWorld Yerevan.jpg|[[Yerevan Water World]]
+File:Nor Nork admin.jpg|The administrative building of Nor Nork district
+File:Գայի արձան.JPG|The statue of Hayk Bzhishkyan
+File:Nor Nork Yerevan skyline 01.jpg|The heights of Nor Nork
+</gallery>
+
+==References==
+{{reflist}}
+
+[[Category:Populated places in Yerevan]]
+[[Category:Districts of Yerevan]]
+
+{{City of Yerevan}}
+
+{{Coord|40|11|54|N|44|33|55|E|type:city_region:AM|display=title}}

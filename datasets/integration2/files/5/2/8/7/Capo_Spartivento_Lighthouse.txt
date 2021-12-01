@@ -1,0 +1,70 @@
+{{Infobox lighthouse     
+| name            = Capo Spartivento 
+| image_name      = Faro-capo-spartivento.jpg
+| image_width     = 
+| caption         = Capo Spartivento Lighthouse
+| location        = [[Cape Spartivento]]<br />[[Domus de Maria]]<br />[[Sardinia]]<br />[[Italy]]
+| pushpin_map     = Italy Sardinia#Italy 
+| pushpin_relief = yes
+| pushpin_map_caption = Sardinia
+| pushpin         = lighthouse
+| pushpin_label_position =
+| coordinates = {{coord|38.877806|N|8.8455|E|format=dms|display=inline,title}}
+| yearbuilt       = 1866
+| yearlit         = 
+| automated       = yes
+| yeardeactivated = 
+| foundation      = 
+| construction    = masonry tower
+| shape           = cylindrical tower with balcony and lantern atop a 2-storey keeper's house
+| marking         = white tower, white lantern, grey metallic lantern dome
+| height          = {{convert|19|m|ft}}
+| focalheight     = {{convert|81|m|ft}}
+| lens            = 
+| currentlens     = Type OR T3<br />[[Focal length]]: 125mm
+| lightsource     = mains power
+| intensity       = main: AL 1000 W<br/>reserve: LABI 100 W
+| range           = main: {{convert|22|nmi}}<br />reserve: {{convert|18|nmi}}
+| characteristic  = Fl (2) W 10s.
+| fogsignal       = no
+| racon           = 
+| admiralty       = E1072
+| canada          = 
+| NGA             = 8448
+| ARLHS           = SAR-020
+| USCG            = 
+| country         = Italy
+| countrynumber   = 1310 E.F.
+| countrylink     =
+| managingagent   = Marina Militare<ref>{{cite web|url = https://www.ibiblio.org/lighthouse/sar.htm | title = Lighthouses of Italy: Southern Sardinia | publisher = The Lighthouse Directory  | accessdate = March 20, 2018}}</ref><ref name=marinaspartivento>{{cite web | url = http://www.marina.difesa.it/cosa-facciamo/per-la-difesa-sicurezza/fari/Pagine/1310.aspx | title = Capo Spartivento | publisher = Marina Militare | accessdate = March 20, 2018}}</ref>
+| heritage        =
+| module          =
+}}
+
+'''Capo Spartivento Lighthouse''' ({{lang-it|Faro di Capo Spartivento }}) is an active [[lighthouse]] located on [[Cape Spartivento]] promontory which is the southernmost point of [[Sardinia]] and represents the eastern boundary of the Gulf of [[Teulada, Sardinia|Teulada]] and the western limit of the [[Gulf of Cagliari]] on the [[Tyrrhenian Sea]]. The structure is situated in the municipality of [[Domus de Maria]].
+
+==Description==
+The lighthouse was built in 1866 and consists of a masonry cylindrical tower, {{convert|19|m|ft}} high, with balcony and lantern rising from a 2-storey keeper's house. The building, painted in red with white trim, was in poor condition and was restored in 2006 and transformed into a luxury resort, with four suites and swimming pool, as the adjacent building. The tower is painted white and the lantern, which mounts a Type OR T3 optics with a [[Focal length]] of 125mm, in grey metallic. The light is positioned at {{convert|81|m|ft}} [[above sea level]] and emits [[Light characteristic#Class of light|two white flashes]] in a 10 seconds period visible up to a distance of {{convert|22|nmi}}. The lighthouse is completely automated and managed by the [[Marina Militare]] with the identification code number 1310 E.F.<ref name=marinaspartivento/>
+
+==See also==
+* [[List of lighthouses in Italy]]
+* [[Cape Spartivento]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.marina.difesa.it/cosa-facciamo/per-la-difesa-sicurezza/fari/Pagine/italia.aspx Servizio Fari Marina Militare]
+* [http://www.farocapospartivento.com/en Faro Capo Spartivento]
+
+{{commons category|position=left|Faro di Capo Spartivento (Domus de Maria)|Capo Spartivento lighthouse}}
+
+{{Portal bar|Italy|Engineering}}
+{{Lighthouses of Italy}}
+
+[[Category:Lighthouses in Italy]]
+[[Category:Buildings and structures in Sardinia]]
+
+
+{{Italy-struct-stub}}
+{{Europe-lighthouse-stub}}

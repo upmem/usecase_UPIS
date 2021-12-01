@@ -1,0 +1,59 @@
+{{Use dmy dates|date=July 2013}}
+{{Use Australian English|date=July 2013}}
+{{Infobox rugby league biography
+|name     = Shaun Devine
+|fullname       = 
+|nickname       = 
+|image          = 
+|image_size     =
+|caption        =
+|country        =  
+|position       = {{rlp|FB}}
+|birth_date    = {{birth date and age|1970|4|4|df=y}}
+|birth_place   =Australia
+|death_date=
+|death_place=
+|height         =  
+|weight         =  
+|club1          = [[Western Suburbs Magpies|Wests Magpies]]
+|year1start     = 1990
+|year1end       = 93
+|appearances1   = 43
+|tries1         =  5
+|goals1         =  17
+|fieldgoals1    =  2
+|points1        = 56
+|club2               =[[Western Reds]] 
+|year2start          = 1995
+|year2end            = 97
+|appearances2        = 23
+|tries2              = 4
+|goals2              = 8
+|fieldgoals2         = 0
+|points2             = 32|updated        = 
+|source         = [http://www.rugbyleagueproject.org/players/Shaun-Devine/summary.html RLP]
+|new            = yes
+}}
+
+'''Shaun Devine''' is an Australian former professional [[rugby league]] footballer who played professionally for the [[Western Suburbs Magpies]] and the [[Western Reds]].
+
+==Playing career==
+Devine played for the [[Western Suburbs Magpies]] between 1990 and 1993 in the [[NSWRL Premiership]]. In 1994 he played for the Rockingham Coastal Sharks in the [[Western Australia Rugby League]] competition.<ref>[http://www.sportingpulse.com/club_info.cgi?client=1-2127-19778-0-0&sID=20882&&news_task=DETAIL&articleID=54897 Rockingham Rugby League Honour Board] ''Rockingham Coastal Sharks''</ref> He then played for the new [[Western Reds]] franchise between 1995 and 1997.<ref>[https://www.independent.co.uk/sport/rugby-league-paris-surrender-galls-goodway-1252912.html Paris surrender galls Goodway] ''The Independent'', 28 July 1997</ref>
+
+In 2008 he was involved in the formation of the Hinterland Storm club in the Bycroft Cup on the Gold Coast.<ref>[http://www.goldcoast.com.au/article/2008/11/14/22771_gold-coast-sport.html Matt to play on to help out pal] ''goldcoast.com.au'', 14 November 2008</ref>
+
+==References==
+{{reflist|30em}}
+{{1995 Western Reds}}
+
+{{DEFAULTSORT:Devine, Shaun}}
+[[Category:Living people]]
+[[Category:Australian rugby league players]]
+[[Category:1970 births]]
+[[Category:Rugby league fullbacks]]
+[[Category:Western Suburbs Magpies players]]
+[[Category:Western Reds players]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{Australia-rugbyleague-bio-1970s-stub}}

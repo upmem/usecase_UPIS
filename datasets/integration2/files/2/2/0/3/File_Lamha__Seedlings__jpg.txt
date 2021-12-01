@@ -1,0 +1,29 @@
+==Summary==
+{{Non-free use rationale poster
+| Article           = Seedlings (film)
+| Use               = Infobox
+| Media             = film
+<!-- ADDITIONAL INFORMATION -->
+| Name              = [[Seedlings (film)]]
+| Distributor       = 
+| Publisher         = 
+| Graphic Artist    = Shahrukh Ali
+| Type              = Social, Drama film
+| Website           = 
+| Owner             = Bodhicitta Works & ICE Animations
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = [http://www.facebook.com/pages/Seedlings/102783729822384 Seedlings] on [[Facebook]]
+| Portion           = 
+| Low resolution    = 
+| Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section -->
+| Replaceability    = 
+| Other information = 
+}}
+
+== Licensing ==
+{{Non-free poster|image has rationale=yes}}
+
+[[Category:Fair use images of movie posters]]
+[[Category:Pakistani film posters]]

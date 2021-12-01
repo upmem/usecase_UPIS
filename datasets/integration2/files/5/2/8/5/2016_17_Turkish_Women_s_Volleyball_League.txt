@@ -1,0 +1,544 @@
+{{Infobox sports season
+| title            = 2016–17 Turkish Women's Volleyball League
+| league           = [[Turkish Women's Volleyball League]]
+| sport            = [[Volleyball]]
+| logo             = 
+| pixels           = 
+| caption          = 
+| duration         =
+| no_of_teams      = 12
+| no_of_games      = 132 (Regular Season)
+| attendance       =
+| TV               = 
+| season           = Regular Season
+| season_champs    =
+| MVP              = 
+| MVP_link         = 
+| top_scorer       = {{flagicon|CHN}} [[Zhu Ting (volleyball)|Zhu Ting]] ([[Vakıfbank Spor Kulübü|VakıfBank]])
+| top_scorer_link  = 
+| playoffs         = 
+| playoffs_link    = 
+| conf1            =
+| conf1_link       =
+| conf1_champ      =
+| conf1_runner-up  =
+| conf2            =
+| conf2_link       =
+| conf2_champ      =
+| conf2-runner-up  =
+| finals           = Finals
+| finals_link      = 
+| finals_champ     = [[Fenerbahçe Women's Volleyball|Fenerbahçe]]
+| finals_runner-up = [[Galatasaray S.K. (women's volleyball)|Galatasaray Daikin]]
+| finals_MVP       = {{flagicon|BRA}} [[Natália Pereira]]
+| finals_MVP_link  = 
+| seasonslist      =
+| seasonslistnames = Turkish Women's Volleyball League
+| prevseason_link  = 2015–16 Turkish Women's Volleyball League
+| prevseason_year  = 2015–16
+| nextseason_link  = 2017–18 Turkish Women's Volleyball League
+| nextseason_year  = 2017–18
+}}
+
+The '''2016–17''' [[Turkish Women's Volleyball League]] is the 34th edition of the top-flight professional women's volleyball league in Turkey.
+
+==Regular season==
+===League table===
+{| class=wikitable style="text-align:center;" width="500"
+|-
+! width=4%|Pos
+! width=31%|Club
+! width=7%|Pld !! width=7%|W !! width=7%|L
+! width=9%|SW
+! width=9%|SL
+! width=10%|PAYP
+! width=16%|Pts
+|- bgcolor=#ccffcc
+| 1 || align="left"| [[Vakıfbank Spor Kulübü|VakıfBank]] '''(A)'''
+|| 22 ||21|| 1 || 63 || 8 || 2.080 || 64.080
+|- bgcolor=#ccffcc
+| 2 || align="left"| {{nowrap|[[Fenerbahçe Women's Volleyball|Fenerbahçe]] '''(A)'''}}
+|| 22 || 19 || 3 || 60 || 21 || 1.360 || 56.360
+|- bgcolor=#ccffcc
+| 3 || align="left"| [[Eczacıbaşı VitrA]] '''(A)'''
+|| 22 || 17 || 5 || 59 || 27 || 1.870 || 54.870
+|- bgcolor=#ccffcc
+| 4 || align="left"| {{nowrap|[[Galatasaray S.K. (women's volleyball)|Galatasaray Daikin]] '''(A)'''}}
+|| 22 || 15 || 7 || 51 || 29 || 1.200 || 46.200
+|- bgcolor=#ccffcc
+| 5 || align="left"| [[Bursa Büyükşehir Belediyespor Women's Volleyball|Bursa BŞB]] '''(A)'''
+|| 22 || 12 || 10 || 43 || 39 || 2.080 || 38.080
+|- bgcolor=#ccffcc
+| 6 || align="left"| [[Çanakkale Belediyespor Women's Volleyball|Çanakkale Bld]] '''(A)'''
+|| 22 || 11 || 11 || 43 || 39 || 0.870 || 34.870
+|- bgcolor=#ccffcc
+| 7 || align="left"| [[Halkbank Ankara (women's volleyball)|Halkbank]] '''(A)'''
+|| 22 || 9 || 13 || 37 || 49 || 2.050 || 29.050
+|- bgcolor=#ccffcc
+| 8 || align="left"| [[Beşiktaş Women's Volleyball Team|Beşiktaş]] '''(A)'''
+|| 22 || 10 || 12 || 34 || 49 || 0.720 || 27.720
+|- style="background-color: #FFCCCC;"
+| 9 || align="left"| Seramiksan '''(a)'''
+|| 22 || 7 || 15 || 33 || 55 || 0.870 || 19.870
+|- style="background-color: #ffcccc;"
+| 10 || align="left"| [[Trabzon İdmanocağı (women's volleyball)|İdman Ocağı]] '''(a)'''
+|| 22 || 5 || 17 || 24 || 56 || 0.450 || 15.450
+|- style="background-color: #ffcccc;"
+| 11 || align="left"| [[Nilüfer Belediyespor Women's Volleyball Team|Nilüfer Bld]] '''(a)'''
+|| 22 || 2 || 20 || 21 || 60 || 1.710 || 12.710
+|- style="background-color: #ffcccc;"
+| 12 || align="left"| [[Sarıyer Belediyespor Women's Volleyball|Sarıyer Bld]] '''(a)'''
+|| 22 || 4 || 18 || 20 || 56 || 0.300 || 12.300
+|}
+
+{| class="wikitable"
+|-
+| bgcolor="#ccffcc" width="20" | '''(A)'''
+| bgcolor="#ffffff" align="left" | Advance to Playoffs
+|-
+| bgcolor="#FFCCCC" width="20" | '''(a)'''
+| bgcolor="#ffffff" align="left" | Advance to Play out
+|-
+|}
+Source: [https://web.archive.org/web/20161012150248/http://www.tvf.org.tr/icerik/436 Turkish Volleyball Federation]
+
+Updated: 28 March 2017
+
+===Results===
+{{#invoke:sports results|main
+|matches_style=FBR|solid_cell=grey
+|team1=BEŞ|team2=BUR|team3=ÇAN|team4=ECZ|team5=FEN
+|team6=GAL|team7=HAL|team8=İDM|team9=NİL|team10=SAR
+|team11=SER|team12=VAK
+
+|name_BEŞ=[[Beşiktaş Women's Volleyball Team|Beşiktaş]]
+|match_BEŞ_BUR=3–0
+|match_BEŞ_ÇAN=1–3
+|match_BEŞ_ECZ=0–3
+|match_BEŞ_FEN=0–3
+|match_BEŞ_GAL=1–3
+|match_BEŞ_HAL=3–0
+|match_BEŞ_İDM=3–2
+|match_BEŞ_NİL=3–2
+|match_BEŞ_SAR=3–1
+|match_BEŞ_SER=3–1
+|match_BEŞ_VAK=0–3
+
+|name_BUR=[[Bursa Büyükşehir Belediyespor Women's Volleyball|Bursa BŞB]]
+|match_BUR_BEŞ=3–0
+|match_BUR_ÇAN=2–3
+|match_BUR_ECZ=3–2
+|match_BUR_FEN=1–3
+|match_BUR_GAL=2–3
+|match_BUR_HAL=3–1
+|match_BUR_İDM=3–0
+|match_BUR_NİL=3–1
+|match_BUR_SAR=3–0
+|match_BUR_SER=3–1
+|match_BUR_VAK=0–3
+
+|name_ÇAN=[[Çanakkale Belediyespor Women's Volleyball|Çanakkale Bld]]
+|match_ÇAN_BEŞ=3–0
+|match_ÇAN_BUR=0–3
+|match_ÇAN_ECZ=1–3
+|match_ÇAN_FEN=2–3
+|match_ÇAN_GAL=0–3
+|match_ÇAN_HAL=2–3
+|match_ÇAN_İDM=3–1
+|match_ÇAN_NİL=3–1
+|match_ÇAN_SAR=3–1
+|match_ÇAN_SER=3–0
+|match_ÇAN_VAK=1–3
+
+|name_ECZ=[[Eczacıbaşı VitrA]]
+|match_ECZ_BEŞ=3–1
+|match_ECZ_BUR=3–0
+|match_ECZ_ÇAN=3–1
+|match_ECZ_FEN=2–3
+|match_ECZ_GAL=3–1
+|match_ECZ_HAL=3–1
+|match_ECZ_İDM=3–0
+|match_ECZ_NİL=3–0
+|match_ECZ_SAR=3–0
+|match_ECZ_SER=2–3
+|match_ECZ_VAK=2–3
+
+|name_FEN=[[Fenerbahçe Women's Volleyball|Fenerbahçe]]
+|match_FEN_BEŞ=3–0
+|match_FEN_BUR=3–0
+|match_FEN_ÇAN=2–3
+|match_FEN_ECZ=1–3
+|match_FEN_GAL=3–1
+|match_FEN_HAL=3–2
+|match_FEN_İDM=3–0
+|match_FEN_NİL=3–0
+|match_FEN_SAR=3–1
+|match_FEN_SER=3–1
+|match_FEN_VAK=0–3
+
+|name_GAL=[[Galatasaray S.K. (women's volleyball)|Galatasaray Daikin]]
+|match_GAL_BEŞ=3–0
+|match_GAL_BUR=2–3
+|match_GAL_ÇAN=3–1
+|match_GAL_ECZ=1–3
+|match_GAL_FEN=1–3
+|match_GAL_HAL=3–1
+|match_GAL_İDM=3–1
+|match_GAL_NİL=3–0
+|match_GAL_SAR=3–1
+|match_GAL_SER=3–0
+|match_GAL_VAK=0–3
+
+|name_HAL=[[Halkbank Ankara (women's volleyball)|Halkbank]]
+|match_HAL_BEŞ=3–1
+|match_HAL_BUR=3–1
+|match_HAL_ÇAN=1–3
+|match_HAL_ECZ=1–3
+|match_HAL_FEN=0–3
+|match_HAL_GAL=0–3
+|match_HAL_İDM=3–1
+|match_HAL_NİL=3–1
+|match_HAL_SAR=3–1
+|match_HAL_SER=3–2
+|match_HAL_VAK=0–3
+
+|name_İDM=[[Trabzon İdmanocağı (women's volleyball)|İdman Ocağı]]
+|match_İDM_BEŞ=1–3
+|match_İDM_BUR=3–1
+|match_İDM_ÇAN=3–1
+|match_İDM_ECZ=0–3
+|match_İDM_FEN=0–3
+|match_İDM_GAL=1–3
+|match_İDM_HAL=3–1
+|match_İDM_NİL=3–2
+|match_İDM_SAR=3–0
+|match_İDM_SER=1–3
+|match_İDM_VAK=0–3
+
+|name_NİL=[[Nilüfer Belediyespor Women's Volleyball Team|Nilüfer Bld]]
+|match_NİL_BEŞ=2–3
+|match_NİL_BUR=1–3
+|match_NİL_ÇAN=1–3
+|match_NİL_ECZ=2–3
+|match_NİL_FEN=0–3
+|match_NİL_GAL=0–3
+|match_NİL_HAL=0–3
+|match_NİL_İDM=3–0
+|match_NİL_SAR=0–3
+|match_NİL_SER=2–3
+|match_NİL_VAK=0–3
+
+|name_SAR=[[Sarıyer Belediyespor Women's Volleyball|Sarıyer Bld]]
+|match_SAR_BEŞ=0–3
+|match_SAR_BUR=0–3
+|match_SAR_ÇAN=0–3
+|match_SAR_ECZ=0–3
+|match_SAR_FEN=0–3
+|match_SAR_GAL=0–3
+|match_SAR_HAL=0–3
+|match_SAR_İDM=3–1
+|match_SAR_NİL=3–0
+|match_SAR_SER=3–1
+|match_SAR_VAK=1–3
+
+|name_SER=Seramiksan
+|match_SER_BEŞ=1–3
+|match_SER_BUR=1–3
+|match_SER_ÇAN=3–2
+|match_SER_ECZ=2–3
+|match_SER_FEN=1–3
+|match_SER_GAL=0–3
+|match_SER_HAL=3–2
+|match_SER_İDM=3–0
+|match_SER_NİL=0–3
+|match_SER_SAR=3–1
+|match_SER_VAK=0–3
+
+|name_VAK=[[Vakıfbank Spor Kulübü|VakıfBank]]
+|match_VAK_BEŞ=3–0
+|match_VAK_BUR=3–0
+|match_VAK_ÇAN=3–0
+|match_VAK_ECZ=3–0
+|match_VAK_FEN=0–3
+|match_VAK_GAL=3–0
+|match_VAK_HAL=3–0
+|match_VAK_İDM=3–0
+|match_VAK_NİL=3–0
+|match_VAK_SAR=3–0
+|match_VAK_SER=3–1
+
+|update=28 March 2017 
+|source=[http://www.tvf.org.tr/icerik/436/ TWVL Fixtures]
+}}
+
+==Play-outs==
+{{col-begin}}
+{{col-break}}
+{| class=wikitable style="text-align:center;" width="400"
+|-
+! width=5%|Pos
+! width=35%|Club
+! width=5%|Pld !! width=5%|W !! width=5%|L
+! width=10%|SW
+! width=10%|SL
+! width=10%|Pts
+|-
+| 9 || align="left"| Seramiksan
+|| 28 || 10 || 18 || 46 || 66 || 28.87
+|- 
+| 10 || align="left"| [[Nilüfer Belediyespor Women's Volleyball Team|Nilüfer Bld]]
+|| 28 || 7 || 21 || 37 || 66 || 27.71
+|- style="background-color: #FFCCCC;"
+| 11 || align="left"| [[Sarıyer Belediyespor Women's Volleyball|Sarıyer Bld]]
+|| 28 || 7 || 21 || 31 || 67 || 22.3
+|- style="background-color: #FFCCCC;"
+| 12 || align="left"| [[Trabzon İdmanocağı (women's volleyball)|İdman Ocağı]]
+|| 28 || 6 || 22 || 29 || 73 || 17.45
+|}
+
+{| class="wikitable"
+|-
+| bgcolor="#FFCCCC" width="20" | 
+| bgcolor="#ffffff" align="left" | Relegation to Turkish Women Volleyball Second League
+|-
+|}
+{{col-break}}
+{{#invoke:sports results|main
+|matches_style=FBR|solid_cell=grey
+|team1=İDM|team2=NİL|team3=SAR|team4=SER
+
+|name_İDM=[[Trabzon İdmanocağı (women's volleyball)|İdman Ocağı]]
+|match_İDM_NİL=1–3
+|match_İDM_SAR=0–3
+|match_İDM_SER=3–2
+
+|name_NİL=[[Nilüfer Belediyespor Women's Volleyball Team|Nilüfer Bld]]
+|match_NİL_İDM=3–0
+|match_NİL_SAR=1–3
+|match_NİL_SER=3–1
+
+|name_SAR=[[Sarıyer Belediyespor Women's Volleyball|Sarıyer Bld]]
+|match_SAR_İDM=3–1
+|match_SAR_NİL=0–3
+|match_SAR_SER=2–3
+
+|name_SER=Seramiksan
+|match_SER_İDM=3–0
+|match_SER_NİL=1–3
+|match_SER_SAR=3–0
+
+|update=complete|source=
+}}
+{{col-end}}
+
+==Play-offs==
+The eight teams that finished in the places 1 to 8 in the Regular season, compete in the '''Play-off (1-8)'''.
+
+{{8TeamBracket-with third-fifth-seventh
+| QF-seed1=[[#Regular Season|6]] | QF-team1=[[Çanakkale Belediyespor Women's Volleyball|Çanakkale Bld]] | QF-score1=0
+| QF-seed2=[[#Regular Season|3]] | QF-team2='''[[Eczacıbaşı VitrA]]''' | QF-score2='''6'''
+
+| QF-seed3=[[#Regular Season|7]] | QF-team3=[[Halkbank Ankara (women's volleyball)|Halkbank]] | QF-score3=1
+| QF-seed4=[[#Regular Season|2]] | QF-team4='''[[Fenerbahçe Women's Volleyball|Fenerbahçe]]'''| QF-score4='''5'''
+| QF-seed5=[[#Regular Season|5]] | QF-team5=[[Bursa Büyükşehir Belediyespor Women's Volleyball|Bursa BŞB]] | QF-score5=0
+| QF-seed6=[[#Regular Season|4]] | QF-team6='''[[Galatasaray S.K. (women's volleyball)|Galatasaray]]''' | QF-score6='''6'''
+| QF-seed7=[[#Regular Season|8]] | QF-team7=[[Beşiktaş Women's Volleyball Team|Beşiktaş]] | QF-score7=1
+| QF-seed8=[[#Regular Season|1]] | QF-team8='''[[Vakıfbank Spor Kulübü|VakıfBank]]''' | QF-score8='''5'''
+
+| SF-seed1=[[#Regular Season|3]] | SF-team1=[[Eczacıbaşı VitrA]] | SF-score1=3 (14)
+| SF-seed2=[[#Regular Season|2]] | SF-team2='''[[Fenerbahçe Women's Volleyball|Fenerbahçe]] ([[golden set]])''' | SF-score2='''3 (16)'''
+| SF-seed3=[[#Regular Season|4]] | SF-team3='''[[Galatasaray S.K. (women's volleyball)|Galatasaray]]''' | SF-score3='''4'''
+| SF-seed4=[[#Regular Season|1]] | SF-team4=[[Vakıfbank Spor Kulübü|VakıfBank]] | SF-score4=2
+
+| consolation-seed1=[[#Regular Season|6]] | consolation-team1='''[[Çanakkale Belediyespor Women's Volleyball|Çanakkale Bld]]''' | consolation-score1='''5'''
+| consolation-seed2=[[#Regular Season|7]] | consolation-team2=[[Halkbank Ankara (women's volleyball)|Halkbank]] | consolation-score2=4
+| consolation-seed3=[[#Regular Season|5]] | consolation-team3='''[[Bursa Büyükşehir Belediyespor Women's Volleyball|Bursa BŞB]]''' | consolation-score3='''7'''
+| consolation-seed4=[[#Regular Season|8]] | consolation-team4=[[Beşiktaş Women's Volleyball Team|Beşiktaş]] | consolation-score4=2
+
+| final-seed1=[[#Regular Season|2]] | final-team1='''[[Fenerbahçe Women's Volleyball|Fenerbahçe]]''' | final-score1='''9'''
+| final-seed2=[[#Regular Season|4]] | final-team2=[[Galatasaray S.K. (women's volleyball)|Galatasaray]] | final-score2=0
+| third-seed1=[[#Regular Season|3]] | third-team1=[[Eczacıbaşı VitrA]] | third-score1=0
+| third-seed2=[[#Regular Season|1]] | third-team2='''[[Vakıfbank Spor Kulübü|VakıfBank]]''' | third-score2='''6'''
+| fifth-seed1=[[#Regular Season|6]] | fifth-team1=[[Çanakkale Belediyespor Women's Volleyball|Çanakkale Bld]] | fifth-score1=0
+| fifth-seed2=[[#Regular Season|5]] | fifth-team2='''[[Bursa Büyükşehir Belediyespor Women's Volleyball|Bursa BŞB]]''' | fifth-score2='''6'''
+| seventh-seed1=[[#Regular Season|7]] | seventh-team1=[[Halkbank Ankara (women's volleyball)|Halkbank]] | seventh-score1=1
+| seventh-seed2=[[#Regular Season|8]] | seventh-team2='''[[Beşiktaş Women's Volleyball Team|Beşiktaş]]''' | seventh-score2='''5'''
+}}
+
+===Quarterfinals===
+{{TwoLegStart}}
+{{TwoLegResult|[[Çanakkale Belediyespor Women's Volleyball|Çanakkale Bld]]||0–6|'''[[Eczacıbaşı VitrA]]'''||1–3|0–3|}}
+{{TwoLegResult|[[Halkbank Ankara (women's volleyball)|Halkbank]]||1–5|'''[[Fenerbahçe Women's Volleyball|Fenerbahçe]]'''||2–3|0–3}}
+{{TwoLegResult|[[Bursa Büyükşehir Belediyespor Women's Volleyball|Bursa BŞB]]||0–6|'''[[Galatasaray S.K. (women's volleyball)|Galatasaray Daikin]]'''||0–3|0–3|}}
+{{TwoLegResult|[[Beşiktaş Women's Volleyball Team|Beşiktaş]]||1–5|'''[[Vakıfbank Spor Kulübü|VakıfBank]]'''||2–3|1–3|}}
+{{end}}
+
+===Fifth place play-offs===
+*Winners qualify for [[2017–18 CEV Women's Challenge Cup#Main phase|CEV Challenge Cup main phase]].
+*2 matches were needed for win.
+{{TwoLegStart|legs =3}}
+{{TwoLegResult|'''[[Çanakkale Belediyespor Women's Volleyball|Çanakkale Bld]]'''||5–4|'''[[Halkbank Ankara (women's volleyball)|Halkbank]]'''||3–2|2–3|3–2}}
+|-
+|colspan=6 align="left"|''Çanakkale Bld won by 2–1 matches''
+{{TwoLegResult|'''[[Bursa Büyükşehir Belediyespor Women's Volleyball|Bursa BŞB]]'''||3–3|[[Beşiktaş Women's Volleyball Team|Beşiktaş]]||3–0|2–3|3–1}}
+|-
+| colspan=6 align="left"|''Bursa BŞB won by 2–1 matches.''
+{{end}}
+
+===Semifinals===
+*Winners qualify for [[2017–18 CEV Women's Champions League#League round|CEV Champions League league round]].
+{{TwoLegStart}}
+{{TwoLegResult|[[Eczacıbaşı VitrA]]||3–3|'''[[Fenerbahçe Women's Volleyball|Fenerbahçe]]'''||3–0|1–3}}|-
+| colspan=6 align="left"|''Fenerbahçe won by golden set 16–14.''
+{{TwoLegResult|'''[[Galatasaray S.K. (women's volleyball)|Galatasaray Daikin]]'''||4–2|[[Vakıfbank Spor Kulübü|VakıfBank]]||3–0|2–3|}}
+{{end}}
+
+===Seventh place matches===
+{{TwoLegStart}}
+{{TwoLegResult|[[Halkbank Ankara (women's volleyball)|Halkbank]]||1–5|'''[[Beşiktaş Women's Volleyball Team|Beşiktaş]]'''||0–3|2–3}}
+{{end}}
+
+===Fifth place matches===
+{{TwoLegStart}}
+{{TwoLegResult|[[Çanakkale Belediyespor Women's Volleyball|Çanakkale Bld]]||0–6|'''[[Bursa Büyükşehir Belediyespor Women's Volleyball|Bursa BŞB]]'''||0–3|1–3}}
+{{end}}
+
+===Third place matches===
+*Winner qualify for [[2017–18 CEV Women's Champions League qualification|CEV Champions League qualification round]].
+*Loser qualify for [[2017–18 Women's CEV Cup#Main phase|CEV Cup main phase]].
+{{TwoLegStart}}
+{{TwoLegResult|[[Eczacıbaşı VitrA]]||0–6|'''[[Vakıfbank Spor Kulübü|VakıfBank]]'''||0–3|1–3}}
+{{end}}
+
+===Final matches===
+*3 matches were needed for win.
+
+{{TwoLegStart|legs=3}}
+{{TwoLegResult|'''[[Fenerbahçe Women's Volleyball|Fenerbahçe]]'''||9–0|[[Galatasaray S.K. (women's volleyball)|Galatasaray Daikin]]||3–0|3–0|3–0}}
+|-
+| colspan=6 align="left"|''Fenerbahçe won by 3–0 matches.''
+{{end}}
+
+==Final standing==
+{{col-begin}}
+{{col-2}}
+{|class="wikitable" style="text-align:center;"
+!width=40|Rank
+!width=240|Team
+|-bgcolor=#bbf3bb
+|{{Gold1}}
+|style="text-align:left;"|[[Fenerbahçe Women's Volleyball|Fenerbahçe]] '''(Q)'''
+|-bgcolor=#bbf3bb
+|{{Silver2}}
+|style="text-align:left;"|[[Galatasaray S.K. (women's volleyball)|Galatasaray Daikin]] '''(Q)'''
+|-bgcolor=#ccffcc
+|{{Bronze3}}
+|style="text-align:left;"|[[Vakıfbank Spor Kulübü|VakıfBank]] '''(A)'''
+|-bgcolor=#bbf3ff
+|4
+|style="text-align:left;"|[[Eczacıbaşı VitrA]] '''(X)'''
+|-bgcolor=#ccf9ff
+|5
+|style="text-align:left;"|[[Bursa Büyükşehir Belediyespor Women's Volleyball|Bursa BŞB]] '''(Y)'''
+|-
+|6
+|style="text-align:left;"|[[Çanakkale Belediyespor Women's Volleyball|Çanakkale Bld]] 
+|-
+|7
+|style="text-align:left;"|[[Beşiktaş Women's Volleyball Team|Beşiktaş]]
+|-
+|8
+|style="text-align:left;"|[[Halkbank Ankara (women's volleyball)|Halkbank]]
+|-
+|9
+|style="text-align:left;"|Seramiksan
+|-
+|10
+|style="text-align:left;"|[[Nilüfer Belediyespor Women's Volleyball Team|Nilüfer Bld]]
+|-bgcolor=#ffcccc
+|11
+|style="text-align:left;"|[[Sarıyer Belediyespor Women's Volleyball|Sarıyer Bld]] '''(R)'''
+|-bgcolor=#ffcccc
+|12
+|style="text-align:left;"|[[Trabzon İdmanocağı (women's volleyball)|İdman Ocağı]] '''(R)'''
+|}
+{| class="wikitable" style="text-align: left;"
+|-
+|width=10px bgcolor=#bbf3bb style="text-align:center;"|'''(Q)''' ||Qualified for the [[2017–18 CEV Women's Champions League#League round|CEV Champions League league round]]
+|-
+|width=10px bgcolor=#bbf3bb style="text-align:center;"|'''(A)''' ||Qualified for the [[2017–18 CEV Women's Champions League qualification|CEV Champions League qualification round]]
+|-
+|width=10px bgcolor=#bbf3ff style="text-align:center;"|'''(X)''' ||Qualified for the [[2017–18 Women's CEV Cup#Main phase|CEV Cup main phase]]
+|-
+|width=10px bgcolor=#ccf9ff style="text-align:center;"|'''(Y)''' ||Qualified for the [[2017–18 CEV Women's Challenge Cup#Main phase|CEV Challenge Cup main phase]]
+|-
+|width=10px bgcolor=#ffcccc style="text-align:center;"|'''(R)''' || Relegated to the Second League
+|}
+{{col-2}}
+{{winners||2016–17 Turkish Women's Volleyball League|[[Fenerbahçe Women's Volleyball|Fenerbahçe]]|Fifth}}
+{| style="text-align: center; margin-top: 2em; margin-left: auto; margin-right: auto"
+|-
+|'''Team Roster'''
+|-
+| [[Melis Yılmaz]], [[Merve Dalbeler]], [[Ergül Avcı]], [[Polen Uslupehlivan]], [[Dicle Nur Babat]], [[Meliha İsmailoğlu]], [[Kim Yeon-koung]], [[Ezgi Dilik]], [[Natália Pereira]], [[Nootsara Tomkom]], [[Eda Erdem Dündar]] ([[Captain (sports)|c]]), [[Şeyma Ercan]], [[Maret Balkestein-Grothues]], [[Bahar Toksoy]]
+|-
+|'''Head Coach'''
+|-
+|[[Marcello Abbondanza]]
+|}
+{{col-end}}
+
+==Awards==
+===Regular season===
+{{col-begin}}
+{{col-2}}
+*'''Best Setter'''
+: {{flagicon|TUR}} [[Naz Aydemir]] ([[Vakıfbank Spor Kulübü|VakıfBank]])
+*'''Best Outside Spikers'''
+: {{flagicon|CHN}} [[Zhu Ting (volleyball)|Zhu Ting]] ([[Vakıfbank Spor Kulübü|Vakıfbank İstanbul]])
+: {{flagicon|CRO}} [[Mia Jerkov]] ([[Çanakkale Bld.]])
+{{col-2}}
+*'''Best Middle Blockers'''
+: {{flagicon|SRB}} [[Milena Rašić]] ([[Vakıfbank Spor Kulübü|VakıfBank]])
+: {{flagicon|TUR}} [[Eda Erdem Dündar]] ([[Fenerbahçe Women's Volleyball|Fenerbahçe]])
+*'''Best Opposite Spiker'''
+: {{flagicon|SRB}} [[Tijana Bošković]] ([[Eczacıbaşı VitrA]])
+*'''Best Libero'''
+: {{flagicon|TUR}} [[Nihan Güneyligil]] ([[Galatasaray Daikin]])
+{{col-end}}
+
+===Finals series===
+{| class=wikitable
+!width="190px" |Award
+!width="200px" |Player
+!width="180px" |Team
+|- align=center
+| ''[[Most Valuable Player|MVP]]'' || {{Flagicon|BRA}} [[Natália Pereira]] || [[Fenerbahçe Women's Volleyball|Fenerbahçe]]
+|- align=center
+| ''Best Spiker'' || {{Flagicon|TUR}} [[Seda Tokatlıoğlu]] || [[Galatasaray S.K. (women's volleyball)|Galatasaray]]
+|- align=center
+| ''Best Blocker'' || {{flagicon|TUR}} [[Eda Erdem Dündar]] || [[Fenerbahçe Women's Volleyball|Fenerbahçe]]
+|- align=center
+| ''Best Setter'' || {{Flagicon|TUR}} [[Gamze Alikaya]] || [[Galatasaray S.K. (women's volleyball)|Galatasaray]]
+|- align=center
+| ''Best Libero'' ||{{flagicon|TUR}} [[Nihan Güneyligil]] ||  [[Galatasaray S.K. (women's volleyball)|Galatasaray]]
+|- align=center
+| ''Special Award'' ||{{flagicon|TUR}} [[Dicle Nur Babat]] ||   [[Fenerbahçe Women's Volleyball|Fenerbahçe]]
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://tvf-web.dataproject.com/CompetitionHome.aspx?ID=19 2016–17 Vestel Venus Sultanlar Ligi] {{in lang|tr}}
+
+{{Turkish Women's Volleyball League}}
+
+{{DEFAULTSORT:2016-17 Turkish Women's Volleyball League}}
+[[Category:2016 in volleyball|Turkish Volleyball League]]
+[[Category:2017 in women's volleyball|Turkish Volleyball League]]
+[[Category:Volleyball leagues in Turkey|Women's]]
+[[Category:Women's volleyball in Turkey]]
+[[Category:2016 in Turkish sport]]
+[[Category:2017 in Turkish sport]]
+[[Category:2016–17 in European volleyball leagues|Turkey]]

@@ -1,0 +1,53 @@
+==Summary ==
+
+{{Non-free use rationale logo| Article = Vinbergs IF
+
+| Use = Infobox
+
+<!-- ADDITIONAL INFORMATION -->
+
+| Used for =
+
+| Owner =
+
+| Website =  http://www.vif.nu/
+
+| History =
+
+| Commentary =
+
+<!--OVERRIDE FIELDS -->
+
+| Description =
+
+| Source =
+
+| Portion =
+
+| Low_resolution =
+
+| Purpose = <!--Must be specified if Use is not Infobox / Org / Brand / Product-->
+
+| Replaceability =
+
+| other_information =
+
+}}
+
+Badge of Vinbergs IF as found on theVinbergs IF Official website. Available at  http://www.vif.nu/.
+
+== Licensing ==
+
+{{Non-free logo|Swedish football logos|image has rationale=yes}}
+
+===Fair-use rationale===
+
+# obtained from the above website
+
+# low resolution image
+
+# no non-copyright version available, by definition
+
+# the logo is only being used for informational purposes
+
+# its inclusion in the article adds significantly to the article because it is the primary means of identifying the subject of this article

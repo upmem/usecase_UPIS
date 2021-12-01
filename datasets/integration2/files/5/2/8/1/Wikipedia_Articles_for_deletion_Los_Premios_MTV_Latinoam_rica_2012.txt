@@ -1,0 +1,21 @@
+<div class="boilerplate metadata afd vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result was    '''delete'''. [[User:Jenks24|Jenks24]] ([[User talk:Jenks24|talk]]) 14:05, 23 October 2012 (UTC)
+===[[Los Premios MTV Latinoamérica 2012]]===
+
+:{{la|Los Premios MTV Latinoamérica 2012}} – (<includeonly>[[Wikipedia:Articles for deletion/Los Premios MTV Latinoamérica 2012|View AfD]]</includeonly><noinclude>[[Wikipedia:Articles for deletion/Log/2012 October 16#{{anchorencode:Los Premios MTV Latinoamérica 2012}}|View log]]</noinclude>{{int:dot-separator}} <span class="plainlinks">[http://toolserver.org/~snottywong/cgi-bin/votecounter.cgi?page=Wikipedia:Articles_for_deletion/Los_Premios_MTV_Latinoam%C3%A9rica_2012 Stats]</span>)
+:({{Find sources|Los Premios MTV Latinoamérica 2012}})
+Does not meet [[WP:Verify]] and [[WP:NOTE]], Nothing apart from a Facebook page. Nothing reliable in Google [[User:Wikishagnik|Wikishagnik]] ([[User talk:Wikishagnik|talk]]) 05:17, 9 October 2012 (UTC)
+*'''Delete''' - I haven't found any relevant third-party sources with Google US or España and that Facebook page hardly mentions anything. I'm concerned because it appears the awards were cancelled in 2010 and mtvla.com results [http://www.mtvla.com/buscar/?query=Los%20Premios suggest] this is so. This may be a hoax. [[User:SwisterTwister|<font color="green">SwisterTwister</font>]] [[User talk:SwisterTwister|<font color="green">talk</font>]] 01:51, 10 October 2012 (UTC)
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Events|list of Events-related deletion discussions]]. — [[User:Frankie|Frankie]] ([[User talk:Frankie|talk]]) 18:40, 10 October 2012 (UTC)</small>
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Latin America|list of Latin America-related deletion discussions]]. — [[User:Frankie|Frankie]] ([[User talk:Frankie|talk]]) 18:40, 10 October 2012 (UTC)</small>
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Music|list of Music-related deletion discussions]]. — [[User:Frankie|Frankie]] ([[User talk:Frankie|talk]]) 18:40, 10 October 2012 (UTC)</small>
+<hr style="width:55%;" />
+:<span style="color:#FF4F00;">'''[[WP:RELIST|Relisted]] to generate a more thorough discussion so a clearer consensus may be reached.'''</span><br />
+:<small>Please add new comments below this notice. Thanks, —[[User:Tom Morris|Tom Morris]] ([[User talk:Tom Morris|talk]]) 06:54, 16 October 2012 (UTC)</small><!-- from Template:Relist -->
+<hr style="width:55%;" />
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. <!--Template:Afd bottom--></div>

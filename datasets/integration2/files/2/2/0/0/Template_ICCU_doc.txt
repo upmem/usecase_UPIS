@@ -1,0 +1,48 @@
+{{Documentation subpage}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+{{For|the unrelated Standard Book Number identifiers|Template:SBN}}
+
+==Usage== 
+This template frames [[Istituto Centrale per il Catalogo Unico]] (ICCU) SBN codes for usage inside the {{para|id}} parameter in the various {{tl|citation}} and {{tl|cite}} templates, or elsewhere.
+
+The template could be expanded to make the given code available as meta-data or to provide some error checking.
+
+==Parameters==
+The first parameter should be the ICCU code (alternatively given as {{para|iccu}}.
+
+*Example 1:
+
+:<nowiki>
+{{ICCU|AA\BBBB\CCCC\123456}}
+</nowiki>  
+
+:will result in
+
+:{{ICCU|AA\BBBB\CCCC\123456}}
+
+*Example 2:
+
+:<nowiki>
+{{ICCU|iccu=AA\BBBB\CCCC\123456}}
+</nowiki>  
+
+:will result in
+
+:{{ICCU|iccu=AA\BBBB\CCCC\123456}}
+
+*Example 3 (up to 9 parameters - do not use {{para|iccu}} at the same time):
+
+:<nowiki>
+{{ICCU|AA\BBBB\CCCC\123456|AA\BBBB\CCCC\123456}}
+</nowiki>  
+
+:will result in
+
+:{{ICCU|AA\BBBB\CCCC\123456|AA\BBBB\CCCC\123456}}
+
+==See also==
+*{{tl|Catalog lookup link}}
+
+<includeonly>{{Sandbox other||
+[[Category:Catalog lookup templates]]
+}}</includeonly>

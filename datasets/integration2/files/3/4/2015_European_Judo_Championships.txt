@@ -1,0 +1,171 @@
+{{short description|Judo competition}}
+The '''2015 European Judo Championships''' is the 26th edition of the [[European Judo Championships]], organised by the [[European Judo Union]]. Initially it was planned that championships will be held in [[Glasgow]], Scotland, from April 9 to 12 April 2015.<ref>{{cite web|url=http://www.eju.net/presentation-of-the-european-championships-2015-in-glasgow-3017|title=Presentation of the European Championships 2015 in Glasgow|work=EJU.net - European Judo Union}}</ref><ref>{{cite web|url=http://www.britishjudo.org.uk/news/glasgow-to-host-2015-european-judo-championships|title=Glasgow to host 2015 European Judo Championships|work=britishjudo.org.uk}}</ref> On 21 February 2015, it was announced that competition would be held in [[Baku]], Azerbaijan, during the [[2015 European Games]].<ref>{{cite web|url=http://www.eju.net/european-judo-championships-to-be-held-at-baku-2015-3383|title=EUROPEAN JUDO CHAMPIONSHIPS TO BE HELD AT BAKU 2015|work=EJU.net - European Judo Union}}</ref>
+
+== Medal overview ==
+===Men's events===
+{| {{MedalistTable|type=Event}}
+|-
+|rowspan=2|60&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Men's 60 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Beslan Mudranov]]|RUS|2015 European Games}}
+|rowspan=2|{{flagIOC2medalist|[[Orkhan Safarov]]|AZE|2015 European Games}} 
+|{{flagIOC2medalist|[[Ludovic Chammartin]]|SUI|2015 European Games}}
+|-
+|{{flagIOC2medalist|[[Amiran Papinashvili]]|GEO|2015 European Games}} 
+|-
+|rowspan=2|66&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Men's 66 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Kamal Khan-Magomedov]]|RUS|2015 European Games}} 
+|rowspan=2|{{flagIOC2medalist|[[Loïc Korval]]|FRA|2015 European Games}} 
+|{{flagIOC2medalist|[[Mikhail Pulyaev]]|RUS|2015 European Games}}  
+|-
+|{{flagIOC2medalist|[[Sebastian Seidl]]|GER|2015 European Games}}
+|-
+|rowspan=2|73&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Men's 73 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Sagi Muki]]|ISR|2015 European Games}} 
+|rowspan=2|{{flagIOC2medalist|[[Nugzar Tatalashvili]]|GEO|2015 European Games}} 
+|{{flagIOC2medalist|[[Rok Drakšič]]|SLO|2015 European Games}}
+|-
+|{{flagIOC2medalist|[[Dirk van Tichelt]]|BEL|2015 European Games}} 
+|-
+|rowspan=2|81&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Men's 81 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Avtandili Tchrikishvili]]|GEO|2015 European Games}}
+|rowspan=2|{{flagIOC2medalist|[[Ivan Nifontov]]|RUS|2015 European Games}}
+|{{flagIOC2medalist|[[Alexander Wieczerzak]]|GER|2015 European Games}}
+|-
+|{{flagIOC2medalist|[[Loïc Pietri]]|FRA|2015 European Games}} 
+|-
+|rowspan=2|90&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Men's 90 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Kirill Denisov]]|RUS|2015 European Games}}
+|rowspan=2|{{flagIOC2medalist|[[Varlam Liparteliani]]|GEO|2015 European Games}}
+|{{flagIOC2medalist|[[Ilias Iliadis]]|GRE|2015 European Games}}
+|-
+|{{flagIOC2medalist|[[Guillaume Elmont]]|NED|2015 European Games}}
+|-
+|rowspan=2|100&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Men's 100 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Henk Grol]]|NED|2015 European Games}}
+|rowspan=2|{{flagIOC2medalist|[[Lukáš Krpálek]]|CZE|2015 European Games}}
+|{{flagIOC2medalist|[[Toma Nikiforov]]|BEL|2015 European Games}}
+|-
+|{{flagIOC2medalist|[[Cyrille Maret]]|FRA|2015 European Games}}
+|-
+|rowspan=2|+100&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Men's +100 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Adam Okruashvili]]|GEO|2015 European Games}}
+|rowspan=2|{{flagIOC2medalist|[[Or Sasson]]|ISR|2015 European Games}}
+|{{flagIOC2medalist|[[Renat Saidov]]|RUS|2015 European Games}}
+|-
+|{{flagIOC2medalist|[[Iakiv Khammo]]|UKR|2015 European Games}}
+|-
+|rowspan=2|Team<br/>{{DetailsLink|Judo at the 2015 European Games – Men's team}}
+|rowspan=2|{{flagIOC2|FRA|2015 European Games}}<br><small>[[Pierre Duprat]]<br>[[Alexandre Iddir]]<br>[[Loic Korval]]<br>[[David Larose]]<br>[[Cyrille Maret]]<br>[[Loic Pietri]]<br>[[Florent Urani]]</small>
+|rowspan=2|{{flagIOC2|GEO|2015 European Games}}<br><small>[[Beka Gviniashvili]]<br>[[Varlam Liparteliani]]<br>[[Ushangi Margiani]]<br>[[Levani Matiashvili]]<br>[[Adam Okruashvili]]<br>[[Amiran Papinashvili]]<br>[[Lasha Shavdatuashvili]]<br>[[Nugzar Tatalashvili]]<br>[[Avtandili Tchrikishvili]]</small>
+|{{flagIOC2|RUS|2015 European Games}}<br><small>[[Kirill Denisov]]<br>[[Denis Iartcev]]<br>[[Kamal Khan-Magomedov]]<br>[[Alan Khubetsov]]<br>[[Ivan Nifontov]]<br>[[Mikhail Pulyaev]]<br>[[Renat Saidov]]<br>[[Kirill Voprosov]] </small>
+|-
+|{{flagIOC2|UKR|2015 European Games}}<br><small>[[Serhiy Drebot]]<br>[[Vitalii Dudchyk]]<br>[[Oleksandr Gordiienko]]<br>[[Iakiv Khammo]]<br>[[Artem Khomula]]<br>[[Quedjau Nhabali]]<br>[[Vadym Synyavsky]]<br>[[Georgii Zantaraia]]</small>
+|}
+
+===Women's events===
+{|{{MedalistTable|type=Event}}
+|-
+|rowspan=2|48&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Women's 48 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Charline Van Snick]]|BEL|2015 European Games}}
+|rowspan=2|{{flagIOC2medalist|[[Ebru Şahin]]|TUR|2015 European Games}} 
+|{{flagIOC2medalist|[[Éva Csernoviczki]]|HUN|2015 European Games}}
+|-
+|{{flagIOC2medalist|[[Irina Dolgova]]|RUS|2015 European Games}} 
+|-
+|rowspan=2|52&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Women's 52 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Andreea Chițu]]|ROU|2015 European Games}}
+|rowspan=2|{{flagIOC2medalist|[[Annabelle Euranie]]|FRA|2015 European Games}} 
+|{{flagIOC2medalist|[[Mareen Kräh]]|GER|2015 European Games}} 
+|-
+|{{flagIOC2medalist|[[Natalia Kuziutina]]|RUS|2015 European Games}}
+|-
+|rowspan=2|57&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Women's 57 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Telma Monteiro]]|POR|2015 European Games}} 
+|rowspan=2|{{flagIOC2medalist|[[Hedvig Karakas]]|HUN|2015 European Games}}
+|{{flagIOC2medalist|[[Nora Gjakova]]|KOS|2015 European Games}} 
+|-
+|{{flagIOC2medalist|[[Miryam Roper]]|GER|2015 European Games}}
+|-
+|rowspan=2|63&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Women's 63 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Martyna Trajdos]]|GER|2015 European Games}} 
+|rowspan=2|{{flagIOC2medalist|[[Tina Trstenjak]]|SLO|2015 European Games}}
+|{{flagIOC2medalist|[[Yarden Gerbi]]|ISR|2015 European Games}} 
+|-
+|{{flagIOC2medalist|[[Clarisse Agbegnenou]]|FRA|2015 European Games}}
+|-
+|rowspan=2|70&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Women's 70 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Kim Polling]]|NED|2015 European Games}}
+|rowspan=2|{{flagIOC2medalist|[[Laura Vargas Koch]]|GER|2015 European Games}}
+|{{flagIOC2medalist|[[Bernadette Graf]]|AUT|2015 European Games}} 
+|-
+|{{flagIOC2medalist|[[Szaundra Diedrich]]|GER|2015 European Games}}
+|-
+|rowspan=2|78&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Women's 78 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Marhinde Verkerk]]|NED|2015 European Games}}
+|rowspan=2|{{flagIOC2medalist|[[Luise Malzahn]]|GER|2015 European Games}}
+|{{flagIOC2medalist|[[Anamari Velenšek]]|SLO|2015 European Games}}
+|-
+|{{flagIOC2medalist|[[Guusje Steenhuis]]|NED|2015 European Games}}
+|-
+|rowspan=2|+78&nbsp;kg<br/>{{DetailsLink|Judo at the 2015 European Games – Women's +78 kg}}
+|rowspan=2|{{flagIOC2medalist|[[Émilie Andéol]]|FRA|2015 European Games}}
+|rowspan=2|{{flagIOC2medalist|[[Jasmin Külbs]]|GER|2015 European Games}}
+|{{flagIOC2medalist|[[Belkıs Zehra Kaya]]|TUR|2015 European Games}}
+|-
+|{{flagIOC2medalist|[[Svitlana Iaromka]]|UKR|2015 European Games}}
+|-
+|rowspan=2|Team<br/>{{DetailsLink|Judo at the 2015 European Games – Women's team}}
+|rowspan=2|{{flagIOC2|FRA|2015 European Games}}<br><small>[[Clarisse Agbegnenou]]<br>[[Émilie Andéol]]<br>[[Laetitia Blot]]<br>[[Gévrise Émane]]<br>[[Annabelle Euranie]]<br>[[Marie-Ève Gahié]]<br>[[Madeleine Malonga]]<br>[[Automne Pavia]]</small>
+|rowspan=2|{{flagIOC2|GER|2015 European Games}}<br><small>[[Szaundra Diedrich]]<br>[[Franziska Konitz]]<br>[[Mareen Kräh]]<br>[[Luise Malzahn]]<br>[[Miryam Roper]]<br>[[Martyna Trajdos]]<br>[[Laura Vargas Koch]]<br>[[Viola Wächter]]</small>
+|{{flagIOC2|ITA|2015 European Games}}<br><small>[[Giulia Cantoni]]<br>[[Assunta Galeone]]<br>[[Odette Giuffrida]]<br>[[Edwige Gwend]]<br>[[Elisa Marchio]]<br>[[Valentina Moscatt]]<br>[[Giulia Quintavalle]]</small>
+|-
+|{{flagIOC2|SLO|2015 European Games}}<br><small>[[Klara Apotekar]]<br>[[Vlora Beđeti]]<br>[[Nina Milošević]]<br>[[Petra Nareks]]<br>[[Anka Pogačnik]]<br>[[Tina Trstenjak]]<br>[[Anamari Velenšek]]<br>[[Kristina Vršič]]</small>
+|}
+
+=== Medal table ===
+{{Medals table
+ | caption        = 
+ | host           = AZE
+ | flag_template  = 
+ | event          = 
+ | team           = 
+ | gold_FRA = 3 | silver_FRA = 2 | bronze_FRA = 3
+ | gold_RUS = 3 | silver_RUS = 1 | bronze_RUS = 5
+ | gold_NED = 3 | silver_NED = 0 | bronze_NED = 2 
+ | gold_GEO = 2 | silver_GEO = 3 | bronze_GEO = 1
+ | gold_GER = 1 | silver_GER = 4 | bronze_GER = 5
+ | gold_ISR = 1 | silver_ISR = 1 | bronze_ISR = 1
+ | gold_BEL = 1 | silver_BEL = 0 | bronze_BEL = 2
+ | gold_POR = 1 | silver_POR = 0 | bronze_POR = 0
+ | gold_ROU = 1 | silver_ROU = 0 | bronze_ROU = 0
+ | gold_SLO = 0 | silver_SLO = 1 | bronze_SLO = 3
+ | gold_HUN = 0 | silver_HUN = 1 | bronze_HUN = 1
+ | gold_TUR = 0 | silver_TUR = 1 | bronze_TUR = 1
+ | gold_AZE = 0 | silver_AZE = 1 | bronze_AZE = 0 | host_AZE = yes
+ | gold_CZE = 0 | silver_CZE = 1 | bronze_CZE = 0
+ | gold_UKR = 0 | silver_UKR = 0 | bronze_UKR = 3
+ | gold_AUT = 0 | silver_AUT = 0 | bronze_AUT = 1
+ | gold_GRE = 0 | silver_GRE = 0 | bronze_GRE = 1
+ | gold_ITA = 0 | silver_ITA = 0 | bronze_ITA = 1
+ | gold_KOS = 0 | silver_KOS = 0 | bronze_KOS = 1
+ | gold_SUI = 0 | silver_SUI = 0 | bronze_SUI = 1
+}}
+
+==References==
+{{Reflist}}
+* {{cite web |url=https://www.judoinside.com/event/6000/2015_European_Games_Baku/judo-results |title=2015 European Judo Championships, Baku |website=JudoInside.com}}
+
+== External links ==
+* {{Official website|http://www.eurojudo2015.com}}
+* [http://www.eju.net European Judo Union website]
+* [https://allsportdb.com/Events/2015-European-Judo-Championships-1864 AllSportDB.com event page]
+
+{{EC Judo}}
+
+[[Category:European Judo Championships]]
+[[Category:2015 in Azerbaijani sport]]
+[[Category:Sports competitions in Baku]]
+[[Category:International sports competitions hosted by Azerbaijan]]
+[[Category:Judo competitions in Azerbaijan]]
+[[Category:2010s in Baku]]
+[[Category:June 2015 sports events in Europe]]

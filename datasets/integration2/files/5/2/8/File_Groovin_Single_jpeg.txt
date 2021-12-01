@@ -1,0 +1,27 @@
+== Summary ==
+{{Non-free use rationale album cover| Article           = Groovin'
+| Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+| Name              = Groovin'
+| Artist            = [[The Young Rascals]]
+| Label             = [[Atlantic Records]]
+| Graphic Artist    = 
+| Item              = 
+| Type              = single
+| Website           = 
+| Owner             = 
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = <!--Must be specified if Use is not Infobox / Header / Section / Artist-->
+| Replaceability    = 
+| other_information = 
+}}
+
+Picture sleeve of some release of Rascals' single "Groovin'".
+Low res image.
+== Licensing ==
+{{Non-free album cover|image has rationale=yes}}

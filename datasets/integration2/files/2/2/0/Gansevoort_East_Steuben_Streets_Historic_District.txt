@@ -1,0 +1,33 @@
+{{Infobox NRHP
+  | name = Gansevoort/East Steuben Streets Historic District
+  | nrhp_type = hd  | nocat = yes  
+  | image = Gansevoort Oct 09.JPG
+  | caption = Gansevoort/East Steuben Streets Historic District, October 2009
+  | location= E. Steuben and Gansevoort Sts., [[Bath (village), New York|Bath, New York]]
+  | coordinates = {{coord|42|20|1|N|77|18|54|W|display=inline,title}}
+| locmapin = New York#USA
+  | built = 1830
+  | architect = 
+  | architecture = Greek Revival, Late Victorian
+  | added = September 30, 1983
+  | area = {{convert|8|acre}}
+  | governing_body = Private
+  | mpsub = {{NRHP url|id=64000534|title=Bath Village MRA}}
+  | refnum = 83001798<ref name="nris">{{NRISref|2009a}}</ref>
+}}
+'''Gansevoort/East Steuben Streets Historic District''' is a national [[Historic district (United States)|historic district]] located at [[Bath (village), New York|Bath]] in [[Steuben County, New York]]. The district contains 22 residences dating from about 1830 to 1908 and designed in a broad range of architectural styles.<ref name="nrhpinv_ny">{{cite web|url=http://www.oprhp.state.ny.us/hpimaging/hp_view.asp?GroupView=8501|title=National Register of Historic Places Registration: Gansevoort/East Steuben Streets Historic District|date=March 1983|accessdate=2009-10-26 |author=Division for Historic Preservation|publisher=[[New York State Office of Parks, Recreation and Historic Preservation]]}} ''See also:'' {{cite web|url=http://www.oprhp.state.ny.us/hpimaging/hp_view.asp?GroupView=8502|title=Accompanying five photos}}</ref>
+
+It was listed on the [[National Register of Historic Places]] in 1983.<ref name="nris"/>
+
+==References==
+{{reflist}}
+
+{{National Register of Historic Places in New York}}
+
+{{DEFAULTSORT:Gansevoort East Steuben Streets Historic District}}
+[[Category:Historic districts on the National Register of Historic Places in New York (state)]]
+[[Category:Historic districts in Steuben County, New York]]
+[[Category:National Register of Historic Places in Steuben County, New York]]
+
+
+{{SteubenCountyNY-NRHP-stub}}

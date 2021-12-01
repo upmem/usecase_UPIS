@@ -1,0 +1,37 @@
+{{Use dmy dates|date=July 2019}}
+{{Infobox person
+| name                    = Jal R. Patel
+| image                   = 
+| imagesize               =
+| caption                 = 
+| birth_date              = {{Birth date|1910|10|21}}
+| birth_place             = India
+| death_date              = 
+| death_place             = 
+| restingplace            =
+| restingplacecoordinates =
+| othername               =
+| occupation              = Physician
+| yearsactive             =
+| influences              = 
+| influenced              =
+| known_for               = 
+| awards                  = {{ublist|1962&nbsp;[[Padma Bhushan]] }}
+}}
+'''Jal Ratanji Patel''' was an Indian physician, who attended to [[Mohammed Ali Jinnah]], the founder of Pakistan,<ref name="Jinnah : India, partition, independence">{{Cite book |title=Jinnah : India, partition, independence |last=1938- |first=Singh, Jaswant |date=2010 |publisher=Oxford University Press |isbn=9780195479270 |location=Oxford |oclc=611042665}}</ref> during the years the latter was being treated for cancer.<ref name="Jinnah portrayed as anti-hero">{{Cite news |url=https://timesofindia.indiatimes.com/city/mumbai/Jinnah-portrayed-as-anti-hero/articleshow/19796181.cms |title=Jinnah portrayed as anti-hero |last=Date |first=Vidyadhar |date=August 21, 2002 |work=The Times of India |access-date=2018-05-24}}</ref> Patel, who was born into a Parsi family,<ref name="Jinnah’s doctor a Zoroastrian">{{Cite news |url=https://www.dawn.com/news/1027597 |title=Jinnah's doctor a Zoroastrian |last=Newspaper |first=From the |date=2013-05-27 |work=DAWN.COM |access-date=2018-05-24 |language=en-US}}</ref> kept Jinnah's disease a secret which had impact on the [[Partition of India]]. In his book ''[[Freedom at Midnight]]'', [[Dominique Lapierre]] claimed that Patel had handed over a confidential file pertaining to Jinnah,<ref name="Jinnah Zoroastiran Community">{{Cite web |url=https://www.parsinews.net/jinnah-zoroastiran-community/4187.html |title=Jinnah Zoroastiran Community |date=August 28, 2013 |website=www.parsinews.net |language=en-US |access-date=2018-05-24}}</ref> and that Patel kept his patient's condition a secret on the patient's advice.<ref name="11 September 1948: Death Anniversary of Quaid-i-Azam Mohammad Ali Jinnah">{{Cite web |url=https://www.youlinmagazine.com/story/death-anniversary-of-quaid-e-azam-september-11-1948/NDMz |title=11 September 1948: Death Anniversary of Quaid-i-Azam Mohammad Ali Jinnah |last=M. Naeem Qureshi |date=September 10, 2015 |website=Youlin Magazine |language=en |access-date=2018-05-24}}</ref> The [[Government of India]] awarded Patel [[Padma Bhushan]], the third highest Indian civilian award, in 1962.<ref name="Padma Awards">{{Cite web |url=http://www.dashboard-padmaawards.gov.in/ |title=Padma Awards |date=2018-05-17 |website=Padma Awards |publisher=Government of India |access-date=2018-05-17}}</ref>
+
+{{portal|India|Medicine}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+{{PadmaBhushanAwardRecipients 1960–69}}
+
+{{DEFAULTSORT:Patel, Jal R.}}
+[[Category:Recipients of the Padma Bhushan in medicine]]
+[[Category:20th-century Indian medical doctors]]
+[[Category:Year of death missing]]
+[[Category:1910 births]]
+
+
+{{India-med-bio-stub}}

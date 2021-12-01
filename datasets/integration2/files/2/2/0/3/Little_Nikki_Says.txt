@@ -1,0 +1,97 @@
+{{Infobox song
+| name       = Little Nikki Says
+| cover      = Little Nikki Says.jpg
+| alt        =
+| type       = single
+| artist     = [[Little Nikki]]
+| album      =
+| released   = 6 September 2013
+| format     = [[Music download|Digital download]]
+| recorded   = 2013
+| studio     =
+| venue      =
+| genre      = {{flat list|
+* [[Pop music|Pop]]
+* [[dance music|dance]]
+* [[contemporary R&B|R&B]]
+}}
+| length     = 3:16
+| label      = [[Sony Music Entertainment]]
+| writer     = [[David Dawood]], [[Emmi (Australian singer)|Emily Green]], [[Little Nikki|Nicole Shortland]]
+| producer   =
+| chronology = [[Little Nikki]]
+| prev_title = Where I'm Coming From
+| prev_year  = 2013
+| next_title = [[Wanna Go]]
+| next_year  = 2013
+| misc       = {{External music video|{{YouTube|-c8x9VpIVIrc|"Little Nikki Says"}}
+}}
+}}
+
+"'''Little Nikki Says'''" is a song by British singer/songwriter [[Little Nikki]]. The song was released in the [[United Kingdom]] on 6 September 2013 as a [[Music download|digital download]] through [[Sony Music Entertainment]]. The song has peaked to number 53 on the [[UK Singles Chart]].
+
+==Music video==
+A music video to accompany the release of "Little Nikki Says" was first released onto YouTube on 14 July 2013 at a total length of three minutes and sixteen seconds.<ref>[https://www.youtube.com/watch?v=c8x9VpIVIrc Little Nikki - Little Nikki Says -] [[YouTube]]</ref>
+
+==Critical reception==
+Maximum Pop said "'Little Nikki Says' is bursting with energy and raw talent, just like the UK starlett herself. It's got Little Nikki's usual edgy vibe with a chorus to die for. The track is also quite useful for those who are not too talented on the dancefloor, as Nikki gives some instructions on how to get down: "Little Nikki says put your hands up, up, up, up high/ Little Nikki says take your hips down, down, down, down low" but be careful, because if you don't do what Nikki says the track stops and an awesome siren-infused breakdown kicks in.",<ref name="maximum">{{cite web|url=http://www.maximumpop.co.uk/little-nikki-says/|title=Alarm Pop: Little Nikki - 'Little Nikki Says'|publisher=Maximum Pop|accessdate=4 November 2013}}</ref> while Lewis Corner of [[Digital Spy]] was less positive, saying "'Little Nikki Says' suffers from a tough case of hit and miss. "Little Nikki says, put your hands up, up, up, up, high/ Little Nikki says, take your hands down, down, round, down, low," she declares on a highly addictive chorus that is unfortunately sandwiched between clunky verses and whirring electronics that feel slightly disjointed. It's not a disaster by any means, but the jury is still out on whether this is enough to make her a household name."<ref name="digitalspy">{{cite web|url=http://www.digitalspy.co.uk/music/review/a523659/little-nikki-little-nikki-says-single-review.html|title=Little Nikki: 'Little Nikki Says'|publisher=[[Digital Spy]]|accessdate=4 November 2013}}</ref>
+
+==Track listing==
+{{Track listing
+| headline = Digital download
+| title1  = Little Nikki Says
+| length1 = 3:17
+
+| title2  = Little Nikki Says
+| note2   = Grant Nelson Remix
+| length2 = 5:53
+
+| title3  = Little Nikki Says
+| note3   = Westfunk Club Remix
+| length3 = 4:44
+
+| title4  = Little Nikki Says
+| note4   = Jonas LR Remix
+| length4 = 4:14
+
+| title5  = Little Nikki Says
+| note5   = Majestic Remix
+| length5 = 5:05
+}}
+
+==Chart performance==
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders"
+|-
+! Chart (2013)
+! Peak<br />position
+|-
+| UK Singles ([[UK Singles Chart|The Official Charts Company]])<ref>[http://www.officialcharts.com/artist/_/little%20nikki/ Little Nikki > UK Charts]. Officialcharts.com/ [[Official Charts Company]].</ref>
+| style="text-align:center;"| 53
+|-
+|}
+
+==Release history==
+{|class=wikitable
+! Region
+! Date
+! Format
+! Label
+|-
+| [[United Kingdom]]
+| 6 September 2013<ref>[https://itunes.apple.com/gb/album/little-nikki-says-ep/id675695583 iTunes - Music - Little Nikki Says - EP by Little Nikki]</ref>
+| [[Music download|Digital download]]
+| [[Sony Music Entertainment]]
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Little Nikki}}
+
+[[Category:2013 singles]]
+[[Category:Little Nikki songs]]
+[[Category:2013 songs]]
+[[Category:Sony Music singles]]
+[[Category:Songs written by Little Nikki]]

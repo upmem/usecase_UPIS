@@ -1,0 +1,88 @@
+{{short description|Australian academic}}
+
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = 
+| honorific_suffix  = {{post-nominals|country=AUS|FRS|FAA|FAHMS|size=100}}
+| native_name       = 
+| native_name_lang  = 
+| image             = Jane Visvader.jpg
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| home_town         =
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = 
+| nationality       = 
+| fields            = 
+| workplaces        = [[Walter and Eliza Hall Institute of Medical Research]]<br>[[Salk Institute]]
+| patrons           = 
+| education         = 
+| alma_mater        = [[University of Adelaide]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+'''Jane Visvader''' {{post-nominals|country=AUS|FRS|FAA|FAHMS}} is a [[scientist]] specialising in [[breast cancer]] research who works for the [[Walter and Eliza Hall Institute]] in [[Melbourne]], [[Australia]].  She is the joint head of the Breast Cancer Laboratory with Geoff Lindeman.<ref>{{cite web|url=http://www.wehi.edu.au/faculty_members/professor_jane_visvader |title=Professor Jane Visvader |publisher= |date= |accessdate=2014-08-14}}</ref> In 2008, Visvader was a joint recipient of the GlaxoSmithKline Award for Research Excellence<ref>{{cite web|url=http://www.wehi.edu.au/site/latest_news/drs_lindeman_and_visvader_recognised_for_outstanding_breast_cancer_research |title=Latest News - Walter and Eliza Hall Institute of Medical Research |accessdate=2014-08-14 |url-status=dead |archiveurl=https://web.archive.org/web/20140814061801/http://www.wehi.edu.au/site/latest_news/drs_lindeman_and_visvader_recognised_for_outstanding_breast_cancer_research |archivedate=2014-08-14 }}</ref> for outstanding contribution to Breast Cancer research. Visvader was made a [[list of Fellows of the Australian Academy of Science|fellow of the Australian Academy of Science]] in 2012.<ref>{{cite web|url=http://www.science.org.au/fellowship-list?name=visvader&field_d_year_of_election_value%5Bmin%5D%5Byear%5D=1954&field_d_year_of_election_value%5Bmax%5D%5Byear%5D=2014 |title=Fellowship list - Australian Academy of Science |publisher=Science.org.au |date= |accessdate=2014-08-14}}</ref> Her most recent award is the 2014 Royal Society of Victoria Research Medal for Scientific Excellence in Biomedical & Health Sciences.<ref>{{cite web|url=http://www.royalsocietyvictoria.org.au/news/ |title=News &#124; Royal Society of Victoria &#124; Promoting Science and Science Education |publisher=Royalsocietyvictoria.org.au |date= |accessdate=2014-08-14}}</ref>
+
+==Education ==
+Visvader holds a PhD in [[Biochemistry]] from the [[University of Adelaide]] having studied structure and function of citrus exocortis viroid<ref>{{cite web|url=http://trove.nla.gov.au/work/3750664?q=+Visvader&c=book&versionId=21400027+49704861 |title=Structure and function of citrus exocortis viroid / by Jane Ellen Visvader. - Version details - Trove |publisher=Trove.nla.gov.au |date= 2006-12-28|accessdate=2014-08-14}}</ref> 
+
+==Career and research==
+After her PhD, she was a [[postdoctoral researcher]] at the Verma Laboratory ([[Salk Institute]], San Diego) and Adams Laboratory (Walter and Eliza Hall Institute (WEHI)).{{citation needed|date=July 2019}} She worked at the Children's Hospital/[[Harvard Medical School]] in [[Boston]] before returning to Victoria in 1997 to establish a Breast Cancer Laboratory at WEHI.<ref>{{cite web|url=http://www.royalsocietyvictoria.org.au/news/ |title=News &#124; Royal Society of Victoria &#124; Promoting Science and Science Education |publisher=Royalsocietyvictoria.org.au |date= |accessdate=2014-08-14}}</ref> She was awarded a fellowship of the Australian Academy of Health and Medical Sciences in October 2016.<ref name="aahms oct 2016">{{cite web|url=http://www.aahms.org/wp-content/uploads/2016/10/AAHMS-Press-Release_6-Oct-2016.pdf|title=AAHMS announces its second scientific meeting and induction of new fellows|publisher=Australian Academy of Health and Medical Sciences |accessdate=14 October 2016}}</ref>
+
+Visvader has published work investigating the role of cells of origin in cancer<ref>{{Cite journal | doi=10.1038/nature09781| pmid=21248838| title=Cells of origin in cancer| journal=Nature| volume=469| issue=7330| pages=314–322| year=2011| last1=Visvader| first1=Jane E.}}</ref> and in particular focuses on the role of stem cells,<ref>{{Cite journal | doi=10.1038/nature12948|pmid = 24463516| title=In situ identification of bipotent stem cells in the mammary gland| journal=Nature| volume=506| issue=7488| pages=322–327| year=2014| last1=Rios| first1=Anne C.| last2=Fu| first2=Nai Yang| last3=Lindeman| first3=Geoffrey J.| last4=Visvader| first4=Jane E.}}</ref><ref>{{Cite journal | url=http://www.cell.com/cell-stem-cell/abstract/S1934-5909%2812%2900240-8 | doi=10.1016/j.stem.2012.05.007| pmid=22704512| title=Cancer Stem Cells: Current Status and Evolving Complexities| journal=Cell Stem Cell| volume=10| issue=6| pages=717–728| year=2012| last1=Visvader| first1=Jane E.| last2=Lindeman| first2=Geoffrey J.| doi-access=free}}</ref> which she believes may be a key to understanding breast cancer.<ref>{{Cite journal|author= Giovanni Valenti |url=http://www.eurostemcell.org/commentanalysis/interview-jane-visvader-stem-cells-breast |title=Interview with Jane Visvader: stem cells in the breast &#124; Europe's stem cell hub |journal=Nature |volume=439 |issue=7072 |pages=84–88 |doi=10.1038/nature04372 |pmid=16397499 |date=2012-01-11 |accessdate=2014-08-14}}</ref>
+
+In 2020 she was elected a [[Fellow of the Royal Society]] (FRS).<ref> {{cite web|url=https://royalsociety.org/people/Jane-Visvader-25404/|title=Jane Visvader|publisher=Royal Society|accessdate= 20 September 2020}} </ref>
+
+===Patents===
+Visvader is a named inventor on five [[patent]]s relating to cancer research focused on [[stem cell]] isolation and diagnostics.<ref>{{cite web|url=http://patents.justia.com/inventor/jane-visvader |title=Patents by Inventor Jane Visvader - Justia Patents Database |publisher=Patents.justia.com |date= |accessdate=2014-08-14}}</ref>
+
+*Method Of Cell Isolation, Application number: 20080038230
+*Differentiation and/or proliferation modulating agents and uses therefor, Application number: 20060166917
+*Novel phosphoprotein, Application number: 20060148032
+*Method of diagnosis and treatment and agents useful for same, Application number: 20050048528
+*Differentiation and/or proliferation modulating agents and uses therefor, Application number: 20030175971
+
+==References==
+{{reflist}}
+{{FRS 2020}}
+{{authority control}}
+
+{{DEFAULTSORT:Visvader, Jane}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Australian women academics]]
+[[Category:Fellows of the Australian Academy of Science]]
+[[Category:Australian women scientists]]
+[[Category:Cancer researchers]]
+[[Category:Fellows of the Australian Academy of Health and Medical Sciences]]
+[[Category:Female Fellows of the Royal Society]]

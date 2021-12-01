@@ -1,0 +1,43 @@
+{{Politics of Benin}}
+
+'''Presidential elections''' were held in [[Benin]] on 4 March 2001, with a second round run-off on 18 March. They controversially resulted in the re-election of [[Mathieu Kérékou]] for a second term. Kérékou's rival [[Nicéphore Soglo]], who had been president from 1991 to 1996, failed in his bid to reclaim the presidency; although he qualified to participate in the second round of the election against Kérékou, he refused to do so, alleging [[electoral fraud]]. [[Adrien Houngbédji]], the parliament speaker and third-placed candidate, also refused to participate in a second round. As a result, Kérékou faced fourth-place candidate [[Bruno Amoussou]], who was planning minister and had already given his support to Kérékou, in the second round; Kérékou won an easy victory with 84% of the vote.<ref>[http://news.bbc.co.uk/2/hi/africa/1263931.stm "Benin 'day of mourning'"] BBC News, 6 April 2001</ref><ref>[http://africanelections.tripod.com/bj.html Elections in Benin] African Elections Database</ref>
+
+==Results==
+{{Election results
+|cand1=[[Mathieu Kérékou]]|party1=[[Action Front for Renewal and Development]]|votes1=1127100|votes1_2=1282855
+|cand2=[[Nicéphore Soglo]]|party2=[[Benin Rebirth Party]]|votes2=672927
+|cand3=[[Adrien Houngbédji]]|party3=[[Democratic Renewal Party (Benin)|Democratic Renewal Party]]|votes3=313186
+|cand4=[[Bruno Amoussou]]|party4=[[Social Democratic Party (Benin)|Social Democratic Party]]|votes4=213136|votes4_2=250940
+|cand5=[[Sacca Lafia]]|party5=[[Union for Democracy and National Solidarity]]|votes5=29656
+|cand6=François-Xavier Loko|party6=Independent|votes6=16656
+|cand7=Soulé Dankoro|party7=[[Democratic Party of Benin|Democratic Party]]|votes7=15614|color7=red
+|cand8=Adébayo Abimbola|party8=[[National Rally for Democracy (Benin)|National Rally for Democracy]]|votes8=15251
+|cand9=Wallis Zoumarou|party9=[[National Union for Solidarity and Progress]]|votes9=13576
+|cand10=Rhétice Dagba|party10=Independent|votes10=12697
+|cand11=[[Marie-Elise Gbèdo]]|party11=Independent|votes11=8952
+|cand12=Léandre Djagoué|party12=[[Liberal Democrats' Rally for National Reconstruction – Vivoten]]|votes12=8565
+|cand13=[[Lionel Agbo]]|party13=African Congress of Democrats|votes13=8226
+|cand14=[[Gatien Houngbédji]]|party14=Democratic Union for Social and Economic Development|votes14=8092
+|cand15=Olofindji Akandé|party15=Independent|votes15=6258
+|cand16=Sadikou Alao|party16=National Alliance for a Democratic Alternative|votes16=6223
+|cand17=François Kouyami|party17=Independent|votes17=5414
+|invalid=181066
+|invalid2=173809
+|electorate=3034471
+|electorate2=3152365
+|source=[http://africanelections.tripod.com/bj.html African Elections Database]
+}}
+
+==References==
+{{reflist}}
+
+{{Beninese elections}}
+
+[[Category:Presidential elections in Benin]]
+[[Category:2001 elections in Africa|Benin]]
+[[Category:2001 in Benin]]
+[[Category:March 2001 events in Africa]]
+
+
+{{Africa-election-stub}}
+{{Benin-stub}}

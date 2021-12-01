@@ -1,0 +1,14 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Film poster
+|Source = https://www.kinopoisk.ru/picture/2403005/#
+|Author = Official film poster
+|Article = Coordinates of Death
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = Width 300px
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free movie poster}}

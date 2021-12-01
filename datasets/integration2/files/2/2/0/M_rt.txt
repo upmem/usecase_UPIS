@@ -1,0 +1,39 @@
+{{Infobox given name
+| name          = Märt
+| image         = 
+| image_size    = 
+| caption       = 
+| pronunciation = 
+| gender        = Male
+| meaning       = 
+| region        = [[Estonia]]
+| language      = Estonian
+| origin        = 
+| alternative spelling = 
+| nickname      = 
+| related names = [[Mart (given name)|Mart]], [[Martin (name)|Martin]], [[Märtin]], [[Marten]], Märten
+| name day      = 
+| derived       = 
+| popularity    = 
+| footnotes     = 
+}}
+
+'''Märt''' is an [[Estonian language|Estonian]] masculine given name, a version of [[Martin (name)|Martin]].
+
+People named Märt include:
+*[[Märt Avandi]] (born 1981), actor
+*[[Märt Israel]] (born 1983), discus thrower
+*[[Märt Kalbus]], actor
+*[[Märt Kosemets]] (born 1981), football player
+*[[Märt Läänemets]] (born 1962), sinologist
+*[[Märt Meos]] (1881–1966), educator and politician
+*[[Märt Pius]] (born 1989), actor
+*[[Märt Rask]] (born 1950), jurist and politician
+*[[Bomb man of Pae street|Märt Ringmaa]] (born 1938), convicted bomber
+*[[Märt Treier]] (born 1975), TV and radio journalist
+*[[Märt Väljataga]] (born 1965), literary scientist, critic and translator
+
+{{given name}}
+
+{{DEFAULTSORT:Mart}}
+[[Category:Estonian masculine given names]]

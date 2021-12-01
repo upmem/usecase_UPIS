@@ -1,0 +1,68 @@
+{{short description|Chilean footballer}}
+{{Infobox football biography
+| name = Fabián Manzano
+| image =Palestino - Universidad de Concepción, 2018-05-06 - Fabián Manzano - 01.jpg
+| fullname = Fabián Jorge Manzano Pérez
+| birth_date = {{birth date and age|1994|1|13|df=y}}
+| birth_place = [[Santiago]]
+| height = {{height|m=1.74}}
+| currentclub = [[Racing Club de Montevideo|Racing Club]]
+| clubnumber = 24
+| position = [[Midfielder]]
+| youthyears1 = ????–2013  
+| youthclubs1 =   [[Club Deportivo Universidad Católica|Universidad Católica]]
+|  years1 =   2013–2018 
+|  clubs1 =   [[Club Deportivo Universidad Católica|Universidad Católica]] 
+| caps1 =    44
+| goals1 =  2 
+| years2 = 2018
+| clubs2 = → [[Palestino]]   (loan)
+| caps2 = 5
+| goals2 = 0
+| years3 = 2019
+| clubs3 = [[Unión La Calera]]
+| caps3 = 2
+| goals3 = 0
+| years4 = 2020–
+| clubs4 = [[Racing Club de Montevideo|Racing Club]]
+| caps4 = 7
+| goals4 = 0
+| nationalyears1 =   
+| nationalteam1 =    
+| nationalcaps1 =      
+| nationalgoals1 =    
+| pcupdate = 22 September 2020
+| ntupdate = 
+}}
+
+'''Fabián Jorge Manzano Pérez''' (born 13 January 1994), is a [[Chile]]an [[association football|footballer]]  who plays as [[Midfielder]] for [[Racing Club de Montevideo]].
+
+==Club career==
+
+{{Empty section|date=February 2019}}
+
+==Honours==
+
+===Club===
+;Universidad Católica
+* [[Primera División de Chile]] (2): [[2015–16 Campeonato Nacional season|Torneo Clausura 2015–16]], [[2016–17 Chilean Primera División season|Torneo Apertura 2016–17]]
+* [[Supercopa de Chile]]: 2016
+
+;Palestino
+* [[Copa Chile]]: 2018
+
+==External links==
+* {{Soccerway|fabian-manzano/181123}}
+
+{{DEFAULTSORT:Manzano, Fabian}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Chilean footballers]]
+[[Category:Chilean Primera División players]]
+[[Category:Club Deportivo Palestino footballers]]
+[[Category:Club Deportivo Universidad Católica footballers]]
+[[Category:Unión La Calera footballers]]
+[[Category:Association football midfielders]]
+
+
+{{Chile-footy-midfielder-stub}}

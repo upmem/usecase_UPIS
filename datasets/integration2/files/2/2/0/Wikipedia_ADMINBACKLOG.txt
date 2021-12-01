@@ -1,0 +1,6 @@
+#REDIRECT [[:Category:Administrative backlog]]
+
+{{Redirect category shell|
+{{R to category namespace}}
+{{R from shortcut}}
+}}

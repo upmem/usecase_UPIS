@@ -1,0 +1,37 @@
+{{About||the research institute at Johns Hopkins|Foreign Policy Institute (SAIS)|the neoconservative American think tank|Foreign Policy Initiative}}
+{{one source|date=December 2015}}
+
+{{Infobox Institute
+|name        = Foreign Policy Institute
+|image       = [[File:ForeignPolicyLogo.png]]
+|established = 1974
+|head_label  = Director
+|head        = [[Seyfi Tashan|Seyfi Taşhan]]
+|city        = [[Ankara]]
+|country     = [[Turkey]]
+|website     = [http://foreignpolicy.org.tr]
+}}
+
+The '''Foreign Policy Institute''' ({{lang-tr|Dış Politika Enstitüsü}} or ''DPE'') is a [[Turkey|Turkish]] [[think tank]] on [[foreign policy]] and [[international relations]]. It was founded in 1974. The Foreign Policy Institute is the first ever  Think Tank formed in [[Turkey]]. The founder and the incumbent director is [[Seyfi Tashan]].<ref>http://foreignpolicy.org.tr/about/</ref>
+
+==Background and history==
+The Turkish Foreign Policy Institute (FPI) was founded in 1974 as a private organization. Its Council of Administration is composed of academicians, diplomats and bureaucrats. The founder of the Institute, Mr. Seyfi Tashan, is also the President. The Turkish Foreign Policy Institute aims at contributing to foreign policy through research, meetings and publications. Researchers come mostly from the Turkish universities. International conferences, seminars and workshops are organized mainly in cooperation with foreign counterparts. The Institute publishes by annual “Foreign Policy/Dış Politika”. The FPI and its director are currently members of a number of international research and study centers.
+
+It is currently affiliated to the Turkish Foundation for International Relations and Strategic Studies. The FPI became affiliated with the [[Turkish Foundation for Strategy and International Relations]] when it was established in 1987, and was a founder of [[East-West Security Studies Institute]], the [[Mediterranean Study Commission]] and also of [[EuroMeSCo]].<ref name="EuroMeSCo">{{cite web|url=http://www.euromesco.net/images/enews24_en.pdf|title=EuroMeSCo Profile: The Turkish Foreign Policy Institute|publisher=[[EuroMeSCo]]|date=May 2008}}</ref>
+It publishes a quarterly, ''Foreign Policy'' (''Dis Politika''), first published in 1971.{{OCLC|5289597}}
+<ref name="EuroMeSCo"/>
+
+It has another publication called ''Turkey's Neighbours''.
+
+Between 1991 and 2000, the organisation was hosted by [[Hacettepe University]], and since then it has been associated with [[Bilkent University]].<ref name="EuroMeSCo"/>
+The Institute administers an award program of [[İhsan Doğramacı]] Prize of International Relations for Peace.{{Citation needed|date=September 2009}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{official website}} {{in lang|tr|en}}
+
+[[Category:Think tanks based in Turkey]]
+[[Category:Organizations based in Ankara]]
+[[Category:1974 establishments in Turkey]]

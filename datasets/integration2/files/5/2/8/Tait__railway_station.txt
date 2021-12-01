@@ -1,0 +1,115 @@
+{{Use dmy dates|date=August 2015}}
+{{Use New Zealand English|date=August 2015}}
+{{Infobox station
+| name = Taitā
+| type = [[Public transport in Wellington|Metlink]] [[suburban rail]]
+| image = 
+| image_caption = 
+| address = High Street, Taitā, Lower Hutt, New Zealand
+| coordinates = {{coord|41|10.832|S|174|57.639|E|type:railwaystation_region:NZ|}}
+| line = [[Wairarapa Line]]
+| other = 
+| structure = 
+| platform = Island
+| levels = 
+| tracks = Main line (2)
+| parking = Yes
+| bicycle = 
+| passengers = 
+| pass_year = 
+| pass_percent = 
+| pass_system = 
+| opened = 14 April 1947
+| closed = 
+| rebuilt = 
+| electrified = 14 September 1953
+| ADA = 
+| code = TAIT (Metlink)<br />TTA (Kiwirail Network)
+| owned = [[Greater Wellington Regional Council]]
+| zone = 5
+| former = 
+| services = {{s-note|text=[[ONTRACK]]}}
+{{s-rail|title=Tranz Metro}}
+{{s-line|system=Tranz Metro|line=Hutt Valley Line|previous=Pomare|next=Wingate|}}
+| mpassengers = 
+}}
+{{BS-map
+|style = 
+|title = Taita station layout
+|title-bg = 
+|navbar = 
+|collapsible = 
+|collapse = 
+|width = 
+|top = 
+|legend = track
+|bg = 
+|map-title = 
+|map = 
+{{BS4-2||CONTg|CONTg|||||to Pomare}}
+{{BS4-2||STRg|STRf|||||}}
+{{BS4-2|BS2c2|BS2r|BS2l|BS2c3|||}}
+{{BS3-2|STR|ENDEa|STR||||}}
+{{BS3-2|STR|STR|STR||||Storage siding}}
+{{BS3-2|KRWg+l|KRWlr|KRWg+r|||Crossover 78|Crossover 79}}
+{{BS4-2|BS2c1|BS2+r|BS2+l|BS2c4|||}}
+{{BS4-2||STR+BSl|STR+BSr||||Up platform (2)|Down platform (1)}}
+{{BS4-2||STR+BSl|STR+BSr|||||}}
+{{BS4-2||KRWgl|KRWg+r|||||Crossover 77}}
+{{BS4-2||STR|STR||||}}
+{{BS4-2||KRWg+l|KRWgr|||||Crossover 75}}
+{{BS4-2||STRg|STRf||||}}
+{{BS4-2||CONTf|CONTf|||||to Wingate}}
+|bottom = 
+}}
+
+'''Taitā railway station''' is a suburban railway station serving [[Taitā, New Zealand|Taitā]] in [[Lower Hutt]], [[New Zealand]]. The station is located on the [[Hutt Valley Line|Hutt Valley section]] of the [[Wairarapa Line]], {{convert|20.6|km|mi|abbr=on}} north of [[Wellington railway station|Wellington]]. The station is served by [[Public transport in Wellington|Metlink]]'s [[electric multiple unit]] trains of the [[New Zealand FP class electric multiple unit|"Matangi" FP class]].
+
+The station has an [[island platform]] between double tracks.
+
+== History ==
+Taitā railway station opened on 14 April 1947, when a single-track extension of the then Hutt Valley Branch from Naenae to [[Taitā, New Zealand|Taitā]] (then known as Taita) opened. The station originally only had one platform (the current up platform) in operation; the second platform opened when track was laid in 1952. The double track from Naenae to Taitā opened on 22 February 1953.
+
+On 1 March 1954, Taitā became a through station with the opening of a single track to Haywards (now called Manor Park), and with the closure of the Melling to Haywards line the route via Taitā became the main route to Upper Hutt and the Wairarapa.<ref>Hoy, D.G. ''Rails out of the Capital'' ([[NZRLS]], 1970) pp. 62,63</ref>
+
+The official name of Taitā changed in December 2019 to be spelled with a macron, and the official name of the railway station, gazetted in 1948, was changed to "Taitā Railway Station" on 16 July 2020.<ref>{{Cite web|title=Amendments—New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa - 2020-ln3114 - New Zealand Gazette|url=https://gazette.govt.nz/notice/id/2020-ln3114|access-date=2020-07-20|website=gazette.govt.nz}}</ref>
+
+==Services==
+
+===Rail===
+Metlink, on behalf of the Greater Wellington Regional Council, operates [[Hutt Valley Line]] electric suburban services between Wellington and Upper Hutt via Taitā. The basic daytime off-peak timetable is:
+
+*2&nbsp;tph Hutt Valley Line to Wellington, stopping all stations.
+*2&nbsp;tph Hutt Valley Line to Upper Hutt, stopping all stations.
+
+The basic morning peak timetable is:
+* 6 tph Hutt Valley Line to Wellington, split:
+** 3 tph stopping all stations to Petone
+** 3 tph stopping Waterloo only
+
+Taitā station serves as an important median point on peak Hutt Valley Line services. At both morning and evening peaks services commence and terminate at Taitā, stopping at all stations en route to [[Wellington|Wellington railway station]] along the southern section of the Hutt Valley Line. Services along the northern section commencing and terminating at [[Upper Hutt|Upper Hutt railway station]] run express to or from Taitā (stopping only at Waterloo Interchange) and stop at all stations north of Taitā.
+
+To facilitate the movement of commencing and terminating trains, crossover points exist south of the station and a central storage siding exists north of the station. As there is no long-term storage at Taitā, all trains terminating at Taitā must return to Wellington (and vice versa), often running empty and non-stop. Until July 2014, a signal box on the upper level of the station building was responsible for switching the Taitā crossovers during peak-hour operation. Over the weekend of 19–20 July 2014, the signal box was decommissioned and the switching function moved to Train Control in central Wellington.<ref name="TaitaBox" />
+
+There are three possible termination and commencement configurations:<ref name="TaitaBox">{{cite web |url= http://www.valleysignals.org.nz/taita/taita.html |title= Taita Box |publisher= Valley Signals |date= 8 March 2013 |accessdate= 13 March 2013}}</ref>
+*'''Arrive/depart up platform''': if there is sufficient time before the next up train (i.e. from Wellington) is due, the terminating Taitā service will terminate at the up platform. The train then will return to Wellington from the up platform, switching over to the down line through the 77 crossover. This manoeuvre is predominantly used during morning peak, and is available outside signal box hours by operating a switch on the up platform to switch the 77 crossover.
+*'''Arrive/depart down platform''': if there is insufficient time before the next up train is due (during evening peak, Taitā terminating services are often closely followed by Upper Hutt expresses), and there is sufficient time before the next down train is due, the terminating Taitā service will switch over to the down line through the 75 crossover (halfway between Taitā and Wingate) and terminate at the down platform. The train then will return to Wellington from the down platform. This manoeuvre is predominantly used during evening peak.
+*'''Arrive up platform, depart down platform''': if there is insufficient time before the next up train is due and insufficient time before the next down train is due, the terminating Taitā service will stop at the up platform to disembark passengers, then switch into the central storage siding through crossover 78 to clear the up line for the next up service. Once the next down service has passed through, the train will move to the down platform through crossover 79 to pick up passengers for the return journey. This manoeuvre is used during both peaks.
+
+===Bus===
+[[Public transport in Wellington|Metlink]] bus routes 120 and 121 serve Taitā station.
+
+== References ==
+{{Reflist}}
+
+==External links==
+* Passenger service timetables from [https://web.archive.org/web/20070604093715/http://www.metlink.org.nz/section10.php Metlink] and [http://www.tranzmetro.co.nz/ Tranz Metro].
+*[http://www.valleysignals.org.nz/documents/taital889.pdf Layout 1960 (diagram)]
+<br>
+{{Wairarapa Line stations}}
+
+[[Category:Rail transport in Wellington]]
+[[Category:Buildings and structures in Lower Hutt]]
+[[Category:Railway stations in New Zealand]]
+[[Category:Railway stations opened in 1947]]
+[[Category:1947 establishments in New Zealand]]

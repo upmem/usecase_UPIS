@@ -1,0 +1,31 @@
+
+<noinclude>__TOC__</noinclude>
+{{SPIarchive notice|Aidog21}}<br />{{SPIpriorcases}}
+===== <big>Report date October 27 2009, 23:49 (UTC)</big>=====
+
+{{SPIcat}}
+
+;Suspected sockpuppets <!-- BOTDONE_USER_NOTICE DO_NOT_MODIFY [[Aidog21]][[Aidan Godfrey]] (THIS CURRENTLY IS NOT ACTIVE, this comment is for testing only) -->
+* {{checkuser|1=Aidan Godfrey}}
+
+
+;Evidence submitted by [[User:Largoplazo|—Largo Plazo]] ([[User talk:Largoplazo|talk]])
+Compare the names and also see the history just now for [[Aidan]]. [[User:Largoplazo|—Largo Plazo]] ([[User talk:Largoplazo|talk]]) 23:49, 27 October 2009 (UTC)
+
+
+;Comments by accused parties  &nbsp;&nbsp; <small><span style="font-weight:normal">''See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</span></small>
+
+
+;Comments by other users
+From what I can tell using only his contributions and username, it might be worth a look as a sock but to verify this, I request that someone with the ability to view deleted contributions look further into this matter. [[User:The-Giant-Andrew|The-Giant-Andrew]] ([[User talk:The-Giant-Andrew|talk]]) 00:10, 28 October 2009 (UTC)
+
+;Clerk, patrolling admin and checkuser comments
+
+Blocked all per [[WP:DUCK]].  :)  [[User:PMDrive1061|PMDrive1061]] ([[User talk:PMDrive1061|talk]]) 00:11, 28 October 2009 (UTC)
+: Damn your fast, I swear I hit the save button just moments before you blocked the sock. [[User:The-Giant-Andrew|The-Giant-Andrew]] ([[User talk:The-Giant-Andrew|talk]]) 00:12, 28 October 2009 (UTC)
+;Conclusions
+*Above have blocked and tagged. <font color="navy">'''[[User:NuclearWarfare|NW]]</font>''' ''(<font color="green">[[User talk:NuclearWarfare|Talk]]</font>)'' 00:14, 28 October 2009 (UTC)
+
+{{SPIclose|archive}}
+
+----

@@ -1,0 +1,25 @@
+== Summary ==
+{{logo fur
+<!-- REQUIRED -->
+ |Article           = MPLA
+ |Use               = Infobox
+<!-- HIGHLY RECOMMENDED -->
+ |Source            = http://www.mpla.ao/mpla.6/simbolos.8/emblema.17.html
+<!-- ADDITIONAL INFORMATION -->
+ |Used for          = 
+ |Owner             = 
+ |Website           = 
+ |History           = 
+ |Commentary        = 
+<!-- OVERRIDE FIELDS -->
+ |Description       = 
+ |Portion           = 
+ |Low_resolution    = 
+ |Purpose           = 
+ |Replaceability    = 
+ |other_information = 
+}}
+{{non-free logo|image has rationale=yes|auto=yes}}
+
+== Licensing ==
+{{Non-free logo|image has rationale=yes|auto=yes}}

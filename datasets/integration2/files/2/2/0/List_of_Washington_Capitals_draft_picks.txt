@@ -1,0 +1,3759 @@
+{{short description|Wikipedia list article}}
+[[File:Ovechkin cropped.jpg|200px|right|thumb|The Capitals selected [[Alexander Ovechkin]] 1st overall in the [[2004 NHL Entry Draft]].]]
+This is a complete '''list of ice hockey players who were drafted in the [[National Hockey League]] [[NHL Entry Draft|Entry Draft]] by the [[Washington Capitals]] franchise'''. It includes every player who was drafted, regardless of whether they played for the team.
+
+==Key==
+{{Color box|#FFE6BD|border=darkgray}} Played at least one game with the Capitals<br>
+{{Color box|#DDFFDD|border=darkgray}} Spent entire NHL career with the Capitals<br>
+
+{{Col-begin}}
+{{Col-break}}
+{| class="wikitable" 
+|+ General terms and abbreviations
+|-
+! scope="col" | Term or abbreviation
+! scope="col" | Definition
+|-
+! scope="row" | Draft
+| The year that the player was selected
+|-
+! scope="row" | Round
+| The round of the draft in which the player was selected
+|-
+! scope="row" | Pick
+| The overall position in the draft at which the player was selected
+<!--|-
+! scope="row" | Ref(s)
+| Reference(s)-->
+|-
+! scope="row" | S
+| Supplemental draft selection
+|}
+{| class="wikitable" 
+|+ Position abbreviations
+|-
+! scope="col" | Abbreviation
+! scope="col" | Definition
+|-
+! scope="row" |G
+| [[Goaltender]]
+|-
+! scope="row" |D
+| [[Defenceman|Defense]]
+|-
+! scope="row" |LW
+| [[Winger (ice hockey)|Left Wing]]
+|-
+! scope="row" |C
+| [[Centre (ice hockey)|Center]]
+|-
+! scope="row" |RW
+| [[Winger (ice hockey)|Right Wing]]
+|-
+! scope="row" |F
+| [[Forward (ice hockey)|Forward]]
+|}
+{{Col-break}}
+{| class="wikitable" 
+|+ Abbreviations for statistical columns
+|-
+! scope="col" | Abbreviation
+! scope="col" | Definition
+|-
+! scope="row" |Pos
+| Position
+|-
+! scope="row" |GP
+| Games played
+|-
+! scope="row" |G
+| [[Goal (ice hockey)|Goals]]
+|-
+! scope="row" |A
+| [[Assist (ice hockey)|Assists]]
+|-
+! scope="row" |Pts
+| [[Point (ice hockey)|Points]]
+|-
+! scope="row" |PIM
+| [[Penalty (ice hockey)|Penalties in minutes]]
+|-
+! scope="row" |W
+| Wins
+|-
+! scope="row" |L
+| Losses
+|-
+! scope="row" |T
+| Ties
+|-
+! scope="row" |OT
+| [[Overtime (ice hockey)|Overtime]]/[[Overtime (ice hockey)#Shootout|shootout]] losses
+|-
+! scope="row" |GAA
+| [[Goals against average]]
+|-
+! scope="row" |—
+| Does not apply
+|}
+{{Col-end}}
+
+==Draft picks==
+''Statistics are complete as of the [[2019–20 NHL season]] and show each player's career regular season totals in the NHL.  Wins, losses, ties, overtime losses and goals against average apply to goaltenders and are used only for players at that position.''
+
+{| class="wikitable sortable plainrowheaders" border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; text-align: center"
+|-
+!scope="col" |Draft
+!scope="col" data-sort-type="number" |Round
+!scope="col" data-sort-type="number" |Pick
+!scope="col" |Player
+!scope="col" |Nationality
+!scope="col" |Pos
+!scope="col" data-sort-type="number" |GP
+!scope="col" data-sort-type="number" |G
+!scope="col" data-sort-type="number" |A
+!scope="col" data-sort-type="number" |Pts
+!scope="col" data-sort-type="number" |PIM
+!scope="col" data-sort-type="number" |W
+!scope="col" data-sort-type="number" |L
+!scope="col" data-sort-type="number" |T
+!scope="col" data-sort-type="number" |OT
+!scope="col" data-sort-type="number" |GAA
+<!--!scope="col" class="unsortable" |Ref(s)-->
+|-
+|[[1974 NHL amateur draft|1974]]
+|'''1'''
+|1
+|align="left" bgcolor="#FFE6BD"|{{sortname|Greg|Joly}}
+|align="left"|{{flag|Canada}}
+|D
+|365 || 21 || 76 || 97 || 250|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|2
+|19
+|align="left" bgcolor="#FFE6BD"|{{sortname|Mike|Marson}}
+|align="left"|{{flag|Canada}}
+|F
+|196 || 24 || 24 || 48 || 233|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|3
+|37
+|align="left" bgcolor="#FFE6BD"|{{sortname|John|Paddock}}
+|align="left"|{{flag|Canada}}
+|F
+|87 || 8 || 14 || 22 || 86|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|4
+|55
+|align="left" bgcolor="#DDFFDD"|{{sortname|Paul|Nicholson|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|LW
+|62 || 4 || 8 || 12 || 18|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|5
+|73
+|align="left"|{{sortname|Jack|Patterson|nolink=1}}
+|align="left"|{{flag|Canada}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|6
+|91
+|align="left" bgcolor="#DDFFDD"|{{sortname|Brian|Kinsella}}
+|align="left"|{{flag|Canada}}
+|RW
+|10 || 0 || 1 || 1 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|7
+|109
+|align="left"|{{sortname|Garth|Malarchuk|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|8
+|127
+|align="left"|{{sortname|John|Nazar|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|9
+|144
+|align="left"|{{sortname|Kelvin|Erickson|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|10
+|161
+|align="left" bgcolor="#FFE6BD"|{{sortname|Tony|White|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|F
+|164 || 37 || 28 || 65 || 104|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|11
+|176
+|align="left"|{{sortname|Ron|Pronchuk|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|12
+|190
+|align="left"|{{sortname|Dave|McKee|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|13
+|202
+|align="left"|{{sortname|Scott|Mabley|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|14
+|212
+|align="left"|{{sortname|Bernard|Plante|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|15
+|220
+|align="left"|{{sortname|Jacques|Chiasson|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|16
+|225
+|align="left"|{{sortname|Bill|Bell|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|17
+|228
+|align="left"|{{sortname|Bob|Blanchet}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|18
+|231
+|align="left"|{{sortname|Johnny|Bower|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|19
+|234
+|align="left"|{{sortname|Yves|Plouffe|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|20
+|237
+|align="left"|{{sortname|Terry|Bozack|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|21
+|240
+|align="left"|{{sortname|Gordie|Cole|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|22
+|242
+|align="left"|{{sortname|Mike|Consentino|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|23
+|244
+|align="left"|{{sortname|John|Duncan|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|24
+|246
+|align="left"|{{sortname|Barry|Kerfoot|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1974 NHL amateur draft|1974]]
+|25
+|247
+|align="left"|{{sortname|Ron|Poole|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1975 NHL Amateur Draft|1975]]
+|'''1'''
+|18
+|align="left" bgcolor="#DDFFDD"|{{sortname|Alex|Forsyth|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|F
+|1 || 0 || 0 || 0 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1975 NHL Amateur Draft|1975]]
+|2
+|19
+|align="left" bgcolor="#DDFFDD"|{{sortname|Peter|Scamurra}}
+|align="left"|{{flag|Canada}}
+|D
+|132 || 8 || 25 || 33 || 59|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1975 NHL Amateur Draft|1975]]
+|4
+|55
+|align="left"|{{sortname|Blair|MacKasey}}
+|align="left"|{{flag|Canada}}
+|D
+|1 || 0 || 0 || 0 || 2|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1975 NHL Amateur Draft|1975]]
+|5
+|73
+|align="left"|{{sortname|Craig|Crawford|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1975 NHL Amateur Draft|1975]]
+|6
+|91
+|align="left"|{{sortname|Roger|Swanson|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1975 NHL Amateur Draft|1975]]
+|7
+|109
+|align="left"|{{sortname|Clark|Jantzie|nolink=1}}
+|align="left"|{{flag|Canada}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1975 NHL Amateur Draft|1975]]
+|8
+|127
+|align="left"|{{sortname|Mike|Fryia|nolink=1}}
+|align="left"|{{flag|Canada}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1975 NHL Amateur Draft|1975]]
+|9
+|144
+|align="left"|{{sortname|Jim|Ofrim|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1975 NHL Amateur Draft|1975]]
+|10
+|161
+|align="left"|{{sortname|Mal|Zinger|nolink=1}}
+|align="left"|{{flag|Canada}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1976 NHL Amateur Draft|1976]]
+|'''1'''
+|1
+|align="left" bgcolor="#FFE6BD"|{{sortname|Rick|Green|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|D
+|845 || 43 || 220 || 263 || 588|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1976 NHL Amateur Draft|1976]]
+|'''1'''
+|15
+|align="left" bgcolor="#FFE6BD"|{{sortname|Greg|Carroll|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|RW
+|131 || 20 || 34 || 54 || 44|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1976 NHL Amateur Draft|1976]]
+|3
+|37
+|align="left" bgcolor="#FFE6BD"|{{sortname|Tom|Rowe|dab=ice hockey}}
+|align="left"|{{flag|United States}}
+|RW
+|357 || 85 || 100 || 185 || 615|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1976 NHL Amateur Draft|1976]]
+|4
+|55
+|align="left"|{{sortname|Al|Glendinning|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1976 NHL Amateur Draft|1976]]
+|5
+|73
+|align="left" bgcolor="#DDFFDD"|{{sortname|Doug|Patey}}
+|align="left"|{{flag|Canada}}
+|RW
+|45 || 4 || 2 || 6 || 8|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1976 NHL Amateur Draft|1976]]
+|6
+|91
+|align="left" bgcolor="#DDFFDD"|{{sortname|Jim|Bedard|dab=ice hockey, born 1956}}
+|align="left"|{{flag|Canada}}
+|G
+|73 || 0 || 2 || 2 || 10 || 17 || 40 || 13 || {{sort|-0.1|—}} || 3.94
+|-
+|[[1976 NHL Amateur Draft|1976]]
+|6
+|100
+|align="left"|{{sortname|Don|Wilson|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1976 NHL Amateur Draft|1976]]
+|7
+|109
+|align="left"|{{sortname|Dale|Rideout|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1976 NHL Amateur Draft|1976]]
+|8
+|119
+|align="left"|{{sortname|Al|Dumba|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1977 NHL amateur draft|1977]]
+|'''1'''
+|3
+|align="left" bgcolor="#FFE6BD"|{{sortname|Robert|Picard}}
+|align="left"|{{flag|Canada}}
+|D
+|899 || 104 || 319 || 423 || 1025|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1977 NHL amateur draft|1977]]
+|2
+|21
+|align="left" bgcolor="#FFE6BD"|{{sortname|Mark|Lofthouse}}
+|align="left"|{{flag|Canada}}
+|RW
+|181 || 42 || 38 || 80 || 73|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1977 NHL amateur draft|1977]]
+|3
+|39
+|align="left" bgcolor="#DDFFDD"|{{sortname|Eddy|Godin}}
+|align="left"|{{flag|Canada}}
+|RW
+|27 || 3 || 6 || 9 || 12|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1977 NHL amateur draft|1977]]
+|4
+|57
+|align="left" bgcolor="#DDFFDD"|{{sortname|Nelson|Burton|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|LW
+|8 || 1 || 0 || 1 || 21|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1977 NHL amateur draft|1977]]
+|5
+|75
+|align="left"|{{sortname|Denis|Turcotte|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1977 NHL amateur draft|1977]]
+|6
+|93
+|align="left"|{{sortname|Perry|Schnarr|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1977 NHL amateur draft|1977]]
+|7
+|111
+|align="left" bgcolor="#DDFFDD"|{{sortname|Rollie|Boutin}}
+|align="left"|{{flag|Canada}}
+|G
+|22 || 0 || 1 || 1 || 6 || 7 || 10 || 1 || {{sort|-0.1|—}} || 3.96
+|-
+|[[1977 NHL amateur draft|1977]]
+|8
+|127
+|align="left" bgcolor="#DDFFDD"|{{sortname|Brent|Tremblay}}
+|align="left"|{{flag|Canada}}
+|D
+|10 || 1 || 0 || 1 || 6|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1977 NHL amateur draft|1977]]
+|9
+|143
+|align="left"|{{sortname|Don|Micheletti|nolink=1}}
+|align="left"|{{flag|United States}}
+|W
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1977 NHL amateur draft|1977]]
+|10
+|156
+|align="left" bgcolor="#FFE6BD"|{{sortname|Archie|Henderson}}
+|align="left"|{{flag|Canada}}
+|RW
+|23 || 3 || 1 || 4 || 92|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|'''1'''
+|2
+|align="left" bgcolor="#FFE6BD"|{{sortname|Ryan|Walter}}
+|align="left"|{{flag|Canada}}
+|C
+|1003 || 264 || 382 || 646 || 946|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|'''1'''
+|18
+|align="left" bgcolor="#FFE6BD"|{{sortname|Tim|Coulis}}
+|align="left"|{{flag|Canada}}
+|F
+|47 || 4 || 5 || 9 || 138|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|2
+|20
+|align="left" bgcolor="#FFE6BD"|{{sortname|Paul|Mulvey}}
+|align="left"|{{flag|Canada}}
+|LW
+|225 || 30 || 51 || 81 || 613|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|2
+|23
+|align="left" bgcolor="#DDFFDD"|{{sortname|Paul|MacKinnon}}
+|align="left"|{{flag|Canada}}
+|D
+|147 || 5 || 23 || 28 || 91|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|3
+|38
+|align="left" bgcolor="#FFE6BD"|{{sortname|Glen|Currie}}
+|align="left"|{{flag|Canada}}
+|LW
+|326 || 39 || 79 || 118 || 100|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|3
+|45
+|align="left" bgcolor="#DDFFDD"|{{sortname|Jay|Johnston|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|D
+|8 || 0 || 0 || 0 || 13|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|4
+|55
+|align="left" bgcolor="#DDFFDD"|{{sortname|Bengt-Ake|Gustafsson|Bengt-Åke Gustafsson}}
+|align="left"|{{flag|Sweden}}
+|F
+|629 || 196 || 359 || 555 || 196|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|5
+|71
+|align="left" bgcolor="#FFE6BD"|{{sortname|Lou|Franceschetti}}
+|align="left"|{{flag|Canada}}
+|RW
+|459 || 59 || 81 || 140 || 747|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|6
+|88
+|align="left"|{{sortname|Vince|Magnan|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|7
+|105
+|align="left"|{{sortname|Mats|Hallin}}
+|align="left"|{{flag|Sweden}}
+|LW
+|152 || 17 || 14 || 31 || 193|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|8
+|122
+|align="left"|{{sortname|Rich|Sirois}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|9
+|139
+|align="left"|{{sortname|Denis|Pomerleau|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|10
+|156
+|align="left"|{{sortname|Barry|Heard|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|11
+|172
+|align="left"|{{sortname|Mark|Toffolo|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|12
+|187
+|align="left"|{{sortname|Paul|Hogan|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|12
+|189
+|align="left"|{{sortname|Steve|Barger|nolink=1}}
+|align="left"|{{flag|United States}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|13
+|202
+|align="left"|{{sortname|Rod|Pacholzuk|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|14
+|213
+|align="left" bgcolor="#FFE6BD"|{{sortname|Wes|Jarvis}}
+|align="left"|{{flag|Canada}}
+|F
+|237 || 31 || 55 || 86 || 98|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1978 NHL Amateur Draft|1978]]
+|14
+|215
+|align="left"|{{sortname|Ray|Irwin|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1979 NHL Entry Draft|1979]]
+|'''1'''
+|4
+|align="left" bgcolor="#FFE6BD"|{{sortname|Mike|Gartner}}
+|align="left"|{{flag|Canada}}
+|RW
+|1432 || 708 || 627 || 1335 || 1159|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1979 NHL Entry Draft|1979]]
+|2
+|24
+|align="left" bgcolor="#DDFFDD"|{{sortname|Errol|Rausse}}
+|align="left"|{{flag|Canada}}
+|LW
+|31 || 7 || 3 || 10 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1979 NHL Entry Draft|1979]]
+|4
+|67
+|align="left" bgcolor="#DDFFDD"|{{sortname|Harvie|Pocza}}
+|align="left"|{{flag|Canada}}
+|LW
+|3 || 0 || 0 || 0 || 2|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1979 NHL Entry Draft|1979]]
+|5
+|88
+|align="left" bgcolor="#FFE6BD"|{{sortname|Tim|Tookey}}
+|align="left"|{{flag|Canada}}
+|C
+|106 || 22 || 36 || 58 || 71|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1979 NHL Entry Draft|1979]]
+|6
+|109
+|align="left" bgcolor="#DDFFDD"|{{sortname|Greg|Theberge}}
+|align="left"|{{flag|Canada}}
+|D
+|153 || 15 || 63 || 78 || 73|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1980 NHL Entry Draft|1980]]
+|'''1'''
+|5
+|align="left" bgcolor="#FFE6BD"|{{sortname|Darren|Veitch}}
+|align="left"|{{flag|Canada}}
+|D
+|511 || 48 || 209 || 257 || 296|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1980 NHL Entry Draft|1980]]
+|3
+|47
+|align="left"|{{sortname|Dan|Miele|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1980 NHL Entry Draft|1980]]
+|3
+|55
+|align="left" bgcolor="#FFE6BD"|{{sortname|Torrie|Robertson}}
+|align="left"|{{flag|Canada}}
+|LW
+|442 || 49 || 99 || 148 || 1751|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1980 NHL Entry Draft|1980]]
+|5
+|89
+|align="left" bgcolor="#FFE6BD"|{{sortname|Timo|Blomqvist}}
+|align="left"|{{flag|Finland}}
+|D
+|243 || 4 || 53 || 57 || 293|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1980 NHL Entry Draft|1980]]
+|6
+|110
+|align="left" bgcolor="#DDFFDD"|{{sortname|Todd|Bidner}}
+|align="left"|{{flag|United Kingdom}}
+|C
+|12 || 2 || 1 || 3 || 7|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1980 NHL Entry Draft|1980]]
+|7
+|131
+|align="left"|{{sortname|Frank|Perkins|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1980 NHL Entry Draft|1980]]
+|8
+|152
+|align="left"|{{sortname|Bruce|Raboin|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1980 NHL Entry Draft|1980]]
+|9
+|173
+|align="left" bgcolor="#FFE6BD"|{{sortname|Peter|Andersson|dab=ice hockey, born 1962}}
+|align="left"|{{flag|Sweden}}
+|D
+|172 || 10 || 41 || 51 || 81|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1980 NHL Entry Draft|1980]]
+|10
+|194
+|align="left" bgcolor="#DDFFDD"|{{sortname|Tony|Camazzola}}
+|align="left"|{{flag|Canada}}
+|D
+|3 || 0 || 0 || 0 || 4|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1981 NHL Entry Draft|1981]]
+|'''1'''
+|3
+|align="left" bgcolor="#FFE6BD"|{{sortname|Bobby|Carpenter|dab=ice hockey}}
+|align="left"|{{flag|United States}}
+|C
+|1178 || 320 || 408 || 728 || 919|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1981 NHL Entry Draft|1981]]
+|3
+|45
+|align="left" bgcolor="#DDFFDD"|{{sortname|Eric|Calder}}
+|align="left"|{{flag|Canada}}
+|D
+|2 || 0 || 0 || 0 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1981 NHL Entry Draft|1981]]
+|4
+|68
+|align="left"|{{sortname|Tony|Kellin|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1981 NHL Entry Draft|1981]]
+|5
+|89
+|align="left" bgcolor="#FFE6BD"|{{sortname|Mike|Siltala}}
+|align="left"|{{flag|Canada}}
+|RW
+|7 || 1 || 0 || 1 || 2|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1981 NHL Entry Draft|1981]]
+|5
+|91
+|align="left"|{{sortname|Peter|Sidorkiewicz}}
+|align="left"|{{flag|Canada}}
+|G
+|246 || 0 || 9 || 9 || 20 || 79 || 128 || 27 || {{sort|-0.1|—}} || 3.60
+|-
+|[[1981 NHL Entry Draft|1981]]
+|6
+|110
+|align="left" bgcolor="#FFE6BD"|{{sortname|Jim|McGeough}}
+|align="left"|{{flag|Canada}}
+|C
+|57 || 7 || 10 || 17 || 32|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1981 NHL Entry Draft|1981]]
+|7
+|131
+|align="left"|{{sortname|Risto|Jalo}}
+|align="left"|{{flag|Finland}}
+|F
+|3 || 0 || 3 || 3 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1981 NHL Entry Draft|1981]]
+|8
+|152
+|align="left" bgcolor="#FFE6BD"|{{sortname|Gaetan|Duchesne|Gaétan Duchesne}}
+|align="left"|{{flag|Canada}}
+|LW
+|1028 || 179 || 254 || 433 || 617|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1981 NHL Entry Draft|1981]]
+|9
+|173
+|align="left"|{{sortname|George|White|nolink=1}}
+|align="left"|{{flag|United States}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1981 NHL Entry Draft|1981]]
+|10
+|194
+|align="left" bgcolor="#DDFFDD"|{{sortname|Chris|Valentine}}
+|align="left"|{{flag|Canada}}
+|F
+|105 || 43 || 52 || 95 || 127|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1982 NHL Entry Draft|1982]]
+|'''1'''
+|5
+|align="left" bgcolor="#FFE6BD"|{{sortname|Scott|Stevens}}
+|align="left"|{{flag|Canada}}
+|D
+|1635 || 196 || 712 || 908 || 2785|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1982 NHL Entry Draft|1982]]
+|3
+|58
+|align="left" bgcolor="#DDFFDD"|{{sortname|Milan|Novy|Milan Nový}}
+|align="left"|{{flag|Czech Republic}}
+|F
+|73 || 18 || 30 || 48 || 16|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1982 NHL Entry Draft|1982]]
+|5
+|89
+|align="left" bgcolor="#FFE6BD"|{{sortname|Dean|Evason}}
+|align="left"|{{flag|Canada}}
+|C
+|803 || 139 || 233 || 372 || 1002|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1982 NHL Entry Draft|1982]]
+|6
+|110
+|align="left" bgcolor="#FFE6BD"|{{sortname|Ed|Kastelic}}
+|align="left"|{{flag|Canada}}
+|RW
+|220 || 11 || 10 || 21 || 719|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1982 NHL Entry Draft|1982]]
+|8
+|152
+|align="left"|{{sortname|Wally|Schreiber}}
+|align="left"|{{flag|Canada}}
+|F
+|41 || 8 || 10 || 18 || 12|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1982 NHL Entry Draft|1982]]
+|9
+|173
+|align="left"|{{sortname|Jamie|Reeve|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1982 NHL Entry Draft|1982]]
+|10
+|194
+|align="left"|{{sortname|Juha|Nurmi|nolink=1}}
+|align="left"|{{flag|Finland}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1982 NHL Entry Draft|1982]]
+|11
+|215
+|align="left"|{{sortname|Wayne|Prestage|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1982 NHL Entry Draft|1982]]
+|12
+|236
+|align="left"|{{sortname|Jon|Holden|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1982 NHL Entry Draft|1982]]
+|12
+|247
+|align="left"|{{sortname|Marco|Kallas|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1983 NHL Entry Draft|1983]]
+|4
+|75
+|align="left" bgcolor="#FFE6BD"|{{sortname|Tim|Bergland}}
+|align="left"|{{flag|United States}}
+|RW
+|182 || 17 || 26 || 43 || 75|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1983 NHL Entry Draft|1983]]
+|5
+|95
+|align="left"|{{sortname|Martin|Bouliane|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1983 NHL Entry Draft|1983]]
+|7
+|135
+|align="left"|{{sortname|Dwaine|Hutton|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1983 NHL Entry Draft|1983]]
+|8
+|155
+|align="left"|{{sortname|Marty|Abrams|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1983 NHL Entry Draft|1983]]
+|9
+|175
+|align="left"|{{sortname|Dave|Cowan|nolink=1}}
+|align="left"|{{flag|United States}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1983 NHL Entry Draft|1983]]
+|10
+|195
+|align="left" bgcolor="#DDFFDD"|{{sortname|Yves|Beaudoin}}
+|align="left"|{{flag|Canada}}
+|D
+|11 || 0 || 0 || 0 || 5|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1983 NHL Entry Draft|1983]]
+|11
+|215
+|align="left" bgcolor="#DDFFDD"|{{sortname|Alain|Raymond}}
+|align="left"|{{flag|Canada}}
+|G
+|1 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || {{sort|-0.1|—}} || 3.00
+|-
+|[[1983 NHL Entry Draft|1983]]
+|11
+|216
+|align="left"|{{sortname|Anders|Huss|nolink=1}}
+|align="left"|{{flag|Sweden}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1984 NHL Entry Draft|1984]]
+|'''1'''
+|17
+|align="left" bgcolor="#FFE6BD"|{{sortname|Kevin|Hatcher}}
+|align="left"|{{flag|United States}}
+|D
+|1157 || 227 || 450 || 677 || 1392|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1984 NHL Entry Draft|1984]]
+|2
+|34
+|align="left" bgcolor="#FFE6BD"|{{sortname|Stephen|Leach}}
+|align="left"|{{flag|United States}}
+|RW
+|702 || 130 || 153 || 283 || 978|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1984 NHL Entry Draft|1984]]
+|3
+|59
+|align="left" bgcolor="#DDFFDD"|{{sortname|Michal|Pivonka|Michal Pivoňka}}
+|align="left"|{{flag|Czech Republic}}
+|C
+|825 || 181 || 418 || 599 || 478|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1984 NHL Entry Draft|1984]]
+|4
+|80
+|align="left"|{{sortname|Kris|King}}
+|align="left"|{{flag|Canada}}
+|LW
+|849 || 66 || 85 || 151 || 2030|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1984 NHL Entry Draft|1984]]
+|6
+|122
+|align="left"|{{sortname|Vito|Cramarossa|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1984 NHL Entry Draft|1984]]
+|7
+|143
+|align="left"|{{sortname|Timo|Iljina|nolink=1}}
+|align="left"|{{flag|Finland}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1984 NHL Entry Draft|1984]]
+|8
+|164
+|align="left"|{{sortname|Frank|Joo|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1984 NHL Entry Draft|1984]]
+|9
+|185
+|align="left" bgcolor="#FFE6BD"|{{sortname|Jim|Thomson|dab=ice hockey, born 1965}}
+|align="left"|{{flag|Canada}}
+|RW
+|115 || 4 || 3 || 7 || 416|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1984 NHL Entry Draft|1984]]
+|10
+|205
+|align="left" bgcolor="#FFE6BD"|{{sortname|Paul|Cavallini}}
+|align="left"|{{flag|Canada}}
+|D
+|564 || 56 || 177 || 233 || 750|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1984 NHL Entry Draft|1984]]
+|11
+|225
+|align="left" bgcolor="#FFE6BD"|{{sortname|Mikhail|Tatarinov}}
+|align="left"|{{flag|Russia}}
+|D
+|161 || 21 || 48 || 69 || 184|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1984 NHL Entry Draft|1984]]
+|12
+|246
+|align="left"|{{sortname|Per|Schederin|nolink=1}}
+|align="left"|{{flag|Sweden}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|'''1'''
+|19
+|align="left" bgcolor="#FFE6BD"|{{sortname|Yvon|Corriveau}}
+|align="left"|{{flag|Canada}}
+|LW
+|280 || 48 || 40 || 88 || 310|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|2
+|40
+|align="left" bgcolor="#FFE6BD"|{{sortname|John|Druce}}
+|align="left"|{{flag|Canada}}
+|RW
+|531 || 113 || 126 || 239 || 347|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|3
+|61
+|align="left" bgcolor="#FFE6BD"|{{sortname|Rob|Murray}}
+|align="left"|{{flag|Canada}}
+|C
+|107 || 4 || 15 || 19 || 111|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|4
+|82
+|align="left" bgcolor="#FFE6BD"|{{sortname|Bill|Houlder}}
+|align="left"|{{flag|Canada}}
+|D
+|846 || 59 || 191 || 250 || 412|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|4
+|83
+|align="left"|{{sortname|Larry|Shaw|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|5
+|103
+|align="left"|{{sortname|Claude|Dumas|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|6
+|124
+|align="left"|{{sortname|Doug|Stromback}}
+|align="left"|{{flag|United States}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|7
+|145
+|align="left"|{{sortname|Jamie|Nadjiwan|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|8
+|166
+|align="left"|{{sortname|Mark|Haarmann|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|9
+|187
+|align="left"|{{sortname|Steve|Hollett|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|10
+|208
+|align="left"|{{sortname|Dallas|Eakins}}
+|align="left"|{{flag|United States}}
+|D
+|120 || 0 || 9 || 9 || 208|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|11
+|229
+|align="left"|{{sortname|Steve|Hrynewich|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1985 NHL Entry Draft|1985]]
+|12
+|250
+|align="left"|{{sortname|Frank|Di Muzio|nolink=1}}
+|align="left"|{{flag|Italy}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|'''1'''
+|19
+|align="left" bgcolor="#FFE6BD"|{{sortname|Jeff|Greenlaw}}
+|align="left"|{{flag|Canada}}
+|LW
+|57 || 3 || 6 || 9 || 108|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|2
+|40
+|align="left" bgcolor="#DDFFDD"|{{sortname|Steve|Seftel}}
+|align="left"|{{flag|Canada}}
+|LW
+|4 || 0 || 0 || 0 || 2|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|3
+|60
+|align="left"|{{sortname|Shawn|Simpson}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|3
+|61
+|align="left" bgcolor="#FFE6BD"|{{sortname|Jim|Hrivnak}}
+|align="left"|{{flag|Canada}}
+|G
+|85 || 0 || 5 || 5 || 2 || 34 || 30 || 3 || {{sort|-0.1|—}} || 3.73
+|-
+|[[1986 NHL Entry Draft|1986]]
+|4
+|82
+|align="left"|{{sortname|Erin|Ginnell|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|5
+|103
+|align="left" bgcolor="#DDFFDD"|{{sortname|John|Purves}}
+|align="left"|{{flag|Canada}}
+|RW
+|7 || 1 || 0 || 1 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|6
+|124
+|align="left"|{{sortname|Stefan|Nilsson|dab=ice hockey|nolink=1}}
+|align="left"|{{flag|Sweden}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|7
+|145
+|align="left"|{{sortname|Peter|Choma|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|8
+|166
+|align="left"|{{sortname|Lee|Davidson}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|9
+|187
+|align="left"|{{sortname|Tero|Toivola|nolink=1}}
+|align="left"|{{flag|Finland}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|10
+|208
+|align="left" bgcolor="#DDFFDD"|{{sortname|Bob|Babcock}}
+|align="left"|{{flag|Canada}}
+|D
+|2 || 0 || 0 || 0 || 2|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|11
+|229
+|align="left"|{{sortname|John|Schratz|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Entry Draft|1986]]
+|12
+|250
+|align="left"|{{sortname|Scott|McCrory}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1986 NHL Supplemental Draft|1986]]
+|{{sort|26|S}}
+|{{sort|323|23}}
+|align="left"|{{sortname|Steve|Cousins|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1987 NHL Entry Draft|1987]] 
+|2 
+|36 
+|align="left"|{{sortname|Jeff|Ballantyne|nolink=1}} 
+|align="left"|{{flag|Canada}}
+|D 
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} 
+|-
+|[[1987 NHL Entry Draft|1987]] 
+|3 
+|57 
+|align="left" bgcolor="#FFE6BD"|{{sortname|Steve|Maltais}}
+|align="left"|{{flag|Canada}}
+|W
+|120 || 9 || 18 || 27 || 53|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1987 NHL Entry Draft|1987]] 
+|4 
+|78
+|align="left" bgcolor="#DDFFDD"|{{sortname|Tyler|Larter}}
+|align="left"|{{flag|Canada}}
+|C
+|1 || 0 || 0 || 0 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1987 NHL Entry Draft|1987]] 
+|5 
+|99 
+|align="left"|{{sortname|Pat|Beauchesne|nolink=1}} 
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1987 NHL Entry Draft|1987]] 
+|6 
+|120
+|align="left"|{{sortname|Rich|DeFreitas|nolink=1}} 
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1987 NHL Entry Draft|1987]] 
+|7
+|141
+|align="left"|{{sortname|Devon|Oleniuk|nolink=1}} 
+|align="left"|{{flag|Canada}}
+|D 
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1987 NHL Entry Draft|1987]] 
+|8
+|162
+|align="left"|{{sortname|Thomas|Sjogren|Thomas Sjögren}}
+|align="left"|{{flag|Sweden}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1987 NHL Entry Draft|1987]] 
+|10
+|204
+|align="left"|{{sortname|Chris|Clarke|nolink=1}} 
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1987 NHL Entry Draft|1987]] 
+|11
+|225
+|align="left"|{{sortname|Milos|Vanik|nolink=1}} 
+|align="left"|{{flag|Germany}}
+|C 
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1987 NHL Entry Draft|1987]] 
+|12
+|240
+|align="left"|{{sortname|Dan|Brettschneider|nolink=1}} 
+|align="left"|{{flag|United States}}
+|C 
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1987 NHL Entry Draft|1987]] 
+|12
+|246
+|align="left"|{{sortname|Ryan|Kummu|nolink=1}} 
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1987 NHL Supplemental Draft|1987]]
+|{{sort|26|S}}
+|{{sort|319|19}}
+|align="left"|{{sortname|Mark|Anderson|nolink=1}}
+|align="left"|{{flag|United States}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|'''1'''
+|15
+|align="left" bgcolor="#FFE6BD"|{{sortname|Reggie|Savage}}
+|align="left"|{{flag|Canada}}
+|RW
+|34 || 5 || 7 || 12 || 28|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|2
+|36
+|align="left"|{{sortname|Tim|Taylor|dab=ice hockey, born 1969}}
+|align="left"|{{flag|Canada}}
+|C
+|746 || 73 || 94 || 167 || 433|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|2
+|41
+|align="left"|{{sortname|Wade|Bartley|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|3
+|57
+|align="left"|{{sortname|Duane|Derksen|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|4
+|78
+|align="left"|{{sortname|Rob|Krauss|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|6
+|120
+|align="left" bgcolor="#FFE6BD"|{{sortname|Dmitri|Khristich}}
+|align="left"|{{flag|Ukraine}}
+|RW
+|811 || 259 || 337 || 596 || 422|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|7
+|141
+|align="left" bgcolor="#FFE6BD"|{{sortname|Keith|Jones|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|RW
+|491 || 117 || 141 || 258 || 765|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|7
+|144
+|align="left" bgcolor="#FFE6BD"|{{sortname|Brad|Schlegel}}
+|align="left"|{{flag|Canada}}
+|D
+|48 || 1 || 8 || 9 || 10|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|8
+|162
+|align="left"|{{sortname|Todd|Hilditch|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|9
+|183
+|align="left"|{{sortname|Petr|Pavlas}}
+|align="left"|{{flag|Czech Republic}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|10
+|192
+|align="left"|{{sortname|Mark|Sorensen|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|10
+|204
+|align="left"|{{sortname|Claudio|Scremin}}
+|align="left"|{{flag|Canada}}
+|D
+|17 || 0 || 1 || 1 || 29|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|11
+|225
+|align="left"|{{sortname|Chris|Venkus|nolink=1}}
+|align="left"|{{flag|United States}}
+|W
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Entry Draft|1988]]
+|12
+|246
+|align="left"|{{sortname|Ron|Pascucci|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1988 NHL Supplemental Draft|1988]]
+|{{sort|26|S}}
+|{{sort|320|20}}
+|align="left"|{{sortname|Harry|Mews|nolink=1}}
+|align="left"|{{flag|Canada}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1989 NHL Entry Draft|1989]]
+|'''1'''
+|19
+|align="left" bgcolor="#FFE6BD"|{{sortname|Olaf|Kolzig|Olaf Kölzig}}
+|align="left"|{{flag|Germany}}
+|G
+|719 || 0 || 17 || 17 || 107 || 303 || 297 || 63 || 24 || 2.71
+|-
+|[[1989 NHL Entry Draft|1989]]
+|2
+|35
+|align="left" bgcolor="#FFE6BD"|{{sortname|Byron|Dafoe}}
+|align="left"|{{flag|Canada}}
+|G
+|415 || 0 || 8 || 8 || 68 || 171 || 170 || 56 || {{sort|-0.1|—}} || 2.69
+|-
+|[[1989 NHL Entry Draft|1989]]
+|3
+|59
+|align="left" bgcolor="#DDFFDD"|{{sortname|Jim|Mathieson|Jim Mathieson (ice hockey)}}
+|align="left"|{{flag|Canada}}
+|D
+|2 || 0 || 0 || 0 || 4|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1989 NHL Entry Draft|1989]]
+|3
+|61
+|align="left" bgcolor="#FFE6BD"|{{sortname|Jason|Woolley}}
+|align="left"|{{flag|Canada}}
+|D
+|718 || 68 || 246 || 314 || 430|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1989 NHL Entry Draft|1989]]
+|4
+|82
+|align="left"|{{sortname|Trent|Klatt}}
+|align="left"|{{flag|United States}}
+|RW
+|782 || 143 || 200 || 343 || 307|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1989 NHL Entry Draft|1989]]
+|7
+|145
+|align="left"|{{sortname|Dave|Lorentz|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1989 NHL Entry Draft|1989]]
+|8
+|166
+|align="left"|{{sortname|Dean|Holoien|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1989 NHL Entry Draft|1989]]
+|9
+|187
+|align="left"|{{sortname|Victor|Gervais}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1989 NHL Entry Draft|1989]]
+|10
+|208
+|align="left"|{{sortname|Jiri|Vykoukal|Jiří Vykoukal}}
+|align="left"|{{flag|Czech Republic}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1989 NHL Entry Draft|1989]]
+|11
+|229
+|align="left"|{{sortname|Andrei|Sidorov|nolink=1}}
+|align="left"|{{flag|Ukraine}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1989 NHL Entry Draft|1989]]
+|12
+|250
+|align="left"|{{sortname|Ken|House|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1989 NHL Supplemental Draft|1989]]
+|{{sort|26|S}}
+|{{sort|324|24}}
+|align="left"|{{sortname|Karl|Clauss|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|'''1'''
+|9
+|align="left" bgcolor="#FFE6BD"|{{sortname|John|Slaney}}
+|align="left"|{{flag|Canada}}
+|D
+|268 || 22 || 69 || 91 || 99|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|2
+|30
+|align="left"|{{sortname|Rod|Pasma|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|3
+|51
+|align="left"|{{sortname|Chris|Longo|dab=ice hockey|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|4
+|72
+|align="left"|{{sortname|Randy|Pearce|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|5
+|93
+|align="left"|{{sortname|Brian|Sakic}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|5
+|94
+|align="left"|{{sortname|Mark|Ouimet}}
+|align="left"|{{flag|Switzerland}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|6
+|114
+|align="left"|{{sortname|Andrei|Kovalev}}
+|align="left"|{{flag|Belarus}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|7
+|135
+|align="left"|{{sortname|Roman|Kontsek|Roman Kontšek}}
+|align="left"|{{flag|Slovakia}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|8
+|156
+|align="left" bgcolor="#FFE6BD"|{{sortname|Peter|Bondra}}
+|align="left"|{{flag|Slovakia}}
+|RW
+|1081 || 503 || 389 || 892 || 761|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|8
+|159
+|align="left"|{{sortname|Steve|Martell|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|9
+|177
+|align="left" bgcolor="#FFE6BD"|{{sortname|Ken|Klee}}
+|align="left"|{{flag|United States}}
+|D
+|934 || 55 || 140 || 195 || 880|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|10
+|198
+|align="left"|{{sortname|Mike|Boback|nolink=1}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|11
+|219
+|align="left"|{{sortname|Alan|Brown|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Entry Draft|1990]]
+|12
+|240
+|align="left"|{{sortname|Todd|Hlushko}}
+|align="left"|{{flag|Canada}}
+|LW
+|79 || 8 || 13 || 21 || 84|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1990 NHL Supplemental Draft|1990]]
+|{{sort|26|S}}
+|{{sort|313|13}}
+|align="left"|{{sortname|Martin|Jiranek|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|'''1'''
+|14
+|align="left" bgcolor="#DDFFDD"|{{sortname|Pat|Peake}}
+|align="left"|{{flag|United States}}
+|RW
+|134 || 28 || 41 || 69 || 105|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|'''1'''
+|21
+|align="left" bgcolor="#DDFFDD"|{{sortname|Trevor|Halverson}}
+|align="left"|{{flag|Canada}}
+|LW
+|17 || 0 || 4 || 4 || 28|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|2
+|25
+|align="left"|{{sortname|Eric|Lavigne}}
+|align="left"|{{flag|Canada}}
+|D
+|1 || 0 || 0 || 0 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|2
+|36
+|align="left" bgcolor="#FFE6BD"|{{sortname|Jeff|Nelson|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|C
+|52 || 3 || 8 || 11 || 20|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|3
+|58
+|align="left" bgcolor="#FFE6BD"|{{sortname|Steve|Konowalchuk}}
+|align="left"|{{flag|United States}}
+|LW
+|790 || 171 || 225 || 396 || 703|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|4
+|80
+|align="left"|{{sortname|Justin|Morrison|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|7
+|146
+|align="left"|{{sortname|Dave|Morissette}}
+|align="left"|{{flag|Canada}}
+|LW
+|11 || 0 || 0 || 0 || 57|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|8
+|168
+|align="left"|{{sortname|Rick|Corriveau|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|9
+|190
+|align="left"|{{sortname|Trevor|Duhaime|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|10
+|209
+|align="left"|{{sortname|Rob|Leask}}
+|align="left"|{{flag|Germany}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|10
+|212
+|align="left"|{{sortname|Carl|LeBlanc|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|11
+|234
+|align="left"|{{sortname|Rob|Puchniak|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Entry Draft|1991]]
+|12
+|256
+|align="left"|{{sortname|Bill|Kovacs|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1991 NHL Supplemental Draft|1991]]
+|{{sort|26|S}}
+|{{sort|320|20}}
+|align="left"|{{sortname|Mike|Brewer|nolink=1}}
+|align="left"|{{flag|Canada}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1992 NHL Entry Draft|1992]]
+|'''1'''
+|14
+|align="left" bgcolor="#FFE6BD"|{{sortname|Sergei|Gonchar}}
+|align="left"|{{flag|Russia}}
+|D
+|1301 || 220 || 591 || 811 || 981|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1992 NHL Entry Draft|1992]]
+|2
+|32
+|align="left" bgcolor="#FFE6BD"|{{sortname|Jim|Carey|dab=ice hockey}}
+|align="left"|{{flag|United States}}
+|G
+|172 || 0 || 1 || 1 || 8 || 79 || 65 || 16 || {{sort|-0.1|—}} || 2.58
+|-
+|[[1992 NHL Entry Draft|1992]]
+|3
+|53
+|align="left" bgcolor="#DDFFDD"|{{sortname|Stefan|Ustorf}}
+|align="left"|{{flag|Germany}}
+|C
+|54 || 7 || 10 || 17 || 16|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1992 NHL Entry Draft|1992]]
+|3
+|71
+|align="left" bgcolor="#FFE6BD"|{{sortname|Martin|Gendron}}
+|align="left"|{{flag|Canada}}
+|RW
+|30 || 4 || 2 || 6 || 10|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[1992 NHL Entry Draft|1992]]
+|5
+|119
+|align="left"|{{sortname|John|Varga|nolink=1}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[1992 NHL Entry Draft|1992]]
+|7
+|167
+|align="left"|{{sortname|Mark|Matier|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[1992 NHL Entry Draft|1992]]
+|8
+|191
+|align="left"|{{sortname|Mike|Mathers|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[1992 NHL Entry Draft|1992]]
+|9
+|215
+|align="left"|{{sortname|Brian|Stagg|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[1992 NHL Entry Draft|1992]]
+|10
+|239
+|align="left"|{{sortname|Greg|Callahan|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[1992 NHL Entry Draft|1992]]
+|11
+|263
+|align="left"|{{sortname|B. J.|MacPherson|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1993 NHL Entry Draft|1993]]
+|'''1'''
+|11
+|align="left" bgcolor="#FFE6BD"|{{sortname|Brendan|Witt}}
+|align="left"|{{flag|Canada}}
+|C
+|890 || 25 || 96 || 121 || 1424|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1993 NHL Entry Draft|1993]]
+|'''1'''
+|17
+|align="left" bgcolor="#FFE6BD"|{{sortname|Jason|Allison}}
+|align="left"|{{flag|Canada}}
+|C
+|552 || 154 || 331 || 485 || 441|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1993 NHL Entry Draft|1993]]
+|3
+|69
+|align="left" bgcolor="#FFE6BD"|{{sortname|Patrick|Boileau}}
+|align="left"|{{flag|Canada}}
+|D
+|48 || 5 || 11 || 16 || 26|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1993 NHL Entry Draft|1993]]
+|6
+|147
+|align="left"|{{sortname|Frank|Banham}}
+|align="left"|{{flag|Canada}}
+|RW
+|32 || 9 || 2 || 11 || 16|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1993 NHL Entry Draft|1993]]
+|7
+|173
+|align="left"|{{sortname|Dan|Hendrickson|nolink=1}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1993 NHL Entry Draft|1993]]
+|7
+|174
+|align="left" bgcolor="#FFE6BD"|{{sortname|Andrew|Brunette}}
+|align="left"|{{flag|Canada}}
+|LW
+|1110 || 268 || 465 || 733 || 314|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1993 NHL Entry Draft|1993]]
+|8
+|199
+|align="left"|{{sortname|Joel|Poirier|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1993 NHL Entry Draft|1993]]
+|9
+|225
+|align="left"|{{sortname|Jason|Gladney|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1993 NHL Entry Draft|1993]]
+|10
+|251
+|align="left"|{{sortname|Marc|Seliger}}
+|align="left"|{{flag|Germany}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1993 NHL Entry Draft|1993]]
+|11
+|277
+|align="left"|{{sortname|Dany|Bousquet|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|-
+|[[1994 NHL Entry Draft|1994]]
+|'''1'''
+|10
+|align="left" bgcolor="#FFE6BD"|{{sortname|Nolan|Baumgartner}}
+|align="left"|{{flag|Canada}}
+|D
+|143 || 7 || 40 || 47 || 69|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1994 NHL Entry Draft|1994]]
+|'''1'''
+|15
+|align="left"|{{sortname|Alexander|Kharlamov}}
+|align="left"|{{flag|Russia}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1994 NHL Entry Draft|1994]]
+|2
+|41
+|align="left"|{{sortname|Scott|Cherrey|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1994 NHL Entry Draft|1994]]
+|4
+|93
+|align="left" bgcolor="#FFE6BD"|{{sortname|Matt|Herr}}
+|align="left"|{{flag|United States}}
+|C
+|58 || 4 || 5 || 9 || 25|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1994 NHL Entry Draft|1994]]
+|5
+|119
+|align="left"|{{sortname|Yanick|Jean|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1994 NHL Entry Draft|1994]]
+|6
+|145
+|align="left"|{{sortname|Dmitri|Mekeshkin|nolink=1}}
+|align="left"|{{flag|Russia}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1994 NHL Entry Draft|1994]]
+|7
+|171
+|align="left"|{{sortname|Dan|Reja|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1994 NHL Entry Draft|1994]]
+|8
+|197
+|align="left"|{{sortname|Chris|Patrick|nolink=1}}
+|align="left"|{{flag|United States}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1994 NHL Entry Draft|1994]]
+|9
+|223
+|align="left"|{{sortname|John|Tuohy|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1994 NHL Entry Draft|1994]]
+|10
+|249
+|align="left" bgcolor="#FFE6BD"|{{sortname|Richard|Zednik|Richard Zedník}}
+|align="left"|{{flag|Slovakia}}
+|RW
+|745 || 200 || 179 || 379 || 563|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1994 NHL Entry Draft|1994]]
+|11
+|275
+|align="left"|{{sortname|Sergey|Tertyshny}}
+|align="left"|{{flag|Russia}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1995 NHL Entry Draft|1995]]
+|'''1'''
+|17
+|align="left" bgcolor="#DDFFDD"|{{sortname|Brad|Church}}
+|align="left"|{{flag|Canada}}
+|LW
+|2 || 0 || 0 || 0 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1995 NHL Entry Draft|1995]]
+|'''1'''
+|23
+|align="left" bgcolor="#DDFFDD"|{{sortname|Miika|Elomo}}
+|align="left"|{{flag|Finland}}
+|LW
+|2 || 0 || 1 || 1 || 2|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1995 NHL Entry Draft|1995]]
+|2
+|43
+|align="left" bgcolor="#FFE6BD"|{{sortname|Dwayne|Hay}}
+|align="left"|{{flag|Canada}}
+|LW
+|79 || 2 || 4 || 6 || 22|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1995 NHL Entry Draft|1995]]
+|4
+|93
+|align="left" bgcolor="#DDFFDD"|{{sortname|Sebastien|Charpentier|Sébastien Charpentier (ice hockey)}}
+|align="left"|{{flag|Canada}}
+|G
+|26 || 0 || 0 || 0 || 0 || 6 || 14 || 1 || {{sort|-0.1|—}} || 2.93
+|-
+|[[1995 NHL Entry Draft|1995]]
+|4
+|95
+|align="left"|{{sortname|Joel|Theriault|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1995 NHL Entry Draft|1995]]
+|5
+|105
+|align="left" bgcolor="#FFE6BD"|{{sortname|Benoit|Gratton|Benoît Gratton}}
+|align="left"|{{flag|Canada}}
+|C
+|58 || 6 || 10 || 16 || 58|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1995 NHL Entry Draft|1995]]
+|5
+|124
+|align="left"|{{sortname|Joel|Cort|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1995 NHL Entry Draft|1995]]
+|6
+|147
+|align="left"|{{sortname|Frederick|Jobin|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1995 NHL Entry Draft|1995]]
+|8
+|199
+|align="left"|{{sortname|Vasily|Turkovsky|nolink=1}}
+|align="left"|{{flag|Russia}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1995 NHL Entry Draft|1995]]
+|9
+|225
+|align="left"|{{sortname|Scott|Swanson|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1996 NHL Entry Draft|1996]]
+|'''1'''
+|4
+|align="left" bgcolor="#DDFFDD"|{{sortname|Alexander|Volchkov|dab=ice hockey, born 1977}}
+|align="left"|{{flag|Russia}}
+|RW
+|3 || 0 || 0 || 0 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1996 NHL Entry Draft|1996]]
+|'''1'''
+|17
+|align="left" bgcolor="#FFE6BD"|{{sortname|Jaroslav|Svejkovsky|Jaroslav Svejkovský}}
+|align="left"|{{flag|Czech Republic}}
+|LW
+|113 || 23 || 19 || 42 || 56|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1996 NHL Entry Draft|1996]]
+|2
+|43
+|align="left" bgcolor="#FFE6BD"|{{sortname|Jan|Bulis}}
+|align="left"|{{flag|Czech Republic}}
+|C
+|552 || 96 || 149 || 245 || 268|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1996 NHL Entry Draft|1996]]
+|3
+|58
+|align="left"|{{sortname|Sergei|Zimakov}}
+|align="left"|{{flag|Russia}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1996 NHL Entry Draft|1996]]
+|3
+|74
+|align="left"|{{sortname|David|Weninger|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[1996 NHL Entry Draft|1996]]
+|3
+|78
+|align="left"|{{sortname|Shawn|McNeil|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1996 NHL Entry Draft|1996]]
+|4
+|85
+|align="left"|{{sortname|Justin|Davis|dab=ice hockey|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1996 NHL Entry Draft|1996]]
+|5
+|126
+|align="left"|{{sortname|Matt|Lahey|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1996 NHL Entry Draft|1996]]
+|6
+|153
+|align="left"|{{sortname|A. J.|Van Bruggen|nolink=1}}
+|align="left"|{{flag|United States}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1996 NHL Entry Draft|1996]]
+|7
+|180
+|align="left"|{{sortname|Mike|Anderson|nolink=1}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1996 NHL Entry Draft|1996]]
+|8
+|206
+|align="left"|{{sortname|Oleg|Orekhovsky|nolink=1}}
+|align="left"|{{flag|Russia}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1996 NHL Entry Draft|1996]]
+|9
+|232
+|align="left"|{{sortname|Chad|Cavanagh|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1997 NHL Entry Draft|1997]]
+|'''1'''
+|9
+|align="left"|{{sortname|Nick|Boynton}}
+|align="left"|{{flag|Canada}}
+|C
+|605 || 34 || 110 || 144 || 862|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1997 NHL Entry Draft|1997]]
+|2
+|35
+|align="left" bgcolor="#DDFFDD"|{{sortname|Jean-François|Fortin|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|D
+|71 || 1 || 4 || 5 || 42|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1997 NHL Entry Draft|1997]]
+|3
+|89
+|align="left"|{{sortname|Curtis|Cruickshank|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1997 NHL Entry Draft|1997]]
+|5
+|116
+|align="left"|{{sortname|Kevin|Caulfield|nolink=1}}
+|align="left"|{{flag|United States}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1997 NHL Entry Draft|1997]]
+|6
+|143
+|align="left"|{{sortname|Henrik|Petre|Henrik Petré}}
+|align="left"|{{flag|Sweden}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1997 NHL Entry Draft|1997]]
+|8
+|200
+|align="left"|{{sortname|Pierre-Luc|Therrien|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1997 NHL Entry Draft|1997]]
+|9
+|226
+|align="left"|{{sortname|Matt|Oikawa|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1998 NHL Entry Draft|1998]]
+|2
+|49
+|align="left"|{{sortname|Jormar|Cruz|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1998 NHL Entry Draft|1998]]
+|3
+|59
+|align="left"|{{sortname|Todd|Hornung|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1998 NHL Entry Draft|1998]]
+|4
+|106
+|align="left"|{{sortname|Krys|Barch}}
+|align="left"|{{flag|Canada}}
+|RW
+|381 || 12 || 23 || 35 || 812|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1998 NHL Entry Draft|1998]]
+|4
+|107
+|align="left" bgcolor="#DDFFDD"|{{sortname|Chris|Corrinet}}
+|align="left"|{{flag|United States}}
+|RW
+|8 || 0 || 1 || 1 || 6|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1998 NHL Entry Draft|1998]]
+|5
+|118
+|align="left"|{{sortname|Mike|Siklenka}}
+|align="left"|{{flag|Canada}}
+|D
+|2 || 0 || 0 || 0 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1998 NHL Entry Draft|1998]]
+|5
+|125
+|align="left"|{{sortname|Erik|Wendell|nolink=1}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1998 NHL Entry Draft|1998]]
+|7
+|179
+|align="left"|{{sortname|Nathan|Forster|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1998 NHL Entry Draft|1998]]
+|7
+|193
+|align="left" bgcolor="#DDFFDD"|{{sortname|Rastislav|Stana|Rastislav Staňa}}
+|align="left"|{{flag|Slovakia}}
+|G
+|6 || 0 || 0 || 0 || 0 || 1 || 2 || 0 || {{sort|-0.1|—}} || 3.13
+|-
+|[[1998 NHL Entry Draft|1998]]
+|8
+|220
+|align="left" bgcolor="#FFE6BD"|{{sortname|Mike|Farrell|dab=ice hockey}}
+|align="left"|{{flag|United States}}
+|RW
+|13 || 0 || 0 || 0 || 2|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1998 NHL Entry Draft|1998]]
+|9
+|251
+|align="left"|{{sortname|Blake|Evans}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1999 NHL Entry Draft|1999]]
+|'''1'''
+|7
+|align="left" bgcolor="#FFE6BD"|{{sortname|Kris|Beech}}
+|align="left"|{{flag|Canada}}
+|C
+|198 || 25 || 42 || 67 || 113|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1999 NHL Entry Draft|1999]]
+|2
+|29
+|align="left"|{{sortname|Michal|Sivek}}
+|align="left"|{{flag|Czech Republic}}
+|C
+|38 || 3 || 3 || 6 || 14|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1999 NHL Entry Draft|1999]]
+|2
+|31
+|align="left"|{{sortname|Charlie|Stephens}}
+|align="left"|{{flag|Canada}}
+|C
+|8 || 0 || 2 || 2 || 4|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1999 NHL Entry Draft|1999]]
+|2
+|34
+|align="left"|{{sortname|Ross|Lupaschuk}}
+|align="left"|{{flag|Canada}}
+|D
+|3 || 0 || 0 || 0 || 4|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1999 NHL Entry Draft|1999]]
+|2
+|37
+|align="left" bgcolor="#FFE6BD"|{{sortname|Nolan|Yonkman}}
+|align="left"|{{flag|Canada}}
+|D
+|76 || 1 || 9 || 10 || 140|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1999 NHL Entry Draft|1999]]
+|5
+|132
+|align="left" bgcolor="#DDFFDD"|{{sortname|Roman|Tvrdon|Roman Tvrdoň}}
+|align="left"|{{flag|Slovakia}}
+|LW
+|9 || 0 || 1 || 1 || 2|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[1999 NHL Entry Draft|1999]]
+|6
+|175
+|align="left"|{{sortname|Kyle|Clark|nolink=1}}
+|align="left"|{{flag|United States}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1999 NHL Entry Draft|1999]]
+|7
+|192
+|align="left"|{{sortname|David|Bornhammar|nolink=1}}
+|align="left"|{{flag|Sweden}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1999 NHL Entry Draft|1999]]
+|8
+|219
+|align="left"|{{sortname|Maxim|Orlov}}
+|align="left"|{{flag|Russia}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[1999 NHL Entry Draft|1999]]
+|9
+|249
+|align="left"|{{sortname|Igor|Shadilov}}
+|align="left"|{{flag|Russia}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2000 NHL Entry Draft|2000]]
+|'''1'''
+|26
+|align="left" bgcolor="#FFE6BD"|{{sortname|Brian|Sutherby}}
+|align="left"|{{flag|Canada}}
+|C
+|460 || 41 || 49 || 90 || 533|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2000 NHL Entry Draft|2000]]
+|2
+|43
+|align="left" bgcolor="#FFE6BD"|{{sortname|Matt|Pettinger}}
+|align="left"|{{flag|Canada}}
+|LW
+|422 || 65 || 58 || 123 || 210|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2000 NHL Entry Draft|2000]]
+|2
+|61
+|align="left" bgcolor="#DDFFDD"|{{sortname|Jakub|Cutta|Jakub Čutta}}
+|align="left"|{{flag|Czech Republic}}
+|D
+|8 || 0 || 0 || 0 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2000 NHL Entry Draft|2000]]
+|4
+|100
+|align="left"|{{sortname|Ryan|Van Buskirk|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2000 NHL Entry Draft|2000]]
+|5
+|163
+|align="left"|{{sortname|Ivan|Nepryaev}}
+|align="left"|{{flag|Russia}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2000 NHL Entry Draft|2000]]
+|9
+|289
+|align="left"|{{sortname|Bjorn|Nord|Björn Nord}}
+|align="left"|{{flag|Sweden}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2001 NHL Entry Draft|2001]]
+|2
+|58
+|align="left"|{{sortname|Nathan|Paetsch}}
+|align="left"|{{flag|Canada}}
+|D
+|167 || 7 || 35 || 42 || 114|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2001 NHL Entry Draft|2001]]
+|3
+|90
+|align="left" bgcolor="#DDFFDD"|{{sortname|Owen|Fussey}}
+|align="left"|{{flag|Canada}}
+|LW
+|4 || 0 || 1 || 1 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2001 NHL Entry Draft|2001]]
+|4
+|125
+|align="left"|{{sortname|Jeff|Lucky|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2001 NHL Entry Draft|2001]]
+|5
+|160
+|align="left"|{{sortname|Artyom|Ternavsky}}
+|align="left"|{{flag|Russia}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2001 NHL Entry Draft|2001]]
+|6
+|191
+|align="left"|{{sortname|Zbynek|Novak|Zbyněk Novák}}
+|align="left"|{{flag|Czech Republic}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2001 NHL Entry Draft|2001]]
+|7
+|221
+|align="left"|{{sortname|Johnny|Oduya}}
+|align="left"|{{flag|Sweden}}
+|D
+| 850 || 41 || 149 || 190 || 372 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2001 NHL Entry Draft|2001]]
+|8
+|249
+|align="left"|{{sortname|Matthew|Maglione|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2001 NHL Entry Draft|2001]]
+|8
+|254
+|align="left"|{{sortname|Petr|Polcik|nolink=1}}
+|align="left"|{{flag|Slovakia}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2001 NHL Entry Draft|2001]]
+|9
+|275
+|align="left"|{{sortname|Robert|Muller|Robert Müller (hockey)}}
+|align="left"|{{flag|Germany}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2001 NHL Entry Draft|2001]]
+|9
+|284
+|align="left"|{{sortname|Viktor|Hubl|Viktor Hübl}}
+|align="left"|{{flag|Czech Republic}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2002 NHL Entry Draft|2002]]
+|'''1'''
+|12
+|align="left" bgcolor="#FFE6BD"|{{sortname|Steve|Eminger}}
+|align="left"|{{flag|Canada}}
+|D
+|488 || 19 || 80 || 99 || 359|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2002 NHL Entry Draft|2002]]
+|'''1'''
+|13
+|align="left" bgcolor="#FFE6BD"|{{sortname|Alexander|Semin}}
+|align="left"|{{flag|Russia}}
+|LW
+| 650 || 239 || 278 || 517 || 582 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2002 NHL Entry Draft|2002]]
+|'''1'''
+|17
+|align="left" bgcolor="#FFE6BD"|{{sortname|Boyd|Gordon}}
+|align="left"|{{flag|Canada}}
+|RW
+| 706 || 56 || 105 || 161 || 149 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[2002 NHL Entry Draft|2002]]
+|2
+|59
+|align="left"|{{sortname|Maxime|Daigneault|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[2002 NHL Entry Draft|2002]]
+|3
+|77
+|align="left"|{{sortname|Patrick|Wellar}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[2002 NHL Entry Draft|2002]]
+|3
+|92
+|align="left"|{{sortname|Derek|Krestanovich|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[2002 NHL Entry Draft|2002]]
+|4
+|109
+|align="left"|{{sortname|Jevon|Desautels|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[2002 NHL Entry Draft|2002]]
+|4
+|118
+|align="left"|{{sortname|Petr|Dvorak|Petr Dvořák|nolink=1}}
+|align="left"|{{flag|Czech Republic}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[2002 NHL Entry Draft|2002]]
+|5
+|145
+|align="left"|{{sortname|Robert|Gherson|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[2002 NHL Entry Draft|2002]]
+|6
+|179
+|align="left"|{{sortname|Marian|Havel|Marián Havel|nolink=1}}
+|align="left"|{{flag|Czech Republic}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[2002 NHL Entry Draft|2002]]
+|7
+|209
+|align="left"|{{sortname|Joni|Lindlof|nolink=1}}
+|align="left"|{{flag|Finland}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[2002 NHL Entry Draft|2002]]
+|8
+|242
+|align="left"|{{sortname|Igor|Ignatushkin}}
+|align="left"|{{flag|Russia}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[2002 NHL Entry Draft|2002]]
+|9
+|272
+|align="left"|{{sortname|Patric|Blomdahl}}
+|align="left"|{{flag|Sweden}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2003 NHL Entry Draft|2003]]
+|'''1'''
+|18
+|align="left" bgcolor="#FFE6BD"|{{sortname|Eric|Fehr}}
+|align="left"|{{flag|Canada}}
+|RW
+|652 || 113 || 108 || 221 || 217 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2003 NHL Entry Draft|2003]]
+|3
+|83
+|align="left"|{{sortname|Stephen|Werner}}
+|align="left"|{{flag|United States}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|- 
+|[[2003 NHL Entry Draft|2003]]
+|4
+|109
+|align="left"|{{sortname|Andreas|Valdix}}
+|align="left"|{{flag|Sweden}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2003 NHL Entry Draft|2003]]
+|5
+|155
+|align="left"|{{sortname|Josh|Robertson|nolink=1}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2003 NHL Entry Draft|2003]]
+|8
+|249
+|align="left"|{{sortname|Andrew|Joudrey}}
+|align="left"|{{flag|Canada}}
+|C
+|1 || 0 || 0 || 0 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2003 NHL Entry Draft|2003]]
+|9
+|279
+|align="left"|{{sortname|Mark|Olafson|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|'''1'''
+|1
+|align="left" bgcolor="#DDFFDD"|{{sortname|Alexander|Ovechkin}}
+|align="left"|{{flag|Russia}}
+|LW
+| 1152 || 706 || 572 || 1278 || 719 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|'''1'''
+|27
+|align="left" bgcolor="#FFE6BD"|{{sortname|Jeff|Schultz}}
+|align="left"|{{flag|Canada}}
+|D
+| 409 || 11 || 65 || 76 || 137|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|'''1'''
+|29
+|align="left" bgcolor="#FFE6BD"|{{sortname|Mike|Green|dab=ice hockey, born 1985}}
+|align="left"|{{flag|Canada}}
+|D
+| 880 || 150 || 351 || 501 || 592 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|2
+|33
+|align="left" bgcolor="#FFE6BD"|{{sortname|Chris|Bourque}}
+|align="left"|{{flag|United States}}
+|LW
+|51 || 2 || 6 || 8 || 18|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|2
+|62
+|align="left"|{{sortname|Mikhail|Yunkov}}
+|align="left"|{{flag|Russia}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|3
+|66
+|align="left" bgcolor="#FFE6BD"|{{sortname|Sami|Lepisto|Sami Lepistö}}
+|align="left"|{{flag|Finland}}
+|D
+|176 || 6 || 29 || 35 || 137|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|3
+|88
+|align="left"|{{sortname|Clayton|Barthel|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|5
+|132
+|align="left"|{{sortname|Oscar|Hedman}}
+|align="left"|{{flag|Sweden}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|5
+|138
+|align="left"|{{sortname|Pasi|Salonen}}
+|align="left"|{{flag|Finland}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|6
+|166
+|align="left"|{{sortname|Peter|Guggisberg|nolink=1}}
+|align="left"|{{flag|Switzerland}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|7
+|197
+|align="left" bgcolor="#FFE6BD"|{{sortname|Andrew|Gordon|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|RW
+|55 || 3 || 4 || 7 || 6|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|8
+|230
+|align="left"|{{sortname|Justin|Mrazek|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2004 NHL Entry Draft|2004]]
+|9
+|263
+|align="left"|{{sortname|Travis|Morin}}
+|align="left"|{{flag|United States}}
+|C
+|13 || 0 || 1 || 1 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2005 NHL Entry Draft|2005]]
+|'''1'''
+|14
+|align="left"|{{sortname|Sasha|Pokulok}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2005 NHL Entry Draft|2005]]
+|'''1'''
+|27
+|align="left"|{{sortname|Joe|Finley}}
+|align="left"|{{flag|United States}}
+|D
+|21 || 0 || 1 || 1 || 32|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2005 NHL Entry Draft|2005]]
+|4
+|109
+|align="left"|{{sortname|Andy|Thomas|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2005 NHL Entry Draft|2005]]
+|4
+|118
+|align="left"|{{sortname|Patrick|McNeill}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2005 NHL Entry Draft|2005]]
+|5
+|143
+|align="left"|{{sortname|Daren|Machesney}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2005 NHL Entry Draft|2005]]
+|6
+|181
+|align="left"|{{sortname|Tim|Kennedy|dab=ice hockey}}
+|align="left"|{{flag|United States}}
+|LW
+|162 || 15 || 24 || 39 || 60|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2005 NHL Entry Draft|2005]]
+|7
+|209
+|align="left"|{{sortname|Viktor|Dovgan}}
+|align="left"|{{flag|Russia}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2006 NHL Entry Draft|2006]]
+|'''1'''
+|4
+|align="left" bgcolor="#DDFFDD"|{{sortname|Nicklas|Backstrom|Nicklas Bäckström}}
+|align="left"|{{flag|Sweden}}
+|C
+| 956 || 243 || 684 || 927 || 462 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2006 NHL Entry Draft|2006]]
+|'''1'''
+|23
+|align="left" bgcolor="#FFE6BD"|{{sortname|Semyon|Varlamov}}
+|align="left"|{{flag|Russia}}
+|G
+| 493 || 0 || 7 || 7 || 22 || 232 || 183 || {{sort|-0.1|—}} || 56 || 2.67
+|-
+|[[2006 NHL Entry Draft|2006]]
+|2
+|34
+|align="left" bgcolor="#FFE6BD"|{{sortname|Michal|Neuvirth}}
+|align="left"|{{flag|Czech Republic}}
+|G
+| 257 || 0 || 4 || 4 || 6 || 105 || 93 || {{sort|-0.1|—}} || 26 || 2.71
+|-
+|[[2006 NHL Entry Draft|2006]]
+|2
+|35
+|align="left"|{{sortname|Francois|Bouchard|François Bouchard (ice hockey, born 1988)}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2006 NHL Entry Draft|2006]]
+|2
+|52
+|align="left"|{{sortname|Keith|Seabrook}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2006 NHL Entry Draft|2006]]
+|4
+|97
+|align="left" bgcolor="#FFE6BD"|{{sortname|Oskar|Osala}}
+|align="left"|{{flag|Finland}}
+|LW
+|3 || 0 || 0 || 0 || 0|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2006 NHL Entry Draft|2006]]
+|4
+|122
+|align="left"|{{sortname|Luke|Lynes|nolink=1}}
+|align="left"|{{flag|United States}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2006 NHL Entry Draft|2006]]
+|5
+|127
+|align="left"|{{sortname|Maxime|Lacroix}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2006 NHL Entry Draft|2006]]
+|6
+|157
+|align="left"|{{sortname|Brent|Gwidt|nolink=1}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2006 NHL Entry Draft|2006]]
+|6
+|177
+|align="left" bgcolor="#FFE6BD"|{{sortname|Mathieu|Perreault}}
+|align="left"|{{flag|Canada}}
+|C
+| 627 || 130 || 195 || 325 || 302 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2007 NHL Entry Draft|2007]]
+|'''1'''
+|5
+|align="left" bgcolor="#FFE6BD"|{{sortname|Karl|Alzner}}
+|align="left"|{{flag|Canada}}
+|D
+| 686 || 20 || 110 || 130 || 219 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2007 NHL Entry Draft|2007]]
+|2
+|34
+|align="left"|{{sortname|Josh|Godfrey|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2007 NHL Entry Draft|2007]]
+|2
+|46
+|align="left"|{{sortname|Theo|Ruth|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2007 NHL Entry Draft|2007]]
+|3
+|84
+|align="left"|{{sortname|Phil|DeSimone}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2007 NHL Entry Draft|2007]]
+|4
+|108
+|align="left"|{{sortname|Brett|Bruneteau|nolink=1}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2007 NHL Entry Draft|2007]]
+|5
+|125
+|align="left"|{{sortname|Brett|Leffler|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2007 NHL Entry Draft|2007]]
+|6
+|154
+|align="left"|{{sortname|Dan|Dunn|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2007 NHL Entry Draft|2007]]
+|6
+|180
+|align="left"|{{sortname|Justin|Taylor|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2007 NHL Entry Draft|2007]]
+|7
+|185
+|align="left"|{{sortname|Nick|Larson|nolink=1}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2007 NHL Entry Draft|2007]]
+|7
+|199
+|align="left"|{{sortname|Andrew|Glass|nolink=1}}
+|align="left"|{{flag|United States}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2008 NHL Entry Draft|2008]]
+|'''1'''
+|21
+|align="left"|{{sortname|Anton|Gustafsson}}
+|align="left"|{{flag|Sweden}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2008 NHL Entry Draft|2008]]
+|'''1'''
+|27
+|align="left" bgcolor="#DDFFDD"|{{sortname|John|Carlson|dab=ice hockey}}
+|align="left"|{{flag|United States}}
+|D
+| 757 || 105 || 373 || 478 || 258 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2008 NHL Entry Draft|2008]]
+|2
+|57
+|align="left"|{{sortname|Eric|Mestery|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2008 NHL Entry Draft|2008]]
+|2
+|58
+|align="left"|{{sortname|Dmitri|Kugryshev}}
+|align="left"|{{flag|Russia}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2008 NHL Entry Draft|2008]]
+|4
+|93
+|align="left" bgcolor="#DDFFDD"|{{sortname|Braden|Holtby}}
+|align="left"|{{flag|Canada}}
+|G
+| 468 || 0 || 11 || 11 || 25 || 282 || 122 || {{sort|-0.1|—}} || 46 || 2.54
+|-
+|[[2008 NHL Entry Draft|2008]]
+|5
+|144
+|align="left"|{{sortname|Joel|Broda}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2008 NHL Entry Draft|2008]]
+|6
+|174
+|align="left"|{{sortname|Greg|Burke|nolink=1}}
+|align="left"|{{flag|United States}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2008 NHL Entry Draft|2008]]
+|7
+|204
+|align="left"|{{sortname|Stefan|Della Rovere}}
+|align="left"|{{flag|Canada}}
+|LW
+|7 || 0 || 0 || 0 || 11|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2009 NHL Entry Draft|2009]]
+|'''1'''
+|24
+|align="left" bgcolor="#FFE6BD"|{{sortname|Marcus|Johansson|dab=ice hockey, born 1990}}
+|align="left"|{{flag|Sweden}}
+|C
+| 648 || 129 || 235 || 364 || 104 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2009 NHL Entry Draft|2009]]
+|2
+|55
+|align="left" bgcolor="#DDFFDD"|{{sortname|Dmitry|Orlov|dab=ice hockey}}
+|align="left"|{{flag|Russia}}
+|D
+| 516 || 37 || 143 || 180 || 205 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2009 NHL Entry Draft|2009]]
+|3
+|85
+|align="left" bgcolor="#FFE6BD"|{{sortname|Cody|Eakin}}
+|align="left"|{{flag|Canada}}
+|C
+| 586 || 103 || 134 || 237 || 242 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2009 NHL Entry Draft|2009]]
+|4
+|115
+|align="left" bgcolor="#DDFFDD"|{{sortname|Patrick|Wey}}
+|align="left"|{{flag|United States}}
+|D
+|9 || 0 || 3 || 3 || 5|| {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2009 NHL Entry Draft|2009]]
+|5
+|145
+|align="left"|{{sortname|Brett|Flemming}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2009 NHL Entry Draft|2009]]
+|6
+|175
+|align="left" bgcolor="#DDFFDD"|{{sortname|Garrett|Mitchell|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|RW
+| 1 || 0 || 0 || 0 || 0 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2009 NHL Entry Draft|2009]]
+|7
+|205
+|align="left"|{{sortname|Benjamin|Casavant|nolink=1}}
+|align="left"|{{flag|Canada}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2010 NHL Entry Draft|2010]]
+|'''1'''
+|26 
+|align="left" bgcolor="#DDFFDD"|{{sortname|Evgeny|Kuznetsov}}
+|align="left"|{{flag|Russia}}
+|C
+| 479 || 120 || 269 || 389 || 246 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2010 NHL Entry Draft|2010]]
+|3
+|86
+|align="left" bgcolor="#DDFFDD"|{{sortname|Stanislav|Galiev}}
+|align="left"|{{flag|Russia}}
+|RW
+| 26 || 1 || 3 || 4 || 4 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2010 NHL Entry Draft|2010]]
+|4
+|112
+|align="left" bgcolor="#FFE6BD"|{{sortname|Philipp|Grubauer}}
+|align="left"|{{flag|Germany}}
+|G
+| 174 || 0 || 1 || 1 || 2 || 79 || 52 || {{sort|-0.1|—}} || 20 || 2.44
+|-
+|[[2010 NHL Entry Draft|2010]]
+|5
+|115
+|align="left"|{{sortname|Caleb|Herbert|nolink=1}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2010 NHL Entry Draft|2010]]
+|6
+|176
+|align="left"|{{sortname|Samuel|Carrier|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2011 NHL Entry Draft|2011]]
+|4
+|117
+|align="left"|{{sortname|Steffen|Soberg|Steffen Søberg}}
+|align="left"|{{flag|Norway}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2011 NHL Entry Draft|2011]]
+|5
+|147
+|align="left"|{{sortname|Patrick|Koudys|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2011 NHL Entry Draft|2011]]
+|6
+|177
+|align="left" bgcolor="#DDFFDD" |{{sortname|Travis|Boyd|Travis Boyd (ice hockey)}}
+|align="left"|{{flag|United States}}
+|C
+|85 || 8 || 23 || 31 || 10 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2011 NHL Entry Draft|2011]]
+|7
+|207
+|align="left"|{{sortname|Garrett|Haar|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2012 NHL Entry Draft|2012]]
+|'''1'''
+|11
+|align="left"|{{sortname|Filip|Forsberg}}
+|align="left"|{{flag|Sweden}}
+|RW
+|458 || 166 || 187 || 353 || 200 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2012 NHL Entry Draft|2012]]
+|'''1'''
+|16
+|align="left" bgcolor="#DDFFDD"|{{sortname|Tom|Wilson|dab=ice hockey}}
+|align="left"|{{flag|Canada}}
+|RW
+|522 || 78 || 110 || 188 || 1027 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2012 NHL Entry Draft|2012]]
+|3
+|77
+|align="left" bgcolor="#FFE6BD"|{{sortname|Chandler|Stephenson}}
+|align="left"|{{flag|Canada}}
+|LW
+| 209 || 22 || 33 || 55 || 26 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2012 NHL Entry Draft|2012]]
+|4
+|100
+|align="left"|{{sortname|Thomas|Di Pauli}}
+|align="left"|{{flag|United States}}
+|F
+|2 || 0 || 0 || 0 || 10 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2012 NHL Entry Draft|2012]]
+|4
+|107
+|align="left"|{{sortname|Austin|Wuthrich|nolink=1}}
+|align="left"|{{flag|United States}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2012 NHL Entry Draft|2012]]
+|5
+|137
+|align="left" bgcolor="#FFE6BD"|{{sortname|Connor|Carrick}}
+|align="left"|{{flag|United States}}
+|D
+| 230 || 12 || 35 || 47 || 152 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2012 NHL Entry Draft|2012]]
+|6
+|167
+|align="left" bgcolor="#FFE6BD"|{{sortname|Riley|Barber}}
+|align="left"|{{flag|United States}}
+|F
+| 12 || 0 || 0 || 0 || 2 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2012 NHL Entry Draft|2012]]
+|7
+|195
+|align="left" bgcolor="#FFE6BD"|{{sortname|Christian|Djoos}}
+|align="left"|{{flag|Sweden}}
+|D
+|119 || 5 || 22 || 27 || 14 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2012 NHL Entry Draft|2012]]
+|7
+|197
+|align="left"|{{sortname|Jaynen|Rissling|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2012 NHL Entry Draft|2012]]
+|7
+|203
+|align="left"|{{sortname|Sergei|Kostenko|nolink=1}}
+|align="left"|{{flag|Russia}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2013 NHL Entry Draft|2013]]
+|'''1'''
+|23
+|align="left" bgcolor="#FFE6BD"|{{sortname|Andre|Burakovsky|André Burakovsky}}
+|align="left"|{{flag|Sweden}}
+|LW
+| 386 || 82 || 108 || 190 || 99 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2013 NHL Entry Draft|2013]]
+|2
+|53
+|align="left" bgcolor="#FFE6BD"|{{sortname|Madison|Bowey}}
+|align="left"|{{flag|Canada}}
+|D
+|154 || 5|| 34 || 39 || 104 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2013 NHL Entry Draft|2013]]
+|2
+|61
+|align="left" bgcolor="#FFE6BD"|{{sortname|Zach|Sanford}}
+|align="left"|{{flag|United States}}
+|LW
+| 157 || 28 || 30 || 58 || 59 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2013 NHL Entry Draft|2013]]
+|5
+|144
+|align="left"|{{sortname|Blake|Heinrich|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2013 NHL Entry Draft|2013]]
+|6
+|174
+|align="left"|{{sortname|Brian|Pinho}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2013 NHL Entry Draft|2013]]
+|7
+|204
+|align="left" bgcolor="#DDFFDD"|{{sortname|Tyler|Lewington}}
+|align="left"|{{flag|Canada}}
+|D
+|8 || 1 || 1 || 2 || 24 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2014 NHL Entry Draft|2014]]
+|'''1'''
+|13
+|align="left" bgcolor="#DDFFDD"|{{sortname|Jakub|Vrana|Jakub Vrána}}
+|align="left"|{{flag|Czech Republic}}
+|C
+| 245 || 65 || 67 || 132 || 59 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2014 NHL Entry Draft|2014]]
+|2
+|39
+|align="left"|{{sortname|Vitek|Vanecek|Vítek Vaněček}}
+|align="left"|{{flag|Czech Republic}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2014 NHL Entry Draft|2014]]
+|3
+|89
+|align="left"  bgcolor="#FFE6BD"|{{sortname|Nathan|Walker}}
+|align="left"|{{flag|Australia}}
+|LW
+|17 || 2 || 2 || 4 || 12 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2014 NHL Entry Draft|2014]]
+|5
+|134
+|align="left" bgcolor="#DDFFDD" |{{sortname|Shane|Gersich}}
+|align="left"|{{flag|United States}}
+|F
+|3 || 0 || 1 || 1 || 0 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2014 NHL Entry Draft|2014]]
+|6
+|159
+|align="left"|{{sortname|Steven|Spinner|nolink=1}}
+|align="left"|{{flag|United States}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2014 NHL Entry Draft|2014]]
+|7
+|194
+|align="left"|{{sortname|Kevin|Elgestal|Kevin Elgestål}}
+|align="left"|{{flag|Sweden}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2015 NHL Entry Draft|2015]]
+|'''1'''
+|22
+|align="left" bgcolor="#DDFFDD" |{{sortname|Ilya|Samsonov}}
+|align="left"|{{flag|Russia}}
+|G
+|26 || 0 || 0 || 0 || 2 || 16 || 6 || {{sort|-1|—}} || 2 || 2.55
+|-
+|[[2015 NHL Entry Draft|2015]]
+|2
+|57
+|align="left" bgcolor="#DDFFDD" |{{sortname|Jonas|Siegenthaler}}
+|align="left"|{{flag|Switzerland}}
+|D
+|90 || 2 || 11 || 13 || 53 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2015 NHL Entry Draft|2015]]
+|5
+|143
+|align="left"|{{sortname|Connor|Hobbs|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2015 NHL Entry Draft|2015]]
+|6
+|173
+|align="left"|{{sortname|Colby|Williams|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2016 NHL Entry Draft|2016]]
+|'''1'''
+|28
+|align="left"|{{sortname|Lucas|Johansen}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2016 NHL Entry Draft|2016]]
+|3
+|87
+|align="left"|{{sortname|Garrett|Pilon|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2016 NHL Entry Draft|2016]]
+|4
+|117
+|align="left"|{{sortname|Damien|Riat}}
+|align="left"|{{flag|Switzerland}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2016 NHL Entry Draft|2016]]
+|5
+|145
+|align="left" bgcolor="#DDFFDD" |{{sortname|Beck|Malenstyn}}
+|align="left"|{{flag|Canada}}
+|LW
+|3 || 0 || 0 || 0|| 0 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2016 NHL Entry Draft|2016]]
+|5
+|147
+|align="left"|{{sortname|Axel|Jonsson-Fjallby|Axel Jonsson-Fjällby}}
+|align="left"|{{flag|Sweden}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2016 NHL Entry Draft|2016]]
+|6
+|177
+|align="left"|{{sortname|Chase|Priskie|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2016 NHL Entry Draft|2016]]
+|7
+|207
+|align="left"|{{sortname|Dmitriy|Zaitsev|nolink=1}}
+|align="left"|{{flag|Russia}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2017 NHL Entry Draft|2017]]
+|4
+|120
+|align="left"|{{sortname|Tobias|Geisser|nolink=1}}
+|align="left"|{{flag|Switzerland}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2017 NHL Entry Draft|2017]]
+|5
+|151
+|align="left"|{{sortname|Sebastian|Walfridsson|nolink=1}}
+|align="left"|{{flag|Sweden}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2017 NHL Entry Draft|2017]]
+|6
+|182
+|align="left"|{{sortname|Benton|Maass|nolink=1}}
+|align="left"|{{flag|United States}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2017 NHL Entry Draft|2017]]
+|7
+|213
+|align="left"|{{sortname|Kristian|Roykas-Marthinsen|nolink=1}}
+|align="left"|{{flag|Norway}}
+|LW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2018 NHL Entry Draft|2018]]
+|1
+|31
+|align="left"|{{sortname|Alexander|Alexeyev|Alexander Alexeyev (ice hockey)}}
+|align="left"|{{flag|Russia}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2018 NHL Entry Draft|2018]]
+|2
+|46
+|align="left" bgcolor="#DDFFDD" |{{sortname|Martin|Fehervary|Martin Fehérváry}}
+|align="left"|{{flag|Slovakia}}
+|D
+|6 || 0 || 1 || 1 || 6 || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2018 NHL Entry Draft|2018]]
+|2
+|47
+|align="left"|{{sortname|Kody|Clark|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2018 NHL Entry Draft|2018]]
+|3
+|93
+|align="left"|{{sortname|Riley|Sutter|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2018 NHL Entry Draft|2018]]
+|4
+|124
+|align="left"|{{sortname|Mitchell|Gibson|nolink=1}}
+|align="left"|{{flag|United States}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2018 NHL Entry Draft|2018]]
+|6
+|161
+|align="left"|{{sortname|Alex|Kannok-Leipert|nolink=1}}
+|align="left"|{{flag|Canada}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2018 NHL Entry Draft|2018]]
+|7
+|217
+|align="left"|{{sortname|Eric|Florchuk|nolink=1}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2019 NHL Entry Draft|2019]]
+|1
+|25
+|align="left"|{{sortname|Connor|McMichael}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2019 NHL Entry Draft|2019]]
+|2
+|56
+|align="left"|{{sortname|Brett|Leason|nolink=1}}
+|align="left"|{{flag|Canada}}
+|RW
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2019 NHL Entry Draft|2019]]
+|3
+|91
+|align="left"|{{sortname|Aliaksei|Protas|nolink=1}}
+|align="left"|{{flag|Belarus}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2019 NHL Entry Draft|2019]]
+|5
+|153
+|align="left"|{{sortname|Martin|Has|nolink=1}}
+|align="left"|{{flag|Czech Republic}}
+|D
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2020 NHL Entry Draft|2020]]
+|1
+|22
+|align="left"|{{sortname|Hendrix|Lapierre}}
+|align="left"|{{flag|Canada}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|-
+|[[2020 NHL Entry Draft|2020]]
+|4
+|117
+|align="left"|{{sortname|Bogdan|Trineyev|nolink=1}}
+|align="left"|{{flag|Russia}}
+|F
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} 
+|-
+|[[2020 NHL Entry Draft|2020]]
+|5
+|148
+|align="left"|{{sortname|Bear|Hughes|nolink=1}}
+|align="left"|{{flag|United States}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} 
+|-
+|[[2020 NHL Entry Draft|2020]]
+|6
+|179
+|align="left"|{{sortname|Garin|Bjorklund|nolink=1}}
+|align="left"|{{flag|Canada}}
+|G
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} 
+|-
+|[[2020 NHL Entry Draft|2020]]
+|7
+|211
+|align="left"|{{sortname|Oskar|Magnusson}}
+|align="left"|{{flag|Sweden}}
+|C
+|{{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}} || {{sort|-1|—}}
+|}
+
+==See also==
+*[[1974 NHL Expansion Draft]]
+
+==References==
+;General
+* {{cite web|url=http://www.hockeydb.com/ihdb/draft/teams/dr00008871.html hockeydb.com|title=Washington Capitals Draft History|publisher=The Internet Hockey Database|accessdate=April 29, 2015}}
+* {{cite web|url=https://www.hockey-reference.com/teams/WSH/draft.html Hockey-Reference.com|title=Washington Capitals Draft Register|publisher=Sports Reference, LLC|accessdate=April 29, 2015}}
+* {{cite web|url=http://capitals.nhl.com/club/draftstats.htm?year=All&round=All&team=WSH&supl=N WashingtonCaps.com|title=All Draft Choices|publisher=Washington Capitals|accessdate=April 29, 2015}}
+* {{cite web|url=http://www.hockeydraftcentral.com/histwas.htm|title=Washington Capitals Draft History|publisher=Hockey Draft Central|accessdate=April 29, 2015}}
+;Specific
+{{Reflist|2}}
+
+{{Washington Capitals}}
+{{List of NHL draft picks}}
+
+[[Category:Washington Capitals draft picks| ]]
+[[Category:Washington Capitals lists]]
+[[Category:Lists of National Hockey League draft picks|Washington Capitals]]

@@ -1,0 +1,60 @@
+{{Use dmy dates|date=March 2013}}
+{{Infobox company 
+|name  = Fokker Technologies
+|logo = Fokker Technologies logo.gif
+|logo_size = 200px
+|foundation    = 1 January 2011
+| fate = acquired by [[GKN]] and now GKN Aerospace
+|location      = [[Papendrecht]], [[Netherlands]]
+|industry      = [[Aerospace]]
+|products      = Structures<br>Landing Gears<br>Electrical Systems<br>Aircraft Maintenance Services
+|num_employees = 4950 (2012)<ref>[http://www.fokker.com/Key-Figures Key Figures Fokker Technologies]</ref>
+|parent        = [[GKN]]<ref>{{cite web|title=GKN agrees to acquire Fokker Technologies for €706 million|publisher=GKN Aerospace|url=http://www.gkn.com/aerospace/media/news/Pages/GKN-agrees-to-acquire-Fokker-Technologies-for-706-million.aspx|access-date=23 October 2015|archive-url=https://web.archive.org/web/20151117031146/http://www.gkn.com/aerospace/media/news/Pages/GKN-agrees-to-acquire-Fokker-Technologies-for-706-million.aspx|archive-date=17 November 2015|url-status=dead}}</ref>
+|subsid        =
+}}
+
+'''Fokker Technologies''' is a [[Netherlands|Dutch]] [[aerospace]] company. The company has production companies which design, develop and produce structures, [[landing gear]] and electrical systems for the aerospace and defense industry. Additional to the production capabilities, it also supplies integrated maintenance services to aircraft owners and operators.
+
+After the bankruptcy of the former aircraft manufacturer [[Fokker]] in 1996, [[Stork B.V.]] acquired the Fokker companies specialized in the building of aircraft components and aircraft maintenance services which were named as Stork Aerospace.<ref>{{cite web 
+  | title = About Stork: Organisation
+  | publisher = Stork B.V.
+  | url = http://www.stork.com
+}}</ref> The group has had many names until in 2010, the Fokker name was reintroduced.<ref>{{cite web
+  | title = Stork Aerospace becomes Fokker Aerospace Group
+  | publisher = AeroSpace and Defence - Industries Association of Europe
+  | url = http://www.asd-europe.org/site/index.php?id=39&tx_ttnews%5Btt_news%5D=82&cHash=e72ff41a933b23e7a3d29e42fe9169e8
+  | access-date = 10 February 2011
+  | archive-url = https://web.archive.org/web/20101224022129/http://www.asd-europe.org/site/index.php?id=39&tx_ttnews%5Btt_news%5D=82&cHash=e72ff41a933b23e7a3d29e42fe9169e8
+  | archive-date = 24 December 2010
+  | url-status = dead
+  }}</ref><ref>{{cite news 
+  | last = Morrison
+  | first = Murdo
+  | title = Fokker Aircraft Services looks to break into Boeing completions 
+  | publisher = [[FlightGlobal]]
+  | date = 9 December 2010
+  | url = http://www.flightglobal.com/articles/2010/12/09/350631/meba-fokker-aircraft-services-looks-to-break-into-boeing.html
+  }}</ref>
+In 2015 the company was acquired by UK based [[GKN]].
+
+==Business units==
+
+The company consists of 4 business units:
+* Fokker Aerostructures (Lightweight structures)
+* Fokker Elmo (Wiring harnesses)
+* Fokker Landing Gear (Landing gear)
+* Fokker Services (Aerospace services provider)
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20130726194852/http://www.fokker.com/ Official website]
+
+[[Category:Companies based in South Holland]]
+[[Category:Companies established in 2011]]
+[[Category:Aerospace companies]]
+[[Category:Papendrecht]]
+
+
+{{Netherlands-company-stub}}

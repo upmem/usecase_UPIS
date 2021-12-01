@@ -1,0 +1,45 @@
+{{Navbox
+|name  = Hiroshi Shimizu 
+|state = {{{state|autocollapse}}}
+|title = Films directed by [[Hiroshi Shimizu (director)|Hiroshi Shimizu]]
+|listclass = hlist
+
+|list1 = 
+* ''[[Beyond the Pass]]'' <small>(1924)</small>
+* ''[[The Little Traveling Player]]'' <small>(1925)</small>
+* ''[[Lovelorn Times]]'' <small>(1926)</small>
+* ''[[Three Daughters (1927 film)|Three Daughters]]'' <small>(1927)</small>
+* ''[[A Portrait of Changing Love]]'' <small>(1928)</small>
+* ''[[The Village Blacksmith (1929 film)|The Village Blacksmith]]'' <small>(1929)</small>
+* ''[[Sin on Red Lips]]'' <small>(1930)</small>
+* ''[[Bully (1931) film|Bully]]'' <small>(1931)</small>
+* ''[[Passion (1932) film|Passion]]'' <small>(1932)</small>
+* ''[[Sleep, at Mother’s Breast]]'' <small>(1933)</small>
+* ''[[Mother from the Far East]]'' <small>(1934)</small>
+* ''[[A Hero of Tokyo]]'' <small>(1935)</small>
+* ''[[Mr. Thank You]]'' <small>(1936)</small>
+* ''[[Loves of the Invincible Fleet]]'' <small>(1937)</small>
+* ''[[The Masseurs and a Woman]]'' <small>(1938)</small>
+* ''[[A Freeloader’s Big Snore]]'' <small>(1939)</small>
+* ''[[I Have a Husband]]'' <small>(1940)</small>
+* ''[[Introspection Tower]]'' <small>(1941)</small>
+* ''[[Record of a Woman Doctor]]'' <small>(1942)</small>
+* ''[[Sayon's Bell]]'' <small>(1943)</small>
+* ''[[Victory Song (1945 film)|Victory Song]]'' <small>(1945)</small>
+* ''[[Children of the Beehive]]'' <small>(1948)</small>
+* ''[[At Eighteen a Girl Tells Lies]]'' <small>(1949)</small>
+* ''[[A Mother’s Love]]'' <small>(1950)</small>
+* ''[[Children of the Beehive: What Happened Next]]'' <small>(1951)</small>
+* ''[[Children of the Great Buddha]]'' <small>(1952)</small>
+* ''[[Mole Alley]]'' <small>(1953)</small>
+* ''[[The Second Kiss]]'' <small>(1954)</small>
+* ''[[The Shiinomi School]]'' <small>(1955)</small>
+* ''[[Why Did These Women Become Like This?]]'' <small>(1956)</small>
+* ''[[Dancing Girl (1957 film)|Dancing Girl]]'' <small>(1957)</small>
+* ''[[A Mother's Journey]]'' <small>(1958)</small>
+* ''[[Image of a Mother]]'' <small>(1959)</small>
+|below=
+}}<noinclude>
+{{collapsible option}}
+[[Category:Japanese film director navigational boxes|Shimizu Hiroshi]]
+</noinclude>

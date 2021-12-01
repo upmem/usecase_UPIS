@@ -1,0 +1,51 @@
+{{Taxobox
+| name = Cryptosporangiaceae
+| domain = [[Bacteria]]
+| phylum = [[Actinobacteria]]
+| classis = [[Actinobacteria]]
+| subclassis = [[Actinobacteridae]]
+| ordo = [[Actinomycetales]]
+| subordo = [[Frankineae]]
+| familia = Cryptosporangiaceae
+| familia_authority = Zhi et al. 2009
+| subdivision_ranks = [[Genus|Genera]]
+| subdivision = 
+*''[[Fodinicola]]'' <small>Carlsohn et al. 2008</small>
+*''[[Cryptosporangium]]'' <small>Tamura et al. 1998</small>
+}}
+
+The '''Cryptosporangiaceae''' are an [[actinomycete]] family within the highly [[polyphyletic]] suborder [[Frankineae]].
+
+==Phylogeny==
+The currently accepted taxonomy is based on the [[List of Prokaryotic names with Standing in Nomenclature]] <ref>{{cite web|author=J.P. Euzéby |url=http://www.bacterio.cict.fr/classifphyla.html#Actinobacteria |title=Cryptosporangiaceae |accessdate=2011-11-17 |publisher=[[List of Prokaryotic names with Standing in Nomenclature]] (LPSN) |url-status=dead |archiveurl=https://web.archive.org/web/20110613224152/http://www.bacterio.cict.fr/classifphyla.html |archivedate=2011-06-13 }}</ref> and [[National Center for Biotechnology Information]]<ref>{{cite web |author = Sayers| url=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Tree&id=622454&lvl=3&lin |title=Cryptosporangiaceae |accessdate=2011-06-05 |publisher=[[National Center for Biotechnology Information]] (NCBI) taxonomy database |display-authors=etal}}</ref>
+and the phylogeny is based on 16S rRNA-based LTP release 106 by [['The All-Species Living Tree' Project]] <ref>'The All-Species Living Tree' Project.{{cite web | url=http://www.arb-silva.de/fileadmin/silva_databases/living_tree/LTP_release_106/LTPs106_SSU_tree.pdf | title=16S rRNA-based LTP release 106 (full tree) | publisher=[[Silva Comprehensive Ribosomal RNA Database]] | accessdate=2011-11-17}}</ref>
+
+{{Clade 
+|1={{clade
+  |1=''[[Fodinicola feengrottensis]]'' <small>Carlsohn et al. 2008</small>
+  |label2=&nbsp;''[[Cryptosporangium]]''
+  |2={{clade
+    |1={{clade
+      |1=''[[Cryptosporangium arvum|C. arvum]]'' <small>Tamura et al. 1998</small> (type sp.)
+      |2=''[[Cryptosporangium japonicum|C. japonicum]]'' <small>Tamura et al. 1998</small>
+       }}
+    |2={{clade
+      |1=''[[Cryptosporangium aurantiacum|C. aurantiacum]]'' <small>(ex Ruan et al. 1976) Tamura and Hatano 2001</small>
+      |2=''[[Cryptosporangium minutisporangium|C. minutisporangium]]'' <small>(Ruan et al. 1986) Tamura and Hatano 2001</small>
+       }}
+     }}
+   }}
+}}
+
+==References==
+{{Reflist}}
+
+{{Bacteria classification}}
+{{Portal bar|Biology}}
+{{Taxonbar|from=Q5191057}}
+
+[[Category:Actinomycetales]]
+[[Category:Bacteria families]]
+
+
+{{actinobacteria-stub}}

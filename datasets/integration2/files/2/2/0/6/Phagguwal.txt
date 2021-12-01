@@ -1,0 +1,74 @@
+{{Use dmy dates|date=April 2018}}
+{{Use Indian English|date=April 2018}}
+{{Infobox settlement
+| name                    =Phagguwal
+| native_name             = 
+| native_name_lang        = 
+| settlement_type         = Village
+| pushpin_map             = India Punjab#India
+| pushpin_map_caption     = Location in Punjab, India
+| coordinates             = {{coord|30.9709581|N|75.7936552|E|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|India}}
+| subdivision_type1       = [[States and territories of India|State]]
+| subdivision_name1       = [[Punjab, India|Punjab]]
+| subdivision_type2       = [[List of districts of India|District]]
+| subdivision_name2       = [[Ludhiana district|Ludhiana]]
+| subdivision_type3       = [[Tehsil]]
+| subdivision_name3       = [[Villages in Ludhiana West Tehsil|Ludhiana West]] 
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref>tags -->
+| elevation_m             = 
+| population_as_of        = 
+| population_footnotes    =
+| population_total        =
+| population_density_km2  = auto
+| population_note         =       
+| population_demonym      =
+| demographics_type1      = Languages
+| demographics1_title1    = Official
+| demographics1_info1     = [[Punjabi language|Punjabi]]
+| demographics1_title2    = Other spoken
+| demographics1_info2     = [[Hindi language|Hindi]]
+| timezone1               = [[Indian Standard Time|IST]]
+| utc_offset1             = +5:30
+| government_type         = [[Panchayati raj (India)]]
+| governing_body          = [[Gram panchayat]]
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = [[Telephone code]]
+| area_code               = 0161 
+| registration_plate      = [[List of RTO districts in India#PB.E2.80.94Punjab|PB]]-10 
+| iso_code                = [[ISO 3166-2:IN|IN-PB]]
+ 
+| blank1_name_sec2        = 
+| blank1_info_sec2        = 
+| website                 = {{URL|ludhiana.nic.in}}
+| footnotes               =
+}}
+'''Phagguwal''' is a village located in the [[Villages in Ludhiana West Tehsil|Ludhiana West tehsil]], of [[Ludhiana district]], [[Punjab India|Punjab]].<ref>{{cite web | url=https://www.censusindia.gov.in/pca/SearchDetails.aspx?Id=37372 | title=Phagguwal | work=censusindia.gov.in | accessdate=25 July 2016}}</ref>
+
+==Administration==
+The village is [[Administration (government)|administrated]] by a [[Sarpanch]] who is an [[elected representative]] of village as per [[constitution of India]] and [[Panchayati raj (India)]].
+
+{|class="wikitable sortable"
+! Particulars !! Total !! Male!!Female
+|-
+| Total No. of Houses||59|| ||
+|-
+| Population ||313||175||138
+|-
+|}
+
+==Villages in Ludhiana West Tehsil==
+{{Main|Villages in Ludhiana West Tehsil}}
+
+==Air travel connectivity== 
+The closest airport to the village is [[Sahnewal Airport]].
+
+==References==
+{{Reflist}}
+{{Ludhiana district |state=collapsed}}
+
+[[Category:Villages in Ludhiana West tehsil]]

@@ -1,0 +1,65 @@
+{{short description|Nepalese marathon runner|bot=PearBOT 5}}
+{{Infobox sportsperson
+| headercolor = lightblue
+| name           = Arjun Kumar Basnet
+| image          = 
+| imagesize      = 
+| caption        = 
+| birth_name     = 
+| fullname       =
+| nickname       = 
+| nationality    = [[Nepali people|Nepalese]]
+| residence      = 
+| birth_date     = {{birth date and age|1975|12|5|df=yes}}
+| birth_place    = [[Kangel]], [[Nepal]]
+| death_date     = 
+| death_place    = 
+| height         = 172cm
+| weight         = {{convert|58|kg|lb|0|abbr=on}}
+| website        = 
+| country        = 
+| sport          = [[Athletics (sport)|Athletics]]
+| event          = [[Marathon]]
+| collegeteam    = 
+| club           = Tribhuvan Army Club (NEP)
+| team           = 
+| turnedpro      = 
+| coach          = 
+| retired        = 
+| coaching       = 
+| worlds         = 
+| regionals      = 
+| nationals      = 
+| olympics       = 
+| paralympics    = 
+| highestranking = 
+| pb             = '''Marathon''': 2:23:09
+| medaltemplates = 
+| show-medals    = yes
+}}
+
+'''Arjun Kumar Basnet''' ({{lang-ne|अर्जुन कुमार बस्नेत}}) (born December 5, 1975) is a [[Nepal]]ese marathon runner.<ref>{{cite sports-reference|title = Arjun Kumar Basnet|url = https://www.sports-reference.com/olympics/athletes/ba/arjun-kumar-basnet-1.html|archive-url = https://web.archive.org/web/20200418074512/https://www.sports-reference.com/olympics/athletes/ba/arjun-kumar-basnet-1.html|url-status = dead|archive-date = 18 April 2020|access-date = 11 December 2012}}</ref> Basnet represented [[Nepal]] at the [[2008 Summer Olympics]] in [[Beijing]], where he competed for the [[Athletics at the 2008 Summer Olympics – Men's marathon|men's marathon]]. He finished the race in forty-fifth place by approximately quarter of a minute (about 26 seconds) behind South Africa's [[Hendrick Ramaala]], with his personal best time of 2:23:09.<ref>{{cite web|title=Men's Marathon |url=http://www.2008.nbcolympics.com/trackandfield/resultsandschedules/rsc=ATM099100/standings.html |publisher=[[NBC Olympics]] |accessdate=11 December 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120816164758/http://www.2008.nbcolympics.com/trackandfield/resultsandschedules/rsc%3DATM099100/standings.html |archivedate=16 August 2012 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{iaaf name|id=231055}}
+*[https://web.archive.org/web/20120822203144/http://www.2008.nbcolympics.com/athletes/athlete=52336/bio/index.html NBC Olympics Profile]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Basnet, Arjun Kumar}}
+[[Category:Living people]]
+[[Category:1975 births]]
+[[Category:People from Solukhumbu District]]
+[[Category:Nepalese male long-distance runners]]
+[[Category:Nepalese male marathon runners]]
+[[Category:Olympic athletes of Nepal]]
+[[Category:Athletes (track and field) at the 2008 Summer Olympics]]
+[[Category:Athletes (track and field) at the 2002 Asian Games]]
+[[Category:Athletes (track and field) at the 2006 Asian Games]]
+[[Category:Asian Games competitors for Nepal]]
+
+
+{{Nepal-athletics-bio-stub}}

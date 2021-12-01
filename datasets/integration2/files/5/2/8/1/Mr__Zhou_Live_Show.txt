@@ -1,0 +1,61 @@
+{{Infobox television
+| name            = Mr. Zhou Live Show
+| image                = <!-- include ALT text per [[WP:ALT]] guideline -->
+| caption              = 
+| alt_name          = 
+| genre                = 
+| creator              = 
+| developer            = 
+| writer               = 
+| director             = 
+| creative_director    = 
+| presenter            = [[Zhou Libo (comedian)|Zhou Libo]]
+| starring             = 
+| judges               = 
+| voices               = 
+| narrated             = 
+| theme_music_composer = 
+| opentheme            = 
+| endtheme             = 
+| composer             = 
+| country              = [[China]]
+| language             = [[Chinese language|Chinese]]
+| num_seasons          = <!-- or num_series -->
+| num_episodes         = 
+| list_episodes        = 
+| executive_producer   = 
+| producer             = 
+| editor               = 
+| location             = 
+| cinematography       = 
+| camera               = 
+| runtime              = 45 minutes
+| company              = 
+| distributor          = 
+| channel              = [[Phoenix Television|Phoenix TV]]/[[Dragon Television|Dragon TV]] (2010–2012)<br/> [[Zhejiang Television|Zhejiang TV]] (2012–present)
+| picture_format       = 
+| audio_format         = 
+| first_run            = 
+| first_aired          = {{Start date|2010|02|14}}
+| last_aired           = <!-- {{End date|YYYY|MM|DD}} -->
+| preceded_by          = 
+| followed_by          = 
+| related              = 
+| website              = 
+| website_title        = 
+| production_website   = 
+}}
+'''''Mr. Zhou Live Show''''' ({{zh|c=壹周立波秀}}) is a Chinese television live [[talk show]] hosted by stand-up comedian [[Zhou Libo (comedian)|Zhou Libo]].<ref>{{cite web|url=http://info.broadcast.hc360.com/2011/12/140915481539.shtml|script-title=zh:《壹周立波秀》热播的原因探析|publisher=|date=December 14, 2011|accessdate=October 9, 2012|language=Chinese}}</ref> It was originally broadcast by [[Phoenix Television]] and [[Dragon Television]] in 2010 and by [[Zhejiang Television]] after 2012.<ref>{{cite web|url=http://www.sd.xinhuanet.com/news/2012-04/15/content_25067225.htm|script-title=zh:周立波担任梦想观察员《壹周立波秀》将调整 |publisher=[[Xinhuanet]]|date=April 15, 2012|accessdate=October 9, 2012|language=Chinese}}</ref><ref>{{cite web|url=http://news.he-nan.com/article_66679.html|script-title=zh:周立波携《壹周立波秀》跳槽至浙江卫视|publisher=河南网|date=April 5, 2012|accessdate=October 9, 2012|language=Chinese}}</ref>
+
+Like his stand-up, Zhou does not have scripts or notes, creating his own material through improvisation. The show also includes guest interviews and Zhou dropped his Shanghai dialect to have a more accessible audience.
+
+==References==
+{{Reflist}}
+
+{{Zhejiang Radio and Television Group}}
+
+[[Category:Chinese television talk shows]]
+[[Category:Chinese television shows]]
+[[Category:2010s Chinese television series]]
+[[Category:2010 Chinese television series debuts]]
+[[Category:Phoenix Television original programming]]

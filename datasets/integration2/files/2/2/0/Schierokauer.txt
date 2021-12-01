@@ -1,0 +1,27 @@
+{{Infobox surname
+|name = Schierokauer, Schirokauer
+|image = 
+|image_size = <!-- width in pixels -->
+|caption = 
+|pronunciation = 
+|meaning = from [[Schierokau]] ({{lang-pl|[[Sieraków, Silesian Voivodeship|Sieraków]]}}, Silesian Voivodeship), Upper Silesia
+|region = Poland, Silesia, Germany
+|languageorigin = German, Yiddish
+|variant = [[Sierakowski]]
+|footnotes =
+|nolinklanguage = yes
+}}
+'''Schierokauer, Schirokauer''' is surname of:
+
+* [[Alfred Schirokauer]] (1880 in Breslau &ndash; 1934 in Vienna), German writer
+* [[Auguste Pünkösdy]], aka Auguste Schirokauer-Pünkösdy (1890, Vienna – 1967), Austrian actress
+* [[Arno Schirokauer]], fully ''Arnold Fritz Kurt Schirokauer'' (1899, Cottbus – 1954), Jewish German writer and Germanist
+* [[Conrad Schirokauer]], American historian
+* [[Robert S. Hartman|Robert Schirokauer Hartman]] (1910, Berlin - 1973), German-American logician and philosopher
+{{surname|Schierokauer, Schirokauer}}
+
+[[Category:German-language surnames]]
+[[Category:Jewish surnames]]
+[[Category:Surnames of Polish origin]]
+[[Category:Surnames of Silesian origin]]
+[[Category:Yiddish-language surnames]]

@@ -1,0 +1,40 @@
+{{Taxobox
+| name = ''Sporichthya''
+| domain = [[Bacteria]]
+| phylum = [[Actinobacteria]]
+| classis = [[Actinobacteria]] <small>Stackebrant et al. 1997</small>
+| subclassis = [[Actinobacteridae]] <br/><small>Stackebrandt et al. 1997 emend. Zhi et al. 2009</small>
+| ordo = [[Actinomycetales]] <br/><small>Buchanan 1917 emend. Zhi et al. 2009</small>
+| subordo = [[Frankineae]] <small>Stackebrandt et al. 1997 emend. Zhi et al. 2009</small>
+| familia = [[Sporichthyaceae]] <small>Rainey et al. 1997 emend. Zhi et al. 2009</small>
+| genus = ''Sporichthya'' <small>Lechevalier et al. 1968</small>
+| subdivision_ranks = Species
+| subdivision = 
+*''[[Sporichthya brevicatena]]'' <small>Tamura et al. 1999</small>
+*''[[Sporichthya polymorpha]]'' <small>Lechevalier et al. 1968</small>
+}}
+
+'''''Sporichthya''''' is the only genus in the family Sporichthyaceae, which is a part of the highly [[polyphyletic]] suborder [[Frankineae]].
+
+==Phylogeny==
+The currently accepted taxonomy is based on the [[List of Prokaryotic names with Standing in Nomenclature]]  <ref>{{cite web | author=J.P. Euzéby | url=http://www.bacterio.cict.fr/classifphyla.html#Actinobacteria | title=Sporichthya | access-date=2011-11-17 | publisher=[[List of Prokaryotic names with Standing in Nomenclature]] (LPSN) | url-status=dead | archive-url=https://web.archive.org/web/20130127030659/http://www.bacterio.cict.fr/classifphyla.html#Actinobacteria | archive-date=2013-01-27 | df= }}</ref> and [[National Center for Biotechnology Information]] (NCBI)<ref>{{cite web |author = Sayers| url=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=85033&lvl=3&lin |title=Sporichthya |accessdate=2011-06-05 |publisher=[[National Center for Biotechnology Information]] (NCBI) taxonomy database |display-authors=etal}}</ref>
+and the phylogeny is based on 16S rRNA-based LTP release 106 by [[The All-Species Living Tree Project]] <ref>[[All-Species Living Tree Project]].{{cite web | url=http://www.arb-silva.de/fileadmin/silva_databases/living_tree/LTP_release_106/LTPs106_SSU_tree.pdf | title=16S rRNA-based LTP release 106 (full tree) | publisher=[[Silva Comprehensive Ribosomal RNA Database]] | accessdate=2011-11-17}}</ref>
+
+{{Clade 
+|1={{clade
+  |1=''[[Sporichthya brevicatena|S. brevicatena]]'' <small>Tamura et al. 1999</small>
+  |2=''[[Sporichthya polymorpha|S. polymorpha]]'' <small>Lechevalier et al. 1968</small> (type sp.)
+   }}
+}}
+
+==References==
+{{Reflist}}
+
+{{Bacteria classification}}
+{{Taxonbar|from=Q7579222}}
+
+[[Category:Actinomycetales]]
+[[Category:Bacteria genera]]
+
+
+{{Actinobacteria-stub}}

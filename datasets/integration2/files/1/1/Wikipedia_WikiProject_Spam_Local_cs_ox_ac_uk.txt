@@ -1,0 +1,39 @@
+<!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|0|0|0|0|}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|cs.ox.ac.uk]]
+== Links ==
+* {{LinkSummary|cs.ox.ac.uk}}
+:* cs.ox.ac.uk resolves to [http://X X]
+:*: {{LinkSummary|X}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* COIBot [[en:User:COIBot#Domainredlist|domainredlist]] search for link cs.ox.ac.uk gives: 
+:*: cs.ox.ac.uk (Only IPs 163.1.180.84, 129.67.148.41)
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+:* Link is blacklisted by \b on [http://ar.wikipedia.org/wiki/Mediawiki:Spam-blacklist ar.wikipedia.org]
+== Users ==
+* {{IPSummary|129.67.148.41}}
+* {{IPSummary|163.1.180.84}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=1893239|lang=en|wikidomain=w|namespace=|pagename=Jacob Biamonte|username=129.67.148.41|link=www.cs.ox.ac.uk/people/chris.heunen/flowincat/|sortdomain=uk.ac.ox.cs.|domain=cs.ox.ac.uk|origdiff=http://en.wikipedia.org/w/index.php?diff=475989917&oldid=475606039|resolved=X|isIP=1|date=2012-02-09|time=18:43:45|wiki=en.wikipedia.org|revid=475989917|oldid=475606039|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=2|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.cs.ox.ac.uk/people/chris.heunen/flowincat/|domain=cs.ox.ac.uk|U=2|L=6|UL=2|WUL=1}}{{User:COIBot/OtherLinks|link=www.cs.ox.ac.uk/people/chris.heunen/flowincat/|domain=cs.ox.ac.uk|U=2|L=6|UL=2|WUL=1}}}}
+{{User:COIBot/EditSummary|id=1998005|lang=en|wikidomain=w|namespace=|pagename=Jacob Biamonte|username=163.1.180.84|link=www.cs.ox.ac.uk/people/chris.heunen/flowincat/|sortdomain=uk.ac.ox.cs.|domain=cs.ox.ac.uk|origdiff=http://en.wikipedia.org/w/index.php?diff=476152947&oldid=476102368|resolved=X|isIP=1|date=2012-02-10|time=18:13:24|wiki=en.wikipedia.org|revid=476152947|oldid=476102368|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=4|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.cs.ox.ac.uk/people/chris.heunen/flowincat/|domain=cs.ox.ac.uk|U=4|L=6|UL=4|WUL=1}}{{User:COIBot/OtherLinks|link=www.cs.ox.ac.uk/people/chris.heunen/flowincat/|domain=cs.ox.ac.uk|U=4|L=6|UL=4|WUL=1}}}}
+{{User:COIBot/EditSummary|id=2184129|lang=en|wikidomain=w|namespace=|pagename=Jacob Biamonte|username=163.1.180.84|link=www.cs.ox.ac.uk/people/chris.heunen/flowincat/|sortdomain=uk.ac.ox.cs.|domain=cs.ox.ac.uk|origdiff=http://en.wikipedia.org/w/index.php?diff=476505064&oldid=476443251|resolved=X|isIP=1|date=2012-02-12|time=20:13:24|wiki=en.wikipedia.org|revid=476505064|oldid=476443251|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=4|top=1|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.cs.ox.ac.uk/people/chris.heunen/flowincat/|domain=cs.ox.ac.uk|U=4|L=6|UL=4|WUL=1}}{{User:COIBot/OtherLinks|link=www.cs.ox.ac.uk/people/chris.heunen/flowincat/|domain=cs.ox.ac.uk|U=4|L=6|UL=4|WUL=1}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 3 additions out of 3 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/cs.ox.ac.uk]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bcs\.ox\.ac\.uk\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/cs.ox.ac.uk]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|open}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/cs.ox.ac.uk|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 20:16, 12 February 2012 (UTC)

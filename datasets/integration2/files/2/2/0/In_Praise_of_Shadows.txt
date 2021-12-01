@@ -1,0 +1,95 @@
+{{infobox book
+| name          = In Praise of Shadows
+| image         = In praise of shadows.jpg
+| caption       = English language cover
+| title_orig    = {{noitalic|陰翳礼讃}} (In'ei Raisan)
+| orig_lang_code= ja
+| translator    = Thomas J. Harper and [[Edward Seidensticker|Edward G. Seidensticker]]
+| author        = [[Jun'ichirō Tanizaki]]
+| illustrator   =
+| cover_artist  =
+| country       = [[Japan]]
+| language      = [[Japanese language|Japanese]]
+| series        =
+| genre         = [[Philosophy]]
+| publisher     =
+| pub_date      = 1933<ref name=Grayling/>
+| english_pub_date = 1977<ref name=Grayling/>
+| media_type    = Print ([[Paperback]])
+| pages         = 73
+| preceded_by   =
+| followed_by   =
+}}
+
+{{nihongo|'''''In Praise of Shadows'''''|陰翳礼讃 |In'ei Raisan}} is an essay on Japanese [[aesthetics]] by the [[Japanese people|Japanese]] author and novelist [[Jun'ichirō Tanizaki]]. It was translated into English by the academic students of Japanese literature, Thomas Harper and [[Edward Seidensticker]]. A new translation by Gregory Starr was published in December 2017.
+
+==Publication==
+Already sketched out in a series of comments that appear in ''[[Some Prefer Nettles]]'', Tanizaki's aesthetic credo, in the more finished form of this essay, was originally published in 1933 in [[Japanese language|Japanese]]. The English translation was published in 1977 by Leete's Island Books.<ref name=Grayling/>
+
+The translation contains a foreword by architect and educator [[Charles Willard Moore|Charles Moore]] and an afterword by one of the translators, Thomas J. Harper. Harper was Senior Lecturer in Japanese Literature at the [[Australian National University]] in [[Canberra]]. The other translator, [[Edward Seidensticker]], was Professor of Japanese Literature at [[Columbia University]].
+
+Much shorter than the author's novels, this book is a small meditative work of 73 pages, of which 59 are the essay itself.
+
+A new English translation by Gregory Starr, with illustrations and photographs by Andrew Pothecary, was published by Sora Books in December, 2017. The 102-page edition also includes a foreword by the Japanese architect [[Kengo Kuma]] and an afterword by Japanese literature Professor Eve Zimmerman of Wellesley College.<ref>http://www.sorabooksjapan.com/inpraiseofshadows.html</ref>
+
+==Themes==
+The essay consists of 16 sections that discuss traditional [[Japanese aesthetics]] in contrast with change. Comparisons of light with darkness are used to contrast [[Western culture|Western]] and [[Culture of Asia|Asian cultures]]. The West, in its striving for progress, is presented as continuously searching for light and clarity, while the subtle and subdued forms of oriental art and literature are seen by Tanizaki to represent an appreciation of shadow and subtlety, closely relating to the traditional Japanese concept of [[Wabi-sabi|''sabi'']]. In addition to contrasting light and dark, Tanizaki further considers the layered tones of various kinds of shadows and their power to reflect low sheen materials like gold embroidery, patina and cloudy crystals. In addition, he distinguishes between the values of gleam and shine.
+
+The text presents personal reflections on topics as diverse as [[architecture]] and its fittings, crafts, finishes, [[jade]], food, [[cosmetics]] and ''[[mono no aware]]'' (the art of impermanence). Tanizaki explores in close description the use of space in buildings, [[lacquerware]] by candlelight,<ref name=Grayling/> monastery toilets<ref>{{cite web | url=https://www.theguardian.com/books/2002/oct/05/featuresreviews.guardianreview25 | publisher=[[The Guardian]] | work=Privy Counsels | title=Rereadings: A. C. Grayling on a fine study of Japanese aesthetics | date=October 5, 2002 | quote=Readers of Tanizaki are variously startled or entertained to find that his essay on the delights of what is muted, enclosed and refined by shadows, begins with a paean to the lavatories found in Japanese monasteries | last=Grayling | first=A.C. | accessdate=8 November 2008 }}</ref> and women in the dark of a brothel. The essay acts as "a classic description of the collision between the shadows of traditional Japanese interiors and the dazzling light of the modern age".{{attribution needed|date=April 2018}}<ref>Jacket notes, Vintage Classics 2001 edn.</ref></blockquote>
+
+In the Sora Books edition, the 16 section themes are:
+* On construction
+* The toilet aesthetic
+* A different course
+* A novelist's daydreams
+* On paper, tin and dirt
+* Candlelight and lacquerware
+* Bowls of broth
+* The enigma of shadows
+* An uncanny silence
+* Reflections in darkness
+* Shadows on the stage
+* The woman of old
+* Beauty in the dark
+* A world of shadows
+* A cool breeze in total darkness
+* Final grumblings
+
+==Cultural notes==
+Tanizaki's observations include cultural notes on topics such as arts and crafts, paper making, lacquerware design and the Japanese room. He gives a recipe for the unusual dish of [[Persimmon]] leaf [[Sushi]] on pages 60 to 62. He also refers to many historic places and temples, as well as celebrated eateries of the day, along with customs like "moon-viewing" (''[[tsukimi]]'').
+<!--
+==Quotations==
+<blockquote>[W]e Orientals tend to seek our satisfactions in whatever surroundings we happen to find ourselves, to content ourselves with things as they are; and so darkness causes us no discontent, we resign ourselves to it as inevitable. If light is scarce then light is scarce; we will immerse ourselves in the darkness and there discover its own particular beauty. But the progressive Westerner is determined always to better his lot. From candle to oil lamp, oil lamp to gaslight, gaslight to electric light — his quest for a brighter light never ceases, he spares no pains to eradicate even the minutest shadow.<ref>Tanizaki, op cit, pp 47–48</ref></blockquote>
+
+<blockquote>I would call back at least for literature this world of shadows we are losing. In the mansion called literature I would have the eaves deep and the walls dark, I would push back into the shadows the things that come forward too clearly, I would strip away the useless decoration.<ref>Tanizaki, ibid, p 63</ref></blockquote>
+-->
+
+==Featured individuals==
+Among the historic and contemporary individuals mentioned in the essay are:<ref>Jun'ichirō Tanizaki (1933). ''In Praise of Shadows''.</ref>
+* [[Natsume Sōseki]], novelist, on the experience of textures and landscape via the traditional Japanese toilet, p.&nbsp;9; Sōseki's ''Pillow of Grass'', p.&nbsp;26.
+* [[Saitō Ryokuu]], poet quoted as saying "elegance is frigid", p.&nbsp;10.
+* [[Buddha]] and [[Confucius]], p.&nbsp;16.
+* Kongō Iwao, Nō actor, p.&nbsp;39.
+* Baikō, aging Kabuki actor, p.&nbsp;43.
+* Takebaya Sanehiko, president of [[Kaizō (magazine)|Kaizō Publishing House]] (which had published Tanizaki's earlier novel ''[[Quicksand (Tanizaki novel)|Quicksand]]''), p.&nbsp;54.
+* [[Albert Einstein]], scientist, p.&nbsp;54.
+
+==Reception==
+The work has been praised for its insight and relevance into issues of modernity and culture,<ref name=Sowin>{{cite web | url=http://www.fireandknowledge.org/archives/2006/09/23/in-praise-of-shadows-a-meditation/ | last=Sowin | first=Joshua | date=23 September 2008 | accessdate=8 November 2008 | work=[http://www.fireandknowledge.org/ Fire and Knowledge] | title=In Praise of Shadows: A Meditation}}</ref> and Tanizaki has been called an "ecological prophet".<ref name=Sowin/>  [[A. C. Grayling]] has described Tanizaki's essay on Japanese taste as a "hymn to nuance" and an exercise in mindfulness.<ref name=Grayling>{{cite web | url=https://www.theguardian.com/books/2002/oct/05/featuresreviews.guardianreview25 | publisher=[[The Guardian]] | work=Privy Counsels | title=Rereadings: AC Grayling on a fine study of Japanese aesthetics | date=October 5, 2002 | last=Grayling | first=A. C. | accessdate=8 November 2008 }}</ref>
+
+<blockquote>Junichiro Tanizaki selects for praise all things delicate and nuanced, everything softened by shadows and the patina of age, anything understated and natural—as for example the patterns of grain in old wood, the sound of rain dripping from eaves and leaves, or washing over the footing of a stone lantern in a garden, and refreshing the moss that grows about it – and by doing so he suggests an attitude of appreciation and mindfulness, especially mindfulness of beauty, as central to life lived well.<ref name=Grayling/></blockquote>
+
+In the spirit of Tanizaki juxtaposing the cultures of east and west, Grayling notes a link to a similar approach and emphasis in the British writer [[Walter Pater]] whose late Renaissance essay he quotes, "The service of speculative culture towards the human spirit is to rouse, to startle it to a life of constant and eager observation". Grayling concludes that the difference between the two essayists lies in the "tranquility" of Tanizaki and the "intensity" of Pater.<ref name=Grayling/>
+
+In 2001, [[Random House]] published a reprint in paperback.<ref>http://www.randomhouse.co.uk/catalog/book.htm?command=Search&db=main.txt&eqisbndata=0099283573</ref>
+
+Regarding the new translation published by Sora Books, David Mitchell, author of Cloud Atlas, wrote, "A rhapsodic meditation on a vanishing world, its aesthetics and its values. Gregory Starr's new translation is pitch perfect and transparent." Stephen Mansfield, in the ''Japan Times'' wrote, "Tanizaki, in Gregory Starr’s new and highly accomplished translation, samples a number of instances where the use and perception of light differs from the West, noting that, where Western paper reflects light, traditional Japanese paper absorbs it."<ref>https://www.japantimes.co.jp/culture/2018/02/17/books/darkness-aside-beauty-exists-tanizakis-shadows/#.WpIgyoKYOV4</ref>
+
+==References==
+{{Reflist}}
+
+{{Junichiro Tanizaki}}
+
+{{DEFAULTSORT:In Praise Of Shadows}}
+[[Category:1933 books]]
+[[Category:Books by Junichiro Tanizaki]]

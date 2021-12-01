@@ -1,0 +1,51 @@
+{{Infobox gene}}
+
+'''Retinoid X receptor gamma''' ('''RXR-gamma'''), also known as '''NR2B3''' (nuclear receptor subfamily 2, group B, member 3) is a [[nuclear receptor]] that in humans is encoded by the ''RXRG'' [[gene]].<ref name="pmid8034312">{{cite journal | vauthors = Almasan A, Mangelsdorf DJ, Ong ES, Wahl GM, Evans RM | title = Chromosomal localization of the human retinoid X receptors | journal = Genomics | volume = 20 | issue = 3 | pages = 397–403 | date = April 1994 | pmid = 8034312 | doi = 10.1006/geno.1994.1193 }}</ref><ref name="entrez" />
+
+== Function ==
+
+This gene encodes a member of the [[retinoid X receptor]] (RXR) family of nuclear receptors which are involved in mediating the antiproliferative effects of [[retinoic acid]] (RA). This receptor forms heterodimers with the [[retinoic acid receptor|retinoic acid]], [[thyroid hormone receptor|thyroid hormone]], and [[calcitriol receptor|vitamin D receptors]], increasing both DNA binding and transcriptional function on their respective response elements. This gene is expressed at significantly lower levels in non-small cell lung cancer cells. [[Alternative splicing|Alternate transcriptional splice]] variants, encoding different [[protein isoform|isoforms]], have been characterized.<ref name="entrez">{{cite web | title = Entrez Gene: RXRG retinoid X receptor, gamma| url = https://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=6258}}</ref>
+
+== See also ==
+* [[Retinoid X receptor]]
+
+== Interactions ==
+
+Retinoid X receptor gamma has been shown to [[Protein-protein interaction|interact]] with [[ITGB3BP]].<ref name=pmid11713274>{{cite journal | vauthors = Li D, Wang F, Samuels HH | title = Domain structure of the NRIF3 family of coregulators suggests potential dual roles in transcriptional regulation | journal = Mol. Cell. Biol. | volume = 21 | issue = 24 | pages = 8371–84 | date = Dec 2001 | pmid = 11713274 | pmc = 100002 | doi = 10.1128/MCB.21.24.8371-8384.2001 }}</ref>
+
+== References ==
+{{Reflist}}
+{{Clear}}
+
+== Further reading ==
+{{Refbegin | 2}}
+* {{cite journal | vauthors = Szanto A, Narkar V, Shen Q, Uray IP, Davies PJ, Nagy L | title = Retinoid X receptors: X-ploring their (patho)physiological functions. | journal = Cell Death Differ. | volume = 11 Suppl 2 | pages = S126–43 | year = 2005 | pmid = 15608692 | doi = 10.1038/sj.cdd.4401533 | doi-access = free }}
+* {{cite journal | vauthors = Leid M, Kastner P, Lyons R, Nakshatri H, Saunders M, Zacharewski T, Chen JY, Staub A, Garnier JM, Mader S | title = Purification, cloning, and RXR identity of the HeLa cell factor with which RAR or TR heterodimerizes to bind target sequences efficiently. | journal = Cell | volume = 68 | issue = 2 | pages = 377–95 | year = 1992 | pmid = 1310259 | doi = 10.1016/0092-8674(92)90478-U | s2cid = 40617478 }}
+* {{cite journal | vauthors = Mangelsdorf DJ, Borgmeyer U, Heyman RA, Zhou JY, Ong ES, Oro AE, Kakizuka A, Evans RM | title = Characterization of three RXR genes that mediate the action of 9-cis retinoic acid. | journal = Genes Dev. | volume = 6 | issue = 3 | pages = 329–44 | year = 1992 | pmid = 1312497 | doi = 10.1101/gad.6.3.329 | doi-access = free }}
+* {{cite journal | vauthors = Nagata T, Weiss EH, Abe K, Kitagawa K, Ando A, Yara-Kikuti Y, Seldin MF, Ozato K, Inoko H, Taketo M | title = Physical mapping of the retinoid X receptor B gene in mouse and human. | journal = Immunogenetics | volume = 41 | issue = 2–3 | pages = 83–90 | year = 1995 | pmid = 7806300 | doi = 10.1007/BF00182317 | s2cid = 29455544 }}
+* {{cite journal | vauthors = Muscat GE, Mynett-Johnson L, Dowhan D, Downes M, Griggs R | title = Activation of myoD gene transcription by 3,5,3'-triiodo-L-thyronine: a direct role for the thyroid hormone and retinoid X receptors | journal = Nucleic Acids Res. | volume = 22 | issue = 4 | pages = 583–91 | year = 1994 | pmid = 8127707 | pmc = 307847 | doi = 10.1093/nar/22.4.583 }}
+* {{cite journal | vauthors = Kamei Y, Xu L, Heinzel T, Torchia J, Kurokawa R, Gloss B, Lin SC, Heyman RA, Rose DW, Glass CK, Rosenfeld MG | title = A CBP integrator complex mediates transcriptional activation and AP-1 inhibition by nuclear receptors | journal = Cell | volume = 85 | issue = 3 | pages = 403–14 | year = 1996 | pmid = 8616895 | doi = 10.1016/S0092-8674(00)81118-6 | doi-access = free }}
+* {{cite journal | vauthors = Bonaldo MF, Lennon G, Soares MB | title = Normalization and subtraction: two approaches to facilitate gene discovery | journal = Genome Res. | volume = 6 | issue = 9 | pages = 791–806 | year = 1997 | pmid = 8889548 | doi = 10.1101/gr.6.9.791 | doi-access = free }}
+* {{cite journal | vauthors = Sanno N, Sugawara A, Teramoto A, Abe Y, Yen PM, Chin WW, Osamura RY | title = Immunohistochemical expression of retinoid X receptor isoforms in human pituitaries and pituitary adenomas | journal = Neuroendocrinology | volume = 65 | issue = 4 | pages = 299–306 | year = 1997 | pmid = 9143002 | doi = 10.1159/000127188 }}
+* {{cite journal | vauthors = Reichrath J, Mittmann M, Kamradt J, Müller SM | title = Expression of retinoid-X receptors (-alpha,-beta,-gamma) and retinoic acid receptors (-alpha,-beta,-gamma) in normal human skin: an immunohistological evaluation | journal = Histochem. J. | volume = 29 | issue = 2 | pages = 127–33 | year = 1997 | pmid = 9147069 | doi = 10.1023/A:1026481205135 | s2cid = 24005650 }}
+* {{cite journal | vauthors = Xu XC, Sozzi G, Lee JS, Lee JJ, Pastorino U, Pilotti S, Kurie JM, Hong WK, Lotan R | title = Suppression of retinoic acid receptor beta in non-small-cell lung cancer in vivo: implications for lung cancer development | journal = J. Natl. Cancer Inst. | volume = 89 | issue = 9 | pages = 624–9 | year = 1997 | pmid = 9150186 | doi = 10.1093/jnci/89.9.624 | doi-access = free }}
+* {{cite journal | vauthors = Yusta B, Alarid ET, Gordon DF, Ridgway EC, Mellon PL | title = The thyrotropin beta-subunit gene is repressed by thyroid hormone in a novel thyrotrope cell line, mouse T alphaT1 cells | journal = Endocrinology | volume = 139 | issue = 11 | pages = 4476–82 | year = 1998 | pmid = 9794455 | doi = 10.1210/en.139.11.4476 | doi-access = free }}
+* {{cite journal | vauthors = Ito K, Suzuki T, Moriya T, Utsunomiya H, Sugawara A, Konno R, Sato S, Sasano H | title = Retinoid receptors in the human endometrium and its disorders: a possible modulator of 17 beta-hydroxysteroid dehydrogenase | journal = J. Clin. Endocrinol. Metab. | volume = 86 | issue = 6 | pages = 2721–7 | year = 2001 | pmid = 11397877 | doi = 10.1210/jc.86.6.2721 }}
+* {{cite journal | vauthors = Kim SW, Kim HJ, Jung DJ, Lee SK, Kim YS, Kim JH, Kim TS, Lee JW | title = Retinoid-dependent antagonism of serum response factor transactivation mediated by transcriptional coactivator proteins | journal = Oncogene | volume = 20 | issue = 45 | pages = 6638–42 | year = 2001 | pmid = 11641790 | doi = 10.1038/sj.onc.1204695 | s2cid = 7377737 }}
+* {{cite journal | vauthors = Brabender J, Danenberg KD, Metzger R, Schneider PM, Lord RV, Groshen S, Tsao-Wei DD, Park J, Salonga D, Hölscher AH, Danenberg PV | title = The role of retinoid X receptor messenger RNA expression in curatively resected non-small cell lung cancer | journal = Clin. Cancer Res. | volume = 8 | issue = 2 | pages = 438–43 | year = 2002 | pmid = 11839661 }}
+* {{cite journal | vauthors = Wansa KD, Harris JM, Muscat GE | title = The activation function-1 domain of Nur77/NR4A1 mediates trans-activation, cell specificity, and coactivator recruitment | journal = J. Biol. Chem. | volume = 277 | issue = 36 | pages = 33001–11 | year = 2002 | pmid = 12082103 | doi = 10.1074/jbc.M203572200 | doi-access = free }}
+* {{cite journal | vauthors = Wang Q, Fujii H, Knipp GT | title = Expression of PPAR and RXR isoforms in the developing rat and human term placentas | journal = Placenta | volume = 23 | issue = 8–9 | pages = 661–71 | year = 2003 | pmid = 12361685 | doi = 10.1053/plac.2002.0855 }}
+* {{cite journal | vauthors = Kimura Y, Suzuki T, Kaneko C, Darnel AD, Moriya T, Suzuki S, Handa M, Ebina M, Nukiwa T, Sasano H | title = Retinoid receptors in the developing human lung | journal = Clin. Sci. | volume = 103 | issue = 6 | pages = 613–21 | year = 2003 | pmid = 12444914 | doi =  10.1042/cs1030613}}
+* {{cite journal | vauthors = Alfaro JM, Fraile B, Lobo MV, Royuela M, Paniagua R, Arenas MI | title = Immunohistochemical detection of the retinoid X receptors alpha, beta, and gamma in human prostate | journal = J. Androl. | volume = 24 | issue = 1 | pages = 113–9 | year = 2003 | pmid = 12514092 }}
+{{Refend}}
+
+{{NLM content}}
+{{PDB Gallery|geneid=6258}}
+{{Transcription factors|g2}}
+{{Retinoid receptor modulators}}
+
+[[Category:Intracellular receptors]]
+[[Category:Transcription factors]]
+
+
+{{Gene-1-stub}}

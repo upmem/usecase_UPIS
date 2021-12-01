@@ -1,0 +1,96 @@
+{{Use dmy dates|date=May 2016}}
+{{Infobox person
+| name         = Giancarlo Sbragia
+| image        = Giancarlosbragia.jpg
+| imagesize    = 
+| caption      = 
+| birth_name   = 
+| birth_date   = {{birth date|1926|3|14|df=yes}}
+| birth_place  = [[Rome]], Italy
+| death_date   = {{death date and age |1994|6|28|1926|3|14|df=yes}}
+| death_place  = Rome, Italy
+| years_active = 1947-1988
+| occupation   = actor, voice actor, stage director, playwright
+| other_names  = Gian Carlo Sbragia
+| spouse       = Esmeralda Ruspoli<br>[[Alessandra Panaro]] (1992-1994) (his death)
+}}
+
+'''Giancarlo Sbragia''' (14 March 1926 – 28 June 1994) was an Italian actor, voice actor, stage director and playwright.
+
+== Life and career ==
+Born in [[Rome]], Sbragia graduated at the [[Silvio d’Amico Academy of Dramatic Arts]] in 1947, and debuted on stage at the [[Piccolo Teatro (Milan)|Piccolo Teatro]] in [[Milan]], with the theatrical company of [[Giorgio Strehler]].<ref name=bio>{{cite book|last1=Roberto Poppi, Enrico Lancia|title=Dizionario del cinema italiano : Gli attori dal 1930 ai giorni nostri|publisher=Gremese Editore, 2003|isbn=8884402697|pages=184-185}}</ref><ref name=corr>{{cite news|last1=Giovanni Raboni|title=Addio a Sbragia attore non stop|url=http://archiviostorico.corriere.it/1994/giugno/29/addio_Sbragia_attore_non_stop_co_0_94062913882.shtml|accessdate=17 December 2014|newspaper=[[Corriere della Sera]]|date=29 June 1994|page=32}}</ref> He debuted as a playwright in 1953 with the play ''Le veglie inutili'', and in 1956 he debuted as a stage director with the drama ''Ricorda con rabbia''.<ref name=bio></ref><ref name=corr></ref> Between 1958 and 1959 he worked with the theatrical company of [[Michelangelo Antonioni]] and [[Luca Ronconi]], and in 1960 he was co-founder, together with [[Enrico Maria Salerno]] and [[Ivo Garrani]], of the stage company "Attori Associati".<ref name=bio></ref> Between the 1960s and the 1970s Sbragia was also very active on television series, notably playing [[Napoleon]] in the successful drama series ''I grandi camaleonti''.<ref name=bio></ref><ref name=corr></ref> 
+
+=== Personal life ===
+Sbragia was the father of actor [[Mattia Sbragia]].<ref name=bio></ref> From 1992 until his death, he was married to the actress [[Alessandra Panaro]].<ref name=ATTRICI>{{cite book|last=Enrico Lancia, Roberto Poppi|title=Dizionario del cinema italiano, Le Attrici|publisher=Gremese Editore, 2003|isbn=888440214X}}</ref>
+
+==Filmography==
+{| class="wikitable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+|1951|| ''[[Fugitive in Trieste]]'' || ||
+|-
+|1959|| ''[[Wolves of the Deep]]'' || Idrofonista ||
+|-
+|1960|| ''[[Messalina (1960 film)|Messalina]]'' || Aulo Celso ||
+|-
+|1960|| ''[[Goliath and the Dragon]]'' || Tindaro ||
+|-
+|1961|| ''[[The Lovemakers (film)|The Lovemakers]]'' || Amerigo || Voice, Uncredited
+|-
+|1961|| ''Laura nuda'' || Il prete ||
+|-
+|1962|| ''[[War Gods of Babylon]]'' || Arbace ||
+|-
+|1963|| ''[[The Fall of Rome (film)|The Fall of Rome]]'' || Giunio ||
+|-
+|1964|| ''La Grande Magia'' || ||
+|-
+|1964|| ''La fleur de l'âge, ou Les adolescentes'' || ||
+|-
+|1964|| ''Senza sole né luna'' || ||
+|-
+|1971|| ''[[The Bloodstained Butterfly]]'' || Alessandro Marchi ||
+|-
+|1971|| ''Le Saut de l'ange'' || Forestier ||
+|-
+|1972|| ''Policeman'' || ||
+|-
+|1972|| ''Equinozio'' || ||
+|-
+|1973|| ''[[Tony Arzenta|Tony Arzenta - Big Guns]]'' || Luca Dennino ||
+|-
+|1976|| ''[[Death Rage]]'' || Gennaro Gallo ||
+|-
+|1977|| ''[[Highway Racer]]'' || Maresciallo Tagliaferri ||
+|-
+|1978|| ''[[Ritratto di borghesia in nero]]'' || Maffei ||
+|-
+|1988|| ''[[The Camels]]'' || Anna's Father || (final film role)
+|}
+
+== References ==
+<references/>
+
+== External links ==
+{{commonscat-inline}}
+* {{IMDb name|0768640}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sbragia, Giancarlo}}
+[[Category:1926 births]]
+[[Category:1994 deaths]]
+[[Category:Italian male film actors]]
+[[Category:Italian male television actors]]
+[[Category:Italian male stage actors]]
+[[Category:Male actors from Rome]]
+[[Category:20th-century Italian male actors]]
+[[Category:Accademia Nazionale di Arte Drammatica Silvio D'Amico alumni]]
+[[Category:Italian dramatists and playwrights]]
+[[Category:Italian theatre directors]]
+[[Category:Writers from Rome]]
+[[Category:People of Lazian descent]]

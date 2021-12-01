@@ -1,0 +1,56 @@
+The '''Serbian copyright act''' ({{lang-sr|Закон о ауторском и сродним правима}}) was published as the copyright act of [[Serbia and Montenegro]] on 24 December 2004, and it remains in force after the country's split under the "Declaration of continuation by Republic of Serbia", September 19, 2006.
+
+The act consists of eight sections: 
+#Subject-matter of the act
+#Copyright
+#Related rights
+#Exercise of copyright and related rights
+#Records of works of authorship and subject-matters of related rights
+#Protection of copyright and related rights
+#Penal provisions
+#Transitional and final provisions
+
+==Scope==
+The act defines the "work of authorship" as an "author's original intellectual creation, expressed in a certain form, regardless of its value, purpose, size and contents". The following are considered as "works of authorship in particular":
+
+# Written works 
+# Spoken works (lectures, speeches, orations, etc.);
+# Dramatic, dramatic-musical, choreographic and pantomime works, as well as works originating from folklore;
+# Works of music
+# Films (cinema and television);
+# Fine art works
+# Works of architecture, applied art and industrial design;
+# Cartographic works
+# Drawings, sketches, dummies and photographs;
+# The direction of a theatre play.
+
+==Exemptions==
+According to the Article 6 (section 2) of the act, 
+
+#''The protection of copyright shall not apply to general ideas, principles and instructions included in a work of authorship.''
+#''The following shall not be deemed works of authorship:''
+## ''Laws, decrees and other regulations;''
+## ''Official materials of state bodies and bodies performing public functions;''
+## ''Official translations of regulations and official materials of state bodies and bodies performing public functions;''
+## ''Submissions and other documents presented in the administrative or court proceedings.''
+
+==References==
+* [http://www.zis.gov.rs/upload/documents/pdf_en/pdf_ap/copyright%20law-IZMENE%20%20I%20DOPUNE%20eng.pdf The Law on Copyright and Related Rights]
+* Tiede/Bogedain, "Introduction to the Copyright law of the Republic of Serbia" ("Einführung in das Urheberrecht der Republik Serbien"), in WiRO 2012 (German Law Journal), vol. 1, pp. 13-18 (in German language)
+
+==See also==
+* [[List of parties to international copyright treaties]]
+
+==External links==
+* [http://www.zis.gov.rs Intellectual Property Office, Republic of Serbia - Legislation]
+
+{{Europe topic|Copyright law of|state=expand}}
+{{Copyright law by country}}
+
+{{DEFAULTSORT:Law on Copyright and Related Rights }}
+[[Category:Copyright law by country|Serbia]]
+[[Category:Serbian law]]
+
+
+{{serbia-stub}}
+{{statute-stub}}

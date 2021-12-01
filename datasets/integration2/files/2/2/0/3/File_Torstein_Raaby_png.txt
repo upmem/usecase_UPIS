@@ -1,0 +1,14 @@
+== Summary ==
+{{Non-free use rationale
+ |Article           = Torstein Raaby
+ |Description       = historical photo of Torstein Raaby
+ |Source            = http://www.cinemarx.ro/persoane/Torstein-Raaby-59818.html
+ |Portion           = full
+ |Low_resolution    = yes
+ |Purpose           = infobox
+ |Replaceability    = no free image known
+ |other_information = crewmember on the [[Kon-Tiki]] expedition
+}}
+
+== Licensing ==
+{{Non-free historic image|image has rationale=yes}}

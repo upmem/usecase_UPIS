@@ -1,0 +1,28 @@
+{{main|Solipsism}}
+In [[epistemology]] and the [[philosophy of mind]], '''methodological solipsism''' has at least two distinct definitions:
+# '''Methodological solipsism''' is the epistemological thesis that the individual self and its states are the sole possible or proper starting point for philosophical construction (Wood, 295).  A skeptical turn along these lines is ''[[Cartesian skepticism]]''.
+# '''Methodological solipsism''' is the thesis that the mental properties or mental states of an organism can be individuated exclusively on the basis of that state or property's relations with other internal states of the organism itself, without any reference to the society or the physical world in which the organism is embedded.
+
+The second definition was promoted by [[Jerry Fodor]] (1980).  He later went on to distinguish this thesis from another that he called ''[[methodological individualism]]''.  Fodor's motivation for introducing these concepts into the philosophical (and now psychological) lexicon was the need to defend some sort of [[internalism|internalist]] conception of the mental from the problems posed by the famous "[[Twin Earth thought experiment|Twin Earth]]" [[thought experiment]] of [[Hilary Putnam]]. Very briefly, the question is whether it is possible for two people, one living in the actual world where ''water'' is H<sub>2</sub>O and the other living in some possible world (Twin Earth) where ''water'' has all the same qualities of ''our'' water but is actually composed of ''XYZ'', to have the same beliefs (or other [[propositional attitude]]s) about ''water''.  The [[externalism|externalist]] says that this is not possible, while the internalist insists that it is.
+
+Fodor defines methodological solipsism as the extreme position that states that the content of someone's beliefs about, say, water has absolutely nothing to do with the substance water in the outside world, nor with the commonly accepted definition of the society in which that person lives. Everything is determined internally. Moreover, the only thing that other people have to go on in ascribing beliefs to someone else are the internal states of his or her physical brain.
+
+In contrast, Fodor defines methodological individualism as the view that mental states have a ''[[semantic]]ally evaluable'' character—that is, they are relational states. The relation that provides semantic meaning can be a relation with the external world or with one's culture and, so long as the relation produces some change in the causal power of a mental state, it can be considered to be a partial determinant of that state.
+
+==See also==
+* [[Epistemological solipsism]]
+* [[Metaphysical solipsism]]
+
+==References==
+* [[Jerry Fodor|Fodor, Jerry]] (1980), “Methodological Solipsism Considered as a Research Strategy in Cognitive Psychology,” ''Behavioral and Brain Sciences'', 3: 63-73.
+* [[Joseph Heath|Heath, Joseph]] (2005), "Methodological Individualism", ''Stanford Encyclopedia of Philosophy'', [[Edward N. Zalta]] (ed.), [http://plato.stanford.edu/entries/methodological-individualism/ Eprint].
+* [[Ron McClamrock|McClamrock, Ron]] (1991), "Methodological Individualism Considered as a Constitutive Principle of Scientific Inquiry", ''Philosophical Psychology''.
+* Wood, Ledger (1962), "Solipsism", p.&nbsp;295 in Runes (ed.), ''Dictionary of Philosophy'', Littlefield, Adams, and Company, Totowa, NJ.
+
+==External links==
+* [http://www.bcp.psych.ualberta.ca/~mike/Pearl_Street/Dictionary/contents/M/methodsolip.html Dictionary of Cognitive Science entry, Univ. of Alberta]
+* [https://books.google.com/books?id=I9sqBgAAQBAJ&pg=PA127&lpg=PA127&dq=reef+of+solipsism&source=bl&ots=507oHNKYKD&sig=9AhSlU-wWEb2lBwErooOqn_WCFM&hl=en&sa=X&ei=Fl8CVYLFD5PQgwTO4YCACA&ved=0CCkQ6AEwAg#v=onepage&q=reef%20of%20solipsism&f=false Google Books entry on the Reef]
+
+[[Category:Theory of mind]]
+[[Category:Epistemological theories]]
+[[Category:Thought experiments in philosophy of mind]]

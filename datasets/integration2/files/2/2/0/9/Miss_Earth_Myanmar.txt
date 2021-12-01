@@ -1,0 +1,222 @@
+{{Infobox organization
+| image = 
+| caption = 
+| map = 
+| motto = Beauties for caring
+| formation = 2014
+| type = [[Beauty pageant]]
+|headquarters = {{flag|Yangon}}
+|location     = {{flag|Myanmar}}
+| language = [[Burmese language|Burmese]], [[English language|English]]
+| leader_title = 
+| leader_name = 
+| name = Miss Earth Myanmar
+| image_border = 
+| size = 
+| msize = 
+| mcaption = 
+| membership = [[Miss Earth]]<br>
+| website = [https://www.facebook.com/MissEarthMyanmar/MissEarthMyanmarOffical/  Website]
+}}
+
+'''Miss Earth Myanmar''' is a national [[beauty pageant]] in [[Myanmar]].
+
+==History==
+
+Miss Earth Myanmar is a beauty pageant in Myanmar where the winner represents her country at the [[Miss Earth]] pageant.<ref>{{Cite news|url=https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.mizzimaburmese.com%2Farticle%2F42434&edit-text=|title=Miss Miss Earth Myanmar 2018 Winner held Votes|last=News|first=Mizzima|date=19 August 2018|work=Mizzima Daily|access-date=19 August 2018}}</ref> The winners become an Environmental Ambassador in Myanmar and participate in environmental conservation activities.<ref name=thet-wins>{{Cite news|url=http://www.elevenmyanmar.com/entertainment/14648|title=Chaw Yupa Thet wins Miss Earth Myanmar 2018|last=News|first=Myanmar|date=20 August 2018|work=Eleven Media Group Co., Ltd|access-date=20 August 2018}}</ref>   
+
+The main purpose of the title is Beauties for caring.
+
+==Titleholders==
+===Winner===
+{| class="wikitable sortable" style="font-size: 95%; text-align:center"
+!width="60"|Year||width="250"|'''Miss Earth Myanmar'''|| width="100" |Represented||width="250"|Venue||width="60"|Entrant
+|-
+|2020
+|Amara Shun Lei
+|{{flag|Yangon}}
+|
+|
+|-
+|2019
+|May Thadar Ko<ref>{{Cite web|title=Thí sinh Miss Earth diễn bikini - VnExpress|url=https://vnexpress.net/thi-sinh-miss-earth-dien-bikini-3996070.html|last=VnExpress|website=vnexpress.net|language=vi|access-date=2020-05-31}}</ref>
+|{{flag|Mandalay}}
+|Diamond Plaza Mandalay
+|25
+|-
+|2018
+|Chaw Yupar Thet<ref>{{Cite web|title=Miss Earth 2018 results: Karen Ibasco crowns Nguyen Phuong Khanh as her successor|url=https://conandaily.com/2018/11/03/miss-earth-2018-results-karen-ibasco-crowns-nguyen-phuong-khanh-as-her-successor/|last=Estevez|first=Jillianina|date=2018-11-03|website=CONAN Daily|language=en|access-date=2020-05-31}}</ref>
+|{{flag|Yangon}}
+|LOTTE Hotel & Serviced Apartments
+|26
+|-
+|2017
+|Tin Sandar Myo<ref>{{Cite web|title= Meet the candidates of Miss Earth 2017|url=http://www.rappler.com/life-and-style/specials/miss-earth/186771-miss-earth-2017-candidates-press-photos|last=Villano|first=Alexa|website=Rappler|language=en|access-date=2020-05-31}}</ref><ref>{{Cite web|title=Các người đẹp Miss Earth che mặt diễn bikini|url=https://baodautu.vn/cac-nguoi-dep-miss-earth-che-mat-dien-bikini-d71345.html|website=baodautu|language=vi|access-date=2020-05-31}}</ref>
+|{{flag|Yangon}}
+|National Theater of Yangon
+|26
+|-
+! colspan="5" |Miss Golden Land Myanmar (2014-2016)
+|-
+|2016
+|Nan Khine Shwe Warwin<ref>{{Cite web|title=Miss Earth 2016: 84 contestants walk in swimsuit; Rashi Yadav to represent India|url=https://www.ibtimes.co.in/miss-earth-2016-84-contestants-walk-swimsuit-rashi-yadav-represent-india-699273|last=Mehta|first=Ankita|date=2016-10-12|website=International Business Times, India Edition|language=english|access-date=2020-05-31}}</ref>
+|{{flag|Kayin State}}
+| rowspan="3" |Myanmar Convention Center (MCC)
+|20
+|-
+|2015
+|[[Eaint Myat Chal]]<ref>{{Cite web|title=Miss Earth 2015 predictions: The possibilities in Vienna|url=http://www.rappler.com/life-and-style/specials/miss-earth/114974-miss-earth-2015-pageant-predictions|last=Tinio|first=Norman|website=Rappler|language=en|access-date=2020-05-31}}</ref>
+|{{flag|Mon State}}
+|30
+|-
+|2014
+|Ei Mon Khine<ref>{{Cite web|title=Miss Earth 2014: Miss Myanmar Ei Mon Khine|url=http://ph.celebrity.yahoo.com/news/miss-earth-2014--miss-myanmar-ei-mon-khine-155913330.html|website=ph.celebrity.yahoo.com|language=en-US|access-date=2020-05-31}}</ref><ref>{{Cite web|title=Myanmar joins Miss Earth for the first time|url=https://www.nationthailand.com/news/30247502|website=Nation Thailand|language=en-US|access-date=2020-05-31}}</ref>
+|{{flag|Yangon}}
+|25
+|}
+
+===Winners by City/Town===
+{| border="2" cellpadding="2" cellspacing="0" style="margin: 0 1em 0 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|-
+! bgcolor="#efefef"  | City/Town
+! bgcolor="#efefef"  | Titles
+! bgcolor="#efefef"  | Winning Years
+|-
+|{{flag|Yangon}}
+|<center>3</center>
+|2014, 2017, 2018
+|-
+|{{flag|Mandalay}}
+| rowspan="3" |<center>1</center>
+|2019
+|-
+|{{flag|Kayin State}}
+|2016
+|-
+|{{flag|Mon State}}
+|2015
+|}
+
+===Runners-up===
+{|class="wikitable" style= "text-align:left; font-size: 10pt; line-height:15px;"  
+! width="60"| Year 
+! width="300"| Miss Teen Earth Myanmar
+! width="300" |Miss Earth Air Myanmar
+! width="300" |Miss Earth Fire Myanmar
+! width="300" |Miss Earth Water Myanmar
+! width="300" | Miss Eco Tourism Myanmar
+|-
+|2019
+|Shwe Chuu Ngone<br/>{{flagicon|Mandalay Region}} [[Innwa]]
+|Linn Thadar<br/>{{flagicon|Yangon}} [[Yangon|Yangon West]]
+|Zun Zin Zin Tun<br/>{{flagicon|Magway Region}} [[Minbu]]
+|Aye Myat Noe Aung<br/>{{flagicon|Magway Region}} [[Pyin Oo Lwin]]
+|Alice Sharr<br/>{{flagicon|Yangon}} [[Yangon|Yangon East]]
+|-
+|2018
+|Thin Thinzar Soe<br/>{{flag|Yangon}}
+|''Unknown''<br/>{{flagicon|}} ''Unknown''
+|''Unknown''<br/>{{flagicon|}} ''Unknown''
+|''Unknown''<br/>{{flagicon|}} ''Unknown''
+|Pyae Phu Mon<br/>{{flag|Yangon}}
+|-
+| 2017
+|Yuki San<br/>{{flag|Yangon}}
+|Susan Shwine<br/>{{flag|Yangon}}
+|Yin Yin Htet<br/>{{flag|Yangon}}
+|Su Wut Yee<br/>{{flag|Yangon}}
+|Hnin Wai Wai Nwal<br/>{{flag|Yangon}}
+|-
+|}
+
+==International pageants==
+'''Color key'''
+
+* {{Color box|gold|border=darkgray}} Declared as Winner
+* {{Color box|#FFFF66|border=darkgray}} Ended as runner-up
+* {{Color box|#FFFACD|border=darkgray}} Ended as one of the top semi-finalists
+* {{Color box|#FADADD|border=black}} : Ended as special awards winner
+===Miss Earth===
+{| class="wikitable sortable" style="font-size: 95%; text-align:center"
+!width="60" style="background-color:#787878;color:#FFFFFF;"|Year
+!width="200" style="background-color:#787878;color:#FFFFFF;"|Delegate
+! width="100" style="background-color:#787878;color:#FFFFFF;" |Represented
+!width="250" style="background-color:#787878;color:#FFFFFF;"|Placement
+!width="250" style="background-color:#787878;color:#FFFFFF;"|Special Awards
+|-
+|-style="background-color:#FFFACD;"
+|{{flagicon|PHI}} [[Miss Earth 2020|2020]]
+|align="center" |Amara Shune Lei
+|align="center" |{{flag|Yangon}}
+|align="center" |'''Top 8'''
+|
+* '''{{gold01}}''' '''Beach Wear'''
+* '''{{silver02}} Evening Gown'''
+* '''{{silver02}} Sports Wear'''
+* '''{{silver02}} Talent Competition (Creative)'''
+* '''{{bronze03}} Best National Costume'''
+|-
+|{{flagicon|PHI}} [[Miss Earth 2019|2019]]
+|align="center" | May Thadar Ko<ref>{{Cite web|title=Miss Earth 2019 pageant|url=http://www.rappler.com/life-and-style/specials/miss-earth/243086-highlights-pageant-2019|last=Rappler.com|website=Rappler|language=en|access-date=2020-05-31}}</ref><ref>{{Cite web|title=MisOr presents Miss Earth 2019 candidates|url=https://mindanaogoldstardaily.com/misor-presents-miss-earth-2019-candidates/|date=2019-10-07|website=Mindanao Gold Star Daily|language=en-US|access-date=2020-05-31}}</ref>
+|align="center" |{{flag|Mandalay}}
+|align="center" |Unplaced
+| 
+|-
+| {{flagicon|PHI}} [[Miss Earth 2018|2018]]
+|align="center" | Chaw Yupar Thet<ref>{{Cite news|url=https://www.rappler.com/life-and-style/specials/miss-earth/215820-winners-coronation-november-3-2018|title=Winners, Miss Earth 2018|last=News|first=Online|date=3 November 2018|work=[[Rappler]]|access-date=13 May 2019}}</ref><ref>{{Cite news|url=https://htmi.ch/2018/10/congratulations-to-colleen-pgd-on-becoming-miss-earth-myanmar-2018/|title=Coleen on becoming Miss Earth , Myanmar 2018 - HTMi|last=News|first=Myanmar|date=13 October 2018|work=HTMi|access-date=3 May 2019}}</ref><ref>{{Cite news|url=https://conandaily.com/2018/11/03/miss-earth-2018-results-karen-ibasco-crowns-nguyen-phuong-khanh-as-her-successor/|title=Miss Earth 2018 results: Karen Ibasco crowns Nguyen Phuong Khanh as her successor|last=Estevez|first=Jillianina|date=3 November 2018|work=Conan Daily|access-date=13 May 2019}}</ref>
+|align="center" |{{flag|Yangon}}
+|align="center" |Unplaced 
+|
+|-
+| {{flagicon|PHI}} [[Miss Earth 2017|2017]]
+|align="center" | Tin Sandar Myo <ref>{{Cite news|url=https://www.rappler.com/life-and-style/specials/miss-earth/186771-miss-earth-2017-candidates-press-photos|title=Meet the candidates of Miss Earth 2017|last=Villano|first=Alexa|date=31 October 2017|work=[[Rappler]]|access-date=13 May 2019}}</ref><ref>{{Cite news|url=https://www.rappler.com/life-and-style/specials/miss-earth/187850-southeast-asian-candidates-asean-summit-2017-philippines|title=Miss Earth 2017 candidates share views on ASEAN, love for country|last=Villano|first=Alexa|date=13 November 2017|work=[[Rappler]]|access-date=13 May 2019}}</ref>
+|align="center" |{{flag|Yangon}}
+|align="center" |Unplaced 
+| 
+|-
+|-style="background-color:#FADADD;"
+|{{flagicon|PHI}} [[Miss Earth 2016|2016]]
+|align="center" | Nan Khine Shwe Warwin<ref>{{Cite news|url=https://www.mmbiztoday.com/articles/miss-myanmar-mandalay-region-2018-hosted-hilton|title=Miss Myanmar Mandalay Region 2018 Hosted by Hilton|last=Johnson|first=Andrew|date=5 March 2018|work=Myanmar Business Today|access-date=13 May 2019}}</ref><ref name="listofdelegates-ibtimes">{{cite news|last1=Mehta|first1=Ankita|title=Miss Earth 2016: 84 contestants walk in swimsuit; Rashi Yadav to represent India|url=http://www.ibtimes.co.in/miss-earth-2016-84-contestants-walk-swimsuit-rashi-yadav-represent-india-699273|accessdate=13 May 2019|publisher=[[International Business Times]]|date=12 October 2016}}</ref>
+|align="center" |{{flag|Kayin State}}
+|align="center" |Unplaced 
+|
+* '''{{silver02}} Miss Photogenic'''
+* '''{{bronze03}} Miss Friendship'''
+|-
+| {{flagicon|AUT}} [[Miss Earth 2015|2015]]
+|align="center" |[[Eaint Myat Chal]]<ref>{{Cite news|url=https://www.rappler.com/life-and-style/specials/miss-earth/114974-miss-earth-2015-pageant-predictions|title=Miss Earth 2015 predictions: The possibilities in Vienna|last=Tinio|first=Norman|date=5 December 2015|work=[[Rappler]]|access-date=13 May 2015}}</ref>
+|align="center" |{{flag|Mon State}}
+|align="center" |Unplaced 
+| 
+|-
+
+|-
+|-style="background-color:#FADADD;"
+| {{flagicon|PHI}} [[Miss Earth 2014|2014]]
+|align="center" | Ei Mon Khine<ref>{{Cite news|url=https://www.yahoo.com/news/miss-earth-2014--miss-myanmar-ei-mon-khine-155913330.html|title=Miss Earth 2014: Miss Myanmar Ei Mon Khine|last=News|first=Yahoo Celebrity Editors|date=10 November 2014|work=Yahoo Southeast Asia Newsroom|access-date=20 August 2018}}</ref><ref>{{Cite news|url=http://archive-3.mizzima.com/opinion/features/item/14825-ei-mon-khine-represented-myanmar-in-the-miss-earth-2014-beauty-pageant-in-the-philippines-with-online-voting-for-the-miss-photogenic-award-currently-up-and-running|title=Ei Mon Khine represented Myanmar in the Miss Earth 2014 beauty pageant|last=News|first=Myanmar|date=16 November 2014|work=Mizzima|access-date=20 August 2018}}</ref><ref>{{Cite news|url=https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fccnchannel.net%2F2017%2F09%2F18%2Ftin-sandar-mayo-van-van-hmanthlak%2F|title=Miss Earth Myanmar 2017 Tin Sandar Mayo – Van Van Hmanthlak|last=News|first=Myanmar|date=18 September 2017|work=CCN Channel|access-date=13 May 2019}}</ref>
+|align="center" |{{flag|Yangon}}
+|align="center" |Unplaced 
+|
+*'''{{bronze03}} Miss Photogenic'''
+|}
+
+== See also ==
+*[[Miss Universe Myanmar]]
+*[[Miss World Myanmar]]
+*[[Miss International Myanmar]]
+*[[Mister Myanmar]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*[https://www.facebook.com/officialmissearthmyanmar/ Official website]
+{{Navbox|name=Beauty pageants in Myanmar|title=Beauty pageants in [[Myanmar]]|state=autocollapse|listclass=hlist|image=[[File:Flag of Myanmar.svg|40px|border|Flag of Myanmar]]|list1=*[[Miss Universe Myanmar]]
+*[[Miss World Myanmar]]
+*[[Miss International Myanmar]]
+*[[Mister Myanmar]]}}
+{{Miss Earth countries and territories}}
+[[Category:Recurring events established in 2014]]
+[[Category:Burmese awards]]
+[[Category:Miss Earth by country|Myanmar]]
+[[Category:Beauty pageants in Myanmar]]

@@ -1,0 +1,882 @@
+'''Group A of the 2015 CONCACAF Gold Cup''' was one of three groups competing of nations at the [[2015 CONCACAF Gold Cup]]. The group's matches were played in July. All six group matches were played at venues in the United States. Matches were played at [[Frisco, Texas|Frisco]]'s [[Toyota Stadium (Texas)|Toyota Stadium]] on July 7, [[Foxborough, Massachusetts|Foxborough]]'s [[Gillette Stadium]] on July 10 and [[Kansas City]]'s [[Sporting Park]] on July 13.<ref>{{cite web|title=CONCACAF Announces 2015 Gold Cup Host Cities, Venues, Group Seeds and Group Stage Dates|url=http://www.concacaf.com/article/concacaf-announces-2015-gold-cup-host-cities-venues-group-seeds-and-group-stage-dates|publisher=CONCACAF.com|accessdate=17 December 2014|date=16 December 2014}}</ref>
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Zone
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! November 2014{{refn|group=nb|The rankings of November 2014 were used for seeding for the [[2015 CONCACAF Gold Cup#Draw|draw]].}}
+! Start of event
+|-
+| A1 || style=white-space:nowrap | {{fb|USA}} || [[North American Football Union|NAFU]] || <span style="display:none">*</span> Co-hosts / Automatic  || N/A || data-sort-value="13" | 13th || [[2013 CONCACAF Gold Cup|2013]] || data-sort-value="7.5" | '''Winners''' ([[1991 CONCACAF Gold Cup|1991]], [[2002 CONCACAF Gold Cup|2002]], [[2005 CONCACAF Gold Cup|2005]], [[2007 CONCACAF Gold Cup|2007]], [[2013 CONCACAF Gold Cup|2013]]) || 28 || 27
+|-
+| A2 || style=white-space:nowrap | {{fb|PAN}} || [[Central American Football Union|UNCAF]] || [[2014 Copa Centroamericana]] 3rd place || 10 September 2014 || data-sort-value="7" | 7th || [[2013 CONCACAF Gold Cup|2013]] || data-sort-value="6.2" | Runners-up ([[2005 CONCACAF Gold Cup|2005]], [[2013 CONCACAF Gold Cup|2013]]) || 56 || 54
+|-
+| A3 || style=white-space:nowrap | {{fb|HAI}} || [[Caribbean Football Union|CFU]] || [[2014 Caribbean Cup]] 3rd place || 16 November 2014 || data-sort-value="6" | 6th || [[2013 CONCACAF Gold Cup|2013]] || data-sort-value="3.3" | Quarter-finals ([[2002 CONCACAF Gold Cup|2002]], [[2009 CONCACAF Gold Cup|2009]]) || 68 || 76
+|-
+| A4 || style=white-space:nowrap | {{fb|HON}} || [[Central American Football Union|UNCAF]] || [[2015 CONCACAF Gold Cup qualification (CFU–UNCAF play-off)|2015 CFU–UNCAF play-off]] winners || 29 March 2015 || data-sort-value="12" | 12th || [[2013 CONCACAF Gold Cup|2013]] || data-sort-value="6.1" | Runners-up ([[1991 CONCACAF Gold Cup|1991]]) || 72 || 75
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+{{2015 CONCACAF Gold Cup Group A table}}
+In the [[2015 CONCACAF Gold Cup knockout stage|quarter-finals]]:
+*United States advanced to play Cuba (third-placed team of [[2015 CONCACAF Gold Cup Group C|Group C]]).
+*Haiti advanced to play Jamaica (winner of [[2015 CONCACAF Gold Cup Group B|Group B]]).
+*Panama (as one of the [[2015 CONCACAF Gold Cup#Ranking of third-placed teams|two best third-placed teams]]) advanced to play Trinidad and Tobago (winner of [[2015 CONCACAF Gold Cup Group C|Group C]]).
+
+==Matches==
+All times [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC−4]]). If the venue is located in a different [[time zone]], the local time is given in parentheses.<ref>{{cite web|url=http://concacaf.us6.list-manage2.com/track/click?u=78d3589fb61466b549ff752e5&id=4c2f2291ae&e=cd2f6d7174|title=CONCACAF Gold Cup 2015 Schedule}}</ref>
+
+===Panama vs Haiti===
+{{Football box
+| date         = {{Start date|2015|7|7|df=y}}
+| time         = 19:00 (18:00 [[Central Time Zone|CDT]])
+| team1        = {{fb-rt|PAN}}
+| team2        = {{fb|HAI}}
+| score        = 1–1
+| goals1       = [[Alberto Quintero Medina|Quintero]] {{goal|56}}
+| goals2       = [[Duckens Nazon|Nazon]] {{goal|86}}
+| stadium      = [[Toyota Stadium (Texas)|Toyota Stadium]], [[Frisco, Texas|Frisco]]
+| attendance   = 22,357
+| referee      = [[Henry Bejarano]] ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230119 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _panama15a
+ |pattern_b  = _panama15away
+ |pattern_ra = _panama15a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Panama
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _haiti14home
+ |pattern_ra = 
+ |pattern_sh = __haiti14home
+ |pattern_so = 
+ |leftarm    = 002ee6
+ |body       = 002ee6
+ |rightarm   = 002ee6
+ |shorts     = 002ee6
+ |socks      = 002ee6
+ |title      = Haiti
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1'''|| [[Jaime Penedo]]
+|-
+|RB || '''13'''|| [[Adolfo Machado]] || {{yel|25}}
+|-
+|CB || '''3'''|| [[Harold Cummings]]
+|-
+|CB || '''5'''|| [[Román Torres]] ([[Captain (association football)|c]])
+|-
+|LB || '''17'''|| [[Luis Henríquez]]
+|-
+|CM || '''6'''|| [[Gabriel Enrique Gómez|Gabriel Gomez]]
+|-
+|CM || '''20'''|| [[Aníbal Godoy]] || {{yel|14}}
+|-
+|RW || '''2'''|| [[Valentín Pimentel]] || || {{suboff|84}}
+|-
+|LW || '''19'''|| [[Alberto Quintero Medina|Alberto Quintero]]
+|-
+|CF || '''7'''|| [[Blas Pérez]]
+|-
+|CF || '''10'''|| [[Luis Tejada]] || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+||CF || '''22'''|| [[Abdiel Arroyo]] || || {{subon|67}}
+|-
+|RW || '''14'''|| [[Miguel Camargo]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Hernán Darío Gómez]]
+|}
+|valign="top"|[[File:PAN-HAI 2015-07-07.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1'''|| [[Johny Placide]]
+|-
+|RB || '''8'''|| [[Réginal Goreux]]
+|-
+|CB || '''5'''|| [[Jean-Jacques Pierre]] ([[Captain (association football)|c]])
+|-
+|CB || '''3'''|| [[Mechack Jérôme]]
+|-
+|LB || '''4'''|| [[Kim Jaggy]]
+|-
+|DM || '''2'''|| [[Jean Sony Alcénat]] || {{yel|41}} || {{suboff|71}}
+|-
+|RM || '''7'''|| [[Wilde-Donald Guerrier]]
+|-
+|LM || '''16'''|| [[Jean Alexandre]] || {{yel|9}}
+|-
+|AM || '''10'''|| [[Jeff Louis]]
+|-
+|AM || '''14'''|| [[James Marcelin]] || || {{suboff|71}}
+|-
+|CF || '''9'''|| [[Kervens Belfort]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+||AM || '''11'''|| [[Pascal Millien]] || || {{subon|71}}
+|-
+|DM || '''21'''|| [[Jean-Eudes Maurice|Jean Maurice]] || || {{subon|71}}
+|-
+|CF || '''20'''|| [[Duckens Nazon]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|
+|-
+|colspan=3|{{flagicon|FRA}} [[Marc Collat]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Leonel Leal ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+<br />Warner Castro ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Ricardo Montero ([[Costa Rican Football Federation|Costa&nbsp;Rica]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-panama-vs-haiti|title=Gold Cup Game Notes: Panama vs. Haiti|publisher=CONCACAF.com|date=7 July 2015|access-date=7 July 2015|archive-url=https://web.archive.org/web/20150708155538/http://www.concacaf.com/article/gold-cup-game-notes-panama-vs-haiti|archive-date=8 July 2015|url-status=dead}}</ref>
+|}
+
+===United States vs Honduras===
+{{Football box
+| date         = {{Start date|2015|7|7|df=y}}
+| time         = 21:30 (20:30 [[Central Time Zone|CDT]])
+| team1        = {{fb-rt|USA}}
+| team2        = {{fb|HON}} 
+| score        = 2–1
+| goals1       = [[Clint Dempsey|Dempsey]] {{goal|25||64}}
+| goals2       = [[Carlos Discua|Discua]] {{goal|69}}
+| stadium      = [[Toyota Stadium (Texas)|Toyota Stadium]], [[Frisco, Texas|Frisco]]
+| attendance   = 22,357
+| referee      = [[César Arturo Ramos|César Ramos]] ([[Mexican Football Federation|Mexico]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230120 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _usa1415h
+ |pattern_b  = _usa1415h
+ |pattern_ra = _usa1415h
+ |pattern_sh = _usa1415h
+ |pattern_so = _usa1415h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = United States
+}}
+|{{Football kit
+ |pattern_la = _honduras14a
+ |pattern_b  = _honduras14A
+ |pattern_ra = _honduras14a
+ |pattern_sh = _honduras14a
+ |pattern_so = 
+ |leftarm    = 2154CB
+ |body       = 2154CB
+ |rightarm   = 2154CB
+ |shorts     = 2154CB
+ |socks      = 2154CB
+ |title      = Honduras
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Brad Guzan]]
+|-
+|RB||'''21''' || [[Timothy Chandler]] || ||{{suboff|63}}
+|-
+|CB||'''6''' || [[John Brooks (soccer, born 1993)|John Brooks]] || {{yel|16}}
+|-
+|CB||'''13''' || [[Ventura Alvarado]]
+|-
+|LB||'''23''' || [[Fabian Johnson]]
+|-
+|RM||'''2''' || [[DeAndre Yedlin]]
+|-
+|DM||'''5''' || [[Kyle Beckerman]]
+|-
+|AM||'''4''' || [[Michael Bradley (soccer)|Michael Bradley]] ([[Captain (association football)|c]])
+|-
+|LM||'''20''' || [[Gyasi Zardes]] || || {{suboff|87}}
+|-
+|CF||'''17''' || [[Jozy Altidore]] || || {{suboff|59}}
+|-
+|SS||'''8''' || [[Clint Dempsey]] 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|ST||'''18'''|| [[Chris Wondolowski]] || || {{subon|59}}
+|-
+|DF||'''16'''|| [[Brad Evans]] || || {{subon|63}}
+|-
+|MF||'''19'''|| [[Graham Zusi]] || || {{subon|87}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klinsmann]]
+|}
+|valign="top"|[[File:USA-HON 2015-07-07.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''22''' || [[Donis Escober]]
+|-
+|RWB||'''2''' || [[Wilmer Crisanto]]
+|-
+|CB||'''3''' || [[Maynor Figueroa]] ([[Captain (association football)|c]])
+|-
+|CB||'''23''' || [[Johnny Palacios]] || {{yel|86}}
+|-
+|CB||'''5''' || [[Henry Figueroa]] || || {{suboff|75}}
+|-
+|LWB||'''21''' || [[Brayan Beckeles]]
+|-
+|RM||'''10''' || [[Mario Martínez (footballer)|Mario Martínez]] || || {{suboff|69}}
+|-
+|CM||'''6''' || [[Bryan Acosta]]
+|-
+|CM||'''19''' || [[Alfredo Mejía]]
+|-
+|LM||'''17''' || [[Andy Najar]] || || {{suboff|63}}
+|-
+|ST||'''9''' || [[Anthony Lozano]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|LM||'''11'''|| [[Romell Quioto]] || || {{subon|63}}
+|-
+|RM||'''7'''|| [[Carlos Discua]] || || {{subon|69}}
+|-
+|CB||'''13'''|| [[Eddie Hernández]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Jorge Luis Pinto]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Alberto Morín ([[Mexican Football Federation|Mexico]])
+<br />Garnet Page ([[Jamaica Football Federation|Jamaica]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Roberto García Orozco|Roberto García]] ([[Mexican Football Federation|Mexico]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-usa-vs-honduras|title=Gold Cup Game Notes: USA vs. Honduras|publisher=CONCACAF.com|date=7 July 2015|access-date=7 July 2015|archive-url=https://web.archive.org/web/20150708201001/http://www.concacaf.com/article/gold-cup-game-notes-usa-vs-honduras|archive-date=8 July 2015|url-status=dead}}</ref>
+|}
+
+===Honduras vs Panama===
+{{Football box
+| date         = {{Start date|2015|7|10|df=y}}
+| time         = 18:00
+| team1        = {{fb-rt|HON}} 
+| team2        = {{fb|PAN}}
+| score        = 1–1
+| goals1       = [[Andy Najar|Najar]] {{goal|81}}
+| goals2       = [[Luis Tejada|Tejada]] {{goal|21}}
+| stadium      = [[Gillette Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+| attendance   = 46,720
+| referee      = Marlon Mejía ([[Salvadoran Football Federation|El&nbsp;Salvador]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230125 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _honduras14h
+ |pattern_b  = _honduras14home
+ |pattern_ra = _honduras14h
+ |pattern_sh = _honduras1415h
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Honduras
+}}
+|{{Football kit
+ |pattern_la = _panama15h
+ |pattern_b  = _panama15home
+ |pattern_ra = _panama15h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Panama
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK || '''22''' || [[Donis Escober]]
+|-
+| RB || '''2''' || [[Wilmer Crisanto]]
+|-
+| CB || '''3''' || [[Maynor Figueroa]] ([[Captain (association football)|c]])
+|-
+| CB || '''23''' || [[Johnny Palacios]]
+|-
+| CB || '''5''' || [[Henry Figueroa]] || || {{suboff|62}}
+|-
+| LB || '''21''' || [[Brayan Beckeles]] || {{yel|58}}
+|-
+| RM || '''7''' || [[Carlos Discua]] || || {{suboff|62}}
+|-
+| CM || '''6''' || [[Bryan Acosta]] || || {{suboff|86}}
+|-
+| CM || '''20''' || [[Jorge Claros]] || {{yel|85}}
+|-
+| LM || '''17''' || [[Andy Najar]]
+|-
+| CF || '''9''' || [[Anthony Lozano]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+| FW || '''13''' || [[Eddie Hernández]] || || {{subon|62}}
+|-
+| MF || '''10''' || [[Mario Martínez (footballer)|Mario Martínez]] || || {{subon|62}}
+|-
+| MF || '''11''' || [[Romell Quioto]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Jorge Luis Pinto]]
+|}
+|valign="top"|[[File:HON-PAN-2015-07-10.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+| GK || '''1''' || [[Jaime Penedo]]
+|-
+| RB || '''3''' || [[Harold Cummings]]
+|-
+| CB || '''5''' || [[Román Torres]] ([[Captain (association football)|c]])
+|-
+| CB || '''13''' || [[Adolfo Machado]] || {{yel|73}}
+|-
+| LB || '''17''' || [[Luis Henríquez]] || {{sent off|2|85|90}}
+|-
+| RM || '''6''' || [[Gabriel Enrique Gomez]] || || {{suboff|72}}
+|-
+| CM || '''11''' || [[Armando Cooper]] || {{yel|77}}
+|-
+| CM || '''19''' || [[Alberto Quintero Medina]] || || {{suboff|87}}
+|-
+| LM || '''20''' || [[Aníbal Godoy]]
+|-
+| CF || '''10''' || [[Luis Tejada]] || {{yel|64}} || {{suboff|67}}
+|-
+| CF || '''7''' || [[Blas Pérez]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+| MF || '''2''' || [[Valentín Pimentel]] || || {{subon|67}}
+|-
+| FW || '''22''' || [[Abdiel Arroyo]] || || {{subon|72}}
+|-
+| FW || '''8''' || [[Gabriel Torres (footballer)|Gabriel Torres]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Hernán Darío Gómez]]
+|}
+|}
+{| width=50% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Ricardo Morgan ([[Jamaica Football Federation|Jamaica]])
+<br />Garnet Page ([[Jamaica Football Federation|Jamaica]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Joel Aguilar]] ([[Salvadoran Football Federation|El&nbsp;Salvador]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-honduras-vs-panama|title=Gold Cup Game Notes: Honduras vs. Panama|publisher=CONCACAF.com|date=10 July 2015|access-date=11 July 2015|archive-url=https://web.archive.org/web/20150712090746/http://www.concacaf.com/article/gold-cup-game-notes-honduras-vs-panama|archive-date=12 July 2015|url-status=dead}}</ref>
+|}
+
+===United States vs Haiti===
+{{Football box
+| date         = {{Start date|2015|7|10|df=y}}
+| time         = 20:30
+| team1        = {{fb-rt|USA}}
+| team2        = {{fb|HAI}}
+| score        = 1–0
+| goals1       = [[Clint Dempsey|Dempsey]] {{goal|47}}
+| goals2       = 
+| stadium      = [[Gillette Stadium]], [[Foxborough, Massachusetts|Foxborough]]
+| attendance   = 46,720
+| referee      = Ricardo Montero ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230126 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _usa1415h
+ |pattern_b  = _usa1415h
+ |pattern_ra = _usa1415h
+ |pattern_sh = _usa1415h
+ |pattern_so = _usa1415h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = United States
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _haiti14home
+ |pattern_ra = 
+ |pattern_sh = __haiti14home
+ |pattern_so = 
+ |leftarm    = 002ee6
+ |body       = 002ee6
+ |rightarm   = 002ee6
+ |shorts     = 002ee6
+ |socks      = 002ee6
+ |title      = Haiti
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''1'''|| [[Brad Guzan]]
+|-
+|RB||'''16''' || [[Brad Evans]]
+|-
+|CB||'''3''' || [[Omar Gonzalez]]
+|-
+|CB||'''15''' || [[Tim Ream]]
+|-
+|LB||'''14''' || [[Greg Garza]] || || {{suboff|67}}
+|-
+|RM||'''19''' || [[Graham Zusi]]
+|-
+|DM||'''4''' || [[Michael Bradley (soccer)|Michael Bradley]] ([[Captain (association football)|c]])
+|-
+|LM||'''10''' || [[Mix Diskerud]]
+|-
+|AM||'''8''' || [[Clint Dempsey]]
+|-
+|SS||'''9''' || [[Aron Jóhannsson]] || || {{suboff|83}}
+|-
+|CF||'''17''' || [[Jozy Altidore]] || || {{suboff|46}} 
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW||'''20'''|| [[Gyasi Zardes]] || || {{subon|46}}
+|-
+|DF||'''23'''|| [[Fabian Johnson]] || || {{subon|67}}
+|-
+|MF||'''5'''|| [[Kyle Beckerman]] || || {{subon|83}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klinsmann]]
+|}
+|valign="top"|[[File:USA-HAI-2015-07-10.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1''' || [[Johny Placide]] ([[Captain (association football)|c]])
+|-
+|RB||'''8''' || [[Réginal Goreux]] || || {{suboff|83}}
+|-
+|CB||'''3''' || [[Mechack Jérôme]]
+|-
+|CB||'''6''' || [[Frantz Bertin]]
+|-
+|LB||'''4''' || [[Kim Jaggy]]
+|-
+|CM||'''16''' || [[Jean Alexandre]] || {{yel|34}}
+|-
+|CM||'''14''' || [[James Marcelin]]
+|-
+|RW||'''13''' || [[Kevin Lafrance]] || || {{suboff|71}}
+|-
+|AM||'''21''' || [[Jean-Eudes Maurice]] || || {{suboff|66}}
+|-
+|LW||'''7''' || [[Wilde-Donald Guerrier]]&nbsp; || {{yel|23}}
+|-
+|CF||'''20''' || [[Duckens Nazon]] || {{yel|62}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|LM||'''10'''|| [[Jeff Louis]] || || {{subon|66}}
+|-
+|RM||'''15'''|| [[Sébastien Thurière]] || || {{subon|71}}
+|-
+|CB||'''22'''|| [[Sony Norde]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA}} [[Marc Collat]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Warner Castro ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+<br />José Luis Camargo ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Roberto García Orozco|Roberto García]] ([[Mexican Football Federation|Mexico]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-usa-v-haiti|title=Gold Cup Game Notes: USA v Haiti|publisher=CONCACAF.com|date=10 July 2015|access-date=12 July 2015|archive-url=https://web.archive.org/web/20150712203247/http://www.concacaf.com/article/gold-cup-game-notes-usa-v-haiti|archive-date=12 July 2015|url-status=dead}}</ref>
+|}
+
+===Haiti vs Honduras===
+{{Football box
+| date         = {{Start date|2015|7|13|df=y}}
+| time         = 19:00 (18:00 [[Central Time Zone|CDT]])
+| team1        = {{fb-rt|HAI}}
+| team2        = {{fb|HON}} 
+| score        = 1–0
+| goals1       = [[Duckens Nazon|Nazon]] {{goal|13}}
+| goals2       = 
+| stadium      = [[Sporting Park]], [[Kansas City, Kansas|Kansas City]]
+| attendance   = 18,467
+| referee      = [[Joel Aguilar]] ([[Salvadoran Football Federation|El&nbsp;Salvador]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230131 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _haiti14home
+ |pattern_ra = 
+ |pattern_sh = _haiti14home
+ |pattern_so = 
+ |leftarm    = 002ee6
+ |body       = 002ee6
+ |rightarm   = 002ee6
+ |shorts     = 002ee6
+ |socks      = 002ee6
+ |title      = Haiti
+}}
+|{{Football kit
+ |pattern_la = _honduras14h
+ |pattern_b  = _honduras14home
+ |pattern_ra = _honduras14h
+ |pattern_sh = _honduras1415h
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Honduras
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1'''|| [[Johny Placide]] ([[Captain (association football)|c]])
+|-
+|RB || '''2'''|| [[Jean Sony Alcénat]]
+|-
+|CB || '''3'''|| [[Mechack Jérôme]]
+|-
+|CB || '''6'''|| [[Frantz Bertin]]
+|-
+|LB || '''4'''|| [[Kim Jaggy]]
+|-
+|CM || '''14'''|| [[James Marcelin]]
+|-
+|CM || '''13'''|| [[Kevin Lafrance]]
+|-
+|RW || '''11'''|| [[Pascal Millien]]
+|-
+|LW || '''7'''|| [[Wilde-Donald Guerrier]] || || {{suboff|84}}
+|-
+|CF || '''20'''|| [[Duckens Nazon]] || || {{suboff|67}}
+|-
+|CF || '''9'''|| [[Kervens Belfort]] || || {{suboff|25}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''21'''|| [[Jean-Eudes Maurice]] || || {{subon|25}}
+|-
+|MF || '''15'''|| [[Sébastien Thurière]] || || {{subon|67}}
+|-
+|DF || '''18'''|| [[Judelin Aveska]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA}} [[Marc Collat]]
+|}
+|valign="top"|[[File:HAI-HON 2015-07-13.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''22'''|| [[Donis Escober]]
+|-
+|RB || '''2'''|| [[Wilmer Crisanto]] || {{yel|43}}
+|-
+|CB || '''23'''|| [[Johnny Palacios]]
+|-
+|CB || '''3'''|| [[Maynor Figueroa]] ([[Captain (association football)|c]])
+|-
+|LB || '''21'''|| [[Brayan Beckeles]]
+|-
+|CM || '''19'''|| [[Alfredo Mejía]]
+|-
+|CM || '''20'''|| [[Jorge Claros]]
+|-
+|RW || '''10'''|| [[Mario Martínez (footballer)|Mario Martínez]] || || {{suboff|65}}
+|-
+|LW || '''17'''|| [[Andy Najar]]
+|-
+|CF || '''9'''|| [[Anthony Lozano]] || || {{suboff|46}}
+|-
+|CF || '''15'''|| [[Erick Andino]] || || {{suboff|61}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''13'''|| [[Eddie Hernández]] || || {{subon|46}}
+|-
+|FW || '''8'''|| [[Román Castillo|Rubilio Castillo]] || || {{subon|61}}
+|-
+|MF || '''7'''|| [[Carlos Discua]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Jorge Luis Pinto]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Ricardo Morgan ([[Jamaica Football Federation|Jamaica]])
+<br />Garnet Page ([[Jamaica Football Federation|Jamaica]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Marlon Mejía ([[Salvadoran Football Federation|El&nbsp;Salvador]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-haiti-vs-honduras|title=Gold Cup Game Notes: Haiti vs. Honduras|publisher=CONCACAF.com|date=13 July 2015|access-date=14 July 2015|archive-url=https://web.archive.org/web/20150715015040/http://www.concacaf.com/article/gold-cup-game-notes-haiti-vs-honduras|archive-date=15 July 2015|url-status=dead}}</ref>
+|}
+
+===Panama vs United States===
+{{Football box
+| date         = {{Start date|2015|7|13|df=y}}
+| time         = 21:30 (20:30 [[Central Time Zone|CDT]])
+| team1        = {{fb-rt|PAN}}
+| team2        = {{fb|USA}}
+| score        = 1–1
+| goals1       = [[Blas Pérez|Pérez]] {{goal|34}}
+| goals2       = [[Michael Bradley (soccer)|Bradley]] {{goal|55}}
+| stadium      = [[Sporting Park]], [[Kansas City, Kansas|Kansas City]]
+| attendance   = 18,467
+| referee      = [[Roberto García Orozco|Roberto García]] ([[Mexican Football Federation|Mexico]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230132 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _panama15h
+ |pattern_b  = _panama15home
+ |pattern_ra = _panama15h
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Panama
+}}
+|{{Football kit
+ |pattern_la = _usa1415h
+ |pattern_b  = _usa1415h
+ |pattern_ra = _usa1415h
+ |pattern_sh = _usa1415h
+ |pattern_so = _usa1415h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = United States
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1'''|| [[Jaime Penedo]]
+|-
+|RB || '''2'''|| [[Valentín Pimentel]] || || {{suboff|61}}
+|-
+|CB || '''5'''|| [[Román Torres]] ([[Captain (association football)|c]])
+|-
+|CB || '''3'''|| [[Harold Cummings]]
+|-
+|LB || '''15'''|| [[Erick Davis]]
+|-
+|CM || '''6'''|| [[Gabriel Enrique Gómez|Gabriel Gomez]]
+|-
+|CM || '''20'''|| [[Aníbal Godoy]] || {{yel|44}}
+|-
+|RW || '''11'''|| [[Armando Cooper]]
+|-
+|LW || '''19'''|| [[Alberto Quintero Medina|Alberto Quintero]] || || {{suboff|85}}
+|-
+|CF || '''7'''|| [[Blas Pérez]]
+|-
+|CF || '''10'''|| [[Luis Tejada]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''14'''|| [[Miguel Camargo]] || || {{subon|61}}
+|-
+|FW || '''9'''|| [[Roberto Nurse]] || || {{subon|70}}
+|-
+|FW || '''22'''|| [[Abdiel Arroyo]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|COL}} [[Hernán Darío Gómez]]
+|}
+|valign="top"|[[File:PAN-USA 2015-07-13.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''1'''|| [[Brad Guzan]]
+|-
+|RB || '''21'''|| [[Timothy Chandler]] || {{yel|43}}
+|-
+|CB || '''13'''|| [[Ventura Alvarado]] || {{yel|47}}
+|-
+|CB || '''6'''|| [[John Brooks (soccer, born 1993)|John Brooks]] || {{yel|15}}
+|-
+|LB || '''23'''|| [[Fabian Johnson]]
+|-
+|DM || '''5'''|| [[Kyle Beckerman]]
+|-
+|RM || '''11'''|| [[Alejandro Bedoya]] || || {{suboff|70}}
+|-
+|AM || '''4'''|| [[Michael Bradley (soccer)|Michael Bradley]] ([[Captain (association football)|c]])
+|-
+|LM || '''7'''|| [[Alfredo Morales]] || || {{suboff|46}}
+|-
+|CF || '''18'''|| [[Chris Wondolowski]] || || {{suboff|46}}
+|-
+|SS || '''20'''|| [[Gyasi Zardes]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''2'''|| [[DeAndre Yedlin]] || || {{subon|46}}
+|-
+|FW || '''8'''|| [[Clint Dempsey]] || || {{subon|46}}
+|-
+|FW || '''9'''|| [[Aron Jóhannsson]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klinsmann]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Alberto Morín ([[Mexican Football Federation|Mexico]])
+<br />Leonel Leal ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Henry Bejarano]] ([[Costa Rican Football Federation|Costa&nbsp;Rica]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-panama-vs-usa|title=Gold Cup Game Notes: Panama vs. USA|publisher=CONCACAF.com|date=13 July 2015|access-date=14 July 2015|archive-url=https://web.archive.org/web/20150715024811/http://www.concacaf.com/article/gold-cup-game-notes-panama-vs-usa|archive-date=15 July 2015|url-status=dead}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.concacaf.com/category/gold-cup}}
+
+{{2015 CONCACAF Gold Cup}}
+
+[[Category:2015 CONCACAF Gold Cup|Group A]]

@@ -1,0 +1,135 @@
+{{Biathlon World Championships 2012}}
+The men's pursuit competition of the [[Biathlon World Championships 2012]] was held on March 4, 2012 at 13:15 local time.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SMPU/BT_C51C_1.0.pdf Start list]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+== Results ==
+The race started at 13:15.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SMPU/BT_C73D_1.0.pdf Final Results] {{webarchive |url=https://web.archive.org/web/20140202105319/http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SMPU/BT_C73D_1.0.pdf |date=February 2, 2014 }}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Bib !! Name !! Country !! Start !! Penalties (P+P+S+S) !! Time   !! Deficit
+|-
+| {{gold01}} || 1 || align=left|[[Martin Fourcade]] || align=left|{{flag|France}} || 0:00 || 4 (1+1+0+2) || 33:39.4 ||
+|-
+| {{silver02}} || 3 || align=left|[[Carl Johan Bergman]] || align=left|{{flag|Sweden}} || 0:18 || 2 (0+1+1+0) || 33:44.6 || +5.2
+|-
+| {{bronze03}} || 13 || align=left|[[Anton Shipulin]] || align=left|{{flag|Russia}} || 1:05 || 1 (1+0+0+0) || 34:01.5 || +22.1
+|-
+| {{sort|04|4}} || 4 || align=left|[[Daniel Mesotitsch]] || align=left|{{flag|Austria}} || 0:27 || 2 (0+0+1+1) || 34:07.8 || +28.4
+|-
+| {{sort|05|5}} || 2 || align=left|[[Emil Hegle Svendsen]] || align=left|{{flag|Norway}} || 0:15 || 4 (1+1+0+2) || 34:24.8 || +45.4
+|-
+| {{sort|06|6}} || 5 || align=left|[[Simon Fourcade]] || align=left|{{flag|France}} || 0:35 || 3 (1+1+0+1) || 34:32.4 || +53.0
+|-
+| {{sort|07|7}} || 17 || align=left|[[Tarjei Bø]] || align=left|{{flag|Norway}} || 1:13 || 3 (2+0+0+1) || 34:38.7 || +59.3
+|-
+| {{sort|08|8}} || 11 || align=left|[[Jakov Fak]] || align=left|{{flag|Slovenia}} || 1:01 || 3 (0+0+1+2) || 34:45.6 || +1:06.2
+|-
+| {{sort|09|9}} || 19 || align=left|[[Simon Schempp]] || align=left|{{flag|Germany}} || 1:14 || 2 (0+2+0+0) || 34:46.1 || +1:06.7
+|-
+| 10 || 6 || align=left|[[Fredrik Lindström (biathlete)|Fredrik Lindström]] || align=left|{{flag|Sweden}} || 0:36 || 4 (1+3+0+0) || 34:50.9 || +1:11.5
+|-
+| 11 || 7 || align=left|[[Björn Ferry]] || align=left|{{flag|Sweden}} || 0:42 || 3 (1+1+0+1) || 35:00.3 || +1:20.9
+|-
+| 12 || 16 || align=left|[[Andreas Birnbacher]] || align=left|{{flag|Germany}} || 1:13 || 3 (0+1+1+1) || 35:00.4 || +1:21.0
+|-
+| 13 || 31 || align=left|[[Lukas Hofer]] || align=left|{{flag|Italy}} || 1:34 || 3 (0+2+1+0) || 35:06.2 || +1:26.8
+|-
+| 14 || 12 || align=left|[[Evgeniy Garanichev]] || align=left|{{flag|Russia}} || 1:04 || 4 (2+1+0+1) || 35:08.6 || +1:29.2
+|-
+| 15 || 18 || align=left|[[Ondřej Moravec]] || align=left|{{flag|Czech Republic}} || 1:13 || 4 (1+2+0+1) || 35:15.0 || +1:35.6
+|- 
+| 16 || 36 || align=left|[[Benjamin Weger]] || align=left|{{flag|Switzerland}} || 1:44 || 2 (0+1+0+1) || 35:22.3 || +1:42.9
+|-
+| 17 || 37 || align=left|[[Arnd Peiffer]] || align=left|{{flag|Germany}} || 1:45 || 3 (1+2+0+0) || 35:22.9 || +1:43.5
+|-
+| 18 || 9 || align=left|[[Alexis Bœuf]] || align=left|{{flag|France}} || 0:59 || 4 (0+0+3+1) || 35:25.1 || +1:45.7
+|-
+| 19 || 33 || align=left|[[Andrei Makoveev]] || align=left|{{flag|Russia}} || 1:43 || 3 (1+0+1+1) || 35:26.4 || +1:47.0
+|-
+| 20 || 20 || align=left|[[Lowell Bailey]] || align=left|{{flag|United States}} || 1:15 || 3 (0+0+1+2) || 35:28.2 || +1:48.8
+|-
+| 21 || 43 || align=left|[[Jaroslav Soukup]] || align=left|{{flag|Czech Republic}} || 1:57 || 3 (0+1+2+0) || 35:31.2 || +1:51.8
+|-
+| 22 || 42 || align=left|[[Andriy Deryzemlya]] || align=left|{{flag|Ukraine}} || 1:57 || 2 (1+1+0+0) || 35:31.2 || +1:51.8
+|-
+| 23 || 26 || align=left|[[Michael Greis]] || align=left|{{flag|Germany}} || 1:29 || 3 (1+0+1+1) || 35:31.7 || +1:52.3
+|-
+| 24 || 29 || align=left|[[Matej Kazár]] || align=left|{{flag|Slovakia}} || 1:32 || 3 (0+1+1+1) || 35:32.7 || +1:53.3
+|-
+| 25 || 23 || align=left|[[Sergey Novikov (biathlete)|Sergey Novikov]] || align=left|{{flag|Belarus}} || 1:20 || 2 (0+2+0+0) || 35:33.9 || +1:54.5
+|-
+| 26 || 14 || align=left|[[Jean-Philippe Leguellec]] || align=left|{{flag|Canada}} || 1:10 || 3 (0+1+0+2) || 35:37.9 || +1:58.5
+|-
+| 27 || 21 || align=left|{{Nowrap|[[Ole Einar Bjørndalen]]}} || align=left|{{flag|Norway}} || 1:16 || 6 (2+1+2+1) || 35:47.7 || +2:08.3
+|-
+| 28 || 10 || align=left|[[Tim Burke (biathlete)|Tim Burke]] || align=left|{{flag|United States}} || 0:59 || 5 (1+1+2+1) || 35:47.7 || +2:08.3
+|- 
+| 29 || 25 || align=left|[[Michal Šlesingr]] || align=left|{{Nowrap|{{flag|Czech Republic}}}} || 1:28 || 4 (1+0+1+2) || 36:07.1 || +2:27.7
+|-
+| 30 || 8 || align=left|[[Markus Windisch]] || align=left|{{flag|Italy}} || 0:46 || 5 (1+1+1+2) || 36:11.2 || +2:31.8
+|-
+| 31 || 28 || align=left|[[Dominik Landertinger]] || align=left|{{flag|Austria}} || 1:31 || 4 (0+0+0+4) || 36:14.9 || +2:35.5
+|-
+| 32 || 44 || align=left|[[Klemen Bauer]] || align=left|{{flag|Slovenia}} || 1:58 || 5 (0+1+1+3) || 36:15.2 || +2:35.8
+|-
+| 33 || 38 || align=left|[[Junji Nagai]] || align=left|{{flag|Japan}} || 1:47 || 2 (0+0+2+0) || 36:19.5 || +2:40.1
+|-
+| 34 || 46 || align=left|[[Simon Eder]] || align=left|{{flag|Austria}} || 2:07 || 2 (0+0+1+1) || 36:25.1 || +2:45.7
+|-
+| 35 || 15 || align=left|[[Dušan Šimočko]] || align=left|{{flag|Slovakia}} || 1:13 || 4 (2+0+1+1) || 36:29.9 || +2:50.5
+|-
+| 36 || 27 || align=left|[[Yan Savitskiy]] || align=left|{{flag|Kazakhstan}} || 1:30 || 2 (2+0+0+0) || 36:29.9 || +2:50.5
+|-
+| 37 || 60 || align=left|[[Christian de Lorenzi]] || align=left|{{flag|Italy}} || 2:36 || 2 (1+1+0+0) || 36:34.6 || +2:55.2
+|- 
+| 38 || 34 || align=left|[[Florian Graf]] || align=left|{{flag|Germany}} || 1:44 || 4 (2+1+0+1) || 36:34.9 || +2:55.5
+|-
+| 39 || 58 || align=left|[[Roland Lessing]] || align=left|{{flag|Estonia}} || 2:32 || 0 (0+0+0+0) || 36:38.5 || +2:59.1
+|-
+| 40 || 32 || align=left|[[Lars Berger]] || align=left|{{flag|Norway}} || 1:42 || 6 (0+1+3+2) || 36:45.5 || +3:06.1
+|-
+| 41 || 24 || align=left|[[Simon Hallenbarter]] || align=left|{{flag|Switzerland}} || 1:21 || 5 (1+2+1+1) || 36:51.2 || +3:11.8
+|-
+| 42 || 41 || align=left|[[Christoph Sumann]] || align=left|{{flag|Austria}} || 1:53 || 2 (1+0+1+0) || 36:59.9 || +3:20.5
+|-
+| 43 || 45 || align=left|[[Nathan Smith (biathlete)|Nathan Smith]] || align=left|{{flag|Canada}} || 2:03 || 5 (0+1+3+1) || 37:13.4 || +3:34.0
+|-
+| 44 || 35 || align=left|[[Artem Pryma]] || align=left|{{flag|Ukraine}} || 1:44 || 3 (1+1+0+1) || 37:17.0 || +3:37.6
+|-
+| 45 || 47 || align=left|[[Christian Stebler]] || align=left|{{flag|Switzerland}} || 2:09 || 6 (3+0+2+1) || 37:26.8 || +3:47.4
+|-
+| 46 || 48 || align=left|[[Jean-Guillaume Béatrix]] || align=left|{{flag|France}} || 2:11 || 5 (0+2+2+1) || 37:36.9 || +3:57.5
+|-
+| 47 || 51 || align=left|[[Kazuya Inomata]] || align=left|{{flag|Japan}} || 2:19 || 3 (1+0+2+0) || 37:38.9 || +3:59.5
+|-
+| 48 || 39 || align=left|[[Janez Marič]] || align=left|{{flag|Slovenia}} || 1:49 || 6 (1+1+2+2) || 37:54.5 || +4:15.1
+|-
+| 49 || 22 || align=left|[[Serhiy Semenov]] || align=left|{{flag|Ukraine}} || 1:17 || 6 (2+0+1+3) || 38:01.7 || +4:22.3
+|-
+| 50 || 40 || align=left|[[Ivan Joller]] || align=left|{{flag|Switzerland}} || 1:53 || 4 (0+2+0+2) || 38:09.0 || +4:29.6
+|-
+| 51 || 54 || align=left|[[Tomasz Sikora]] || align=left|{{flag|Poland}} || 2:21 || 5 (1+3+0+1) || 38:28.4 || +4:49.0
+|-
+| 52 || 55 || align=left|[[Marc-André Bedard (biathlete)|Marc-André Bedard]] || align=left|{{flag|Canada}} || 2:24 || 4 (0+1+2+1) || 38:35.4 || +4:56.0
+|-
+| 53 || 53 || align=left|[[Stefan Gavrila]] || align=left|{{flag|Romania}} || 2:20 || 3 (0+2+1+0) || 38:41.5 || +5:02.1
+|- 
+| 54 || 50 || align=left|[[Scott Perras]] || align=left|{{flag|Canada}} || 2:14 || 6 (1+0+2+3) || 38:51.8 || +5:12.4
+|-
+| 55 || 56 || align=left|[[Hidenori Isa]] || align=left|{{flag|Japan}} || 2:25 || 5 (2+1+0+2) || 39:10.7 || +5:31.3
+|-
+| 56 || 59 || align=left|[[Kauri Koiv]] || align=left|{{flag|Estonia}} || 2:34 || 7 (1+2+1+3) || 40:01.5 || +6:22.1
+|-
+| {{sort|99|—}} || 30 || align=left|[[Evgeny Ustyugov]] || align=left|{{flag|Russia}} || 1:33 ||  || {{sort|99:99.9|DNS}} ||
+|-
+| {{sort|99|—}} || 49 || align=left|[[Michail Kletcherov]] || align=left|{{flag|Bulgaria}} || 2:13 ||  || {{sort|99:99.9|DNS}} ||
+|-
+| {{sort|99|—}} || 52 || align=left|[[Krasimir Anev]] || align=left|{{flag|Bulgaria}} || 2:20 ||  || {{sort|99:99.9|DNS}} ||
+|-
+| {{sort|99|—}} || 57 || align=left|[[Vladimir Iliev]] || align=left|{{flag|Bulgaria}} || 2:28 ||  || {{sort|99:99.9|DNS}} ||
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Biathlon World Championships 2012 - Men's pursuit}}
+[[Category:Biathlon World Championships 2012]]

@@ -1,0 +1,67 @@
+{{short description|American politician|bot=PearBOT 5}}
+{{Infobox state representative
+| name               = Ruth Briggs King
+| image              = RuthBriggs.JPG | image_size = 200px
+| state_house        = Delaware
+| district           = 37th
+| term_start         = January 12, 2010
+| term_end           = 
+| predecessor        = Joseph W. Booth
+| successor          = Incumbent
+| birth_date         = {{birth date and age|1956|3|8}}
+| birth_place        = [[Milford, Delaware|Milford]], [[Delaware]], [[United States|U.S.]]
+| death_date         = 
+| death_place        = 
+| nationality        = [[Americans|American]]
+| party              = [[Republican Party (United States)|Republican]]
+| spouse             = 
+| children           = 
+| residence          = Milford, Delaware
+| alma_mater         = [[Delaware Technical Community College]]<br />[[Wilmington University]]
+| profession         = 
+| religion           = 
+| website            = {{URL|meetruth.com}}
+}}
+
+'''Ruth Briggs King''' (born March 8, 1956) is an [[United States|American]] politician. She is a [[Republican Party (United States)|Republican]] member of the [[Delaware House of Representatives]], representing District 37.<ref name="DL">{{cite web |url=https://legis.delaware.gov/AssemblyMember/150/BriggsKing |title=Representative Ruth Briggs King (R) |publisher=[[Delaware General Assembly]] |location=[[Dover, Delaware]] |accessdate=January 8, 2019}}</ref> After losing a primary race in 2000, she was elected to replace Republican Joseph Booth, who had won a special election to a seat in the [[Delaware Senate]], in 2009.<ref name="PVS">{{cite web |url=http://votesmart.org/candidate/biography/122877 |title=Representative Ruth Briggs King's Biography |publisher=[[Vote Smart]] |accessdate=November 5, 2013}}</ref>
+
+Briggs King earned her [[Associate degree|AA]] in [[health technology|medical technology]] from [[Delaware Technical Community College]] and her [[Bachelor of Arts|BA]] and [[Master's degree|MA]] in [[human resources]] from [[Wilmington University|Wilmington College]].
+
+==Electoral history==
+*In 2000, Briggs King ran for District 41 in the Republican primary but lost.<ref>{{cite web |url=http://elections.delaware.gov/archive/elect00/2000pofficial.shtml |title=State of Delaware Primary Election Official Results |date=September 9, 2000 |publisher=Delaware Department of Elections |department=Office of the State Election Commissioner  |accessdate=November 5, 2013}}</ref> The [[incumbent]] representative, [[Democratic Party (United States)|Democrat]] Charles West, went on to win the general election and served until 2003.
+*In 2009, Briggs King won the special election to replace Joseph Booth in District 37 with 2,429 votes (53.6%) against Democratic nominee Robert Robertson.<ref>{{cite web |url=http://elections.delaware.gov/archive/elect09/elect09Special_37/37RDTOT.pdf |title=State of Delaware Special Election Official Results |date=September 12, 2009 |publisher=Delaware Department of Elections |department=Office of the State Election Commissioner  |accessdate=November 5, 2013}}</ref>
+*In 2010, Briggs King won the general election with 5,149 votes (61.8%) against Democratic nominee Frank Shade.<ref>{{cite web |url=http://elections.delaware.gov/archive/elect10/elect10_General/html/election.shtml |title=State of Delaware General Election Official Results |date=November 2, 2010 |publisher=Delaware Department of Elections |department=Office of the State Election Commissioner  |accessdate=November 5, 2013}}</ref>
+*In 2012, Briggs King won the general election with 5,026 votes (54.8%) against Democratic nominee Elizabeth McGinn.<ref>{{cite web |url=http://elections.delaware.gov/archive/elect12/elect12_general/html/election.shtml |title=State of Delaware General Election Official Results |date=November 6, 2012 |publisher=Delaware Department of Elections |department=Office of the State Election Commissioner  |accessdate=November 5, 2013}}</ref>
+*In 2014, Briggs King won the general election with 4,173 votes (65.3%) against Democratic nominee Paulette Ann Rappa.<ref>{{cite web |url= https://elections.delaware.gov/archive/elect14/elect14_General/html/election.shtml |title= State of Delaware General Election Official Results |date= November 7, 2014 |publisher=Delaware Department of Elections |department=Office of the State Election Commissioner |accessdate=January 7, 2019}}</ref>
+*In 2016, Briggs King won the general election with 6,720 votes (62.5%) in a rematch against Democratic nominee Paulette Ann Rappa.<ref>{{cite web |url= http://elections.delaware.gov/archive/elect16/elect16_general/html/election.shtml |title= State of Delaware General Election Official Results |date= November 8, 2016 |publisher=Delaware Department of Elections |department=Office of the State Election Commissioner |accessdate=January 7, 2019}}</ref>
+*In 2018, Briggs King was unopposed in the general election and won 6,853 votes.<ref>{{cite web |url= http://elections.delaware.gov/archive/elect18/elect18_general/html/election.shtml |title= State of Delaware General Election Official Results |date= November 6, 2018 |publisher=Delaware Department of Elections |department=Office of the State Election Commissioner |accessdate=January 7, 2019}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://legis.delaware.gov/AssemblyMember/150/BriggsKing Official page] at the [[Delaware General Assembly]]
+* [http://www.meetruth.com/ Campaign site]
+* [http://ballotpedia.org/Ruth_Briggs_King Ruth Briggs King's Profile on Ballotpedia]
+* {{CongLinks | congbio= | votesmart=122877 | fec= | congress= }}<!--
+Links formerly displayed via the CongLinks template:
+* [http://ballotpedia.org/Ruth_Briggs_King Biography] at [[Ballotpedia]]
+* [http://www.followthemoney.org/database/uniquecandidate.phtml?uc=147390 Financial information (state office)] at the National Institute for Money in State Politics
+* [http://www.followthemoney.org/database/uniquecandidate.phtml?uc=34744 Financial information (state office)] at the National Institute for Money in State Politics (2000 District 41 candidacy)
+* -->
+
+{{Delaware House of Representatives}}
+
+{{DEFAULTSORT:Briggs King, Ruth}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:Delaware Republicans]]
+[[Category:Members of the Delaware House of Representatives]]
+[[Category:Women state legislators in Delaware]]
+[[Category:21st-century American women politicians]]
+[[Category:21st-century American politicians]]
+[[Category:Wilmington University alumni]]
+[[Category:People from Milford, Delaware]]
+
+
+{{Delaware-politician-stub}}

@@ -1,0 +1,41 @@
+{{Infobox park
+| name = McCoy Park
+| photo = McCoy Fountain (Portland, Oregon).jpg
+| photo_width = 300px
+| photo_caption = The park's fountain in 2013
+| map = 
+| map_width = 
+| type = 
+| location = North Trenton Street and Newman Avenue, [[Portland, Oregon]], U.S.
+| coords = {{coord|45.59|-122.7164|region:US_type:landmark|display=inline,title}}
+| area = 3.82 acres (1.55 ha)
+| created = 
+| operator = [[Portland Parks & Recreation]]
+| visitation_num = 
+| status = 
+| open = 
+}}
+'''McCoy Park''' is a park in the [[Portsmouth, Portland, Oregon|Portsmouth neighborhood]] of [[Portland, Oregon]], United States. Named for the Oregon Senator [[William McCoy (Oregon politician)|Bill McCoy]] and his wife [[Gladys McCoy|Gladys]],<ref name=PP&R>{{Cite web |url=https://www.portlandoregon.gov/parks/finder/index.cfm?&action=ViewPark&propertyid=1258 |title=McCoy Park |access-date=July 14, 2019 |publisher=[[Portland Parks & Recreation]]}}</ref> the park is located at the center of [[New Columbia (Portland, Oregon)|New Columbia]], a large housing development in Portsmouth.
+
+==Description and history==
+The park was acquired in 2005 and features paved paths and picnic tables, a playground, and a basketball court.<ref name=PP&R />
+
+Shootings took place at or near McCoy Park in 2011, 2014, and 2016, two of them fatal.<ref>{{cite news |last=Wilson |first=Kimberly A. C. |title=18-year-old dies in North Portland shooting; family gathers at scene |work=[[OregonLive]] |date=May 16, 2011 |url=https://www.oregonlive.com/portland/2011/05/teen_identified_as_victim_in_f.html |access-date=July 15, 2019}}</ref><ref>{{cite news |last=Parks |first=Casey |title=After shooting, New Columbia residents say they won't fear McCoy Park |work=OregonLive |date=July 1, 2014 |url=https://www.oregonlive.com/portland/2014/07/after_shooting_new_columbia_re.html |access-date=July 15, 2019}}</ref><ref>{{cite news |title=Police investigating shooting at McCoy Park in N. Portland; one victim found |publisher=[[FOX 12]] |date=September 16, 2016 |url=https://www.kptv.com/news/police-investigating-shooting-at-mccoy-park-in-n-portland-one/article_02a966d7-5319-5e01-9784-c0cfe755c709.html |access-date=July 15, 2019}}</ref>
+
+==See also==
+* [[List of parks in Portland, Oregon]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Commons category-inline|McCoy Park}}
+
+{{Parks in Portland, Oregon}}
+
+[[Category:2005 establishments in Oregon]]
+[[Category:Parks in Portland, Oregon]]
+[[Category:Portsmouth, Portland, Oregon]]
+[[Category:Protected areas established in 2005]]
+
+{{MultnomahCountyOR-geo-stub}}

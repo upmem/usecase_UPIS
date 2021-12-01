@@ -1,0 +1,75 @@
+{{short description|Czech footballer}}
+{{Infobox football biography
+| name = Martin Komárek
+| image =Martin Komárek.jpg
+| caption =Martin Komárek in 2014
+| fullname =
+| birth_date  = {{Birth date and age|1984|10|14|df=yes}}
+| birth_place =[[Czechoslovakia]]
+| height = {{height|m=1.89}}
+| currentclub  = [[Loko Vltavín]]
+| clubnumber = 
+| position = [[Defender (association football)|Defender]]
+| youthyears1 = 1991–1999 
+| youthyears2 = 1999–2001 
+| youthyears3 = 2001–2003
+| youthclubs1 = SK Bouzov 
+| youthclubs2 = FK Mohelnice-Moravičany 
+| youthclubs3 = SK Sigma Olomouc
+| years1 = 2003–2010 
+| years2 = 2010–2011
+| years3 = 2011–2012
+| years4 = 2013
+| years5 = 2014–
+| clubs1 = [[SK Sigma Olomouc|Sigma Olomouc]] 
+| clubs2 = [[FK Senica|Senica]]
+| clubs3 = [[FC Vysočina Jihlava|Vysočina Jihlava]]
+| clubs4 = [[FC Vostok|Vostok]]
+| clubs5 = [[Loko Vltavín]]
+| caps1 = 56
+| caps2 = 10
+| caps3 = 21
+| caps4 = 17
+| caps5 = 8
+| goals1 = 2  
+| goals2 = 0
+| goals3 = 0
+| goals4 = 0
+| goals5 = 0
+| nationalyears1 = 
+| nationalteam1 = 
+| nationalcaps1 = 
+| nationalgoals1 = 
+| pcupdate = {{date|2014-05-09}}
+| ntupdate =
+}}
+
+'''Martin Komárek''' (born 14 October 1984) is a [[Czech Republic|Czech]] [[association football|football]] player who currently plays for [[Loko Vltavín]] in the [[Czech 2. Liga]].
+
+==External links==
+*{{Fotbal DNES|id=3003434}}
+*[https://web.archive.org/web/20120823064600/http://guardian.touch-line.com/StatsCentre.asp?Lang=0&CTID=27&CPID=89&pStr=Player&PLID=199077&TEID=3477 Guardian Football]
+*{{Soccerway|martin-komarek/47463}}
+
+{{Use dmy dates|date=January 2011}}
+
+{{DEFAULTSORT:Komarek, Martin}}
+[[Category:1984 births]]
+[[Category:Living people]]
+[[Category:Czech footballers]]
+[[Category:Czech expatriate footballers]]
+[[Category:Czech First League players]]
+[[Category:Kazakhstan Premier League players]]
+[[Category:SK Sigma Olomouc players]]
+[[Category:FC Vysočina Jihlava players]]
+[[Category:Loko Vltavín players]]
+[[Category:FC Vostok players]]
+[[Category:FK Senica players]]
+[[Category:Slovak Super Liga players]]
+[[Category:Expatriate footballers in Slovakia]]
+[[Category:Expatriate footballers in Kazakhstan]]
+[[Category:Czech expatriate sportspeople in Slovakia]]
+[[Category:Czech expatriate sportspeople in Kazakhstan]]
+{{CzechRepublic-footy-defender-stub}}
+[[Category:Association football defenders]]
+[[Category:Place of birth missing (living people)]]

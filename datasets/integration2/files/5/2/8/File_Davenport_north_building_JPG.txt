@@ -1,0 +1,6 @@
+== Summary ==
+the north high school building
+== Licensing ==
+{{self|GFDL|cc-by-2.5|migration=relicense}}
+
+{{Copy to Wikimedia Commons|bot=Fbot|priority=true}}

@@ -1,0 +1,27 @@
+== Summary ==
+{{album cover fur
+<!-- REQUIRED -->
+|Article=Young Enough
+|Use=Infobox
+<!-- HIGHLY RECOMMENDED -->
+|Source=https://charlybliss.bandcamp.com/album/young-enough
+<!-- ADDITIONAL INFORMATION -->
+|Name= Guppy
+|Artist= Charly Bliss
+|Label= Barsuk
+|Graphic Artist= Ebru Yildiz, Chloe Ellison, and Hannah Baker
+|Item= 
+|Type= 
+|Website= 
+|Owner= 
+|Commentary= 
+<!-- OVERRIDE FIELDS -->
+|Description= 
+|Portion= 
+|Low_resolution= 
+|Purpose=
+|Replaceability= 
+|other_information= 
+}}
+== Licensing ==
+{{Non-free album cover}}

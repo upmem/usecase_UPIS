@@ -1,0 +1,22 @@
+===October 28===
+===={{tl|Orissa-geo-stub}} / {{cl|Orissa geography stubs}}====
+<div class="boilerplate metadata vfd" style="background: #ebfefa; margin: 0 auto; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the stub template and/or category above. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the template's or category's talk page (if any).  No further edits should be made to this section.''
+The result of the debate was '''close for the time being. The renaming of the state appears to be under consideration rather than finalised. A new SfD nomination should be opened if the new name is accepted and becomes widely used.''' <br>
+
+
+State's name has officially changed to [[Odisha]]. Template and category should be renamed to <nowiki>{{Odisha-geo-stub}}</nowiki> and {{cl|Odisha geography stubs}} to match. Propose keeping current template name as a redirect. [[User:Grutness|Grutness]]...''<small><font color="#008822">[[User_talk:Grutness|wha?]]</font></small>'' 00:00, 29 October 2009 (UTC)
+*'''Rename and keep direct''' per nomination. I'll move the main article ([[Orissa]]) to correspond with the name change. [[User:A Stop at Willoughby|A Stop at Willoughby]] ([[User talk:A Stop at Willoughby|talk]]) 03:08, 9 November 2009 (UTC)
+:*Well, the main article has been move-protected for a few days now, which I disagree with, but in any case...I can't move the page. Regardless, I still believe the stubcat and template should be renamed. [[User:A Stop at Willoughby|A Stop at Willoughby]] ([[User talk:A Stop at Willoughby|talk]]) 03:25, 9 November 2009 (UTC)
+::*''That's'' interesting... When I nominated this, the page was at [[Odisha]]. Going by the [http://en.wikipedia.org/w/index.php?title=Orissa&action=history page history] and [[Wikipedia:Categories_for_discussion/Log/2009_October_28#Category:Orissa|equivalent CfD]] it looks as if the naming hasn't been officially finalised yet, so perhaps this should be postponed for now... I'll withdraw the nom (temporarily, at least). [[User:Grutness|Grutness]]...''<small><font color="#008822">[[User_talk:Grutness|wha?]]</font></small>'' 23:33, 9 November 2009 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the template's or category's talk page (if any). No further edits should be made to this section.''</div>
+
+===={{cl|Observatory stubs}}====
+<div class="boilerplate metadata vfd" style="background: #ebfefa; margin: 0 auto; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the stub template and/or category above. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the template's or category's talk page (if any).  No further edits should be made to this section.''
+The result of the debate was '''Rename'''. [[User:Od Mishehu|עוד&nbsp;מישהו]] [[User talk:Od Mishehu|Od&nbsp;Mishehu]] 18:14, 26 November 2009 (UTC)''' ''' <br>
+
+
+'''Rename''' to {{cl|Astronomical observatory stubs}} to match permcat. [[User:Grutness|Grutness]]...''<small><font color="#008822">[[User_talk:Grutness|wha?]]</font></small>'' 00:05, 28 October 2009 (UTC)
+*'''Rename''' per nomination. {{cl|Astronomical observatories}} is the associated permanent category, so the terminology here should match that anyway. In addition, a glance at {{cl|Observatories}} indicates that there are several other types of observatories out there with their own categories: {{cl|Bird observatories}}, {{cl|Geophysical observatories}}, {{cl|Meteorological observatories}}, etc. Since this stubcat merely deals with astronomical observatories, telescopes, and instruments, a rename is wholly appropriate. [[User:A Stop at Willoughby|A Stop at Willoughby]] ([[User talk:A Stop at Willoughby|talk]]) 03:04, 9 November 2009 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the template's or category's talk page (if any). No further edits should be made to this section.''</div>

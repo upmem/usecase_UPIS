@@ -1,0 +1,92 @@
+{{Infobox scientist
+| name        = George A. Kennedy
+| native_name = 
+| native_name_lang = 
+| image       =   George A. Kennedy.jpg
+| imagesize   = 
+| alt         = 
+| caption     = 
+| birth_date  =   {{birth date |1901|5|7}}
+| birth_place = [[Moganshan]], [[Zhejiang Province]], [[Qing Empire]]
+| death_date  =   {{death date and age |1960|8|15 |1901|5|7}}
+| death_place = At sea
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates =  <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence   = 
+| citizenship = 
+| nationality = American
+| fields      = [[Chinese language]], [[Chinese literature|literature]]
+| workplaces  = [[Yale University]]
+| patrons     =
+| alma_mater  = [[University of Berlin]] <small>(Ph.D.)</small><br />[[Union Theological Seminary (Manhattan)|Union Theological Seminary]]
+| thesis_title =  <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url  =   <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year =   <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor = 
+| academic_advisors = [[Otto Franke (sinologist)|Otto Franke]]<br />[[Erich Haenisch]]
+| doctoral_students = 
+| notable_students = [[John DeFrancis]]
+| known_for   = 
+| influences  = 
+| influenced  = 
+| awards      = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse      =   Jean Wilson
+| partner     =   <!--(or | partners = )-->
+| children    = 
+| signature   =   <!--(filename only)-->
+| signature_alt = 
+| website     =   <!--{{URL|www.example.com}}-->
+| footnotes   = 
+| module = {{infobox Chinese
+|child=yes
+|c=金守拙
+|p=Jīn Shǒuzhuō
+|w=Chin<sup>1</sup> Shou<sup>3</sup>-chuo<sup>1</sup>
+|gr=Jin Shooujuo
+|wuu=Jin Seu-tsüeʔ
+}}}}
+'''George Alexander Kennedy''' (17 May 1901{{snd}}15 August 1960), was an American [[sinologist]] known for his studies of [[classical Chinese]] and for his teaching of Chinese to students.
+
+==Life and career==
+George Kennedy was born on 17 May 1901 in [[Moganshan]], [[Zhejiang Province]], China, where his parents Alexander and Ada Kennedy were serving as [[Protestant]] missionaries.  Although his family spoke English at home, Kennedy grew up speaking the local Chinese dialect, a form of [[Wu Chinese]], and often said that Chinese was his native language.{{sfnp|Honey|2001|p=265}}  The Kennedy family left China in 1918 after George's father and brother Fred died less than a month apart.  They returned to the United States, where Kennedy attended the [[College of Wooster]].  From 1922 to 1925 he studied theology at the [[Western Theological Seminary]] and the [[Union Theological Seminary in the City of New York]].  During this time he became friends with [[Luther Carrington Goodrich]], who later became professor of Chinese at [[Columbia University]].
+
+He returned to China in 1926 and taught English and Chinese in [[Shanghai]].  In 1932, Kennedy went to the [[University of Berlin]], where he studied Chinese and [[Mongolian language|Mongolian]] under [[Otto Franke (sinologist)|Otto Franke]] and [[Erich Haenisch]].  In 1937, Kennedy completed his [[Ph.D.]] with dissertation on the role of confession in Chinese law.  He had previously returned to the United States and worked in the Orientalia department of the [[Library of Congress]] under [[Arthur W. Hummel, Sr.]], writing 72 entries in Hummel's biographical dictionary, ''[[Eminent Chinese of the Ch'ing Period]]''.  In 1936 he began teaching Chinese at [[Yale University]].  He was made an assistant professor in 1937, an associate professor in 1943, and full professor in 1954, the rank he held upon his sudden death in 1960.{{sfnp|Honey|2001|p=265}}  During [[World War II]], Kennedy served as the director of the [[Army Specialized Training Program]] at Yale from 1942 to 1944.{{sfnp|Honey|2001|p=265}}
+
+In 1960, Kennedy was traveling in Asia visiting some friends and members of his family.  In early August 1960, Kennedy planned to return to the United States, and boarded a ship in [[Yokohama, Japan]], bound for [[San Francisco]].  During the voyage, Kennedy, who had not been feeling well but had not sought medical attention, died of a heart attack.  An autopsy revealed that he had a number of large tumors in his body but had chosen not to have any cancer treatments.
+
+Kennedy was the principal author of the [[Yale Romanization of Mandarin]].
+
+== Selected works ==
+* {{cite journal | first=George A. | last=Kennedy | author-mask=3 | title=Metrical Irregularity in the ''Shih Ching'' | date=1939 | journal=Journal of the American Oriental Society | volume=60 | pages=284–296}}
+* {{cite journal | first=George A. | last=Kennedy | author-mask=3 | title=A Study of the Particle ''Yen'' | date=1940 | journal=Journal of the American Oriental Society | volume=60 | issue=2 | pages=193–207 | doi=10.2307/594007| jstor=594007 }}
+* {{cite journal | first=George A. | last=Kennedy | author-mask=3 | title=Interpretation of the ''Ch'un Ch'iu'' | date=1942 | journal=Journal of the American Oriental Society | volume=62 | issue=1 | pages=40–48 | doi=10.2307/594099| jstor=594099 }}
+* {{cite book | first=George A. | last=Kennedy | author-mask=3 | chapter=[72 various entries on Chinese and Manchu rulers and officials] | editor-first=Arthur W., Sr | editor-last=Hummel | editor-link=Arthur W. Hummel, Sr. | title=[[Eminent Chinese of the Ch'ing Period]] | location=Washington | publisher=U.S. Government Printing Office | year=1943}}
+* {{cite book | author-mask=3 | first=George A. | last=Kennedy | title=ZH Guide: An Introduction to Sinology | location=New Haven | publisher=Yale University | year=1953}}
+
+==References==
+;Footnotes
+{{reflist}}
+
+;Works cited
+* {{Cite book | last=Honey | first=David B. | year=2001 | title=Incense at the Altar: Pioneering Sinologists and the Development of Classical Chinese Philology | location=New Haven, Connecticut | publisher=American Oriental Society | series=American Oriental Series '''86''' | isbn=0-940490-16-1 | ref=harv}}
+* {{cite book | editor-first=Tien-yi | editor-last=Li | title=Selected Works of George A. Kennedy | location=New Haven | publisher=Far Eastern Publications | year=1964 | ref=harv}}
+
+==External links==
+
+* George Alexander Kennedy papers (MS 308). Manuscripts and Archives, Yale University Library. [http://hdl.handle.net/10079/fa/mssa.ms.0308]
+
+* [https://web.archive.org/web/20150307211717/http://www.umass.edu/wsp/resources/profiles/kennedy.html Biography]
+* {{DNB-Portal|128616059}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kennedy, George}}
+[[Category:1901 births]]
+[[Category:1960 deaths]]
+[[Category:American expatriates in China]]
+[[Category:Writers from Huzhou]]
+[[Category:American sinologists]]

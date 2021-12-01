@@ -1,0 +1,17 @@
+== Summary ==
+Album cover of [[Isis (band)|Isis]]' ''[[Live.02]]''.
+
+==Fair use==
+
+{{Non-free use rationale
+| Description       = Album cover of [[Isis (band)|Isis]]'s ''[[Live.02]]''.
+| Source            = http://www.sgnl05.com/press
+| Article           = Live.02
+| Portion           = Front cover only.
+| Low_resolution    = Original.
+| Purpose           = To illustrate the album in the article ''[[Live.02]]''.
+| Replaceability    = No free alternative is available.
+}}
+
+== Licensing ==
+{{Non-free album cover|image has rationale=yes}}

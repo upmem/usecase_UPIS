@@ -1,0 +1,51 @@
+{{refimprove|date=April 2018}}
+
+{{coord|48.2037|-121.9167|display=title|name=Jim Creek Naval Radio Station}}
+[[File:Jim Creek VLF antenna.png|thumb|upright=1.5|Diagram of Jim Creek antenna array]]
+
+'''Jim Creek Naval Radio Station''' is a [[United States Navy]] [[very low frequency]] (VLF) radio [[transmitter]] facility at Jim Creek near [[Oso, Washington]]. The primary mission of this site is to [[Communication with submarines|communicate orders one-way to submarines]] of the Pacific fleet.  Radio waves in the [[very low frequency]] band can penetrate seawater and be received by submerged submarines which cannot be reached by radio communications at other frequencies.  Established in 1953, the transmitter radiates on 24.8&nbsp;kHz with a power of 1.2&nbsp;megawatts and a callsign of NLK, and is one of the most powerful transmitters in the world.<ref>{{cite web |url=http://ludb.clui.org/ex/i/WA3248/ |title=Jim Creek Naval Radio Station |publisher=Center for Land Use Interpretation |access-date=2008-01-06 |df=dmy-all |archive-url=https://web.archive.org/web/20110927004529/http://ludb.clui.org/ex/i/WA3248/ |archive-date=2011-09-27 |url-status=dead }}</ref> Located near [[Arlington, Washington]], in the foothills of the [[Cascade Range|Cascades]], north of Seattle, the site has 5,000 largely forested acres.
+
+==Antenna==
+Much of the site is devoted to the enormous overhead wire [[antenna (radio)|antenna]] array that is necessary to efficiently radiate the VLF waves. The antenna, shown above, consists of ten [[catenary]] cables, 5,640–8,700&nbsp;ft (1,719–2,652&nbsp;m, 1.1–1.6&nbsp;miles) long, suspended in a zigzag pattern over the valley between Wheeler mountain and Blue mountain on twelve 200&nbsp;ft. towers on the mountains' crests. Each cable receives energy from a vertical cable attached at the center, which drops down to the valley floor where it is fed by one of two "bus" [[transmission line]]s which extend along the valley from the transmitter building in the center. 
+
+This type of antenna, called a "valley-span" antenna, functions as a capacitively top-loaded [[electrical length|electrically short]] [[monopole antenna]]. The vertical cables are the main radiating elements, and the horizontal cables serve to add capacitance to the top of the antenna, to increase the power radiated. The antenna is divided into 2&nbsp;sections of 5&nbsp;elements, each fed with its own transmission line. These normally operate together as one antenna, but can operate separately so one section can be shut down for maintenance without interrupting transmission. The floor of the valley under the antenna is covered with an elaborate network of buried cables that serve as the [[ground (electricity)|ground]] system for the transmitter. 
+
+This station is part of the command system which, in the event of a [[nuclear war]], would transmit launch orders to US [[ballistic missile submarine]]s in the Pacific fleet.  The station was listed as a potential target for a Russian attack by a Russian state media report in early 2019.<ref>{{cite news |last=Bernton |first=Hal |date=February 26, 2019 |title=Is a remote Snohomish County naval transmission center in Russia's nuclear crosshairs? |url=https://www.seattletimes.com/seattle-news/obscure-snohomish-county-navy-radio-station-named-as-top-russian-target/ |newspaper=The Seattle Times |access-date=February 27, 2019 |df=dmy-all}}</ref>
+
+== Gallery ==
+<gallery mode="packed" heights="150">
+File:Jim Creek Naval Radio Station - Transmitter building (120815-N-XS652-021).jpg|Transmitter building.  From the two bushings on the roof cables supply power to two feed buses which extend both directions along the valley, connected to the overhead antenna wires.
+File:Jim Creek Naval Radio Station - Antenna feed bus towers (120813-N-XS652-046).jpg|Towers supporting one of two antenna feed bus cables extending from the transmitter building.  From each 145 ft. tower a vertical feedline (faintly visible, top of picture) extends up 900 ft. to attach to the midpoint of each horizontal valleyspan cable.
+File:Jim Creek Naval Radio Station - work on feed bus tower (120815-N-XS652-003).jpg|Contractors working on feed bus tower
+File:Contractors work on lowered antenna span as part of the 2012 Antenna Replacement Project at Jim Creek Naval Radio Station near Oso, Wash., Aug. 9, 2012 120809-N-XS652-008.jpg|Contractors repairing one of the mile-long antenna wires that span the valley, which here is lowered to the ground for access. 
+</gallery>
+
+==Recreation area==
+Jim Creek includes a regional outdoor recreation area for active duty personnel, reservists, retirees, DoD civilians, and sponsored guests. It is outside of [[Arlington, Washington]], about one hour north of Seattle. Jim Creek offers a wide variety of recreational opportunities, including trout fishing, boating, and wildlife viewing. Jim Creek flourishes with fish, wildlife, and Northwest flora. A group lodge is used for retreats and seminars; camping and picnic sites and other amenities are available. The area also includes hiking/bike riding trails and scenic viewpoints.<ref>{{cite web |url=http://www.navylifepnw.com/site/67/Jim-Creek.aspx |title=Jim Creek Recreation Area |publisher=Commander Navy Region Northwest |department=Community Support Programs |access-date=2008-01-06 |url-status=dead |archiveurl=https://web.archive.org/web/20080112203558/http://www.navylifepnw.com/site/67/Jim-Creek.aspx |archive-date=2008-01-12 |df=dmy-all}}</ref>
+
+Programs include environmental education, outdoor recreation, and leadership training. Navy Legacy projects include trail construction and a salmon hatchery built in cooperation with the [[Stillaguamish people|Stillaguamish Indian Tribe]] to restock the salmon spawning stream.
+
+==Resource management==
+In 1991, the Navy purchased rights to {{convert|225|acre|km2}} of [[old growth forest]], associated lakes, creeks, and wetlands, using $3&nbsp;million of Legacy Resource Management Program to protect the largest remaining old-growth spruce and cedar forest in the Puget Sound trough. Natural mountain lakes provide a habitat for wildlife including [[North American beaver|beavers]], [[North American river otter|river otters]], [[waterfowl]], and [[bald eagle]]s. 
+
+Many trees in the {{convert|225|acre|km2}} are estimated to be up to 1,500–1,700&nbsp;years old, with some over {{convert|260|ft|m}} tall and {{convert|10|ft|m}} in diameter. Jim Creek provides habitat for the [[marbled murrelet]] and other threatened species.
+
+==See also==
+* [[Communication with submarines]]
+* [[VLF Transmitter Cutler]]
+* [[Naval Communication Station Harold E. Holt]]
+* [[Lualualei VLF transmitter]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{cite news |publisher=Navy Marine Corps News |url=http://www.navy.mil/management/videodb/player/video.aspx?id=7286 |title=Jim Creek Wilderness Recreation Area |format=streaming video |date=June 17, 2006 |accessdate=2008-01-06 |url-status=dead |archiveurl=https://web.archive.org/web/20110522113019/http://www.navy.mil/management/videodb/player/video.aspx?id=7286 |archivedate=May 22, 2011 |df=dmy-all}}
+* {{cite web |url=http://www.navy-radio.com/commsta/jimcreek.htm |title=Jim Creek |website=Navy Radio}}
+* {{cite magazine |url=https://books.google.com/books?id=aNwDAAAAMBAJ&pg=PA90 |via=Google Books |title=The voice that crosses the Pacific |magazine=Popular Mechanics |date=May 1953 |pages=90–91|publisher=Hearst Magazines }}
+* {{cite news |title=Russia targets Jim Creek Naval Radio Station |url=https://www.theguardian.com/world/2019/feb/25/russian-state-tv-map-potential-us-nuclear-targets-hypersonic-missile |quote=Russian state TV shows map of potential US nuclear targets. |date=25 Feb 2019 |newspaper=The Guardian |df=dmy-all}} 
+{{Commons category|Jim Creek Naval Radio Station}}
+
+[[Category:Communications and electronic installations of the United States Navy]]
+[[Category:Military installations in Washington (state)]]
+[[Category:Buildings and structures in Snohomish County, Washington]]

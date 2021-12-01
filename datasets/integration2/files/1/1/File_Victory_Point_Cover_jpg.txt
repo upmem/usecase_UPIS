@@ -1,0 +1,25 @@
+{{bsr}}
+== Summary ==
+{{Non-free use rationale book cover
+| Article           = Victory Point (Book)
+| Use               = Infobox
+<!-- OPTIONAL FIELDS -->
+| Title             = Victory Point: Operations Red Wings and Whalers - The Marine Corps' Battle for Freedom in Afghanistan
+| Author            = [[Ed Darack]]
+| Publisher         = [[Berkley Books]], a Division of [[Penguin_Publishing|The Penguin Group]]
+| Cover_artist      = 
+| Website           = 
+| Owner             = 
+| Commentary        = 
+| Year              = 2009,2010
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = BarnesAndNoble.com
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = 
+| Replaceability    = 
+| Other_information = 
+}}
+== Licensing ==
+{{Non-free book cover|image has rationale=yes|category=Non-fiction book cover images}}

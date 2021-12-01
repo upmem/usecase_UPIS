@@ -1,0 +1,12 @@
+== Summary ==
+created by Barry Whitewater at the direction of the Dallas Future Society for use as a logo for FenCon science fiction convention, uploaded by FenCon webmaster under fair use terms to illustrate articles about or referencing FenCon.
+== Licensing ==
+{{Non-free logo|image has rationale=yes}}
+{{Non-free use rationale|Description=FenCon generic logo
+|Source=uploaded by FenCon webmaster
+|Portion=the complete logo
+|Resolution=350x170, a low resolution image not suitable for production of counterfeit goods
+|Article=FenCon
+|Purpose=It illustrates an educational article about the entity that the logo represents.
+|Replaceability=It is not replaceable with an uncopyrighted or freely copyrighted image of comparable educational value.
+}}

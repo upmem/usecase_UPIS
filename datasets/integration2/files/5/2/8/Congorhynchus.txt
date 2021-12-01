@@ -1,0 +1,32 @@
+{{Taxobox
+| fossil_range = {{fossil_range|Maastrichtian|Eocene}}
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| subphylum = [[Vertebrate|Vertebrata]]
+| infraphylum = [[Gnathostomata]]
+| superclassis = [[Osteichthyes]]
+| classis = [[Actinopterygii]]
+| ordo = [[Acanthomorpha]]
+| genus = '''''Congorhynchus'''''
+| genus_authority = Darteville & Casier, 1949
+}}
+
+'''''Congorhynchus''''' ([[Greek language|Greek]] for "Congo snout") is a genus of prehistoric [[Actinopterygii|ray-finned fish]] that was described by E. Darteville and E. Casier in 1949.
+
+Fossils belonging to ''Congorhynchus'' date back to the [[Maastrichtian]] stage of the [[Late Cretaceous]] as well as the [[Eocene]]. This means that this genus survived the [[Cretaceous–Paleogene extinction event]] that killed the [[dinosaur]]s. There are three known species, all of which are extinct.
+
+== References ==
+{{Reflist}}
+* {{cite web |url=http://paleodb.org/cgi-bin/bridge.pl?action=checkTaxonInfo&taxon_no=35640&is_real_user=1 |title=''Congorhynchus'' |work=The Paleobiology Database |accessdate=January 30, 2010}}
+
+{{Taxonbar|from=Q5160561}}
+
+[[Category:Acanthomorpha]]
+[[Category:Cretaceous bony fish]]
+[[Category:Paleocene fish]]
+[[Category:Eocene fish]]
+[[Category:Prehistoric ray-finned fish genera]]
+
+
+{{paleo-rayfinned-fish-stub}}
+{{Cretaceous-fish-stub}}

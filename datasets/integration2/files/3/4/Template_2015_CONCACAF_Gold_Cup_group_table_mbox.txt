@@ -1,0 +1,7 @@
+<noinclude>This {{tl|ombox}} template was created to provided easy access to switch between [[2015 CONCACAF Gold Cup]] group tables during the group stage of the tournament. This template should not require any editing.</noinclude>
+{{ombox
+| image = [[Image:Gartoon-Gedit-icon.png|50px]]
+| imageright = [[Image:Gnome globe current event.svg|50px]]
+| textstyle = text-align:center;
+| text = '''To edit the group standings: ''[[Template:2015 CONCACAF Gold Cup Group A table|A]], [[Template:2015 CONCACAF Gold Cup Group B table|B]], [[Template:2015 CONCACAF Gold Cup Group C table|C]]'''''
+}}<noinclude>[[Category:2015 CONCACAF Gold Cup group table templates|*]]</noinclude>

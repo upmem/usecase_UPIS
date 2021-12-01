@@ -1,0 +1,89 @@
+{{Infobox album
+| name       = SYR8: Andre Sider af Sonic Youth
+| type       = live
+| artist     = [[Sonic Youth]] med [[Mats Gustafsson]] og [[Merzbow]]
+| cover      = Syr8.jpg
+| alt        =
+| released   = July 28, 2008
+| recorded   = July 1, 2005
+| venue      =
+| studio     =
+| genre      = [[Experimental rock|Experimental]], [[noise rock]]
+| length     = 57:32
+| label      = [[Sonic Youth Recordings|SYR]]
+| producer   = Sonic Youth
+| chronology = SYR series
+| prev_title = [[SYR7: J'Accuse Ted Hughes]]
+| prev_year  = 2008
+| next_title = [[Lights Out (2010 film)#Soundtrack|SYR9: Simon Werner a disparu]]
+| next_year  = 2011
+| misc       = {{Extra chronology
+ | artist     = [[Sonic Youth]]
+ | type       = studio
+ | prev_title = [[Hits Are for Squares]]
+ | prev_year  = 2008
+ | title      = SYR8: Andre Sider Af Sonic Youth
+ | year       = 2008
+ | next_title = [[The Eternal (album)|The Eternal]]
+ | next_year  = 2009
+}}
+}}
+{{album ratings
+| rev1 = ''[[Blurt (magazine)|Blurt]]''
+| rev1score = {{Rating|7|10}}<ref>{{cite magazine|last=Kiefer|first=Christian|title=Sonic Youth - SYR8 - Ander Sider Af Sonic Youth|url=http://blurtonline.com/review/sonic-youth-syr-8-andre-sider-af-sonic-youth/|magazine=[[Blurt (magazine)|Blurt]]|accessdate=23 June 2013|date=9 September 2008}}</ref>
+| rev2 = [[MOG (online music)|MOG]]
+| rev2score = 8/10<ref>{{cite web|url=http://mog.com/Spencer_Owen/blog_post/174321|title=Sonic Youth - SYR7 & SYR8|first=Spenser|last=Owen|work=Spenser Owen blog|publisher=[[MOG (online music)|MOG]]|access-date=8 May 2012|url-status=dead|archive-url=https://web.archive.org/web/20080823152239/http://mog.com/Spencer_Owen/blog_post/174321|archive-date=23 August 2008}}</ref>
+| rev3 = [[Pitchfork Media|Pitchfork]]
+| rev3score = 8.2/10<ref name=Pitchfork>{{cite web|last=Currin|first=Grayson|title=Sonic Youth: Andre Sider Af Sonic Youth : Album Reviews|url=http://pitchfork.com/reviews/albums/12096-andre-sider-af-sonic-youth/|publisher=[[Pitchfork Media]]|accessdate=8 May 2012|date=12 August 2008}}</ref> 
+| rev4 = ''[[The Rolling Stone Album Guide]]''
+| rev4score = {{Rating|3|5}}<ref>{{cite magazine|title=Sonic Youth: Album Guide|url=https://www.rollingstone.com/music/artists/sonic-youth/albumguide|magazine=[[Rolling Stone]]|access-date=23 June 2013|archive-url=https://web.archive.org/web/20120626125715/http://www.rollingstone.com/music/artists/sonic-youth/albumguide|archive-date=26 June 2012|url-status=dead}}</ref>
+}}
+
+'''''SYR8: Andre Sider af Sonic Youth''''' is a live album by [[Sonic Youth]] with [[Mats Gustafsson]] and [[Merzbow]]. It was the eighth release in the [[Sonic Youth Recordings|SYR]] series. It was released on July 28, 2008. The album was recorded on July 1, [[Roskilde Festival 2005|2005]] at the [[Roskilde Festival]]. The album title is in [[Danish language|Danish]] and means "Other sides of Sonic Youth".
+
+==Track listing==
+{{Track listing
+| title1          = Andre Sider af Sonic Youth
+| length1         = 57:32
+}}
+
+'''Notes'''
+*Recorded live at Roskilde Festival, July 1, 2005
+*Mixed at Studio Concord, 2006
+*Mastered at Golden Mastering
+
+==Personnel==
+Credits were adapted from the album's [[liner notes]].<ref>{{Cite AV media notes |title=Andre Sider Af Sonic Youth |others=[[Sonic Youth]] |language=da |year=2008 |page=1 |type=sleeve |publisher=[[Sonic Youth Recordings]]}}</ref>
+
+'''Sonic Youth'''
+*[[Kim Gordon]]&nbsp;– guitar, vocals
+*[[Thurston Moore]]&nbsp;– guitar
+*[[Jim O'Rourke (musician)|Jim O'Rourke]]&nbsp;– bass 
+*[[Lee Ranaldo]]&nbsp;– guitar
+*[[Steve Shelley]]&nbsp;– drums, percussion
+
+'''Additional musicians'''
+*[[Mats Gustafsson]]&nbsp;– winds
+*[[Merzbow]]&nbsp;– laptop
+
+'''Technical'''
+*Barok Films&nbsp;– recording
+*Jim O'Rourke&nbsp;– mixing
+*Aaron Mullan&nbsp;– live sound
+*Jørgen Teller&nbsp;– translation
+*John Golden&nbsp;– mastering
+;Design personnel
+*Chris Habib&nbsp;– graphic design
+*Lee Ranaldo & Eric Barcht&nbsp;– photos
+
+== References ==
+{{Reflist|30em}}
+
+{{Merzbow}}
+{{Sonic Youth}}
+
+{{DEFAULTSORT:Syr8: Andre Sider Af Sonic Youth}}
+[[Category:2008 albums]]
+[[Category:Sonic Youth albums]]
+[[Category:Sonic Youth Recordings live albums]]
+[[Category:Collaborative albums]]

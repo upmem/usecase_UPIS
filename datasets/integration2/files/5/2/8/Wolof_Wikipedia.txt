@@ -1,0 +1,41 @@
+{{Infobox website
+|name             = {{Wiki favicon}} Wolof Wikipedia
+|logo             = Wikipedia-logo-v2-wo.svg
+|screenshot       = 
+|collapsible      = yes
+|caption          =
+|url              ={{URL|http://wo.wikipedia.org/}}
+|commercial       = No
+|location         = [[Miami, Florida]]
+|launch_date      = 
+|type             = [[Internet encyclopedia project]]
+|language         = [[Wolof language]]
+|registration     = Optional
+|content_license  = [[Creative Commons]] [[ShareAlike]] License 3.0
+|owner            = [[Wikimedia Foundation]]
+|author           = 
+}}
+The '''Wolof Wikipedia''' is the edition of [[Wikipedia]] in the [[Wolof language]]. It currently has {{NUMBEROF|ARTICLES|wo|N}} articles.
+
+The Wikipedia was started in the beginning of 2005, along with the [[Bambara Wikipedia]] and the [[Fula Wikipedia]]. [[Kasper Souren]], a Dutchman who worked with [[Geekcorps]], wrote in a report to an open source conference that until 2006 "not much happened" on the Wolof Wikipedia.<ref name=Lihp158>[[Andrew Lih|Lih, Andrew]]. ''[[The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia]]''. [[Hachette Books#Hyperion Books|Hyperion]], [[New York City]]. 2009. First Edition. {{ISBN|978-1-4013-0371-6}} (alkaline paper). p. 158.</ref> Up until that year, many small articles with very little content were posted.
+
+In April 2007 Ibrahima Fall (username Ibou), a [[Senegal]]ese student living in [[Italy]], began adding substantial content to the Wolof Wikipedia.<ref name=Lihp158/> It had 500 articles in November 2007, 543 articles in June 2008, and 1028 articles in August 2015.<ref name=Lihp158/><ref name="wikimedia">{{cite web|url=https://meta.wikimedia.org/wiki/List_of_Wikipedias|title=List of Wikipedias|website=Meta|accessdate=2017-12-28}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{InterWiki|code=wo}}
+* {{in lang|wo}} [http://wo.wikipedia.org Wolof Wikipedia] ([http://wo.m.wikipedia.org Mobile])
+* [https://www.youtube.com/watch?v=YXdUqHmJRD0 Ibrahima Fall (Ibou) speaking about the Wolof Wikipedia (and more) on Senegalese TV. In Wolof.]
+* [http://www.greenman.co.za/blog/?p=715 "Wolof reaches 1000 Wikipedia articles," Neverness (blog), 30 May 2010]
+{{Wikipedias}}
+
+[[Category:Wikipedias by language]]
+[[Category:Internet in Africa]]
+[[Category:Internet properties established in 2005]]
+[[Category:Wolof language]]
+[[Category:African encyclopedias]]
+
+
+{{wikipedia-stub}}

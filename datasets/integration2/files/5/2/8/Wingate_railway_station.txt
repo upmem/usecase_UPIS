@@ -1,0 +1,75 @@
+{{Use dmy dates|date=August 2015}}
+{{Use New Zealand English|date=August 2015}}
+{{Infobox station
+ | name=Wingate
+ | type=[[Public transport in Wellington|Metlink]] [[suburban rail]]
+ | image=
+ | image_caption=
+ | address= Wingate Crescent, Taita, Lower Hutt, New Zealand 
+ | coordinates= {{coord|41|11.321|S|174|57.279|E|type:railwaystation_region:NZ|}}
+ | line=[[Wairarapa Line]]
+ | other=
+ | structure=
+ | platform=Island
+ | levels=
+ | tracks=Main line (2)
+ | parking=Yes
+ | bicycle=
+ | passengers=
+ | pass_year=
+ | pass_percent=
+ | pass_system=
+ | opened=25 September 1950
+ | closed=
+ | rebuilt=
+ | electrified=14 September 1953
+ | ADA=
+ | code= WING
+ | owned=[[Greater Wellington Regional Council]]
+ | zone=5
+ | former=
+ | services=
+{{s-note|text=[[ONTRACK]]}}
+{{s-rail|title=Tranz Metro}}
+{{s-line|system=Tranz Metro|line=Hutt Valley Line|previous=Taitā|next=Naenae|}}
+ | mpassengers=
+}}
+
+'''Wingate railway station''' is a suburban railway station in [[Lower Hutt]], [[New Zealand]], serving the [[Wingate, New Zealand|Wingate]] industrial area and parts of [[Avalon, New Zealand]], [[Naenae]] and [[Taita, New Zealand|Taitā]] suburbs. The station is located on the [[Hutt Valley Line|Hutt Valley section]] of the [[Wairarapa Line]], {{convert|19.5|km|mi|abbr=on}} north of [[Wellington railway station|Wellington]]. The station is served by [[Public transport in Wellington|Metlink]]'s [[electric multiple unit]] trains of the [[New Zealand FP class electric multiple unit|"Matangi" FP class]]. Trains stopping at Wingate run to Wellington, [[Taita railway station|Taitā]] and [[Upper Hutt railway station|Upper Hutt]].
+
+The station has an [[island platform]] station between double tracks, linked via ramp south to the Wingate Overbridge and via an overbridge north to Rainey Grove (west) and Wingate Crescent (east).
+
+== History ==
+The then Hutt Valley Branch to [[Waterloo Interchange (Hutt Central) railway station|Waterloo]] opened on 26 May 1927. The branch line was extended to Epuni and Naenae on 7 January 1946 and to Taitā (then known as Taita) on 14 April 1947. Double track was to Naenae only.
+
+The Wingate Station was opened on 25 September 1950. Double track was extended to Wingate and Taitā on 22 February 1953. With the opening of the section to Haywards (now called Manor Park) from 1 March 1954 and the closing of the Melling-Haywards section, this route became the main route to Upper Hutt and the Wairarapa.<ref>Hoy, D.G. ''Rails out of the Capital'' ([[NZRLS]], 1970) pp. 62,63</ref>
+
+== Services ==
+The following [[Public transport in Wellington|Metlink]] bus routes serve Wingate station:
+{| class="wikitable"
+|-
+! Previous timetabled stop
+! [[Public transport in Wellington|Metlink Bus Services]]
+! Next timetabled stop
+|-
+| align="center"| [[Taita railway station|Taita Station]]<br><small>''towards [[Stokes Valley]]''</small>
+| align="center"| <span style="color:#00599c;">'''121'''</span><br>Valley Heights
+| align="center"| Naenae (Kowhai Street)<br><small>''towards [[Gracefield, New Zealand|Gracefield]]''</small>
+|}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* Passenger service timetables from [http://www.metlink.org.nz/section10.php Metlink]
+<br>
+{{Wairarapa Line stations}}
+
+[[Category:Rail transport in Wellington]]
+[[Category:Buildings and structures in Lower Hutt]]
+[[Category:Railway stations in New Zealand]]
+[[Category:Railway stations opened in 1950]]
+[[Category:1950 establishments in New Zealand]]
+
+
+{{NewZealand-railstation-stub}}

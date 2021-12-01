@@ -1,0 +1,85 @@
+{{short description|Light rail stop in Tuen Mun, Hong Kong}}
+{{Use dmy dates|date=January 2017}}
+{{Use Hong Kong English|date=January 2017}}
+{{Unreferenced|date=March 2015}}
+{{Infobox station
+| name                = Siu Lun
+| native_name         = 兆麟
+| native_name_lang    = zh-Hant
+| symbol_location     = hk
+| symbol              = lightrail
+| type                = [[MTR]] [[Light Rail (MTR)|Light Rail]] stop
+| image               = LRT Siu Lun Stop.JPG
+| image_caption       = Siu Lun Stop platform
+| mlanguage           = <!-- Move the Infobox Chinese located after this infobox (if any) to here, but change the template name to "Infobox Chinese/Chinese" and remove any newlines and whitespace between parameters. Remove this comment after checking. -->
+| address             = Siu Lun Court and Tsui Ning Garden
+| borough             = [[Tuen Mun District]], [[Hong Kong]]
+| country             = 
+| iso_region          = HK
+| coordinates         = 
+| elevation           = 
+| line                = {{Plainlist|1=
+* {{rcb|MTR|Light Rail|yes}} routes {{lnl|MTR Light Rail|505}}, {{lnl|MTR Light Rail|507}}, {{lnl|MTR Light Rail|614}} and {{lnl|MTR Light Rail|614P}}
+}}
+| connections         = {{Plainlist|1=
+* [[Bus services in Hong Kong|Bus]], [[minibus]]
+}}
+| distance            =
+| structure           = At-grade
+| platform            = 2 (2 [[side platform]]s)
+| depth               = 
+| levels              = 
+| tracks              = 2
+| parking             = 
+| bicycle             = 
+| opened              = {{Plainlist|1=
+* {{start date and age|df=yes|1991|11|17}}
+}}
+| opening             = 
+| closed              = 
+| rebuilt             = 
+| electrified         = 
+| disabled            = yes
+| code                = 265
+| owned               = [[Kowloon-Canton Railway Corporation|KCR Corporation]]
+| operator            = [[MTR Corporation]]
+| zone                = 1
+| former              = 
+| passengers          = 
+| pass_year           = 
+| pass_percent        = 
+| pass_system         = 
+| mpassengers         = 
+| services            = 
+{{Adjacent stations|system=MTR Light Rail
+|line1=505|left1=Sam Shing|right1=On Ting
+|line2=507|left2=Goodview Garden|right2=On Ting
+|line3=614|left3=Goodview Garden|right3=On Ting
+|line4=614P|left4=Goodview Garden|right4=On Ting
+}}
+| map_type            = Hong Kong MTR
+| map_alt             = Hong Kong MTR system map
+| map_caption         = Location within the [[MTR]] system
+| route_map           = 
+| map_state           = 
+}}
+'''Siu Lun''' ({{zh|t=兆麟}}) is an [[MTR]] [[Light Rail (MTR)|Light Rail]] stop located at ground level at Tuen Mun Heung Sze Wui Road between Siu Lun Court and Tsui Ning Garden in [[Tuen Mun District]]. It began service on 17 November 1991 and belongs to Zone 1.
+
+==References==
+{{Reflist}}
+
+===Website of Map===
+http://www.mtr.com.hk/archive/en/services/maps/lrt_02.pdf
+
+{{Commons category|Siu Lun Stop}}
+{{MTR Light Rail routes|505|507|614|614P}}
+{{MTRStations}}
+{{Tuen Mun District}}
+{{coord|22|23|04|N|113|58|31|E|type:railwaystation_source:kolossus-zhwiki|display=title}}
+
+[[Category:MTR Light Rail stops]]
+[[Category:Former Kowloon–Canton Railway stations]]
+[[Category:Tuen Mun District]]
+[[Category:Railway stations in Hong Kong opened in 1991]]
+[[Category:1991 establishments in Hong Kong]]
+[[Category:MTR Light Rail stops named from housing estates]]

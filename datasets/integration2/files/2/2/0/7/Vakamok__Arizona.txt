@@ -1,0 +1,85 @@
+{{Infobox settlement
+|name                     = Vakamok, Arizona
+|official_name            = 
+|settlement_type          = [[Unincorporated area|Populated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = USA Arizona#USA
+|pushpin_label            = Vakamok
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of Arizona
+|pushpin_mapsize          = 
+|image_map                = 
+|map_caption              = Location within Pima County
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Arizona]]
+|subdivision_type2        = [[List of counties in Arizona|County]]
+|subdivision_name2        = [[Pima County, Arizona|Pima]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             =
+|leader_name              =
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         =
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 
+|population_density_sq_mi = auto
+
+<!-- General information -->
+|timezone                 = [[North American Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = -7
+|timezone_DST             = MST
+|utc_offset_DST           = -7
+|elevation_footnotes      = <ref name=GNIS>{{Cite GNIS|24671|Feature Detail Report for: Vakamok}}</ref>
+|elevation_ft             = 2264
+|elevation_m              = 690
+|coordinates              = {{coord|31|42|20|N|112|01|51|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 
+|area_code                = 520
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|04|78715}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS4|24671}}
+|website                  = 
+|footnotes                = 
+}}
+
+'''Vakamok''' is a [[Unincorporated area|populated place]] situated in [[Pima County, Arizona|Pima County]], Arizona, right along the international border with [[Mexico]].<ref>{{cite web | url=http://arizona.hometownlocator.com/az/pima/vakamok.cfm | publisher=AZ Hometown Locator| title=Vakamok (in Pima County, AZ) Populated Place Profile | accessdate=June 26, 2017}}</ref> Historically, it has been known by several names, including '''Comot''', '''Comoti''', and '''Rusty Shovel'''. ''Vakamok'' is an [[O'odham language|O'odham]] word meaning "rusty". The traditional O'odham name for the village was '''Popolo Vakamakatuk''', but the current name was made official as a result of a decision in 1941 by the [[Board on Geographic Names]]. It has an estimated elevation of {{convert|2264|ft|m}} above sea level.<ref name=GNIS />
+
+==References==
+{{reflist}}
+
+{{Pima County, Arizona}}
+
+[[Category:Populated places in Pima County, Arizona]]
+
+
+{{PimaCountyAZ-geo-stub}}

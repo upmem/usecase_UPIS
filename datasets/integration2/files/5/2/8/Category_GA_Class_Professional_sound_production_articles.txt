@@ -1,0 +1,15 @@
+Professional sound production articles rated as [[WP:GA|good articles]] on the [[Wikipedia:Version 1.0 Editorial Team/Assessment|Wikipedia 1.0 Assessment Scale]].  
+{| class="messagebox standard-talk"
+|-
+|align="center"|[[Image:Sound-board.jpg|45px]]
+|align="center"|This page is part of '''''[[Wikipedia:WikiProject Professional sound production|WikiProject Professional sound production]]'''''. 
+|-
+|}
+Add items to this category by typing 
+:<nowiki>{{WikiProject Professional sound production|class=GA}}</nowiki> 
+on the article's ''talk'' page.
+{{Category class|topic=Professional sound production|class=GA}}
+{{CatAutoTOC}}
+
+[[Category:Professional sound production articles by quality|1]]
+[[Category:GA-Class articles|Professional sound production]]

@@ -1,0 +1,233 @@
+{{Infobox football club season
+| club               = [[SK Rapid Wien|Rapid Wien]]
+| season             = 1926-27
+| manager            = [[Eduard Bauer]]
+| mgrtitle           = Coach
+| stadium            = [[Pfarrwiese]],<br/>[[Vienna]], [[Austria]]
+| league             = [[1926-27 Austrian football championship|First class]]
+| league result      = 3rd
+| cup1               = [[1926-27 Austrian Cup|Austrian Cup]]
+| cup1 result        = '''Winner''' (3rd title)
+| league topscorer   = [[Johann Luef]] (15)
+| season topscorer   = [[Johann Luef]] (20)
+| highest attendance = 21,000
+| lowest attendance  = 3,000
+| average attendance = 8,500
+| prevseason         = [[1925–26 SK Rapid Wien season|1925–26]]
+| nextseason         = [[1927–28 SK Rapid Wien season|1927–28]]
+}}
+
+The '''1926–27 [[SK Rapid Wien]] season''' was the 29th season in club history.
+
+==Squad==
+
+===Squad and statistics===
+<ref name=ref>{{cite web|title=Saison 1926/27 |url=http://www.rapidarchiv.at/saisonen/1927.html|publisher=rapidarchiv.at|accessdate=19 July 2016}}</ref>
+
+===Squad statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan="2" valign="bottom"|Nat.
+!rowspan="2" valign="bottom"|Name
+!colspan="2" width="85"|League
+!colspan="2" width="85"|Cup
+!colspan="2" width="85"|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+!colspan=15|Goalkeepers
+|-
+|{{flagicon|AUT}}||align="left"|[[Walter Feigl]] || 17|| || 5|| || 22|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Griftner]] || 6|| || 1|| || 7|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Otto Janczik]] || 1|| || || || 1|| 
+|-
+!colspan=15|Defenders
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Anderle]] || 1|| || || || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Czejka]] || 2|| || || || 2|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Otto Jellinek]] || 2|| || || || 2|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Kral]] || 1|| || 1|| || 2|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Roman Schramseis]] || 16|| || 3|| || 19|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Solil]] || 21|| 7|| 5|| || 26|| 7
+|-
+!colspan=15|Midfielders
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Madlmayer]] || 17|| || 4|| || 21|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Nitsch]] || 14|| || 5|| || 19|| 
+|-
+|{{flagicon|AUT}}||align="left"|Johann Richter || 23|| 1|| 6|| || 29|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Smistik]] || 20|| 2|| 6|| 1|| 26|| 3
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Valchar]] || 1|| || || || 1|| 
+|-
+!colspan=15|Forwards
+|-
+|{{flagicon|AUT}}||align="left"|[[Wilhelm Cernic]] || 1|| 1|| || || 1|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Rudolf Hanel]] || 11|| 6|| 2|| 3|| 13|| 9
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Hantschk]] || 1|| || || || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|Johann Hoffmann || 13|| 4|| 6|| 5|| 19|| 9
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Hrabac]] || 1|| || || || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Willibald Kirbes]] || 22|| 7|| 6|| 3|| 28|| 10
+|-
+|{{flagicon|AUT}}||align="left"|[[Johann Luef]] || 12|| 15|| 6|| 5|| 18|| 20
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Molzer]] || 3|| 1|| || || 3|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Uridil]] || 5|| 5|| || || 5|| 5
+|-
+|{{flagicon|AUT}}||align="left"|[[Rudolf Vsolek]] || 3|| || || || 3|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Weselik]] || 15|| 14|| 3|| 2|| 18|| 16
+|-
+|{{flagicon|AUT}}||align="left"|[[Ferdinand Wesely]] || 20|| 11|| 5|| 5|| 25|| 16
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Wondrak]] || 15|| 8|| 2|| || 17|| 8
+|}
+
+==Fixtures and results==
+<ref name=results>{{cite web|title=Spiele 1926/27 |url=http://www.rapidarchiv.at/spiele/1927.html|publisher=rapidarchiv.at|accessdate=25 July 2016}}</ref>
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+===League===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#fcc"
+| {{tooltip|1|Round 1}} || 29.08.1926 || [[Franz Horr Stadium|A]] || align="left"| [[SK Slovan Wien|Slovan Wien]] || 3-4 || align="right"|10,000
+| align="left"|[[Willibald Kirbes|Kirbes W.]] {{goal|46}}, [[Josef Uridil|Uridil J.]] {{goal|77}}, [[Rudolf Hanel|Hanel]] {{goal|87}}
+|- style="background:#cfc"
+| {{tooltip|2|Round 2}} || 05.09.1926 || [[Pfarrwiese|H]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 2-1 || align="right"|6,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|73}}, [[Ferdinand Wesely|Wesely]] {{goal|86}}
+|- style="background:#fcc"
+| {{tooltip|3|Round 3}} || 12.11.1926 || [[Hohe Warte Stadium|A]] || align="left"| [[First Vienna FC|Vienna]] || 0-2 || align="right"|9,000
+| align="left"|
+|- style="background:#fcc"
+| {{tooltip|4|Round 4}} || 26.09.1926 || [[Pfarrwiese|A]] || align="left"| [[Brigittenauer AC]] || 1-2 || align="right"|12,000
+| align="left"|[[Rudolf Hanel|Hanel]] {{goal|70}}
+|- style="background:#fcc"
+| {{tooltip|5|Round 5}} || 30.01.1927 || [[Pfarrwiese|H]] || align="left"| [[Wiener AC]] || 2-4 || align="right"|7,000
+| align="left"|[[Johann Luef|Luef]] {{goal|9}}, [[Karl Wondrak|Wondrak]] {{goal|85}}
+|- style="background:#ffc"
+| {{tooltip|6|Round 6}} || 17.10.1926 || [[Pfarrwiese|A]] || align="left"| [[1. Simmeringer SC|Simmering]] || 2-2 || align="right"|12,000
+| align="left"|[[Franz Solil|Solil]] {{goal|27|pen.}}, [[Willibald Kirbes|Kirbes W.]] {{goal|76}}
+|- style="background:#cfc"
+| {{tooltip|7|Round 7}} || 03.10.1926 || [[Pfarrwiese|H]] || align="left"| [[Hakoah Vienna|Hakoah]] || 2-1 || align="right"|16,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|10}}, [[Josef Uridil|Uridil J.]] {{goal|75}}
+|- style="background:#cfc"
+| {{tooltip|8|Round 8}} || 31.10.1926 || [[Pfarrwiese|H]] || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 8-1 || align="right"|6,000
+| align="left"|[[Franz Solil|Solil]] {{goal|30|pen.}} {{goal|57|pen.}}, [[Ferdinand Wesely|Wesely]] {{goal|47}} {{goal|54}}, [[Josef Molzer|Molzer]] {{goal|49}}, [[Franz Weselik|Weselik]] {{goal|50}} {{goal|52}} {{goal|75}}
+|- style="background:#cfc"
+| {{tooltip|9|Round 9}} || 14.11.1926 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Admira]] || 6-2 || align="right"|7,500
+| align="left"|[[Franz Weselik|Weselik]] {{goal|6}} {{goal|38}} {{goal|76}}, [[Willibald Kirbes|Kirbes W.]] {{goal|40}}, [[Franz Solil|Solil]] {{goal|41|pen.}}, [[Rudolf Hanel|Hanel]] {{goal|75}}
+|- style="background:#cfc"
+| {{tooltip|10|Round 10}} || 21.11.1926 || [[Pfarrwiese|A]] || align="left"| [[Floridsdorfer AC|FAC]] || 5-3 || align="right"|13,000
+| align="left"|[[Karl Wondrak|Wondrak]] {{goal|2}} {{goal|87}}, [[Willibald Kirbes|Kirbes W.]] {{goal|16}}, [[Rudolf Hanel|Hanel]] {{goal|30}}, [[Ferdinand Wesely|Wesely]] {{goal|80|pen.}}
+|- style="background:#cfc"
+| {{tooltip|11|Round 11}} || 28.11.1926 || A || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 3-1 || align="right"|12,000
+| align="left"|Richter {{goal|30}}, [[Rudolf Hanel|Hanel]] {{goal|70}}, [[Karl Wondrak|Wondrak]] {{goal|86}}
+|- style="background:#cfc"
+| {{tooltip|13|Round 13}} || 22.08.1926 || [[Pfarrwiese|H]] || align="left"| [[FK Austria Wien|Austria Wien]] || 4-1 || align="right"|21,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|31}} {{goal|77}}, [[Franz Solil|Solil]] {{goal|56|pen.}}, [[Willibald Kirbes|Kirbes W.]] {{goal|60}}
+|- style="background:#cfc"
+| {{tooltip|14|Round 14}} || 13.02.1927 || [[Pfarrwiese|A]] || align="left"| [[Hakoah Vienna|Hakoah]] || 4-0 || align="right"|17,000
+| align="left"|[[Johann Luef|Luef]] {{goal|7}} {{goal|30}}, [[Willibald Kirbes|Kirbes W.]] {{goal|46}}, [[Josef Smistik|Smistik J.]] {{goal|72}}
+|- style="background:#fcc"
+| {{tooltip|15|Round 15}} || 27.02.1927 || [[Sportklub Stadium|A]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 1-4 || align="right"|10,000
+| align="left"|[[Rudolf Hanel|Hanel]] {{goal|9}}
+|- style="background:#fcc"
+| {{tooltip|16|Round 16}} || 06.03.1927 || A || align="left"| [[FK Austria Wien|Austria Wien]] || 1-2 || align="right"|18,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|80}}
+|- style="background:#cfc"
+| {{tooltip|17|Round 17}} || 13.03.1927 || [[Pfarrwiese|H]] || align="left"| [[First Vienna FC|Vienna]] || 8-1 || align="right"|4,500
+| align="left"|[[Franz Solil|Solil]] {{goal|13|pen.}}, [[Johann Luef|Luef]] {{goal|27}} {{goal|31}} {{goal|53}} {{goal|71}}, [[Willibald Kirbes|Kirbes W.]] {{goal|39}}, [[Franz Weselik|Weselik]] {{goal|83}}, [[Ferdinand Wesely|Wesely]] {{goal|89}}
+|- style="background:#cfc"
+| {{tooltip|18|Round 18}} || 15.05.1927 || [[Pfarrwiese|H]] || align="left"| [[Brigittenauer AC]] || 1-0 || align="right"|15,000
+| align="left"|Hoffmann J. {{goal|85}}
+|- style="background:#cfc"
+| {{tooltip|19|Round 19}} || 16.04.1927 || [[Pfarrwiese|A]] || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 7-3 || align="right"|4,000
+| align="left"|[[Johann Luef|Luef]] {{goal|6}}, [[Ferdinand Wesely|Wesely]] {{goal|23}}, [[Karl Wondrak|Wondrak]] {{goal|52}} {{goal|57}} {{goal|83}}, Hoffmann J. {{goal|76}}, [[Franz Solil|Solil]] {{goal|88|pen.}}
+|- style="background:#cfc"
+| {{tooltip|20|Round 20}} || 30.04.1927 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 5-1 || align="right"|8,000
+| align="left"|[[Johann Luef|Luef]] {{goal|34}} {{goal|39}} {{goal|}}, [[Ferdinand Wesely|Wesely]] {{goal|45}} {{goal|70}}
+|- style="background:#fcc"
+| {{tooltip|21|Round 21}} || 08.05.1927 || [[Pfarrwiese|A]] || align="left"| [[FC Admira Wacker Mödling|Admira]] || 0-2 || align="right"|16,000
+| align="left"|
+|- style="background:#cfc"
+| {{tooltip|22|Round 22}} || 15.06.1927 || [[Pfarrwiese|H]] || align="left"| [[1. Simmeringer SC|Simmering]] || 2-1 || align="right"|4,500
+| align="left"|[[Josef Smistik|Smistik J.]] {{goal|7}}, [[Franz Weselik|Weselik]] {{goal|31}}
+|- style="background:#cfc"
+| {{tooltip|23|Round 23}} || 04.06.1927 || [[Pfarrwiese|H]] || align="left"| [[Floridsdorfer AC|FAC]] || 10-1 || align="right"|3,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|2}} {{goal|11}}, [[Franz Weselik|Weselik]] {{goal|6}} {{goal|9}} {{goal|37}} {{goal|54}} {{goal|59}}, Hoffmann J. {{goal|22}} {{goal|42}}, [[Johann Luef|Luef]] {{goal|51}}
+|- style="background:#fcc"
+| {{tooltip|24|Round 24}} || 12.06.1927 || [[Pfarrwiese|A]] || align="left"| [[Wiener AC]] || 1-4 || align="right"|8,500
+| align="left"|[[Karl Wondrak|Wondrak]] {{goal|25}}
+|- style="background:#cfc"
+| {{tooltip|25|Round 25}} || 29.06.1927 || [[Pfarrwiese|H]] || align="left"| [[SK Slovan Wien|Slovan Wien]] || 4-1 || align="right"|4,000
+| align="left"|[[Johann Luef|Luef]] {{goal|7}} {{goal|37}} {{goal|87}}, [[Wilhelm Cernic|Cernic W.]] {{goal|28}}
+|}
+
+===Cup===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#cfc"
+| {{tooltip|R1|1st round}} || 06.02.1927 || [[Pfarrwiese|H]] || align="left"| [[First Vienna FC|Vienna]] || 6-4 ([[Overtime (sports)|a.e.t.]]) || align="right"|8,000
+| align="left"|Hoffmann J. {{goal|27}} {{goal|99}}, [[Rudolf Hanel|Hanel]] {{goal|38}} {{goal|93}}, [[Josef Smistik|Smistik J.]] {{goal|65}}, [[Willibald Kirbes|Kirbes W.]] {{goal|101}}
+|- style="background:#cfc"
+| {{tooltip|R16|Round of 16}} || 20.02.1927 || [[Pfarrwiese|H]] || align="left"| [[Akademia Wien|Akademia]] || 4-0 || align="right"|3,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|30}} {{goal|44}}, [[Johann Luef|Luef]] {{goal|33}}, [[Rudolf Hanel|Hanel]] {{goal|83}}
+|- style="background:#cfc"
+| {{tooltip|QF|Quarterfinal}} || 27.03.1927 || [[Pfarrwiese|H]] || align="left"| [[Brigittenauer AC]] || 5-1 || align="right"|16,000
+| align="left"|Hoffmann J. {{goal|18}} {{goal|58}}, [[Ferdinand Wesely|Wesely]] {{goal|21}}, [[Johann Luef|Luef]] {{goal|25}}, [[Willibald Kirbes|Kirbes W.]] {{goal|}}
+|- style="background:#ffc"
+| {{tooltip|SF|Semifinal}} || 23.04.1927 || H || align="left"| [[FC Admira Wacker Mödling|Admira]] || 2-2 ([[Overtime (sports)|a.e.t.]]) || align="right"|13,000
+| align="left"|Hoffmann J. {{goal|6}}, [[Ferdinand Wesely|Wesely]] {{goal|113|pen.}}
+|- style="background:#cfc"
+| {{tooltip|SF-PO|Semifinal Playoff}} || 18.05.1927 || [[Hohe Warte Stadium|H]] || align="left"| [[FC Admira Wacker Mödling|Admira]] || 4-3 || align="right"|13,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|20}}, [[Johann Luef|Luef]] {{goal|24}} {{goal|87}}, [[Franz Weselik|Weselik]] {{goal|55}}
+|- style="background:#cfc"
+| {{tooltip|F|Final}} || 28.05.1927 || [[Hohe Warte Stadium|N]] || align="left"| [[FK Austria Wien|Austria Wien]] || 3-0 || align="right"|17,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|8}}, [[Johann Luef|Luef]] {{goal|24}}, [[Willibald Kirbes|Kirbes W.]] {{goal|34}}
+|}
+
+==References==
+{{Reflist}}
+
+{{SK Rapid Wien seasons |state=expanded}}
+
+{{DEFAULTSORT:1926-27 SK Rapid Wien season}}
+[[Category:SK Rapid Wien seasons|1926-27 Rapid Wien Season]]
+[[Category:Austrian football clubs 1926–27 season|Rapid]]

@@ -1,0 +1,36 @@
+{{Infobox settlement
+| name = Niski Młyn
+| settlement_type = Settlement
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Bartoszyce County|Bartoszyce]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Bisztynek|Bisztynek]]
+| elevation_m =
+| population_total =
+| website = }}
+'''Niski Młyn''' {{IPAc-pl|'|n|i|s|k|i|-|'|m|ł|y|n}} ({{lang-de|Niedermühl}}) is a [[human settlement|settlement]] in the administrative district of [[Gmina Bisztynek]], within [[Bartoszyce County]], [[Warmian-Masurian Voivodeship]], in northern Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref>
+
+[[First Partition of Poland|Before 1772]] the area was part of [[Crown of the Kingdom of Poland|Kingdom of Poland]], 1772-1945 Prussia and Germany ([[East Prussia]]).
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Bisztynek}}
+
+{{coord|54|03|52|N|21|03|04|E|region:PL_type:city_source:kolossus-plwiki|display=title}}
+
+{{DEFAULTSORT:Niski Mlyn}}
+[[Category:Villages in Bartoszyce County]]
+
+{{Bartoszyce-geo-stub}}

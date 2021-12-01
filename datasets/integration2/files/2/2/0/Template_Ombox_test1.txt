@@ -1,0 +1,280 @@
+{{#ifeq:{{{small|}}}|yes
+| {{ombox/test1/core
+  | small = yes
+  | type  = {{{type|}}}
+  | image = {{#if:{{{smallimage|}}}| {{{smallimage}}} | {{{image|}}} }}
+  | imageright = {{#if:{{{smallimageright|}}} | {{{smallimageright}}} | {{{imageright|}}} }}
+  | style = {{{style|}}}
+  | textstyle = {{{textstyle|}}}
+  | text  = {{#if:{{{smalltext|}}}| {{{smalltext}}} | {{{text}}} }}
+  }}
+| {{ombox/test1/core
+  | type  = {{{type|}}}
+  | image = {{{image|}}}
+  | imageright = {{{imageright|}}} 
+  | style = {{{style|}}}
+  | textstyle = {{{textstyle|}}}
+  | text  = {{{text}}}
+  }}
+}}<noinclude>
+
+
+=== David's sandbox for {{tl|ombox}} ===
+
+Here David Göthberg is testing and showing new code versions. <u>Please do not edit this page.</u> If you want to experiment do so in {{tl|ombox/sandbox}} or create your own subpage under {{tl|ombox}} or in your own user space.
+
+The box above is template code on this page, the boxes below are transclusions of this page and show how that code renders when the box is stacked. If you anyway have updated the code above then you have to {{purge|purge this page}} to see the effect on the examples below.
+
+The code in this test template works together with {{tl|ombox/test1/core}}.
+
+{{ombox/test1
+| type = speedy
+| text = speedy
+}}
+{{ombox/test1
+| type = delete
+| text = delete
+}}
+[[Image:Canis lupus laying.jpg|thumb|60px]]
+{{ombox/test1
+| type = content
+| text = content, lots of text lots of text lots of text lots of text lots of text lots of text lots of text lots of text lots of text 
+| imageright = [[Image:Nuvola apps bookcase.svg|40x40px]]
+}}
+{{ombox/test1
+| type = style
+| text = style, lots of text lots of text lots of text lots of text lots of text lots of text lots of text lots of text lots of text 
+| imageright = [[Image:Nuvola apps bookcase.svg|40x40px]]
+}}
+{{ombox/test1
+| type = notice
+| text = notice, lots of text lots of text lots of text lots of text lots of text lots of text lots of text lots of text lots of text 
+| imageright = [[Image:Nuvola apps bookcase.svg|80px]]
+}}
+{{ombox/test1
+| type = move
+| text = move
+}}
+{{shortcut|WP:TEST}}
+{{ombox/test1
+| type = protection
+| text = protection
+}}
+
+Some text just to test bottom margin.
+
+=== Special ===
+
+Some other parameter combinations.
+
+{{ombox/test1
+| text  = No type and no image given ('''default''')
+}}
+
+{{ombox/test1
+| image = none
+| text  = No type and '''image=none''' – No image is used and the '''text''' uses the whole message box area.
+}}
+
+{{ombox/test1
+| image = 
+| text  = image =
+}}
+
+{{ombox/test1
+| image = [[Image:Nuvola apps bookcase.svg|100px]]
+| text  = Trying large left side image. - lots of text lots of text lots of text lots of text lots of text lots of text lots of text lots of text lots of text
+}}
+
+{{ombox/test1
+| image = [[Image:Nuvola apps bookcase.svg|100px]]
+| text  = Trying large left and right side image. - lots of text lots of text lots of text lots of text lots of text lots of text lots of text lots of text lots of text
+| imageright = [[Image:Nuvola apps bookcase.svg|100px]]
+}}
+
+=== Parameters ===
+
+List of all parameters: 
+
+<pre>
+{{ombox/test1
+| type  = speedy / delete / content / style / notice / move / protection
+| image = none / [[Image:Some image.svg|40px]]
+| imageright = [[Image:Some image.svg|40px]]
+| style = CSS value
+| textstyle = CSS value
+| text  = The message body text. 
+}}
+</pre>
+
+=== Examples of varying width ===
+
+{{ombox/test1
+| type       = notice
+| image      = [[Image:Blue check.svg|30px]]
+| text       = 
+'''This page documents an English Wikipedia [[Wikipedia:Policies and guidelines|guideline]].''' It is a generally accepted standard that editors should follow, though it should be treated with [[Wikipedia:Use common sense|common sense]] and the [[Wikipedia:Ignore all rules|occasional exception]]. When editing this page, please ensure that your revision reflects [[Wikipedia:Consensus|consensus]]. When in doubt, discuss on the [[{{TALKPAGENAME}}|talk page]].
+}}
+
+{{ombox/test1
+| type       = notice
+| image      = [[Image:Purple question mark.svg|50px]]
+| text       = 
+'''The following is a ''proposed'' Wikipedia {{{type|[[Wikipedia:Policies and guidelines|policy, guideline]], or process}}}.''' <br> The proposal may still be in development, under [[{{NAMESPACE}} talk:{{PAGENAME}}|discussion]], or in the process of gathering [[Wikipedia:Consensus|consensus]] for adoption. Thus references or links to this page should not describe it as "policy".
+}}
+
+{{ombox/test1
+| type       = notice
+| image      = [[Image:Purple question mark.svg|70px]]
+| imageright = {{shortcut|WP:SHORT}}
+| text       = 
+'''The following is a ''proposed'' Wikipedia {{{type|[[Wikipedia:Policies and guidelines|policy, guideline]], or process}}}.'''
+}}
+
+{{ombox/test1
+| type       = notice
+| image      = [[Image:Crystal package settings.png|40px]]
+| imageright = {{shortcut|WP:SHORT}}
+| text       = 
+This page is a '''how-to guide''' detailing a practice or process on the English Wikipedia.
+}}
+
+=== Small message boxes ===
+
+{{ombox/test1
+| type       = notice
+| small      = yes
+| text       = 
+type = notice, small = yes, no image set.
+}}
+{{ombox/test1
+| type       = notice
+| small      = yes
+| image      = [[Image:Imbox notice.png|40x40px]]
+| text       = 
+type = notice, small = yes, image = <nowiki>[[Image:Imbox notice.png|40x40px]]</nowiki>
+}}
+{{ombox/test1
+| type       = notice
+| small      = yes
+| image      = [[Image:Imbox notice.png|30x30px]]
+| imageright = [[Image:Nuvola apps bookcase.png|30x30px]]
+| text       = 
+type = notice, small = yes, image = <nowiki>[[Image:Imbox notice.png|30x30px]], imageright = [[Image:Nuvola apps bookcase.png|30x30px]]</nowiki>
+}}
+{{ombox/test1
+| type       = notice
+| small      = yes
+| image      = [[Image:Information icon4.svg|30x30px]]
+| imageright = [[Image:Nuvola apps bookcase.png|30x30px]]
+| text       = 
+type = notice, small = yes, image = <nowiki>[[Image:Information icon4.svg|30x30px]], imageright = [[Image:Nuvola apps bookcase.png|30x30px]]</nowiki>
+}}
+{{ombox/test1
+| type       = style
+| small      = yes
+| text       = 
+type = style, small = yes, no image set.
+}}
+{{ombox/test1
+| type       = style
+| small      = yes
+| image      = [[Image:Imbox style.png|40x40px]]
+| text       = 
+type = style, small = yes, image = <nowiki>[[Image:Imbox style.png|40x40px]]</nowiki>
+}}
+{{ombox/test1
+| type       = style
+| small      = yes
+| image      = [[Image:Broom icon.svg|30x30px]]
+| text       = 
+type = style, small = yes, image = <nowiki>[[Image:Broom icon.svg|30x30px]]</nowiki>
+}}
+{{ombox/test1
+| type       = notice
+| small      = yes
+| image      = none
+| text       = 
+type = notice, small = yes, image = none
+}}
+
+The small talkpage message boxes to the right use different images. Some use the 40px png images with optimised background, which makes their background look right even in some older web browsers. When those png images get rescaled to 30px they loose their optimised background and get somewhat blurred. For comparison some of the boxes to the right use the svg versions instead which doesn't get as blurred when scaled to 30px. If we decide to use 30px images for the small boxes then we perhaps should make a set of 30px png images with optimised background or perhaps use the svg images. But the blurring is really only noticeable in low screen resolutions so most users will never see a difference, and the old browsers that need the optimised background are not used much anymore, so we can probably use the rescaled png images as is for the small boxes. Since that means the simplest code for the template.
+
+Some text to test box flow:
+
+{{lorem ipsum|3}}
+
+{{clear}}
+
+=== Testing box flow ===
+
+{{ombox/test1
+| type       = notice
+| text       = 
+Box 1: type = notice, no small set, no image set.
+}}
+{{ombox/test1
+| type       = notice
+| small      = yes
+| text       = 
+Box 2: type = notice, small = yes, no image set.
+}}
+{{ombox/test1
+| type       = style
+| small      = yes
+| text       = 
+Box 3: type = style, small = yes, no image set.
+}}
+{{ombox/test1
+| type       = notice
+| text       = 
+Box 4: type = notice, no small set, no image set.
+}}
+
+{{lorem ipsum|2}}
+
+=== Testing smallimage, smallimageright and smalltext ===
+
+{{ombox/test1
+| text       = Long text.
+| small      = yes
+| smalltext  =
+Smalltext: no image set, small = yes, smalltext set.
+}}
+{{ombox/test1
+| image      = [[Image:Nuvola apps bookcase.png|40px]]
+| text       = image = <nowiki>[[Image:Nuvola apps bookcase.png|40px]]</nowiki>
+| small      = yes
+}}
+{{ombox/test1
+| image      = none
+| text       = image = none, smallimage = <nowiki>[[Image:Nuvola apps bookcase.png|30px]]</nowiki>
+| small      = yes
+| smallimage  = [[Image:Nuvola apps bookcase.png|30px]]
+}}
+{{ombox/test1
+| text       = smallimage = <nowiki>[[Image:Nuvola apps bookcase.png|30px]]</nowiki>
+| small      = yes
+| smallimage  = [[Image:Nuvola apps bookcase.png|30px]]
+}}
+{{ombox/test1
+| text       = smallimage = none
+| small      = yes
+| smallimage  = none
+}}
+{{ombox/test1
+| imageright      = none
+| text       = imageright = none, smallimageright = <nowiki>[[Image:Nuvola apps bookcase.png|30px]]</nowiki>
+| small      = yes
+| smallimageright  = [[Image:Nuvola apps bookcase.png|30px]]
+}}
+{{ombox/test1
+| imageright      = [[Image:Nuvola apps bookcase.png|40px]]
+| text       = imageright = <nowiki>[[Image:Nuvola apps bookcase.png|40px]]</nowiki>, smallimageright = none
+| small      = yes
+| smallimageright  = none
+}}
+
+{{lorem ipsum|3}}
+
+</noinclude>

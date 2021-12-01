@@ -1,0 +1,38 @@
+{{short description|1933 mystery novel book by John Dickson Carr}}
+{{infobox book | <!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books -->
+| name          = Hag's Nook
+| title_orig    = 
+| translator    = 
+| image         = Image:HagsNook.jpg
+| caption       = First US edition
+| author        = [[John Dickson Carr]]
+| cover_artist  = 
+| country       = United Kingdom
+| language      = English
+| series        = [[Gideon Fell]]
+| genre         = [[Mystery fiction|Mystery]], [[Detective fiction|Detective novel]]
+| publisher     = [[Hamish Hamilton]] (UK) & [[Harper (publisher)|Harper]] (USA)
+| release_date  = 1933
+| media_type    = Print (hardback & paperback)
+| pages         = 222  ([[Dell Books|Dell]] [[mapback]] #537, paperback edition, 1951)
+| isbn          = 
+| preceded_by   = 
+| followed_by   = [[The Mad Hatter Mystery]] 
+}}
+
+'''''Hag's Nook''''', first published in 1933, is a detective story by American writer [[John Dickson Carr]] and the first to feature his series detective [[Gideon Fell]].  It is a [[mystery novel]] of the [[whodunnit]] type.
+
+==Plot summary==
+
+Tad Rampole is a young American traveling in England who, in a chance encounter on a railway platform, meets and falls in love with Dorothy Starberth.  Rampole has a letter of introduction to Dr. Gideon Fell and both soon become involved in the affairs of the Starberth family.  The family has a long history as having been the governors of Chatterham Prison and, in connection with that post, there is also a tradition that the "Starberths die of broken necks".  Chatterham is now abandoned and inhabited only by rats, but the eldest son and heir to the Starberth family must spend the evening of his 25th birthday there, as directed by an ancestral will.  The night after Rampole meets Dorothy Starberth, her brother is found with a broken neck, below the balcony of the room where he was to spend the night.  Dr. Fell must sort out ancient superstition from modern-day malice to ensure that the responsible criminal does not go unpunished.
+<br>
+{{John Dickson Carr}}
+
+{{DEFAULTSORT:Hags Nook}}
+[[Category:1933 American novels]]
+[[Category:Novels by John Dickson Carr]]
+[[Category:Hamish Hamilton books]]
+[[Category:Harper & Brothers books]]
+
+
+{{1930s-mystery-novel-stub}}

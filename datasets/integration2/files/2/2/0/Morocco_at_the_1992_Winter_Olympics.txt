@@ -1,0 +1,269 @@
+{{infobox country at games
+| NOC = MAR
+| NOCname = [[Moroccan Olympic Committee]]<br> {{lang-ar|اللجنة الأولمبية الوطنية المغربية|links=no}}
+| games = Winter Olympics
+| year = 1992
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.cnom.org.ma }}&nbsp;{{in lang|fr}}
+| location = [[Albertville]]
+| competitors = 12
+| sports = 2
+| flagbearer = 
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+'''[[Morocco]]''' competed at the '''[[1992 Winter Olympics]]''' in [[Albertville]], [[France]].
+
+==Alpine skiing==
+{{Main|Alpine skiing at the 1992 Winter Olympics}}
+<ref name=OfficialReport>{{cite web
+| title = Albertville 1992 Official Report
+| url = http://www.la84foundation.org/6oic/OfficialReports/1992/orw1992.pdf
+| publisher = LA84 Foundation
+| work = Le Comite d'Organisation des Jeux Olympiques Albertville
+| year = 1992
+| accessdate = October 15, 2013}}</ref>
+
+;Men:
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Run 1 (DH)
+!colspan="2"|Run 2 (Sl)
+!colspan="2"|Run 3 (Sl)
+!colspan="3"|Final/Total
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Diff
+!Rank
+|-align="center"
+|align="left" rowspan=3|[[Brahim Ait Sibrahim]]
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's Super-G|Super-G]]
+|colspan=6 {{n/a}}
+|1:38.60
+| +25.56
+|89
+|-align="center"
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's giant slalom|Giant slalom]]
+|1:26.81
+|93
+|1:27.41
+|78
+|colspan=2 {{n/a}}
+|2:54.22
+| +47.24
+|78
+|-align="center"
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's slalom|Slalom]]
+|1:15.13
+|67
+|1:14.87
+|54
+|colspan=2 {{n/a}}
+|2:30.00
+| +45.61
+|52
+|-align="center"
+|align="left"|[[Brahim Id Abdellah]]
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's Super-G|Super-G]]
+|colspan=6 {{n/a}}
+|1:49.65
+| +36.61
+|92
+|-align="center"
+|align="left" rowspan=2|[[Brahim Izdag]]
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's Super-G|Super-G]]
+|colspan=6 {{n/a}}
+|2:08.31
+| +55.27
+|93
+|-align="center"
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's slalom|Slalom]]
+|colspan=4|Did not finish
+|colspan=2 {{n/a}}
+|colspan=3|Did not finish
+|-align="center"
+|align="left" rowspan=3|[[El-Hassan Mahta]]
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's Super-G|Super-G]]
+|colspan=6 {{n/a}}
+|1:41.06
+| +28.02
+|91
+|-align="center"
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's giant slalom|Giant slalom]]
+|colspan=4|Disqualified
+|colspan=2 {{n/a}}
+|colspan=3|Disqualified
+|-align="center"
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's slalom|Slalom]]
+|1:29.74
+|74
+|1:27.72
+|60
+|colspan=2 {{n/a}}
+|2:57.46
+| +73.07
+|60
+|-align="center"
+|align="left" |[[Noureddine Bouchaal]]
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's giant slalom|Giant slalom]]
+|1:38.40
+|106
+|1:43.90
+|85
+|colspan=2 {{n/a}}
+|3:22.30
+| +75.32
+|86
+|-align="center"
+|align="left" |[[Mustapha Naitlhou]]
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's giant slalom|Giant slalom]]
+|1:38.11
+|105
+|1:39.21
+|84
+|colspan=2 {{n/a}}
+|3:17.32
+| +70.34
+|84
+|-align="center"
+|align="left" |[[Hicham Diddou]]
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Men's slalom|Slalom]]
+|1:25.01
+|71
+|colspan=2|Did not advance
+|colspan=2 {{n/a}}
+|colspan=3|Did not advance
+|}
+
+;Women:
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Run 1 (DH)
+!colspan="2"|Run 2 (Sl)
+!colspan="2"|Run 3 (Sl)
+!colspan="3"|Final/Total
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Diff
+!Rank
+|-align="center"
+|align="left" rowspan=3|[[Nawal Slaoui]]
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Women's Super-G|Super-G]]
+|colspan=6 {{n/a}}
+|colspan=3|Disqualified
+|-align="center"
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Women's giant slalom|Giant slalom]]
+|colspan=4|Did not finish
+|colspan=2 {{n/a}}
+|colspan=3|Did not finish
+|-align="center"
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Women's slalom|Slalom]]
+|1:08.85
+|45
+|1:08.22
+|41
+|colspan=2 {{n/a}}
+|2:17.07
+| +44.39
+|41
+|-align="center"
+|align="left" rowspan=2|[[Ghalia Sebti]]
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Women's giant slalom|Giant slalom]]
+|1:31.53
+|52
+|1:36.13
+|43
+|colspan=2 {{n/a}}
+|3:07.66
+| +54.92
+|43
+|-align="center"
+|align="left" |[[Alpine skiing at the 1992 Winter Olympics – Women's slalom|Slalom]]
+|colspan=4|Did not finish
+|colspan=2 {{n/a}}
+|colspan=3|Did not finish
+|}
+
+==Cross-country skiing==
+{{Main|Cross-country skiing at the 1992 Winter Olympics}}
+
+<ref name=OfficialReport />
+
+;Men
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Race
+|-
+!Time
+!Rank
+|-align="center"
+|align="left" rowspan=2|[[Faissal Cherradi]]
+|align="left"|[[Cross-country skiing at the 1992 Winter Olympics – Men's 10 kilometre classical|10 km classical]]
+|1:11:07.4
+|110
+|-align="center"
+|align="left"|[[Cross-country skiing at the 1992 Winter Olympics – Men's 15 kilometre freestyle pursuit|15 km freestyle pursuit]]
+|2:27:37.8
+|99
+|-align="center"
+|align="left" rowspan=2|[[Mohamed Oubahim]]
+|align="left"|[[Cross-country skiing at the 1992 Winter Olympics – Men's 10 kilometre classical|10 km classical]]
+|47:32.6
+|108
+|-align="center"
+|align="left"|[[Cross-country skiing at the 1992 Winter Olympics – Men's 15 kilometre freestyle pursuit|15 km freestyle pursuit]]
+|2:03:08.2
+|98
+|-align="center"
+|align="left" rowspan=2|[[Mustapha Tourki]]
+|align="left"|[[Cross-country skiing at the 1992 Winter Olympics – Men's 10 kilometre classical|10 km classical]]
+|46:15.1
+|107
+|-align="center"
+|align="left"|[[Cross-country skiing at the 1992 Winter Olympics – Men's 15 kilometre freestyle pursuit|15 km freestyle pursuit]]
+|1:49:09.1
+|96
+|}
+
+==References==
+{{reflist}}
+*[https://web.archive.org/web/20070612020125/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+
+{{Nations at the 1992 Winter Olympics}}
+
+[[Category:Nations at the 1992 Winter Olympics]]
+[[Category:Morocco at the Winter Olympics by year|1992 Winter Olympics]]
+[[Category:1992 in Moroccan sport|Winter Olympics]]
+
+
+{{Morocco-sport-stub}}
+{{1992-winter-Olympic-stub}}

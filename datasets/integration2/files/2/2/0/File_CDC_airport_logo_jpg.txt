@@ -1,0 +1,19 @@
+== Summary ==
+{{Non-free use rationale| Article = Cedar City Regional Airport
+| Description = Logo for airport located in Cedar City, Utah, United States (FAA ID: CDC).
+| Source = http://www.cedarcityairport.com/
+| Portion = full logo
+| Low_resolution = yes
+| Purpose = For fair use in the above-mentioned article:
+# This image is a low-resolution image of the [[logo]] of an organization.
+# This image does not limit the copyright holder's ability to profit from the original source, nor will it dilute the importance or recognition of the logo in connection with its organization.
+# This image enhances the article in which it's displayed, as it provides an immediate relevance to the reader more capably than the textual description alone.
+# Use of the logo visually identifies the organization and its products in a manner that mere prose cannot, and meets all criteria in [[WP:NFCC]].
+| Replaceability = Not replaceable; logos are always presumed non-free per [[WP:LOGO]].
+}}
+
+== Licensing ==
+{{Non-free logo|image has rationale=yes}}
+
+[[Category:Logos of airports in the United States]]
+[[Category:Airports in Utah]]

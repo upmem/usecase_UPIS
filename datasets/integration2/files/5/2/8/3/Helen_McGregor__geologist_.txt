@@ -1,0 +1,107 @@
+{{short description|Australian scientist}}
+{{About|the geologist|the writer|Helen McGregor (writer)}}
+{{EngvarB|date=September 2014}}
+{{Use dmy dates|date=September 2014}}
+{{BLP sources|date=August 2014}}
+
+{{Infobox scientist
+| name        = Helen McGregor
+| native_name = 
+| native_name_lang = 
+| image       =  Dr. Helen McGregor.jpg
+| imagesize   = 
+| alt         = 
+| caption     = 
+| birth_date  =  1974
+| birth_place = 
+| death_date  =  <!--{{death date and age |df=yes|YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence   = 
+| citizenship = 
+| nationality = Australian
+| fields      = Paeleoclimate, Geochemistry, Geology
+| workplaces  = Australian National University
+| patrons     =
+| alma_mater  = Australian National University
+| thesis_title = <!--(or  | thesis1_title = and  | thesis2_title = )-->
+| thesis_url  =  <!--(or  | thesis1_url  =  and  | thesis2_url  = )-->
+| thesis_year =  <!--(or  | thesis1_year =  and  | thesis2_year = )-->
+| doctoral_advisor = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for   = Ocean and climate change research
+| influences  = 
+| influenced  = 
+| awards      = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse      =  <!--(or | spouses = )-->
+| partner     =  <!--(or | partners = )-->
+| children    = 
+| signature   =  <!--(filename only)-->
+| signature_alt = 
+| website     = 
+| footnotes   = 
+}}
+
+'''Helen McGregor''' is an Australian geologist and climate change researcher. She is currently a Fellow with the Research School of Earth Sciences at the [[Australian National University]]. Her areas of expertise include [[isotope geochemistry]], [[palaeoclimatology]], [[Climate change (general concept)|climate change]] processes, [[marine geology]] and [[Quaternary]] environments.<ref>{{cite web|title=Dr Helen McGregor|url=http://rses.anu.edu.au/people/helen-mcgregor#acton-tabs-link--tabs-0-middle-1|website=Research School of Earth Sciences – Australian National University|accessdate=14 August 2014}}</ref><ref>{{cite web|title=Dr Helen V. McGregor|url=https://researchers.anu.edu.au/researchers/mcgregor-hv|website=Researchers – The Australian National University|accessdate=14 August 2014|archive-url=https://web.archive.org/web/20140816010013/https://researchers.anu.edu.au/researchers/mcgregor-hv|archive-date=16 August 2014|url-status=dead}}</ref>
+
+==Early life==
+
+McGregor was born in 1974. She is the oldest of four children.{{citation needed|date=August 2014}}
+
+==Education==
+McGregor completed secondary school in 1992 and from there was awarded a scholarship to study geology at [[James Cook University]], and graduated with a 1st class BSc(Hons) in 1995. After working as a geologist in the mining industry she decided to return to university and complete a PhD. As she explained to The Sun Herald in 2012 "I could see my career path as a geologist in mining mapped out... Going into research and doing a PhD appealed as it was more of a challenge and I wasn't sure where it would take me"<ref name="TSH">{{cite news
+| author = Tanya Ryan-Segger
+| title = Teaching Leads to a Range of Roles
+| quote = "I could see my career path as a geologist in mining mapped out... Going into research and doing a PhD appealed as it was more of a challenge and I wasn't sure where it would take me"
+| newspaper = The Sun Herald
+| date = 29 January 2012
+| pages = 4–5
+| url =
+| accessdate =
+}}</ref>
+She completed her PhD through the Research School of Earth Sciences at the Australian National University in 2004.
+
+==Research==
+McGregor's research focuses on [[paleoclimate]], using fossilised [[coral]] to provide information on the [[El Nino Southern Oscillation]] (ENSO) system. Her research on ENSO and its impacts on climate have contributed to understanding how [[climate change]] will impact Australia and the world.<ref>{{cite web|last1=McGregor|first1=Helen|title=Ancient Corals Reveal the Changeable Moods of El-Nino Southern Oscillation|url=http://www.uow.edu.au/content/groups/public/@web/@raid/documents/doc/uow090626.pdf|website=[[University of Wollongong]]|accessdate=14 August 2014}}</ref>
+
+A major highlight of McGregor's work is on climatically‐driven [[coastal upwelling]] zones.<ref>{{cite journal|last1=McGregor|first1=Helen|last2=Dima|first2=M|last3=Fischer|first3=HW|last4=Mulitza|first4=S|title=Rapid 20th-century increase in coastal upwelling off northwest Africa.|journal=Science|date=2007|volume=315|pages=637–639|doi=10.1126/science.1134839|pmid=17272719}}</ref> Though representing less than one percent of the global ocean by area, coastal upwelling zones have extremely high biological productivity, and provide ~20% of the world's fisheries. Yet, despite their significance, there is intense debate as to whether these delicate regions are, or will be, influenced by global warming. McGregor's key finding was an unambiguous and rapid increase in upwelling intensity during the 20th century, unprecedented over the last 2500 years. Her discovery suggests that upwelling will continue to intensify with warming in the future, with major consequences for the ecosystems and fisheries dependent on coastal upwelling processes. This research attracted substantial media interest, both in Australia and overseas, and McGregor was invited to write a 'Science Highlight' on this study for PAGES News (2007).
+
+McGregor has published over 50 research articles, including 26 papers in top-tier journals published in the last five years<ref group="Note">H-index = 12 Google Scholar</ref> and two book chapters.<ref>{{cite web|title=Helen V McGregor|url=https://scholar.google.com/citations?user=dkNbzmAAAAAJ&hl=en&oi=ao|website=Google Scholar|accessdate=14 August 2014}}</ref>
+
+==Science communication==
+
+McGregor is concerned with science communication and has shared the results of her research with a number of media outlets including The ABC,<ref>{{cite web|title=Global Warming puts Fish Stocks at Risk|url=http://www.abc.net.au/science/news/stories/2007/1838718.htm|website=ABC Science Online|publisher=Australian Broadcasting Corporation|accessdate=14 August 2014}}</ref> The Sydney Morning Herald,<ref>{{cite news|last1=Smith|first1=Deborah|title=Sea rises faster than gloomiest predictions|work=The Sydney Morning Herald|date=2 February 2007}}</ref> The Sun Herald,<ref name="TSH"/> The Yass Tribune<ref>{{cite news|title=Global warming real, auxiliaries told|work=The Yass Tribune|date=1 June 2007}}</ref> and The Illawarra Mercury. Her work has also been featured in international publications such as the Alaska Report,<ref>{{cite news|title=Cool water surges from global warming could affect fish stocks|url=http://www.climateark.org/shared/reader/welcome.aspx?linkid=68325|accessdate=14 August 2014|work=Alaska Report|publisher=Reuters}}</ref> The Dallas Morning News<ref>{{cite news|last1=Bloomberg News|title=Sea levels rising more quickly than forecast|work=The Dallas Morning News|date=1 February 2007}}</ref> and Weser Kurier.<ref>{{cite news|last1=Wendler|first1=Jurgen|title=Warmere Luft, kalteres Wasser|work=Weser Kurier|date=2 February 2007}}</ref>
+
+McGregor is especially interested in engendering understanding of [[climate change]] amongst the general public. In her opinion piece ''Climate Change is Real, Believe Me''<ref name=Real/> she says "Human-induced climate change is insidious. It is not an acute, headline-grabbing event but the consequences of climate change will have far greater and far reaching impacts. The science provides the clear evidence that human-induced climate change is occurring – the real uncertainty lies in our collective ability to do something about it."<ref name=Real>{{cite web|title=Climate Change is Real, Believe Me|url=http://media.uow.edu.au/opinions/UOW082468.html|website=University of Wollongong Opinion Pieces|accessdate=14 August 2014}}</ref>
+
+==Awards and recognition==
+
+In 2014, McGregor was awarded a Future Fellowship grant through the [[Australian Research Council]] to continue her work on understanding [[El Nino]] and [[La Nina]] patterns and their influence on Australian climate, with a view to better managing things like Australia's water security.<ref>{{cite web|title=Examples of Future Fellowships projects commencing in 2014|url=http://www.arc.gov.au/media/FT14/FT-%20examples%20-%20ACT.docx|website=Australian Research Council|accessdate=14 August 2014|archive-url=https://web.archive.org/web/20140814062353/http://www.arc.gov.au/media/FT14/FT-%20examples%20-%20ACT.docx|archive-date=14 August 2014|url-status=dead}}</ref>
+
+==Notes==
+{{reflist |group="Note"}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://rses.anu.edu.au/people/helen-mcgregor#acton-tabs-link--tabs-0-middle-1 ANU Profile]
+*{{google scholar id|dkNbzmAAAAAJ}}
+*[https://web.archive.org/web/20140816010013/https://researchers.anu.edu.au/researchers/mcgregor-hv Climate Change is Real, Believe Me]
+*[https://web.archive.org/web/20140814062353/http://www.arc.gov.au/media/FT14/FT-%20examples%20-%20ACT.docx Future Fellowships ACT]
+
+{{authority control}}
+
+{{DEFAULTSORT:McGregor, Helen}}
+[[Category:Australian geologists]]
+[[Category:Australian women scientists]]
+[[Category:Australian National University alumni]]
+[[Category:Living people]]
+[[Category:1974 births]]

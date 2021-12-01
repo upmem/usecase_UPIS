@@ -1,0 +1,128 @@
+{{pp-vandalism|small=yes}}
+{{Use dmy dates|date=September 2019}}
+{{Infobox school
+| name         = Carnoustie High School
+| image        = Carnoustie High School Badge.jpg
+| image_size         = 200px
+| coordinates  = {{coord|56.504942|-2.726177|type:edu_region:GB_dim:100|format=dec|display=inline,title}}
+| motto        = ''Deed Shaws Pruif''<br />"Deed shows proof"
+| established  = 1878
+| closed       =
+| type         = [[Comprehensive school|Comprehensive]] non-selective state school
+| religious_affiliation     =
+| president    =
+| head_label   = Headteacher
+| head         = Mr D A Currie
+| r_head_label =
+| r_head       =
+| chair_label  = 
+| chair        = 
+| chaplain =
+| founder      = 
+| specialist   =
+| address       = Shanwell Road
+| city         = [[Carnoustie]]
+| county       = [[Angus, Scotland|Angus]]
+| country      = [[Scotland]]
+| postcode     = DD7 7SS
+| local_authority          = Angus Council
+| ofsted       =
+| staff        = 123
+| enrolment   = 770 (Approx)
+| gender       = Co-educational
+| lower_age    = 11
+| upper_age    = 18
+| houses       = Dalhousie, Ravensby, Panbride
+| colours      = Red and grey
+{{color box|#CC0022}} {{color box|#9C9C9C}}
+| publication  =
+| free_label_1 = 
+| free_1       = 
+| free_label_2 =
+| free_2       =
+| free_label_3 =
+| free_3       =
+| website      = http://www.carnoustiehigh.angus.sch.uk/
+}}
+'''Carnoustie High School''' is a comprehensive secondary school in [[Carnoustie]], [[Angus, Scotland|Angus]], Scotland. Situated to the north of the town, the school serves Carnoustie and surrounding villages, including Barry, Monikie, Newbigging, Craigton, Muirdrum, Panbride and Easthaven.
+
+==History==
+===Education in Carnoustie prior to 1878===
+[[Image:Kinloch.jpg|thumb|left|Carnoustie Public School, later Kinloch Primary School, demolished Summer 2010]]
+Carnoustie was founded as a town in 1797. Prior to the passing of the [[History of education in Scotland#Compulsory education|Education (Scotland) Act 1872]], the provision of schools in Scotland was the responsibility of the parish. The [[Education Act 1696|Education Act of 1696]] allowed churches to set up schools, funded mainly by the landowner.
+
+In the mid to late 19th century, each church in the town had its own school. The buildings of these are still in existence today, in the former primary schools of Barry and Panbride, which were at that point the schools of Panbride Parish Church and Barry Free Church, and the Phillip Hall on Dundee Street, which was the school connected with The Erskine Free Church.
+
+These were supplemented with a number of private subscription schools, including a school in Links Avenue, opened in 1831, that now houses the local [[Scouting|Scout Group]]<ref name="OS61858">
+{{Citation 
+ |author=Ordnance Survey 
+ |title=Six inch maps of Scotland, Forfarshire, sheet LI 
+ |url=http://www.nls.uk/maps/os/6inch/forfarshire.html 
+ |year=1858 
+ |publisher=www.nls.uk 
+ |accessdate=3 September 2008 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20090309020656/http://www.nls.uk/maps/os/6inch/forfarshire.html 
+ |archivedate=9 March 2009 
+ }}
+</ref> and a school off Maule Street that is now used as Holyrood Church's Hall. These were both victims of the success of Carnoustie Free Church school and were abandoned. More successful were the school linked to Panmure Works and a private Girls School in Kinloch Street, but these too were made redundant by the 1872 act.<ref name="Dickson">Dickson 1892</ref>
+
+===Carnoustie Public School (1878-1972)===
+Carnoustie Public School was built in 1878 near the Free Church school on Dundee Street.<ref name="Dickson"/> It was extended several times as the town grew and in the late 1960s the school catered for primary and secondary students up to O-grade level (age 16), with those wanting to continue education beyond S4 would travel to Arbroath for school.
+
+The school's secondary students were decanted to the new Carnoustie High School building in Shanwell Road in 1971. The old school was renamed Kinloch Primary School, and continued as a primary school until 2006, when it, along with Barry and Panbride Primary Schools, was closed as part of the reorganisation of schools in the area. The building housed Carlogie Primary School during renovations in 2008-2009, and was finally demolished in 2010 to make way for housing.
+
+===Carnoustie High School (1972-present)===
+[[File:Carnoustie High School 72 08.jpg|right|thumb|Carnoustie High School in 2008, shortly before its demolition.]]A dedicated secondary school was built in 1970-1972 to the north of the town. This was to cope with the increasing population in the town and surrounding area, as well as to offer classes beyond O-grade level. The buildings were opened in 1972 by [[Princess Alexandra, The Honourable Lady Ogilvy|Princess Alexandra]]. These buildings served until 2009 when they were replaced with new teaching blocks built on the former playing fields.
+
+The new build retained the PE block and the theatre of the previous school. Capacity of the present school is 1050, allowing for considerable expansion of its present roll.
+
+==Feeder primary schools==
+Carnoustie High School offers places to pupils of the three primary schools in Carnoustie (Carlogie, Woodlands and Burnside) and pupils from Monikie and Newbigging Primary Schools.<ref>{{citation
+ |url=http://www.angus.gov.uk/services/view_service_detail.cfm?serviceid=1119 
+ |accessdate=August 24, 2013 
+ |title=Primary School Enrolment and Transfer to Secondary 
+ |work=Angus Council 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20130705042242/http://www.angus.gov.uk/services/View_Service_Detail.cfm?serviceid=1119 
+ |archivedate=July 5, 2013 
+}}</ref><ref>{{citation
+ |url=http://www.carnoustiehigh.angus.sch.uk/Documents/School%20Handbook%202012-13.pdf 
+ |title=Carnoustie High School, School Information 
+ |accessdate=August 24, 2013 
+}}{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Notable alumni==
+*Lance Corporal [[Charles Alfred Jarvis|Charles Jarvis]], (1881-1948) 57th Field Company, Royal Engineers. Recipient of Victoria Cross
+*Chief Petty Officer [[George McKenzie Samson|George Samson]], (1889-1923) Royal Navy. Recipient of Victoria Cross
+*[[Stewart Hosie]] (born 1963), [[Member of Parliament]]
+*[[Kirsten Oswald]], Member of Parliament
+*[[Alan Cumming]] (born 1965), actor.<ref>
+{{citation
+ |title       = High school reunion for film star Alan Cumming
+ |url         = http://www.thecourier.co.uk/news/local/angus-the-mearns/high-school-reunion-for-film-star-alan-cumming-1.63817
+ |date        = January 8, 2013
+ |accessdate  = August 27, 2013
+ |work        = The Courier
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20141129021954/http://www.thecourier.co.uk/news/local/angus-the-mearns/high-school-reunion-for-film-star-alan-cumming-1.63817
+ |archivedate = November 29, 2014
+}}</ref>
+*Graeme Black (born 1967), fashion designer (Galliano, Armani, Ferragamo)<ref>{{citation
+  | title = Interview: Graeme Black, fashion designer
+  | url = http://www.scotsman.com/lifestyle/fashion/interview-graeme-black-fashion-designer-1-2542866
+  | date = September 23, 2012
+  | accessdate = August 27, 2013
+  | work = The Scotsman}}</ref>
+*[[Roddy Woomble]] (born 1976), singer
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* {{citation | last1= Dickson | first1= R. | last2 = Dickson | first2 = G.C. | title =Carnoustie and its Neighbourhood | publisher =Pinkfoot Press, Balgavies, Angus | year=1892 }}
+
+[[Category:Secondary schools in Angus]]
+[[Category:1878 establishments in Scotland]]
+[[Category:Educational institutions established in 1878]]
+[[Category:Carnoustie]]

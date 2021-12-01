@@ -1,0 +1,42 @@
+{{Infobox museum
+| name                = FC Porto Museum
+| native_name         = Museu do Futebol Clube do Porto by BMG
+| native_name_lang    = pt
+| image               = File:Futebol Clube do Porto (Estádio do Dragão) (14004148312).jpg
+| imagesize    = 260px
+| alt                 = 
+| map_type            = 
+| map_relief          = 
+| map_size            = 
+| map_caption         = 
+| coordinates         = {{coord|41|9|39|N|8|34|58|W}}
+| established         = {{Start date and age|2013|09|28|df=y}}
+| location            = [[Estádio do Dragão]],<br />[[Porto]], [[Portugal]]
+| type                = Sports (mainly [[association football|football]])
+| visitors            = 
+| publictransit       = [[Porto Metro|Metro]] [[File:PortoMetro.png|12px]] –  Estádio do Dragão (lines [[File:Metro do Porto linha A.svg|12px]], [[File:Metro do Porto linha B.svg|12px]], [[File:Metro do Porto linha E.svg|12px]] and [[File:Metro do Porto linha F.svg|12px]])<br />[[Sociedade de Transportes Colectivos do Porto|Bus]] [[File:stcp logo.png|30px]] – 401 and 806
+| car_park            = On site (free for museum tour pack)
+| website             = {{official website|http://www.museufcporto.pt/index_en.html}}
+}}
+The '''FC Porto Museum''', officially known as '''FC Porto Museum by BMG''' ({{lang-pt|Museu do Futebol Clube do Porto by BMG}}) for sponsorship reasons, is a [[museum]] located in [[Porto]], dedicated to the history of the Portuguese [[association football]] club [[FC Porto]]. It was inaugurated on 28 September 2013, on occasion of the club's 120th anniversary, and opened its doors to the general public on 26 October.<ref>{{cite web|title=Pinto da Costa cumpre promessa e sonho com inauguração do Museu do FC Porto|url=http://www.publico.pt/desporto/noticia/pinto-da-costa-cumpre-promessa-e-sonho-com-inauguracao-do-museu-do-fc-porto-1607431#/0|publisher=[[Público (Portugal)|Público]]|accessdate=26 December 2013|date=28 September 2013|language=Portuguese}}</ref>
+
+Conceived and constructed by Sibina Partners (Barcelona) and MUSE (London),<ref>{{cite web|title=Museo do Porto FC &ndash; Concept |url=http://www.sibina-partners.com/en/ficha/view/26/Museo-do-Porto-FC |publisher=Sibina &ndash; Partners |access-date=26 December 2013 |url-status=dead |archive-url=https://web.archive.org/web/20141128091121/http://www.sibina-partners.com/en/ficha/view/26/Museo-do-Porto-FC |archive-date=28 November 2014 |df= }}</ref><ref name="MUSE">{{cite web|title=FC Porto Museum by BMG|url=http://museintl.co.uk/portfolio_aberto.asp?id=29|publisher=MUSE &ndash; museums & expos|accessdate=26 December 2013}}</ref>  the museum occupies an area of almost {{convert|8000|sqm|sqft}} under the east stand of the [[Estádio do Dragão]]. It contains 27 thematic areas with a strong interactive and technologic component, which showcase the club's historical events, matches, titles, managers and players, not only in football but in other sections, including [[FC Porto (handball)|handball]], [[FC Porto (basketball)|basketball]] and [[FC Porto (roller hockey)|roller hockey]].  The central and dominant space features the club's large collection of domestic football silverware as well as its [[FC Porto in international club football|seven international trophies]].<ref name="MUSE"/><ref>{{cite web|title=Mather & Co collaborates to open FC Porto museum in Portugal|url=http://www.smeclubmanchester.com/mather-co-collaborates-to-open-fc-porto-museum-in-portugal/|work=SME club Manchester|publisher=pro·manchester SME club Limited|accessdate=26 December 2013|date=5 November 2013}}</ref>
+
+The museum also includes an auditorium, a club store, a coffeehouse, and spaces for educational services and temporary exhibitions. The ''Valquíria Dragão'' (Dragon [[Valkyrie]]), an exclusive work by Portuguese artist [[Joana Vasconcelos]], which incorporates club textiles and trophies, welcomes visitors at the museum's entrance.<ref>{{cite web|title=The Museum is the new star at FC Porto|url=http://www.fcporto.pt/en/noticias/Pages/O-Museu-%C3%A9-a-nova-estrela-do-FC-Porto.aspx?p_page=1|publisher=[[FC Porto]]|accessdate=26 December 2013|date=28 September 2013}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{official website|http://www.fcporto.pt/pt/museu/Pages/museu-fc-porto.aspx}}
+
+{{Porto}}
+{{FC Porto|state=collapsed}}
+
+[[Category:FC Porto|Museum]]
+[[Category:Association football museums and halls of fame]]
+[[Category:Sports museums in Portugal]]
+[[Category:Museums in Porto]]
+[[Category:Museums established in 2013]]
+[[Category:2013 establishments in Portugal|Museum]]
+[[Category:Sport in Porto]]

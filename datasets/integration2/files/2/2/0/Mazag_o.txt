@@ -1,0 +1,109 @@
+{{about||Mazagão, the port city on the Atlantic coast of Morocco|El Jadida|the island in Mumbai|Mazagaon}}
+
+{{Infobox settlement
+|name               = Mazagão
+|settlement_type    = Municipality
+|official_name      = Município de Mazagão
+|nickname               =
+|motto                  =
+|image_skyline          =
+|imagesize              = 
+|image_caption          =
+|image_flag             = Bandeira_de_Mazag%C3%A3o.svg
+|image_seal             = BRAZÃO_MAZAGÃO.png
+|image_map              = Amapa Municip Mazagao.svg
+|mapsize                = 250px
+|map_caption            = Mazagão in the state of Amapá
+|subdivision_type  = [[List of sovereign states|Country]]
+|subdivision_type1 = [[Regions of Brazil|Region]]
+|subdivision_type2 = [[States of Brazil|State]]
+|subdivision_name  = {{flagicon|BRA}}  [[Brazil]]
+|subdivision_name1 = [[North Region, Brazil|North]]
+|subdivision_name2 = [[Image:Bandeira do Amapá.svg|border|22px]] [[Amapá]]
+|leader_title           = Mayor
+|leader_name            = João da Silva Costa
+|leader_party           = [[Free Homeland Party (Brazil)|PPL]]
+|leader_title1          =
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|established_title      = 
+|established_date       = November 28, 1890
+|established_title2     =
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|area_magnitude         =
+|area_total_km2         = 
+|area_total_sq_mi       =
+|area_land_km2          = 13,131
+|area_land_sq_mi        =
+|area_water_km2         =
+|area_water_sq_mi       =
+|area_water_percent     =
+|area_urban_km2         =
+|area_urban_sq_mi       =
+|area_metro_km2         =
+|area_metro_sq_mi       =
+|pushpin_map            = Brazil
+|population_as_of       = 
+|population_note        = 
+|population_total       = 17,032
+|population_density_km2 = 
+|population_density_sq_mi =
+|population_metro       =
+|population_footnotes   =
+|population_density_metro_km2 =
+|population_density_metro_sq_mi =
+|population_urban       =
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|00|06|54|S|51|17|20|W|region:BR|display=inline}}
+|elevation_m            = 
+|elevation_ft           =
+|postal_code_type       =
+|postal_code            =
+|timezone           = [[UTC|UTC-3]]
+|utc_offset         = -3
+|blank_name             = 
+|blank_info             = 
+|website         =   
+}}
+'''Mazagão ''' ({{lang-pt|Município de Mazagão|}}, {{IPA-pt|mazɐˈgɐ̃w̃|}}) is a [[municipality]] located in the south of the state of [[Amapá]] in [[Brazil]]. Its population is 17,030 and its area is {{convert|13,131|km2|mi2}}.<ref name="gov"/>
+
+==Name==
+
+The city was named after the Portuguese colony Mazagão in North Africa, now [[El Jadida]], which the Portuguese abandoned in 1769 after some 250 years of occupation. Many of its inhabitants were evacuated to Brazil, where they founded a new settlement ''Nova Mazagão'' ({{coord|0|12|59|S|51|25|55.6|W}}), now known as ''Mazagão Velho''.<ref name="arq"/>
+A total of 340 families arrived in the city of Belém in 1770 and in 1773 went to Nova Mazagão. One of the main theories on the origin of the name of [[Mazagaon]] - one of the original [[Seven Islands of Bombay]] and still a historic neighborhood of [[Mumbai]], [[India]] - derives this name, too, from the Moroccan city, since both were under Portuguese rule in the same time.
+
+==Conservation==
+
+The municipality contains 44% of the {{convert|501771|ha}} [[Rio Cajari Extractive Reserve]], created in 1990.<ref>{{citation|ref={{harvid|RESEX do Rio Cajari – ISA}}|language=pt
+ |title=RESEX do Rio Cajari|publisher=ISA: Instituto Socioambiental
+ |url=https://uc.socioambiental.org/uc/5271|accessdate=2016-11-06}}</ref>
+It contains 19% of the {{convert|806184|ha}} [[Rio Iratapuru Sustainable Development Reserve]], created in 1997.<ref>{{citation|ref={{harvid|RDS do Rio Iratapuru – ISA}}|language=pt
+ |title=RDS do Rio Iratapuru|publisher=ISA: Instituto Socioambiental
+ |url=https://uc.socioambiental.org/uc/5379|accessdate=2016-11-05}}</ref>
+It contains part of the [[Jari Ecological Station]].<ref>{{citation |url=http://legis.senado.gov.br/legislacao/ListaNormas.action?numero=89440&tipo_norma=DEC&data=19840313&link=s |last=Figueiredo|first=João|title=DECRETO Nº 89.440, DE 13 DE MARÇO DE 1984|date=13 March 1984|language=Portuguese |website=[[Brazilian Federal Senate]]|publisher=Brazilian Government|access-date=10 March 2016}}</ref>
+It also contains 8.56% of the {{convert|2369400|ha}} [[Amapá State Forest]], a sustainable use conservation unit established in 2006.<ref>{{citation|ref={{harvid|FES do Amapá – ISA}}|language=Portuguese
+ |title=FES do Amapá|publisher=ISA: Instituto Socioambiental
+ |url=https://uc.socioambiental.org/uc/430|accessdate=2016-07-06}}</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name="arq">{{cite web |url=http://www.brasilarqueologico.com.br/arq_mazagaovelho.php |title=Arqueologia de Mazagâo Velho |work=Site of the Department of Archaeology of the Federal University of Pernambuco, Brazil. |accessdate=2013-02-20 |url-status=dead |archiveurl=https://web.archive.org/web/20140118115228/http://www.brasilarqueologico.com.br/arq_mazagaovelho.php |archivedate=2014-01-18 }} (in Portuguese; the coordinates are under the image of the map of Brazil on the page; to see them pass your cursor over the image)</ref>
+
+<ref name="gov">{{cite web | url = http://www.ap.gov.br/amapa/site/paginas/municipios/mazagao.jsp | title = Mazagão | year = 2011 | publisher = Governo do Estado do Amapá | location = Macapá, Amapá, Brazil | accessdate = 2014-06-07 | language = Portuguese | url-status = dead | archiveurl = https://web.archive.org/web/20140827233922/http://www.ap.gov.br/amapa/site/paginas/municipios/mazagao.jsp | archivedate = 2014-08-27 }}</ref>
+
+}}
+
+{{Municipalities of Amapá}}
+
+{{DEFAULTSORT:Mazagao}}
+[[Category:Municipalities in Amapá]]
+[[Category:Populated places established in 1773]]
+
+{{AmapáBR-geo-stub}}

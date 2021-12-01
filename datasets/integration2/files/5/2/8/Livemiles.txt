@@ -1,0 +1,58 @@
+{{Infobox album
+| name       = Livemiles
+| type       = live
+| artist     = [[Tangerine Dream]]
+| cover      = Livemiles.png
+| alt        =
+| caption    = 1988 [[LP album]] cover
+| released   = April 1988
+| recorded   = August 1, 1987<br />June 8, 1986
+| venue      =
+| studio     =
+| genre      = [[Electronic music]]
+| length     = 57:05
+| label      = [[Jive Electro]] / [[Caroline Records|Caroline]]
+| producer   = [[Edgar Froese]], [[Christopher Franke|Chris Franke]], [[Paul Haslinger]]
+| prev_title = [[Shy_People#Soundtrack|Shy People]]
+| prev_year  = 1988
+| next_title = [[Optical Race]]
+| next_year  = 1988
+| misc       = {{Extra album cover
+ | header  = Alternative cover
+ | type    = live
+ | cover   = Live Miles - Tangerine Dream.jpg
+ | border  =
+ | alt     =
+ | caption = 1996 CD cover
+}}
+}}
+{{Album ratings
+|rev1 = [[Allmusic]]
+|rev1score = {{Rating|3|5}}<ref>{{allmusic |last=Batdorf |first=Rodney |title=Live Miles&nbsp;— Tangerine Dream |date=2014 |class=album |id=r108698}}</ref>
+
+}}
+'''''Livemiles''''' (later known as ''Live Miles'') is the thirty-fourth major release and sixth live album by [[Tangerine Dream]]. It is the last album with Chris Franke. The first half of the album purports to be a recording of the June 8, 1986 concert in [[Albuquerque, New Mexico]], USA. The second half of the album is a remixed version of part of the August 1, 1987 concert in [[West Berlin]], Germany.<ref>{{cite vitn |title=Livemiles |url=livemiles}}</ref>
+
+==Track listing==
+{{track listing
+|title1=Livemiles Part One (The Albuquerque Concert) |length1=29:52
+|title2=Livemiles Part Two (The West-Berlin Concert) |length2=27:13
+}}
+
+==Personnel==
+* [[Edgar Froese]]
+* [[Christopher Franke|Chris Franke]]
+* [[Paul Haslinger]]
+
+==Sources==
+From its release, the venue and recording history behind Livemiles have been questioned. Careful analysis of the complete audience recording from the Albuquerque concert (including the soundchecks) reveals that none of the "Albuquerque Concert" on Livemiles originates from this show. Further, careful listening to other concert recordings from the 1986 American tour suggest that this material was likely recorded after the 1986 tour. Some of this material did feature in concerts played in 1988 after the departure of artist Chris Franke.
+
+==References==
+{{reflist}}
+
+{{Tangerine Dream main albums discography}}
+{{Tangerine Dream}}
+
+[[Category:1988 live albums]]
+[[Category:Tangerine Dream live albums]]
+[[Category:Caroline Records live albums]]

@@ -1,0 +1,70 @@
+{{Infobox film
+| name = All People Will Be Brothers
+| image =File:All People Will Be Brothers.jpg
+| caption = 
+| director = [[Alfred Vohrer]]
+| producer =  {{ubl|[[Erwin Gitt]]|[[Luggi Waldleitner]]}}
+| writer =  {{ubl|[[Manfred Purzer]]|[[Johannes Mario Simmel]] (novel)}}
+| narrator =
+| starring = {{ubl|[[Harald Leipnitz]]|[[Doris Kunstmann]]|[[Rainer von Artenfels]]}}
+| music = [[Erich Ferstl]] 
+| cinematography = [[Charly Steinberger]] 
+| editing =  [[Ingeborg Taschner]]    
+| studio = [[Roxy Film]]  
+| distributor = [[Constantin Film]]
+| released = 15 March 1973    
+| runtime = 109 minutes
+| country = West Germany 
+| language = [[German language|German]] 
+| budget =
+| gross =
+| preceded_by =
+| followed_by =
+| website =
+}}
+'''''All People Will Be Brothers''''' ({{lang-de|'''Alle Menschen werden Brüder'''}}) is a 1973 West German [[drama film]] directed by [[Alfred Vohrer]] and starring [[Harald Leipnitz]], [[Doris Kunstmann]] and [[Rainer von Artenfels]].<ref>Bock & Bergfelder p.504</ref>
+
+==Cast==
+* [[Harald Leipnitz]] as Werner Mark
+* [[Doris Kunstmann]] as Lillian
+* [[Rainer von Artenfels]] as Richard Mark
+* [[Klaus Schwarzkopf]] as Boris Minski
+* [[Herbert Fleischmann]] as Kommissar Eilers
+* [[Konrad Georg]] as Paradin
+* [[Elisabeth Volkmann]] as Vanessa
+* [[Christiane Maybach]] as Die Rote
+* [[Ingrid van Bergen]] as Nachtclub-Sängerin
+* [[Alf Marholm]] as Delacorte
+* [[Manfred Seipold]] as Kriminalbeamter Olsen
+* [[Heinz Baumann (actor)|Heinz Baumann]] as William Carpenter
+* [[Alfred Balthoff]] as Mendel
+* [[Michel Jacot]] as Ted
+* [[Alexander Golling]] as Bauer
+* [[Edith Schultze-Westrum]] as Frau Schermoly
+* [[Hilde Brand]] as Frau Schermolys Assistantin
+* [[Ingeborg Lapsien]] as Rachel Minski
+* [[Herta Worell]] as Mrs. Buttermark
+* [[Achim Hammer]] as Dr. Hess
+* [[Eduard Linkers]] as Mann mit Bart
+* [[Hermann Lenschau]] as Professor Mohn
+* [[Roberto Blanco]] as Tiny
+
+== References ==
+{{reflist}}
+
+== Bibliography ==
+* Bock, Hans-Michael & Bergfelder, Tim. ''The Concise CineGraph. Encyclopedia of German Cinema''. Berghahn Books, 2009.
+
+== External links ==
+* {{IMDb title|0068195}}
+
+[[Category:1973 films]]
+[[Category:1973 drama films]]
+[[Category:German drama films]]
+[[Category:West German films]]
+[[Category:German-language films]]
+[[Category:Films directed by Alfred Vohrer]]
+[[Category:Constantin Film films]]
+[[Category:Films about brothers]]
+[[Category:Films based on Austrian novels]]
+{{1970s-Germany-film-stub}}

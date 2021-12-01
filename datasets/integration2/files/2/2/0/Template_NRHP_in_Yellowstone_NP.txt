@@ -1,0 +1,47 @@
+{{Navbox
+| name  = NRHP in Yellowstone NP
+| title = [[National Register of Historic Places]] in [[Yellowstone National Park]]
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+
+| group1 = [[National Historic Landmark]]s
+| list1  = 
+* [[Norris, Madison, and Fishing Bridge Museums]]
+* [[Obsidian Cliff]]
+* [[Old Faithful Inn]] 
+
+| group2 = [[National Historic Landmark|National Historic<br/>Landmark District]]
+| list2  = 
+* [[Fort Yellowstone]]
+* [[Norris, Madison, and Fishing Bridge Museums]] 
+
+| group3 = [[Historic districts in the United States|Other historic districts]]
+| list3  = 
+* [[Grand Loop Road Historic District]]
+* [[Lake Fish Hatchery Historic District]]
+* [[Lamar Buffalo Ranch]]
+* [[North Entrance Road Historic District]]
+* [[Old Faithful Historic District]]
+* [[Beartooth Highway|Red Lodge-Cooke City Approach Road Historic District]]
+* [[Roosevelt Lodge Historic District]]
+
+| group4 = [[National Register of Historic Places property types|Other<br/>properties]]
+| list4  = 
+* [[Fishing Bridge Museum]]
+* [[Lake Hotel]]
+* [[Madison Museum]]
+* [[Mammoth Hot Springs Historic District]]
+* [[Norris Geyser Basin Museum|Norris Museum/Norris Comfort Station]]
+* [[Obsidian Cliff Kiosk]]
+* [[Queen's Laundry Bath House]]
+* [[U.S. Post Office (Yellowstone National Park)|US Post Office-Yellowstone Main]]
+
+| below = '''See also:''' [[National Register of Historic Places listings in Yellowstone National Park]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Wyoming National Register of Historic Places templates|Yellowstone]]
+[[Category:Yellowstone National Park templates]]
+[[Category:National Register of Historic Places in Yellowstone National Park|¤]]
+[[Category:National Park Service National Register of Historic Places templates]]
+</noinclude>

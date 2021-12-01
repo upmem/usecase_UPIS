@@ -1,0 +1,42 @@
+{{About|the 1962 novel|the unrelated 1974 French film|Les Démoniaques}}
+{{infobox book | <!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books -->
+| name          = The Demoniacs
+| title_orig    = 
+| translator    = 
+| image         = File:TheDemoniacs.jpg
+| caption       = First edition (US)
+| author        = [[John Dickson Carr]]
+| cover_artist  = 
+| country       = United Kingdom
+| language      = English
+| series        = 
+| genre         = [[Mystery fiction|Mystery]], [[Detective fiction|Detective novel]], [[Historical fiction|Historical novel]]
+| publisher     = [[Hamish Hamilton]] (UK) & [[Harper (publisher)|Harper]] (USA)
+| release_date  = [[1962 in literature|1962]]
+| media_type    = Print ([[Hardcover|Hardback]] & [[Paperback]])
+| pages         = 238 pp (1st US)
+| isbn          = 
+| preceded_by   = 
+| followed_by   = 
+}}
+
+'''''The Demoniacs''''', first published in 1962, is a detective story/historical novel by [[John Dickson Carr]] set in the London of 1757.  This [[novel]] is a [[mystery novel|mystery]] of the type known as a [[whodunnit]] as well as being a [[historical novel]].
+
+==Plot summary==
+
+Handsome young Jeffrey Wynne has just rescued pretty young Peg Ralston from a "fate worse than death"; she thought she was going to attend a French acting school, but soon learns that it is the "school for the French King's private brothel".  Wynne was hired by Peg's father Sir Mortimer Ralston to retrieve her, possibly without the knowledge of Sir Mortimer's mistress, Lavinia Cresswell (and her brother, dangerous swordsman Hamnet Tawnish), who would like nothing better than to see Peg put in [[Bethlem Royal Hospital|Bedlam]].  Wynne's ordinary job is somewhat similar; he is a thief-taker under the direction of Sir [[John Fielding]], a real-life personage who was in charge of the [[Bow Street Runners]] despite his blindness.  Wynne and young Miss Ralston soon become involved in the mysterious murder of an ancient bawd who lives on London Bridge; the old woman seems to have no mark of violence upon her body, but what might be a fortune in jewels is missing.  The investigation of the crime leads Wynne through the heights and depths of society, including a [[bagnio]] in [[Covent Garden]] and a drinking bout with [[Laurence Sterne]], until he perceives the well-hidden truth and solves the crime.
+
+{{John Dickson Carr}}
+
+{{DEFAULTSORT:Demoniacs, The}}
+
+[[Category:1962 American novels]]
+[[Category:Novels by John Dickson Carr]]
+[[Category:Historical mystery novels]]
+[[Category:Fiction set in 1757]]
+[[Category:Novels set in the 1750s]]
+[[Category:Novels set in London]]
+[[Category:Hamish Hamilton books]]
+
+
+{{1960s-mystery-novel-stub}}

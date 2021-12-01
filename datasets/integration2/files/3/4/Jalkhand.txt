@@ -1,0 +1,29 @@
+{{Infobox settlement
+| name                    = Jalkhand
+| image_skyline           = File:Jalkhand,Near Naran Valley,KPK,Pakistan.jpg
+| image_caption           = Jalkhand, [[Kaghan Valley]]
+| pushpin_map_caption     = Location in Pakistan
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[Pakistan]]
+| subdivision_type1       = [[Provinces of Pakistan|Province]]
+| subdivision_name1       = [[Khyber Pakhtunkhwa]]
+| subdivision_type2       = [[List of districts of Pakistan|District]]
+| subdivision_name2       = [[Mansehra District]]
+}}
+'''Jalkhand''' is a [[town]] situated in the [[Mansehra district]] of [[Hazara, Pakistan|Hazara]], [[Pakistan]]. The town sits {{convert|3140|m}} above sea level. Jalkand is about {{convert|40|km}} away from [[Naran (town)|Naran]].<ref>{{cite web |title=Jalkhand on map |url=https://www.google.com/maps/dir/Naran,+Mansehra,+Khyber+Pakhtunkhwa/Jalkhand,+Mansehra,+Khyber+Pakhtunkhwa |website=[[Google Maps]] |accessdate=13 September 2019}}</ref> It is a beautiful place for tourists.<ref>https://www.brecorder.com/2017/07/05/357296/tourism-needs-urgent-coordination/</ref><ref>{{cite web|url=https://tribune.com.pk/story/1128133/hadiqa-kianis-trip-kaghan-valley-will-make-pack-bags-right-now/|title=Hadiqa Kiani's trip to Kaghan Valley will make you pack your bags right now - The Express Tribune|date=24 June 2016|publisher=}}</ref> [[Pyala Lake]] (a round lake in [[Kaghan Valley]]) is also situated in Jalkhand.<ref>{{cite web |title=Pyala Lake - Jalkhand |url=https://socioeconomicpakistan.blogspot.com/2013/04/pyala-lake-jalkhad-naran.html |website=Socioeconomicpakistan.blogspot.com |accessdate=16 June 2018}}</ref>
+
+== See also ==
+*[[Pyala Lake]]
+*[[Kaghan Valley]]
+*[[Lalazar]]
+{{commons category|Jalkhand}}
+
+== References ==
+{{Reflist}}
+
+{{coord missing|Khyber Pakhtunkhwa}}
+
+[[Category:Populated places in Mansehra District]]
+
+
+{{Mansehra-geo-stub}}

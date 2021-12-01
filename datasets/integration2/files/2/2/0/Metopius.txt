@@ -1,0 +1,19 @@
+'''Metopius''' was a churchman in [[Galicia (Spain)|Galicia]], [[Spain]], in the 7th century. He served as [[bishop]] of [[Britonia]], and represented his see at the [[Fourth Council of Toledo]] in 633. The diocese of Britonia had been established for the [[Celtic Britons]] who had settled in the region ''en masse''{{citation needed|date=July 2014}} during the previous century, and Metopius' attendance of the Council of Toledo demonstrates its survival in the 7th century.
+
+==External links==
+* {{in lang|es}} [http://www.mondonedoferrol.org/ Official web site of the Diocese of Mondoñedo-Ferrol]
+
+{{s-start}}
+{{s-rel|ca}}
+{{succession box | title=[[Britonia|Bishop of Britonia]] | before=[[Mailoc]] | after=[[Sonna of Britonia]] | years= ?-&ndash;633-? }}
+{{s-end}}
+
+
+{{authority control}}
+
+[[Category:7th-century bishops]]
+[[Category:Galician clergy]]
+
+
+{{Galicia-bio-stub}}
+{{Spain-RC-bishop-stub}}

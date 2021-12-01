@@ -1,0 +1,11 @@
+{{Documentation subpage}}
+<!-- Categories and interwikis go at the bottom of this page. -->
+
+== Usage ==
+
+== See also ==
+
+<includeonly>{{Sandbox other||
+<!-- Categories and interwikis go here: -->
+[[Category:sidebar templates]]
+}}</includeonly>

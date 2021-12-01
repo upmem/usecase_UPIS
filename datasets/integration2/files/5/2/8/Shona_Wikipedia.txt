@@ -1,0 +1,7 @@
+#REDIRECT [[List of Wikipedias]]
+
+{{Redirect category shell|
+{{R from related topic}}
+{{R with history}}
+{{Wikidata redirect}}
+}}

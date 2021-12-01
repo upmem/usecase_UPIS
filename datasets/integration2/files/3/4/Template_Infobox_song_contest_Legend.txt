@@ -1,0 +1,1 @@
+<span style="margin:0px; padding-bottom:1px; font-size:90%; display:block;"><span style="border:{{{border|{{{outline|{{{1|transparent}}}}}} solid 1px;}}}; background-color:{{{1|none}}}; {{#if:{{{text|}}}|{{#if:{{{textcolor|}}}|color:{{{textcolor}}}|}}|color:{{{1|none}}}}}">&nbsp;&nbsp;{{{text|}}}&nbsp;&nbsp;</span>&nbsp;{{{2|}}}</span>

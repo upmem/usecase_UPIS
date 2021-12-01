@@ -1,0 +1,44 @@
+{{No footnotes|date=May 2009}}
+{{Infobox Military Conflict
+|conflict=Raid on Short Hills
+|image=
+|caption= 
+|partof=the [[Upper Canada Rebellion]]
+|date=June 21, 1838 - June 23, 1838
+|place=Pelham Township, Thorold Township
+|result= Rebel Victory 
+|combatant1=[[Hunters' Lodges]]
+|combatant2={{flagicon|UK}} [[Upper Canada]]
+|commander1=Samuel Chandler<br>Daniel McLeod<br>James Morreau
+|commander2=Robert Bailey <br>[[Allan MacNab]]
+|strength1=48 Hunter Patriots
+|strength2=13 Queen's Lancers<br>4 Canadian Militia regiments
+|casualties1=31 captured, 2 wounded  
+|casualties2=13 Lancers were captured but later released<br>1 lancer wounded
+|}}
+{{Campaignbox Upper Canada Rebellion}}
+
+The '''Raid on Short Hills''' (June 21&ndash;23, 1838) was an incursion and attack by the [[Hunter Patriots]] on the [[Niagara Peninsula]] during the [[Upper Canada Rebellion]]. 
+
+On June 11, 1838, James Morreau led a rebel raiding party of 26 Hunter Patriots across the Niagara River into Upper Canada. Morreau was aided by Samuel Chandler, a wagon maker from the village of St Johns in Thorold Township, Upper Canada.  The party soon reached Pelham Township where they camped in the woods. Their intention was to get the locals to rise up in rebellion. 
+
+The night of June 21/22 the Patriots, in three groups, attacked a detachment of Queen's Lancers lodged at John Osterhout's tavern in St Johns. After a brief fire fight, the raiders attempted to set fire to the building - persuading the Lancers to surrender.  Realizing the threat of imminent capture, the Patriots then fled westward towards Hamilton. 
+
+At dawn, the Lincoln Cavalry, militia volunteers, Queen's Lancers, and Natives from the Grand River were deployed to hunt down the Patriots. In short order, 31 Patriots were captured, bringing an end to the invasion. The leaders were gaoled at Niagara, and the rest at Drummondville (Niagara Falls, Ontario).  Among the Patriots arrested were Chandler and Morreau. Chandler was later tried and sentenced to banishment to Tasmania for life, while Morreau was executed on July 30 in Niagara.  
+
+James Morreau's grave is in the Catholic cemetery at present day Niagara-on-the-Lake, Ontario.
+The scene of the action at St Johns is, at present, unmarked.   
+
+==External links==
+*[https://web.archive.org/web/20000304125606/http://www.edunetconnect.com/cat/rebellions/1837f04.html Chronology of Events of the 1837 rebellions] 
+*[http://www.uppercanadahistory.ca/tt/tt8.html The Short Hills Affair]
+
+{{coord|43.10|N|79.29|W|display=title}}
+
+[[Category:1838 in Canada]]
+[[Category:Conflicts in 1838]]
+[[Category:Upper Canada Rebellion]]
+[[Category:Conflicts in Canada]]
+[[Category:Battles involving Canada]]
+[[Category:June 1838 events]]
+[[Category:Military raids]]

@@ -1,0 +1,21 @@
+{{Documentation subpage}}
+<!-- Categories go where indicated at the bottom of this page, please; interwikis go to Wikidata (see also: [[Wikipedia:Wikidata]]). -->
+{{Politics of the United Kingdom|constitution}}
+
+{{Collapsible sections option
+|list = {{hlist |constitution |crown |executive |legislature |judiciary | central bank |devolution |admin |elections |crown dependences |overseas territories |foreign |all}}
+|example = constitution
+}}
+{{-}}
+
+=== See also ===
+{{Politics of Europe templates}}
+
+<includeonly>{{Sandbox other||
+<!-- Categories go below this line, please; interwikis go to Wikidata, thank you! -->
+[[Category:United Kingdom politics sidebar templates| ]]
+[[Category:Politics by country sidebar templates|United Kingdom]]
+[[Category:Sidebar templates by topic]]
+[[Category:Exclude in print]]
+
+}}</includeonly>

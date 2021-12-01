@@ -1,0 +1,94 @@
+{{Infobox album
+| name       = Prosperous and Qualified
+| type       = studio
+| artist     = [[Universal Congress Of]]
+| cover      = Universal Congress Of - Prosperous and Qualified.jpg
+| alt        =
+| released   = {{Start date|1988}}
+| recorded   = {{Start date|1987|11}}
+| venue      =
+| studio     = Lyceum Sound Recorders<br /> {{small|([[Santa Monica, California|Santa Monica]], CA)}}
+| genre      = [[Free jazz]], [[noise rock]]
+| length     = 39:58
+| label      = [[SST Records|SST]] (180)
+| producer   = Vitus Mataré, Universal Congress Of
+| prev_title = [[Joe Baiza & The Universal Congress Of]]
+| prev_year  = 1987
+| next_title = [[This Is Mecolodics]]
+| next_year  = 1988
+}}
+{{Album ratings
+|rev1 = [[Allmusic]]
+|rev1score = {{rating|4|5}}<ref name="allmusic">{{cite web |first=Richard |last=Foss |url={{Allmusic|class=album|id=mw0000196143|pure_url=yes}}|title=Universal Congress Of: ''Prosperous & Qualified'' > Review |publisher=Allmusic |date= |accessdate=October 9, 2012}}</ref>
+}}
+
+'''''Prosperous and Qualified''''' is the second [[studio album]] by [[free jazz]] ensemble [[Universal Congress Of]], released in 1988 through [[SST Records|SST]].<ref name="trouserpress">{{cite web |first1=Ira |last1=Robbins |first2=David |last2=Sprague |url=http://trouserpress.com/entry.php?a=joe_baiza_and_the_universal_congress_of |title=Universal Congress Of |work=[[Trouser Press]] |year=2007 |accessdate=April 10, 2016}}</ref>
+
+== Track listing ==
+{{tracklist
+| all_writing     = [[Universal Congress Of]], except "Hightime" by James Blood Ulmer and "Mellow Down Easy" by Willie Dixon
+| title1          = Dancing on Plato's Tomb
+| length1         = 4:28
+| title2          = Spreadin' the Malice
+| length2         = 3:27
+| title3          = Hightime
+| length3         = 5:45
+| title4          = Stovetop
+| length4         = 3:39
+| title5          = Mellow Down Easy
+| length5         = 3:35
+| title6          = Igor's Blues
+| length6         = 4:58
+| title7          = Love Camp
+| length7         = 4:18
+| title8          = Stepback
+| length8         = 4:05
+| title9          = L.L. Kook
+| length9         = 5:42
+}}
+
+== Personnel ==
+Adapted from the ''Prosperous and Qualified'' liner notes.<ref name="linearnotes">{{cite AV media notes |title=Prosperous and Qualified |others=[[Universal Congress Of]] |year=1988 |type=booklet |publisher=[[SST Records]] |location=Lawndale, California}}</ref>
+{{Col-begin}}
+{{Col-2}}
+;Universal Congress Of
+*[[Joe Baiza]]&nbsp;– [[guitar]], [[Singing|vocals]]
+*Jacob Cohn&nbsp;– [[alto saxophone]]
+*Ralph Gorodetsky&nbsp;– [[bass guitar]]
+*Jason Kahn&nbsp;– [[Drum kit|drums]]
+*Lynn Johnston&nbsp;– [[tenor saxophone]], [[clarinet]], bass guitar, [[baritone saxophone]]
+*[[Steve Moss (musician)|Steve Moss]]&nbsp;– tenor saxophone, vocals
+{{Col-2}}
+;Production and additional personnel
+*Martin Lyon&nbsp;– [[photography]]
+*Vitus Mataré&nbsp;– [[record producer|production]], [[Audio engineering|engineering]]
+*[[Universal Congress Of]]&nbsp;– production
+{{End}}
+
+==Release history==
+{|class="wikitable"
+! Region
+! Date
+! Label
+! Format
+! Catalog
+|-
+| [[United States]]
+| 1988
+| [[SST Records|SST]]
+| [[compact disc|CD]], [[Compact Cassette|CS]], [[vinyl record|LP]]
+| SST 180
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Discogs master |master=326147 |name=Prosperous and Qualified |type=album}}
+
+{{Universal Congress Of}}
+
+{{DEFAULTSORT:Prosperous and Qualified}}
+[[Category:1988 albums]]
+[[Category:SST Records albums]]
+[[Category:Universal Congress Of albums]]

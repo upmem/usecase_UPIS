@@ -1,0 +1,3 @@
+[http://avibase.bsc-eoc.org/species.jsp?lang=EN&avibaseid={{{1|{{{id|{{#property:P2026|[[Category:Avibase template with no id set]]}}}}}}}} {{#if:{{{2|}}}|''{{{2}}}''|{{PAGENAMEBASE}}}}] on [http://avibase.bsc-eoc.org Avibase]<noinclude>
+{{documentation}}
+</noinclude>

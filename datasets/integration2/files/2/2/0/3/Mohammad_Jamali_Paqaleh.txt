@@ -1,0 +1,65 @@
+{{Use dmy dates|date=November 2013}}
+{{Infobox military person
+| honorific_prefix  =
+| name              = Mohammad Jamali-Paqaleh
+| honorific_suffix  =
+| native_name       = محمد جمالی پاقلعه
+| native_name_lang  = fa
+| image         =
+| image_size    =
+| alt           =
+| caption       =
+| birth_date    = 1963
+| death_date    = {{death year and age|2013|1963}}
+| birth_place   = [[Pa Qaleh, Shahr-e Babak|Paqaleh]], [[Kerman Province|Kerman]], [[Iran]]
+| death_place   = [[Damascus]], [[Syria]]
+| placeofburial = Kerman, Iran
+| placeofburial_label =
+| placeofburial_coordinates = <!-- {{Coord|LAT|LONG|display=inline,title}} -->
+| nickname      =
+| birth_name    =
+| allegiance    = [[Iran]]
+| branch        = [[Islamic Revolutionary Guard Corps|IRGC]]
+| serviceyears  =
+| rank          = [[Brigadier general]]
+| servicenumber =
+| unit          = [[41st Sarallah Division of Kerman]]<br />[[Quds Force]]
+| commands      =
+| battles       = [[Iran–Iraq War]]<br />[[Syrian Civil War]]{{KIA}}
+| battles_label =
+| awards        =
+| relations     =
+| laterwork     =
+| signature     =
+| website       =
+}}
+
+[[Brigadier general]] '''Mohammad Jamali-Paqaleh''' ({{lang-fa|محمد جمالی پاقلعه}}) (1963–2013) was an [[Iran]]ian commander in the [[Islamic Revolutionary Guard Corps|Revolutionary Guards]] who died in [[Syrian Civil War]].<ref name="voa" />
+
+== Biography ==
+Jamali-Paqaleh was born in 1963 in Paqaleh in [[Shahr-e Babak County]], [[Kerman Province]]. When he was two years old, his father died. He completed primary school in the village and then migrated to [[Rafsanjan]] to continue his education.<ref name="bpsb">{{cite web |url=http://bpsb.ir/?q=node/9768 |title=Biography of Sardar Mohammad Jamali |accessdate=25 April 2016}}</ref>
+
+== Iran–Iraq War ==
+Jamali-Paqaleh was a [[veteran]] of the [[Iran–Iraq War]]<ref name="voa">{{cite news |url=http://ir.voanews.com/content/iran-sepah-commander-syria-reuters/1783028.html |title=Iranian Revolutionary Guards commander was killed in Syria. |publisher=VOA |date=4 November 2013 |accessdate=25 April 2016}}</ref><ref name="PBBC">{{cite news |url=http://www.bbc.com/persian/iran/2013/11/131104_l12_sepah_syria_iran_murder |title=One of the commanders of the Iranian Revolutionary Guards were killed in Syria |publisher=BBC Persian |date=4 November 2013 |accessdate=26 April 2016}}</ref> and was a member of the Sarallah division, the same division outfitted that had trained by General [[Qassem Soleimani]].<ref name="ahram">{{cite web|author= |url=http://english.ahram.org.eg/NewsContent/2/8/85647/World/Region/Iran-Guards-commander-killed-in-Syria-Reports.aspx |title=Iran Guards commander killed in Syria: Reports |work=Al-Ahram |date=4 November 2013 |accessdate=5 November 2013}}</ref> He had participated in several operations such as [[Operation Tariq al-Qods]], [[Operation Fath ol-Mobin|Fath ol-Mobin]], [[Operation Beit ol-Moqaddas|Beit ol-Moqaddas]], [[Operation Ramadan|Ramadan]], [[Operation Dawn 8|Dawn 8]], and [[Siege of Basra|Karbala-5,4,1]].<ref name="bpsb" />
+
+== Syrian Civil War ==
+The Iranian news outlet [[Mehr News Agency]] reported that Jamali voluntary went to Syria to protect the [[Sayyidah Zaynab Mosque]] and another holy shrine against [[Bashar al-Assad|Assad]]-opposing forces in the [[Syrian Civil War]].<ref name=bbc>{{cite web|author= |url=https://www.bbc.co.uk/news/world-middle-east-24818043 |title=Iran buries Guards commander 'killed in Syria' |publisher=BBC News |date=5 November 2013 |accessdate=5 November 2013}}</ref><ref name="PBBC" /><ref name="voa" />
+
+Jamali-Paqaleh was reported to have been killed by Syrian rebels either in the final days of October or early November 2013.<ref name="voa" /> He was buried on 5 November in [[Kerman]] with full military honors.<ref name=bbc /><ref>{{cite news |url=http://www.radiofarda.com/content/news/25157658.html |title=One of the Sepah's commander, were killed in Syria. |publisher=Radio Farda |date=4 November 2013 |accessdate=26 April 2016}}</ref>
+
+== See also ==
+* [[Hossein Hamadani]]
+* [[Mohsen Ghitaslou]]
+* [[Ali Reza Tavassoli]]
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Jamali-Paqaleh, Mohammad}}
+[[Category:1963 births]]
+[[Category:2013 deaths]]
+[[Category:People from Kerman Province]]
+[[Category:Military personnel killed in the Syrian Civil War]]
+[[Category:Islamic Revolutionary Guard Corps personnel of the Syrian Civil War]]
+[[Category:Islamic Revolutionary Guard Corps brigadier generals]]
+[[Category:Quds Force personnel]]

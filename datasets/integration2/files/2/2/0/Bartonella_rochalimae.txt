@@ -1,0 +1,53 @@
+{{Speciesbox
+| image = 
+| image_alt = 
+| image_caption = 
+| genus = Bartonella
+| species = rochalimae
+| authority = [[Eremeeva]] ''et al.'', 2007
+| synonyms = 
+| synonyms_ref = 
+}}
+
+'''''Bartonella rochalimae''''' is a recently discovered strain of [[Gram-negative]] [[bacteria]] in the genus ''[[Bartonella]]'', isolated by researchers at the [[University of California, San Francisco]] (UCSF), [[Massachusetts General Hospital]], and the [[United States]] [[Centers for Disease Control and Prevention]].<ref name="UCSF">{{cite news|url=http://pub.ucsf.edu/newsservices/releases/200706061/|title=New bacterium discovered — related to cause of trench fever|accessdate=2007-06-07|date=2007-06-06|last=Ravven|first=Wallace|publisher=[[University of California, San Francisco]]|url-status=dead|archiveurl=https://web.archive.org/web/20070607071359/http://pub.ucsf.edu/newsservices/releases/200706061/|archivedate=2007-06-07}}</ref> The bacterium is a close relative of ''[[Bartonella quintana]]'', the [[microorganism|microbe]] which caused [[trench fever]] in thousands of soldiers during [[World War I]].<ref name="Yahoo">{{cite news
+ |url=https://news.yahoo.com/s/afp/20070607/sc_afp/ushealthbacteria 
+ |title=US scientists discover new, potentially deadly bacteria 
+ |accessdate=2007-06-07 
+ |date=2007-06-07 
+ |publisher=[[Agence France-Presse]] 
+ |archiveurl=https://web.archive.org/web/20070609134314/http://news.yahoo.com/s/afp/20070607/sc_afp/ushealthbacteria 
+ |archivedate=2007-06-09 
+ |url-status=dead 
+}}</ref> Named after [[Brazil]]ian scientist [[Henrique da Rocha Lima]],<ref name="MP">{{cite news
+|url=http://www.medpagetoday.com/InfectiousDisease/GeneralInfectiousDisease/tb/5886|title=Mystery Fever Leads to New Pathogen From Peru |accessdate=2007-06-07|date=2007-06-07|last=Smith|first=Michael|publisher=MedPage Today}}</ref> ''B. rochalimae'' is also closely related to ''[[Bartonella henselae]]'', a bacterium identified in the mid-1990s during the [[AIDS epidemic]] in [[San Francisco]] as the cause of [[cat scratch fever]], which still infects more than 24,000 people in the United States each year.<ref name="SFGate">{{cite news
+|url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/07/BAGUFQA9R716.DTL|title=Peru trekker's mystery bug is new to science|accessdate=2007-06-07|date=2007-06-07|last=Russell|first=Sabin|newspaper=[[San Francisco Chronicle]]}}</ref>
+
+Scientists discovered the bacterium in a 43-year-old American woman who had traveled to [[Peru]] for three weeks.<ref name=Eremeeva_2007>{{cite journal |author=Eremeeva ME |title=Bacteremia, fever, and splenomegaly caused by a newly recognized bartonella species |journal=N. Engl. J. Med. |volume=356 |issue=23 |pages=2381–2387 |date=Jun 2007 |pmid=17554119 |doi=10.1056/NEJMoa065987 |url= |name-list-format=vanc|author2=Gerns HL |author3=Lydy SL |display-authors=3 |last4=Goo |first4=Jeanna S. |last5=Ryan |first5=Edward T. |last6=Mathew |first6=Smitha S. |last7=Ferraro |first7=Mary Jane |last8=Holden |first8=Judith M. |last9=Nicholson |first9=William L.}}</ref><ref name="Yahoo"/> She suffered from possibly life-threatening [[anemia]], an [[splenomegaly|enlarged spleen]], a 102 degree Fahrenheit (39 degree Celsius) fever, and insomnia two weeks after returning to the United States,<ref name=newsmax>{{cite news|title=New, Possibly Deadly Bacteria Discovered |url=http://www.newsmax.com/archives/articles/2007/6/8/101229.shtml?s=he|accessdate=2007-06-08
+|date=2007-06-08|last=Hubbard|first=Sylvia|publisher=NewsMax.com}}</ref>
+symptoms akin to those of [[typhoid fever]] and [[malaria]].<ref name="SFGate"/> The patient's sickness was first attributed to ''[[Bartonella bacilliformis]]'', a known related species with a similar appearance under a microscope that is spread by [[sandfly|sand flies]] and infects 10% of the human population in some regions of Peru with [[Oroya fever]].  Antibiotic treatment based on this diagnosis rapidly cured her infection, but further investigation proved the bacteria were of a formerly unknown species.  It is possible that other cases diagnosed as [[Oroya fever]] result from this species.<ref name="UCSF"/> The findings were published in the ''[[New England Journal of Medicine]]'' on June 7, 2007.<ref name="Eremeeva_2007"/>
+
+In this same year, ''Bartonella rochalimae'' was also isolated from 3 dogs and 22 gray foxes in a rural area of Humboldt County along the Trinity River corridor near the town of Hoopa in northern California, USA. The authors temporarily named
+the new organism as ''Bartonella clarridgeiae''-like since it was closely related to ''B. clarridgeiae'', and no official name was yet suggested. The discovery was performed at the Department of Population Health and Reproduction, School of Veterinary Medicine, University of California, Davis, and it was published in the Journal of Clinical Microbiology in 2007.<ref>{{cite journal|doi=10.1128/JCM.02539-06 |journal=Journal of Clinical Microbiology |date=August 2007 |volume=45 |issue=8 |pages=2411–8 |title=Gray foxes (Urocyon cinereoargenteus) as a potential reservoir of a Bartonella clarridgeiae-like bacterium and domestic dogs as part of a sentinel system for surveillance of zoonotic arthropod-borne pathogens in northern California |vauthors=Henn JB, Gabriel MW, Kasten RW, Brown RN, Theis JH, Foley JE, Chomel BB |pmid=17553970 |pmc=1951249}}</ref>
+
+In March 2009, a report of a dog with endocarditis due to ''Bartonella rochalimae'' was published in the Journal of Clinical Microbiology.<ref name=JCM/> The 9-year-old male, neutered shepherd mix from San Francisco was referred to the University of California, Davis, in January 2000 due to lameness and obtunded mentation. Endocarditis was confirmed by echocardiography, and the dog died in August 2000. Analysis of the damaged aortic valve indicated that the dog was infected with a new ''Bartonella'' species, later  confirmed to be ''Bartonella rochalimae'' by DNA analysis. According to the authors, this was the first time that ''B. rochalimae'' was identified in domestic and wild animals and the first report of ''B. rochalimae'' isolation from mammals in North America.<ref name=JCM>{{cite journal|doi=10.1128/JCM.01351-08 |journal=Journal of Clinical Microbiology |date=March 2009 |volume=47 |issue=3 |pages=787–90 |title=Infective endocarditis in a dog and the phylogenetic relationship of the associated "Bartonella rochalimae" strain with isolates from dogs, gray foxes, and a human |vauthors=Henn JB, Gabriel MW, Kasten RW, Brown RN, Koehler JE, MacDonald KA, Kittleson MD, Thomas WP, Chomel BB |pmid=19109472 |pmc=2650912}}</ref>
+
+In May 2009, ''Bartonella rochalimae'' was also identified by DNA sequencing infecting a sick dog at the Veterinary Teaching Hospital of the Aristotle University of Thessaloniki. The discovery was made at the Vector Borne Diseases and Diagnostic Laboratory of the North Carolina State University, College of Veterinary Medicine, and was published in the Journal of
+Clinical Microbiology.<ref>{{cite journal|doi=10.1128/JCM.00082-09 |journal=Journal of Clinical Microbiology |date=May 2009 |volume=47 |issue=5 |pages=1565–7 |title=Molecular documentation of Bartonella infection in dogs in Greece and Italy |vauthors=Diniz PP, Billeter SA, Otranto D, De Caprariis D, Petanides T, Mylonakis ME, Koutinas AF, Breitschwerdt EB |pmid=19261798 |pmc=2681825}}</ref>
+
+In July 2009, ''Bartonella rochalimae'' was also identified in fleas from cats and dogs from Chile. The organisms was detected by DNA amplification performed at the Special Pathogens Laboratory of the Área de Enfermedades Infecciosas of the Hospital San Pedro, La Rioja, Spain, and it was published in the ''[[Emerging Infectious Diseases (journal)|Emerging Infectious Diseases]]'' journal.<ref>{{cite journal|doi=10.3201/eid1507.081570 |journal=Emerging Infectious Diseases |volume=15 |issue=7 |date=July 2009 |pmid=19624952 |vauthors=Perez-Martinez L, Venzal JM, Gonzalez-Acuna D, Portillo A, Blanco JR, Oteo JA |title=Bartonella rochalimae and other Bartonella spp. in fleas, Chile |pages=1150–2 |pmc=2744255}}</ref>
+
+==References==
+<!-- ---------------------------------------------------------------
+See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for a
+discussion of different citation methods and how to generate
+footnotes using the <ref> & </ref> tags and the {{Reflist}} template
+-------------------------------------------------------------------- -->
+{{Reflist}}
+
+==External links==
+*[http://bacdive.dsmz.de/index.php?search=1645&submit=Search Type strain of ''Bartonella rochalimae'' at Bac''Dive'' -  the Bacterial Diversity Metadatabase]
+
+{{Taxonbar|from=Q309951}}
+
+[[Category:Bartonellaceae]]
+[[Category:Bacteria described in 2007]]

@@ -1,0 +1,410 @@
+{{Use dmy dates|date=March 2018}}
+{{Infobox football match
+| title                   = 1972 UEFA Cup Final
+| image                   = 
+| event                   = [[1971–72 UEFA Cup]]
+| team1                   = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| team1association        = {{flagicon|ENG|size=30px}}
+| team1score              = 2
+| team2                   = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| team2association        = {{flagicon|ENG|size=30px}}
+| team2score              = 3
+| details                 = on aggregate
+| firstleg                = First leg
+| team1score1             = 1
+| team2score1             = 2
+| details1                = 
+| date1                   = 3 May 1972
+| stadium1                = [[Molineux Stadium|Molineux]]
+| city1                   = [[Wolverhampton]]
+| man_of_the_match1a      = 
+| referee1                = [[Tofiq Bahramov]] ([[Football Federation of the Soviet Union|Soviet Union]])
+| attendance1             = 38,362
+| weather1                = 
+| secondleg               = Second leg
+| team1score2             = 1
+| team2score2             = 1
+| details2                = 
+| date2                   = 17 May 1972
+| stadium2                = [[White Hart Lane]]
+| city2                   = [[London]]
+| man_of_the_match2a      = 
+| referee2                = [[Laurens van Ravens]] ([[Royal Dutch Football Association|Netherlands]])
+| attendance2             = 54,303
+| weather2                = 
+| previous                = [[1971 Inter-Cities Fairs Cup Final|1971]] ''(Inter-Cities Fairs Cup)''
+| next                    = [[1973 UEFA Cup Final|1973]]
+}}
+The '''1972 UEFA Cup Final''' was the final of the first-ever [[UEFA Cup]] [[Association football|football]] tournament. It was a two-legged contest played on 3 May and 17 May 1972 between two English clubs, [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] and [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. This was the first-ever UEFA club competition final to feature two teams from the same association.
+
+Tottenham Hotspur won the tie 3&ndash;2 on aggregate. A 2&ndash;1 victory away from home in the first leg proved decisive for them, with Martin Chivers scoring a remarkable late winner, firing in an unstoppable shot from 25 yards. They then held Wolves to a 1&ndash;1 draw in the second leg to win the competition.<ref>{{cite news|title=On this day: Wolves lose the first UEFA Cup final
+|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2016/05/17/on-this-day-wolves-lose-the-first-uefa-cup-final|access-date=22 January 2018|work=Express and Star|date=17 May 2016}}</ref><ref>{{cite web|title=Martin Chivers on Tottenham's 1972 UEFA Cup win|url=http://www.uefa.com/uefaeuropaleague/news/newsid=2280983.html#/|access-date=22 January 2018|publisher=UEFA|date=17 October 2015}}</ref>
+
+==Road to the final==
+{{Details|1971–72 UEFA Cup}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{flagicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+!rowspan=2|Round
+!colspan="4"|{{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{flagicon|POR}} [[Associação Académica de Coimbra – O.A.F.|Académica]]
+|7–1
+|3–0 (H)
+|4–1 (A)
+|style="background:#C1E0FF"|[[1971–72 UEFA Cup#First round|First round]]
+|style="text-align:left"|{{flagicon|ISL}} [[Knattspyrnudeild Keflavík|Keflavík]]
+|15–1
+|6–1 (A)
+|9–0 (H)
+|-
+|style="text-align:left"|{{flagicon|NED}} [[ADO Den Haag]]
+|7–1
+|3–1 (A)
+|4–0 (H)
+|style="background:#C1E0FF"|[[1971–72 UEFA Cup#Second round|Second round]]
+|style="text-align:left"|{{flagicon|FRA|1794}} [[FC Nantes|Nantes]]
+|1–0
+|0–0 (A)
+|1–0 (H)
+|-
+|style="text-align:left"|{{flagicon|GDR}} [[FC Carl Zeiss Jena|Carl Zeiss Jena]]
+|4–0
+|1–0 (A)
+|3–0 (H)
+|style="background:#C1E0FF"|[[1971–72 UEFA Cup#Third round|Third round]]
+|style="text-align:left"|{{flagicon|ROU|1965}} [[FC Rapid București|Rapid București]]
+|5–0
+|3–0 (H)
+|2–0 (A)
+|-
+|style="text-align:left"|{{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|3–2
+|1–1 (A)
+|2–1 (H)
+|style="background:#C1E0FF"|[[1971–72 UEFA Cup#Quarter-finals|Quarter-finals]]
+|style="text-align:left"|{{flagicon|ROU|1965}} [[FC UTA Arad|UTA Arad]]
+|3–1
+|2–0 (A)
+|1–1 (H)
+|-
+|style="text-align:left"|{{flagicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|4–3
+|2–2 (A)
+|2–1 (H)
+|style="background:#C1E0FF"|[[1971–72 UEFA Cup#Semi-finals|Semi-finals]]
+|style="text-align:left"|{{flagicon|ITA}} [[A.C. Milan]]
+|3–2
+|2–1 (H)
+|1–1 (A)
+|}
+
+==Match details==
+===First leg===
+{{football box 
+|date = 3 May 1972
+|time = 19:30 [[Western European Summer Time|BST]]|
+|team1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] {{flagicon|ENG}}
+|score = 1–2
+|report = https://www.uefa.com/uefaeuropaleague/match/64112--wolves-vs-tottenham/
+|team2 = {{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1 = [[Jim McCalliog|McCalliog]] {{goal|72}}
+|goals2 = [[Martin Chivers|Chivers]] {{goal|57||87}} 
+|stadium = [[Molineux Stadium|Molineux]], [[Wolverhampton]]
+|attendance = 38,362
+|referee = [[Tofik Bahramov]] ([[Football Federation of the Soviet Union|Soviet&nbsp;Union]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =
+ | pattern_b  =
+ | pattern_ra =
+ | leftarm    = FF9900
+ | body       = FF9900
+ | rightarm   = FF9900
+ | shorts     = 000000
+ | socks      = FF9900
+ | title      = Wolverhampton Wanderers
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  =
+ | pattern_ra =
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Tottenham Hotspur
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1''' ||{{flagicon|ENG}} [[Phil Parkes (footballer, born 1947)|Phil Parkes]]
+|-
+|DF||'''2''' ||{{flagicon|ENG}} [[Bernard Shaw (footballer, born 1945)|Bernard Shaw]] || {{yel}}
+|-
+|DF||'''3''' ||{{flagicon|ENG}} [[Gerry Taylor]]
+|-
+|MF||'''4''' ||{{flagicon|NIR}} [[Danny Hegan]]
+|-
+|DF||'''5''' ||{{flagicon|SCO}} [[Frank Munro]]
+|-
+|DF||'''6''' ||{{flagicon|ENG}} [[John McAlle]]
+|-
+|MF||'''7''' ||{{flagicon|SCO}} [[Jim McCalliog]]  ([[Captain (association football)|c]])
+|-
+|MF||'''8''' ||{{flagicon|ENG}} [[Kenny Hibbitt]]
+|-
+|FW||'''9''' ||{{flagicon|ENG}} [[John Richards (footballer)|John Richards]]
+|-
+|FW||'''10'''||{{flagicon|NIR}} [[Derek Dougan]]
+|-
+|MF||'''11'''||{{flagicon|ENG}} [[Dave Wagstaffe]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF||'''12'''||{{flagicon|ENG}} [[Derek Parkin]]
+|-
+|GK||'''13'''||{{flagicon|ENG}} [[Rod Arnold]]
+|-
+|FW||'''14'''||{{flagicon|SCO}} [[Hugh Curran]]
+|-
+|MF||'''15'''||{{flagicon|ENG}} [[Steve Daley]]
+|-
+|FW||'''16'''||{{flagicon|ENG}} [[Peter Eastoe]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ENG}} [[Bill McGarry (footballer)|Bill McGarry]] 
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''|| {{flagicon|NIR}} [[Pat Jennings]]
+|-
+|DF||'''2'''|| {{flagicon|IRE}} [[Joe Kinnear]] || {{yel}}
+|-
+|DF||'''3'''|| {{flagicon|ENG}} [[Cyril Knowles]]
+|-
+|MF||'''4'''|| {{flagicon|ENG}} [[Alan Mullery]]  ([[Captain (association football)|c]])
+|-
+|DF||'''5'''|| {{flagicon|WAL}} [[Mike England]]
+|-
+|DF||'''6'''|| {{flagicon|ENG}} [[Phil Beal]]
+|-
+|FW||'''7'''|| {{flagicon|SCO}} [[Alan Gilzean]]
+|-
+|MF||'''8'''|| {{flagicon|ENG}} [[Steve Perryman]]
+|-
+|FW||'''9'''|| {{flagicon|ENG}} [[Martin Chivers]]
+|-
+|MF||'''10'''|| {{flagicon|ENG}} [[Martin Peters]]
+|-
+|MF||'''11'''|| {{flagicon|ENG}} [[Ralph Coates]]  || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF||'''12'''||{{flagicon|ENG}} [[Ray Evans (footballer, born 1949)|Ray Evans]]
+|-
+|GK||'''13'''||{{flagicon|ENG}} [[Barry Daines]]
+|-
+|DF||'''14'''||{{flagicon|ENG}} [[Terry Naylor]]
+|-
+|MF||'''15'''||{{flagicon|ENG}} [[John Pratt (footballer)|John Pratt]] || || {{subon|68}}
+|-
+|MF||'''16'''||{{flagicon|ENG}} [[Jimmy Pearce]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ENG}} [[Bill Nicholson (footballer)|Bill Nicholson]]
+|}
+|}
+
+===Second leg===
+{{football box 
+|date = 17 May 1972
+|time = 19:45 [[Western European Summer Time|BST]]
+|team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]] {{flagicon|ENG}}
+|score = 1–1
+|report = https://www.uefa.com/uefaeuropaleague/match/64113--tottenham-vs-wolves/
+|team2 = {{flagicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|goals1 = [[Alan Mullery|Mullery]] {{goal|29}}
+|goals2 = [[Dave Wagstaffe|Wagstaffe]] {{goal|40}} 
+|stadium = [[White Hart Lane]], [[London]]
+|attendance = 54,303
+|referee = [[Laurens van Ravens]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+
+{| width=92%
+|{{Football kit
+ | pattern_la =
+ | pattern_b  =
+ | pattern_ra =
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Tottenham Hotspur
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  =
+ | pattern_ra =
+ | leftarm    = FF9900
+ | body       = FF9900
+ | rightarm   = FF9900
+ | shorts     = 000000
+ | socks      = FF9900
+ | title      = Wolverhampton Wanderers
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''|| {{flagicon|NIR}} [[Pat Jennings]]
+|-
+|DF||'''2'''|| {{flagicon|IRE}} [[Joe Kinnear]]
+|-
+|DF||'''3'''|| {{flagicon|ENG}} [[Cyril Knowles]]
+|-
+|MF||'''4'''|| {{flagicon|ENG}} [[Alan Mullery]]  ([[Captain (association football)|c]])
+|-
+|DF||'''5'''|| {{flagicon|WAL}} [[Mike England]]
+|-
+|DF||'''6'''|| {{flagicon|ENG}} [[Phil Beal]]
+|-
+|FW||'''7'''|| {{flagicon|SCO}} [[Alan Gilzean]]
+|-
+|MF||'''8'''|| {{flagicon|ENG}} [[Steve Perryman]]
+|-
+|FW||'''9'''|| {{flagicon|ENG}} [[Martin Chivers]]
+|-
+|MF||'''10'''|| {{flagicon|ENG}} [[Martin Peters]]
+|-
+|MF||'''11'''|| {{flagicon|ENG}} [[Ralph Coates]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF||'''12'''|| {{flagicon|ENG}} [[Ray Evans (footballer, born 1949)|Ray Evans]]
+|-
+|GK||'''13'''|| {{flagicon|ENG}} [[Barry Daines]]
+|-
+|DF||'''14'''|| {{flagicon|ENG}} [[Terry Naylor]]
+|-
+|MF||'''15'''|| {{flagicon|ENG}} [[John Pratt (footballer)|John Pratt]]
+|-
+|MF||'''16'''|| {{flagicon|ENG}} [[Jimmy Pearce]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ENG}} [[Bill Nicholson (footballer)|Bill Nicholson]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK||'''1'''|| {{flagicon|ENG}} [[Phil Parkes (footballer, born 1947)|Phil Parkes]]
+|-
+|DF||'''2'''|| {{flagicon|ENG}} [[Bernard Shaw (footballer, born 1945)|Bernard Shaw]]
+|-
+|DF||'''3'''|| {{flagicon|ENG}} [[Gerry Taylor]]
+|-
+|MF||'''4'''|| {{flagicon|NIR}} [[Danny Hegan]]
+|-
+|DF||'''5'''|| {{flagicon|SCO}} [[Frank Munro]]
+|-
+|DF||'''6'''|| {{flagicon|ENG}} [[John McAlle]]
+|-
+|MF||'''7'''|| {{flagicon|SCO}} [[Jim McCalliog]]  ([[Captain (association football)|c]])
+|-
+|MF||'''8'''|| {{flagicon|ENG}} [[Kenny Hibbitt]]  || {{suboff|55}}
+|-
+|FW||'''9'''|| {{flagicon|ENG}} [[John Richards (footballer)|John Richards]]
+|-
+|FW||'''10'''|| {{flagicon|NIR}} [[Derek Dougan]]  || {{suboff|84}}
+|-
+|MF||'''11'''|| {{flagicon|ENG}} [[Dave Wagstaffe]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|DF||'''12'''|| {{flagicon|ENG}} [[Derek Parkin]]
+|-
+|GK||'''13'''|| {{flagicon|ENG}} [[Rod Arnold]]
+|-
+|MF||'''14'''|| {{flagicon|ENG}} [[Mike Bailey (footballer)|Mike Bailey]]  || {{subon|55}}
+|-
+|FW||'''15'''|| {{flagicon|SCO}} [[Hugh Curran]]  || {{subon|84}}
+|-
+|MF||'''16'''|| {{flagicon|ENG}} [[Steve Daley]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ENG}} [[Bill McGarry (footballer)|Bill McGarry]] 
+|- 
+|}
+|}
+
+==See also==
+*[[1921 FA Cup Final]]
+*[[1971–72 UEFA Cup]]
+*[[1972 European Cup Final]]
+*[[1972 European Cup Winners' Cup Final]]
+*[[English football clubs in international competitions]]
+*[[Tottenham Hotspur F.C. in European football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.rsssf.com/ec/ec197778.html#uefa RSSSF]
+
+{{UEFA Europa League seasons}}
+{{1971–72 in European football (UEFA)}}
+{{1971–72 in English football}}
+{{Tottenham Hotspur F.C. matches}}
+{{Wolverhampton Wanderers F.C. matches}}
+
+[[Category:1971–72 in European football|2]]
+[[Category:International club association football competitions hosted by London|1972]]
+[[Category:Wolverhampton Wanderers F.C. matches|UEFA Cup Final 1972]]
+[[Category:Tottenham Hotspur F.C. matches|UEFA Cup Final 1972]]
+[[Category:UEFA Cup Finals|1972]]
+[[Category:1971–72 in English football|UEFA]]
+[[Category:1972 in London]]
+[[Category:May 1972 sports events in the United Kingdom]]
+[[Category:1970s in the West Midlands (county)]]
+
+{{Europe-footy-competition-stub}}

@@ -1,0 +1,180 @@
+The '''ECHL Most Valuable Player''' is an [[ice hockey]] award presented annually by the [[ECHL]] to the player adjudged to be the most valuable to his team. This award was first presented following the inaugural [[1988–89 ECHL season]] to [[Daryl Harpe]] of the [[Erie Panthers]].<ref>{{Cite web |url=http://www.echlhalloffame.com/trophy-case-s12548# |title=Archived copy |access-date=2015-07-16 |archive-url=https://web.archive.org/web/20150720234811/http://www.echlhalloffame.com/trophy-case-s12548# |archive-date=2015-07-20 |url-status=dead }}</ref>
+
+==List of winners==
+{| class="wikitable sortable" style="width=60%
+|-
+!Season
+!Winner
+!Team
+!Notes
+|-
+| [[1988–89 ECHL season|1988–89]]
+| {{sortname|Daryl|Harpe}}
+| [[Erie Panthers]]
+|
+|-
+| [[1989–90 ECHL season|1989–90]]
+| {{sortname|Bill|McDougall}}
+| Erie Panthers
+|
+|-
+| [[1990–91 ECHL season|1990–91]]
+| {{sortname|Stan|Drulia}}
+| [[Knoxville Cherokees]]
+|
+|-
+| [[1991–92 ECHL season|1991–92]]
+| {{sortname|Phil|Berger|Phil Berger (ice hockey)}}
+| [[Greensboro Monarchs]]
+|
+|-
+| [[1992–93 ECHL season|1992–93]]
+| {{sortname|Trevor|Jobe}}
+| [[Nashville Knights]]
+|
+|-
+| [[1993–94 ECHL season|1993–94]]
+| {{sortname|Joe|Flanagan|Joe Flanagan (ice hockey)}}
+| [[Birmingham Bulls (ECHL)|Birmingham Bulls]]
+|
+|-
+| [[1994–95 ECHL season|1994–95]]
+| {{sortname|Vadim|Slivchenko}}
+| [[Wheeling Thunderbirds]]
+|
+|-
+| [[1995–96 ECHL season|1995–96]]
+| {{sortname|Hugo P.|Belanger}}
+| Nashville Knights
+|
+|-
+| [[1996–97 ECHL season|1996–97]]
+| {{sortname|Mike|Ross|Mike Ross (ice hockey)}}
+| [[South Carolina Stingrays]]
+|
+|-
+| [[1997–98 ECHL season|1997–98]]
+| {{sortname|Jamey|Hicks}}
+| Birmingham Bulls
+|
+|-
+| [[1998–99 ECHL season|1998–99]]
+| {{sortname|Chris|Valicevic}}
+| [[Louisiana IceGators (ECHL)|Louisiana IceGators]]
+|
+|-
+| [[1999–2000 ECHL season|1999–00]]
+| {{sortname|Andrew|Williamson|Andrew Williamson (ice hockey)}}
+| [[Toledo Storm]]
+|
+|-
+| [[2000–01 ECHL season|2000–01]]
+| {{sortname|Scott|King|Scott King (ice hockey, born 1977)}}
+| [[Charlotte Checkers (1993–2010)|Charlotte Checkers]]
+|
+|-
+| [[2001–02 ECHL season|2001–02]]
+| {{sortname|Frederic|Cloutier}}
+| Louisiana IceGators
+|
+|-
+| [[2002–03 ECHL season|2002–03]]
+| {{sortname|Buddy|Smith|Bud Smith (ice hockey)}}
+| [[Arkansas RiverBlades]]
+|
+|-
+| [[2003–04 ECHL season|2003–04]]
+| {{sortname|Scott|Stirling}}
+| [[Atlantic City Boardwalk Bullies]]
+|
+|-
+| [[2004–05 ECHL season|2004–05]]
+| {{sortname|Scott|Gomez}}
+| [[Alaska Aces (ECHL)|Alaska Aces]]
+|
+|-
+| [[2005–06 ECHL season|2005–06]]
+| {{sortname|Jeff|Campbell|Jeff Campbell (ice hockey)}}
+| [[Gwinnett Gladiators]]
+|
+|-
+| [[2006–07 ECHL season|2006–07]]
+| {{sortname|Brad|Schell}}
+| Gwinnett Gladiators
+|
+|-
+| [[2007–08 ECHL season|2007–08]]
+| {{sortname|David|Desharnais}}
+| [[Cincinnati Cyclones]]
+|
+|-
+| [[2008–09 ECHL season|2008–09]]
+| {{sortname|Kevin|Baker|Kevin Baker (ice hockey)}}
+| [[Florida Everblades]]
+|
+|-
+| [[2009–10 ECHL season|2009–10]]
+| {{sortname|Tyler|Donati}}
+| [[Elmira Jackals]]
+|
+|-
+| [[2010–11 ECHL season|2010–11]]
+| {{sortname|Wes|Goldie}}
+| Alaska Aces
+|
+|-
+| [[2011–12 ECHL season|2011–12]]
+| {{sortname|Chad|Costello}}
+| [[Colorado Eagles]]
+|
+|-
+| [[2012–13 ECHL season|2012–13]]
+| {{sortname|Ryan|Zapolski}}
+| South Carolina Stingrays
+|
+|-
+| [[2013–14 ECHL season|2013–14]]
+| {{sortname|Mickey|Lang}}
+| [[Orlando Solar Bears (ECHL)|Orlando Solar Bears]]
+|
+|-
+| [[2014–15 ECHL season|2014–15]]
+| {{sortname|Jeff|Jakaitis}}
+| South Carolina Stingrays
+|
+|-
+| [[2015–16 ECHL season|2015–16]]
+| {{sortname|Chad|Costello}}
+| [[Allen Americans]]
+| Second win
+|-
+| [[2016–17 ECHL season|2016–17]]
+| {{sortname|Chad|Costello}}
+| Allen Americans
+| Third win
+|-
+| [[2017–18 ECHL season|2017–18]]
+| {{sortname|Shawn|Szydlowski}}
+| [[Fort Wayne Komets]]
+|
+|-
+| [[2018–19 ECHL season|2018–19]]
+| {{sortname|Jesse|Schultz}}
+| Cincinnati Cyclones
+|
+|-
+| [[2019–20 ECHL season|2019–20]]
+| {{sortname|Josh|Kestner}}
+| [[Toledo Walleye]]
+|
+|}
+
+==See also==
+*[[ECHL awards]]
+
+==References==
+{{reflist}}
+
+[[Category:ECHL trophies and awards]]
+
+{{Icehockey-stub}}

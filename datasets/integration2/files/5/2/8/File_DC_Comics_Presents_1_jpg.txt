@@ -1,0 +1,14 @@
+== Fair use rationale ==
+{{Non-free use rationale| Article           = DC Comics Presents
+| Description       = Cover of ''DC Comics Presents'' #1 (Jul-Aug, 1978). Art by [[José Luis García-López]].
+| Source            = http://www.comics.org/coverview.lasso?id=32384&zoom=4
+| Portion           = Full front cover as published.
+| Resolution        = 300px size unsuitable to use for high end reproduction.
+| Purpose           = For identification purposes in conjunction with discussion of the topic of the article.
+| Replaceability    = No free use image available. As this is a fictional, copyrighted character, a freely-licensed alternative could not reasonably be obtained.
+| other_information = {{DC-Comics-trademark-copyright|1978}}
+}}
+
+== Licensing ==
+{{Non-free comic|Covers from titles related to Superman|DC Comics Presents  1|image has rationale=yes}}
+{{comicsyrimage|1978||DC Comics Presents|01}}

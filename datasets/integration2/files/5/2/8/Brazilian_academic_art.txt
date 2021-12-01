@@ -1,0 +1,36 @@
+{{Expand Portuguese|Academismo no Brasil|date=March 2009}}
+[[File:Meirelles-primeiramissa2.jpg|thumb|300px|[[Victor Meirelles]]: ''First Mass in Brazil'', 1861, [[Museu Nacional de Belas Artes (Brasil)|Museu Nacional de Belas Artes]]]]
+'''Brazilian Academic art''' was a major [[Style (visual arts)|art style]] in [[Brazil]] from the early 19th century to the early 20th century, based on European [[academic art]] and produced on official institutions of professional art education.<ref name="Eul">{{harvnb|Eulálio|1984–85|p=121}}</ref>
+
+Brazilian academic art was not affiliated with only one [[art movement]], but rather with several different ones during its course. At first, it was part of the [[Neoclassicism]] movement, being one of its main forces of local diffusion. Later, it also incorporated the [[romanticism]], [[Realism (arts)|realism]] and [[Symbolism (arts)|symbolism]] movements, as well as others that were typical of the 20th century turn, while cleansing them of any characteristic that did not fit academic formality.<ref name="Biscardi">{{harvnb|Biscardi|Rocha|2006}}</ref>
+
+The main official institution of Brazilian academic art was the [[Escola Real de Ciências, Artes e Ofícios]] (Royal School of Sciences, Arts and Crafts), founded in 1816 by [[Dom João VI]], later renamed Academia Imperial de Belas Artes (Imperial Academy of Fine Arts) and finally Escola Nacional de Belas Artes (National School of Fine Arts). Its incorporation by the [[Universidade Federal do Rio de Janeiro]] (Universidade Federal do Rio de Janeiro), in 1931, marks the end of the academic art style in Brazil. Even so, the vibrant legacy of Brazilian academic art remains significant until present day.<ref name="Biscardi" />
+
+Academic Art can also refer, in a broader sense, to any art produced under influence of [[academies]] and universities, at any time. In this sense, Brazilian academic art survived the emergence of [[modernism]] and other 20th-century art trends and continued after 1931, and thus contemporary Brazilian art schools and universities can be considered direct successors of the Escola Real de Ciências, Artes and Ofícios and the [[Académie des Beaux-Arts]].<ref>{{harvnb|Amaral|1998|p=[https://books.google.com/books?id=LHuZVkUgsP8C&pg=PA197&dq=academismo&lr=&as_drrb_is=q&as_minm_is=0&as_miny_is=&as_maxm_is=0&as_maxy_is=&as_brr=3&as_pt=ALLTYPES#PPA60,M1 60]}}</ref>
+
+== History ==
+
+===Beginnings===
+[[File:Debret-djoaovi-mcm.jpg|thumb|[[Debret]]: ''Dom João VI in Crowning Garment'', 1816, [[Museu Nacional de Belas Artes (Brasil)|Museu Nacional de Belas Artes]]]]
+
+The [[Missão Artística Francesa]] (French Artistic Mission) arrived in Brazil in 1816 proposing the creation of an art academy modeled after the respected Académie des Beaux-Arts, with graduation courses both for artists and craftsmen for activities such as [[Model (art)|modeling]], [[Decorative arts|decorating]], [[carpentry]] and others.
+
+[[Joachim Lebreton]], the leader of the Missão and founder of the project, determined the schedule of classes, course structure and assessment criteria. Moreover, he was also responsible for suggesting public employment for the graduates, ways to expand public collections and determining the human and material resources needed to run the school.
+
+This proposal, immediately welcomed by Dom João VI, led to the founding of the Escola Real de Ciências Artes e Ofícios. However, the Escola would face serious practical difficulties in its start and would take at least ten years to get into operation permanently, leading to its reopening on November 5, 1826, in the presence of [[Emperor Dom Pedro I]], as the Academia Imperial de Belas Artes.<ref>{{harvnb|Denis|2000|pp=[https://books.google.com/books?id=FGTF47gkM78C&pg=PA56&dq=academy+brazil&lr=&as_drrb_is=q&as_minm_is=0&as_miny_is=&as_maxm_is=0&as_maxy_is=&as_brr=3&as_pt=ALLTYPES#PPA53,M1 56–57]}}</ref> With the founding of the Escola were created the initial conditions for the birth of academic art in Brazil, and both Brazilian academic art and the Escola would be inextricably linked.
+
+== References ==
+{{reflist|colwidth=30em}}
+
+== Bibliography ==
+{{Commonscat|Academic paintings in Brazil}}
+{{refbegin}}
+
+* {{citation|last=Amaral|first=Aracy|url=https://books.google.com/books?id=LHuZVkUgsP8C|isbn=978-85-7326-117-2|edition=5ª|title=Artes plásticas na Semana de 22|publisher=Editora 34|year=1998|pages=335}}
+* {{citation|last=Biscardi|first=Afrânio|last2=Rocha|first2=Frederico Almeida|title=O Mecenato Artístico de D. Pedro II e o Projeto Imperial|periodical=19&20 - A revista eletrônica de DezenoveVinte|url=http://www.dezenovevinte.net/ensino_artistico/mecenato_dpedro.htm|volume=I|issue=1|date=May 2006}}
+* {{citation|last=Denis|first=Rafael Cardoso|chapter-url=https://books.google.com/books?id=FGTF47gkM78C&pg=PA56&dq=academy+brazil&lr=&as_drrb_is=q&as_minm_is=0&as_miny_is=&as_maxm_is=0&as_maxy_is=&as_brr=3&as_pt=ALLTYPES#PPA53,M1|chapter=Academicism, Imperialism and national identity: the case of Brazil's Academia Imperial de Belas Artes|editor-last=Denis|editor-first=Rafael Cardoso|editor2-last=Trod|editor2-first=Colin|title=Art and the academy in the 19th century|publisher=Manchester University Press|year=2000|url=https://books.google.com/books?id=FGTF47gkM78C|isbn=978-0-7190-5496-9|pages=207}}
+* {{citation|last=Eulálio|first=Alexandre|chapter=O Século XIX|title=Tradição e Ruptura. Síntese de Arte e Cultura Brasileiras|year=1984–85|publisher=Fundação Bienal de São Paulo|location=São Paulo}}
+
+{{DEFAULTSORT:Brazilian Academic Art}}
+[[Category:Brazilian art]]
+[[Category:Academic art]]

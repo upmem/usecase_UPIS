@@ -1,0 +1,31 @@
+<noinclude>
+The purpose of this template is to collect source text used in several articles in one place, in order to minimize maintenance and storage space. This is the [[Zimbabwe women's national football team|Zimbabwean roster]] in the [[Football at the 2016 Summer Olympics – Women's tournament|women's soccer tournament]] of the [[2016 Summer Olympics]]. The template is typically used in two articles: the article covering [[Zimbabwe at the 2016 Summer Olympics]], and the article covering the [[Football at the 2016 Summer Olympics – Women's team squads|rosters of all participating teams]] of the tournament.
+
+</noinclude>The following is the Zimbabwe squad in the women's football tournament of the 2016 Summer Olympics. The team of 18 players was officially named on 22 July 2016.<ref>{{cite news|url=https://zimnews.net/photos-zimbabwe-womens-football-team-brasil-match-dates|title=Zimbabwe Mighty Warriors Rio 2016 Olympics Team Lineup, Football Matches Dates..Pictures|publisher=ZimNews|date=22 July 2016|accessdate=5 August 2016}}</ref> {{view|talk|template=2016 Summer Olympics Zimbabwe women's football team roster}}
+
+Head coach: [[Shadreck Mlauzi]]
+{{nat fs g start|fs=95}}
+{{nat fs g player|no=1|pos=GK|name=[[Chido Dringirai]]|age={{Birth date and age2|2016|8|3|1991|10|25|df=y}}|caps=0|goals=0|club=[[Flame Lily Queens F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=2|pos=DF|name=[[Lynett Mutokuto]]|age={{Birth date and age2|2016|8|3|1988|9|1|df=y}}|caps=0|goals=0|club=[[Black Rhinos F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=3|pos=DF|name=[[Shiela Makoto]]|age={{Birth date and age2|2016|8|3|1990|1|14|df=y}}|caps=0|goals=0|club=[[Blue Swallows Queens F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=4|pos=DF|name=[[Nobuhle Majika]]|age={{Birth date and age2|2016|8|3|1991|5|9|df=y}}|caps=0|goals=0|club=[[Inline Academy F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=5|pos=MF|name=[[Emmalulate Msipa]]|age={{Birth date and age2|2016|8|3|1992|6|7|df=y}}|caps=0|goals=0|club=[[Black Rhinos F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=6|pos=MF|name=[[Talent Mandaza]]|age={{Birth date and age2|2016|8|3|1985|12|11|df=y}}|caps=0|goals=0|club=[[Black Rhinos F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=7|pos=FW|name=[[Rudo Neshamba]] ([[Captain (association football)|c]])|age={{Birth date and age2|2016|8|3|1992|2|10|df=y}}|caps=0|goals=0|club=[[Weerams F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=8|pos=MF|name=[[Rejoice Kapfumvuti]]|age={{Birth date and age2|2016|8|3|1991|11|18|df=y}}|caps=0|goals=0|club=[[Inline Academy F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=9|pos=FW|name=[[Samkelisiwe Zulu]]|age={{Birth date and age2|2016|8|3|1990|4|14|df=y}}|caps=0|goals=0|club=[[Flame Lily Queens F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=10|pos=MF|name=[[Mavis Chirandu]]|age={{Birth date and age2|2016|8|3|1995|1|15|df=y}}|caps=0|goals=0|club=[[Weerams F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=11|pos=MF|name=[[Daisy Kaitano]]|age={{Birth date and age2|2016|8|3|1993|9|20|df=y}}|caps=0|goals=0|club=[[Black Rhinos F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=12|pos=MF|name=[[Marjory Nyaumwe]]|age={{Birth date and age2|2016|8|3|1987|7|10|df=y}}|caps=0|goals=0|club=[[Flame Lily Queens F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=13|pos=FW|name=[[Erina Jeke]]|age={{Birth date and age2|2016|8|3|1990|9|16|df=y}}|caps=0|goals=0|club=[[Flame Lily Queens F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=14|pos=DF|name=[[Eunice Chibanda]]|age={{Birth date and age2|2016|8|3|1993|3|26|df=y}}|caps=0|goals=0|club=[[Black Rhinos F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=15|pos=FW|name=[[Rutendo Makore]]|age={{Birth date and age2|2016|8|3|1992|9|30|df=y}}|caps=0|goals=0|club=[[Black Rhinos F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=16|pos=GK|name=[[Lindiwe Magwede]]|age={{Birth date and age2|2016|8|3|1991|12|1|df=y}}|caps=0|goals=0|club=[[Cyclone Stars F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=17|pos=FW|name=[[Kudakwashe Basopo]]|age={{Birth date and age2|2016|8|3|1990|7|18|df=y}}|caps=0|goals=0|club=[[Black Rhinos F.C.]]|clubnat=ZIM}}
+{{nat fs g player|no=18|pos=FW|name=[[Felistas Muzongondi]]|age={{Birth date and age2|2016|8|3|1986|3|22|df=y}}|caps=0|goals=0|club=[[Mwenezana F.C.]]|clubnat=ZIM}}
+{{nat fs end}}<noinclude>
+==References==
+{{reflist}}
+{{2016 Summer Olympics football convenience template navbox}}
+[[Category:2016 Summer Olympics football team roster templates|Women Zimbabwe]]
+</noinclude>

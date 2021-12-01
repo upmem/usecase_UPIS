@@ -1,0 +1,65 @@
+{{short description|1936 film}}
+{{Use dmy dates|date=April 2016}}
+{{Use British English|date=April 2016}}
+{{Infobox film
+| name           = The Brown Wallet
+| image          = Brownwallet.jpg
+| caption        = trade poster
+| director       = [[Michael Powell]]
+| producer       = [[Irving Asher]]
+| based_on       = short story by [[Stacy Aumonier]]
+| writer         = [[Ian Dalrymple]]
+| starring       = [[Patric Knowles]]
+| music          = 
+| cinematography = [[Basil Emmott]]
+| editing        = 
+| studio         = [[Warner Bros.|Warner Brothers]]-[[First National Pictures|First National Productions]]
+| distributor    = [[Warner Bros.]]
+| released       = {{Film date|1936|07|20|df=y}}
+| runtime        = 68 minutes
+| country        = United Kingdom
+| language       = English
+| budget         = 
+| gross          = 
+}}
+
+'''''The Brown Wallet''''' is a 1936 British crime film, directed by [[Michael Powell]] and starring [[Patric Knowles]].  ''The Brown Wallet'', adapted from a short story by [[Stacy Aumonier]], was one of over 20 [[quota quickies]] directed by Powell between 1931 and 1936.  It is among eleven of these films of which no extant print is known to survive, and its current status is "missing, believed lost".<ref>{{cite web |url= http://www.screenonline.org.uk/film/id/598751/index.html |author= Mark Duguid |title= Early Michael Powell |publisher= BFI Screen Online |accessdate= 2010-01-08}}</ref>
+
+==Plot==
+Publisher John Gillespie ([[Patric Knowles]]) faces a financial crisis after his business partner skips town with all the firm's assets.  Facing ruin, he reluctantly approaches a wealthy aunt for assistance but is met with a stony-faced refusal.  Returning home in a taxi, he finds a wallet containing £2,000 left behind by a previous passenger.  He takes the wallet, but rather than confiding in his wife he rents a room in which he secretes the money, telling her he needs the room for business purposes.
+
+Shortly afterwards his aunt is found murdered, with her safe having been broken into and robbed.  Gillespie is the prime suspect, and wary of incriminating himself with regard to the £2,000 and unwilling to face having to surrender the cash, his story is deemed unsatisfactory and he is arrested and charged with murder.  However, a former employee of his aunt makes his own investigation into the case and discovers the real culprit.  Gillespie is released, then discovers he has been bequeathed a large sum of money in his aunt's will.  He can then return the wallet and the £2,000 to its rightful owner.
+
+==Cast==
+* [[Patric Knowles]] as John Gillespie
+* [[Nancy O'Neil]] as Eleanor
+* [[Henry Caine]] as Simmonds
+* [[Henrietta Watson]] as Aunt Mary
+* Charlotte Leigh as Miss Barton
+* Shayle Gardner as Wotherspoone
+* Edward Dalby as Minting
+* [[Eliot Makeham]] as Hobday
+* Bruce Winston as Julian Thorpe
+* Jane Millican as Miss Bloxham
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{IMDb title| 0027402 }}
+* {{AllMovie title| 86158 }}
+* {{BritMovie title| The-Brown-Wallet }}
+
+{{Powell and Pressburger}}
+
+{{DEFAULTSORT:Brown Wallet, The}}
+[[Category:1936 films]]
+[[Category:1936 crime films]]
+[[Category:British films]]
+[[Category:British crime films]]
+[[Category:Films directed by Michael Powell]]
+[[Category:Films by Powell and Pressburger]]
+[[Category:Lost British films]]
+[[Category:British black-and-white films]]
+[[Category:English-language films]]
+[[Category:1936 lost films]]

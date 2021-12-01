@@ -1,0 +1,108 @@
+<noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Science|Science desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Science/2019 February 16|February 16]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Science/January 2019|Jan]] | [[Wikipedia:Reference desk/Archives/Science/February 2019|February]] | [[Wikipedia:Reference desk/Archives/Science/March 2019|Mar]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Science/2019 February 18|[[Wikipedia:Reference desk/Archives/Science/2019 February 18|February 18]]|[[Wikipedia:Reference desk/Science|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center; font-family:Arial; color:#FFFFFF;" | '''Welcome to the Wikipedia Science Reference Desk Archives'''
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Science/2019 February 27|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= February 17 =
+
+== Do those rockets abandoned in geostationary transfer orbits ever reenter decades later without ever reaching low eccentricity? ==
+
+I would expect perigee drag mild enough to take decades would reduce eccentricity to low values but even low lunar orbit satellites crash within decades so I'm not sure. [[User:Sagittarian Milky Way|Sagittarian Milky Way]] ([[User talk:Sagittarian Milky Way|talk]]) 00:30, 17 February 2019 (UTC)
+:The perigee drag may not be so mild if the perigee is 200 km or less. In addition this drag will reduce not only the apogee but the perigee as well. So, the next perigee will be lower and the drag stronger. As to Moon, its satellites de-orbit not due to the drag but because of influence of [[mascons]]. [[User:Ruslik0|Ruslik]]_[[User Talk:Ruslik0|<span style="color:red">Zero</span>]] 20:20, 17 February 2019 (UTC)
+::Earth has mascons too, though maybe less lumpy than the Moon. Is the perigee drop mostly because a "use a gun of appropriate momentum as a retrorocket once per perigee" model is wrong? Cause the non-instantaneousness of each orbit's "radius of curvature change" makes passages through closest approach precess prograde and get lower? Do you know how low the initial perigee needs to be for it to reenter without nearly circularizing first? [[User:Sagittarian Milky Way|Sagittarian Milky Way]] ([[User talk:Sagittarian Milky Way|talk]]) 18:23, 18 February 2019 (UTC)
+
+== Occupational hazard? ==
+
+Do workers in [[aluminum]] plants (especially those who work in the [[Bayer process]] unit) suffer from constipation more than usual? [[Special:Contributions/2601:646:8A00:A0B3:903C:FE68:B96F:B580|2601:646:8A00:A0B3:903C:FE68:B96F:B580]] ([[User talk:2601:646:8A00:A0B3:903C:FE68:B96F:B580|talk]]) 01:57, 17 February 2019 (UTC)
+:The Bayer process is for producing [[alumina]], not [[aluminium]]. Maybe you're thinking of an [[Aluminium smelting|aluminium smelter]]? Why would you suppose that constipation is likely for people working in these facilities? [[Special:Contributions/202.155.85.18|202.155.85.18]] ([[User talk:202.155.85.18|talk]]) 01:35, 18 February 2019 (UTC)
+::I thought it was common practice to have the Bayer process and electrolysis all done on one site?  As for constipation, I know that aluminum (as the hydroxide) is used to counteract the laxative effects of [[magnesium]] in [[Mylanta]] (Yourlanta? Theirlanta?), so it would be logical that occupational exposure would have the same effect, no? [[Special:Contributions/2601:646:8A00:A0B3:903C:FE68:B96F:B580|2601:646:8A00:A0B3:903C:FE68:B96F:B580]] ([[User talk:2601:646:8A00:A0B3:903C:FE68:B96F:B580|talk]]) 04:11, 18 February 2019 (UTC)
+::::I previously worked at the [[Queensland Alumina Limited|Gladstone Alumina plant]]. The aluminium is smelted at a separate facility on Boyne Island. I currently work for a firm that contracts to alumina refineries in Borneo, and their product is not for smelting at all, but rather for refractory ceramics and other industrial uses of alumina. I'm not aware of any increased instance of constipation, and the MSDS doesn't mention it either. It's not like we went around eating the stuff though. [[Special:Contributions/202.155.85.18|202.155.85.18]] ([[User talk:202.155.85.18|talk]]) 05:33, 19 February 2019 (UTC)
+
+:::See the disease [[Aluminosis]]. --[[User:Kharon|Kharon]] ([[User talk:Kharon|talk]]) 20:30, 18 February 2019 (UTC)
+
+== Video defect ==
+
+[[File:Video defect.png|thumb]]
+See top left of this image, those white lines. I see this in videos quite a bit. What is it? Have you ever seen this?  [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 08:39, 17 February 2019 (UTC)
+
+:I think that might be a [[EIA-608]] closed captioning signal. --[[User:Guy Macon|Guy Macon]] ([[User talk:Guy Macon|talk]]) 16:37, 17 February 2019 (UTC)
+
+::Or, depending on the origin of the video, [[ceefax]] or [[teletext]] or just a time code, etc (see [[datacasting]]). This was once the usual way to encode any form of digital data into an analog video signal. On a correctly adjusted analog display (tv set) it was supposed to be invisible, because it was just outside the screen (see [[overscan]]). This also explains why you only see this on older videos, that were converted from analog to digital. In that conversion the overscan is usually included in the visual part. On more professional conversions the overscan is blackened or cut off, to avoid this disturbing effect. [[User:Jahoe|Jahoe]] ([[User talk:Jahoe|talk]]) 09:08, 18 February 2019 (UTC)
+
+:::Also note that this is not really a video '''''defect''''', at least not in the sense of interference of faulty equipment. The signal was intentionally put there, but it lost its function in the digital age. [[User:Jahoe|Jahoe]] ([[User talk:Jahoe|talk]]) 09:20, 18 February 2019 (UTC)
+
+::::Thank you both kindly. [[User:Jahoe|Jahoe]], one thing that puzzles me is that a friend filmed me using a large, expensive digital camera years ago and the product he gave me had that. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 21:15, 18 February 2019 (UTC)
+
+:::::That puzzles me too. Are you sure this was a ''digital'' recording? The camera might have been digital, but was the recording too? I know that some (analog) VHS recordings had some time coding put in this way. If the recording was really digital, it might have there for backward compatibility. Anyway, I can't give a definitive answer to this. [[User:Jahoe|Jahoe]] ([[User talk:Jahoe|talk]]) 06:09, 19 February 2019 (UTC)
+
+By the way, have either of you seen that exact thing like in the image I provided? [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 21:15, 18 February 2019 (UTC)
+
+:Yes, I do believe we're talking about the same thing, if that's what you mean. To be sure, you could watch this [https://www.youtube.com/watch?v=6SL6zs2bDks] youtube video and skip to 6:08. This clip explains the phenomenon more deeply b.t.w., geared towards closed captioning. [[User:Jahoe|Jahoe]] ([[User talk:Jahoe|talk]]) 06:29, 19 February 2019 (UTC)
+
+::Thank you, [[User:Jahoe|Jahoe]], but Youtube is blocked here in China. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 06:40, 19 February 2019 (UTC)
+
+Anyhow, thank you all. It's not a defect, understood. Sorry to bother you about this. It's just been bugging me for years. Cheers. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 06:47, 19 February 2019 (UTC)
+
+:No bother at all Anna, you're welcome. :) And perhaps others could go into the remaining question, I'm curious too. [[User:Jahoe|Jahoe]] ([[User talk:Jahoe|talk]]) 08:42, 19 February 2019 (UTC)
+
+:Thanks for asking [[User:Anna Frodesiak|Anna]], I was wondering what that was for a long time too. Learned something new today :) [[Special:Contributions/93.139.17.30|93.139.17.30]] ([[User talk:93.139.17.30|talk]]) 16:52, 22 February 2019 (UTC)
+
+== Binoculars vs Nikon P1000 ==
+
+Judging from videos showing [[Nikon Coolpix P1000]] 125x zoom, I noticed that it surpasses my [[Bresser]] binoculars with 180x zoom (e.g. when observing flying airliners). How an optical device with 125x zoom can give better magnification and details than a 180x zoom binoculars? Are there additional factors at play? [[Special:Contributions/212.180.235.46|212.180.235.46]] ([[User talk:212.180.235.46|talk]]) 18:22, 17 February 2019 (UTC)
+:The first device is a camera while the second one is a binocular. Comparing them is like comparing an apple to an orange. [[User:Ruslik0|Ruslik]]_[[User Talk:Ruslik0|<span style="color:red">Zero</span>]] 20:10, 17 February 2019 (UTC)
+::AFAIK the process of zooming (magnification) itself is basically the same, so I wonder how a device with higher magnification shows a smaller and less detailed object compared to the one with smaller magnification. [[Special:Contributions/212.180.235.46|212.180.235.46]] ([[User talk:212.180.235.46|talk]]) 20:17, 17 February 2019 (UTC)
+:::180x zoom Bressler binoculars? Really? The highest zoom values on their website are models with 7-35x and 12-36x (and for non-zoom 20x). As a long-time amateur astronomer who uses a pair of (non-zoom) 25x100 bins (on a ''very'' sturdy tripod), I find it difficult to envisage how one would even be able to use 180x binoculars unless they were on a fixed observatory-quality equatorial mount, and it would be impossible to observe swiftly moving objects like aircraft with such a setup. How do you achieve this?
+:::As for how a 125x device can surpass a 180x one, it may be that the resolution of the former's sensor surpasses that of your retinas or whatever else you are using with the binoculars, and thus can stand more post-capture enlargement. Also, binoculars by definition combine images from two different optical trains (typically via your separate eyes) which if even slightly mismatched will result in a conflicted/degraded image, whereas a bridge camera is only using one optical train. {The poster formerly known as 87.81.230.195} [[Special:Contributions/2.122.1.40|2.122.1.40]] ([[User talk:2.122.1.40|talk]]) 22:19, 17 February 2019 (UTC)
+::::Thanks. As for x180 Bresser, see [https://2.allegroimg.com/original/0c647b/5b22777b43898e8cb627532246d2 this photo]. I can normally hold them with hands without tripod or other assistance. [[Special:Contributions/212.180.235.46|212.180.235.46]] ([[User talk:212.180.235.46|talk]]) 22:27, 17 February 2019 (UTC)
+
+:::::From reviews on Amazon:
+:::::* "I regularly go watch Ospreys and I've looked at them using 15x bins and a 60x scope. I really don't think these sakura bins even have the zoom of the 60x scope... so I don't know the actual zoom level but I'd say it was somewhere around the 40-50x mark.... Not that you can use them at full zoom anyway."[https://www.amazon.co.uk/Sakura-Super-Zoom-Resolution-Binocular/dp/B0087OSRU6]
+:::::* "These are advertised and labelled as '20-180x 100' binoculars but are in fact entirely different. The object lens measures 70mm, not 100mm. The zoom (20-180x) resembles something more like 20-40x."
+:::::* "OK! As identified elsewhere, in good old chinese fashion there has been typical specification drift, by half an Ocean in fact in terms of stated lens size and zoom ratio."
+:::::So there's your answer. You aren't looking through x180 binocs. You are looking through cheap chinese binocs that tell lies about lens size, zoom ratio, and field of view. --[[User:Guy Macon|Guy Macon]] ([[User talk:Guy Macon|talk]]) 01:41, 18 February 2019 (UTC)
+::::::That's revealing :( [[Special:Contributions/212.180.235.46|212.180.235.46]] ([[User talk:212.180.235.46|talk]]) 09:51, 18 February 2019 (UTC)
+:::::::This may be of interest [//infomiasto.eu/?p=3867] and perhaps also the associated video [//www.youtube.com/watch?v=qsDdQAmR_OI]. If the machine translation is correct and the reviewer is right, it sounds like some of these fakes did go up to ~85x. But they also weren't usable with that magnification. Some of the above reviews suggest that for some of them, even with a lower maximum zoom they still weren't usable. So if I understand your earlier comments correctly and yours is usable at the maximum zoom whatever it actually ios, that's probably close to the best you can expect for cheap fakes. [[User:Nil Einne|Nil Einne]] ([[User talk:Nil Einne|talk]]) 10:54, 18 February 2019 (UTC)
+
+== Slow-close toilet seat ==
+
+How does the hinge on a [[Toilet seat#Slow-close]] work? Many thanks. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 21:52, 17 February 2019 (UTC)
+
+:There is a cartridge that replaces the more traditional hinge. It contains a flexible part that behaves as a rotary spring and damper, at a guess. The design of soft-close mechanisms for consumer goods is something of an art, they probably spend a lot of time optimising the behavior of squishy bits of foam. [[User:Greglocock|Greglocock]] ([[User talk:Greglocock|talk]]) 01:22, 18 February 2019 (UTC)
+::Thank you [[User:Greglocock|Greglocock]]. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 07:36, 18 February 2019 (UTC)
+
+Does anyone know for sure? I see sources describing things, but nothing reliable. Anyone? [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 07:36, 18 February 2019 (UTC)
+
+:As an engineer, I can tell you that there is only one way to do a slow close cheaply and reliably. You need to use a form of [[Dashpot]]. For a toilet seat, you would use a rotary dashpot (often called a rotary damper). Many Chinese vendors sell these. See [h t t p s : / / www.aliexpress.com/item/Adjustable-China-Rotary-Damper-for-toilet-seat-cover/32556275655.html][https://www.alibaba.com/product-detail/Kohler-toilet-seat-rotary-damper-EBO_60384167334.html][https://xiao1995.en.ec21.com/China_Manufacturer_Plastic_Soft_Close--9635350_9682047.html][https://longji1997.en.made-in-china.com/product/gKtxwPLdbIWU/China-Oil-Soft-Close-Rotary-Damper-for-Toilet-Seat.html][https://xiao1995.en.ec21.com/China_Manufacturer_Plastic_Soft_Close--9635350_9682047.html][https://www.globalsources.com/gsol/I/Rotary-torque/p/sm/1143923188.htm#1143923188]. (Spaces added to aliexpress URL because Wikipedia thinks I amm trying to post a spam link).--[[User:Guy Macon|Guy Macon]] ([[User talk:Guy Macon|talk]]) 08:21, 18 February 2019 (UTC)
+::Very interesting indeed. I'd never heard of a dashpot before. I just added commonscat to the article. I'll check soon at commons because I suspect there are more uncategorised images there. So, I'll read up on how these work and see if I can add content to the toilet seat article (although you'd be best doing that). Also, I'm going to start calling people I don't like dashpots. Many thanks. I'll respond more here and hope someone comes up with good refs. I didn't check all your links because I'm off to bed. Best, [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 12:31, 18 February 2019 (UTC)
+
+Yes, like I thought, [https://commons.wikimedia.org/w/index.php?title=Special:Search&limit=100&offset=0&ns0=1&ns1=1&ns2=1&ns3=1&ns4=1&ns5=1&ns6=1&ns7=1&ns8=1&ns9=1&ns10=1&ns11=1&ns12=1&ns13=1&ns14=1&ns15=1&ns100=1&ns101=1&ns102=1&ns103=1&ns104=1&ns105=1&ns106=1&ns107=1&ns460=1&ns461=1&ns490=1&ns491=1&ns828=1&ns829=1&ns1198=1&ns1199=1&search=Dashpot&advancedSearch-current=%7B%22namespaces%22%3A%5B6%2C12%2C14%2C100%2C106%2C0%2C1%2C2%2C3%2C4%2C5%2C107%2C7%2C8%2C9%2C10%2C11%2C13%2C101%2C102%2C103%2C104%2C105%2C1198%2C1199%2C15%2C460%2C461%2C490%2C491%2C828%2C829%5D%7D&searchToken=axhef4n0h2dlfvnq4fmc8jctu plenty of images needing cats]. They were obviously uploaded by people who didn't know....bunch of dashpots. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 12:34, 18 February 2019 (UTC)
+* There are many types.  There are also many similar anti-slam devices for cupboards and chests which you don't want to use for storing severed children's fingertips.
+: Better designs work better.  The simplest (for a vertical close) is a spring, but the difficult with those is [[Hooke's Law]]: the spring becomes stiffer as it's compressed, so it works in the middle range, but it can't cope with a drop from full height and it may not even close fully.
+: A better design is a [[dashpot|viscous damper]]. This has two closely-spaced rotating components, a shaft in a hole or two discs, and they're separated by a [[viscous liquid]], such as [[silicone oil]]. Early designs used thicker oils, but better ones now use ''low-''viscosity oils, and tighter spacings. This gives a constant, or speed-dependent, damping force and has no resistance to a force at very low velocities. So it closes at constant speed, copes with a drop from the full height range, and it closes fully against the stop. Silicone oils are also pretty insensitive to temperature changes. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 12:54, 18 February 2019 (UTC)
+::I checked a few patents, and they appear to have the shaft-in-a-tube design. Though they are vague about its exact details (obviously, since that's the aspect that they are claiming as novel:) [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 16:13, 18 February 2019 (UTC)
+:::Looking more closely, I also see a case of a spring pushing against a slant-cut hinge piece where it rotates against another, so that's closer to the "two disks" (end-on) than shaft (concentric) mode. That design also could involve the spring "as a spring" (counteracting the mass of the lid as it closes) in addition to providing the force for the damper friction. [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 17:17, 18 February 2019 (UTC)
+:::: That's an older design, which is basically a spring-loaded friction disc. They don't wear well, and domestic gadgets see a lot of wear, and expected life of decades and zero maintenance. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 17:46, 18 February 2019 (UTC)
+* Unlike the [[Wikipedia:Snowball clause|Snow close]], of course, which I believe is employed by the [[Inuit culture|Inuit peoples]]. [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 13:15, 18 February 2019 (UTC)
+::That's the opposite...snow-close is an ungentle slamming shut. [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 16:13, 18 February 2019 (UTC)
+:::[[Toilet-related injuries and deaths|Ouch]]. [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 16:19, 18 February 2019 (UTC)
+
+Here is a datasheet showing the internals: [ https://www.scribd.com/document/322991838/Ace-Rotary-Dampers-Catalogue-en-2009 ] --[[User:Guy Macon|Guy Macon]] ([[User talk:Guy Macon|talk]]) 17:46, 18 February 2019 (UTC)
+
+I cannot access the scribd site. Also, this is beyond my mental pay grade. Would someone be a dear and just add a single sentence with ref to [[Toilet seat#Slow-close]]? I started that subsection, but it's not worth much at the moment. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 20:38, 18 February 2019 (UTC)
+
+:I'm not trying to process this data right now, but as for the document, scribd should be regarded as a cuckoo site -- a simple search of the contents (''not'' the title!) will ''always'' find some copy of any document not burdened by the more-or-less-copy-protection they put on the free-licensed crap that is uploaded to their site.  In this case I found [https://amironic.co.il/wp-content/uploads/Rotary-Dampers-1.pdf] which has some minimal revisions/unrevisions but is essentially the same stuff. [[User:Wnt|Wnt]] ([[User talk:Wnt|talk]]) 20:17, 20 February 2019 (UTC)

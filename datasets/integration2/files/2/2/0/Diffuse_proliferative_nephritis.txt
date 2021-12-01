@@ -1,0 +1,50 @@
+{{Infobox medical condition (new)
+| name            = {{PAGENAME}}
+| synonyms        =  '''Glomerulonephritis''' 
+| image           = 
+| alt             = 
+| caption         = 
+| pronounce       = 
+| field           = nephrology
+| symptoms        = 
+| complications   = 
+| onset           = 
+| duration        = 
+| types           = 
+| causes          = 
+| risks           = 
+| diagnosis       = 
+| differential    = 
+| prevention      = 
+| treatment       = 
+| medication      = 
+| prognosis       = 
+| frequency       = 
+| deaths          = 
+}}
+'''Diffuse proliferative nephritis''' ('''DPN''')  is a type of [[glomerulonephritis]] that is the most serious form of renal lesions in [[Systemic lupus erythematosus|SLE]] and is also the most common, occurring in 35% to 60% of patients.<ref>{{cite book|last1=Ferri|first1=Fred F.|title=Ferri's Color Atlas and Text of Clinical Medicine|date=2009|publisher=Elsevier Health Sciences|isbn=978-1416049197|page=701|url=https://books.google.com/?id=ZbisJsvDEegC&dq=Diffuse+proliferative+nephritis+35+to+60%25|accessdate=14 November 2017|language=en}}</ref> Most of the [[Glomerulus (kidney)|glomeruli]] show [[endothelial]] and [[mesangial]] [[cell growth|proliferation]], affecting the entire glomerulus, leading to [[diffuse]] hypercellularity of the glomeruli, producing in some cases [[epithelial]] [[glomerular crescents|crescents]] that fill [[Bowman's space]]. When extensive, [[immune complexes]] create an overall thickening of the capillary wall, resembling rigid "wire loops" on routine [[light microscopy]]. [[Electron microscopy]] reveals electron-dense subendothelial [[immune complexes]] (between endothelium and basement membrane). Immune complexes can be visualized by staining with [[fluorescent]] [[antibodies]] directed against [[immunoglobulins]] or [[Complement system|complement]], resulting in a [[granular]] fluorescent staining pattern. In due course, glomerular injury gives rise to [[scarring]] ([[glomerulosclerosis]]). Most of these patients have [[hematuria]] with moderate to severe [[proteinuria]], [[hypertension]], and [[renal insufficiency]].<ref name="isbn0-8089-2366-8">{{cite book |author1=Robbins, Stanley L. |author2=Kumar, Vinay |title=Robbins basic pathology |edition= |language= |publisher=Saunders/Elsevier |location= |year=2007 |origyear= |pages=142 |quote= |isbn=978-0-8089-2366-4 |oclc= |doi= |url= |accessdate=}}</ref>
+
+==References==
+{{reflist}}
+== External links ==
+{{Medical resources
+|  ICD10           = <!--{{ICD10|Xxx.x}}-->
+|  ICD9            = <!--{{ICD9|xxx}}-->
+|  ICDO            = 
+|  OMIM            = 
+|  DiseasesDB      = 
+|  MedlinePlus     = 
+|  eMedicineSubj   = article
+|  eMedicineTopic  = 239646
+|  MeSH            = 
+|  GeneReviewsNBK  = 
+|  GeneReviewsName = 
+|  Orphanet        = 
+}}
+{{Lupus nephritis}}
+{{Glomerular disease}}
+
+[[Category:Kidney diseases]]
+
+
+{{genitourinary-disease-stub}}

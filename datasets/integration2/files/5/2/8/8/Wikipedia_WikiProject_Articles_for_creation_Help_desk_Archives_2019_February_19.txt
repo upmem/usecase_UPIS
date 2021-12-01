@@ -1,0 +1,182 @@
+<noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:WikiProject Articles for creation/Help desk|Help desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/2019 February 18|February 18]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/January 2019|Jan]] | [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/February 2019|February]] | [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/March 2019|Mar]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:WikiProject Articles for creation/Help desk/Archives/2019 February 20|[[Wikipedia:WikiProject Articles for creation/Help desk/Archives/2019 February 20|February 20]]|[[Wikipedia:WikiProject Articles for creation/Help desk|Current help desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background:#57DB1E; text-align: center; font-family:Arial; color:black;" | '''Welcome to the WikiProject Articles for creation Help Desk Archives'''
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:WikiProject Articles for creation/Help desk/Archives/2019 March 1|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:WikiProject Articles for creation/Help desk|current Help Desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= February 19 =
+
+== 02:20:52, 19 February 2019 review of submission by Imssnegi ==
+{{Lafc|username=Imssnegi|ts=02:20:52, 19 February 2019|declined=Draft:Sanjay_Singh_Negi}}
+
+
+[[User:Imssnegi|Imssnegi]] ([[User talk:Imssnegi|talk]]) 02:20, 19 February 2019 (UTC)
+
+::{{replyto|Imssnegi}} - as the reviewer said, this draft has nothing in it that indicates the individual is notable (which is not the same as importance). Additionally, it has no references, so there's nothing to support any claim to notability, in any case. [[User:Nosebagbear|Nosebagbear]] ([[User talk:Nosebagbear|talk]]) 22:15, 20 February 2019 (UTC)
+
+== 05:30:50, 19 February 2019 review of draft by Ngprasad ==
+{{Lafc|username=Ngprasad|ts=05:30:50, 19 February 2019|draft=Draft:Chennai_sisters}}
+
+
+I HAVE PROVIDED COUPLE OF REFERENCES FROM THE MEDIA NEWS ABOUT CHENNAI SISTERS (THE HINDU & RAAGA.COM). STILL MY PAGE IS NOT APPROVED. LOOKING FOR ADDITIONAL ASSISTANCE ON THIS. 
+
+[[User:Ngprasad|Ngprasad]] ([[User talk:Ngprasad|talk]]) 05:30, 19 February 2019 (UTC)
+
+::{{replyto|Ngprasad}} - firstly, please don't use all caps, screaming will encourage reviewers to quickly examine your questions. 
+
+::Secondly, as you're looking to see if the draft should now be approved with the additional sources (as opposed to the original review being wrong) you'll need to resubmit, in a similar fashion to how you uploaded it to AfC the first time. If you have trouble doing this then you can post a new comment below asking for help, or at the [[WP:TEAHOUSE]] or ask me on my talk page.
+
+::However, I would advise against it at the moment. Your Raaga reference is just a track/album listing - it doesn't provide any [[WP:SIG|significant coverage]] on the artists. The Hindu source, while it would normally be well suited, only provides 3 lines on the Chennai sisters, which again, is not sufficient. 
+
+::Your article suggests that they have been on international performances - depending on these came about - frequent trips/one or more big tours as opposed to occasional visits to other countries, it might satisfy notability in that fashion. Have a look for references that talk about their international performances. Preferably sources that discuss multiple performances, though if you can find reviews of several performances that would also do. [[User:Nosebagbear|Nosebagbear]] ([[User talk:Nosebagbear|talk]]) 22:23, 20 February 2019 (UTC)
+
+== Request on 06:36:47, 19 February 2019 for assistance on [[Wikipedia:Articles for creation|AfC]] submission by IP JG ==
+{{anchor|06:36:47, 19 February 2019 review of submission by IP JG}}
+{{Lafc|username=IP JG|ts=06:36:47, 19 February 2019|declinedtalk=Draft:Suzuki_Marine}}
+
+<!-- Start of message -->
+
+A draft article I recently submitted was rejected with no reason given. Is there any way I can resubmit it?
+
+<!-- End of message -->[[User:IP JG|IP JG]] ([[User talk:IP JG|talk]]) 06:36, 19 February 2019 (UTC)
+:Pinging reviewer {{Ping|Wolfson5}} for clarification. '''[[User:NotTheFakeJTP|<span style="color: red">JTP</span>]] <sup>([[User talk:NotTheFakeJTP|talk]] • [[Special:Contribs/NotTheFakeJTP|contribs]])</sup>''' 16:51, 19 February 2019 (UTC)
+
+== 08:48:24, 19 February 2019 review of submission by Sebdubois77 ==
+{{Lafc|username=Sebdubois77|ts=08:48:24, 19 February 2019|declined=Draft:Fatima_Cody_Stanford}}
+
+I have addressed all of the changes requested for this page. It was requested to only use “Dr” once and subject’s last name thereafter. Also, I converted all links to internal links as requested. Despite these numerous modifications, the entry was rejected. Please assist. I have worked hard to ensure I have addressed all concerns.
+
+[[User:Sebdubois77|Sebdubois77]] ([[User talk:Sebdubois77|talk]]) 08:48, 19 February 2019 (UTC)
+:Hi {{U|Sebdubois77}}. I have returned the draft to the reviewing pool because the rejection may have been a technical error.
+:Despite your belief that you have addressed all concerns, many problems remain. There are external links in the body, such as Obesity Medicine & Nutrition Fellowship, Day League, American Board of Obesity Medicine, and Delta Airlines. Such links are not allowed. The draft is severely overlinked. Read [[MOS:LINK]] to gain an appreciation of what to link and what not to link.
+:The draft cites a large number of sources, and cites each only once. This can be an indication of several problems. It may be that no independent sources have written more than a few sentences about her. It may be that the draft relies too much on primary sources. It may be that the draft includes excessive detail. An encyclopedia summarizes, it doesn't list every publication someone has written for/been quoted in, every award someone has been honored with, or every committee they have co-chaired. The draft should hit the significant points in her life. This ties in with the draft's most serious problem, that the lead fails to tell the reader why she is notable. See [[WP:PROF]] for ways in which an academic can be notable, and decide what sources you need to cite to prove that she meets one or more of the criteria. [[WP:THREE]] may be a useful exercise to help you determine what is important. Then see [[MOS:LEAD]] for how to write the lead. As a final note for now, the citation of sources is sloppy. Some are bare urls, and others omit basic bibliographic information, such as the title of the article and page number on which the information appears. --[[User:Worldbruce|Worldbruce]] ([[User talk:Worldbruce|talk]]) 17:32, 19 February 2019 (UTC)
+
+== Request on 11:54:10, 19 February 2019 for assistance on [[Wikipedia:Articles for creation|AfC]] submission by Encolpius 09 ==
+{{anchor|11:54:10, 19 February 2019 review of submission by Encolpius 09}}
+{{Lafc|username=Encolpius 09|ts=11:54:10, 19 February 2019|declinedtalk=User_talk:Encolpius_09}}
+
+<!-- Start of message -->
+I see that the page has been declined for copyright issues, but I wrote this article and published license-free in another website. How can I show it?
+
+<!-- End of message -->[[User:Encolpius 09|Encolpius 09]] ([[User talk:Encolpius 09|talk]]) 11:54, 19 February 2019 (UTC)
+:The page you copied it from clearly states "Copyright © 2016 :: itchefs-GVCI" so we cannot accept it here. [[User:Theroadislong|Theroadislong]] ([[User talk:Theroadislong|talk]]) 13:10, 19 February 2019 (UTC)
+
+== 12:03:44, 19 February 2019 review of draft by Prsbvlp ==
+{{Lafc|username=Prsbvlp|ts=12:03:44, 19 February 2019|draft=User:Prsbvlp/sandbox}}
+
+
+I have submitted a personal academic profile for review. I have noted in that in such cases often a grey box appears on the right hand side of the profile with a summary of key details and possibly also a photo. Please advise how I can design this part. Many thanks
+
+[[User:Prsbvlp|Prsbvlp]] ([[User talk:Prsbvlp|talk]]) 12:03, 19 February 2019 (UTC)
+:It's called an infobox. The easy way to make one is find one on a similar topic, copy it and change the specifoc details. It goes at the beginning of the article. Note you should not be writing about yourself and any bio needs to meet [[WP:PROF]] [[User:Legacypac|Legacypac]] ([[User talk:Legacypac|talk]]) 19:01, 19 February 2019 (UTC)
+
+== 13:16:26, 19 February 2019 review of submission by Bromalayan ==
+{{Lafc|username=Bromalayan|ts=13:16:26, 19 February 2019|declined=Draft:2019_PKNP_F.C._season}}
+
+
+There are a newly published article for the same intent, that is [[2019 PKNP FC season]]. I want to request for a redirect to the particular article. 
+[[User:Bromalayan|Bromalayan]] ([[User talk:Bromalayan|talk]]) 13:16, 19 February 2019 (UTC)
+:done [[User:Legacypac|Legacypac]] ([[User talk:Legacypac|talk]]) 19:02, 19 February 2019 (UTC)
+
+== 13:44:32, 19 February 2019 review of submission by Juan Santo Domingo ==
+{{Lafc|username=Juan Santo Domingo|ts=13:44:32, 19 February 2019|page=
+Draft:Molecular_Layer_Deposition
+}}
+Recently, I  have asked a question regarding how to improve my draft article to make it suitable for publishing. I received great feedback from Legacypac and made the suggested changes, but now it turns out that there is no button to submit the draft anymore, and the page says it is redirected. I am quite lost, can I have some help?
+[[User:Juan Santo Domingo|Juan Santo Domingo]] ([[User talk:Juan Santo Domingo|talk]]) 13:44, 19 February 2019 (UTC)
+:I'll fix that. Just need to resubmit and recheck for copyvio. [[User:Legacypac|Legacypac]] ([[User talk:Legacypac|talk]]) 16:36, 19 February 2019 (UTC)
+
+
+::Your article has been accepted here [[Molecular Layer Deposition]]. [[User:Theroadislong|Theroadislong]] ([[User talk:Theroadislong|talk]]) 16:54, 19 February 2019 (UTC)
+
+== review of submission by Thesachinsapkal ==
+{{Lafc|username=Thesachinsapkal|ts=15:20:00, 19 February 2019|declined=User:Thesachinsapkal/sandbox}}
+:{{ping|Thesachinsapkal}} I don't think there is much to add to the comments already made on your sandbox page.  It's all unintelligible content. Please read [[Wikipedia:What Wikipedia is not]] so that you have some idea of what Wikipedia is and isn't for. [[User:Nthep|Nthep]] ([[User talk:Nthep|talk]]) 18:21, 19 February 2019 (UTC)
+
+== 16:03:37, 19 February 2019 review of submission by AndeeOleno ==
+{{Lafc|username=AndeeOleno|ts=16:03:37, 19 February 2019|declined=User:AndeeOleno/sandbox}}
+
+I want to find out specifically what needs to be added or changed in order to be listed on Wikipedia.
+[[User:AndeeOleno|AndeeOleno]] ([[User talk:AndeeOleno|talk]]) 16:03, 19 February 2019 (UTC)
+:Hi {{U|AndeeOleno}}. [[WP:AMOUNT|No amount of editing can overcome a lack of notability]]. The topic is unsuitable for Wikipedia. --[[User:Worldbruce|Worldbruce]] ([[User talk:Worldbruce|talk]]) 16:21, 19 February 2019 (UTC)
+
+== 17:49:24, 19 February 2019 review of submission by Ramzan ismail786 ==
+{{Lafc|username=Ramzan ismail786|ts=17:49:24, 19 February 2019|declined=User:Ramzan_ismail786/sandbox}}
+
+
+[[User:Ramzan ismail786|Ramzan ismail786]] ([[User talk:Ramzan ismail786|talk]]) 17:49, 19 February 2019 (UTC)
+:{{ping|Ramzan ismail786}} a virtually blank page that appears to be an autobiography is not going to be accepted as a Wikipedia article.  Please see [[Wikipedia:Autobiography]] as to why autobiographies are discouraged. [[User:Nthep|Nthep]] ([[User talk:Nthep|talk]]) 17:56, 19 February 2019 (UTC)
+
+== Request on 18:44:14, 19 February 2019 for assistance on [[Wikipedia:Articles for creation|AfC]] submission by Eve Gabereau ==
+{{anchor|18:44:14, 19 February 2019 review of submission by Eve Gabereau}}
+{{Lafc|username=Eve Gabereau|ts=18:44:14, 19 February 2019|declinedtalk=Draft:Modern_Films_Entertainment}}
+
+<!-- Start of message -->
+I do not understand why the page I am trying to publish has been declined. It is an introduction to a trading company with international reach - modernfilms.com.
+
+<!-- End of message -->[[User:Eve Gabereau|Eve Gabereau]] ([[User talk:Eve Gabereau|talk]]) 18:44, 19 February 2019 (UTC)
+:{{u|Eve Gabereau}} Hi, pls read the message on the grey panel and the comment from reviewer (under the grey panel). Click on the blue highlighted texts for further information. [[User:CASSIOPEIA|<b style="font-family:Georgia;font-size:80%;color:#FA0"> CASSIOPEIA</b>]]<sup>([[User talk:CASSIOPEIA|<b style="#0000FF">talk</b>]])</sup> 03:55, 20 February 2019 (UTC)
+
+== 19:54:49, 19 February 2019 review of submission by AUColonist ==
+{{Lafc|username=AUColonist|ts=19:54:49, 19 February 2019|page=
+[[Wes Phillips]]
+[[Dune (2020 film)]]
+}}
+I have created two articles, one for a person, and another for a film, both of which have been properly sourced. Both articles were then deleted with no explanation. I put a decent amount of work into both and I properly referenced all information.
+[[User:AUColonist|AUColonist]] ([[User talk:AUColonist|talk]]) 19:54, 19 February 2019 (UTC)
+Thank you, AUColonist
+:I can't figure out what drafts these are. [[User:Legacypac|Legacypac]] ([[User talk:Legacypac|talk]]) 01:58, 20 February 2019 (UTC)
+They were for the following entries:
+[[Wes Phillips]]
+[[Dune (2020 film)]]
+
+== 21:01:39, 19 February 2019 review of draft by Timetogetnasty ==
+{{Lafc|username=Timetogetnasty|ts=21:01:39, 19 February 2019|draft=User:Timetogetnasty/sandbox}}
+
+
+I would like to create an infobox and upload a logo for a product into it. Right now I just have a table in there but I realize that's not the same as the infobox I see on a lot of other articles. Thanks!
+
+[[User:Timetogetnasty|Timetogetnasty]] ([[User talk:Timetogetnasty|talk]]) 21:01, 19 February 2019 (UTC)
+
+:Copy an infobox from a company article and replace the data with the appropriate data here. The bigger issue is uou have no suitable reliable sources to support this page. [[User:Legacypac|Legacypac]] ([[User talk:Legacypac|talk]]) 02:02, 20 February 2019 (UTC)
+
+== 22:25:56, 19 February 2019 review of draft by TVLover12 ==
+{{Lafc|username=TVLover12|ts=22:25:56, 19 February 2019|draft=Draft:Paul_Edgecombe}}
+
+
+[[User:TVLover12|TVLover12]] ([[User talk:TVLover12|talk]]) 22:25, 19 February 2019 (UTC)
+
+Could you please delete Draft:Paul Edgecombe?
+
+:{{u|TVLover12}} Hi, Please place {{t|Db-G7}} on top of the draft page and "request page deletion by creator" on the edit summary box prior save/publish the edit. Admin will delete the page in a few hours after the edit made. Thank you. [[User:CASSIOPEIA|<b style="font-family:Georgia;font-size:80%;color:#FA0"> CASSIOPEIA</b>]]<sup>([[User talk:CASSIOPEIA|<b style="#0000FF">talk</b>]])</sup> 03:51, 20 February 2019 (UTC)
+::Tagged for deletion referencing this request [[User:Legacypac|Legacypac]] ([[User talk:Legacypac|talk]]) 20:52, 23 February 2019 (UTC)
+
+== 23:30:40, 19 February 2019 review of submission by Tigresj ==
+{{Lafc|username=Tigresj|ts=23:30:40, 19 February 2019|declined=Draft:Arthur_San_Juan}}
+
+
+The first photo is indeed a studio photo, provided by my grandma years ago to my mom, I have another one but not very good quality from the spanish magazine primer plano.
+
+Thanks Dan, Barbara and Yngvanottir for your updates and advises.
+
+[[User:Tigresj|Tigresj]] ([[User talk:Tigresj|talk]]) 23:30, 19 February 2019 (UTC)
+
+
+== 23:38:57, 19 February 2019 review of submission by 24.84.211.14 ==
+{{Lafc|username=24.84.211.14|ts=23:38:57, 19 February 2019|declined=Draft:Fuzzy_Greedy_Search}}
+
+[[Special:Contributions/24.84.211.14|24.84.211.14]] ([[User talk:24.84.211.14|talk]]) 23:38, 19 February 2019 (UTC)
+:Correctly rejected as not an article. [[User:Legacypac|Legacypac]] ([[User talk:Legacypac|talk]]) 05:03, 20 February 2019 (UTC)

@@ -1,0 +1,68 @@
+{{short description|Australian scientist}}
+{{Infobox scientist
+|name = Josephine Forbes
+|image = Professor Josephine Forbes.jpg
+|nationality = [[Australia]]n
+|field = [[Medicine]]<br />[[Diabetes]]<br />[[Nephrology]]
+|work_institutions = [[Mater Research]]
+|alma_mater = [[University of Melbourne]]
+|prizes = Commonwealth Health Minister's Award<br />Young Tall Poppy Award<br />NHMRC Achievement Award
+}}
+
+'''Josephine Forbes''' (born 20 August 1970) is an Australian scientist specialising in the study of [[glycation]] and [[diabetes]]. She has been studying diabetes since 1999 and has worked at Royal Children's Hospital, University of Melbourne and Baker Heart and Diabetes Institute in Melbourne Australia. Since 2012 she has led the Glycation and Diabetes team at [http://materresearch.org.au Mater Research] which is a world-class medical research institute based at South Brisbane, and part of the [http://www.mater.org.au Mater Group]. Josephine is program leader for Mater's Chronic Disease Biology and Care theme, building greater understanding of the biological basis of a broad range of chronic diseases, and developing preventative strategies and innovative treatments to improve patient outcomes. Josephine and her team focus on how advanced glycation contributes to the [[pathogenesis]] of [[diabetes]] and its complications such as [[kidney disease]].<ref name="mater-profile">{{cite web|title=Professor Josephine Forbes|url=http://www.materresearch.org.au/researchers/chronic-disease-biology-and-care/glycation-and-diabetes-complications/professor-josephine-forbes}}</ref>
+
+== Biography ==
+Professor Forbes currently leads a team of post-doctoral researchers and supervises numerous students, in addition to being a Professor of Medicine at the [[University of Queensland]] and a Principal Research Fellow in the Department of Medicine at the [[University Of Melbourne|University of Melbourne]].<ref name="the-conversation">{{cite web|url=https://theconversation.com/profiles/josephine-forbes-2637|title=Josephine Forbes|website=The Conversation|accessdate=7 August 2014}}</ref>
+
+Josephine is a [[scientist]] at heart, who likes to be close to discovery and innovation as she believes this is to be the key to the future health discoveries.<ref name="nhmrc">{{cite web|url=https://www.nhmrc.gov.au/research-highlights/profile/josephine-forbes|title=Josephine Forbes|publisher=[[National Health and Medical Research Council]]|accessdate=7 August 2014}}</ref>
+
+== Education ==
+Professor Josephine Forbes was awarded her PhD in [[Kidney disease|Nephrology]] in 1999 from the University of Melbourne, for research carried out at the Royal Children's Hospital. She is currently an [[NHMRC]] Senior Research Fellow and has held research grants from the NHMRC of Australia, the Juvenile Diabetes Research Foundation (JDRF) and the National Institutes of Health (USA).<ref name="mater-profile" />
+
+== Awards ==
+Professor Forbes has received many awards in recognition of her research:
+
+* 2002: Young Researcher Award, [[International Diabetes Federation]]
+* 2006: Millennium Award for T1 Diabetes, Diabetes Australia Research Trust (DART)
+* 2008: Young Tall Poppy Award, Australia Institute of Policy and Science<ref name="tall-poppy">{{cite web|title=2008 Victorian Award Winners|url=http://www.aips.net.au/tall-poppies/vic-tall-poppies/past-vic-tall-poppy-winners/2008-victorian-award-winners/associate-professor-josephine-forbes/|website=www.aips.net.au/|publisher=Australian Institute of Policy and Science|accessdate=7 August 2014}}</ref>
+* 2010: The [[National Health and Medical Research Council#Commonwealth Health Minister's Award for Excellence in Health and Medical Research|Commonwealth Health Minister's Award for Excellence in Health and Medical Research]] <ref name="nhmrc" />
+* 2010: NHMRC Achievement Award for highest ranked Career Development Award<ref name="career-award">{{cite web|title=Australia's best and brightest researchers recognised in 2010 NHMRC Excellence Awards|url=https://www.nhmrc.gov.au/media/releases/2010/australia%E2%80%99s-best-and-brightest-researchers-recognised-2010-nhmrc-excellence-awar|website=www.nhmrc.gov.au|publisher=Australian Government National Health and Medical Research Council|accessdate=7 August 2014|archive-url=https://web.archive.org/web/20140814065334/https://www.nhmrc.gov.au/media/releases/2010/australia%E2%80%99s-best-and-brightest-researchers-recognised-2010-nhmrc-excellence-awar|archive-date=14 August 2014|url-status=dead}}</ref>
+* 2014:  Women in Technology Life Science Award<ref name="WiTLifeScienceAward">{{cite web|title=Women in Technology Announce Their 2014 WiT Award Winners|url=http://www.wit.org.au/Resources/Documents/Media/Media%20Release%202014%20Winners.pdf}}</ref>
+* 2016:  World Science Festival - Women in STEM Prize; Judges Choice, http://www.chiefscientist.qld.gov.au/science-comms/programs-events/partner-up-queensland/2016-events 
+* 2017:  TJ Neale Award for Outstanding Contribution to Nephrological Science, Australian And New Zealand Society of Nephrology https://www.nephrology.edu.au/awardsfellowshipsandgrants/award-recipients.asp 
+* 2017:  Sr Regis Mary Dunne Medal for Outstanding Research Contribution to Mater Group. https://www.materresearch.org.au/News-and-events/Research-News/October-2017/Mater-Research-2017-Awards-for-Research-Excellence
+
+== Research ==
+Professor Forbes' research focuses on the process of advanced [[glycation]] and its contribution to [[diabetes]] and its complications, in particular [[kidney disease]]. Her recent work includes research into how advanced glycation of food by modern processing techniques and storage may be contributing to our diabetes epidemic.<ref name="the-conversation" />
+
+Her research aims to find medicines which reduce the accumulation of products of advanced glycation, which in turn will impact the incidence of diabetes and kidney disease. Her research also aims to provide information to food regulatory authorities and health care providers about advanced glycation in food and the implications of ingesting this in excess.<ref name="nhmrc" />
+
+So far this research has identified a class of medicines which appears to be effective for the treatment of kidney disease in diabetes, and also affects how our bodies process sugar. In the food area, she has conducted a clinical trial in overweight individuals examining the effects of advanced glycation products in food on their sugar handling and kidney function. Her team is also part of a large clinical trial tracking the consumption of advanced glycation products by mothers and their babies to see if there is an association with this and the development of Type 1 diabetes in later life.<ref name="nhmrc" />
+
+Her work to date has resulted in more than 100 publications with more than 4500 citations.
+
+== Fellowships ==
+
+* [[Juvenile Diabetes Research Foundation International|JDRF]] Post Doctoral Research Fellowship, 2002-2004
+* [[Juvenile Diabetes Research Foundation International|JDRF]] Career Development Award, 2005-2009
+* [[NHMRC]], RD Wright Career Development Award, 2005-2009
+* [[NHMRC]], Career Development Award level 2, 2010
+* [[NHMRC]] Senior Research Fellowship, 2011-2015
+* [[NHMRC]] Senior Research Fellowship, 2016-2020
+
+==References==
+{{reflist}}
+
+== External links ==
+*[https://web.archive.org/web/20140814060807/http://research.mater.org.au/Research/Understanding-and-Preventing-Disease/Metabolic-and-Cardiovascular-Disease/Glycation-and-Diabetes/Associate-Professor-Josephine-Forbes.aspx Mater Research staff profile]
+*[http://www.tri.edu.au/staff/josephine-forbes The Translational Research Institute staff profile]
+*[http://theconversation.com/profiles/josephine-forbes-2637 The Conversation profile]
+*[http://www.endia.org.au Environmental Determinants of Islet Autoimmunity ENDIA website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Forbes, Josephine}}
+[[Category:Living people]]
+[[Category:Australian women scientists]]
+[[Category:1970 births]]
+[[Category:Recipients of grants or fellowships from the National Health and Medical Research Council]]

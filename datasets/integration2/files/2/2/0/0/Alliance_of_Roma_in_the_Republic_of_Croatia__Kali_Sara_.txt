@@ -1,0 +1,101 @@
+{{Infobox organization
+| name                = Kali Sara
+| full_name           = Alliance of Roma in the Republic of Croatia "Kali Sara"
+| native_name         = 
+| native_name_lang    = 
+| logo                = Alliance of Roma in the Republic of Croatia "Kali Sara" Logo.png
+| logo_size           = 
+| logo_alt            = 
+| logo_caption        = 
+| image               = 
+| image_size          = 
+| alt                 = 
+| caption             = 
+| abbreviation        = 
+| nickname            = 
+| pronounce           = 
+| pronounce ref       = 
+| pronounce comment   = 
+| pronounce 2         = 
+| named_after         = 
+| motto               = 
+| predecessor         = 
+| merged              = 
+| successor           = 
+| formation           = July 2007
+| founder             = 
+| founding_location   = 
+| extinction          = 
+| merger              = 
+| type                = National coordination of the Romani people in Croatia
+| tax_id              = 
+| registration_id     = 
+| status              = Minority self-government organization
+| purpose             = Advocacy of rights and interests of the [[Romani people in Croatia]]
+| professional_title  = 
+| headquarters        = [[Zagreb]], Croatia
+| location2           = 
+| additional_location = 
+| additional_location2 = 
+| coordinates         = 
+| origins             = 
+| region              = 
+| services            = 
+| methods             = 
+| fields              = 
+| membership          = 
+| membership_year     = 
+| language            = 
+| owner               = 
+| sec_gen             = 
+| leader_title        = 
+| leader_name         = 
+| leader_title2       = 
+| leader_name2        = 
+| leader_title3       = 
+| leader_name3        = 
+| leader_title4       = 
+| leader_name4        = 
+| board_of_directors  = 
+| key_people          = 
+| main_organ          = 
+| parent_organization = 
+| subsidiaries        = 
+| secessions          = 
+| affiliations        = 
+| budget              = 
+| budget_year         = 
+| revenue             = 
+| revenue_year        = 
+| disbursements       = 
+| expenses            = 
+| expenses_year       = 
+| endowment           = 
+| endowment_year      = 
+| staff               = 
+| staff_year          = 
+| volunteers          = 
+| volunteers_year     = 
+| students            = 
+| students_year       = 
+| website             = {{URL|http://kalisara.hr/}}
+| remarks             = 
+| formerly            = 
+| footnotes           = 
+| bodystyle           = 
+}}
+
+The '''Alliance of Roma in the Republic of Croatia "Kali Sara"''' ({{lang-hr|Savez Roma u Republici Hrvatskoj "Kali Sara"}}, {{lang-rom|Kali Sara}}) is an organization of the [[Romani people in Croatia]].<ref name="Ljudska prava i prava nacionalnih manjina">{{cite web|url=https://pravamanjina.gov.hr/nacionalne-manjine/nacionalne-manjine-u-republici-hrvatskoj/romi/371|title=Romi|publisher=[[Government of Croatia]] (Office for Human Rights and Rights of National Minorities) |format= |date= | accessdate=1 May 2020}}</ref> Its seat is located in Croatian capital city of [[Zagreb]].<ref name="Ljudska prava i prava nacionalnih manjina"/> The organization was established in July 2007 and its first president was [[Veljko Kajtazi]], future member of the [[Croatian Parliament]].<ref name="Udruga-O nama">{{cite web|url=http://kalisara.hr/o-nama/|title=RomiO SAVEZU ROMA REPUBLIKE HRVATSKE "KALI SARA" |publisher=Alliance of Roma in the Republic of Croatia "Kali Sara" |format= |date= | accessdate=1 May 2020}}</ref> On the occasion of publication of the first Romani-Croatian dictionary in 2008, the Alliance initiated the signing of the ''Charter of the Romani Language'' which was signed by 157 individuals.<ref name="Udruga-O nama"/> On the date of the publication of the dictionary on November 5 (authored by the Alliance's president), the local and international Roma community celebrated the ''World Day of Romani Language''.<ref name="Udruga-O nama"/> The Croatian Parliament formally recognized ''Romani Language Day'' on May 25, 2012.<ref name="Sabor-Romani Language Day">{{cite web|url=https://www.vecernji.hr/vijesti/sabor-podrzao-inicijativu-o-5-studenom-danu-romskog-jezika-413816|title=Sabor podržao inicijativu o 5. studenom, Danu romskog jezika|publisher=[[Večernji list]]| format=|date=25 May 2012| accessdate=1 May 2020}}</ref> In 2015 [[UNESCO]] accepted the alliance's initiative to recognize the [[Romani language]] as a part of global cultural heritage by recognizing the World Day of Romani Language.<ref name="Srbi.hr">{{cite web|url=https://srbi.hr/veljko-kajtazi-srbe-i-rome-u-hrvatskoj-veze-puno-toga/|title=Veljko Kajtazi: „Srbe i Rome u Hrvatskoj veže puno toga“|publisher=Srbi.hr| format=|date=23 April 2020| accessdate=1 May 2020}}</ref> The formal proposal to UNESCO was made by the Republic of Croatia.<ref name="Anadolija">{{cite web|url=https://www.aa.com.tr/ba/balkan/hrvatska-deseto-obilje%C5%BEavanje-svjetskog-dana-romskog-jezika/1635199|title=Hrvatska: Deseto obilježavanje Svjetskog dana romskog jezika|publisher=[[Anadolu Agency]]| format=|date=4 November 2019| accessdate=1 May 2020}}</ref> In 2018, the Alliance published the monograph "''Kali Sara-The First Ten Years''".<ref name="HRT-10 Godina">{{cite web|url=https://vijesti.hrt.hr/443672/predstavljena-publikacija-kali-sara-prvih-deset-godina|title=Predstavljena publikacija 'Kali sara - prvih deset godina'|publisher=[[Hrvatska radiotelevizija]]| format=|date=14 May 2018| accessdate=1 May 2020}}</ref>
+
+==See also==
+*[[Minority languages of Croatia]]
+*[[Rights of the Roma in the European Union]]
+
+== References ==
+{{Reflist}}
+
+[[Category:Romani in Croatia]]
+[[Category:Human rights organizations based in Croatia]]
+[[Category:2007 establishments in Croatia]]
+[[Category:Organizations based in Zagreb]]
+[[Category:Romani rights]]

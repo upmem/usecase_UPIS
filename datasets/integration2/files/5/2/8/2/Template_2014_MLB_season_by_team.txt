@@ -1,0 +1,66 @@
+{{Navbox with columns
+|name    = 2014 MLB season by team
+|title   = [[2014 Major League Baseball season|2014 MLB season]] by team
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|fullwidth = true
+|colwidth = 50%
+
+|col1 = {{Navbox|child
+ |group1 = AL East
+ |list1 =
+* [[2014 Baltimore Orioles season|Baltimore]]
+* [[2014 Boston Red Sox season|Boston]]
+* [[2014 New York Yankees season|New York]]
+* [[2014 Tampa Bay Rays season|Tampa Bay]]
+* [[2014 Toronto Blue Jays season|Toronto]]
+ |group2 = AL Central
+ |list2 =
+* [[2014 Chicago White Sox season|Chicago]]
+* [[2014 Cleveland Indians season|Cleveland]]
+* [[2014 Detroit Tigers season|Detroit]]
+* [[2014 Kansas City Royals season|Kansas City]]
+* [[2014 Minnesota Twins season|Minnesota]]
+ |group3 = AL West
+ |list3 =
+* [[2014 Houston Astros season|Houston]]
+* [[2014 Los Angeles Angels season|Los Angeles]]
+* [[2014 Oakland Athletics season|Oakland]]
+* [[2014 Seattle Mariners season|Seattle]]
+* [[2014 Texas Rangers season|Texas]]
+}}
+
+|col2 = {{Navbox|child
+ |group1 = NL East
+ |list1 =
+* [[2014 Atlanta Braves season|Atlanta]]
+* [[2014 Miami Marlins season|Miami]]
+* [[2014 New York Mets season|New York]]
+* [[2014 Philadelphia Phillies season|Philadelphia]]
+* [[2014 Washington Nationals season|Washington]]
+ |group2 = NL Central
+ |list2 =
+* [[2014 Chicago Cubs season|Chicago]]
+* [[2014 Cincinnati Reds season|Cincinnati]]
+* [[2014 Milwaukee Brewers season|Milwaukee]]
+* [[2014 Pittsburgh Pirates season|Pittsburgh]]
+* [[2014 St. Louis Cardinals season|St. Louis]]
+ |group3 = NL West
+ |list3 =
+* [[2014 Arizona Diamondbacks season|Arizona]]
+* [[2014 Colorado Rockies season|Colorado]]
+* [[2014 Los Angeles Dodgers season|Los Angeles]]
+* [[2014 San Diego Padres season|San Diego]]
+* [[2014 San Francisco Giants season|San Francisco]]
+}}
+
+|belowclass = hlist
+|below  =
+* [[2014 Major League Baseball draft|2014 MLB draft]]
+* [[2014 Major League Baseball All-Star Game|2014 All-Star Game]]
+* [[2014 World Series]]
+* [[2014 MLB Japan All-Star Series|2014 MLB–Japan series]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Major League Baseball teams by season navigational boxes]]
+</noinclude>

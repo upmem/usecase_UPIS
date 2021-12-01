@@ -1,0 +1,48 @@
+{{Infobox mountain
+| name           = Mount Saint Mary
+| native_name    = Šmarna gora
+| photo          = Ljubljana (169) (3897559690).jpg
+| photo_caption  = View of Mount Saint Mary from [[Castle Hill (Ljubljana)|Castle Hill]]
+| elevation_m    = 676
+| elevation_ref  = 
+| prominence_m   = 
+| prominence_ref = 
+| map            = Slovenia
+| map_caption    = 
+| label_position = right
+| listing        = 
+| location       = [[Slovenia]]
+| range          =
+| coordinates    = {{coord|46|7|47|N|14|27|49|E|type:mountain_scale:100000|format=dms|display=inline,title}}
+| coordinates_ref= 
+| topo           = 
+| type           = 
+| age            = 
+| first_ascent   =
+| easiest_route  =
+}}
+'''Mount Saint Mary'''<ref>Bratina Jurkovič, Nataša. 2014. "[http://urbani-izziv.uirs.si/Portals/uizziv/papers/urbani-izziv-en-2014-25-01-003.pdf Perception, Experience and the Use of Public Urban Spaces by Residents of Urban Neighbourhoods]". ''Urbani izziv'' 25(1): 107–125, p. 117.</ref><ref>{{cite book |last1=Osti |first1=Josip |title=All Loves Are Extraordinary |date=2018 |publisher=Gatekeeper |location=Columbus, OH |isbn=9781642372465 |url=https://books.google.com/books?id=hSt1DwAAQBAJ&q=%22Mount+Saint+Mary%22+%22ljubljana%22&pg=PT90 |accessdate=November 2, 2018}}</ref><ref>{{cite news |last1=Owen |first1=Erika |title=20 One-Week Vacations to Take Between Jobs |url=https://www.travelandleisure.com/trip-ideas/in-between-jobs-vacations |accessdate=November 2, 2018 |work=Travel & Leisure |agency=Meredith Corporation |date=August 5, 2016}}</ref> ({{lang-sl|Šmarna gora}}, {{lang-de|Großkahlenberg}}<ref>''Laibach'' (map, 1:75,000). 1918. Vienna: K.u.k. Militärgeographisches Institut.</ref><ref name="Leksikon">''Leksikon občin kraljestev in dežel zastopanih v državnem zboru,'' vol. 6: ''Kranjsko''. 1906. Vienna: C. Kr. Dvorna in Državna Tiskarna, p. 115.</ref>), originally known as '''Holm''',<ref>{{cite web |url=http://www.smarnagora.com/index_en.php?page=ogori |title=About Šmarna gora |work=Šmarna gora |accessdate=6 September 2015}}</ref> is an [[inselberg]] in the north of [[Ljubljana]], the capital of [[Slovenia]]. The mountain is part of the city's [[Šmarna Gora District]]. It is the highest hill in the city and a popular hiking destination.<ref name="Geopedia2012-01-30">{{cite web |url=http://geopedia.si/#T105_L410_F10110084_x459056_y109604_s15_b4 |title=Settlements: Ljubljana |publisher=Geopedia.si |accessdate=30 January 2012}}</ref><ref>{{cite web |url=http://www.burger.si/SmarnaGora/uvod_ENG.html |title=Šmarna gora |work=Slovenia-Landmarks |first=Boštjan |last=Burger |accessdate=30 January 2012}}</ref>
+
+The mountain, with the shape of a [[Bactrian camel|two-hump camel]] or woman's [[breast]]s,<ref>{{cite journal |url=http://www.ljubljana.si/file/1273895/varna-pot-februar-2013_finalno---web.pdf |title=Gora na pragu Ljubljane |language=Slovenian|trans-title=The Mountain at the Threshold of Ljubljana |journal=Varna Pot |volume=12 |issue=4 |date=December 2012 |publisher=Svet za preventivo in vzgojo v cestnem prometu Mestne občine Ljubljana |issn=1580-6995}}</ref> has two peaks: Mount Saint Mary ({{lang|sl|Šmarna gora}}; {{convert|669|m|ft|disp=comma}}) to the west and Grmada ({{convert|676|m|ft|disp=comma|abbr=on}}) to the east. In clear conditions, the mountain offers a wide view. To the north, it is possible to see [[Triglav|Mount Triglav]] and [[Stol (Karawanks)|Mount Stol]], and in the southern directions [[Krim (mountain)|Mount Krim]], [[Snežnik|Mount Snežnik]], and [[Sveta Gera|Trdina Peak]] ({{lang-sl|Trdinov vrh}}). The nearby hills are Bare Hill ({{lang|sl|Golo brdo}}), [[Toško Čelo|Tošč Face]] ({{lang|sl|Toško čelo}}), [[Rožnik (hill)|Rožnik]], and [[Rašica, Ljubljana|Rašica]].
+
+The hill is surrounded by the villages of [[Vikrče]] and [[Spodnje Pirniče]] to the west, [[Zavrh pod Šmarno Goro]] to the north, and the former villages (now part of Ljubljana) of [[Šmartno pod Šmarno Goro]] and [[Tacen]] to the southeast.
+
+The southern side of the mountain has trees such as [[Quercus pubescens|downy oak]] and [[Ostrya carpinifolia|hop hornbeam]], and the northern side is covered by a beech forest.
+
+The bell tower on the top of the mountain rings each day half an hour before midday.<ref>{{Cite web|url=http://www.smarnagora.com/index.php?page=ogori&pg=zgodovina|title=Smarna gora|website=www.smarnagora.com|access-date=2016-04-13}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.smarnagora.com/index_en.php Mount Saint Mary website]
+* {{commonscat-inline|Mount Saint Mary}}
+<br />
+{{Ljubljana}}
+
+[[Category:Hills of Slovenia]]
+[[Category:Geography of Ljubljana]]
+[[Category:Šmarna Gora District]]
+
+
+{{Slovenia-geo-stub}}

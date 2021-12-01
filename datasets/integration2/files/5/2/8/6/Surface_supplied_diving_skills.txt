@@ -1,0 +1,380 @@
+{{Short description|Skills and procedures required for the safe operation and use of surface-supplied diving equipment }}
+[[File:Commercial diver training at Blue Rock Quarry P3233799.JPG|300px|thumb|upright=1.5|Commercial surface supplied diver training in a flooded quarry]]
+
+'''Surface supplied diving skills''' are the skills and procedures required for the safe operation and use of surface-supplied [[diving equipment]]. Besides these skills, which may be categorised as standard operating procedures, emergency procedures and rescue procedures, there are the actual working skills required to do the job, and the procedures for safe operation of the work equipment other than diving equipment that may be needed.
+
+Some of the skills are common to all types of surface-supplied equipment and deployment modes, others are specific to the type of bell or stage, or to [[saturation diving]]. There are other skills required of divers which apply to the surface support function, and some of those are also mentioned here.
+
+==Basic skills==
+The basic skills and procedures of surface supplied diving are those skills that the diver may reasonably be expected to use during a dive when everything goes according to plan, and there are no emergencies. Many [[scuba skills]] are also common to surface supplied diving.
+
+===Preparing the surface supplied diving equipment===
+The work of setting up the diving equipment on site is generally done by all members of the diving team, and they are usually all expected to be competent at all aspects of this work. The work is supervised and quality control is the responsibility of the diving supervisor, but any specific item may be delegated to the divers and attendants in the team. Checklists are commonly used to ensure that nothing is omitted and indicate completion. Most equipment is function tested as far as practicable during setup, and may be rechecked when dressing in the diver, and again on entering the water, as some checks can only be done in the water. The work may be described under the following headings:<ref name="IDSA" />
+*Setting up the gas supply - Main and backup breathing gas supply may be from a low pressure[[Breathing air compressor|Compressor]], High pressure storage cylinders ("{{diving term|bomb}}s"), manifolded banks of HP cylinders ("{{diving term|quad}}s") or large volume high pressure gas containers ("({{diving term|Kelly}}) {{diving term|tube}}s"), Gas is distributed to the divers from a [[Surface supplied diving#Gas panel|gas panel]], and [[Umbilical cable#Diving|umbilicals]]. The primary gas supply is set up and connected to the gas supply control manifold (gas panel). The backup gas supply must also be connected to the gas panel so that it can be accessed with minimum delay.<ref name="Larn and Whistler 1993 Ch9" /> The divers' umbilicals must be connected up to the gas supply, blown through to ensure there are no contaminants, and connected to the helmet or full-face mask.
+*Setting up the [[Diver communications#Voice communications|Communications panel]] - Most surface supplied diving uses voice communications which is generally transmitted by a cable in the umbilical which must be connected to the helmet or full-face mask and to the communications panel at the surface and tested for function and quality of sound before use.
+*Checks of personal equipment (carried or worn by the divers) include:
+**That the bailout cylinders are fit for use, contain enough of the appropriate gas for the planned dive, and the cylinder valves function correctly.<ref name="Larn and Whistler 1993 Ch9" /> 
+**That the bailout regulators are correctly fitted to the cylinders, have no leaks when pressurised, and no visible damage that might affect function or safety.<ref name="Larn and Whistler 1993 Ch9" />
+**That the non-return valves for the surface supply gas connection on the bailout manifolds are functioning correctly.<ref name="Larn and Whistler 1993 Ch9" />
+*The divers' helmets or full-face masks are connected to the umbilical main gas supply hose and communications cable, and that the gas supply and communications system are working correctly.
+*Setting up the stage or bell and its launch and recovery system
+*Setting up the hot-water supply if applicable
+*Setting up the [[decompression chamber]] if applicable
+
+===Dressing in the diver===
+[[File:Cargo plane search DVIDS161995.jpg|thumb|Locking the helmet to the yoke]]
+Some surface supplied diving equipment is heavy and cumbersome, and the diver is usually assisted with dressing in by a diver's attendant, who is often also a diver, so the skills of assisting a diver to dress in are necessary for the diver.<ref name="IDSA" /> The equipment involved includes:
+*[[Diving suit|Exposure suit]] - Wetsuit, dry suit or hot water suit.
+*Harness - with [[bailout cylinder]], [[Buoyancy control device]] if applicable
+*[[Diving weights|Weighting system]]
+*[[Swimfins|Fins]] or boots as applicable for the planned work
+*[[Full-face mask]], [[Full face diving mask#Band masks|band-mask]] or [[Diving helmet|helmet]]
+*Other accessories and task specific tools
+
+===Pre-dive checks===
+Pre-dive checks are done by the dive team as a group, with the tender and diver working together and reporting results to the supervisor. Most checks are done before the diver is committed to the water, but some can only be done with the diver in the water. Before a dive the equipment must be thoroughly checked that it is suitable for the dive and in good working order, particularly those components which are part of the life-support system - the breathing apparatus, which includes:<ref name="Larn and Whistler 1993 Ch9" />{{rp|171–2}}
+*Non-return valve test (safety critical)
+*Main air supply
+*Bailout check
+*Comms check
+*Visual check of the diver - check that the diver is fully dressed for the dive, with zips closed, weights in place, harness fastened and umbilical connected to helmet and harness, and if applicable, to the hot-water suit.
+In-water checks include:
+*Breathing gas flow
+*Helmet or mask leaks
+*Dry suit leak check
+*Pneumofathometer bubble test
+*Voice communications check with head immersed
+
+===Demisting the faceplate===
+Most demand helmets and bandmasks have a valve to provide free-flow gas to the diver from a manually operated by-pass valve which usually directs the gas-flow over the interior surface of the faceplate/viewport. This flow of gas will blow off large water droplets and evaporate small droplets and light condensation, leaving the viewport clear.  Though it tends to be noisy and wasteful of gas, it is trivially simple to do, does not require much practice, and is not safety critical. It is also done often in cold water. Some free-flow helmets and a few models of full-face mask pass the inlet air over the faceplate as default, and are thereby self-defogging.
+
+===Clearing a flooded helmet or full-face mask===
+There are two ways to clear a demand helmet of water: The free-flow valve may be opened, or the purge button of the demand valve may be pressed, either of which will cause any water above the exhaust port to be driven out. The same procedures can be used on a full-face mask which has both of these facilities. Some full-face masks do not have a free-flow option, and they are cleared by purging.<ref name="Larn and Whistler 1993 Ch9" />{{rp|181}}<ref name="IDSA" />
+
+Flooding of a free-flow helmet may be managed by increasing flow rate and either opening the neck seal with the fingers or tilting the head to allow the water to flow out through the exhaust port.<ref name="Larn and Whistler 1993 Ch9" />{{rp|182}}
+
+===Adjusting the breathing resistance===
+{{see also|Surface supplied diving#Lightweight demand helmets}}
+The pressure of the breathing gas supply to a surface supplied diver is set at the gas panel, and does not automatically compensate for small depth changes the way most open circuit scuba first stages operate. To compensate for small variations due to moving around the workplace and variations in posture, the surface supplied demand helmet or full-face mask may be provided with a second stage valve spring tension adjuster screw, commonly referred to as "dial-a-breath", which allows the diver to make adjustments to compensate for these variations. The knob can usually control cracking pressure from free-flow through to quite hard to breathe, and will usually compensate adequately for depth variations in the order of tens of metres. This skill is also well practiced by most divers, and is used on most dives. The knob is usually first adjusted during the pre-dive checks, and after that whenever the diver feels the need.
+
+===Voice communication===
+[[File:Inside a KM37 diving helmet PA268016.jpg|thumb|The headphones and microphone inside a KM37 diving helmet]]
+{{See also|Diver communications#Voice communications}}
+Correct and effective voice communication is necessary for both safety and efficient underwater work. The skills are learned during training and exercised on almost every working dive. Voice communication protocols involve speaking clearly, providing the required information unambiguously and succinctly, checking that the information has been received and correctly understood, and taking turns to speak. This is basically the same as radio voice protocol for other purposes, but the vocabulary may vary according to the operational circumstances.<ref name="USNDM R6" /><ref name="Bevan 2005 Ch6.2" /><ref name="IDSA" />
+
+====Loss of voice communications====
+Loss of voice communications is not a directly life-threatening situation, but the risk of not being able to deal with an emergency is greatly increased as the surface team is unable to monitor the condition of the diver effectively and the diver is severely limited in the ability to communicate a problem to the backup personnel, reducing the chances of prompt response in an emergency. The diver will generally communicate the problem to the surface by rope signals and abort the dive.<ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}7}}
+
+===Rope signals===
+{{See also|Diver communications#Rope signals}}
+The original method of communication between diver and surface was by pull signals on the lifeline, and these remain a useful emergency backup system. Divers are trained in rope signals, but the set of signals may vary regionally. The US Navy and UK rope signals are different.<ref name="USNDM R6" /><ref name="Bevan 2005 Ch6.2" /><ref name="IDSA" />
+
+===Umbilical management===
+{{anchor|Surface umbilical management}}
+There are two aspects of umbilical management: By the diver, and by the attendant. They work together to keep the umbilical from twisting, restraining the diver's movements, entanglement, and excess slack. The tender will control the amount of umbilical in the water, recover excess slack and coil it ready for further use. The tender may also be required to assist the diver's ascent by hauling in the umbilical ad the correct rate to facilitate decompression, and by locking off/belaying at the decompression stops. When diving from a bell, the bellman is the tender to the working diver.<ref name="IDSA" />
+
+===In-water decompression===
+{{see also|Decompression practice#Staged decompression}}
+
+A decompression stop is a period a [[Underwater diving|diver]] must spend at a relatively shallow constant depth during ascent after a dive to safely eliminate absorbed [[inert gas]]es from the body tissues to avoid [[decompression sickness]]. The practice of making decompression stops is called staged decompression,<ref name="Buhlmann 1984" /><ref name="Boycott" /> as opposed to continuous decompression.<ref name="Bert" />
+
+The surface supplied diver is informed of the requirement for decompression stops, and if they are needed, the depths and durations of the stops, by the diving supervisor, who uses [[decompression tables]],<ref name="USNDM R6" /> or software planning tools. The ascent is made at the recommended rate until the diver reaches the depth of the first stop. The diver then maintains the specified stop depth for the specified period, before ascending to the next stop depth at the recommended rate, and follows the same procedure again. This is repeated until all required decompression has been completed and the diver reaches the surface.<ref name="Buhlmann 1984" /> Once on the surface the diver will continue to eliminate inert gas until the concentrations have returned to normal surface saturation, which can take several hours, and is considered in some models to be effectively complete after 12 hours,<ref name="Air table" /> and by others to take up to, or even more than 24 hours.<ref name="Buhlmann 1984" />
+
+===Surface decompression===
+{{See also|Decompression practice#Surface decompression}}
+Effective surface decompression requires the diver to get from the last in-water stop into the decompression chamber and be compressed to the correct pressure within 5 minutes, or increase the risk of decompression sickness sufficiently to incur a penalty of additional chamber decompression to compensate for the increased risk,. This requires the diver to get off the stage, and with the aid of the surface crew, strip off the dive gear and climb into the chamber entry lock, and for the surface crew to assist effectively and have the chamber main lock ready at the appropriate pressure. These skills are learned during training for the appropriate class of diving, and are practiced during each dive with planned surface decompression. Depending on the employment of the diver and the contracts gained by the contractor, this may happen often, seldom or never, so the skill may or may not be kept well honed. The skills of operating a chamber for surface decompression may also be required of the diver, but will not be used by the diver during a dive, only when doing surface support duty.
+
+==Emergency procedures==
+[[File:Navy Diver.jpg|thumb|The bailout cylinder is carried for emergency gas supply]]
+Emergency procedures are the standardised and learned procedures for dealing with the reasonably foreseeable emergencies that may occur during a dive when equipment fails or environmental difficulties interrupt correct function. The diver is normally trained to manage these emergencies sufficiently to prevent injury and reduce them to an inconvenience which will usually require the dive to be aborted., though temporary interruptions to main gas supply can sometimes be fully resolved at the surface.<ref name="IDSA" />
+
+===Bailout to emergency gas supply===
+Loss of breathing gas is a safety-critical malfunction, and must be manageable by the diver without outside assistance over the short term.<ref name="IDSA" />
+The diver generally carries an emergency scuba gas supply connected to the helmet or bandmask at the bailout valve, or to the full-face mask via a bailout block. If the main gas supply fails, the diver opens the bailout valve and emergency gas is supplied through the same final delivery system that provides breathing gas under normal circumstances.<ref name="Larn and Whistler 1993 Ch9" />{{rp|182}} There is generally no requirement to change the helmet or mask, which reduces the complexity of the response and the number of possible complications or further failure modes. Bailout is reverted by closing the bailout valve after another supply has been provided, either through the main supply of the umbilical, or from a pneumofathometer hose. The bailout cylinder is usually back-mounted and it is often not possible for the diver to reach the cylinder valve, so it is opened at the start of the dive, and checked regularly during the dive to ensure that the pressure does not drop. The bailout valve on the helmet is kept closed until it is needed to ensure that emergency gas is not used until it is needed. This is referred to by divers as "on at the back, off at the hat" and similar expressions.
+
+When bailing out on a free-flow helmet the flow rate must be reduced to a practicable minimum to conserve air, and the dive terminated immediately.<ref name="Larn and Whistler 1993 Ch9" />{{rp|182}}
+
+===Breathing from a pneumofathometer hose===
+The pneumofathometer hose has a smaller bore than the main breathing gas hose of the umbilical, but it is connected to the same gas supply at the gas panel, and can be used as a secondary route for surface supplied breathing gas for the diver if the main hose malfunctions. The open end of the pneumo hose can be inserted under the neck seal of the helmet or the face seal of a full-face mask, unless the helmet is sealed to the suit to prevent contamination by a hazardous environment. This is colloquially known as pneumo-breathing, and is a useful adjunct to the bailout set, as the gas supply is less limited. Pneumo-breathing may be used during the exit from a dive aborted after main gas hose failure as it allows the emergency gas supply to be conserved in case of a further failure.<ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}7}}
+
+===Dealing with vomiting in the helmet===
+There is a risk of aspiration of vomit trapped in the helmet air passages, with possibly fatal consequences. This problem is greatest in helmets and full-face masks with internal oro-nasal masks, where it will pass into the demand valve, and that which does not exit through the exhaust ports, will be an aspiration hazard unless flushed out before the next inhalation. A different problem occurs in free-flow helmets - there is less chance of aspiration, but vomit remains in the helmet or drains through into the diving suit, which is unpleasant, but not life-threatening. It may be possible to flush it out through the neck seal.
+
+===Dealing with a broken faceplate===
+The transparent faceplates of most helmets in current use are highly impact resistant and not easily damaged to the extent that they leak dangerously. If this does occur, the free-flow valve can be opened to increase internal pressure to reduce leak flow and purge the helmet of water. Tilting the helmet forward to lower the front will bring the faceplate down and may also reduce leakage and will help purge water from the helmet.<ref name="IDSA" />
+
+===Hot water supply malfunction===
+*In the event of a suit heating water supply failure that cannot be resolved promptly, the diver will abort the dive. This is a serious problem for divers using helium based breathing gas as heat loss is rapid and the risk of hypothermia is high.<ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}7}}
+*Temperature problems: If the water supply is too hot or too cold, the diver can adjust the flow rate which can help with small deficiencies, If the temperature is scalding the supply must be shut off at the suit immediately until corrected. Too cold can be tolerated without injury, but unless it can be corrected promptly the dive will be terminated. If a thin wet-suit is worn under the hot-water suit the diver can tolerate greater temperature variations with less chance of injury.
+
+=== Snagged umbilical ===
+A snagged umbilical is a high risk contingency as the diver may be constrained from surfacing, and would be investigated immediately. If the diver cannot deal with the situation the standby diver would be sent in to assist.<ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}7}}
+
+=== Dry suit or buoyancy compensator blowup ===
+The possible consequences of a dry suit blowup are similar to a BCD blowup, and the method of management fairly similar. The instinctive reaction of trying to swim downwards is usually counterproductive, as it will prevent the automatic dump valve from releasing excess gas, while at the same time inflating the suit legs, making it difficult to fin, and if the boots slip off, impossible to fin. The diver must ensure that the dump valve is fully open, at the high point of the suit, and urgently disconnect the inflation hose. Many suits will release air at the neck or cuff seal if those are the highest point of the suit. It may be necessary to descend after this to compensate for rapid ascent, and to do this it may be necessary to dump gas from the BCD. After achieving neutral buoyancy, a normal ascent is usually possible, as it is seldom necessary to add air to the suit during ascent. The type of [[Dry suit#Inflation hose|inflation hose]] connection can make a large difference to the urgency of the situation. The CEJN connector allows a much faster gas flow than the Seatec quick disconnect fitting, and the Seatec is considered safer by the [[Doing It Right (scuba diving)|DIR community]] for this reason.
+
+=== Dry suit flood ===
+{{see also|Dry suit#Suit flooding}}
+A leak dry suit leak can be anything from a trickle of water through the cuff seal to a rapid escape of gas through a torn neck seal or damaged (or open) zipper followed by ingress of a large volume of water. There are two aspects to a catastrophic flood which put the diver at risk.<ref name="Dry suit diving" />
+
+Damage to the lower part of the suit can cause a sudden inrush of very cold water for winter users, or an inrush of contaminated water or chemicals for hazmat divers. This may not materially affect buoyancy during a dive, and the urgency of dealing with the problem is mainly due to the hypothermia or contamination hazard. A normal ascent should be possible, but exiting the water may be difficult due to the weight of water trapped in the suit.<ref name="Dry suit diving" />{{rp|ch.3}}
+
+Damage to the upper part of the suit can cause a sudden venting of the air, resulting in a loss of buoyancy and possible uncontrolled descent, followed by flooding. The buoyancy loss may be so much that it cannot be supported by the buoyancy compensator. In this case alternative measures must be taken. The simplest case is to ditch sufficient ballast weight to allow the buoyancy compensator to regain neutral buoyancy, but this is not always possible, as there may not be sufficient ditchable weight to drop.<ref name="Dry suit diving" />
+
+The surface supplied diver can rely on the tender to compensate for loss of buoyancy by pulling up on the umbilical, or belaying the umbilical, allowing the diver to climb it, which may be safer if the umbilical passes over sharp edges or places where it may snag, making this a much lower risk problem than for a scuba diver. A badly flooded suit may contain so much water that the diver cannot climb out of the water because of the weight and inertia. In this case it may be necessary to cut a small slit in the lower part of each flooded leg to let water drain out as the diver rises out of the water. This will take some time depending on the size of the holes, and agility will be seriously compromised while draining. If the exit is urgent or dangerous, larger drain holes will let the diver exit more quickly. The damage should not be difficult to repair if the slits are cut with reasonable care.<ref name="Dry suit diving" />
+
+==Rescue procedures==
+Rescue procedures are the responsibility of the standby diver, who may be a surface standby diver or the bellman. When two divers are working together each will be standby to the other, but there will generally be a surface standby diver and/or bellman as well for backup.<ref name="IDSA" /><ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}8}}<ref name="IMCA D022 2016 12.9" />
+
+===Assisting a trapped diver===
+It is usually possible for trapped diver to inform the surface of the problem, so the standby diver can tool up for the job. Unless the entrapment also cuts off the main breathing gas supply, entrapment is not generally immediately life-threatening. Assessing the problem is also facilitated if diver has hat video.<ref name="IDSA" /><ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}8}}
+
+===Rescue of an incapacitated diver===
+[[File:Rescue tether P6190002.jpg|thumb|left|Surface supplied diver rescue tether with soft eye and bolt snap]]
+An incapacitated diver is a diver who is unable, for some reason, to get themself to a place of safety, and for whom the intervention of a rescuer is necessary for survival. A variety of conditions may result in several forms of incapacitation. The most common form is a loss of consciousness or reduced level of consciousness, but severe injury and entrapment can also occur.
+
+*The standby diver may be provided with a rescue tether, a short length of rope attached to a D-ring on the harness, with a clip which can be attached to the incapacitated diver, allowing the rescuer to support and carry the casualty while retaining the availability of both hands for other purposes.
+*When diver loses consciousness for no externally obvious reason, there is a possibility that the problem is associated with the main breathing gas supply. The rescuer will generally switch the casualty's supply to bailout gas immediately, and then provide pneumo gas to conserve bailout supply.
+{{expand section|date=September 2019}}
+
+===Rescue of an unconscious diver===
+*Switch to alternative gas supply if possible that the gas was the problem. Bailout scuba can be used if necessary, but pneumo supply from the rescuer is pereffed in most cases as it leaves the bailout available and bypasses the casualty's demand valve, which can reduce work of breathing.
+*Recovery of diver to bell, stage, or surface. The diver must be transported to a place secure enough to provide first aid. The bell allows the divers to be surfaced with the best available security and surface assistance.
+*It is possible to provide [[expired air resuscitation]] in a wet or dry bell. The risk of drowning for both divers is much higher in a wet bell as the helmets must be removed, and the unconscious diver must be suspended upright with their head in the air space.
+*The rescuer may make use of use of a [[rescue tether]] to support the casualty so that the rescuer has the use of both hands. This can be useful if the rescuer has to negotiate obstacles or manage umbilicals to prevent snagging.
+{{expand section|date=September 2019}}
+
+===Umbilical changeout===
+In event of an irretrievably snagged or damaged umbilical and a need for in-water decompression, the original umbilical can be detached from helmet and harness and a replacement fitted in the water by a standby diver. The method is simple - the new umbilical is secured to the diver's harness, the diver goes onto bailout, the gas supply on the original umbilical is shut down, and the umbilical connections are disconnected using the appropriate spanners (wrenches). The replacement gas supply hose is blown through to clear it of water, and fitted to the helmet. Communications cables are usually suitable for wet-connection, and this can be done if desired. The original umbilical may be disconnected from the harness and cleared from the diver if this will help.
+
+==Stage diving procedures==
+[[File:USNS-Grasp-Diver-On-Stage.jpg|thumb|Two divers ride a stage to the underwater workplace]]
+A diving stage or basket is used to lower divers to the underwater work site and raise them back to the surface after the dive. This provides a relatively safe and easy way of entering the water and getting out again onto the deployment platform. In-water decompression is facilitated as the stage can be held at a reasonably constant depth. The divers' umbilicals are continuous and are tended from the surface.<ref name="IDSA" />
+
+When divers leave the stage to work underwater under normal conditions they leave from the opposite side to that on which they entered, ensuring that their umbilicals pass through the framework of the stage, so they can be sure of finding their way back to the stage at the end of the dive. If it is necessary for any reason to abandon the stage, the divers leave it on the same side that they entered, so that the umbilicals do not pass through the stage, and can be used to lift or lead the divers to the surface.
+
+==Routine wet bell procedures==
+[[File:Dykkerklokke.jpg|thumb|left|Wet bell on a ship-mounted launch and recovery system.]][[File:Deck decompression chamber PA197922.jpg|thumb|Deck decompression chamber PA197922]]
+Surface decompression is more common with stage and wet bell diving, which provide a better controlled ascent and exit from the water, but the procedures are much the same as described [[#Surface decompression|above]]
+
+===Preparation of the bell===
+The bell must be prepared for the dive, and this work is generally done by divers, though not all is necessarily done by the divers who will be on that specific dive.
+
+===Descent and ascent===
+The bellman is responsible for ensuring that the bell and its occupants are ready for descent or ascent, and associated for communications with the surface, though the diver can mention important things the bellman may have missed, and either diver can call a halt to lifting or lowering for reasons such as a difficulty in equalising.
+
+===Monitoring at the bell===
+The bellman will normally stay in the bell and tend the working diver's umbilical, as well as monitoring communications with the diver, main supply and on-board gas pressures at the bell panel, and emergency signals if the voice communications system fails. The bellman will also signal the diver to return to the bell if voice communications or main gas supply fails.
+
+===Operation of the wet bell gas panel===
+
+===Lock-out===
+The term is used as an analogy for locking out of a closed bell, but there is no pressure tight lock involved. The working diver will lock out of a wet bell on instruction from the supervisor, with a short length of umbilical, and make an integrity check of the bell. This will normally include a check that the main lifting cable is secure, the bell umbilical is clear and secure, the guide wires (clump weight lifting cable) are clear and secure, and the bell does not appear to be at risk of fouling on any nearby structure or feature. The diver will report back that the bell integrity is OK and that they are leaving the bell to go to the work site.
+
+===Umbilical management===
+The procedures are very similar to [[#Surface umbilical management|surface umbilical management]], but the bellman is the attendant.
+*The bellman tends the working diver from the bell, minimising slack and twists in the umbilical. 
+*Umbilicals are racked on the bell. The length is commonly about 30m, as this allows sufficient excursion distance for most operations, and is reasonably easy to rack, but can be longer or shorter if needed.<ref name="IMCA D022 2016 10.3" />
+*The diver's umbilical length is generally limited to prevent the diver from reaching hazard zones from the bell. The umbilicals may be tied off at the racks to limit the deployable length to about 5m less than the shortest distance to the hazard,<ref name="IMCA D022 2016 10.3" /> or in-water tending may be used.
+*The bellman's umbilical is generally 2m longer than working diver's to make it easier to reach the diver in an emergency.<ref name="IMCA D022 2016 10.3" />
+*The umbilical chosen may be positively, neutral or negatively buoyant, depending on which is most appropriate to the circumstances of the job.
+*Both diver and bellman monitor the diver's umbilical for excess slack. If the bellman takes up slack but the diver still has slack, the umbilical may be fouled, and the diver will generally follow the umbilical back towards the bell to clear it.
+
+====In-water tending====
+It may be necessary to use an in-water tender as well as the bellman to allow the working diver to access a work site when the length of umbilical necessary to reach the work site is long enough to allow the diver to reach a hazard. It may alternatively be possible to use an unmanned tending point to restrict the ability of the diver to reach a hazard. The position of the in-water tender is chosen to restrict the distance between the tender and working diver so that last section of the umbilical between diver and tender is short enough to prevent the diver from reaching the hazard. An in-water tender may also be used where the diver uses an extended umbilical or enters an enclosed space, to enhance safety or to facilitate handling of the umbilical.<ref name="IMCA D022 2016 8.22" />
+
+An unmanned tending point is an object provided between the bell and the work site through which the diver passes on the way to the work site, and which allows free movement of the umbilical in the length directions, but constrains it from moving a significant distance vertically or laterally. A large, heavy metal hoop or rectangular frame, or a spare diving stage are suitable for this purpose.<ref name="IMCA D022 2016 8.25" />
+
+==Emergency wet bell procedures==
+
+===Dynamic positioning alarm and runout response===
+{{see also|Dynamic positioning#Failure}}
+Degradation of dynamic position control, also known as runoff, can be a threat to safe diving operations, including possible injury or loss of life. Incident records indicate that even vessels with redundant dynamic positioning systems are subject to occasional loss of position, which can be due to human error, procedural failure, dynamic positioning system failures, or bad design.<ref name="Castro 2015" />  The three DP status codes are green, amber and red.<ref name="Kongsberg" />
+*Code green indicates normal operational status. The vessel is holding position within specifications and diving operations can proceed as planned.
+*Code amber indicates degraded operational status where safe working limits have been exceeded and heading or position may be at risk. Divers return to the bell immediately, stow umbilicals, and stand by for further developments and instructions.<ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}8}}
+*Code red indicates an emergency where loss of position may be inevitable or is already occurring. Divers return to the bell without delaying to retrieve tools and prepare for immediate ascent. The bell can not be recovered until the umbilicals have been safely stowed.<ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}8}}
+
+===Bell gas panel operation===
+The bellman is responsible for the operation of the bell gas panel. This includes switching between surface supplied gas delivered via the bell umbilical to on-board gas stored in high pressure gas cylinders racked around the bell. The default gas supply is from the surface, but the on-board supply must be used if the surface supply fails for any reason, or there is reason to suspect that it may be contaminated or the mix is wrong for the depth, and may be hypoxic or hyperoxic. The bell gas panel may also be used to control the water level in the dome of a wet bell, and to produce bubble signals in the event of voice communications failure.
+
+===Rescue of the working diver===
+The bellman is an in-water standby diver and backup to the working diver. The bellman will usually stay in the bell and tend the working diver's umbilical, but is also expected to be available for immediate deployment to assist the working diver and recover the diver to the bell if this becomes necessary. Procedures are basically similar to those for a surface standby diver, but the bellman must manage their own umbilical, usually by placing it all outside the bell so that it can run free under tension. Recovery of the distressed diver into the bell is also done entirely by the bellman, and a lifting tackle may be provided to facilitate hoisting the diver to the airspace and securing them in place. The bellman will also ensure that the umbilicals of both divers are stowed before ascent to reduce the risk of them snagging.<ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}8}}
+
+===Bell abandonment===
+The divers exit the bell and ascend on the lifting cable or, depending on circumstances, some other line leading to the surface. Umbilicals should be managed to limit snagging risk, and may have to be tended by the divers while leaving the bell. Umbilicals may not be long enough to allow the divers to reach the surface, so a surface standby diver may be needed to assist when they reach the limit of umbilical extension. The surface gas supply may be compromised and the divers may abandon the bell using the onboard gas supply, reserving scuba bailout gas as long as possible. If the bell divers cannot reach the surface on the excursion umbilicals, the standby diver will disconnect their umbilicals, and depending on circumstances, they may complete the ascent on bailout, on pneumo gas supplied by the standby diver, or have their umbilicals switched out for alternative umbilicals from the surface.
+
+===Surface gas supply failure===
+In the event of a surface supply breathing gas failure, the bell panel may automatically switch over to onboard gas, but the bellman should make sure that this has happened and switch over manually if it has not. The surface control should be notified immediately unless they get to notify the divers first, and surface must be advised when the bell is running off onboard gas in any case. The working diver should be recalled to the bell unless it is clear that the problem can be promptly rectified, and once back at the bell it should be prepared for ascent, and the surface notified when ready.<ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}7}}
+
+===Voice communications failure===
+{{see also|Diver communications#Line signals}}
+If voice communications to surface- supplied divers fails, the divers can fall back to line signals. In most cases the dive will be aborted immediately, but sometimes the communications with line signals may be sufficient to complete the dive in acceptable safety. If there is video from helmet cameras, or an ROV, the diver can use hand signals to the surface, and divers in sight of each other can use hand signals. 
+{{expand section|date=June 2019}}
+
+===Light and gas signals for surface supplied dives===
+There are emergency signals usually associated with wet and closed bell diving by which the surface and bellman can exchange a limited amount of information which may be critical to the safety of the divers.<ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}7}} These signals are not generally applicable to a diver who is supplied directly by umbilical from the surface, but if the umbilical is snagged and rope signals cannot be transmitted, these signals may be provided by hat light flashes and helmet flush.
+* 2 light flashes at the bell means that the surface is not receiving voice communications from the bell. The bellman responds by blowing down bell gas twice, creating two large distinct eruptions of bubbles that will be seen at the surface, then recalls the diver and prepares for surfacing.
+* When the bell is ready to surface and the voice communications are not functioning, the bellman will blow down bell gas four times.
+* If there is a problem during the ascent, a long continuous blowdown is the signal to stop.
+
+===Contaminated surface gas supply===
+If it is suspected that the surface-supplied gas is contaminated, the bellman will immediately switch working diver and bellman supply to onboard gas, notify the surface that the change has been made, and recall the diver if that has not already been done from the surface. When the working diver is back on the bell, they will secure the bell for ascent and notify the surface, who will start lifting the bell.
+
+===Hot water supply failure===
+A failure of the hot water supply to a diver using a hot-water suit can be a life-threatening emergency in cold water, particularly when the diver is breathing helium based gas mixture, as the heat loss can cause rapid hypothermia. If it is not possible to get the backup hot water system working promptly, the dive will be aborted.
+
+==Closed bell procedures==
+[[File:US Navy 010707-N-3093M-003 Diver Transfer Capsule.jpg|thumb|left|US Navy diver transfer capsule (closed bell)]]
+Closed bells are used for saturation diving operations and bounce dives where long decompression is planned. They allow the divers to transit to and from the underwater workplace at the ambient pressure of the working dive, and allow decompression in a dry environment.<ref name="IMCA D022 2016 13.10" />
+Standard operating procedures include locking into and out of the bell at depth, and ensuring a seal on the hatch before starting an ascent, tending the working diver's umbilical from the bell, transfer under pressure between the bell and chamber, and responding to dynamic positioning alarms. Emergency procedures include switching between surface and on-board gas, assisting a distressed diver, recovering a disabled diver to the bell and administering basic life support and first aid, and in extreme cases abandoning the bell. The divers would be trained in the basic procedures and organization and equipment-specific details.
+
+===Locking out of and into the bell===
+Under normal conditions, the bellman will remain in the bell while the working diver or divers are locked out to do the planned work. If the dive will be long, or the conditions are poor, or the working diver becomes fatigued or cold, the diver may switch tasks with the bellman by locking back in and taking over as bellman, while the original bellman locks out to continue with the task. This is a routine procedure on saturation dives, where the shift may last for 8 hours, and the diver needs a rest and refreshment break.
+ 
+====Lock out====
+When the bell reaches working depth, and the depth has been confirmed, it may be necessary to equalise the internal pressure with the external pressure. If the internal pressure is greater it may not be possible to open the lock, as the pressure difference will hold it against the seal. If the internal pressure is less, water will flood in until the pressure is balanced. Once the pressure has been equalised, the lock may be opened. The working diver will generally exit through the lock, while the bellman pays out the umbilical. The first task of the diver after locking out is to check bell integrity, to ensure that no damage has occurred during the deployment, and the bell is not in any obvious risk of snagging on the bottom. The diver will report back on the bell integrity inspection and the bellman will confirm the bell status before the supervisor authorises the diver to proceed to the worksite. During normal lockout the bellman will tend the working diver's umbilical, ensuring that there is neither excessive slack nor tension on it, so that the diver can work in comfort with low risk of snagging.
+
+====Lock in====
+*Return to bell while bellman retrieves and stows umbilical
+*Check bell clear to lift
+*Enter lock
+*Close lock and establish seal
+{{expand section|date=December 2019}}
+
+===Tending the working diver===
+The skills of tending the working diver from the bell and from an in-water tending point are basically the same as for wet bell diving.
+
+===Transfer under pressure===
+{{see also|Byford Dolphin#Diving bell accident}}
+The trunking or lock to which the bell is to be connected for transfer under pressure (TUP) must have a dedicated pressure gauge indicating pressure in the trunking between bell and chamber, to reduce the risk of attempting to disconnect the mating flange while the interior is pressurised, which can have fatal consequences if an explosive decompression occurs. This has happened in an accident on the [[Byford Dolphin]], where several people were killed. <!-- see Byford Dolphin incident-->
+
+====Preparation for transfer of the divers under pressure====
+
+===Operation of the closed bell gas panel===
+The bellman is responsible for the operation of the bell gas panel. This includes switching between surface supplied gas delivered via the bell umbilical to on-board gas stored in high pressure gas cylinders racked around the bell. The default gas supply is from the surface, but the on-board supply must be used if the surface supply fails for any reason, or there is reason to suspect that it may be contaminated or the mix is wrong for the depth, and may be hypoxic or hyperoxic. The bell gas panel may also be used to clear water from the bell through the hatch of a closed bell if the level is too high, and to produce bubble signals in the event of voice communications failure.
+
+===Bell umbilical failure===
+In the event of a bell umbilical failure the bellman will ensure that the gas supply has switched over to onboard (this is generally automatic) and that the internal valves for the bell umbilical are closed. The working diver will return to the bell and attempts will be made to establish communication via the through-water system and other options that may be possible, depending on the extent of the damage. A ROV may be used to assess the situation and check whether there is a risk of the damaged umbilical snagging during an attempt to raise the bell. As soon as the divers have indicated that they have made a seal an attempt to raise the bell should be made.<ref name="IMCA D022 2016 13.10" />
+
+===Dynamic positioning alarm and runout response===
+The basic response is similar to wet bell, but after stowing umbilicals, the hatch will be sealed so that internal pressure can be retained. The bell will be recovered as rapidly as possible in a red alert, and may be recovered if there is doubt that a yellow alert will be downgraded.<ref name="IMCA D022 2016 13.10" />
+
+===Main lifting wire/winch failure===
+If the bell lifting winch or cable fails and cannot be restored to function, the bell may be recovered using the clump weight winch (guide wire winch). The clump weights are used to stabilise the bell during deployment, and the winch used to lower and lift the clump weight can be used as an emergency recovery system for the bell. If this also fails, a wet transfer abandonment may be possible, in which the divers from the damaged bell are transferred to another closed bell through the water. Breathing gas may be supplied from whichever source is most reliably convenient during this procedure.<ref name="IMCA D022 2016 11.8" />{{rp|11{{hyphen}}8}}<ref name="IMCA D022 2016 13.10" />
+
+===Recovery of diver to the bell===
+The bellman would recover an incapacitated diver to the bell. If the diver fails to respond to voice or umbilical pull signals the bellman will assume that the diver requires assistance. It may be possible to pull the diver back using the umbilical, but it may be necessary for the bellman to lock out to retrieve the diver. The supervisor will monitor the bellman during these maneuvers and provide advice as may be needed.<ref name="IMCA D022 2016 13.10" />
+
+An accepted procedure would be for the bellman to switch to on-board gas supply, in case the main breathing gas supply is part of the problem, then lower the lifting tackle into the water deep enough to be able to hook onto the diver. Then put on his helmet or mask and open the hot water supply to his suit before pushing his umbilical out of the bell and opening the flood-up valve. The bellman then locks out and follows the diver's umbilical to the diver, and assesses the status of the diver.<ref name="IMCA D022 2016 13.10" />
+
+If the diver is breathing comfortably but is injured or trapped, the recovery procedure should minimise the risk of further injury, but if the diver is unresponsive, or not breathing, the bellman will open the diver's freeflow valve and if necessary provide pneumo or bailout gas, then transport the diver back to the bell, following the umbilicals to minimise the risk of them snagging.<ref name="IMCA D022 2016 13.10" />
+
+Once under the bell, the bellman would hook the lifting tackle to one or more of the D-rings provided for this purpose on the diver's harness, then enter the bell and hoist the diver in, taking care to avoid and release any snags, which may require the bellman to work below the water surface. Once the diver is in the bell, CPR should be started if the diver is not breathing. This requires the diver's helmet to be removed. If this must be done with the diver suspended from the hoist, the divers body must remain in the water to help preserve blood supply to the upper body and head by hydrostatic pressure.<ref name="IMCA D022 2016 13.10" />
+
+As soon as the diver is breathing, the bell will be returned to the surface. This requires the umbilicals to be cleared from the trunking and the door sealed.<ref name="IMCA D022 2016 13.10" />
+
+===Loss of bell internal pressure===
+
+If the bell will not seal at depth, the divers may need to replace the door seal, and may have to check all valves on through-hull penetrations and close any which may be causing the leak. If the leak is only noticed during ascent, the bell may be returned to working depth for the divers to assess the problem and do these tasks.<ref name="IMCA D022 2016 13.10" /> If a seal cannot be re-established at depth another bell must be sent down to rescue the divers.
+
+If the leak starts at the surface, the supervisor would attempt to maintain internal pressure while the bell would be reconnected to the trunking. Divers in the chamber would prepare for an emergency transfer by ensuring the interior door is free to open and ready to re-seal, and that all doors out of the transfer lock are closed to limit gas loss.<ref name="IMCA D022 2016 13.10" />
+
+===Bell abandonment===
+[[File:Closed diving bell 20151203 132252.jpg|thumb|Emergency tap code sign mounted on side of closed diving bell]]
+It is not usually practicable to recover closed bell divers direct to the surface if it is not possible to raise the bell with the lock sealed and internal pressure retained. In such cases it may be possible to deploy another bell to recover the divers. If there is no working voice communication with the disabled bell, the rescue divers need to communicate by other means, and a set of tap codes is available for this purpose. A card describing the code may be attached to the bell inside and outside so that both sets of divers can be sure that they are using the same version of the code.<ref name="IMCA D022 2016 13.10" />
+
+Depending on circumstances, the distressed divers may be able to make the transfer through the water using their own breathing gas supplies, or they may be supplied from the rescue bell. Some preparation may be necessary. The procedures for such wet transfers would be based on standard procedures, but modified to suit the circumstances of the particular incident.<ref name="IMCA D022 2016 13.10" />
+
+===Lost bell procedures===
+
+Through water communications systems are a standard requirement for IMCA rated closed bells. They provide a backup voice communication system which may continue to function even after the bell umbilical is severed. This allows the surface personnel to get a better idea of how to deal with the situation, to assess the precise level of urgency, and also to communicate instructions to the trapped divers which may help with the rescue.
+
+The bell may be fitted with a sonar transponder to facilitate location by the rescue vessels and rescue divers. This can save a lot of time if the bell is not where the rescuers expect it to be, or if visibility is bad.
+
+==Training and registration==
+{{see also|List of diver certification organizations#Commercial diver training and registration authorities|Commercial offshore diving#Training and qualification}}
+
+Offshore divers are trained in the use of surface supplied diving equipment, which is standard for most offshore diving work. As much offshore diving contracts are carried out by members of IMCA, a large majority of the divers are registered with certification recognised by IMCA and the [[International Diving Regulators Forum]] (IDRF).
+Most inshore commercial diving work is also done on surface supply, and the training standards, qualifications and registration required vary according to the legislation of the relevant national or state government, but there are some internationally recognised equivalents. Military services may have their own standards, qualifications and registration systems, but these may also tie in with national civilian systems.<ref name="SA Diving Regulations 2009" /> Scientific and public safety diver training on surface supplied equipment also varies by jurisdiction. In some countries it follows commercial diving practice, and in others it may be covered by exemptions.<ref name="29 CFR scope" /><ref name="SA Diving Regulations 2009" /><ref name="Diving at Work Regulations 1997" />
+
+===Training standards and international recognition===
+The [[International Diving Schools Association]] (IDSA)<ref name="IDSA website" /> was formed in 1982 with the primary purpose of developing common international standards for commercial diver training. The association is concerned with offshore, inshore and inland commercial diving and some specialist non-diving qualifications such as diving supervisors, diving medical technicians and life support technicians.  It has published international diver training standards<ref name="IDSA" /> based on the consensus of members which provide a basic standard of comparison for commercial diver training standards, with the stated intention of:-
+*Improving safety
+*Providing contractors with a direct input to the diver training syllabus
+*Enabling contractors to bid across national borders on a more even playing field
+*Improving diver quality
+*Providing divers with greater job opportunities
+IDSA provides a Table of Equivalence of various national commercial diver training standards.<ref name="IDSA Table of equivalence" />
+
+The IDSA training standard comprises 5 modules, of which Module A is theory common to all modes of diving, Module B is commercial scuba, Module C is inshore air diving to 30&nbsp;msw and associated underwater work, Module D is surface supplied offshore air diving to 50&nbsp;msw using a wet bell and hot water suit, and Module E is closed bell mixed gas diving to 100&nbsp;msw.
+
+====Work skills training and assessment====
+Some work skills are implied by IDSA equivalent certification, and are included in diver training for these certificates,<ref name="IDSA 2009" />  but many of the more complex and technical skills must be learned elsewhere. There is no prescription for where these other skills are learned, and it is generally left to the employer to ensure that their employees are competent to do the job for which they are hired, and for the contractor to ensure that they deploy personnel who are competent to do the job for the client. IMCA provides guidance for assessment of several key offshore diving competences, which are transferable between IMCA member employers, but is not directly involved in the assessments. Some of these competences are renewable periodically, to ensure that the diver is currently competent.<ref name="Competence assessment" /> Portfolio of evidence based systems are used where the diver keeps a record of assessments, verification records and evidence in the form of competence appraisal forms, work records and testimonials by competent witnesses.<ref name="IMCA CAP" /> Where competence is shown by records of formal education and training by a reputable organisation this may be recognised, but a significant part of training may be on the job.
+
+==See also==
+{{Portal|Underwater diving}}
+*{{annotated link|Australian Diver Accreditation Scheme}}
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="29 CFR scope">{{cite web|url=https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=9977|title=Regulations (Standards - 29 CFR) - Commercial Diving Operations - Standard Number: 1910.401 Scope and application.|last=Staff|publisher=US Department of Labour|accessdate=4 March 2017}}</ref>
+
+<ref name="Air table">{{harvnb|US Navy Diving Manual Revision 6|loc=chpt. 9 sect. 8 The air decompression table}}</ref>
+
+<ref name="Bert">{{cite book |last=Bert |first=Paul |title=Barometric Pressure: researches in experimental physiology |url=https://archive.org/details/barometricpressu00bert |publisher= College Book Company|orig-year=1878 |date= 1943 |ref=harv }}Translated by: Hitchcock MA and Hitchcock FA.</ref>
+
+<ref name="Bevan 2005 Ch6.2">{{cite book|editor=Bevan, John|title=The Professional Divers's Handbook|edition=second|year=2005|publisher=Submex Ltd|location=5 Nepean Close, Alverstoke, GOSPORT, Hampshire PO12 2BH |language=English|isbn= 978-0950824260|chapter=Section 6.2 Diver voice communications}}</ref>
+
+<ref name="Boycott">{{cite journal |last=Boycott |first=A. E. |author2=G. C. C. Damant, J. S. Haldane. |title=The Prevention of Compressed-air Illness |journal=J. Hygiene |volume=8 |pages=342–443 |year=1908 |url=http://archive.rubicon-foundation.org/7489 |accessdate=2008-08-06 |doi=10.1017/S0022172400003399 |pmid=20474365 |pmc=2167126 |issue=3 |ref=harv}}</ref>
+
+<ref name="Buhlmann 1984">{{cite book |title=Decompression–Decompression Sickness |author=Bühlmann Albert A. |year=1984 |publisher=Springer-Verlag |location=Berlin New York |isbn=0-387-13308-9 |authorlink=Albert A. Bühlmann }}</ref>
+
+<ref name="Castro 2015">{{cite conference |url=https://dynamic-positioning.com/proceedings/dp2015/Training_Castro_2015.pdf |title=DP Emergency Drills |last= Castro |first=Alexander |conference=Dynamic Positioning Conference|publisher=Marine Technology Society |location=Houston |date= 13–14 October 2015 }}</ref>
+
+<ref name="Competence assessment">{{cite web|url=http://www.imca-int.com/competence-and-training/competence-assurance-and-assessment.aspx|title=Competence Assurance and Assessment|last=Staff|work=Competence & Training|publisher=International Marine Contractors Association|accessdate=8 July 2016}}</ref>
+
+<ref name="Diving at Work Regulations 1997" >{{cite web |url=http://www.legislation.gov.uk/uksi/1997/2776/made |title=The Diving at Work Regulations 1997 |last=Staff |year=1977 |work=Statutory Instruments 1997 No. 2776 Health and Safety |publisher=Her Majesty's Stationery Office (HMSO) |location=Kew, Richmond, Surrey |accessdate=6 November 2016}}</ref>
+
+<ref name="Dry suit diving">{{cite book|first1=Steven |last1=Barsky |first2=Dick |last2=Long |first3=Bob |last3=Stinton |year=1999 |title=Dry Suit Diving |edition=3rd |publisher=Hammerhead Press |location=Santa Barbara, California |isbn=978-0-9674305-0-8}}</ref>
+
+<ref name="IDSA">{{cite web |url=http://www.idsaworldwide.org/docs/diverts0909.pdf |title=International Diver Training Certification: Diver Training Standards, Revision 4 |last=Staff |date=29 October 2009 |work=Diver Training Standards |publisher=International Diving Schools Association |access-date=6 November 2016 |location=Malestroit, Brittany |url-status=dead |archive-url=https://web.archive.org/web/20160303215439/http://www.idsaworldwide.org/docs/diverts0909.pdf |archive-date=3 March 2016 |df= }}</ref>
+
+<ref name="IDSA 2009">Staff, IDSA,(2009), International Diver Training Certification: Diver Training Standards, Section C7: Underwater work, Revision 4, October 2009 {{cite web |url=http://www.idsaworldwide.org/docs/diverts0909.pdf |title=Archived copy |access-date=2016-11-06 |url-status=dead |archive-url=https://web.archive.org/web/20160303215439/http://www.idsaworldwide.org/docs/diverts0909.pdf |archive-date=2016-03-03 |df= }}  Accessed 8 July 2016</ref>
+
+<ref name="IDSA Table of equivalence">Staff, IDSA, (2012)''The IDSA Table of Equivalence: A List of Schools teaching the IDSA Standards together with their National equivalent'' 6 January 2012, {{cite web |url=http://www.idsaworldwide.org/docs/toe2012.pdf |title=Archived copy |access-date=2013-09-13 |url-status=dead |archive-url=https://web.archive.org/web/20140825062035/http://www.idsaworldwide.org/docs/toe2012.pdf |archive-date=2014-08-25 |df= }} accessed 13 September 2013</ref>
+
+<ref name="IDSA website">International Diving Schools Association official website http://www.idsaworldwide.org/ accessed 13 September 2013</ref>
+
+<ref name="IMCA CAP">{{cite web|url=http://www.imca-int.com/(F(kc-ERilTEOWZbP4k8a9QoHtXuUDhIsLqtVhfUw54IqGsJ-p8qvgY3-g9XZXewPNyrDSrbLv3_5T--Yz8INTkT0q9j7QyvQ6ukLo5_xROTLYH3fPcckFPaAIUQjy93aTxtKdG-X3gi-OIccy9_V2ue8mWLSP1M9c2W_1ie90i2Bs1))/media/158747/imca-competenceassessmentportfolio.pdf|title=IMCA Competence Assessment Portfolio|last=Staff|date=December 2014|publisher=International Marine Contractors Association|accessdate=8 July 2016}}</ref>
+
+<ref name="IMCA D022 2016 8.22" >{{harvnb|Guidance for diving supervisors IMCA D 022|loc=chpt. 8 Support locations, sect. 22 Umbilical handling on DP vessels}}</ref>
+
+<ref name="IMCA D022 2016 8.25" >{{harvnb|Guidance for diving supervisors IMCA D 022|loc=chpt. 8 Support locations, sect. 25 Deployment of divers using in-water tending points}}</ref>
+
+<ref name="IMCA D022 2016 10.3">{{harvnb|Guidance for diving supervisors IMCA D 022|loc=chpt. 10 General diving procedures, sect. 3 Divers' umbilicals}}</ref>
+
+<ref name="IMCA D022 2016 11.8">{{harvnb|Guidance for diving supervisors IMCA D 022|loc=chpt. 11 Surface supplied air diving, sect. 8 Emergency and contingency plans}}</ref>
+
+<ref name="IMCA D022 2016 12.9">{{harvnb|Guidance for diving supervisors IMCA D 022|loc=chpt. 12 Surface supplied mixed gas diving, sect. 9 Recovery of an injured diver}}</ref>
+
+<ref name="IMCA D022 2016 13.10">{{harvnb|Guidance for diving supervisors IMCA D 022|loc=chpt. 13 Closed bell diving, sect. 10 Emergency and contingency plans}}</ref>
+
+<ref name="Kongsberg" >{{cite web|url=https://www.kongsberg.com/globalassets/maritime/km-products/product-documents/dp-alert-system/Download |title=DP alert system |publisher=Kongsberg Maritime |website=www.kongsberg.com |accessdate=11 June 2019 }}</ref>
+
+<ref name="Larn and Whistler 1993 Ch9">{{cite book|last1=Larn|first1=Richard|last2=Whistler|first2=Rex|title=Commercial Diving Manual|edition=3rd|year=1993|chapter=9-Surface Supplied Diving|pages=169–179|publisher=David and Charles|location=Newton Abbott, UK|isbn=0-7153-0100-4}}</ref>
+
+<ref name="SA Diving Regulations 2009">{{cite web |title=Diving Regulations 2009 |work=Occupational Health and Safety Act 85 of 1993 – Regulations and Notices – Government Notice R41 |url=http://www.saflii.org/za/legis/consol_reg/ohasa85o1993rangnr41716/ |publisher=Government Printer |location=Pretoria |via=Southern African Legal Information Institute |access-date=3 November 2016 |url-status=dead |archive-url=https://web.archive.org/web/20161104080007/http://www.saflii.org/za/legis/consol_reg/ohasa85o1993rangnr41716/ |archive-date=2016-11-04 |df= }}</ref>
+
+<ref name="USNDM R6" >{{cite book |title=US Navy Diving Manual, 6th revision |year=2006 |publisher=US Naval Sea Systems Command |location=United States |url=http://www.supsalv.org/00c3_publications.asp?destPage=00c3&pageID=3.9 |accessdate=2016-09-05 |author=US Navy }}</ref>
+
+}}
+
+===Sources===
+* {{cite book |title=US Navy Diving Manual, 6th revision |year=2008 |publisher=US Naval Sea Systems Command |location=United States |url=http://www.supsalv.org/00c3_publications.asp?destPage=00c3&pageID=3.9 |accessdate=2008-06-15 |author=US Navy |ref={{sfnRef|US Navy Diving Manual Revision 6}} }}
+* {{cite book|last=Staff|first=|title=Guidance for diving supervisors IMCA D 022|edition=Revision 1|date=August 2016|publisher=International Marine Contractors Association|location=London, UK|ref={{sfnRef|Guidance for diving supervisors IMCA D 022}} }}
+
+{{Underwater diving|trareg}}
+{{authority control}}
+
+[[Category:Underwater diving procedures]]

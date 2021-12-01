@@ -1,0 +1,66 @@
+{{Use dmy dates|date=August 2019}}
+{{Location map-line|lat=-28}}
+{{kml}}
+[[File:28th parallel Argentina.png|thumb|In [[Argentina]], the 28th parallel south defines the border between [[Chaco Province]] and [[Santa Fe Province]].]]
+The '''28th parallel south''' is a [[circle of latitude]] that is 28 [[degree (angle)|degrees]] [[south]] of the [[Earth|Earth's]] [[equator|equatorial plane]]. It crosses the [[Atlantic Ocean]], [[Africa]], the [[Indian Ocean]], [[Australasia]], the [[Pacific Ocean]] and [[South America]].
+
+At this latitude the sun is visible for 13 hours, 57 minutes during the [[summer solstice|December solstice]] and 10 hours, 19 minutes during the [[winter solstice|June solstice]].
+
+==Around the world==
+Starting at the [[Prime Meridian]] and heading eastwards, the parallel 28° south passes through:
+
+:{| class="wikitable plainrowheaders"
+! scope="col" width="125" | Co-ordinates
+! scope="col" | Country, territory or ocean
+! scope="col" | Notes
+|-
+| style="background:#b0e0e6;" | {{Coord|28|0|S|0|0|E|type:landmark|name=Prime Meridian}}
+! scope="row" style="background:#b0e0e6;" | [[Atlantic Ocean]]
+| style="background:#b0e0e6;" |
+|-
+| {{Coord|28|0|S|15|42|E|type:country|name=Namibia}}
+! scope="row" | {{NAM}}
+|
+|-valign="top"
+| {{Coord|28|0|S|20|0|E|type:country|name=South Africa}}
+! scope="row" | {{ZAF}}
+| [[Northern Cape]]<br/> [[North West (South African province)|North West]] - for about 15&nbsp;km<br/> Northern Cape - for about 25&nbsp;km<br/> North West - for about 21&nbsp;km<br/> [[Free State (South African province)|Free State]]<br/> [[KwaZulu-Natal]]
+|-
+| style="background:#b0e0e6;" | {{Coord|28|0|S|32|35|E|type:waterbody|name=Indian Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Indian Ocean]]
+| style="background:#b0e0e6;" | 
+|-valign="top"
+| {{Coord|28|0|S|114|8|E|type:country|name=Australia}}
+! scope="row" | {{AUS}}
+| [[Western Australia]]<br/> [[South Australia]]<br/> [[Queensland]]
+|-
+| style="background:#b0e0e6;" | {{Coord|28|0|S|153|26|E|type:waterbody|name=Pacific Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Pacific Ocean]]
+| style="background:#b0e0e6;" | Passing just south of [[Marotiri (Austral Islands)|Marotiri]], {{PYF}}
+|-
+| {{Coord|28|0|S|71|9|W|type:country|name=Chile}}
+! scope="row" | {{CHL}}
+|
+|-valign="top"
+| {{Coord|28|0|S|69|15|W|type:country|name=Argentina}}
+! scope="row" | {{ARG}}
+| The parallel defines the border between [[Chaco Province]] and [[Santa Fe Province]]. Passing near the city of [[San Fernando del Valle de Catamarca|Catamarca]] ([https://tools.wmflabs.org/geohack/geohack.php?pagename=San_Fernando_del_Valle_de_Catamarca&params=28_28_S_65_47_W_region:AR_type:city 28°28′S 65°47′W]).
+|-valign="top"
+| {{Coord|28|0|S|55|23|W|type:country|name=Brazil}}
+! scope="row" | {{BRA}}
+| [[Rio Grande do Sul]]<br/> [[Santa Catarina (state)|Santa Catarina]]
+|-
+| style="background:#b0e0e6;" | {{Coord|28|0|S|48|38|W|type:waterbody|name=Atlantic Ocean}}
+! scope="row" style="background:#b0e0e6;" | [[Atlantic Ocean]]
+| style="background:#b0e0e6;" | 
+|}
+
+==See also==
+*[[27th parallel south]]
+*[[29th parallel south]]
+{{-}}
+{{geographical coordinates|state=collapsed}}
+
+[[Category:Circles of latitude|s28]]
+[[Category:Borders of Argentina]]
+[[Category:Borders of Queensland]]

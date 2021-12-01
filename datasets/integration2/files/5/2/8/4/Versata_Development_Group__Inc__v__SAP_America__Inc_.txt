@@ -1,0 +1,231 @@
+{{Infobox COA case
+  |Litigants=Versata Dev. Group, Inc. v. SAP Am., Inc.
+  |Court=[[United States Court of Appeals for the Federal Circuit]]
+  |DecideDate=July 9
+  |DecideYear=2015
+  |FullName=Versata Development Group, Inc. v. Sap America, Inc., Sap Ag, Under Secretary Of Commerce For Intellectual Property, Director Of The United States Patent And Trademark Office, Intervenor
+  |Citations=793 [[F.3d]] [https://www.leagle.com/decision/infco20150709107 1306]; 2015 U.S. App. LEXIS 11802; 115 [[U.S.P.Q.2d]] 1681
+  |Holding=(1) The Federal Circuit may review issues decided by the Patent Trial and Appeal Board (PTAB) to determine the ultimate merits; (2) the invention claimed was a covered business method patent under §&nbsp;18; (3) the PTAB's claim constructions were affirmed; (4) 35 U.S.C. §&nbsp;101 applied in a §&nbsp;18 review; and (5) the patent claims at issue were properly held invalid under §&nbsp;101.
+  |Judges=
+  |Majority=
+  |LawsApplied=Pub. L. No. 112-29, § 18, 125 Stat. 284, 329-331 (2011)
+}}
+'''''Versata Development Group, Inc. v. SAP America, Inc.''''', 793 F.3d 1306 (Fed. Cir. 2015),<ref>{{cite court |litigants=Versata Development Group, Inc. v. SAP America, Inc. |vol=793 |reporter=F.3d |opinion=1306 |pinpoint= |court=[[Fed. Cir.]] |date=2015 |url=https://www.leagle.com/decision/infco20150709107 |accessdate=2018-07-06 |quote=}}</ref> is a July 2015 decision of the [[United States Court of Appeals for the Federal Circuit|Federal Circuit]] affirming the final order of the [[Patent Trial and Appeal Board]] (PTAB), the recently created adjudicatory arm of the [[United States Patent and Trademark Office]] (USPTO), invalidating as patent ineligible the claims in issue of [[Versata]]'s  [https://www.google.com/patents/US6553350?dq=patent:6553350&hl=en&sa=X&ved=0CB4Q6AEwAGoVChMImPOY-KbexgIVQTk-Ch0zOADB U.S. Patent No. 6,553,350]<ref>Method and apparatus for pricing products in multi-level product and organizational groups (issued Apr. 22, 2003).</ref> (the '350 patent). This was the first case in the Federal Circuit reviewing a final order in a [[Covered Business Method]] (CBM) invalidation proceeding under the [[America Invents Act]] (AIA).<ref>Pub. L. No. 112-29, 125 Stat. 284 (2011).</ref> The case set an important precedent by deciding several unsettled issues in the interpretation of the CBM provisions of the AIA>,<ref>Dennis Crouch, [http://patentlyo.com/patent/2015/07/versata-federal-decisions.html ''Versata v. SAP: Federal Circuit Claims Broad Review of CBM Decisions''], Patently-O (July 9, 2015) ("an important decision stemming from the first Covered Business Method (CBM) Review Proceeding").</ref> including what are business-method patents under the AIA and whether the AIA authorizes the PTO to hold such patents invalid  in CBM proceedings on the ground that they are patent ineligible under 35 U.S.C. §&nbsp;101 as "abstract ideas."
+
+==Background==
+
+===The patent===
+
+According to the [[specification]] of Versata's patent, the patent is based on the preexisting WHO/WHAT hierarchal paradigm for structuring pricing data. Versata's system organizes various pricing tables and price adjustment tables, and various products and purchasing organizations, based on "who" (i.e. which purchasing organization) is purchasing "what" (i.e. which product). The system organizes various purchasing organizations and products into hierarchical tables containing organizational groups and product groups.<ref>'350 patent, col. 3, lines 9-32.</ref>
+
+Various price adjustments (for example volume discounts) may be specified for each level of the organizational groups and product groups hierarchies. The price adjustments for a particular purchasing organization are determined by retrieving the price adjustments for that particular purchasing organization as well as the price adjustments for organizational groups above the particular purchasing organization in the organizational groups hierarchy. Likewise, the price adjustments for a particular product are determined by retrieving the price adjustments for that particular product as well as the price adjustments for product groups above the particular product in the product groups hierarchy.<ref>'350 patent, col. 3, lines 50-65.</ref>
+
+The system uses several criteria to sort and organize the various pricing adjustments applicable to a particular product offered to a particular purchasing group. After the sorting is accomplished the pricing adjustments are applied in sequence to arrive at a final price at which a particular product can be sold to a particular purchasing organization. According to the patent specification, previous comparable systems required a mainframe computer, but this invention makes it possible to use a portable computer.<ref>'350 patent, col. 3, lines 59-65,</ref> The patent asserts:
+
+<blockquote>The invention overcomes the prior art's difficulty in storing, maintaining, and retrieving the large amounts of data required to apply pricing adjustments to determine prices for various products. Because of the invention's method and apparatus, prices for a large number of products can be determined by a laptop computer and the prior art's need to utilize a mainframe computer is alleviated.<ref>'350 patent, col. 3, lines 16-23.</ref> </blockquote>
+
+Versata's system bases pricing rules on characteristics of each organizational group instead of basing the rules on a per-customer basis. By placing customers and products into a hierarchal organization, the patent claims, the total amount of data is reduced because the same data entry is applicable to and is used for multiple customers (those fitting into a given slot in the data organization).<ref>'350 patent, col. 4, lines 4-15.</ref>
+
+Figure 4A of the patent, below, shows an example of an arrangement of an organizational group according to the patent.
+
+[[File:Fig. 4A of 850 patent in Versata v. SAP case.gif|thumb|500px|center|Versata's hierarchal structure for prices and organizations]]
+
+In summary, according to the patent:
+
+<blockquote>In other words, the invention provides for flexibility in formulating a desired pricing system while reducing the prior art need to store, maintain, and retrieve huge amounts of data.<ref>'350 patent, col. 4, lines 11-14.</ref></blockquote>
+
+===Proceedings in USPTO===
+
+The case began when SAP America, Inc. (along with its German parent corporation [[SAP SE|SAP AG]]) filed a petition to the USPTO, under the AIA, requesting that the USPTO institute review of the validity of certain claims in the '350 patent. [[Versata]] Development Group, Inc. (Versata) owns the '350 patent and had previously sued SAP for infringing the patent. In its petition to the USPTO, SAP alleged that the patent was a covered business method patent.
+ 
+Covered business method patents are subject to the special provisions of AIA § 18, which establishes a separately-designated eight-year-program under which the USPTO conducts post-grant (i.e., after patent issuance) review proceedings concerning the validity of covered business method patents.<ref>Section 18 of the AIA is not codified in 35 U.S.C. It is found in 125 Stat. 329–31.</ref> The special program provided by § 18 is available only for "covered business method patents," as that term is defined in the AIA.<ref>2015 U.S. App. LEXIS 11802, at *3-*4.</ref>
+  
+The proceeding determined that claims 17 and 26–29 were invalid. Claim 17 recites a "method for determining a price of a product offered to a purchasing organization" comprising certain steps. Claim 26 recites a "computer readable storage media comprising: computer instructions to implement the method of claim 17." Claim 27 recites a "computer implemented method for determining a price of a product offered to a purchasing organization" comprising certain steps. Claim 28 recites a "computer readable storage media comprising: computer instructions to implement the method of claim 27." Claim 29 recites an "apparatus for determining a price of a product offered to a purchasing organization" comprising certain limitations.<ref>2015 U.S. App. LEXIS 11802, at *8.</ref>
+
+According to the Federal Circuit, Claim 17 is representative. It provides:
+
+{{quote|&nbsp;  &nbsp; A method for determining a price of a product offered to a purchasing organization comprising:
+
+arranging a hierarchy of organizational groups comprising a plurality of branches such that an organizational group below a higher organizational group in each of the branches is a subset of the higher organizational group;
+
+arranging a hierarchy of product groups comprising a plurality of branches such that a product group below a higher product group in each of the branches in a subset of the higher product group; storing pricing information in a data source, wherein the pricing information is associated, with
+ 
+:(i) a pricing type,
+:(ii) the organizational groups, and
+:(iii) the product groups;
+
+retrieving applicable pricing information corresponding to the product, the purchasing organization, each product group above the product group in each branch of the hierarchy of product groups in which the product is a member, and each organizational group above the purchasing organization in each branch of the hierarchy of organizational groups in which the purchasing organization is a member;
+
+sorting the pricing information according to the pricing types, the product, the purchasing organization, the hierarchy of product groups, and the hierarchy of organizational groups;
+
+eliminating any of the pricing information that is less restrictive; and determining the product price using the sorted pricing information.<ref>2015 U.S. App. LEXIS 11802, at * 8-*9.</ref>}}
+
+===Prior litigation===
+
+On April 20, 2007, Versata (along with related companies Versata Software, Inc. and Versata Computer Industry Solutions, Inc.) sued SAP for infringement of the '350 patent in the U.S. District Court for the Eastern District of Texas. After trial, a jury found infringement and awarded damages.<ref>The original damages award was for $345 million. When in 2013 the Federal Circuit affirmed the jury damages verdict, interest had accumulated to increase the amount to $381 million. In October 2014, the parties settled the case on undisclosed financial terms. [http://webcache.googleusercontent.com/search?q=cache:N8Bu0n6cITkJ:1clicknews.com/u-s-court-invalidates-versata-patent-in-391-million-case/+&cd=35&hl=en&ct=clnk&gl=us {{smallcaps|1clicknews}}]{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }}, ''U.S. court invalidates Versata patent in $391 million case'' (July 10, 2015).</ref> The district court upheld the infringement verdict but reversed other rulings and required a new trial on damages. A jury then awarded lost-profits damages and reasonable royalty damages. The district court upheld those awards. SAP appealed to the Federal Circuit, which upheld the jury's infringement verdict and damages award, but vacated as over-broad a permanent injunction entered by the district court.<ref>''Versata Software, Inc. v. SAP America, Inc.'', 717 F.3d 1255 (Fed. Cir. 2013).</ref>
+
+While all that was going on, SAP in September 2012 petitioned the USPTO to institute a covered business method review of Versata's '350 patent. The USPTO granted SAP's petition and instituted a covered business method review of the '350 patent. In accordance with the statutory standard for instituting a review, the PTAB determined that claims 17 and 26–29 were "more likely than not unpatentable." By agreement of the parties the  CBM review was limited to an expedited § 101 review. In June  2013, the PTAB issued its final written decision, cancelling claims 17 and 26–29 as unpatentable under § 101. The case then came to the Federal Circuit.<ref>2015 U.S. App. LEXIS 11802, at * 11.</ref>
+
+While the PTAB was conducting its CBM review, Versata sued the USPTO in the U.S. District Court for the Eastern District of Virginia, seeking to set aside the PTAB's decision to institute CBM review. SAP filed a motion to intervene, which the district court granted.In August 2013, the district court granted motions to dismiss that case. The district court held that it lacked subject matter jurisdiction "because the AIA's express language, detailed structure and scheme for administrative and judicial review, legislative purpose, and nature of the administrative action evince Congress's clear intent to preclude subject matter jurisdiction over the PTAB's decision to institute patent reexamination [sic] proceedings." <ref>''Versata Dev. Corp. v. Rea'', 959 F. Supp. 2d 912, 915 (E.D. Va. 2013).</ref> Versata appealed the district court's judgment to the Federal Circuit.
+
+==Federal Circuit ruling==
+
+===Preliminary issues===
+
+The court began by disposing of preliminary issues, such as jurisdiction to hear the case. The court said that these issues "could have decisive effect on the outcome of the case regardless of its substantive merits." <ref>2015 U.S. App. LEXIS 11802, at *</ref>
+
+====Availability of judicial review====
+
+The initial decision to institute review in response to a petition is the first step in the post-grant review process. After a review is instituted, the review proceeds to a trial before the PTAB, and concludes with the PTAB's final written decision. That final decision is appealable to the Federal Circuit. The issue of whether the PTAB had the power to institute a CBM review was not before the court, because "the statute expressly instructs that we may not" address that.<ref>2015 U.S. App. LEXIS 11802, at * .</ref>
+
+However, the court determined that it had authority in the present appeal from the final decision of the PTAB invalidating Versata's patent under § 18, which is an authority limited to CBM patents, jurisdiction to determine whether the USPTO erred in instituting a CBM proceeding.  In its appeal, "Versata argues that the invalidation must be reversed as beyond the § 18 authority because the '350 patent is not actually a CBM patent under the law if properly understood, and so is outside the PTAB's invalidation authority under § 18."<ref>2015 U.S. App. LEXIS 11802, at * .</ref> The court further explained:
+
+<blockquote>To determine this reviewability issue, two related questions must be answered: first, does the § 324(e) judicial review bar permit judicial review, when conducted with regard to the final written decision, of PTAB compliance with any requirement that involves the ultimate authority of the PTAB to invalidate a patent; second, if yes, is the restriction of § 18 to CBM patents such a limit. 
+<ref>2015 U.S. App. LEXIS 11802, at * .</ref></blockquote>
+
+The court said that what § 324(e) says is that "[t]he determination by the [PTAB] ''whether to institute'' a post-grant review under this section shall be final and nonappealable," ''not'' that the final decision to invalidate a patent that the USPTO found to be a CBM patent could not be reviewed in regard to whether the patent was actually a CBM patent and therefore within the USPTO's authority under § 18. These are two separate USPTO actions: "The distinct agency actions do not become the same just because the agency decides certain issues at both stages of the process." Therefore, the answer to the first question was ''yes''.
+
+As to the second question, the court held that it is proper to review the final decision in regard to whether the '350 patent is a CBM patent:
+
+<blockquote>It would not only run counter to the language of § 324(e) to read it as barring review of whether the PTAB exceeded statutory limits on its authority to invalidate. It would also run counter to our long tradition of judicial review of government actions that alter the legal rights of an affected person, a hallmark of the distinction between (generally reviewable) final agency action and (generally unreviewable) agency action that merely initiates a process to consider such an alteration.  . . . An agency may not finally decide the limits of its statutory power. That is a judicial function.<ref>2015 U.S. App. LEXIS 11802, at * .</ref></blockquote>
+
+==== Is the '350 patent a CBM patent? ====
+
+===== What does CBM mean? =====
+
+The statute defines a "covered business method patent" as: a patent that claims a method or corresponding apparatus for performing data processing or other operations used in the practice, administration, or management of a financial product or service .<ref>AIA §&nbsp;18(d)(1).</ref> In addition to this affirmative language, Congress also provided a specific exception in the same subsection: "the term [covered business method patent] does not include patents for technological inventions." The Federal Circuit commented: "Unhelpfully, Congress did not then define a 'technological invention,' but instead instructed the USPTO to 'issue regulations for determining whether a patent is for a technological invention."<ref>AIA §&nbsp;18(d)(2).</ref> The USPTO by regulation promulgated what the court the USPTO's "version of a definition of a 'technological invention.'" in  37 C.F.R. §&nbsp;42.301(b). That regulation states:
+
+<blockquote>Technological invention. In determining whether a patent is for a technological invention solely for purposes of the Transitional Program for Covered Business Methods (section 42.301(a)), the following will be considered on a case-by-case basis: whether the claimed subject matter as a whole recites a technological feature that is novel and unobvious over the prior art; and solves a technical problem using a technical solution.<ref>See 2015 U.S. App. LEXIS 11802, at *</ref></blockquote>
+
+The statutory definition of a "covered business method patent" found in §&nbsp;18(d)(1) is based on whether the claimed invention is directed to "financial products or services." The legislative indicates that the definition should be broadly interpreted to "encompass patents claiming activities that are financial in nature, incidental to a financial activity or complementary to a financial activity." When it promulgated its regulations, the USPTO stated:
+
+<blockquote>The suggestion to clarify that the term "financial product or service" is limited to the products or services of the financial services industry is not adopted. Such a narrow construction of the term would limit the scope of the definition of covered business method patents beyond the intent of section 18(d)(1) of the AIA.  .&nbsp;.&nbsp;. The term financial is an adjective that simply means relating to monetary matters.<ref>2015 U.S. App. LEXIS 11802, at 40-41.</ref></blockquote>
+
+In this case, the PTAB concluded that "Versata's '350 patent claims methods and products for determining a price and that these claims, which are complementary to a financial activity and relate to monetary matters, are considered financial products and services under §&nbsp;18(d)(1)." Versata argued that Congress used the phrase "financial product or service" for a reason and that the plain meaning of the text of the statute limits the PTAB's jurisdiction to products or services from the financial sector—i.e., banks, brokerages, holding companies, insurance, and similar institutions with a finance focus. The USPTO argued that the PTAB's interpretation of "financial" as "relating to monetary matters" comports with the dictionary definition in ''The Random House Dictionary of the English Language''—"pertaining or relating to money matters", and it "readily embraces the '350 patent which expressly claims a 'method for determining a price of a product' in claim 17." The Federal Circuit said it agreed with the USPTO that "the definition of 'covered business method patent' is not limited to products and services of only the financial industry, or to patents owned by or directly affecting the activities of financial institutions such as banks and brokerage houses."<ref>2015 U.S. App. LEXIS 11802, at *42-44.</ref>
+
+This understanding of the term, the Federal Circuit said—
+
+<blockquote>is reinforced by the scope of the entire § 18 program, and the general concern, including within the halls of Congress, regarding litigation abuse over business method patents. These concerns caused Congress to create a special program for these patents in the first place.<ref>2015 U.S. App. LEXIS 11802, at *44.</ref></blockquote>
+
+===== What is a technological invention? =====
+
+Section 18(d) states that the term "covered business method patent" does not include patents for "technological inventions." This requires the court to first determine what is meant by that term, and then whether the PTAB was correct in finding this patent is not such an invention. Congress did not define the term, but left it to the USPTO to do so. In 37 C.F.R. § 42.301(b) the USPTO promulgated its definition. According to the regulation, a "technological invention" is one in which "the claimed subject matter as a whole recites a technological feature that is novel and
+unobvious over the prior art; and solves a technical problem using a technical solution." The regulation specifies that these criteria will be considered "on a case-by-case basis." The Federal Circuit commented that "this definition is notable as much for what it does not say as for what it does say." In any event, the court said, "we are left with a definition of a 'technological invention' as essentially one having a 'technological' feature that solves a 'technical' problem using a 'technical' solution." Accordingly, the court said, "neither the statute's punt to the USPTO nor the agency's lateral of the ball offer anything very useful in understanding the meaning of the term 'technological invention. '"<ref>2015 U.S. App. LEXIS 11802, at * ."</ref>
+
+The Federal Circuit agreed with the USPTO that claim 17 did not claim a technological invention. It said that "even if the invention required the use of a computer, the claim did not constitute a technological invention" because, as the Supreme Court held in ''[[Alice v. CLS Bank]]'', "the presence of a general purpose computer to facilitate operations through uninventive steps does not change the fundamental character of an invention." The PTAB viewed the invention typified by claim 17 "as basically a method of determining a price," which could be achieved "in any type of computer system or programming or processing environment," and accordingly "no specific, unconventional software, computer equipment, tools or processing capabilities are required." The court agreed with the PTAB that "this is not a technical solution but more akin to creating organizational management charts." Therefore, the court affirmed the PTAB's conclusion that "Versata's '350 patent is a covered business method patent, and that it does not fall within the exception for technological inventions, whatever that exception may otherwise mean."<ref>2015 U.S. App. LEXIS 11802, at *48-49.</ref>
+
+===Claim construction standards===
+
+The last preliminary issue was what standard should be used to interpret the claims. The PTAB used the "broadest reasonable interpretation (BRI)" standard, which is "generally used in USPTO office actions." Versata challenged that and argued for a narrower interpretation of the claim language. The court agreed with the USPTO, stating that the Federal Circuit had already decided that issue in the ''Cuozzo'' case.<ref>''In re Cuozzo Speed Techs., LLC'', 2015 U.S. App. LEXIS 11714.</ref> The court affirmed the PTAB's claim construction.<ref>2015 U.S. App. LEXIS 11802, at *51-52.</ref>
+
+===The invalidity determination===
+
+The PTAB held that claims 17 and 26-29 of the '350 patent were unpatentable under 35 U.S.C. § 101 because they were  abstract ideas.
+
+====Whether the USPTO can invalidate a CBM patent under § 101====
+
+Versata challenged the authority of the USPTO to invalidated CBM patents under § 101. It argued that the AIA limits invalidation to issues of prior art and obviousness under 35 U.S.C. §§ 102-103; the AIA permits invalidation as to a "condition of patentability," but patent ineligibility under § 101 involves issues that the patent statute does not classify as a condition of patentability.<ref>Section 101 is listed under the heading of "inventions patentable."</ref> The USPTO argued, however, that the legislative history made it clear that "the very purpose of the special CBM process was to permit the USPTO to reconsider the validity of a salient category of business method patents." The court agreed with the USPTO: "It would require a hyper-technical adherence to form rather than an understanding of substance to arrive at a conclusion that § 101 is not a ground available to test patents."<ref>2015 U.S. App. LEXIS 11802, at *57.</ref>
+
+====Does the patent claim an abstract idea? ====
+
+The PTAB determined that "each of the challenged claims involves the use of an abstract idea: determining a price using organization and product group hierarchies, which are akin to management organizational charts." According to the PTAB, Versata's concept of organizational hierarchies for products and customers it abstract because it is little more than determining a price, essentially a method of calculating. The PTAB also determined that the claims did not add meaningful limitations beyond the abstract idea. The recitation of generic general purpose computer hardware in the claims represented routine, well-understood conventional hardware
+that failed to narrow the claims relative to the abstract idea. The additionally claimed steps of storing, retrieving, sorting, eliminating, and receiving were "well-known, routine, and conventional steps."<ref>2015 U.S. App. LEXIS 11802, at *58-&60.</ref>
+
+The Federal Circuit reviewed the Supreme Court's two-step analysis of ''[[Alice v. CLS Bank]]'' and its own software patent eligibility decisions, which it summed up in these terms:
+
+{{quote|In ''Content Extraction &Transmission LLC v. Wells Fargo Bank, National Ass'n'',<ref>776 F.3d 1343 (Fed. Cir. 2014)</ref> we found that claims directed to the abstract idea of collecting data from hardcopy documents, recognizing certain information within the collected data, and storing that information in memory were ineligible. This was true despite noting that, if the claims were construed in the most favorable manner to the appellants, the claims would require scanning and processing technology.
+
+In ''Ultramercial'',<ref>''Ultramercial, Inc. v. Hulu, Inc.'', 657 F.3d 1325 (Fed. Cir. 2013).</ref> we found that claims directed to the abstract idea of using an advertisement as an exchange or
+currency were ineligible even though the claims were tied to a general purpose computer and invoked the Internet.
+
+In ''buySAFE, Inc. v. Google, Inc.'',<ref>765 F.3d 1350 (Fed. Cir. 2014)</ref> we found that claims directed to the abstract idea of creating a contractual relationship—a transaction performance guaranty—were ineligible despite the recitation of a computer that received and sent information over a network.
+
+In ''Bancorp Services, L.L.C. v. Sun Life Assurance Co. ''<ref>687 F.3d 1266 (Fed. Cir. 2012).'' we found ineligible claims directed to the abstract idea of managing a stable value life insurance policy.
+
+And in ''CyberSource Corp. v. Retail Decisions, Inc. '', 654 F.3d 1366 (Fed. Cir. 2011)</ref> we found that a broadly worded method claim and a claim reciting a computer readable medium for executing the method claim were ineligible. We concluded the claims were drawn to a method of verifying the validity of credit card transactions over the Internet, and the steps in the method could be performed in the human mind or by a human using a pen and paper.
+
+These cases may be contrasted with instances in which we have found patents directed to patent-eligible subject matter. For example, in ''DDR Holdings, LLC v.Hotels.com, L.P.'',<ref>773 F.3d 1245 (Fed. Cir. 2014).</ref> we found that claims reciting a solution that was necessarily rooted in computer technology to overcome a problem specifically arising in the realm of computer networks were eligible. We drew a distinction between the patent-eligible claims at issue and patent-ineligible claims in the past that had merely recited commonplace business methods aimed at processing business information, applying known business processes to particular technological environments.<ref>2015 U.S. App. LEXIS 11802, at 64-65.</ref>}}
+
+Applying this analysis, the Federal Circuit agreed with the PTAB's analyses of the claims at issue. It found Claims 17 and 26–29 of the '350 patent directed to the abstract idea of determining a price, using organizational and product group hierarchies, in the same way that the
+claims in ''Alice'' were directed to the abstract idea of intermediated settlement, and the claims in ''Bilski'' were directed to the abstract idea of risk hedging. "More specifically," the court said:
+
+<blockquote>[C]laim 17 is directed to a method of determining a price. Claim 27 is directed to a computer-implemented method of determining a price, and claims 26 and 28 are directed to computer-readable storage media comprising computer instructions to implement the methods of claims 17 and 28. Claim 29 is directed to an apparatus for determining a price that includes computer program instructions capable of performing the same method steps recited in claim 27. Using organizational and product group hierarchies to determine a price is an abstract idea that has no particular concrete or tangible form or application. It is a building block, a basic conceptual framework for organizing information, similar to the claims involving collecting, recognizing, and storing data in ''Content Extraction'' and the claims in ''CyberSource.''<ref>2015 U.S. App. LEXIS 11802, at *.</ref></blockquote>
+
+The court also agreed with the PTAB that, "after considering the limitations of each claim individually and as an ordered combination, none of the claims have sufficient additional limitations to transform the nature of any claim into a patent-eligible application of an abstract idea." All of the computer operations were "purely conventional." All of the limitations in all of the claims "are well-understood, routine, conventional activities previously known to the industry." And the separate elements of the claims, "when considered as an ordered combination .&nbsp;.&nbsp;. add nothing that is not already present when the steps are considered separately." Turning to prior Federal Circuit decisions, the court said they "found similar claims to be ineligible despite the recitation of a general purpose computer or the Internet," and that was true as well for similar claims that the Supreme Court found "to be ineligible despite recitation of a general purpose computer in ''Alice'', ''Flook'', and ''Benson''. Moreover, the claims were not sufficiently similar to the claims in ''Diehr'' and ''DDR Holdings'' to be patent eligible because they "do not improve some  existing technological process or solve some technological problem in conventional industry practice" and they "are not rooted in computer technology to solve a problem specifically arising in some aspect of computer technology."<ref>2015 U.S. App. LEXIS 11802, at * .</ref>
+
+Versata argued that its invention enables desirable benefits: "fewer software tables and searches, leading to improvements in computer performance and ease of maintenance." The court refused to consider the benefits, however, because "these supposed benefits are not recited in the claims at issue." The court said the claims were not directed to improving computer performance; rather, they were directed to calculating prices and they merely use a computer to make that calculation.<ref>2015 U.S. App. LEXIS 11802, at * .</ref>
+
+Versata argued that it satisfied the machine-or-transformation test, which the court noted test can be a useful clue in determining the eligibility of method claims. But Versata's claims, the court said, do not satisfy the machine-or-transformation test:
+
+<blockquote>However, the claims at issue do not transform a general purpose computer into a specific machine. The steps in Versata's claims (e.g., arranging, storing, retrieving, sorting, eliminating, determining) are conventional, routine, and well-known. They involve the normal, basic functions of a computer. In order for the addition of a machine to impose a meaningful limit on the scope of a claim, it must play a significant part in permitting the claimed method to be performed, rather than function solely as an obvious mechanism for permitting a solution to be achieved more quickly, i.e., through the utilization of a computer for performing calculations. Versata's claims do not meet this test, and instead function solely as a mechanism for permitting the price determination to be performed more quickly.<ref>2015 U.S. App. LEXIS 11802, at * (internal quotation marks and citations omitted).</ref>
+</blockquote>
+
+Versata argued that the PTAB should have considered the commercial success of the invention, but did not. But commercial success, the court responded, does not "necessarily indicate that claims were drawn to patent eligible subject matter."<ref>2015 U.S. App. LEXIS 11802, at * .</ref>
+
+The court concluded that the PTAB decision should be affirmed:
+
+<blockquote>[T]he PTAB correctly applied the Supreme Court's test in Alice and Mayo. Versata identifies no persuasive basis for disturbing the PTAB's determination, which was amply supported by the record before it. The section 101 analysis applied by the PTAB was not legally erroneous under Mayo and Alice. And its underlying fact findings and credibility determinations are supported by substantial evidence in the record.<ref>2015 U.S. App. LEXIS 11802, at * .</ref></blockquote>
+
+===Partial dissent===
+
+Judge Hughes concurred in the judgment, upholding the PTAB's invalidation of the patent. He disagreed, however, with the part of the majority opinion that held reviewable, in the course of review of the final order, the original USPTO determination to institute a CBM proceeding. In his view, it "impermissibly expands this court's jurisdiction and our
+scope of review to second-guess the Board's initial determination
+that the patent at issue is a 'covered business method patent.'"<ref>2015 U.S. App. LEXIS 11802, at * .</ref> He maintained that the decision to institute, unlike the final order, is unreviewable both on an interlocutory basis at the time of initiation of the CBM proceeding and in the course of review of the PTAB's final order.
+
+Judge Hughes argued that the statutory language was clear on no review:
+
+<blockquote>The plain language of §&nbsp;324(e) unambiguously bars judicial review—at any time—of the Board's decision to institute post-grant review. Section 324(e) states, "The determination by the Director whether to institute a post-grant review under this section shall be final and nonappealable."<ref>2015 U.S. App. LEXIS 11802, at * .</ref></blockquote>
+
+He also argued that it was pointless or counter-productive "to allow this court to second-guess the Board's institution decisions on appeal from a final written decision." He envisions a "decision tree" for various outcomes, such as (i) the Federal Circuit deciding the PTAB was right, in which case its order is affirmed (whether for or against invalidity) but at the expense of another layer of costly litigation to reach the result that the PTAB correctly decided to institute the proceeding now completfged; and (ii) the Federal Circuit deciding the PTAB was wrong, in which case the issue goes back to district court for a repeat of the validity resolution in that forum, even if the PTAB has correctly decided the validity issue and "even if this court agrees with the Board's ultimate validity determination," at still further litigation costs and "squandering" of institutional resources. This "will create the kind of 'unnecessary and counterproductive litigation costs' that Congress intended these [CBM] proceedings to avoid," and it thus defeats congressional intent.<ref>2015 U.S. App. LEXIS 11802, at * .</ref>
+
+==Subsequent developments==
+
+===District court appeal===
+
+The Federal Circuit consolidated Versata's appeal from the district court judgment, dismissing Versata's suit against the USPTO to set aside the PTAB's decision to institute CBM review, with the appeal from the PTAB decision, discussed above. The two appeal cases were argued together, but the Federal Circuit issued its order in the district court appeal a few days later. ''Versata Development Group, Inc. v. Lee''.<ref>2015 U.S. App. LEXIS 11994 (Fed. Cir. July 13, 2015.</ref>
+
+The Federal Circuit held that the dismissal "was correct as a matter of law," because the statute clearly bars appeal of the USPTO's decision to institute a CBM proceeding was correct as a matter of law.<ref>2015 U.S. App. LEXIS 11994, at 4.</ref>
+
+===Certiorari petition===
+
+Versata filed a certiorari petition that raises four questions stemming from the USPTO's covered business method (CBM) review of its "hierarchical pricing engine" patents:
+
+#    Whether the phrase "covered business method patent"—and "financial product or service"—encompasses any patent claim that is "incidental to" or "complementary to a financial activity and relates to monetary matters."
+#    Whether the Federal Circuit's standard for identifying patents falling within the "technological inventions" exception departs from statutory text by looking to whether the patent is valid, as opposed to whether it is "technological."
+#    Whether a software-related invention that improves the performance of computer operations is patent eligible subject matter.
+#    Whether, as this Court will decide in ''Cuozzo Speed Technologies, LLC v. Lee'', .&nbsp;.&nbsp;. the Patent Trial and Appeal Board should give claim terms their broadest reasonable construction in post-grant adjudicatory proceedings, or should instead give them their best construction.<ref>[http://patentlyo.com/media/2016/03/Versata-Cert-Petition.pdf Petition].</ref>
+
+==Commentary on Federal Circuit ruling==
+
+[[Image:Cmnational1.jpg|thumb|150px|right|An antique cash register]]
+[[Image:WalletMpegMan.jpg|thumb|150px|right|A trifold wallet]]
+[[File:WaynePump-sm.jpg|thumb|150px|right|A modern gasoline pump]]
+One commentator took issue with the definitions of "financial product" and "technological" that the PTAB used and the court sustained. He asserted that under the definition of "financial product" that the court accepted—"pertaining or relating to money matters"—a 19th century cash register or even a wallet would be financial products. Even a modern gasoline pump is a financial product because it determines the transaction price in real time as the user pumps the gas, and it also conducts a financial transaction with the user's financial card. He concludes: "Moreover, once it's determined that these are financial products eligible for CBM review, it takes only a few steps to find such inventions patent ineligible.  As for the price determination and the payment, "A gas station attendant used to do that by mental steps."
+
+This commentator also objected to the Federal Circuit's "brusque treatment of Versata's argument that its invention improved the performance of the computer system" by saying "these supposed benefits are not recited in the claims." He asserted:
+
+<blockquote>If my inventive nutcracker cracks nuts ten times faster than the prior art, I don't claim 'wherein said nut-cracking machine cracks nuts at least ten times faster than the cited references,' or other hortatory statement. ...{If} I did claim this benefit, then someone can copy the structure, but just adjust the machine so it operates a bit more slowly.<ref>Robert R. Sachs, [http://chefsimon.lemonde.fr/ ''Versata: What's "Technological" and the Federal Circuit's New Rule Against Improvements''], {{smallcaps|Bilski Blog}} (July 15, 2015).</ref></blockquote>
+
+Professor Crouch commented that the affirmance of the PTAB decision to institute a CBM proceeding, while at the same time asserting a judicial power to review the determination to institute, was "in petit ''[[Marbury v. Madison]]'' style." That is, as in that case, the decision of the court here on reviewability was immune to further review by any party: the USPTO and SAP won on the merits and therefore could not appeal at all; Versata had appealed the preliminary point, was successful, and therefore could not appeal reviewability either.<ref>Dennis Crouch, [http://patentlyo.com/patent/2015/07/versata-federal-decisions.html ''Versata v. SAP''] in Patently-O (July 9, 2015).</ref>
+
+A law firm blog commented on ''Versata'' that its result was consistent with congressional intent:
+
+<blockquote>Since its introduction, CBM filings have been devastating to business method patents; this is exactly what Congress intended.  When Congress created this special class of challenge it was to specifically defeat patents believed to be invalid under 101, but too cost prohibitive to defeat in district court. This decision will go a long way in maintaining the current momentum.<ref>[http://www.patentspostgrant.com/cbm-patent-need-not-be-directed-to-financial-sector ''CBM Patent Need Not be Directed to Financial Sector''] (July 10, 2015).</ref></blockquote>
+
+==References==
+{{BBstyle}}
+{{Reflist|30em}}
+
+==External links==
+* {{caselaw source
+ | case = ''Versata Development Group, Inc. v. SAP America, Inc.'', 793 F.3d 1306 (Fed. Cir. 2015)
+ | courtlistener =https://www.courtlistener.com/opinion/2815829/versata-development-group-v-sap-america-inc/
+ | googlescholar = https://scholar.google.com/scholar_case?case=14570700292112568579
+ | leagle =https://www.leagle.com/decision/infco20150709107
+ }}
+
+[[Category:United States patent case law]]
+[[Category:Software patent case law]]
+[[Category:2015 in United States case law]]
+[[Category:United States Court of Appeals for the Federal Circuit cases]]
+[[Category:SAP SE]]

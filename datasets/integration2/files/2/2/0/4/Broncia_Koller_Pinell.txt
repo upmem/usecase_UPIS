@@ -1,0 +1,68 @@
+{{Infobox artist
+| name           = Broncia Koller-Pinell
+| image          = Broncia Koller-Pinell Photo2.jpg
+| imagesize      =
+| caption        = Broncia Koller-Pinell (c.1900)
+| birth_name     = Bronisława Pineles
+| birth_date     = {{birth date|1863|2|25|df=y}}
+| birth_place    = Sanok, Poland
+| death_date     = {{death date and age|1934|4|26|1863|2|25|df=y}}
+| death_place   = Oberwaltersdorf, Austria
+| nationality   = Austrian
+| education     = 
+| field         = [[Painting]]
+| training      =
+| movement      = Expressionism
+| works         =
+| patrons       =
+| awards        = 
+| spouse        = {{marriage|Hugo Koller|1896}}
+| partner          =
+}}
+
+'''Broncia Koller-Pinell''' (25 February 1863, [[Sanok]] - 26 April 1934, [[Oberwaltersdorf]]) was an Austrian [[Expressionist]] painter who specialized in portraits and [[still-life]]s.
+
+== Life ==
+She was born as '''Bronisława Pineles''' to a Jewish family in what is now Poland. Her father Saul Pineles (1834, [[Tysmenytsia]] – 1903, Vienna) was a designer of military fortifications.<ref name="J">[http://jwa.org/encyclopedia/article/koller-pinell-broncia Jewish Women's Archive:] Biography by Birgit Ben Eli</ref> In 1870, they moved to Vienna to start a manufacturing business (where they changed the family name to "Pinell") and she took private art lessons with [[Alois Delug]].<ref name="O">{{ÖBL|4|87|88|Koller Bronislawa (Bronia)|Wacha}}</ref> In 1885, she had her first public exhibition. For the next five years, she studied in Munich at the "Damenakademie" of the Munich Artists' Association in the studios of [[Ludwig von Herterich]].<ref name="J" /> This was followed by exhibitions at the [[Vienna Künstlerhaus]], in Munich and in Leipzig.<ref name="O" /> Koller-Pinell [[List of women artists exhibited at the 1893 World's Columbian Exposition| exhibited]] her work at [[The Woman's Building (Chicago)|The Woman's Building]] at the 1893 [[World's Columbian Exposition]] in Chicago, Illinois.<ref name="Nichols">{{cite web |last1=Nichols |first1=K. L. |title=Women's Art at the World's Columbian Fair & Exposition, Chicago 1893| url=http://arcadiasystems.org/academia/cassatt10c.html#koller| accessdate=3 April 2020}}</ref>  
+
+In 1896, against her family's wishes, she married the electro-physicist Dr.{{ill|Hugo Koller|de}} (1867-1949), who was a Catholic. Their children were raised as Christians, but she never converted.<ref name="J" /> At first, they lived in [[Salzburg]] and [[Nuremberg]], but returned to Vienna in 1902. Shortly after, she was accepted as a member of the [[Vienna Secession]].<ref name="O" /> In 1904, she inherited a house in Oberwaltersdorf. The family soon moved there, and she had it decorated by [[Josef Hoffmann]] and [[Koloman Moser]], associates from the Secession. Shortly after, she set up a salon<ref name="L">[http://geschichte.landesmuseum.net/index.asp?contenturl=http://geschichte.landesmuseum.net/personen/personendetail.asp___id=396269123 Niederösterreichisches Landesmuseum]: Brief biography</ref> that was frequented by [[Egon Schiele]], [[Anton Faistauer]] and [[Albert Paris Gütersloh]], among others.
+
+Her son, Rupert (1896–1976), became a [[Conductor (music)|conductor]] and was briefly married to [[Anna Mahler]]. Her daughter Silvia (1898–1963) was also a painter.
+
+Her work was included in the 2019 exhibition ''City Of Women: Female artists in Vienna from 1900 to 1938'' at the [[Österreichische Galerie Belvedere]].<ref name="Belvedere">{{cite web |title=City of Women |url=https://www.belvedere.at/en/city-women-0 |website=Belvedere Museum Vienna |accessdate=26 June 2020}}</ref>
+
+==Selected paintings==
+<gallery mode=packed heights=135>
+File:Broncia Koller-Pinell Frau mit blauem Kopftuch.jpg|Woman with Blue Headscarf<br /> (date unknown)
+File:Koller-Pinell Silvia-Birdcage.jpg|Silvia Koller with Bird Cage (c.1905)
+File:Broncia Koller-Pinell Sitzende.jpg|Sitting (1907)
+File:Still-Life Red Elephant.jpg|Still-life with Red Elephant (c.1920)
+File:Portrait Eckstein Koller-Pinell.jpg|Portrait of [[Friedrich Eckstein]] (1920s)
+</gallery>
+
+==References==
+{{reflist}}
+
+== Further reading ==
+* ''Die Malerin Broncia Koller 1863–1934''. Exhibition catalog, Niederösterreichisches Landesmuseum, Vienna (1980)
+* Tobias G. Natter: ''Broncia Koller Pinell. Eine Malerin im Glanz der Wiener Jahrhundertwende''. Exhibition catalog. [[Jüdisches Museum Wien|Jüdisches Museum]], Vienna (1993)
+* Boris Manner: ''Broncia Koller-Pinell 1863–1934''. Brandstätter, Vienna (2006) {{ISBN|3-902510-88-9}}
+
+== External links ==
+{{Commons category|Broncia Koller-Pinell}}
+* [http://www.artnet.com/artists/broncia-koller-pinell/past-auction-results ArtNet: More work by Koller-Pinell]
+* [https://web.archive.org/web/20150328001753/http://www.wien-vienna.at/personen.php?ID=2021 Wien-Vienna Website:] "On the Career of Broncia Koller", a book review by Susanne Neuberger
+* [http://thebluelantern.blogspot.com/2010/12/there-at-secession-broncia-koller.html Broncia Koller-Pinell] @ The Blue Lantern
+* {{DNB-Portal|119152444}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Koller-Pinell, Broncia}}
+[[Category:1863 births]]
+[[Category:1934 deaths]]
+[[Category:20th-century Austrian women artists]]
+[[Category:People from Sanok]]
+[[Category:Artists from Vienna]]
+[[Category:Austrian women painters]]
+[[Category:Austrian Jews]]
+[[Category:Expressionist painters]]

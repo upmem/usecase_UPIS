@@ -1,0 +1,206 @@
+{{Infobox football club season
+| club               = [[SK Rapid Wien|Rapid Wien]]
+| season             = 1925-26
+| manager            = [[Stanley Willmott]]
+| mgrtitle           = Coach
+| stadium            = [[Pfarrwiese]],<br/>[[Vienna]], [[Austria]]
+| league             = [[1925-26 Austrian football championship|First class]]
+| league result      = 5th
+| cup1               = [[1925-26 Austrian Cup|Austrian Cup]]
+| cup1 result        = 1st round
+| league topscorer   = [[Ferdinand Wesely]] (18)
+| season topscorer   = [[Ferdinand Wesely]] (18)
+| highest attendance = 25,000
+| lowest attendance  = 4,000
+| average attendance = 12,300
+| prevseason         = [[1924–25 SK Rapid Wien season|1924–25]]
+| nextseason         = [[1926–27 SK Rapid Wien season|1926–27]]
+}}
+
+The '''1925–26 [[SK Rapid Wien]] season''' was the 28th season in club history.
+
+==Squad==
+
+===Squad and statistics===
+<ref name=ref>{{cite web|title=Saison 1925/26 |url=http://www.rapidarchiv.at/saisonen/1926.html|publisher=rapidarchiv.at|accessdate=19 July 2016}}</ref>
+
+===Squad statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan="2" valign="bottom"|Nat.
+!rowspan="2" valign="bottom"|Name
+!colspan="2" width="85"|League
+!colspan="2" width="85"|Cup
+!colspan="2" width="85"|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+!colspan=15|Goalkeepers
+|-
+|{{flagicon|AUT}}||align="left"|[[Walter Feigl]] || 6|| || || || 6|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Griftner]] || 2|| || || || 2|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Otto Janczik]] || 16|| || 1|| || 17|| 
+|-
+!colspan=15|Defenders
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Czejka]] || 13|| || || || 13|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Emil Regnard]] || 4|| || 1|| || 5|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Roman Schramseis]] || 10|| || || || 10|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Solil]] || 21|| 2|| 1|| || 22|| 2
+|-
+!colspan=15|Midfielders
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Brandstetter]] || 6|| || || || 6|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Madlmayer]] || 20|| || 1|| || 21|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Nitsch]] || 23|| || 1|| || 24|| 
+|-
+|{{flagicon|AUT}}||align="left"|Johann Richter || 23|| || 1|| || 24|| 
+|-
+!colspan=15|Forwards
+|-
+|{{flagicon|AUT}}||align="left"|[[Eduard Bauer]] || 6|| 3|| || || 6|| 3
+|-
+|{{flagicon|AUT}}||align="left"|[[Heinrich Budin]] || 3|| 1|| || || 3|| 1
+|-
+|{{flagicon|AUT}}||align="left"|Eppensteiner || || || 1|| || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|Johann Hoffmann || 15|| 9|| 1|| || 16|| 9
+|-
+|{{flagicon|AUT}}||align="left"|[[Willibald Kirbes]] || 17|| 4|| 1|| || 18|| 4
+|-
+|{{flagicon|AUT}}||align="left"|[[Richard Kuthan]] || 6|| 1|| || || 6|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Weselik]] || 20|| 14|| || || 20|| 14
+|-
+|{{flagicon|AUT}}||align="left"|[[Ferdinand Wesely]] || 24|| 18|| 1|| || 25|| 18
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Wondrak]] || 21|| 7|| 1|| || 22|| 7
+|-
+|{{flagicon|AUT}}||align="left"|[[Anton Zach]] || 8|| 2|| || || 8|| 2
+|}
+
+==Fixtures and results==
+<ref name=results>{{cite web|title=Spiele 1925/26 |url=http://www.rapidarchiv.at/spiele/1926.html|publisher=rapidarchiv.at|accessdate=25 July 2016}}</ref>
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+===League===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#fcc"
+| {{tooltip|1|Round 1}} || 30.08.1925 || [[FAC-Platz|A]] || align="left"| [[Floridsdorfer AC|FAC]] || 1-2 || align="right"|10,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|24}}
+|- style="background:#cfc"
+| {{tooltip|2|Round 2}} || 06.09.1925 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 5-3 || align="right"|15,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|4|pen.}}, [[Karl Wondrak|Wondrak]] {{goal|30}} {{goal|63}}, [[Eduard Bauer|Bauer E.]] {{goal|33}}, [[Franz Weselik|Weselik]] {{goal|90}}
+|- style="background:#cfc"
+| {{tooltip|3|Round 3}} || 04.10.1925 || [[Hohe Warte Stadium|A]] || align="left"| [[First Vienna FC|Vienna]] || 3-2 || align="right"|10,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|40}} {{goal|88}}, [[Karl Wondrak|Wondrak]] {{goal|81}}
+|- style="background:#cfc"
+| {{tooltip|4|Round 4}} || 10.01.1926 || [[Pfarrwiese|H]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 5-2 || align="right"|17,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|8}} {{goal|30|pen.}}, Hoffmann J. {{goal|}}, [[Willibald Kirbes|Kirbes W.]] {{goal|32}}, [[Franz Weselik|Weselik]] {{goal|52}}
+|- style="background:#ffc"
+| {{tooltip|5|Round 5}} || 25.10.1925 || [[Sportplatz Simmering|A]] || align="left"| [[1. Simmeringer SC|Simmering]] || 3-3 || align="right"|12,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|17}} {{goal|29}}, [[Eduard Bauer|Bauer E.]] {{goal|59}}
+|- style="background:#fcc"
+| {{tooltip|6|Round 6}} || 01.11.1925 || [[Pfarrwiese|H]] || align="left"| [[Wiener AC]] || 1-2 || align="right"|15,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal||pen.}}
+|- style="background:#cfc"
+| {{tooltip|7|Round 7}} || 22.11.1925 || A || align="left"| [[Hakoah Vienna|Hakoah]] || 3-1 || align="right"|18,000
+| align="left"|[[Karl Wondrak|Wondrak]] {{goal|46}}, [[Franz Weselik|Weselik]] {{goal|54}}, Hoffmann J. {{goal|88}}
+|- style="background:#cfc"
+| {{tooltip|9|Round 9}} || 20.12.1925 || [[Pfarrwiese|H]] || align="left"| [[ASV Hertha Wien|Hertha Wien]] || 4-3 || align="right"|6,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|18}}, Hoffmann J. {{goal|22}} {{goal|47}}, [[Ferdinand Wesely|Wesely]] {{goal|49|pen.}}
+|- style="background:#cfc"
+| {{tooltip|10|Round 10}} || 29.11.1925 || A || align="left"| [[FC Admira Wacker Mödling|Admira]] || 2-0 || align="right"|3,000
+| align="left"|[[Willibald Kirbes|Kirbes W.]] {{goal|54}} {{goal|60}}
+|- style="background:#cfc"
+| {{tooltip|11|Round 11}} || 06.12.1925 || [[Pfarrwiese|H]] || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 6-4 || align="right"|4,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|1}} {{goal|4|pen.}}, [[Karl Wondrak|Wondrak]] {{goal|}}, [[Franz Weselik|Weselik]] {{goal|47}} {{goal|}}, Hoffmann J. {{goal|}}
+|- style="background:#fcc"
+| {{tooltip|12|Round 12}} || 15.11.1925 || A || align="left"| [[FK Austria Wien|Amateure]] || 1-5 || align="right"|15,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|82}}
+|- style="background:#fcc"
+| {{tooltip|13|Round 13}} || 11.10.1925 || [[Pfarrwiese|H]] || align="left"| [[SK Slovan Wien|Slovan Wien]] || 4-5 || align="right"|15,000
+| align="left"|[[Eduard Bauer|Bauer E.]] {{goal|}}, [[Ferdinand Wesely|Wesely]] {{goal||pen.}} {{goal||pen.}}, [[Richard Kuthan|Kuthan]] {{goal|}}
+|- style="background:#ffc"
+| {{tooltip|14|Round 14}} || 21.03.1926 || [[Pfarrwiese|H]] || align="left"| [[Hakoah Vienna|Hakoah]] || 3-3 || align="right"|15,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|6}}, [[Franz Solil|Solil]] {{goal|36|pen.}}, [[Anton Zach|Zach]] {{goal|70}}
+|- style="background:#fcc"
+| {{tooltip|15|Round 15}} || 07.03.1926 || [[Hohe Warte Stadium|A]] || align="left"| [[Wiener AC]] || 1-3 || align="right"|16,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|69}}
+|- style="background:#cfc"
+| {{tooltip|16|Round 16}} || 13.05.1926 || [[Pfarrwiese|H]] || align="left"| [[1. Simmeringer SC|Simmering]] || 2-1 || align="right"|8,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|49}}, [[Franz Weselik|Weselik]] {{goal|51}}
+|- style="background:#ffc"
+| {{tooltip|17|Round 17}} || 04.04.1926 || [[Hohe Warte Stadium|A]] || align="left"| [[SK Slovan Wien|Slovan Wien]] || 4-4 || align="right"|28,000
+| align="left"|Hoffmann J. {{goal|3}} {{goal|31}}, [[Karl Wondrak|Wondrak]] {{goal|10}}, [[Ferdinand Wesely|Wesely]] {{goal|34}}
+|- style="background:#cfc"
+| {{tooltip|18|Round 18}} || 11.04.1926 || [[Pfarrwiese|H]] || align="left"| [[First Vienna FC|Vienna]] || 1-0 || align="right"|14,000
+| align="left"|[[Heinrich Budin|Budin]] {{goal|26}}
+|- style="background:#cfc"
+| {{tooltip|19|Round 19}} || 03.06.1926 || [[Pfarrwiese|H]] || align="left"| [[Floridsdorfer AC|FAC]] || 2-0 || align="right"|6,000
+| align="left"|Hoffmann J. {{goal|}}, [[Franz Solil|Solil]] {{goal|74}}
+|- style="background:#fcc"
+| {{tooltip|20|Round 20}} || 25.04.1926 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Admira]] || 0-1 || align="right"|8,000
+| align="left"|
+|- style="background:#fcc"
+| {{tooltip|21|Round 21}} || 09.05.1926 || [[Pfarrwiese|H]] || align="left"| [[FK Austria Wien|Amateure]] || 0-5 || align="right"|25,000
+| align="left"|
+|- style="background:#fcc"
+| {{tooltip|22|Round 22}} || 23.05.1926 || [[Hohe Warte Stadium|A]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 2-3 || align="right"|16,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|56}} {{goal|69}}
+|- style="background:#fcc"
+| {{tooltip|23|Round 23}} || 06.06.1926 || A || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 2-3 || align="right"|7,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|8}}, [[Karl Wondrak|Wondrak]] {{goal|80}}
+|- style="background:#cfc"
+| {{tooltip|24|Round 24}} || 16.05.1926 || [[Pfarrwiese|A]] || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 3-1 || align="right"|5,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|15}}, [[Franz Weselik|Weselik]] {{goal|41}}, [[Anton Zach|Zach]] {{goal|86}}
+|- style="background:#cfc"
+| {{tooltip|25|Round 25}} || 28.02.1926 || [[Pfarrwiese|A]] || align="left"| [[ASV Hertha Wien|Hertha Wien]] || 3-1 || align="right"|12,000
+| align="left"|Hoffmann J. {{goal|26}}, [[Willibald Kirbes|Kirbes W.]] {{goal|49}}, [[Ferdinand Wesely|Wesely]] {{goal|86|pen.}}
+|}
+
+===Cup===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#fcc"
+| {{tooltip|R1|1st round}} || 14.02.1926 || [[Pfarrwiese|H]] || align="left"| [[Brigittenauer AC]] || 0-3 || align="right"|5,000
+| align="left"|
+|}
+
+==References==
+{{Reflist}}
+
+{{SK Rapid Wien seasons |state=expanded}}
+
+{{DEFAULTSORT:1925-26 SK Rapid Wien season}}
+[[Category:SK Rapid Wien seasons|1925-26 Rapid Wien Season]]
+[[Category:Austrian football clubs 1925–26 season|Rapid]]

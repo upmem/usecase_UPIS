@@ -1,0 +1,38 @@
+{{Infobox lake
+| name               = Chaqmaqtin Lake
+| image              = View Across Lake Chakmaktin Towards Ak-Tash, Little Pamir.jpg
+| caption            = View Across Lake Chakmaktin Towards Ak-Tash, Little Pamir
+| image_bathymetry   = 
+| caption_bathymetry = 
+| location           = [[Pamir Mountains]]
+| coords             = {{coord|37|14|N|74|11|E|type:waterbody|display=inline,title}}
+| type               = 
+|pushpin_map=Afghanistan
+| inflow             = 
+| outflow            = [[Murghab River (Tajikistan)|Murghab River]]
+| catchment          = 
+| basin_countries    = Afghanistan
+| length             = {{convert|9|km|abbr=on}}
+| width              = {{convert|2|km|abbr=on}}
+| area               = 
+| depth              = 
+| max-depth          = 
+| volume             = 
+| residence_time     = 
+| shore              = 
+| elevation          = {{convert|4,024|m|abbr=on}}
+| islands            = 
+}}
+
+'''Chaqmaqtin Lake''' ({{lang-fa|rtl=yes| كول چقمقتين|translit=Kōl-e Chaqmaqtīn}}) is a lake in the [[Wakhan]] region of [[Afghanistan]].  It lies at an elevation of about 4,024 m in the [[Little Pamir]].<ref>{{cite web|title=Kōl-e Chaqmaqtīn|publisher=[[Geonames]]|url=https://www.geonames.org/1145391/kol-e-chaqmaqtin-chaqmaqtin.html|accessdate=2019-02-25}}</ref>  It extends for about 9 km and is about 2 km wide. 
+
+Chaqmaqtin Lake lies towards the western end of the Little Pamir valley. The Aksu or [[Murghab River (Tajikistan)|Murghab River]] flows east from the lake through the Little Pamir to enter [[Tajikistan]] at the eastern end of the valley.  The Bozai Darya (also known as the Little Pamir River) rises a short distance west of the lake and flows 15km west to join the Wakhjir River and form the [[Wakhan River]] near the settlement of [[Bozai Gumbaz]]. Some accounts state that the Bozai Darya also rises from Chaqmaqtin Lake.<ref>See [http://nzdl.sadl.uleth.ca/gsdl/collect/areu/Upload/1710/Kamal_River%20basins%20and%20watersheds2004.pdf Afghanistan Information Management Service: ''River basins and Watersheds of Afghanistan" (2004)] {{webarchive|url=https://web.archive.org/web/20110706211414/http://nzdl.sadl.uleth.ca/gsdl/collect/areu/Upload/1710/Kamal_River%20basins%20and%20watersheds2004.pdf |date=2011-07-06 }}, p.5.</ref>  Another source calls the lake "a deeper and possibly marshy section within the Aq Su-Little Pamir River drainage divide".<ref>The International Boundary Study of the Afghanistan-USSR Boundary (1983) {{Cite web |url=http://www.law.fsu.edu/library/collection/LimitsinSeas/IBS026.pdf |title=Archived copy |access-date=2019-02-25 |archive-url=https://web.archive.org/web/20140817020033/http://www.law.fsu.edu/library/collection/LimitsinSeas/IBS026.pdf |archive-date=2014-08-17 |url-status=dead }} by the US [[Bureau of Intelligence and Research]], p.10.</ref>
+
+The lake is a glacier basin lake formed when the ice was once very thick here before it melted away a few thousand years ago.<ref>{{cite web|url=https://www.unomaha.edu/international-studies-and-programs/center-for-afghanistan-studies/academics/transboundary-water-research/DLM4/DLM4.php|title=Distance Learning Module 4 - Afghanistan Lakes|publisher=[[University of Omaha]]. Center for Afghanistan Studies|accessdate=2019-02-25}}</ref> 
+
+== References ==
+{{Reflist}}
+
+[[Category:Lakes of Afghanistan]]
+[[Category:Wakhan]]
+[[Category:Landforms of Badakhshan Province]]

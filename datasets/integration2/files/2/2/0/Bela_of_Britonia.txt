@@ -1,0 +1,23 @@
+'''Bela of Britonia''' (? - 675 - ?) was a medieval [[Galician people|Galician]] clergyman.
+
+{{s-start}}
+{{s-rel|ca}}
+{{succession box | title=[[Britonia|Bishop of Britonia]] | before=[[Susa of Britonia]] | after=[[Sabaricus I]] | years= ?-&ndash;675-? }}
+{{s-end}}
+
+== References ==
+* ''Episcopologio Mindoniense''. CAL PARDO, Enrique, 2003, {{ISBN|84-933023-1-7}}.
+
+== External links ==
+
+* {{in lang|es}} [http://www.mondonedoferrol.org/ Official web site of the Diocese of Mondoñedo-Ferrol]
+
+
+{{authority control}}
+
+[[Category:Galician clergy]]
+[[Category:7th-century bishops]]
+
+
+{{Galicia-bio-stub}}
+{{Spain-RC-bishop-stub}}

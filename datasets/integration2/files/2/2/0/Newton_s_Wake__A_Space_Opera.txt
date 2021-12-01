@@ -1,0 +1,46 @@
+{{Italic title}}
+{{Infobox book
+|name=Newton's Wake: A Space Opera
+|image=NewtonWake.jpg
+|caption=First edition
+|cover_artist=Lee Gibbons
+|author=[[Ken MacLeod]]
+|genre=[[Science fiction]]
+|pub_date=2004
+|publisher=[[Orbit Books]]
+|language=English
+|country=United Kingdom
+|isbn=1841492248
+}}
+
+'''''Newton's Wake: A Space Opera'''''  is a [[science fiction]] novel by British writer [[Ken MacLeod]], published in 2004.  Set in the 24th century, it follows human life after a partially cataclysmic [[technological singularity|Singularity]], and in particular a conflict on a far-flung planet that upsets the prevailing order. It has elements of both [[transhumanism]] and [[satire]] and is written using the printed versions of common translation stereotypes (e.g. Scottish people say "tae").  The novel was nominated for the British Science Fiction Award in 2004,<ref name="WWE-2004">{{cite web
+| url = http://www.worldswithoutend.com/books_year_index.asp?year=2004 
+| title = 2004 Award Winners & Nominees
+| work = Worlds Without End
+| accessdate=2009-07-20
+}}</ref> and the [[John W. Campbell Memorial Award for Best Science Fiction Novel]] in 2005.<ref name="WWE-2005">{{cite web
+| url = http://www.worldswithoutend.com/books_year_index.asp?year=2005 
+| title = 2005 Award Winners & Nominees
+| work = Worlds Without End
+| accessdate=2009-07-20
+}}</ref>
+
+==Plot==
+In the late 20th century, at the start of a war between the [[Europe]]an nations and the United States, a US Army [[Artificial intelligence|AI]] directing weapons overcame its programming to become self-aware. Then followed the "Hard Rapture", an explosive expansion and evolution of computer systems that left most of humanity dead or devoured while the AIs and assimilated persons progressed into [[Posthuman (Human evolution)|posthumanity]] beyond human comprehension and departed for parts unknown, leaving behind artifacts on a number of worlds.
+
+With the Earth now populated by varyingly dormant, partially sentient war machines, humanity lives offworld. The three main sects are America Offline (AO), the Knights of Enlightenment (KE) and Demokratische Kommunistbund (Democratic Communist Union) (DK). Examination of the posthuman relics has resulted in deep but sporadic knowledge of such things as [[faster-than-light|FTL]] travel.
+
+The main character is Lucinda Carlyle, a member of a Scottish family of entrepreneurs/thugs that controls a system of [[Wormhole#Traversable wormholes|traversable wormholes]] known as the Skein. Lucinda is a "combat archeologist", leading a team to the unexplored world of Eurydice to salvage posthuman technology and deal with whatever it tries in response. Not only does she find a motherlode of an artifact, but a lost colony of humans that escaped Earth in the Hard Rapture and are living in a [[Post scarcity|post scarcity society]] (with [[cosmic string]] weapons far beyond those of other groups). Each side is as surprised as the other, having thought themselves the only survivors. Then the Knights of Enlightenment discover that the artifact, originally the crashed colony ship of the Eurydiceans, is the focal point of the Skein.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.worldswithoutend.com/novel.asp?ID=655 ''Newton's Wake''] at Worlds Without End
+*{{Isfdb title|id=29837}}
+
+[[Category:Novels by Ken MacLeod]]
+[[Category:2004 science fiction novels]]
+[[Category:British science fiction novels]]
+[[Category:English-language novels]]
+[[Category:2004 British novels]]

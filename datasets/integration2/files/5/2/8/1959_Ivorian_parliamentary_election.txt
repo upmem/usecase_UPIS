@@ -1,0 +1,23 @@
+{{Politics of Côte d'Ivoire}}
+
+'''Parliamentary elections''' were held in [[Ivory Coast]] on 12 April 1959 as a prelude to independence the next year. The [[Democratic Party of Ivory Coast – African Democratic Rally]] was the only party to contest the election, thereby winning all 100 seats. Voter turnout was 94.7%.<ref>[[Dieter Nohlen]], Michael Krennerich & Bernhard Thibaut (1999) ''Elections in Africa: A data handbook'', p308 {{ISBN|0-19-829645-2}}</ref>
+
+==Results==
+{{Election results
+|party1=[[Democratic Party of Ivory Coast – African Democratic Rally|Democratic Party of Ivory Coast]]|votes1=1522324|seats1=100|sc1=+40
+|invalid=1256
+|total_sc=+40
+|electorate=1609345
+|source=Nohlen ''et al.''
+}}
+
+==References==
+{{reflist}}
+
+{{Ivorian elections}}
+
+[[Category:1959 elections in Africa|Ivory]]
+[[Category:Elections in Ivory Coast]]
+[[Category:1959 in Ivory Coast]]
+[[Category:One-party elections]]
+[[Category:April 1959 events]]

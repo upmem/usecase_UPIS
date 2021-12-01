@@ -1,0 +1,26 @@
+{{short description|Danish gymnast}}
+{{MedalTop}}
+{{MedalSport|Men's [[Gymnastics at the Summer Olympics|Gymnastics]]}}
+{{MedalBronze|[[1912 Summer Olympics|1912 Stockholm]] | [[Gymnastics at the 1912 Summer Olympics – Men's team, free system|Team, free system]]}}
+{{MedalBottom}}
+
+'''Poul Preben Jørgensen''' (17 February 1892 – 6 October 1973) was a [[Denmark|Danish]] [[gymnast]] who competed in the [[1912 Summer Olympics]].
+
+He was part of the Danish team, which won the bronze medal in the gymnastics men's team, free system event.
+
+==External links==
+*[http://www.databaseolympics.com/players/playerpage.htm?ilkid=J%D8RGEPOU01 profile]{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{DEFAULTSORT:Jorgensen, Poul}}
+[[Category:1892 births]]
+[[Category:1973 deaths]]
+[[Category:Danish male artistic gymnasts]]
+[[Category:Gymnasts at the 1912 Summer Olympics]]
+[[Category:Olympic gymnasts of Denmark]]
+[[Category:Olympic bronze medalists for Denmark]]
+[[Category:Olympic medalists in gymnastics]]
+
+
+{{Denmark-Olympic-medalist-stub}}
+{{Denmark-artistic-gymnastics-bio-stub}}
+[[Category:Medalists at the 1912 Summer Olympics]]

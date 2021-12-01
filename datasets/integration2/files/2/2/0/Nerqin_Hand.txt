@@ -1,0 +1,43 @@
+{{Infobox settlement
+|official_name =Nerqin Hand
+|native_name =Ներքին Հանդ 
+|settlement_type        = [[Community (Armenia)|community]]
+|pushpin_map            =Armenia
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name       = {{flag|Armenia}}
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      =[[Syunik Region|Syunik]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 9.64
+|area_footnotes           = <ref>{{ARMENIAarea|Syunik}}</ref>
+|population_as_of         = 2011
+|population_total =97
+|population_density_km2   =auto
+|timezone =&nbsp;
+|utc_offset             = +4
+|timezone_DST           =&nbsp; 
+|utc_offset_DST         = +5
+|coordinates            = {{coord|39|02|28|N|46|31|01|E|region:AM|display=inline,title}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+|footnotes              ={{GEOnet2|32FA881E6C223774E0440003BA962ED3}}
+}}
+'''Nerqin Hand''' ({{lang-hy|Ներքին Հանդ}}, also [[Romanize]]d as '''Nerkin Hand''' and '''Nerk’in Hand''', '''Nerqin Hand''', and '''Nerkin And''') is a village and [[Community (Armenia)|rural community]] (municipality) in the [[Syunik Region|Syunik Province]] of [[Armenia]].  The [[National Statistical Service of the Republic of Armenia]] (ARMSTAT) reported its population was 78 in 2010,<ref>{{ARMSTATdata|44}}</ref> down from 113 at the 2001 census.<ref>{{ArmenianCensus|210}}</ref>
+
+== See also ==
+*[[Syunik Province]]
+
+== References ==
+{{reflist}}
+
+{{Syunik}}
+
+[[Category:Populated places in Syunik Province]]
+[[Category:Communities in Syunik Province]]
+
+{{Syunik-geo-stub}}

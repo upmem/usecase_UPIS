@@ -1,0 +1,46 @@
+{{short description|Pakistani cricketer}}
+{{Use dmy dates|date=October 2016}}
+{{Infobox cricketer
+|                name = Asif Fawad
+|               image = 
+|            fullname = 
+|          birth_date = {{birth date and age|1990|12|22|df=yes}}
+|         birth_place = [[Punjab, Pakistan|Punjab]], Pakistan
+|          death_date = 
+|         death_place = 
+|             batting = 
+|             bowling = 
+|                role = 
+
+|               club1 = 
+|               year1 = 
+|         clubnumber1 = 
+|               club2 = 
+|               year2 = 
+|         clubnumber2 =
+
+|                date = 9 October 2016
+|              source = [http://www.espncricinfo.com/ci/content/player/681097.html ESPNcricinfo]
+}}
+
+'''Asif Fawad''' (born 22 December 1990) is a Pakistani [[cricket]]er.<ref name="Bio">{{Cite web|url=http://www.espncricinfo.com/ci/content/player/681097.html |title=Asif Fawad |accessdate=9 October 2016 |work=ESPN Cricinfo}}</ref> He made his [[first-class cricket|first-class]] debut for [[Multan cricket team|Multan]] in the [[2013–14 Quaid-e-Azam Trophy]] on 23 October 2013.<ref name="FC">{{Cite web|url=http://www.espncricinfo.com/ci/engine/match/677855.html |title=Quaid-e-Azam Trophy, Group II: Faisalabad v Multan at Faisalabad, Oct 23-26, 2013 |accessdate=9 October 2016 |work=ESPN Cricinfo}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{ESPNcricinfo|id=681097}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fawad, Asif}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Pakistani cricketers]]
+[[Category:Multan cricketers]]
+[[Category:Peshawar cricketers]]
+[[Category:Cricketers from Punjab, Pakistan]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{Pakistan-cricket-bio-1990s-stub}}

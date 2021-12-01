@@ -1,0 +1,19 @@
+<div class="boilerplate metadata afd vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result was    '''delete'''. [[User:JohnCD|JohnCD]] ([[User talk:JohnCD|talk]]) 12:06, 17 February 2012 (UTC)
+===[[The Karaoke Album]]===
+
+:{{la|The Karaoke Album}} – (<includeonly>[[Wikipedia:Articles for deletion/The Karaoke Album|View AfD]]</includeonly><noinclude>[[Wikipedia:Articles for deletion/Log/2012 February 9#{{anchorencode:The Karaoke Album}}|View log]]</noinclude>)
+:({{Find sources|The Karaoke Album}})
+non-notable Karaoke album. [[User:Dennis Brown|Dennis Brown]] ([[User talk:Dennis Brown|talk]]) 16:46, 9 February 2012 (UTC)
+*'''delete''' failing music notability criteria.
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Albums and songs|list of Albums and songs-related deletion discussions]]. <!--Template:Deletion sorting--></small> <small>[[User:Gene93k|• Gene93k]] ([[User talk:Gene93k|talk]]) 02:45, 10 February 2012 (UTC)</small>
+*'''Delete'''. I'm not finding significant coverage for this album in [[WP:RS|reliable sources]]; does not appear to satisfy [[WP:GNG]] or [[WP:NALBUM]]. <small><span style="background-color:#ffffff;border: 1px solid;">[[User:Gongshow|'''<span style="color:#000000; background-color:#ffffff">&nbsp;Gongshow&nbsp;</span>''']]</span></small><sup>[[User talk:Gongshow|''Talk'']]</sup> 04:52, 10 February 2012 (UTC)
+*'''Delete''' - No coverage in reliable sources to establish notability. -- [[User:Joaquin008|<font color="OrangeRed"><b>Joaquin008</b></font>]] <sup>([[User talk:Joaquin008|<span style="color: DarkOrange; font-weight: bold">talk</span>]])</sup> 10:25, 10 February 2012 (UTC)
+*'''Delete''' - Not finding coverage in third-party RS. While it does exist, the coverage that warrants topic notability on Wikipedia isn't there. <small><font face="arial"><strong>[[User:Northamerica1000|Northamerica1000]]</strong><sup>[[User_talk:Northamerica1000|(talk)]]</sup></font></small> 14:40, 10 February 2012 (UTC)
+*'''Delete'''.  Fails to meet our GNG and music notability guidelines.  Passing RS coverage is insufficient.--[[User:Epeefleche|Epeefleche]] ([[User talk:Epeefleche|talk]]) 20:22, 11 February 2012 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. <!--Template:Afd bottom--></div>

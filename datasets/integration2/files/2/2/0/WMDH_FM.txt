@@ -1,0 +1,63 @@
+{{Infobox radio station
+| name             = WMDH-FM
+| logo             = WMDH-FM (Nash FM 102.5) logo.png
+| logo_size        = 150px
+| city             = [[New Castle, Indiana]]
+| area             = [[Muncie, Indiana]]
+| branding         = ''Nash FM 102.5''
+| slogan           = Country For Life
+| frequency        = 102.5 [[Megahertz|MHz]]
+| airdate          = 1947
+| format           = [[Country music|Country]]
+| erp              = 50,000 [[watt]]s
+| haat             = 152 meters
+| class            = B
+| facility_id      = 74092
+| callsign_meaning =
+| former_callsigns = WMDH (1947-1991)
+| affiliations     =
+| owner            = [[Cumulus Media]]
+| licensee         = Radio License Holding CBC, LLC
+| sister_stations  = [[WLTI (AM)|WLTI]]
+| webcast          = {{listen live|http://www.nashfm1025.com}}<br>[http://www.iheart.com/live/5368/?autoplay=true Listen Live (iHeart)]
+| website          = [http://www.nashfm1025.com/ nashfm1025.com]
+}}
+
+'''WMDH-FM''' (branded as "Nash FM 102.5") is a radio station licensed to [[New Castle, Indiana]], and serves the Muncie-Marion, Indiana, radio market with a [[country music]] format. This station operates at an effective radiated power of 50,000 watts on FM frequency 102.5 under ownership of [[Cumulus Media]].  Studios are located in [[New Castle, Indiana|New Castle]] with tower facilities located between New Castle and Muncie near the Delaware/Henry County line. On September 6, 2013, WMDH dropped the "Hit Country 102.5 WMDH" branding and became "Nash FM 102.5."
+
+Current Schedule:
+
+* Anna Marie (Weekdays: 6 - 10 AM)
+* Mike Lees (Weekdays: 10 AM - 3 PM)
+* Nights With Elaina (7 PM - 12 AM)
+* The Blair Garner Show (12 - 6 AM)
+* Country Gold with Terri Clark ( Saturdays: 6 - 10 AM)
+* American Country Countdown with Kix Brooks (Sundays: 9 AM - 1 PM)
+
+Notable WMDH Alumni: 
+* Bob Richards/VP of Programming [[WLHK]], [[WIBC (FM)|WIBC]] - Emmis Communications
+* Chris Carter/GM [[WEEM]]
+* Rick Daniels<ref>{{cite web |last1=Daniels |first1=Rick |title=Radio Broadcaster |url=https://onairwithrick.com |website=Rick Daniels |publisher=Rick Daniels |accessdate=17 March 2015}}</ref> (formerly with [[WLBC-FM|WLBC]], [[WXXC]], [[WSTO]], [[KQFC]], [[KIZN]])
+
+==Previous logo==
+[[File:WMDH-FM former logo.png|200px]]
+
+==References==
+<references />
+
+==External links==
+*[http://www.nashfm1025.com Nash FM 102.5 - Official Site]
+*{{FM station data|WMDH}}
+
+{{Muncie-Marion Radio}}
+{{Country Radio Stations in Indiana}}
+{{Cumulus Media}}
+
+{{coord|40.055|N|85.385|W|type:landmark_region:US_source:FCC|display=title}}
+
+[[Category:Radio stations in Indiana|MDH-FM]]
+[[Category:Country radio stations in the United States]]
+[[Category:Cumulus Media radio stations]]
+
+
+{{Indiana-radio-station-stub}}

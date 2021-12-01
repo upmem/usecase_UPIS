@@ -1,0 +1,113 @@
+{{Italic title}}
+{{Infobox artifact
+| name          = ''Statue of Ebih-Il''
+| image2        =
+| image         =[[File:Ebih-ii en priere.jpg|250px]]
+| image_caption = Statue of Ebih-Il, superintendent of Mari
+| material      =[[Gypsum]], [[schist]], [[Seashell|shells]], [[lapis lazuli]]
+| period        =[[History of Sumer|Sumerian]]
+| depth         ={{convert|30|cm}}
+| height        ={{convert|52.5|cm}}
+| width         ={{convert|20.6|cm}}
+| writing       =
+| created       ={{circa}} 2400 BC
+| discovered    =1934
+| place         = Temple of Ishtar, [[Mari, Syria|Mari]], [[Syria]]
+| location      =[[Musée du Louvre]], [[Paris]]
+| id            =[http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=9740&langue=fr AO 17551]
+| map               =
+{{Location map|Near East
+|width      = 
+|float      = center
+|border     =
+|caption    = <center>The Statue of Ebih-Il was discovered in [[Mari, Syria|Mari]], modern [[Syria]]</center>
+|alt        = 
+|relief     = yes
+|AlternativeMap= 
+|overlay_image = 
+|label      = [[Mari, Syria|Mari]]
+|label_size = 
+|position   = top
+|background = 
+|mark       = 
+|marksize   = 
+|link       = 
+|lat_deg    = 34
+|lat_min    = 32
+|lat_sec    = 58
+|lat_dir    = N
+|lon_deg    = 40
+|lon_min    = 53
+|lon_sec    = 24
+|lon_dir    = E
+}}
+}}
+
+The '''''Statue of Ebih-Il''''' is a 25th-century BC statue of the praying figure of Ebih-Il ({{cuneiform|𒂗𒋾𒅋}}, <small>EN-TI-IL</small>, ''e-bih-il''),<ref name="SD"/><ref>{{cite journal |last1=THUREAU-DANGIN |first1=F. |title=Inscriptions Votives Sur des Statuettes de Maʾeri |journal=Revue d'Assyriologie et d'archéologie orientale |date=1934 |volume=31 |issue=3 |page=143 |jstor=23297288 |issn=0373-6032}}</ref> superintendent of the ancient city-state of [[Mari, Syria|Mari]] in modern eastern [[Syria]]. The statue was discovered at the Temple of [[Ishtar]] in Mari during excavations directed by [[French people|French]] archaeologist [[André Parrot]]. It is made of [[gypsum]], with inlays of [[schist]], [[Seashell|shells]] and [[lapis lazuli]]. Claire Iselin of the [[Musée du Louvre]], where the statue is displayed, describes it as "a masterpiece by virtue of its craftsmanship, state of preservation, and expressive style."<ref name="louvre">{{cite web|url=http://www.louvre.fr/en/oeuvre-notices/ebih-il-superintendent-mari|title=Ebih-Il, the Superintendent of Mari|first1=Claire|last1=Iselin|publisher=[[Musée du Louvre]]|accessdate=10 October 2012}}</ref>
+
+==Overview==
+The statue, made of translucent smooth [[alabaster]], depicts the figure of a man seated on a [[wicker]] [[Tuffet|hassock]]. The man is shown in a praying posture with hands clasped against his chest conveying his devotion to the deity.<ref name="louvre"/>
+
+The man's head is shaved. His long beard is composed of vertical curls and has holes drilled, and was formerly inlaid with another, now-lost material.<ref name="louvre"/> The beard accentuates the figure's cheeks and finely sculpted lips that convey a half-smile. The figure's staring blue eyes were crafted with particular care and attention to detail. A combination of [[schist]], [[Seashell|shells]] and [[lapis lazuli]] was used to depict the [[eyelash]]es and [[eyelid]]s, [[cornea]] and [[Iris (anatomy)|iris]], respectively.<ref name=Parrot26>Parrot, 1935, p. 26.</ref> The lapis lazuli inlays used were imported from as far east as [[Afghanistan]].<ref name="louvre"/>
+
+The figure has a bare torso and a thin waist. The hands are clasped against the chest, and the left hand is closed and placed inside the right hand.<ref name=Parrot26/> The figure's only dress is the [[History of Sumer|Sumerian]]-style ceremonial [[kaunakes]] skirt. The elaborate fleece skirt appears to be made from [[Hide (skin)|animal hide]] (probably, [[sheepskin]] or [[Goatskin (material)|goatskin]]) as evidenced by the presence of a tail at the back.<ref name="louvre"/> The figure's feet are missing but their attachment piece is still showing under the dress.<ref name=Parrot26/>
+
+The inscription in [[proto-cuneiform]] signs on the rear, which identifies the work, reads: "Statue of Ebih-Il, the superintendent, dedicated to [[Ishtar]] Virile."<ref name="louvre"/>
+
+{{quote|[[File:Ebih-Il statue inscription.jpg|120px|left]]
+𒊨 𒂗𒋾𒅋 𒉡𒌉 𒀭𒈹𒍑 𒊕𒄸𒁺<ref>The first character is 𒊨 ''dul3'' for "statue" ("plaster") in {{cite web |title=Statue inscription of Ebil-Il |url=https://cdli.ucla.edu/search/archival_view.php?ObjectID=P225850}}, previously given as 𒊕 ''şalam'' by Spycket. A related reference: {{cite book |last1=Lecompte |first1=Camille |title=Le sanctuaire du "Seigneur du pays" |publisher=Cahier des Thèmes transversaux |date=2014|url=https://hal.archives-ouvertes.fr/hal-02278287/document}}</ref><br>
+''dul, Ebih-il, nu-banda, <sup>[[Dingir|d]]</sup>Ištar Nita, sarig<ref>Written 𒊕𒄸𒁺 ''sa<sub><small>12</small></sub>rig<sub><small>9</small></sub>'' "to donate a statue", rather than the later (Babylonian) 𒅖𒊒𒊌 ''išruk'' "to donate". For reference: {{cite web |title=Statue inscription of Ebil-Il |url=https://cdli.ucla.edu/search/archival_view.php?ObjectID=P225850}}, {{cite web |title=Statue of Ikun-Shamash |url=https://cdli.ucla.edu/search/archival_view.php?ObjectID=P431171 |website=CDLI}}</ref>''<br>
+"This statue, Ebih-il, the overseer, to Ishtar (?), he dedicated"
+|Inscription on the statue of Ebib-Il.<ref>{{cite book |last1=Spycket |first1=Agnès |title=Les Statues de culte dans les textes mésopotamiens: des origines à la Ire. dynastie de Babylone |date=1968 |publisher=J. Gabalda et Cie |page=36 |url=https://books.google.com/books?id=hZXXAAAAMAAJ |language=fr}}</ref><ref>{{cite web |title=Statue inscription of Ebil-Il |url=https://cdli.ucla.edu/search/archival_view.php?ObjectID=P225850}}</ref>}}
+
+==Excavation==
+The statue was discovered in two parts by the French excavation team under [[André Parrot]].<ref name=Ebih>Cluzan; Lecompte, 2011, p. 5.</ref> The head was found on the pavement of the outer court of the Temple of Ishtar.<ref name=Parrot26/> The body, along with the smaller statue of King [[Lamgi-Mari]], was found a few meters away.<ref name=Ebih/> When the statue was found, the left arm and elbow were broken, and the base of the right elbow was shattered.<ref name=Parrot26/> The statues were the first major discovery in the excavations, started in winter 1933, at the site of [[Mari, Syria|Mari]].<ref>Parrot, 1935, p. 1.</ref> The statue of Ebih-Il was discovered on 22 January 1934 (for the head), and 23 January 1934 (for the body).<ref>{{cite web |title=Voués à Ishtar. Syrie, janvier 1934: André Parrot découvre Mari |url=https://www.louvre.fr/sites/default/files/medias/medias_fichiers/fichiers/pdf/louvre-programme-detaille-colloque-voues.pdf}}</ref>
+
+<gallery widths="170px" heights="170px">
+File:Ebih-Il (discovery, 22 January 1934, excavation).jpg|Excavation of the head of Ebih-Il (22 January 1934)
+File:Ebih-Il (discovery, 22 January 1934).jpg|Head of Ebih-Il (discovery, 22 January 1934)
+File:Ebih-Il (discovery, 23 January 1934, body).jpg|Body of Ebih-Il (discovery, 23 January 1934)
+Ebih-Il (discovery, 22 January 1934, portrait).jpg|Head of Ebih-Il upon discovery
+File:Ebih-Il (discovery, 22 January 1934, profile).jpg|Head of Ebih-Il upon discovery (profile)
+</gallery>
+{{clear}}
+
+==Details of the statue==
+<gallery widths="170px" heights="170px">
+File:Ebih-Il Louvre AO17551 n01.jpg|Ebih-Il in the Louvre, AO17551
+File:Ebih-Il Louvre AO17551 n02.jpg|The figure's facial expressions. The figure's hands are clasped in prayer
+File:Ebih-Il Louvre AO17551 n04.jpg|A profile of the statue showing the seated posture and the [[kaunakes]] skirt
+File:Ebih-Il Louvre AO17551 n11.jpg|A closeup of the finely crafted eyes
+File:Ebih-Il Louvre AO17551 n07.jpg|Dedication of the statue in [[Proto-cuneiform]] script: "Ebih-Il, nu-banda ({{cuneiform|𒉡𒌉}}, ''nu-banda'', "overseer"),<ref>{{cite web|title=Sumerian Dictionary|url=http://oracc.iaas.upenn.edu/epsd2/cbd/sux/N.html|website=oracc.iaas.upenn.edu}}</ref> offered his statue to Ishtar Virile"
+File:Ebih-Il (name).jpg|thumb|The name "Ebih-Il" ({{cuneiform|𒂗𒋾𒅋}}, EN-TI-IL)<ref>{{cite journal|last1=THUREAU-DANGIN|first1=F.|title=Inscriptions Votives Sur des Statuettes de Maʾeri|journal=Revue d'Assyriologie et d'archéologie orientale|date=1934|volume=31|issue=3|page=143|jstor=23297288|issn=0373-6032}}</ref> on the statue, with the corresponding standard Sumero-Akkadian [[cuneiform]]s.<ref name="SD">{{cite web|title=Sumerian Dictionary|url=http://oracc.iaas.upenn.edu/epsd2/cbd/sux/E.html|website=oracc.iaas.upenn.edu}}</ref>
+File:Ebih-Il Louvre AO17551 n10.jpg|A closeup showing the details of the wicker seat
+</gallery>
+
+==See also==
+{{Commons category|Ebih-Il the intendant-AO 17551}}
+{{Mari, Syria}}
+{{Portal|Asia}}
+*[[Art of Mesopotamia]]
+*''[[Investiture of Zimrilim]]''
+*''[[Statue of Iddi-Ilum]]''
+
+==References==
+
+===Citations===
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+*{{cite book|first1=Sophie|last1=Cluzan|first2=Camille|last2=Lecompte|last3=[[Musée du Louvre]]. Département des antiquités orientales|title=Ebih-Il|isbn=9782757205099|publisher=Louvre éditions|year=2011|place=Paris|language=French}}
+*{{cite journal|last=Parrot|first=André|authorlink=André Parrot|title=Les fouilles de Mari (Première campagne)|language=French|date=1935|journal=Syria|publisher=[[Institut français du Proche-Orient]]|volume=16|issue=1|pages=1–28|url=http://www.persee.fr/articleAsPDF/syria_0039-7946_1935_num_16_1_8338/article_syria_0039-7946_1935_num_16_1_8338.pdf|doi=10.3406/syria.1935.8338}}
+{{refend}}
+{{Louvre Museum}}
+
+[[Category:25th-century BC works]]
+[[Category:Sculpture of the Ancient Near East]]
+[[Category:Syrian art]]
+[[Category:Archaeological discoveries in Mari, Syria]]
+[[Category:Near East and Middle East antiquities of the Louvre]]
+[[Category:Alabaster]]
+[[Category:Sumerian art and architecture]]
+[[Category:1934 archaeological discoveries]]

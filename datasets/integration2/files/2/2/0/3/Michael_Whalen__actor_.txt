@@ -1,0 +1,142 @@
+{{refimprove|date=November 2013}}
+{{Infobox person
+| name          = Michael Whalen
+| image         = File:Song and Dance Man Claire Trevor Michael Whalen 1936.jpg
+| caption       = Whalen and [[Claire Trevor]] in ''Song and Dance Man'', 1936
+| birth_name    = Joseph Kenneth Shovlin
+| birth_date    = {{Birth date|1902|06|30}}
+| birth_place   = [[Wilkes-Barre, Pennsylvania]], U.S.<ref>https://www.newspapers.com/clip/2798798/actor_michael_whalen_returns_to_wyoming/</ref>
+| death_date    = {{Death date and age|1974|04|14|1902|06|30}}
+| death_place   = Woodland Hills, Los Angeles, California, U.S.
+| resting_place = [[San Fernando Mission Cemetery]]
+| occupation    = Actor
+| yearsactive   = 1935-1961
+}}
+
+'''Joseph Kenneth Shovlin''' (June 30, 1902 &ndash; April 14, 1974), known as '''Michael Whalen''', was an American actor who starred in [[B Movie]]s and television, including ''Son of a Badman''<ref>{{cite book|url=https://books.google.com/books?id=Yj1BU60we_cC&pg=PA196|title=Ladies of the Western: Interviews with Fifty-one More Actresses from the Silent Era to the Television Westerns of the 1950s and 1960s|first=Michael G.|last=Fitzgerald|first2=Boyd|last2=Magers|publisher=McFarland|page=196|year=2002|isbn=978-0-7864-1140-5}}</ref> and ''Wee Willie Winkie''.<ref>{{cite book|url=https://books.google.com/books?id=2mwIN764MgYC&pg=PA103|title=Hollywood's West: The American Frontier in Film, Television, and History|first=Peter|last=Rollins|publisher=University Press of Kentucky|year=2005|page=103|isbn=978-0-8131-7180-7}}</ref> 
+
+==Selected filmography==
+<ref>{{cite web|url=http://www.fandango.com/michaelwhalen/filmography/p75738|title=Michael Whalen Filmography|publisher=Fandango}}</ref>
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1936
+|''[[White Fang (1936 film)|White Fang ]]''
+| Gordon Weedon Scott
+| 
+|-
+| 1936
+|''[[Poor Little Rich Girl (1936 film)|Poor Little Rich Girl]]''
+| Michael Barry
+|
+|-
+| 1936
+| ''[[Sing Baby Sing (1936 film)|Sing Baby Sing]]''
+| Ted Blake
+|
+|-
+|1937
+|''[[The Lady Escapes]]''
+|Michael Hilton
+|
+|-
+| 1937
+| ''[[Wee Willie Winkie (film)|Wee Willie Winkie]]''
+| Lt. "Coppy" Brandes
+|
+|-
+|1937
+|''[[Time Out for Romance]]''
+|Bob Reynolds
+|
+|-
+|1947
+| ''[[Gas House Kids in Hollywood]]'' 
+| Lance Carter
+|
+|-
+|1948
+| ''[[Parole, Inc.]]'' 
+| Kid Redmond
+|
+|-
+|1948
+| ''[[Blonde Ice]]''
+| Atty Stanley Mason
+|
+|-
+|1949
+| ''[[Batman and Robin (serial)]]'' 
+|Dunne
+|
+|-
+|1949
+| ''[[Tough Assignment]]'' 
+|Hutchinson
+|
+|-
+|1949
+| ''[[Tough Assignment]]'' 
+|Hutchinson
+|
+|-
+|1949
+| ''[[Treasure of Monte Cristo]]''
+|Lt. Michael Perry
+|
+|-
+|1950
+|''[[Sarumba]]''
+|Señor Valdez 
+|
+|-
+|1952
+| ''[[Waco (1952 film)|Waco]]'' 
+|
+|
+|-
+| 1955
+| ''[[The Phantom from 10,000 Leagues]]''
+| King
+|
+|-
+|
+|
+|-
+| 1959
+| ''[[Bat Masterson]]''
+| Marshall 
+|S1E11 “General Sherman’s March Through Dodge City”
+|-
+| 1960
+| ''[[Elmer Gantry (film)|Elmer Gantry]]''
+| Rev. Phillips
+|
+|-
+| 1961
+| ''[[Sea Hunt]]''
+|
+| Season 4, Episode 27
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Michael Whalen (actor)}}
+* {{IMDb name|0923481|Michael Whalen}}
+* {{Find a Grave|10023053}}
+
+{{Authority control}}
+{{DEFAULTSORT:Whalen, Michael}}
+[[Category:American male television actors]]
+[[Category:Actors from Wilkes-Barre, Pennsylvania]]
+[[Category:American male film actors]]
+[[Category:Male actors from Pennsylvania]]
+[[Category:1902 births]]
+[[Category:1974 deaths]]
+[[Category:20th-century American male actors]]

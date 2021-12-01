@@ -1,0 +1,89 @@
+{{Use dmy dates|date=January 2017}}
+{{Use British English|date=January 2017}}
+{{Infobox station
+| name                = Smallbrook Junction
+| symbol_location     = gb
+| symbol              = rail
+| image               = Smallbrook(1).jpg
+| caption             = Island Line platform at Smallbrook Junction
+| borough             = [[Ryde]], [[Isle of Wight Council|Isle of Wight]]
+| country             = England
+| grid_name           = [[Ordnance Survey National Grid|Grid reference]]
+| grid_position       = {{gbmapscaled|SZ596906|25|SZ596906}}
+| manager             = [[Island Line (brand)|Island Line]]
+| platforms           = 2 (1 National Rail, 1 Isle of Wight Steam Railway)
+| code                = SAB
+| classification      = [[United Kingdom railway station categories|DfT category]] F2
+| opened              = 20 July 1991
+| mpassengers =
+{{Rail pass box |pass_year=2014/15 |passengers={{decrease}} 11,230}}
+{{Rail pass box |pass_year=2015/16 |passengers={{increase}} 12,134}}
+{{Rail pass box |pass_year=2016/17 |passengers={{increase}} 12,768}}
+{{Rail pass box |pass_year=2017/18 |passengers={{decrease}} 12,670}}
+{{Rail pass box |pass_year=2018/19 |passengers={{increase}} 12,920}}
+| footnotes           = Passenger statistics from the [[Office of Rail and Road]]
+}}
+'''Smallbrook Junction railway station''' is a railway station on the [[Isle of Wight]], England. It is unusual because it has no public access but exists purely to provide a connection between two rail systems.
+
+Another similar station is [[Manulla Junction]] in [[County Mayo]], [[Republic of Ireland]]. However, that station allows interchange between two national network rail routes, rather than between a network route and a heritage route.
+
+== History ==
+The station was opened in 1991 by [[British Rail]] when the [[Isle of Wight Steam Railway]] was extended to reach the [[Island Line, Isle of Wight|Island Line]], in order to provide a passenger interchange between the two. It is only served on days that both the Island Line and the Steam Railway are open, as there is no access either by path or by road.
+
+Prior to 1991 there was no station on this site, but it was still an important railway junction. "Smallbrook Junction" is the historic name, long predating the station. Between 1875 and 1926 there were two separate lines here, independently run by the [[Isle of Wight Central Railway]] and the [[Isle of Wight Railway]]. In 1926, following the [[Railways on the Isle of Wight|island's rail network]] passing to the [[Southern Railway (Great Britain)|Southern Railway]], a signal box and [[turnout (rail)|turnout]]s were installed at Smallbrook.  From then until 1966, the line was the Junction between the Ryde Pier Head to Ventnor and Ryde Pier Head to Cowes Lines, and was notable for only being operated as such during the summer months when traffic increased.<ref name="Hardy, Tube Trains, p9">{{cite book
+  | first = Brian
+  | last = Hardy
+  | authorlink = Brian Hardy
+  | title = Tube Trains on the Isle of Wight
+  | publisher = Capital Transport
+  | year = 2003
+  | location = Harrow Weald, Middlesex
+  | page = 9
+  | isbn = 1-85414-276-3
+  |ref=Hardy, Tube Trains
+}}</ref> The junction has been featured in many photographs from the time.
+
+If the Isle of Wight Steam Railway achieves its long term aim of extending to Ryde St. Johns Road, it is likely that Smallbrook Junction station would close.<ref>{{cite news|url=http://www.islandecho.co.uk/news/is-the-future-trams-and-steam-trains-into-ryde|title=Is the future trams and steam trains into Ryde?|work=[[Island Echo]]|date=5 February 2016|access-date=26 June 2017}}</ref><ref>{{cite news|url=http://www.rail.co.uk/rail-news/2015/steaming-to-ryde/|title=Steaming back to Ryde after 50 years? Rail.co.uk assesses the plan and gives its verdict.|work=[[Rail.co.uk]]|date=18 January 2015|access-date=26 June 2017}}</ref>
+
+== Flooding ==
+In October 2000, flooding near the station washed away much of the [[track ballast]] on the [[Island Line, Isle of Wight|Island Line]].  Due to the dangerous state of the line, and the damage caused to trains by related flooding at [[Ryde depot]], [[Island Line Trains]] had to suspend their services for several days.<ref name="Hardy, Tube Trains, p76">[[#Hardy, Tube Trains|Hardy, Tube Trains]], p.&nbsp;76</ref>
+
+Similar events occurred in December 2013, closing the line for many weeks.
+
+{{rail start}}
+{{rail line|previous=[[Brading railway station|Brading]]|next=[[Ryde St John's Road railway station|Ryde St John's Road]]|route=[[Island Line Trains|Island Line]]<br /><small>[[Island Line, Isle of Wight|Ryde-Shanklin]]</small> |col={{ILT colour}} }}
+{{Heritage rail insert}}
+{{rail line|previous=[[Ashey railway station|Ashey]] |route=[[Isle of Wight Steam Railway]] |col={{heritage rail colour|000000}} }}
+{{s-end}}
+
+== Gallery ==
+<gallery>
+File:IoW Steam Railway 69199.jpg|From Smallbrook towards [[Ashey railway station|Ashey]]
+File:Whitefield Farm - 262329.jpg|Looking towards Whitefield Farm from the "Terrier"
+File:Smallbrook Junction railway station.jpg|Steam engine running around its train.
+</gallery>
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category|Smallbrook Junction railway station}}
+{{stn art lnk|SAB|PO334BE}}
+
+{{Island Line Navbox}}
+{{Isle of Wight Transport}}
+{{Special purpose UK stations}}
+
+{{coord|50.711|N|1.155|W|type:railwaystation_region:GB|display=title}}
+
+[[Category:Railway stations on the Isle of Wight]]
+[[Category:Heritage railway stations on the Isle of Wight]]
+[[Category:Rail junctions in England]]
+[[Category:Railway stations opened by British Rail]]
+[[Category:Railway stations built for UK heritage railways]]
+[[Category:Railway stations in Great Britain opened in 1991]]
+[[Category:Railway stations served by South Western Railway]]
+[[Category:Railway stations in Great Britain without public access]]
+[[Category:Railway stations in Great Britain without road access]]
+[[Category:1991 establishments in England]]
+[[Category:Ryde]]

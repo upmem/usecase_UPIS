@@ -1,0 +1,53 @@
+{{Infobox website
+| name             = FilesTube
+| logo             = Filestube current logo.gif
+| screenshot       =
+| caption          = 
+| url              = {{URL|filestube.com}}
+| commercial       = 
+| type             = [[Metasearch engine]]
+| language         = Chinese, English, French, German, Polish, Russian, Spanish
+| registration     =
+| owner            = [[Red-Sky|Red-Sky Sp. z.o.o.]]
+| author           = 
+| launch_date      = {{Start date and age|2007|06}}<ref>{{cite web|url=https://web.archive.org/web/*/http://www.filestube.com|title=web.archive.org entry on FilesTube |website=web.archive.org}}{{cbignore}}</ref>
+| current_status   = Offline
+}}
+
+'''FilesTube''' was a [[metasearch engine]] that specialized in searching files in various [[file sharing]] and [[File hosting service|uploading services]], such as [[Mega (service)|Mega]].<ref>{{cite web|url=http://www.filestube.com/about.html|title=About FilesTube}}</ref> It also included sections for videos, games, lyrics and software.<ref>{{cite web|url=http://www.filestube.com/|title=The FilesTube homepage contains a bar at the top of the page used to categorize and search specific download types}}</ref><ref>{{cite web|url=http://www.timesfreepress.com/news/2010/jul/09/convenience-is-just-an-app-away/?entertainmentlifeentertainment|title=<nowiki>[FilesTube]</nowiki> is a dedicated search site to find downloadable files such as audio, video and documents}}</ref>
+
+In December 2014, FilesTube discontinued its file-search service and became a free service for streaming licensed independent movies and series.<ref>{{cite web |url=http://www.filestube.com/about.html|title=About Us |last=|first=|date=|website=www.filestube.com|publisher=www.filestube.com |archive-url=https://web.archive.org/web/20141230042111/http://www.filestube.com/about.html|archive-date=2014-12-30|accessdate=1 December 2014}}</ref>
+
+As of July 2016, site redirects to viewster.com, site providing access to limited number of licensed content, including Anime and movies.
+
+It is owned by Polish company [[Red-Sky]].<ref>{{cite web|url=http://en.red-sky.pl/show/25,filestube1/|title=English entry in Red-Sky's portfolio|access-date=2010-10-16|archive-url=https://web.archive.org/web/20120613182833/http://en.red-sky.pl/show/25,filestube1|archive-date=2012-06-13|url-status=dead}}</ref>
+
+== Name and logo ==
+[[File:Filestube old logo.gif|thumb|The old logo of FilesTube, showing a very close resemblance to [[YouTube]]'s logo.]]
+The name and logo of the website are in the style of the video-sharing website [[YouTube]]. While the old logo looked almost identical to the YouTube logo (with "Files" replacing "You" and the logo colour being blue), slight changes have been made to the current logo.
+
+== Reception ==
+In 2010, Donnie Jenkins of ''[[Chattanooga Times Free Press]]'' called the website "a dedicated search site to find downloadable files such as audio, video and documents".<ref>{{cite web|url=http://www.timesfreepress.com/news/2010/jul/09/convenience-is-just-an-app-away/?entertainmentlifeentertainment|title=Jenkins: Convenience is just an app away}}</ref>
+
+== Copyright infringement and blocking ==
+While it operated as a search engine, FilesTube said it removed copyrighted content from its search results on request.<ref>{{cite web|url=http://www.filestube.com/dmca.html|title=FilesTube's DMCA policy}}</ref>  However, it was blocked by court order or government action in several countries:
+
+* [[Malaysia]] in June 2011<ref>[https://torrentfreak.com/filestube-secures-new-domain-to-bypass-domain-blocking-110619/ FilesTube Secures New Domain To Bypass Domain Blocking], June 19, 2011</ref> (no longer blocked as of May 2014{{citation needed|date=May 2015}})
+* The [[United Kingdom]] in October 2013<ref>{{cite web|url=http://news.softpedia.com/news/ExtraTorrent-BitSnoop-Torrentz-eu-and-FilesTube-to-Be-Blocked-in-the-UK-on-October-30-395190.shtml|title=ExtraTorrent, BitSnoop, Torrentz.eu, and FilesTube to Be Blocked in the UK on October 30|author=Lucian Parfeni|date=29 October 2013|work=softpedia}}</ref><ref>{{cite web|url=http://help.sky.com/security/privacy/our-approach-to-protecting-copyright/|title=Sky Help: Our approach to protecting copyright|author=|date=|work=sky.com}}</ref>
+* [[Turkey]] in January 2010<ref>{{cite web|url=http://engelliweb.com/url/www-filestube-com|title=www.filestube.com « Erişime Engellenen Siteler|author=|date=|work=engelliweb.com}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{official website|http://www.filestube.com/}}
+
+{{DEFAULTSORT:Filestube}}
+[[Category:Internet search engines]]
+[[Category:File hosting]]
+[[Category:File sharing]]
+[[Category:Online music and lyrics databases]]
+[[Category:Internet properties established in 2007]]
+[[Category:Defunct internet search engines]]
+[[Category:Domain-specific search engines]]
+[[Category:Metasearch engines]]

@@ -1,0 +1,50 @@
+{{Use dmy dates|date=October 2017}}
+{{Use British English|date=October 2017}}
+{{Orphan|date=September 2016}}
+
+'''Matthew MacKinnon Linning''' CBE (2 March 1924 – 21 December 1986) was a Scottish engineer, and was project director for the BP [[Forties Oil Field]] in the 1970s; this field is the largest oil field in the [[North Sea]].
+
+==Early life==
+He studied electrical engineering at the [[Royal College of Science and Technology|Royal Technical College]] in Glasgow, graduating in 1944. He did his National Service, becoming a captain in the [[Royal Engineers]].
+
+==Career==
+He entered the oil industry in 1947.
+
+===BP===
+[[File:North Sea Fields Zoom.jpg|thumb|right|400px|North Sea oil fields]]
+Until the mid-1960s no-one knew that the North Sea contained so much oil ([[United Kingdom Continental Shelf]], or UKCS). Britain imported all of its oil, costing around $1bn per year. ''[[Sea Quest]]'' discovered the Forties oil field on 7 October 1970; the vessel had also discovered the first North Sea oil field on 14 September 1969; ''Sea Quest'' had a significant effect on the UK economy. The Forties field is around 110 miles east of Aberdeen. During 1971 and 1972 BP drilled to a depth of 7,000 feet, and estimated the field to contain around 1.8 billion barrels of oil.
+
+He joined BP in 1969, and was made responsible for expansion at [[Llandarcy oil refinery]], the UK's first oil refinery. He became head of the BP Forties Development Group in 1972, the height of the North Sea oil bonanza.<ref>[http://hansard.millbanksystems.com/commons/1976/oct/21/cromarty-petroleum-order-confirmation Cromarty Petroleum Order Conformation Bill October 1976]</ref><ref>[https://books.google.co.uk/books?id=NewJINkMVoIC&pg=PA172&lpg=PA172&dq=%22Matt+Linning%22+BP&source=bl&ots=T1HS-CM6Az&sig=MLLxZQBKiCziG_MAKAMf0jCx9uY&hl=en&sa=X&ved=0ahUKEwiz8N37147OAhUFLsAKHaorCxYQ6AEIPjAF New Scientist April 1974]</ref> He remained in charge of the Forties oil field until 1977. Four platforms were built in the field (Block 21/10); each was 16,800 tonnes and 550 feet high, with two built by [[Highland Fabricators]] (HiFab) at [[Nigg, Highland|Nigg Bay]] in the [[Cromarty Firth]]; the [[Forties pipeline system]] came ashore at [[Cruden Bay]], then to [[Grangemouth Refinery]] (Kinneil Kerse). He was an executive at BP Petroleum Development. In April 1976, his team at the Forties field received a [[Queen's Awards for Enterprise|Queen's Award]].
+
+In February 1975 he became general manager at BP Petroleum Development. On 3 November 1975, the [[Elizabeth II|Queen]] came to BP's headquarters at [[Dyce]] to switch on the BP Forties field, in his presence.
+
+He left BP in 1978. Production from the Forties field peaked in 1979 at 500,000 barrels per day. BP would drill oil from the Forties field for 27 years.
+
+==Personal life==
+He died aged 62 in December 1986 in west London. At BP he was captain of the BP football team at Aberdeen. He enjoyed reading the works of [[Charles Dickens]]. He was married and had a son and two daughters. He was made an OBE in the [[1969 New Year Honours]], and a CBE in the [[1976 New Year Honours]].
+
+==References==
+{{reflist}}
+* ''Times'' obituary, 17 January 1987, page 22
+
+{{S-start}}
+{{S-bus}}
+{{S-bef|before= New position }}
+{{S-ttl|title= Development manager of the BP Forties Development Group|years=1972–1977}}
+{{S-aft|after=  }}
+{{S-end}}
+
+{{Energy in the United Kingdom}}
+{{BP}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Linning, Matt}}
+[[Category:1924 births]]
+[[Category:1986 deaths]]
+[[Category:Alumni of the University of Strathclyde]]
+[[Category:BP people]]
+[[Category:British businesspeople in the oil industry]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:North Sea energy]]
+[[Category:Scottish electrical engineers]]

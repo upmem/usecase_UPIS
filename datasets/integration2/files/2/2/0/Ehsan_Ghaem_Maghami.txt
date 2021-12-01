@@ -1,0 +1,98 @@
+{{short description|Iranian chess player}}
+{{Infobox chess player
+|name = Ehsan Ghaem-Maghami
+|image = Simultaneous_exhibition,_Sanchi_Martyrs_Memorial,_Rasht_-_19_April_2018_27.jpg
+|caption = Ghaem-Maghami - April 2018
+|birthname = 
+|country = Iran
+|birth_date = {{Birth date and age|1982|8|11|df=y}}
+|birth_place = Tehran
+|death_date = 
+|death_place = 
+|title = [[Grandmaster (chess)|Grandmaster]] (2000)
+|worldchampion = 
+|womensworldchampion = 
+|peakrating =2633(May 2005)
+|FideID = 12500739
+}}
+{{MedalTableTop}}
+{{MedalCountry| {{IRI}} }}
+{{MedalSport| [[Chess]] }}
+{{MedalCompetition|[[Asian Games]]}}
+{{MedalBronze| [[2006 Asian Games|2006 Doha]] | [[Chess at the 2006 Asian Games|Mixed Team classical]]}} 
+{{MedalCompetition|[[Asian Indoor Games]]}}
+{{MedalBronze| [[2007 Asian Indoor Games|2007 Macau]] | [[Board games at the 2007 Asian Indoor Games|Mixed Team rapid]]}} 
+{{MedalBronze| [[2009 Asian Indoor Games|2009 Quang Ninh]] | [[Board games at the 2009 Asian Indoor Games|Mixed Team blitz]]}}
+{{MedalBottom}}
+
+'''Ehsan Ghaem-Maghami''' ({{lang-fa| احسان قائم‌مقامی }}; born August 11, 1982) is an [[Iran]]ian [[chess]] [[Grandmaster (chess)|grandmaster]] (2000).<ref>{{cite web| url= http://www.chessbase.com/newsdetail.asp?newsid=3588|title=Iran emerges as a chess nation| last=Akbarinia| first=Arash|date=January 5, 2007| publisher=ChessBase}}</ref> He is the record holder of the [[Iranian Chess Championship]] with 13 titles.
+
+On the September 2011 [[FIDE]] list, he had an [[Elo rating]] of 2583. He holds a Bachelor of Laws and is currently studying sports management at the [[University of Tehran]].
+
+In 2004, he finished first in the [[Kish, Iran|Kish]] GM Tournament.<ref>{{cite web|url=http://ratings.fide.com/tournament_report.phtml?event16=37120 |title=Archive. Tournament report April 2004: Kish GM |publisher=World Chess Federation |accessdate=December 17, 2011 |archivedate=November 2, 2013 |archiveurl=https://web.archive.org/web/20131102055437/http://ratings.fide.com/tournament_report.phtml?event16=37120 |url-status=live }}</ref> In 2009, he won a 20-game combined match (four classical, four rapid and twelve blitz games) against [[Anatoly Karpov]], played with the proviso that each game be played to mate or dead draw. The overall score was eight wins to Ghaem-Maghami, seven wins to Karpov, and five draws.<ref>{{cite web|accessdate=May 13, 2010|url=http://www.chessbase.com/newsdetail.asp?newsid=5195|title=Ghaem Maghami beats Karpov in 'Mate of the King'|date=February 5, 2009|publisher=ChessBase}}</ref> In 2011, he finished first in the 10th Avicenna International Open Tournament in [[Hamadan]], Iran.<ref>{{cite web|publisher=Chessdom |url=http://reports.chessdom.com/news-2011/avicenna-international-open-tournament |title=GM Ehsan Ghaemmaghami dominates another tournament |accessdate=August 2, 2011 |url-status=live |archiveurl=https://web.archive.org/web/20130116102918/http://reports.chessdom.com/news-2011/avicenna-international-open-tournament |archivedate=January 16, 2013 }}</ref>
+
+==Early life==
+Ehsan was born on January 11, 1982 in [[Tehran]] and learned to play chess at the age of 8 from his father. His early rise in the chess community was swift as he won the Iranian men's championship title by age 14. While also a talented football player and the captain of the Tehran juniors football team at the age of 10, his interest in chess exceeded his interest in football, causing his choice of the former over the latter.
+
+==List of Career Achievements==
+{{More citations needed section|date=February 2020}} 
+{| class="wikitable"
+|-
+|First International Grandmaster in Iranian chess history.
+|-
+|Captain and player of the 1st board in Iran chess national team for the previous 14 years.
+|-
+|Defeated grandmaster [[Anatoly Karpov]] in a match totaling 20 games, held in [[Tehran]] in 2009.
+|-
+|Guinness record holder for most simultaneous chess games (604 opponents, achieving a 97.35% score) which was held in Tehran on 8-9th FEB 2011
+|-
+|13-time Iran national chess champion
+|-
+|6-time Iran blitz chess champion with 6-time attendance
+|-
+|2-time Iran Rapid chess champion with 2-time attendance
+|-
+|Record holder for the most active and the most successful chess player in 2004 in regard to increasing the most rating points and playing the most games and tournaments, which is registered by the World Chess Federation (FIDE)
+|-
+|Winner of 45 international reputed chess tournaments in different countries
+|-
+|Owner of 4 medals in the world university chess championships
+|-
+|Owner of two bronze medals in the 1st world mind sports games in 2008(China)
+|-
+|Owner of 19 Asian medals in different categories such as individual, team and club tournaments including silver medal of Asian championship in 2003 (vice champion title) and bronze medal of Asian games in Doha in 2006
+|-
+|Record holder of the Iran championship title at different ages
+|}
+
+==Guinness World Record==
+An Iranian grandmaster, he ousted the Israeli title holder on 9 February 2011 to regain the [[Guinness record]] for [[Simultaneous exhibition|simultaneous chess games]] after facing more than 600 players in over 25 hours.
+
+Ehsan Ghaem-Maghami, then 28 years old, won 97.35 percent of his games which began on 2011/02/08 in Tehran's Shahid Beheshti University, a feat reportedly making him the new Guinness title holder of the game.<ref>{{cite web|publisher=Chessdom |date=February 10, 2011 |url=http://www.fide.com/component/content/article/4-tournaments/5055-world-record-604-board-simultaneous-chess-exhibition-by-gm-ehsan-ghaem-maghami-iri.html |title=World Record 604 Board Simultaneous Chess Exhibition by GM Ehsan Ghaem Maghami (IRI) |archiveurl=https://web.archive.org/web/20121002004938/http://www.chessdom.com/news-2011/ehsan-ghaem-maghami-chess-record |archivedate=October 2, 2012 |url-status=live }}</ref>
+
+Of the total 604 games, Ghaem-Maghami won 580, lost 8 and drew 16 in a feat that took more than 25 hours and treading around {{convert|55|km|mi}} as he moved from opponent to opponent. "I am so happy to break the record" a victorious yet exhausted Ehsan remarked, adding "... ,but now I have to break my sleep record". Reportedly, a physician, a masseur and a dietician were monitoring him throughout the match. He said he would have put in the same zeal even if the previous title holder was a non-Israeli.
+"Iran is great and deserves the best. Let's not talk politics... even if this record was held by another person, I would have gone all out to break it," he said after the matches when asked about ousting Israeli [[Alik Gershon]].
+
+==Chess career==
+
+In October 2011, Ehsan Ghaem-Maghami was expelled from the Corsica Masters in [[Bastia]], [[France]] for refusing to play in his scheduled match against Israeli player Ehud Shachar. Ghaem-Maghami told organizers he would not play the Israeli for political reasons. The [[Islamic Republic of Iran]], which refuses to recognize the existence of the Jewish state, has long refused to engage in sports competition against Israel.<ref>{{cite news|title=Iran chess champ expelled for refusing Israel game|accessdate=October 25, 2011|url=http://www.chessvibes.com/?q=reports/iranian-gm-cannot-play-israeli-opponent-gets-excluded-from-corsica-open|work=chessvibes.com|date=October 25, 2011}}</ref>
+
+In 2013 he played against British Grandmaster [[Nigel Short]] in his native homeland.<ref>{{cite news|url=http://chess-news.ru/en/node/11337 |title=GMs Nigel Short and Ehsan Ghaem Maghami Play the Talking Chess in Tehran |work=Chess News |date=March 11, 2013 |accessdate=August 15, 2014 |archiveurl=https://web.archive.org/web/20130313074326/http://chess-news.ru/en/node/11337 |archivedate=March 13, 2013 |url-status=live }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{chessgames player|id=49243}}
+*[http://www.olimpbase.org/players/d79dn5nk.html OlimpBase]
+
+{{DEFAULTSORT:Ghaem-Maghami, Ehsan}}
+[[Category:Iranian chess players]]
+[[Category:Chess grandmasters]]
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Asian Games bronze medalists for Iran]]
+[[Category:Asian Games medalists in chess]]
+[[Category:Chess players at the 2006 Asian Games]]
+[[Category:Chess players at the 2010 Asian Games]]
+[[Category:Medalists at the 2006 Asian Games]]

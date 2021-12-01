@@ -1,0 +1,28 @@
+{{Valid SVG}}
+== Summary ==
+{{logo fur
+<!-- REQUIRED -->
+ |Article           = Bristol Rovers F.C.
+ |Use               = Org
+<!-- HIGHLY RECOMMENDED -->
+ |Source            = [http://www.johnstonespainttrophy.com/documents/49/original/spon_johnstones_football_colour_card_2013_2014.pdf]
+<!-- ADDITIONAL INFORMATION -->
+ |Used for          = 
+ |Owner             = 
+ |Website           = 
+ |History           = 
+ |Commentary        = 
+<!-- OVERRIDE FIELDS -->
+ |Description       = 
+ |Portion           = 
+ |Low_resolution    = {{SVG-Res}}
+ |Purpose           = 
+ |Replaceability    = 
+ |other_information = 
+}}
+
+== Licensing ==
+{{Non-free logo|image has rationale=yes|English football logos}}
+{{SVG-Logo}}
+
+[[Category:Bristol Rovers F.C.]]

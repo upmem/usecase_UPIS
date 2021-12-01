@@ -1,0 +1,28 @@
+{{Orphan|date=September 2020}}
+
+{{Infobox writer
+|name = Marya Kasterska
+|image = Maria Kasterska.jpg
+|birth_date = {{birth date|1894|02|05|df=y}}
+|birth_place = Warsaw, Poland
+|death_date = {{Date of death and age|1969|12|7|1894|02|05|df=y}}
+|death_place = Paris, France}}
+
+'''Marya Kasterska''' (5 February 1894 &ndash; 7 December 1969) was a Polish writer, journalist and literary critic who lived in France.
+
+She was born in [[Warsaw]]. She received a doctorate from the [[University of Paris]] in 1918. Her articles appeared in various publications, including ''[[Les Nouvelles littéraires]]'', ''La vie catholique'', {{ill|Revue de France|fr}}, ''La Revue mondiale'', ''{{ill|Fontaine (journal)|fr|Fontaine (revue)|lt=Fontaine}}'', {{ill|L'Art vivant|fr}}, ''La Quinzaine critique'' and ''{{ill|La Muse française|fr}}'''. In Paris, she promoted knowledge there of Polish and Romanian culture. In 1961, she was awarded the Prix d'Aumale by the [[French Academy of Sciences]] for her work editing the biography for her husband's works. In 1967, she was awarded the Prix Valentine de Wolmar by the [[Académie française]] for her published work.<ref name=balkans/><ref>{{cite book |url=https://books.google.com/books?id=TiSDCNAiy2wC&pg=PA129 |title=Le verbe et l'histoire |page=129 |year=2002 |isbn=2735116751 |language=fr |publisher=Les Editions de la MSH}}</ref>
+
+In 1918, she married {{ill|Petre Sergescu|fr}}, a Romanian mathematician, in [[Paris]]. The couple hosted a [[salon (gathering)|salon]] in their home in the [[Latin Quarter, Paris|Latin Quarter]] of Paris which was attended by various intellectuals including [[Henry de Montherlant]], [[Mircea Eliade]], [[Paul Montel]] and [[Émile Borel]].<ref name=balkans>{{cite news |url=https://www.courrierdesbalkans.fr/un-couple-mythique-pierre-sergesco-et-marya-kasterska |title=Un couple mythique : Pierre Sergesco et Marya Kasterska |work=Le Courrier des Balkans |language=fr |date=January 22, 2014}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kasterska, Marya}}
+[[Category:1894 births]]
+[[Category:1969 deaths]]
+[[Category:Polish women writers]]
+[[Category:Polish journalists]]
+[[Category:Polish literary critics]]
+[[Category:20th-century journalists]]

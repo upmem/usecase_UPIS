@@ -1,0 +1,14 @@
+== Summary ==
+{{Information
+|Description=The Elder Wand, made by me (Mark Tuson) in mid-2008. Based on illustrations from J. K. Rowling's "The Tales of Beedle the Bard."
+|Source=I created this work entirely by myself.
+|Date=
+|Author=Marktuson
+|other_versions=
+}}
+== Licensing: ==
+{{PD-self|date=July 2008}}
+
+{{Orphan image}}
+
+{{Copy to Wikimedia Commons|bot=Fbot|date=March 2012}}

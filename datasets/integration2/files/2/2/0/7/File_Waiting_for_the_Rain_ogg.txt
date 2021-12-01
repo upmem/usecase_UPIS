@@ -1,0 +1,14 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Audio sample of "Waiting for the Rain", the fourth song on [[Roxette]]'s 1999 album ''[[Have a Nice Day (Roxette album)|Have a Nice Day]]''
+|Source = https://www.7digital.com/artist/roxette/release/have-a-nice-day-2009-version-613248
+|Author = [[Marie Fredriksson]], [[Roxette]], [[EMI]], Roxette Recordings
+|Article = Have a Nice Day (Roxette album)
+|Purpose = Will be used to illustrate the paragraph discussing how this is the first Roxette song composed solely by [[Marie Fredriksson]], and also its style and critical reception.
+|Replaceability = n.a.
+|Minimality = Will be used once on the above article to illustrate the relevant paragraph
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free audio sample}}

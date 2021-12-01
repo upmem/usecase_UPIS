@@ -1,0 +1,11 @@
+==Summary==
+{{Non-free use rationale album cover
+| Article           = In the Street (song)
+| Name              = "In the Street"
+| Artist            = [[Big Star (band)|Big Star]]
+| Label             = [[Ardent Records|Ardent]]
+| Type              = 7-inch single
+| Use               = Infobox
+}}
+==Licensing==
+{{Non-free album cover|image has rationale=yes}}

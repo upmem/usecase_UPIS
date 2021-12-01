@@ -1,0 +1,11 @@
+{{asbox
+| image     = Skiicon.svg
+| pix       = 30
+| subject   = biographical 
+| qualifier = relating to alpine skiing in Cyprus
+| category  = European alpine skiing biography stubs
+| tempsort  = Cyprus
+| category1 = Cypriot sportspeople stubs
+| tempsort1 = Alpine skiing
+| name      = Template:Cyprus-alpine-skiing-bio-stub
+}}

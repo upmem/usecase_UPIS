@@ -1,0 +1,67 @@
+{{Infobox video game
+
+| developer = Berzerk Studio
+| image = Just_Shapes_&_Beats.jpg
+| publisher = Berzerk Studio
+| platforms = [[Microsoft Windows]], [[macOS]], [[Linux]], [[Nintendo Switch]], [[PlayStation 4]], [[Google Stadia|Stadia]]
+| released = May 31, 2018
+| genre = [[Action game|Action]]
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+| engine = [[Unity (game engine)|Unity]]
+}}
+
+'''''Just Shapes & Beats''''' is an [[Action game|action]] [[rhythm game|rhythm]] [[video game]] developed and published by Canadian<ref>{{cite web |url=https://twitter.com/berzerkstudio |title=Berzerk Studio (@berzerkstudio) |website=[[Twitter]] |accessdate=July 7, 2019}}</ref> indie team Berzerk Studio. It was released on May 31, 2018 for [[Microsoft Windows]] and [[Nintendo Switch]], February 24, 2019 for [[macOS]] and [[Linux]], May 10, 2019 for [[PlayStation 4]] in the US, and May 30, 2019 for [[PlayStation 4]] in Europe, Russia and Australia. It was also released on June 30, 2020 for [[Google Stadia|Stadia]]. In this game, players move a colorful shape to the beat of background music and dodge pink shapes.
+
+== Gameplay ==
+Up to four players each control one small [[shape]], surviving attacks simply by dodging against a variety of attacks, such as huge beams, bouncing hills, snake-like spirals, and pulsating shapes. These attacks appear, move, and attack in rhythm to the music, with difficulty increasing the further players progress.<ref name=":0">{{Cite web|url=https://www.destructoid.com/review-just-shapes-beats-506246.phtml|title=Review: Just Shapes & Beats|website=destructoid|language=english|access-date=2019-01-18}}</ref>
+
+The rhythm visually manifests on-screen as all manner of objects, of different patterns and sizes, distinguishable by their pink color, that must be dodged until the track ends. Getting struck by one of these attacks causes the player to lose part of their shape, represented by either a cyan [[square]], a yellow [[triangle]], a green [[pentagon]] or an orange [[circle]], if there are multiple players. If the shape breaks entirely, the game rewinds to the previous checkpoint. Three breaks within a single level results in a Game Over screen, with the text stating "It's Over" and the cyan square breaking down to pieces. Tapping Enter (PC/Steam), A (Switch), or the Cross button (PS4) multiple times causes the square to fix itself and changes the screen's text to read "It's NOT Over", allowing the player to continue from the beginning of the level.
+
+Hardcore mode was added in 2019, which adds the harder versions of all available levels.<ref name=":0" />
+
+''Just Shapes & Beats'' offers multiple modes that feature variations on the basic gameplay, such as party mode, playlist, challenge run, and a story mode.
+
+== Development ==
+
+The first demo of the game was revealed at [[PAX (event)|PAX]] 2016 and was supposed to be released that summer. During the event, release date was delayed from late 2016 to early 2017.<ref name="destructoidarticle">{{cite web|url=https://www.destructoid.com/just-shapes-beats-is-stressful-chaotic-and-i-absolutely-love-it-357266.phtml|title=Just Shapes & Beats is stressful, chaotic, and I absolutely love it|last=McAloon|first=Alissa|date=April 23, 2016|website=[[Destructoid]]|accessdate=March 20, 2018}}</ref> The game was eventually delayed again, with a launch date of summer 2018. On March 20, 2018, it was announced that the game would also receive a release on the [[Nintendo Switch]].<ref name="ignnindiesmarch20">{{cite web|url=http://www.ign.com/articles/2018/03/20/gdc-2018-14-games-announced-for-nintendo-switch-in-march-20ths-nindies-showcase|title=GDC 2018: 14 Games Announced for Nintendo Switch in March 20th's Nindies Showcase|last=Osborn|first=Alex|website=[[IGN]]|date=March 20, 2018|accessdate=March 20, 2018}}</ref><ref name="destructoidswitch">{{cite web|url=https://www.destructoid.com/reaction-based-bass-blaster-just-shapes-beats-coming-to-switch-495142.phtml|title=Reaction-based bass blaster Just Shapes & Beats coming to Switch|last=Moyse|first=Chris|website=[[Destructoid]]|date=March 20, 2018|accessdate=March 20, 2018}}</ref>
+
+== Reception ==
+{{Video game reviews
+| MC = (NS) 83/100<ref name="metacritic"/>
+| NLife = {{Rating|9|10}}<ref>{{cite web | url=http://www.nintendolife.com/reviews/switch-eshop/just_shapes_and_beats | title=Just Shapes & Beats Review (Switch eShop) | work=[[Nintendo Life]] | publisher=[[Nintendo Life]] | first=Gavin | last=Lane | date=June 7, 2018 | accessdate=June 8, 2018}}</ref>
+| NWR = 9/10<ref>{{cite web | url=http://www.nintendoworldreport.com/review/47362/just-shapes-and-beats-switch-review | title=Just Shapes and Beats Review | work=Nintendo World Report | publisher=Nintendo World Report | first=Neal | last=Ronaghan | date=June 4, 2018 | accessdate=June 8, 2018}}</ref>
+}}
+
+On review aggregator [[Metacritic]], ''Just Shapes & Beats'' has received 83/100, indicating "generally favorable reviews."<ref name="metacritic">{{cite web | url=http://www.metacritic.com/game/switch/just-shapes-beats | title=Just Shapes & Beats for Switch Reviews | work=[[Metacritic]] | publisher=[[CBS Interactive]] | accessdate=June 8, 2018}}</ref>
+
+=== Accolades<ref>{{Cite web|url=http://justshapesandbeats.com/|title=Just Shapes & Beats|last=Studio|first=Berzerk|website=justshapesandbeats.com|language=en|access-date=2019-01-18}}</ref>===
+
+* '''PAX Prime, 2014'''
+** [[Indie Megabooth]] Alumni
+* '''PAX East, 2015'''
+** Indie Megabooth Alumni
+** SideQuesting Team Choice Award
+** [[Destructoid]] Best of PAX
+* '''[[Golden Joystick Awards]], 2018'''<ref>{{cite news|url=https://www.telegraph.co.uk/gaming/news/golden-joysticks-2018-nominees-announced-voting-open-now/|title=Golden Joysticks 2018 nominees announced, voting open now|last=Hoggins|first=Tom|date=September 24, 2018|newspaper=[[The Daily Telegraph]]|accessdate=November 18, 2018}}</ref><ref>{{cite web|url=https://www.gamesradar.com/golden-joystick-awards-2018-winners/|title=Golden Joystick Awards 2018 winners: God of War wins big but Fortnite gets Victory Royale|last=Sheridan|first=Connor|date=November 16, 2018|website=[[GamesRadar+]]|accessdate=November 18, 2018}}</ref>
+** Best Audio Design
+** Best Indie Game
+* '''[[Independent Games Festival|Independent Games Festival Awards]]'''<ref>{{cite magazine|url=https://variety.com/2019/gaming/news/igf-awards-2019-nominees-1203098551/|title=‘Return of the Obra Dinn’ Leads IGF Awards Nominees|last=Fogel|first=Stephanie|date=January 3, 2019|magazine=[[Variety (magazine)|Variety]]|accessdate=January 14, 2019}}</ref>''', 2018'''
+** Excellence in Visual Art
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Just Shapes and Beats}}
+[[Category:Action video games]]
+[[Category:2018 video games]]
+[[Category:Nintendo Switch games]]
+[[Category:PlayStation 4 games]]
+[[Category:Video games developed in Canada]]
+[[Category:Windows games]]
+[[Category:Classic Mac OS games]]
+[[Category:Linux games]]
+[[Category:Music video games]]
+[[Category:Indie video games]]
+[[Category:Stadia games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Unity (game engine) games]]

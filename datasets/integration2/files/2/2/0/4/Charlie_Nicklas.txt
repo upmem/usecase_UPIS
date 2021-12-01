@@ -1,0 +1,46 @@
+{{short description|English footballer}}
+{{distinguish|Charlie Nicholas}}
+{{use dmy dates|date=October 2014}}
+{{use British English|date=October 2014}}
+{{Infobox football biography
+|name        = Charlie Nicklas
+|image       =
+|image_size  =
+|caption     = 
+|fullname    = Charles Nicklas<ref name=Hugman/>
+|birth_date  = {{birth date and age|1930|4|26|df=y}}<ref name=Hugman/>
+|birth_place = [[Sunderland, Tyne and Wear|Sunderland]], England
+|height      = {{height|ft=5|in=8+1/2}}<ref name=Echo/>
+|position    = [[Centre forward]]
+|youthyears1 =          |youthclubs1 = 
+|years1      = 1950      |clubs1 = [[Silksworth Colliery Welfare F.C.|Silksworth Colliery Welfare]]
+|years2      = 1950–1953 |clubs2 = [[Hull City A.F.C.|Hull City]]           |caps2 = 6  |goals2 = 1
+|years3      = 1953–1954 |clubs3 = [[Darlington F.C.|Darlington]]           |caps3 = 17 |goals3 = 6
+|years4      = 1954–1955 |clubs4 = [[Oxford United F.C.|Headington United]] |caps4 = 13 |goals4 = 4 
+}}
+'''Charles Nicklas''' (born 26 April 1930) is an English former [[association football|footballer]] who played as a [[centre forward]] in [[the Football League]] for [[Hull City A.F.C.|Hull City]] and [[Darlington F.C.|Darlington]]. Before joining Hull, Nicklas played [[non-league football]] for [[Silksworth Colliery Welfare F.C.|Silksworth Colliery Welfare]], and after leaving Darlington he played in the [[Southern Football League|Southern League]] for [[Oxford United F.C.|Headington United]].<ref name=Hugman>{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Premier & Football League Players' Records 1946–1998 |date=1998 |publisher=Queen Anne Press |isbn=978-1-85291-585-8 |page=405}}</ref><ref name=NB>{{cite web |url=http://www.neilbrown.newcastlefans.com/player5/charlienicklas.html |title=Charlie Nicklas |work=Post War English & Scottish Football League A–Z Players Database |publisher=Neil Brown |accessdate=5 October 2014}}</ref>
+
+==Life and career==
+Nicklas was born in [[Sunderland, Tyne and Wear|Sunderland]], which was then in [[County Durham]].<ref name=Hugman/> He played as a [[wing half]] before what the ''[[Sunderland Echo]]'' described as a promising career was interrupted by [[National Service]] in the [[Royal Air Force]].<ref name=Echo>{{cite news |url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000640/19511102/167/0013 |title=Trevor Ford takes over again |newspaper=Sunderland Echo |date=2 November 1951 |page=13 |url-access=subscription |via=[[British Newspaper Archive]]}}</ref> He began playing for [[Wearside Football League|Wearside League]] club [[Silksworth Colliery Welfare F.C.|Silksworth Colliery Welfare]] at the start of the 1950–51 season,<ref>{{cite news |url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000640/19500825/155/0012 |title=Dawdon ring changes |newspaper=Sunderland Echo |date=25 August 1950 |page=12 |url-access=subscription |via=British Newspaper Archive}}</ref> but soon went on trial with [[Football League Second Division]] club [[Hull City A.F.C.|Hull City]], and turned professional with that club in December 1950.<ref>{{cite news |url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000324/19501213/041/0006 |title=City's young wing-half |newspaper=Daily Mail |location=Hull |date=13 December 1950 |page=6 |url-access=subscription |via=British Newspaper Archive}}</ref>
+
+He made his first-team debut a year later, on 27 October 1951, playing in the unaccustomed position of [[centre forward]]; although he had played a few reserve matches in that position, the ''[[Yorkshire Post]]'' doubted that "a home match against a team playing as strongly as [[Rotherham United]] are just now is the ideal occasion" for a youngster's debut.<ref>{{cite news |url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000687/19511027/387/0011 |title=More bold moves by team selectors |first=Richard |last=Ulyatt |newspaper=Yorkshire Post |date=27 October 1951 |page=11 |url-access=subscription |via=British Newspaper Archive}}</ref> Rotherham took a three-goal lead, but Hull came back to draw, and Nicklas scored their opener: he "had his faults, but dash, speed and courage were not among them. He harassed [the goalkeeper] into a goal offering and accepted it with glee".<ref>{{cite news |url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000687/19511029/082/0003 |title=Great day for the newcomers |newspaper=Yorkshire Post |date=29 October 1951 |page=3 |url-access=subscription |via=British Newspaper Archive}}</ref> He was known for his pace, having competed in professional sprint races.<ref name=Echo/> Nicklas played five more matches for Hull, the last of which was on 22 March 1952.<ref>{{cite web |url=http://tigerbase.hullcity.com/tigers-players.php |title=Players |website=TigerBase |publisher=Matt Wales |accessdate=6 October 2014}}</ref>
+
+Nicklas stayed with the club until the end of the following season, when he moved on to [[Darlington F.C.|Darlington]] of the [[Football League Third Division North|Third Division North]].<ref name=Hugman/> He scored six goals from seventeen league matches for Darlington,<ref name=Hugman/> and spent the [[1954–55 Southern Football League|1954–55 season]] with [[Headington United]] in the [[Southern Football League|Southern League]], scoring four goals from fourteen matches in all competitions.<ref>{{cite web |url=http://www.rageonline.co.uk/mainpage/player/570/ |title=Charlie Nicklas |website=Rage Online |accessdate=6 October 2014}}</ref>
+
+Nicklas is the nephew of [[Sunderland A.F.C.|Sunderland]] and [[Fulham F.C.|Fulham]] player [[Barney Travers]].<ref name=Echo/>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Nicklas, Charlie}}
+[[Category:1930 births]]
+[[Category:Living people]]
+[[Category:Footballers from Sunderland, Tyne and Wear]]
+[[Category:English footballers]]
+[[Category:Association football forwards]]
+[[Category:Silksworth Colliery Welfare F.C. players]]
+[[Category:Hull City A.F.C. players]]
+[[Category:Darlington F.C. players]]
+[[Category:Oxford United F.C. players]]
+[[Category:English Football League players]]
+[[Category:Southern Football League players]]

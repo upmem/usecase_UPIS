@@ -1,0 +1,27 @@
+{{album cover fur
+<!-- REQUIRED -->
+|Article= Stop the World (The Big Pink song)
+|Use=Infobox
+<!-- HIGHLY RECOMMENDED -->
+|Source=
+<!-- ADDITIONAL INFORMATION -->
+|Name= Stop the World
+|Artist= The Big Pink
+|Label= 4AD
+|Graphic Artist= Chris Bigg
+|Item= 
+|Type= 
+|Website= 
+|Owner= 
+|Commentary= 
+<!-- OVERRIDE FIELDS -->
+|Description= 
+|Portion= 
+|Low_resolution= Yes
+|Purpose=
+|Replaceability= 
+|other_information= 
+}}
+
+==Licensing==
+{{non-free album cover|image has rationale=yes|auto=yes}}

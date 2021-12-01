@@ -1,0 +1,42 @@
+{{one source|date=February 2019}}
+{{Infobox Court Case
+| name               = ''Rocky Mountain Farmers Union v. Corey''
+| court              = [[United States Court of Appeals for the Ninth Circuit]]
+| image              = Seal_of_the_United_States_Courts,_Ninth_Judicial_Circuit.svg
+| imagesize          = 120px
+| caption            = Ninth Judicial Circuit Seal
+| full name          = Rocky Mountain Farmers Union v. Corey
+| date decided       = {{start date|2019|01|18}}
+| citations          = 
+| transcripts        = 
+| judges             = [[Ronald M. Gould]]
+| prior actions      = 
+| subsequent actions = 
+| opinions           = 
+| keywords           = 
+}}
+
+'''''Rocky Mountain Farmers Union v. Corey''''' is a [[lawsuit]] appealed from the [[United States District Court for the Eastern District of California]]. The court heard the oral argument on September 26, 2018.
+
+==Opinion==
+In an opinion filed January 18, 2019, the Ninth Circuit Court of Appeals upheld [[Low-carbon_fuel_standard#California_Low-Carbon_Fuel_Standard|California's Low Carbon Fuel Standard (LCFS)]], rejecting claims under the [[Commerce Clause]] that largely echoed unsuccessful arguments made before the Ninth Circuit in a previous appeal concerning only the 2011 and 2012 versions of the LCFS. The Ninth Circuit noted that although the LCFS had been repealed and replaced in 2015, the “core structure” of the regulations (with their emphasis on fuels’ lifecycle emissions) and claims was the same as it had been when the court decided the first appeal. The Ninth Circuit therefore ruled that its prior decision on the 2011 and 2012 versions of the LCFS precluded the plaintiffs’ claims that the 2015 LCFS constituted impermissible extraterritorial regulation and that it facially discriminated against interstate commerce in ethanol and crude oil. 
+
+Regarding extraterritoriality, the court rejected the argument that the LCFS was motivated by a concern for environmental harms in other states, stating: “California did not enact the LCFS because it thinks that it is the state that knows how best to protect Iowa’s farms, Maine’s fisheries, or Michigan’s lakes.” The court said California's interest in lifecycle emissions arose from its concern about climate change's impacts on California and that the LCFS was therefore “a classic exercise of police power.” 
+
+Regarding facial discrimination, the court said that California was attempting “to address a vitally important environmental issue with vast potential consequences” and that it could not offer “a potential solution to the perverse incentives that would otherwise undermine any attempt to assess and regulate the carbon impact of different fuels … without the ability to differentiate the different production processes and power generation that are used to produce those fuels.” 
+
+The Ninth Circuit also held that the plaintiffs’ “structural federalism” claim was precluded by the court's recent decision on Oregon's Clean Fuel Program, in which the Ninth Circuit concluded that any such claim would be contingent on a finding that the program regulated extraterritorially. The Ninth Circuit emphasized that “[t]here is simply no reason to search beyond the Commerce Clause for the Constitution’s limits on the ability of states to affect interstate commerce.” In addition, the Ninth Circuit found that the plaintiffs had failed to take advantage of the opportunity given by its earlier decision on the 2011 and 2012 LCFS to show that the LCFS was actually intended “to prop up local fuel interests” and discriminate against interstate commerce. 
+
+The court also dismissed claims against the 2011 and 2012 versions of the LCFS as moot because the challenged laws were no longer in effect and plaintiffs’ obligations under the earlier versions had been discharged.<ref>[[Arnold & Porter]] LLP. (n.d.). U.S. Climate Change Litigation. Retrieved from http://climatecasechart.com/case/rocky-mountain-farmers-union-v-corey/</ref>
+
+==See also==
+*[[California Air Resources Board]]
+*[[Climate change in the United States]]
+
+==References==
+{{Reflist}}
+
+{{global warming}}
+
+[[Category:United States environmental case law]]
+{{US-case-law-stub}}

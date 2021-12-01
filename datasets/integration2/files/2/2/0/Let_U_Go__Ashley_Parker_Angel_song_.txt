@@ -1,0 +1,66 @@
+{{Infobox song
+| name       = Let U Go
+| cover      = Let U Go single.jpg
+| alt        =
+| type       = single
+| artist     = [[Ashley Parker Angel]]
+| album      = [[Soundtrack to Your Life (album)|Soundtrack to Your Life]]
+| released   = February 28, 2006
+| format     = [[CD single]], [[Music download|Digital download]]
+| recorded   =
+| studio     =
+| venue      =
+| genre      = [[Pop punk]], [[power pop]]
+| length     = 3:38
+| label      = [[Universal Records]]
+| writer     = [[Max Martin]]<br>[[Dr. Luke|Luke Gottwald]]<br>Ashley Parker Angel
+| producer   = [[Max Martin]]<br>[[Dr. Luke]]
+| prev_title =
+| prev_year  =
+| next_title = [[Soundtrack to Your Life (song)|Soundtrack to Your Life]]
+| next_year  = 2006
+}}
+
+"'''Let U Go'''" is the first single from [[Ashley Parker Angel]]'s debut solo album, ''[[Soundtrack to Your Life (album)|Soundtrack to Your Life]]''. In the U.S., the song debuted at #17 on the [[Billboard Hot 100|''Billboard'' Hot 100]] singles chart, the third highest debut of the year. The song moved up to its peak of #12 in its second week, while reaching the top 10 of the [[Pop 100]] companion chart at #9. The song was written about Angel's relationship with his now-ex-fiancée [[Tiffany Lynn]]. Angel has said that the relationship has, at times, been rough, but that he and Tiffany are meant to be together.{{citation needed|date=April 2010}}  [[Dr. Luke]] and [[Max Martin]] produced the song.
+
+==Music video==
+This music video takes place in two places. In the beginning it seems Ashley and his band are in a basement. He begins to play the song and the walls begin to shake. After that the walls fall and the band ends up in a club with screaming fans all around. He moves to a secluded area and the music stops. It begins again as a strobe light begins to flash. The song starts to end and the club changes to the front of a theater which says "Ashley Parker Angel, One Night Only". The song ends and Ashley throws his guitar over his shoulder and walks away. It premiered on TRL on March 14, 2006 and went to number one soon after.
+
+==Charts==
+{| class="wikitable"
+!Chart (2006)
+!Peak<br/>position
+|-
+| Brazil ([[Associação Brasileira dos Produtores de Discos|ABPD]])<ref name="Brazil">{{cite web |url = http://asdfg-menezes.org/bookBR.pdf |title = Brazil |work = ABPD |date = October 6, 2001 |accessdate = December 16, 2018 }}</ref>
+| style="text-align:center;"| 63
+|-
+|US [[Billboard Hot 100|''Billboard'' Hot 100]]
+|align="center"|12
+|-
+|US ''Billboard'' [[Mainstream Top 40 (Pop Songs)|Pop Songs]]
+|align="center"|24
+|-
+|US ''Billboard'' [[Pop 100]]
+|align="center"|9
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://top40.about.com/od/singles/gr/apaletugo.htm Top 40.about.com Review.]
+*[http://top40-charts.com/song.php?sid=16706 Chart history on Top40-charts.com.]
+*[{{Allmusic|class=artist|id=p473838/charts-awards|pure_url=yes}} Chart history on AMG.]
+* {{MetroLyrics song|ashley-parker-angel|let-u-go}}<!-- Licensed lyrics provider -->
+
+[[Category:2006 debut singles]]
+[[Category:Ashley Parker Angel songs]]
+[[Category:Music videos directed by Marc Klasfeld]]
+[[Category:Song recordings produced by Max Martin]]
+[[Category:Songs written by Dr. Luke]]
+[[Category:Songs written by Max Martin]]
+[[Category:Song recordings produced by Dr. Luke]]
+
+
+{{2000s-rock-song-stub}}

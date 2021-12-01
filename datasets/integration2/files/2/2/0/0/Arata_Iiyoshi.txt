@@ -1,0 +1,126 @@
+{{short description|Japanese composer}}
+{{Expand Japanese|飯吉新|date=May 2019}}
+{{Infobox musical artist
+| name = Arata Iiyoshi
+| background = non_performing_personnel
+| native_name = 飯吉新
+| native_name_lang = ja
+| alias = S.S.D.FANTASICA
+| birth_place = Japan
+| occupation = Composer, arranger, lyricist
+| years_active = 2001–present
+| website = {{URL|https://www.ssd-studio.com/}}
+| genre = [[Video game music]]
+}}
+{{Nihongo|'''Arata Iiyoshi'''|飯吉 新|Iiyoshi Arata}}, also known as '''S.S.D.FANTASICA''', is a [[freelancer]] composer.<ref>{{cite web |url=https://www.ssd-studio.com/aboutme.html |title=SHIN SOUND DESIGN <nowiki>|</nowiki> ふわっとした自己紹介 |accessdate= May 1, 2020 |url-status=live}}</ref> He has contributed songs as a [[video game music]] [[composer]] for the [[Bemani]] division, from video games published by [[Nintendo]] such as the ''[[Super Smash Bros.]]'' series or developed by [[Chunsoft]] like the ''[[Pokémon Mystery Dungeon|Pokémon]]'' crossover of the ''[[Mystery Dungeon]]'' series and the ''[[Kamaitachi no Yoru]]'' series.<ref>{{cite web |url=https://www.shobi.ac.jp/d-mac/interview/iiyoshi.html |title=インタビュー（飯吉　新） |website= D-MAC Records |accessdate= November 2, 2020 |language=ja |archiveurl=https://web.archive.org/web/20070305090029/https://www.shobi.ac.jp/d-mac/interview/iiyoshi.html |archivedate= March 5, 2007}}</ref>
+
+==Works==
+===BEMANI===
+;Composer
+{{div col}}
+*''[[Beatmania IIDX 13: DistorteD]]'' (2005)
+**<small>BALLAD THE FEATHERS – with Naomi Koizumi</small>
+*''[[Beatmania IIDX 14: Gold]]'' (2006)
+**<small>花吹雪〜IIDX LIMITED〜 – with ユッコ</small>
+*''[[Beatmania IIDX 15: DJ Troopers]]'' (2007)
+**<small>JOURNEY TO "FANTASICA" (IIDX LIMITED) – with EMI</small>
+**<small>Claiomh Solais – with [[Yoshitaka Nishimura|DJ Yoshitaka]]</small>
+*''[[Beatmania IIDX 16: Empress]]'' (2008)
+**<small>BRIDAL FESTIVAL !!! – with ななっち</small>
+*''[[Beatmania IIDX 18: Resort Anthem]]'' (2010)
+**<small>BLUST OF WIND</small>
+**<small>BROKEN EDEN</small>
+**<small>かげぬい ～Ver.BENIBOTAN～</small>
+*''[[Dance Dance Revolution X2]]'' (2010)
+**<small>羽之谣</small>
+*''[[Beatmania IIDX 19: Lincle]]'' (2011)
+**<small>A MINSTREL～ver.short-scape～</small>
+**<small>ユミル</small>
+*''[[Bemani#Reflec Beat|Reflec Beat limelight]]'' (2011)
+**<small>ツキミチヌ</small>
+*''[[Bemani#Reflec Beat|Reflec Beat colette -Winter-]]'' (2012)
+**<small>ROUND!</small>
+*''[[Bemani#Reflec Beat|Reflec Beat groovin'!!]]'' (2014)
+**<small>待宵草</small>
+*''[[Bemani#Reflec Beat|Reflec Beat 悠久のリフレシア]]'' (2016)
+**<small>アエル</small>
+{{div col end}}
+;Arranger
+{{div col}}
+*''[[Pop'n Music|Pop'n music 15 Adventure]]'' (2007)
+**<small>儚きは我が決意</small>
+*''[[Pop'n Music|Pop'n music 16 Party♪]]'' (2008)
+**<small>創聖のアクエリオン</small>
+*''[[Pop'n Music|Pop'n music 18 せんごく列伝']]'' (2010)
+**<small>怒れる大きな白い馬 ～S.S.D.の役～</small>
+{{div col end}}
+;Lyricist
+{{div col}}
+*''Beatmania IIDX 16: Empress'' (2008)
+**<small>CaptivAte2～覚醒～</small>
+**<small>I'm Screaming LOVE</small>
+*''[[Beatmania IIDX 17: Sirius]]'' (2009)
+**<small>コスモス</small>
+**<small>かずあそび</small>
+**<small>NEW SENSATION -もう、あなたしか見えない-</small>
+**<small>NoN-Fiction Story!</small>
+*''[[Pop'n Music|Pop'n music 17 The Movie]]'' (2009)
+**<small>プリズム</small>
+*''[[Jubeat|jubeat knit]]'' (2010)
+**<small>ALL MY HEART -この恋に、わたしの全てを賭ける-</small>
+*''[[Pop'n Music|Pop'n music 19 Tune Street]]'' (2010)
+**<small>～Timeless～</small>
+*''[[Bemani#Reflec Beat|Reflec Beat]]'' (2010)
+**<small>少女小景再抄録 ～影～</small>
+**<small>He is my only star</small>
+*''Reflec Beat limelight'' (2011)
+**<small>limelight world</small>
+*''[[Beatmania IIDX 20: Tricoro]]'' (2012)
+**<small>Re:GENERATION</small>
+*''Reflec Beat colette -Winter-'' (2012)
+**<small>TAKE THE FUN</small>
+{{div col end}}
+
+===Video Games===
+;Composition
+*''[[Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team]]'' (2005) – with Atsuhiro Ishizuna.
+*''Sound Novel Portable Kamaitachi no Yoru 2 Special Edition'' (2006)
+*''Kamaitachi no Yoru × 3'' (2006) - with Kojiro Nakashima.
+*''[[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]]'' (2007) – with [[Hideki Sakamoto]], Keisuke Ito, Ryoma Nakamura, and Ken-ichi Saito.
+*''[[Pokémon Mystery Dungeon: Explorers of Sky]]'' (2009) – with [[Hideki Sakamoto]], Keisuke Ito, Ken-ichi Saito and Yoshihiro Maeda.
+*''[[Ninjala]]'' (2020) – with many others.
+**<small>Far East Fighters</small>
+**<small>Dancing in the Jewelry</small>
+**<small>Spy is Coming!!!</small>
+
+;Arrangement
+*''[[Super Smash Bros. Brawl]]'' (2008) – with many others.
+**<small>The Dark World - [[The Legend of Zelda: A Link to the Past]]</small>
+**<small>White Land - [[F-Zero (video game)|F-Zero]]</small>
+**<small>Skyworld - [[Kid Icarus]]</small>
+
+;Other credits
+*''3rd grade B group Kinpachi sensei Stand on the legendary platform!'' (2004) - Sounds
+*''[[Homeland (video game)|Homeland]]'' (2005) - Sounds
+*''[[Pokémon Mystery Dungeon: Rescue Team DX]]'' (2020) – Original Music Composition
+
+===Albums===
+*FANTASCAPE - Act.1 (2010)
+*ETHNOPLEX (2020)
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://remywiki.com/Arata_Iiyoshi Arata Iiyoshi] on RemyWiki.
+
+{{Authority control}}
+
+[[Category:Japanese composers]]
+[[Category:Japanese male composers]]
+[[Category:Living people]]
+[[Category:Video game composers]]
+[[Category:Year of birth missing (living people)]]
+
+{{japan-musician-stub}}
+{{videogame-musician-stub}}

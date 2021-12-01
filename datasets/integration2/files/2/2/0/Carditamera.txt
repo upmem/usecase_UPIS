@@ -1,0 +1,34 @@
+{{Automatic taxobox
+| image =
+| taxon = Carditamera
+| authority = Conrad, 1838
+| synonyms =
+''Byssomera'' <small>Olsson, 1961</small><br />
+''Lazaria'' <small>Gray, 1854</small>
+| display_parents = 3
+}}
+
+[[File:Carditamera gracilis (Shuttleworth, 1856) 000.jpg|thumb|''Carditamera gracilis'' shell]]
+'''''Carditamera''''' is a genus of [[molluscs]] in the family [[Carditidae]].<ref>Abbott, R.T. & Morris, P.A. ''A Field Guide to Shells: Atlantic and Gulf Coasts and the West Indies.'' New York: Houghton Mifflin, 1995. 44.</ref><ref>http://www.marinespecies.org/aphia.php?p=taxdetails&id=415159</ref>
+
+It is the [[type genus]] of the [[subfamily]] [[Carditamerinae]].
+'''''Byssomera''''' is a [[junior synonym]] or subgenus of ''Carditamera'' but has sometimes been written as a subgenus of ''[[Cardita]]'', due to its type species having been synonymised from ''Cardita'' (''Byssomera'') ''affinis'' to ''Carditamera'' (''Byssomera'') ''affinis''.<ref>{{Cite book|url=https://books.google.com/books?id=LDjwAAAAMAAJ&pg=SL5-PA35&lpg=SL5-PA35&dq=Byssomera+cardita#q=Byssomera%20cardita|title=United States Geological Survey Professional Paper|last=|first=|date=1992|publisher=U.S. Government Printing Office|isbn=|location=|pages=35|language=en}}</ref><ref>{{Cite book|url=http://archive.org/details/mollusksoftropic00olss|title=Mollusks of the tropical eastern Pacific : particularly from the southern half of the Panamic-Pacific faunal province (Panama to Peru) ; Panamic-Pacific Pelecypoda|last=Olsson|first=Axel A. (Axel Adolf)|date=1961|publisher=Ithaca, N.Y. : Paleontological Research Institution|others=MBLWHOI Library}}</ref>
+
+==Species==
+* ''[[Carditamera affinis]]'' <small>(G.B. Sowerby I, 1833)</small>
+* ''[[Carditamera arata]]'' <small>(Conrad, 1838)</small>
+* ''[[Carditamera contigua]]'' <small>(Dautzenberg, 1910)</small>
+* ''[[Carditamera gracilis]]'' <small>(Shuttleworth, 1856)</small> – West Indian cardita
+* ''[[Carditamera plata]]'' <small>(Ihering, 1907)</small>
+* ''[[Carditamera radiata]]'' <small>(G.B. Sowerby I, 1833)</small>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3013023}}
+
+[[Category:Carditidae]]
+[[Category:Bivalve genera]]
+
+
+{{bivalve-stub}}

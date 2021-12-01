@@ -1,0 +1,13 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Logo of the National Union of Sheet Metal Workers, Coppersmiths, Heating and Domestic Engineers, a former British trade union
+|Source = Report of the National Executive Committee of the Labour Party (1984)
+|Article = National Union of Sheet Metal Workers, Coppersmiths, Heating and Domestic Engineers
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.
+|Replaceability = n.a.
+|Minimality = Small version of logo, used once at top of article on organisation.
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free logo}}

@@ -1,0 +1,17 @@
+{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Miscellany for deletion|{{mfd top collapse|1='''[[Wikipedia:Miscellany for deletion/User:John V. Hobbs Jr]]'''}}|}}<div class="boilerplate mfd vfd xfd-closed" style="background-color: #E3D2FB; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+__NOINDEX__
+:''The following discussion is an archived debate of the proposed deletion of the miscellaneous page below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the page's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--
+Note:  If you are seeing this page as a result of an attempt to nominate a miscellany page for deletion, you must manually edit the MfD nomination links to create a new discussion page using the name format of [[Wikipedia:Miscellany for deletion/NAMESPACE:PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result of the discussion was:   '''Keep'''. No great harm here. [[User:CambridgeBayWeather|CambridgeBayWeather]], [[User talk:CambridgeBayWeather|Uqaqtuq (talk)]], [[Special:Contributions/CambridgeBayWeather|Sunasuttuq]] 07:27, 18 October 2016 (UTC)
+====[[:User:John V. Hobbs Jr]]====
+:{{pagelinks|User:John V. Hobbs Jr}}
+Page consists of nothing but a list of categories, and associated user has zero edits off this page. [[User:Od Mishehu|עוד&nbsp;מישהו]] [[User talk:Od Mishehu|Od&nbsp;Mishehu]] 16:55, 9 October 2016 (UTC)
+* Does the user have deleted edits?  Please temp undelete [[User:John V. Hobbs Jr/sandbox]]. --[[User:SmokeyJoe|SmokeyJoe]] ([[User talk:SmokeyJoe|talk]]) 20:51, 9 October 2016 (UTC)
+**{{ping|SmokeyJoe}} Done. – [[User:Fayenatic london|Fayenatic]] '''<font color="#FF0000">[[Special:Contributions/Fayenatic london|L]]</font>'''[[User talk:Fayenatic london|ondon]] 22:55, 9 October 2016 (UTC)
+*** Thank you.  This helps complete a picture of an expert who dabbled in contributing to Wikipedia, but didn't proceed very far.  The sandbox appears to represent an idea that he could provide expert contributions direct to Wikipedia.  Only a slight, and reasonable, misunderstanding of Wikipedia, but definitely a misunderstanding.
+::: I like to think that we would all like educated people like this to return an be occasional contributors.  To that end, I have posted a welcome (I wish that all new accounts were auto-welcomed) on his talk page, and re-written his userpage.  Hopefully, he will return, read that, and maybe even edit one of the two pages linked.  That would be a good thing.  '''Keep''' as edited.  --[[User:SmokeyJoe|SmokeyJoe]] ([[User talk:SmokeyJoe|talk]]) 23:24, 9 October 2016 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the page's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page.</div>
+
+{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Miscellany for deletion|{{collapse bottom}}|}}

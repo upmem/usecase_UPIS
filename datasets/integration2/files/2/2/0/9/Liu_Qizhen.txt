@@ -1,0 +1,71 @@
+{{short description|Chinese javelin thrower}}
+{{Infobox sportsperson
+| name           = Liu Qizhen
+| image          = LIU QIZHEN Of China In Action.jpg
+| imagesize      = 
+| caption        = Liu at the [[2017 Asian Athletics Championships|2017 Asian Championships]]
+| fullname       = 
+| birth_date     = {{birth date and age|1995|09|17|df=yes}}
+| birth_place    = 
+| height         = 
+| weight         = 
+| sport          = [[Athletics (sport)|Athletics]]
+| event          = [[Javelin throw]]
+| club           = 
+| education      = 
+| collegeteam    = 
+| coach          = 
+| medaltemplates = 
+}}
+'''Liu Qizhen''' ({{lang-zh|刘启祯}}; born 17 September 1995) is a [[China|Chinese]] athlete specialising in the [[javelin throw]].<ref>{{iaaf name|311471}}</ref> He won a silver medal at the [[2018 Asian Games]].
+
+His personal best in the event is 82.22 metres set in Jakarta in 2018.
+
+==International competitions==
+{| {{AchievementTable|Event=yes}}
+|-
+!colspan="6"|Representing {{CHN}}
+|-
+|2017
+|[[2017 Asian Athletics Championships|Asian Championships]]
+|[[Bhubaneswar, India]]
+|5th
+|Javelin throw
+|[[2017 Asian Athletics Championships – Men's javelin throw|80.12 m]]
+|-
+|2018
+|[[Athletics at the 2018 Asian Games|Asian Games]]
+|[[Jakarta, Indonesia]]
+|bgcolor=silver|2nd
+|Javelin throw
+|[[Athletics at the 2018 Asian Games – Men's javelin throw|82.22 m]]
+|-
+|rowspan=2|2019
+|[[2019 Asian Athletics Championships|Asian Championships]]
+|[[Doha, Qatar]]
+|5th
+|Javelin throw
+|[[2019 Asian Athletics Championships – Men's javelin throw|80.19 m]]
+|-
+|[[2019 World Athletics Championships|World Championships]]
+|[[Doha, Qatar]]
+|25th (q)
+|Javelin throw
+|[[2019 World Athletics Championships – Men's javelin throw|75.81 m]]
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Liu, Qizhen}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Chinese male javelin throwers]]
+[[Category:Athletes (track and field) at the 2018 Asian Games]]
+[[Category:Asian Games medalists in athletics (track and field)]]
+[[Category:Asian Games silver medalists for China]]
+[[Category:Medalists at the 2018 Asian Games]]
+
+{{PRChina-athletics-bio-stub}}

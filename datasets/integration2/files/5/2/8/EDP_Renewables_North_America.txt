@@ -1,0 +1,145 @@
+{{Infobox company
+| name                = EDP Renewables North America
+| logo                = 
+| caption             = 
+| type                = [[Public company|public]]
+| traded_as           = 
+| fate                = 
+| predecessor         = Zilkha Renewable Energy<br/>Horizon Wind Energy
+| successor           = 
+| foundation          = <!-- {{Start date|YYYY|MM|DD}} -->
+| founder             = 
+| defunct             = <!-- {{End date|YYYY|MM|DD}} -->
+| location_city       = [[Houston]], [[Texas]]
+| location_country    = United States
+| locations           = 
+| area_served         = 
+| key_people          = 
+| industry            = [[Renewable energy]]
+| products            = [[Wind and Solar Power]] [[Energy Storage]]
+| services            = 
+| revenue             = $931.19 million (2019)
+| operating_income    = $688.1 million (2019)
+| equity              = 
+| owner               = 
+| num_employees       = 675 (end 2019)
+| parent              = [[EDP Renováveis|EDP Renewables]]
+| divisions           = 
+| subsid              = 
+| homepage            = https://www.edprnorthamerica.com/
+| footnotes           = 
+| intl                = 
+}}
+EDP Renewables North America (former names: Zilkha Renewable Energy and Horizon Wind Energy) and its subsidiaries develop, construct, own, and operate [[Wind farm|wind farms]] and [[Photovoltaic power station|solar parks]] throughout North America.
+
+Headquartered in [[Houston|Houston, Texas]], with 53 wind farms and five solar parks, EDP Renewables North America (EDPR NA) operates more than 7,200 megawatts (MW) of [[renewable energy]] projects in 14 U.S. states (Arizona, California, Illinois, Indiana, Iowa, Kansas, Minnesota, Nevada, New York, Ohio, Oklahoma, Oregon, Texas, South Carolina, Washington, and Wisconsin) as well as in Canada and Mexico.
+
+EDPR NA is owned by [[EDP Renováveis|EDP Renewables]] (EDPR), a global leader in the [[renewable energy]] sector that develops, constructs, owns, and operates renewable electricity generation facilities. EDPR has grown significantly in recent years and is currently present in 14 countries (Belgium, Brazil, Canada, Colombia, France, Greece, Italy, Mexico, Poland, Portugal, Romania, Spain, the United Kingdom, and the United States). EDPR is the world’s fourth-largest wind energy producer, and EDPR NA represents EDPR’s largest market in terms of installed capacity and production.
+
+==History==
+In 2005, the company (then called Zilkha Renewable Energy, and owned by [[Selim Zilkha]] and [[Michael Zilkha]]) was purchased by investment bank [[Goldman Sachs]] for an undisclosed sum and renamed Horizon Wind Energy. In 2007, the company was acquired by [[Energias de Portugal]] for $2.15 billion<ref>{{Cite news|url=https://www.reuters.com/article/us-edp-horizon-idUSL2715639720070327|title=EDP to buy $2.2 bln U.S. Horizon Wind Energy|date=2007-03-27|work=Reuters|access-date=2019-06-28|language=en}}</ref> and later renamed EDP Renewables North America.<ref>{{Cite web|url=https://www.power-eng.com/articles/2011/07/horizon-wind-energy-changes-name.html|title=Horizon Wind Energy changes name|website=www.power-eng.com|access-date=2019-06-28}}</ref>
+
+== Projects ==
+'''EDP Renewables North America operates the following projects:'''
+
+Amazon Wind Farm Ohio-Timber Road
+
+[https://arbucklewindfarm.com/ Arbuckle Mountain Wind Farm]
+
+[https://arkwrightsummitwindfarm.co/ Arkwright Summit Wind Farm]
+
+[https://bluecanyonwindfarm.com/ Blue Canyon Wind Farm]
+
+[https://brightstalkwindfarm.com/ Bright Stalk Wind Farm]
+
+[https://cameronsolarpark.com/ Cameron Solar Park]
+
+[http://elkhornvalleywindfarm.com/ Elkhorn Valley Wind Farm]
+
+[http://proyectoeolicadecoahuila.com/ Eolica de Coahuila Wind Farm]
+
+[http://estillsolarpark.com/ Estill Solar Park]
+
+[http://hamptonsolarpark.com/ Hampton Solar Park]
+
+[http://headwaterswindfarm.com/ Headwaters Wind Farm]
+
+[https://headwaterswindfarm.com/ Harvest Ridge Wind Farm]
+
+[http://hogcreekwindproject.com/ Hog Creek Wind Project]
+
+[http://jerichorisewindfarm.com/ Jericho Rise Wind Farm]
+
+[http://kittitasvalleywindfarm.com/ Kittitas Valley Wind Farm]
+
+[http://lonestarwindfarm.com/ Lone Star Wind Farm]
+
+[http://lonevalleysolarpark.com/ Lone Valley Solar Park]
+
+[http://losmirasoleswindfarm.com/ Los Mirasoles Wind Farm]
+
+[http://lostlakeswindfarm.com/ Lost Lakes Wind Farm]
+
+[http://www.madisonwindfarm.com/ Madison Wind Farm]
+
+[http://mapleridgewindfarm.co/ Maple Ridge Wind Farm]
+
+[http://marbleriverwindfarm.com/ Marble River Wind Farm]
+
+[http://meadowlakewindfarm.com/ Meadow Lake Wind Farm]
+
+[http://meridianwaywindfarm.com/ Meridian Way Wind Farm]
+
+[https://pioneerprairiewindfarm.com/ Pioneer Prairie Wind Farm]
+
+[https://prairiequeenwindfarm.com/ Prairie Queen Wind Farm]
+
+[http://prairiestarwindfarm.com/ Prairie Star Wind Farm]
+
+[https://quiltblockwindfarm.com/ Quilt Block Wind Farm]
+
+[https://railsplitterwindfarm.com/ Rail Splitter Wind Farm]
+
+[https://rattlesnakeroadwindfarm.com/ Rattlesnake Road Wind Farm]
+
+[https://redbedplainswindfarm.com/ Redbed Plains Wind Farm]
+
+[https://risingtreewindfarm.com/ Rising Tree Wind Farm]
+
+[https://southbranchwindfarm.com/ South Branch Wind Farm]
+
+[https://timberroadwindfarm.com/ Timber Road Wind Farm]
+
+[https://topcropwindfarm.com/ Top Crop Wind Farm]
+
+[https://turtlecreekwindfarm.com/ Turtle Creek Wind Farm]
+
+[[Twin Groves Wind Farm]]
+
+[https://waverlywindfarm.com/ Waverly Wind Farm]
+
+[https://wheatfieldwindfarm.com/ Wheatfield Wind Farm]
+
+
+
+'''Projects in Construction'''
+
+[https://crossingtrailswindfarm.com/ Crossing Trails Wind Farm]
+
+Headwaters II Wind Farm
+
+Los Cuervos Solar Park
+
+[http://nationrisewindfarm.com/ Nation Rise Wind Farm]  
+
+[https://relojdelsolwindfarm.com/ Reloj del Sol Wind Farm]
+
+[https://rosewaterwindfarm.com/ Rosewater Wind Farm]
+
+[https://wildcatcreekwindfarm.com/ Wildcat Creek Wind Farm]
+
+== References ==
+{{reflist|2}}
+{{Wind power}}
+
+[[Category:Wind power companies of the United States]]

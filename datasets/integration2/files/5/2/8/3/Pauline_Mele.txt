@@ -1,0 +1,45 @@
+{{short description|Australian ecologist}}
+{{more footnotes|date=December 2014}}
+
+Associate Professor '''Pauline M. Mele''' was born on 25 January 1963 in [[Traralgon]], [[Victoria (Australia)|Victoria]]. She is currently employed by the [[Department of Economic Development, Jobs, Transport and Resources (Victoria)|Department of Economic Development, Jobs, Transport and Resources]], Victoria.
+Mele is an Australian [[Microbial ecology|microbial ecologist]] specialising in agricultural [[soil]]s of grain production regions. Her interests are in developing a better understanding of the complex microbial communities that underpin plant and animal production systems and most vitally, how land managers can preserve and promote these functions using various management strategies.
+
+==Early career==
+In 2006, Mele was the first female to be awarded a Senior Research fellowship by Land and Water Australia and undertook a global review of research in [[soil biology]] to develop a new charter for exploring Australia's 'hidden' natural asset, the soil biota. In doing so she proposed:
+* Options for an improved framework for research investment in soil biology.
+* A process that integrates [[soil biology]] knowledge into education and monitoring applications that have Australian regional relevance.
+* An empowered community that can make better decisions regarding soil resource management.
+* A process that integrates soil biology knowledge into policy decisions relating to sustainable land-use and ecosystem services.
+
+In the same year, Mele was successful in winning a significant [[Victoria (Australia)|Victorian]] investment to collaborate with the [[J. Craig Venter Institute]] to study the microorganisms in agriculturally significant soils and in bovine digestive systems.  It was the first time in Australia that the [[DNA]] of soil microbial communities had been sequenced to reveal previously unseen [[Microorganism|soil microbes]].  
+Mele is currently coordinating a National Soil Biology Initiative for the [[Grains Research and Development Corporation|Australian Grains Research and Development Corporation]] and is also part of a team that is mapping the soil [[biodiversity]] across a diverse range of Australian soil [[biome]]s.<ref>{{cite web|url=http://www.grdc.com.au/Research-and-Development/Major-Initiatives/Soil-Biology-Initiative|title=Soil Biology Initiative|publisher=Grdc.com.au|accessdate=8 December 2014}}</ref>
+
+==Research==
+Mele's research has focussed mainly on the microbial communities found in association with plants. The focus of her activity is usually in the diverse soils under agricultural [[crop]]s and [[pasture]]s or in the zone immediately surrounding the plant root ([[rhizosphere]]). 
+Her interest is in understanding how the teeming mass of microbes found in these habitats work to improve the performance of plants either through enhancing their access to nutrients (mainly [[Fertilizer|Nitrogen]]) or by protecting them from soil borne [[pathogen]]s. 
+The complexities of these [[Habitat|microhabitats]] has warranted the use of high resolution techniques and the advent of DNA based approaches has revolutionised studies such as these, so much so that Mele's group relies almost solely on extracting the [[Genome|genetic material]] of soil microbes to provide the clues to how agricultural management impacts the performance of microbes and how in turn landholders can manipulate soil condition to encourage favourable microbial communities.   
+Mele and her team could be seen travelling the southern cropping regions in a mobile laboratory that enabled on-site processing of samples, a critical requirement for capturing microbial features of interest as they exist in the field. Mele and her colleagues are now expanding their studies Australia- wide in a first attempt to classify and map the diversity of soil microbial communities found in its ancient and highly [[Weathering|weathered]] soils, using [[DNA sequencing]] approaches. 
+Mele believes that the significance of soil biology in contemporary agricultural systems is not well understood yet offers enormous potential in overcoming production constraints.  She also believes that a much more integrated and collaborative research effort utilising grower experience and previous knowledge is the only way to achieve much needed [[agricultural productivity]] gains.
+
+==References==
+<ref>{{cite web|url=http://www.grdc.com.au/Research-and-Development/Major-Initiatives/Soil-Biology-Initiative|title=Soil Biology Initiative|publisher=Grdc.com.au|accessdate=8 December 2014}}</ref>
+
+<ref>{{cite web|url=http://www.abc.net.au/tv/programs/landline/old-site/content/2012/s3630158.htm|title=Soil Secrets|publisher=Abc.net.au|accessdate=28 December 2018}}</ref>
+
+<ref>{{cite web|url=http://www.grdc.com.au/Research-and-Development/Major-Initiatives/Soil-Biology-Initiative/Global-recognition-for-ABC-program-on-GRDC-Soil-Biology-Initiative#sthash.FgIDuiPG.dpuf|title=Global recognition for ABC program on GRDC Soil Biology Initiative|publisher=Grdc.com.au|accessdate=8 December 2014}}</ref>
+
+<ref>{{cite web|url=http://www.bioplatforms.com.au/|title=Bioplatforms Australia|publisher=Bioplatforms.com.au|accessdate=8 December 2014}}</ref>
+
+<ref>Mele, P.M. et al (in preparation) . Distribution of soil biodiversity- Agro ecosystems. Chapter 3. In 'Global Soil Biodiversity Atlas'. Global Soil Biodiversity Initiative.</ref>
+
+<ref>Mele, P.M. (2011). {{cite web|url=https://www.springer.com/gp/book/9783642202551|title=Soil biota, soil health and climate change. Chapter 8.  In 'Soil Health and Climate Change'. Editors: Bhupinder P Singh, Annette L Cowie & K Yin Chan. Soil Biology Series |publisher=Springer, Amsterdam|accessdate=19 May 2015}}</ref>
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Mele, Pauline}}
+[[Category:Australian ecologists]]
+[[Category:Australian women scientists]]
+[[Category:People from Traralgon]]
+[[Category:Living people]]
+[[Category:1963 births]]

@@ -1,0 +1,39 @@
+{{Use dmy dates|date=June 2017}}
+{{Use Australian English|date=June 2017}}
+{{Italic title}}
+{{Speciesbox
+| name = Elegant greenhood
+| image = Pterostylis elegans.jpg
+| image_caption = 
+| status_system = 
+| status =
+| genus = Pterostylis
+| species = elegans
+| authority = [[David L. Jones (botanist)|D.L.Jones]]<ref name="WCSP">{{WCSP | 259895 | ''Pterostylis elegans'' }}</ref>
+| synonyms_ref =<ref name="WCSP">{{WCSP | 259895 | ''Pterostylis elegans'' }}</ref>
+| synonyms = ''Diplodium elegans''  <small>([[David L. Jones (botanist)|D.L.Jones]]) D.L.Jones & [[Mark Alwin Clements|M.A.Clem.]]</small>
+}}
+
+'''''Pterostylis elegans''''', commonly known as the '''elegant greenhood''', is a species of [[orchid]] [[Endemism|endemic]] to [[New South Wales]]. Non-flowering plants have a [[Rosette (botany)|rosette]] of leaves flat on the ground but flowering plants have a single translucent white and dark green flower with reddish-brown markings near the tip.
+
+==Description==
+''Pterostylis elegans'' is a terrestrial, [[Perennial plant|perennial]], [[deciduous]], [[Herbaceous plant|herb]] with an underground [[tuber]] and when not flowering, a rosette of between two and four leaves, each leaf {{convert|12-25|mm|in|sigfig=1|abbr=on}} long and {{convert|10-15|mm|in|sigfig=1|abbr=on}} wide. Flowering plants have a single flower {{convert|14-18|mm|in|sigfig=1|abbr=on}} long and {{convert|6-8|mm|in|sigfig=1|abbr=on}} wide on a stem {{convert|150-280|mm|in|sigfig=1|abbr=on}} tall with four or five stem leaves. The flower is translucent white with dark green lines and markings. The [[wikt:dorsal|dorsal]] sepal and [[petal]]s are fused, forming a hood or "galea" over the [[Column (botany)|column]] and which are reddish-brown near their ends. The dorsal sepal has a thread-like tip {{convert|5-8|mm|in|sigfig=1|abbr=on}} long.  The lateral sepals are held closely against the galea, have erect thread-like tips {{convert|14-18|mm|in|sigfig=1|abbr=on}} long and a slightly protruding, notched [[Sinus (botany)|sinus]] between their bases. The labellum is {{convert|8-11|mm|in|sigfig=1|abbr=on}} long, about {{convert|2|mm|in|sigfig=1|abbr=on}} wide, curved, dark brown and prominently protruding above the sinus. Flowering occurs from January to April.<ref name="Jones">{{cite book|last1=Jones|first1=David L.|title=A complete guide to native orchids of Australia including the island territories|date=2006|publisher=New Holland|location=Frenchs Forest, N.S.W.|isbn=978-1877069123|pages =288–289}}</ref><ref name="OEH">{{cite web|title=''Pterostylis elegans'' (a terrestrial orchid) - vulnerable species listing|url=http://www.environment.nsw.gov.au/determinations/PterostylisElegansVulSpListing.htm|publisher=New South Wales Government Office of Environment and Heritage|accessdate=26 June 2017}}</ref>
+
+==Taxonomy and naming==
+''Pterostylis elegans'' was first formally described in 1997 by [[David L. Jones (botanist)|David Jones]] from a specimen collected in the Enfield State Forest on the [[Northern Tablelands]]. The description was published in ''The Orchadian''.<ref name=APNI>{{cite web|title=''Pterostylis elegans''|url=https://id.biodiversity.org.au/instance/apni/581245|publisher=APNI|accessdate=26 June 2017}}</ref> The [[Botanical nomenclature|specific epithet]] (''elegans'') is a [[Latin]] word meaning "tasteful", "choice", "fine" or "select".<ref name="RWB">{{cite book|last1=Brown|first1=Roland Wilbur|title=The Composition of Scientific Words|date=1956|publisher=Smithsonian Institution Press|location=Washington, D.C.|page =131}}</ref>
+
+==Distribution and habitat==
+The elegant greenhood grows between grasses and small shrubs in woodland and forest between the [[Barrington Tops National Park]] and [[Walcha, New South Wales|Walcha]].<ref name="Jones" /><ref name="OEH" />
+
+==Conservation==
+''Pterostylis elegans'' is listed as "vulnerable" under the New South Wales [[Threatened Species Conservation Act 1995]]. The main threats to the species are weed invasion, feral pig activity and cattle grazing.<ref name="OEH" /><ref name="RBGS">{{cite web|title=''Pterostylis elegans''|url=http://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?page=nswfl&lvl=sp&name=Pterostylis~elegans|publisher=Royal Botanic Garden Sydney: plantnet|accessdate=26 June 2017}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{Taxonbar|from=Q15500743}}
+
+[[Category:Pterostylis|elegans]]
+[[Category:Endemic orchids of Australia]]
+[[Category:Orchids of New South Wales]]
+[[Category:Plants described in 1997]]

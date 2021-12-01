@@ -1,0 +1,25 @@
+[[File:Hoep031.jpg|right|thumb|Hans Höppner (1873-1946)]]
+'''Hans Höppner''' (8 February 1873, in [[Bremen]] &ndash; 24 April 1946, in [[Krefeld]]) was a German [[botanist]] and [[entomologist]].
+
+He worked as a secondary school teacher in the city of [[Krefeld]].<ref>[http://www.heimat-krefeld.de/website/dieheimat/2009/DH80/224-230.pdf Heimat-Krefeld] Historische Parkanlagen in Krefeld – Teil 5</ref> Here, he oversaw the local natural science museum, its [[herbarium]] and also worked on the museum's entomological collections.<ref>Statement based on a translation of an equivalent article at the [[German Wikipedia]].</ref>
+
+Known for investigations of flora native to the [[Lower Rhine]], he also made numerous [[Taxonomy (biology)|taxonomic]] contributions within the botanical family [[Orchidaceae]].<ref>[http://www.ipni.org/ipni/advPlantNameSearch.do?find_includePublicationAuthors=on&find_includeBasionymAuthors=on&find_rankToReturn=all&output_format=normal&find_authorAbbrev=H%C3%B6ppner IPNI] List of Plants described or co-described by Höppner</ref> In the field of [[entomology]], he published a regional study on bees called ''Die Bienenfauna der Dünen und Weserabhänge zwischen Uesen und Baden'' (1901).<ref>[https://books.google.com/books/about/Die_Bienenfauna_der_D%C3%BCnen_und_Weserabh.html?id=qtv3SAAACAAJ Google Books] Die Bienenfauna der Dünen und Weserabhänge zwischen Uesen und Baden</ref>
+
+== Principal works ==
+* ''Flora des Niederrheins : zum gebrauch in schulen und afu ausflügen'', 1907 - Flora of the Lower Rhine.
+* ''Flora des Westfälisch-Rheinischen Industriegebietes unter Einschluß der Rheinischen Bucht'', 1926 - Flora of the Rhenish-Westphalian industrial area, including the [[Rhine basin]].<ref>[http://classify.oclc.org/classify2/ClassifyDemo?search-author-txt=%22H%C3%B6ppner%2C+Hans+%22 OCLC Classify] (publications)</ref>
+
+{{Botanist|Höppner|Höppner, Hans}}
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Hoppner, Hans}}
+[[Category:1873 births]]
+[[Category:1946 deaths]]
+[[Category:People from Bremen]]
+[[Category:German botanists]]
+[[Category:German entomologists]]
+
+[[de:Hans Höppner]]

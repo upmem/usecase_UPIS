@@ -1,0 +1,37 @@
+<!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|serious.io]]
+== Links ==
+* {{LinkSummary|serious.io}}
+:* serious.io resolves to [//107.22.194.254 107.22.194.254]
+:*: {{LinkSummary|107.22.194.254}}
+:* {{GoogleAnalyticsSummary|34352571}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Danieljy}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=18865216|lang=en|wikidomain=w|namespace=|pagename=Serious (website)|username=Danieljy|link=www.serious.io|sortdomain=io.serious.|domain=serious.io|origdiff=http://en.wikipedia.org/w/index.php?oldid=614540507&rcid=665203593|resolved=50.19.249.198|isIP=0|date=2014-06-26|time=19:05:44|wiki=en.wikipedia.org|revid=614540507|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=6|top=-1|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.serious.io|domain=serious.io|U=6|L=5|UL=5|WUL=0}}{{User:COIBot/OtherLinks|link=www.serious.io|domain=serious.io|U=6|L=5|UL=5|WUL=0}}}}
+{{User:COIBot/EditSummary|id=18865492|lang=en|wikidomain=w|namespace=|pagename=Serious (website)|username=Danieljy|link=serious.io|sortdomain=io.serious.|domain=serious.io|origdiff=http://en.wikipedia.org/w/index.php?diff=614540619&oldid=614540507|resolved=107.22.194.254|isIP=0|date=2014-06-26|time=19:06:44|wiki=en.wikipedia.org|revid=614540619|oldid=614540507|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=6|top=-1|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=serious.io|domain=serious.io|U=6|L=5|UL=5|WUL=0}}{{User:COIBot/OtherLinks|link=serious.io|domain=serious.io|U=6|L=5|UL=5|WUL=0}}}}
+{{User:COIBot/EditSummary|id=68047172|lang=en|wikidomain=w|namespace=User|pagename=User:Danieljy/Serious (website)|username=Danieljy|link=serious.io|sortdomain=io.serious.|domain=serious.io|origdiff=https://en.wikipedia.org/w/index.php?oldid=671770199&rcid=749714003|resolved=107.22.194.254|isIP=0|date=2015-07-16|time=21:36:54|wiki=en.wikipedia.org|revid=671770199|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=6|top=1|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.example.com|domain=example.com|U=6|L=-1|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=serious.io|domain=serious.io|U=6|L=5|UL=5|WUL=0}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 3 additions out of 3 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/serious.io]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bserious\.io\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/serious.io]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Open}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/serious.io|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 22:16, 16 July 2015 (UTC)

@@ -1,0 +1,8 @@
+#Redirect [[Wikipedia:Manual of Style/Dates and numbers]]
+
+{{Redirect category shell|1=
+{{Redirect from modification}}
+{{Redirect to project namespace}}
+{{Redirect to subpage}}
+{{Redirect for convenience}}
+}}

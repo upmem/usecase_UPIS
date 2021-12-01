@@ -1,0 +1,6 @@
+#REDIRECT [[Geʽez script#Punctuation]]
+
+{{Redirect shell |
+  {{R from Unicode}}
+  {{R to section}}
+}}

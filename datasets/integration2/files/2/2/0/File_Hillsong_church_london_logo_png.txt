@@ -1,0 +1,23 @@
+== Summary ==
+{{logo fur
+<!-- REQUIRED -->
+ |Article           = Hillsong Church London
+ |Use               = Org
+<!-- HIGHLY RECOMMENDED -->
+ |Source            = http://www.myhillsonglondon.co.uk
+<!-- ADDITIONAL INFORMATION -->
+ |Used for          = 
+ |Owner             = Hillsong Church London
+ |Website           = http://www.myhillsonglondon.co.uk
+ |History           = 
+ |Commentary        = 
+<!-- OVERRIDE FIELDS -->
+ |Description       = Current Hillsong London logo as of 2010
+ |Portion           = 
+ |Low_resolution    = 
+ |Purpose           = 
+ |Replaceability    = Official logo of Hillsong Church London, sourced from Hillsong Church.
+ |other_information = 
+}}
+== Licensing ==
+{{Non-free logo|image has rationale=yes|auto=yes}}

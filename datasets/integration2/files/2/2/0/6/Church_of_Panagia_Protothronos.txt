@@ -1,0 +1,22 @@
+{{No footnotes|date=July 2017}}
+[[File:Παναγία Πρωτόθρονος στο Χαλκί.jpg|thumb|257x257px|The outside of the church]]
+The '''Church of Panagia Protothronos''' ({{lang-el|Παναγία Πρωτόθρονος}}, "[[Panagia]] of the [[protothronos|First Throne]]") is located in the village of Halki in Tragaia, in the interior of [[Naxos]] island in [[Greece]]. The church is dedicated to the [[Annunciation]], and was probably an early Christian [[basilica]], of which only the [[synthronon]] and the episcopal throne in the semi-circular sanctuary conch survive. In middle [[Byzantine]] times the building was converted into a transitional [[cross-in-square]] church. A domed [[narthex]] was later added, flanked by the chapel of [[Saint Akindynos]] to the north and a vaulted rectangular room to the south.
+
+According to an architrave inscription probably from the [[templon]], the church was renovated in 1052. The inscription also mentions the names of Bishop Leo, Niketas, "''[[protospatharios]]'' and ''[[tourmarches]]'' of Naxia" and Count Stephen Kamilaris. Other 16th and 17th-century inscriptions refer to subsequent repairs. The church interior is decorated in five successive layers dating to the [[Early Christian art and architecture|early Christian]] period; the 9th century (non-figurative decoration); and the 10th, 11th, and 13th centuries. Some of these were detached and then repositioned once the earliest layer had been removed, so [[Fresco|frescoes]] from different periods are now visible.
+
+The first layer of frescoes dates to the 7th century - apostles adorn the bottom of the conch, while the side of the window has a depiction of St. Isidore. The second layer painted over the Apostles in the conch consisted of non-figurative decoration, with crosses in the arcades, and dates to the Iconoclast period in the 9th century. 
+
+The two superimposed layers uncovered in the [[dome]] have been dated to 1052 and 1056 respectively, as they have been linked to the architrave inscription and a further inscription in the north chapel, commemorating the Assumption of the Servant of God Anna in 1056. All the same, it is also believed that the first layer detached from the dome, along with other wall paintings in the south antenna, date to a slightly earlier period, in the 10th and 11th century. The depictions of Saints George, Nicholas, Dimitrios and Theodore incorporated in the eastern section of the second layer date to 1052.
+
+According to another view, the depiction of the Annunciation on the south wall of the sanctuary is later, dating to the 11th or 12th-13th century. In the late 13th century the lower part of the sanctuary conch was re-decorated with co-officiating bishops, only one of whom has survived in detached form. The [[Supplication]] depicted in the apse was painted later.
+
+== Bibliography ==
+* Ζίας Νίκος, ''Πρωτόθρονη στο Χαλκί,'' στον τόμο " Βυζαντινή Τέχνη στην Ελλάδα: Νάξος", εκδόσεις Μέλισσα: Αθήνα,1989.
+* Ανωμερίτης Γιώργος, "Βυζαντινό Πάρκο Τραγαίας Νάξου", εκδόσεις Μίλητος: Αθήνα, 2009.
+
+{{coord|37.06295|25.48294|format=dms|type:landmark_region:GR|display=title}}
+{{commons|category:Panagia Protothroni in Chalki}}
+[[Category:Buildings and structures in Naxos]]
+[[Category:Byzantine church buildings in Greece]]
+[[Category:Eastern Orthodox church buildings in Greece]]
+[[Category:11th-century architecture in Greece]]

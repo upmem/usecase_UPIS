@@ -1,0 +1,61 @@
+{{EngvarB|date=March 2017}}
+{{Use dmy dates|date=March 2018}}
+{{Infobox Political post
+|post            = Chief Advisor
+|body            = 
+|native_name     = 
+|flag =
+|flagsize = 
+|flagcaption = 
+|insignia        = Emblem of Bhutan.svg
+|insigniasize    = 125px
+|insigniacaption = [[Emblem of Bhutan]]
+|image           =
+|last incumbent  =
+|incumbentsince  = 
+|style           = Chief Advisor
+|appointer       = [[Druk Gyalpo|King of Bhutan]]
+|termlength      = until the next general election is held and a new Prime Minister takes office
+|formation       = 2013
+|inaugural       = [[Sonam Tobgye]]
+|website         = 
+}}
+The '''Chief Advisor''' is the head of interim government of Bhutan following a dissolution of assembly, in preparation for [[National Assembly (Bhutan)|National Assembly]] elections.<ref name="kuenselonline.com">{{cite web|url=http://www.kuenselonline.com/his-majesty-appoints-interim-government/|title=His Majesty appoints interim government  – KuenselOnline|website=www.kuenselonline.com}}</ref><ref>{{cite web|url=http://www.xinhuanet.com/english/2018-07/26/c_137349871.htm|title=Bhutan's lower house to dissolve for general election - Xinhua - English.news.cn|website=www.xinhuanet.com}}</ref>
+
+== Chief advisors ==
+ {| class="wikitable" style="text-align:center; border:1px #aaf solid; width:100%;"
+|-
+!rowspan="2" colspan="2" | {{Abbr|No.|Number}}
+!rowspan="2" style="width:60px;" | Portrait
+!rowspan="2" style="width:150px;" | Name<br/>{{small|(Birth–Death)}}
+!colspan="2" | Term of Office
+!rowspan="2" | Political Party
+|-
+!Took Office
+!Left Office
+|- style="background:#EEEEEE"
+! style="background:{{Independent (politician)/meta/color}};"|
+! 1
+|[[File:No image.png|60px]]
+|{{small|Lyonpo}}<br/>'''[[Sonam Tobgye]]'''<br/>{{small|(1949–)}}
+| 28 April 2013
+| 27 July 2013
+|[[Independent politician|Independent]]
+|- style="background:#EEEEEE"
+! style="background:{{Independent (politician)/meta/color}};"|
+! 2
+|[[File:No image.png|60px]]
+|{{small|Lyonpo}}<br/>'''[[Dasho Tshering Wangchuk]]'''<br/>{{small|(19–)}}
+| 9 August 2018
+| 7 November 2018
+|[[Independent politician|Independent]]
+|}
+
+==References==
+{{reflist}}
+
+[[Category:Political office-holders in Bhutan]]
+[[Category:Caretaker governments]]
+
+
+{{Bhutan-stub}}

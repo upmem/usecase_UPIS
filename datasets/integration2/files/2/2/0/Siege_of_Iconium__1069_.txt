@@ -1,0 +1,39 @@
+{{Infobox Military Conflict|
+|conflict=Siege of Konya (Iconium)
+|image=
+|caption=
+|partof=the [[Byzantine-Seljuk wars]]
+|date=1069{{sfn|Lock|2006|page=15}}
+|place=Near [[Iconium]], (now [[Konya]]), Turkey
+|result=Byzantine victory
+|combatant1=[[Byzantine Empire]]
+|combatant2= [[Seljuk Turks]]
+|commander1=[[Romanos IV Diogenes]]
+|commander2=[[Alp Arslan]]
+|strength1=Unknown
+|strength2=Unknown
+|casualties1=Unknown
+|casualties2=Unknown
+}}
+{{Campaignbox Byzantine-Seljuk War}}
+
+The '''Siege of Iconium''' ([[Greek language|Greek]]: Μάχη του Ικονίου, [[Turkish language|Turkish]]: Konya Muharebesi) was an unsuccessful attempt by the Turkish [[Seljuk Empire]] to capture the [[Byzantine Empire|Byzantine]] city of Iconium, modern day [[Konya]]. After sacking [[Ani]] and [[Kayseri|Caesarea]] in 1063 and 1067, respectively (some sources suggest as early as 1064), the [[Byzantine army]] in the East was in too poor a shape to resist the advance of the Turks. Had it not been for the efforts of the emperor [[Romanos IV Diogenes]] the Byzantine Empire would have suffered her "[[Battle of Manzikert|Manzikert]]" disaster sooner. From Syria, a successful counter-attack drove the Turks back. After the attack on Iconium was repelled, Romanos IV launched [[Romanos_IV_Diogenes#Campaign_of_1069|his second campaign]].{{sfn|Lock|2006|page=15}} Further campaigning was met with some success by Romanos, despite the ill nature of his army which had been poorly led since the death of Basil II. 
+
+The victory was a short respite - sometime after Manzikert, in the midst of civil conflict, Iconium fell to the Turks. The city saw a brief return to [[Christendom]] during the [[First Crusade]], possibly under Byzantine rule but the Turks counter-attacked at the [[Crusade of 1101]] and Konya would form the capital of Byzantium's most dangerous opponent. On 18 May 1190, Iconium was briefly regained for Christianity by the forces of [[Frederick I, Holy Roman Emperor]] at the [[Battle of Iconium (1190)|Battle of Iconium]] during the [[Third Crusade]].
+
+==References==
+{{reflist|2}}
+
+==Sources==
+* {{cite book|last1=Lock|first1=Peter|title=The Routledge Companion to the Crusades|date=2006|publisher=Routledge|isbn=978-1135131371|ref=harv}}
+
+{{coord missing|Turkey}}
+
+
+[[Category:1060s in the Byzantine Empire]]
+
+[[Category:Battles of the Byzantine–Seljuq Wars|Iconium 1069]]
+[[Category:Conflicts in 1069|Iconium 1069]]
+[[Category:1069 in Asia]]
+[[Category:History of Konya]]
+[[Category:11th century in the Seljuk Empire]]

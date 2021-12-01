@@ -1,0 +1,13 @@
+== Summary ==
+{{Non-free use rationale
+ |Article           = Making Angels
+ |Description       = Astrid Farnsworth meets her alternate self.
+ |Source            = http://www.denofgeek.com/tv/fringe/25461/top-10-fringe-episodes
+ |Portion           = Whole
+ |Low_resolution    = Yes
+ |Purpose           = To show an important moment within the episode.
+ |Replaceability    = No
+ |other_information = 
+}}
+== Licensing ==
+{{Non-free television screenshot|image has rationale=yes|image has rationale}}

@@ -1,0 +1,44 @@
+{{Navbox
+|name=Fabula Nova Crystallis Final Fantasy
+|title=''[[Fabula Nova Crystallis Final Fantasy]]''
+|listclass=hlist
+|state= {{{state|autocollapse}}}
+
+|group1=''Final Fantasy XIII''
+|list1=
+*''[[Final Fantasy XIII]]''
+**[[Music of Final Fantasy XIII|Music]]
+*''[[Final Fantasy XIII-2|XIII-2]]''
+**[[Music of Final Fantasy XIII-2|Music]]
+*''[[Lightning Returns: Final Fantasy XIII|Lightning Returns]]''
+**[[Music of Lightning Returns: Final Fantasy XIII|Music]]
+*[[Characters of the Final Fantasy XIII series|Characters]]
+**[[Lightning (Final Fantasy)|Lightning]]
+**[[Oerba Dia Vanille]]
+**[[Oerba Yun Fang]]
+|group2=''Final Fantasy Type-0''
+|list2=
+*''[[Final Fantasy Type-0]]''
+**''[[Final Fantasy Type-0 HD|HD]]''
+*''[[Final Fantasy Agito|Agito]]''
+**''[[Final Fantasy Awakening|Awakening]]''
+*[[Characters of the Final Fantasy Type-0 universe|Characters]]
+|group3=''Final Fantasy XV''
+|list3=
+*''[[Final Fantasy XV]]''
+**''[[Brotherhood: Final Fantasy XV|Brotherhood]]''
+**''[[Kingsglaive: Final Fantasy XV|Kingsglaive]]''
+**''[[Monster of the Deep: Final Fantasy XV|Monster of the Deep]]''
+**''[[Final Fantasy XV: A New Empire|A New Empire]]''
+**''[[Final Fantasy XV: Pocket Edition|Pocket Edition]]''
+**''[[Final Fantasy XV: The Dawn of the Future|The Dawn of the Future]]''
+*[[Development of Final Fantasy XV|Development]]
+**[[Music of Final Fantasy XV|Music]]
+*[[Characters of Final Fantasy XV|Characters]]
+**[[Noctis Lucis Caelum]]
+**[[Cindy Aurum]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Final Fantasy navigational boxes]]
+[[Category:Video game navigational boxes by series]]
+</noinclude>

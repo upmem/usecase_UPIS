@@ -1,0 +1,16 @@
+== Summary ==
+Theatrical film poster for ''[[Ashanti (1979 film)|Ashanti]]'' (1979)
+
+===Fair-use rationale===
+{{Non-free use rationale
+|Description=[[Ashanti (1979 film)|Ashanti]] film poster.
+|Source=Cinemotions
+|Portion=Whole front of poster image used to avoid misrepresentation
+|Low_resolution=Yes. It is a low resolution image, and thus not suitable for production of counterfeit goods.
+|Article=Ashanti (1979 film)
+|Purpose=The logo is only being used for informational purposes. Its inclusion in the article adds significantly to the article because it is the primary means of identifying the subject of this article.
+|Replaceability=No non-copyright version available, by definition.
+}}
+
+== Licensing ==
+{{Non-free poster|image has rationale=yes}}

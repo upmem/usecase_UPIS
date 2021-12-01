@@ -1,0 +1,52 @@
+{{refimprove|date=August 2017}}
+{{Infobox scientist
+|name              = Claus Wilke
+|image             = ClausWilke.jpg
+|caption           =
+|birth_date        = {{birth year and age|1972}}
+|birth_place       = [[Germany]]
+|death_date        =
+|death_place       =
+|citizenship       =
+|nationality       = 
+|ethnicity         =
+|fields            = [[Evolutionary Biology]] and [[Computational Biology]]
+|workplaces        = [[University of Texas at Austin]]
+|alma_mater        = [[Ruhr University Bochum]]
+|doctoral_advisor  = Thomas Martinetz
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  =
+|known_for         = 
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|influences        =
+|influenced        =
+|awards            =  
+|religion          =
+|signature         =  <!--(filename only)-->
+|footnotes         =
+}}
+
+'''Claus O. Wilke''' is a [[Computational Biology|computational]] and [[Evolutionary Biology|evolutionary biologist]] and chair of the Department of Integrative Biology at [[University of Texas at Austin]], where he is the Dwight W. and Blanche Faye Reeder Centennial Fellow in Systematic and Evolutionary Biology, and currently holds the Joseph J. & Jeanne M. Lagowski Regents Professorship in Molecular Bioscience.<ref>{{cite web |url=https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/237-wilke-claus-o?Itemid=1224/ |title=Wilke profile at UT Austin | access-date= 2017-08-26 }}</ref> Wilke obtained a Ph.D. in theoretical physics at the [[Ruhr University Bochum]] in 1999, and subsequently worked as a postdoctoral research fellow at the [[California Institute of Technology]] in the lab of [[Chris Adami]]. He moved to UT Austin as an assistant professor in 2006, where he is now professor, department chair, and director of the [[Wilke Lab]]. Wilke studies the evolution of molecules and viruses using theoretical and computational methods. He is also the author of the [[Cowplot]]<ref>{{cite web | url=https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html |title=Introduction to cowplot }}</ref> and [[ggridges]]<ref> {{cite web |url=https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html |title=Introduction to ggridges}}</ref> plotting packages.
+
+== Works ==
+{{cite journal|last1=Drummond|first1=D.A.|last2=Wilke|first2=C.O.|date=2008|title=Mistranslation-induced protein misfolding as a dominant constraint on coding-sequence evolution|journal=Cell|volume=134|issue=2|pages=341–352|doi=10.1016/j.cell.2008.05.042|pmid=18662548|pmc=2696314}}
+
+== References ==
+{{reflist}}
+
+== External Links ==
+* [http://wilkelab.org/ Wilke Lab web site]
+* [https://scholar.google.com/citations?user=Nc8U6E4AAAAJ List of publications at Google Scholar]
+* [http://serialmentor.com/blog/ Wilke's Blog "The Serial Mentor"]
+
+{{authority control}}
+{{DEFAULTSORT:Wilke, Claus O.}}
+[[Category:German expatriates in the United States]]
+[[Category:Living people]]
+[[Category:1972 births]]
+[[Category:German bioinformaticians]]
+[[Category:Evolutionary biologists]]
+[[Category:University of Texas at Austin faculty]]
+[[Category:Ruhr University Bochum alumni]]

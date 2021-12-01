@@ -1,0 +1,14 @@
+== Summary ==
+{{Information
+| Description    = Émile Gentil
+| Source         = Centre des archives d'Outre-Mer (Caom, Aix-en-Provence) website: French government archive
+
+
+| Date           = Pre-1909, outside US
+| Author         = 
+| Permission     = the work was in the public domain in the country of origin as of January 1, 1996, See: http://www.copyright.cornell.edu/training/Hirtle_Public_Domain.htm
+| other_versions = 
+}}
+
+== Licensing ==
+{{PD-US-1909-abroad|origin=France}}

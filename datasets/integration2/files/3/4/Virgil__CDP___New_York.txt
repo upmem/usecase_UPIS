@@ -1,0 +1,99 @@
+{{Infobox settlement
+|official_name            = Virgil, New York
+|settlement_type          = [[Census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = New York
+|pushpin_label            = Virgil
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of New York
+|pushpin_mapsize          =
+|image_map                = 
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Cortland County, New York|Cortland]]
+|subdivision_type3        = [[Town (New York)|Town]]
+|subdivision_name3        = [[Virgil, New York|Virgil]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 2.3
+|area_land_km2            = 2.3
+|area_water_km2           = 0.0
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         =
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 
+|population_density_km2   = 
+|population_density_sq_mi =
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 1410
+|coordinates              = {{coord|42|30|38|N|76|11|40|W|region:US-NY|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 13045
+|area_code                = 
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-77585
+|blank1_name              = 
+|blank1_info              = 
+|website                  = 
+|footnotes                = 
+}}
+'''Virgil''' is a [[hamlet (New York)|hamlet]] and [[census-designated place]] (CDP) in the [[Virgil, New York|town of Virgil]], [[Cortland County, New York|Cortland County]], [[New York (state)|New York]], United States. The CDP was designated after the 2010 census, so no population figure is yet available.
+
+==Geography==
+The hamlet of Virgil is located in the west-central part of the town of Virgil, in the valley of Virgil Creek, a west-flowing stream which is part of the [[Cayuga Lake]] watershed. New York State Routes [[New York State Route 392|392]] and [[New York State Route 215|215]] intersect at the center of the hamlet. Route 392 leads east {{convert|7|mi|0}} to [[U.S. Route 11]] in Messengerville, and west {{convert|6|mi|0}} to [[New York State Route 13|NY Route 13]] in the village of [[Dryden (village), New York|Dryden]], while Route 215 leads north {{convert|6|mi|0}} to [[Cortland, New York|Cortland]], the [[county seat]].
+
+According to the [[United States Census Bureau]], the Virgil CDP has a total area of {{convert|2.3|km2|disp=flip}}, all land.<ref>{{Cite web| url=http://www2.census.gov/geo/gazetteer/2014_Gazetteer/2014_gaz_place_36.txt| title=2014 U.S. Gazetteer Files: Places: New York| publisher=U.S. Census Bureau, Geography Division| accessdate=December 17, 2014| archive-url=https://web.archive.org/web/20141213014810/http://www2.census.gov/geo/gazetteer/2014_Gazetteer/2014_gaz_place_36.txt| archive-date=December 13, 2014| url-status=dead| df=mdy-all}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Cortland County, New York}}
+
+{{authority control}}
+
+[[Category:Census-designated places in New York (state)]]
+[[Category:Census-designated places in Cortland County, New York]]

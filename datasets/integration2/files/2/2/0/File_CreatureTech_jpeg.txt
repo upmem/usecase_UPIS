@@ -1,0 +1,25 @@
+== Summary ==
+{{Non-free use rationale book cover 
+| Article           = Creature Tech
+| Use               = Infobox
+<!-- OPTIONAL FIELDS -->
+| Title             = 
+| Author            = 
+| Publisher         = [[Top Shelf Productions]]
+| Cover_artist      = 
+| Website           = http://www.mediawiki.org/wiki/Manual:External_editors
+| Owner             = 
+| Commentary        = 
+| Year              = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = 
+| Replaceability    = 
+| Other_information = 
+}}
+
+== Licensing ==
+{{Non-free book cover|image has rationale=yes|category=Graphic novel and comic collection book cover images}}

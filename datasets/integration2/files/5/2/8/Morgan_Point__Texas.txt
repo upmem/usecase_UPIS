@@ -1,0 +1,9 @@
+{{Coord|29.5493959|-94.7793642|display=title}}
+'''Morgan Point''' is a [[cape (geography)|cape]] in [[Chambers County, Texas]].<ref name="usgs">{{cite web|url=http://geonames.usgs.gov/pls/gnispublic/f?p=154:3:3386488744090462::NO:3:P3_FID,P3_TITLE:1341915%2CMorgan%20Point|title=GNIS Detail - Morgan Point|work=[[Geographic Names Information System]]|publisher=[[United States Geological Survey]]|accessdate=2011-12-09}}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:Geography of Chambers County, Texas]]
+
+{{ChambersCountyTX-geo-stub}}

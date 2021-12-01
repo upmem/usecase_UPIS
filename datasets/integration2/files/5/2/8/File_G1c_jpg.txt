@@ -1,0 +1,25 @@
+== Summary ==
+{{Non-free use rationale album cover| Article           = Group 1 Crew (album)
+| Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+| Name              = Group 1 Crew
+| Artist            = [[Group 1 Crew]]
+| Label             = [[Fervent Records|Fervent]]/[[Curb Records|Curb]]/[[Word Records|Word]]
+| Graphic Artist    = 
+| Item              = 
+| Type              = album
+| Website           = 
+| Owner             = 
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = <!--Must be specified if Use is not Infobox / Header / Section / Artist-->
+| Replaceability    = 
+| other_information = 
+}}
+
+== Licensing ==
+{{Non-free album cover|image has rationale=yes}}

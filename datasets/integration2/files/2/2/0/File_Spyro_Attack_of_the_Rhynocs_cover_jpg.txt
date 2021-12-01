@@ -1,0 +1,26 @@
+== Summary ==
+{{Non-free use rationale video game cover
+| Article           = Spyro: Attack of the Rhynocs
+| Use               = Infobox<!-- Choose: Infobox / Header / Section / Artist / other (specify Purpose) --> 
+<!-- ADDITIONAL INFORMATION -->
+| Name              = [[Spyro: Attack of the Rhynocs]]
+| Distributor       = 
+| Publisher         = 
+| Type              = 
+| Website           = [http://image.com.com/gamespot/images/bigboxshots/7/914697_51857_front.jpg GameSpot]
+| Owner             = [[Backbone Entertainment]] and [[Vivendi Games]]
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+| Replaceability    = 
+| other_information = 
+}}
+
+== Licensing ==
+{{Non-free video game cover|Game Boy Advance|image has rationale=yes}}
+
+[[Category:Spyro media files]]

@@ -1,0 +1,99 @@
+{{Infobox album
+| name       = I Must Be Seeing Things
+| type       = Studio
+| artist     = Gene Pitney
+| cover      = I_Must_Be_Seeing_Things_album_cover.jpg
+| alt        =
+| released   = 1965
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Pop music|Pop]]
+| length     = 31:23 (US)<br />32:22 (UK)
+| label      = [[Musicor Records|Musicor]] (United States)<br />[[Stateside Records|Stateside]] (United Kingdom)
+| producer   =
+| prev_title = [[For the First Time! Two Great Stars - George Jones and Gene Pitney]]
+| prev_year  = 1964
+| next_title = [[It's Country Time Again!]]
+| next_year  = 1965
+}}
+
+{{Album ratings
+|rev1 = [[allmusic.com]]
+|rev1score = {{Rating|3|5}}<ref name=allmusic> {{Allmusic|class=album|id=r860758}} </ref>
+}}
+
+'''''I Must Be Seeing Things''''' the 12th album released by American singer [[Gene Pitney]], released on the [[Musicor Records|Musicor]] label in the [[United States]] in 1965. The album was released as '''''Looking Through the Eyes of Love''''' on the [[Stateside Records|Stateside]] label in the [[United Kingdom]].
+
+==Background==
+
+At the time of this album's release, Musicor Records was in the middle of a distribution transformation. Art Talmadge, an employee of Musicor's parent United Artists Records, had recently bought the label from UA and ran it (along with fellow UA employee Harold "Pappy" Daily) under his newly created Talmadge Productions company.  Although all album covers bear the Talmadge Productions name, labels of first pressings still included the United Artists disclaimer at the bottom. Once Musicor's transformation from UA to Talmadge was completed, the disclaimer was changed on the label (which also underwent some other cosmetic changes) and the ''I Must Be Seeing Things'' album continued circulation.
+ 
+Original copies with UA disclaimer feature "Looking Thru (sic) The Eyes Of Love" on side 2, track 6.  This was replaced on the new Talmadge labeled copies with "If I Never Get To Love You". 
+ 
+
+The title track was a top 10 hit in Canada and the UK but only reached #31 in the US.<ref name=billboard>{{cite web|url=http://www.billboard.com/artist/302676/gene-pitney/chart|title=Billboard charts - Gene Pitney|access-date=April 9, 2017}}</ref> The UK release of the album featured "[[Looking Through the Eyes of Love]]", a top 10 hit in the UK as well as Canada.
+
+== Track listing ==
+
+=== UK release and original US release w/United Artists disclaimer on labels ===
+
+===Side 1===
+#"I Must Be Seeing Things" (Bob Brass, [[Al Kooper]], [[Irwin Levine]]) – 2:29
+#"Marianne" (Gene Pitney) – 2:42
+#"Save Your Love" (Pitney) – 3:16
+#"Down in the Subway" (Peter Udell, Gary Geld) – 2:38
+#"If Mary's There" (Udell, Geld) – 2:24
+#"Don't Take Candy From A Stranger" (Brass, Kooper, Irwin Levine) – 2:06
+
+===Side 2===
+#"One Day" ([[Doc Pomus]], [[Mort Shuman]]) – 2:51
+#"She's Still There" (Kooper, Levine) – 2:47
+#"Just One Smile" ([[Randy Newman]]) – 2:44
+#"There's No Livin's Without Your Lovin'" (Jerry Harris, Paul Kaufman) – 2:52
+#"I Lost Tomorrow (Yesterday)" (Jason Darrow) – 2:17
+#"[[Looking Through the Eyes of Love]]" ([[Barry Mann]], [[Cynthia Weil]]) – 3:16
+
+=== US second release w/Talmadge Productions disclaimer on labels ===
+
+===Side 1===
+#"I Must Be Seeing Things" – 2:29
+#"Marianne" – 2:42
+#"Save Your Love" – 3:16
+#"Down in the Subway" – 2:38
+#"If Mary's There" – 2:24
+#"Don't Take Candy From A Stranger" – 2:06
+
+===Side 2===
+#"One Day" – 2:51
+#"She's Still There" – 2:47
+#"Just One Smile" – 2:44
+#"There's No Livin's Without Your Lovin'" – 2:52
+#"I Lost Tomorrow (Yesterday)" – 2:17
+#"If I Never Get To Love You" ([[Hal David]], [[Burt Bacharach]]) – 2:17
+
+==US Chart History of Singles==
+{| class="sortable wikitable"
+|-
+!rowspan="2"|Year !!rowspan="2"|Titles<br /> !!colspan="1"|Chart position 
+|-
+!<small>[[Billboard Hot 100|Billboard]]</small><ref name=billboard/>
+|-
+!  1965
+| "I Must Be Seeing Things "<br /><small>b/w "Marianne" </small>|| align=center|31
+|-
+!  1965
+| "Looking Through the Eyes of Love"<br /><small>b/w "There's No Livin' Without Your Lovin'" </small>|| align=center|28
+|- 
+!  1967
+|  "Just One Smile"<br /><small>b/w "Innamorata" </small>|| align=center|64
+
+|}
+
+==References==
+{{reflist}}
+
+
+[[Category:1965 albums]]
+[[Category:Gene Pitney albums]]
+[[Category:Musicor Records albums]]

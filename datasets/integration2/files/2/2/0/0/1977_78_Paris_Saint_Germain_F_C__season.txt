@@ -1,0 +1,1052 @@
+{{use dmy dates|date=May 2020}}
+
+{{Infobox football club season
+| club               = [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| season             = 1977–78
+| chrtitle           = [[List of Paris Saint-Germain F.C. presidents|President]]
+| chairman           = [[Daniel Hechter]]<br>{{nowrap|<small>(until January 1978)</small>}}<br>[[Francis Borelli]]<br>{{nowrap|<small>(from January 1978)</small>}}
+| mgrtitle           = [[List of Paris Saint-Germain F.C. managers|Manager]]
+| manager            = [[Jean-Michel Larqué]]
+| stadium            = [[Parc des Princes]]
+| league             = [[Ligue 1|Division 1]]
+| league result      = [[1977–78 French Division 1|11th]]
+| cup1               = [[Coupe de France]]
+| cup1 result        = [[1977–78 Coupe de France|Round of 32]]
+| league topscorer   = <br>[[Carlos Bianchi]] (37)
+| season topscorer   = <br>[[Carlos Bianchi]] (39)
+| highest attendance = 40,264<br>{{Nowrap|<small>(vs [[OGC Nice|Nice]], 1 October 1977)</small>}}
+| lowest attendance  = 3,895<br>{{Nowrap|<small>(vs [[FC Sochaux-Montbéliard|Sochaux]], 5 April 1978)</small>}}
+| average attendance = 21,754
+| largest win        = {{nowrap|Paris Saint-Germain 8–2 [[:fr:Troyes Aube Football|Troyes AF]]}}
+| largest loss       = {{nowrap|[[AS Nancy|Nancy]] 4–1 Paris Saint-Germain}}
+| pattern_la1        = _whiteborder
+| pattern_b1         = _redwhitevertical_PSG
+| pattern_ra1        = _whiteborder
+| pattern_sh1        = 
+| pattern_so1        = _psg70s
+| leftarm1           = 000055
+| body1              = 000055
+| rightarm1          = 000055
+| shorts1            = FF0000
+| socks1             = 000055
+| pattern_la2        = _redborder
+| pattern_b2         = _redbluevertical_PSG
+| pattern_ra2        = _redborder
+| pattern_sh2        = 
+| pattern_so2        = _psg70s
+| leftarm2           = FFFFFF
+| body2              = FFFFFF
+| rightarm2          = FFFFFF
+| shorts2            = FF0000
+| socks2             = 000055
+| pattern_la3        = 
+| pattern_b3         = _vneck
+| pattern_ra3        = 
+| pattern_sh3        = 
+| pattern_so3        = _psg70s
+| leftarm3           = FFFFFF
+| body3              = FFFFFF
+| rightarm3          = FFFFFF
+| shorts3            = FF0000
+| socks3             = 000055
+| prevseason         = [[1976–77 Paris Saint-Germain F.C. season|1976–77]]
+| nextseason         = [[1978–79 Paris Saint-Germain F.C. season|1978–79]]
+}}
+
+The '''1977–78 season''' was [[Paris Saint-Germain F.C.|Paris Saint-Germain]]'s [[List of Paris Saint-Germain F.C. seasons|8th season]] in existence.<ref name="saison78">{{cite news 
+| title = Saison 1977-1978
+| url = https://histoiredupsg.fr/saison-1977-1978
+| work = Histoire du PSG
+| accessdate = 1 May 2020}}</ref><ref name="foot78">{{cite news
+| title = Paris S-G 1977/1978
+| url = https://www.footballdatabase.eu/en/club/team/3-paris_sg/1977-1978
+| work = Footballdatabase.eu
+| accessdate = 1 May 2020}}</ref> PSG mainly played their home league games at the [[Parc des Princes]] in [[Paris]], but once at the [[Stade de Paris]] in [[Saint-Ouen-sur-Seine]] as well, registering an average attendance of 21,754 spectators per match.<ref name="saison78"/><ref name="foot78"/><ref>{{cite news
+|title = Average Team Attendances Paris-SG
+|url = http://www.stadium-attendances.com/Paris-SG,historical,attendances.html
+|work = Stadium and Attendances
+|accessdate = 19 March 2020}}</ref> The club was presided by [[Daniel Hechter]] until January 1978, when [[Francis Borelli]] became the new president.<ref name="saison78"/> The team was coached by [[Player-coach|player-manager]] [[Jean-Michel Larqué]].<ref name="saison78"/><ref name="foot78"/><ref name="Larqué">{{cite news
+| title = Jean-Michel Larqué entraîneur-joueur au PSG - L'interview
+| url = https://www.francebleu.fr/sports/football/jean-michel-larque-1566913515
+| work = France Bleu
+| date = 28 August 2019
+| accessdate = 2 May 2020}}</ref> [[Mustapha Dahleb]] was the team captain.<ref name="captain">{{cite news
+| title = saison 1977-1978
+| url = http://www.paris-canalhistorique.com/saison-1977-1978/
+| work = Paris.canal-historique
+| date = 21 June 2014
+| accessdate = 2 May 2020}}</ref>
+
+In January 1978, [[Daniel Hechter]] was banned for life from football by the [[French Football Federation]] for running a ticketing scheme at [[Parc des Princes]].<ref name="finances">{{cite news
+| title = Political and Organizational Factors of PSG
+| url = https://firstrosettastoneassignment.weebly.com/political-and-organizational-factors-of-psg.html
+| work = Sports and Leisure in France
+| accessdate = 10 March 2019}}</ref><ref name="hechter">{{cite news
+| title = 1973 - 1978 : Paris se replace sur la scène française
+| url = https://parisunited.fr/oeil-du-supporter/1973-1978-paris-se-replace-sur-la-scene-francaise/
+| work = Paris United
+| date = 19 November 2018
+| accessdate = 7 March 2019}}</ref><ref name="greatestpsg">{{cite news 
+| title = The Greatest French Club Sides Of All Time – Part 3
+| url = http://frenchfootballweekly.com/2011/07/19/the-greatest-french-club-sides-of-all-time-–-part-3/
+| work = French Football Weekly
+| date = 19 July 2011
+| accessdate = 26 October 2019}}</ref> On January 8, 1978, PSG beat [[Olympique de Marseille]] 5–1 in his final match at the stadium as club president. [[Mustapha Dahleb]] offered Hechter the match ball after the final whistle and was then carried in triumph by the players while the fans in attendance chanted his name.<ref name="hechter"/> The next day, [[Francis Borelli]], who had been vice-president until then, became the new president.<ref name="hechter"/><ref name="psg70">{{cite news
+| title = Histoire du Paris Saint Germain
+| url = http://psg70.free.fr/historique.htm
+| work = PSG70
+| accessdate = 2 April 2019}}</ref> [[Carlos Bianchi]], who arrived to Paris in June 1977, was Hechter's last big signing. The Argentine striker scored 37 goals in 38 league matches.<ref name="psg70"/>
+
+==Players==
+
+:''As of the 1977–78 season.''<ref name="saison78"/><ref name="foot78"/><ref name="captain"/>
+
+===Squad===
+
+{{Fs start}}
+{{Fs player|other=|no=|nat=FRA|pos=GK|name=[[Daniel Bernard (footballer)|Daniel Bernard]]}}
+{{Fs player|other=|no=|nat=FRA|pos=GK|name=[[Michel Bensoussan]]}}
+{{Fs player|other=|no=|nat=FRA|pos=DF|name=[[Jean-Pierre Adams]]}}
+{{Fs player|other=|no=|nat=ARG|pos=DF|name=[[Ramón Heredia]]}}
+{{Fs player|other=|no=|nat=FRA|pos=DF|name=[[Pierre Bajoc]]}}
+{{Fs player|other=|no=|nat=FRA|pos=DF|name=[[:fr:Éric Renaut|Éric Renaut]]}}
+{{Fs player|other=|no=|nat=FRA|pos=DF|name=[[:fr:Thierry Morin (football)|Thierry Morin]]}}
+{{Fs player|other=|no=|nat=FRA|pos=DF|name=[[Jean-Marc Pilorget]]}}
+{{Fs player|other=|no=|nat=FRA|pos=DF|name=[[Franck Tanasi]]}}
+{{Fs player|other=|no=|nat=FRA|pos=DF|name=[[:fr:Gilles Brisson|Gilles Brisson]]}}
+{{Fs player|other=|no=|nat=FRA|pos=DF|name=[[Philippe Jean (footballer)|Philippe Jean]]}}
+{{Fs player|other=|no=|nat=FRA|pos=DF|name=[[Dominique Lokoli]]}}
+{{fs mid}}
+{{Fs player|other=|no=|nat=FRA|pos=MF|name=[[Jean-Claude Lemoult]]}}
+{{Fs player|other=|no=|nat=FRA|pos=MF|name=[[:fr:Bernard Moraly|Bernard Moraly]]}}
+{{Fs player|other=|no=|nat=FRA|pos=MF|name=[[François Brisson]]}}
+{{Fs player|other=|no=|nat=FRA|pos=MF|name=[[:fr:Lionel Justier|Lionel Justier]]}}
+{{Fs player|no=|nat=ALG|pos=MF|name=[[Mustapha Dahleb]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|other=|no=|nat=FRA|pos=MF|name=[[:fr:Jacques Laposte|Jacques Laposte]]}}
+{{Fs player|no=|nat=FRA|pos=MF|name=[[Jean-Michel Larqué]]|other=[[Player-coach|player-manager]]}}
+{{Fs player|other=|no=|nat=ARG|pos=FW|name=[[Carlos Bianchi]]}}
+{{Fs player|other=|no=|nat=FRA|pos=FW|name=[[Philippe Redon]]}}
+{{Fs player|other=|no=|nat=COG|pos=FW|name=[[François M'Pelé]]}}
+{{Fs player|other=|no=|nat=FRA|pos=FW|name=[[:fr:Mario Mongelli|Mario Mongelli]]}}
+{{Fs player|other=|no=|nat=FRA|pos=FW|name=[[:fr:Hervé Porquet|Hervé Porquet]]}}
+{{Fs end}}
+
+===Out on loan===
+{{fs start}}
+{{Fs player|no=|nat=FRA|pos=FW|name=[[:fr:Guy Nosibor|Guy Nosibor]]|other=to [[Angoulême-Soyaux Charente|Angoulême]]}}
+{{fs mid}}
+{{Fs player|no=|nat=CMR|pos=FW|name=[[Jean-Pierre Tokoto]]|other=to [[FC Girondins de Bordeaux|Bordeaux]]}}
+{{fs end}}
+
+==Transfers==
+
+:''As of the 1977–78 season.''<ref name="saison78"/><ref name="foot78"/><ref>{{cite news
+| title = Paris S-G B
+| url = https://www.footballdatabase.eu/en/club/team/1619-paris_sg/
+| work = Footballdatabase
+| accessdate = 22 April 2020}}</ref><ref>{{cite news
+| title = Jéremi Kimmakon, 100eme Titi du PSG
+| url = http://www.paris-canalhistorique.com/13359/
+| work = Paris.canal-historique
+| date = 17 December 2014
+| accessdate = 18 April 2020}}</ref><ref>{{cite news
+| title = Christopher Nkunku, 50 matches à Paris
+| url = http://www.paris-canalhistorique.com/christopher-nkunku-50-matches-paris/
+| work = Paris.canal-historique
+| date = 7 August 2018
+| accessdate = 18 April 2020}}</ref>
+
+===Arrivals===
+
+{{Fs start}}
+{{Fs player|no=|nat=FRA|pos=GK|name=[[Daniel Bernard (footballer)|Daniel Bernard]]|other=from [[Stade Rennais F.C.|Rennes]]}}
+{{Fs player|no=|nat=FRA|pos=DF|name=[[Jean-Pierre Adams]]|other=from [[OGC Nice|Nice]]}}
+{{Fs player|no=|nat=ARG|pos=DF|name=[[Ramón Heredia]]|other=from [[Atlético Madrid]]}}
+{{Fs player|no=|nat=FRA|pos=DF|name=[[Philippe Jean (footballer)|Philippe Jean]]|other=from [[Paris Saint-Germain Youth Academy|PSG Youth Academy]]}}
+{{Fs player|no=|nat=FRA|pos=DF|name=[[Franck Tanasi]]|other=from [[Paris Saint-Germain Youth Academy|PSG Youth Academy]]}}
+{{fs mid}}
+{{Fs player|no=|nat=FRA|pos=MF|name=[[Jean-Michel Larqué]]|other=from [[AS Saint-Étienne|Saint-Étienne]], [[Player-coach|player-manager]]}}
+{{Fs player|no=|nat=FRA|pos=MF|name=[[Jean-Claude Lemoult]]|other=from [[Paris Saint-Germain Youth Academy|PSG Youth Academy]]}}
+{{Fs player|no=|nat=ARG|pos=FW|name=[[Carlos Bianchi]]|other=from [[Stade de Reims|Reims]]}}
+{{Fs player|no=|nat=FRA|pos=FW|name=[[:fr:Mario Mongelli|Mario Mongelli]]|other=from [[Paris Saint-Germain Youth Academy|PSG Youth Academy]]}}
+{{Fs player|no=|nat=FRA|pos=FW|name=[[:fr:Hervé Porquet|Hervé Porquet]]|other=from [[Paris Saint-Germain Youth Academy|PSG Youth Academy]]}}
+{{Fs end}}
+
+===Departures===
+
+{{Fs start}}
+{{Fs player|no=|nat=FRA|pos=GK|name=[[Ilija Pantelić]]|other=Retired}}
+{{Fs player|no=|nat=FRA|pos=DF|name=[[:fr:Denis Bauda|Denis Bauda]]|other=to [[AS Poissy|Poissy]]}}
+{{Fs player|no=|nat=FRA|pos=DF|name=[[:fr:Gérard Cenzato|Gérard Cenzato]]|other=to [[Paris FC]]}}
+{{Fs player|no=|nat=POR|pos=DF|name=[[Humberto Coelho]]|other=to [[S.L. Benfica|Benfica]]}}
+{{Fs player|no=|nat=FRA|pos=DF|name=[[Jacky Novi]]|other=to [[RC Strasbourg Alsace|Strasbourg]]}}
+{{Fs player|no=|nat=FRA|pos=MF|name=[[:fr:Dominique Barberat|Dominique Barberat]]|other=to [[FC Rouen|Rouen]]}}
+{{fs mid}}
+{{Fs player|no=|nat=FRA|pos=MF|name=[[Francis Piasecki]]|other=to [[RC Strasbourg Alsace|Strasbourg]]}}
+{{Fs player|no=|nat=ALG|pos=FW|name=[[:fr:Mohamed Ali Messaoud|Mohamed Ali Messaoud]]|other=to [[Olympique Alès|Alès]]}}
+{{Fs player|no=|nat=FRA|pos=FW|name=[[:fr:Christian André|Christian André]]|other=to [[AS Béziers Hérault (football)|Béziers]]}}
+{{Fs player|no=|nat=FRA|pos=FW|name=[[:fr:Guy Nosibor|Guy Nosibor]]|other=loaned to [[Angoulême-Soyaux Charente|Angoulême]]}}
+{{Fs player|no=|nat=CMR|pos=FW|name=[[Jean-Pierre Tokoto]]|other=loaned to [[FC Girondins de Bordeaux|Bordeaux]]}}
+{{Fs end}}
+
+==Kits==
+
+French radio [[RTL (French radio)|RTL]] was the shirt sponsor. American sportswear brand [[Pony International|Pony]] was the kit manufacturer.<ref>{{cite news
+| title = L'historique des maillots du PSG : Les années 1970
+| url = https://histoiredupsg.fr/lhistorique-des-maillots-du-psg-les-annees-1970
+| work = Histoire du PSG
+| date = 4 May 2020
+| accessdate = 4 May 2020}}</ref>
+
+<center>
+{|
+|{{Football kit
+| pattern_la       = _whiteborder
+| pattern_b        = _redwhitevertical_PSG
+| pattern_ra       = _whiteborder
+| pattern_sh       = 
+| pattern_so       = _psg70s
+| leftarm          = 000055
+| body             = 000055
+| rightarm         = 000055
+| shorts           = FF0000
+| socks            = 000055
+| title = Home <ref name="saison78"/><br>{{0}}<br>{{0}}}}
+|{{Football kit
+| pattern_la       = _redborder
+| pattern_b        = _redbluevertical_PSG
+| pattern_ra       = _redborder
+| pattern_sh       = 
+| pattern_so       = _psg70s
+| leftarm          = FFFFFF
+| body             = FFFFFF
+| rightarm         = FFFFFF
+| shorts           = FF0000
+| socks            = 000055
+| title = Away <ref name="saison78"/><br>{{0}}<br>{{0}}}}
+|{{Football kit
+| pattern_la       = 
+| pattern_b        = _vneck
+| pattern_ra       = 
+| pattern_sh       = 
+| pattern_so       = _psg70s
+| leftarm          = FFFFFF
+| body             = FFFFFF
+| rightarm         = FFFFFF
+| shorts           = FF0000
+| socks            = 000055
+| title = Third <ref name="saison78"/><br>{{0}}<br>{{0}}}}
+|}
+</center>
+
+==Friendly tournaments==
+
+===Tournoi de Paris===
+
+{{main|Tournoi de Paris}}
+
+{{football box collapsible
+|round      = Semi-finals
+|date       = 16 May 1978
+|time       = 
+|team1      = Paris Saint-Germain {{flagicon|FRA}}
+|score      = 0–2
+|report     = http://www.paris-canalhistorique.com/16051978-psg-pays-bas/
+|team2      = {{flagicon|NED}} [[Netherlands national football team|Netherlands]]
+|goals1     = 
+|goals2     = [[Dick Nanninga|Nanninga]] {{goal|22||78}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]], [[France]]
+|attendance = 18,000
+|referee    = [[Jean Muchembled]] ([[French Football Federation|France]])
+|result     = L
+|note       = [[:fr:Jean-François Douis|Jean-François Douis]], [[Caju (footballer, born 1949)|Caju]], [[:fr:Armando Bianchi|Armando Bianchi]], [[:fr:Abdelmajid Bourebbou|Abdelmajid Bourebbou]] and [[Willy van der Kuijlen]] played for PSG.
+}}
+{{football box collapsible
+|round      = Third place play-off
+|date       = 18 May 1978
+|time       = 
+|team1      = Paris Saint-Germain {{flagicon|FRA}}
+|score      = 3–0
+|report     = http://www.paris-canalhistorique.com/18051978-psg-iran/
+|team2      = {{flagicon|IRN}} [[Iran national football team|Iran]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|21||27||35}}
+|goals2     = 
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]], [[France]]
+|attendance = 15,000
+|referee    = [[Alain Delmer]] ([[French Football Federation|France]])
+|result     = W
+|note       = [[:fr:Jean-François Douis|Jean-François Douis]], [[Caju (footballer, born 1949)|Caju]], [[:fr:Armando Bianchi|Armando Bianchi]], [[:fr:Abdelmajid Bourebbou|Abdelmajid Bourebbou]] and [[Willy van der Kuijlen]] played for PSG.
+}}
+
+==Competitions==
+
+===Overview===
+{{fb overview2
+|c=5
+|c1=[[1977–78 French Division 1|Division 1]] |fm1=3 August 1977 |lm1=4 May 1978 |sr1=Matchday 1 |fp1=11th
+
+|w1=14 |d1=8 |l1=16 |f1=75 |a1=66
+
+|c2=[[1977–78 Coupe de France|Coupe de France]] |fm2=29 January 1978 |lm2=26 February 1978 |sr2=Round of 64 |fp2=Round of 32
+
+|w2=1 |d2=1 |l2=1 |f2=6 |a2=5
+}}
+
+===Division 1===
+{{main|1977–78 French Division 1}}
+
+====League table====
+{{:1977–78 French Division 1|showteam=PSG}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/H/A/H
+|label2= Result
+| res2=L/D/D/L/L/W/W/W/W/L/L/W/L/D/L/W/L/D/D/D/D/W/W/L/W/L/L/W/L/L/W/W/W/D/W/L/L/L
+|label3= Position
+| res3=17/17/17/18/20/17/14/12/9/11/13/9/9/10/10/9/10/12/10/10/10/12/10/11/11/11/12/11/11/12/11/10/10/11/10/11/11/11
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_18-=red1
+|source=[https://histoiredupsg.fr/saison-1977-1978 Histoire du PSG]
+}}
+
+====Matches====
+
+{{football box collapsible
+|round      = 1
+|date       = 3 August 1977
+|time       = 
+|team1      = [[AS Nancy|Nancy]]
+|score      = 4–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25157-nancy-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Michel Platini|Platini]] {{goal|4|pen.}}<br>[[:fr:Éric Renaut|Renaut]] {{goal|48|o.g.}}<br>[[Carlos Curbelo (footballer)|C. Curbelo]] {{goal|59}}<br>[[Laurent Pokou|Pokou]] {{goal|62}}
+|goals2     = [[Carlos Bianchi|C. Bianchi]] {{goal|28}}
+|stadium    = [[Stade Marcel Picot]]
+|location   = [[Tomblaine]]
+|attendance = 24,161
+|referee    = [[Michel Leloup]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 2
+|date       = 9 August 1977
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 2–2
+|report     = https://www.footballdatabase.eu/en/match/summary/25171-paris_sg-reims
+|team2      = [[Stade de Reims|Reims]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|3||17}}
+|goals2     = [[Christian Coste|Coste]] {{goal|19}}<br>[[:fr:Dominique Cuperly|Cuperly]] {{goal|88}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 35,767
+|referee    = [[:fr:Achille Verbecke|Achille Verbecke]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 3
+|date       = 16 August 1977
+|time       = 
+|team1      = [[RC Strasbourg Alsace|Strasbourg]]
+|score      = 1–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25176-strasbourg-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Jacques Vergnes|Vergnes]] {{goal|5}}
+|goals2     = [[Mustapha Dahleb|Dahleb]] {{goal|78}}
+|stadium    = [[Stade de la Meinau]]
+|location   = [[Strasbourg]]
+|attendance = 25,810
+|referee    = [[Marcel Bacou]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 4
+|date       = 19 August 1977
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 1–2
+|report     = http://www.paris-canalhistorique.com/19081977-psg-bordeaux/
+|team2      = [[FC Girondins de Bordeaux|Bordeaux]]
+|goals1     = [[François M'Pelé|M'Pelé]] {{goal|35}}
+|goals2     = [[:fr:Olivier Barthou|Barthou]] {{goal|6||19}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 21,096
+|referee    = [[:fr:Robert Frauciel|Robert Frauciel]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 5
+|date       = 30 August 1977
+|time       = 
+|team1      = [[Olympique de Marseille|Marseille]]
+|score      = [[Le Classique|2–1]]
+|report     = https://www.footballdatabase.eu/en/match/summary/25201-marseille-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Marc Berdoll|Berdoll]] {{goal|35}}<br />[[:fr:Hervé Florès|H. Florès]] {{goal|67}}
+|goals2     = [[Carlos Bianchi|C. Bianchi]] {{goal|89|pen.}}
+|stadium    = [[Stade Vélodrome]]
+|location   = [[Marseille]]
+|attendance = 24,303
+|referee    = [[Alain Delmer]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 6
+|date       = 2 September 1977
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 2–0
+|report     = https://www.footballdatabase.eu/en/match/summary/25212-paris_sg-valenciennes
+|team2      = [[Valenciennes FC|Valenciennes]]
+|goals1     = [[Jan Wraży|Wraży]] {{goal|33|o.g.}}<br>[[:fr:Éric Renaut|Renaut]] {{goal|44}}
+|goals2     = 
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 24,434
+|referee    = [[Jean-Claude Martin]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 7
+|date       = 9 September 1977
+|time       = 
+|team1      = [[FC Rouen|Rouen]]
+|score      = 1–3
+|report     = http://www.paris-canalhistorique.com/09091977-rouen-psg-2/
+|team2      = Paris Saint-Germain
+|goals1     = [[Jean-Marc Pilorget|Pilorget]] {{goal|90|o.g.}}
+|goals2     = [[François M'Pelé|M'Pelé]] {{goal|26}}<br>[[Carlos Bianchi|C. Bianchi]] {{goal|77}}<br>[[Mustapha Dahleb|Dahleb]] {{goal|85}}
+|stadium    = [[Stade Robert Diochon]]
+|location   = [[Le Petit-Quevilly]]
+|attendance = 17,585
+|referee    = [[:fr:René Vigliani|René Vigliani]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 8
+|date       = 17 September 1977
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 2–0
+|report     = http://www.paris-canalhistorique.com/17091977-psg-metz-2/
+|team2      = [[FC Metz|Metz]]
+|goals1     = [[Philippe Redon|Redon]] {{goal|30}}<br>[[Ramón Heredia|Heredia]] {{goal|65}}
+|goals2     = 
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 24,501
+|referee    = [[:fr:Georges Konrath|Georges Konrath]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 9
+|date       = 23 September 1977
+|time       = 
+|team1      = [[Olympique Lyonnais|Lyon]]
+|score      = 2–3
+|report     = https://www.footballdatabase.eu/en/match/summary/25240-lyon-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Bernard Lacombe|B. Lacombe]] {{goal|74|pen.}}<br>[[Jean Gallice|J. Gallice]] {{goal|82}}
+|goals2     = [[Dominique Lokoli|Lokoli]] {{goal|7}}<br>[[Carlos Bianchi|C. Bianchi]] {{goal|19||54}}
+|stadium    = [[Stade de Gerland]]
+|location   = [[Lyon]]
+|attendance = 10,291
+|referee    = [[Alain Delmer]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 10
+|date       = 1 October 1977
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 0–3
+|report     = http://www.paris-canalhistorique.com/01101977-psg-nice-2/
+|team2      = [[OGC Nice|Nice]]
+|goals1     = 
+|goals2     = [[Roger Jouve|R. Jouve]] {{goal|12}}<br>[[Nenad Bjeković|Bjeković]] {{goal|34}}<br>[[Josip Katalinski|Katalinski]] {{goal|65}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 40,264
+|referee    = [[Michel Vautrot]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 11
+|date       = 11 October 1977
+|time       = 
+|team1      = [[FC Nantes|Nantes]]
+|score      = 3–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25258-nantes-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Ángel Bargas|Bargas]] {{goal|40}}<br>[[Loïc Amisse|Amisse]] {{goal|54}}<br />[[Georges Van Straelen|Van Straelen]] {{goal|76}}
+|goals2     = [[Carlos Bianchi|C. Bianchi]] {{goal|30}}
+|stadium    = [[Stade Marcel Saupin]]
+|location   = [[Nantes]]
+|attendance = 15,185
+|referee    = [[Michel Kitabdjian]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 12
+|date       = 14 October 1977
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 8–2
+|report     = https://www.footballdatabase.eu/en/match/summary/25269-paris_sg-troyes_af
+|team2      = [[:fr:Troyes Aube Football|Troyes AF]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|5||41||74||77}}<br>[[Jean-Marc Pilorget|Pilorget]] {{goal|8}}<br>[[François M'Pelé|M'Pelé]] {{goal|23||65}}<br>[[:fr:Éric Renaut|Renaut]] {{goal|49}}
+|goals2     = [[:fr:Robert Jacques (football, 1947)|R. Jacques]] {{goal|35}}<br>[[Cheikh Diallo|C. Diallo]] {{goal|63|pen.}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 9,380
+|referee    = [[Marcel Bacou]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 14
+|date       = 28 October 1977
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 2–2
+|report     = https://www.footballdatabase.eu/en/match/summary/25287-paris_sg-laval
+|team2      = [[Stade Lavallois|Laval]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|42}}<br>[[Philippe Redon|Redon]] {{goal|78}}
+|goals2     = [[:fr:Souleymane Camara (football, 1944)|S. Camara]] {{goal|61}}<br>[[:fr:Ange Di Caro|Di Caro]] {{goal|67}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 22,584
+|referee    = [[Alain Delmer]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 13
+|date       = 4 November 1977
+|time       = 
+|team1      = [[Nîmes Olympique|Nîmes]]
+|score      = 2–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25282-nimes-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Jan Domarski|Domarski]] {{goal|52}}<br />[[:fr:Daniel Sanlaville|Sanlaville]] {{goal|90}}
+|goals2     = [[Mustapha Dahleb|Dahleb]] {{goal|50}}
+|stadium    = [[:fr:Stade Jean-Bouin (Nîmes)|Stade Jean-Bouin]]
+|location   = [[Nîmes]]
+|attendance = 6,478
+|referee    = [[Marc Buils]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 16
+|date       = 9 November 1977
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 4–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25307-paris_sg-saintetienne
+|team2      = [[AS Saint-Étienne|Saint-Étienne]]
+|goals1     = [[Mustapha Dahleb|Dahleb]] {{goal|13||19||66}}<br>[[Carlos Bianchi|C. Bianchi]] {{goal|77}}
+|goals2     = [[André Barthélémy (footballer)|A. Barthélémy]] {{goal|9}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 37,426
+|referee    = [[:fr:Achille Verbecke|Achille Verbecke]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 17
+|date       = 19 November 1977
+|time       = 
+|team1      = [[RC Lens|Lens]]
+|score      = 3–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25320-lens-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Joachim Marx|J. Marx]] {{goal|9||77}}<br>[[:fr:Robert Sab|Sab]] {{goal|62}}
+|goals2     = [[Carlos Bianchi|C. Bianchi]] {{goal|18}}
+|stadium    = [[Stade Bollaert-Delelis]]
+|location   = [[Lens, Pas-de-Calais|Lens]]
+|attendance = 14,640
+|referee    = [[Jean-Claude Martin]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 18
+|date       = 26 November 1977
+|time       = 
+|team1      = [[AS Monaco FC|Monaco]]
+|score      = 0–0
+|report     = https://www.footballdatabase.eu/en/match/summary/25324-monaco-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = 
+|goals2     = 
+|stadium    = [[Stade Louis II (1939)|Stade Louis II]]
+|location   = [[Fontvieille, Monaco|Fontvieille]]
+|attendance = 2,906
+|referee    = [[Michel Vautrot]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 19
+|date       = 30 November 1977
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 3–3
+|report     = https://www.footballdatabase.eu/en/match/summary/25340-paris_sg-bastia
+|team2      = [[SC Bastia|Bastia]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|16||56}}<br />[[François Brisson|F. Brisson]] {{goal|76}}
+|goals2     = [[Johnny Rep|Rep]] {{goal|65||82}}<br />[[Claude Papi|Papi]] {{goal|73|pen.}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 22,872
+|referee    = [[Marc Buils]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 20
+|date       = 3 December 1977
+|time       = 
+|team1      = [[Stade de Reims|Reims]]
+|score      = 0–0
+|report     = https://www.footballdatabase.eu/en/match/summary/25348-reims-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = 
+|goals2     = 
+|stadium    = [[Stade Auguste-Delaune]]
+|location   = [[Reims]]
+|attendance = 5,014
+|referee    = [[:fr:René Vigliani|René Vigliani]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 21
+|date       = 11 December 1977
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 2–2
+|report     = http://www.paris-canalhistorique.com/11121977-psg-strasbourg/
+|team2      = [[RC Strasbourg Alsace|Strasbourg]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|48|pen.|50}}
+|goals2     = [[:fr:Joël Tanter|Tanter]] {{goal|71||76}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 20,173
+|referee    = [[Michel Kitabdjian]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 15
+|date       = 14 December 1977
+|time       = 
+|team1      = [[FC Sochaux-Montbéliard|Sochaux]]
+|score      = 2–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25297-sochaux-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Jean-Pierre Posca|Posca]] {{goal|16}}<br>[[Robert Pintenat|Pintenat]] {{goal|86|pen.}}
+|goals2     = [[Carlos Bianchi|C. Bianchi]] {{goal|8}}
+|stadium    = [[Stade Auguste Bonal]]
+|location   = [[Montbéliard]]
+|attendance = 3,895
+|referee    = [[Robert Wurtz (referee)|Robert Wurtz]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 22
+|date       = 17 December 1977
+|time       = 
+|team1      = [[FC Girondins de Bordeaux|Bordeaux]]
+|score      = 1–2
+|report     = http://www.paris-canalhistorique.com/17121977-bordeaux-psg/
+|team2      = Paris Saint-Germain
+|goals1     = [[Robert Buigues|Buigues]] {{goal|12}}
+|goals2     = [[Mustapha Dahleb|Dahleb]] {{goal|60}}<br>[[:fr:Hervé Porquet|Porquet]] {{goal|85}}
+|stadium    = [[Stade Chaban-Delmas]]
+|location   = [[Bordeaux]]
+|attendance = 7,511
+|referee    = [[:fr:Achille Verbecke|Achille Verbecke]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 23
+|date       = 8 January 1978
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = [[Le Classique|5–1]]
+|report     = https://www.footballdatabase.eu/en/match/summary/25377-paris_sg-marseille
+|team2      = [[Olympique de Marseille|Marseille]]
+|goals1     = [[François Brisson|F. Brisson]] {{goal|29}}<br />[[Mustapha Dahleb|Dahleb]] {{goal|44}}<br />[[Marius Trésor|Trésor]] {{goal|46|o.g.}}<br />[[François M'Pelé|M'Pelé]] {{goal|49|pen.|82}}
+|goals2     = [[Boubacar Sarr|B. Sarr]] {{goal|12|pen.}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 33,386
+|referee    = [[Robert Wurtz (referee)|Robert Wurtz]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 24
+|date       = 14 January 1978
+|time       = 
+|team1      = [[Valenciennes FC|Valenciennes]]
+|score      = 2–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25385-valenciennes-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Bruno Zaremba|B. Zaremba]] {{goal|15||62}}
+|goals2     = [[Carlos Bianchi|C. Bianchi]] {{goal|4}}
+|stadium    = [[Stade Nungesser]]
+|location   = [[Valenciennes]]
+|attendance = 4,642
+|referee    = [[:fr:René Vigliani|René Vigliani]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 25
+|date       = 24 January 1978
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 3–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25402-paris_sg-rouen
+|team2      = [[FC Rouen|Rouen]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|23||35||52}}
+|goals2     = [[:fr:Ignacio Peña|I. Peña]] {{goal|31}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 11,212
+|referee    = [[Jean-Marie Meeus]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 26
+|date       = 4 February 1978
+|time       = 
+|team1      = [[FC Metz|Metz]]
+|score      = 2–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25412-metz-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Patrick Battiston|Battiston]] {{goal|28||63|pen.}}
+|goals2     = [[Mustapha Dahleb|Dahleb]] {{goal|44}}
+|stadium    = [[Stade Saint-Symphorien]]
+|location   = [[Metz]]
+|attendance = 9,080
+|referee    = [[:fr:Achille Verbecke|Achille Verbecke]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 27
+|date       = 12 February 1978
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 2–3
+|report     = https://www.footballdatabase.eu/en/match/summary/25420-paris_sg-lyon
+|team2      = [[Olympique Lyonnais|Lyon]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|56}}<br>[[Philippe Redon|Redon]] {{goal|84}}
+|goals2     = [[Giora Spiegel|Spiegel]] {{goal|70|pen.}}<br>[[Patrick Attar|Attar]] {{goal|73}}<br>[[Serge Chiesa|S. Chiesa]] {{goal|90}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 10,348
+|referee    = [[Michel Leloup]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 28
+|date       = 15 February 1978
+|time       = 
+|team1      = [[OGC Nice|Nice]]
+|score      = 2–3
+|report     = https://www.footballdatabase.eu/en/match/summary/25424-nice-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Nenad Bjeković|Bjeković]] {{goal|43}}<br>[[:fr:Thierry Morin (football)|T. Morin]] {{goal|81|o.g.}}
+|goals2     = [[François Brisson|F. Brisson]] {{goal|20}}<br>[[Jean-Pierre Ascery|Ascery]] {{goal|28|o.g.}}<br>[[Philippe Redon|Redon]] {{goal|80}}
+|stadium    = [[Stade du Ray]]
+|location   = [[Nice]]
+|attendance = 6,462
+|referee    = [[Alain Delmer]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 30
+|date       = 4 March 1978
+|time       = 
+|team1      = [[:fr:Troyes Aube Football|Troyes AF]]
+|score      = 3–1
+|report     = http://www.paris-canalhistorique.com/04031978-troyes-psg/
+|team2      = Paris Saint-Germain
+|goals1     = [[Cheikh Diallo|C. Diallo]] {{goal|28}}<br>[[:fr:Michel Raulin|Raulin]] {{goal|80}}<br>[[:fr:Gérard Verstraete|Verstraete]] {{goal|82}}
+|goals2     = [[:fr:Éric Renaut|Renaut]] {{goal|36}}
+|stadium    = [[Stade de l'Aube]]
+|location   = [[Troyes]]
+|attendance = 5,599
+|referee    = [[Michel Vautrot]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 31
+|date       = 11 March 1978
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 5–0
+|report     = https://www.footballdatabase.eu/en/match/summary/25461-paris_sg-nimes
+|team2      = [[Nîmes Olympique|Nîmes]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|5||17||82}}<br>[[François Brisson|F. Brisson]] {{goal|8}}<br />[[:fr:Hervé Porquet|Porquet]] {{goal|42}}
+|goals2     = 
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 8,965
+|referee    = [[Marcel Bacou]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 32
+|date       = 25 March 1978
+|time       = 
+|team1      = [[Stade Lavallois|Laval]]
+|score      = 1–2
+|report     = https://www.footballdatabase.eu/en/match/summary/25469-laval-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Raymond Keruzoré|Keruzoré]] {{goal|35|pen.}}
+|goals2     = [[Philippe Redon|Redon]] {{goal|15}}<br>[[Carlos Bianchi|C. Bianchi]] {{goal|59}}<br />[[Jean-Pierre Adams|J.P. Adams]] {{sentoff|0|83}}
+|stadium    = [[Stade Francis Le Basser]]
+|location   = [[Laval, Mayenne|Laval]]
+|attendance = 7,971
+|referee    = [[Marc Buils]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 29
+|date       = 28 March 1978
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 0–1
+|report     = https://histoiredupsg.fr/psg-nantes-0-1-280378-division-1-77-78
+|team2      = [[FC Nantes|Nantes]]
+|goals1     = 
+|goals2     = [[Éric Pécout|Pécout]] {{goal|45}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 33,597
+|referee    = [[André Jourdain]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 33
+|date       = 5 April 1978
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 3–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25478-paris_sg-sochaux
+|team2      = [[FC Sochaux-Montbéliard|Sochaux]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|57||61||81}}
+|goals2     = [[Zvonko Ivezić|Ivezić]] {{goal|66}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 8,352
+|referee    = [[:fr:Achille Verbecke|Achille Verbecke]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 34
+|date       = 8 April 1978
+|time       = 
+|team1      = [[AS Saint-Étienne|Saint-Étienne]]
+|score      = 1–1
+|report     = https://www.footballdatabase.eu/en/match/summary/25486-saintetienne-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Patrick Revelli|P. Revelli]] {{goal|24}}
+|goals2     = [[Carlos Bianchi|C. Bianchi]] {{goal|57}}
+|stadium    = [[Stade Geoffroy-Guichard]]
+|location   = [[Saint-Étienne]]
+|attendance = 20,399
+|referee    = [[Michel Leloup]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 35
+|date       = 21 April 1978
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 2–1
+|report     = http://www.paris-canalhistorique.com/21041978-psg-lens/
+|team2      = [[RC Lens|Lens]]
+|goals1     = [[Jean-Pierre Adams|J.P. Adams]] {{goal|54}}<br>[[François M'Pelé|M'Pelé]] {{goal|72}}
+|goals2     = [[Didier Six|Six]] {{goal|77}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 11,241
+|referee    = [[Michel Vautrot]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 36
+|date       = 25 April 1978
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 1–2
+|report     = https://www.footballdatabase.eu/en/match/summary/25504-paris_sg-monaco
+|team2      = [[AS Monaco FC|Monaco]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|31}}
+|goals2     = [[:fr:Alfred Vitalis|Vitalis]] {{goal|2}}<br>[[Raúl Nogués|Nogués]] {{goal|41}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 32,440
+|referee    = [[Guy Mouchotte]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 38
+|date       = 2 May 1978
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 1–2
+|report     = http://www.paris-canalhistorique.com/02051978-psg-nancy/
+|team2      = [[AS Nancy|Nancy]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|87}}
+|goals2     = [[Philippe Jeannol|Jeannol]] {{goal|25}}<br>[[Michel Platini|Platini]] {{goal|70}}
+|stadium    = [[Stade de Paris]]
+|location   = [[Saint-Ouen-sur-Seine]]
+|attendance = 5,289
+|referee    = [[Ange Rancelli]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 37
+|date       = 4 May 1978
+|time       = 
+|team1      = [[SC Bastia|Bastia]]
+|score      = 5–3
+|report     = https://www.footballdatabase.eu/en/match/summary/25522-bastia-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Claude Papi|Papi]] {{goal|36||42}}<br>[[Johnny Rep|Rep]] {{goal|68}}<br>[[Jean-Marie De Zerbi|J.M. De Zerbi]] {{goal|75}}<br>[[François Félix|F. Félix]] {{goal|88}}
+|goals2     = [[Jean-Marc Pilorget|Pilorget]] {{goal|28}}<br>[[Carlos Bianchi|C. Bianchi]] {{goal|61||80}}
+|stadium    = [[Stade Armand Cesari]]
+|location   = [[Furiani]]
+|attendance = 2,934
+|referee    = [[Alain Delmer]]
+|result     = L
+}}
+
+===Coupe de France===
+
+{{main|1977–78 Coupe de France}}
+
+====Round of 64====
+
+{{footballbox collapsible
+|round      = [[1977–78 Coupe de France|Single leg]]
+|date       = 29 January 1978
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 2–0
+|report     = http://www.paris-canalhistorique.com/29011978-psg-toulon/
+|team2      = [[Sporting Club Toulon|Toulon]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|4}}<br>[[François M'Pelé|M'Pelé]] {{goal|44}}
+|goals2     = 
+|stadium    = [[:fr:Stade Cassayet|Stade Cassayet]]
+|location   = [[Narbonne]] (neutral venue)
+|attendance = 4,655
+|referee    = [[:fr:Gabriel Besory|Gabriel Besory]]
+|result     = W
+}}
+
+====Round of 32====
+
+{{footballbox collapsible
+|round      = [[1977–78 Coupe de France|First leg]]
+|date       = 18 February 1978
+|time       = 
+|team1      = [[OGC Nice|Nice]]
+|score      = 2–1
+|report     = https://www.footballdatabase.eu/en/match/summary/1074917-nice-paris_sg
+|team2      = Paris Saint-Germain
+|goals1     = [[Nenad Bjeković|Bjeković]] {{goal|51}}<br>[[Daniel Sanchez (French footballer)|D. Sanchez]] {{goal|56}}
+|goals2     = [[Jean-Pierre Adams|J.P. Adams]] {{goal|85}}
+|stadium    = [[Stade du Ray]]
+|location   = [[Nice]]
+|attendance = 6,288
+|referee    = [[Jean-Claude Martin]]
+|result     = L
+}}
+{{footballbox collapsible
+|round      = [[1977–78 Coupe de France|Second leg]]
+|date       = 26 February 1978
+|time       = 
+|team1      = Paris Saint-Germain
+|score      = 3–3
+|aet        = yes
+|aggregatescore = 4–5
+|report     = https://www.footballdatabase.eu/en/match/summary/1074926-paris_sg-nice
+|team2      = [[OGC Nice|Nice]]
+|goals1     = [[Carlos Bianchi|C. Bianchi]] {{goal|20}}<br>[[François M'Pelé|M'Pelé]] {{goal|63}}<br>[[François Brisson|F. Brisson]] {{goal|115}}
+|goals2     = [[Jean-Pierre Ascery|Ascery]] {{goal|88}}<br>[[Daniel Sanchez (French footballer)|D. Sanchez]] {{goal|98||114}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]]
+|attendance = 33,101
+|referee    = [[:fr:Georges Konrath|Georges Konrath]]
+|result     = D
+}}
+
+==Statistics==
+
+:''As of the 1977–78 season.''<ref name="saison78"/><ref name="foot78"/>
+
+===Appearances and goals===
+
+{{Efs start|Division 1|Coupe de France}}
+|-
+!colspan="16" style="background:#dcdcdc; text-align:center"|Goalkeepers
+{{Efs player|no=|name=[[Daniel Bernard (footballer)|Daniel Bernard]]|pos=GK|nat=FRA|29|0|3|0}}
+{{Efs player|no=|name=[[Michel Bensoussan]]|pos=GK|nat=FRA|9|0|0|0}}
+|-
+!colspan="16" style="background:#dcdcdc; text-align:center"|Defenders
+{{Efs player|no=|name=[[Jean-Marc Pilorget]]|pos=DF|nat=FRA|36|2|3|0}}
+{{Efs player|no=|name=[[:fr:Éric Renaut|Éric Renaut]]|pos=DF|nat=FRA|34|3|2|0}}
+{{Efs player|no=|name=[[Dominique Lokoli]]|pos=DF|nat=FRA|29|1|2|0}}
+{{Efs player|no=|name=[[:fr:Thierry Morin (football)|Thierry Morin]]|pos=DF|nat=FRA|27|0|3|0}}
+{{Efs player|no=|name=[[Jean-Pierre Adams]]|pos=DF|nat=FRA|23|1|2|1}}
+{{Efs player|no=|name=[[Ramón Heredia]]|pos=DF|nat=ARG|21|1|2|0}}
+{{Efs player|no=|name=[[Pierre Bajoc]]|pos=DF|nat=FRA|9|0|0|0}}
+{{Efs player|no=|name=[[Philippe Jean (footballer)|Philippe Jean]]|pos=DF|nat=FRA|9|0|0|0}}
+{{Efs player|no=|name=[[:fr:Gilles Brisson|Gilles Brisson]]|pos=DF|nat=FRA|7|0|1|0}}
+{{Efs player|no=|name=[[Franck Tanasi]]|pos=DF|nat=FRA|1|0|0|0}}
+|-
+!colspan="16" style="background:#dcdcdc; text-align:center"|Midfielders
+{{Efs player|no=|name=[[François Brisson]]|pos=MF|nat=FRA|33|4|3|1}}
+{{Efs player|no=|name=[[Mustapha Dahleb]]|pos=MF|nat=ALG|26|9|1|0}}
+{{Efs player|no=|name=[[:fr:Lionel Justier|Lionel Justier]]|pos=MF|nat=FRA|11|0|2|0}}
+{{Efs player|no=|name=[[:fr:Bernard Moraly|Bernard Moraly]]|pos=MF|nat=FRA|11|0|0|0}}
+{{Efs player|no=|name=[[Jean-Claude Lemoult]]|pos=MF|nat=FRA|9|0|2|0}}
+{{Efs player|no=|name=[[Jean-Michel Larqué]]|pos=MF|nat=FRA|5|0|0|0}}
+|-
+!colspan="16" style="background:#dcdcdc; text-align:center"|Forwards
+{{Efs player|no=|name=[[Carlos Bianchi]]|pos=FW|nat=ARG|38|37|3|2}}
+{{Efs player|no=|name=[[Philippe Redon]]|pos=FW|nat=FRA|38|5|3|0}}
+{{Efs player|no=|name=[[François M'Pelé]]|pos=FW|nat=COG|35|7|3|2}}
+{{Efs player|no=|name=[[:fr:Hervé Porquet|Hervé Porquet]]|pos=FW|nat=FRA|8|2|0|0}}
+|-
+!colspan="16" style="background:#dcdcdc; text-align:center"|Players transferred out during the season
+{{Efs player|no=|name=[[Jean-Pierre Tokoto]]|pos=DF|nat=CMR|1|0|0|0}}
+|-
+{{Fb cs footer|s=[[#Competitions|Competitions]]}}
+
+==References==
+
+{{Reflist|30em}}
+
+==External links==
+
+;Official websites
+*[https://www.psg.fr/ PSG.FR - Site officiel du Paris Saint-Germain]
+*[https://www.ligue1.fr/clubs?id=paris-saint-germain Paris Saint-Germain - Ligue 1]
+*[https://www.uefa.com/teamsandplayers/teams/club=52747/profile/ Paris Saint-Germain - UEFA.com]
+
+{{Paris Saint-Germain F.C.}}
+{{Paris Saint-Germain F.C. seasons}}
+
+{{DEFAULTSORT:1977-78 Paris Saint-Germain F.C. season}}
+[[Category:Paris Saint-Germain F.C. seasons]]
+[[Category:Association football clubs 1977–78 season]]
+[[Category:French football clubs 1977–78 season]]

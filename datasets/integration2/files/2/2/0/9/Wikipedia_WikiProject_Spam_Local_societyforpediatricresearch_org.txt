@@ -1,0 +1,37 @@
+<!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|societyforpediatricresearch.org]]
+== Links ==
+* {{LinkSummary|societyforpediatricresearch.org}}
+:* societyforpediatricresearch.org resolves to [//X X]
+:*: {{LinkSummary|X}}
+:* {{GoogleAnalyticsSummary|111180072}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Cgw094}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=605678806|lang=en|wikidomain=w|namespace=|pagename=Society for Pediatric Research|username=Cgw094|link=www.societyforpediatricresearch.org|sortdomain=org.societyforpediatricresearch.|domain=societyforpediatricresearch.org|origdiff=https://en.wikipedia.org/w/index.php?diff=894580326&oldid=894579736|edit_id=-2|resolved=40.74.229.1|isIP=0|date=2019-04-28|time=18:56:14|wiki=en.wikipedia.org|revid=894580326|oldid=894579736|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=11|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.societyforpediatricresearch.org|domain=societyforpediatricresearch.org|U=11|L=7|UL=6|WUL=1}}}}
+{{User:COIBot/EditSummary|id=612624673|lang=en|wikidomain=w|namespace=|pagename=Society for Pediatric Research|username=Cgw094|link=www.societyforpediatricresearch.org|sortdomain=org.societyforpediatricresearch.|domain=societyforpediatricresearch.org|origdiff=https://en.wikipedia.org/w/index.php?diff=896896553&oldid=894701767|edit_id=-2|resolved=40.74.229.1|isIP=0|date=2019-05-13|time=14:41:02|wiki=en.wikipedia.org|revid=896896553|oldid=894701767|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=11|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.societyforpediatricresearch.org/about/|domain=societyforpediatricresearch.org|U=11|L=7|UL=6|WUL=1}}{{User:COIBot/OtherLinks|link=www.westernspr.org/l/default.asp|domain=westernspr.org|U=11|L=1|UL=1|WUL=1}}{{User:COIBot/OtherLinks|link=www.southernspr.org/l/default.asp|domain=southernspr.org|U=11|L=1|UL=1|WUL=1}}{{User:COIBot/OtherLinks|link=www.midwestspr.org/l/default.asp|domain=midwestspr.org|U=11|L=1|UL=1|WUL=1}}{{User:COIBot/OtherLinks|link=www.easternspr.org|domain=easternspr.org|U=11|L=1|UL=1|WUL=1}}{{User:COIBot/OtherLinks|link=www.societyforpediatricresearch.org/about/|domain=societyforpediatricresearch.org|U=11|L=7|UL=6|WUL=1}}{{User:COIBot/OtherLinks|link=www.societyforpediatricresearch.org/about/|domain=societyforpediatricresearch.org|U=11|L=7|UL=6|WUL=1}}{{User:COIBot/OtherLinks|link=www.societyforpediatricresearch.org|domain=societyforpediatricresearch.org|U=11|L=7|UL=6|WUL=1}}}}
+{{User:COIBot/EditSummary|id=612628981|lang=en|wikidomain=w|namespace=|pagename=Society for Pediatric Research|username=Cgw094|link=www.societyforpediatricresearch.org/contact/|sortdomain=org.societyforpediatricresearch.|domain=societyforpediatricresearch.org|origdiff=https://en.wikipedia.org/w/index.php?diff=896897493&oldid=896896676|edit_id=-2|resolved=X|isIP=0|date=2019-05-13|time=14:48:42|wiki=en.wikipedia.org|revid=896897493|oldid=896896676|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=11|top=1|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.societyforpediatricresearch.org/contact/|domain=societyforpediatricresearch.org|U=11|L=7|UL=6|WUL=1}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 3 additions out of 4 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/societyforpediatricresearch.org]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bsocietyforpediatricresearch\.org\b# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/societyforpediatricresearch.org]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Open}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/societyforpediatricresearch.org|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 14:59, 13 May 2019 (UTC)

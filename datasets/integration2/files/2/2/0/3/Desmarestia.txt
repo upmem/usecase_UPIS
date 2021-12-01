@@ -1,0 +1,74 @@
+{{short description|Genus of brown algae}}
+{{about||the fairy called gruagach|Brownie (folklore)|the other seaweed called landlady's wig|Ahnfeltia plicata|the other genus called mermaid's hair|Cladophora}}
+
+{{Automatic taxobox
+|image = Desmarestia viridis Crouan.jpg
+|image_caption = ''[[Desmarestia viridis]]''
+|image_alt = Desmarestia viridis
+|taxon = Desmarestia
+|authority = [[Jean Vincent Félix Lamouroux|J.V.Lamouroux]], 1813<ref name="Lamouroux">{{cite journal|last1=Lamouroux|first1=Jean Vincent Félix|authorlink1=Jean Vincent Félix Lamouroux|title=Essai sur les genres de la famille des thalassiophytes non articulées|journal=Annales du Muséum d'Histoire Naturelle, Paris|date=1813|volume=20|pages=43–45|url=http://img.algaebase.org/pdf/562E29B40301733B85MQrj41D8EE/17071.pdf|accessdate=11 December 2017|language=French|format=PDF|oclc=2099267}}</ref>
+|type_species = ''[[Desmarestia aculeata]]''
+|type_species_authority = ([[Carl Linnaeus|L.]]) [[Jean Vincent Félix Lamouroux|J.V.Lamouroux]]
+}}
+
+'''''Desmarestia''''' is a genus of [[brown algae]] found worldwide.  It is also called '''acid weed''', '''acidweed''',<ref name="Watson">{{Cite journal|last1=Watson|first1=Jane|title=Spatial and temporal variation in kelp forest composition off the NW coast of Vancouver Island, British Columbia|url=http://cedar.wwu.edu/ssec/2014ssec/Day1/106/|journal=Salish Sea Ecosystem Conference|accessdate=12 December 2017|language=English|date=30 April 2014|quote=In general, annual species such as Acid Weed (''Desmarestia'' spp,) were highly variable in abundance}}</ref><ref name="Warneke">{{cite web|last1=Warneke|first1=Alex|title=These are a few of my favorite species: ''Desmarestia''|url=http://www.deepseanews.com/2014/12/these-are-a-few-of-my-favorite-species-desmarestia/|website=Deep Sea News|publisher=Deep Sea News|accessdate=12 December 2017|language=English|date=5 December 2014|quote=Rightly named “Acid Weed,” the internal pH of ''Desmarestia'' has been estimated as low as 0.6 pH.}}</ref> '''''{{lang|fr|oseille de mer}}''''', '''sea sorrel''',<ref name="Dickinson">{{cite book|last1=Dickinson|first1=Carola I.|title=British Seaweeds|date=1963|publisher=Eyre & Spottiswoode|page=76|url=https://books.google.com/?id=yv8dMQAACAAJ&q=sea+sorrel|accessdate=13 December 2017|language=English|oclc=1437555|location=London|series=Kew series|volume=3}}</ref> '''{{lang|ja|ウルシグサ}}''' ('''{{transl|ja|urushi-gusa}}'''), '''''{{lang|de|stacheltang}}''''', '''mermaid's hair''', '''landlady's wig''', or '''''{{lang|ga|gruagach}}'''''.<ref name="SuriaLink">{{cite web|author1=<!-- not stated -->|title=Desmarestia|url=http://surialink.seaplant.net/HANDBOOK/Genera/browns/Desmarestia/Desmarestia.htm|website=SuriaLink SeaPlants Handbook|accessdate=13 December 2017|language=English}}</ref>  However, 'sea sorrel' can also specifically refer to ''[[Desmarestia viridis]]''.  Members of this genus can be either annual or perennial.<ref name="W1">{{cite web
+|url=http://algaebase.org/search/genus/detail/?genus_id=56&-session=abv4:86996EF31afb128815jWx299BF9E
+|title=''Desmarestia'' J.V.Lamouroux
+|author=M.D. Guiry
+|publisher=AlgaeBase
+|accessdate=November 5, 2013
+}}</ref>  Annual members of this genus store [[sulfuric acid]] in intracellular [[vacuole]]s. When exposed to air they release the acid, thereby destroying themselves and nearby seaweeds in the process. They are found in shallow [[intertidal zone]]s.<ref name="W1"/>
+
+Ingesting sulfuric acid can cause severe digestive problems.<ref name="Turner">{{cite book|last1=Turner|first1=Nancy J.|last2=von Aderkas|first2=Patrick|title=The North American Guide to Common Poisonous Plants and Mushrooms|date=2009|publisher=Timber Press|location=Portland, OR|isbn=9780881929294|page=116|language=English|chapter=3: Poisonous Plants of Wild Areas|oclc=747112294}}</ref> but since sulfuric acid tastes extremely sour, members of the genus are unlikely to be eaten in harmful quantities.<ref name="Turner" />
+
+The genus was named in honor of [[Anselme Gaëtan Desmarest]].<ref name="Lamouroux" />
+[[File:Desmarestia_ligulata_drawing.jpg|thumb|Detailed artistic rendering of Desamarestia Ligulata]]
+[[File:Desmarestia_Kurilensis.jpg|thumb|Detailed artistic rendering of Desmarestia Kurilensis]]
+[[File:Desmarestia_Latifrons.jpg|thumb|Detailed artistic rendering of the seaweed species Desmarestia Latifrons]]
+
+==Species==
+AlgaeBase lists 32 currently accepted species within the genus ''Desmarestia'', not including variations and subspecies.<ref name="W1"/>
+
+* ''[[Desmarestia aculeata]]'' <small>([[Carl Linnaeus|L.]]) [[Jean Vincent Félix Lamouroux|J.V.Lamouroux]]</small> - Type specimen for the genus
+* ''[[Desmarestia anceps]]'' <small>([[Camille Montagne|Montagne]])</small>
+* ''[[Desmarestia antarctica]]'' <small>([[Richard Lee Moe|R.L.Moe]] & [[Paul Silva|P.C.Silva]])</small>
+* ''[[Desmarestia chordalis]]'' <small>([[Joseph Dalton Hooker|J.D.Hooker]] & [[William Henry Harvey|Harvey]])</small>
+* ''[[Desmarestia confervoides]]'' <small>([[Jean Baptiste Bory de Saint-Vincent|Bory de Saint-Vincent]]) [[María Eliana Ramírez|M.E.Ramírez]] & [[Akira F. Peters|A.F.Peters]]</small>
+* ''[[Desmarestia distans]]'' <small>([[Carl Adolph Agardh|C.Agardh]]) [[Jacob Georg Agardh|J.Agardh]]</small>
+* ''[[Desmarestia dudresnayi]]'' <small>[[Jean Vincent Félix Lamouroux|J.V.Lamouroux]] ex [[Dominique Sébastien Léman|Léman]]</small>
+* ''[[Desmarestia farcta]]'' <small>[[William Albert Setchell|Setchell]] & [[Nathaniel Lyon Gardner|Gardner]]</small>
+* ''[[Desmarestia filamentosa]]'' <small>[[E. Yale Dawson|E.Y.Dawson]]</small>
+* ''[[Desmarestia firma]]'' <small>([[Carl Adolph Agardh|C.Agardh]]) [[Carl Skottsberg|Skottsberg]]</small>
+* ''[[Desmarestia foliacea]]'' <small>[[Vinnie A. Pease|V.A.Pease]]</small>
+* ''[[Desmarestia gayana]]'' <small>[[Camille Montagne|Montagne]]</small>
+* ''[[Desmarestia herbacea]]'' <small>([[Dawson Turner|Turner]]) [[Jean Vincent Félix Lamouroux|J.V.Lamouroux]]</small>
+* ''[[Desmarestia inanis]]'' <small>[[Alexander Postels|Postels]] & [[Franz Josef Ruprecht|Ruprecht]]</small>
+* ''[[Desmarestia intermedia]]'' <small>[[Alexander Postels|Postels]] & [[Franz Josef Ruprecht|Ruprecht]]</small>
+* ''[[Desmarestia kurilensis]]'' <small>[[Yukio Yamada|Yamada]]</small>
+* ''[[Desmarestia latifrons]]'' <small>([[Franz Josef Ruprecht|Ruprecht]]) [[Friedrich Traugott Kützing|Kützing]]</small>
+* ''[[Desmarestia latissima]]'' <small>[[William Albert Setchell|Setchell]] & [[Nathaniel Lyon Gardner|Gardner]]</small>
+* ''[[Desmarestia ligulata]]'' <small>([[John Stackhouse (botanist)|Stackhouse]]) [[Jean Vincent Félix Lamouroux|J.V.Lamouroux]]</small>
+* ''[[Desmarestia menziesii]]'' <small>[[Jacob Georg Agardh|J.Agardh]]</small>
+* ''[[Desmarestia muelleri]]'' <small>[[María Eliana Ramírez|M.E.Ramírez]] & [[Akira F. Peters|A.F.Peters]]</small>
+* ''[[Desmarestia munda]]'' <small>[[William Albert Setchell|Setchell]] & [[Nathaniel Lyon Gardner|N.L.Gardner]]</small>
+* ''[[Desmarestia patagonica]]'' <small>[[Aldo Oscar Asensi|Asensi]]</small>
+* ''[[Desmarestia peruviana]]'' <small>[[Camille Montagne|Montagne]]</small>
+* ''[[Desmarestia pinnatinervia]]'' <small>[[Camille Montagne|Montagne]]</small>
+* ''[[Desmarestia pteridoides]]'' <small>[[Paul Friedrich Reinsch|Reinsch]]</small>
+* ''[[Desmarestia rossii]]'' <small>[[Joseph Dalton Hooker|J.D.Hooker]] & [[William Henry Harvey|Harvey]]</small>
+* ''[[Desmarestia sivertsenii]]'' <small>[[Egil Baardseth|Baardseth]]</small>
+* ''[[Desmarestia tabacoides]]'' <small>[[Kintarô Okamura|Okamura]]</small>
+* ''[[Desmarestia tortuosa]]'' <small>[[A.R.O. Chapman]]</small>
+* ''[[Desmarestia tropica]]'' <small>[[William Randolph Taylor|W.R.Taylor]]</small> - tropical acidweed
+* ''[[Desmarestia viridis]]'' <small>([[Otto Friedrich Müller|O.F.Müller]]) [[Jean Vincent Félix Lamouroux|J.V.Lamouroux]]</small> - stringy acid kelp, green acid kelp, Desmarest's green weed, or sea sorrel
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3024482}}
+
+[[Category:Brown algae genera]]
+[[Category:Desmarestiales]]
+
+
+{{Phaeophyceae-stub}}

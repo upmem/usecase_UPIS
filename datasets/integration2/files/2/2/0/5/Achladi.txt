@@ -1,0 +1,15 @@
+'''Achladi''' ({{lang-el|Αχλάδι}}) is a village near the town of [[Stylida]], in [[Phthiotis Prefecture]], [[Central Greece]]. It forms part of the municipal unit of [[Echinaioi]], in the [[municipalities of Greece|municipality]] of Stylida. According to the 2011 census, its population was 384.<ref name=census11>{{cite web|url=http://www.statistics.gr/portal/page/portal/ESYE/BUCKET/General/resident_population_census2011.xls |title=Απογραφή Πληθυσμού - Κατοικιών 2011. ΜΟΝΙΜΟΣ Πληθυσμός |publisher=Hellenic Statistical Authority |language=Greek |url-status=dead |archiveurl=https://web.archive.org/web/20131225194213/http://www.statistics.gr/portal/page/portal/ESYE/BUCKET/General/resident_population_census2011.xls |archivedate=2013-12-25 }}</ref>
+
+A hill north of the village shows traces of medieval fortifications; the castle wall mostly survived until [[World War II]], after which it was mined for building material by the locals. The castle evidently served to control sea traffic in the [[Malian Gulf]] and the [[North Euboean Gulf]], and had visual contact to the castle of [[Lithada]] on the island of [[Euboea]].{{sfn|Koder|Hild|1976|p=117}}
+
+==References==
+{{reflist|2}}
+
+==Sources==
+* {{cite book | last1 = Koder | first1 = Johannes | last2 = Hild | first2 = Friedrich | title = Tabula Imperii Byzantini, Band 1: Hellas und Thessalia | language = German | publisher = Verlag der Österreichischen Akademie der Wissenschaften | location = Vienna | year = 1976 | isbn = 3-7001-0182-1 | ref = harv | url-access = registration | url = https://archive.org/details/tabulaimperiibyz0000unse }}
+
+{{Stylida div}}
+[[Category:Villages in Greece]]
+[[Category:Populated places in Phthiotis]]
+[[Category:Castles in Greece]]
+{{coord|38|53|16|N|22|48|30|E|region:GR-06|display=title}}

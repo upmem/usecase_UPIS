@@ -1,0 +1,143 @@
+{{short description|English cricketer}}
+{{EngvarB|date=August 2013}}
+{{Use dmy dates|date=August 2013}}
+{{Infobox cricketer
+| name = Jake Ball
+| image = Jake Ball bowls for Nottinghamshire.jpg
+| country = England
+| fullname = Jacob Timothy Ball
+| birth_date = {{Birth date and age|1991|3|14|df=yes}}
+| birth_place = [[Mansfield]], [[Nottinghamshire]], England
+| heightft = 6
+| heightinch = 5.5
+| batting = Right-handed
+| bowling = Right-arm [[Fast bowling|fast-medium]]
+| role = [[Bowling (cricket)|Bowler]]
+| family = [[Bruce French (cricketer)|Bruce French]] (uncle)<br> [[Neil French (cricketer)|Neil French]] (uncle)
+
+| international = true
+
+| internationalspan = 2016–2018
+| testdebutdate = 14 July
+| testdebutyear = 2016
+| testdebutagainst = Pakistan
+| testcap = 671
+| lasttestdate = 23 November
+| lasttestyear = 2017
+| lasttestagainst = Australia
+
+| odidebutdate = 7 October
+| odidebutyear = 2016
+| odidebutagainst = Bangladesh
+| odicap = 245
+| lastodidate = 24 June
+| lastodiyear = 2018
+| lastodiagainst = Australia
+
+| T20Idebutdate = 6 July
+| T20Idebutyear = 2018
+| T20Idebutagainst = India
+| T20Icap = 82
+| lastT20Idate = 8 July
+| lastT20Iyear = 2018
+| lastT20Iagainst = India
+
+| club1 = [[Nottinghamshire County Cricket Club|Nottinghamshire]]
+| year1 = {{nowrap|2009–present}}
+| clubnumber1 = 28
+| columns = 4
+| column1 = [[Test cricket|Test]]
+| matches1 = 4
+| runs1 = 67
+| bat avg1 = 8.37
+| 100s/50s1 = 0/0
+| top score1 = 31
+| deliveries1 = 612
+| wickets1 = 3
+| bowl avg1 = 114.33
+| fivefor1 = 0
+| tenfor1 = 0
+| best bowling1 = 1/47
+| catches/stumpings1 = 1/–
+| column2 = [[One Day International|ODI]]
+| matches2 = 18
+| runs2 = 38
+| bat avg2 = 9.50
+| 100s/50s2 = 0/0
+| top score2 = 28
+| deliveries2 = 947
+| wickets2 = 21
+| bowl avg2 = 46.66
+| fivefor2 = 1
+| tenfor2 = 0
+| best bowling2 = 5/51
+| catches/stumpings2 = 5/–
+| column3 = [[First-class cricket|FC]]
+| matches3 = 66
+| runs3 = 1,020
+| bat avg3 = 13.24
+| 100s/50s3 = 0/0
+| top score3 = 49[[Not out|*]]
+| deliveries3 = 10,086
+| wickets3 = 201
+| bowl avg3 = 28.70
+| fivefor3 = 6
+| tenfor3 = 0
+| best bowling3 = 6/49
+| catches/stumpings3 = 13/–
+| column4 = [[List A cricket|LA]]
+| matches4 = 96
+| runs4 = 198
+| bat avg4 = 8.60
+| 100s/50s4 = 0/0
+| top score4 = 28
+| deliveries4 = 4,060
+| wickets4 = 118
+| bowl avg4 = 33.76
+| fivefor4 = 1
+| tenfor4 = 0
+| best bowling4 = 5/51
+| catches/stumpings4 = 19/–
+| date = 3 November
+| year = 2020
+| source = http://www.espncricinfo.com/ci/content/player/414990.html ESPNcricinfo
+}}
+'''Jacob Timothy Ball''' (born 14 March 1991) is an English [[cricket]]er. Ball is a right-handed [[Batsman (cricket)|batsman]] who bowls right-arm [[Fast bowling|fast-medium pace]]. He was born in [[Mansfield]], Nottinghamshire, England and educated at the [[Meden School]] in Market Warsop.<ref name="PRO">{{cite web|url=https://cricketarchive.com/Archive/Players/370/370199/370199.html|title=Player profile: Jake Ball|publisher=CricketArchive|accessdate=9 December 2011}}</ref> On 14 July 2016 he made his [[Test cricket|Test]] debut for England [[Pakistani cricket team in England and Ireland in 2016|against Pakistan]].<ref>{{cite web |url=http://www.espncricinfo.com/ci/engine/match/913641.html |title=Pakistan tour of England and Ireland, 1st Investec Test: England v Pakistan at Lord's, Jul 14-18, 2016 |publisher=ESPNcricinfo |accessdate=14 July 2016 }}</ref> His uncle, [[Bruce French (cricketer)|Bruce French]], also played Test cricket for [[England cricket team|England]] and was chosen to present Ball with his England cap before his Test debut in July 2016.<ref>https://www.bbc.co.uk/sport/live/cricket/36641370</ref>
+
+== Under-19s Career ==
+Ball made his debut for [[England Under-19 cricket team|England Under-19s]] in July 2010, playing two Youth [[Test cricket|Test]] matches against [[Sri Lanka Under-19 cricket team|Sri Lanka Under-19s]] at the [[County Ground, Northampton]] and [[North Marine Road Ground, Scarborough]].<ref>{{cite web|url=https://cricketarchive.com/Archive/Players/370/370199/Youth_Test_Matches.html|title=Youth Test Matches played by Jake Ball|publisher=CricketArchive|accessdate=9 December 2011}}</ref> It was during this series that he made his only Youth [[One Day International]] appearance at [[Fenner's|Fenner's, Cambridge]] and his only Youth [[Twenty20 International]] appearance at the [[Riverside Ground|Riverside Ground, Chester-le-Street]].<ref>{{cite web|url=https://cricketarchive.com/Archive/Players/370/370199/Youth_One-Day_International_Matches.html|title=Youth One-Day International Matches played by Jake Ball|publisher=CricketArchive|accessdate=9 December 2011}}</ref><ref>{{cite web|url=https://cricketarchive.com/Archive/Players/370/370199/Youth_Twenty20_International_Matches.html|title=Youth Twenty20 International Matches played by Jake Ball|publisher=CricketArchive|accessdate=9 December 2011}}</ref>
+
+==County career==
+Ball made his debut for [[Nottinghamshire County Cricket Club|Nottinghamshire]] in a [[List A cricket|List A]] match in the [[2009 Pro40]] against [[Sussex County Cricket Club|Sussex]] in what was his only appearance that season. He was notably West Indian [[Dwayne Smith]]'s hat-trick wicket in this match. He next appeared for Nottinghamshire in the [[2010 English cricket season|2010 season]] in the [[2010 Clydesdale Bank 40]] against [[Leicestershire County Cricket Club|Leicestershire]], again his only appearance in that season.<ref name="LAM">{{cite web|url=https://cricketarchive.com/Archive/Players/370/370199/List_A_Matches.html|title=List A Matches played by Jake Ball|publisher=CricketArchive|accessdate=9 December 2011}}</ref> In the [[2011 English cricket season|2011 season]], he made his [[first-class cricket|first-class]] debut in the season starting [[Champion County match]] against the [[Marylebone Cricket Club]] at the [[Sheikh Zayed Cricket Stadium]] in [[Abu Dhabi]].<ref>{{cite web|url=https://cricketarchive.com/Archive/Players/370/370199/First-Class_Matches.html|title=First-Class Matches played by Jake Ball|publisher=CricketArchive|accessdate=9 December 2011}}</ref> He bowled five wicketless [[over (cricket)|overs]] in the Marylebone Cricket Club's first-innings, while in Nottinghamshire's first-innings he was dismissed for 4 by [[Hamid Hassan]]. In the Marylebone Cricket Club's second-innings, he ended with figures of 3/72 from 16 overs. He ended Nottinghamshire's second-innings [[not out|unbeaten]] on zero, with Nottinghamshire losing the match by 174 runs.<ref>{{cite web|url=https://cricketarchive.com/Archive/Scorecards/315/315961.html|title=Marylebone Cricket Club v Nottinghamshire, 2011|publisher=CricketArchive|accessdate=9 December 2011}}</ref>
+
+Though this was his only first-class appearance that season, he did make five further List A appearances for the county.<ref name="LAM"/> To date, he has taken a total of 6 wickets in these matches, which have come at an [[bowling average|average]] of 42.33, with best figures of 3/32,<ref name="LABOWL">{{cite web|url=https://cricketarchive.com/Archive/Players/370/370199/a_Bowling_by_Team.html|title=List A Bowling For Each Team by Jake Ball|publisher=CricketArchive|accessdate=9 December 2011}}</ref> while with the bat he has scored 41 runs in five innings at a [[batting average (cricket)|batting average]] of 20.50, with a high score of 19 [[not out]].<ref name="LABAT">{{cite web|url=https://cricketarchive.com/Archive/Players/370/370199/a_Batting_by_Team.html|title=List A Batting and Fielding For Each Team by Jake Ball|publisher=CricketArchive|accessdate=9 December 2011}}</ref> He also made a single [[Twenty20]] appearance against [[Lancashire County Cricket Club|Lancashire]] in the [[2011 Friends Provident t20|Friends Provident t20]] at [[Old Trafford Cricket Ground|Old Trafford]].<ref>{{cite web|url=https://cricketarchive.com/Archive/Players/370/370199/Twenty20_Matches.html|title=Twenty20 Matches played by Jake Ball|publisher=CricketArchive|accessdate=9 December 2011}}</ref>
+
+==International career==
+In May 2016, he received his maiden call to play for [[England national cricket team]] against [[Sri Lankan cricket team in England and Ireland in 2016|Sri Lanka]] for the opening match at [[Headingley]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/cricket/36272668 |title=England v Sri Lanka: Uncapped James Vince & Jake Ball called up |work=BBC Sport |date=12 May 2016 |accessdate=12 May 2016 }}</ref> Ball was not selected for the final XI, but did make his Test debut two months later, in the first Test against Pakistan at Lord's. Ball took figures of 1-51 in Pakistan’s first innings, but failed to take a wicket in the second innings. Pakistan went on to win the match by 75 runs.
+
+In his debut ODI, Ball took figures of 5-51 to help England win the first match by 21 runs.<ref name="ODI">{{cite news |title=England tour of Bangladesh, 1st ODI: Bangladesh v England at Dhaka, Oct 7, 2016 |url=http://www.espncricinfo.com/ci/engine/match/1029819.html |work=ESPNcricinfo |publisher=ESPN Sports Media |date=2 October 2016 |accessdate=7 October 2016 }}</ref> In doing so he became the first English player to [[List of cricketers who have taken five-wicket hauls on One Day International debut|take a five wicket haul on their ODI debut]].<ref name="1stODI">{{cite web|url=http://www.espncricinfo.com/bangladesh-v-england-2016-17/content/story/1060709.html |title=Ball heroics snatch improbable England win |work=ESPN Cricinfo |accessdate=7 October 2016}}</ref> In the second ODI, he finished with 2-44, but England lost by 34 runs to leave the series tied at 1-1. In the final match of the series, Ball did not take a wicket a finished with 0-44, but England won the match by 4 wickets to win the series 2-1.
+
+Ball played in the fourth Test match against India, with England already 2-0 down in the series. He took 1-47 in India’s first innings, as England lost the match by an innings and 36 runs. He kept his place for the final Test of the series, and took figures of 0-93 as India scored 759/7 and won the match by an innings and 75 runs, losing the series 4-0.
+
+In the first ODI against India Ball took figures of 3-67 as England lost by three wickets. In the second match he took 0-80 as India posted 381/6 and England lost by 15 runs. In the third ODI he took 2-56 as England won by 5 runs.
+
+In June 2018, he was named in England's [[Twenty20 International]] (T20I) squad for the series [[Indian cricket team in England in 2018|against India]].<ref name="EngT20ISquad">{{Cite news|url=https://www.ecb.co.uk/england/men/news/738367/england-name-squad-for-it20s-against-australia-and-india|title=England name squad for IT20s against Australia and India|accessdate=20 June 2018|language=en}}</ref> He made his T20I debut for England on 6 July 2018.<ref name="T20I">{{cite web|url=http://www.espncricinfo.com/ci/engine/match/1119544.html |title=2nd T20I (D/N), India tour of Ireland and England at Cardiff, Jul 6 2018 |work=ESPN Cricinfo |accessdate=6 July 2018}}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{cricinfo|id=414990}}
+
+{{Nottinghamshire County Cricket Club squad}}
+
+{{DEFAULTSORT:Ball, Jake}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Mansfield]]
+[[Category:English cricketers]]
+[[Category:England Test cricketers]]
+[[Category:England One Day International cricketers]]
+[[Category:England Twenty20 International cricketers]]
+[[Category:Nottinghamshire cricketers]]
+[[Category:Cricketers who have taken five wickets on One Day International debut]]

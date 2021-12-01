@@ -1,0 +1,2484 @@
+{{short description|Wikipedia list article}}
+{{DISPLAYTITLE:List of ''The King of Queens'' episodes}}
+''[[The King of Queens]]'' is an American television [[sitcom]] that originally aired on [[CBS]] from September 21, 1998, to May 14, 2007. The series spanned nine seasons, with a total of 207 episodes produced.
+{{TOC right}}
+
+== Series overview ==
+<onlyinclude>{{Series overview
+| infoA      = Rank
+| infoB      = Viewers<br>(in millions)
+
+| color1     = #29AC29
+| link1      = <includeonly>List of The King of Queens episodes</includeonly>#Season 1 (1998–99)
+| episodes1  = 25
+| start1     = {{Start date|1998|9|21}}
+| end1       = {{End date|1999|5|17}}
+| infoA1     = 35
+| infoB1     = 12.5
+
+| color2     = #F0DC82
+| link2      = <includeonly>List of The King of Queens episodes</includeonly>#Season 2 (1999–2000)
+| episodes2  = 25
+| start2     = {{Start date|1999|9|20}}
+| end2       = {{End date|2000|5|22}}
+| infoA2     = 34
+| infoB2     = 12.7<ref>{{cite web|author=Quotenmeter.de - Das Online-Fernsehmagazin |url=http://www.quotenmeter.de/cms/?p1=n&p2=9946&p3= |title=US-Jahrescharts 1999/2000 |publisher=Quotenmeter.de |date=2002-05-30 |accessdate=2011-09-19}}</ref>
+
+| color3     = #FF6048
+| link3      = <includeonly>List of The King of Queens episodes</includeonly>#Season 3 (2000–01)
+| episodes3  = 25
+| start3     = {{Start date|2000|10|2}}
+| end3       = {{End date|2001|5|28}}
+| infoA3     = 27
+| infoB3     = 13.4<ref>{{cite web|author=Jun 01, 2001 |url=http://www.ew.com/ew/article/0,,256435,00.html |title=The Bitter End |publisher=EW.com |date=2001-06-01 |accessdate=2011-09-19}}</ref>
+
+| color4     = #FFA500
+| link4      = <includeonly>List of The King of Queens episodes</includeonly>#Season 4 (2001–02)
+| episodes4  = 25
+| start4     = {{Start date|2001|9|24}}
+| end4       = {{End date|2002|5|20}}
+| infoA4     = 19
+| infoB4     = 13.9<ref>{{cite news| url=http://www.usatoday.com/life/television/2002/2002-05-28-year-end-chart.htm | work=USA Today | title=How did your favorite show rate? | date=May 28, 2002 | accessdate=May 25, 2010}}</ref>
+
+| color5     = #549CD7
+| link5      = <includeonly>List of The King of Queens episodes</includeonly>#Season 5 (2002–03)
+| episodes5  = 25
+| start5     = {{Start date|2002|9|23}}
+| end5       = {{End date|2003|5|19}}
+| infoA5     = 25
+| infoB5     = 13.0 <ref>{{cite web|url=http://groups.google.com/group/rec.arts.tv/browse_thread/thread/ee82c0640bcaeb06/82c78e0fe7710443?lnk=st&q=nielsen+top+156&rnum=1#82c78e0fe7710443 |title=Nielsen's TOP 156 Shows for 2002-03 - rec.arts.tv &#124; Google Groups |publisher=Groups.google.com |date= |accessdate=2011-09-19}}</ref>
+
+| color6     = #000000
+| link6      = <includeonly>List of The King of Queens episodes</includeonly>#Season 6 (2003–04)
+| episodes6  = 24
+| start6     = {{Start date|2003|10|1}}
+| end6       = {{End date|2004|5|19}}
+| infoA6     = 30
+| infoB6     = 11.1<ref name="0304season">{{cite web|url=http://www.abcmedianet.com/Web/progcal/dispDNR.aspx?id=060204_12|archiveurl=https://web.archive.org/web/20070930171419/http://www.abcmedianet.com/Web/progcal/dispDNR.aspx?id=060204_11|archivedate=September 30, 2007|title=I. T. R. S. Ranking Report: 01 Thru 210|publisher=[[American Broadcasting Company|ABC]] Medianet|accessdate=May 25, 2007}}</ref>
+
+| color7     = #9C9C00
+| link7      = <includeonly>List of The King of Queens episodes</includeonly>#Season 7 (2004–05)
+| episodes7  = 22
+| start7     = {{Start date|2004|10|27}}
+| end7       = {{End date|2005|5|18}}
+| infoA7     = 48
+| infoB7     = 9.8<ref>{{Cite web |url=http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1000937471 |title=Archived copy |access-date=2020-07-27 |archive-date=2007-05-19 |archive-url=https://web.archive.org/web/20070519102605/http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1000937471 |url-status=dead }}</ref>
+
+| color8     = #614051
+| link8      = <includeonly>List of The King of Queens episodes</includeonly>#Season 8 (2005–06)
+| episodes8  = 23
+| start8     = {{Start date|2005|9|19}}
+| end8       = {{End date|2006|5|22}}
+| infoA8     = 49
+| infoB8     = 10.0<ref>{{Cite web |url=http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1002576393 |title=Archived copy |access-date=2020-07-27 |archive-date=2006-12-08 |archive-url=https://web.archive.org/web/20061208201731/http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1002576393 |url-status=dead }}</ref>
+
+| color9     = #979797
+| link9      = <includeonly>List of The King of Queens episodes</includeonly>#Season 9 (2006–07)
+| episodes9  = 13
+| start9     = {{Start date|2006|12|6}}
+| end9       = {{End date|2007|5|14}}
+| infoA9     = 30
+| infoB9     = 11.4<ref>{{cite web|url=http://www.606studios.com/bendisboard/showthread.php?t=114628 |title=Final Nielsen ratings for 2006-07 season |publisher=606studios.com |date=2007-05-25 |accessdate=2011-09-19}}</ref>
+}}</onlyinclude>
+
+==Episodes==
+
+=== Season 1 (1998–99) ===
+{{Episode table
+|background = #29AC29
+|overall    = 5
+|season     = 6
+|title      = 19
+|director   = 15
+|writer     = 37
+|airdate    = 11
+|prodcode   = 7
+|episodes   = 
+{{Episode list
+| EpisodeNumber   = 1
+| EpisodeNumber2  = 1
+| Title           = Pilot
+| DirectedBy      = [[Pamela Fryman]]
+| WrittenBy       = [[Michael J. Weithorn]] & David Litt
+| OriginalAirDate = {{start date|1998|9|21}}
+| ProdCode        = 101
+| ShortSummary    = [[Television pilot|Pilot episode:]] [[Doug Heffernan|Doug]] ([[Kevin James]]) and [[Carrie Heffernan]] ([[Leah Remini]]) were happy. Doug had just gotten the perfect basement with a large TV and [[Table football|foosball]] table.  However, Carrie's father, [[Arthur Spooner]] ([[Jerry Stiller]]), accidentally burns his own house down with his "lucky" [[hot plate]] after his wife died; Carrie's sister, Sara ([[Lisa Rieffel]]), has to move in with Doug and Carrie. As a result, Doug loses his basement to his father-in-law. During this time, Doug finds living in his house frustrating after both Arthur and Sara make him late for work.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 2
+| EpisodeNumber2  = 2
+| Title           = Fat City
+| DirectedBy      = [[Robert Berlinger]]
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|1998|9|28}}
+| ProdCode        = 103
+| ShortSummary    = Stunned by an old photograph of Carrie's mother, Doug convinces Carrie to go on a diet and must pretend he is going on one too.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 3
+| EpisodeNumber2  = 3
+| Title           = Cello, Goodbye
+| DirectedBy      = [[Gail Mancuso]]
+| WrittenBy       = Michael J. Weithorn & David Litt
+| OriginalAirDate = {{start date|1998|10|5}}
+| ProdCode        = 105
+| ShortSummary    = When Carrie keeps skipping softball games with Doug and the guys, Doug wonders what's going on. Doug finds out that Carrie is working late for her boss, and he's starting to wonder why Carrie fell for him. He tries to make it up to Carrie by going to a cello concert with her.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 4
+| EpisodeNumber2  = 4
+| Title           = Richie's Song
+| DirectedBy      = Robert Berlinger
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|1998|10|12}}
+| ProdCode        = 104
+| ShortSummary    = After having dinner with Richie ([[Larry Romano]]) and his wife, Doug finds out that Richie's wife cheats on him, he must confront him with the news. However, Doug has some trouble telling his friend about his wife, afraid that he will hurt him and finally tells him in Atlantic City while gambling. Meanwhile, Arthur depends on Doug for deodorant issues, but Doug is too distracted.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 5
+| EpisodeNumber2  = 5
+| Title           = Paternal Affairs
+| DirectedBy      = [[Brian K. Roberts]]
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|1998|10|19}}
+| ProdCode        = 106
+| ShortSummary    = Doug and Carrie throw a wedding anniversary party for themselves. Doug invites his Aunt Sheila ([[Brenda Vaccaro]]), and finds out that his aunt and uncle are having problems. When Arthur meets Doug's aunt, he falls for her. Carrie eventually lets him date her but ends up regretting it, leaving Arthur with plans to propose to her.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 6
+| EpisodeNumber2  = 6
+| Title           = Head First
+| DirectedBy      = Pamela Fryman
+| WrittenBy       = Michael J. Weithorn & David Litt
+| OriginalAirDate = {{start date|1998|10|26}}
+| ProdCode        = 102
+| ShortSummary    = After a stressful day of working and accompanying Arthur on errands, Doug receives a "very special thank you" in the form of sex from Carrie. Doug realizes that the more time he spends with Arthur, the more sex he gets from Carrie. Doug soon pretends to be very good friends with Arthur, but his plan backfires after Arthur clings to him and harasses his friends.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 7
+| EpisodeNumber2  = 7
+| Title           = The Rock
+| DirectedBy      = Pamela Fryman
+| WrittenBy       = Stacie Lipp
+| OriginalAirDate = {{start date|1998|11|2}}
+| ProdCode        = 107
+| ShortSummary    = Carrie is offered a large sum of money to sell her engagement ring. Doug and Carrie decide to sell it and buy a hot tub and satellite dish. When Doug first tries out the new channels he is determined to see all the channels and grows to dislike the dish. Meanwhile, Doug and Carrie find trouble with their new hot tub when Arthur starts to ruin their time by putting up the heat and using it without any undergarments.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 8
+| EpisodeNumber2  = 8
+| Title           = Educating Doug
+| DirectedBy      = [[Rob Schiller]]
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|1998|11|9}}
+| ProdCode        = 109
+| ShortSummary    = Carrie feels that she and Doug are getting stupid as a couple, so she enrolls them and Spence ([[Patton Oswalt]]) for a class where they read a book and then discuss it, but Doug fails and steals Spence's answers.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 9
+| EpisodeNumber2  = 9
+| Title           = Road Rayge
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan & David Litt
+| OriginalAirDate = {{start date|1998|11|16}}
+| ProdCode        = 108
+| ShortSummary    = Doug allows Ray Barone ([[Ray Romano]] from ''[[Everybody Loves Raymond]]''), a sportswriter to cheat off his test during a driving exam at the DMV and gets his license suspended. Ray attempts to make it up to him by taking him to a [[New York Jets]] game with his brother Robert ([[Brad Garrett]]). On the drive home, Ray convinces Doug to drive his car but it makes Robert jealous and finds out that Doug does not have a license to drive and pulls him over. After Doug finally passes his driving test he gets hit by Ray's dad's ([[Peter Boyle]]) car and Doug gets hurt.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 10
+| EpisodeNumber2  = 10
+| Title           = Supermarket Story
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|1998|11|23}} [http://www.tvtango.com/listings/1998/11/23]
+| ProdCode        = 110
+| ShortSummary    = While looking for a parking space, Carrie steals a parking space from a woman ([[Cristine Rose|Christine Rose]]) who she later needs help from to make a Thanksgiving dinner. Doug finds his friend, Richie in the lines and is having trouble getting out. Doug also meets up with someone he does not know but claims to know him and manages to have conversations with him and finally invites him to dinner when he somehow insults him. Arthur is upset when he finds out Carrie plans to use TV dinners as a Thanksgiving dinner and convinces her to make a good feast from scratch. He also meets a love interest who was giving away free samples. The show ends with Doug, Carrie, and Arthur in line for check-out with Richie somehow behind them.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 11
+| EpisodeNumber2  = 11
+| Title           = Noel Cowards
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel & Michael J. Weithorn
+| OriginalAirDate = {{start date|1998|12|14}}
+| ProdCode        = 113
+| ShortSummary    = At Christmas time, Arthur buys Doug and Carrie a very squatty, mini car, which, of course, Doug and Carrie dislike. Richie advises Doug and Carrie to abandon the car in an area where it will most likely be stolen, but they hesitate because it was a gift from Carrie's father.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 12
+| EpisodeNumber2  = 12
+| Title           = Fixer Upper
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan & David Litt
+| OriginalAirDate = {{start date|1998|12|21}}
+| ProdCode        = 111
+| ShortSummary    = Carrie arranges a date with a work friend and Spence, but after a saucy piece of advice from Doug, Spence scares the girl off.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 13
+| EpisodeNumber2  = 13
+| Title           = Best Man
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|1999|1|11}}
+| ProdCode        = 114
+| ShortSummary    = Doug, Carrie, Deacon ([[Victor Williams]]) and Kelly ([[Merrin Dungey]]) attend a wedding of a man Carrie had sex with once, but Doug did not know until right before the wedding and he does not tell Carrie he knows.
+
+''Guest star'': [[Peter Tork]] (of the [[Monkees]]) as the band leader
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 14
+| EpisodeNumber2  = 14
+| Title           = Dog Days
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Litt
+| OriginalAirDate = {{start date|1999|1|18}}
+| ProdCode        = 115
+| ShortSummary    = The Heffernans' neighbors the Sackskys ([[Bryan Cranston]] and [[Dee Dee Rescher]]) have an annoying barking dog. Doug and Carrie complain about it, but Doug feels sorry for the dog when he finds out that all he needs are walks and secretly adopts it. Arthur thinks "[[Charlie Brown]]" is based on him.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 15
+| EpisodeNumber2  = 15
+| Title           = Crappy Birthday
+| DirectedBy      = [[Mark Cendrowski]]
+| WrittenBy       = {{StoryTeleplay|s= [[Kevin James]] & [[Gary Valentine]] & Rock Reuben|t= David Bickel}}
+| OriginalAirDate = {{start date|1999|2|1}}
+| ProdCode        = 112
+| ShortSummary    = Doug subscribes for an ultimate fight on television, not realizing it falls on the same night as Carrie's birthday. Luckily for Doug, Carrie is depressed about her new age, so Doug makes up a lie about having plans so he can sound like he remembered. Doug invites Deacon and Kelly, but in bad timing when Deacon's mother comes to visit. During the course of the celebration, several things go wrong such as Doug forgetting a card and having dinner outside in the cold.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 16
+| EpisodeNumber2  = 16
+| Title           = S'Ain't Valentine's
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= David Bickel|t= Nancy Cohen & Michael J. Weithorn}}
+| OriginalAirDate = {{start date|1999|2|8}}
+| ProdCode        = 118
+| ShortSummary    = On Valentine's Day, Arthur attends a party at his senior center and meets a woman Mary (Jerry Stiller's real-life wife [[Anne Meara]]) and the two begin a love affair. Carrie is waiting for Doug at restaurant but Doug is stuck at Spence's birthday party, but when Spence arrives, he and his mother ([[Grace Zabriskie]]) get into a fight and Doug, Deacon and Richie are stuck at his home with Spence's mother; while waiting for Doug, Carrie meets a "schmuck" ([[Shaun Weiss]]) at the restaurant and transforms him to be more charming.
+
+''Note'': This is the only episode in which Grace Zabriskie plays Spence's mother. For subsequent episodes of the series, she was replaced by Anne Meara, who also guest stars in this episode.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 17
+| EpisodeNumber2  = 17
+| Title           = Court Date
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|1999|2|15}}
+| ProdCode        = 117
+| ShortSummary    = Carrie is asked out on a date by a police officer ([[Daniel Roebuck]]) who pulled her over the previous day (she was wearing gloves and therefore the police officer could not see her ring). After getting some advice from Richie, Doug gets Carrie to go on a date with him so he will not testify against her.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 18
+| EpisodeNumber2  = 18
+| Title           = White Collar
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= [[Dan E. Fesman]] & Harry Victor|t= Tony Sheehan}}
+| OriginalAirDate = {{start date|1999|2|22}}
+| ProdCode        = 119
+| ShortSummary    = Doug gets promoted after the sudden severe illness of his manager at IPS. Carrie gets excited but Doug hates the job, feeling guilty when Deacon says he wanted the promotion.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 19
+| EpisodeNumber2  = 19
+| Title           = Rayny Day
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|1999|3|1}}
+| ProdCode        = 120
+| ShortSummary    = Doug invites Richie over to talk to him about his recent divorce, but in the last minute Doug bails to play golf with sportswriter Ray Barone. Meanwhile, while Doug and Ray are playing golf, Ray's mother Marie ([[Doris Roberts]]) keeps Carrie company.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 20
+| EpisodeNumber2  = 20
+| Title           = Train Wreck
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= Ira Fritz & Neal Howard and Cathy Yuspa & Josh Goldsmith|t= Cathy Yuspa & Josh Goldsmith}}
+| OriginalAirDate = {{start date|1999|3|15}}
+| ProdCode        = 121
+| ShortSummary    = Doug gets paired together with a new trainee ([[Julie Benz]]), whom he's attracted to and is afraid to tell Carrie. As always, Carrie finds out, but she does not care because she thinks of Doug as "nice". Angered by this, Doug tries to get his trainee to harass him.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 21
+| EpisodeNumber2  = 21
+| Title           = Hungry Man
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|1999|4|5}}
+| ProdCode        = 116
+| ShortSummary    = Carrie's boss invites her and Doug to an elegant party. Doug, who is not able to eat all day, discovers that there is no food served at the party and is desperate enough to eat raw, out of date eggs, mints, and plant food. He ruins the party by retching and almost throwing up during a show. Spence and Arthur plan a business idea, but are worried about what will happen once the patent runs out and knock-offs are produced.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 22
+| EpisodeNumber2  = 22
+| Title           = Time Share
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= Nancy Cohen|t= Cathy Yuspa & Josh Goldsmith & David Bickel}}
+| OriginalAirDate = {{start date|1999|4|26}}
+| ProdCode        = 123
+| ShortSummary    = Tim and Dorothy Sacksky give their beach house to Doug and Carrie because they are getting divorced. Dorothy is too upset to hand over the key. Therefore Carrie gets Richie to hit on her so she will feel better, but he ends up making her a one-night stand and Dorothy is now more upset than before.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 23
+| EpisodeNumber2  = 23
+| Title           = Where's Poppa
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Kevin James & Rock Reuben & Gary Valentine
+| OriginalAirDate = {{start date|1999|5|3}}
+| ProdCode        = 122
+| ShortSummary    = Doug and Carrie get Arthur out of the house so they will have more time together.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 24
+| EpisodeNumber2  = 24
+| Title           = Art House
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Litt
+| OriginalAirDate = {{start date|1999|5|10}}
+| ProdCode        = 125
+| ShortSummary    = After Arthur almost gets Doug fired, Doug blows up on him. Feeling unwanted, Arthur moves out only to come back again.
+| LineColor       = 29AC29
+}}
+{{Episode list
+| EpisodeNumber   = 25
+| EpisodeNumber2  = 25
+| Title           = Maybe Baby
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Michael J. Weithorn
+| OriginalAirDate = {{start date|1999|5|17}}
+| ProdCode        = 124
+| ShortSummary    = After dinner with the Palmers watching Doug play with Kirby, the Palmers announce that Kelly's pregnant with a soon-to-be Major, leaving the Heffernans with dreams of having their own baby.
+| LineColor       = 29AC29
+}}
+}}
+
+=== Season 2 (1999–2000) ===
+{{Episode table
+|background = #F0DC82
+|overall    = 5
+|season     = 6
+|title      = 19
+|director   = 15
+|writer     = 37
+|airdate    = 11
+|prodcode   = 7
+|episodes   = 
+{{Episode list
+| EpisodeNumber   = 26
+| EpisodeNumber2  = 1
+| Title           = Queasy Rider
+| DirectedBy      = [[Rob Schiller]]
+| WrittenBy       = David Litt
+| OriginalAirDate = {{start date|1999|9|20}}
+| ProdCode        = 201
+| ShortSummary    = [[Doug Heffernan|Doug]]'s recent purchase of a motorcycle angers Carrie, but soon after, Doug secretly gets tired of it. [[Arthur Spooner|Arthur]] gets a job at pretzel shop.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 27
+| EpisodeNumber2  = 2
+| Title           = Female Problems
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|1999|9|27}}
+| ProdCode        = 202
+| ShortSummary    = After Carrie's constant togetherness with Doug, Doug finds a friend for Carrie. Soon Doug regrets his actions after Carrie and her new friend are always together leaving Doug jealous and alone.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 28
+| EpisodeNumber2  = 3
+| Title           = Assaulted Nuts
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|1999|10|4}}
+| ProdCode        = 203
+| ShortSummary    = Doug accidentally staples himself with a staple gun in a "private" place while fooling around at work. Rather than go to the hospital, he must struggle through a loan interview for Carrie.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 29
+| EpisodeNumber2  = 4
+| Title           = Parent Trapped
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|1999|10|11}}
+| ProdCode        = 204
+| ShortSummary    = Deacon and Kelly ask Doug and Carrie if they want to be their children's Godparents, overcome with the compliment, Doug instantly says yes, but Carrie is not completely on board.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 30
+| EpisodeNumber2  = 5
+| Title           = Tube Stakes
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|1999|10|18}}
+| ProdCode        = 207
+| ShortSummary    = Carrie leaves the garage door open at night. The following morning, Doug enters the garage to find that his television has been stolen. In an effort to make up, she buys Doug a new TV.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 31
+| EpisodeNumber2  = 6
+| Title           = Doug Out
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|1999|10|25}}
+| ProdCode        = 206
+| ShortSummary    = Arthur accidentally hears Doug call him a "Demented Old Circus Monkey" so Doug tries to make it up to him by taking him to a [[New York Mets]] game.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 32
+| EpisodeNumber2  = 7
+| Title           = Get Away
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|1999|11|1}}
+| ProdCode        = 208
+| ShortSummary    = When Doug and Carrie go on vacation to celebrate their anniversary, they decide to take Deacon and Kelly, which ends up being a big mistake.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 33
+| EpisodeNumber2  = 8
+| Title           = Dire Strayts
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= [[Kevin James]]|t= Rock Reuben & [[Gary Valentine]]}}
+| OriginalAirDate = {{start date|1999|11|8}}
+| ProdCode        = 205
+| ShortSummary    = Doug gets stuck half way in the attic during a visit from Ray and Debra Barone ([[Ray Romano]] and [[Patricia Heaton]]).
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 34
+| EpisodeNumber2  = 9
+| Title           = I, Candy
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|1999|11|15}}
+| ProdCode        = 210
+| ShortSummary    = Doug gets a big head after a waitress flirts with him.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 35
+| EpisodeNumber2  = 10
+| Title           = Roamin' Holiday
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel & Ben Wexler
+| OriginalAirDate = {{start date|1999|11|22}}
+| ProdCode        = 209
+| ShortSummary    = Carrie invites a friend and her husband to stay over for the Thanksgiving weekend, meaning Doug would probably have to entertain her husband. Doug however finds him dull, so after Spence and his mother get into a fight, Doug takes advantage and convinces Spence to ask to stay over at the Heffernans.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 36
+| EpisodeNumber2  = 11
+| Title           = Sparing Carrie
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= Cathy Yuspa & Josh Goldsmith|t= David Bickel}}
+| OriginalAirDate = {{start date|1999|11|29}}
+| ProdCode        = 211
+| ShortSummary    = Doug's bowling team bowls just for fun and is financially supported by the local ale house, but now they threaten to no longer support them if they continue to be on a constant losing streak. Doug soon realizes Carrie is the problem so he removes her from the team making for an awkward household.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 37
+| EpisodeNumber2  = 12
+| Title           = Net Prophets
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Litt
+| OriginalAirDate = {{start date|1999|12|13}}
+| ProdCode        = 212
+| ShortSummary    = During Christmas time, Doug receives his Christmas bonus and Carrie eventually talks Doug into investing it into net stocks.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 38
+| EpisodeNumber2  = 13
+| Title           = Party Favor
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= Rock Reuben|t= Kevin James & Gary Valentine}}
+| OriginalAirDate = {{start date|2000|1|10}}
+| ProdCode        = 215
+| ShortSummary    = Doug's cousin Danny ([[Gary Valentine]]) has no best man for his marriage, so Doug reluctantly fills in and also arranges a bachelor party. Unfortunately Danny does not seem to have many friends who want to come.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 39
+| EpisodeNumber2  = 14
+| Title           = Block Buster
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2000|1|17}}
+| ProdCode        = 213
+| ShortSummary    = It's Doug's high school football reunion and he boasts about his famous block. But everyone besides him remembers his now handicapped ex-team mate ([[Pat Finn (actor)|Pat Finn]]) making the block. Doug tries to find proof on some old tapes.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 40
+| EpisodeNumber2  = 15
+| Title           = Frozen Pop
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ben Wexler
+| OriginalAirDate = {{start date|2000|1|24}}
+| ProdCode        = 214
+| ShortSummary    = Arthur moves upstairs because his cellar gets too cold in winter. Doug does not like it and waits for warmer weather, but Arthur does not seem to want to move back.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 41
+| EpisodeNumber2  = 16
+| Title           = Fair Game
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Mark Sedaka
+| OriginalAirDate = {{start date|2000|2|7}}
+| ProdCode        = 216
+| ShortSummary    = Doug is appalled when he finds out Carrie frequently cheats at board games. She tries to get better but maybe the reason behind her behavior needs to be found first.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 42
+| EpisodeNumber2  = 17
+| Title           = Meet By-Product
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Litt
+| OriginalAirDate = {{start date|2000|2|14}}
+| ProdCode        = 218
+| ShortSummary    = Back in the 1980s, Richie invites Carrie and a friend of hers over to his and Doug's apartment. While Richie hits it off with the friend, Doug and Carrie have a tough time.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 43
+| EpisodeNumber2  = 18
+| Title           = The Shmenkmans
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2000|2|21}}
+| ProdCode        = 217
+| ShortSummary    = Doug and Carrie are happy with their new friends. But then the Shmenkmans meet Deacon and Kelly and it turns out the two couples have a lot in common.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 44
+| EpisodeNumber2  = 19
+| Title           = Surprise Artie
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2000|2|28}}
+| ProdCode        = 220
+| ShortSummary    = Doug takes Arthur out for lunch, so Carrie can arrange a surprise birthday party. Doug runs into some problems with Arthur at the buffet, meanwhile the waiting guests back home are starting to fight.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 45
+| EpisodeNumber2  = 20
+| Title           = Wild Cards
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2000|3|6}}
+| ProdCode        = 219
+| ShortSummary    = After promising to go to the theatre with Carrie, Doug and Deacon take a trip to [[Atlantic City]].
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 46
+| EpisodeNumber2  = 21
+| Title           = Big Dougie
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= Ben Wexler|t= Cathy Yuspa & Josh Goldsmith}}
+| OriginalAirDate = {{start date|2000|4|17}}
+| ProdCode        = 221
+| ShortSummary    = Doug decides to become a "[[Big Brothers Big Sisters of America|big brother]]" and agrees to participate in a 10 kilometer race supporting heart disease.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 47
+| EpisodeNumber2  = 22
+| Title           = Soft Touch
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Litt & Tony Sheehan
+| OriginalAirDate = {{start date|2000|5|1}}
+| ProdCode        = 222
+| ShortSummary    = Doug gets tricked by Tim Sacksky ([[Bryan Cranston]]) into falling for a [[pyramid scheme]], disguised as a way to make large amounts of money selling water filters.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 48
+| EpisodeNumber2  = 23
+| Title           = Restaurant Row
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2000|5|8}}
+| ProdCode        = 223
+| ShortSummary    = Carrie gets angry at a waiter and the manager at a recently found favorite restaurant of Doug's. So Carrie bans him from ever going there again. However Doug defies her and goes back there for lunch.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 49
+| EpisodeNumber2  = 24
+| Title           = Flower Power
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Rock Reuben
+| OriginalAirDate = {{start date|2000|5|15}}
+| ProdCode        = 224
+| ShortSummary    = Carrie is jealous when someone from her work gets flowers and takes it out on Doug.
+| LineColor       = F0DC82
+}}
+{{Episode list
+| EpisodeNumber   = 50
+| EpisodeNumber2  = 25
+| Title           = Whine Country
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2000|5|22}}
+| ProdCode        = 225
+| ShortSummary    = Doug and Carrie both have very specific ideas on how to spend their vacation together. Doug wants to rent an [[Recreational vehicle|RV]], while Carrie prefers a visit to Paris. They flip a coin, and Doug wins. In order to make Doug reconsider his idea, Carrie invites her father on the cross-country trip. She assumes that Doug would not want to spend his vacation in a confined space with the old man. However, to spite her, Doug not only agrees to take Arthur along, but invites Spence as well.
+| LineColor       = F0DC82
+}}
+}}
+
+=== Season 3 (2000–01) ===
+{{Episode table
+|background = #FF6048
+|overall    = 5
+|season     = 6
+|title      = 19
+|director   = 15
+|writer     = 37
+|airdate    = 11
+|prodcode   = 7
+|episodes   = 
+{{Episode list
+| EpisodeNumber   = 51
+| EpisodeNumber2  = 1
+| Title           = Do Rico
+| DirectedBy      = [[Rob Schiller]]
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2000|10|2}}
+| ProdCode        = 301
+| ShortSummary    = Carrie is turned on by [[Doug Heffernan|Doug]]'s imitation of his new Hispanic co-worker, Rico. He later becomes jealous of Rico when he realizes that Carrie seems more responsive to him when he imitates Rico. Meanwhile, [[Arthur Spooner|Arthur]] drags an Indian delivery boy into chronicling his own life story.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 52
+| EpisodeNumber2  = 2
+| Title           = Roast Chicken
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2000|10|9}}
+| ProdCode        = 302
+| ShortSummary    = Carrie has Doug sign a congratulatory card for his boss' twenty years at the company. Her boss is grateful for the congratulatory remark when he opens the card and decides that he wants Doug to participate in the banquet roast, where the latter blames Carrie for this fiasco. Doug rises to the occasion, however, and even manages to get some good laughs out of the audience, until he starts to tell some jokes that hit a little too close to home.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 53
+| EpisodeNumber2  = 3
+| Title           = Fatty McButterpants
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2000|10|16}}
+| ProdCode        = 303
+| ShortSummary    = Doug is offended that Carrie wants him to lose weight, so he vows to lose 30 pounds. After his failed attempt to settle the score by remarking that she wears too much make-up in which her co-workers would actually give her compliments, Doug makes up Carrie's other "quirks".
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 54
+| EpisodeNumber2  = 4
+| Title           = Class Struggle
+| DirectedBy      = [[Jeff Melman]]
+| WrittenBy       = David Litt & Ilana Wernick
+| OriginalAirDate = {{start date|2000|10|23}}
+| ProdCode        = 304
+| ShortSummary    = Carrie decides to return to college with very little time to get things done.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 55
+| EpisodeNumber2  = 5
+| Title           = Strike One
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Litt
+| OriginalAirDate = {{start date|2000|10|30}}
+| ProdCode        = 305
+| ShortSummary    = Doug's car breaks down, so he goes out and buys a new [[Jeep Grand Cherokee (WJ)|Jeep Grand Cherokee]] just as his union goes on strike against IPS.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 56
+| EpisodeNumber2  = 6
+| Title           = Strike Too
+| DirectedBy      = [[Leonard R. Garner Jr.]]
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2000|11|6}}
+| ProdCode        = 306
+| ShortSummary    = Second week of the IPS strike; Doug gets a job as a substitute teacher.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 57
+| EpisodeNumber2  = 7
+| Title           = Strike Out
+| DirectedBy      = Leonard R. Garner, Jr.
+| WrittenBy       = [[Nick Bakay]]
+| OriginalAirDate = {{start date|2000|11|13}}
+| ProdCode        = 307
+| ShortSummary    = The IPS strike is in its third week, and both Doug and Deacon are spending the majority of their days doing very little outside of sleeping all day. Carrie and Kelly decide to make a play date with Doug, Deacon and Arthur, but the plan backfires when they turn into a trio of merry pranksters.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 58
+| EpisodeNumber2  = 8
+| Title           = Dark Meet
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Rock Reuben
+| OriginalAirDate = {{start date|2000|11|20}}
+| ProdCode        = 308
+| ShortSummary    = After a great Thanksgiving, Doug and Carrie try to recall their first Thanksgiving together and who said, "I Love You" first. They consult Arthur, who quickly recalls some other Thanksgivings and finally recalls 1993 when he was having a fight with his new wife, Lily ([[Florence Henderson]]), as Doug was coming over to meet the family.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 59
+| EpisodeNumber2  = 9
+| Title           = Twisted Sitters
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2000|11|27}}
+| ProdCode        = 309
+| ShortSummary    = Doug and Carrie watch Deacon and Kelly's kids while they are out of town. When one of the kids sees them making love in the Palmers' bedroom, they must keep him from telling his parents.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 60
+| EpisodeNumber2  = 10
+| Title           = Work Related
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2000|12|4}}
+| ProdCode        = 310
+| ShortSummary    = Arthur begins to work at Carrie's law firm. Meanwhile, Doug and Deacon compete for the best practical joke.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 61
+| EpisodeNumber2  = 11
+| Title           = Better Camera
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2000|12|11}}
+| ProdCode        = 311
+| ShortSummary    = Doug and Deacon go shopping together for their wives' Christmas presents. They each buy cameras, but Deacon chooses one that is less expensive than the one Doug got because Kelly, Deacon's wife, often loses her cameras. When Carrie correctly guesses what Doug got for her, she convinces him to give her the camera early so that she can take photos at her office's Christmas party. Unfortunately, one of the new partners at Carrie's law firm gives everyone nicer cameras for Christmas. Meanwhile, Arthur sees an opportunity to have his script made into a movie when [[Lou Ferrigno]] moves next door.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 62
+| EpisodeNumber2  = 12
+| Title           = Wedding Presence
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2001|1|8}}
+| ProdCode        = 312
+| ShortSummary    = Instead of driving out of state for their friends' wedding, Carrie and Doug decide to stay home and later tell the couple that they were there, but did not see them. After thinking things through that their friends will notice their absence nonetheless, they decide to go to the wedding anyway. Meanwhile, Arthur gets Spence to participate in his scheme to get discounted shoes.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 63
+| EpisodeNumber2  = 13
+| Title           = Hi-Def Jam
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel & Ilana Wernick
+| OriginalAirDate = {{start date|2001|1|29}}
+| ProdCode        = 313
+| ShortSummary    = In order to watch the upcoming Super Bowl on a high-definition television, Doug hatches a plan to have his sister Stephanie ([[Ricki Lake]]) date Carrie's wealthy boss Doug Pruzan ([[Alex Skuby]]).
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 64
+| EpisodeNumber2  = 14
+| Title           = Paint Misbehavin'
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2001|2|5}}
+| ProdCode        = 314
+| ShortSummary    = After Carrie tells Doug that it's okay for him to find other women attractive, he asks her to tell him which men she finds attractive. Among others, she says she finds Deacon good looking, which causes Doug to become jealous. Doug complains about it to Deacon, who brags about it to his wife, Kelly. Deacon's paintball birthday party turns into a jealous war.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 65
+| EpisodeNumber2  = 15
+| Title           = Deacon Blues
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Litt & Tony Sheehan
+| OriginalAirDate = {{start date|2001|2|12}}
+| ProdCode        = 315
+| ShortSummary    = Doug is surprised to find his married best friend, Deacon, out with another woman. Meanwhile, Carrie questions her relationship with Doug because of their different views on cheating.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 66
+| EpisodeNumber2  = 16
+| Title           = Horizontal Hold
+| DirectedBy      = [[James Widdoes]]
+| WrittenBy       = David Bickel & Ilana Wernick
+| OriginalAirDate = {{start date|2001|2|19}}
+| ProdCode        = 316
+| ShortSummary    = After Deacon and Kelly's separation, Carrie begins to wonder about her own marriage. She convinces Doug to put their sex lives on hold for two weeks because Carrie feels that they should resolve their arguments verbally, not always physically. Meanwhile, Deacon adjusts moving in with Spence after being separated from Kelly and Arthur reluctantly dates a woman who's been hitting on him ever since her cousin died, but has a change of heart when she claims that she once slept with Frank Sinatra.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 67
+| EpisodeNumber2  = 17
+| Title           = Inner Tube
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Kevin James]] & Rock Reuben
+| OriginalAirDate = {{start date|2001|2|26}}
+| ProdCode        = 317
+| ShortSummary    = When Doug lies to Carrie to play mud football, he gets sick and starts feeling guilty. He consequently has dreams about it based on television shows such as ''[[The Honeymooners]]'', ''[[Wheel of Fortune (U.S. game show)|Wheel of Fortune]]'', ''[[The Young and the Restless]]'' and television film ''[[Brian's Song]]''.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 68
+| EpisodeNumber2  = 18
+| Title           = Papa Pill
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Nick Bakay
+| OriginalAirDate = {{start date|2001|3|19}}
+| ProdCode        = 318
+| ShortSummary    = When Doug accuses Carrie of being too hard on Arthur, he volunteers to be the latter's caretaker, only to find the task much more demanding than he had anticipated.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 69
+| EpisodeNumber2  = 19
+| Title           = Package Deal
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Mark Sedaka
+| OriginalAirDate = {{start date|2001|4|9}}
+| ProdCode        = 319
+| ShortSummary    = Doug considers getting a new job at [[FedEx]] after Mitch ([[Craig Anton]]), a FedEx supervisor (who previously worked at IPS), made it sound like a better career choice. Meanwhile, Carrie gets addicted to tanning cream after helping her neighbor, [[Lou Ferrigno]], spread it all over his body.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 70
+| EpisodeNumber2  = 20
+| Title           = Separation Anxiety
+| DirectedBy      = Andrew Susskind
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2001|4|16}}
+| ProdCode        = 320
+| ShortSummary    = During the Palmer's separation, Doug and Carrie go to the movies with Kelly while Deacon takes care of the kids at Spence's house. At the movies, Carrie runs into Bill ([[Joseph C. Phillips]]), a co-worker who seems interested in Kelly. The two end up going on a date just when Deacon is ready to patch things up with her.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 71
+| EpisodeNumber2  = 21
+| Title           = Departure Time
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Nick Bakay
+| OriginalAirDate = {{start date|2001|4|30}}
+| ProdCode        = 325
+| ShortSummary    = Doug, Carrie and Arthur head out to the airport to visit with Doug's parents ([[Jenny O'Hara]] and [[Dakin Matthews]]) while they have a short layover at Kennedy Airport on their way to Montreal. Doug becomes uncomfortable during their reunion when his parents ask him to sign their living will, making him responsible for pulling the plug. When Doug's sister Stephanie gets wind of this, she is offended that she wasn't selected to be responsible for the unenviable task.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 72
+| EpisodeNumber2  = 22
+| Title           = Swim Neighbors
+| DirectedBy      = [[Henry Chan]]
+| WrittenBy       = David Bickel & Ilana Wernick
+| OriginalAirDate = {{start date|2001|5|7}}
+| ProdCode        = 321
+| ShortSummary    = A hurricane destroys the fence separating the backyards of the Heffernans and the Sackskys ([[Bryan Cranston]] and [[Dee Dee Rescher]]). When Carrie rejects their idea of a combined backyard by reinstalling the fence, the Sackskys retaliate by installing an above ground pool.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 73
+| EpisodeNumber2  = 23
+| Title           = S'no Job
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Rock Reuben & Tony Sheehan
+| OriginalAirDate = {{start date|2001|5|14}}
+| ProdCode        = 322
+| ShortSummary    = Doug's Uncle Stu ([[Gavin MacLeod]]) asks him to get his son, Danny, a job at IPS. Doug doesn't want him working there but he also doesn't want to look bad to the family so he instructs his boss Mr. O'Boyle ([[Sam McMurray]]) to interview him but not hire him. Meanwhile, Arthur fills out audience comment cards on a new movie.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 74
+| EpisodeNumber2  = 24
+| Title           = Pregnant Pause (Part 1)
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Michael J. Weithorn]] & David Litt
+| OriginalAirDate = {{start date|2001|5|21}}
+| ProdCode        = 323
+| ShortSummary    = Carrie discovers that she's pregnant and she panics that the timing is wrong. Meanwhile, Deacon and Kelly begin to reconcile, leaving Spence out in the cold, and Arthur insists that Doug build him his own bathroom in the basement.
+| LineColor       = FF6048
+}}
+{{Episode list
+| EpisodeNumber   = 75
+| EpisodeNumber2  = 25
+| Title           = Pregnant Pause (Part 2)
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Michael J. Weithorn & David Litt
+| OriginalAirDate = {{start date|2001|5|28}}
+| ProdCode        = 324
+| ShortSummary    = Doug gets a night job working as limo driver and tells Arthur that because the contractor they were using is now too expensive with Carrie being pregnant, he would finish the downstairs bathroom himself. However, the responsibility of working two jobs and Arthur constantly bothering him to finish his bathroom prove too much for Doug, in which he finally collapses at one of Carrie's appointments. In the end, she loses the baby.
+
+''Note:'' This episode marks the first appearance of [[Nicole Sullivan]], whose character is a baby store employee named Marilyn who tries to help Carrie. Sullivan was added to the cast as a new character the next season, and was elevated to main star in the three seasons after that.
+| LineColor       = FF6048
+}}
+}}
+
+=== Season 4 (2001–02) ===
+{{Episode table
+|background = #FFA500
+|overall    = 5
+|season     = 6
+|title      = 19
+|director   = 15
+|writer     = 37
+|airdate    = 11
+|prodcode   = 7
+|episodes   = 
+{{Episode list
+| EpisodeNumber   = 76
+| EpisodeNumber2  = 1
+| Title           = Walk, Man
+| DirectedBy      = [[Rob Schiller]]
+| WrittenBy       = [[Michael J. Weithorn]]
+| OriginalAirDate = {{start date|2001|9|24}}
+| ProdCode        = 401
+| ShortSummary    = In an effort to spend more time with Carrie, [[Doug Heffernan|Doug]] hires Holly ([[Nicole Sullivan]]) a dog walker to walk [[Arthur Spooner|Arthur]]. The plan backfires when Carrie starts spending more time on her own endeavors rather than with Doug.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 77
+| EpisodeNumber2  = 2
+| Title           = Sight Gag
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2001|10|1}}
+| ProdCode        = 402
+| ShortSummary    = Doug surprises Carrie with laser eye surgery for her birthday. In an effort to save money, he chooses a cheaper doctor that results in a very worried couple when her sight does not return properly.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 78
+| EpisodeNumber2  = 3
+| Title           = Mean Streak
+| DirectedBy      = [[James Widdoes]]
+| WrittenBy       = Michael J. Weithorn
+| OriginalAirDate = {{start date|2001|10|8}}
+| ProdCode        = 403
+| ShortSummary    = Doug is on course to break the record for the number of days without an "incident" - no complaints and no broken packages. The older members of the IPS depot aren't too happy that Doug is going to break the record held by their friend.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 79
+| EpisodeNumber2  = 4
+| Title           = Friender Bender
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2001|10|15}}
+| ProdCode        = 404
+| ShortSummary    = Following Kelly and Carrie to dinner, Doug, with Deacon as his passenger, accidentally hits Kelly's car while sneaking a peek at a strip club.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 80
+| EpisodeNumber2  = 5
+| Title           = No Retreat
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Kevin James]] & Rock Reuben
+| OriginalAirDate = {{start date|2001|10|22}}
+| ProdCode        = 405
+| ShortSummary    = Carrie brings Doug to her company retreat for the weekend. Carrie tries to get Doug to look like a successful person, but he puts on a bad show. Doug tells Carrie that he'll try to work harder to her get a promotion, only to go too far when he tells one of the senior partners that he climbed Mt. Everest.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 81
+| EpisodeNumber2  = 6
+| Title           = Ticker Treat
+| DirectedBy      = James Widdoes
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2001|10|29}}
+| ProdCode        = 406
+| ShortSummary    = Arthur has a heart attack after Doug accidentally scares him on Halloween.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 82
+| EpisodeNumber2  = 7
+| Title           = Lyin' Hearted
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2001|11|5}}
+| ProdCode        = 407
+| ShortSummary    = While Arthur is in the hospital, Carrie starts doubting that she still loves her father. After looking in his room and discovering her [[Florida State University]] acceptance letter, it is revealed that Arthur hid this for his own selfish reasons, further questioning her feelings for him.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 83
+| EpisodeNumber2  = 8
+| Title           = Life Sentence
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Chris Parrish
+| OriginalAirDate = {{start date|2001|11|12}}
+| ProdCode        = 408
+| ShortSummary    = Doug and Carrie decide to install a hidden camera in the basement to monitor Arthur when he comes home from the hospital. One night, whilst in Doug's garage, Danny, Deacon and Spence happen upon the camera, which has been wired into the Heffernan's television network on Channel 300 so that they can watch Arthur from the TV. Soon, Doug's three friends become addicted to what they call "Arthur TV". Elsewhere, Doug and Carrie fall out over who will take care of Arthur if they die.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 84
+| EpisodeNumber2  = 9
+| Title           = Veiled Threat
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2001|11|19}}
+| ProdCode        = 409
+| ShortSummary    = With the episode being set before Doug and Carrie's marriage, Carrie is very nervous in marrying Doug to the point where she can't stop vomiting. When the two meet with their priest, he remembers that Doug and Carrie met at camp as kids (with the former being at football camp), which alleviates the latter's jitters. When Doug shares the story to his family, his cousin Danny reveals that it was actually him that Carrie fell on, not Doug, in which the latter was actually at "fat" camp that year. Doug must now break the news to a now-relieved Carrie. Meanwhile, Arthur couldn't pay for Doug and Carrie's wedding, leading him to convince Doug's parents to pay for it, only to spend way too much money on unnecessary things.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 85
+| EpisodeNumber2  = 10
+| Title           = Oxy Moron
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2001|11|26}}
+| ProdCode        = 410
+| ShortSummary    = Doug takes the oxygen mask all for himself when his and Carrie's plane makes a rough landing, only for it to simply hit the ground. Carrie becomes upset knowing that Doug wouldn't help her if she was in real danger, so he attempts to lessen his guilt by arguing that she would do the exact same thing and by thinking of times when he helped her. His efforts end in vain when she reveals that his mistake significantly changed her outlook of him. Meanwhile, Spence moves in with Danny.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 86
+| EpisodeNumber2  = 11
+| Title           = Depo Man
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Chris Downey]] & Ilana Wernick
+| OriginalAirDate = {{start date|2001|12|10}}
+| ProdCode        = 411
+| ShortSummary    = Carrie's boss requests her to get Doug to be an expert witness in her company's court case, but she feels unsure on how Doug will do. She enlists Deacon instead, only to have second thoughts on not using Doug. Meanwhile, Spence and Danny have a house-warming party after moving in together, where Danny meets Holly. Danny wants to ask Holly out, only for Spence to forbid it.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 87
+| EpisodeNumber2  = 12
+| Title           = Ovary Action
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Richard J. Feinstein
+| OriginalAirDate = {{start date|2001|12|17}}
+| ProdCode        = 412
+| ShortSummary    = Doug and Carrie want to conceive, but receive another negative pregnancy result. When it is revealed that Carrie only has one working ovary, they find that they must get started in conceiving right away, only to be hindered when Doug's parents visit.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 88
+| EpisodeNumber2  = 13
+| Title           = Food Fight
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Chris Downey
+| OriginalAirDate = {{start date|2002|1|7}}
+| ProdCode        = 413
+| ShortSummary    = Carrie grows jealous when Spence's girlfriend recruits Doug to test her culinary work. Meanwhile, Arthur's lack of classical movie knowledge shocks Carrie.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 89
+| EpisodeNumber2  = 14
+| Title           = Double Downer
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Jeff Stein
+| OriginalAirDate = {{start date|2002|1|14}}
+| ProdCode        = 414
+| ShortSummary    = Deacon convinces Doug to come along to [[Atlantic City]] for a weekend. Carrie wants to go salsa dancing with Doug but concedes to the latter's wishes and goes to Atlantic City with him. However, Deacon sends a message that he won't be coming, revealing his falling out with Kelly. Doug and Deacon's boss on the other hand, overhears their conversation and ends up meeting Doug and Carrie at Atlantic City, much to the couple's dismay.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 90
+| EpisodeNumber2  = 15
+| Title           = Dougie Nights
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2002|2|4}}
+| ProdCode        = 415
+| ShortSummary    = Carrie persuades Doug to take Deacon to a nightclub to cheer him up, but it's Doug who really gets into the scene.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 91
+| EpisodeNumber2  = 16
+| Title           = No Orleans
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2002|2|25}}
+| ProdCode        = 416
+| ShortSummary    = Doug and Carrie sneak off to New Orleans without Doug's cousins after reneging on a deal to travel with them. The trip soon turns into a struggle to stop Doug's cousins from finding out their ruse.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 92
+| EpisodeNumber2  = 17
+| Title           = Missing Links
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Michael J. Weithorn
+| OriginalAirDate = {{start date|2002|3|4}}
+| ProdCode        = 417
+| ShortSummary    = Carrie's work has an annual golf trip, but Doug and Carrie used to always take Deacon and Kelly. Now that Deacon and Kelly have separated, Doug and Carrie have to try to find another couple to invite to the golf trip. However, Doug and Deacon later meet Leslie ([[Angelle Brooks]]), freeing up Deacon to bring her and join Doug and Carrie to the trip. Carrie meets Leslie and has a hard time bonding with her despite Doug being able to. Meanwhile, Holly agrees to watch Deacon's kids as he goes to the annual golf trip, but she has to bring a reluctant Arthur along.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 93
+| EpisodeNumber2  = 18
+| Title           = Hero Worship
+| DirectedBy      = James Widdoes
+| WrittenBy       = David Bickel & Chris Downey
+| OriginalAirDate = {{start date|2002|3|18}}
+| ProdCode        = 418
+| ShortSummary    = Doug's uncle Stu ([[Gavin MacLeod]]) is willing to pay for Doug's dream, his own sandwich shop. Carrie doesn't think it is  a good idea but is afraid to tell Doug.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 94
+| EpisodeNumber2  = 19
+| Title           = Screwed Driver
+| DirectedBy      = James Widdoes
+| WrittenBy       = Rock Reuben
+| OriginalAirDate = {{start date|2002|3|25}}
+| ProdCode        = 419
+| ShortSummary    = Carrie goes on a business trip to Chicago when Doug's parents decide to come for a week trip. During his time at work, Doug's boss informs him and his fellow IPS drivers that they're going to have to take a test that could affect their status as drivers. Doug is worried about the test and doesn't know how to attend to his parents, but his mother makes it easier for him by taking care of him and his household. Doug begins to feel young like a teenager again, leading him to take his studies for granted and fail his test.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 95
+| EpisodeNumber2  = 20
+| Title           = Lush Life
+| DirectedBy      = James Widdoes
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2002|4|8}}
+| ProdCode        = 420
+| ShortSummary    = Carrie starts joining a co-worker for after-work cocktails and Doug realizes that she's less abrasive whenever she comes home. When Carrie reveals having a fallout with her, Doug and Arthur conspire in making Carrie less sober to keep her in good spirits, making their neighbor [[Lou Ferrigno]] uncomfortable with the whole ordeal.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 96
+| EpisodeNumber2  = 21
+| Title           = Bun Dummy
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Chris Downey & Tony Sheehan
+| OriginalAirDate = {{start date|2002|4|29}}
+| ProdCode        = 421
+| ShortSummary    = Doug and Spence have a high school reunion where the former is looking forward to it until Carrie starts sporting a new hairstyle, which is a tight bun that he thinks looks like a librarian's hair. Doug is now afraid that she'll also sport that hairstyle to the reunion. Meanwhile, Spence doesn't want to attend the reunion because he had a relationship with one of his teachers that ended really badly.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 97
+| EpisodeNumber2  = 22
+| Title           = Patrons Ain't
+| DirectedBy      = James Widdoes
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2002|5|6}}
+| ProdCode        = 422
+| ShortSummary    = Doug and Carrie donate enough money to Kirby's school library to become one of its patrons. However, a series of misunderstandings with the librarian, Nana Louise ([[Marla Gibbs]]), lead Doug and Carrie to go to great lengths to correct her mistakes.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 98
+| EpisodeNumber2  = 23
+| Title           = Eddie Money
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= Kevin James|t= Rock Reuben & Mike Soccio}}
+| OriginalAirDate = {{start date|2002|5|13}}
+| ProdCode        = 423
+| ShortSummary    = Doug takes a $100 from his and Carrie's savings stash to bet on boxing. When he and Deacon win $5,000, they hide the winnings from their wives by blowing the entire amount in one day, which includes having singer [[Eddie Money]] give them a private concert.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 99
+| EpisodeNumber2  = 24
+| Title           = Two Thirty
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2002|5|20}}
+| ProdCode        = 425
+| ShortSummary    = Doug suspects that his dentist Dr. Farber ([[Tim Matheson]]) is purposely hurting him during his visits because the dentist once had a thing for Carrie. Meanwhile, Arthur volunteers to teach Deacon's son to play the piano, despite the fact that he doesn't know anything about playing it.
+| LineColor       = FFA500
+}}
+{{Episode list
+| EpisodeNumber   = 100
+| EpisodeNumber2  = 25
+| Title           = Shrink Wrap
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Michael J. Weithorn
+| OriginalAirDate = {{start date|2002|5|20}}
+| ProdCode        = 424
+| ShortSummary    = When Carrie and Arthur's constant fighting begins to irritate Doug, Arthur is taken to a therapist ([[William Hurt]]) to discuss why he has to yell and act up all the time. It is revealed that Arthur's problems stem from his childhood, by being horribly treated by his own father ([[Ben Stiller]]). With Arthur cured, Doug and Carrie realize that Arthur wasn’t the only one with issues, leading them to take turns dealing with problems of their own.
+| LineColor       = FFA500
+}}
+}}
+
+=== Season 5 (2002–03) ===
+{{Episode table
+|background = #549CD7
+|overall    = 5
+|season     = 6
+|title      = 19
+|director   = 15
+|writer     = 37
+|airdate    = 11
+|prodcode   = 7
+|episodes   = 
+{{Episode list
+| EpisodeNumber   = 101
+| EpisodeNumber2  = 1
+| Title           = Arthur, Spooner
+| DirectedBy      = [[Rob Schiller]]
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2002|9|23}}
+| ProdCode        = 501
+| ShortSummary    = [[Doug Heffernan|Doug]] gets [[Arthur Spooner|Arthur]] to accompany him in his bed because he cannot sleep without Carrie.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 102
+| EpisodeNumber2  = 2
+| Title           = Window Pain
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2002|9|30}}
+| ProdCode        = 502
+| ShortSummary    = After their neighbors hear Doug & Carrie in a big fight, Carrie tries to convince the neighbors, Mike (Michael Lowry) and Debi ([[Marcia Cross]]) that they are better than that; Arthur gets Spence to let him ride the subway for free.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 103
+| EpisodeNumber2  = 3
+| Title           = Holy Mackerel
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2002|10|7}}
+| ProdCode        = 503
+| ShortSummary    = After Carrie receives a bonus after a prayer in church, Carrie starts praying for many things (mostly petty). Doug is disgusted but soon "sees the light" and joins in on Carrie's "prayer spree". Meanwhile, Arthur hosts an open house on the Heffernan House in an attempt to trade-in to a better home with a better room for him to live in, dragging Holly ([[Nicole Sullivan]]) in the process.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 104
+| EpisodeNumber2  = 4
+| Title           = Kirbed Enthusiasm
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Kevin James]] & Rock Reuben
+| OriginalAirDate = {{start date|2002|10|14}}
+| ProdCode        = 504
+| ShortSummary    = Deacon complains to Doug about how much Kirby hates football, so he gets Doug to play football again to encourage him.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 105
+| EpisodeNumber2  = 5
+| Title           = Mammary Lane
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel & [[Michael J. Weithorn]]
+| OriginalAirDate = {{start date|2002|10|21}}
+| ProdCode        = 505
+| ShortSummary    = Carrie recently accepts a job given out by her boss, babysitting for his child. Even though his child is already about 4 years old, he constantly keeps grabbing her breasts; After seeing Denise ([[Rachel Dratch]]) an unattractive woman working at the bowling alley, Doug throws her a "mercy flirt" but the woman mistakes it for sexual harassment.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 106
+| EpisodeNumber2  = 6
+| Title           = Business Affairs
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2002|10|28}}
+| ProdCode        = 506
+| ShortSummary    = Doug gets jealous because someone calls Carrie's new work friend, Kurt, her "work husband", even though Kurt is gay.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 107
+| EpisodeNumber2  = 7
+| Title           = Flame Resistant
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Rock Reuben
+| OriginalAirDate = {{start date|2002|11|4}}
+| ProdCode        = 507
+| ShortSummary    = After Doug bumps into his ex-girlfriend Margy ([[Lola Glaudini]]), she and Doug's mother ([[Jenny O'Hara]]) spend a lot of time together, making Carrie jealous. Meanwhile, Doug and Margy get into a heated argument where Doug claims that he wrote her a song when they were dating, only to find out for himself that he didn't finish it.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 108
+| EpisodeNumber2  = 8
+| Title           = Flash Photography
+| DirectedBy      = [[Henry Chan]]
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2002|11|11}}
+| ProdCode        = 508
+| ShortSummary    = At a wedding, Doug is bored and Deacon recalls a story of his own wedding where someone took a photo of their behind. Doug gets inspired and takes a disposable camera into the restroom and tries to copy the story only this time it's his "be-front"!
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 109
+| EpisodeNumber2  = 9
+| Title           = Connect Four
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2002|11|18}}
+| ProdCode        = 509
+| ShortSummary    = After Carrie receives some tickets to four [[New York Knicks|Knicks]] games from her boss, she tries to find a couple to go with her and Doug. Carrie finds a couple but Doug does not like her husband and Doug finds a couple but Carrie does not like the wife, leaving Carrie to come up with the idea of a "Franken-couple".
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 110
+| EpisodeNumber2  = 10
+| Title           = Loaner Car
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2002|11|25}}
+| ProdCode        = 510
+| ShortSummary    = Doug enjoys the single life after he lends Carrie out to Deacon during Thanksgiving to help him out.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 111
+| EpisodeNumber2  = 11
+| Title           = Mentalo Case
+| DirectedBy      = [[John Fortenberry]]
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2002|12|16}}
+| ProdCode        = 511
+| ShortSummary    = At Christmas time, Doug remembers a toy he had as a child so he tries to buy one on [[eBay]] but Carrie prevents him because he wanted to pay $180. Doug later goes to a toy convention with Spence to try to track one down. After a sequence of events, Doug thinks Deacon bought him the toy. Carrie thinks Holly bought her a leather jacket, because Arthur gets Holly to disclose Carrie's gift to him.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 112
+| EpisodeNumber2  = 12
+| Title           = Jung Frankenstein
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Michael J. Weithorn
+| OriginalAirDate = {{start date|2003|1|6}}
+| ProdCode        = 512
+| ShortSummary    = After a successful visit to a therapist ([[Dave Foley]]) about Doug's over-eating, Carrie gets the therapist to work on other problems Doug has without Doug knowing.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 113
+| EpisodeNumber2  = 13
+| Title           = Attention Deficit
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Chris Downey]]
+| OriginalAirDate = {{start date|2003|1|20}}
+| ProdCode        = 513
+| ShortSummary    = Carrie gets mad at Doug for not asking about her job evaluation and at that the fact that he never thinks of her because he is too busy planning his [[Super Bowl]] party.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 114
+| EpisodeNumber2  = 14
+| Title           = Prints Charming
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2003|2|3}}
+| ProdCode        = 514
+| ShortSummary    = Doug and Carrie pick up their photos at a drug store on their way home, only to find out that they received photos of another couple known as the Hoffermans upon viewing them. Realising that the Hoffermans are very active people who lead more exciting lives, Carrie forces Doug to engage in more strenuous activities with her like scuba diving. Meanwhile, a delighted Arthur buys himself a cellphone, only to feel disappointed when nobody gets in touch with him through it.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 115
+| EpisodeNumber2  = 15
+| Title           = Animal Attraction
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Rock Reuben
+| OriginalAirDate = {{start date|2003|2|10}}
+| ProdCode        = 515
+| ShortSummary    = On Valentine's Day, Carrie has to cancel dinner with Doug because he and Deacon have to deliver two penguins to Albany. Holly is recently dumped so Carrie takes her out to a nightclub in hopes of cheering her up. Arthur and Spence spend their Valentine's Day at Arthur's senior center.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 116
+| EpisodeNumber2  = 16
+| Title           = Golden Moldy
+| DirectedBy      = [[James Widdoes]]
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2003|2|17}}
+| ProdCode        = 516
+| ShortSummary    = While on vacation, Arthur calls Doug to tell him he discovered that the house is mold-damaged and the repair bill is $7,000.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 117
+| EpisodeNumber2  = 17
+| Title           = S'Poor House
+| DirectedBy      = James Widdoes
+| WrittenBy       = Michael J. Weithorn
+| OriginalAirDate = {{start date|2003|2|24}}
+| ProdCode        = 517
+| ShortSummary    = Doug and Carrie find out they have $12,000 worth in mold damage in their house (more than the original estimate) so Doug asks his dad ([[Dakin Matthews]]) for the money. Before handing over the money, he looks through receipts, and soon discovers that Carrie has spent large amounts on clothes.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 118
+| EpisodeNumber2  = 18
+| Title           = Steve Moscow
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Chris Downey
+| OriginalAirDate = {{start date|2003|3|10}}
+| ProdCode        = 518
+| ShortSummary    = Doug and Carrie hire Steve ([[Charles Rocket]]) and his group of Russian mold employees to repair their damage, but it takes much longer and costs more than they expected.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 119
+| EpisodeNumber2  = 19
+| Title           = Cowardly Lyin'
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2003|3|31}}
+| ProdCode        = 519
+| ShortSummary    = Doug wants to avoid going to an opera planned by Carrie, so he lies and says he was working late. After Carrie finds out about his lie, Doug admits that he lies because he is scared of her.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 120
+| EpisodeNumber2  = 20
+| Title           = Driving Reign
+| DirectedBy      = James Widdoes
+| WrittenBy       = Rock Reuben & Mike Soccio
+| OriginalAirDate = {{start date|2003|4|14}}
+| ProdCode        = 520
+| ShortSummary    = After Danny gets a job working at IPS with Doug, he is able to do Doug's route faster than Doug can. Holly makes the mistake of giving Arthur a mini-trophy that says "World's Best Grandfather", because Arthur would rather be more like a father to her.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 121
+| EpisodeNumber2  = 21
+| Title           = Clothes Encounter
+| DirectedBy      = James Widdoes
+| WrittenBy       = Chris Downey
+| OriginalAirDate = {{start date|2003|4|21}}
+| ProdCode        = 521
+| ShortSummary    = Carrie discovers a "loop hole" in the system, where she has up to 30 days to return items she purchases. Soon, it gets out of hand and she fills up her entire office with a temporary wardrobe.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 122
+| EpisodeNumber2  = 22
+| Title           = Queens'bro Bridge
+| DirectedBy      = James Widdoes
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2003|4|28}}
+| ProdCode        = 522
+| ShortSummary    = Doug finds out that Arthur owns inherited property where there is a house built, but there's just one problem, it's co-owned by his hated half-brother, Skitch ([[Shelley Berman]]). Doug attempts to reunite the brothers in an attempt to have Arthur move out.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 123
+| EpisodeNumber2  = 23
+| Title           = Dog Shelter
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel & Ilana Wernick
+| OriginalAirDate = {{start date|2003|5|5}}
+| ProdCode        = 523
+| ShortSummary    = After a visit at his parents' house, Doug finds out that his dog has died and been replaced 3 times. Plus, Doug is informed by his parents that he was born in Montreal, Quebec.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 124
+| EpisodeNumber2  = 24
+| Title           = Taste Buds
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= Trevor Dellecave|t= Tony Sheehan}}
+| OriginalAirDate = {{start date|2003|5|12}}
+| ProdCode        = 524
+| ShortSummary    = Doug tricks Arthur into asking Carrie for things that Doug actually likes because Carrie is more apt to listening to Arthur.
+| LineColor       = 549CD7
+}}
+{{Episode list
+| EpisodeNumber   = 125
+| EpisodeNumber2  = 25
+| Title           = Bed Spread
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Owen Ellickson
+| OriginalAirDate = {{start date|2003|5|19}}
+| ProdCode        = 525
+| ShortSummary    = When their bed breaks, Doug and Carrie order a new one but it won't arrive for several days. In the meantime they get two single beds and realize they sleep better that way. They eventually discover that being apart works, they see separate movies, eat at separate restaurants and even joke about taking separate vacations. But in the end they find they want to be together.
+Meanwhile, Arthur discovers that the basement has a window that faces the sidewalk and becomes embroiled in [[Lou Ferrigno]]'s gossip about the neighborhood.
+| LineColor       = 549CD7
+}}
+}}
+
+=== Season 6 (2003–04) ===
+{{Episode table
+|background = #000000
+|overall    = 5
+|season     = 6
+|title      = 19
+|director   = 15
+|writer     = 37
+|airdate    = 11
+|prodcode   = 7
+|episodes   = 
+{{Episode list
+| EpisodeNumber   = 126<hr />127
+| EpisodeNumber2  = 1<hr />2
+| Title           = Doug Less
+| DirectedBy      = [[Rob Schiller]]
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2003|10|1}}
+| ProdCode        = 601<hr />602
+| ShortSummary    = [[Doug Heffernan|Doug]] takes Carrie on a trip to a lakeside hotel in celebration of his recent weight loss, only later to find it wasn't Carrie that he took previously. Doug and Carrie end up lost in the woodland and go their separate ways, only to reunite at the end.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 128
+| EpisodeNumber2  = 3
+| Title           = King Pong
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2003|10|8}}
+| ProdCode        = 603
+| ShortSummary    = Doug becomes crazed with winning when [[Arthur Spooner|Arthur]] buys a ping pong table.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 129
+| EpisodeNumber2  = 4
+| Title           = Dreading Vows
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2003|10|15}}
+| ProdCode        = 604
+| ShortSummary    = Doug and Carrie go through hell to prepare their vow-renewal ceremony.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 130
+| EpisodeNumber2  = 5
+| Title           = Nocturnal Omission
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Michael J. Weithorn]]
+| OriginalAirDate = {{start date|2003|10|22}}
+| ProdCode        = 605
+| ShortSummary    = Doug finds out Deacon is moving on with a new girl at the same time Kelly is ready to reconcile.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 131
+| EpisodeNumber2  = 6
+| Title           = Affidavit Justice
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Kevin James]] & Rock Reuben
+| OriginalAirDate = {{start date|2003|10|29}}
+| ProdCode        = 606
+| ShortSummary    = Doug pretends to work at Carrie's law firm to play on the company's softball team.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 132
+| EpisodeNumber2  = 7
+| Title           = Secret Garden
+| DirectedBy      = [[Ken Whittingham]]
+| WrittenBy       = [[Chris Downey]]
+| OriginalAirDate = {{start date|2003|11|12}}
+| ProdCode        = 607
+| ShortSummary    = Danny becomes the landscaper for Carrie's new gynaecologist Dr. Crawford ([[Judge Reinhold]]), which turns out to be trouble when his bill is larger than his estimate.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 133
+| EpisodeNumber2  = 8
+| Title           = Eggsit Strategy
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2003|11|19}}
+| ProdCode        = 608
+| ShortSummary    = Carrie fears she may lose her job after hearing that the company is intent on firing the "dead wood"; her boss, Mr. Pruzan. Eventually, she also looses her job.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 134
+| EpisodeNumber2  = 9
+| Title           = Thanks, Man
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Michael J. Weithorn
+| OriginalAirDate = {{start date|2003|11|26}}
+| ProdCode        = 609
+| ShortSummary    = A stranger wearing an eye patch ([[Nick Offerman]]) waiting outside makes for a tense Thanksgiving dinner with friends at the Heffernan House.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 135
+| EpisodeNumber2  = 10
+| Title           = American Idle
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2003|12|3}}
+| ProdCode        = 610
+| ShortSummary    = After applying for many jobs and constantly being rejected, Carrie decides to stop searching and intends to complete other things in her life. Shortly after however, she becomes lazy, depressed and spends all her time at home.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 136
+| EpisodeNumber2  = 11
+| Title           = Santa Claustrophobia
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Owen Ellickson
+| OriginalAirDate = {{start date|2003|12|17}}
+| ProdCode        = 611
+| ShortSummary    = Carrie gets a temp job at IPS and Doug feels she's around him all the time. Meanwhile, Arthur wants a family Christmas photo and will have anybody in it with him.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 137
+| EpisodeNumber2  = 12
+| Title           = Dougie Houser
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2004|1|7}}
+| ProdCode        = 612
+| ShortSummary    = Doug and Carrie look back on how they got their house.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 138
+| EpisodeNumber2  = 13
+| Title           = Frigid Heirs
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Jenna Bruce
+| OriginalAirDate = {{start date|2004|1|14}}
+| ProdCode        = 613
+| ShortSummary    = Doug and Carrie scam Arthur out of his Bingo winnings.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 139
+| EpisodeNumber2  = 14
+| Title           = Switch Sitters
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2004|2|11}}
+| ProdCode        = 614
+| ShortSummary    = Doug and Carrie get Deacon and Kelly to babysit Arthur in exchange for their babysitting Kirby and Major.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 140
+| EpisodeNumber2  = 15
+| Title           = Cheap Saks
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Cathy Yuspa & Josh Goldsmith
+| OriginalAirDate = {{start date|2004|2|11}}
+| ProdCode        = 615
+| ShortSummary    = Carrie befriends Doug's ex-girlfriend Trish ([[Janeane Garofalo]]), with whom he treated poorly. Carrie immediately gets tired of Trish, so she uses her to get discounts at [[Saks Incorporated|Saks]] the same way Doug used Trish in order to sleep with her. Meanwhile, Spence agrees to go out with a guy to boost his self-esteem following his break-up with his girlfriend, only to feel "more undesirable" when the guy doesn't make a move on him.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 141
+| EpisodeNumber2  = 16
+| Title           = Damned Yanky
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Chris Downey
+| OriginalAirDate = {{start date|2004|2|18}}
+| ProdCode        = 616
+| ShortSummary    = Carrie learns that Doug has fantasies about other women and a makes a specific list of the women that she approves of for him to dream about.
+
+''Note:'' This episode guest stars both Steffiana de la Cruz and Angelo Pagán, [[Kevin James]]' future wife and [[Leah Remini]]'s husband respectively, both of whom played their respective spouses' fantasy love interests.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 142
+| EpisodeNumber2  = 17
+| Title           = Multiple Plots
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Rock Reuben
+| OriginalAirDate = {{start date|2004|2|25}}
+| ProdCode        = 617
+| ShortSummary    = '''In a trio plot:''' Arthur tries to sell his extra funeral plot. Carrie takes up dog walking to earn some extra money. Doug makes an interesting new friend on his new route.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 143
+| EpisodeNumber2  = 18
+| Title           = Trash Talker
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2004|3|3}}
+| ProdCode        = 618
+| ShortSummary    = Doug's old grade school bully ([[Jon Favreau]]) becomes friends with Deacon. Doug cannot seem to let go of the past and continues his hatred for him, because he accused Doug of licking a trash can. Carrie backs her husband up until she realizes the man is a district attorney who might have a position for Carrie at his office.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 144
+| EpisodeNumber2  = 19
+| Title           = Precedent Nixin'
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2004|3|17}}
+| ProdCode        = 619
+| ShortSummary    = Doug and Carrie convince Deacon and Kelly to go with them to Doug's parents' home in Florida for vacation.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 145
+| EpisodeNumber2  = 20
+| Title           = Foe: Pa
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Michael J. Weithorn
+| OriginalAirDate = {{start date|2004|3|24}}
+| ProdCode        = 620
+| ShortSummary    = When Arthur nearly costs Carrie a new job, he vows to set things right.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 146
+| EpisodeNumber2  = 21
+| Title           = Tank Heaven
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Rock Reuben
+| OriginalAirDate = {{start date|2004|4|7}}
+| ProdCode        = 621
+| ShortSummary    = Doug deliberately scares away all of Carrie's friends from work. Spence learns that women have a soft spot for guys who take care of the elderly and starts spending time with Arthur.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 147
+| EpisodeNumber2  = 22
+| Title           = Alter Ego
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2004|5|5}}
+| ProdCode        = 622
+| ShortSummary    = Doug, Spence, Deacon and Danny drive to Memphis so Spence can stop Denise's ([[Rachel Dratch]]) wedding. Arthur fills in for a senior-center employee.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 148
+| EpisodeNumber2  = 23
+| Title           = Icky Shuffle
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Chris Downey
+| OriginalAirDate = {{start date|2004|5|12}}
+| ProdCode        = 623
+| ShortSummary    = Doug helps Arthur compete in the seniors shuffleboard competition against a rival ([[William Daniels]]). Holly cooks for Carrie while she is sick and Carrie milks it for all it is worth.
+| LineColor       = 000000
+}}
+{{Episode list
+| EpisodeNumber   = 149
+| EpisodeNumber2  = 24
+| Title           = Awful Bigamy
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2004|5|19}}
+| ProdCode        = 624
+| ShortSummary    = Holly moves in with Doug and Carrie when she is evicted. Doug takes advantage of her by making her his "downstairs wife" for food and Carrie being his "upstairs wife" for sex.
+| LineColor       = 000000
+}}
+}}
+
+=== Season 7 (2004–05) ===
+{{Episode table
+|background = #9C9C00
+|overall    = 5
+|season     = 6
+|title      = 19
+|director   = 15
+|writer     = 37
+|airdate    = 11
+|prodcode   = 7
+|episodes   = 
+{{Episode list
+| EpisodeNumber   = 150
+| EpisodeNumber2  = 1
+| Title           = Lost Vegas
+| DirectedBy      = [[Rob Schiller]]
+| WrittenBy       = Tom Hertz
+| OriginalAirDate = {{start date|2004|10|27}}
+| ProdCode        = 703
+| ShortSummary    = [[Doug Heffernan|Doug]] takes Carrie to a spa in hopes that he will earn enough "wife credit" for Carrie to allow him to go to Las Vegas with his friends.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 151
+| EpisodeNumber2  = 2
+| Title           = Dugan Groupie
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2004|11|3}}
+| ProdCode        = 701
+| ShortSummary    = Doug feels lonely when Carrie enjoys her job after a recent promotion.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 152
+| EpisodeNumber2  = 3
+| Title           = Furious Gorge
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2004|11|10}}
+| ProdCode        = 702
+| ShortSummary    = Doug learns his over-eating is caused by Carrie's anger.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 153
+| EpisodeNumber2  = 4
+| Title           = Entertainment Weakly
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Mike Soccio
+| OriginalAirDate = {{start date|2004|11|24}}
+| ProdCode        = 704
+| ShortSummary    = Doug gets outrageously jealous when a new driver is the center of attention doing comedy bits of celebrity impressions, so he sends him to the wrong route. However, the driver gets brutally injured by a gang and Doug feels bad.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 154
+| EpisodeNumber2  = 5
+| Title           = Name Dropper
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Rock Reuben
+| OriginalAirDate = {{start date|2004|12|1}}
+| ProdCode        = 705
+| ShortSummary    = Doug forgets the name of one of Carrie's work friends so he fakes a heart attack to get out of the situation.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 155
+| EpisodeNumber2  = 6
+| Title           = Offtrack... Bedding
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Nick Bakay]]
+| OriginalAirDate = {{start date|2004|12|8}}
+| ProdCode        = 706
+| ShortSummary    = Doug becomes worried when his neglected mother starts spending time with [[Arthur Spooner|Arthur]] while his dad attends a model-train convention.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 156
+| EpisodeNumber2  = 7
+| Title           = Silent Mite
+| DirectedBy      = Andy Cadiff
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2004|12|15}}
+| ProdCode        = 707
+| ShortSummary    = Doug gets jealous when Carrie is hit on by a little person in the store. Later, Doug figures out the little person had stolen his wallet, but Carrie does not believe him because she thinks he just has it in for him because he was hitting on her.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 157
+| EpisodeNumber2  = 8
+| Title           = Awed Couple
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2005|1|5}}
+| ProdCode        = 708
+| ShortSummary    = Doug and Carrie go to great lengths to find a new couple to hang out with after Deacon and Kelly start spending time with another family.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 158
+| EpisodeNumber2  = 9
+| Title           = Cologne Ranger
+| DirectedBy      = [[Andrew D. Weyman]]
+| WrittenBy       = Rock Reuben
+| OriginalAirDate = {{start date|2005|1|12}}
+| ProdCode        = 709
+| ShortSummary    = Doug buys a new cologne that sees him getting a lot of attention from other women, but Carrie does not like it and asks him to bring it back to the store. However Doug continues to secretly wear it. When Carrie discovers Doug has been using the new cologne, she confronts him and Doug tells Carrie about all the ways she controls him.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 159
+| EpisodeNumber2  = 10
+| Title           = Domestic Disturbance
+| DirectedBy      = [[Ken Whittingham]]
+| WrittenBy       = Tony Sheehan
+| OriginalAirDate = {{start date|2005|1|19}}
+| ProdCode        = 710
+| ShortSummary    = Carrie hires a Hispanic housekeeper, but the language barrier frustrates Doug, so he decides to hire Spence's mother ([[Anne Meara]]) as his own housekeeper.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 160
+| EpisodeNumber2  = 11
+| Title           = Pour Judgment
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Owen Ellickson
+| OriginalAirDate = {{start date|2005|1|26}}
+| ProdCode        = 711
+| ShortSummary    = Doug reignites an old dream of becoming a bartender. He decides to go to bartender school, against Carries' wishes. Carrie then changes her mind after seeing all the money that Doug received from tips. Meanwhile Arthur runs for president at the Senior Center.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 161
+| EpisodeNumber2  = 12
+| Title           = Gym Neighbors
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2005|2|9}}
+| ProdCode        = 712
+| ShortSummary    = When Doug and Carrie start training with their neighbor [[Lou Ferrigno]] so Carrie can lose a few pounds, Doug works out a deal with Lou to just laze around during exercise time.
+
+''Note:'' This episode features footage from a 1976 episode of ''[[Pyramid (game show)|The $10,000 Pyramid]]'' where [[Jerry Stiller]] played as a celebrity; the clip was slightly altered to make it appear that Arthur was a contestant on the show.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 162
+| EpisodeNumber2  = 13
+| Title           = Gorilla Warfare
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Mike Soccio & Owen Ellickson
+| OriginalAirDate = {{start date|2005|2|16}}
+| ProdCode        = 713
+| ShortSummary    = Carrie recalls what Doug said to her when they were dating that made her want to marry him, but then she learns a horrifying truth that the phrase that he said was from an [[Erik Estrada]] movie.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 163
+| EpisodeNumber2  = 14
+| Title           = Hi, School
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2005|2|23}}
+| ProdCode        = 714
+| ShortSummary    = Doug goes back to his old high school to deliver a package to his high school coach ([[Burt Reynolds]]) and gets embroiled in the sports team again.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 164
+| EpisodeNumber2  = 15
+| Title           = Deconstructing Carrie
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Michelle Nader
+| OriginalAirDate = {{start date|2005|3|2}}
+| ProdCode        = 715
+| ShortSummary    = Carrie's 35th birthday is coming up, and she begins to worry about how she looks as she gets older. To cheer her up, Doug gets some construction workers to yell filthy things at her
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 165
+| EpisodeNumber2  = 16
+| Title           = Black List
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Liz Astrof Aronauer
+| OriginalAirDate = {{start date|2005|3|16}}
+| ProdCode        = 716
+| ShortSummary    = Doug realizes Deacon's new best friend is just a black version of himself.
+
+''Guest star'': [[Ted Lange]] (''[[The Love Boat]]'')
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 166
+| EpisodeNumber2  = 17
+| Title           = Wish Boned
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel & [[Michael J. Weithorn]]
+| OriginalAirDate = {{start date|2005|3|30}}
+| ProdCode        = 717
+| ShortSummary    = Carrie gets Doug to take Arthur on a recently won game tickets and trip to St. Louis after they make a deal that he never has to do anything with him any more. Everything goes wrong though when they are diverted to Pittsburgh then Dayton, Ohio.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 167
+| EpisodeNumber2  = 18
+| Title           = Van, Go
+| DirectedBy      = [[Mark Cendrowski]]
+| WrittenBy       = Tom Hertz
+| OriginalAirDate = {{start date|2005|4|6}}
+| ProdCode        = 718
+| ShortSummary    = Carrie gets Holly to go with her to [[Lowe's]] secretly because of her large van. A masculine waitress at a restaurant frightens Doug. Arthur and his friend George pull a casino party to earn some extra cash, which ends up backfiring.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 168
+| EpisodeNumber2  = 19
+| Title           = Ice Cubed
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= [[Cathy Ladman]]|t= Michelle Nader & Liz Astrof Aronauer}}
+| OriginalAirDate = {{start date|2005|4|13}}
+| ProdCode        = 719
+| ShortSummary    = During a snow storm: Carrie gets an [[iPod]] for free after a cashier is busy talking on the phone and accidentally does not scan it, but Carrie's guilty conscience gets the best of her; Arthur staying at Holly's because of the weather ruins a visit with her boyfriend; Doug is forced to stay with a Japanese couple which turns out to be a copy of him and Carrie.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 169
+| EpisodeNumber2  = 20
+| Title           = Catching Hell
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Chris Downey]]
+| OriginalAirDate = {{start date|2005|4|20}}
+| ProdCode        = 720
+| ShortSummary    = Carrie tries to impress a client ([[Concetta Tomei]]) at a [[New York Mets]] game but Doug keeps screwing it up. So she pretends that Spence is her husband instead. Holly's gay uncle ([[Hal Linden]]) becomes a hit at Arthur's party, making Arthur jealous.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 170
+| EpisodeNumber2  = 21
+| Title           = Slippery Slope
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Chris Downey & Rock Reuben
+| OriginalAirDate = {{start date|2005|5|9}}
+| ProdCode        = 721
+| ShortSummary    = Doug and Carrie go skiing however the trip comes with a catch, a time-share meeting. Danny and Spence also go on the trip pretending to be life partners to get a free weekend.
+| LineColor       = 9C9C00
+}}
+{{Episode list
+| EpisodeNumber   = 171
+| EpisodeNumber2  = 22
+| Title           = Buy Curious
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2005|5|18}}
+| ProdCode        = 725
+| ShortSummary    = The death of Doug and Carrie's neighbor leads them to contemplate entering the world of real estate flipping, but they suspect [[Lou Ferrigno]] is out to quash their dreams.
+| LineColor       = 9C9C00
+}}
+}}
+
+=== Season 8 (2005–06) ===
+{{Episode table
+|background = #614051
+|overall    = 5
+|season     = 6
+|title      = 19
+|director   = 15
+|writer     = 37
+|airdate    = 11
+|prodcode   = 7
+|episodes   = 
+{{Episode list
+| EpisodeNumber   = 172
+| EpisodeNumber2  = 1
+| Title           = Pole Lox
+| DirectedBy      = [[Rob Schiller]]
+| WrittenBy       = [[Michael J. Weithorn]]
+| OriginalAirDate = {{start date|2005|9|19}}
+| ProdCode        = 801
+| ShortSummary    = Accompanied by [[Doug Heffernan|Doug]]'s heavy encouragement, Carrie enrolls in a pole dancing class, but doesn't turn out to be a quick study. Meanwhile, Arthur makes an effort to spend more time with Carrie by taking her to kid-related events to sway her off pole dancing, believing it could "ruin" her life.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 173
+| EpisodeNumber2  = 2
+| Title           = Vocal Discord
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Chris Downey]]
+| OriginalAirDate = {{start date|2005|9|26}}
+| ProdCode        = 802
+| ShortSummary    = After a computer microphone records a fight between the two of them, Doug and Carrie begin to think that marriage counseling is a good idea. Meanwhile, [[Arthur Spooner|Arthur]] directs a play at the senior center.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 174
+| EpisodeNumber2  = 3
+| Title           = Consummate Professional
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2005|10|3}}
+| ProdCode        = 803
+| ShortSummary    = Carrie learns that when they were dating, Doug lied to her about his (un)employment status to get her in bed. Doug tells his story to Carrie how he got his job in IPS and met Deacon.  
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 175
+| EpisodeNumber2  = 4
+| Title           = Like Hell
+| DirectedBy      = [[Mark Cendrowski]]
+| WrittenBy       = Owen Ellickson & Mike Soccio
+| OriginalAirDate = {{start date|2005|10|10}}
+| ProdCode        = 804
+| ShortSummary    = Doug finds out that Jared ([[Bryan Callen]]) a new guy at work does not like him, so he tries to become friends with the guy but comes on too strong. Carrie also goes overboard when she tries to change her image at work and help a co-worker ([[Laura Silverman]]) "improve" herself.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 176
+| EpisodeNumber2  = 5
+| Title           = Sandwiched Out
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Nick Bakay]] & David Bickel
+| OriginalAirDate = {{start date|2005|10|17}}
+| ProdCode        = 805
+| ShortSummary    = Deacon gets a sandwich named after him at Cooper's, infuriating Doug. Holly announces she is moving away with her boyfriend, but Carrie is not fond of the idea and Arthur cannot seem to say good-bye.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 177
+| EpisodeNumber2  = 6
+| Title           = Shear Torture
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Liz Astrof Aronauer
+| OriginalAirDate = {{start date|2005|10|24}}
+| ProdCode        = 806
+| ShortSummary    = Carrie becomes jealous of Doug's relationship with his attractive hairdresser. Meanwhile, Spence is excited to go to a Fantasy Fest with [[Lou Ferrigno]], but when [[Adam West]] also agrees to go, Spence must decide between the two.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 178
+| EpisodeNumber2  = 7
+| Title           = Inn Escapable
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Michelle Nader
+| OriginalAirDate = {{start date|2005|11|7}}
+| ProdCode        = 807
+| ShortSummary    = Doug and Carrie's weekend at a quaint bed and breakfast turns out to be less than desirable. Worse, they do not feel comfortable about leaving because they are the only people at the inn for the entire weekend.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 179
+| EpisodeNumber2  = 8
+| Title           = Move Doubt
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Liz Astrof Aronauer & Owen Ellickson
+| OriginalAirDate = {{start date|2005|11|14}}
+| ProdCode        = 808
+| ShortSummary    = Doug and Carrie try to get Deacon and Kelly to buy the house next to them, but a couple with eight kids moves in instead. Meanwhile Danny and Spence compete over a girl from Albania named Zana ([[Sanya Mateyas]]).
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 180
+| EpisodeNumber2  = 9
+| Title           = G'Night Stalker
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Chris Downey
+| OriginalAirDate = {{start date|2005|11|21}}
+| ProdCode        = 809
+| ShortSummary    = Doug and Carrie decide to go out to a karaoke club, where Doug's singing catches the attention of a stranger, who then becomes obsessed with Doug.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 181
+| EpisodeNumber2  = 10
+| Title           = Raygin' Bulls
+| DirectedBy      = [[Howard Murray]]
+| WrittenBy       = Michelle Nader & Rock Reuben
+| OriginalAirDate = {{start date|2005|11|28}}
+| ProdCode        = 810
+| ShortSummary    = Carrie goes away with Arthur to visit her mother's grave, and finds out she's not who she thinks she is. Doug and Ray Barone ([[Ray Romano]]) spend the weekend trying to pick up girls, attempting to outdo each other in a nightclub.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 182
+| EpisodeNumber2  = 11
+| Title           = Baker's Doesn't
+| DirectedBy      = Michael J. Weithorn
+| WrittenBy       = Liz Astrof Aronauer & Ilana Wernick
+| OriginalAirDate = {{start date|2005|12|19}}
+| ProdCode        = 811
+| ShortSummary    = Carrie is asked to bake a cake for the Church bake sale, but she cannot bake.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 183
+| EpisodeNumber2  = 12
+| Title           = Fresh Brood
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Michelle Nader & Rock Reuben
+| OriginalAirDate = {{start date|2006|1|6}}
+| ProdCode        = 812
+| ShortSummary    = To persuade Carrie to have a baby, Doug borrows an infant whom Danny is supposed to be taking care of to show Carrie what a good father he would be.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 184
+| EpisodeNumber2  = 13
+| Title           = Gambling N'Diction
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Ilana Wernick
+| OriginalAirDate = {{start date|2006|1|23}}
+| ProdCode        = 813
+| ShortSummary    = After Carrie is told she might not get a promotion because of her accent she seeks Spence for help. Doug's mother comes to visit and after seeing her play poker, Doug takes her to Vegas to hustle some people out of their money.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 185
+| EpisodeNumber2  = 14
+| Title           = Apartment Complex
+| DirectedBy      = Michael J. Weithorn
+| WrittenBy       = David Bickel
+| OriginalAirDate = {{start date|2006|2|6}}
+| ProdCode        = 814
+| ShortSummary    = Doug, Deacon, Spence and Danny all secretly rent an apartment, but soon Deacon, Spence and Danny move out and Doug lives by himself. Carrie tries to sell a condo to [[Kirstie Alley]] but it turns out to be more work than she expected.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 186
+| EpisodeNumber2  = 15
+| Title           = Buggie Nights
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel & Chris Downey
+| OriginalAirDate = {{start date|2006|2|27}}
+| ProdCode        = 815
+| ShortSummary    = Doug and Carrie hire an exterminator ([[Chris Elliott]]) to rid their house of bed bugs. Spence and Danny try to decide where to go on vacation.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 187
+| EpisodeNumber2  = 16
+| Title           = Knee Jerk
+| DirectedBy      = [[Ken Whittingham]]
+| WrittenBy       = {{StoryTeleplay|s= Amy Gershwin|t= David Bickel & Chris Downey}}
+| OriginalAirDate = {{start date|2006|3|6}}
+| ProdCode        = 816
+| ShortSummary    = Carrie "accidentally" pushes Doug backwards down the stairs, injuring his knee. Carrie feels bad for him so she waits on him hand and foot. Doug enjoys the attention so he continues to pretend to be in pain.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 188
+| EpisodeNumber2  = 17
+| Title           = Present Tense
+| DirectedBy      = [[Henry Chan]]
+| WrittenBy       = Michelle Nader & Rock Reuben
+| OriginalAirDate = {{start date|2006|3|13}}
+| ProdCode        = 817
+| ShortSummary    = For their anniversary, Doug and Carrie receive a less-than flattering portrait of themselves from Deacon and Kelly. As they try to find ways to get rid of the portrait without hurting Deacon and Kelly's feelings, Spence and Danny try hard to become Doug and Carrie's "go-to couple".
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 189
+| EpisodeNumber2  = 18
+| Title           = Sold-Y Locks
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Owen Ellickson & [[Dennis Regan]]
+| OriginalAirDate = {{start date|2006|3|20}}
+| ProdCode        = 818
+| ShortSummary    = Doug convinces Carrie to sell her hair for money, but later regrets his decision, when he sees her hair is cut "like a boy".
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 190
+| EpisodeNumber2  = 19
+| Title           = Emotional Rollercoaster
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Amy Gershwin
+| OriginalAirDate = {{start date|2006|4|10}}
+| ProdCode        = 819
+| ShortSummary    = It's Doug's 40th birthday and Carrie begins to try to make Doug realize that he should start wanting to do more with his life. So Doug decides he wants to ride a roller coaster that he was to afraid to ride when he was younger.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 191
+| EpisodeNumber2  = 20
+| Title           = Four Play
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Liz Astrof Aronauer & Michelle Nader
+| OriginalAirDate = {{start date|2006|5|1}}
+| ProdCode        = 820
+| ShortSummary    = Doug and Deacon discover they have more in common with each other's wives than their own, so they start hanging out with each other's wives as well. When Kelly tires of Doug, he ruins Deacon and Carrie's good time. Meanwhile, Arthur dispenses romance advise and the recipient finds success simply doing the opposite.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 192
+| EpisodeNumber2  = 21
+| Title           = Hartford Wailer
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= David Bickel & Chris Downey|t= Giuseppe Graziano}}
+| OriginalAirDate = {{start date|2006|5|8}}
+| ProdCode        = 821
+| ShortSummary    = Carrie prepares for a ladies night with her co-workers, until Doug surprises her at the hotel. Spence and Danny pretend to be security to get into a [[Huey Lewis]] concert.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 193
+| EpisodeNumber2  = 22
+| Title           = Fight Schlub
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Owen Ellickson & Mike Soccio
+| OriginalAirDate = {{start date|2006|5|15}}
+| ProdCode        = 822
+| ShortSummary    = Doug befriends a driver ([[Adam Ferrara]]) from a rival delivery company, until he learns it's fake. Carrie is left to mentor a 16-year-old girl ([[Blythe Auffarth]]), however finds that bad behavior helps her make friends better than good behavior.
+| LineColor       = 614051
+}}
+{{Episode list
+| EpisodeNumber   = 194
+| EpisodeNumber2  = 23
+| Title           = Acting Out
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= Liz Astrof Aronauer & Michelle Nader|t= Rock Reuben}}
+| OriginalAirDate = {{start date|2006|5|22}}
+| ProdCode        = 823
+| ShortSummary    = Carrie is finally fed up with Arthur, so she decides to put him in a retirement home. Doug, of course, is excited but after a touching story told by Arthur, Doug tries to decide whether or not Arthur should go.
+
+''Note'': This episode features a brief cameo of Jerry Stiller in ''[[The Taking of Pelham One Two Three (1974 film)|The Taking of Pelham One Two Three]]''.
+| LineColor       = 614051
+}}
+}}
+
+=== Season 9 (2006–07) ===
+{{Episode table
+|background = #979797
+|overall    = 5
+|season     = 6
+|title      = 19
+|director   = 15
+|writer     = 37
+|airdate    = 11
+|prodcode   = 7
+|episodes   = 
+{{Episode list
+| EpisodeNumber   = 195
+| EpisodeNumber2  = 1
+| Title           = Mama Cast
+| DirectedBy      = [[Rob Schiller]]
+| WrittenBy       = Mike Soccio & Ilana Wernick
+| OriginalAirDate = {{start date|2006|12|6}}
+| ProdCode        = 901
+| ShortSummary    = [[Doug Heffernan|Doug]] invests their tax return in an ice cream truck. Initially cold to the idea of Doug driving a truck on the side (his main career being an IPS truck driver), Carrie warms up when she sees how excited he is about the prospect. Meanwhile, Carrie plays the mother in a model home family, causing her to yearn for a real family of her own.
+| LineColor       = 979797
+}}
+{{Episode list
+| EpisodeNumber   = 196
+| EpisodeNumber2  = 2
+| Title           = Affair Trade
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Rock Reuben & [[Dennis Regan]]
+| OriginalAirDate = {{start date|2006|12|6}}
+| ProdCode        = 902
+| ShortSummary    = Doug receives suggestive phone messages from a woman ([[Leigh-Allyn Baker]]) who thinks she spent a weekend with him at the beach, so he must hide the messages from Carrie while he tries to let the woman know she has the wrong man.
+| LineColor       = 979797
+}}
+{{Episode list
+| EpisodeNumber   = 197
+| EpisodeNumber2  = 3
+| Title           = Moxie Moron
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Liz Astrof Aronauer & Owen Ellickson
+| OriginalAirDate = {{start date|2006|12|13}}
+| ProdCode        = 903
+| ShortSummary    = Doug becomes the interim boss at IPS, but pretty much does the worst job imaginable. One of Carrie's co-workers "steals her moxie" so she vows to become more noticeable at her job. The plan backfires when she realizes there are downsides to getting noticed.
+| LineColor       = 979797
+}}
+{{Episode list
+| EpisodeNumber   = 198
+| EpisodeNumber2  = 4
+| Title           = Major Disturbance
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Rock Reuben & Ilana Wernick
+| OriginalAirDate = {{start date|2006|12|13}}
+| ProdCode        = 904
+| ShortSummary    = Doug accidentally scares Deacon and Kelly's son Major, so the two decide they no longer want him spending time with Doug. Meanwhile, [[Arthur Spooner|Arthur]] and his senior center buddies are chewed up and spat out by the service industry when they start up their own business.
+| LineColor       = 979797
+}}
+{{Episode list
+| EpisodeNumber   = 199
+| EpisodeNumber2  = 5
+| Title           = Ruff Goin'
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel & [[Chris Downey]]
+| OriginalAirDate = {{start date|2006|12|20}}
+| ProdCode        = 905
+| ShortSummary    = Doug adopts a dog, but when the dog begins to take after Doug and Arthur, Carrie quickly grows tired of having three lazy boys hanging around the house. Trying to get rid of the dog proves useless until a very interesting buyer steps up.
+| LineColor       = 979797
+}}
+{{Episode list
+| EpisodeNumber   = 200
+| EpisodeNumber2  = 6
+| Title           = Brace Yourself
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel & Chris Downey
+| OriginalAirDate = {{start date|2007|1|3}}
+| ProdCode        = 906
+| ShortSummary    = Major's drawing of Arthur makes him self-conscious to the point of asking Doug and Carrie for braces for his teeth. Doug and Carrie are reluctant to say yes. Meanwhile, Spence loses his job in the subway so Kelly hires him to help out around their house.
+| LineColor       = 979797
+}}
+{{Episode list
+| EpisodeNumber   = 201
+| EpisodeNumber2  = 7
+| Title           = Home Cheapo
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Liz Astrof Aronauer & Ilana Wernick
+| OriginalAirDate = {{start date|2007|4|9}}
+| ProdCode        = 907
+| ShortSummary    = Carrie is upset when she learns that Deacon and Kelly bought a vacation house. She believes they were able to afford it because they are cheap and freeload off of her and Doug. Elsewhere, Arthur gives job-hunting tips to Spence.
+| LineColor       = 979797
+}}
+{{Episode list
+| EpisodeNumber   = 202
+| EpisodeNumber2  = 8
+| Title           = Offensive Fowl
+| DirectedBy      = Rob Schiller
+| WrittenBy       = David Bickel & Chris Downey
+| OriginalAirDate = {{start date|2007|4|16}}
+| ProdCode        = 908
+| ShortSummary    = Doug becomes a vegetarian after hitting, and nearly killing, a chicken with his IPS truck. Carrie quickly tires of having to eat meat in private because of Doug forcing his new beliefs onto her.
+| LineColor       = 979797
+}}
+{{Episode list
+| EpisodeNumber   = 203
+| EpisodeNumber2  = 9
+| Title           = Mild Bunch
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= Liz Astrof Aronauer & Owen Ellickson|t= Dennis Regan & Mike Soccio}}
+| OriginalAirDate = {{start date|2007|4|23}}
+| ProdCode        = 909
+| ShortSummary    = At his high school reunion, Doug and Jeff Sussman ([[Adam Sandler]]), an old classmate who is now a vice principal plot revenge on their principal. Meanwhile, Carrie and Arthur try hard to find a movie to watch which they will both enjoy.
+| LineColor       = 979797
+}}
+{{Episode list
+| EpisodeNumber   = 204
+| EpisodeNumber2  = 10
+| Title           = Manhattan Project
+| DirectedBy      = Rob Schiller
+| WrittenBy       = Rock Reuben
+| OriginalAirDate = {{start date|2007|4|30}}
+| ProdCode        = 910
+| ShortSummary    = Carrie wants to move to an apartment in Manhattan, but Doug wants to stay in Queens. Their impasse makes them realize they have very different ideas about their future, with Carrie ultimately moving to the apartment without Doug. Meanwhile at the senior center, Arthur encounters an old singer ([[Lainie Kazan]]) whom he trains and eventually becomes engaged to.
+| LineColor       = 979797
+}}
+{{Episode list
+| EpisodeNumber   = 205
+| EpisodeNumber2  = 11
+| Title           = Single Spaced
+| DirectedBy      = Rob Schiller
+| WrittenBy       = {{StoryTeleplay|s= Ilana Wernick|t= David Bickel & Chris Downey}}
+| OriginalAirDate = {{start date|2007|5|7}}
+| ProdCode        = 911
+| ShortSummary    = Doug and Carrie consider adopting a baby after they get marriage counseling from their priest and run into friends who recently had a child. But, while Doug holds up his end of the bargain and gets a new job, Carrie secretly keeps the apartment.
+| LineColor       = 979797
+}}
+{{Episode list
+| EpisodeNumber   = 206<hr />207
+| EpisodeNumber2  = 12<hr />13
+| Title           = [[China Syndrome (The King of Queens)|China Syndrome]]
+| DirectedBy      = Rob Schiller
+| WrittenBy       = [[Michael J. Weithorn]]
+| OriginalAirDate = {{start date|2007|5|14}}
+| ProdCode        = 912<hr />913
+| ShortSummary    = [[Series finale]]: Doug, having discovered that Carrie did not get rid of her apartment in Manhattan {{ndash}} as she was supposed to three weeks ago {{ndash}} tells her that he wants a divorce. Carrie wants to stay together and plans to go to China to pick up their adopted child. Also, Arthur's bride leaves him just before the wedding, believing that he was gay the whole time. At the last minute, Arthur asks Spence's mother to marry him. Doug and Carrie race to China, each attempting to claim their baby before the other. On the way, they reconcile. Carrie finds out after adopting that she is pregnant, and she is overwhelmed. A flash forward to a year later shows a messy, hectic household with both Doug and Carrie struggling to care for two small children, when Arthur suddenly returns because his marriage does not work out.
+| LineColor       = 979797
+}}
+}}
+
+==References==
+<references />
+
+==External links==
+* {{Official website|http://www.thekingofqueens.com}} from Sony Pictures
+* {{IMDb episodes|0165581|The King of Queens}}
+* {{tv.com episodes|the-king-of-queens|title=The King of Queens}}
+
+{{The King of Queens}}
+
+{{DEFAULTSORT:King Of Queens, The}}
+[[Category:Lists of American sitcom episodes]]

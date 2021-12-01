@@ -1,0 +1,34 @@
+{{Infobox settlement
+| name = Nerwiki
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline = Nerwiki, pałac.jpg
+| image_caption = A palace in Nerwiki.
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Bartoszyce County|Bartoszyce]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Górowo Iławeckie]]
+|pushpin_map=Poland
+|coordinates = {{coord|54|11|N|20|31|E|region:PL|display=inline}}
+| elevation_m =
+| population_total =
+| website = }}
+'''Nerwiki''' {{IPAc-pl|n|e|r|'|w|i|k|i}} ({{lang-de|Nerfken}}) is a [[village]] in the administrative district of [[Gmina Górowo Iławeckie]], within [[Bartoszyce County]], [[Warmian-Masurian Voivodeship]], in northern Poland, close to the border with the [[Kaliningrad Oblast]] of [[Russia]].<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) &ndash; TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|10|km|mi|0}} south of [[Górowo Iławeckie]], {{convert|20|km|mi|0|abbr=on}} west of [[Bartoszyce]], and {{convert|45|km|mi|0|abbr=on}} north of the regional capital [[Olsztyn]].
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Górowo Iławeckie}}
+
+{{coord|54.1833|N|20.5167|E|type:city_region:PL_source:GNS-enwiki|display=title}}
+
+[[Category:Villages in Bartoszyce County|Nerwiki]]
+{{Bartoszyce-geo-stub}}

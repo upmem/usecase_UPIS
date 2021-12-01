@@ -1,0 +1,42 @@
+{{US county navigation box
+| template_name = Emanuel County, Georgia
+| listclass = hlist
+| county  = Emanuel County
+| state   = Georgia
+
+| map_image = Map of Georgia highlighting Emanuel County.svg
+| map_caption = Map of Georgia highlighting Emanuel County
+| map_size = 100x100
+| seat = Swainsboro
+
+| title1 = [[City|Cities]]
+| body1  = 
+* [[Adrian, Georgia|Adrian]]‡
+* [[Garfield, Georgia|Garfield]]
+* [[Nunez, Georgia|Nunez]]
+* [[Oak Park, Georgia|Oak Park]]
+* [[Stillmore, Georgia|Stillmore]] 
+* [[Summertown, Georgia|Summertown]]
+* [[Swainsboro, Georgia|Swainsboro]]
+* [[Twin City, Georgia|Twin City]]
+
+| title2 = [[Census-designated place|CDPs]]
+| body2  =
+* [[Canoochee, Georgia|Canoochee]]
+* [[Norristown, Georgia|Norristown]]
+
+| title3 = [[Unincorporated communities]]
+| body3  =
+* [[Blundale, Georgia|Blundale]]
+* [[Colemans Lake, Georgia|Colemans Lake]]
+* [[Modoc, Georgia|Modoc]]
+* [[Wesley, Georgia|Wesley]]
+
+| title4 = Footnotes
+| body4  = ‡This populated place also has portions in an adjacent county or counties
+
+}}<noinclude>
+[[Category:Georgia (U.S. state) county navigational boxes]]
+[[Category:Emanuel County, Georgia|* ]]
+
+</noinclude>

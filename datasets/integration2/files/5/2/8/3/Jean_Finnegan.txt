@@ -1,0 +1,38 @@
+{{For|the mother of Joe Biden|Jean Finnegan Biden}}
+{{short description|Australian botanist}}
+'''Elizabeth Jean Finnegan''' FAA is an Australian botanist who researches [[Flowering plant|plant flowering]] processes and [[Epigenetics|epigenetic]] regulation in plants.<ref>{{Cite web |title=Dr Jean Finnegan: understanding flowering |url=http://www.csiro.au/Organisation-Structure/Divisions/Plant-Industry/JeanFinnegan.aspx |date=2013-10-14 |accessdate=2015-11-11 |website=CSIRO |url-status=dead |archiveurl=https://web.archive.org/web/20141215012137/http://www.csiro.au/Organisation-Structure/Divisions/Plant-Industry/JeanFinnegan.aspx |archivedate=December 15, 2014 }}</ref><ref>{{cite journal | last1 = Finnegan | first1 = E. J. | title = DNA Methylation in Plants | last2 = Genger | first2 = R. K. | last3 = Peacock | first3 = W. J. | last4 = Dennis | first4 = E. S. | year = 1998 | url = | journal = Annual Review of Plant Physiology and Plant Molecular Biology | volume = 49 | issue = | pages = 223–247 | doi=10.1146/annurev.arplant.49.1.223| pmid = 15012234 }}</ref><ref>{{cite journal | last1 = Finnegan | first1 = E J | last2 = Peacock | first2 = W J | last3 = Dennis | first3 = E S | year = 2000 | title = DNA methylation, a key regulator of plant development and other processes | url = | journal = Current Opinion in Genetics & Development | volume = 10 | issue = 2| pages = 217–223 | doi = 10.1016/S0959-437X(00)00061-7 | pmid = 10753779 }}</ref>
+She currently works at the [[Commonwealth Scientific and Industrial Research Organisation|CSIRO]] as a senior scientist where she leads research on the "Control of Floral Initiation", part of the CSIRO Agriculture Flagship (formerly known as CSIRO Plant Industry)<ref name="csiro">{{cite web|url=http://www.csiro.au/Organisation-Structure/Divisions/Plant-Industry/JeanFinnegan.aspx |title=Archived copy |accessdate=2015-11-11 |url-status=dead |archiveurl=https://web.archive.org/web/20141215012137/http://www.csiro.au/Organisation-Structure/Divisions/Plant-Industry/JeanFinnegan.aspx |archivedate=2014-12-15 }}</ref>
+
+== Education ==
+Finnegan received her [[bachelor of science]] (honours) from the [[University of Adelaide]], and her PhD from the University of Adelaide in 1979. Her thesis was ''Transcriptional studies of [[bacteriophage]] 186''.<ref>{{Cite thesis |title = Transcriptional studies of bacteriophage 186 |first = Elizabeth Jean |last = Finnegan |date = 1979|hdl = 2440/20053 |publisher = Adelaide |type = Thesis }}</ref>
+
+== Recognition ==
+Finnegan was elected a [[Fellow of the Australian Academy of Science]] in May 2014 on the basis of her world leading research on plant gene expression.<ref>{{Cite web |title = Dr Elizabeth Jean Finnegan |url = https://www.science.org.au/fellowship/fellows/dr-elizabeth-jean-finnegan |website = Australian Academy of Science |accessdate = 2016-12-08 |date = 2014 |url-status = live |archiveurl = https://web.archive.org/web/20161221084021/https://www.science.org.au/fellowship/fellows/dr-elizabeth-jean-finnegan |archivedate = 2016-12-21 }}</ref> Her contribution to plant science includes her early work, cloning the first plant  (METI), and her work demonstrating that DNA methylation (a biochemical process that modifies the plant's DNA) is essential for normal plant development<ref>{{cite journal | last1 = Finnegan | first1 = E J | last2 = Peacock | first2 = W J | last3 = Dennis | first3 = E S | year = 1996 | title = Reduced DNA methylation in Arabidopsis thaliana results in abnormal plant development | url = | journal = PNAS | volume = 93 | issue = 16| pages = 8449–8454 | doi=10.1073/pnas.93.16.8449| pmid = 8710891 | pmc = 38691 | bibcode = 1996PNAS...93.8449F }}</ref> and by reducing levels of methylation changes the plant's size and shape, flowering time, structure of the flowers and number of seeds.{{citation needed|date=October 2014}}
+
+In 2012, Finnegan was awarded the Julian Wells Medal for contributions to research on the organisation and [[Gene expression|expression]] of the genome.<ref name="Lorne Genome Conference">{{cite web |title=Julian Wells Medal |url=http://www.lornegenome.org/awards/ |publisher=Lorne Genome Conference |accessdate=11 November 2015 |location=Victoria, Australia |url-status=live |archiveurl=https://web.archive.org/web/20150925120342/http://www.lornegenome.org/awards/ |archivedate=25 September 2015 }}</ref>
+
+Finnegan is on the editorial board for BMC Plant Biology.<ref>{{cite web |url=http://www.biomedcentral.com/bmcplantbiol/edboard/ |title=BMC Plant Biology Editorial Board |url-status=live |archiveurl=https://web.archive.org/web/20111124084505/http://www.biomedcentral.com/bmcplantbiol/edboard/ |archivedate=2011-11-24 }}</ref>
+
+== Research ==
+Finnegan's research focuses on epigenetic mechanisms of flowering processes in plants, specifically, the role of [[DNA methylation]] in normal plant development. 
+DNA methylation is a biochemical process that modifies DNA, with Finnegan's work some of the first to show this in plants. She generated plants with reduced levels of DNA methylation using an [[Sense (molecular biology)|antisense]] against METI, and determined the molecular basis for the abnormal [[phenotype]]s displayed by plants with reduced levels of methylation. {{citation needed|date=October 2014}}
+She continues to be a leader in her field through her research on flowering processes and the role of DNA methylation and [[epigenetics]] helping to understand the mechanisms contributing to the [[Downregulation and upregulation|down-regulation]] of flowering locus C (FLC) in vernalized plants.<ref>{{cite journal | last1 = Finnegan | first1 = E J | last2 = Dennis | first2 = E S | year = 2007 | title = Vernalization-Induced Trimethylation of Histone H3 Lysine 27 at FLC Is Not Maintained in Mitotically Quiescent Cells | url = | journal = Current Biology | volume = 17 | issue = 22| pages = 1978–1983 | doi = 10.1016/j.cub.2007.10.026 | pmid = 17980595 | s2cid = 18167488 }}</ref><ref>{{cite journal | doi = 10.1111/j.1365-313X.2005.02541.x | pmid=16236152 | volume=44 | issue=3 | title=The downregulation of FLOWERING LOCUS C (FLC) expression in plants with low levels of DNA methylation and by vernalization occurs by distinct mechanisms | journal=The Plant Journal | pages=420–432| year=2005 | last1=Jean Finnegan | first1=E. | last2=Kovac | first2=Kathryn A. | last3=Jaligot | first3=Estelle | last4=Sheldon | first4=Candice C. | last5=James Peacock | first5=W. | last6=Dennis | first6=Elizabeth S. }}</ref> The focus of her current research is investigating the role of DNA methylation in regulating traits of agronomic importance in [[wheat]].
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Finnegan, Jean}}
+[[Category:20th-century Australian botanists]]
+[[Category:Australian women scientists]]
+[[Category:Women botanists]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Fellows of the Australian Academy of Science]]
+[[Category:University of Adelaide alumni]]
+[[Category:20th-century Australian scientists]]
+[[Category:21st-century Australian scientists]]
+[[Category:21st-century botanists]]
+[[Category:20th-century women scientists]]
+[[Category:21st-century women scientists]]

@@ -1,0 +1,21 @@
+[[File:Multiplex.png|thumb|Characteristic thin dark reddish brown glue joints laminating the plies together of this exterior grade [[plywood]]]] 
+
+'''Resorcinol glue''', also known as '''resorcinol-formaldehyde''', is an adhesive combination of resin and hardener that withstands long-term water [[wikt:immersion|immersion]] and has high resistance to ultraviolet light.<ref name="Media1993">Johnson, W. Curtis (September-October 1993). [https://books.google.com/books?id=r_YDAAAAMBAJ&pg=PA30 "American Woodworker"]. New Track Media. p. 30. {{ISSN|1074-9152}}</ref><ref name="FAA2014">{{cite book|author=[[Federal Aviation Administration]] |title=Aviation Maintenance Technician Handbook-Airframe, Volume 1|url=https://books.google.com/books?id=o_Q8AwAAQBAJ&pg=PT600|date=2 April 2014|publisher=Mepcount Media LLC|isbn=978-1-62508-006-6|page=600}}</ref> The adhesive, introduced in 1943, has been popular in aircraft and boat construction.<ref name="FAA2014"/> 
+
+Until the invention of epoxy resin, [[resorcinol]] was one of the most common marine glues. Unlike epoxy, it does not have gap filling properties, requiring joints to be close fitting and clamped under pressure to achieve good results. The glue comes in two parts&nbsp;— a deep red syrup and a light brown powder that are mixed to form a dark reddish-brown glue.
+
+The most common application for resorcinol glue is in adhering the plies of exterior and marine gradeS of [[plywood]].  
+
+ Uncured resorcinol has a relatively short shelf life of about two to three years, depending on storage temperature. Its use has declined since the 1990s due to the ease of use and versatility of [[epoxy]] glues and fillers.{{Citation needed|date=March 2015}}
+
+Although the greater ease of use and versatility of epoxy makes it much more popular, epoxy has poor UV resistance and in most structural applications has only a modest heat resistance, making it less than ideal for many outdoor uses. Resorcinol remains a suitable adhesive for exterior and marine use.  Unlike epoxy, it is not gap-filling, so requires a higher standard of workmanship and joint fitting.<ref>{{cite book|last1=Pardy|first1=Larry|title=Details of Classic Boat Construction|date=1999|publisher=Thomas Reed Publications|isbn=978-0964603684|pages=Appendix A|edition=1999}}</ref>
+
+==See also==
+*[[Resorcinol]]
+
+==References==
+{{reflist}}
+
+{{material-stub}}
+
+[[Category:Adhesives]]

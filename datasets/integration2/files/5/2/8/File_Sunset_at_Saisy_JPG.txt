@@ -1,0 +1,3 @@
+{{GFDL-self-with-disclaimers|migration=relicense}}
+
+{{Copy to Wikimedia Commons|bot=Fbot|priority=true}}

@@ -1,0 +1,12 @@
+'''Achladochori''' ({{lang-el|Αχλαδοχώρι}}) is a [[village]] in the [[Trikala Prefecture]] in [[Thessaly]], [[Greece]]. It forms part of the municipal unit of [[Farkadona]], in the [[municipalities of Greece|municipality]] of the same name. According to the 2011 census, its population was 103.<ref name=census11>{{cite Greek census|year=2011}}</ref>
+
+The village features a 13th-century church dedicated to the [[Dormition]] of the [[Theotokos]].<ref>{{Tabula Imperii Byzantini | volume = 1 | page = 117}}</ref>
+
+==References==
+{{reflist}}
+
+{{Farkadona div}}
+[[Category:Villages in Greece]]
+[[Category:Populated places in Trikala (regional unit)]]
+[[Category:Byzantine church buildings in Thessaly]]
+{{coord|39|38|15|N|22|01|18|E|region:GR-06|display=title}}

@@ -1,0 +1,30 @@
+[[File:Principle of the photoelectrowetting effect.jpg|thumb|300px|Principle of the photoelectrowetting effect]]
+
+'''Photoelectrowetting''' is a modification of the [[wetting]] properties of a surface (typically a [[hydrophobic]] surface) using incident light.<ref>[http://www.nature.com/srep/2011/111207/srep00184/full/srep00184.html S. Arscott, 'Moving liquids with light: Photoelectrowetting on semiconductors', ''Sci. Rep.'' '''1''', 184, (2011). Scientific Reports: Nature Publishing Group.]</ref> 
+
+==Working principle==
+Whereas ordinary [[electrowetting]] is observed in surfaces consisting of a [[liquid]]/[[Insulator (electricity)|insulator]]/[[Electrical conductor|conductor]] stack, photoelectrowetting can be observed by replacing the conductor with a [[semiconductor]] to form a liquid/insulator/semiconductor stack. This has electrical and optical properties similar to the metal/insulator/semiconductor stack used in [[metal-oxide-semiconductor]] field effect transistors ([[MOSFET]]s) and [[charge-coupled device]]s (CCDs). Replacing the conductor with a semiconductor results in asymmetrical electrowetting behavior (in terms of [[voltage]] polarity), depending on the semiconductor [[Doping (semiconductor)|doping]] type and density.
+
+Incident light above the semiconductor's [[band gap]] creates photo-induced carriers via [[electron-hole pair]] generation in the [[depletion region]] of the underlying semiconductor. This leads to a modification of the [[capacitance]] of the insulator/semiconductor stack, resulting in a modification of the [[contact angle]] of a liquid droplet resting on the surface of the stack in a continuous way which can also be non-reversible.<ref>{{cite journal|title=Electrowetting on semiconductors|first1=Cesar|last1=Palma|first2=Robert|last2=Deegan|date=5 January 2015|journal=Applied Physics Letters|volume=106|issue=1|pages=014106|doi=10.1063/1.4905348|url=https://semanticscholar.org/paper/52afa00e93df5942c4cdeb27272fc8ad00ff5a9d}}</ref> The photoelectrowetting effect can be interpreted by a modification of the [[Thomas Young (scientist)|Young]]-[[Gabriel Lippmann|Lippmann]] [[Electrowetting#Electrowetting theory|equation]].<ref>{{cite journal|title=Electrowetting and semiconductors|first=Steve|last=Arscott|date=3 July 2014|journal=RSC Advances|volume=4|issue=55|pages = 29223|doi=10.1039/c4ra04187a}}</ref>
+
+The figure illustrates the principle of the photoelectrowetting effect. At zero bias (0V) the conducting droplet has a large contact angle (left image) if the insulator is [[hydrophobe|hydrophobic]]. As the bias is increased (positive for a [[extrinsic semiconductor|p-type]] semiconductor, negative for an [[extrinsic semiconductor|n-type]] semiconductor) the droplet spreads out – i.e. the contact angle decreases (middle image). In the presence of light (having an energy superior to the [[band gap]] of the semiconductor) the droplet spreads out more due to the reduction of the thickness of the [[space charge]] region at the insulator/semiconductor interface (right image).
+
+==Optical actuation of MEMS==
+Photoactuation of [[microelectromechanical systems]] (MEMS) has been demonstrated using photoelectrowetting.,<ref>{{cite journal|title=Optical actuation of microelectromechanical systems using photoelectrowetting|first1=Matthieu|last1=Gaudet|first2=Steve|last2=Arscott|date=28 May 2012|journal=Applied Physics Letters|volume=100|issue=22|pages=224103|doi=10.1063/1.4723569|arxiv=1201.2873}}</ref><ref>{{cite web|url=http://phys.org/news/2012-01-team-photoelectrowetting-circuit.html|title=Research team creates photoelectrowetting circuit}}</ref>  A micro[[cantilever]] is placed on top of the liquid-insulator-photoconductor junction.  As light is shined on the junction, the capillary force from the droplet on the cantilever, due to the contact angle change, deflects the cantilever.  This wireless actuation can be used as a substitute for complex circuit-based systems currently used for optical addressing and control of autonomous wireless sensors<ref>Yick, Jennifer, Biswanath Mukherjee, and Dipak Ghosal. "[http://www.sciencedirect.com/science/article/pii/S1389128608001254 Wireless sensor network survey.]" Computer Networks 52.12 (2008): 2292-330. Web.</ref>
+
+==Droplet transport==
+Photoelectrowetting can be used to [[droplet-based microfluidics|circulate aqueous solution-based sessile droplets]] on a silicon wafer covered with [[silicon dioxide]] and [[polytetrafluoroethylene|Teflon]] – the latter providing a [[hydrophobe|hydrophobic]] surface. Droplet transport is achieved by focusing a laser at the leading edge of the droplet. Droplet speeds of more than 10 mm/s can be achieved without the necessity of underlying [[digital microfluidics|patterned electrodes]].<ref>C. Palma and R.D. Deegan "Droplet Translation Actuated by Photoelectrowetting" Langmuir 34, 3177 (2018). {{doi|10.1021/acs.langmuir.7b03340}}.</ref>
+
+== See also ==
+* [[Optoelectrowetting]]
+* [[Microoptoelectromechanical systems]]
+
+==References==
+{{reflist}}
+__notoc__
+==External links==
+* [https://www.iemn.fr/en/ Institut d’Electronique, de Microélectronique et de Nanotechnologie (IEMN) - Centre National de la Recherche Scientifique (CNRS) - University of Lille]
+* [http://www-personal.umich.edu/~rddeegan/ The Deegan Group - University of Michigan]
+
+[[Category:Fluid mechanics]]
+[[Category:Microfluidics]]

@@ -1,0 +1,21 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Young Lucius stares at the body of Aaron's baby in the final scene of the ''[[BBC Television Shakespeare]]''{{'}} adaptation of ''Titus Andronicus''. In the background, out of focus, his father is crowned Emperor.
+|Source = DVD Capture
+|Date = 1985
+|Author = [[BBC]]
+|Article = BBC Television Shakespeare
+|Purpose = The major theme in the production, as is explained in the text, is the boy's experience of the horrors of violence. In the final scene, when the central event is the crowning of his father as the next emperor, director [[Jane Howell]] chose to instead focus on Young Lucius and Aaron's dead baby, rather than the inauguration, the implication being that even the young are not free from the cycles of violence. Her use of focus to help convey this idea (the 'main' event in the scene is out of focus and the silent event in the foreground is in focus) is discussed in the article. This image allows the reader to clearly see and understand what is being discussed. 
+|Replaceability = As the image depicts a speific moment from the production, obviously, no free image exists.
+|Minimality = It is a single low res image from the show used to illustrate one aspect of the production only.
+|Commercial = Does not limit the copyright owners' rights to distribute the film on television or DVDs in any way.
+}}
+{{Non-free media rationale
+|Article=Titus Andronicus
+|Purpose=The major theme in the production, as is explained in the text, is the boy's experience of the horrors of violence. In the final scene, when the central event is the crowning of his father as the next emperor, director [[Jane Howell]] chose to instead focus on Young Lucius and Aaron's dead baby, rather than the inauguration, the implication being that even the young are not free from the cycles of violence. Her use of focus to help convey this idea (the 'main' event in the scene is out of focus and the silent event in the foreground is in focus) is discussed in the article. This image allows the reader to clearly see and understand what is being discussed.
+|Replaceability=As the image depicts a speific moment from the production, obviously, no free image exists.
+}}
+
+== {{int:license-header}} ==
+
+{{Non-free television screenshot|image has rationale=yes}}

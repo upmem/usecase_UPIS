@@ -1,0 +1,91 @@
+{{Use dmy dates|date=November 2015}}
+{{Use Indian English|date=November 2015}}
+{{multiple issues|
+{{More citations needed|date=August 2014}}
+{{No plot|date=July 2020}}
+{{Unreliable sources|date=July 2020}}
+}}
+{{Infobox film
+| name           = Madhosh
+| image          =
+| image_size     =
+| caption        =
+| director       = [[Vikram Bhatt]]
+| producer       = [[Tahir Hussain]]
+| writer         =Madan Joshi (dialogues)
+| screenplay     =Vikram Bhatt<br>Salim Raza
+| narrator       =
+| starring       = [[Dilip Dhawan]]<br>Anjali Jathar<br>[[Faisal Khan]]
+| music          = [[Anand-Milind]]
+| cinematography =Sameer Arya
+| editing        =B. Prasad
+| studio         = Tahir Hussain Enterprises<br>T. V. Films
+| distributor    =
+| released       = 4 February 1994
+| runtime        =
+| country        = India
+| language       = Hindi
+| budget         =
+| gross          =
+| preceded_by    =
+| followed_by    =
+| website        =
+}}
+
+'''''Madhosh''''' is a [[Bollywood films of 1994|1994]] [[India]]n film directed by [[Vikram Bhatt]] and produced by [[Tahir Hussain]]. The film is Tahir Hussain's son [[Faisal Khan]]'s debut as a leading actor, having previously played bit parts in his brother [[Aamir Khan]]'s films ''[[Qayamat Se Qayamat Tak]]'' and ''[[Jo Jeeta Wohi Sikandar]]''. The film also stars Anjali Jathar in her film debut, [[Kiran Kumar]], [[Dilip Dhawan]] and [[Supriya Pathak]]. The film bombed at the box-office, but was appreciated for its musical score.
+
+==Cast==
+*[[Dilip Dhawan]]
+*[[Anjali Jathar]]
+*[[Faisal Khan]]
+*[[Kiran Kumar]]
+*[[Supriya Pathak]]
+*[[Parikshat Sahni]]
+
+==Soundtrack==
+[[Anand-Milind]] scored the music while [[Sameer (lyricist)|Sameer]] authored the lyrics. The music wasn't successful, but is considered one of the best musical scores from the duo.
+
+{| class="wikitable" style="font-size:95%;"
+! # !! Title !! Singer(s)
+|-
+| 1
+| "Dushamani Chhodo Sanam"<ref>{{cite web|title=Dushamani Chhodo Sanam&nbsp;— Faisal Khan&nbsp;— Madhosh&nbsp;— Bollywood Songs&nbsp;— Sadhana Sargam|url=https://www.youtube.com/watch?v=EaNokuh1Blc|accessdate=2014-06-30}}</ref>
+| [[Udit Narayan]], [[Sadhana Sargam]]
+|-
+| 2
+| "Tere Mere Mere Tere"
+| Udit Narayan, [[Kavita Krishnamurthy]]
+|-
+| 3
+| "Dekho To Jaane Jaana"
+| Udit Narayan, Kavita Krishnamurthy
+|- 
+| 4 
+| "Beparwah Bahut Din Ghoome"
+| [[Kumar Sanu]], Udit Narayan
+|-
+| 5
+| "Mere Sanam Suno Zara"<ref>{{cite web|title=Mere Sanam Suno Zara&nbsp;— Faisal Khan&nbsp;— Madhosh&nbsp;— Bollywood Songs&nbsp;— Sadhana Sargam|url=https://www.youtube.com/watch?v=ZhZHm5TOWWk|accessdate=2014-06-30}}</ref>
+| Udit Narayan, Sadhana Sargam
+|-
+| 6
+| "Bewafa Sangdil"
+| Udit Narayan, Sadhana Sargam
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.imdb.com/title/tt0398170 Madhosh] at the [[Internet Movie Database]]
+
+{{Vikram Bhatt}}
+
+[[Category:1994 films]]
+[[Category:Films directed by Vikram Bhatt]]
+[[Category:Films scored by Anand–Milind]]
+[[Category:1990s Hindi-language films]]
+[[Category:Indian films]]
+
+
+{{1990s-Hindi-film-stub}}

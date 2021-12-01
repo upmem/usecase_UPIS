@@ -1,0 +1,61 @@
+{{Use mdy dates|date=October 2020}}
+{{short description|1927 film}}
+{{Infobox film
+| name =Woman's Law
+| image =
+| image_size =
+| caption =
+| director = [[Dallas M. Fitzgerald]]
+| producer =Dallas M. Fitzgerald
+| writer =  [[H. Tipton Steck ]]
+| narrator =
+| starring = [[Pat O'Malley (actor)|Pat O'Malley]] <br> [[Lillian Rich]] <br> [[Audrey Ferris]]
+| music = 
+| cinematography = [[Milton Moore ]]
+| editing = [[Desmond O'Brien ]]
+| studio =Dallas M. Fitzgerald Productions 
+| distributor = Peerless Pictures 
+| released =  August 15, 1927
+| runtime = 
+| country = United States
+| language = Silent <br> English intertitles
+| budget =
+| gross =
+| preceded_by =
+| followed_by =
+| website =
+}}
+'''''Woman's Law''''' is a 1927 American [[silent film|silent]] [[drama film]] directed by [[Dallas M. Fitzgerald]] and starring [[Pat O'Malley (actor)|Pat O'Malley]], [[Lillian Rich]] and [[Audrey Ferris]].<ref>Munden p.922</ref>
+
+==Cast==
+* [[Pat O'Malley (actor)|Pat O'Malley]] as Trooper Bucky O'Hare 
+* [[Lillian Rich]] as Helene 
+* [[Ernest Wood (actor)|Ernest Wood]] as Vaughan Neil 
+* [[John Cossar ]] as John Collon 
+* [[Harold Miller (actor)|Harold Miller]] as Philip Harley 
+* [[Edward Cecil (actor)|Edward Cecil]] as Inspetor Steele 
+* [[Audrey Ferris]] as Rose La Pierre 
+* [[Sam Allen (actor)|Sam Allen]] as Jules La Pierre
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* Munden, Kenneth White. ''The American Film Institute Catalog of Motion Pictures Produced in the United States, Part 1''. University of California Press, 1997.
+
+==External links==
+* {{IMDb title|0018593}}
+
+{{Dallas M. Fitzgerald}}
+
+[[Category:1927 films]]
+[[Category:1927 drama films]]
+[[Category:English-language films]]
+[[Category:American films]]
+[[Category:American silent feature films]]
+[[Category:American drama films]]
+[[Category:Films directed by Dallas M. Fitzgerald]]
+[[Category:American black-and-white films]]
+
+
+{{1920s-silent-drama-film-stub}}

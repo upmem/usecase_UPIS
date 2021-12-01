@@ -1,0 +1,28 @@
+== Summary ==
+{{album cover fur
+<!-- REQUIRED -->
+|Article=U Got 2 Know
+|Use=Infobox
+<!-- HIGHLY RECOMMENDED -->
+|Source=https://www.discogs.com/Cappella-U-Got-2-Know/release/778305
+<!-- ADDITIONAL INFORMATION -->
+|Name= ''U Got 2 Know''
+|Artist= [[Cappella (band)|Cappella]]
+|Label= [[Mercury Records]]
+|Graphic Artist= 
+|Item= 
+|Type= album
+|Website= 
+|Owner= 
+|Commentary= 
+<!-- OVERRIDE FIELDS -->
+|Description= 
+|Portion= full cover
+|Low_resolution= yes
+|Purpose=
+|Replaceability= 
+|other_information= 
+}}
+
+== Licensing ==
+{{Non-free album cover|image has rationale=yes|auto=yes}}

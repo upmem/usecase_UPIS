@@ -1,0 +1,3 @@
+{{cat more|Wikipedia:WikiProject Telecommunications/Bell System}}
+{{Category class | topic=Bell System | class=Project }}
+{{CatAutoTOC}}

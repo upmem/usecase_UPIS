@@ -1,0 +1,18 @@
+{{CBSB Standings Start|1991 Southeastern Conference baseball standings|Southeastern Conference}}
+{{CBSB Standings Entry| {{abbr|No.|Number}} 1 [[1991 LSU Tigers baseball team|LSU]] |conf-champ=y|ncaa-invited=y|19|7|55|18}}
+{{CBSB Standings Entry| {{abbr|No.|Number}} 4 {{CBSB link|year=1991|team=Florida Gators|title=Florida}} |tourney=y|ncaa-invited=y|16|8|51|21}}
+{{CBSB Standings Entry| {{abbr|No.|Number}} 22 {{CBSB link|year=1991|team=Mississippi State Bulldogs|title=Mississippi State}} |ncaa-invited=y|12|9|42|21}}
+{{CBSB Standings Entry| {{abbr|No.|Number}} 25 {{CBSB link|year=1991|team=Alabama Crimson Tide|title=Alabama}} |ncaa-invited=y|14|11|42|20}}
+{{CBSB Standings Entry| {{CBSB link|year=1991|team=Auburn Tigers|title=Auburn}} |14|12|35|24}}
+{{CBSB Standings Entry| {{CBSB link|year=1991|team=Kentucky Wildcats|title=Kentucky}} |13|12|41|20}}
+{{CBSB Standings Entry| {{CBSB link|year=1991|team=Tennessee Volunteers|title=Tennessee}} |13|13|41|19}}
+{{CBSB Standings Entry| {{CBSB link|year=1991|team=Ole Miss Rebels|title=Ole Miss}} |9|15|31|24}}
+{{CBSB Standings Entry| {{CBSB link|year=1991|team=Vanderbilt Commodores|title=Vanderbilt}} |8|19|29|28}}
+{{CBSB Standings Entry| {{CBSB link|year=1991|team=Georgia Bulldogs|title=Georgia}} |7|19|27|31}}
+{{CBSB Standings End|date=June 30, 1991<ref>{{cite web|url=http://www.boydsworld.com/data/standings/standings1991.html|publisher=Boydsworld.com|title=College Baseball Conference Standings -- 1991|accessdate=December 17, 2014}}</ref>|conf-champ=y|tourney=[[1991 Southeastern Conference Baseball Tournament|Tournament]]|ncaa-invited=y|ncaa-tourney-link=[[1991 NCAA Division I Baseball Tournament|NCAA Tournament]]|poll=[[1991 NCAA Division I baseball rankings#Collegiate Baseball|''Collegiate Baseball'']]}}
+<noinclude>
+{{Template reference list}}
+[[Category:Southeastern Conference baseball standings templates]]
+[[Category:1991 NCAA Division I baseball standings templates|Southeastern Conference]]
+[[Category:1991 Southeastern Conference baseball season|+Standings]]
+</noinclude>

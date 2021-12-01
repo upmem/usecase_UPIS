@@ -1,0 +1,51 @@
+{{short description|1991 film}}
+{{Use dmy dates|date=December 2017}}
+{{Infobox film
+| name           = Alias 'La Gringa'
+| image          = 
+| caption        = 
+| director       = [[Alberto Durant]]
+| producer       = 
+| writer         = Alberto Durant
+| starring       = [[Germán González (actor)|Germán González]]
+| music          = 
+| cinematography = 
+| editing        = 
+| distributor    = 
+| released       = {{Film date|df=yes|1991}}
+| runtime        = 92 minutes
+| country        = Peru
+| language       = Spanish
+| budget         = 
+}}
+
+'''''Alias 'La Gringa'''''' is a 1991 Peruvian [[drama film]] directed by [[Alberto Durant]].<ref name="NYTimes">{{cite web |url=https://www.nytimes.com/movies/movie/144458/Alias-La-Gringa-/overview |title=Alias 'La Gringa' |accessdate=19 September 2015 |work=NY Times}}</ref><ref name="filmaffinity">{{cite web |url=http://www.filmaffinity.com/en/film316781.html |title=Alias 'La Gringa' |accessdate=19 September 2015 |work=Film Affinity}}</ref> The film was selected as the Peruvian entry for the [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]] at the [[64th Academy Awards]], but was not accepted as a nominee.<ref>Margaret Herrick Library, Academy of Motion Picture Arts and Sciences</ref> [[El Frontón]] is the main setting for the film.<ref>James Higgins -Lima: A Cultural and Literary History - Page 193 1902669983  2005  El Fronton is the main setting for Alberto Durant's Alias "La Gringa" (1991), a film evoking the contradictions of Peruvian society by showing common criminals and Shining Path militants sharing the same space. Though founded in 1537, Callao is a relatively modern town, as in 1746 it was destroyed by a massive earthquake and a huge tidal wave which wiped out most of its population. So great was the wave that it is said to have reached as far as the eighteenth-century church of ..</ref>
+
+==Cast==
+* [[Germán González (actor)|Germán González]] as La Gringa
+* [[Elsa Olivero]]
+* [[Orlando Sacha]]
+* [[Juan Manuel Ochoa]]
+* [[Enrique Victoria]]
+* [[Gonzalo de Miguel]]
+* [[Ramón García (actor)|Ramón García]]
+* [[Aristóteles Picho]]
+
+==See also==
+* [[List of submissions to the 64th Academy Awards for Best Foreign Language Film]]
+* [[List of Peruvian submissions for the Academy Award for Best Foreign Language Film]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|0101293|Alias 'La Gringa'}}
+
+{{DEFAULTSORT:Alias La Gringa}}
+[[Category:1991 films]]
+[[Category:1991 drama films]]
+[[Category:Peruvian films]]
+[[Category:Spanish-language films]]
+[[Category:Peruvian drama films]]
+{{Peru-film-stub}}
+{{1990s-drama-film-stub}}

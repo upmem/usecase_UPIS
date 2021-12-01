@@ -1,0 +1,29 @@
+[[File:Gunnar Sand.JPG|thumb|right|'''Gunnar Sand''']]
+{{short description|Norwegian politician}}
+'''Gunnar Sand''' (9 August 1909 – 28 December 1983) was a [[Norway|Norwegian]] politician for the [[Norwegian Labour Party|Labour Party]].
+
+He was organized in the [[Norwegian Union of Postmen]], and joined the Labour Party in 1925. He was leader of the local [[Workers' Youth League (Norway)|Workers' Youth League]] branch in [[Trondheim]] from 1928 to 1929 and 1931 to 1932, deputy leader of the regional branch in [[Trøndelag]] from 1926 to 1927 and 1929 to 1931, and leader from 1931 to 1934. He was a national board member of the Workers' Youth League from 1932 to 1934, secretary in 1934 and leader from 1934. He was also a member of the Labour Party's central board.<ref name=arbleks>{{cite encyclopedia|year=1936|volume=6|title=Sand, Gunnar|encyclopedia=[[Arbeidernes Leksikon]]|editor1=[[Jakob Friis|Friis, Jakob]] |editor2=[[Trond Hegna|Hegna, Trond]] |editor3=[[Dagfin Juel|Juel, Dagfin]] |publisher=Arbeidermagasinets Forlag|location=Oslo|language=Norwegian|pages=209–210}}</ref> He was re-elected at the Workers' Youth League national convention in 1937.<ref name=salt>{{cite book|last=Halvorsen|first=Terje|title=Partiets salt|date=2003|publisher=Pax|location=Oslo|language=Norwegian|isbn=82-530-2576-9|page=536}}</ref> During the [[occupation of Norway by Nazi Germany]], starting in 1940, the organization was forbidden. Sand himself was imprisoned in [[Møllergata 19]] from 5 September to 19 November 1940.<ref>{{cite book|editor=[[Kristian Ottosen|Ottosen, Kristian]]|title=Nordmenn i fangenskap 1940–1945|edition=2nd|year=2004|publisher=Universitetsforlaget|location=Oslo|language=Norwegian|isbn=82-15-00288-9|page=599}}</ref> He fled to Sweden, where he from 1943 led the executive committee of the Workers' Youth League-in-exile. After the Second World War, he was succeeded as acting chairman by [[Trygve Bratteli]], but was a member of the central board until 1946.<ref name=salt/>
+He was the first secretary-general in the association [[Folk og Forsvar]], which promotes the public understanding of military affairs.
+He chaired the friendship association Friends of Israel in the Norwegian Labour Movement (Norwegian: Venner av Israel i Norsk Arbeiderbevegelse).
+
+He died in December 1983 and was buried at [[Vestre gravlund]].<ref name=dis>{{cite web|url=http://www.disnorge.no/gravminner/vis.php?mode=x|title=Cemeteries in Norway|publisher=DIS-Norge|language=Norwegian|accessdate=4 February 2011}}</ref>
+
+==References==
+{{Reflist}}
+
+{{s-start}}
+{{s-ppo}}
+{{succession box |title=Chairman of the [[Workers' Youth League (Norway)|Workers' Youth League]] |before=[[Kåre Hansen]] |after=[[Trygve Bratteli]] (''acting'') |years=1934–1945 }}
+{{s-end}}
+
+{{DEFAULTSORT:Sand, Gunnar}}
+[[Category:1909 births]]
+[[Category:1983 deaths]]
+[[Category:Politicians from Trondheim]]
+[[Category:Labour Party (Norway) politicians]]
+[[Category:Norwegian resistance members]]
+[[Category:Norwegian expatriates in Sweden]]
+[[Category:Burials at Vestre gravlund]]
+
+
+{{Norway-politician-1900s-stub}}

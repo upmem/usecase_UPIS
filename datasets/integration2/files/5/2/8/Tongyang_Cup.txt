@@ -1,0 +1,47 @@
+{{Unreferenced|date=December 2009}}
+The '''Tongyang Cup''' ([[Korean language|Korean]]: 동양증권배 세계선수권전, [[Hanja]]: 東洋證券杯世界選手權戰) was a [[Go competitions|Go competition]]. The Tong Yang Cup was sponsored by [[Tongyang Securities]] of South Korea. The tournament was run from 1988 to 1998, with players from [[South Korea]], [[Taiwan]], [[the United States]], [[Japan]], [[China]] and European countries.
+
+==Past winners==
+{|  class="wikitable"
+!Years Played || Winner || Runner Up
+|-
+| align="center" | [[1st Tong Yang Cup|1988-1989]]
+| {{Flagicon|South Korea|1984}} [[Yang Jae-ho]]
+| {{Flagicon|South Korea|1984}} [[Jang Soo Young]]
+|-
+| align="center" | [[2nd Tong Yang Cup|1989-1990]]
+| {{Flagicon|South Korea|1984}} [[Seo Bongsoo]]
+| {{Flagicon|South Korea|1984}} [[Lee Chang-ho]]
+|-
+| align="center" | [[3rd Tong Yang Cup|1990-1992]]
+| {{Flagicon|South Korea|1984}} Lee Chang-ho
+| {{Flagicon|Japan|1947}} [[Rin Kaiho]]
+|-
+| align="center" | [[4th Tong Yang Cup|1992-1993]]
+| {{Flagicon|South Korea|1984}} Lee Chang-ho
+| {{Flagicon|Japan|1947}} [[Cho Chikun]]
+|-
+| align="center" | [[5th Tong Yang Cup|1993-1994]]
+| {{Flagicon|South Korea|1984}} [[Cho Hunhyun]]
+| {{Flagicon|Japan|1947}} [[Yoda Norimoto]]
+|-
+| align="center" | [[6th Tong Yang Cup|1994-1995]]
+| {{Flagicon|China}} [[Ma Xiaochun]]
+| {{Flagicon|China}} [[Nie Weiping]]
+|-
+| align="center" | [[7th Tong Yang Cup|1995-1996]]
+| {{Flagicon|South Korea|1984}} Lee Chang-ho
+| {{Flagicon|China}} [[Ma Xiaochun]]
+|-
+| align="center" | [[8th Tong Yang Cup|1997]]
+| {{Flagicon|South Korea}} Cho Hunhyun
+| {{Flagicon|Japan|1947}} [[Satoru Kobayashi (Go player)|Kobayashi Satoru]]
+|-
+| align="center" | [[9th Tong Yang Cup|1998]]
+| {{Flagicon|South Korea}} Lee Chang-ho
+| {{Flagicon|South Korea}} [[Yoo Changhyuk]]
+|}
+
+{{International go titles}}
+
+[[Category:Go competitions]]

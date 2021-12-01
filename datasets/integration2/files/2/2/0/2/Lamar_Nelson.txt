@@ -1,0 +1,65 @@
+{{short description|Jamaican footballer}}
+{{Use dmy dates|date=March 2020}}
+{{Use Jamaican English|date=March 2020}}
+{{Infobox football biography
+| name                = Lamar Nelson
+| image               = 
+| caption             = 
+| fullname            = Lamar Delmarro Nelson
+| birth_date          = {{Birth date and age|1991|8|19|df=y}}
+| birth_place         = 
+| height              = 
+| position            = Midfielder
+| currentclub         = [[Waterhouse F.C.]]
+| clubnumber          = 
+| youthyears1         = 
+| youthclubs1         = 
+| years1              = 2009 – 2013
+| clubs1              = [[Arnett Gardens F.C.]]
+| caps1               = 
+| goals1              = 
+| years2              = 2013 – 2015
+| clubs2              = [[Waterhouse F.C.]]
+| caps2               = 16
+| goals2              = 2
+| years3              = 2015 – 
+| clubs3              = [[Arnett Gardens F.C.]]
+| caps3               = 
+| goals3              = 
+| nationalyears1      = 2012–
+| nationalteam1       = Jamaica
+| nationalcaps1       = 1
+| nationalgoals1      = 0
+| medaltemplates      = 
+| club-update         = 
+| nationalteam-update = 
+}}
+
+'''Lamar Delmarro Nelson''' is a Jamaican footballer who plays for [[Arnett Gardens F.C.]] in the top-flight [[National Premier League|Jamaica National Premier League]]. He is also known as "Wanka".<ref>{{cite web|last=Walker|first=Howard|title='Junglists' excited over rising star Wanka|url=http://www.jamaicaobserver.com/sport/-Junglists--excited-over-rising-star-Wanka_12652360|publisher=Jamaica Observer|accessdate=11 December 2012|date=30 September 2012}}</ref>
+
+== Club career ==
+
+Nelson started his senior career at [[Arnett Gardens F.C.]].
+
+In 2013, Nelson signed with Waterhouse FC in the RSPL.<ref>{{cite news | url=http://jamaica-gleaner.com/gleaner/20130820/sports/sports5.html | title='Wonka' transfers to Waterhouse FC | date=20 August 2013 | newspaper=The Gleaner | location=Jamaica | first=Marc | last=Stamp | accessdate=9 March 2020 }}</ref> After an extended layoff due to knee surgery, in June 2015, Nelson returned to Arnett Gardens.<ref>http://www.jamaicaobserver.com/sport/Injured-Lamar-Nelson-needs--750-000-for-career-saving-knee-surgery-soon_18129228</ref><ref>http://jamaica-gleaner.com/article/sports/20150609/lamar-wonka-nelson-back-arnett-gardens-after-surgery</ref>
+
+== International career ==
+
+He made his international début for Jamaica in a 0–0 with Martinique on 10 December 2012 in the [[2012 Caribbean Cup]].
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+*{{Soccerway|lamar-delmarro-nelson/245707}}
+
+{{DEFAULTSORT:Nelson, Lamar}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Jamaican footballers]]
+[[Category:Jamaica international footballers]]
+[[Category:Arnett Gardens F.C. players]]
+[[Category:Association football midfielders]]
+
+{{Jamaica-footy-bio-stub}}

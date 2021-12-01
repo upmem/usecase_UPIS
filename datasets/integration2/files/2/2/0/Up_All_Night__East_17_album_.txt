@@ -1,0 +1,214 @@
+{{Use British English|date=January 2014}}
+{{Use dmy dates|date=January 2014}}
+
+{{Infobox album
+| name       = Up All Night
+| type       = Studio
+| artist     = [[East 17]]
+| cover      = East17up.jpg
+| alt        =
+| released   = 13 November 1995
+| recorded   = 1995
+| venue      =
+| studio     =
+| genre      = [[Pop music|Pop]]
+| length     =
+| label      = [[London Records|London]]
+| producer   = Rob Kean ([[executive producer|exec.]]), [[Brian Harvey]], John Hendy, [[Phil Harding (producer)|Phil Harding]], Ian Curnow, [[Tony Mortimer]], [[Terry Coldwell]]
+| prev_title = [[Steam (East 17 album)|Steam]]
+| prev_year  = 1994
+| next_title = [[Around The World Hit Singles: The Journey So Far]]
+| next_year  = 1996
+| misc       = {{Singles
+ | name        = Up All Night
+ | type        = studio
+ | single1     = Thunder
+ | single1date = 23 October 1995
+ | single2     = Do U Still?
+ | single2date = 29 January 1996
+ | single3     = Someone to Love
+ | single3date = 29 July 1996
+}}
+}}
+
+{{Album ratings
+| rev1      = [[Allmusic]]
+| rev1Score = {{rating|3|5}}<ref>{{Allmusic|class=album|id=r233293|}}</ref>
+}}
+
+'''''Up All Night''''' is the third studio album by [[East 17]] and the last to feature the group's entire original lineup. It was released in November 1995. It is notable in that all members of the group made songwriting contributions to the album, although all three singles released were still penned by [[Tony Mortimer]].
+
+The album was certified as Platinum in the UK.
+
+== Track listing ==
+{{Track listing
+| headline        = Standard version
+| extra_column    = Producer(s)
+| title1          = Innocent Erotic
+| writer1         = John Hendy, Tony Vickers, Rob Kean
+| extra1          = [[Phil Harding (producer)|Phil Harding]], Ian Curnow, Hendy
+| length1         =
+| title2          = [[Thunder (East 17 song)|Thunder]]
+| writer2         = [[Tony Mortimer]]
+| extra2          = Harding, Curnow, Mortimer, Ian Stanley{{ref|a|[a]}}
+| length2         =
+
+| title3          = I Remember
+| writer3         = Terry Coldwell, Dominic Hawken
+| extra3          = Harding, Curnow, Coldwell
+| length3         =
+
+| title4          = Do U Still
+| writer4         = Mortimer
+| extra4          = Harding, Curnow, Mortimer
+| length4         =
+
+| title5          = Gotta Keep On
+| writer5         = [[Brian Harvey]]
+| extra5          = Harding, Curnow, Harvey
+| length5         =
+
+| title6          = Ghetto
+| writer6         = Harvey
+| extra6          = Harding, Curnow, Harvey
+| length6         =
+
+| title7          = Looking For
+| writer7         = Coldwell
+| extra7          = Harding, Curnow, Coldwell
+| length7         =
+
+| title8          = Best Days
+| writer8         = Hendy, Vickers, Kean
+| extra8          = Harding, Curnow, Hendy
+| length8         =
+
+| title9          = Don't You Feel So Good
+| writer9         = Coldwell, Hawken
+| extra9          = Harding, Curnow, Coldwell
+| length9         =
+
+| title10         = Free Your Mind
+| writer10        = Hendy, Vickers, Kean
+| extra10         = Harding, Curnow, Hendy
+| length10        =
+
+| title11         = Right Here with You
+| writer11        = Harvey
+| extra11         = Harding, Curnow, Harvey
+| length11        =
+
+| title12         = Someone to Love
+| writer12        = Mortimer
+| extra12         = Harding, Curnow, Mortimer
+| length12        =
+
+| title13         = It's All Over
+| writer13        = Mortimer
+| extra13         = Harding, Curnow, Mortimer
+| length13        = 
+}}
+{{Track listing
+| headline        = Japanese version (bonus track)
+| collapsed       = yes
+| title14         = Overture Medley (from Letting Off Steam Tour '94)
+| note14          = "Let It Rain" / "Stay Another Day" / "House of Love" / "Gold" / "It's Alright" / "Be There"
+| writer14        = 
+| extra14         = 
+| length14        = 9:29
+}}
+;Notes
+*<sup>{{note|a|[a]}}</sup> signifies a producer
+
+== Charts ==
+{| class="wikitable sortable"
+!align="left"|Chart (1995)
+!align="left"|Peak<br />position
+|-
+|Australian Albums ([[Australian Albums Chart|ARIA]])<ref>{{cite book | last=Ryan | first=Gavin |date=2011| title=Australia's Music Charts 1988–2010| location=Mt. Martha, VIC, Australia|publisher=Moonlight Publishing}}</ref>
+| style="text-align:center;"|72
+|-
+{{albumchart|Austria|28|artist=East 17|album=Up All Night}}
+|-
+|Belgian Albums ([[Ultratop]] Wallonia)
+|align="center"|23
+|-
+{{albumchart|Netherlands|75|artist=East 17|album=Up All Night}}
+|-
+|align="left"|[[European Albums Chart]]<ref>{{cite magazine|url=https://books.google.com/books?id=JA0EAAAAMBAJ&pg=PA84|title=Hits of the World – Eurochart|work=[[Billboard (magazine)|Billboard]]|publisher=[[Nielsen Business Media, Inc.]]|date=16 December 1995|volume=107|issue=50|pages=84-85|issn=0006-2510}}</ref>
+| style="text-align:center;"|17
+|-
+|French Albums ([[Syndicat National de l'Édition Phonographique|SNEP]])<ref>{{cite web | title=Les Chart Runs de chaque Album depuis 1985 | website=InfoDisc | url=http://www.infodisc.fr/Album_ChartRuns.php | language=fr | access-date=2019-09-27 |postscript=, (Select 'EAST 17' from list)}}</ref>
+|align="center"|30
+|-
+{{albumchart|Germany|17|artist=East 17|album=Up All Night}}
+|-
+|align="left"|Hungarian Albums ([[Mahasz|Rádiós Top 40]])<ref>{{cite web|url=http://www.mahasz.hu/?menu=slagerlistak&menu2=archivum|title=Archívum – Slágerlisták – MAHASZ – Magyar Hanglemezkiadók Szövetsége |publisher=Mahasz.hu |accessdate=31 December 2011}}</ref>
+| style="text-align:center;"|15
+|-
+|Irish Albums ([[Irish Recorded Music Association|IRMA]])<ref>{{Cite web|url=http://irish-charts.com/showitem.asp?interpret=East+17&titel=Up+All+Night&cat=a|title=irishcharts.com – East 17 – Up All Night|website=irish-charts.com}}</ref>
+|align="center"|12
+|-
+{{albumchart|Italy|11|artist=East 17|album=Up All Night}}
+|-
+{{albumchart|Norway|32|artist=East 17|album=Up All Night}}
+|-
+|align="left"|Russian Albums ([[Russian Music Charts|NFPF]])
+|align="center"|1
+|-
+|Scottish Albums ([[Official Chart Company|OCC]])<ref>{{Cite web|url=https://www.officialcharts.com/charts/scottish-albums-chart/19951119/40/|title=Official Scottish Albums Chart Top 100 &#124; Official Charts Company|website=www.officialcharts.com}}</ref>
+|align="center"|13
+|-
+{{albumchart|Switzerland|14|artist=East 17|album=Up All Night}}
+|-
+{{albumchart|UK|7|artist=East 17}}
+|-
+|}
+
+=== Year-end charts ===
+
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+!scope="column"|Chart (1996)
+!scope="column"|Position
+|-
+|align="left"|German Albums Chart<ref>{{cite web |url=https://www.offiziellecharts.de/charts/album-jahr/for-date-1996 |title=Top 100 Album-Jahrescharts|language=German |publisher=[[GfK Entertainment]]|accessdate=September 8, 2016}}</ref>
+|align="center"|90
+|}
+=== Certifications ===
+{{Certification Table Top}}
+{{Certification Table Entry|region=Switzerland|type=album|artist=East 17|title=Up All Night|accessdate=25 July 2012|relyear=1993|award=Gold}}
+{{Certification Table Entry|region=United Kingdom|type=album|artist=East 17|title=Up All Night|award=Platinum|accessdate=25 July 2012|relyear=1995|salesamount=300,000}}
+{{certification Table Bottom|nosales=yes}}
+
+== Year-end charts ==
+{| class="wikitable"
+!align="left"|Chart (1995)
+!align="left"|Peak<br />position
+|-
+|align="left"|[[UK Albums Chart]]
+|43
+|-
+!align="left"|Chart (1996)
+!align="left"|Peak<br />position
+|-
+|align="left"|German Albums<ref>{{Cite web|url=https://www.offiziellecharts.de/charts/album-jahr/for-date-1996|title=Offizielle Deutsche Charts – Offizielle Deutsche Charts|website=www.offiziellecharts.de}}</ref>
+| style="text-align:center;"|90
+|-
+|}
+
+== References ==
+{{reflist}}
+
+== Additional Sources ==
+*[https://www.amazon.co.uk/Up-All-Night-East-17/dp/B000006YEL/ref=sr_1_7?ie=UTF8&s=music&qid=1198810084&sr=1-7 Amazon.co.uk East 17: Up All Night]
+*[http://www.discogs.com/East-17-Up-All-Night/release/668901 discogs.com East 17: Up All Night]
+
+{{East 17}}
+
+[[Category:1995 albums]]
+[[Category:East 17 albums]]
+[[Category:London Records albums]]
+
+
+{{1990s-pop-album-stub}}

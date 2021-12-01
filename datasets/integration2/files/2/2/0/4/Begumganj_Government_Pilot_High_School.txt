@@ -1,0 +1,53 @@
+
+{{Infobox school
+| name                   = Begumganj Government Pilot High School
+| image                  = 
+| alt                    = 
+| caption                = 
+| motto                  = ''Brilliance, Discipline, Glory''
+| location               = [[Chowmuhani]], [[Begumganj Upazila]], [[Noakhali District]]
+| country                = Bangladesh
+| coordinates            = {{Coord|22.9455|N|91.1112|E|region:BD_type:edu|display=inline,title}}
+| established            = {{Start date|1857}}
+| opened                 = 
+| closed                 =
+| type                   = [[Secondary School]]
+| schoolboard            = [[Board of Intermediate and Secondary Education, Comilla]]
+| grades                 = [[Sixth grade|6]] to [[Tenth grade|10]]
+| superintendent         = 
+| school_code            = 107191
+| principal              = 
+| gender                 = [[Mixed-sex education|Coed]]
+| enrollment             = 800
+| faculty                = 
+| campus_type            = [[Urban area|Urban]]
+| campus_size            = 
+| team_name              = 
+| newspaper              = 
+| colors                 = {{color box|#FFFFFF}} White
+| communities            = 
+| feeders                = 
+| website                =  {{URL|1=http://www.facebook.com/bgphs.57/|2=www.fb.com/BGPHS.57}}
+| footnotes              =
+}}
+'''Begumganj Government Pilot High School''' ({{lang-bn|বেগমগঞ্জ সরকারী পাইলট উচ্চ বিদ্যালয়}}) is a secondary school with EIIN 107191 located in the [[Chowmuhani]] town of [[Begumganj Upazila]], [[Noakhali District]], [[Bangladesh]].<ref>{{cite web |url=http://moedu.portal.gov.bd/sites/default/files/files/moedu.portal.gov.bd/npfblock//Secondary%20School.xls |title=List of Secondary Schools |author=<!--Staff writer(s); no by-line.--> |website=Ministry of Education |format=XLS |accessdate=5 January 2017}}</ref> The school offers education for students ranging from [[sixth grade]] to [[tenth grade]].
+
+==History==
+In 1815, the school started its journey as a minor school on the bank of the famous Alipur pond. The [[British raj|British Colonial]] found it with a purpose of an initial step to enlighten education in [[Begumganj Upazila]]. In 1857, the school was shifted to its current location, north side of Begumganj bridge as a [[secondary school]]. On 31 December 1987, the school gained the [[Ministry of Education (Bangladesh)|honor of government]] and have been running as a government high school since 1988.
+
+==Facilities==
+At present, it has 3 large buildings, one large side-walled hall room and 2 residential hostels only for the teachers and school stuffs. There is a big field in the school arena. The school has got a [[mosque]] and two big ponds as well. There are about 30 teachers and other facilities including an [[auditorium]], a [[library]], three [[laboratory|laboratories]] and a [[Computer lab|computer room]]. The authority also organizes morning assembly, annual sports function, annual prize giving ceremony, many religious festivals and different cultural programmes.
+==Admission==
+Usually students are admitted in the [[sixth grade]]. Admission can be considered in other classes if a vacancy is available or if someone is transferred from some other government school. Students who want to get admitted in this school must be passed in the previous grade and have to go through an [[entrance examination]]. The examination is usually taken in the first week of January.
+
+==Sections==
+From the very beginning, the school is continuing the classes with a single shift. However, all the grades from 6th to 8th has two sections. The 9th and 10th grade students are offered 3 different sections [[Science]], [[Commerce]] and [[Arts]] that can be chosen by their own.
+
+==Uniform==
+The uniform is a white shirt with white full pant and white shoes and black belt. The school [[monogram]] have to be contained on the pocket of the white shirt.
+
+==References==
+{{Reflist}}
+
+[[Category:High schools in Bangladesh]]
+[[Category:Schools in Noakhali District]]

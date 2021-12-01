@@ -1,0 +1,31 @@
+{{Navbox
+|name  = 28th Government of Ireland
+|title = <noinclude><small>&laquo; ''[[Template:27th Government of Ireland|27th Government]]'' &laquo;</small> &nbsp; </noinclude><span style="padding:0 4.5em">[[Government of the 30th Dáil#28th Government of Ireland|Cowen Cabinet]] (2008–2011)</span><noinclude> &nbsp; <small>&raquo; ''[[Template:29th Government of Ireland|29th Government]]'' &raquo;</small></noinclude>
+|image = 
+|state = {{{state<includeonly>|collapsed</includeonly>}}}
+|bodyclass = hlist
+
+|above = 
+* '''[[Taoiseach]]:''' [[Brian Cowen]]
+
+|list1 =  
+* [[Dermot Ahern]]
+* [[Pat Carey]]
+* [[Mary Coughlan (politician)|Mary Coughlan]]
+* [[Martin Cullen]]
+* [[Noel Dempsey]]
+* [[John Gormley]]
+* [[Mary Hanafin]]
+* [[Mary Harney]]
+* [[Tony Killeen]]
+* [[Brian Lenihan Jnr|Brian Lenihan]]
+* [[Micheál Martin]]
+* [[Éamon Ó Cuív]]
+* [[Willie O'Dea]]
+* [[Batt O'Keeffe]]
+* [[Eamon Ryan]]
+* [[Brendan Smith (politician)|Brendan Smith]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Ireland cabinet templates|Government 28]]
+</noinclude>

@@ -1,0 +1,79 @@
+{{Use dmy dates|date=November 2012}}
+{{infobox rugby biography
+| name           = Kristian Dacey
+| image          = 
+| image_size     = 
+| caption        = 
+| alt            = 
+| birth_name     = Kristian Dacey
+| birth_date     = {{birth date and age|1989|7|25|df=yes}}
+| birth_place    = [[Merthyr Tydfil]], [[Wales]]
+| death_date     = 
+| death_place    = 
+| height         = {{convert|188|cm|ftin|abbr=on}}
+| weight         = {{convert|112|kg|lb stlb|abbr=on}}
+| school         = Bishop Hedley High School
+| university     = 
+| spouse         = 
+| children       = 
+| relatives      = 
+| occupation     = 
+| ru_currentteam         = [[Cardiff Blues]]
+| ru_position            = Hooker
+| ru_youthyears          = &nbsp;
+| ru_youthclubs          = [[Abercynon RFC|Abercynon]]<br>[[Merthyr RFC|Merthyr]]
+| ru_clubyears           = 2008–2011<br>2011–
+| ru_proclubs            = [[Pontypridd RFC]]<br>[[Cardiff Blues]]
+| ru_clubcaps            = 39 <br>158 
+| ru_clubpoints          = (0)<br>(130)
+| ru_clubupdate          = December 11 2019
+| ru_provinceyears       = 
+| ru_province            = 
+| ru_provincecaps        = 
+| ru_provincepoints      = 
+| super14years           = &nbsp;
+| super14                = 
+| super14caps            = 
+| super14points          = 
+| ru_nationalyears       = 2015–
+| ru_nationalteam        = [[Wales national rugby union team|Wales]]<br>
+| ru_nationalcaps        = 8
+| ru_nationalpoints      = (0)
+| ru_ntupdate            = 2 December 2017
+| ru_sevensnationalyears = &nbsp;
+| ru_sevensnationalteam  = 
+| ru_sevensnationalcomp  = 
+| ru_coachyears          = 
+| ru_coachclubs          = 
+| ru_refereeyears        = 
+| ru_refereecomps        = 
+| ru_refereeapps         = 
+}}
+
+'''Kristian Dacey''' (born 25 July 1989) is a [[Wales|Welsh]] [[rugby union]] player. A hooker, he plays club rugby for the  [[Cardiff Blues]] having started his rugby playing with [[Merthyr RFC]] before honing his skills at Pontypridd RFC.
+
+On 20 January 2015, Dacey was named in the 34-man [[Wales national rugby union team|Wales]] squad for the [[2015 Six Nations Championship]]<ref>{{cite web|url=http://www.wru.co.uk/eng/news/32454.php#.VL43f02p7IU|title=Wales name 34-man Six Nations squad|work=WRU|date=20 January 2015}}</ref>
+
+Dacey made his full international debut for Wales versus Ireland on 8 August 2015 as a second-half replacement.
+
+Dacey was called into the British and Irish Lions as a Squad player but didn't get any game time.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://archive.today/20130118181000/http://www.cardiffblues.com/rugby/blues_squad.php?player=62079&includeref=dynamic Cardiff Blues profile]
+
+{{Cardiff Blues squad}}
+
+{{DEFAULTSORT:Dacey, Kristian}}
+[[Category:Welsh rugby union players]]
+[[Category:Wales international rugby union players]]
+[[Category:Cardiff Blues players]]
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Rugby union players from Merthyr Tydfil]]
+[[Category:Merthyr RFC players]]
+[[Category:People educated at Bishop Hedley High School]]
+
+{{Wales-rugbyunion-bio-stub}}

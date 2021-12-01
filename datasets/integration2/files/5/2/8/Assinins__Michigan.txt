@@ -1,0 +1,54 @@
+{{Infobox NRHP
+  | name = Assinins
+  | nrhp_type = hd    | nocat = yes  
+  | image = Assinins 2009.jpg
+  | caption = House in Assinins
+  | location= [[U.S. Route 41 in Michigan|US 41]], Assinins, Michigan
+  | coordinates = {{coord|46|48|43|N|88|28|33|W|display=inline,title}}
+| locmapin = Michigan#USA
+  | map_caption = Location within the state of Michigan
+  | area =
+  | architect = Fr. [[Frederic Baraga]]
+  | architecture = 
+  | added = May 19, 1972
+  | governing_body = Private
+  | refnum = 72000591<ref name="nris">{{NRISref|2009a}}</ref>
+  | designated_other1 = Michigan State Historic Site
+  | designated_other1_date = June 19, 1971<ref name = "state"/>
+  | designated_other1_number = 
+  | designated_other1_num_position = bottom
+}}
+'''Assinins''' is a [[historic district (United States)|historic district]] consisting of several buildings that were originally a school and orphanage, located in '''Assinins, Michigan'''. The district was listed on the [[National Register of Historic Places]] in 1972.<ref name = "nris"/>
+
+== History ==
+[[Image:Assinins Buildings 2009.jpg|left|thumb|Buildings in Assinins]]
+[[Image:Assinins Orphanage Building 2009.jpg|left|thumb|Orphanage building]]
+Assinins was founded in 1843 by Bishop [[Frederic Baraga]],<ref name="state">[http://www.mcgi.state.mi.us/hso/sites/2700.htm Assinins] {{webarchive |url=https://web.archive.org/web/20110606153246/http://www.mcgi.state.mi.us/hso/sites/2700.htm |date=June 6, 2011 }} from the State of Michigan, retrieved 12/30/09</ref> who came to the area at the invitation of Chief [[Edward Assinins]].<ref name="hunts">[http://hunts-upguide.com/assinins.html Assinins] {{webarchive |url=https://web.archive.org/web/20100106030906/http://hunts-upguide.com/assinins.html |date=January 6, 2010 }} from Hunt's Guide to the UP, retrieved 12/30/09</ref>  Assinins was the first person to be baptized at the site.<ref name = "hunts"/> Baraga built the Old St. Joseph Orphanage and School on the site in 1860; wings were added to the building in 1866 and 1877.<ref name = "state"/>  After the [[American Civil War|Civil War]], Baraga gave the complex's land and buildings to Chief Assinins and the Keweenaw band of the [[Chippewa]] Native Americans. The [[orphanage]] housed both Native American and European children;<ref name ="hunts"/> a larger orphanage was built on the site in 1929.<ref name = "state"/> In 1957, the complex was rededicated as the Sacred Heart Friary by the [[Capuchin Fathers]] as their [[novitiate]] until the late 1960s.<ref name = "state"/>  The site was then used as the KBIC tribal Center and was later torn down.<ref name = "state"/>
+
+== Significance ==
+The complex at Assinins is one of the earliest [[Catholic Church|Catholic]] [[mission (Christianity)|mission]]s in the [[Upper Peninsula]] associated with Bishop Frederic Baraga, and served as an important link for establishing rapport between the local [[Odawa people|Ottawa]] and Chippewa tribes and settlers arriving from the east.<ref name = "state"/> Baraga helped the local tribes to establish recognized self-governance, and to purchase land in their own names, establishing the tribe's members as local citizens.<ref name = "hunts"/>  The site holds some of the oldest structures in the area, and Bishop Baraga wrote some of his best-known works, including a book on Chippewa grammar and a Chippewa dictionary, while staying in Assinins.<ref name = "state"/>
+
+== Description ==
+The site at Assinins originally consisted of multiple buildings, including over 15 log cabins, spread over approximately {{convert|500|acre|km2}}.<ref name = "state"/>  It currently consists of a school building (now used as a warehouse) and several orphanage buildings.<ref name = "state"/>  The largest structure is the Old St. Joseph Orphanage and School, which stands three stories tall, and is built of rubble with a [[dormer]]ed [[gable roof]].<ref name = "state"/>   Nearby is a cemetery holding the graves of missionaries Father [[Gerhard Terhorst]], Monsignor [[Melchior Faust]], Father [[John Henn]], and Father [[Anthony Vermare]].<ref name = "state"/>
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{citation | title = Come into the Habits of Civilized Life: Nineteenth Century Catholic and Protestant Missionaries in Upper Michigan | author = James E. Seelye, Jr. | year = 2010 |type = dissertation |publisher = University of Toledo | url = http://etd.ohiolink.edu/send-pdf.cgi/Seelye%20James%20E.%20Jr.pdf?toledo1271078733}}
+
+== External links ==
+*[http://www.baragacountyhistoricalmuseum.com/photohistory/assinins.html Historic photos of Assinins]
+
+{{National Register of Historic Places}}
+{{Baraga County, Michigan}}
+
+{{authority control}}
+
+[[Category:Michigan State Historic Sites]]
+[[Category:Unincorporated communities in Baraga County, Michigan]]
+[[Category:Historic districts on the National Register of Historic Places in Michigan]]
+[[Category:Populated places established in 1843]]
+[[Category:Unincorporated communities in Michigan]]
+[[Category:1843 establishments in Michigan]]
+[[Category:National Register of Historic Places in Baraga County, Michigan]]

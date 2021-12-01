@@ -1,0 +1,24 @@
+==Summary==
+{{Non-free use rationale title-card
+| Article           = Riverdale (2017 TV series)
+| Use               = Infobox
+| Purpose           = 
+<!-- ADDITIONAL INFORMATION -->
+| Used for          = 
+| Owner             = [[Warner Bros. Television Distribution]], [[Greg Berlanti|Berlanti Productions]], Archie Comics, [[Warner Bros. Television]], [[CBS Television Studios]], [[The CW]]
+| Description       = 
+| Website           = 
+| History           = 
+| Commentary        = 
+<!-- OVERRIDE FIELDS -->
+| Source            = http://cwtv.com/shows/riverdale/
+| Portion           = 
+| Low resolution    = 
+| Replaceability    = 
+| Other information = 
+}}
+
+==Licensing==
+{{Non-free title-card|image has rationale=yes}}
+
+[[Category:Riverdale (2017 TV series) images]]

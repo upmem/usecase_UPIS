@@ -1,0 +1,22 @@
+__NOTOC__
+<div style="display:block; border:1px solid #aaa; vertical-align:center; width:100%; background-color:#ffffff; margin-bottom:7px; padding-bottom:5px;">
+<h2 style="background-color:#ccccff; text-align:center; font-weight:bold; color:black; margin-bottom:5px; padding:5px 3px 7px 3em; font-size:120%;">Related projects and categories</h2>
+<div style="padding-left:4px;padding-right:4px;vertical-align:top;">
+{{Wikipedia:Graphics Lab/languages}}
+*[[Wikipedia:WikiProject Maps|WikiProject Maps]]
+*[[Wikipedia:WikiProject Photography|WikiProject Photography]]
+*[[:Category:WikiProject Graphics]]
+* [[commons:Main Page|Wikimedia Commons]], place to upload all free images.
+* Image reviewers
+** [[Wikipedia:WikiProject Dinosaurs/Image review]] 
+* Help boards
+** [[Wikipedia:SVG Help]]
+** [[Commons:Commons:Graphics village pump|Commons:Graphics village pump]]
+
+== Image improvement categories ==
+
+* [[:Category:Image files for cleanup]], categorization of images which need improving. {{tl|Cleanup-image}}
+* [[:Category:Images that should be in SVG format]], a category of images that should be vectorized. {{tl|SVG}}
+* [[:Category:SVGs for cleanup]], a category of SVGs needing modifications for improvement. {{tl|Cleanup-SVG}}
+</div>
+</div>

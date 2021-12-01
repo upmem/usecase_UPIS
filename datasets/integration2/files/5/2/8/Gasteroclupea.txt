@@ -1,0 +1,43 @@
+{{italic title}}
+{{Taxobox 
+| name = ''Gasteroclupea''
+| fossil_range = [[Maastrichtian]]<br />~{{fossil range|70.6|66.043}}
+| regnum = [[Animal]]ia
+| image = Gasteroclupea.jpg
+| image_width = 
+| image_caption = Fossil
+| divisio = 
+| classis = [[Osteichthyes]]
+| ordo    = [[Clupeiformes]]
+| familia = [[Clupeidae]]
+| genus   = '''''Gasteroclupea'''''
+| species = ''G. branisai''
+| binomial = ''Gasteroclupea''
+| binomial_authority = Signeux 1964
+}}
+
+'''''Gasteroclupea''''' is a genus of prehistoric [[clupeiformes|clupeiform]] [[fish]] that is related to modern [[anchovies]] and [[herring]]s. Its [[fossils]] date back to the [[Maastrichtian]] stage of the Late [[Cretaceous]] period. Fossils of the genus have been found in the [[Yacoraite Formation]] of Argentina and the [[El Molino Formation]] of Bolivia.<ref name=FWGasteroclupea>[http://fossilworks.org/bridge.pl?a=taxonInfo&taxon_no=35450 ''Gasteroclupea''] at [[Fossilworks]].org</ref>
+
+== References ==
+<references />
+
+== External links ==
+{{Portal|Paleontology|Fish}}
+* [http://zipcodezoo.com/Animals/G/Gasteroclupea_branisai/ ''Gasteroclupea branisai'']
+
+{{Taxonbar|from=Q5526685}}
+
+[[Category:Prehistoric ray-finned fish genera]]
+[[Category:Cretaceous bony fish]]
+[[Category:Maastrichtian life]]
+[[Category:Prehistoric fish of South America]]
+[[Category:Cretaceous Argentina]]
+[[Category:Fossils of Argentina]]
+[[Category:Cretaceous Bolivia]]
+[[Category:Fossils of Bolivia]]
+[[Category:Fossil taxa described in 1964]]
+
+
+{{paleo-rayfinned-fish-stub}}
+{{clupeiformes-stub}}
+{{Cretaceous-fish-stub}}

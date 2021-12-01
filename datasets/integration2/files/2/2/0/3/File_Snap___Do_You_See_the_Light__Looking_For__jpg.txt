@@ -1,0 +1,3 @@
+{{Non-free use rationale album cover | Article = Do You See the Light (Looking For) | Use = Infobox | Name = ''Do You See the Light (Looking For)''}}
+==Licensing==
+{{Non-free album cover|image has rationale=yes}}

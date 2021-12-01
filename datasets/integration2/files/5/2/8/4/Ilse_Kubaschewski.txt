@@ -1,0 +1,34 @@
+{{Infobox person
+| name         = Ilse Kubaschewski
+| image         = 
+| imagesize     = 
+| caption       = 
+| birth_date   =  18 August 1907
+| birth_place  = [[Berlin]], [[German Empire]]
+| death_date   = 30 October 2001 (aged 96)
+| death_place = [[Munich]], [[Germany]]
+| othername   =   Ilse Kramp  
+| occupation  =  Producer
+| yearsactive = 
+}}
+'''Ilse Kubaschewski''' (1907–2001) was a German [[film producer]]. She became one of the prominent figures in the post-war [[Cinema of Germany|German film industry]] after setting up the [[film distribution|distribution]] company [[Gloria Film]] in 1949.<ref>Bergfelder p.74-75</ref>
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* Bergfelder, Tim. ''International Adventures: German Popular Cinema and European Co-Productions in the 1960s''. Berghahn Books, 2005.
+
+==External links==
+*{{IMDb name|0473381}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kubashewski, Ilse}}
+[[Category:1907 births]]
+[[Category:2001 deaths]]
+[[Category:German film producers]]
+[[Category:Film people from Berlin]]
+[[Category:Officers Crosses of the Order of Merit of the Federal Republic of Germany]]
+
+{{Germany-film-bio-stub}}

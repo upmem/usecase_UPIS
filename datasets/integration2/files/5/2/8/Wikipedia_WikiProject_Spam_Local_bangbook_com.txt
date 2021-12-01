@@ -1,0 +1,32 @@
+<!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|0|0|0|0|}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|bangbook.com]]
+== Links ==
+* {{LinkSummary|bangbook.com}}
+:* bangbook.com resolves to [http://141.0.168.6 141.0.168.6]
+:*: {{LinkSummary|141.0.168.6}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{IPSummary|95.97.77.201}}
+
+== Selected additions ==
+No additions recorded.
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bbangbook\.com\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/bangbook.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/bangbook.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 16:37, 9 December 2011 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale. . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 15:27, 20 January 2012 (UTC)

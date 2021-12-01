@@ -1,0 +1,60 @@
+{{Infobox sport governing body
+|name         = Federazione Italiana Vela
+|abbrev       = FIV
+|logo         = Federazione Italiana Vela.gif
+|logosize     = 140 px
+|sport        = [[File:Sailing pictogram.svg|20px]] [[Sailing]]
+|image        = 
+|caption      = 
+|jurisdiction = [[Italy]]
+|founded      = {{Start date|1879}}
+|aff          = [[International Sailing Federation|ISAF]]
+|affdate      = {{Start date|1907}}
+|region       =
+|regionyear   =
+|headquarters = [[Genoa]]
+|location     = {{ITA}}
+|president    = Carlo Croce
+|chairman     =
+|chairperson  =
+|chair        =
+|chiefexec    =
+|secretary    =
+|coach        = 
+|operating income =
+|sponsor      =
+|year closed  =
+|replaced     =
+|prevfounded  =
+|url          = www.federvela.it
+|countryflag  = 
+}}
+
+The '''Italian Sailing Federation''' ({{lang-it|Federazione Italiana Vela, FIV}}) is the [[International Sailing Federation]] Member National Authority for [[Italy]].<ref>http://www.sailing.org/about-isaf/mna/italy.php</ref>
+
+==Notable sailors==
+See [[:Category:Italian sailors]]
+
+===Olympic sailing===
+See [[:Category:Olympic sailors of Italy]]
+
+===Offshore sailing===
+See [[:Category:Italian sailors (sport)]]
+
+==Yacht Clubs==
+See [[:Category:Yacht clubs in Italy]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|www.federvela.it}}
+
+{{National Members of the International Sailing Federation}}
+{{Sports governing bodies in Italy}}
+
+[[Category:National members of World Sailing|Italy]]
+[[Category:Sports governing bodies in Italy|Sailing]]
+[[Category:Yachting associations]]
+[[Category:Sailing governing bodies]]
+[[Category:1927 establishments in Italy]]

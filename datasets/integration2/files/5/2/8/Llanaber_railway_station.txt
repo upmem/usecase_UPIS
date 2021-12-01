@@ -1,0 +1,60 @@
+{{Short description|Railway station in Gwynedd, Wales}}
+{{Use dmy dates|date=July 2015}}
+{{Use British English|date=July 2015}}
+{{Infobox station
+| name                = Llanaber
+| symbol_location     = gb
+| symbol              = rail
+| image               = Llanaber station (geograph 4722084).jpg
+| caption             = Llanaber station on 26 October 2015
+| borough             = [[Llanaber]], [[Gwynedd]]
+| country             = Wales
+| coordinates         = {{coord|52.742|N|4.077|W|type:railwaystation_region:GB|display=inline,title}}
+| grid_name           = [[Ordnance Survey National Grid|Grid reference]]
+| grid_position       = {{gbmapscaled|SH598180|25|SH598180}}
+| manager             = [[Transport for Wales Rail|Transport for Wales]]
+| platforms           = 1
+| code                = LLA
+| classification      = [[United Kingdom railway station categories|DfT category]] F2
+| opened              = 14 August 1911<ref>http://www.rchs.org.uk/wp-content/uploads/2017/03/ChronSupplement2.pdf</ref>
+| mpassengers =
+{{Rail pass box |pass_year=2015/16 |passengers={{increase}} 2,292}}
+{{Rail pass box |pass_year=2016/17 |passengers={{increase}} 2,304}}
+{{Rail pass box |pass_year=2017/18 |passengers={{increase}} 3,318}}
+{{Rail pass box |pass_year=2018/19 |passengers={{decrease}} 2,874}}
+{{Rail pass box |pass_year=2019/20 |passengers={{decrease}} 2,780}}
+| footnotes           = Passenger statistics from the [[Office of Rail and Road]]
+}}
+'''Llanaber railway station''' serves the village of [[Llanaber]] near Barmouth in [[Gwynedd]], [[Wales]]. The station is an unstaffed halt on the [[Cambrian Line|Cambrian Coast Railway]] with passenger services to [[Harlech]], [[Porthmadog]], [[Pwllheli]], [[Barmouth]], [[Machynlleth]] and [[Shrewsbury]]. Most trains call only on request.
+
+The station platform is located on a narrow ledge below the village of Llanaber and immediately above a rocky beach.
+
+Since 22nd June 2020, trains have not called at the station due to the short platform and the inability to maintain social distancing between passengers and the guard when opening the train door.<ref>https://tfwrail.wales/covid-19/changes-train-times</ref>
+
+==January 2014 Storms==
+[[File:Llanaber rail storm damage 2014.jpg|left|thumb|Wave damage caused 3 January 2014, 100m north of the station]]
+On 3 January 2014 wave action washed away 300 tonnes of track bed and deposited 800 tonnes of debris on the line.<ref name=bbcweb>{{cite web|url=https://www.bbc.co.uk/news/uk-wales-north-west-wales-25743400|title=Road trip for storm-hit Barmouth marooned trains|work=BBC |accessdate=12 February 2014}}</ref>  The line was closed for five months whilst [[Network Rail]] engineers repaired the formation and rebuilt the sea wall, with traffic resuming as far as {{rws|Harlech}} on 1 May.  Through services to {{rws|Pwllheli}} remained suspended until 1 September due to rebuilding work on the [[Pont Briwet]] viaduct.
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category-inline|Llanaber railway station}}
+{{stn art lrnk|LLA|LL421AZ}}
+
+{{s-rail-start|noclear=yes}}
+{{s-rail|title=National Rail}}
+{{s-rail-national|next=Talybont|previous=Barmouth|toc=Transport for Wales|route=Cambrian Coast Line}}
+{{s-end}}
+
+{{Gwynedd railway stations}}
+
+[[Category:Railway stations in Gwynedd]]
+[[Category:Former Cambrian Railway stations]]
+[[Category:Railway stations in Great Britain opened in 1911]]
+[[Category:Railway stations served by Transport for Wales Rail]]
+[[Category:Railway request stops in Great Britain]]
+[[Category:Barmouth]]
+
+
+{{Wales-railstation-stub}}

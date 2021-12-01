@@ -1,0 +1,49 @@
+{{Infobox Sailing yacht
+| title        =Camper Lifelovers
+| image        =Volvo Ocean Race - Camper (2).JPG
+| caption      = ''Camper Lifelovers'' during the [[2011–12 Volvo Ocean Race]].
+| othernames   = 
+| club         = 
+| nat          = {{flagcountry|NZL|civil}}
+| class        =[[Volvo Open 70]]
+| sailno       =
+| designer     = Emirates Team New Zealand design team
+| builder      = Cookson Boats, New Zealand
+| launched     = 
+| owner        =
+| fate         =
+| skip         =[[Chris Nicholson (sailor)|Chris Nicholson]]
+| wins         =
+| ac_year      =
+| lc_year      =
+| cc_year      =
+| og_year      =
+| rr_year      =
+| type         =
+| crew         =
+| length       = 
+| beam         = 
+| draft        =
+| height       =
+| displacement =
+| sail         =
+}}
+[[File:VO70 Camper Lyttelton.jpg|thumb|''Camper Lifelovers'' in 2011.]]
+[[File:VO70-Camper-London-2011.jpg|thumb|''Camper Lifelovers'' in 2011.]]
+
+'''''Camper Lifelovers''''' is a [[Volvo Open 70]] yacht. She finished second in the [[2011–12 Volvo Ocean Race]] skippered by [[Chris Nicholson (sailor)|Chris Nicholson]].
+
+==Career==
+''Camper Lifelovers'' was designed by Emirates Team New Zealand design team and built at [[Cookson Boats]] in New Zealand for Camper with [[Team New Zealand]].<ref>{{cite web|url=http://www.mysailing.com.au/news/volvo-ocean-race-camper-rolls-out-of-cookson-s-shed-in-auckland|title=My Sailing: Volvo Ocean Race: Camper rolls out of Cookson's shed in Auckland|work=mysailing.com.au}}</ref> It got the name ''Camper Lifelovers''.<ref>{{cite web|url=http://footwearnews.com/2011/business/news/mediabank-adidas-turf-war-camper-sets-sail-63501/|title=MediaBank: Adidas’ Turf War… Camper Sets Sail… - Footwear News|author=Kristen Henning|work=Footwear News}}</ref><ref>{{cite web|url=http://old.revistametal.com/2011/09/2724/|title=CAMPER LIFELOVERS:|author=yolanda|work=revistametal.com|access-date=2015-09-20|archive-url=https://web.archive.org/web/20160305211418/http://old.revistametal.com/2011/09/2724/|archive-date=2016-03-05|url-status=dead}}</ref> The graphic elements of the boat was designed by [[Mark Farrow]].<ref>{{cite web|url=http://www.camper.com/en_SE/volvo-ocean-race/the-boat|title=Camper in the Volvo Ocean Race - The Boat|work=camper.com}}</ref><ref>{{cite web|url=http://desktopmag.com.au/project-wall/camper-in-the-volvo-ocean-race/#.Vf6S-7QkK2w|title=CAMPER in the Volvo Ocean Race - Desktop|work=DesktopMag}}</ref>
+
+The yacht competed in the [[2011–12 Volvo Ocean Race]] skippered by [[Chris Nicholson (sailor)|Chris Nicholson]], where she finished second after ''[[Groupama 4]]''.<ref>{{cite web|url=http://www.sailing.org/volvo-ocean-race-2011-12.php?view=eventoa&rgtaid=10019&regattaid=10019&evntid=18972#results__10019|title=Events - ISAF - World Sailing - Official Website : Volvo Ocean Race 2011-2012|work=sailing.org}}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Volvo Ocean Race yachts]]
+[[Category:Volvo Open 70 yachts]]
+[[Category:Sailing yachts of New Zealand]]
+[[Category:Sailing yachts built in New Zealand]]
+[[Category:2010s sailing yachts]]
+[[Category:Fastnet Race yachts]]

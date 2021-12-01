@@ -1,0 +1,15 @@
+== Summary ==
+{{Non-free use rationale 2
+|Description = The Interns 1963 single Don't You Dare
+|Source = the authors
+|Date = 1993
+|Author = Rikki Allen, Gerry Allen, J Paske, B Sheppard
+|Article = The Interns (band)
+|Purpose = The Interns musical style as of 1963
+|Replaceability = n.a.
+|Minimality = it is the only example of the band's style in the early part of their professional career. 
+|Commercial = n.a.
+}}
+
+== Licensing ==
+{{Non-free audio sample|image has rationale=yes}}

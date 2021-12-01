@@ -1,0 +1,45 @@
+{{Use dmy dates|date=September 2019}}
+{{Infobox mountain
+| name = Slieve Binnian |other_name = ''Sliabh Binneáin''
+| photo = NI Slieve Binnian.jpg
+| photo_caption = <small>Slieve Binnian with a light dusting of snow</small>
+| elevation_m   = 746
+| elevation_ref = 
+| prominence_m  = 349
+| prominence_ref= 
+| listing = [[Marilyn (hill)|Marilyn]], [[Hewitt (hill)|Hewitt]]
+| location = [[County Down]], [[Northern Ireland]]
+| range = [[Mourne Mountains]]
+| grid_ref_Ireland = J320234
+| topo = [[Ordnance Survey of Northern Ireland|OSNI]] ''Landranger'' 29, OSNI Outdoor Pursuits map ''Mourne Country''
+}}
+'''Slieve Binnian''' ({{Irish derived place name|Sliabh Binneáin|mountain of the little peak}})<ref name="Pla">{{cite web|title=Slieve Binnian|url=http://www.placenamesni.org/resultdetails.php?entry=14905|website=Place Names NI|accessdate=8 May 2015}}</ref> is one of the [[Mourne Mountains]] in [[County Down]], [[Northern Ireland]], 9&nbsp;km north of [[Kilkeel]]. It is the third highest mountain in Northern Ireland at {{convert|747|m|ft|0}}. The summit is broad and flat with rocky [[Tor (rock formation)|tor]]s at the north and south ends, with the ''Back Castles'', impressive towers of granite, in between.<ref name="Mou">{{cite web|title=Slieve Binnian|url=http://www.mourne-mountains.com/mournes/mountains/slieve-binnian/|website=The Mourne Mountains|accessdate=8 May 2015}}</ref><ref name="Wal">{{cite web|title=Slieve Binnian|url=http://www.walkingandhikingireland.com/walking-irelands-iconic-mountains-number-3-slieve-binnian/|website=Walking and Hiking Ireland|accessdate=8 May 2015}}</ref> To the south-west is [[Wee Binnian]] ({{Irish derived place name|Broinn Bhinneáin|womb of Binneán}}) (460m).<ref name="Pla"/> It lies to the east of the [[Silent Valley Reservoir]] and the west of the [[Annalong]] Valley. The [[Mourne Wall]] also crosses over Slieve Binnian.<ref name="Mou"/>
+
+It is situated in the [[townland]] of [[Brackenagh East Upper]] (379 acres), in the [[Civil parishes in Ireland|civil parish]] of [[Kilkeel]] and the historic [[Barony (Ireland)|barony]] of [[Mourne (barony)|Mourne]].<ref name="Pla"/><ref>{{cite web|title=Brackenagh East Upper|url=http://www.thecore.com/seanruad/|website=IreAtlas Townlands Database|accessdate=8 May 2015}}</ref>
+
+==Places of interest==
+*Overlooking Annalong Wood on the eastern slopes of Slieve Binnian is the disused quarry of Douglas Crag.<ref name="Mou"/>
+*What appears to be the remains of an abandoned quarrying village lies on the south eastern slopes of Slieve Binnan. Ruins of rock huts are spread across a landscape littered with part quarried rock.<ref name="Mou"/>
+
+==Binnian Tunnel==
+The [[Binnian Tunnel]] (2.5 miles long) was built between 1947 and 1950/51 underneath Slieve Binnian, to transport water from the Annalong Valley to the Silent Valley. A workforce of 150 was involved in two tunnelling teams which started from opposite ends and met in the middle nearly 800m under the roof of the mountain. Having been carefully measuring their positions the whole time, they found they were only two inches off course when the two tunnels met.<ref name="Wal"/><ref>{{cite web|title=The Binnian Tunnel|url=http://www.bbc.co.uk/northernireland/yourplaceandmine/down/A727427.shtml|website=BBC NI - Your Place and Mine|accessdate=8 May 2015}}</ref>
+
+==References==
+{{reflist}}
+{{Commonscat|Slieve Binnian}}
+
+==External links==
+* [https://www.google.com/search?hl=en&safe=off&q=Slieve+Binnian&gs_sm=e&gs_upl=2553l8868l0l9026l4l4l0l0l0l0l141l409l0.3l3l0&bav=on.2,or.r_gc.r_pw.&biw=1273&bih=619&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&tab=wi Photos of Slieve Binnian]
+* [http://www.walkingandhikingireland.com/walking-irelands-iconic-mountains-number-3-slieve-binnian/ Walking Ireland’s Iconic Mountains – Number 3: Slieve Binnian from Walking & Hiking in Ireland]
+
+{{Mountains and hills of County Down}}
+
+{{coord|54.14272|-5.98083|type:landmark_region:IE_source:enwiki-irishgridref(J320234)|display=title}}
+
+[[Category:Mountains and hills of County Down]]
+[[Category:Marilyns of Northern Ireland]]
+[[Category:Hewitts of Northern Ireland]]
+[[Category:Mountains under 1000 metres]]
+
+
+{{Down-geo-stub}}

@@ -1,0 +1,22 @@
+{{Short description|block of IP addresses assigned to an organization}}
+
+A '''provider-independent address space''' (PI) is a block of  [[IP address]]es assigned by a [[regional Internet registry]] (RIR) directly to an end-user organization.<ref>[http://www.ripe.net/info/faq/rs/isp.html#5 RIPE FAQs]</ref> The user must contract<ref>{{Cite web|url=https://www.ripe.net/publications/docs/ripe-637|title=Contractual Requirements for Provider Independent Resource Holders in the RIPE NCC Service Region|website=RIPE Network Coordination Centre|access-date=2017-04-05}}</ref> with a [[local Internet registry]] (LIR) through an [[Internet service provider]] to obtain routing of the address block within the [[Internet]].
+
+Provider-independent addresses offer end-users the opportunity to change service providers without renumbering of their networks and to use multiple access providers in a [[multi-homed]] configuration. However, provider-independent blocks may increase the burden on global routers, as the opportunity for efficient [[route aggregation]] through [[Classless Inter-Domain Routing]] (CIDR) may not exist.
+
+==IPv4 assignments==
+One of the RIRs is [[Réseaux IP Européens Network Coordination Centre|RIPE NCC]]. The RIPE NCC can no longer assign IPv4 Provider Independent (PI) address space as it is now using the last {{IPaddr||8}} of IPv4 address space that it holds. IPv4 address space from this last {{IPaddr||8}} is allocated according to section 5.1 of "IPv4 Address Allocation and Assignment Policies for the RIPE NCC Service Region". IPv4 [[Provider-aggregatable address space|Provider-aggregatable (PA) Address space]]
+can only be allocated to RIPE NCC members.<ref>{{Cite web|url=https://www.ripe.net/manage-ips-and-asns/resource-management/number-resources/independent-resources|title=Requesting Independent Resources|website=RIPE Network Coordination Centre|access-date=2017-04-05}}</ref>
+
+==IPv6 assignments==
+In April 2009 [[RIPE]] accepted a policy proposal of January 2006 to assign IPv6 provider-independent [[IPv6]] prefixes. Assignments are taken from the address range {{IPaddr|2001:678::|29}}<ref>[https://www.ripe.net/ripe/docs/ripe-ncc-managed-address-space.html#2e Address Space Managed by the RIPE NCC - Special Purpose Ranges]</ref> and have a minimum size of a {{IPaddr||48}} prefix.<ref>[http://www.ripe.net/ripe/docs/ripe-589#IPv6_PI_Assignments IPv6 Provider Independent (PI) Assignments]</ref>
+
+==See also==
+* [[Multihoming]]
+ 
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Provider-Independent Address Space}}
+[[Category:Network addressing]]
+[[Category:IP addresses]]

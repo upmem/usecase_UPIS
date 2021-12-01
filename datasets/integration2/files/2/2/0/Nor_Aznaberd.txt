@@ -1,0 +1,46 @@
+{{coord|39|32|39|N|45|25|00|E|display=title}}
+
+{{Infobox settlement
+|official_name          = Nor Aznaberd <br/> Նոր Ազնաբերդ 
+|native_name            = 
+|pushpin_map            = Armenia
+|mapsize                = 150px
+|subdivision_type       = Country
+|subdivision_name       = [[Armenia]]
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      = [[Vayots Dzor]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2         = 
+|area_footnotes         = 
+|population_as_of       = 2001
+|population_total       = 182
+|population_density_km2 =
+|timezone               = &nbsp;
+|utc_offset             = +4
+|timezone_DST           = &nbsp; 
+|utc_offset_DST         = +5
+|coordinates            = {{coord|39|32|39|N|45|25|00|E|region:AM|display=inline}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+}}
+
+'''Nor Aznaberd''' ({{lang-hy|Նոր Ազնաբերդ}}; formerly '''Verin Aznaberd''', '''Itkran''', '''Gyulistan''', '''Gyulist''' and '''Gulistan''') is a [[hamlet (place)|hamlet]] in the [[Vayots Dzor Province]] of [[Armenia]].  The population of Nor Aznaberd migrated from [[Çalxanqala|Aznaberd]] village of Nakhichevan.  Aznaberd was the only Armenian inhabited village in Nakhichevan in 1980s. The villagers called the hamlet Nor Aznaberd (meaning "New Aznaberd" in Armenian), referring to their origin.  South of this location are the ruins of a fortress.
+
+==See also==
+* [[Vayots Dzor Province]]
+
+== References ==
+* {{GEOnet2|32FA881E6BB73774E0440003BA962ED3}}
+* {{ArmenianCensus|226}}
+* {{citation|last=Kiesling |first=Brady |title=Rediscovering Armenia: Guide |publisher=Matit Graphic Design Studio|location=[[Yerevan, Armenia]]|year=2005}}
+* {{RediscoveringArmenia|128}}
+
+{{Vayots Dzor}}
+
+[[Category:Populated places in Vayots Dzor Province]]
+
+{{VayotsDzor-geo-stub}}

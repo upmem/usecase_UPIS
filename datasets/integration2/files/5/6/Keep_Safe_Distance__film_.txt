@@ -1,0 +1,86 @@
+{{Use dmy dates|date=July 2019}}
+{{Infobox film
+| name           = [https://www.timesofmalwa.in/2019/11/blog-post_3.html Keep Safe Distance]
+| image          = 
+| caption        = 
+| director       = Raama Mehra
+| producer       = Vishnu Dhanraj Sharma<br>Mahesh Sharma<br>[[Laxman Singh Rajput]] (co-producer)
+| starring       = [[Kiran Kumar]]<br>[[Shahbaz Khan (actor)|Shahbaz Khan]]<br>[[Mushtaq Khan]]
+| music          = [[Damodar Raao]]
+| cinematography = S. Pappu
+| editing        = 
+| studio         = 
+| distributor    = 
+| released       = 15 November 2019
+| runtime        = 
+| budget         = 
+| gross          = 
+| country        = [[India]]
+| language       = [[Hindi]]
+}}
+
+'''''Keep Safe Distance''''' ({{translation|सुरक्षित दूरी बनाए रखें}})<ref>{{cite web|url=https://www.khaskhabar.com/picture-news/bollywood-news-first-shot-of-movie-keep-safe-distance-is-done-1-108562-KKN.html|title=first shot of movie Keep Safe Distance is done|work=www.khaskhabar.com|author=Khas Khabar}}</ref> is an upcoming [[Bollywood|Indian]] [[drama]] film directed by Raama Mehra with [[Kiran Kumar]], [[Shahbaz Khan (actor)|Shahbaz Khan]], [[Mushtaq Khan]] and [[Laxman Singh Rajput]].<ref>{{cite web|url=https://news.raftaar.in/first-shot-movie-keep-safe-distance-rama-dhanraj-prodction-%E0%A4%95%E0%A5%80%E0%A4%AA-%E0%A4%B8%E0%A5%87%E0%A4%AB-%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%82%E0%A4%B8-%E0%A4%AE%E0%A5%81%E0%A4%B9%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%A4-%E0%A4%B6%E0%A5%89%E0%A4%9F/detail/7e0326e6942d58029ebbea9bee8db7d8|title=Movie keep safe distance first shot|work=www.news.raftaar.in|author=Raftaar News}}</ref>
+
+==Plot==
+The story of the film shows the life of a [[Call girl]]. Sonia, a little girl who lost her family due to flooding in [[Assam]], arrives in [[Mumbai]] with her mother. Circumstances make the girl a famous [[Call girl]] as she grows up, and becomes famous as Sonia ATM. Sonia ATM also has relationships with underworld Don Salim Sultan. On one occasion, Sonia ATM meets ACP Vijay Suryavanshi, who is looking for the underworld Don Salim Sultan. ACP Vijay says Sonia ATM that if she helps him in arresting Don Salim Sultan, he will marry her, for which Sonia ATM agrees. Don Salim Sultan's information on the tour of [[India]] gives Sonia to Vijay, and thus Vijay reaches the spot to capture Don. But Sonia ATM shoots herself after hearing a call girl herself from Vijay's mouth and thus Salim Sultan escapes and runs away from [[India]].<ref>{{cite web|url=https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/keep-safe-distance/movie-review/72075372.cms|title=Movie Keep Safe Distance reviews by Times Of India|work=www.timesofindia.indiatimes.com|author=Times Of India}}</ref> The film depicts Mumbai's crime as well as the underworld and film industry issues.
+
+==Cast==
+* [[Kiran Kumar]]<ref>{{cite web|url=http://www.starworldnews.co/muhurat-of-movie-keep-safe-distance/|title=Muhurat of movie Keep Safe Distance movie in Mumbai with Kiran Kumar, Mushtaq Khan and all other cast|work=www.starworldnews.co|author=Star World News}}</ref> 
+* [[Shahbaz Khan (actor)|Shahbaz Khan]]
+* [[Mushtaq Khan]]
+* [[Adi Irani]]
+* [[Vikas Anand]]
+* [[Laxman Singh Rajput]]
+* Jai Yadav
+* Sagarika Neha
+
+==Filming==
+The film is mostly shot in [[Mumbai, Maharashtra]], [[Gujarat|Gujrat]], [[Rajasthan]] and some parts in [[Daman and Diu]].{{fact|date=May 2020}}
+
+== Soundtrack ==
+{{Infobox album
+| name       = Keep Safe Distance
+| type       = soundtrack
+| artist     = [[Damodar Rao]]
+| cover      =
+| alt        =
+| released   = {{start date|2019|11|01|df=y}}
+| recorded   = 2018–2019
+| venue      = Red Bulb Studios
+| studio     = 
+| genre      = [[Feature film soundtrack]]
+| length     = 03:04
+| language   = [[Hindi language|Hindi]]
+| label      = Rama Dhanraj Production
+| prev_title = 
+| prev_year  = 
+| year       = 
+| next_title = 
+| next_year  = 
+| misc = {{External media
+| audio1 = {{YouTube|gBdZsV95g2Q|Video}}}}
+}}
+
+The music of the film is composed by [[Damodar Rao]] and sung by [[Kalpana Patowary]] while lyrics are by RPS Janaab.
+{{Tracklist
+| headline = Track listing
+| total_length = 3:56
+| extra_column = Singer(s)
+| title1  = Twinkle Twinkle 
+| extra1  = [[Kalpana Patowary]]
+| length1 = 3:56
+}}
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{IMDb title|tt8876008}}
+
+[[Category:Unreleased Hindi-language films]]
+[[Category:Indian drama films]]
+[[Category:Hindi-language drama films]]
+[[Category:Indian films]]
+
+
+{{2010s-Hindi-film-stub}}

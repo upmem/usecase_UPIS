@@ -1,0 +1,67 @@
+{{Use dmy dates|date=August 2020}}
+{{Infobox Rugby biography
+| name = Cory Allen
+| image = 
+| caption = 
+| birth_name = 
+| birth_date = {{birth date and age|1993|2|11|df=y}}
+| birth_place = [[Cardiff]], [[Wales]]
+| height = {{convert|1.91|m|ftin|abbr=on}}
+| weight = {{convert|99|kg|lb stlb|abbr=on}}
+| school = [[Ysgol Gyfun Bro Morgannwg]]
+| university = 
+| relatives = 
+| ru_position = [[Centre (rugby union)|Outside Centre]]<br />[[Wing (rugby union)|Wing]]
+| ru_amateuryears = 
+| ru_amateurclubs = 
+| ru_amupdate =
+| ru_provinceyears = 2011–2017<br>2017-
+| ru_province = [[Cardiff Blues]]<br>[[Ospreys (rugby union)|Ospreys]]
+| ru_provincecaps = 36<br>30
+| ru_provincepoints = (38)<br>(35)
+| ru_proclubs = [[Cardiff Blues]]
+| ru_clubcaps = 26
+| ru_clubpoints = (40)
+| ru_clubyears = 2011–2013 
+| ru_provinceupdate = 11 April 2019
+| ru_nationalteam = [[Wales national under-18 rugby union team|Wales U18]]<br>[[Wales national under-20 rugby union team|Wales U20]]<br />[[Wales national rugby union team|Wales]]
+| ru_nationalyears = <br>2012–2013<br>2013–
+| ru_nationalcaps = <br>13<br>6
+| ru_nationalpoints = <br>(20)<br>(15)
+| ru_ntupdate = 23 June 2017
+| ru_sevensnationalyears = 2012–2013
+| ru_sevensnationalteam  = [[Wales national rugby sevens team|Wales]]
+| ru_sevensnationalcomp  = 4
+}}
+
+'''Cory Allen''' (born 11 February 1993) is a [[Wales]] international [[rugby union]] player. A centre or wing, he plays club rugby for [[Ospreys (rugby union)|Ospreys]] regional team.
+
+==International==
+
+He was selected in the [[Wales national rugby sevens team|Wales Sevens squad]] for 2012-13<ref>[http://www.wru.co.uk/eng/matchcentre/squads_wales_sevens.php Wales Sevens Squad]</ref>
+
+In January 2013 he was selected in the Wales Under 20 squad for the 2013 Under 20 Six Nations Championship.<ref>[http://www.wru.co.uk/eng/news/24650.php Wales Under 20 Squad]</ref> He made his full international debut versus Argentina on 16 Nov 2013.
+
+Allen scored a hat-trick of try's in Wales first game of the [[2015 Rugby World Cup]], a 54–9 win against [[Uruguay national rugby union team|Uruguay]] at the [[Millennium Stadium]] on 20 September.<ref>{{cite web|url=https://www.theguardian.com/sport/2015/sep/20/wales-uruguay-rugby-world-cup-2015-match-report|title= Rugby World Cup 2015: Wales suffer costly injuries in win over Uruguay|date=20 September 2015|work=The Guardian|accessdate=24 September 2015}}</ref>
+
+Allen again scored a hat-trick of tries for Wales in a match against RGC 1404, in the warm-up for 2017 summer tour of Tonga and Samoa<ref>{{cite web|url=https://www.bbc.co.uk/sport/rugby-union/40140833|title= RGC 1404 19-88 Wales XV|date=2 June 2017|work=BBC|accessdate=12 June 2017}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://archive.today/20130118220853/http://www.cardiffblues.com/rugby/blues_squad.php?player=92503&includeref=dynamic Cardiff Blues profile]
+* {{scrum|152276}}
+
+{{Ospreys squad}}
+{{Wales Squad 2015 Rugby World Cup}}
+
+{{DEFAULTSORT:Allen, Cory}}
+[[Category:Wales international rugby union players]]
+[[Category:Cardiff Blues players]]
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Rugby union players from Cardiff]]
+
+
+{{Wales-rugbyunion-bio-stub}}

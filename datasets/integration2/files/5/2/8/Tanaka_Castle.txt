@@ -1,0 +1,72 @@
+{{Infobox military installation
+|name = Tanaka Castle <br>田中城
+|partof =
+|location = [[Fujieda, Shizuoka|Fujieda]], [[Shizuoka Prefecture]], [[Japan]]
+|image = TanakaJo HonmaruYagura.jpg
+|image_size = 300px
+|caption = Reconstructed Honmaru Yagura of Tanaka Castle
+|map_type = Japan Shizuoka Prefecture#Japan
+|map_size = 
+|map_caption =  
+|map_relief = 1
+|type =flatland-style [[Japanese castle]]
+|coordinates = {{coord|34|52|19.22|N|138|16|28.57|E|display=title|type:landmark_region:JP_scale:10000}}
+|code =
+|built = 1537
+|builder = Imagawa clan
+|materials =
+|height =
+|used = [[Edo period]]
+|demolished = 1871
+|condition = partially reconstructed
+|ownership =
+|open_to_public = yes
+|controlledby =
+|garrison =
+|current_commander =
+|commanders =
+|occupants =
+|battles =
+|events =
+|image2 =
+|caption2 =
+}}
+[[File:Tanaka Castle air.jpg|thumb|right|300px|Site of Tanaka Castle showing circular moats]]
+{{nihongo|'''Tanaka Castle'''|田中城|Tanaka-jō}} is a [[Japanese castle]] located in [[Fujieda, Shizuoka|Fujieda]], central [[Shizuoka Prefecture]], [[Japan]]. At the end of the [[Edo period]], Tanaka Castle was home to a branch of the [[Honda clan]], ''[[daimyō]]'' of [[Tanaka Domain]].
+
+==Background==
+Tanaka Castle is located on a hill in a marshy area in the middle of the Shida Plain, between the Seto and the Rokken rivers. Originally, the [[Imagawa clan]] used the site as a small stronghold, ordering their vassals, the [[Isshiki clan]] to construct a fortification in 1537 to protect the western approaches to [[Sunpu Castle]].
+
+However, when [[Suruga Province]] came under occupation by the [[Takeda clan]] in 1570, [[Takeda Shingen]] had the stronghold expanded to guard the western border of Suruga against the increasing strength of [[Tokugawa Ieyasu]] in neighboring [[Tōtōmi Province]], and assigned his general [[Yamagata Masakage]] as castellan. In 1572, another of Shingen's generals, Inagaki Nobuyasu, replaced Yamagata. The castle withstood an attack by Tokugawa forces in 1582, but was later surrendered after the death of [[Takeda Katsuyori]].
+
+The current layout of Tanaka Castle dates from the period of Takeda rule. As there was no limitation due to geography, the fortifications consisted of three concentric circular moats, each with four gates equipped with a "maru umadashi" style gate, itself surrounded by crescent-moon shaped moats. The outer moat had a diameter of 300 meters.
+
+== History ==
+The location of the castle on the [[Tōkaidō (road)|Tōkaidō]] highway connecting [[Edo]] with [[Kyoto]] gave it considerable strategic value.
+
+Following the establishment of the [[Tokugawa shogunate]], [[Tokugawa Ieyasu]] assigned the castle to [[Sakai Tadatoshi]], who built a small, 2-story [[donjon]] and added a fourth moat. Subsequently, as headquarters for [[Tanaka Domain]], it changed hands many times during the early [[Edo period]] through a succession of ''[[fudai daimyō]]'' before coming under the control of a cadet branch of the [[Honda clan]] in 1730.
+
+Tokugawa Ieyasu and subsequent shōgun used the castle as an occasional base for [[falconry]] expeditions, and it was at Tanaka Castle that Tokugawa Ieyasu is alleged to have eaten [[tempura]], just before his death.
+
+During the [[Bakumatsu period]], in 1868 the Honda were reassigned to the newly created [[Nagao Domain]] in [[Awa Province (Chiba)|Awa Province]] in order to make way for an expanded [[Shizuoka Domain]] to be ruled by the ex-Shōgun [[Tokugawa Yoshinobu]]. Tanaka Castle was assigned to one of his ''[[hatamoto]]'', but was pulled down in 1872, following the [[Meiji Restoration]].
+Most of the castle area turned to schools, houses and rice fields. The current structures include remnants of the moats and stonework, as well as a large ''[[Yagura (tower)|yagura]]'', reconstructed in 1992 to serve as a local history museum.
+
+== Literature ==
+*{{cite book| title=Castles in Japan| last=Schmorleitz| first=Morton S.| year=1974| pages=[https://archive.org/details/castlesinjapan00schm/page/144 144–145]| publisher=Charles E. Tuttle Co.| location=Tokyo| isbn=0-8048-1102-4| url-access=registration| url=https://archive.org/details/castlesinjapan00schm/page/144}}
+*{{cite book | title=Japanese Castles| last=Motoo| first=Hinago| year=1986| publisher=Kodansha| location=Tokyo| isbn=0-87011-766-1| page= 200 pages}}
+*{{cite book | title=Castles of the Samurai: Power and Beauty | last=Mitchelhill| first=Jennifer| year=2004| publisher=Kodansha| location=Tokyo| isbn=4-7700-2954-3 | page= 112 pages}}
+*{{cite book | title=Japanese Castles 1540-1640  | url=https://archive.org/details/japanesecastles00turn  | url-access=limited  | last=Turnbull| first=Stephen| year=2003| publisher=Osprey Publishing|  isbn=1-84176-429-9 | page= [https://archive.org/details/japanesecastles00turn/page/n33 64] pages}}
+
+==External links==
+*[https://web.archive.org/web/20120425160936/http://www.jcastle.info/castle/profile/160-Tanaka-Castle Tanaka Castle Jcastle Profile]
+*[https://web.archive.org/web/20120118003305/http://www.city.fujieda.shizuoka.jp/profile_bunkazai.html Fujieda City home page]
+*[http://castle.jpn.org/en/suruga/tanaka/ Photos of Tanaka Castle]
+
+{{Commons category}}
+
+[[Category:Castles in Shizuoka Prefecture]]
+[[Category:Ruined castles in Japan]]
+[[Category:History of Shizuoka Prefecture]]
+[[Category:Fujieda, Shizuoka]]
+[[Category:Suruga Province]]
+[[Category:Honda clan]]

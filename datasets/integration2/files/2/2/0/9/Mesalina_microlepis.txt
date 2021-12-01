@@ -1,0 +1,20 @@
+{{speciesbox
+| image =
+| status = 
+| genus = Mesalina
+| species = microlepis
+| authority = ([[Fernand Angel|Angel]], 1936)
+| }}
+
+'''''Mesalina microlepis''''', also known as the '''small-scaled desert lizard''', is a species of sand-dwelling [[lizard]] in the family [[Lacertidae]]. It occurs in [[Syria]], [[Egypt]], [[Israel]], [[Jordan]], [[Iraq]], and [[Iran]].<ref name=RDB>{{NRDB species|genus=Mesalina |species=microlepis|accessdate=12 May 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q42837299}}
+
+[[Category:Mesalina|microlepis]]
+[[Category:Reptiles described in 1936]]
+[[Category:Taxa named by Fernand Angel]]
+
+{{Lacertidae-stub}}

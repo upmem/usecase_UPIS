@@ -1,0 +1,37 @@
+{{Infobox settlement
+| name = Nowołoskoniec
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline = Nowoloskoniec.jpg
+| image_caption = Entering Nowołoskoniec
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Oborniki|Oborniki]]
+|pushpin_map=Poland
+|coordinates = {{coord|52|41|5|N|16|45|38|E|region:PL|display=inline}}
+| elevation_m =
+| population_total =
+| website = }}
+'''Nowołoskoniec''' {{IPAc-pl|n|o|w|o|ł|o|s|'|k|o|ń|e1|c}} is a [[village]] in the administrative district of [[Gmina Oborniki]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) &ndash; TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|6|km|mi|0}} north-west of [[Oborniki]] and {{convert|34|km|mi|0|abbr=on}} north of the regional capital [[Poznań]].
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Oborniki}}
+
+{{coord|52|41|4.76|N|16|45|38.12|E|source:plwiki_region:PL_scale:10000|display=title}}
+
+{{DEFAULTSORT:Nowoloskoniec}}
+[[Category:Villages in Oborniki County]]
+
+
+{{Oborniki-geo-stub}}

@@ -1,0 +1,39 @@
+{{Infobox person
+| name         = Hamid Khozouie Abyane
+| image        =
+| caption      = [[cinematographer]]
+| imagesize    = 
+| birth_date   = {{birth date and age|1963|05|9|df=y}}
+| birth_place  = [[Tehran]], [[Iran]]
+| occupation   = {{hlist|cinematographer}}
+| alma_mater   = 
+| years_active = 
+| spouse       = 
+| children     = 
+| notable_works= 
+}}
+
+'''Hamid Khozouie Abyane''' (born 1963) is an [[Iranian peoples|Iranian]] [[cinematographer]]. He is one of the most decorated cinematographers in contemporary [[Iranian cinema]], winning multiple [[Simorgh awards]] for his work.<ref>[https://www.imdb.com/name/nm0451932/bio?ref_=nm_ov_bio_sm Bio]</ref> 
+
+==Films==
+*2017 - [[Simulation (film) | Simulation]]
+*2014 – BIGANEH
+*2011 – YE HABE GHAND
+*2011 – INJA BEDOONE MAN
+*2010 – PARSE DAR MEH
+*2010 – MOLKE SOLEIMAN
+*2007 – PA BERAHNE DAR BEHESHT
+*2005 – KHEILI DOUR, KHEILI NAZDIK
+*2005 – KHABGAH-E DOKHTARAN
+*2004 – MARMOULAK
+*2002 – PARANDEH BAZ-E KOUCHAK
+*2002 – INJA CHERAGHI ROSHAN AST (Here, a Shining Light; Crystal Simorgh Award at the Fajr International Film Festival]]
+*2001 – ZIR-E NOOR-E MAAH (Under the Moonlight; [[Fajr International Film Festival]])
+*2000 – KOUDAK VA SARBAZ (The Child and the Soldier; [[Three Continents Festival]] in Nantes)
+
+==References==
+{{reflist}}
+
+[[Category:Iranian cinematographers]]
+[[Category:1963 births]]
+[[Category:Living people]]

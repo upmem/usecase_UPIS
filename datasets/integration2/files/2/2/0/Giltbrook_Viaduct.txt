@@ -1,0 +1,33 @@
+{{Use dmy dates|date=April 2017}}
+{{Use British English|date=April 2017}}
+{{coord|52.989|-1.284|display=title|region:GB_scale:5000}}
+'''Giltbrook Viaduct''' was a railway [[viaduct]] built in the [[Erewash Valley]] between [[Awsworth]] and [[Giltbrook]]<ref>{{coord|53.007|-1.289|display=inline|region:GB_scale:5000}}</ref> in [[Nottinghamshire]].
+
+It was demolished in 1973 to make way for the [[A610 road|A610]] bypass.
+
+==Origins==
+The viaduct was built between May 1873 and November 1875 and forms part of the [[GNR Derbyshire and Staffordshire Extension|Great Northern Railway Derbyshire Extension]] which was built in part to exploit the coalfields in [[Derbyshire]] and [[Nottinghamshire]]. The contract was given by the [[Great Northern Railway (Great Britain)|Great Northern Railway]] (GNR) to Joseph Firbank with the line laid out by, and the viaduct designed by Richard Johnson (Chief Civil Engineer of the GNR); Samuel Abbott was the resident engineer.
+At Awsworth Junction the railway branched, one line passed over the [[Bennerley Viaduct]], the other turned North towards [[Pinxton]] crossing the Giltbrook Viaduct (or Kimberley Viaduct but known locally as Forty Bridges<ref name=Gillespie>{{cite web|title=Giltbrook: A Suburb of Ikea|author=Gillespie, G|url=http://www.giltbrook.co.uk/giltbrook.htm}}</ref>). This viaduct was built of red bricks used to create 43 arched spans with a total length of {{convert|1716|ft|m}} and a height of {{convert|60|ft|m}}. The viaduct was S-shaped and built in four sections. The first section consisted of a single {{convert|27|ft|m}} long [[skew arch|skew span arch]] crossing Awsworth Lane followed by 13 arches each spanning {{convert|30|ft|m}}. The second section consisted of one {{convert|27|ft|m}} skew span arch over the [[Midland Railway]]'s Bulwell to Bennerley branch line followed by 15 arches each spanning {{convert|30|ft|m}}. The third section started with a {{convert|27|ft|m}} long skew span arch, skewed in the opposite direction, crossing the Midland Railway's line to Digby Colliery which was immediately to the East of the viaduct followed by 3 arched spans of {{convert|30|ft|m}}. The fourth section started with a {{convert|45|ft|m}} long segmental arch which crossed the [[Greasley]] arm of the [[Nottingham Canal]] followed by 8 arched spans {{convert|30|ft|m}} long. Each section was separated by stop piers. To the South West of the viaduct next to the Nottingham Canal arm was a [[Nottingham Corporation Gas Department#Nottingham Gas Light and Coke Company|Nottingham Gas Light and Coke Company]] chemical works<ref name= Henshaw>{{cite book|author=Henshaw, A.|title =The Great Northern Railway in the East Midlands|publisher =RCTS}}</ref> of which [[Thomas Hawksley]] was once the managing engineer.<ref name = Papplewick>{{cite web|url=http://www.papplewickpumpingstation.co.uk/notts_w_history.htm|title=Thomas Hawksley|access-date=28 October 2009|archive-url=https://web.archive.org/web/20080920082635/http://www.papplewickpumpingstation.co.uk/notts_w_history.htm|archive-date=20 September 2008|url-status=dead}}</ref>
+
+==Great Midlands Raid==
+Houses were built into arches 8 and 23 counting from the Awsworth end. These dwellings were used as makeshift air raid shelters by school children from Awsworth during a [[World War I|First World war]] German [[Zeppelin]] [[Airship]] bombing raid which dropped bombs at Bennerley Junction. This bombing raid was part of what became known as the Great Midlands Raid.<ref name= Henshaw/>
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book |last= Henshaw|first= Alfred|title= The Great Northern Railway in the East Midlands|edition= |year= 2000|publisher= RCTS|isbn= 0-901115-88-6}}
+* {{cite book |last= Ottewell|first= David|title= Old Kimberley|edition= |year= 2001|publisher= Stenlake Publishing|isbn= 1-84033-155-0}}
+* {{cite book |last= Plumb|first= Arthur|title= Kimberley in old picture postcards|edition= |year= 1993|publisher= European Library|isbn= 90-288-4669-7}}
+
+==External links==
+*{{cite web|title=Giltbrook Viaduct|author=Gillespie, G|url=http://www.lawrenceseastwood.co.uk/Giltbrook/giltbrook.htm}}
+*{{cite web|title=RCTS Mystery Photographs: Giltbrook Viaduct|author=Courtney Haydon, J|publisher=The Railway Correspondence and Travel Society|url=http://www.rcts.org.uk/features/mysteryphotos/show.htm?img=B-74-28}}
+
+[[Category:Railway viaducts in Nottinghamshire]]
+[[Category:Arch bridges]]
+[[Category:Skew bridges]]
+[[Category:Brick bridges]]
+[[Category:Demolished bridges in England]]
+[[Category:Bridges completed in 1875]]
+[[Category:Buildings and structures demolished in 1973]]

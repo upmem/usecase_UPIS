@@ -1,0 +1,59 @@
+{{short description|Spanish footballer and manager}}
+{{family name hatnote|González|Fernández|lang=Spanish}}
+{{Infobox football biography
+| name = Alfonsín
+| image = 
+| fullname = Alfonso González Fernández
+| birth_date = {{Birth date and age|1951|7|16|df=yes}} 
+| birth_place = [[Cortegana]], Spain
+| death_date = 
+| death_place =
+| height = 
+| position = [[Defender (association football)|Defender]]
+| currentclub = 
+| youthyears1 = | youthclubs1 = [[Sevilla FC|Sevilla]]
+| years1 = | clubs1 = [[Sevilla Atlético]] | caps1 = | goals1 = 
+| years2 = | clubs2 = [[AD Almería]] | caps2 = | goals2 = 
+| nationalyears1 = | nationalteam1 = | nationalcaps1 = | nationalgoals1 = 
+| manageryears1 = 2000–2002 | managerclubs1 = [[UD Almería B|Almería B]]
+| manageryears2 = 2002–2004 | managerclubs2 = [[UD Almería|Almería]] (assistant)
+| manageryears3 = 2004 | managerclubs3 = [[UD Almería|Almería]]
+| manageryears4 = 2005 | managerclubs4 = [[UD Almería|Almería]]
+| manageryears5 = 2007–2008 | managerclubs5 = [[UD Almería B|Almería B]]
+| manageryears6 = 2010–2011 | managerclubs6 = [[UD Almería B|Almería B]]
+}}
+'''Alfonso González Fernández''' (born 16 July 1951), commonly known as '''Alfonsín''', is a Spanish retired [[Association football|footballer]] who played as a [[Defender (association football)|defender]], and a [[Coach (sport)|manager]].
+
+==Football career==
+Born in [[Cortegana]], [[Province of Huelva|Huelva]], [[Andalusia]], Alfonsín began working as a coach with [[UD Almería B]], being promoted to [[Tercera División]] in 2002. On 26 January 2004, he was appointed at the helm of [[UD Almería|the main squad]], replacing fired [[Juan Martínez Martínez|Casuco]].<ref>[http://www.libertaddigital.com/deportes/alfonsin-nuevo-entrenador-del-almeria-tras-el-cese-de-juan-martinez-casuco-1276213111/ Alfonsín, nuevo entrenador del Almería tras el cese de Juan Martínez Casuco (Alfonsín, new manager of Almería after the firing of Juan Martínez Casuco)]; Libertad Digital, 26 January 2004 (in Spanish)</ref>
+
+However, Alfonsín only remained one game in charge, being later replaced by [[Luis Ángel Duque]]. After the latter's resignment in April he returned,<ref>[http://masdeporte.as.com/masdeporte/2004/04/07/polideportivo/1081311337_850215.html Duque: "No comparto la decisión del Consejo" (Duque: "I don't share the council's decision")]; [[Diario AS]], 7 April 2004 (in Spanish)</ref> narrowly avoiding relegation despite [[2003–04 Segunda División|finishing 13th]].
+
+Alfonsín returned to the ''Rojiblancos'' on 29 January 2005, replacing [[Fernando Castro Santos]].<ref>[http://www.lavozdegalicia.es/hemeroteca/2005/01/29/3415822.shtml Alfonsín se olvida de las bajas y pide profesionalidad (Alfonsín forgets injured players and calls for professionalism)] {{Webarchive|url=https://web.archive.org/web/20141023023956/http://www.lavozdegalicia.es/hemeroteca/2005/01/29/3415822.shtml |date=2014-10-23 }}; [[La Voz de Galicia]], 29 January 2005 (in Spanish)</ref> After being in charge for five matches, he became [[Fabriciano González|Fabri]]'s assistant the following month.<ref>[http://futbol.as.com/futbol/2005/02/16/mas_futbol/1108538846_850215.html Fabri y Lorenzana toman las riendas del Almería (Fabri and Lorenzana take Almería's reins)]; Diario AS, 16 February 2005 (in Spanish)</ref>
+
+In November 2007, Alfonsín returned to Almería's reserves,<ref>[http://www.joinfutbol.com/es/alfonsin_es_el_nuevo_entrenador_del_almeria_b_4955.php Alfonsín es el nuevo entrenador del UD Almería B (Alfonsín is the new manager of UD Almería B)] {{Webarchive|url=https://web.archive.org/web/20141021040236/http://www.joinfutbol.com/es/alfonsin_es_el_nuevo_entrenador_del_almeria_b_4955.php |date=2014-10-21 }}; Join Futbol, 5 November 2007 (in Spanish)</ref> still in the fourth level. A third spell befell in the [[2010–11 Segunda División B|2010–11 season]], and he led them to a comfortable mid-table position in [[Segunda División B]] in their first experience.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{BDFutbol|7543|Alfonsín}}
+*{{BDFutbol manager|7543|Alfonsín}}
+
+{{UD Almería B managers}}
+{{UD Almería managers}}
+
+{{DEFAULTSORT:Alfonsin}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:People from the Province of Huelva]]
+[[Category:Spanish footballers]]
+[[Category:Andalusian footballers]]
+[[Category:Association football defenders]]
+[[Category:Tercera División players]]
+[[Category:Sevilla Atlético players]]
+[[Category:AD Almería footballers]]
+[[Category:Spanish football managers]]
+[[Category:Segunda División managers]]
+[[Category:UD Almería B managers]]
+[[Category:UD Almería managers]]

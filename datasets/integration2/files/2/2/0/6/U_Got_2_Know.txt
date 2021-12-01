@@ -1,0 +1,142 @@
+{{Infobox album
+| name       = U Got 2 Know
+| type       = studio
+| artist     = [[Cappella (band)|Cappella]]
+| cover      = U Got 2 Know - album cover.jpg
+| border     = yes
+| alt        =
+| released   = March 7, 1994
+| recorded   = 1991 ("Everybody")<br />1992-1994
+| genre      = [[Techno]]
+| studio     =
+| length     =
+| label      = [[Mercury Records]] <small>828 482.2</small>
+| producer   = [[Gianfranco Bortolotti]]
+| prev_title = Helyom Halib
+| prev_year  = 1989
+| next_title = Move On Baby
+| next_year  = 1994
+| misc       = {{Singles
+ | name        = U Got 2 Know
+ | type        = studio
+ | single1     = Everybody
+ | single1date = 1991
+ | single2     = U Got 2 Know
+ | single2date = 19 December 1992
+ | single3     = U Got 2 Know (Revisited)
+ | single3date = 1992
+ | single4     = [[U Got 2 Let the Music]]
+ | single4date = 18 September 1993
+ | single5     = [[Move on Baby]]
+ | single5date = 10 February 1994
+ | single6     = [[U & Me]]
+ | single6date = 13 June 1994
+ | single7     = [[Move It Up]]
+ | single7date = 1 September 1994
+ | single8     = Don't Be Proud
+ | single8date = 14 March 1995
+}}
+}}
+{{album reviews
+|rev1=[[AllMusic]]
+|rev1score={{rating|3|5}}<ref>{{cite web|url=http://www.allmusic.com/album/u-got-2-know-mw0000889961|title=Cappella -- U Got 2 Know | publisher=[[AllMusic.com]] | first=John  | last= Bush | accessdate=July 25, 2016}}</ref>
+}}
+
+'''''U Got 2 Know''''' is the second and most successful studio album by Italian [[Eurodance]] act [[Cappella (band)|Cappella]].<ref>{{cite web|title=Cappella – U Got 2 Know|url=https://www.discogs.com/Cappella-U-Got-2-Know/release/778305|website=[[Discogs]]|publisher=discogs.com|accessdate=25 July 2016}}</ref><ref>{{cite web|title=CAPPELLA - U GOT 2 KNOW|url=http://www.eurokdj.com/search/disk.php?ID=5465|publisher=eurokdj.com|accessdate=25 July 2016}}</ref> The album was initially released via the [[Mercury Records]] label on March 7, 1994, and later re-released via other labels with slightly different track listings. The album saw great success in many European countries, peaking at #1 in the Swiss and Finnish charts. Eight singles were released from the album.
+
+==Track listing==
+{{Track listing
+| collapsed       = 
+| headline        = 
+| title1           = U Got 2 Know
+| writer1          = [[Gianfranco Bortolotti]] / M. Persona / L. Carpella
+| length1          = 5:10
+
+| title2           = [[U Got 2 Let the Music]]
+| writer2          = Ronnie Arduini / Gianfranco Bortolotti / Antonio Puntillo / Sam Zucchini
+| length2          = 5:23
+
+| title3           = Don't Be Proud
+| writer3          = Bruno Guerrini / A. Pasinelly / Gianfranco Bortolotti / D. Leoni
+| length3          = 5:07
+
+| title4           = [[U & Me]]
+| writer4          = Gianfranco Bortolotti
+| length4          = 4:07
+
+| title5           = Everybody
+| writer5          = Gianfranco Bortolotti / Cliff Jones / P. Rossini
+| length5          = 5:16
+
+| title6           = What I Gotta Do
+| writer6          = [[Mauro Picotto]] /  Sam Zucchini / Gianfranco Bortolotti / G. P. Viani
+| length6          = 5:04
+
+| title7           = [[Move on Baby]]
+| writer7          = Gianfranco Bortolotti / Bruno Guerrini
+| length7          = 4:45
+
+| title8           = Shake Your Body
+| writer8          = Antonio Puntillo / M. Picotto / Gianfranco Bortolotti
+| length8          = 4:46
+	
+| title9           = The Big Beat
+| writer9          = M. Persona / S. Paganin / Gianfranco Bortolotti
+| length9          = 4:19	
+
+| title10          = [[Move It Up]]
+| writer10         = A. Pasinelli / C. Maifrini / Diego Leoni / Gianfranco Bortolotti
+| length10         = 3:58
+
+| title11          = Cappella Gigamix
+| note11           = DJ Mix – DJ Professor
+| length11         = 5:45
+}}
+
+==Chart performance==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" colspan="8" | Peak chart positions
+! rowspan="2" style="width:10em;" | [[Music recording sales certification|Certifications]]
+|-
+!style="width:2em;font-size:90%;"| [[Ö3 Austria Top 40|AUT]]<br><ref name="AUT Albums">{{cite web|url=http://austriancharts.at/search.asp?cat=a&artist=cappella&artist_search=starts&title=&title_search=starts |title=Austrian Albums |publisher=austriancharts.at |accessdate=2016-07-15}}</ref>
+
+!style="width:2em;font-size:90%;"| [[The Official Finnish Charts|FIN]]<br><ref name="FIN">{{cite web|url=http://suomenlistalevyt.blogspot.co.uk/2015/08/anc-ark.html |title=Sisältää hitin: Levyt ja esittäjät Suomen musiikkilistoilla vuodesta 1961 |language=Finnish |publisher=Sisältää Hitin - Suomen listalevyt (Timo Pennanen) |accessdate=2016-07-15}}</ref>
+
+!style="width:2em;font-size:90%;"| [[GfK Entertainment Charts|GER]]<br><ref>German Albums:
+* "U Got 2 Know": {{cite web|url=https://www.offiziellecharts.de/album-details-1788 |title=Cappella - U Got 2 Know |language=German |publisher=GfK Entertainment |accessdate=2016-07-15}}</ref>
+
+!style="width:2em;font-size:90%;"| [[MegaCharts|NED]]<br><ref name="NED Albums">{{cite web|url=http://dutchcharts.nl/search.asp?search=cappella&cat=a |title=Dutch Albums |publisher=dutchcharts.nl |accessdate=2016-07-10}}</ref>
+
+!style="width:2em;font-size:90%;"| [[Scottish Singles and Albums Charts|SCO]]<br><ref>Scottish Albums:
+* "U Got 2 Know": {{cite web|url=http://www.officialcharts.com/charts/scottish-albums-chart/19940320/40/ |title=Cappella - U Got 2 Know |publisher=officialcharts.com |accessdate=2016-07-15}}</ref>
+
+!style="width:2em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br><ref name="SWE Albums">{{cite web|url=http://swedishcharts.com/search.asp?search=cappella&cat=a |title=Swedish Albums |publisher=swedishcharts.com |accessdate=2016-07-15}}</ref>
+
+!style="width:2em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br><ref name="SWI Albums">{{cite web|url=http://hitparade.ch/search.asp?cat=a&from=&to=&artist=cappella&artist_search=starts&title=&title_search=starts |title=Swiss Albums |publisher=hitparade.ch |accessdate=2016-07-15}}</ref>
+
+!style="width:2em;font-size:90%;"| [[UK Albums Chart|UK]]<br><ref name="UK Albums">{{cite web|url=http://www.officialcharts.com/artist/24811/cappella/ |title=UK Albums |publisher=officialcharts.com |accessdate=2016-07-15}}</ref>
+|-
+| 8
+| 1
+| 10
+| 11
+| 9
+| 12
+| 1
+| 10
+|
+* [[International Federation of the Phonographic Industry|SWI]]: Gold<ref name="SWI CERT">{{cite web|url=http://hitparade.ch/search_certifications.asp?search=cappella |title=Swiss Certification |publisher=[[International Federation of the Phonographic Industry|IFPI]] |accessdate=2016-07-15}}</ref>
+* [[British Phonographic Industry|UK]]: Gold<ref name="UK CERT">{{cite web|url=http://www.bpi.co.uk/certified-awards.aspx |title=BPI Certification |publisher=[[British Phonographic Industry]]|accessdate=2016-07-15}}</ref>
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.djsirs.16mb.com/downloads14.html Various album covers]
+
+[[Category:1994 albums]]
+[[Category:Capella (band) albums]]
+[[Category:Mercury Records albums]]

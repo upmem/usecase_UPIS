@@ -1,0 +1,9 @@
+#REDIRECT [[List of Kentucky supplemental roads and rural secondary highways (600–699)#Kentucky Route 669]]
+
+{{R shell|
+{{R to list entry}}
+{{R to section}}
+}}
+
+[[Category:State highways in Kentucky|0669]]
+[[Category:Transportation in Union County, Kentucky|0669]]

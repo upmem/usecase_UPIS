@@ -1,0 +1,12 @@
+==Summary==
+{{keep local}}
+{{Information
+|Description = Wind Farm in Arthur, Ontario. Taken 6 October 2012. Own work.
+|Source = {{own}}
+|Date = 2012-10-06
+|Author = [[User:Risker|Risker]]
+}}
+
+==Licensing==
+{{self|GFDL|cc-by-sa-3.0|migration=redundant}}
+{{Orphan image}}

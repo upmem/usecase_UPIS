@@ -1,0 +1,24 @@
+== Summary ==
+{{logo fur
+<!-- REQUIRED -->
+ |Article           = FilesTube
+ |Use               = Org
+<!-- HIGHLY RECOMMENDED -->
+ |Source            = https://web.archive.org/web/20070615032108/http://www.filestube.com/
+<!-- ADDITIONAL INFORMATION -->
+ |Used for          = 
+ |Owner             = filestube.com
+ |Website           = filestube.com
+ |History           = 
+ |Commentary        = 
+<!-- OVERRIDE FIELDS -->
+ |Description       = The old logo of FilesTube showing a very close resemblance to [[YouTube]]'s former logo
+ |Portion           = whole image
+ |Low_resolution    = yes
+ |Purpose           = to see the changes made between the first and the second logo; visual representation; identification of the wbsite
+ |Replaceability    = no since it is a copyrighted logo
+ |other_information = old logo
+}}
+
+== Licensing ==
+{{Non-free logo|image has rationale=yes|auto=yes}}

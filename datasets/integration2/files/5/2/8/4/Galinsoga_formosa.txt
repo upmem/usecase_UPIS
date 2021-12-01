@@ -1,0 +1,31 @@
+{{taxobox
+ | image               = Flower and leaves of Galinsoga parviflora taken at Sandwip Island.jpg
+ | regnum              = [[Plantae]]
+ | unranked_divisio    = [[Angiosperms]]
+ | unranked_classis    = [[Eudicots]]
+ | unranked_ordo       = [[Asterids]]
+ | ordo                = [[Asterales]]
+ | familia             = [[Asteraceae]]
+ | genus               = ''[[Galinsoga]]''
+ | species             = '''''G. formosa'''''
+ | binomial            = ''Galinsoga formosa''
+ | binomial_authority  = [[Judith Marie Canne-Hilliker|Canne-Hill]]. 1977
+ | synonyms_ref        = <ref>[http://www.tropicos.org/Name/50180030 Tropicos, ''Galinsoga formosa'' Canne-Hill.]</ref><ref>[http://www.theplantlist.org/tpl1.1/record/gcc-16314 The Plant List, ''Alepidocline trifida'' (J.J.Fay) B.L.Turner ]</ref>
+ | synonyms            = *''Sabazia trifida'' <small>J.J.Fay 1973 not ''Galinsoga trifida'' Pers. 1803</small>
+*''Alepidocline trifida'' <small>(J.J.Fay) B.L.Turner</small> 
+| | image_width         = }}
+
+'''''Galinsoga formosa''''' is a rare Mexican species of flowering plant in the [[Asteraceae|daisy family]]. It has been found only the State of [[Oaxaca]] in southwestern [[Mexico]].<ref name=c>[https://www.biodiversitylibrary.org/page/663378#page/342/mode/1up Canne-Hilliker, Judith Marie. 1977. Rhodora 79(819): 338-340] in English, distribution map on page 339</ref><ref>Jørgensen, P. M., M. H. Nee & S. G. Beck. (eds.) 2014. Catálogo de las plantas vasculares de Bolivia, Monographs in systematic botany from the Missouri Botanical Garden 127(1–2): i–viii, 1–1744</ref>
+
+==Description==
+''Galinsoga formosa'' is a branching annual herb up to {{convert|100|cm|in|abbr=on}} tall. Leaves are up to {{convert|11|cm|in|abbr=on}} long. Flower heads are up to {{convert|22|mm|in|abbr=on}} across. Each head has 5-15 white (sometimes with a purplish underside) ray flowers surrounding up to 100 yellow disc flowers.<ref name=c/>
+
+==References==
+{{Reflist}}
+{{Taxonbar|from=Q15597226}}
+
+[[Category:Galinsoga|formosa]]
+[[Category:Flora of Oaxaca]]
+[[Category:Plants described in 1973]]
+
+{{Heliantheae-stub}}

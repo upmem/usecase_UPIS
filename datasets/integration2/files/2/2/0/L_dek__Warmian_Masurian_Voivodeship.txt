@@ -1,0 +1,40 @@
+{{Other places|Lądek (disambiguation){{!}}Lądek}}
+{{Infobox settlement
+| name = Lądek
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Bartoszyce County|Bartoszyce]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Bisztynek|Bisztynek]]
+| coordinates = {{coord|54|2|52|N|20|50|44|E|region:PL|display=inline}}
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| elevation_m =
+| population_total =
+| website = }}
+'''Lądek''' {{IPAc-pl|'|l|o|n|d|e|k}} (German ''Landau'') is a [[village]] in the administrative district of [[Gmina Bisztynek]], within [[Bartoszyce County]], [[Warmian-Masurian Voivodeship]], in northern Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|5|km|mi|0}} south-west of [[Bisztynek]], {{convert|23|km|mi|0|abbr=on}} south of [[Bartoszyce]], and {{convert|38|km|mi|0|abbr=on}} north-east of the regional capital [[Olsztyn]].
+
+[[First Partition of Poland|Before 1772]] the area was part of [[Crown of the Kingdom of Poland|Kingdom of Poland]], 1772-1945 Prussia and Germany ([[East Prussia]]).
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Bisztynek}}
+{{coord|54|2|52|N|20|50|44|E|region:PL_type:city|display=title}}
+
+{{DEFAULTSORT:Ladek, Warmian-Masurian Voivodeship}}
+[[Category:Villages in Bartoszyce County]]
+
+
+{{Bartoszyce-geo-stub}}

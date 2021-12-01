@@ -1,0 +1,42 @@
+{{short description|German automobile designer}}
+{{use dmy dates|date=February 2020}}
+{{Infobox person
+| name               = Michael Mauer
+| image              = Porsche, GIMS 2018, Le Grand-Saconnex (1X7A0197).jpg
+| alt                = 
+| caption            = 
+| birth_name         = 
+| birth_date         = {{Birth date and age|1962|7|28|df=y}}
+| birth_place        = [[Rotenburg an der Fulda]], Germany
+| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} or {{Death-date and age|Month DD, YYYY|Month DD, YYYY}} (death date then birth date) -->
+| children           = Samual Mauer and Amanda Mauer
+| death_place        = 
+| nationality        = German
+| other_names        = 
+| occupation         = Car Designer
+| known_for          = {{ubl|[[Mercedes-Benz SLK]]|[[Porsche 991]]|[[Porsche 918 Spyder]]}}
+}}
+
+'''Michael Mauer''' (born 1962)<ref>{{cite web|title=Harm Lagaay retires and is to be succeeded by Michael Mauer|url=http://www.porsche.com/international/aboutporsche/pressreleases/archive2004/quarter2/?pool=international-de&id=press86|work=Porsche|accessdate=5 November 2013|date=12 May 2004}}</ref>  is a German automobile designer. He is the Chief Designer at [[Porsche]]. He has previously worked for [[Mercedes-Benz]] and [[Saab Automobile|Saab]].<ref>{{cite web|title=Interview with Michael Mauer|url=http://www.greencardesign.com/site/interviews/interview-michael-mauer-head-of-design-porsche|work=Green Car Design|accessdate=5 November 2013|date=4 May 2012}}</ref>
+
+==Career==
+Mauer studied design from 1982 to 1986 at the [[Hochschule Pforzheim]]. His first job after graduating was with [[Mercedes-Benz]] in Sindelfingen. In 1989 he was appointed Design Project Leader for the [[Mercedes-Benz V-Class]]. In 1995 he was promoted to Head of Department and took responsibility for the new [[Mercedes-Benz A-Class|A-Class]], [[Mercedes-Benz SLK|SLK]]<ref>{{cite web|title=Interview: Michael Mauer of Porsche|url=http://www.autoblog.com/2010/03/04/porsche-design-mauer-interview/ |publisher=Autoblog.com}}</ref>  and [[Mercedes-Benz SL-Class|SL]] models. In 1998 Mauer moved to the Tokyo design studio as general manager. A year later, he moved back to Europe and was in charge of design at [[Smart (automobile)|Smart]].
+
+In June 2000 he left Mercedes to join [[General Motors]] and worked for [[Saab Group|Saab]] as Executive Director Design. In 2003 he became responsible for Advanced Design at General Motors Europe.
+
+Mauer joined Porsche in 2004, taking over from [[Harm Lagaay]],<ref>{{cite web|title=Michael Mauer|url=http://www.evo.co.uk/news/evonews/47201/michael_mauer.html|work=Evo|accessdate=5 November 2013|date=2 June 2004|url-status=dead|archiveurl=https://web.archive.org/web/20131105200907/http://www.evo.co.uk/news/evonews/47201/michael_mauer.html|archivedate=5 November 2013}}</ref> and is responsible for the [[Porsche Cayenne|Cayenne]], [[Porsche Macan|Macan]], [[Porsche Panamera|Panamera]],<ref>{{cite web|title=A Conversation with Porsche's Head of Design Michael Mauer|url=http://wot.motortrend.com/a-conversation-with-porsches-head-of-design-michael-mauer-269387.html|work=Motor Trend|accessdate=5 November 2013|date=1 October 2012}}</ref>  [[Porsche 991|911 (991)]] and [[Porsche 918|918 Spyder]]. The 2012 911 won the [[Red Dot]] award.<ref>{{cite web|title=Top award for iconic sports car manufacturer Porsche is red dot: design team of the year 2012|url=http://red-dot.de/pd/celebration/design-team-of-the-year-2012-porsche/?lang=en|work=Red Dot|accessdate=5 November 2013}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://press.porsche.com/more_about/executives/pag/mauer.php}}
+
+{{Porsche vehicles}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mauer, Michael}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:German automobile designers]]
+[[Category:Porsche people]]

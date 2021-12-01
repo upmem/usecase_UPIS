@@ -1,0 +1,50 @@
+{{Orphan|date=January 2017}}
+{{one source|date=February 2017}}
+
+{{Infobox television
+| name = Italian Idol
+| image     = 
+| alt_name = 
+| genre    = [[Reality television]]
+| creator  = [[Simon Fuller]]
+| presenter = TBA
+| judges = TBA
+| theme_music_composer = 
+| country     = [[Italy]]
+| language    = [[Italian language|Italian]]
+| num_seasons = 1
+| num_episodes = TBA
+| list_episodes = 
+| executive_producer = 
+| runtime = 
+| company = 
+| distributor = [[FremantleMedia|Freemantle Media Italia]]
+| channel = [[Rai 2]]
+| picture_format = [[HDTV]] [[1080p]]
+| first_aired = {{start date|2021}}
+| last_aired = 
+| website    = 
+}}
+
+'''Italian Idol''' is an upcoming reality singing competition and Italian version of [[American television series]] created by [[Simon Fuller]], to be aired on [[Rai 2]].<ref>{{cite news|url=http://www.davidemaggio.it/archives/134716/rai-2-the-voice-cancellato-arriva-italian-idol|title= Rai 2 cancella The Voice. Arriva The Idol. |work=DavideMaggio.it|accessdate=July 15, 2016}}</ref>
+
+==Format==
+
+{{Empty section|date=January 2017}}
+
+==Judges and hosts==
+
+{{Empty section|date=January 2017}}
+
+==Season summary==
+
+{{Empty section|date=January 2017}}
+
+==Television ratings==
+
+{{Empty section|date=January 2017}}
+
+==References==
+{{Reflist}}
+
+[[Category:Italian reality television series]]

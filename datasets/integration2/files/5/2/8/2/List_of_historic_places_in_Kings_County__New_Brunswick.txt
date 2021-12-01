@@ -1,0 +1,1236 @@
+[[Image:Map of New Brunswick highlighting Kings County.png|thumb|right|200px]]
+This article is a '''list of historic places in [[Kings County, New Brunswick]]''' entered on the [[Canadian Register of Historic Places]], whether they are federal, provincial, or municipal.
+{{GeoGroup}}
+
+==List of historic places==
+{{HPC header|prov_iso=CA-NB}}
+{{HPC row
+| name = Alwington Manor
+| address = 15 Station Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E2E
+| lat = 45.3477
+| lon = -66.2238
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19338
+| image =
+}}
+{{HPC row
+| name = Anglican Church of the Resurrection
+| address = 20 MacDonald Avenue
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E2E
+| lat = 45.3073
+| lon = -66.1966
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19332
+| image =
+}}
+{{HPC row
+| name = Arnold House
+| address = 811 Main Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E2E
+| lat = 45.7210
+| lon = -65.5011
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10327
+| image =
+}}
+{{HPC row
+| name = Belleview Hotel
+| address = 15 Station Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3893
+| lon = -65.9986
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 6977
+| image =
+}}
+{{HPC row
+| name = Black Loyalist Land Grants
+| address = Douglas Street
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E2E
+| lat = 45.3546
+| lon = -66.2466
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19312
+| image =
+}}
+{{HPC row
+| name = Black-Palmer Residence
+| address = 65 Church Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7211
+| lon = -65.5106
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10322
+| image =
+}}
+{{HPC row
+| name = Brenan House
+| address = 3189 Rothesay Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3857
+| lon = -65.9974
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7083
+| image =
+}}
+{{HPC row
+| name = 9 Brittain Road
+| address = 9 Brittain Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.397
+| lon = -66.2916
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18368
+| image =
+}}
+{{HPC row
+| name = Brock House
+| address = 10 Maiden Lane
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3854
+| lon = -65.9949
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10260
+| image =
+}}
+{{HPC row
+| name = Brooks Residence
+| address = 148 Maple Avenue
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7263
+| lon = -65.5043
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8706
+| image =
+}}
+{{HPC row
+| name = Church Avenue Fountain
+| address = 135 Church Avenue
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.719
+| lon = -65.5102
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8697
+| image =
+}}
+{{HPC row
+| name = 8 Church Avenue
+| address = 8 Church Avenue
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3896
+| lon = -65.9956
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7049
+| image =
+}}
+{{HPC row
+| name = Cleasby
+| address = 4 Allison Drive
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3781
+| lon = -65.9954
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10218
+| image =
+}}
+{{HPC row
+| name = George W. Crawford House
+| address = 2 Brundage Point Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E2E
+| lat = 45.3486
+| lon = -66.2250
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19343
+| image =
+}}
+{{HPC row
+| name = Crosby House
+| address = 3197 Rothesay Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3861
+| lon = -65.9978
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7074
+| image =
+}}
+{{HPC row
+| name = Depot Hotel
+| address = 1 Queen Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7227
+| lon = -65.5138
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8714
+| image =
+}}
+{{HPC row
+| name = Diadema White House
+| address = 177 Church Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7173
+| lon = -65.5091
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10307
+| image =
+}}
+{{HPC row
+| name = Dominion Building
+| address = 524 Main Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7235
+| lon = -65.5112
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8711
+| image =
+}}
+{{HPC row
+| name = Duart Hall
+| address = 19 Station Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3899
+| lon = -65.9986
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 6978
+| image =
+}}
+{{HPC row
+| name = Fairweather Residence
+| address = 170 Church Avenue
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7178
+| lon = -65.5085
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8708
+| image =
+}}
+{{HPC row
+| name = Firshade
+| address = 3000 Rothesay Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3802
+| lon = -65.9961
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7051
+| image =
+}}
+{{HPC row
+| name = Forbes Residence
+| address = 60 Essex Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7231
+| lon = -65.5192
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10336
+| image =
+}}
+{{HPC row
+| name = Fort Nerepis National Historic Site of Canada
+| address = Woodman's Point Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3702
+| lon = -66.2342
+| region = NB
+| provinceId = 100036
+| idf = 13166
+| idp =
+| idm =
+| image = Nerepis Fort Plaque.jpg
+}}
+{{HPC row
+| name = 42 Gondola Point Road
+| address = 42 Gondola Point Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3922
+| lon = -65.9969
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7107
+| image =
+}}
+{{HPC row
+| name = Gunn House
+| address = 201 St George Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7213
+| lon = -65.5234
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10325
+| image =
+}}
+{{HPC row
+| name = Hampton Gaol (Jail)
+| address = 17 Centennial Rd.
+| municipality = [[Hampton, New Brunswick|Hampton]]
+| pc = E5N
+| lat = 45.5265
+| lon = -65.8264
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 5735
+| idm =
+| image = HamptonNBGaol 2013.jpg
+}}
+{{HPC row
+| name = 18 Hampton Road
+| address = 18 Hampton Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3885
+| lon = -65.9942
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7025
+| image =
+}}
+{{HPC row
+| name = Intercolonial Railway Station
+| address = Broad Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7225
+| lon = -65.5131
+| region = NB
+| provinceId = 100036
+| idf = 6887
+| idp =
+| idm = 8712
+| image =
+}}
+{{HPC row
+| name = Jonah Residence
+| address = 977 Main Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7175
+| lon = -65.4944
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10305
+| image =
+}}
+{{HPC row
+| name = Kennebecasis Rowing Sculpture
+| address = Rothesay Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2H
+| lat = 45.3728
+| lon = -66.0098
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10246
+| image =
+}}
+{{HPC row
+| name = Kings County Court House
+| address = 648 Main Street
+| municipality = [[Hampton, New Brunswick|Hampton]]
+| pc = E5N
+| lat = 45.5264
+| lon = -65.8269
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 12896
+| idm =
+| image = King Court House Hampton.JPG
+}}
+{{HPC row
+| name = Kingston Historic District
+| address = Crossroads of Routes 845 and 850
+| municipality = [[Kingston, New Brunswick|Kingston]]
+| pc = E5N
+| lat = 45.5028
+| lon = -65.975
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 7438
+| idm =
+| image =
+}}
+{{HPC row
+| name = Kirkhill Cemetery
+| address = Duke Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.727
+| lon = -65.518
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8704
+| image =
+}}
+{{HPC row
+| name = Kirtley-Hayter Homestead
+| address = 171 Woolastook Drive
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E4E
+| lat = 45.3186
+| lon = -66.1994
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19339
+| image =
+}}
+{{HPC row
+| name = The Knoll
+| address = 7 Knoll Lane
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3854
+| lon = -65.9916
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10221
+| image =
+}}
+{{HPC row
+| name = Lewin House
+| address = 25 Gondola Point Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3899
+| lon = -65.9977
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7048
+| image =
+}}
+{{HPC row
+| name = Lingley Family Homestead
+| address = 2 Mallard Drive
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E4E
+| lat = 45.3629
+| lon = -66.2441
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19341
+| image =
+}}
+{{HPC row
+| name = McKnight House
+| address = 155 Green Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2H
+| lat = 45.3749
+| lon = -65.9982
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10244
+| image =
+}}
+{{HPC row
+| name = Mount Hope Cemetery
+| address = 700 Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3971
+| lon = -66.3009
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18341
+| image =
+}}
+{{HPC row
+| name = Mount Hope Farm
+| address = 690 Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3967
+| lon = -66.2989
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 1250
+| idm =
+| image =
+}}
+{{HPC row
+| name = Nase Cemetery
+| address = Next to 273 Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc =
+| lat = 45.3573
+| lon = -66.2376
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18363
+| image =
+}}
+{{HPC row
+| name = Nerepis School Site
+| address = 670 Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3966
+| lon = -66.2948
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18342
+| image =
+}}
+{{HPC row
+| name = 33 Nerepis Road
+| address = 33 Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3348
+| lon = -66.2164
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18385
+| image =
+}}
+{{HPC row
+| name = 34 Nerepis Road
+| address = 34 Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3355
+| lon = -66.2156
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18362
+| image =
+}}
+{{HPC row
+| name = 52 Nerepis Road
+| address = 52 Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3368
+| lon = -66.2166
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18386
+| image =
+}}
+{{HPC row
+| name = 525 Nerepis Road
+| address = 525 Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3794
+| lon = -66.2724
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18387
+| image =
+}}
+{{HPC row
+| name = Old Crosby House
+| address = 28 Gondola Point Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3906
+| lon = -65.997
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 6973
+| image =
+}}
+{{HPC row
+| name = Old MacDougall Residence
+| address = 197 Church Avenue
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7167
+| lon = -65.5096
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8709
+| image =
+}}
+{{HPC row
+| name = Old Medical Clinic
+| address = 12 Gondola Point Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3887
+| lon = -65.9971
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7014
+| image =
+}}
+{{HPC row
+| name = Old Portage Trail
+| address = 633 Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E2E
+| lat = 45.3890
+| lon = -66.2848
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19335
+| image =
+}}
+{{HPC row
+| name = Our Lady of Perpetual Help Catholic Church
+| address = 33 Gondola Point Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3907
+| lon = -65.9978
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7024
+| image =
+}}
+{{HPC row
+| name = Pamdenec Summer Community
+| address = Pamdenec Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc =
+| lat = 45.316
+| lon = -66.1918
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18364
+| image =
+}}
+{{HPC row
+| name = Porter House
+| address = 156 Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E2E
+| lat = 45.3447
+| lon = -66.2244
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19330
+| image =
+}}
+{{HPC row
+| name = Purd's
+| address = 64 Gondola Point Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3949
+| lon = -65.9967
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10219
+| image =
+}}
+{{HPC row
+| name = 192 River Valley Drive
+| address = 192 River Valley Drive
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3023
+| lon = -66.1949
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18388
+| image =
+}}
+{{HPC row
+| name = 241 River Valley Drive
+| address = 241 River Valley Drive
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3042
+| lon = -66.1950
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19344
+| image =
+}}
+{{HPC row
+| name = Rothesay Common
+| address = bordered by Gondola Point Road, Old Hampton Road, and Church Avenue
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3886
+| lon = -65.996
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 6975
+| image =
+}}
+{{HPC row
+| name = Rothesay Netherwood School
+| address = 40 College Hill Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3803
+| lon = -65.9916
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7456
+| image =
+}}
+{{HPC row
+| name = Rothesay Railway Station (European and North American) National Historic Site of Canada
+| address = near Rothesay Road and Tennis Court Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3833
+| lon = -66
+| region = NB
+| provinceId = 100036
+| idf = 7546
+| idp =
+| idm =
+| image = Rothesay Station 2007.jpg
+}}
+{{HPC row
+| name = 3218 Rothesay Road
+| address = 3218 Rothesay Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3867
+| lon = -65.9965
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 6976
+| image =
+}}
+{{HPC row
+| name = St. Augustine's Roman Catholic Church
+| address = 279 Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3594
+| lon = -66.2396
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18366
+| image =
+}}
+{{HPC row
+| name = Saint David's United Church
+| address = 7 Gondola Point Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.388
+| lon = -65.9976
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7012
+| image =
+}}
+{{HPC row
+| name = St. James Anglican Cemetery
+| address = Nerepis Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E2E
+| lat = 45.3507
+| lon = -66.2315
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19336
+| image =
+}}
+{{HPC row
+| name = St. Luke's Anglican Church National Historic Site of Canada
+| address = 12 Quispamsis Road
+| municipality = [[Quispamsis, New Brunswick|Quispamsis]]
+| pc = E2E
+| lat = 45.4493
+| lon = -65.9759
+| region = NB
+| provinceId = 100036
+| idf = 13555
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Saint Paul's Anglican Church
+| address = 6 Church Avenue
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3895
+| lon = -65.9954
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7149
+| image =
+}}
+{{HPC row
+| name = Sand Point Lighthouse
+| address = Sand Point Wharf Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E2E
+| lat = 45.3424
+| lon = -66.1991
+| region = NB
+| provinceId = 100036
+| idf = 20933
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Satalic House
+| address = 11 Station Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3887
+| lon = -65.9986
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7006
+| image =
+}}
+{{HPC row
+| name = Shadow Lawn
+| address = 3180 Rothesay Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3855
+| lon = -65.9965
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7073
+| image =
+}}
+{{HPC row
+| name = Sharp's Corner Drug Store
+| address = 3 Broad Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7234
+| lon = -65.5116
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8716
+| image =
+}}
+{{HPC row
+| name = Slipp/Deichmann/Wallace Residence
+| address = 34 Sunnyside Drive
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7264
+| lon = -65.5214
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8715
+| image =
+}}
+{{HPC row
+| name = Squarebriggs Residence
+| address = 2 Paradise Row
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7218
+| lon = -65.5169
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10320
+| image =
+}}
+{{HPC row
+| name = 3 Station Road
+| address = 3 Station Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3875
+| lon = -65.9985
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 7009
+| image =
+}}
+{{HPC row
+| name = Stevens Family Cemetery
+| address = Brandy Crescent
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E2E
+| lat = 45.3287
+| lon = -66.2030
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19334
+| image =
+}}
+{{HPC row
+| name = Stevens Homestead
+| address = 268 Woolastook Drive
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E2E
+| lat = 45.3245
+| lon = -66.2037
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19333
+| image =
+}}
+{{HPC row
+| name = Stoneycroft
+| address = 255 Hampton Road
+| municipality = Quispamsis
+| pc = E2E
+| lat = 45.4096
+| lon = -65.9631
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 10067
+| idm =
+| image =
+}}
+{{HPC row
+| name = Strathnaver
+| address = 3105 Rothesay Road
+| municipality = [[Rothesay, New Brunswick|Rothesay]]
+| pc = E2E
+| lat = 45.3832
+| lon = -65.9972
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10216
+| image =
+}}
+{{HPC row
+| name = Sussex Ginger Ale Factory
+| address = 67 Pleasant Avenue
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7202
+| lon = -65.5124
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8696
+| image =
+}}
+{{HPC row
+| name = Sutherland Residence
+| address = 387 Main Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.723707 
+| lon = -65.517819
+| region = NB
+| provinceId = 
+| idf =
+| idp =
+| idm = 10339
+| image =
+}}
+{{HPC row
+| name = Trinity Anglican Church
+| address = 857 Main Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E5N
+| lat = 45.7201
+| lon = -65.4998
+| region = NB
+| provinceId = 100036
+| idf = 
+| idp =
+| idm = 8713
+| image =
+}}
+{{HPC row
+| name = Trinity Church and Rectory National Historic Site of Canada
+| address =
+| municipality = [[Kingston, New Brunswick|Kingston]]
+| pc = E5N
+| lat = 45.5026
+| lon = -65.9757
+| region = NB
+| provinceId = 100036
+| idf = 12087
+| idp =
+| idm =
+| image = Trinity Church and Rectory National Historic Site of Canada.png
+}}
+{{HPC row
+| name = Wallace Twins Houses
+| address = 376 and 380 Main Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E5R
+| lat = 45.4242
+| lon = -65.5182
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10338
+| image =
+}}
+{{HPC row
+| name = Westfield Beach
+| address =
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc =
+| lat = 45.3548
+| lon = -66.2347
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18367
+| image =
+}}
+{{HPC row
+| name = Westfield Golf and Country Club
+| address = 8 Golf Club Road
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E5K
+| lat = 45.3368
+| lon = -66.2213
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18365
+| image =
+}}
+{{HPC row
+| name = Westfield United Church
+| address = 268 Woolastook Drive
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc = E2E
+| lat = 45.3417
+| lon = -66.2220
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 19329
+| image =
+}}
+{{HPC row
+| name = Westfield Wharf Site
+| address =
+| municipality = [[Grand Bay-Westfield, New Brunswick|Grand Bay-Westfield]]
+| pc =
+| lat = 45.3489
+| lon = -66.2241
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18361
+| image = Cable ferry at Westfield.jpg
+}}
+{{HPC row
+| name = Williamson Residence
+| address = 371 Main Street
+| municipality = [[Sussex, New Brunswick|Sussex]]
+| pc = E4E
+| lat = 45.7238
+| lon = -65.5186
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10341
+| image =
+}}
+{{HPC row
+| name = [[Wolastoq National Historic Site of Canada]]
+| coordname = Wolastoq National Historic Site of Canada
+| address = Entire watershed of [[Saint John River (Bay of Fundy)|Saint John River]]
+| municipality = central and western New Brunswick, parts of southeastern Quebec
+| pc = E4E
+| lat = 45.3401
+| lon = -66.2055
+| region = NB
+| provinceId = 100036
+| idf = 18954
+| idp =
+| idm =
+| image = View of Saint John River Westfield.jpg
+| commonscat=Saint John River
+}}
+{{HPC footer}}
+
+==See also==
+{{Commons category|Cultural heritage monuments in New Brunswick}}
+* [[List of historic places in New Brunswick]]
+* [[List of National Historic Sites of Canada in New Brunswick]]
+
+{{DEFAULTSORT:Historic places in Kings County, New Brunswick}}
+[[Category:Lists of historic places in New Brunswick|Kings County, New Brunswick]]
+[[Category:New Brunswick-related lists]]

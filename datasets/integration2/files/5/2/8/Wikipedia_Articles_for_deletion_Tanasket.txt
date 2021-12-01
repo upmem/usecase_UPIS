@@ -1,0 +1,16 @@
+<div class="boilerplate metadata afd vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result was    '''delete'''. '''[[User:Tone|Tone]]''' 17:12, 17 December 2011 (UTC)
+===[[Tanasket]]===
+
+:{{la|Tanasket}} – (<includeonly>[[Wikipedia:Articles for deletion/Tanasket|View AfD]]</includeonly><noinclude>[[Wikipedia:Articles for deletion/Log/2011 December 9#{{anchorencode:Tanasket}}|View log]]</noinclude>)
+:({{Find sources|Tanasket}})
+I have searched but have been unable to find any evidence that this word is in common usage.  The article is unreferenced; even with one or two references it may only be appropriate to merge to [[horse meat]].  (In short: fails [[WP:GNG]].) [[User:Several_Times|§everal]]⇒|[[User_talk:Several_Times|Times]] 16:00, 9 December 2011 (UTC)
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Food and drink|list of Food and drink-related deletion discussions]]. <!--Template:Deletion sorting--></small> <small>[[User:Gene93k|• Gene93k]] ([[User talk:Gene93k|talk]]) 19:42, 9 December 2011 (UTC)</small>
+*'''Delete''' - I don't see anything about it anywhere. It could be made up for all we know. [[WP:BURDEN]] applies, so the article's writer must provide evidence to avoid deletion. [[User:Richard-of-Earth|Richard-of-Earth]] ([[User talk:Richard-of-Earth|talk]]) 21:50, 9 December 2011 (UTC)
+*'''Delete''' per nom. --'''[[User:Legis|Legis]]''' <small>([[User talk:Legis|talk]] - [[Special:Contributions/Legis|contribs]])</small> 05:37, 11 December 2011 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. <!--Template:Afd bottom--></div>

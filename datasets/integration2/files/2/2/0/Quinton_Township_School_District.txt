@@ -1,0 +1,61 @@
+{{Infobox school district
+| name           = Quinton Township School District
+| superintendent = Margaret M. Delia
+| businessadmin  = Heather M. Mayhew
+| address        = 8 Robinson Street<br>Quinton, NJ 08072
+| grades         = [[kindergarten|K]]-[[eighth grade|8]]
+| schools        = 1
+| enrollment     = 492 (as of 2014-15)<ref name=NCES/>
+| faculty        = 27.0 [[full-time equivalent|FTEs]]<ref name=NCES/>
+| ratio          = 18.2:1<ref name=NCES/>
+| free_label     = [[District Factor Group]]
+| free_text      = A
+| website        = [http://quinton.nj.schoolwebpages.com District web site]
+| module         = {{New Jersey school district spending table|embed=yes
+| year           = 2014
+| graderange     = K-8
+| enrollrange    = up to 400
+| rangecount     = 71
+| indAdist  = 16610| indArank  = 13| indAavg  = 18891
+| ind1dist  = 11431| ind1rank  =  8| ind1avg  = 14159
+| ind2dist  =  6672| ind2rank  =  8| ind2avg  =  8659
+| ind6dist  =  1441| ind6rank  =  8| ind6avg  =  2167
+| ind8dist  =  1671| ind8rank  = 39| ind8avg  =  1547
+| ind10dist =  1518| ind10rank = 22| ind10avg =  1612
+| ind13dist =   125| ind13rank = 29| ind13avg =   104
+| ind16dist = 61547| ind16rank = 53| ind16avg = 61136
+}}
+}}
+The '''Quinton Township School District''' is a comprehensive community [[state school|public]] [[school district]] that serves students in [[kindergarten]] through [[eighth grade]] from [[Quinton Township, New Jersey|Quinton Township]] in [[Salem County, New Jersey|Salem County]], [[New Jersey]], United States.
+
+As of the 2014-15 school year, the district and its one school had an enrollment of 492 students and 27.0 classroom teachers (on an [[full-time equivalent|FTE]] basis), for a [[student–teacher ratio]] of 18.2:1.<ref name=NCES>[http://nces.ed.gov/ccd/districtsearch/district_detail.asp?Search=2&details=1&ID2=3413500&DistrictID=3413500 District information for Quinton Township School District], [[National Center for Education Statistics]]. Accessed December 7, 2016.</ref>
+
+The district is classified by the [[New Jersey Department of Education]] as being in [[District Factor Group]] "A", the lowest of eight groupings. District Factor Groups organize districts statewide to allow comparison by common [[socioeconomic]] characteristics of the local districts. From lowest socioeconomic status to highest, the categories are A, B, CD, DE, FG, GH, I and J.<ref>[http://www.state.nj.us/education/finance/rda/dfg.shtml NJ Department of Education District Factor Groups (DFG) for School Districts], [[New Jersey Department of Education]]. Accessed December 8, 2014.</ref>
+
+Public school students in [[ninth grade|ninth]] through [[twelfth grade]]s attend [[Salem High School (New Jersey)|Salem High School]] in [[Salem, New Jersey|Salem City]], together with students from [[Elsinboro Township, New Jersey|Elsinboro Township]], [[Lower Alloways Creek Township, New Jersey|Lower Alloways Creek Township]] and [[Mannington Township, New Jersey|Mannington Township]], as part of a [[sending/receiving relationship]] with the [[Salem City School District (New Jersey)|Salem City School District]].<ref>[http://www.salemnj.org/cms/One.aspx?portalId=5607798&pageId=5976960 Our Sending Districts], [[Salem City School District (New Jersey)]]. Accessed January 24, 2017. "Salem High School welcomes students from: Elsinboro Township School; Lower Alloways Creek School; Mannington Township School; Quinton Township School"</ref><ref>Shott, Meghan. [http://www1.southjersey.com/article/33110/Salem-High-School/156/140 "Salem High School"], SouthJersey.com. Accessed January 24, 2017. "Students from Elsinboro, Lower Alloways Creek Township, Mannington Township and Quinton Township attend the high school as part of a sending/receiving relationship, according to the school's 2010 Report Card from the NJ Department of Education."</ref><ref>Bumpus, Robert L. ''Salem County Report on Consolidation and Regionalization'', [[Salem County, New Jersey]] Executive County Superintendent, March 15, 2010.  "In this area of Salem County four P-8 districts, Lower Alloway Creek, Quinton, Elsinboro, and Mannington Townships have a send/receive agreement with neighboring Salem City to send their students to Salem High School."</ref> As of the 2014-15 school year, the high school had an enrollment of 317 students and 49.0 classroom teachers (on an [[full-time equivalent|FTE]] basis), for a [[student–teacher ratio]] of 6.5:1.<ref>[http://nces.ed.gov/ccd/schoolsearch/school_detail.asp?Search=1&DistrictID=3414550&ID=341455005090 School data for Salem High School], [[National Center for Education Statistics]]. Accessed December 12, 2016.</ref>
+
+==Schools==
+Schools in the district (with 2014-15 enrollment data from the [[National Center for Education Statistics]]<ref>[http://nces.ed.gov/ccd/schoolsearch/school_list.asp?Search=1&DistrictID=3413500 School Data for the Quinton Township School District], [[National Center for Education Statistics]]. Accessed December 7, 2016.</ref>) are:<ref>[https://homeroom5.doe.state.nj.us/directory/school.php?district=4280&source=01 New Jersey School Directory for the Quinton Township School District], [[New Jersey Department of Education]]. Accessed December 29, 2016.</ref>
+;Elementary school
+*Quinton Township Elementary School (359 students)
+**Stewart Potter, Principal<ref>[http://quinton.nj.schoolwebpages.com/education/school/school.php?sectionid=2&url_redirect=1 About Our School], Quinton Township School District. Accessed January 24, 2017.</ref>
+
+==Administration==
+Core members of the district's administration are:<ref>[http://quinton.nj.schoolwebpages.com/education/dept/deptinfo.php?sectiondetailid=1315& Board of Education], Quinton Township School District. Accessed January 24, 2017.</ref><ref>[https://homeroom5.doe.state.nj.us/directory/district.php?source=01&county=salem New Jersey School Directory for Salem County], [[New Jersey Department of Education]]. Accessed December 29, 2016.</ref>
+*Margaret M. Delia, Superintendent
+*Heather M. Mayhew, Business Administrator / Board Secretary
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://quinton.nj.schoolwebpages.com/ Quinton Township School District]
+*{{NJReportCard|33|4280|0|Quinton Township School District}}
+*[http://nces.ed.gov/ccd/schoolsearch/school_list.asp?Search=1&DistrictID=3413500 School Data for the Quinton Township School District], [[National Center for Education Statistics]]
+{{coord|39.546219|-75.412727|region:US_type:edu|display=title}}
+
+{{Salem County, New Jersey School Districts}}
+
+[[Category:New Jersey District Factor Group A]]
+[[Category:Quinton Township, New Jersey]]
+[[Category:School districts in Salem County, New Jersey]]

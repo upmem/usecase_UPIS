@@ -1,0 +1,42 @@
+{{short description|British motorcycle racer}}
+{{Use dmy dates|date=March 2017}}
+{{Use British English|date=March 2017}}
+{{Infobox person
+|name = George Patchett
+|image = 
+|caption =
+|birth_date = 
+|birth_place =
+|death_date = 
+|death_place = 
+|other_names =
+|known_for = Motorcycle racing and world records
+|occupation = Racer and specialist motorcycle designer
+|nationality = {{flagicon|UK}}
+}}
+
+'''George William Patchett''' was a British motorcycle racer and engineer.
+
+==Career==
+In his early career he was a motor cycle racer for motorcycle manufacturers such as [[Brough Superior]], [[McEvoy Motorcycles|McEvoy]] and the Belgian arms company [[FN Herstal|FN]]. At [[Pendine]], Wales he won the Welsh TT in 1925 and the Welsh TT sidecar in 1927 on Brough machines.
+
+In 1930 he was recruited by the [[Czech Republic|Czech]] arms manufacturer [[Frantisek Janecek]], founder of the JAWA motorcycle company. Janecek wanted to build a cheaper motor cycle than their current model. Patchett's contacts with the Villiers company enabled a new JAWA model to be designed around the Villiers 175cc two-stroke engine which proved very popular.<ref name="1959 JAWA 355 - Part One">{{cite web|url = http://www.realclassic.co.uk/jawa07041700.html|title = 1959 JAWA 355 - Part One|accessdate = 1 August 2010}}</ref>
+
+[[File:Sterling SMG.JPG|thumb|right|9mm Sterling machine-gun Mark IV]]
+On the outbreak of World War II in 1939, Patchett returned to England and started work under the auto-engineer [[George Lanchester]] at the [[Sterling Armaments Company]] in Dagenham, Essex, helping to gear up manufacture of the Lanchester sub-machine gun. On his way out of [[Prague]] he managed to throw prototype samples of Janeček's new anti-tank device over the wall of the British Embassy.<ref name="1959 JAWA 355 - Part One"/>
+
+By 1942, he was leading a design team to design a new sub-machine gun to the army's specification which was referred to as the "Patchett Machine Carbine". After successfully taking part in extensive army trials in the mid to late 1940s it was adopted by the British Army to replace the Sten gun and known by them as the 9mm Sterling sub-machine gun [[Sterling submachine gun|L2A1]]. A modified version, the [[L2A3]], was the very popular Sterling Mk IV which saw service until the 1990s.<ref>{{cite web|url = http://world.guns.ru/smg/smg28-e.htm|title = Sterling - Patchett L2A1 (Mk.1) - L2A3 (Mk.4), L34A1 (Mk.5) submachine gun (Great Britain)|accessdate = 1 August 2010}}</ref>
+
+In 1966, the British High Court awarded Patchett £116,975 (£{{formatprice|{{Inflation|UK|116975|1966|r=-1}}|0}} as of {{CURRENTYEAR}}) for the British government's use of the machine gun he patented. The same amount was awarded to Sterling, which had sued for half a million pounds. [[George Lloyd-Jacob|Mr. Justice Lloyd-Jacob]] referred to Patchett as "a distinguished inventor and valued designer" in making the award.<ref>{{cite news |title=Gun inventor gets £116,000 |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0002135/19660622/152/0009 |accessdate=6 July 2018 |work=Birmingham Daily Post |date=22 June 1966 |page=9}}</ref>
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Patchett, George William}}
+[[Category:English engineers]]
+[[Category:Firearm designers]]
+[[Category:British motorcycle racers]]
+[[Category:Year of birth missing]]
+[[Category:Year of death missing]]

@@ -1,0 +1,42 @@
+{{Infobox park
+| name = Columbia Park
+| photo = Columbia Park (Portland, Oregon).jpg
+| photo_width = 250
+| photo_caption = The playground at the park, 2012
+| map = 
+| map_width = 
+| type = 
+| location = [[Lombard Street (Portland, Oregon)|North Lombard&nbsp;Street]] and Woolsey&nbsp;Avenue
+| nearest_city = [[Portland, Oregon]], U.S.
+| coords = {{coord|45.5795|-122.7117|region:US_type:landmark|display=inline,title}}
+| area = 35.37 acres
+| created = 1891
+| operator = [[Portland Parks & Recreation]]
+| visitation_num = 
+| status = 
+| open = 
+}}
+'''Columbia Park''' is a park located in north [[Portland, Oregon]], United States.
+
+==History==
+The city of [[Albina, Oregon|Albina]] purchased the land in 1891, prior to its annexation by the city of Portland. In 1909 G.H. Hoch, head gardener for [[Washington Park (Portland, Oregon)|Washington Park]], oversaw the design, which he "patterned ... after a famous [[List of parks and gardens in Berlin|park in Berlin]]."<ref name=PPR>{{Cite web |url= http://www.portlandonline.com/parks/finder/index.cfm?action=ViewPark&PropertyID=17 |title= Columbia Park|accessdate=December 9, 2011|publisher=[[Portland Parks & Recreation]]}}</ref>
+[[File:Proposed site for Lewis & Clark Centennial Exposition, University Park.jpg|thumb|300px|none|A 1902 site plan, on land that later became the [[University Park, Portland, Oregon|University Park]] neighborhood, for the [[Lewis and Clark Centennial Exposition]].  Columbia Park is at lower right.]]
+
+==See also==
+{{Portal|Oregon}}
+* [[List of parks in Portland, Oregon]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Commons category-inline|Columbia Park (Portland, Oregon)}}
+
+{{Parks in Portland, Oregon}}
+[[Category:1891 establishments in Oregon]]
+[[Category:Parks in Portland, Oregon]]
+[[Category:Portsmouth, Portland, Oregon]]
+[[Category:Protected areas established in 1891]]
+
+
+{{Oregon-stub}}

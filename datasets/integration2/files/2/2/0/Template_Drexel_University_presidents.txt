@@ -1,0 +1,30 @@
+{{Navbox
+|name = Drexel University presidents
+|title = Presidents of {{colored link|white|Drexel University}}
+|titlestyle = {{CollegePrimaryStyle|Drexel Dragons|color=white}}
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+
+|list1 =
+* [[James A. MacAlister|MacAlister]]
+* [[Hollis Godfrey|Godfrey]]
+* [[Kenneth G. Matheson|Matheson]]
+* [[Parke Kolbe|Kolbe]]
+* [[George Rea|Rea]]
+* [[Robert Disque|Disque]] (interim)*
+* [[James Creese|Creese]]
+* [[William W. Hagerty|Hagerty]]
+* [[William S. Gaither|Gaither]]
+* Myers (interim)
+* Breslin
+* [[Celestino Pennoni|Pennoni]] (interim)
+* [[Constantine Papadakis|Papadakis]]
+* [[Celestino Pennoni|Pennoni]] (interim)
+* [[John Anderson Fry|Fry]]
+
+{{small|*In 2009 new standards for presidency were set and as a result Disque was removed from the numerical list of presidents and Myers and Pennoni added, making Fry the 14th president.}}
+}}<includeonly>{{main other|[[Category:Presidents of Drexel University]]}}</includeonly><noinclude>
+{{collapsible option}}
+
+[[Category:Pennsylvania universities and colleges leaders navigational boxes]]
+</noinclude>

@@ -1,0 +1,35 @@
+{{Other places|Podlesie (disambiguation){{!}}Podlesie}}
+{{Infobox settlement
+| name = Podlesie
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline = Podlesie, powiat Oborniki.jpg
+| image_caption = Road in Podlesie
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Oborniki|Oborniki]]
+|pushpin_map=Poland
+|coordinates = {{coord|52|44|N|16|41|E|region:PL|display=inline}}
+| elevation_m =
+| population_total =
+| website = }}
+'''Podlesie''' {{IPAc-pl|p|o|d|'|l|e|ś|e}} ({{lang-de|Waldheide}}) is a [[village]] in the administrative district of [[Gmina Oborniki]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) &ndash; TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|13|km|mi|0}} north-west of [[Oborniki]] and {{convert|41|km|mi|0|abbr=on}} north-west of the regional capital [[Poznań]].
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Oborniki}}
+
+{{coord|52.7333|N|16.6833|E|region:PL_type:city_source:enwiki-GNS-gminamatcher|display=title}}
+
+[[Category:Villages in Oborniki County|Podlesie]]
+{{Oborniki-geo-stub}}

@@ -1,0 +1,874 @@
+'''Group B of the 2015 CONCACAF Gold Cup''' was one of three groups competing of nations at the [[2015 CONCACAF Gold Cup]]. The group's matches were played in July. Four group matches were played at venues in the United States and two were played in Canada. Matches were played at [[Carson, California|Carson]]'s [[StubHub Center]] on July 8, [[Houston]]'s [[BBVA Compass Stadium]] on July 11 and [[Toronto]]'s [[BMO Field]] on July 14.<ref>{{cite web|title=CONCACAF Announces 2015 Gold Cup Host Cities, Venues, Group Seeds and Group Stage Dates|url=http://www.concacaf.com/article/concacaf-announces-2015-gold-cup-host-cities-venues-group-seeds-and-group-stage-dates|publisher=CONCACAF.com|accessdate=17 December 2014|date=16 December 2014}}</ref>
+
+It was the first time Canada had hosted a CONCACAF Gold Cup match.
+
+==Teams==
+{| class="wikitable sortable"
+|-
+!rowspan=2| Draw position
+!rowspan=2| Team
+!rowspan=2| Zone
+!rowspan=2| Method of<br />qualification
+!rowspan=2| Date of<br />qualification
+!rowspan=2| Finals<br />appearance
+!rowspan=2| Last<br />appearance
+!rowspan=2| Previous best<br />performance
+!colspan=2| [[FIFA World Rankings|FIFA Rankings]]
+|-
+! November 2014{{refn|group=nb|The rankings of November 2014 were used for seeding for the [[2015 CONCACAF Gold Cup#Draw|draw]].}}
+! Start of event
+|-
+| B1 || style=white-space:nowrap | {{fb|CRC}} || [[Central American Football Union|UNCAF]] || [[2014 Copa Centroamericana]] 1st place || 7 September 2014 || data-sort-value="12" | 12th || [[2013 CONCACAF Gold Cup|2013]] || data-sort-value="6.1" | Runners-up ([[2002 CONCACAF Gold Cup|2002]]) || 16 || 14
+|-
+| B2 || style=white-space:nowrap | {{fb|SLV}} || [[Central American Football Union|UNCAF]] || [[2014 Copa Centroamericana]] 4th place || 10 September 2014 || data-sort-value="9" | 9th || [[2013 CONCACAF Gold Cup|2013]] || data-sort-value="6.2" | Quarter-finals ([[2002 CONCACAF Gold Cup|2002]], [[2003 CONCACAF Gold Cup|2003]], [[2011 CONCACAF Gold Cup|2011]], [[2013 CONCACAF Gold Cup|2013]]) || 93 || 89
+|-
+| B3 || style=white-space:nowrap | {{fb|JAM}} || [[Caribbean Football Union|CFU]] || [[2014 Caribbean Cup]] 1st place || 16 November 2014 || data-sort-value="9" | 9th || [[2011 CONCACAF Gold Cup|2011]] || data-sort-value="5.1" | Third place ([[1993 CONCACAF Gold Cup|1993]]) || 71 || 65
+|-
+| B4 || style=white-space:nowrap | {{fb|CAN}} || [[North American Football Union|NAFU]] || <span style="display:none">*</span> Co-hosts / Automatic || N/A || data-sort-value="12" | 12th || [[2013 CONCACAF Gold Cup|2013]] || data-sort-value="7.1" | '''Winners''' ([[2000 CONCACAF Gold Cup|2000]]) || 110 || 109
+|}
+
+;Notes
+{{reflist|group=nb}}
+
+==Standings==
+{{2015 CONCACAF Gold Cup Group B table}}
+In the [[2015 CONCACAF Gold Cup knockout stage|quarter-finals]]:
+*Jamaica advanced to play Haiti (runner-up of [[2015 CONCACAF Gold Cup Group A|Group A]]).
+*Costa Rica advanced to play Mexico (runner-up of [[2015 CONCACAF Gold Cup Group C|Group C]]).
+
+==Matches==
+All times [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC−4]]). If the venue is located in a different [[time zone]], the local time is given in parentheses.<ref>{{cite web|url=http://concacaf.us6.list-manage2.com/track/click?u=78d3589fb61466b549ff752e5&id=4c2f2291ae&e=cd2f6d7174|title=CONCACAF Gold Cup 2015 Schedule}}</ref>
+
+===Costa Rica vs Jamaica===
+{{Football box
+| date         = {{Start date|2015|7|8|df=y}}
+| time         = 20:00 (17:00 [[Pacific Time Zone|PDT]])
+| team1        = {{fb-rt|CRC}}
+| team2        = {{fb|JAM}}
+| score        = 2–2
+| goals1       = [[Roy Miller (footballer)|Miller]] {{goal|33}} <br /> [[David Ramírez (footballer, born 1993)|Ramírez]] {{goal|37}}
+| goals2       = [[Garath McCleary|McCleary]] {{goal|13}} <br /> [[Jobi McAnuff|McAnuff]] {{goal|48}}
+| stadium      = [[StubHub Center]], [[Carson, California|Carson]]
+| attendance   = 22,648
+| referee      = Fernando Guerrero ([[Mexican Football Federation|Mexico]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230121 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _crc15hw
+ |pattern_b  = _costarica15A
+ |pattern_ra = _crc15hw
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = Costa Rica
+}}
+|{{Football kit
+ |pattern_la = _jamaica15h
+ |pattern_b  = _jamaica15h
+ |pattern_ra = _jamaica15h
+ |pattern_sh = _jamaica15a
+ |pattern_so = _jamaica15h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFDD00
+ |title      = Jamaica
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''23'''|| [[Esteban Alvarado]]
+|-
+|RB||'''16''' || [[Cristian Gamboa]]
+|-
+|CB||'''3''' || [[Giancarlo González]] 
+|-
+|CB||'''19''' || [[Roy Miller (footballer)|Roy Miller]]
+|-
+|LB||'''15''' || [[Júnior Díaz]]
+|-
+|RM||'''5''' || [[Celso Borges]]
+|-
+|CM||'''17''' || [[Johan Venegas]] || || {{suboff|59}}
+|-
+|LM||'''22''' || [[José Miguel Cubero]]  
+|-
+|AM||'''10''' || [[Bryan Ruiz]] ([[Captain (association football)|c]]) || || {{suboff|69}}
+|-
+|AM||'''12''' || [[Joel Campbell]]
+|-
+|CF||'''21''' || [[David Ramírez (footballer, born 1993)|David Ramírez]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW||'''9'''|| [[Álvaro Saborío]] || || {{subon|59}}
+|-
+|MF||'''7'''|| [[Elías Aguilar]] || || {{subon|69}}
+|-
+|MF||'''14'''|| [[Deyver Vega]] || || {{subon|74}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|[[Paulo Wanchope]]
+|}
+|valign="top"|[[File:CRC-JAM 2015-07-08.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''13''' || [[Dwayne Miller]]
+|-
+|RB||'''19''' || [[Adrian Mariappa]]
+|-
+|CB||'''17''' || [[Rodolph Austin]] ([[Captain (association football)|c]])
+|-
+|CB||'''4''' || [[Wes Morgan]]
+|-
+|LB||'''20''' || [[Kemar Lawrence]]  
+|-
+|RM||'''22''' || [[Garath McCleary]]
+|-
+|CM||'''21''' || [[Jermaine Taylor (footballer)|Jermaine Taylor]]
+|-
+|CM||'''15''' || [[Je-Vaughn Watson]]&nbsp; || {{yel|64}}
+|-
+|LM||'''10''' || [[Jobi McAnuff]] || || {{suboff|80}}
+|-
+|CF||'''9''' || [[Giles Barnes]] || || {{suboff|61}}
+|-
+|CF||'''18''' || [[Simon Dawkins]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW||'''11'''|| [[Darren Mattocks]] || || {{subon|61}}
+|-
+|DF||'''6'''|| [[Lance Laing]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Winfried Schäfer]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Hermenerito Leal ([[National Football Federation of Guatemala|Guatemala]])
+<br />Cristian Ramírez ([[National Autonomous Federation of Football of Honduras|Honduras]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Yadel Martínez ([[Football Association of Cuba|Cuba]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-costa-rica-v-jamaica|title=Gold Cup Game Notes: Costa Rica v. Jamaica|publisher=CONCACAF.com|date=8 July 2015|access-date=9 July 2015|archive-url=https://web.archive.org/web/20150710065851/http://www.concacaf.com/article/gold-cup-game-notes-costa-rica-v-jamaica|archive-date=10 July 2015|url-status=dead}}</ref>
+|}
+
+===El Salvador vs Canada===
+{{Football box
+| date         = {{Start date|2015|7|8|df=y}}
+| time         = 22:30 (19:30 [[Pacific Time Zone|PDT]])
+| team1        = {{fb-rt|SLV}}
+| team2        = {{fb|CAN}}  
+| score        = 0–0
+| goals1       = 
+| goals2       = 
+| stadium      = [[StubHub Center]], [[Carson, California|Carson]]
+| attendance   = 22,648
+| referee      = Óscar Moncada ([[National Autonomous Federation of Football of Honduras|Honduras]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230122 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _esa12h
+ |pattern_ra = 
+ |pattern_sh = _els11h
+ |pattern_so = _els12
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = El Salvador
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _can15away
+ |pattern_ra =
+ |pattern_sh = _canada15A
+ |pattern_so = _long_can15a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Canada
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK||'''22'''|| [[Derby Carrillo]]
+|-
+|RB||'''2''' || [[Xavier Garcia (footballer)|Xavier Garcia]]
+|-
+|CB||'''5''' || [[Alexander Méndoza]] 
+|-
+|CB||'''3''' || [[Milton Molina]]
+|-
+|LB||'''13''' || [[Alexander Larín]] || {{yel|56}}
+|-
+|CM||'''20''' || [[Pablo Punyed]] || || {{suboff|86}}
+|-
+|CM||'''10''' || [[Jaime Alas]] || || {{suboff|73}}
+|-
+|CM||'''6''' || [[Richard Menjivar]]  
+|-
+|RW||'''7''' || [[Darwin Cerén]]
+|-
+|LW||'''12''' || [[Arturo Álvarez (footballer, born 1985)|Arturo Alvarez]] ([[Captain (association football)|c]])
+|-
+|CF||'''11''' || [[Nelson Bonilla]] || || {{suboff|10}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW||'''19'''|| [[Irvin Herrera]] || || {{subon|10}}
+|-
+|MF||'''14'''|| [[Andrés Flores]] || || {{subon|73}}
+|-
+|MF||'''15'''|| [[Néstor Renderos]] || || {{subon|86}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Albert Roca]]
+|}
+|valign="top"|[[File:SLV-CAN 2015-07-08.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK||'''22''' || [[Kenny Stamatopoulos]]
+|-
+|RB||'''2''' || [[Nikolas Ledgerwood]]
+|-
+|CB||'''5''' || [[David Edgar (footballer)|David Edgar]] ([[Captain (association football)|c]])
+|-
+|CB||'''12''' || [[Dejan Jakovic]]
+|-
+|LB||'''17''' || [[Marcel de Jong]]  
+|-
+|CM||'''23''' || [[Tesho Akindele]]
+|-
+|CM||'''15''' || [[Adam Straith]]
+|-
+|CM||'''8''' || [[Kyle Bekker]] || || {{suboff|86}}
+|-
+|RWB||'''9''' || [[Tosaint Ricketts]]  
+|-
+|LWB||'''14''' || [[Samuel Piette (soccer)|Samuel Piette]] || || {{suboff|83}}
+|-
+|CF||'''21''' || [[Cyle Larin]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW||'''11'''|| [[Marcus Haber]] || || {{subon|69}}
+|-
+|MF||'''7'''|| [[Russell Teibert]] || || {{subon|83}}
+|-
+|MF||'''13'''|| [[Jonathan Osorio]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Benito Floro]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Daniel Williamson ([[Panamanian Football Federation|Panama]])
+<br />CJ Morgante ([[United States Soccer Federation|United&nbsp;States]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Héctor Rodríguez ([[National Autonomous Federation of Football of Honduras|Honduras]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-el-salvador-vs-canada|title=Gold Cup Game Notes: El Salvador vs. Canada|publisher=CONCACAF.com|date=8 July 2015|access-date=9 July 2015|archive-url=https://web.archive.org/web/20150710050900/http://www.concacaf.com/article/gold-cup-game-notes-el-salvador-vs-canada|archive-date=10 July 2015|url-status=dead}}</ref>
+|}
+
+===Jamaica vs Canada===
+{{Football box
+| date         = {{Start date|2015|7|11|df=y}}
+| time         = 18:30 (17:30 [[Central Time Zone|CDT]])
+| team1        = {{fb-rt|JAM}}
+| team2        = {{fb|CAN}}
+| score        = 1–0
+| goals1       = [[Rodolph Austin|Austin]] {{goal|90+2}}
+| goals2       = 
+| stadium      = [[BBVA Compass Stadium]], [[Houston]]
+| attendance   = 22,017
+| referee      = Yadel Martínez ([[Football Association of Cuba|Cuba]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230127 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _jamaica15h
+ |pattern_b  = _jamaica15h
+ |pattern_ra = _jamaica15h
+ |pattern_sh = _jamaica15a
+ |pattern_so = _jamaica15h
+ |leftarm    = FFDD00
+ |body       = FFDD00
+ |rightarm   = FFDD00
+ |shorts     = FFDD00
+ |socks      = FFDD00
+ |title      = Jamaica
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _can15h
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _long_can15h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Canada
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''13'''|| [[Dwayne Miller]]
+|-
+|RB || '''19'''|| [[Adrian Mariappa]]
+|-
+|CB || '''4'''|| [[Wes Morgan]]
+|-
+|CB || '''21'''|| [[Jermaine Taylor (footballer)|Jermaine Taylor]]
+|-
+|LB || '''20'''|| [[Kemar Lawrence]]
+|-
+|CM || '''17'''|| [[Rodolph Austin]] ([[Captain (association football)|c]])
+|-
+|CM || '''15'''|| [[Je-Vaughn Watson]]
+|-
+|RW || '''22'''|| [[Garath McCleary]]
+|-
+|LW || '''10'''|| [[Jobi McAnuff]]
+|-
+|CF || '''18'''|| [[Simon Dawkins]] || || {{suboff|64}}
+|-
+|CF || '''9'''|| [[Giles Barnes]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''11'''|| [[Darren Mattocks]] || || {{subon|64}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Winfried Schäfer]]
+|}
+|valign="top"|[[File:JAM-CAN 2015-07-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''22'''|| [[Kenny Stamatopoulos]]
+|-
+|RB || '''2'''|| [[Nikolas Ledgerwood]] || {{yel|89}}
+|-
+|CB || '''5'''|| [[David Edgar (footballer)|David Edgar]] || {{yel|58}}
+|-
+|CB || '''12'''|| [[Dejan Jakovic]]
+|-
+|LB || '''17'''|| [[Marcel de Jong]]
+|-
+|RM || '''14'''|| [[Samuel Piette (soccer)|Samuel Piette]] || {{yel|26}} || {{suboff|79}}
+|-
+|CM || '''15'''|| [[Adam Straith]]
+|-
+|LM || '''6'''|| [[Julian de Guzman]] ([[Captain (association football)|c]])
+|-
+|RF || '''9'''|| [[Tosaint Ricketts]]
+|-
+|CF || '''21'''|| [[Cyle Larin]] || || {{suboff|46}}
+|-
+|LF || '''23'''|| [[Tesho Akindele]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''11'''|| [[Marcus Haber]] || || {{subon|46}}
+|-
+|MF || '''7'''|| [[Russell Teibert]] || || {{subon|70}}
+|-
+|DF || '''4'''|| [[André Hainault]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Benito Floro]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+<!--''Man of the Match:'''
+<br />-->
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Hiran Dopico ([[Football Association of Cuba|Cuba]])
+<br />Cristian Ramírez ([[National Autonomous Federation of Football of Honduras|Honduras]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Óscar Moncada ([[National Autonomous Federation of Football of Honduras|Honduras]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-jamaica-vs-canada|title=Gold Cup Game Notes: Jamaica vs. Canada|publisher=CONCACAF.com|date=11 July 2015|access-date=11 July 2015|archive-url=https://web.archive.org/web/20150712151808/http://www.concacaf.com/article/gold-cup-game-notes-jamaica-vs-canada|archive-date=12 July 2015|url-status=dead}}</ref>
+|}
+
+===Costa Rica vs El Salvador===
+{{Football box
+| date         = {{Start date|2015|7|11|df=y}}
+| time         = 21:00 (20:00 [[Central Time Zone|CDT]])
+| team1        = {{fb-rt|CRC}}
+| team2        = {{fb|SLV}}
+| score        = 1–1
+| goals1       = [[Bryan Ruiz|Ruiz]] {{goal|60}}
+| goals2       = [[Dustin Corea|Corea]] {{goal|90+2}}
+| stadium      = [[BBVA Compass Stadium]], [[Houston]]
+| attendance   = 22,017
+| referee      = [[Jair Marrufo]] ([[United States Soccer Federation|United&nbsp;States]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230128 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _crc15hw
+ |pattern_b  = _costarica15A
+ |pattern_ra = _crc15hw
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = Costa Rica
+}}
+|{{Football kit
+ |pattern_la = _lineonwhite
+ |pattern_b  = _els11t
+ |pattern_ra = _lineonwhite
+ |pattern_sh = _els11t
+ |pattern_so = _els12
+ |leftarm    = 0000FF
+ |body       = FFFFFF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = El Salvador
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''23'''|| [[Esteban Alvarado]]
+|-
+|RB || '''2'''|| [[Francisco Calvo]]
+|-
+|CB || '''3'''|| [[Giancarlo González]]
+|-
+|CB || '''19'''|| [[Roy Miller (footballer)|Roy Miller]]
+|-
+|LB || '''8'''|| [[David Myrie]]
+|-
+|DM || '''5'''|| [[Celso Borges]]
+|-
+|DM || '''20'''|| [[David Guzmán]] || {{yel|90+2}}
+|-
+|AM || '''10'''|| [[Bryan Ruiz]] ([[Captain (association football)|c]])
+|-
+|RW || '''12'''|| [[Joel Campbell]] || {{yel|9}} || {{suboff|53}}
+|-
+|LW || '''21'''|| [[David Ramírez (footballer, born 1993)|David Ramírez]] || || {{suboff|63}}
+|-
+|CF || '''9'''|| [[Álvaro Saborío]] || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF || '''17'''|| [[Johan Venegas]] || {{yel|89}} || {{subon|53}}
+|-
+|MF || '''7'''|| [[Elías Aguilar]] || || {{subon|63}}
+|-
+|DF || '''4'''|| [[Michael Umaña]] || || {{subon|76}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|[[Paulo Wanchope]]
+|}
+|valign="top"|[[File:CRC-SLV 2015-07-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''22'''|| [[Derby Carrillo]]
+|-
+|RB || '''2'''|| [[Xavier García (footballer)|Xavier Garcia]]
+|-
+|CB || '''5'''|| [[Alexander Méndoza]]&nbsp; || {{yel|56}}
+|-
+|CB || '''3'''|| [[Milton Molina]]
+|-
+|LB || '''13'''|| [[Alexander Larín]]
+|-
+|DM || '''6'''|| [[Richard Menjivar]] || {{yel|29}}
+|-
+|DM || '''7'''|| [[Darwin Cerén]] || {{yel|62}}
+|-
+|AM || '''20'''|| [[Pablo Punyed]] || || {{suboff|70}}
+|-
+|RW || '''12'''|| [[Arturo Álvarez (footballer, born 1985)|Arturo Alvarez]] ([[Captain (association football)|c]])
+|-
+|LW || '''10'''|| [[Jaime Alas]] || || {{suboff|77}}
+|-
+|CF || '''19'''|| [[Irvin Herrera]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''9'''|| [[Rafael Burgos]] || || {{subon|63}}
+|-
+|MF || '''21'''|| [[Dustin Corea]] || || {{subon|70}}
+|-
+|MF || '''8'''|| [[Jairo Henríquez]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Albert Roca]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+<!--''Man of the Match:'''
+<br />-->
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Charles Morgante ([[United States Soccer Federation|United&nbsp;States]])
+<br />Gersón López ([[National Football Federation of Guatemala|Guatemala]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Walter López Castellanos|Walter López]] ([[National Football Federation of Guatemala|Guatemala]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-costa-rica-vs-el-salvador|title=Gold Cup Game Notes: Costa Rica vs. El Salvador|publisher=CONCACAF.com|date=11 July 2015|access-date=11 July 2015|archive-url=https://web.archive.org/web/20150712222235/http://www.concacaf.com/article/gold-cup-game-notes-costa-rica-vs-el-salvador|archive-date=12 July 2015|url-status=dead}}</ref>
+|}
+
+===Jamaica vs El Salvador===
+{{Football box
+| date         = {{Start date|2015|7|14|df=y}}
+| time         = 18:00
+| team1        = {{fb-rt|JAM}}
+| team2        = {{fb|SLV}}
+| score        = 1–0
+| goals1       = [[Garath McCleary|McCleary]] {{goal|71}}
+| goals2       = 
+| stadium      = [[BMO Field]], [[Toronto]]
+| attendance   = 16,674
+| referee      = [[Walter López Castellanos|Walter López]] ([[National Football Federation of Guatemala|Guatemala]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230133 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _jamaica15h
+ |pattern_b  = _jamaica15h
+ |pattern_ra = _jamaica15h
+ |pattern_sh = _jamaica15a
+ |pattern_so = _jamaica15h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFDD00
+ |title      = Jamaica
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _esa12h
+ |pattern_ra = 
+ |pattern_sh = _els11h
+ |pattern_so = _els12
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = El Salvador
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''13'''|| [[Dwayne Miller]] || ||{{suboff|22}}
+|-
+|RB || '''4'''|| [[Wes Morgan]]
+|-
+|CB || '''17'''|| [[Rodolph Austin]] ([[Captain (association football)|c]]) ||{{yel|43}}
+|-
+|CB || '''19'''|| [[Adrian Mariappa]]
+|-
+|LB || '''21'''|| [[Jermaine Taylor (footballer)|Jermaine Taylor]] || ||{{suboff|8}}
+|-
+|CM || '''10'''|| [[Jobi McAnuff]]
+|-
+|CM || '''15'''|| [[Je-Vaughn Watson]]&nbsp; ||{{yel|65}}
+|-
+|RW || '''20'''|| [[Kemar Lawrence]]
+|-
+|LW || '''22'''|| [[Garath McCleary]] ||{{yel|72}}
+|-
+|CF || '''11'''|| [[Darren Mattocks]] ||{{sent off|2|45|80}}
+|-
+|CF || '''9'''|| [[Giles Barnes]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF || '''3'''|| [[Michael Hector]] || ||{{subon|8}}
+|-
+|GK || '''23'''|| [[Ryan Thompson (footballer)|Ryan Thompson]] || || {{subon|22}}
+|-
+|DF || '''5'''|| [[Alvas Powell]] || || {{subon|69}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Winfried Schäfer]]
+|}
+|valign="top"|[[File:JAM-SLV-2015-07-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''22'''|| [[Derby Carrillo]]
+|-
+|RB || '''2'''|| [[Xavier Garcia (footballer)|Xavier Garcia]] ||{{yel|85}}
+|-
+|CB || '''3'''|| [[Milton Molina]]
+|-
+|CB || '''5'''|| [[Alexander Méndoza]] || || {{suboff|76}}
+|-
+|LB || '''6'''|| [[Richard Menjivar]]
+|-
+|CM || '''10'''|| [[Jaime Alas]]
+|-
+|CM || '''13'''|| [[Alexander Larín]]
+|-
+|RW || '''7'''|| [[Darwin Cerén]]
+|-
+|LW || '''14'''|| [[Andrés Flores]] ([[Captain (association football)|c]]) ||{{yel|3}} ||{{suboff|61}}
+|-
+|CF || '''19'''|| [[Irvin Herrera]] || ||{{suboff|60}}
+|-
+|CF || '''20'''|| [[Pablo Punyed]] ||{{yel|68}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW || '''11'''|| [[Nelson Bonilla]] || ||{{subon|60}}
+|-
+|MF || '''12'''|| [[Arturo Álvarez (footballer, born 1985)|Arturo Alvarez]] || ||{{subon|61}}
+|-
+|MF || '''21'''|| [[Dustin Corea]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Albert Roca]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Hermenerito Leal ([[National Football Federation of Guatemala|Guatemala]])
+<br />Gersón López ([[National Football Federation of Guatemala|Guatemala]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Fernando Guerrero ([[Mexican Football Federation|Mexico]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-jamaica-v-el-salvador|title=Gold Cup Game Notes: Jamaica v El Salvador|publisher=CONCACAF.com|date=14 July 2015|access-date=15 July 2015|archive-url=https://web.archive.org/web/20150715230040/http://www.concacaf.com/article/gold-cup-game-notes-jamaica-v-el-salvador|archive-date=15 July 2015|url-status=dead}}</ref>
+|}
+
+===Canada vs Costa Rica===
+{{Football box
+| date         = {{Start date|2015|7|14|df=y}}
+| time         = 20:30
+| team1        = {{fb-rt|CAN}}
+| team2        = {{fb|CRC}}
+| score        = 0–0
+| goals1       = 
+| goals2       = 
+| stadium      = [[BMO Field]], [[Toronto]]
+| attendance   = 16,674
+| referee      = Héctor Rodríguez ([[National Autonomous Federation of Football of Honduras|Honduras]])
+| report       = [http://www.concacaf.com/category/gold-cup/game-detail/230134 Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _can15h
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _long_can15h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Canada
+}}
+|{{Football kit
+ |pattern_la = _crc15aw
+ |pattern_b  = _costarica15H
+ |pattern_ra = _crc15aw
+ |pattern_sh =
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Costa Rica
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''22'''|| [[Kenny Stamatopoulos]]
+|-
+|RB || '''20'''|| [[Karl Ouimette]]
+|-
+|CB || '''12'''|| [[Dejan Jakovic]]
+|-
+|CB || '''5'''|| [[David Edgar (footballer)|David Edgar]]
+|-
+|LB || '''17'''|| [[Marcel de Jong]]
+|-
+|DM || '''15'''|| [[Adam Straith]]
+|-
+|CM || '''13'''|| [[Jonathan Osorio]] || || {{suboff|68}}
+|-
+|CM || '''6'''|| [[Julian de Guzman]] ([[Captain (association football)|c]])
+|-
+|RW || '''9'''|| [[Tosaint Ricketts]] || || {{suboff|67}}
+|-
+|LW || '''16'''|| [[Maxim Tissot]] || ||{{suboff|66}}
+|-
+|CF || '''11'''|| [[Marcus Haber]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''21'''|| [[Cyle Larin]] || || {{subon|66}}
+|-
+|MF ||'''7'''|| [[Russell Teibert]] || {{yel|79}} || {{subon|67}}
+|-
+|DF ||'''4'''|| [[André Hainault]] || || {{subon|68}}
+|-
+|colspan=3| '''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Benito Floro]]
+|}
+|valign="top"|[[File:CAN-CRC-2015-07-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK || '''23'''|| [[Esteban Alvarado]]
+|-
+|RB || '''2'''|| [[Francisco Calvo]]
+|-
+|CB || '''15'''|| [[Júnior Díaz]]
+|-
+|CB || '''3'''|| [[Giancarlo González]]
+|-
+|LB || '''16'''|| [[Cristian Gamboa]]
+|-
+|CM || '''20'''|| [[David Guzmán]] ||{{yel|80}} || {{suboff|81}}
+|-
+|CM || '''10'''|| [[Bryan Ruiz]] ([[Captain (association football)|c]])
+|-
+|RW || '''5'''|| [[Celso Borges]] ||{{yel|67}}
+|-
+|LW || '''14'''|| [[Deyver Vega]] || || {{suboff|73}}
+|-
+|CF || '''17'''|| [[Johan Venegas]]
+|-
+|CF || '''21'''|| [[David Ramírez (footballer, born 1993)|David Ramírez]] || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|DF ||'''19'''|| [[Roy Miller (footballer)|Roy Miller]] || ||{{subon|73}}
+|-
+|FW ||'''12'''|| [[Joel Campbell]] || ||{{subon|76}}
+|-
+|MF ||'''22'''|| [[José Miguel Cubero]] || ||{{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|[[Paulo Wanchope]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />CJ Morgante ([[United States Soccer Federation|United&nbsp;States]])
+<br />Daniel Williamson ([[Panamanian Football Federation|Panama]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jair Marrufo]] ([[United States Soccer Federation|United&nbsp;States]])<ref>{{cite web|url=http://www.concacaf.com/article/gold-cup-game-notes-canada-vs-costa-rica|title=Gold Cup Game Notes: Canada vs. Costa Rica|publisher=CONCACAF.com|date=14 July 2015|access-date=15 July 2015|archive-url=https://web.archive.org/web/20150716010140/http://www.concacaf.com/article/gold-cup-game-notes-canada-vs-costa-rica|archive-date=16 July 2015|url-status=dead}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.concacaf.com/category/gold-cup}}
+
+{{2015 CONCACAF Gold Cup}}
+
+[[Category:2015 CONCACAF Gold Cup|Group B]]

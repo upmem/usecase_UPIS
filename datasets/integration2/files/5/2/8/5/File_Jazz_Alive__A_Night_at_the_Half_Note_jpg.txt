@@ -1,0 +1,27 @@
+== Summary ==
+{{album cover fur
+<!-- REQUIRED -->
+|Article=Jazz Alive! A Night at the Half Note
+|Use=Infobox
+<!-- HIGHLY RECOMMENDED -->
+|Source=https://www.discogs.com/Zoot-Sims-Al-Cohn-Phil-Woods-Jazz-Alive-A-Night-At-The-Half-Note/release/2938471
+<!-- ADDITIONAL INFORMATION -->
+|Name= Jazz Alive! A Night at the Half Note
+|Artist= Zoot Sims, Al Cohn & Phil Woods
+|Label= United Artists
+|Graphic Artist= 
+|Item= 
+|Type= 
+|Website= 
+|Owner= 
+|Commentary= 
+<!-- OVERRIDE FIELDS -->
+|Description= 
+|Portion= 
+|Low_resolution= 
+|Purpose=
+|Replaceability= 
+|other_information= 
+}}
+== Licensing ==
+{{Non-free album cover|image has rationale=yes|auto=yes}}

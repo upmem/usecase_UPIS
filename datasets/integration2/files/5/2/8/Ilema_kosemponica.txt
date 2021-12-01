@@ -1,0 +1,26 @@
+{{Speciesbox
+| image = Neocifuna kosemponica.jpg
+| image_caption = 
+| image2 = 
+| image2_caption = 
+| taxon = Ilema kosemponica
+| authority = ([[Embrik Strand|Strand]], 1914)
+| synonyms = {{Specieslist
+ |Dasychira kosemponica|Strand, 1914
+ |Neocifuna kosemponica|
+ }}
+}}
+'''''Ilema kosemponica''''' is a [[moth]] in the family [[Erebidae]] [[Species description|first described]] by [[Embrik Strand]] in 1914. It is found in [[Taiwan]].<ref>{{LepIndex |id=50109 |name=Dasychira kosemponica |accessdate=May 7, 2018}}</ref>
+
+The [[wingspan]] is 29–37&nbsp;mm.<ref>{{cite web |url=http://gaga.biodiv.tw/new23/9411/064.htm |title= 甲仙毒蛾 ''Ilema kosemponica'' (Strand, 1914) |script-work=zh:驚奇山行 |trans-work=Surprise mountain line |language=zh |date=September 17, 2010 |accessdate=May 15, 2020}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5997509}}
+
+[[Category:Moths described in 1862]]
+[[Category:Lymantriinae]]
+
+
+{{Lymantriidae-stub}}

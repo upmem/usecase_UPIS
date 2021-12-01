@@ -1,0 +1,78 @@
+{{Infobox person
+| name        = Eric Burroughs<!-- include middle initial, if not specified in birth_name -->
+| image       = Burroughs-Eric.jpg<!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] -->
+| alt         = 
+| caption     = 
+| birth_name  = <!-- only use if different from name -->
+| birth_date  = {{Birth date|1911|11|06}}<!-- {{Birth date and age|YYYY|MM|DD}} or {{Birth-date and age|birth date†}} -->
+| birth_place = [[The Bronx]], [[New York City]],<br>New York
+| death_date  = {{Death date and age|1992|11|12|1911|11|06}}<!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} or {{Death-date and age|death date†|birth date†}} -->
+| death_place = The Bronx, New York City,<br>New York
+| nationality = 
+| other_names = 
+| occupation  = Actor
+| known_for   = 
+}}
+
+'''Eric Burroughs''' (November 6, 1911 – November 12, 1992) was an American stage and radio [[actor]] whose career spanned the 1930s to the early 1960s. He appeared in [[Orson Welles]]'s all-[[African-American|Black]] [[Federal Theatre Project]] production of ''[[Voodoo Macbeth|Macbeth]]''. Burroughs was later lauded by radio giant [[Norman Corwin]] as being "the finest Negro actor in radio."
+
+==Biography==
+
+===Early years===
+
+Eric Burroughs was born in [[The Bronx]], [[New York (state)|New York]] on November 6, 1911. He was the son of postal worker and [[William Shakespeare|Shakespearean]] reader Charles Burroughs and [[Williana Burroughs]], a New York City public school teacher and Communist party activist.
+
+In the late 1920s, after graduating from high school at the age of 16, Burroughs secured a minor role in the production ''Harlem'', at the Apollo Theatre, starring Isabelle Washington, which ran for six months. His parents, however, wanted him to have a profession, and sent him to Germany to study political science. Instead, he quit after two weeks and enrolled in the Kammerspiele School of the Theatre, Hamburg, run by theatrical producer and director [[Erwin Piscator]], regarded as the foremost exponent of "Epic Theater," a form that emphasized the socio-political content of drama. Burroughs appeared in a Piscator production of ''[[The Good Soldier Schweik]],'' as well as various Shakespeare plays including ''[[The Merchant of Venice]].'' In 1930 he attended the International Theatre Conference in Hamburg, where he met Tairoff, the director of the Kamerny Theatre, Moscow, and since his mother and brothers were already in the USSR, he accepted Tairoff's invitation to visit the USSR, where he stayed for six months. Returning to Germany, he launched a career in theatre and film. He remained until two weeks after Hitler came to power in 1933, then returned to New York.<ref>"Burroughs Was Lured by Stage", NY Amsterdam News,April 25, 1936.</ref>
+
+Burroughs's German wife, Lotte Manshardt, followed him to New York and they attempted to start an independent theater company called Theater Mass. When this did not succeed, Manshardt returned to Germany in 1935.<ref>family letters</ref>
+
+[[Image:Macbeth-28-Burroughs.jpg|left|thumb|300px|Burroughs as Hecate in the ''[[Voodoo Macbeth]]'' (April 14, 1936)]]
+
+==="Voodoo Macbeth"===
+During the [[Great Depression]] the [[Works Project Administration]] was given the task of reviving black [[drama|theater]] in America.<ref name=Ashley>[[Beth Ashley]], [http://www.marinij.com/lifestyles/ci_11811678 “Writer, Illustrator Tells Story of his Actor-Father in Graphic Novel,”] ''Marin Independent-Journal,'' February 28, 2009.</ref> As  a part of this effort Burroughs was named as a lead actor in the 20-year-old Orson Welles's 1936 Federal Theatre Project production of ''[[Macbeth]]'', featuring an all-black cast.
+
+In this production Burroughs played the role of [[Hecate]], which Welles changed from the witch queen of the original into a male [[Haitian Vodou|Voodoo]] priest, complete with cloak and a 12-foot long [[bull whip]].<ref>John Houseman, ''Run-Through: A Memoir.'' Paperback edition. New York: Simon and Schuster, 1980; pg. 189.</ref>
+
+This staging of ''[[Voodoo Macbeth]]'' won both popular and critical acclaim, with ''[[The New York Times]]'' noting that Burroughs's concluding line, "The charm’s wound up!" at the fall of the closing curtain prompted a 15-minute frenzy of cheering throughout the 1200 seat [[Lafayette Theatre (Harlem)|Lafayette Theatre]].<ref name=Smith>Wendy Smith, [http://memory.loc.gov/ammem/fedtp/ftsmth00.html “The Play that Electrified Harlem,”] ''Civilization'', January–February 1996.</ref> Burroughs's final line concludes a four-minute excerpt of ''Macbeth'' in the WPA documentary short subject, ''[[We Work Again]]'' (1937).
+
+===Later years===
+[[Norman Corwin]] cast Burroughs in the role of the Roman emperor [[Nero]], sent by [[Devil|the Devil]] to assassinate [[Santa Claus]], in Corwin's 1938 radio play ''[[The Plot to Overthrow Christmas]]''. The play was produced again in 1940 and 1944.<ref name="Tangent">[http://www.tangentonline.com/old-time-radio/1184-the-plot-to-overthrow-christmas-norman-corwin/ "The Plot to Overthrow Christmas - Norman Corwin", ''Tangent'' online]</ref>
+
+During the 1940s and 1950s, Burroughs worked extensively in [[radio]] and in a more limited capacity on stage, appearing in a production of ''The Petrified Forest'' and in the role of Mr. D in [[Eartha Kitt|Eartha Kitt's]] production of ''Mrs. Patterson.'' Burroughs also had a small speaking role in the 1959 film, ''Odds Against Tomorrow.''
+
+Burroughs married Melissa Broome in 1950 and had two children.
+
+===Death and legacy===
+
+Burroughs died November 12, 1992, at the [[Bronx Veterans Administration Hospital]]. He was 81 years old at the time of his death.<ref>{{cite news |author=<!--Staff writer(s); no by-line.--> |title=Eric Burroughs; Stage and Radio Actor, 81 |url=https://www.nytimes.com/1992/11/20/obituaries/eric-burroughs-stage-and-radio-actor-81.html?module=Search&mabReward=relbias%3Ar%2C{%221%22%3A%22RI%3A9%22} |newspaper=[[The New York Times]] |location= |date=November 20, 1992 |accessdate=2014-12-16}}</ref>
+
+==See also==
+
+* [[Williana Burroughs]]
+* [[Works Progress Administration]]
+* [[Voodoo Macbeth]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+
+* Norris Burroughs, ''Voodoo Macbeth: A Graphic Novel.'' Enginecomics, 2005.
+* Simon Callow, ''Orson Welles: The Road to Xanadu.'' New York: Viking, 1995.
+* Charles Higham, ''Orson Welles: The Rise and Fall of an American Genius.'' New York: St. Martin's Press, 1985.
+
+==External links==
+* [https://www.youtube.com/watch?v=2oQPJfabpPI Excerpt of ''Macbeth''] (1936), ending with Burroughs concluding line
+
+{{Authority control}}
+
+{{DEFAULTSORT:Burroughs, Eric}}
+[[Category:1911 births]]
+[[Category:1992 deaths]]
+[[Category:Male actors from New York City]]
+[[Category:New York University alumni]]
+[[Category:American male stage actors]]
+[[Category:American male voice actors]]
+[[Category:African-American male actors]]
+[[Category:People from the Bronx]]
+[[Category:20th-century American male actors]]

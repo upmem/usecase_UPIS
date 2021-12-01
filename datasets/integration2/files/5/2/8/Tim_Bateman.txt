@@ -1,0 +1,108 @@
+{{Use dmy dates|date=February 2013}}
+{{Use New Zealand English|date=February 2013}}
+{{Infobox rugby biography
+|           name = Tim Bateman
+|          image =
+|     image_size =
+|        caption =
+|       fullname = Timothy Edward Sullivan Bateman
+|     birth_date = {{birth date and age|1987|06|03|df=y}}
+|    birth_place = [[Greymouth, New Zealand|Greymouth]], New Zealand
+|         height = {{convert|182|cm|ftin|0|abbr=on}}
+|         weight = {{convert|91|kg|lb stlb|0|abbr=on}}
+|         school = [[Christchurch Boys' High School]]
+|     university =
+|      relatives =
+|     occupation =
+|         spouse =
+|       position = [[Centre (rugby union)|Centre]]
+|    currentclub = [[Crusaders (rugby union)|Crusaders]], [[Ricoh Black Rams]]
+|     allblackno =
+|     allblackid =
+|    youthyears1 =
+|    youthclubs1 =
+|         years1 = 2006–2017
+|         clubs1 = [[Canterbury Rugby Football Union|Canterbury]]
+|          apps1 = 49
+|        points1 = 110
+|         years2 = 2007–
+|         clubs2 = [[Crusaders (rugby union)|Crusaders]]
+|          apps2 = 50
+|        points2 = 40
+|         years3 = 2010–2014
+|         clubs3 = [[Coca-Cola Red Sparks]]
+|          apps3 = 36
+|        points3 = 55
+|         years4 = 2012–2014
+|         clubs4 = [[Hurricanes (rugby union)|Hurricanes]]
+|          apps4 = 37
+|        points4 = 10
+|         years5 = 2012–2013
+|         clubs5 = [[Wellington Rugby Football Union|Wellington]]
+|          apps5 = 22
+|        points5 = 25
+|         years6 = 2018–
+|         clubs6 = [[Ricoh Black Rams]]
+|          apps6 = 10
+|        points6 = 15
+|      repyears1 = 2006
+|       repteam1 = [[New Zealand national under-19 rugby union team|New Zealand U19]]
+|       repcaps1 = 5
+|     reppoints1 = 20
+|      repyears2 = 2007
+|       repteam2 = [[New Zealand national under-21 rugby union team|New Zealand U21]]
+|       repcaps2 = 1
+|     reppoints2 = 0
+|      repyears3 = 2008–2017
+|       repteam3 = [[Māori All Blacks]]
+|       repcaps3 = 14
+|     reppoints3 = 15
+|     clubupdate = 14 April 2019
+|      repupdate = 14 April 2019
+}}
+
+'''Timothy Edward Sullivan Bateman''' (born 3 June 1987) is a [[rugby union]] player from [[New Zealand]]. He plays mostly [[Inside Centre]].
+
+He was head boy of [[Christchurch Boys' High School]] in Canterbury, New Zealand. He formerly played for the [[Crusaders (rugby union)|Crusaders]] and played in Japan for the [[Coca-Cola Red Sparks]]. He also had a stint at the [[Hurricanes (rugby union)|Hurricanes]] in [[Super Rugby]]. In 2017, he has returned to play for the Crusaders.
+
+Of [[Ngāi Tahu]] descent, Bateman played for the [[Māori All Blacks]] in 2008 and 2012.<ref name="NZM2008">[https://www.allblacks.com/index.cfm?layout=teamMaori2008 New Zealand Maori 2008 squad]. Retrieved 1 June 2013.</ref><ref name="MAB2012">[http://www.allblacks.com/news/20929/Maori-All-Blacks-squad-for-2012-European-tour Maori All Blacks squad for 2012 European tour]. Retrieved 1 June 2013.</ref> He has also represented New Zealand at Under 19 and Under 21 level.<ref>[https://www.allblacks.com/index.cfm?layout=MaoriAllBlacksPlayerProfile&playerID=1392 Tim Bateman]. Maori All Blacks player profile. Retrieved 1 June 2013.</ref>
+
+==Playing career==
+
+===School boy rugby===
+While at [[Christchurch Boys' High School]], Bateman appeared alongside All Blacks [[Colin Slade]], [[Matt Todd]] and [[Owen Franks]] as well as former Crusader [[Nasi Manu]].<ref>http://www.thesportreview.com/tsr/2015/07/edinburgh-new-signing-nasi-manu-open-to-scotland-call/</ref>
+
+===Later career===
+After spending a few years playing rugby in Japan, Bateman returned home and signed with his former club the {{Rut Crusaders}} for the  [[2017 Super Rugby season|2017]]. He played six games and scored three tries in his return season. Bateman was a part of the 2017  {{Rut Crusaders}} championship winning side in 2017.
+
+Bateman also signed with former provincial team [[Canterbury Rugby Football Union|Canterbury]] ahead of the [[2017 Mitre 10 Cup]] season.
+
+He scored a try in Canterbury's 35-13 Grand Final win against Tasman.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.hurricanes.co.nz/team/players/tim-bateman Hurricanes profile]
+*[http://www.itsrugby.co.uk/player_4868.html itsrugby.co.uk profile]
+
+{{Crusaders squad}}
+{{Ricoh Black Rams squad}}
+
+{{DEFAULTSORT:Bateman, Tim}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Greymouth]]
+[[Category:Ngāi Tahu]]
+[[Category:People educated at Christchurch Boys' High School]]
+[[Category:Rugby union centres]]
+[[Category:Crusaders (rugby union) players]]
+[[Category:Māori All Blacks players]]
+[[Category:Hurricanes (rugby union) players]]
+[[Category:Canterbury rugby union players]]
+[[Category:Wellington rugby union players]]
+[[Category:Expatriate rugby union players in Japan]]
+[[Category:New Zealand expatriate sportspeople in Japan]]
+[[Category:Coca-Cola Red Sparks players]]
+
+{{NewZealand-rugbyunion-bio-1980s-stub}}

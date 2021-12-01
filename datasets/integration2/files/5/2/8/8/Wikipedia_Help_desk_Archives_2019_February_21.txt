@@ -1,0 +1,85 @@
+<noinclude><!-- From Template:HD Archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Help desk|Help desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Help desk/Archives/2019 February 20|February 20]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Help desk/Archives/January 2019|Jan]] | [[Wikipedia:Help desk/Archives/February 2019|February]] | [[Wikipedia:Help desk/Archives/March 2019|Mar]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Help desk/Archives/2019 February 22|[[Wikipedia:Help desk/Archives/2019 February 22|February 22]]|[[Wikipedia:Help desk|Current help desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center; font-family:Arial; color:#FFFFFF;" | '''Welcome to the Wikipedia Help Desk Archives'''
+|-
+| The page you are currently viewing is an archive page. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Help desk|current Help Desk]] pages.
+|}
+
+
+__TOC__</noinclude>
+= February 21 =
+
+== Megachile Pluto - Giant Bee ==
+
+Does Megachile Pluto sting and if so does it use a traditional sting or its large pincers?  Does it hurt?  Does it make honey? Is the honey edible?  Are there any medical benefits or uses? Thanks  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/81.131.40.58|81.131.40.58]] ([[User talk:81.131.40.58#top|talk]]) 15:37, 21 February 2019 (UTC)</small> <!--Autosigned by SineBot-->
+:This Help Desk is not for asking general questions, but for questions about how to use Wikipedia.  You can try the [[WP:RD|Reference Desk]], although we cannot give you medical advice. [[User:331dot|331dot]] ([[User talk:331dot|talk]]) 15:39, 21 February 2019 (UTC)
+
+== Vandalism ==
+
+Can someone take a look at this, I am unable to edit it -https://en.m.wikipedia.org/wiki/Special:History/Battle_of_Saragarhi 
+[[Special:Contributions/180.151.77.119|180.151.77.119]] ([[User talk:180.151.77.119|talk]]) 17:14, 21 February 2019 (UTC)
+
+:{{la|Battle of Saragarhi}}
+:Convenience link. --†<span style="font-family:monospace;">[[User:Dismas|dismas]]</span>†|[[User talk:Dismas|<sup>(talk)</sup>]] 17:40, 21 February 2019 (UTC)
+
+:Hi. I don't see any vandalism to that article, but rather a revert of removal of [[WP:V|sourced]] content without explanation, and the article being [[WP:SEMI|semi-protected]] to try to protect it from further problems. The semi-porotection means that only people with registered accounts that are [[WP:AUTOCONFIRM|autoconfirmed]] (are four days old and have made ten or more edits) can edit it. You can still, however, make a request on the talk page for a specific edit to be made. See [[Wikipedia:Edit requests]] for how to make such a request. Best regards--[[User:Fuhghettaboutit|Fuhghettaboutit]] ([[User talk:Fuhghettaboutit|talk]]) 08:05, 22 February 2019 (UTC)
+
+== Requested moves/Technical requests ==
+
+Good afternoon,
+I recently created my Wikipedia account and wrote my first article. It is located at: https://en.wikipedia.org/wiki/User:Natalia_Rojcovscaia
+
+Help me please, I cannot move my page (rename my article)! Now it is called "User:Natalia Rojcovscaia", but I need to call it simply  "Natalia Rojcovscaia". For me, this is very strange, because from the beginning I called it "Natalia Rojcovscaia". Why did the word "User:" appear in the title??   
+Please help to remove this word and make the title of my article (page) only: "Natalia Rojcovscaia".
+I hope for your help!
+
+-- 
+Best,
+Natalia  <!-- Template:Unsigned --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Natalia Rojcovscaia|Natalia Rojcovscaia]] ([[User talk:Natalia Rojcovscaia#top|talk]] • [[Special:Contributions/Natalia Rojcovscaia|contribs]]) 21:00, 21 February 2019 (UTC)</small> <!--Autosigned by SineBot-->
+:{{replyto|Natalia Rojcovscaia}} Each Wikipedia user has a user page: My user name is "Arch dude", so my user page is [[User: Arch dude]]. Your user name is "Natalia Rojcovscaia", so your user page is [[User:Natalia Rojcovscaia]]. A user page is not a Wikipedia article. It is a place for you as a Wikipedia editor to tell others about your activies as a Wikipedia editor. Completely separately from that, if there is a person named "Natalia Rojcovscaia", and if tat person is notable by our definition, not yours (See[[WP:N]]) then someone can create an article with that name. If you are that person, then you should not write tat article: see [[WP:AUTOBIOGRAPHY]]. If you choose to try anyway, then you should create a draft article and let other editors review it: see [[WP:YFA]]. -[[User:Arch dude|Arch dude]] ([[User talk:Arch dude|talk]]) 22:13, 21 February 2019 (UTC)
+::I'm afraid I've felt it necessary to delete the page. Wikipedia [[WP:NOTFACEBOOK|is not social media]] or a pace to talk about yourself, it is an [[encyclopedia]]. As noted above if youa re truly notable somebody will eventually write such an article, but it certainly should not be the article subject doing it. [[User:Beeblebrox|Beeblebrox]] ([[User talk:Beeblebrox|talk]]) 22:20, 21 February 2019 (UTC)
+
+==Link in Wikipedia to a page in Wikimedia Commons==
+
+I'm aware of Template:W, which allows me to insert a link to a Wikipedia article when, for example, I write text in the Description section of an image in Wikimedia Commons.
+
+Can anyone tell me the template for a link in the other direction: in Wikipedia linking to a page in Wikimedia Commons? [[User:SCHolar44|SCHolar44]] ([[User talk:SCHolar44|talk]]) 22:40, 21 February 2019 (UTC)
+:Hey [[User:SCHolar44|SCHolar44]]. See [[Template:Commons cat]]. [[User:GreenMeansGo|<span style="font-family:Impact"><span style="color:#07CB4B">G</span><span style="color:#449351">M</span><span style="color:#35683d">G</span></span>]][[User talk:GreenMeansGo#top|<sup style="color:#000;font-family:Impact">talk</sup>]] 23:05, 21 February 2019 (UTC)
+:For which purpose in which page? See [[Help:Interwikimedia links]]. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 23:07, 21 February 2019 (UTC)
+
+::I want to be able to say, in a Wikiproject Talk discussion, "An example is in this engineering drawing at Wikimedia Commons", where the words "engineering drawing" would be linked to the page at https://commons.wikimedia.org/wiki/File:Adelaide_Type_F1_and_H_trams_end_elevation_(MTT_original).png#/media/File:Adelaide_Type_F1_and_H_trams_end_elevation_(MTT_original).png. I don't want to use the  code that produces the box with the Wikimedia Commons logao and "Wikimedia Commons has media related to", nifty though it is! [[User:SCHolar44|SCHolar44]] ([[User talk:SCHolar44|talk]]) 23:37, 21 February 2019 (UTC)
+:::I don't know of any such template, but if you're using it in a discussion and don't hugely care what it looks like, just prefix it with "c:".  <nowiki>[[:c:File:Adelaide Type F1 and H trams end elevation (MTT original).png]]</nowiki> produces [[:c:File:Adelaide Type F1 and H trams end elevation (MTT original).png]].  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 00:02, 22 February 2019 (UTC)
+:::(edit conflict) {{ping|SCHolar44}} You don't need a template. An interwiki link of form <code><nowiki>[[commons:pagename]]</nowiki></code> is fine in a discussion outside mainspace. It can be piped like other wikilinks. <code><nowiki>[[commons:File:Adelaide Type F1 and H trams end elevation (MTT original).png|engineering drawing]]</nowiki></code> produces [[commons:File:Adelaide Type F1 and H trams end elevation (MTT original).png|engineering drawing]]. Link the file page and not the MediaViewer display of the file. <code>c:</code> is a shortcut for <code>commons:</code> but I prefer the latter because it's easier for others to see where the link goes. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 00:08, 22 February 2019 (UTC)
+::::True, and if I had occasion to link Commons from mainspace, that's how I'd do it.  I just suggested the unpiped link because of the context.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 00:17, 22 February 2019 (UTC)
+
+:::::Many thanks for your insights, [[User:PrimeHunter|PrimeHunter]]  (and [[User:GreenMeansGo|GreenMeansGo]] and [[User:Nyttend|Nyttend]]). I'll go with <code><nowiki>[[commons:File:Adelaide Type F1 and H trams end elevation (MTT original).png|engineering drawing]]</nowiki></code>, which gives everything I need. A few minutes ago I also discovered -- completely by accident, I have to admit -- that <code><nowiki>{{File:Adelaide Type F1 and H trams end elevation (MTT original).png|these drawings}}</nowiki></code> gives me another option if I ever want to include "File:" Cheers, [[User:SCHolar44|SCHolar44]] ([[User talk:SCHolar44|talk]]) 00:27, 22 February 2019 (UTC)
+::::::By the way, [[User:SCHolar44|SCHolar44]], you can use the reverse at Commons (<code><nowiki>[[:w:Main Page]]</nowiki></code> produces a link to [[Main Page]] here.  Also, {{tl|w}} works as a simple link here, although it formerly redirected to {{tl|Welcome}}.  This is mostly for interwiki purposes, e.g. bots copying image description pages, because gibberish resulted when Commons images with {{tl|w}} links were moved here.  See [[:File:Template W for welcome.png]] for what happened when [[:c:File:Carnegie Free Library in Beaver Falls.jpg]] was uploaded here for a Main Page appearance.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 00:35, 22 February 2019 (UTC)
+::::::{{ping|SCHolar44}} I'm not sure what you mean by "include File:" but don't use <code><nowiki>{{File:Adelaide Type F1 and H trams end elevation (MTT original).png|these drawings}}</nowiki></code> to make a file page link. It happens to do it in this example for obscure reasons which may not apply in the future. It's code to use the English Wikipedia page "File:Adelaide Type F1 and H trams end elevation (MTT original).png" like a template, trancluding it with "these drawings" as a parameter. But the page [[:File:Adelaide Type F1 and H trams end elevation (MTT original).png]] does not technically exist at the English Wikipedia (it merely displays a Commons page), and an attempt to transclude a non-existing page will instead link it. You can link a local file page by placing a colon in front. <code><nowiki>[[:File:Example.jpg]]</nowiki></code> produces [[:File:Example.jpg]]. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 02:15, 22 February 2019 (UTC)
+
+== Restore Deleted Bio ==
+
+I had a Wikipedia Page about myself for the past 6 years but it has disappeared. I did not delete it. I would really appreciate any assistance in restoring it.
+
+Thank you,,
+
+Adele Scheele  <!-- Template:Unsigned --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Adelescheele|Adelescheele]] ([[User talk:Adelescheele#top|talk]] • [[Special:Contributions/Adelescheele|contribs]]) 22:48, 21 February 2019 (UTC)</small> <!--Autosigned by SineBot-->
+:{{ping|Adelescheele}} The article called [[Adele Scheele]] was deleted in September 2017 after discussion at [[Wikipedia:Articles for deletion/Adele Scheele (2nd nomination)]]. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 23:04, 21 February 2019 (UTC)
+
+== Reducing sizes of non-free images ==
+
+Hi, I just uploaded [[:File:Double Cross game cover.png]], but since I know the image currently violates the non-free guidelines, I may need some help reducing its size. Anyone up for doing that? [[User:ToThAc|ToThAc]] ([[User talk:ToThAc|talk]]) 23:27, 21 February 2019 (UTC)
+:{{re|ToThAc}} the easiest option is to simply wait; there is a bot that automatically detects oversized non-free images and resizes them. If you want to speed that up, slap {{tl|Non-free reduce}} on the page yourself, the bot will take care of the actual resizing in that case as well. Finally, you could always manually resize the file using an image editor and upload the new version by clicking "Upload a new version of this file".
+
+:But the more urgent issue is that your image is not used in any article. Orphan non-free images will be deleted after some time. And it lacks a written rationale for its use. Such images also face deletion. <span style="font-family: serif; letter-spacing: 0.1em">–&nbsp;[[User:Finnusertop|Finnusertop]]</span> ([[User talk:Finnusertop|talk]] ⋅ [[Special:Contributions/Finnusertop|contribs]]) 23:33, 21 February 2019 (UTC)
+::Thanks! And don't worry, I quickly added it to my [[User:ToThAc/sandbox|sandbox page]], so it shouldn't be F5-eligible anymore. [[User:ToThAc|ToThAc]] ([[User talk:ToThAc|talk]]) 23:37, 21 February 2019 (UTC)
+:::{{re|ToThAc}} it's eligible, because non-free files may be only used in articles, not sandboxes or any other pages. Non-free files should only be uploaded when the article is ready. <span style="font-family: serif; letter-spacing: 0.1em">–&nbsp;[[User:Finnusertop|Finnusertop]]</span> ([[User talk:Finnusertop|talk]] ⋅ [[Special:Contributions/Finnusertop|contribs]]) 23:51, 21 February 2019 (UTC)
+::::I see... [[User:ToThAc|ToThAc]] ([[User talk:ToThAc|talk]]) 23:58, 21 February 2019 (UTC)

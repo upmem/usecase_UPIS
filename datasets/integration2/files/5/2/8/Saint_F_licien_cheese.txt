@@ -1,0 +1,37 @@
+{{no footnotes|date=September 2012}}
+{{Infobox cheese
+| name = Saint-Félicien
+| image = [[File:Saint-Félicien 02.jpg|300px]]
+| othernames =
+| country = [[France]]
+| regiontown =
+| region = [[Rhone-Alpes]]
+| town = Saint-Félicien
+| source = [[cow]]s
+| pasteurised =
+| texture = creamy
+| fat =
+| protein =
+| dimensions =
+| weight = 180 grams
+| aging =
+| certification = Label Régional (LR)
+}}
+
+'''Saint-Félicien''' is a cow's milk [[cheese]] produced in the [[Rhône-Alpes]] region of [[France]]. In France, it is designated a ''dauphinois'' cheese, referring to the former French province [[Dauphiné]] where it originated. It is a close cousin of another dauphinois cheese, [[Saint-Marcellin]], and bears a similar texture and taste, though it can be almost twice as large in diameter.
+
+The name originates from the small town where the cheese was first produced and sold. It was originally made from goat's milk, but since then it has become more common to produce it with cow's milk. Its creamy interior is encased in a flower-style (fleurie) casing. Its average weight is {{convert|180|g|oz}}.
+
+The optimal period for flavor occurs between April and September after an aging of 4 to 6 weeks, but it is also excellent consumed between March and December. It is softer and creamier than [[Saint-Marcellin]].
+
+One should not confuse this cheese with the goat's milk cheese called ''caillé doux'' from [[Saint-Félicien, Ardèche]].
+
+{{French cheeses}}
+
+{{DEFAULTSORT:Saint-Felicien cheese}}
+[[Category:French cheeses]]
+[[Category:Cuisine of Auvergne-Rhône-Alpes]]
+[[Category:Cuisine of Lyon]]
+
+
+{{cheese-stub}}

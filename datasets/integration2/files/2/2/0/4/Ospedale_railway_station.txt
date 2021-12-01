@@ -1,0 +1,58 @@
+{{one source|date=January 2015}}
+{{Infobox station
+|name           = Ospedale
+|image          = 
+|caption        = Ospedale railway station
+|locale         = 
+|address        = [[Bari]], [[Province of Bari]], [[Apulia]]
+|country        = [[Italy]]
+|line           = [[Bari–San Paolo railway]]
+|distance       = 
+|elevation      = 
+|coordinates    = {{coord|41|07|03|N|16|46|50|E|type:railwaystation_region:IT-TA|display=inline,title}}
+|opened         = {{Start date and age|22 December 2008|df=y}}
+|architect      = 
+|electrified    = 
+|rebuilt        = 
+|closed         = 
+|platforms      = 2
+|owned          = [[Rete Ferroviaria Italiana]]
+|manager        = 
+|operator       = [[Ferrotramviaria]]
+|iata           = 
+|classification = 
+|services       = 
+{{s-rail|title=Ferrotramviaria}}
+{{s-line|system=IT-Treno regionale|type=Ospedale San Paolo|type2=Bari Centrale|previous=|next=San Gabriele}}
+|airport        = 
+|metro          = 
+|tram           = 
+|bus            = 
+|ship           = 
+|map_type       = Italy Apulia#Italy South#Italy
+|map_caption    = Location in Apulia##Location in Southern Italy##Location in Italy
+}}
+'''Ospedale''' ({{lang-it|Stazione di Ospedale}}) is a railway station in the [[Italy|Italian]] city of [[Bari]], in the [[Province of Bari]], [[Apulia]]. The station lies on the [[Bari–San Paolo railway]]. The train services are operated by [[Ferrotramviaria]].
+
+==Train services==
+The station is served by the following service(s):<ref>[http://www.ferrovienordbarese.it/tmp/downloads/san_paolo_inv_2014.pdf Ferrovie del Nord Barese timetable]</ref>
+
+*Bari Metropolitan services (''FM1'') Ospedale - Bari
+
+==See also==
+*[[Railway stations in Italy]]
+*[[List of railway stations in Apulia]]
+*[[Rail transport in Italy]]
+*[[History of rail transport in Italy]]
+
+==References==
+{{reflist}}
+{{refbegin}}
+* ''This article is based upon a translation of the [[:it:Stazione di Ospedale|Italian language version]] as at October 2014.''
+{{refend}}
+
+{{Italian railway stations}}
+
+[[Category:Railway stations in Apulia]]
+[[Category:Buildings and structures in the Province of Bari]]
+[[Category:Railway stations opened in 2008]]

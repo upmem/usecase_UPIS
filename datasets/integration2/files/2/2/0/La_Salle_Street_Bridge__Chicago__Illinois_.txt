@@ -1,0 +1,56 @@
+{{Infobox_bridge
+|bridge_name=La Salle Street Bridge
+|image=LaSalle Street bridge 20100731.jpg
+|caption=View of the bridge from the [[Wells Street Bridge (Chicago)|Wells Street Bridge]]
+|official_name=La Salle Street Bridge
+|other_name = Marshall Suloway Bridge
+|carries=Automobiles<br>Pedestrians
+|crosses=[[Chicago River]]
+|locale=[[Chicago]], [[Cook County, Illinois|Cook County]], [[Illinois]]
+|maint=[[Chicago Department of Transportation]]
+|id=000016603226800
+|designer=Donald Becker
+|material=
+|spans=
+|mainspan={{convert|220|ft|m|0}}
+|length={{convert|242|ft|m|0}}
+|width={{convert|86|ft|m|0}}
+|clearance={{convert|18.7|ft|m|1}}
+|below=
+|traffic=12050<ref> {{cite web|url=http://nationalbridges.com/index.php?option=com_lqm&51c6e5f3f38e1153939682fbf8cfec10=1&task=showResults&query=8&lqm_id=162503&&format=raw&&Itemid=2 |title=NBI Structure Number: 000016603226800 |accessdate=2013-01-05 }}</ref>
+|open=1928
+|closed=
+|toll=
+|map_cue=
+|map_image=
+|map_text=
+|map_width=
+|coordinates = {{coord|41.887484|-87.632474|display=inline,title}}
+}}
+
+The '''La Salle Street Bridge''' (officially the '''Marshall Suloway Bridge''') is a single-deck double-leaf trunnion bascule bridge spanning the main stem of the [[Chicago River]] in [[Chicago]], Illinois,<ref name=HAER>{{cite web |url=http://hdl.loc.gov/loc.pnp/hhh.il0632 |title=Chicago River Bascule Bridge, LaSalle Street |accessdate=2010-08-01 |work=Historic American Engineering Record}}</ref> that connects the [[River North, Chicago|Near North Side]] with the [[Chicago Loop|Loop]] area. It was constructed in 1928 at a cost of $2,500,000<ref>{{cite news|title=Widening of LaSalle Street, New Bridge to be Ready by Nov. 1|newspaper=Chicago Tribune|date=1928-09-30}}</ref> by the Strobel Steel Constructing Company.
+
+The bridge was part of a scheme to widen [[LaSalle Street]] and improve access from the Loop to the north side of the river that had been proposed as early as 1902.<ref>{{cite news|title=La Salle Street Boulevard Plan|newspaper=Chicago Daily Tribune|date=1902-04-10}}</ref> The design of the bridge, along with those for new bridges at [[Madison Street (Chicago)|Madison Street]], Franklin Street, and [[Clark Street (Chicago)|Clark Street]], was approved in 1916.<ref>{{cite news|title=Bridge Eyesores Will Give Way to Beauty Plans|newspaper=Chicago Daily Tribune|date=1916-02-18}}</ref>
+
+The [[Chicago City Council]] renamed the bridge in 1999 to honor former [[Chicago Department of Public Works]] Commissioner [[Marshall Suloway]].<ref>{{cite news |last=Megan |first=Graydon |date=March 14, 2012 |title=Marshall Suloway, 1921–2012: Engineer with hand in expressways, O'Hare |url=http://articles.chicagotribune.com/2012-03-14/news/ct-met-suloway-obit-20120314_1_southwest-expressway-crosstown-expressway-dan-ryan |newspaper=[[The Chicago Tribune]] |accessdate=July 6, 2016}}</ref>
+
+==See also==
+*[[List of bridges documented by the Historic American Engineering Record in Illinois]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons category-inline|LaSalle Street Bridge (Chicago)}}
+
+[[Category:1928 establishments in Illinois]]
+[[Category:Bridges completed in 1928]]
+[[Category:Bridges in Chicago]]
+[[Category:Historic American Engineering Record in Illinois]]
+[[Category:Road bridges in Illinois]]
+[[Category:Steel bridges in the United States]]
+[[Category:Bascule bridges in the United States]]
+
+
+{{bridge-stub}}
+{{Chicago-stub}}

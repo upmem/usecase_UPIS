@@ -1,0 +1,258 @@
+{{Infobox planet
+ | minorplanet     = yes
+ | name            = 1046 Edwin
+ | background      = #D6D6D6
+ | image           = Orbit of 1046 Edwin.gif
+ | image_size      = 255
+ | caption         = Orbital diagram of 1046 Edwin
+ | discovery_ref   = &thinsp;<ref name="MPC-object" />
+ | discoverer      = [[George Van Biesbroeck|G. van Biesbroeck]]
+ | discovery_site  = [[Yerkes Observatory|Yerkes Obs.]]
+ | discovered      = 1 December 1924
+ | mpc_name        = (1046) Edwin
+ | alt_names       = 1924 UA{{·}}1949 RB<br />1949 YL
+ | pronounced      = 
+ | named_after     = {{nowrap|Edwin Van Biesbroeck&thinsp;<ref name="springer" />}}<br />{{small|(discoverer's son)}}
+ | mp_category     = [[main-belt]]&thinsp;<ref name="MPC-object" /><ref name="jpldata" />{{·}}{{small|([[Kirkwood gap|outer]])}}&thinsp;<ref name="lcdb" /><br />[[Background asteroid|background]]&thinsp;<ref name="Ferret" />
+ | orbit_ref       = &thinsp;<ref name="jpldata" />
+ | epoch           = 23 March 2018 ([[Julian day|JD]] 2458200.5)
+ | uncertainty     = 0
+ | observation_arc = 91.86 [[Julian year (astronomy)|yr]] (33,553 d)
+ | aphelion        = 3.1769 [[Astronomical unit|AU]]
+ | perihelion      = 2.7895 AU
+ | semimajor       = 2.9832 AU
+ | eccentricity    = 0.0649
+ | period          = 5.15 yr (1,882 d)
+ | mean_anomaly    = 53.846[[Degree (angle)|°]]
+ | mean_motion     = {{Deg2DMS|0.1913|sup=ms}} / day
+ | inclination     = 7.8991°
+ | asc_node        = 10.745°
+ | arg_peri        = 47.898°
+ | mean_diameter   = {{val|25.15|0.66|ul=km}}<ref name="AKARI" /><br />{{val|29.084|0.405|u=km}}<ref name="Masiero-2014" /><br />{{val|36.355|0.604|u=km}}<ref name="WISE" /><br />{{val|42.23|u=km}} {{small|(calculated)}}<ref name="lcdb" />
+ | rotation        = {{val|5.29|0.01|u=h}}<ref name="Koff-2002a" />{{efn|name=lightcurve-plot-Koff}}<br />{{val|5.2906|0.0001|u=h}}<ref name="geneva-obs" /><br />{{val|5.296|0.006|u=h}}<ref name="geneva-obs" /><br />{{val|5.30|0.02|u=h}}<ref name="Ditteon-2007" />
+ | albedo          = 0.057 {{small|(assumed)}}<ref name="lcdb" /><br />{{val|0.1113|0.0145}}<ref name="WISE" /><br />{{val|0.201|0.039}}<ref name="Masiero-2014" /><br />{{val|0.235|0.014}}<ref name="AKARI" />
+ | spectral_type   = [[SMASS classification|SMASS]] {{=}} [[X-type asteroid|X]][[E-type asteroid|e]]&thinsp;<ref name="jpldata" />{{·}}[[M-type asteroid|M]]&thinsp;<ref name="WISE" />
+ | abs_magnitude   = 10.20<ref name="AKARI" /><ref name="WISE" />{{·}}10.6<ref name="jpldata" /><ref name="lcdb" /><br />{{val|11.08|0.29}}<ref name="Veres-2015" />
+}}
+
+'''1046 Edwin''', provisional designation {{mp|1924 UA}}, is a background [[asteroid]] from the outer regions of the [[asteroid belt]], approximately {{convert|30|km|mi|abbr=off|sigfig=1|sp=us}} kilometers in diameter. It was discovered on 1 December 1924, by Belgian–American astronomer [[George Van Biesbroeck]] at the [[Yerkes Observatory]] in Wisconsin, United States, who named it after his son, Edwin Van Biesbroeck.<ref name="MPC-object" /> The potentially metallic asteroid has a short [[rotation period]] of 5.29 hours.<ref name="lcdb" />
+
+== Orbit and classification ==
+
+''Edwin'' is a non-[[Asteroid family|family]] asteroid from the main belt's [[Background asteroid|background population]].<ref name="Ferret" /> It orbits the Sun in the [[Kirkwood gap|outer]] asteroid belt at a distance of 2.8–3.2&nbsp;[[Astronomical unit|AU]] once every 5 years and 2 months (1,882 days; [[semi-major axis]] of 2.98&nbsp;AU). Its orbit has an [[orbital eccentricity|eccentricity]] of 0.06 and an [[orbital inclination|inclination]] of 8[[Degree (angle)|°]] with respect to the [[ecliptic]].<ref name="jpldata" /> The body's [[observation arc]] begins with its first recorded observation at [[Heidelberg Observatory]] in March 1926, or 15 months after its official discovery observation at Yerkes Observatory.<ref name="MPC-object" />
+
+== Physical characteristics ==
+
+In the [[SMASS classification]], ''Edwin'' is an Xe-subtype that transitions from the [[X-type asteroid|X-type]] to the very bright [[E-type asteroid]]&thinsp;<ref name="jpldata" /> It has also been characterized as a metallic [[M-type asteroid]] by the [[Wide-field Infrared Survey Explorer]] (WISE).<ref name="WISE" />
+
+=== Rotation period ===
+
+Since 2001, several rotational [[lightcurve]]s of ''Edwin'' have been obtained from [[Photometry (astronomy)|photometric]] observations by American William Koff at the Antelope Hills Observatory {{Obscode|H09}} in Colorado,<ref name="Koff-2002a" />{{efn|name=lightcurve-plot-Koff}} Richard Ditteon at the [[Oakley Observatory]] in Indiana,<ref name="Ditteon-2007" />  and French amateur astronomers [[Pierre Antonini]], [[René Roy (astronomer)|René Roy]] and [[Stéphane Charbonnel]].<ref name="geneva-obs" />
+
+Analysis of the best-rated lightcurve by [[Pierre Antonini]] from November 2006, gave a [[rotation period]] of 5.2906 hours with a brightness amplitude of 0.27 [[Magnitude (astronomy)|magnitude]] ({{small|[[LCDB quality code|U=3]]}}).<ref name="lcdb" /><ref name="geneva-obs" /> While not being a [[List of fast rotators (minor planets)|fast rotator]], it has a relatively short spin-rate for an asteroid of its size.
+
+=== Diameter and albedo ===
+
+According to the surveys carried out by the Japanese [[Akari (satellite)|Akari satellite]] and the [[NEOWISE]] mission of NASA's WISE telescope, ''Edwin'' measures between 25.15 and 36.355 kilometers in diameter and its surface has an [[astronomical albedo|albedo]] between 0.1113 and 0.235.<ref name="AKARI" /><ref name="Masiero-2014" /><ref name="WISE" />
+
+The ''Collaborative Asteroid Lightcurve Link'' assumes a standard albedo for [[C-type asteroid|carbonaceous]] asteroids of 0.057 and consequently calculates a larger diameter of 42.23 kilometers based on an [[absolute magnitude]] of 10.6.<ref name="lcdb" />
+
+== Naming ==
+
+This [[minor planet]] was named after Edwin Van Biesbroeck, son of discoverer [[George Van Biesbroeck]]. The official naming citation was mentioned in ''[[The Names of the Minor Planets]]'' by [[Paul Herget]] in 1955 ({{small|[[Herget's discovery circumstances|H 99]]}}).<ref name="springer" />
+
+== Notes ==
+{{notelist|refs=
+
+{{efn|name=lightcurve-plot-Koff|1=[http://www.antelopehillsobservatory.org/lightcurves/1046.gif Lightcurve plot of (1046) Edwin] by Robert A. Koff at the Antelope Hills Observatory.<ref name="Koff-2002a" /> Rotation period {{val|5.29|0.01}} hours. Quality code of 2+.}}
+
+}} <!-- end of notelist -->
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name="jpldata">{{cite web
+  |type       = 2018-01-26 last obs.
+  |title      = JPL Small-Body Database Browser: 1046 Edwin (1924 UA)
+  |url        = https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2001046
+  |publisher  = [[Jet Propulsion Laboratory]]
+  |accessdate = 20 March 2018}}</ref>
+
+<ref name="springer">{{cite book
+  |chapter    = (1046) Edwin
+  |title      = Dictionary of Minor Planet Names
+  |url    = https://archive.org/details/dictionaryminorp00schm
+  |url-access = limited
+  |last       = Schmadel | first = Lutz D.
+  |publisher  = Springer Berlin Heidelberg
+  |page       = [https://archive.org/details/dictionaryminorp00schm/page/n102 89]
+  |date       = 2007
+  |isbn       = 978-3-540-00238-3
+  |doi        = 10.1007/978-3-540-29925-7_1047}}</ref>
+
+<ref name="MPC-object">{{cite web
+  |title      = 1046 Edwin (1924 UA)
+  |work       = Minor Planet Center
+  |url        = https://www.minorplanetcenter.net/db_search/show_object?object_id=1046
+  |accessdate = 20 March 2018}}</ref>
+
+<ref name="geneva-obs">{{cite web
+  |title      = Asteroids and comets rotation curves – (1046) Edwin
+  |last       = Behrend |first = Raoul
+  |publisher  = Geneva Observatory
+  |url        = http://obswww.unige.ch/~behrend/page3cou.html#001046
+  |accessdate = 20 March 2018}}</ref>
+
+<ref name="Masiero-2014">{{cite journal
+  |display-authors = 6
+  |first1     = Joseph R. |last1 = Masiero
+  |first2     = T. |last2 = Grav
+  |first3     = A. K. |last3 = Mainzer
+  |first4     = C. R. |last4 = Nugent
+  |first5     = J. M. |last5 = Bauer
+  |first6     = R. |last6 = Stevenson
+  |first7     = S. |last7 = Sonnett
+  |date       = August 2014
+  |title      = Main-belt Asteroids with WISE/NEOWISE: Near-infrared Albedos
+  |journal    = The Astrophysical Journal
+  |volume     = 791
+  |issue      = 2
+  |page       = 11
+  |bibcode    = 2014ApJ...791..121M
+  |doi        = 10.1088/0004-637X/791/2/121
+  |arxiv      = 1406.6645}}</ref>
+
+<ref name="Ferret">{{cite web
+  |title      = Asteroid 1046 Edwin – Nesvorny HCM Asteroid Families V3.0
+  |work       = Small Bodies Data Ferret
+  |url        = https://sbntools.psi.edu/ferret/SimpleSearch/results.action?targetName=1046+Edwin
+  |accessdate = 24 October 2019}}</ref>
+
+<ref name="lcdb">{{cite web
+  |title      = LCDB Data for (1046) Edwin
+  |publisher  = Asteroid Lightcurve Database (LCDB)
+  |url        = http://www.minorplanet.info/PHP/generateOneAsteroidInfo.php?AstInfo=1046%7CEdwin
+  |accessdate = 20 March 2018}}</ref>
+
+<ref name="WISE">{{cite journal
+  |display-authors = 6
+  |first1     = A. |last1 = Mainzer
+  |first2     = T. |last2 = Grav
+  |first3     = J. |last3 = Masiero
+  |first4     = E. |last4 = Hand
+  |first5     = J. |last5 = Bauer
+  |first6     = D. |last6 = Tholen
+  |first7     = R. S. |last7 = McMillan
+  |first8     = T. |last8 = Spahr
+  |first9     = R. M. |last9 = Cutri
+  |first10    = E. |last10 = Wright
+  |first11    = J. |last11 = Watkins
+  |first12    = W. |last12 = Mo
+  |first13    = C. |last13 = Maleszewski
+  |date       = November 2011
+  |title      = NEOWISE Studies of Spectrophotometrically Classified Asteroids: Preliminary Results
+  |journal    = The Astrophysical Journal
+  |volume     = 741
+  |issue      = 2
+  |page       = 25
+  |bibcode    = 2011ApJ...741...90M
+  |doi        = 10.1088/0004-637X/741/2/90
+  |arxiv      = 1109.6407}}</ref>
+
+<ref name="AKARI">{{cite journal
+  |display-authors = 6
+  |first1     = Fumihiko |last1 = Usui
+  |first2     = Daisuke |last2 = Kuroda
+  |first3     = Thomas G. |last3 = Müller
+  |first4     = Sunao |last4 = Hasegawa
+  |first5     = Masateru |last5 = Ishiguro
+  |first6     = Takafumi |last6 = Ootsubo
+  |first7     = Daisuke |last7 = Ishihara
+  |first8     = Hirokazu |last8 = Kataza
+  |first9     = Satoshi |last9 = Takita
+  |first10    = Shinki |last10 = Oyabu
+  |first11    = Munetaka |last11 = Ueno
+  |first12    = Hideo |last12 = Matsuhara
+  |first13    = Takashi |last13 = Onaka
+  |date       = October 2011
+  |title      = Asteroid Catalog Using Akari: AKARI/IRC Mid-Infrared Asteroid Survey
+  |url        = http://pasj.oxfordjournals.org/content/63/5/1117.full.pdf+html
+  |journal    = Publications of the Astronomical Society of Japan
+  |volume     = 63
+  |issue      = 5
+  |pages      = 1117–1138
+  |bibcode    = 2011PASJ...63.1117U
+  |doi        = 10.1093/pasj/63.5.1117
+  |access-date= 20 March 2018|doi-access= free
+  }} [http://vizier.cfa.harvard.edu/viz-bin/VizieR?-source=J/PASJ/63/1117 Online catalog]</ref>
+
+<ref name="Koff-2002a">{{Cite journal
+  |author     = Koff, R. A.
+  |date       = June 2002
+  |title      = Lightcurve Photometry of 492 Gismonda, 1046 Edwin, and 1310 Villigera
+  |journal    = The Minor Planet Bulletin
+  |volume     = 29
+  |pages      = 25–26
+  |bibcode    = 2002MPBu...29...25K}}</ref>
+
+<ref name="Ditteon-2007">{{Cite journal
+  |first1     = Richard |last1 = Ditteon
+  |first2     = Scot |last2 = Hawkins
+  |date       = September 2007
+  |title      = Asteroid Lightcurve Analysis at the Oakley Observatory - October-November 2006
+  |journal    = The Minor Planet Bulletin
+  |volume     = 34
+  |issue      = 3
+  |pages      = 59–64
+  |issn       = 1052-8091
+  |bibcode    = 2007MPBu...34...59D}}</ref>
+
+<ref name="Veres-2015">{{cite journal
+  |display-authors = 6
+  |first1     = Peter |last1 = Veres
+  |first2     = Robert |last2 = Jedicke
+  |first3     = Alan |last3 = Fitzsimmons
+  |first4     = Larry |last4 = Denneau
+  |first5     = Mikael |last5 = Granvik
+  |first6     = Bryce |last6 = Bolin
+  |first7     = Serge |last7 = Chastel
+  |first8     = Richard J. |last8 = Wainscoat
+  |first9     = William S. |last9 = Burgett
+  |first10    = Kenneth C. |last10 = Chambers
+  |first11    = Heather |last11 = Flewelling
+  |first12    = Nick |last12 = Kaiser
+  |first13    = Eugen A. |last13 = Magnier
+  |first14    = Jeff S. |last14 = Morgan
+  |first15    = Paul A. |last15 = Price
+  |first16    = John L. |last16 = Tonry
+  |first17    = Christopher |last17 = Waters
+  |date       = November 2015
+  |title      = Absolute magnitudes and slope parameters for 250,000 asteroids observed by Pan-STARRS PS1 - Preliminary results
+  |journal    = Icarus
+  |volume     = 261
+  |pages      = 34–47
+  |bibcode    = 2015Icar..261...34V
+  |doi        = 10.1016/j.icarus.2015.08.007
+  |arxiv      = 1506.00762}}</ref>
+
+}} <!-- end of reflist -->
+
+== External links ==
+* [http://www.minorplanet.info/PHP/lcdbsummaryquery.php Asteroid Lightcurve Database (LCDB)], query form ([http://www.minorplanet.info/lightcurvedatabase.html info])
+* [https://books.google.com/books?id=aeAg1X7afOoC&pg Dictionary of Minor Planet Names], Google books
+* [http://obswww.unige.ch/~behrend/page_cou.html Asteroids and comets rotation curves, CdR] – Observatoire de Genève, Raoul Behrend
+* [https://www.minorplanetcenter.net/iau/lists/NumberedMPs000001.html Discovery Circumstances: Numbered Minor Planets (1)-(5000)] – Minor Planet Center
+* {{AstDys|1046}}
+* {{JPL small body}}
+
+{{Use dmy dates|date=March 2018}}
+{{Minor planets navigator |1045 Michela |number=1046 |1047 Geisha}}
+{{Small Solar System bodies}}
+
+{{DEFAULTSORT:Edwin}}
+[[Category:Background asteroids|001046]]
+[[Category:Discoveries by George Van Biesbroeck]]
+[[Category:Minor planets named for people]]
+[[Category:Named minor planets]]
+[[Category:Xe-type asteroids (SMASS)|001046]]
+[[Category:Astronomical objects discovered in 1924|19241201]]

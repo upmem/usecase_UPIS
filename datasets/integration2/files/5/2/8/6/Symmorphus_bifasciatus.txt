@@ -1,0 +1,44 @@
+{{Speciesbox
+| image = Symmorphus sp. - Flickr - S. Rae (1).jpg
+| taxon = Symmorphus bifasciatus
+| authority = ([[Carl Linnaeus|Linnaeus]], 1761)
+| synonyms = {{specieslist
+|Vespa bifasciata|Linnaeus, 1761<ref name="Linnaeus, 1761" />
+|Vespa sinuata|[[Johan Christian Fabricius|Fabricius]], 1793
+|Odynerus sinuatus {{noitalics|var.}} mutinensis|Baldini, 1894
+|Symmorphus sparsus|[[Ferdinand Morawitz|Morawitz]], 1895
+|Symmorphus sinuatissimus|Richards, 1935
+|Symmorphus mutinensis|(Baldini, 1894)
+|Symmorphus mutinensis auster|[[Antonio Giordani Soika|Giordani Soika]], 1975
+|Symmorphus mutinensis yezoanus|Tsuneki, 1977}}
+| synonyms_ref = <ref name = NBN>{{cite web | url = https://species.nbnatlas.org/species/NBNSYS0100005641#names |  title = ''Symmorphus bifasciatus'' (Linnaeus, 1761) | accessdate = 13 April 2017 | publisher = National Biodiversity Network}}</ref><ref name="Li et al., 2014"/>
+}}
+
+'''''Symmorphus bifasciatus''''', the '''willow mason-wasp''', is a species of [[potter wasp]], from the subfamily [[Eumeninae]] of the social wasp family [[Vespidae]] which is widely distributed in the [[Palearctic]] region.
+
+==Description==
+''Symmorphus bifasciatus''is one of the two small ''[[Symmorphus]]'' species found in Britain which have a transverse ridge along the front edge of the [[pronotum]]. It is distinguished from the other ''[[Symmorphus connexus]]'' by having denser punctures on the [[mesonotum]], [[mesopleuron]] and [[frons]], and because it normally shows yellow patches on the [[pronotum]] and [[Scutellum (insect anatomy)|scutellum]].
+<ref name = flickr>{{cite web | url = https://www.flickr.com/photos/63075200@N07/sets/72157666768505414/ | title = ''Symmorphus bifasciatus'' | accessdate = 13 April 2017 | publisher = Steven Falk}}</ref>
+
+==Distribution==
+''Symmorphus bifasciatus'' is found from Great Britain, as far north as [[Highland (council area)|Highland]] in northern Scotland,<ref name = BWARS>{{cite web | url = http://www.bwars.com/wasp/vespidae/eumeninae/symmorphus-bifasciatus | title = ''Symmorphus bifasciatus'' (Linnaeus,1761) | accessdate = 13 April 2017 | publisher = [[Bees Wasps & Ants Recording Society]] | year = 2016}}</ref>  east to north eastern [[Siberia]], [[Korea]] and [[Japan]], south to [[Central Asia]].<ref name = eol>{{cite web | url = http://eol.org/pages/1032860/overview | title = ''Symmorphus bifasciatus'' | accessdate = 13 April 2017 | publisher = Encyclopedia of Life}}</ref>
+
+==Biology==
+''Symmorphus bifasciatus'' is a tube-nesting wasp, utilising existing cavities including the hollow stems of plants and the disused plant galls of ''[[Cynips kollari]]'', where the female wasp constructs a number of cells, separated from each other by walls made of clay. ''S. bifasciatus'' hunts for the larvae of the [[leaf beetle]] ''[[Phyllodecta vulgatissima]]'', which are immobilised by stinging and carried back to the nest by the mandibles and forelegs to supply the cells.<ref name = BWARS/> Once there is sufficient food in the cell, usually between 10 and 17 grubs which are tightly packed,<ref name = BWARS/> the female lays an egg in the cell.<ref name = Eakring>{{cite web | url = http://www.eakringbirds.com/eakringbirds2/insectinfocussymmorphusbifasciatus.htm | title = ''Symmorphus bifasciatus'' (Linnaeus, 1761) | accessdate = 13 April 2017 | publisher = Trevor and Dilys Pendleton | work = Eakring Birds}}</ref> The egg hatches in two or three days after laying, while the larvae mature in one or two weeks undergoing a probable five instars. Once the larve has finished feeding it may rest for around one day before it voids its gut contents towards the inner end of the cell and then spins a cocoon which it fixes to the base of the cell. The flight period is from May to October; but activity peaks between June and August, but they are especially active in July. Adults are known to feed on the nectar of [[figwort]], [[Apiaceae]] and [[spurge]].<ref name = BWARS/>
+
+The [[cuckoo wasp]]s ''[[Chrysis angustula]]'' and ''[[Chrysis ignita]]'' have been recorded as [[brood parasite]]s of ''Symmorphus bifasciatus'' in Europe.<ref name = BWARS/>
+
+==References==
+{{Reflist|refs=
+<ref name="Li et al., 2014">{{cite journal|last1=Li|first1=Tingjing|last2=Chen|first2=Bin|title=The taxonomic accounts of the genus Symmorphus Wesmael (Hymenoptera, Vespidae, Eumeninae) from China, with descriptions of three new species|journal=ZooKeys|date=2014|volume=389|pages=18–19|doi=10.3897/zookeys.389.7045|doi-access=free|pmc=3974429|pmid=24715771}}</ref>
+
+<ref name="Linnaeus, 1761">{{cite book|last1=Linnæus|first1=C.|title=Fauna Svecica sistens animalia Sveciæ Regni. Editio Altera, Auctior|date=1761|publisher=Laurentius Salvius|location=Stockholmia|page=419|chapter-url=https://biodiversitylibrary.org/page/32170888|chapter=Insecta Hymenoptera. ''Vespa''}}</ref>
+}}
+
+{{Taxonbar|from=Q2374616}}
+
+[[Category:Hymenoptera of Europe]]
+[[Category:Vespidae]]
+[[Category:Potter wasps]]
+[[Category:Insects described in 1761]]
+[[Category:Taxa named by Carl Linnaeus]]

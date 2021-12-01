@@ -1,0 +1,25 @@
+==Fair use rationale for [[Leonard Searle]]==
+{{Non-free use rationale
+| Description       = Image of [[Leonard Searle]].
+| Source            = http://obs.carnegiescience.edu/news/SearleObit Copyright is believed to belong to the [[Carnegie Institution for Science]].
+| Article           = Leonard Searle
+| Portion           = Full
+| Low_resolution    = Yes
+| Purpose           = To identify the subject Leonard Searle in the one article about him alone.
+| Replaceability    = A free-licensed alternative is not possible because the subject is deceased.
+}}
+
+==Licensing==
+{{Non-free fair use in|Leonard Searle|image has rationale=yes}}
+
+==Fair use rationale==
+# '''No free equivalent.''' The subject is diseased, so no free equivalent can be produced. 
+# '''Respect for commercial opportunities.''' Photo does not in any way replace the original market role of the original copyrighted media.
+# '''Minimal usage''' and '''Minimal extent of use'''. Image is used alone.
+#  '''Previous publication.''' Has been published outside Wikipedia, see source.
+#  '''Content.''' Photo is necessary to adequately illustrate the subject.
+#  '''Media-specific policy.''' Photo meets [[Wikipedia:Image use policy]].
+#  '''One-article minimum.''' Used only in article [[Leonard Searle]]. 
+#  '''Significance.''' Photo of the subject is necessary to fully identify subject to reader.
+#  '''Restrictions on location.''' Used only in article namespace.
+#  '''Image description page.''' See elsewhere.

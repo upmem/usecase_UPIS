@@ -1,0 +1,63 @@
+{{Infobox German location
+|type = Ortsteil
+|Municipality = [[Beckingen]]
+|coordinates       = {{coord|49|27|2|N|6|45|59|E|format=dms|display=inline,title}}
+|image_coa            = Wappen Reimsbach.svg
+|image_plan        = Beckingen in MZG.svg
+|plantext = Location of Reimsbach
+|state             = Saarland
+|district = Merzig-Wadern
+|Stand             = {{date|2018-05-27|dmy}} <ref name="beckingen"/>
+|elevation         = 225
+|area              = 5.78
+|population        = 2300 
+|postal_code       = 66701
+|area_code         = 06832
+|Bürgermeistertitel= Ortsvorsteher
+|mayor             = Jürgen Dörholt
+}}
+
+'''Reimsbach''' is a village (German: Ortsteil) in [[Germany]] and part of the [[Gemeinde (Germany)|Gemeinde]] [[Beckingen]] in the [[Districts of Germany|district]] ("Landkreis") of [[Merzig-Wadern]] ([[Saarland]]).<ref name="beckingen">{{cite web|url=https://www.beckingen.de/content/beckingen/Gemeindebezirke/reimsbach_ort|title=Gemeindebezirk Reimsbach — Gemeinde Beckingen (in German)|website=www.beckingen.de|accessdate=27 May 2018}}</ref>
+
+== History ==
+
+The village was first mentioned in a document as "Rumestat" in 950 a.D. during the reign of [[archbishop]] [[Robert (archbishop of Trier)|Ruotbert]].<ref name="beckingen"/> Signs of [[Roman Empire|Roman]] presence in the village centre were evidenced by a 1947 gold coin finding.
+
+Next to the 1000-year old wild elm tree, on the outer rim of the village, a small chapel, endowed by Weidtmanns Wendel, is located. Named in honour of its benefactor, the ''Wendelinuskapelle'' was built in 1617 on a roman foundation.<ref name="pfarrgemeinschaft">{{cite web|url=https://www.pg-beckingen.de/%C3%BCber-uns/wendelinuskapelle/|title=Wendelinuskapelle - Reimsbach|website=Pfarreiengemeinschaft Beckingen|accessdate=28 May 2018}}</ref> The chapel survived [[artillery]] fire in the [[Thirty Years' War]] and the [[World War II|second World War]] as well as a fire in 1962.<ref name="pfarrgemeinschaft"/>
+
+During the end of the second World War, Reimsbach was hit by 45 [[United States|American]] bombs<ref name="sz"/> as a result of an ammunition depot being near the village, killing nine inhabitants, injuring many more and dealing great damage to buildings, on {{Start date and age|1944|12|08|df=yes}} at 15:50h local time, evidenced by the church clock stopping.<ref name="sz"/>
+
+Until 1973 Reimsbach was an independent district, before being incorporated into the newly-formed [[Beckingen|Gemeinde Beckingen]].<ref>{{cite book|isbn=3170032631|title=Historisches Gemeindeverzeichnis für die Bundesrepublik Deutschland. Namens-, Grenz- und Schlüsselnummernänderungen bei Gemeinden, Kreisen und Regierungsbezirken vom 27.5.1970 bis 31.12.1982|publisher=[[W. Kohlhammer]]|date=1983|location=Stuttgart/Mainz|author=[[Statistisches Bundesamt]]|page=804}}</ref> Since 1622 the village is known under its current name<ref name="reimsbach">{{cite web|url=http://www.reimsbach.com/Geschichtliches/geschichtliches.html|archive-url=https://web.archive.org/web/20170628204316/http://www.reimsbach.com/Geschichtliches/geschichtliches.html|url-status=dead|archive-date=28 June 2017|title=Geschichtliches|date=28 June 2017|publisher=|accessdate=27 May 2018}}</ref> and celebrated its 1050-year anniversary in mid-August 2000.<ref name="reimsbach"/> Further historical information can be found in ''Dorfchronik'' (1995) by Joseh Zehren (†)<ref name="sz">{{cite web|url=https://www.saarbruecker-zeitung.de/saarland/merzig-wadern/beckingen/bilanz-des-schreckens-nach-bombenangriff-auf-reimsbach_aid-1404194|title=Bilanz des Schreckens nach Bombenangriff auf Reimsbach|first=Saarbrücker|last=Zeitung|website=Saarbrücker Zeitung|accessdate=27 May 2018}}</ref><ref name="dorfchronik">{{cite book|title=Dorfchronik|date=1995|author=Joseph Zehren|location=[[Merzig]]|publisher=Merziger Druckerei und Verlag}}</ref> and ''Bewegte Jahre'' (1994) by Volkmar Schommer,<ref name="bewegtejahre">{{cite book|title=Bewegte Jahre|volume=Vol. I|date=1994|author=Volkmar Schommer|location=[[Merzig]]/Düppenweiler|publisher=Merziger Druckerei und Verlag}}</ref> whose neutrality is disputed<ref name="reimsbach"/> with Joseph Zehren being a contemporary witness.
+
+== Geography ==
+
+Reimsbach is located on the one end of the Haustadter Tal, which encompasses Oppen, Reimsbach, Honzrath and Haustadt along the Mackenbach and Mühlenbach creeks. The climate is described as warm and moderate, but also wet for [[Continental Europe]] (Cfb) with an average temperature of 9.7&nbsp;°C and about 730mm of precipitation.<ref name="climate">{{cite web|url=https://en.climate-data.org/location/14591/|title=Climate Beckingen: Temperature, Climograph, Climate table for Beckingen - Climate-Data.org|website=en.climate-data.org|accessdate=28 May 2018}}</ref>
+
+== Catholic church St. Andreas ==
+
+[[File:Reimsbach Kirche (5).jpg|thumb|right|alt=St. Andreas church view from the market place, blue sky and sunny weather|View from the market place]] The catholic church {{ill|St. Andreas, Reimsbach|de|St. Andreas (Reimsbach)|lt=St. Andreas}} was built from 1898 to 1901 by [[architect]] [[Wilhelm Hector]] from [[Sankt Johann (Saarbrücken)]],<ref name="denkmal">[http://www.saarland.de/dokumente/thema_denkmal/TDL-LKMZG_08-03-2013.pdf Denkmalliste des Saarlandes, Teildenkmalliste Landkreis Merzig-Wadern] (PDF; 285&nbsp;kB), accessed {{date|2018-05-27}}</ref><ref name="sakralbauwerke">{{cite book|author=Marschall, Kristine|title=Sakralbauwerke des Klassizismus und des Historismus im Saarland|publisher=Institut für Landeskunde im Saarland|location=Saarbrücken|date=2002|isbn=978-3-923877-40-9|page=666}}</ref> who planned and constructed over fifty sacral buildings in the region, thus coining [[Historism]] and [[Neoclassicism]] achitectorial styles in the area now known as [[Saarland]].<ref name="wilhelmhector">{{cite book|title=Saarländische Lebensbilder|date=1989|author=Hans-Berthold Busse, Peter Neumann|location=[[Saarbrücken]]|volume=Vol. IV|pages=131–154|isbn= 3925036202}}</ref>
+
+=== External links ===
+
+* [https://www.pg-beckingen.de/%C3%BCber-uns/st-andreas/ Church picture gallery]
+
+== See also ==
+
+* [[Beckingen]]
+
+== Literature ==
+
+* {{cite book|title=Bewegte Jahre|volume=Vol. I|date=1994|author=Volkmar Schommer|location=[[Merzig]]/[[Düppenweiler]]|publisher=Merziger Druckerei und Verlag}}
+* {{cite book|title=Dorfchronik|date=1995|author=Joseph Zehren|location=[[Merzig]]|publisher=Merziger Druckerei und Verlag}}
+* {{cite book|author=Marschall, Kristine|title=Sakralbauwerke des Klassizismus und des Historismus im Saarland|publisher=Institut für Landeskunde im Saarland|location=Saarbrücken|date=2002|isbn=978-3-923877-40-9}}
+
+== References ==
+{{reflist|30em}}
+
+{{Villages of Beckingen}}
+
+{{authority control}}
+
+[[Category:Merzig-Wadern]]
+[[Category:Villages in Saarland]]
+[[Category:Former municipalities in Saarland]]

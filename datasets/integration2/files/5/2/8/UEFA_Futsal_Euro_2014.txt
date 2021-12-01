@@ -1,0 +1,715 @@
+{{Infobox international football competition
+| tourney_name = UEFA Futsal Euro 2014
+| year = 
+| other_titles = Europees kampioenschap zaalvoetbal 2014<br />Championnat d'Europe de futsal 2014<br />Futsal-Europameisterschaft 2014
+| image = UEFA Futsal Euro 2014 logo.png
+| size = 150px
+| caption = Logo of the UEFA Futsal Euro 2014
+| country = {{BEL}}
+| dates = 28 January–8 February
+| num_teams = 12
+| venues = 2
+| cities = 1
+| champion_other = {{futsal|ITA}}
+| count = 2
+| second_other = {{futsal|RUS}}
+| third_other = {{futsal|ESP}}
+| fourth_other = {{futsal|POR}}
+| matches = 20
+| goals = 121
+| attendance = 90751
+| top_scorer = {{flagicon|RUS}} [[Eder Lima]] (8 goals)
+| player = {{flagicon|ITA}} [[Gabriel Lima (futsal player)|Gabriel Lima]]<ref>{{cite web|url=http://www.uefa.com/futsaleuro/history/season=2014/goldenplayer/index.html|title=UEFA.com Golden Player 2014: Gabriel Lima|publisher=UEFA.com}}</ref>
+| prevseason = [[UEFA Futsal Euro 2012|2012]]
+| nextseason = [[UEFA Futsal Euro 2016|2016]]
+}}
+The '''UEFA Futsal Euro 2014''' was the ninth edition of the [[UEFA Futsal Championship|European Championship]] for men's national [[futsal]] teams organised by [[UEFA]]. It was hosted for the first time in [[Belgium]], from 28 January to 8 February 2014, following a decision of the UEFA Executive Committee in December 2011.<ref>{{cite web|title=UEFA Futsal EURO 2014: Belgium|url=http://www.uefa.com/futsaleuro/season=2014/finals/index.html|work=UEFA.com|publisher=Union of European Football Associations (UEFA)|accessdate=9 February 2014}}</ref>
+
+The final tournament was contested by twelve teams, eleven of which joined [[Belgium national futsal team|the hosts]] after overcoming a [[UEFA Futsal Euro 2014 qualifying|qualifying tournament]]. The matches were played in two venues in the city of [[Antwerp]], the [[Lotto Arena]] (group stage) and the [[Sportpaleis]] (knockout stage). Television coverage was provided by [[Eurosport]] and [[Eurosport 2]].
+
+The defending champions, [[Spain national futsal team|Spain]], were beaten in the semifinals by [[Russia national futsal team|Russia]] and thus failed to reach their fifth consecutive tournament final. In the decisive match, [[Italy national futsal team|Italy]] defeated Russia 3–1 to win their second title.<ref>{{cite web|url=http://www.uefa.com/futsaleuro/season=2014/matches/round=2000402/match=2013809/postmatch/report/index.html#italy+beat+russia+uefa+futsal+euro+2014|title=Italy beat Russia to win UEFA Futsal EURO 2014|date=2014-02-08|work=uefa.com}}</ref> Spain defeated [[Portugal national futsal team|Portugal]] 8–4 in the third place match to secure a ninth consecutive podium finish.<ref>{{cite web|last=Saffer|first=Paul|title=Spain claim bronze against Portugal|url=http://www.uefa.com/futsaleuro/season=2014/matches/round=2000401/match=2013808/postmatch/report/index.html|work=UEFA.com|publisher=Union of European Football Associations (UEFA)|accessdate=9 February 2014|date=8 February 2014}}</ref>  The top scorer of the tournament was [[Eder Lima]] of Russia, with eight goals.<ref>{{cite web|last=Saffer|first=Paul|title=Eder Lima claims adidas Golden Shoe|url=http://www.uefa.com/futsaleuro/news/newsid=2052306.html|work=UEFA.com|publisher=Union of European Football Associations (UEFA)|accessdate=9 February 2014|date=8 February 2014}}</ref>
+
+==Venues==
+{{Location map|Belgium
+| caption    = Location of the 2014 UEFA Futsal Euro final tournament host city in Belgium
+| alt        = 
+| label      = Antwerp
+| position   = bottom
+| lat_deg    = 51.216667
+| lon_deg    = 4.4
+}}
+The final tournament matches were played in two venues located in [[Antwerp]]'s [[Merksem]] district. The [[Lotto Arena]] hosted the twelve group stage matches, while the remaining eight matches, including the final, were staged in the [[Sportpaleis]] arena.<ref>{{cite web|title=Venue guide|url=http://www.uefa.com/futsaleuro/season=2014/finals/venueguide/index.html|work=UEFA.com|publisher=Union of European Football Associations (UEFA)|accessdate=9 February 2014}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Round
+! Group stage
+! Knockout stage
+|-
+! Venue
+| [[Lotto Arena]]
+| [[Sportpaleis]]
+|-
+! Capacity
+| 5,218
+| 15,089
+|-
+!Image
+|[[File:2013 3-cushion World Championship-Outdoor-01.jpg|170px]]
+|[[File:Sportpaleis 2011.jpg|200px]]
+|}
+
+==Qualification==
+{{main|UEFA Futsal Euro 2014 qualifying}}
+The qualification draw was made in Nyon on 4 December 2012.
+
+===Qualified teams===
+{| class="wikitable sortable"
+! Country !! Qualified as!! Previous appearances in tournament<sup>'''[[#1|1]]''', '''[[#2|2]]'''</sup>
+|-
+|{{futsal|BEL}} || <span style="display:none">00</span>Hosts || 4 ([[1996 UEFA Futsal Championship|1996]], [[1999 UEFA Futsal Championship|1999]], [[2003 UEFA Futsal Championship|2003]], [[2010 UEFA Futsal Championship|2010]])
+|-
+|{{futsal|ITA}} || [[2014 UEFA Futsal Championship qualifying#Group 1|Group 1]] winner || 8 ([[1996 UEFA Futsal Championship|1996]], [[1999 UEFA Futsal Championship|1999]], [[2001 UEFA Futsal Championship|2001]], '''''[[2003 UEFA Futsal Championship|2003]]''''', [[2005 UEFA Futsal Championship|2005]], [[2007 UEFA Futsal Championship|2007]], [[2010 UEFA Futsal Championship|2010]], [[UEFA Futsal Euro 2012|2012]])
+|-
+|{{futsal|AZE}} || [[2014 UEFA Futsal Championship qualifying#Group 2|Group 2]] winner || 2 ([[2010 UEFA Futsal Championship|2010]], [[UEFA Futsal Euro 2012|2012]])
+|-
+|{{futsal|RUS}} || [[2014 UEFA Futsal Championship qualifying#Group 3|Group 3]] winner || 8 ([[1996 UEFA Futsal Championship|1996]], '''[[1999 UEFA Futsal Championship|1999]]''', ''[[2001 UEFA Futsal Championship|2001]]'', [[2003 UEFA Futsal Championship|2003]], [[2005 UEFA Futsal Championship|2005]], [[2007 UEFA Futsal Championship|2007]], [[2010 UEFA Futsal Championship|2010]], [[UEFA Futsal Euro 2012|2012]])
+|-
+|{{futsal|ESP}} || [[2014 UEFA Futsal Championship qualifying#Group 4|Group 4]] winner || 8 ('''''[[1996 UEFA Futsal Championship|1996]]''''', ''[[1999 UEFA Futsal Championship|1999]]'', '''[[2001 UEFA Futsal Championship|2001]]''', [[2003 UEFA Futsal Championship|2003]], '''[[2005 UEFA Futsal Championship|2005]]''', '''[[2007 UEFA Futsal Championship|2007]]''', '''[[2010 UEFA Futsal Championship|2010]]''', '''[[UEFA Futsal Euro 2012|2012]]''')
+|-
+|{{futsal|POR}} || [[2014 UEFA Futsal Championship qualifying#Group 5|Group 5]] winner || 6 ([[1999 UEFA Futsal Championship|1999]], [[2003 UEFA Futsal Championship|2003]], [[2005 UEFA Futsal Championship|2005]], ''[[2007 UEFA Futsal Championship|2007]]'', [[2010 UEFA Futsal Championship|2010]], [[UEFA Futsal Euro 2012|2012]])
+|-
+|{{futsal|CZE}} || [[2014 UEFA Futsal Championship qualifying#Group 6|Group 6]] winner || 6 ([[2001 UEFA Futsal Championship|2001]], [[2003 UEFA Futsal Championship|2003]], ''[[2005 UEFA Futsal Championship|2005]]'', [[2007 UEFA Futsal Championship|2007]], [[2010 UEFA Futsal Championship|2010]], [[UEFA Futsal Euro 2012|2012]])
+|-
+|{{futsal|SVN}} || [[2014 UEFA Futsal Championship qualifying#Group 7|Group 7]] winner || 3 ([[2003 UEFA Futsal Championship|2003]], [[2010 UEFA Futsal Championship|2010]], [[UEFA Futsal Euro 2012|2012]])
+|-
+|{{futsal|UKR}}|| [[2014 UEFA Futsal Championship qualifying#Play-off round|Play-off]] winner || 7 ([[1996 UEFA Futsal Championship|1996]], [[2001 UEFA Futsal Championship|2001]], [[2003 UEFA Futsal Championship|2003]], [[2005 UEFA Futsal Championship|2005]], [[2007 UEFA Futsal Championship|2007]], [[2010 UEFA Futsal Championship|2010]], [[UEFA Futsal Euro 2012|2012]])
+|-
+|{{futsal|ROU}}|| [[2014 UEFA Futsal Championship qualifying#Play-off round|Play-off]] winner || 2 ([[2007 UEFA Futsal Championship|2007]], [[UEFA Futsal Euro 2012|2012]])
+|-
+|{{futsal|NED}} || [[2014 UEFA Futsal Championship qualifying#Play-off round|Play-off]] winner || 4 ([[1996 UEFA Futsal Championship|1996]], [[1999 UEFA Futsal Championship|1999]], [[2001 UEFA Futsal Championship|2001]], [[2005 UEFA Futsal Championship|2005]])
+|-
+|{{futsal|CRO}} || [[2014 UEFA Futsal Championship qualifying#Play-off round|Play-off]] winner || 3 ([[1999 UEFA Futsal Championship|1999]], [[2001 UEFA Futsal Championship|2001]], ''[[UEFA Futsal Euro 2012|2012]]'')
+|}
+<div id="1"><sup>1</sup> '''Bold''' indicates champion for that year</div>
+<div id="2"><sup>2</sup> ''Italic'' indicates host for that year</div>
+
+===Draw===
+The final tournament draw was held in Antwerp's Centrum Elzenveld, on 4 October 2013.<ref>[http://www.uefa.com/futsaleuro/news/newsid=2000015.html Seedings confirmed for Futsal EURO draw]</ref><ref>[http://www.uefa.org/mediaservices/mediainformation/newsid=2000703.html UEFA Futsal EURO 2014 draw to take place in Antwerp]</ref>
+
+{| class="wikitable"
+|-
+!width=33%|Pot 1
+!width=33%|Pot 2
+!width=33%|Pot 3
+|-
+|
+*{{futsal|BEL}}<small>&nbsp;(hosts; assigned to A1)</small>
+*{{futsal|ESP}}<small>&nbsp;(holders)</small>
+*{{futsal|ITA}}
+*{{futsal|RUS}}
+|
+*{{futsal|POR}}
+*{{futsal|UKR}}
+*{{futsal|CZE}}
+*{{futsal|AZE}}
+|
+*{{futsal|CRO}}
+*{{futsal|ROU}}
+*{{futsal|SVN}}
+*{{futsal|NED}}
+|}
+
+==Match officials==
+UEFA named sixteen match officials to referee matches at the 2014 UEFA Futsal Euro final tournament.<ref>{{cite web|title=Match officials|url=http://www.uefa.com/futsaleuro/season=2014/finals/matchofficials/index.html|work=UEFA.com|publisher=Union of European Football Associations (UEFA)|accessdate=8 February 2014}}</ref>
+
+{| class="wikitable sortable"
+|-
+!Nationality
+!Name
+!Date of birth
+|-
+|{{AUT}} || {{sortname|Gerald|Bauernfeind|nolink=1}} || {{dts|1 April 1981}}
+|-
+|{{BEL}} || {{sortname|Pascal|Lemal|nolink=1}} || {{dts|21 November 1972}}
+|-
+|{{CRO}} || {{sortname|Saša|Tomić|nolink=1}} || {{dts|23 August 1975}}
+|-
+|{{CZE}} || {{sortname|Ondřej|Černý|nolink=1}} || {{dts|11 April 1979}}
+|-
+|{{ENG}} || {{sortname|Marc|Birkett|nolink=1}} || {{dts|3 February 1978}}
+|-
+|{{FIN}} || {{sortname|Timo|Onatsu|nolink=1}} || {{dts|17 March 1973}}
+|-
+|{{HUN}} || {{sortname|Balázs|Farkas|nolink=1}} || {{dts|25 March 1975}}
+|-
+|{{ITA}} || {{sortname|Alessandro|Malfer|nolink=1}} || {{dts|23 January 1975}}
+|-
+|{{POL}} || {{sortname|Sebastian|Stawicki|nolink=1}} || {{dts|23 January 1975}}
+|-
+|{{POR}} || {{sortname|Eduardo José Fernandes|Coelho|nolink=1}} || {{dts|10 October 1979}}
+|-
+|{{ROU}} || {{sortname|Bogdan|Sorescu|nolink=1}} || {{dts|21 August 1974}}
+|-
+|{{RUS}} || {{sortname|Ivan|Shabanov|nolink=1}} || {{dts|15 August 1978}}
+|-
+|{{SVN}} || {{sortname|Borut|Šivic|nolink=1}} || {{dts|20 April 1971}}
+|-
+|{{ESP}} || {{sortname|Fernando Gutiérrez|Lumbreras|nolink=1}} || {{dts|26 January 1971}}
+|-
+|{{TUR}} || {{sortname|Kamil|Çetin|nolink=1}} || {{dts|11 October 1984}}
+|-
+|{{UKR}} || {{sortname|Oleg|Ivanov|nolink=1}} || {{dts|12 October 1972}}
+|}
+
+==Squads==
+{{main|UEFA Futsal Euro 2014 squads}}
+[[File:UEFA Futsal Euro 2014.svg|500px|thumbnail|Map of the UEFA Futsal Euro 2014 finalist teams and their performances.]]
+
+==Group stage==
+In the group stage, a total of twelve matches (three matches per group) were played between 28 January and 2 February at a rate of two matches each day. The teams finishing in the top two positions in each of the four groups progressed to the knockout stage, while the third-placed team was eliminated from the tournament.
+
+;Tie-breaking
+If two or more teams were equal on points on completion of the group matches, the following tie-breaking criteria were applied:<ref name="regulations">{{cite web |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/87/81/76/1878176_DOWNLOAD.pdf |title=Regulations of the UEFA European Futsal Championship 2013/14 |work=UEFA.com |publisher=Union of European Football Associations ([[UEFA]]) |format=PDF |accessdate=30 January 2014}}</ref>
+# Higher number of points obtained in the matches played between the teams in question;
+# Superior goal difference resulting from the matches played between the teams in question;
+# Higher number of goals scored in the matches played between the teams in question.
+If, after having applied criteria 1–3, teams still have an equal ranking, criteria 1–3 are reapplied to determine their final ranking. If this does not lead to a decision, the following criteria apply:
+# Superior goal difference in all group matches;
+# Higher number of goals scored in all group matches;
+# Fair play ranking of the teams in question;
+# Drawing of lots.
+
+{| class="wikitable"
+!Key to colours in group tables
+|-
+|bgcolor="#ccffcc"| Team advanced to the knockout stage
+|}
+
+''All times local ([[Central European Time|CET]] or [[UTC+01:00]]).''
+
+===Group A===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group A
+|res_col_header=Q
+|show_positions=n
+
+|team1=UKR|name_UKR={{futsal|UKR}}
+|team2=ROU|name_ROU={{futsal|ROU}}
+|team3=BEL|name_BEL={{futsal|BEL}}
+|win_UKR=1|draw_UKR=1|loss_UKR=0|gf_UKR=1|ga_UKR=0
+|win_ROU=1|draw_ROU=0|loss_ROU=1|gf_ROU=6|ga_ROU=2
+|win_BEL=0|draw_BEL=1|loss_BEL=1|gf_BEL=1|ga_BEL=6
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+|update=complete|source=
+}}</onlyinclude>
+
+{{football box
+|date=28 January 2014
+|time=21:00
+|team1={{futsal-rt|BEL}}
+|score=1–6
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013040/index.html Report]
+|team2={{futsal|ROU}}
+|goals1=[[Omar Rahou|Rahou]] {{goal|23}}
+|goals2=[[Emil Răducu|Răducu]] {{goal|3}}<br />[[Florin Matei|Matei]] {{goal|14}}<br />[[Robert Lupu|Lupu]] {{goal|22}}<br />[[Marian Șotărcă|Șotărcă]] {{goal|32}}<br />[[Vlad Iancu|Iancu]] {{goal|35}}<br />[[Saad Salhi|Salhi]] {{goal|39|o.g.}}
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 3,760
+|referee=Alessandro Malfer ([[Italian Football Federation|Italy]])
+}}
+----
+{{football box
+|date=30 January 2014
+|time=18:30
+|team1={{futsal-rt|ROU}}
+|score=0–1
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013044/index.html Report]
+|team2={{futsal|UKR}}
+|goals1= 
+|goals2=[[Dmytro Sorokin|Sorokin]] {{goal|17}}
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 2,544
+|referee=Ondřej Černý ([[Football Association of the Czech Republic|Czech Republic]])
+}}
+----
+{{football box
+|date=1 February 2014
+|time=20:45
+|team1={{futsal-rt|UKR}}
+|score=0–0
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013048/index.html Report]
+|team2={{futsal|BEL}}
+|goals1= 
+|goals2= 
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 3,724
+|referee=Saša Tomić ([[Croatian Football Federation|Croatia]])
+}}
+
+===Group B===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group B
+|res_col_header=Q
+|show_positions=n
+
+|team1=RUS|name_RUS={{futsal|RUS}}
+|team2=POR|name_POR={{futsal|POR}}
+|team3=NED|name_NED={{futsal|NED}}
+|win_RUS=1|draw_RUS=1|loss_RUS=0|gf_RUS=11|ga_RUS=5
+|win_POR=1|draw_POR=1|loss_POR=0|gf_POR=9|ga_POR=4
+|win_NED=0|draw_NED=0|loss_NED=2|gf_NED=1|ga_NED=12
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+|update=complete|source=
+}}</onlyinclude>
+
+{{football box
+|date=28 January 2014
+|time=18:30
+|team1={{futsal-rt|RUS}}
+|score=7–1
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013041/index.html Report]
+|team2={{futsal|NED}}
+|goals1=[[Cirilo (futsal player)|Cirilo]] {{goal|4||12}}<br />[[Dmitri Lyskov|Lyskov]] {{goal|10}}<br />[[Eder Lima]] {{goal|15||35}}<br />[[Sergei Sergeev (futsal player)|Sergeev]] {{goal|21}}<br />[[Robinho (futsal player)|Robinho]] {{goal|23}}
+|goals2=[[Mohamed Attaibi|Attaibi]] {{goal|28}}
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 3,248
+|referee=Fernando Gutiérrez Lumbreras ([[Royal Spanish Football Federation|Spain]]) 
+}}
+----
+{{football box
+|date=30 January 2014
+|time=20:45
+|team1={{futsal-rt|NED}}
+|score=0–5
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013045/index.html Report]
+|team2={{futsal|POR}}
+|goals1= 
+|goals2= [[João Matos]] {{goal|6}}<br />[[Joel Queirós|Joel]] {{goal|13}}<br />[[Fernando Alberto dos Santos Cardinal|Cardinal]] {{goal|36}}<br />[[Bruno Coelho]] {{goal|38||39}}
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 3,629
+|referee=Saša Tomić ([[Croatian Football Federation|Croatia]])
+}}
+----
+{{football box
+|date=1 February 2014
+|time=18:30
+|team1={{futsal-rt|POR}}
+|score=4–4
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013049/index.html Report]
+|team2={{futsal|RUS}}
+|goals1=[[Ricardo Filipe da Silva Braga|Ricardinho]] {{goal|23}}<br />[[Gonçalo Alves (futsal player)|Gonçalo]] {{goal|29||34}}<br />[[Aleksandr Fukin|Fukin]] {{goal|32|o.g.}}
+|goals2=[[Sergei Abramov (futsal player)|Abramov]] {{goal|23}}<br />[[Nikolai Pereverzev|Pereverzev]] {{goal|25}}<br />[[Eder Lima]] {{goal|30||35}}
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 3,515
+|referee=Timo Onatsu ([[Football Association of Finland|Finland]])
+}}
+
+===Group C===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group C
+|res_col_header=Q
+|show_positions=n
+
+|team1=ITA|name_ITA={{futsal|ITA}}
+|team2=SVN|name_SVN={{futsal|SVN}}
+|team3=AZE|name_AZE={{futsal|AZE}}
+|win_ITA=1|draw_ITA=0|loss_ITA=1|gf_ITA=9|ga_ITA=3
+|win_SVN=1|draw_SVN=0|loss_SVN=1|gf_SVN=9|ga_SVN=9
+|win_AZE=1|draw_AZE=0|loss_AZE=1|gf_AZE=7|ga_AZE=13
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+|update=complete|source=
+}}</onlyinclude>
+
+{{football box
+|date=29 January 2014
+|time=20:45
+|team1={{futsal-rt|ITA}}
+|score=2–3
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013042/index.html Report]
+|team2={{futsal|SVN}}
+|goals1=[[Rodolfo Fortino|Fortino]] {{goal|24}}<br />[[Saad Assis|Saad]] {{goal|40}}
+|goals2=[[Gašper Vrhovec|Vrhovec]] {{goal|11}}<br />[[Kristjan Čujec|Čujec]] {{goal|26}}<br />[[Igor Osredkar|Osredkar]] {{goal|39}}
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 3,649
+|referee=Oleg Ivanov ([[Football Federation of Ukraine|Ukraine]])
+}}
+----
+{{football box
+|date=31 January 2014
+|time=20:45
+|team1={{futsal-rt|SVN}}
+|score=6–7
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013046/index.html Report]
+|team2={{futsal|AZE}}
+|goals1=[[Gašper Vrhovec|Vrhovec]] {{goal|1||20||29}}<br />[[Kristjan Čujec|Čujec]] {{goal|17}}<br />[[Uroš Kroflič|Kroflič]] {{goal|26}}<br />[[Alen Fetić|Fetić]] {{goal|37}}
+|goals2=[[Amadeu]] {{goal|1}}<br />[[Rafael (futsal player)|Rafael]] {{goal|24||39}}<br />[[Vitaliy Borisov|Borisov]] {{goal|29}}<br />[[Augusto (futsal player)|Augusto]] {{goal|31}}<br />[[Felipe Ribeiro dos Santos|Felipe]] {{goal|36}}<br />[[Edu (futsal player)|Edu]] {{goal|40}}
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 2,321
+|referee=Eduardo Fernandes Coelho ([[Portuguese Football Federation|Portugal]])
+}}
+----
+{{football box
+|date=2 February 2014
+|time=18:30
+|team1={{futsal-rt|AZE}}
+|score=0–7
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013050/index.html Report]
+|team2={{futsal|ITA}}
+|goals1=
+|goals2=[[Sergio Romano (futsal player)|Romano]] {{goal|2}}<br />[[Rodolfo Fortino|Fortino]] {{goal|4}}<br />[[Humberto Honorio|Honorio]] {{goal|16}}<br />[[Vampeta (futsal player)|Vampeta]] {{goal|25}}<br />[[Gabriel Lima (futsal player)|Gabriel Lima]] {{goal|27}}<br />[[Stefano Mammarella|Mammarella]] {{goal|32}}<br />[[Michele Miarelli|Miarelli]] {{goal|40}}
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 3,298
+|referee=Marc Birkett ([[The Football Association|England]])
+}}
+
+===Group D===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group D
+|res_col_header=Q
+|show_positions=n
+
+|team1=ESP|name_ESP={{futsal|ESP}}
+|team2=CRO|name_CRO={{futsal|CRO}}
+|team3=CZE|name_CZE={{futsal|CZE}}
+|win_ESP=1|draw_ESP=1|loss_ESP=0|gf_ESP=11|ga_ESP=4
+|win_CRO=0|draw_CRO=2|loss_CRO=0|gf_CRO=6|ga_CRO=6
+|win_CZE=0|draw_CZE=1|loss_CZE=1|gf_CZE=4|ga_CZE=11
+
+|col_A=#ccffcc|text_A=
+|result1=A|result2=A
+|update=complete|source=
+}}</onlyinclude>
+
+{{football box
+|date=29 January 2014
+|time=18:30
+|team1={{futsal-rt|ESP}}
+|score=3–3
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013043/index.html Report]
+|team2={{futsal|CRO}}
+|goals1=[[Aicardo]] {{goal|16}}<br />[[Ángel Velasco Marugán|Lin]] {{goal|27||28}}
+|goals2=[[Saša Babić|Babić]] {{goal|10}}<br />[[Franko Jelovčić|Jelovčić]] {{goal|18}}<br />[[Matija Capar|Capar]] {{goal|38}}
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 3,528
+|referee=Pascal Lemal ([[Royal Belgian Football Association|Belgium]])
+}}
+----
+{{football box
+|date=31 January 2014
+|time=18:30
+|team1={{futsal-rt|CRO}}
+|score=3–3
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013047/index.html Report]
+|team2={{futsal|CZE}}
+|goals1=[[Franko Jelovčić|Jelovčić]] {{goal|14}}<br />[[Dario Marinović|Marinović]] {{goal|16}}<br />[[Matija Capar|Capar]] {{goal|39}}
+|goals2=[[Jiří Novotný (futsal player)|Novotný]] {{goal|9}}<br />[[Roman Mareš|Mareš]] {{goal|21}}<br />[[Michal Belej|Belej]] {{goal|24}}
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 2,002
+|referee=Ivan Shabanov ([[Russian Football Union|Russia]])
+}}
+----
+{{football box
+|date=2 February 2014
+|time=20:45
+|team1={{futsal-rt|CZE}}
+|score=1–8
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000398/match=2013051/index.html Report]
+|team2={{futsal|ESP}}
+|goals1=[[Michal Belej|Belej]] {{goal|26}}
+|goals2=[[Fernando Maciel Gonçalves|Fernandão]] {{goal|7||23}}<br />[[Sergio Lozano Martínez|Sergio Lozano]] {{goal|20|pen.|37}}<br />[[Carlos Ortiz Jiménez|Ortiz]] {{goal|25}}<br />[[José Ruiz (futsal player)|José Ruiz]] {{goal|33}}<br />[[Raúl Campos]] {{goal|35}}<br />[[Adrián Alonso Pereira|Pola]] {{goal|38}}
+|stadium=[[Lotto Arena]], [[Antwerp]]
+|attendance= 3,433
+|referee=Bogdan Sorescu ([[Romanian Football Federation|Romania]])
+}}
+
+==Knockout stage==
+The knockout stage matches, which includes quarter-finals, semi-finals, third place play-off and the final, will be played at the [[Sportpaleis]] arena. If a match is drawn after 40 minutes of regular play, an [[overtime (sports)#Association football|extra-time]] consisting of two five-minute periods is played. If teams are still leveled after extra-time, a [[Penalty shoot-out (association football)|penalty shoot-out]] is used to determine the winner. In the third place match, the extra-time is skipped and the decision goes directly to kicks from the penalty mark.<ref name="regulations" />
+
+===Bracket===
+{{Round8|3rdplace=yes
+<!--Date-Place/Team 1/Score 1/Team 2/Score 2 -->
+<!-- quarter finals -->
+|3 February|{{futsal|UKR}}|1|'''{{futsal|POR}}'''|'''2'''
+|4 February|'''{{futsal|ITA}}'''|'''2'''|{{futsal|CRO}}|1
+|3 February|{{futsal|ROU}}|0|'''{{futsal|RUS}}'''|'''6'''
+|4 February|{{futsal|SVN}}|0|'''{{futsal|ESP}}'''|'''4'''
+<!--semi-finals -->
+|6 February|{{futsal|POR}}|3|'''{{futsal|ITA}}'''|'''4'''
+|6 February|'''{{futsal|RUS}}''' {{aet}}|'''4'''|{{futsal|ESP}}|3
+<!--final -->
+|8 February|'''{{futsal|ITA}}'''|'''3'''|{{futsal|RUS}}|1
+<!--third place -->
+|8 February|{{futsal|POR}}|4|'''{{futsal|ESP}}'''|'''8'''
+|widescore=yes}}
+
+===Quarterfinals===
+{{football box
+|date=3 February 2014
+|time=18:00
+|team1={{futsal-rt|UKR}}
+|score=1–2
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000399/match=2013134/index.html Report]
+|team2={{futsal|POR}}
+|goals1=[[Yevgen Valenko|Valenko]] {{goal|13}}
+|goals2=[[Fernando Alberto dos Santos Cardinal|Cardinal]] {{goal|3||23}}
+|stadium=[[Sportpaleis]], [[Antwerp]]
+|attendance= 3,702
+|referee=Balázs Farkas ([[Hungarian Football Federation|Hungary]])
+}}
+----
+{{football box
+|date=3 February 2014
+|time=20:30
+|team1={{futsal-rt|ROU}}
+|score=0–6
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000399/match=2013135/index.html Report]
+|team2={{futsal|RUS}}
+|goals1=
+|goals2=[[Robinho (futsal player)|Robinho]] {{goal|3}}<br />[[Vladislav Shayakhmetov|Shayakhmetov]] {{goal|8}}<br />[[Eder Lima]] {{goal|9||16||37}}<br />[[Sergei Sergeev (futsal player)|Sergeev]] {{goal|34}}
+|stadium=[[Sportpaleis]], [[Antwerp]]
+|attendance= 4,124
+|referee=Borut Šivic ([[Football Association of Slovenia|Slovenia]])
+}}
+----
+{{football box
+|date=4 February 2014
+|time=18:00
+|team1={{futsal-rt|ITA}}
+|score=2–1
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000399/match=2013136/index.html Report]
+|team2={{futsal|CRO}}
+|goals1=[[Sergio Romano (futsal player)|Romano]] {{goal|1}}<br />[[Rodolfo Fortino|Fortino]] {{goal|10}}
+|goals2=[[Franko Jelovčić|Jelovčić]] {{goal|7}}
+|stadium=[[Sportpaleis]], [[Antwerp]]
+|attendance= 3,225
+|referee=Fernando Gutiérrez Lumbreras ([[Real Federación Española de Fútbol|Spain]])
+}}
+----
+{{football box
+|date=4 February 2014
+|time=20:30
+|team1={{futsal-rt|SVN}}
+|score=0–4
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000399/match=2013137/index.html Report]
+|team2={{futsal|ESP}}
+|goals1=
+|goals2=[[Fernando Maciel Gonçalves|Fernandão]] {{goal|11}}<br />[[Rafael Usín Guisado|Rafa Usín]] {{goal|17}}<br />[[Aicardo]] {{goal|36||39}}
+|stadium=[[Sportpaleis]], [[Antwerp]]
+|attendance= 3,893
+|referee=Alessandro Malfer ([[Italian Football Federation|Italy]])
+}}
+
+===Semifinals===
+{{football box
+|date=6 February 2014
+|time=18:00
+|team1={{futsal-rt|POR}}
+|score=3–4
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000400/match=2013138/index.html Report]
+|team2={{futsal|ITA}}
+|goals1=[[Ricardo Filipe da Silva Braga|Ricardinho]] {{goal|13}}<br />[[Arnaldo Pereira (futsal player)|Arnaldo]] {{goal|19}}<br />[[Joel Queirós|Joel]] {{goal|35}}
+|goals2=[[Gabriel Lima (futsal player)|Gabriel Lima]] {{goal|1||31}}<br />[[Sergio Romano (futsal player)|Romano]] {{goal|23}}<br />[[Rodolfo Fortino|Fortino]] {{goal|35}}
+|stadium=[[Sportpaleis]], [[Antwerp]]
+|attendance= 6,833
+|referee=Ondřej Černý ([[Football Association of the Czech Republic|Czech Republic]])
+}}
+----
+{{football box
+|date=6 February 2014
+|time=20:30
+|team1={{futsal-rt|RUS}}
+|score=4–3
+|aet=yes
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000400/match=2013139/index.html Report]
+|team2={{futsal|ESP}}
+|goals1=[[Sergei Sergeev (futsal player)|Sergeev]] {{goal|22}}<br />[[Dmitri Lyskov|Lyskov]] {{goal|26}}<br />[[Aleksandr Fukin|Fukin]] {{goal|26}}<br />[[Robinho (futsal player)|Robinho]] {{goal|49}}
+|goals2=[[Adrián Alonso Pereira|Pola]] {{goal|16}}<br />[[Rafael Usín Guisado|Rafa Usín]] {{goal|26}}<br />[[Miguel Sayago|Miguelín]] {{goal|38}}
+|stadium=[[Sportpaleis]], [[Antwerp]]
+|attendance= 8,152
+|referee=Saša Tomić ([[Croatian Football Federation|Croatia]])
+}}
+
+===Third place match===
+{{football box
+|date=8 February 2014
+|time=18:00
+|team1={{futsal-rt|POR}}
+|score=4–8
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000401/match=2013808/index.html Report]
+|team2={{futsal|ESP}}
+|goals1=[[Ricardo Filipe da Silva Braga|Ricardinho]] {{goal|8}}<br />[[Pedro Cary]] {{goal|12}}<br />[[Pedro Alexandre da Silva da Costa|Pedro Costa]] {{goal|26}}<br />[[Joel Queirós|Joel]] {{goal|36}}
+|goals2=[[Fernando Maciel Gonçalves|Fernandão]] {{goal|6||38}}<br />[[José Ruiz (futsal player)|José Ruíz]] {{goal|7}}<br />[[Sergio Lozano Martínez|Sergio Lozano]] {{goal|7}}<br />[[Miguel Sayago|Miguelín]] {{goal|17}}<br />[[Rafael Usín Guisado|Rafa Usín]] {{goal|18}}<br />[[Raúl Campos]] {{goal|20}}<br />[[Adrián Alonso Pereira|Pola]] {{goal|40}}
+|stadium=[[Sportpaleis]], [[Antwerp]]
+|attendance= 10,619
+|referee=Alessandro Malfer ([[Italian Football Federation|Italy]])
+}}
+
+===Final===
+{{football box
+|date=8 February 2014
+|time=20:30
+|team1={{futsal-rt|ITA}}
+|score=3–1
+|report=[http://www.uefa.com/futsaleuro/season=2014/matches/round=2000402/match=2013809/index.html Report]
+|team2={{futsal|RUS}}
+|goals1=[[Gabriel Lima (futsal player)|Gabriel Lima]] {{goal|7}}<br />[[Murilo Ferreira Juliao|Murilo]] {{goal|14}}<br />[[Daniel Giasson|Giasson]] {{goal|19}}
+|goals2=[[Eder Lima]] {{goal|10}}
+|stadium=[[Sportpaleis]], [[Antwerp]]
+|attendance= 11,552
+|referee=Fernando Gutiérrez Lumbreras ([[Royal Spanish Football Federation|Spain]]) 
+}}
+
+==Final ranking==
+{{col-begin}}
+{{col-3}}
+{| class="wikitable"
+!Rank
+!Team
+|-
+|align=center|[[File:gold medal icon.svg]]||{{futsal|ITA}}
+|- 
+|align=center|[[File:silver medal icon.svg]]||{{futsal|RUS}}
+|- 
+|align=center|[[File:bronze medal icon.svg]]||{{futsal|ESP}}
+|-
+|align=center|4||{{futsal|POR}}
+|-
+|align=center|5||{{futsal|UKR}}
+|-
+|align=center|6||{{futsal|ROU}}
+|-
+|align=center|7||{{futsal|SVN}}
+|-
+|align=center|8||{{futsal|CRO}}
+|-
+|align=center|9||{{futsal|AZE}}
+|-
+|align=center|10||{{futsal|BEL}}
+|-
+|align=center|11||{{futsal|CZE}}
+|-
+|align=center|12||{{futsal|NED}}
+|-
+|}
+{{col-3}}
+{{winners|futsal|2014 UEFA Futsal Championship Winners|ITA|2nd}}
+{{col-3}}
+{{col-end}}
+
+==Goalscorers==
+Only goals scored in the final tournament are considered.<ref>{{cite web|title=Player statistics|url=http://www.uefa.com/futsaleuro/season=2014/statistics/round=2000398/players/index.html|work=UEFA.com|publisher=Union of European Football Associations ([[UEFA]])|accessdate=2 February 2014}}</ref>
+
+;8 goals:
+* {{flagicon|RUS}} [[Eder Lima]]
+
+;5 goals
+* {{flagicon|ESP}} [[Fernando Maciel Gonçalves|Fernandão]]
+
+;4 goals:
+{{colbegin|colwidth=22em}}
+* {{flagicon|ITA}} [[Rodolfo Fortino]]
+* {{flagicon|ITA}} [[Gabriel Lima (futsal player)|Gabriel Lima]]
+* {{flagicon|SVN}} [[Gašper Vrhovec]]
+{{colend}}
+
+;3 goals:
+{{colbegin|colwidth=22em}}
+* {{flagicon|CRO}} [[Franko Jelovčić]]
+* {{flagicon|ITA}} [[Sergio Romano (futsal player)|Sergio Romano]]
+* {{flagicon|POR}} [[Fernando Alberto dos Santos Cardinal|Cardinal]]
+* {{flagicon|POR}} [[Joel Queirós]]
+* {{flagicon|POR}} [[Ricardo Filipe da Silva Braga|Ricardinho]]
+* {{flagicon|RUS}} [[Robinho (futsal player)|Robinho]]
+* {{flagicon|RUS}} [[Sergei Sergeev (futsal player)|Sergei Sergeev]]
+* {{flagicon|ESP}} [[Aicardo]]
+* {{flagicon|ESP}} [[Sergio Lozano Martínez|Sergio Lozano]]
+* {{flagicon|ESP}} [[Adrián Alonso Pereira|Pola]]
+* {{flagicon|ESP}} [[Rafael Usín Guisado|Rafa Usín]]
+{{colend}}
+
+;2 goals:
+{{colbegin|colwidth=22em}}
+* {{flagicon|AZE}} [[Rafael (futsal player)|Rafael]]
+* {{flagicon|CRO}} [[Matija Capar]]
+* {{flagicon|CZE}} [[Michal Belej]]
+* {{flagicon|POR}} [[Gonçalo Alves]]
+* {{flagicon|POR}} [[Bruno Coelho]]
+* {{flagicon|RUS}} [[Cirilo]]
+* {{flagicon|RUS}} [[Dmitri Lyskov]]
+* {{flagicon|SVN}} [[Kristjan Čujec]]
+* {{flagicon|ESP}} [[Raúl Campos]]
+* {{flagicon|ESP}} [[Ángel Velasco Marugán|Lin]]
+* {{flagicon|ESP}} [[Miguel Sayago|Miguelín]]
+* {{flagicon|ESP}} [[José Ruiz (futsal player)|José Ruiz]]
+{{colend}}
+
+;1 goal:
+{{colbegin|colwidth=22em}}
+* {{flagicon|AZE}} [[Amadeu]]
+* {{flagicon|AZE}} [[Augusto (futsal player)|Augusto]]
+* {{flagicon|AZE}} [[Vitaliy Borisov]]
+* {{flagicon|AZE}} [[Edu (futsal player)|Edu]]
+* {{flagicon|AZE}} [[Felipe Ribeiro dos Santos|Felipe]]
+* {{flagicon|BEL}} [[Omar Rahou]]
+* {{flagicon|CRO}} [[Saša Babić]]
+* {{flagicon|CRO}} [[Dario Marinović]]
+* {{flagicon|CZE}} [[Roman Mareš]]
+* {{flagicon|CZE}} [[Jiří Novotný (futsal player)|Jiří Novotný]]
+* {{flagicon|ITA}} [[Saad Assis]]
+* {{flagicon|ITA}} [[Daniel Giasson]]
+* {{flagicon|ITA}} [[Humberto Honorio]]
+* {{flagicon|ITA}} [[Stefano Mammarella]]
+* {{flagicon|ITA}} [[Michele Miarelli]]
+* {{flagicon|ITA}} [[Murilo Ferreira Juliao|Murilo]]
+* {{flagicon|ITA}} [[Vampeta (futsal player)|Vampeta]]
+* {{flagicon|NED}} [[Mohamed Attaibi]]
+* {{flagicon|POR}} [[Pedro Cary]]
+* {{flagicon|POR}} [[Pedro Alexandre da Silva da Costa|Pedro Costa]]
+* {{flagicon|POR}} [[João Matos]]
+* {{flagicon|POR}} [[Arnaldo Pereira (futsal player)|Arnaldo Pereira]]
+* {{flagicon|ROU}} [[Vlad Iancu]]
+* {{flagicon|ROU}} [[Robert Lupu]]
+* {{flagicon|ROU}} [[Florin Matei]]
+* {{flagicon|ROU}} [[Emil Răducu]]
+* {{flagicon|RUS}} [[Aleksandr Fukin]]
+* {{flagicon|RUS}} [[Nikolai Pereverzev]]
+* {{flagicon|RUS}} [[Vladislav Shayakhmetov]]
+* {{flagicon|SVN}} [[Alen Fetić]]
+* {{flagicon|SVN}} [[Uroš Kroflič]]
+* {{flagicon|SVN}} [[Igor Osredkar]]
+* {{flagicon|ESP}} [[Carlos Ortiz Jiménez|Ortiz]]
+* {{flagicon|UKR}} [[Dmytro Sorokin]]
+* {{flagicon|UKR}} [[Yevgen Valenko]]
+* {{flagicon|ROU}} [[Marian Șotărcă]]
+* {{flagicon|RUS}} [[Sergei Abramov (futsal player)|Sergei Abramov]]
+{{colend}}
+
+;Own goals:
+* {{flagicon|BEL}} [[Saad Salhi]] (against Romania)
+* {{flagicon|RUS}} [[Aleksandr Fukin]] (against Portugal)
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.uefa.com/futsaleuro/index.html Official UEFA website]
+
+{{2014 UEFA Futsal Championship}}
+{{UEFA Futsal Championship}}
+
+{{DEFAULTSORT:Uefa Futsal Championship 2014}}
+[[Category:UEFA Futsal Euro 2014| ]]
+[[Category:UEFA Futsal Championship tournaments|2014]]
+[[Category:International futsal competitions hosted by Belgium|2014]]
+[[Category:2013–14 in European futsal|UEFA]]
+[[Category:2013–14 in Belgian football|UEFA Futsal Euro]]
+[[Category:Sports competitions in Antwerp]]
+[[Category:2010s in Antwerp]]
+[[Category:January 2014 sports events in Europe]]
+[[Category:February 2014 sports events in Europe]]

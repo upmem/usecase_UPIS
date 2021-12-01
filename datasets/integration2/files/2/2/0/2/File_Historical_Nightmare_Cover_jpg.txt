@@ -1,0 +1,14 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Album cover for [[Historical ~The Highest Nightmare~]]
+|Source = http://www.cdjapan.co.jp/detailview.html?KEY=VPCC-84168
+|Author = Nightmare/Avex
+|Article = Historical ~The Highest Nightmare~
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = Used in one article only as primary means of ID. Small image taken from shopping website.
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free album cover|image has rationale=yes}}

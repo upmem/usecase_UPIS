@@ -1,0 +1,41 @@
+{{short description|American fitness instructor}}
+{{Infobox person
+| name          = Mari Winsor
+| birth_date    = {{Birth date|1950|03|11}}
+| birth_place   = [[Marshall, Michigan]]
+| death_date    = {{Death date and age|2020|04|28|1950|03|11}}
+| death_place   = [[Sherman Oaks, Los Angeles]]
+| nationality   = American
+| education     = [[Michigan State University]]
+| occupation    = Pilates instructor
+| spouse        = Elliot Nachbar
+| years_active  = 1990-2016
+| known_for     = Winsor Pilates founder
+| notable_works = 
+}}
+
+'''Mari Winsor''' (March 11, 1950 – April 28, 2020) was an American fitness instructor known for her workout videos, books, and studios popularizing [[Pilates]].
+
+She first worked as a professional dancer, apprenticing at the [[Alvin Ailey American Dance Theater]] in [[New York, New York|New York City]], and then worked as a dancer in music videos in the 1980s.<ref name="thr">{{cite news |last1=Gardner |first1=Chris |title=Mari Winsor, Pilates Instructor to the Stars, Dies at 70 |url=https://www.hollywoodreporter.com/news/mari-winsor-dead-pilates-instructor-stars-was-70-1292758 |accessdate=1 May 2020 |work=Hollywood Reporter |date=April 30, 2020}}</ref> She received her Pilates instructor certification from [[Romana Kryzanowska]] and founded her own studio in 1990.<ref name="thr"></ref> She credits Pilates with helping her recover from multiple injuries sustained in a 1994 motorcycle accident.<ref name="ap">{{cite news |last1=Nguyen |first1=Daisy |title=Pilates promoter is a walking advertisement |work=Ocala Star-Banner |agency=Associated Press |date=October 26, 2004|quote=[Mari Winsor is] often seen in a ubiquitous infomercial peddling Pilates videos}}</ref>
+
+Her self-branded version of Pilates, Winsor Pilates, is notable for its celebrity practitioners and ubiquitous late-night infomercials.<ref name = "ap"></ref><ref>{{cite news |last1=Lacher |first1=Irene |title=Call Her the Oracle of Pilates |url=https://www.latimes.com/archives/la-xpm-1999-oct-04-cl-18450-story.html |accessdate=1 May 2020 |work=Los Angeles Times |date=October 4, 1999}}</ref> Winsor is the author of ''The Pilates Powerhouse'' (1999), ''The Pilates Workout Journal: An Exercise Diary and Conditioning Guide'' (2001), and ''The Pilates Pregnancy: Maintaining Strength, Flexibility and Your Figure'' (2009).
+
+In April 2020, she died from [[Amyotrophic lateral sclerosis|ALS]], which she had been diagnosed with in 2013.<ref>{{cite news |last1=Olya |first1=Gabrielle |title=Miley Cyrus's Pilates Instructor Mari Winsor's Brave ALS Battle: 'It's Been Humbling' |url=https://people.com/bodies/miley-cyruss-pilates-instructor-mari-winsors-brave-als-battle-its-been-humbling/ |accessdate=1 May 2020 |work=People Magazine |publisher=Meredith Corporation |date=March 7, 2016}}</ref><ref>{{cite news |title=Mari Winsor, Pilates Guru and Celebrity Trainer, Dies at 70 |url=https://www.nytimes.com/aponline/2020/04/30/us/ap-us-obit-mari-winsor.html |date=April 30, 2020 |accessdate=1 May 2020 |work=The New York Times |agency=Associated Press}}</ref>
+
+'''Filmography'''
+
+Accelerated Fat Burning in 2013
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Winsor, Mari}}
+[[Category:1950 births]]
+[[Category:2020 deaths]]
+[[Category:Pilates]]
+[[Category:American exercise and fitness writers]]
+[[Category:American exercise instructors]]
+[[Category:Michigan State University alumni]]
+[[Category:Deaths from motor neuron disease]]
+[[Category:Neurological disease deaths in the United States]]
+[[Category:People from Marshall, Michigan]]

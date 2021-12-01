@@ -1,0 +1,88 @@
+{{Infobox volleyball club
+|clubname        = Halkbank Ankara
+|short name      = Halkbank
+|image           = 
+|fullname        = Türkiye Halk Bankası Spor Kulübü 
+|founded         = July 21, 1983
+|ground          = [[Selim Sırrı Tarcan Sport Hall]], [[Ankara]]
+|capacity        = 2,500
+|chairman        = Selahattin Süleymanoğlu 
+|manager         = 
+|captain         = 
+|league          = [[Turkish Women's Volleyball League]]
+|season          = 
+|position        = 
+|website         = http://www.halkbankspor.org.tr/ 
+<!-- Home -->
+|pattern_la1 = ||leftarm1 = 0000FF 
+|pattern_b1  = ||body1 = 0000FF 
+|pattern_ra1 = ||rightarm1 = 0000FF 
+|pattern_sh1 = ||shorts1 = 0000FF 
+<!-- Away -->
+|pattern_la2 = _redshoulders ||leftarm2 = FFFFFF 
+|pattern_b2  = _redshoulders ||body2 = FFFFFF 
+|pattern_ra2 = _redshoulders ||rightarm2 = FFFFFF 
+|pattern_sh2 = ||shorts2 = FF0000
+<!-- Libero -->
+|pattern_la3 = ||leftarm3 = FF0000 
+|pattern_b3  = ||body3 = FF0000 
+|pattern_ra3 = ||rightarm3 = FF0000
+|pattern_sh3 = ||shorts3 = FF0000
+}}
+
+'''Halkbank Ankara women's volleyball'''  is the women's volleyball department of [[Halkbank Ankara]] team based in [[Ankara]], [[Turkey]] and sponsored by the state-owned [[Halk Bankası|Halkbank]]. It was founded on 21 July 1983 as '''Halkbank Spor Kulübü''' with blue, white and red colors. Halkbank Ankara plays in the [[Turkish Women's Volleyball League]].
+
+==Team roster==
+===Current===
+Team for the 2017–2018 season.{{updated|6 December 2017}}<ref>[http://www.galatasaray.org/pl/bayan-voleybol-takim-kadrosu/21 Team squad]</ref>
+{| class=wikitable style="font-size:95%;"
+!Shirt No
+!Nationality
+!Player
+!Birth Date
+!Position
+|-
+|align=center| 1 || {{CUB}}||[[Wilma Salas]] || {{Birth date and age|1991|5|9|df=y}} || Wing-Spiker
+|-
+|align=center| 2 || {{TUR}}||[[Ceyda Durukan]] || {{Birth date and age|1984|4|8|df=y}} || Middle Blocker
+|-
+|align=center| 5 || {{TUR}}||[[Yalcin Simge]] || {{Birth date and age|1988|12|23|df=y}} || Setter
+|-
+|align=center| 6 || {{TUR}}||[[Cayirgan Derya]] || {{Birth date and age|1987|10|9|df=y}} || Libero 
+|-
+|align=center| 8 || {{TUR}}||[[Acarcesme Eylul]] || {{Birth date and age|1999|10|1|df=y}} || Libero 
+|-
+|align=center| 9 || {{TUR}}||[[Dokuzlar Ezgi]] || {{Birth date and age|1999|11|11|df=y}} || Opposite
+|-
+|align=center| 10 || {{TUR}}||[[Fulden Ural]] || {{Birth date and age|1991|3|1|df=y}} || Wing-Spiker
+|-
+|align=center| 11 || {{TUR}}||[[Aslihan Kilic]] || {{Birth date and age|1998|4|21|df=y}} || Setter
+|-
+|align=center| 12 || {{TUR}}||[[Hande Naz Simsek]] || {{Birth date and age|1995|07|4|df=y}} || Middle Blocker
+|-
+|align=center| 14 || {{CUB}}||[[Rachel Sánchez]] || {{Birth date and age|1989|01|9|df=y}} || Middle Blocker
+|-
+|align=center| 15|| {{TUR}}||[[Neşve Büyükbayram]] || {{Birth date and age|1990|1|1|df=y}} || Middle Blocker
+|-
+|align=center| 16 || {{CUB}}||[[Daimí Ramírez]] ([[Captain (sports)|c]]) || {{Birth date and age|1983|10|8|df=y}} || Wing-Spiker 
+|-
+|align=center| 17 || {{TUR}}||[[Tutku Burcu Yuzgenc]] || {{Birth date and age|1999|01|15|df=y}} || Opposite
+|-
+|align=center| 18|| {{TUR}}||[[Gulece Guder]]  || {{Birth date and age|1992|1|21|df=y}} || Setter
+|-
+|align=center| 19 || {{TUR}}||[[kezban Ezgi Kara]] || {{Birth date and age|2000|12|27|df=y}} || Middle-Blocker
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.tvf.org.tr/ Turkish Volleyball Federation] {{in lang|tr|en}}
+
+{{Turkish Women's Volleyball League teams}}
+
+{{DEFAULTSORT:Halkbank Ankara (women's volleyball)}}
+[[Category:Women's volleyball teams in Turkey]]
+[[Category:Sport in Ankara]]
+[[Category:Volleyball clubs established in 1983]]
+[[Category:1983 establishments in Turkey]]

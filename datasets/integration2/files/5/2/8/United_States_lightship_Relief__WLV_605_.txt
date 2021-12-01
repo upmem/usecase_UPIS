@@ -1,0 +1,161 @@
+{{Hatnote|For another National Historic Landmark lightvessel once called ''Relief'', see [[United States lightship Swiftsure (LV-83)|Swiftsure]].}}
+{|{{Infobox ship begin}}
+|+''Relief'' (WAL-605)
+{{Infobox ship image
+|Ship image=[[File:Lightship Relief (Oakland, CA).JPG|300px|Photo of the vessel taken from a walkway northeast of it.]]
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship name=
+|Ship country=United States
+|Ship flag={{shipboxflag|United States|coast guard}}
+|Ship identification=*WAL-605 (1950–1965)
+*WLV-605 (1965–)
+|Ship owner=
+|Ship operator=
+|Ship registry=
+|Ship route=
+|Ship ordered=
+|Ship builder=Rice Brothers
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=1 March 1949
+|Ship launched=4 May 1950
+|Ship sponsor=Miss Elizabeth F Loughlin
+|Ship completed=
+|Ship christened=
+|Ship commissioned=15 February 1951
+|Ship maiden voyage=
+|Ship out of service=1975
+|Ship decommissioned=1 January 1976
+|Ship fate=
+|Ship status=[[Museum ship]]
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship type=
+|Ship tonnage={{GRT|400|disp=long}}
+|Ship displacement=546 Loaded Tons
+|Ship length=*{{convert|128|ft|abbr=on}} LOA
+*{{convert|112|ft|abbr=on}} LWL
+|Ship beam={{convert|30|ft|abbr=on}}
+|Ship height=
+|Ship draught={{convert|11|ft|abbr=on}}
+|Ship draft=
+|Ship depth={{convert|21.4|ft|abbr=on}}
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship sail plan=
+|Ship power=
+|Ship propulsion=
+|Ship speed=
+|Ship capacity=
+|Ship crew=
+|Ship notes=
+}}
+{{Infobox NRHP
+|embed=yes
+|name=Lightship WAL-605, RELIEF
+|nrhp_type =nhl
+|designated_other1=California
+|designated_other1_number=1036<ref name=chl>
+ {{cite web
+ |url=http://ohp.parks.ca.gov/?page_id=21388
+ |title=California Historic Landmarks: Alameda County
+ |publisher=Office of Historical Preservation, California State Parks
+ |accessdate=2012-10-06
+ }}</ref>
+|image=LS 13.jpg
+|image_size=300
+|caption=Serving as WLV-605 at Overfalls
+|location=[[Oakland, California]]
+|coordinates = {{coord|37|47|44.48|N|122|16|50.13|W|display=inline,title}}
+|locmapin=California
+|map_width=300
+|area =
+|built=1950
+|architect=Rice Brothers
+|architecture= 
+|designated_nrhp_type=20 December 1989<ref name="nhlsum">
+ {{cite web
+ |url=http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=2087&ResourceType=Structure
+ |title=LIGHTSHIP Wal-605 "Relief"
+ |accessdate=2007-10-13
+ |work=National Historic Landmark summary listing
+ |publisher=[[National Park Service]]
+ }}</ref>
+|added=20 December 1989<ref name="nris">{{NRISref|2007a}}</ref>
+|governing_body=Private
+|refnum=89002462
+}}
+|}
+
+'''United States lightship ''Relief'' (WLV-605)''' is a [[lightvessel]] now serving as a [[museum ship]] in [[Oakland, California]].  Built in 1950, she is one of a small number of surviving lightships, and one of an even smaller number built specifically for the [[United States Coast Guard]].  Along with her sister ship, the [[United States lightship Columbia (WLV-604)|WLV-604 ''Columbia'']],<ref>{{cite web |url=http://www.rudyalicelighthouse.net/CalLts/LV605/LV605.htm |title=WLV-605 - Lightship RELIEF |publisher=rudyalicelighthouse.net |accessdate=2012-09-10}}</ref> she is a good example of the last generation of lightships built. She was declared a [[National Historic Landmark]] in 1989.<ref name="nhlsum" />
+
+==Description and history==
+WLV-605 is located on the Oakland waterfront, at the far eastern end of the [[Port of Oakland]] just west of the [[Oakland Ferry Terminal]].  The ship has a welded steel hull {{convert|128|ft|m}} long, with a beam of {{convert|30|ft|m}} and a hold depth of {{convert|21.4|ft|m}}.  She is register at 400 gross tons.  Above-deck features include a steel deckhouse, a breakwater fore, and two steel masts on which its lights are mounted.  She also historically carried a fog signal and bell, both operated by hand.<ref name=nhlnom>{{cite web|url={{NHLS url|89002462}}|title=NHL nomination for Lightship WAL-605, Relief|publisher=National Park Service|accessdate=2018-01-27}}</ref>
+
+WLV-605 was laid down as WAL-605 in 1949 at the Rice Brothers shipyard in East [[Boothbay Harbor, Maine]].  She was launched on March 4, 1950, just sixteen days after ''Columbia'', and was delivered, fully fitted, to the Coast Guard on February 11, 1951.  She began service at the lightstation "Overfalls" at the entrance to [[Delaware Bay]], serving until 1960, when the station was discontinued.  She then sailed to the west coast, where she served at "Blunts Reef" until 1969; during this time Coast Guard lightvessels were redesignated, and she was redesignated WLV-605.  She was then given the name "Relief", assigned duty to relieve other lightships on the Pacific coast.  She was retired from service in 1975 and decommissioned the following year.<ref name=nhlnom/>
+
+After several unsuccessful attempts to convert her to a museum ship, she was acquired in 1986 by the United States Lighthouse Society, which now maintains the vessel in Oakland.
+
+==See also==
+*[[List of National Historic Landmarks in California]]
+*[[National Register of Historic Places listings in Alameda County, California]]
+
+==References==
+{{reflist}}
+
+*{{cite web
+|url=http://www.uscg.mil/History/weblightships/LV605.asp
+|title=Vessel Designation WLV-605
+|work=U.S. Coast Guard Lightships & Those of the U.S. Lighthouse Service
+|publisher=[[United States Coast Guard]]
+|accessdate=2012-09-10
+}}
+*{{cite web
+|url={{NHLS url|id=89002462}}
+|title=National Register of Historic Places Registration Form / Lightship WAL-605, "Overfalls," "Blunts," "Relief"
+|format=pdf
+|authorlink=James P. Delgado
+|last=Delgado
+|first=James P.
+|date=30 June 1989
+|publisher=[[National Park Service]]
+|accessdate=2012-09-10
+}}
+**{{cite web
+|url={{NHLS url|id=89002462|photos=y}}
+|title=Accompanying Photos
+|format=pdf
+|publisher=[[National Park Service]]
+|accessdate=2012-09-10
+}}
+
+==External links==
+{{Commons category|Relief (ship, 1950)}}
+* [http://www.uslhs.org/about_lightship.php United States Lighthouse Society - Lightship RELIEF]
+* [http://nonplused.org/panos/lv_605/index.html Lightship Relief WAL-605 Online Tour]
+* [http://www.uscg.mil/history/cutters/WLV/LV605.asp U.S. Coast Guard Historian's Office. U.S. Coast Guard Lightships & Those of the U.S. Lighthouse Service. Vessel WLV 605]
+
+{{Lightvessels}}
+{{Alameda County, California topics}}
+{{National Register of Historic Places in California}}
+
+{{DEFAULTSORT:Relief (WLV-605)}}
+[[Category:National Historic Landmarks in the San Francisco Bay Area|Relief]]
+[[Category:Museums in Oakland, California|Relief]]
+[[Category:Ships on the National Register of Historic Places in California|Relief]]
+[[Category:Lightships of the United States|Relief]]
+[[Category:Ships built in Maine]]
+[[Category:National Historic Landmark lighthouses]]
+[[Category:Museum ships in California|Relief]]
+[[Category:National Register of Historic Places in Oakland, California]]
+[[Category:1950 ships]]

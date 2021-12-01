@@ -1,0 +1,1032 @@
+[[Image:Map of New Brunswick highlighting Madawaska County.png|thumb|right|200px]]
+This is a '''list of historic places in [[Madawaska County, New Brunswick]]''' entered on the [[Canadian Register of Historic Places]], whether they are federal, provincial, or municipal.
+{{GeoGroup}}
+
+==List of historic places==
+{{HPC header|prov_iso=CA-NB}}
+{{HPC row
+| name = Albert Cross
+| address = Des Ormes Street
+| municipality = [[Baker Brook, New Brunswick|Baker Brook]]
+| pc = E7A
+| lat = 47.3205
+| lon = -68.515
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12506
+| image =
+}}
+{{HPC row
+| name = Albert House
+| address = 25 Canada Road
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3631
+| lon = -68.3267
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 4967
+| image =
+}}
+{{HPC row
+| name = Maxime Albert Complex
+| address = 2167 Centrale Street
+| municipality = [[Saint-Hilaire, New Brunswick|Saint-Hilaire]]
+| pc = E3V
+| lat = 47.2905
+| lon = -68.3963
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12406
+| image =
+}}
+{{HPC row
+| name = Atelier RADO
+| address = 85 Victoria Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3653
+| lon = -68.3214
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 4963
+| image =
+}}
+{{HPC row
+| name = Baker Brook Presbytery
+| address = 3785 Principale Street
+| municipality = [[Baker Brook, New Brunswick|Baker Brook]]
+| pc = E7A
+| lat = 47.2989
+| lon = -68.5164
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12395
+| image =
+}}
+{{HPC row
+| name = Jesse Baker House
+| address = 2 Des Ormes Street
+| municipality = [[Baker Brook, New Brunswick|Baker Brook]]
+| pc = E7A
+| lat = 47.3028
+| lon = -68.5106
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12422
+| image =
+}}
+{{HPC row
+| name = Brunswick Résidence Funéraire
+| address = 20, rue de l'Eglise
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3669
+| lon = -68.325
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 5076
+| image =
+}}
+{{HPC row
+| name = Café d'la vieille forge
+| address = 223 Principale Street
+| municipality = [[Saint-Jacques, New Brunswick|Saint-Jacques]], [[Edmundston, New Brunswick|Edmundston]]
+| pc = E7B
+| lat = 47.4281
+| lon = -68.3848
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 5474
+| image =
+}}
+{{HPC row
+| name = Caisse populaire de Saint-François-de-Madawaska
+| address = 1982, Commerciale Street
+| municipality = [[Saint-Francois-de-Madawaska, New Brunswick|Saint-Francois-de-Madawaska]]
+| pc = E7A
+| lat = 47.2433
+| lon = -68.7003
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12466
+| image =
+}}
+{{HPC row
+| name = Renaud Campagna Portes et fenêtres
+| address = 783 St-Francois Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.355
+| lon = -68.3683
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 4982
+| image =
+}}
+{{HPC row
+| name = Canadian National Railways Station
+| address = 194 Saint Francois Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc =
+| lat = 47.3616
+| lon = -68.3355
+| region = NB
+| provinceId = 100036
+| idf = 15804
+| idp =
+| idm =
+| image = PosteDouaneEdmundston-1.jpg
+}}
+{{HPC row
+| name = Canadian Pacific Railways Station
+| address = East of Victoria St. and 32nd Ave.
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc =
+| lat = 47.3671
+| lon = -68.3204
+| region = NB
+| provinceId = 100036
+| idf = 6730
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Cathedral of the Immaculate Conception
+| address = 175 Eglise Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3631
+| lon = -68.3328
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 1271
+| idm =
+| image = CathédraleEdmundston.jpg
+|commonscat=Cathédrale de l'Immaculée-Conception d'Edmundston
+}}
+{{HPC row
+| name = City Hall Square Park
+| address = 5 Court Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3627
+| lon = -68.3274
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8222
+| image =
+}}
+{{HPC row
+| name = Collin Family Home
+| address = 2396, Centrale Street
+| municipality = [[Saint-Hilaire, New Brunswick|Saint-Hilaire]]
+| pc = E3V
+| lat = 47.2901
+| lon = -68.4124
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12484
+| image =
+}}
+{{HPC row
+| name = Robert Connors Church
+| address = 3614 Route 205
+| municipality = [[Saint-Francois-de-Madawaska, New Brunswick|Saint-Francois-de-Madawaska]]
+| pc = E7A
+| lat = 47.211
+| lon = -68.8224
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 3195
+| idm =
+| image =
+}}
+{{HPC row
+| name = Mgr. W. J. Conway Public Library
+| address = 33 Irene Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3632
+| lon = -68.3177
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9547
+| image =
+}}
+{{HPC row
+| name = Alexis Cyr House
+| address = De la Chapelle Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E7C
+| lat = 47.3562
+| lon = -68.2314
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8765
+| image =
+}}
+{{HPC row
+| name = Dr. Honoré Cyr House
+| address = 373 Principale Street
+| municipality = [[Saint-Basile, New Brunswick|Saint-Basile]], [[Edmundston, New Brunswick|Edmundston]]
+| pc = E7C
+| lat = 47.3573
+| lon = -68.2329
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 5473
+| image =
+}}
+{{HPC row
+| name = René and Lillian Cyr House
+| address = 137 Principale Street
+| municipality = [[Sainte-Anne-de-Madawaska, New Brunswick|Sainte-Anne-de-Madawaska]]
+| pc = E7E
+| lat = 47.2501
+| lon = -68.0318
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8160
+| image =
+}}
+{{HPC row
+| name = Oscar Daigle and Sons Farm
+| address = 3369 Principale Street
+| municipality = [[Baker Brook, New Brunswick|Baker Brook]]
+| pc = E7A
+| lat = 47.3033
+| lon = -68.507
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12425
+| image =
+}}
+{{HPC row
+| name = Edmundston Cenotaph
+| address = 7 Canada Road
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3629
+| lon = -68.3264
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8158
+| image =
+}}
+{{HPC row
+| name = Edmundston CPR Station
+| address = 121 Victoria Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3671
+| lon = -68.3213
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 2852
+| idm =
+|image=Gare CPR d'Edmundston.JPG
+}}
+{{HPC row
+| name = Emmerson House
+| address = 1 Canada Road
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3627
+| lon = -68.3254
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8767
+| image =
+}}
+{{HPC row
+| name = Épicerie R. H. Clavette
+| address = 74 Principale Street
+| municipality = [[Rivière-Verte, New Brunswick|Rivière-Verte]]
+| pc = E7C
+| lat = 47.3182
+| lon = -68.1447
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12523
+| image =
+}}
+{{HPC row
+| name = Épicerie Le Roi du Bœuf
+| address = 3736 Principale Street
+| municipality = [[Baker Brook, New Brunswick|Baker Brook]]
+| pc = E7A
+| lat = 47.3
+| lon = -68.5131
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12394
+| image =
+}}
+{{HPC row
+| name = Former Mont Saint-Joseph Convent
+| address = 8 Saint-Joseph Street
+| municipality = [[Sainte-Anne-de-Madawaska, New Brunswick|Sainte-Anne-de-Madawaska]]
+| pc = E7E
+| lat = 47.2468
+| lon = -68.0263
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8157
+| image =
+}}
+{{HPC row
+| name = Former J. Frank Rice Store
+| address = 54 Canada Road
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3631
+| lon = -68.3283
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9545
+| image =
+}}
+{{HPC row
+| name = Former L. H. Morneault Cie Ltée Hardware Store
+| address = 24 St-Francois Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3624
+| lon = -68.3263
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10395
+| image =
+}}
+{{HPC row
+| name = Former York Hotel
+| address = 181 St-Francois Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3619
+| lon = -68.3343
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 5901
+| image =
+}}
+{{HPC row
+| name = Fraser Edmundston Golf Club
+| address = 570 Victoria Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3795
+| lon = -68.3395
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9469
+| image =
+}}
+{{HPC row
+| name = Garderie Mont Ste-Marie
+| address = 641 St-Francois Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3591
+| lon = -68.3608
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10386
+| image =
+}}
+{{HPC row
+| name = Government of Canada Building
+| address = 22 Emerson Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3639
+| lon = -68.3259
+| region = NB
+| provinceId = 100036
+| idf = 13087
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = L'Hôtel-Dieu Saint-Joseph
+| address = 429 Principale Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E7C
+| lat = 47.3584
+| lon = -68.236
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 2351
+| idm =
+| image =
+}}
+{{HPC row
+| name = Hutman's Store
+| address = 45 Canada Road
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3636
+| lon = -68.3278
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 5985
+| image =
+}}
+{{HPC row
+| name = Journal Le Madawaska Building
+| address = 20 St-Francois Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3624
+| lon = -68.3259
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9900
+| image =
+}}
+{{HPC row
+| name = Lac Baker Grotto
+| address = 5544 Centrale Street
+| municipality = [[Lac-Baker, New Brunswick|Lac-Baker]]
+| pc = E7A
+| lat = 47.3343
+| lon = -68.6418
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12482
+| image =
+}}
+{{HPC row
+| name = Rodolphe Lajoie House
+| address = 23 Principale Street
+| municipality = [[Sainte-Anne-de-Madawaska, New Brunswick|Sainte-Anne-de-Madawaska]]
+| pc = E7E
+| lat = 47.2424
+| lon = -68.0188
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8159
+| image =
+}}
+{{HPC row
+| name = Lancaster KB822 Aircraft
+| address = 17439 Trans-Canada Highway Route 2
+| municipality = [[Edmundston, New Brunswick|Edmundston]]
+| pc = E7B
+| lat = 47.4858
+| lon = -68.4783
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8726
+|image=Lancaster KB882 at Edmundston Flickr 2894912832.jpg
+|commonscat=Avro Lancaster KB882
+}}
+{{HPC row
+| name = Madawaska Dam and Hydroelectric Generating Station
+| address = 5 Ferry Avenue
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3629
+| lon = -68.3245
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10359
+| image =
+}}
+{{HPC row
+| name = Madawaska Regional Exhibition Building
+| address = 275 Principale Street
+| municipality = [[Saint-Basile, New Brunswick|Saint-Basile]], [[Edmundston, New Brunswick|Edmundston]]
+| pc = E7C
+| lat = 47.3566
+| lon = -68.2287
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10391
+| image =
+}}
+{{HPC row
+| name = Maison des filles de Marie de l'Assomption
+| address = 25 22nd Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3757
+| lon = -68.3209
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 5495
+| image =
+}}
+{{HPC row
+| name = Le Manoir des Lacs Inn
+| address = 20 De la Pointe Street
+| municipality = [[Lac-Baker, New Brunswick|Lac-Baker]]
+| pc = E7A
+| lat = 47.3357
+| lon = -68.6415
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12481
+| image =
+}}
+{{HPC row
+| name = Élizabeth Martin Building
+| address = 4 De l'Eglise Street
+| municipality = [[Sainte-Anne-de-Madawaska, New Brunswick|Sainte-Anne-de-Madawaska]]
+| pc = E7E
+| lat = 47.2487
+| lon = -68.0298
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8368
+| image =
+}}
+{{HPC row
+| name = Jos B. Michaud Blacksmith Shop
+| address = 2056 Commerciale Street
+| municipality = [[Saint-Francois-de-Madawaska, New Brunswick|Saint-Francois-de-Madawaska]]
+| pc = E7A
+| lat = 47.2432
+| lon = -68.7054
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12504
+| image =
+}}
+{{HPC row
+| name = Mont Farlagne
+| address = 360 Mont-Farlagne Road
+| municipality = [[Edmundston, New Brunswick|Edmundston]]
+| pc = E7B
+| lat = 47.4122
+| lon = -68.3815
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10374
+| image = Planche à neige Mont Farlagne.jpg
+|commonscat=Mont Farlagne
+}}
+{{HPC row
+| name = Office of Lawyer Jean Cyr
+| address = 10 Emmerson Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3635
+| lon = -68.3264
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 5465
+| image =
+}}
+{{HPC row
+| name = Old Saint-Jacques Church Bell Monument
+| address = 6, rue de l'Ecole
+| municipality = [[Saint-Jacques, New Brunswick|Saint-Jacques]], [[Edmundston, New Brunswick|Edmundston]]
+| pc = E7B
+| lat = 47.4292
+| lon = -68.3858
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 4993
+| image =
+}}
+{{HPC row
+| name = Claude Picard Fresco: "La vie au Madawaska 1785-1985"
+| address = 7 Canada Road
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3633
+| lon = -68.326
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9546
+| image =
+}}
+{{HPC row
+| name = P'tit Sault Blockhouse
+| address = 10 St-Jean Avenue
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3633
+| lon = -68.3227
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 2156
+| idm =
+| image = Fortin du P'tit Sault.JPG
+|commonscat=Fortin du P'tit Sault
+}}
+{{HPC row
+| name = Praga Hotel
+| address = 127 Rue Victoria
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3675
+| lon = -68.3219
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 
+| idm = 5899
+| image =
+}}
+{{HPC row
+| name = 97 Rice Street
+| address = 97 Rice Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3648
+| lon = -68.331
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8771
+| image =
+}}
+{{HPC row
+| name = 101 Rice Street
+| address = 101 Rice Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3647
+| lon = -68.3311
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8772
+| image =
+}}
+{{HPC row
+| name = Sacré-Cœur-de-Jésus Church
+| address = 35 Principale Street
+| municipality = [[Rivière-Verte, New Brunswick|Rivière-Verte]]
+| pc = E7C
+| lat = 47.3148
+| lon = -68.1418
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12524
+| image =
+}}
+{{HPC row
+| name = Saint-Basile Cemetery
+| address = Rue Principale
+| municipality = [[Saint-Basile, New Brunswick|Saint-Basile]], [[Edmundston, New Brunswick|Edmundston]]
+| pc = E7C
+| lat = 47.3558
+| lon = -68.2311
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 5970
+| image =
+}}
+{{HPC row
+| name = Saint-Basile Church
+| address = 321, rue Principale
+| municipality = [[Saint-Basile, New Brunswick|Saint-Basile]], [[Edmundston, New Brunswick|Edmundston]]
+| pc = E7C
+| lat = 47.3567
+| lon = -68.2306
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 6609
+| image =
+}}
+{{HPC row
+| name = Saint-Cœur-de-Marie Church
+| address = 3771 Principale Street
+| municipality = [[Baker Brook, New Brunswick|Baker Brook]]
+| pc = E7A
+| lat = 47.2993
+| lon = -68.515
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12424
+|image=Église Saint-Cœur-de-Marie de Baker-Brook 02.JPG
+|commonscat=Église Saint-Cœur-de-Marie de Baker-Brook
+}}
+{{HPC row
+| name = Sainte-Anne-de-Madawaska Church
+| address = 101 Principal Street
+| municipality = [[Sainte-Anne-de-Madawaska, New Brunswick|Sainte-Anne-de-Madawaska]]
+| pc = E7E
+| lat = 47.2476
+| lon = -68.0285
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8095
+| image =
+}}
+{{HPC row
+| name = Saint-François-d'Assise Church
+| address = 678 Principale Street
+| municipality = [[Clair, New Brunswick|Clair]]
+| pc = 047
+| lat = 47.2549
+| lon = -68.6019
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12465
+| image =
+}}
+{{HPC row
+| name = Saint-François-de-Madawaska Church
+| address = 2019 Commerciale Street
+| municipality = [[Saint-Francois-de-Madawaska, New Brunswick|Saint-Francois-de-Madawaska]]
+| pc = E7A
+| lat = 47.2432
+| lon = -68.7030
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12505
+| image =
+}}
+{{HPC row
+| name = Saint-François-de-Madawaska Religious and Institutional Site
+| address = 20 Mgr Lang Street
+| municipality = [[Saint-Francois-de-Madawaska, New Brunswick|Saint-Francois-de-Madawaska]]
+| pc = E7A
+| lat = 47.242
+| lon = -68.7029
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12502
+| image =
+}}
+{{HPC row
+| name = Saint-Hilaire Church
+| address = 2208 Centrale Street
+| municipality = [[Saint-Hilaire, New Brunswick|Saint-Hilaire]]
+| pc = E3V
+| lat = 47.2906
+| lon = -68.3994
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12407
+| image =
+}}
+{{HPC row
+| name = Saint-Hilaire Presbytery
+| address = 2200 Centrale Street
+| municipality = [[Saint-Hilaire, New Brunswick|Saint-Hilaire]]
+| pc = E3V
+| lat = 47.2904
+| lon = -68.3988
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12408
+| image =
+}}
+{{HPC row
+| name = Saint-Jacques Sluice
+| address = Victoria Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.4165
+| lon = -68.3753
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10342
+| image =
+}}
+{{HPC row
+| name = Saint John the Baptist Anglican Church
+| address = corner of Church and Costigan Streets
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3644
+| lon = -68.3278
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 2661
+| idm =
+| image = Église anglicane Saint John the Baptist Edmundston.JPG
+}}
+{{HPC row
+| name = Saint Paul's United Church
+| address = 82 Canada Road
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3643
+| lon = -68.3300
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 5877
+| idm = 
+| image =
+}}
+{{HPC row
+| name = Saint-Thomas-d'Aquin Church
+| address = 45 De l'Eglise Road
+| municipality = [[Lac-Baker, New Brunswick|Lac-Baker]]
+| pc = E7A
+| lat = 47.3363
+| lon = -68.6406
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12483
+|image=Église Saint-Thomas-d'Aquin de Lac-Baker.JPG
+}}
+{{HPC row
+| name = Simon-Larouche Pavilion
+| address = 165 Hebert Boulevard
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3713
+| lon = -68.3144
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 5321
+| image = UMCE-1.jpg
+|commonscat=Pavillon Simon-Larouche
+}}
+{{HPC row
+| name = Smyth House
+| address = 81 Principale Street
+| municipality = [[Riviere-Verte, New Brunswick|Riviere-Verte]]
+| pc = E3V
+| lat = 47.3187
+| lon = -68.1450
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12501
+| image =
+}}
+{{HPC row
+| name = Soucy Farm
+| address = 683 Principale St.
+| municipality = [[Saint-Basile, New Brunswick|Saint-Basile]], [[Edmundston, New Brunswick|Edmundston]]
+| pc = E7C
+| lat = 47.3608
+| lon = -68.2478
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 5320
+| image =
+}}
+{{HPC row
+| name = Spilly's Resto-Bar
+| address = 22 Hill Street
+| municipality = [[Edmunston, New Brunswick|Edmundston]]
+| pc = E3V
+| lat = 47.3628
+| lon = -68.3292
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 10600
+| image =
+}}
+{{HPC row
+| name = [[Wolastoq National Historic Site of Canada]]
+| coordname = Wolastoq National Historic Site of Canada
+| address = Entire watershed of [[Saint John River (Bay of Fundy)|Saint John River]]
+| municipality = central and western New Brunswick, parts of southeastern Quebec
+| pc = E4E
+| lat = 47.2997
+| lon = -68.5095
+| region = NB
+| provinceId = 100036
+| idf = 18954
+| idp =
+| idm =
+| image = Edmundston - Madawaska River.jpeg
+| commonscat=Saint John River
+}}
+{{HPC footer}}
+
+==See also==
+{{Commons category}}
+* [[List of historic places in New Brunswick]]
+* [[List of National Historic Sites of Canada in New Brunswick]]
+
+{{DEFAULTSORT:Historic places in Madawaska County, New Brunswick}}
+[[Category:Lists of historic places in New Brunswick|Madawaska County, New Brunswick]]
+[[Category:New Brunswick-related lists]]

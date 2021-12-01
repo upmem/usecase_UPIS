@@ -1,0 +1,23 @@
+{{Speciesbox
+| image = Gnathothlibus dabrera BMNHE813026 male up.jpg
+| image_caption = Male
+| genus = Gnathothlibus
+| species = dabrera
+| authority = Eitschberger, 1999<ref>{{cite web|url=http://www.cate-sphingidae.org/taxonomy/Gnathothlibus/dabrera.html |archiveurl=https://web.archive.org/web/20121106102806/http://www.cate-sphingidae.org/taxonomy/Gnathothlibus/dabrera.html|archivedate=2012-11-06|url-status=dead|title=CATE Creating a Taxonomic eScience – Sphingidae |publisher=Cate-sphingidae.org |accessdate=2011-10-20}}</ref>
+| synonyms = 
+}}
+
+'''''Gnathothlibus dabrera''''' is a [[moth]] of the  family [[Sphingidae]]. It is known from [[Sulawesi]].
+
+The [[wingspan]] is 62–76.8&nbsp;mm for males and 81.5&nbsp;mm for females. It differs from ''[[Gnathothlibus erotus]]'' in its smaller size and darker ground colour. Furthermore, the hindwing upperside has a dark marginal band in the males that is broader than in males of ''Gnathothlibus erotus'', but about as wide as in females of ''Gnathothlibus erotus''.
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2055871}}
+
+[[Category:Gnathothlibus]]
+[[Category:Moths described in 1999]]
+
+
+{{Macroglossini-stub}}

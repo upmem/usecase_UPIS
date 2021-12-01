@@ -1,0 +1,26 @@
+== Summary ==
+{{Non-free use rationale album cover| Article           = We Were Born in a Flame
+| Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+| Name              = We Were Born in a Flame
+| Artist            = [[Sam Roberts]]
+| Label             = [[Universal Music|Universal Music Canada]]
+| Graphic Artist    = 
+| Item              = 
+| Type              = album
+| Website           = 
+| Owner             = 
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = <!--Must be specified if Use is not Infobox / Header / Section / Artist-->
+| Replaceability    = 
+| other_information = 
+}}
+
+
+== Licensing ==
+{{Non-free album cover|image has rationale=yes}}

@@ -1,0 +1,12 @@
+== Summary ==
+{{Information
+ |Description    = Preliminary [[diagnostic wax-up]] made by a [[prosthodontist]] to visualize her case (waxed up in post-graduate department of prosthodontics, [[Columbia University College of Dental Medicine]]
+ |Source         = I ('''[[User:DRosenbach|<span style="color:#006400">DRosenbach</span>]]''' <sup>([[User_talk:DRosenbach|<span style="color:#006400">Talk</span>]] {{!}} [[Special:Contributions/DRosenbach|<span style="color:#006400">Contribs</span>]])</sup>) created this work entirely by myself.
+ |Date           = 23:52, 27 October 2009 (UTC)
+ |Author         = '''[[User:DRosenbach|<span style="color:#006400">DRosenbach</span>]]''' <sup>([[User_talk:DRosenbach|<span style="color:#006400">Talk</span>]] {{!}} [[Special:Contributions/DRosenbach|<span style="color:#006400">Contribs</span>]])</sup>
+ |other_versions = none
+}}
+== Licensing ==
+{{self|cc-by-sa-3.0|GFDL|migration=redundant}}
+
+{{Copy to Wikimedia Commons|bot=Fbot|priority=true}}

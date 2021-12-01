@@ -1,0 +1,65 @@
+<noinclude>
+{{Translation/Header}}
+</noinclude>{{Translation/Information
+|de|Justiniana Prima|Justiniana Prima|
+|Interest=Filling out old request
+|Comment=
+|Requested_by=[[User:RyanGerbil10|RyanGerbil10]]<small>[[User_talk:RyanGerbil10|(Упражнение В!)]]</small> 00:29, 24 April 2007 (UTC)
+
+<!-- To update the status message, please edit the next subsection. It will inform other users about the stage reached in translation, and will appear in [[Wikipedia:Translation]], in the article and then in its talk page -->
+
+<!-- Choose a Translation Stage between 1 and 4
+	1 : Translation Request
+	2 : Translation In Progress
+	3 : Proofreaders Needed
+	4 : Translation Completed
+-->
+
+|Stage = 1|
+
+
+<!-- Example :
+                | Translator-s = [[User:RyanGerbil10|RyanGerbil10]]<small>[[User_talk:RyanGerbil10|(Упражнение В!)]]</small>
+                | Translation_progress = 50 (in percentage)
+                | Permanent link = [http://en.wikipedia.org/w/index.php?title=Linux&oldid=86290717 00:29, 24 April 2007 (UTC)] 
+-->
+|Translator-s = |           
+|Translation_progress = XX| 
+|Permanent_link = [URL date]|
+
+
+<!-- Example :
+                | Proofreader-s = [[User:RyanGerbil10|RyanGerbil10]]<small>[[User_talk:RyanGerbil10|(Упражнение В!)]]</small>
+                | Proofreading_progress = 20 (in percentage)
+-->
+|Proofreader-s         = | 
+|Proofreading_progress = XX|
+
+
+
+
+<!-- do not make any changes after here -->
+|Parameter={{{Parameter}}}
+|Parameter2={{{Parameter2}}}
+|Version=2
+}}<noinclude>
+__NOTOC__
+
+== Talk ==
+
+{{Translation/Header2}}
+
+
+
+
+
+
+
+
+== Instructions ==
+{{Translation/Instructions|de|Justiniana Prima|Justiniana Prima}}
+
+
+
+== Do not edit after here ==
+</noinclude>

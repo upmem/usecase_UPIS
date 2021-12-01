@@ -1,0 +1,46 @@
+{{orphan|date=February 2017}}{{onesource|date=February 2017}}
+{{Infobox court case
+|name               = State v. Crenshaw
+|court              = [[Washington Supreme Court]]
+|image =Seal of the Supreme Court of Washington.png
+|imagesize = 240px
+|imagelink          = 
+|imagealt           = 
+|caption            = 
+|full name          = 
+|date decided       = {{start date|1983|02|17|df=}}
+|citations          = [https://law.justia.com/cases/washington/supreme-court/1983/47498-2-1.html 98 Wash. 2d 789]; 659 [[P.2d]] 488
+|ECLI               = 
+|transcripts        = 
+|judges             = [[Robert Brachtenbach]], [[Hugh J. Rosellini]], [[Charles F. Stafford]], [[Carolyn R. Dimmick]], [[Vernon Robert Pearson]], [[William H. Williams]], [[Fred H. Dore]]
+|number of judges   = 
+|decision by        = Brachtenbach
+|concurring         = Williams
+|dissenting         = Dore
+|prior actions      = 
+|appealed from      = 
+|appealed to        = 
+|subsequent actions = 
+|related actions    = 
+|keywords           = {{hlist | [[Insanity defense]]}}
+|italic title       = yes
+}}
+'''''State v. Crenshaw''''', 98 Wash. 2d 789, 659 P.2d 488 (1983),<ref>''State v. Crenshaw'', [https://law.justia.com/cases/washington/supreme-court/1983/47498-2-1.html 98 Wash. 2d 789, 659 P.2d 488] (1983).</ref> is a [[criminal case]] interpreting the relationship of the [[insanity defense]] to a [[deific decree]].<ref name=CL>''Criminal Law - Cases and Materials'', 7th ed. 2012, [[Wolters Kluwer Law & Business]]; [[John Kaplan (law professor)|John Kaplan]], [[Robert Weisberg]], [[Guyora Binder]], {{ISBN|978-1-4548-0698-1}}, [https://law.stanford.edu/publications/criminal-law-cases-and-materials-7th-edition/]</ref>{{rp|624}} The [[Supreme Court of Washington]] carved out the deific exception from the standard set forth in ''[[People v. Schmidt]]'' (1915), that a person can be found not guilty by reason of insanity even if they knew their act was morally wrong by the standards of society and wrong under the law, if their mental disorder was a delusion that God commanded their act.<ref name=CL/>{{rp|624}} A mother insanely killed her child in the delusional belief that she was obeying God's command.<ref name=CL/>{{rp|624}} It was found that "it would be unrealistic to hold her responsible for the crime, since her free will has been subsumed by her belief in the deific decree.<ref name=CL/>{{rp|624}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{caselaw source
+ | case = ''State v. Crenshaw'', 98 Wash. 2d 789, 659 P.2d 488 (1983)
+ | courtlistener =https://www.courtlistener.com/opinion/1449746/state-v-crenshaw/
+ | googlescholar = https://scholar.google.com/scholar_case?case=6506131557906723529
+ | justia =https://law.justia.com/cases/washington/supreme-court/1983/47498-2-1.html
+ }}
+
+[[Category:1983 in United States case law]]
+[[Category:Washington (state) state case law]]
+[[Category:1983 in Washington (state)]]
+[[Category:Mental health law in the United States]]
+[[Category:Insanity]]
+{{US-case-law-stub}}

@@ -1,0 +1,16 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = This is an updated [[Studio 23]] logo since July 14, 2012.
+|Source = http://a0.twimg.com/profile_images/2396683134/wlemqp6crmmn36or2evz.jpeg
+|Date = October 9, 2012
+|Author = ABS-CBN Corporation
+|Article = Studio 23
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.
+|Replaceability = n.a.
+|Minimality = This logo used for Free TV (UHF) channel.
+|Commercial = n.a.
+|Other information = Yes.
+}}
+
+==Licensing==
+{{Non-free logo|image has rationale=yes}}

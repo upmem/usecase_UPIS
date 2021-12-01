@@ -1,0 +1,71 @@
+{{Use British English|date=January 2014}}
+{{Use dmy dates|date=January 2014}}
+
+{{Infobox album
+| name       = The Very Best of East Seventeen
+| type       = Greatest Hits
+| artist     = [[East 17]]
+| cover      = The Very Best of East Seventeen.jpg
+| alt        =
+| released   = 31 January 2005
+| recorded   = 1993-1998
+| venue      =
+| studio     =
+| genre      = [[Pop music|Pop]]
+| length     =
+| label      = [[Warner Music Group|WEA International]]
+| producer   =
+| prev_title = [[Resurrection (East 17 album)|Resurrection]]
+| prev_year  = 1998
+| next_title = [[East 17: The Platinum Collection]]
+| next_year  = 2006
+}}
+{{Album ratings
+| rev1      = [[Allmusic]]
+| rev1Score ={{Rating|4|5}}<ref name="AM">[{{Allmusic|class=album|id= r739769/review|pure_url=yes}} Allmusic review]</ref>
+| noprose=yes
+|}}
+'''''The Very Best of East Seventeen''''' is a [[greatest hits]] album from 1990s boy band [[East 17]]. The album was released on 31 January 2005.
+
+==Track listing==
+#"[[House of Love (East 17 song)|House of Love]]" <small> from ''[[Walthamstow (album)|Walthamstow]]'' </small>
+#"[[Deep (East 17 song)|Deep]]" <small> from ''Walthamstow'' </small>
+#"[[It's Alright (East 17 song)|It's Alright]]" <small> from ''Walthamstow'' </small>
+#"[[Stay Another Day]]" <small> from ''[[Steam (East 17 album)|Steam]]'' </small>
+#"Steam" <small> from ''Steam'' </small>
+#"[[Let It Rain (East 17 song)|Let It Rain]]" <small> from ''Steam'' </small>
+#"[[Slow It Down (East 17 song)|Slow It Down]]" <small> from ''Walthamstow'' </small>
+#"[[If You Ever]]" <small>(featuring [[Gabrielle (singer)|Gabrielle]])</small> <small> from ''[[Around the World Hit Singles: The Journey So Far]]'' </small>
+#"[[West End Girls]]" <small> from ''Walthamstow'' </small>
+#"[[Around the World (East 17 song)|Around The World]]" <small> from ''Steam'' </small>
+#"[[Thunder (East 17 song)|Thunder]]" <small> from ''[[Up All Night (East 17 album)|Up All Night]]'' </small>
+#"[[Gold (East 17 song)|Gold]]" <small> from ''Walthamstow'' </small>
+#"Do U Still" <small> from ''Up All Night'' </small>
+#"Someone To Love" <small> from ''Up All Night'' </small>
+#"Hey Child" <small> from ''Around the World Hit Singles: The Journey So Far'' </small>
+#"[[Hold My Body Tight]]" <small> from ''Steam'' </small>
+#"[[Each Time]]" <small> from ''[[Resurrection (East 17 album)|Resurrection]]'' </small>
+#"Betcha Can’t Wait" <small> from ''Resurrection'' </small>
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+{| class="wikitable sortable"
+!align="left"|Chart (2005) 
+!align="left"|Peak<br/>position
+|-
+{{albumchart|UK|34|artist=East 17}}
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{East 17}}
+
+{{DEFAULTSORT:Very Best of East Seventeen}}
+[[Category:East 17 compilation albums]]
+[[Category:2005 greatest hits albums]]
+
+
+{{1990s-pop-album-stub}}

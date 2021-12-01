@@ -1,0 +1,98 @@
+{{Infobox rail line
+| name          = Mühldorf–Freilassing railway
+| routenumber   = 945
+| linenumber    = *5723 <small>Mühldorf–Freilassing</small>
+*5724 <small>Wiesmühl–Tittmoning</small>
+| linelength_km =65.6
+| gauge         = {{Track gauge|sg|allk=on}}
+| speed         = {{Convert|120|km/h|mph|abbr=on}} (maximum)
+| locale        = [[Bavaria]]
+| map_state     =
+| map           = &#32;
+{{BS-map|inline=1|map-title = Operating points and lines<ref name=Eisenbahnatlas >{{cite book|title=Eisenbahnatlas Deutschland (German railway atlas) |publisher= Schweers + Wall | year= 2009 |isbn= 978-3-89494-139-0}}</ref>|map=
+{{BS2|STR||||from [[Munich–Mühldorf railway|Munich]] and [[Rosenheim–Mühldorf railway|Rosenheim]]|}}
+{{BS2|BHF||0.0|[[Mühldorf (Oberbayern) station|Mühldorf (Oberbay)]]||{{Höhe|411|DE-NN|link=true}}}}
+{{BS2|ABZgl||||to [[Mühldorf–Simbach am Inn railway|Simbach]] and [[Mühldorf–Pilsting railway|Pilsting]]}}
+{{BS2|hKRZWae||||[[Inn (river)|Inn]]|}}
+{{BS2|eHST||3.7|Mühldorf-Ehring|}}
+{{BS2|eABZgl|exSTR+r|||former route}}
+{{BS2|BHF|exHST|7.0|[[Tüßling]]||{{Höhe|401|DE-NN}}}}
+{{BS2|ABZgl|eABZql|||to [[Mühldorf–Burghausen railway|Burghausen]]|}}
+{{BS2|eBHF||11.0|Mauerberg|}}
+{{BS2|ABZg+l||||to [[SKW Trostberg]]}}
+{{BS2|BHF||16.4|[[Garching an der Alz|Garching (Alz)]]||{{Höhe|460|DE-NN}}}}
+{{BS2|ABZgr||||to [[Traunstein–Garching railway|Traunstein]]|}}
+{{BS2|hKRZWae||||[[Alz]]}}
+{{BS2|HST||24.3|[[Kirchweidach]]||{{Höhe|499|DE-NN}}}}
+{{BS2|eBHF||28.4|Tyrlaching|}}
+{{BS2|eHST||31.7|Lanzing|}}
+{{BS2|STR|exKBHFa|6.0|[[Tittmoning station|Tittmoning]]||{{Höhe|383|DE-NN}}}}
+{{BS2|STR|exHST|3.9|Kirchheim (Oberbay)|}}
+{{BS2|eABZg+l|exSTRr|||}}
+{{BS2|BHF||{{BSsplit|35.8|0.0|line=1|align=right}}|Tittmoning-Wiesmühl||{{Höhe|430|DE-NN}}}}
+{{BS2|BHF||41.9|[[Fridolfing]]||{{Höhe|414|DE-NN}}}}
+{{BS2|HST||46.1|[[Kirchanschöring]]||{{Höhe|416|DE-NN}}}}
+{{BS2|BHF||53.6|[[Laufen (Salzach)|Laufen (Oberbay)]]||{{Höhe|441|DE-NN}}}}
+{{BS2|eHST||57.8|Gastag|}}
+{{BS2|BST||60.8|Surheim siding|}}
+{{BS2|ABZg+r||||from [[Rosenheim–Salzburg railway|Rosenheim]] and [[Freilassing–Berchtesgaden railway|Berchtesgaden]]|}}
+{{BS2|BHF||65.6|[[Freilassing station|Freilassing]]||{{Höhe|421|DE-NN}}}}
+{{BS2|STR||||to [[Rosenheim–Salzburg railway|Salzburg]]|}}
+}}
+}}
+
+The '''Mühldorf–Freilassing railway''' is a major railway in Bavaria. The line, which is operated by the [[Südostbayernbahn]] (SOB) (part of [[Deutsche Bahn]]), runs from [[Mühldorf (Oberbayern) station|Mühldorf]] to [[Freilassing station|Freilassing]] in the German state of [[Bavaria]].
+
+[[File:Bahnstrecke Richtung Fridolfing - geo.hlipp.de - 10409.jpg|thumb|left|Line to Freilassing (between Tittmoning-Wiesmühl and Fridolfing)]]
+
+==History==
+
+The rail link between Mühldorf and Freilassing was opened on 1 December 1908 as one of the last sections opened by [[Royal Bavarian State Railways]]. The line, which was conceived as an approach line to the [[Tauern Railway]] and was designated therefore as the "Bavarian Tauern Railway" (''bayerische Tauernbahn''), was created by linking and upgrading existing local line segments:<ref>{{cite book|author=Reinhard Wanka, Wolfgang Wiesner |title= Die Hauptbahn München–Simbach und ihre Zweigbahnen |publisher= Bufe-Fachbuch-Verlag |location= Egglham |year=1996 |isbn= 3-922138-59-4 |page=15 |language=German}}</ref>
+*Mühldorf–Tüßling, part of the [[Mühldorf–Burghausen railway]] opened on 10 August 1897 
+*Freilassing-Wiesmühl, part of the Freilassing–[[Tittmoning]] branch line, opened on 14 June 1890 (Freilassing–[[Laufen, Germany|Laufen]]) and 1 May 1894 (Laufen–Tittmoning).
+
+Two options were available: a route from [[Burgkirchen an der Alz|Burgkirchen]] (on the Mühldorf–Burghausen line) to Wiesmühl (on the existing line to Tittmoning) and, on the other hand, the Tüßling–[[Garching an der Alz|Garching]]–Wiesmühl route. The latter, which was implemented, also had, apart from providing a railway connecting Kirchweidach and Garching, the advantage that the [[Traunstein–Garching railway|former branch line from Traunstein to Trostberg]] could be connected with the new line in Garching.
+
+In Tüßling a change in the route of the line to Burghausen was made because it was originally planned to build the junction with the branch of the Tauern Railway in Ehring. Tüßling would then have a station on each line, which would have made transfers much more difficult. Therefore, the stations at Tüßling and Heiligenstatt were moved, a new section was built from the new Tüßling station to the line to Burghausen and the old section was abandoned.<ref>Reinhard Wanka: ''100 Jahre bayerische Tauernbahn''</ref>
+
+The route was taken over by the Bavarian Group Administration (''Gruppenverwaltung Bayern'') of [[Deutsche Reichsbahn]] on 24 April 1920 and it is now operated by [[Deutsche Bahn]].
+
+While the national significance of the line was always relatively small despite some long-distance services in the first half of the 20th century,<ref>{{cite book|author=Reinhard Wanka, Wolfgang Wiesner |title= Die Hauptbahn München–Simbach und ihre Zweigbahnen |publisher= Bufe-Fachbuch-Verlag |location= Egglham |year=1996 |isbn= 3-922138-59-4 |pages=128–129, 132 |language=German}}</ref> it is still of major significance for local connections. Several smaller intermediate stations were abandoned in the second half of the 20th century. Kirchweidach station, which was abandoned on 29 May 1988, was reopened on 2 June 1996.
+
+Passenger services closed on 27 September 1969 on the Tittmoning-Wiesmühl–Tittmoning section of the original Freilassing–Tittmoning line, which since 1908 had operated as a branch line. Freight were abandoned on the branch on 31 July 1981.
+
+The first completed project on the current upgrade of the Mühldorf–Salzburg line was a 160-metre-long concrete bridge over the [[Inn (river)|Inn]] just south of Mühldorf, which was opened in late September 2011.<ref name="Merkur_20110926">{{cite web |url=http://www.merkur-online.de/nachrichten/bayern-lby/paris-muehldorf-bratislava-innbruecke-bringt-bahntrasse-voran-1421664.html|author=Dirk Walter und Markus Honervogt|title=Bahnausbau: "Meilenstein" über den Inn|publisher=merkur-online.de|date=26 September 2011|accessdate=1 March 2013|language=German}}</ref>
+
+==Operations==
+
+Since 2003, almost all passenger trains running from Mühldorf continue via Freilassing to [[Salzburg Central Station|Salzburg]]. Moreover, since 2005, almost all of these trains continue over the [[Neumarkt-Sankt Veit – Landshut railway]] to [[Landshut Central Station|Landshut]]. Services operate at two-hour intervals each day on the whole line; from Monday to Friday additional services running between Mühldorf  and [[Trostberg]] mean that there are hourly services between Mühldorf and Garching.
+
+In freight transport, on weekdays a pair of local trains operates on the Mühldorf–Freilassing–Traunstein  route as [[Unit train|block trains]]  to and from firms in the “Bavarian Chemical Triangle” (''Bayerisches Chemiedreieck'') in Gendorf and Burghausen. Freight trains also operate between Mühldorf and Garching, serving customers in Garching and on the [[Traunstein–Garching railway]].
+
+On the Mühldorf–Tüßling section of the "Bavarian Tauern Railway" there are also numerous passenger and freight trains serving the Mühldorf–Burghausen line.
+
+==Development planning ==
+
+It has been decided to electrify the Mühldorf–Salzburg line and to duplicate the Kirchweidach–Tittmoning-Wiesmühl section. In addition, the electrification of the Tüßling-Burghausen section is also proposed. The line speed will be upgraded to 160&nbsp;km/h as far as possible using the existing line.<ref>{{cite web |url=http://www.bmvbs.de/cae/servlet/contentblob/59400/publicationFile/30928/schlussbericht-schienen-de.pdf |title=Final report of the review of the federal railway infrastructure plan |date=November 2010 |publisher=Ministry of Transport, Construction and Urban Development |format=PDF; 36,6&nbsp;MB |pages=8/11 ff |accessdate=1 March 2013 |language=German |url-status=dead |archiveurl=https://web.archive.org/web/20120515081458/http://www.bmvbs.de/cae/servlet/contentblob/59400/publicationFile/30928/schlussbericht-schienen-de.pdf |archivedate=15 May 2012 }}</ref> The financing of the construction work, which was initially to be completed by 2012, has not been fully accounted for according to Deutsche Bahn. Funding is now secured for duplication of the Mühldorf–Tüßling section, including electrification, and the federal transport minister [[Peter Ramsauer]] indicated in September 2011 that it would be commissioned in 2016.<ref name="Merkur_20110926"/> The corresponding financial agreement for €127.6 million was signed on 14 February 2013 by [[DB Netz]] AG and the Federal Ministry of Transport. After the two phases of the planning approval process are completed during 2013, the duplication is expected to be completed in 2017. In addition, a funding agreement has been reached to provide €50 million for the upgrading of the [[Rosenheim–Salzburg railway]] from Freilassing to the Austrian border to three tracks.<ref>{{cite news|newspaper=Passauer Neue Presse - Landkreis Mühldorf |url=http://www.pnp.de/region_und_lokal/landkreis_altoetting/altoetting/656998_Bahnausbau-Finanzierung-in-trockenen-Tuechern.html |title=Bahnausbau: Finanzierung in trockenen Tüchern |accessdate=1 March 2013 |language=German |date=14 February 2013}}</ref>
+ 
+The planned upgrade would also bring considerable relief on the Munich–Rosenheim route and therefore would make available additional capacity for freight traffic on the [[Brenner Railway]].<ref name=Bundestag>{{cite web| url=http://dipbt.bundestag.de/dip21/btd/17/122/1712230.pdf | title=Printed material 17/12230: Transport Investment Report for 2011 | publisher=[[Deutscher Bundestag]] | pages=90–92 | date=25 January 2013 | accessdate =1 March 2013  |language=German }}</ref>
+
+==Notes==
+
+{{Reflist}}
+
+== References==
+
+* {{cite journal|author= Karl Bürger |title=Kurvig und bucklig – Die "Bayerische Tauernbahn" Landshut–Mühldorf–Freilassing'' (part 1) |journal= EisenbahnGeschichte |issue=31 |year=2008 |pages =46–54 |language=German}}
+* {{cite journal|author= Karl Bürger and Josef Mauerer |title=Paris–Fridolfing–Triest und zurück – Die "Bayerische Tauernbahn" Landshut–Mühldorf–Freilassing'' (part 2) |journal= EisenbahnGeschichte |issue=32 |year=2008  |pages=8–46 |language=German}}
+* {{cite journal|author=Reinhard Wanka |title=100 Jahre bayerische Tauernbahn |journal=Das Mühlrad |volume=50 |year=2008  |pages= 107–138 |language=German}}
+
+== External links ==
+
+* {{cite web|url=http://www.sporenplan.nl/figuren/tekeningen/db_normaal/db_bayern/rosenheim-muehldorf.pdf |title=Track plan of the stations and the line |format=PDF, 97&nbsp;KB | publisher=http://www.sporenplan.nl |accessdate=1 March 2013}}
+* {{cite web|url=http://www.zukunft-suedostbayern.info/ |title=Forum on the Munich - Mühldorf - Freilassing project |publisher=Bahnausbau München – Mühldorf – Freilassing ABS 38 |accessdate=1 March 2013 |language=German }}
+
+{{DEFAULTSORT:Muhldorf-Freilassing railway}}
+[[Category:Railway lines in Bavaria]]
+[[Category:Railway lines opened in 1908]]
+[[Category:1908 establishments in Germany]]

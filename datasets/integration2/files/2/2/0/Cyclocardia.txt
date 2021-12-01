@@ -1,0 +1,61 @@
+{{Automatic taxobox
+| image =
+| taxon = Cyclocardia
+| authority = Conrad, 1867
+| display_parents = 3
+| synonyms = 
+''Arcturus'' <small>Humphrey in Sowerby, 1839 (''non'' Latreille, 1829: [[Arcturus (isopod)|preoccupied]])</small><br />
+''Bendeglans'' <small>Eames, 1957</small><br />
+''Crassicardia'' <small>Savitsky, 1979<!-- "Conrad, 1838" is an error in PaleoDB --></small><br />
+and see text
+}}
+
+'''''Cyclocardia''''' is a genus of [[molluscs]] in the family [[Carditidae]].<ref>Abbott, R.T. & Morris, P.A. ''A Field Guide to Shells: Atlantic and Gulf Coasts and the West Indies.'' New York: Houghton Mifflin, 1995. 45.</ref><ref>http://www.marinespecies.org/aphia.php?p=taxdetails&id=156830</ref>
+
+The related genus ''[[Vimentum]]'' is sometimes included here.
+
+==Species==
+* ''[[Cyclocardia astartoides]]'' <small>(Martens, 1878)</small>
+*†''[[Cyclocardia awamoensis]]'' <small>(Harris, 1897)</small>
+* ''[[Cyclocardia bailyi]]'' <small>(J. Q. Burch, 1944)</small>
+* ''[[Cyclocardia barbarensis]]'' <small>(Stearns, 1890)</small>
+*''[[Cyclocardia beebei]]'' <small>(Hertlein, 1958)</small>
+* ''[[Cyclocardia borealis]]'' &ndash; northern cardita
+*†''[[Cyclocardia christiei]]'' <small>(Marwick, 1929)</small>
+* ''[[Cyclocardia compressa]]'' <small>(Reeve, 1843)</small>
+* ''[[Cyclocardia congelascens]]'' <small>(Melvill & Standen, 1912)</small>
+* ''[[Cyclocardia crassidens]]'' <small>(Broderip & Sowerby I, 1829)</small>
+* ''[[Cyclocardia crebricostata]]'' <small>(A. Krause, 1885)</small>
+* ''[[Cyclocardia gouldii]]'' <small>(Dall, 1903)</small>
+*†''[[Cyclocardia granulata]]'' (Say, 1824)
+* ''[[Cyclocardia incisa]]'' <small>(Dall, 1903)</small>
+* ''[[Cyclocardia isaotakii]]'' <small>(Tiba, 1972)</small>
+*†''[[Cyclocardia magna]]'' <small>Quilty, Darragh, Gallagher & Harding, 2016</small>
+*†''[[Cyclocardia marama]]'' <small>(P. A. Maxwell, 1969)</small>
+* ''[[Cyclocardia moniliata]]'' <small>(Dall, 1903)</small>
+*†''[[Cyclocardia moniligena]]'' <small>Hickman, 2015</small>
+*''[[Cyclocardia nipponensis]]'' <small>M. Huber, 2010</small>
+* ''[[Cyclocardia novangliae]]'' <small>(E. S. Morse, 1869)</small>
+* ''[[Cyclocardia ovata]]'' <small>(Riabinina, 1952)</small>
+*†''[[Cyclocardia pseutella]]'' <small>(Marwick, 1929)</small>
+* ''[[Cyclocardia ripensis]]'' <small>Popov & Scarlato, 1980</small>
+* ''[[Cyclocardia rjabininae]]'' <small>(Scarlato, 1955)</small>
+* ''[[Cyclocardia spurca]]'' <small>(G.B. Sowerby I, 1833)</small>
+* ''[[Cyclocardia thouarsii]]'' <small>(d'Orbigny, 1842)</small>
+* ''[[Cyclocardia umnaka]]'' <small>(Willett, 1932)</small>
+* ''[[Cyclocardia velutina]]'' <small>(E.A. Smith, 1881)</small>
+* ''[[Cyclocardia ventricosa]]'' <small>(Gould, 1850)</small>
+
+; Extinct species
+* †''[[Cyclocardia elegans]]'' <small>Lamarck 1806</small>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3016832}}
+
+[[Category:Carditidae]]
+[[Category:Bivalve genera]]
+
+
+{{bivalve-stub}}

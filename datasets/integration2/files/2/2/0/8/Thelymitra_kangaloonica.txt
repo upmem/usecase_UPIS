@@ -1,0 +1,49 @@
+{{Italic title}}
+{{taxobox
+| name = Kangaloon sun orchid
+| image = 
+| image_caption = 
+| status_system = EPBC
+| status = CR
+| regnum = [[Plantae]]
+| unranked_divisio = [[Angiosperms]]
+| unranked_classis = [[Monocots]]
+| ordo = [[Asparagales]]
+| familia = [[Orchidaceae]]
+| subfamilia = [[Orchidoideae]]
+| tribus = Diurideae
+| subtribus = Thelymitrinae
+| genus = ''[[Thelymitra]]''
+| species = '''''T. kangaloonica'''''
+| binomial = ''Thelymitra kangaloonica''
+| binomial_authority = [[Jeffrey A. Jeanes|Jeanes]]<ref name="WCSP">{{WCSP | 465986 | ''Thelymitra kangaloonica'' }}</ref>
+| synonyms_ref =
+| synonyms = 
+}}
+'''''Thelymitra kangaloonica''''', commonly called the '''Kangaloon sun orchid''',<ref name="Jones" /> is a species of [[orchid]] that is [[Endemism|endemic]] to a very small area of [[New South Wales]]. It has a single erect, relatively narrow, fleshy leaf and up to forty deep blue flowers with darker veins.
+
+==Description==
+''Thelymitra kangaloonica'' is a [[tuber]]ous, [[Perennial plant|perennial]] [[Herbaceous plant|herb]] with a single erect, fleshy, channelled, linear leaf {{convert|150-350|mm|in|sigfig=1|abbr=on}} long and {{convert|5-25|mm|in|sigfig=1|abbr=on}} wide with a purplish base. Up to forty deep blue flowers with darker veins, {{convert|15-30|mm|in|sigfig=1|abbr=on}} wide are arranged on a flowering stem {{convert|200-550|mm|in|sigfig=1|abbr=on}} tall. The [[sepal]]s and [[petal]]s are {{convert|8-18|mm|in|sigfig=1|abbr=on}} long, {{convert|4-8|mm|in|sigfig=1|abbr=on}} wide and brownish on their reverse side. The [[Column (botany)|column]] is white or pale blue, {{convert|5-5.5|mm|in|sigfig=2|abbr=on}} long and {{convert|2.5-3.5|mm|in|sigfig=2|abbr=on}} wide. The lobe on the top of the [[Stamen#Morphology and terminology|anther]] is yellow with a purple band, more or less flat and strap-like. The side lobes curve towards each other and have a short, toothbrush-like tuft of white hairs. Flowering occurs in late October and November.<ref name="Jones">{{cite book|last1=Jones|first1=David L.|title=A complete guide to native orchids of Australia including the island territories|date=2006|publisher=New Holland|location=Frenchs Forest, N.S.W.|isbn=1877069124|pages =239–240}}</ref><ref name="Muelleria">{{cite journal|last1=Jeanes|first1=Jeffrey A.|title=Resolution of the ''Thelymitra aristata'' (Orchidaceae) complex of south-eastern Australia|journal=Muelleria|date=2011|volume=29|number=2|pages=123–125|url=https://www.rbg.vic.gov.au/documents/Muelleria_29%282%29%2C_pp110-129_-_Jeanes.pdf|accessdate=21 May 2018}}</ref><ref name="environment">{{cite web|title=Approved Conservation Advice for ''Thelymitra'' sp. Kangaloon (D.L.Jones 18108) (Kangaloon Sun-orchid)|url=http://www.environment.gov.au/biodiversity/threatened/species/pubs/81971-conservation-advice.pdf|publisher=Australian Government Department of the Environment|accessdate=24 May 2018}}</ref>
+
+==Taxonomy and naming==
+''Thelymitra kangaloonica'' was first formally described in 2011 by [[Jeffrey A. Jeanes|Jeff Jeanes]] and the description was published in ''[[Muelleria (journal)|Muelleria]]'' from a specimen collected near [[Robertson, New South Wales|Robertson]].<ref name=APNI>{{cite web|title=''Thelymitra kangaloonica''|url= https://id.biodiversity.org.au/instance/apni/707495|publisher=APNI|accessdate=24 May 2018}}</ref> The [[Botanical nomenclature|specific epithet]] (''kangaloonica'') is a reference to the township of [[Kangaloon, New South Wales|Kangaloon]] near which the [[Type (biology)|type]] specimen was found.<ref name="Muelleria" />
+
+==Distribution and habitat==
+The Kangaloon sun orchid grows with [[Cyperaceae|sedges]] and rushes in swampy places. It only occurs in three sites near Robertson and Kangaloon.<ref name="Jones" /><ref name="Muelleria" /><ref name="environment" /><ref name="OEH">{{cite web|title=Kangaloon Sun Orchid - profile|url=http://www.environment.nsw.gov.au/threatenedspeciesapp/profile.aspx?id=20168|publisher=New South Wales Government Office of Environment and Heritage|accessdate=24 May 2018}}</ref>
+
+==Conservation==
+''Thelymitra kangaloonica'' only occurs in three sites and is threatened by inappropriate fire regimes, grazing and by drying out of the swamps where it grows. It is listed as "critically endangered" under the under the [[Environment Protection and Biodiversity Conservation Act 1999]] (EPBC Act) and under the New South Wales Government NSW Threatened Species Conservation Act.<ref name="environment" /><ref name="OEH" />
+
+
+==References==
+{{Reflist|30em}}
+
+== External links ==
+* {{Wikispecies-inline|Thelymitra kangaloonica|''Thelymitra kangaloonica''}}
+
+{{Taxonbar|from=Q25695715}}
+
+[[Category:Thelymitra|kangaloonica]]
+[[Category:Endemic orchids of Australia]]
+[[Category:Orchids of New South Wales]]
+[[Category:Plants described in 2011]]

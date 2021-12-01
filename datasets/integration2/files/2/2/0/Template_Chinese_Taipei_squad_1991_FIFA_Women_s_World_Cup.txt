@@ -1,0 +1,33 @@
+{{National squad
+ | name      = Chinese Taipei squad 1991 FIFA Women's World Cup
+ | bg        = navy
+ | fg        = white
+ | country   = Chinese Taipei
+ | flagvar   = football-old
+ | team link = Chinese Taipei women's national football team
+ | comp link = 1991 FIFA Women's World Cup
+ | comp      = 1991 FIFA Women's World Cup
+ | p1        = [[Hong Li-chyn]]
+ | p2        = [[Liu Hsiu-mei]]
+ | p3        = [[Chen Shwu-ju]]
+ | p4        = [[Lo Chu-yin]]
+ | p5        = [[Chen Hsiu-lin]]
+ | p6        = [[Chou Tai-ying]] ([[Captain (association football)|c]])
+ | p7        = [[Lin Mei-chun]]
+ | p8        = [[Shieh Su-jean]]
+ | p9        = [[Wu Su-ching]]
+ | p10       = [[Huang Yu-chuan]]
+ | p11       = [[Hsu Chia-cheng]]
+ | p12       = [[Lan Lan-fen]]
+ | p13       = [[Lin Chao-chun]]
+ | p14       = [[Ko Chiao-lin]]
+ | p15       = [[Wu Min-hsun]]
+ | p16       = [[Chen Shu-chin]]
+ | p17       = [[Lin Mei-jih]]
+ | p18       = [[Lin Hui-fang]]
+ | coach     = [[Chong Tsu-pin]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:1991 FIFA Women's World Cup squad navigational boxes]]
+[[Category:Chinese Taipei FIFA Women's World Cup squad navigational boxes|1991]]
+</noinclude>

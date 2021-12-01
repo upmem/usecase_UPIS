@@ -1,0 +1,87 @@
+{{short description|Puerto Rican baseball player}}
+{{Infobox baseball biography
+|name        = Alex Claudio
+|image       = Alex Claudio pitching in Arlington in Sept 2014.jpg
+|caption     = Claudio with the Texas Rangers in 2014
+|width       =
+|team        =Free agent
+|number      = 
+|position    = [[Pitcher]]
+|birth_date  = {{Birth date and age|1992|1|31}}
+|birth_place = [[San Juan, Puerto Rico]]
+|bats        = Left
+|throws      = Left
+|debutleague = MLB
+|debutdate   = August 13
+|debutyear   = 2014
+|debutteam   = Texas Rangers
+|statyear    =2020 season
+|statleague  = MLB
+|stat1label  = [[Win–loss record (pitching)|Win–loss record]]
+|stat1value  = 15–8
+|stat2label  = [[Earned run average]]
+|stat2value  = 3.44
+|stat3label  = [[Strikeout]]s
+|stat3value  = 217
+|teams       = 
+* [[Texas Rangers (baseball)|Texas Rangers]] ({{mlby|2014}}–{{mlby|2018}})
+* [[Milwaukee Brewers]] ({{mlby|2019}}–{{mlby|2020}})
+|medaltemplates=
+{{MedalSport|Men's [[baseball]]}}
+{{Medal|Country|{{bb|PUR}}}}
+{{MedalCompetition|[[World Baseball Classic]]}}
+{{MedalSilver|[[2017 World Baseball Classic|2017 Los Angeles]]|National team}}
+}}
+'''Alexander Claudio''' (born January 31, 1992) is a Puerto Rican [[professional baseball]] [[pitcher]] who is a free agent. He has played in [[Major League Baseball]] (MLB) for the [[Texas Rangers (baseball)|Texas Rangers]] and [[Milwaukee Brewers]]. Claudio pitches in an unorthodox [[Sidearm (baseball)|sidearm]] manner.
+
+==Career==
+===Texas Rangers===
+Claudio attended Isabel Flores High School in [[Juncos, Puerto Rico]]. Claudio was drafted by the [[Texas Rangers (baseball)|Texas Rangers]] in the 27th round of the [[2010 Major League Baseball draft|2010 MLB draft]].<ref name=SA>{{cite web|url=https://theathletic.com/713640/2018/12/14/future-considerations-in-trading-alex-claudio-texas-turns-a-27th-round-draft-pick-into-a-first/|title=Future considerations: In trading Alex Claudio, Texas turns a 27th-round draft pick into a first|author=Jamey Newberg|website=[[The Athletic]]|date=December 13, 2018|accessdate=September 25, 2019}}</ref>
+
+Claudio spent his first professional season of 2010 playing for the [[AZL Rangers]] of the [[Rookie-level]] [[Arizona League]], going 0–1 with a 6.60 ERA in 15 innings.<ref name=stats>{{cite web|url=https://www.baseball-reference.com/register/player.fcgi?id=claudi001ale|title=Alex Claudio Player Page|website=[[Baseball-Reference.com]]|accessdate=September 25, 2019}}</ref> He split the 2011 season Between the AZL Rangers and the [[Spokane Indians]] of the [[Class A Short Season]] [[Northwest League]], going a combined 5–0 with a 1.91 ERA over 28 innings. He returned to the AZL Rangers in 2012, going 4–0 with a 1.79 ERA over 45 innings.<ref name=stats/> Following the 2012 season, Claudio converted from a traditional over the top pitching delivery to a [[Sidearm (baseball)|sidearm]] delivery.<ref name=SA/>
+
+Claudio played for the [[Hickory Crawdads]] of the [[Class A (baseball)|Class A]] [[South Atlantic League]] and the [[Frisco RoughRiders]] of the [[Double-A (baseball)|Double-A]] [[Texas League]] in 2013, going a combined 4–6 with a 1.83 ERA over {{frac|78|2|3}} innings.<ref name=stats/> He split the 2014 minor league season between the [[Myrtle Beach Pelicans]] of the [[Class A-Advanced]] [[Carolina League]], Frisco, and the [[Round Rock Express]] of the [[Triple-A (baseball)|Triple-A]] [[Pacific Coast League]], combining to go 6–3 with a 1.66 ERA over {{frac|91|1|3}} innings.<ref name=stats/>       
+
+The Rangers selected Claudio's contract and promoted him to the major leagues for the first time on August 13, 2014. He pitched a scoreless inning, and struck out [[Kevin Kiermaier]] for his first major league strikeout in his debut that night.<ref>{{cite web|url=https://www.mlb.com/rangers/news/rangers-place-rhp-yu-darvish-on-15-day-disabled-list/c-89465606|title=Rangers place RHP Yu Darvish on 15-day disabled list; purchase contract of LHP Alex Claudio from Triple-A Round Rock|author=John Blake|website=[[MLB.com]]|date=August 13, 2014|accessdate=September 25, 2019}}</ref> He went 0–0 with a 2.92 ERA over 12 innings for Texas in 2014.<ref name=stats/> 
+
+Claudio split the 2015 season between Texas and Round Rock.<ref name=stats/> With the Rangers, he went 1–1 with a 2.87 ERA over 15.2 innings. With Round Rock, he went 3–1 with a 2.93 ERA over 40 innings. Claudio once again split the season between Texas and Round Rock in 2016. With the Rangers, he went 4–1 with a 2.79 ERA in {{frac|51|2|3}} innings. With Round Rock, he went 0–0 with a 0.55 ERA in 16 innings.<ref name=stats/>
+
+Claudio was named the 2017 Texas Rangers Pitcher of the Year, following a season where he posted a 4–1 record with a 2.50 ERA, 56 strikeouts, and 11 saves over {{frac|82|2|3}} innings in 70 games.<ref>{{cite web|url=https://www.mlb.com/rangers/news/rangers-alex-claudio-is-pitcher-of-the-year/c-262712144|title=Claudio chosen as Rangers Pitcher of the Year|author=T.R. Sullivan|website=[[MLB.com]]|date=December 1, 2017|accessdate=November 8, 2018}}</ref><ref>{{cite web|url=https://www.mlb.com/news/rangers-alex-claudio-thrives-as-club-s-closer-c256900196|title=Claudio's 2018 role in bullpen uncertain|author=T.R. Sullivan|website=[[MLB.com]]|date=September 30, 2017|accessdate=September 25, 2019}}</ref> 
+
+In 2018, Claudio went 4–2 with a 4.48 ERA over 68 innings.<ref>{{cite web|url=https://www.nbcdfw.com/news/sports/Rangers-Send-Durable-Lefty-Alex-Claudio-to-Brewers-for-Draft-Pick-502722062.html|title=Rangers Send Durable Lefty Alex Claudio to Brewers for Draft Pick|website=[[KXAS-TV|NBC 5 DFW]]|date=December 13, 2018|accessdate=September 25, 2019}}</ref> Right-handed batters had a higher batting average against him, .359, than against all other MLB pitchers in 30 or more innings.<ref>[https://www.fangraphs.com/leaders/splits-leaderboards?splitArr=6&splitArrPitch=&position=P&autoPt=true&splitTeams=false&statType=player&statgroup=1&startDate=2018-03-01&endDate=2018-10-31&players=&filter= Splits Leaderboards | FanGraphs<!-- Bot generated title -->]</ref>
+
+===Milwaukee Brewers===
+Claudio was traded to the [[Milwaukee Brewers]] on December 13, 2018, in exchange for a competitive balance Round A draft pick.<ref>{{cite news|url=https://www.espn.com/mlb/story/_/id/25526775/milwaukee-brewers-acquire-alex-claudio-texas-rangers|title=Brewers acquire Alex Claudio, send pick to Rangers|agency=Associated Press|website=[[ESPN.com]]|date=December 13, 2018|accessdate=September 25, 2019}}</ref><ref>{{cite web|url=https://www.mlb.com/news/alex-claudio-traded-to-brewers-by-rangers-c301825932|title=Texas closes busy Meetings with Claudio trade|author=T.R. Sullivan|website=[[MLB.com]]|date=December 13, 2019|accessdate=September 25, 2019}}</ref> In 2019, he posted a 2–2 record with a 4.06 ERA over 62 innings. He led all major league pitchers in games played (83).<ref>{{cite web|url=https://www.baseball-reference.com/leagues/MLB/2019-pitching-leaders.shtml |title=2019 Major League Baseball Pitching Leaders |publisher=Baseball-Reference.com |date=1970-01-01 |accessdate=2019-10-09}}</ref> Claudio was non-tendered and became a free agent on December 2, 2019.<ref>{{cite web|url=https://www.jsonline.com/story/sports/mlb/brewers/2019/12/02/brewers-dont-tender-contracts-shaw-nelson-claudio-and-guerra/4350473002/|title=The Brewers opt not to tender 2020 contracts to Shaw, Nelson, Claudio, Guerra and Saladino|author=Tom Haudricourt|website=[[Milwaukee Journal Sentinel]]|date=December 2, 2019|accessdate=December 2, 2019}}</ref> He re-signed with Milwaukee on a one-year contract on December 9, 2019.<ref>{{cite web|url=https://www.usatoday.com/story/sports/mlb/2019/12/09/alex-claudio-brewers-agree-to-175-million-1-year-deal/40791027/|title=Alex Claudio, Brewers agree to $1.75 million, 1-year deal|author=[[The AP]]|website=[[USA Today]]|date=December 9, 2019|accessdate=December 10, 2019}}</ref>
+
+==International career==
+Claudio was a member of the 2017 [[Puerto Rico national baseball team]] in the [[2017 World Baseball Classic]].<ref>{{cite web|url=https://www.mlb.com/rangers/news/pitcher-alex-claudio-on-wbc-17-rangers-role-c215813860|title=WBC '17 could prep Claudio for Rangers role|author=T.R. Sullivan|website=[[MLB.com]]|date=February 12, 2017|accessdate=September 25, 2019}}</ref><ref>{{cite web|url=https://www.wfaa.com/article/sports/rangers-rule-world-baseball-classic-first-round/287-422442039|title=Rangers rule World Baseball Classic first round|author=WFAA Staff|website=[[WFAA|WFAA-TV Channel 8]]|date=March 14, 2017|accessdate=September 25, 2019}}</ref>  
+
+==See also==
+* [[List of Major League Baseball players from Puerto Rico]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Baseballstats|mlb=592222|espn=33628|br=c/claudal01|fangraphs=12890|brm=claudi001ale}}
+*{{Instagram|alexclaudio2412}}
+{{Puerto Rico roster 2017 World Baseball Classic}}
+
+{{DEFAULTSORT:Claudio, Alex}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:People from Juncos, Puerto Rico]]
+[[Category:Sportspeople from San Juan, Puerto Rico]]
+[[Category:Major League Baseball pitchers]]
+[[Category:Major League Baseball players from Puerto Rico]]
+[[Category:Texas Rangers players]]
+[[Category:Milwaukee Brewers players]]
+[[Category:Arizona League Rangers players]]
+[[Category:Spokane Indians players]]
+[[Category:Hickory Crawdads players]]
+[[Category:Myrtle Beach Pelicans players]]
+[[Category:Frisco RoughRiders players]]
+[[Category:Round Rock Express players]]
+[[Category:Leones de Ponce players]]
+[[Category:Indios de Mayagüez players]]
+[[Category:2017 World Baseball Classic players]]

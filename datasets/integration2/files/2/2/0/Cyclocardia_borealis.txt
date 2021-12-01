@@ -1,0 +1,19 @@
+{{Speciesbox
+| image = Cyclocardia borealis (I1814) 0385 (38330725404).jpg
+| genus = Cyclocardia
+| species = borealis
+| authority = (Conrad, 1831{{check|date=July 2012}}<!-- "1832"? -->)
+| display_parents = 3
+}}
+
+'''''Cyclocardia borealis''''', or the northern cardita, is a species of [[bivalve]] [[mollusc]] in the [[family (biology)|family]] [[Carditidae]]. It can be found along the Atlantic coast of North America, ranging from the [[Arctic Ocean]] to [[Cape Hatteras]].<ref>Abbott, R.T. & Morris, P.A. ''A Field Guide to Shells: Atlantic and Gulf Coasts and the West Indies.'' New York: Houghton Mifflin, 1995. 45.</ref>
+
+==References==
+{{Reflist}}
+{{Taxonbar|from=Q3014694}}
+
+[[Category:Carditidae]]
+[[Category:Bivalves described in 1831]]
+
+
+{{bivalve-stub}}

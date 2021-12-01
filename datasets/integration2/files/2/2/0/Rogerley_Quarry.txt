@@ -1,0 +1,67 @@
+{{Infobox protected area
+| name            = Rogerley Quarry
+| iucn_category   = 
+| iucn_ref        = 
+<!-- images -->
+| photo           = 
+| photo_caption   = 
+<!-- map -->
+| map             = United Kingdom County Durham
+| map_image       = 
+| map_size        = 243
+| map_caption     = Location of Rogerley Quarry SSSI, Co Durham
+| relief          = 1
+<!-- location -->
+| location        = [[Wear Valley]], [[North East England|North East]], England
+| nearest_city    = 
+| nearest_town    = 
+| coordinates     = {{coord|54|44|04|N|1|58|22|W|display=inline,title}}
+| coords_ref      = 
+<!-- stats --> 
+| length          = 
+| length_mi       = 
+| length_km       = 
+| width           = 
+| width_mi        = 
+| width_km        = 
+| area_ha         = 5.6
+| area_ref        = 
+| elevation       = 
+| elevation_avg   = 
+| elevation_min   = 
+| elevation_max   = 
+| dimensions      = 
+| designation     = 
+<!-- dates & info -->
+| authorized      = 
+| created         = 
+| designated      = 
+| established     = 1984
+| named_for       = 
+| visitation_num  = 
+| visitation_year = 
+| visitation_ref  = 
+| governing_body  = Natural England
+| administrator   = 
+| operator        = 
+| owner           =
+<!-- website, embedded --> 
+| website         = [http://www.natureonthemap.org.uk/map.aspx?map=sssi&feature=1001374,sssi,HYPERLINK,LABEL Map of site]
+| embedded        = 
+}}
+
+'''Rogerley Quarry''' is a [[Site of Special Scientific Interest]] in the [[Wear Valley]] district of west [[County Durham]], [[England]]. It lies on the edge of the valley of the [[River Wear]], alongside the [[A689 road]], about 1&nbsp;km upriver from the village of [[Frosterley]].
+
+The site is a disused quarry and has been designated as of national importance in the [[Geological Conservation Review]] as a key site for sedimentological studies. The quarry exhibits a long section of basal [[Namurian]] [[sandstone]]s which derive from [[riverine]] [[sedimentation]]. The quarry face intersects the ancient river channel at right angles, allowing the lateral changes in deposition across the channel to be clearly seen.<ref name="SSSI">{{cite web |url=http://www.english-nature.org.uk/citation/citation_photo/1001374.pdf |title=Rogerley Quarry |year=1984 |publisher=[[English Nature]] |accessdate=1 August 2010}}</ref>
+
+==References==
+{{reflist}}
+
+{{SSSIs County Durham}}
+
+[[Category:Sites of Special Scientific Interest in County Durham]]
+[[Category:Quarries in County Durham]]
+[[Category:Stanhope, County Durham]]
+
+{{England-SSSI-stub}}
+{{Durham-geo-stub}}

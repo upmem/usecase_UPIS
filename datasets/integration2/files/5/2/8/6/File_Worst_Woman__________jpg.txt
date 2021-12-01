@@ -1,0 +1,11 @@
+==Summary==
+{{non-free use rationale poster
+| Article = Worst Woman
+| Source = [http://movie.naver.com/movie/bi/mi/basic.nhn?code=142689 Naver]
+| Media = film
+| Use = Infobox
+| Distributor = Indiestory
+}}
+
+==Licensing==
+{{Non-free movie poster|Fair use images of movie posters|image has rationale=yes}}

@@ -1,0 +1,200 @@
+{{Use American English|date = March 2019}}
+{{Short description|Series of U.S. coins}}
+{{Use mdy dates|date = March 2019}}
+{{About||the quarters issued from 1999 to 2008|50 State quarters|the quarters issued from 2010 to the present|America the Beautiful quarters}}
+{{Infobox Coin
+|Country=United States
+|Denomination=DC and US Territories quarter
+|Value=0.25 U.S. Dollar
+|Mass=6.25(Ag); 5.67 (Cu-Ni)
+|Diameter_inch=0.955
+|Diameter=24.26
+|Thickness_inch=0.069
+|Thickness=1.75
+|Edge=119 [[reeding|reeds]]
+|Composition=91.67% [[Copper|Cu]] 8.33% [[Nickel|Ni]] (standard)<br>90% [[Silver|Ag]] 10% [[Copper|Cu]] (proof only)
+|Years of Minting=2009
+|Catalog Number=
+|Obverse=File:2006 Quarter Proof.png
+|Obverse Design=[[George Washington]]
+|Obverse Designer=[[John Flanagan (sculptor)|John Flanagan]] (1932 version) from a 1786 bust by [[Jean-Antoine Houdon|Houdon]] / [[William Cousins (coin designer)|William Cousins]] (modification to Flanagan's design)
+|Obverse Design Date=1999
+|Reverse=File:2009 NMI Proof.png
+|Reverse Design=various; six designs (latest shown)
+|Reverse Designer=various
+|Reverse Design Date=2009
+|Mint marks=[[Philadelphia Mint|P]], [[Denver Mint|D]], [[San Francisco Mint|S]] (proof only)
+}}
+The '''District of Columbia and United States Territories quarters''' were a series of [[Quarter (United States coin)|quarters]] minted by the [[United States Mint]] in 2009<ref name=mintmint>[http://www.usmint.gov/mint_programs/DCAndTerritories/index.cfm?action=progBackground U.S. Mint: District of Columbia and United States Territories Quarter Program] (Accessed 2009-01-09)</ref> to honor the [[District of Columbia]] and the unincorporated [[United States insular area]]s of [[Puerto Rico]], [[Guam]], the [[United States Virgin Islands]], [[American Samoa]], and the [[Northern Mariana Islands]]. The islands commonly grouped together as the [[United States Minor Outlying Islands]] were not featured, as the law defined the word "territory" as being limited to the areas mentioned above.<ref name="caa">{{USStatute|110|161|121|2018|2007|12|26}}) – Consolidated Appropriations Act, 2008, Division D, Title VI, §622, subsection 7. "Territory defined.--For purposes of this subsection,  the term `territory' means the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands."</ref> They followed the completion of the [[50 State Quarters]] Program. The coins used the same [[George Washington]] obverse as with the quarters of the previous 10 years. The reverse of the quarters featured a design selected by the Mint depicting the [[federal district]] and each [[U.S. territory|territory]]. Unlike on the 50 State quarters, the motto "[[E Pluribus Unum]]" preceded and was the same size as the mint date on the reverse.
+
+==Legislation==
+[[File:2009 quarters letter.jpg|thumb|A 2003 letter from Virginia Congressman [[Ed Schrock]] answering a constituent's query about the proposed program|alt=|left]]
+Although the statehood program was, by [[legislation]], originally intended to include only the 50 states, legislation (District of Columbia and United States Territories Circulating Quarter Dollar Program Act) was signed into law in late 2007 to include the remaining jurisdictions of the nation. A bill had been introduced five times in the [[United States Congress]] to extend the 50 State Quarters program an additional year to include the District of Columbia; the commonwealths of Puerto Rico and the Northern Mariana Islands; and the [[United States territories|U.S. territories]] of Guam, the U.S. Virgin Islands, and American Samoa. During the [[106th United States Congress|106th]], [[107th United States Congress|107th]], [[108th United States Congress|108th]], [[109th United States Congress|109th]], and [[110th United States Congress|110th]] Congresses, these bills had passed through the [[U.S. House of Representatives|House of Representatives]], and even had 34 Senate sponsors for the [[United States Senate|Senate]] bill during the [[108th United States Congress|108th]]; however, none of these bills were passed by the Senate.  {{USBill|109|HR|3885}}, the version in the 109th Congress, passed the House by voice vote in the early hours of December 9, 2006, just before it adjourned ''[[sine die]]''; but the Senate adjourned ''sine die'' shortly thereafter without considering the bill.   The 110th Congress version of the bill, {{USBill|110|HR|392}} was introduced on January 10, 2007 by the [[Delegate (United States Congress)|Delegate]] [[Eleanor Holmes Norton]] (D-DC) and was passed by the House of Representatives on January 23, 2007.
+
+On December 10, 2007, Puerto Rico-born Rep. [[José Enrique Serrano|José Serrano]], D-NY, attached H.R. 392's language to the Omnibus Spending Bill ({{USBill|110|HR|2764}}) that the House passed.<ref name="ganz">Ganz, David L. [http://www.numismaster.com/ta/numis/Article.jsp?ad=article&ArticleId=3547 Quarter Program Adds Territories], Numismaster.com. 2007-12-20. Accessed 2008-06-01.</ref>  The bill passed in the Senate on September 6; President George W. Bush signed the bill on December 26. The additional six coins to be minted in 2009 were expected to generate renewed interest in the series, generate over [[US dollar|$]]400 million in additional revenue to the Treasury, and lead many publishers to produce new products to accommodate the additional six coins.  H.R. 2764 also moved the "[[In God We Trust]]" from the edge to the obverse or reverse of the [[Presidential $1 Coin Program]].<ref name="ganz"/><ref>{{USStatute|110|161|121|2018|2007|12|26}}) – Consolidated Appropriations Act, 2008, Division D, Title VI, §623, subsection A.</ref>
+
+The 1997 act that authorized the statehood quarter program had originally provided that if the federal district, or any of the territories or commonwealths, became states before 2009, that new state would get a quarter.<ref>{{USStatute|105|124|111|2534|1997|12|01}}) – 50 States Commemorative Coin Program Act, §3, subsection 7. "If any additional State is admitted into the Union before the end of the 10-year period referred to in paragraph (1), the Secretary of the Treasury may issue quarter dollar coins, in accordance with this subsection, with a design which is emblematic of such State during any 1 year of such 10-year period, in addition to the quarter dollar coins issued during such year in accordance with paragraph (3)(A)."</ref>
+
+==Designs==
+<onlyinclude>
+{| class="wikitable sortable"
+|- style="white-space: nowrap;"
+<includeonly>
+! class="unsortable" | Year
+! data-sort-type="number"| No.
+</includeonly>
+! <noinclude>rowspan="2"|</noinclude>Federal district<br/>or Territory
+! <noinclude>rowspan="2"|</noinclude>Release date<br><small>''(territory date)''</small>
+! <noinclude>colspan="3"|</noinclude>Mintage<ref name="usmint">{{cite web|url=http://www.usmint.gov/about_the_mint/coin_production/?action=production_figures |title=Mintage figures: United States Mint |publisher=Usmint.gov |date=2013-06-16 |accessdate=2013-08-02}}</ref>
+! class="unsortable"<includeonly>|</includeonly><noinclude> rowspan="2"|</noinclude>Design
+! class="unsortable"<includeonly>|</includeonly><noinclude> rowspan="2"|</noinclude>Elements depicted
+! <noinclude>rowspan="2"|</noinclude>Engraver
+|-
+<noinclude>
+! Denver
+! Philadelphia
+! Total
+</noinclude>
+|- style="text-align:center;"
+<includeonly>
+| rowspan="6" style="background:#008081;"| 2009
+| 51
+</includeonly>
+| <noinclude>{{flag|District of Columbia}}</noinclude><includeonly>[[District of Columbia]]</includeonly>
+| data-sort-value="1" | January 26, 2009<ref>[http://www.statequarterguide.com/2009-district-of-columbia-quarter/ District of Columbia Quarter] Guide to the 50 State Quarters Program</ref><br><small>''(July 16, 1790)''</small>
+<noinclude>
+| 88,800,000
+| 83,600,000
+</noinclude>
+| 172,400,000
+| [[File:2009 DC Proof.png|150px|District of Columbia quarter]]
+| [[Duke Ellington]] seated at a grand piano.<br>Caption: "Duke Ellington" and "Justice for all"
+| {{sortname|Don|Everhart|nolink=1}}
+|- style="text-align:center;"
+<includeonly>
+| 52
+</includeonly>
+| <noinclude>{{flag|Puerto Rico}}</noinclude><includeonly>[[Puerto Rico]]</includeonly>
+| data-sort-value="2" | March 30, 2009<ref>[http://www.statequarterguide.com/2009-puerto-rico-quarter/ Puerto Rico Quarter] Guide to the 50 State Quarters Program</ref><br><small>''(December 10, 1898)''</small>
+<noinclude>
+| 86,000,000
+| 53,200,000
+</noinclude>
+| 139,200,000
+| [[File:2009 PR Proof.png|150px|Puerto Rico quarter]]
+| A sentry box at [[Castillo San Felipe del Morro]] and a [[Thespesia grandiflora|maga]] flower.<ref>Ganz, David (2008). [https://books.google.com/books?id=XP_LzbCC8mEC&pg=PA234&lpg=PA234&dq=puerto+rico+%2B+quarter+%2B+maga&source=bl&ots=F0NDnqjWLY&sig=zCKtAA3Wah5RODVajenOgzgEpEQ&hl=en&sa=X&ei=7ExuVbW5DIvYtQW2kYDYAQ&ved=0CGMQ6AEwDQ#v=onepage&q=puerto%20rico%20%2B%20quarter%20%2B%20maga&f=false ''America's State Quarters: The Definitive Guidebook to Collecting State Quarters''], House of Collectibles, p.234. Retrieved June 2, 2015.</ref><br>Caption: "Isla del Encanto" (Island of enchantment)
+| {{sortname|Joseph F.|Menna|nolink=1}}
+|- style="text-align:center;"
+<includeonly>
+| 53
+</includeonly>
+| <noinclude>{{flag|Guam}}</noinclude><includeonly>[[Guam]]</includeonly>
+| data-sort-value="3" | May 26, 2009<ref>[http://www.statequarterguide.com/2009-guam-quarter/ Guam Quarter] Guide to the 50 State Quarters Program</ref><br><small>''(December 10, 1898)''</small>
+<noinclude>
+| 42,600,000
+| 45,000,000
+</noinclude>
+| 87,600,000
+| [[File:2009 GU Proof.png|150px|Guam quarter]]
+| An outline of the island, a [[proa]] boat, and a [[latte stone]].<br>Caption: "Guahan I Tanó ManChamorro" (Guam, land of the [[Chamorro people|Chamorro]])
+| {{sortname|Jim|Licaretz|nolink=1}}
+|- style="text-align:center;"
+<includeonly>
+| 54
+</includeonly>
+| <noinclude>{{flag|American Samoa}}</noinclude><includeonly>[[American Samoa]]</includeonly>
+| data-sort-value="4" | July 27, 2009<ref>[http://www.statequarterguide.com/2009-american-samoa-quarter/ American Samoa Quarter] Guide to the 50 State Quarters Program</ref><br><small>''(April 17, 1900)''</small>
+<noinclude>
+| 39,600,000
+| 42,600,000
+</noinclude>
+| 82,200,000
+| [[File:2009 AS Proof.png|150px|American Samoa quarter]]
+| An [[Samoa 'ava ceremony|ava bowl]], whisk and staff in the foreground with a coconut tree on the shore in the background.<br>Caption: "Samoa Muamua le Atua" (Samoa, God is first)
+| {{sortname|Charles L.|Vickers|nolink=1}}
+|- style="text-align:center;"
+<includeonly>
+| 55
+</includeonly>
+| <noinclude>{{flag|U.S. Virgin Islands}}</noinclude><includeonly>[[U.S. Virgin Islands]]</includeonly>
+| data-sort-value="5" | September 28, 2009<ref>[http://www.statequarterguide.com/2009-virgin-islands-quarter/ US Virgin Islands Quarter] Guide to the 50 State Quarters Program</ref><br><small>''(March 31, 1917)''</small>
+<noinclude>
+| 41,000,000
+| 41,000,000
+</noinclude>
+| 82,000,000
+| [[File:2009 USVI Proof.png|150px|U.S. Virgin Islands quarter]]
+| An outline of the three major islands, the [[bananaquit]], the yellow cedar or yellow elder, and a [[Coccothrinax alta|tyre palm]] tree.<br>Caption: "United in Pride and Hope"
+| {{sortname|Joseph F.|Menna|nolink=1}}
+|- style="text-align:center;"
+<includeonly>
+| 56
+</includeonly>
+| <noinclude>{{flag|Northern Mariana Islands}}</noinclude><includeonly>[[Northern Mariana Islands]]</includeonly>
+| data-sort-value="6" | November 30, 2009<ref>[http://www.statequarterguide.com/2009-northern-mariana-islands-quarter/ Northern Mariana Islands Quarter] Guide to the 50 State Quarters Program</ref><br><small>''(March 24, 1976)''</small>
+<noinclude>
+| 37,600,000
+| 35,200,000
+</noinclude>
+| 72,800,000
+| [[File:2009 NMI Proof.png|150px|Northern Mariana Islands quarter]]
+| Near the shore stand a large limestone [[latte stone|latte]], a canoe of the indigenous [[Carolinian people|Carolinians]], two white [[fairy tern]]s, and a mwar (head [[lei (garland)|lei]]).
+| {{sortname|Phebe|Hemphill|nolink=1}}
+|}</onlyinclude>
+
+==Additional notes on individual designs==
+
+===District of Columbia===
+On February 1, 2008, [[Adrian Fenty|Adrian M. Fenty]], the [[Mayor of the District of Columbia]], established a committee whose purpose was to advise the Mayor on the development of a reverse side design concept for the 2009 District of Columbia  commemorative quarter dollar coin that would be representative of the District. The committee would solicit and collect public input on the design concept and would compile the input into two or three narratives describing concepts for the coin.  The committee would then submit the narratives to the United States Mint in accordance with the schedule that the Mint had prescribed.<ref>{{cite web|last=Fenty|first=Adrian M.|authorlink=Adrian Fenty|archiveurl=https://web.archive.org/web/20100602064253/http://newsroom.dc.gov/show.aspx?agency=os&section=2&release=12825&year=2008&month=2&file=file.aspx%2frelease%2f12825%2fMayor%2520Order%2520Design%2520of%2520DC%2520Quarter%2520Dollar%2520Coin.pdf|archivedate=2010-02-06|url=http://newsroom.dc.gov/show.aspx?agency=os&section=2&release=12825&year=2008&month=2&file=file.aspx%2frelease%2f12825%2fMayor%2520Order%2520Design%2520of%2520DC%2520Quarter%2520Dollar%2520Coin.pdf|date=2008-02-01|title=Design of the District of Columbia Quarter Dollar Coin|work=Mayor's Order 2008-21|publisher=Newsroom, Government of the District of Columbia|url-status=dead}}</ref><ref name=MintDC>{{cite web|url=https://www.usmint.gov/coins/coin-medal-programs/dc-and-us-territories/district-of-columbia|title=District of Columbia Quarter|work=Coin and Medal Programs: D.C. and U.S. Territories Quarters|publisher=[[United States Mint]]|date=2016-06-01|accessdate=2018-01-15}}{{cite web|url=https://www.usmint.gov/coins/coin-medal-programs/dc-and-us-territories/district-of-columbia|title=District of Columbia Quarter|work=Coin and Medal Programs: D.C. and U.S. Territories Quarters|publisher=[[United States Mint]]|date=2016-06-01|accessdate=2018-01-15}}</ref>
+
+On February 25, 2008, the District's government submitted to the Mint three design narratives for the District's quarter: one with the District's [[Flag of the District of Columbia|flag]], one depicting [[Benjamin Banneker]], and one depicting [[Duke Ellington]].<ref name="dc1">{{cite news|url=https://os.dc.gov/sites/default/files/dc/sites/os/publication/attachments/OS_DC_Quarter_Design_Narratives.pdf|title=District of Columbia Quarter Dollar Coin Design Narratives: Letter from Adrian M. Fenty, Mayor of the District of Columbia to Edmund C. Moy, Director, United States Mint|publisher=[[Government of the District of Columbia]]: [[Secretary of the District of Columbia|Office of the Secretary]]|date=February 25, 2008|accessdate=September 19, 2020}} {{webarchive|url=https://web.archive.org/web/20161229195153/https://os.dc.gov/sites/default/files/dc/sites/os/publication/attachments/OS_DC_Quarter_Design_Narratives.pdf|date=December 29, 2016}}</ref> The District suggested that each of the three designs include either the words "Taxation Without Representation" or "No Taxation Without Representation",<ref name="dc1"/> both of which refer to the District's efforts to obtain [[District of Columbia voting rights|full representation in Congress]].<ref name="post">{{cite news |first=Paul |last=Duggan |title=Mint Rejects Voting Rights Message |work=The Washington Post |date=2008-02-28 |page=B03 |url=https://www.washingtonpost.com/wp-dyn/content/article/2008/02/27/AR2008022703445.html }}</ref> 
+
+The Mint rejected both messages because of its prohibition against printing controversial inscriptions on coins.<ref name="post"/><ref>{{cite web |url=http://dcist.com/2008/02/27/breaking_us_min.php |title=BREAKING: U.S. Mint Rejects D.C. Quarter Design |publisher=DCist |date= |accessdate=2013-08-02 |url-status=dead |archiveurl=https://web.archive.org/web/20120320054031/http://dcist.com/2008/02/27/breaking_us_min.php |archivedate=2012-03-20 |df= }}</ref> The Mint stated that, while it takes no stance on the voting rights of the District, it considers the messages to be controversial because there is currently "no national consensus" on the issue.<ref name="post"/> 
+
+In response, the District revised its designs for the quarter, replacing the text with "JUSTICE FOR ALL",<ref name="dc2">(1) {{cite web|title=Revised District of Columbia Quarter Dollar Coin Design and Narratives: Office of the Secretary of the District of Columbia: Letter from Adrian M. Fenty, Mayor of the District of Columbia to Edmund C. Moy, Director, United States Mint|work=News Release|publisher=Newsroom, Government of the District of Columbia|date=2008-02-28|url=http://newsroom.dc.gov/show.aspx?agency=os&section=2&release=12831&year=2008&file=file.aspx%2frelease%2f12831%2fNarratives%2520and%2520Letter%2520Revised.pdf|archiveurl=https://web.archive.org/web/20080411050056/http://newsroom.dc.gov/show.aspx?agency=os&section=2&release=12831&year=2008&file=file.aspx%2frelease%2f12831%2fNarratives%2520and%2520Letter%2520Revised.pdf|archivedate=2008-04-11}}<br>(2) {{cite web|url=https://os.dc.gov/sites/default/files/dc/sites/os/publication/attachments/OS_DC_Quarter_Design_Revised_Naratives.pdf|title=District of Columbia Quarter Dollar Coin Design Revised Narratives|page=2|publisher=[[Government of the District of Columbia]]: [[Secretary of the District of Columbia|Office of the Secretary]]|date=March 3, 2008|accessdate=September 19, 2020}} {{webarchive|url=https://web.archive.org/web/20161229195044/https://os.dc.gov/sites/default/files/dc/sites/os/publication/attachments/OS_DC_Quarter_Design_Revised_Naratives.pdf|date=December 29, 2016}}.</ref> which is an English translation of the District's motto, "JUSTITIA OMNIBUS" (see [[Seal of the District of Columbia]]).<ref name="post"/><ref>{{cite web|url=https://www.merriam-webster.com/dictionary/justitia%20omnibus|title=justitia omnibus.|work=Merriam-Webster Online Dictionary|year=2018|accessdate=2018-01-18|quote=Definition of justitia omnibus: justice for all — motto of the District of Columbia|archive-url=https://web.archive.org/web/20090424103624/https://www.merriam-webster.com/dictionary/justitia%20omnibus|archive-date=April 24, 2009|url-status=dead}}</ref> The District also changed the design with the District's flag to a design depicting [[Frederick Douglass]] and revised the narratives for the Banneker and Ellington designs.<ref name="dc2"/> The Mint then released for review images of artist renderings for each of the three designs.<ref>{{cite web|url=http://www.coinnews.net/2008/06/04/washington-dc-quarter-designs-ready-public-asked-to-vote-for-favorite-4147/|title=Washington DC Quarter Design Images Released, Public Asked to Vote for Favorite|date=2008-06-04|accessdate=2018-01-15|publisher=CoinNews.net|archive-url=https://web.archive.org/web/20180115230136/http://www.coinnews.net/2008/06/04/washington-dc-quarter-designs-ready-public-asked-to-vote-for-favorite-4147/|archive-date=January 15, 2018|url-status=dead}}</ref> 
+
+Following a vote by District residents, Mayor Fenty recommended that the Mint select the design that depicted Duke Ellington, while expressing the District's disappointment that the Mint had disallowed the phrase "Taxation Without Representation".<ref>{{cite web|last=Fenty|first=Adrian M. |date=2008-06-19 |url=https://os.dc.gov/sites/default/files/dc/sites/os/publication/attachments/OS_Recommendation_Letter_to_the_%20US_Mint_June_19_2008.pdf|title=Recommendation Letter to the U.S. Mint|publisher=[[Government of the District of Columbia]]: [[Secretary of the District of Columbia|Office of the Secretary]]|accessdate=2018-01-15}} {{webarchive|url=https://web.archive.org/web/20180115223440/https://os.dc.gov/sites/default/files/dc/sites/os/publication/attachments/OS_Recommendation_Letter_to_the_%20US_Mint_June_19_2008.pdf |archivedate=January 15, 2018}}</ref> [[United States Secretary of the Treasury|The Secretary of the Treasury]] approved the design on July 31, 2008.<ref name=MintDC/>
+
+===Puerto Rico===
+The [[Senate of Puerto Rico]] approved a resolution in June 2008, co-sponsored by Senate President [[Kenneth McClintock]] and Senate Minority Leader [[José Luis Dalmau]], urging the United States Mint to select an image of the [[Arecibo Observatory]] for Puerto Rico's commemorative quarter. On December 15, 2008, U.S. Representative [[José Enrique Serrano|José Serrano]] of New York released the winning design, the second option developed by the United States Mint.<ref>{{cite web |url=http://www.elnuevodia.com/diario/noticia/politica/noticias/la_peseta_boricua/505559 |title=Archived copy |accessdate=2009-01-09 |url-status=dead |archiveurl=https://web.archive.org/web/20081219030546/http://www.elnuevodia.com/diario/noticia/politica/noticias/la_peseta_boricua/505559 |archivedate=2008-12-19 |df= }}</ref>  This design depicts a [[bartizan]] (sentry turret) and a view of the ocean from [[Old San Juan, Puerto Rico|Old San Juan]], a [[Thespesia grandiflora|Flor de Maga]] (Maga tree flower), and the motto "Isla del Encanto", meaning "Island of Enchantment".  The Puerto Rico quarter was the first U.S. coin with an inscription in [[Spanish language|Spanish]].<ref>Associated Press (April 3, 2009). [http://www.nydailynews.com/latino/2009/04/03/2009-04-03_puerto_rico_gets_some_change_us_mint_unv.html "Puerto Rico Gets Some Change: U.S. Mint Unveils Coin with Spanish Inscription"], [[Daily News (New York)|New York Daily News]]. Accessed December 26, 2010.</ref>
+
+===Guam===
+Pictured on the [[Guam]] quarter are the shape of the island of Guam, a [[proa]] boat, and a [[latte stone]] pillar.  The inscription "Guahan I Tanó ManChamorro" means "Guam, Land of the [[Chamorro people|Chamorro]]" in the [[Chamorro language]].<ref>[http://www.usmint.gov/mint_programs/dcandterritories/index.cfm?action=dcterritories&local=gu Guam Quarter], United States Mint. Accessed December 27, 2010.</ref>
+
+===American Samoa===
+The quarter for [[American Samoa]] shows an [[Samoa 'ava ceremony|ava bowl]], a ''fue'' whisk and ''to'oto'o'' staff (symbols of [[fa'amatai|traditional authority]]), and a view of the coastline showing a [[coconut]] tree.  Inscribed on the coin is the motto of American Samoa, "Samoa Muamua Le Atua", which means "Samoa, God is First" in [[Samoan language|Samoan]].<ref>[http://www.usmint.gov/mint_programs/DCAndTerritories/?action=DCterritories&local=AS American Samoa Quarter], United States Mint. Accessed December 27, 2010.</ref> The [[seal of American Samoa]] has similar imagery.
+
+===U.S. Virgin Islands===
+Pictured on the [[United States Virgin Islands|U.S. Virgin Islands]] quarter are the outlines of the islands of [[Saint Croix, U.S. Virgin Islands|Saint Croix]], [[Saint Thomas, U.S. Virgin Islands|Saint Thomas]], and [[Saint John, U.S. Virgin Islands|Saint John]], a [[Arecaceae|palm tree]], a [[bananaquit]], and a [[Callitropsis nootkatensis|yellow cypress]] flower, along with the motto "United in Pride and Hope".<ref>[http://www.usmint.gov/mint_programs/dcandterritories/?action=dcterritories&local=VI U.S. Virgin Islands Quarter], United States Mint. Accessed December 27, 2010.</ref>
+
+===Northern Mariana Islands===
+The quarter for the [[Northern Mariana Islands]] depicts the sea shore, with a [[latte stone]], two [[fairy tern]]s, a [[Carolinian people|Carolinian]] [[canoe]], and a ''mwar'' (head [[lei (Hawaii)|lei]]).<ref>[http://www.usmint.gov/mint_programs/dcandterritories/?action=dcterritories&local=MI Northern Mariana Islands Quarter], United States Mint. Accessed December 27, 2010.</ref>
+
+==See also==
+{{Portal|Money|Numismatics|United States}}
+*[[America the Beautiful quarters]]
+*[[50 State quarters]]
+*[[Native American dollar]]
+*[[Presidential dollar coins]]
+*[[American Innovation dollars]]
+*[[€2 commemorative coins#German Bundesländer series|''Bundesländer'' series]], a 2006–2021 series of 16 coins for the German states
+*[[Quarter (Canadian coin)#125th Anniversary of Confederation|Anniversary of Confederation series]] a 1992 series of 12 quarters each of the Canadian provinces and territories (the territory of [[Nunavut]] was created in 1999)
+
+==References==
+{{Reflist|30em}}
+
+
+{{s-start}}
+{{succession box | title=District of Columbia and United States Territories Quarters <br>(2009)
+| after=''[[America the Beautiful Quarters]]'' | before=[[50 State Quarters]] |years=}}
+{{s-end}}
+{{United States circulating coinage}}{{George Washington}}
+{{Coinage (United States)|state=expanded}}{{US commemorative coinage (2000s)}}
+[[Category:United States Mint]]
+[[Category:2009 in the United States]]
+[[Category:Twenty-five-cent coins of the United States]]
+[[Category:Currencies introduced in 2009]]
+[[Category:Circulating commemorative coins of the United States]]
+[[Category:Monuments and memorials to George Washington in the United States]]
+[[Category:Ships on coins]]
+[[Category:Birds on coins]]

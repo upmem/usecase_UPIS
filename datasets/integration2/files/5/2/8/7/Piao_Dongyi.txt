@@ -1,0 +1,30 @@
+{{short description|Chinese alpine skier}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox sportsperson
+| name           = Piao Dongyi
+| full_name      = 
+| image          = 
+| caption        = 
+| nationality    = Chinese
+| sport          = [[Alpine skiing]]
+| birth_date     = {{birth date and age|1947|5|11|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+}}
+
+'''Piao Dongyi''' (born 11 May 1947) is a Chinese [[Alpine skiing|alpine skier]]. He competed in [[Alpine skiing at the 1980 Winter Olympics|two events]] at the [[1980 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/pi/piao-dongyi-1.html |archive-url=https://web.archive.org/web/20200418090419/https://www.sports-reference.com/olympics/athletes/pi/piao-dongyi-1.html |url-status=dead |archive-date=18 April 2020 |title=Piao Dongyi Olympic Results |accessdate=20 March 2018}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Piao, Dongyi}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Chinese male alpine skiers]]
+[[Category:Olympic alpine skiers of China]]
+[[Category:Alpine skiers at the 1980 Winter Olympics]]
+[[Category:Place of birth missing (living people)]]
+{{PRChina-alpine-skiing-bio-stub}}

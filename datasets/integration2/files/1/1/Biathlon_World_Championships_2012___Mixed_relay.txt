@@ -1,0 +1,72 @@
+{{Biathlon World Championships 2012}}
+The mixed relay competition of the [[Biathlon World Championships 2012]] was held on March 1, 2012, starting at 15:30 local time.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/MXRL/BT_C51B2_1.0.pdf Start list]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Defending champions Norway won the event ahead of silver medalist Slovenia and third placed Germany.
+
+Although Slovenia crossed the finish line 8.2 seconds in front of Norway, the jury awarded bonus seconds for the Norwegians because one target did not go down despite Bjoerndalen hitting it, therefore taking an additional penalty loop, which put them ahead of Slovenia into the first place.<ref>{{cite web|url=https://sports.yahoo.com/olympics/news?slug=ap-biathlonworlds|title=Norway wins mixed relay gold at biathlon worlds|publisher=Yahoo! Sports|work=Associated Press|date=1 March 2012|accessdate=1 March 2012}}</ref>
+
+== Results ==
+The race started at 15:30.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/MXRL/BT_C73C_1.0.pdf Final Results] {{webarchive|url=https://web.archive.org/web/20140202105312/http://docs.biathlonresults.com/1112/BT/SWRL/CH__/MXRL/BT_C73C_1.0.pdf |date=2014-02-02 }}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Bib !! Team !! Time  !! Penalties (P+S) !! Deficit
+|-
+| {{gold01}} || 20 || align=left| {{NOR}}<br><small>[[Tora Berger]]<br>[[Synnøve Solemdal]]<br>[[Ole Einar Bjørndalen]]<br>[[Emil Hegle Svendsen]]</small> || '''1:12:29.3'''<br>16:29.1<br>17:42.8<br>19:38.5<br>18:38.9<br> || '''0+3 0+7'''<br>0+0 0+0<br>0+1 0+3<br>0+2 0+2<br>0+0 0+2 || {{sort|0.0|}}
+|-
+| {{silver02}} || 19 || align=left| {{SVN}}<br><small>[[Andreja Mali]]<br>[[Teja Gregorin]]<br>[[Klemen Bauer]]<br>[[Jakov Fak]]</small> || '''1:12:49.5'''<br>18:04.2<br>16:58.1<br>19:04.4<br>18:42.8 || '''0+5 0+2'''<br>0+1 0+0<br>0+1 0+0<br>0+3 0+2<br>0+0 0+0 || +20.2
+|-
+| {{bronze03}} || 4 || align=left| {{GER}}<br><small>[[Andrea Henkel]]<br>[[Magdalena Neuner]]<br>[[Andreas Birnbacher]]<br>[[Arnd Peiffer]]</small> || '''1:13:02.1'''<br>17:43.8<br>16:46.6<br>18:37.6<br>19:54.1 || '''0+4 1+6'''<br>0+2 0+1<br>0+1 0+2<br>0+0 0+0<br>0+1 1+3 || +32.8
+|-
+| {{sort|04|4}} || 7 || align=left| {{SWE}}<br><small>[[Anna Maria Nilsson]]<br>[[Helena Ekholm]]<br>[[Björn Ferry]]<br>[[Fredrik Lindström (biathlete)|Fredrik Lindström]]</small> || '''1:13:29.3'''<br>18:26.3<br>16:36.7<br>19:20.1<br>19:06.2 || '''0+4 0+5'''<br>0+1 0+2<br>0+0 0+0<br>0+2 0+1<br>0+1 0+2 || +1:00.0
+|-
+| {{sort|05|5}} || 2 || align=left| {{RUS}}<br><small>[[Olga Vilukhina]]<br>[[Olga Zaitseva]]<br>[[Dmitry Malyshko]]<br>[[Anton Shipulin]]</small> || '''1:13:57.0'''<br>17:51.2<br>17:11.2<br>19:16.5<br>19:38.1 || '''0+2 0+3'''<br>0+0 0+0<br>0+0 0+2<br>0+1 0+1<br>0+1 0+0 || +1:27.7
+|-
+| {{sort|06|6}} || 10 || align=left| {{BLR}}<br><small>[[Nadezhda Skardino]]<br>[[Darya Domracheva]]<br>[[Sergey Novikov (biathlete)|Sergey Novikov]]<br>[[Evgeny Abramenko]]</small> || '''1:14:22.2'''<br>18:04.6<br>17:03.5<br>19:15.3<br>19:58.8 || '''0+3 0+4'''<br>0+0 0+1<br>0+2 0+2<br>0+0 0+0<br>0+1 0+1 || +1:52.9
+|-
+| {{sort|07|7}} || 6 || align=left| {{SVK}}<br><small>[[Jana Gereková]]<br>[[Anastasiya Kuzmina]]<br>[[Matej Kazár]]<br>[[Dušan Šimočko]]</small> || '''1:14:25.6'''<br>17:32.7<br>17:24.0<br>19:47.5<br>19:41.4 || '''0+6 0+4'''<br>0+0 0+2<br>0+2 0+1<br>0+3 0+1<br>0+1 0+0 || +1:56.3
+|-
+| {{sort|08|8}} || 5 || align=left| {{CZE}}<br><small>[[Veronika Vítková]]<br>[[Barbora Tomešová]]<br>[[Ondřej Moravec]]<br>[[Michal Šlesingr]]</small> || '''1:14:25.7'''<br>17:38.7<br>17:47.4<br>19:44.9<br>19:14.7 || '''0+8 0+6'''<br>0+2 0+1<br>0+2 0+0<br>0+3 0+3<br>0+1 0+2 || +1:56.4
+|-
+| {{sort|09|9}} || 8 || align=left| {{ITA}}<br><small>[[Michela Ponza]]<br>[[Katja Haller]]<br>[[Markus Windisch]]<br>[[Lukas Hofer]]</small> || '''1:14:26.4'''<br>17:58.0<br>17:54.5<br>19:45.4<br>18:48.5 || '''0+6 0+2'''<br>0+1 0+0<br>0+1 0+0<br>0+3 0+2<br>0+1 0+0 || +1:57.1
+|-
+| 10 || 22 || align=left| {{SUI}}<br><small>[[Elisa Gasparin]]<br>[[Selina Gasparin]]<br>[[Benjamin Weger]]<br>[[Simon Hallenbarter]]</small> || '''1:14:54.9'''<br>18:15.9<br>17:39.3<br>19:42.6<br>19:17.1 || '''0+6 0+5'''<br>0+1 0+1<br>0+1 0+2<br>0+2 0+2<br>0+2 0+0 || +2:25.6
+|-
+| 11 || 1 || align=left| {{FRA}}<br><small>[[Marie-Laure Brunet]]<br>[[Marie Dorin]]<br>[[Simon Fourcade]]<br>[[Martin Fourcade]]</small> || '''1:15:06.9'''<br>17:22.2<br>17:01.0<br>21:15.9<br>19:27.8 || '''0+5 1+7'''<br>0+0 0+1<br>0+0 0+0<br>0+3 1+3<br>0+2 0+3 || +2:37.6
+|-
+| 12 || 9 || align=left| {{USA}}<br><small>[[Sara Studebaker]]<br>[[Susan Dunklee]]<br>[[Tim Burke (biathlete)|Tim Burke]]<br>[[Lowell Bailey]]</small> || '''1:15:08.7'''<br>19:00.2<br>17:30.4<br>19:25.6<br>19:12.5 || '''0+2 1+7'''<br>0+0 1+3<br>0+1 0+2<br>0+1 0+2<br>0+0 0+0 || +2:39.4
+|-
+| 13 || 13 || align=left| {{POL}}<br><small>[[Krystyna Guzik|Krystyna Pałka]]<br>[[Weronika Nowakowska-Ziemniak]]<br>[[Tomasz Sikora]]<br>[[Krzysztof Plywaczyk]]</small> || '''1:15:19.6'''<br>18:04.2<br>17:46.2<br>19:35.4<br>19:53.8 || '''0+0 0+6'''<br>0+0 0+3<br>0+0 0+2<br>0+0 0+0<br>0+0 0+1 || +2:50.3
+|-
+| 14 || 3 || align=left| {{UKR}}<br><small>[[Natalya Burdyga]]<br>[[Vita Semerenko]]<br>[[Andriy Deryzemlya]]<br>[[Serhiy Semenov]]</small> || '''1:15:45.8'''<br>18:04.1<br>18:22.1<br>19:34.5<br>19:45.1 || '''1+8 0+4'''<br>0+1 0+1<br>1+3 0+0<br>0+2 0+1<br>0+2 0+2 || +3:16.5
+|-
+| 15 || 14 || align=left| {{EST}}<br><small>[[Kadri Lehtla]]<br>[[Eveli Saue]]<br>[[Indrek Tobreluts]]<br>[[Roland Lessing]]</small> || '''1:16:10.6'''<br>18:04.5<br>18:26.8<br>20:16.7<br>19:22.6 || '''0+2 2+7'''<br>0+1 0+2<br>0+1 0+2<br>0+0 2+3<br>0+0 0+0 || +3:41.3
+|-
+| 16 || 11 || align=left| {{FIN}}<br><small>[[Kaisa Mäkäräinen]]<br>[[Mari Laukkanen]]<br>[[Ahti Toivanen]]<br>[[Jarkko Kauppinen]] </small>|| '''1:16:31.8'''<br>17:38.5<br>18:50.1<br>19:25.8<br>20:37.4 || '''1+5 1+8'''<br>0+2 0+2<br>1+3 0+2<br>0+0 0+1<br>0+0 1+3 || +4:02.5
+|-
+| 17 || 15 || align=left| {{JPN}}<br><small>[[Fuyuko Suzuki]]<br>[[Itsuka Owada]]<br>[[Kazuya Inomata]]<br>[[Junji Nagai]]</small> || '''1:16:52.4'''<br>18:22.5<br>18:21.8<br>20:11.7<br>19:56.4 || '''0+7 0+3'''<br>0+1 0+3<br>0+3 0+0<br>0+2 0+0<br>0+1 0+0 || +4:23.1
+|-
+| 18 || 18 || align=left| {{CAN}}<br><small>[[Megan Imrie]]<br>[[Zina Kocher]]<br>[[Jean-Philippe Leguellec]]<br>[[Nathan Smith (biathlete)|Nathan Smith]]</small> || '''1:17:35.8'''<br>18:57.4<br>19:35.3<br>19:20.0<br>19:43.1 || '''0+4 3+8'''<br>0+2 0+2<br>0+0 3+3<br>0+0 0+1<br>0+2 0+2 || +5:06.5
+|-
+| 19 || 24 || align=left| {{ROU}}<br><small>[[Éva Tófalvi]]<br>[[Luminita Piscoran]]<br>[[Stefan Gavrila]]<br>[[Laurentiu Vamanu]]</small> || '''1:18:32.4'''<br>17:45.0<br>18:00.7<br>21:09.7<br>21:37.0 || '''0+3 1+8'''<br>0+0 0+1<br>0+0 0+2<br>0+2 1+3<br>0+1 0+2 || +6:03.1
+|-
+| 20 || 23 || align=left| {{KAZ}}<br><small>[[Darya Usanova]]<br>[[Elena Khrustaleva]]<br>[[Yan Savitskiy]]<br>[[Alexsandr Chervyhkov]]</small> || '''1:18:36.1'''<br>19:15.0<br>18:25.6<br>19:51.1<br>21:04.4 || '''0+8 0+6'''<br>0+3 0+1<br>0+0 0+0<br>0+2 0+2<br>0+3 0+3 || +6:06.8
+|-
+| 21 || 21 || align=left| {{AUT}}<br><small>[[Iris Waldhuber]]<br>[[Ramona Düringer]]<br>[[Friedrich Pinter]]<br>[[Christoph Sumann]]</small> || '''1:23:38.1'''<br>24:47.6<br>19:14.9<br>20:15.9<br>19:19.7 || '''1+5 0+4'''<br>0+0 0+1<br>0+2 0+1<br>0+3 0+2<br>1+0 0+0 || +11:08.8
+|-
+| (22) || 12 || align=left| {{BUL}}<br><small>[[Emilia Yordanova]]<br>[[Nina Klenovska]]<br>[[Krasimir Anev]]<br>[[Michail Kletcherov]]</small> || '''LAP'''<br>20:09.1<br>18:47.8<br>20:33.6<br><br> || '''1+5 1+8'''<br>1+3 0+3<br>0+2 0+0<br>0+0 1+3<br>0+0 0+2 || 
+|-
+| (23) || 26 || align=left| {{LAT}}<br><small>[[Žanna Juškāne]]<br>[[Baiba Bendika]]<br>[[Artūrs Koļesņikovs]]<br>[[Rolands Pužulis]]</small> || '''LAP'''<br>19:37.7<br>19:48.8<br>20:45.5<br><br> || '''0+3 0+5'''<br>0+1 0+3<br>0+1 0+0<br>0+1 0+2<br>0+0 0+0 || 
+|-
+| (24) || 25 || align=left| {{Nowrap|{{flag|Great Britain}}}}<br><small>[[Amanda Lightfoot]]<br>[[Adele Walker]]<br>[[Lee-Steve Jackson]]<br>[[Pete Beyer]]</small> || '''LAP'''<br>18:43.8<br>20:30.2<br>20:47.8<br><br> || '''0+8 2+11'''<br>0+1 0+2<br>0+3 2+3<br>0+2 0+3<br>0+2 0+3 || 
+|-
+| (25) || 16 || align=left| {{LTU}}<br><small>[[Natalija Kocergina]]<br>[[Aliona Sabaliauskiene]]<br>[[Tomas Kaukėnas]]<br>[[Karolis Zlatkauskas]]</small> || '''LAP'''<br>20:22.8<br>21:06.5<br>19:57.7<br><br> || '''1+7 0+6'''<br>1+3 0+3<br>0+2 0+0<br>0+1 0+1<br>0+1 0+2 || 
+|-
+| (26) || 17 || align=left| {{CHN}}<br>[[Tang Jialin]]<br>[[Song Chaoqing]]<br>[[Ren Long]]<br>[[Chen Haibin]] || '''LAP'''<br>19:58.9<br>20:30.2<br>22:18.9<br><br> || '''4+8 1+4'''<br>0+1 1+3<br>2+3 0+0<br>2+3 0+0<br>0+1 0+1 || 
+|-
+| – || 27 || align=left| {{KOR}}<br>[[Kim Seon-Su]]<br>[[Mun Ji-Hee]]<br>[[Jun Je-Uk]]<br>[[Lee In-Bok]] || '''DNF'''<br>19:51.5<br><br><br><br> || '''0+3 0+1'''<br>0+3 0+1<br><br><br><br> || 
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Biathlon World Championships 2012 - Mixed relay}}
+[[Category:Biathlon World Championships 2012]]
+[[Category:Mixed sports competitions]]

@@ -1,0 +1,48 @@
+{{distinguish|Nigel Boulton}}
+{{use dmy dates|date=October 2014}}
+{{use British English|date=October 2014}}
+{{Infobox football biography
+|name        = Nigel Bolton
+|image       =
+|image_size  =
+|caption     = 
+|fullname    = Nigel Alan Bolton<ref name=Hugman/>
+|birth_date  = {{birth date and age|1975|1|14|df=y}}<ref name=Hugman/>
+|birth_place = [[Bishop Auckland]], England
+|death_date  = 
+|death_place = 
+|height      =  
+|position    = [[Forward (association football)|Forward]] / [[midfielder]]
+|youthyears1 =          |youthclubs1 = 
+|years1      = 1991–1994 |clubs1 = [[Shildon A.F.C.|Shildon]]                         |caps1 =   |goals1 = 
+|years2      = 1994–1995 |clubs2 = [[Darlington F.C.|Darlington]]                     |caps2 = 2 |goals2 = 0
+|years3      =           |clubs3 = [[West Auckland Town F.C.|West Auckland Town]]     |caps3 =   |goals3 = 
+|years4 ={{0|0000}}–2001 |clubs4 = [[Tow Law Town F.C.|Tow Law Town]]                 |caps4 =   |goals4 =
+|years5      = 2001–2004 |clubs5 = [[Shildon A.F.C.|Shildon]]                         |caps5 =   |goals5 =
+|years6      = 2004–2006 |clubs6 = [[Darlington Railway Athletic F.C.|Darlington RA]] |caps6 =   |goals6 =
+|years7      = 2006–200? |clubs7 = [[Esh Winning F.C.|Esh Winning]]                   |caps7 =   |goals7 =
+}}
+'''Nigel Alan Bolton''' (born 14 January 1975) is an English former [[association football|footballer]] who played as a [[forward (association football)|forward]] in [[the Football League]] for [[Darlington F.C.|Darlington]].<ref name=NB>{{cite web |url=http://www.neilbrown.newcastlefans.com/darlington/darlington.html |title=Darlington: 1946/47–1988/89 & 1990/91–2009/10 |work=Post War English & Scottish Football League A–Z Players Database |publisher=Neil Brown |accessdate=16 October 2014}}</ref>
+
+Bolton was born in [[Bishop Auckland]], [[County Durham]].<ref name=Hugman>{{Hugman|1835|accessdate=19 February 2018}}</ref> He began his football career with [[Northern Football League|Northern League]] club [[Shildon A.F.C.|Shildon]], where his goalscoring attracted the attention of [[Football League Third Division]] club [[Darlington F.C.|Darlington]],<ref name=RejoinsSFC>{{cite news |url=http://www.thenorthernecho.co.uk/news/7106355.The_Albany_Northern_League/ |title=The Albany Northern League |newspaper=The Northern Echo |location=Darlington |date=22 June 2001 |accessdate=19 February 2018}}</ref> for whom he made two league appearances in the [[1994–95 Football League|1994–95 season]].<ref name=NB/> He then returned to [[non-league football]], playing for [[West Auckland Town F.C.|West Auckland Town]] and [[Tow Law Town F.C.|Tow Law Town]] before rejoining Shildon in June 2001.<ref name=RejoinsSFC/> Bolton, by then working as a postman and playing in midfield, helped Shildon reach the first round proper of the [[2003–04 FA Cup|FA Cup]] for the first time in more than 40 years. They were drawn to play Division Two club [[Notts County]];<ref>{{cite news |url=https://www.chroniclelive.co.uk/news/north-east-news/postie-hopes-for-double-1668361 |title=Postie hopes for double |newspaper=Evening Chronicle |location=Newcastle |date=9 November 2003 |accessdate=16 October 2014}}</ref> Bolton played the first half and Shildon lost 7–2.<ref>{{cite news |url=http://docs.newsbank.com/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:AWNB:LTIB&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=0FECC4ABE43411C9&svc_dat=InfoWeb:aggregated5&req_dat=0D0CB57AB53DF815 |title=Notts County spoil dream |first=Peter |last=Lansley |newspaper=The Times |location=London |date=10 November 2003 |via=NewsBank}}</ref> He left Shildon in 2004 for [[Darlington Railway Athletic F.C.|Darlington Railway Athletic]],<ref name=JoinsDRA>{{cite news |url=http://www.thenorthernecho.co.uk/news/6979523.Wolviston_forced_into_a_change/ |title=Wolviston forced into a change |first=Malcolm |last=Pratt |newspaper=The Northern Echo |location=Darlington |date=4 September 2004 |accessdate=19 February 2018}}</ref> and also played for [[Esh Winning F.C.|Esh Winning]], for whom he scored twice in his first two games.<ref>{{cite news |url=http://www.sunderlandecho.com/news/local/all-news/blackwell-spins-into-contention-1-1007309 |title=Blackwell spins into contention |newspaper=Sunderland Echo |date=20 February 2006 |accessdate=16 October 2014}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Bolton, Nigel}}
+[[Category:1975 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Bishop Auckland]]
+[[Category:English footballers]]
+[[Category:Association football forwards]]
+[[Category:Shildon A.F.C. players]]
+[[Category:Darlington F.C. players]]
+[[Category:West Auckland Town F.C. players]]
+[[Category:Tow Law Town F.C. players]]
+[[Category:Darlington Railway Athletic F.C. players]]
+[[Category:Esh Winning F.C. players]]
+[[Category:Northern Football League players]]
+[[Category:English Football League players]]
+
+
+{{England-footy-forward-1970s-stub}}

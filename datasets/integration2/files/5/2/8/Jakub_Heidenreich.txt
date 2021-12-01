@@ -1,0 +1,89 @@
+{{short description|Czech footballer}}
+{{Infobox football biography
+| name = Jakub Heidenreich
+| image =
+| fullname =
+| birth_date  = {{birth date and age|1989|4|27|df=yes}}
+| birth_place = [[Mohelnice (Šumperk District)|Mohelnice]], [[Czechoslovakia]]
+| height = {{height|m=1.88}}
+| currentclub  = [[SV Eichede]]
+| clubnumber =  
+| position = [[Defender (association football)|Left back]]
+| youthyears1 = 1995–1998
+| youthclubs1 = FK Mohelnice-Moravičany
+| youthyears2 = 1998–2007
+| youthclubs2 = [[Sigma Olomouc]]
+| years1 = 2008–
+| clubs1 = [[SK Sigma Olomouc|Sigma Olomouc]]
+| caps1  = 41 | goals1 = 1
+| years2 = 2009–2010
+| clubs2 = → [[FK Bohemians Praha (Střížkov)|Bohemians Prague (Střížkov)]] (loan)<ref>[http://fotbal.idnes.cz/db_fotbal.asp?hrac=3007880 Jakub Heidenreich Bohemians / Střížkov – Fotbal iDNES.cz]</ref>
+| caps2  = 6  | goals2 = 0
+| years4 = 2010
+| clubs4 = → [[FK Viktoria Žižkov|Viktoria Žižkov]] (loan)
+| caps4  = 1  | goals4 = 0
+| years5 = 2011–2012
+| clubs5 = → [[Tatran Prešov]] (loan)
+| caps5  = 15 | goals5 = 0
+| years6 = 2012–2013
+| clubs6 = [[SK Sulko Zábřeh|Sulko Zábřeh]]
+| caps6  =    | goals6 = 0
+| years7 = 2013–
+| clubs7 = SV Eichede
+| caps7  = 1  | goals7 = 0
+| nationalyears1 = 2004–2005
+| nationalteam1  = Czech Republic U-16
+| nationalcaps1  = 6
+| nationalgoals1 = 1
+| nationalyears2 = 2005–2006
+| nationalteam2  = [[Czech Republic national under-17 football team|Czech Republic U-17]]
+| nationalcaps2  = 19
+| nationalgoals2 = 1
+| nationalyears3 = 2006–2007
+| nationalteam3  = Czech Republic U-18
+| nationalcaps3  = 7
+| nationalgoals3 = 0
+| nationalyears4 = 2007–2008
+| nationalteam4  = [[Czech Republic national under-19 football team|Czech Republic U-19]]
+| nationalcaps4  = 10
+| nationalgoals4 = 1
+| nationalyears5 = 2009
+| nationalteam5  = Czech Republic U-20
+| nationalcaps5  = 2
+| nationalgoals5 = 0
+| nationalyears6 = 2008–2009
+| nationalteam6  = [[Czech Republic national under-21 football team|Czech Republic U-21]]
+| nationalcaps6  = 2
+| nationalgoals6 = 0
+| pcupdate = {{date|2012-05-20}}
+| ntupdate = {{date|2013-09-30}}
+}}
+
+'''Jakub Heidenreich''' (born 27 April 1989) is a [[Czech Republic|Czech]] [[Association football|football]] player. He has represented his country at all age groups from U-16 up to U-21.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{CMFS player}}
+* [https://web.archive.org/web/20120513130615/http://www.1fctatran.sk/clanok/75/51_heidenreich_jakub.html 1. FC Tatran Prešov profile] {{in lang|cs}} (archived from [http://www.1fctatran.sk/clanok/75/51_heidenreich_jakub.html the original] on 13 May 2012)
+
+
+{{DEFAULTSORT:Heidenreich, Jakub}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Czech footballers]]
+[[Category:Czech Republic youth international footballers]]
+[[Category:Czech Republic under-21 international footballers]]
+[[Category:Czech First League players]]
+[[Category:SK Sigma Olomouc players]]
+[[Category:1. FC Tatran Prešov players]]
+[[Category:Slovak Super Liga players]]
+[[Category:Czech expatriate sportspeople in Slovakia]]
+[[Category:Expatriate footballers in Slovakia]]
+[[Category:Czech expatriate sportspeople in Germany]]
+[[Category:Expatriate footballers in Germany]]
+[[Category:People from Mohelnice (Šumperk District)]]
+
+{{CzechRepublic-footy-defender-stub}}
+[[Category:Association football defenders]]

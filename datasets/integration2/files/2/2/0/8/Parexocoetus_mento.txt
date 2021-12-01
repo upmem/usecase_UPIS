@@ -1,0 +1,30 @@
+{{Speciesbox
+| image = Exocetus mento Day Mintern 121.jpg
+| taxon = Parexocoetus mento
+| authority = ([[Achille Valenciennes|Valenciennes]], 1847)
+| synonyms = *''Exocoetus mento'' <small>Valenciennes, 1847</small> 
+*''Exocoetus mesogaster'' <small>[[Marcus Elieser Bloch|Bloch]], 1795</small> 
+*''Exocoetus gryllus'' <small>[[Carl Benjamin Klunzinger|Klunzinger]], 1871</small>
+| synonyms_ref = <ref name = Fishbase/>
+}}
+'''''Parexocoetus mento'''''; also known as the '''African sailfin flying fish''', '''Cuvier's flying fish''', the '''yellow belly flying fish''' or the '''short-winged flying fish'''; is a species of [[flying fish]] from the [[Family (biology)|family]] [[Exocoetidae]] which is found in the [[Indo-pacific]] region and which has colonised the eastern Mediterranean.
+
+==Description==
+''Parexocoetus mento'' has an elongate body which is compressed and rounded ventrally. The [[lateral line]] has a pectoral branch. It has a protrusible upper jaw. The long [[pectoral fin]]s reach the [[anal fin]] when folded but do not extend beyond it while the medium-sized [[pelvic fin]]s do not extend far beyond the origin of the anal fin and are situated closer to it than they are to the pectoral fins. They are iridescent greenish-blue above and silvery below while the [[dorsal fin]] has a lot of black in it and the pectoral fins are greyish. It grows to a length of around to {{convert|10|cm|in}}.<ref name = MSIP/>
+
+==Distribution==
+''Parexocoetus mento'' is found from the coast of East Africa and the [[Red Sea]] to Fiji, extending south to [[Queensland]] and the [[Mozambique Channel]] and north to southern Japan.<ref name = Fishbase>{{Fishbase|Parexocoetus|mento|month=April|year=2019}}</ref> This species has colonised the Mediterraean Sea through the [[Suez Canal]] and by 1966 it had reached as far west as the [[Gulf of Sidra]], it was one of the earliest and more widespread of the [[Lessepsian migration|Lessepsian migrants]].<ref name = ABT>{{Cite journal | author = Adam Ben Tuvia | year = 1966 | title = Red Sea Fishes Recently Found in the Mediterranean | journal = Copeia | volume = 1966 | issue = 2 | pages = 254–275| jstor = 1441133 | doi = 10.2307/1441133 }} Abstract</ref> Its Mediterranean distribution extends as far north as Albania and it is now common off Israel and Lebanon.<ref name = MSIP>{{cite web | page = Parexocoetus mento | url = http://species-identification.org/species.php?species_group=fnam&id=1147 | work = Marine Species Identification Forum | title = Fishes of the NE Atlantic and the Mediterranean | author = J.C Hureau | accessdate = 17 August 2019 | publisher = Marine Species Identification Portal}}</ref> 
+
+==Habitat and biology==
+''Parexocoetus mento'' is found in coastal waters close to the surface and it is rarely recorded in open sea. These fishes can jump out of the water and glide over the water.<ref name = Fishbase/> The eggs are covered in filaments and juveniles do not have any barbels.<ref name = MSIP/>
+
+==Taxonomy==
+''Parexocoetus mento'' is the [[type species]] of the [[genus]] ''[[Parexocoetus]]'' which was erected by [[Pieter Bleeker]] in 1865,<ref name = CofFG>{{Cof record|genid=3396|title=''Parexocoetus''|access-date=17 August 2019}}</ref> this species was originally [[Species description|described]] as ''Exocoetus mento'' by Achille Valenciennes in 1847 with the [[Type locality (biology)|type locality]] given as [[Puducherry]], India.<ref name = CofF>{{Cof record|spid=13971|title=''Parexocoetus mento''|access-date=17 August 2019}}</ref> Records of this species, as the [[subspecies]] ''atlanticus'' are erroneous.<ref name = Fishbase/>
+
+==References==
+{{reflist}}
+
+{{Taxonbar|From=Q2408985}}
+
+[[Category:Fish described in 1847]]
+[[Category:Parexocoetus|mento]]

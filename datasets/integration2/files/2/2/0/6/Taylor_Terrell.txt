@@ -1,0 +1,32 @@
+{{tone|date=July 2016}}{{Infobox person
+| name = Taylor Terrell
+| birth_date = {{birth date|1991|7|22}}
+| birth_place = [[Atlanta, Georgia]]{{Citation needed|date=July 2016}}
+| death_date = {{death date and age|2016|7|21|1991|7|22}}
+| death_place = Rainbow Falls, NC
+| alma_mater = [[Georgia Southern University]]{{Citation needed|date=July 2016}}
+| occupation = [[News presenter|News anchor]]
+}}
+'''Taylor Terrell''' (July 22, 1991 – July 21, 2016)<ref name="Corley">{{cite web|last=Corley |first=Laura |url=http://www.charlotteobserver.com/latest-news/article91534517.html |title=News anchor slips from waterfall, dies day before 25th birthday|work=The Charlotte Observer |date=|accessdate=July 25, 2016}}</ref> was an American [[News presenter|news anchor]] for 41NBC News at Daybreak and 41Today at [[WMGT-TV]] in [[Macon, Georgia]].<ref>{{cite web|url=http://www.citizen-times.com/story/news/local/2016/07/23/sheriff-georgia-news-anchor-dies-rainbow-falls/87473926/|title=Sheriff: Georgia news anchor dies at Rainbow Falls|publisher=Citizen-times.com|date=July 21, 2016|accessdate=July 25, 2016}}</ref>  Terrell died on the eve of her 25th birthday after [[Falling (accident)|slipping]] over Rainbow Falls, a waterfall in North Carolina.<ref name="Corley"/>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.41nbc.com/author/tterrell/ Profile] at 41NBC
+
+{{Authority control}}
+
+{{DEFAULTSORT:Terrell, Taylor}}
+[[Category:2016 deaths]]
+[[Category:1991 births]]
+[[Category:African-American women journalists]]
+[[Category:African-American journalists]]
+[[Category:Journalists from Georgia (U.S. state)]]
+[[Category:Television anchors from Atlanta]]
+[[Category:Georgia Southern University alumni]]
+[[Category:Accidental deaths from falls]]
+[[Category:American women television journalists]]
+
+
+{{US-tv-journalist-stub}}

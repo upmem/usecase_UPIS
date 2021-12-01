@@ -1,0 +1,49 @@
+{{Orphan|date=May 2016}}
+
+{{Infobox company
+| name = Lamplight Analytics
+| logo = LamplightAnalyticsPNG.png
+| type = [[Social media analytics|Social Media Analytics]]
+| founders = Fergus Clarke<br>Nathan Pacey<br>Sam Olsen  
+| hq_location = [[Hong Kong]]
+| key_people = Fergus Clarke, [[CEO]], Co-founder
+Nathan Pacey, [[Chief technology officer|CTO]], Co-founder
+| industry = [[SaaS]], [[Social Media]], [[Big Data]], [[Analytics]], [[Technology]], [[Internet]]
+| products = Lamplight (social media analytics SaaS tool), Lamplight Influencer (online influencer identification SaaS platform)
+| services = Social Media Analytics, Social Media Monitoring, Influencer Identification, [[Business Intelligence]]
+}}
+
+'''Lamplight Analytics''' is a [[social media analytics]] company headquartered in [[Hong Kong]].<ref>{{Cite web|url=http://www.silicondragonventures.com/featured/10-startups-up-for-awards-at-silicon-dragon/|title=10 Startups Up For Awards At Silicon Dragon |publisher=Silicon Dragon Ventures|access-date=2016-05-20}}</ref> The company provides a [[Software as a service|software-as-a-service]] ([[SaaS]]) social media platform called Lamplight that allows users to capture and aggregate data from [[social media]], [[blog]]s, boards, [[Internet forum|forums]] and other [[Digital media|media online]].
+
+Lamplight further interprets social media data using proprietary technology, [[algorithm]]s, [[machine learning]] and [[natural language processing]] so businesses and individuals can understand the world's social media data. The tool offers [[Data visualization|data visualisation]], [[sentiment analysis]], influencer identification and [[geolocation]], among other features that help users uncover important insights through social media data quickly and easily.
+
+== History ==
+Lamplight Analytics was launched in November 2014.
+
+The company's current management includes Fergus Clarke, former Head of Research in [[North Asia]] for Edelman Intelligence,<ref>{{Cite web|url=http://www.campaignasia.com/Article/355214,Edelman+launches+research+and+analytics+unit+in+Greater+China.aspx|title=Edelman launches research and analytics unit in Greater China|website=Campaign Asia-Pacific|access-date=2016-05-20}}</ref> the research, analytics and measurement division of [[Edelman (firm)|Edelman]] and Nathan Pacey, former Technical Architect at [[SAI Global]] and Head of IT and Risk at [https://www.aus61business.com/company/Arnott-Capital-Pty-Ltd Arnott Capital], where he worked on [[high-frequency trading]] platforms, [[Data warehouse|data warehousing]] strategy and implementation.
+
+== Business Model ==
+Lamplight Analytics primarily offers a [[freemium]] SaaS product (called Lamplight) to its users. The company also provides a suite of added [[Enterprise software|enterprise-level]] services including reporting, data & platform integration, influencer identification, customization and consulting services.
+
+=== Funding ===
+In September 2015, Lamplight Analytics raised US$1.5 million in [[seed funding]]<ref name=":0">{{Cite web|url=https://www.techinasia.com/lamplight-social-media-analytics-funding|title=Tech in Asia - Connecting Asia's startup ecosystem|website=www.techinasia.com|language=en-US|access-date=2016-05-20}}</ref> with the round led by Vectr Ventures.<ref name=":0" />
+
+== Reputation ==
+
+=== Awards ===
+In 2015, the company won at the Silicon Dragon Awards as the top startup representing Hong Kong in Asia.<ref>{{Cite web|url=http://www.silicondragonventures.com/featured/gsr-sequoia-vectr-ventures-take-top-honors-at-silicon-dragon/|title=GSR, Sequoia, Vectr Ventures Take Top Honors At Silicon Dragon {{!}} Silicon Dragon Ventures|website=www.silicondragonventures.com|access-date=2016-05-20}}</ref> In 2016, Lamplight Analytics was also awarded a top Hong Kong startup award by the Hong Kong Venture Capital Association (HKVCA) at their third annual venture capital forum.<ref>{{Cite web|url=http://web.hkvca.com.hk/en/enewsletter.aspx?id=264|title=HKVCA Email Newsletter|website=web.hkvca.com.hk|access-date=2016-05-20}}</ref>
+
+Lamplight Analytics was also shortlisted for Campaign Asia's Innovate Awards as one of the Top 12 startups to consider for [[Brand|brand marketing]] and [[advertising]] in the Asia-Pacific region<ref>{{Cite web|url=http://www.campaignasia.com/Article/402842,Campaign+Innovate+announces+shortlist+in+APAC+startup+competition.aspx|title=Campaign Innovate announces shortlist in APAC startup competition|website=Campaign Asia-Pacific|access-date=2016-05-20}}</ref> and noted as a promising startup by the [[Harvard Business School]] Association of Hong Kong (HBSAHK).<ref>{{Cite web|url=http://www.hbsahk.org/calendar/detail.asp?RecordId=1184|title=The Harvard Business School Association of Hong Kong|website=www.hbsahk.org|access-date=2016-05-20}}</ref>
+
+=== Media ===
+Lamplight Analytics is frequently cited by media, including [[Forbes]],<ref>{{Cite web|url=https://www.forbes.com/sites/rebeccafannin/2015/11/05/unicorn-deals-paid-off-for-china-venture-firms-at-silicon-dragon/#179ace113c33|title=Unicorn Deals Paid Off For China Venture Firms At Silicon Dragon|last=Fannin|first=Rebecca|website=Forbes|access-date=2016-05-20}}</ref> the [[South China Morning Post]],<ref>{{Cite web|url=http://www.scmp.com/lifestyle/music/article/1922397/gem-beats-jackie-chan-and-donnie-yen-be-named-most-popular-star-hong|title=G.E.M. beats Jackie Chan and Donnie Yen to be named most popular star on Hong Kong social media|website=South China Morning Post|access-date=2016-05-20}}</ref> [[VentureBeat]],<ref>{{Cite web|url=https://venturebeat.com/2015/12/13/sold-first-startup-at-20-binged-on-counter-strike-for-a-year-now-hes-reimagining-social-media-analytics/|title=Sold first startup at 20, binged on Counter-Strike for a year — now he’s reimagining social media analytics|website=VentureBeat|access-date=2016-05-20}}</ref> [[The Hollywood Reporter|and The Hollywood Reporter]],<ref>{{Cite web|url=http://www.hollywoodreporter.com/news/box-office-star-wars-is-848425|title=Box Office: 'Star Wars' Is An Unknown Force in China|work=The Hollywood Reporter|access-date=2016-05-20}}</ref> for its relevant insights and research on Asia-specific trends and industries.
+
+== Clients ==
+Companies of all sizes and industries use Lamplight, including [[Multinational corporation|MNCs]] such as [[KPMG]],<ref name=":1">{{Cite web|url=https://lamplight.me|title=Lamplight Analytics|last=lamplight|website=lamplight.me|access-date=2016-05-20}}</ref> [[Lane Crawford]],<ref name=":1" /> [[Live Nation Entertainment]],<ref name=":1" /> [[Small and medium-sized enterprises|SMEs]] companies, [[Non-governmental organization|NGOs]], [[startup company|startups]] and independent [[brand]]s.
+
+== References ==
+<references />
+
+[[Category:American companies established in 2014]]
+[[Category:Social media companies]]
+[[Category:Analytics companies]]

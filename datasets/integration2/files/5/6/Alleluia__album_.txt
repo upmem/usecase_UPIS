@@ -1,0 +1,98 @@
+{{Unreferenced|date=October 2016}}
+{{Infobox album
+| name       = Alleluia
+| type       = studio
+| artist     = [[The Priests]]
+| cover      = Alleluia (album).jpg
+| alt        =
+| released   = October 7, 2016
+| recorded   = August 2016 at Red Box Studios, Belfast
+| venue      =
+| studio     =
+| genre      = [[Classical music|Classical]] <br>[[Religious]]
+| length     =
+| label      = SWM7
+| producer   = Frank Gallagher
+| prev_title = [[Harmony (The Priests album)|Harmony]]
+| prev_year  = 2009
+| next_title =
+| next_year  =
+}}
+
+'''''Alleluia''''' is the third [[studio album]] by Catholic group, [[The Priests]].  It was released in 2016 on SWM7.
+
+==Track listing==
+{{Track listing
+| total_length = 
+| title1   = [[Morning Has Broken]]
+| length1  = 2:46
+| title2   = [[Jesu, Joy of Man's Desiring]]
+| length2  = 3:23
+| title3   = [[Nearer, My God, to Thee]]
+| length3  = 3:25
+| title4   = [[Psalm 23|The Lord is My Shepherd (Psalm 23)]]
+| length4  = 3:04
+| title5   = [[Be Thou My Vision]] (ft. [[Moya Brennan]])
+| length5  = 3:04
+| title6   = [[You Raise Me Up]]
+| length6  = 4:47
+| title7   = [[Lord of the Dance (hymn)|Lord of the Dance]]
+| length7  = 2:46
+| title8   = [[Ave Maria (Bach/Gounod)|Ave Maria]]
+| length8  = 2:52
+| title9   = [[Pachelbel's Canon|Alleluia (Pachelbel's Canon)]]
+| length9  = 3:35
+| title10  = [[Down in the River to Pray]]
+| length10 = 3:00
+| title11  = [[Stabat Mater (Jenkins)|Ave Verum]]
+| length11 = 3:25
+| title12  = Céad Míle Fáilte Romhat
+| length12 = 3:13
+| title13  = [[Panis angelicus]]
+| length13 = 3:19
+| title14  = [[Messiah Part II|Hallelujah Chorus (from Handel's Messiah)]] 
+| length14 = 4:05
+}}
+{{Track listing
+| collapsed = yes
+| headline  = Bonus track
+| title15  = [[Eleanor Rigby]]
+| length15 = 3:04
+}}
+
+==Personnel==
+{{col-start}}
+{{col-2}}
+;The Priests
+*Fr. Eugene O'Hagan – [[Singing|vocals]]
+*Fr. David Delargy – [[Singing|vocals]]
+*Fr. Martin O'Hagan – [[Singing|vocals]]
+
+;Additional musicians
+* [[Moya Brennan]] – vocals on "Be Thou My Vision"
+* Melisma – [[choir]]
+* Slovak National Symphony Orchestra - [[orchestra]]
+* Geraldine O'Dougherty - [[harp]]
+* Jody Jenkins - [[percussion]], [[piano]], and [[Keyboard instrument|keyboards]]
+* Jonathan Hutton - [[piano]]
+
+{{col-2}}
+;Production
+* Frank Gallagher – [[record producer|producer]] and [[Arrangement|arranger]]
+* Alastair McMillan – mix engineer
+* Tim Young – [[mastering engineer]] at [[Metropolis Group|Metropolis Studios]], London
+* Kieran Lynch – engineer
+* Richard Brown – assistant engineer
+* Paul Campbell - additional programming
+* Andrew Simon McAllister - additional programming
+* Fergus Murphy - additional programming
+* Matthew Sammon – pre-production engineer
+{{col-end}}
+
+==External links==
+* [https://web.archive.org/web/20140708073125/http://www.thepriests.com/ The Priests Official Website]
+
+[[Category:2016 albums]]
+[[Category:The Priests albums]]
+
+{{Christian-album-stub}}

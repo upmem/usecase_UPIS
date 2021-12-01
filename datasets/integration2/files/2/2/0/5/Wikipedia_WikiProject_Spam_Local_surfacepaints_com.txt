@@ -1,0 +1,47 @@
+<!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|surfacepaints.com]]
+== Links ==
+* {{LinkSummary|http}}
+:* http resolves to [//X X]
+:*: {{LinkSummary|X}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+* {{LinkSummary|surfacepaints.com}}
+:* surfacepaints.com resolves to [//203.124.115.1 203.124.115.1]
+:*: {{LinkSummary|203.124.115.1}}
+:* {{GoogleAnalyticsSummary|67274485}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Rajesh7448}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=75417092|lang=en|wikidomain=w|namespace=|pagename=Surfacepaints|username=Rajesh7448|link=surfacepaints.com|sortdomain=com.surfacepaints.|domain=surfacepaints.com|origdiff=https://en.wikipedia.org/w/index.php?oldid=681776178&rcid=762940096|resolved=203.124.115.1|isIP=0|date=2015-09-19|time=12:54:12|wiki=en.wikipedia.org|revid=681776178|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=10|top=0|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=surfacepaints.com/products/surface-surfacer/|domain=surfacepaints.com|U=10|L=33|UL=9|WUL=0}}{{User:COIBot/OtherLinks|link=surfacepaints.com/products/surface-industrial-coatings/|domain=surfacepaints.com|U=10|L=33|UL=9|WUL=0}}{{User:COIBot/OtherLinks|link=surfacepaints.com/products/wood-coating/|domain=surfacepaints.com|U=10|L=33|UL=9|WUL=0}}{{User:COIBot/OtherLinks|link=surfacepaints.com/products/powder-coating/|domain=surfacepaints.com|U=10|L=33|UL=9|WUL=0}}{{User:COIBot/OtherLinks|link=www.facebook.com/SurfacePaints|domain=facebook.com|U=10|L=-1|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=surfacepaints.com|domain=surfacepaints.com|U=10|L=33|UL=9|WUL=0}}{{User:COIBot/OtherLinks|link=surfacepaints.com|domain=surfacepaints.com|U=10|L=33|UL=9|WUL=0}}}}
+{{User:COIBot/EditSummary|id=75417184|lang=en|wikidomain=w|namespace=|pagename=Surfacepaints|username=Rajesh7448|link=Http://surfacepaints.com/wp-content/themes/twentythirteen/images/logo.png|sortdomain=com.surfacepaints.|domain=http|origdiff=https://en.wikipedia.org/w/index.php?diff=681776350&oldid=681776178|resolved=X|isIP=0|date=2015-09-19|time=12:55:59|wiki=en.wikipedia.org|revid=681776350|oldid=681776178|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=10|top=0|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://surfacepaints.com/wp-content/themes/twentythirteen/images/logo.png|domain=http|U=10|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://surfacepaints.com/wp-content/themes/twentythirteen/images/logo.png|domain=http|U=10|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://surfacepaints.com/wp-content/themes/twentythirteen/images/logo.png|domain=http|U=10|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 2 additions out of 5 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/surfacepaints.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bhttp\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/http]]<nowiki>]]</nowiki>
+ \bsurfacepaints\.com\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/surfacepaints.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/surfacepaints.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 13:35, 19 September 2015 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale. . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 23:10, 30 September 2015 (UTC)

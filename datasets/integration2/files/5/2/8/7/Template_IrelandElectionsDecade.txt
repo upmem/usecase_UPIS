@@ -1,0 +1,26 @@
+<includeonly><!--
+-->{{#ifexpr: {{Title decade}} >= 1920<!--
+    -->|{{YYY0s elections in countryname category header}}<!--
+    -->|{{#ifexpr: {{Title decade}} >= 1800<!--
+       -->|{{YYY0s elections in countryname category header|parentnationality=British}}<!--
+       -->|{{YYY0s elections in countryname category header}}<!--
+    -->}}<!--
+-->}}<!--
+--></includeonly><!--
+--><noinclude><!--
+-->{{Documentation
+ | content =
+Creates a category for elections in Ireland in a given decade
+==Usage==
+<code><nowiki>{{IrelandElectionsDecade}}</nowiki></code>
+
+No parameters needed
+== See also ==
+* [[:Template:YearInIrishPoliticsCat]]
+* [[:Template:IrelandPoliticsDecade]]
+* [[:Template:IrelandElectionsDecade]]
+}}
+
+[[Category:Ireland category header templates]]
+[[Category:Election and referendum chronology category header templates]]
+</noinclude>

@@ -1,0 +1,116 @@
+{{EngvarB|date=April 2014}}
+{{Use dmy dates|date=November 2014}}
+{{Infobox person
+| name         = Maninder Singh
+| image        =
+| alt          =
+| caption      =
+| birth_name   =
+| birth_date   = {{birth date and age|df=yes|1980|09|27}}
+| birth_place  = [[Agra]], [[Uttar Pradesh]], [[India]]
+| death_date   =
+| death_place  =
+| nationality  = [[India]]n
+| other_names  =
+| occupation   = [[Actor]]
+| years_active = 2007 - present
+| known_for    = ''[[Khelein Hum Jee Jaan Sey]]'' (2010)
+| height       = 178 cm
+| relatives    = Taru Wasu (sister)
+}}
+
+'''Maninder Singh''' is an Indian actor. He played Indian independence activist [[Ananta Singh]] in the film ''[[Khelein Hum Jee Jaan Sey]]'' (2010).<ref>{{cite news | url=http://www.livemint.com/Leisure/Q75PX6l2Tc6np8iUywnjcN/Film-Review--Khelein-hum-jee-jaan-se.html | title=Film Review: Khelein Hum Jee Jaan Sey | newspaper=[[Live Mint]] | date=3 December 2010 | accessdate=21 August 2014 | author=Arun Janardhan}}</ref> He played the lead role in the suspense thriller television show ''2612'' (2012)<ref>{{Cite web|url=http://www.tellychakkar.com/tv/tv-news/maninder-singh-play-the-lead-sphere-origins-next-life-ok|title=Maninder Singh to play the lead in Sphere Origins' next for Life OK|date=June 13, 2012|website=Tellychakkar|access-date=September 25, 2017}}</ref> as Randeep Rathore and reprised the same role in the next season titled as ''2613''. In 2014, he was also seen in the popular television show ''[[C.I.D. (Indian TV series)|C.I.D.]]'' <ref>{{Cite web|url=http://www.tellychakkar.com/tv/tv-news/gaurav-khanna-and-maninder-singh-enter-cid-senior-cops-duty-582|title=Gaurav Khanna and Maninder Singh to enter CID as senior cops on duty|date=March 24, 2014|website=Tellychakkar|access-date=September 25, 2017}}</ref> portraying senior CID cop.<ref name="CID">{{cite news|url=http://indianexpress.com/article/entertainment/television/actor-gaurav-khanna-to-enter-cid/|title=Actor Gaurav Khanna & Maninder Singh to enter 'CID' as senior cops|date=30 March 2014|newspaper=[[Indian Express]]|accessdate=21 August 2014}}</ref> He was also seen in Zee TV's ''[[Sanyukt]]''.<ref>{{Cite web|url=http://www.tellychakkar.com/tv/tv-news/exclusive-meet-the-cast-of-zee-tv-s-newest-nuclear-family-sanyukt-160816|title=Exclusive: Meet the cast of Zee TV's newest 'nuclear family', Sanyukt|date=August 16, 2016|website=Tellychakkar|access-date=September 25, 2017}}</ref> He is currently seen in Star Bharat's ''[[Kya Haal, Mr. Paanchal?]]''.<ref>{{Cite web|url=http://www.tellychakkar.com/tv/tv-news/shikayat-peti-navratri-drama-mad-rush-kya-haal-mr-panchaal-170915|title=Shikayat Peti, Navratri drama & mad rush in Kya Haal Mr. Panchaal|date=September 15, 2017|website=Tellychakkar|access-date=September 25, 2017}}</ref>
+
+==Films==
+{| class="wikitable"
+!Year
+!Movie
+!Role
+!Language
+|-
+|2007
+|''[[Swami (2007 film)|Swami]]''
+|Anand
+|Hindi
+|-
+|2010
+|''[[Khelein Hum Jee Jaan Sey]]''
+|Ananta Singh
+|Hindi
+|-
+|2012
+|''[[Seal Team Six: The Raid on Osama Bin Laden]]''
+|Malik
+|English
+|-
+|2015
+|''[[Hey Bro]]''
+|Shiv
+|Hindi
+|}
+
+==Television==
+ 
+{| class="wikitable sortable"
+! Year
+! Show
+! Role
+! Channel
+! Notes
+|-
+| 2009
+| ''[[Ek Safar Aisa Kabhi Socha Na Tha]]''
+| Manav Rathore
+| [[Sony Entertainment Television (India)|Sony TV]]
+| rowspan="3" | Lead Role
+|-
+| 2012
+| ''[[2612]]''
+| rowspan="2" | Randeep Rathore
+| rowspan="2" | [[Life OK]]
+|-
+| 2013
+| ''[[2613]]''
+|-
+| 2014
+| ''[[C.I.D. (Indian TV series)|C.I.D.]]''
+| Senior Inspector Dushyant Hemraj
+| [[Sony Entertainment Television (India)|Sony TV]]
+| Supporting Role (from episode no.-1060-1159)
+
+|-
+| 2016
+|''[[Sanyukt]]''
+| Rahul  Mehta
+| [[Zee TV]]
+| rowspan="2" | Lead Role
+|-
+| 2017–2019
+| ''[[Kya Haal, Mr. Paanchal?]]''
+| Kanhaiya Paanchal
+| [[Star Bharat]]
+|-
+|}
+
+==Awards==
+{| class="wikitable"
+|-
+! Year !! Award !! Category !! Show
+|-
+| 2018 || [[Gold Awards|Zee Gold Awards]] || Best Actor In A Comic Role (Male) || [[Kya Haal, Mr. Paanchal?]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb name|3946281}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Singh, Maninder}}
+[[Category:Indian male television actors]]
+[[Category:Male actors in Hindi television]]
+[[Category:Male actors in Hindi cinema]]
+[[Category:1980 births]]
+[[Category:Living people]]

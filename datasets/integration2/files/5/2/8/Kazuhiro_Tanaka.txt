@@ -1,0 +1,174 @@
+{{for|the Japanese pentathlete|Kazuhiro Tanaka (pentathlete)}}
+{{No footnotes|date=May 2018}}{{Infobox racing driver
+| name              = Kazuhiro Tanaka
+| image             = 
+| imagesize            = 180px
+| caption           = 
+| nationality       = {{JPN}}
+| birth_date        = {{Birth date and age|1970|7|4}}
+| birth_place       = [[Ibaraki, Ibaraki|Ibaraki]]
+| related to        = 
+| current series    = [[D1 Grand Prix]]
+| first year        = {{d1|2001}}
+| current team      = Team Orange
+| former teams      = 
+| starts            = 
+| wins              = 2
+| best finish       = 8
+| year              = {{d1|2003}}, {{d1|2004}}
+| prev series       = 
+| prev series years = 
+| titles            = 
+| title years       = 
+| awards            = 
+| award years       = 
+}}
+{{nihongo|'''Kazuhiro Tanaka'''|田中一弘|Tanaka Kazuhiro|4 July 1970, [[Ibaraki, Ibaraki|Ibaraki]]}} is a [[Japan]]ese professional drifting driver, currently competing in the [[D1 Grand Prix]] series for [https://web.archive.org/web/20071015043937/http://teamorange.jp/ Team Orange] and [http://www.yukes.co.jp/ Yuke’s].
+
+He first discovered drifting when riding in a friend's [[Toyota AE86]] and he became hooked, as well of being part of Team Rough World which is more commonly now under RWB. As soon as he got his licence he bought a [[Toyota AE86]] of his own and began practicing in the mountains, unluckily he soon had a nasty crash which almost caused him to give up drifting altogether. The next car he bought was a normally aspirated automatic [[Toyota Mark II]] with no LSD thinking that he wouldn't be able to drift it, he soon discovered he was wrong, and decided that he was just meant to drift. He then bought a [[Toyota Chaser|Toyota Chaser JZX81]] and soon started to enter competitions, eventually it ended up with many battle scars, and he was known as the guy with the broken down Chaser, but he didn't care as he adored the car. As well as being a D1 driver he works for [https://web.archive.org/web/20071111162906/http://www.aeroparts.co.jp/msports/ M Sports], a well known body kit manufacturer and also competes in R/C car drifting competitions.
+
+He entered the [[D1 Grand Prix]] in the first round in 2001 and did well gaining his first win in 2003. He is a member of Team Orange with [[Nobushige Kumakubo]] and [[Naoto Suenaga]] and enjoys working on close tandem driving with them. He currently drives a [[Subaru Impreza]] converted to rear wheel drive which he can drift just as well as his old [[Nissan Silvia]], though in 2007 he has not had a very good season.
+
+==Complete Drifting Results==
+<!-- Championship rounds only -->
+([[:Template:Drifting driver results legend|key]])
+
+===D1 Grand Prix===
+{| class="wikitable" style="text-align:center; font-size:95%"
+! Year
+! Entrant
+! Car
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! Position
+! Points
+|-
+| {{D1|2001}}
+! [[Rough World]]
+! [[Nissan]] [[Nissan 180SX|180SX]]
+|style="background:#FFCFCF;"| [[Ebisu Circuit|EBS]]<br /><small>DNQ</small>
+|style="background:#FFCFCF;"| [[Nikkō Circuit|NIK]]<br /><small>DNQ</small>
+|| [[Bihoku Highland|BHH]]<br /><small></small>
+|| [[Ebisu Circuit|EBS]]<br /><small>TAN</small>
+|| [[Nikkō Circuit|NIK]]<br /><small></small>
+|
+|
+|
+! <!-- position -->
+! 0
+|-
+| {{D1|2002}}
+! [[Team Orange]]
+! [[Nissan Silvia#S15|Nissan Silvia S15]]
+|| [[Bihoku Highland|BHH]]<br /><small></small>
+|style="background:#FFCFCF;"| [[Ebisu Circuit|EBS]]<br /><small>DNQ</small>
+|style="background:#DFDFDF;"| [[Sportsland SUGO|SGO]]<br /><small>2</small>
+|| [[Tsukuba Circuit|TKB]]<br /><small>TAN</small>
+|| [[Ebisu Circuit|EBS]]<br /><small>TAN</small>
+|| [[Sekia Hills|SEK]]<br /><small>TAN</small>
+|| [[Nikkō Circuit|NIK]]<br /><small>TAN</small>
+|
+! 17
+! 18
+|-
+| {{D1|2003}}
+! [[Team Orange]]
+! [[Nissan]] [[Nissan Silvia#S15|Silvia S15]]
+|style="background:#FFDF9F;"| [[Tsukuba Circuit|TKB]]<br /><small>3</small>
+|style="background:#FFFFBF;"| [[Bihoku Highland|BHH]]<br /><small>1</small>
+|| [[Sportsland SUGO|SGO]]<br /><small>TAN</small>
+|| [[Fuji Speedway|FUJ]]<br /><small>TAN</small>
+|style="background:#EFCFFF;"| [[Ebisu Circuit|EBS]]<br /><small>16</small>
+|style="background:#EFCFFF;"| [[Sekia Hills|SEK]]<br /><small>10</small>
+|style="background:#EFCFFF;"| [[Tsukuba Circuit|TKB]]<br /><small>16</small>
+|
+! 8
+! 38
+|-
+| {{D1|2004}}
+! [[Team Orange]]
+! [[Nissan]] [[Nissan Silvia#S15|Silvia S15]]
+|style="background:#CFCFFF;"| [[Irwindale Speedway|IRW]]<br /><small>6</small>
+|style="background:#EFCFFF;"| [[Sportsland SUGO|SGO]]<br /><small>16</small>
+|style="background:#CFCFFF;"| [[Ebisu Circuit|EBS]]<br /><small>7</small>
+|| [[Autopolis|APS]]<br /><small>TAN</small>
+|style="background:#EFCFFF;"| [[Odaiba|ODB]]<br /><small>9</small>
+|style="background:#CFCFFF;"| [[Ebisu Circuit|EBS]]<br /><small>6</small>
+|| [[Tsukuba Circuit|TKB]]<br /><small>TAN</small>
+|
+! 8
+! 32
+|-
+| {{D1|2005}}
+! [[Team Orange]]
+! [[Nissan]] [[Nissan Silvia#S15|Silvia S15]]
+|style="background:#EFCFFF;"| [[Irwindale Speedway|IRW]]<br /><small>13</small>
+|style="background:#EFCFFF;"| [[Odaiba|ODB]]<br /><small>16</small>
+|style="background:#DFFFDF;"| [[Sportsland SUGO|SGO]]<br /><small>4</small>
+|style="background:#EFCFFF;"| [[Autopolis|APS]]<br /><small>10</small>
+|style="background:#EFCFFF;"| [[Ebisu Circuit|EBS]]<br /><small>10</small>
+|| [[Fuji Speedway|FUJ]]<br /><small>TAN</small>
+|| [[Tsukuba Circuit|TKB]]<br /><small>TAN</small>
+|
+! 13
+! 20
+|-
+| {{D1|2006}}
+! [[Team Orange]] / [[Yuke's]]
+! [[Subaru]] [[Subaru Impreza|Impreza GDB]]
+|style="background:#FFDF9F;"| [[Irwindale Speedway|IRW]]<br /><small>3</small>
+|| [[Sportsland SUGO|SGO]]<br /><small>TAN</small>
+|style="background:#EFCFFF;"| [[Fuji Speedway|FUJ]]<br /><small>16</small>
+|| [[Autopolis|APS]]<br /><small>TAN</small>
+|style="background:#CFCFFF;"| [[Ebisu Circuit|EBS]]<br /><small>7</small>
+|style="background:#CFCFFF;"| [[Suzuka Circuit|SUZ]]<br /><small>6</small>
+|style="background:#EFCFFF;"| [[Fuji Speedway|FUJ]]<br /><small>9</small>
+|style="background:#FFFFBF;"| [[Irwindale Speedway|IRW]]<br /><small>1</small>
+! 6
+! 59
+|-
+| {{D1|2007}}
+! [[Team Orange]] / [[Yuke's]]
+! [[Subaru]] [[Subaru Impreza|Impreza GDB]]
+|style="background:#EFCFFF;"| [[Ebisu Circuit|EBS]]<br /><small>12</small>
+|| [[Fuji Speedway|FUJ]]<br /><small>TAN</small>
+|style="background:#EFCFFF;"| [[Suzuka Circuit|SUZ]]<br /><small>10</small>
+|style="background:#EFCFFF;"| [[Sportsland SUGO|SGO]]<br /><small><span style="color:blue;">14</span></small>
+|| [[Ebisu Circuit|EBS]]<br /><small>TAN</small>
+|style="background:#FFCFCF;"| [[Autopolis|APS]]<br /><small>DNQ</small>
+|style="background:#FFCFCF;"| [[Fuji Speedway|FUJ]]<br /><small>DNQ</small>
+|
+! 22
+! 5
+|-
+| {{D1|2008}}
+! [[Team Orange]] / [[Yuke's]]
+! [[Subaru Impreza|Subaru Impreza GDB]]
+|style="background:#FFDF9F;"| [[Ebisu Circuit|EBS]]<br /><small>3</small>
+|| [[Fuji Speedway|FUJ]]<br /><small>TAN</small>
+|style="background:#EFCFFF;"| [[Suzuka Circuit|SUZ]]<br /><small>10</small>
+|style="background:#EFCFFF;"| [[Okayama International Circuit|OKY]]<br /><small><span style="color:blue;">9</span></small>
+|style="background:#CFCFFF;"| [[Autopolis|APS]]<br /><small>5</small>
+|| [[Ebisu Circuit|EBS]]<br /><small></small>
+|| [[Fuji Speedway|FUJ]]<br /><small></small>
+|
+! 7
+! 47
+|}
+
+==Sources==
+*[http://www.jdm-option.com/eng/column/07_02/tanaka.html JDM Option]
+*[http://www.d1gp.co.jp/ D1 Grand Prix]
+
+{{DEFAULTSORT:Tanaka, Kazuhiro}}
+[[Category:Japanese racing drivers]]
+[[Category:Drifting drivers]]
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:D1 Grand Prix drivers]]

@@ -1,0 +1,9 @@
+== Summary ==
+{{Non-free use rationale poster
+| Article           = Suvarna Sundari
+| Use               = Infobox
+| Owner             = [[Anjali Pictures]]
+| Source            = http://telugucineblitz.blogspot.com/2010/09/suvarna-sundari-1957.html
+}}
+== Licensing ==
+{{Non-free poster|image has rationale=yes}}

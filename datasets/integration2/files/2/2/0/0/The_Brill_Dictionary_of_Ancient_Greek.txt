@@ -1,0 +1,44 @@
+{{Infobox book | 
+ | name          = The Brill Dictionary of Ancient Greek
+ | title_orig    = GI - Vocabolario della lingua greca
+ | translator    = 
+ | image         = GI.jpg
+ | caption       = Cover of the Italian 3rd edition
+ | author        = {{hlist | [[Franco Montanari]] }}
+ | illustrator   = 
+ | cover_artist  = 
+ | country       = Italy, United States
+ | language      = Italian, English, Modern Greek, German
+ | series        = 
+ | genre         = 
+ | published     = 1995 (1st edition, [[Loescher]]), 2015 ([[Brill Publishers]])
+ | media_type    = Print ([[hardcover]])
+ | pages         = 2431
+ | isbn          = 9789004193185 
+ | dewey= 
+ | congress= 
+ | preceded_by   = 
+ | followed_by   = 
+}}
+
+'''''The Brill Dictionary of Ancient Greek''''' is an English language dictionary of Ancient Greek, translated, with the addition of some entries and improvements, from the third Italian edition of [[Franco Montanari]]'s '''''GI - Vocabolario della lingua greca.''''' <ref name="Panagiotis2018">Panagiotis 2018</ref>
+It's mostly a new lexicographical work, not directly based on any previous dictionary.<ref name="Panagiotis2018"/> It has about 140,000 entries over 2500 pages.
+
+The Italian third edition has been published in 2013 (first edition in 1995), a Modern Greek translation has been published in 2013, and the English edition has been published by Brill in 2015, edited by Madeleine Goh and Chad Schroeder,<ref name="Panagiotis2018"/> and a German translation published in 2017 by [[De Gruyter]].<ref>[https://issuu.com/degruyter/docs/nevclassicalstudies2017_web/23 De Gruyter New Publications Catalog Classical Studies 2017  ]</ref> There is also an online version, which can also be subscribed by universities and other institutions.
+
+==References==
+<references />
+
+==Bibliography==
+* Panagiotis Filos (2018) ''[https://bmcr.brynmawr.edu/2018/2018.03.46/ The Brill Dictionary of Ancient Greek]'' (review) in Bryn Mawr Classical Review
+* Franco Montanari 2015 [https://www.logos.com/product/168884/the-brill-dictionary-of-ancient-greek video interview], with English subtitles, about the English edition 
+
+==External links==
+* [https://brill.com/view/title/17336 Official page] of the English print edition.
+* ''[http://www.aristarchus.unige.net/Wordsinprogress/en/Home Words in Progress]'' project, Supplementary Lexicon of Ancient Greek, Directed by Franco Montanari, Serena Perrone
+
+{{Greek language}}
+
+{{DEFAULTSORT:Brill Dictionary of Ancient Creek, The}}
+[[Category:Ancient Greek dictionaries]]
+[[Category:1995 non-fiction books]]

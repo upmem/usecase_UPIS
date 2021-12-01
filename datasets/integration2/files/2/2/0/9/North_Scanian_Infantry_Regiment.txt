@@ -1,0 +1,225 @@
+{{Infobox military unit
+| unit_name =North Scanian Infantry Regiment
+| native_name =''Norra skånska infanteriregementet''
+| image =
+| alt =
+| caption =
+| dates =1812–1963
+| disbanded =
+| country ={{flag|Sweden}}
+| countries =
+| allegiance =[[Swedish Armed Forces]]
+| branch =[[Swedish Army]]
+| type =[[Infantry]]
+| role =
+| size =[[Regiment]]
+| command_structure =1st Military District (1833–1893)<br>1st Army Division (1893–1901)<br>I Army Division (1902–1927)<br>Southern Army Division (1928–1936)<br>I Army Division (1937–1942)<br>[[Southern Military District (Milo S)|I Military District]] (1942–1963)
+| garrison =[[Kristianstad]]
+| garrison_label =
+| nickname =''Norringarna''<ref>{{cite web |url=https://www.riksdagen.se/sv/dokument-lagar/dokument/motion/bevarande-av-traditionerna-fran-gamla-regementen_GG02F%C3%B6310 |publisher=[[Riksdag]] |title=Bevarande av traditionerna från gamla regementen - Motion 1992/93:Fö310 |first=Ingvar |last=Eriksson |location=Stockholm |date=25 January 1993 |access-date=13 May 2019 |language=Swedish}}</ref>
+| patron =
+| motto =''Ära, skyldighet, vilja''<br>("Honor, duty, will")
+| colors = Yellow and red-violet
+| colors_label = <!-- or | colours_label = -->
+| march ="På marsch" (Rydberg){{#tag:ref|The march was adopted and established in 1953 by Army Order 33/1953. It was used by the [[North Scanian Regiment]] from 1963 to 1994, and by the [[Southern Military District (Milo S)|Southern Military District]] from 1994 to 2000, and by the Southern Military District (''Södra militärdistriktet'') from 2000 to 2005.<ref>{{harvnb|Sandberg|2007|p=64}}</ref>|group=note}}
+| mascot =
+| anniversaries =13 September ([[Battle of Jutas]])
+| equipment =
+| equipment_label =
+| battles =
+| decorations =
+| battle_honours =
+| battle_honours_label =
+| flying_hours =
+| website =
+<!-- Commanders -->
+| notable_commanders = [[Georg Carl von Döbeln]]
+<!-- Insignia -->
+| identification_symbol =[[File:Truppslagstecken Infanteri m60 (guld).png|100px]]
+| identification_symbol_label =Branch insignia m/1960
+| identification_symbol_2 =[[File:AM.090977-P 6 (2).jpg|100px]]
+| identification_symbol_2_label =Unit insignia m/1960
+| identification_symbol_3 =
+| identification_symbol_3_label =
+| identification_symbol_4 =
+| identification_symbol_4_label =
+| identification_symbol_5 =
+| identification_symbol_5_label =
+}}
+
+'''North Scanian Infantry Regiment''' ({{lang-sv|Norra skånska infanteriregementet}}), designation '''I 6''', was a [[Swedish Army]] [[infantry]] [[regiment]] that operated from 1812 to 1963. The unit was based in the Kristianstad Garrison in [[Kristianstad]]. In 1963 the regiment was transferred to the [[Swedish Armoured Troops]] under the name of [[North Scanian Regiment]] (P 6).
+
+==History==
+The North Scanian Infantry Regiment was raised on 10 December 1811, and its first commander, major general [[Georg Carl von Döbeln]], was appointed on 14 January 1812.<ref name="Westrin (1913), p. 1465">{{harvnb|Westrin|1913|p=1465}}</ref> The regiment was ''roterade'' (an old feudal method of [[Military recruitment|recruiting]]<ref>{{harvnb|Keltie|1907|p=1492}}</ref>) in the northern part of [[Scania]] with 522 numbers in [[Kristianstad County]] and 462 in [[Malmöhus County]], and it was mainly carried out by using ''extra roteringen'' (new formation of regiments from district till then privileged<ref>{{harvnb|Meredith|1829|p=133}}</ref>).<ref name="Westrin (1913), p. 1465"/> Through the 1892 organization, the regiment received some numbers from [[Kronoberg Regiment]]. The regiment received its conscripts from Kristianstad County, with the exception of Östra and Västra Göinge Hundred, and from the northern part of Malmöhus County.<ref name="Westrin (1913), p. 1465"/>
+
+The regiment participated in the 1813 campaign in [[Germany]] and the 1814 campaign in [[Norway]].<ref>{{cite web |url=http://www.hhogman.se/regementen_infanteriet-6.htm#xl_Norra_skanska_regementet_I6 |website=www.hhogman.se |title=Norra Skånska Infanteriregementet |first=Hans |last=Högman |access-date=2 December 2017 |language=Swedish}}</ref> From 1816, however, the regiment was [[Allotment system|allotted]] and the force was reduced to 1,000 men, while the ''rotering'' was extended to parts of Malmöhus County.<ref name="Carlquist (1937), p. 1203">{{harvnb|Carlquist|1937|p=1203}}</ref>
+
+In 1816, all Swedish regiments received an order number, where the North Scanian Infantry Regiment was awarded No 24. In 1914, all order numbers within the army were adjusted. For the North Scanian Infantry Regiment, this meant that the regiment was assigned the designation I 24. The adjustment of the designation made it possible to distinguish the regiments between the service branches, but also from their possible reserve and duplication regiment.
+
+Through the [[Defence Act of 1925 (Sweden)|Defence Act of 1925]], a larger number of regiments were disbanded, which meant that the unit designations in the lower series became vacant. This meant, among other things, that the North Scanian Infantry Regiment was awarded the designation I 6 on 1 January 1928, a unit designation that was taken over from [[Västgöta Regiment]].<ref>{{harvnb|Holmberg|1993|=9}}</ref><ref>{{harvnb|Holmberg|1993|p=16}}</ref>
+
+In 1942, the regiment was organized as a [[bicycle infantry]] unit. In 1963, the North Scanian Infantry Regiment was reorganized into the armored regiment called the [[North Scanian Regiment]] (P 6).<ref name="Braunstein (2003), pp. 163-166"/>
+
+==Units==
+The regiment came through the Defence Act of 1942 to organize two field regiments, the North Scanian Infantry Regiment (I 6) and Kristianstad Regiment (I 36). Through the Defence Act of 1948, the field regiments came to be reorganized into infantry brigades. At the North Scanian Infantry Regiment, only one field regiment came to be reorganized into a brigade. Kristianstad Regiment (I 36) was omitted.<ref>{{cite web |url=http://www.brigadmuseum.se/uploads/files/content/Armens-_brigader-_1948.pdf |website=www.bergrum.se |title=Armens Brigader efter 1948 års försvarsbeslut med kort historik |access-date=1 January 2017 |language=Swedish}}</ref>
+
+===Kristianstad Brigade===
+The Kristianstad Brigade (IB 26) was formed in 1949 when the field regiment North Scanian Infantry Regiment (I 6) was reorganized into a brigade. The brigade was initially the only brigade of the regiment and came to be organized after the IB 49 unit types. In 1963, the brigade was reorganized together with the regiment into an armour unit. The brigade retained its name, but received the new designation PB 26.
+
+===Scania Brigade===
+The Scania Brigade (IB 37) was formed in 1949 when the field regiment Malmöhus Regiment (I 37) was reorganized into an infantry brigade. The brigade originally belonged to the South Scanian Infantry Regiment (''Södra skånska infanteriregementet'', I 7), but came to be transferred in 1957 to the North Scanian Infantry Regiment.<ref>{{cite web |url=http://www.bergrum.se/sverige/militart/armen/fredsorg/infanteriet/infanteriet.html |archive-url=https://web.archive.org/web/20100825121645/http://www.bergrum.se/sverige/militart/armen/fredsorg/infanteriet/infanteriet.html |website=www.bergrum.se |title=Svenska arméns infanteri |access-date=30 March 2010 |archive-date=25 August 2010 |language=Swedish}}</ref> When it was determined that the North Scanian Infantry Regiment was reorganized into an armour unit, IB 37 was the brigade that was suggested to be reorganized into an armored brigade. This was not done, however, because its area of mobilization lay east of the [[Ringsjön]] and with it too far from the regiment in Kristianstad. The brigade was disbanded in connection with the regiment being reorganized into an armored regiment.<ref>{{harvnb|Larsson|1994b|p=73}}</ref>
+
+===Swedish Army School of Photography===
+The Swedish Army School of Photography (''Arméns fotoskola'', FotoS), nicknamed the ''Ökenfortet'' ("Desert Fort"), was a school within the army that was formed on 1 April 1957. The school annually trained about 20 photo technicians and 40-50 army photographers. The school's conscripts belonged to a peace-time unit that raised a war-time unit which included photo groups or photo sections. On 30 June 1974, the school was disbanded.<ref>{{harvnb|Larsson|1994b|p=312}}</ref>
+
+===Companies===
+{{div col}}
+# [[Life company|Life Company]] 
+# Frosta Company
+# Västra Göinge Company
+# Gärds Company
+# Norra Åsbo Company
+# Rönneberg Company
+# Luggude Company
+# Onsjö Company
+{{div col end}}
+
+==Barracks and training areas==
+
+===Barracks===
+In the early 1920s, a new barracks establishment was erected in Kristianstad. The establishment was erected after the 1901 Defence Reform's building program after the Barracks Building Committee's (''Kasernbyggnadsnämnden'') second series of type establishments for the infantry. The regiment moved into the barracks area in October 1920, and ceremony was held on 18 May 1923.<ref name="Holmberg (1993), p. 16">{{harvnb|Holmberg|1993|p=16}}</ref> After the regiment was reorganized into an armored unit, several new buildings were erected in connection with the barracks area. A total of 130 buildings were built. When the regiment was disbanded, the entire area was sold in 1993 to the National Swedish Board of Public Building (''Byggnadsstyrelsen''), and in 1994 the area was completely abandoned.<ref>{{harvnb|Berg|2004|p=187}}</ref> Since 1995, [[Kristianstad University]] has been housed within the former barracks area.
+
+====Training areas====
+The regiment trained at [[Kvidinge]] heath and Bonarp heath, but from 1831 at [[Ljungbyhed]].<ref name="Holmberg (1993), p. 16"/> After the regiment moved to Kristianstad, it began training at Näsby training area, which was managed by the regiment since 1914. In 1950 the training area was incorporated with [[Wendes Artillery Regiment]]'s training area at Näsby and Norra Lingenäset. In 1966, the Tvedegård area was also purchased, which was incorporated into the training area. During the construction of the training area, the ground consisted mainly of marshy farmland, which meant that the area had to be drained and that forest was planted. Some well-known examples are a [[birch]] grove that was planted in 1927 at Hjärte backe and the [[willow]] alley planted in 1928 at Näsby gård. There were also three shooting ranges on the training area. The area comprised 625 hectares.<ref>{{harvnb|Larsson|1994b|pp=298-299}}</ref> Näsby training area was vacated in connection with the disbandment of the regiment and when Wendes Artillery Regiments was relocated in 1994.
+
+==Heraldry and traditions==
+
+===Anniversary===
+The anniversary of the regiment was 13 September, and went under the name "Döbeln's Day" (''Döbelnsdagen''), and was commemorated in memory of the [[Battle of Jutas]], which was a battle in Finland in 1808 between Sweden and Russia. The Swedish forces were led by [[Georg Carl von Döbeln]], who became the first regimental commander of the North Scanian Infantry Regiment. The regimental motto, "Honor, Duty and Will" (''Ära, Skyldighet och vilja'') was von Döbeln's own motto.<ref>{{harvnb|Larsson|1994b|p=214}}</ref>
+
+===Colours, standards and guidons===
+When the regiment was reorganized into an armoured regiment, the units 1866 colour from followed. However, it came to be replaced on 11 September 1971, when [[Carl XVI Gustaf of Sweden|Crown Prince Carl Gustaf]] presented a new colour. The colour was lowered at the regiment on 23 June 1994, and was then deposited at the Scana Dragoon Regiment (''Skånska dragonregementet''), which from 1 July 1994 adopted the name of the North Scanian Dragoon Regiment (''Norra skånska dragonregementet''), and further carried on the traditions of the regiment.<ref name="Braunstein (2003), pp. 163-166">{{harvnb|Braunstein|2003|pp=163-166}}</ref>
+
+<gallery class="center">
+File:AM.010288.jpg|Battalion colour m/1863, 1st Battalion, North Scanian Infantry Regiment.
+File:AM.010289.jpg|Battalion colour m/1863, 2nd Battalion, North Scanian Infantry Regiment.
+File:AM.010285.jpg|Company colour m/1812-1840 for the North Scanian Infantry Regiment (I 6) and the South Scanian Infantry Regiment (I 7).
+File:AM.010455.jpg|Colour for the Adlercreutz Regiment. Later used as company colour m/1812-1840 for the North Scanian Infantry Regiment (I 6) and the South Scanian Infantry Regiment (I 7).
+</gallery>
+
+==Commanding officers==
+Regimental commander from 1812 to 1963.<ref name="Kjellander (2003), pp. 289-290">{{harvnb|Kjellander|2003|pp=289-290}}</ref>
+
+{{div col}}
+*1812–1816: [[Georg Carl von Döbeln]]
+*1816–1833: Ernst Fabian Wrede
+*1833–1852: Erik Anders Cederström
+*1852–1860: Carl Antonson Rappe
+*1860–1867: Claes Axel Meurling
+*1867–1872: G R Abelin
+*1872–1875: C C O Reuterskiöld
+*1875–1889: J L O Toll
+*1887–1889: H A E C Rappe
+*1889–1891: J O H Nordenskjöld
+*1891–1899: [[Casten Warberg]]
+*1904–1906: G W Lagercrantz
+*1906–1908: Oscar Silverstolpe
+*1908–1914: Carl Gustaf Spens
+*1914–1926: Robert Marks von Wurtemberg
+*1926–1929: [[Erik Testrup]]
+*1929–1936: Martin Hanngren
+*1936–1936: [[Helge Jung]]
+*1936–1942: Henry Kellgren
+*1942–1947: Justus Holmgren (acting in 1938)
+*1947–1951: Olof Sjöberg
+*1951–1954: Herman Levin
+*1954–1963: Curt T:son Alsterlund
+{{div col end}}
+
+==Names, designations and locations==
+{| class="wikitable"
+! style="font-weight:bold;" | Name
+! style="font-weight:bold;" | Translation
+! style="text-align: center; font-weight:bold;" | From
+! 
+! style="text-align: center; font-weight:bold;" | To
+|-
+| style="font-style:italic;" | Kungl. Norra skånska infanteriregementet	
+| Royal North Scanian Infantry Regiment
+| 1812-01-14
+| –
+| 1963-03-31
+|-
+! style="font-weight:bold;" | Designation
+! style="font-weight:bold;" | 
+! style="text-align: center; font-weight:bold;" | From
+! 
+! style="text-align: center; font-weight:bold;" | To
+|-
+| No 24
+| 
+| style="text-align: center;" | 1816-10-01
+| style="text-align: center;" | –
+| style="text-align: center;" | 1914-09-30
+|-
+| I 24
+| 
+| style="text-align: center;" | 1914-10-01
+| style="text-align: center;" | –
+| style="text-align: center;" | 1927-12-31
+|-
+| I 6
+| 
+| style="text-align: center;" | 1928-01-01
+| style="text-align: center;" | –
+| style="text-align: center;" | 1963-03-31
+|-
+! style="font-weight:bold;" | Locations
+! style="font-weight:bold;" | 
+! style="text-align: center; font-weight:bold;" | From
+! 
+! style="text-align: center; font-weight:bold;" | To
+|-
+| [[Kristianstad]] Garrison
+| 
+| style="text-align: center;" | 1920-11-20
+| style="text-align: center;" | –
+| style="text-align: center;" | 1963-03-31
+|}
+
+==See also==
+* [[North Scanian Regiment]]
+* [[List of Swedish infantry regiments]]
+
+==Footnotes==
+<references group="note"/>
+
+==References==
+
+===Notes===
+{{Reflist}}
+
+===Print===
+*{{cite book |last=Berg |first=Ejnar |title=Vyer från kastaler, kastell och kaserner: guide över Sveriges militära byggnader : illustrerad med vykort |year=2004 |publisher=Probus |location=Stockholm |language=Swedish |isbn=9187184753 |id={{LIBRIS|9818451}} }}
+*{{cite book |last=Braunstein |first=Christian |title=Sveriges arméförband under 1900-talet |series=Skrift / Statens försvarshistoriska museer, 1101-7023 ; 5 |year=2003 |publisher=Statens försvarshistoriska museer |location=Stockholm |language=Swedish |isbn=91-971584-4-5 |id={{LIBRIS|8902928}} }}
+*{{cite book |editor-last=Carlquist |editor-first=Gunnar |title=Svensk uppslagsbok |year=1937 |publisher=Baltiska förl. |location=Malmö |volume=20 |language=Swedish |id={{LIBRIS|1335380}} }}
+*{{cite book |last=Holmberg |first=Björn |title=Arméns regementen, skolor och staber: [en uppslagsbok] : en sammanställning |year=1993 |publisher=Svenskt militärhistoriskt bibliotek (SMB) |location=Arvidsjaur |language=Swedish |isbn=91-972209-0-6 |id={{LIBRIS|7796532}} }}
+*{{cite book |url=https://books.google.com/books?id=R9LMDQAAQBAJ&q=%22Rotering%22+swedish&pg=PA1492 |editor-last=Keltie |editor-first=J. Scott |editor1-link=John Scott Keltie |title=The Statesman's Yearbook: Statistical and Historical Annual of the States of the World for the Year 1907 |publisher=Macmillan and Co., Ltd |year=1907 |location=New York |volume=44 |isbn=978-0-230-27036-7 }}
+*{{cite book |last=Kjellander |first=Rune |title=Sveriges regementschefer 1700-2000: chefsbiografier och förbandsöversikter |year=2003 |publisher=Probus |location=Stockholm |language=Swedish |isbn=91-87184-74-5 |id={{LIBRIS|8981272}} }}
+*{{cite book |editor-last=Larsson |editor-first=Göran |title=Norra skånska regementet 1811-1994: ett bygderegementes historia. D. 1 |year=1994a |publisher=Norra skånska regementet |location=Kristianstad |isbn=91-630-2301-6 |id={{LIBRIS|1882030}} |language=Swedish}}
+*{{cite book |editor-last=Larsson |editor-first=Göran |title=Norra skånska regementet 1811-1994: ett bygderegementes historia. D. 2 |year=1994b |publisher=Norra skånska regementet |location=Kristianstad |isbn=91-630-2303-2 |id={{LIBRIS|1882031}} |language=Swedish }}
+*{{cite book |url=https://archive.org/details/memorialscharle00johngoog |page=[https://archive.org/details/memorialscharle00johngoog/page/n151 133] |quote=extra Rotering swedish. |first=William George |last=Meredith |title=Memorials of Charles John, king of Sweden and Norway. With a discourse on the political character of Sweden |year=1829 |publisher=Henry Colburn |location=London }}
+*{{cite book |last=Sandberg |first=Bo |title=Försvarets marscher och signaler förr och nu: marscher antagna av svenska militära förband, skolor och staber samt igenkännings-, tjänstgörings- och exercissignaler |edition=New |year=2007 |publisher=Militärmusiksamfundet med Svenskt marscharkiv |location=Stockholm |language=Swedish |isbn=978-91-631-8699-8 |id={{LIBRIS|10413065}} }}
+*{{cite book |url=http://runeberg.org/nfbs/0795.html |editor-last=Westrin |editor-first=Theodor |title=Nordisk familjebok: konversationslexikon och realencyklopedi |edition=New, rev. and rich illusion. |year=1913 |publisher=Nordisk familjeboks förl. |volume=19 |location=Stockholm |language=Swedish |id={{LIBRIS|8072220}} }}
+
+==Further reading==
+{{commonscat|Norra skånska regementet|North Scanian Infantry Regiment}}
+*{{cite book |last=Dahlberg |first=Eric |title=Skåne och regementet: en bok om Skånes land och folk och om Kungl. Norra skånska infanteriregementet för dess soldater |year=1936 |publisher=[Littorins bokh.] |location=Kristianstad |id={{LIBRIS|8219091}} |language=Swedish}}
+
+[[Category:Infantry regiments of the Swedish Army]]
+[[Category:Military units and formations established in 1812]]
+[[Category:Military units and formations disestablished in 1963]]
+[[Category:Disbanded units and formations of Sweden]]
+[[Category:1812 establishments in Sweden]]
+[[Category:1963 disestablishments in Sweden]]
+[[Category:Kristianstad Garrison]]

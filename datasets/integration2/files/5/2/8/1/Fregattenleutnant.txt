@@ -1,0 +1,77 @@
+{{About|the [[Austro-Hungarian Navy]] rank '''Fregattenleutnant''' [[OF-1a]]|the equivalent rank in other naval forces|Frigate lieutenant|the comperable rank in Anglophone naval forces|Sub-lieutenant}}
+{{infobox
+| above = [[File:Flag of Austria-Hungary (1869-1918).svg|left|30px]] ''Fregattenleutnant''<br />in Austruia-Hungaria
+| image = [[File:K.u.K. Fregattenleutnant.jpg|130px|Sleeve braid]] 
+| label1 = Rank insignia | data1= [[Austro-Hungarian Navy]]
+| label2 = Introduction| data2 =  ca. 1908
+| label3 = Rank group| data3 =  [[Commissioned officer]]s
+| label4 = Army / Air Force| data4 =  ''Oberleutnant''
+| label5 = Navy| data5 =  ''Fregattenleutnant''
+| label6 = [[Ranks and insignia of NATO|NATO<br />equivalent]] | data6 = OF-1a
+}}
+
+'''Fregattenleutnant''' ([[Hungarian language|Hun:]] '''Fregatthadnagy''' / en: translation '''Fregate lieutenant''') was an officer rank in the [[Austro-Hungarian Navy]]. It was equivalent to [[Oberleutnant]] of the [[Austro-Hungarian Army]], as well to [[Oberleutnant zur See]] of the [[Imperial German Navy]]. Pertaining to the modern day's [[Naval officer ranks#NATO Rank Codes|NATO rank code]] it could be comparable to OF-1a (senior).
+
+The right to be assigned to ''Fregattenleutnant'' was limited to professional officers. It was superior to [[Korvettenleutnant]] (a reserve rank) and inferior to [[Linienschiffsleutnant]]. Until 1908 the rank was called ''Linienschiffsfähnrich'' (ship-of-the-line ensign).
+
+Professional officers skipped that rank ''Fregattenleutnant'' and were regularly promoted from [[Seefähnrich]] to Fregattenleutnant (also OF-1a), the next higher rank (comparable to [[Oberleutnant zur See]]).
+
+The rank name was selected in line to the division of war ships to specific ship categories early of the 19th century, e.g. [[corvette]] (de: Korvette), [[frigate]] (de: Fregatte), and to [[ship of the line]] (de: Linienschiff). In the [[Austro-Hungarian Navy]] the appropriate rank designations were derived as follows.
+*[[Korvettenkapitän]] OF-3 (equivalent: to Heer [[Major]])
+*[[Fregattenkapitän]] OF-4 (equivalent: to Heer [[Oberstleutnant]])
+*[[Linienschiffskapitän]] OF5; (equivalent: to deutsche Marine [[Kapitän zur See]] / Heer [[Oberst]])
+
+According to that systematic the rank designations to subaltern – or junior officers were derived as follows:
+*[[Korvettenleutnant]] OF-1b (equivalent to deutsche Marine [[Leutnant zur See]] Heer: [[Leutnant]])
+* <span style="color:#007;">'''''Fregattenleutnant'''''</span> OF-1a (equivalent to deutsche Marine [[Oberleutnant zur See]] / Heer: [[Oberleutnant]])
+*[[Linienschiffsleutnant]] OF-2 (equivalent to deutsche Marine [[Kapitänleutnant]] / Heer:[[Hauptmann]])
+This sequence of ranks can be found in the today´s Croatian naval forces.
+
+{{sequence|noclear=true
+| prev = junior&nbsp;rank<br/>'''[[Seefähnrich]]'''<br/><span style="color:#007;">'''Korvettenleutnant'''</span>
+| list = [[Image:Coat of arms of the Austro-Hungarian Navy.png|40px]]<br />[[Austro-Hungarian Navy|(k.u.k. Kriegsmarine rank)]]<br/><span style="color:#007;">Fregattenleutnant</span>
+| next = senior&nbsp;rank<br/>'''[[Linienschiffsleutnant]]'''
+}}
+{{Main|Ranks in the Austro-Hungarian Navy}}
+
+== Other countries ==
+The rank designation ''Fregattenleutnent'' was used continuously in naval forces of former Yugoslavia and as junior officer (OF-1a) rank in modern today’s naval forces of Croatia, Slovenia and Serbia.
+
+{| style="border:1px solid #8888aa; background-color:#f7f8ff; padding:5px; font-size:95%; margin: 0px 12px 12px 0px;"
+|-
+! bgcolor="#CCCCCC" colspan=5| Rank insignia ''Fregattenleutnant''
+|- bgcolor="#CCCCCC"
+!rowspan=2 | Country|| colspan=2| '''Croatia''' || '''Serbia''' || colspan=1|'''Slovenia'''
+|-align="center"
+| colspan=2 | [[File:Seal of Croatian Navy.png|35px]]<br />[[Croatian Navy]] 
+| [[File:RFVSZastava.png|35px]]<br />[[Serbian River Flotilla|River Flotilla]]
+| [[File:Naval jack of Slovenia.svg|35px]]<br />[[Slovenian Navy]]
+|-align="center"
+| style ="background:#CCCCCC;"| Shoulder<br />sleev
+| [[File:Naramenica ljetne odore poručnika korvete HRM.svg|60px]]
+| [[File:Rukav zimske odore poručnika fregate HRM.svg|60px]]
+| [[File:Rf 3 -poručnik fregate.gif|60px]] 
+| [[File:Slovenska vojska por freg.jpg|80px]]
+|- align="center"
+| style="background:#040040; color:white" |Native designation
+| style="background:#cfcfcf;" colspan=2 | [[:hr:Poručnik fregate|Poručnik fregate]]
+| style="background:#cfcfcf;" | [[:sr:Поручник фрегате|Поручник фрегатe]]
+| style="background:#cfcfcf;" | [[:sl:Poročnik fregate|Poročnik fregate]]
+|- bgcolor="#dadada" align="center"
+|[[File:Flag of NATO.svg|25px]] rank
+|colspan=2 |OF-1a 
+! OF-2
+| OF-1a
+|}
+==See also==
+*[[Croatian military ranks]]
+*[[Military ranks of Serbia]]
+*[[Slovenian military ranks]]
+*[[Ranks and insignia of officers of NATO navies]]
+
+== References ==
+<references />
+{{Military ranks by country}}
+
+[[Category:Military ranks of Austria]]
+[[Category:Naval ranks]]

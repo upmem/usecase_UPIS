@@ -1,0 +1,60 @@
+{{short description|Polish footballer}}
+{{Infobox football biography
+| name                 = Antoni Gałecki
+| image                = Antonigalecki.png
+| fullname             = Antoni Gałecki
+| birth_date           = {{birth date|df=y|1906|6|4}}
+| birth_place = [[Łódź]], [[Congress Poland]]
+| death_date           = {{death date and age|df=y|1958|12|14|1906|6|4}}
+| death_place = [[Łódź]], [[Poland]]
+| height               = {{convert|1.70|m|ftin|abbr=on}}
+| position             = [[Defender (association football)|Defender]]
+| youthyears1 =
+| youthclubs1 =
+| years1 = 1922–1939
+| clubs1 = [[ŁKS Łódź]]
+| caps1 = 204
+| goals1 = 0
+| nationalyears1 = 1928–1938
+| nationalteam1 = [[Poland national football team|Poland]]
+| nationalcaps1 = 18
+| nationalgoals1 = 0
+}}
+
+'''Antoni Gałecki''' (June 4, 1906 – December 14, 1958) was a [[Poland|Polish]] [[Association football|football]] player and defender who represented [[ŁKS Łódź]]. He also played on the Polish National Team during the [[1936 Summer Olympics|1936 Berlin Olympics]] and Poland's [[1938 FIFA World Cup]] lone match against [[Brazil]].
+
+Born in [[Łódź]], Galecki joined the LKS Łódź team in 1922, becoming its key defender four years later. Gałecki represented this team until 1939, participating in more than 400 games. In many of them, he was the team captain.
+
+He wore the Polish National Team jersey for 22 games. His debut took place on October 27, 1928, in [[Prague]], against [[Czechoslovakia]].
+
+During the 1936 Berlin Olympics, Gałecki was a key defender on the Polish team, participating in all games (3-0 vs [[Hungary]], 5-4 vs [[Great Britain]], 1-3 vs [[Austria]] and 2-3 vs [[Norway]]). Poland finished in 4th place.
+
+In 1937-38 Gałecki played in qualifying matches for the 1938 World Cup football match. In [[Warsaw]], Poland beat [[Yugoslavia]] 4–0. In the second leg, in [[Belgrade]], the Poles lost 0–1, but Poland qualified due to the goals advantage. Gałecki represented Poland in a legendary World Cup game against Brazil on June 5, 1938, in [[Strasbourg]], France. The Poles lost 5–6, but the match is to this day regarded as one of the best performances of the Polish National Team.{{citation needed|date=April 2009}}
+
+Called to active military duty in August 1939, Gałecki fought in the [[Polish September Campaign|September 1939 Campaign]]. He was held prisoner in a POW camp in [[Eger, Hungary]], but managed to escape through Yugoslavia and [[Greece]] and reached [[Palestine (region)|Palestine]], where he became a soldier of the [[Polish 2nd Corps]]. Gałecki fought at [[Battle of Tobruk (1941)|Tobruk]] and [[Battle of Monte Cassino|Monte Cassino]]. After the war, Gałecki returned to his hometown in 1947.
+
+He died in Łódź.
+
+==See also==
+* [[Polish Roster in World Cup Soccer France 1938]]
+
+==Sources==
+* [http://www.hppn.pl/reprezentacja/pilkarze/1434,Antoni-Galecki]
+* [http://lksfans.pl/antoni-galecki-najwybitniejszy-w-historii-obronca-lks/]
+
+{{Poland Squad 1936 Summer Olympics}}
+{{Poland Squad 1938 World Cup}}
+
+{{DEFAULTSORT:Galecki, Antoni}}
+[[Category:1906 births]]
+[[Category:1958 deaths]]
+[[Category:Sportspeople from Łódź]]
+[[Category:People from Piotrków Governorate]]
+[[Category:Polish footballers]]
+[[Category:ŁKS Łódź players]]
+[[Category:Poland international footballers]]
+[[Category:Olympic footballers of Poland]]
+[[Category:Footballers at the 1936 Summer Olympics]]
+[[Category:1938 FIFA World Cup players]]
+[[Category:Polish military personnel of World War II]]
+[[Category:Association football defenders]]

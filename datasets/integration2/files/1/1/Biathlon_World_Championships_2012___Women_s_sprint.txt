@@ -1,0 +1,252 @@
+{{Biathlon World Championships 2012}}
+The women's sprint competition of the [[Biathlon World Championships 2012]] was held on March 3, 2012 at 15:30 local time.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SWSP/BT_C51A_1.0.pdf Start list]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+== Results ==
+The race started at 15:30.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SWSP/BT_C73B_1.0.pdf Final Results] {{webarchive|url=https://web.archive.org/web/20140202105329/http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SWSP/BT_C73B_1.0.pdf |date=2014-02-02 }}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Bib !! Name !! Country !! Penalties (P+S) !! Time   !! Deficit
+|-
+| {{gold01}} || 29 || align=left|[[Magdalena Neuner]] || align=left|{{flag|Germany}} || 0 (0+0) || 21:07.0 ||
+|-
+| {{silver02}} || 17 || align=left|[[Darya Domracheva]] || align=left|{{flag|Belarus}} || 0 (0+0) || 21:22.2 || +15.2
+|-
+| {{bronze03}} || 18 || align=left|[[Vita Semerenko]] || align=left|{{flag|Ukraine}} || 0 (0+0) || 21:44.6 || +37.6
+|-
+| {{sort|04|4}} || 6 || align=left|[[Helena Ekholm]] || align=left|{{flag|Sweden}} || 0 (0+0) || 21:51.9 || +44.9
+|-
+| {{sort|05|5}} || 8 || align=left|[[Marie-Laure Brunet]] || align=left|{{flag|France}} || 0 (0+0) || 21:53.7  || +46.7
+|-
+| {{sort|06|6}} || 12 || align=left|[[Tora Berger]] || align=left|{{flag|Norway}} || 1 (0+1) || 21:59.4 || +52.4
+|-
+| {{sort|07|7}} || 22 || align=left|[[Svetlana Sleptsova]] || align=left|{{flag|Russia}} || 0 (0+0) || 22:10.5 || +1:03.5
+|-
+| {{sort|08|8}} || 39 || align=left|[[Olga Vilukhina]] || align=left|{{flag|Russia}} || 0 (0+0) || 22:12.3 || +1:05.3
+|-
+| {{sort|09|9}} || 23 || align=left|[[Marie Dorin]] || align=left|{{flag|France}} || 1 (0+1) || 22:20.5 || +1:13.5
+|-
+| 10 || 26 || align=left|[[Anastasiya Kuzmina]] || align=left|{{flag|Slovakia}} || 2 (1+1) || 22:26.8 || +1:19.8
+|-
+| 11 || 1 || align=left|[[Teja Gregorin]] || align=left|{{flag|Slovenia}} || 0 (0+0) || 22:31.8 || +1:24.8
+|-
+| 12 || 5 || align=left|[[Selina Gasparin]] || align=left|{{flag|Switzerland}} || 0 (0+0) || 22:40.1 || +1:33.1
+|-
+| 13 || 9 || align=left|[[Anna Maria Nilsson]] || align=left|{{flag|Sweden}} || 0 (0+0) || 22:40.3 || +1:33.3
+|-
+| 14 || 37 || align=left|[[Elise Ringen]] || align=left|{{flag|Norway}} || 2 (0+2) || 22:45.5 || +1:38.5
+|-
+| 15 || 21 || align=left|[[Mari Laukkanen]] || align=left|{{flag|Finland}} || 1 (0+1) || 22:48.2 || +1:41.2
+|-
+| 16 || 11 || align=left|[[Olga Zaitseva]] || align=left|{{flag|Russia}} || 2 (1+1) || 22:52.8 || +1:45.8
+|-
+| 17 || 33 || align=left|[[Magdalena Gwizdoń]] || align=left|{{flag|Poland}} || 0 (0+0) || 22:53.9 || +1:46.9
+|-
+| 18 || 3 || align=left|[[Zina Kocher]] || align=left|{{flag|Canada}} || 2 (1+1) || 22:55.3 || +1:48.3
+|-
+| 19 || 36 || align=left|[[Anaïs Bescond]] || align=left|{{flag|France}} || 1 (0+1) || 22:56.8 || +1:49.8
+|-
+| 20 || 14 || align=left|[[Weronika Nowakowska-Ziemniak]] || align=left|{{flag|Poland}} || 1 (1+0) || 22:57.0 || +1:50.0
+|-
+| 21 || 20 || align=left|[[Krystyna Guzik|Krystyna Pałka]] || align=left|{{flag|Poland}} || 0 (0+0) || 23:02.2 || +1:55.2
+|-
+| 22 || 31 || align=left|[[Tina Bachmann]] || align=left|{{flag|Germany}} || 3 (1+2) || 23:02.3 || +1:55.3
+|-
+| 23 || 13 || align=left|[[Michela Ponza]] || align=left|{{flag|Italy}} || 0 (0+0) || 23:10.2 || +2:03.2
+|-
+| 24 || 52 || align=left|[[Fuyuko Suzuki]] || align=left|{{flag|Japan}} || 1 (1+0) || 23:17.3 || +2:10.3
+|-
+| 25 || 2 || align=left|[[Veronika Vítková]] || align=left|{{flag|Czech Republic}} || 3 (1+2) || 23:21.5 || +2:14.5
+|-
+| 26 || 49 || align=left|[[Andreja Mali]] || align=left|{{flag|Slovenia}} || 1 (0+1) || 23:27.0 || +2:20.0
+|-
+| 27 || 25 || align=left|[[Kaisa Mäkäräinen]] || align=left|{{flag|Finland}} || 4 (3+1) || 23:28.9 || +2:21.9
+|-
+| 28 || 38 || align=left|[[Liudmila Kalinchik]] || align=left|{{flag|Belarus}} || 1 (0+1) || 23:30.7 || +2:23.7
+|-
+| 29 || 40 || align=left|[[Franziska Hildebrand]] || align=left|{{flag|Germany}} || 1 (0+1) || 23:31.1 || +2:24.1
+|-
+| 30 || 30 || align=left|[[Agnieszka Cyl]] || align=left|{{flag|Poland}} || 1 (0+1) || 23:34.5 || +2:27.5
+|-
+| 31 || 32 || align=left|[[Nadezhda Skardino]] || align=left|{{flag|Belarus}} || 1 (0+1) || 23:35.3 || +2:28.3
+|-
+| 32 || 16 || align=left|[[Synnøve Solemdal]] || align=left|{{flag|Norway}} || 4 (2+2) || 23:38.4 || +2:31.4
+|-
+| 33 || 15 || align=left|[[Laure Soulie]] || align=left|{{flag|Andorra}} || 1 (0+1) || 23:42.8 || +2:35.8
+|-
+| 34 || 27 || align=left|[[Andrea Henkel]] || align=left|{{flag|Germany}} || 3 (2+1) || 23:43.9 || +2:36.9
+|-
+| 35 || 7 || align=left|[[Nastassia Dubarezava]] || align=left|{{flag|Belarus}} || 4 (1+3) || 23:45.0 || +2:38.0
+|-
+| 36 || 92 || align=left|[[Amanda Lightfoot]] || align=left|{{flag|Great Britain}} || 0 (0+0) || 23:45.3 || +2:38.3
+|-
+| 37 || 45 || align=left|[[Miriam Gössner]] || align=left|{{flag|Germany}} || 4 (2+2) || 23:56.0 || +2:49.0
+|-
+| 37 || 113 || align=left|[[Elena Khrustaleva]] || align=left|{{flag|Kazakhstan}} || 0 (0+0) || 23:56.0 || +2:49.0
+|-
+| 39 || 47 || align=left|[[Juliya Dzhyma]] || align=left|{{flag|Ukraine}} || 1 (0+1) || 23:56.1 || +2:49.1
+|-
+| 40 || 43 || align=left|[[Sophie Boilley]] || align=left|{{flag|France}} || 2 (0+2) || 23:56.2 || +2:49.2
+|-
+| 41 || 41 || align=left|[[Anna Bogaliy-Titovets]] || align=left|{{flag|Russia}} || 1 (0+1) || 23:57.4 || +2:50.4
+|-
+| 42 || 54 || align=left|[[Emilia Yordanova]] || align=left|{{flag|Bulgaria}} || 0 (0+0) || 23:59.0 || +2:52.0
+|-
+| 43 || 4 || align=left|[[Kadri Lehtla]] || align=left|{{flag|Estonia}} || 3 (2+1) || 24:03.8 || +2:56.8
+|-
+| 44 || 73 || align=left|[[Daria Yurlova]] || align=left|{{flag|Estonia}} || 0 (0+0) || 24:05.5 || +2:58.5
+|-
+| 45 || 44 || align=left|[[Diana Rasimovičiūtė]] || align=left|{{flag|Lithuania}} || 3 (1+2) || 24:07.3 || +3:00.3
+|-
+| 46 || 46 || align=left|[[Bente Landheim]] || align=left|{{flag|Norway}} || 2 (2+0) || 24:08.6 || +3:01.6
+|-
+| 47 || 62 || align=left|[[Marina Lebedeva]] || align=left|{{flag|Kazakhstan}} || 1 (0+1) || 24:11.3 || +3:04.3
+|-
+| 48 || 35 || align=left|[[Katja Haller]] || align=left|{{flag|Italy}} || 1 (0+1) || 24:14.4 || +3:07.4
+|-
+| 49 || 34 || align=left|[[Natalya Burdyga]] || align=left|{{flag|Ukraine}} || 4 (2+2) || 24:15.8 || +3:08.8
+|-
+| 49 || 70 || align=left|[[Sara Studebaker]] || align=left|{{flag|United States}} || 2 (1+1) || 24:15.8 || +3:08.8
+|-
+| 51 || 19 || align=left|[[Megan Imrie]] || align=left|{{flag|Canada}} || 3 (2+1) || 24:18.7 || +3:11.7
+|-
+| 52 || 108 || align=left|[[Megan Heinicke]] || align=left|{{flag|Canada}} || 2 (0+2) || 24:18.9 || +3:11.9
+|-
+| 53 || 24 || align=left|[[Jana Gereková]] || align=left|{{flag|Slovakia}} || 4 (2+2) || 24:19.2 || +3:12.2
+|-
+| 54 || 58 || align=left|[[Ramona Düringer]] || align=left|{{flag|Austria}} || 0 (0+0) || 24:19.7 || +3:12.7
+|-
+| 55 || 118 || align=left|[[Susan Dunklee]] || align=left|{{flag|United States}} || 4 (3+1) || 24:23.8 || +3:16.8
+|-
+| 56 || 42 || align=left|[[Anna-Karin Strömstedt]] || align=left|{{flag|Sweden}} || 3 (1+2) || 24:24.8 || +3:17.8
+|-
+| 57 || 10 || align=left|[[Valj Semerenko]] || align=left|{{flag|Ukraine}} || 5 (1+4) || 24:25.4 || +3:18.4
+|-
+| 58 || 76 || align=left|[[Réka Ferencz]] || align=left|{{flag|Romania}} || 0 (0+0) || 24:31.4 || +3:24.4
+|-
+| 59 || 56 || align=left|[[Jenny Jonsson]] || align=left|{{flag|Sweden}} || 1 (0+1) || 24:32.1 || +3:25.1
+|-
+| 60 || 59 || align=left|[[Yuki Nakajima]] || align=left|{{flag|Japan}} || 1 (0+1) || 24:36.3 || +3:29.3
+|-
+| 61 || 116 || align=left|[[Dorothea Wierer]] || align=left|{{flag|Italy}} || 3 (3+0) || 24:40.6 || +3:33.6
+|-
+| 62 || 115 || align=left|[[Annelies Cook]] || align=left|{{flag|United States}} || 3 (2+1) || 24:43.2 || +3:36.2
+|-
+| 63 || 48 || align=left|[[Olga Poltoranina]] || align=left|{{flag|Kazakhstan}} || 1 (1+0) || 24:43.4 || +3:36.4
+|-
+| 64 || 86 || align=left|[[Iris Waldhuber]] || align=left|{{flag|Austria}} || 1 (0+1) || 24:43.9 || +3:36.9
+|-
+| 65 || 65 || align=left|{{Nowrap|[[Victoria Padial Hernández]]}} || align=left|{{flag|Spain}} || 1 (0+1) || 24:48.8 || +3:41.8
+|-
+| 66 || 69 || align=left|[[Martina Chrapánová]] || align=left|{{flag|Slovakia}} || 1 (0+1) || 24:51.0 || +3:44.0
+|-
+| 67 || 81 || align=left|[[Lanny Barnes]] || align=left|{{flag|United States}} || 1 (1+0) || 24:55.6 || +3:48.6
+|-
+| 68 || 51 || align=left|[[Darya Usanova]] || align=left|{{flag|Kazakhstan}} || 4 (1+3) || 25:05.8 || +3:58.8
+|-
+| 69 || 74 || align=left|[[Elisa Gasparin]] || align=left|{{flag|Switzerland}} || 1 (1+0) || 25:07.8 || +4:00.8
+|-
+| 70 || 91 || align=left|[[Veronika Zvařičová]] || align=left|{{flag|Czech Republic}} || 3 (0+3) || 25:07.9 || +4:00.9
+|-
+| 71 || 77 || align=left|[[Emőke Szőcs]] || align=left|{{flag|Hungary}} || 2 (0+2) || 25:08.4 || +4:01.4
+|-
+| 72 || 87 || align=left|[[Žanna Juškāne]] || align=left|{{flag|Latvia}} || 2 (1+1) || 25:13.3 || +4:06.3
+|-
+| 73 || 97 || align=left|[[Jitka Landová]] || align=left|{{flag|Czech Republic}} || 2 (1+1) || 25:19.3 || +4:12.3
+|-
+| 74 || 68 || align=left|[[Itsuka Owada]] || align=left|{{flag|Japan}} || 4 (2+2) || 25:24.9 || +4:17.9
+|-
+| 75 || 105 || align=left|[[Katharina Innerhofer]] || align=left|{{flag|Austria}} || 2 (1+1) || 25:25.3 || +4:18.3
+|-
+| 76 || 82 || align=left|[[Wang Chunli]] || align=left|{{flag|China}} || 1 (0+1) || 25:28.0 || +4:21.0
+|-
+| 77 || 53 || align=left|[[Luminita Piscoran]] || align=left|{{flag|Romania}} || 5 (3+2) || 25:29.8 || +4:22.8
+|-
+| 78 || 64 || align=left|[[Sarah Murphy]] || align=left|{{flag|New Zealand}} || 1 (0+1) || 25:33.1 || +4:26.1
+|-
+| 79 || 101 || align=left|[[Nicole Gontier]] || align=left|{{flag|Italy}} || 4 (0+4) || 25:33.5 || +4:26.5
+|-
+| 80 || 99 || align=left|[[Song Chaoqing]] || align=left|{{flag|China}} || 2 (1+1) || 25:37.4 || +4:30.4
+|-
+| 81 || 72 || align=left|[[Sanna Markkanen]] || align=left|{{flag|Finland}} || 2 (1+1) || 25:39.5 || +4:32.5
+|-
+| 82 || 93 || align=left|[[Grete Gaim]] || align=left|{{flag|Estonia}} || 2 (0+2) || 25:40.5 || +4:33.5
+|-
+| 83 || 28 || align=left|[[Éva Tófalvi]] || align=left|{{flag|Romania}} || 3 (1+2) || 25:43.2 || +4:36.2
+|-
+| 84 || 83 || align=left|[[Nina Klenovska]] || align=left|{{flag|Bulgaria}} || 3 (0+3) || 25:44.8 || +4:37.8
+|-
+| 85 || 57 || align=left|[[Barbora Tomešová]] || align=left|{{flag|Czech Republic}} || 5 (4+1) || 25:47.7 || +4:40.7
+|-
+| 86 || 88 || align=left|[[Paulina Fialkova]] || align=left|{{flag|Slovakia}} || 3 (2+1) || 25:52.2 || +4:45.2
+|-
+| 87 || 98 || align=left|[[Kim Seon-Su]] || align=left|{{flag|South Korea}} || 3 (1+2) || 25:54.8 || +4:47.8
+|-
+| 88 || 50 || align=left|[[Kristel Viigipuu]] || align=left|{{flag|Estonia}} || 4 (0+4) || 25:58.4 || +4:51.4
+|-
+| 89 || 78 || align=left|[[Natalija Kočergina]] || align=left|{{flag|Lithuania}} || 5 (4+1) || 26:05.8 || +4:58.8
+|-
+| 90 || 55 || align=left|[[Tang Jialin]] || align=left|{{flag|China}} || 2 (1+1) || 26:07.5 || +5:00.5
+|-
+| 91 || 80 || align=left|[[Zhang Yan (biathlete)|Zhang Yan]] || align=left|{{flag|China}} || 1 (1+0) || 26:09.9 || +5:02.9
+|-
+| 92 || 79 || align=left|[[Niya Dimitrova]] || align=left|{{flag|Bulgaria}} || 4 (3+1) || 26:28.0 || +5:21.0
+|-
+| 93 || 96 || align=left|[[Naoko Azegami]] || align=left|{{flag|Japan}} || 6 (2+4) || 26:31.3 || +5:24.3
+|-
+| 94 || 106 || align=left|[[Desislava Stoyanova]] || align=left|{{flag|Bulgaria}} || 4 (2+2) || 26:31.9 || +5:24.9
+|-
+| 95 || 103 || align=left|[[Baiba Bendika]] || align=left|{{flag|Latvia}} || 2 (1+1) || 26:38.5 || +5:31.5
+|-
+| 96 || 75 || align=left|[[Lili Drčar]] || align=left|{{flag|Slovenia}} || 4 (2+2) || 26:39.9 || +5:32.9
+|-
+| 97 || 89 || align=left|[[Kim Kyung-Nam]] || align=left|{{flag|South Korea}} || 2 (1+1) || 26:41.2 || +5:34.2
+|-
+| 98 || 84 || align=left|[[Kim Seora]] || align=left|{{flag|South Korea}} || 4 (1+3) || 26:42.4 || +5:35.4
+|-
+| 99 || 111 || align=left|[[Aliona Sabaliauskiene]] || align=left|{{flag|Lithuania}} || 1 (0+1) || 26:46.8 || +5:39.8
+|-
+| 100 || 85 || align=left|[[Eevamari Oksanen]] || align=left|{{flag|Finland}} || 4 (1+3) || 26:52.0 || +5:45.0
+|-
+| 101 || 104 || align=left|[[Florina Ioana Cirstea]] || align=left|{{flag|Romania}} || 2 (1+1) || 27:06.3 || +5:59.3
+|-
+| 102 || 63 || align=left|[[Adele Walker]] || align=left|{{flag|Great Britain}} || 5 (3+2) || 27:11.3 || +6:04.3
+|-
+| 103 || 90 || align=left|[[Patricia Jost]] || align=left|{{flag|Switzerland}} || 5 (1+4) || 27:27.7 || +6:20.7
+|-
+| 104 || 110 || align=left|[[Yolaine Oddou]] || align=left|{{flag|Canada}} || 5 (3+2) || 27:31.5 || +6:24.5
+|-
+| 105 || 117 || align=left|[[Nerys Jones]] || align=left|{{flag|Great Britain}} || 4 (2+2) || 27:38.0 || +6:31.0
+|-
+| 106 || 100 || align=left|[[Inga Paskovska]] || align=left|{{flag|Latvia}} || 3 (1+2) || 27:42.3 || +6:35.3
+|-
+| 107 || 112 || align=left|[[Uiloq Slettemark]] || align=left|{{flag|Greenland}} || 2 (0+2) || 27:44.2 || +6:37.2
+|-
+| 108 || 94 || align=left|[[Jaqueline Mourão]] || align=left|{{flag|Brazil}} || 5 (1+4) || 28:09.3 || +7:02.3
+|-
+| 109 || 66 || align=left|[[Tanja Karišik]] || align=left|{{Nowrap|{{flag|Bosnia and Herzegovina}}}} || 2 (1+1) || 28:13.7 || +7:06.7
+|-
+| 110 || 61 || align=left|[[Alexandra Camenscic]] || align=left|{{flag|Moldova}} || 4 (1+3) || 28:15.9 || +7:08.9
+|-
+| 111 || 60 || align=left|[[Marija Kaznacenko]] || align=left|{{flag|Lithuania}} || 5 (2+3) || 28:16.3 || +7:09.3
+|-
+| 112 || 102 || align=left|[[Lucy Glanville]] || align=left|{{flag|Australia}} || 1 (0+1) || 28:24.1 || +7:17.1
+|-
+| 113 || 71 || align=left|[[Anete Brice]] || align=left|{{flag|Latvia}} || 3 (2+1) || 28:35.9 || +7:28.9
+|-
+| 114 || 109 || align=left|[[Chardine Sloof]] || align=left|{{flag|Netherlands}} || 4 (2+2) || 28:39.6 || +7:32.6
+|-
+| 115 || 67 || align=left|[[Panagiota Tsakiri]] || align=left|{{flag|Greece}} || 2 (1+1) || 29:23.9 || +8:16.9
+|-
+| 116 || 114 || align=left|[[Nihan Erdiler]] || align=left|{{flag|Turkey}} || 5 (2+3) || 32:11.1 || +11:04.1
+|-
+| – || 95 || align=left|[[Mun Ji-Hee]] || align=left|{{flag|South Korea}} ||  || {{sort|99:99.9|DNS}} ||
+|-
+| – || 107 || align=left|[[Fay Potton]] || align=left|{{flag|Great Britain}} ||  || {{sort|99:99.9|DNS}} ||
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Biathlon World Championships 2012 - Women's sprint}}
+[[Category:Biathlon World Championships 2012]]
+[[Category:2012 in German women's sport]]

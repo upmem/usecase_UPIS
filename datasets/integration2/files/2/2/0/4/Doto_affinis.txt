@@ -1,0 +1,42 @@
+{{italic title}}
+{{Taxobox
+| name = ''Doto affinis''
+| image = 
+| status = 
+| regnum = [[Animalia]]
+| phylum = [[Mollusca]]
+| classis = [[Gastropoda]]
+| unranked_superfamilia = clade [[Heterobranchia]]<br/>
+clade [[Euthyneura]]<br/>
+clade [[Nudipleura]]<br/>
+clade [[Nudibranchia]]<br/>
+clade [[Dexiarchia]]<br/>
+clade [[Cladobranchia]]<br>
+clade [[Dendronotida]]
+| superfamilia = [[Tritonioidea]]
+| familia = [[Dotidae]]
+| genus = ''[[Doto (mollusc)|Doto]]''
+| species = '''''D. affinis'''''
+| binomial = ''Doto affinis''
+| binomial_authority = [[Alcide d'Orbigny|d'Orbigny]], 1837<ref name="Or">D'Orbigny, A. 1837. Mémoire sur des espèces et sur des genres nouveaux de l'ordre des nudibranches, observés sur les côtes de France. Guerin Magasin de Zoologie 7 Class 5, pp. 1-16, pls. 102-109.</ref>
+| synonyms = 
+}}
+
+'''''Doto affinis''''' is a [[species]] of [[sea slug]], a [[Dendronotida|Dendronotid]] [[nudibranch]], a [[marine (ocean)|marine]] [[gastropod]] [[mollusc]] in the [[family (biology)|family]] [[Dotidae]]''.<ref>Gofas, S. (2015). [http://www.marinespecies.org/aphia.php?p=taxdetails&id=139626 ''Doto affinis'' (d'Orbigny, 1837).] In: MolluscaBase (2015). Accessed through: World Register of Marine Species on 2015-12-28</ref>
+
+==Distribution==
+This species was described from [[La Rochelle]], [[France]].
+
+==Description==
+''Doto affinis'' is described and illustrated as an animal with rhinophores in sheaths like other ''Doto'' species but with smooth cerata capped with white, resembling an aeolid. It is said to be similar to ''Doto coronata'' and found in similar places.
+
+==Ecology==
+''Doto affinis'' is a species which has not been recognised by recent authors.
+
+==References==
+{{reflist}}
+
+{{Taxonbar|from=Q13596830}}
+
+[[Category:Dotidae]]
+[[Category:Gastropods described in 1837]]

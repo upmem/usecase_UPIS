@@ -1,0 +1,86 @@
+{{Infobox settlement
+|official_name = Pelkie, Michigan
+|settlement_type = [[Unincorporated area|Unincorporated community]] 
+|nickname = 
+|motto =
+
+<!-- Images -->
+|image_skyline = 
+|imagesize = 
+|image_caption = 
+|image_flag = 
+|image_seal =
+
+<!-- Maps -->
+|image_map = 
+|mapsize = 
+|map_caption = 
+|image_map1 = 
+|mapsize1 = 
+|map_caption1 = 
+|pushpin_map = Michigan
+|pushpin_label = Pelkie
+|pushpin_label_position =left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location within the state of Michigan
+
+<!-- Location -->
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = United States
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[Michigan]]
+|subdivision_type2 = [[List of counties in Michigan|County]]
+|subdivision_name2 = [[Baraga County, Michigan|Baraga]]
+|subdivision_type3 = [[Civil township|Township]]
+|subdivision_name3 = [[Baraga Township, Michigan|Baraga]]
+
+<!-- General information -->
+|timezone = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset = -5
+|timezone_DST = EDT
+|utc_offset_DST = -4
+|elevation_footnotes = 
+|elevation_m = 202
+|elevation_ft = 663
+|coordinates = {{coord|46|48|48|N|88|38|11|W|type:city_scale:30000_source:GNIS|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type = [[ZIP code]]
+|postal_code = 49958
+|area_code = [[Area code 906|906]]
+|blank_name = [[Geographic Names Information System|GNIS]] feature ID
+|blank_info = 1621187<ref name="GR2"/>
+|blank1_name =
+|blank1_info = 
+|website = 
+|footnotes = 
+}}
+'''Pelkie''' is an [[unincorporated area|unincorporated community]] in [[Baraga County, Michigan|Baraga County]] in the [[U.S. state]] of [[Michigan]]. The community is on the [[Sturgeon River (Michigan)|Sturgeon River]] in the northeast part of [[Baraga Township, Michigan|Baraga Township]].<ref name="GR2">{{gnis|1621187}}</ref>
+
+Pelkie was settled by [[French Canadians]] in about 1885, and was first known as "'''King's Landing'''" and was renamed Pelkie after an early settler, William Pelkie.<ref>{{cite book|last1=Woertman|first1=Elizabeth|title=Pelkie-King Family Sketch|date=1991|page=1|url=http://www.thelarrykinggen.com/getperson.php?personID=I1133&tree=1|accessdate=11 June 2016}}</ref><ref>{{cite book |last=Thurner |first=Arthur W. |title=Strangers and Sojourners: A History of Michigan's Keweenaw Peninsula |url=https://books.google.com/books?id=jdm0X9c0XPcC |accessdate=2008-09-01 |year=1995 |publisher=Wayne State University Press |location=Detroit |isbn=0-8143-2396-0 |chapter=Ethnicity and Singularity |chapterurl=https://books.google.com/books?id=jdm0X9c0XPcC |quote=French Canadian woodsmen settled at a place in Baraga County in 1885 known as King's Land; but when farmers arrived to till the cutover land, the place became Pelkie, named after an early settler. |page=142 }}</ref> [[Finnish people|Finns]] who settled there initially called the place [[Kyrö]], after the place they came from in [[Finland]]; however, Kyro Location is now regarded as a distinct town from Pelkie. The name became Kuro after a railroad was built through the area.<ref name="Holmio">{{cite book |last=Holmio |first=Armas K. E. |others=Trans. Ellen M. Ryynanen |title=History of the Finns in Michigan |url=https://books.google.com/books?id=JcJVNoE3BuUC |accessdate=2008-09-01 |year=2001 |publisher=Wayne State University Press |location=Detroit |isbn=0-8143-2974-8 |chapter=The Copper County: Kyro and Nisula |chapterurl=https://books.google.com/books?id=JcJVNoE3BuUC |quote=Johnson and the other settlers decided to call the community Kyrö, after the place they came from in Finland. After the railroad was built through the cleared land, the name of the place was changed to Kuro when the station was so named. Later it was called Pelkie, which Järnefelt-Rauanheimo thinks may have come from the name Pelkinen. No one of that name, however, is known to have lived there. |ref= |page=101 }}</ref> Because many Finns settled in the area, the Finnish name Pelkinen has been suggested as the original. However, the name actually was derived from a former French-Canadian settler.<ref>{{cite journal | year = 1967 | title = Michigan History Magazine | journal = Michigan History Magazine | volume = 51-52 | pages = 341–342 | url = https://books.google.com/books?id=pPM7AAAAIAAJ&q=Pelkie,+Michigan | accessdate = 2009-09-01 | quote = Interpreting and identifying place-names solely by the resemblance of sound is futile. For example, Pelkie, the ... Baraga County, is commonly thought of as a Finnish name. But contrary to popular belief, Pelkie derives its name from the surname of one of its former French Canadian settlers. | publisher = Michigan Historical Commission }}</ref> It was a station on the [[Mineral Range Railroad]], and a post office was established on April 30, 1903.<ref name="Romig">{{cite book | last = Romig | first = Walter  | year = 1986 | title = Michigan Place Names | origyear= 1973 | publisher = Wayne State University Press | location = Detroit, Michigan | isbn = 0-8143-1838-X}}</ref> The Pelkie [[ZIP code]] 49958 serves areas in the north and northwest of [[Baraga Township, Michigan|Baraga Township]] in Baraga County, as well as an area of northeast [[Laird Township, Houghton County, Michigan|Laird Township]], southwest [[Elm River Township, Houghton County, Michigan|Elm River Township]], and southern [[Portage Township, Houghton County, Michigan|Portage Township]] in [[Houghton County, Michigan|Houghton County]].<ref>[http://factfinder.census.gov/servlet/MapItDrawServlet?geo_id=86000US49958&_bucket_id=50&tree_id=420&context=AdvSearch&_lang=en 49958 5-Digit ZCTA, 499 3-Digit ZCTA - Reference Map - American FactFinder]{{Dead link|date=March 2020 |bot=InternetArchiveBot |fix-attempted=yes }}, U.S. Census Bureau, 2000 census</ref>
+
+== Historic sites ==
+
+The Historic Pelkie Grade School museum, constructed in 1909, is the only one-room schoolhouse still standing in Baraga County, and is listed on the State Register of Historic Sites on June 10, 1980. The building was used as a school until 1932, then as a town hall, and underwent restoration beginning in 1979. The museum also houses a horse-drawn school bus.
+
+Today, Pelkie is home to the Baraga County Fair, which is held every year on the second weekend in August. The community's primary economic activity is dairy farming, and most of the milk is shipped to processors in Wisconsin.
+
+== References ==
+{{reflist}}
+
+==External links==
+* [http://www.baragacountyhistoricalmuseum.com/schoolhouse.html The Historic Pelkie Grade School]
+* [https://web.archive.org/web/20070313162313/http://www.mcgi.state.mi.us/hso/sites/2710.htm Michigan State Historic listing for Pelkie Grade School]
+* [http://www.nationalregisterofhistoricplaces.com/MI/Baraga/districts.html National Register of Historic Places]
+* [http://hunts-upguide.com/keweenaw_bay_hanka_homestead.html Hanka Homestead in Hunt's Guide to Michigan's Upper Peninsula]
+* [https://web.archive.org/web/20110606132629/http://www.mcgi.state.mi.us/hso/sites/2706.htm Michigan State Historic listing for Hanka Homestead]
+
+{{Baraga County, Michigan}}
+
+{{authority control}}
+
+[[Category:Finnish-American history]]
+[[Category:Finnish-American culture in Michigan]]
+[[Category:French-Canadian culture in Michigan]]
+[[Category:French-American culture in Michigan]]
+[[Category:Unincorporated communities in Baraga County, Michigan]]
+[[Category:Unincorporated communities in Michigan]]

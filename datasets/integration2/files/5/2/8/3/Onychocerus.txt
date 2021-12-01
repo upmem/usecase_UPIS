@@ -1,0 +1,35 @@
+{{short description|Genus of beetles}}
+{{Italic title}}
+{{Taxobox
+| image = Longhorn Beetle (Onychocerus scorpio) (40317486461).jpg
+| image2 = Onychocerus scorpio (30609070904).jpg
+| image2_caption = ''[[Onychocerus scorpio]]''
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Beetle|Coleoptera]]
+| subordo = [[Polyphaga]]
+| familia = [[Cerambycidae]]
+| genus = '''''Onychocerus'''''
+}}
+
+'''''Onychocerus''''' is a [[Neotropical]] genus of [[beetle]]s in the family [[Cerambycidae]], containing the following species:<ref>Bezark, Larry G. [http://plant.cdfa.ca.gov/byciddb/bycidview.asp A Photographic Catalog of the Cerambycidae of the World] {{Webarchive|url=https://web.archive.org/web/20180802110557/http://plant.cdfa.ca.gov/byciddb/bycidview.asp |date=2018-08-02 }}. Retrieved on 22 May 2012.</ref>
+
+* ''[[Onychocerus aculeicornis]]'' <small>(Kirby, 1818)</small>
+* ''[[Onychocerus albitarsis]]'' <small>Pascoe, 1859</small>
+* ''[[Onychocerus ampliatus]]'' <small>Bates, 1875</small>
+* ''[[Onychocerus concentricus]]'' <small>Bates, 1862</small>
+* ''[[Onychocerus giesberti]]'' <small>Júlio & Monné, 2001</small>
+* ''[[Onychocerus hovorei]]'' <small>Júlio & Monné, 2001</small>
+* ''[[Onychocerus scorpio]]'' <small>(Fabricius, 1781)</small>
+* ''[[Onychocerus versutus]]'' <small>(Lane, 1966)</small>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q14822673}}
+
+[[Category:Anisocerini]]
+
+
+{{Anisocerini-stub}}

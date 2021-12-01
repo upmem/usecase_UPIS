@@ -1,0 +1,31 @@
+{{Infobox NRHP
+  | name = V. R. Harris House
+  | nrhp_type = 
+  | image = V.R. Harris House.jpg
+  | caption = The V.R. Harris House in 2014
+  | location= Main Street, [[Erin, Tennessee]]
+  | coordinates = {{coord|36|19|01|N|87|42|04|W|region:US_type:landmark|name=V. R. Harris House|display=inline,title}}
+  | locmapin = Tennessee
+  | built = {{Start date|1891}}
+  | architect OR builder = 
+  | architecture = Queen Anne
+  | added = August 18, 1983
+  | area = {{convert|2|acre}}
+  | refnum = 83003040<ref name="nris">{{NRISref|version=2013a}}</ref>
+}}
+The '''V.R. Harris House''', also known as the '''Mitchum House''', is a historic house in [[Erin, Tennessee]], U.S.. It was built in 1891 for Volney Rowe Harris, a businessman who served as the mayor of Erin in 1881.<ref name="nrhpdoc">{{cite web|url={{NRHP url|id=83003040}}|title=National Register of Historic Places Inventory/Nomination: V. R. Harris House |publisher=[[National Park Service]]|author= |date= |accessdate=May 24, 2018}} With {{NRHP url|id=83003040|photos=y|title=accompanying pictures}}</ref> Harris lived here with his wife, née Lizzie Garner, and their twelve children.<ref name="nrhpdoc"/> It remained in the Harris family until 1924.<ref name="nrhpdoc"/> It was purchased by the Mitchum family in 1944, and it became known as the Mitchum House as a result.<ref name="nrhpdoc"/>
+
+The house was designed in the [[Queen Anne style architecture in the United States|Queen Anne architectural style]].<ref name="nrhpdoc"/> It has been listed on the [[National Register of Historic Places]] since August 18, 1983.<ref name="nris"/>
+
+==References==
+{{reflist}}
+
+{{National Register of Historic Places}}
+
+{{DEFAULTSORT:Harris, V. R., House}}
+[[Category:National Register of Historic Places in Houston County, Tennessee]]
+[[Category:Queen Anne architecture in Tennessee]]
+[[Category:Houses completed in 1891]]
+
+
+{{HoustonCountyTN-NRHP-stub}}

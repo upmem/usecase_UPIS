@@ -1,0 +1,30 @@
+{{Use Australian English|date=June 2020}}
+{{Use dmy dates|date=July 2019}}
+'''Nubba''' is a locality and former railway station on the [[Main Southern railway line, New South Wales|Main South railway line]] in [[New South Wales, Australia]], located midway between [[Wallendbeen, New South Wales|Wallendbeen]] and [[Harden, New South Wales|Harden]]. The station was open between 1882 and 1975 and has now been demolished.<ref>[http://www.nswrail.net/locations/show.php?name=NSW:Nubba&line=NSW:main_south:0 Nubba station]. NSWrail.net, accessed 29 August 2009.</ref> At the [[Census in Australia#2006|2006 census]], Nubba had a population of 281 people.<ref name=Census2006Y>{{Census 2006 AUS|id=SSC18413|name=Nubba (State Suburb) |accessdate=7 November 2009|quick=on}}</ref>
+
+Nubba is also a [[Lands administrative divisions of Australia|civil parish]] of [[Harden County, New South Wales]].<ref>Robert McLean, The New atlas of Australia : the complete work containing over one hundred maps and full descriptive geography of New South Wales, Victoria, Queensland, South Australia and Western Australia, together with numerous illustrations and copious indices  (Sydney :J. Sands, [1886) Map 11.</ref><ref>{{NSW GNR|id=MaIOWysEuj|title=Harden County|accessdate=}}</ref><ref>[http://nla.gov.au/nla.obj-231595470-v  County of Cowley and Co. Buccleuch New South Wales, 1871 map], [[County of Cowley and Co. Buccleuch New South Wales, 1871 map]].</ref>
+
+Prime Minister [[Harold Holt]]'s paternal grandparents owned a large farming property near Nubba. As a child, he lived there for a brief period and attended the local state school.<ref>{{cite book|author=Frame, Tom| author-link=Tom Frame (bishop)|title=The Life and Death of Harold Holt|url=https://archive.org/details/lifedeathharoldh00fram|url-access=limited|publisher=Allen & Unwin / National Archives of Australia|year=2005|isbn=1-74114-672-0|page=[https://archive.org/details/lifedeathharoldh00fram/page/n23 4]}}</ref>
+
+==References==
+{{reflist}}
+
+{{Adjacent stations
+|system1=State Rail Authority
+|line5=Main Southern|left5=Wallendbeen|right5=Demondrille
+}}
+
+{{Localities in Hilltops Council}}
+
+{{coord|34|32|01|S|148|14|05|E|display=title|scale:100000}}
+
+{{authority control}}
+
+[[Category:Towns in New South Wales]]
+[[Category:Localities in New South Wales]]
+[[Category:Geography of New South Wales]]
+[[Category:Hilltops Council]]
+[[Category:Main Southern railway line, New South Wales]]
+
+
+{{SouthernTablelands-geo-stub}}

@@ -1,0 +1,19 @@
+<div class="boilerplate afd vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result was '''delete'''. [[User:Ritchie333|<b style="color:#7F007F">Ritchie333</b>]] [[User talk:Ritchie333|<sup style="color:#7F007F">(talk)</sup>]] [[Special:Contributions/Ritchie333|<sup style="color:#7F007F">(cont)</sup>]] 16:22, 20 May 2019 (UTC)
+===[[:Bonsoni]]===
+<noinclude>{{AFD help}}</noinclude>
+:{{la|Bonsoni}} – (<includeonly>[[Wikipedia:Articles for deletion/Bonsoni|View AfD]]</includeonly><noinclude>[[Wikipedia:Articles for deletion/Log/2019 May 13#{{anchorencode:Bonsoni}}|View log]]</noinclude>{{int:dot-separator}} <span class="plainlinks">[https://tools.wmflabs.org/jackbot/snottywong/cgi-bin/votecounter.cgi?page=Wikipedia:Articles_for_deletion/Bonsoni Stats]</span>)
+:({{Find sources AFD|Bonsoni}})
+This does not appear to be a notable website.  References (those that aren't dead links) are directory listings, non-independent (press releases), or merely niche publications.  There is nothing that amounts to the "significant coverage" required to meet [[WP:N]] or historical significance mentioned in [[WP:Notability (web)]].  The business currently linked at bonsoni.com is a housewares store and appears unrelated to the classified advertisement website described in this article. [[User:Deli nk|Deli nk]] ([[User talk:Deli nk|talk]]) 15:38, 13 May 2019 (UTC)
+:<small class="delsort-notice">Note:  This discussion has been included in the [[Wikipedia:WikiProject Deletion sorting/Websites|list of Websites-related deletion discussions]]. <span style="text-shadow:0 1px 5px #99FFFF">[[User:94rain|<font color="#6495ED">94rain</font>]] [[User_talk:94rain|<sup><font color="gold">'''Talk'''</font></sup>]] </span> 15:44, 13 May 2019 (UTC)</small>
+:<small class="delsort-notice">Note:  This discussion has been included in the [[Wikipedia:WikiProject Deletion sorting/United Kingdom|list of United Kingdom-related deletion discussions]]. <span style="text-shadow:0 1px 5px #99FFFF">[[User:94rain|<font color="#6495ED">94rain</font>]] [[User_talk:94rain|<sup><font color="gold">'''Talk'''</font></sup>]] </span> 15:45, 13 May 2019 (UTC)</small>
+* '''Delete''' Fails [[WP:WEBSITE]]. [[User:SyndicaterUI78|Syndicater]] ([[User talk:SyndicaterUI78|talk]]) 20:30, 13 May 2019 (UTC)
+*'''Comment''' I see launch publicity but no sustained coverage. I’m doubtful of some of the claims the article makes as Bonsoni just sounds like Craigslist. [[User:Mccapra|Mccapra]] ([[User talk:Mccapra|talk]]) 22:29, 13 May 2019 (UTC)
+*'''Delete''' for the reasons above. [[User:Mccapra|Mccapra]] ([[User talk:Mccapra|talk]]) 08:59, 20 May 2019 (UTC)
+{{clear}}
+:''The above discussion is preserved as an archive of the debate. <b style="color:red">Please do not modify it.</b> Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page.''<!--Template:Afd bottom--></div>

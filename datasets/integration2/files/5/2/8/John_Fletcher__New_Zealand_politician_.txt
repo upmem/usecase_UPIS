@@ -1,0 +1,100 @@
+{{Use dmy dates|date=November 2016}}
+{{Use New Zealand English|date=November 2016}}
+{{Infobox officeholder
+|name            = John Fletcher
+|image           = John Shearer Fletcher.jpg
+|caption         = 
+|nickname        =
+|birth_date      = 22 December 1888<ref name="transcribed inscription">{{cite web |title=Cemetery Records |url= http://www.aucklandcity.govt.nz/dbtw-wpd/exec/dbtwpub.dll?AC=QBE_QUERY&TN=Cemeteries&QF0=Uniquerecordid&NP=2&RF=Reportweb&QI0=15050 |publisher=[[Auckland Council]] |access-date=31 October 2014}}</ref>
+|birth_place     = [[Kirkintilloch]], Scotland
+|death_date      = {{Death date and age|1934|2|15|1888|12|22|df=yes}}
+|death_place     = [[Auckland]], New Zealand
+|restingplace    = Hillsborough Cemetery, Auckland
+|parents         = 
+|relations       = [[James Fletcher (industrialist)|James Fletcher]] (brother)<br> [[James Muir Cameron Fletcher]] (nephew)
+|constituency_MP = [[Grey Lynn (New Zealand electorate)|Grey Lynn]]
+|parliament      = New Zealand
+|majority        = 
+|term_start      = 14 November 1928
+|term_end        = 12 November 1931
+|predecessor     = [[Fred Bartram]]
+|successor       = [[John A. Lee]]
+}}
+
+'''John Shearer Fletcher''' (22 December 1888 – 15 February 1934) was a New Zealand member of the [[New Zealand House of Representatives|House of Representatives]] for {{NZ electorate link|Grey Lynn}} in [[Auckland]]. Born in Scotland, he came to New Zealand in 1916 to join his brothers in their construction business, out of which grew [[Fletcher Construction]].
+
+==Early life==
+Fletcher was born at [[Kirkintilloch]], Scotland,{{sfn|Scholefield|1940|p=267}} the son of a builder, John Shearer Fletcher, and his wife, Janet Montgomery.<ref name="DNZB James Fletcher">{{DNZB|Parker|Selwyn James|4f17|Fletcher, James|31 October 2014}}</ref> He received his entire education through scholarships.<ref name="EP obit">{{cite news |title=Obituary |url= https://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=search&d=EP19340215.2.92 |access-date=31 October 2014 |work=[[The Evening Post (New Zealand)|The Evening Post]] |volume=CXVII |issue=39 |date=15 February 1934 |page=12}}</ref> He was one of thirteen children.<ref name="bus_hist">{{cite web |title=University of Auckland Business History Project - Fletcher Challenge |url= http://www.businesshistory.auckland.ac.nz/fletchers/founders.html |publisher=[[University of Auckland]] |access-date=1 November 2014}}</ref>
+
+By age 24, he was headmaster under the Kirkintilloch school board for technical and commercial classes. He then moved to [[Glasgow]]<ref name="Herald obit" /> and became secretary for the Scottish Class Teachers' Association, and was on the executive of the Scottish Education Institute.{{sfn|Scholefield|1940|p=267}}<ref name="EP obit" /> He was vice-president of the [[YMCA|Young Men's Christian Association]] (YMCA).{{sfn|Scholefield|1940|p=267}} He undertook studies in construction in the United States and in Canada.<ref name="Herald obit">{{cite news |title=Obituary |url= https://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=search&d=NZH19340216.2.166 |access-date=31 October 2014 |work=[[The New Zealand Herald]] |volume=LXXI |issue=21727 |date=16 February 1934 |page=14}}</ref>
+
+==Professional career in New Zealand==
+In 1916, Fletcher migrated to [[Dunedin]], New Zealand, to join his brothers in their construction business.{{sfn|Scholefield|1940|p=267}} The company had been founded in 1909 after his brother [[James Fletcher (industrialist)|James]]{{sfn|Hunt|2000|p=174}} had come to Dunedin in the previous year.<ref name="DNZB James Fletcher" /> His brother James started to concentrate on business in [[Auckland]] and [[Wellington]], and John Shearer Fletcher took over the Dunedin branch.{{sfn|Scholefield|1940|p=267}}<ref name="DNZB James Fletcher" /> Fletcher was an executive member of the Dunedin Manufacturers' Association.<ref name="AS obit">{{cite news |title=Mr J Fletcher Dead |url= https://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=search&d=AS19340215.2.87 |access-date=31 October 2014 |work=[[Auckland Star]] |volume=LXV |issue=39 |date=15 February 1934 |page=8}}</ref> Of poor health, he retired from business during the 1920s and moved to Auckland.<ref name="Herald obit" />
+
+==Member of Parliament==
+{{NZ parlbox header|nolist=true|align=left}}
+{{NZ parlbox
+ |start      = {{NZ election link year|1928}}
+ |end        = 1930
+ |term       = 23rd
+ |electorate = {{NZ electorate link|Grey Lynn}}
+ |party      = United Party (New Zealand)
+}}
+{{NZ parlbox allegiance
+ |start      = 1930
+ |end        = 1931
+ |party      = Independent politician
+}}
+{{NZ parlbox footer}}
+John Fletcher represented the {{NZ electorate link|Grey Lynn}} electorate in the [[New Zealand House of Representatives|House of Representatives]] from {{NZ election link year|1928}} to 1931.{{sfn|Wilson|1985|p=197}} In the 1928 election, Fletcher defeated [[Fred Bartram]] for Grey Lynn.{{sfn|Wilson|1985|pp=182, 197}}{{sfn|Habershon|1958|loc=Appendix p.vi}} After having threatened his government in September 1929 to cross the house over unemployment and economic issues,<ref>{{cite news |title=Indignant Supporter |url= https://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=search&d=NZH19290912.2.125 |access-date=1 November 2014 |work=[[The New Zealand Herald]] |volume=LXVI |issue=20358 |date=12 September 1929 |page=13}}</ref> Fletcher became an [[Independent politician|Independent]] during 1930.<ref name="1930 independent">{{cite news |title=State of Parties |url= https://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=search&d=AS19310107.2.17 |access-date=31 October 2014 |work=[[Auckland Star]] |volume=LXII |issue=5 |date=7 January 1931 |page=3}}</ref>{{sfn|Habershon|1958|pages=30, 33 & 45}} In the {{NZ election link|1931}}, he was defeated by [[John A. Lee]] of the Labour Party.{{sfn|Habershon|1958|loc=Appendix p.vi}}{{sfn|Wood|1996|p=90}}{{sfn|Bassett|1982|pp=39, 62}}
+
+==Private life and death==
+Fletcher married Alice Emily Murphy in 1919.<ref>{{cite web |title=Marriage Search |url= https://www.bdmhistoricalrecords.dia.govt.nz/Search/Search.aspx?Path=%2FqueryEntry.m%3Ftype%3Dmarriages |publisher=[[Department of Internal Affairs (New Zealand)|Department of Internal Affairs]] |access-date=1 November 2014 |quote=Search for registration number 1919/2175}}</ref> In Auckland, Fletcher participated in public life,<ref name="Herald obit" /> and he was active with the YMCA, other social movements,{{sfn|Scholefield|1940|p=267}} and belonged to the [[Rotary International|Rotary Club]].<ref>{{cite news |title=Auckland Rotary Club |url= https://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=search&d=AS19340219.2.82 |access-date=31 October 2014 |work=[[Auckland Star]] |volume=LXV |issue=42 |date=19 February 1934 |page=8}}</ref> He was interested in politics and economics, and involved in [[Association football in New Zealand|association football]], [[Cricket in New Zealand|cricket]], and [[Bowls|lawn bowls]].<ref name="AS obit" /> He died on 15 February 1934 and is buried at Hillsborough Cemetery in Auckland. His wife died on 28 June 1976.<ref name="transcribed inscription" />
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{cite book |last=Bassett |first=Michael |author-link=Michael Bassett |title=Three Party Politics in New Zealand 1911–1931 |year=1982 |publisher=Historical Publications |location=Auckland}}
+*{{Cite thesis |last=Habershon |first=Richard G. |title=A Study in Politics: 1928-1931 |year=1958 |publisher=University of Auckland |place=Auckland }}
+*{{cite book |last=Hunt |first=Graeme |author-link=Graeme Hunt |title=The Rich List: Wealth and Enterprise in New Zealand 1820-2000 |year=2000 |publisher=Reed Books |place=Auckland}}
+*{{cite book
+ | editor-last  = Scholefield
+ | editor-first = Guy
+ | editor-link  = Guy Scholefield
+ | title        = A Dictionary of New Zealand Biography : A–L
+ | volume       = I 
+ | year         = 1940
+ | publisher    = [[Department of Internal Affairs (New Zealand)|Department of Internal Affairs]]
+ | location     = Wellington
+ | url          = https://www.nzhistory.net.nz/files/documents/dnzb-1940/scholefield-dnzb-v1.pdf
+ | access-date   = 6 October 2013
+}}
+*{{cite book |last= Wilson |first= James Oakley |title= New Zealand Parliamentary Record, 1840–1984 |edition= 4th |orig-year=First published in 1913 |year= 1985 |publisher=V.R. Ward, Govt. Printer |location= Wellington |oclc= 154283103}}
+*{{cite book |editor-last=Wood |editor-first=G. Anthony |title=Ministers and Members: In the New Zealand Parliament |year=1996 |publisher=Otago University Press |location=Dunedin}}
+
+==External links==
+*[https://paperspast.natlib.govt.nz/newspapers/NZH19340216.2.30.2 Better photo], but possibly not out of copyright
+
+{{s-start}}
+{{s-par|nz}}
+{{s-bef | before = [[Fred Bartram]]}}
+{{s-ttl | title=[[Grey Lynn (New Zealand electorate)|Member of Parliament for Grey Lynn]] | years=1928–1931}}
+{{s-aft | after = [[John A. Lee]]}}
+{{end}}
+
+{{DEFAULTSORT:Fletcher, John Shearer}}
+[[Category:1888 births]]
+[[Category:1934 deaths]]
+[[Category:Independent MPs of New Zealand]]
+[[Category:United Party (New Zealand) MPs]]
+[[Category:New Zealand businesspeople]]
+[[Category:Businesspeople in construction]]
+[[Category:Scottish emigrants to New Zealand]]
+[[Category:Burials at Hillsborough Cemetery, Auckland]]
+[[Category:People from Kirkintilloch]]
+[[Category:Unsuccessful candidates in the 1931 New Zealand general election]]
+[[Category:Members of the New Zealand House of Representatives]]
+[[Category:New Zealand MPs for Auckland electorates]]
+[[Category:YMCA leaders]]
+[[Category:20th-century businesspeople]]

@@ -1,0 +1,18 @@
+{{User:COIBot/Summary/LinkReports}}
+Reporting statistics of link caedefensefund.org; 1 records.
+* {{spamlink|caedefensefund.org}}.
+* caedefensefund.org resolves to [http://128.2.102.79 128.2.102.79] - {{spamlink|128.2.102.79}}.
+* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+* Link would be caught by rule \bcaedefensefund\.org on the [[en:User:COIBot#Monitor list|monitor list]] ([[:en:User:COIBot#Monitor list|Automonitor]]: [[:en:WP:COI|conflict of interest]]? (calculated overlap Caedefensefund <-> caedefensefund.org; [http://en.wikipedia.org/w/index.php?title=Steve_Kurtz&diff=180527902&oldid=178434257 diff])).
+
+Reports
+# 02:02:53, Fri Dec 28, 2007 [[:en:user:Caedefensefund]] <-> caedefensefund.org (100%/82.35%/82.3% - calculated overlap Caedefensefund <-> caedefensefund.org) - [[:en:Steve_Kurtz]] - [http://en.wikipedia.org/w/index.php?title=Steve_Kurtz&diff=180527902&oldid=178434257 diff] - [[Wikipedia:WikiProject Spam/UserReports/Caedefensefund|COIBot UserReport]] - [[:en:Special:Contributions/Caedefensefund]].
+LWCOIBot reported 1 links.
+----
+Below a full report on all use of this link.
+
+This list is intended to see how the [[:en:WP:EL|external link]] gets used, it does '''not''' imply that involved accounts are having a [[:en:WP:COI|conflict of interest]] in adding the link, or that the involved accounts are [[:en:WP:SPAM|spamming]] the link.
+
+LinkWatcher records:
+
+# 2007-12-27 20:47:15: User [[:en:User:Caedefensefund|en:Caedefensefund]] ([[:en:User talk:Caedefensefund|talk]] - [[:en:Special:Contributions/Caedefensefund|contribs]]) to [[:en:Steve Kurtz]] ([http://en.wikipedia.org/w/index.php?title=Steve_Kurtz&diff=180527902&oldid=178434257 diff]). Links: www.publicbroadcasting.net/wbfo/news.newsmain?action=article&ARTICLE_ID=1173843 caedefensefund.org.<!--ID 1089374-->

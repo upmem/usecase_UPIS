@@ -1,0 +1,57 @@
+{{short description|1925 film}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox film
+| name              = Alice Gets Stung
+| image             = Alice Gets Stung title card.png
+| image_size        = 
+| alt               = 
+| caption           = 
+| director          = [[Walt Disney]]
+| producer          = [[Margaret J. Winkler|M. J. Winkler]]
+| story      = 
+| narrator          = 
+| starring       = 
+| music          = 
+| animator          = 
+| layout_artist     = 
+| background_artist = 
+| studio            = [[Walt Disney Animation Studios|Disney Brothers Cartoon Studio]]
+| distributor       = Winkler Pictures
+| released      = February 1, 1925
+| color_process     = Black and white
+| runtime           = 8 minutes
+| country           = United States
+| language          = English
+}}
+
+'''''Alice Gets Stung''''' is a 1925 animated short film by [[Walt Disney]] in the ''[[Alice Comedies]]'' series. It was [[Virginia Davis]]' last performance as Alice.<ref>{{cite book |last1=Lenburg |first1=Jeff |title=The Encyclopedia of Animated Cartoons |date=2009 |publisher=Checkmark Books |location=New York |isbn=978-0-8160-6600-1 |edition=3rd |pages=18–19}}</ref>
+
+== Plot ==
+[[File:Alice Gets Stung.png|thumb|left|Julius and Alice threatened by a bear]]
+[[Julius the Cat]] and Alice are hunting a wily rabbit, when they come across a bear, among other animals. Alice attempts to shoot the bear, but the bear ends up chasing them into a barrel. The bear then knocks a bee hive into the barrel (thus the "gets stung" in the title).
+
+== References ==
+<references />
+
+== External links ==
+{{Portal|Disney|Cartoon}}
+* {{imdb title|0015553}}
+* [https://web.archive.org/web/20160825232907/http://www.disneyshorts.org/shorts.aspx?shortID=23 ''Alice Gets Stung''] at [https://web.archive.org/web/20130113053731/http://disneyshorts.org/ The Encyclopedia of DisneyAnimated Shorts]
+{{Alice Comedies}}
+
+[[Category:1925 films]]
+[[Category:1925 short films]]
+[[Category:Disney animated short films, 1920s]]
+[[Category:Films directed by Walt Disney]]
+[[Category:Alice Comedies]]
+[[Category:1925 animated films]]
+[[Category:American silent short films]]
+[[Category:American films]]
+[[Category:American black-and-white films]]
+[[Category:American animated short films]]
+[[Category:Animated films about cats]]
+[[Category:Animated films about rabbits and hares]]
+[[Category:1925 comedy films]]
+
+
+{{Disney-animation-film-stub}}

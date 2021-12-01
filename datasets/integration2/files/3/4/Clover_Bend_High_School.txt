@@ -1,0 +1,41 @@
+{{Infobox NRHP
+  | name = Clover Bend High School
+  | nrhp_type = 
+  | image = Clover Bend HS.jpg
+  | caption = Clover Bend High School
+  | location = AR 228, [[Clover Bend, Arkansas]]
+  | coordinates = {{coord|35|59|7|N|91|5|15|W|display=inline,title}}
+  | locmapin = Arkansas#USA
+  | map_caption    = Location in [[Arkansas]]##Location in United States
+  | built = {{Start date|1937}}
+  | architect OR builder = Bracy, Bradford
+  | added = August 17, 1983
+  | area = less than one acre
+  | governing_body = Private 
+  | refnum = 83001159<ref name="nris">{{NRISref|version=2010a}}</ref>
+  | nrhp_type2 = cp
+  | nocat = yes
+  | designated_nrhp_type2 = September 17, 1990
+  | partof = [[Clover Bend Historic District]]
+  | partof_refnum = 90001368
+}}
+The '''Clover Bend High School''' is a historic community building on [[Arkansas Highway 228]] in [[Clover Bend, Arkansas]].  It is a single-story wood-frame structure, with a main central hip-roofed block, symmetrical side wings with gable roofs, and a rear projecting auditorium section.  It was built in 1937–38 with funding from the [[Farm Security Administration]], with a number of additional buildings added to the complex in later years, including a gymnasium, elementary school, and administrator housing.  This complex formed the core of a major rural resettlement project, which included more than 90 farms.<ref name=NRHP>{{cite web|url=http://www.arkansaspreservation.com/National-Register-Listings/PDF/LW0052.nr.pdf|title=NRHP nomination for Clover Bend High School|publisher=Arkansas Preservation|accessdate=2014-12-17}}</ref>
+
+The building was listed on the [[National Register of Historic Places]] in 1983.<ref name="nris"/>
+
+==See also==
+*[[National Register of Historic Places listings in Lawrence County, Arkansas]]
+
+==References==
+{{reflist}}
+
+{{National Register of Historic Places}}
+
+[[Category:School buildings on the National Register of Historic Places in Arkansas]]
+[[Category:School buildings completed in 1937]]
+[[Category:Buildings and structures in Lawrence County, Arkansas]]
+[[Category:National Register of Historic Places in Lawrence County, Arkansas]]
+[[Category:Historic district contributing properties in Arkansas]]
+
+
+{{LawrenceCountyAR-NRHP-stub}}

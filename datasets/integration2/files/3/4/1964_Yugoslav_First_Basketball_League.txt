@@ -1,0 +1,91 @@
+{{Infobox sports season
+| title               = 1964 Yugoslav First Basketball League
+| league              = [[Yugoslav First Basketball League]]
+| sport               = Basketball
+| federation          = 
+| caption             = 
+| duration            = 
+| attendance          = 
+| season              = 1964
+| season_champs       = {{flagicon|SR Serbia}} [[OKK Beograd]]
+| MVP                 = 
+| MVP_link            = 
+| top_scorer          = 
+| top_scorer_link     = 
+| seasonslist         = 
+| seasonslistnames    = Yugoslav First Basketball League
+| prevseason_link     = 1963 Yugoslav First Basketball League
+| prevseason_year     = 1963
+| nextseason_year     = 1965
+| nextseason_link     = 1965 Yugoslav First Basketball League
+}}
+The '''1964 Yugoslav First Basketball League''' season was the 20th season of the Yugoslav First Basketball League.
+
+== Classification ==
+{| align=center style="font-size: 90%; border-collapse:collapse" border=1 cellspacing=0 cellpadding=2
+|- align=center bgcolor=#98A1B2
+!width=40|
+!width=220|<span style="color:#FFFFFF"><small>Regular season ranking 1964</small></span>
+!width=55|<span style="color:#FFFFFF">Pt</span>
+!width=40|<span style="color:#FFFFFF">G</span>
+!width=40|<span style="color:#FFFFFF">V</span>
+!width=40|<span style="color:#FFFFFF">P</span>
+!width=40|<span style="color:#FFFFFF">PF</span>
+!width=40|<span style="color:#FFFFFF">PS</span>
+|- align=center style="background:#DDEEFF"
+| 1. ||style="text-align:left;"| '''[[OKK Beograd]]''' ||'''30'''||18||15||3||1520||1320
+|- align=center
+| 2. ||style="text-align:left;"| '''[[KK Zadar|Zadar]]''' ||'''24'''||18||12||6||1362||1286
+|- align=center
+| 3. ||style="text-align:left;"| '''[[KK Crvena Zvezda|Crvena Zvezda]]''' ||'''24'''||18||12||6||1387||1335
+|- align=center
+| 4. ||style="text-align:left;"| '''[[KK Olimpija|Olimpija]]''' ||'''22'''||18||11||7||1512||1365
+|- align=center
+| 5. ||style="text-align:left;"| '''[[KK Željezničar Karlovac|Željezničar Karlovac]]''' ||'''22'''||18||11||7||1261||1175
+|- align=center
+| 6. ||style="text-align:left;"| '''[[KK Cibona|Lokomotiva]]''' ||'''18'''||18||9||9||1361||1347
+|- align=center
+| 7. ||style="text-align:left;"| '''[[KK Partizan|Partizan]]''' ||'''16'''||18||8||10||1352||1382
+|- align=center
+| 8. ||style="text-align:left;"| '''[[BKK Radnički|Radnički Belgrade]]''' ||'''14'''||18||7||11||1215||1359
+|- align=center
+| 9. ||style="text-align:left;"| '''[[KK Split|Split]]''' ||'''10'''||18||5||13||1090||1214
+|- align=center
+| 10. ||style="text-align:left;"| '''[[KD Slovan|Slovan]]''' ||'''0'''||18||0||18||1219||1496
+|}
+
+
+The '''winning roster''' of [[OKK Beograd]]:<ref>{{cite news|url=http://nsl.kosarka.co.yu/History2.aspx|archive-url=https://web.archive.org/web/20080702123851/http://nsl.kosarka.co.yu/History2.aspx|url-status=dead|archive-date=2 July 2008|title=Yugoslav basketball league standings 1945-91|agency=nsl.kosarka.co.yu|date=|accessdate=7 January 2019}}</ref>
+* {{flagicon|YUG}} [[Radivoj Korać]]
+* {{flagicon|YUG}} [[Trajko Rajković]]
+* {{flagicon|YUG}} [[Slobodan Gordić]]
+* {{flagicon|YUG}} Milan Tošić
+* {{flagicon|YUG}} Bruno Pavelić
+* {{flagicon|YUG}} Milorad Erkić
+* {{flagicon|YUG}} [[Miodrag Nikolić]]
+* {{flagicon|YUG}} Zoran Bojković
+* {{flagicon|YUG}} Božidar Milojković
+* {{flagicon|YUG}} Ljubomir Stanković
+* {{flagicon|YUG}} Momčilo Pazmanj
+
+'''Coach''': {{flagicon|YUG}} [[Borislav Stanković]]
+
+==Scoring leaders==
+# [[Radivoj Korać]] (OKK Beograd) – ___ points (__ ppg)<ref>{{cite news|last=Stanković|first=Vladimir|url=http://www.euroleague.net/final-four/belgrade-2018/news/i/8pfkyl4ncod8w969/belgrade-s-aces|title=Belgrade's aces|agency=[[Euroleague]].net|date=30 April 2018|accessdate=5 May 2018}}</ref>
+# ???
+# ???
+
+== Qualification in 1964-65 season European competitions ==
+
+[[1964–65 FIBA European Champions Cup|FIBA European Champions Cup]]
+* [[OKK Beograd]] <small>(Champions)</small>
+
+==References==
+{{reflist}}
+
+
+{{Yugoslav First Basketball League seasons}}
+{{Basketball in Yugoslavia}}
+
+[[Category:Yugoslav First Basketball League seasons]]
+[[Category:1964 in Yugoslav basketball|  ]]

@@ -1,0 +1,51 @@
+{{Infobox book | <!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books -->
+| name          = Splinter
+| title_orig    = 
+| translator    = 
+| image         = 
+| caption = 
+| author        = [[Adam Roberts (British writer)|Adam Roberts]]
+| cover_artist  = 
+| country       = United Kingdom
+| language      = English
+| series        = 
+| genre        = [[Science fiction]] novel
+| publisher    = [[Solaris Books]]
+| release_date = September 2007
+| media_type   = Print ([[Hardcover]] & [[Paperback]])
+| pages        = 252
+| isbn         = 1-84416-490-X
+| oclc= 153558628
+| preceded_by  = 
+| followed_by  = 
+}}
+
+'''''Splinter''''', published in 2007, is a [[science fiction]] novel by the British writer [[Adam Roberts (British writer)|Adam Roberts]]. It is based on an earlier story by the author, "Hector Servadac, fils", which was part of ''The Mammoth Book of Jules Verne Adventures''. It is a reworking of ''[[Off on a Comet]]'', an 1877 novel by [[Jules Verne]]. The hardcover edition of the novel is included in a slipcase with a hardcover edition of ''Off on a Comet''.
+
+==Plot summary==
+As in Verne's novel, the main character is Hector Servadac, however, instead of being stranded on the comet while serving in the French Algerian army, his father is a supporter of a [[doomsday cult]] and Servadac is stranded on a splinter of the shattered Earth when the planet is destroyed by a comet. Roberts described the central metaphor as "the trope that the world might end and that we might not even be sure it has happened. We surely wouldn't be wholly oblivious (this is the end of the world we're talking about, after all!) But we might not be wholly certain, either. There would be a lengthy transition period during which we would become increasingly convinced that something substantial had changed in our lives."<ref>{{cite web |url= http://www.adamroberts.com/writing/splinter/ |author= Roberts, Adam |title= Splinter |publisher= AdamRoberts.com |date= 2007 |accessdate=December 11, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20190812082149/http://www.adamroberts.com/writing/splinter/ |archive-date=2019-08-12}}</ref>
+
+==Reception==
+In the SF Encyclopedia, [[John Clute]] described ''Splinter'' as an "enjoyable homage to and gloss upon the Verne novel."<ref name="SF Encyclopedia">{{cite web
+| url = http://www.sf-encyclopedia.com/entry/roberts_adam
+| title = Roberts, Adam
+| work = SF Encyclopedia
+| edition = 3rd
+| accessdate=2012-12-11
+}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.adamroberts.com The Author's Website]
+
+{{Adam Roberts}}
+
+[[Category:2007 British novels]]
+[[Category:2007 science fiction novels]]
+[[Category:British science fiction novels]]
+[[Category:Works by Adam Roberts (British writer)]]
+[[Category:Adaptations of works by Jules Verne]]
+[[Category:Impact event novels]]
+[[Category:Fictional comets]]

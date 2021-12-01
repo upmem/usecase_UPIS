@@ -1,0 +1,75 @@
+{{Use dmy dates|date=September 2019}}
+{{Infobox school
+| name            = Henbury High School
+| image           = Henbury High School, Macclesfield (geograph 1922480).jpg
+| image_size      =
+| coordinates     = {{Coord|53.261|-2.163|type:edu_region:GB_scale:10000|format=dec|display=inline,title}}
+| motto           = 
+| former_name     = Broken Cross Secondary Modern School
+| status          = Unclassified
+| established     = {{Start date|1958}}
+| closed          = {{End date and age|2007|09|01|df=yes}}
+| type            = [[Comprehensive school|Comprehensive]] [[Secondary school|secondary]]
+| local_authority = Cheshire East
+| president       =
+| head_label      = 
+| head            = 
+| r_head_label    =
+| r_head          =
+| chair_label     =
+| chair           =
+| founder         = 
+| pushpin_map     = United Kingdom Cheshire
+| address         = Whirley Road
+| city            = [[Macclesfield]]
+| county          = [[Cheshire]]
+| postcode        = SK10 3JP
+| country         = England
+| dfeno           = 
+| ofsted          = y
+| urn             = 111465
+| staff           =
+| enrolment       = 1000
+| gender          = [[Mixed-sex education|Coeducational]]
+| lower_age       = 11
+| upper_age       = 18
+| houses          = 
+| colours         =
+| publication     =
+| free_label_1    =
+| free_1          =
+| free_label_2    =
+| free_2          =
+| free_label_3    =
+| free_3          =
+| website         = {{URL2|https://web.archive.org/web/20060104075321if_/http://www.henburyhighschool.co.uk/|www.henburyhighschool.co.uk}}
+| lastupdate      = 16 November 2019
+}}
+'''Henbury High School''' was a [[comprehensive school]] for girls and boys aged 11 – 18 in [[Macclesfield]], [[Cheshire]], England, established in 1958. Henbury High closed in July 2007 and re-opened as [[Macclesfield High School]] in a new location. It had approximately 1000 pupils, and 100 members of staff. Before it became Henbury High School it was known as Broken Cross Secondary Modern School, but changed its name in 1979. It was a successful foundation school, with twin specialisms. In 1998, it was designated as a specialist technology college. In 2004, as a result of being identified as a high-performing secondary school by the DfES, the school was invited to apply for a second specialism in art and English.
+
+== Chronology ==
+=== Early '90s - Late '90s ===
+In 1993, the Governors opted out of the local authority and the school became "grant maintained".  New capital investment was made with the building of the extension to the technology block.  In 1997, part of the Henbury playing fields were sold to private developers, to generate income to improve the sports facilities.  A new all-weather pitch was opened in 1999.
+
+=== The late '90s - 2007 ===
+In September 2004, Henbury welcomed almost all of the students from the closing Ryles Park High School, [[Macclesfield]]. This expansion led to the construction of 12 new temporary classrooms and a large purpose built temporary sports hall.
+
+=== Moved and renamed ===
+In September 2007, Henbury moved from its present site into a newly built school on the new £38 million development known as the Macclesfield Learning Zone about two miles away. Since the school was some distance from Henbury parish, it adopted the new name of [[Macclesfield High School]]. The old Henbury site became Jasmine Park, a new housing development site with amenities such as open park areas, leisure play areas and three new football fields as well as being home to new apartments and houses.
+
+== Uniform ==
+The uniform was navy blue in colour: pupils had to wear a [[skirt]] or [[trousers]] in black, as well as a pale blue shirt, blue and white tie and a navy blue sweater, which was replaced by a pale blue polo shirt with the school logo. Since becoming [[Macclesfield High School]] the uniform has changed to: black skirt or trousers, blue blazer, blue and gold tie, white shirt, white socks or black/natural tights for girls, and grey/black socks for boys, black school shoes for all pupils.
+
+== External links ==
+* {{Webarchive|url=https://web.archive.org/web/20060104075321/http://www.henburyhighschool.co.uk/|date=4 January 2006|title=Henbury High School}}
+* {{Ofsted|111465|Ofsted details for Henbury High School}}
+
+
+{{Schools in Cheshire}}
+
+
+[[Category:Defunct schools in the Borough of Cheshire East]]
+[[Category:Educational institutions established in 1958]]
+[[Category:Educational institutions disestablished in 2007]]
+[[Category:1958 establishments in England]]
+[[Category:2007 disestablishments in England]]

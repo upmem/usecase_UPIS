@@ -1,0 +1,58 @@
+{{Use dmy dates|date=March 2014}}
+{{Advert|date=November 2011}}
+{{Infobox website
+| name     = E-commerce China Dangdang Inc. <br /> 当当网
+| logo     = [[File:Dangdang logo.png|200px|Dangdang.com logo]]
+| company_type     = [[Privately held company ]]
+| foundation       = 
+| founder          = Peggy Yu <br /> Li Guoqing
+| location         = Beijing, People's Republic of China
+| area_served      = People's Republic of China
+| key_people       = [[Guoqing Li]] {{small|(CEO)}}, [[Peggy Yu]]<br><small>([[Chairman|Executive chairwoman]])</small>
+| industry         = [[Online shopping]]
+| num_employees    = 2,907<ref>{{cite web|url=https://www.google.com/finance?cid=3781006|title=finance - Google Search|website=Google.com|accessdate=26 July 2018}}</ref>
+| url              = [http://www.dangdang.com/ Dangdang.com]
+| website_type     = [[E-commerce]]
+| language         = Chinese
+| advertising      = [[Web banner]]
+| launch_date      = {{Start date and age|1999}}
+}}
+
+'''E-commerce China Dangdang Inc.''' ({{zh|c=[[wikt:当当网|当当网]]}}), known as '''Dangdang''', is a Chinese [[electronic commerce]] company, founded by [[Peggy Yu]] and Li Guoqing in 1999.<ref name="atimes">{{cite news |title=Dangdang heads for Nasdaq |author=Sherman So |url=http://www.atimes.com/atimes/China_Business/LJ27Cb01.html |newspaper=Asia Times |date=27 October 2010 |accessdate=7 February 2011}}</ref> It is headquartered in Beijing and its main competitors are [[Amazon.cn]] (or Amazon China, formerly [[Joyo.com]]) and [[JD.com]] (or Jingdong, formerly [[360buy.com]]). The competition escalated into a price war in December 2010, with each retailer marking down a wide range of items, especially books.<ref>{{cite news|title=360buy.com in Price War with Dangdang, Joyo Amazon |url=http://www.tradingmarkets.com/news/stock-alert/dada_dang_360buy-com-in-price-war-with-dangdang-joyo-amazon-1383011.html |archive-url=https://web.archive.org/web/20101225145621/http://www.tradingmarkets.com/news/stock-alert/dada_dang_360buy-com-in-price-war-with-dangdang-joyo-amazon-1383011.html |url-status=dead |archive-date=25 December 2010 |newspaper=Trading Markets |date=22 December 2010 |accessdate=7 February 2011 }}</ref> DangDang made an [[Initial Public Offering|IPO]] on the NYSE in November 2010, estimated at approximately US$1 billion.<ref name="atimes"/>
+
+== Products ==
+
+Dangdang's main product categories include household merchandise, cosmetics, digital, home appliances, books, audio, and dozens of clothing and maternal and child categories. There are over 10 million new registered customers per year in Dangdang .{{citation needed|date=November 2011}} More than 100 thousand people buy things from Dangdang each day. There are about 30 million people a month browse different kinds of products each month. The monthly sale of goods in Dangdang is over 20 million.
+
+Dangdang sells over 200,000 kinds of books and 10,000 kinds of software and audio products, which make up 90% of the category in China mainland. There are about 3,000 employees in Dangdang, and its customers are among 50 countries, and over 40% B2C customers in China have shopping experiences with Dangdang.<ref>{{cite news |title=Dangdang Current Finance Status |url=http://finance.jrj.com.cn/consumer/2011/11/09184011522569.shtml |newspaper=JRJ |date=9 November 2011 |accessdate=9 November 2011}}</ref>
+
+== History ==
+* November 1999: Website launched
+* February 2000: Dangdang raises venture capital
+* July 2001: Daily unique visitors exceed 500,000, Dangdang becomes the busiest books and video store
+* February 2004: Dangdang raises a second round of venture capital of $11 million from [[Tiger Management]]
+* April 2004: Dangdang expands their business to general merchandise, and has sold [[commodity|commodities]]
+* July 2006: Dangdang raises a third round of venture capital of $27 million from DCM, Walden International and Alto Global Investment
+* October 2006: Dangdang launches a personalized product recommendation function 
+* September 2009: Dangdang is the first to introduce mobile device purchasing options in Chinese B2C e-commerce
+* December 2010: Dangdang is successfully listed on the NYSE in the U.S.
+* July 2015: Dangdang Chairwoman [[Peggy Yu]] and CEO Quoqing Li proposed to buyout the company at $7.81 per ADS, which is less than half of its IPO value and even well below the prior 30 days average stock price. Bloomberg reported that Dangdang's buyout proposal is the lowest among all Chinese ADRs seeking to go private historically.<ref name="Dangdang Mangement's Opportunistic Proposal">{{cite news |last = Michael |first = Santoli |title = Shanghai stock rout invites timely buyout bids for U.S.-listed Chinese firms |url = https://finance.yahoo.com/news/shanghai-stock-rout-invites-timely-buyout-bids-for-u-s--listed-chinese-firms-195506123.html |accessdate = 17 July 2015 |website = Yahoo Finance |date = 17 July 2015 }}</ref>
+* August 2015: Dangdang shareholders widely protested against the $7.81 per ADS buyout offer by its management team and launched a shareholder protest website - [https://web.archive.org/web/20150821130048/http://www.dangdangfacts.com/ dangdangfacts.com]
+* May 2015: Dangdang Special Committee approved the management buyout at $6.7 per ADS. 
+* August 2015: Many shareholders of Dangdang chose to dissent from the Merger by exercising shareholder appraisal rights according to Cayman Companies Law Section 238. 
+* September 2015: Dangdang completes its go-private. 
+* November 2015: Merger dispute litigation between Dangdang and 3% shareholders at Cayman Islands Grand Court. The litigation progress is documented at [https://web.archive.org/web/20150821130048/http://www.dangdangfacts.com/ dangdangfacts.com]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://www.dangdang.com/}} {{in lang|zh}}
+
+[[Category:Companies formerly listed on the New York Stock Exchange]]
+[[Category:Companies based in Beijing]]
+[[Category:Internet properties established in 1999]]
+[[Category:Retail companies established in 1999]]
+[[Category:Online retailers of China]]
+[[Category:1999 establishments in China]]
+[[Category:2010 initial public offerings]]

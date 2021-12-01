@@ -1,0 +1,23 @@
+{{Use dmy dates|date=August 2012}}
+{{Use Australian English|date=August 2012}}
+'''Jindalee''' is a locality in the [[Riverina]] district of [[New South Wales]], [[Australia]]. The [[Main Southern railway line, New South Wales|Main South railway line]] passes through the area, and a passenger station was located there between 1896 and 1970.<ref>[http://www.nswrail.net/locations/show.php?name=NSW:Jindalee&line=NSW:main_south:0 Jindalee station]. NSWrail.net, accessed 29 August 2009.</ref> The town's name is derived from an aboriginal word meaning 'bare hill'.<ref>{{NSW GNR|id=MaYboesEJP|title=Jamberoo|accessdate=11 October 2009}}</ref>
+
+==References==
+{{reflist}}
+
+{{Adjacent stations
+|system1=State Rail Authority
+|line5=Main Southern|left5=Cootamundra|right5=Morrisons Hill
+}}
+
+{{coord|34|34|57|S|148|05|02|E|display=title|scale:100000}}
+
+
+{{authority control}}
+
+[[Category:Towns in the Riverina]]
+[[Category:Towns in New South Wales]]
+[[Category:Main Southern railway line, New South Wales]]
+
+
+{{Riverina-geo-stub}}

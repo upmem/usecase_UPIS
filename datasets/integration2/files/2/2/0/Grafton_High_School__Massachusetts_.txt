@@ -1,0 +1,60 @@
+{{Infobox school
+| name        = Grafton High School
+| image       = Grafton High School, Grafton MA.jpg
+| native_name =
+| type        = [[State school|Public School]]<br>[[School choice|Open enrollment]]<ref>http://www.doe.mass.edu/finance/schoolchoice/choice-status.pdf</ref>
+| established = 1838
+| motto       = To prepare our students intellectually, physically, and socially for their role as life-long learners and responsible citizens."
+| city        = [[Grafton, Massachusetts|Grafton]]
+| state       = [[Massachusetts]]
+| country     = United States
+| pushpin_map = Massachusetts#USA
+| coordinates ={{Coord|42.21196|-71.69564|type:edu_region:US-MA|display=inline,title}}
+|enrollment=835 (2017-18)<ref name=NCES>[https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?Search=1&DistrictID=2505370&ID=250537000786 Grafton High School]</ref>
+| ratio = 12.80<ref name=NCES />
+| staff = 65.25 (FTE)<ref name=NCES />
+| colors      = Green & White {{color box|darkgreen}} {{color box|white}}
+| mascot      = Indians
+| grades      = 9-12
+| SAT         = 581 verbal<br />586 math<br />1167 total (2017-2018)<ref>http://profiles.doe.mass.edu/statereport/sat.aspx</ref>
+| newspaper   = The Grafton Globe
+| athletics_conference = Southern Worcester County League
+| superintendent = James Cummings
+| principal   = James Pignataro<ref name="Homepage">{{cite web |title=Grafton High School / Homepage |url=https://www.graftonps.org/Domain/8 |website=http |accessdate=14 April 2020 |language=en}}</ref>
+| homepage    = {{url|https://www.graftonps.org/Domain/8}}
+| streetaddress = 24 Providence Rd
+| zipcode     = 01519
+}}
+
+'''Grafton High School''' is a high school in [[Grafton, Massachusetts|Grafton]], [[Massachusetts]], United States.  It has a population of 750 students in grades 9–12, with an average class size of 21.
+
+The curriculum offers a wide variety of courses in areas of business and computer science, music, video game design, English, family consumer science, health, physical education, mathematics, science and technology, social studies, special education, visual and performing arts, world languages, community service, school service, and independent studies.
+
+==Athletics==
+Grafton High School is home to the Grafton Indians. The school hosts many sports teams including soccer, football, track and field, lacrosse, basketball, ice hockey, baseball, cheerleading, tennis, golf, cross country and softball. The school is part of the Southern Worcester County Athletic League. The ice hockey and softball teams recently won the State Championship in 2017.
+
+==Notable alumni==
+*[[Obi Melifonwu]], NFL safety, currently on the practice squad  for the [[New England Patriots]]<ref>{{cite web|url=http://www.telegram.com/sports/20170428/nfl-draft-graftons-obi-melifonwu-selected-by-raiders-with-56th-pick-in-second-round|title=NFL Draft: Grafton’s Obi Melifonwu selected by Raiders with 56th pick in second round|publisher=telegram.com|accessdate=December 30, 2017}}</ref>
+*[[Ricky Duran]], contestant on season 17 of [[The Voice (American TV series)|The Voice]] on [[NBC]]
+*[[Steve Spagnuolo]], defensive coordinator for the [[Kansas City Chiefs]] of the National Football League
+
+==References==
+{{Reflist}}
+
+== External links ==
+*[http://graftonps.org/Domain/8 Official Website]
+*[http://www.grafton.k12.ma.us Grafton Public Schools Website]
+*[http://www.facebook.com/pages/Grafton-High-School-official/231594633540328 Grafton High School Facebook Page]
+
+{{Massachusetts Public High Schools}}
+
+
+{{authority control}}
+
+[[Category:Schools in Worcester County, Massachusetts]]
+[[Category:Public high schools in Massachusetts]]
+[[Category:1993 establishments in Massachusetts]]
+[[Category:Educational institutions established in 1993]]
+
+
+{{Massachusetts-school-stub}}

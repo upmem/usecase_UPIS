@@ -1,0 +1,25 @@
+{{sidebar games events
+| event = Tennis
+| name = TennisAt1968SummerOlympics
+| games = 1968 Summer Olympics
+| image = [[Image:Tennis pictogram.svg|50px]]
+| event1 = Demonstration
+| event1.1 = Singles
+| results1.1a = [[Tennis at the 1968 Summer Olympics – Demonstration Men's Singles|men]]
+| results1.1b = [[Tennis at the 1968 Summer Olympics – Demonstration Women's Singles|women]]
+| event1.2 = Doubles
+| results1.2a = [[Tennis at the 1968 Summer Olympics – Demonstration Men's Doubles|men]]
+| results1.2b = [[Tennis at the 1968 Summer Olympics – Demonstration Women's Doubles|women]]
+| results1.2c = [[Tennis at the 1968 Summer Olympics – Demonstration Mixed Doubles|mixed]]
+| event2 = Exhibition
+| event2.1 = Singles
+| results2.1a = [[Tennis at the 1968 Summer Olympics – Exhibition Men's Singles|men]]
+| results2.1b = [[Tennis at the 1968 Summer Olympics – Exhibition Women's Singles|women]]
+| event2.2 = Doubles
+| results2.2a = [[Tennis at the 1968 Summer Olympics – Exhibition Men's Doubles|men]]
+| results2.2b = [[Tennis at the 1968 Summer Olympics – Exhibition Women's Doubles|women]]
+| results2.2c = [[Tennis at the 1968 Summer Olympics – Exhibition Mixed Doubles|mixed]]
+}}<noinclude>
+[[Category:Tennis at the Summer Olympics navigational boxes|1968]]
+[[Category:1968 Summer Olympics navigational boxes|Tennis]]
+</noinclude>

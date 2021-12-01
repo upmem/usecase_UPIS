@@ -1,0 +1,95 @@
+{{Use dmy dates|date=July 2013}}
+{{Use Australian English|date=July 2013}}
+{{Infobox rugby league biography
+|name     = James Grant
+|fullname       = James C. Grant
+|nickname       = Jimmy Grant the Immigrant
+|image          = 
+|image_size     =
+|caption        =
+|country        =  
+|position       = {{rlp|WG|CE}}
+|birth_date    = {{birth date and age|1964|5|22|df=y}}
+|birth_place   =[[Canowindra]], Australia
+|death_date=
+|death_place=
+|height         =  
+|weight         =  
+|club1          = [[Balmain Tigers]]
+|year1start     = 1989
+|year1end       = 92
+|appearances1   = 65
+|tries1         =  30
+|goals1         =  3
+|fieldgoals1    =  0
+|points1        = 126
+|club2               =[[Hull F.C.]] 
+|year2start          = 1992
+|year2end            = 94
+|appearances2        = 
+|tries2              = 25
+|goals2              = 0
+|fieldgoals2         = 0
+|points2             = 100
+|club3               = [[Western Reds]]
+|year3start          = 1995
+|year3end            = 
+|appearances3        = 9
+|tries3              = 0
+|goals3              = 0
+|fieldgoals3         = 0
+|points3             = 0
+|first=RU
+|ru_teamA            = [[New South Wales rugby union team|New South Wales]]
+|ru_yearAstart       = 1984
+|ru_yearAend         = 88
+|ru_appearancesA     = 15
+|ru_triesA           = 
+|ru_goalsA           = 
+|ru_fieldgoalsA      = 
+|ru_pointsA          = 
+|ru_teamB            = [[Australia national rugby union team|Australia]]
+|ru_yearBstart       = 1988
+|ru_yearBend         = 
+|ru_appearancesB     = 5
+|ru_triesB           = 
+|ru_goalsB           = 
+|ru_fieldgoalsB      = 
+|ru_pointsB          = 
+|updated        = 
+|source         = <ref name=rlp>[http://www.rugbyleagueproject.org/players/James-Grant/summary.html James Grant] ''rugbyleagueproject.org''</ref>
+|new            = yes
+}}
+
+'''James Grant''' (born 22 May 1964) is an Australian [[rugby football]]er who played international [[rugby union]] and played [[rugby league]] professionally in England and Australia.
+
+==Early years==
+Grant attended Canowindra Central School and [[St Stanislaus' College (Bathurst)|St Stanislaus' College]] in Bathurst where he made the school's First XV.<ref name=hof>[http://www.orange.nsw.gov.au/site/index.cfm?display=174729#James_C_Grant Sporting Hall of Fame] {{Webarchive|url=https://web.archive.org/web/20110216094344/http://www.orange.nsw.gov.au/site/index.cfm?display=174729#James_C_Grant |date=16 February 2011 }} ''orange.nsw.gov.au''</ref>
+
+==Playing career==
+He joined the Orange City [[rugby union]] club in 1983. He represented New South Wales Country before moving to Kiama in 1984 for two seasons where he represented Illawarra, NSW County and New South Wales. He returned to Orange in 1986 and played for NSW. In 1987 he played for the Gordon club in Sydney. He again returned to Orange in 1988 and made both the NSW and Australian sides.<ref name=hof/>
+
+Grant switched to [[rugby league]] in 1989, joining the [[Balmain Tigers]] in the [[NSWRL Premiership]]. He was part of the Tigers side that played in the grand final [[1989 NSWRL season|that season]] and stayed with the club until 1992. He had found it difficult to maintain his first grade place with the Tigers and moved to [[Hull F.C.]] for the 1992/93 season.<ref name=rlp/>
+[http://www.rugbyleagueproject.org/players/james-grant/summary.html]
+[http://www.centralwesterndaily.com.au/news/local/sport/rugby-league/grant-turns-back-clock-with-cyms/2222679.aspx]
+[http://www.smh.com.au/rugby-league/league-news/nothing-for-granted-but-tigers-get-a-rising-star-20110806-1igjc.html]
+[https://web.archive.org/web/20110216094344/http://www.orange.nsw.gov.au/site/index.cfm?display=174729#James_C_Grant]
+
+==References==
+{{Reflist}}
+{{1995 Western Reds }}
+{{Authority control}}
+
+{{DEFAULTSORT:Grant, James}}
+[[Category:Living people]]
+[[Category:Australian rugby league players]]
+[[Category:1964 births]]
+[[Category:Australian rugby union players]]
+[[Category:Australia international rugby union players]]
+[[Category:Balmain Tigers players]]
+[[Category:Western Reds players]]
+[[Category:Hull F.C. players]]
+[[Category:Rugby league wingers]]
+[[Category:Rugby league centres]]
+[[Category:Rugby union wings]]
+[[Category:Rugby league players from New South Wales]]

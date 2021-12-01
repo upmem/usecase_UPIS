@@ -1,0 +1,47 @@
+{{Orphan|date=December 2012}}
+
+{{family name hatnote|[[Lee (Korean name)|Lee]]||lang=Korean}}
+{{expand Korean|이징옥|date=October 2012}}
+{{Infobox Korean name
+|img=
+|title=
+|caption=
+|hangul=이징옥
+|hanja=李澄玉
+|rr=Yi Jing-ok
+|mr=Lee Jing-ok
+|hangulho=원봉
+|hanjaho=圓峰
+|rrho=Wonbong
+|mrho=Wonbong
+|hangulph=충강
+|hanjaph=忠剛
+|rrph=Chunggang
+|mrph=Chunggang
+}}
+General '''Lee Jing-ok'''([[Hangul]]:이징옥, [[hanja]]:李澄玉, 1399 - October 20, 1453) was a general of the [[Korea]]n [[Joseon Dynasty]].<ref>[http://www.iclee.or.kr/htmls/2_1/leejing.htm 충강공 이징옥 장군] {{in lang|ko}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://archive.is/20120713155850/http://koreandb.nate.com/history/people/detail?sn=2314 Lee Jing-ok] {{in lang|ko}}
+* [http://100.naver.com/100.nhn?docid=128236 Lee Jing-ok] {{in lang|ko}}
+* [http://enc.daum.net/dic100/contents.do?query1=b18a0480a Lee Jing-ok] {{in lang|ko}}
+* [http://iclee.or.kr/htmls/irm/leejing1.htm 민족사를 빛낸 난세의 영웅 충강공 이징옥(李澄玉) 장군] {{in lang|ko}}
+* [http://www.yangsanilbo.com/news/articleView.html?idxno=27277 충남 공주에 박제상 사당, 이징옥 위패 있다] 양산신문 2005.09.07 {{in lang|ko}}
+
+{{DEFAULTSORT:Yi, Jing-ok}}
+
+[[Category:1399 births]]
+[[Category:1453 deaths]]
+[[Category:Korean generals]]
+[[Category:Joseon Dynasty people]]
+[[Category:Korean revolutionaries]]
+[[Category:Executed Korean people]]
+[[Category:Korean military personnel]]
+[[Category:Executed military personnel]]
+[[Category:15th-century executions]]
+
+
+{{Korea-bio-stub}}

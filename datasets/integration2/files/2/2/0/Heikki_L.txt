@@ -1,0 +1,51 @@
+{{short description|Finnish record producer}}
+{{BLP sources|date=April 2011}}
+'''Heikki Liimatainen''', known professionally as '''Heikki L,'''  is a [[house music]] [[record producer|producer]], [[DJ]] and [[remix]]er<ref name="Inc.2008">{{cite news|title=Hot Dance Airplay|newspaper=Billboard|url=https://books.google.com/books?id=DhMEAAAAMBAJ&pg=PA61|accessdate=17 April 2011|date=2008-06-14|publisher=Nielsen Business Media, Inc.|page=61}}</ref> from [[Finland]].
+
+==Biography==
+Heikki Liimatainen has released music under different aliases like Heikki L, Supermodels From Paris, Syndicate of Beats, [[Dallas Superstars]], Modulation, Moovon, Spectro, Hemohes and Bostik. Under his current alias, Heikki L, he has produced many big house tracks and also remixed many artists. Liimatainen has his own studio in Helsinki and also runs Finland's biggest House Club, Danceteria with his partner Jere Hyvönen.
+Heikki L is also a DJ and he has played together with DJs like [[Erick Morillo]], [[Axwell]], [[Sebastian Ingrosso]].
+
+== Chart positions ==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+
+! rowspan="2" |Title
+!rowspan="2" |Year
+!Peak chart positions
+|-
+![[The Official Finnish Charts|FIN]]<br/>
+|-
+!scope="row"|Let The Bass Kick
+|rowspan="2" |2007
+|4<ref>{{Cite web |title=Heikki L - Let The Bass Kick|url=https://www.ifpi.fi/lista/artistit/heikki+l/let+the+bass+kick/|website=Musiikkituottajat |language=fi-FI |access-date=2020-05-30}}</ref>
+|-
+!scope="row"|Rising Sun <br />{{small|(featuring [[Mia Permanto]])}}
+|5<ref>{{Cite web |title=Heikki L feat. Mija Permanto - Rising Sun |url=https://www.ifpi.fi/lista/artistit/heikki+l+feat.+mija+permanto/rising+sun/|website=Musiikkituottajat |language=fi-FI |access-date=2020-05-30}}</ref>
+|-
+!scope="row"|Classic <br />{{small|(featuring Max C)}}
+|2008
+|18<ref>{{Cite web |title=Heikki L feat. Max C - Classic |url=https://www.ifpi.fi/lista/artistit/heikki+l+feat+max+c/classic/ |website=Musiikkituottajat |language=fi-FI |access-date=2020-05-30}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+*http://www.djheikkil.com
+*http://www.myspace.com/djheikkil
+*https://www.facebook.com/djheikkil
+*http://www.discogs.com/artist/Heikki+Liimatainen
+
+{{Authority control}}
+{{DEFAULTSORT:Heikki L}}
+[[Category:Remixers]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Finnish electronic musicians]]
+[[Category:Finnish house musicians]]
+[[Category:Finnish record producers]]
+
+
+{{Finland-musician-stub}}
+{{record-producer-stub}}

@@ -1,0 +1,65 @@
+{{short description|1913 film by Pyotr Chardynin}}
+{{Infobox film
+| name           = Uncle's Apartment
+| native_name    = {{lang-ru|Дядюшкина квартира}}
+| image          = Постер фильма Дядюшкина квартира.jpg
+| caption        = 
+| director       = {{Plainlist|
+* [[Pyotr Chardynin]]
+* [[Yevgeni Bauer]]
+}}
+| producer       = 
+| writer         = 
+| screenplay     = 
+| story          = 
+| based_on       = 
+| starring       = {{Plainlist|
+* [[Dora Citorena]]
+* [[Andrey Gromov]]
+* [[Aleksandr Kheruvimov]]
+* [[Ivan Mozzhukhin]]
+* [[V. Niglov]]
+* [[Lidiya Tridenskaya]]
+}}
+| narrator       = 
+| music          = 
+| cinematography = 
+| editing        = 
+| studio         = 
+| distributor    = 
+| released       = {{film date|1913}}
+| runtime        = 
+| country        = Russian Empire
+| language       = 
+| budget         = 
+| gross          = 
+}}
+'''Uncle's Apartment''', ({{lang-ru|Дядюшкина квартира}}) is a 1913<ref>[https://penzanews.ru/culture/120850-2017 Кинофестиваль «Мужская роль» пройдет в Пензе с 1 по 3 декабря]</ref><ref>[http://www.trud.ru/article/28-12-2012/1287237_chto_izmenilos_v_rossii_po_sravneniju_s_1913_godom.html Что изменилось в России по сравнению с 1913 годом?]</ref><ref>[https://kiev.vgorode.ua/news/9/100980/ Что посмотреть в "Жовтне" на этой неделе?]</ref> Russian short film directed by [[Pyotr Chardynin]]<ref>[http://fedpress.ru/news/72/society/1891507 Более 20 тысяч человек посетили «Ночь искусств» в Тюмени]</ref> and [[Yevgeni Bauer]].<ref>[http://sviblovo.mos.ru/presscenter/news/detail/3321023.html «Сатурн» покажет ретро-кино в Свиблове]</ref>
+
+== Plot ==
+The film will tell about a man named Koko, who decides to rent out his uncle's apartment rooms, as a result of which, in the same apartment, absolutely different people turn out to be.<ref>[https://www.kinopoisk.ru/film/315295/ Дядюшкина квартира]</ref>
+
+== Starring ==
+* [[Dora Citorena]]
+* [[Andrey Gromov]]
+* [[Aleksandr Kheruvimov]]
+* [[Ivan Mozzhukhin]] as Coco
+* [[V. Niglov]]
+* [[Lidiya Tridenskaya]]<ref>[https://www.imdb.com/title/tt0377825/fullcredits/?ref_=tt_ov_st_sm Дядюшкина квартира (1913) Full Cast & Crew]</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{IMDb title|id=0377825}}
+
+[[Category:1913 films]]
+[[Category:Russian films]]
+[[Category:Russian-language films]]
+[[Category:Russian black-and-white films]]
+[[Category:Russian silent films]]
+[[Category:Russian short films]]
+[[Category:Films of the Russian Empire]]
+
+
+{{1910s-Russia-film-stub}}

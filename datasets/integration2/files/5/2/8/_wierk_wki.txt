@@ -1,0 +1,36 @@
+{{Infobox settlement
+| name = Świerkówki
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| pushpin_map = Poland
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Oborniki|Oborniki]]
+| elevation_m =
+| population_total =
+| website = 
+| coordinates = {{coord|52.579877|16.835020|format=dms|display=inline, title|type:landmark}}
+}}
+'''Świerkówki''' {{IPAc-pl|ś|f|j|e|r|'|k|u|f|k|i}} ({{lang-de|Fichtenhof}}) is a [[village]] in the administrative district of [[Gmina Oborniki]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref>
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Oborniki}}
+
+{{DEFAULTSORT:Swierkowki}}
+[[Category:Villages in Oborniki County]]
+
+
+{{Oborniki-geo-stub}}

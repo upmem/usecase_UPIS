@@ -1,0 +1,30 @@
+[[File:Nicosia 01-2017 img27 Dervish Pasha Mansion.jpg|thumb|In 2017]]
+'''Dervish Pasha Mansion''' ({{lang-tr|Derviş Paşa Konağı}}) is a historical [[mansion]] and ethnographic museum in the [[Arab Ahmet, Nicosia|Arab Ahmet]] quarter of [[Nicosia]], currently located in [[North Nicosia]]. It lies on the Beliğ Paşa Street and has two floors. It is considered to be one of the finest examples of Ottoman architecture in Cyprus.<ref name=bagiskan>{{cite web|last1=Bağışkan|first1=Tuncer|title=Lefkoşa Arabahmet mahallesi|url=http://www.yeniduzen.com/Ekler/adres-kibris/112/lefkosa-arabahmet-mahallesi/512|publisher=[[Yeni Düzen]]|accessdate=19 September 2015|date=28 June 2013}}</ref>
+
+The current mansion was built on an earlier [[Gothic architecture|Gothic]] building on the same site. Its front door bears the date of 1801 inscribed on it, implying that this was the date of construction of the building. It was repaired in 1869, with the ornate wood carvings on the ceiling being dated to this year.<ref name=beratli>{{cite web|last1=Beratlı|first1=Nazım|title=Derviş Paşa Konağı|url=http://www.kibrispostasi.com/index.php/cat/1/col/57/art/12563/PageName/KIBRIS_POSTASI|publisher=[[Kıbrıs Postası]]|accessdate=19 September 2015|date=21 August 2011}}</ref> It belonged at the end of the 19th century to [[Hacı Ahmet Derviş Efendi]], a wealthy Turkish Cypriot who owned large swathes of land outside the walled city of Nicosia.<ref name=beratli/><ref name=gurkan>{{cite book|last1=Gürkan|first1=Haşmet Muzaffer|title=Dünkü ve Bugünkü Lefkoşa|publisher=Galeri Kültür|isbn=9963660037|pages=117–8|edition=3rd|language=Turkish}}</ref>
+
+The lower floor is made of stone and the upper floor is made of adobe. Its architecture carries a heavy Ottoman character and reflects the Ottoman lifestyle of the time.<ref name=beratli/><ref name=gurkan/> It has two entrance doors, historically, one was for men ([[selamlik]]) and one was for women ([[harem]]). It has a large inner courtyard, which was used by the household members for relaxation without exposure to the outside.<ref name=beratli/> A [[bay window]] at the upper floor was built in the Baghdadi style.<ref name=bagiskan/>
+
+In 1979, the mansion was in the danger of collapse.<ref name=bagiskan/> It was purchased by the Turkish Cypriot state in 1981<ref name=gurkan/> and following a renovation, opened to visitors as an ethnographic museum on 21 March 1988. It is notable as the first significant renovation project in Northern Cyprus.<ref>{{cite web|title=Dervişpaşa Konağı|url=http://www.lefkosabelediyesi.org/tr/index.php/lefkosa/turistikyerler/10-genel/49-dervispasakonagi|publisher=[[Nicosia Turkish Municipality]]|accessdate=19 September 2015}}{{Dead link|date=July 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> In the mansion, assets of traditional Cypriot lifestyle, such as kitchen utensils, instruments for needlework, as well as old swords and historical clothes are on display.<ref name=beratli/>
+
+==Gallery==
+<gallery perrow="5">
+File:Dervis Pasa Mansion.jpg
+File:Nikozja derwisz.jpg
+File:Nikozja derwisz2.jpg
+</gallery>
+
+==See also==
+*[[Hadjigeorgakis Kornesios Mansion]]
+
+== References ==
+{{reflist}}
+
+{{North Nicosia landmarks}}
+
+{{coord|35.1764|33.3585|type:landmark_region:CY|display=title}}
+
+[[Category:Museums in Northern Cyprus]]
+[[Category:Buildings and structures in Nicosia]]
+[[Category:Ottoman architecture in Cyprus]]
+[[Category:Houses completed in 1801]]

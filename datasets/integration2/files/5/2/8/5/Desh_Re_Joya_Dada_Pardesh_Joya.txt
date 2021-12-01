@@ -1,0 +1,141 @@
+{{Use dmy dates|date=May 2016}}
+{{Infobox film
+| name = Desh Re Joya Dada Pardesh Joya
+| native_name = 
+| image = Desh Re Joya Dada Pardesh Joya poster.jpg
+| caption = Official poster
+| director = [[Govindbhai Patel]]
+| producer = Govindbhai Patel
+| writer =Govindbhai Patel<br/>Mukesh Malvankar
+| starring = {{Plainlist|
+* [[Hiten Kumar]]
+* [[Roma Manek]]
+* [[Arvind Trivedi]]
+* Rajdeep
+* [[Pinky Parikh]]
+* [[Sameer Rajda]]
+* Bhumika Sheth
+* Devendra Pandit
+* [[Ramesh Mehta (comedian)|Ramesh Mehta]]
+}}
+| music = [[Arvind Barot]] 
+| cinematography = Poonam Beldar<br/>Mahesh Sharma
+| editing = Ashok Rumde
+| studio = GN Films
+| distributor = 
+| released = {{Film date|df=yes|1998}}
+| runtime = 167 minutes
+| country = India
+| language = [[Gujarati language|Gujarati]]
+| budget = 
+| gross ={{INRConvert|22|c|lk=|year=1998}} <ref name=":2">{{Cite news|url=https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/gujarati-films-cheaper-is-not-better/articleshow/63152530.cms|title=Gujarati films: Cheaper is not better|work=The Times of India|access-date=2018-03-13}}</ref><ref name="gross">{{cite web|url=http://indiatoday.intoday.in/story/gujarati-tearjerker-des-re-joya-dada-becomes-a-big-grosser/1/262967.html|title=Good shot|date=22 June 1998}}</ref>
+}}
+
+'''''Desh Re Joya Dada Pardesh Joya''''' ({{lang-en|(I) saw country; Grandpa, (I) saw foreign}}) is a 1998 Indian [[Gujarati cinema|Gujarati film]] directed by [[Govindbhai Patel]]. It is [[List of highest-grossing Gujarati films|one of the highest grossing Gujarati film of all time]].<ref name="gross"/><ref name="DeshGujarat2015">{{cite web | author=DeshGujarat | title=Gujarati film maker Govindbhai Patel passes away | website=DeshGujarat | date=15 April 2015 | url=http://DeshGujarat.Com/2015/04/15/gujarati-film-maker-govindbhai-patel-passes-away/ | accessdate=13 July 2015}}</ref><ref name="India Today1998">{{cite web | title=Gujarati tearjerker Des Re Joya Dada becomes a big grosser : FILMS | website=India Today | date=22 June 1998 | url=http://indiatoday.intoday.in/story/gujarati-tearjerker-des-re-joya-dada-becomes-a-big-grosser/1/262967.html | accessdate=17 July 2015}}</ref>
+
+==Plot==
+Ram ([[Hiten Kumar]]) and Radha (Roma Manek) are [[childhood sweetheart]]s, but are separated when Ram and his widowed mother relocates to another village with his uncle. They are reunited when Ram attends Radha's sister's wedding as the groom's cousin. Meanwhile, Radha's elder brother marries the just-back-from-America Rita ([[Pinky Parikh]]) without the consent of his parents.
+
+Ram and Radha fall in love once again and they are engaged, much to the chagrin of Rita, who wanted Radha to marry her brother Deepak instead. On the way to the wedding Ram gets killed in an accident and Radha is heart-broken. But Ram is not actually dead, but instead kidnapped by the jealous family members and replaced by another dead body to make it look like him. Rita tries to poison Radha and tries to blame on Sharda, but Radha defends Sharda and rightly blames Rita for this. Rita then falsely accuses Sharda's husband of trying to rape her. Allegations and counter-allegations follow and Dadaji ([[Arvind Trivedi]]) decides to split the property and separate brothers. Radha's brother Deepak intervenes and exposes her sister Rita as the conspirator. However, it turns out that this was a ploy to paint Deepak in a good light. Radha's family falls for the trap and agrees to get Radha married to Deepak. Radha, still heart-broken, reluctantly agrees to marry Deepak. Ram escapes from his captors, but it's too late as Radha is already married to Deepak and flown off to America. Rajesh overhears Rita confessing her role in the conspiracy and threatens to expel her from the family. Ram also reaches the house and the whole conspiracy is unveiled to the family. Rita feels guilty and has a change of heart and accuses her elders of maligning her life.
+
+Radha receives [[culture shock]] when she reaches America with Deepak and has trouble adjusting with her abusive [[alcoholic]] husband. Her [[in-laws]] are impressed with her values and her dedication and informs her parents about her true condition with her husband and recommend that they take her back to India. Rita takes it upon herself to bring her back. In America, one of Deepak's friend tries to misbehave with Radha and in ensuing fight, Deepak falls from the first floor and dies as the result. Radha returns to India, but her troubles are not at the end. Deepak's uncle and other conspirators again try to kidnap her, but timely intervention of Ram saves the situation from worsening, but in the fight Dadaji gets mortally wounded from a gunshot. In his dying breath, Dadaji reunites Ram and Radha.
+
+==Cast==
+* [[Hiten Kumar]] as Ram
+* [[Roma Manek]] as Radha
+* [[Arvind Trivedi]] as Dadaji
+* Rajdeep as Rajesh
+* [[Pinky Parikh]] as Rita
+* [[Sameer Rajda]]
+* Bhumika Sheth
+* Devendra Pandit
+* [[Ramesh Mehta (comedian)|Ramesh Mehta]] as Dahyo
+
+==Soundtrack==
+{{Infobox album
+| name       = Desh Re Joya Dada Pardesh Joya
+| type       = [[Soundtrack]]
+| artist     = [[Arvind Barot]]
+| cover      = 
+| caption    = 
+| alt        =
+| released   = 1998
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Film soundtrack|Feature film soundtrack]]
+| length     = 55:01
+| label      = Ultra
+| producer   =
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+Music for the film was composed by [[Arvind Barot]].<ref>{{cite web|url=https://itunes.apple.com/in/album/desh-re-joya-dada-pardesh/id886996150|title=Desh Re Joya Dada Pardesh Joya (Original Motion Picture Soundtrack)|accessdate=20 May 2016|publisher=[[iTunes]]}}</ref>
+
+{{tracklist
+| total_length = 
+| headline = Track list
+| all_music = 
+| extra_column = Artist(s)
+
+| title1 = Vavdi Na Pani Bharva Gyata
+| lyrics1 = [[Arvind Barot]]
+| extra1 = {{nowrap|Vatsala Patil}}
+| length1 = 4:29
+
+| title2 = Uncha Uncha Bangla Banavo
+| lyrics2 = Arvind Barot
+| extra2 = [[Sadhana Sargam]]
+| length2 = 6:49
+
+| title3 =Jaan Jodi Aavya Shu
+| lyrics3 = Arvind Barot
+| extra3 = Arvind Barot, Vatasala Patil
+| length3 = 6:47
+ 
+| title4 = Eli Radhadi Re
+| lyrics4 = Arvind Barot
+| extra4 = Arvind Barot, Sadhana Sargam
+| length4 = 8:04
+
+| title5 = Eva Mandav Ropayva Mare Aangane
+| lyrics5 = Arvind Barot
+| extra5 = Arvind Barot, Vatsala Patil
+| length5 = 7:35
+
+| title6 = Ghammar Ghammar Maru Valonu Gaaje
+| lyrics6 = Arvind Barot
+| extra6 = Arvind Barot, Sadhana Sargam
+| length6 = 6:46
+
+| title7 = Desh Re Joya Dada Pardesh Joya
+| lyrics7 = Arvind Barot
+| extra7 = Arvind Barot, Sadhana Sargam
+| length7 = 9:08
+
+| title8 = Chhodya Dadane Chhodi Deliyu Re
+| lyrics8 = Arvind Barot
+| extra8 = Jayshree Bhojavia
+| length8 = 5:23
+}}
+
+==Release==
+''Desh Re Joya Dada Pardesh Joya'' was released in 1998 and went on to collect around {{INRConvert|22|c}} in days when tickets were sold for Rs 10 or Rs 15, making it the highest grossing collection for a Gujarati film at that time by a long margin until [[Chaal Jeevi Laiye]] broke its record.<ref>{{Cite web|url=https://www.dnaindia.com/ahmedabad/report-showtime-ek-baar-farithi-2723067|title=Showtime: What is hurting box office success of Gujarati movies?|date=2019-02-23|website=DNA India|language=en|access-date=2019-05-27}}</ref> It's still the 2nd highest grossing Gujarati film.<ref name="gross"/>
+
+==See also==
+* [[List of highest-grossing Gujarati films]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{YouTube|YctwA4ul3aM|''Desh Re Joya Dada Pardesh Joya''}}
+* {{IMDb title|5739748|Desh Re Joya Dada Pardesh Joya}}
+
+[[Category:1998 films]]
+[[Category:Gujarati-language films]]
+[[Category:Indian films]]
+[[Category:1990s Gujarati-language films]]

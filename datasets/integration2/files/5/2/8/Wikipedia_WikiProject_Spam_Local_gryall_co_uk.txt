@@ -1,0 +1,34 @@
+<!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|1|0|1|0|0}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|gryall.co.uk]]
+== Links ==
+* {{LinkSummary|gryall.co.uk}}
+:* gryall.co.uk resolves to [http://91.207.50.140 91.207.50.140]
+:*: {{LinkSummary|91.207.50.140}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{IPSummary|109.149.136.114}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=24132699|lang=en|wikidomain=w|namespace=|pagename=List of pies|username=109.149.136.114|link=gryall.co.uk/pie/|sortdomain=uk.co.gryall.|domain=gryall.co.uk|origdiff=http://en.wikipedia.org/w/index.php?diff=464968629&oldid=464870415|resolved=X|isIP=1|date=2011-12-09|time=16:15:14|wiki=en.wikipedia.org|revid=464968629|oldid=464870415|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=10|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=gryall.co.uk/pie/|domain=gryall.co.uk|U=10|L=10|UL=10|WUL=1}}{{User:COIBot/OtherLinks|link=gryall.co.uk/pie/|domain=gryall.co.uk|U=10|L=10|UL=10|WUL=1}}{{User:COIBot/OtherLinks|link=gryall.co.uk/pie/|domain=gryall.co.uk|U=10|L=10|UL=10|WUL=1}}{{User:COIBot/OtherLinks|link=gryall.co.uk/pie/|domain=gryall.co.uk|U=10|L=10|UL=10|WUL=1}}{{User:COIBot/OtherLinks|link=gryall.co.uk/pie/|domain=gryall.co.uk|U=10|L=10|UL=10|WUL=1}}{{User:COIBot/OtherLinks|link=gryall.co.uk/pie/|domain=gryall.co.uk|U=10|L=10|UL=10|WUL=1}}{{User:COIBot/OtherLinks|link=gryall.co.uk/pie/|domain=gryall.co.uk|U=10|L=10|UL=10|WUL=1}}{{User:COIBot/OtherLinks|link=gryall.co.uk/pie/|domain=gryall.co.uk|U=10|L=10|UL=10|WUL=1}}{{User:COIBot/OtherLinks|link=gryall.co.uk/pie/|domain=gryall.co.uk|U=10|L=10|UL=10|WUL=1}}{{User:COIBot/OtherLinks|link=gryall.co.uk/pie/|domain=gryall.co.uk|U=10|L=10|UL=10|WUL=1}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 1 additions out of 1 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/gryall.co.uk]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bgryall\.co\.uk\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/gryall.co.uk]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/gryall.co.uk|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. <!-- auto-closed --><!-- noleft -->No links left in here mentioned edits.  Marked stale.  --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 16:22, 9 December 2011 (UTC)

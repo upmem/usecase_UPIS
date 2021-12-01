@@ -1,0 +1,68 @@
+{{Infobox football biography
+| name = Petr Drobisz
+| image =
+| fullname =
+| birth_date  = {{Birth date and age|1976|7|14|df=yes}}
+| birth_place = [[Třinec]], [[Czechoslovakia]]
+| height = {{height|m=1.88}}
+| currentclub  =
+| clubnumber =
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = 1986–1990 
+| youthyears2 = 1990–1991
+| youthclubs1 = [[FK Fotbal Třinec|TŽ Třinec]] 
+| youthclubs2 = [[FC Vítkovice]]
+| years1 = 1991–1997 
+| years2 = 1998–2000 
+| years3 = 2000–2007 
+| years4 = 2007–2011
+| years5 = 2013–2014
+| clubs1 = [[FK Fotbal Třinec|Železárny Třinec]] 
+| clubs2 = [[FK Jablonec 97]] 
+| clubs3 = [[1. FC Slovácko]] 
+| clubs4 = [[SK Sigma Olomouc]]
+| clubs5 = [[1. SC Znojmo]]
+| caps1 = 56
+| caps2 = 6
+| caps3 = 186
+| caps4 = 94
+| caps5 = 2
+| goals1 = 0
+| goals2 = 0
+| goals3 = 0
+| goals4 = 0
+| goals5 = 0
+| totalcaps = 344 | totalgoals = 0
+| nationalyears1 = 
+| nationalteam1 = 
+| nationalcaps1 = 
+| nationalgoals1 = 
+| pcupdate = 
+| ntupdate =
+}}
+
+'''Petr Drobisz''' (born 14 July 1976 is a [[Czech Republic|Czech]] former professional [[football (soccer)|football]] player who played as a [[Goalkeeper (association football)|goalkeeper]]; he last played for [[1. SC Znojmo]] in the Czech [[Gambrinus liga|Gambrinus Liga]]. Drobisz was suspended as part of an enquiry into corruption allegations, as announced by the [[Czech Football Association]] on 9 June 2011.<ref>{{cite news |url=http://www.radio.cz/en/section/news/news-2011-02-22 |title=Four people face corruption charges over football match fix |publisher=radio.cz |date=22 February 2011 |accessdate=12 June 2011}}</ref> <ref>{{cite news |url=http://www.rozhlas.cz/zpravy/fotbal/_zprava/olomouc-dostala-pokutu-ctyri-osoby-maji-pozastavenou-cinnost--905653 |title=Olomouc dostala pokutu, čtyři osoby mají pozastavenou činnost |language=Czech |publisher=Český rozhlas |date=9 June 2011 |accessdate=12 June 2011}}</ref> This was later confirmed on 18 August 2011 as an 18-month suspension.<ref>{{cite news |url=http://fotbal.idnes.cz/olomouc-prisla-kvuli-korupci-o-9-bodu-drobisz-si-rok-a-pul-nezachyta-1pk-/fotbal.aspx?c=A110818_172740_fotbal_min |title=Olomouc přišla kvůli korupci o 9 bodů, Drobisz si rok a půl nezachytá |language=Czech |publisher=idnes.cz |date=18 August 2011 |accessdate=18 August 2011}}</ref>
+
+After his ban had ended in February 2013, he signed with the newly promoted [[1. SC Znojmo|Znojmo]] for the [[2013–14 Gambrinus liga|2013–14]] season.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Fotbal DNES|id=3000344}}
+* [http://guardian.touch-line.com/StatsCentre.asp?Lang=0&CTID=27&CPID=89&pStr=Player&PLID=10374&TEID=3477 Guardian Football]
+
+{{Use dmy dates|date=December 2010}}
+
+{{DEFAULTSORT:Drobisz, Petr}}
+[[Category:Czech footballers]]
+[[Category:Czech First League players]]
+[[Category:Association football goalkeepers]]
+[[Category:1. FC Slovácko players]]
+[[Category:SK Sigma Olomouc players]]
+[[Category:FK Jablonec players]]
+[[Category:Sportspeople from Třinec]]
+[[Category:1976 births]]
+[[Category:Living people]]
+
+{{CzechRepublic-footy-goalkeeper-stub}}

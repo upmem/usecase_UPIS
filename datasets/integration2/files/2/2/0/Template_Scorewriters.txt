@@ -1,0 +1,55 @@
+{{Navbox
+| name      = Scorewriters
+| title     = [[Scorewriter]]s
+| bodyclass = hlist
+
+| group1 = [[Free and open-source software|Free and open-source]]
+| list1  = 
+*[[Gregorio (software)|Gregorio]]
+*[[Impro-Visor]]
+*[[LilyPond]]
+**[[Denemo]]
+**[[Frescobaldi (software)|Frescobaldi]]
+**[[JEdit#Plug-ins|jEdit plugin]]
+*[[MuseScore]]
+*[[MusiXTeX]]
+*[[Rosegarden]]
+*[[TuxGuitar]]
+
+| group2 = [[Proprietary software|Proprietary]]
+| list2  = 
+*[[Capella (notation program)|Capella]]
+*[[Dorico]]
+*[[Encore (software)|Encore]]
+*[[Finale (software)|Finale]]
+*[[Forte (notation program)|Forte]]
+*[[Guitar Pro]]
+*[[Igor Engraver]]
+*[[MagicScore]]
+*[[Mozart the music processor|Mozart]]
+*[[Mus2]]
+*[[MusEdit]]
+*[[Musink]]
+*[[MusiCAD]]
+*[[MusicEase]]
+*[[Music Write]]
+*[[Notion (software)|NOTION]]
+*[[NoteWorthy Composer]]
+*[[Overture (software)|Overture]]
+*[[Power Tab Editor]]
+*[[SCORE (software)|SCORE]]
+*[[ScoreCloud]]
+*[[Sibelius (scorewriter)|Sibelius]]
+*[[SmartScore]]
+
+|group3 = Defunct
+|list3  = 
+*[[NoteEdit]]
+
+| below = 
+*'''{{icon|list}} [[List of scorewriters|List]]'''
+*'''{{icon|NA}} [[Comparison of scorewriters|Comparison]]'''
+}}<noinclude>
+[[Category:Application software templates]]
+[[Category:Scorewriters]]
+</noinclude>

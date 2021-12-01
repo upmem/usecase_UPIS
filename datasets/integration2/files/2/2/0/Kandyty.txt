@@ -1,0 +1,49 @@
+{{Infobox settlement
+| name = Kandyty
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Bartoszyce County|Bartoszyce]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Górowo Iławeckie]]
+| coordinates = {{coord|54|19|1|N|20|22|10|E|region:PL|display=inline,title}}
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| elevation_m =
+| population_total = 980
+| website = }}
+'''Kandyty''' {{IPAc-pl|k|a|n|'|d|y|t|y}} ({{lang-de |Kanditten}}) is a [[village]] in the administrative district of [[Gmina Górowo Iławeckie]], within [[Bartoszyce County]], [[Warmian-Masurian Voivodeship]], in northern Poland, close to the border with the [[Kaliningrad Oblast]] of [[Russia]].<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|10|km|mi|0}} north-west of [[Górowo Iławeckie]], {{convert|29|km|mi|0|abbr=on}} west of [[Bartoszyce]], and {{convert|80|km|mi|0|abbr=on}} north of the regional capital [[Olsztyn]].
+
+== History ==
+
+In 1285 the ownership of an area named "Catithen" in the [[Old Prussians|Old Prussian]] area of [[Natangia]] was awarded to the [[Sudovians|Sudovian]] nobleman Skomand by the [[Teutonic Order]]. The name probably derives back to the [[Old Prussian]] term for a small ford. About 1350, throughout the [[Ostsiedlung|German Settlement in the East]], a village "Canditten", sized 80 "Hufen", a square measure of the [[Teutonic Knights]], and a church was founded by the Order. Throughout the Polish-teutonic [[Hunger War]] of 1414 the village and the Church was destroyed by Polish troops, the Priest and 7 farmers were killed. An estimated damage of 3,500 Mark in the village and 1,000 Mark at the Church was calculated by the Teutonic Knights. The village suffered again throughout the Polish-Teutonic  [[Thirteen Years' War (1454–66)|Thirteen Years' War]] of 1454/66 and was given as a pawn to the nobleman Paul Pregel in 1491. The Church was completely destroyed in the [[Polish–Teutonic War (1519–1521)|horsemen's War]] of 1521, only 4 farmers lived here in 1540. In 1575 the landlord Truchseß von Waldburg re-established the Church. In 1664 the von Schwerin family of [[Dzikowo Iławeckie|Wildenhoff]] became the landlords, which lasted until the abolition of serfdom in Prussia.<ref name="ReferenceA">Horst Schulz, Der Kreis Preußisch Eylau, Verden 1983 (German)</ref> 
+
+In 1820 2 manors, 21 farms, 4 cottages and 6 craftsmen existed. 
+ 
+Until 1945 the area was part of the [[Weimar Germany|German]] Province of [[East Prussia]], Kanditten was occupied by the [[Soviet Union|Soviet]] [[Red Army]] on 18 February 1945 throughout the [[East Prussian Offensive]]. After [[World War II]] the area was placed under Polish administration according to the post-war [[Potsdam Agreement]]. Germans [[Evacuation of East Prussia|fled]] or were [[Expulsion of Germans after World War II|expelled]] and replaced with Poles, many of them expelled from the [[Polish areas annexed by the Soviet Union]] or forced to settle in the area throughout the [[Operation Vistula]] in 1947.
+
+== Population ==
+*1820: 256
+*1846: 540
+*1871: 765
+*1895: 772<ref name="ReferenceA"/>
+*1933: 803
+*1939: 930<ref>[http://www.verwaltungsgeschichte.de/preylau.html verwaltungsgeschichte.de]</ref>
+*2008: 980
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Górowo Iławeckie}}
+
+[[Category:Villages in Bartoszyce County|Kandyty]]

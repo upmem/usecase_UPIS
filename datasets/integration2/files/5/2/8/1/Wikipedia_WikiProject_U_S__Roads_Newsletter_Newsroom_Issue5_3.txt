@@ -1,0 +1,350 @@
+
+==Issue 3 (Summer 2012)==
+Publication deadline: 12 PM Pacific-3 PM Eastern on July 15.
+
+Please sign up for what you want to write. Have it done by the publication deadline.
+===Introduction===
+:''Editor:'' 
+
+===Feature 1: U.S. Roads Project Goes to Wikimania===
+:''Editor(s): [[User:Mitchazenia|Mitchazenia]], [[User:Daniel Case|Daniel Case]], [[User:Viridiscalculus|Viridiscalculus]]'' 
+
+*[[wm2012:Main Page|Wikimania 2012]] occurred from July 9&ndash;July 16 in [[Washington, D.C.]]. The U.S. Roads WikiProject was represented by three members, [[User:Mitchazenia|Mitchazenia]], [[User:Daniel Case|Daniel Case]] and [[User:Viridiscalculus|Viridiscalculus]], all of whom invested time in different topics discussed at [[Wikimania]].
+
+Several presentations were of interest to USRD editors. [[wm2012:Submissions/Eternal_December:_How_Awful_Arguments_are_Killing_the_Wiki,_and_Why_not_to_Make_Them|Eternal December: How Awful Arguments Are Killing the Wiki, and Why not to Make Them]], originally scheduled as a presentation by Oliver Keyes (better known as [[User:Okeyes (WMF)]] or [[User:Ironholds|Ironholds]]), Community Liaison for Product Development for the Foundation, became a panel discussion about the way the community treats new editors, with Oliver arguing that it must change and [[User:Protonk|Protonk]] arguing the other side, that the community has good reason for doing so. Noted inclusionist David Goodman ([[User:DGG]]) delivered [[wm2012:Submissions/The_End_of_notability|a critique of the notability policy]], concluding that it is ultimately arbitrary and suggesting a "Wikipedia Two" that could be used for articles that do not meet the existing guidelines. On the technical side, other presentations discussed [[wm2012:Submissions/Cooperation_with_OpenStreetMap|further integration with OpenStreetMap]] and [[wm2012:Submissions/Building_a_Chat_feature_on_MediaWiki|building a chat feature into MediaWiki]].
+
+Benoît Evellin ([[User:Trizek]]) and [[Erik Möller]] gave presentations about building infrastructure that is more welcoming for newcomers. In Benoit's case, it was creating more welcoming introduction and help pages in the [[:fr:Wikipédia:Accueil_principal|French Wikipedia]], ideas that can be imitated or re-fashioned for the English Wikipedia as a whole or for individual projects so everyone's grandmother&mdash;a stereotypical example of a non-tech-savvy person&mdash;can participate. Erik argued that Wikipedia has a lousy interface compared to Facebook, and would be more welcoming if its interface was more like that of Facebook. Brandon Harris ([[User:Jorm]]) followed up on Erik's presentation by demonstrating some features of the [[Wikipedia:Wikipedia Signpost/2012-08-06/Op-ed|Athena Project]], many of which could make Wikipedia a less intimidating environment for newcomers and possibly more convenient for established members.
+
+There were several breakout sessions that touched on photography and how to encourage newcomers to either take pictures or edit. Peter Ekman ([[User:Smallbones]]) presented on his project, [[WP:NRHP|WikiProject National Register of Historic Places]], and offered tips on taking photographs and directing newcomers to the topic or labor areas where help is needed. Petr Brož ([[User:Chmee2]]) talked about drawing newcomers, in particular university students, into the [[:cs:Wikipedie:WikiProjekt_Chráněná_území|Czech WikiProject Protected Areas]] by offering newcomers chances to go on road trips to observe and record, through pictures or video, the plants and animals of a region. Finally, Olaf Kosinsky ([[User:Olaf Kosinsky]]) described his effort in the [[:de:Wikipedia:Hauptseite|German Wikipedia]] whereby he arranged professional photography sessions with members of the German state legislatures, with the stipulation that the photos be of the appropriate licenses to populate Wikipedia articles.
+
+In summary, there were many sessions concerning overall themes that we can apply specifically to our project and more specific sessions that pronounced ideas that could serve our project well. Information about Wikimania, including the schedule of and descriptions of presentations, can be found on the [[wm2012:Main_Page|conference website]]. In addition, video of each of the sessions has been uploaded to [http://www.youtube.com/user/wikimediadc WikimediaDC's youtube channel]. [[wm2013:Main Page| Wikimania 2013]] will be held in Hong Kong, making it a long shot that any USRD folks will make it two in a row for Wikimania.
+
+
+
+
+Note: If you suggest a story then you are volunteering to write it, unless someone else decides to do so.
+
+===4M article run===
+:''Editor:'' '''[[User:Rschen7754|Rs]][[User talk:Rschen7754|chen]][[Special:Contributions/Rschen7754|7754]]'''
+[[File:Wikimaniacake005.JPG|thumb|4 Million articles]]
+Early in the morning on July 13, 2012, similar to our [[Wikipedia:WikiProject_U.S._Roads/Newsletter/Issues/Volume01/Issue13#U.S._road_editors_attempt_to_achieve_the_two_millionth_Wikipedia_article|attempts to create the 2 millionth Wikipedia article]], [[User:Floydian|Floydian]] and I attempted to create the 4 millionth article. While we were unsuccessful, [[Idaho State Highway 48]] was mentioned in the [http://blog.wikimedia.org.uk/2012/07/english-language-wikipedia-hits-4-million-articles/ press release], and our efforts were mentioned on [[Wikipedia:Thanks for 4 million articles]].
+
+Below is a list of articles created in this endeavor:
+*[[Idaho State Highway 99]]
+*[[Idaho State Highway 87]]
+*[[‎Idaho State Highway 79]]
+*[[Idaho State Highway 62]]
+*[[‎Idaho State Highway 60]]
+*[[Ontario Highway 99]]
+*[[Ontario Highway 92]]
+*[[Idaho State Highway 54]]
+*[[Idaho State Highway 50]]
+*[[‎Idaho State Highway 48]]
+*[[‎Idaho State Highway 47]]
+*[[‎Ontario Highway 91]]
+*[[Ontario Highway 83]]
+*[[Idaho State Highway 46]]
+*[[‎Ontario Highway 82]]
+*[[Ontario Highway 81]]
+*[[Idaho State Highway 45]]
+*[[Idaho State Highway 37]]
+*[[Idaho State Highway 32]]
+*[[‎Idaho State Highway 29]]
+*[[Idaho State Highway 19]]
+*[[Idaho State Highway 22]]
+*[[‎Idaho State Highway 27]]
+*[[Ontario Highway 80]]
+*[[Ontario Highway 43]]
+
+===Michigan reaches milestone===
+:''Editor: [[User:Dough4872|Dough4872]]
+[[File:Birthday Cake with 2.jpg|thumb|right|2.000!]]
+In the improvement of USRD articles, many states have seen their wikiwork fall lower and lower. One of these states has been Michigan, which has the lowest wikiwork in the country. This summer, Michigan reached a new milestone. On August 9, [[H-58 (Michigan county highway)]] was promoted to A-class, bringing the state's wikiwork to the 2.000 mark. A day later, [[U.S. Route 41 Business (Marquette, Michigan)]] was promoted to FA, bringing Michigan's wikiwork below 2.0 to 1.995. This made Michigan the first state in the project to have a wikiwork below 2.000. A special thanks to [[User:Imzadi1979|Imzadi1979]] for improving Michigan's articles.
+
+===Project news===
+:''Editor:''
+
+Be sure to look through Article Alerts and WT:USRD.
+
+===State and territory updates===
+Write the updates below. If signatures are present, remove them before adding to the newsletter.
+
+;Alaska
+Alaska has gotten it's first two good articles, the [[Hope Highway]], and the [[Portage Glacier Highway]]. Portage Glacier Highway failed an A-class review, and [[List of Interstate Highways in Alaska]] failed a featured list nomination due to size. Alaska's wikiwork has fallen below 5.000 to 4.935.—Awardgive
+
+;California
+California is now 11th in the nation in article quality, passing up Connecticut. Recently, several California articles have been converted to templates, with the help of {{user|Happy5214}} and {{user|PhATxPnOY916}}. Quite a few CA articles have also become good articles, including [[California State Route 55]], [[California State Route 70]], [[California State Route 188]], [[California State Route 198]], [[California State Route 282]], and [[California State Route 266]]. CA is now at 4.166 in relative WikiWork. All California GAs now have an attached KML file. —Rschen7754
+
+;Delaware
+With the 2012 June-July GAN Review Round, Delaware has seen a rapid increase in good articles. Since the last newsletter, the number of good articles has more than tripled from 14 to 53 while the wikiwork has fallen from 2.857 to 2.210. However, one of the new GAs, [[Delaware Route 17]], was subject to a GAR and an AFD with concerns over the quality and notability of the article. It was able to survive both venues. —Dough4872
+
+;Georgia
+Georgia was one of three states in the Southeast, with North Carolina and South Carolina, that saw small improvements thanks to discovery and application of GIS data for those states. Georgia's data is accessed via a [[Georgia Department of Transportation]] (GDOT) application called GeoTRAQS that provides a variety of data on segments of highway throughout the state in a map-like format, including running totals of mileage for particular segments of highway and the total length of a highway in a county. The GDOT website also contains a near comprehensive set of state highway maps. These resources were enough for Georgia to gain its first highway [[WP:GA|Good Article]]: [[User:Viridiscalculus]] worked on and nominated [[Georgia State Route 40]] and the article passed on June 29.—Viridiscalculus
+
+;Guam
+An often overlooked component of the the USRD project is the content that belongs to the various US territories in the Pacific and Caribbean. As a part of the [[User:Dough4872/GA by number|GA by number contest]] sponsored by {{user|Dough4872}}, [[Guam Highway 1]] was advanced to GA status on April 20, 2012. This was the first Good Article for USRD in a territory, building on work initiated by {{user|Stratosphere}} in 2008. Since then, all existing articles have had their junction lists transitioned to the updated [[MOS:RJL]] formatting through the use of {{tl|GUint}}, although there are still nine redlinks on the [[list of highways in Guam|list of highways]] for the island territory.—Imzadi1979
+
+;Louisiana
+One of the goals being made is to create articles for the first 98 state highways created in 1921. I have a list going on, but the largest article is over at [[Louisiana State Route 1|LA 1]], a remnant of the [[Jefferson Highway]]. All highways that are being created are from before 1955, with their own custom shield. Any helpful photos or historical notes can be added, as I want these articles to be a true reference point for historians. Maps and route descriptions will be added, and the 98 should be completed by the end of July.—Mcdonaat
+
+;Missouri
+While it's still a way down the leaderboard, Missouri is starting a long journey upward.  With the discovery of [[Missouri Department of Transportation|MoDOT's]] Flex Map Viewer, we are now able to list lengths and create junction lists for every route to three decimal places.  With MoDOT's extensive historic map collection, Missouri should be in the top half on USRD before long.—Fredddie
+
+;Montana
+Montana recent received its first good article, [[Montana Highway 48]]. With the help of the Montana Road Log, which allows you to access route junctions up to three decimal points, and allows you to see construction and reconstruction dates for highways, Montana should be on it's way soon.—Awardgive
+
+;North Dakota
+North Dakota only has 37 articles and none are above C-Class, but the state's articles have seen much improvement in the past month with many Stub-Class and Start-Class articles being upgraded in the "Big Three" sections. If a reliable source for North Dakota's articles can be found, North Dakota should see its first GA in the near future.—Thecatchernumbersevenjooooemauer
+
+;Oklahoma
+During our anti-stub drive last year, many states were able to reduce their stub count all the way to zero. Oklahoma was not one of those states, however, so stub expansion continues to this day. At time of writing, Oklahoma has 28 stubs remaining. It is anticipated that the stub count will further drop to 25 or lower during September. Oklahoma tends to expand stubs slower than other states because expansions are usually done from stub to B in one fell swoop (rather than just expanding to Start as is often done elsewhere, and gradually expanding on to higher classes later). Aside from stub expansion, there's still lots to do in Oklahoma—many articles need to be updated to use more reliable sources, and ten U.S. highways that pass through the state do not yet have state-detail articles. Look for [[U.S. Route 60 in Oklahoma]] to become the newest article from this set soon.
+
+;Texas
+<div style="margin-left:0px"><!-- NOTE: width renders incorrectly if added to main STYLE section-->
+{| <!-- Template:Collapse top --> class="navbox collapsible collapsed" style="background: transparent; text-align: left; border: 1px solid silver; margin-top: 0.2em; "
+|-
+! style="background-color: #CFC; text-align:center; font-size:112%;" | State report pulled (see above) &ndash;[[User:Fredddie|Fredddie]][[User talk:Fredddie|™]] 23:30, 31 July 2012 (UTC)   
+
+|-
+| style="border: solid 1px silver; padding: 8px; background-color: white; font-size:112%;" |
+With the help of the 2012 June-July GAN Review Round, Texas has gotten 11 new good articles, including 10 of the 11 routes in the state's Recreational Road System. Texas now has a total of 17 GA's, the ninth highest in the nation.—Awardgive
+{{Collapse bottom}}
+
+====Maple syrup report====
+:''Editor: [[User:Floydian|Floydian]]''
+As Canadians head to the cottage for the summer, gradual progress has been made at keeping the project-wide stub count below 1000. The project briefly dropped below this milestone, but rose to 1002 during the 4 millionth article drive. Hogie75 has been busily creating New Brunswick secondary highway articles, filling a large gap of missing coverage. In Ontario, work has progressed to get all fourteen 400-series highway and the QEW up to a minimum threshold of a [[WP:GA|GA]] - only [[Highway 407]] and the [[Queen Elizabeth Way]] remain below that standard. The project wide [[Wikipedia:WikiProject U.S. Roads/Assessment/ω|wikiwork]] sits at 5.472; Ontario leads the charge at 3.827, placing it between Iowa and Washington on the south side of the border.
+
+====Leaderboard and stub count====
+:''Editor: [[User:Fredddie|Fredddie]]''
+
+This is a list of the top ten states by average [[WP:USRD/A/WW|WikiWork]] as of August 28, 2012:
+
+{|class="wikitable"
+|-
+!Rank
+!State
+!{{FA-Class|category=Category:FA-Class U.S. road transport articles}}
+!{{A-Class|category=Category:A-Class U.S. road transport articles}}
+!{{GA-Class|category=Category:GA-Class U.S. road transport articles}}
+!{{B-Class|category=Category:B-Class U.S. road transport articles}}
+!{{C-Class|category=Category:C-Class U.S. road transport articles}}
+!{{Start-Class|category=Category:Start-Class U.S. road transport articles}}
+!{{Stub-Class|category=Category:Stub-Class U.S. road transport articles}}
+!&#969;
+!&#937;
+|-align=center
+!scope=row|1
+|[[Wikipedia:Version 1.0 Editorial Team/Michigan road transport articles by quality statistics|Michigan]]
+|11
+|5
+|176
+|16
+|5
+|0
+|0
+|425
+|1.995
+|-align=center
+!scope=row|2
+|[[Wikipedia:Version 1.0 Editorial Team/Delaware road transport articles by quality statistics|Delaware]]
+|1
+|0
+|53
+|1
+|7
+|0
+|0
+|137
+|2.210
+|-align=center
+!scope=row|3
+|[[Wikipedia:Version 1.0 Editorial Team/New York road transport articles by quality statistics|New York]]
+|12
+|2
+|164
+|274
+|170
+|57
+|1
+|2123
+|3.122
+|-align=center
+!scope=row|4
+|[[Wikipedia:Version 1.0 Editorial Team/New Jersey road transport articles by quality statistics|New Jersey]]
+|1
+|2
+|105
+|43
+|19
+|83
+|0
+|832
+|3.289
+|-align=center
+!scope=row|5
+|[[Wikipedia:Version 1.0 Editorial Team/Maryland road transport articles by quality statistics|Maryland]]
+|4
+|1
+|50
+|263
+|72
+|85
+|0
+|1603
+|3.375
+|-align=center
+!scope=row|6
+|[[Wikipedia:Version 1.0 Editorial Team/Utah road transport articles by quality statistics|Utah]]
+|4
+|2
+|12
+|63
+|125
+|19
+|2
+|822
+|3.621
+|-align=center
+!scope=row|7
+|[[Wikipedia:Version 1.0 Editorial Team/Arizona road transport articles by quality statistics|Arizona]]
+|1
+|0
+|12
+|18
+|46
+|21
+|0
+|367
+|3.745
+|-align=center
+!scope=row|8
+|[[Wikipedia:Version 1.0 Editorial Team/Iowa road transport articles by quality statistics|Iowa]]
+|1
+|0
+|16
+|9
+|91
+|14
+|0
+|493
+|3.763
+|-align=center
+!scope=row|9
+|[[Wikipedia:Version 1.0 Editorial Team/Washington road transport articles by quality statistics|Washington]]
+|0
+|3
+|37
+|42
+|52
+|52
+|25
+|821
+|3.891
+|-align=center
+!scope=row|10
+|[[Wikipedia:Version 1.0 Editorial Team/Minnesota road transport articles by quality statistics|Minnesota]]
+|0
+|0
+|3
+|5
+|198
+|13
+|0
+|878
+|4.009
+|-
+|}
+
+There was no vertical movement in the top ten since the last issue.  However many states lowered their average WikiWork.  For complete statistics, updated daily, check out [[WP:USRD/A/S]].  Now, here is a look at the project as a whole.
+
+{|class="wikitable"
+|-
+!Project
+!{{FA-Class|category=Category:FA-Class U.S. road transport articles}}
+!{{A-Class|category=Category:A-Class U.S. road transport articles}}
+!{{GA-Class|category=Category:GA-Class U.S. road transport articles}}
+!{{B-Class|category=Category:B-Class U.S. road transport articles}}
+!{{C-Class|category=Category:C-Class U.S. road transport articles}}
+!{{Start-Class|category=Category:Start-Class U.S. road transport articles}}
+!{{Stub-Class|category=Category:Stub-Class U.S. road transport articles}}
+!&#969;
+!&#937;
+|-align=center
+!scope=row|[[Wikipedia:Version 1.0 Editorial Team/U.S. road transport articles by quality statistics|USRD]]
+|42
+|21
+|777
+|1019
+|2349
+|4080
+|2474
+|49272
+|4.578
+|-align=center
+!scope=row|[[Wikipedia:Version 1.0 Editorial Team/Interstate Highway System articles by quality statistics|IH]]
+|8
+|4
+|47
+|39
+|206
+|227
+|24
+|2318
+|4.177
+|-align=center
+![[Wikipedia:Version 1.0 Editorial Team/U.S. Highway system articles by quality statistics|USH]]
+|10
+|2
+|49
+|34
+|170
+|291
+|38
+|2565
+|4.318
+|-align=center
+!scope=row|[[Wikipedia:Version 1.0 Editorial Team/U.S. auto trail articles by quality statistics|Auto trail]]
+|7
+|0
+|3
+|0
+|9
+|29
+|9
+|241
+|4.228
+|-
+|}
+
+Since the last newsletter, two new [[WP:FA|featured articles]] – [[U.S. Route 41 Business (Marquette, Michigan)]] and [[California State Route 57]] – and 144 new [[WP:GA|good articles]] were promoted.
+
+===Selected article/picture from portal===
+Just make sure this is substituted before publication.
+[[File:US20 to Springville.jpg|right|150x150px|US 20 approaching Springville from the west]]
+'''[[U.S. Route 20 in Indiana|U.S. Route&nbsp;20]]''' ('''US&nbsp;20''') in [[Indiana]] is a main east&ndash;west highway that is parallel to the [[Indiana Toll Road]]. The western terminus of US&nbsp;20 is at the [[Illinois]] state line and the eastern terminus is at the [[Ohio]] state line. US&nbsp;20 through Whiting, East Chicago, and Gary is concurrent with [[U.S. Route 12 in Indiana|US&nbsp;12]] twice.  The route varies between [[one-way traffic|one-way]], two-lane, and four-lane streets, in northwestern Indiana. East of Gary to Michigan City, the road is a two-lane highway. From Michigan City to west of South Bend, US&nbsp;20 is a four-lane undivided highway. The route then heads around the west and south sides of South Bend and Elkhart.  East of [[Elkhart County Road 17]] (CR&nbsp;17), US&nbsp;20 is two-lane rural highway.
+
+US&nbsp;20 was part of the Dunes Highway from the Illinois state line to Michigan City, concurrent with US&nbsp;12.   The Dunes Highway started being paved in 1922.  The section of the highway, that is known as Lincoln Way as part of the 1913 section of the [[Lincoln Highway in Indiana|Lincoln Highway]].  Indiana State Highway Commission, later renamed Indiana Deportment of Transportation, began signing US&nbsp;20 in 1926.  US&nbsp;20 went through downtown [[South Bend, Indiana|South Bend]] and [[Elkhart, Indiana|Elkhart]] before the [[St. Joseph Valley Parkway]] was built.  Before the parkway was completed, the route that was open to traffic was called Bypass US&nbsp;20.  A small realignment in LaGrange County was done in 2005, in which the roadway was straightened.  Other small realignments included the route through Michigan City, which followed US&nbsp;35 from US&nbsp;12 to I-94.
+
+Recently selected: [[Interstate 680 (Iowa–Nebraska)|Interstate 680]]{{*}} [[High Five Interchange]]{{*}} [[Florida State Road 404]]
+[[File:UT 103 in Ogden, 1954.PNG|right|150x150px|SR-103 is visible on its original alignment in Ogden]]
+'''[[Utah State Route 103|State Route 103]]''' (SR-103) is a {{convert|0.225|mi|km|adj=mid|-long}} urban minor arterial [[state highway]] in the U.S. state of [[Utah]]. It branches off from [[Utah State Route 126|SR-126]] in downtown [[Clearfield, Utah|Clearfield]] and extends east to [[Interstate 15 in Utah|Interstate 15]] (I-15), terminating at [[Hill Air Force Base]]. The entire route is located in [[Davis County, Utah|Davis County]] and was formed in 1965 coinciding with the construction of I-15. The eastern terminus has changed hands in the same location several times since its designation, and the route was eventually given the moniker of 650 North in 1979. SR-103 is one of four Utah state highways that connect to Hill Air Force Base, the others being [[Utah State Route 97|SR-97]], [[Utah State Route 168|SR-168]] and [[Utah State Route 232|SR-232]], and has the second lowest average daily traffic, higher only than SR-168.
+
+Recently selected: [[U.S. Route 20 in Indiana]]{{*}} [[Interstate 680 (Iowa–Nebraska)|Interstate 680]]{{*}} [[High Five Interchange]]
+[[File:Marine Drive Guam.jpg|right|150x150px|Marine Corps Drive on Guam]]
+'''[[Guam Highway 1]]''' (GH-1), also known as Marine Corps Drive, is one of the primary automobile routes in the United States territory of [[Guam]]. It runs in a southwest-to-northeast direction, from the main gate of [[Naval Base Guam]] in the western community of [[Santa Rita, Guam|Santa Rita]] in a general northeasterly direction to the main gate of [[Andersen Air Force Base]] in the community of [[Yigo, Guam|Yigo]]. It passes through Guam's capital, [[Hagåtña, Guam|Hagåtña]], as well as intersecting various other territorial highways. Along its route, the highway runs through tropical forest areas, urbanized commercial areas, and residential neighborhoods. The US Military built the road starting in 1941. Construction ceased with the Japanese invasion in December 1941 and resumed in 1944. The highway was formally dedicated to the [[US Marines]] by the territorial governor in 2004.
+
+Recently selected: [[Utah State Route 103]]{{*}} [[U.S. Route 20 in Indiana]]{{*}} [[Interstate 680 (Iowa–Nebraska)|Interstate 680]]
+
+[[File:Bixby Creek Bridge, The Big Sur, California.jpg|center|300px]]
+<center>The [[Bixby Creek Bridge]] along '''[[California State Route 1]]''' in [[Big Sur]], with the [[Pacific Ocean]] in the background</center>
+
+Recently selected: [[Portal:U.S. Roads/Selected picture/March 2012|Interstate 40 in Oklahoma]]{{*}} [[Portal:U.S. Roads/Selected picture/February 2012|Delaware Route 82]]{{*}} [[Portal:U.S. Roads/Selected picture/January 2012|Oregon Route 58]]
+[[File:Interstate 10, Loop 202 & SR 51.jpg|center|300px]]
+<center>Looking east at the '''[[Mini Stack]]''', an interchange in [[Phoenix, Arizona]] between [[Interstate 10 in Arizona|Interstate 10]], [[Arizona State Route 51|State Route 51]], and [[Arizona State Route 202|State Route 202]].</center>
+
+Recently selected: [[Portal:U.S. Roads/Selected picture/April 2012|California State Route 1]]{{*}} [[Portal:U.S. Roads/Selected picture/March 2012|Interstate 40 in Oklahoma]]{{*}} [[Portal:U.S. Roads/Selected picture/February 2012|Delaware Route 82]]
+<center>[[File:Seward Highway (1).jpg|300px]]<br>Looking north on the '''[[Seward Highway]]''' portion of '''[[Alaska Route 1]]''' as the highway approaches the [[Kenai Mountains]].</center>
+
+Recently selected: [[Portal:U.S. Roads/Selected picture/May 2012|Mini Stack]]{{*}} [[Portal:U.S. Roads/Selected picture/April 2012|California State Route 1]]{{*}} [[Portal:U.S. Roads/Selected picture/March 2012|Interstate 40 in Oklahoma]]
+
+===From the editor===

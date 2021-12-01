@@ -1,0 +1,218 @@
+{{Infobox television season
+| season_number        = 1
+| bgcolour             = lavender
+| num_episodes         = 9
+| first_aired          = {{start date|2007|4|11}}
+| last_aired           = {{end date|2007|5|30}}
+| module1              = {{Infobox reality competition season
+| num_contestants      = 12
+| winner               = Anthony
+}}
+| next_season          = [[Shear Genius (season 2)|Season 2]]
+}}
+The '''first season of [[Shear Genius]]''' aired on Bravo from April to May 2007.
+
+==Contestants==
+
+{| class="wikitable"
+|-
+! Contestant
+! Age
+! Hometown
+|-
+| Anthony Morrison
+| 40
+| [[Manhattan Beach, California]]<!---Originally from [[Hertfordshire]], [[England]]---> 
+|-
+| Ben Mollin
+| 32
+| [[Chicago, Illinois]]
+|-
+| Daisy Duchens
+| 31
+| [[Hialeah, Florida]]
+|-
+| Danna Sachs
+| 37
+| [[Santa Monica, California]]<!---Originally from [[South Africa]]--->
+|-
+| Dr. Boogie
+| 33
+| [[North Hollywood, California]]
+|-
+| Evangelin Pesci
+| 32
+| [[Reisterstown, Maryland]]
+|-
+| Jim
+| 49
+| [[Buffalo, New York]]
+|-
+| Lacey Wilson
+| 22
+| [[Miami Beach, Florida]]
+|-
+| Paul-Jean Jouve
+| 29
+| [[Beverly Hills, California]]<!---Originally from [[Nice]], [[France]]--->
+|-
+| [[Tabatha Coffey]]
+| 39
+| [[Ridgewood, New Jersey]] <!---Originally from [[Surfers Paradise, Queensland]], [[Australia]]--->
+|-
+| Theodore Leaf
+| 22
+| [[Canton, Ohio]]
+|-
+| Tyson Daniel
+| 31
+| [[Salt Lake City, Utah]]
+|}
+
+==Episode progress==
+{| class="wikitable" style="text-align:center"
+|-
+| '''''Shortcut'''''<br />'''''Winner''''' 
+| ''Tyson''
+| ''Tabatha''
+| ''Tyson''
+| ''Danna''
+| ''Tabatha''
+| ''Tabatha''<br />''Tyson''
+| ''Anthony''
+| None
+|-
+! Stylists !! 1 !! 2 !! 3 !! 4 !! 5 !! 6!! 7 !! 9 !! Episodes
+|-
+! Anthony 
+| IN || style="background:cornflowerblue;"| '''WIN''' || IN || IN || style="background:orange;"| LOW  ||style="background:cornflowerblue;"| '''WIN''' || style="background:orange;"| LOW||style="background:limegreen;"|'''WINNER'''|| ''Shear Genius''
+|-
+! Ben
+| IN || IN || style="background:pink;"| LOW || style="background:orange;"| LOW || IN ||style="background:orange;"| LOW || style="background:lightblue;"| HIGH||style="background:tomato;"| '''CUT''' || Finale - Second Place
+|-
+! Daisy
+| style="background:lightblue;"| HIGH || style="background:orange;"| LOW || style="background:lightblue;"| HIGH || style="background:lightblue;"| HIGH || style="background:lightblue;"| HIGH || style="background:cornflowerblue;"| '''WIN''' || style="background:cornflowerblue;"| '''WIN''' ||style="background:tomato;"| '''CUT''' || Finale - Third Place
+|-
+! Dr. Boogie
+| IN ||   IN || style="background:orange;"| LOW || IN ||  IN || style="background:orange;"| LOW ||style="background:tomato;"| '''CUT''' || style="background:darkgrey;"| || 7 - A Great Shot
+|-
+! Tabatha
+| style="background:lightblue;"| HIGH || style="background:lightblue;"| HIGH || style="background:lightblue;"| HIGH || IN || IN || style="background:tomato;"| '''CUT''' ||COLSPAN=2 style="background:darkgrey;"| || 6 - Here Comes the Challenge
+|-
+! Tyson
+| style="background:pink;"| LOW || IN || IN || IN || style="background:cornflowerblue;"| '''WIN''' ||style="background:tomato;"| '''CUT''' ||  COLSPAN=2 style="background:darkgrey;"| || 6 - Here Comes the Challenge
+|-
+! Danna
+| IN || IN || IN || style="background:cornflowerblue;"| '''WIN''' || style="background:tomato;"| '''CUT''' ||COLSPAN=3 style="background:darkgrey;"| || 5 - The Competition Gets Hairy
+|-
+! Evangelin 
+| IN || style="background:lightblue;"| HIGH || style="background:cornflowerblue;"| '''WIN''' || style="background:tomato;"| '''CUT''' ||COLSPAN=4 style="background:darkgrey;"| || 4 - I'm a Hair God
+|-
+! Theodore
+| style="background:cornflowerblue;"| '''WIN''' || IN ||  style="background:tomato;"| '''CUT''' ||COLSPAN=5 style="background:darkgrey;"| || 3 - Show Me Your Genius
+|-
+! Lacey
+| style="background:orange;"| LOW || IN ||  style="background:tomato;"| '''CUT'''||COLSPAN=5 style="background:darkgrey;"| || 3 - Show Me Your Genius
+|-
+! Jim
+| IN || style="background:tomato;"| '''CUT''' ||COLSPAN=6 style="background:darkgrey;"| || 2 - You Have Every Reason To Cry
+|-
+! Paul-Jean
+| style="background:tomato;"| '''CUT''' ||COLSPAN=7 style="background:darkgrey;"| || 1 - The First Cut
+|}
+
+:{{Color box|limegreen|border=darkgray}} (WINNER) The stylist won the series and was crowned Shear Genius.
+:{{Color box|cornflowerblue|border=darkgray}} (WIN) The stylist won that episode's Elimination Challenge.
+:{{Color box|lightblue|border=darkgray}} (HIGH) The stylist was selected as one of the top entries in the Elimination Challenge, but did not win.
+:{{Color box|pink|border=darkgray}} (LOW) The stylist was selected as one of the bottom entries in the Elimination Challenge, but was not eliminated.
+:{{Color box|orange|border=darkgray}} (LOW) The stylist was in the bottom two for the Elimination Challenge.
+:{{Color box|tomato|border=darkgray}} (CUT) The stylist lost that week's Elimination Challenge and was out of the competition.
+:{{Color box|white|border=darkgray}} (IN) The stylist neither won nor lost that week's Elimination Challenge. They also were not up to be eliminated.
+*In Episode 3, Lacey was eliminated after receiving the lowest score in the Shortcut Challenge.
+*In Episode 6, the contestants worked in pairs for both the Shortcut and Elimination Challenge.  There were 2 Shortcut winners, 2 Elimination winners, and 2 people eliminated.
+
+==Episode recaps==
+
+===Episode 1: The First Cut===
+
+First Aired April 11, 2007
+
+The 12 stylists are introduced to the host, [[Jaclyn Smith]], and judge [[Sally Hershberger]] for the Short Cut Challenge. The Short Cut Challenge consisted of the stylist showing their signature style on a mannequin head. Tyson, Daisy, and Paul-Jean were in the top three, and Evangelin, Lacey and Tabatha were in the bottom three. Called in order from worst to best, Tabatha was called as 12th place, while Tyson won the Short Cut Challenge. The sylists chose their models according to their rank. The Elimination Challenge was Hair-Art theme, which was judged on creativity and technical execution.
+
+The Shortcut Ranking (from 12 to 1): Tabatha, Lacey, Evangelin, Ben, Jim, Theodore, Anthony, Danna, Dr Boogie, Paul-Jean, Daisy, Tyson.
+
+Theodore, Daisy and Tabatha were called out as the top three, but it was Theodore who won the challenge with his treasure box hair style; besting Daisy's Marie Antoinette wedding hair, and Tabatha's glorified feather mohawk. Tyson, Lacey and Paul-Jean were in the bottom three, a surprising bottom 3, considering two of the stylists in the bottom 3 during the Elimination Challenge were in the top 3 during the Short Cut challenge (conversely, Tabatha was last place during the Short Cut Challenge, but in the top 3 during the Elimination Challenge). In the end, Tyson was sent to safety, leaving Lacey and Paul-Jean in the bottom 2. Lacey, who was in the bottom 2 during the Short Cut Challenge, was sent to safety next, leaving Paul-Jean to be sent home.
+
+===Episode 2: You Have Every Reason to Cry===
+First Aired April 18, 2007
+
+The Short Cut Challenge was for each competitor to color a black-haired mannequin head to a specific [[blond]] hair color, using a level 8 blond hair swatch for reference.
+
+The Shortcut Challenge: Top 3: Ben, Tabatha and Evangelin. Winner: Tabatha
+
+The Elimination Challenge was to style a client's hair in the fashion of a celebrity selected by that client.  The top three winners were able to select clients along with the target celebrity haircut the evening prior to the challenge, with the winner able to make the first pick; other competitors had to then select only from the pictures of the clients en masse, and would learn of the target celebrity haircut at the challenge. Jim, who turned his client's hair bright orange/pink, was eliminated from the competition.
+
+===Episode 3: Show Me Your Genius===
+First Aired April 25, 2007
+
+The Shortcut Challenge was for each competitor to replicate the "Sally Shag" on provided mannequin heads, named after Sally Hershberger and made famous by [[Meg Ryan]].  As a surprise to the competitors, the worst cut would be eliminated from the competition after this challenge.  Sally demonstrated the Shag cut to the competitors prior to the start of their own time.  The Top 3 was Tyson, Tabatha, and Ben, with Tyson winning.  The Bottom 3 was Danna, Evangelin, and Lacey.  Lacey was eliminated.
+
+The Elimination Challenge was to take a long-haired client into a short hair cut using only one non-traditional hair cutting tool such as hedge clippers, safety scissors or [[box cutters]].  The winner of the Short Cut challenge was not only able to select which tool and model he would use, but would also select the order the other competitors selected their own tool and model.  Tyson chose the order putting his "competition" at the bottom of the list.  Tyson's order was Dr. Boogie, Danna, Evangelin, Theodore, Ben, Daisy, Anthony, Tabatha.  Tyson admitted that he considers Tabatha his biggest competition. Evangelin, who styled her client with hedge clippers, won the Elimination Challenge.  Although the judges were heavily disappointed in Dr. Boogie for playing it safe, Theodore was sent home.
+
+===Episode 4: I'm a Hair God===
+First Aired May 2, 2007
+
+The Shortcut Challenge for the stylists was to prepare a style for their client that would work for both day and night.  Accessories were available for this challenge. The client themselves had to convert the style from day to night within 5 minutes without any help from the stylists.  Although the Top 3 is not announced, it is implied to be Danna, Daisy, and Ben.  The winner is Danna.  This was her first win in the competition. The stylists were then treated to an afternoon at a day spa, during which Evangelin stated she would try and use her hedge clippers on as many of her clients as possible. Tabatha lets it known to Anthony that she does not want Tyson to win the competition. At the loft, Evangelin gets into a screaming match with Danna and Tabatha over Evangelin's choice to use hedge clippers for the second competition in a row.
+
+The Elimination Challenge was to create a [[red carpet]] style for [[Vanessa L. Williams]] (of ''[[Ugly Betty]]'' fame) that would go along with a dress presented to the stylists.  The winner of the Shortcut Challenge was able to select their model first, and then chose the order the other stylists picked their model.  Danna based her order on Tyson's Episode 3 order but reversed it (so the order was Tabatha, Anthony, Daisy, Ben, Evangelin, Dr. Boogie, Tyson). Evangelin insisted on using her hedge clippers in this challenge, although the other stylists disagreed with her decision. After the judging, Jaclyn Smith called Danna, Ben, Daisy, and Evangelin to the center of the salon.  This group contained both the Top 2 and the Bottom 2.  Danna won the challenge, and Daisy came in second.  Ben and Evangelin were the Bottom 2.  Evangelin, who styled hair "that would get you on the worst dressed, worst hair list," was eliminated.
+
+===Episode 5: The Competition Gets Hairy===
+First Aired: May 9, 2007
+
+The Shortcut Challenge for the stylists was to give longer-haired male clients a haircut in the style of Matt Malinowski, while still showing off their styling skills. A surprised Tabatha won this challenge and Dr. Boogie took second.
+
+The elimination challenge was based on each stylist's interpretation of their assigned era. Tabatha, being the winner of the first challenge, got the honor of assigning each stylist with their era out of seven possible choices.  Tabatha selected '''80's Punk'''.  She then assigned '''1960's''' to Anthony, '''Elizabethan''' to Tyson, '''Medieval''' to Dr. Boogie, '''1920's''' to Ben, '''1940's''' to Danna, and '''Victorian''' to Daisy. Each assigned era came complete with a box of accessories to help complete the look and inspire the stylists. Tabatha and Dr. Boogie conspired to give Tyson the "Elizabethan" style as they believed he would struggle with the theme. When they got to the salon, models had been preselected for them depending on the type of style they were given. All completed the task well. Tyson and Daisy were the top two with Tyson taking the win much to Tabatha and Dr. Boogie's dismay. Danna and Anthony both were in the bottom two. Jaclyn explained that although both Danna and Anthony were authentic, their styles should have been sexier. Danna was eliminated. Ken Paves was the guest judge.
+
+In this episode, Dr. Boogie made an interesting comment about the Wall of Fame.  Like a "kiss of death," the person whose style goes up on the Wall of Fame (by winning an Elimination Challenge) is cut shortly after, usually in the next Elimination Challenge.  '''The Curse of the Wall of Fame''' affected Theodore, Evangelin, Danna, Tyson and Daisy.  Theodore and Daisy were the only two "cursed" who were not cut in the elimination challenge immediately following their respective wins.  Theodore was cut two challenges latter; Daisy won the following challenge, and was cut the one after that, in the finale. The only person on the Wall of Fame who is unaffected by the curse is Anthony.
+
+===Episode 6: Here Comes the Challenge===
+First Aired May 16, 2007
+
+The stylists were paired up into 3 teams of 2, selected by the winner of the previous week's Elimination Challenge (Tyson); these teams were used for both the Quickcut and Elimination challenges.  The teams for this week were Tyson and Tabatha, Dr. Boogie and Ben, and Anthony and Daisy.
+
+In the Quickcut challenge, teams were to sell haircuts to mall patrons within a 2-hour period; what services and what prices they offered were up to the teams.  The team that made the most money won the challenge.  Tyson and Tabatha won the challenge, earning more money than the other two teams combined, by charging $50 per haircut, as opposed to $5–$20 that the other teams used.
+
+In the Elimination challenge, teams were to style the hair of a bride, the bridesmaid-of-honor, and the bride's mother, with the wedding and bridesmaid dress presented for reference.  The team with the best style for all three women, including the consistency between each style and how the styles complimented the dresses, won the challenge.  The winning team from the Quickcut challenge, Tyson and Tabatha, were able to pick which bridal party they wanted to work with.  Anthony and Daisy were awarded with the best stylings, while Tyson and Tabatha were eliminated for poor teamwork and synchronization between their styles. Part of Tabatha's demise came from her tirade to the judges about how much she disliked Tyson and thought his ego got in the way. The judges were clearly surprised that she so boldly made this announcement. [[José Eber]] was the guest judge.
+
+===Episode 7: A Great Shot===
+First Aired May 23, 2007
+
+The Shortcut Challenge required each stylist to take a naturally curly-haired, African-American model and to [[Hair straightening|make the hair into a straight-hair look]], in the style of Matt Malinowski.  Model picks were based on the team rankings from the previous Elimination challenge.
+Ben comments on how he isn't experienced doing African-American hair and Anthony wins the quickcut challenge.
+The Elimination Challenge had each stylist work with a model for 4 specific styles to be used in a photo shoot with a famous photographer.  The photographer had four looks to work with.  Anthony got to assign looks to each stylist because of his previous win.  Anthony chose "retro glam," gave Dr. Boogie "[[diva]]," Ben "[[rocker (subculture)|rocker]]," and Daisy "[[sex kitten]]".  During the shoot, the stylists could or were asked to adjust the hair as the photo shoot progressed.  The winner was judged not only on the style but how well it worked for the photo shoot.  Unique to this challenge were the judges who were actually present during the photo shoot challenge, looking at the monitors for instant feedback from the digital photos.  In previous challenges, the judges only saw the final result.  The styles for each stylist were picked by Anthony as the winner of the Shortcut challenge. In the end, Dr. Boogie was eliminated because the judges felt that his attitude wasn't teamwork-oriented, due to his frequent interruption of his photo shoot to fix and adjust his model's hair. Daisy, Anthony, and Ben are the final three and one of them will be crowned the Shear Genius in the finale.
+* Daisy was the First person to win 2 Elimination Challenges in a row.
+
+===Episode 8: Watch What Happens Reunion===
+First Aired May 23, 2007
+
+All of the Shear Genius contestants come back for one final reunion where they explain and talk about the show thus far. Tabatha again exclaims her dislike for Tyson, while the contestants tell who they think will be the Shear Genius out of the remaining contestants: Anthony, Ben, and Daisy. Tabatha is voted the Fan Favorite by Shear Genius viewers and wins a $10,000 prize. Coincidentally, it was Tabatha's birthday. All  former contestant voted for either Daisy and Anthony as most likely to win Shear Genius; Ben received no votes.
+
+===Episode 9: Finale===
+First Aired May 30, 2007
+
+In the Season Finale, each stylist had to design three styles that worked together to tell a story, and prepare those styles on three models within three hours.  At least one of the styles had to be a "[[Nancy Kwan]]" bob, at least one had to have color, and each stylist had total creative license for the last style.  The guest judge was [[Vidal Sassoon]] who advised the stylists on giving back to the community via his website www.whodoesyourhair.com in a meeting before the final challenge.  Each stylist drew scissors to pick which wardrobe to use.  Daisy chose [[Luca Luca]], Anthony chose [[Cynthia Rowley]], and Ben chose [[Dina Bar-El]].  The stylists then had to choose three outfits from the wardrobe to go with the hairstyles and stories.  Models were chosen for the stylists based on the outfits they selected.  Daisy presented an "S" shaped theme.  Anthony called his presentation "Modern Movement," and Ben showed an evolution from outer to inner beauty in styles for Hollywood and "the rest of us."  Anthony was revealed to be Shear Genius.  Ben finished in second place.  Daisy finished in third place.
+
+<!--==References==
+{{reflist}} -->
+
+==External links==
+* [https://web.archive.org/web/20070322235954/http://www.bravotv.com/Shear_Genius Shear Genius Page on BRAVOtv.com]
+* [https://web.archive.org/web/20080512053749/http://blastmagazine.com/2007/06/shear-genius-tabatha/ Interview with Tabatha] Blast Magazine
+* [http://currentvine.com/2007/06/theodore_leaf/ Interview with Theodore] Current Vine
+* [http://www.cinemablend.com/television/Mohawks-Mane-Taming-And-Music-The-Ben-Mollin-Experience-4478.html Interview with Ben] Cinema Blend
+
+[[Shear Genius|Season 01]]
+
+{{DEFAULTSORT:Shear Genius (Season 1)}}
+[[Category:Shear Genius]]
+[[Category:2007 American television seasons]]

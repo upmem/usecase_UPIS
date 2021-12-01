@@ -1,0 +1,929 @@
+{{short description|Beach soccer tournament}}
+{{Infobox International Football Competition
+| tourney_name   = CONCACAF Beach Soccer Championship
+| year           = 2019
+| other_titles   = 2019 FIFA Beach Soccer World Cup CONCACAF qualifier
+| image          =
+| size           = 250px
+| caption        = 
+| country        = Mexico
+| city           = Puerto Vallarta
+| dates          = 13–19 May
+| num_teams      = 16
+| confederations = 1
+| venues         = 1
+| cities         = 1
+| champion_other = {{beachsoccer|MEX}}
+| count          = 4
+| second_other   = {{beachsoccer|USA}}
+| third_other    = {{beachsoccer|SLV}}
+| fourth_other   = {{beachsoccer|PAN}}
+| matches        = 32
+| goals          = 287
+| attendance     =
+| top_scorer     = {{flagicon|USA}} [[Nick Perera]]<br>(13 goals)
+| player         = {{flagicon|MEX}} [[Benjamín Mosco]]
+| goalkeeper     = {{flagicon|MEX}} [[Diego Villaseñor]]
+| young_player   = {{flagicon|SLV}} [[Exon Perdomo]]
+| fair_play      = {{beachsoccer|PAN}}
+| prevseason     = [[2017 CONCACAF Beach Soccer Championship|2017]]
+| nextseason     = [[2021 CONCACAF Beach Soccer Championship|2021]]
+}}
+The '''2019 CONCACAF Beach Soccer Championship''' was the eighth edition of the [[CONCACAF Beach Soccer Championship]], the premier [[beach soccer]] tournament contested by North American men's national teams and organised by CONCACAF (seventh official edition, tenth edition if qualifying tournaments held jointly with CONMEBOL are also counted). The tournament took place in [[Puerto Vallarta]], [[Mexico]] between 13–19 May 2019.<ref>{{cite web|url=https://www.concacaf.com/en/beach-soccer/article/puerto-vallarta-set-to-host-the-2019-concacaf-beach-soccer-championship|title=Puerto Vallarta Set to Host the 2019 Concacaf Beach Soccer Championship|publisher=CONCACAF|date=29 March 2019}}</ref>
+
+The championship also acts as the qualification tournament for CONCACAF teams to the [[2019 FIFA Beach Soccer World Cup]] in Paraguay; the top two teams qualify.
+
+[[Panama national beach soccer team|Panama]] were the defending champions, but lost in the third-place match.
+
+==Teams==
+A total of 16 teams compete in the tournament.
+
+{| class="wikitable sortable"
+! Team
+! data-sort-type="number"|Appearance
+! Previous best performance
+|-
+| {{beachsoccer|ATG}} ||3rd|| 
+|-
+| {{beachsoccer|BAH}} ||6th|| {{sort|06|6th place ([[2009 CONCACAF Beach Soccer Championship|2009]], [[2013 CONCACAF Beach Soccer Championship|2013]], [[2017 CONCACAF Beach Soccer Championship|2017]])}}
+|-
+| {{beachsoccer|BLZ}} ||3rd||
+|-
+| {{beachsoccer|BOE}} ||1st|| {{sort|99|Debut}}
+|-
+| {{beachsoccer|CRC}} ||8th|| {{sort|02|Runner-up ([[2009 CONCACAF Beach Soccer Championship|2009]], [[2015 CONCACAF Beach Soccer Championship|2015]])}}
+|-
+| {{beachsoccer|SLV}} ||7th|| {{sort|01|Champion ([[2009 CONCACAF Beach Soccer Championship|2009]])}}
+|-
+| {{beachsoccer|GLP}} ||3rd||  {{sort|04|Fourth place ([[2017 CONCACAF Beach Soccer Championship|2017]])}}
+|-
+| {{beachsoccer|GUA}} ||4th|| {{sort|05|5th place ([[2013 CONCACAF Beach Soccer Championship|2013]])}}
+|-
+| {{beachsoccer|GUY}} ||2nd|| {{sort|12|12th place ([[2017 CONCACAF Beach Soccer Championship|2017]])}}
+|-
+| {{beachsoccer|JAM}} ||6th|| {{sort|05|5th place ([[2006 CONCACAF Beach Soccer Championship|2006]])}}
+|-
+| {{beachsoccer|MEX}} (hosts) ||8th|| {{sort|01|Champion ([[2008 CONCACAF Beach Soccer Championship|2008]], [[2011 CONCACAF Beach Soccer Championship|2011]], [[2015 CONCACAF Beach Soccer Championship|2015]])}}
+|-
+| {{beachsoccer|PAN}} (title holders) ||3rd|| {{sort|01|Champion ([[2017 CONCACAF Beach Soccer Championship|2017]])}}
+|-
+| {{beachsoccer|TRI}} ||4th|| {{sort|05|5th place ([[2015 CONCACAF Beach Soccer Championship|2015]])}}
+|-
+| {{beachsoccer|TCA}} ||3rd||
+|-
+| {{beachsoccer|USA}} ||8th|| {{sort|01|Champion ([[2006 CONCACAF Beach Soccer Championship|2006]], [[2013 CONCACAF Beach Soccer Championship|2013]])}}
+|-
+| {{beachsoccer|VIR}} ||3rd||
+|}
+
+==Draw==
+The draw was held on 8 April 2019 at the Calle Independencia in Puerto Vallarta. The 16 teams were drawn into four groups of four.<ref>{{cite web|url=https://www.beachsoccer.com/news/draw-reveals-groups-for-the-2019-concacaf-beach-soccer-championship|title=Draw Reveals Groups for the 2019 Concacaf Beach Soccer Championship|publisher=Beach Soccer Worldwide|date=8 April 2019}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=ywmsZ_sDGvs|title=Official Draw – 2019 Concacaf Beach Soccer Championship|publisher=YouTube|date=8 April 2019}}</ref>
+
+==Squads==
+{{Main|2019 CONCACAF Beach Soccer Championship squads}}
+
+Each squad can contain a maximum of 12 players.<ref>{{cite web|url=https://www.concacaf.com/en/beach-soccer/article/final-rosters-confirmed-for-the-2019-concacaf-beach-soccer-championship|title=Final Rosters Confirmed for the 2019 Concacaf Beach Soccer Championship|publisher=CONCACAF|date=10 May 2019}}</ref><ref>{{cite web|url=https://gallery.mailchimp.com/78d3589fb61466b549ff752e5/files/9c136cbf-f7d9-46fc-9f3b-5a1e27d0f1d0/All_CBS_Rosters_2019.pdf|title=National team roster – Concacaf Beach Soccer Championship 2019|publisher=CONCACAF}}</ref>
+
+==Group stage==
+Each team earns three points for a win in regulation time, two points for a win in extra time, one point for a win in a penalty shoot-out, and no points for a defeat. The top two teams from each group advance to the quarter-finals.
+
+All times are local, [[Central Time Zone|CDT]] ([[UTC−05:00|UTC−5]]).<ref>{{cite web|url=https://gallery.mailchimp.com/78d3589fb61466b549ff752e5/files/683ec764-8d7e-4740-9af2-4ea8ab2fbc6a/19_BSC_Schedule_V3.pdf|title=Tournament Schedule – CONCACAF Beach Soccer Championship 2019}}</ref>
+
+===Group A===
+{{#invoke:Sports table|main|style=WL OT
+|OTwin_header=<abbr title="Won after extra time">W+</abbr> |OTloss_header=<abbr title="Won after penalty shoot-out">W<small>P</small></abbr>
+
+|source=[https://www.concacaf.com/en/beach-soccer/schedule-results#tab_team=standings CONCACAF]
+|name_MEX={{beachsoccer|MEX}}
+|name_CRC={{beachsoccer|CRC}}
+|name_JAM={{beachsoccer|JAM}}
+|name_GUA={{beachsoccer|GUA}}
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+<!--Use win_XXX to record wins in regulation, OTwin_XXX to record wins after extra time, and OTloss_XXX to record wins after penalty shoot-out-->
+|win_MEX=3 |OTwin_MEX=0 |OTloss_MEX=0 |loss_MEX=0 |gf_MEX=16|ga_MEX=6 |status_MEX=H
+|win_CRC=1 |OTwin_CRC=0 |OTloss_CRC=0 |loss_CRC=2 |gf_CRC=13|ga_CRC=15|status_CRC=
+|win_JAM=0 |OTwin_JAM=0 |OTloss_JAM=0 |loss_JAM=3 |gf_JAM=5 |ga_JAM=13|status_JAM=
+|win_GUA=2 |OTwin_GUA=0 |OTloss_GUA=0 |loss_GUA=1 |gf_GUA=10|ga_GUA=10|status_GUA=
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=MEX |team2=GUA |team3=CRC |team4=JAM
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[#Knockout stage|Knockout stage]]
+}}
+
+{{Football box
+|date       = {{Start date|2019|5|13|df=y}}
+|time       = 14:15
+|team1      = {{beachsoccer-rt|CRC}}
+|score      = 4–2
+|team2      = {{beachsoccer|JAM}}
+|goals1     =
+*Roger Mora {{goal|2}}
+*Frandert Arrieta {{goal|6}}
+*Christian Sánchez {{goal|33}}
+*Jhonatan Sánchez {{goal|34}}
+|goals2     =
+*Renae Lloyd {{goal|14}}
+*Ryan Powell {{goal|27}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Juan Andrés Ángeles ([[Dominican Football Federation|Dominican Republic]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476802
+}}
+{{Football box
+|date       = {{Start date|2019|5|13|df=y}}
+|time       = 18:00
+|team1      = {{beachsoccer-rt|GUA}}
+|score      = 0–4
+|team2      = {{beachsoccer|MEX}}
+|goals1     =
+|goals2     =
+*Néstor Martínez {{goal|17}}
+*Abdiel Villa {{goal|18||24}}
+*Ulises Torres {{goal|29}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Gonzalo Carballo ([[Salvadoran Football Federation|El Salvador]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476803
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|14|df=y}}
+|time       = 14:15
+|team1      = {{beachsoccer-rt|CRC}}
+|score      = 4–5
+|team2      = {{beachsoccer|GUA}}
+|goals1     =
+*Jhonatan Sánchez {{goal|14}}
+*Xavier Jiménez {{goal|22}}
+*Estiven Espinoza {{goal|26}}
+*Christian Sánchez {{goal|34}}
+|goals2     =
+*Miguel González {{goal|2||24}}
+*Ángel Sáenz {{goal|21|pen.|27}}
+*Álex Morán {{goal|27}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Arian Crespo ([[Football Association of Cuba|Cuba]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476810
+}}
+{{Football box
+|date       = {{Start date|2019|5|14|df=y}}
+|time       = 18:00
+|team1      = {{beachsoccer-rt|MEX}}
+|score      = 4–1
+|team2      = {{beachsoccer|JAM}}
+|goals1     =
+*Diego Villaseñor {{goal|12}}
+*Ulises Torres {{goal|21}}
+*[[Benjamín Mosco]] {{goal|25}}
+*José Vizarra {{goal|30}}
+|goals2     = Jermain Anderson {{goal|30}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = David Cruz ([[Salvadoran Football Federation|El Salvador]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476811
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|15|df=y}}
+|time       = 14:15
+|team1      = {{beachsoccer-rt|JAM}}
+|score      = 2–5
+|team2      = {{beachsoccer|GUA}}
+|goals1     =
+*Barrington Planter {{goal|10|pen.}}
+*Renae Lloyd {{goal|28}}
+|goals2     =
+*Miguel González {{goal|4|pen.|15}}
+*Leandro Bachez {{goal|9}}
+*Lester González {{goal|14}}
+*Marco Ávila {{goal|28}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Julio Ramos Mejía ([[Salvadoran Football Federation|El Salvador]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476818
+}}
+{{Football box
+|date       = {{Start date|2019|5|15|df=y}}
+|time       = 18:00
+|team1      = {{beachsoccer-rt|MEX}}
+|score      = 8–5
+|team2      = {{beachsoccer|CRC}}
+|goals1     =
+*[[Ramón Maldonado]] {{goal|0||8||26||33}}
+*Ulises Torres {{goal|11}}
+*Néstor Martínez {{goal|16}}
+*Jair Alemán {{goal|20}}
+*José Hernández {{goal|27}}
+|goals2     =
+*Roger Mora {{goal|0||16}}
+*Jhonatan Sánchez {{goal|2||9}}
+*Christian Sánchez {{goal|33}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Juan Andrés Ángeles ([[Dominican Football Federation|Dominican Republic]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476819
+}}
+
+===Group B===
+{{#invoke:Sports table|main|style=WL OT
+|OTwin_header=<abbr title="Won after extra time">W+</abbr> |OTloss_header=<abbr title="Won after penalty shoot-out">W<small>P</small></abbr>
+
+|source=[https://www.concacaf.com/en/beach-soccer/schedule-results#tab_team=standings CONCACAF]
+|name_PAN={{beachsoccer|PAN}}
+|name_TRI={{beachsoccer|TRI}}
+|name_TCA={{beachsoccer|TCA}}
+|name_VIR={{beachsoccer|VIR}}
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+<!--Use win_XXX to record wins in regulation, OTwin_XXX to record wins after extra time, and OTloss_XXX to record wins after penalty shoot-out-->
+|win_PAN=3 |OTwin_PAN=0 |OTloss_PAN=0 |loss_PAN=0 |gf_PAN=20|ga_PAN=5 |status_PAN=
+|win_TRI=2 |OTwin_TRI=0 |OTloss_TRI=0 |loss_TRI=1 |gf_TRI=16|ga_TRI=6 |status_TRI=
+|win_TCA=0 |OTwin_TCA=0 |OTloss_TCA=0 |loss_TCA=3 |gf_TCA=7 |ga_TCA=22|status_TCA=
+|win_VIR=1 |OTwin_VIR=0 |OTloss_VIR=0 |loss_VIR=2 |gf_VIR=11|ga_VIR=21|status_VIR=
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=PAN |team2=TRI |team3=VIR |team4=TCA
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[#Knockout stage|Knockout stage]]
+}}
+
+{{Football box
+|date       = {{Start date|2019|5|13|df=y}}
+|time       = 12:00
+|team1      = {{beachsoccer-rt|TRI}}
+|score      = 6–0
+|team2      = {{beachsoccer|TCA}}
+|goals1     =
+*Ryan Augustine {{goal|2}}
+*Zane Coker {{goal|10||13}}
+*Kevon Woodley {{goal|18||35}}
+*Shane Hospedales {{goal|25}}
+|goals2     =
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = David Cruz ([[Salvadoran Football Federation|El Salvador]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476804
+}}
+{{Football box
+|date       = {{Start date|2019|5|13|df=y}}
+|time       = 15:30
+|team1      = {{beachsoccer-rt|VIR}}
+|score      = 1–8
+|team2      = {{beachsoccer|PAN}}
+|goals1     = Joseph Leto {{goal|32}}
+|goals2     =
+*Xavier García {{goal|1}}
+*Alfonso Maquensi {{goal|11||12||28}}
+*Rafael García {{goal|14||17||26}}
+*Eliecer García {{goal|18}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Arian Crespo ([[Football Association of Cuba|Cuba]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476805
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|14|df=y}}
+|time       = 12:00
+|team1      = {{beachsoccer-rt|TRI}}
+|score      = 7–2
+|team2      = {{beachsoccer|VIR}}
+|goals1     =
+*Kevon Woodley {{goal|2||18||20|pen.}}
+*Jesse Bailey {{goal|9||30}}
+*Hakeem King {{goal|11|pen.|17}}
+|goals2     =
+*Rakeem Joseph {{goal|3}}
+*Joseph Leto {{goal|10}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Warner Porras ([[Costa Rican Football Federation|Costa Rica]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476812
+}}
+{{Football box
+|date       = {{Start date|2019|5|14|df=y}}
+|time       = 16:45
+|team1      = {{beachsoccer-rt|PAN}}
+|score      = 8–1
+|team2      = {{beachsoccer|TCA}}
+|goals1     =
+*Eliecer García {{goal|10||17}}
+*Alfonso Maquensi {{goal|14||16||24}}
+*Rafael García {{goal|23||28||34}}
+|goals2     = Herby Magny {{goal|23}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    =
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476813
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|16|df=y}}
+|time       = 15:30
+|team1      = {{beachsoccer-rt|TCA}}
+|score      = 6–8
+|team2      = {{beachsoccer|VIR}}
+|goals1     =
+*Alex Bryan {{goal|4||9||31}}
+*Jeff Beljour {{goal|6||9}}
+*Lenford Singh {{goal|29}}
+|goals2     =
+*Emiliano Aranes {{goal|9||27||35}}
+*Esais Charles {{goal|13}}
+*Rakeem Joseph {{goal|20}}
+*Vincent Schultz {{goal|20}}
+*Michael Vollmer {{goal|22}}
+*Carlos Labrada {{goal|33}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Arquel Carrasco ([[Panamanian Football Federation|Panama]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476820
+}}
+{{Football box
+|date       = {{Start date|2019|5|16|df=y}}
+|time       = 18:00
+|team1      = {{beachsoccer-rt|PAN}}
+|score      = 4–3
+|team2      = {{beachsoccer|TRI}}
+|goals1     =
+*Alfonso Maquensi {{goal|3||18}}
+*Rafael García {{goal|13}}
+*Eliecer García {{goal|25}}
+|goals2     =
+*Jesse Bailey {{goal|2}}
+*Kevon Woodley {{goal|8||14}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Arian Crespo ([[Football Association of Cuba|Cuba]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476821
+}}
+
+===Group C===
+{{#invoke:Sports table|main|style=WL OT
+|OTwin_header=<abbr title="Won after extra time">W+</abbr> |OTloss_header=<abbr title="Won after penalty shoot-out">W<small>P</small></abbr>
+
+|source=[https://www.concacaf.com/en/beach-soccer/schedule-results#tab_team=standings CONCACAF]
+|name_USA={{beachsoccer|USA}}
+|name_BAH={{beachsoccer|BAH}}
+|name_ATG={{beachsoccer|ATG}}
+|name_BOE={{beachsoccer|BOE}}
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+<!--Use win_XXX to record wins in regulation, OTwin_XXX to record wins after extra time, and OTloss_XXX to record wins after penalty shoot-out-->
+|win_USA=3 |OTwin_USA=0 |OTloss_USA=0 |loss_USA=0 |gf_USA=28|ga_USA=5 |status_USA=
+|win_BAH=2 |OTwin_BAH=0 |OTloss_BAH=0 |loss_BAH=1 |gf_BAH=21|ga_BAH=9 |status_BAH=
+|win_ATG=1 |OTwin_ATG=0 |OTloss_ATG=0 |loss_ATG=2 |gf_ATG=15|ga_ATG=22|status_ATG=
+|win_BOE=0 |OTwin_BOE=0 |OTloss_BOE=0 |loss_BOE=3 |gf_BOE=7 |ga_BOE=35|status_BOE=
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=USA |team2=BAH |team3=ATG |team4=BOE
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[#Knockout stage|Knockout stage]]
+}}
+
+{{Football box
+|date       = {{Start date|2019|5|13|df=y}}
+|time       = 10:45
+|team1      = {{beachsoccer-rt|BAH}}
+|score      = 7–4
+|team2      = {{beachsoccer|ATG}}
+|goals1     =
+*Gary Joseph {{goal|1}}
+*Timothy Munnings {{goal|4}}
+*Jean Francois {{goal|7||25}}
+*Lesly St. Fleur {{goal|12}}
+*Kyle Williams {{goal|19||28}}
+|goals2     =
+*Elvis Thomas {{goal|2}}
+*Kevin Richards {{goal|27}}
+*Chevon Moore {{goal|31}}
+*O'Dell Murray {{goal|33}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Miguel López ([[National Football Federation of Guatemala|Guatemala]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476806
+}}
+{{Football box
+|date       = {{Start date|2019|5|13|df=y}}
+|time       = 16:45
+|team1      = {{beachsoccer-rt|BOE}}
+|score      = 1–14
+|team2      = {{beachsoccer|USA}}
+|goals1     = Henrich Beaumont {{goal|27}}
+|goals2     =
+*Tanner Akol {{goal|1||2}}
+*Giandro Steba {{goal|3|o.g.}}
+*[[Nick Perera]] {{goal|6|pen.|17||23||28||34}}
+*David Mondragón {{goal|19||21}}
+*Jason Leopoldo {{goal|21||23|pen.}}
+*Oscar Reyes {{goal|23}}
+*Adriano Dos Santos {{goal|33}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    =
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476807
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|15|df=y}}
+|time       = 12:00
+|team1      = {{beachsoccer-rt|BAH}}
+|score      = 12–2
+|team2      = {{beachsoccer|BOE}}
+|goals1     =
+*Michael Butler {{goal|3}}
+*Timothy Munnings {{goal|5||28||32}}
+*Jean Francois {{goal|11}}
+*Lesly St. Fleur {{goal|12}}
+*James Thompson {{goal|14||20||24}}
+*Gavin Christie {{goal|15||23}}
+*Dwayne Forbes {{goal|25|pen.}}
+|goals2     =
+*Raydolf Felix {{goal|5|pen.}}
+*Gilbertson Piard {{goal|26}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Arquel Carrasco ([[Panamanian Football Federation|Panama]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476814
+}}
+{{Football box
+|date       = {{Start date|2019|5|15|df=y}}
+|time       = 15:30
+|team1      = {{beachsoccer-rt|USA}}
+|score      = 11–2
+|team2      = {{beachsoccer|ATG}}
+|goals1     =
+*Tomas Canale {{goal|1||28}}
+*[[Nick Perera]] {{goal|2||24}}
+*Tanner Akol {{goal|6||7||22||29||35|pen.}}
+*Oscar Reyes {{goal|15|pen.}}
+*Franck Tayou {{goal|31}}
+|goals2     = Kevin Richards {{goal|15||35}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Warner Porras ([[Costa Rican Football Federation|Costa Rica]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476815
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|16|df=y}}
+|time       = 12:00
+|team1      = {{beachsoccer-rt|ATG}}
+|score      = 9–4
+|team2      = {{beachsoccer|BOE}}
+|goals1     =
+*Kevin Richards {{goal|4}}
+*Elvis Thomas {{goal|13|pen.|30}}
+*Omarie Daniel {{goal|16||21||27}}
+*Stephen Hughes {{goal|17|pen.|20|pen.}}
+*Malique Jarvis {{goal|34}}
+|goals2     = Giandro Steba {{goal|3||15||18||24}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Miguel Aguilar ([[Mexican Football Federation|Mexico]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476822
+}}
+{{Football box
+|date       = {{Start date|2019|5|16|df=y}}
+|time       = 14:15
+|team1      = {{beachsoccer-rt|USA}}
+|score      = 3–2
+|team2      = {{beachsoccer|BAH}}
+|goals1     =
+*Tanner Akol {{goal|17||24}}
+*[[Nick Perera]] {{goal|33|pen.}}
+|goals2     =
+*Timothy Munnings {{goal|28}}
+*Jean Francois {{goal|33}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Warner Porras ([[Costa Rican Football Federation|Costa Rica]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476823
+}}
+
+===Group D===
+{{#invoke:Sports table|main|style=WL OT
+|OTwin_header=<abbr title="Won after extra time">W+</abbr> |OTloss_header=<abbr title="Won after penalty shoot-out">W<small>P</small></abbr>
+
+|source=[https://www.concacaf.com/en/beach-soccer/schedule-results#tab_team=standings CONCACAF]
+|name_SLV={{beachsoccer|SLV}}
+|name_GLP={{beachsoccer|GLP}}
+|name_BLZ={{beachsoccer|BLZ}}
+|name_GUY={{beachsoccer|GUY}}
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+<!--Use win_XXX to record wins in regulation, OTwin_XXX to record wins after extra time, and OTloss_XXX to record wins after penalty shoot-out-->
+|win_SLV=3 |OTwin_SLV=0 |OTloss_SLV=0 |loss_SLV=0 |gf_SLV=23|ga_SLV=6 |status_SLV=
+|win_GLP=1 |OTwin_GLP=0 |OTloss_GLP=1 |loss_GLP=1 |gf_GLP=11|ga_GLP=17|status_GLP=
+|win_BLZ=0 |OTwin_BLZ=0 |OTloss_BLZ=0 |loss_BLZ=3 |gf_BLZ=9 |ga_BLZ=17|status_BLZ=
+|win_GUY=1 |OTwin_GUY=0 |OTloss_GUY=0 |loss_GUY=2 |gf_GUY=10|ga_GUY=13|status_GUY=
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team1=SLV |team2=GLP |team3=GUY |team4=BLZ
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO
+|col_KO=green1 |text_KO=[[#Knockout stage|Knockout stage]]
+}}
+
+{{Football box
+|date       = {{Start date|2019|5|14|df=y}}
+|time       = 10:45
+|team1      = {{beachsoccer-rt|GLP}}
+|score      = 7−6
+|team2      = {{beachsoccer|BLZ}}
+|goals1     =
+*David Bordelai {{goal|8||21||35}}
+*Melaick Breter {{goal|14}}
+*Sebastien Hell {{goal|32||33}}
+*Ricardo Mezence {{goal|34}}
+|goals2     =
+*Evan Mariano {{goal|7}}
+*Marlon Meza {{goal|23||30||35}}
+*Raymond Ramos {{goal|25}}
+*Wayne Ford {{goal|31}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Gumercindo Batista ([[Panamanian Football Federation|Panama]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476808
+}}
+{{Football box
+|date       = {{Start date|2019|5|14|df=y}}
+|time       = 15:30
+|team1      = {{beachsoccer-rt|GUY}}
+|score      = 4−8
+|team2      = {{beachsoccer|SLV}}
+|goals1     =
+*Shane Luckie {{goal|6}}
+*Jamal Haynes {{goal|13||17}}
+*Trevon Archibald {{goal|19}}
+|goals2     =
+*Eliodoro Portillo {{goal|1}}
+*Heber Ramos {{goal|7||20}}
+*Exon Perdomo {{goal|15||28}}
+*Agustín Ruiz {{goal|16}}
+*Rubén Batres {{goal|17||23}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Miguel Aguilar ([[Mexican Football Federation|Mexico]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476809
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|15|df=y}}
+|time       = 10:45
+|team1      = {{beachsoccer-rt|GLP}}
+|score      = 3−3
+|team2      = {{beachsoccer|GUY}}
+|goals1     =
+*Gael Geolier {{goal|9}}
+*Alan Lefort {{goal|24}}
+*Benoit Zembama {{goal|26}}
+|goals2     =
+*Shane Luckie {{goal|11}}
+*Michael Wilson {{goal|20}}
+*Jamal Haynes {{goal|25}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|aet=yes
+|penalties1   =
+*Ricardo Mezence {{pengoal}}
+*Sebastien Hell {{pengoal}}
+|penaltyscore =2−0
+|penalties2   =
+*{{penmiss}} Jarmane Grandison
+*{{penmiss}} Shane Luckie
+|referee    = Gumercindo Batista ([[Panamanian Football Federation|Panama]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476816
+}}
+{{Football box
+|date       = {{Start date|2019|5|15|df=y}}
+|time       = 16:45
+|team1      = {{beachsoccer-rt|SLV}}
+|score      =7−1
+|team2      = {{beachsoccer|BLZ}}
+|goals1     =
+*Rubén Batres {{goal|8}}
+*Agustín Ruiz {{goal|14||30}}
+*Exon Perdomo {{goal|22||35}}
+*Elmer Robles {{goal|27}}
+*[[Frank Velásquez]] {{goal|35}}
+|goals2     = Wayne Ford {{goal|27}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Miguel López ([[National Football Federation of Guatemala|Guatemala]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476817
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|16|df=y}}
+|time       = 10:45
+|team1      = {{beachsoccer-rt|BLZ}}
+|score      = 2−3
+|team2      = {{beachsoccer|GUY}}
+|goals1     =
+*Wayne Ford {{goal|3}}
+*Marlon Meza {{goal|5|pen.}}
+|goals2     =
+*Shane Luckie {{goal|15||20}}
+*Simon Kanard {{goal|31}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Marco Navarro ([[Costa Rican Football Federation|Costa Rica]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476824
+}}
+{{Football box
+|date       = {{Start date|2019|5|16|df=y}}
+|time       = 16:45
+|team1      = {{beachsoccer-rt|SLV}}
+|score      = 8−1
+|team2      = {{beachsoccer|GLP}}
+|goals1     =
+*[[Frank Velásquez]] {{goal|0}}
+*Agustín Ruiz {{goal|1||33||57}}
+*Elmer Robles {{goal|2}}
+*Eliodoro Portillo {{goal|15}}
+*Darwin Ramírez {{goal|26}}
+*Heber Ramos {{goal|26}}
+|goals2     = Gael Geolier {{goal|34}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Gumercindo Batista ([[Panamanian Football Federation|Panama]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476825
+}}
+
+==Knockout stage==
+===Bracket===
+{{#invoke:RoundN|N8
+|3rdplace=yes|bold_winner=high|widescore=yes
+|RD1=[[#Quarter-finals|Quarter-finals]]
+|RD2=[[#Semi-finals|Semi-finals]]
+|RD3=[[#Final|Final]]
+|Consol=[[#Third place match|Third place match]]
+<!--Date-Place|Team 1|Score 1|Team 2|Score 2-->
+<!--Quarter-finals-->
+|17 May|{{beachsoccer|MEX}}|5|{{beachsoccer|TRI}}|4
+|17 May|{{beachsoccer|PAN}}|6|{{beachsoccer|GUA}}|4
+|17 May|{{beachsoccer|USA}}|5|{{beachsoccer|GLP}}|1
+|17 May|{{beachsoccer|SLV}}|8|{{beachsoccer|BAH}}|4
+<!--Semi-finals-->
+|18 May|{{beachsoccer|MEX}}|3|{{beachsoccer|PAN}}|0
+|18 May|{{beachsoccer|USA}}|3 (5)|{{beachsoccer|SLV}}|3 (4)
+<!--Final-->
+|19 May|{{beachsoccer|MEX}}|6|{{beachsoccer|USA}}|2
+<!--3rd Place-->
+|19 May|{{beachsoccer|PAN}}|3|{{beachsoccer|SLV}}|8
+}}
+
+===Quarter-finals===
+{{Football box
+|date       = {{Start date|2019|5|17|df=y}}
+|time       = 14:15
+|team1      = {{beachsoccer-rt|SLV}}
+|score      = 8−4
+|team2      = {{beachsoccer|BAH}}
+|goals1     =
+*Darwin Ramírez {{goal|2}}
+*Agustín Ruiz {{goal|7||32||35}}
+*[[Frank Velásquez]] {{goal|11}}
+*Elmer Robles {{goal|19}}
+*Rubén Batres {{goal|28||30}}
+|goals2     =
+*Lesly St Fleur {{goal|12}}
+*James Thompson {{goal|23}}
+*Dwayne Forbes {{goal|32}}
+*Kyle Williams {{goal|33}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Miguel López ([[National Football Federation of Guatemala|Guatemala]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476826
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|17|df=y}}
+|time       = 15:30
+|team1      = {{beachsoccer-rt|USA}}
+|score      = 5−1
+|team2      = {{beachsoccer|GLP}}
+|goals1     =
+*[[Nick Perera]] {{goal|5|pen.|23}}
+*Tanner Akol {{goal|20||35}}
+*David Mondragón {{goal|22}}
+|goals2     =
+*Sylrick Phirmis {{goal|1}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = David Cruz ([[Salvadoran Football Federation|El Salvador]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476827
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|17|df=y}}
+|time       = 16:45
+|team1      = {{beachsoccer-rt|PAN}}
+|score      = 6−4
+|team2      = {{beachsoccer|GUA}}
+|goals1     =
+*Luis Quintero {{goal|5||15}}
+*Eliecer García {{goal|10||33}}
+*Rafael García {{goal|16}}
+*Xavier García {{goal|21}}
+|goals2     =
+*Álex Morán {{goal|21|pen.}}
+*Leandro Bachez {{goal|23||32}}
+*Luis Zaldaña {{goal|32}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Warner Porras ([[Costa Rican Football Federation|Costa Rica]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476828
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|17|df=y}}
+|time       = 18:00
+|team1      = {{beachsoccer-rt|MEX}}
+|score      = 5−4
+|team2      = {{beachsoccer|TRI}}
+|goals1     =
+*Abdiel Villa {{goal|1||30}}
+*José Hernández {{goal|4}}
+*José Vizcarra {{goal|31||32}}
+|goals2     =
+*Shallun Bobb {{goal|12||24}}
+*Shane Hospedales {{goal|23}}
+*Kevon Woodley {{goal|35}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Juan Andrés Ángeles ([[Dominican Football Federation|Dominican Republic]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476829
+}}
+
+===Semi-finals===
+Winners qualify for [[2019 FIFA Beach Soccer World Cup]].
+
+{{Football box
+|date       = {{Start date|2019|5|18|df=y}}
+|time       = 16:45
+|team1      = {{beachsoccer-rt|USA}}
+|score      = 3–3
+|team2      = {{beachsoccer|SLV}}
+|goals1     =
+*[[Nick Perera]] {{goal|11}}
+*Tomas Canale {{goal|29}}
+*Adriano Dos Santos {{goal|33}}
+|goals2     =
+*Exon Perdomo {{goal|5||23||29}}
+|aet        = yes
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Juan Andrés Ángeles ([[Dominican Football Federation|Dominican Republic]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476830
+|penalties1 =
+*[[Nick Perera]] {{pengoal}}
+*Oscar Reyes {{pengoal}}
+*Christopher Toth {{pengoal}}
+*Tanner Akol {{pengoal}}
+*David Mondragón {{pengoal}}
+|penaltyscore = 5–4
+|penalties2 =
+*{{pengoal}} Agustín Ruiz
+*{{pengoal}} Exon Perdomo
+*{{pengoal}} Rubén Batres
+*{{pengoal}} Darwin Ramírez
+*{{penmiss}} Elmer Robles
+}}
+----
+{{Football box
+|date       = {{Start date|2019|5|18|df=y}}
+|time       = 18:00
+|team1      = {{beachsoccer-rt|MEX}}
+|score      = 3–0
+|team2      = {{beachsoccer|PAN}}
+|goals1     =
+*[[Ramón Maldonado]] {{goal|16}}
+*Diego Villaseñor {{goal|17}}
+*Alberto Kelly {{goal|30|o.g.}}
+|goals2     =
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Miguel López ([[National Football Federation of Guatemala|Guatemala]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476831
+}}
+
+===Third place match===
+{{Football box
+|date       = {{Start date|2019|5|19|df=y}}
+|time       = 14:30
+|team1      = {{beachsoccer-rt|PAN}}
+|score      = 3–8
+|team2      = {{beachsoccer|SLV}}
+|goals1     =
+*Rafael García {{goal|12}}
+*Exon Perdomo {{goal|21|o.g.}}
+*Eliecer García {{goal|23}}
+|goals2     =
+*Agustín Ruiz {{goal|2||21}}
+*[[Frank Velásquez]] {{goal|9||15||18}}
+*Exon Perdomo {{goal|15|pen.}}
+*Rubén Batres {{goal|19}}
+*Heber Ramos {{goal|19}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Alexander Vetia ([[Football Association of Cuba|Cuba]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476832
+}}
+
+===Final===
+{{Football box
+|date       = {{Start date|2019|5|19|df=y}}
+|time       = 15:45
+|team1      = {{beachsoccer-rt|MEX}}
+|score      = 6–2
+|team2      = {{beachsoccer|USA}}
+|goals1     =
+*[[Benjamín Mosco]] {{goal|28}}
+*José Hernández {{goal|29}}
+*[[Ramón Maldonado]] {{goal|30||32|pen.}}
+*Jair Alemán {{goal|31||34}}
+|goals2     = [[Nick Perera]] {{goal|11||33|pen.}}
+|stadium    = Puerto Vallarta Stadium, [[Puerto Vallarta]]
+|attendance =
+|referee    = Juan Andrés Ángeles ([[Dominican Football Federation|Dominican Republic]])
+|report     = https://www.concacaf.com/en/beach-soccer/game-detail/476833
+}}
+
+==Awards==
+The following awards were given at the conclusion of the tournament:<ref>{{cite web|url=https://www.concacaf.com/en/beach-soccer/article/tsg-announces-the-2019-cbsc-individual-awards|title=TSG announces the 2019 CBSC individual awards|publisher=CONCACAF.com|date=19 May 2019}}</ref>
+
+{| class="wikitable"
+|-
+!Golden Ball (Most valuable player)
+|-
+|align=center|{{flagicon|MEX}} [[Benjamín Mosco]]
+|-
+!Golden Boot (Top scorer)
+|-
+|align=center|{{flagicon|USA}} [[Nick Perera]] (13 goals)
+|-
+!Golden Glove (Best goalkeeper)
+|-
+|align=center|{{flagicon|MEX}} [[Diego Villaseñor]]
+|-
+!Best Young Player
+|-
+|align=center|{{flagicon|SLV}} [[Exon Perdomo]]
+|-
+!Fair Play Award
+|-
+|align=center|{{beachsoccer|PAN}}
+|}
+
+==Qualified teams for FIFA Beach Soccer World Cup==
+The following two teams from CONCACAF qualify for the [[2019 FIFA Beach Soccer World Cup]].<ref>{{cite web|url=https://www.fifa.com/beachsoccerworldcup/news/usa-mexico-secure-paraguay-2019-tickets|title=USA, Mexico secure Paraguay 2019 tickets|publisher=FIFA.com|date=19 May 2019}}</ref>
+
+{| class="wikitable sortable"
+|-
+! Team
+! Qualified on
+! data-sort-type="number"|Previous [[National team appearances in the FIFA Beach Soccer World Cup|appearances]] in [[FIFA Beach Soccer World Cup]]<sup>'''[[#1|1]]'''</sup><br /><small>only FIFA era (since 2005)</small>
+|-
+|{{beachsoccer|USA}} || {{dts|2019|5|18|addkey=1|format=dmy}} ||4 ([[2005 FIFA Beach Soccer World Cup|2005]], [[2006 FIFA Beach Soccer World Cup|2006]], [[2007 FIFA Beach Soccer World Cup|2007]], [[2013 FIFA Beach Soccer World Cup|2013]])
+|-
+|{{beachsoccer|MEX}}|| {{dts|2019|5|18|addkey=2|format=dmy}} ||5 ([[2007 FIFA Beach Soccer World Cup|2007]], [[2008 FIFA Beach Soccer World Cup|2008]], [[2011 FIFA Beach Soccer World Cup|2011]], [[2015 FIFA Beach Soccer World Cup|2015]], [[2017 FIFA Beach Soccer World Cup|2017]])
+|}
+:<div id="1"><sup>1</sup> '''Bold''' indicates champions for that year. ''Italic'' indicates hosts for that year.</div>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.concacaf.com/en/beach-soccer|name=CONCACAF Beach Soccer Championship}}, CONCACAF.com
+*[https://www.beachsoccer.com/events/2019-concacaf-beach-soccer-championship 2019 Concacaf Beach Soccer Championship Puerto Vallarta], at Beach Soccer Worldwide
+
+{{FIFA Beach Soccer World Cup Qualification}}
+
+{{DEFAULTSORT:Concacaf Beach Soccer Championship 2019}}
+[[Category:2018–19 in CONCACAF football|Beach Soccer Championship]]
+[[Category:2018–19 in Mexican football|Beach Soccer Championship]]
+[[Category:2019 FIFA Beach Soccer World Cup qualification|Concacaf]]
+[[Category:International association football competitions hosted by Mexico]]
+[[Category:FIFA Beach Soccer World Cup qualification (CONCACAF)|2019]]
+[[Category:2019 in beach soccer]]
+[[Category:May 2019 sports events in Mexico]]

@@ -1,0 +1,50 @@
+{{Distinguish|Halswell House}}
+{{Infobox Historic building
+|image=Halswaymanor.jpg
+|caption=
+|name=Halsway Manor
+|location_town=[[Halsway]]
+|location_country=[[England]]
+|map_type=Somerset
+|coordinates = {{coord|51.1326|-3.2454|display=inline,title}}
+|architect=
+|client=
+|engineer=
+|construction_start_date=
+|completion_date=15th century
+|date_demolished=
+|cost=
+|structural_system=
+|style=
+|size=
+|website=http://www.halswaymanor.org.uk/
+}}
+'''Halsway Manor''' (also known as '''Halsway Court''') is a manor house in [[Halsway]], [[Somerset]]. It is owned by the Halsway Manor Society who operate the manor as a national centre for the folk arts. It is the only residential [[Folk Music of England|folk]] centre in the UK. It is situated off the A358 road between [[Taunton]] and [[Williton]] on the edge of the [[Quantock Hills]].
+
+==Buildings==
+
+Halsway manor was held in 1086 by Roger de Courcelles with Alric, the owner in 1066, as his tenant. The manor passed through many owners down to 1965 and these are listed in the [[Somerset Victoria County History|Victoria County History for Somerset]], Volume 5.
+
+The eastern end of the building dates from the fifteenth century; the western end is a nineteenth-century addition.<ref>{{cite web|url=http://www.halswaymanor.co.uk/manor/manor.html |title=History of the Manor |access-date=2007-11-17 |work=Halsway Manor |archive-url=https://web.archive.org/web/20071106103754/http://halswaymanor.co.uk/manor/manor.html |archive-date=2007-11-06 |url-status=dead |df= }}</ref> The manor house, which is mentioned in the [[Domesday Book]], is claimed to have been built by [[Cardinal Beaufort]] as a hunting lodge.<ref name="Exmoor">{{cite book
+|url=https://archive.org/details/anexplorationex00pagegoog
+|title=An Exploration of Exmoor and the Hill Country of West Somerset: With Notes
+|author=John Lloyd Warden
+|year=1895
+|publisher=Seeley & Co., Ltd.}}</ref> At one point it was occupied by insurrectionist [[Jack Cade]].<ref name="Exmoor"/> Thereafter it was a family home until the mid-1960s,<ref name="About">{{cite web |url=http://www.picturesofengland.com/England/Somerset/Crowcombe/Halsway_Manor |title=About Halsway Manor |accessdate=2007-11-17 |format= |work=Pictures of England }}</ref> when it became the folk music centre. It has been designated by [[English Heritage]] as a grade II* [[listed building]].<ref>{{cite web | title=Halsway Manor  | work=historicengland.org.uk | url=https://historicengland.org.uk/listing/the-list/list-entry/1057472 | accessdate=2007-11-17}}</ref> There is a ballroom, library and lounge bar with an impressive entrance hall. The latter has oak panelling and staircase, with an open fireplace and barrel ceiling. The mews is now used for accommodation.
+
+In 1859, [[John Henry Parker]] wrote in his ''Account of Domestic Architecture'':{{quote|The front is nearly perfect, with a parapet battlemented and enriched with quatre-foil panels, two projections having also battlements and pinnacles, a bay-window, and a good small chimney, some curious gargoyles, and a good bell-cot. The front is long and low, and has three doorways; the hall forms only a small part of the house.<ref name="DomArch">{{cite book|url=https://books.google.com/books?id=RisDAAAAQAAJ&pg=PA341|title=Some account of domestic architecture in England, from Richard ii. to Henry vii.|author=John Henry Parker|year=1859|publisher=Oxford}}</ref>}}
+
+==Folk Centre==
+Halsway Manor Society Ltd was registered as a charity on 8 March 1966 to promote participation in the folk arts&nbsp;— traditional folk music, dance, song, storytelling, folklore and related arts and crafts&nbsp;— through a year-round programme of residential courses, classes, events and activities for people of all ages and abilities.<ref>{{cite web | url=http://opencharities.org/charities/247230 | title=Halsway Manor Society Ltd  | publisher=Open Charities | accessdate=23 November 2012}}</ref><ref>{{cite web | url=http://www.efdss.org/front/2004%20-%20Geoff%20Rye/2004-geoff-rye-citation/93/27 | title=2004 - Geoff Rye Citation | publisher=English Folk Dance and Song Society | accessdate=23 November 2012 | archive-url=https://web.archive.org/web/20121212132901/http://www.efdss.org/front/2004%20-%20Geoff%20Rye/2004-geoff-rye-citation/93/27 | archive-date=12 December 2012 | url-status=dead }}</ref> Participants come from all over the country and abroad. Local people are encouraged to get involved through regular dance and music clubs, concerts, an annual festival, fete and craft fairs.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.halswaymanor.org.uk Halsway Manor website]
+
+[[Category:Grade II* listed buildings in West Somerset]]
+[[Category:English folk music]]
+[[Category:Music in Somerset]]
+[[Category:Country houses in Somerset]]
+[[Category:Grade II* listed houses in Somerset]]

@@ -1,0 +1,96 @@
+{{other uses|Rawal}}
+{{Use dmy dates|date=April 2018}}
+{{Use Indian English|date=April 2018}}
+{{Infobox settlement
+| name                    = Rawal
+| native_name             = 
+| native_name_lang        = 
+| settlement_type         = Village
+| pushpin_map             = India Punjab#India
+| pushpin_map_caption     = Location in Punjab, India
+| coordinates             = {{coord|31.323788|N|75.344133|E|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|India}}
+| subdivision_type1       = [[States and territories of India|State]]
+| subdivision_name1       = [[Punjab, India|Punjab]]
+| subdivision_type2       = [[List of districts of India|District]]
+| subdivision_name2       = [[Kapurthala district|Kapurthala]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref>tags -->
+| elevation_m             = 
+| population_as_of        = 2011        
+| population_footnotes    =
+| population_total        = 635<ref name=census>{{cite web|url=https://www.census2011.co.in/data/village/29287-rawal-punjab.html|title=Rawal Population per Census 2011|work=census2011.co.in}}</ref>	 
+| population_density_km2  = auto 
+| population_note         =  [[Human sex ratio|Sex ratio]] 337/298[[male|♂]]/[[female|♀]]     
+| population_demonym      =
+| demographics_type1      = Languages
+| demographics1_title1    = Official
+| demographics1_info1     = [[Punjabi language|Punjabi]]
+| demographics1_title2    = Other spoken
+| demographics1_info2     = [[Hindi language|Hindi]]
+| timezone1               = [[Indian Standard Time|IST]]
+| utc_offset1             = +5:30
+| postal_code_type        = [[Postal Index Number|PIN]]
+| postal_code             = 144620
+| area_code_type          = [[Telephone code]]
+| area_code               = 01822 
+| registration_plate      = [[List of RTO districts in India#PB.E2.80.94Punjab|PB]]-09 
+| iso_code                = [[ISO 3166-2:IN|IN-PB]]
+| blank1_name_sec2        = 
+| blank1_info_sec2        = 
+| government_type         = [[Panchayati raj (India)]]
+| governing_body          = [[Gram panchayat]]
+| website                 = {{URL|kapurthala.gov.in}}
+| footnotes               =
+}}
+'''Rawal'''  is a village in [[Kapurthala district]] of [[Punjab, India|Punjab]] [[States and territories of India|State]], India. It is located {{convert|9|km}} from [[Kapurthala]], which is both district and sub-district headquarters of Rawal. The village is [[Administration (government)|administrated]] by a [[Sarpanch]] who is an [[elected representative]] of village as per the [[constitution of India]] and [[Panchayati raj (India)]].
+
+== Demography ==
+According to the report published by [[Census India]] in 2011, Rawal has 142 houses with a total population of 635 persons of which 337 are male and 298 female. The [[Literacy in India|literacy]] rate of Rawal is 90.43%, higher than the state average of 75.84%.  The population of children in the age group 0–6 years is 81 which is 12.76% of the total population.  Child sex ratio is approximately 653, lower than the state average of 846.<ref>{{cite web | url=https://www.censusindia.gov.in/pca/SearchDetails.aspx?Id=23432| title=Rawal| work=census2011.co.in | accessdate=25 July 2016}}</ref>
+
+== Population data ==
+{|class="wikitable sortable"
+! Particulars !! Total !! Male!!Female
+|-  
+| Total No. of Houses		||142 	||- 	||-
+|- 
+| Population		||635 	||337 	||298
+|- 
+| Child (0-6)		||81 	||49 	||32
+|- 
+| Schedule Caste		||51 	||23 	||28
+|- 
+| Schedule Tribe		||0 	||0 	||0
+|- 
+| Literacy		||90.43 % 	||90.28 % 	||90.60 %
+|- 
+| Total Workers		||220 	||177 	||43
+|- 
+| Main Worker		||216 	||0 	||0
+|- 
+| Marginal Worker		||4 	||3 	||1
+|-
+|}
+
+==References==
+{{Reflist}}
+
+<!-- Please Note: Do not add any promotional
+ information on this page. Any promotional/spam
+ Links or any other information added will be
+ removed immediately -->
+
+==External links==
+* [https://www.censusindia.gov.in/2011census/Listofvillagesandtowns.aspx  Villages in Kapurthala]
+* [https://www.punjabdata.com/Villages/Villages-In-Kapurthala-Tehsil-In-Kapurthala-District.html Kapurthala Villages List]
+
+{{Kapurthala district |state=collapsed}}
+
+[[Category:Villages in Kapurthala district]]
+
+
+{{Kapurthala-geo-stub}}

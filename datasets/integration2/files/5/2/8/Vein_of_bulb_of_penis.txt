@@ -1,0 +1,25 @@
+{{Infobox vein
+| Name        = Vein of bulb of penis
+| Latin       = vena bulbi penis
+| Image       =
+| Caption     =
+| Image2      =
+| Caption2    =
+| DrainsFrom  = [[bulb of penis]]
+| Source      =
+| DrainsTo    = [[internal pudendal vein]]
+| Artery      = [[artery of bulb of penis]]
+}}
+The '''vein of bulb of penis''' is a tributary of the [[internal pudendal vein]].
+
+==External links==
+* https://web.archive.org/web/20071024000415/http://anatomy.med.umich.edu/anatomytables/veins_pelvis_perineum.html
+
+{{Veins of the torso}}
+{{Authority control}}
+
+[[Category:Veins of the torso]]
+[[Category:Human penis anatomy]]
+
+
+{{circulatory-stub}}

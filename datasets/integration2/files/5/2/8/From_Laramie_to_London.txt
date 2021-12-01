@@ -1,0 +1,60 @@
+{{Use mdy dates|date=December 2019}}
+{{short description|1917 silent short film}}
+{{Infobox film
+| name           = From Laramie to London
+| image          = 
+| caption        = 
+| director       = 
+| producer       = [[Hal Roach]]
+| writer         = [[H. M. Walker]]
+| narrator       = 
+| starring       = [[Harold Lloyd]]
+| music          = 
+| cinematography = 
+| editing        = 
+| distributor    = 
+| released       = {{film date|1917|10|21}}
+| runtime        = 
+| country        = United States 
+| language       = [[Silent film|Silent]]<br>English intertitles
+| budget         = 
+}}
+
+'''''From Laramie to London''''' is a 1917 [[short film|short]] [[comedy film]] featuring [[Harold Lloyd]].<ref name="silentera">{{cite web |url=http://www.silentera.com/PSFL/data/L/LonesomeLukefromLondon1917.html |title=Progressive Silent Film List: From Laramie to London |accessdate=April 3, 2010|work=Silent Era}}</ref>
+
+==Cast==
+* [[Harold Lloyd]] - Lonesome Luke
+* [[Snub Pollard]] 
+* [[Bebe Daniels]] 
+* W.L. Adams
+* Billy Fay
+* [[Bud Jamison]]
+* Fred Jefferson
+* [[Margaret Joslin]]
+* [[Marie Mosquini]]
+* [[Fred C. Newmeyer]]
+* [[Gilbert Pratt]]
+* [[Charles Stevenson (actor)|Charles Stevenson]]
+* [[Dorothea Wolbert]]
+
+==See also==
+* [[Harold Lloyd filmography]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|id=0008203|title=From Laramie to London}}
+
+[[Category:1917 films]]
+[[Category:American films]]
+[[Category:American comedy films]]
+[[Category:1917 short films]]
+[[Category:American silent short films]]
+[[Category:American black-and-white films]]
+[[Category:1917 comedy films]]
+[[Category:Lonesome Luke films]]
+[[Category:Comedy short films]]
+
+
+{{1910s-short-comedy-film-stub}}

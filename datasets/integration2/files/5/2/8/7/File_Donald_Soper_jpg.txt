@@ -1,0 +1,16 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Donald Oliver Soper, Baron Soper. Bromide print by Walter Bird. 14 October 1965.
+|Source = '''Original publication''': Print; 14 October 1965<br/>
+'''Immediate source''': [https://www.npg.org.uk/collections/search/portrait/mw235694/Donald-Oliver-Soper-Baron-Soper?LinkID=mp05767&role=sit&rNo=3 Portrait Gallery, London]
+|Author = Walter Bird
+|Article = Donald Soper, Baron Soper
+|Purpose = for visual identification of the person in question, at the top of his/her biographical article
+|Replaceability = The subject is deceased, so a free photograph is not likely to be obtainable.
+|Minimality = Low resolution image that will only be used in the article in question.
+|Commercial = It will be used only as a means of identification, and not for commercial purposes.
+|Other information = The subject of the photograph has been deceased since: 1998
+}}
+
+==Licensing==
+{{Non-free biog-pic|Donald Soper, Baron Soper}}

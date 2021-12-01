@@ -1,0 +1,32 @@
+{{Infobox film
+| name        = Totally Bill Hicks
+| image       = Totally_Bill_Hicks.jpg
+| caption     = DVD cover
+| director    = [[Kevin Booth]]
+| producer    = Sacred Cow Productions
+| starring    = [[Bill Hicks]]
+| distributor =
+| released    = {{Film date|1994}}
+| runtime     =
+| country     = United States
+| language    = English
+}}
+
+'''''Totally Bill Hicks''''' is a [[video]], originally released in 1994, documenting the life and comedy of [[Bill Hicks]]. It consists of two parts: '''''Revelations''''', a recording of his last live performance in the [[United Kingdom]] made at the [[Dominion Theatre]],<ref>{{cite news |first=William |last=Cook |author-link= |title=Leave them laughing |url=https://www.theguardian.com/stage/2003/jan/07/comedy |work= |publisher=[[The Guardian]] |date=2003-07-01 |accessdate=2008-09-02 }}</ref> and '''''It's Just A Ride''''', a documentary about Hicks' life which features interviews with friends, admirers, and family.
+
+In 2002 it became the first of Hicks' videos to be released on DVD,<ref>{{cite web |url=http://www.chortle.co.uk/news/2002/09/14/2079/bill_discs |title=Bill Discs |accessdate=2008-09-02 |last= |first= |date=2002-09-14 |work= |publisher=chortle.co.uk}}</ref> prompting one critic to comment on how topical the comedian's material had remained. His joke about the [[George H. W. Bush|Bush administration]] learning about [[Iraq and weapons of mass destruction|Iraq's weapons of mass destruction]] "by looking at the receipt" was made in the context of the [[First Gulf War|Gulf War]], but was equally relevant in the run up to the [[2003 invasion of Iraq]].<ref>{{cite news |first=Rob  |last=Mackie |author-link= |title=Totally Bill Hicks |url=https://www.theguardian.com/culture/2002/sep/20/artsfeatures.dvdreviews1 |work= |publisher=[[The Guardian]] |date=2002-09-20 |accessdate=2008-09-02 }}</ref>
+
+The contents of this release was later included in the 2004 DVD Compilation ''[[Bill Hicks Live: Satirist, Social Critic, Stand Up Comedian]]'' along with ''[[One Night Stand (Bill Hicks)|One Night Stand]]'' and ''[[Relentless (Bill Hicks album)|Relentless]]'', and as part of the 2015 ''[[Bill Hicks: The Complete Collection]]'' Box Set.
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{official website|http://www.billhicks.com/|Bill Hicks}}
+
+{{Bill Hicks}}
+
+[[Category:Documentary films about entertainers]]
+
+
+{{bio-documentary-film-stub}}

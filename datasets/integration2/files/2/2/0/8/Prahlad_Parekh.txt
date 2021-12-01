@@ -1,0 +1,58 @@
+{{Use dmy dates|date=February 2020}}
+{{Use Indian English|date=February 2020}}
+{{Infobox writer
+| name             = Prahlad Parekh
+| honorific_suffix =
+| image            =
+| caption          =
+| pseudonym        =
+| birth_name       = Prahlad Jethalal Parekh
+| birth_date       = {{Birth date|df=y|1911|10|22}}
+| birth_place      = [[Bhavnagar]], [[British India]]
+| death_date       = {{Death date and age|df=y|1962|1|2|1911|10|22}}
+| death_place      =
+| occupation       = Poet, translator
+| language         = [[Gujarati language|Gujarati]]
+| nationality      = [[India]]n
+| education        =
+| alma_mater       =[[Gujarat Vidyapith]], [[Santiniketan]]
+| subject          =
+| movement         =
+| notableworks     = ''Bari Bahar'' (1940)
+| spouse           =
+| children         =
+}}
+
+'''Prahlad Jethalal Parekh''' (22 October 1911 – 2 January 1962) was a [[Gujarati language|Gujarati]] poet and translator from India whose works contributed to the rise of a modern poetry in the [[Gujarati literature]].
+
+==Biography==
+Parekh was born on 22 October 1911<ref>{{cite book|editor1-last=Kothari|editor1-first=Jayant|editor1-link=Jayant Kothari|editor2-last=Anjaria|editor2-first=Sudha|title=રેષાએ રેષાએ ભરી જ્ઞાનઝંખા|script-title=gu:Reshāe Reshāe Bharī Jñānajhankhā|trans-title=Correspondence of Bhriguray Ajnjaria, Sketches of His Character and His Creative Writings|year=1997|edition=1st|language=gu|publisher=[[Gujarat Sahitya Akademi]]|publication-place=Gandhinagar|pages=112–113|isbn=81-7227-030-5|oclc=499764385}}</ref> in [[Bhavnagar]], [[Gujarat]] to Jethalal Parekh. He completed his primary and secondary education at Dakshinamurti, Bhavnagar. He later dropped out of high school in 1930 to join the [[Indian independence movement|independence movement]] against the British and was subsequently jailed. After completing his jail sentence, he rejoined Dakshinamurti and further studied at [[Gujarat Vidyapith]] and [[Santiniketan]], where he was influenced by [[Rabindranath Tagore]]. In 1937, he became a teacher at a Modern School in [[Vile Parle]] and in the following year, he worked for a Gharshala (homeschool) in Bhavnagar. Since 1945, he taught at a high school in [[Mumbai]] until his death on 2 January 1962.<ref name="GSP">{{cite web | title=સવિશેષ પરિચય: પ્રહલાદ પારેખ, ગુજરાતી સાહિત્ય પરિષદ | website=Gujarati Sahitya Parishad | url=http://www.gujaratisahityaparishad.com/prakashan/sarjako/savishesh/Savishesh-Prahlad-Parekh.html | language=gu | access-date=2018-05-28}}</ref>
+
+==Works==
+Parekh was a poet of the [[Gujarati literature#History#Arvaachin Sahitya (Modern literature, 1850 AD – present)|post-Gandhian period]]. Unlike other poets whose poetry was influenced by [[Gandhism|Gandhian]] thoughts, Parekh remained unaffected by this trend and almost exclusively wrote [[Lyric poetry|lyrical poetry]].<ref name="JhaveriAkademi1978">{{cite book|author=Mansukhlal Maganlal Jhaveri|authorlink2=Mansukhlal Jhaveri|title=History of Gujarati Literature|url=https://books.google.com/books?id=DA0RAAAAMAAJ|year=1978|publisher=Sahitya Akademi|location=New Delhi|pages=216–217}}</ref> Parekh was influenced by Rabindranath Tagore's musical metrics, his mysticism and lyricism as well as the old tradition of Gujarati [[bhajan]]s.<ref name="Lal1991">{{cite book|author=Mohan Lal|title=Encyclopaedia of Indian Literature: Navaratri To Sarvasena|url=https://books.google.com/books?id=sOsbAAAAIAAJ|year=2007|publisher=Sahitya Akademi|location=New Delh|isbn=((81-260-1003-1))|page=3093}}</ref> Though a modest collection, his works are considered to have significantly contributed to the rise of the modern poetry in Gujarati literature.<ref>{{cite journal |last=Broker |first=Gulabdas |author-link=Gulabdas Broker |title=Gujarati Literature|journal=[[Indian Literature (journal)|Indian Literature]] |volume=5 |issue=2 |pages=72 |date=1962
+|jstor=23329454}}{{Subscription required |via=[[JSTOR]]}}</ref>
+
+''Gulab ane Sivali'' (1938), a prose tale, and ''Ruperi Sarovarne Kinare'' (1962), a translation of [[Laura Ingalls Wilder]]'s ''[[By the Shores of Silver Lake]],'' count among his notable works, as do his two collections of poetry, ''Bari Bahar'' (Out from the Window; 1940) and ''Sarwani'' (The Spring; 1948).<ref name="GSP"/><ref name="Lal1991"/>  Parekh had also contributed to [[Children's literature in Gujarati language|children's literature]].<ref name="JAMUNA2017">{{cite book|author=K. A. JAMUNA|title=Children's Literature in Indian Languages|url=https://books.google.com/books?id=KS0nDwAAQBAJ&pg=PT57|date=1 June 2017|publisher=Publications Division Ministry of Information & Broadcasting|isbn=978-81-230-2456-1|page=57}}</ref> ''Rajkumarni Shodhma'' and ''Karunano Swayamvar'' are his children's long stories and ''Tanmaniya'' is his unpublished collection of children's poetry.<ref name="GSP"/> He translated one<!---[[Letter from an Unknown Woman]], probably-->{{which|date=May 2018}} of [[Stefan Zweig]]'s novels into Gujarati as ''Ajaninu Antar''.<ref name="GSP"/> ''Shistni Samasya'' (1962) is his introductory book on [[discipline]].<ref name="GSP"/>
+
+==Criticism==
+
+The publication of ''Bari Bahar'' made a great impact and is considered the turning point of the Gujarati poetry.<ref name="TagoreDept1988">{{cite book|author=Rabindranath Tagore|title=Rabindranath Tagore: a 125th birth anniversary volume|url=https://books.google.com/books?id=WiQhAAAAMAAJ|year=1988|publisher=Govt. of West Bengal, Dept. of Information & Cultural Affairs|page=50}}</ref><ref name="Datta1987">{{cite book|author=Amaresh Datta|title=Encyclopaedia of Indian Literature: A-Devo|url=https://books.google.com/books?id=ObFCT5_taSgC&pg=PA388|year=1987|publisher=Sahitya Akademi|location=New Delhi|isbn=978-81-260-1803-1|page=388}}</ref> Gujarati writer and critic, [[Mansukhlal Jhaveri]], noted in ''History of Gujarati literature'' that there is an undercurrent of sadness in  Parekh's poetry.<ref name="JhaveriAkademi1978"/>
+
+==See also==
+* [[List of Gujarati-language writers]]
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Parekh, Prahlad}}
+[[Category:1912 births]]
+[[Category:1962 deaths]]
+[[Category:People from Bhavnagar]]
+[[Category:Gujarati-language poets]]
+[[Category:20th-century Indian poets]]
+[[Category:Poets from Gujarat]]
+[[Category:Lyric poets]]
+[[Category:20th-century Indian translators]]
+[[Category:Indian children's writers]]

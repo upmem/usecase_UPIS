@@ -1,0 +1,139 @@
+{{Use dmy dates|date=August 2018}}
+{{Use Indian English|date=August 2018}}
+{{multiple issues|
+{{advert|date=August 2016}}
+{{COI|date=August 2016}}
+{{BLP sources|date=January 2017}}
+}}
+{{Infobox person
+|name        = Amitava Chattopadhyay
+|image       = Amitava Chattopadhyay, Talking about Brand Management at Emerging Market Multinationals.jpg
+|image_size  = 220
+|caption     = Sharing Branding and Innovation learnings with executives
+|birth_date  = {{Birth date and age|df=yes|1956|7|5}}
+|birth_place = [[Calcutta (Kolkata), India]]
+|death_date  =
+|death_place =
+|other_names =
+|known_for   = New Emerging Market Multinationals (Book)
+|occupation  = Professor, Consultant, Author
+|nationality = [[India]]
+|website     = {{URL|http://amitavac.com}}
+}}
+'''Amitava Chattopadhyay''' (born 5 July 1956) is The [[GlaxoSmithKline]] Chaired Professor in Corporate Innovation — Professor of Marketing at [[INSEAD]], Fellow of the [[Institute on Asian Consumer Insights]],<ref>
+{{cite web
+ |title=Profile - Amitava, Asian Consumer Insights Institute 
+ |url=http://www.aci-institute.com/index.php/web/academies_insights/amitava-chattopadhyay/2/82
+ |archive-url=https://web.archive.org/web/20120924094209/http://www.aci-institute.com/index.php/web/academies_insights/amitava-chattopadhyay/2/82
+ |url-status=dead
+ |archive-date=2012-09-24
+ |publisher=ACI 
+}}</ref> and Senior Fellow at the ''Ernst & Young Institute for Emerging Market Studies''.
+
+Professor Chattopadhyay is an authority on [[Brand management]] and the author of the award-winning book, [[#Book|The New Emerging Market Multinationals: Four Strategies for Disrupting Markets and Building Brands]].
+
+Over the past three decades, he has published more than 60 articles, with the majority appearing in leading international journals such as the ''Journal of Marketing Research'', ''[[Journal of Consumer Research]]'', ''[[Journal of Marketing]]'', ''Journal of Consumer Psychology'', ''[[Marketing Science (journal)]]'',  ''[[Management Science (journal)]]'', ''International Journal of Research in Marketing'', and ''Long Range Planning''.
+
+Prof. Chattopadhyay is on the editorial review boards of the ''Journal of Marketing'', ''Journal of Consumer Psychology'', ''International Journal of Research in Marketing'', ''Journal of the Academy of Marketing Science'', and ''Long Range Planning''. He has been on the Advisory Board of the [[Association for Consumer Research]] as well as the Association's  Board of Directors. For his research, he has been the recipient of several awards, including the Robert Ferber Award.
+
+Aside from degree programs, Chattopadhyay has taught in executive programs in Europe, North America, Australia, Asia, and Africa.  He is on the advisory boards of several companies and a consultant to multinational firms.
+
+==Early life & education==
+
+Amitava has been a nomad all his life. He studied in five different schools in India and UK, from where he graduated high school from St. Gregory's Grammar School in Manchester, UK.  Along the way he studied at [[Ballygunge Government High School (Kolkata)]], [[Don Bosco School, Park Circus, (Kolkata)]], [[Modern School (New Delhi)]], and in Swansea, UK. 
+ 
+He later studied Chemistry at [[Jadavpur University]], a program from which he graduated at the top of his class in 1976, and went on to do his MBA (PGDP) from the [[Indian Institute of Management Ahmedabad]], before heading off for his PhD in Marketing from the [[University of Florida]] in Gainesville, USA.
+
+==Academic career==
+
+Amitava started his academic career at [[McGill University]] in Montreal, Canada.{{fact|date=July 2020}} After eight years, the climate really got to him and he moved to the [[University of British Columbia]] in Vancouver, Canada.{{citation needed|date=August 2018}} Five years on, INSEAD came calling and Amitava moved to INSEAD in 1999.  Amitava started out in [[Fontainebleau]] but moved to the Singapore campus in 2005.{{citation needed|date=August 2018}}
+
+==Key areas of research & teaching==
+
+Amitava has been interested throughout his career in consumers—what they think, how they feel, and how they respond to the various initiatives of businesses as they try to position themselves in the minds of consumers.
+
+Amitava's research has looked at how brands try to position themselves in consumers’ minds through [[advertising]], through word-of-mouth, through online platforms, through innovation in their product offerings, and through the use of various perceptual elements such as colors, visual aesthetics, music, and the like.<ref>
+{{cite web
+| last        =    Chattopadhyay
+| first       =    Amitava
+| title       =    Amitava Chattopadhyay - Academic Papers & Refereed Conference Presentations
+| url         =    http://amitavac.com/papers/
+}}</ref> His work on the one hand has investigated how firm initiatives influence consumers’ thoughts and feelings, and how these in turn influence their preferences and purchase decisions.  On the other, his research has looked at how businesses can get better at developing the initiatives they target at customers through a variety of interventions in terms of the processes they follow and the tools they apply in generating consumer directed initiatives.
+ 
+Most recently, Amitava has been struck by the rise of brand businesses from the emerging markets.  International business theory has maintained that emerging market firms make and sell low-cost inexpensive products or supply products and services to branded goods players in the developed markets, who then sell these under their own brand to end consumers around the world.  A good example of this model is [[FoxCom]] which makes many of the products that are sold under the Apple brand by Apple Inc.  However, the new millennium has seen the emergence of branded goods players from the emerging markets who are successfully building global branded businesses. Consider Taiwan's [[HTC]] or China's [[Haier]] and [[Lenovo]], or India's [[Tata Motors]] (think [[Jaguar Cars]] and [[Land Rover]]) or [[Infosys]], or Turkey's [[TEMSA]] or [[VitrA (sanitaryware)|Vitra]], or Brazil's [[Natura]] and [[WEG Industries]], or Mexico's [[Grupo Modelo]] (think Corona).
+
+Many, if not most of these names have become household names globally in the short course of a decade. These are but a small handful of the players from among a much larger group of companies that are today pouring out of the emerging markets to build global branded businesses, competing and winning against the entrenched global players from the developed world. 
+ 
+<blockquote>''The question that intrigued me is how are these new emerging market competitors, businesses that are relatively speaking small and under-resourced, managing this feat?  A feat which they were not supposed to be able to achieve!  This is the focus of our book The New Emerging Market Multinationals: Four Strategies for Disrupting Markets and Building Brands.  The book was nominated by Strategy + Business as the Best Business Book on strategy for 2012.  I continue to be interested in this topic and am developing a series of case studies on Chinese companies as they appeared to be quite distinct when we were doing the research for The New Emerging Market Multinationals.''<ref>
+{{cite book
+| last                  = Chattopadhyay
+| first                 = Amitava
+| title                 = The New Emerging Market Multinationals: Four Strategies for Disrupting Markets and Building Brands
+| year                  = 2012
+| publisher             = McGraw-Hill
+| location              = New York
+| isbn                  = 9780071782890
+| pages                 = 320
+}}
+</ref></blockquote>
+
+==Book==
+[[File:Emerging Market Multinationals (EMNC).png|thumb|right]]
+In 2012, Amitava published his first book with McGraw-Hill, titled [https://www.amazon.com/The-New-Emerging-Market-Multinationals/dp/0071782893/ The New Emerging Market Multinationals: Four Strategies for Disrupting Markets and Building Brands]. The book is co-authored with Prof. Rajeev Batra (S.S. Kresge Professor of Marketing at the [[Ross School of Business]] at the [[University of Michigan]]), and Prof. Aysegul Ozsomer ([[Koç University]], Istanbul, Turkey).<ref>
+{{cite web
+| title       =    The New Emerging Market Multinationals (Official Book Site)
+| url         =    http://www.emergingmarketmultinationals.com/
+| publisher   =    Amitava Chattopadhyay, Rajeev Batra, Aysegul Ozsomer
+}}</ref>
+
+"The New Emerging Market Multinationals" is based on an in-depth study of 39 emerging market multinationals (EMNCs) that revealed innovative compete-from-below strategies and tactics fueling the meteoric rise of firms from countries such as India, China, Thailand, Turkey and Brazil.<ref>
+{{cite web
+| title       =    BBC Interview
+| url         =    http://www.bbc.co.uk/programmes/p00xvb6y
+}}</ref>
+
+The book was rated a top Strategy book of 2012 by [[Strategy+Business]]:
+
+<blockquote>''The New Emerging Market Multinationals is an important addition to the strategy bookshelf because it helps us understand the logic behind the rise of companies from emerging markets, including many new powerhouse firms in electronics, vehicles, services, healthcare, and other industries. The book serves a broader purpose as well, and reminds us of eternal strategic questions, such as how to identify, develop, and sustain a competitive advantage in crowded and unforgiving fields.''<ref>
+{{cite web
+| title       =    Best Business Books 2012: Strategy
+| url         =    http://www.strategy-business.com/article/00148b?gko=cd5e5
+| publisher   =    Strategy+Business (Booz Allen)
+}}</ref></blockquote>
+
+==Boards & advisory==
+* Associate Editor, ''[http://www.sciencedirect.com/science/article/pii/S105774081300065X Journal of Consumer Psychology]'' 
+* Area Editor, ''[http://www.journals.elsevier.com/international-journal-of-research-in-marketing/editorial-board/ International Journal of Research in Marketing]''
+* Editorial Review Board, ''[http://www.ejcr.org/ERB.php Journal of Consumer Research]''
+* Editorial Review Board, ''[http://ees.elsevier.com/lrp/ Long Range Planning]''
+* Board of Directors, ''[http://www.acrwebsite.org/web/governance/acr-industry-director.aspx?id=5768 Association for Consumer Research (ACR)]''
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* ''Times of India'': [http://timesofindia.indiatimes.com/business/india-business/Why-Indian-MNCs-find-it-difficult-to-gain-developed-worlds-approval/articleshow/25543194.cms "Why Indian MNCs find it difficult to gain developed worlds approval"], November 2013
+* Channel News Asia: [https://web.archive.org/web/20140907184416/http://www2.channelnewsasia.com/perspectives/video/perspectives-29-september-2013-brand-building-in-china/?pageid=268&showid=1423 "Brand Building in China"], October 2013
+* ''Forbes'': [https://www.forbes.com/sites/insead/2013/07/24/is-feminine-perfection-still-good-for-sales/ "Does The Feminine Beauty Ideal Still Provide A Sales Bump?"], August 2013
+* ''South China Morning Post'': [http://www.scmp.com/business/companies/article/1208082/local-knowledge-comes-home-nest "Local knowledge comes home to nest"], April 2013
+* ''Business World'': [https://web.archive.org/web/20150610204421/http://www.businessworld.in/news/books/got-your-lovemark/584538/page-1.html "Got Your Lovemark?"], October 2012
+* ''Le Monde'' (French): ''[http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=1207633&xtmc=amitava&xtcr=1 The next McDonalds is Chinese?]'', September 2012
+* The Economist: ''[http://www.economist.com/node/21559894/ Emerging-market companies are trying to build global brands]'', August 2012
+
+==External links==
+{{Wikiquote}}
+*[http://amitavac.com/ Amitava Chattopadhyay] - Official Site
+*[http://www.insead.edu/facultyresearch/faculty/profiles/achattopadhyay/ Amitava Chattopadhyay] - INSEAD Faculty Page
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chattopadhyay, Amitava}}
+[[Category:INSEAD faculty]]
+[[Category:Indian marketing people]]
+[[Category:Business writers]]
+[[Category:University of Florida alumni]]
+[[Category:Indian Institute of Management Ahmedabad alumni]]
+[[Category:Jadavpur University alumni]]
+[[Category:McGill University faculty]]
+[[Category:Living people]]
+[[Category:1956 births]]

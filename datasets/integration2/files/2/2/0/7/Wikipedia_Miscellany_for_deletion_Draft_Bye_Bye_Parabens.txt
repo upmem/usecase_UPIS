@@ -1,0 +1,19 @@
+
+{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Miscellany for deletion|{{mfd top collapse|1='''[[Wikipedia:Miscellany for deletion/Draft:Bye Bye Parabens]]'''}}|}}<div class="boilerplate mfd vfd xfd-closed" style="background-color: #E3D2FB; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+__NOINDEX__
+:''The following discussion is an archived debate of the proposed deletion of the miscellaneous page below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the page's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--
+Note:  If you are seeing this page as a result of an attempt to nominate a miscellany page for deletion, you must manually edit the MfD nomination links to create a new discussion page using the name format of [[Wikipedia:Miscellany for deletion/NAMESPACE:PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result of the discussion was: '''delete''' .  &spades;[[User:Premeditated Chaos|PMC]]&spades; [[User_talk:Premeditated Chaos|(talk)]] 18:19, 4 July 2017 (UTC)
+====[[:Draft:Bye Bye Parabens]]====
+:{{pagelinks|Draft:Bye Bye Parabens}}
+Non-notable company, spammily praising "an international award winning celebrity master hair stylist" who owns the company, but is not celebrity enough to have any article or even redlinks here. No sources, no credible assertion of notability, and a creator who is apparently a freelance spammer (a/k/a undisclosed paid editor with a COI). [[User:Orangemike|<span style="color:#F80">Orange Mike</span>]] &#124; [[User talk:Orangemike|<span style="color:#FA0">Talk</span>]] 23:32, 26 June 2017 (UTC)
+*'''Delete'''.  Either G11 or [[WP:TNT]].  Company, description, company website.  --[[User:SmokeyJoe|SmokeyJoe]] ([[User talk:SmokeyJoe|talk]]) 03:33, 27 June 2017 (UTC)
+*'''Delete'''.  The creator is suspected of editing while paid, without disclosure, he's not proven to be doing so - however, the article itself is still a pile of garbage which wouldn't pass even the most basic of tests of notability.  Needs to go. [[User:DaneGeld|<span style="font-family:Tahoma;color:red">Dane</span>]]&#124;[[User_talk:DaneGeld|<span style="font-family:Tahoma;color:#ffbf00">Geld</span>]] 20:55, 27 June 2017 (UTC)
+*'''Delete''' per above, though I think the undisclosed paid editing can be proven (as much as you can prove anything on the internet) per [[WP:COIN]].  [[User:Smallbones|Smallbones]]<sub>(<font color="cc6600">[[User talk:Smallbones|smalltalk]]</font>)</sub> 22:23, 27 June 2017 (UTC)
+*'''Speedy delete''' per G11. [[User:VQuakr|VQuakr]] ([[User talk:VQuakr|talk]]) 07:49, 29 June 2017 (UTC)
+*'''Delete''' - I probably wouldn't have G11'd at AFC, but would have left a G11 tag standing.  [[User:Robert McClenon|Robert McClenon]] ([[User talk:Robert McClenon|talk]]) 00:52, 2 July 2017 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the page's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page.</div>
+
+{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Miscellany for deletion|{{collapse bottom}}|}}

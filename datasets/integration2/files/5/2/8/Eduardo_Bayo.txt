@@ -1,0 +1,30 @@
+{{short description|American mechanical engineer}}
+{{Multiple issues|
+{{Like resume|date=September 2018}}
+{{BLP unsourced|date=October 2020}}
+}}
+'''Eduardo Bayo''' is a Spanish engineer who works in academia. He graduated with Honors in [[Civil engineering|Civil Engineering]] from the [[Polytechnic University of Madrid]] in [[1976]]. After 2 years of consulting as a structural engineer with Gibbs & Hill, he attended [[University of California, Berkeley|U.C. Berkeley]] receiving his Masters in Engineering in June [[1980]] and his [[PhD|Ph.D.]] in January [[1983]], in the field of [[Structural Mechanics]]. He specialized in [[structural analysis]], finite element technology and computational dynamics. After completing his Ph.D he led a research group at INITEC, one of the largest engineering-consulting firms in [[Spain]], responsible for the solution of specialized problems in structural analysis and design.
+
+He initiated his academic career as [[Assistant Professor]] of Structural Mechanics and Computational Dynamics at the Mechanical Engineering Department of the [[University of California, Santa Barbara]] ([[UCSB College of Engineering|UCSB]]), in January [[1986]]. He became Associate Professor in 1989 and Full Professor in 1994. While at UCSB his research contributions focussed on the dynamics and the control of flexible multi-body systems and articulated structures. His ideas on the non-causal inversion ([[inverse dynamics]]) of non-linear non minimum-phase systems have had a growing influence in robotics and in non-linear control theory. The influence of Professor Bayo’s inverse dynamics work in flexible multi-body systems has grown and continues to be evident in ongoing research at NASA-JPL, and within Medicine, Automation and Robotics to name just a few.
+
+Since 1995 he has been a professor at the [[University of Navarra]], where he leads a research team working on the analysis and design of steel and composite structures, steel connections, stability analysis, nonlinear behavior and plastic structural steel design. He received the Arcelor-Mittal endowed Chair granted to the University of Navarra from 2003 to 2008.
+
+He is a member of the ECCS (European Convention for Constructional Steelwork) Committee TC-10 on Steel Connections, the Spanish Committee in charge of the Structural Steel Code, and the AEN/CTN140/SC3 Committee Eurocode 3: Structural Steel Design. He provides technical review to the Journal of Engineering Structures, Journal of Constructional Steel Research, Journal of Nonlinear Dynamics and Computer Methods in Applied Mechanics and Engineering. He is a charter member of the ASCE Structural Engineering Institute.
+
+He has participated in the analysis and design of different civil works and building projects, has developed new methods of analysis and contributed to the creation of state of the art finite element computer codes. He has been a consultant to several American as well as European engineering companies.  He is married and lives with his family in Navarra, Spain.
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{google scholar id|aZfc2KAAAAAJ}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Bayo, Eduardo}}
+[[Category:Living people]]
+[[Category:American mechanical engineers]]
+[[Category:Year of birth missing (living people)]]
+[[Category:University of California, Santa Barbara faculty]]
+
+{{Improve categories|date=October 2020}}

@@ -1,0 +1,38 @@
+{{Other people|William Baird|William Baird (disambiguation)}}
+{{Infobox person
+|name        = William Teel Baird
+|image       = 
+|alt         = 
+|caption     = 
+|birth_date  = [[Circa|c.]] 1819
+|birth_place = [[Fredericton]], [[New Brunswick]]
+|death_date  = February 23, 1897 (aged 77–78)
+|death_place = [[Woodstock, New Brunswick|Woodstock]], [[New Brunswick]]
+|relations   = [[John Baird (educator)|John Baird]], father
+|other_names = 
+|known_for   = 
+|occupation  = pharmacist, office holder, militia officer, and author
+|nationality = 
+}}
+'''William Teel Baird''' ([[Circa|c.]] 1819 – February 23, 1897) was born on the upper Saint John River in [[New Brunswick]] where his father, [[John Baird (educator)|John Baird]], was a school teacher.
+
+Baird was trained as a pharmacist and in 1839 he moved to [[Woodstock, New Brunswick|Woodstock]] to open his own business. There he explored his many interests including music and books. His first interest was the militia, which he had joined in [[Fredericton|Fredericton, New Brunswick]] in 1836, and he continued with this pursuit in his new home.
+
+Baird made large contributions to the militia in the province beginning in 1861 and the [[Trent Affair]] where he organized the militia to thwart British troop desertions. Under instructions from Lieutenant Governor [[Arthur Hamilton-Gordon, 1st Baron Stanmore|Arthur Hamilton Gordon]], he organized the ''Home Guard'' during the time of the threat of [[Fenian raids]]. He retired as a Quartermaster General.
+
+William Teel Baird's other noteworthy contribution to history was his autobiography, ''Seventy years of New Brunswick life'', which gives a particular insight into the militia and the political climate of the times.
+
+==References==
+* {{Canadabio|ID=5941}}
+* {{cite book|last=Baird|first=William T.|title=Seventy years of New Brunswick life: autobiographical sketches|url=https://books.google.com/books?id=c_QxPwAACAAJ|accessdate=3 November 2010|edition=1978 reprint|year=1890|publisher=St. Annes Point Press|isbn=978-0-920762-00-4|pages=358 pages|nopp=yes}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Baird, William Teel}}
+[[Category:1819 births]]
+[[Category:1897 deaths]]
+[[Category:Businesspeople from New Brunswick]]
+[[Category:Canadian people of Anglo-Irish descent]]
+[[Category:People from Fredericton]]
+[[Category:People of the Fenian raids]]
+[[Category:Canadian autobiographers]]

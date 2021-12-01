@@ -1,0 +1,13 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = This image depicts the logo for MTV's TRL Top 10.
+|Source = http://mtv.mtvnimages.com/apps/Playplex/trl/trltop10_web_series_main_hero_1920x540_050619.jpg?quality=0.85&width=1349&height=447&crop=true
+|Article = Total Request Live
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.
+|Replaceability = n.a.
+|Minimality = This image depicts the logo for MTV's TRL Top 10.
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free logo}}

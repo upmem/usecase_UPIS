@@ -1,0 +1,25 @@
+{{Navbox
+| name  = Bergesen Worldwide
+| title = [[BW Group]]
+|listclass = hlist
+| image =
+
+| group1 = Companies
+| list1  =
+* [[BW Group]]
+
+| group2 = Defunct companies
+| list2  =
+* [[Bergesen d.y.|Bergesen d.y. ASA]]
+* [[World-Wide Shipping]]
+
+| group3 = People
+| list3  =
+* [[Sigval Bergesen the Younger|Sigval Bergesen d.y.]]
+* [[Yue-Kong Pao]]
+* [[Helmut Sohmen]]
+
+| below = ''See also: [[:Category:BW Group]]''
+
+}}
+[[Category:BW Group]]

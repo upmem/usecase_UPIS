@@ -1,0 +1,7 @@
+{{template category
+|topic=[[culture]] and [[the arts]]
+|type=navbox
+}}
+
+[[Category:Arts and culture templates| ]]
+[[Category:Navigational boxes by topic]]

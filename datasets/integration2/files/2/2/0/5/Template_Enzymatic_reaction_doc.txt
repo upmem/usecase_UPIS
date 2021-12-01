@@ -1,0 +1,94 @@
+{{documentation subpage}}
+This template should be used on [[enzyme]] pages to show the reactions that are produced and used by the enzyme, especially when part of a major biochemical pathway such as [[glycolysis]].
+
+This template is part of [[Wikipedia:Wikiproject Metabolic Pathways|Metabolic Pathways WikiProject]].
+
+{{esoteric}}
+
+{{TemplateDataHeader}}
+
+<templatedata>
+{
+	"description": "This template should be used on enzyme pages to show the reactions that are produced and used by the enzyme, especially when part of a major biochemical pathway such as glycolysis.",
+	"params": {
+		"substrate": {
+			"label": "Substrate",
+			"description": "The name of the substrate.",
+			"required": true,
+			"type": "content"
+		},
+		"forward_enzyme": {
+			"label": "Forward enzyme",
+			"description": "The name of the forward enzyme.",
+			"required": false,
+			"type": "content"
+		},
+		"product": {
+			"label": "Product",
+			"description": "The name of the product.",
+			"required": true,
+			"type": "content"
+		},
+		"substrate_image": {
+			"label": "Substrate image",
+			"description": "The name of an image of the structure of the substrate. Do not include \"File:\".",
+			"required": true,
+			"type": "wiki-file-name"
+		},
+		"substrate_image_size": {
+			"label": "Substrate image size",
+			"description": "Substrate image size, in pixels, in the form \"70px\".",
+			"required": false,
+			"type": "string"
+		},
+		"product_image": {
+			"label": "Product image",
+			"description": "The name of an image of the structure of the product. Do not include \"File:\".",
+			"required": true,
+			"type": "wiki-file-name"
+		},
+		"product_image_size": {
+			"label": "Product image size",
+			"description": "Product image size, in pixels, in the form \"70px\".",
+			"required": false,
+			"type": "string"
+		},
+		"minor_forward_substrate(s)": {
+			"label": "Minor forward substrate(s)",
+			"description": "The name(s) of the minor forward substrate(s). Triggers appropriate arrow; use \"&amp;nbsp;\" alone for an unlabelled arrow.",
+			"required": false,
+			"type": "content"
+		},
+		"minor_forward_product(s)": {
+			"label": "Minor forward product(s)",
+			"description": "The name(s) of the minor forward product(s). Triggers appropriate arrow; use \"&amp;nbsp;\" alone for an unlabelled arrow.",
+			"required": false,
+			"type": "content"
+		},
+		"minor_reverse_substrate(s)": {
+			"label": "Minor reverse substrate(s)",
+			"description": "The name(s) of the minor reverse substrate(s). Triggers appropriate arrow; use \"&amp;nbsp;\" alone for an unlabelled arrow.",
+			"required": false,
+			"type": "content"
+		},
+		"minor_reverse_product(s)": {
+			"label": "Minor reverse product(s)",
+			"description": "The name(s) of the minor reverse product(s). Triggers appropriate arrow; use \"&amp;nbsp;\" alone for an unlabelled arrow.",
+			"required": false,
+			"type": "content"
+		},
+		"reverse_enzyme": {
+			"label": "Reverse enzyme",
+			"description": "The name of the reverse enzyme.",
+			"required": false,
+			"type": "content"
+		},
+		"reaction_direction_(forward/reversible/reverse)": {
+			"label": "Reaction direction",
+			"description": "The direction of the arrow: \"forward\", \"reversible\", or \"reverse\".",
+			"required": true,
+			"type": "string"
+		}
+	}
+}
+</templatedata>

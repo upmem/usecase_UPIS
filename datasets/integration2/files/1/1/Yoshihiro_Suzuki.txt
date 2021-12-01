@@ -1,0 +1,46 @@
+{{short description|Japanese baseball player}}
+{{Infobox NPB player
+| name        = Yoshihiro Suzuki
+| image       = CD-Yoshihiro-Suzuki2.jpg
+| image_size  = 250px
+| position    = [[Pitcher]]
+| team        = 
+| number      = 
+| birth_date  = {{birth date and age|1983|1|5}}
+| bats        = Right
+| throws      = Right
+| debutleague = [[Nippon Professional Baseball|NPB]]
+| debutdate   = 
+| debutyear   = 2005
+| debutteam   = Chunichi Dragons
+| statyear    = 2014
+| statleague  = NPB
+| stat1label  = [[Win (baseball)|Win-Loss record]]
+| stat1value  = 10-6
+| stat2label  = [[Earned Run Average|ERA]]
+| stat2value  = 2.73
+| stat3label  = [[Hold (baseball)|Hold]]s
+| stat3value  = 41
+| stat4label  = [[Strikeout]]s
+| stat4value  = 194
+| teams       = 
+*[[Chunichi Dragons]] ({{baseball year|2005}}&ndash;{{Baseball year|2014}})
+}}
+'''Yoshihiro Suzuki''' (鈴木 義広, born January 5, 1983 in [[Mannō, Kagawa|Mannō]], [[Kagawa Prefecture]]) is a retired [[Japanese people|Japanese]] professional [[baseball]] [[pitcher]]. He played for the [[Chunichi Dragons]] in [[Japan]]'s [[Nippon Professional Baseball]] for the entirety of his career.
+
+Since 2015, he has been employed as the Dragons scorer.
+
+==External links==
+{{Baseballstats|brm=suzuki001yos}}
+*[http://bis.npb.or.jp/eng/players/61765110.html NBP.com]
+
+{{DEFAULTSORT:Suzuki, Yoshihiro}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:Baseball people from Kagawa Prefecture]]
+[[Category:Japanese baseball players]]
+[[Category:Nippon Professional Baseball pitchers]]
+[[Category:Chunichi Dragons players]]
+
+
+{{Japan-baseball-pitcher-stub}}

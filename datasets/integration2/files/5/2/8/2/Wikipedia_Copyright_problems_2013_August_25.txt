@@ -1,0 +1,9 @@
+==== [[Wikipedia:Copyright problems/2013 August 25|25 August 2013]] ====
+{{Collapse top|Suspected copyright violations (bot reports)}}
+[[Wikipedia:Suspected copyright violations/2013-08-25|SCV for 2013-08-25]] [{{fullurl:Wikipedia:Suspected copyright violations/2013-08-25|action=edit}} Edit]
+{{Wikipedia:Suspected copyright violations/2013-08-25 }}
+{{Collapse bottom}}
+<!-- This is Cppage. Comment used by User:DumbBOT, do not remove  or change -->
+===== Copyright investigations (manual article tagging) =====
+* {{anchor|:Strategic Communication Laboratories}}[[:Strategic Communication Laboratories]] <span class="plainlinks">([{{fullurl::Strategic Communication Laboratories|action=history}} history] · [{{fullurl::Strategic Communication Laboratories|diff=0}} last edit])</span> Copied and pasted from http://www.scl.cc/history.php. [[User:VWBot|VWBot]] ([[User talk:VWBot|talk]]) 00:08, 26 August 2013 (UTC)
+* {{anchor|:SCL group}}[[:SCL group]] <span class="plainlinks">([{{fullurl::SCL group|action=history}} history] · [{{fullurl::SCL group|diff=0}} last edit])</span> Copied and pasted from http://www.scl.cc/history.php. [[User:VWBot|VWBot]] ([[User talk:VWBot|talk]]) 00:08, 26 August 2013 (UTC)

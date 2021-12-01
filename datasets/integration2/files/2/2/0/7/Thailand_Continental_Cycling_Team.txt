@@ -1,0 +1,76 @@
+{{short description|Thai cycling team}}
+{{Infobox cycling team
+| name           = Thailand Continental Cycling Team
+| image          =
+| image_size     =
+| caption        =
+| current        = 
+| code           = TCC
+| registered     = [[Thailand]]
+| founded        = 2017
+| disbanded      =
+| discipline     = Road
+| status         =
+| bicycles       = [[Specialized Bicycle Components|Specialized]]
+| components     =
+| website        =
+| generalmanager =
+| teammanager    =
+| season         = 2017–
+| oldname        = Thailand Continental Cycling Team
+| kitimage       =
+| pattern_la1    =
+| pattern_b1     =
+| pattern_ra1    =
+| leftarm1       =
+| body1          =
+| rightarm1      =
+}}
+'''Thailand Continental Cycling Team''' is a Thai [[UCI Continental]] cycling team established in 2017.<ref>{{cite web | url=http://www.procyclingstats.com/team/Thailand_Continental_Cycling_team_2017 | title=Thailand Continental Cycling Team | work=ProCyclingStats | accessdate=26 June 2017}}</ref>
+
+==Team roster==
+{{Updated|23 May 2020.<ref>{{cite web|url=https://www.uci.org/road/teams/TeamDetail/14225/1002170/257|title=Thailand Continental Cycling Team|work=UCI.org|publisher=[[Union Cycliste Internationale]]|accessdate=23 May 2020|archiveurl=https://web.archive.org/web/20200523191007/https://www.uci.org/road/teams/TeamDetail/14225/1002170/257|archivedate=23 May 2020}}</ref>}}
+{{Cycling squad start}}
+{{Cycling squad rider|name=[[Turakit Boonratanathanakorn]]|nat=THA|birthdate={{birth date and age|df=yes|1989|3|18}}}}
+{{Cycling squad rider|name=[[Thanakhan Chaiyasombat]]|nat=THA|birthdate={{birth date and age|df=yes|1999|6|26}}}}
+{{Cycling squad rider|name=[[Peerapol Chawchiangkwang]]|nat=THA|birthdate={{birth date and age|df=yes|1986|10|17}}}}
+{{Cycling squad rider|name=[[Jetsada Janluang]]|nat=THA|birthdate={{birth date and age|df=yes|1994|7|20}}}}
+{{Cycling squad rider|name=[[Navuti Liphongyu]]|nat=THA|birthdate={{birth date and age|df=yes|1991|10|18}}}}
+{{Cycling squad mid}}
+{{Cycling squad rider|name=[[Loh Sea Keong]]|nat=MYS|birthdate={{birth date and age|df=yes|1986|11|2}}}}
+{{Cycling squad rider|name=[[Ariya Phounsavath]]|nat=LAO|birthdate={{birth date and age|df=yes|1991|3|2}}}}
+{{Cycling squad rider|name=[[Phuchong Saiudomsin]]|nat=THA|birthdate={{birth date and age|df=yes|1988|3|23}}}}
+{{Cycling squad rider|name=[[Thanawut Sanikwathi]]|nat=THA|birthdate={{birth date and age|df=yes|1993|6|13}}}}
+{{Cycling squad rider|name=[[Sarawut Sirironnachai]]|nat=THA|birthdate={{birth date and age|df=yes|1992|8|23}}}}
+{{Cycling squad end}}
+
+==Major wins==
+;2017
+:Stage 2 [[Tour of Thailand]], [[Thanawut Sanikwathi]]
+;2018
+:Overall [[Tour of Indonesia]], [[Ariya Phounsavath]]
+::Stage 4 [[Peerapol Chawchiangkwang]]
+:Stage 4 [[Tour de Singkarak]], [[Thanakhan Chaiyasombat]]
+;2019
+:Stage 5 [[Tour of Thailand|The Princess Maha Chakri Sirindhorn's Cup]], [[Sarawut Sirironnachai]]
+;2020
+:{{THA}} [[Thai National Road Championships|National Time Trial Championships]], [[Sarawut Sirironnachai]]
+:Stage 1 [[Tour of Thailand|The Princess Maha Chakri Sirindhorn's Cup]], [[Thanawut Sanikwathi]]
+:Stages 3 & 4 [[Tour of Thailand|The Princess Maha Chakri Sirindhorn's Cup]], [[Sarawut Sirironnachai]]
+
+==National champions==
+;2020
+:[[File:Thailand NC.png|20px]] Thailand Time Trial, [[Sarawut Sirironnachai]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.sino.co.th/sino/www/index.php}}
+
+{{authority control}}
+
+[[Category:UCI Continental Teams (Asia)]]
+[[Category:Cycling teams established in 2017]]
+[[Category:Cycling teams based in Thailand]]
+{{cycling-team-stub}}

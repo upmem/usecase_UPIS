@@ -1,0 +1,29 @@
+{{Infobox person
+|name            = Ian Shepherdson
+|image           = Ian Shepherdson.jpg
+|nationality     = British
+|alma_mater    = [[Loughborough University]]
+|occupation      = Founder & Chief US Economist, [[Pantheon Macroeconomics]]
+|website = {{url|pantheonmacro.com}}
+}}
+
+'''Ian Shepherdson''' is an award-winning British [[economist]].  He is the founder and chief economist of '''[[Pantheon Macroeconomics]]''', an economic research firm located in [[Newcastle upon Tyne|Newcastle, England]], with offices in London and [[Valhalla, New York]].<ref>[http://www.pantheonmacro.com/ "Pantheon Macroeconomics"]</ref> In February 2015,<ref>[https://blogs.wsj.com/economics/2015/02/12/wsj-survey-meet-ian-shepherdson-the-most-accurate-economic-forecaster-in-2014 "Wall Street Journal"]</ref> he was named The Wall Street Journal's US economic forecaster of the year for the second time, having previously won the award in 2003.<ref>[https://www.wsj.com/articles/SB107299783616312900 "Wall Street Journal"]</ref>
+
+After graduating from [[Loughborough University]] with a B.Sc. in banking and finance and a [[Doctor of Philosophy|PhD]] in [[economics]], Shepherdson began working as chief U.K. economist at [[HSBC]], a position he held for six years. He then moved to the [[United States]], working as chief economist, USA, for [[HSBC]]<ref>{{cite web|url=http://www.thefreelibrary.com/Shepherdson+named+chief+economist+-+United+States+at+HSBC+Securities,...-a018654244|title=Shepherdson named chief economist - United States at HSBC Securities, Inc.|author=NEW YORK--(BUSINESS WIRE)}}</ref> before taking the Chief U.S. Economist role at research firm High Frequency Economics two years later. In 2012, Ian founded his own independent economic research firm, [[Pantheon Macroeconomics]], currently focussed on the U.S., Eurozone, the U.K., Asia, and Latin America.<ref>{{cite web|url=http://www.pantheonmacro.com/|title=Pantheon Macroeconomics - Welcome|author=Pantheon Macroeconomics|work=Pantheon Macroeconomics}}</ref>
+
+Ian Shepherdson has been called one of the "best economists in the city" by the ''London Times'' and "consistently right" by the ''New York Times''.<ref>[https://www.forbes.com/sites/ianshepherdson/ "Ian Shepherdson"] Retrieved 17 Dec 2014.</ref>  He is a member of the [[Economic Club of New York]].
+
+==See also==
+* [[Pantheon Macroeconomics]]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shepherdson, Ian}}
+[[Category:British economists]]
+[[Category:Academics of Loughborough University]]
+[[Category:Living people]]
+[[Category:Alumni of Loughborough University]]
+[[Category:Year of birth missing (living people)]]

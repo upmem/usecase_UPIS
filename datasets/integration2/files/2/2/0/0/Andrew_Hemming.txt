@@ -1,0 +1,78 @@
+{{short description|English male curler and coach}}
+{{Infobox curler
+| name = Andrew Hemming
+| gender = M
+| image = 
+| image_size = 
+| birth_date = 
+| birth_place = 
+| Curling club = Wigan & Haigh CC, [[Wigan]]
+| Skip = 
+| Third = 
+| Second = 
+| Lead = 
+| Alternate = 
+| Mixed doubles partner = 
+| Member Association = {{ENG}} <br> {{SCO}}
+| World Championship appearances = 2 ({{WMCC|1995}}, {{WMCC|1996}})
+| World Mixed Doubles Championship appearances = 
+| European Championship appearances = 2 ({{EuCC|1994}}, {{EuCC|1995}})
+| Olympic appearances = 
+| Other appearances = {{WSCC||World Senior Championships}}: 1 ({{WSCC|2017}})
+| show-medals = yes
+| medaltemplates=
+<!--
+{{MedalSport | [[Curling]]}}
+-->
+}}
+
+'''Andrew Hemming'''<!-- (born 13 September 1979)--> is an [[England|English]] male [[curling|curler]] and curling [[coach (sport)|coach]].<ref>{{worldcurling}}</ref>
+
+==Teams==
+{| class="wikitable" style="font-size:90%"
+|-
+!width="60"|Season!!Skip!!Third!!Second!!Lead!!Alternate<br>''<small>Coach</small>''!!Events
+|-
+| colspan="7"|{{ENG}}
+|-
+| 1994–95 || [[Alistair Burns]] || '''Andrew Hemming''' || [[Neil Hardie]] || [[Phil Atherton]] || [[Stephen Watt (curler)|Stephen Watt]] || {{EuCC|1994|ECC 1994}} (6th)
+|-
+| 1994–95 || [[Alistair Burns]] || '''Andrew Hemming''' || [[Neil Hardie]] || [[Stephen Watt (curler)|Stephen Watt]] || [[Phil Atherton]]<br>''<small>[[Stephen Hinds]]</small>'' || {{WMCC|1995|WCC 1995}} (9th)
+|-
+| 1995–96 || [[Alistair Burns]] || [[Alan MacDougall (curler)|Alan MacDougall]] || '''Andrew Hemming''' || [[Neil Hardie]] || [[Stephen Watt (curler)|Stephen Watt]] || {{EuCC|1995|ECC 1995}} (6th)
+|-
+| 1995–96 || [[Alistair Burns]] || '''Andrew Hemming''' || [[Neil Hardie]] || [[Stephen Watt (curler)|Stephen Watt]] || [[Phil Atherton]]<br>''<small>[[Stephen Hinds]]</small>'' || {{WMCC|1996|WCC 1996}} (6th)
+|-
+| colspan="7"|{{SCO}}
+|-
+| 2016–17 || [[Ian Drysdale]] || David McQueen || Ronnie Wilson || Graham Lindsay || '''Andrew Hemming'''<br>''<small>'''Andrew Hemming'''</small>'' || {{WSCC|2017|WSCC 2017}} (10th)
+|}
+
+==Record as a coach of national teams==
+{| class="wikitable"
+|-
+! scope="col"| Year 
+! scope="col"| Tournament, event 
+! scope="col"| National team 
+! scope="col"| Place
+|-
+| 2017 || [[2017 World Senior Curling Championships]] || {{SCO}} (senior men) ||<center>10</center>
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{sports links}}
+
+
+{{DEFAULTSORT:Hemming, Andrew}}
+[[Category:Living people]]
+[[Category:English male curlers]]
+[[Category:Scottish male curlers]]
+[[Category:Scottish curling coaches]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{England-curling-bio-stub}}

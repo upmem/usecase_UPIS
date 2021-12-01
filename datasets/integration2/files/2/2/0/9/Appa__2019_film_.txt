@@ -1,0 +1,48 @@
+{{Infobox film
+|name           = Appa
+|image          =
+|caption        =
+|director       = Anmol Gurung
+|producer       = Ruden Sada Lepcha
+|starring       = [[Dayahang Rai]]<br/> Siddhant Raj Tamang<br/> Allona Kabo Lepcha<br/> [[Tulsi Ghimire]]<br/> Aruna Karki
+|music          = 
+|cinematography = Shailendra D. Karki
+|released       = {{Film date|2019|06|28|Nepal|2019|07|05|India|df=y}}
+|country        = India and Nepal
+|language       = [[Nepali language|Nepali]]
+}}
+
+'''''Appa''''' ({{lang-ne| आप्पा}}; [[English language|English]]: Father) is a Nepali-language film written and directed by Anmol Gurung and produced by Ruden Sada Lepcha. The film features [[Dayahang Rai]], Siddhant Raj Tamang and Allona Kabo Lepcha.<ref>{{cite web|url=https://www.thestatesman.com/cities/kalimpong-man-ropes-nepal-actors-dad-flick-1502626534.html|title=Kalimpong man ropes in Nepal actors for ‘dad’ flick|publisher=The Statesman|accessdate=13 May 2019}}</ref> The film was released on 28 June 2019 in Nepal and on 5 July 2019 in India.<ref>{{cite web|url=https://abntv.in/new-feature-film-appa-from-kalimpong-is-making-waves-since-its-first-poster-was-unveiled-on-december-10/|title=New feature film ‘Appa’ from Kalimpong is making waves since its first poster was unveiled on December 10|publisher=ABN TV|accessdate=13 May 2019}}</ref>
+
+==Cast==
+* [[Dayahang Rai]] as Birkhe/Appa
+* Siddhant Raj Tamang as Sid
+* Allona Kabo Lepcha as Kavya
+
+==Production==
+The shooting of the film began on 25 April 2018 at the historic [[Ghum, West Bengal|Ghoom Railway Station]] in [[Darjeeling]], while portions of the movie were shot in places like [[Sandakphu]] and [[Kalimpong]].
+
+==Reception==
+
+Diwakar Pyakurel writes in ''OnlineKhabar''  that "the uniqueness of the setting is not the only strength of the movie. It presents a complex social drama on the universal theme of parental love beyond blood, but the narrative flow is so smooth and comprehensive that the audience easily understands the message" and gave it a rating of 3 out of 5.<ref>{{cite web|url=https://english.onlinekhabar.com/appa-movie-review-this-nepali-indian-flick-tells-a-universal-story-in-its-own-style.html|title=Appa movie review|publisher=OnlineKhabar|accessdate=3 July 2019}}</ref> Rupak Risal of ''Moviemandu'' commended the "other love story [of the teenagers] within, good cinematography work and performances of the young actors" in the film but wrote what the film "lacks the most as a love story and drama is its scope. It doesn’t want to explore human hearts and excavate to the core to explore the human nature" and gave the film a rating of 2.5 out of 5.<ref>{{cite web|url=http://www.moviemandu.com/appa-movie-review/|title=Appa: Movie review|publisher=Moviemandu|accessdate=29 June 2019}}</ref> Gokarna Gautam of ''Nepal'' wrote that the film makes a honest attempt to explore the father-son relationship but does not reach the emotional depths required. The songs of the film are good but the plot is weak and gave the film a rating of 2 out of 5.<ref>{{cite web|url=http://nepal.ekantipur.com/news/2019-06-28/20190628164441.html|title=Film samiksha: Appa|publisher=Nepal|accessdate=29 June 2019}}</ref>
+
+==Soundtrack==
+{| class="wikitable sortable"
+|-
+! Track !! Music !! Lyrics !! Singers
+|-
+|''Hawa Sarara'' || Anmol Gurung || Umesh Upama || Thupden Bhutia and Snehshree Thapa
+|-
+|''Sanjha Parey Pachi'' || Anmol Gurung || Anmol Gurung || Snehshree Thapa and Anmol Gurung
+|-
+|''Amala'' || Sushant Gautam and SD Yogi || Hark Saud || [[Melina Rai]] and SD Yogi
+|-
+|''Sawaney Jhari'' || Anmol Gurung || Umesh Upama || Bigyan Baraily
+|}
+
+==References==
+{{Reflist}}
+
+[[Category:2019 films]]
+[[Category:Nepalese films]]
+[[Category:Nepali-language films]]

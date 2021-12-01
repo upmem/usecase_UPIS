@@ -1,0 +1,54 @@
+[[File:Simone Albergoni - 2010 WEC GP of Turkey.jpg|thumb|right|250px|Simone Albergoni at the 2010 World Enduro Championship]]
+An '''enduro motorcycle''' is an [[Types of motorcycles#Off-road|off-road]] racing [[motorcycle]] used in [[enduro]]s, which are long-distance cross-country [[time trial]] competitions.
+
+==Types and features of enduro motorcycles==
+Enduro motorcycles closely resemble [[motocross]], or "MX" bikes (upon which they are often based).<ref name="CHRIS">Christner, Brian, ''Rise of the Endurocross, half Motocross half Enduro'', Motorcycle News, 2WheelTuesday.com, 20 August 2011</ref> They may have special features such as oversized gas tanks, engines tuned for reliability and longevity, sump protectors, and more durable (and heavier) components.  Enduro bikes combine the long-travel [[Suspension (motorcycle)|suspension]] of an off-road [[motocross]] bike with engines that are reliable and durable over long distances, and may be fitted with oversize gas tanks for adequate range.  Some enduro bikes have street-legal features such as [[headlight]]s and quiet [[muffler]]s to enable them to use public roadways.  The engine of an enduro bike is usually a single cylinder [[2-stroke]] between 125&nbsp;cc and 360&nbsp;cc, or [[4-stroke]] between 195 and 650&nbsp;cc.
+
+A large and powerful engine is not always an advantage, and riders may prefer smaller bikes that are lighter and more maneuverable. In the UK, where enduros are often held in wet, boggy areas such as the Welsh hills, 250&nbsp;cc may be sufficient.  In drier climates, where the dirt surface is firmer (albeit dusty), good riders can benefit from having a heavier bike with more power.{{OR|date=July 2015}}
+
+There may exist several design differences between enduro motorcycles and moto/supercross bikes, according to the rules of the particular competition.  For an enduro event such as [[endurocross]] (Enduro-X), these may include:<ref>{{Cite web | url=http://www.dirtrider.com/features/141_0802_enduro_x_colorado/preparing.html | archiveurl=https://web.archive.org/web/20081203130735/http://www.dirtrider.com/features/141_0802_enduro_x_colorado/preparing.html | archivedate=3 December 2008| work=Dirt Rider | title=Make Your MX Bike Endurocross-Ready In Just 10 Steps!}}</ref>
+*Headlight for on-road and after-dark use
+*Brake light/tail light for on-road use
+*Protective hardware such as brake and clutch handguards for protection against branches and leaves i.e. "bark busters"
+*[[Exhaust system]] that is street legal and meets regulations for noise and spark arresting
+*[[Gear ratio#Wide-ratio vs. close-ratio transmission|Wide-ratio gear box]]
+*Narrower [[Motorcycle handlebar|handlebars]] so that the bike can fit between branches and trees easily
+*Roll chart holder/Enduro computer
+*Heavy flywheel
+
+==Manufacturers==
+[[File:1979 Suzuki PE175N enduro 01.jpg|thumb|left|1979 [[Suzuki PE series|Suzuki PE175]] street-legal enduro bike]]
+Past and present enduro manufacturers include [[AJP Motos|AJP]], [[ATK motorcycles|ATK]], [[Beta (motorcycle manufacturer)|Beta]], [[Bultaco]], [[Clews Competition Motorcycles|CCM]], [[Fantic Motor|Fantic]], [[Gas Gas]], [[Hodaka (motorcycle)|Hodaka]], [[Honda]], [[Husaberg]], [[Husqvarna Motorcycles|Husqvarna]], [[Indian (motorcycle)|Indian]], [[Kawasaki Heavy Industries|Kawasaki]], [[KTM]], [[Maico]], [[Montesa Honda|Montesa]], [[MZ Motorrad- und Zweiradwerk GmbH|MZ]], [[Ossa (motorcycle)|Ossa]], [[Penton]], [[Sherco]], [[Suzuki]], [[SWM (motorcycles)|SWM]] and [[Yamaha Motor Company|Yamaha]].
+
+==History==
+Motorcycles specifically intended for enduro competition first appeared at the International Six Day Trial (ISDT) now called the International Six Days Enduro (ISDE).<ref name="ISDE">''[http://www.ultimatemotorcycling.com/isde-enduro-history ISDE: Enduro Motorcycling Race History]'', Ultimate Motorcycling.com, 6 November 2010, retrieved 20 February 2012</ref>  The ISDE was first held in 1913 at Carlisle, England.<ref name="ISDE"/>  The ISDE requires an enduro motorcycle to withstand over six days and upwards of 1250&nbsp;km (777 miles) of competition; repairs are limited to those performed by the rider with limited parts.<ref name="ISDE"/>  The ISDE has occurred annually, apart from interruptions due to World War I and World War II, at various locations throughout the world.<ref name="ISDE"/>  The early events were a test of rider skill and motorcycle reliability.<ref name="ISDE"/>  The earliest ISDE courses used the dirt roads common in that era.  Today, most of the routes are off-road.<ref name="ISDE"/>  In 1980, the ISDT was renamed the International Six Day Enduro (ISDE).
+
+Until 1973, the ISDE was always held in Europe.<ref name="ISDE"/>  In 1973 it was held in the United States, and since then it has been held outside Europe more frequently: twice in Australia (1992 and 1998), again in the USA (1994), Brazil (2003), New Zealand (2006) and Chile (2007).<ref name="ISDE"/>  The ISDE has attracted national teams from as many as 32 different countries in recent years.<ref name="ISDE"/>
+
+In the 1970s the term was used in US marketing applied to [[dual-purpose motorcycle]]s regardless of their suitability for competition.
+
+In the U.S., enduro motorcycles appeared in light and heavyweight classes during the Greenhorn Enduro hosted by the [[Pasadena Motorcycle Club]] (PMC).  The Greenhorn Enduro was a nationally-recognized 500-mile, two-day desert off-road competition that pounded both rider and machine.  Veterans of the early Greenhorn Enduro included Bud Ekins and [[Steve McQueen]].
+
+Many current enduro motorcycles are built along the basic lines of a World Championship (WEC) machine, as used in the World Enduro Championship.  The WEC is a time-card enduro, whereby a number of stages are raced in a time trial against the clock over a course of at least 200&nbsp;km (124 miles) consisting of both paved and unpaved trails and roads (up to 30% of the course may be on public or private asphalted roads).
+
+Another popular type of enduro competition that has spurred enduro motorcycle development is [[endurocross]], a hybrid event combining enduro and [[supercross]].
+
+In the UK, most enduro clubman bikes were 2-strokes, but many [[Auto-Cycle Union|ACU]] events had a separate class for 4-stroke machines, such as the [[Honda XR series]]. Such 4-strokes tended to be effectively "sporty trail bikes" rather than de-tuned scramblers, but their much improved fuel economy (compared to 2-strokes) meant that they could complete lengthy laps of thirty miles or more without refuelling.  This obviated the need for a back-up team to man refueling stops, allowing 4-stroke clubmen to compete without a support entourage.
+
+==Technical developments==
+MX racing bikes have often been used as platforms for building enduro bikes.<ref name="CHRIS"/>  This was partially driven by the conversion of MX from 2-stroke to 4-stroke engine designs to comply with regulatory trends, as well as the development of hybrid competition races such as Enduro-X.<ref name="CHRIS"/> Compared to MX bikes, enduro and dual-sport bikes traditionally had a much higher proportion of 4-stroke motors.{{citation needed|date=January 2013}}  Though powerful, MX-based off-road motorcycles can experience problems running full enduro courses, where an over-emphasis on light weight and high power may cause engine reliability problems when racing over distances that are much longer than an MX circuit.
+
+== Registration requirements for on-road use==
+{{seealso|Types of motorcycles#Off-road}}
+As some enduro courses have portions on public roads as well as off-road tracks, competitors in such events will need enduro bikes that comply with local [[vehicle registration|registration requirements]] for on-road use.  Modern enduro bikes are closely related to their MX counterparts, and the manufacturers may state that enduro machines are for non-highway use only.  Some countries refuse the registration of enduro bikes for on-highway use unless they are altered to meet local road-legal specifications. However, some enduro bikes, such as the [[Husqvarna Motorcycles|Husqvarna]] TE250 and  some [[Husaberg]]s are built to comply with on-road requirements, and it is fairly straightforward to register these machines for on-road use .
+
+==References==
+{{Commons category|Enduro}}
+{{reflist}}
+
+{{Offroading}}
+
+[[Category:Off-road motorcycles]]
+[[Category:Dirt biking]]
+[[Category:Motorcycle classifications]]
+[[Category:1913 introductions]]

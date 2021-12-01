@@ -1,0 +1,39 @@
+{{WPBannerMeta
+|PROJECT             = Croatia
+ |substcheck=<includeonly>{{subst:</includeonly><includeonly>substcheck}}</includeonly>
+ |small={{{small|}}}
+ |category={{{category|}}}
+ |listas={{{listas|}}}
+|IMAGE_LEFT          = WPCRO Logo 2014 c.svg
+ |IMAGE_LEFT_SMALL   = 50px
+ |IMAGE_LEFT_LARGE   = 61px
+|QUALITY_SCALE       = subpage
+ |class={{{class|}}}
+ |importance={{{importance|}}}
+|ASSESSMENT_CAT      = Croatia articles
+|ASSESSMENT_LINK     = Wikipedia:WikiProject Croatia/Assessment
+|HOOK_ASSESS = {{WPBannerMeta/hooks/bchecklist
+ |BANNER_NAME=Template:WikiProject Croatia
+ |category={{{category|}}}
+ |class={{{class|}}}
+  |b1={{{b1|}}}
+  |b2={{{b2|}}}
+  |b3={{{b3|}}}
+  |b4={{{b4|}}}
+  |b5={{{b5|}}}
+  |b6={{{b6|}}}
+}}
+|MAIN_TEXT           = '''{{SUBJECTPAGENAME}}''' is within the scope of '''[[Wikipedia:WikiProject Croatia|WikiProject Croatia]]''', a collaborative effort to improve the quality and coverage of articles related to [[Croatia]] on Wikipedia. If you would like to participate, please visit the project page.
+|PORTAL              = Croatia
+|MAIN_CAT            = WikiProject Croatia articles
+|tf 1={{{Zagreb|}}}
+ |TF_1_LINK          = Wikipedia:WikiProject Croatia/Zagreb
+ |TF_1_NAME          = '''the Zagreb task force'''
+ |TF_1_NESTED        = Zagreb
+ |TF_1_IMAGE         = Coat of arms of Zagreb.svg
+ |TF_1_QUALITY       = yes
+  |TF_1_ASSESSMENT_CAT = Zagreb articles
+ |TF_1_MAIN_CAT      = Zagreb articles
+}}<noinclude>
+{{documentation}}
+</noinclude>

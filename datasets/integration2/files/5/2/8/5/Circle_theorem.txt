@@ -1,0 +1,17 @@
+'''Circle theorem''' may refer to:
+* Any of many theorems related to the [[circle]]; often taught as a group in [[General Certificate of Secondary Education|GCSE]] mathematics. These include:
+**[[Inscribed angle|Inscribed angle theorem]].
+**[[Thales' theorem]], if A, B and C are points on a circle where the line AC is a diameter of the circle, then the angle ∠ABC is a right angle. 
+**[[Circumscribed circle#Alternate segment theorem|Alternate segment theorem]].
+**[[Ptolemy's theorem]].
+*The [[Milne-Thomson circle theorem]] in  fluid dynamics.
+*[[Five circles theorem]]
+*[[Six circles theorem]]
+*[[Seven circles theorem]]
+*[[Gershgorin circle theorem]]
+
+==See also==
+*[[Clifford's circle theorems]]
+*[[Descartes' theorem]] also known as 'kissing circles' or 'Soddy circles' theorem
+*[[List of circle topics]]
+{{Mathematical disambiguation}}

@@ -1,0 +1,157 @@
+{{Infobox album
+| name       = The Mountain
+| type       = studio
+| artist     = [[Haken (band)|Haken]]
+| cover      = Haken The Mountain cover.jpg
+| alt        =
+| released   = {{Start date|df=y|2013|9|2}}
+| recorded   = 2012–2013
+| venue      =
+| studio     =
+| genre      = [[Progressive metal]]
+| length     = 62:13
+| label      = [[Inside Out Music]]<br>[[Century Media Records]] (distribution)
+| producer   =
+| prev_title = [[Visions (Haken album)|Visions]]
+| prev_year  = 2011
+| next_title = [[Restoration (EP)|Restoration]]
+| next_year  = 2014
+}}
+'''''The Mountain''''' is the third studio album by British [[progressive metal]] band [[Haken (band)|Haken]]. It was released on 2 September 2013 through [[Inside Out Music]].<ref>{{cite web|url=http://www.progrockmag.com/news/haken-get-ready-to-tackle-the-mountain/|title=Haken get ready to tackle The Mountain|publisher=Prog Magazine|date=20 June 2013|accessdate=25 August 2013}}</ref> It is the last album to feature bassist [[Thomas MacLean]].
+
+== Background and recording ==
+
+Band members Richard Henshall and Charlie Griffiths said of the album:
+{{quote|"To us, 'The Mountain' is symbolic of our journey as a band, but also reflects the wider trials and tribulations of life. Lyrically, we've done a lot of soul searching which has given the album an emotional depth that we're sure listeners will really relate to, whatever personal mountain they are climbing.<br>Musically, the new songs feel rawer and more emotional than anything we've created in the past. All the essential elements of our sound are still there but have been delivered in a more gritty and focused style. We've really pushed ourselves in all areas and truly believe that this album is a step up from any of our previous work..."}}<ref>{{cite web|url=http://www.haken.fr/nouveautes6_en.html|title=Haken announce The Mountain|publisher=Haken|date=7 March 2013|accessdate=25 August 2013}}</ref>
+
+Unlike ''[[Aquarius (Haken album)|Aquarius]]'' and ''[[Visions (Haken album)|Visions]]'', for which vocalist Ross Jennings wrote all the lyrics, ''The Mountain'' features contributions by every band member. On a 2016 interview, Jennings said:<ref name="theprogmind">{{cite web|title=An Interview with Ross Jennings|url=https://theprogmind.com/2016/04/14/an-interview-with-ross-jennings/|website=The Prog Mind|accessdate=5 May 2016|date=14 April 2016}}</ref>
+
+{{quote|"I'm still not sure if the rest of the band fully understood what I was trying to achieve lyrically with Aquarius and Visions, which I think left them quite cold and therefore they couldn't relate to those albums so well. If you ask them today, I still don't think they could explain the stories or the themes. So when it came to writing the Mountain, everyone wanted to get involved with that part of the process [...]"}}
+
+According to keyboardist Diego Tejeida, the band "didn't set any boundaries for how we wanted the album to sound".<ref name=progsphere>{{cite web|last=Savić|first=Nikola|title=HAKEN Interview: Entertainment is Paramount|url=http://www.prog-sphere.com/interviews/haken-interview-2014/|work=Prog-Sphere|accessdate=9 January 2014|date=4 January 2014}}</ref> He added that "''The Mountain'' was tangibly influenced by 70's music, at the same time we threw in some prog-unrelated influences like: [[Ambient music|ambient]], [[Soul music|soul]], [[jazz]], 80′s [[synthpop]], [[Minimal music|minimalism]] or even those [[Glitch Hop]] Drums on 'Because It's There'."<ref name=progsphere/>
+
+Drummer Raymond "Ray" Hearne added that "''The Mountain'' set out on a few different lyrical paths before realising its final form. We initially had a couple of quasi-concept ideas but soon began to realise this was a bit too constrictive so we pretty much chose a song or two each. [...] Each of us chose the song(s) that spoke most personally to us. We then tried to reflect that music with our words and vice versa. It soon became clear that this was a great collaborative decision as we all began to really dig what each one of us came up with and we were able to help one another with any musical/lyrical guidance they might have needed. It was a truly collaborative process."<ref name=progsphere/>
+
+Guitarist and keyboardist Richard Henshall said the band wanted to sound more "elemental" than their previous work, ''[[Visions (Haken album)|Visions]]''.<ref name=progsphere/> "We used this as a rough guideline and went with the natural flow of things. [...] To me, what we end up with is most the honest expression of our emotions and feelings.<ref name=progsphere/>
+
+According to Jennings, the epic "Falling Back to Earth" consists of two parts ("Rise" and "Fall").<ref name=progsphere/> The first is based on the history of [[Icarus]] and covers the subject of "ambition, failure and {{sic|perseverence}}, using the metaphor of wings and flying too close to the sun to represent how we take on challenges in life and the desire to prove something to people."<ref name=progsphere/> The second part is inspired by science fiction iconography, "looking at the who we are and the world around us when we have fallen, and the humility required to reach out to others for forgiveness & acceptance. The rise and fall of this song sits aptly as the centre-piece of this album."<ref name=progsphere/>
+
+A shortened version of "Cockroach King" received a promotional video with [[The Muppets]]-like band members manufactured by Griffiths and controlled by Rinaldi and Ross. According to Tejeida, the idea was to make a video with comic touches for all ages, "far from the seriousness protocol demanded by a rock/metal video".<ref>{{cite web|last=Vega|first=Javi Moreno|title=Entrevista a Haken: "Progresivo clásico y moderno nos han influenciado de igual manera"|url=http://www.portalesquizofrenia.com/entrevista-haken-tanto-progresivo-clasico-como-el-moderno-nos-han-influenciado-de-igual-manera/2014/03/|work=Portal Esquizofrenia|accessdate=25 March 2014|author2=Beleña, Pablo M.|language=Spanish|date=24 March 2014}}</ref>
+
+== Reception ==
+{{Album reviews
+| rev1 = [[AllMusic]]
+| rev1score = {{Rating|5|5}}<ref name="AllMusic">{{cite web|title=The Mountain - Haken {{!}} Songs, Reviews, Credits|url=https://www.allmusic.com/album/the-mountain-mw0002562824|website=AllMusic|accessdate=6 June 2020|date=2 September 2013}}</ref>
+| rev2= Angry Metal Guy
+| rev2score = {{Rating|9|10}}<ref name=AMG>{{cite web|url=http://www.angrymetalguy.com/haken-the-mountain-review/|title=Haken – The Mountain Review|publisher=angrymetalguy.com/|accessdate=4 January 2014|date=3 September 2013}}</ref>
+| rev3= ''Ghost Cult Magazine''
+| rev3score = {{Rating|9|10}}<ref>{{cite web|url=http://www.ghostcultmag.com/haken-the-mountain/|title=Haken-The Mountain|publisher=Ghost Cult Magazine|accessdate=25 August 2013}}</ref>
+| rev4 = Metal Underground
+| rev4score = {{Rating|5|5}}<ref>{{cite web|url=http://www.metalunderground.com/reviews/details.cfm?releaseid=11134|title=Haken-The Mountain (CD) review|publisher=MetalUnderground.com|date=13 August 2013|accessdate=25 August 2013}}</ref>
+| rev5= The Monolith
+| rev5score = {{Rating|9|10|score=9.2/10 stars}}<ref name=monolith>{{cite web|last=Kevin|url=http://www.themonolith.com/music/review-haken-the-mountain/|title=Review: Haken - The Mountain|publisher=The Monolith|accessdate=10 January 2014|date=3 September 2013}}</ref>
+| rev6= Sea of Tranquility
+| rev6score = {{Rating|4.5|5}}<ref name=SoT>{{cite web|last=Reid|first=Steven|url=http://www.seaoftranquility.org/reviews.php?op=showcontent&id=14990|title=Haken: The Mountain|publisher=Sea of Tranquility|accessdate=9 January 2014|date=28 September 2013}}</ref>
+
+
+}}
+''The Mountain'' was met with critical acclaim.
+
+Conor Fynes from Prog Sphere called it "quite possibly the greatest statement in progressive metal yet released in 2013", and noted that "the influence of bands like [[Dream Theater]] and [[King Crimson]] are undoubtedly evident, but Haken have finally claimed ownership of a sound unto their own.<ref name=PSreview1>{{cite web|last=Fynes|first=Conor|title=Haken – The Mountain|url=http://www.prog-sphere.com/reviews/haken-the-mountain-2/|work=Prog-Sphere|accessdate=9 January 2014|date=12 November 2013}}</ref> He however criticized the lyrics, saying they "tend to feel as cheesy and heavy-handed as they have always been", though still noting songwriting improvements compared to the previous two albums.<ref name=PSreview1/>
+
+Anso DF from [[MetalSucks]] considered ''The Mountain'' "a chore, an overlong, indulgent, and occasionally annoying odyssey", but stated that "fans of [[Porcupine Tree]] and [[Katatonia]] will love ''The Mountain's'' moody melodies, if not its flights of wankery. The latter will tantalize those in a mood for [[John Petrucci|Petrucci]]-type fun, though unsatisfied they will be with the infrequency of heavy riffage. It's basically just barely too heavy to be mistaken for [[Cairo (band)|Cairo]]. But not too heavy to open a co-headline tour of [[Devin Townsend]] and Zamfir."<ref>{{cite web|last=DF|first=Anso|title=Haken's The Mountain: U Jam?|url=http://www.metalsucks.net/2013/09/19/hakens-the-mountain-u-jam/|work=[[MetalSucks]]|accessdate=10 January 2014|date=29 September 2013}}</ref>
+
+Steven Reid from Sea of Tranquility said the album is "blindingly technical", but "doesn't feel like an exercise in how to get the most notes out of any given instrument".<ref name=SoT/> He also stated that "every instrumentalist comes to the fore, but never too egotistical to take a big step back when the need arises."<ref name=SoT/>
+
+Kevin from The Monolith called it "a fantastic album that combines elements from all over the musical spectrum, boasting jazz, classic prog, modern prog rock and metal as main influences, while weaving the likes of choral, [[Funk music|funk]], and soul in as well. It has fantastic writing, amazing musicianship, a really personal, relatable theme, and sounds clear as a bell."<ref name=monolith/>
+
+Roger T, also from Prog Sphere, gave the album a mixed review, stating that "Haken have taken a trolley-dash through the supermarket of prog, grabbing every influence they can get their eager little hands on, sometimes wholesale, and the end product is dizzying in its ambition and scope."<ref name=PSreview2>{{cite web|last=T|first=Roger|title=Haken – The Mountain|url=http://www.prog-sphere.com/reviews/haken-the-mountain/|work=Prog-Sphere|accessdate=9 January 2014|date=11 November 2013}}</ref> However, he praised some songs, such as "Cockroach King", in which he noted vocal influences of [[Gentle Giant]] and "Because It's There", described by him as "an example of highly skilled writing and arrangement".<ref name=PSreview2/>
+
+It has been cited by [[Dream Theater]] keyboardist [[Jordan Rudess]], as well as by ex-drummer [[Mike Portnoy]], as one of their top 10 2013 albums.<ref>{{cite web|title=Top ten albums of 2013 / staff & artists - Jordan Rudess - Keyboards, Dream Theater|url=http://top2013.roadrunnerrecords.com/topten/jordan-rudess/|work=[[Roadrunner Records]]|accessdate=10 January 2014}}</ref><ref>{{cite web|last=Portnoy|first=Mike|title=MP's Best Of 2013 Year End Wrap-Up|url=http://www.mikeportnoy.com/forum/tm.aspx?high=&m=2872620&mpage=1#2872620|work=Mike Portnoy's official website forum|accessdate=10 January 2014|date=30 December 2013}}</ref> It was also praised by [[Between the Buried and Me]]'s [[bassist]] [[Dan Briggs (musician)|Dan Briggs]].<ref>https://www.youtube.com/watch?v=yb1AVledzs4</ref>
+
+''The Mountain'' made the band gain a more substantial fanbase. At Prog Sphere it won first place in albums of 2013<ref>http://www.prog-sphere.com/specials/top-10-of-2013/</ref> and fourth place in The Prog Report.<ref>http://progreport.com/prog-report-top-10-albums-2013/</ref>
+
+==Track listing==
+{{Track listing
+| total_length = 62:13
+| all_music = [[Richard Henshall]], except "As Death Embraces", by Diego Tejeida
+| title1 = The Path
+| lyrics1 = Ray Hearne
+| length1 = 2:46
+| title2 = Atlas Stone
+| lyrics2 = {{hlist|Hearne|Ross Jennings|Charlie Griffiths}}
+| length2 = 7:33
+| title3 = Cockroach King
+| lyrics3 = Henshall
+| length3 = 8:14
+| title4 = In Memoriam
+| lyrics4 = {{hlist|Jennings|Griffiths}}
+| length4 = 4:17
+| title5 = Because It's There
+| lyrics5 = Hearne
+| length5 = 4:23
+| title6 = Falling Back to Earth"{{small|
+* I. "Rise"
+* II. "Fall}}
+| lyrics6 = {{hlist|Jennings|Griffiths}}
+| length6 = 11:50
+| title7 = As Death Embraces
+| lyrics7 = Diego Tejeida
+| length7 = 3:13
+| title8 = Pareidolia
+| lyrics8 = Tejeida
+| length8 = 10:50
+| title9 = Somebody
+| lyrics9 = [[Thomas MacLean]]
+| length9 = 9:00
+}}
+
+{{tracklist
+| collapsed = yes
+| headline = Limited digipak edition bonus tracks
+| total_length = 69:10
+| title10 = The Path Unbeaten
+| note10 = instrumental version of "The Path"
+| length10 = 2:12
+| title11 = Nobody
+| note11 = [[Acoustic music|acoustic]] and abridged version of "Somebody" 
+| length11 = 4:53
+| lyrics11 = MacLean
+}}
+
+==Personnel==
+{{col-begin}}
+{{col-3}}
+;Haken
+*Ross Jennings – [[Lead vocalist|lead vocals]]
+*[[Richard Henshall]] – [[Electric guitar|guitar]]s, [[Keyboard instrument|keyboard]]s, [[Backing vocalist|backing vocals]]
+*Charlie Griffiths – guitars, backing vocals
+*[[Thomas MacLean]] – [[Bass guitar|bass]], backing vocals
+*Diego Tejeida – keyboards, [[sound design]], second voice {{small|(track 8)}}
+*Raymond Hearne – [[Drum kit|drums]], [[Percussion instrument|percussion]], backing vocals, [[Types of trombone#Cimbasso|cimbasso]], [[tuba]]
+{{col-3}}
+;Additional musicians
+*Joey 'Dah Lipz' Ryan - [[french horn]]
+*Matthew Lewis - [[trombone]]
+*Barry Clements - [[bass trombone]]
+{{col-3}}
+;Production and design
+*Anthony Leung – recording {{small|(drums)}}
+*[[Jens Bogren]] – [[Audio mixing (recorded music)|mixing]], [[Audio mastering|mastering]]
+*Diego Tejeida – mixing {{small|(tracks 10, 11)}}
+*Blacklake – [[artwork]], [[Graphic design|design]]
+*Joanna Krause – [[photography]]
+{{col-end}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.hakenmusic.com/ Haken official website]
+
+{{Haken}}
+
+{{DEFAULTSORT:Mountain, The}}
+[[Category:2013 albums]]
+[[Category:Haken (band) albums]]
+[[Category:Inside Out Music albums]]

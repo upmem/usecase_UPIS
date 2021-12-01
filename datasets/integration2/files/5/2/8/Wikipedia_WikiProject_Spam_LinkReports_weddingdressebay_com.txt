@@ -1,0 +1,17 @@
+{{User:COIBot/Summary/LinkReports}}
+Reporting statistics of link weddingdressebay.com; 0 records.
+* {{LinkSummary|weddingdressebay.com}}.
+* weddingdressebay.com resolves to [http://206.126.97.16 206.126.97.16] - {{LinkSummary|206.126.97.16}}.
+* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+
+Reports
+COIBot reported 0 links.
+----
+Below a full report on all use of the link weddingdressebay.com.
+
+This list is intended to see how the [[:en:WP:EL|external link]] gets used, it does '''not''' imply that involved accounts are having a [[:en:WP:COI|conflict of interest]] in adding the link, or that the involved accounts are [[:en:WP:SPAM|spamming]] the link.
+
+LinkWatcher records:
+
+No records
+<!-- tags: -->{{NOINDEX}}

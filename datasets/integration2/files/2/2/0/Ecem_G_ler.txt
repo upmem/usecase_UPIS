@@ -1,0 +1,49 @@
+{{short description|Turkish basketball player}}
+{{Infobox basketball biography
+| name = Emel Ecem Güler
+| image = 
+| caption = 
+| league = [[Turkish Women's Basketball League]]-[[Euroleague Women]]
+| height_ft = 6
+| height_in = 2
+| weight_lbs = 167 
+| position = Power Forward
+| birth_date = {{birth date and age|1992|01|16}}
+| birth_place = [[Soma, Manisa|Soma]], [[Turkey]]
+| death_date =
+| death_place = 
+| team = [[Fenerbahçe Women's Basketball|Fenerbahçe Istanbul]]
+| number = 8
+| college = 
+| nationality = Turkish
+| draft = 
+| draft_team = 
+| draft_year = 
+| career_start = 2010
+| awards = 
+}}
+
+'''Emel Ecem Güler''' (born 16 January 1992 in [[Soma, Manisa|Soma]], [[Turkey]]) is a Turkish [[basketball]] player. She plays for [[Fenerbahçe İstanbul]] as both small and power forward position. She is 187&nbsp;cm tall and 75&nbsp;kg weights. She has played for Fenerbahçe İstanbul since 2004 in youth level and since 2010 in senior level.
+
+==Honors==
+*'''Turkish Championship''' (3): 2010-11, 2011–12, 2012–13
+*'''Turkish Presidents Cup''' (1): 2010
+
+==See also==
+* [[Turkish women in sports]]
+
+==External links==
+*[http://www.fenerbahce.org/basketbolbayan/kategori.asp?ContentCategoryID=60 Player Profile at fenerbahce.org]
+*[http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.playerID_70236.compID_jr6ZiXqeGhMBtfq1yxqV83.season_2011.roundID_7843.teamID_2025.html Player Profile at fibaeurope.com]
+
+{{Fenerbahçe Istanbul Squad}}
+
+{{DEFAULTSORT:Guler, Ecem}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:Turkish women's basketball players]]
+[[Category:Fenerbahçe women's basketball players]]
+[[Category:Forwards (basketball)]]
+
+
+{{Turkey-basketball-bio-stub}}

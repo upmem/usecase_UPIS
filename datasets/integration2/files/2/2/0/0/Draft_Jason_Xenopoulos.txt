@@ -1,0 +1,49 @@
+{{AFC submission|d|bio|u=Smashleyy|ns=118|decliner=Interstellarity|declinets=20200710182927|ts=20200520170051}} <!-- Do not remove this line! -->
+{{AFC submission|d|bio|u=Smashleyy|ns=118|decliner=Sulfurboy|declinets=20200502064920|reason2=v|small=yes|ts=20200501222743}} <!-- Do not remove this line! -->
+{{AFC submission|d|bio|u=Smashleyy|ns=118|decliner=KylieTastic|declinets=20200501220401|small=yes|ts=20200501220201}} <!-- Do not remove this line! -->
+
+{{AFC comment|1=Requires significant coverage in multiple [[WP:INDY|independent]] [[WP:RS|reliable sources]] to show [[WP:N|notability]] - Note IMDB is not a [[WP:RS|reliable source]] [[User:KylieTastic|KylieTastic]] ([[User talk:KylieTastic|talk]]) 22:04, 1 May 2020 (UTC)}}
+
+----
+
+{{short description|South African film director}}
+{{Infobox person
+| name          = Jason Xenopoulos
+| alt           = 
+| birth_place   = [[Johannesburg]], [[Gauteng]], South Africa
+| nationality   = South African
+| occupation    = Film director, writer, producer
+| years_active  = 2002{{ndash}}present
+| known_for     = ''[[Promised Land (2002 film)]]''<br>''[[Doomsday (2008 film)]]''<br>''[[Critical Assignment]]''
+| notable_works = 
+| relatives     = [[Dean Israelite]] (cousin)<br>Clint Warren (cousin)..
+}}
+
+'''Jason Xenopoulos''' is an [[South African]] award-winning film director<ref>{{Cite web|url=http://www.youngglory.com/briefs/2019-20/round-1|title=September : Jason Xenopoulos|website=Young Glory}}</ref><ref>https://speakerpedia.com/speakers/jason-xenopoulos</ref>, writer<ref>{{Cite web|url=https://www.news24.com/xArchive/Archive/Intl-award-for-Promised-Land-20021105|title=Int'l award for Promised Land|date=November 5, 2002|website=News24}}</ref><ref>{{Cite web|url=https://variety.com/2002/film/news/broken-wings-nabs-tokyo-award-1117875512/|title='Broken Wings' nabs Tokyo award|first1=Lukas|last1=Schwarzacher|first2=Lukas|last2=Schwarzacher|date=November 5, 2002}}</ref>, and producer, <ref>https://www.vmlyr.com/people/jason-xenopoulos?</ref> <ref>{{Cite web|url=https://iffr.com/en/persons/jason-xenopoulos|title=Jason Xenopoulos|date=September 4, 2015|website=IFFR}}</ref> best known for writing and directing the film [[Promised Land (2002 film)]], and directing [[Critical Assignment]], and [[Doomsday (2008 film)]]<ref>{{Cite web|url=https://www.africanfilmny.org/2014/jason-xenopoulos/|title=Jason Xenopoulos|date=September 22, 2014}}</ref> Critical Assignment was selected as the Opening Night Screening at the 11th New York African Film Festival and went on to win the Jury Award at the Hollywood Black Film Festival and the award for Best West African Picture at the Screen National Film & TV Awards in London.<ref>http://www.youngglory.com/briefs/2019-20/round-1</ref>
+
+== Filmography ==
+* ''[[Doomsday (2008 film)]]'' (2008) – director
+* ''[[Promised Land (2002 film)]]'' (2002) – writer, director
+* ''[[Critical Assignment]]'' (2002) – director
+
+== External links ==
+* {{IMDb name|nm1047209}}
+
+[[:Category:Living people]]
+[[:Category:People from Johannesburg]]
+[[:Category:South African film directors]]
+[[:Category:South African screenwriters]]
+[[:Category:South African film producers]]
+[[:Category:South African Jews]]
+
+{{stub}}
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
+
+== Jason Xenopoulos ==
+
+== Jason Xenopoulos ==
+
+== Removed IMDB references per @Username:PhilKnight ==

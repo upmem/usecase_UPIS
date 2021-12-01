@@ -1,0 +1,74 @@
+{{Infobox Christian leader
+| type        = Bishop
+| honorific-prefix = Most Reverend
+| name        = Pietro Leon
+| title       = Bishop of Ceneda
+| other_names = 
+| image       = 
+| image_size  = 
+| alt         =
+| caption     = 
+| church      = [[Catholic Church]]
+| archdiocese = 
+| diocese     = [[Roman Catholic Diocese of Vittorio Veneto|Diocese of Ceneda]]
+| see         = 
+| term        = 1445–1474
+| predecessor = [[Antonio Correr (bishop)]]
+| successor   = [[Nicolò Trevisan]]
+<!--   Orders   -->
+| ordination     = 
+| ordained_by    = 
+| consecration   = 
+| consecrated_by = 
+| cardinal       =
+| created_cardinal_by = 
+| rank           = 
+<!--   Personal details   -->
+| birth_date    = 
+| birth_place   = 
+| death_date    = 1474
+| death_place   = [[Ceneda, Italy]]
+| previous_post = [[Bishop of Ossero]] (1436–1445)
+| nationality   = 
+| religion      =
+| ethnicity     =
+}}
+
+{{Use dmy dates|date=February 2020}}'''Pietro Leon''' (died 1474) was a Roman Catholic prelate who served as [[Bishop of Ceneda]] (1445–1474) and [[Bishop of Ossero]] (1436–1445).<ref name=HierarchiaII>{{cite book|url=https://archive.org/details/hierarchiacathol02eubeuoft|first=Konrad|last=Eubel|title=HIERARCHIA CATHOLICA MEDII ET RECENTIORIS AEVI Vol II|pages=[https://archive.org/details/hierarchiacathol02eubeuoft/page/77 77] and 124|date=1914|publisher=Libreria Regensbergiana|location=Münster|edition=second|ISBN=}} ''(in Latin)''</ref><ref name=CathHierPieLeon>[http://www.catholic-hierarchy.org/bishop/bleonpi.html "Bishop Pietro Leon"] ''[[Catholic-Hierarchy.org]]''. David M. Cheney. Retrieved January 4, 2017</ref><ref name=CathHierOssero>[http://www.catholic-hierarchy.org/diocese/do506.html "Diocese of Ossero (Osor)"] ''[[Catholic-Hierarchy.org]]''. David M. Cheney. Retrieved June 16, 2016</ref><ref name=GCathOsor>[http://www.gcatholic.org/dioceses/former/t1330.htm "Titular Episcopal See of Osor"] ''GCatholic.org''. Gabriel Chow. Retrieved June 16, 2016</ref> 
+
+==Biography==
+On 6 Feb 1436, Pietro Leon was appointed during the papacy of [[Pope Eugene IV]] as [[Bishop of Ossero]].<ref name=HierarchiaII /><ref name=CathHierPieLeon />
+On 4 Jun 1445, he was appointed during the papacy of Pope Eugene IV as [[Bishop of Ceneda]].<ref name=HierarchiaII /><ref name=CathHierPieLeon />
+He served as Bishop of Ceneda until his death in 1474.<ref name=CathHierPieLeon  /> 
+
+== References ==
+{{reflist}}
+
+==External links and additional sources==
+*{{Cite web|last=Cheney |first=David M.|authorlink=|title=Diocese of Vittorio Veneto (Ceneda)|website=[[Catholic-Hierarchy.org]]|date=|url=http://www.catholic-hierarchy.org/diocese/dvitt.html |accessdate=June 16, 2018}} (for Chronology of Bishops) [[Wikipedia:SPS|{{sup|[''self-published'']}}]]
+*{{Cite web|last=Chow |first=Gabriel|authorlink=|title=Diocese of Vittorio Veneto (Ceneda)(Italy)|website=[[GCatholic.org]]|date=|url=http://www.gcatholic.org/dioceses/diocese/vitt0.htm |accessdate=June 16, 2018}} (for Chronology of Bishops) [[Wikipedia:SPS|{{sup|[''self-published'']}}]]
+
+{{s-start}}
+{{s-rel|ca}}
+{{succession box
+| title  = [[Bishop of Ossero]]
+| years  = 1436–1445
+| before = 
+| after  = [[Simeon de Valle]]}}
+{{succession box
+| title  = [[Bishop of Ceneda]]
+| years  = 1445–1474
+| before = [[Antonio Correr (bishop)]]
+| after  = [[Nicolò Trevisan]]}}
+{{s-end}}
+
+{{Subject bar |portal1= Biography |portal2= Catholicism |portal3= Italy}}
+{{Authority control}}
+{{DEFAULTSORT:Leon, Pietro}}
+[[Category:15th-century Roman Catholic bishops]]
+[[Category:Bishops appointed by Pope Eugene IV]]
+[[Category:Date of birth missing]]
+[[Category:1474 deaths]]
+
+
+{{15C-Italy-RC-bishop-stub}}

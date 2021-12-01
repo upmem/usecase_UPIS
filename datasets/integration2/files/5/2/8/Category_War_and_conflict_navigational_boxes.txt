@@ -1,0 +1,5 @@
+{{template category|type=navbox}}
+
+[[Category:History and events navigational boxes]]
+[[Category:War and conflict templates]]
+[[Category:Society and social science navigational boxes]]

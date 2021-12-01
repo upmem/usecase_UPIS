@@ -1,0 +1,46 @@
+{{coord|40|20|43|N|44|03|20|E|display=title}}
+{{Infobox settlement
+|official_name =Nerkin Bazmaberd
+|native_name =Ներքին Բազմաբերդ 
+|pushpin_map            =Armenia
+|mapsize                =150px
+|subdivision_type       = Country
+|subdivision_name       = [[Armenia]]
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      =[[Aragatsotn]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2008
+|population_total =1438
+|population_density_km2   =
+|timezone =&nbsp;
+|utc_offset             = +4
+|timezone_DST           =&nbsp; 
+|utc_offset_DST         = +5
+|coordinates            = {{coord|40|20|43|N|44|03|20|E|region:AM|display=inline}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+}}
+'''Nerkin Bazmaberd''' ({{lang-hy|Ներքին Բազմաբերդ}}, also [[Romanize]]d as '''Nerqin Bazmaberd'''; formerly, '''Agdzhakala''', '''Aghjaghala''', '''Nerkin Agdzhakala''', '''Nerkin Hajighala'''<ref name=":0">{{Cite web|url=http://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=61&dt=HY_HY&query=%D4%B2%D5%A1%D5%A6%D5%B4%D5%A1%D5%A2%D5%A5%D6%80%D5%A4|title=Հայաստանի եւ հարակից շրջանների տեղանունների բառարան, Թ.Խ. Հակոբյան, Ստ.Տ. Մելիք-Բախշյան, Հ.Խ. Բարսեղյան - Բազմաբերդ|website=www.nayiri.com|access-date=2019-09-04}}</ref> and '''Nizhnyaya Agdzhakala''') is a town in the [[Aragatsotn|Aragatsotn Province]] of [[Armenia]]. It was renamed ''Nerkin Bazmaberd'' on November 12, 1946.<ref name=":0" /> The population descends from refugees and migrants from the occupied [[Sason]] and [[Muş Province|Mus]] provinces of the [[Ottoman Empire]] (current [[Turkey]]) in 1915–1918.<ref name=":0" />
+
+== See also ==
+*[[Aragatsotn Province]]
+
+== References ==
+{{Reflist}}
+*{{GEOnet2|32FA881E6C1E3774E0440003BA962ED3}}
+*[http://world-gazetteer.com/wg.php?x=&men=gcis&lng=en&des=wg&geo=-17&srt=npan&col=abcdefghinoq&msz=1500&pt=c&va=x World Gazetteer: Armenia] &ndash; World-Gazetteer.com
+*[http://www.armstat.am/file/doc/70.pdf Report of the results of the 2001 Armenian Census]
+*Kiesling, ''Rediscovering Armenia'', p. 18, available online at the [https://web.archive.org/web/20080626205330/http://yerevan.usembassy.gov/armenia.pdf US embassy to Armenia's website]
+
+{{Aragatsotn}}
+
+[[Category:Populated places in Aragatsotn Province]]
+
+
+{{Aragatsotn-geo-stub}}

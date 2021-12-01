@@ -1,0 +1,45 @@
+{{Navbox
+|name       = National symbols
+|title      = [[National symbol]]s ([[Lists of national symbols|list]])
+|listclass = hlist
+|state      = {{{state|autocollapse}}}
+
+|group1     = Topics
+|list1      =
+* [[National coat of arms|Coat of arms]]
+* [[National colours|Colour]]
+* [[National god|Deity]]
+* [[National dish|Dish]]
+* [[National emblem|Emblem]]
+* [[National epic|Epic]]
+* [[Floral emblem|Flower]]
+* [[National myth|Myth]]
+* [[National patron saint|Patron saint]]
+* [[National personification|Personification]]
+* [[National poetry]]
+** [[National poet|Poets]]
+* [[National sport|Sport]]
+
+|group2     = Lists
+|list2      =
+* [[List of national animals|Animals]]
+** [[List of national birds|Birds]]
+* [[List of national anthems|Anthems]]
+* [[List of national dances|Dances]]
+* [[List of national founders|Founders]]
+* [[List of national fruits|Fruits]]
+* [[List of national instruments (music)|Instruments]]
+* [[List of national drinks|Drinks]]
+** [[List of national liquors|Liquors]]
+* [[List of national mottos|Mottos]]
+* [[List of national trees|Trees]]
+
+|group3     = Galleries
+|list3      =
+* [[Armorial of sovereign states|Country coats of arms]]
+* [[Gallery of sovereign state flags|State flags]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Geography and place navigational boxes]]
+</noinclude>

@@ -1,0 +1,27 @@
+{{Infobox_gene}}
+
+'''Neuron derived neurotrophic factor''' is a [[protein]] that in humans is encoded by the NDNF [[gene]].
+<ref name="entrez">
+{{cite web
+| title = Entrez Gene: Neuron derived neurotrophic factor
+| url = https://www.ncbi.nlm.nih.gov/gene/79625
+| accessdate = 2017-06-27
+}}</ref>
+
+
+
+== References ==
+
+{{reflist}}
+
+== Further reading ==
+
+{{refbegin | 2}}
+*{{cite journal |vauthors=Utine GE, Aktas D |title=Mosaicism for terminal deletion of 4q |journal=Genet. Couns. |volume=17 |issue=2 |pages=205–9 |year=2006 |pmid=16970039 |doi= |url=}}
+*{{cite journal |vauthors=Kalsi G, Kuo PH, Aliev F, Alexander J, McMichael O, Patterson DG, Walsh D, Zhao Z, Schuckit M, Nurnberger J, Edenberg H, Kramer J, Hesselbrock V, Tischfield JA, Vladimirov V, Prescott CA, Dick DM, Kendler KS, Riley BP |title=A systematic gene-based screen of chr4q22-q32 identifies association of a novel susceptibility gene, DKK2, with the quantitative trait of alcohol dependence symptom counts |journal=Hum. Mol. Genet. |volume=19 |issue=12 |pages=2497–506 |year=2010 |pmid=20332099 |pmc=2876884 |doi=10.1093/hmg/ddq112 |url=}}
+*{{cite journal |vauthors=Rose JE, Behm FM, Drgon T, Johnson C, Uhl GR |title=Personalized smoking cessation: interactions between nicotine dose, dependence and quit-success genotype score |journal=Mol. Med. |volume=16 |issue=7–8 |pages=247–53 |year=2010 |pmid=20379614 |pmc=2896464 |doi=10.2119/molmed.2009.00159 |url=}}
+
+{{refend}}
+
+
+{{gene-4-stub}}

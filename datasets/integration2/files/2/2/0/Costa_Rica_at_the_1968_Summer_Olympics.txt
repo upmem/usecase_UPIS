@@ -1,0 +1,152 @@
+{{use dmy dates|date=September 2014}}
+{{infobox country at games
+| NOC = CRC
+| NOCname = Comité Olímpico de Costa Rica
+| games = Summer Olympics
+| year = 1968
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.concrc.org }}&nbsp;{{in lang|es}}
+| location = [[Mexico City]]
+| competitors = 18 (17 men, 1 woman)
+| sports = 6
+| flagbearer = 
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+'''[[Costa Rica]]''' competed at the '''[[1968 Summer Olympics]]''' in [[Mexico City]], [[Mexico]]. Eighteen competitors, seventeen men and one woman, took part in eighteen events in six sports.<ref name="sports-reference">{{cite web |url=https://www.sports-reference.com/olympics/countries/CRC/summer/1968/ |archive-url=https://web.archive.org/web/20200417093614/https://www.sports-reference.com/olympics/countries/CRC/summer/1968/ |url-status=dead |archive-date=17 April 2020 |title=Costa Rica at the 1968 Mexico City Summer Games |accessdate=13 September 2014 |work=sports-reference.com}}</ref>
+
+==Athletics==
+{{main|Athletics at the 1968 Summer Olympics}}
+
+'''Women's 400 metres'''
+* [[Jean Robotham]]
+** Round 1 &mdash; 58.2 s (→ 8th in heat, did not advance)
+
+'''Men's 5000 metres'''
+* [[Rafael Pérez (athlete)|Rafael Ángel Pérez]]
+** Round 1 &mdash; 15:41.4 min (→ 12th in heat, did not advance)
+
+'''Men's 10,000 metres'''
+* [[Rafael Pérez (athlete)|Rafael Ángel Pérez]] &mdash; 32:14.6 min (→ 31st place)
+
+'''Men's marathon'''
+* [[Rafael Pérez (athlete)|Rafael Ángel Pérez]] &mdash; DNF (→ no ranking)
+
+'''Women's high jump'''
+* [[Sandra Johnson]]
+** Qualification &mdash; DNS (→ no ranking)
+
+'''Women's long jump'''
+* [[Jean Robotham]]
+** Qualification &mdash; 4.75 m (→ no ranking)
+
+'''Women's pentathlon'''
+* [[Jean Robotham]]
+** 80 m hurdles &mdash; 13.4 s (→ 712 points)
+** Shot put &mdash; 8.73 m (→ 615 points)
+** High jump &mdash; NM (→ 0 points)
+** Long jump &mdash; 4.74 m (→ 686 points)
+** 100 m hurdles &mdash; 25.4 s (→ 896 points)
+** ''Total'' &mdash; 2909 pts (→ 32nd place)
+
+==Boxing==
+{{main|Boxing at the 1968 Summer Olympics}}
+
+'''Light welterweight (63.5&nbsp;kg)'''
+* [[José Marín (boxer)|José Marín]]
+** Round 2 - Lost to [[Issaka Dabore]] of [[Niger at the 1968 Summer Olympics|Niger]]
+
+'''Light middleweight (71&nbsp;kg)'''
+* [[Walter Campos]]
+** Round 1 - Lost to [[Stephen Thega]] of [[Kenya at the 1968 Summer Olympics|Kenya]]
+
+==Cycling==
+{{main|Cycling at the 1968 Summer Olympics}}
+Five cyclists represented Costa Rica in 1968.
+
+;[[Cycling at the 1968 Summer Olympics – Men's individual road race|Individual road race]]
+* [[Miguel Ángel Sánchez (cyclist)|Miguel Sánchez]] &mdash; 5:20:59.18 hrs (→ 63rd place)
+* [[José Sánchez (cyclist)|José Sánchez]] &mdash; DNF (→ no ranking)
+* [[José Manuel Soto]] &mdash; DNF (→ no ranking)
+* [[Humberto Solano]] &mdash; DNF (→ no ranking)
+
+;[[Cycling at the 1968 Summer Olympics – Men's team time trial|Team time trial]]
+* [[José Sánchez (cyclist)|José Sánchez]], [[José Manuel Soto]], [[Miguel Ángel Sánchez (cyclist)|Miguel Sánchez]], [[Adrián Solano]] &mdash; 2:36:25.79 hrs (→ 27th place)
+
+==Shooting==
+{{main|Shooting at the 1968 Summer Olympics}}
+Five shooters, all men, represented Costa Rica in 1968.
+
+;[[Shooting at the 1968 Summer Olympics – Mixed 50 metre pistol|50 m pistol]]
+* [[Antonio Mora (sport shooter)|Antonio Mora]] &mdash; 499 pts (→ 67th place)
+* [[Rodrigo Ruiz (sport shooter)|Rodrigo Ruiz]] &mdash; 485 pts (→ 68th place)
+
+;[[Shooting at the 1968 Summer Olympics – Mixed 50 metre rifle three positions|50 m rifle, three positions]]
+* [[Hugo Chamberlain]] &mdash; 1064 pts (→ 57th place)
+
+;[[Shooting at the 1968 Summer Olympics – Mixed 50 metre rifle, prone|50 m rifle, prone]]
+* [[Carlos Pacheco (sport shooter)|Carlos Pacheco]] &mdash; 587 pts (→ 52nd place)
+* [[Hugo Chamberlain]] &mdash; 583 pts (→ 66th place)
+
+;[[Shooting at the 1968 Summer Olympics – Mixed skeet|Skeet]]
+* [[Carlos Pacheco (sport shooter)|Carlos Pacheco]] &mdash; 176 pts (→ 42nd place)
+* [[Jorge André]] &mdash; 75 pts (→ 51st place)
+
+==Swimming==
+{{main|Swimming at the 1968 Summer Olympics}}
+
+'''Men's 100 metres freestyle'''
+* [[Luis Aguilar (swimmer)|Luis Aguilar]]
+** Heats &mdash; 1:04.5 min (→ 7th in heat, did not advance)
+
+'''Men's 200 metres freestyle'''
+* [[Edgar Miranda]]
+** Heats &mdash; DNS (→ no ranking)
+
+==Weightlifting==
+{{main|Weightlifting at the 1968 Summer Olympics}}
+
+'''Middleweight'''
+* [[Luis Fonseca (weightlifter)|Luis Fonseca]]
+** Press &mdash; 107.5&nbsp;kg
+** Snatch &mdash; 97.5&nbsp;kg
+** Jerk &mdash; 130.0&nbsp;kg
+** ''Total'' &mdash; 335.0&nbsp;kg (→ 17th place)
+
+'''Light heavyweight'''
+* [[Rodolfo Castillo]]
+** Press &mdash; 112.5&nbsp;kg
+** Snatch &mdash; 105.0&nbsp;kg
+** Jerk &mdash; 140.0&nbsp;kg
+** ''Total'' &mdash; 357.5&nbsp;kg (→ 21st place)
+
+'''Middle heavyweight'''
+* [[Fernando Esquivel]]
+** Press &mdash; 120.0&nbsp;kg
+** Snatch &mdash; 105.0&nbsp;kg
+** Jerk &mdash; 145.0&nbsp;kg
+** ''Total'' &mdash; 370.0&nbsp;kg (→ 23rd place)
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080522105330/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+**[http://www.la84foundation.org/6oic/OfficialReports/1968/1968v3.pdf Part Three: Results]{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{Nations at the 1968 Summer Olympics}}
+
+[[Category:Nations at the 1968 Summer Olympics]]
+[[Category:Costa Rica at the Summer Olympics by year|1968]]
+[[Category:1968 in Costa Rican sport]]

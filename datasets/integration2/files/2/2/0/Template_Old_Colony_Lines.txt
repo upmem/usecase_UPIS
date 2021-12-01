@@ -1,0 +1,40 @@
+{{routemap
+|inline = <includeonly>1</includeonly>
+|title = Old Colony Lines
+|title-bg = #{{rcr|MBTA|Old Colony Lines}}
+|collapsible = yes
+|collapse = {{#if:{{{collapse|}}}|yes}}
+|navbar = Old Colony Lines
+|navbar pos = 2
+|map =
+{{South Station Quincy rail approach}}
+\d\udSTR\dABZgl+xl\dSTRq\dCONTfq~~ ~~ ~~[[Greenbush Line|<span style="color: #fff; background-color: #{{rcr|MBTA|Greenbush}}; font-weight: bold; padding: 0 3px 0 3px; font-size:0.8em">Greenbush</span>]]
+d\umvSTR!~lvINTACC~~{{BScvt|10.9}}~~{{bts|Braintree}}~~{{rint|boston|red|x}}
+d\udYRDa\dSTR~~ ~~ ~~[[List of Massachusetts Bay Transportation Authority yards|Caddigan Yard]]
+\KRW+l\KRWlr\KRW+r
+\LSTR\\KMW~~ ~~ ~~<span style="color: #fff; background-color: #{{rcr|MBTA|Kingston/Plymouth}}; font-weight: bold; padding: 0 3px 0 3px; font-size:0.8em">Kingston/Plymouth</span>
+\LSTR\\HSTACC~~{{BScvt|15.8}}~~{{bts|South Weymouth}}
+\LSTR\\HSTACC~~{{BScvt|19.4}}~~{{bts|Abington}}
+\LSTR\\HSTACC~~{{BScvt|21.2}}~~{{bts|Whitman}}
+\LSTR\\HSTACC~~{{BScvt|24.4}}~~{{bts|Hanson}}
+\LSTR\\HSTACC~~{{BScvt|28.1}}~~{{bts|Halifax}}
+\LSTR\KRW+l\KRWgr
+\LSTR\ACC\STR~~{{BScvt|35.1}}~~{{bts|Kingston/Route 3}}
+\LSTR\YRDa\STR~~ ~~ ~~[[List of Massachusetts Bay Transportation Authority yards|Kingston Yard]]
+\LSTR\\KHSTACCe~~{{BScvt|35.6}}~~{{bts|Plymouth}}
+\KMW\\~~ ~~ ~~<span style="color: #fff; background-color: #{{rcr|MBTA|Middleborough/Lakeville}}; font-weight: bold; padding: 0 3px 0 3px; font-size:0.8em">Middleborough/Lakeville</span>
+\HSTACC\\~~{{BScvt|15.0}}~~{{bts|Holbrook/Randolph}}
+\HSTACC\\~~{{BScvt|18.6}}~~{{bts|Montello}}
+\ACC\\~~{{BScvt|20.0}}~~{{bts|Brockton}}
+\HSTACC\\~~{{BScvt|21.9}}~~{{bts|Campello}}
+\HSTACC\\~~{{BScvt|27.7}}~~{{bts|Bridgewater}}
+\eHSTACC\\~~{{BScvt|34.5}}~~ ~~{{bts|Middleborough}} ''(proposed)''
+STR+l\ABZgr+r\\~~ ~~ ~~''[[Middleboro Subdivision]]''
+YRD\STR\\~~ ~~ ~~[[List of Massachusetts Bay Transportation Authority yards|Middleboro Yard]]
+CONTf\STR\\~~ ~~ ~~[[South Coast Rail|<span style="color: #fff; background-color: #{{rcr|MBTA|South Coast Rail}}; font-weight: bold; padding: 0 3px 0 3px; font-size:0.8em">South Coast Rail</span>]]&nbsp; ''(Phase 1, future)''
+\ACC\\~~{{BScvt|35.6}}~~{{bts|Middleborough/Lakeville}}
+CONTf\~~ ~~ ~~[[CapeFlyer|<span style="color: #fff; background-color: #{{rcr|MBTA|CapeFlyer}}; font-weight: bold; padding: 0 3px 0 3px; font-size:0.8em">CapeFlyer</span>]] ''via [[Cape Main Line]]''
+}}<noinclude>
+{{US-railway-routemap|Old Colony Lines|place=[[Greater Boston]]-area|type=group of [[MBTA Commuter Rail]] lines|cat=no}}
+[[Category:Massachusetts Bay Transportation Authority line templates|Old Colony]]
+</noinclude>

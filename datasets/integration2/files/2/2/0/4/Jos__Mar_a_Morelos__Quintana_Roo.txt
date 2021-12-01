@@ -1,0 +1,67 @@
+{{Infobox settlement 
+|official_name          = José María Morelos
+|motto                  = 
+|image_skyline          = Palacio Jose María Morelos QR.jpg
+|image_caption          = Jose María Morelos municipal hall
+|pushpin_map            = Mexico
+|pushpin_label_position = left
+|pushpin_map_caption    = Location within Mexico
+|subdivision_type       = Country
+|subdivision_name       = [[{{#property:P17}}]]
+|subdivision_type1      = [[States of Mexico|State]]
+|subdivision_name1      = [[Quintana Roo]]
+|subdivision_type2      = [[Municipalities of Mexico|Municipality]]
+|subdivision_name2      = [[José María Morelos Municipality|José María Morelos]]
+|government_type        = 
+|named_for              = [[{{#property:P138}}]]
+|leader_title           = Municipal President
+|leader_name            = José Dolores Baladez Chi
+|leader_title1          = 
+|leader_name1           = 
+|established_title      =
+|established_date       = 
+|established_title2     = 
+|established_date2      = 
+|established_title3     = 
+|area_magnitude         = 
+|area_total_km2         = 
+|area_note              =
+|area_land_km2          = 
+|area_water_km2         = 
+|area_water_percent     = 
+|area_urban_km2         = 
+|area_footnotes         = 
+|population_as_of       = 2010
+|population_note        = 
+|population_total       = 11750
+|population_density_km2 = auto
+|population_urban       = 
+|population_demonym     = 
+|timezone               = [[North American Eastern Time Zone|Eastern Standard Time]]
+|utc_offset             = -5
+|coordinates            = {{coord|19|45|N|88|42|W|region:MX|display=inline,title}}
+|elevation_m            = 20
+|postal_code_type       = 
+|area_code              = 
+|postal_code            = 
+|website                = {{URL|www.josemariamorelos.gob.mx}}
+|footnotes              =
+}}
+
+'''José María Morelos''' is the municipal seat and largest city in [[José María Morelos Municipality]] in the [[Mexican state]] of [[Quintana Roo]]. According to the 2010 census, the city's population was 11,750 persons.<ref>[http://mapserver.inegi.org.mx/mgn2k/?s=geo&c=1223 2010 census tables: INEGI] {{webarchive|url=https://web.archive.org/web/20130502025339/http://mapserver.inegi.org.mx/mgn2k/?s=geo&c=1223 |date=2013-05-02 }}</ref>
+
+José María Morelos was established in the 19th century with the purpose of exporting wood and [[chicle]]. It was originally called Kilómetro 50, since it was {{Convert|50|km}} from [[Peto Municipality|Peto]]. When Quintana Roo became a state in 1974, the place was renamed after the revolutionary rebel leader [[José María Morelos]], and it became the seat of the namesake municipality.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Commons category-inline}}
+
+{{Quintana Roo}}
+
+{{DEFAULTSORT:Jose Maria Morelos, Quintana Roo}}
+[[Category:Populated places in Quintana Roo]]
+
+
+{{QuintanaRoo-geo-stub}}

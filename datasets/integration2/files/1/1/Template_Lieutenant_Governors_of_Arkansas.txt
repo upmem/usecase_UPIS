@@ -1,0 +1,37 @@
+{{Navbox
+| name      = Lieutenant Governors of Arkansas
+| title     = [[Lieutenant Governor of Arkansas|Lieutenant Governors of Arkansas]]
+| bodyclass = hlist
+| state     = {{{state<includeonly>|collapsed</includeonly>}}}
+| image     = [[File:Seal of Arkansas.svg|75px|link=|alt=]]
+
+| list1  =
+* [[Harvey Parnell|Parnell]]
+* [[William Lee Cazort|Cazort]]
+* [[Lawrence Elery Wilson|Wilson]]
+* [[William Lee Cazort|Cazort]]
+* [[Robert L. Bailey|Bailey]]
+* [[James L. Shaver|Shaver]]
+* [[Nathan Green Gordon|Gordon]]
+* [[Maurice Britt|Britt]]
+* [[Bob C. Riley|Riley]]
+* [[Joe Purcell|Purcell]]
+* [[Winston Bryant|Bryant]]
+* [[Jim Guy Tucker|Tucker]]
+* [[Mike Huckabee|Huckabee]]
+* [[Winthrop Paul Rockefeller|Rockefeller]]
+* [[Bill Halter|Halter]]
+* [[Mark Darr|Darr]]
+* [[Tim Griffin|Griffin]]
+
+| below = 
+}}<noinclude>
+{{collapsible option}}
+
+== See also ==
+* {{tl|Governors of Arkansas}}
+
+[[Category:Arkansas government navigational boxes|Lieutenant Governors]]
+[[Category:United States lieutenant governor navigational boxes|Arkansas]]
+[[Category:Lieutenant Governors of Arkansas|τ]]
+</noinclude>

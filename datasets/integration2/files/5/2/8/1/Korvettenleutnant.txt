@@ -1,0 +1,97 @@
+{{short description|Officer rank in the Austro-Hungarian Navy}}
+{{About|the [[Austro-Hungarian Navy]] rank '''Korvettenleutnant''' [[OF-1b]]|the equivalent rank in other naval forces|Corvette lieutenant|the comperable rank in Anglophone naval forces see|Ensign (rank)}}
+
+{|  style="border:1px solid #8888aa; background-color:#f7f8ff; padding:5px; font-size:95%; margin: 0px 12px 12px 0px; float:right; width:250px"
+|+ 
+|-----
+| bgcolor="#efefef" colspan=2 align="center"|[[File:Flag of Austria-Hungary (1869-1918).svg|left|30px]] '''''Korvettenleutnant'''''<br />in Austria-Hungary
+|-----
+| align="center" colspan=2 style="border-bottom:2px solid gray;font-size:smaller" | 
+{|align="center"
+| 
+| [[File:Korvettenleutnant-Seefähnrich (Österreich-Ungarn).png|150px|Sleeve braid]] 
+|}
+|-----
+| bgcolor="#efefef" | <small>Rank insignia</small> || bgcolor="#dfefff" | [[Austro-Hungarian Navy]]
+|-----
+| bgcolor="#efefef" | <small>Introduction</small>|| bgcolor="#dfefff" | ca. 1916
+|-----
+| bgcolor="#efefef" | <small>Rank group</small>|| bgcolor="#dfefff" | [[Commissioned officer]]s
+|-----
+| bgcolor="#efefef" | <small>Army / Air Force</small>|| bgcolor="#dfefff" | ''Leutnant''
+|-----
+| bgcolor="#efefef" | <small>Navy</small>|| bgcolor="#dfefff" | ''Korvettenleutnant''<!-- ==   
+|-----
+| bgcolor="#efefef" rowspan=2| <small>Lower:<br />Higher:</small>|| bgcolor="#dfefff" | [[Seekadett]]
+|-----
+| bgcolor="#efefef" bgcolor="#dfefff" | [[Fregattenleutnant]]== -->
+|-----
+| bgcolor="#efefef" | [[Ranks and insignia of NATO|NATO<br />equivalent]] || bgcolor="#dfefff" | OF-1b
+|-----
+|}
+
+'''Korvettenleutnant''' ([[Hungarian language|Hun:]] '''Tengerészzászlós''' / en: translation '''Corvette lieutenant''') was an officer rank in the [[Austro-Hungarian Navy]]. It was equivalent to [[Leutnant]] of the [[Austro-Hungarian Army]], as well to [[Leutnant zur See]] of the [[Imperial German Navy]]. Pertaining to the modern day's [[Naval officer ranks#NATO Rank Codes|NATO rank code]] it could be comparable to OF-1b.
+
+The right to be promoted to ''Korvettenleutnant'' was limited to so-called naval reserve officers only. However, professional officers skipped that rank and were regular promote from [[Seefähnrich]] to [[Fregattenleutnant]] (also OF-1a), the next higher rank (comparable to [[Oberleutnant  zur See]]). A ''Korvettenleutnant'' did wear the same rank insignia as a ''[[Seefähnrich]]''.
+
+The rank name was selected in line to the division of war ships to specific ship categories early of the 19th century, e.g. [[corvette]] (de: Korvette), [[frigate]] (de: Fregatte), and to [[ship of the line]] (de: Linienschiff). In the [[Austro-Hungarian Navy]] the appropriate rank designations were derived as follows.
+*[[Korvettenkapitän]] OF-3 (equivalent: to Heer [[Major]])
+*[[Fregattenkapitän]] OF-4 (equivalent: to Heer [[Oberstleutnant]])
+*[[Linienschiffskapitän]] OF5; (equivalent: to deutsche Marine [[Kapitän zur See]] / Heer [[Oberst]])
+
+According to that systematic the rank designations to subaltern – or junior officers were derived as follows:
+*<span style="color:#007;">'''''Korvettenleutnant'''''</span> OF-1b (equivalent to deutsche Marine [[Leutnant zur See]] Heer: [[Leutnant]])
+*[[Fregattenleutnant]] OF-1a (equivalent to deutsche Marine [[Oberleutnant zur See]] / Heer: [[Oberleutnant]])
+*[[Linienschiffsleutnant]] OF-2 (equivalent to deutsche Marine [[Kapitänleutnant]] / Heer:[[Hauptmann]])
+This sequence of ranks can be found in the today´s Croatian naval forces.
+
+{| class="toccolours" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin: 0.5em auto; clear: both;"
+|- align="center"
+|width="30%" rowspan="2" style="background:#cfcfcf;"|junior&nbsp;rank<br>'''[[Seekadett]]'''
+|width="40%"  style="background:#bfbfbf;" |[[Image:Coat of arms of the Austro-Hungarian Navy.png|40px]]<br />'''[[Austro-Hungarian Navy|<small>(k.u.k. Kriegsmarine rank)</small>]]'''<br><span style="color:#007;">'''Seefähnrich'''</span>
+|width="30%" rowspan="2" style="background:#afafaf;"|senior&nbsp;rank<br>'''[[Fregattenleutnant]]'''
+|-align="center"
+|style="background:#bfbfbf;" |<span style="color:#007;">'''Korvettenleutnant'''</span>
+|}
+{{see also|Ranks in the Austro-Hungarian Navy}}
+
+== Other countries ==
+The rank designation ''Korvettenleutnent'' was used continuously in naval forces of former Yugoslavia and as junior officer (OF-1b) rank in modern today’s naval forces of Croatia, Slovenia and Serbia.
+
+{| style="border:1px solid #8888aa; background-color:#f7f8ff; padding:5px; font-size:95%; margin: 0px 12px 12px 0px;"
+|-
+! bgcolor="#CCCCCC" colspan=5| Rank insignia ''Korvettenleutnant''
+|- bgcolor="#CCCCCC"
+!rowspan=2 | Country|| colspan=2| '''Croatia''' || '''Serbia''' || colspan=1|'''Slovenia'''
+|-align="center"
+| colspan=2 | [[File:Seal of Croatian Navy.png|35px]]<br />[[Croatian Navy]] 
+| [[File:RFVSZastava.png|35px]]<br />[[Serbian River Flotilla|River Flotilla]]
+| [[File:Naval jack of Slovenia.svg|35px]]<br />[[Slovenian Navy]]
+|-align="center"
+| style ="background:#CCCCCC;"| Shoulder<br />sleev
+| [[File:Naramenica ljetne odore poručnika korvete HRM.svg|60px]]
+| [[File:Rukav zimske odore poručnika korvete HRM.svg|60px]]
+| [[File:Rf 2 -poručnik korvete.gif|60px]] 
+| [[File:Slovenska vojska por kor.jpg|80px]]
+|- align="center"
+| style="background:#040040; color:white" |Native designation
+| style="background:#cfcfcf;" colspan=2 | [[:hr:Poručnik korvete|Poručnik korvete]]
+| style="background:#cfcfcf;" | [[:sr:Поручник корвете|Поручник корвете]]
+| style="background:#cfcfcf;" | [[:sl:Poročnik korvete|Poročnik korvete]]
+|- bgcolor="#dadada" align="center"
+|[[File:Flag of NATO.svg|25px]] rank
+|colspan=2 |OF-1b 
+! OF-1a
+| OF-1b
+|}
+==See also==
+*[[Croatian military ranks]]
+*[[Military ranks of Serbia]]
+*[[Slovenian military ranks]]
+*[[Ranks and insignia of officers of NATO navies]]
+
+== References ==
+<references />
+{{Military ranks by country}}
+[[Category:Military ranks of Austria]]
+[[Category:Naval ranks]]

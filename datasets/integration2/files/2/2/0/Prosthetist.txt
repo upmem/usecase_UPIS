@@ -1,0 +1,23 @@
+{{refimprove|date=October 2016}}
+A '''Prosthetist and Orthotist''', as defined by The World Health Organization, <ref>{{cite web|title=Standards for Prosthetics and Orthotics|url=https://www.who.int/phi/implementation/assistive_technology/prosthetics_orthotics/en/|last=|first=|date=2017|website=|publisher=World Health Organization|url-status=live|archive-url=|archive-date=|access-date=April 30, 2020|df=}}</ref> is a healthcare professional with overall responsibly of Prosthetics & Orthotics treatment, who can supervise and mentor the practice of other personnel. They are clinicians trained to assess the needs of the user, prescribe treatment, determine the precise technical specifications of prosthesis and Orthosis, take measurements and image of body segments, prepare model of the evaluation, fit devices and evaluate treatment outcome.
+
+A prosthetist is a person who has been qualified and certified to treat a person by using prostheses to residual limbs of the upper and lower extremities. The fitting of lower extremity prostheses, for example, involves making a socket that fits the residuum as a first step. The socket is usually manufactured out of fiberglass or carbon fiber infused with acrylic resin. Also made from thermoplastics over a positive model of the residuum. The socket is connected to a foot or ankle assembly and in the case of above knee amputation, an artificial knee. The connecting components are usually an aluminum tube with two part pyramid alignment devises one at each end. One of the devices connects to the ankle and the other one to the socket. They allow the foot to be placed in proper position to support the person's weight with the least possible lateral forces acting through the system. Prostheses are aligned with the client walking, while the prosthetist observes the gait and corrects for any deviations from optimized movement when the leg is in the air and for its position at heel strike and toe off.
+
+In the [[United States]], a prosthetist may have been certified by either the American Board of Certification in Orthotics, Prosthetics and Pedorthics (ABC) or by the Board of Certification/Accreditation (BOC). The ABC-certified prosthetist using the credential (CP) is a prosthetist who has met the established educational criteria of The American Board for Certification in Orthotics, Prosthetics and Pedorthics, Inc., passed all three certification exams, and maintains certification through mandatory continuing education program and adherence to the [https://web.archive.org/web/20070202002223/http://www.abcop.org/Professional_Discipline.asp Code of Professional Responsibility]<ref>https://www.abcop.org/individual-certification/Pages/OrthotistandProsthetist.aspx</ref>. The BOC-certified prosthetist using the credential (BOCP)is a prosthetist who is recognized professionally as having completed a rigorous education and training program followed by passing of 3 exams (written, practical and clinical simulation) and who maintains certification through mandatory continuing education and adheres to https://www.bocusa.org/files/Code_of_Ethics.pdf. The Centers for Medicare and Medicaid Services (CMS) requires either ABC or BOC certification of the prosthetist in paying for covered prosthetics services.
+
+== India ==
+In India, there is no separate course for Prosthetics only and to be a Prosthetist [for being a clinician to handle patients] on has to do Bachelor degree or above from any RCI and UGC recognised Institute and after obtaining the degree one can only practice after registering him/herself with the Rehabilitation Council of India.
+
+== Iran ==
+Four universities including the [[Iran University of Medical Sciences|Iran University of Medical Science]], [[Isfahan University of Medical Sciences|Isfahan University of Medical Science]], [[University of Social Welfare and Rehabilitation Sciences]] and [[Iran Red Crescent University]] confer bachelor of science in the Prosthetics and Orthotics. Three universities including Isfahan University of Medical Science , the Iran University of Medical Science and University of Social Welfare and Rehabilitation Science also confer [[M.Sc.]] and [[Ph.D]]. New bachelor graduates are eligible to work as an orthotist and prosthetist after registration in the [[Medical Council of Iran]].
+
+==See also==
+*[[Denturist]]
+*[[Orthotist]]
+
+==References==
+{{reflist}}
+
+[[Category:Rehabilitation team]]
+[[Category:Prosthetics]]
+[[Category:Allied health professions]]

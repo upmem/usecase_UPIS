@@ -1,0 +1,70 @@
+{{distinguish|Marangaroo, Western Australia|Barangaroo, New South Wales}}
+{{Use Australian English|date=August 2019}}
+{{Use dmy dates|date=August 2019}}
+{{Infobox Australian place
+| type     = town
+| name     = Marrangaroo
+| state    = nsw
+| image    = 
+| caption  = 
+| coordinates = {{coord|33|26|0|S|150|07|0|E|display=inline,title}}
+| lga      = City of Lithgow
+| postcode = 2790
+| pop      = 869
+| pop_year = {{CensusAU|2006}}
+| pop_footnotes=<ref name=Census2006Y/>
+| est      = 
+| elevation= 1200
+| maxtemp  = 19.1
+| mintemp  = 6.3
+| rainfall = 786.9
+| county   = 
+| stategov = [[Electoral district of Bathurst|Bathurst]]
+| fedgov   = [[Division of Calare|Calare]]
+| dist1    = 
+| location1= [[Sydney, New South Wales|Sydney]] 
+| dist2    = 
+| location2= [[Griffith, New South Wales|Griffith]]
+| dist3    = 5
+| location3= [[Lithgow, New South Wales|Lithgow]]
+}}
+'''Marrangaroo''' is a small town in the [[Central West, New South Wales|Central West]] of [[New South Wales]], [[Australia]] in the [[City of Lithgow]].
+
+== Overview ==
+
+Marrangaroo is located a few kilometres or 5 minutes west of [[Lithgow]].  It is accessible from the [[Great Western Highway]], and has no rail station and little bus services. Lithgow Buslines, a division of [[Buslines Group]], run buses between [[Lithgow, New South Wales|Lithgow]] and [[Bathurst, New South Wales|Bathurst]], which makes limited stops at Marrangaroo on the Great Western Highway.  A main feature of Marrangaroo was the Trout Farm which was opposite the [[Lithgow Correctional Centre]]. At the [[Census in Australia#2006|2006 census]], Marrangaroo had a population of 869.<ref name=Census2006Y>{{Census 2006 AUS|id=SSC17983|name=Marrangaroo (State Suburb) |accessdate=27 October 2009|quick=on}}</ref>
+
+== Military ==
+[[File:Empty LC 250lb bombs.JPG|left|210px|thumb|Empty 250lb bombs]]
+Marrangaroo Army Camp situated at the end of Reserve Road used to be a major ammunition depot from 1941 to the late 1980s.  It is now used for demolitions and various training by all three Australian Defence Force services.  During the World War II it housed chemical warfare facilities; at the time, one of Australia's best kept secrets.  Marrangaroo was the administration headquarters for all of the [[Royal Australian Air Force]] Chemical Weapon Stores which were kept in tunnels and sidings at Marrangaroo (old tunnel and siding near correctional centre), [[Glenbrook, New South Wales|Glenbrook]] tunnel in the Blue Mountains, Clarence Tunnel (that is now part of the [[Lithgow Zig Zag]] railway) and [[Picton, New South Wales|Picton]] tunnel in Sydney's south.<ref>{{cite book |author=Plunkett, Geoff |title=Chemical Warfare in Australia |isbn=9781876439880 |url=http://mustardgas.org/Chemical-Warfare-in-Australia.pdf |format=PDF |publisher=Shannon Books |location=Bayswater, Victoria |year=2007 |accessdate=5 April 2012 }}</ref>
+
+During an interview with Plunkett in 2005, chemical warfare armourer, Geoff Burn mentioned he had been involved in the burial of {{convert|250|lb}} phosgene bombs near the entrance to the headquarters in 1943. He was subsequently recalled from [[Cairns, Queensland|Cairns]] in 1944 to identify the site but was unsure as to whether and if the bombs had been extracted. After Burn marked the site on an aerial map a ground search revealed they were still there. The legacy of these weapons remains with several hundred empty chemical munition containers being found buried at Marrangaroo Army Camp from May 2008 to February 2009.<ref>{{cite news |url=http://mustardgas.org/Bases-Phantom-War-Reveals-Its-Secrets.pdf |title=Base's phantom war reveals its secrets |work=Lithgow Mercury |author=Ashworth, Len |date=7 August 2008 |accessdate=5 April 2012 }}</ref><ref>{{cite news |url=http://mustardgas.org/Chemical-Warfare-Left-Its-Legacy.pdf |title=Chemical warfare left its legacy |work=Lithgow Mercury |author=Ashworth, Len |date=9 August 2008 |accessdate=5 April 2012 }}</ref>
+
+A remediation project to remove heavy metal contamination started in November 2008 with a secondary task to remove any more buried chemical munitions. The revelation of Marrangaroo's history sparked significant local media interest.<ref>{{cite news |url=http://lithgow.yourguide.com.au/news/local/news/general/railway-historians-join-chemical-warfare-issue/1235101.aspx |title=Chemical experiments in the Eighties |work=Lithgow Mercury |author=Ashworth, Len |date=17 July 2008 |accessdate=5 April 2012 |url-status=dead |archiveurl=https://archive.is/20120718005230/http://lithgow.yourguide.com.au/news/local/news/general/railway-historians-join-chemical-warfare-issue/1235101.aspx |archivedate=18 July 2012 }}</ref><ref>{{cite news |url=http://mustardgas.org/Hidden-Newnes-Forest-Storage-Has-Added-To-Military-Puzzle.pdf |title=Hidden Newnes Forest storage has added to military puzzle |work=Lithgow Mercury |author=Ashworth, Len |date=17 July 2008 |accessdate=5 April 2012 |archiveurl=https://web.archive.org/web/20170318015554/http://mustardgas.org/Hidden-Newnes-Forest-Storage-Has-Added-To-Military-Puzzle.pdf|archivedate=18 July 2012}}</ref><ref>{{cite news |url=http://mustardgas.org/Railway-Historians-Join-Chemical-Warfare-Issue.pdf |title=Railway historians join chemical warfare issue |work=Lithgow Mercury |author=Ashworth, Len |date=5 August 2008 |accessdate=5 April 2012 }}</ref><ref>{{cite news |url=http://mustardgas.org/Chemical-Experiments-In-The-Eighties.pdf |title=Chemical experiments in the Eighties |work=Lithgow Mercury |author=Ashworth, Len |date=17 July 2008 |accessdate=5 April 2012 }}</ref><ref>{{cite news |url=http://mustardgas.org/Mustard-Gas-Tainted-Our-Reputation.pdf |title=Mustard gas tainted our reputation |work=Lithgow Mercury |author=Ashworth, Len |date=8 July 2008 |accessdate=5 April 2012 }}</ref><ref>{{cite news |url=http://www.news.com.au/dailytelegraph/story/0,22049,24380097-5001021,00.html |title=Chemical bombs sit metres from Lithgow families for 60 years |work=The Daily Telegraph |location=Australia |author=Vollmer, Tim |date=22 September 2008 |accessdate=5 April 2012 }}</ref><ref>{{cite news |url=http://mustardgas.org/Cleansing-Our-Sins.pdf |title=Cleansing our military 'sins' |work=Lithgow Mercury |author=Geddes, Jeff |date=7 February 2009 |accessdate=5 April 2012 }}</ref> The Department of Defence established a website for community consultation and feedback on the decontamination.<ref>{{cite web |url=http://www.defence.gov.au/id/marrangaroo/default.htm |title=Marrangaroo Army Depot Environmental Remediation Project |date=6 August 2009 |publisher=Department of Defence |accessdate=5 April 2012 }}</ref>
+
+== Transport ==
+[[File:Railway Station - Marrangaroo (2826732226).jpg|right|thumb|250px|Marrangaroo station c. 1950s.]]
+A railway station opened at Marrangaroo on the [[Main Western railway line, New South Wales|Main Western line]] in 1878 and closed in 1974. Little trace of it remains.<ref>{{cite web |url=http://www.nswrail.net/locations/show.php?name=NSW:Marrangaroo&line=NSW:main_west:0 |title=Marrangaroo station |publisher=NSWrail.net |date= |accessdate=8 August 2009 }}</ref> Also, it has been suggested as the western terminus for the proposed [[Bells Line of Road|Bells Line Expressway]].<ref>{{cite web |url=http://www.rta.nsw.gov.au/roadprojects/projects/sydney_region/outer_west_blue_mtns/bells_line_road_planning/documents/FINAL_Background_Summary_and_Corridor_Objectives_Report.pdf |format=PDF |title=Bells Line of Road Long Term Strategic Corridor Plan: Background Summary and Corridor Objectives Report |publisher=NSW Roads and Traffic Authority |date=27 October 2010 |accessdate=19 April 2012 }}</ref>
+
+{{Adjacent stations
+|system1=State Rail Authority
+|line3=Main Western|left3=Wallerawang|right3=Bowenfels
+}}
+
+== Shale oil ==
+During the calendar  years 1943 to 1945 inclusive, Lithgow Oil Proprietary Ltd, at Marangaroo, produced around 2,000,000 gallons of crude shale oil. Under wartime conditions, that company had designed and constructed its own [[Nevada–Texas–Utah retort|NTU retorts]] based on information from a [[United States Bureau of Mines|Bureau of Mines]] publication. The crude shale oil was refined at the [[Glen Davis Shale Oil Works]].<ref name="kraemer2">{{Cite book|last1=Kraemer|first1=A.J.|url=https://digital.library.unt.edu/ark:/67531/metadc38561/m2/1/high_res_d/metadc38561.pdf|title=Oil Shale Operations in New South Wales, Australia|last2=Thorne|first2=H.M.|date=July 1951|publisher=[[United States Department of the Interior]]|year=|isbn=|location=|pages=10,11, 42|format=PDF|accessdate=2012-12-02}}</ref><ref>{{Cite news|date=1945-11-17|title=Lithgow Shale Oil Plant Closed Down|pages=3|work=Newcastle Morning Herald and Miners' Advocate (NSW : 1876 - 1954)|url=http://nla.gov.au/nla.news-article134370167|access-date=2020-07-01}}</ref> The Marangaroo oil shale deposit was small but exceptionally rich, assaying 237 gallons per long ton.<ref name="kraemer2" />
+
+== Heritage listings ==
+Marrangaroo has a number of heritage-listed sites, including:
+* Main Western railway: [[Marrangaroo railway viaduct]]<ref name=nswshr-1046>{{cite NSW SHR|5012095|Marrangaroo railway viaduct|hr=01046|accessdate=18 May 2018}}</ref>
+
+== References ==
+{{Reflist}}<!--added under references heading by script-assisted edit-->
+
+{{City of Lithgow topics|state=collapsed}}
+{{authority control}}
+
+[[Category:Marrangaroo, New South Wales| ]]
+[[Category:Towns in New South Wales]]
+[[Category:Main Western railway line, New South Wales]]
+[[Category:Mining towns in New South Wales]]

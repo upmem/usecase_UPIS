@@ -1,0 +1,64 @@
+{{short description|Canadian ice hockey player}}
+{{Use mdy dates|date=July 2015}}
+{{Infobox ice hockey player
+| alt = 
+| name = Daryl Harpe
+| image = 
+| caption = 
+| image_size = 230px
+| played_for = '''''[[ECHL]]'''''<br>[[Erie Panthers]]<br>[[Cincinnati Cyclones]]<br>[[Knoxville Cherokees]]<br>[[Tulsa Oilers]]<br>'''''[[Atlantic Coast Hockey League (1981–87)|ACHL]]'''''<br>[[Erie Golden Blades]]
+| position = [[Forward (ice hockey)|Forward]]
+| shoots = 
+| height_ft = 5
+| height_in = 11
+| weight_lb = 170
+| birth_date = {{birth date and age|1966|08|12}}
+| birth_place = [[Fort McMurray]], [[Alberta]], Canada
+| career_start = 1987
+| career_end = 1992
+}}
+'''Daryl Harpe''' (born August 12, 1966) is a [[Canadians|Canadian]] former professional [[ice hockey]] player.
+
+From 1983 to 1986, Harpe played junior hockey, and is the all-time leading scorer, for the now defunct [[Hobbema Hawks]] of the [[Alberta Junior Hockey League]] (AJHL).<ref>http://www.fortmacconnect.ca/2013/11/hometown-hockey-hero-young-guns/</ref>
+
+Harpe played 182 regular season games and 15 playoff games in the [[East Coast Hockey League]] (ECHL) with the [[Erie Panthers]] , [[Cincinnati Cyclones]], and [[Knoxville Cherokees]]. During the inaugural [[1988–89 ECHL season]], Harpe scored 34 goals and 86 assists with the [[Erie Panthers]] to lead the ECHL with 122 points. He was selected the [[ECHL Most Valuable Player]] and named to the 1988–89 All-ECHL Team.
+
+==Awards and honours==
+{| class="wikitable"
+! Award
+! Year
+!
+|-
+| [[ECHL Leading Scorer Award]] (122 points)
+| [[1988–89 ECHL season]] 
+| <ref>{{Cite web |url=http://www.echl.com/leading-scorers-p144418 |title=Archived copy |access-date=July 16, 2015 |archive-url=https://web.archive.org/web/20150721021120/http://www.echl.com/leading-scorers-p144418 |archive-date=July 21, 2015 |url-status=dead }}</ref>
+|-
+| All-ECHL Team
+| [[1988–89 ECHL season]] 
+| 
+|-
+| [[ECHL Most Valuable Player]]
+| [[1988–89 ECHL season]] 
+| <ref>{{Cite web |url=http://www.echl.com/jakaitis-named-ccm-hockey-echl-most-valuable-player-p197467 |title=Archived copy |access-date=July 16, 2015 |archive-url=https://web.archive.org/web/20150924004453/http://www.echl.com/jakaitis-named-ccm-hockey-echl-most-valuable-player-p197467 |archive-date=September 24, 2015 |url-status=dead }}</ref>
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{icehockeystats}}
+
+{{DEFAULTSORT:Harpe, Daryl}}
+[[Category:1966 births]]
+[[Category:Living people]]
+[[Category:Alberta Junior Hockey League players]]
+[[Category:Canadian ice hockey forwards]]
+[[Category:Cincinnati Cyclones (ECHL) players]]
+[[Category:Erie Golden Blades players]]
+[[Category:Erie Panthers players]]
+[[Category:Ice hockey people from Alberta]]
+[[Category:Knoxville Cherokees players]]
+[[Category:People from Fort McMurray]]
+
+{{Canada-icehockey-player-stub}}

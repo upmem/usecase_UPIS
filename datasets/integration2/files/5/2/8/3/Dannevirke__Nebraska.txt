@@ -1,0 +1,37 @@
+{{Infobox settlement
+| name                            = Dannevirke, Nebraska
+| settlement_type                 = [[Unincorporated area|Unincorporated Community]]
+| image_skyline                   = Dannevirke hall from E.JPG
+| image_caption                   = Dannevirke Community Hall
+| pushpin_map                     = USA Nebraska
+| coordinates                     = {{coord}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[List of U.S. states|State]]
+| subdivision_type2               = [[List of counties in Nebraska|County]]
+| subdivision_name1               = {{flag|Nebraska}}
+| subdivision_name2               = [[Howard County, Nebraska|Howard]]
+| established_title               = Founded
+| established_date                = 
+}}
+
+'''Dannevirke''' is an [[unincorporated community]] in [[Howard County, Nebraska|Howard County]], [[Nebraska]], United States.<ref>{{GNIS|828577}}</ref>
+
+==History==
+A post office was established at Dannevirke in the 1880s.<ref>{{cite web | url=http://www.postalhistory.com/postoffices.asp?task=display&state=NE&county=Howard | title=Howard County | publisher=Jim Forte Postal History | accessdate=13 August 2014}}</ref> A majority of the early settlers being natives of Denmark caused the name of [[Danevirke|Dannevirke]], for the old Danish fortification, to be selected.<ref>{{cite book|last1=Hickey|first1=Donald R.|last2=Wunder|first2=Susan A.|last3=Wunder|first3=John R.|title=Nebraska Moments|url=https://books.google.com/books?id=5dtgP41CyK4C&pg=PA118|year=2007|publisher=U of Nebraska Press|isbn=0-8032-1572-X|page=118}}</ref><ref>{{cite book|author=Federal Writers' Project|title=Nebraska: A Guide to the Cornhusker State|url=https://books.google.com/books?id=AZln_ns0-qIC&pg=PA293|year=1939|publisher=WPA|isbn=0-8032-6918-8|page=293}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Howard County, Nebraska}}
+
+{{coord|41|19|21|N|98|42|30|W|type:city_region:US-NE_source:GNIS-enwiki|display=title}}
+
+{{authority control}}
+
+[[Category:Danish-American culture in Nebraska]]
+[[Category:Unincorporated communities in Howard County, Nebraska]]
+[[Category:Unincorporated communities in Nebraska]]
+
+
+{{HowardCountyNE-geo-stub}}

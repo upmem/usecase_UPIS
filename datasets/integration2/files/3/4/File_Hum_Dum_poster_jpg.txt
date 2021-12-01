@@ -1,0 +1,15 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Poster of the 2005 film 'Hum Dum'
+|Source = http://www.hindilinks4u.to/2007/08/hum-dum-2005.html
+|Date = 2005
+|Author = Sarvodaya Visuals
+|Article = Hum Dum
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = Only main infobox.
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free movie poster}}

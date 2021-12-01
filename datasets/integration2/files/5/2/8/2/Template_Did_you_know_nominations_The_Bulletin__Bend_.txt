@@ -1,0 +1,14 @@
+{{#if:yes|<noinclude>[[Category:Passed DYK nominations&nbsp;from August 2013]]<div style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived discussion of the DYK nomination of the article below. <span style="color:red">'''Please do not modify this page.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as [[{{TALKPAGENAME}}|this nomination's talk page]], [[Talk:{{SUBPAGENAME}}|the article's talk page]] or [[Wikipedia talk:Did you know]]), unless there is consensus to re-open the discussion at this page.  '''No further edits should be made to this page'''.''
+
+The result was: '''promoted''' by ''[[User: Allen3|Allen3]]''&nbsp;<sup>[[User talk:Allen3|talk]]</sup> 13:54, 2 September 2013 (UTC)<br />}}
+{{DYKC}}
+====The Bulletin (Bend)====
+{{DYK nompage links|nompage=The Bulletin (Bend)|The Bulletin (Bend)}}
+*... that the original office for '''[[The Bulletin (Bend)|''The Bulletin'']]''', the first newspaper in [[Bend, Oregon|Bend]], [[Oregon]], was in a rustic cabin located on the banks of the [[Deschutes River (Oregon)|Deschutes River]]?
+:* ''Reviewed'': [[Template:Did you know nominations/Clarence Chesterfield Howerton|Clarence Chesterfield Howerton]]
+:* ''Comment'': Hook source is from [http://www.orenews.com/web/members/op/OPAugust2003.pdf Ref 3] (top of p. 6) and Ref 1 (''East of the Cascades'' by Phil Brogan, pp. 213-214; unfortunately, that source is not available on-line)
+<small>Created/expanded by [[User:Orygun|Orygun]] ([[User talk:Orygun|talk]]), [[User:Valfontis|Valfontis]] ([[User talk:Valfontis|talk]]).&nbsp;Nominated by [[User:Orygun|Orygun]] ([[User talk:Orygun|talk]]) at 23:54, 24 August 2013 (UTC)</small>.
+
+:* [[File:Symbol confirmed.svg|16px]] This article is a five-fold expansion and is new enough and long enough. I added extra citations to the sentence backing up the hook. Although [[User:Valfontis|Valfontis]] has been credited for taking part in the expansion, I see no mention of this in the article history. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 08:09, 31 August 2013 (UTC)
+::* You are correct, [[User:Valfontis|Valfontis]] was not involved in the expansion; however, that was editor who first created article.  If including original editor isn't necessary, single editor credit is fine.  Hopefully, this this won't hold up DYK release.--[[User:Orygun|Orygun]] ([[User talk:Orygun|talk]]) 21:13, 1 September 2013 (UTC){{#if:yes|</div></noinclude>|{{#ifeq:{{FULLPAGENAME}}|Template talk:Did you know/{{SUBPAGENAME}}|[[Category:Pending DYK nominations]][[Category:DYK/Nominations|Pending]]|{{#ifeq:{{FULLPAGENAME}}|Template:Did you know nominations/{{SUBPAGENAME}}|[[Category:DYK/Nominations|Pending]][[Category:Pending DYK nominations]]}}}}}}<!--Please do not write below this line or remove this line. Place comments above this line.-->

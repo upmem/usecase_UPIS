@@ -1,0 +1,16 @@
+==Summary==
+Logo for the TV1 production of [[The King (the story of Graham Kennedy)]] TV program.
+==Licensing==
+{{Non-free logo|image has rationale=yes}}
+==Rationale==
+{{Non-free use rationale
+|Article= The King (2007 film)
+|Description= TV Logo of opening title of series in question
+|Source= [[TV1 (Australia)|TV1]]
+|Portion= Title/Logo
+|Low_resolution= It is a low resolution copy of the image/screenshot.
+|Purpose= It illustrates educational articles about the subject represented by the image. The image is used as the primary means of visual identification of the program in the article.
+|Replaceability= It is not replaceable with an uncopyrighted or freely copyrighted image of comparable educational value. A free image could not be created to replace it without itself being a derivative work.
+}}
+
+[[Category:Television program logos|King, The]]

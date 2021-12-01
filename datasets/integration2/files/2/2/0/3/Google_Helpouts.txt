@@ -1,0 +1,55 @@
+{{More footnotes|date=November 2013}}
+
+{{Infobox website
+| name             = Helpouts by Google
+| logo             = [[File:Google-helpouts.png|128px|Logo of Hangouts]]
+| url              = [https://helpouts.google.com/ helpouts.google.com]
+| commercial       = Yes
+| type             = Marketplace
+| language         = English
+| registration     = Closed as of April 20th, 2015
+| owner            = Google inc
+| current_status   = Closed, April 20, 2015
+| launch_date      = 2013
+}}
+
+'''Google Helpouts''' was an online collaboration service from [[Google]] which launched in November 2013 and allowed users to share their expertise through live video and provide real-time help from their computers or mobile devices. As of April 20, 2015, Google closed Google Helpouts.<ref>[http://googleblog.blogspot.in/2013/11/introducing-helpouts-help-when-you-need.html Official Blog: Introducing Helpouts: Help when you need it over live video]. Googleblog.blogspot.in. Retrieved on 2013-11-05.</ref>
+
+==Operation==
+People offering help through Helpouts, called "providers," could be companies or individuals. Providers were required to be native English speakers and a resident of U.S., Canada, Ireland, U.K., Australia or New Zealand.  They created and maintained listings that explained what they offered, their qualifications, prices, and schedules. Providers were required to pass Google's screening process to qualify.
+
+Every listing had a link to the provider's Helpouts calendar. Once a Helpout was scheduled, it could automatically be added to users' [[Google Calendar]], and users could choose whether they wish to be notified through email or SMS.
+
+All payments were done through [[Google Wallet]]. Prices were set by the providers, based on either a per minute or per Helpout session. At the end of each Helpout, users were asked to write a review. Helpouts offered a money-back guarantee. If a user was not satisfied with a Helpout, the user could apply for a refund within 72 hours from the end of their session. [[Google]] had a cancellation policy that stated that some providers may have a cancellation fee.<ref>{{cite web|author=Helpouts |url=https://support.google.com/helpouts/answer/3423675?p=desktop_cancel&rd=1 |title=Cancellations - Helpouts Help |publisher=Support.google.com |date= |accessdate=2013-11-15}}</ref> In those cases customers were required to call in 24 hours prior to the session to avoid the fee, which was either 50% of the fixed session price or five times the per-minute rate.
+
+On April 20, 2015, Google officially shut down Helpouts stating that the service hadn't, "grown at the pace we had expected."<ref name=faq>{{cite web|title=Google Helpouts Help|url=https://support.google.com/helpouts|publisher=Google|accessdate=6 May 2015}}</ref><ref name=opam>{{cite web|last1=Opam|first1=Kwame|title=Google is shutting down live lesson marketplace Helpouts in April|url=https://www.theverge.com/2015/2/15/8039801/google-helpouts-shutdown-april-20|website=The Verge|accessdate=6 May 2015}}</ref>
+
+==Categories==
+Helpouts categorizes help into the following categories:
+* [[Art]] & [[Music]]
+* [[Computers]] & [[Electronics]]
+* [[Cooking]]
+* [[Education]] & [[Careers]]
+* [[Fashion]] & [[Beauty]]
+* [[Physical fitness|Fitness]] & [[Nutrition]]
+* [[Health]]
+* [[Home]] & [[Garden]]<ref name=vest>{{cite web|last1=Vest|first1=Jeremy|title=Google Helpouts: Video Training from Experts|url=http://www.learningsolutionsmag.com/articles/1309/google-helpouts-video-training-from-experts|website=Learning Solutions Magazine|accessdate=6 May 2015|date=21 Nov 2013}}</ref>
+
+==Citations==
+{{reflist}}
+
+==References==
+* [http://www.indianexpress.com/news/google-offers-live-video-chats-with-experts-through-helpouts-service/1191100/ Google offers live video chats with experts through Helpouts service]. Indian Express. Retrieved on 2013-11-05.
+* [http://techland.time.com/2013/11/05/google-helpouts-promises-real-help-from-real-people-in-real-time/ Google Helpouts Promises ‘Real Help from Real People in Real Time’ — for a Price | TIME.com]. Techland.time.com. Retrieved on 2013-11-05.
+* [http://www.pcworld.com/article/2060860/google-introduces-helpouts-a-new-way-to-get-help-over-video.html Google introduces Helpouts to connect experts with advice-seekers via video]. PCWorld (2013-10-31). Retrieved on 2013-11-05.
+* [http://blogs.computerworld.com/cloud-computing/23081/google-helpouts-will-change-world-or-not-itbwcw Google Helpouts will change the world (or not) | Computerworld Blogs]. Blogs.computerworld.com. Retrieved on 2013-11-05.
+* [https://www.theguardian.com/technology/2013/nov/05/google-launches-helpout-for-paid-live-video-chat Google launches Helpouts: paid live video chats with experts | Technology]. theguardian.com. Retrieved on 2013-11-05.
+* [https://techcrunch.com/2013/11/04/google-launches-helpouts-paid-video-chats-with-experts-to-address-whatever-is-bothering-you-right-now/ Google Launches Helpouts, Paid Video Chats With Experts To Address Whatever Is Bothering You Right Now]. TechCrunch (2013-07-24). Retrieved on 2013-11-05.
+* [http://mashable.com/2013/11/05/google-helpouts-brief/ Google Helpouts and Other News You Need to Know]. Mashable.com (2011-11-18). Retrieved on 2013-11-05.
+* [http://readwrite.com/2013/11/05/google-helpouts-offer-one-on-one-expert-help Google Helpouts Offer One-On-One Expert Help – ReadWrite]. Readwrite.com. Retrieved on 2013-11-05.
+* [http://lifehacker.com/google-helpouts-connects-you-with-experts-via-video-cha-1458682999 Google Helpouts Connects You With Experts via Video Chat]. Lifehacker.com. Retrieved on 2013-11-05.
+* [https://gizmodo.com/google-helpouts-is-here-to-help-you-with-basically-anyt-1458601351 Google Helpouts Is Here to Help You With Basically Anything]. Gizmodo.com. Retrieved on 2013-11-05.
+* {{cite web|url=https://www.theregister.co.uk/2013/11/05/google_helpouts/ |title=Google Helpout live vids: Helping you help us help ourselves, says web giant |publisher=[[The Register]] |date=2013-11-05}}
+
+[[Category:Collaborative software]]
+[[Category:Discontinued Google services|Helpouts]]

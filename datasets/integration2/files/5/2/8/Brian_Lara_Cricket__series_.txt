@@ -1,0 +1,79 @@
+{{Infobox video game series
+| width = 
+| title = Brian Lara Cricket
+| collapsible = 
+| state = 
+| image = 
+| caption = 
+| platforms = [[DOS]], [[Sega Mega Drive]], [[Commodore Amiga]], [[PlayStation]], [[Microsoft Windows|Windows]], [[PlayStation 2]], [[Xbox (console)|Xbox]], [[PlayStation Vita]]
+| developer = [[West Indies|West Indian]]
+| publisher = [[Codemasters]]
+| genre = [[Sports game]]
+| first release version = [[Brian Lara Cricket]]
+| first release date = 1994
+| latest release version = [[Brian Lara Pressure Play]]
+| latest release date = 2007
+| spinoffs = 
+}}
+'''Brian Lara Cricket''' is a series of six [[cricket]] video games that are endorsed by the [[West Indies|West Indian]] cricketer [[Brian Lara]] and published by [[Codemasters]].
+
+==Games==
+As of 2007, there are six games in the Brian Lara Cricket series on eight video game systems, spanning thirteen years.
+
+===Brian Lara Cricket===
+{{main|Brian Lara Cricket}}
+Brian Lara Cricket is the first game in the series to be endorsed by [[Brian Lara]]. It was developed by [[Audiogenic]] and published by [[Codemasters]] in 1994 for [[DOS]] and then a year later in 1995 for the [[Sega]] [[Mega Drive]] and [[Commodore Amiga]] systems.
+
+===Brian Lara Cricket '96===
+{{main|Brian Lara Cricket '96}}
+Also known as Lara '96, this game is a new version of Brian Lara Cricket on the Mega Drive with updated player names and statistics. It is the final game in the series to be developed by [[Audiogenic]] and was published by [[Codemasters]] in 1996.
+
+===Brian Lara Cricket '99===
+{{main|Brian Lara Cricket '99}}
+Released in 1999, this was the first 3D accelerated game in the series. It was the first [[History of video game consoles (fifth generation)|fifth generation]] game in the series, developed and shipped by [[Codemasters]] for the [[PlayStation|Sony PlayStation]] and [[Microsoft Windows|Windows]] platforms with commentary provided by [[Geoffrey Boycott]] and [[Jonathan Agnew]]. This game was also branded as Shane Warne Cricket '99 in Australia and New Zealand.
+
+===Brian Lara International Cricket 2005===
+<!-- Deleted image removed: [[Image:Brianlaracricketscreenshot.jpg|thumb|right|200px|Brian Lara International Cricket 2005]] -->
+{{main|Brian Lara International Cricket 2005}}
+Developed by [[Swordfish Studios]] for [[Codemasters]], Brian Lara International Cricket 2005 is a [[History of video game consoles (sixth generation)|6th generation]] console game for the [[PlayStation 2]], [[Xbox (console)|Xbox]] and [[Microsoft Windows|Windows]]. It was released to coincide with the [[2005 Ashes series]]. BLIC 2005 builds on the [[3D computer graphics|3D]] environment that was first introduced in Brian Lara Cricket '99 and enhances it with [[Rendering (computer graphics)|rendered]] crowds and detailed stadia.  It was released in Australia as Ricky Ponting International Cricket 2005
+
+===Brian Lara International Cricket 2007===
+{{main|Brian Lara International Cricket 2007}}
+[[Image:Brian-Lara-2007.jpg|thumb|right|200px|Brian Lara International Cricket 2007]]
+Off the success of ''BLIC2005'', Brian Lara International Cricket 2007 was developed. Using the same release date tactics as the previous game, it was shipped during the [[2007 Cricket World Cup]]. The game was available for the [[PlayStation 2]] and [[Xbox 360]] consoles, as well as for [[Microsoft Windows|Windows]]. This version includes many graphical as well as gameplay improvements. The Xbox 360 version is the first console port in the series to be in [[high-definition television|high definition]] [[widescreen]]. Gameplay improvements include analogue direction control when batting, this allows the player to attempt to hit the ball in any direction. In India, it was released as '[[Yuvraj Singh]] International Cricket 2007'. It was also the second game in the [[Ricky Ponting]] international series.
+
+===Brian Lara Pressure Play===
+{{main|Brian Lara Pressure Play}}
+Brian Lara Pressure Play is a [[PlayStation Portable|PSP]]-only version of the game, released in 2007.
+
+==History==
+In 1985, Michael McLean at [[Audiogenic]], a subsidiary of [[Supersoft]] wrote [[Graham Gooch's Test Cricket]] for the [[Commodore 64|C64]] computer system.<ref>{{cite web| url=http://www.gamebase64.com/oldsite/gameofweek/5/gotw_ggtestcricket.htm | title=Review of Graham Gooch's Test Cricket with release details | accessdate=2007-03-23}}</ref> The game sold well and received high ratings, and so [[Audiogenic]] followed it up with [[Graham Gooch's All Star Cricket]] in 1987.<ref>{{cite web| url=http://www.allgame.com/cg/agg.dll?p=agg&sql=1:19759 | title=Release details of Graham Gooch's All Star Cricket on Allgame.com | accessdate=2007-03-23}}</ref> The game that was to become [[Graham Gooch World Class Cricket]] was scheduled to be released for the [[Amiga]] and [[Atari ST]] in 1991, but development was delayed to ensure quality. When it did eventually appear in 1993 it was a huge success,<ref>{{cite web | url=http://amigareviews.classicgaming.gamespy.com/grahamgo.htm | title=CU Amiga review of Graham Gooch's World Class Cricket from 1993 | accessdate=2007-03-23 | url-status=dead | archiveurl=https://web.archive.org/web/20070515075445/http://amigareviews.classicgaming.gamespy.com/grahamgo.htm | archivedate=2007-05-15 }}</ref> reaching No.1 in the [[Amiga]] charts. A PC version followed a year later.
+
+In 1994 Audiogenic identified an opportunity to capitalise on the success of [[Brian Lara]], who had broken two long-standing world records, and rebranded World Class Cricket game as [[Brian Lara Cricket]], initially for the [[DOS]] but also later for the [[Amiga]]. A year later Audiogenic licensed [[Brian Lara Cricket]] for the [[Sega]] [[Mega Drive]] to [[Codemasters]]. It was successful and spent 10 weeks at No.1 in the UK video games chart during the summer of 1995. [[Brian Lara Cricket '96]] was released the following year in 1996 also by [[Codemasters]], and it too got to No.1 in the charts. In late 1996 [[Codemasters]] acquired the [[Audiogenic]] development and [[Brian Lara Cricket '99]] for the [[PlayStation]] console was released in 1998.
+
+In 2005 Codemasters released [[Brian Lara International Cricket 2005]] for the [[PlayStation 2]] console, it was released on 21 July to coincide with the start of the 2005 [[The Ashes|Ashes]] series. The game received high ratings.<ref>{{cite web| url=http://www.mobygames.com/game/brian-lara-international-cricket-2005/ | title=Mobygames webpage on Brian Lara International Cricket 2005 | accessdate=2007-03-23}}</ref> Off the back of this success, Codemasters has developed [[Brian Lara International Cricket 2007]] which was released in March, 2007, to coincide with the [[2007 Cricket World Cup]]. [[Brian Lara Pressure Play]] followed in August for the [[PlayStation Portable|PSP]],<ref>{{cite press release | url=http://www.codemasters.co.uk/press/?showarticle=10713 | title=Brian Lara 2007 Pressure Play smashes into shops today | publisher=[[Codemasters]] | date=2007-08-31 | accessdate=2007-11-06 }}{{Dead link|date=October 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> reaching No.1 in its first week on release.<ref>{{cite press release | url=http://www.codemasters.co.uk/press/?showarticle=10796 | title=Brian Lara 2007 Pressure Play Hits Number One in the Charts | date=2007-09-07 | accessdate=2007-11-06 | publisher=[[Codemasters]] | archive-url=https://web.archive.org/web/20071111050338/http://www.codemasters.co.uk/press/?showarticle=10796 | archive-date=2007-11-11 | url-status=dead }}</ref>
+
+With Brian Lara's retirement from professional cricket in 2007 Codemasters moved away from using Lara in the title. The next cricket game released by the publisher was [[Ashes Cricket 2009]] in August 2009, which continues with the same playing style as the Brian Lara series of cricket games.<ref>{{cite web | url=http://uk.ps3.ign.com/articles/101/1010860p1.html | title=Ashes Cricket 2009 UK Review | date=2009-08-05 | accessdate=2010-08-01 | author=Robinson, Martin | publisher=[[IGN UK]]}}</ref> [[Codemasters]] has released the latest [[International Cricket 2010]] on June 18, 2010 as a sequel to the [[Ashes Cricket 2009]]. The Cricket series is moving on after Brian Lara's retirement and re-branding of the video games series.
+
+==See also==
+*[[International Cricket 2010]]
+*[[Ashes Cricket 2009]]
+*[[Graham Gooch's Test Cricket]]
+*[[Graham Gooch's All Star Cricket]]
+*[[Graham Gooch World Class Cricket]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.audiogenic.com/cricket.htm Official Audiogenic cricket game catalogue]
+*[https://web.archive.org/web/20081217015227/http://www.codemasters.co.uk/ Official Codemasters website]
+*{{moby game|id=-group/brian-lara-cricket-series|name=The ''Brian Lara Cricket'' series}}
+
+{{Codemasters}}
+
+{{DEFAULTSORT:Brian Lara Cricket (Series)}}
+[[Category:Codemasters franchises]]
+[[Category:Cricket video games]]
+[[Category:Video game franchises]]
+[[Category:Brian Lara video games|Lara, Brian Cricket (series)]]

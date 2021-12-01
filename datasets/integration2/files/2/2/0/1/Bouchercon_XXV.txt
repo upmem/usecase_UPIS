@@ -1,0 +1,103 @@
+{{Use mdy dates|date=March 2012}}
+{{Infobox award
+| name           = Bouchercon XXV
+| subheader      = 
+| date           = {{Start date|1994|10|06}}
+| location       = [[Seattle, Washington]]
+| country        = USA
+| host           = Thom Walls
+| website        = <!-- {{URL|example.com}} -->
+| previous       = [[Bouchercon XXIV|XXIV]]
+| main           = [[Bouchercon]]
+| next           = [[Bouchercon XXVI|XXVI]]
+}}
+[[Bouchercon]] is an annual [[fan convention|convention]] of creators and devotees of [[mystery fiction|mystery]] and [[detective fiction]].<ref>{{cite web |url=http://www.bouchercon.info/index.html |title=Bouchercon World Mystery Convention : Home |publisher=Bouchercon.info |accessdate=January 30, 2012 |archive-url=https://web.archive.org/web/20130112224218/http://www.bouchercon.info/index.html |archive-date=January 12, 2013 |url-status=dead }}</ref> It is named in honour of writer, reviewer, and editor [[Anthony Boucher]]; also the inspiration for the [[Anthony Awards]], which have been issued at the convention since 1986.<ref>{{cite web |url=http://www.libraryjournal.com/lj/home/887593-264/bouchercon_2010_by_the_bay.html.csp |archive-url=https://archive.is/20120905081837/http://www.libraryjournal.com/lj/home/887593-264/bouchercon_2010_by_the_bay.html.csp |url-status=dead |archive-date=September 5, 2012 |title=Bouchercon 2010 by the Bay: The World Series of Mystery |publisher=Libraryjournal.com |date=November 4, 2010 |accessdate=January 30, 2012 |first=Teresa |last=Jacobsen }}</ref> This page details '''Bouchercon XXV''' and the 9th Anthony Awards ceremony.
+
+==Bouchercon==
+The convention was held in [[Seattle, Washington]] from October 6 to 9, 1994.<ref>{{cite web|url=http://community.seattletimes.nwsource.com/archive/?date=19941004&slug=1934030 |title=Entertainment & the Arts &#124; Mystery Fans Can Book Some Time With Their Favorites &#124; Seattle Times Newspaper |publisher=Community.seattletimes.nwsource.com |date=October 4, 1994 |accessdate=February 9, 2012}}</ref> The event was chaired by photographer Thom Walls.
+
+===Special Guests===
+*Lifetime Achievement award — [[Tony Hillerman]]
+*Guest of Honor — [[Marcia Muller]]
+*Fan guest of Honor — Art Scott
+*Toastmaster — [[George C. Chesbro]]
+
+==Anthony Awards==
+The following list details the awards distributed at the ninth annual Anthony Awards ceremony.<ref>{{cite web|url=http://www.bouchercon.info/nominees.html#1994 |title=Bouchercon World Mystery Convention : Anthony Awards Nominees |publisher=Bouchercon.info |date= |accessdate=January 31, 2012}}</ref>
+
+===Novel award===
+Winner:
+*[[Marcia Muller]], ''[[Wolf in the Shadows]]''
+
+Shortlist:
+*[[Michael Connelly]], ''[[The Black Ice]]''
+*[[Earl Emerson]], ''Morons and Madmen''
+*[[Joan Hess]], ''O Little Town of Maggody''
+*[[Tony Hillerman]], ''[[Sacred Clowns]]''
+*Janet LaPierre, ''Old Enemies''
+*[[Margaret Maron]], ''Southern Discomfort''
+*[[Kathy Hogan Trocheck]], ''To Live and Die in Dixie''
+*[[Minette Walters]], ''[[The Sculptress]]''
+*Charlene Weir, ''Consider the Crows''
+
+===First novel award===
+Winner:
+*[[Nevada Barr]], ''[[Track of the Cat (book)|Track of the Cat]]''
+
+Shortlist:
+*[[Jan Burke]], ''[[Goodnight, Irene]]''
+*[[Laurie R. King]], ''[[A Grave Talent]]''
+*[[Sharan Newman]], ''Death Comes as Epiphany''
+*[[Abigail Padgett]], ''Child of Silence''
+
+===Short story award===
+Winner:
+*[[Susan Dunlap]], "Checkout", from ''Malice Domestic 2''
+
+Shortlist:
+*[[K.K. Beck]], "A Romance in the Rockies", from ''Malice Domestic 2''
+*M.D. Lake, "Kim's Game", from ''Malice Domestic 2''
+*Robert Lopresti, "Crow's Feat", from ''Constable New Crimes 2''
+
+===Critical / Non-fiction award===
+Winner:
+*[[Edward Gorman|Ed Gorman]], [[Martin H. Greenberg]], [[Larry Segriff]] & [[Jon L. Breen]], ''The Fine Art of Murder: The Mystery Reader's Indispensable Companion''
+
+Shortlist:
+*[[Burl Barer]], ''The Saint: A Complete History in Print, Radio, Television, and Film''
+*Marvin Lachman, ''A Reader's Guide to the American Novel of Detection''
+*Gary Warren Niebuhr, ''A Reader's Guide to the Private Eye Novel''
+*[[Barbara Reynolds]], ''Dorothy L Sayers; Her Life and Soul''
+
+===True crime award===
+Winner:
+*[[Ann Rule]], ''[[A Rose for Her Grave and Other True Cases]]''
+
+Shortlist:
+*Gary C. King, ''Driven to Kill: Westley Allan Dodd''
+*[[Jack Olsen]], ''The Misbegotten Son: A Serial Killer and His Victims: The true story of Arthur J. Shawcross''
+*Bella Stumbo, ''Until the Twelfth of Never: The Deadly Divorce of Dan & Betty Broderick''
+
+===Short story collection / anthology award===
+Winner:
+*[[Martin H. Greenberg]], Mary Higgins Clark Presents ''Malice Domestic 2''
+
+Shortlist:
+*[[Lawrence Block]], ''Some Days You Get the Bear''
+*[[Joseph Hansen (writer)|Joseph Hansen]], ''Bohannon's Country''
+*[[Edward D. Hoch|Ed Hoch]], ''The Year's Best Mystery and Suspense Stories-1993''
+*[[Marcia Muller]], [[Edward Gorman|Ed Gorman]] & [[Bill Pronzini]], ''Criminal Intent 1''
+
+==References==
+{{reflist}}
+
+==External links==
+{{portalbar|1990s}}
+{{Bouchercon}}
+
+{{DEFAULTSORT:Bouchercon 25}}
+[[Category:Anthony Awards]]
+[[Category:Bouchercon|25]]
+[[Category:October 1994 events in the United States]]
+[[Category:1994 in Seattle]]
+[[Category:1994 in literature]]

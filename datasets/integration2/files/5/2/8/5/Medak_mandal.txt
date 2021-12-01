@@ -1,0 +1,121 @@
+{{Use dmy dates|date=February 2020}}
+{{Use Indian English|date=February 2020}}
+{{Infobox settlement
+| name                   = Medak mandal
+| native_name            = మెదక్ మండలం
+| native_name_lang       = te
+| other_name             =
+| nickname               =
+| settlement_type        = [[Mandal]]
+| image_skyline          = 
+| image_alt              =
+| image_caption          = 
+| pushpin_map            = India Telangana#India
+| pushpin_label_position =
+| pushpin_map_alt        =
+| pushpin_map_caption    = Location in Telangana, India
+| coordinates            = 
+| subdivision_type       = Country
+| subdivision_name       = [[India]]
+| subdivision_type1      = [[States and territories of India|State]]
+| subdivision_name1      = [[Telangana]]
+| subdivision_type2      = [[List of districts of India|District]]
+| subdivision_name2      = [[Medak district]]
+| established_title      = <!-- Established -->
+| established_date       = 
+| seat_type              = [[Headquarters]]
+| seat                   = MEDAK 
+| parts_type             = [[Administrative divisions of India|Major villages]]
+| parts_style            = para
+| parts                  = 
+| government_type        = 
+| governing_body         = [[Panchayat Samiti (Block)|Mandal Parishad]]
+| leader_title           = [[Tehsildar]]
+| leader_name            = 
+| unit_pref              = Metric
+| area_footnotes         = 
+| area_rank              = 
+| area_total_km2         =
+| elevation_footnotes    =
+| elevation_m            =
+| population_total       = 
+| population_as_of       = 2011
+| population_rank        =
+| population_density_km2 = auto
+| population_demonym     =
+| population_footnotes   = <ref name=population>{{cite web|title=Census 2011 |url=http://www.censusindia.gov.in/pca/SearchDetails.aspx?Id=628954 |archive-url=https://web.archive.org/web/20150924135211/http://www.censusindia.gov.in/pca/SearchDetails.aspx?Id=628954 |url-status=dead |archive-date=24 September 2015 |publisher=The Registrar General & Census Commissioner, India |accessdate=26 July 2014 }}</ref>
+| demographics_type1     = Languages
+| demographics1_title1   = Official
+| demographics1_info1    = [[Telugu language|Telugu]]
+| timezone1              = [[Indian Standard Time|IST]]
+| utc_offset1            = +5:30
+| postal_code_type       = [[Postal Index Number|PIN]]
+| postal_code            =
+| registration_plate     =
+| website                =
+| footnotes              =
+}}
+
+'''Medak mandal''' is one of the 46 [[mandal]]s in [[Medak district]] of the [[Indian state]] of [[Telangana]]. It is under the administration of [[Medak revenue division]] and the headquarters are located at [[Medak]].<ref name=census>{{cite web|title=District Census Handbook – Medak|url=http://www.censusindia.gov.in/2011census/dchb/2804_PART_B_DCHB_MEDAK.pdf|website=Census of India|accessdate=20 May 2016|pages=12,136|format=PDF}}</ref><ref name=map>{{cite web|title=Medak District Mandals|url=http://www.censusindia.gov.in/2011census/maps/atlas/28part3.pdf|publisher=Census of India|accessdate=19 January 2015|pages=50,110|format=PDF}}</ref> The mandal is bounded by [[Ramayampet]], Shankarapet (R), [[Kulcharam]], [[Papannapet]] mandals and  a portion of it also borders [[Nizamabad district]].<ref>{{cite web|title=Mandals in Medak district|url=http://www.aponline.gov.in/quick%20links/apfactfile/info%20on%20districts/Medak.html|publisher=aponline.gov.in|accessdate=28 July 2014|url-status=dead|archiveurl=https://web.archive.org/web/20140210115127/http://www.aponline.gov.in/quick%20links/apfactfile/info%20on%20districts/medak.html|archivedate=10 February 2014}}</ref>
+
+== Government and politics ==
+
+Medak mandal is one of the [[List of constituencies of Telangana Legislative Assembly#Medak district constituencies|four mandals]] under [[Medak (Assembly constituency)|Medak assembly constituency]], which in turn represents [[Medak (Lok Sabha constituency)|Medak lok sabha constituency]] of [[Telangana Legislative Assembly]].<ref>{{cite web|title=Delimitation of Parliamentary and Assembly Constituencies Order, 2008 |url=http://eci.nic.in/eci_main/CurrentElections/CONSOLIDATED_ORDER%20_ECI%20.pdf
+|publisher=Election Commission of India|accessdate=21 May 2016|page=10,29|format=pdf}}</ref>
+
+== Towns and villages ==
+
+{{As of|2011}} [[Census of India|census]], the mandal has 43 settlements. It includes 2 towns and 41 villages.<ref name="census" />
+
+The settlements in the mandal are listed below:
+
+{{Columns-list|colwidth=30em|style=width:450px;|
+# Ananthasagar
+# Aurangabad
+# Ausulpalle (OG)
+# Balanagar
+# Bogada Bhoopathipur
+# Burugupalle
+# Byathole
+# Chityal
+# Fareedpur
+# Gangapur
+# Havelighanpur
+# Khazipalle
+# Komtoor
+# Kuchanpalle
+# Lingasanpalle
+# Magta Bhoopathipur
+# Maqdumpur
+# Medak (M)
+# Medak (R)
+# Mirgudpalle
+# Mudulwai
+# Muthaipalle
+# [[Nagapur]]
+# Pashapur
+# Pathur
+# Perur
+# Rajpalle
+# Rajpet
+# Rayalamadugu
+# Rayanpalle
+# Serikuchanpalle
+# Shalipet
+# Shamnapur
+# Suklapet
+# Thimmaipalle
+# Thogita
+# Venkatapur
+}}
+''Note: M-[[Municipality]]''<ref>{{cite web|title=Abbreviations used |url=http://censusindia.gov.in/Metadata/Metada.htm#2w |publisher=censusindia.gov.in |accessdate=26 May 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20070617234445/http://www.censusindia.gov.in/Metadata/Metada.htm |archivedate=17 June 2007 }}</ref>
+
+== See also ==
+* [[List of mandals in Telangana]]
+
+== References ==
+{{reflist}}
+
+{{Medak district}}
+
+[[Category:Mandals in Medak district]]

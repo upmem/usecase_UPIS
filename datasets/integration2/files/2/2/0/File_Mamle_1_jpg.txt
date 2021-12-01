@@ -1,0 +1,13 @@
+{{Non-free use rationale
+|Article= Mohammad Mamle
+|Description=
+|Source= Newspaper
+|Portion=
+|Low_resolution=
+|Purpose= The Article lacked an image
+|Replaceability=
+|other_information=
+}}
+
+==Licensing==
+{{non-free fair use|image has rationale=yes}}

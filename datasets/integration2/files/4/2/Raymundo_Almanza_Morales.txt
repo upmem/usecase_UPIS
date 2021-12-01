@@ -1,0 +1,60 @@
+{{short description|Mexican drug lord of Los Zetas|bot=PearBOT 5}}
+{{Infobox person
+| name        = Raymundo Almanza Morales
+| image       = Raymundo-Almanza-Morales.jpg  
+| image_size  = 150px
+| caption     = Raymundo Almanza Morales
+| birth_name  =
+| birth_date  = 
+| birth_place = 
+| death_date  = 
+| death_place = 
+| death_cause = 
+| residence   =
+| other_names = ''El Gori III''
+| known_for  = Leader in [[Los Zetas]] 
+| employer   = 
+*[[Mexican Army]] (????–1999)
+*[[Los Zetas]] 
+| occupation = [[Drug lord]]
+| title      = 
+| salary     = 
+| networth   = 
+| height     = 
+| weight     = 
+| term       =
+| predecessor =
+| successor   =
+| party       =
+| boards      =
+| religion    =
+| spouse      =
+| partner     =  
+| children    =
+| parents     =
+| relatives   =
+| signature   =
+| website     =
+| footnotes   = 
+}}
+{{family name hatnote|Almanza|Morales|lang=Spanish}}
+
+'''Raymundo Almanza Morales''' (alias ''El Gori III'') is a [[Mexican people|Mexican]] suspected drug lord and former high-ranking member of [[Los Zetas]], a criminal group based in [[Tamaulipas]], Mexico. Almanza Morales was in the Mexican Armed Forces prior to his involvement in organized crime. He was infantry soldier and was discharged on August 14, 1999, at his own request.<ref>{{Cite news|url=https://libertad-oaxaca.info/cinco-de-los-37-mas-buscados-estuvieron-en-filas-del-ejercito/|title=Cinco de los 37 más buscados estuvieron en filas del Ejército|last=|first=|date=11 November 2012|work=Libertad Oaxaca|access-date=|url-status=live|language=Spanish}}</ref> He was captured on 22 May 2009 in [[Monterrey]], [[Nuevo Leon]], [[Mexico]].<ref>[http://www.eluniversal.com.mx/primera/33019.html ''Cae operador del cártel del Golfo en Monterrey: Raymundo Almanza Morales, alias "El Gori", uno de los principales lugartenientes del cártel del Golfo, fue detenido en Monterrey, Nuevo León, informó la Secretaría de la Defensa Nacional (Sedena).''] Nubia Maya. El Universal. 22 May 2009. Retrieved 28 February 2013.</ref>
+
+==See also==
+* [[List of Mexico's 37 most-wanted drug lords]]
+
+==References==
+{{Reflist}}
+
+{{Mexican Drug War}}
+{{Authority control}}
+
+{{DEFAULTSORT:Almanza Morales, Raymundo}}
+[[Category:Mexican mob bosses]]
+[[Category:Living people]]
+[[Category:Los Zetas]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{crime-bio-stub}}

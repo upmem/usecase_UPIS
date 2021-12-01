@@ -1,0 +1,22 @@
+{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Miscellany for deletion|{{mfd top collapse|1='''[[Wikipedia:Miscellany for deletion/User:Shembobninja/sandbox]]'''}}|}}<div class="boilerplate mfd vfd xfd-closed" style="background-color: #E3D2FB; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+__NOINDEX__
+:''The following discussion is an archived debate of the proposed deletion of the miscellaneous page below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the page's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--
+Note:  If you are seeing this page as a result of an attempt to nominate a miscellany page for deletion, you must manually edit the MfD nomination links to create a new discussion page using the name format of [[Wikipedia:Miscellany for deletion/NAMESPACE:PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result of the discussion was: '''delete''' . [[User:RL0919|RL0919]] ([[User talk:RL0919|talk]]) 04:57, 4 March 2019 (UTC)
+====[[:User:Shembobninja/sandbox]]====
+:{{pagelinks|User:Shembobninja/sandbox}}
+:{{pagelinks|Draft:Blec!}}
+[[User:Liz]] declined a U5 speedy on this nonsense made up junk submitted to AfC as an article.  Bringing for deletion discussion. [[User:Legacypac|Legacypac]] ([[User talk:Legacypac|talk]]) 03:12, 25 February 2019 (UTC)
+*'''Comment''' - Edit conflict.  I moved this to draft space immediately after Legacypac nominated it.  I have redirected the MFD so that it should still work.  [[User:Robert McClenon|Robert McClenon]] ([[User talk:Robert McClenon|talk]]) 03:32, 25 February 2019 (UTC)
+*'''Weak Keep''' - It's a stupid sandbox draft that deserves to be rejected, not to be deleted.  [[User:Robert McClenon|Robert McClenon]] ([[User talk:Robert McClenon|talk]]) 03:32, 25 February 2019 (UTC)
+*'''Comment''' Is it a G3-eligible hoax if it does not claim to be real? [[User:CoolSkittle|<span style="background-color: blue; color: orange">CoolSkittle</span>]] ([[User talk:CoolSkittle|talk]]) 04:10, 25 February 2019 (UTC)
+::It sure looks like G3 vandalism. It has zero chance of becoming an article which is why I picked U5 [[User:Legacypac|Legacypac]] ([[User talk:Legacypac|talk]]) 04:19, 25 February 2019 (UTC)
+*'''Comment''' Okay, I am guilty. As long as it is not copyrighted material, spam or BLP violating content, I think editors should be able to work on articles in sandbox space. I am not zealous about deleting articles-in-process. Who knows, they could eventually become a decent article. <span style="font-family:Papyrus; color:#800080;">[[User:Liz|'''''L'''''iz]]</span> <sup style="font-family: Times New Roman; color: #006400;">[[Special:Contributions/Liz|'''''Read!''''']] [[User talk:Liz|'''''Talk!''''']]</sup> 05:41, 25 February 2019 (UTC)
+*'''Delete''' Definitely fails notability, possibly violates A11. See [[Wikipedia:Wikipedia is not for things made up one day]]. [[User:ScottJKay|SKay]] ([[User talk:ScottJKay|talk]]) 06:32, 26 February 2019 (UTC)
+*:'''Comment''' I understand the importance of allowing Users to edit their own pages, but this draft shows zero promise of ever becoming an article for multiple reasons. It clearly states it was made up, if not directly by this User then by someone the User knows. [[User:ScottJKay|SKay]] ([[User talk:ScottJKay|talk]]) 06:32, 26 February 2019 (UTC)
+*'''Delete''' Made up. [[User:CoolSkittle|<span style="background-color: blue; color: orange">CoolSkittle</span>]] ([[User talk:CoolSkittle|talk]]) 14:30, 25 February 2019 (UTC)
+:''The above discussion is preserved as an archive of the debate. <b style="color:red">Please do not modify it.</b> Subsequent comments should be made on the appropriate discussion page (such as the page's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page.''<!--Template:Mfd bottom--></div>
+
+{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Miscellany for deletion|{{collapse bottom}}|}}

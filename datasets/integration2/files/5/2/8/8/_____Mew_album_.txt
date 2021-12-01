@@ -1,0 +1,6 @@
+#REDIRECT [[+ -]]
+
+{{Rcat shell|
+{{R from move}}
+{{R from unnecessary disambiguation}}
+}}

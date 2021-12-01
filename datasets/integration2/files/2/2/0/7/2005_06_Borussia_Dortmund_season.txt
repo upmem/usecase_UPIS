@@ -1,0 +1,110 @@
+{{refimprove|date=August 2017}}
+
+{{Infobox Football club season
+|club=[[Borussia Dortmund]]
+|season=2005-06
+|manager={{flagicon|NED}} [[Bert van Marwijk]]
+|chairman=
+|stadium=[[Westfalenstadion]]
+|league=[[Bundesliga]]
+|league result=[[2005–06 Bundesliga|7th]]
+|cup1=[[DFB-Pokal]]
+|cup1 result=[[2005–06 DFB-Pokal|First round]]
+|league topscorer=[[Ebi Smolarek]] (13)
+|season topscorer=[[Ebi Smolarek]] (13)
+|highest attendance=
+|lowest attendance=
+|average attendance=
+| pattern_la1 = _bvb0506h
+| pattern_b1  = _bvb0506h
+| pattern_ra1 = _bvb0506h
+| pattern_sh1 = _bvb0405h
+| pattern_so1 = _hoops_black
+| leftarm1    = FFFF00
+| body1       = FFFF00
+| rightarm1   = FFFF00
+| shorts1     = 000000
+| socks1      = FFFF00
+| pattern_b2  = _bvb0506a
+| pattern_ra2 = _bvb0506a
+| pattern_sh2 = _bvb0405a
+| pattern_so2 = _hoops_yellow
+| leftarm2    = 000000 
+| body2       = 000000 
+| rightarm2   = 000000 
+| shorts2     = FFFF00
+| socks2      = 0000000
+|prevseason=[[2004–05 Borussia Dortmund season|2004–05]]
+|nextseason=[[2006–07 Borussia Dortmund season|2006–07]]
+}}
+During the 2005–06 German football season, [[Borussia Dortmund]] competed in the [[Bundesliga]].
+
+==Season summary==
+Another mediocre season saw Dortmund repeat last season's seventh-place finish, albeit with nine fewer points.
+==First-team squad==
+:''Squad at end of season''<ref>http://www.footballsquads.co.uk/ger/2005-2006/bundes/dortmund.htm</ref>
+{{fs start}}
+{{Fs player|no=1|nat=GER|pos=GK|name=[[Roman Weidenfeller]]}}
+{{Fs player|no=3|nat=GER|pos=DF|name=[[Markus Brzenska]]}}
+{{Fs player|no=4|nat=GER|pos=DF|name=[[Christian Wörns]]}}
+{{Fs player|no=5|nat=GER|pos=MF|name=[[Sebastian Kehl]]}}
+{{Fs player|no=6|nat=GER|pos=MF|name=[[Florian Kringe]]}}
+{{Fs player|no=7|nat=RSA|pos=MF|name=[[Delron Buckley]]}}
+{{Fs player|no=8|nat=GHA|pos=FW|name=[[Matthew Amoah]]}}
+{{Fs player|no=9|nat=CZE|pos=FW|name=[[Jan Koller]]}}
+{{Fs player|no=10|nat=CZE|pos=MF|name=[[Tomáš Rosický]]}}
+{{Fs player|no=11|nat=GER|pos=MF|name=[[David Odonkor]]}}
+{{Fs player|no=13|nat=DRC|pos=MF|name=[[Kosi Saka]]}}
+{{Fs player|no=14|nat=POL|pos=FW|name=[[Ebi Smolarek]]}}
+{{Fs player|no=15|nat=GER|pos=FW|name=[[Marcus Steegmann]]}}
+{{Fs player|no=16|nat=NED|pos=FW|name=[[Cedric van der Gun]]}}
+{{Fs player|no=17|nat=BRA|pos=DF|name=[[Dedé (footballer, born 1978)|Dedê]]}}
+{{Fs player|no=18|nat=GER|pos=MF|name=[[Lars Ricken]]}}
+{{fs mid}}
+{{Fs player|no=19|nat=TUR|pos=MF|name=[[Mehmet Akgün]]<ref group=notes>Akgün was born in [[Bielefeld]], [[Germany]], but also qualified to represent [[Turkey]] internationally and represented them at [[Turkey national under-17 football team|U-17]] level.</ref>}}
+{{Fs player|no=20|nat=GER|pos=GK|name=[[Bernd Meier]]}}
+{{Fs player|no=21|nat=GER|pos=DF|name=[[Christoph Metzelder]]}}
+{{Fs player|no=22|nat=GER|pos=MF|name=[[Marc-André Kruska]]}}
+{{Fs player|no=23|nat=SUI|pos=DF|name=[[Philipp Degen]]}}
+{{Fs player|no=24|nat=TUR|pos=MF|name=[[Nizamettin Çalışkan]]<ref group=notes>Çalışkan was born in [[Hagen]], [[Germany]], but also qualified to represent [[Turkey]] internationally and represented them at [[Turkey national under-17 football team|U-17]] and [[Turkey national under-19 football team|U-19]] level.</ref>}}
+{{Fs player|no=25|nat=TUR|pos=MF|name=[[Nuri Şahin]]<ref group=notes>Şahin was born in [[Lüdenscheid]], [[Germany]], but also qualified to represent [[Turkey]] internationally through his parents and represented them at [[Turkey national youth football team|U-16]], [[Turkey national under-17 football team|U-17]], [[Turkey national under-19 football team|U-19]] and [[Turkey national under-21 football team|U-21]] level before making his international debut for [[Turkey national football team|Turkey]] in 2005.</ref>}}
+{{Fs player|no=26|nat=GER|pos=MF|name=[[Marc Heitmeier]]}}
+{{Fs player|no=27|nat=GER|pos=DF|name=[[Uwe Hünemeier]]}}
+{{Fs player|no=28|nat=GER|pos=MF|name=[[Sebastian Tyrała]]<ref group=notes>Tyrała was born in [[Racibórz]], [[Poland]], but also qualified to represent [[Germany]] internationally and represented them at [[Germany national youth football team|U-19]] level before making his international debut for [[Poland national football team|Poland]] in December 2008.</ref>}}
+{{Fs player|no=29|nat=GER|pos=MF|name=[[Sascha Rammel]]}}
+{{Fs player|no=30|nat=NED|pos=GK|name=[[Dennis Gentenaar]]}}
+{{Fs player|no=32|nat=GER|pos=GK|name=[[Sascha Samulewicz]]}}
+{{Fs player|no=33|nat=GER|pos=FW|name=[[Salvatore Gambino]]}}
+{{Fs player|no=34|nat=GER|pos=GK|name=[[Sören Pirson]]}}
+{{Fs player|no=39|nat=GER|pos=MF|name=[[Marcel Großkreutz]]}}
+{{Fs end}}
+==Results==
+===DFB-Pokal===
+====First round====
+{{footballbox collapsible
+|stack=yes
+|result=L
+|date = 22 August 2005
+|time = 20:30
+|round = 
+|team1 = [[Eintracht Braunschweig]]
+|score = 2 – 1
+|report = [http://fussballdaten.de/dfb/2006/runde1/braunschweig-dortmund/ report] {{in lang|de}}
+|team2 = [[Borussia Dortmund]]
+|goals1 = [[Jürgen Rische|Rische]] {{goal|41}}<br>[[Daniel Graf (footballer)|Graf]] {{goal|84}}
+|goals2 = [[Jan Koller|Koller]] {{goal|28}}
+|stadium = [[Eintracht-Stadion]]
+|location = [[Braunschweig]]
+|attendance = 22.200
+|referee = [[Peter Sippel]] ([[Munich]])
+}}
+==References==
+{{Reflist}}
+==Notes==
+{{Reflist|group=notes|32em}}
+{{Borussia Dortmund seasons}}
+{{2005–06 in German football}}
+
+{{DEFAULTSORT:2005-06 Borussia Dortmund season}}
+[[Category:Borussia Dortmund seasons]]
+[[Category:German football clubs 2005–06 season|Borussia Dortmund]]

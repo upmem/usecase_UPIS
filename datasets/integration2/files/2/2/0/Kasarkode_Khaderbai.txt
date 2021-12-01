@@ -1,0 +1,81 @@
+{{Use dmy dates|date=October 2015}}
+{{Use Indian English|date=October 2015}}
+{{Infobox film
+| name           = Kasaragod Khader Bhai
+| image          = 
+| image_size     = 
+| alt            = 
+| caption        = 
+| director       = [[Thulasidas]]
+| producer       = Changanassery Basheer
+| story          = Kalabhavan Ansar
+| screenplay     = Kaloor Dennis
+| starring       = {{ubl|[[Jagadish]]|[[Siddique (actor)|Siddique]]|[[Ashokan (actor)|Ashokan]]|[[Zainuddin (actor)|Zainuddin]]|[[Innocent (actor)|Innocent]]|[[Mala Aravindan]]|[[Saikumar (Malayalam actor)|Saikumar]]|[[Alummoodan]]|[[Babu Antony]]|[[Sunitha (actress)|Sunitha]]|[[Suchitra (actress)|Suchitra]]|[[Philomina]]}}
+| music          = [[Johnson (composer)|Johnson]]
+| cinematography = [[Saloo George]]
+| editing        = G. Murali
+| studio         = Simple Productions
+| distributor    = 
+| released       = {{Film date|df=yes|1992||}}
+| runtime        = 151 minutes
+| country        = India
+| language       = Malayalam
+| budget         = 
+| gross          =
+}}
+
+'''''Kasaragod Khader Bhai''''' is a [[List of Malayalam films of 1992|1992]] Indian [[Malayalam cinema|Malayalam]]-language [[comedy film]] directed by [[Thulasidas]] and starring [[Jagadish]], [[Siddique (actor)|Siddique]], [[Ashokan (actor)|Ashokan]], [[Zainuddin (actor)|Zainuddin]], [[Innocent (actor)|Innocent]], [[Mala Aravindan]], [[Alummoodan]], [[Babu Antony]], [[Sunitha (actress)|Sunitha]], [[Suchitra (actress)|Suchitra]] and [[Philomina]]. The film is a sequel to 1991 film ''[[Mimics Parade]]''. In 2010, it spawned a sequel titled ''[[Again Kasargod Khader Bhai]]''.
+
+==Plot==
+The film is about how Kasargod Khader Bhai ([[Alummoodan]]) and his son Kasim Bhai ([[Babu Antony]]) tries to take revenge on the mimicry artists who send Khader Bhai to jail (This is shown in the prequel).
+
+==Cast==
+* [[Jagadish]] as Unni
+* [[Siddique (actor)|Siddique]] as Sabu
+* [[Ashokan (actor)|Ashokan]] as Jimmy
+* [[Zainuddin (actor)|Zainuddin]] as Nizam
+* [[Baiju Santhosh|Baiju]] as Manoj
+* Kalabhavan Ansar as Anwar
+* [[Innocent (actor)|Innocent]] as Fr. Francis Tharakkandam
+* [[Mala Aravindan]] as Mammootty
+* [[Sunitha (actress)|Sunitha]] as Sandhya Cheriyan
+* [[Suchitra (actress)|Suchitra]] as Latha
+* [[Saikumar (Malayalam actor)|Saikumar]] as Sreenivasa Menon
+* [[Mahesh (actor)|Mahesh]] as Jayan
+* [[K. B. Ganesh Kumar]]
+* [[Abi (actor)|Kalabhavan Abi]]
+* [[Idavela Babu]]
+* [[Shankaradi]] as Pachalam Pappachan
+* [[Philomina]] as Thandamma 
+* [[Babu Antony]] as Kasim Bhai (Voice Dubbing by Prof. Aliyar)
+* [[Alummoodan]] as Kasargod Khader Bhai
+* [[Keerikkadan Jose|Mohanraj]] as Khader Bhai's right hand
+* [[Shivaji (Malayalam actor)|Sivaji]] as Frederik Cherian, Sandhya's brother
+* [[Sadiq]] as Stephen Cherian, Sandhya's brother
+* [[Prathapachandran]] as Cherian, Sandhya's father
+* [[Kanakalatha]] as Latha's mother
+* [[Kalabhavan Haneef]] as mimicry artist
+* Subair as Police Officer
+
+==Soundtrack==
+Music: [[Johnson (composer)|Johnson]], Lyrics: [[Bichu Thirumala]].
+
+* Neelakkurkkan - [[Jolly Abraham]], [[Krishnachandran]], [[Sujatha Mohan]], [[Johnson (composer)|Johnson]], [[C. O. Anto]], [[Natesh Shankar]]
+
+==External links==
+* {{IMDb title|0353615}}
+* [https://www.igigaplex.com/movie_info.php?name=Again+Kaserkode+Kader+Bhai Watch on Gigaplex]
+* [http://www.malayalasangeetham.info/m.php?1755 ''Kasargod Khader Bhai''] at the Malayalam Movie Database
+* [http://cinemalayalam.net/movie/Kasargode-Kaderbhai/2218 ''Kasargod Khader Bhai''] at Cinemaofmalayalam.net
+
+[[Category:Indian films]]
+[[Category:1990s Malayalam-language films]]
+[[Category:1992 comedy films]]
+[[Category:1992 films]]
+[[Category:Indian sequel films]]
+[[Category:Malayalam films in series|FMimicKader2]]
+[[Category:Films directed by Thulasidas]]
+
+
+{{1990s-Malayalam-film-stub}}
+{{1990s-comedy-film-stub}}

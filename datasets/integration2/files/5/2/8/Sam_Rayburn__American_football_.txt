@@ -1,0 +1,61 @@
+{{BLP unsourced|date=October 2018}}
+{{Infobox NFL player
+|name=Sam Rayburn
+|image=
+|number=91
+|position=[[Defensive tackle]]
+|birth_date={{birth date and age|1980|10|20}}
+|birth_place=[[Chickasha, Oklahoma]]
+|height_ft = 6
+|height_in = 3
+|weight_lbs = 303
+|college=[[Tulsa Golden Hurricane football|Tulsa]]
+|undraftedyear=2003
+|pastteams=
+* [[Philadelphia Eagles]] (2003–2006)
+* [[San Francisco 49ers]] (2007)*
+* [[Miami Dolphins]] (2007)
+|statweek=
+|statseason=
+|statlabel1=[[Tackle (football move)|Total tackles]]
+|statvalue1=65
+|statlabel2=[[Quarterback sack|Sacks]]
+|statvalue2=9.0
+|statlabel3=[[Fumble|Forced fumbles]]
+|statvalue3=2
+|statlabel4=[[Fumble|Fumble recoveries]]
+|statvalue4=1
+|pastteamsnote = yes
+|status=
+|nfl=RAY491598
+}}
+'''Sam Branson Rayburn''' (born October 20, 1980) is a former [[American football]] [[defensive tackle]]. He was signed by the [[Philadelphia Eagles]] as an [[undrafted free agent]] in 2003. He played [[college football]] at the [[University of Tulsa]].
+
+Rayburn has also been a member of the [[San Francisco 49ers]] and [[Miami Dolphins]].
+
+==High school career==
+Sam Rayburn was a member of the Chickasha High School football team, which was the 1997 and 1998 Oklahoma State runner-up. Chickasha lost both times to Oklahoma City Carl Albert High school. In those two years, the team went 25-3.
+
+==Professional career==
+
+===Philadelphia Eagles===
+Rayburn joined the [[Philadelphia Eagles]] as an [[undrafted]] free agent from the [[University of Tulsa]] prior to the 2003 season. He played in 53 games and recorded 65 tackles and nine sacks with the Eagles from 2003 to 2006. He was released by the team on May 11, 2007.
+
+===San Francisco 49ers===
+On June 5, 2007, the [[San Francisco 49ers]] announced that they would sign Rayburn to a free agent contract. On September 1, 2007, he was released by the 49ers.
+
+===Miami Dolphins===
+
+==External links==
+* [https://web.archive.org/web/20060907181031/http://www.philadelphiaeagles.com:80/team/teamRosterDetails.jsp?id=603 Philadelphia Eagles biography]
+* [https://web.archive.org/web/20030626212103/http://tulsahurricane.ocsn.com:80/sports/m-footbl/mtt/rayburn_sam00.html Tulsa biography]
+
+{{DEFAULTSORT:Rayburn, Sam}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:People from Chickasha, Oklahoma]]
+[[Category:American football defensive tackles]]
+[[Category:Tulsa Golden Hurricane football players]]
+[[Category:Philadelphia Eagles players]]
+[[Category:San Francisco 49ers players]]
+[[Category:Miami Dolphins players]]

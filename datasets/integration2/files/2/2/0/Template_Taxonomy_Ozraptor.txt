@@ -1,0 +1,6 @@
+{{Don't edit this line {{{machine code|}}}
+|rank=genus
+|link=Ozraptor
+|parent=Theropoda
+|extinct=true
+}}

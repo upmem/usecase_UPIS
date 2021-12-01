@@ -1,0 +1,12 @@
+'''Mount Lunxhëri''' is a mountain in southern [[Albania]] in the geographical region of [[Southern Albanian Highlands]].<ref>{{cite web|last=Geonames|title=Lunxhëri mountain|url=http://www.geonames.org/782440/mali-i-lunxherise.html}}</ref> Its highest elevation is 2,156 m.<ref>{{cite web |url=http://www.instat.gov.al/graphics/doc/downloads/publikime/Tregues%20sipas%20qarqeve2006.pdf |title=TREGUES SIPAS QARQEVE INDICATORS BY PREFECTURES |accessdate=2011-07-24 |url-status=dead |archiveurl=https://web.archive.org/web/20110724163040/http://www.instat.gov.al/graphics/doc/downloads/publikime/Tregues%20sipas%20qarqeve2006.pdf |archivedate=2011-07-24 }}</ref> <ref>Soviet military map К-34-137-В (1:50.000)</ref> Its orientation is northwest to southeast. The valley of the river [[Drino]], with the city [[Gjirokastër]], lies to its southwest. The [[Zagori, Albania|Zagori]] region lies to its east. It is part of the mountain chain [[Mount Shëndelli|Shëndelli]]-Lunxhëri-[[Mount Bureto|Bureto]] chain, which goes parallel to the [[Mount Trebeshinë|Trebeshinë]]-[[Mount Dhembel|Dhembel]]-[[Mount Nemërçkë|Nemërçkë]] chain. The mount has the same name of the region of [[Lunxhëri]].
+
+==References==
+{{reflist}}
+
+{{coord|40.1394|20.2427|display=title}}
+{{Mountains of Albania}}
+{{DEFAULTSORT:Lunxheri}}
+[[Category:Mountains of Albania]]
+
+
+{{Vlorë-geo-stub}}

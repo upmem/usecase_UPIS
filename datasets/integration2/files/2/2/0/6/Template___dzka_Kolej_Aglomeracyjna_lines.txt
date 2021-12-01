@@ -1,0 +1,15 @@
+{{#switch:{{{1}}}
+ | #default=''[[Łódzka Kolej Aglomeracyjna|LKA]]''
+ | L-Ku=''Łódź - Kutno''
+ | L-Lo=''Łódź - Łowicz''
+ | L-Si=''Łódź - Sieradz''
+ | L-Sk=''Łódź - Skierniewice''
+ | L-W=''Łódź - Warsaw''
+ | L-Ra=''Łódź - Radomsko''
+ | L-TM=''Łódź - Tomaszów Maz.''
+ | L-Zg=''Łódź - Zgierz''
+ | Sk-Ku=''Skierniewice - Kutno''
+}}<noinclude>
+{{Rail succession links}}
+[[Category:Łódzka Kolej Aglomeracyjna templates]]
+</noinclude>

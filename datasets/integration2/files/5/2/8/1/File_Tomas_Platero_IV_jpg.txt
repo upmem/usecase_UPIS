@@ -1,0 +1,13 @@
+== Summary ==
+{{Information
+ |Description    = Tomás Platero IV and his wife.
+ |Source         = my own work
+ |Date           = 2012
+ |Author         = blackdoom77
+ |Permission     = 
+ |other_versions = 
+}}
+
+== Licensing ==
+{{PD-old-100}}
+{{Copy to Wikimedia Commons|bot=ContinuityBot}}

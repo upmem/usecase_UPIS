@@ -1,0 +1,17 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Vlasta Děkanová in 1938
+|Source = '''Original publication''': Pražský Illustrovaný Zpravodaj, May 19, 1938, page 2<br/>
+'''Immediate source''': http://www.digitalniknihovna.cz/mzk/view/uuid:0f7f2b50-1072-11ea-baca-005056825209?page=uuid:51b33d10-1084-11ea-9f23-5ef3fc9ae867&fulltext=%22vlasta%20dekanova%22
+|Date = May 19, 1938
+|Author = William Noel
+|Article = Vlasta Děkanová
+|Purpose = for visual identification of the person in question, at the top of his/her biographical article
+|Replaceability = Source materials other than Official Olympic reports are very old and scarce and require collaborative international efforts to ensue forth prominence or enjoyment by the very few who are likely to be interested.  Plus, the subject has been deceased since 1974, so generating a free image would be very difficult.
+|Minimality = This file will be posted on the subject's biography page only, initially, and will likely be linked to by only a small handful of the few articles that might actually be related and relevant.  It is also not likely to be accessed by very many users.
+|Commercial = Interest in the sport of Artistic Gymnastics from this far back is very low and barely poses a threat to any potential lucrativity on any imaginable party.
+|Other information = The subject of the photograph has been deceased since: 1974
+}}
+
+==Licensing==
+{{Non-free biog-pic|Vlasta Děkanová}}

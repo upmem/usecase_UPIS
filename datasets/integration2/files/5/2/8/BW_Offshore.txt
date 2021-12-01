@@ -1,0 +1,222 @@
+{{Infobox company
+| name  =  BW Offshore Limited
+| logo  = BW_Offshore_logo.svg
+| type  =  [[Public company|Public]] 
+| traded_as  = {{ose|BWO}}
+| foundation  =  1982
+| location  =  [[Singapore]] and [[Oslo]], [[Norway]]
+| key_people  =  Marco Beenen (CEO)
+| area_served  =  Global
+| industry  =  [[Petroleum industry|Petroleum]]
+| products  =  [[Floating Production Storage and Offloading|FPSO]]
+| revenue  =  {{profit}} US$982.4 million (2013)
+| operating_income  =  {{profit}} US$181.4 million (2013)
+| net_income  = 
+| assets         = US$3.4 billion <small>(2013)</small>
+| num_employees  =  2,201
+| parent  =  
+| homepage  =  [http://www.bwoffshore.com www.bwoffshore.com]
+| footnotes  = 
+}}
+'''BW Offshore Limited''' is a global owner and operator of [[floating production storage and offloading]] (FPSO) vessels. The company is listed on [[Oslo Stock Exchange]]. The company has its headquarters in [[Singapore]] and [[Oslo]], Norway but operates internationally. The largest owner is  [[BW Group Limited]] with 49,3% of the shares.
+
+The company operates vessels in [[Brazil]], [[Mexico]], [[United States]], [[United Kingdom]], [[Russia]], [[Mauritania]], [[Ivory Coast]], [[Nigeria]], [[Gabon]],  [[New Zealand]], and [[Indonesia]] with a total of 14 FPSOs and 1 FSO.
+
+==History==
+{{more citations needed|date=June 2014}}
+BW Offshore originates from the shipping company [[Bergesen d.y. ASA]]<ref>BW Offshore Annual Report 2013: http://hugin.info/136844/R/1772870/604070.pdf</ref> who delivered its first FSO Berge Sisar in 1982 which it installed and operated at the Block O field offshore [[Angola]]. In 2003 Bergesen was acquired by [[World-Wide Shipping]] and was 2005 renamed Bergesen Worldwide. In the same year the floating production part of the company was established as a separate company, Bergesen Worldwide Offshore.  In 2006 the company was rebranded BW Offshore and listed on the [[Oslo Stock Exchange]].
+
+In 2007, BW Offshore acquired the ownership of [[Advanced Production and Loading]] (APL), making the company its technology division.<ref>APL: History website : http://www.apl.no/aplweb/templates/Level2Page.aspx?id=532 {{Webarchive|url=https://web.archive.org/web/20070707202653/http://www.apl.no/aplweb/templates/Level2Page.aspx?id=532|date=2007-07-07}}</ref> APL which is based in [[Arendal]], Norway and is a specialist in the engineering and supply of offloading and transfer systems for ships and terminals. It has delivered loading equipment for production vessels, storage vessels and shuttle tankers in the North Sea, Africa, Asia, Oceania, Russia, Latin-America, and the USA. In 2006, APL ventured into FPSO contracting by establishing [[Nexus Floating Production]] that consequently also became controlled by BW Offshore. In 2010, BW Offshore sold APL to [[National Oilwell Varco]].<ref>{{Cite web |url=http://www.bwoffshore.com/Disclaimer/DIsclaimer0710121/Press-releases/Agreement-to-sell-APL-to-National-Oilwell-Varco-for-USD-500-million-in-cash/ |title=Archived copy |access-date=2013-08-26 |archive-url=https://web.archive.org/web/20131020072917/http://www.bwoffshore.com/Disclaimer/DIsclaimer0710121/Press-releases/Agreement-to-sell-APL-to-National-Oilwell-Varco-for-USD-500-million-in-cash/ |archive-date=2013-10-20 |url-status=dead }}</ref>
+
+In 2010, BW Offshore Limited completed the acquisition of remaining 76.12% stake <ref name="BW01">[http://www.researchviews.com/energy/oil-gas/DealReport.aspx?sector=Oil_Gas&DealID=137021 BW Offshore Acquires Remaining 76.12% Stake Of Prosafe Production] {{Webarchive|url=https://web.archive.org/web/20120426070455/http://www.researchviews.com/energy/oil-gas/DealReport.aspx?sector=Oil_Gas&DealID=137021 |date=2012-04-26 }}, researchviews.com</ref> in Prosafe Production Public Ltd. Prior to the transaction, BW Offshore Limited owned 23.88% and hence, completed the 100% acquisition of Prosafe Production.
+
+==Presence and Units==
+{{more citations needed|date=June 2014}}
+As of December 31, 2013, BW Offshore owned a fleet of 14 [[FPSO]]s, 1 [[Floating production storage and offloading|FSO]] and 1 [[FPSO]] conversion candidate (Blue Opal). It also operates 2 [[FPSO]]s owned by oil companies.
+
+In May 2014, BW Offshore was selected by [[Premier Oil]] to execute the engineering, procurement, construction, installation and operation of a new built FPSO for its Catcher field in the UK North Sea.
+
+On 28 Aug 2017, Catcher FPSO sets sail Premier Oil's Catcher FPSO has commenced its maiden journey to the North Sea, it was today confirmed. The FPSO left the Keppel Shipyard in Singapore for the Catcher field in the UK North Sea. The BW Offshore vessel is expected to reach its final destination in the final quarter of this year, where it will begin a seven-year fixed term contract with Premier Oil.
+
+===Fleet===
+
+{| class="wikitable"
+! FPSO Vessel Name
+! Oilfield
+! Location
+! Operator
+! Contract Duration
+! Water depth (m)
+!Status
+|-
+| BW Adolo (formerly [[Azurite FDPSO|Azurite]])
+| Dussafu
+| {{flagicon|Gabon}} Gabon
+| BW Energy
+| 2018 - 
+| 115
+|
+|-
+| BW Pioneer
+| Cascade & Chinook
+| {{flagicon|US}} Gulf of Mexico
+|  Petrobras America
+| 2012 - 2017
+| 2600
+|
+|-
+| YÙUM K'AK'NÀAB
+| Ku-Maloob-Zaap
+| {{flagicon|Mexico}} Mexico
+| Pemex
+| 2007 - 2022
+| 90
+|
+|-
+| Berge Helene
+| Chinguetti
+| {{flagicon|Mauritania}} Mauritania
+| Petronas
+| 2006 - 2017
+| 850
+|Notified contract termination May 2017
+|-
+| Sendje Berge
+| Okwori
+| {{flagicon|Nigeria}} Nigeria
+| Addax/Sinopec
+| 2005 - 2018
+| 140
+|
+|-
+| Abo
+| Abo
+| {{flagicon|Nigeria}} Nigeria
+| ENI
+| 2003 - 2016
+| 800
+|
+|-
+| Espor Ivorien
+| Espoir
+| {{flagicon|Ivory Coast}} Ivory Coast
+| CNR
+| 2002 - 2017
+| 118
+| Extended to 2022
+|-
+| Petroleo Nautipa
+| Etame
+| {{flagicon|Gabon}} Gabon
+| Vaalco
+| 2002 - 2020
+| 80
+|
+|-
+| BW Cidade de São Vicente
+| Lula South
+| {{flagicon|Brazil}} Brazil
+| Petrobras
+| 2009 - 2019
+| 2140
+|
+|-
+| Cidade de São Mateus
+| Camarupim
+| {{flagicon|Brazil}} Brazil
+| Petrobras
+| 2009 - 2018
+| 763
+|Disconnected due to accident
+|-
+| Polvo
+| Polvo
+| {{flagicon|Brazil}} Brazil
+| HRT
+| 2007 - 2021
+| 85
+|Extended to 2021
+|-
+| Peregrino (Operations)
+| Peregrino
+| {{flagicon|Brazil}} Brazil
+| Statoil
+| 2013 - 2016
+|120
+|Termination operation contract with Statoil, June 2017
+|-
+| P-63 (Operations)
+| Papa Terra
+| {{flagicon|Brazil}} Brazil
+| Petrobras
+| 2013 - 2016
+| 1150
+|
+|-
+| [[Belokamenka (ship)|Belokamenka]]
+| Murmansk
+| {{flagicon|Russia}} Russia
+| Rosneft Oil Company
+| 2004 - 2015
+| 30
+|Disconnected
+|-
+| BW Athena
+| Athena
+| {{flagicon|United Kingdom}} UK
+| Ithaca Energy
+| 2012 - 2020
+| 130
+|Demobilised Feb 2016
+|-
+| BW Joko Tole
+| Terang Sirasun Batur (TSB)
+| {{flagicon|Indonesia}} Indonesia
+| Kangean Energy
+| 2012 - 2022
+| 100
+|
+|-
+| Umuroa
+| TUI
+| {{flagicon|New Zealand}} New Zealand
+| AWE
+| 2007 - 2019
+|120
+|Termination operation contract December 2019
+|-
+|Catcher
+|Catcher
+|{{flagicon|United Kingdom}} UK
+|Premier
+|2017 - 2024
+|90
+|
+|-
+| Blue Opal
+| Available
+| {{flagicon|}}
+| n/a
+| 
+|
+|
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+<!-- Per [[WP:ELMINOFFICIAL]], choose one official website only -->
+* {{Official website|http://www.bwoffshore.com}}
+* [https://web.archive.org/web/20131212051317/http://www.offthefence.com/detail/mega-tanker-makeover/1095824/ Mega-Tanker Makeover, a documentary about the conversion of the ''Pioneer'']
+
+{{Bergesen Worldwide}}
+
+{{DEFAULTSORT:Bw Offshore}}
+[[Category:Shipping companies of Norway]]
+[[Category:Shipping companies of Singapore]]
+[[Category:Floating production storage and offloading vessel operators]]
+[[Category:Transport companies established in 1982]]
+[[Category:Norwegian companies established in 1982]]
+[[Category:BW Group]]
+[[Category:Companies listed on the Oslo Stock Exchange]]

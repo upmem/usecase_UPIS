@@ -1,0 +1,136 @@
+<!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. -->
+{|{{Infobox Aircraft Begin
+ | name=Lignel 31
+ | image=
+ | caption=
+}}{{Infobox Aircraft Type
+ | type=[[Air racing|racer]] and [[aerobatic aircraft]]
+ | national origin=[[France]]
+ | manufacturer=[[Société Française de Construction Aéronautique]] (SFCA)
+ | designer=Jean Lignel
+ | first flight=28 June 1939
+ | introduced=
+ | retired=
+ | status=
+ | primary user=
+ | more users= <!--Limited to three in total; separate using <br /> -->
+ | produced= <!--years in production-->
+ | number built=1
+ | program cost= <!--Total program cost-->
+ | unit cost= <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
+ | developed from= 
+ | variants with their own articles=
+}}
+|}
+
+The '''SFCA Lignel 31''' was a [[France|French]], single engine, [[monoplane#Wing position|low wing monoplane]], one of a series of this type built by [[Société Française de Construction Aéronautique|SFCA]] in the 1930s. It was  capable of [[aerobatics]] but was primarily a [[air racing|racing aircraft]].
+
+==Specifications==
+{{Aircraft specs
+|ref=<ref>https://www.aviafrance.com/s-f-c-a-lignel-31-aviation-france-172.htm</ref>
+|prime units?=met
+<!--
+        General characteristics
+-->
+|genhide=
+
+|crew=One
+|capacity=
+|length m=5.86
+|length note=
+|span m=6.85
+|span note=
+|height m=2.27
+|height note=
+|wing area sqm=6.70
+|wing area note=
+|aspect ratio=<!-- sailplanes -->
+|airfoil=
+|empty weight kg=580
+|empty weight note=
+|gross weight kg=840
+|gross weight lb=
+|gross weight note=
+|max takeoff weight kg=
+|max takeoff weight lb=
+|max takeoff weight note=
+|fuel capacity=
+|more general=
+<!--
+        Powerplant
+-->
+|eng1 number=1
+|eng1 name=[[Renault 6Q]]-03
+|eng1 type=six cylinder, air-cooled, inverted, [[supercharged]] [[straight engine|inline]]   
+|eng1 hp=220
+|eng1 note=
+|power original=
+
+|prop blade number=2
+|prop name=[[variable pitch propeller]]
+|prop dia m=<!-- propeller aircraft -->
+|prop dia ft=<!-- propeller aircraft -->
+|prop dia in=<!-- propeller aircraft -->
+|prop dia note=
+<!--
+        Performance
+-->
+|perfhide=
+
+|max speed kmh=420
+|max speed note=
+|cruise speed kmh=
+|cruise speed note=
+|stall speed kmh=
+|stall speed mph=
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|minimum control speed kmh=
+|minimum control speed mph=
+|minimum control speed kts=
+|minimum control speed note=
+|range km=1200
+|range miles=
+|range nmi=
+|range note=
+|endurance=
+|ceiling m=
+|ceiling ft=
+|ceiling note=
+|g limits=<!-- aerobatic -->
+|roll rate=<!-- aerobatic -->
+|glide ratio=<!-- sailplanes -->
+|climb rate ms=
+|climb rate ftmin=
+|climb rate note=
+|time to altitude=
+|sink rate ms=<!-- sailplanes -->
+|sink rate ftmin=<!-- sailplanes -->
+|sink rate note=
+|lift to drag=
+|wing loading kg/m2=
+|wing loading lb/sqft=
+|wing loading note=
+|fuel consumption kg/km=
+|fuel consumption lb/mi=
+|power/mass=
+|thrust/weight=
+
+|more performance=
+
+}}
+
+==References==
+{{reflist}}
+
+{{SFCA aircraft}}
+
+[[Category:SFCA aircraft]]
+[[Category:1930s French sport aircraft]]
+[[Category:Single-engined tractor aircraft]]
+[[Category:Low-wing aircraft]]
+[[Category:Aircraft first flown in 1939]]

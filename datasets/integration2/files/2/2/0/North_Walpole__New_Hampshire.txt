@@ -1,0 +1,117 @@
+{{Infobox settlement
+|official_name            = North Walpole, New Hampshire
+|settlement_type          = [[Census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = St Peters Roman Catholic Church, North Walpole NH.jpg
+|imagesize                = 
+|image_caption            = St. Peter's Roman Catholic Church
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = New Hampshire#USA
+|pushpin_label            = North Walpole
+|pushpin_label_position   = left <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = 
+|pushpin_mapsize          =
+|image_map                =  
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New Hampshire]]
+|subdivision_type2        = [[List of counties in New Hampshire|County]]
+|subdivision_name2        = [[Cheshire County, New Hampshire|Cheshire]]
+|subdivision_type3        = [[List of cities and towns in New Hampshire|Town]]
+|subdivision_name3        = [[Walpole, New Hampshire|Walpole]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 1.8
+|area_land_km2            = 1.8
+|area_water_km2           = 0.0
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         =
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 828
+|population_density_km2   = auto
+|population_density_sq_mi =
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 94
+|elevation_ft             = 
+|coordinates              = {{coord|43|8|20|N|72|26|53|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 03609
+|area_code                = [[Area code 603|603]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 33-56420
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0868821
+|website                  = 
+|footnotes                = 
+}}
+'''North Walpole''' is a [[census-designated place]] (CDP) in the town of [[Walpole, New Hampshire|Walpole]] in [[Cheshire County, New Hampshire|Cheshire County]], [[New Hampshire]], United States. It had a population of 828 at the 2010 census,<ref name="Census 2010">{{Cite web| url=https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/G001/1600000US3356420| title=Geographic Identifiers: 2010 Census Summary File 1 (G001): North Walpole CDP, New Hampshire| publisher=U.S. Census Bureau| work=American Factfinder| accessdate=October 12, 2017| archive-url=https://archive.today/20200213112739/https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/G001/1600000US3356420| archive-date=February 13, 2020| url-status=dead}}</ref> making it the largest village in the town of Walpole.
+
+It is located along [[New Hampshire Route 12]] directly across the [[Connecticut River]] from the village of [[Bellows Falls, Vermont]]. North Walpole has a separate [[ZIP code]] (03609) from the rest of Walpole.
+
+==History==
+Spring [[snowmelt]] brought [[Log driving|log drives]] down the Connecticut River. Log drivers were stationed to guide logs through a sluice over the dam at Bellows Falls. North Walpole offered twelve to eighteen saloons to quench log drivers' thirst.<ref>{{cite book| title=Yankee Loggers |author=[[Stewart Holbrook|Holbrook, Stewart H.]] |publisher=International Paper Company |year=1961 |page=70}}</ref> These spring drives were stopped after 1915, when pleasure boat owners complained about the hazards to navigation.<ref>{{cite book | author = Wheeler, Scott |title = The History of Logging in Vermont's Northeast Kingdom | publisher = The Kingdom Historical |date=September 2002}}</ref>
+
+==Geography==
+North Walpole is in the northwest corner of the town of Walpole, bordered to the south and west by the Connecticut River and to the north by the town of [[Charlestown, New Hampshire|Charlestown]] in [[Sullivan County, New Hampshire|Sullivan County]]. New Hampshire Route 12 passes through the center of the village as Main Street and Church Street; it leads north {{convert|7|mi|0}} to [[Charlestown (CDP), New Hampshire|Charlestown]] and {{convert|20|mi}} to [[Claremont, New Hampshire|Claremont]], while to the south it leads {{convert|4.5|mi}} to [[Walpole (CDP), New Hampshire|Walpole village]] and {{convert|21|mi}} to [[Keene, New Hampshire|Keene]]. The [[Arch Bridge (Bellows Falls)|Arch Bridge]] leads from North Walpole across the Connecticut River to the village of Bellows Falls in Vermont.
+
+According to the [[U.S. Census Bureau]], the North Walpole CDP has a total area of {{convert|1.8|km2|order=flip|1}}, of which {{convert|9081|sqm|acre|order=flip|2}}, or 0.51%, are water.<ref name="Census 2010"/>
+
+==Demographics==
+As of the census of 2010, there were 828 people, 340 households, and 216 families residing in the CDP. There were 387 housing units, of which 47, or 12.1%, were vacant. The racial makeup of the CDP was 96.3% [[White Americans|white]], 0.4% [[African American]], 0.2% [[Native Americans in the United States|Native American]], 0.2% [[Asian Americans|Asian]], 0.0% Native Hawaiian or Pacific Islander, 0.4% some other race, and 2.5% two or more races. 1.4% of the population were [[Hispanic]] or [[Hispanic and Latino Americans|Latino]] of any race.<ref name="Census 2010 DP">{{Cite web| url=https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/SF1DP1/1600000US3356420| title=Profile of General Population and Housing Characteristics: 2010 Census Summary File 1 (DP-1): North Walpole CDP, New Hampshire| publisher=U.S. Census Bureau| work=American Factfinder| accessdate=October 12, 2017| archive-url=https://archive.today/20200213131735/https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/SF1DP1/1600000US3356420| archive-date=February 13, 2020| url-status=dead}}</ref>
+
+Of the 340 households in the CDP, 35.0% had children under the age of 18 living with them, 43.2% were headed by married couples living together, 14.1% had a female householder with no husband present, and 36.5% were non-families. 30.0% of all households were made up of individuals, and 10.5% were someone living alone who was 65 years of age or older. The average household size was 2.44, and the average family size was 3.02.<ref name="Census 2010 DP"/>
+
+26.3% of residents in the CDP were under the age of 18, 7.0% were from age 18 to 24, 29.9% were from 25 to 44, 24.0% were from 45 to 64, and 12.7% were 65 years of age or older. The median age was 37.4 years. For every 100 females, there were 92.6 males. For every 100 females age 18 and over, there were 90.6 males.<ref name="Census 2010 DP"/>
+
+For the period 2011-15, the estimated median annual income for a household was $71,739, and the median income for a family was $70,583. The [[per capita income]] for the CDP was $26,565. 8.9% of the population and 4.7% of families were below the poverty line, along with 9.1% of people under the age of 18 and 6.3% of people 65 or older.<ref>{{Cite web| url=https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/DP03/1600000US3356420| title=Selected Economic Characteristics: 2011-2015 American Community Survey 5-Year Estimates (DP03): North Walpole CDP, New Hampshire| publisher=U.S. Census Bureau| work=American Factfinder| accessdate=October 12, 2017| archive-url=https://archive.today/20200213104000/https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/DP03/1600000US3356420| archive-date=February 13, 2020| url-status=dead}}</ref>
+
+==Notable people==
+* [[Bill Jackowski]] (1914–1996), National League umpire from 1952 to 1968
+
+==References==
+{{Reflist}}
+
+{{Cheshire County, New Hampshire}}
+
+{{authority control}}
+
+[[Category:Census-designated places in New Hampshire]]
+[[Category:Census-designated places in Cheshire County, New Hampshire]]
+[[Category:Walpole, New Hampshire]]

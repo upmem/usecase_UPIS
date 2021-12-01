@@ -1,0 +1,153 @@
+{{use dmy dates|date=July 2013}}
+{|{{Infobox ship begin}}
+|+USC&GS ''George S. Blake''
+{{Infobox ship image
+|Ship image=C&GS steamer-Blake-1874-1905.jpg
+|Ship caption=USC&GS ''George S. Blake'' c.1870s
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag={{USN flag|1871}} [[File:Flag of the United States Coast and Geodetic Survey.svg|53px]]
+|Ship name=
+|Ship namesake=Commodore George Smith Blake (1803-1871)
+|Ship ordered=
+|Ship awarded=
+|Ship builder=E. J. Fardy, Baltimore, Maryland
+|Ship original cost=$84,600
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship in service=1874
+|Ship out of service=25 January 1905
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship captured=
+|Ship fate=Sold
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship type=
+|Ship displacement=
+|Ship tonnage=182 tons
+|Ship length={{convert|148|ft|abbr=on}}
+|Ship beam={{convert|26|ft|6|in|m|abbr=on}}
+|Ship draft={{convert|11|ft|8|in|m|abbr=on}}
+|Ship propulsion=
+|Ship sail plan=[[Schooner]]
+|Ship speed=
+|Ship range=
+|Ship endurance=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=
+|Ship crew=
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+|Ship armour=
+|Ship notes=
+}}
+|}
+
+'''USC&GS ''George S. Blake''''', in service 1874–1905, is, with the [[U.S. Fish Commission]] steamer {{USS|Albatross|1882|2}}, one of only two US oceanographic vessels with her name inscribed in the façade of the [[Oceanographic Museum|Oceanographic Museum (Musée Océanographique)]], Monaco due to her being "the most innovative oceanographic vessel of the Nineteenth Century" with development of deep ocean exploration through introduction of steel cable for sounding, dredging and deep anchoring and data collection for the "first truly modern bathymetric map of a deep sea area."<ref Name=GSBNOAA>{{cite web |url=http://www.history.noaa.gov/ships/blake.html |title=''George S. Blake'' |year=2006 |work=NOAA History: Coast and Geodetic Survey Ships |publisher=National Oceanic & Atmospheric Administration (NOAA), NOAA Central Library}}</ref>
+
+== Construction ==
+
+''George S. Blake'', a steam and sail schooner, was built at a cost of $84,600 in 1874 by E. J. Fardy, Baltimore, Maryland with dimensions of {{convert|148|ft|0|in|}} length with {{convert|26|ft|6|in}} beam and draft of {{convert|11|ft|8|in}}. It was named after late [[United States Naval Academy]] Superintendent [[George S. Blake]].<ref Name=GSBNOAA />
+
+== Notable events ==
+
+[[Image:Sigsbee Sounding Machine-Blake.jpg|thumb|left|250px|Sigsbee Sounding Machine - invented by Charles D. Sigsbee and modified from Thomson Sounding Machine. Basic design of ocean sounding instruments stayed the same for the next 50 years. Here the sounding machine is used to set a Pillsbury current meter at a known depth. In: ''The Gulf Stream'', by John Elliott Pillsbury, 1891. Note caption on photo: "Sounding Machine And Current Meter In Place, Steamer ''Blake''"]]
+
+Among the notable discoveries linked to the ship was the definition of bathymetry proving an unexpected at the time and unusual feature of the United States continental slope, now named for the ship as the [[Blake Plateau]]. Initial findings of such a plateau were found in June 1880 during investigations of the [[Gulf Stream]].<ref>{{cite web |url=http://oceancurrents.rsmas.miami.edu/atlantic/gulf-stream.html |title=Gulf Stream |first=Joanna |last=Gyory |first2=Arthur J. |last2=Mariano |first3=Edward H. |last3=Ryan |website=Ocean Surface Currents |accessdate=2013-07-17}}</ref> During her first survey season, starting in June 1874, ''George S. Blake'' was being used to test deep sea equipment designed by [[Sir William Thomson]], the [[William Thomson, 1st Baron Kelvin#Marine|Thomson Sounding Machine]] (also known as the Kelvin sounding machine<ref>{{cite web |url=http://www.submerged.co.uk/kelvins-machine.php |title=Lord Kelvin;s Sounding Machine |website=Submerged Newsletter |date=1 July 2007}}</ref>), as modified by [[George Belknap|Commander Belknap, USN]] and to bring up specimens from {{convert|2144|fathom|ft m}} in the [[Gulf of Maine]]. By the time the ship reached the Gulf of Mexico in 1875 under the command of Lieutenant Commander [[Charles Dwight Sigsbee]], USN{{#tag:ref|Many of the Survey's officers and men of the period were detached from the US Navy to the Coast and Geodetic Survey under existing law that required hydrography of the Coast Survey be executed by officers and men of the Navy when they can be furnished.{{sfn|U.S. Coast and Geodetic Survey|1877|page=3}} Typical listing in these reports is as in the case of this officer: "Lieut. Commander John A. Howell, U.S.N., '''Assistant in the Coast Survey'''" where "Assistant" is a title for both high office and topographic survey management positions and ship's commanding officers.|group="Note"}} the ship was using a modification of the Thomson sounding machine designed by Sigsbee, known as the Sigsbee sounding machine that was the standard wire sounding device for fifty years,<ref>{{cite web |url=http://oceanexplorer.noaa.gov/history/timeline/timeline.html |title=History of NOAA Ocean Exploration, Timeline, The Early Years (1807-1865) |website=Ocean Explorer |publisher=National Oceanic and Atmospheric Administration |accessdate=9 February 2012}}</ref> and with the shot release device first tested the previous year with Sigsbee attached to the survey party.<ref Name=AR1875>{{cite book |title=Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Survey During the Year 1875 |author=U.S. Coast and Geodetic Survey |year=1878 |publisher=U.S. Government Printing Office |location=Washington, D.C. |isbn= |url=http://docs.lib.noaa.gov/rescue/cgs/001_pdf/CSC-0024.PDF }}</ref><ref Name=AR1874>{{cite book |title=Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Survey During the Year 1874 |author=U.S. Coast and Geodetic Survey |year=1877 |publisher=U.S. Government Printing Office |location=Washington, D.C. |url=http://docs.lib.noaa.gov/rescue/cgs/001_pdf/CSC-0023.PDF |ref=harv}}</ref><ref Name=AR1876>{{cite book |title=Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work for the Fiscal Year Ending June, 1876 |author=U.S. Coast and Geodetic Survey |year=1879 |publisher=U.S. Government Printing Office |location=Washington, D.C. |url=http://docs.lib.noaa.gov/rescue/cgs/001_pdf/CSC-0025.PDF }}</ref>
+
+=== The Gulf of Mexico ===
+
+In addition to simple sounding, dredge samples, current measurements and even water column sampling with a "water cup devised" by Sigsbee, temperatures and other observations were made during surveys.  By the close of the Gulf of Mexico surveys in 1876 the sounding lines and concurrent sampling by ''George S. Blake'' led to the assessment that "the data gathered this season may afford means for developing the main peculiarities of this large body of water"<ref Name=AR1876 />
+
+During 1876 the ship became involved in work undertaken to understand the Gulf Stream and [[John E. Pillsbury]] designed the Pillsbury current meter<ref>{{cite web |url=http://www.photolib.noaa.gov/htmls/ship4033.htm |title=Pillsbury current meter |website=NOAA Photo Library |date=30 April 2013}}</ref> when he was ''George S. Blake''{{'}}s executive officer in 1876. Though other work was done in the stream, that meter was not used until Pillsbury took command of the ship in 1884.<ref Name=Pillsbury>{{cite web |url=http://celebrating200years.noaa.gov/rarebooks/gulfstream/welcome.html |title=The Gulf Stream: Methods of the Investigation and Results of the Research, Appendix No. 10 from the Annual Report of the Coast and Geodetic Survey for 1890 |first=John Elliott, Lieutenant, USN |last=Pillsbury |date=30 August 1890 |work=National Oceanic & Atmospheric Administration (NOAA)-Rare Books |publisher=National Oceanic & Atmospheric Administration (NOAA)}}</ref> It was in association with that work that the deep soundings across the current would reveal the Blake Plateau.
+
+[[Image:Contour map of Gulf of Mexico 1888.jpg|thumb|right|250px|Contour map of the Gulf of Mexico as sounded by ''George S. Blake'' between 1873 and 1875. Over 3,000 soundings went into this chart, most of the deep water soundings taken by the Sigsbee Sounding Machine. "This was the first realistic bathymetric map of any oceanic basin."<ref>{{cite book |url= |title=Three cruises of the United States Coast and Geodetic Survey steamer "Blake" |last=Agassiz |first=Alexander |publisher=Houghton, Mifflin and Company |year=1888 |volume=1 |page=102}}</ref>]]
+
+By 1878 the Gulf Stream and Gulf work would see the addition of [[Alexander Agassiz]], who joined the ship in December 1877 in Havana,<ref Name=AR1879>{{cite book |title=Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work for the Fiscal Year Ending June, 1879 |author=U.S. Coast and Geodetic Survey |year=1881 |publisher=U.S. Government Printing Office |location=Washington, D.C. |url=http://docs.lib.noaa.gov/rescue/cgs/002_pdf/CSC-0078.PDF }}</ref> with dredges and trawls for deep biological sampling.<ref Name=AR1877>{{cite book |title=Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work for the Fiscal Year Ending June, 1877 |author=U.S. Coast and Geodetic Survey |year=1880 |publisher=U.S. Government Printing Office |location=Washington, D.C. |url=http://docs.lib.noaa.gov/rescue/cgs/001_pdf/CSC-0026.PDF }}</ref> By June 1879 the ship had been completely refitted for deep sea sounding and dredging work.<ref Name=AR1879 /> Under the command of John Pillsbury, from 1884 to 1889, the ship intensified Gulf Stream work with current measurements using his device, sounding lines from shore to beyond the current, temperatures and biological sampling.<ref Name=Pillsbury />
+
+=== Atlantic-Caribbean passages ===
+
+In November 1878, Lieutenant Commander Sigsbee had completed deep surveys of the Gulf of Mexico and turned over command to Commander [[John R. Bartlett (naval officer)|John R. Bartlett]], USN{{#tag:ref|The Navy oceanographic ship {{USNS|Bartlett|T-AGOR-13}} was named in his honor.<ref>{{navsource|09/57/5713|USNS Bartlett}}</ref>{{failed verification |date=July 2013}}|group="Note"}} Bartlett exploited Sigsbee's development of the Sigsbee sounding machine and ''George S. Blake''{{'}}s refit to survey with Professor Agassiz in company for biological sample dredging, in the [[Windward Passage]] and the [[Caribbean]]. Agassiz left the ship at [[Barbados]], reached March 1879 with [[malaria]] aboard, the dredging equipment unrigged and sounding lines run in the passages of the [[Windward Islands]] where it was noted "the channels thus developed seem to be merely depressions in a range of partly submerged mountains" while current measurements began to reveal actual circulation patterns in that part of the Atlantic.<ref Name=AR1879 />
+
+In his own report Agassiz noted "One of the most interesting results reached by this year's cruise is the light thrown upon the former extension of the South American continent by the soundings taken while dredging, and those subsequently made in the passages between the islands by Commander Bartlett. Those together with soundings already known, enable us to trace the outline of the old continent ... and thus obtain some intelligible, and at the same time trustworthy, explanation of the peculiar geographical distribution of the fauna and flora of the West India Islands."<ref Name=AR1879 />
+
+=== The Gulf Stream and Blake Plateau ===
+
+By 1880 ''George S. Blake'' current data was supporting Bartlett's theory that "much of the supply for the Gulf Stream passes near the eastern end of Cuba."<ref Name=AR1880>{{cite book |title=Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work for the Fiscal Year Ending June, 1880 |author=U.S. Coast and Geodetic Survey |year=1882 |publisher=U.S. Government Printing Office |location=Washington, D.C. |url=http://docs.lib.noaa.gov/rescue/cgs/002_pdf/CSC-0079.PDF }}</ref> With Gulf Stream work coming to the fore the next season, a new electrical apparatus for recording temperatures was installed. After a northern season with Agassiz again aboard for dredging on Georges Bank, the ship went into winter lay up before setting out from Providence, Rhode Island 4 May 1881 for work in the Gulf Stream, described as:
+
+{{bq |quote=The general limits of work executed during May and June are between Jupiter Inlet, Florida and Currituck Light House, North Carolina, between which points lines of soundings normal to the coast were run, extending across the Bahama Banks and, after leaving those banks, including the whole area swept by the Gulf Stream.<ref Name=AR1881>{{cite book |title=Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work for the Fiscal Year Ending June, 1881 |author=U.S. Coast and Geodetic Survey |year=1883 |publisher=U.S. Government Printing Office |location=Washington, D.C. |url=http://docs.lib.noaa.gov/rescue/cgs/002_pdf/CSC-0080.PDF }}</ref>}}<!-- end of bq template -->
+
+With Agassiz collecting biological samples and examining the Gulf Stream running from Cape Romain eastward, taking frequent soundings, Bartlett noted "depths on this line were unexpectedly small, the axis of the Gulf Stream being crossed before a depth of three hundred fathoms ({{convert|300|fathom|ft m|disp=output only}}) was found", with a bottom of "hard coral" and little life.<ref Name=AR1881 /> This was early indication of the plateau that would in the future carry the ship's name, and by 1882 Commander Bartlett had described the plateau in considerable detail:
+
+{{bq|quote=Instead of a deep channel in the course of the Stream as reported by Lieutenants [[John Newland Maffitt (privateer)|Maffit]] and Craven, and published in the Coast Survey Reports, our later soundings show an extensive and nearly level plateau, extending from a point to the eastward of the Little Bahama Banks to Cape Hatteras — off Cape Canaveral nearly 200 miles wide, and gradually contracting in width to the northward until reaching Hatteras, where the depth is more than 1000 fathoms within thirty miles of shore. This plateau has a general depth of 400 fathoms, suddenly dropping off on its eastern edge to over 2000 fathoms.<ref>{{cite journal |last1=Bartlett  |first1=Commander John R.,USN |year=1882 |title=The Gulf Stream |journal=Proceedings of the United States Naval Institute |volume=VIII |issue= 20 |page=224 |publisher=United States Naval Institute |url=}}</ref><ref>{{cite web |url=http://www.history.noaa.gov/stories_tales/gulfstream4.html |title=The Gulf Stream-Chapter III-Gulf Stream Investigations made by the U.S. Coast Survey Until 1884 and those Contemporary with Them |last=Pillsbury |first=John Elliot |date= |website=NOAA History |publisher=National Oceanic and Atmospheric Administration (NOAA) |accessdate=8 February 2012}}</ref>}}<!-- end of bq template -->
+
+Bartlett reported the scouring effect of the current on the plateau, noting that on each side of the current the sounding cylinder, a device for sampling the nature of the bottom with the sounding, brought up ooze. In the current the "bottom was washed nearly bare" with particles being small and broken pieces of coral rock and so hard the sharp edge of the brass cylinder was bent.<ref>{{cite book |title=Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work During the Fiscal Year Ending with June, 1882 |author=U.S. Coast and Geodetic Survey |year=1883 |publisher=U.S. Government Printing Office |location=Washington, D.C. |url=http://docs.lib.noaa.gov/rescue/cgs/002_pdf/CSC-0081.PDF }}</ref>
+
+In summary, the National Oceanic and Atmospheric Administration's ''History of NOAA Ocean Exploration: Breakthrough Years (1866-1922)'' notes:
+
+{{bq |quote=The Coast Survey Steamer ''Blake'' was unique in the annals of oceanography. It is likely that more major innovations were made aboard the'' Blake ''than on any other ship of the 19th Century. The ship seemed to inspire its personnel to invent new equipment and improve upon methods, as its tradition of forging ahead of existing technology continued for many years and through a number of personnel changes.<ref>{{cite web |url=http://oceanexplorer.noaa.gov/history/breakthru/breakthru.html |title=History of NOAA Ocean Exploration: Breakthrough Years (1866-1922)  |author=National Oceanic and Atmospheric Administration |date= |publisher=National Oceanic and Atmospheric Administration (NOAA) |accessdate=9 February 2012}}</ref>}}<!-- end of bq template -->
+
+=== Service history ===
+
+Under the command of Commander John A. Howell, USN, ''George S. Blake'' immediately began innovative deep ocean work in 1874. Attached to the ship in the Gulf of Mexico was Lieutenant Commander D. Sigsbee to test his new device for releasing the heavy shot weights used in deep soundings.<ref Name=AR1874 /> With development and installation of Sigsbee's sounding machine ''George S. Blake'' became the primary deep ocean sounding ship alternating between the Gulf of Maine and northern waters in summer and southern waters in winter. Soundings in the Gulf of Mexico by the end of 1875 were sufficient for production of the first true oceanic basin bathymetric chart.<ref>{{cite web |url=http://www.photolib.noaa.gov/htmls/theb3785.htm |title=Contour map of Gulf of Mexico as sounded by the C&GS Steamer BLAKE between 1873 and 1875. Over 3,000 soundings went into this chart, most of the deep water soundings between taken by the Sigsbee Sounding Machine. This was the first realistic bathymetric map of any oceanic basin. |author=U.S. Coast and Geodetic Survey |year=1888 |publisher=National Oceanic and Atmospheric Administration (NOAA) |accessdate=9 February 2012}}</ref>
+
+By 1883 ''George S. Blake''{{'}}s boiler had "exceeded the limit of profitable repairs" and a contract was let for replacing the single boiler with two new designs in December 1883 with William L. Pettit, Baltimore. To fit within the old space the new boilers were of elliptical design. Delays in boiler completion were used to realign the shaft and for bottom repair.<ref>{{cite book |title=Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work During the Fiscal Year Ending with June, 1884 |author=U.S. Coast and Geodetic Survey |year=1885 |publisher=U.S. Government Printing Office |location=Washington, D.C. |pages=125–126 |url=http://docs.lib.noaa.gov/rescue/cgs/002_pdf/CSC-0083.PDF }}</ref>
+
+[[File:Coast and Geodetic Survey steamer BLAKE Washington Navy Yard.jpg|250px|thumb|right|Coast and Geodetic Survey steamer Blake, Washington Navy Yard, c. 1880.]]
+
+''George S. Blake'' worked in the vicinity of Nantucket and Boston until 21 September 1892. She was in New York on 11 and 12 October to take part in the New York Columbian Celebration before heading south to make an examination of part of the Hatteras Shoal. On her return north she picked up the Survey's schooner {{ship|USC&GS|Drift||2}} for tow on 2 December 1892 in Norfolk from where both ships went to the [[Washington Navy Yard]]. ''George S. Blake'' prepared there for her appearance at the [[World's Columbian Exposition]] in Chicago there until 2 April 1893 when she sailed north to join ''Bache'' in a special mission.  The commanding officers of both ''Bache'' and ''George S. Blake'' had been directed on 30 March 1893, to support the speed trials of the new cruiser, {{USS|Detroit|C-10|6}} in [[Newport, Rhode Island|Newport Harbor]]. The final trial was over a {{convert|40|mi|adj=on}} course laid out in 1890 by the Coast and Geodetic Survey. The vessels supported current measurements on the course using the Pillsbury current meter through 17 April. ''George S. Blake'' then proceeded to Chicago, Illinois, to be a part of the Coast Survey's exhibit at the World's Columbian Exposition where she remained until 5 October 1893, sailing from Chicago 15 October and arriving in Baltimore on 24 November 1893.<ref>{{cite book |title= Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work During the Fiscal Year Ending with June, 1893 |author=U.S. Coast and Geodetic Survey |year=1894 |volume=1 |publisher=U.S. Government Printing Office |location=Washington, D.C. |url=http://docs.lib.noaa.gov/rescue/cgs/007_pdf/Csc-0175.pdf }}<br />{{cite book |title= Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work During the Fiscal Year Ending with June, 1893 |author=U.S. Coast and Geodetic Survey |year=1895 |volume=2 |publisher=U.S. Government Printing Office |location=Washington, D.C. |url=http://docs.lib.noaa.gov/rescue/cgs/003_pdf/CSC-0103.PDF }}<br />{{cite book |title= Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work During the Fiscal Year Ending with June, 1894 |author=U.S. Coast and Geodetic Survey |year=1895 |volume=1 |publisher=U.S. Government Printing Office |location=Washington, D.C. |url=http://docs.lib.noaa.gov/rescue/cgs/008_pdf/CSC-0177.pdf }}<br />{{cite book |title= Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work During the Fiscal Year Ending with June, 1894 |author=U.S. Coast and Geodetic Survey |year=1895 |volume=2 |publisher=U.S. Government Printing Office |location=Washington, D.C. |url=http://docs.lib.noaa.gov/rescue/cgs/003_pdf/CSC-0099.PDF }}</ref>
+
+Congress had instituted a radical change in the crewing of the vessels through appropriation law approved 6 June 1900 to the effect that beginning 1 July 1900 "all necessary employees to man and equip the vessels" were funded as opposed to the previous scheme in which US Navy officers had commanded and navy enlisted personnel had crewed the Survey's vessels. By prearrangement all naval personnel would remain with the ships until the first call at the home port, where the transfer would be made with the Survey reimbursing the navy for pay after 1 July for those personnel.<ref Name=AR1901>{{cite book |title=Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work from July 1, 1900 to June 30, 1901 |author=U.S. Coast and Geodetic Survey |year=1902 |publisher=U.S. Government Printing Office |location=Washington, D.C. |page=15 |url=http://docs.lib.noaa.gov/rescue/cgs/003_pdf/CSC-0105.PDF }}</ref>
+
+=== End of USC&GS service ===
+
+In the summer of 1904 the ship was in Baltimore undergoing repairs with one last survey season in store. She left Baltimore 22 July 1904 for [[Frenchmans Bay]] and conducted [[Hydrographic survey#Wire-drag surveying|wire-drag]] sweeping of the bay and magnetic observations from 29 July until the season's close. ''George S. Blake'' arrived back in Baltimore 6 November 1904, was laid up 22 December and placed out of commission on 25 January 1905.<ref Name=AR1905>{{cite book |title=Report of the Superintendent of the Coast and Geodetic Survey Showing the Progress of the Work from July 1, 1904 to June 30, 1905 |author=U.S. Coast and Geodetic Survey |year=1905 |publisher=U.S. Government Printing Office |location=Washington, D.C. |page=16 |url=http://docs.lib.noaa.gov/rescue/cgs/004_pdf/CSC-0109.PDF }}</ref>
+
+{{bq |quote=One vessel, the historic steamer ''Blake'', with an international reputation in the work of deep-sea sounding and Gulf Stream investigations, having become so old that the amount required for repairs was excessive, was sold at auction."<ref Name=AR1905 />}}
+
+== Notes ==
+{{reflist|group=Note}}
+
+== References ==
+{{reflist | 2}}
+
+==External links==
+* {{cite book |url=http://celebrating200years.noaa.gov/rarebooks/blake/welcome.html |title=Three cruises of the United States Coast and Geodetic Survey steamer "Blake" |last=Agassiz |first=Alexander |publisher=Houghton, Mifflin and Company |year=1888 |volume=1}} (excerpts at NOAA)
+* {{cite book |url=https://archive.org/details/threecruisesofun01agasrich |title=Three cruises of the United States Coast and Geodetic Survey steamer "Blake" |last=Agassiz |first=Alexander |publisher=Houghton, Mifflin and Company |year=1888 |volume=2}} at archive.org
+* [http://www.totophotos.org/search.asp?word=sounding#18 Toto Photos: Photo Gallery: sounding (illustrations and photos of many early sounding machines and devices)]
+* [https://www.panoramio.com/photo/18848784 Photo of Musée Océanographique, Monaco with BLAKE visible over right of double windows. (click photo to enlarge)]
+
+{{DEFAULTSORT:George S. Blake)}}
+[[Category:1874 ships]]
+[[Category:Ships of the United States Coast and Geodetic Survey]]
+[[Category:Research vessels of the United States]]
+[[Category:Ships built in Baltimore]]

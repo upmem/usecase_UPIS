@@ -1,0 +1,184 @@
+{{short description|Wikipedia list article}}
+==Box office number-one films==
+This is a list of films which placed number one at the weekly [[box office]] in [[France]] during [[2014 in film|2014]]. The weeks start on Wednesdays, and finish on Tuesdays. The box-office number one is established in terms of tickets sold during the week.
+
+{| class="wikitable sortable"
+!Week
+!End date for the week
+!Film
+!Tickets sold
+!Note(s)
+|-
+| 1 || {{dts|2014|January|7}} || ''[[The Wolf of Wall Street (2013 film)|The Wolf of Wall Street]]'' || 701,800 ||align='center'|<ref>{{cite web | title=BoxOffice France 01-07 Janvier 2014 | url=http://jpbox-office.com/classfr.php?idsem=2297 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 2 || {{dts|2014|January|14}} || rowspan="2" | ''[[Yves Saint Laurent (film)|Yves Saint Laurent]]'' || 554,846 ||align='center'|<ref>{{cite web | title=BoxOffice France 08-14 Janvier 2014 | url=http://jpbox-office.com/classfr.php?idsem=2298 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 3 || {{dts|2014|January|21}} || 410,488 ||align='center'|<ref>{{cite web | title=BoxOffice France 15-21 Janvier 2014 | url=http://jpbox-office.com/classfr.php?idsem=2299 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 4 || {{dts|2014|January|28}} || ''[[12 Years a Slave (film)|12 Years a Slave]]'' || 375,305 ||align='center'|<ref>{{cite web | title=BoxOffice France 22-28 Janvier 2014 | url=http://jpbox-office.com/classfr.php?idsem=2300 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 5 || {{dts|2014|February|4}} || ''[[Minuscule: Valley of the Lost Ants]]'' || 392,852 ||align='center'|<ref>{{cite web | title=BoxOffice France 29 Janvier-04 Février 2014 | url=http://jpbox-office.com/classfr.php?idsem=2301 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 6 || {{dts|2014|February|11}} || ''[[RoboCop (2014 film)|RoboCop]]'' || 348,763 ||align='center'|<ref>{{cite web | title=BoxOffice France 05-11 Février 2014 | url=http://jpbox-office.com/classfr.php?idsem=2302 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 7 || {{dts|2014|February|18}} || rowspan="2" | ''[[Les Trois Frères, le retour]]'' || 1,112,863 ||align='center'|<ref>{{cite web | title=BoxOffice France 12-18 Février 2014 | url=http://jpbox-office.com/classfr.php?idsem=2303 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 8 || {{dts|2014|February|25}} || 611,250 ||align='center'|<ref>{{cite web | title=BoxOffice France 19-25 Février 2014 | url=http://jpbox-office.com/classfr.php?idsem=2304 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 9 || {{dts|2014|March|4}} || rowspan="2" | ''[[Supercondriaque]]'' || 2,151,921 ||align='center'|<ref>{{cite web | title=BoxOffice France 26 Février-04 Mars 2014 | url=http://jpbox-office.com/classfr.php?idsem=2305 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 10 || {{dts|2014|March|11}} || 1,189,985 ||align='center'|<ref>{{cite web | title=BoxOffice France 05-11 Mars 2014 | url=http://jpbox-office.com/classfr.php?idsem=2306 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 11 || {{dts|2014|March|18}} || ''[[Fiston]]'' || 921,751 ||align='center'|<ref>{{cite web | title=BoxOffice France 12-18 Mars 2014 | url=http://jpbox-office.com/classfr.php?idsem=2307 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 12 || {{dts|2014|March|25}} || ''Supercondriaque'' || 476,865 ||align='center'|<ref>{{cite web | title=BoxOffice France 19-25 Mars 2014 | url=http://jpbox-office.com/classfr.php?idsem=2308 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 13 || {{dts|2014|April|1}} || rowspan="2" | ''[[Captain America: The Winter Soldier]]'' || 769,959 ||align='center'|<ref>{{cite web | title=BoxOffice France 26 Mars-01 Avril 2014 | url=http://jpbox-office.com/classfr.php?idsem=2309 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 14 || {{dts|2014|April|8}} || 452,237 ||align='center'|<ref>{{cite web | title=BoxOffice France 02-08 Avril 2014 | url=http://jpbox-office.com/classfr.php?idsem=2310 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 15 || {{dts|2014|April|15}} || ''[[Rio 2]]'' || 668,971 ||align='center'|<ref>{{cite web | title=BoxOffice France 09-15 Avril 2014 | url=http://jpbox-office.com/classfr.php?idsem=2311 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 16 || {{dts|2014|April|22}} || rowspan="4" | ''[[Serial (Bad) Weddings]]'' || 1,680,249 ||align='center'|<ref>{{cite web | title=BoxOffice France 16-22 Avril 2014 | url=http://jpbox-office.com/classfr.php?idsem=2312 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 17 || {{dts|2014|April|29}} || 1,734,346 ||align='center'|<ref>{{cite web | title=BoxOffice France 23-29 Avril 2014 | url=http://jpbox-office.com/classfr.php?idsem=2313 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 18 || {{dts|2014|May|6}} || 1,715,283 ||align='center'|<ref>{{cite web | title=BoxOffice France 30 Avril-06 Mai 2014 | url=http://jpbox-office.com/classfr.php?idsem=2314 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 19 || {{dts|2014|May|13}} || 1,585,662 ||align='center'|<ref>{{cite web | title=BoxOffice France 07-13 Mai 2014 | url=http://jpbox-office.com/classfr.php?idsem=2315 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 20 || {{dts|2014|May|20}} || ''[[Godzilla (2014 film)|Godzilla]]'' || 720,996 ||align='center'|<ref>{{cite web | title=BoxOffice France 14-20 Mai 2014 | url=http://jpbox-office.com/classfr.php?idsem=2316 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 21 || {{dts|2014|May|27}} || rowspan="2" | ''[[X-Men: Days of Future Past]]'' || 1 223,166 ||align='center'|<ref>{{cite web | title=BoxOffice France 21-27 Mai 2014 | url=http://jpbox-office.com/classfr.php?idsem=2317 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 22 || {{dts|2014|June|3}} || 964,630 ||align='center'|<ref>{{cite web | title=BoxOffice France 28 Mai-03 Juin 2014 | url=http://jpbox-office.com/classfr.php?idsem=2318 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 23 || {{dts|2014|June|10}} || ''[[Edge of Tomorrow (film)|Edge of Tomorrow]]'' || 425,198 ||align='center'|<ref>{{cite web | title=BoxOffice France 04-10 Juin 2014 | url=http://jpbox-office.com/classfr.php?idsem=2319 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 24 || {{dts|2014|June|17}} || ''[[Sous les jupes des filles]]'' || 240,561 ||align='center'|<ref>{{cite web | title=BoxOffice France 11-17 Juin 2014 | url=http://jpbox-office.com/classfr.php?idsem=2320 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 25 || {{dts|2014|June|24}} || ''[[The Other Woman (2014 film)|The Other Woman]]'' || 214,548 ||align='center'|<ref>{{cite web | title=BoxOffice France 18-24 Juin 2014 | url=http://jpbox-office.com/classfr.php?idsem=2321 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 26 || {{dts|2014|July|1}} || ''Serial (Bad) Weddings'' || 457,461 ||align='center'|<ref>{{cite web | title=BoxOffice France 25 Juin-01 Juillet 2014 (Fête du Cinéma) | url=http://jpbox-office.com/classfr.php?idsem=2322 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 27 || {{dts|2014|July|8}} || ''[[How to Train Your Dragon 2]]'' || 1,340,940 ||align='center'|<ref>{{cite web | title=BoxOffice France 02-08 Juillet 2014 | url=http://jpbox-office.com/classfr.php?idsem=2323 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 28 || {{dts|2014|July|15}} || ''[[Nicholas on Holiday]]'' || 887,210 ||align='center'|<ref>{{cite web | title=BoxOffice France 09-15 Juillet 2014 | url=http://jpbox-office.com/classfr.php?idsem=2324 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 29 || {{dts|2014|July|22}} || rowspan="2" | ''[[Transformers: Age of Extinction]]'' || 1,215,124 ||align='center'|<ref>{{cite web | title=BoxOffice France 16-22 Juillet 2014 | url=http://jpbox-office.com/classfr.php?idsem=2325 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 30 || {{dts|2014|July|29}} || 529,588 ||align='center'|<ref>{{cite web | title=BoxOffice France 23-29 Juillet 2014 | url=http://jpbox-office.com/classfr.php?idsem=2326 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 31 || {{dts|2014|August|5}} || ''[[Dawn of the Planet of the Apes]]'' || 1,746,921 ||align='center'|<ref>{{cite web | title=BoxOffice France 30 Juillet-05 Août 2014 | url=http://jpbox-office.com/classfr.php?idsem=2327 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 32 || {{dts|2014|August|12}} || rowspan="5" | ''[[Lucy (2014 film)|Lucy]]'' || 1,941,424 ||align='center'|<ref>{{cite web | title=BoxOffice France 06-12 Août 2014 | url=http://jpbox-office.com/classfr.php?idsem=2328 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 33 || {{dts|2014|August|19}} || 1,080,839 ||align='center'|<ref>{{cite web | title=BoxOffice France 13-19 Août 2014 | url=http://jpbox-office.com/classfr.php?idsem=2329 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 34 || {{dts|2014|August|26}} || 734,480 ||align='center'|<ref>{{cite web | title=BoxOffice France 20-26 Août 2014 | url=http://jpbox-office.com/classfr.php?idsem=2330 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 35 || {{dts|2014|September|2}} || 479,526 ||align='center'|<ref>{{cite web | title=BoxOffice France 27 Août-02 Septembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2331 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 36 || {{dts|2014|September|9}} || 264,029 ||align='center'|<ref>{{cite web | title=BoxOffice France 03-09 Septembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2332 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 37 || {{dts|2014|September|16}} || ''[[Gemma Bovery (film)|Gemma Bovery]]'' || 231,154 ||align='center'|<ref>{{cite web | title=BoxOffice France 10-16 Septembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2333 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 38 || {{dts|2014|September|23}} || ''[[Get Well Soon (film)|Get Well Soon]]'' || 212,122 ||align='center'|<ref>{{cite web | title=BoxOffice France 17-23 Septembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2334 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 39 || {{dts|2014|September|30}} || ''[[Elle l'adore]]'' || 204,698 ||align='center'|<ref>{{cite web | title=BoxOffice France 24-30 Septembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2335 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 40 || {{dts|2014|October|7}} || ''[[The Missionaries]]'' || 431,620 ||align='center'|<ref>{{cite web | title=BoxOffice France 01-07 Octobre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2336 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 41 || {{dts|2014|October|14}} || ''[[Gone Girl (film)|Gone Girl]]'' || 539,178 ||align='center'|<ref>{{cite web | title=BoxOffice France 08-14 Octobre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2337 | work=JP's Box-Office | accessdate=16 October 2014 |language=fr}}</ref>
+|-
+| 42 || {{dts|2014|October|21}} || ''[[Samba (2014 film)|Samba]]'' || 900,042 ||align='center'|<ref>{{cite web | title=BoxOffice France 15-21 Octobre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2338 | work=JP's Box-Office | accessdate=23 October 2014 |language=fr}}</ref>
+|-
+| 43 || {{dts|2014|October|28}} || rowspan="2" | ''[[The Maze Runner (film)|The Maze Runner]]'' || 871,402 ||align='center'|<ref>{{cite web | title=BoxOffice France 22-28 Octobre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2339 | work=JP's Box-Office | accessdate=29 October 2014 |language=fr}}</ref>
+|-
+| 44 || {{dts|2014|November|4}} || 530,511 ||align='center'|<ref>{{cite web | title=BoxOffice France 29 Octobre-04 Novembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2340 | work=JP's Box-Office | accessdate=7 November 2014 |language=fr}}</ref>
+|-
+| 45 || {{dts|2014|November|11}} || rowspan="2" | ''[[Interstellar (film)|Interstellar]]'' || 1,071,360 ||align='center'|<ref>{{cite web | title=BoxOffice France 05-11 Novembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2341 | work=JP's Box-Office | accessdate=14 November 2014 |language=fr}}</ref>
+|-
+| 46 || {{dts|2014|November|18}} || 572,034 ||align='center'|<ref>{{cite web | title=Box-office France : Interstellar reste dans les étoiles  | url=http://www.allocine.fr/article/fichearticle_gen_carticle=18638200.html | work=[[AlloCiné]] | accessdate=20 November 2014 |language=fr}}</ref>
+|-
+| 47 || {{dts|2014|November|25}} || ''[[The Hunger Games: Mockingjay – Part 1]]'' || 1,538,201 ||align='center'|<ref>{{cite web | title=BoxOffice France 19-25 Novembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2343 | work=JP's Box-Office | accessdate=27 November 2014 |language=fr}}</ref>
+|-
+| 48 || {{dts|2014|December|2}} || ''[[Asterix: The Land of the Gods]]'' || 842,999 ||align='center'|<ref>{{cite web | title=BoxOffice France 26 Novembre-02 Décembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2344 | work=JP's Box-Office | accessdate=3 December 2014 |language=fr}}</ref>
+|-
+| 49 || {{dts|2014|December|9}} || ''[[Paddington (film)|Paddington]]'' || 570,040 ||align='center'|<ref>{{cite web | title=BoxOffice France 03-09 Décembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2345 | work=JP's Box-Office | accessdate=11 December 2014 |language=fr}}</ref>
+|-
+| 50 || {{dts|2014|December|16}} || rowspan="2" | ''[[The Hobbit: The Battle of the Five Armies]]'' || 1,789,196 ||align='center'|<ref>{{cite web | title=BoxOffice France 10-16 Décembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2346 | work=JP's Box-Office | accessdate=18 December 2014 |language=fr}}</ref>
+|-
+| 51 || {{dts|2014|December|23}} || 1,229,228 ||align='center'|<ref>{{cite web | title=BoxOffice France 17-23 Décembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2347 | work=JP's Box-Office | accessdate=30 December 2014 |language=fr}}</ref>
+|-
+| 52 || {{dts|2014|December|30}} || ''[[La Famille Bélier]]'' || 1,241,370 ||align='center'|<ref>{{cite web | title=BoxOffice France 24-30 Décembre 2014 | url=http://jpbox-office.com/classfr.php?idsem=2348 | work=JP's Box-Office | accessdate=16 January 2015 |language=fr}}</ref>
+|-
+|}
+
+==Highest-grossing French productions==
+This is a list of domestic films, released in 2014, that registered over one million admissions in France.<ref>{{cite web | title=Box Office France 2014 | url=http://jpbox-office.com/charts_france.php?qpage=datefr&variable=2014 | work=JP's Box-Office | accessdate=4 June 2015 |language=fr}}</ref><ref>{{cite web | title=Box-office 2014 : ces films qui ont atteint le million d'entrées en France | url=http://www.allocine.fr/diaporamas/cinema/diaporama-18638155/ | work=[[AlloCiné]] | accessdate=20 November 2014 |language=fr}}</ref>
+
+{| class="wikitable sortable"
+!Rank
+!Original Title
+!English Title
+!Tickets sold
+!Distributor
+|-
+| 1 || ''[[Qu'est-ce qu'on a fait au Bon Dieu ?]]'' || ''Serial (Bad) Weddings'' || 12,343,707 || [[UGC (cinema operator)|UGC Distribution]]
+|-
+| 2 || ''[[La Famille Bélier]]'' || ''The Bélier Family'' || 7,449,207 || Mars Distribution
+|-
+| 3 || ''[[Supercondriaque]]'' || ''Supercondriaque'' ||  5,268,881   || [[Pathé]]
+|-
+| 4 || ''[[Lucy (2014 film)|Lucy]]'' || ''Lucy'' || 5,201,019 || [[EuropaCorp. Distribution]]
+|-
+| 5 || ''[[Samba (2014 film)|Samba]]'' || ''Samba'' || 3,110,070 || [[Gaumont Film Company|Gaumont]]
+|-
+| 6 || ''[[Astérix: Le Domaine des Dieux]]'' || ''Asterix: The Land of the Gods'' || 2,993,606  || [[SND Films]]
+|-
+| 7 || ''[[Les Vacances du Petit Nicolas]]'' || ''Nicholas on Holiday'' || 2,455,294  || [[Wild Bunch (film company)|Wild Bunch]]
+|-
+| 8 || ''[[Babysitting (film)|Babysitting]]'' || ''Babysitting'' || 2,358,733   || [[Universal Pictures International]]
+|-
+| 9 || ''[[Les Trois Frères, le retour]]'' || ''Three Brothers: The Return'' || 2,289,408  || [[Wild Bunch (film company)|Wild Bunch]]
+|-
+| 10 || ''[[Fiston]]'' || ''Fiston'' || 1,922,868 || [[SND Films]]
+|-
+| 11 || ''[[La Belle et la Bête (2014 film)|La Belle et la Bête]]'' || ''Beauty and the Beast'' || 1,826,747 || [[Pathé]]
+|-
+| 12 || ''[[Yves Saint Laurent (film)|Yves Saint Laurent]]'' || ''Yves Saint Laurent'' || 1,639,214 || [[SND Films]]
+|-
+| 13 || ''[[Barbecue (film)|Barbecue]]'' || ''Barbecue'' || 1,600,584 || [[StudioCanal]]
+|-
+| 14 || ''[[La French]]'' || ''The Connection'' || 1,530,106  || [[Gaumont Film Company|Gaumont]]
+|-
+| 15 || ''[[Minuscule – La Vallée des fourmis perdues]]'' || ''Minuscule: Valley of the Lost Ants'' || 1,465,299 || Le Pacte
+|-
+| 16 || ''[[Sous les jupes des filles]]'' || ''French Women'' || 1,389,147 || [[Wild Bunch (film company)|Wild Bunch]]
+|-
+| 17 || ''[[Le Crocodile du Botswanga]]'' || ''The Crocodile of Botswanga'' || 1,227,314 || Mars Distribution
+|-
+| 18 || ''[[Timbuktu (2014 film)|Timbuktu]]'' || ''Timbuktu'' || 1,180,890 || Le Pacte
+|-
+| 19 || ''[[Tu veux ou tu veux pas]]'' || ''The Missionaries'' || 1,059,794 || [[Warner Bros.]]
+|-
+| 20 || ''[[Une heure de tranquillité]]'' || ''Do Not Disturb'' || 1,006,867 || [[Wild Bunch Distribution]]
+|-
+|}
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite web|url=http://jpbox-office.com/hebdof.php?year=2014 |work=JP's Box-Office |title=Weekly Box Office France 2014|language=fr}}
+* {{cite web|url=http://www.boxofficemojo.com/intl/france/?yr=2014&p=.htm |work=[[Box Office Mojo]] |title=France Weekend Box Office Index for 2014}}
+
+==See also==
+* [[List of French films of 2014]]
+* [[Lists of highest-grossing films in France]]
+{{List of Box office number-one films}}
+
+[[Category:Lists of 2014 box office number-one films|France]]
+[[Category:2014 in French cinema]]
+[[Category:Lists of box office number-one films in France]]

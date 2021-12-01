@@ -1,0 +1,14 @@
+== Summary ==
+{{Non-free use rationale poster
+|Description = 
+|Media = film
+|Source = http://moviekaka.com/movies/desh-re-joya-dada-pardesh-joya-1990-gujarati-movie
+|Author = 
+|Use = Infobox
+|Article =Desh Re Joya Dada Pardesh Joya
+}}
+
+== Licensing ==
+{{Non-free poster|image has rationale=yes}}
+
+[[Category:Film posters for Gujarati language films]]

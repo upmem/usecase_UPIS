@@ -1,0 +1,71 @@
+{{Infobox football club
+| clubname = Nandasmo F.C.
+| image = 
+| fullname = Nandasmo Futbol Clube
+| nickname =   
+| founded  = 
+| ground   = Estadio <br>[[Nandasmo]], [[Nicaragua]]
+| capacity = 
+| chairman  = 
+| manager  = Marcos Bodán
+| league   = [[Nicaraguan Primera División]]
+| season   =  
+| position = 
+| pattern_la1=|pattern_b1=_bluetstripeonright|pattern_ra1=
+| leftarm1=0000ff|body1=FFFF00|rightarm1=FFFF00| shorts1=0000ff|socks1=0000ff
+}}
+
+'''Nandasmo Futbol Clube''' is a [[Nicaragua]]n [[association football|football]] team currently playing in the [[Nicaraguan Primera División]]. They are based in [[Nandasmo]].
+
+==History==
+Nandasmo was promoted to the Primera Division after the 2015–2016 season. [http://www.laprensa.com.ni/2016/07/06/deportes/2063626-asi-nandasmo-fc-nuevo-equipo-la-primera-division]  However, they were immediately relegated after finishing dead last in both the Apertura and Clausura.
+
+==Current squad==
+{| class="wikitable sortable"
+|-
+! style="background:#CE1F41; color:white;" scope="col"|No.
+! style="background:#CE1F41; color:white;" scope="col"|Position
+! style="background:#CE1F41; color:white;" scope="col"|Player
+! style="background:#CE1F41; color:white;" scope="col"|Nation
+|-
+{{Fs player2 sort |no=1 |nat=NCA |pos=GK |first=Franklin |last=Gómez|dab=Franklin Gómez (footballer)}}
+{{Fs player2 sort |no=2 |nat=NCA |pos=DF |first=Javier |last=Calero}}
+{{Fs player2 sort |no=3 |nat=NIC |pos=DF|first=Fernando |last=Lopez|dab=Fernando Lopez (Nicaraguan footballer)}}
+{{Fs player2 sort |no=4 |nat=NCA |pos=DF |first=Jadier |last=Ticay}}
+{{Fs player2 sort |no=5 |nat=NCA |pos=DF |first=Luis |last=Méndez|dab=Luis Méndez (Nicaraguan footballer)}}
+{{Fs player2 sort |no=6 |nat=NCA |pos=MF |first=Eduardo |last=Pérez|dab=Eduardo Pérez (footballer)}}
+{{Fs player2 sort |no=7 |nat=NIC |pos=MF |first=Guillermo |last=Jarquin}}
+{{Fs player2 sort |no=8 |nat=NCA |pos=FW |first=Kairo |last=Ruíz|dab=Kairo Ruíz (footballer)}}
+{{Fs player2 sort |no=9 |nat=NCA |pos=FW |first=Emerson |last=Quintero}}
+{{Fs player2 sort |no=10 |nat=NCA |pos=MF |first=Emigdio |last=Arias}}
+{{Fs player2 sort |no=11 |nat=NCA |pos=MF |first=Jack |last=Tapia}}
+{{Fs player2 sort |no=12 |nat=NCA |pos=MF |first=Rony |last=Ruíz}}
+{{Fs player2 sort |no=13 |nat=NCA |pos=MF |first=Alejandro |last=Ruíz}}
+{{Fs player2 sort |no=14 |nat=COL |pos=FW |first=Camilo  |last=Quiñones}}
+{{Fs player2 sort |no=15 |nat=COL |pos=FW |first=Willer |last=Rodriguez}}
+{{Fs player2 sort |no=16 |nat=NIC |pos=MF |first=Jonathan |last=Lopez|dab=Jonathan Lopez (Nicaraguan footballer)}}
+{{Fs player2 sort |no=17 |nat=NIC |pos=MF |first=Menderson  |last=Cano}}
+{{Fs player2 sort |no=18 |nat=NCA |pos=MF |first=Fabricio |last=Sandoval }}
+{{Fs player2 sort |no=19 |nat=NCA |pos=MF |first=Emir |last=Medrano}}
+{{Fs player2 sort |no=20 |nat=NIC |pos=FW |first=Leonardo |last=Arias}}
+{{Fs player2 sort |no=21 |nat=NCA |pos=DF |first=Julio |last=Martinez|dab=Julio Martinez (Nicaraguan footballer)}}
+{{Fs player2 sort |no=22 |nat=NCA |pos=GK |first=Kedler |last=Campos}}
+|}
+
+===Squad Changes 2016 Apertura===
+'''In:'''
+
+==Achievements==
+*'''[[Segunda División de Nicaragua]]: 1'''
+*:2016
+
+==List of Coaches==
+* {{flagicon|NCA}} TBD
+* {{flagicon|NCA}} Marcos Bodán (2016)
+
+==External links==
+* [https://web.archive.org/web/20131226085650/http://www.goolnica.com/beta/equipo.php?ID=14 Profile] – GoolNica
+
+{{Primera División de Nicaragua}}
+
+[[Category:Football clubs in Nicaragua]]

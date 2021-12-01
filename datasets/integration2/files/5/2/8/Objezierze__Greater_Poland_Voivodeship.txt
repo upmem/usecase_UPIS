@@ -1,0 +1,37 @@
+{{Other places|Objezierze (disambiguation){{!}}Objezierze}}
+{{Infobox settlement
+| name = Objezierze
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline = Nithrarith 307 A zespol palacowy z lat 1792-98 1841 1905-1906 Objezierze 01.jpg
+| image_caption = Palace in Objezierze
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Oborniki|Oborniki]]
+| coordinates = {{coord|52|36|17|N|16|45|46|E|region:PL|display=inline}}
+| pushpin_map = Poland
+| pushpin_label_position = right
+| elevation_m =
+| population_total = 960
+| website = }}
+'''Objezierze''' {{IPAc-pl|o|b|j|e|'|ź|e|ż|e}} ({{lang-de|Oberau}}) is a [[village]] in the administrative district of [[Gmina Oborniki]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|7|km|mi|0}} south-west of [[Oborniki]] and {{convert|25|km|mi|0|abbr=on}} north-west of the regional capital [[Poznań]].
+
+The village has a population of 960.
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Oborniki}}
+{{Oborniki-geo-stub}}
+{{coord|52|36|17|N|16|45|46|E|region:PL_type:city|display=title}}
+
+[[Category:Villages in Oborniki County|Objezierze]]

@@ -1,0 +1,88 @@
+{{short description|2017 album by Unleash the Archers}}
+{{Infobox album
+| name       = Apex
+| type       = studio
+| artist     = [[Unleash the Archers]]
+| cover      = Apex_album_cover.jpg
+| alt        =
+| released   = {{Start date|2017|6|2|mf=y}}<ref>{{Cite web|url=http://www.knac.com/article.asp?ArticleID=23769|title=KNAC.COM - News - UNLEASH THE ARCHERS Premiere 'The Matriarch' Video|website=www.knac.com|access-date=2017-12-29}}</ref>
+| recorded   =
+| studio     = Hansen Studios, Ribe, Denmark
+| genre      = {{hlist|[[Power metal]]|[[Heavy metal music|heavy metal]]|[[speed metal]]<ref>{{cite web|url=https://www.straight.com/music/1150066/unleash-archers-escapism-without-regrets|title=Unleash the Archers: Escapism Without Regrets|last=MacInnis|first=Allan|date=October 12, 2018|website=[[The Georgia Straight]]|access-date=March 2, 2019}}</ref>}}
+| length     = {{Duration|m=60|s=39}}
+| label      = [[Napalm Records|Napalm]]
+| producer   =
+| prev_title = Time Stands Still
+| prev_year  = 2015
+| next_title = [[Abyss (Unleash the Archers album)|Abyss]]
+| next_year  = 2020
+}}
+{{album ratings
+| rev1 = Metal Assault
+| rev1score = 9.5/10<ref>{{cite web|publisher=Metal Assault|last=Bansal|first=Andrew|url=http://metalassault.com/album_reviews/2017/06/02/unleash-the-archers-apex/|title=Album Review: Unleash The Archers - Apex|date=June 2, 2017|accessdate=March 1, 2020}}</ref>
+}}
+'''''Apex''''' is the fourth studio album by Canadian [[Heavy metal music|heavy metal]] band [[Unleash the Archers]]. It was released on June 2, 2017, through [[Napalm Records]].<ref>{{Cite web|url=http://www.metaltalk.net/news_seventeen/unleash_the_archers_album_details.php|title=UNLEASH THE ARCHERS UPCOMING ALBUM DETAILS ARE HERE|last=Goldby|first=Steve|website=www.metaltalk.net|access-date=2017-12-29}}</ref><ref name=":0">{{Cite web|url=http://label.napalmrecords.com/blog/?entryID=1003|title=napalmrecords.com :: Newsblog|website=label.napalmrecords.com|language=de|access-date=2017-12-29}}</ref>
+
+==Track listing==
+{{Track listing
+| all_writing = Unleash the Archers, except where noted
+| title1 = Awakening
+| length1 = 7:17
+| title2 = Shadow Guide
+| length2 = 3:56
+| title3 = The Matriarch
+| length3 = 4:02
+| title4 = Cleanse the Bloodlines
+| length4 = 5:54
+| title5 = The Coward's Way
+| length5 = 5:05
+| title6 = False Walls
+| length6 = 8:05
+| title7 = Ten Thousand Against One
+| length7 = 5:37
+| title8 = Earth and Ashes
+| length8 = 6:35
+| title9 = Call Me Immortal
+| length9 = 5:46
+| title10 = Apex
+| length10 = 8:20
+| total_length = 60:39<ref name="applemusic">{{cite web |title=Apex - Unleash the Archers |url=https://music.apple.com/us/album/apex/1219794060 |work=[[Apple Music]] |publisher=[[Apple Inc.|Apple]] |access-date=13 September 2020}}</ref>
+}}
+{{track listing
+| headline = Japan bonus track
+| title11 = [[Queen of the Reich]]
+| note11 = [[Queensrÿche]] cover
+| writer11 = [[Chris DeGarmo]]
+| length11 = 4:16
+}}
+
+==Personnel==
+;Unleash the Archers
+* Brittney Slayes – vocals
+* Scott Buchanan – drums
+* Grant Truesdell – guitars
+* Andrew Kingsley – guitars
+* Nikko Whitworth – bass
+
+;Production
+* Jacob Hansen – recording, mixing, and mastering
+* Jonas Haagensen – engineering assistant
+* Shimon Karmel – photography
+* Ken Sarafin<ref name=":0" /> – artwork, layout
+
+==Charts==
+{| class="wikitable sortable plainrowheaders" style="text-align:center"    
+|-
+! scope="col"| Chart
+! scope="col"| Peak<br /> position
+|-
+{{album chart|BillboardIndependent|28|artist=Unleash The Archers|rowheader=true|accessdate=December 29, 2017}}
+|}
+
+==References==
+{{Reflist}}
+
+[[Category:2017 albums]]
+[[Category:Napalm Records albums]]
+[[Category:Unleash the Archers albums]]
+[[Category:Concept albums]]

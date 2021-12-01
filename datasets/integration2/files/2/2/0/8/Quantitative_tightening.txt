@@ -1,0 +1,31 @@
+'''Quantitative tightening''' ('''QT''') (or quantitative hardening) is a contractionary [[monetary policy]] applied by a central bank to decrease the amount of liquidity within the economy. The policy is the reverse of [[quantitative easing]] (QE) aimed to increase money supply in order to "stimulate" the economy.<ref>{{cite web|last1=Brookes|first1=Marcus|title=60 seconds explaining quantitative tightening|url=http://www.schroders.com/en/us/insights/watchlisten/60-seconds-explaining-quantitative-tightening/|website=[[Schroders]]|publisher=schroders.com|accessdate=24 May 2018|date=October 18, 2017}}</ref><ref name="nytimes-2019-01-30">{{cite web|url=https://www.nytimes.com/2019/01/30/business/fed-quantitative-tightening.html|title=The Hot Topic in Markets Right Now: â€˜Quantitative Tighteningâ€™|first=Matt|last=Phillips|date=30 January 2019|publisher=|via=NYTimes.com}}</ref> The QE policy was massively applied by leading central banks to counter the [[Great Recession]] that started in 2008.<ref name="nytimes-2019-01-30"/> The prime rates were decreased to zero; some rates later went into the negative territory. For example, to fight with ultra-low inflation or [[deflation]] caused by the economic crisis, the [[European Central Bank]], overseeing monetary policy for countries that use the euro, introduced negative rates in 2014. The central banks of Japan, Denmark, Sweden, and Switzerland also set negative rates.<ref>{{cite web|last1=Soble|first1=Jonathan|title=Japan’s Negative Interest Rates Explained|url=https://www.nytimes.com/2016/09/21/business/international/japan-boj-negative-interest-rates.html|website=[[The New York Times]]|publisher=nytimes.com|accessdate=24 May 2018|date=September 20, 2016}}</ref>
+
+The main goal of QT is to normalise (i.e. raise) interest rates in order to avoid increasing inflation as it becomes expensive to access money and reduces demand for goods and services in the economy. Like QE before it, QT has never been done before on a massive scale, and its consequences have yet to materialize and be studied.<ref>{{cite web|title=What Is Quantitative Tightening?|url=https://www.fxcm.com/insights/what-is-quantitative-tightening/|website=FXCM|publisher=fxcm.com|accessdate=24 May 2018}}</ref> In 2018, the Fed began retiring some of the debt on their balance sheet, beginning quantitative tightening. In 2019, less than a year after initiating QT, central banks, including the Fed, ended quantitative tightening due to negative market conditions occurring soon after. <ref>{{cite web|title=Fed Move Ends the Short Era of Global Quantitative Tightening|url=https://www.bloomberg.com/news/articles/2019-08-01/fed-move-ends-the-short-era-of-global-quantitative-tightening|website=Bloomberg.com|publisher=Bloomberg L.P.|accessdate=24 April 2020}}</ref>
+
+==An effect on asset prices==
+Whereas QE caused the substantial rise in asset prices over the past decade, QT may cause broadly offsetting effects in the opposite direction.<ref>{{cite web|last1=Webb|first1=Merryn Somerset|title=What to do as quantitative easing becomes quantitative tightening|url=https://moneyweek.com/what-to-do-as-quantitative-easing-becomes-quantitative-tightening/|website=Money Week|publisher=moneyweek.com|accessdate=24 May 2018|date=23 April 2018}}</ref>
+
+==A living experiment - Bitcoin==
+[[Bitcoin]] is a payment network that approaches the direction of QT, while not quite a QT system. There is a fixed supply (~~21 million)<ref>{{Cite web|url=https://www.technologyreview.com/2011/05/25/194486/what-bitcoin-is-and-why-it-matters/|title=What bitcoin is and why it matters|last=Simonite|first=Tom|date=May 25, 2011|website=MIT Technology Review|url-status=live|archive-url=|archive-date=|access-date=April 29, 2020}}</ref> of [[Bitcoin]], with an inflationary supply schedule, albeit a decreasing supply<ref>{{Cite web|url=https://hackernoon.com/the-bitcoin-halvening-is-more-than-just-about-money-deep-dive-vq7332h5|title=The bitcoin halvening is more than just about money|last=Svetski|first=Aleksandar|date=April 17, 2020|website=Hacker Noon|url-status=live|archive-url=|archive-date=|access-date=April 29, 2020}}</ref>, in its first one hundred years.<ref>{{Cite web|url=https://bitcoin.org/en/faq|title=Bitcoin FAQ: Finite amount of Bitcoin, Inflationary Supply, and Deflationary Misconceptions|last=|first=|date=|website=|url-status=live|archive-url=|archive-date=|access-date=}}</ref> 
+
+Research points that some Bitcoin are lost (e.g. due to lost keys), thus tilting Bitcoin closer to QT.<ref>{{Cite web|url=https://blog.chainalysis.com/reports/money-supply|title=Chainalysis Lost Bitcoin and Money Supply Research|last=|first=|date=|website=|url-status=live|archive-url=|archive-date=|access-date=}}</ref>
+
+Proponents of QE and QE prone systems claim that deflationary spirals are linked to depressions. Decreasing prices in electronics easily disprove the notion that deflationary prices indicate economic [[Depression (economics)|depression]].<ref>{{Cite web|url=https://bitcoin.org/en/faq#wont-the-finite-amount-of-bitcoins-be-a-limitation|title=Electronics, Deflation & Lack of Depression|last=|first=|date=|website=|url-status=live|archive-url=|archive-date=|access-date=}}</ref> {{Unreliable fringe source|date=June 2020}}
+
+
+==See also==
+*[[Excess reserves]]
+*[[Inflation hedge]]
+*[[Negative interest on excess reserves]]
+*[[Reaganomics]]
+*[[Zero interest-rate policy]] (ZIRP)
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://economic-research.bnpparibas.com/Views/DisplayPublication.aspx?type=document&IdPdf=30326 BNP Paribas on Quantitative tightening]
+
+[[Category:Operations of central banks]]
+[[Category:Financial markets]]
+[[Category:Monetary policy]]

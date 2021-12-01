@@ -1,0 +1,310 @@
+{{Tennis events|1988|WTA Aix-en-Provence Open|s
+| defchamp = 
+| champ    = {{flagicon|FRA}} [[Nathalie Herreman]] <br> {{flagicon|FRA}} [[Catherine Tanvier]]
+| runner   = {{flagicon|ITA}} [[Sandra Cecchini]] <br> {{flagicon|ESP}} [[Arantxa Sánchez Vicario|Arantxa Sánchez]]
+| score    = 6&ndash;4, 7&ndash;5
+| edition  = 
+| type     = singles doubles
+}}
+
+The '''1988 WTA Aix-en-Provence Open – Doubles''' was a division of the [[1988 WTA Aix-en-Provence Open]]. [[Nathalie Herreman]] and [[Catherine Tanvier]] were the defending champions and won in the final 6&ndash;4, 7&ndash;5 against [[Sandra Cecchini]] and [[Arantxa Sánchez Vicario|Arantxa Sánchez]].
+
+==Seeds==
+Champion seeds are indicated in bold text while text in italics indicates the round in which those seeds were eliminated. All eight [[Glossary of tennis#S|seeded teams]] received [[Glossary of tennis#B|byes]] into the second round.
+
+{{columns-list|colwidth=30em|
+# {{flagicon|FRA}} '''[[Nathalie Herreman]]''' / {{flagicon|FRA}} '''[[Catherine Tanvier]] (Champions)'''
+# {{flagicon|ITA}} [[Sandra Cecchini]] / {{flagicon|ESP}} [[Arantxa Sánchez Vicario|Arantxa Sánchez]] ''(Final)''
+# {{flagicon|SFR Yugoslavia}} [[Sabrina Goleš]] / {{flagicon|ARG}} [[Patricia Tarabini]] ''(Second Round)''
+# {{flagicon|FRA}} [[Julie Halard-Decugis|Julie Halard]] / {{flagicon|FRA}} [[Nathalie Tauziat]] ''(Second Round)''
+# {{flagicon|NED}} [[Ingelise Driehuis]] / {{flagicon|NED}} [[Marcella Mesker]] ''(Quarterfinals)''
+# {{flagicon|FRG}} [[Andrea Betzner]] / {{flagicon|FRG}} [[Wiltrud Probst]] ''(Second Round)''
+# {{flagicon|BRA|1968}} [[Neige Dias]] / {{flagicon|AUT}} [[Judith Wiesner]] ''(Quarterfinals)''
+# {{flagicon|FRA}} [[Alexia Dechaume-Balleret|Alexia Dechaume]] / {{flagicon|FRA}} [[Emmanuelle Derly]] ''(Semifinals)''
+}}
+
+==Draw==
+{{Draw key}}
+
+===Final===
+{{2TeamBracket-Tennis3
+| RD1=Final
+
+| RD1-seed1=1
+| RD1-team1={{flagicon|FRA}} '''[[Nathalie Herreman]]'''<br>{{flagicon|FRA}} '''[[Catherine Tanvier]]'''
+| RD1-score1-1='''6'''
+| RD1-score1-2='''7'''
+| RD1-score1-3=&nbsp;
+| RD1-seed2=2
+| RD1-team2={{flagicon|ITA}} [[Sandra Cecchini]]<br>{{flagicon|ESP}} [[Arantxa Sánchez Vicario|Arantxa Sánchez]]
+| RD1-score2-1=4
+| RD1-score2-2=5
+| RD1-score2-3=&nbsp;
+}}
+
+===Top Half===
+{{16TeamBracket-Compact-Tennis3-Byes
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarterfinals
+| RD4=Semifinals
+
+| RD1-seed03=&nbsp;
+| RD1-team03={{flagicon|FRA}} [[Maïder Laval|M Laval]]<BR>{{flagicon|FRA}} [[Karine Quentrec|K Quentrec]]
+| RD1-score03-1='''6'''
+| RD1-score03-2=6
+| RD1-score03-3=2
+| RD1-seed04=&nbsp;
+| RD1-team04={{flagicon|ITA}} '''[[Federica Bonsignori|F Bonsignori]]'''<BR>{{flagicon|FRA}} '''[[Virginie Paquet|V Paquet]]'''
+| RD1-score04-1=1
+| RD1-score04-2='''7'''
+| RD1-score04-3='''6'''
+
+| RD1-seed05=&nbsp;
+| RD1-team05={{flagicon|CSK}} '''[[Iva Budařová|I Budařová]]'''<BR>{{flagicon|BRA|1968}} '''[[Patricia Medrado|P Medrado]]'''
+| RD1-score05-1='''6'''
+| RD1-score05-2='''6'''
+| RD1-score05-3=&nbsp;
+| RD1-seed06=&nbsp;
+| RD1-team06={{flagicon|BRA|1968}} [[Luciana Corsato|L Corsato]]<BR>{{flagicon|ARG}} [[Gabriela Mosca|G Mosca]]
+| RD1-score06-1=4
+| RD1-score06-2=3
+| RD1-score06-3=&nbsp;
+
+| RD1-seed11=&nbsp;
+| RD1-team11={{flagicon|CSK}} '''[[Denisa Krajčovičová|D Krajčovičová]]'''<BR>{{flagicon|CSK}} '''[[Jana Pospíšilová|J Pospíšilová]]'''
+| RD1-score11-1='''6'''
+| RD1-score11-2='''7'''
+| RD1-score11-3=&nbsp;
+| RD1-seed12=&nbsp;
+| RD1-team12={{flagicon|USA}} [[Luanne Spadea|L Spadea]]<BR>{{flagicon|BRA|1968}} [[Andrea Vieira|A Vieira]]
+| RD1-score12-1=1
+| RD1-score12-2=6
+| RD1-score12-3=&nbsp;
+
+| RD1-seed13=&nbsp;
+| RD1-team13={{flagicon|NOR}} [[Amy Jonsson|A Jonsson]]<BR>{{flagicon|USA}} [[Michelle Torres|M Torres]]
+| RD1-score13-1=1
+| RD1-score13-2='''7'''
+| RD1-score13-3=4
+| RD1-seed14=&nbsp;
+| RD1-team14={{flagicon|AUS}} '''[[Lisa O'Neill (tennis)|L O'Neill]]'''<BR>{{flagicon|NED}} '''[[Simone Schilder|S Schilder]]'''
+| RD1-score14-1='''6'''
+| RD1-score14-2=5
+| RD1-score14-3='''6'''
+
+| RD2-seed01=1
+| RD2-team01={{flagicon|FRA}} '''[[Nathalie Herreman|N Herreman]]'''<BR>{{flagicon|FRA}} '''[[Catherine Tanvier|C Tanvier]]'''
+| RD2-score01-1='''6'''
+| RD2-score01-2='''6'''
+| RD2-score01-3=&nbsp;
+| RD2-seed02=&nbsp;
+| RD2-team02={{flagicon|ITA}} [[Federica Bonsignori|F Bonsignori]]<br>{{flagicon|FRA}} [[Virginie Paquet|V Paquet]]
+| RD2-score02-1=2
+| RD2-score02-2=1
+| RD2-score02-3=&nbsp;
+
+| RD2-seed03=&nbsp;
+| RD2-team03={{flagicon|CSK}} '''[[Iva Budařová|I Budařová]]'''<BR>{{flagicon|BRA|1968}} '''[[Patricia Medrado|P Medrado]]'''
+| RD2-score03-1=2
+| RD2-score03-2='''6'''
+| RD2-score03-3='''6'''
+| RD2-seed04=6
+| RD2-team04={{flagicon|FRG}} [[Andrea Betzner|A Betzner]]<br>{{flagicon|FRG}} [[Wiltrud Probst|W Probst]]
+| RD2-score04-1='''6'''
+| RD2-score04-2=4
+| RD2-score04-3=2
+
+| RD2-seed05=3
+| RD2-team05={{flagicon|SFR Yugoslavia}} [[Sabrina Goleš|S Goleš]]<br>{{flagicon|ARG}} [[Patricia Tarabini|P Tarabini]]
+| RD2-score05-1=&nbsp;
+| RD2-score05-2=&nbsp;
+| RD2-score05-3=&nbsp;
+| RD2-seed06=&nbsp;
+| RD2-team06={{flagicon|CSK}} '''[[Denisa Krajčovičová|D Krajčovičová]]'''<br>{{flagicon|CSK}} '''[[Jana Pospíšilová|J Pospíšilová]]'''
+| RD2-score06-1='''w/o'''
+| RD2-score06-2=&nbsp;
+| RD2-score06-3=&nbsp;
+
+| RD2-seed07=&nbsp;
+| RD2-team07={{flagicon|AUS}} [[Lisa O'Neill (tennis)|L O'Neill]]<br>{{flagicon|NED}} [[Simone Schilder|S Schilder]]
+| RD2-score07-1=3
+| RD2-score07-2=6
+| RD2-score07-3=&nbsp;
+| RD2-seed08=8
+| RD2-team08={{flagicon|FRA}} '''[[Alexia Dechaume-Balleret|A Dechaume]]'''<br>{{flagicon|FRA}} '''[[Emmanuelle Derly|E Derly]]'''
+| RD2-score08-1='''6'''
+| RD2-score08-2='''7'''
+| RD2-score08-3=&nbsp;
+
+| RD3-seed01=1
+| RD3-team01={{flagicon|FRA}} '''[[Nathalie Herreman|N Herreman]]'''<br>{{flagicon|FRA}} '''[[Catherine Tanvier|C Tanvier]]'''
+| RD3-score01-1=6
+| RD3-score01-2='''6'''
+| RD3-score01-3='''6'''
+| RD3-seed02=&nbsp;
+| RD3-team02={{flagicon|CSK}} [[Iva Budařová|I Budařová]]<br>{{flagicon|BRA|1968}} [[Patricia Medrado|P Medrado]]
+| RD3-score02-1='''7'''
+| RD3-score02-2=4
+| RD3-score02-3=3
+
+| RD3-seed03=&nbsp;
+| RD3-team03={{flagicon|CSK}} [[Denisa Krajčovičová|D Krajčovičová]]<br>{{flagicon|CSK}} [[Jana Pospíšilová|J Pospíšilová]]
+| RD3-score03-1=2
+| RD3-score03-2=3
+| RD3-score03-3=&nbsp;
+| RD3-seed04=8
+| RD3-team04={{flagicon|FRA}} '''[[Alexia Dechaume-Balleret|A Dechaume]]'''<br>{{flagicon|FRA}} '''[[Emmanuelle Derly|E Derly]]'''
+| RD3-score04-1='''6'''
+| RD3-score04-2='''6'''
+| RD3-score04-3=&nbsp;
+
+| RD4-seed01=1
+| RD4-team01={{flagicon|FRA}} '''[[Nathalie Herreman|N Herreman]]'''<br>{{flagicon|FRA}} '''[[Catherine Tanvier|C Tanvier]]'''
+| RD4-score01-1='''6'''
+| RD4-score01-2='''6'''
+| RD4-score01-3=&nbsp;
+| RD4-seed02=8
+| RD4-team02={{flagicon|FRA}} [[Alexia Dechaume-Balleret|A Dechaume]]<br>{{flagicon|FRA}} [[Emmanuelle Derly|E Derly]]
+| RD4-score02-1=2
+| RD4-score02-2=3
+| RD4-score02-3=&nbsp;
+}}
+
+===Bottom Half===
+{{16TeamBracket-Compact-Tennis3-Byes
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarterfinals
+| RD4=Semifinals
+
+| RD1-seed03=&nbsp;
+| RD1-team03={{flagicon|ITA}} '''[[Cathy Caverzasio|C Caverzasio]]'''<BR>{{flagicon|ITA}} '''[[Silvia La Fratta|S La Fratta]]'''
+| RD1-score03-1='''6'''
+| RD1-score03-2='''6'''
+| RD1-score03-3=&nbsp;
+| RD1-seed04=&nbsp;
+| RD1-team04={{flagicon|RSA|1928}} [[Amanda Coetzer|A Coetzer]]<BR>{{flagicon|FRG}} [[Heike Thoms|H Thoms]]
+| RD1-score04-1=4
+| RD1-score04-2=4
+| RD1-score04-3=&nbsp;
+
+| RD1-seed05=&nbsp;
+| RD1-team05={{flagicon|CSK}} [[Michaela Frimmelová|M Frimmelová]]<BR>{{flagicon|CSK}} [[Regina Rajchrtová|R Rajchrtová]]
+| RD1-score05-1=4
+| RD1-score05-2=1
+| RD1-score05-3=&nbsp;
+| RD1-seed06=&nbsp;
+| RD1-team06={{flagicon|USA}} '''[[Stacey Martin|S Martin]]'''<BR>{{flagicon|FRA}} '''[[Virginie Paquet|V Paquet]]'''
+| RD1-score06-1='''6'''
+| RD1-score06-2='''6'''
+| RD1-score06-3=&nbsp;
+
+| RD1-seed11=&nbsp;
+| RD1-team11={{flagicon|USA}} [[Grace Kim (tennis)|G Kim]]<BR>{{flagicon|GBR}} [[Sarah Loosemore|S Loosemore]]
+| RD1-score11-1=3
+| RD1-score11-2=3
+| RD1-score11-3=&nbsp;
+| RD1-seed12=&nbsp;
+| RD1-team12={{flagicon|SFR Yugoslavia}} '''[[Mima Jaušovec|M Jaušovec]]'''<BR>{{flagicon|CSK}} '''[[Regina Maršíková|R Maršíková]]'''
+| RD1-score12-1='''6'''
+| RD1-score12-2='''6'''
+| RD1-score12-3=&nbsp;
+
+| RD1-seed13=&nbsp;
+| RD1-team13={{flagicon|FRA}} [[Catherine Bonnet|C Bonnet]]<BR>{{flagicon|FRA}} [[Nathalie Guerrée-Spitzer|N Guerrée]]
+| RD1-score13-1='''7'''
+| RD1-score13-2=3
+| RD1-score13-3=3
+| RD1-seed14=&nbsp;
+| RD1-team14={{flagicon|ARG}} '''[[Bettina Fulco|B Fulco]]'''<BR>{{flagicon|ARG}} '''[[Adriana Villagrán|A Villagrán]]'''
+| RD1-score14-1=6
+| RD1-score14-2='''6'''
+| RD1-score14-3='''6'''
+
+| RD2-seed01=5
+| RD2-team01={{flagicon|NED}} '''[[Ingelise Driehuis|I Driehuis]]'''<br>{{flagicon|NED}} '''[[Marcella Mesker|M Mesker]]'''
+| RD2-score01-1='''6'''
+| RD2-score01-2='''6'''
+| RD2-score01-3=&nbsp;
+| RD2-seed02=&nbsp;
+| RD2-team02={{flagicon|ITA}} [[Cathy Caverzasio|C Caverzasio]]<br>{{flagicon|ITA}} [[Silvia La Fratta|S La Fratta]]
+| RD2-score02-1=2
+| RD2-score02-2=2
+| RD2-score02-3=&nbsp;
+
+| RD2-seed03=&nbsp;
+| RD2-team03={{flagicon|USA}} '''[[Stacey Martin|S Martin]]'''<br>{{flagicon|FRA}} '''[[Virginie Paquet|V Paquet]]'''
+| RD2-score03-1='''6'''
+| RD2-score03-2='''6'''
+| RD2-score03-3=&nbsp;
+| RD2-seed04=4
+| RD2-team04={{flagicon|FRA}} [[Julie Halard-Decugis|J Halard]]<br>{{flagicon|FRA}} [[Nathalie Tauziat|N Tauziat]]
+| RD2-score04-1=4
+| RD2-score04-2=3
+| RD2-score04-3=&nbsp;
+
+| RD2-seed05=7
+| RD2-team05={{flagicon|BRA|1968}} '''[[Neige Dias|N Dias]]'''<br>{{flagicon|AUT}} '''[[Judith Wiesner|J Wiesner]]'''
+| RD2-score05-1='''6'''
+| RD2-score05-2='''6'''
+| RD2-score05-3=&nbsp;
+| RD2-seed06=&nbsp;
+| RD2-team06={{flagicon|SFR Yugoslavia}} [[Mima Jaušovec|M Jaušovec]]<br>{{flagicon|CSK}} [[Regina Maršíková|R Maršíková]]
+| RD2-score06-1=0
+| RD2-score06-2=2
+| RD2-score06-3=&nbsp;
+
+| RD2-seed07=&nbsp;
+| RD2-team07={{flagicon|ARG}} [[Bettina Fulco|B Fulco]]<br>{{flagicon|ARG}} [[Adriana Villagrán|A Villagrán]]
+| RD2-score07-1=2
+| RD2-score07-2=4
+| RD2-score07-3=&nbsp;
+| RD2-seed08=2
+| RD2-team08={{flagicon|ITA}} '''[[Sandra Cecchini|S Cecchini]]'''<br>{{flagicon|ESP}} '''[[Arantxa Sánchez Vicario|A Sánchez]]'''
+| RD2-score08-1='''6'''
+| RD2-score08-2='''6'''
+| RD2-score08-3=&nbsp;
+
+| RD3-seed01=5
+| RD3-team01={{flagicon|NED}} [[Ingelise Driehuis|I Driehuis]]<br>{{flagicon|NED}} [[Marcella Mesker|M Mesker]]
+| RD3-score01-1='''6'''
+| RD3-score01-2=3
+| RD3-score01-3=6
+| RD3-seed02=&nbsp;
+| RD3-team02={{flagicon|USA}} '''[[Stacey Martin|S Martin]]'''<br>{{flagicon|FRA}} '''[[Virginie Paquet|V Paquet]]'''
+| RD3-score02-1=3
+| RD3-score02-2='''6'''
+| RD3-score02-3='''7'''
+
+| RD3-seed03=7
+| RD3-team03={{flagicon|BRA|1968}} [[Neige Dias|N Dias]]<br>{{flagicon|AUT}} [[Judith Wiesner|J Wiesner]]
+| RD3-score03-1=4
+| RD3-score03-2=5
+| RD3-score03-3=&nbsp;
+| RD3-seed04=2
+| RD3-team04={{flagicon|ITA}} '''[[Sandra Cecchini|S Cecchini]]'''<br>{{flagicon|ESP}} '''[[Arantxa Sánchez Vicario|A Sánchez]]'''
+| RD3-score04-1='''6'''
+| RD3-score04-2='''7'''
+| RD3-score04-3=&nbsp;
+
+| RD4-seed01=&nbsp;
+| RD4-team01={{flagicon|USA}} [[Stacey Martin|S Martin]]<br>{{flagicon|FRA}} [[Virginie Paquet|V Paquet]]
+| RD4-score01-1=1
+| RD4-score01-2=1
+| RD4-score01-3=&nbsp;
+| RD4-seed02=2
+| RD4-team02={{flagicon|ITA}} '''[[Sandra Cecchini|S Cecchini]]'''<br>{{flagicon|ESP}} '''[[Arantxa Sánchez Vicario|A Sánchez]]'''
+| RD4-score02-1='''6'''
+| RD4-score02-2='''6'''
+| RD4-score02-3=&nbsp;
+}}
+
+==References==
+* [http://www.itftennis.com/womens/tournaments/drawsheetbyround.asp?event=1020002038&tournament=1020000194 1987 WTA Aix-en-Provence Open Doubles Draw]
+
+{{1988 WTA Tour}}
+
+{{DEFAULTSORT:Doubles}}
+[[Category:WTA Aix-en-Provence Open]]
+[[Category:1988 WTA Tour]]

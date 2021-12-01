@@ -1,0 +1,104 @@
+{{Italic title}}
+'''''Grand traité d’instrumentation et d’orchestration modernes''''', abbreviated in [[English language|English]] as the '''''Treatise on Instrumentation''''' (sometimes '''''Treatise on Orchestration''''') is a technical study of [[Western culture|Western]] [[musical instrument]]s written by [[Hector Berlioz]]. It was first published in 1844 after being serialised in many parts prior to this date and had a chapter added by Berlioz on [[conducting]] in 1855.
+
+In 1904, [[Richard Strauss]] was asked to update the text to include some modern instruments and added musical examples from Wagner, and in 1905 the updated ''Treatise'' with a new preface by Strauss was published in German.<ref>''Instrumentationslehre'', Hector Berlioz and Richard Strauss, CF Peters, Edition Peters 3120, Leipzig 1905</ref> The 1905 edition was translated into English in 1948.<ref name="its" />
+
+The book discusses the various technical aspects of instruments, such as chromatic [[Range (music)|range]], [[Timbre|tone quality]], and limitations. An explanation of the role of particular instruments within the [[orchestra]] is also provided. The book also provides orchestral excerpts from [[classical music|classical]] [[Sheet music|scores]] to give examples of techniques discussed. These examples are sometimes of works by Berlioz himself, while [[Wolfgang Amadeus Mozart|Mozart]], [[Richard Wagner|Wagner]], [[Ludwig van Beethoven|Beethoven]], and [[Christoph Willibald Gluck|Gluck]] are also frequently cited.<ref name="its" />
+
+Many composers studied the work closely, such as [[Modest Mussorgsky|Mussorgsky]], [[Gustav Mahler|Mahler]], [[Richard Strauss|R. Strauss]], and [[Nikolai Rimsky-Korsakov|Rimsky-Korsakov]].
+
+==Instruments discussed<ref name="its">''Treatise on Instrumentation'' by Hector Berlioz and Richard Strauss, translated by Theodore Front, published by Edwin F. Kalmus, NY, NY 1948</ref>==
+'''Strings:'''
+*[[Violin]]
+*[[Viola]]
+*[[Viola d'amore]]
+*[[Viol|Viola da gamba]]
+*[[Cello]]
+*[[Double bass]]
+
+'''Plucked strings:'''
+*[[Harp]]
+*[[Guitar]]
+*[[Mandolin]]
+
+'''Keyboards:'''
+*[[Piano]]
+*[[Organ (music)|Organ]]
+
+'''Wind instruments:'''
+*[[Oboe]]
+*[[Oboe d'amore]]
+*[[Cor anglais|English horn]]
+*[[Bassoon]]
+*[[Tenoroon]] (Bassoon Quinte)
+*[[Clarinet]]s (including Alto and Bass clarinets)
+*[[Basset-horn]]
+*[[Flute (Western concert)|Flute]] (alto flute)
+*[[Piccolo]]
+*[[Serpent (instrument)|Serpent]]
+*[[Russian Bassoon]]
+
+'''Brass instruments:'''
+*[[French horn]]
+*Valve horn
+*[[Trumpet]]
+*[[Cornet]]
+*[[Trombone]]s
+*[[Tuba]]s (bass tuba)
+*[[Bugle (instrument)|Bugle]]
+*Key bugle
+*Valve bugle
+*[[Ophicleide]] (Bass, Alto, Double-Bass)
+*[[Bombardon]]
+
+'''Voices:''' ([[Soprano]], [[Alto]], [[Tenor]], [[Bass (vocal range)|Bass]] etc.)
+
+'''Percussion:'''
+*[[Timpani]] (Kettle drums)
+*[[Bell (instrument)|Bells]]
+*[[Glockenspiel]]
+*[[Glass harmonica]]
+*[[Crotales|Ancient cymbals]]
+*[[Bass drum]]
+*[[Gong]]
+*[[Tambourine]]
+*[[Snare drum|side drum]]
+*[[Tenor drum]]
+*[[Triangle (musical instrument)|Triangle]]
+*[[Turkish crescent|Crescent]]
+
+'''New instruments:'''<ref name="new">'''Note:''' this refers to new instruments as of ca. 1850.</ref>
+*[[Saxophone]]s
+*[[Saxhorn]]
+*[[Saxotromba]]s
+*[[Saxtuba]]s
+*[[Concertina]]
+*Melodium organ
+*[[Octobass]]
+*[[Piano]]s and Melodiums with prolonged sounds
+
+==Other topics discussed==
+'''The orchestra''': An overview of how the orchestra functions as a whole and its development throughout history.
+
+'''On conducting''': A brief discussion of conducting practices in Europe during Berlioz's day. Berlioz was also known as a great conductor in his time, in addition to a composer.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMSLP2|work=Grand Treatise on Instrumentation and Modern Orchestration, Op.10 (Berlioz, Hector)|cname=''Treatise on Instrumentation''}}
+* [http://www.hberlioz.com/Scores/BerliozTreatise.html Excerpts from the ''Treatise on Instrumentation and Orchestration'']
+* [http://imslp.org/wiki/Treatise_on_Instrumentation_%28Berlioz%2C_Louis_Hector%29  ''Treatise on Instrumentation and Orchestration'' complete, with additions by Richard Strauss, in English, on IMSLP.org]
+* [https://books.google.com/books?id=YMg5AAAAIAAJ ''Treatise on Instrumentation and Orchestration'', English translation of the 1858 Novello edition at Google Books]
+
+{{Berlioz compositions}}
+
+{{Authority control}}
+
+[[Category:Works by Hector Berlioz]]
+[[Category:Music theory]]
+[[Category:Musicology]]
+[[Category:1844 books]]
+[[Category:Literature first published in serial form]]
+[[Category:Richard Strauss]]
+[[Category:Treatises]]

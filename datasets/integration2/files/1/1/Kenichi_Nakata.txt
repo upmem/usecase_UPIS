@@ -1,0 +1,86 @@
+{{short description|Japanese baseball player}}
+{{Infobox NPB player
+| name        = Kenichi Nakata
+| image       = HAWKS11-NAKATA.jpg
+| image_size  = 250px
+| caption     = Nakata with the Fukuoka SoftBank Hawks
+| position    = [[Pitcher]]
+| team        = Hanshin Tigers
+| number      = 20
+| birth_date  = {{birth date and age|1982|11|5}}
+| bats        = Right
+| throws      = Right
+| debutleague = [[Nippon Professional Baseball|NPB]]
+| debutdate   = April 3,
+| debutyear   = 2005
+| debutteam   = Chunichi Dragons
+| statyear     = 2019  season
+| statleague   = [[Nippon Professional Baseball|NPB]]
+| stat1label   = [[Win–loss record (pitching)|Win–loss record]]
+| stat1value   = 100-77
+| stat2label   = [[Earned run average|ERA]]
+| stat2value   = 3.72
+| stat3label   = [[Hold (baseball)|Hold]]s
+| stat3value   = 16
+| stat4label   = [[Save (baseball)|Save]]s
+| stat4value   = 1
+| stat5label   = [[Strikeout]]s
+| stat5value   = 1,339
+| teams       = 
+*[[Chunichi Dragons]] ({{npby|2005}}&ndash;{{npby|2013}})
+*[[Fukuoka SoftBank Hawks]] ({{npby|2014}}&ndash;{{npby|2019}})
+*[[Hanshin Tigers]] ({{npby|2020}}&ndash;present)
+| awards    = 
+* 1× [[Nippon Professional Baseball All-Star Game|NPB All-Star]] ({{npby|2007}})
+* 5× [[Japan Series]] Champion ([[2007 Japan Series|2007]], [[2014 Japan Series|2014]], [[2015 Japan Series|2015]], [[2017 Japan Series|2017]], [[2018 Japan Series|2018]])
+}}
+
+'''Kenichi Nakata''' (中田 賢一, born November 5, 1982 in [[Kitakyushu]], [[Japan]]) is a [[Japanese people|Japanese]] professional [[baseball]] [[pitcher]] for the [[Hanshin Tigers]] in [[Japan]]'s [[Nippon Professional Baseball]].
+
+==Early Baseball career==
+Nakata was selected as the Japan national baseball team for the 33rd USA VS Japan Collegiate All-Star Series attending [[University of Kitakyushu]].<ref>{{cite web|url=https://www.jubf.net/us/jp_member33.html|title=第33回 日米大学野球選手権大会 オールジャパンメンバー|language=ja-JP|work=All Japan University Baseball Federation Official site|accessdate=October 10, 2019}}</ref>
+
+==Professional career==
+===Chunichi Dragons===
+On November 17, 2004, Nakata was drafted by the [[Chunichi Dragons]] in the 2004 Nippon Professional Baseball draft.
+
+In 2007 season, he selected 2007 [[Nippon Professional Baseball All-Star Series|NPB All-Star game]]. He pitched in the [[2007 Japan Series]] and became the winning pitcher.
+
+In 2010 season, he finished the regular season with a 7–4 Win–loss record, a 2.90 ERA, 105 strikeouts in 118 innings. He pitched in the [[2010 Japan Series]].
+
+From 2005 season to 2013 season, he recorded a 61-51 Win–loss record, 16 Holds, and 1 saves in the Chunichi Dragons.
+[[File:CD-Kenichi-Nakata.jpg|thumb|200px|right|Nakata with the Chunichi Dragons]]
+
+===Fukuoka SoftBank Hawks===
+On November 28, 2013, Nakata agreed to a four-year contract for 70 million yen and Incentive with the [[Fukuoka SoftBank Hawks]].<ref>{{cite web|url=https://www.nikkansports.com/baseball/news/p-bb-tp0-20131129-1224515.html|title=Nikkan Sports baseball news (Japanese) ＦＡ中田賢ソフトＢ入り 地元愛で決めた|language=ja-JP|work=[[Nikkan Sports]]|date=November 29, 2013|accessdate=October 10, 2019}}</ref><ref>{{cite web|url=https://www.nikkansports.com/baseball/news/f-bb-tp0-20141216-1409977.html|title=Nikkan Sports baseball news (Japanese) ソフトＢ中田2500万増の9500万でサイン|language=ja-JP|work=[[Nikkan Sports]]|date=December 16, 2014|accessdate=October 10, 2019}}</ref>
+
+In 2014 season, he finished the regular season with a 11–7 Win–loss record, a 4.34 ERA, 116 strikeouts in 139 innings. He pitched in the [[2014 Japan Series]].
+
+In 2015 season, he finished the regular season with a 9–7 Win–loss record, a 3.24 ERA, 130 strikeouts in 155 1/3 innings. He pitched in the [[2015 Japan Series]].
+
+On August 26, 2018, he records his 100 wins as a [[relief pitcher]].<ref>{{cite web|url=https://www.nikkansports.com/baseball/news/201808260000796.html|title=Nikkan Sports baseball news (Japanese) ソフトバンク劇勝で中田100勝「目の前の仕事を」|language=ja-JP|work=[[Nikkan Sports]]|date=August 26, 2018|accessdate=October 10, 2019}}</ref>
+
+===Hanshin Tigers===
+
+On October 26, 2019, he joined the Hanshin Tigers.<ref>{{cite web|url=https://headlines.yahoo.co.jp/hl?a=20191026-00000204-spnannex-base|title=Yahoo Japan (Japanese) ソフトバンク　中田の阪神移籍を発表「地元福岡で6年間…野球人生の中ですごく幸せな日々でした」 |language=ja-JP}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Baseballstats|brm=nakata001ken}}
+*[http://bis.npb.or.jp/eng/players/51055110.html NBP.com]
+
+{{Hanshin Tigers roster navbox}}
+
+{{DEFAULTSORT:Nakata, Kenichi}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Baseball people from Kitakyushu]]
+[[Category:Japanese baseball players]]
+[[Category:Nippon Professional Baseball pitchers]]
+[[Category:Chunichi Dragons players]]
+[[Category:Fukuoka SoftBank Hawks players]]
+[[category:Hanshin Tigers players]]
+
+{{Japan-baseball-pitcher-stub}}

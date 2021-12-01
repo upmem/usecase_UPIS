@@ -1,0 +1,1165 @@
+{{Infobox league season
+|name           = 2019 LFA season
+|season_start   = 22 February 2019
+|season_end     = 14 April 2019
+|playoffs_start = 26 April 2019
+|cup_title1     = North Champions
+|cup_champ1     = [[Raptors Naucalpan|Raptors]]
+|cup_title2     = Central Champions
+|cup_champ2     = [[Condors CDMX|Condors]]
+|champion_title = Tazón México IV
+|champion_date  = 12 May 2019
+|champion_site  = [[Estadio Azul]], [[Mexico City]]
+|champion       = [[Condors CDMX|Condors]]
+|prev           = [[2018 LFA season|2018]]
+|next           = [[2020 LFA season|2020]]
+}}
+The '''2019 [[Liga de Fútbol Americano Profesional|LFA]] season''' was the fourth season of the [[Liga de Fútbol Americano Profesional]], the top American football league in Mexico. The regular season began on February 22 and concluded on April 14. The playoffs commenced on April 26 and concluded on May 12 with the [[Condors CDMX|Condors]] defeating the [[Raptors Naucalpan|Raptors]] to win the Tazón México IV.
+
+==Preseason events==
+===Expansion and stadium changes===
+Two new teams joined the league for the 2019 season: [[Artilleros Puebla]], based in [[Puebla (city)|Puebla]], and [[Osos Toluca]], based in [[Toluca]], [[State of Mexico]]. This expansion raises the number of teams in the league to eight.<ref name=Milenio>{{cite news|title=El futbol americano en México se alista con la LFA|url=https://www.milenio.com/deportes/americano/el-futbol-americano-en-mexico-se-alista-con-la-lfa|newspaper=[[Milenio]]|date=21 February 2019|access-date=25 February 2019|language=Spanish}}</ref>
+
+During the first LFA season, the [[Estadio Jesús Martínez "Palillo"]] hosted all the league's teams. Nevertheless, 2019 will be the first season in which none of the teams would play there, due to the fact that the stadium is now working as shelter for Central American migrants.<ref name=Milenio></ref><ref>{{cite news|title=Estadio "Palillo" Martínez, el adiós al inmueble que vio nacer a la LFA|url=https://maximoavance.com/2019/02/estadio-palillo-martinez-el-adios-al-inmueble-que-vio-nacer-a-la-lfa/|publisher=Máximo Avance|date=17 February 2019|access-date=25 February 2019|language=Spanish}}</ref>
+
+*[[Condors CDMX|Condors]] was supposed to be the only team playing at the Estadio Jesús Martínez "Palillo", but moved to the [[Monterrey Institute of Technology and Higher Education|ITESM Santa Fe]] stadium in the district of [[Santa Fe, Mexico City|Santa Fe]] after [[Mexico City]]'s government designed the "Palillo" Martínez stadium as a temporary shelter for Central American migrants.<ref>{{cite news|title=Debido a migrantes, el equipo Condors cambiará de sede a Santa Fe|url=https://www.20minutos.com.mx/deportes/noticia/debido-a-migrantes-el-equipo-condors-cambiara-de-sede-a-santa-fe-482428/0/|publisher=20 Minutos|date=19 February 2019|access-date=25 February 2019|language=Spanish}}</ref>
+
+*[[Mayas CDMX|Mayas]] moved from the "Palillo" Martínez to the Estadio Wilfrido Massieu, which is regularly used by the [[Instituto Politécnico Nacional]] [[Águilas Blancas]] college football team.<ref>{{cite web|title=Viene la nueva era en el Imperio Azul|url=https://lfa.mx/viene-la-nueva-era-en-el-imperio-azul/|website=LFA.mx|date=4 January 2019|access-date=25 February 2019|language=Spanish}}</ref>
+
+*[[Mexicas CDMX|Mexicas]] also moved from the Estadio Jesús Martínez "Palillo" to the Casco de Santo Tomás, the training ground of the Instituto Politécnico Nacional football teams.<ref>{{cite web|title=Alianza Mexicas LFA-IPN|url=https://lfa.mx/alianza-mexicas-lfa-ipn/|website=LFA.mx|date=16 October 2018|access-date=25 February 2019|language=Spanish}}</ref>
+
+*[[Raptors Naucalpan|Raptors]] moved from the [[Estadio José Ortega Martínez]] to the field of the [[National Autonomous University of Mexico]] Acatlán campus.<ref name=Milenio></ref>
+
+===Draft===
+The 2019 Draft was regional, that is, each team chose players graduated from universities in their region. In the case of Artilleros Puebla and Osos Toluca , being unique teams in their region, they had no competition in their player selections. The Draft was held on January 12 at the FES Acatlán facilities . There were nine rounds, 6 normal and 3 complementary. The selections were as follows: 
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%;"
+! colspan="7" |Draft 2019
+|-
+! Rd
+! Sel.
+! LFA Team
+! Player
+! Pos.
+! University
+! Conf.
+|-
+! rowspan="8" style="background:DarkRed; color:white" | 1
+|1
+|[[Fundidores Monterrey|Fundidores]]|| Maximiliano Soto ||DL ||Borregos Salvajes ITESM  ||Liga Premier CONADEIP
+|-
+|2
+|[[Condors CDMX|Condors]]||''* Aldo Alejandro Narváez''|| WR ||[[Águilas Blancas IPN]]|| Liga Mayor [[ONEFA]]
+|-
+|3
+|[[Dinos Saltillo|Dinos]]|| Víctor Alejandro Sánchez || LB ||Auténticos Tigres UANL|| Liga Mayor [[ONEFA]]
+|-
+|4
+|[[Mayas CDMX|Mayas]]|| Jesús Augusto Sosa || RB ||Burros Blancos IPN|| Liga Mayor [[ONEFA]]
+|-
+|5
+|[[Raptors Naucalpan|Raptors]]|| José David Casarrubias || DL ||Leones UA Norte|| Liga Mayor [[ONEFA]]
+|-
+|6
+|[[Mexicas CDMX|Mexicas]]|| José Ulises Espinosa || DL ||[[Águilas Blancas IPN]]|| Liga Mayor [[ONEFA]]
+|-
+|7
+|[[Artilleros Puebla|Artilleros]]||Carlos Sebastián Olvera ||WR ||[[Aztecas UDLAP]]||Liga Premier CONADEIP
+|-
+|8
+|[[Osos Toluca|Osos]]|| Enrique Gerardo Yenny || K ||Borregos ITESM Toluca|| Liga Premier CONADEIP
+|-
+! rowspan="8" style="background:OrangeRed" | 2
+|9
+|[[Fundidores Monterrey|Fundidores]]|| Uriel Martínez || DL ||Auténticos Tigres UANL|| Liga Mayor [[ONEFA]]
+|-
+|10
+|[[Condors CDMX|Condors]]|| César Torres || DB ||Leones UA Norte|| Liga Mayor [[ONEFA]]
+|-
+|11
+|[[Dinos Saltillo|Dinos]]||Jesús Gerardo Rendón ||WR ||Lobos UAdeC|| Liga Mayor [[ONEFA]]
+|-
+|12
+|[[Mayas CDMX|Mayas]]||Luis Fernando Zárate ||LB ||Burros Blancos IPN||Liga Mayor [[ONEFA]]
+|-
+|13
+|[[Raptors Naucalpan|Raptors]]||Topilitzin Silva ||LB ||Leones UA Norte|| Liga Mayor [[ONEFA]]
+|-
+|14
+|[[Mexicas CDMX|Mexicas]]||Emmanuel Carpio ||DL ||Toros Salvajes UACH|| Liga Mayor [[ONEFA]]
+|-
+|15
+|[[Artilleros Puebla|Artilleros]]||Juan Manuel Márquez ||DB ||[[Aztecas UDLAP]]|| Liga Premier CONADEIP
+|-
+|16
+|[[Osos Toluca|Osos]]||Ulises Alberto Garduño ||LB ||Potros Salvajes UAEM|| Liga Mayor [[ONEFA]]
+|-
+! rowspan="8" style="background:DarkOrange" |3
+|17
+|[[Fundidores Monterrey|Fundidores]]
+|Jesús David Alanís
+|DL
+|Lobos UAdeC
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|18
+|[[Condors CDMX|Condors]]
+|Irwin Heriberto Zuviri
+|DL
+|[[Águilas Blancas IPN]]
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|19
+|[[Dinos Saltillo|Dinos]]
+|Erick Cázares
+|DB
+|Auténticos Tigres UANL
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|20
+|[[Mayas CDMX|Mayas]]
+|Jair Alonso Juárez
+|DL
+|Leones UA Norte
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|21
+|[[Raptors Naucalpan|Raptors]]
+|Alejandro Arce
+|QB
+|Leones UA Norte
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|22
+|[[Mexicas CDMX|Mexicas]]
+|Oscar Lenard Vara
+|LB
+|Centinelas CGP
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|23
+|[[Artilleros Puebla|Artilleros]]
+|Alan Eduardo Méndez
+|LB
+|[[Aztecas UDLAP]]
+|Liga Premier CONADEIP
+|-
+|24
+|[[Osos Toluca|Osos]]
+|Daniel Becerril
+|WR
+|Potros Salvajes UAEM
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+! rowspan="8" style="background:Gold" |4
+|25
+|[[Fundidores Monterrey|Fundidores]]
+|Rubén Martínez
+|RB
+|Auténticos Tigres UANL
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|26
+|[[Condors CDMX|Condors]]
+|Rafael Adrián Gómez
+|WR
+|Burros Blancos IPN
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|27
+|[[Dinos Saltillo|Dinos]]
+|Yael de Jesús Romero
+|WR
+|Lobos UAdeC
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|28
+|[[Mayas CDMX|Mayas]]
+|Marco Antonio Morales
+|WR
+|Burros Blancos IPN
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|29
+|[[Raptors Naucalpan|Raptors]]
+|Oscar Daniel Larios
+|RB
+|Leones UA Norte
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|30
+|[[Mexicas CDMX|Mexicas]]
+|Edgar Ángeles Castañeda
+|LB
+|Frailes UT
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|31
+|[[Artilleros Puebla|Artilleros]]
+|Juan Manuel Gray
+|OL
+|[[Aztecas UDLAP]]
+|Liga Premier CONADEIP
+|-
+|32
+|[[Osos Toluca|Osos]]
+|Jesús Eduardo Estrada
+|DL
+|Potros Salvajes UAEM
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+! rowspan="8" style="background:Yellow" |5
+|33
+|[[Fundidores Monterrey|Fundidores]]
+|Carlos Alberto Díaz
+|DB
+|Auténticos Tigres UANL
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|34
+|[[Condors CDMX|Condors]]
+|Rodrigo Omar Garfias
+|DB
+|Centinelas CGP
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|35
+|[[Dinos Saltillo|Dinos]]
+|Luis Eduardo Mireles
+|TE
+|Correcaminos UAT
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|36
+|[[Mayas CDMX|Mayas]]
+|Juan Salvador Vázquez
+|DB
+|Toros Salvajes UACH
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|37
+|[[Raptors Naucalpan|Raptors]]
+|Andrés Aguilar
+|RB
+|Pumas UNAM Acatlán
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|38
+|[[Mexicas CDMX|Mexicas]]
+|Sergio Enrique Martínez
+|QB
+|Pumas UNAM Acatlán
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|39
+|[[Artilleros Puebla|Artilleros]]
+|Anwar de Jesús Ramírez
+|RB
+|Borregos ITESM Puebla
+|Liga Premier CONADEIP
+|-
+|40
+|[[Osos Toluca|Osos]]
+|Elías González
+|OL
+|Potros Salvajes UAEM
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+! rowspan="8" style="background:GreenYellow" |6
+|41
+|[[Fundidores Monterrey|Fundidores]]
+|Alejandro Emmanuel Palomo
+|DL
+|Corecaminos UAT Norte
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|42
+|[[Condors CDMX|Condors]]
+|Omar Torres Valle
+|WR
+|Centinelas CGP
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|43
+|[[Dinos Saltillo|Dinos]]
+|Adrián Azahel García
+|DL
+|Correcaminos UAT
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|44
+|[[Mayas CDMX|Mayas]]
+|Enrique Hernán Benavides
+|QB
+|Pumas UNAM Acatlán
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|45
+|[[Raptors Naucalpan|Raptors]]
+|Ian Uriel Mompala
+|DB
+|Centinelas CGP
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|46
+|[[Mexicas CDMX|Mexicas]]
+|Manuel Ignacio Martínez
+|WR
+|Águilas Blancas IPN
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+|47
+|[[Artilleros Puebla|Artilleros]]
+|Manuel Eduardo Hernández
+|DB
+|[[Aztecas UDLAP]]
+|Liga Premier CONADEIP
+|-
+|48
+|[[Osos Toluca|Osos]]
+|Rodrigo García
+|OL
+|Potros Salvajes UAEM
+|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+! rowspan="8" style="background:Cyan" |''7''
+| style="background:LightCyan"|49
+| style="background:LightCyan"|[[Fundidores Monterrey|Fundidores]]
+| style="background:LightCyan"|Osvaldo Sánchez
+| style="background:LightCyan"|DL
+| style="background:LightCyan"|Corecaminos UAT Norte
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|50
+| style="background:LightCyan"|[[Condors CDMX|Condors]]
+| style="background:LightCyan"|Diego Carsolio
+| style="background:LightCyan"|K
+| style="background:LightCyan"|Leones UA Norte
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|51
+| style="background:LightCyan"|[[Dinos Saltillo|Dinos]]
+| style="background:LightCyan"|Hermillo Jesús Corral
+| style="background:LightCyan"|DL
+| style="background:LightCyan"|Corecaminos UAT Norte
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|52
+| style="background:LightCyan"|[[Mayas CDMX|Mayas]]
+| style="background:LightCyan"|Carlos Missael Mansilla
+| style="background:LightCyan"|OL
+| style="background:LightCyan"|Toros Salvajes UACH
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|53
+| style="background:LightCyan"|[[Raptors Naucalpan|Raptors]]
+| style="background:LightCyan"|Víctor Francisco Fosado
+| style="background:LightCyan"|WR
+| style="background:LightCyan"|Pumas UNAM Acatlán
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|54
+| style="background:LightCyan"|[[Mexicas CDMX|Mexicas]]
+| style="background:LightCyan"|Ángel Alexis González
+| style="background:LightCyan"|DL
+| style="background:LightCyan"|Frailes UT
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|55
+| style="background:LightCyan"|[[Artilleros Puebla|Artilleros]]
+| style="background:LightCyan"|Andrés Fernández
+| style="background:LightCyan"|OL
+| style="background:LightCyan"|Lobos BUAP
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|56
+| style="background:LightCyan"|[[Osos Toluca|Osos]]
+| style="background:LightCyan"|Mario Alberto González
+| style="background:LightCyan"|WR
+| style="background:LightCyan"|Potros Salvajes UAEM
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+! rowspan="6" style="background:DodgerBlue" |''8''
+| style="background:LightCyan"|57
+| style="background:LightCyan"|[[Fundidores Monterrey|Fundidores]]
+| style="background:LightCyan"|Roberto Alejandro Avilán
+| style="background:LightCyan"|RB
+| style="background:LightCyan"|Corecaminos UAT Norte
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|58
+| style="background:LightCyan"|[[Condors CDMX|Condors]]
+| style="background:LightCyan"|Pedro Arturo Martell
+| style="background:LightCyan"|OL
+| style="background:LightCyan"|Frailes UT
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|59
+| style="background:LightCyan"|[[Mayas CDMX|Mayas]]
+| style="background:LightCyan"|Luis David Martínez
+| style="background:LightCyan"|WR
+| style="background:LightCyan"|Burros Blancos IPN
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|60
+| style="background:LightCyan"|[[Raptors Naucalpan|Raptors]]
+| style="background:LightCyan"|Samuel Hazel González
+| style="background:LightCyan"|RB
+| style="background:LightCyan"|Centinelas CGP
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|61
+| style="background:LightCyan"|[[Mexicas CDMX|Mexicas]]
+| style="background:LightCyan"|Jesús Flores
+| style="background:LightCyan"|WR
+| style="background:LightCyan"|Pumas UNAM Acatlán
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|62
+| style="background:LightCyan"|[[Artilleros Puebla|Artilleros]]
+| style="background:LightCyan"|Guillermo Calderón
+| style="background:LightCyan"|DL
+| style="background:LightCyan"|[[Aztecas UDLAP]]
+| style="background:LightCyan"|Liga Premier CONADEIP
+|-
+! rowspan="4" style="background:Blue; color:white" |''9''
+| style="background:LightCyan"|63
+| style="background:LightCyan"|[[Mayas CDMX|Mayas]]
+| style="background:LightCyan"|Jesús Ramsés Guerrero
+| style="background:LightCyan"|OL
+| style="background:LightCyan"|Leones UA Norte
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|64
+| style="background:LightCyan"|[[Artilleros Puebla|Artilleros]]
+| style="background:LightCyan"|Gabriel Amavizca
+| style="background:LightCyan"|K
+| style="background:LightCyan"|Lobos BUAP
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|-
+| style="background:LightCyan"|65
+| style="background:LightCyan"|[[Artilleros Puebla|Artilleros]]
+| style="background:LightCyan"|Mauricio Francisco Valverde
+| style="background:LightCyan"|RB
+| style="background:LightCyan"|Borregos ITESM Puebla
+| style="background:LightCyan"|Liga Premier CONADEIP
+|-
+| style="background:LightCyan"|66
+| style="background:LightCyan"|[[Artilleros Puebla|Artilleros]]
+| style="background:LightCyan"|José Irvin Nuñez
+| style="background:LightCyan"|OL
+| style="background:LightCyan"|Lobos BUAP
+| style="background:LightCyan"|Liga Mayor [[Organización Nacional Estudiantil de Fútbol Americano|ONEFA]]
+|}
+
+{{Legend|LightCyan;" |''Complementary selections, teams are not required to make a selection''}}
+''* <small>Not signed with Condors but with Mexicas.</small>''
+
+===CFL-LFA draft===
+{{main|2019 CFL–LFA Draft}}
+
+In November 2018, the LFA signed a non-binding Letter of Intent with the [[Canadian Football League|CFL]] to share resources and to allow for at least one CFL game to be played in Mexico, as well as lay the ground work for special Mexican-specific editions of the [[CFL Combine]] and [[CFL Draft]].<ref>{{cite web|url=https://toronto.citynews.ca/2018/11/23/cfl-lfa-sign-letter-of-intent-to-grow-football-in-canada-and-mexico|accessdate=23 November 2018|title=CFL, LFA sign letter of intent to grow football in Canada and Mexico}}</ref>
+
+On January 11, 2019, 51 players from the LFA and Mexican college ranks were announced as participants in a combine to beheld on January 13 and a 27-player draft to be held on January 14, 2019. Each CFL team sent scouts and were reported to likely receive four picks.<ref name="Sun1">{{cite news|url=https://torontosun.com/sports/football/cfl/fun-element-cfl-set-for-inaugural-draft-of-mexican-talent|title='FUN ELEMENT': CFL set for inaugural draft of Mexican talent|author=Dan Barnes|date=January 11, 2019}}</ref>
+
+27 players were chosen from an invited pool of 51 [[Mexico|Mexican]] players: 34 from the LFA and 17 seniors from Mexican university teams.<ref name="Sun2">{{Cite web | url=https://torontosun.com/sports/football/cfl/cfl-combine-draft-in-mexico-important-first-step-to-expand-brand |title = CFL combine, draft in Mexico 'important first step' to expand brand &#124; Toronto Sun|date = 11 January 2019}}</ref>
+
+==Teams==
+{|class="wikitable"
+!style=background:white scope="col"|Team
+!style=background:white scope="col"|City
+!style=background:white scope="col"|Stadium
+!style=background:white scope="col"|Capacity
+!style=background:white scope="col"|Head coach
+|-
+! colspan="6" style="background:#d63334; color:white;" | North Division
+|-
+|[[Dinos Saltillo|Dinos]]
+|[[Saltillo]], [[Coahuila]]
+|[[Estadio Olímpico Francisco I. Madero]]
+|align=center|8,000
+|{{flagicon|MEX}} Javier Adame
+|-
+|[[Fundidores Monterrey|Fundidores]]
+|[[Monterrey]], [[Nuevo León]]
+|Estadio Nuevo León Unido
+|align=center|1,500
+|{{flagicon|MEX}} Israel González
+|-
+|[[Osos Toluca|Osos]]
+|[[Toluca]], [[State of Mexico]]
+|Universidad Siglo XXI
+|align=center|4,000
+|{{flagicon|MEX}} Horacio García Aponte
+|-
+|[[Raptors Naucalpan|Raptors]]
+|[[Naucalpan]], [[State of Mexico]]
+|FES Acatlán
+|align=center|3,000
+|{{flagicon|MEX}} Guillermo Gutiérrez
+|-
+! colspan="6" style="background:ForestGreen; color:white;" | Central Division 
+|-
+|[[Artilleros Puebla|Artilleros]]
+|[[Puebla City]], [[Puebla]]
+|[[Estadio Templo del Dolor]]
+|align=center|4,500
+|{{flagicon|MEX}} Gustavo Torres
+|-
+|[[Condors CDMX|Condors]]
+|[[Mexico City]]
+|ITESM Santa Fe
+|align=center|2,000
+|{{flagicon|MEX}} Félix Buendía
+|-
+|[[Mayas CDMX|Mayas]]
+|[[Mexico City]]
+|[[Estadio Wilfrido Massieu]]
+|align=center|13,000
+|{{flagicon|MEX}} Francisco Chaparro
+|-
+|[[Mexicas CDMX|Mexicas]]
+|[[Mexico City]]
+|Casco de Santo Tomás
+|align=center|2,000
+|{{flagicon|MEX}} Enrique Zárate
+|-
+|}
+
+==Regular season==
+===Standings===
+''Note: GP = Games Played, W = Wins, L = Losses, PF = Points For, PA = Points Against''
+
+''Teams in '''bold''' are in playoff positions.
+
+{{col-begin}}
+{{col-2}}
+{| class="wikitable"
+! colspan="11" style="background-color: #d63334;" | <span style="color:white;">North Division</span>
+|-
+!width=100|Team
+!width=30|{{Abbr|GP|Games Played}}
+!width=30|{{Abbr|W|Wins}}
+!width=30|{{Abbr|L|Losses}}
+!width=35|{{Abbr|PF|Points For}}
+!width=35|{{Abbr|PA|Points Against (Total points allowed)}}
+!width=35|{{Abbr|Div|Win–Loss record within their division}}
+!width=35|{{Abbr|Stk|Current Winning or Losing Streak}}
+|- style="text-align:center;background:#ccffcc;"
+| style="text-align:left;" | '''[[Raptors Naucalpan|Raptors]]''' || 8 || 6 || 2 || 210 || 118 || 5–1 || W4
+|- style="text-align:center;background:#ccffcc;"
+| style="text-align:left;" | '''[[Fundidores Monterrey|Fundidores]]''' || 8 || 3 || 5 || 134 || 133 || 3–3 || W1
+|- style="text-align:center;"
+| style="text-align:left;" | [[Dinos Saltillo|Dinos]] || 8 || 3 || 5 || 110 || 125 || 2–4 || L2 
+|- style="text-align:center;"
+| style="text-align:left;" | [[Osos Toluca|Osos]] || 8 || 2 || 6 || 116 || 226 || 2–4 || L1 
+|}
+{{col-2}}
+{| class="wikitable"
+! colspan="11" style="background-color: ForestGreen;" | <span style="color:white;">Central Division</span>
+|-
+!width=100|Team
+!width=30|{{Abbr|GP|Games Played}}
+!width=30|{{Abbr|W|Wins}}
+!width=30|{{Abbr|L|Losses}}
+!width=35|{{Abbr|PF|Points For}}
+!width=35|{{Abbr|PA|Points Against (Total points allowed)}}
+!width=35|{{Abbr|Div|Win–Loss record within their division}}
+!width=35|{{Abbr|Stk|Current Winning or Losing Streak}}
+|- style="text-align:center;background:#ccffcc;"
+| style="text-align:left;" | '''[[Condors CDMX|Condors]]''' || 8 || 6 || 2 || 205 || 150 || 4–2 || W1
+|- style="text-align:center;background:#ccffcc;"
+| style="text-align:left;" | '''[[Mayas CDMX|Mayas]]''' || 8 || 5 || 3 || 130 || 129 || 4–2 || W2 
+|- style="text-align:center;"
+| style="text-align:left;" | [[Artilleros Puebla|Artilleros]] || 8 || 5 || 3 || 145 || 131 || 3–3 || L1  
+|- style="text-align:center;"
+| style="text-align:left;" | [[Mexicas CDMX|Mexicas]] || 8 || 2 || 6 || 132 || 170 || 1–5 || L4 
+|}
+{{col-end}}
+
+
+
+===Results===
+
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%;"	
+! colspan="8" |Week 1	
+|-	
+! Away	!!Score	!! Home	!! Venue	!! Date	!! Kickoff ([[UTC-6]])	!! Streaming	
+|- align="center"	
+| [[Dinos Saltillo|Dinos]]	
+| 13–26 	
+| bgcolor="#D0E7FF" | '''[[Fundidores Monterrey|Fundidores]]'''
+| Estadio Nuevo León Unido	
+| February 22 	
+| 21:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]] 
+|- align="center"	
+| [[Osos Toluca|Osos]]	
+| 12–48 	
+| bgcolor="#D0E7FF" | '''[[Raptors Naucalpan|Raptors]]'''	
+| FES Acatlán	
+| February 23	
+| 16:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]  
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Condors CDMX|Condors]]'''
+| 21–13 	
+| [[Mayas CDMX|Mayas]] 	
+| [[Estadio Azul]]	
+| February 24
+| 12:00	
+| 
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Artilleros Puebla|Artilleros]]'''	
+| 29–12
+| [[Mexicas CDMX|Mexicas]] 	
+| [[Estadio Azul]]	
+| February 24
+| 16:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|}	
+	
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%;"	
+! colspan="8" |Week 2	
+|-	
+! Away	!!Score	!! Home	!! Venue	!! Date	!! Kickoff ([[UTC-6]])	!! Streaming		
+|- align="center"	
+| [[Fundidores Monterrey|Fundidores]]	
+| 29–30 	
+| bgcolor="#D0E7FF" | '''[[Osos Toluca|Osos]]'''
+| Universidad Siglo XXI	
+| March 2	
+| 13:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Raptors Naucalpan|Raptors]]'''
+| 21–7	
+| [[Dinos Saltillo|Dinos]] 	
+| [[Estadio Olímpico Francisco I. Madero]]	
+| March 2	
+| 18:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]] 
+|- align="center"	
+| [[Mexicas CDMX|Mexicas]]	
+| 3–13	
+| bgcolor="#D0E7FF" | '''[[Mayas CDMX|Mayas]]''' 	
+| [[Estadio Wilfrido Massieu]]	
+| March 3	
+| 12:00	
+|
+|- align="center"	
+| bgcolor="#D0E7FF"| '''[[Condors CDMX|Condors]]'''
+| 22–15	
+| [[Artilleros Puebla|Artilleros]] 	
+| [[Estadio Templo del Dolor]]	
+| March 3	
+| 15:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]]  [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]   
+|}	
+	
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%;"	
+! colspan="8" |Week 3	
+|-	
+! Away	!!Score	!! Home	!! Venue	!! Date	!! Kickoff ([[UTC-6]])	!! Streaming 	
+|- align="center"	
+| [[Raptors Naucalpan|Raptors]]	
+| 21–31 	
+| bgcolor="#D0E7FF" | '''[[Fundidores Monterrey|Fundidores]]'''
+| Estadio Nuevo León Unido	
+| March 8	
+| 21:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Dinos Saltillo|Dinos]]'''	
+| 22–10 	
+| [[Osos Toluca|Osos]] 	
+| Universidad Siglo XXI	
+| March 10	
+| 12:00	
+|
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Mexicas CDMX|Mexicas]]'''	
+| 22–18 	
+| [[Condors CDMX|Condors]] 	
+| ITESM Santa Fe		
+| March 10	
+| 15:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]] 
+|- align="center"	
+| [[Artilleros Puebla|Artilleros]]
+| 7–14 	
+| bgcolor="#D0E7FF" | '''[[Mayas CDMX|Mayas]]''' 	
+| [[Estadio Wilfrido Massieu]]	
+| March 10	
+| 15:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]]  [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]  
+|}	
+	
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%;"
+! colspan="8" |Week 4	
+|-	
+! Away	!!Score	!! Home	!! Venue	!! Date	!! Kickoff ([[UTC-6]])	!! Streaming 	
+|- align="center"	
+| [[Osos Toluca|Osos]]	
+| 6–17 	
+| bgcolor="#D0E7FF" | '''[[Artilleros Puebla|Artilleros]]'''
+| [[Estadio Templo del Dolor]]	
+| March 16	
+| 15:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]]  [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]  
+|- align="center"	
+| [[Dinos Saltillo|Dinos]]	
+| 13–16 	
+| bgcolor="#D0E7FF" | '''[[Mayas CDMX|Mayas]]'''
+| [[Estadio Wilfrido Massieu]]	
+| March 17	
+| 12:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|- align="center"	
+| [[Fundidores Monterrey|Fundidores]]	
+| 13–15 	
+| bgcolor="#D0E7FF" | '''[[Condors CDMX|Condors]]'''
+| Campo ITESM Santa Fe		
+| March 17	
+| 12:00	
+|
+|- align="center"	
+| [[Raptors Naucalpan|Raptors]]	
+| 23–29 	
+| bgcolor="#D0E7FF" | '''[[Mexicas CDMX|Mexicas]]'''
+| Casco de Santo Tomás	
+| March 17	
+| 15:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|}	
+	
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%;"	
+! colspan="8" |Week 5	
+|-	
+! Away	!!Score	!! Home	!! Venue	!! Date	!! Kickoff ([[UTC-6]])	!! Streaming
+|- align="center"	
+| [[Fundidores Monterrey|Fundidores]]	
+| 0–8	
+| bgcolor="#D0E7FF" | '''[[Dinos Saltillo|Dinos]]'''
+| [[Estadio Olímpico Francisco I. Madero]]	
+| March 23	
+| 18:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|- align="center"	
+| [[Mayas CDMX|Mayas]]	
+| 13–20 	
+| bgcolor="#D0E7FF" | '''[[Raptors Naucalpan|Raptors]]''' 	
+| FES Acatlán	
+| March 24	
+| 12:00	
+| 
+|- align="center"	
+| [[Mexicas CDMX|Mexicas]]	
+| 20–21 	
+| bgcolor="#D0E7FF" | '''[[Artilleros Puebla|Artilleros]]''' 	
+| [[Estadio Templo del Dolor]]	
+| March 24	
+| 12:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]]  [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]  
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Condors CDMX|Condors]]'''	
+| 54–30 	
+| [[Osos Toluca|Osos]] 	
+| Campo Universidad Siglo XXI	
+| March 24	
+| 15:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|}	
+	
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%;"	
+! colspan="8" |Week 6	
+|-	
+! Away	!!Score	!! Home	!! Venue	!! Date	!! Kickoff ([[UTC-6]])	!! Streaming 
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Artilleros Puebla|Artilleros]]'''	
+| 7–6 	
+| [[Fundidores Monterrey|Fundidores]] 	
+| Estadio Nuevo León Unido	
+| March 29	
+| 21:00	
+|  [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]	
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Raptors Naucalpan|Raptors]]'''	
+| 28–6 	
+| [[Osos Toluca|Osos]] 	
+| Universidad Siglo XXI	
+| March 30
+| 13:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|- align="center"	
+| [[Mexicas CDMX|Mexicas]]	
+| 20–28	
+| bgcolor="#D0E7FF" | '''[[Dinos Saltillo|Dinos]]''' 	
+| [[Estadio Olímpico Francisco I. Madero]]	
+| March 30	
+| 18:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]] 
+|- align="center"	
+| [[Mayas CDMX|Mayas]]	
+| 14–33	
+| bgcolor="#D0E7FF" | '''[[Condors CDMX|Condors]]''' 	
+| ITESM Santa Fe		
+| March 31	
+| 12:00	
+| 
+|}	
+
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%;"	
+! colspan="8" |Week 7	
+|-	
+! Away	!!Score	!! Home	!! Venue	!! Date	!! Kickoff ([[UTC-5]])	!! Streaming
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Osos Toluca|Osos]]'''	
+| 13–12 	
+| [[Dinos Saltillo|Dinos]] 	
+| [[Estadio Olímpico Francisco I. Madero]]	
+| April 6	
+| 18:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Mayas CDMX|Mayas]]'''	
+| 22–12 	
+| [[Mexicas CDMX|Mexicas]] 	
+| Casco de Santo Tomás
+| April 7	
+| 12:00	
+| 
+|- align="center"	
+| [[Fundidores Monterrey|Fundidores]]	
+| 13–30 	
+| bgcolor="#D0E7FF" | '''[[Raptors Naucalpan|Raptors]]''' 	
+| FES Acatlán	
+| April 7	
+| 12:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Artilleros Puebla|Artilleros]]'''	
+| 29–26 	
+| [[Condors CDMX|Condors]] 	
+| Campo ITESM Santa Fe		
+| April 7	
+| 15:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]] 
+|}	
+	
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%;"		
+! colspan="8" |Week 8	
+|-	
+! Away	!!Score	!! Home	!! Venue	!! Date	!! Kickoff ([[UTC-5]])	!! Streaming 	
+|- align="center"	
+| [[Osos Toluca|Osos]]	
+| 9–16 	
+| bgcolor="#D0E7FF" | '''[[Fundidores Monterrey|Fundidores]]''' 	
+| Estadio Nuevo León Unido	
+| April 12	
+| 21:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|- align="center"	
+| [[Dinos Saltillo|Dinos]]	
+| 7–19 	
+| bgcolor="#D0E7FF" | '''[[Raptors Naucalpan|Raptors]]''' 	
+| FES Acatlán	
+| April 13	
+| 16:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]] [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]
+|- align="center"	
+| bgcolor="#D0E7FF" | '''[[Condors CDMX|Condors]]'''	
+| 16–14 	
+| [[Mexicas CDMX|Mexicas]] 	
+| Casco de Santo Tomás	
+| April 14	
+| 12:00	
+| 
+|- align="center"	
+| bgcolor="#D0E7FF" | ''' [[Mayas CDMX|Mayas]]'''	
+| 25–20 	
+| [[Artilleros Puebla|Artilleros]] 	
+| [[Estadio Templo del Dolor]]	
+| April 14	
+| 15:00	
+| [[File:Simple_archery_target.png|18px|link=https://maximoavance.com]] [[File:Claro Sports logo.svg|33px|link=https://www.marca.com/claro-mx/streaming.html]]  [[File:Facebook_New_Logo_(2015).svg|50px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]]    
+|}
+
+===Statistical leaders===
+{| class="wikitable" style="text-align:center"
+|-
+! Category !! Player || Position || Team || Statistic
+|- bgcolor="lavender" 
+| colspan="5" | Passing
+|-
+| Yards || [[:es:Bruno Márquez|Bruno Márquez]] || QB || [[Raptors Naucalpan]] || 2,344
+|-
+| Touchdowns || Bruno Márquez || QB || [[Raptors Naucalpan]] || 18
+|-
+| Interceptions || Ricardo Francisco Quintana Rios <br/> Diego Pérez Arvizu <br/> Alvaro Camacho || QB <br/> QB <br/> QB || [[Mexicas CDMX]] <br/> [[Condors CDMX]] <br/> [[Mayas CDMX]] || 8
+|-
+| Completions || Bruno Márquez || QB || [[Raptors Naucalpan]] || 192
+|-
+| Attempts || Bruno Márquez || QB || [[Raptors Naucalpan]] || 313
+|-
+| Completion percentage || José Manuel Fernández Chávez || QB || [[Osos Toluca]] || 100.00%{{efn|Fernández completed 1−1 pass for 100.00% pass completion; taking into account quarterbacks with a minimum of 80 pass attempts during the season (10 per game), Bruno Márquez of the [[Raptors Naucalpan]] led with a pass completion percentage of 61.34%.}}
+|- bgcolor="lavender" 
+| colspan="5" | Rushing
+|-
+| Yards || Luis Humberto Lopez Tinoco || RB || [[Condors CDMX]] || 504
+|-
+| Touchdowns || Dan Avila Gómez || RB / WR || [[Raptors Naucalpan]] || 5
+|-
+| Attempts || Dan Avila Gómez || RB / WR || [[Raptors Naucalpan]] || 97
+|-
+| Yards per attempt || [[Fernando Richarte]] || WR || [[Dinos Saltillo]] || 21.0{{efn|Richarte averaged 21.0 rushing yards on 1 rush attempt; taking into account players with a minimum of 8 rush attempts during the season (1 per game), Joel Ramon Rodriguez Fernandez of the [[Fundidores Monterrey]] led with an average 9.5 rushing yards on 13 rush attempts.}}
+|- bgcolor="lavender" 
+| colspan="5" | Receiving
+|-
+| Yards || [[Guillermo Villalobos]] || WR || [[Mexicas CDMX]] || 921
+|-
+| Touchdowns || Sebastian Olvera Rivas || WR || [[Artilleros Puebla]] || 8
+|-
+| Receptions || [[Guillermo Villalobos]] || WR || [[Mexicas CDMX]] || 58
+|-
+| Targets || [[Guillermo Villalobos]] || WR || [[Mexicas CDMX]] || 88
+|-
+| Yards per reception || Marcelo Zumalacarregui Taboada || WR || [[Artilleros Puebla]] || 32.0{{efn|Zumalacarregui averaged 32.0 receiving yards on 2 receptions; taking into account players with a minimum of 8 receptions during the season (1 per game), Rafael Adrian Gomez Galvan of the [[Condors CDMX]] led with an average of 25.7 receiving yards on 13 receptions.}}
+|-
+|- bgcolor="lavender" 
+| colspan="5" | Defensive
+|-
+| Sacks || José David Casarrubias Santiago || DL || [[Raptors Naucalpan]] || 10
+|-
+| Assisted sacks || Felix Roberto Guerrero Sanchez || DL || [[Raptors Naucalpan]] || 3
+|-
+| Tackles || Miguel Angelo Canseco Larios || LB || [[Mexicas CDMX]] || 42
+|-
+| Assisted tackles || Miguel Angelo Canseco Larios || LB || [[Mexicas CDMX]] || 17
+|-
+| Interceptions || Fernando Ramírez Paredes || DB || [[Raptors Naucalpan]] || 5
+|-
+| Pick sixes || Carlos Fernando Espinoza Carvajal <br/> Julián Darrell Crandall || DB <br/> DB / WR || [[Condors CDMX]] <br/> [[Osos Toluca]]  || 2 
+|-
+| Pass deflections || Sergio Schiaffino Perez || DB || [[Dinos Saltillo]] || 14
+|- 
+| Forced fumbles || Juan Francisco González Delgado <br/> Miguel Angelo Canseco Larios || DL <br/> LB || [[Mayas CDMX]] <br/> [[Mexicas CDMX]] || 3
+|-
+| Touchdowns ||  Carlos Fernando Espinoza Carvajal <br/> Julián Darrell Crandall || DB <br/> DB / WR || [[Condors CDMX]] <br/> [[Osos Toluca]]  || 2 
+|- bgcolor="lavender" 
+| colspan="5" | Kicking
+|-
+| PATs made || Diego Carsolio Urban || K || [[Raptors Naucalpan]] || 24
+|-
+| PAT attempts || Diego Carsolio Urban || K || [[Raptors Naucalpan]] || 24
+|-
+| Field goals made || Diego Carsolio Urban <br/> Alan Alessandro Paoli García || K <br/> K || [[Raptors Naucalpan]] <br/> [[Condors CDMX]] || 16
+|-
+| Field goal attempts || Diego Carsolio Urban <br/> Alan Alessandro Paoli García || K <br/> K || [[Raptors Naucalpan]] <br/> [[Condors CDMX]] || 16
+|-
+| Points || Diego Carsolio Urban || K || [[Raptors Naucalpan]] || 72
+|-
+|- bgcolor="lavender" 
+| colspan="5" | Returning
+|-
+| Total returns || Sergio Enrique Barbosa Garcia || WR || [[Dinos Saltillo]] || 22
+|-
+| Total return yards || Sergio Enrique Barbosa Garcia || WR || [[Dinos Saltillo]] || 453
+|-
+| Yards per return || Jesús David Rosales Robles || HB || [[Raptors Naucalpan]] || 39.0{{efn|Rosales averaged 39.0 returning yards on 1 return; taking into account players with a minimum of 8 returns during the season (1 per game), Joan Alejandro Medina Tabitas of the [[Dinos Saltillo]] led with an average of 22.7 returning yards on 15 returns.}}
+|-
+| Punt returns || Sergio Enrique Barbosa Garcia || WR || [[Dinos Saltillo]] || 13
+|-
+| Punt return yards || Sergio Enrique Barbosa Garcia || WR || [[Dinos Saltillo]] || 191
+|-
+| Kickoff returns || Kamaal McIlwain || CB || [[Mexicas CDMX]] || 14
+|-
+| Kickoff return yards || Allan Fernando Rosado Alvares || RB || [[Condors CDMX]] || 281
+|-
+| Total return touchdowns || Sergio Enrique Barbosa Garcia <br/> Edgar Josué Arroyo Flores <br/> Jesús David Rosales Robles || WR <br/> RB <br/> HB || [[Dinos Saltillo]] <br/> [[Mayas CDMX]] <br/> [[Raptors Naucalpan]] || 1
+|- class="sortbottom"
+| colspan="21"|<small>Source: LFA<ref>{{cite web|url=https://lfa.mx/estadisticas-temporda-2019/|title=ESTADÍSTICAS - LFA|publisher=[[Liga de Fútbol Americano Profesional]]|accessdate=6 October 2019|archive-url=https://web.archive.org/web/20191006042650/https://lfa.mx/estadisticas-temporda-2019/|archive-date=6 October 2019}}</ref></small>
+|}
+
+==Playoffs==
+===Playoff bracket===
+
+{{4TeamBracket 
+
+| RD1         = Division Finals
+| RD2         = Tazón Mexico IV
+
+| group1      = 
+| group2      = 
+
+| seed-width  = 
+| team-width  = 
+| score-width = 
+
+| RD1-seed1   = C2
+| RD1-team1   = [[Mayas CDMX|Mayas]]
+| RD1-score1  = 13
+| RD1-seed2   = C1
+| RD1-team2   = '''[[Condors CDMX|Condors]]'''
+| RD1-score2  = '''18'''
+
+| RD1-seed3   = N2
+| RD1-team3   = [[Fundidores Monterrey|Fundidores]]
+| RD1-score3  = 47
+| RD1-seed4   = N1
+| RD1-team4   = '''[[Raptors Naucalpan|Raptors]]'''
+| RD1-score4  = '''53*'''
+
+| RD2-seed1   = C1
+| RD2-team1   = '''[[Condors CDMX|Condors]]'''
+| RD2-score1  = '''20'''
+| RD2-seed2   = N1
+| RD2-team2   = [[Raptors Naucalpan|Raptors]]
+| RD2-score2  = 16
+}}
+:''' * '''Indicates overtime victory
+
+==Tazón México IV==
+{| class="wikitable" style="width:214px;" class="floatright" style="border: 1px  solid black;"
+! colspan="3" |Tazón México IV
+|-
+| colspan="3" |[[file:Lfa tazon mexico.png|center|80px]]
+|-
+| colspan="3" |
+|-
+! width=102px style="background:DarkGreen; color:white"|[[Raptors Naucalpan|'''Raptors''']]
+! width=10px |vs
+! width=102px style="background:#C1B14F;|[[Condors CDMX|'''Condors''']]
+|-
+| align="center" |<small>'''''(6-2)'''''</small>
+|
+| align="center" |<small>'''''(6-2)'''''</small>
+|-
+| align="center" |<font size=6>'''16'''</font>
+|
+| align="center" |<font size=6>'''20'''</font>
+|-
+|colspan=3 align=center |
+{| class="wikitable" 
+|-
+!width="130"| Teams
+!width="20"| 1C
+!width="20"| 2C
+!width="20"| 3C
+!width="20"| 4C
+|-
+| [[File:Kit_helmet_af_raptors_2019.png|50px]] [[Raptors Naucalpan|'''Raptors''']]
+| 0 || 9 || 0 || 7
+|-
+| [[File:Kit_helmet_af_condors_2019.png|50px]] [[Condors CDMX|'''Condors''']]
+| 6 || 0 || 7 || 7
+|}
+|-
+| colspan="3" |'''Date:''' 12, May 2019, 15:00
+|-
+| colspan="3" |'''Stadium:''' [[Estadio Azul]]
+|-
+| colspan="3" |'''Climate:''' Sunny, 28°
+|-
+| colspan="3" |'''Spectators:'''18,000
+|-
+| colspan="3" |'''Referee:''' Mario Matos
+|-
+| colspan="3" |'''TV:''' [[File:Logo Imagen Televisión 2016.png|22px|link=Imagen Televisión]] [[File:Fox sports 3 logo.svg|40px|link=Fox Sports 2 (Latinoamérica)]] [[File:Canal14Mexico.jpg|22px|link=Canal Catorce]] [[File:Claro Sports logo.svg|33px|link=Claro Sports]] [[File:Simple_archery_target.png|18px|link=Máximo Avance Network]] [[File:YouTube_Logo_2017.svg|60px]] [[File:Facebook logo.png|25px|link=https://www.facebook.com/LigaFutbolAmericano|LFA]] [[File:Twitter logo initial.png|25px]]    
+|-
+| colspan="3" |'''Half time show:''' [[Álex Lora]]
+|-
+!colspan="3" style="background: #efefef;"| <small>[[2018 LFA season#Tazón México III|←&nbsp;III]] • Tazón México • [[LFA 2020#Tazón México V|V&nbsp;→]]</small>
+|}
+The Tazón México IV was held on May 12, 2019 at 3:00 p.m. at the [[Estadio Azul]] in [[Mexico City]], with a record attendance for the LFA of 18,000 fans present. The commissioner of the CFL, Randy Ambrossie, was the great guest of the event and together with Alejandro Jaimes, commissioner of the LFA, and Gabriel Soto, they started the fourth edition of the Tazón México. Álex Lora performed the national anthem. The Condors became LFA champions, after beating the Raptors by a score of 20-16 in a somersault game and it was the most cardiac edition in the history of Tazón México, decided in the last 30 seconds of the game. The MVP of the match was Diego Arvizu "El Comandante" (QB) Condors.
+{| class="wikitable"
+|-
+! rowspan=2|Quarter !! rowspan=2|Time !! colspan=3|Series !! rowspan=2|'''Team''' !! rowspan=2|Annotations !! colspan=2|Score
+|-
+! Plays !! Yds !! [[Time of possession|TOP]] !! RAP !! CON
+|-
+| 1 || 9:37 || 2 || 75 || 0:54 || [[Condors CDMX|CON]] || Touchdown, 60-yard run by RB Luis H. López Tinoco; the extra point is no good (K Alan Paoli) || 0 || 6 
+|-
+| 2 || 7:40 || 12 || 75 || 5:46 || [[Raptors Naucalpan|RAP]] || Touchdown, 7-yard pass from QB Bruno Márquez to WR Antonio Tenorio; the extra point is no good (K Diego Carsolio) || 6 || 6 
+|-
+| 2 || 5:08 || 6 || 17 || 2:10 || [[Raptors Naucalpan|RAP]] || Field goal, 19 yards from K Diego Carsolio || 9 || 6 
+|-
+| 3 || 3:20 ||  ||  ||  || [[Condors CDMX|CON]] || 	Touchdown, 5-yard run of QB Diego Pérez Arvizu; the extra point is good (K Alan Paoli) || 9 || 13
+|-
+| 4 || 7:55 ||  ||  ||  || [[Raptors Naucalpan|RAP]] || Touchdown, 43-yard pass from QB Bruno Márquez to WR Diego Yañes; the extra point is good (K Diego Carsolio) || 16 || 13
+|-
+| 4 || 4:25 ||  ||  ||  || [[Condors CDMX|CON]] ||  Touchdown, 55-yard pass from QB Diego Pérez Arvizu to WR [[Andrés Salgado]]; the extra point is good (K Alan Paoli) || 16 || 20
+|}
+== Awards ==
+Following the season, awards are shown the best of the 2019 season.
+{| class="wikitable"
+!Award
+!Winner
+!(Position)
+!Team
+|-
+|MVP of the season
+|Bruno Márquez
+|QB
+|[[Raptors Naucalpan|Raptors]]
+|-
+|Coach of the year
+|Felix Buendia
+|HC
+|[[Condors CDMX|Condors]]
+|-
+|Rookie of the Year
+|Sebastian Olvera
+|WR
+|[[Artilleros Puebla|Artilleros]]
+|-
+|Offensive player of the year
+|Bruno Márquez
+|QB
+|[[Raptors Naucalpan|Raptors]]
+|-
+|Defensive player of the year
+|David Casarrubias
+|DL
+|[[Raptors Naucalpan|Raptors]]
+|-
+|Best Offensive Lineman
+|Diego Kuhlmann
+|OL
+|[[Osos Toluca|Osos]]
+|-
+|Best defensive lineman
+|Francisco Krauss
+|DL
+|[[Fundidores Monterrey|Fundidores]]
+|-
+|Best deep threat
+|Jordi Saldaña
+|WR
+|[[Mayas CDMX|Mayas]]
+|-
+|Best linebacker
+|Miguel Canseco
+|LB
+|[[Mexicas CDMX|Mexicas]]
+|-
+|Best runner
+|Luis Lopez Tinoco
+|RB
+|[[Condors CDMX|Condors]]
+|-
+|Best receiver
+|[[Guillermo Villalobos]]
+|WR
+|[[Mexicas CDMX|Mexicas]]
+|}
+
+==References==
+{{reflist}}
+
+==Notes==
+{{notelist}}
+
+{{Liga de Fútbol Americano Profesional}}
+
+[[Category:2019 in American football]]
+[[Category:LFA seasons]]

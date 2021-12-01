@@ -1,0 +1,53 @@
+{{infobox country at games
+| NOC = MAR
+| NOCname = [[Moroccan Olympic Committee]]<br> {{lang-ar|اللجنة الأولمبية الوطنية المغربية|links=no}}
+| games = Summer Olympics
+| year = 1976
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.cnom.org.ma }}&nbsp;{{in lang|fr}}
+| location = [[Montreal]]
+| competitors = 
+| sports = 
+| flagbearer = 
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+During the '''[[1976 Summer Olympics]]''' in [[Montreal|Montreal, Quebec]], Canada, '''[[Morocco]]''', along with many other countries, boycotted due to the participation of [[New Zealand at the 1976 Summer Olympics|New Zealand]], which still had sporting links with [[South Africa]].
+
+Athletes from [[Cameroon]], [[Egypt]], Morocco, and [[Tunisia]] competed on July 18–20 before these nations withdrew from the Games.
+
+==Results by event==
+
+===[[Athletics at the 1976 Summer Olympics|Athletics]]===
+'''Men's 5.000 metres'''
+* [[Mohamed Benbaraka]]
+:* Heat &mdash; did not start (→ did not advance, no ranking)
+
+===[[Boxing at the 1976 Summer Olympics|Boxing]]===
+'''Men's Light Flyweight (&ndash; 48&nbsp;kg)'''
+* [[Abderahim Najim]]
+*# First Round &mdash; Lost to [[Park Chan-Hee]] (KOR), DSQ-3
+
+==References==
+*[https://web.archive.org/web/20070612020125/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+
+{{Nations at the 1976 Summer Olympics}}
+
+[[Category:Nations at the 1976 Summer Olympics]]
+[[Category:Morocco at the Summer Olympics by year|1976 Summer Olympics]]
+[[Category:1976 in Moroccan sport]]
+
+
+{{Morocco-sport-stub}}
+{{1976-Olympic-stub}}

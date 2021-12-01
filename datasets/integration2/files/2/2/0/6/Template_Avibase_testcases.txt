@@ -1,0 +1,13 @@
+{{Testcases notice <!--|toc=on-->}}
+
+{{Test case|_collapsible=yes|_showcode=yes|_title=Test1
+|1BB50DE8362A4963|Turdus merula}}
+
+{{Test case|_collapsible=yes|_showcode=yes|_title=Test2
+|1BB50DE8362A4963}}
+
+<!--
+{{clear}}
+== References ==
+{{reflist}}
+ -->

@@ -1,0 +1,59 @@
+{{unreferenced|date=July 2015}}
+{{Infobox station 
+| name          = [[File:M1alger.png|32px|link=Algiers Metro]] Tafourah - Grande Poste
+| type          = 
+| style         =  
+| image         = Tafourah 3.JPG
+| image_caption = Tafourah - Grande Poste station on the Line 1.
+| address       = [[Grande Poste Algiers]]
+| coordinates   = {{Coord|36|46|19|N|3|03|29|E|type:railwaystation|display=inline}}
+| line          = [[Image:M1alger.png|15px]] [[Algiers Metro#Stations|Line 1]]
+| other         = [[Entreprise de transport urbain et suburbain d'Alger|ETUSA]] 15, 37, 40, 43, 100
+| structure     = 
+| platform      = 2 [[side platform]]s at each line
+| depth         = 
+| levels        = 
+| tracks        = 2 per line
+| parking       = 
+| bicycle       = 
+| baggage_check = 
+| opened        = November 1, 2011 (Line 1)
+| closed        = 
+| rebuilt       = 
+| electrified   = 
+| ADA           = yes
+| code          = TGP
+| owned         = 
+| zone          = 
+| smartcardname =
+| smartcardstatus =
+| former        = 
+| passengers    = 
+| pass_year     = 
+| pass_percent  = 
+| pass_system   = 
+| mpassengers   = 
+| services      = {{s-rail|title=Algiers Metro}}
+{{s-line|system=Algiers Metro|previous=Ali Boumendjel|next=Khelifa Boukhalfa|line=1}}
+| map_locator   = 
+| web           = 
+}}
+
+'''Tafourah - Grande Poste''' is a [[interchange station|transfer station]] serving the Line 1 of the [[Algiers Metro]].
+
+==Etymology==
+The Tafourah station - Grande Poste is located in El Khettabi Boulevard near the [[Grande Poste Algiers]].
+
+The northern exits of the station provide access to the main post office in Khemisti Boulevard and the street Larbi Ben Me Hidi. The south exits giving access to the central power of the [[University of Algiers]].
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.metroalger-dz.com/ Algiers Metro Site]
+* [http://structurae.info/ouvrages/ligne-1-du-metro-d-alger Ligne 1 Algiers Metro] on [[Structurae]]
+
+{{Algiers Metro}}
+
+[[Category:Algiers Metro stations]]
+[[Category:Railway stations opened in 2011]]

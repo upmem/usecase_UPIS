@@ -1,0 +1,263 @@
+{{short description|A protein coding}}
+{{Cleanup reorganize|date=March 2020}}
+
+{{#invoke:Infobox gene|getTemplateData|QID=Q18040126}}
+'''FAM178B''' is a [[Coding region|protein coding]] that is located on the [[Chromosome 2|plus strand of chromosome 2]].<ref name=":0">FAM178B - Protein FAM178B - Homo sapiens (Human) - FAM178B gene & protein. (n.d.). Retrieved February 25, 2019, from <nowiki>https://www.uniprot.org/uniprot/Q8IXR5</nowiki></ref> The [[Locus (genetics)|locus]] for the gene is 2q11.2.  It is also known by the aliases Family with Sequence Similarity 178, Member B, and HSPC234.<ref>RecName: Full=Protein FAM178B - Protein - NCBI. (n.d.). Retrieved February 25, 2019, from <nowiki>https://www.ncbi.nlm.nih.gov/protein/Q8IXR5.2</nowiki></ref> In total there are 24 [[Exon|exons]] in the gene. FAM178B spans 110,720 base pairs, and contains 827 amino acids.   
+
+== Forms ==
+There are two [[Protein isoform|isoforms]] of the gene transcript that exist by [[alternative splicing]], and one gene precursor.<ref name=":0" />   
+{| class="wikitable"
+|+FAM178B Isoforms from Splice Variation:
+!Isoform:
+!Identifier:
+!Length in Amino Acids: 
+!Mass (Daltons):
+|-
+|1
+|'''Q8IXR5-1'''
+|827
+|93,514
+|-
+|2
+|'''Q8IXR5-2'''
+|119
+|13,809
+|-
+|3
+|'''Q8IXR5-3'''
+|679
+|76,515
+|}SLF2 (FAM178A) is an important [[paralog]] of FAM178B. SLF2 is predicted to play a role in the [[DNA repair|DNA damage response]] (DDR) pathway by regulating [[Postreplication repair|post-replication repair]] of UV-damaged DNA, and genomic stability maintenance.<ref>{{cite journal | vauthors = Räschle M, Smeenk G, Hansen RK, Temu T, Oka Y, Hein MY, Nagaraj N, Long DT, Walter JC, Hofmann K, Storchova Z, Cox J, Bekker-Jensen S, Mailand N, Mann M | title = DNA repair. Proteomics reveals dynamic assembly of repair complexes during bypass of DNA cross-links | journal = Science | volume = 348 | issue = 6234 | pages = 1253671 | date = May 2015 | pmid = 25931565 | pmc = 5331883 | doi = 10.1126/science.1253671 }}</ref> 
+
+== Protein structure ==
+The [[Molecular mass|molecular weight]] of the protein is 76.5 kilodaltons,<ref>{{Cite web|url=https://www.ebi.ac.uk/Tools/seqstats/saps/|title=SAPS < Sequence Statistics < EMBL-EBI|website=www.ebi.ac.uk|access-date=2019-04-21}}</ref> and the [[isoelectric point]] is 5.47.The gene has 6 transcript [[Alternative splicing|splice variants]].<ref>Gene: FAM178B (ENSG00000168754) - Splice variants - Homo sapiens - Ensembl genome browser 95. (n.d.). Retrieved February 25, 2019, from <nowiki>http://useast.ensembl.org/Homo_sapiens/Gene/Splice?db=core;g=ENSG00000168754;r=2:96875882-96986592</nowiki></ref> The protein has been phenotypically associated with [[Bipolar disorder|bipolar disease]] due to its locus,<ref>Bipolar disorder lithium response (continuous) or schizophrenia - Loci associated with Bipolar disorder lithium response (continuous) or schizophrenia - Homo sapiens - Ensembl genome browser 95. (n.d.). Retrieved February 25, 2019, from <nowiki>http://useast.ensembl.org/Homo_sapiens/Phenotype/Locations?db=core;g=ENSG00000168754;ph=70698;r=2:96875882-96986592</nowiki></ref> as well as [[body mass index]] (BMI), and [[cell adhesion]].<ref>Gene: FAM178B (ENSG00000168754) - Phenotypes - Homo sapiens - Ensembl genome browser 95. (n.d.). Retrieved February 25, 2019, from <nowiki>http://useast.ensembl.org/Homo_sapiens/Gene/Phenotype?db=core;g=ENSG00000168754;r=2:96875882-96986592</nowiki></ref> A proposed structure for the protein can be found in the images for proposed structures.<ref>SWISS-MODEL Repository | Q8IXR5. (n.d.). Retrieved February 25, 2019, from <nowiki>https://swissmodel.expasy.org/repository/uniprot//Q8IXR5</nowiki></ref> The [[Protein secondary structure|secondary structure]] for the FAM178B protein is predicted to be primarily alpha helices.<ref name=":1">{{Cite web|url=http://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi?id=index|title=PHYRE2 Protein Fold Recognition Server|website=www.sbg.bio.ic.ac.uk|access-date=2019-04-22}}</ref> The [[Protein tertiary structure|tertiary structure]] of the protein may assume a coiled coil structure.<ref name=":1" />  
+
+[[File:Tertiary_Structure_of_FAM178B_.gif|alt=]]
+
+== Expression ==
+FAM178B is most highly expressed in the [[skeletal muscle]] and brain tissues<ref name=":2">{{Cite web|url=https://www.genomatix.de/|title=Gene2Promoter|last=|first=|date=|website=ExPasy|archive-url=|archive-date=|access-date=}}</ref>.The structure in which it is highly concentrated is in the [[corpus callosum]] of the brain.<ref name=":2" /> Additionally, it is of high levels in the [[trigeminal nerve]] and spinal cord. Further, there is also high concentrations of the gene found near the heart, testes and olfactory regions. 
+
+According to the [[Allen Brain Atlas]],<ref>{{Cite web|url=https://www.mouse.brain-map.org|title=Allen Brain Atlas|last=|first=|date=|website=|archive-url=|archive-date=|access-date=}}</ref> the olfactory regions, and the [[hippocampus]] of the mouse brain showed the greatest expressions of the gene when tested experimentally.  
+
+[[File:Gene Expression FAM178B.png|border]]
+
+== DNA Level Regulation ==
+The proposed promoter region of FAM178B protein is below.<ref>{{Cite web|url=https://www.genomatix.de/online_help/help_eldorado/introduction.html|title=ElDorado Introduction|website=www.genomatix.de|access-date=2019-04-29}}</ref> A table of relevant transcription factor binding sites that correspond to the sequence and colors highlighted in the promoter region is also included. 
+
+<br />[[File:Part 1 of promoter region FAM178B.png|alt=]]
+
+[[File:Part 2 promoter region FAM178B.png|alt=]]
+
+The [[Promoter (genetics)|promoter]] region of FAM178B is highly conserved across its most related orthologs, and is almost identical across the human, gorilla, chimp, bonobo and gibbon organisms.<ref>{{Cite web|url=https://www.ebi.ac.uk/Tools/msa/clustalo/|title=Clustal Omega < Multiple Sequence Alignment < EMBL-EBI|website=www.ebi.ac.uk|access-date=2019-04-29}}</ref> 
+
+<br />
+
+== Protein Level Regulation ==
+Below is a table that shows the protein modifications that could be potentially made to FAM178B, and the potential effects of these modifications on the protein itself:.<ref>{{Cite web|url=https://www.expasy.org/proteomics/protein-protein_interaction|title=ExPASy: SIB Bioinformatics Resource Portal - Categories|website=www.expasy.org|access-date=2019-04-29}}</ref>
+
+<br />
+== Homology and Evolution ==
+An important paralog of the gene is SLF2, which plays a role in the DNA damage response (DDR) pathway by regulating post replication repair of UV-damaged DNA. It also helps maintain genomic stability.<ref>Räschle, M., Smeenk, G., Hansen, R. K., Temu, T., Oka, Y., Hein, M. Y., … Mann, M. (2015). DNA repair. Proteomics reveals dynamic assembly of repair complexes during bypass of DNA cross-links. ''Science'', ''348''(6234), 1253671. <nowiki>https://doi.org/10.1126/science.1253671</nowiki></ref> There are 74 known [[Homology (biology)|orthologs]] of the protein, and it can be traced back as far back as crustaceans.<ref name=":0" /> FAM178B is heavily found in both vertebrates and invertebrates. The ortholog space for the protein FAM178B is quite large as it can be traced back 794 millions of years ago (mya) to mollusks with the apple snail, and Pacific Oyster. There are 134 known orthologs of FAM178B. However, the protein is not found in arthropods, or insects, which is interesting because those organisms also existed in that time period meaning that it was conserved across some taxa, but not others. The protein is most readily found in primates, and other non-primate mammals. The protein is also conserved across reptiles, some bony fish, and cartilaginous fish, and birds.   
+
+Below is a table illustrating some of the orthologs for FAM178B using [[BLAST]]<ref>{{Cite web|url=https://blast.ncbi.nlm.nih.gov/Blast.cgi|title=BLAST: Basic Local Alignment Search Tool|website=blast.ncbi.nlm.nih.gov|access-date=2019-04-21}}</ref> and [[BLAT (bioinformatics)|BLAT]].<ref>{{Cite web|url=https://genome.ucsc.edu/cgi-bin/hgBlat|title=Human BLAT Search|website=genome.ucsc.edu|access-date=2019-04-21}}</ref>  
+{| class="wikitable"
+|+
+!Scientific Name:
+!Common Name:
+!Accession Number
+from NCBI:
+!Sequence Length:
+(Amino Acids)
+!Date of Divergence from Human Lineage:
+(millions of years ago)
+!Percent Identity:
+!Percent Similarity:
+|-
+|''[[Homo sapiens|Homo Sapiens]]''
+|Human
+|Q8IXR5.2
+|827
+| --
+| --
+| --
+|-
+|''[[Rhesus macaque|Macaca Mulatta]]''
+|Macque 
+|XP_014968433
+|709
+|28.1
+|80
+|83
+|-
+|''[[Green monkey|Chlorocebus Sabaeus]]''
+|Green Monkey
+|XP_008006245
+|724
+|28.1
+|91
+|94
+|-
+|''[[Panamanian white-faced capuchin|Cebus Capucinus]]''
+|Capuchin
+|XP_017379417
+|808
+|42.6
+|88
+|91
+|-
+|''[[Northern greater galago|Otolemur Garnettii]]''
+|Galago
+|XP_012666502
+|675
+|73.0
+|74
+|81
+|-
+|[[Alpine marmot|Marmota Marmota]]
+|Marmot
+|XP_015355109
+|692
+|88.0
+|74
+|80
+|-
+|[[Prairie vole|Microtus Ochrogaste]]<nowiki/>r
+|Vole
+|XP_026641579
+|561
+|88.0
+|68
+|75
+|-
+|''[[Cat|Felis Catus]]'' 
+|Cat
+|XP_019682636
+|720
+|94.0
+|71
+|77
+|-
+|''[[Horse|Equus Caballus]]''
+|Horse
+|XP_023474395
+|659
+|94.0
+|78
+|84
+|-
+|''[[Tiger|Panthera Tigris]]''
+|Tiger
+|XP_007097881
+|674
+|94.0
+|75
+|80
+|-
+|[[Natal long-fingered bat|Miniopterus Natalensis]]
+|Bat
+|XP_016077151
+|649
+|94.0
+|73
+|81
+|-
+|''[[American bison|Bison Bison]]''
+|Bison
+|XP_010828157
+|664
+|94.0
+|65
+|73
+|-
+|''[[Common bottlenose dolphin|Tursiops Truncatus]]''
+|Dolphin
+|JH473473 
+|827
+|94.0
+|61
+|68
+|-
+|''[[American alligator|Alligator Mississippiensis]]''
+|Alligator
+|XP_019343229
+|802
+|320.0
+|34
+|47
+|-
+|[[Central bearded dragon|''Pogona Vitticeps'']]
+|Bearded Dragon
+|XP_020635880
+|1003
+|320.0
+|41
+|56
+|-
+|[[Okarito kiwi|''Apteryx  Rowi'']]
+|Kiwi
+|XP_025941058
+|512
+|320.0
+|42
+|58
+|-
+|''[[Chicken|Gallus Gallus]]''
+|Chicken
+|XP_024998603
+|547
+|320.0
+|37
+|50
+|-
+|''[[Whale shark|Rhincodon Typus]]''
+|Whale Shark
+|XP_020388490
+|1155
+|465.0
+|34
+|53
+|-
+|''[[Australian ghostshark|Callorhinchus Milii]]''
+|Australian Ghostshark
+|XP_007910600
+|860
+|465.0
+|33
+|50
+|-
+|''[[Pacific oyster|Crassostrea Gigas]]''
+|Pacific Oyser
+|EKC42969
+|1222
+|794.0
+|24
+|38
+|-
+|''[[Pomacea canaliculata|Pomacea Canaliculta]]''
+|Applesnail
+|PVD30455
+|1229
+|794.0
+|24
+|45
+|}
+Timetree<ref>{{Cite web|url=http://www.timetree.org/|title=TimeTree :: The Timescale of Life|website=www.timetree.org|access-date=2019-04-29}}</ref> for FAM178B <br />
+== Interacting Proteins ==
+There are 2 proteins that have high predicted values of interaction with FAM178B: LRSAM 1 and ZNF598.<ref name=":3">{{Cite web|url=https://www.mentha.uniroma2.it/|title=mentha: the interactome browser|website=www.mentha.uniroma2.it|access-date=2019-04-29}}</ref> [[LRSAM1]]<ref>{{Cite web|url=https://www.uniprot.org/uniprot/Q6UWE0|title=LRSAM1 - E3 ubiquitin-protein ligase LRSAM1 - Homo sapiens (Human) - LRSAM1 gene & protein|website=www.uniprot.org|access-date=2019-04-29}}</ref> is also known as leucine rich repeat and sterile alpha motif protein 1. The value for the protein is .29 and the evidence is physical from hybrid pooling approaches. LRSAM1 was previously known as Tsg-associated ligase and is located on the LRSAM1 gene. Mutations have been associated with periphery neuropathy, and sensory disorders. It is highly expressed in the spinal cord, as is FAM178B. There is currently no known structure for the protein. [[ZNF598]] is a zinc finger protein and the value is .13. It plays a key role in ribosome quality control. The predicted structures are below for both proteins. 
+
+[[File:FAM178B Interacting Proteins.png|frameless]]MENTHA<ref name=":3" /> interacting proteins for FAM178B. 
+
+[[File:STRING interacting proteins.png|alt=]] STRING<ref>{{Cite web|url=https://string-db.org/cgi/network.pl?taskId=mpHKfJap039K|title=FAM178B protein (human) - STRING interaction network|website=string-db.org|access-date=2019-04-29}}</ref> interacting proteins for FAM178B. 
+
+<br />
+== References ==
+{{Reflist}}
+
+== Further reading ==
+
+# {{Cite journal|last1=Hillier|first1=Ladeana W.|last2=Graves|first2=Tina A.|last3=Fulton|first3=Robert S.|last4=Fulton|first4=Lucinda A.|last5=Pepin|first5=Kymberlie H.|last6=Minx|first6=Patrick|last7=Wagner-McPherson|first7=Caryn|last8=Layman|first8=Dan|last9=Wylie|first9=Kristine|date=2005-04-07|title=Generation and annotation of the DNA sequences of human chromosomes 2 and 4|url=https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=15815621&dopt=b|journal=Nature|volume=434|issue=7034|pages=724–731|doi=10.1038/nature03466|issn=1476-4687|pmid=15815621|doi-access=free}}
+# {{Cite journal|last1=Stelzl|first1=Ulrich|last2=Worm|first2=Uwe|last3=Lalowski|first3=Maciej|last4=Haenig|first4=Christian|last5=Brembeck|first5=Felix H.|last6=Goehler|first6=Heike|last7=Stroedicke|first7=Martin|last8=Zenkner|first8=Martina|last9=Schoenherr|first9=Anke|date=2005-09-23|title=A human protein-protein interaction network: a resource for annotating the proteome|url=https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=16169070&dopt=b|journal=Cell|volume=122|issue=6|pages=957–968|doi=10.1016/j.cell.2005.08.029|issn=0092-8674|pmid=16169070|hdl=11858/00-001M-0000-0010-8592-0|s2cid=8235923|hdl-access=free}}
+# Cloning and functional analysis of cDNAs with open reading frames for 300 previously undefined genes expressed in CD34+ hematopoietic stem/progenitor cells
+
+
+[[Category:Protein classification]]

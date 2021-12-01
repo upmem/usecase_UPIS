@@ -1,0 +1,90 @@
+{{Infobox settlement
+|official_name          = Cutias do Araguari
+|nickname               =
+|motto                  =
+|image_skyline          =
+|imagesize              = 
+|image_caption          =
+|image_flag             = Cutiasbandeiramap.jpg
+|image_seal             = Cutias_do_Araguari_Coat.jpg
+|image_map              = Amapa MunicipCutias.jpg
+|mapsize                = 250px
+|map_caption            = Cutias do Araguari in the state of Amapá
+|subdivision_type  = [[List of sovereign states|Country]]
+|subdivision_type1 = [[Regions of Brazil|Region]]
+|subdivision_type2 = [[States of Brazil|State]]
+|subdivision_name  = {{flagicon|BRA}}  [[Brazil]]
+|subdivision_name1 = [[North Region, Brazil|North]]
+|subdivision_name2 = [[Image:Bandeira do Amapá.svg|border|22px]] [[Amapá]]
+|leader_title           = Mayor
+|leader_name            = Raimundo Barbosa Amanajás Filho
+|leader_party           = [[Republican Party of the Social Order|PROS]]
+|leader_title1          =
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|established_title      = 
+|established_date       = May 1, 1992
+|established_title2     =
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|area_magnitude         =
+|area_total_km2         = 
+|area_total_sq_mi       =
+|area_land_km2          = 2,115
+|area_land_sq_mi        =
+|area_water_km2         =
+|area_water_sq_mi       =
+|area_water_percent     =
+|area_urban_km2         =
+|area_urban_sq_mi       =
+|area_metro_km2         =
+|area_metro_sq_mi       =
+|pushpin_map            = Brazil
+|population_as_of       = 
+|population_note        = 2007
+|population_total       = 4,634
+|population_density_km2 = 
+|population_density_sq_mi =
+|population_metro       =
+|population_footnotes   =
+|population_density_metro_km2 =
+|population_density_metro_sq_mi =
+|population_urban       =
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|00|59|09|N|50|48|07|W|region:BR|display=inline}}
+|elevation_m            = 6
+|elevation_ft           =
+|postal_code_type       =
+|postal_code            =
+|blank_name             = 
+|blank_info             = 
+|website = 
+}}
+'''Cutias''' ([[Portuguese language|Portuguese]]: ''Município de Cutias do Araguari''), formally known as '''Cutias do Araguari''' ({{IPA-pt|kuˈtʃi.ɐs dwaɾɐgwaˈɾi|native}}), is a [[municipality]] located in the southeast of the state of [[Amapá]] in [[Brazil]]. Its population is 4,634 and its area is {{convert|2,115|km2|mi2}}. The name of the municipality comes from a rodent of the same name, known in English as the [[agouti]]. Cutias do Araguari was elevated to the level of municipality on May 1, 1992.<ref name="mun"/><ref name="gov"/>
+
+Cutias is bordered by Pracuúba and Amapá to the north, Macapá to the south, Macapá to the east, and Ferreira Gomes to the west. It is {{Convert|120|m|ft}} from the state capitol of [[Macapá]]. Cutias is dominated by the [[Araguari River (Amapá)|Araguari River]] and its tributaries, which partially submerges the area for nearly half the year. It is very flat, with the highest point reaching only {{Convert|3|m|ft}} above sea level. Cutias has a wet, tropical climate; it averages 2,800&nbsp;mm of rain per year, and has an average humidity of 80%.<ref name="mun"/><ref name="gov"/>
+
+Cutias do Araguari is the largest exporter of ''pirarucú'' ([[arapaima]]) in Brazil, an endangered fish noted for its boneless steaks. The common agouti, from which the municipality takes its name, is also used in local cuisine.<ref name="mun"/><ref name="gov"/>
+
+==References==
+{{reflist|2|refs=
+
+<ref name="gov">{{cite web | url = http://www.ap.gov.br/amapa/site/paginas/municipios/cutias.jsp | title = Cutias do Araguari | year = 2011 | publisher = Governo do Estado do Amapá | location = Macapá, Amapá, Brazil | accessdate = 2014-06-05 | language = Portuguese | url-status = dead | archiveurl = https://web.archive.org/web/20140827233856/http://www.ap.gov.br/amapa/site/paginas/municipios/cutias.jsp | archivedate = 2014-08-27 }}</ref>
+
+<ref name="mun">{{cite web | url = http://www.amapadigital.net/cutias_araguari.php | title = Cutias do Araguari | year = c. 2014 | publisher = Amapá Digital | accessdate = 2014-06-06 | language = Portuguese | archive-url = https://web.archive.org/web/20140530002715/http://www.amapadigital.net/cutias_araguari.php | archive-date = 2014-05-30 | url-status = dead }}</ref>
+
+}}
+
+{{Municipalities of Amapá}}
+
+[[Category:Municipalities in Amapá]]
+
+
+{{AmapáBR-geo-stub}}

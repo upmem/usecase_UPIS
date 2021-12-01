@@ -1,0 +1,35 @@
+{{Other places3|Owieczki (disambiguation){{!}}Owieczki}}
+{{Infobox settlement
+| name = Owieczki
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Rogoźno|Rogoźno]]
+|pushpin_map=Poland
+|coordinates = {{coord|52|47|N|16|55|E|region:PL|display=inline}}
+| elevation_m =
+| population_total =
+| website = }}
+'''Owieczki''' {{IPAc-pl|o|'|w|j|e|cz|k|i}} is a [[village]] in the administrative district of [[Gmina Rogoźno]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) &ndash; TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|7|km|mi|0}} north-west of [[Rogoźno]], {{convert|17|km|mi|0|abbr=on}} north-east of [[Oborniki]], and {{convert|43|km|mi|0|abbr=on}} north of the regional capital [[Poznań]].
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Rogoźno}}
+
+{{coord|52.7833|N|16.9167|E|region:PL_type:city_source:enwiki-GNS-gminamatcher|display=title}}
+
+[[Category:Villages in Oborniki County|Owieczki]]
+{{Oborniki-geo-stub}}

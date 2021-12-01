@@ -1,0 +1,227 @@
+{{for|the state|Republic of Zakopane}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox settlement
+| name = Zakopane
+| image_skyline = Zakopane T58.jpg
+| imagesize = 250px
+| image_caption = View of Zakopane from Butorowy Wierch
+| image_shield = POL Zakopane COA.svg
+| pushpin_map = Poland Lesser Poland Voivodeship#Poland
+| pushpin_label_position  = top
+| pushpin_map_alt         = 
+| pushpin_map_caption     = 
+| coordinates = {{coord|49|18|N|19|57|E|region:PL_type:city|display=inline,title}}
+| subdivision_type  = [[List of sovereign states|Country]]
+| subdivision_name  = {{POL}}
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = {{flag|Lesser Poland Voivodeship|name=Lesser Poland}}
+| subdivision_type2 = [[List of Polish counties|County]]
+| subdivision_name2 = [[Tatra County|Tatra]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = Zakopane <small>(urban gmina)</small>
+| leader_title = Mayor
+| leader_name = Leszek Dorula
+| established_title = Established
+| established_date = 17th century
+| established_title3 = Town rights
+| established_date3 = 1933
+| elevation_min_m = 750
+| elevation_max_m = 1126
+| area_total_km2 = 84
+| population_as_of = 2017
+| population_total = 27266<ref name="auto1">{{cite web|url=https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2017-r-,7,14.html|title=Powierzchnia i ludność w przekroju terytorialnym w 2017 r.|last=GUS|website=stat.gov.pl|accessdate=10 April 2019}}</ref>
+| population_density_km2 = auto
+| timezone = [[Central European Time|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| postal_code_type = Postal code
+| postal_code = 34-500 to 34-504
+| area_code = +48 18
+| blank_name = [[Polish car number plates|Car plates]]
+| blank_info = KTT
+| website = {{URL|http://www.zakopane.eu}}
+}}
+'''Zakopane''' is a town in the extreme south of [[Poland]], in the southern part of the [[Podhale]] region at the foot of the [[Tatra Mountains]]. From 1975 to 1998, it was part of [[Nowy Sącz Voivodeship|Nowy Sącz Province]]; since 1999, it has been part of [[Lesser Poland Voivodeship]]. {{As of|2017}} its population was 27,266.<ref name="auto1"/> Zakopane is a centre of [[Gorals|Goral]] culture and is often referred to as "the winter capital of Poland”. It is a popular destination for [[mountaineering]], [[skiing]], and [[tourism]].<ref>{{cite web|url=https://www.adventurous-travels.com/posts/zakopane-what-to-see-in-polands-winter-capital|title=Zakopane - What To See in Poland's Winter Capital|website=Adventurous-Travels.com|accessdate=18 September 2019}}</ref>
+
+Zakopane lies near Poland's border with [[Slovakia]], in a [[valley]] between the Tatra Mountains and [[Gubałówka Hill]]. It can be reached by train or bus from the province capital, [[Kraków]], about two hours away. Zakopane lies 800–1,000 metres [[above mean sea level|above sea level]] and centres on the intersection of its Krupówki and Kościuszko Streets.
+
+== History ==
+[[File:Zakopane....jpg|thumb|left|A postcard of Zakopane from 1916]]
+The earliest documents mentioning Zakopane date to the 17th century, describing a [[Glade (geography)|glade]] called ''Zakopisko''. In 1676 it was a village of 43 inhabitants. In 1818 Zakopane was a small town that was still being developed. There were only 340 homes that held 445 families. The population of Zakopane at that time was 1,805. 934 women and 871 men lived in Zakopane.<ref name=":0">{{Cite web|url=http://www.sztetl.org.pl/en/article/zakopane/3,local-history/#footnote_2|title=Local history - Information about the town - Zakopane - Virtual Shtetl|website=www.sztetl.org.pl|language=pl|access-date=2017-05-04}}</ref> The first church was built in 1847, by Józef Stolarczyk.<ref name=":0" /> Zakopane became a center for the region's [[mining]] and [[metallurgy]] industries; in the 19th century, it was the largest center for metallurgy in [[Galicia (Central Europe)|Galicia]]. It expanded during the 19th century as the [[climate]] attracted more inhabitants. By 1889 it had developed from a small village into a climatic [[health resort]]. Rail service to Zakopane began October 1, 1899. In the late 1800s Zakopane constructed a road that went to the town of [[Nowy Targ]], and railways that came from [[Chabówka]].<ref name=":0" /> Because of easier transportation the population of Zakopane had increased to about 3,000 people by the end of the 1800s.<ref name=":0" /> In the 19th century, Krupówki street was just a narrow beaten path that was meant for people to get from the central part of town to the village of Kuźnice.
+
+The ski jump on [[Wielka Krokiew]] was opened in 1925.
+The cable car to [[Kasprowy Wierch]] was completed in 1936.
+The funicular connected Zakopane and the top of [[Gubałówka]] in 1938.
+
+Because of Zakopane's popular ski mountains, the town gained popularity this made the number of tourists increase to about 60,000 people by 1930.<ref name=":0" />
+
+In March 1940, representatives of the [[Soviet Union|Soviet]] [[NKVD]] and the [[Nazi]] [[Gestapo]] met for one week in Zakopane's Villa Tadeusz, to [[Gestapo-NKVD Conferences|coordinate the pacification of resistance in Poland]]. Throughout [[World War II]], Zakopane served as an underground staging point between Poland and [[Hungary]].{{cn|date=July 2020}}
+
+From 1942 to 1943, 1,000 prisoners from the German [[List of subcamps of Kraków-Płaszów|Kraków-Płaszów concentration camp]] were set to work in a stone quarry.<ref>{{cite web|url=http://www.sztetl.org.pl/pl/article/zakopane/13,miejsca-martyrologii/21317,zakopane-oboz-pracy-przymusowej-na-terenie-kamieniolomow/|title=Zakopane|work=sztetl.org.pl}}</ref>
+
+==Architecture==
+{{main|Zakopane Style of Architecture}}
+The [[Zakopane Style of Architecture]] is an architectural mode inspired by the regional art of Poland's highland region known as [[Podhale]].<ref>{{cite web|url=http://www.zakopane-life.com/culture/culture_details/95-Zakopane_Style_Museum |title=Zakopane Style Museum Zakopane &#124; Poland |publisher=Zakopane Life |date= |accessdate=2011-06-03}}</ref> Drawing on the motifs and traditions in the [[Vernacular architecture of the Carpathians|buildings of the Carpathian Mountains]], the style was pioneered by [[Stanislaw Witkiewicz]] and is now considered a core tradition of the [[Goral people]].<ref>{{cite web|url=http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glownaen,0,0,1445,the_museum_of_the_zakopane_style,ant.html |title=The Tatra Museum - The Museum of the Zakopane Style |publisher=Muzeumtatrzanskie.com.pl |date= |accessdate=2011-06-03}}</ref>
+
+== Sports ==
+The Tatras are a popular destination among hikers, skiers, ski-tourers and climbers.
+
+===Mountaineering===
+[[File:Kościelec view 2.jpg|thumb|The [[High Tatras]] offer excellent opportunities for climbing. [[Świnica]] is ({{convert|2,301|m|ft|0}} high, view from [[Kościelec (High Tatras)|Kościelec]].]]
+
+There is a network of well-marked hiking trails in the Tatras and according to the national park regulations the hikers must stick to them. Most of these trails are overcrowded, especially in the summer season.
+
+The [[High Tatras]] offer excellent opportunities for climbing (up to X [[UIAA grade]]).
+
+In summer, lightning and snow are both potential hazards for climbers, and the weather can change quickly. Thunderstorms are common in the afternoons. In winter the snow can be up to several meters deep.
+
+===Skiing===
+In the winter, thousands arrive in Zakopane to ski, especially around Christmas and in February. The most popular skiing areas are [[Kasprowy Wierch]] and [[Gubałówka]].<ref>{{cite web|url=http://seattletimes.nwsource.com/html/traveloutdoors/2002822417_poland26.html|title=Seattle Times - Scenic Zakopane|publisher=|accessdate=10 April 2019}}</ref> There are a number of [[cross country skiing]] trails in the forests surrounding the town.
+
+Zakopane hosted the [[FIS Nordic World Ski Championships|Nordic World Ski Championships]] in 1929, 1939, and 1962; the winter [[Universiade]]s in 1956, 1993, and 2001; the [[biathlon]] World Championship; several [[Ski jump#Ski jumping World Cup|ski jumping world cups]]; and several [[Nordic skiing|Nordic]] combined, Nordic and Alpine European Cups. It hosted the [[FIS Alpine World Ski Championships|Alpine World Ski Championships]] in 1939, the first outside the [[Alps]] and the last official world championships prior to [[World War II]].{{citation needed|date=September 2011}}
+
+Zakopane made unsuccessful bids to host the [[2006 Winter Olympics]] and the [[FIS Alpine World Ski Championships 2011|2011]] and [[FIS Alpine World Ski Championships 2013|2013]] Alpine World Ski Championships.
+
+== Tourism ==
+[[File:Zakopane kolej na Gubalowke 3.jpg|thumb|[[Gubałówka Hill funicular]]]]
+Zakopane is visited by over 2,500,000 tourists a year.{{citation needed|date=July 2016}} In the winter, Zakopane's tourists are interested in winter sports activities such as skiing, snowboarding, ski jumping, snowmobiling, sleigh rides, snowshoe walks, and Ice skating.<ref name=":1">{{Cite web|url=http://www.discoverzakopane.com/things-to-do-in-zakopane.html|title=Things to do in Zakopane and Tatra Mountains.|last=altius|website=www.discoverzakopane.com|access-date=2017-05-04}}</ref> During the summer, Tourists come to do activities like hiking, climbing, bike and horse ride the Tatras mountain, there are many trails in the Tatras.<ref name=":1" /> Tourists ride quads and dirt bikes that you can rent. Swimming and boat rides on the Dunajec river are popular.<ref name=":1" /> Many come to experience [[Gorals|Goral]] culture, which is rich in its unique styles of food, speech, architecture, music, and costume. Zakopane is especially popular during the winter holidays, which are celebrated in traditional style, with dances, decorated horse-pulled sleighs called [[kulig]]s and roast lamb.
+
+Popular tourist activity is taking a stroll through the town's most popular street: Krupówki. It is lined with stores, restaurants, carnival rides, and performers.
+
+During the winter and summer seasons, Krupówki Street is crowded with tourists visiting the shops and restaurants.<ref name=":1" /> In the summer, a local market along Krupówki Street offers traditional Goral apparel, leather jackets, fur coats, shoes, and purses.<ref name=":1" /> Venders also sell foods like the famous ''[[oscypek]]'' smoked sheep cheese, fruit, vegetables, and meats. There are also many stands with Zakopane souvenirs.<ref name=":1" />
+
+Zakopane is popular for nightlife. At night there are always people walking around town checking out the different bars and dance clubs. Most of these bars and dance clubs are located on the Krupowki street. These are the bars that are located in Zakopane: Paparazzi, Cafe Piano, Anemone, Anemone, Cafe Antrakt, Literatka, Winoteka Pod Berlami, and Karczma u Ratownikow. These are dance clubs located in Zakopane: Vavaboom, Finlandia Arctic, Genesis, Rockus, Morskie Oko, and Cocomo Go Go Club.[http://www.local-life.com/zakopane/pubs]
+
+A scene in [[Andrzej Wajda]]'s film ''[[Man of Marble]]'' (''Człowiek z marmuru'') was filmed in Zakopane, introducing the town to a worldwide audience.
+
+The mountain scenes from the [[Bollywood]] film ''[[Fanaa (2006 film)|Fanaa]]'' were filmed around Zakopane.
+
+==International relations==
+[[File:02638Zakopane.JPG|thumb|Krupówki Street]]
+[[File:Zakopane, kościół pw. Najświętszej Rodziny 1.jpg|thumb|[[Romanesque Revival]] Church of the Holy Family]]
+[[File:St. Clement's Church in Zakopane.jpg|thumb|St. Clement's Church]]
+{{See also|List of twin towns and sister cities in Poland}}
+
+===Twin towns===
+Zakopane participates in [[town twinning]] to foster international links.
+*{{flagicon|BUL}} [[Bansko]], [[Bulgaria]]
+*{{flagicon|ARG}} [[Bariloche|San Carlos de Bariloche]] ([[Argentina]]){{Citation needed|date=March 2008}}
+*{{flagicon|NED}} [[Bavel (Netherlands)|Bavel]] ([[Netherlands]])
+*{{flagicon|TUR}} [[Polonezköy]], [[Turkey]]
+*{{flagicon|SVK}} [[Poprad]], [[Slovakia]]
+*{{flagicon|FRA}} [[Saint-Dié-des-Vosges]] ([[France]])
+*{{flagicon|POL}} [[Sopot]], [[Poland]]
+*{{flagicon|UKR}} [[Stryi]], [[Ukraine]]
+*{{flagicon|SVK}} [[Vysoké Tatry]], [[Slovakia]]
+*{{flagicon|GER}} [[Siegen]], [[Germany]]
+
+== Notable structures ==
+*[[:pl:COS Zakopane (tor łyżwiarski)|COS Zakopane]] [[speed skating rink|speed-skating rink]]
+*[[Gubałówka Hill Funicular]]
+*[[Kasprowy Wierch]] [[Aerial tramway|cable car]]
+*[[Wielka Krokiew]] [[ski jumping]] ramp
+
+== Notable residents ==
+{{See also|Category:People from Zakopane}}
+* [[Tytus Chałubiński]] (1820 – 1889 in Zakopane), Polish physician and co-founder of the [[PTTK|Polish Tatra Society]]
+* [[Klemens Bachleda]] (1851-1910), Polish mountain guide and mountain rescuer, worked from Zakopane
+* [[Stanisław Witkiewicz]], (1851 – 1915) Polish painter, architect, writer and [[Aesthetics|art theoretician]]
+* [[Jan Kasprowicz]], (1860 – 1926) poet, playwright, critic and translator; a foremost representative of [[Young Poland]]
+* [[Mariusz Zaruski]], (1867–1941) Polish Brigadier-General, a pioneer of Polish sports yachting, a climber of the [[Tatra Mountains]], a photographer, painter, poet and writer, a seaman and traveller, a conspirator and a devoted social activist, sportsman and teacher
+* [[Jerzy Żuławski]], (1874 – 1915) Polish literary figure, philosopher, translator, alpinist and nationalist
+* [[Władysław Orkan]], (1875 – 1930) Polish writer from the [[Young Poland]] period
+* [[Mieczysław Karłowicz]], (1876 – 1909) Polish composer, conductor, mountaineer and photographer of the [[Tatra Mountains]]
+* [[Karol Szymanowski]], (1882 – 1937) Polish composer and pianist, member of the modernist movement [[Young Poland]]; his house in Zakopane, the [[Villa Atma]], is now a museum 
+* [[Kornel Makuszyński]], (1884 – 1953) Polish writer of children's and youth literature, elected member of the [[Polish Academy of Literature]] in interwar Poland
+* [[Stanisław Ignacy Witkiewicz]] (1885 – 1939), ''Witkacy'', Polish writer, painter, philosopher, playwright, novelist, and photographer.
+* [[Olga Drahonowska-Małkowska]], (1888 – 1979 in Zakopane), with her husband, founded scouting in Poland
+* Count [[Edward Bernard Raczyński]] (1891 – 1993) Polish diplomat, writer, politician and President of Poland in exile
+* [[Anna Zofia Krygowska]] (1904–1988) Polish mathematician, known for her work in mathematics education
+* [[Stanisław Marusarz]] (1913 in Zakopane – 1993 in Zakopane) Polish Nordic skiing competitor in the 1930s
+* [[Wawrzyniec Żuławski]] (1916 in Zakopane – 1957) ''Wawa'' Polish alpinist, educator, composer, music critic, and musicologist
+* [[Władysław Hasior]], (1928 – 1999) Polish contemporary sculptor from Podhale region, a painter and theatre set designer
+* [[Teresa Bogucka]] (born 1945 in Zakopane), Polish journalist and writer, a democratic opposition activist in [[Communist Poland]]
+* [[Jan Bachleda|Jan Wojciech Bachleda-Curuś]] (1951 in Zakopane – 2009) Polish alpine skier who competed in the [[1976 Winter Olympics]]
+* [[Wojciech Fortuna]] (born 1952 in Zakopane), ski jumper, Olympic gold medallist
+* [[Andrzej Gąsienica-Makowski]] (born 1952 in Zakopane) Polish politician who led the [[Nonpartisan Bloc for Support of Reforms]]
+* [[Janusz Waluś]] (born 1953 in Zakopane) in 1993 assassinated [[Chris Hani]], General Secretary of the [[South African Communist Party]] 
+* [[Liz Glazowski]], (born 1957 in Zakopane) Polish-American model, Playboy magazine's [[Playmate of the Month]] in April 1980
+*[[Sergiusz Pinkwart]], (born 1973) Polish journalist, writer, classical musician and traveler, Magellan Award winner
+* [[Megitza|Małgorzata Babiarz]], (born 1984 in Zakopane) professionally known as ''Megitza'' is a singer, double bass player and composer
+* [[Kamil Stoch]], (born 1987 in Zakopane) Polish [[Ski jumping|ski jumper]], world champion and three-time [[Olympic gold medalist]]
+
+== Notable visitors ==
+* [[Henryk Sienkiewicz]] (1846–1916)<ref>[[:pl:Monika Piątkowska|Monika Piątkowska]], ''Prus: Śledztwo biograficzne'' (Prus: A Biographical Investigation), [[Kraków]], [[Wydawnictwo Znak]], 2017, {{ISBN|978-83-240-4543-3}}, p. 327.</ref> 
+* [[Bolesław Prus]] (1847 – 1912)<ref>Krystyna Tokarzówna and Stanisław Fita, ''[[Bolesław Prus]], 1847–1912: Kalendarz życia i twórczości'' ([[Bolesław Prus]], 1847–1912: A Calendar of His Life and Work), edited by [[Zygmunt Szweykowski]], Warsaw, Państwowy Instytut Wydawniczy, 1969, pp. 232, 235, ''et passim''.</ref>
+* [[Joseph Conrad#Romance and marriage|Joseph Conrad]] (1857 – 1924)<ref name="auto">[[Zdzisław Najder]], ''Joseph Conrad: A Life'', translated by Halina Najder, Rochester, New York, Camden House, 2007, {{ISBN|1-57113-347-X}}, pp. 458–63.</ref>
+* [[Stefan Żeromski]] (1864 – 1925)<ref name="Joseph Conrad 2007, pp. 463">[[Zdzisław Najder]], ''Joseph Conrad: A Life'', translated by Halina Najder, Rochester, New York, Camden House, 2007, {{ISBN|1-57113-347-X}}, pp. 463–64.</ref>
+* [[Bronisława Dłuska]], (1865 – 1939) Polish physician, older sister of physicist [[Marie Curie]]<ref name="Joseph Conrad 2007, pp. 463"/>
+* [[Marie Curie]] (1867 – 1934)<ref>{{cite web|url=http://zakopane.naszemiasto.pl/artykul/zakopane-maria-sklodowska-cure-kochala-podhale,810274,art,t,id,tm.html|title=Zakopane: Maria Skłodowska Cure kochała Podhale|first=Tomasz|last=Mateusiak|date=9 March 2011|website=zakopane.naszemiasto.pl|accessdate=10 April 2019}}</ref>
+* [[Józef Piłsudski]] (1867 – 1935)<ref name="auto"/>
+*[[Alfred Döblin]] (1878 – 1957)<ref>{{Cite book|url=https://archive.org/details/journeytopoland00dobl/page/211|title=Journey to Poland|last=1878-1957.|first=Döblin, Alfred|date=1991|publisher=Paragon House Publishers|others=Neugroschel, Joachim., Graber, Heinz., Mazal Holocaust Collection.|isbn=1557782679|edition=1st American|location=New York|pages=[https://archive.org/details/journeytopoland00dobl/page/211 211–227]|oclc=21950967|url-access=registration}}</ref>
+* [[Aniela Zagórska]] (1881 – 1943) niece of [[Joseph Conrad]]<ref>[[Zdzisław Najder]], ''Joseph Conrad: A Life'', translated by Halina Najder, Rochester, New York, Camden House, 2007, {{ISBN|1-57113-347-X}}, p. 463.</ref>
+* [[Rudolf Weigl]] (1883 – 1957)<ref>[[Waclaw Szybalski]], "The genius of Rudolf Stefan Weigl (1883 – 1957), a Lvovian microbe hunter and breeder": ''in memoriam'', [[McArdle Laboratory for Cancer Research]], [[University of Wisconsin, Madison]], WI 53705, USA.</ref>
+* [[Edward Rydz-Śmigły]] (1886 – 1941), [[Marshal of Poland]], who [[Edward Rydz-Śmigły#Works|painted some Zakopane sights]]
+* [[Artur Rubinstein]] (1887 – 1982)<ref name="auto"/>
+* [[Krystyna Skarbek]] (1908 – 1952)<ref>[[Madeleine Masson]], ''Christine: A Search for [[Christine Granville]], G.M., O.B.E., Croix de Guerre, with a Foreword by [[Francis Cammaerts]], D.S.O., Légion d'Honneur, Croix de Guerre, U.S. Medal of Freedom'', London, Hamish Hamilton, 1975, p. 24.</ref>
+* [[Prince Charles]] (born 1948)<ref>[http://parsonsmedia.photoshelter.com/image/I0000Jv07SSA5Dgk Photo of HRH The Prince of Wales] Thursday 13 June 2002, walking "around the lake Morskie Oko during a walk at Tatras National Park on the final stage of his tour of Poland"</ref>
+
+== Gallery ==
+<gallery>
+File:Willa drewn. „Staszeczkówka”, Zakopane, A-1128 M 02.jpg|Villa Staszeczkówka Hotel
+File:Willa „Oksza”, Zakopane, A-68 M 02.jpg|Villa Oksza [[art gallery]]
+File:Zakopane-Koliba-2006-Ejdzej.jpg|Koliba villa
+File:Koliba002.JPG|Interior of Koliba
+File:Kaplica w Jaszczurówce.jpg|Jaszczurówka Chapel
+File:Willa Pod Jedlami.JPG|Pod Jedlami villa
+File:Villa_atma.JPG|[[Karol Szymanowski]] Museum at the Villa Atma
+File:Zakopane - skiing (28).JPG|Zakopane - view from [[Gubałówka Hill]] ([[Tatra mountains]] in the background)
+File:Wielka Krokiew 2012.jpg|[[Wielka Krokiew]] ski jumping hill
+File:Zakopane - skiing (35).JPG|Zakopane - Gubałówka Hill [[ski run]]
+File:Zakopane - skiing (14).JPG|Zakopane - Gubałówka Hill: a nursery [[ski run]]
+File:Zakopane - skiing (1).JPG|Zakopane - Gubałówka Hill [[funicular]] entrance
+File:Zakopane1.JPG|Church of the Holy Family
+File:Zakopane at night.jpg|Zakopane at night
+File:Katyn Memorial at Zakopane.JPG|[[Katyń massacre|Katyń]] Memorial in Peksów Brzyzek Cemetery
+File:The contemplative Christ of Zakopane.JPG|Traditional wooden shrine
+File:Villa_Konstantyn%C3%B3wka_in_Zakopane,_place_of_stay_of_Joseph_Conrad_in_1914.PNG|Villa Konstantynówka, lodging of [[Joseph Conrad]] in 1914
+File:Zakopane Jan 2014 017.JPG|Traditional [[oscypek]] cheese
+File:Zakopane Poland 1938.jpg|Zakopane, mountain massif [[Giewont]] (1938)
+</gallery>
+
+== See also ==
+{{Portal bar|Poland}}
+
+==Notes==
+{{Reflist}}
+
+==Bibliography==
+*Stanisław Kasztelowicz and Stanisław Eile, ''Stefan Żeromski: kalendarz życia i twórczości'' ([[Stefan Żeromski]]: A Calendar of His Life and Work), Kraków, Wydawnictwo Literackie, 1961.
+*[[Zdzisław Najder]], ''Joseph Conrad: A Life'', translated by Halina Najder, Rochester, New York, Camden House, 2007, {{ISBN|1-57113-347-X}}.
+*Krystyna Tokarzówna and Stanisław Fita, ''Bolesław Prus, 1847–1912: Kalendarz życia i twórczości'' ([[Bolesław Prus]], 1847–1912: A Calendar of His Life and Work), edited by [[Zygmunt Szweykowski]], Warsaw, Państwowy Instytut Wydawniczy, 1969.
+
+== External links ==
+{{Wikivoyage|Zakopane}}
+{{commons category}}
+* [http://www.zakopane.eu/ Official website]
+* [http://www.ezakopane.pl/poland/ Zakopane]
+* [http://www.sztetl.org.pl/en/city/zakopane/ Jewish Community in Zakopane] on Virtual Shtetl
+* [http://www.promocja.zakopane.pl/?strona,podserwis,pol,turystyka,0,0,mainpage,english,ant.html General information]
+* [http://www.polandexplorer.com/zakopane-travel-and-tourist-guide/ An English guide to Zakopane]
+* [https://www.zakopane.eu/artykuly/miasta-partnerskie/miasta-partnerskie Twin towns]
+
+{{Tatra County}}
+
+{{Authority control}}
+
+[[Category:Zakopane| ]]
+[[Category:Cities and towns in Lesser Poland Voivodeship]]
+[[Category:Tatra County]]
+[[Category:Kraków Voivodeship (14th century – 1795)]]
+[[Category:Kingdom of Galicia and Lodomeria]]
+[[Category:Kraków Voivodeship (1919–1939)]]
+[[Category:Ski areas and resorts in Poland]]
+[[Category:Spa towns in Poland]]
+[[Category:Resorts in Poland]]
+[[Category:Holocaust locations in Poland]]

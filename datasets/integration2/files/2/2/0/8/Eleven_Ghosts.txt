@@ -1,0 +1,63 @@
+{{Infobox album|
+| name       = Eleven Ghosts
+| type       = Album
+| artist     = [[Myra Melford]] and [[Han Bennink]]
+| cover      = Eleven Ghosts.jpg
+| alt        =
+| released   = 1997
+| recorded   = February 11-12, 1994
+| venue      = [[Schweizer Radio DRS|Radio DRS]], Zürich, Switzerland
+| studio     = 
+| genre      = [[Jazz]]
+| length     = 48:42
+| label      = [[Hathut Records|HatOLOGY]]<br><small>507</small>
+| producer   = Pia Uehlinger, Werner X. Uehlinger
+| chronology = [[Myra Melford]]
+| prev_title = [[The Same River, Twice]]
+| prev_year  = 1996
+| next_title = [[Above Blue]]
+| next_year  = 1999
+| misc       = {{Extra chronology
+ | artist     = [[Han Bennink]]
+ | type       = Album
+ | prev_title = [[Home Safely]]
+ | prev_year  = 1994
+ | title      = Eleven Ghosts
+ | year       = 1997
+ | next_title = [[Azurety]]
+ | next_year  = 1994
+}}}}
+'''''Eleven Ghosts''''' is an album of duets by pianist [[Myra Melford]] and drummer/percussionist [[Han Bennink]] which was recorded in Switzerland in 1994 and released on the [[Hathut Records|HatOLOGY]] label in 1997.<ref name="Myra Melford discography">[http://www.myramelford.com/projects/album/index Myra Melford: Projects] accessed May 23, 2018</ref><ref>[http://www.efi.group.shef.ac.uk/labels/hat/hatol507.html European Free Improvisation: Han Bennink album entry] accessed May 23, 2018</ref><ref>[http://www.jazzlists.com/SJ_Label_HatHut_O_500.htm HatHut hatOLOGY discography] accessed July 18, 2018</ref>
+==Reception==
+{{Album ratings
+| rev1 = [[AllMusic]]
+| rev1Score = {{rating|4|5}}<ref name="Allmusic" />
+}}
+The [[Allmusic]] review by Joslyn Layne stated "Supreme musicians Myra Melford and Han Bennink join together for a duo recording as blues progressions, boogie-woogie, and Harlem stride become the trampoline from which they jump. It's free, free, but far less cryptic -- and more accessible -- than one might expect. ... ''Eleven Ghosts'' won't scare the audience off. Even people who stiffen at the words "outside jazz" will relax their shoulders while listening to this album".<ref name="Allmusic">{{Allmusic|first=Joslyn |last=Layne |class=album |id=mw0000338909 |title= Myra Melford / Han Bennink: ''Eleven Ghosts'' – Review |accessdate=May 23, 2018}}</ref> 
+
+In [[JazzTimes]], Bill Shoemaker wrote "On ''Eleven Ghosts'', pianist Myra Melford and percussionist Han Bennink bring complementary assets to a free-ranging duo program. Melford’s affinity for the blues and her compositional skills give the album a subtle structural underpinning. Bennink continually pushes the music to the brink with his patented combination of cyclonic energy and loony humor".<ref>Shoemaker, B. [https://jazztimes.com/reviews/albums/myra-melfordhan-bennink-eleven-ghosts/ JazzTimes Review] accessed May 23, 2018</ref>
+
+==Track listing==
+All compositions by Myra Melford except where noted
+# "The First Mess" (Han Bennink, Myra Melford) – 2:33
+# "[[How Long, How Long Blues|How Long Blues]]" ([[Leroy Carr]]) – 5:31
+# "Frank Goes To" – 7:23
+# "Another Mess" (Han Bennink) – 4:48
+# "Which Way Is That?" – 9:24
+# "Three Ghosts" (Bennink, Melford) – 5:11
+# "Some Relief" (composer unknown) – 1:12
+# "And Now Some Blues" – 4:43
+# "Now" – 2:05
+# "And Now" – 2:51
+# "[[Maple Leaf Rag|The Maple Leaf Rag]]" ([[Scott Joplin]]) – 3:01
+== Personnel ==
+*[[Myra Melford]] – piano
+*[[Han Bennink]] – drums
+
+==References==
+{{reflist}}
+
+[[Category:Hathut Records albums]]
+[[Category:Myra Melford albums]]
+[[Category:Han Bennink albums]]
+[[Category:1997 albums]]

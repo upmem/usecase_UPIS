@@ -1,0 +1,176 @@
+{{short description|Maltese ferry company}}
+{{Infobox company
+| name             = Gozo Channel Company Limited
+| logo             = Gozo Channel Company Limited.png
+| logo_caption     = Logo
+| type             =
+| genre            =
+| fate             =
+| predecessor      = E. Zammit & Sons Ltd
+| successor        =
+| foundation       = 1979
+| founder          =
+| defunct          =
+| location_city    =
+| location_country =
+| location         = [[Mġarr, Gozo|Mġarr]], [[Gozo]]
+| locations        =
+| area_served      = [[Gozo Channel]]
+| key_people       =
+| industry         =
+| products         =
+| services         = Passenger transportation
+| revenue          =
+| operating_income =
+| net_income       =
+| aum              =
+| assets           =
+| equity           =
+| owner            =
+| num_employees    =
+| parent           =
+| divisions        =
+| subsid           = 
+| website          = [http://www.gozochannel.com/ www.gozochannel.com]
+| footnotes        =
+| intl             =
+}}
+[[File:Gozo Mgarr Harbour.jpg|thumb|300px|MV ''Ta' Pinu'' at Mġarr]]
+
+The '''Gozo Channel Company Limited''', commonly known as '''Gozo Channel Line''' or the '''Gozo ferry''' ({{lang-mt|Vapur t'Għawdex}}), is a [[Malta|Maltese]] company founded in 1979 that operates [[ferry]] services between the islands of [[Malta (island)|Malta]] and [[Gozo]] using [[Roll-on/roll-off]] (RORO) ferries. Crossings happen throughout the day all-year round including weekends, public holidays, and night services.
+
+The company's ferry services are the main connection between the two islands and it is used by millions of Gozitans, Maltese and tourists every year. It currently operates three identical ferries, all of which were built between March 2000 and March 2002. In addition to the normal services of foot passengers and car passengers, Gozo Channel also offers services for cargo vehicles and hazardous cargo.
+
+==Predecessors==
+A ferry service connecting the islands of Malta and Gozo has existed for centuries, with records indicating that ''dgħajjes tal-latini'' were used as ferries as early as 1241 from the harbour of [[Mġarr, Gozo|Mġarr]]. ''Dgħajjes tal-latini'', also known as [[Gozo boat]]s, remained in use until after the Second World War. A few survive to this day, such as the [http://www.captainmorgan.com.mt/maryanne ''Maryanne''] operated by [[Captain Morgan Cruises]], although this does not have any masts.
+
+Despite this, the first regular passenger service between the islands was only inaugurated on 13 June 1885, when O.F. Gollcher & Sons Ltd provided an official mail service using the vessel ''Gleneagles''. By the end of the 19th century G.P. Sammut & Co and Francesco Pace were also offering ferry services. These three companies had stopped operating services by 1923, when the Malta Steamship Co Ltd took over with two vessels. In the late 1920s and 1930s Bernard Zammit and the Joseph Gasan, Giovanni Dacoutros & Grech Family started their own ferry services. More companies were formed after the war, including Joseph Gasan (1947-57), the Magro Family (1948-70), the Magro & Zammit Families (1958-68) and the Malta Aliscafi Ltd (1964-68). At some points there was only one company operating services in the Gozo Channel while at other times there were more at the same time.
+
+E. Zammit & Sons Ltd was formed in 1966, and by 1970 it was the only company offering ferry services across the Gozo Channel. It operated four vessels until Gozo Channel Company Limited was formed in 1979.
+
+The following ships were used as ferries from Malta to Gozo between 1885 and 1978:<ref name="vassallo">{{cite web|title=Gozo Ferry since 1885|url=http://vassallohistory.wordpress.com/gozo-ferry-since-1885/|website=Vassallo History|accessdate=14 August 2014}}</ref>
+
+{| class="wikitable sortable"
+|-
+! style="text-align:left;"|Name
+! style="text-align:left;"|From
+! style="text-align:left;"|To
+! style="text-align:left; width:15%;"|Company
+! style="text-align:left;"|Note
+|-
+| ''Gleneagles'' || 1885 || 1914 || O.F. Gollcher Ltd || Launched 1884 in [[Aberdeen]] for Hall Russell & Co and sold to Gollcher in 1885.<br>Requisitioned by the [[Royal Navy]] in 1914, returned in 1918 but sold in 1919 and used in the eastern Mediterranean. Sunk 1920 and refloated 1922. Renamed ''Missir'' (1922-23), ''Alexandretta'' (1923-24), ''Pandy'' (1924-25) and ''Abdel Kader'' (1925-33). Wrecked at [[Alexandria]], 1933.
+|-
+| ''Princess Melita'' || 1893 || 1923 || G.P. Sammut & Co || 
+|-
+| ''Piemonte'' || 1897 || 1901 || Francesco Pace || 
+|-
+| ''Wembley'' || 1923 || 1935 || Malta Steamship Co Ltd || 
+|-
+| ''Lady Strickland'' || 1929 || 1951 || Bernard Zammit || 
+|-
+| ''Golly'' || 1932 || 1937 || Malta Steamship Co Ltd || Built in Japan in 1912 as the ''Fukuhaku Maru no.5'' (1912-21). Later known as patrol boat ''G27'' (1921) and ''Andrea Bafile'' (1921-32). Sold to Malta Steamship Co. Ltd in 1932 and renamed ''Golly''.<br>Sold in 1937 and renamed ''Daisy''. Foundered on the way to Alexandria in 1939.
+|-
+| ''King of England'' || 1933 || 1951 || Bernard Zammit || Built in 1902 for the [[Royal Navy]]. Sold to Zammit in 1933 and requisitioned by the Navy in 1942 but returned after two months. Later sold to Galzamhil & Co. (1944-51) and Mario Farrugia (1951). Broken up in Italy in 1951.
+|-
+| ''Franco'' || 1936 || 1948 || Joseph Gasan, Giovanni Dacoutros & Grech Family || 
+|-
+| ''Royal Lady'' || 1937 || 1942 || Joseph Gasan, Giovanni Dacoutros & Grech Family || Sunk at [[Marfa, Malta|Marfa]] on 6 May 1942 by [[Luftwaffe]] bombers.
+|-
+| ''Anna'' || 1942 || 1942 || Joseph Gasan, Giovanni Dacoutros & Grech Family || 
+|-
+| ''Hanini'' || 1948 || 1956 || Magro Family || 
+|-
+| [[RV Calypso|''Calypso'']] || 1950 || 1950 ||  Joseph Gasan || Built in 1942 for the [[Royal Navy]] as HMS ''J-826'' (later renamed BYMS-2026). Decommissioned 1946 and sold to Gasan in 1949. Became a ferry for a couple of months before it was sold to Irish millionaire Thomas Guinness who loaned it to [[Jacques Cousteau]] as a research ship. It was abandoned after 1997 and is to undergo refurbishment.
+|-
+| ''Bancinu'' || 1950 || 1957 ||  Joseph Gasan || Built as the yacht ''Migrant'' in 1927. Renamed ''Victrix'' (1931-36), ''Audacieux'' (1936-38) and ''Migrante'' (1938-39). Requisitioned by the Royal Navy as armed yacht ''FY 019'' (1939-46) and sold to Gasan in 1947. It was renovated and entered service in 1950 as the ''Bancinu''. Sold in Greece in 1957 and renamed ''Athinai'' (1958-61), ''Sirius'' (1961-64) and ''Vorioi Sporades''. Exact fate unknown, possibly sunk off [[Metaponto]] with radioactive material on board, or scapped in [[Perama]] in 1970. Deleted from the registers in 1988.
+|-
+| ''Maid of Pinto'' || 1950 || 1957 ||  Joseph Gasan || 
+|-
+| ''Pinu'' || 1950 || 1957 ||  Joseph Gasan || 
+|-
+| ''Queen of Peace'' || 1956 || 1970 || Magro Family || Built as a Royal Navy minesweeper. Laid up at [[Marsa, Malta|Marsa]] in 1970. Sunk in the [[Gulf of Sirte]] in 1977 with the loss of 3 Maltese crew.
+|-
+| ''Imperial Eagle'' || 1958 || 1968 || Magro & Zammit Families || Built as the replacement of the ''Royal Lady'' (which also served as a Gozo ferry) in 1938. Known as ''New Royal Lady'' (1938-47), ''Royal Lady'' (1948) and ''Crested Eagle'' (1948-58). Used as a ferry from 1958 onwards as ''Imperial Eagle''. Later used as a cargo ship and for some time it lay half sunk at the [[Grand Harbour]]. Purchased by the diving community in 1995 and scuttled as an artificial reef off [[Qawra]] in 1999. It is now a popular dive site.
+|-
+| ''Delfin'' || 1964 || 1968 || Malta Aliscafi Ltd || 
+|-
+| ''Minor Eagle''<br>''Cominoland'' || 1966 || 1978{{efn|Remained in use as a ferry until 1980 by Gozo Channel Co Ltd.}} || E. Zammit & Sons Ltd || Built as the Royal Navy ship ''Miner VI'' in 1942. Renamed ''Minor Eagle'' in 1966 and ''Cominoland'' in 1976. Operated by Gozo Channel Company Limited in 1979-1980.
+|-
+| ''Jylland'' || 1967 || 1978{{efn|Remained in use as a ferry until 1984 by Gozo Channel Co Ltd.}} || E. Zammit & Sons Ltd || Built as the Royal Navy ship ''PCE 828'' in 1943 and renamed ''Kilbride'' later that year. Renamed ''Jylland'' in 1948 and sold to Zammit in 1976. Operated by Gozo Channel Company Limited in 1979-1984.
+|-
+| ''Calypsoland'' || 1969 || 1978{{efn|Remained in use as a ferry until 1984 by Gozo Channel Co Ltd.}} || E. Zammit & Sons Ltd || Built as the ''Prins Hendrik'' in 1932. Purchased in 1968 and renamed ''Calypsoland''. Operated by Gozo Channel Company Limited in 1979-1984.
+|-
+| ''Melitaland'' || 1974 || 1978{{efn|Remained in use as a ferry until 1996 by Gozo Channel Co Ltd.}} || E. Zammit & Sons Ltd || Built as the ''Dordrecht'' in 1933. Purchased in 1974 and renamed ''Melitaland''. Operated by Gozo Channel Company Limited in 1979-1994.
+|-
+|}
+
+==Gozo Channel Co Ltd==
+[[File:Mgarr Harbour.jpg|thumb|[[Mġarr, Gozo|Mġarr]] Harbour]]
+[[File:Malta - Mellieha - Cirkewwa Harbour + Comino (Triq tad-Dahar) 03 ies.jpg|thumb|[[Ċirkewwa]] Harbour]]
+Gozo Channel Company Limited was formed to operate ferry services in 1979. The four ships of E. Zammit & Sons Ltd were taken over by the new company, and two more vessels were purchased later in the year. The MV ''Għawdex'' began operating services to Sicily from 1981 onwards, but these stopped in 1995.
+
+Hovermarines or catamarans were used for express services between Malta and Gozo from 1988 to 2002. By 1990 the company was carrying 1.93 million passengers and 370,000 cars annually. By the mid-1990s a modernization program started and three brand new ships were built from 2000 to 2002. Mġarr ferry terminal was later completely rebuilt from 2001 to 2008. The terminal at Ċirkewwa was also rebuilt in the next few years and was completed in 2013.<ref name="vassallo"/><ref>{{cite web|title=About us|url=http://www.gozochannel.com/about_us.htm|website=Gozo Channel Company Limited|accessdate=14 August 2014|archive-url=https://web.archive.org/web/20110918030252/http://www.gozochannel.com/about_us.htm|archive-date=18 September 2011|url-status=dead}}</ref>
+
+{| class="wikitable sortable"
+|-
+! style="text-align:left;"|Name
+! style="text-align:left;"|Namesake
+! style="text-align:left;"|Built
+! style="text-align:left;"|In commission
+! style="text-align:left;"|Note
+|-
+| MV ''Cominoland'' || [[Comino]] || 1942 || 1979-1980{{efn|Had been used as a ferry since 1966 under E. Zammit & Sons Ltd under the name ''Minor Eagle'' (1966-76) and ''Cominoland'' (1976-78).}} || Formerly a ferry of E. Zammit & Sons Ltd. Sold and renamed ''Jylland II'' (1980-2006) and again ''Cominoland'' (2006). Scuttled as an artificial reef off Xatt l-Ahmar in 2006.
+|-
+| MV ''Jylland'' ||  || 1943 || 1979-1984{{efn|Had been used as a ferry since 1967 under E. Zammit & Sons Ltd.}} || Formerly a ferry of E. Zammit & Sons Ltd. Sold in 1984 and renamed ''Kybris'' (1984), ''Akdeniz'' (1984-86) and ''Princess Lydia'' (1986-88). Scrapped in Turkey in 1988.
+|-
+| MV ''Calypsoland'' || [[Calypso (mythology)|Calypso]] || 1932 || 1979-1984{{efn|Had been used as a ferry since 1969 under E. Zammit & Sons Ltd.}} || Formerly a ferry of E. Zammit & Sons Ltd. Used occasionally to carry building material to Comino. Scrapped in Malta in 1985.
+|-
+| MV ''Melitaland''<br>MV ''Bezz 20'' || [[Malta (island)|Malta]] || 1933 || 1979-1996{{efn|Had been used as a ferry since 1974 under E. Zammit & Sons Ltd.}} || Formerly a ferry of E. Zammit & Sons Ltd. Sister ship to the ''Cittadella''. Renamed ''Bezz 20'' in 1994, sold for scrap in 1996.
+|-
+| MV ''Għawdex'' || [[Gozo]] || 1962 || 1979-2000 || Built in [[Bremen]] in 1962. Formerly known as the ''Kalle'' (1962-71) and the ''Rotna'' (1971-78). Sold in 2000 and renamed ''Virgem de Fatima'' but remained laid up in Valletta until she was broken up in Turkey in 2002.
+|-
+| MV ''Mgarr'' || [[Mġarr, Gozo|Mġarr Harbour]] || 1967 || 1979-1995 || Built in [[Denmark]] in 1967. Formerly known as the ''Saltholm'' (1967-79). Sold for scrap in 1995.
+|-
+| MV ''Cittadella''<br>MV ''Citta'' || [[The Citadella, Gozo]] || 1949 || 1987-1997 || Built in the [[Netherlands]] in 1949. Formerly known as the ''Prins Bernhard'' (1949-87). Sister ship to the ''Melitaland''. Renamed ''Citta'' in 1995, sold for scrap in 1997 in Turkey.
+|-
+| SES ''Calypso'' || [[Calypso (mythology)|Calypso]] ||  || 1988-1996 || 
+|-
+| MV ''Xlendi'' || [[Xlendi|Xlendi Bay]] || 1955 || 1990-1997 || Built in [[Denmark]] in 1955. Formerly known as the ''Helsingor'' (1955-87), ''Royal Sheeba'' (1987-88) and ''Borgshorn'' (1988-90). It was regarded as an 'unfortunate' ship since it was shaped like a coffin, and in fact it was damaged several times when it ran aground (1992), hitting the quay (1995) and by fire (1999). It was scuttled as an artificial reef in 1999, but the wreck sank upside down so it is only suitable for experienced divers.
+|-
+| MV ''Calypso'' || [[Calypso (mythology)|Calypso]] || 1970 || 1993-2004 || Built in [[Denmark]] in 1970. Formerly known as the ''Karnan'' (1970-93). Sold in 2004 and scrapped in 2012.
+|-
+| MV ''Mgarr'' || [[Mġarr, Gozo|Mġarr Harbour]] || 1963 || 1995-2002 || Built in the [[Netherlands]] in 1963. Formerly known as the ''Marsdiep'' (1963-92). Sister ship to the ''Cittadella II''. Sold in 2002 for scrap in Turkey.
+|-
+| MV ''Cittadella II'' || [[The Citadella, Gozo]] || 1966 || 1995-2002 || Built in the [[Netherlands]] in 1966. Formerly known as the ''Texelstroom'' (1963-92). Sister ship to the ''Mgarr''. Sold in 2002 for scrap in Turkey.
+|-
+| SES ''Victoria Express'' ||  || 1984 || 1996-2002 || Built in [[Norway]] in 1984. Formerly known as the ''Norcat'' (1984-86), ''Fjordkongen'' (1986-92) and ''Ulstein Surfer'' (1992-96). Sold in 2002 and renamed ''The Gambian Princess''.
+|-
+| MV ''Ta' Pinu'' || [[Ta' Pinu|Ta' Pinu Sanctuary]] || 2000 || 2000-present || Built by Malta Shipbuilding in 2000. Identical to the ''Gaudos'' and ''Malita''
+|-
+| MV ''Gaudos'' || [[Gozo]] || 2001 || 2001-present || Built by Malta Shipbuilding in 2001. Identical to the ''Ta' Pinu'' and ''Malita''
+|-
+| MV ''Malita'' || [[Malta (island)|Malta]] || 2002 || 2002-present || Built by Malta Shipbuilding in 2002. Identical to the ''Ta' Pinu'' and ''Gaudos''
+|-
+| MV ''Nikolaos'' ||  || 1987 || 2019-present || Built in 1987.<ref>{{cite news |last1=Camilleri |first1=Ivan |title=Minister ‘inspects’ latest addition to Gozo Channel fleet |url=https://timesofmalta.com/articles/view/minister-inspects-latest-addition-to-gozo-channel-fleet.710262 |accessdate=19 August 2019 |work=[[Times of Malta]] |date=18 May 2019}}</ref><ref>{{cite news |title=Fourth Gozo ferry 'is here to stay' - minister |url=https://timesofmalta.com/articles/view/fourth-gozo-ferry-is-here-to-stay-minister.729673 |accessdate=19 August 2019 |work=[[Times of Malta]] |date=19 August 2019}}</ref>
+|-
+|}
+
+==Gallery==
+<gallery>
+File:Ta' Pinu ship 2009.JPG|MV ''Ta' Pinu''
+File:Malta - Mellieha - Triq il-Marfa - Cirkewwa Harbour - Gaudos 01 ies.jpg|MV ''Gaudos''
+File:Gozo Channel Malita.jpg|MV ''Malita''
+File:Ro-ro passenger Ship Nikolaos - IMO 8611506 - Ionion Lines - Gaios, Paxos - Greece - 18 May 2012.jpg|MV ''Nikolaos''
+</gallery>
+
+==References==
+{{Commonscat|Gozo Channel Line}}
+{{reflist}}
+
+'''Notes'''
+{{notelist}}
+
+[[Category:Gozo]]
+[[Category:Ferry companies of Malta]]
+[[Category:Transport companies established in 1979]]
+[[Category:1979 establishments in Malta]]

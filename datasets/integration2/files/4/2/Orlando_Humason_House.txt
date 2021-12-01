@@ -1,0 +1,40 @@
+{{Infobox NRHP
+| name         = Orlando Humason House
+| nrhp_type    = 
+| image        = Humason House - The Dalles Oregon.jpg
+| caption      = The Humason House in 2008
+| alt          = Photograph of a house
+| coordinates  = {{coord|45.597573|-121.186960|region:US-OR_type:landmark|format=dms|display=inline,title}}
+| locmapin     = USA Oregon The Dalles
+| map_caption  = Location in The Dalles, Oregon
+| map_alt      = Locator map
+| location     = 908 Court Street<br/>[[The Dalles, Oregon]]
+| area         = {{convert|0.11|acre}}<ref name="HumasonNom"/>
+| built        = 1860
+| architecture = [[Gothic Revival architecture|Gothic Revival]]
+| added        = June 21, 1991
+| refnum       = 91000809
+| nocat        = yes
+}}
+The '''Orlando Humason House''' is a historic [[house]] located in [[The Dalles, Oregon|The Dalles]], [[Oregon]], [[United States]]. Humason (1828–1875), the "Father of Wasco County", lived in this modest [[Gothic Revival architecture|Gothic Revival]] house from its construction in 1860 until his death. Originally from [[Ohio]], he worked in [[Practice of law|law]], [[prospecting]], [[agriculture]], and [[journalism]], prior to settling in The Dalles as a prosperous [[merchant]] and [[River transportation|river transport]] businessman. Representing first [[Oregon City]] then The Dalles in the [[Oregon Territorial Legislature|territorial]] and [[Oregon Legislative Assembly|state]] legislatures, he introduced [[Bill (law)|legislation]] establishing Wasco County, [[Multnomah County]], and the City of The Dalles. He also championed a bill to build [[Cascade Locks and Canal|a canal]] around the [[Cascades Rapids]] to allow [[Columbia River|Lower Columbia]] shipping to reach The Dalles, which did not come to fruition in his lifetime. Humason's other public positions included [[mayor]] of The Dalles and Wasco County [[judge]]. The house is [[Architecture|architecturally]] notable as one of very few Gothic Revival houses in The Dalles.<ref name="HumasonNom">{{Citation | last1 = Mlnarik-Holt | first1 = Jan | last2 = Meader | first2 = Dan | date = November 15, 1990 | title = National Register of Historic Places Registration Form: Humason, Orlando, House | url = {{NRHP url|91000809}} | accessdate = February 4, 2013 | format = PDF}}.</ref>
+
+At some date between 1875 and 1908, it was moved to its present location from elsewhere in The Dalles.<ref name="HumasonNom"/> It was entered on the [[National Register of Historic Places]] in 1991.<ref name="WkList">{{citation | author = National Park Service | authorlink = National Park Service | title = Weekly List of Listed Properties: 6/17/91 through 6/21/91 | date = June 28, 1991 | url = http://www.nps.gov/nr/listings/Weekly_Register_List_1991.pdf | format = PDF | accessdate = March 15, 2016 | at = p. 65 }}.</ref>
+
+==See also==
+*[[National Register of Historic Places listings in Wasco County, Oregon]]
+
+==References==
+{{Reflist}}
+ 
+==External links==
+*{{NRHP url|91000809|title=National Register of Historic Places photographic file|photos=y}}
+
+{{National Register of Historic Places Oregon}}
+
+{{DEFAULTSORT:Humason, Orlando, House}}
+[[Category:Houses completed in 1860]]
+[[Category:National Register of Historic Places in Wasco County, Oregon]]
+[[Category:Houses on the National Register of Historic Places in Oregon]]
+[[Category:Houses in The Dalles, Oregon]]
+[[Category:Gothic Revival architecture in Oregon]]
+[[Category:1860 establishments in Oregon]]

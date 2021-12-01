@@ -1,0 +1,27 @@
+{{Volleyball national squad
+| name      = Iran squad 2015 FIVB Men's World Cup
+| bg        = Green
+| fg        = White
+| country   = Iran
+| team link = Iran men's national volleyball team
+| comp      = 2015 World Cup – 8th place
+| comp link = 2015 FIVB Volleyball Men's World Cup
+| p1        = [[Shahram Mahmoudi|Mahmoudi]]
+| p2        = [[Milad Ebadipour|Ebadipour]]
+| p3        = [[Saman Faezi|Faezi]]
+| p4        = [[Saeid Marouf|Marouf]]
+| p5        = [[Farhad Ghaemi|Ghaemi]]
+| p6        = [[Mohammad Mousavi (volleyball)|Mousavi]]
+| p9        = [[Adel Gholami|Gholami]]
+| p10       = [[Amir Ghafour|Ghafour]]
+| p12       = [[Mojtaba Mirzajanpour|Mirzajanpour]]
+| p13       = [[Mehdi Mahdavi|Mahdavi]]
+| p16       = [[Abdolreza Alizadeh|Alizadeh]]
+| p19       = [[Mehdi Marandi|Marandi]]
+| p22       = [[Mohammad Hassan Senobar|Senobar]]
+| p24       = [[Mohammad Javad Manavinejad|Manavinejad]]
+| coach     = [[Slobodan Kovač|Kovač]]
+}}<noinclude>
+[[Category:FIVB Volleyball World Cup squad navigational boxes]]
+[[Category:Iran national volleyball team navigational boxes]]
+</noinclude>

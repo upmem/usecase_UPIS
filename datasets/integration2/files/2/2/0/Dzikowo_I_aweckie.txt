@@ -1,0 +1,48 @@
+{{Infobox settlement
+| name = Dzikowo Iławeckie
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =Schloss Wildenhoff Sammlung Duncker.jpg
+| image_caption =Wildenhoff Palace (destroyed in 1945)
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Bartoszyce County|Bartoszyce]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Górowo Iławeckie]]
+| coordinates = {{coord|54|19|49|N|20|24|24|E|region:PL|display=inline,title}}
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| elevation_m =
+| population_total = 290
+| website = }}
+'''Dzikowo Iławeckie''' {{IPAc-pl|dź|i|'|k|o|w|o|-|i|ł|a|'|w|e|c|k|J|e}} ({{lang-de |Wildenhoff}}) is a [[village]] in the administrative district of [[Gmina Górowo Iławeckie]], within [[Bartoszyce County]], [[Warmian-Masurian Voivodeship]], in northern Poland, close to the border with the [[Kaliningrad Oblast]] of [[Russia]].<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|9|km|mi|0}} north-west of [[Górowo Iławeckie]], {{convert|28|km|mi|0|abbr=on}} west of [[Bartoszyce]], and {{convert|61|km|mi|0|abbr=on}} north of the regional capital [[Olsztyn]].
+
+== History ==
+
+In 1491 the [[Teutonic Order]] awarded the [[Old Prussians|Old Prussian]] settlement of ''Ampunden'', sized 12 "Hufen",a square measure of the Teutonic Knights, to the nobleman Paul Pregel and after the abolition of the [[Monastic state of the Teutonic Knights]] Ampunden was awarded to the former Teutonic Knight Friedrich Truchseß von Waldburg by Duke [[Albert of Prussia]] in 1535. The name Ampunden was soon changed to Wildenhoff, which became the parent house of the Waldburg family. After the death of Gebhard Truchseß von Waldburg his wife married Otto von Schwerin in 1656, constituting the von Schwerin-Wildenhoff family, owner of the manor of Wildenhoff and [[advowson]] of the Church of [[Gorowo Ilaweckie|Landsberg]] until 1945. In 1705 a large [[baroque]] palace was built by Friedrich Wilhelm Graf von Schwerin, which was completely destroyed in 1945.<ref>Horst Schulz, Der Kreis Preußisch Eylau, Verden 1983 (German)</ref>  
+
+In autumn 1944 several works of art from museums of [[Königsberg]] were evacuated to Wildenhoff,<ref>Esther Grafin Schwerin, "Kormorane, Brombeerranken" (German) {{ISBN|3-548-22107-6}}</ref> rumours also claimed the famous [[Amber Room]] might have been part of these pieces. In fact the head of the Königsberg museums administration, Dr. Alfred Rohde, visited Wildenhoff in October 1944 and organized several transports, excavations made in 1960 delivered some remains of different pieces of art, but no indications of the Amber Room theory.<ref>[http://www.amberroom.org/locations-castles-wildenhoff.htm amberroom.org]</ref>
+
+After [[World War II]] the town again became part of Poland, under territorial changes demanded by the [[Soviet Union]] at the [[Potsdam Conference]].
+
+== Population ==
+*1933: 367
+*1939: 334<ref>[http://www.verwaltungsgeschichte.de/preylau.html verwaltungsgeschichte.de]</ref>
+*2008: 290
+
+==References==
+{{reflist}}
+
+== External links ==
+*[http://www.zlb.de/digitalesammlungen/SammlungDuncker/04/184%20Wildenhoff.pdf Wildenhoff Palace] {{in lang|de}} 
+<br>
+{{Gmina Górowo Iławeckie}}
+
+{{DEFAULTSORT:Dzikowo Ilaweckie}}
+[[Category:Villages in Bartoszyce County]]

@@ -1,0 +1,11 @@
+<div id="mp-tfa-img" style="float: left; margin: 0.5em 0.9em 0.4em 0em;">
+{{main page image|image=Royal Air Force Radar, 1939-1945 CH15214.jpg | width = 100|caption=[[Bristol Beaufighter|Beaufighter]], a common platform for [[AI&nbsp;Mk.&nbsp;IV radar]]}}
+</div>
+'''[[AI Mk. IV radar|Airborne Interception radar, Mark IV]]''', was the first successful [[Airborne Interception radar|air-to-air radar system]], used in Britain's [[Bristol Beaufighter]] [[heavy fighter]]s by early 1941 in the [[Second World War]]. Early development of the Mk. IV was prompted by a 1936 memo from the inventor [[Henry Tizard]] to [[Robert Watson-Watt|Robert Watt]], director of the radar research efforts, who agreed to allow physicist [[Taffy Bowen]] to form a team to study the problem of air interception. The team had a test bed system in flights later that year, but progress was delayed for four years by emergency relocations, three abandoned production designs, and Bowen's increasingly adversarial relationship with Watt's replacement, [[Albert Percival Rowe]]. The Mk. IV had many limitations, including displays that were difficult to interpret, a maximum range that decreased with the aircraft's [[altitude]], and a minimum range that was barely close enough to allow the pilot to see the target. Nevertheless, the Mk. IV played a role in the [[Royal Air Force]]'s increasingly effective response to [[The Blitz]], the ''[[Luftwaffe]]''{{'s}} night bombing campaign. The [[AI Mk. VIII radar|Mk. VIII]] largely relegated the Mk. IV to second-line duties by 1943. {{TFAFULL|AI Mk. IV radar}}
+
+{{TFArecentlist|
+* [[Cley Marshes]]
+* [[Eusèbe Jaojoby]]
+* [[Operation Camargue]] 
+}}
+{{TFAfooter|Month=July|Year=2015}}

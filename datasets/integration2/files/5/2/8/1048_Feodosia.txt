@@ -1,0 +1,280 @@
+{{Infobox planet
+ | minorplanet     = yes
+ | name            = 1048 Feodosia
+ | background      = #D6D6D6
+ | image           = 
+ | caption         = 
+ | discovery_ref   = &thinsp;<ref name="jpldata" />
+ | discovered      = 29 November 1924
+ | discoverer      = [[Karl Reinmuth|K. Reinmuth]]
+ | discovery_site  = [[Heidelberg-Königstuhl State Observatory|Heidelberg Obs.]]
+ | mpc_name         = (1048) Feodosia
+ | alt_names       = 1924 TP{{·}}1942 XP<br />1942 XZ{{·}}1959 SK
+ | named_after     = [[Feodosiya]] {{small|(Crimean city)}}<ref name="springer" />
+ | mp_category     = [[main-belt]]{{·}}{{small|([[Kirkwood gap|middle]])}}&thinsp;<ref name="lcdb" />
+ | orbit_ref       = &thinsp;<ref name="jpldata" />
+ | epoch           = 16 February 2017 ([[Julian day|JD]] 2457800.5)
+ | uncertainty     = 0
+ | observation_arc = 91.51 yr (33,425 days)
+ | aphelion        = 3.2268 [[Astronomical unit|AU]]
+ | perihelion      = 2.2377 AU
+ | semimajor       = 2.7323 AU
+ | eccentricity    = 0.1810
+ | period          = 4.52 [[Julian year (astronomy)|yr]] (1,650 days)
+ | mean_anomaly    = 352.46[[Degree (angle)|°]]
+ | mean_motion     = {{Deg2DMS|0.2182|sup=ms}} / day
+ | inclination     = 15.809°
+ | asc_node        = 52.766°
+ | arg_peri        = 183.31°
+ | dimensions      = {{val|54.98|22.14}} km<ref name="Nugent-2015" /><br />{{val|58.31|12.99}} km<ref name="Nugent-2016" /><br />{{val|62.218|1.596}} km<ref name="Masiero-2012" /><br />{{val|70.16|1.8}} km {{small|([[IRAS]]:9)}}<ref name="SIMPS" /><br />{{val|85.14|1.17}} km<ref name="AKARI" />
+ | rotation        = {{val|10.46}} [[Hour|h]]<ref name="Schober-1994" /><br />{{val|23|1}} h<ref name="geneva-obs" /><br />{{val|35.20|0.23}} h<ref name="Aznar-2016c" />
+ | albedo          = {{val|0.031|0.001}}<ref name="AKARI" /><br />{{val|0.0452|0.002}} {{small|(IRAS:9)}}<ref name="SIMPS" /><br />{{val|0.05|0.04}}<ref name="Nugent-2015" /><br />{{val|0.057|0.008}}<ref name="Masiero-2012" /><br />{{val|0.06|0.04}}<ref name="Nugent-2016" />
+ | spectral_type   = [[Asteroid color indices|B–V]] = 0.709<ref name="jpldata" /><br />[[Asteroid color indices|U–B]] = 0.309<ref name="jpldata" /><br />XC {{small|([[Tholen classification|Tholen]])}}&thinsp;<ref name="jpldata" />{{·}}Ch {{small|([[SMASS classification|SMASS]])}}&thinsp;<ref name="jpldata" />{{·}}[[C-type asteroid|C]]&thinsp;<ref name="lcdb" />
+ | abs_magnitude   = 9.66<ref name="Nugent-2016" />{{·}}9.75<ref name="jpldata" /><ref name="lcdb" /><ref name="Nugent-2015" /><ref name="Masiero-2012" /><ref name="SIMPS" /><ref name="AKARI" />
+}}
+
+'''1048 Feodosia''', provisional designation {{mp|1924 TP}}, is a carbonaceous [[asteroid]] from the middle region of the [[asteroid belt]], approximately 70 kilometers in diameter.
+
+It was discovered on 29 November 1924, by German astronomer [[Karl Reinmuth]] at [[Heidelberg Observatory]] in southwest Germany, and named for the Crimean city of [[Feodosiya]].<ref name="springer" /><ref name="MPC-Feodosia" />
+
+== Classification and orbit ==
+
+''Feodosia'' orbits the Sun in the [[Kirkwood gap|middle]] main-belt at a distance of 2.2–3.2&nbsp;[[Astronomical unit|AU]] once every 4 years and 6 months (1,650 days). Its orbit has an [[orbital eccentricity|eccentricity]] of 0.18 and an [[orbital inclination|inclination]] of 16[[Degree (angle)|°]] with respect to the [[ecliptic]].<ref name="jpldata" /> The body's [[observation arc]] begins at [[Johannesburg Observatory|Johannesburg]], 3 years after its official discovery observation at Heidelberg.<ref name="MPC-Feodosia" /> On 22 November 2005, it [[Occultation#Occultations by asteroids|occulted]] the star {{mp|TYC 1236-138}} as seen from Earth.<ref name=weblore1048/>
+
+== Physical characteristics ==
+
+The dark [[C-type asteroid]] is classified as a XC and Ch intermediary type in the [[Tholen classification|Tholen]] and [[SMASS classification|SMASS]] taxonomy, respectively.<ref name="jpldata" />
+
+=== Photometry ===
+
+In March 1985, a rotational [[lightcurve]] of ''Feodosia'' was obtained by European astronomer at ESO's [[La Silla Observatory]] in Chile, using the [[Bochum 0.61-metre Telescope]] during three nights. It gave a [[rotation period]] of 10.46 hours with a brightness variation of 0.14 [[Magnitude (astronomy)|magnitude]] ({{small|[[LCDB quality code|U=2]]}}).<ref name="Schober-1994" />
+
+The asteroid was also observed by French amateur astronomer [[Pierre Antonini]] in January 2007, and by the Spanish ''Observadores de Asteroides'' (OBAS) group in February 2016. However, the obtained lightcurves were only fragmentary and gave a divergent period of 23 and 35.2 hours with and amplitude of 0.04 and 0.13 magnitude, respectively ({{small|[[LCDB quality code|U=1+/1]]}}).<ref name="geneva-obs" /><ref name="Aznar-2016c" />
+
+=== Diameter and albedo ===
+
+According to the surveys carried out by the Infrared Astronomical Satellite [[IRAS]], the Japanese [[Akari (satellite)|Akari]] satellite, and NASA's [[Wide-field Infrared Survey Explorer]] with its subsequent [[NEOWISE]] mission, the asteroid measures between 54.98 and 85.14 kilometers in diameter, and its surface has an [[astronomical albedo|albedo]] between 0.031 and 0.06.<ref name="Nugent-2015" /><ref name="Nugent-2016" /><ref name="Masiero-2012" /><ref name="SIMPS" /><ref name="AKARI" /> The ''Collaborative Asteroid Lightcurve Link'' adopts the results obtained by IRAS, that is, an albedo of 0.0452 and a diameter of 70.16 kilometers based on an [[absolute magnitude]] of 9.75.<ref name="lcdb" />
+
+== Naming ==
+
+This [[minor planet]] was named for the city [[Feodosiya]] on the Crimean peninsula. The named was proposed by I. Putilin, who computed the body's [[orbital elements]].<ref name="springer" />
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name=weblore1048>{{cite web
+  |title      = 1048 Feodosia (1924 TP)
+  |work       = Richard's  Astronomy Pages
+  |url        = http://www.weblore.com/richard/Asteroid_Profiles.htm#1048%20Feodosia
+  |url-status=dead
+  |archiveurl = https://web.archive.org/web/20080302170210/http://www.weblore.com/richard/Asteroid_Profiles.htm#1048%20Feodosia
+  |archivedate= 2 March 2008}}</ref>
+
+<ref name="jpldata">{{cite web
+  |type       = 2016-06-04 last obs.
+  |title      = JPL Small-Body Database Browser: 1048 Feodosia (1924 TP)
+  |url        = https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2001048
+  |publisher  = [[Jet Propulsion Laboratory]]
+  |accessdate = 2 February 2017}}</ref>
+
+<ref name="springer">{{cite book
+  |title      = Dictionary of Minor Planet Names – (1048) Feodosia
+  |last       = Schmadel | first = Lutz D.
+  |publisher  = [[Springer Berlin Heidelberg]]
+  |pages      = 89–90
+  |date       = 2007
+  |isbn       = 978-3-540-00238-3
+  |doi       = 10.1007/978-3-540-29925-7_1049 |chapter       = (1048) Feodosia }}</ref>
+
+<ref name="MPC-Feodosia">{{cite web
+  |title      = 1048 Feodosia (1924 TP)
+  |work       = Minor Planet Center
+  |url        = https://www.minorplanetcenter.net/db_search/show_object?object_id=1048
+  |accessdate = 2 February 2017}}</ref>
+
+<ref name="geneva-obs">{{cite web
+  |title      = Asteroids and comets rotation curves – (1048) Feodosia
+  |last       = Behrend |first = Raoul
+  |publisher  = [[Geneva Observatory]]
+  |url        = http://obswww.unige.ch/~behrend/page3cou.html#001048
+  |accessdate = 2 February 2017}}</ref>
+
+<ref name="lcdb">{{cite web
+  |title      = LCDB Data for (1048) Feodosia
+  |publisher  = Asteroid Lightcurve Database (LCDB)
+  |url        = http://www.minorplanet.info/PHP/generateOneAsteroidInfo.php?AstInfo=1048%7CFeodosia
+  |accessdate = 2 February 2017}}</ref>
+
+<ref name="SIMPS">{{cite journal
+  |first1     = E. F. |last1 = Tedesco
+  |first2     = P. V. |last2 = Noah
+  |first3     = M. |last3 = Noah
+  |first4     = S. D. |last4 = Price
+  |date       = October 2004
+  |title      = IRAS Minor Planet Survey V6.0
+  |url        = https://sbnarchive.psi.edu/pds3/iras/IRAS_A_FPA_3_RDR_IMPS_V6_0/data/diamalb.tab
+  |journal    = NASA Planetary Data System
+  |volume     = 12
+  |pages      = IRAS-A-FPA-3-RDR-IMPS-V6.0
+  |bibcode    = 2004PDSS...12.....T
+  |accessdate = 22 October 2019}}</ref>
+
+<ref name="AKARI">{{cite journal
+  |display-authors = 6
+  |first1     = Fumihiko |last1 = Usui
+  |first2     = Daisuke |last2 = Kuroda
+  |first3     = Thomas G. |last3 = Müller
+  |first4     = Sunao |last4 = Hasegawa
+  |first5     = Masateru |last5 = Ishiguro
+  |first6     = Takafumi |last6 = Ootsubo
+  |first7     = Daisuke |last7 = Ishihara
+  |first8     = Hirokazu |last8 = Kataza
+  |first9     = Satoshi |last9 = Takita
+  |first10    = Shinki |last10 = Oyabu
+  |first11    = Munetaka |last11 = Ueno
+  |first12    = Hideo |last12 = Matsuhara
+  |first13    = Takashi |last13 = Onaka
+  |date       = October 2011
+  |title      = Asteroid Catalog Using Akari: AKARI/IRC Mid-Infrared Asteroid Survey
+  |url        = http://pasj.oxfordjournals.org/content/63/5/1117.full.pdf+html
+  |journal    = Publications of the Astronomical Society of Japan
+  |volume     = 63
+  |issue      = 5
+  |pages      = 1117–1138
+  |bibcode    = 2011PASJ...63.1117U
+  |doi        = 10.1093/pasj/63.5.1117
+  |access-date= 17 October 2019|doi-access= free
+  }} ([http://vizier.cfa.harvard.edu/viz-bin/VizieR-5?-source=J/PASJ/63/1117/acua_v1&Num=1048 online], [https://core.ac.uk/download/pdf/43545172.pdf AcuA catalog p. 153])</ref>
+
+<ref name="Masiero-2012">{{cite journal
+  |display-authors = 6
+  |first1     = Joseph R. |last1 = Masiero
+  |first2     = A. K. |last2 = Mainzer
+  |first3     = T. |last3 = Grav
+  |first4     = J. M. |last4 = Bauer
+  |first5     = R. M. |last5 = Cutri
+  |first6     = C. |last6 = Nugent
+  |first7     = M. S. |last7 = Cabrera
+  |date       = November 2012
+  |title      = Preliminary Analysis of WISE/NEOWISE 3-Band Cryogenic and Post-cryogenic Observations of Main Belt Asteroids
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2012ApJ...759L...8M
+  |journal    = The Astrophysical Journal Letters
+  |volume     = 759
+  |issue      = 1
+  |page       = 5
+  |bibcode    = 2012ApJ...759L...8M
+  |doi        = 10.1088/2041-8205/759/1/L8
+  |arxiv      = 1209.5794
+  |access-date= 2 February 2017}}</ref>
+
+<ref name="Nugent-2015">{{cite journal
+  |display-authors = 6
+  |first1     = C. R. |last1 = Nugent
+  |first2     = A. |last2 = Mainzer
+  |first3     = J. |last3 = Masiero
+  |first4     = J. |last4 = Bauer
+  |first5     = R. M. |last5 = Cutri
+  |first6     = T. |last6 = Grav
+  |first7     = E. |last7 = Kramer
+  |first8     = S. |last8 = Sonnett
+  |first9     = R. |last9 = Stevenson
+  |first10    = E. L. |last10 = Wright
+  |date       = December 2015
+  |title      = NEOWISE Reactivation Mission Year One: Preliminary Asteroid Diameters and Albedos
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2015ApJ...814..117N
+  |journal    = The Astrophysical Journal
+  |volume     = 814
+  |issue      = 2
+  |page       = 13
+  |bibcode    = 2015ApJ...814..117N
+  |doi        = 10.1088/0004-637X/814/2/117
+  |arxiv      = 1509.02522
+  |access-date= 2 February 2017}}</ref>
+
+<ref name="Nugent-2016">{{cite journal
+  |display-authors = 6
+  |first1     = C. R. |last1 = Nugent
+  |first2     = A. |last2 = Mainzer
+  |first3     = J. |last3 = Bauer
+  |first4     = R. M. |last4 = Cutri
+  |first5     = E. A. |last5 = Kramer
+  |first6     = T. |last6 = Grav
+  |first7     = J. |last7 = Masiero
+  |first8     = S. |last8 = Sonnett
+  |first9     = E. L. |last9 = Wright
+  |date       = September 2016
+  |title      = NEOWISE Reactivation Mission Year Two: Asteroid Diameters and Albedos
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2016AJ....152...63N
+  |journal    = The Astronomical Journal
+  |volume     = 152
+  |issue      = 3
+  |page       = 12
+  |bibcode    = 2016AJ....152...63N
+  |doi        = 10.3847/0004-6256/152/3/63
+  |arxiv      = 1606.08923
+  |access-date= 2 February 2017}}</ref>
+
+<ref name="Schober-1994">{{cite journal
+  |display-authors = 6
+  |first1     = H. J. |last1 = Schober
+  |first2     = A. |last2 = Erikson
+  |first3     = G. |last3 = Hahn
+  |first4     = C.-I. |last4 = Lagerkvist
+  |first5     = R. |last5 = Albrecht
+  |first6     = W. |last6 = Ornig
+  |first7     = A. |last7 = Schroll
+  |first8     = M. |last8 = Stadler
+  |date       = June 1994
+  |title      = Physical studies of asteroids. XXVIII. Lightcurves and photoelectric photometry of asteroids 2, 14, 51, 105, 181, 238, 258, 369, 377, 416, 487, 626, 679, 1048 and 2183
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=1994A&AS..105..281S
+  |journal    = Astronomy and Astrophysics Supplement Series
+  |volume     = 105
+  |pages     = 281 |bibcode    = 1994A&AS..105..281S
+  |access-date= 2 February 2017}}</ref>
+
+<ref name="Aznar-2016c">{{Cite journal
+  |display-authors = 6
+  |first1     = Amadeo |last1 = Aznar Macias
+  |first2     = Alfonso |last2 = Carreno Garcerain
+  |first3     = Enrique |last3 = Arce Masego
+  |first4     = Pedro |last4 = Brines Rodriguez
+  |first5     = Juan |last5 = Lozano de Haro
+  |first6     = Alvaro |last6 = Fornas Silva
+  |first7     = Gonzalo |last7 = Fornas Silva
+  |first8     = Vicente |last8 = Mas Martinez
+  |first9     = Onofre |last9 = Rodrigo Chiner
+  |first10    = David |last10 = Herrero Porta
+  |date       = July 2016
+  |title      = Twenty-one Asteroid Lightcurves at Group Observadores de Asteroides (OBAS): Late 2015 to Early 2016
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2016MPBu...43..257A
+  |journal    = The Minor Planet Bulletin
+  |volume     = 43
+  |issue      = 3
+  |pages      = 257–263
+  |issn       = 1052-8091
+  |bibcode    = 2016MPBu...43..257A
+  |access-date= 2 February 2017}}</ref>
+
+}} <!-- end of reflist -->
+
+== External links ==
+* [https://web.archive.org/web/20081202072318/http://occsec.wellington.net.nz/planet/2008/updates/080807_1048_19223_u.htm Year 2008, 1048 Feodosia Occulation event] {{small|(archived)}}
+* [http://www.minorplanet.info/PHP/lcdbsummaryquery.php Asteroid Lightcurve Database (LCDB)], query form ([http://www.minorplanet.info/lightcurvedatabase.html info])
+* [https://books.google.com/books?id=aeAg1X7afOoC&pg Dictionary of Minor Planet Names], Google books
+* [http://obswww.unige.ch/~behrend/page_cou.html Asteroids and comets rotation curves, CdR] – Observatoire de Genève, Raoul Behrend
+* [https://www.minorplanetcenter.net/iau/lists/NumberedMPs000001.html Discovery Circumstances: Numbered Minor Planets (1)-(5000)] – Minor Planet Center
+* {{AstDys|1048}}
+* {{JPL small body}}
+
+{{Use dmy dates|date=July 2018}}
+{{Minor planets navigator |1047 Geisha |number=1048 |1049 Gotho}}
+{{Small Solar System bodies}}
+
+{{DEFAULTSORT:Feodosia}}
+[[Category:Background asteroids|001048]]
+[[Category:Discoveries by Karl Wilhelm Reinmuth]]
+[[Category:Minor planets named for places]]
+[[Category:Named minor planets]]
+[[Category:XC-type asteroids (Tholen)|001048]]
+[[Category:Ch-type asteroids (SMASS)|001048]]
+[[Category:Astronomical objects discovered in 1924|19241129]]

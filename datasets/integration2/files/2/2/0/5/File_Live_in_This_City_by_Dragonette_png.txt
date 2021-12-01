@@ -1,0 +1,27 @@
+== Summary ==
+{{album cover fur
+<!-- REQUIRED -->
+|Article=Live in This City
+|Use=Infobox
+<!-- HIGHLY RECOMMENDED -->
+|Source=
+<!-- ADDITIONAL INFORMATION -->
+|Name= "Live in This City"
+|Artist= [[Dragonette]]
+|Label= 
+|Graphic Artist= 
+|Item= 
+|Type= single
+|Website= 
+|Owner= 
+|Commentary= 
+<!-- OVERRIDE FIELDS -->
+|Description= 
+|Portion= 
+|Low_resolution= 
+|Purpose=
+|Replaceability= 
+|other_information= 
+}}
+== Licensing ==
+{{Non-free album cover|image has rationale=yes|auto=yes}}

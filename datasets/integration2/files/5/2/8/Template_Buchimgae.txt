@@ -1,0 +1,31 @@
+{{Navbox
+|name       = Buchimgae
+|title      = [[Buchimgae]]
+|listclass  = hlist
+|state      = {{{state|autocollapse}}}
+|image      = 
+|above      = 
+
+|group1     = Buchimgae
+|list1      = 
+* [[Buchimgae]]
+** [[Kimchibuchimgae]]
+** [[Memilbuchimgae]]
+** [[Pajeon]]
+
+|group2     = Jeon
+|list2      = 
+* [[Jeon (food)|Jeon]]
+** [[Gamjajeon]]
+** [[Hwajeon]]
+** [[Meat jun]]
+** [[Pajeon]]
+
+|group3     = Bindaetteok
+|list3      = 
+* [[Bindaetteok]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Food navigational boxes]]
+</noinclude>

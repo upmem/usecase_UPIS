@@ -1,0 +1,35 @@
+{{Infobox gymnast
+| name            = Christian Svendsen
+| image           = 
+| caption         = 
+| birth_date      = {{birth date|1890|7|13|df=y}}
+| birth_place     = 
+| death_date      = {{death date and age|1959|6|28|1890|7|13|df=y}}
+| death_place     = 
+| country         = {{DEN}}
+| medaltemplates  = 
+{{MedalSport|Men's [[Gymnastics at the Summer Olympics|Gymnastics]]}}
+{{MedalBronze|[[1912 Summer Olympics|1912 Stockholm]] | [[Gymnastics at the 1912 Summer Olympics – Men's team, free system|Team, free system]]}}
+}}
+
+'''Christian Valdemar Svendsen''' (13 July 1890 – 28 June 1959) was a [[Denmark|Danish]] [[gymnast]] who competed in the [[1912 Summer Olympics]].
+
+He was part of the Danish team, which won the bronze medal in the gymnastics men's team, free system event.
+
+==External links==
+*[https://web.archive.org/web/20070929133714/http://www.databaseolympics.com/players/playerpage.htm?ilkid=SVENDCHR01 profile]
+
+
+{{DEFAULTSORT:Svendsen, Christian}}
+[[Category:1890 births]]
+[[Category:1959 deaths]]
+[[Category:Danish male artistic gymnasts]]
+[[Category:Gymnasts at the 1912 Summer Olympics]]
+[[Category:Olympic gymnasts of Denmark]]
+[[Category:Olympic bronze medalists for Denmark]]
+[[Category:Olympic medalists in gymnastics]]
+
+
+{{Denmark-Olympic-medalist-stub}}
+{{Denmark-artistic-gymnastics-bio-stub}}
+[[Category:Medalists at the 1912 Summer Olympics]]

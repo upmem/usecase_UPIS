@@ -1,0 +1,49 @@
+{{Use dmy dates|date=August 2013}}
+{{Use Australian English|date=August 2013}}
+{{Infobox rugby league biography
+|name           = Mosese Fotuaika
+|fullname       = 
+|nickname       = 
+|image          = 
+|imagesize      = 
+|caption        = 
+|birth_date     = {{birth date|df=yes|1992|3|25}}
+|birth_place    = [[Gisborne, New Zealand|Gisborne]], New Zealand
+|death_date     = {{death date and age|df=yes|2013|2|28|1992|3|25}}
+|death_place = [[Merrylands, New South Wales|Merrylands]], [[New South Wales]], Australia
+|height         = {{convert|181|cm|ftin|abbr=on}}
+|weight         = {{convert|104|kg|stlb|abbr=on}}
+|position       = {{rlp|PR}}
+|retired        = 
+|updated        = 25 August 2013
+|source         = 
+}}
+
+'''Mosese Fotuaika''' (25 March 1992 – 28 February 2013) was a New Zealand professional [[rugby league]] footballer who was contracted to the [[Wests Tigers]] in the [[National Rugby League]].<ref>{{cite news|url=http://www.dailytelegraph.com.au/sport/nrl/wests-tigers-mourn-death-of-young-prop-mosese-fotuaika/story-e6frexnr-1226588692092|title=Wests Tigers mourn death of young prop Mosese Fotuaika|publisher=dailytelegraph.com.au|date=2 March 2013}}</ref> He primarily played {{rlp|pr}}. He was of [[Tongan people|Tongan]] and [[New Zealanders|New Zealand]] [[Māori people|Māori]] descent.
+
+==Playing career==
+Mosese Fotuaika played his junior football for [[Keebra Park State High School|Keebra Park]] before being signed by the [[Wests Tigers]]. He played for the Tigers' [[National Youth Competition (rugby league)|NYC]] team in 2012.
+
+In 2012, Fotuaika played in the Tigers' [[2012 NRL Under-20s season|2012 NYC]] Grand Final win over the [[Canberra Raiders]]. Mosese played a key role in Wests Tigers winning their inaugural NYC premiership in 2012 and was a full-time member of the Wests Tigers NRL squad for 2013.
+
+==Death==
+On 28 February 2013, Fotuaika was found dead by his girlfriend, Shanice Alaiasa at his home in [[Merrylands, New South Wales|Merrylands]] in [[Greater Western Sydney]]. Police had been called to the home and they confirmed that they had found a man dead and his death was not being treated as suspicious. Hours earlier he had been at the Wests Tigers club [[Concord, New South Wales|Concord]] gym and he injured himself while bench pressing with friends and it is believed that Fotuaika suffered a badly-torn pectoral muscle while exerting himself hours before taking his own life.<ref>{{cite news|url=http://www.dailytelegraph.com.au/sport/nrl/promising-young-wests-tigers-prop-mosese-fotuaika-dead/story-e6frexnr-1226588044039|title=Promising young Wests Tigers prop Mosese Fotuaika found dead, aged 20|publisher=dailytelegraph.com.au|date=1 March 2013}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://web.archive.org/web/20130919035653/http://www.weststigers.com.au/playerprofiledisplay/Wests%20Tigers/Mosese%20%20Fotuaika/6963 Mosese Fotuaika at weststigers.com.au]
+
+{{Wests Tigers squad - 2012 NYC premiers}}
+
+{{DEFAULTSORT:Fotuaika, Mosese}}
+[[Category:1992 births]]
+[[Category:2013 deaths]]
+[[Category:New Zealand Māori rugby league players]]
+[[Category:New Zealand people of Tongan descent]]
+[[Category:Rugby league players who committed suicide]]
+[[Category:Rugby league props]]
+[[Category:Suicides in New South Wales]]
+[[Category:People educated at Keebra Park State High School]]
+[[Category:Sportspeople from Gisborne, New Zealand]]

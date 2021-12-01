@@ -1,0 +1,81 @@
+{{short description|Mountain Range in British Columbia}}
+{{Infobox mountain|name=Murray Range|map= British Columbia#Canada|elevation_m=2094|coordinates={{coord|55|23|30|N|122|34|30|W|type:mountain_region:CA-AB_scale:100000|format=dms|display=inline,title}}|prominence_m=|range=[[Hart Ranges]]|location=British Columbia, Canada|photo=|highest=[[Grant Peak]]|type=|area_km2=288}}
+
+'''Murray Range''', is a subdivision range of the [[Hart Ranges]], of the [[Northern Rocky Mountains|Northern Rockies]] in [[British Columbia]], [[Canada]].  The majority of the range lies within the [[Pine Le Moray Provincial Park|Pine-Lemoray Provincial Park]] and is noted for its snowmobiling, hiking and ski touring opportunities.  The boundaries of the Murray Range  generally lie between the [[Misinchinka River]] to the west and Mountain Creek to the east; the [[Pine River (British Columbia)|Pine River]] to the north and [[Mount Reynolds (British Columbia)|Mount Reynolds]] to the south.<ref>{{Cite book|last=Holland|first=Stuart S|url=https://web.archive.org/web/20160304185301/http://www.empr.gov.bc.ca/Mining/Geoscience/PublicationsCatalogue/BulletinInformation/BulletinsAfter1940/Documents/Bull48-txt.pdf|title=Bulletin 48: Landforms of British Columbia--A Physiographic Outline|publisher=K.M MacDonald, Province of British Columbia|year=1976|isbn=|location=|pages=89}}</ref>
+
+Several mountains in the range are named after local area [[Canadian Armed Forces|Canadian soldiers]] killed in action during [[World War II]] and [[World War I]].<ref>{{Cite web|title=BC Geographical Names|url=http://apps.gov.bc.ca/pub/bcgnws/names/8334.html|website=apps.gov.bc.ca|access-date=2020-05-01}}</ref>
+
+== Prominent Peaks ==
+{| class="wikitable sortable"
+|+Official peaks in the Murray Range<ref>{{Cite web|title=Hart Ranges|url=https://peakvisor.com/range/hart-ranges.html|website=PeakVisor|language=en|access-date=2020-05-05}}</ref>
+![[Ranking]]
+![[Summit|Mountain Peak]]
+![[Coordinate system|Coordinates]]
+![[Elevation]]
+![[Topographic prominence|Prominence]]
+![[Topographic isolation|Isolation]]
+!Nearest Higher Neighbour
+|-
+|1
+|[[Grant Peak]]
+|55°16′58″N 122°25′7″W
+|2,094  m
+6,690&nbsp;ft
+|942  m
+3,094&nbsp;ft
+|13.8&nbsp;km  SE
+11.6&nbsp;mi SE
+|Alexis W3
+|-
+|2
+|[[Mount Hunter (British Columbia)|Mount Hunter]]
+|55°16′58″N 122°25′7″W
+|2,032  m
+6,667&nbsp;ft
+|674  m
+2,211&nbsp;ft
+|11.3 ESE
+7.0&nbsp;mi ESE
+|[[Grant Peak]]
+|-
+|3
+|[[Milburn Peak]]
+|55°15′29″N 122°21′2″W
+|2,019  m
+6,624&nbsp;ft
+|503  m
+1,650&nbsp;ft
+|5.1&nbsp;km WNW
+3.1&nbsp;mi WNW
+|[[Mount Hunter (British Columbia)|Mount Hunter]]
+|-
+|4
+|[[Mount Reynolds (British Columbia)|Mount Reynolds]]
+|55°16′58″N 122°25′7″W
+|2,004  m
+6,575, ft
+|583  m
+1,913&nbsp;ft
+|5.9&nbsp;km  ENE
+3.7 mil ENE
+|[[Grant Peak]]
+|-
+|5
+|[[Mount Murray (British Columbia)|Mount Murray]]
+|55°27′23″N 122°41′11″W
+|1,802  m
+5,512&nbsp;ft
+|359  m
+1,178&nbsp;ft
+|18.6&nbsp;km ESE
+11.5&nbsp;mi ESE
+|Unnamed Peak
+|}
+[[File:Murray Range.jpg|alt=|thumb|275x275px|Murray Range from Highway 97]]
+
+== References ==
+<references />
+
+[[Category:Geography of British Columbia]]
+[[Category:Northern Interior of British Columbia]]
+[[Category:Mountain ranges of British Columbia]]

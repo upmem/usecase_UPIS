@@ -1,0 +1,105 @@
+{{Infobox organization
+| name                = Ohio Alliance for Public Charter Schools
+| pronounce           = 
+| native_name         = 
+| native_name_lang    = 
+| named_after         = 
+| image               = 
+| image_size          = 
+| alt                 = 
+| caption             = 
+| logo                =
+| logo_size           = 
+| logo_alt            = 
+| logo_caption        = 
+| map                 = 
+| map_size            = 
+| map_alt             = 
+| map_caption         = 
+| map2                = 
+| map2_size           = 
+| map2_alt            = 
+| map2_caption        = 
+| abbreviation        = 
+| motto               = 
+| predecessor         = 
+| merged              = 
+| successor           = 
+| formation           = {{start date and age|2006}}
+| founder             = 
+| founding_location   = 
+| dissolved           = {{end date and age|2016|12|31}}
+| merger              = 
+| type                = 
+| tax_id              = <!-- or | vat_id = (for European organizations) -->
+| registration_id     = <!-- for non-profit org -->
+| status              = 
+| purpose             = 
+| headquarters        = [[Columbus, Ohio]]
+| location            = 
+| coords              = <!-- {{coord|LAT|LON|display=inline, title}} -->
+| region              = 
+| services            = 
+| products            = 
+| methods             = 
+| fields              = 
+| membership          = 200
+| membership_year     = 2016
+| language            = 
+| owner               = <!-- or | owners = -->
+| sec_gen             = 
+| leader_title        = 
+| leader_name         = 
+| leader_title2       = 
+| leader_name2        = 
+| leader_title3       = 
+| leader_name3        = 
+| leader_title4       = 
+| leader_name4        = 
+| board_of_directors  = 
+| key_people          = 
+| main_organ          = 
+| parent_organization = 
+| subsidiaries        = 
+| secessions          = 
+| affiliations        = 
+| budget              = 
+| budget_year         = 
+| revenue             = 
+| revenue_year        = 
+| disbursements       = 
+| expenses            = 
+| expenses_year       = 
+| endowment           = 
+| endowment_year      =
+| staff               = 
+| staff_year          = 
+| volunteers          = 
+| volunteers_year     = 
+| slogan              = 
+| mission             = 
+| website             = <!-- {{URL|example.com}} -->
+| remarks             = 
+| formerly            = 
+| footnotes           = 
+}}
+
+'''The Ohio Alliance for Public Charter Schools''' was a [[Non-profit organization|nonprofit]] [[Membership organization|membership association]] based in [[Columbus, Ohio]] that was formed in 2006. It was composed of more than 200 [[charter school]] and related organizational members.  It provides [[advocacy]] and [[technical support]] services for member schools.
+
+The organization was founded with initial grants from the Walton Family Foundation, the [[Bill and Melinda Gates Foundation]], the Fisher Fund and the [[National Alliance for Public Charter Schools]] Bill Sims was its founding president and CEO from 2006-2014. The current president and CEO is RaShaun Holliman.
+
+The Ohio Alliance for Public Charter Schools purported to focus on improving the quality of charter schools in [[Ohio]] through its technical support and [[performance management]] programs.  The Alliance organized a national conference in 2010, funded by the Bill and Melinda Gates Foundation, to exhibit [https://web.archive.org/web/20120322093135/http://www.oapcs.org/files/u115/NBCP_Publication_FINAL_SPREADS_LR__2.pdf promising cooperative programs] between traditional [[school district]]s and charter schools and it remains a repository for such collaborative practices throughout the [[United States]].
+
+The organization was disbanded at the end of 2016.<ref name="pb161220">{{cite web|last1=Phillis|first1=William|title=The Ohio Alliance For Public Charter Schools (OAPCS) Going Out Of Business|url=http://plunderbund.com/2016/12/20/the-ohio-alliance-for-public-charter-schools-oapcs-going-out-of-business/|publisher=Plunderbund|accessdate=26 January 2018|date=December 20, 2016}}</ref><ref name="cd161214">{{cite news|last1=Bush|first1=Bill|title=Ohio charter-school advocacy group disbanding|url=http://www.dispatch.com/content/stories/local/2016/12/14/ohio-charter-school-advocacy-group-disbanding.html|accessdate=26 January 2018|publisher=Columbus Dispatch|date=December 14, 2016}}</ref>
+
+==References==
+{{Reflist}}
+
+
+[[Category:Education in Ohio]]
+[[Category:Organizations established in 2006]]
+[[Category:2006 establishments in Ohio]]
+[[Category:Organizations disestablished in 2016]]
+[[Category:2016 disestablishments in Ohio]]
+[[Category:Defunct organizations based in Ohio]]
+[[Category:Organizations based in Columbus, Ohio]]

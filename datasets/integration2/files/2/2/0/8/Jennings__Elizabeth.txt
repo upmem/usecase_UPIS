@@ -1,0 +1,61 @@
+{{Use mdy dates|date=November 2019}}
+{{for|the character|Elizabeth Jennings (The Americans)}}
+{{Infobox television episode
+|title=Jennings, Elizabeth
+|series=[[The Americans]]
+|image=
+|caption=
+|season=6
+|episode=9
+|airdate={{Start date|2018|5|23}}
+|production=BDU609
+|length=52 minutes
+|writer=Joel Fields<br />[[Joe Weisberg]]
+|director=[[Chris Long (director)|Chris Long]]
+|music=[[Nathan Barr]]
+|guests={{Plainlist|
+* [[Kelly AuCoin]] as Pastor Tim
+* Vera Cherny as Tatiana
+* [[Peter Jacobson]] as Agent Wolfe
+* Konstantin Lavysh as Father Andrei
+* [[Alexander Kuznetsov (actor)|Alex Kuznetsov]] as Father Victor
+* Aaron Roman Weiner as Agent Brooks
+}}
+| season_article = The Americans (season 6)
+| episode_list = List of The Americans episodes
+|prev=[[The Summit (The Americans)|The Summit]]
+|next= [[START (The Americans)|START]]
+}}
+
+"'''Jennings, Elizabeth'''" is the ninth episode of the [[The Americans (season 6)|sixth season]] of the [[period piece|period]] [[drama]] [[television series]] ''[[The Americans]]''. It originally aired on [[FX (TV channel)|FX]] in the United States on May 23, 2018.
+
+==Plot==
+While Elizabeth continues to watch over Nesterenko to stop another attempt on his life, Philip leaves a dead drop for Oleg with Elizabeth's message about the anti-Gorbachev coup plans. Stan continues to investigate the Jenningses, searching their names and Dupont Circle Travel on an FBI database (with no matches for Elizabeth and an obvious false positive for Philip), dropping in on Philip at work (and noting Elizabeth's absence), calling Pastor Tim in Buenos Aires (who does not reveal the Jennings' secret despite the aggressive nature of his questioning), and telling a skeptical Dennis about his suspicions, including William Crandall's dying comments describing the Jennings family and how Gregory Thomas had a girlfriend with beautiful hair who smoked heavily. Dennis incredulously asks Stan if he really thinks Elizabeth was Gregory Thomas's girlfriend.  When Stan doesn't back down, Dennis flatly tells Stan that Philip and Elizabeth are not Soviet spies.
+
+During his FBI interview, Father Victor states that he believes Father Andrei is associated with the KGB. Oleg picks up the dead drop, which requires him to lose his FBI tail. However, upon being notified, Dennis orders an immediate [[Terry stop|''Terry'' stop]]. The FBI finds the dead drop and arrests Oleg for spying. Elizabeth remembers being instructed as a trainee not to leave a comrade to die in the streets of Moscow, despite her mission. While following Nesterenko, Elizabeth notices a suspicious woman approaching him and kills her with a silenced gunshot to the back at point-blank range; the woman turns out to be a disguised Tatiana, armed with the same type of cyanide gun, who was sent as the substitute assassin. Elizabeth escapes into the crowd. 
+
+In an FBI interview room, Oleg refuses to respond when Stan accuses him of being part of a wave of Soviet spying related to the summit.  Later, in a holding cell, Oleg tells Stan that he was in the USA to preserve the summit by protecting Gorbachev from a KGB coup and that Stan needs to send the encoded dead drop message to the USSR. When Stan balks, Oleg says, "You think it doesn’t matter who our leader is? This is why I’m here." After Stan says that Oleg is facing serious prison time, Oleg says he would gladly stay incarcerated if it meant a better life for his family back in Russia.   Elizabeth notifies Claudia that she foiled the murder, and also informed Nesterenko's people of the assassination plot, thus foiling any future attempts on his life; Claudia expresses her indignation and sadness at Elizabeth's final betrayal. Claudia taunts her by saying that all Elizabeth has left now is Philip and their American children. 
+
+After meeting Father Andrei at a park and talking about his home life, Philip asks why Father Andrei signaled and learns that Father Victor talked to the FBI. Alarmed, Philip tersely tells Father Andrei to flee America as soon as possible, and immediately walks out of the park at normal speed, then begins running, closely followed by two FBI agents. Through a rapid change of clothes and removal of his disguise props, Philip barely avoids capture and catches a taxi. 
+
+Paige confronts Elizabeth about her friend Brian's story of an intern (clearly Jackson) having been seduced by an older woman for information, which Elizabeth unconvincingly denies doing. Paige disgustedly calls Elizabeth a whore and adds that Philip can't stand to be in the same room with her. Elizabeth then erupts over the differences between Paige's privileged American life and the Jennings' impoverished Soviet ones, and Paige wordlessly leaves. Philip calls home to say that things are "topsy-turvy" at the office, and Elizabeth promptly cleans out the hidden basement compartments into a "go bag" and flees the house.
+
+==Production==
+The episode was written by Joel Fields and [[Joe Weisberg]], and directed by [[Chris Long (director)|Chris Long]].
+
+==Reception==
+In its original American broadcast, "Jennings, Elizabeth" was seen by an estimated 730,000 household viewers and gained a 0.19 ratings share among adults aged 18–49, rising by 0.06 from the previous episode, according to Nielsen Media Research.<ref>{{cite web|url=http://www.showbuzzdaily.com/articles/showbuzzdailys-top-150-wednesday-cable-originals-network-finals-5-23-2018.html|title=Updated: ShowBuzzDaily's Top 150 Wednesday Cable Originals & Network Finals: 5.23.2018|last=Metcalf|first=Mitch|date=May 24, 2018|work=Showbuzz Daily|accessdate=May 24, 2018}}</ref>
+
+The episode received positive reviews. Review aggregator website [[Rotten Tomatoes]] gave the episode 100% "Fresh" ratings and average rating of 9.43 out of 10, based on 12 reviews.<ref>{{Cite web|url=https://www.rottentomatoes.com/tv/the_americans/s06/e09|title=The Americans – Season 6, Episode 9|website=[[Rotten Tomatoes]]|access-date=May 24, 2018}}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{Imdb episode|6268292|Jennings, Elizabeth}}
+
+{{The Americans}}
+
+{{DEFAULTSORT:Jennings, Elizabeth}}
+[[Category:The Americans (season 6) episodes]]
+[[Category:2018 American television episodes]]

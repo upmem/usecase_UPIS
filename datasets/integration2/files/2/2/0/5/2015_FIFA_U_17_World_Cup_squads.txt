@@ -1,0 +1,683 @@
+{{Use dmy dates|date=March 2019}}
+The following is a list of all the '''squads of the national teams participating in the [[2015 FIFA U-17 World Cup]]'''.
+
+Each team had to name a squad of 21 players (three of whom must be goalkeepers) by the FIFA deadline.<ref name="regulations">{{cite web|url=http://resources.fifa.com/mm/document/tournament/loc/02/45/24/38/regu-17chileen_neutral.pdf|title=Regulations – FIFA U-17 World Cup Chile 2015|publisher=FIFA.com}}</ref> The squads were announced on 8 October 2015.<ref>{{cite web|url=https://www.fifa.com/u17worldcup/news/y=2015/m=10/news=gifted-youngsters-offered-chilean-chance-2709886.html|title=Gifted youngsters offered Chilean chance|publisher=FIFA.com|date=8 October 2015}}</ref><ref>{{cite web|url=http://www.fifadata.com/document/FU17/2015/pdf/FU17_2015_SquadLists.pdf|title=FIFA U-17 World Cup Chile 2015 – List of Players|publisher=FIFA.com|access-date=10 October 2015|archive-url=https://web.archive.org/web/20191103180706/https://www.fifadata.com/document/FU17/2015/pdf/FU17_2015_SquadLists.pdf|archive-date=3 November 2019|url-status=dead}}</ref>
+
+All players of its representative team must have been born on or after 1 January 1998. Players in '''boldface''' have been capped at full international level at some point in their career.
+
+==Group A==
+
+==={{fbu|17|CHI}}===
+Head coach: {{flagicon|CHI}} [[Miguel Ponce]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Luis Ureta]] |age={{birth date and age2|2015|10|17|1999|3|8|df=y}} |caps= |goals= |clubnat=CHI |club=[[O'Higgins F.C.|O'Higgins]]}}
+{{nat fs g player |no=2 |pos=DF |name=[[Simón Ramírez (footballer, born 1998)|Simón Ramírez]] |age={{birth date and age2|2015|10|17|1998|11|3|df=y}} |caps= |goals= |clubnat=CHI |club=[[Huachipato]]}}
+{{nat fs g player |no=3 |pos=DF |name=Fabián Monilla |age={{birth date and age2|2015|10|17|1998|5|20|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Deportivo Universidad Católica|Universidad Católica]]}}
+{{nat fs g player |no=4 |pos=MF |name=[[Manuel Reyes]] |age={{birth date and age2|2015|10|17|1998|1|8|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Deportivo Universidad Católica|Universidad Católica]]}}
+{{nat fs g player |no=5 |pos=DF |name=Diego González |age={{birth date and age2|2015|10|17|1998|4|29|df=y}} |caps= |goals= |clubnat=CHI |club=[[O'Higgins F.C.|O'Higgins]]}}
+{{nat fs g player |no=6 |pos=MF |name=[[Ignacio Saavedra]] |age={{birth date and age2|2015|10|17|1999|1|12|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Deportivo Universidad Católica|Universidad Católica]]}}
+{{nat fs g player |no=7 |pos=MF |name=[[Gonzalo Andrés Jara|Gonzalo Jara]] |age={{birth date and age2|2015|10|17|1998|12|1|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Deportivo Universidad Católica|Universidad Católica]]}}
+{{nat fs g player |no=8 |pos=MF |name='''[[Yerko Leiva]]''' |age={{birth date and age2|2015|10|17|1998|6|14|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Universidad de Chile|Universidad de Chile]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Gabriel Mazuela]] |age={{birth date and age2|2015|10|17|1999|1|30|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Universidad de Chile|Universidad de Chile]]}}
+{{nat fs g player |no=10 |pos=MF |name=[[Marcelo Allende]] |age={{birth date and age2|2015|10|17|1999|4|7|df=y}} |caps= |goals= |clubnat=CHI |club=[[Cobreloa]]}}
+{{nat fs g player |no=11 |pos=FW |name=[[Mathías Pinto]] |age={{birth date and age2|2015|10|17|1998|7|13|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Universidad de Chile|Universidad de Chile]]}}
+{{nat fs g player |no=12 |pos=GK |name=[[Ignacio Azúa]] |age={{birth date and age2|2015|10|17|1998|6|23|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Universidad de Chile|Universidad de Chile]]}}
+{{nat fs g player |no=13 |pos=DF |name=[[Camilo Moya]] |age={{birth date and age2|2015|10|17|1998|2|19|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Universidad de Chile|Universidad de Chile]]}}
+{{nat fs g player |no=14 |pos=MF |name=[[Luciano Díaz]] |age={{birth date and age2|2015|10|17|1998|5|8|df=y}} |caps= |goals= |clubnat=CHI |club=[[Colo-Colo]]}}
+{{nat fs g player |no=15 |pos=MF |name=[[René Meléndez (born, 1998)|René Meléndez]] |age={{birth date and age2|2015|10|17|1998|11|19|df=y}} |caps= |goals= |clubnat=CHI |club=[[Audax Italiano]]}}
+{{nat fs g player |no=16 |pos=MF |name=[[Brian Leiva]] |age={{birth date and age2|2015|10|17|1998|2|21|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Deportivo Universidad Católica|Universidad Católica]]}}
+{{nat fs g player |no=17 |pos=DF |name=[[Diego Soto]] |age={{birth date and age2|2015|10|17|1998|10|22|df=y}} |caps= |goals= |clubnat=CHI |club=[[C.D. Universidad de Concepción|Universidad de Concepción]]}}
+{{nat fs g player |no=18 |pos=FW |name=[[Walter Ponce]] |age={{birth date and age2|2015|10|17|1998|3|4|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Deportivo Palestino|Deportivo Palestino]]}}
+{{nat fs g player |no=19 |pos=FW |name=[[Luis Salas]] |age={{birth date and age2|2015|10|17|1998|3|30|df=y}} |caps= |goals= |clubnat=CHI |club=[[Colo-Colo]]}}
+{{nat fs g player |no=20 |pos=DF |name=[[Juan José Soriano]] |age={{birth date and age2|2015|10|17|1998|1|12|df=y}} |caps= |goals= |clubnat=CHI |club=[[Club Deportivo Universidad Católica|Universidad Católica]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Zacarías López]] |age={{birth date and age2|2015|10|17|1998|6|30|df=y}} |caps= |goals= |clubnat=CHI |club=[[San Marcos de Arica]]}}
+{{nat fs g end}}
+
+==={{fbu|17|CRO}}===
+Head coach: {{flagicon|CRO}} [[Dario Bašić]]<ref>{{cite web|title=Dario Bašić Names 21-Player Roster for FIFA Under-17 World Cup in Chile|url=http://hns-cff.hr/news/12351/basic-odredio-putnike-za-sp-zahtjevan-turnir-ocekivanja-velika/}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Adrian Šemper]] |age={{birth date and age2|2015|10|17|1998|1|12|df=y}} |caps=12|goals=0 |clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=2 |pos=DF |name=[[Matej Hudećek]] |age={{birth date and age2|2015|10|17|1998|12|27|df=y}} |caps=14|goals=0 |clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[Borna Sosa]] |age={{birth date and age2|2015|10|17|1998|1|21|df=y}} |caps=16 |goals=1 |clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=4 |pos=DF |name=[[Martin Erlić]] |age={{birth date and age2|2015|10|17|1998|1|24|df=y}} |caps=7 |goals=1 |clubnat=ITA |club=[[U.S. Sassuolo Calcio|Sassuolo]]}}
+{{nat fs g player |no=5 |pos=DF |name=[[Branimir Kalaica]] |age={{birth date and age2|2015|10|17|1998|6|1|df=y}} |caps=15 |goals=0 |clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=6 |pos=DF |name=[[Vinko Soldo]] |age={{birth date and age2|2015|10|17|1998|2|15|df=y}} |caps=15 |goals=1 |clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=7 |pos=MF |name='''[[Josip Brekalo]]''' |age={{birth date and age2|2015|10|17|1998|6|23|df=y}} |caps=20 |goals=8 |clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Neven Đurasek]] |age={{birth date and age2|2015|10|17|1998|8|15|df=y}} |caps=8 |goals=0 |clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Karlo Majić]] |age={{birth date and age2|2015|10|17|1998|3|3|df=y}} |caps=14|goals=4|clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=10 |pos=MF |name=[[Nikola Moro]] |age={{birth date and age2|2015|10|17|1998|3|12|df=y}} |caps=12|goals=5 |clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=11 |pos=MF |name=[[Davor Lovren]] |age={{birth date and age2|2015|10|17|1998|10|3|df=y}} |caps=16|goals=4 |clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=12 |pos=GK |name=[[Bruno Šutalo]] |age={{birth date and age2|2015|10|17|1998|5|23|df=y}} |caps=0|goals=0 |clubnat=CRO |club=[[HNK Hajduk Split|Hajduk Split]]}}
+{{nat fs g player |no=13 |pos=MF |name='''[[Luka Ivanušec]]''' |age={{birth date and age2|2015|10|17|1998|11|26|df=y}} |caps=0|goals=0 |clubnat=CRO |club=[[NK Lokomotiva|Lokomotiva]]}}
+{{nat fs g player |no=14 |pos=DF |name=[[Marin Karamarko]] |age={{birth date and age2|2015|10|17|1998|4|14|df=y}} |caps=4 |goals=0 |clubnat=CRO |club=[[NK OSK Otok|OSK Otok]]}}
+{{nat fs g player |no=15 |pos=DF |name=[[Marin Šverko]] |age={{birth date and age2|2015|10|17|1998|2|4|df=y}} |caps=0 |goals=0 |clubnat=GER |club=[[Karlsruher SC]]}}
+{{nat fs g player |no=16 |pos=DF |name=[[Marko Đira]] |age={{birth date and age2|2015|10|17|1999|5|5|df=y}} |caps=7 |goals=0|clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=17 |pos=FW |name=[[Matko Babić]] |age={{birth date and age2|2015|10|17|1998|7|28|df=y}} |caps=5|goals=1|clubnat=CRO |club=[[NK Lokomotiva|Lokomotiva]]}}
+{{nat fs g player |no=18 |pos=DF |name=[[Luka Pasariček]] |age={{birth date and age2|2015|10|17|1998|3|12|df=y}} |caps=10|goals=1|clubnat=CRO |club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]}}
+{{nat fs g player |no=19 |pos=FW |name=[[Ivan Delić (Croatian soccer)|Ivan Delić]] |age={{birth date and age2|2015|10|17|1998|9|29|df=y}} |caps=0|goals=0|clubnat=CRO |club=[[HNK Hajduk Split|Hajduk Split]]}}
+{{nat fs g player |no=20 |pos=MF |name=[[Dino Halilović]] |age={{birth date and age2|2015|10|17|1998|2|8|df=y}} |caps=4|goals=0|clubnat=ITA |club=[[Udinese Calcio|Udinese]]}}
+{{nat fs g player |no=21 |pos=GK |name=Ivan Nevistić |age={{birth date and age2|2015|10|17|1998|7|31|df=y}} |caps=4|goals=0 |clubnat=CRO |club=[[HNK Rijeka|Rijeka]]}}
+{{nat fs g end}}
+
+==={{fbu|17|NGA}}===
+Head coach: {{flagicon|Nigeria}} [[Emmanuel Amunike]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Akpan David Udoh]]|age={{birth date and age2|2015|10|17|1999|7|18|df=y}}|caps=4|goals=|club=Remo Academy|clubnat=NGA}}
+{{nat fs g player|no=2|pos=DF|name=[[Lazarus John]]|age={{birth date and age2|2015|10|17|1998|6|6|df=y}}|caps=|goals=|club=Fosla Academy|clubnat=NGA}}
+{{nat fs g player|no=3|pos=DF|name=[[Tobechukwu Ibe]]|age={{birth date and age2|2015|10|17|1998|6|17|df=y}}|caps=|goals=|club=Siaone Academy|clubnat=NGA}}
+{{nat fs g player|no=4|pos=MF|name=[[David Enogela]]|age={{birth date and age2|2015|10|17|1998|2|4|df=y}}|caps=|goals=|club=Young Stars FC|clubnat=NGA}}
+{{nat fs g player|no=5|pos=DF|name=[[Lukman Zakari]]|age={{birth date and age2|2015|10|17|1998|12|23|df=y}}|caps=|goals=|club=Unity Academy|clubnat=NGA}}
+{{nat fs g player|no=6|pos=MF|name=[[Kingsley Michael]]|age={{birth date and age2|2015|10|17|1999|8|26|df=y}}|caps=|goals=|club=[[Abuja F.C.|Abuja]]|clubnat=NGA}}
+{{nat fs g player|no=7|pos=FW|name=[[Funsho Bamgboye]]|age={{birth date and age2|2015|10|17|1999|1|9|df=y}}|caps=|goals=|club=[[Aspire Academy]]|clubnat=QAT}}
+{{nat fs g player|no=8|pos=MF|name='''[[Samuel Chukwueze]]'''|age={{birth date and age2|2015|10|17|1999|5|22|df=y}}|caps=|goals=|club=Diamond Academy|clubnat=NGA}}
+{{nat fs g player|no=9|pos=FW|name='''[[Victor Osimhen]]'''|age={{birth date and age2|2015|10|17|1998|12|29|df=y}}|caps=|goals=4|club=Ultimate Strikers FC|clubnat=NGA}}
+{{nat fs g player|no=10|pos=MF|name='''[[Kelechi Nwakali]]'''|age={{birth date and age2|2015|10|17|1998|6|5|df=y}}|caps=|goals=2|club=Diamond Academy|clubnat=NGA}}
+{{nat fs g player|no=11|pos=MF|name=[[Chinedu Madueke]]|age={{birth date and age2|2015|10|17|1998|8|5|df=y}}|caps=|goals=|club=Virgin Kids FC|clubnat=NGA}}
+{{nat fs g player|no=12|pos=MF|name=[[Chukwudi Agor]]|age={{birth date and age2|2015|10|17|1998|11|26|df=y}}|caps=|goals=|club=ASJ Academy|clubnat=NGA}}
+{{nat fs g player|no=13|pos=MF|name=[[Joel Osikel]]|age={{birth date and age2|2015|10|17|1998|6|17|df=y}}|caps=|goals=|club=Young Eleven FC|clubnat=NGA}}
+{{nat fs g player|no=14|pos=DF|name=[[Ejike Ikwu]]|age={{birth date and age2|2015|10|17|1999|2|15|df=y}}|caps=|goals=|club=Starplus FC|clubnat=NGA}}
+{{nat fs g player|no=15|pos=FW|name=[[Udochukwu Anumudu]]|age={{birth date and age2|2015|10|17|1998|10|9|df=y}}|caps=|goals=|club=Enyi Academy|clubnat=NGA}}
+{{nat fs g player|no=16|pos=GK|name=[[Amos Innocent Benjamin]]|age={{birth date and age2|2015|10|17|1998|12|22|df=y}}|caps=1|goals=0|club=[[Abuja F.C.|Abuja]]|clubnat=NGA}}
+{{nat fs g player|no=17|pos=FW|name=[[Christian Ebere]]|age={{birth date and age2|2015|10|17|1998|4|4|df=y}}|caps=|goals=2|club=ASJ Academy|clubnat=NGA}}
+{{nat fs g player|no=18|pos=MF|name=[[Edidiong Essien]]|age={{birth date and age2|2015|10|17|1999|11|26|df=y}}|caps=|goals=|club=Rapture Academy|clubnat=NGA}}
+{{nat fs g player|no=19|pos=FW|name=[[Sunday Alimi]]|age={{birth date and age2|2015|10|17|1999|10|7|df=y}}|caps=|goals=|club=Topworld FC |clubnat=NGA}}
+{{nat fs g player|no=20|pos=FW|name=[[Orji Okwonkwo]]|age={{birth date and age2|2015|10|17|1998|1|19|df=y}}|caps=|goals=|club=[[Abuja F.C.|Abuja]]|clubnat=NGA}}
+{{nat fs g player|no=21|pos=GK|name=[[Chisom Chiaha]]|age={{birth date and age2|2015|10|17|1998|2|2|df=y}}|caps=|goals=|club=Apapa Golden Stars|clubnat=NGA}}
+{{nat fs g end}}
+
+==={{fbu|17|USA}}===
+Head coach: {{flagicon|USA}} [[Richie Williams]]<ref>{{cite web|title=Richie Williams Names 21-Player Roster for FIFA Under-17 World Cup in Chile|url=http://www.ussoccer.com/stories/2015/10/02/12/04/151002-u17mnt-world-cup-roster-announcement|publisher=ussoccer}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Will Pulisic]] |age={{birth date and age2|2015|10|17|1998|4|16|df=y}} |caps=|goals= |clubnat=USA |club=[[Richmond United]]}}
+{{nat fs g player |no=2 |pos=DF |name='''[[Matthew Olosunde]]''' |age={{birth date and age2|2015|10|17|1998|3|7|df=y}} |caps= |goals=|clubnat=USA |club=[[New York Red Bulls Academy|New York Red Bulls]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[John Nelson (soccer, born 1998)|John Nelson]] |age={{birth date and age2|2015|10|17|1998|7|11|df=y}} |caps=|goals=|clubnat=USA |club=[[Internationals (club)|Internationals]]}}
+{{nat fs g player |no=4 |pos=DF |name=[[Auston Trusty]] |age={{birth date and age2|2015|10|17|1998|8|12|df=y}} |caps= |goals= |clubnat=USA |club=[[Philadelphia Union]]}}
+{{nat fs g player |no=5 |pos=DF |name=[[Hugo Arellano]] |age={{birth date and age2|2015|10|17|1998|3|5|df=y}} |caps= |goals= |clubnat=USA |club=[[LA Galaxy]]}}
+{{nat fs g player |no=6 |pos=MF |name=[[Eric Calvillo]] |age={{birth date and age2|2015|10|17|1998|1|2|df=y}} |caps= |goals= |clubnat=USA |club=[[Real So Cal]]}}
+{{nat fs g player |no=7 |pos=FW |name=[[Haji Wright]] |age={{birth date and age2|2015|10|17|1998|3|27|df=y}} |caps=|goals= |clubnat=USA |club=[[New York Cosmos (2010)|New York Cosmos]]}}
+{{nat fs g player |no=8 |pos=MF |name='''[[Luca de la Torre]]''' |age={{birth date and age2|2015|10|17|1998|5|23|df=y}} |caps= |goals= |clubnat=ENG |club=[[Fulham F.C. Academy|Fulham]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Joe Gallardo (soccer)|Joe Gallardo]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}} |caps=|goals=|clubnat=MEX |club=[[C.F. Monterrey|Monterrey]]}}
+{{nat fs g player |no=10 |pos=MF |name='''[[Christian Pulisic]]'''|age={{birth date and age2|2015|10|17|1998|9|18|df=y}} |caps=|goals= |clubnat=GER|club=[[Borussia Dortmund]]}}
+{{nat fs g player |no=11 |pos=FW |name=[[Joshua Pérez]] |age={{birth date and age2|2015|10|17|1998|1|21|df=y}} |caps=|goals=|clubnat=ITA |club=[[ACF Fiorentina|Fiorentina]]}}
+{{nat fs g player |no=12 |pos=GK |name=[[Kevin Silva]] |age={{birth date and age2|2015|10|17|1998|1|5|df=y}} |caps=|goals= |clubnat=USA |club=[[Players Development Academy]]}}
+{{nat fs g player |no=13 |pos=DF |name=[[Alexis Velela]] |age={{birth date and age2|2015|10|17|1998|4|17|df=y}} |caps= |goals= |clubnat=USA |club=[[San Diego Surf]]}}
+{{nat fs g player |no=14 |pos=DF |name=[[Tanner Dieterich]] |age={{birth date and age2|2015|10|17|1998|4|5|df=y}} |caps=|goals= |clubnat=USA |club=[[Real Salt Lake]]}}
+{{nat fs g player |no=15 |pos=DF |name=[[Danny Barbir]] |age={{birth date and age2|2015|10|17|1998|1|31|df=y}} |caps= |goals= |clubnat=ENG |club=[[West Bromwich Albion F.C.|West Bromwich Albion]]}}
+{{nat fs g player |no=16 |pos=MF |name=[[Tommy McCabe]] |age={{birth date and age2|2015|10|17|1998|4|4|df=y}} |caps= |goals= |clubnat=USA |club=[[Players Development Academy]]}}
+{{nat fs g player |no=17 |pos=FW |name=[[Pierre da Silva]] |age={{birth date and age2|2015|10|17|1998|7|28|df=y}} |caps=|goals=|clubnat=USA |club=[[Orlando City SC|Orlando City]]}}
+{{nat fs g player |no=18 |pos=DF |name='''[[Tyler Adams]]''' |age={{birth date and age2|2015|10|17|1999|2|14|df=y}} |caps= |goals= |clubnat=USA |club=[[New York Red Bulls II]]}}
+{{nat fs g player |no=19 |pos=FW |name=[[Brandon Vazquez]] |age={{birth date and age2|2015|10|17|1998|10|14|df=y}} |caps=|goals=|clubnat=MEX |club=[[Club Tijuana|Tijuana]]}}
+{{nat fs g player |no=20 |pos=MF |name=[[Alejandro Zendejas]] |age={{birth date and age2|2015|10|17|1998|2|7|df=y}} |caps=|goals= |clubnat=USA |club=FC Dallas}}
+{{nat fs g player |no=21 |pos=GK |name=[[Eric Lopez (soccer)|Eric Lopez]] |age={{birth date and age2|2015|10|17|1999|3|5|df=y}} |caps=|goals= |clubnat=USA |club=[[LA Galaxy]]}}
+{{nat fs g end}}
+
+==Group B==
+
+==={{fbu|17|BRA}}===
+Manager: {{flagicon|BRA}} [[Carlos Amadeu]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Juliano Chade|Juliano]] |age={{birth date and age2|2015|10|17|1998|3|14|df=y}}|caps= |goals= |clubnat=BRA|club=[[Clube Atlético Paranaense|Atlético Paranaense]]}}
+{{nat fs g player |no=2 |pos=DF |name=[[Kléber (footballer, born 1998)|Kléber]] |age={{birth date and age2|2015|10|17|1998|8|2|df=y}}|caps=|goals= |clubnat=BRA |club=[[Clube de Regatas do Flamengo|Flamengo]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[Ronaldo Rodrigues de Souza|Ronaldo]]|age={{birth date and age2|2015|10|17|1998|1|12|df=y}}|caps=|goals=|clubnat=BRA |club=[[Cruzeiro Esporte Clube|Cruzeiro]]}}
+{{nat fs g player |no=4 |pos=DF |name=[[Leonardo Rodrigues dos Santos|Léo Santos]]|age={{birth date and age2|2015|10|17|1998|12|9|df=y}}|caps=|goals=|clubnat=BRA |club=[[Sport Club Corinthians Paulista|Corinthians]]}}
+{{nat fs g player |no=5 |pos=MF |name=[[Igor Liziero|Liziero]] |age={{birth date and age2|2015|10|17|1998|2|7|df=y}}|caps=|goals=|clubnat=BRA|club=[[São Paulo FC|São Paulo]]}}
+{{nat fs g player |no=6 |pos=DF |name=[[Rogério (footballer, born 1998)|Rogério]] |age={{birth date and age2|2015|10|17|1998|1|13|df=y}}|caps= |goals= |clubnat=BRA |club=[[Sport Club Internacional|Internacional]]}}
+{{nat fs g player |no=7 |pos=FW |name=[[Leandrinho (footballer, born 1998)|Leandrinho]]|age={{birth date and age2|2015|10|17|1998|10|11|df=y}}|caps=|goals=|clubnat=BRA|club=[[Associação Atlética Ponte Preta|Ponte Preta]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Andrey Ramos do Nascimento|Andrey]]|age={{birth date and age2|2015|10|17|1998|2|15|df=y}}|caps=|goals=|clubnat=BRA|club=[[Club de Regatas Vasco da Gama|Vasco da Gama]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Luís Henrique (footballer, born 1998)|Luís Henrique]] |age={{birth date and age2|2015|10|17|1998|3|17|df=y}}|caps= |goals= |clubnat=BRA |club=[[Botafogo de Futebol e Regatas|Botafogo]]}}
+{{nat fs g player |no=10 |pos=FW |name=[[Evander da Silva Ferreira|Evander]]|age={{birth date and age2|2015|10|17|1998|6|9|df=y}}|caps=|goals=|clubnat=BRA |club=[[Club de Regatas Vasco da Gama|Vasco da Gama]]}}
+{{nat fs g player |no=11 |pos=MF |name=[[Lincoln (footballer, born 1998)|Lincoln]]|age={{birth date and age2|2015|10|17|1998|11|7|df=y}}|caps=|goals=|clubnat=BRA |club=[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]}}
+{{nat fs g player |no=12 |pos=GK |name=[[Lucas Emanoel Leite Romão|Lucas Romão]] |age={{birth date and age2|2015|10|17|1998|1|29|df=y}}|caps= |goals= |clubnat=BRA |club=[[Cruzeiro Esporte Clube|Cruzeiro]]}}
+{{nat fs g player |no=13 |pos=DF |name=[[Dodô (footballer, born 1998)|Dodô]] |age={{birth date and age2|2015|10|17|1998|11|17|df=y}}|caps=|goals=|clubnat=BRA|club=[[Coritiba Foot Ball Club|Coritiba]]}}
+{{nat fs g player |no=14 |pos=DF |name='''[[Éder Militão]]''' |age={{birth date and age2|2015|10|17|1998|1|18|df=y}}|caps= |goals= |clubnat=BRA|club=[[São Paulo FC|São Paulo]]}}
+{{nat fs g player |no=15 |pos=DF |name=[[José Marcos Alves Luis|Zé Marcos]]|age={{birth date and age2|2015|10|17|1998|2|1|df=y}}|caps=|goals=|clubnat=BRA|club=[[Clube Atlético Paranaense|Atlético Paranaense]]}}
+{{nat fs g player |no=16 |pos=MF |name=[[Guilherme Nunes|Guilherme]] |age={{birth date and age2|2015|10|17|1998|7|12|df=y}}|caps= |goals= |clubnat=BRA |club=[[Santos FC|Santos]]}}
+{{nat fs g player |no=17 |pos=MF |name=[[Geovane Nascimento Silva|Geovane]] |age={{birth date and age2|2015|10|17|1998|5|15|df=y}}|caps=|goals=|clubnat=BRA|club=[[Esporte Clube Vitória|Vitória]]}}
+{{nat fs g player |no=18 |pos=MF |name=[[Matheusinho]] |age={{birth date and age2|2015|10|17|1998|2|11|df=y}}|caps= |goals= |clubnat=BRA |club=[[América Futebol Clube (MG)|América-MG]]}}
+{{nat fs g player |no=19 |pos=FW |name=[[Arthur Gomes (footballer)|Arthur]] |age={{birth date and age2|2015|10|17|1998|7|3|df=y}}|caps= |goals= |clubnat=BRA |club=[[Santos FC|Santos]]}}
+{{nat fs g player |no=20 |pos=FW |name=[[Eronildo dos Santos Rocha|Eron]]|age={{birth date and age2|2015|10|17|1998|7|16|df=y}}|caps=|goals=|clubnat=BRA|club=[[Esporte Clube Vitória|Vitória]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Gabriel Batista]] |age={{birth date and age2|2015|10|17|1998|6|3|df=y}}|caps=|goals= |clubnat=BRA |club=[[Clube de Regatas do Flamengo|Flamengo]]}}
+{{nat fs end}}
+<ref>http://selecao.cbf.com.br/noticias/selecao-base-masculina/sub-17-definida-para-o-mundial-do-chile#.VhFlq_lViko</ref>
+
+==={{fbu|17|ENG}}===
+Head coach: {{flagicon|ENG}} [[Neil Dewsnip]]
+
+{{National football squad start (goals)}} 
+{{National football squad player (goals)|no=1 |pos=GK |name=[[Paul Woolston]] |age={{Birth date and age2|2015|10|17|1998|8|14|df=y}}|caps= |goals= |club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG }}
+{{National football squad player (goals)|no=2 |pos=DF |name=[[James Yates (footballer, born 1998)|James Yates]] |age={{Birth date and age2|2015|10|17|1998|4|3|df=y}}|caps= |goals= |club=[[Everton F.C.|Everton]]|clubnat=ENG }}
+{{National football squad player (goals)|no=3 |pos=DF |name=[[Jay Dasilva]] |age={{Birth date and age2|2015|10|17|1998|4|22|df=y}}|caps= |goals= |club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG }}
+{{National football squad player (goals)|no=4 |pos=MF |name=[[Tom Davies (footballer, born 1998)|Tom Davies]] |age={{Birth date and age2|2015|10|17|1998|6|30|df=y}}|caps= |goals= |club=[[Everton F.C.|Everton]]|clubnat=ENG }}
+{{National football squad player (goals)|no=5 |pos=DF |name=[[Danny Collinge]] |age={{Birth date and age2|2015|10|17|1998|4|9|df=y}}|caps= |goals= |club=[[VfB Stuttgart]]|clubnat=GER }}
+{{National football squad player (goals)|no=6 |pos=DF |name=[[Ro-Shaun Williams]]  |age={{Birth date and age2|2015|10|17|1998|9|3|df=y}}|caps= |goals= |club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG }}
+{{National football squad player (goals)|no=7 |pos=MF |name=[[Will Patching]] |age={{Birth date and age2|2015|10|17|1998|10|18|df=y}}|caps= |goals= |club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG }}
+{{National football squad player (goals)|no=8 |pos=MF |name=[[Marcus Wood]] |age={{Birth date and age2|2015|10|17|1998|2|12|df=y}}|caps= |goals= |club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG }}
+{{National football squad player (goals)|no=9 |pos=FW |name=[[Kaylen Hinds]] |age={{Birth date and age2|2015|10|17|1998|1|28|df=y}}|caps= |goals= |club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG }}
+{{National football squad player (goals)|no=10 |pos=MF |name=[[Marcus Edwards]] |age={{Birth date and age2|2015|10|17|1998|12|20|df=y}}|caps= |goals= |club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG }}
+{{National football squad player (goals)|no=11 |pos=MF |name=[[Chris Willock]] |age={{Birth date and age2|2015|10|17|1998|1|31|df=y}}|caps= |goals= |club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG }}
+{{National football squad player (goals)|no=12 |pos=DF |name=[[Tayo Edun]] |age={{Birth date and age2|2015|10|17|1998|5|14|df=y}}|caps= |goals= |club=[[Fulham F.C.|Fulham]]|clubnat=ENG }}
+{{National football squad player (goals)|no=13 |pos=GK |name=[[Will Huffer]]   |age={{Birth date and age2|2015|10|17|1998|10|30|df=y}}|caps= |goals= |club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG }}
+{{National football squad player (goals)|no=14 |pos=MF |name='''[[Trent Alexander-Arnold]]''' |age={{Birth date and age2|2015|10|17|1998|10|7|df=y}}|caps= |goals= |club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG }}
+{{National football squad player (goals)|no=15 |pos=DF |name=[[Easah Suliman]] |age={{Birth date and age2|2015|10|17|1998|1|26|df=y}}|caps= |goals= |club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG }}
+{{National football squad player (goals)|no=16 |pos=FW |name=[[Stephy Mavididi]] |age={{Birth date and age2|2015|10|17|1998|5|31|df=y}}|caps= |goals= |club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG }}
+{{National football squad player (goals)|no=17 |pos=FW |name=[[Kazaiah Sterling]] |age={{Birth date and age2|2015|10|17|1998|11|9|df=y}}|caps= |goals= |club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG }}
+{{National football squad player (goals)|no=18 |pos=MF |name=[[Herbie Kane]] |age={{Birth date and age2|2015|10|17|1998|11|23|df=y}}|caps= |goals= |club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG }}
+{{National football squad player (goals)|no=19 |pos=FW |name=[[Ike Ugbo]] |age={{Birth date and age2|2015|10|17|1998|9|12|df=y}}|caps= |goals= |club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG }}
+{{National football squad player (goals)|no=20 |pos=FW |name=[[Rushian Hepburn-Murphy]] |age={{Birth date and age2|2015|10|17|1998|8|24|df=y}}|caps= |goals= |club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG }}
+{{National football squad player (goals)|no=21 |pos=GK |name=[[Alfie Whiteman]] |age={{Birth date and age2|2015|10|17|1998|10|2|df=y}}|caps= |goals= |club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG }}
+{{nat fs end}}
+<ref>{{cite web|title=FIFA Under-17s World Cup squad announced by Neil Dewsnip|url=http://www.thefa.com/news/england/development/2015/oct/u17s-england-world-cup-squad-announcement-for-chile-021015|publisher=The FA}}</ref>
+
+==={{fbu|17|GUI}}===
+Head coach: {{flagicon|GUI}} [[Hamidou Camara]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name='''[[Moussa Camara (footballer)|Moussa Camara]]''' |age={{birth date and age2|2015|10|17|1998|11|27|df=y}} |caps= |goals= |clubnat=GUI |club=[[Milo FC]]}}
+{{nat fs g player |no=2 |pos=DF |name=[[Mohamed Kourouma (footballer, born 1998)|Mohamed Kourouma]] |age={{birth date and age2|2015|10|17|1998|3|8|df=y}} |caps= |goals= |clubnat=GUI |club=[[Alde & Action]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[Fodé Camara (footballer, born 1998)|Fodé Camara]] |age={{birth date and age2|2015|10|17|1998|4|17|df=y}} |caps= |goals= |clubnat=GUI |club=[[Cefomig]]}}
+{{nat fs g player |no=4 |pos=DF |name=[[Moussa Soumah]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}} |caps= |goals= |clubnat=GUI |club=[[Cefomig]]}}
+{{nat fs g player |no=5 |pos=DF |name=[[Mohamed Camara (footballer, born 1998)|Mohamed Camara]] |age={{birth date and age2|2015|10|17|1998|11|1|df=y}} |caps= |goals= |clubnat=GUI |club=[[Fello Star]]}}
+{{nat fs g player |no=6 |pos=MF |name=[[Alseny Soumah]] |age={{birth date and age2|2015|10|17|1998|5|16|df=y}} |caps= |goals= |clubnat=GUI |club=[[FC Attouga]]}}
+{{nat fs g player |no=7 |pos=MF |name='''[[Morlaye Sylla]]''' |age={{birth date and age2|2015|10|17|1998|7|27|df=y}} |caps= |goals= |clubnat=GUI |club=[[Espoirs Tanene]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Augustin Bangoura]] |age={{birth date and age2|2015|6|13|1998|6|13|df=y}} |caps= |goals= |clubnat=FRA |club=[[AS Saint-Etienne]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Karim Conté]] |age={{birth date and age2|2015|10|17|1999|8|25|df=y}} |caps= |goals= |clubnat=QAT |club=[[Aspire Academy]]}}
+{{nat fs g player |no=10 |pos=FW |name=[[Naby Bangoura]] |age={{birth date and age2|2015|10|17|1998|3|19|df=y}} |caps= |goals= |clubnat=GUI |club=[[Falessade]]}}
+{{nat fs g player |no=11 |pos=MF |name='''[[Jules Keita]]''' |age={{birth date and age2|2015|10|17|1998|7|20|df=y}} |caps= |goals= |clubnat=GUI |club=[[FC Attouga]]}}
+{{nat fs g player |no=12 |pos=DF |name=[[Amine Traoré]] |age={{birth date and age2|2015|10|17|1999|1|15|df=y}} |caps= |goals= |clubnat=GUI |club=[[FC Yaya]]}}
+{{nat fs g player |no=13 |pos=MF |name=[[Ives Camara]] |age={{birth date and age2|2015|10|17|1999|5|17|df=y}} |caps= |goals= |clubnat=GUI |club=[[FC Attouga]]}}
+{{nat fs g player |no=14 |pos=FW |name=[[Yamadou Touré]] |age={{birth date and age2|2015|10|17|1998|8|5|df=y}} |caps= |goals= |clubnat=GUI |club=[[Alde & Action]]}}
+{{nat fs g player |no=15 |pos=MF |name=[[Alhassane Soumah (footballer, born 1999)|Alhassane Soumah]] |age={{birth date and age2|2015|10|17|1999|10|23|df=y}} |caps= |goals= |clubnat=QAT |club=[[Aspire Academy]]}}
+{{nat fs g player |no=16 |pos=GK |name=[[Djibril Yattara]] |age={{birth date and age2|2015|10|17|1998|3|10|df=y}} |caps= |goals= |clubnat=GUI |club=[[Athlético de Coléah]]}}
+{{nat fs g player |no=17 |pos=DF |name=[[Aboubacar Touré]] |age={{birth date and age2|2015|10|17|1998|6|14|df=y}} |caps= |goals= |clubnat=GUI |club=[[Academie Kabassan]]}}
+{{nat fs g player |no=18 |pos=MF |name=[[Junior Doumbouya]] |age={{birth date and age2|2015|10|17|1999|2|16|df=y}} |caps= |goals= |clubnat=GUI |club=[[Horoya AC]]}}
+{{nat fs g player |no=19 |pos=FW |name=[[Sam Diallo]] |age={{birth date and age2|2015|10|17|1998|4|28|df=y}} |caps= |goals= |clubnat=GUI |club=[[FC Attouga]]}}
+{{nat fs g player |no=20 |pos=FW |name=[[Ousmane Camara (footballer, born 1998)|Ousmane Camara]] |age={{birth date and age2|2015|10|17|1998|12|28|df=y}} |caps= |goals= |clubnat=GUI |club=[[FC Attouga]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Fodé Conté]] |age={{birth date and age2|2015|10|17|1998|3|15|df=y}} |caps= |goals= |clubnat=GUI |club=[[AS Bora]]}}
+{{nat fs g end}}
+
+==={{fbu|17|KOR}}===
+Manager: {{flagicon|KOR}} [[Choi Jin-cheul]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Ahn Joon-soo]] |age={{birth date and age2|2015|10|17|1998|1|28|df=y}}|caps= |goals= |clubnat=KOR |club=Uijeongbu FC}}
+{{nat fs g player |no=2 |pos=DF |name=[[Park Myeong-su (footballer)|Park Myeong-su]] |age={{birth date and age2|2015|10|17|1998|1|11|df=y}}|caps= |goals= |clubnat=KOR |club=[[Incheon United FC|Incheon United]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[Park Dae-won]] |age={{birth date and age2|2015|10|17|1998|2|25|df=y}}|caps= |goals= |clubnat=KOR |club=[[Suwon Samsung Bluewings]]}}
+{{nat fs g player |no=4 |pos=DF |name=[[Lee Sang-min (footballer, born 1998)|Lee Sang-min]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}}|caps= |goals= |clubnat=KOR |club=[[Ulsan Hyundai FC|Ulsan Hyundai]]}}
+{{nat fs g player |no=5 |pos=DF |name=[[Choi Jae-young]] |age={{birth date and age2|2015|10|17|1998|3|18|df=y}}|caps= |goals= |clubnat=KOR |club=[[Pohang Steelers]]}}
+{{nat fs g player |no=6 |pos=MF |name=[[Jang Jae-won]] |age={{birth date and age2|2015|10|17|1998|4|21|df=y}}|caps= |goals= |clubnat=KOR |club=[[Ulsan Hyundai FC|Ulsan Hyundai]]}}
+{{nat fs g player |no=7 |pos=MF |name=[[Park Sang-hyuk (footballer)|Park Sang-hyuk]] |age={{birth date and age2|2015|10|17|1998|4|20|df=y}}|caps= |goals= |clubnat=KOR |club=[[Suwon Samsung Bluewings]]}}
+{{nat fs g player |no=8 |pos=FW |name=[[Lee Sang-heon (footballer, born 1998)|Lee Sang-heon]] |age={{birth date and age2|2015|10|17|1998|2|26|df=y}}|caps= |goals= |clubnat=KOR |club=[[Ulsan Hyundai FC|Ulsan Hyundai]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[You Ju-an]] |age={{birth date and age2|2015|10|17|1998|10|1|df=y}}|caps= |goals= |clubnat=KOR |club=[[Suwon Samsung Bluewings]]}}
+{{nat fs g player |no=10 |pos=FW |name='''[[Lee Seung-woo]]''' |age={{birth date and age2|2015|10|17|1998|1|6|df=y}}|caps= |goals= |clubnat=ESP |club=[[FC Barcelona B|Barcelona B]]}}
+{{nat fs g player |no=11 |pos=MF |name=[[Cha Oh-yeon]] |age={{birth date and age2|2015|10|17|1998|4|15|df=y}}|caps= |goals= |clubnat=KOR |club=[[FC Seoul]]}}
+{{nat fs g player |no=12 |pos=DF |name=[[Hwang Tae-hyeon]] |age={{birth date and age2|2015|10|17|1999|1|29|df=y}}|caps= |goals= |clubnat=KOR |club=[[Jeonnam Dragons]]}}
+{{nat fs g player |no=13 |pos=MF |name=[[Yu Seung-min]] |age={{birth date and age2|2015|10|17|1998|9|24|df=y}}|caps= |goals= |clubnat=KOR |club=[[Jeonbuk Hyundai Motors]]}}
+{{nat fs g player |no=14 |pos=MF |name=[[Kim Jin-ya]] |age={{birth date and age2|2015|10|17|1998|6|30|df=y}}|caps= |goals= |clubnat=KOR |club=[[Incheon United FC|Incheon United]]}}
+{{nat fs g player |no=15 |pos=DF |name=[[Kim Seung-woo (footballer, born 1998)|Kim Seung-woo]] |age={{birth date and age2|2015|10|17|1998|3|25|df=y}}|caps= |goals= |clubnat=KOR |club=Boin High School}}
+{{nat fs g player |no=16 |pos=DF |name=[[Yoon Jong-gyu]] |age={{birth date and age2|2015|10|17|1998|3|20|df=y}}|caps= |goals= |clubnat=KOR |club=Shingal High School}}
+{{nat fs g player |no=17 |pos=MF |name='''[[Kim Jung-min (footballer)|Kim Jung-min]]''' |age={{birth date and age2|2015|10|17|1999|11|13|df=y}}|caps= |goals= |clubnat=KOR |club=[[Gwangju FC]]}}
+{{nat fs g player |no=18 |pos=GK |name=[[Lee Joon-seo]] |age={{birth date and age2|2015|10|17|1998|3|7|df=y}}|caps= |goals= |clubnat=KOR |club=[[FC Seoul]]}}
+{{nat fs g player |no=19 |pos=DF |name=[[Lee Seung-mo]] |age={{birth date and age2|2015|10|17|1998|3|30|df=y}}|caps= |goals= |clubnat=KOR |club=[[Pohang Steelers]]}}
+{{nat fs g player |no=20 |pos=FW |name=[[Oh Se-hun (footballer)|Oh Se-hun]] |age={{birth date and age2|df=yes|2015|10|17|1999|1|15}} |caps= |goals= |clubnat=KOR |club=[[Ulsan Hyundai FC|Ulsan Hyundai]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Lee Ju-hyun]] |age={{birth date and age2|2015|10|17|1998|12|6|df=y}}|caps= |goals= |clubnat=KOR |club=Tongjin High School}}
+{{nat fs end}}
+<ref>{{Cite web |url=http://kfa.or.kr/eng/national/teamlist.asp?gubun=13004 |title=Archived copy |access-date=11 October 2015 |archive-url=https://web.archive.org/web/20151113045703/http://www.kfa.or.kr/eng/national/teamlist.asp?gubun=13004 |archive-date=13 November 2015 |url-status=dead }}</ref>
+
+==Group C==
+
+==={{fbu|17|ARG}}===
+Manager: {{flagicon|ARG}} [[Miguel Ángel Lemme]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Franco Petroli]] |age={{birth date and age2|2015|10|17|1998|6|11|df=y}}|caps= |goals= |clubnat=ARG |club=[[Club Atlético River Plate|River Plate]]}}
+{{nat fs g player |no=2 |pos=DF |name=[[Julián Ferreyra]] |age={{birth date and age2|2015|10|17|1998|4|22|df=y}}|caps= |goals= |clubnat=ARG |club=[[Argentinos Juniors]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[Luis Olivera]] |age={{birth date and age2|2015|10|17|1998|10|24|df=y}}|caps= |goals= |clubnat=ARG |club=[[Club Atlético River Plate|River Plate]]}}
+{{nat fs g player |no=4 |pos=DF |name=[[Matías Ernesto Escudero|Matías Escudero]] |age={{birth date and age2|2015|10|17|1998|12|27|df=y}}|caps= |goals= |clubnat=ARG |club=[[Racing Club de Avellaneda|Racing Club]]}}
+{{nat fs g player |no=5 |pos=MF |name=[[Julián Chicco]] |age={{birth date and age2|2015|10|17|1998|1|13|df=y}}|caps= |goals= |clubnat=ARG |club=[[Boca Juniors]]}}
+{{nat fs g player |no=6 |pos=DF |name=[[Facundo Pardo]] |age={{birth date and age2|2015|10|17|1998|8|12|df=y}}|caps= |goals= |clubnat=ARG |club=[[Newell's Old Boys]]}}
+{{nat fs g player |no=7 |pos=MF |name=[[Gianluca Mancuso]] |age={{birth date and age2|2015|10|17|1998|2|3|df=y}}|caps= |goals= |clubnat=ARG |club=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Pablo Ruíz (footballer, born 1998)|Pablo Ruíz]] |age={{birth date and age2|2015|10|17|1998|12|20|df=y}}|caps= |goals= |clubnat=ARG |club=[[San Lorenzo de Almagro|San Lorenzo]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Federico Vietto]] |age={{birth date and age2|2015|10|17|1998|3|30|df=y}}|caps= |goals= |clubnat=ARG |club=[[Racing Club de Avellaneda|Racing Club]]}}
+{{nat fs g player |no=10 |pos=MF |name='''[[Exequiel Palacios]]''' |age={{birth date and age2|2015|10|17|1998|10|5|df=y}}|caps= |goals= |clubnat=ARG |club=[[Club Atlético River Plate|River Plate]]}}
+{{nat fs g player |no=11 |pos=FW |name=[[Lucas Ferraz Vila]] |age={{birth date and age2|2015|10|17|1998|2|18|df=y}}|caps= |goals= |clubnat=ARG |club=[[Club Atlético River Plate|River Plate]]}}
+{{nat fs g player |no=12 |pos=GK |name=[[Federico Bonansea]] |age={{birth date and age2|2015|10|17|1998|3|13|df=y}}|caps= |goals= |clubnat=ARG |club=[[Club Atlético Belgrano|Belgrano]]}}
+{{nat fs g player |no=13 |pos=DF |name=[[Héctor Martínez (footballer, born 1998)|Héctor Martínez]] |age={{birth date and age2|2015|10|17|1998|1|21|df=y}}|caps= |goals= |clubnat=ARG |club=[[Club Atlético River Plate|River Plate]]}}
+{{nat fs g player |no=14 |pos=DF |name=[[Tiago Ruíz Díaz]]|age={{birth date and age2|2015|10|17|1998|7|24|df=y}}|caps= |goals= |clubnat=ARG |club=[[Newell's Old Boys]]}}
+{{nat fs g player |no=15 |pos=DF |name=[[Juan Antonio Di Lorenzo]] |age={{birth date and age2|2015|10|17|1998|7|6|df=y}}|caps= |goals= |clubnat=ARG |club=[[Club Atlético Independiente|Independiente]]}}
+{{nat fs g player |no=16 |pos=MF |name=[[Lucas Pizzatti]] |age={{birth date and age2|2015|10|17|1998|9|13|df=y}}|caps= |goals= |clubnat=ARG |club=[[Argentinos Juniors]]}}
+{{nat fs g player |no=17 |pos=FW |name=[[Germán Berterame]] |age={{birth date and age2|2015|10|17|1998|11|13|df=y}}|caps= |goals= |clubnat=ARG |club=[[San Lorenzo de Almagro|San Lorenzo]]}}
+{{nat fs g player |no=18 |pos=FW |name=[[Tomás Conechny]] |age={{birth date and age2|2015|10|17|1998|3|30|df=y}}|caps= |goals= |clubnat=ARG |club=[[San Lorenzo de Almagro|San Lorenzo]]}}
+{{nat fs g player |no=19 |pos=FW |name=[[Matías Roskopf]] |age={{birth date and age2|2015|10|17|1998|1|14|df=y}}|caps= |goals= |clubnat=ARG |club=[[Boca Juniors]]}}
+{{nat fs g player |no=20 |pos=FW |name=[[Ricardo Rodríguez (footballer, born 1998)|Ricardo Rodríguez]] |age={{birth date and age2|df=yes|2015|10|17|1998|5|10}} |caps= |goals= |clubnat=CHI |club=[[Club Deportivo Universidad Católica|Universidad Católica]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Marcos Peano]] |age={{birth date and age2|2015|10|17|1998|10|15|df=y}}|caps= |goals= |clubnat=ARG |club=[[Unión de Santa Fe]]}}
+{{nat fs end}}
+<ref>http://www.afa.org.ar/2055/aca-estan-los-mundialistas</ref>
+
+==={{fbu|17|AUS}}===
+Head coach: [[Tony Vidmar]]<ref>{{cite web|url=http://www.footballaustralia.com.au/article/joeys-squad-named-for-2015-u-17-fifa-world-cup-chile/pbsulmoy9p4t1026dwtkrn5ff|title=Joeys squad named for 2015 U-17 FIFA World Cup Chile|publisher=[[Football Federation Australia]]|date=2 October 2015}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Duro Dragicevic]]|age={{Birth date and age2|2015|10|17|1999|7|7|df=y}}|caps=8|goals=0|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=2|pos=DF|name=[[Malcolm Ward]]|age={{Birth date and age2|2015|10|17|1999|8|26|df=y}}|caps=4|goals=0|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=3|pos=DF|name=[[Aaron Reardon (soccer)|Aaron Reardon]]|age={{Birth date and age2|2015|10|17|1999|3|11|df=y}}|caps=1|goals=0|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=4|pos=DF|name=[[Kye Rowles]]|age={{Birth date and age2|2015|10|17|1998|5|19|df=y}}|caps=11|goals=0|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=5|pos=MF|name=[[Jackson Bandiera]]|age={{Birth date and age2|2015|10|17|1998|4|16|df=y}}|caps=16|goals=11|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=6|pos=MF|name=[[Joe Caletti]] ([[Captain (association football)|C]]) |age={{Birth date and age2|2015|10|17|1998|9|14|df=y}}|caps=15|goals=2|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=7|pos=MF|name=[[Panos Armenakas]]|age={{Birth date and age2|2015|10|17|1998|8|5|df=y}}|caps=3|goals=0|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=MF|name=[[Jake Brimmer]]|age={{Birth date and age2|2015|10|17|1998|4|3|df=y}}|caps=9|goals=3|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Pierce Waring]]|age={{Birth date and age2|2015|10|17|1998|11|18|df=y}}|caps=0|goals=0|club=[[Melbourne Victory FC|Melbourne Victory]]|clubnat=AUS}}
+{{nat fs g player|no=10|pos=MF|name=[[Josh Hope (soccer)|Josh Hope]]|age={{Birth date and age2|2015|10|17|1998|1|7|df=y}}|caps=0|goals=0|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=11|pos=FW|name=[[Lucas Derrick]]|age={{Birth date and age2|2015|10|17|1998|11|3|df=y}}|caps=0|goals=0|club=[[Melbourne Victory FC|Melbourne Victory]]|clubnat=AUS}}
+{{nat fs g player|no=12|pos=GK|name=[[Nicholas Sorras]]|age={{Birth date and age2|2015|10|17|1998|6|15|df=y}}|caps=0|goals=0|club=[[Central Coast Mariners FC|Central Coast Mariners]]|clubnat=AUS}}
+{{nat fs g player|no=13|pos=FW|name=[[Thomas Prinsen]]|age={{Birth date and age2|2015|10|17|1999|5|1|df=y}}|caps=0|goals=0|club=[[PEC Zwolle]]|clubnat=NED}}
+{{nat fs g player|no=14|pos=MF|name=[[Joshua Laws]]|age={{Birth date and age2|2015|10|17|1998|2|26|df=y}}|caps=0|goals=0|club=[[Fortuna Düsseldorf]]|clubnat=GER}}
+{{nat fs g player|no=15|pos=FW|name=[[Cameron Joice]]|age={{Birth date and age2|2015|10|17|1998|9|21|df=y}}|caps=10|goals=11|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=16|pos=DF|name=[[Jonathan Vakirtzis]]|age={{Birth date and age2|2015|10|17|1998|4|12|df=y}}|caps=0|goals=0|club=[[Melbourne Victory FC|Melbourne Victory]]|clubnat=AUS}}
+{{nat fs g player|no=17|pos=MF|name=[[Nicholas Panetta]]|age={{Birth date and age2|2015|10|17|1998|4|22|df=y}}|caps=11|goals=3|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=18|pos=GK|name=[[James Delianov]]|age={{Birth date and age2|2015|10|17|1999|10|20|df=y}}|caps=3|goals=0|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=19|pos=MF|name=[[Charlie Devereux]]|age={{Birth date and age2|2015|10|17|1998|3|31|df=y}}|caps=7|goals=3|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=20|pos=DF|name=[[Perry Fotakopoulos]]|age={{Birth date and age2|2015|10|17|1998|9|6|df=y}}|caps=16|goals=2|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g player|no=21|pos=FW|name='''[[Daniel Arzani]]'''|age={{Birth date and age2|2015|10|17|1999|1|4|df=y}}|caps=6|goals=1|club=[[FFA Centre of Excellence|FFA COE]]|clubnat=AUS}}
+{{nat fs g end}}
+
+==={{fbu|17|GER}}===
+Head coach: {{flagicon|DEU}} [[Christian Wück]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Constantin Frommann]] |age={{birth date and age2|2015|10|17|1998|5|27|df=y}}|caps=14 |goals=0|club=[[SC Freiburg]] |clubnat=GER}}
+{{nat fs g player|no=2|pos=MF|name=[[Felix Passlack]] |age={{birth date and age2|2015|10|17|1998|5|29|df=y}}|caps=16|goals=5|club=[[Borussia Dortmund]] |clubnat=GER}}
+{{nat fs g player|no=3|pos=DF|name=[[Dženis Burnić]] |age={{birth date and age2|2015|10|17|1998|5|22|df=y}}|caps=11 |goals=0|club=[[Borussia Dortmund]] |clubnat=GER}}
+{{nat fs g player|no=4|pos=MF|name=[[Gökhan Gül]] |age={{birth date and age2|2015|10|17|1998|7|17|df=y}}|caps=15|goals=2|club=[[VfL Bochum]] |clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Erdinc Karakas]] |age={{birth date and age2|2015|10|17|1998|3|23|df=y}}|caps=16|goals=3|club=[[VfL Bochum]] |clubnat=GER}}
+{{nat fs g player|no=6|pos=DF|name=[[Joel Abu Hanna]] |age={{birth date and age2|2015|10|17|1998|1|22|df=y}}|caps=12 |goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]] |clubnat=GER}}
+{{nat fs g player|no=7|pos=MF|name=[[Dennis Geiger (footballer, born 1998)|Dennis Geiger]] |age={{birth date and age2|2015|10|17|1998|6|10|df=y}}|caps=5 |goals=0|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]] |clubnat=GER}}
+{{nat fs g player|no=8|pos=MF|name=[[Niklas Dorsch]] |age={{birth date and age2|2015|10|17|1998|1|15|df=y}}|caps=11|goals=0|club=[[FC Bayern Munich|Bayern Munich]] |clubnat=GER}}
+{{nat fs g player|no=9|pos=FW|name=[[Johannes Eggestein]] |age={{birth date and age2|df=yes|2015|10|17|1998|5|8}} |caps=14|goals=6|club=[[SV Werder Bremen|Werder Bremen]] |clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Niklas Schmidt]] |age={{birth date and age2|df=yes|2015|10|17|1998|3|1}} |caps=14|goals=6|club=[[SV Werder Bremen|Werder Bremen]] |clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Mats Köhlert]] |age={{birth date and age2|df=yes|2015|10|17|1998|5|2}} |caps=11|goals=1|club=[[Hamburger SV]] |clubnat=GER}}
+{{nat fs g player|no=12|pos=GK|name=[[Markus Schubert]] |age={{birth date and age2|2015|10|17|1998|6|12|df=y}}|caps=2 |goals=0|club=[[Dynamo Dresden]] |clubnat=GER}}
+{{nat fs g player|no=13|pos=DF|name=[[Daniel Nesseler]] |age={{birth date and age2|2015|10|17|1998|3|15|df=y}}|caps=15 |goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]] |clubnat=GER}}
+{{nat fs g player|no=14|pos=MF|name=[[Görkem Sağlam]]  |age={{birth date and age2|2015|10|17|1998|4|11|df=y}}|caps=14|goals=4|club=[[VfL Bochum]] |clubnat=GER}}
+{{nat fs g player|no=15|pos=MF|name=[[Salih Özcan]] |age={{birth date and age2|2015|10|17|1998|1|11|df=y}}|caps=12 |goals=0|club=[[1. FC Köln]] |clubnat=GER}}
+{{nat fs g player|no=16|pos=DF|name=[[Dominik Franke]] |age={{birth date and age2|2015|10|17|1998|10|5|df=y}}|caps=0  |goals=0|club=[[RB Leipzig]] |clubnat=GER}}
+{{nat fs g player|no=17|pos=DF|name=[[Enes Akyol]] |age={{birth date and age2|2015|10|17|1998|2|16|df=y}}|caps=15 |goals=0|club=[[Hertha BSC]] |clubnat=GER}}
+{{nat fs g player|no=18|pos=DF|name=[[Jonas Busam]] |age={{birth date and age2|df=yes|2015|10|17|1998|5|3}} |caps=14 |goals=0|club=[[SC Freiburg]] |clubnat=GER}}
+{{nat fs g player|no=19|pos=FW|name=[[Meris Skenderović]] |age={{birth date and age2|2015|10|17|1998|3|28|df=y}}|caps=0|goals=0|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]] |clubnat=GER}}
+{{nat fs g player|no=20|pos=MF|name=[[Vitaly Janelt]] |age={{birth date and age2|2015|10|17|1998|5|10|df=y}}|caps=13 |goals=2|club=[[RB Leipzig]] |clubnat=GER}}
+{{nat fs g player|no=21|pos=GK|name=[[Finn Dahmen]] |age={{birth date and age2|2015|10|17|1998|3|27|df=y}}|caps=3 |goals=0|club=[[1. FSV Mainz 05|Mainz 05]] |clubnat=GER}}
+{{nat fs g end}}
+<ref>https://www.dfb.de/u-17-junioren/team-und-trainer/?no_cache=1</ref>
+
+==={{fbu|17|MEX}}===
+Head Coach: {{flagicon|MEX}} [[Mario Arteaga|Mario Alberto Arteaga]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Joel García]] |age={{birth date and age2|df=yes|2015|10|17|1998|4|12}} |caps=0|goals=0 |clubnat=MEX |club=[[Santos Laguna]]}}
+{{nat fs g player |no=2  |pos=DF |name=[[Diego Cortés]] |age={{birth date and age2|df=yes|2015|10|17|1998|6|18}} |caps=6|goals=0 |clubnat=MEX |club=[[C.D. Guadalajara|Guadalajara]]}}
+{{nat fs g player |no=3  |pos=DF |name=[[José Joaquín Esquivel|Joaquín Esquivel]] |age={{birth date and age2|df=yes|2015|10|17|1998|1|7}} |caps=6|goals=0 |clubnat=MEX |club=[[Mineros de Zacatecas|Zacatecas]]}}
+{{nat fs g player |no=4  |pos=DF |name='''[[Francisco Eduardo Venegas|Francisco Venegas]]''' |age={{birth date and age2|df=yes|2015|10|17|1998|7|16}} |caps=6|goals=1 |clubnat=MEX |club=[[C.F. Pachuca|Pachuca]]}}
+{{nat fs g player |no=5  |pos=DF |name=[[Ulises Torres]] |age={{birth date and age2|df=yes|2015|10|17|1998|2|17}} |caps=6|goals=4 |clubnat=MEX |club=[[Club América|América]]}}
+{{nat fs g player |no=6   |pos=MF |name=[[Alan Cervantes]] |age={{birth date and age2|df=yes|2015|10|17|1998|1|17}} |caps=6|goals=0 |clubnat=MEX |club=[[C.D. Guadalajara|Guadalajara]]}}
+{{nat fs g player |no=7  |pos=DF |name=[[Edwin Lara]] |age={{birth date and age2|df=yes|2015|10|17|1999|9|8}} |caps=6|goals=2 |clubnat=MEX |club=[[C.F. Pachuca|Pachuca]]}}
+{{nat fs g player |no=8  |pos=MF |name=[[Pablo César López|Pablo López]] |age={{birth date and age2|df=yes|2015|10|17|1998|1|7}} |caps=6|goals=1 |clubnat=MEX |club=[[C.F. Pachuca|Pachuca]]}}
+{{nat fs g player |no=9  |pos=FW |name=[[Eduardo Aguirre (footballer)|Eduardo Aguirre]] |age={{birth date and age2|df=yes|2015|10|17|1998|8|3}} |caps=6|goals=1 |clubnat=MEX |club=[[Santos Laguna]]}}
+{{nat fs g player |no=10  |pos=FW |name=[[Claudio Zamudio]] |age={{birth date and age2|df=yes|2015|10|17|1998|3|30}} |caps=6|goals=3 |clubnat=MEX |club=[[Monarcas Morelia|Morelia]]}}
+{{nat fs g player |no=11  |pos=MF |name=[[Kevin Magaña]] |age={{birth date and age2|df=yes|2015|10|17|1998|2|1}} |caps=6|goals=1 |clubnat=MEX |club=[[C.D. Guadalajara|Guadalajara]]}}
+{{nat fs g player |no=12 |pos=GK |name=[[Fernando Daniel Hernández|Fernando Hernández]] |age={{birth date and age2|df=yes|2015|10|17|1998|1|2}}  |caps=0|goals=0 |clubnat=MEX |club=[[C.F. Monterrey|Monterrey]]}}
+{{nat fs g player |no=13  |pos=DF |name=[[Bryan Salazar Haro|Bryan Salazar]] |age={{birth date and age2|df=yes|2015|10|17|1998|2|25}} |caps=1|goals=0 |clubnat=MEX |club=[[C.D. Guadalajara|Guadalajara]]}}
+{{nat fs g player |no=14  |pos=DF |name=[[Brayton Vázquez]] |age={{birth date and age2|df=yes|2015|10|17|1998|5|5}} |caps=0|goals=0 |clubnat=MEX |club=[[Atlas F.C.|Atlas]]}}
+{{nat fs g player |no=15  |pos=MF |name=[[Kevin Lara]] |age={{birth date and age2|df=yes|2015|10|17|1998|4|18}} |caps=2|goals=0 |clubnat=MEX |club=[[Santos Laguna]]}}
+{{nat fs g player |no=16  |pos=MF |name=[[Javier Ibarra]] |age={{birth date and age2|df=yes|2015|10|17|1998|2|6}} |caps=0|goals=0 |clubnat=MEX |club=[[C.F. Monterrey|Monterrey]]}}
+{{nat fs g player |no=17  |pos=MF |name=[[Nahum Gómez]] |age={{birth date and age2|df=yes|2015|10|17|1998|1|19}} |caps=0|goals=0 |clubnat=MEX |club=[[C.F. Pachuca|Pachuca]]}}
+{{nat fs g player |no=18  |pos=MF |name=[[Fernando Valdemar Escalante|Fernando Escalante]] |age={{birth date and age2|df=yes|2015|10|17|1998|1|6}}  |caps=0|goals=0 |clubnat=MEX |club=[[C.F. Pachuca|Pachuca]]}}
+{{nat fs g player |no=19  |pos=FW |name=[[Ricardo Marín (footballer)|Ricardo Marín]] |age={{birth date and age2|df=yes|2015|10|17|1998|3|18}} |caps=0|goals=0 |clubnat=MEX |club=[[Club América|América]]}}
+{{nat fs g player |no=20   |pos=FW |name=[[José Gurrola]] |age={{birth date and age2|df=yes|2015|10|17|1998|4|15}} |caps=6|goals=2 |clubnat=MEX |club=[[C.D. Guadalajara|Guadalajara]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Abraham Romero]] |age={{birth date and age2|df=yes|2015|10|17|1998|2|18}} |caps=6|goals=0  |clubnat=USA |club=[[LA Galaxy]]}}
+{{nat fs end}}
+
+==Group D==
+
+==={{fbu|17|BEL}}===
+Head coach: {{flagicon|BEL}} [[Bob Browaeys]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Jens Teunckens]]        |age={{birth date and age2|2015|10|17|1998|1|30|df=y}} |caps=|goals= |club=[[Club Brugge K.V.|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=2|pos=DF|name=[[Kino Delorge]]          |age={{birth date and age2|2015|10|17|1998|1|5|df=y}} |caps=|goals= |club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=3|pos=MF|name=[[Rubin Seigers]]         |age={{birth date and age2|2015|10|17|1998|1|11|df=y}} |caps=|goals= |club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=4|pos=DF|name=[[Wout Faes]]             |age={{birth date and age2|2015|10|17|1998|4|3|df=y}} |caps=|goals= |club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs g player|no=5|pos=DF|name=[[Christophe Janssens]]   |age={{birth date and age2|2015|10|17|1998|3|9|df=y}} |caps=|goals= |club=[[Club Brugge K.V.|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=6|pos=MF|name=[[Matisse Thuys]]         |age={{birth date and age2|2015|10|17|1998|1|24|df=y}} |caps=|goals=|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=7|pos=MF|name=[[Dante Vanzeir]]         |age={{birth date and age2|2015|10|17|1998|4|16|df=y}} |caps=|goals=|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=8|pos=MF|name=[[Dante Rigo]]            |age={{birth date and age2|2015|10|17|1998|12|11|df=y}}|caps=|goals= |club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=9|pos=FW|name=[[Dennis Van Vaerenbergh]]|age={{birth date and age2|2015|10|17|1998|6|26|df=y}} |caps=|goals=|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=10|pos=MF|name=[[Alper Ademoglu]]        |age={{birth date and age2|2015|10|17|1998|4|10|df=y}}|caps=|goals=|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs g player|no=11|pos=MF|name=[[Ismail Azzaoui]]        |age={{birth date and age2|2015|10|17|1998|1|6|df=y}} |caps=|goals=|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=GK|name=[[Paul Mertens]]         |age={{birth date and age2|2015|10|17|1998|11|3|df=y}}|caps=|goals= |club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=13|pos=DF|name=[[Dries Caignau]]         |age={{birth date and age2|2015|10|17|1998|1|8|df=y}} |caps=|goals= |club=[[K.A.A. Gent|Gent]] |clubnat=BEL}}
+{{nat fs g player|no=14|pos=DF|name=[[Laurent Lemoine]]       |age={{birth date and age2|2015|10|17|1998|4|24|df=y}} |caps=|goals= |club=[[Club Brugge K.V.|Club Brugge]] |clubnat=BEL}}
+{{nat fs g player|no=15|pos=DF|name=[[Steve Ryckaert]]|age={{birth date and age2|2015|10|17|1998|6|29|df=y}} |caps=|goals= |club=[[K.A.A. Gent|Gent]]|clubnat=BEL}}
+{{nat fs g player|no=16|pos=MF|name=[[Orel Mangala]]          |age={{birth date and age2|2015|10|17|1998|3|18|df=y}} |caps=|goals= |club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs g player|no=17|pos=MF|name=[[Lennerd Daneels]]      |age={{birth date and age2|2015|10|17|1998|4|10|df=y}}|caps=|goals= |club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=18|pos=MF|name=[[Matthias Verreth]]      |age={{birth date and age2|2015|10|17|1998|2|20|df=y}} |caps=|goals=|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=19|pos=FW|name=[[Jorn Vancamp]]          |age={{birth date and age2|2015|10|17|1998|10|28|df=y}}|caps=|goals=|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs g player|no=20|pos=FW|name=[[Terry Osei-Berkoe]]|age={{birth date and age2|2015|10|17|1998|1|9|df=y}}|caps=|goals=|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=21|pos=GK|name=[[Steph Van Cauwenberge]]|age={{birth date and age2|2015|10|17|1998|5|19|df=y}}|caps=|goals=|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=BEL}}
+{{nat fs end}}
+
+==={{fbu|17|ECU}}===
+Head coach: {{flagicon|ECU}} José Rodríguez
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[José Gabriel Cevallos|José Cevallos]] |age={{birth date and age2|2015|10|17|1998|3|19|df=y}} |caps= |goals= |clubnat=ECU |club=[[LDU Quito]]}}
+{{nat fs g player |no=2 |pos=DF |name=[[Joan Cortez]] |age={{birth date and age2|2015|10|17|1998|1|13|df=y}} |caps= |goals= |clubnat=ECU |club=[[Club Sport Norte América|Norte América]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[Joel Quintero]] |age={{birth date and age2|2015|10|17|1998|9|25|df=y}} |caps= |goals= |clubnat=ECU |club=[[Club Sport Emelec|Emelec]]}}
+{{nat fs g player |no=4 |pos=DF |name=[[Kevin Minda]] |age={{birth date and age2|2015|10|17|1998|11|21|df=y}} |caps= |goals= |clubnat=ECU |club=[[LDU Quito]]}}
+{{nat fs g player |no=5 |pos=MF |name=[[Juan Nazareno]] |age={{birth date and age2|2015|10|17|1998|8|18|df=y}} |caps= |goals= |clubnat=ECU |club=[[Independiente del Valle]]}}
+{{nat fs g player |no=6 |pos=DF |name=[[Jhonner Montezuma]] |age={{birth date and age2|2015|10|17|1998|1|11|df=y}} |caps= |goals= |clubnat=ECU |club=[[Club Sport Norte América|Norte América]]}}
+{{nat fs g player |no=7 |pos=FW |name=[[Washington Corozo]] |age={{birth date and age2|2015|10|17|1998|7|9|df=y}} |caps= |goals= |clubnat=ECU |club=[[Independiente del Valle]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Janus Vivar]] |age={{birth date and age2|2015|10|17|1998|9|7|df=y}} |caps= |goals= |clubnat=ECU |club=[[Club Sport Norte América|Norte América]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Angel Vasquez]] |age={{birth date and age2|2015|10|17|1998|3|12|df=y}} |caps= |goals= |clubnat=ECU |club=[[Barcelona Sporting Club|Barcelona]]}}
+{{nat fs g player |no=10 |pos=MF |name=[[Yeison Guerrero]] |age={{birth date and age2|2015|10|17|1998|4|21|df=y}} |caps= |goals= |clubnat=ECU |club=[[Independiente del Valle]]}}
+{{nat fs g player |no=11 |pos=FW |name=[[Jhon Pereira]] |age={{birth date and age2|2015|10|17|1998|9|3|df=y}} |caps= |goals= |clubnat=ECU |club=[[Club Sport Norte América|Norte América]]}}
+{{nat fs g player |no=12 |pos=GK |name=[[Gian Terreros]] |age={{birth date and age2|2015|10|17|1998|5|14|df=y}} |caps= |goals= |clubnat=ECU |club=[[Barcelona Sporting Club|Barcelona]]}}
+{{nat fs g player |no=13 |pos=MF |name=[[Byron Castillo]] |age={{birth date and age2|2015|10|17|1998|11|10|df=y}} |caps= |goals= |clubnat=ECU |club=[[Club Sport Norte América|Norte América]]}}
+{{nat fs g player |no=14 |pos=MF |name=[[Renny Jaramillo]] |age={{birth date and age2|2015|10|17|1998|6|12|df=y}} |caps= |goals= |clubnat=ECU |club=[[Independiente del Valle]]}}
+{{nat fs g player |no=15 |pos=MF |name='''[[Alan Franco (footballer, born 1998)|Alan Franco]]'''|age={{birth date and age2|2015|10|17|1998|8|21|df=y}} |caps= |goals= |clubnat=ECU |club=[[Independiente del Valle]]}}
+{{nat fs g player |no=16 |pos=DF |name=[[José Flor]] |age={{birth date and age2|2015|10|17|1998|4|5|df=y}} |caps= |goals= |clubnat=ECU |club=[[Club Deportivo El Nacional|El Nacional]]}}
+{{nat fs g player |no=17 |pos=DF |name='''[[Pervis Estupiñán]]''' |age={{birth date and age2|2015|10|17|1998|1|21|df=y}} |caps= |goals= |clubnat=ECU |club=[[LDU Quito]]}}
+{{nat fs g player |no=18 |pos=MF |name=[[Peter Valencia]] |age={{birth date and age2|2015|10|17|1998|1|27|df=y}} |caps= |goals= |clubnat=ECU |club=[[Club Deportivo River Plate Ecuador|River Plate]]}}
+{{nat fs g player |no=19 |pos=FW |name=[[Anderson Naula]] |age={{birth date and age2|2015|10|17|1998|6|22|df=y}} |caps= |goals= |clubnat=ECU |club=[[LDU Loja]]}}
+{{nat fs g player |no=20 |pos=DF |name=[[Jean Peña]] |age={{birth date and age2|2015|10|17|1998|3|5|df=y}} |caps= |goals= |clubnat=ECU |club=[[Club Deportivo El Nacional|El Nacional]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Leodán Chala]] |age={{birth date and age2|2015|10|17|1998|1|25|df=y}} |caps= |goals= |clubnat=ECU |club=[[Club Deportivo El Nacional|El Nacional]]}}
+{{nat fs g end}}
+
+==={{fbu|17|HON}}===
+Head coach: José Valladares<ref>[http://www.diez.hn/media/fotogalerias/881595-370/fotos-uno-a-uno-ellos-son-los-21-mundialistas-sub17-de-honduras?mainImg=1 Diez.hn – FOTOS: Uno a uno, ellos son los 21 mundialistas Sub17 de Honduras] – 19 September 2015</ref>
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Michael Perelló]]|age={{birth date and age2|2015|10|17|1998|7|11|df=y}}|caps=|goals=|club=[[Platense F.C.|Platense]]|clubnat=HON}}
+{{nat fs g player|no=2|pos=DF|name=[[Víctor Matamoros]]|age={{birth date and age2|2015|10|17|1999|10|8|df=y}}|caps=|goals=|club=[[Club Deportivo Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs g player|no=3|pos=DF|name=[[Wesly Decas]]|age={{birth date and age2|2015|10|17|1999|8|11|df=y}}|caps=|goals=|club=[[Pumas F.C.|Pumas]]|clubnat=HON}}
+{{nat fs g player|no=4|pos=DF|name='''[[Denil Maldonado]]'''|age={{birth date and age2|2015|10|17|1998|3|26|df=y}}|caps=|goals=|club=[[C.D. Motagua|Motagua]]|clubnat=HON}}
+{{nat fs g player|no=5|pos=DF|name=Dylan Andrade|age={{birth date and age2|2015|10|17|1998|3|8|df=y}}|caps=|goals=|club=[[Platense F.C.|Platense]]|clubnat=HON}}
+{{nat fs g player|no=6|pos=MF|name=[[Jorge Daniel Álvarez|Jorge Álvarez]]|age={{birth date and age2|2015|10|17|1998|1|28|df=y}}|caps=|goals=|club=[[Club Deportivo Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs g player|no=7|pos=FW|name=[[Foslyn Grant]]|age={{birth date and age2|2015|10|17|1998|10|4|df=y}}|caps=|goals=|club=[[C.D. Motagua|Motagua]]|clubnat=HON}}
+{{nat fs g player|no=8|pos=MF|name=[[Erick Arias]]|age={{birth date and age2|2015|10|17|1998|1|30|df=y}}|caps=|goals=|club=[[Comayagua F.C.|Comayagua]]|clubnat=HON}}
+{{nat fs g player|no=9|pos=FW|name=[[Darixon Vuelto]]|age={{birth date and age2|2015|10|17|1998|1|15|df=y}}|caps=|goals=|club=[[C.D. Victoria|Victoria]]|clubnat=HON}}
+{{nat fs g player|no=10|pos=MF|name=[[Jafeth Leiva]]|age={{birth date and age2|2015|10|17|1999|3|12|df=y}}|caps=|goals=|club=[[Club Deportivo Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs g player|no=11|pos=MF|name=[[Jancarlo Vargas]]|age={{birth date and age2|2015|10|17|1998|5|16|df=y}}|caps=|goals=|club=[[Platense F.C.|Platense]]|clubnat=HON}}
+{{nat fs g player|no=12|pos=GK|name=[[Javier Alejandro Delgado|Javier Delgado]]|age={{birth date and age2|2015|10|17|1998|11|6|df=y}}|caps=|goals=|club=[[C.D. Honduras|Honduras Progreso]]|clubnat=HON}}
+{{nat fs g player|no=13|pos=FW|name=[[Óscar Castro (footballer)|Óscar Castro]]|age={{birth date and age2|2015|10|17|1998|2|16|df=y}}|caps=|goals=|club=[[Real C.D. España|Real España]]|clubnat=HON}}
+{{nat fs g player|no=14|pos=DF|name=[[Allan Rivera]]|age={{birth date and age2|2015|10|17|1998|3|23|df=y}}|caps=|goals=|club=[[Real C.D. España|Real España]]|clubnat=HON}}
+{{nat fs g player|no=15|pos=MF|name=[[Kevin Castro]]|age={{birth date and age2|2015|10|17|1998|10|9|df=y}}|caps=|goals=|club=[[C.D. Motagua|Motagua]]|clubnat=HON}}
+{{nat fs g player|no=16|pos=DF|name=[[Gabriel Eduardo Ortiz|Gabriel Ortiz]]|age={{birth date and age2|2015|10|17|1998|2|9|df=y}}|caps=|goals=|club=[[Club Deportivo Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs g player|no=17|pos=MF|name=[[José Raúl Galeano|José Galeano]]|age={{birth date and age2|2015|10|17|1998|2|22|df=y}}|caps=|goals=|club=[[Parrillas One]]|clubnat=HON}}
+{{nat fs g player|no=18|pos=FW|name=[[David Alejandro Sánchez|David Sánchez]]|age={{birth date and age2|2015|10|17|1998|3|19|df=y}}|caps=|goals=|club=[[Club Deportivo Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs g player|no=19|pos=MF|name=[[Wisdom Quaye]]|age={{birth date and age2|2015|10|17|1998|4|8|df=y}}|caps=|goals=|club=[[C.D.S. Vida|Vida]]|clubnat=HON}}
+{{nat fs g player|no=20|pos=DF|name=[[Darwin Diego]]|age={{birth date and age2|2015|10|17|1999|7|14|df=y}}|caps=|goals=|club=[[C.D.S. Vida|Vida]]|clubnat=HON}}
+{{nat fs g player|no=21|pos=GK|name=[[Henry Mashburn]]|age={{birth date and age2|2015|10|17|1999|2|8|df=y}}|caps=|goals=|club=Weston|clubnat=USA}}
+{{nat fs g end}}
+
+==={{fbu|17|MLI}}===
+Head coach: {{flagicon|MLI}} [[Baye Ba]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Samuel Diarra]] |age={{birth date and age2|2015|10|17|1998|8|11|df=y}} |caps= |goals= |clubnat=MLI |club=[[ASKO Bamako|ASKO]]}}
+{{nat fs g player |no=2 |pos=DF |name='''[[Abdoul Karim Danté]]''' |age={{birth date and age2|2015|10|17|1998|10|29|df=y}} |caps= |goals= |clubnat=MLI |club=[[Jeanne d'Arc FC]]}}
+{{nat fs g player |no=3 |pos=DF |name='''[[Siaka Bagayoko|Chato]]''' |age={{birth date and age2|2015|10|17|1998|7|4|df=y}} |caps= |goals= |clubnat=MLI |club=[[Djoliba AC]]}}
+{{nat fs g player |no=4 |pos=MF |name=[[Dramane Simpara]] |age={{birth date and age2|2015|10|17|1998|5|5|df=y}} |caps= |goals= |clubnat=MLI |club=[[CS Duguwolofila]]}}
+{{nat fs g player |no=5 |pos=MF |name=[[Mamadou Sangare (footballer)|Mamadou Sangare]] |age={{birth date and age2|2015|10|17|1998|2|19|df=y}} |caps= |goals= |clubnat=MLI |club=[[Cercle Olympique de Bamako]]}}
+{{nat fs g player |no=6 |pos=DF |name=[[Ismaël Traoré (footballer, born 1998)|Ismaël Traoré]] |age={{birth date and age2|2015|10|17|1998|1|2|df=y}} |caps= |goals= |clubnat=MLI |club=[[Centre Salif Keita]]}}
+{{nat fs g player |no=7 |pos=FW |name=[[Sidiki Maïga]] |age={{birth date and age2|2015|10|17|1998|12|28|df=y}} |caps= |goals= |clubnat=MLI |club=[[AS Real Bamako]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Moussa Diakité (footballer)|Moussa Diakité]] |age={{birth date and age2|2015|10|17|1998|12|17|df=y}} |caps= |goals= |clubnat=MLI |club=[[ASKO Bamako|ASKO]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Aly Mallé]] |age={{birth date and age2|2015|10|17|1998|4|3|df=y}} |caps= |goals= |clubnat=MLI |club=[[Black Star FC]]}}
+{{nat fs g player |no=10 |pos=FW |name=[[Mohamed Haidara]] |age={{birth date and age2|2015|10|17|1998|12|31|df=y}} |caps= |goals= |clubnat=MLI |club=[[Djoliba AC]]}}
+{{nat fs g player |no=11 |pos=FW |name=[[Boubacar Traoré (footballer, born 1998)|Boubacar Traoré]] |age={{birth date and age2|2015|10|17|1998|5|24|df=y}} |caps= |goals= |clubnat=MLI |club=[[Jeanne d'Arc FC]]}}
+{{nat fs g player |no=12 |pos=MF |name=[[Sory Ibrahim Keita]] |age={{birth date and age2|2015|10|17|1998|2|5|df=y}} |caps= |goals= |clubnat=MLI |club=[[Danaya AC]]}}
+{{nat fs g player |no=13 |pos=MF |name=[[Bourama Diallo]] |age={{birth date and age2|2015|10|17|1999|2|8|df=y}} |caps= |goals= |clubnat=MLI |club=[[ASKO Bamako|ASKO]]}}
+{{nat fs g player |no=14 |pos=FW |name=[[Mamady Diarra]] |age={{birth date and age2|2015|10|17|2000|6|26|df=y}} |caps= |goals= |clubnat=MLI |club=[[Yeelen FC]]}}
+{{nat fs g player |no=15 |pos=DF |name='''[[Mamadou Fofana]]''' |age={{birth date and age2|2015|10|17|1998|1|21|df=y}} |caps= |goals= |clubnat=MLI |club=[[Stade Malien]]}}
+{{nat fs g player |no=16 |pos=GK |name=[[Alou Traoré (footballer, born 1998)|Alou Traoré]] |age={{birth date and age2|2015|10|17|1998|1|23|df=y}} |caps= |goals= |clubnat=MLI |club=[[Djoliba AC]]}}
+{{nat fs g player |no=17 |pos=FW |name=[[Ousmane Diakité]] |age={{birth date and age2|2015|10|17|2000|6|25|df=y}} |caps= |goals= |clubnat=MLI |club=[[Yeelen FC]]}}
+{{nat fs g player |no=18 |pos=MF |name='''[[Amadou Haidara]]''' |age={{birth date and age2|2015|10|17|1998|1|31|df=y}} |caps= |goals= |clubnat=MLI |club=[[Guidars FC]]}}
+{{nat fs g player |no=19 |pos=MF |name=[[Zoumana Simpara]] |age={{birth date and age2|2015|10|17|1998|2|22|df=y}} |caps= |goals= |clubnat=MLI |club=[[ASKO Bamako|ASKO]]}}
+{{nat fs g player |no=20 |pos=FW |name='''[[Sékou Koïta]]''' |age={{birth date and age2|2015|10|17|1999|11|28|df=y}} |caps= |goals= |clubnat=MLI |club=[[USC Kita]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Drissa Kouyate]] |age={{birth date and age2|2015|10|17|1998|12|17|df=y}} |caps= |goals= |clubnat=MLI |club=[[Black Star FC]]}}
+{{nat fs g end}}
+
+==Group E==
+
+==={{fbu|17|CRC}}===
+Head coach: {{flagicon|ARG}} [[Marcelo Herrera (footballer, born 1966)|Marcelo Herrera]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Alejandro Barrientos]] |age={{birth date and age2|2015|10|17|1998|2|11|df=y}} |caps= |goals= |clubnat=CRC |club=[[Deportivo Saprissa|Saprissa]]}}
+{{nat fs g player |no=2 |pos=DF |name=[[Diego Mesén]] |age={{birth date and age2|2015|10|17|1999|3|28|df=y}} |caps= |goals= |clubnat=CRC |club=[[Liga Deportiva Alajuelense|Alajuelense]]}}
+{{nat fs g player |no=3 |pos=DF |name='''[[Pablo Arboine]]''' |age={{birth date and age2|2015|10|17|1998|4|3|df=y}} |caps= |goals= |clubnat=CRC |club=[[Santos de Guápiles]]}}
+{{nat fs g player |no=4 |pos=DF |name='''[[Ian Smith (footballer, born 1998)|Ian Smith]]'''|age={{birth date and age2|2015|10|17|1998|3|6|df=y}} |caps= |goals= |clubnat=CRC |club=[[Santos de Guápiles]]}}
+{{nat fs g player |no=5 |pos=DF |name=[[Esteban González Rivera|Esteban González]] |age={{birth date and age2|2015|10|17|1998|1|30|df=y}} |caps= |goals= |clubnat=CRC |club=[[Deportivo Saprissa|Saprissa]]}}
+{{nat fs g player |no=6 |pos=DF |name=[[Luis Hernández Paniagua|Luis Hernández]] |age={{birth date and age2|2015|10|17|1998|2|7|df=y}} |caps= |goals= |clubnat=CRC |club=[[Deportivo Saprissa|Saprissa]]}}
+{{nat fs g player |no=7 |pos=FW |name=[[Javier Camareno]] |age={{birth date and age2|2015|10|17|1998|1|5|df=y}} |caps= |goals= |clubnat=CRC |club=[[Municipal Liberia]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Aaron Murillo]] |age={{birth date and age2|2015|10|17|1998|3|2|df=y}} |caps= |goals= |clubnat=CRC |club=[[Liga Deportiva Alajuelense|Alajuelense]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Andy Reyes]] |age={{birth date and age2|2015|10|17|1999|4|6|df=y}} |caps= |goals= |clubnat=CRC |club=[[Asociación Deportiva Carmelita|Carmelita]]}}
+{{nat fs g player |no=10 |pos=MF |name=[[Jonathan Martínez]] |age={{birth date and age2|2015|10|17|1998|3|19|df=y}} |caps= |goals= |clubnat=CRC |club=[[Asociación Deportiva Carmelita|Carmelita]]}}
+{{nat fs g player |no=11 |pos=MF |name='''[[Barlon Sequeira]]''' |age={{birth date and age2|2015|10|17|1998|5|25|df=y}} |caps= |goals= |clubnat=CRC |club=[[Liga Deportiva Alajuelense|Alajuelense]]}}
+{{nat fs g player |no=12 |pos=FW |name=[[Sergio Ramírez Montero|Sergio Ramírez]] |age={{birth date and age2|2015|10|17|1998|3|13|df=y}} |caps= |goals= |clubnat=CRC |club=[[Academia Monteverde ]]}}
+{{nat fs g player |no=13 |pos=GK |name=[[Miguel Aju]] |age={{birth date and age2|2015|10|17|1999|11|8|df=y}} |caps= |goals= |clubnat=CRC |club=[[Liga Deportiva Alajuelense|Alajuelense]]}}
+{{nat fs g player |no=14 |pos=MF |name=[[Roberto Córdoba]] |age={{birth date and age2|2015|10|17|1998|7|16|df=y}} |caps= |goals= |clubnat=CRC |club=[[A.D. San Carlos|San Carlos]]}}
+{{nat fs g player |no=15 |pos=FW |name=[[Kevin Masis]] |age={{birth date and age2|2015|10|17|1998|1|5|df=y}} |caps= |goals= |clubnat=CRC |club=[[Santos de Guápiles]]}}
+{{nat fs g player |no=16 |pos=DF |name=[[Daniel Villegas]] |age={{birth date and age2|2015|10|17|1998|1|6|df=y}} |caps= |goals= |clubnat=CRC |club=[[Liga Deportiva Alajuelense|Alajuelense]]}}
+{{nat fs g player |no=17 |pos=MF |name=[[Brandon Salazar]] |age={{birth date and age2|2015|10|17|1998|3|13|df=y}} |caps= |goals= |clubnat=CRC |club=[[Asociación Deportiva Carmelita|Carmelita]]}}
+{{nat fs g player |no=18 |pos=GK |name=[[Patrick Sequeira]] |age={{birth date and age2|2015|10|17|1999|3|1|df=y}} |caps= |goals= |clubnat=CRC |club=[[Limón F.C.|Limón]]}}
+{{nat fs g player |no=19 |pos=DF |name='''[[Yostin Salinas]]''' |age={{birth date and age2|2015|10|17|1998|9|14|df=y}} |caps= |goals= |clubnat=CRC |club=[[Limón F.C.|Limón]]}}
+{{nat fs g player |no=20 |pos=MF |name=[[Eduardo Juárez]] |age={{birth date and age2|2015|10|17|1998|9|22|df=y}} |caps= |goals= |clubnat=CRC |club=[[Liga Deportiva Alajuelense|Alajuelense]]}}
+{{nat fs g player |no=21 |pos=FW |name=[[Alonso Solano]] |age={{birth date and age2|2015|10|17|1998|2|12|df=y}} |caps= |goals= |clubnat=CRC |club=[[C.S. Herediano|Herediano]]}}
+{{nat fs g end}}
+
+==={{fbu|17|PRK}}===
+
+Head coach: {{flagicon|PRK}} [[Yon Kwang-mu]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Ri Chol-song]] |age={{birth date and age2|2015|10|17|1998|3|13|df=y}} |caps= |goals= |clubnat=PRK |club=[[Sobaeksu Sports Club|Sobaeksu]]}}
+{{nat fs g player |no=2 |pos=DF |name=[[Ri Kuk-hyon]] |age={{birth date and age2|2015|10|17|1998|10|30|df=y}} |caps= |goals= |clubnat=PRK |club=[[Chobyong Sports Club|Chobyong]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[Kim Wi-song]] |age={{birth date and age2|2015|10|17|1998|1|17|df=y}} |caps= |goals= |clubnat=PRK |club=[[Chobyong Sports Club|Chobyong]]}}
+{{nat fs g player |no=4 |pos=DF |name=[[Kim Ho-gyong]] |age={{birth date and age2|2015|10|17|1999|9|16|df=y}} |caps= |goals= |clubnat=PRK |club=[[Sobaeksu Sports Club|Sobaeksu]]}}
+{{nat fs g player |no=5 |pos=MF |name=[[Kang Song-jin]] |age={{birth date and age2|2015|10|17|1999|10|5|df=y}} |caps= |goals= |clubnat=PRK |club=[[Amrokgang Sports Club|Amrokgang]]}}
+{{nat fs g player |no=6 |pos=MF |name=[[Kim Ye-bom]] |age={{birth date and age2|2015|10|17|1998|2|18|df=y}} |caps= |goals= |clubnat=PRK |club=[[Chobyong Sports Club|Chobyong]]}}
+{{nat fs g player |no=7 |pos=MF |name=[[Pak Yong-gwan]] |age={{birth date and age2|2015|10|17|1998|12|26|df=y}} |caps= |goals= |clubnat=PRK |club=[[Chobyong Sports Club|Chobyong]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Yon Jun-hyok]] |age={{birth date and age2|2015|10|17|1998|1|15|df=y}} |caps= |goals= |clubnat=PRK |club=[[Sobaeksu Sports Club|Sobaeksu]]}}
+{{nat fs g player |no=9 |pos=FW |name='''[[Han Kwang-song]]''' |age={{birth date and age2|2015|10|17|1998|9|11|df=y}} |caps= |goals= |clubnat=PRK |club=[[Chobyong Sports Club|Chobyong]]}}
+{{nat fs g player |no=10 |pos=MF |name='''[[Choe Song-hyok]]''' |age={{birth date and age2|2015|10|17|1998|2|8|df=y}} |caps= |goals= |clubnat=PRK |club=[[Chobyong Sports Club|Chobyong]]}}
+{{nat fs g player |no=11 |pos=FW |name=[[Jong Chang-bom]] |age={{birth date and age2|2015|10|17|1998|8|10|df=y}} |caps= |goals= |clubnat=PRK |club=[[Sobaeksu Sports Club|Sobaeksu]]}}
+{{nat fs g player |no=12 |pos=MF |name=[[Kim Ji-song]] |age={{birth date and age2|2015|10|17|1999|2|19|df=y}} |caps= |goals= |clubnat=PRK |club=[[Chobyong Sports Club|Chobyong]]}}
+{{nat fs g player |no=13 |pos=FW |name=[[Jong Se-myong]] |age={{birth date and age2|2015|10|17|1999|3|11|df=y}} |caps= |goals= |clubnat=PRK |club=[[Sonbong Sports Club|Sonbong]]}}
+{{nat fs g player |no=14 |pos=DF |name=[[Choe Jin-nam]] |age={{birth date and age2|2015|10|17|1998|11|20|df=y}} |caps= |goals= |clubnat=PRK |club=[[Chobyong Sports Club|Chobyong]]}}
+{{nat fs g player |no=15 |pos=DF |name=[[Kim Yong-saeng]] |age={{birth date and age2|2015|10|17|1998|9|22|df=y}} |caps= |goals= |clubnat=PRK |club=[[April 25 Sports Club|25 April]]}}
+{{nat fs g player |no=16 |pos=MF |name=[[O Chung-guk]] |age={{birth date and age2|2015|10|17|1998|3|6|df=y}} |caps= |goals= |clubnat=PRK |club=[[Chobyong Sports Club|Chobyong]]}}
+{{nat fs g player |no=17 |pos=DF |name=[[Jang Song-il]] |age={{birth date and age2|2015|10|17|1998|3|21|df=y}} |caps= |goals= |clubnat=PRK |club=[[Sobaeksu Sports Club|Sobaeksu]]}}
+{{nat fs g player |no=18 |pos=GK |name=[[Ryu Hyok]] |age={{birth date and age2|2015|10|17|1999|1|18|df=y}} |caps= |goals= |clubnat=PRK |club=[[Wolmido Sports Club|Wolmido]]}}
+{{nat fs g player |no=19 |pos=MF |name=[[Jo Wi-song]] |age={{birth date and age2|2015|10|17|1998|12|19|df=y}} |caps= |goals= |clubnat=PRK |club=[[Sobaeksu Sports Club|Sobaeksu]]}}
+{{nat fs g player |no=20 |pos=FW |name=[[Ryang Hyon-ju]] |age={{birth date and age2|2015|10|17|1998|5|31|df=y}} |caps= |goals= |clubnat=JPN |club=[[Tokyo Korea HS]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Jong Ju-song]] |age={{birth date and age2|2015|10|17|1998|1|2|df=y}} |caps= |goals= |clubnat=PRK |club=[[Chobyong Sports Club|Chobyong]]}}
+{{nat fs g end}}
+
+==={{fbu|17|RUS}}===
+
+Head coach: {{flagicon|RUS}} [[Mikhail Galaktionov]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Denis Adamov]] |age={{birth date and age2|2015|10|17|1998|2|20|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Krasnodar|Krasnodar]]}}
+{{nat fs g player |no=2 |pos=DF |name=Andrei Kudryavtsev |age={{birth date and age2|2015|10|17|1998|11|6|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]}}
+{{nat fs g player |no=3 |pos=DF |name=Konstantin Kotov |age={{birth date and age2|2015|10|17|1998|6|25|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]}}
+{{nat fs g player |no=4 |pos=DF |name=[[Danil Krugovoy]] |age={{birth date and age2|2015|10|17|1998|5|28|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]}}
+{{nat fs g player |no=5 |pos=MF |name=[[Aleksei Tatayev]] |age={{birth date and age2|2015|10|17|1998|10|8|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Krasnodar|Krasnodar]]}}
+{{nat fs g player |no=6 |pos=MF |name=Ivan Galanin |age={{birth date and age2|2015|10|17|1998|6|5|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]}}
+{{nat fs g player |no=7 |pos=MF |name=[[Dmitry Pletnyov (footballer)|Dmitry Pletnyov]] |age={{birth date and age2|2015|10|17|1998|1|16|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Georgi Makhatadze]] |age={{birth date and age2|2015|10|17|1998|3|26|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]}}
+{{nat fs g player |no=9 |pos=FW |name='''[[Fyodor Chalov]]''' |age={{birth date and age2|2015|10|17|1998|4|10|df=y}} |caps= |goals= |clubnat=RUS |club=[[PFC CSKA Moscow|CSKA Moscow]]}}
+{{nat fs g player |no=10 |pos=MF |name=[[Boris Tsygankov]] |age={{birth date and age2|2015|10|17|1998|4|17|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Spartak Moscow|Spartak Moscow]]}}
+{{nat fs g player |no=11 |pos=FW |name=[[Aleksandr Lomovitsky]] |age={{birth date and age2|2015|10|17|1998|1|27|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Spartak Moscow|Spartak Moscow]]}}
+{{nat fs g player |no=12 |pos=GK |name=[[Aleksandr Maksimenko (footballer, born 1998)|Aleksandr Maksimenko]] |age={{birth date and age2|2015|10|17|1998|3|19|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Spartak Moscow|Spartak Moscow]]}}
+{{nat fs g player |no=13 |pos=FW |name=Yegor Denisov |age={{birth date and age2|2015|10|17|1998|2|6|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]}}
+{{nat fs g player |no=14 |pos=DF |name=[[Nikolai Prudnikov]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Chertanovo Moscow|Chertanovo Moscow]]}}
+{{nat fs g player |no=15 |pos=DF |name=[[Semyon Matviychuk]] |age={{birth date and age2|2015|10|17|1998|5|1|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Dynamo Moscow|Dynamo Moscow]]}}
+{{nat fs g player |no=16 |pos=MF |name=[[Anatoli Anisimov]] |age={{birth date and age2|2015|10|17|1998|5|23|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Rubin Kazan|Rubin Kazan]]}}
+{{nat fs g player |no=17 |pos=DF |name=[[Pavel Lelyukhin]] |age={{birth date and age2|2015|10|17|1998|4|23|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Spartak Moscow|Spartak Moscow]]}}
+{{nat fs g player |no=18 |pos=DF |name=Amir Gavrilov |age={{birth date and age2|2015|10|17|1998|6|13|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Rubin Kazan|Rubin Kazan]]}}
+{{nat fs g player |no=19 |pos=MF |name=[[Konstantin Kuchayev]] |age={{birth date and age2|2015|10|17|1998|3|18|df=y}} |caps= |goals= |clubnat=RUS |club=[[PFC CSKA Moscow|CSKA Moscow]]}}
+{{nat fs g player |no=20 |pos=FW |name=Andrei Zakharov |age={{birth date and age2|2015|10|17|1998|8|15|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Chertanovo Moscow|Chertanovo Moscow]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Ivan Zirikov]] |age={{birth date and age2|2015|10|17|1998|2|6|df=y}} |caps= |goals= |clubnat=RUS |club=[[FC Dynamo Moscow|Dynamo Moscow]]}}
+{{nat fs g end}}
+
+==={{fbu|17|RSA}}===
+
+Head coach: {{flagicon|RSA}} [[Molefi Ntseki]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Sanele Tshabalala]] |age={{birth date and age2|2015|10|17|1998|5|12|df=y}} |caps= |goals= |clubnat=RSA |club=[[Bidvest Wits F.C.|Bidvest Wits]]}}
+{{nat fs g player |no=2 |pos=MF |name=[[Simon Nqoi]] |age={{birth date and age2|2015|10|17|1998|6|28|df=y}} |caps= |goals= |clubnat=RSA |club=[[SuperSport United F.C.|SuperSport United]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[Riyaaz Ismail]] |age={{birth date and age2|2015|10|17|1998|1|5|df=y}} |caps= |goals= |clubnat=RSA |club=[[Hellenic F.C.|Hellenic]]}}
+{{nat fs g player |no=4 |pos=DF |name=[[Kateglo Mohamme]] |age={{birth date and age2|2015|10|17|1998|3|10|df=y}} |caps= |goals= |clubnat=RSA |club=[[SuperSport United F.C.|SuperSport United]]}}
+{{nat fs g player |no=5 |pos=MF |name=[[Athenkosi Dlala]] |age={{birth date and age2|2015|10|17|1998|2|6|df=y}} |caps= |goals= |clubnat=RSA |club=[[SuperSport United F.C.|SuperSport United]]}}
+{{nat fs g player |no=6 |pos=DF |name=[[Notha Ngcobo]] |age={{birth date and age2|2015|10|17|1999|1|10|df=y}} |caps= |goals= |clubnat=RSA |club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]}}
+{{nat fs g player |no=7 |pos=MF |name=[[Vuyo Mantjie]] |age={{birth date and age2|2015|10|17|1998|6|22|df=y}} |caps= |goals= |clubnat=RSA |club=[[Harmony Academy]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Sibongakonke Mbatha]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}} |caps= |goals= |clubnat=RSA |club=[[School of Exellence]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Luvuyo Mkatshana]] |age={{birth date and age2|2015|10|17|1998|4|20|df=y}} |caps= |goals= |clubnat=RSA |club=[[Bidvest Wits F.C.|Bidvest Wits]]}}
+{{nat fs g player |no=10 |pos=MF |name=[[Nelson Maluleke]] |age={{birth date and age2|2015|10|17|1998|4|1|df=y}} |caps= |goals= |clubnat=RSA |club=[[SuperSport United F.C.|SuperSport United]]}}
+{{nat fs g player |no=11 |pos=MF |name=[[Sphephelo Sithole]] |age={{birth date and age2|2015|10|17|1999|3|3|df=y}} |caps= |goals= |clubnat=RSA |club=[[Kwazulu Natal Academy]]}}
+{{nat fs g player |no=12 |pos=MF |name='''[[Wiseman Meyiwa]]''' |age={{birth date and age2|2015|10|17|1999|12|27|df=y}} |caps= |goals= |clubnat=RSA |club=[[Kaizer Chiefs F.C.|Kaizer Chiefs]]}}
+{{nat fs g player |no=13 |pos=DF |name=[[Thendo Mukumela]] |age={{birth date and age2|2015|10|17|1998|1|30|df=y}} |caps= |goals= |clubnat=RSA |club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]}}
+{{nat fs g player |no=14 |pos=MF |name=[[Tebogo Qinisile]] |age={{birth date and age2|2015|10|17|1998|5|13|df=y}} |caps= |goals= |clubnat=RSA |club=[[Bloemfontein Celtic F.C.|Bloemfontein Celtic]]}}
+{{nat fs g player |no=15 |pos=DF |name=[[Keanu Cupido]] |age={{birth date and age2|2015|10|17|1998|1|15|df=y}} |caps= |goals= |clubnat=RSA |club=[[Diambars Academy]]}}
+{{nat fs g player |no=16 |pos=GK |name=[[Mondli Mpoto]] |age={{birth date and age2|2015|10|17|1998|7|24|df=y}} |caps= |goals= |clubnat=RSA |club=[[SuperSport United F.C.|SuperSport United]]}}
+{{nat fs g player |no=17 |pos=FW |name=[[Khanyisa Mayo]] |age={{birth date and age2|2015|10|17|1998|8|27|df=y}} |caps= |goals= |clubnat=RSA |club=[[SuperSport United F.C.|SuperSport United]]}}
+{{nat fs g player |no=18 |pos=FW |name=[[Dylan Stoffels]] |age={{birth date and age2|2015|10|17|1999|1|18|df=y}} |caps= |goals= |clubnat=RSA |club=[[AmaZulu F.C.|AmaZulu]]}}
+{{nat fs g player |no=19 |pos=FW |name=[[Kobamelo Kodisang]] |age={{birth date and age2|2015|10|17|1999|8|28|df=y}} |caps= |goals= |clubnat=RSA |club=[[Platinum Stars F.C.|Platinum Stars]]}}
+{{nat fs g player |no=20 |pos=MF |name='''[[Reeve Frosler]]''' |age={{birth date and age2|2015|10|17|1998|1|11|df=y}} |caps= |goals= |clubnat=RSA |club=[[Bidvest Wits F.C.|Bidvest Wits]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Walter Kubheka]] |age={{birth date and age2|2015|10|17|1999|1|7|df=y}} |caps= |goals= |clubnat=RSA |club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]}}
+{{nat fs g end}}
+
+==Group F==
+==={{fbu|17|FRA}}===
+Head coach: {{flagicon|FRA}} [[Jean-Claude Giuntini]]<ref>http://www.fff.fr/equipes-de-france/8/u18/derniere-selection</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1 |pos=GK |name=[[Luca Zidane]] |age={{Birth date and age2|2015|10|17|1998|5|13|df=y}}|caps= |goals= |club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP }}
+{{nat fs g player|no=2 |pos=DF |name=[[Peter Ouaneh]]|age={{Birth date and age2|2015|10|17|1998|4|4|df=y}}|caps= |goals= |club=[[FC Lorient|Lorient]]|clubnat=FRA }}
+{{nat fs g player|no=3 |pos=DF |name=[[Mamadou Doucouré]] |age={{Birth date and age2|2015|10|17|1998|5|21|df=y}}|caps= |goals= |club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA }}
+{{nat fs g player|no=4 |pos=DF |name=[[Hugo Mesbah]]|age={{Birth date and age2|2015|10|17|1998|2|1|df=y}}|caps= |goals= |club=[[Tours FC|Tours]]|clubnat=FRA }}
+{{nat fs g player|no=5 |pos=DF |name='''[[Dayot Upamecano]]''' |age={{Birth date and age2|2015|10|17|1998|10|27|df=y}}|caps= |goals= |club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT }}
+{{nat fs g player|no=6 |pos=MF |name=[[Jean Ruiz]] |age={{Birth date and age2|2015|10|17|1998|4|6|df=y}}|caps= |goals= |club=[[FC Sochaux-Montbéliard|Sochaux]]|clubnat=FRA }}
+{{nat fs g player|no=7 |pos=MF |name=[[Alexis Claude-Maurice]] |age={{Birth date and age2|2015|10|17|1998|6|6|df=y}}|caps= |goals= |club=[[FC Lorient|Lorient]]|clubnat=FRA }}
+{{nat fs g player|no=8 |pos=FW |name=[[Odsonne Édouard]] |age={{Birth date and age2|2015|10|17|1998|1|16|df=y}}|caps= |goals= |club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA }}
+{{nat fs g player|no=9 |pos=FW |name=[[Jeff Reine-Adélaïde]] |age={{Birth date and age2|2015|10|17|1998|1|17|df=y}}|caps= |goals= |club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG }}
+{{nat fs g player|no=10 |pos=MF |name=[[Timothé Cognat]] |age={{Birth date and age2|2015|10|17|1998|1|25|df=y}}|caps= |goals= |club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA }}
+{{nat fs g player|no=11 |pos=MF |name=[[Nicolas Janvier]] |age={{Birth date and age2|2015|10|17|1998|8|11|df=y}}|caps= |goals= |club=[[Stade Rennais F.C.|Rennes]]|clubnat=FRA }}
+{{nat fs g player|no=12 |pos=MF |name=[[Bilal Boutobba]] |age={{Birth date and age2|2015|10|17|1998|8|29|df=y}}|caps= |goals= |club=[[Olympique de Marseille|Marseille]]|clubnat=FRA }}
+{{nat fs g player|no=13 |pos=MF |name=[[Lamine Fomba]] |age={{Birth date and age2|2015|10|17|1998|1|26|df=y}}|caps= |goals= |club=[[AJ Auxerre|Auxerre]]|clubnat=FRA }}
+{{nat fs g player|no=14 |pos=DF |name=[[Faitout Maouassa]] |age={{Birth date and age2|2015|10|17|1998|7|6|df=y}}|caps= |goals= |club=[[AS Nancy Lorraine|Nancy]]|clubnat=FRA }}
+{{nat fs g player|no=15 |pos=FW |name=[[Maxime Pélican]] |age={{Birth date and age2|2015|10|17|1998|5|12|df=y}}|caps= |goals= |club=[[Toulouse FC|Toulouse]]|clubnat=FRA }}
+{{nat fs g player|no=16 |pos=GK |name=[[Numan Bostan]] |age={{Birth date and age2|2015|10|17|1998|1|31|df=y}}|caps= |goals= |club=[[Toulouse FC|Toulouse]]|clubnat=FRA }}
+{{nat fs g player|no=17 |pos=DF |name=[[Issa Samba]]<ref> Capped for [[Mauritania national football team|Mauritania]]</ref> |age={{Birth date and age2|2015|10|17|1998|1|29|df=y}}|caps= |goals= |club=[[AJ Auxerre|Auxerre]]|clubnat=FRA }}
+{{nat fs g player|no=18 |pos=FW |name='''[[Jonathan Ikoné]]''' |age={{Birth date and age2|2015|10|17|1998|5|2|df=y}}|caps= |goals= |club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA }}
+{{nat fs g player|no=19 |pos=MF |name=[[Lorenzo Callegari]] |age={{Birth date and age2|2015|10|17|1998|2|27|df=y}}|caps= |goals= |club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA }}
+{{nat fs g player|no=20 |pos=DF |name=[[Alec Georgen]] |age={{Birth date and age2|2015|10|17|1998|9|17|df=y}}|caps= |goals= |club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA }}
+{{nat fs g player|no=21 |pos=GK |name=[[Loïc Badiashile]] |age={{Birth date and age2|2015|10|17|1998|2|5|df=y}}|caps= |goals= |club=[[AS Monaco FC|Monaco]]|clubnat=FRA }}
+{{nat fs g end}}
+
+==={{fbu|17|NZL}}===
+
+Head coach: {{flagicon|NZL}} [[Danny Hay]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name='''[[Michael Woud]]''' |age={{birth date and age2|2015|10|17|1999|1|16|df=y}} |caps= |goals= |clubnat=NZL |club=[[Bay Olympic]]}}
+{{nat fs g player |no=2 |pos=DF |name=[[Jack-Henry Sinclair]] |age={{birth date and age2|2015|10|17|1998|2|23|df=y}} |caps= |goals= |clubnat=NZL |club=[[North Shore United]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[Liam Jones (footballer)|Liam Jones]] |age={{birth date and age2|2015|10|17|1999|1|18|df=y}} |caps= |goals= |clubnat=NZL |club=[[Western Suburbs FC (New Zealand)|Western Suburbs]]}}
+{{nat fs g player |no=4 |pos=MF |name=[[Oliver Ceci]] |age={{birth date and age2|2015|10|17|1998|2|22|df=y}} |caps= |goals= |clubnat=NZL |club=[[North Shore United]]}}
+{{nat fs g player |no=5 |pos=DF |name=[[Liam Williams (footballer)|Liam Williams]] |age={{birth date and age2|2015|10|17|1998|7|17|df=y}} |caps= |goals= |clubnat=NZL |club=[[Western Springs AFC|Western Springs]]}}
+{{nat fs g player |no=6 |pos=DF |name=[[Benjamin Mata]] |age={{birth date and age2|2015|10|17|1998|8|10|df=y}} |caps= |goals= |clubnat=NZL |club=[[Onehunga Sports]]}}
+{{nat fs g player |no=7 |pos=MF |name='''[[Sarpreet Singh]]''' |age={{birth date and age2|2015|10|17|1999|2|20|df=y}} |caps= |goals= |clubnat=NZL |club=[[Wellington United]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Dane Schnell]] |age={{birth date and age2|2015|10|17|1999|5|14|df=y}} |caps= |goals= |clubnat=NZL |club=[[Western Springs AFC|Western Springs]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Connor Probert]] |age={{birth date and age2|2015|10|17|1998|4|6|df=y}} |caps= |goals= |clubnat=NZL |club=[[Western Springs AFC|Western Springs]]}}
+{{nat fs g player |no=10 |pos=FW |name='''[[Logan Rogerson]]''' |age={{birth date and age2|2015|10|17|1998|5|28|df=y}} |caps= |goals= |clubnat=NZL |club=[[Wellington United]]}}
+{{nat fs g player |no=11 |pos=FW |name=[[James McGarry (footballer)|James McGarry]] |age={{birth date and age2|2015|10|17|1998|4|9|df=y}} |caps= |goals= |clubnat=NZL |club=[[Wellington United]]}}
+{{nat fs g player |no=12 |pos=GK |name=[[Reuben Clark (footballer)|Reuben Clark]] |age={{birth date and age2|2015|10|17|1998|8|4|df=y}} |caps= |goals= |clubnat=NZL |club=[[Onehunga Sports]]}}
+{{nat fs g player |no=13 |pos=MF |name=[[Joe Bell (footballer, born 1999)|Joe Bell]] |age={{birth date and age2|2015|10|17|1999|4|27|df=y}} |caps= |goals= |clubnat=NZL |club=[[Miramar Rangers]]}}
+{{nat fs g player |no=14 |pos=MF |name=[[Owen Parker-Price]] |age={{birth date and age2|2015|10|17|1998|12|10|df=y}} |caps= |goals= |clubnat=NZL |club=[[Western Suburbs FC (New Zealand)|Western Suburbs]]}}
+{{nat fs g player |no=15 |pos=DF |name=[[Luke Johnson (footballer)|Luke Johnson]] |age={{birth date and age2|2015|10|17|1998|4|15|df=y}} |caps= |goals= |clubnat=NZL |club=[[North Shore United]]}}
+{{nat fs g player |no=16 |pos=DF |name=[[Hunter Ashworth]] |age={{birth date and age2|2015|10|17|1998|1|8|df=y}} |caps= |goals= |clubnat=USA |club=[[San Francisco Dons men's soccer|University of San Francisco]]}}
+{{nat fs g player |no=17 |pos=MF |name=[[Callum McCowatt]] |age={{birth date and age2|2015|10|17|1999|4|30|df=y}} |caps= |goals= |clubnat=NZL |club=[[Western Suburbs FC (New Zealand)|Western Suburbs]]}}
+{{nat fs g player |no=18 |pos=FW |name=[[Wali Mohammadi]] |age={{birth date and age2|2015|10|17|1999|1|21|df=y}} |caps= |goals= |clubnat=NZL |club=[[Western Suburbs FC (New Zealand)|Western Suburbs]]}}
+{{nat fs g player |no=19 |pos=FW |name=[[Sean Skeens]] |age={{birth date and age2|2015|10|17|1998|9|12|df=y}} |caps= |goals= |clubnat=NZL |club=[[Birkenhead United]]}}
+{{nat fs g player |no=20 |pos=FW |name=[[Lucas Imrie]] |age={{birth date and age2|2015|10|17|1998|5|20|df=y}} |caps= |goals= |clubnat=NZL |club=[[Central United]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Christian Woodbridge]] |age={{birth date and age2|2015|10|17|1998|3|19|df=y}} |caps= |goals= |clubnat=NZL |club=[[Onehunga Sports]]}}
+{{nat fs g end}}
+
+==={{fbu|17|PAR}}===
+
+Head coach: {{flagicon|PAR}} [[Carlos Jara Saguier]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[Gabriel Perrota]] |age={{birth date and age2|2015|10|17|1998|12|26|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Nacional|Nacional]]}}
+{{nat fs g player |no=2 |pos=DF |name=[[Rodi Ferreira]] |age={{birth date and age2|2015|10|17|1998|5|29|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Olimpia|Olimpia]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[Luis Giménez]] |age={{birth date and age2|2015|10|17|1998|8|1|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Olimpia|Olimpia]]}}
+{{nat fs g player |no=4 |pos=DF |name='''[[Blás Riveros]]''' |age={{birth date and age2|2015|10|17|1998|2|3|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Olimpia|Olimpia]]}}
+{{nat fs g player |no=5 |pos=DF |name=[[Marcelo Arce]] |age={{birth date and age2|2015|10|17|1998|3|24|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Olimpia|Olimpia]]}}
+{{nat fs g player |no=6 |pos=MF |name=[[Arturo Aranda]] |age={{birth date and age2|2015|10|17|1998|11|20|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Olimpia|Olimpia]]}}
+{{nat fs g player |no=7 |pos=MF |name='''[[Jorge Morel (footballer)|Jorge Morel]]''' |age={{birth date and age2|2015|10|17|1998|1|22|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Libertad|Libertad]]}}
+{{nat fs g player |no=8 |pos=MF |name='''[[Cristhian Paredes]]''' |age={{birth date and age2|2015|10|17|1998|5|18|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Guarani|Guarani]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Sebastián Ferreira]] |age={{birth date and age2|2015|10|17|1998|2|13|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Sol de América|Sol de América]]}}
+{{nat fs g player |no=10 |pos=FW |name='''[[Sergio Díaz (footballer, born 1998)|Sergio Díaz]]''' |age={{birth date and age2|2015|10|17|1998|3|5|df=y}} |caps= |goals= |clubnat=PAR |club=[[Cerro Porteño]]}}
+{{nat fs g player |no=11 |pos=MF |name=[[Josué Colmán]] |age={{birth date and age2|2015|10|17|1998|7|25|df=y}} |caps= |goals= |clubnat=PAR |club=[[Cerro Porteño]]}}
+{{nat fs g player |no=12 |pos=GK |name=[[Miguel Ángel Martínez Irala|Miguel Ángel Martínez]] |age={{birth date and age2|2015|10|17|1998|9|29|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club General Díaz (Luque)|General Díaz]]}}
+{{nat fs g player |no=13 |pos=DF |name=[[Fernando Lomaquis]] |age={{birth date and age2|2015|10|17|1998|9|5|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Rubio Ñu|Rubio Ñu]]}}
+{{nat fs g player |no=14 |pos=DF |name=[[Óscar Rodas]] |age={{birth date and age2|2015|10|17|1998|2|8|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Olimpia|Olimpia]]}}
+{{nat fs g player |no=15 |pos=DF |name=[[Juan Miguel Ojeda]] |age={{birth date and age2|2015|10|17|1998|4|4|df=y}} |caps= |goals= |clubnat=PAR |club=[[Sportivo Luqueño]]}}
+{{nat fs g player |no=16 |pos=MF |name=[[Nery Balbuena]] |age={{birth date and age2|2015|10|17|1998|6|18|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Nacional|Nacional]]}}
+{{nat fs g player |no=17 |pos=MF |name=[[Marcelino Ñamandú]] |age={{birth date and age2|2015|10|17|1999|7|28|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Rubio Ñu|Rubio Ñu]]}}
+{{nat fs g player |no=18 |pos=MF |name=[[Ricardo Gabazza]] |age={{birth date and age2|2015|10|17|1999|1|21|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Libertad|Libertad]]}}
+{{nat fs g player |no=19 |pos=FW |name=[[René Yvan Cabrera|René Cabrera]] |age={{birth date and age2|2015|10|17|1998|4|16|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Nacional|Nacional]]}}
+{{nat fs g player |no=20 |pos=FW |name=[[Julio Villalba]] |age={{birth date and age2|2015|10|17|1998|9|17|df=y}} |caps= |goals= |clubnat=PAR |club=[[Cerro Porteño]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Óscar Benítez]] |age={{birth date and age2|2015|10|17|1998|7|10|df=y}} |caps= |goals= |clubnat=PAR |club=[[Club Rubio Ñu|Rubio Ñu]]}}
+{{nat fs g end}}
+
+==={{fbu|17|SYR}}===
+Head coach: {{flagicon|SYR}} [[Mohammad Al-Attar]]
+
+{{nat fs g start}}
+{{nat fs g player |no=1 |pos=GK |name=[[William Ghannam]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Majd SC|Al-Majd]]}}
+{{nat fs g player |no=2 |pos=DF |name=[[Taha Al-Aek]] |age={{birth date and age2|2015|10|17|1998|1|2|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Karamah SC|Al-Karamah]]}}
+{{nat fs g player |no=3 |pos=DF |name=[[Omar Lahlah]] |age={{birth date and age2|2015|10|17|1998|1|4|df=y}} |caps= |goals= |clubnat=SYR |club=[[Taliya SC|Taliya]]}}
+{{nat fs g player |no=4 |pos=DF |name=[[Hassan Al-Damen]] |age={{birth date and age2|2015|10|17|1998|1|20|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Ittihad SC Aleppo|Al-Ittihad]]}}
+{{nat fs g player |no=5 |pos=MF |name=[[Hassan Al-Nadaf]] |age={{birth date and age2|2015|10|17|1998|1|10|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Kiswah SC|Al-Kiswah]]}}
+{{nat fs g player |no=6 |pos=MF |name=[[Mohammad Loulou]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}} |caps= |goals= |clubnat=SYR |club=[[Baniyas Refinery SC|Baniyas Refinery]]}}
+{{nat fs g player |no=7 |pos=MF |name=[[Basel Kawabi]] |age={{birth date and age2|2015|10|17|1998|1|3|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Ittihad SC Aleppo|Al-Ittihad]]}}
+{{nat fs g player |no=8 |pos=MF |name=[[Mohammad Al-Hallak]] |age={{birth date and age2|2015|10|17|1999|1|1|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Kiswah SC|Al-Kiswah]]}}
+{{nat fs g player |no=9 |pos=FW |name=[[Naem Ghezal Naem]] |age={{birth date and age2|2015|10|17|1998|5|2|df=y}} |caps= |goals= |clubnat=SYR |club=[[Tishreen SC|Tishreen]]}}
+{{nat fs g player |no=10 |pos=MF |name=[[Abdulrahman Al-Barakat]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Jazeera SC Hasakah|Al-Jazeera]]}}
+{{nat fs g player |no=11 |pos=FW |name=[[Anas Al-Aji]] |age={{birth date and age2|2015|10|17|1998|1|7|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Wahda SC Damascus|Al-Wahda]]}}
+{{nat fs g player |no=12 |pos=MF |name=[[Amin Akil]] |age={{birth date and age2|2015|10|17|1999|2|9|df=y}} |caps= |goals= |clubnat=SYR |club=[[Hutteen SC|Hutteen]]}}
+{{nat fs g player |no=13 |pos=FW |name=[[Mohammad Zid Gharir]] |age={{birth date and age2|2015|10|17|1998|1|10|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Karamah SC|Al-Karamah]]}}
+{{nat fs g player |no=14 |pos=DF |name=[[Mohammad Khoja]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}} |caps= |goals= |clubnat=SYR |club=[[Jableh SC|Jableh]]}}
+{{nat fs g player |no=15 |pos=DF |name=[[Mohammad Al-Kadour]] |age={{birth date and age2|2015|10|17|1998|3|4|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Karamah SC|Al-Karamah]]}}
+{{nat fs g player |no=16 |pos=MF |name=[[Kamel Koaeh]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Shurta SC Damascus|Al-Shurta]]}}
+{{nat fs g player |no=17 |pos=DF |name=[[Sardar Sulaiman]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Jihad SC|Al-Jihad]]}}
+{{nat fs g player |no=18 |pos=FW |name=[[Abdulhadi Shalha]] |age={{birth date and age2|2015|10|17|1999|1|19|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Wahda SC Damascus|Al-Wahda]]}}
+{{nat fs g player |no=19 |pos=MF |name=[[Ahmad Al-Khassi]] |age={{birth date and age2|2015|10|17|1999|4|27|df=y}} |caps= |goals= |clubnat=SYR |club=[[Al-Jaish CC Damascus|Al-Jaish]]}}
+{{nat fs g player |no=20 |pos=GK |name=[[Omar Kadije]] |age={{birth date and age2|2015|10|17|1998|1|1|df=y}} |caps= |goals= |clubnat=SYR |club=[[Hutteen SC|Hutteen]]}}
+{{nat fs g player |no=21 |pos=GK |name=[[Ghaith Sulaiman]] |age={{birth date and age2|2015|10|17|1998|1|3|df=y}} |caps= |goals= |clubnat=SYR |club=[[Tishreen SC|Tishreen]]}}
+{{nat fs g end}}
+
+== External links ==
+*[https://web.archive.org/web/20191103180706/https://www.fifadata.com/document/FU17/2015/pdf/FU17_2015_SquadLists.pdf Official Players List]
+
+==References==
+{{reflist|}}
+
+{{FIFA U-16/17 World Championship}}
+
+[[Category:FIFA U-17 World Cup squads]]

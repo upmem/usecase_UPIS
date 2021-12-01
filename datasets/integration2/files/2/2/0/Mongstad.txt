@@ -1,0 +1,32 @@
+[[File:Mongstad.1.jpg|thumb|250px|Mongstad]]
+'''Mongstad''' is an industrial site in [[Vestland]] county, [[Norway]].  The site sits on the border of the municipalities of [[Alver (municipality)|Alver]] and [[Austrheim]], with most of the site in Alver. The site features an [[oil refinery]] for [[Statoil]] and other [[oil company|oil companies]], including [[Royal Dutch Shell|Shell]]. At Mongstad, Statoil has a [[crude oil]] [[oil terminal|terminal]] with a capacity of {{convert|9.5|Moilbbl|m3}}. The [[port]] at Mongstad is the largest in Norway, measured in [[deadweight tonnage|tonnage]]. The refinery at Mongstad is modern, and has been extensively upgraded, with a capacity of 12 million tonnes of crude oil per year (230,000 [[barrels per day]]). The refinery is the largest in Norway, though medium-sized by European standards. It is owned by a company called '''Mongstad Refining''', in which Statoil has whole ownership (since 2012).<ref>[http://www.statoil.com/en/OurOperations/TerminalsRefining/ProdFacilitiesMongstad/Pages/FullOwnershipMongstad_nov2013.aspx Statoil - Mongstad Facilities]</ref>
+
+All the crude oil refined at Mongstad comes from the [[North Sea]]. The largest production is [[petrol]], [[Diesel fuel|diesel]], [[jet fuel]], and [[light petroleum products]].  The heaviest components are used to make [[petrol coke]], an important ingredient in anodes for [[aluminum]] production.
+
+In 2010, Statoil and [[DONG Energy]] opened the [[Mongstad Power Station]], a [[natural gas]]-fired [[thermal power plant]], to provide the site with heat energy and [[electricity]], as well as power to the [[Troll gas field]].
+
+==History==
+The first use of the site was in 1975, when [[Statoil]] opened its refinery. At the end of the 1980s, the refinery was expanded to the tune of {{NOK|14 billion}}, resulting in the [[Mongstad scandal]] after a {{NOK|6 billion}} overexpenditure on the facility, costing several Statoil executives their jobs. In the time of the "Mongstad scandal" as it was called, a "Mong" was colloquially used as a term to represent the amount of {{NOK|6 billion}}.
+
+Statoil built a natural gas-fired thermal power plant at Mongstad in 2010. The carbon dioxide emissions that were predicted to result aroused public controversy as the project was being built.
+
+==External links==
+{{Portal|Norway|Energy}}
+*{{cite news|title=Slakter milliardsluket på Mongstad|url=http://www.dn.no/forsiden/politikkSamfunn/article2683852.ece|newspaper=[[Dagens Næringsliv]]|date=2013-09-17|author=[[Cecilie Langum Becker]]|language=Norwegian|trans-title=Slamming the drain-of-billions at Mongstad}} 
+
+==References==
+{{reflist}}
+
+{{coord|60|48|48.34|N|5|1|45.21|E|display=title}}
+{{authority control}}
+
+[[Category:Oil refineries in Norway]]
+[[Category:Ports and harbours of Norway]]
+[[Category:Equinor]]
+[[Category:Norsk Hydro]]
+[[Category:Alver (municipality)]]
+[[Category:Austrheim]]
+[[Category:Oil terminals]]
+
+
+{{Vestland-geo-stub}}

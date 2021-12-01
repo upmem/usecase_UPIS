@@ -1,0 +1,79 @@
+{{short description|Czech footballer}}
+{{Use dmy dates|date=July 2013}}
+{{Infobox football biography
+| name = Jan Chramosta
+| image = 
+| fullname = 
+| birth_date  = {{birth date and age|df=yes|1990|10|12}}
+| birth_place = [[Prague]], [[Czechoslovakia]]
+| height = 1.80 m
+| position = [[Forward (association football)|Striker]]
+| currentclub = [[FK Jablonec|Jablonec]]
+| clubnumber = 19
+| youthyears1 = 
+| youthclubs1 = [[FK Mladá Boleslav|Mladá Boleslav]]
+| years1 = 2009–2018
+| clubs1 = [[FK Mladá Boleslav|Mladá Boleslav]]
+| caps1 = 182
+| goals1 = 49
+| years2 = 2014–2015
+| clubs2 = → [[FC Viktoria Plzeň|Viktoria Plzeň]] (loan)
+| caps2 = 10
+| goals2 = 3
+| years3 = 2018–
+| clubs3 = [[FK Jablonec|Jablonec]]
+| caps3 = 39
+| goals3 = 12
+| nationalyears1 = 2008
+| nationalteam1 = [[Czech Republic national under-18 football team|Czech Republic U18]]
+| nationalcaps1 = 4
+| nationalgoals1 = 2
+| nationalyears2 = 2009
+| nationalteam2 = [[Czech Republic national under-19 football team|Czech Republic U19]]
+| nationalcaps2 = 4
+| nationalgoals2 = 0
+| nationalyears3 = 2009
+| nationalteam3 = Czech Republic U20
+| nationalcaps3 = 2
+| nationalgoals3 = 2
+| nationalyears4 = 2009–2012
+| nationalteam4 = [[Czech Republic national under-21 football team|Czech Republic U21]]
+| nationalcaps4 = 12
+| nationalgoals4 = 12
+| pcupdate = {{date|2019-07-31}}
+| ntupdate = 
+}}
+
+'''Jan Chramosta''' (born 12 October 1990) is a [[Czech republic|Czech]] [[Association football|football]]er, who plays as a [[Forward (association football)|striker]] for [[FK Jablonec|Jablonec]].<ref>[https://fotbal.idnes.cz/chramosta-prestup-jablonec-df3-/fotbal.aspx?c=A180210_082020_fotbal_krb Hotovo. Útočník Chramosta už patří Jablonci]</ref>
+
+In his first season Chramosta scored five goals in nine matches and was eventually voted "Revelation of the Year" at the [[Golden Ball (Czech Republic)|Golden Ball]] awards. He was a member of the [[Czech Republic national under-21 football team|Czech under-21 team]]. He represented the team at the [[2011 UEFA European Under-21 Championship]].<ref>[http://fotbal.idnes.cz/ceskym-fotbalovym-kralem-se-stal-nedved-sesadil-cecha-pdg-/fot_reprez.asp?c=A090730_115131_fot_reprez_min Českým fotbalovým králem se stal Nedvěd, sesadil Čecha]</ref>
+
+In June 2012, Chramosta scored all 5 goals in a 5–1 win over [[Andorra national under-21 football team|Andorra U21]].<ref>{{cite web|url=http://www.uefa.com/under21/season=2013/matches/round=2000192/match=2006843/postmatch/report/index.html#chramosta+steals+show|title=Five-star Chramosta takes Czechs to brink|work=UEFA.com|date=5 June 2012|accessdate=29 August 2012}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.fortunaliga.cz/hrac/1904-jan Jan Chramosta] Official Czech First League statistics
+* {{FACR player|ChramostaJan}}
+* {{Fotbal DNES|3008717}}
+* [https://web.archive.org/web/20120909090046/http://guardian.touch-line.com/StatsCentre.asp?Lang=0&CTID=27&CPID=89&pStr=Player&PLID=214435&TEID=3723 Guardian Football]
+
+{{Czech Revelation of the Year}}
+{{FK Jablonec squad}}
+
+{{DEFAULTSORT:Chramosta, Jan}}
+[[Category:Czech footballers]]
+[[Category:Czech Republic youth international footballers]]
+[[Category:Czech Republic under-21 international footballers]]
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Czech First League players]]
+[[Category:FK Mladá Boleslav players]]
+[[Category:FC Viktoria Plzeň players]]
+[[Category:Sportspeople from Prague]]
+[[Category:Association football forwards]]
+[[Category:FK Jablonec players]]
+
+
+{{CzechRepublic-footy-forward-stub}}

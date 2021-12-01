@@ -1,0 +1,15 @@
+
+{| style="background-color: #dfeff3; border: 4px solid #bddff2; width:100%" cellpadding="5"
+
+|<big>'''End of Year Events from the [[WP:GOCE|Guild of Copy Editors]]'''</big>
+----
+[[File:Writing Magnifying.PNG|100px|right]]
+The '''[[WP:GOCE|Guild of Copy Editors]]''' invites you to participate in its events:
+*The '''[[Wikipedia:WikiProject Guild of Copy Editors/Copy Edit of the Month/December 2012|December 2012 Copy Edit of the Month Contest]]''' is currently in the submissions stage.  Submit your best December copy edit there before the end of the month.  Submissions end, and discussion and voting begin, on January 1 at 00:00 (UTC).
+*Voting is in progress for the '''[[Wikipedia:WikiProject Guild of Copy Editors/Copy Edit of the Month/November 2012|November 2012 Copy Edit of the Month Contest]]'''. Everyone is welcome to vote, whether they have entered the contest or not.
+*From Sunday 16 December to Saturday 22 December, we are holding a '''[[Wikipedia:WikiProject Guild of Copy Editors/Blitzes/December 2012|Project Blitz]]''', in which we will copy edit articles tagged with {{tl|copyedit}} from January 2012. The blitz works much like our bimonthly drives, but a bit simpler. Everyone is welcome to take part, and barnstars will be awarded.
+*'''[[Wikipedia:WikiProject Guild of Copy Editors/Backlog elimination drives/January 2013|January 2013 Backlog elimination drive]]''' is a month-long effort to reduce the size of the copy edit backlog. The drive begins on January 1 at 00:00 (UTC) and ends on January 31 at 23:59 (UTC). Our goals are to copy edit all articles tagged in January, February, and March 2012 and complete all requests placed before the end of 2012. Barnstars will be awarded to anyone who copy edits at least one article, and special awards will be given to the top five in the following categories: "Number of articles", "Number of words", "Number of articles of over 5,000 words", "Number of articles tagged in January, February, and March 2012", and "Longest article". We hope to see you there! – Your drive coordinators: [[User:Stfg|Stfg]], [[User:Allens|Allens]], and [[User:Torchiest|Torchiest]].
+[[File:GOCE Coordinator.png|75px|left]]
+'''Coodinator election:''' Nominations are open for candidates to serve as GOCE coordinators from 1 January to 30 June 2013. Nominations close on December 15 at 23:59 UTC, after which voting will run until the end of December. For complete information, please have a look at the [[Wikipedia:WikiProject Guild of Copy Editors/Coordinators/2013|election&nbsp;page]].
+<center><big>'''[[Wikipedia:WikiProject Guild of Copy Editors/Blitzes/December 2012|>>> Blitz sign-up <<<]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Wikipedia:WikiProject Guild of Copy Editors/Backlog elimination drives/January 2013|>>> Drive sign-up  <<<]]'''</big><p><small>To discontinue receiving GOCE newsletters, please remove your name from [[Wikipedia:WikiProject Guild of Copy Editors/Mailing List|our mailing list]]. Message delivered by </small></center>
+|}

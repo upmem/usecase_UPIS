@@ -1,0 +1,23 @@
+== Summary ==
+{{Non-free use rationale logo| Article           = Ottawa Catholic School Board
+| Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+| Used for          = 
+| Owner             = 
+| Website           = http://www.mediawiki.org/wiki/Manual:External_editors
+| History           = 
+| Commentary        =
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = <!--Must be specified if Use is not Infobox / Org / Brand / Product-->
+| Replaceability    = 
+| other_information = 
+}}
+
+== Licensing ==
+{{Non-free logo|image has rationale=yes}}
+
+[[Category:Public and private school board logos]]

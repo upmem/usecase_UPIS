@@ -1,0 +1,48 @@
+{{Infobox NRHP
+| name = Fort Worth Public Market
+| nrhp_type = 
+| image = FortWorthPublicMarket1 (1 of 1).jpg
+| caption = Public Market in 2017
+| location = 1400 Henderson St.,<br />[[Fort Worth, Texas]]
+| coordinates = {{coord|32|44|39|N|97|20|16|W|display=inline,title}}
+| locmapin = Texas#USA
+| map_label = Fort Worth Public Market
+| locmap_relief = yes
+| built = {{Start date|1930}}
+| architect = B. Gaylord Noftsger
+| engineer = Quisle & Andrews
+| architecture = [[Mission Revival architecture|Mission/Spanish Revival]], [[Spanish Colonial Revival architecture|Spanish Colonial Revival]]
+| added = July 5, 1984
+| area = less than one acre
+| refnum = 84001981<ref name="nris">{{NRISref|version=2013a}}</ref>
+ | designated_other1=RTHL
+ | designated_other1_date=1980
+ | designated_other1_number=[http://atlas.thc.texas.gov/Details/5439002031 2031]
+ | designated_other1_num_position=bottom
+}}
+
+'''Fort Worth Public Market''' is a historic [[farmers' market]] and retail building located in [[Fort Worth, Texas]]. The building was designed by B. Gaylord  Noftsger, a native of [[Oklahoma City]]. Developer John J. Harden, also from Oklahoma, spent $150,000 on the building, which opened to the public on June 20, 1930. The building is noted for its [[terracotta]] tile and multi-colored tile roof. The main tower is decorated with terracotta [[column]]s and [[pilaster]]s.  The building housed various businesses such as grocers, bakers and butchers. At its peak, the Public Market had space for 145 farmer and vendor stalls and 30 permanent retail shops.
+
+The building was purchased in 1944 by R.C. Bowen of Bowen Properties; in 2010 a fire destroyed a shed behind the main building. In 2012 the building was purchased by oil and gas mogul Bob Simpson, who sold the building to MC Estates in 2014.<ref>{{Cite web|url=http://www.star-telegram.com/news/business/article3863587.html|title=Simpson Sells Fort Worth Public Market Building|last=Baker|first=Sandra|date=2014-06-30|website=Fort Worth Star-Telegram|access-date=2018-01-29}}</ref><ref>{{Cite web|url=http://www.fortworthbusiness.com/news/simpson-sells-historic-public-market-building/article_b2e5b492-a917-5495-a041-9ee79a5864bb.html|title=Simpson Sells Historic Public Market Building|last=Francis|first=Robert|date=2014-06-30|website=Fort Worth Business Press|access-date=2018-01-29}}</ref>  It was named a Texas Historical Landmark in 1980 and added to the [[National Register of Historic Places]] on July 5, 1984.<ref>{{Cite web|url=https://www.nbcdfw.com/the-scene/real-estate/Shells-of-Our-City-Fort-Worth-Public-Market-148310015.html|title=Shells of Our City: Fort Worth Public Market|last=Wilcox|first=Theresa|date=2012-04-25|website=NBC Dallas-Fort Worth|access-date=2018-01-29}}</ref>
+
+==See also==
+{{Portal|National Register of Historic Places|Texas}}
+*[[National Register of Historic Places listings in Tarrant County, Texas]]
+*[[List of Recorded Texas Historic Landmarks (Sabine-Travis)#Tarrant County|Recorded Texas Historic Landmarks in Tarrant County]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*[http://www.fortwortharchitecture.com/publicmarket.htm Architecture in Fort Worth: Fort Worth Public Market Building]
+*[http://okcmod.com/firms/noftsger-lawrence/ B. Gaylord Noftsger biography] at OKC Mod
+
+{{NRHP in Texas}}
+
+[[Category:National Register of Historic Places in Fort Worth, Texas]]
+[[Category:Buildings and structures in Fort Worth, Texas]]
+[[Category:Recorded Texas Historic Landmarks]]
+
+
+{{Texas-NRHP-stub}}

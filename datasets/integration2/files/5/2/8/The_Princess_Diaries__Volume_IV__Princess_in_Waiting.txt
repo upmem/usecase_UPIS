@@ -1,0 +1,59 @@
+{{Cleanup rewrite|date=May 2009}}
+
+{{Infobox book | <!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books -->
+| name           = The Princess Diaries Volume IV: Princess in Waiting
+| title_orig     =
+| translator     =
+| image          =  Princessdiaries4.jpg
+| caption  = First edition cover
+| author         = [[Meg Cabot]]
+| cover_artist   = 
+| country        = United States
+| language       = English
+| series         = [[The Princess Diaries]]
+| genre          = [[Young adult novel]]
+| publisher      = [[Harper Collins Publishers]]
+| release_date   = 2003
+| media_type     = Print ([[Hardcover|Hardback]] & [[Paperback]])
+| pages          = 240 pp (first edition, hardback)
+| isbn = 0-06-009607-1
+| isbn_note = (first edition, hardback)
+| congress= PZ7.C11165 Pu 2003
+| oclc= 50920686
+| preceded_by    = [[The Princess Diaries, Volume III: Princess in Love]]
+| followed_by    = [[The Princess Diaries, Volume V: Princess in Pink]]
+}}
+
+'''''The Princess Diaries, Volume IV: Princess in Waiting''''', released in the United Kingdom as '''''The Princess Diaries: Mia Goes Forth''''', is a [[young adult literature|young adult]] book in the ''[[The Princess Diaries|Princess Diaries]]'' series.  Written by [[Meg Cabot]], it was released in 2003 by [[Harper Collins Publishers]] and is the fourth book in the series.
+
+==Plot==
+
+Never before has the world seen such a princess.
+
+Nor have her own subjects, for that matter. Mia's royal introduction to Genovia has mixed results: while her fashion sense is widely applauded, her position on the installation of public parking meters is met with resistance.
+
+But the politics of bureaucracy are nothing next to Mia's real troubles. Between canceled dates with her long—sought—after royal consort, a second semester of the dreaded Algebra, more princess lessons from Grandmère as a result of the Genovian parking—meter thing, and the inability to stop gnawing on her fingernails, isn't there anything Mia is good at besides inheriting an unwanted royal title?
+
+==Reviews==
+Whether or not Mia ever achieves her much-sought-after "self-actualization," teens will enjoy reading her over-the-top, up-to-the-minute-hip diary. --Karin Snelson at ''Amazon.com'' <ref>[https://www.amazon.com/Princess-Waiting-The-Diaries-Vol/dp/0060096071 Snelson, K. Review at ''Amazon.com'']</ref>
+
+Meg Cabot continues the hilarious adventures of Mia Thermopolis, a very ordinary teenager whose life takes an extraordinary turn when she learns she's the heir apparent to the throne of Genovia, a small European country. In this third installment of The Princess Diaries, Mia's self-deprecating wit, self-absorption, and adolescent angst are as entertaining as ever as she struggles with the realization that despite being a princess, she isn't guaranteed any fairy-tale endings. ...While Mia's sometimes simplistic view of life remains intact and her adolescent shallowness is often apparent, she also shows an evolving maturity as she prepares for her royal role under Grandmere's overbearing guidance. But never fear, the seriousness is kept in balance with plenty of fun, tons of laughs, and several amusing disasters. And, if Mia isn't careful, she might even get that fairy-tale ending. --Beth Amos, ''The Barnes & Noble Review''<ref>[http://www.barnesandnoble.com/w/princess-in-waiting-meg-cabot/1100616101 Amos, B., The Barnes and Noble Review]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Portal |Children's literature|Novels}}
+*[http://www.barnesandnoble.com/w/princess-in-waiting-meg-cabot/1100616101 Reviews at Barnes & Noble website]
+
+{{TPD}}
+{{Meg Cabot}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Princess Diaries, Volume 4}}
+[[Category:2003 American novels]]
+[[Category:American young adult novels]]
+
+[[Category:The Princess Diaries novels]]
+[[Category:HarperCollins books]]

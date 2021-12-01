@@ -1,0 +1,54 @@
+{{Infobox school
+|name           = Richards High School
+|type           = [[Public school (government funded)|Public]]
+|schooltype     = [[High school#United States|high school]]
+|district       = [[Richards Independent School District]]
+|grades         = 7-12
+|principal      = Bill Boyce
+|assistant_principals = 
+|enrollment     = 88 (2018-19)<ref name=NCES>{{cite web|url=https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?Search=1&DistrictID=4836990&ID=483699004121|title=RICHARDS H S|publisher=National Center for Education Statistics|accessdate=October 23, 2020}}</ref>
+|ratio          = 11.00<ref name=NCES/>
+|teaching_staff = 8.00 (FTE)<ref name=NCES/>
+|colors         = {{color box|red}} {{color box|black}} Red & Black
+|conference     = [[University Interscholastic League|UIL]] Class 1A
+|mascot         = Panther
+|streetaddress  = 9477 Panther Drive
+|city           = [[Richards, Texas|Richards]]
+|state          = [[Texas]]
+|zipcode        = 77873
+|country        = [[United States]]
+|coordinates    = {{coord|30.538937|-95.842686|type:edu|display=inline,title}}
+|homepage       = [http://www.richardsisd.net/ Richards High School]
+}}
+
+'''Richards High School''' is a [[public high school]] located in [[Richards, Texas|Richards]], [[Texas]] ([[United States|USA]]) and classified as a 1A school by the [[University Interscholastic League|UIL]]. It is a part of the [[Richards Independent School District]] located in south central [[Grimes County, Texas|Grimes County]]. In 2015, the school was rated "[[Texas Education Agency accountability ratings system|Met Standard]]" by the [[Texas Education Agency]].<ref>{{cite web|url = http://ritter.tea.state.tx.us/perfreport/account/2015/campusbytype.pdf|title = 2015 Accountability Rating System|publisher = Texas Education Agency|url-status = dead|archiveurl = https://web.archive.org/web/20150910233604/http://ritter.tea.state.tx.us/perfreport/account/2015/campusbytype.pdf|archivedate = 2015-09-10}}</ref>
+
+==Athletics==
+
+The Richards Panthers compete in these sports - <ref>[http://www.theathleticsdepartment.com/schools/Richards/ The Athletics Department]</ref>
+ 
+*[[Basketball]]
+*[[Cross country running|Cross Country]]
+*[[Golf]]
+*[[Track and field|Track and Field]]
+*[[Volleyball]]
+
+===State Titles===
+
+*Boys Basketball <ref>[http://www.uiltexas.org/basketball/archives-boys-school-search/f579150c738dc46078c907da9699ed2f/ UIL Boys Basketball Archives]</ref>
+**1976(B)
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.richardsisd.net/ Richards ISD]
+
+
+{{authority control}}
+
+[[Category:Schools in Grimes County, Texas]]
+[[Category:Public high schools in Texas]]
+
+
+{{Texas-high-school-stub}}

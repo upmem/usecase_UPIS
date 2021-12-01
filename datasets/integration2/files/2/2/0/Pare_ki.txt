@@ -1,0 +1,44 @@
+{{Infobox settlement
+| name = Pareżki
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Bartoszyce County|Bartoszyce]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Górowo Iławeckie]]
+|pushpin_map=Poland
+|coordinates = {{coord|54|20|0|N|20|26|23|E|region:PL|display=inline}}
+| elevation_m =
+| population_total =
+| website = }}
+'''Pareżki''' {{IPAc-pl|p|a|'|r|e|sz|k|i}} ({{lang-de |Parösken}}) is a [[village]] in the administrative district of [[Gmina Górowo Iławeckie]], within [[Bartoszyce County]], [[Warmian-Masurian Voivodeship]], in northern Poland, close to the border with the [[Kaliningrad Oblast]] of [[Russia]].<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) &ndash; TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|8|km|mi|0}} north of [[Górowo Iławeckie]], {{convert|26|km|mi|0|abbr=on}} west of [[Bartoszyce]], and {{convert|62|km|mi|0|abbr=on}} north of the regional capital [[Olsztyn]].
+
+Before 1945 the area was part of Germany ([[East Prussia]]).
+
+== Population ==
+
+*1933: 145
+*1939: 225<ref>[http://www.verwaltungsgeschichte.de/preylau.html verwaltungsgeschichte.de]</ref>
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Górowo Iławeckie}}
+
+{{coord|54|20|00|N|20|26|23|E|source:plwiki_region:PL_scale:10000|display=title}}
+
+{{DEFAULTSORT:Parezki}}
+[[Category:Villages in Bartoszyce County]]
+
+
+{{Bartoszyce-geo-stub}}

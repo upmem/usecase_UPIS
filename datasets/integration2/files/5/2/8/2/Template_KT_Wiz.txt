@@ -1,0 +1,57 @@
+{{Navbox
+| name  = KT Wiz
+| title = [[KT Wiz|<span style="color:white;">KT Wiz</span>]]
+|bodyclass = hlist
+| titlestyle = color:white;background:Black;border:1px solid #EC1C24;
+| groupstyle = color:white;background:#EC1C24;
+| bodystyle = width:{{{width|100%}}}; <!--if width not specified, use width of former template-->
+| state = {{{state|autocollapse}}}
+| abovestyle = color:white;background:#EC1C24;
+| above = 
+* Founded in 2013
+* Based in [[Suwon|<span style="color:White;">Suwon</span>]], [[Gyeonggi-do|<span style="color:White;">Gyeonggi</span>]]
+| group2=The Franchise
+| list2=
+* [[KT Corporation|KT]]
+* [[KT Wiz#History|History]]
+* [[KT Wiz seasons|Seasons]]
+* [[KT Wiz#Season-by-season records|Records]]
+* [[:Category:KT Wiz players|Players]]
+* [[:Category:KT Wiz managers|Managers]]
+
+| group3=Ballparks
+| list3=
+* [[Suwon Baseball Stadium]] (2015–present)
+
+* ''Trainings:''
+* [[Iksan National Baseball Training Stadium]]
+
+| group4=Culture
+| list4=
+
+| group5=Rivalries
+| list5=
+
+| group6=Retired Numbers
+| list6=
+
+| group7=[[Korean Series|<span style="color:white;">Korean Series</span>]] Championships (0)
+| list7= 
+
+| group8=[[Korea Professional Baseball|<span style="color:white;">League</span>]] Championships (0)
+| list8= 
+
+| group9=Seasons (6)
+| list9= 
+* [[2015 KT Wiz season|2015]]
+* [[2016 KT Wiz season|2016]]
+* [[2017 KT Wiz season|2017]]
+* [[2018 KT Wiz season|2018]]
+* [[2019 KT Wiz season|2019]]
+* [[2020 KT Wiz season|2020]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:KT Wiz| ]]
+[[Category:KBO League team navigational boxes]]
+</noinclude>

@@ -1,0 +1,48 @@
+{{Infobox NRHP
+| name = Milwaukee Railroad Depot 
+| nrhp_type = 
+| image = Alberton train depot - town hall and library 2017 - 2.jpg
+| caption = 
+ | coordinates = {{coord|47|0|10|N|114|28|30|W|display=inline,title}}
+| locmapin = Montana#USA
+| location = 701 Railroad St<br>[[Alberton, Montana]]
+| nearest_city = 
+| area = 
+| built = 1908
+| architect = [[Chicago, Milwaukee, St. Paul and Pacific Railroad]]
+| architecture = Craftsman
+| designated =
+| added = January 13, 1997 
+| established = 
+| visitation_num = 
+| visitation_year = 
+| refnum = 96001603
+| mpsub = {{NRHP url|id=64500334|title=Alberton MPS}}
+| governing_body = Town of Alberton
+}}
+The '''Milwaukee Railroad Depot''' in [[Alberton, Montana]] was built by the [[Chicago, Milwaukee, St. Paul and Pacific Railroad]] (a.k.a. Milwaukee Road) in 1908, during its Pacific Extension from [[Chicago, Illinois]] to [[Tacoma, Washington]] from 1906-09. The depot is a rectangular one-story wood frame building constructed in the Craftsman style.
+
+When the Milwaukee Road built its transcontinental line, it placed a division point at Alberton. In addition to the depot, there were also a [[Railway roundhouse|roundhouse]], [[Turntable (railroad)|turntable]] and locomotive repair shops. The depot became the center of the commercial district of the town and the railroad was the town's major employer.<ref>Historic Research Associates, ''Historic Resources of Alberton, Montana'', National Register of Historic Places Multiple Property Documentation Form, 1997.</ref>
+
+When the railroad was [[railway electrification system|electrified]] in the 1920s, the roundhouse and turntable were removed.
+
+When the railroad went bankrupt in the 1980s, the depot was sold to the Town of Alberton and is now used as a community center.<ref>James R. McDonald, ''Milwaukee Railroad Depot (Mineral County, Montana)'', National Register of Historic Places Registration Form, 1997.</ref>
+
+The depot was listed in the National Register because of its architecture and association with The Milwaukee Road and the development of railroads in Montana.
+
+{{Adjacent stations|system1=Milwaukee Road|line1=main|left1=St. Regis|right1=Huson}}
+
+==Notes==
+{{reflist}}
+
+==References==
+*Historical Research Associates. ''{{NRHP url|id=64500334|title=Historic Resources of Alberton, Montana}}''. National Register of Historic Places Multiple Property Documentation Form, 1997. On file at the National Park Service, Washington, D.C.
+*McDonald, James R. ''Milwaukee Railroad Depot (Mineral County, Montana)''. National Register of Historic Places Registration Form, 1997. On file at the National Park Service, Washington, D.C.
+
+{{Registered Historic Places}}
+
+[[Category:Railway stations on the National Register of Historic Places in Montana]]
+[[Category:Former Chicago, Milwaukee, St. Paul and Pacific Railroad stations|Alberton, Montana]]
+[[Category:Railway stations in the United States opened in 1908]]
+[[Category:National Register of Historic Places in Mineral County, Montana]]
+[[Category:1908 establishments in Montana]]

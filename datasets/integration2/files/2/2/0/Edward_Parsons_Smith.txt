@@ -1,0 +1,77 @@
+{{otherpeople|Edward Smith}}
+{{Infobox Mayor
+| name=Edward Parsons Smith
+| image=Edward Parsons Smith (Omaha Mayor).jpg
+| caption=From Volume 2 (1917) of Omaha: The Gate City, and Douglas County, Nebraska
+| order=32nd
+| office= Mayor of Omaha
+| term_start =1918 
+| term_end =1921
+| predecessor = [[James C. Dahlman]]
+| successor =James C. Dahlman
+| term_start2 = 
+| term_end2 = 
+| predecessor2 = 
+| successor2 = 
+| birth_date = {{Birth date|1860|09|30}}
+| birth_place = [[Mount Pleasant, Iowa]]
+| death_date = {{Death date and age|1930|05|21|1860|09|30}}
+| death_place = [[Omaha, Nebraska]]
+| restingplace = [[Forest Lawn Memorial Park (Omaha)|Forest Lawn Memorial Park]], Omaha, Nebraska 
+| nationality = [[Americans|American]]
+| party = [[Democratic Party (United States)|Democratic]]
+| spouse = Margaret Wertman (m. 1883)
+| children = 3
+| alma_mater =[[University of Iowa College of Law]]
+| profession = Attorney
+| signature =
+}}
+
+'''Edward Parsons Smith''' (September 30, 1860 – May 21, 1930) was the [[List of mayors of Omaha, Nebraska|mayor]] of [[Omaha]], [[Nebraska]] from 1918 to 1921.
+
+==Biography==
+Smith was born in [[Mount Pleasant, Iowa]] on September 30, 1860, and was a son of Edward Smith and Celia (Schockley) Smith.<ref name= Wakeley>{{cite book |last=Wakeley |first=Arthur Cooper |date=1917 |title=Omaha: The Gate City, and Douglas County, Nebraska |volume= 2 |url=https://archive.org/details/omahagatecitydou02wake |location=Chicago, IL |publisher=S.J. Clarke Publishing Company |page=[https://archive.org/details/omahagatecitydou02wake/page/448 448]-451}}</ref>  He attended the local schools and graduated from Mount Pleasant's Howe's Academy.<ref name= "Wakeley"/>  He graduated from the [[University of Iowa College of Law]] with an [[bachelor of laws|LL.B.]] degree in 1885, and was admitted to the bar.<ref name= "Wakeley"/>  Smith relocated to [[Seward, Nebraska]] in the summer of 1885, and established a law practice that specialized in interstate commerce.<ref name= "Wakeley"/>  He moved to Omaha in 1890 and continued to practice law.<ref name= "Wakeley"/>
+
+In addition to his law practice, Smith was active in several businesses.<ref name= "Wakeley"/>  He was the attorney for the Omaha Grain Exchange, of which he was also a board of directors member.<ref name= "Wakeley"/>  In addition, Smith was vice president of the Omaha Cooperage Company, and served on its board of directors.<ref name= "Wakeley"/>
+
+==Mayor of Omaha==
+A [[Democratic Party (United States)|Democrat]],<ref name= "Wakeley"/> Smith ran for mayor in 1918 and beat incumbent Mayor "Cowboy" [[Jim Dahlman]] on a reform ticket aiming to defeat [[Tom Dennison (Political boss)|Tom Dennison]]'s political machine, which at that point had run Omaha for at least 15 years. Dennison's displeasure with Smith's morality stance was frequently voiced, and took shape in the [[Omaha Race Riot of 1919]]. During that riot Smith was strung up and almost [[lynched]] by a mob.<ref>[http://www.nebraskastudies.org/0700/frameset_reset.html?http://www.nebraskastudies.org/0700/resources/0700_1040.html Lesson Plans for Omaha Race Riot of 1919] {{Webarchive|url=https://web.archive.org/web/20171225034916/http://www.nebraskastudies.org/0700/frameset_reset.html?http%3A%2F%2Fwww.nebraskastudies.org%2F0700%2Fresources%2F0700_1040.html |date=2017-12-25 }}. NebraskaStudies.org. Retrieved 12/28/07.</ref> After being rescued by [[Omaha Police Department|Omaha Police]] detectives, he was taken to Omaha's [[Ford Hospital]]. Smith's political interest never returned.
+
+==Death and burial==
+He died in Omaha on May 21, 1930.<ref>{{cite news |agency=United Press |date=May 22, 1930 |title=Ed P. Smith is Dead |url=https://www.newspapers.com/image/298203695/ |work=[[Lincoln Journal Star|Lincoln Evening Journal]] |location=Lincoln, NE |page=6 |url-access=subscription  |via=[[Newspapers.com]]}}</ref>  and was buried in Section 23, Lot 186 of [[Forest Lawn Memorial Park (Omaha)|Forest Lawn Memorial Park]] in Omaha.<ref>{{cite web |url=http://www.interment.net/data/us/ne/douglas/forestl/records-sib-smy.htm |title=Burial Record: Smith, Edward P. Died 5/21/1930 |website=Burial Records, Forest Lawn Memorial Park, Omaha, Douglas County, Nebraska |publisher=Interment.net |access-date=October 17, 2018}}</ref>
+
+==Family==
+In November, 1883 Smith married Margaret Wertman of [[Greenfield, Iowa]].<ref name= "Wakeley"/>  They were the parents of Ida B. Smith, Lisle W. Smith, and Edward Esher Smith.<ref name= "Wakeley"/>
+
+==See also==
+* [[History of Omaha]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://politicalgraveyard.com/bio/smith3.html#RIN0RMLJL Edward Parsons Smith] at The Political Graveyard
+*{{Findagrave|73053524}}
+
+{{s-start}}
+{{s-off}}
+{{succession box 
+| before= [[James C. Dahlman]] 
+| title= [[List of mayors of Omaha|Mayor of Omaha]] 
+| years= 1918&ndash;1921
+| after= [[James C. Dahlman]]
+}}
+{{s-end}}
+{{Mayors of Omaha}}
+
+{{DEFAULTSORT:Smith, Edward Parsons}}
+[[Category:1860 births]]
+[[Category:1930 deaths]]
+[[Category:Mayors of Omaha, Nebraska]]
+[[Category:Lynching survivors in the United States]]
+[[Category:Lynchings in Omaha, Nebraska]]
+[[Category:Crimes in Omaha, Nebraska]]
+[[Category:Nebraska Democrats]]
+
+
+{{Nebraska-mayor-stub}}

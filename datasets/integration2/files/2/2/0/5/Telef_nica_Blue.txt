@@ -1,0 +1,46 @@
+{{Infobox Sailing yacht
+| title        =Telefónica Blue
+| image        =Volvo Ocean Race - Team Sanya (2).JPG
+| caption      = ''Sanya Lan'' during the [[2011–12 Volvo Ocean Race]].
+| othernames   = ''Sanya Lan''
+| club         = 
+| nat          = {{flagcountry|ESP}}<br>{{flagcountry|CHN}}
+| class        =[[Volvo Open 70]]
+| sailno       =
+| designer     = 
+| builder      = 
+| launched     = 
+| owner        =
+| fate         =
+| skip         =[[Bouwe Bekking]]<br>[[Mike Sanderson]]
+| wins         =
+| ac_year      =
+| lc_year      =
+| cc_year      =
+| og_year      =
+| rr_year      =
+| type         =
+| crew         =
+| length       = 
+| beam         = 
+| draft        =
+| height       =
+| displacement =
+| sail         =
+}}
+
+'''''Telefónica Blue''''' (also '''''Sanya Lan''''', now '''''Ocean Breeze''''') is a [[Volvo Open 70]] yacht.
+
+==Career==
+She finished third in the [[2008–09 Volvo Ocean Race]] skippered by [[Bouwe Bekking]].<ref>http://www.sailing.org/volvo-ocean-race-2008-09.php?view=eventoa&rgtaid=9717&regattaid=9717&evntid=17742#results__9717</ref>
+
+She finished sixth in the [[2011–12 Volvo Ocean Race]] skippered by [[Mike Sanderson]].<ref>http://www.sailing.org/volvo-ocean-race-2011-12.php?view=eventoa&rgtaid=10019&regattaid=10019&evntid=18972#results__10019</ref>
+
+==References==
+{{Reflist}}3. https://oceanbreeze.eu
+
+{{DEFAULTSORT:Telefonica Blue}}
+[[Category:Volvo Ocean Race yachts]]
+[[Category:Volvo Open 70 yachts]]
+[[Category:Sailing yachts of Spain]]
+[[Category:Sailing yachts of China]]

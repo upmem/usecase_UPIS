@@ -1,0 +1,43 @@
+{{Navbox
+| name        = Western Kentucky Hilltoppers football coach navbox
+| title       = [[Western Kentucky Hilltoppers football|{{white|Western Kentucky Hilltoppers head football coaches}}]]
+| basestyle   = {{CollegePrimaryStyle|Western Kentucky Hilltoppers|color=white}}
+| state       = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass   = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[M. A. Leiper]] & [[Roy C. Manchester]] (1913)
+* [[J. L. Arthur]] (1914–1916)
+* ''No team'' (1917–1919)
+* [[L. T. Smith]] (1920–1921)
+* [[Edgar Diddle]] (1922–1928)
+* [[Carl Anderson (American football)|Carl Anderson]] (1929)
+* [[James Elam (American football)|James Elam]] (1930–1931)
+* [[Ernest R. Miller]] (1932)
+* [[Jesse Thomas (American football coach)|Jesse Thomas]] (1933)
+* [[Carl Anderson (American football)|Carl Anderson]] (1934–1937)
+* [[Gander Terry]] (1938–1941)
+* [[Arnold Winkenhofer]] (1942)
+* ''No team'' (1943–1945)
+* [[Jesse Thomas (American football coach)|Jesse Thomas]] (1946–1947)
+* [[Jack Clayton (American football)|Jack Clayton]] (1948–1956)
+* [[Nick Denes]] (1957–1967)
+* [[Jimmy Feix]] (1968–1983)
+* [[Dave Roberts (American football)|Dave Roberts]] (1984–1988)
+* [[Jack Harbaugh]] (1989–2002)
+* [[David Elson]] (2003–2009)
+* [[Willie Taggart]] (2010–2012)
+* [[Lance Guidry]] # (2012)
+* [[Bobby Petrino]] (2013)
+* [[Jeff Brohm]] (2014–2016)
+* [[Nick Holt]] # (2016)
+* [[Mike Sanford Jr.]] (2017–2018)
+* [[Tyson Helton]] (2019– )
+
+''# denotes interim coach''
+}}<noinclude>
+{{collapsible option}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Western Kentucky Hilltoppers football navigational boxes|Coach]]
+</noinclude>

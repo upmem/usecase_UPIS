@@ -1,0 +1,122 @@
+{{Infobox NCAA football yearly game
+| Game Name          = Maaco Bowl Las Vegas
+| Optional Subheader = 
+| Title Sponsor      = 
+| Image              = 
+| Caption            = 
+| Date Game Played   = December 22
+| Year Game Played   = 2009
+| Football Season    = 2009
+| Stadium            = [[Sam Boyd Stadium]]
+| City               = [[Whitney, Nevada]]
+| Visitor School     = [[Oregon State University]]
+| Visitor Name Short = Oregon State
+| Visitor Nickname   = Beavers
+| Visitor Record     = 8–4 <!-- Field should contain record prior to game -->
+| Visitor AP         = 16
+| Visitor Coaches    = 20
+| Visitor BCS        = 18
+| Visitor Coach      = [[Mike Riley]]
+| Visitor Conference = [[Pacific-10 Conference|Pac-10]]
+| Visitor1           = 7
+| Visitor2           = 0
+| Visitor3           = 0
+| Visitor4           = 13
+| Home School        = [[Brigham Young University]]
+| Home Name Short    = BYU
+| Home Nickname      = Cougars
+| Home Record        = 10–2 <!-- Field should contain record prior to game -->
+| Home AP            = 15
+| Home Coaches       = 14
+| Home BCS           = 14
+| Home Coach         = [[Bronco Mendenhall]]
+| Home Conference    = [[Mountain West Conference|Mountain West]]
+| Home1              = 14
+| Home2              = 9
+| Home3              = 7
+| Home4              = 14
+| MVP                = [[Max Hall]] ([[Quarterback|QB]] BYU)
+| Anthem             = 
+| Referee            = Randy Christal ([[Big 12]])
+| Halftime           = 
+| Attendance         = 40,018<ref>http://www.sltrib.com/byucougars/ci_14053652</ref>
+| Payout             = 1,000,000
+| US Network         = [[ESPN College Football|ESPN]]
+| US Announcers      = [[Rece Davis]], [[Lou Holtz]] and [[Mark May]]
+| Ratings            = 
+| Different Previous = [[2008 Las Vegas Bowl|2008]]
+}}
+
+The '''2009 Maaco Bowl Las Vegas''' was an [[National Collegiate Athletic Association|NCAA]]-sanctioned [[Division I FBS]] post-season [[college football]] [[bowl game]], in which the [[2009 BYU Cougars football team|Brigham Young Cougars]] defeated the [[2009 Oregon State Beavers football team|Oregon State Beavers]] 44–20.<ref>http://www.cbssports.com/collegefootball/schedules/bowls</ref> The game was played on Tuesday, December 22, 2009, at 5 p.m. [[Pacific Standard Time|PST]] at 40,000-seat [[Sam Boyd Stadium]], [[University of Nevada, Las Vegas]], in [[Whitney, Nevada]], and was televised on [[ESPN College Football|ESPN]].
+
+BYU played in the [[Las Vegas Bowl]] for the fifth straight year. BYU had gone 2–2 against [[Pacific-10 Conference|Pac-10]] opponents in the last four Las Vegas Bowls. This was the ninth meeting between the two teams, although the first time they met in this bowl game. Prior to the 2009 Las Vegas Bowl, Oregon State had a 5–3 lead in the series, winning the last meeting 10–7 in 1986.<ref>http://sports.espn.go.com/ncf/news/story?id=4719464</ref> This was the first postseason meeting between the two teams. [[Bronco Mendenhall]], head coach for Brigham Young, is an Oregon State alumnus and it was revealed during the broadcast that he chose Oregon State specifically because Brigham Young did not recruit him and Oregon State had a game with BYU scheduled for the [[1986 NCAA Division I-A football season|1986 season]]. The 2009 game was the first meeting of two ranked teams in the bowl game's history.
+
+==Game summary==
+BYU wore their alternate royal blue jerseys, and OSU wore their away white jerseys.
+
+Weather was a significant factor in the game, with wind gusts up to 50&nbsp;mph at times.  At one point in the game the net used to catch [[Field goal (football)|field goals]] and [[conversion (gridiron football)|PAT]] attempts, blew into the goalpost and became lodged, causing several minutes of delays as the game officials and field workers addressed the problems.  [[ESPN]], who was providing television coverage of the game, was forced to take down its [[Skycam]], which traverses above the field, due to safety concerns created by the high winds.  Oregon State was also unable to punt very well with the wind. They had 2 punts into the wind which netted 6 yards each.
+
+BYU was led by Senior Quarterback, [[Max Hall]] who threw for 192 yards and three touchdowns on his way to being named the bowl's MVP.  [[Harvey Unga]] was the leading rusher for the Cougars with 76 yards on the ground to go with one rushing touchdown.  BYU was also able to shut down the highly touted Rodgers brothers of Oregon State.  RB [[Jacquizz Rodgers]] who goes by the nickname of Quizz, finished the season with 1,440 yards rushing and 21 touchdowns was held to a season-low 63 yards and a touchdown on 18 carries.  His brother [[James Rodgers (football)|James Rodgers]], who finished the season with over 1,000 yards receiving, only had 4 catches for 30 yards.
+
+===Scoring summary===
+{| class="wikitable"
+|-
+! Scoring Play
+! Score
+|-
+|colspan="4" align="center"| '''1st Quarter'''
+|-
+|OSU - Sean Canfield 1 Yd Run (Justin Kahut Kick), 8:46
+|OSU 7–0
+|-
+|BYU - Harvey Unga 1 Yd Run (Mitch Payne Kick), 2:47 
+|Tie 7–7
+|-
+|BYU - Matt Bauman 34 Yd Fumble Return (Mitch Payne Kick), 1:41 
+|BYU 14–7
+|-
+|colspan="4" align="center"| '''2nd Quarter'''
+|-
+|BYU - Mitch Payne 28 Yd, 9:21
+|BYU 17–7
+|-
+|BYU - Luke Ashworth 25 Yd Pass From Max Hall (Pat Blocked), 6:22
+|BYU 23–7
+|-
+|colspan="4" align="center"| '''3rd Quarter'''
+|-
+|BYU - Dennis Pitta 17 Yd Pass From Max Hall (Mitch Payne Kick), 8:51
+|BYU 30–7
+|-
+|colspan="4" align="center"| '''4th Quarter'''
+|-
+|BYU - Manase Tonga 15 Yd Pass From Max Hall (Mitch Payne Kick), 12:51
+|BYU 37–7
+|-
+|OSU - Jacquizz Rodgers 1 Yd Run (Pat Failed), 9:00
+|BYU 37–13
+|-
+|BYU - Manase Tonga 18 Yd Run (Mitch Payne Kick), 3:22
+|BYU 44–13
+|-
+|OSU - Damola Adeniji 31 Yd Pass From Ryan Katz (Justin Kahut Kick), 2:35
+|BYU 44–20
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{2009 bowl game navbox}}
+{{Las Vegas Bowl navbox}}
+{{BYU Cougars bowl game navbox}}
+{{Oregon State Beavers bowl game navbox}}
+
+[[Category:2009–10 NCAA football bowl games|Maaco Bowl Las Vegas]]
+[[Category:Las Vegas Bowl]]
+[[Category:BYU Cougars football bowl games]]
+[[Category:Oregon State Beavers football bowl games]]
+[[Category:2009 in sports in Nevada|Maaco Bowl]]
+[[Category:December 2009 sports events in the United States]]
+
+{{Collegefootball-bowl-stub}}

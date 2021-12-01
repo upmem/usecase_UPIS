@@ -1,0 +1,14 @@
+{{Documentation subpage}}
+{{country listdata|header=related
+|Polish-Lithuanian Commonwealth
+|Second Polish Republic
+|Polish government-in-exile
+|Polish Underground State
+|Provisional Government of the Republic of Poland
+|Polish People's Republic
+}}
+<includeonly>{{Sandbox other||<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Country data templates of countries|Poland]]
+[[Category:Country data templates of Poland| ]]
+[[ur:Template:Country data Poland]]
+}}</includeonly>

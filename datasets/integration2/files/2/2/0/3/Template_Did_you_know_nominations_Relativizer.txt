@@ -1,0 +1,13 @@
+{{#if:no|<noinclude>[[Category:Failed DYK nominations&nbsp;from November 2013]]<div style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived discussion of the DYK nomination of the article below. <span style="color:red">'''Please do not modify this page.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as [[{{TALKPAGENAME}}|this nomination's talk page]], [[Talk:{{SUBPAGENAME}}|the article's talk page]] or [[Wikipedia talk:Did you know]]), unless there is consensus to re-open the discussion at this page.  '''No further edits should be made to this page'''.''
+
+The result was: '''rejected''' by [[User:Bloom6132|Bloom6132]] ([[User talk:Bloom6132|talk]]) 01:04, 15 November 2013 (UTC)<br />}}
+{{DYKC}}
+Closing note: 5× expansion not completed and not likely to be achieved; not to mention the fact that the nominator didn't significantly contribute to the article from October 22 onwards.
+====Relativizer====
+{{DYK nompage links|nompage=Relativizer|Relativizer}}
+* ... that not all languages have '''[[Relativizer|an equivalent to the English word "that"]]'''?
+:*
+<small>5x expanded by [[User:Aidanpine|Aidanpine]] ([[User talk:Aidanpine|talk]]).&nbsp;Self nominated at 18:39, 5 November 2013 (UTC)</small>.
+
+:* [[File:Symbol delete vote.svg|16px]] I'm afraid I can't accept this. The [https://en.wikipedia.org/w/index.php?title=Relativizer&oldid=580535440 last diff before your expansion] returns a prose character size of 4913 bytes, which means you need to have expanded the prose beyond 24,565 bytes to quality. Unfortunately it's only 5014 bytes. Sorry. [[User:Ritchie333|<span style="color:#7F007F;">'''Ritchie333'''</span>]] [[User talk:Ritchie333|<span style="color:#7F007F;"><sup>(talk)</sup></span>]] [[Special:Contributions/Ritchie333|<span style="color:#7F007F;"><sup>(cont)</sup></span>]]  17:33, 13 November 2013 (UTC){{#if:no|</div></noinclude>|{{#ifeq:{{FULLPAGENAME}}|Template talk:Did you know/{{SUBPAGENAME}}|[[Category:Pending DYK nominations]][[Category:DYK/Nominations|Pending]]|{{#ifeq:{{FULLPAGENAME}}|Template:Did you know nominations/{{SUBPAGENAME}}|[[Category:DYK/Nominations|Pending]][[Category:Pending DYK nominations]]}}}}}}<!--Please do not write below this line or remove this line. Place comments above this line.-->

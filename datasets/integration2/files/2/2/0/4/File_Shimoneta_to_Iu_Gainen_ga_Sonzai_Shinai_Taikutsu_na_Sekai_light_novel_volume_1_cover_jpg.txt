@@ -1,0 +1,23 @@
+{{Non-free use rationale book cover 
+| Article           = Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
+| Use               = Infobox<!--Choose: Infobox / Header / Section / Author / Other --> 
+<!-- OPTIONAL FIELDS -->
+| Title             = Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
+| Author            = Hirotaka Akagi
+| Publisher         = [[Gagaga Bunko]]
+| Cover_artist      = Eito Shimotsuki
+| Website           = 
+| Owner             = 
+| Commentary        = 
+| Year              = 
+<!--OVERRIDE FIELDS -->
+| Description       = This is the cover to the volume one of [[Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai]]
+| Source            = [http://cdn01.animenewsnetwork.com/thumbnails/max1000x1500/cms/news/80009/51kr-mevxhl..jpg --- http://www.animenewsnetwork.com/news/2014-10-16/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-school-comedy-novels-get-anime/.80009]
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = 
+| Replaceability    = 
+| Other_information = 
+}}
+== Licensing ==
+{{Non-free book cover|image has rationale=yes|category=Light novel cover images}}

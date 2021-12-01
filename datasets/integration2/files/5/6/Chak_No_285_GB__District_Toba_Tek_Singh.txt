@@ -1,0 +1,94 @@
+{{no footnotes|date=February 2019}}
+{{Infobox settlement
+| official_name           =  Chak 285 GB 
+| name                    =  Muhammadabad
+| native_name             = محمد آباد
+| settlement_type         =  Village
+| image_skyline           =
+| imagesize               =  240px
+| image_alt               = 
+| image_caption           = 
+| image_map               = 
+| mapsize                 = 100px
+| map_alt                 = 
+| map_caption             = 
+| coordinates             = {{coord|30|51|16|N|72|34|09|E|region:PK_type:city|display=inline,title}}
+| pushpin_map             = Punjab Pakistan#Pakistan
+| pushpin_label_position  = <!-- left, right, top, bottom, none -->
+| pushpin_map_alt         = 
+| pushpin_mapsize         = 
+| pushpin_map_caption     =  
+| subdivision_type        = [[Country]]
+| subdivision_name        = {{flag|Pakistan}}
+| subdivision_type1       = [[Administrative units of Pakistan|Province]]
+| subdivision_name1       = [[File:Flag of Punjab.svg|25px]] [[Punjab, Pakistan|Punjab]]
+| subdivision_type2       = [[Divisions of Pakistan|Division]]
+| subdivision_name2       = [[Faisalabad Division|Faisalabad]]
+| subdivision_type3       = [[Districts of Pakistan|District]]
+| subdivision_name3       = [[Toba Tek Singh District|Toba Tek Singh]]
+| subdivision_type4       = [[Tehsil]]
+| subdivision_name4       = [[Toba Tek Singh Tehsil|Toba Tek Singh]]
+| subdivision_type5       = [[Town]]
+| subdivision_name5       = [[Rajana]]
+| population_total        = 
+| population_as_of        = 
+| population_est          = 
+| pop_est_as_of           = 
+| population_footnotes    = 
+| area_total_km2          = 
+| elevation_m             = 
+| elevation_m_min         = 
+| elevation_m_max         = 
+| population_density_km2  = 
+| demographics_type1              = Languages:
+| demographics1_title1            = Official
+| demographics1_info1             = [[Urdu]], [[Punjabi language|Punjabi]], [[English language|English]] 
+| leader_title            = 
+| leader_name             = 
+| leader_title1           = 
+| leader_name1            = 
+| area_code               = 046
+| area_code_type          = [[List of dialling codes of Pakistan|Calling Code]]
+| postal_code             = 36071
+| postal_code_type        = [[List of Postal codes in Pakistan|Postal Code]]
+| timezone1               = [[Pakistan Standard Time|PST]]
+| utc_offset1             = +5
+| footnotes               = 
+}}
+
+'''Chak # 285 GB''' (Muhammadabad, [[Urdu]]:'''محمد آباد''') is a large village of [[tehsil]] & [[Toba Tek Singh District|District Toba Tek Singh]], [[Punjab, Pakistan]]. It is a part of Union Council Number 42, along with closest villages, Chak No. 286 GB, [[Chak 284 GB|Chak No. 284 GB]]. Chak No. 291 GB. A Karachi - Lahore Motorway M3 goes through this village and an Interchange has been built in [[Rajana]]. These all villages are on [[Gugera Branch Canal]], which comes from [[Chenab River|River Chennab]] near Khanki, [[Hafizabad]] and again join another cannal from same river Chennab  near [[Shorkot Cantonment|Shorkot Cant]]. The postal code is 36071. Punjabi is the native spoken language but as a national language Urdu is also widely used. Major castes of this village are [[Arain]], [[Syed]], [[Gurjar|Gujjar]], [[Rajputs]], [[Khokhar]], etc.
+
+== Location ==
+It is located near [[Rajana]] which is at the road crossing junction of Faisalabad-Pirmahal and Toba-Chichawatni, approximately 96&nbsp;km south from Faisalabad and 28&nbsp;km northwest of Chichawatni-Toba Take Singh Road. Just across the village boundary there is a hand-planted forest which served as wood supply for British during British raj for decades. This is one of the largest hand-planted forest in [[Pakistan]]. There is also a small [[zoo]] having different birds and animals. Its major crops are [[Wheat]], [[Cotton]], [[Sugarcane]], [[Corn]], [[Rice]] etc.
+
+==Climate==
+{{manual|section|date=February 2019}}
+
+It is not a typical "Hilly & Chilly" type of [[climate]] in Chak No. 285 GB, as it is closer to the plains. During [[winter]], the climate is cold but pleasant when [[Woolen|woollens]] are required. During summer the [[temperature]] is hot and cottons are recommended. Temperature does sometimes cross the 44 degree [[°C]] mark in [[summers]].
+
+== Education ==
+{{original research|section|date=February 2019}}
+
+The village has two schools, one for boys and one for girls, providing education up to 5th class. Nearest Government Degree College is located at Rajana. For University education of boys and girls, students have to seek admission in University at [[Toba Take Singh]] or [[Faisalabad]]. Existing schools at the village are:
+
+* Government Primary School for Boys
+* Government Primary School for Girls
+
+== References ==
+{{reflist}}
+* [[List of districts of Pakistan by Human Development Index]]
+* [http://www.nrb.gov.pk/lg_election/union.asp?district=33&dn=Toba%20Tek%20Singh Tehsils & Unions in the District of Toba Tek Singh – Government of Pakistan]{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+* [https://web.archive.org/web/20111220155725/http://www.pakpost.gov.pk/postcode/postcode.html Pakistan Post Codes]
+* [https://doi.punjab.gov.pk/system/files/TT%20Singh.pdf District Pre-Investment Study - 2012 Toba Tek Singh]
+* [http://www.phsrp.punjab.gov.pk/downloads/distance-hq/T.T.Singh.pdf Punjab Health Sector Reforms Programme]
+
+== External links ==
+*{{official website|http://www.tobateksingh.gov.pk/}}
+* [http://www.agribusiness.com.pk/major-crops-of-pakistan/ Major Crops of Pakistan]
+* [http://www.accuweather.com/en/pk/rajana/637782/daily-weather-forecast/637782 Weather in Rajana - Weather Forecast for Punjab Pakistan]
+
+{{Neighbourhoods of Toba Tek Singh}}
+
+{{Tehsils of Punjab (Pakistan) |state=collapsed}}
+
+[[Category:Union councils of Toba Tek Singh District]]

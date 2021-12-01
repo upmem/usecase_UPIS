@@ -1,0 +1,59 @@
+{{short description|Czech footballer}}
+{{Infobox football biography
+| name = Aleš Škerle
+| image =
+| fullname = 
+| birth_date  = {{Birth date and age|1982|6|14|df=y}} 
+| birth_place = [[Třebíč]], [[Czechoslovakia]]
+| height = {{height|m=1.88}}
+| currentclub  = [[SK Sigma Olomouc|Sigma Olomouc]] (team leader)
+| clubnumber = 
+| position = [[Defender (association football)|Centre back]]
+| youthyears1 = 1989–2000 
+| youthyears2 = 2000–2004
+| youthclubs1 = BOPO Třebíč 
+| youthclubs2 = SK Sigma Olomouc
+| years1 = 2004–2017
+| years2 = 2005–2006
+| years3 = 2015–2016
+| clubs1 = [[SK Sigma Olomouc|Sigma Olomouc]] 
+| clubs2 = → [[FK SIAD Most]] (loan)
+| clubs3 = → [[Bohemians 1905]] (loan)
+| caps1 = 216
+| caps2 = 29  
+| caps3 = 26
+| goals1 = 2
+| goals2 = 0 
+| goals3 = 1
+| totalcaps = 271 | totalgoals = 3
+| nationalyears1 = 
+| nationalteam1 = 
+| nationalcaps1 = 
+| nationalgoals1 = 
+| pcupdate = 
+| ntupdate =
+| manageryears1 = 2018–
+| managerclubs1 = [[SK Sigma Olomouc|Sigma Olomouc]] (team leader)
+}}
+
+'''Aleš Škerle''' (born 14 June 1982) is a retired [[Czech Republic|Czech]] [[football (soccer)|football]] player. He is currently working as a team leader for SK Sigma Olomouc.<ref>[https://www.denik.cz/fotbal/obrance-ales-skerle-ukoncil-karieru-pro-muj-konec-nemohlo-nastat-lepsi-obdobi-20180110.html Obránce Aleš Škerle ukončil kariéru: Pro můj konec nemohlo nastat lepší období]‚ denik.cz, 10 January 2018</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://fotbal.idnes.cz/db_fotbal.asp?hrac=3001305 Profile at iDNES.cz]
+* [http://guardian.touch-line.com/StatsCentre.asp?Lang=0&CTID=27&CPID=89&pStr=Player&PLID=188063&TEID=3477 Guardian Football]
+
+{{use dmy dates|date=January 2011}}
+
+{{DEFAULTSORT:Skerle, Ales}}
+[[Category:Czech footballers]]
+[[Category:SK Sigma Olomouc players]]
+[[Category:FK Baník Most players]]
+[[Category:Sportspeople from Třebíč]]
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Association football defenders]]
+
+{{CzechRepublic-footy-defender-stub}}

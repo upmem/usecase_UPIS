@@ -1,0 +1,6 @@
+{{#switch:{{{station}}}
+ | #default=[[{{{station}}} railway station|{{{station}}}]]
+}}<noinclude>
+{{Rail succession links}}
+[[Category:Koleje Dolnośląskie templates|{{PAGENAME}}]]
+</noinclude>

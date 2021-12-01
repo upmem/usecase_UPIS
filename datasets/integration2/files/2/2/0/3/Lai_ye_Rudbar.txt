@@ -1,0 +1,47 @@
+{{Infobox settlement
+|official_name =Lai-ye Rudbar
+|native_name =لايي رودبار
+|settlement_type        = village
+|pushpin_map            =Iran
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name = {{flag|Iran}}
+|subdivision_type1 =[[Provinces of Iran|Province]]
+|subdivision_name1 =[[Mazandaran Province|Mazandaran]]
+|subdivision_type2 =[[Counties of Iran|County]]
+|subdivision_name2 = [[Neka County|Neka]]
+|subdivision_type3 =[[Bakhsh]]
+|subdivision_name3 =[[Hezarjarib District|Hezarjarib]]
+|subdivision_type4 =[[Rural Districts of Iran|Rural District]]
+|subdivision_name4 =[[Zarem Rud Rural District|Zarem Rud]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2006
+|population_total =339
+|population_density_km2   =auto
+|timezone               = [[Iran Standard Time|IRST]]
+|utc_offset             = +3:30
+|timezone_DST           = [[Iran Daylight Time|IRDT]]
+|utc_offset_DST         = +4:30
+|coordinates            = {{coord|36|29|09|N|53|38|29|E|region:IR|display=inline,title}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+|footnotes              =
+}}
+'''Lai-ye Rudbar''' ({{lang-fa|لايي رودبار}}, also [[Romanize]]d as '''Lā’ī-ye Rūdbār''', '''Lā’ī Rūdbār''' and '''Lāy-e Rūdbār''')<ref>{{GEOnet3|48261|Lai-ye Rudbar}}</ref> is a village in [[Zarem Rud Rural District]], [[Hezarjarib District]], [[Neka County]], [[Mazandaran Province]], [[Iran]]. At the 2006 census, its population was 339, in 97 families.<ref>{{IranCensus2006|02}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Neka County}}
+
+{{Portal|Iran}}
+
+[[Category:Populated places in Neka County]]
+
+{{Neka-geo-stub}}

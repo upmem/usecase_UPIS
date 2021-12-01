@@ -1,0 +1,319 @@
+{{short description|2006-2012 World Rally Championship manufacturer team}}
+{{update|date=August 2018}}
+{{Refimprove|date=February 2012}}
+{{WRC team
+| Short_name    = Adapta WRT
+| Logo          = 
+| Long_name     = Adapta World Rally Team
+| Base          = {{flagicon|Norway}} Oslo, Norway
+| Principal     = Morten Østberg<ref>http://www.wrc.com/drivers-and-teams/teams/adapta-world-rally-team/?teamid=23</ref>
+| Director      = 
+| Drivers       = {{flagicon|Norway}} [[Mads Østberg]]
+{{flagicon|Norway}} [[Eyvind Brynildsen]]
+| Co-drivers    = {{flagicon|Sweden}} [[Jonas Andersson (co-driver)|Jonas Andersson]]
+{{flagicon|Norway}} [[Cato Menkerud]]
+| Chassis       = [[Ford Fiesta RS WRC]]
+| Tyres         = [[Michelin]]
+| Debut         = [[2006 World Rally Championship season|2006]]
+| Last_season   = 
+| Cons_champ    = 0
+| Drivers_champ = 0
+| Wins          = 1
+}}
+
+[[File:2012-rally-great-britain-by-2eight dsc7704.jpg|thumb|left|200px|Østberg at the [[2012 Wales Rally GB]].]]
+
+The '''Adapta WRT''' is a [[World Rally Championship]] team. Sometimes it is referred to as Adapta AS. It has previously competed with [[Subaru Impreza WRC]] of many evolutions, now they use [[Ford Fiesta RS WRC]]. Adapta WRT is signed to manufacturers championship with [[Mads Østberg]] and [[Eyvind Brynildsen]] for [[2012 World Rally Championship season|2012 season]].
+
+== WRC Results ==
+{| class="wikitable" style="text-align:center; font-size:90%"
+|-
+! Year
+! Car
+! No
+! Driver
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+! 14
+! 15
+! 16
+! WDC
+! Points
+! TC
+! Points
+|-
+| [[2006 World Rally Championship season|2006]]
+! [[Subaru Impreza WRC|Subaru Impreza WRC 03]]
+! –
+! {{flagicon|Norway}} [[Mads Østberg]]
+| [[2006 Monte Carlo Rally|MON]]
+|style="background:#CFCFFF;"| [[2006 Swedish Rally|SWE]]<br /><small>31</small>
+| [[2006 Rally México|MEX]]
+| [[2006 Rally Catalunya|ESP]]
+| [[2006 Tour de Corse|FRA]]
+| [[2006 Rally Argentina|ARG]]
+| [[2006 Rally d'Italia Sardegna|ITA]]
+| [[2006 Acropolis Rally|GRE]]
+| [[2006 Rally Deutschland|GER]]
+|style="background:#EFCFFF;"| [[2006 Rally Finland|FIN]]<br /><small>Ret</small>
+| [[2006 Rally Japan|JPN]]
+| [[2006 Cyprus Rally|CYP]]
+| [[2006 Rally of Turkey|TUR]]
+| [[2006 Rally Australia|AUS]]
+| [[2006 Rally New Zealand|NZL]]
+|style="background:#CFCFFF;"| [[2006 Rally GB|GBR]]<br /><small>23</small>
+! –
+! 0
+! –
+! –
+|-
+|rowspan=2| [[2007 World Rally Championship season|2007]]
+!rowspan=2| [[Subaru Impreza WRC|Subaru Impreza WRC 04]]
+! 21
+! {{flagicon|Norway}} [[Mads Østberg]]
+| [[2007 Monte Carlo Rally|MON]]
+|style="background:#CFCFFF;"| [[2007 Swedish Rally|SWE]]<br /><small>9</small>
+|style="background:#CFCFFF;"| [[2007 Rally Norway|NOR]]<br /><small>37</small>
+| [[2007 Rally México|MEX]]
+|style="background:#EFCFFF;"| [[2007 Rally Portugal|POR]]<br /><small>Ret</small>
+| [[2007 Rally Argentina|ARG]]
+|style="background:#EFCFFF;"| [[2007 Rally d'Italia Sardegna|ITA]]<br /><small>Ret</small>
+| [[2007 Acropolis Rally|GRE]]
+|style="background:#DFFFDF;"| [[2007 Rally Finland|FIN]]<br /><small>8</small>
+| [[2007 Rally Deutschland|GER]]
+| [[2007 Rally New Zealand|NZL]]
+| [[2007 Rally Catalunya|ESP]]
+| [[2007 Tour de Corse|FRA]]
+| [[2007 Rally Japan|JPN]]
+| [[2007 Rally Ireland|IRE]]
+|style="background:#CFCFFF;"| [[2007 Rally GB|GBR]]<br /><small>11</small>
+! 21st
+! 1
+!rowspan=2| –
+!rowspan=2| –
+|-
+! 24
+! {{flagicon|Norway}} [[Anders Grondal]]
+| [[2007 Monte Carlo Rally|MON]]
+| [[2007 Swedish Rally|SWE]]
+|style="background:#EFCFFF;"| [[2007 Rally Norway|NOR]]<br /><small>Ret</small>
+| [[2007 Rally México|MEX]]
+| [[2007 Rally Portugal|POR]]
+| [[2007 Rally Argentina|ARG]]
+| [[2007 Rally d'Italia Sardegna|ITA]]
+| [[2007 Acropolis Rally|GRE]]
+| [[2007 Rally Finland|FIN]]
+| [[2007 Rally Deutschland|GER]]
+| [[2007 Rally New Zealand|NZL]]
+| [[2007 Rally Catalunya|ESP]]
+| [[2007 Tour de Corse|FRA]]
+| [[2007 Rally Japan|JPN]]
+| [[2007 Rally Ireland|IRE]]
+| [[2007 Rally GB|GBR]]
+! 0
+! –
+|-
+| [[2008 World Rally Championship season|2008]]
+! [[Subaru Impreza WRC|Subaru Impreza WRC 07]]
+! 18
+! {{flagicon|Norway}} [[Mads Østberg]]
+| [[2008 Monte Carlo Rally|MON]]
+|style="background:#CFCFFF;"| [[2008 Swedish Rally|SWE]]<br /><small>9</small>
+| [[2008 Rally México|MEX]]
+| [[2008 Rally Argentina|ARG]]
+| [[2008 Jordan Rally|JOR]]
+|style="background:#CFCFFF;"| [[2008 Rally d'Italia Sardegna|ITA]]<br /><small>11</small>
+|style="background:#CFCFFF;"| [[2008 Acropolis Rally|GRE]]<br /><small>24</small>
+| [[2008 Rally of Turkey|TUR]]
+|style="background:#EFCFFF;"| [[2008 Rally Finland|FIN]]<br /><small>Ret</small>
+| [[2008 Rally Deutschland|GER]]
+| [[2008 Rally New Zealand|NZL]]
+|style="background:#CFCFFF;"| [[2008 Rally Catalunya|ESP]]<br /><small>14</small>
+|style="background:#CFCFFF;"| [[2008 Tour de Corse|FRA]]<br /><small>9</small>
+| [[2008 Rally Japan|JPN]]
+|style="background:#EFCFFF;"| [[2008 Rally GB|GBR]]<br /><small>Ret</small>
+|
+! –
+! 0
+! –
+! –
+|-
+|rowspan=2| [[2009 World Rally Championship season|2009]]
+!rowspan=2| [[Subaru Impreza WRC|Subaru Impreza WRC2008]]
+! 14
+! {{flagicon|Norway}} [[Mads Østberg]]
+| [[2009 Rally Ireland|IRE]]
+|style="background:#CFCFFF;"| [[2009 Rally Norway|NOR]]<br /><small>9</small>
+| [[2009 Cyprus Rally|CYP]]
+|style="background:#DFFFDF;"| [[2009 Rally Portugal|POR]]<br /><small>6</small>
+| [[2009 Rally Argentina|ARG]]
+|style="background:#DFFFDF;"| [[2009 Rally d'Italia Sardegna|ITA]]<br /><small>7</small>
+|style="background:#DFFFDF;"| [[2009 Acropolis Rally|GRE]]<br /><small>7</small>
+|style="background:#EFCFFF;"| [[2009 Rally Poland|POL]]<br /><small>Ret</small>
+|style="background:#EFCFFF;"| [[2009 Rally Finland|FIN]]<br /><small>Ret</small>
+| [[2009 Rally Australia|AUS]]
+| [[2009 Rally Catalunya|ESP]]
+|style="background:#EFCFFF;"| [[2009 Rally GB|GBR]]<br /><small>Ret</small>
+|
+|
+|
+|
+! 11th
+! 7
+!rowspan=2| –
+!rowspan=2| –
+|-
+! 20
+! {{flagicon|Norway}} [[Anders Grondal]]
+| [[2009 Rally Ireland|IRE]]
+|style="background:#CFCFFF;"| [[2009 Rally Norway|NOR]]<br /><small>14</small>
+| [[2009 Cyprus Rally|CYP]]
+| [[2009 Rally Portugal|POR]]
+| [[2009 Rally Argentina|ARG]]
+| [[2009 Rally d'Italia Sardegna|ITA]]
+| [[2009 Acropolis Rally|GRE]]
+| [[2009 Rally Poland|POL]]
+| [[2009 Rally Finland|FIN]]
+| [[2009 Rally Australia|AUS]]
+| [[2009 Rally Catalunya|ESP]]
+| [[2009 Rally GB|GBR]]
+|
+|
+|
+|
+! –
+! 0
+|-
+|rowspan=2| [[2010 World Rally Championship season|2010]]
+! [[Subaru Impreza WRC|Subaru Impreza WRC2007]]
+!rowspan=2| 14
+!rowspan=2| {{flagicon|Norway}} [[Mads Østberg]]
+|style="background:#DFFFDF;"| [[2010 Rally Sweden|SWE]]<br /><small>8</small>
+|[[2010 Rally Mexico|MEX]]
+|[[2010 Jordan Rally|JOR]]
+|[[2010 Rally of Turkey|TUR]]
+|[[2010 Rally New Zealand|NZL]]
+|
+|
+|style="background:#DFFFDF;"| [[2010 Rally Finland|FIN]]<br /><small>7</small>
+|
+|
+|
+|[[2010 Rally Catalunya|ESP]]
+|style="background:#DFFFDF;"| [[2010 Rally GB|GBR]]<br /><small>9</small>
+|
+|
+|
+!rowspan="2"| 11th
+!rowspan="2"| 18
+!rowspan="2"| –
+!rowspan="2"| –
+|-
+! [[Subaru Impreza WRC|Subaru Impreza WRC2008]]
+|
+|
+|
+|
+|
+|style="background:#DFFFDF;"| [[2010 Rally de Portugal|POR]]<br /><small>7</small>
+|[[2010 Rally Bulgaria|BUL]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|rowspan="2"| [[2012 World Rally Championship season|2012]]
+!rowspan="2"| [[Ford Fiesta RS WRC]]
+! 15
+! {{flagicon|Norway}} [[Mads Østberg]]
+| [[2012 Monte Carlo Rally|MON]]
+|style="background:#FFDF9F;"| [[2012 Rally Sweden|SWE]]<br /><small>3</small>
+|style="background:#DFFFDF;"| [[2012 Rally México|MEX]]<br /><small>4</small>
+|style="background:#FFFFBF;"| [[2012 Rally de Portugal|POR]]<br /><small>1</small>
+|style="background:#FFDF9F;"| [[2012 Rally Argentina|ARG]]<br /><small>3</small>
+|style="background:#DFFFDF;"| [[2012 Acropolis Rally|GRE]]<br /><small>4</small>
+| [[2012 Rally New Zealand|NZL]]
+|style="background:#DFFFDF;"| [[2012 Rally Finland|FIN]]<br /><small>5</small>
+|style="background:#DFFFDF;"| [[2012 Rallye Deutschland|GER]]<br /><small>4</small>
+|style="background:#DFFFDF;"| [[2012 Wales Rally GB|GBR]]<br /><small>4</small>
+|style="background:#DFFFDF;"| [[2012 Rallye de France-Alsace|FRA]]<br /><small>5</small>
+|style="background:#DFFFDF;"| [[2012 Rally d'Italia|ITA]]<br /><small>4</small>
+|style="background:#DFFFDF;"| [[2012 Rally de España|ESP]]<br /><small>4</small>
+|
+|
+|
+! 4th
+! 149
+!rowspan="2"| 4th
+!rowspan="2"| 83
+|-
+! 64
+! {{flagicon|Norway}} [[Eyvind Brynildsen]]
+| [[2012 Monte Carlo Rally|MON]]
+| style="background:#DFFFDF;"| [[2012 Rally Sweden|SWE]]<br /><small>10</small>
+| [[2012 Rally México|MEX]]
+| [[2012 Rally de Portugal|POR]]
+| [[2012 Rally Argentina|ARG]]
+| [[2012 Acropolis Rally|GRE]]
+| [[2012 Rally New Zealand|NZL]]
+| [[2012 Rally Finland|FIN]]
+| [[2012 Rallye Deutschland|GER]]
+| [[2012 Wales Rally GB|GBR]]
+| [[2012 Rallye de France-Alsace|FRA]]
+| [[2012 Rally d'Italia|ITA]]
+| [[2012 Rally de España|ESP]]
+|
+|
+|
+! 29th
+! 1
+|-
+| [[2017 World Rally Championship|2017]]
+! [[Ford Fiesta WRC]]
+! 14
+! {{flagicon|NOR}} [[Mads Østberg]]
+| [[2017 Monte Carlo Rally|MON]]
+| style="background:#CFCFFF;"| [[2017 Rally Sweden|SWE]]<br/><small>15</small>
+| [[2017 Rally Mexico|MEX]]
+| [[2017 Tour de Corse|FRA]]
+| style="background:#DFFFDF;"| [[2017 Rally Argentina|ARG]]<br/><small>9</small>
+| style="background:#DFFFDF;"| [[2017 Rally de Portugal|POR]]<br/><small>8</small>
+| style="background:#DFFFDF;"| [[2017 Rally d'Italia|ITA]]<br/><small>7</small>
+| style="background:#DFFFDF;"| [[2017 Rally Poland|POL]]<br/><small>7</small>
+| style="background:#DFFFDF;"| [[2017 Rally Finland|FIN]]<br/><small>10</small>
+| [[2017 Rallye Deutschland|GER]]
+| style="background:#DFFFDF;"| [[2017 Rally de España|ESP]]<br/><small>5</small>
+| style="background:#CFCFFF;"| [[2017 Wales Rally GB|GBR]]<br/><small>38</small>
+| [[2017 Rally Australia|AUS]]
+|
+|
+|
+! 15th
+! 29
+! –
+! –
+|}
+
+== References ==
+{{reflist}}
+
+{{commonscat}}
+
+
+[[Category:World Rally Championship teams]]

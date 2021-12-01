@@ -1,0 +1,41 @@
+{{Infobox museum
+| name                = Minnesota Discovery Center
+| image               = Minnesota Discovery Center.JPG
+| imagesize           = 200
+| caption             = The Minnesota Discovery Center from the southeast
+| alt                 = 
+| map_type            = 
+| map_relief          = 
+| map_size            =
+| map_caption         = 
+| map_dot_label       =
+| coordinates         = {{coord|47|28|41|N|92|53|46|W|region:US-MN|display=inline,title}}
+| established         = <!-- {{Start date|YYYY|MM|DD|df=y}} -->
+| dissolved           = <!-- {{End date|YYYY|MM|DD|df=y}} -->
+| location            = 1005 Discovery Drive<br>[[Chisholm, Minnesota]], USA
+| type                = History, industry
+| accreditation       = 
+| website             = http://www.mndiscoverycenter.com/
+}}
+
+The '''Minnesota Discovery Center''', formerly known as '''Ironworld Discovery Center''' and originally as the '''Iron Range Interpretive Center''', opened in the 1977 outside [[Chisholm, Minnesota]], United States.<ref>{{cite web |url=http://wcco.com/local/ironworld.new.name.2.1044307.html |title=Archived copy |accessdate=2009-10-28 |url-status=dead |archiveurl=https://web.archive.org/web/20090617102731/http://wcco.com/local/ironworld.new.name.2.1044307.html |archivedate=2009-06-17 }}</ref><ref>St. Paul Pioneer Press December 30, 2002</ref> It showcases northeastern [[Minnesota]]'s "history and future" and includes a museum, entertainment venue, research library and park.<ref name="new name"/> The site offers various community programs and events<ref name="new name">[http://nl.newsbank.com/nl-search/we/Archives?p_product=NT&s_site=duluthsuperior&p_multi=DU&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0FDC4E2A0661887A&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM Ironworld Gets New Name] June 14, 2009 Associated Press/WCCO</ref> including [[Polka]] fests,<ref>[https://web.archive.org/web/20121102095130/http://www.highbeam.com/doc/1P1-79640975.html]</ref> concerts, and fairs. The property also includes the [[Iron Man (Minnesota statue)|Iron Man statue]], and a memorial to [[Rudy Perpich]] and holds historical documents and artifacts related to mining in the [[Iron Range]].
+
+==History==
+The {{convert|660|acre|ha|adj=on}} museum complex opened in 1977 as the Iron Range Interpretive Center with 34 exhibits and was renamed in 1984 as Ironworld USA.<ref name="new name"/> In 2009 it became the Minnesota Discovery Center.<ref name="new name"/>
+
+It was built to celebrate the immigrants who built Minnesota's Iron Range mining region, including [[Italians]], [[Finns]], and [[Yugoslavs]]. It was supposed to draw tourists from around the state and other parts of the U.S., but in the late 1990s was struggling to live up to attendance expectations.<ref>[http://nl.newsbank.com/nl-search/we/Archives?p_product=PD&s_site=twincities&p_multi=SP&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB5E1A553A377CE&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM AT AGE 20, IRONWORLD FALLS SHORT OF MANY EXPECTATIONS//IDENTITY CRISIS, POOR ATTENDANCE PLAGUE FACILITY]  May 19, 1997 - 5B METRO St. Paul Pioneer Press (MN)</ref>
+
+Due to shifting ground on the property with [[shaft mining|mine shaft]]s beneath it, the tourist attraction faced a $2 million to $7 million cost in 2004 for filling and shoring up its foundation or to do complete reconstruction.  It is located on the old Glen Mine property where there are abandoned mine shafts.<ref>[http://nl.newsbank.com/nl-search/we/Archives?p_product=NT&s_site=duluthsuperior&p_multi=DU&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=1070F6DD88F640F9&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM IRONWORLD'S FUTURE IS ON SHAKY GROUND];  IRON RANGE: OFFICIALS DEBATE WHETHER TO STABILIZE THE SHIFTING EARTH BENEATH THE CENTER OR TO RELOCATE PART OF IT.  December 12, 2004 page 01C Duluth News-Tribune (MN)</ref><ref>[http://nl.newsbank.com/nl-search/we/Archives?p_product=NT&s_site=duluthsuperior&p_multi=DU&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=1092E93AE7A80D46&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM]</ref>
+
+The Center include a 1920s [[tram|trolley]] that travels along a "picturesque" {{convert|2.4|mi|km|adj=on}} railway that winds around the Pillsbury mine pit and Glen mine disembarking at Wilpen Train Depot.  There is a renovated 1905 Hill's Finn Boarding House. There is also the Pellet Pete 19 hole mini-golf course. The Ironworld Museum has two floors of "exhibits about [[geology]], [[mining]], [[immigration]] and other aspects of the industrial and cultural history of the region," including the [[taconite]] mining process and the evolution of the industry on the Iron Range.<ref>Henrylito D. Tacio [http://www.sunstar.com.ph/static/dav/2006/08/05/feat/chisholm.mining.at.its.best.html Chisholm: Mining at its best]{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }} August 05, 2006
+Sun Star ([[Davao City|Davao]])</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.mndiscoverycenter.com/ Minnesota Discovery Center]
+
+[[Category:History museums in Minnesota]]
+[[Category:Mining museums in Minnesota]]
+[[Category:Museums in St. Louis County, Minnesota]]

@@ -1,0 +1,85 @@
+{{Use British English|date=January 2014}}
+{{Use dmy dates|date=January 2014}}
+{{Infobox album
+| name       = Resurrection
+| type       = Studio
+| artist     = E-17 aka [[East 17]]
+| cover      = Resurrection 1998.jpg
+| alt        =
+| released   = 16 November 1998
+| recorded   = 1998
+| venue      =
+| studio     =
+| genre      = [[Pop music|Pop]]
+| length     =
+| label      = [[Telstar Records]]
+| producer   =
+| prev_title = [[Around The World Hit Singles: The Journey So Far]]
+| prev_year  = 1996
+| next_title = [[The Very Best of East Seventeen]]
+| next_year  = 2005
+| misc       = {{Singles
+ | name        = Resurrection
+ | type        = studio
+ | single1     = [[Each Time]]
+ | single1date = 2 November 1998
+ | single2     = Betcha Can't Wait
+ | single2date = 1 March 1999
+}}
+}}
+'''''Resurrection''''' is the fourth studio album by [[East 17]], the first without member [[Tony Mortimer]] and the last to feature [[Brian Harvey]]. They would also use new name '''E-17'''. The album was released on 16 November 1998 and is softer in tone than its predecessors, with the main genre being R&B as opposed to the dance and pop music from previous years. 
+
+"[[Each Time]]" and "Betcha Can't Wait" were released as singles. "Each Time" peaked at No. 2 on the [[UK Singles Chart]], while "Betcha Can't Wait" peaked at No. 12.<ref name="uk">{{cite web|url=http://www.theofficialcharts.com/artist/_/east%2017/|title=UK Charts<nowiki>></nowiki>East 17|publisher=[[Official Charts Company]]|accessdate=2010-05-04}}</ref>
+
+==Track listing==
+#"[[Each Time]]"
+#"Sleeping in My Head"
+#"Tell Me What You Want"
+#"Betcha Can't Wait"
+#"Anything (Interlude)"
+#"Daddy's Gonna Love You"
+#"I'm Here for You"
+#"Ain't No Stoppin'"
+#"Falling in Love Again"
+#"Whatever You Need"
+#"Coming Home" (Interlude)
+#"I Miss You"
+#"Another Time"
+#"Lately"
+
+Note : There is a hidden track titled "Start it" before "Each Time", it required to read back during 4min 27s.
+Because no software (PC/Mac) can read back, just Hi-Fi CD Player and Discman can find it.
+
+==Greatest==
+In 2013, after Tony Mortimer's departure from the 3-piece East 17 of 2010-2012, the album "Resurrection" was re-released via the Demon Music Group under the name " '''''Greatest''''' ". Very little information on this release is available. The track-listing is re-arranged slightly.
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+{| class="wikitable sortable"
+!align="left"|Chart (1999) 
+!align="left"|Peak<br/>position
+|-
+{{albumchart|Germany|61|artist=East 17|album=Resurrection}}
+|-
+{{albumchart|Switzerland|43|artist=East 17|album=Resurrection}}
+|-
+{{albumchart|UK|43|artist=East 17}}
+|-
+|}
+{{col-end}}
+
+=== Certifications ===
+{{Certification Table Top}}
+{{Certification Table Entry|region=United Kingdom|type=album|artist=East 17|title=Resurrection|award=Silver|accessdate=25 July 2012|relyear=1998||salesamount=60,000}}
+{{Certification Table Bottom|nosales=true}}
+
+==References==
+{{Reflist}}
+
+<!--*[http://www.amazon.co.uk/Resurrection-East-17/dp/B00002536S/ref=sr_1_11?ie=UTF8&s=music&qid=1198810084&sr=1-11 Amazon.co.uk East 17: Resurrection]-->
+
+{{East 17}}
+
+[[Category:1998 albums]]
+[[Category:East 17 albums]]

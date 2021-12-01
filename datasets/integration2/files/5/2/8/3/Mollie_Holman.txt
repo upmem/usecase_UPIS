@@ -1,0 +1,122 @@
+{{Infobox scientist
+| name              = Mollie Holman
+| honorific-suffix = {{post-nominals|country=AUS|size=100|AO|FAA}}
+| image             = <!--(as myimage.jpg, no 'File:')-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth date|df=yes|1930|6|18}}
+| birth_place       = [[Launceston, Tasmania]], Australia
+| death_date        = {{Death date and age|df=yes|2010|8|20|1930|6|18}}
+| death_place       = [[Surrey Hills, Victoria]], Australia
+| resting_place     = 
+| resting_place_coordinates = <!-- 
+                      {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = Australian
+| fields            = Physiology
+| workplaces        = {{bulleted list |[[University of Melbourne]] |[[Monash University]]}}
+| patrons           =
+| alma_mater        = {{bulleted list |[[University of Melbourne]] |[[Monash University]] |[[University of Oxford]]}}
+| thesis_title      = The effect of ionic environment on the electrical responses of smooth muscle
+| thesis_url        = https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.672002
+| thesis_year       = 1957
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!-- {{URL|www.example.com}} -->
+| footnotes         = 
+| spouse            = 
+| children          = 
+}}
+'''Mollie Elizabeth Holman''' {{post-nominals|country=AUS|AO|FAA}} (18 June 1930 – 20 August 2010)  was an [[Australia]]n [[physiologist]] whose work focused on muscles and the central nervous system.
+
+== Personal life ==
+Mollie Holman was born on 18 June 1930 in Launceston, [[Tasmania]], [[Australia]].
+
+Daughter of an influential father William, a physician and [[radiologist]] and of homemaker mother Mollie (née Bain), Professor Holman was raised as one of four girls. Her father was very supportive of each daughter's intellectual development, and sparked and supported Mollie's interest in physics.<ref name=":0">{{Cite web|url=http://www.med.monash.edu.au/news/2010/mollie-holman.html|title=Farewell to Mollie Holman (1930–2010)|date=2010-09-01|website=Monash University|access-date=2016-05-16}}</ref>
+
+Holman died on 20 August 2010. She is survived by her sisters Jill, Joan and Lucie and their families.<ref name=":1">{{Cite news|url=http://www.theage.com.au/comment/obituaries/key-smooth-cell-researcher-20101012-16hv0.html|title=Key smooth cell researcher|last=Proske|first=Uwe|date=2010-10-13|newspaper=The Age|access-date=2016-05-16}}</ref>
+
+== Education ==
+{{prose|date=August 2014}}
+Holman completed a Bachelor of Science (BSc) degree at the [[University of Melbourne]] in 1952 and a Master of Science (MSc) in 1955. She then moved to England where she undertook studies at the [[University of Oxford]], completing a doctorate in [[pharmacology]] in 1957.<ref>{{Cite web|url=http://www.eoas.info/biogs/P004127b.htm|title=Holman, Mollie Elizabeth (1930–2010) – Biographical entry|website=Encyclopedia of Australian Science|language=en-au|access-date=2016-05-16}}</ref>
+
+*1960s- Doctor of Science (DSc) received from Monash University
+
+== Working life ==
+{{prose|date=August 2014}}
+*1953–54 – Demonstrator in Pharmacology at the University of Melbourne-
+*1955–57 – Research student at the University of Oxford, on a University of Melbourne Travelling Scholarship
+*1957 – Wellcome Research Grant in Oxford
+*1958–62 – Lecturer in Physiology at the University of Melbourne
+*1962 – Senior Lecturer in Physiology at the University of Melbourne
+*1963 – Senior Lecturer in Physiology at Monash University
+*1965 – Edgeworth David Medal received from the Royal Society of New South Wales
+*1965-7? – Career position – Reader in Physiology at Monash University
+*1970 – [[List of Fellows of the Australian Academy of Science|Fellow of the Australian Academy of Science]] (FAA)
+*1970–96 – Professor at Monash University
+*1996 – Emeritus Professor at Monash University
+
+== Research ==
+Professor Holman's research focused on the complex network of nerve cells that regulate autonomic movements (such as digestion and blood pressure), and how these interact with smooth muscle in the body.<ref name=":0" />
+
+In a successful collaboration with Geoff Burnstock, Mollie showed how nerves initiated smooth muscle contractions. She often worked late at night to avoid the unwanted vibrations from the rumblings of passing daytime traffic that interfered with her fine electrodes. Holman completed her DPhil degree in 1957 and returned to Australia in 1958. At about the same time Burnstock was appointed to the department of zoology, allowing the collaboration to continue. Their work on smooth muscle and its nerve supply was pioneering. A series of papers was published, beginning with a note to Nature magazine in 1960. This brought Mollie to the attention of the scientific community.<ref name=":1" />
+
+Sample paper from Google Scholar: [HTML] Two types of neurones in the myenteric plexus of duodenum in the guinea-pig
+GDS Hirst, ME Holman, I Spence – The Journal of Physiology, 1974 – Physiological Soc
+
+== Other interests ==
+Mollie had a rich social life and many interests (ranging from roller-skating, as a child, to skiing and travel, as an adult) she applied herself after retirement to a range of tasks including learning about computers.<ref name=":0" />
+
+== Awards ==
+*1965 – [[Edgeworth David Medal]] received from the [[Royal Society of New South Wales]]
+*1998 – [[Officer of the Order of Australia]] (AO) "for service to scientific research, particularly relating to the autonomic nervous system and the control of smooth muscle, and to education and university administration".<ref name=AO>[http://www.itsanhonour.gov.au/honours/honour_roll/search.cfm?aus_award_id=886155&search_type=simple&showInd=true Officer of the Order of Australia (AO)], 8 June 1998, It's an Honour</ref>
+*2001 – [[Centenary Medal]] "for service to Australian society and science".<ref>[http://www.itsanhonour.gov.au/honours/honour_roll/search.cfm?aus_award_id=1127574&search_type=simple&showInd=true Centenary Medal], 1 January 2001,  It's an Honour</ref>
+
+== The Mollie Holman Medal ==
+[[Monash University]] offered for the first time in 1998, up to 10 medals for award to doctoral candidates, normally one from each faculty, who have fulfilled their degree requirements and presented their faculty's best thesis of the year.<ref name=":0" />
+
+===Notable recipients===
+Notable recipients include:
+{{incomplete list|date=March 2019}}
+* [[Adrian Martin]], Faculty of Arts, Design and Architecture
+* [[Greer Honeywill]], Faculty of Arts, Design and Architecture
+* [[Jared Purton]], Faculty of Medicine, Nursing and Health Sciences
+* [[David Chesworth]], Faculty of Arts, Design and Architecture
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.med.monash.edu.au/assets/images/news/2010/in268-mollie-holman.jpg Photo of Mollie Holman]
+* {{Cite book |url=https://books.google.com/books?id=I7i4NatJmGcC |title=Profiles: Australian Women Scientists |last=Bhathal|first=R. S. |date=1999 |publisher= National Library Australia |isbn=9780642107015 |language=en}}
+* [http://www.med.monash.edu.au/news/2010/mollie-holman.html Farewell to Mollie Holman] – Monash University Website
+* [http://www.monash.edu.au/migr/support/scholarships/grants/mollie-holman.html Mollie Holman Medal] – Monash University Website
+* {{Cite news |url=http://www.theage.com.au/comment/obituaries/key-smooth-cell-researcher-20101012-16hv0.html |title=Key smooth cell researcher |last=Proske|first=Uwe |date=2010-10-13 |newspaper=The Age |access-date=2016-05-16}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Holman, Mollie}}
+[[Category:1930 births]]
+[[Category:2010 deaths]]
+[[Category:Australian physiologists]]
+[[Category:Australian women scientists]]
+[[Category:Officers of the Order of Australia]]
+[[Category:Fellows of the Australian Academy of Science]]
+[[Category:University of Melbourne alumni]]
+[[Category:Monash University alumni]]
+[[Category:University of Melbourne faculty]]
+[[Category:University of Melbourne women]]
+[[Category:Monash University faculty]]
+[[Category:20th-century women scientists]]

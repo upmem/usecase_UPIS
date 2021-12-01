@@ -1,0 +1,21 @@
+The '''Agathonos Monastery''' ({{lang-el|Μονή Αγάθωνος}}) is a [[Greek Orthodox]] male monastery in [[Phthiotis]], [[Central Greece]].
+
+The monastery is located on the northern slopes of [[Mount Oeta]], some 3&nbsp;km west of the town of [[Ypati]].<ref name="TIB">{{Tabula Imperii Byzantini | volume = 1 | pages = 117–118}}</ref> 
+
+The monastery's ''[[katholikon]]'' dates to the 15th century, which is also when the monastery was probably founded,<ref name="TIB"/><ref name="odysseus">{{cite web | url = http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=1945 | title = Μονή Αγάθωνος: Περιγραφή | author = Vasiliki Sythiakaki | publisher = Greek Ministry of Culture | language = Greek | accessdate = 19 September 2015}}</ref> although it may have antecedents as early as 1271, when the ruler of [[Medieval Thessaly|Thessaly]], [[John I Doukas]], received horses in the locality.<ref name="TIB"/> 
+
+The ''katholikon'' is of the [[Mount Athos|Athonite]] variety of the [[cross-in-square]] church with two [[conch (architecture)|conch]]s, [[narthex]], and [[exonarthex]], with four attached chapels on each corner. The main church is dedicated to the [[Virgin Mary]], and the chapels to the [[Transfiguration of Jesus|Transfiguration]] (southeast), the Holy Apostles (northeast), [[Saint Charalambos]] (northwest), and [[John the Evangelist|Saint John]] (southwest).<ref name="TIB"/><ref name="odysseus"/> Its interior decoration dates to three clearly discernible phases: the 16th–17th centuries, the 18th century, and the 20th century.<ref name="odysseus"/> The monastery served as a refuge for Greek rebels during the early stages of the [[Greek War of Independence]], and was burned down by the [[Ottoman Turks]], with the ''katholikon''{{'}}s roof and dome being rebuilt afterwards.<ref name="TIB"/><ref name="odysseus"/> The rest of the monastery buildings are of more recent construction, with the originals having been destroyed.<ref name="TIB"/><ref name="odysseus"/> 
+
+In 1959, the alleged tomb of St. Agathon was discovered in the south wall of the ''katholikon''.<ref name="TIB"/> The noted [[Greek Resistance]] member [[Germanos Dimakos]] was abbot (''[[hegumenos]]'') of the monastery until 1940.
+
+Since 1985, the monastery also houses the '''Oiti Natural History Museum''' (Μουσείο Φυσικής Ιστορίας Οίτης), dedicated to the geology, climate, flora and fauna of Mount Oeta and its national park.<ref>{{cite web | url = http://www.lamia.gr/el/content/moyseio-fysikis-istorias-oitis | title = Μουσείο Φυσικής Ιστορίας Οίτης | language = Greek | publisher = Municipality of Lamia | accessdate = 17 December 2015}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Greek Orthodox monasteries in Greece]]
+[[Category:Buildings and structures in Phthiotis]]
+[[Category:15th-century churches]]
+[[Category:Christian monasteries established in the 15th century]]
+[[Category:Ypati]]
+{{coord|38|52|02|N|22|12|19|E|region:GR-06|display=title}}

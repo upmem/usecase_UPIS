@@ -1,0 +1,60 @@
+{{Use mdy dates|date=January 2017}}
+{{Infobox officeholder
+|name          = Jay P. Rolison Jr.
+|office        = Member of the [[New York Senate]] from the 38th District
+|term_start    = 1967
+|term_end      = 1972
+|predecessor   = [[John D. Calandra]]
+|successor     = [[Donald R. Ackerson]]
+|office1       = Member of the [[New York Senate]] from the 39th District
+|term_start1   = 1973
+|term_end1     = 1982
+|predecessor1  = [[Douglas Hudson]]
+|successor1    = [[Richard E. Schermerhorn]]
+|office2       = Member of the [[New York Senate]] from the 41st District
+|term_start2   = 1983
+|term_end2     = 1990
+|predecessor2  = [[Joseph Bruno]]
+|successor2    = [[Stephen M. Saland]]
+|image         = 
+|imagesize     = 
+|birth_date    = {{birth date|1929|4|5}}
+|birth_place   = [[Madison, New Jersey|Madison]], [[Morris County, New Jersey]]
+|death_date    = {{death date and age|2007|8|29|1929|4|5}}
+|death_place   = [[Poughkeepsie (town), New York|Poughkeepsie]], [[Dutchess County, New York]]
+|party         = [[Republican Party (United States)|Republican]]
+|spouse        = Barbara C. Hanley
+|children      = Rob Rolison, unknown
+|residence     = 
+|alma_mater    = [[Providence College]], [[Fordham Law School]]
+}}
+'''Jay Pardee Rolison Jr.''' (April 5, 1929 – August 29, 2007) was an American lawyer and politician from [[New York (state)|New York]] who served in the [[New York Senate]] from 1967 to 1990.
+
+==Life==
+He was born on April 5, 1929, in [[Madison, New Jersey|Madison]], [[Morris County, New Jersey]], the son of Jay Pardee Rolison (died 1987) and Margaret (Denman) Rolison (1900–1969).<ref>[http://familytreemaker.genealogy.com/users/v/e/g/Tammy--D-Vega/ODT5-0009.html Descendants of Aaron Roleson] (pg. 9) at Family Tree Maker</ref> He attended [[Seton Hall Preparatory School]], and graduated [[Bachelor of Arts|B.A.]] from [[Providence College]].<ref>[https://www.newspapers.com/newspage/114434015/ "Senator Jay P. Rolison Jr."], ''[[Poughkeepsie Journal]]'', September 3, 2007. Accessed November 7, 2017. "Born April 5, 1929 in Madison, N J, he was the son of the late Jay P. Sr. and Margaret Denman Rolison. He was a graduate of Seton Hall Prep., Providence College and Fordham Law School."</ref> He graduated [[LL.B.]] from [[Fordham Law School]] in 1954, and then worked for two years in the Judge Advocate General's Office at [[Fort Gordon]]. Afterwards he practiced law in [[Poughkeepsie, New York]] and entered politics as a [[Republican Party (United States)|Republican]]. He married Barbara C. Hanley (born 1929), and they had two children.<ref>[https://books.google.com/books?id=nGOIAAAAMAAJ&q=red+book+jay+p+rolison+born&dq=red+book+jay+p+rolison+born&hl=en&sa=X&ei=zJWRVNKzMLaHsQS7rIDwAw&ved=0CBwQ6AEwAA ''New York Red Book''] (1985–1986; pg. 122)</ref>
+
+Rolison was a member of the [[New York State Senate]] from 1967 to 1990, sitting in the [[177th New York State Legislature|177th]], [[178th New York State Legislature|178th]], [[179th New York State Legislature|179th]], [[180th New York State Legislature|180th]], [[181st New York State Legislature|181st]], [[182nd New York State Legislature|182nd]], [[183rd New York State Legislature|183rd]], [[184th New York State Legislature|184th]], [[185th New York State Legislature|185th]], [[186th New York State Legislature|186th]], [[187th New York State Legislature|187th]] and [[188th New York State Legislature]]s. He became Assistant Majority Leader in 1985<ref>[https://www.nytimes.com/1985/01/10/nyregion/gop-senators-from-new-york-city-and-li-get-new-power.html ''G.O.P. SENATORS FROM NEW YORK CITY AND L.I. GET NEW POWER''] in the ''[[New York Times]]'' on January 10, 1985</ref>
+
+He died on August 29, 2007, at his home in the [[Poughkeepsie (town), New York|Town of Poughkeepsie]], [[Dutchess County, New York]].<ref>[http://www.poughkeepsiejournal.com/apps/pbcs.dll/article?AID=/20070904/NEWS01/709040316/1006/NEWS ''Former state Sen. Rolison remembered''] in the ''[[Poughkeepsie Journal]]'' on September 3, 2007</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-ny-sen}}
+{{succession box | before = [[John D. Calandra]] | title = [[New York State Senate]] <br>38th District | years = 1967–1972 | after = [[Donald R. Ackerson]]}}
+{{succession box | before = [[Douglas Hudson]] | title = [[New York State Senate]] <br>39th District | years = 1973–1982 | after = [[Richard E. Schermerhorn]]}}
+{{succession box | before = [[Joseph Bruno]] | title = [[New York State Senate]] <br>41st District | years = 1983–1990 | after = [[Stephen M. Saland]]}}
+{{s-end}}
+
+{{DEFAULTSORT:Rolison, Jay P., Jr.}}
+[[Category:1929 births]]
+[[Category:2007 deaths]]
+[[Category:Politicians from Poughkeepsie, New York]]
+[[Category:New York (state) Republicans]]
+[[Category:New York (state) state senators]]
+[[Category:Providence College alumni]]
+[[Category:People from Madison, New Jersey]]
+[[Category:Fordham University School of Law alumni]]
+[[Category:Seton Hall Preparatory School alumni]]
+[[Category:20th-century American politicians]]

@@ -1,0 +1,40 @@
+{{Infobox book
+| name             = Holidays in Heck
+| image            = Holidays in Heck cover.jpg
+| caption          =
+| author           = [[P. J. ORourke]]
+| illustrator      =
+| cover_artist     =
+| country          = United States
+| language         = English
+| series           =
+| subject          =
+| genre            =
+| publisher        = Atlantic Monthly Press
+| pub_date         =  2011
+| english_pub_date =
+| media_type       =
+| pages            =
+| isbn             = 978-0-8021-1985-8
+| oclc             =
+| dewey            =
+| Quin lawrence 
+        =
+| preceded_by      =
+| followed_by      =
+}}
+'''''Holidays in Heck''''' is a 2011 book by [[P. J. O'Rourke]] about the author's travels to various venues.<ref>{{cite news| url=http://usatoday30.usatoday.com/life/books/news/story/2011-12-22/pj-orourke-interview-books/51717642/1| author=Brian Braiker| title=P.J. O'Rourke goes from 'Hell' to 'Heck' for a holiday| publisher=USA Today| date=December 12, 2011}}</ref> 
+
+In the book, O'Rourke recounts family vacations to various tourist destinations, such as the [[Field Museum of Natural History]] in [[Chicago]] and the [[Galápagos Islands]].<ref>{{cite news| url=https://www.nytimes.com/2011/11/30/books/holidays-in-heck-by-p-j-orourke-review.html| author=DWIGHT GARNER| title=Punch Lines for the Right and the Left| work=New York Times| date=November 29, 2011}}</ref> It is loosely modeled after his earlier book ''[[Holidays in Hell]]''.
+
+In the introduction, O'Rourke states, "[After my experiences as a war correspondent] I decided to write about pleasant places. ... I'd always been where people were shooting each other ... How, I wondered, does one undertake enjoyably going somewhere enjoyable?"
+
+== References ==
+{{reflist}}
+
+[[Category:2011 non-fiction books]]
+[[Category:American travel books]]
+[[Category:Atlantic Monthly Press books]]
+
+
+{{travel-book-stub}}

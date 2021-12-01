@@ -1,0 +1,41 @@
+{{Infobox NRHP | name =St. Stephen's Episcopal Church
+  | nrhp_type = 
+  | image = StStephensEpiscopalCh-CasseltonND-00004a.gif
+  | caption = Drawing of south & east elevations
+  | location= Jct. of 3rd Ave. and 5th St., SE corner [[Casselton, North Dakota]]
+  | coordinates = {{coord|46|54|10|N|97|12|34|W|display=inline,title}}
+| locmapin = North Dakota#USA
+  | area =
+  | built =1886
+| architect= [[George Hancock (architect)|George Hancock]]
+| architecture= [[Gothic Revival architecture|Gothic Revival]]
+ | added = December 3, 1992
+ | governing_body = Private
+ | mpsub=Episcopal Churches of North Dakota MPS
+ | refnum=92001609
+<ref name="nris">{{NRISref|2008a}}</ref>
+}}
+The former '''St. Stephen's Episcopal Church''' also known as '''St. Stephen's Church''', is an historic stone [[Gothic Revival]]-style [[ECUSA|Episcopal]] church building located on the southeast  corner of 3rd Avenue and 5th Street in [[Casselton, North Dakota|Casselton]], [[North Dakota]], United States. Built in 1886, it was designed by [[U.K.|British]]-born [[Fargo, North Dakota|Fargo]] architect [[George Hancock (architect)|George Hancock]] and built by stonemason Nathaniel Maconachie. It was consecrated in August, 1887, and shared ministers with the [[Old Stone Church (Buffalo, North Dakota)|Old Stone Church (Calvary Episcopal)]] in [[Buffalo, North Dakota|Buffalo]] for many years. After the congregation dwindled, the building was sold in 1950 to the '''Casselton Mennonite Church''', which worshiped in it until 2002, when the building was closed again. In 2004, the Mennonite congregation donated the church to the '''Casselton Heritage Center, Inc.''', which now operates it as a community center. On December 3, 1992, it was added to the [[National Register of Historic Places]].<ref name="nris">{{NRISref|2008a}}</ref><ref>[http://www.casselton.com/services/heritagecenter/stoneChurchHistory.html History or the Casselton Stone Church by Dellis Schrock]</ref><ref>[http://www.casselton.com/services/heritagecenter/ Casselton Heritage Center]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{HABS |survey=ND-29 |id=nd0110 |title=St. Stephen's Episcopal Church, Langer Avenue & Third Street Northwest, Casselton, Cass County, ND}}
+
+{{Registered Historic Places}}
+
+{{DEFAULTSORT:Saint Stephen's Episcopal Church (Casselton, North Dakota)}}
+[[Category:Episcopal church buildings in North Dakota]]
+[[Category:Gothic Revival church buildings in North Dakota]]
+[[Category:Mennonite church buildings in North Dakota]]
+[[Category:Churches on the National Register of Historic Places in North Dakota]]
+[[Category:Churches completed in 1886]]
+[[Category:Stone churches in North Dakota]]
+[[Category:Historic American Buildings Survey in North Dakota]]
+[[Category:19th-century Episcopal church buildings]]
+[[Category:National Register of Historic Places in Cass County, North Dakota]]
+
+
+{{NorthDakota-NRHP-stub}}
+{{NorthDakota-church-stub}}

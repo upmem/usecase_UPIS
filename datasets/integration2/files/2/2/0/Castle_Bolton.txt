@@ -1,0 +1,44 @@
+{{Short description|Village in North Yorkshire, England}}
+{{use British English|date=October 2017}}
+{{use dmy dates|date=October 2017}}
+{{Infobox UK place 
+| country =                  England
+| coordinates = {{coord|54.322670|-1.947570|display=inline,title}}
+| official_name =            Castle Bolton
+| static_image =             Castle Bolton.jpg
+| static_image_caption =     Castle End, Castle Bolton, which leads to Reeth six miles to the east
+| population =               
+| civil_parish =             
+| shire_district =           [[Richmondshire]]
+| shire_county =             [[North Yorkshire]]
+| region =                   Yorkshire and the Humber
+| constituency_westminster = [[Richmond (Yorks) (UK Parliament constituency)|Richmond]]
+| post_town =                leyburn
+| postcode_district =        DL8
+| postcode_area =            DL
+| dial_code =                
+| os_grid_reference =        SE035919
+
+}}
+'''Castle Bolton''' is a village near [[Bolton Castle]] in [[Wensleydale]], [[North Yorkshire]], England. It gets its name from the castle which looks over the village green.<ref>{{cite web|title=Lower Wensleydale About the Area > Towns & Villages > Castle Bolton|url=http://www.lower-wensleydale.com/AbouttheArea/TownsVillages/CastleBolton.aspx|website=www.lower-wensleydale.com|accessdate=11 January 2016}}</ref> The population of the [[civil parish]] was less than 100 at the 2011 census, so details are maintained in the parish of [[Redmire]].<ref>{{NOMIS2011|id=E04007518|title=Redmire Parish|accessdate=11 September 2019}}</ref> In 2015, [[North Yorkshire County Council]] estimated the population to be 60.<ref>{{cite web |title=2015 Population Estimates Parishes |url=https://www.northyorks.gov.uk/sites/default/files/fileroot/About%20the%20council/North%20Yorkshire%20statistics/Parish_mid-year_population_estimates_2015.pdf |website=northyorks.gov.uk |accessdate=11 September 2019 |format=PDF |date=December 2016}}</ref>
+
+The village is historically part of the [[North Riding of Yorkshire]].<ref>{{cite web|title=History of Castle Bolton, in Richmondshire and North Riding|url=http://www.visionofbritain.org.uk/place/11614|website=www.visionofbritain.org.uk|accessdate=11 January 2016}}</ref>
+
+The village was largely constructed after the nearby castle and the houses were used by the retinue of [[Mary, Queen of Scots]] when she was imprisoned in the castle. The Dales artist Fred Lawson came for a holiday in 1910, set up his artist's studio in the middle of the village and loved it so much he never left.<ref>{{cite web|title=Castle Bolton conservation area character appraisal|url=http://www.yorkshiredales.org.uk/living-and-working/historic-buildings/conservation-areas/castle_bolton_conservation_area_character_appraisal_03-11-99_with_map-2.pdf|website=www.yorkshiredales.org.uk|accessdate=11 January 2016|page=2|date=30 November 1999|archive-url=https://web.archive.org/web/20160304060211/http://www.yorkshiredales.org.uk/living-and-working/historic-buildings/conservation-areas/castle_bolton_conservation_area_character_appraisal_03-11-99_with_map-2.pdf|archive-date=4 March 2016|url-status=dead}}</ref>
+
+==See also==
+*[[St Oswald's Church, Castle Bolton]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category-inline|Castle Bolton}}
+
+
+{{authority control}}
+
+[[Category:Villages in North Yorkshire]]
+
+
+{{richmondshire-geo-stub}}

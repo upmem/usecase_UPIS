@@ -1,0 +1,50 @@
+{{short description|Czech footballer}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox football biography
+| name = Jan Kysela
+| image = 
+| fullname = 
+| birth_date  = {{birth date and age|df=yes|1985|12|17}}
+| birth_place = [[Mladá Boleslav]], [[Czechoslovakia]]
+| height = 1.79 m
+| position = [[Midfielder (association football)|Midfielder]]
+| currentclub = SK Benátky nad Jizerou
+| clubnumber = 20
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 2005–2018
+| years2 = 2005
+| years3 = 2010
+| clubs1 = [[FK Mladá Boleslav|Mladá Boleslav]]
+| clubs2 = → [[FK Ústí nad Labem|Ústí nad Labem]] (loan)
+| clubs3 = → [[SK Slavia Praha|Slavia Praha]] (loan)
+| caps1 = 220
+| caps2 = 20
+| caps3 = 8
+| goals1 = 18
+| goals2 = 2
+| goals3 = 0
+| totalcaps = 248 |  totalgoals = 20
+| nationalyears1 = 2006–2007 | nationalteam1 = [[Czech Republic national under-21 football team|Czech Republic U21]] | nationalcaps1 = 8 | nationalgoals1 = 0
+}}
+
+'''Jan Kysela''' (born 17 December 1985) is a [[Czech (people)|Czech]] [[Association football|football]] player who played for most of his career for [[FK Mladá Boleslav|Mladá Boleslav]]. He currently plays in lower Czech divisions.
+
+==References==
+*{{FACR player|KyselaJan}}
+*{{Fotbal DNES|3004731}}
+*{{Webarchive |url=https://web.archive.org/web/20120525140106/http://guardian.touch-line.com/StatsCentre.asp?Lang=0&CTID=27&CPID=89&pStr=Player&PLID=195785&TEID=3723 |title=Guardian Football }}
+
+{{DEFAULTSORT:Kysela, Jan}}
+[[Category:Czech footballers]]
+[[Category:Czech Republic under-21 international footballers]]
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:Czech First League players]]
+[[Category:FK Mladá Boleslav players]]
+[[Category:SK Slavia Prague players]]
+[[Category:Association football forwards]]
+[[Category:Sportspeople from Mladá Boleslav]]
+
+
+{{CzechRepublic-footy-forward-stub}}

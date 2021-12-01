@@ -1,0 +1,43 @@
+{{Infobox settlement
+|official_name =Nerqin Khotanan
+|native_name =Ներքին Խոտանան 
+|settlement_type        = [[Community (Armenia)|community]]
+|pushpin_map            =Armenia
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name       = {{flag|Armenia}}
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      =[[Syunik Region|Syunik]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 4.36
+|area_footnotes           = <ref>{{ARMENIAarea|Syunik}}</ref>
+|population_as_of         = 2011
+|population_total =65
+|population_density_km2   =auto
+|timezone =&nbsp;
+|utc_offset             = +4
+|timezone_DST           =&nbsp; 
+|utc_offset_DST         = +5
+|coordinates            = {{coord|39|17|01|N|46|22|40|E|region:AM|display=inline,title}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+|footnotes              ={{GEOnet2|32FA881E6C063774E0440003BA962ED3}}
+}}
+'''Nerqin Khotanan''' ({{lang-hy|Ներքին Խոտանան}}, also [[Romanize]]d as '''Nerk’in Khotanan''' and '''Nerkin Khotanan'''; Russified as '''Nizhniy Khotanan''') is a village and [[Community (Armenia)|rural community]] (municipality) in the [[Syunik Region|Syunik Province]] of [[Armenia]].  The [[National Statistical Service of the Republic of Armenia]] (ARMSTAT) reported its population was 70 in 2010,<ref>{{ARMSTATdata|44}}</ref> down from 101 at the 2001 census.<ref>{{ArmenianCensus|210}}</ref>
+
+== See also ==
+*[[Syunik Province]]
+
+== References ==
+{{reflist}}
+
+{{Syunik}}
+
+[[Category:Communities in Syunik Province]]
+[[Category:Populated places in Syunik Province]]
+
+{{Syunik-geo-stub}}

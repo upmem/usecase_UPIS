@@ -1,0 +1,25 @@
+{{Speciesbox
+|image =
+|genus = Mahonia
+|species = nitens
+|authority = [[C.K.Schneid.]]
+|synonyms_ref =
+|synonyms = *''Berberis nitens'' <small>([[C.K.Schneid.]]) Laferr. (1997), illegitimate homonym, not Schrader (1838)</small>
+*''Berberis schochii'' <small>(C.K.Schneid. ex Hand.-Mazz.) Laferr. (1997)</small>
+*''Mahonia schochii'' <small>C.K.Schneid. ex Hand.-Mazz. (1931)</small>
+}}
+
+'''''Mahonia nitens''''' is a shrub in the [[Berberidaceae]] described as a species in 1913.<ref>[https://www.biodiversitylibrary.org/page/413169#page/393/mode/1up Schneider, Camillo Karl. 1913. Plantae Wilsonianae an enumeration of the woody plants collected in Western China for the Arnold Arboretum of Harvard University during the years 1907, 1908 and 1910 by E.H. Wilson edited by Charles Sprague Sargent 1(3): 379–380]</ref> It is [[endemic]] to [[China]], known from the provinces of [[Guizhou]] and [[Sichuan]].<ref>[http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008402 Flora of China Vol. 19 Page 780 <big>亮叶十大功劳</big> liang ye shi da gong lao ''Mahonia nitens'' C. K. Schneider ]</ref>
+
+==References==
+{{reflist}}
+
+{{Taxonbar|from=Q10883309}}
+
+[[Category:Mahonia|nitens]]
+[[Category:Endemic flora of China]]
+[[Category:Shrubs]]
+[[Category:Plants described in 1913]]
+
+
+{{Ranunculales-stub}}

@@ -1,0 +1,439 @@
+[[Image:Map of New Brunswick highlighting Victoria County.png|thumb|right|150px]]
+This is a '''list of historic places in [[Victoria County, New Brunswick]]''' entered on the [[Canadian Register of Historic Places]], whether they are federal, provincial, or municipal.
+{{GeoGroup}}
+
+==List of historic places==
+{{HPC header|prov_iso=CA-NB}}
+{{HPC row
+| name = All Saints Anglican Church
+| coordname = All Saints Anglican Church
+| address = 253 Front Street
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0483
+| lon = -67.7415
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9681
+| image =
+}}
+{{HPC row
+| name = Assomption Cemetery
+| coordname = Assomption Cemetery
+| address = Chapel Street
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.044
+| lon = -67.742
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9630
+| image =
+}}
+{{HPC row
+| name = Assomption Cemetery (Portage Road)
+| coordname = Assomption Cemetery (Portage Road)
+| address = 368 Portage Road
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0339
+| lon = -67.748
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9680
+| image =
+}}
+{{HPC row
+| name = Assomption Church
+| coordname = Assomption Church
+| address = 355 Chapel Street
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0443
+| lon = -67.7414
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9605
+| image =
+}}
+{{HPC row
+| name = The Broadway
+| coordname = The Broadway
+| address = 246 Broadway Boulevard
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0479
+| lon = -67.7407
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9689
+| image =
+}}
+{{HPC row
+| name = Canadian Pacific Railway Station
+| coordname = Canadian Pacific Railway Station (Aroostook)
+| address = Station Street
+| municipality = [[Aroostook, New Brunswick|Aroostook]]
+| pc = 
+| lat = 46.8063
+| lon = -67.7207
+| region = NB
+| provinceId = 100036
+| idf = 4523
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Former Canadian Pacific Railway Station
+| coordname = Former Canadian Pacific Railway Station (Grand Falls)
+| address = Portage Street
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = 
+| lat = 47.0433
+| lon = -67.7446
+| region = NB
+| provinceId = 100036
+| idf = 9980
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Herby (Bert) Corbin Monument
+| coordname = Herby (Bert) Corbin Monument
+| address = Broadway Boulevard
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0456
+| lon = -67.7443
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9617
+| image =
+}}
+{{HPC row
+| name = Danish Immigrant Lot
+| coordname = Danish Immigrant Lot
+| address = 6 Main Street
+| municipality = [[New Denmark, New Brunswick|New Denmark]]
+| pc = E7G
+| lat = 46.958
+| lon = -67.6497
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 5762
+| idm =
+| image =
+}}
+{{HPC row
+| name = Farmers' Market
+| coordname = Farmers' Market
+| address = 68 Madawaska Road
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Y
+| lat = 47.0536
+| lon = -67.7374
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9608
+| image =
+}}
+{{HPC row
+| name = Former National Transcontinental Railway (Canadian National Railways) Station
+| coordname = Former National Transcontinental Railway (Canadian National Railways) Station
+| address = CN Road (at Industrial), Grand Falls, Canada
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Y
+| lat = 47.064
+| lon = -67.742
+| region = NB
+| provinceId = 100036
+| idf = 4589
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Former St. James United Church
+| coordname = Former St. James United Church
+| address = 1291 West Riverside Drive
+| municipality = [[Perth-Andover, New Brunswick|Perth-Andover]]
+| pc = E7H
+| lat = 46.7507
+| lon = -67.6968
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 5875
+| idm =
+| image =
+}}
+{{HPC row
+| name = Fort Carleton Commemorative Site
+| coordname = Fort Carleton Commemorative Site
+| address = Broadway Boulevard
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.047
+| lon = -67.7419
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9627
+| image =
+}}
+{{HPC row
+| name = Government of Canada Building
+| coordname = Government of Canada Building
+| address = 373 Broadway Boulevard
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc =
+| lat = 47.045
+| lon = -67.743
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 2000
+| image =
+}}
+{{HPC row
+| name = Kirkpatrick House
+| coordname = Kirkpatrick House
+| address = 131 Church Street
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0468
+| lon = -67.739
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9631
+| image =
+}}
+{{HPC row
+| name = Krupp Cannon
+| coordname = Krupp Cannon
+| address = Broadway Boulevard
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0486
+| lon = -67.7388
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9609
+| image =
+}}
+{{HPC row
+| name = Malabeam Centre
+| coordname = Malabeam Centre
+| address = 61 Madawaska Road
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Y
+| lat = 47.0522
+| lon = -67.7384
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9607
+| image =
+}}
+{{HPC row
+| name = Masonic Hall
+| coordname = Masonic Hall
+| address = 136 Church Street
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Y
+| lat = 47.0470
+| lon = -67.7388
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 8239
+| image =
+}}
+{{HPC row
+| name = Old Grand Falls Post Office
+| coordname = Old Grand Falls Post Office
+| address = 142 Court Street
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0465
+| lon = -67.7406
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 6489
+| image =
+}}
+{{HPC row
+| name = Pine Hill Cemetery
+| coordname = Pine Hill Cemetery
+| address = Broadway Boulevard
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0437
+| lon = -67.7491
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9687
+| image =
+}}
+{{HPC row
+| name = St. Andrew's United Church
+| coordname = St. Andrew's United Church
+| address = 122 Church Street
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0466
+| lon = -67.7381
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9613
+| image =
+}}
+{{HPC row
+| name = Sénéchal Store
+| coordname = Sénéchal Store
+| address = 304 Broadway Boulevard
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0472
+| lon = -67.7421
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9629
+| image =
+}}
+{{HPC row
+| name = Sons of Martha Monument
+| coordname = Sons of Martha Monument
+| address = O. B. Davis Park
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0505
+| lon = -67.7392
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9610
+| image =
+}}
+{{HPC row
+| name = Union Cemetery
+| coordname = Union Cemetery
+| address = 149 Manse Street
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0456
+| lon = -67.7342
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9688
+| image =
+}}
+{{HPC row
+| name = United Baptist Church
+| coordname = United Baptist Church
+| address = 96 Court Street
+| municipality = [[Grand Falls, New Brunswick|Grand Falls]]
+| pc = E3Z
+| lat = 47.0453
+| lon = -67.7396
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 9686
+| image =
+}}
+{{HPC row
+| name = Victoria County Court House
+| coordname = Victoria County Court House
+| address = 1135 West Riverside Drive
+| municipality = [[Perth-Andover, New Brunswick|Perth-Andover]]
+| pc = E7H
+| lat = 46.7394
+| lon = -67.7047
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 2858
+| idm =
+|image=Palais de justice du comté de Victoria, New-Brunswick, 21 juillet 2013.JPG
+|commonscat=Victoria County Court House (New Brunswick)
+}}
+{{HPC row
+| name = Victoria County Registry Office
+| coordname = Victoria County Registry Office
+| address = 1131 West Riverside Drive
+| municipality = [[Perth-Andover, New Brunswick|Perth-Andover]]
+| pc = E7H
+| lat = 46.7393
+| lon = -67.7048
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 1955
+| idm =
+| image =
+}}
+{{HPC row
+| name = [[Wolastoq National Historic Site of Canada]]
+| coordname = Wolastoq National Historic Site of Canada
+| address = Entire watershed of [[Saint John River (Bay of Fundy)|Saint John River]]
+| municipality = central and western New Brunswick, parts of southeastern Quebec
+| pc = 
+| lat = 46.8073
+| lon = -67.7170
+| region = NB
+| provinceId = 100036
+| idf = 18954
+| idp =
+| idm =
+| image =Perth-Andover Bridge.jpg
+| commonscat=Saint John River
+}}
+{{HPC footer}}
+
+==See also==
+{{Commons category|Cultural heritage monuments in New Brunswick}}
+* [[List of historic places in New Brunswick]]
+* [[List of National Historic Sites of Canada in New Brunswick]]
+
+{{DEFAULTSORT:Historic places in Victoria County, New Brunswick}}
+[[Category:Lists of historic places in New Brunswick|Victoria County, New Brunswick]]
+[[Category:Heritage sites in New Brunswick|Victoria County]]
+[[Category:New Brunswick-related lists]]

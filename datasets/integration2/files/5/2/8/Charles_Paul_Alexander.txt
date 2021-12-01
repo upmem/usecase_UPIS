@@ -1,0 +1,44 @@
+{{short description|American entomologist}}
+'''Charles Paul Alexander''' (September 25, 1889, [[Gloversville, New York]] - December 3, 1981) was an American [[Entomology|entomologist]] who specialized in the craneflies, [[Tipulidae]].
+
+Charles Paul Alexander was the son of Emil Alexander and Jane Alexander (née Parker). Emil (the father) immigrated to the United States in 1873 and changed his surname from Schlandensky to Alexander. Charles entered [[Cornell University]] in 1909, earning a [[Bachelor of Science]] in 1913 and a Ph.D. in 1918. Between 1917 and 1919, he was entomologist at the [[University of Kansas]], then from 1919 to 1922, at the [[University of Illinois at Urbana–Champaign|University of Illinois]].
+
+He then became professor of entomology at [[Massachusetts Agricultural College]] at [[Amherst, Massachusetts|Amherst]]. He studied [[Diptera]], especially in the family [[Tipulidae]].<ref>{{cite web|title=Charles P. Alexander Papers|work=Record Unit 7298, Alexander, Charles P, (Charles Paul), 1889-1981|publisher=[[Smithsonian Institution Archives]]|url=https://siarchives.si.edu/collections/siris_arc_217455|accessdate=10 September 2019}}</ref> He described over 11,000 species and genera of flies, which translates to approximately a species description a day for his entire career.
+
+In 1920, C.P. Alexander became a Fellow of the [[Entomological Society of America]].<ref>{{cite web|url=https://www.entsoc.org/awards/honors/fellows_list|title=List of ESA Fellows|publisher=Entomological Society of America|accessdate=10 September 2019}}</ref>
+
+==Works==
+Partial list
+A synopsis of part of the Neotropical Crane-flies of the subfamily Limnobinae
+(Tipulidae) 69 p - 4 pl (1913).
+
+==Sources==
+{{Reflist}}
+Anthony Musgrave (1932). Bibliography of Australian Entomology, 1775–1930, with biographical notes on authors and collectors, Royal Zoological Society of News South Wales (Sydney): viii + 380.
+
+==External links==
+*{{Gutenberg author|id=Alexander,+Charles+P.|name=Charles P. Alexander}}
+*{{Internet Archive author|sname=Charles Paul Alexander|sopt=t}}
+;From the [[Smithsonian Institution Archives]]
+**[http://siarchives.si.edu/collections/siris_arc_229244 Charles P. Alexander Papers, 1905-1979]
+**[http://siarchives.si.edu/collections/siris_arc_246859 Charles P. Alexander Papers, 1930-1977]{{Dead link|date=November 2016|bot=InternetArchiveBot|fix-attempted=yes}}
+*[https://archive.is/20130414113125/http://iz.carnegiemnh.org/cranefly/AllLiterature.htm Published works] (Under List of 4733 Crane Fly Literature Citations)
+*[http://diptera.dk/ReferencesSearch.php Systema Dipterorum] Provides complete Charles Paul Alexander Diptera Bibliography
+*[http://diptera.dk/NomenclatorSearch.php Systema Dipterorum] Provides complete list of genera and species described by Charles Paul Alexander (13,446 taxa)
+*[http://www.ubio.org/NomenclatorZoologicus/ NomenclatorZoologicus] Full list of Alexander genera via search (363 genera)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Alexander, Charles Paul}}
+[[Category:1889 births]]
+[[Category:1981 deaths]]
+[[Category:American entomologists]]
+[[Category:Cornell University alumni]]
+[[Category:University of Kansas faculty]]
+[[Category:University of Illinois at Urbana–Champaign faculty]]
+[[Category:University of Massachusetts Amherst faculty]]
+[[Category:Fellows of the Entomological Society of America]]
+[[Category:20th-century zoologists]]
+
+
+{{US-entomologist-stub}}

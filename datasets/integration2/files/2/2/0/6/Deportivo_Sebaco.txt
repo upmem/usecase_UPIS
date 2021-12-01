@@ -1,0 +1,55 @@
+{{Infobox football club
+| clubname = Deportivo Sebaco
+| image = 
+| fullname = Deportivo Sebaco
+| nickname =   
+| founded  = 
+| ground   = Estadio Municipal “El Colosal” de Sébaco<br>[[Sebaco]], [[Nicaragua]]
+| capacity = 1,000
+| chairman  = 
+| manager  = Óscar Castillo
+| league   = [[Nicaraguan Primera División]]
+| season   =  
+| position = 
+|pattern_la1=_whiteshoulders
+|pattern_b1=_whitehoops
+|pattern_ra1=_whiteshoulders
+|pattern_so1 = _whitehorizontal
+|leftarm1=009900
+|body1=009900
+|rightarm1=009900
+|pattern_sh1=_greensides
+|shorts1=ffffff
+|socks1=009900
+
+| pattern_la2 = 
+| pattern_b2  = _blacksides
+| pattern_ra2 = 
+| pattern_sh2 = _blacksides
+| pattern_so2 = _blackhorizontal
+| leftarm2    = 000000
+| body2       = cc0000
+| rightarm2   = 000000
+| shorts2     = cc0000
+| socks2      = ffffff
+}}
+
+'''Deportivo Sebaco''' is a [[Nicaragua]]n [[association football|football]] team currently playing in the [[Nicaraguan Primera División]]. They are based in [[Sebaco]].
+
+==History==
+The club was founded in 2014.  In 2016, Deportivo Sebaco won promotion to the Primera Division for the very first time by defeating [[ART Municipal Jalapa]] in a promotion relegation playoff.  [http://www.laprensa.com.ni/2016/06/20/deportes/2054772-sebaco-nuevo-campeon-del-torneo-clausura-segunda-division].
+
+==Achievements==
+*'''[[Segunda División de Nicaragua]]: 1'''
+*:2016 Clausura
+
+==List of Coaches==
+* {{flagicon|NCA}} TBD
+* {{flagicon|NCA}} Óscar Castillo
+
+==External links==
+* [http://www.laprensa.com.ni/2016/07/26/deportes/2073457-milagroso-ascenso-del-deportivo-sebaco-la-nueva-liga-nicaraguense-futbol] – La Prensa
+
+{{Primera División de Nicaragua}}
+
+[[Category:Football clubs in Nicaragua]]

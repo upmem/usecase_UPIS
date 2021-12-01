@@ -1,0 +1,17 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = German poster of film "Forget Me Not" (1936) for https://en.wikipedia.org/wiki/Forget_Me_Not_(1936_film)
+|Source = http://www.regilexikon.com/kordazoltan/kordazoltan.php
+|Date = Unknown
+|Author = Unknown
+|Article = Forget Me Not (1936 film)
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = a / The image is of sufficient res. for the article and for identification purposes, but lower res. than the original poster.
+b / It is the sole intended image for the article.
+|Commercial = n.a.
+|Other information = Image is important to illustrate/provide visual info. for the article. Use of the image in no way violates the copyright holder's legal rights.
+}}
+
+==Licensing==
+{{Non-free movie poster|image has rationale=yes}}

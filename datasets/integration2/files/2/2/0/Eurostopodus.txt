@@ -1,0 +1,44 @@
+{{short description|Genus of birds}}
+{{More citations needed|date=October 2017}}
+{{automatic taxobox
+| image = White-throated nightjar kobble.jpg
+| image_caption = [[White-throated nightjar]]  (''Eurostopodus mystacalis'')
+| taxon = Eurostopodus
+| authority = [[John Gould|Gould]], 1838
+| subdivision_ranks = Species
+| subdivision = 7; see text
+}}
+
+'''''Eurostopodus''''' is a genus of [[eared nightjar]] in the family [[Caprimulgidae]]. This genus is distinctive among the Old World nightjars in lacking long rictal bristles. It also shows some features that are not shared with Caprimulginae and Chordeilinae, like having a larger size or the variable presence of ear-tufts, juveniles showing rufous plumage, long incubation periods and brown-reds and black spotted eggs.<ref>{{Cite book|title=Nightjars and their Allies|last=Holyoak|first=D.T|publisher=Oxford|year=|isbn=|location=|pages=}}</ref>
+
+==Species==
+The genus contains the following seven species:
+{| class="wikitable"
+|-
+! Image !! Scientific name !! Common Name !! Distribution
+|-
+|[[File:Eurostopodus argus 2 - Christopher Watson.jpg|120px]] || ''Eurostopodus argus'' || [[Spotted nightjar]] || mainland Australia, Indonesian islands.
+|-
+|[[File:White-throated nightjar kobble.jpg|120px]] || ''Eurostopodus mystacalis'' || [[White-throated nightjar]] || eastern Australia;  Papua New Guinea
+|-
+| || ''Eurostopodus nigripennis'' || [[Solomons nightjar]]  || Solomon Islands archipelago
+|-
+||| ''Eurostopodus exul'' ||[[New Caledonian nightjar]] ||  New Caledonia. 
+|-
+| || ''Eurostopodus diabolicus'' || [[Satanic nightjar]] ||  Sulawesi
+|-
+| || ''Eurostopodus papuensis'' || [[Papuan nightjar]] ||  New Guinea.
+|-
+| || ''Eurostopodus archboldi'' || [[Archbold's nightjar]] ||  New Guinea.
+|-
+|}
+
+==References==
+{{Reflist}}
+{{Taxonbar|from=Q517533}}
+
+[[Category:Eurostopodus| ]]
+[[Category:Bird genera]]
+
+
+{{caprimulgiformes-stub}}

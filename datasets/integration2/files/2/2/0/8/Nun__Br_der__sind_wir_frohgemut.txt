@@ -1,0 +1,135 @@
+{{Infobox musical composition
+| name                = "{{Lang|de|Nun, Brüder, sind wir frohgemut|italic=no}}"
+| type                = German Catholic [[hymn]]
+| image               = Altenberger Dom, Mary (1530), decorated in May.jpg
+| image_upright       = 1.2
+| alt                 = 
+| caption             = 1530 sculpture of [[Mary, mother of Jesus|Mary]] in the [[Altenberger Dom]], decorated in the Marian month of May
+| title_English       = Now, brothers, we are cheerful
+| text                = by [[Georg Thurmair]]
+| written             = {{Start date|1935}} 
+| melody              = by [[Adolf Lohmann]]
+| language            = German
+| based_on            = 
+| published           = {{Start date|1938}}
+| misc                = 
+}}
+
+"'''{{Lang|de|Nun, Brüder, sind wir frohgemut|italic=no}}'''" (Now, brothers, we are cheerful) is a German Catholic [[hymn]]. It was written by [[Georg Thurmair]] as both a pilgrimage song and a [[Marian hymn]]. The melody was composed by [[Adolf Lohmann]], who wrote a choral setting in 1936. Related to youth pilgrimages to an image of [[Mary, mother of Jesus|Mary]] at the [[Altenberger Dom]], it is also known as "'''{{Lang|de|Altenberger Wallfahrtslied|italic=no}}'''" (Altenberg pilgrimage song). The song is regarded as an {{Lang|de|Oppositionelles Lied|italic=no}} (Oppositional song), in subtle protest against the [[Nazi regime]].
+
+In the process of adapting the text to [[gender-neutral language]], the first line has been changed, replacing "brothers" by "we all", "friends" or "Christians". Several regional sections of the Catholic hymnal ''[[Gotteslob]]'' offer alternatives. It is "{{Lang|de|Nun sind wir alle frohgemut|italic=no}}" in the [[Diocese of Hamburg]], GL 902, "{{Lang|de|Nun, Freunde, sind wir frohgemut|italic=no}}" in the [[Diocese of Münster]] of 1996, GL 875, and "'''{{Lang|de|Nun, Christen, sind wir frohgemut|italic=no}}'''" in the [[Diocese of Limburg]], GL 878.
+
+== History ==
+[[Haus Altenberg]] next to the [[Altenberger Dom]] was founded in 1922 as a meeting place for Catholic youth by [[Carl Mosterts]]. His successor {{ill|Ludwig Wolker|de}} made it in 1926 the centre of the Catholic ''Jugendbewegung'' in Germany. From 1935, the movement was restricted to strictly religious meetings by the Nazi government, leading to an increase in events such as pilgrimages.<ref name="Schepping" /> The 1530 sculpture of Mary in the centre of the Altenberger Dom became the destination of processions, including {{Lang|de|Lichterprozessionen}}, processions with candles and torches at night. The tradition has continued after World War II as the {{ill|Altenberger Licht|de}}.<ref name="Licht" />
+
+Wolker declared the {{Lang|de|Madonna von Altenberg}} and the {{Lang|de|Königin des Bundes}} (Queen of the union) and encouraged the publication of a hymnal ''[[Kirchenlied]]'', which became the source of common Christian singing in German.<ref>Willi Bokler: ''Vorwort.'' In: Carlfried Halbach: ''Der Dom zu Altenberg. Mit einem Gedichtzyklus von Georg Thurmair und einem Beitrag von Hans Peters.'' Verlag Haus Altenberg. Altenberg und Düsseldorf 1953.</ref> Several new songs were written, including works by the secretary of the youth movement, [[Georg Thurmair]], set to music by [[Adolf Lohmann]]. One of them was the 1935 song "{{Lang|de|Nun, Brüder, sind wir frohgemut|italic=no}}". Thousands of young people met for the processions until 1938.<ref>Thomas Labonté: ''Die Sammlung "Kirchenlied" (1938). Entstehung, Korpusanalyse, Rezeption.'' Francke Verlag, Tübingen 2008, {{ISBN|978-3-7720-8251-1}}, p. 212, quoting Josef Diewald: ''Ökumenische Pionierarbeit.'' In: Elisabeth Thurmair (ed.): ''Ein Gast auf Erden: Georg Thurmair. Mahner, Rufer, Rebell.'' Eggenfelden, Buxheim 1986, p. 97.</ref>
+
+The song expressed the protest of the Catholic youth in subtle, cryptic ways,<ref name="Linner"/><ref name="Bittmann" /><ref name="University" /> for example by using metaphors such as {{Lang|de|dunkler Bann}} (dark ban), and by requesting of Mary: "{{Lang|de|Nun breite deine Hände aus, dann wird kein Feind uns schaden|italic=no}}" (Now stretch out your hands, then no enemy will harm us.)<ref name="Schepping" /> The song became known as the "{{Lang|de|Altenberger Wallfahrtslied|italic=no}}" (Altenberg pilgrimage song).<ref name="Linner" /><ref name="Kirchenlied" />
+
+== Publication and reception ==
+The hymn was first published in 1935 in the youth magazine {{Lang|de|Die Wacht}} for which Thurmair was an editor. It became known when it was included in the {{Lang|de|Kirchenlied}} in 1938, subtitled {{Lang|de|Eine Auslese geistlicher Lieder für die Jugend}} (A selection of spiritual song for the youth), a collection of 140 old and new hymns from different periods.<ref name="Schepping" /><ref name="Linner" /> Thurmair included the song also in a 1938 poetry collections, {{Lang|de|Die ersten Gedichte an die Freunde}} (The first poems to the friends), which was banned by the Nazis shortly after publication.<ref name="Gedichte" /> The song has been regarded as an {{Lang|de|Oppositionelles Lied}} (Oppositional song), in subtle protest against the [[Nazi regime]]. Its text was distributed among young people also in form of a {{Lang|de|Schmuckblatt}} (Decorated leaf) useful to hang on a wall.<ref name="Schepping" />
+
+Adolf Lohmann wrote a five-part choral setting, which was published in 1936 as "{{Lang|de|Altenberger Wallfahrtslied|italic=no}}"
+<ref name="Aachen" /> in the {{Lang|de|Zweite Mappe der Tonsätze zum Singeschiff}}. In the first common Catholic hymnal, the [[Gotteslob (1975)|1975 ''Gotteslob'']], it was not part of the common section ({{Lang|de|Stammteil}}), but in 16 regional sections.<ref>Thomas Labonté: ''Die Sammlung "Kirchenlied" (1938). Entstehung, Korpusanalyse, Rezeption.'' Francke Verlag, Tübingen 2008, {{ISBN|978-3-7720-8251-1}}, pp 196–209.</ref> In the 2013 edition, it was again not included in the common section, but in several regional sections, however avoiding the term "{{Lang|de|Brüder|italic=no}}" in the first line as not neutral to gender.
+
+== References ==
+{{reflist
+| refs =
+
+<ref name="Bittmann">{{cite journal
+| last = Bittmann
+| first = Julius
+| url = https://www.traunsteiner-tagblatt.de/das-traunsteiner-tagblatt/chiemgau-blaetter/chiemgau-blaetter-2018_ausgabe,-zwei-erfolgreiche-dichter-von-kirchenliedern-_chid,1090.html
+| title = Zwei erfolgreiche Dichter von Kirchenliedern / Eine Erinnerung an Georg und Maria Luise Thurmair
+| journal = Chiemgau Blätter
+| number = 3
+| year = 2013
+| language = German
+| accessdate = 29 May 2018
+}}</ref>
+
+<ref name="Linner">{{cite book
+| last = Linner
+| first = Maria Margarete
+| url = https://books.google.com/books?id=6xDy9SR3-RYC&pg=PA47
+| title = Lied und Singen in der konfessionellen Jugendbewegung des frühen 20. Jahrhunderts (Dissertation)
+| publisher = Internationaler Verlag der Wissenschaften
+| location = Frankfurt am Main
+| year = 2009
+| isbn = 978-3-631-59148-2
+| language = German
+| pages = 43, 47
+}}</ref>
+
+<ref name="Schepping">{{cite book
+| last = Schepping
+| first = Wilhelm
+| url = https://www.hf.uni-koeln.de/data/musikeume/File/Oppositionelles%20Lied/Thurmair%20Lohmann.pdf
+| title = "Wir stehn im Kampfe und im Streit" / Georg Thurmair und Adolf Lohmann – ihre Lieder im Dritten Reich  
+| work = Oppositionelles Lied
+| publisher = [[University of Cologne]]
+| year = 2018
+| language = German
+| page = 7
+}}</ref>
+
+<ref name="Aachen">{{cite book
+| title = Gotteslob. Katholisches Gebet- und Gesangbuch. Diözesananhang für das Bistum Aachen. Ergänzungsheft.
+| location = [[Mönchengladbach]]
+| edition = 2
+| year = 1986
+| page = 39
+}}</ref>
+
+<ref name="Gedichte">{{cite book
+| last = Thurmair
+| first = Georg
+| title = Mein Gott, wie schön ist deine Welt. Die ersten Gedichte (1933-1943)
+| publisher = Aventinus Verlag
+| location = Eggenfelden
+| year = 1979
+| isbn = 3-88481-001-4
+}}</ref>
+
+<ref name="Kirchenlied">{{cite book
+| title = Kirchenlied – Eine Auslese geistlicher Lieder. Neue Ausgabe.
+| publisher =
+| location = Freiburg
+| year = 1967
+| edition = 3
+| page = 117
+| language = German
+}}</ref>
+
+<ref name="Licht">{{cite web
+| url = http://jugendpastoral.erzbistum-koeln.de/altenberger-licht/die_idee/
+| title = Altenberger Licht / Die Idee
+| publisher = [[Diocese of Cologne]]
+| year = 2018
+| language = German
+| accessdate = 29 May 2018
+}}</ref>
+
+<ref name="University">{{cite web
+| url = https://www.hf.uni-koeln.de/39721
+| title = Das oppositionelle Lied in der Zeit des Nationalsozialismus
+| publisher = [[University of Cologne]]
+| year = 
+| language = German
+| accessdate = 29 May 2018
+}}</ref>
+
+}}
+
+== External links ==
+* [https://www.jubilate-verlag.com/userfiles/webHUMA.pdf Nun, Brüder, sind wir frohgemut] jubilate-verlag.com, p. 2
+* [https://www.allmusic.com/album/release/the-finest-songs-of-mary-mr0002048961 Regensburger Domspatzen / The Finest Songs Of Mary] [[AllMusic]]
+* [http://franzlehrndorfer.de/portfolio/franz-lehrndorfer-live-vol-7/ Orgelimprovisationen] [[Franz Lehrndorfer]]
+
+{{20th-century hymns in German|state=collapsed}}
+{{authority control}}
+
+[[Category:Catholic hymns in German]]
+[[Category:20th-century hymns in German]]
+[[Category:Marian hymns]]
+[[Category:1935 songs]]

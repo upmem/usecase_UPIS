@@ -1,0 +1,14 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = A title screen for MTN Project Fame West Africa
+|Source = It was captured from a DVD of one of the series episodes.
+|Author = Ultima Studios
+|Article = Project Fame West Africa
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = The resolution used is sufficient enough to serve the purpose at the top of the article
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free title-card}}

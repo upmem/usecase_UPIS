@@ -1,0 +1,667 @@
+{{short description|American college basketball season}}
+{{unreferenced|date=April 2019}}
+{{Infobox NCAA team season
+  |mode=Basketball
+  |year=2014–15
+  |prev_year=2013–14
+  |next_year=2015–16
+  |team=Cal State Northridge Matadors
+  |image=Matadors basketball logo.png
+  |image_size=250
+  |conference=Big West Conference
+  |division=
+  |short_conf=Big West
+  |CoachRank=
+  |APRank=
+  |record=9–24
+  |conf_record=4–12
+  |head_coach=[[Reggie Theus]]
+  |hc_year = 2nd
+  |asst_coach1=Chris Pompey
+  |asst_coach2=Jason Levy
+  |asst_coach3=Jay Morris
+  |asst_coach4=
+  |stadium=[[Matadome]]
+  |champion=
+  |bowl=
+  |bowl_result=
+}}
+{{2014–15 Big West men's basketball standings}}
+The '''2014–15 Cal State Northridge Matadors men's basketball team''' represented [[California State University, Northridge]] during the [[2014–15 NCAA Division I men's basketball season]]. The Matadors, led by second year head coach [[Reggie Theus]], played their home games at the [[Matadome]] as members of the [[Big West Conference]]. They finished the season 9–24, 4–12 in Big West play to finish in eighth place. They lost in the first round of the [[2015 Big West Conference Men's Basketball Tournament|Big West Tournament]] to UC Davis.
+
+==Roster==
+{{CBB roster/Header|year=2014|team=Cal State Northridge Matadors|teamcolors=y|high_school=yes}}
+{{CBB roster/Player|first=Taelin|last=Webb|num=0|pos=G|ft=6|in=0|lbs=175|class=fr|rs=|home=[[Fresno, California|Fresno, CA]]|high_school=[[Theodore Roosevelt High School (Fresno)|Roosevelt HS]]}}
+{{CBB roster/Player|first=Micheal|last=Warren|num=1|pos=G|ft=6|in=4|lbs=180|class=fr|rs=|home=[[Washington, D.C.]]|high_school=[[Roosevelt Senior High School (Washington, D.C.)|Theodore Roosevelt HS]]}}
+{{CBB roster/Player|first=Landon|last=Drew|num=2|pos=G|ft=6|in=1|lbs=175|class=jr|rs=|home=[[Los Angeles|Los Angeles, CA]]|high_school=[[Fairfax High School (Los Angeles)|Fairfax HS]]}}
+{{CBB roster/Player|first=Stephan|last=Hicks|num=3|pos=G/F|ft=6|in=6|lbs=200|class=sr|rs=y|home=[[Thousand Oaks, California|Thousand Oaks, CA]]|high_school=National College Prep}}
+{{CBB roster/Player|first=Tavrion|last=Dawson|num=4|pos=F|ft=6|in=8|lbs=205|class=fr|rs=|home=[[Long Beach, California|Long Beach, CA]]|high_school=[[Junípero Serra High School (Gardena, California)|Gardena Serra HS]]}}
+{{CBB roster/Player|first=Zacarry|last=Douglas|num=5|pos=F|ft=6|in=8|lbs=205|class=fr|rs=|home=[[Landover, Maryland|Landover, MD]]|high_school=Mt. Zion Prep}}
+{{CBB roster/Player|first=Tre|last=Hale-Edmerson|num=11|pos=F/C|ft=6|in=7|lbs=215|class=jr|rs=|home=[[Sheridan, Oregon|Sheridan, OR]]|high_school=Stoneridge Prep}}
+{{CBB roster/Player|first=Robert|last=Cid|num=12|pos=G|ft=5|in=10|lbs=160|class=sr|rs=|home=[[Santa Barbara, California|Santa Barbara, CA]]|high_school=[[Santa Barbara City College]]}}
+{{CBB roster/Player|first=Ajon|last=Efferson|num=13|pos=G|ft=6|in=0|lbs=160|class=fr|rs=|home=[[Pasadena, California|Pasadena, CA]]|high_school=[[Pasadena High School (California)|Pasadena HS]]}}
+{{CBB roster/Player|first=Aaron|last=Parks|num=14|pos=G|ft=6|in=3|lbs=198|class=fr|rs=|home=[[Baltimore|Baltimore, MD]]|high_school=[[Lake Clifton High School|Lake Clifton HS]]}}
+{{CBB roster/Player|first=Devonte|last=Elliott|num=15|pos=F|ft=6|in=10|lbs=220|class=sr|rs=y|home=[[Paramount, California|Paramount, CA]]|high_school=[[Paramount High School|Paramount HS]]<br>[[University of Nevada, Reno|Nevada]]}}
+{{CBB roster/Player|first=Stephen|last=Maxwell|dab=basketball|link=y|num=21|pos=F|ft=6|in=7|lbs=220|class=jr|rs=|home=[[Woodland Hills, California|Woodland Hills, CA]]|high_school=[[William Howard Taft Charter High School (Los Angeles)|Taft HS]]}}
+{{CBB roster/Player|first=Jerron|last=Wilbut|num=23|pos=G|ft=6|in=3|lbs=185|class=fr|rs=|home=[[Chicago|Chicago, IL]]|high_school=[[Downers Grove South High School|Downers Grove South HS]]}}
+{{CBB roster/Player|first=Jibreel|last=Faulkner|num=24|pos=F|ft=6|in=8|lbs=200|class=fr|rs=|home=[[Washington, D.C.]]|high_school=[[Roosevelt Senior High School (Washington, D.C.)|Theodore Roosevelt HS]]}}
+{{CBB roster/Player|first=Kevin|last=Johnson|num=32|pos=C|ft=6|in=10|lbs=240|class=jr|rs=y|home=[[Los Angeles|Los Angeles, CA]]|high_school=[[William Howard Taft Charter High School (Los Angeles)|Taft HS]]<br>[[Seton Hall University|Seton Hall]]}}
+{{CBB roster/Player|first=Miles|last=Nolen-Webb|num=33|pos=G|ft=6|in=0|lbs=180|class=fr|rs=|home=[[San Diego|San Diego, CA]]|high_school=[[Hoover High School (San Diego, California)|Hoover HS]]}}
+{{CBB roster/Footer
+|head_coach=
+* [[Reggie Theus]] ({{college|UNLV}})
+|asst_coach=
+* Chris Pompey ({{college|Pitt}})
+* Jason Levy ({{college|Cal State Northridge}})
+* Jay Morris ({{college|Dominguez Hills}})
+|roster_url=http://gomatadors.com/sports/m-baskbl/2014-15/roster
+|accessdate=
+}}
+
+==Schedule and results==
+Source: [https://web.archive.org/web/20141022195517/http://gomatadors.com/sports/m-baskbl/2014-15/schedule]
+{{CBB schedule start|attend=yes|rank=no}}
+|-
+!colspan=9 style="background:#231F20; color:#CD1041;"| Exhibition
+{{CBB schedule entry
+| date         = 11/08/2014
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[Cal State Dominguez Hills Toros|Cal State Dominguez Hills]]
+| opprank      = 
+| site_stadium = [[Matadome]]
+| site_cityst  = [[Northridge, California|Northridge, CA]]
+| tv           = 
+| score        = 79–76
+| attend       = 947
+| record       = 
+}}
+|-
+!colspan=9 style="background:#231F20; color:#CD1041;"| Regular season
+{{CBB schedule entry
+| date         = 11/14/2014
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 San Diego State Aztecs men's basketball team|San Diego State]]
+| opprank      = 16
+| site_stadium = [[Viejas Arena]]
+| site_cityst  = [[San Diego|San Diego, CA]]
+| gamename     = [[Maui Invitational Tournament]]
+| tv           = [[Fox Sports San Diego|FSSD]]
+| score        = 58–79
+| attend       = 12,414
+| record       = 0–1
+}}
+{{CBB schedule entry
+| date         = 11/16/2014
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Arizona Wildcats men's basketball team|Arizona]]
+| opprank      = 2
+| site_stadium = [[McKale Center]]
+| site_cityst  = [[Tucson, Arizona|Tucson, AZ]]
+| gamename     = Maui Invitational Tournament
+| tv           = [[Pac-12 Network|P12N]]
+| score        = 68–86
+| attend       = 14,655
+| record       = 1–1
+}}
+{{CBB schedule entry
+| date         = 11/19/2014
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Montana State Bobcats men's basketball team|Montana State]]
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 72–65
+| attend       = 1,790
+| record       = 1–2
+}}
+{{CBB schedule entry
+| date         = 11/22/2014
+| time         = 11:00&nbsp;am
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = yes
+| rank         = no
+| opponent     = [[2014–15 Samford Bulldogs basketball team|Samford]]
+| opprank      = 
+| site_stadium = [[Jack Stephens Center]]
+| site_cityst  = [[Little Rock, Arkansas|Little Rock, AR]]
+| gamename     = Maui Invitational Tournament
+| tv           = 
+| score        = 79–72
+| attend       = 647
+| record       = 2–2
+}}
+{{CBB schedule entry
+| date         = 11/23/2014
+| time         = 11:00&nbsp;am
+| nonconf      = yes
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Arkansas–Little Rock Trojans men's basketball team|Arkansas–Little Rock]]
+| opprank      = 
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     = Maui Invitational Tournament
+| tv           = 
+| score        = 88–94
+| overtime     = 2OT
+| attend       = 549
+| record       = 2–3
+}}
+{{CBB schedule entry
+| date         = 11/26/2014
+| time         = 8:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Portland State Vikings men's basketball team|Portland State]]
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 55–63
+| attend       = 555
+| record       = 2–4
+}}
+{{CBB schedule entry
+| date         = 11/29/2014
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Seattle Redhawks men's basketball team|Seattle]]
+| opprank      = 
+| site_stadium = [[KeyArena]]
+| site_cityst  = [[Seattle|Seattle, WA]]
+| tv           = 
+| score        = 58–70
+| attend       = 1,517
+| record       = 2–5
+}}
+{{CBB schedule entry
+| date         = 12/02/2014
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 South Dakota Coyotes men's basketball team|South Dakota]]
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 65–68
+| attend       = 805
+| record       = 2–6
+}}
+{{CBB schedule entry
+| date         = 12/04/2014
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Pepperdine Waves men's basketball team|Pepperdine]]
+| opprank      = 
+| site_stadium = [[Firestone Fieldhouse]]
+| site_cityst  = [[Malibu, California|Malibu, CA]]
+| tv           = 
+| score        = 56–66
+| attend       = 1,511
+| record       = 2–7
+}}
+{{CBB schedule entry
+| date         = 12/06/2014
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[Vanguard University of Southern California|Vanguard]]
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 70–58
+| attend       = 823
+| record       = 3–7
+}}
+{{CBB schedule entry
+| date         = 12/17/2014
+| time         = 8:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Oregon Ducks men's basketball team|Oregon]]
+| opprank      = 
+| site_stadium = [[Matthew Knight Arena]]
+| site_cityst  = [[Eugene, Oregon|Eugene, OR]]
+| tv           = P12N
+| score        = 56–79
+| attend       = 4,914
+| record       = 3–8
+}}
+{{CBB schedule entry
+| date         = 12/20/2014
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Texas A&M–Corpus Christi Islanders men's basketball team|Texas A&M–Corpus Christi]]
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 68–75
+| attend       = 550
+| record       = 3–9
+}}
+{{CBB schedule entry
+| date         = 12/23/2014
+| time         = 4:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Louisville Cardinals men's basketball team|Louisville]]
+| opprank      = 4
+| site_stadium = [[KFC Yum! Center]]
+| site_cityst  = [[Louisville, Kentucky|Louisville, KY]]
+| tv           = [[ESPNU College Basketball|ESPNU]]
+| score        = 55–80
+| attend       = 20,231
+| record       = 3–10
+}}
+{{CBB schedule entry
+| date         = 12/29/2014
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]]
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 57–61
+| attend       = 685
+| record       = 3–11
+}}
+{{CBB schedule entry
+| date         = 01/02/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Morgan State Bears men's basketball team|Morgan State]]
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 78–62
+| attend       = 603
+| record       = 4–11
+}}
+{{CBB schedule entry
+| date         = 01/07/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 UC Davis Aggies men's basketball team|UC Davis]]
+| opprank      = 
+| site_stadium = [[The Pavilion (UC Davis)|The Pavilion]]
+| site_cityst  = [[Davis, California|Davis, CA]]
+| tv           = 
+| score        = 61–71
+| attend       = 1,935
+| record       = 4–12 (0–1)
+}}
+{{CBB schedule entry
+| date         = 01/10/2015
+| time         = 9:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Hawaii Rainbow Warriors basketball team|Hawaii]]
+| opprank      = 
+| site_stadium = [[Stan Sheriff Center]]
+| site_cityst  = [[Honolulu|Honolulu, HI]]
+| tv           = 
+| score        = 68–83
+| attend       = 6,805
+| record       = 4–13 (0–2)
+}}
+{{CBB schedule entry
+| date         = 01/15/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 UC Santa Barbara Gauchos men's basketball team|UC Santa Barbara]]
+| opprank      = 
+| site_stadium = [[UCSB Events Center|The Thunderdome]]
+| site_cityst  = [[Santa Barbara, California|Santa Barbara, CA]]
+| tv           = 
+| score        = 74–63
+| attend       = 2,023
+| record       = 5–13 (1–2)
+}}
+{{CBB schedule entry
+| date         = 01/17/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Cal Poly Mustangs men's basketball team|Cal Poly]]
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 55–48
+| attend       = 1,084
+| record       = 6–13 (2–2) 
+}}
+{{CBB schedule entry
+| date         = 01/22/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 UC Irvine Anteaters men's basketball team|UC Irvine]]
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = [[ESPN3]]
+| score        = 49–80
+| attend       = 1,311
+| record       = 6–14 (2–3) 
+}}
+{{CBB schedule entry
+| date         = 01/24/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Long Beach State 49ers men's basketball team|Long Beach State]]
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = ESPN3
+| score        = 58–64
+| attend       = 1,395
+| record       = 6–15 (2–4)  
+}}
+{{CBB schedule entry
+| date         = 01/29/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = Hawaii
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 73–84
+| attend       = 1,127
+| record       = 6–16 (2–5)
+}}
+{{CBB schedule entry
+| date         = 01/31/2015
+| time         = 5:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 UC Riverside Highlanders men's basketball team|UC Riverside]]
+| opprank      = 
+| site_stadium = [[UC Riverside Student Recreation Center]]
+| site_cityst  = [[Riverside, California|Riverside, CA]]
+| tv           = 
+| score        = 62–66
+| attend       = 579
+| record       = 6–17 (2–6)
+}}
+{{CBB schedule entry
+| date         = 02/05/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Cal State Fullerton Titans men's basketball team|Cal State Fullerton]]
+| opprank      = 
+| site_stadium = [[Titan Gym]]
+| site_cityst  = [[Fullerton, California|Fullerton, CA]]
+| tv           = 
+| score        = 53–69
+| attend       = 882
+| record       = 6–18 (2–7)
+}}
+{{CBB schedule entry
+| date         = 02/07/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = UC Davis
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 55–68
+| attend       = 1,025
+| record       = 6–19 (2–8)
+}}
+{{CBB schedule entry
+| date         = 02/12/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   = 
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = Cal Poly
+| opprank      = 
+| site_stadium = [[Mott Gym]]
+| site_cityst  = [[San Luis Obispo, California|San Luis Obispo, CA]]
+| tv           = 
+| score        = 63–70
+| attend       = 2,113
+| record       = 6–20 (2–9)
+}}
+{{CBB schedule entry
+| date         = 02/14/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = UC Santa Barbara
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 57–65
+| attend       = 897
+| record       = 6–21 (2–10)
+}}
+{{CBB schedule entry
+| date         = 02/17/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = Bethesda
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 89–61
+| attend       = N/A
+| record       = 7–21
+}}
+{{CBB schedule entry
+| date         = 02/21/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = UC Irvine
+| opprank      = 
+| site_stadium = [[Bren Events Center]]
+| site_cityst  = [[Irvine, California|Irvine, CA]]
+| tv           = 
+| score        = 58–67
+| attend       = 3,070
+| record       = 7–22 (2–11)
+}}
+{{CBB schedule entry
+| date         = 02/26/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = Cal State Fullerton
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 82–72
+| attend       = 1,017
+| record       = 8–22 (3–11)
+}}
+{{CBB schedule entry
+| date         = 02/28/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = UC Riverside
+| opprank      = 
+| site_stadium = Matadome
+| site_cityst  = Northridge, CA
+| tv           = 
+| score        = 83–76
+| attend       = 1,600
+| record       = 9–22 (4–11)
+}}
+{{CBB schedule entry
+| date         = 03/05/2015
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = Long Beach State
+| opprank      = 
+| site_stadium = [[Walter Pyramid]]
+| site_cityst  = [[Long Beach, California|Long Beach, CA]]
+| tv           = ESPN3
+| score        = 58–69
+| attend       = 3,255
+| record       = 9–23 (4–12)
+}}
+|-
+!colspan=9 style="background:#231F20; color:#CD1041;"| [[2015 Big West Men's Basketball Tournament|<span style="color:#CD1041;">Big West Tournament</span>]]
+{{CBB schedule entry
+| date         = 03/12/2015
+| time         = 3:00 pm
+| nonconf      = 
+| homecoming   = 
+| away         = 
+| neutral      = yes
+| rank         = no
+| opponent     = UC Davis
+| opprank      = 
+| site_stadium = [[Honda Center]]
+| site_cityst  = [[Anaheim, California|Anaheim, CA]]
+| gamename     = 
+| tv           = 
+| score        = 67–71
+| overtime     = 
+| attend       = &nbsp;
+| record       = 9–24
+}}
+{{CBB schedule end
+| rank = 
+| poll=[[AP Poll]]
+| timezone = [[Pacific Time Zone|Pacific Time]]}}
+
+==References==
+{{reflist}}
+
+{{Cal State Northridge Matadors men's basketball navbox}}
+
+{{DEFAULTSORT:2014-15 Cal State Northridge Matadors men's basketball team}}
+[[Category:Cal State Northridge Matadors men's basketball seasons]]
+[[Category:2014–15 Big West Conference men's basketball season|Cal State Northridge]]

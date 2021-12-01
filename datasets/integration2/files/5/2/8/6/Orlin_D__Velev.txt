@@ -1,0 +1,49 @@
+{{BLP sources|date=June 2017}}
+{{Infobox scientist
+|name = Orlin D. Velev
+|image = Orlin Velev Image.jpg
+|birth_date = {{birth date|1963|11|3|mf=y}}
+|birth_place = [[Plovdiv]], [[Bulgaria]]
+|residence = United States
+|nationality = United States
+|alma_mater = [[Sofia University]]
+|field = [[Chemical engineering]]
+|work_institution = [[North Carolina State University]]
+}}
+'''Orlin D. Velev''' ({{lang-bg|Орлин Д. Велев}}) (born November 3, 1963 in [[Plovdiv|Plovdiv, Bulgaria]]) is the [[Invista|INVISTA]] Professor in the Department of Chemical and Biomolecular Engineering at [[North Carolina State University]]. He is best known for his work in [[soft matter]], [[colloid]] science, and [[Nanotechnology|nanoscience]].
+
+== Biography ==
+Orlin D. Velev was born in [[Plovdiv]], [[Bulgaria]]. Velev received his B.S. and M.Sc. in [[Chemical physics|Chemical Physics]] and [[Theoretical chemistry|Theoretical Chemistry]] in 1989 from [[Sofia University]]. He continued his doctoral studies at Sofia University to earn his Ph.D. in [[Physical chemistry|Physical Chemistry]] in 1996, while also spending one year as a researcher at the Nagayama Protein Array project in Japan. Following a postdoctoral position (1996-1998) and research assistant professorship (1998-2001) at the [[University of Delaware]], Velev joined the faculty in the Department of Chemical and Biomolecular Engineering at [[North Carolina State University]] in 2001, where he currently resides. He is married to Anka Veleva and they have one son, Orlin Velev Jr., who works in the aerospace industry.
+
+== Professional contributions ==
+
+=== Research interests ===
+Velev's research covers a broad range of topics, but his key contributions are in the area of colloidal assembly. His research has advanced the field of directed and programmed colloidal assembly by using [[electric field]]s to make structures out of [[nanoparticle]]s, [[microspheres]], [[Janus particles|Janus]] and [[patchy particles]].<ref>{{Cite journal|last=Bharti|first=Bhuvnesh|last2=Rutkowski|first2=David|last3=Han|first3=Koohee|last4=Kumar|first4=Aakash Umesh|last5=Hall|first5=Carol K.|author5-link=Carol K. Hall|last6=Velev|first6=Orlin D.|date=2016-11-16|title=Capillary Bridging as a Tool for Assembling Discrete Clusters of Patchy Particles|journal=Journal of the American Chemical Society|volume=138|issue=45|pages=14948–14953|doi=10.1021/jacs.6b08017|issn=1520-5126|pmid=27775335}}</ref><ref>{{Cite journal|last=Bharti|first=Bhuvnesh|last2=Velev|first2=Orlin D.|date=2015-07-28|title=Assembly of Reconfigurable Colloidal Structures by Multidirectional Field-Induced Interactions|journal=Langmuir: The ACS Journal of Surfaces and Colloids|volume=31|issue=29|pages=7897–7908|doi=10.1021/la504793y|issn=1520-5827|pmid=25683680|doi-access=free}}</ref> He has also discovered and developed new types of self-propelling microdevices, gel-based [[Photovoltaics|photovoltaic]] cells, soft robotic [[hydrogel]] actuators and microbot prototypes. His earlier research achievements include the first report of convective assembly of 2D [[colloidal crystal]]s, the first templated fabrication of “colloidosome” and supraparticle clusters and the synthesis of "[[Photonic crystal#Three-dimensional photonic crystals|inverse opal]]” structures.<ref>{{Cite journal|author=Velev, O. D.|author2=Jede, T. A.|author3=Lobo, R. F.|last4=Lenhoff, A. M.|year=1997|title=Porous silica via colloidal crystallization|journal=Nature|volume=389|issue=6650|pages=447–448|doi=10.1038/38921|issn=0028-0836|bibcode=1997Natur.389..447V}}</ref><ref>{{cite journal|author=Velev, O. D.|author2=Tessier, P. M.|author3=Lenhoff, A. M.|author4=Kaler, E. W.|year=1999|title=Materials: A class of porous metallic nanostructures|journal=Nature|volume=401|issue=6753|pages=548|doi=10.1038/44065|issn=0028-0836|bibcode=1999Natur.401..548V}}</ref><ref>{{cite journal|author=Denkov, N. D.|author2=Velev, O. D.|author3=Kralchevsky, P. A.|author4=Ivanov, I. B.|author5=Yoshimura, H.|author6=Nagayama, K.|year=1993|title=Two-dimensional crystallization|journal=Nature|language=en|volume=361|issue=6407|pages=26|doi=10.1038/361026a0|bibcode=1993Natur.361...26D}}</ref>
+
+==Awards and honors==
+Velev has contributed more than 200 scientific articles and technologies based on his research have formed the basis of two companies, Xanofi and Benanova. Velev has served as member of the Editorial Advisory Boards of [[Langmuir (journal)|Langmuir]], [[Chemistry of Materials]], [[Biomicrofluidics]], [[Particle & Particle Systems Characterization|Particle]], and [[Advances in Colloid and Interface Science]], and is a fellow of the [[American Chemical Society|ACS]] and [[Materials Research Society|MRS]].
+*Langmuir Lecturer Award (ACS Division of Colloid and Surface Chemistry, 2018)<ref>{{cite web|url=http://colloidssurfaces.sites.acs.org/langmuirlecture.htm|title=Langmuir Lecture|publisher=American Chemical Society|accessdate=24 October 2019}}</ref>
+*R. J. Reynolds Tobacco Company Award (R.J. Reynolds)<ref>{{cite web|url=https://www.cbe.ncsu.edu/blog/2017/11/03/professor-velev-receives-the-r-j-reynolds-tobacco-company-award-for-excellence/|title=Dr. Velev Receives the R. J. Reynolds Tobacco Company Award for Excellence in Teaching, Research and Extension|date=3 November 2017|publisher=North Carolina State University|accessdate=24 October 2019}}</ref>
+*Andreas Acrivos Award (AIChE, 2017)<ref>{{cite web|url=https://www.aiche.org/community/awards/winners/176311|title=Winners: Andreas Acrivos Award for Professional Progress in Chemical Engineering|publisher=American Institute of Chemical Engineers|accessdate=24 October 2019}}</ref>
+*Fellow of the Materials Research Society (MRS, 2017)<ref>{{cite web|url=https://www.mrs.org/mrs-fellows-2017|title=2017 MRS Fellows|publisher=Materials Research Society|accessdate=24 October 2019}}</ref>
+*Fellow of the [[American Chemical Society]] (ACS, 2011)<ref>{{cite news|url=https://www.engr.ncsu.edu/news/2011/07/19/velev-named-acs-fellow/|title=Velev named ACS Fellow|publisher=North Carolina State University|date=19 July 2011|accessdate=24 October 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.cbe.ncsu.edu/velevgroup Velev Research Group Homepage]
+*[http://crystal.che.ncsu.edu/ Orlin D. Velev Personal Website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Veliv, Orlin D.}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:American chemical engineers]]
+[[Category:Bulgarian engineers]]
+[[Category:Sofia University alumni]]
+[[Category:North Carolina State University faculty]]
+[[Category:Scientists from Plovdiv]]
+[[Category:Bulgarian emigrants to the United States]]
+[[Category:Fellows of the American Chemical Society]]

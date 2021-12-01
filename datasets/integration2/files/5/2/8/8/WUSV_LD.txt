@@ -1,0 +1,62 @@
+{{Infobox television station
+| callsign               = WUSV-LD
+| logo                   =
+| slogan                 =
+| digital                = 16 ([[ultra high frequency|UHF]])
+| virtual                = 16 ([[Program and System Information Protocol|PSIP]])
+| branding               =
+| subchannels            =
+| affiliations           = [[Antenna TV]]
+| owner                  = TTV, [[Limited liability company|LLC]]
+| licensee               =
+| country                = United States
+| founded                = September 22, 2011
+| airdate                =
+| last_airdate           =
+| location               = [[Clarksburg, West Virginia]]
+| callsign_meaning       =
+| former_channel_numbers =
+| former_callsigns       = W16DH-D (September 22–December 28, 2011)
+| former_affiliations    =
+| erp                    = 0.27 [[Kilowatt|kW]]<br>15 kW ([[construction permit|CP]])
+| haat                   = {{convert|134.2|m|ft|0|abbr=on}}<br>{{convert|149.2|m|ft|0|abbr=on}} (CP)
+| coordinates            = {{nowrap|{{coord|39|16|32|N|80|17|43|W|type:landmark_scale:2000}}}}
+| licensing_authority    = [[Federal Communications Commission|FCC]]
+| website                = 
+}}
+
+'''WUSV-LD''', [[ultra high frequency|UHF]] [[Digital terrestrial television|digital]] channel 16, is a [[Low-power broadcasting#Television|low-powered]] [[Antenna TV]]-[[network affiliate|affiliated]] [[television station]] [[City of license|licensed]] to [[Clarksburg, West Virginia|Clarksburg]], [[West Virginia]], United States.<ref>[http://antennatv.tv/interactive-affiliate-map/ Interactive Affiliate Map]. [[Antenna TV]]. Retrieved September 9, 2019.</ref> The station is owned by TTV, [[Limited liability company|LLC]]. WUSV-LD's transmitter is located in East View, West Virginia, on a tower shared with [[WVUX-LD]] and [[Cornerstone Television]] [[owned-and-operated station]] [[W46EJ-D]].
+
+==History==
+The station's [[construction permit]] was issued on September 22, 2011 under the callsign '''W16DH-D'''. The station's callsign was changed to the current '''WUSV-LD''' on December 28 of that year.<ref name=wusv>[https://www.rabbitears.info/market.php?request=station_search&callsign=187816 Digital TV Market Listing for WUSV-LD]</ref>
+
+The station signed on at some time in the mid-2010s as an Antenna TV affiliate.
+
+==Digital channel==
+{| class="wikitable"
+|-
+! [[Digital subchannel#United States|Channel]]
+! [[Display resolution|Video]]
+! [[Aspect ratio (image)|Aspect]]
+! [[Program and System Information Protocol#What PSIP does|PSIP Short Name]]
+! Programming<ref name=wusv/>
+|-
+| 16.1 || [[480i]] || [[4:3]] || WUSV-LD || [[Antenna TV]] 
+|-
+|}
+
+==References== 
+{{reflist}}
+
+==External links==
+*{{TVQ|WUSV}}
+
+{{Clarksburg/Weston TV}} 
+{{TV Stations West Virginia}}
+
+[[Category:Antenna TV affiliates]]
+[[Category:Digital low-power television stations]]
+[[Category:Television stations in Clarksburg, West Virginia|USV-LD]]
+
+
+{{WestVirginia-tv-station-stub}}

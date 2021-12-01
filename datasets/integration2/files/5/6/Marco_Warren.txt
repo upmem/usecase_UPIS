@@ -1,0 +1,54 @@
+{{short description|Bermudian footballer}}
+{{Use dmy dates|date=March 2019}}
+{{Infobox football biography
+| name        = Marco Warren
+| image       =
+| fullname    = Marco Warren<ref>{{cite web |url=http://cloudfront.bernews.com/wp-content/uploads/2019/05/2019_Concacaf_Gold_Cup_Preliminary_Lists_May_20.pdf |title=40-Player National Team Roster: 2019 Concacaf Gold Cup: Bermuda |publisher=CONCACAF |format=PDF |page=1 |accessdate=20 May 2019 |via=''Bernews''}}</ref>
+| birth_date  = {{birth date and age|1993|12|13|df=y}}
+| birth_place = [[Warwick Parish]], Bermuda
+| height      = {{height|ft=5|in=4}}
+| position    = [[Midfielder]]/[[Striker (association football)|Striker]]
+| currentclub = [[PHC Zebras]]
+| clubnumber  = -
+| youthyears1 = 2008–2011 | youthclubs1 = [[Montverde Academy]] 
+| collegeyears1 = 2012–2014      |  college1 = [[Flagler Saints]]                            | collegecaps1 =48  | collegegoals1 = 9
+| years1 = 2014–          |  clubs1 = [[PHC Zebras]]                                | caps1 =   | goals1 = 
+|nationalyears1 = 2012  | nationalteam1 = [[Bermuda national football team|Bermuda U-20]]<ref>https://int.soccerway.com/players/marco-warren/254158/</ref> |nationalcaps1 = 3 |nationalgoals1 = 0
+|nationalyears2 = 2015– | nationalteam2= [[Bermuda national football team|Bermuda]]      |nationalcaps2 = 10 |nationalgoals2 = 1
+}}
+'''Marco Warren''' (born 13 December 1993) is a Bermudian [[Association football|footballer]] who plays as a [[midfielder]] for [[PHC Zebras]] in the [[Bermudian Premier Division]]. He made his debut for the [[Bermuda national football team|Bermuda national team]] in 2015.
+
+==Career==
+
+Marco Warren was born in [[Warwick Parish]], [[Bermuda]]. He started his career at [[Flagler College]], where he originally studied Graphic Design as well as receiving a sports scholarship. He began to play for the college team in 2012, known as the [[Flagler Saints]], who were then playing in the [[NCAA Division II]]. In his first season, he played in all of the 19 available games and scored 1 goal. He also appeared in all the available games for the 2013 season, this time getting 7 goals in 19 games. For his final college season in 2014 he played 10 games and scored 1 goal. In total in 3 years for [[Flagler Saints]] he played in 48 games, scoring 9 goals.<ref>http://www.national-football-teams.com/player/55210/Marco_Warren.html</ref> After leaving college at the end of 2014, he joined [[Bermudian Premier Division]] side [[PHC Zebras]].
+
+==International career==
+
+In 2012 Marco Warren played 3 games for the [[Bermuda national football team|Bermuda U-20s]] team in the 2012 [[CONCACAF Gold Cup]], his debut coming in a 0–2 loss against [[Barbados national football team|Barbados U-20]]<ref>https://int.soccerway.com/players/marco-warren/254158/</ref>
+
+Marco Warren made his debut for the [[Bermuda national football team]] on 8 March 2015 in a 3–0 victory over [[Grenada national football team|Grenada]]. He got an assist and was only stopped from scoring on his debut by a last ditch tackle from a [[Grenada national football team|Grenada]] defender.<ref>http://mobile.royalgazette.com/article/20150309/SPORT01/150309709&template=mobileart</ref> He has gone on to receive nine official caps for [[Bermuda national football team|Bermuda]].
+
+==Trivia==
+
+He is the son of former [[Bermuda]] National Footballer and [[Boulevard Blazers]] [[midfielder]] [[Dwight Warren]], has two sisters, and he lists [[Ronaldinho]] as his favorite footballer.<ref>http://athletics.flagler.edu/roster.aspx?rp_id=1671</ref>
+
+==References==
+<references />
+
+{{Bermuda squad 2019 CONCACAF Gold Cup}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Warren, Marco}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Bermudian footballers]]
+[[Category:Bermuda international footballers]]
+[[Category:Association football midfielders]]
+[[Category:People from Warwick Parish]]
+[[Category:Flagler College alumni]]
+[[Category:2019 CONCACAF Gold Cup players]]
+[[Category:Montverde Academy alumni]]
+
+
+{{Bermuda-footy-bio-stub}}

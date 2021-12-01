@@ -1,0 +1,27 @@
+{{Speciesbox
+| image = 
+| image_caption =
+| genus = Wikstroemia
+| species = ovata
+| authority = [[Carl Anton von Meyer|C.A.Mey.]] ex [[Carl Daniel Friedrich Meissner|Meisn.]]
+| synonyms = 
+}}
+
+'''''Wikstroemia ovata''''' grows as a shrub or small tree up to {{convert|5|m|-1}} tall. [[Inflorescences]] bear up to 20 greenish-yellow flowers. The fruits are roundish to ellipsoid, up to {{convert|1|cm|in|1|abbr=on}} long. The [[specific name (botany)|specific epithet]] ''ovata'' is from the [[Latin]] meaning "egg-shaped", referring to the leaves. Habitat is thickets and forests from sea level to {{convert|800|m|-2}} altitude. ''W.&nbsp;ovata'' is found in [[Borneo]] and the [[Philippines]].<ref name=TFSS/>
+
+==References==
+{{Reflist | refs=
+
+<ref name=TFSS>{{Cite book | last1= Tawan | first1= C. S. |date=September 2004 | contribution= ''Wikstroemia ovata'' C.A.Mey. ex Meisn. | contribution-url= http://www.chm.frim.gov.my/backup/TFSS.vol4_5_6.pdf | editor1-last= Soepadmo | editor1-first= E. | editor2-last= Saw | editor2-first= L. G. | editor3-last= Chung | editor3-first= R. C. K. | title= Tree Flora of Sabah and Sarawak | volume= 5 | pages= 481 | publisher= [[Forest Research Institute Malaysia]] | isbn= 983-2181-59-3 | url= http://www.chm.frim.gov.my/Resources/Publications/Books/Floras/Tree-Flora-of-Sabah-and-Sarawak.aspx | version= (free online from the publisher, lesser resolution scan PDF versions) | accessdate= 24 August 2013 }}</ref>
+
+}}
+
+{{Taxonbar|from=Q16760260}}
+
+[[Category:Wikstroemia|ovata]]
+[[Category:Plants described in 1857]]
+[[Category:Flora of the Philippines]]
+[[Category:Flora of Borneo]]
+
+
+{{Thymelaeaceae-stub}}

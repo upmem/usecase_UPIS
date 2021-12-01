@@ -1,0 +1,410 @@
+{{Other uses|Xenia (disambiguation){{!}}Xenia}}
+{{Infobox settlement
+| official_name                   = Xenia, Ohio
+| settlement_type                 = [[City]]
+| nickname                        = "City of Hospitality", "Bicycle Capital of the Midwest"
+| motto                           = "Vivid History, Vibrant Future"
+
+<!-- Images -->| image_skyline                   = Xenia Ohio.jpg
+| imagesize                       = 250px
+| image_caption                   = Downtown Xenia
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Greene County Ohio Xenia highlighted.png
+| mapsize                         = 250px
+| map_caption                     = Location of Xenia, Ohio
+
+<!-- Location -->| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Ohio]]
+| subdivision_type2               = [[List of counties in Ohio|County]]
+| subdivision_name2               = [[Greene County, Ohio|Greene]]
+
+<!-- Government -->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Sarah Mays ([[Republican Party (United States)|R]]) <ref name=GazetteMayor>{{cite news|url=http://www.xeniagazette.com/news/20479/mayor-not-seeking-third-term|title=Mayor not seeking third term|date=10 August 2017|work=Xenia Gazette|accessdate=1 January 2018}}</ref><ref name=DNCouncil>{{cite news|url=http://www.daytondailynews.com/news/unofficial-results-dean-smith-win-xenia-city-council-race/ylQ0WFZBRrzJ1XMsbY8aCO/|title=Unofficial results: Dean, Smith win Xenia City Council race|work=[[Dayton Daily News]]|date=November 7, 2017|accessdate=1 January 2018}}</ref><ref>https://voterrecords.com/voter/32253829/sarah-mays</ref>
+| leader_title1                   = City Manager
+| leader_name1                    = Brent Merriman ([[Republican Party (United States)|R]])<ref>https://voterrecords.com/voter/32258447/brent-merriman</ref>
+| established_title               = Founded
+| established_date                = {{Start date and age|1803}}
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|accessdate=July 28, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_sq_mi                = 13.03
+| area_land_sq_mi                 = 13.02
+| area_water_sq_mi                = 0.01
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 26947
+| pop_est_as_of                   = 2019
+| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_total                = 25719
+| population_blank1_title         = [[Demonym]]
+| population_blank1               = Xenian
+| population_density_sq_mi        = 2070.30
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| elevation_ft                    = 935
+| coordinates                     = {{coord|39|41|05|N|83|55|47|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 45385
+| area_code                       = [[Area codes 937 and 326|937, 326]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 39-86772<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |accessdate=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1061805<ref name=GNIS1>{{gnis|1061805|Xenia}}</ref>
+| website                         = https://www.ci.xenia.oh.us/
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| area_total_km2                  = 33.74
+| area_land_km2                   = 33.71
+| area_water_km2                  = 0.03
+| population_density_km2          = 799.35
+| name                            = 
+}}
+'''Xenia''' ({{IPAc-en|ˈ|z|iː|n|i|ə}} {{respell|ZEE|nee|ə}}) is a city in and the [[county seat]] of [[Greene County, Ohio]], United States.<ref name="GR6">{{cite web|url=http://www.naco.org/Counties/Pages/FindACounty.aspx |accessdate=2011-06-07 |title=Find a County |publisher=National Association of Counties |url-status=dead |archive-url=https://web.archive.org/web/20110531210815/http://www.naco.org/Counties/Pages/FindACounty.aspx |archive-date=May 31, 2011 }}</ref> The municipality is located in southwestern Ohio {{convert|15|mi}} from Dayton and is part of the [[Dayton Metropolitan Statistical Area]], as well as the [[Miami Valley]] region. The name comes from the [[Greek language|Greek]] word [[Xenia (Greek)|Xenia]] (ξενία), which means "hospitality".
+
+As of the [[United States Census 2010|2010 census]], the city had a population of 25,719.<ref>{{cite web|url=http://www.ci.xenia.oh.us/uploads/Planning%20Department/2000-2010%20census%20031011.pdf |title=Archived copy |accessdate=September 13, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120401041024/http://www.ci.xenia.oh.us/uploads/Planning%20Department/2000-2010%20census%20031011.pdf |archive-date=April 1, 2012 }}</ref>  Xenia is the third-largest city by population in Greene County, behind [[Fairborn, Ohio|Fairborn]] and [[Beavercreek, Ohio|Beavercreek]]. At the geographical center of the county, it was selected as the county seat and houses the County Courthouse, County Sheriff's Department, Jail, and other regional departments.
+
+==History==
+{{more citations needed section|date=February 2018}}
+[[File:Xenia Station Ohio (3592317717).jpg|thumb|left|[[Xenia Station]] is a replica building based on the original Xenia Station]]
+Xenia was founded in 1803, the year Ohio was admitted into the Union. In that year, European-American pioneer [[John Paul (pioneer)|John Paul]] bought {{convert|2,000|acre|km2}} of land from Thomas and Elizabeth Richardson of [[Hanover County, Virginia]], for "1050 pounds current moneys of Virginia." Paul influenced county commissioners to locate the county seat on this land at the forks of the Shawnee creeks, stimulating development of the settlement here.
+
+Joseph C. Vance was named to survey the site and lay out the town. The following year, he bought the town site of {{convert|257|acre|km2}} from John Paul for $250. The name of the new village was chosen in typically democratic fashion. Vance called a town meeting to discuss possible names. The committee had considered several suggestions without reaching any decision. Then the Rev. Robert Armstrong proposed the name ''"Xenia,"'' meaning "hospitality" in Greek, because of the fine hospitality extended to him in this friendly community. When a tie vote occurred, Laticia Davis, wife of Owen Davis, was invited to cast the deciding ballot. She voted for "Xenia."
+
+The first session of the [[Ohio General Assembly]] created [[Greene County, Ohio|Greene County]] from the [[Northwest Territory]]. It took in the homeland of the [[Shawnee|Shawnee Indians]]. Their chief tribal village was north of Xenia at Old Chillicothe, now called Old Town. The Shawnee war chief [[Tecumseh]] was born there in 1768.
+
+William Beattie was Xenia's first businessman. In 1804, he opened a tavern which became a center of community affairs. In 1804, John Marshall built Xenia's first house. The first log school house was constructed in 1805, and, that same year, the Rev. James Towler became the town's first postmaster. The growing community soon attracted many pioneer industries - flour mills, sawmills, woolen mills, pork packing plants, oil mills, and tow mills.
+
+A petition for incorporation, dated March 24, 1817, was circulated among the 88 households of Xenia, and on July 21, 1817, that petition, containing 66 signatures, was filed with the Court of Common Pleas of Greene County.<ref>Wright State University Libraries, Special Collections & Archives, SC-51</ref>  On October 27, 1817, the petition for incorporation was granted by the Court and Xenia became a municipal corporation.<ref>Greene County Court of Common Pleas, 1817 Common Pleas Court Record C, pp. 61-63</ref>
+
+The arrival of the [[Little Miami Railroad]] (now the site of the [[Little Miami Scenic Trail]], which passed through [[Xenia Station]]) in 1843, stimulated the development of additional industries and connected the city to other markets. On March 2, 1850 the Ohio General Assembly rode from [[Columbus, Ohio]] to Xenia and back on the newly completed [[Columbus and Xenia Railroad]].
+
+From the summer of 1851, tourists would come from [[Cincinnati]], as well as plantations from the South, to visit the nearby Xenia Springs and Tawawa House, a hotel and health spa about three miles away. It was established as a summer resort to draw on interest in the medicinal properties of the springs. Skin specialist Dr. Samuel Spilsbee from Cincinnati served as Superintendent of the hotel. It was three stories high, and the grounds of the complex also included separate cottages. After it went out of business, the complex was purchased for use as [[Wilberforce University|Wilberforce College]], a [[historically black college]] founded by a collaboration between the [[African Methodist Episcopal Church]] (AME) and the Cincinnati Conference of the [[Methodist Church]]. By 1860 most of the 200 students were mixed-race children of wealthy white fathers from the South, planters and businessmen who were prevented from getting them educated there. In the early years of the war, the college closed briefly after Southerners withdrew their children. The AME Church took it over, and continued to operate it.<ref name="Talbert">{{cite web|url=http://docsouth.unc.edu/church/talbert/talbert.html#p263|first=Horace|last=Talbert|title=The Sons of Allen: Together with a Sketch of the Rise and Progress of Wilberforce University, Wilberforce, Ohio 1906|pages=264–268, 273|work=Documenting the South|year=2000|publisher=University of North Carolina|access-date=July 25, 2008}}</ref>
+
+On Wednesday morning, February 13, 1861, President-Elect [[Abraham Lincoln]] made a brief appearance in the city as his inaugural train traveled from [[Cincinnati]] east to Columbus. He gave a short speech; the traveling reporter from the ''New York Times'' did not record it as Lincoln expressed sentiments that he had repeated in previous stops. According to the ''Times'' writer, "a very large crowd assembled, and amid the firing of a cannon and enthusiasm, Mr. Lincoln addressed them from the rear car, reiterating what he had said before.".<ref>{{cite news|newspaper=New York Times|date= February 14, 1861|page= 1|title=The Incoming Administration; Progress Of President-Elect Towards Washington}}</ref>
+
+The town progressed rapidly during the mid-19th century. Artificial gas was provided in the 1840s and continued in use until [[natural gas]] was made available in 1905. The first fire engine house was built in 1831; the telephone came to Xenia in 1879; electricity in 1881 and a water works system in 1886. Xenia opened its first free [[public library]] in 1899. By 1900, the city was operating its own [[sewage system]].
+
+Following the Civil War, the [[Ohio Soldiers' and Sailors' Orphans' Home]] was built in Xenia. Some of its building remains in use by a Christian ministry organization.
+
+Xenia elected Cornelius Clark as its first mayor in 1834. On January 1, 1918, the current city commission-manager plan succeeded the old form of municipal government.
+
+===Tornadoes===
+Xenia has a history of severe storm activity. According to local legend, the Shawnee referred to the area as "the place of the devil wind" or "the land of the crazy winds" (depending upon the translation).<ref>Smith, Joanne Huist; "Devil Winds: City's Curse or Tall Tale?", ''Dayton Daily News'', Sept. 16, 2001, page 1B.</ref>
+
+On April 3, 1974, a [[tornado]]<ref>{{cite web|url=http://www.xeniatornado.com/|title=Xenia, Ohio- Tornado- April 3, 1974|first= Homer G. |last=Ramby}}</ref> rated F5 on the [[Fujita scale]] cut a path directly through the middle of Xenia during the [[1974 Super Outbreak]], the second largest series of tornadoes in recorded history. The disaster killed 34 people (including two [[Air National Guard|Ohio National Guardsmen]] who died days later in a related fire), injured an additional 1,150, destroyed almost half of the city's buildings, and left 10,000 people homeless. Five schools, including Xenia High School, Central Junior High School, McKinley Elementary, Simon Kenton Elementary, and Saint Brigid Catholic School were destroyed, as were nine churches and 180 businesses. Ted Fujita himself rated the tornado an F6 in an essay he wrote, but the rating was never confirmed. <ref>{{Cite web|url=https://www.weather.gov/media/ohx/PDF/fujita_april31974.pdf|url-status=live|archive-date=September 17, 2020|access-date=September 17, 2020|website=weather.gov}}</ref>
+
+The city's plight was featured in the national news, including a 1974 [[NBC]] television documentary, ''Tornado!'', hosted by [[Floyd Kalber]]. President [[Richard Nixon]] visited stricken areas of Xenia following the devastation. Comedian [[Bob Hope]] organized a benefit to raise funds for Xenia and, in appreciation, the new Xenia High School Auditorium was named the "Bob Hope Auditorium." In recognition of their coverage of this tornado, the staff of the ''[[Xenia Daily Gazette]]'' won the [[Pulitzer Prize for Breaking News Reporting|Pulitzer Prize for Spot News Reporting]] in 1975.<ref>{{cite web|title=1975 Winners|url=http://www.pulitzer.org/awards/1975|work=Pulitzer.org|accessdate=June 12, 2012}}</ref>
+
+Xenia was struck by an F2 tornado on April 25, 1989 and again by an F4 tornado on September 20, 2000. The 1989 tornado caused over $2 million in damage, but no one was killed. The twister of 2000 killed one person, and injured 100 people. This tornado followed a path roughly parallel to that of the 1974 tornado.<ref>{{cite web|title=Tornadoes in Greene County, Ohio|url=http://www.tornadohistoryproject.com/tornado/Ohio/Greene/map|publisher=Tornado History Project|access-date=7 February 2014}}</ref><ref>{{cite web|title=Tornadoes in Greene County, Ohio in April 1989|url=http://www.tornadohistoryproject.com/tornado/Ohio/Greene/1989/April/map|publisher=Tornado History Project|access-date=7 February 2014}}</ref>
+
+Xenia currently has a system of tornado [[Civil defense siren|sirens]]. After the 1974 tornado outbreak, the city purchased a system of five [[Federal Signal Corporation|Federal Signal]] Thunderbolt sirens for warning. During the 2000 tornado strike, the lack of [[backup power]] silenced the sirens, so the city purchased five [[Federal Signal Corporation|Federal Signal]] 2001-SRNB series sirens with battery backup.
+
+===Railroads===
+[[File:Little Miami Scenic Trail, Xenia, Ohio.jpg|thumb|right|A portion of the [[Little Miami Scenic Trail]] in Xenia]]
+Several railroad lines owned by the [[Baltimore and Ohio Railroad|Baltimore & Ohio]] (B&O) and [[Pennsylvania Railroad|Pennsylvania]] (PRR) railroads once served Xenia, for both freight and passenger service. Since restructuring of the railroad industry in the mid-twentieth century, all lines have since been abandoned, the last being dismantled by 1989.
+
+The lines that previously served Xenia were:
+* B&O [[Wellston, Ohio|Wellston]] subdivision, between [[Washington Court House, Ohio|Washington Court House]] and [[Dayton, Ohio|Dayton]].
+* PRR [[Little Miami Railroad|Little Miami branch]], between [[Cincinnati]] and [[Springfield, Ohio|Springfield]]; a portion of the line ran down [[U.S. Route 68|Detroit Street]] and was the first section to be dismantled.
+* PRR [[Main Line (Pittsburgh to St. Louis)|Pittsburgh-St. Louis mainline]]; [[Amtrak]] operated the ''[[National Limited]]'' passenger service over this line until 1979.
+
+The roadbeds of five of Xenia's six rail lines were converted for [[rail trail]] use. The one exception — the B&O line west of town — was not converted because it closely paralleled the PRR mainline for most of its length.
+
+Xenia was served by two [[interurban]] railways until the 1940s:
+* Dayton & Xenia Transit Company
+* Springfield & Xenia Railway
+In the postwar period, automobile ownership increased, and the federal government subsidized the construction of numerous interstate highways. Both changes influenced the decline of regional transit, such as the interurban railways.
+
+==Geography==
+Today Xenia is centrally located in the "transportation triangle" formed by three major interstate highways: [[I-70]], [[I-71]], and [[I-75]]. These north-south, east–west arteries are within minutes of Xenia via U.S. Routes [[U.S. Route 35|35]], [[U.S. Route 42|42]], and [[U.S. Route 68|68]], tying the community to one of the nation's largest 90-minute highway markets. Before the creation of the U.S. [[Interstate Highway system]], U.S. 68 was one of the main southward routes from the major city of [[Detroit, Michigan]]. Within Xenia, U.S. 68 is named "Detroit Street".
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|13.29|sqmi|sqkm|2}}, of which, {{convert|13.28|sqmi|sqkm|2}} is land and {{convert|0.01|sqmi|sqkm|2}} is water.<ref name="Gazetteer files">{{cite web|title=US Gazetteer files 2010 |url=https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |publisher=[[United States Census Bureau]] |access-date=2013-01-06 |url-status=dead |archive-url=https://web.archive.org/web/20120112090031/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |archive-date=January 12, 2012 }}</ref>
+
+===Climate===
+{{Weather box
+|width=auto
+|location = Xenia, Ohio
+|single line = Y
+|Jan record high F = 73
+|Feb record high F = 74
+|Mar record high F = 83
+|Apr record high F = 89
+|May record high F = 95
+|Jun record high F = 102
+|Jul record high F = 108
+|Aug record high F = 107
+|Sep record high F = 103
+|Oct record high F = 92
+|Nov record high F = 80
+|Dec record high F = 74
+|year record high F= 108
+|Jan high F = 36
+|Feb high F = 41
+|Mar high F = 51
+|Apr high F = 63
+|May high F = 72
+|Jun high F = 80
+|Jul high F = 84
+|Aug high F = 82
+|Sep high F = 76
+|Oct high F = 65
+|Nov high F = 52
+|Dec high F = 41
+|year high F=
+|Jan low F = 19
+|Feb low F = 23
+|Mar low F = 32
+|Apr low F = 41
+|May low F = 51
+|Jun low F = 59
+|Jul low F = 63
+|Aug low F = 60
+|Sep low F = 53
+|Oct low F = 42
+|Nov low F = 34
+|Dec low F = 25
+|year low F=
+|Jan record low F = −28
+|Feb record low F = −20
+|Mar record low F = −5
+|Apr record low F = 14
+|May record low F = 25
+|Jun record low F = 37
+|Jul record low F = 42
+|Aug record low F = 38
+|Sep record low F = 25
+|Oct record low F = 16
+|Nov record low F = −8
+|Dec record low F = −24
+|year record low F= −28
+|Jan precipitation inch = 2.64
+|Feb precipitation inch = 2.28
+|Mar precipitation inch = 3.15
+|Apr precipitation inch = 3.90
+|May precipitation inch = 4.57
+|Jun precipitation inch = 4.02
+|Jul precipitation inch = 4.13
+|Aug precipitation inch = 3.62
+|Sep precipitation inch = 2.72
+|Oct precipitation inch = 2.83
+|Nov precipitation inch = 3.27
+|Dec precipitation inch = 2.99
+|year precipitation inch= 39.58
+|source 1 = NOAA,<ref name=NCDC>{{cite web
+ |url          = http://cdo.ncdc.noaa.gov/climatenormals/clim20/oh/332075.pdf
+ |title        = NCDC: U.S. Climate Normals
+ |publisher    = [[National Oceanic and Atmospheric Administration]]
+ |accessdate   = 2010-03-29
+ |archive-url  = https://web.archive.org/web/20140715040459/http://cdo.ncdc.noaa.gov/climatenormals/clim20/oh/332075.pdf
+ |archive-date = 2014-07-15
+ |url-status     = dead
+}}</ref> The Weather Channel (extremes),<ref name= Weather.com >
+{{cite web
+  | url = http://www.weather.com/outlook/travel/businesstraveler/wxclimatology/monthly/graph/DAY:9
+  | title = Monthly Averages for Dayton, OH – Temperature and Precipitation
+  | access-date = 2010-07-04
+  | publisher = The Weather Channel
+}}</ref> HKO (sun only)<ref name= HKO >
+{{cite web
+  | url = http://www.weather.gov.hk/wxinfo/climat/world/eng/n_america/us/dayton_e.htm
+  | title = Climatological Normals of Dayton
+  | access-date = 2010-07-04
+  | publisher = [[Hong Kong Observatory]]
+}}</ref>
+|date=August 2010
+}}
+
+==Demographics==
+{{US Census population
+|1810= 429
+|1820= 799
+|1830= 917
+|1840= 1913
+|1850= 3024
+|1860= 4658
+|1870= 6377
+|1880= 7026
+|1890= 7301
+|1900= 8696
+|1910= 8706
+|1920= 9110
+|1930= 10507
+|1940= 10633
+|1950= 12877
+|1960= 20445
+|1970= 25373
+|1980= 24712
+|1990= 24664
+|2000= 24164
+|2010= 25719
+|estyear=2019
+|estimate=26947
+|estref=<ref name="USCensusEst2019">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|title=Population and Housing Unit Estimates|accessdate=May 21, 2020}}</ref>
+|footnote=Sources:<ref name="GR2" /><ref name="Census1960">{{cite web|title=Number of Inhabitants: Ohio|url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37749282v1p37_ch02.pdf|date=1960|work=18th Census of the United States|publisher=U.S. Census Bureau|access-date=22 November 2013}}</ref><ref name="Census1990">{{cite web|title=Ohio: Population and Housing Unit Counts|url=https://www.census.gov/prod/cen1990/cph2/cph-2-37.pdf|publisher=U.S. Census Bureau|access-date=22 November 2013}}</ref>
+}}
+
+===2010 census===
+As of the [[census]]<ref name ="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2013-01-06}}</ref> of 2010, there were 25,719 people, 10,390 households, and 6,631 families residing in the city. The [[population density]] was {{convert|1936.7|PD/sqmi|PD/km2|1}}. There were 11,424 housing units at an average density of {{convert|860.2|/sqmi|/km2|1}}. The racial makeup of the city was 82.0% [[White (U.S. Census)|White]], 13.4% [[African American (U.S. Census)|African American]], 0.4% [[Native American (U.S. Census)|Native American]], 0.5% [[Asian (U.S. Census)|Asian]], 0.5% from [[Race (U.S. Census)|other races]], and 3.2% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.7% of the population.
+
+There were 10,390 households, of which 32.3% had children under the age of 18 living with them, 42.6% were [[Marriage|married couples]] living together, 16.3% had a female householder with no husband present, 4.9% had a male householder with no wife present, and 36.2% were non-families. 31.0% of all households were made up of individuals, and 12.9% had someone living alone who was 65 years of age or older. The average household size was 2.39 and the average family size was 2.98.
+
+The median age in the city was 37.1 years. 24.8% of residents were under the age of 18; 9.1% were between the ages of 18 and 24; 25.6% were from 25 to 44; 24.9% were from 45 to 64; and 15.7% were 65 years of age or older. The gender makeup of the city was 47.2% male and 52.8% female.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 24,164 people, 9,378 households, and 6,527 families residing in the city. The [[population density]] was 1,989.3 people per square mile (767.9/km<sup>2</sup>). There were 9,924 housing units at an average density of 817.0 per square mile (315.4/km<sup>2</sup>). The racial makeup of the city was 83.30% [[White (U.S. Census)|White]], 13.51% [[African American (U.S. Census)|African American]], 0.34% [[Native American (U.S. Census)|Native American]], 0.29% [[Asian (U.S. Census)|Asian]], 0.05% [[Pacific Islander (U.S. Census)|Pacific Islander]], 0.53% from [[Race (United States Census)|other races]], and 1.98% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.09% of the population.
+
+There were 9,378 households, out of which 34.2% had children under the age of 18 living with them, 50.2% were [[Marriage|married couples]] living together, 15.5% had a female householder with no husband present, and 30.4% were non-families. 26.2% of all households were made up of individuals, and 11.1% had someone living alone who was 65 years of age or older. The average household size was 2.51 and the average family size was 3.02.
+
+In the city the population was spread out, with 27.1% under the age of 18, 9.6% from 18 to 24, 28.5% from 25 to 44, 21.3% from 45 to 64, and 13.5% who were 65 years of age or older. The median age was 34 years. For every 100 females, there were 90.5 males. For every 100 females age 18 and over, there were 84.4 males.
+
+The median income for a household in the city was $36,457, and the median income for a family was $43,046. Males had a median income of $34,497 versus $24,094 for females. The [[per capita income]] for the city was $16,481. About 8.9% of families and 11.6% of the population were below the [[poverty line]], including 14.8% of those under age 18 and 9.4% of those age 65 or over.
+
+==Economy==
+Xenia has, or once had, the following industries:
+* [[Hooven and Allison]] rope factory (1870-2003)<ref>https://www.bizjournals.com/dayton/stories/2003/08/04/daily38.html</ref><ref>chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.ci.xenia.oh.us/DocumentCenter/View/520</ref>
+* Xenia Shoe Manufacturing<ref>https://www.pinterest.com/pin/83105555604324413/</ref>
+* Xenia Ironcasting Foundry (founded 1920)<ref>http://www.xeniafoundry.com/</ref>
+* [[Bob Evans Restaurants]] meat packing plant<ref>https://www.sec.gov/Archives/edgar/data/33769/000003376917000051/bobe-2017428x10k.htm</ref>
+* Xenia [[Workhouse]]<ref>{{Cite web | url=https://books.google.com/books?id=gS4LAAAAYAAJ&q=xenia+workhouse&pg=PA323 |title = Ohio Decisions|last1 = Tossell|first1 = William John|year = 1915}}</ref>
+* Kroehler Furniture factory (destroyed 1974)<ref>https://www.newspapers.com/newspage/42829101/</ref><ref>https://www.pinterest.com/pin/519884350716082371/</ref>
+* [[McDonald Farm (Xenia, Ohio)|McDonald Farm]] Stone Quarry - stone used to represent Ohio in the [[Washington Monument]]<ref>https://www.hmdb.org/Marker.asp?Marker=91407</ref>
+* [[Dodds Monuments]] - grave and memorial sculptors (founded 1864)<ref>http://www.doddsmonuments.com/</ref>
+* [[Eavey Grocers]] (1865-1970)<ref>http://www.xeniagazette.com/opinion/1207/1908-fire-in-the-eavey-building</ref><ref>http://www.co.greene.oh.us/Blog.aspx?IID=50</ref>
+
+==Arts and culture==
+From May 2017 the annual [[Dayton Hamvention]] will be held at the Greene County Fairgrounds, having moved from the now closed [[Hara Arena]] in [[Trotwood, Ohio]].  This event typically attracts over 20,000 [[amateur radio]] enthusiasts from around the world.
+
+==Government==
+The Xenia City Council exercises the powers and authority of a municipal corporation as determined by the constitution of the State of Ohio and the Charter and ordinances of the City of Xenia. The City Council is composed of seven elected council members, including one mayor. Council members are each elected for one four-year term of office.
+
+City Council members and term start years:<ref name=DNCouncil />
+* Mayor Sarah Mays (2017) – 1st term
+* Councilman and City Council President Michael D. Engle (2016) – 5th term
+* Councilman Dale Louderback (2016) – 3rd term
+* Councilman Wesley Smith (2014) – 2nd term
+* Councilman Levi P. Dean (2017) – 1st term
+* Councilman Edgar Wallace (2016) – 1st term
+* Councilwoman Jeanne Mills (2017) - 1st term
+
+The City Manager is Brent Merriman.
+
+==Education==
+The Xenia Community School District has 1 preschool, 5 elementary, 1 middle, and 1 high school:
+
+* Xenia Preschool (formerly Central Middle School) (Grade PreK)
+* Cox Elementary School (Grade K-5)
+* McKinley Elementary School (Grade K-5)
+* Arrowood Elementary (Grade K-5)
+* Shawnee Elementary (Grade K-5)
+* Tecumseh Elementary (Grade K-5)
+* Warner Middle School (Grade 6-8)
+* [[Xenia High School]] (Grade 9-12)
+* Spring Hill Elementary (as of 2012 defunct)<ref>{{Cite news|url=http://www.daytondailynews.com/news/local-education/xenia-students-return-new-schools/Rpc0OSli3wLplrrChkPWLK/|title=Xenia students to return to 5 new schools|work=daytondailynews|access-date=2018-02-26}}</ref>
+
+Private schools in Xenia:
+* [[Xenia Christian School|Legacy Christian Academy]] (Grade Pre-K-12)
+* [[St. Brigid]] School (Grade Pre-K-8)
+
+Xenia has the main branch library and administrative offices of the [[Greene County Public Library]].<ref>{{cite web | url=https://greenelibrary.info/locations/ | title=Locations | publisher=Greene County Public Library | accessdate=25 February 2018}}</ref>
+
+==Media==
+Xenia is part of the [[Dayton, Ohio|Dayton]] [[media market]], the 64th-largest media market in the United States.<ref>{{cite news |title=Local Television Market Universe Estimates |url=http://www.nielsen.com/content/dam/corporate/us/en/docs/solutions/measurement/television/2016-2017-nielsen-local-dma-ranks.pdf |publisher=[[Nielsen Media Research]] |date=September 24, 2016 |accessdate=April 3, 2017}}</ref>
+
+===News===
+The main newspaper in Xenia is the ''[[Xenia Daily Gazette]]'', founded in 1868. The ''Gazette'' is published six days a week. A community-based online source, ''Xenia's Word on the Street'', is also available.<ref>{{cite web |title=Meet Our Team |url=http://xeniaword.com/site-info/meet-our-team/ |work=Xenia's Word on the Street |accessdate=April 3, 2017}}</ref> The larger ''[[Dayton Daily News]]'', which covers the entire Dayton metro area, includes a community section for Xenia in both the printed and online versions.<ref>{{cite web |title=Xenia News |url=http://www.daytondailynews.com/news/local/community/xenia/ |publisher=[[Dayton Daily News]] |work=DaytonDailyNews.com |accessdate=April 3, 2017}}</ref>
+
+===Radio===
+Radio stations based in Xenia:
+*1500 AM ([[WBZI]]) Xenia ("Classic Country")
+*95.3 FM ([[WZLR]]) Xenia ("The Eagle") -- 70s & 80s Classic Rock
+*100.3 FM ([[WBZI]]) Xenia ("Classic Country Radio") -- Classic; Contemporary
+*100.7/93.7 FM ([[WEEC]]/WFCJ) Xenia ("Stong Tower Christian Media") -- Christian, talk<ref>http://weec.org/</ref>
+
+==In popular culture==
+{{Unreferenced section|date=April 2017}}
+{{In popular culture|date=December 2017}}
+
+===Film===
+* Xenia is the setting for [[Harmony Korine]]'s film ''[[Gummo]]'' (1997); the movie was not filmed in Xenia, however, but in Korine's hometown of [[Nashville, Tennessee]].
+
+===Music===
+* [[Maynard James Keenan]] mentions Xenia at least twice with his band [[Puscifer]], first in "Sour Grapes (Where is the Line Mix)", and again in a fictional documentary played before shows on their 2011 tour. The Puscifer Characters Billy Dee Burger and Hildy Burger are credited as being from Xenia.
+* [[They Might Be Giants]] mention Xenia in the song "Out of Jail" on their album ''[[John Henry (album)|John Henry]]'' (1994).
+* [[The Breeders]] mention Xenia, as well as [[Akron, Ohio]], in the song "Little Fury" on their album ''[[Title TK (album)|Title TK]]'' (2002).
+
+==Notable people==
+* [[Doug Adair]], television [[news presenter|news anchor]] and journalist
+* [[Doug Adams (American football)|Doug Adams]], [[National Football League|NFL]] player
+* [[Steve Austria]], U.S. Congressman
+* [[Elizabeth Gowdy Baker]], painter
+* [[Dave Chappelle]], comedian
+* [[Dean Chenoweth]], hydroplane and auto racer in [[Motorsports Hall of Fame of America]]
+* [[Barry Clemens|John Barry Clemens]], [[NBA]] player
+* [[Trent Cole]], NFL [[defensive end]]
+* [[Gary Gearhart|Lloyd Gearhart]], [[Major League Baseball|MLB]] player and scout
+* [[Charley Grapewin]], actor
+* [[Caitlin Halligan]], lawyer and nominee for federal judge
+* [[Chris Hero]], pro wrestler for [[WWE]] and [[NXT (WWE brand)|NXT]]
+* [[Roger Huston]], harness [[race caller]]
+* [[Coates Kinney]], lawyer, journalist, and poet
+* [[John Little (congressman)|John Little]], U.S. Congressman
+* [[Roger McMurrin]], conductor
+* [[Rose Murphy]], jazz singer
+* [[Larry D. Nichols]], puzzle enthusiast and inventor of [[Pocket Cube]]
+* [[Helen Hooven Santmyer]], novelist
+* [[Obiwu]], poet and author
+* [[Arthur M. Schlesinger, Sr.]], historian
+* Chief [[Tecumseh]], Shawnee Chief during the [[War of 1812]]
+* [[Thomas Taggart]], [[Mayor of Indianapolis]] and U.S. Senator from Indiana
+* [[Ridgely Torrence]], poet
+
+==See also==
+*[[Alexander Conner House]]
+*[[Bank of Xenia]]
+*[[East Second Street Historic District (Xenia, Ohio)]]
+*[[Greene County–Lewis A. Jackson Regional Airport]]
+*[[Hollencamp House]]
+*[[Millen-Schmidt House]]
+*[[Ohio Town]]
+*[[Samuel N. Patterson House]]
+*[[Xenia (automobile)]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Xenia, Ohio}}
+{{wikivoyage|Xenia}}
+* {{Official website|https://www.ci.xenia.oh.us/}}
+
+{{Geographic Location
+|Center = Xenia
+|North = [[Yellow Springs, Ohio|Yellow Springs]]
+|Northeast = [[Cedarville, Ohio|Cedarville]]
+|East = [[Jamestown, Ohio|Jamestown]]
+|Southeast = [[Bowersville, Ohio|Bowersville]]
+|South = [[Spring Valley, Ohio|Spring Valley]] 
+|Southwest = [[Bellbrook, Ohio|Bellbrook]]
+|West = [[Beavercreek Township, Ohio|Beavercreek Township]]
+|Northwest = [[Fairborn, Ohio|Fairborn]] 
+}}
+{{Greene County, Ohio}}
+{{Authority control}}
+
+[[Category:Xenia, Ohio| ]]
+[[Category:Cities in Ohio]]
+[[Category:Cities in Greene County, Ohio]]
+[[Category:County seats in Ohio]]
+[[Category:Populated places established in 1803]]
+[[Category:Populated places on the Underground Railroad]]
+[[Category:1803 establishments in Ohio]]

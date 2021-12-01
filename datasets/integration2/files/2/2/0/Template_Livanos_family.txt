@@ -1,0 +1,26 @@
+{{Navbox
+| name      = Livanos family
+| title     = Livanos family
+| listclass = hlist
+| state     = {{{state<includeonly>|autocollapse</includeonly>}}}
+
+| group1 = Children of [[Stavros G. Livanos]]<br/>and Arietta Zafirakis
+| list1  = 
+* [[Eugenia Livanos]]
+* [[Tina Onassis Niarchos|Athina Livanos]]
+* [[George S. Livanos]] 
+
+| group2 = Children of Eugenia Livanos<br/>and [[Stavros Niarchos]]
+| list2  = 
+* [[Philip Niarchos]]
+* [[Spyros Niarchos]]
+
+| group3 = Children of Athina Livanos<br/>and [[Aristotle Onassis]]
+| list3  = 
+* [[Alexander Onassis]]
+* [[Christina Onassis]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Family templates]]
+</noinclude>

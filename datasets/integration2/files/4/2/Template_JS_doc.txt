@@ -1,0 +1,84 @@
+{{Documentation subpage}}
+
+== Usage ==
+This is a typing short cut for linking to modern [[Japan Maritime Self-Defense Force]] ship articles named in the format "JS Deep Six (AWOL-99)".  Since ship names are italicized in article text, linking to them in the usual manner means typing everything twice, such as <nowiki>[[JS Deep Six (AWOL-99)|JS ''Deep Six'' (AWOL-99)]]</nowiki>.  This template halves that to <nowiki>{{JDS|Deep Six|AWOL-99}}.
+</nowiki>
+
+=== Formal usage ===
+
+* <code><nowiki>{{JS|Ship Name}}</nowiki></code>
+* <code><nowiki>{{JS|Ship Name|ID}}</nowiki></code>, where ID can be the [[hull number]], launch year, or [[pennant number]], as specified in the article title.
+
+=== Example ===
+{|class=wikitable width="100%"
+ |- style="background-color:#FCFCFC" align="left"
+ ! Template usage
+ ! Equivalent wikicode
+ ! Final result
+ |-
+ | <code><nowiki>{{JDS|Ashigara|DDG-178}}</nowiki></code>
+ | <code><nowiki>[[JDS Ashigara (DDG-178)|JDS ''Ashigara'' (DDG-178)]]</nowiki></code>
+ | {{JDS|Wakaba|DE-261}}
+ |}
+
+=== Optional display control parameter ===
+There is an optional third parameter that controls which pieces of text are displayed in the article.  Its value is treated as a binary number and will display the corresponding "bits".  So setting the 4's bit will display BRP, setting the 2's bit will display the ship name, and setting the 1's bit will display the ID.  If binary math isn't your thing, refer to these examples:
+{|class=wikitable width=100%
+! Value
+! Parameter(s)<br />displayed
+! Example
+! Equivalent wikicode
+! Final result
+|-
+! None
+| style="text-align:center;" | all
+| <code><nowiki>{{JS|Ashigara|DDG-178}}</nowiki></code>
+| <code><nowiki>[[JS Ashigara (DDG-178)|JS ''Ashigara'' (DDG-178)]]</nowiki></code>
+| {{JS|Ashigara|DDG-178}}
+|-
+! 1
+| style="text-align:center;" | 3rd
+| <code><nowiki>{{JS|Ashigara|DDG-178|1}}</nowiki></code>
+| <code><nowiki>[[JS Ashigara (DDG-178)|DDG-178]]</nowiki></code>
+| {{JS|Ashigara|DDG-178|1}}
+|-
+! 2
+| style="text-align:center;" | 2nd
+| <code><nowiki>{{JS|Ashigara|DDG-178|2}</nowiki>}</code>
+| <code><nowiki>[[JS Ashigara (DDG-178)|''Ashigara'']]</nowiki></code>  
+| {{JS|Ashigara|DDG-178|2}}
+|-
+! 3
+| style="text-align:center;" | 2nd, 3rd
+| <code><nowiki>{{JS|Ashigara|DDG-178|3}</nowiki>}</code>
+| <code><nowiki>[[JS Ashigara (DDG-178)|''Ashigara'' (DDG-178)]]</nowiki></code>
+| {{JS|Ashigara|DDG-178|3}}
+|-
+! 4
+| style="text-align:center;" | invalid result
+| <code><nowiki>{{JS|Ashigara|DDG-178|4}</nowiki>}</code>
+| <code><nowiki>[[JS Ashigara (DDG-178)|Invalid Optional Parameter]]</nowiki></code>  
+| {{JS|Ashigara|DDG-178|4}}
+|-
+! 5
+| style="text-align:center;" | 1st, 3rd
+| <code><nowiki>{{JS|Ashigara|DDG-178|5}</nowiki>}</code>
+| <code><nowiki>[[JS Ashigara (DDG-178)|JS (DDG-178)]]</nowiki></code>  
+| {{JS|Ashigara|DDG-178|5}}
+|-
+! 6
+| style="text-align:center;" | 1st, 2nd
+| <code><nowiki>{{JS|Ashigara|DDG-178|6}</nowiki>}</code>
+| <code><nowiki>[[JS Ashigara (DDG-178)|JS ''Ashigara'']]</nowiki></code>  
+| {{JS|Ashigara|DDG-178|6}}
+|}
+
+== TemplateData ==
+{{Template:Ship/doc/fixed prefix: TemplateData}}
+
+== See also ==
+{{WPSHIPS shortcut templates}}
+
+<includeonly>{{sandbox other||
+[[Category:Ship prefix templates|JS]]
+}}</includeonly>

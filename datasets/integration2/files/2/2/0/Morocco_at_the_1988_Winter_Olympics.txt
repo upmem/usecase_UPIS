@@ -1,0 +1,97 @@
+{{infobox country at games
+| NOC = MAR
+| NOCname = [[Moroccan Olympic Committee]]<br> {{lang-ar|اللجنة الأولمبية الوطنية المغربية|links=no}}
+| games = Winter Olympics
+| year = 1988
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.cnom.org.ma }}&nbsp;{{in lang|fr}}
+| location = [[Calgary]], Canada
+| competitors = 3 (men)
+| sports = 1
+| flagbearer = Mustapha Naitlho, Treasurer, Moroccan Ski Association
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+'''[[Morocco]]''' competed at the '''[[1988 Winter Olympics]]''' in [[Calgary|Calgary, Alberta]], [[Canada]].
+
+== Alpine skiing==
+{{main|Alpine skiing at the 1988 Winter Olympics}}
+
+;Men
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Race 1
+!Race 2
+!colspan="2"|Total
+|-
+!Time
+!Time
+!Time
+!Rank
+|-
+|[[Ahmed Ait Moulay]]
+|rowspan="3"|Giant Slalom
+|align="center"|DSQ
+|align="center"|&ndash;
+|align="center"|DSQ
+|align="center"|&ndash;
+|-
+|[[Lotfi Housnialaoui]]
+|align="center"|DSQ
+|align="center"|&ndash;
+|align="center"|DSQ
+|align="center"|&ndash;
+|-
+|[[Ahmad Ouachit]]
+|align="center"|DSQ
+|align="center"|&ndash;
+|align="center"|DSQ
+|align="center"|&ndash;
+|-
+|[[Lotfi Housnialaoui]]
+|rowspan="3"|Slalom
+|align="center"|1:35.61
+|align="center"|1:14.03
+|align="center"|2:49.64
+|align="center"|47
+|-
+|[[Ahmed Ait Moulay]]
+|align="center"|1:20.36
+|align="center"|1:12.81
+|align="center"|2:33.17
+|align="center"|42
+|-
+|[[Ahmad Ouachit]]
+|align="center"|1:19.17
+|align="center"|1:12.36
+|align="center"|2:31.53
+|align="center"|41
+|}
+
+==References==
+*[https://web.archive.org/web/20070612020125/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+* [https://web.archive.org/web/20200417042619/https://www.sports-reference.com/olympics/winter/1988/ Olympic Winter Games 1988, full results by sports-reference.com]
+
+{{Nations at the 1988 Winter Olympics}}
+
+[[Category:Nations at the 1988 Winter Olympics]]
+[[Category:Morocco at the Winter Olympics by year|1988 Winter Olympics]]
+[[Category:1988 in Moroccan sport]]
+
+
+{{Morocco-sport-stub}}
+{{1988-winter-Olympic-stub}}

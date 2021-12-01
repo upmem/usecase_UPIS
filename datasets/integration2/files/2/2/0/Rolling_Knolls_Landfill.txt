@@ -1,0 +1,35 @@
+The '''Rolling Knolls Landfill''' is a [[landfill]] located in the [[Green Village, New Jersey|Green Village]] section of [[Chatham Township, New Jersey|Chatham Township]] in [[New Jersey]]. It is bordered on two sides by the [[Great Swamp National Wildlife Refuge]], and was formerly known as Miele's Dump, after owner Robert Miele.
+
+The Landfill is notable for being identified by the [[United States Environmental Protection Agency|Environmental Protection Agency]] as a [[Superfund]] site. It was operated as a municipal landfill from the early 1930s until December 1968, during which time it handled [[municipal solid waste]], as well as construction and demolition debris from neighboring communities.<ref>[http://www.epa.gov/superfund/sites/npl/nar1681.htm EPA]</ref>
+
+"According to the EPA's Web site, soil samples collected in 1999 showed levels of metals, [[phthalates]], and [[polychlorinated biphenyls]] (PCBs) that were above regulation norms.
+
+Mercury and PCB releases were also observed in a surface water and sediment sample taken from a portion of the landfill located within the Great Swamp Wildlife Refuge, according to the EPA. Testing also showed "actual contamination of a terrestrial sensitive environment," and indicated potential exposure of nearby residents, the EPA says.<ref>[http://www.dailyrecord.com/apps/pbcs.dll/article?AID=/20070607/UPDATES01/706070388 Daily Record]</ref>
+
+==See also==
+*[[Landfill in the United States]]
+
+==References==
+{{reflist}}
+*{{cite web
+  | title = NPL Site Narrative for Rolling Knolls Landfill
+  | url = http://www.epa.gov/superfund/sites/npl/nar1681.htm
+  | accessdate = 2007-06-07 }}
+*{{Cite news
+ | title=Rolling Knolls Landfill discussed tonight
+ | newspaper=dailyrecord.com
+ | date=June 7, 2007
+ | url=http://www.dailyrecord.com/apps/pbcs.dll/article?AID=/20070607/UPDATES01/706070388
+ | archive-url=https://archive.is/20130121093928/http://www.dailyrecord.com/apps/pbcs.dll/article?AID=/20070607/UPDATES01/706070388
+ | url-status=dead
+ | archive-date=January 21, 2013
+ | format= &ndash; <sup>[https://scholar.google.co.uk/scholar?hl=en&lr=&q=intitle%3ARolling+Knolls+Landfill+discussed+tonight&as_publication=&as_ylo=2007&as_yhi=2007&btnG=Search Scholar search]</sup>
+ }} 
+
+{{coord|40.7176|-74.4210|type:landmark_globe:earth_region:US-NJ|display=title}}
+
+[http://www.atsdr.cdc.gov/HAC/pha/Rolling%20Knolls%20Landfill/RollingKnollsLandfillPHA070506.pdf RPublic Health Assessment for Rolling Knolls Landfill July 5, 2006lling Knolls Landfill]
+
+[[Category:Landfills in the United States]]
+[[Category:Geography of Morris County, New Jersey]]
+[[Category:Superfund sites in New Jersey]]

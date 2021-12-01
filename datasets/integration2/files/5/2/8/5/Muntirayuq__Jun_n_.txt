@@ -1,0 +1,41 @@
+{{short description|Mountain in the Andes of Peru}}
+{{About|the mountain in the Apata District, Jauja Province, Junín Region, Peru|other uses|Muntirayuq (disambiguation){{!}}Muntirayuq}}
+{{Infobox mountain
+| name = Muntirayuq
+| photo = 
+| photo_caption = 
+| elevation_m   = 4600
+| elevation_ref = <ref name=escale/>
+| prominence_m  =
+| prominence_ref= 
+| range = [[Andes]]
+| listing =
+| location = [[Peru]], [[Junín Region]]
+| map = Peru
+| range_coordinates = 
+| map_caption = Peru
+| map_size = 200
+| label_position = right
+| coordinates   = {{coord|11|44|08|S|75|18|25|W|type:mountain_region:PE_scale:100000|format=dms|display=inline,title}}
+| coordinates_ref = 
+| topo = 
+| type = 
+| age = 
+| first_ascent = 
+| easiest_route = 
+}}
+'''Muntirayuq''' ([[Quechua language|Quechua]] ''muntira'' an ancient cloth cap; a bullfighter's hat, ''-yuq'' a suffix,<ref name=pirwa/><ref name=laime/> 'the one with a cap', also spelled ''Monterrayoc'') is a mountain in the [[Andes]] of [[Peru]] which reaches a height of approximately {{convert|4600|m|ft|0}}. It is located in the [[Junín Region]], [[Jauja Province]], [[Apata District]].<ref name=escale/>
+
+== References ==
+{{reflist|refs=
+<ref name=escale>escale.minedu.gob.pe - UGEL map of the Jauja Province (Junín Region)</ref>
+<ref name=pirwa>Qhichwa Suyup Simi Pirwan Diccionario de la Nación Quechua, Consejo Educativo de la Nación Quechua "CENAQ"</ref>
+<ref name=laime>{{Ref Laime}}</ref>
+}}
+
+{{DEFAULTSORT:Muntirayuq (Junin)}}
+[[Category:Mountains of Peru]]
+[[Category:Mountains of Junín Region]]
+
+
+{{Junin-geo-stub}}

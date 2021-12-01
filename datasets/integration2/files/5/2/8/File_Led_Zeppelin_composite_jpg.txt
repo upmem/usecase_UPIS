@@ -1,0 +1,13 @@
+== Summary ==
+{{Information
+ |Description    = Composite photo of the members of English heavy metal group [[Led Zeppelin]]
+ |Source         = The following files in Wikimedia Commons: [http://commons.wikimedia.org/wiki/File:Jimmy_Page2.jpg], [http://commons.wikimedia.org/wiki/File:Robert-Plant.jpg], [http://commons.wikimedia.org/wiki/File:John_Bonham_1975.jpg], [http://commons.wikimedia.org/wiki/File:John_Paul_Jones.jpg].
+ |Date           = 10:18, 8 February 2011 (UTC)
+ |Author         = Various
+}}
+
+== Licensing ==
+{{cc-by-sa-2.0}}
+
+{{Orphan image}}
+{{Copy to Wikimedia Commons|bot=Fbot}}

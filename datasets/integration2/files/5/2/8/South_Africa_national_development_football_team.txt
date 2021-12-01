@@ -1,0 +1,232 @@
+{{Infobox National football team |
+  Name               = South Africa Development team |
+  Badge              =   |
+  FIFA Trigramme     = RSA |
+  Nickname           = ''Amabinneplaas'' |
+  Association        = [[South African Football Association|South African<br>Football Association]] |
+  Confederation      = [[Confederation of African Football|CAF]] ([[Africa]]) |
+  Sub-confederation  = [[COSAFA]] |
+  Coach              = [[Simon Ngomane]] |
+  Captain            = [[Jacob Mokhasi]] |
+  Most caps          =  |
+  Top scorer         =  |
+  Home Stadium       =  |
+  FIFA Rank          =  N/A|
+FIFA max = |
+FIFA max date = |
+FIFA min = |
+FIFA min date = |
+  Elo Rank           =  |
+Elo max = |
+Elo max date = |
+Elo min = |
+Elo min date = |
+  pattern_la1=_rsa10h|pattern_b1=_rsa10h|pattern_ra1=_rsa10h|pattern_sh1=_esp_08|
+  leftarm1=019585|body1=019585|rightarm1=019585|shorts1=008000|socks1=F7EB29|
+  pattern_la2=_rsa10a|pattern_b2=_rsa10a|pattern_ra2=_rsa10a|pattern_sh2=_rsa10a|
+  leftarm2=019585|body2=019585|rightarm2=019585|shorts2=F7EB29|socks2=008000|
+  First game         = |
+  Largest win        = |
+  Largest loss       = |
+  Regional name      = [[African Nations Championship]] |
+  Regional cup apps  = 1 |
+  Regional cup first = [[2011 African Nations Championship|2011]] |
+  Regional cup best  = Quarter-finals ([[2011 African Nations Championship|2011]])|
+}}
+
+The '''South Africa national development football team''', is a development [[association football|football (soccer)]] team, which represents [[South Africa]] and is controlled by the [[South African Football Association]], the governing body for [[football in South Africa]]. The team's main objective is to give international exposure to fringe home-based players, by allowing them to play 'B-level' internationals. Since the advent of the [[African Nations Championship]], the team now attempts to qualify for and play at the event. Since 2008 SAFA have sent the team to the [[COSAFA Senior Challenge Cup|COSAFA Cup]], instead of the [[South Africa national football team|senior team]]. The team has played at one African Nations Championship and two COSAFA Cups.
+
+==History==
+{{Empty section|date=March 2011}}
+
+=={{anchor|Player eligiblity}}Player eligibility==
+[[African Championship of Nations]] regulations require teams to be made up only of players from the association's national leagues. As the team is not an official national team, and does not play in FIFA sanctioned tournaments, clubs are not required to release players for matches. Usually the only [[Premier Soccer League]] players released are non-squad members. Many players are selected from the [[National First Division]] (second tier) and [[Vodacom League]] (third tier).
+
+==Match status==
+Matches played by the team are not classified as 'A-level' internationals. Thus [[cap (sport)|caps]] awarded for matches do not count as [[South Africa national football team|senior national team]] caps. Matches played by the team also do not count towards FIFA ranking points, even when the team plays other countries' senior national teams.
+
+==Recent and future matches==
+Recent results
+{| class="wikitable"
+|-
+! Date
+! Team
+! Result
+! Score
+! Type
+! Venue
+|-
+| 18 February 2011
+| {{flagicon|ALG}} [[Algeria A' national football team|Algeria A]]
+| L
+| 0–2
+| [[2011 African Nations Championship#Quarter-finals|2011 CHAN quarter-final]]
+| {{flagicon|SUD}} [[Khartoum Stadium]], [[Khartoum]], [[Sudan]]
+|-
+| 13 February 2011
+| {{fb|ZIM}}
+| W
+| 2–1
+| [[2011 African Nations Championship#Group B|2011 CHAN group match]]
+| {{flagicon|SUD}} [[AlHilal Stadium]], [[Omdurman]], [[Sudan]]
+|-
+| 9 February 2011
+| {{fb|NIG}}
+| W
+| 2–0
+| [[2011 African Nations Championship#Group B|2011 CHAN group match]]
+| {{flagicon|SUD}} [[Stade Wad Medani]],  [[Wad Medani]], [[Sudan]]
+|-
+| 5 February 2011
+| {{fb|GHA}}
+| W
+| 2–1
+| [[2011 African Nations Championship#Group B|2011 CHAN group match]]
+| {{flagicon|SUD}}  [[Stade Wad Medani]], [[Wad Medani]], [[Sudan]]
+|-
+| 22 January 2011
+| {{fb|SWE}}
+| D
+| 1–1
+| [[Exhibition game|Friendly]]
+| {{flagicon|RSA}}  [[Mbombela Stadium]], [[Nelspruit]], [[South Africa]]
+|}
+
+Upcoming matches
+{| class="wikitable"
+|-
+! Date
+! Team
+! Result
+! Score
+! Type
+! Venue
+|-
+| 21 September 2011
+| {{fb|PLE}}
+| 
+| 
+| [[Exhibition game|Friendly]]
+|-
+| 24 September 2011
+| {{fb|PLE}}
+| 
+| 
+| [[Exhibition game|Friendly]]
+| 
+| 
+|}
+
+==Current squad==
+A 23-man squad was selected for the [[2011 African Nations Championship]].<ref>{{cite web|url=http://www.soccerladuma.co.za/index.php?option=com_content&view=article&id=11444:amabinneplaas-selection-for-chan-completed-&catid=6:local&Itemid=129|title=Amabinneplaas Selection For CHAN Completed 
+|date=|publisher=Soccer Laduma|accessdate=2011-02-08}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Richard de Villiers]]|age={{birth date and age|mf=yes|1987|12|15|df=y}}|caps=|goals=|club=[[Witbank Spurs F.C.|Witbank Spurs]]|clubnat=RSA}}
+{{nat fs g player|no=16|pos=GK|name=[[Jacob Mokhasi]] ''([[Captain (association football)|Captain]])''|age={{birth date and age|mf=yes|1982|09|29|df=y}}|caps=|goals=|club=[[SuperSport United F.C.|Supersport United]]|clubnat=RSA}}
+{{nat fs g player|no=22|pos=GK|name=[[Confidence Shimange]]|age=|caps=|goals=|club=Giyani Hotspurs|clubnat=RSA}}
+|-----
+! colspan="9" bgcolor="#B0D3FB" align="left" |
+{{nat fs g player|no=2|pos=DF|name=[[Enocent Kunene]]|age={{birth date and age|mf=yes|1987|09|14|df=y}}|caps=|goals=|club=Real Classic|clubnat=RSA}}
+{{nat fs g player|no=3|pos=DF|name=[[Cambridge Mashego]]|age={{birth date and age|mf=yes|1986|11|26|df=y}}|caps=|goals=|club=Baroka FC|clubnat=RSA}}
+{{nat fs g player|no=4|pos=DF|name=[[Humphrey Khoza]]|age=|caps=|goals=|club=[[Witbank Spurs F.C.|Witbank Spurs]]|clubnat=RSA}}
+{{nat fs g player|no=5|pos=DF|name=[[Sandile Leping]]|age=|caps=|goals=|club=Trabzon FC|clubnat=RSA}}
+{{nat fs g player|no=15|pos=DF|name=[[Calvin Nkosi]]|age={{birth date and age|mf=yes|1981|07|15|df=y}}|caps=|goals=|club=Alexandra United|clubnat=RSA}}
+|-----
+! colspan="9" bgcolor="#B0D3FB" align="left" |
+{{nat fs g player|no=6|pos=MF|name=[[Sphiwe Mabena]]|age={{birth date and age|mf=yes|1982|07|30|df=y}}|caps=|goals=|club=African Stars|clubnat=RSA}}
+{{nat fs g player|no=8|pos=MF|name=[[Nhlakanipho Mkhwanazi]]|age={{birth date and age|mf=yes|1989|02|27|df=y}}|caps=|goals=|club=Ireland FC|clubnat=RSA}}
+{{nat fs g player|no=10|pos=MF|name=[[Jabulani Shongwe]]|age={{birth date and age|mf=yes|1989|02|28|df=y}}|caps=|goals=|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=11|pos=MF|name=[[Aphiwe Mlalandle]]|age={{birth date and age|mf=yes|1993|01|14|df=y}}|caps=|goals=|club=Sivutsa FC|clubnat=RSA}}
+{{nat fs g player|no=12|pos=MF|name=[[Minenhle Mthimkhulu]]|age={{birth date and age|mf=yes|1987|03|29|df=y}}|caps=|goals=|club=Alexandra United|clubnat=RSA}}
+{{nat fs g player|no=13|pos=MF|name=[[Tiyane Mabunda]]|age={{birth date and age|mf=yes|1988|04|17|df=y}}|caps=|goals=|club=[[Black Leopards F.C.|Black Leopards]]|clubnat=RSA}}
+{{nat fs g player|no=14|pos=MF|name=[[Sakhile Khubeka]]|age={{birth date and age|mf=yes|1989|09|14|df=y}}|caps=|goals=|club=Gqikazi All Stars|clubnat=RSA}}
+{{nat fs g player|no=17|pos=MF|name=[[Mlungisi Nkosi]]|age={{birth date and age|mf=yes|1988|05|03|df=y}}|caps=|goals=|club=Barberton Stars|clubnat=RSA}}
+|-----
+! colspan="9" bgcolor="#B0D3FB" align="left" |
+{{nat fs g player|no=7|pos=FW|name=[[Ntshirane Rantho]]|age={{birth date and age|mf=yes|1986|07|09|df=y}}|caps=|goals=|club=[[Mpumalanga Black Aces F.C.|Mpumalanga Black Aces]]|clubnat=RSA}}
+{{nat fs g player|no=9|pos=FW|name=[[Bheki Shabangu]]|age={{birth date and age|mf=yes|1985|09|21|df=y}}|caps=|goals=|club=African All Stars|clubnat=RSA}}
+{{nat fs g player|no=18|pos=FW|name=[[Bongumusa Ntombela]]|age=|caps=|goals=|club=Citizen FC|clubnat=RSA}}
+{{nat fs g player|no=19|pos=FW|name=[[Edward Manqele]]|age={{birth date and age|mf=yes|1987|06|16|df=y}}|caps=|goals=|club=Trabzon FC|clubnat=RSA}}
+{{nat fs g player|no=20|pos=FW|name=[[Patrick Ngidi]]|age=|caps=|goals=|club=Maluti FC|clubnat=RSA}}
+{{nat fs g player|no=21|pos=FW|name=[[Collins Zimba]]|age={{birth date and age|mf=yes|1983|12|20|df=y}}|caps=|goals=|club=Vardos FC|clubnat=RSA}}
+{{nat fs g player|no=23|pos=FW|name=[[Myron Shongwe]]|age={{birth date and age|mf=yes|1981|05|06|df=y}}|caps=|goals=|club=[[AmaZulu F.C.|Amazulu]]|clubnat=RSA}}
+{{nat fs end}}
+
+==Recent callups==
+The following 5 players have been selected by South Africa Development in the past 12 months, but were not selected in the squad to play the [[2011 African Nations Championship]], or withdrew from the squad due to injury. Only players available for call-up, not retired players. 
+
+{{National football squad start (recent)}}
+{{nat fs r player|no=|pos=GK|name=[[Thokazane Ndlovu]]|age=|caps=|goals=|club=[[Golden Arrows]]|clubnat=RSA|latest= v. {{fb|Sweden}}, 22 January 2011}}
+|-----
+! colspan="9" bgcolor="#B0D3FB" align="left" |
+|----- bgcolor="#DFEDFD"
+{{nat fs r player|no=|pos=DF|name=[[Thato Mogakabe]]|age=|caps=|goals=|club=Sicilians FC|clubnat=RSA|latest= v. {{fb|Sweden}}, 22 January 2011}}
+{{nat fs r player|no=|pos=DF|name=[[Xolani Mdaki]]|age=|caps=|goals=|club=PUK Tawana|clubnat=RSA|latest= v. {{fb|Sweden}}, 22 January 2011}}
+|-----
+! colspan="9" bgcolor="#B0D3FB" align="left" |
+|----- bgcolor="#DFEDFD"
+{{nat fs r player|no=|pos=MF|name=[[Blessing Ngcobo]]|age=|caps=|goals=|club=Central Brothers FC|clubnat=RSA|latest= v. {{fb|Sweden}}, 22 January 2011}}
+|----- bgcolor="#DFEDFD"
+{{nat fs r player|no=|pos=FW|name=[[Mark Govender]]|age=|caps=|goals=|club=Golden Arrows FC|clubnat=RSA|latest= v. {{fb|Sweden}}, 22 January 2011}}
+|}
+
+==Tournament records==
+===African Nations Championship record===
+{| class="wikitable" style="text-align: center;"   
+|-
+!Hosts/Year
+!Result
+!GP
+!W
+!D*
+!L
+!GS
+!GA
+|- 
+|{{flagicon|Côte d'Ivoire}} [[2009 African Nations Championship|2009]]||''Did not qualify''||–||–||–||–||–||–
+|-   
+|{{flagicon|Sudan}} [[2011 African Nations Championship|2011]]||Quarter-finals||4||3||0||1||6||4  
+|-
+|'''Total'''||1/2 ||4||3||0||1||6||4
+|}
+
+===COSAFA Cup record===
+{| class="wikitable" style="text-align: center;"   
+|-
+!Hosts/Year
+!Result
+!GP
+!W
+!D*
+!L
+!GS
+!GA
+|-bgcolor=gold
+|{{flagicon|South Africa}} [[2008 COSAFA Cup|2008]]||'''Champions'''||3||3||0||0||4||1
+|-   
+|{{flagicon|Zimbabwe}} [[2009 COSAFA Cup|2009]]||Fourth Place||3||1||1||1||3||2 
+|-
+|'''Total'''||2/2 ||6||4||1||1||7||3
+|}
+*Before the 2008 tournament, SAFA sent the [[South Africa national football team|senior team]].
+
+==Honours==
+*'''[[COSAFA Senior Challenge Cup|COSAFA Cup]]: 1'''
+:: [[2008 COSAFA Cup|2008]]{{ref|1|1}}
+
+{{refbegin}}
+*{{note|1|1}}Prior to 2008, SAFA sent the [[South Africa national football team|senior national team]] to the COSAFA Cup.
+{{refend}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.safa.net/ South Africa FA official website]
+
+{{Football in South Africa}}
+{{CAF teams}}
+
+{{DEFAULTSORT:South Africa National Development Football Team}}
+[[Category:South Africa national football team]]

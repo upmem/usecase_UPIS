@@ -1,0 +1,109 @@
+'''Present bias''' is the tendency to rather settle for a smaller present reward than to wait for a larger future reward, in a trade-off situation.<ref>{{cite web |url= https://www.isid.ac.in/~epu/acegd2016/papers/AnujitChakraborty.pdf |title=Present Bias|last=Chakraborty|first=Anujit | name-list-style = vanc }}</ref><ref name=":2" /> It describes the trend of overvaluing immediate rewards, while putting less worth in long-term consequences.<ref name=":4">{{Cite web|url=https://www.ezonomics.com/whatis/present_bias/|title=What is present bias?|last=Egan|first=Mark | name-list-style = vanc | work = ING eZonomics }}</ref> The present bias can be used as a measure for [[self-control]], which is a trait related to the prediction of secure life outcomes.<ref name=":5" />
+
+In the field of [[behavioral economics]], present bias is related to [[hyperbolic discounting]], which differ in time consistency.<ref name=":4" />
+
+== History ==
+Even though the term of present [[bias]] was not introduced until the 1950s, the core idea of immediate [[gratification]] was already addressed in [[Ancient Greece]].<ref name=":0">{{cite journal |last=O'Donoghue |first=Ted |last2=Rabin |first2=Matthew | name-list-style = vanc |date=2015 |title=Present Bias: Lessons Learned and To Be Learned |journal=American Economic Review |volume=105 |issue=5 |pages=273–279 |doi=10.1257/aer.p20151085 }}</ref> A historical record of a display of concern regarding [[procrastination]] is known from the Greek poet [[Hesiod]], who wrote:
+
+"Do not put your work off till to-morrow and the day after; for a sluggish worker does not fill his barn, nor one who puts off his work: industry makes work go well, but a man who puts off work is always at hand-grips with ruin."<ref>{{Cite web|url=http://mentalfloss.com/article/63887/procrastination-through-ages-brief-history-wasting-time|title=Procrastination Through the Ages: A Brief History of Wasting Time|date=2015-05-11|website=mentalfloss.com | access-date=2019-05-14}}</ref>
+
+=== Present bias and economics ===
+The term of present bias was coined in the second half of the 20th century. In the 1930s economic research started investigating time preferences. The findings led to the model of [[exponential discounting]], thus time consistent discounting. However, later research led to the conclusion that time preferences were indeed not consistent, but inconsistent. In other words, people were found to prefer immediate advantages to future advantages in that their discount over a short period of time falls rapidly, while falling less the more the rewards are in the future. Therefore, people are biased towards the present. As a result, Phelps and Pollak introduced the quasi-hyperbolic model in 1968.<ref>{{Cite journal|last=Balakrishnan|first=Uttara|last2=Haushofer|first2=Johannes|last3=Jakiela|first3=Pamela| name-list-style = vanc |date=2017|title=How Soon Is Now? Evidence of Present Bias from Convex Time Budget Experiments|location=Cambridge, MA|doi=10.3386/w23558|doi-access=free}}</ref> In [[economics]], present bias is therefore a model of discounting.<ref name=":0" />
+
+Only when the preference for the present is time inconsistent do we call it biased.<ref name=":6" /> In recent years, the concept of present bias has also found its way into research concerning law and criminal justice.<ref name=":6">{{Cite journal|last=McAdams|first=Richard H. | name-list-style = vanc |date=2011|title=Present Bias and Criminal Law|journal=University of Illinois Law Review }}</ref>
+
+== Brain areas ==
+Decisions concerning the choice between an immediate or a future reward are mediated by two separate systems, one dealing with [[Impulsivity|impulsive]] decisions and the other with self-control.<ref name=":10">{{cite journal | vauthors = Albrecht K, Volz KG, Sutter M, von Cramon DY | title = What do I want and when do I want it: brain correlates of decisions made for self and other | journal = PLOS ONE | volume = 8 | issue = 8 | pages = e73531 | date = 2013 | pmid = 23991196 | pmc = 3749998 | doi = 10.1371/journal.pone.0073531 | editor-first = Alessio | editor-last = Avenanti | bibcode = 2013PLoSO...873531A }}</ref>
+
+Brain areas that are associated with emotion- and reward-processing, are much rather activated by the availability of immediate rewards than by future rewards, even if the future rewards are larger. Hence individuals tend to make decisions in favor of immediate outcomes rather than future outcomes.<ref name=":10" />
+
+The brain areas involved in present-biased decisions can be dissociated into three main groups.<ref name=":10" /> The [[medial prefrontal cortex]] and the [[Orbitofrontal cortex|medial orbitofrontal cortex]] respond to both the presence and the gain of an immediate reward, whereas the [[Striatum|ventral striatum]] is sensitive to the availability and gain of a reward. The [[Anterior cingulate cortex|pregenual anterior cingulate cortex]] on the other hand is only responsive to the presence of an immediate reward.<ref name=":10" /> All these areas are associated with activity in response to an immediate reward.<ref name=":10" />
+
+McClure's [[Dual systems model|dual-system model]] claims that these brain areas are impulsively triggered by immediate benefits and not so much by future rewards. Future rewards do not activate emotion- and reward-processing areas as much, because people tend to downgrade future benefits in respect of available immediate benefits.<ref name=":10" />
+
+The medial prefrontal cortex, pregenual anterior cingulate cortex and ventral striatum show different activity patterns, depending on whether the choices lead to an immediate reward or a future reward for oneself.<ref name=":10" /> This is not the case if these decisions affect another individual, which implies that more [[patience]] and less self-focus is involved in self-irrelevant decision-making. People who consider their present and future self as more alike also exhibit more patience when choosing a reward.<ref name=":10" />
+
+Activity in the ventral striatum, medial prefrontal cortex, orbitofrontal cortex, pregenual anterior cingulate cortex and posterior cingulate cortex is associated with an immediate reward merely being available for oneself. All these areas, which are also part of the [[Limbic system|rostral limbic system]], build a network connected to the expectation and the gain of immediate gratification.<ref name=":10" />
+
+The dorsal anterior cingulate cortex, posterior cingulate cortex and precuneus get activated more if the rewards is immediate and less when the reward is available in the future, regardless of whether it effects the individual itself or another person.<ref name=":10" />
+
+=== Ventral striatum ===
+The ventral striatum gets activated both when an individual personally decides for an immediate reward, as well as when an individual watches someone else making that decision for them. It is responsive to both the likelihood of getting an anticipated reward as well as its size. It also plays a role in evaluating after a choice has been made.<ref name=":10" />
+
+=== Medial prefrontal cortex ===
+The medial prefrontal cortex is responsible for self-related [[attention]] and [[judgement]], for example comparing the self to someone else. These evaluations take place even if the individual has not made the choice themselves. The ventral part of the medial prefrontal cortex, just like the ventral striatum, evaluates the outcome also after the decision was made.<ref name=":10" />
+
+=== Pregenual anterior cingulate cortex ===
+The pregenual anterior cingulate cortex is a structure located close to the [[corpus callosum]], which plays a role in positive emotions and responds to success reward when [[gambling]].<ref name=":10" />
+
+=== Ventral posterior cingulate cortex ===
+This brain area is playing a role in reflection on the self and emotions.<ref name=":10" />
+
+== Delayed gratification ==
+[[Delayed gratification]] is the ability to not give in to immediate rewards and instead strive for the more beneficial future rewards.<ref name=":7">{{cite journal | vauthors = Drobetz R, Hänggi J, Maercker A, Kaufmann K, Jäncke L, Forstmeier S | title = Structural brain correlates of delay of gratification in the elderly | journal = Behavioral Neuroscience | volume = 128 | issue = 2 | pages = 134–45 | date = April 2014 | pmid = 24773434 | doi = 10.1037/a0036208 }}</ref>
+
+=== Stanford Marshmallow Experiment ===
+The first [[Stanford marshmallow experiment|Marshmallow Experiment]] was conducted at [[Stanford University]] by [[Walter Mischel]] and Ebbe B. Ebbesen in 1970.<ref>{{cite journal | vauthors = Mischel W, Ebbesen EB | title = Attention in delay of gratification. | journal = Journal of Personality and Social Psychology | date = October 1970 | volume = 16 | issue = 2 | page = 329 | doi = 10.1037/h0029815 | url = https://semanticscholar.org/paper/29346b98f0947a822b8744f4792bcf1a297f01d3 }}</ref> It led to a series of Marshmallow Experiments, which all tested children's ability to delay gratification. The children were offered an immediate reward and were told that if they manage to not eat the reward right away, but instead waited for a certain period of time (approximately 15 minutes), they would get another treat. Age correlated positively with the capability of [[delayed gratification]]. There has also been a correlation found between ability to delay gratification as a child and the child's success in follow-up studies several years later.<ref>{{Cite web|url=https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment|title=Stanford Marshmallow Experiment }}</ref>{{Circular reference|date=November 2020}}
+
+=== Political elections ===
+Present bias is also reflected in the choice of whether an individual participates in [[Politics|political]] [[election]]s. Political elections are usually characterized by an immediate effort, for example making a political decision and casting the vote on election day, whereas the benefits of voting, such as favored political changes, often only occur later in the future.<ref name=":8">{{Cite journal|last=Fowler|first=James H.|last2=Kam|first2=Cindy D.| name-list-style = vanc |date=2006|title=Patience as a Political Virtue: Delayed Gratification and Turnout|journal=Political Behavior | volume=28|issue=2|pages=113–128|doi=10.1007/s11109-006-9004-7|issn=0190-9320}}</ref> Patience is therefore a relevant factor that influences peoples’ decision whether to take part in elections.<ref name=":8" /> Individuals who exhibit more patience with future political changes, also show a greater willingness to take part in political elections. Whereas others, who focus more on the efforts to be paid, are less likely to take part in elections.<ref name=":8" />
+
+=== Brain areas ===
+The ability to perform delayed gratification increases as the [[lateral prefrontal cortex]] and the medial prefrontal cortex mature. Particularly the left [[dorsolateral prefrontal cortex]] shows increased activity during delayed gratification.<ref name=":7" /> The thickness of these cortical areas as well as the volume of the left [[caudate nucleus]] is also linked to a better ability in delayed gratification and suppressing impulsivity. The [[Frontal lobe|frontal cortex]] involvement in self-regulation and self-control also play an important role.<ref name=":7" />
+
+== Procrastination ==
+Present-biased preferences often result in procrastination.<ref name=":9" />
+
+Procrastination mostly occurs when actions are followed by immediate costs. However, when actions are instead followed by immediate rewards, people tend to perform their tasks faster in order to get the reward.<ref name=":9">{{Cite journal|last=O'Donoghue|first=Ted|last2=Rabin|first2=Matthew| name-list-style = vanc |date=1999|title=Doing It Now or Later|journal=The American Economic Review|volume=89|issue=1|pages=103–124 |jstor=116981|doi=10.1257/aer.89.1.103}}</ref>
+
+The findings of a study in which students had to set deadlines for completing certain tasks for themselves, suggested that an interaction of present-bias as well as personal characteristics, e.g. overconfidence, may appear to be "procrastination".<ref name=":3">{{cite web | first1 = Alberto | last1 = Bisin | first2 = Kyle | last2 = Hyndman | name-list-style = vanc |url=https://www.econ.nyu.edu/user/bisina/BH-Main-Text-2018-Apr.pdf|title=Present-Bias, Procrastination and Deadlines in a Field Experiment }}</ref> However, internal [[self-control]] and sophistication regarding the tasks may reduce present bias, whereas it has the opposite effect for naïve people.<ref name=":3" /><ref name=":9" />
+
+=== Brain areas ===
+
+Another study further investigates the common hypothesis that self-regulatory failure results in procrastination.
+Furthermore, there appears to be a decrease in functional correspondence between the following brain areas: Between [[Ventromedial prefrontal cortex|VMPC]] and [[DLPFC]], [[dACC]] and [[Caudate nucleus|caudate]] and in the right [[VLPFC]].<ref name = "Wu_2016">{{cite journal | vauthors = Wu Y, Li L, Yuan B, Tian X | title = Individual differences in resting-state functional connectivity predict procrastination. | journal = Personality and Individual Differences | date = June 2016 | volume = 95 | pages = 62–7 | doi = 10.1016/j.paid.2016.02.016 }}</ref> Despite there not yet being neural evidence for this theory they assumed that self-regulatory failure is indeed associated to procrastination.<ref name = "Wu_2016" />
+
+== Health ==
+Present bias has an impact on people's individual health care [[decision-making]]. It affects a range of health-related behaviors, for example precaution with potential illnesses, such as [[breast cancer]], living an unhealthy life style, like [[smoking]], drinking [[alcohol (drug)|alcohol]] and [[drug]] use and showing risky behavior, such as [[drunk driving]].<ref name=":2" />
+
+Present bias often occurs when the negative consequences of a certain behavior are believed to be in distant future. It is characterized by short-term impatience.<ref name=":2" /> This impatience with the future benefits to occur minimizes the [[motivation]] for people to take unpleasant actions for their health, like maintaining a diet, refraining from a [[cigarette]] or regularly visiting a professional for check-ups.<ref name=":2" />
+
+Present biased decision-making often underlies the notion that a certain health care behavior induces costs first, while benefits occur only quite some time later.<ref name=":2" /> People are often more focused on the short-term benefits than on long-term consequences. For example, drunk-drivers exhibit less long-term concern than non-drunk drivers.<ref name=":2" />
+
+The lacking adherence to health care can also be explained by the naïve thinking about one's own present bias.<ref name=":2" /> People overestimate that they will take care of their behaviour's consequences in the future, which is often not the case. They tend to underestimate their own self-control and the effects of their present behavior on their future well-being and therefore postpone taking action before it is urgent.<ref name=":2" /> Many people procrastinate because they underestimate how their future selves are being affected by the present bias.<ref name=":2" />
+
+Present bias can explain failure to adhere effective health care guidelines, such as [[mammography]]. People tend to forget that precaution with their own health can maximize their lifetime and minimize their life time medical spending.<ref name=":2" /> A lot of people who are already diagnosed with an illness underestimate the importance of following health care guidelines, even though they are beneficial for their own health. Mostly, increasing age and nearing death eventually leads individuals to focus more on their own health.<ref name=":2" />
+
+Overcoming the present bias could lead to earlier detection of illnesses, such as breast cancer, to start treatment in time. These individual decisions not to take care early negatively affects the health care systems, whose costs could be minimized by a more precaution of their clients.<ref name=":2">{{cite journal | vauthors = Wang Y, Sloan FA |title=Present bias and health|journal = Journal of Risk and Uncertainty|volume = 57|issue = 2|pages = 177–198 |date= October 2018|doi = 10.1007/s11166-018-9289-z|pmid=31244508|pmc = 6594564}}</ref>
+
+=== Visceral states ===
+The educator and economist [[George Loewenstein]] described how strongly [[Organ (anatomy)|visceral]] states (e.g. hunger, thirst, strong emotions, sexual desire, mood or physical pain) can influence decision-making in ways that are not in one's long-term interest. According to Loewenstein, visceral factors have a direct [[Hedonism|hedonic]] impact and they influence how much one desires different rewards and actions.<ref name = "Loewenstein_1996">{{Cite journal|last=Loewenstein|first=George | name-list-style = vanc |date=March 1996|title=Out of Control: Visceral Influences on Behavior|url=https://semanticscholar.org/paper/d0046cc34a35784e572e8b6c069d9537e195a022|journal=Organizational Behavior and Human Decision Processes|volume=65 |issue=3 |pages=272–292 | doi = 10.1006/obhd.1996.0028 }}</ref> When visceral factors influence one highly, it can lead to self-destructive behavior such as [[overeating]]. Visceral factors lead one to focus on the present more than on some time in the future when making decisions that are associated with the visceral factor. In Loewenstein's opinion, visceral states have the most enormous impact on the following behaviors: [[Addiction|drug addiction]], sexual behavior, motivation and effort, and self-control.<ref name = "Loewenstein_1996" />
+
+Those factors are known as "hot states", because temporary emotions can have an influential effect on our behavior. Therefore, there are "cooling off" periods for many important purchases. Other factors such as age, gender, cultural background, education and self-control also play a role in making discounting decisions – but those can be dealt with more easily than with visceral states.<ref name=":4" />
+
+== Wealth distribution ==
+Economical models use present bias, also referred to as [[dynamic inconsistency]], to explain distribution of wealth. If everybody would be present-biased [[Distribution of wealth|wealth distribution]] would be unaffected. As this is only possible in an ideal economy, wealth inequality spurts from time-consistent individuals benefiting from the irrational monetary decisions present-biased economic rivals make.<ref name=":1">{{Cite web|url=https://www.tristannighswander.com/new-page|title=Research|website=Tristan J. Nighswander|language=en-US|access-date=2019-05-14}}</ref> Indeed, present bias in economics is often linked to lack of self-control when making monetary decisions. It is associated with high desires to spend money and failure to commit to a saving plan.<ref name=":5">{{Cite journal|last=Delaney|first=Liam|last2=Lades|first2=Leonhard K. | name-list-style = vanc |date=2017|title=Present Bias and Everyday Self-Control Failures: A Day Reconstruction Study: Present Bias and Everyday Self-Control Failures|journal=Journal of Behavioral Decision Making | volume=30|issue=5|pages=1157–1167|doi=10.1002/bdm.2031}}</ref>
+
+A present-biased society is represented by individuals reaching an earlier peak in their mean wealth and trend to lose accumulated wealth as they reach [[retirement]]. Loss of wealth can be attributed to tendency to bend under the temptation to over-consume and under-save. Such irrational behavioral biases lead to lower average wealth and shortened planning horizons.<ref name=":1" /> Present-biased people fail to complete a consumption saving plan are more likely consistently re-optimize factors influencing their wealth accumulation. An association between deciding to obtain less education, lower lifetime earnings, and lower retirement consumption was observed in present-biased individuals.<ref name=":1" />
+
+== Tourism ==
+Present bias plays a role in tourism concerning travel costs and [[impulsivity]] of tourist's decision-making. Impulsivity is reasoned to be triggered by the escape of daily routines and a feeling of the moment. Hence present bias would specially apply while traveling. Although reference prices frame expenses, present bias which is influenced by the [[prospect theory]], that grades the value of gains, and the attachment effect, tourists tend to overspend. Individual differences such as risk aversiveness play into overspending caused by the effect of present bias. [[Group decision-making|Group decisions]] and a prior commitment to not overspend can reduce the bias and inhibit impulsivity.<ref>{{cite journal | vauthors = Nguyen Q | title = Linking loss aversion and present bias with overspending behavior of tourists: Insights from a lab-in-the-field experiment. | journal = Tourism Management | date = June 2016 | volume = 54 | issue = 152–9 | pages = 152–159 | doi = 10.1016/j.tourman.2015.09.019 | doi-access = free }}</ref>
+
+== See also ==
+
+* [[Cognitive bias]]
+* [[List of cognitive biases]]
+* [[Behavioral economics]] 
+* [[Hyperbolic discounting]]
+* [[Procrastination]]
+*[[Delayed gratification]]
+*[[Stanford marshmallow experiment]]
+
+== References ==
+<references />
+
+{{Biases}}
+
+[[Category:Behavioral economics]]
+[[Category:Neuroscience]]
+[[Category:Psychology experiments]]

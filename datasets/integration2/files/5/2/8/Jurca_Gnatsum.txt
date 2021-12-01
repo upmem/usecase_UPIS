@@ -1,0 +1,197 @@
+{{Short description|Series of homebuilt replica fighter aircraft}}
+__NOTOC__
+<!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. -->
+{|{{Infobox Aircraft Begin
+ | name=Jurca MJ-7 Gnatsum
+ | image=Jurca MJ.77 Gnatsum ‘N751JR’ “Magnificent Obsession II” (30457460231).jpg
+ | caption=
+}}{{Infobox Aircraft Type
+ | type= [[Homebuilt aircraft|Homebuilt]] near scale replica [[warbird]]
+ | national origin=[[France]]
+ | manufacturer=
+ | designer=[[Marcel Jurca]]
+ | first flight=[[1969 in aviation|1969]]
+ | introduced=
+ | retired=
+ | status=
+ | primary user=
+ | more users= <!--Limited to three in total; separate using <br /> -->
+ | produced= <!--years in production-->
+ | number built=25+
+ | program cost= <!--Total program cost-->
+ | unit cost= <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
+ | developed from= 
+ | variants with their own articles= [[Falconar SAL Mustang]]
+}}
+|}
+
+The '''Jurca Gnatsum''' is a [[France|French]] [[Homebuilt aircraft|homebuilt]] near scale replica aircraft based on the [[North American P-51 Mustang]].<ref>{{cite journal|magazine=Popular Science|date=June 1970|title=All these planes you can build from plans|page=99}}</ref>
+
+==Design & Development==
+The Gnatsum (Mustang spelled backwards) is one of many wooden homebuilt designs from Romanian designer [[Marcel Jurca]]. Jurca, a [[Henschel Hs 129]] pilot in World War II, expanded his warbird replica designs to include the Allied [[North American P-51 Mustang]] fighter.<ref>{{Cite journal|magazine=Plane & Pilot|title=Marcel's Mini Fighters|author=Nick Stasinos|date=February 1972}}</ref>
+
+The Gnatsum is a low-wing, cantilever monoplane with an enclosed single-seat cockpit and manually retractable tailwheel landing gear based on that of the [[Jurca Sirocco]].<ref>{{cite journal|magazine=Sport Aviation|date=Aug 1965|pp=35}}</ref> Suitable for a number of engines around {{convert|200|hp|kW|0|abbr=on}}, plans for the Gnatsum are available as the 2/3 scale MJ-7 and the 3/4 scale MJ-77, as well as the MJ-70 full-size representation. All versions are constructed from wood with fabric covering, and manufacturing rights to the kit aircraft were acquired by [[Falconar Avia]].<ref>{{Cite journal|magazine=Air Trails|date=Summer 1971|page=59}}</ref> Plans for the MJ-77 are available from Avions Marcel Jurca.<ref name="AMJ">{{cite web |title=Ordering Jurca Plans |url=http://www.marcel-jurca.com/index.php/en-us/drawings |website=Avions Marcel Jurca |accessdate=22 October 2019}}</ref>
+
+Some of the engines suitable for the MJ-7 Gnatsum series are:-
+*{{convert|200|hp|kW|0|abbr=on}} [[Ranger 6-440]]C-5 inline engine
+*{{convert|125|hp|kW|0|abbr=on}} [[Menasco C4]]
+*{{convert|130|hp|kW|0|abbr=on}} [[de Havilland Gipsy Major]] I
+*{{convert|125|to|160|hp|kW|0|abbr=on}} [[AMC 6 engine#195.6|Rambler aluminum block in-line 6]]
+*[[Buick V8 engine#215|General Motors aluminum V-8]]
+<!-- ==Operational history== -->
+
+==Variants==
+;MJ-7
+:2/3 scale variant
+;MJ-7S Solo
+:Single-seat advanced trainer version of MJ-7, the under-belly scoop inherited from the Mustang design was removed.
+;MJ-77
+:3/4 scale Mustang variant that requires an engine of {{convert|250|to|600|hp|kW|0|abbr=on}}.<ref name="WDLA11">Bayerl, Robby; Martin Berkemeier; et al: ''World Directory of Leisure Aviation 2011-12'', page 94. WDLA UK, Lancaster UK, 2011. ISSN 1368-485X</ref><ref name="WDLA15">Tacke, Willi; Marino Boric; et al: ''World Directory of Light Aviation 2015-16'', page 100. Flying Pages Europe SARL, 2015. {{ISSN|1368-485X}}</ref>
+;MJ-70
+:Full-scale variant (still under development in 2001 when Jurca died - never completed)
+<!-- ==Units using this aircraft/Operators (choose)== -->
+
+==Specifications (Jurca MJ-77 Gnatsum) ==
+{{Aircraft specs
+|ref=<ref>{{cite web|url=http://www.pilotfriend.com/experimental/acft3/91.htm |title=Jurca M.J-77 Mustang (75%) |publisher=Pilotfriend.com |date= |accessdate=2012-09-26}}</ref><!-- for giving the reference for the data -->
+|prime units?=met<!-- imp or kts first for US aircraft, and UK aircraft pre-metrification, met(ric) first for all others. You MUST choose a format, or no specifications will show -->
+<!--
+        General characteristics
+-->
+|genhide=
+|crew=1 Pilot
+|capacity=1 (small) passenger
+|length m=
+|length ft=21
+|length in=5
+|length note=
+|span m=
+|span ft=27
+|span in=8
+|span note=
+|height m=
+|height ft=
+|height in=
+|height note=
+|wing area sqm=
+|wing area sqft=145
+|wing area note=
+|aspect ratio=<!-- give where relevant eg sailplanes  -->
+|airfoil=
+|empty weight kg=
+|empty weight lb=2200
+|empty weight note=
+|gross weight kg=
+|gross weight lb=2860
+|gross weight note=
+|fuel capacity={{convert|50|u.s.gal}}
+|more general=
+<!--
+        Powerplant
+-->
+|eng1 number=1
+|eng1 name=Geschwender
+|eng1 type=
+|eng1 kw=<!-- prop engines -->
+|eng1 hp=350<!-- prop engines -->
+|eng1 kn=<!-- jet/rocket engines -->
+|eng1 lbf=<!-- jet/rocket engines -->
+|eng1 note=
+|power original=
+|thrust original=
+|eng1 kn-ab=<!-- afterburners -->
+|eng1 lbf-ab=<!-- afterburners -->
+|eng2 number=
+
+|prop blade number=4<!-- propeller aircraft -->
+|prop name=
+|prop dia m=<!-- propeller aircraft -->
+|prop dia ft=<!-- propeller aircraft -->
+|prop dia in=<!-- propeller aircraft -->
+|prop note=
+
+<!--
+        Performance
+-->
+|perfhide=
+|max speed kmh=
+|max speed mph=289
+|max speed kts=
+|max speed note=
+|cruise speed kmh=
+|cruise speed mph=230
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=<!-- aerobatic -->
+|stall speed mph=65<!-- aerobatic -->
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|range km=
+|range miles=500
+|range nmi=
+|range note=
+|endurance=<!-- if range unknown -->
+|ceiling m=
+|ceiling ft=
+|ceiling note=
+|g limits=<!-- aerobatic -->
+|roll rate=<!-- aerobatic -->
+|glide ratio=<!-- sailplanes -->
+|climb rate ms=
+|climb rate ftmin=1500
+|climb rate note=
+|time to altitude=
+|lift to drag=
+|wing loading kg/m2
+|wing loading lb/sqft=
+|wing loading note=
+|power/mass=
+|thrust/weight=
+|more performance= 
+|avionics=
+}}
+
+==See also==
+{{aircontent
+<!-- include as many lines are appropriate. additional lines/entries with carriage return. -->
+|see also=
+*[[P-51 Mustang|North American Mustang]]
+|related=<!-- related developments -->
+|similar aircraft=
+*[[Bonsall DB-1 Mustang]]
+*[[FK-Lightplanes SW51 Mustang]]
+*[[Linn Mini Mustang]]
+*[[Papa 51 Thunder Mustang]]
+*[[Stewart S-51D Mustang]]
+*[[Titan T-51 Mustang]]
+*[[W.A.R. P-51 Mustang]]
+<!-- similar or comparable aircraft -->
+|lists=<!-- related lists -->
+}}
+
+==References==
+{{reflist}}
+* {{cite book |last= Taylor |first= Michael J. H. |title=Jane's Encyclopedia of Aviation |year=1989 |publisher=Studio Editions |location=London |page=547 }}
+* [http://www.janes.com/extracts/extract/jawa/jawa0272.html Janes.com]
+* [https://web.archive.org/web/20090203222821/http://www.marcel-jurca.com/index.php?option=com_content&task=view&id=42&Itemid=51 Marcel Jurca old website]
+* [http://www.aircraftworlddirectory.com/civil/j/jurcamj7gnatsum.htm www.aircraftworlddirectory.com]
+
+
+==External links==
+* {{Official website|http://www.marcel-jurca.com}}
+* [http://www.planeandpilotmag.com/aircraft/international-aircraft-directory/homebuiltkitbuilt-aircraft/jurca-mj-7-baby-mustang.html Plane and Pilot article]
+* [http://www.falconaravia.com/ Falconar Avia Website]
+
+{{Jurca aircraft}}
+
+[[Category:1960s French sport aircraft]]
+[[Category:Homebuilt aircraft]]
+[[Category:Jurca aircraft|Gnatsum]]
+[[Category:Single-engined tractor aircraft]]
+[[Category:Low-wing aircraft]]
+[[Category:North American P-51 Mustang replicas]]
+[[Category:Aircraft first flown in 1969]]

@@ -1,0 +1,72 @@
+{{Infobox officeholder
+| name         = 
+| image        = 
+| office       =  [[List of Ministers of Foreign Affairs of the Netherlands|Minister of Foreign Affairs]]
+| term_start   = 1868
+| term_end     = 1870
+| monarch      = 
+| predecessor  = [[Joannes Josephus van Mulken|Joannes van Mulken]]
+| successor    = Joannes van Mulken
+| office1      = [[Dutch Ambassador to the United States|Envoy to the United States]]
+| term_start1  = 1856 
+| term_end1    = 1868
+| predecessor1 =
+| successor1   =
+| office2      = [[Chargé d’affaires]] to [[Portugal]]
+| term_start2  = 1851 
+| term_end2    = 1856
+| predecessor2 =
+| successor2   =
+| birthname    = 
+| birth_date   = {{Birth date|1806|07|08|df=y}}
+| birth_place  = [[Rotterdam]], [[Netherlands]]
+| death_date   = {{Death date and age|1887|03|03|1806|07|08|df=y}}
+| death_place  = [[Florence]], [[Italy]]
+| party        = 
+| spouse       = {{marriage|Isabella Cass<br>|23 August 1858|1879|reason=her death}}
+| alma_mater   = 
+| occupation   = Editor of ''[[Arnhem]]sche Courant''
+| children     = 
+}}
+Baron '''Theodorus Marinus Roest van Limburg''' or '''de Limbourg''' (8 July 1806, [[Rotterdam]] &ndash; 3 March 1887, [[Florence]]) was a [[Netherlands|Dutch]] journalist, diplomat, and politician.<ref name="Historical1907">{{cite book|title=Historical Collections|date=1907|publisher=The Society|page=89|url=https://books.google.com/books?id=iJoUAAAAYAAJ&pg=PA89|accessdate=5 February 2018|language=en}}</ref>
+
+==Early life==
+He studied law in [[Liège]], [[Ghent]] and [[Leiden]] (1827-1831).
+
+==Career==
+He worked at the Departments of Colonies and Foreign Affairs. From 1837 till 1841 he served as editor of the liberal newspaper ''[[Arnhem]]sche Courant''. His diplomatic career started in 1842, when he was named secretary of the Dutch [[Legation]] in [[Vienna]]. From 1851-1856 he served as [[Chargé d’affaires]] in [[Lisbon]] and he became [[Envoy (title)|Envoy]] in [[Washington, D.C.|Washington]],<ref name="American1861">{{cite book|title=The American Almanac and Repository of Useful Knowledge, for ...|date=1861|publisher=Gray and Bowen|page=149|url=https://books.google.com/books?id=5io4AQAAMAAJ&pg=PA149|accessdate=5 February 2018|language=en}}</ref> serving from 1856 until 1868.<ref name="USGovernment1862">{{cite book|title=Message of the President of the United States to the Two Houses of Congress at the Commencement of the Third Session of the Thirty-Seventh Congress|date=1862|publisher=U.S. Government Printing Office|page=[https://archive.org/details/messagepresiden01statgoog/page/n712 649]|url=https://archive.org/details/messagepresiden01statgoog|accessdate=5 February 2018|language=en}}</ref><ref name="Representatives1863">{{cite book|last1=Representatives|first1=United States House of|title=House Documents|date=1863|publisher=U.S. Government Printing Office|page=649|url=https://books.google.com/books?id=yPBUAAAAcAAJ&pg=PA649|accessdate=5 February 2018|language=en}}</ref>
+
+Roest van Limburg became [[List of Ministers of Foreign Affairs of the Netherlands|Minister of Foreign Affairs]] in 1868. His tenure as Foreign Minister was marked by the [[Franco-German War]] from 1870 to 1871 in the [[Liberalism in the Netherlands|liberal]] cabinet of [[Prime Minister of the Netherlands|Prime Minister]] [[Pieter Philip van Bosse]].<ref name="Johnson1997">{{cite book|last1=Johnson|first1=Andrew|title=The Papers of Andrew Johnson: April-August 1868|date=1997|publisher=[[Univ. of Tennessee Press]]|isbn=9780870499913|page=191|url=https://books.google.com/books?id=eM3LLmDsQI0C&pg=PA191|accessdate=5 February 2018|language=en}}</ref>  There was little confidence in him in the [[House of Representatives (Netherlands)|House of Representatives]] which led to his resignation, which was honorably granted.  After his resignation he lived abroad.
+
+==Personal life==
+On 23 August 1858, Roest van Limburg was married to the American Isabella "Belle" Cass (1805-1879) in [[Stonington, Michigan|Stonington]].  Elisabeth was the daughter of Elizabeth ([[née]] Spencer) Cass and [[Lewis Cass]], who served as governor of the [[Michigan Territory]], [[U.S. Secretary of War]], [[U.S. Secretary of State]], [[U.S. Ambassador to France]], and a [[United States Senate|U.S. Senator]].<ref name="Frémont1993">{{cite book|last1=Frémont|first1=Jessie Benton|title=The Letters of Jessie Benton Frémont|date=1993|publisher=[[University of Illinois Press]]|isbn=9780252019425|page=145|url=https://books.google.com/books?id=sYFVlFO5D0EC&pg=PA145|accessdate=5 February 2018|language=en}}</ref>
+
+He died on 3 March 1887 in [[Florence]].
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Librivox author |id=10706}}
+
+{{dutchFMs}}
+{{Authority control}}
+
+{{DEFAULTSORT:Roest van Limburg, Theodorus Marinus}}
+[[Category:1806 births]]
+[[Category:1887 deaths]]
+[[Category:Dutch diplomats]]
+[[Category:Dutch journalists]]
+[[Category:Ministers of Foreign Affairs of the Netherlands]]
+[[Category:Independent politicians in the Netherlands]]
+[[Category:People from Rotterdam]]
+[[Category:University of Liège alumni]]
+[[Category:Ghent University alumni]]
+[[Category:Leiden University alumni]]
+[[Category:19th-century diplomats]]
+[[Category:19th-century journalists]]
+[[Category:Male journalists]]
+[[Category:19th-century male writers]]
+
+
+{{Netherlands-politician-stub}}

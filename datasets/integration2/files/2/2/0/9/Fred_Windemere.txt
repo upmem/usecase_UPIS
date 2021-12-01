@@ -1,0 +1,48 @@
+{{short description|American actor and director}}
+{{Infobox person
+| image        = 
+| image_size   = 
+| caption      =
+| name         = Fred Windemere
+| birth_name   = Fritz Wintermeier
+| birth_date   = April 15, 1892 
+| birth_place  = [[Muscatine, Iowa]], U.S.
+| death_date   = March 18, 1970 (aged 77)
+| death_place  = [[Newport Beach]], [[California]], U.S.
+| othername    = 
+| occupation   = Actor, director
+| yearsactive  = 1912&ndash;1928 
+| spouse = [[Belle Bennett]] (m.1924&ndash;1932, her death)
+}}
+'''Fred Windemere''' (born '''Fritz Wintermeier''',<ref>https://travsd.wordpress.com/2018/04/15/fred-windemere-from-snakeville-to-oblivion/</ref> April 15, 1892 –March 18, 1970) was an American [[film actor|actor]] and [[film director]] of the [[silent era]].<ref>Munden p.741</ref>
+
+==Selected filmography==
+* ''[[Three in Exile]]'' (1925)
+* ''With This Ring'' (1925)
+* ''Romance Road'' (1925)
+* ''[[Soiled (film)|Soiled]]'' (1925)
+* ''[[Morganson's Finish]]'' (1926)
+* ''The Taxi Mystery'' (1926)
+* ''[[Broadway After Midnight]]'' (1927)
+* ''[[Devil Dogs (film)|Devil Dogs]]'' (1928)
+* ''[[Broadway Daddies]]'' (1928)
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* Munden, Kenneth White. ''The American Film Institute Catalog of Motion Pictures Produced in the United States, Part 1''. University of California Press, 1997.
+
+==External links==
+*{{IMDb name|0934669}}
+
+{{DEFAULTSORT:Windemere, Fred}}
+[[Category:1892 births]]
+[[Category:1970 deaths]]
+[[Category:American male film actors]]
+[[Category:American film directors]]
+[[Category:People from Iowa]]
+
+
+{{US-film-actor-1890s-stub}}
+{{US-film-director-stub}}

@@ -1,0 +1,13 @@
+{{Do not move to Commons|reason=Commons no longer accepts the [[GNU Free Documentation License]].}}
+== Summary ==
+{{Information
+|Description=
+{{en|1=Interior of the Roman Catholic Cathedral of Cathedral of Saint Jude the Apostle in St. Petersburg, Florida, United States}}
+|Source={{own}}
+|Author=Self-created photograph by [[User:Jonathunder|Jonathunder]]
+|Date=2019-02-24
+}}
+== Licensing ==
+{{GFDL-user|migration=not-eligible|Jonathunder}}
+
+[[Category:Roman Catholic cathedrals in Florida]]

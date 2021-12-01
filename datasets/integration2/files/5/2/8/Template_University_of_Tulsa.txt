@@ -1,0 +1,54 @@
+{{Navbox
+| name = University of Tulsa
+| title = [[University of Tulsa|{{white|University of Tulsa}}]]
+| basestyle = background: #002D72; color: white; {{box-shadow border|a|#D4C581|2px}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| bodyclass = hlist
+
+|above='''Located in''': [[Tulsa, Oklahoma|<span style="color:white">Tulsa, Oklahoma</span>]]
+
+|below = 
+* '''Founded''': 1894
+
+|group1 = Academics
+|list1 = 
+* [[University of Tulsa College of Arts and Sciences|Henry Kendall College of Arts and Sciences]]
+* [[University of Tulsa College of Business Administration|College of Business Administration]]
+* [[University of Tulsa College of Engineering and Natural Sciences|College of Engineering and Natural Sciences]]
+* [[University of Tulsa College of Law|College of Law]]
+* [[University of Tulsa Graduate School|Graduate School]]
+* [[University of Tulsa Division of Continuing Education|Division of Continuing Education]]
+* [[The University School (Tulsa, Oklahoma)|University School]]
+
+|group2 = Campus buildings
+|list2 = 
+* [[Skelly Field at H.A. Chapman Stadium]]
+* [[Reynolds Center]]
+* [[Hurricane Soccer & Track Stadium]]
+* [[Michael D. Case Tennis Center]]
+* [[University of Tulsa Softball Field|Softball Field]]
+
+|group3 = {{colored link|white|Tulsa Golden Hurricane|Athletics}}
+|list3 = 
+* [[Tulsa Golden Hurricane baseball|Baseball]]
+* [[Tulsa Golden Hurricane football|Football]]
+* [[Tulsa Golden Hurricane men's basketball|Men's basketball]]
+* [[Tulsa Golden Hurricane women's basketball|Women's basketball]]
+* [[Tulsa Golden Hurricane men's soccer|Men's soccer]]
+* [[Tulsa Golden Hurricane softball|Softball]]
+
+|group4 = Student life
+|list4 = 
+* [[The Sound of the Golden Hurricane Marching Band|Sound of the Golden Hurricane]]
+* ''[[University of Tulsa Collegian|Collegian]]''
+* ''[[Nimrod International Journal of Prose and Poetry|Nimrod International Journal]]''
+* ''[[James Joyce Quarterly]]''
+* [[Reynolds Rowdies]]
+* [[Captain Cane]]
+* [[Hurricane Fight Song]]
+* [[Tulsa Alma Mater]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Oklahoma universities and colleges navigational boxes]]
+</noinclude>

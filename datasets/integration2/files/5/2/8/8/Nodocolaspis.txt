@@ -1,0 +1,46 @@
+{{Short description|Genus of leaf beetles from Central and South America}}
+{{Automatic taxobox
+| taxon = Nodocolaspis
+| display_parents = 2
+| authority = [[Jan Bechyné|Bechyné]], 1949<ref name="Bechyné1949">{{cite journal|last=Bechyné|first=J.|year=1949|title=Liste provisoire des Eumolpides de la République Argentine et observations diverses sur les Eumolpides de l'Amérique du Sud (Col., Chrysomeloidea)|url=http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1949_Separata_54.pdf|journal=Acta Zoologica Lilloana|volume=8|pages=457–535}}</ref>
+| type_species = ''[[Nodocolaspis costipennis|Colaspis costipennis]]''
+| type_species_authority = [[Édouard Lefèvre|Lefèvre]], 1877
+}}
+
+'''''Nodocolaspis''''' is a [[genus]] of [[leaf beetle]]s in the subfamily [[Eumolpinae]]. They are known from [[Central America]] and [[South America]].<ref name="Bechyné1953">{{cite journal|last=Bechyné|first=J.|year=1953|title=Katalog der neotropischen Eumolpiden (Col. Phytoph. Chrysomeloidea)|url=https://www.biodiversitylibrary.org/page/49645311|journal=Entomologische Arbeiten aus dem Museum G. Frey|volume=4|pages=26–303|language=German}}</ref> The genus was first established by the Czech entomologist [[Jan Bechyné]] in 1949, as a relative of ''Nodonota'' (now known as ''[[Brachypnoea]]'') containing species formerly placed in ''[[Colaspis]]''.<ref name="Bechyné1949"/>
+
+==Species==
+The following species are included in ''Nodocolaspis'':
+* ''[[Nodocolaspis antennalis]]'' <small>[[Jan Bechyné|Bechyné]], 1953</small><ref name="Bechyné1953"/>
+* ''[[Nodocolaspis columbica]]'' <small>([[Martin Jacoby|Jacoby]], 1900)</small><ref name="Jacoby1900">{{cite journal|last=Jacoby|first=M.|year=1900|title=Descriptions of New Species and a New Genus of South American Eumolpidæ, with Remarks on some of the Genera|journal=[[Transactions of the Entomological Society of London]]|volume=48|issue=4|pages=453–510|doi=10.1111/j.1365-2311.1900.tb02719.x}}</ref><ref name="Bechyné1958a">{{cite journal|last=Bechyné|first=J.|year=1958|title=Notes sur les Chrysomeloidea néotropicaux des collections du Musée Zoologique de l'Université et de la ville de Strasbourg (Col. Phytophaga)|url=http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1958_Separata_137.pdf|journal=Bulletin de la Société Entomologique de Mulhouse|volume=mars/avril|pages=1–2}}</ref>
+* ''[[Nodocolaspis costipennis]]'' <small>([[Édouard Lefèvre|Lefèvre]], 1877)</small><ref name="Lefevre1877">{{cite journal|last=Lefèvre|first=E.|year=1877|title=Descriptions de coléoptères nouveaux ou peu connus de la famille des Eumolpides (1re partie)|url=https://www.biodiversitylibrary.org/page/8244443|journal=[[Annales de la Société Entomologique de France]]|series=5|volume=7|pages=115–166}}</ref>
+** ''Nodocolaspis costipennis cayennensis'' <small>([[Jan Bechyné|Bechyné]], 1955)</small><ref name="Bechyné1955">{{cite journal|last=Bechyné|first=J.|year=1955|title=Reise des Herrn G. Frey in Sudamerika: Eumolpidae|url=http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1955_Separata_107.pdf|journal=Entomologischen Arbeiten aus dem Museum G. Frey|volume=6|pages=569–657}}</ref>
+** ''Nodocolaspis costipennis costipennis'' <small>([[Édouard Lefèvre|Lefèvre]], 1877)</small>
+* ''[[Nodocolaspis femoralis]]'' <small>([[Édouard Lefèvre|Lefèvre]], 1878)</small><ref name="Bechyné1953"/>
+* ''[[Nodocolaspis impressa]]'' <small>([[Édouard Lefèvre|Lefèvre]], 1877)</small><ref name="Lefevre1877"/><ref name="Bechyné1958a"/>
+* ''[[Nodocolaspis multicostata]]'' <small>([[Martin Jacoby|Jacoby]], 1900)</small><ref name="Jacoby1900"/>
+* ''[[Nodocolaspis paulistana]]'' <small>[[Jan Bechyné|Bechyné]], 1953</small><ref name="Bechyné1953"/>
+* ''[[Nodocolaspis quadrifoveata]]'' <small>(Bowditch, 1921)</small><ref name="Bowditch1921b">{{cite journal|last=Bowditch|first=F. C.|year=1921|title=South American Eumolpidæ, mostly of the group Colaspini|url=https://biodiversitylibrary.org/page/12119975|journal=[[The Entomologist]]|volume=54|pages=72–76}}</ref><ref name="Bechyné1958b">{{cite journal|first=J.|last=Bechyné|year=1958|title=Notizen zu den neotropischen Chrysomeloidea (Col. Phytophaga)|url=https://www.biodiversitylibrary.org/page/45990136|journal=Entomologische Arbeiten aus dem Museum G. Frey Tutzing bei München|volume=9|pages=478–706}}</ref>
+* ''[[Nodocolaspis rugulosa]]'' <small>[[Jan Bechyné|Bechyné]], 1953</small><ref name="Bechyné1953"/>
+* ''[[Nodocolaspis smaragdina]]'' <small>[[Jan Bechyné|Bechyné]] & Bechyné, 1964</small><ref>{{cite journal|last1=Bechyné|first1=J.|last2=Springlovà de Bechyné|first2=B.|year=1964|title=Notes sur quelques Chrysomeloidea Neotropicaux (Coleoptera Phytophaga)|url=http://chrysomelidae.miza-ucv.org.ve/sites/chrysomelidae.miza-ucv.org.ve/files/1964_Separata_159.pdf|journal=Revista de Facultad de Agronomía (Maracay)|volume=3|pages=69–123}}</ref>
+* ''[[Nodocolaspis tarsata]]'' <small>([[Édouard Lefèvre|Lefèvre]], 1882)</small>
+** ''Nodocolaspis tarsata acallosa'' <small>([[Jan Bechyné|Bechyné]], 1949)</small>
+** ''Nodocolaspis tarsata tarsata'' <small>([[Édouard Lefèvre|Lefèvre]], 1882)</small>
+* ''[[Nodocolaspis tuberculata]]'' <small>[[Jan Bechyné|Bechyné]], 1953</small><ref name="Bechyné1953"/>
+
+The type species, ''[[Nodocolaspis costipennis|N. costipennis]]'', was originally described as "''Colaspis costipennis''" by Lefèvre in 1877, which makes the name a junior homonym of ''[[Colaspis costipennis]]'' [[George Robert Crotch|Crotch]], 1873; however, Jan Bechyné considered it worthless to correct the homonymy after having established a new genus for the Lefèvre species.<ref name="Bechyné1951">{{cite journal|first=J.|last=Bechyné|year=1951|title=Liste provisoire des Eumolpides de Bolivie et observations diverses sur les espèces de l'Amérique du Sud (Col. Phytophaga)|url=https://www.biodiversitylibrary.org/page/45935465|journal=Entomologische Arbeiten aus dem Museum G. Frey Tutzing bei München|volume=2|pages=227–352}}</ref> Separately, [[Doris Holmes Blake]] renamed the Lefèvre species to "''Colaspis lophodes''" in 1974.<ref name="Blake1974">{{cite journal|last=Blake|first=D. H.|year=1974|title=The costate species of ''Colaspis'' in the United States (Coleoptera: Chrysomelidae)|url=https://repository.si.edu/bitstream/handle/10088/5252/SCtZ-0181-Lo_res.pdf?sequence=2&isAllowed=y|journal=[[Smithsonian Contributions to Zoology]]|issue=181|pages=1–24|doi=10.5479/si.00810282.181}}</ref>
+
+The generic placement of the [[Central America]]n species ''[[Nodocolaspis femoralis|N. femoralis]]'' and ''[[Nodocolaspis impressa|N. impressa]]'' is uncertain; they were transferred to ''Nodocolaspis'' from ''Colaspis'' by Jan Bechyné in 1953 and 1958, but Flowers (1996) disagreed with the validity of the transfers and included them in ''Colaspis'', where they have been traditionally placed.<ref name="Flowers1996">{{cite journal|last=Flowers|first=R.W.|year=1996|title=The subfamily Eumolpinae (Coleoptera: Chrysomelidae) in Central America|journal=Revista de Biología Tropical Special Publication|url=http://www.sidalc.net/cgi-bin/wxis.exe/?IsisScript=oet.xis&method=post&formato=2&cantidad=1&expresion=mfn=009919|volume=2|pages=1–59|access-date=December 31, 2018}}</ref><ref>{{cite journal|first1=Martijn|last1=Van Roie|first2=Frederik|last2=De Wint|first3=Ayse|last3=Güngor|first4=Charlotte|last4=Huyghe|first5=Wouter|last5=Dekoninck|first6=Lukáš|last6=Sekerka|year=2019|title=An annotated checklist of the leaf beetles (Coleoptera, Chrysomelidae) from El Salvador, with additions from the Bechyné collection in the Royal Belgian Institute of Natural Sciences|journal=[[ZooKeys]]|issue=856|pages=137–196|doi=10.3897/zookeys.856.32017|pmc=6591217|pmid=31258371}}</ref>
+
+==References==
+{{Reflist}}
+
+{{taxonbar|from=Q61864016}}
+
+[[Category:Eumolpinae]]
+[[Category:Chrysomelidae genera]]
+[[Category:Beetles of Central America]]
+[[Category:Beetles of South America]]
+
+
+{{Eumolpinae-stub}}

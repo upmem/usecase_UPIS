@@ -1,0 +1,13 @@
+== Summary ==
+{{Non-free use rationale
+ |Article           = Back to Where You've Never Been
+ |Description       = Peter and Lincoln are busted in the alternate universe.
+ |Source            = http://www.fringepedia.net/wiki/File:408Busted.jpg
+ |Portion           = Whole
+ |Low_resolution    = Yes
+ |Purpose           = To show an important moment within the episode.
+ |Replaceability    = No
+ |other_information = 
+}}
+== Licensing ==
+{{Non-free television screenshot|image has rationale=yes|image has rationale}}

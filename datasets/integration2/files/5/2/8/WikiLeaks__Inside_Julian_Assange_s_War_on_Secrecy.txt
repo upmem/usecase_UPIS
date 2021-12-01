@@ -1,0 +1,86 @@
+{{distinguish|Inside Wikileaks}}
+{{EngvarB|date=September 2013}}
+{{Infobox book
+| name             = WikiLeaks: Inside Julian Assange's War on Secrecy
+| image            = WikiLeaks Inside Julian Assange's War on Secrecy.jpg
+| caption          =
+| author           = [[David Leigh (journalist)|David Leigh]]<br />[[Luke Harding (journalist)|Luke Harding]]
+| illustrator      =
+| cover_artist     =
+| country          =
+| language         = English
+| series           =
+| subject          = [[WikiLeaks]]
+| genre            =
+| publisher        = [[Guardian Books]]
+| pub_date         = 1 February 2011<ref name=book />
+| media_type       = Paperback
+| pages            = 352 pages
+| isbn             = 978-0-85265-239-8
+| oclc             =
+| dewey            =
+| congress         =
+| preceded_by      =
+| followed_by      =
+}}
+'''''WikiLeaks: Inside Julian Assange's War on Secrecy''''' is a 2011 book by British journalists [[David Leigh (journalist)|David Leigh]] and [[Luke Harding (journalist)|Luke Harding]]. It is an account of [[Julian Assange]], [[WikiLeaks]], and the leak by [[Chelsea Manning]] of classified material to the website in 2010. It was published by [[Guardian Books]] in February 2011.<ref name=book />
+
+Along with other sources, portions were adapted for the 2013 film ''[[The Fifth Estate (film)|The Fifth Estate]]''.
+
+==Content==
+The book describes Assange's childhood and details about his work creating and expanding WikiLeaks. It explains how his surname comes from his stepfather, a "touring puppet theater owner", and not his biological father, a choice that Assange made himself.<ref name=ibtimes />
+
+==Publication of the password==
+
+Wikileaks gave ''The Guardian'' a copy of the unredacted leaks which included the names of informants and other sensitive information that was not intended for publication. This very sensitive information was protected by a large passphrase to ensure its secrecy.  
+
+However, Leigh's book then published this password which led directly to the unredacted data being publicly available. <ref name=spiegel>{cite news | url=https://www.spiegel.de/international/world/leak-at-wikileaks-a-dispatch-disaster-in-six-acts-a-783778.html | title=A Dispatch Disaster in Six Acts}</ref>  It has been claimed that this led directly to the deaths of some of those informants.
+
+{{quote|Assange wrote down on a scrap of paper:<br>''ACollectionOfHistorySince_1966_ToThe_PresentDay#''. "That's the password," he said. "But you have to add one extra word when you type it in. You have to put in the word 'Diplomatic' before the word 'History'. Can you remember that?"|David Leigh|WikiLeaks: Inside Julian Assange's War on Secrecy<ref name=huffingtonpost /><ref name=theatlanticwire />}}
+
+In response ''The Guardian'' said "It's nonsense to suggest the Guardian's WikiLeaks book has compromised security in any way." According to ''The Guardian'', WikiLeaks had indicated that the password was temporary and that WikiLeaks had seven months to take action to protect the files it had subsequently decided to post online.<ref name=guardian /> ''The Guardian'' has not described what actions WikiLeaks could have taken given that the encrypted files had been leaked.  
+
+Wikileaks did eventually publish the unredacted version.  The Guardian article about this failed to mention that the publication was after the password became widely known and was published so that informants could see what had been leaked and take action to protect themselves if necessary.<ref>{{cite news|url=https://www.theguardian.com/media/2011/sep/02/wikileaks-publishes-cache-unredacted-cables | title=WikiLeaks publishes full cache of unredacted cables.}}</ref><ref name=spiegel/>
+
+==Controversies as to content==
+In response to the book's publication, [[WikiLeaks]] posted on [[Twitter]]: "''The Guardian'' book serialization contains malicious libels. We will be taking action."<ref>{{cite tweet|author=WikiLeaks|user=wikileaks|number=32867678527950848|title=The Guardian book serialization contains malicious libels.  We will be taking action.|date=2 February 2011 |archiveurl=https://web.archive.org/web/20161205175600/https://twitter.com/wikileaks/status/32867678527950848 |archivedate=5 December 2016|url-status=live}}</ref> ''[[The Hindu]]'' writer, Hasan Suroor, said Assange's concern is that the book is "critical of [Assange's] robust style and his alleged tendency to be a 'control freak'".<ref name=thehindu /> One of the points of disagreement is that the book claimed he was initially refused to redact the [[Afghan War documents leak#Informants named|names of Afghan informants]] to the US military from the [[Afghan War documents leak|Afghan War logs]]; the book reports him as saying they would "deserve it" if they were killed.<ref name=independent /> When [[Douglas Murray (author)|Douglas Murray]] relayed these comments in a debate on 9 April 2011, Assange interjected "We are in the process of suing ''The Guardian'' in relation to that comment."<ref>{{cite news|title=This house believes whistleblowers make the world a safer place: Part II|url=http://www.newstatesman.com/blogs/the-staggers/2011/04/assange-murray-speech|work=New Statesman|date=10 April 2011|access-date=2 April 2017|archive-url=https://web.archive.org/web/20170401232701/http://www.newstatesman.com/blogs/the-staggers/2011/04/assange-murray-speech|archive-date=1 April 2017|url-status=live}}</ref> ''[[The Guardian]]'' claimed the following day that they had "not received any notification of such action from WikiLeaks or its lawyers", two months after the publication of the book.<ref>{{cite news|last1=Addley|first1=Esther|title=Julian Assange claims WikiLeaks is more accountable than governments|url=https://www.theguardian.com/media/2011/apr/09/julian-assange-wikileaks-public-debate|work=The Guardian|date=10 April 2011|access-date=2 April 2017|archive-url=https://web.archive.org/web/20170401150004/https://www.theguardian.com/media/2011/apr/09/julian-assange-wikileaks-public-debate|archive-date=1 April 2017|url-status=live}}</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=book>{{cite web |url=http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9780852652398 |title=WikiLeaks |publisher=[[Guardian Books]] |accessdate=3 January 2012 |archive-url=https://web.archive.org/web/20120101033345/http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9780852652398 |archive-date=1 January 2012 |url-status=live }}</ref>
+
+<ref name=ibtimes>{{cite news |title='WIKILEAKS: Inside Julian Assange's War on Secrecy' – the media deal, Assange's real father & Cablegate |url=http://www.ibtimes.com/articles/107407/20110201/wikileaks-julian-assange-biography-war-on-secrecy-inside-media-deal-guardian-real-father-wig-old-wom.htm |newspaper=[[International Business Times]] |date=1 February 2011 |archiveurl=https://www.webcitation.org/64QDmHr82?url=http://www.ibtimes.com/articles/107407/20110201/wikileaks-julian-assange-biography-war-on-secrecy-inside-media-deal-guardian-real-father-wig-old-wom.htm |archivedate=3 January 2012 |url-status=live |accessdate=3 January 2012 }}</ref>
+
+<ref name=thehindu>{{cite news |title=Assange threatens to sue 'Guardian' |first=Hasan |last=Suroor |url=http://www.thehindu.com/news/international/article1162519.ece?homepage=true |newspaper=[[The Hindu]] |date=6 February 2011 |archiveurl=https://www.webcitation.org/64QFeMcPh?url=http://www.thehindu.com/news/international/article1162519.ece?homepage=true |archivedate=3 January 2012 |url-status=live |accessdate=3 January 2012 }}</ref>
+
+<ref name=independent>{{cite news |title=Stephen Glover: Assange may yet come to hurt The Guardian |first=Stephen |last=Glover |url=https://www.independent.co.uk/news/media/opinion/stephen-glover/stephen-glover-assange-may-yet-come-to-hurt-the-guardian-2213885.html |newspaper=[[The Independent]] |date=14 February 2011 |archiveurl=https://web.archive.org/web/20120202073036/http://www.independent.co.uk/news/media/opinion/stephen-glover/stephen-glover-assange-may-yet-come-to-hurt-the-guardian-2213885.html |archivedate=2 February 2012 |url-status=live |accessdate=3 January 2012 }}</ref>
+
+<ref name=huffingtonpost>{{cite news |title=In Defense of WikiLeaks: Looking At Cables On Pharmaceutical Drugs And Trade Pressures |first=James |last=Love |url=http://www.huffingtonpost.com/james-love/wikileaks-cables-pharmaceutical-drugs_b_947806.html |newspaper=[[The Huffington Post]] |date=4 September 2011 |archiveurl=https://www.webcitation.org/64QHoJXs2?url=http://www.huffingtonpost.com/james-love/wikileaks-cables-pharmaceutical-drugs_b_947806.html |archivedate=3 January 2012 |url-status=live |accessdate=3 January 2012 }}</ref>
+
+<ref name=theatlanticwire>{{cite news |title=Wikileaks Is Suing the Guardian Over a Security Breach |first=Connor |last=Simpson |url=http://www.theatlanticwire.com/global/2011/08/wikileaks-suing-guardian-over-security-breach/41979/ |newspaper=[[The Atlantic Wire]] |date=31 August 2011 |archiveurl=https://www.webcitation.org/64QHvKQPz?url=http://www.theatlanticwire.com/global/2011/08/wikileaks-suing-guardian-over-security-breach/41979/ |archivedate=3 January 2012 |url-status=live |accessdate=3 January 2012 }}</ref>
+
+<ref name=spiegel>{{cite news |title=Leak at WikiLeaks: A Dispatch Disaster in Six Acts |first=Christian |last=Stöcker |url=http://www.spiegel.de/international/world/0,1518,783778,00.html |newspaper=[[Der Spiegel]] |date=1 September 2011 |archiveurl=https://web.archive.org/web/20110903181457/http://www.spiegel.de/international/world/0%2C1518%2C783778%2C00.html |archivedate=3 September 2011 |url-status=live |accessdate=3 January 2012 }}</ref>
+
+<ref name=guardian>{{cite news |title=Unredacted US embassy cables available online after WikiLeaks breach |first=James |last=Ball |url=https://www.theguardian.com/world/2011/sep/01/unredacted-us-embassy-cables-online |newspaper=[[The Guardian]] |date=1 September 2011 |archiveurl=https://www.webcitation.org/64QIzbGtR?url=http://www.guardian.co.uk/world/2011/sep/01/unredacted-us-embassy-cables-online |archivedate=3 January 2012 |url-status=live |accessdate=3 January 2012 }}</ref>
+
+}}
+
+==External links==
+* {{cite web |url=https://www.youtube.com/watch?v=xWPiLdAbywY |title=The story behind Wikileaks: Inside Julian Assange's War on Secrecy |date=2 February 2011 |publisher=Youtube}}
+* {{cite web |url=http://www.ibna.ir/vdcezw8o.jh8xvik1bj.html |title=Guardian Books to publish Wikileaks title next month |publisher=Iran Book News Agency |date=13 January 2011}}
+* {{cite news |title=Редактор The Guardian опроверг иск Ассанжа к изданию |url=http://lenta.ru/news/2011/02/08/notsueing/ |newspaper=[[Lenta.Ru]] |date=8 February 2011}}
+* {{cite news |title=Fundador de WikiLeaks reanuda batalla legal contra su extradición |url=http://opinion.eluniversal.com/2011/02/07/int_ava_fundador-de-wikileak_07A5124093.shtml |newspaper=[[El Universal (Caracas)|El Universal]] |date=7 February 2011}}
+* {{cite news |title=Fundador do Wikileaks se disfarçou de mulher para fugir da CIA |url=https://www.google.com/hostednews/afp/article/ALeqM5jyUvRRRvWUGM3adLs4U1PTL8isGA?docId=CNG.e820bf9ff55e23789d4351c361c37f7a.111 |agency=[[Agence France-Presse|AFP]] |date=31 January 2011}}
+* {{cite news |title=Assange svojega očeta dolgo ni poznal: Od njega je podedoval uporniške gene in analitični um |url=http://www.dnevnik.si/novice/svet/1042421285 |newspaper=[[Dnevnik (Slovenia)|Dnevnik]] |date=1 February 2011}}
+* {{cite web |url=http://www.oxonianreview.org/wp/transparency-terrorist/ |title=Transparency Terrorist: Review of WikiLeaks: Inside Julian Assange's War on Secrecy |date=16 May 2011 |work=[[The Oxonian Review]]}}
+
+{{Use dmy dates|date=January 2020}}
+{{WikiLeaks}}
+
+[[Category:WikiLeaks]]
+[[Category:Works about whistleblowing]]
+[[Category:2011 non-fiction books]]
+[[Category:English non-fiction books]]
+[[Category:Biographies (books)]]
+[[Category:Guardian Books books]]

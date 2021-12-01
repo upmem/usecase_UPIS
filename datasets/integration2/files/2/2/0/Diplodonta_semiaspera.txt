@@ -1,0 +1,17 @@
+{{italic title}}
+{{Speciesbox
+| taxon = Diplodonta semiaspera
+| authority = (Philippi, 1836)
+| display_parents = 3
+}}
+
+'''''Diplodonta semiaspera''''', or the pimpled diplodon, is a species of [[bivalve]] [[mollusc]] in the [[family (biology)|family]] [[Ungulinidae]]. It can be found in Caribbean waters, ranging from southern [[Florida]] to the [[West Indies]].<ref>Abbott, R.T. & Morris, P.A. ''A Field Guide to Shells: Atlantic and Gulf Coasts and the West Indies.'' New York: Houghton Mifflin, 1995. 46.</ref>
+
+==References==
+{{Reflist}}
+{{Taxonbar|from=Q3014574}}
+
+[[Category:Ungulinidae]]
+[[Category:Bivalves described in 1836]]
+
+{{bivalve-stub}}

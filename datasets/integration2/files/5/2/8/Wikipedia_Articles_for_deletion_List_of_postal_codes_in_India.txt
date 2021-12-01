@@ -1,0 +1,78 @@
+<div class="boilerplate metadata vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.  ''
+<!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result was <span id='xfd-closure'>'''Delete'''.</span> <em class="user-sig user-Quarl">—[[User:Quarl|Quarl]] <sup>([[User Talk:Quarl|talk]])</sup> <small>2007-04-28 07:27Z</small></em>
+
+===[[List of postal codes in India]]===
+:{{la|List of postal codes in India}} – <includeonly>([[Wikipedia:Articles for deletion/List of postal codes in India|View AfD]])</includeonly><noinclude>([[Wikipedia:Articles for deletion/Log/2007 April 24#{{anchorencode:List of postal codes in India}}|View log]])</noinclude>
+This article and all similar articles in [[:Category:Postal codes of India]] do nothing but list hundreds (maybe even thousands) of [[Postal Index Number]]s and their corresponding geographic areas. As [[WP:NOT#DIR|Wikipedia is not a postal directory]], I propose that these articles be deleted. Please note that a similar AfD discussion regarding postal codes in the United States (see [[Wikipedia:Articles for deletion/Lists of ZIP Codes in the United States by state|here]]) was concluded on April 21 with a decision to "delete". The closing of that AfD discussion was challenged at deletion review [[Wikipedia:Deletion review/Log/2007 April 22#Lists of ZIP Codes in the United States by state|here]]. -- '''[[User:Black Falcon|Black Falcon]]''' <sup>''([[User talk:Black Falcon|Talk]])''</sup> 00:28, 24 April 2007 (UTC)
+
+I am also nominating the following related pages:
+{{col-begin}}
+{{col-2}}
+<small>
+:{{la|List of Agartala PIN}}
+:{{la|List of Asansol PIN}}
+:{{la|List of Bangalore PIN}}
+:{{la|List of Bhopal PIN}}
+:{{la|List of Bhubaneswar PIN}}
+:{{la|List of Bokaro PIN}}
+:{{la|List of Chennai PIN}}
+:{{la|List of Delhi PIN}}
+:{{la|List of Durgapur PIN}}
+:{{la|List of Gangtok PIN}}
+:{{la|List of Guwahati PIN}}
+:{{la|List of Howrah PIN}}
+:{{la|List of Hyderabad PIN}}
+:{{la|List of Imphal PIN}}
+:{{la|List of Jamshedpur PIN}}
+</small>
+{{col-2}}
+<small>
+:{{la|India Kerala PINCode Index Part 1 of 3}}
+:{{la|India Kerala PINCode Index Part 2 of 3}}
+:{{la|India Kerala PINCode Index Part 3 of 3}}
+:{{la|List of Kohima PIN}}
+:{{la|List of Kolkata PIN}}
+:{{la|List of Lucknow PIN}}
+:{{la|List of Mumbai PIN}}
+:{{la|List of Pune PIN}}
+:{{la|List of Punjab PIN}}
+:{{la|List of postal codes in Rajasthan}}
+:{{la|List of Ranchi PIN}}
+:{{la|List of Shillong PIN}}
+:{{la|List of Shimla PIN}}
+:{{la|List of Siliguri PIN}}
+:{{la|List of PIN Codes in Tamil Nadu}}
+</small>
+{{col-end}}
+
+*'''Strong delete'''.  We are not a postal directory for India, either. --[[User:Dennisthe2|'''<span style="background:Orange;color:Black">Dennis The Tiger</span>''']]  ([[User talk:Dennisthe2|Rawr]] and [[Special:Contributions/Dennisthe2|stuff]]) 02:21, 24 April 2007 (UTC)
+
+*'''Delete''' Far better to have an article on the postal system of that nation with a link to their website, where one could find accurate and up to date postal codes. There is no merit in Wikipedia attempting to replicate every list to be found on the web, and then to try and keep them updated as they change. [[User:Edison|Edison]]
+
+*<s>'''Keep''' - unless this AFD is expanded to include [[List of ZIP Codes in the United States]] and everything else beneath [[:Category:Lists of postal codes]].  No reason to single out India here. [[User:Neier|Neier]] 04:24, 24 April 2007 (UTC)</s>
+:*See [[WP:OTHERSTUFFEXISTS]] and [[Wikipedia:Articles for deletion/Lists of ZIP Codes in the United States by state]]. This is one step in many. [[User:MER-C|MER-C]] 04:26, 24 April 2007 (UTC)
+::* If it is one step in many, then, to deflate any claim of [[WP:BIAS]], why start with India, France, and Austria?  Why not the US, or any one of a number of English-speaking countries which are disproportionately represented here to begin with? [[User:Neier|Neier]] 04:28, 24 April 2007 (UTC)
+:::We did start with the US, that's my point. [[User:MER-C|MER-C]] 04:51, 24 April 2007 (UTC)
+::::If all that was nominated here were the sub-lists ''List of XYZ PIN'', then, I would agree with you.  If the nominator wants to remove the parent [[List of postal codes in India]] from this nomination (or add [[List of ZIP Codes in the United States]]), then, I will vote delete.  Getting rid of the individual by-state lists, as mentioned at the top, is one thing; removing all of the country's info is another.  And, the two are not quite the same thing. [[User:Neier|Neier]] 06:28, 24 April 2007 (UTC)
+::::I'll also mention that my dissent only applies to the main article.  Technically I don't think it is a good idea to split a keep/delete vote in a mass deletion like this.  Thus, my '''Keep''' vote. [[User:Neier|Neier]] 09:52, 24 April 2007 (UTC)
+:Changing to '''delete''' as per [[User:Eldereft|Eldereft]] below. [[User:Neier|Neier]] 10:57, 24 April 2007 (UTC)
+*'''Delete all''' per nom. [[User:MER-C|MER-C]] 04:26, 24 April 2007 (UTC)
+*'''Strong keep''' - What Neier said. It could useful. Perhaps move to Wikisource if it is from government documents. --[[User:Remi0o|R]][[Special:Emailuser/Remi0o|e]][[User_talk:Remi0o|m]][[Special:Contributions/Remi0o|i]] 07:34, 24 April 2007 (UTC)
+*'''Delete'''. [[Postal Index Number]] has an article describing the layout of the system, and individual states and union territories can detail the mailing addresses. While WP is my vehicle of choice for a lot of not quite encyclopedic information simply because it is better organized and easier to use than many "official" sites (no criticism of the Indian Post, just a comment), this falls pretty clearly under 'not a phonebook'. [[User:Eldereft|Eldereft]] 10:35, 24 April 2007 (UTC)
+*'''Strong delete all'''.  [[WP:NOT#DIR]] covers this one fairly well, and if a list of postal code numbers is not a directory-style entry, I don't know what is. [[User:Arkyan|<b><font color="#0000FF">Ark</font><font color="#6060BF">yan</font></b>]] &#149; [[User_talk:Arkyan|<sup>(talk)</sup>]] 15:36, 24 April 2007 (UTC)
+*'''Delete All ''' per [[Wikipedia:Articles for deletion/Lists of ZIP Codes in the United States by state|AFD]] precedent regarding United States Zip codes. Wikipedia is [[WP:NOT|not a directory]]. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Cyrus Andiron|Cyrus Andiron]] ([[User talk:Cyrus Andiron|talk]] • [[Special:Contributions/Cyrus Andiron|contribs]]) 16:40, 24 April 2007 (UTC).</small><!-- HagermanBot Auto-Unsigned -->
+*'''Delete all''' - this is about as directory as you get, and [[WP:USEFUL]] is no valid reason to keep information of no ''encyclopedic'' utility. [[User:Moreschi|Moreschi]] <sup> [[User talk:Moreschi|Talk]]</sup> 17:26, 24 April 2007 (UTC)
+*'''Delete'''. There should be a WP:OTHERCRAPUSEDTOEXIST, but I think Black Falcon already covered it, as the List of Zip Codes in the US was already deleted. Furthermore, [[WP:NOT#DIR|WP ain't a directory]]. [[User:Rockstar915|<FONT STYLE="verdana" COLOR ="#990000">'''Rock'''</FONT><FONT COLOR="#000033">star</FONT>]] (<small><sup>[[User_talk:Rockstar915|T]]</sup>/<sub>[[Special:Contributions/Rockstar915|C]]</sub></small>) 17:51, 24 April 2007 (UTC)
+*'''Delete all''' As noted, [[WP:NOT#DIR]] covers this one fairly well.  Also, delete any others you may find [http://en.wikipedia.org/wiki/Special:Search?ns0=1&search=list+of+pin&fulltext=Search here.] -- [[User:Jreferee|Jreferee]] 21:22, 24 April 2007 (UTC)
+**I'm fairly certain I've included all of the articles. There are a bunch of redirects, but I can just tag those for speedy deletion once this AfD closes (assuming it ends in deletion). -- '''[[User:Black Falcon|Black Falcon]]''' <sup>''([[User talk:Black Falcon|Talk]])''</sup> 21:32, 24 April 2007 (UTC)
+*'''Delete all''': these are directory listings, and wikipedia is [[WP:NOT#DIRECTORY|not a directory]]. [[User:Ohconfucius|Ohconfucius]] 05:34, 25 April 2007 (UTC)
+
+*<small>'''Note''':  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Lists|list of Lists-related deletions]].  </small> -- [[User:Pax:Vobiscum|Pax:Vobiscum]] 16:11, 26 April 2007 (UTC)
+*'''Delete all''' [[WP:NOT#DIRECTORY]] couldn't be more applicable. [[User:Pax:Vobiscum|Pax:Vobiscum]] 17:11, 26 April 2007 (UTC)
+
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. <!--Template:Afd bottom--></div>

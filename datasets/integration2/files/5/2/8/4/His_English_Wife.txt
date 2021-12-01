@@ -1,0 +1,72 @@
+{{Use dmy dates|date=September 2020}}
+{{short description|1927 film}}
+{{Infobox film
+| name =   His English Wife
+| image =
+| image_size =
+| caption =
+| director = [[Gustaf Molander]]
+| producer = [[Oscar Hemberg]]
+| writer =  [[Paul Merzbach ]]
+| narrator =
+| starring = [[Lil Dagover]] <br> [[Gösta Ekman]] <br> [[Karin Swanström]]
+| music = 
+| cinematography = [[Åke Dahlqvist]] <br> [[Julius Jaenzon]]
+| editing =
+| studio =  
+| distributor = 
+| released = 17 January 1927 
+| runtime = 150 minutes
+| country = Germany <br> Sweden
+| language = Silent <br>  [[Swedish language|Swedish]] intertitles
+| budget =
+| gross =
+| preceded_by =
+| followed_by =
+| website =
+}}
+'''''His English Wife''''' (German: '''''Die Lady ohne Schleier''''', Swedish: '''''Hans engelska fru''''') is a 1927 German-Swedish [[silent film|silent]] [[drama film]] directed by [[Gustaf Molander]] and starring [[Lil Dagover]], [[Gösta Ekman]] and [[Karin Swanström]].<ref>Donoghue p.viii</ref>
+
+The film's sets were designed by the [[art director]] [[Vilhelm Bryde]].
+
+==Cast==
+* [[Lil Dagover]] as Cathleen Paget, née Brock  
+* [[Gösta Ekman (senior)|Gösta Ekman]] as Ivor Willington  
+* [[Karin Swanström]] as Mrs. Brock, Cathleen's mother  
+* [[Håkan Westergren]] as Bruce Brock  
+* [[Brita Appelgren]] as Poppy Brock  
+* [[Stina Berg]] as Antje  
+* [[Margit Manstad]] as Faucigny  
+* [[Vilhelm Bryde]] as Lionel Jessop  
+* [[Carl-Gunnar Wingård]] as Waiter  
+* [[Eric Gustafson (actor)|Eric Gustafson]] 
+* [[Josua Bengtson]] as Train announcer  
+* [[Ragnar Arvedson]] as Artist  
+* [[Olga Andersson]] as London lady  
+* [[Margit Rosengren]] as Lilian 
+* [[Urho Somersalmi]] as Birger Holm, landowner
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* Daniel Donoghue. ''Lady Godiva: A Literary History of the Legend''. John Wiley & Sons, 2008.
+
+==External links==
+* {{IMDb title|0017960}}
+
+[[Category:1927 films]]
+[[Category:1927 drama films]]
+[[Category:Swedish films]]
+[[Category:Swedish silent films]]
+[[Category:Swedish drama films]]
+[[Category:German silent feature films]]
+[[Category:German drama films]]
+[[Category:German films]]
+[[Category:Films of the Weimar Republic]]
+[[Category:Films directed by Gustaf Molander]]
+[[Category:German black-and-white films]]
+[[Category:Swedish black-and-white films]]
+
+{{Sweden-film-stub}}
+{{silent-drama-film-stub}}

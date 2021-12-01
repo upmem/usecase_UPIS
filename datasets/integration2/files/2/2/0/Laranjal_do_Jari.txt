@@ -1,0 +1,63 @@
+{{Infobox settlement
+|name               = Laranjal do Jari
+|settlement_type    = Municipality
+|official_name      = The Municipality of Laranjal do Jari
+|nickname           = "''Beiradão''" (''Big Edge'', because of the city's large boundary and its location in the edge of Amapá.)
+|motto              = "''Laranjal com Responsabilidade''" (''Laranjal with Responsibility'')
+|image_skyline      = Parque Laranjal do Jari.JPG
+|imagesize          = 
+|image_caption      = 
+|image_flag         = Bandeira_de_Laranjal_do_Jari_-_AP.svg
+|image_seal         = Brasão_de_Laranjal_do_Jari_-_AP.svg
+|image_map          = Amapa Municip LaranjaldoJari.svg
+|mapsize            = 250px
+|map_caption        = Location of Laranjal do Jari in the State of [[Amapá]] 
+|image_map1         = 
+|pushpin_map        =
+|subdivision_type   = [[List of sovereign states|Country]]
+|subdivision_type1  = [[Regions of Brazil|Region]]
+|subdivision_type2  = [[States of Brazil|State]]
+|subdivision_name   = {{flag|Brazil}}
+|subdivision_name1  = [[North Region, Brazil|North]]
+|subdivision_name2  = [[Image:Bandeira do Amapá.svg|border|22px]] [[Amapá]]
+|leader_title       = [[Mayor]]
+|leader_name        = Márcio Serrão ([[Brazilian Republican Party|PRB]])
+|established_title  = Founded
+|established_date   = December 17, 1987
+|area_note          = 
+|area_total_km2     = 41,668
+|population_note    = <ref name="IBGE_Pop_2012">{{cite web |url = ftp://ftp.ibge.gov.br/Estimativas_Projecoes_Populacao/Estimativas_2012/estimativa_2012_municipios.pdf|title=2012 Populational Estimate| work = Censo Populacional 2012 |publisher=Instituto Brasileiro de Geografia e Estatística (IBGE) |date=July 2012 |accessdate = August 31, 2012}}</ref> 
+|population_as_of   = 2012
+|population_total   = 39,285
+|population_density_km2 = auto
+|timezone           = [[UTC|UTC-3]]
+|utc_offset         = -3
+|timezone_DST       = 
+|utc_offset_DST     = 
+|coordinates        = {{coord|00|51|20|S|52|32|21|W|region:BR|display=inline,title}}
+|elevation_ft       = 22
+|blank_name         = '''[[Human Development Index|HDI]]''' (2000)
+|blank_info         = 0.732  – <span style="color:#fc0">medium</span><ref>[http://www.pnud.org.br/atlas/ranking/IDH-M%2091%2000%20Ranking%20decrescente%20(pelos%20dados%20de%202000).htm] {{webarchive|url=https://web.archive.org/web/20091003103229/http://www.pnud.org.br/atlas/ranking/IDH-M%2091%2000%20Ranking%20decrescente%20%28pelos%20dados%20de%202000%29.htm |date=2009-10-03 }} [[UNDP]]</ref>
+|website            = [http://www.laranjaldojari.ap.gov.br/ laranjaldojari.ap.gov.br]
+|footnotes          = 
+}}
+'''Laranjal do Jari''' ({{IPA-pt|laɾɐ̃'ʒaw du ʒa'ɾi}}) (''Jari Orangery'') is a [[municipality]] located in the west of the state of [[Amapá]] in [[Brazil]]. It is the only municipality in the west boundaries of Amapá, except for a small part of [[Vitória do Jari]]. Its population is 41,688 and its area is 29,699&nbsp;km², which makes it the largest municipality of Amapá.
+
+The municipality contains 39% of the {{convert|501771|ha}} [[Rio Cajari Extractive Reserve]], created in 1990.<ref>{{citation|ref={{harvid|RESEX do Rio Cajari – ISA}}|language=pt
+ |title=RESEX do Rio Cajari|publisher=ISA: Instituto Socioambiental
+ |url=https://uc.socioambiental.org/uc/5271|accessdate=2016-11-06}}</ref>
+It also contains 69% of the {{convert|806184|ha}} [[Rio Iratapuru Sustainable Development Reserve]], created in 1997.<ref>{{citation|ref={{harvid|RDS do Rio Iratapuru – ISA}}|language=pt
+ |title=RDS do Rio Iratapuru|publisher=ISA: Instituto Socioambiental
+ |url=https://uc.socioambiental.org/uc/5379|accessdate=2016-11-05}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Municipalities of Amapá}}
+
+[[Category:Municipalities in Amapá]]
+[[Category:Populated places established in 1987]]
+[[Category:1987 establishments in Brazil]]
+
+
+{{AmapáBR-geo-stub}}

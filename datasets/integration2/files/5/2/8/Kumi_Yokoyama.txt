@@ -1,0 +1,230 @@
+{{short description|Japanese footballer}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox football biography
+|name=Kumi Yokoyama<br/>横山 久美
+|image=Kumi Yokoyama (cropped).jpg
+|image_size=
+|caption= Yokoyama with [[1. FFC Frankfurt|Frankfurt]] in 2017
+|fullname=Kumi Yokoyama
+|birth_date={{Birth date and age|df=yes|1993|8|13}}
+|birth_place=[[Tama, Tokyo|Tama]], [[Tokyo]], [[Japan]]
+|death_date=
+|death_place=
+|height={{Height|m=1.55}}
+|position=[[Forward (association football)|Forward]]
+|currentclub=[[Washington Spirit]]
+|clubnumber=17
+|youthyears1=2009–2011|youthclubs1=[[Jumonji High School]]
+|years1=2012–2013|clubs1=[[Okayama Yunogo Belle]]|caps1=31|goals1=3
+|years2=2014–2017|clubs2=[[AC Nagano Parceiro Ladies|AC Nagano Parceiro]]|caps2=74|goals2=87
+|years3=2017–2018|clubs3=[[1. FFC Frankfurt|Frankfurt]]|caps3=22|goals3=4
+|years4=2018–2019|clubs4=[[AC Nagano Parceiro Ladies|AC Nagano Parceiro]]|caps4=9|goals4=6
+|years5=2020– | clubs5=[[Washington Spirit]]|caps5=0|goals5=0
+|nationalyears1=2010|nationalteam1=[[Japan women's national under-17 football team|Japan U-17]]|nationalcaps1=6|nationalgoals1=6
+|nationalyears2=2012|nationalteam2=[[Japan women's national under-20 football team|Japan U-20]]|nationalcaps2=6|nationalgoals2=1
+|nationalyears3=2015–|nationalteam3=[[Japan women's national football team|Japan]]|nationalcaps3=43|nationalgoals3=17
+|medaltemplates=
+{{Medal|Team|[[Okayama Yunogo Belle]]}}
+{{Medal|RU|[[Nadeshiko League Cup]]|[[2013 Nadeshiko League Cup|2013]]}}
+{{Medal|Country|{{Fbw|JPN}}}}
+{{Medal|Competition|[[AFC Women's Asian Cup]]}}
+{{Medal|G|[[2018 AFC Women's Asian Cup|2018 Jordan]]|}}
+{{Medal|Competition|[[FIFA U-20 Women's World Cup]]}}
+{{Medal|B|[[2012 FIFA U-20 Women's World Cup|2012 Japan]]|}}
+{{Medal|Competition|[[AFC U-19 Women's Championship]]}}
+{{Medal|G|[[2011 AFC U-19 Women's Championship|2011 Vietnam]]|}}
+{{Medal|Competition|[[FIFA U-17 Women's World Cup]]}}
+{{Medal|S|[[2010 FIFA U-17 Women's World Cup|2010 Trinidad and Tobago]]|}}
+|club-update=31 December 2018
+|nationalteam-update=19 June 2019
+}}
+{{Nihongo|'''Kumi Yokoyama'''|横山 久美|Yokoyama Kumi|born 13 August 1993}} is a [[Japan]]ese [[Association football|football]] player. She plays for [[Washington Spirit]] and [[Japan women's national football team|Japan national team]].
+
+==Club career==
+Yokoyama was born in [[Tama, Tokyo|Tama]] on 13 August 1993. After graduating from high school, she joined [[Okayama Yunogo Belle]] in 2012. In 2014, she moved to [[L.League]] Division 2 club [[AC Nagano Parceiro Ladies|AC Nagano Parceiro]]. She became top scorer in [[2014 L.League|2014]] and [[2015 L.League|2015]]. The club was also promoted to Division 1 from 2016. In [[2016 L.League|2016 season]], she was selected Best Eleven. In July 2017, she moved to German [[Frauen-Bundesliga|Bundesliga]] club [[1. FFC Frankfurt|Frankfurt]].<ref>[https://parceiro.co.jp/news/ladies/201705015844.html AC Nagano Parceiro]{{in lang|ja}}</ref> In July 2018, she returned to [[AC Nagano Parceiro Ladies|AC Nagano Parceiro]]. In December 2019, she signed with the [[Washington Spirit]].<ref>{{cite web|url=https://washingtonspirit.com/2019/12/18/washington-spirit-sign-forward-kumi-yokoyama/|title=Washington Spirit Sign Forward Kumi Yokoyama|publisher=[[Washington Spirit]]|date=18 December 2019}}</ref>
+
+==National team career==
+In 2010, Yokoyama was selected [[Japan women's national under-17 football team|Japan U-17 national team]] for [[2010 FIFA U-17 Women's World Cup|2010 U-17 World Cup]]. She played 6 games and scored 6 goals, and Japan won 2nd place.<ref name="FIFA">[https://www.fifa.com/worldfootball/statisticsandrecords/players/player=325971/index.html Statistics] in [[FIFA]]'s website</ref> She received one of the ten [[FIFA Puskás Award|2010 FIFA Puskás Awards]]<ref>[https://www.fifa.com/classicfootball/awards/gala/news/newsid=1333561.html ''Altintop claims the FIFA Puskás Award 2010'']. FIFA</ref> nominations for her winning goal in the semifinals against [[North Korea women's national under-17 football team|North Korea]], which made the headlines and was compared to [[Diego Maradona]]'s second goal against [[England national football team|England]] in the [[1986 FIFA World Cup|1986 World Cup]].<ref>[http://www.marca.com/2010/09/23/futbol/futbol_internacional/1285254390.html ''Maradona-like goal by a 17 year old Japanese player'']. [[Diario Marca]]</ref> In 2012 she was also a member of [[Japan women's national under-20 football team|Japan U-20 national team]] for [[2012 FIFA U-20 Women's World Cup|2012 U-20 World Cup]] which Japan won 3rd place.<ref name="FIFA"/> In March 2015, she was selected [[Japan women's national football team|Japan national team]] for [[2015 Algarve Cup]]. At this competition, on 6 March, she debuted and scored a goal against [[Portugal women's national football team|Portugal]]. In 2018, she played at [[2018 AFC Women's Asian Cup|2018 Asian Cup]]. She scored 4 goals include 2 goals at semifinal and a goal at [[2018 AFC Women's Asian Cup Final|final]], and Japan won the championship.
+
+==Club statistics==
+{{updated|24 June 2017}}
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="2"|Jumonji HS
+|2011
+|colspan="1"|-||colspan="2"|-||2||2||colspan="2"|-||2||2
+|-
+!colspan="2"|Total
+!0||0||2||2||0||0||2||2
+|-
+|rowspan="3"|[[Okayama Yunogo Belle]]
+|[[2012 L.League|2012]]
+|rowspan="2"|1st||13||1||0||0||3||0||16||1
+|-
+|[[2013 L.League|2013]]
+|18||2||3||0||10||2||31||4
+|-
+!colspan="2"|Total
+!31||3||3||0||13||2||47||5
+|-
+|rowspan="5"|[[AC Nagano Parceiro Ladies|AC Nagano Parceiro]]
+|[[2014 L.League|2014]]
+|rowspan="1"|3rd||21||30||colspan="2"|-||colspan="2"|-||21||30
+|-
+|[[2015 L.League|2015]]
+|rowspan="1"|2nd||25||35||colspan="2"|-||2||2||27||37
+|-
+|[[2016 L.League|2016]]
+|rowspan="2"|1st||18||16||6||9||3||2||27||27
+|-
+|[[2017 L.League|2017]]
+|10||6||2||4||0||0||12||10
+|-
+!colspan="2"|Total
+!74||87||8||13||5||4||87||104
+|-
+!colspan="3"|Career total
+!105||90||13||15||18||6||136||111
+|}
+
+==National team statistics==
+{{updated|19 June 2019}}<ref>List of match in [http://www.jfa.jp/nadeshikojapan/schedule_result/2015.html 2015] {{Webarchive|url=https://web.archive.org/web/20180811194644/http://www.jfa.jp/nadeshikojapan/schedule_result/2015.html |date=11 August 2018 }}, [http://www.jfa.jp/nadeshikojapan/schedule_result/2016.html 2016], [http://www.jfa.jp/nadeshikojapan/schedule_result/2017.html 2017] {{Webarchive|url=https://web.archive.org/web/20190323072254/http://www.jfa.jp/nadeshikojapan/schedule_result/2017.html |date=23 March 2019 }}, [http://www.jfa.jp/nadeshikojapan/schedule_result/2018.html 2018], [http://www.jfa.jp/nadeshikojapan/schedule_result/2019.html 2019] at Japan Football Association {{in lang|ja}}</ref>
+{{col-start}}{{col-break|width=25%}}
+{| class="wikitable" style="text-align:center"
+!colspan=3|[[Japan women's national football team|Japan national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|[[2015 Japan women's national football team|2015]]||5||2
+|-
+|[[2016 Japan women's national football team|2016]]||8||3
+|-
+|[[2017 Japan women's national football team|2017]]||11||6
+|-
+|[[2018 Japan women's national football team|2018]]||11||5
+|-
+|[[2019 Japan women's national football team|2019]]||8||1
+|-
+!Total||43||17
+|}
+{{col-break|width=75%}}
+{| class="wikitable" style="font-size:90%; text-align:left;"
+|-
+!colspan="7"|'''International goals'''
+|-
+! # !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+|colspan="7"|<center>Category: Under-17</center>
+|-
+| 1. || 6 September 2010 || [[Couva]], [[Trinidad and Tobago]] || {{fbwu|17|ESP}} || <center>4–'''1'''</center> || <center>4–1</center> || [[2010 FIFA U-17 Women's World Cup]]
+|-
+| 2. || 9 September 2010 || [[Couva]], [[Trinidad and Tobago]] || {{fbwu|17|VEN}} || <center>'''5'''–0</center> || <center>6–0</center> || [[2010 FIFA U-17 Women's World Cup]]
+|-
+| 3. || 13 September 2010 || [[Scarborough, Tobago|Scarborough]], [[Trinidad and Tobago]] || {{fbwu|17|NZL}} || <center>'''1'''–0</center> || <center>6–0</center> || [[2010 FIFA U-17 Women's World Cup]]
+|-
+| 4. || 13 September 2010 || [[Scarborough, Tobago|Scarborough]], [[Trinidad and Tobago]] || {{fbwu|17|NZL}} || <center>'''2'''–0</center> || <center>6–0</center> || [[2010 FIFA U-17 Women's World Cup]]
+|-
+| 5. || 17 September 2010 || [[Arima]], [[Trinidad and Tobago]] || {{fbwu|17|IRL}} || <center>1–'''2'''</center> || <center>1–2</center> || [[2010 FIFA U-17 Women's World Cup]]
+|-
+| 6. || 21 September 2010 || [[Couva]], [[Trinidad and Tobago]] || {{fbwu|17|PRK}} || <center>1–'''2'''</center> || <center>1–2</center> || [[2010 FIFA U-17 Women's World Cup]]
+|-
+|colspan="7"|<center>Category: Under-20</center>
+|-
+| 1. || 8 October 2011 || [[Ho Chi Minh City]], [[Vietnam]] || {{fbwu|20|KOR}} || <center>'''2'''–0</center> || <center>3–1</center> || [[2011 AFC U-19 Women's Championship]]
+|-
+| 2. || 16 October 2011 || [[Ho Chi Minh City]], [[Vietnam]] || {{fbwu|19|VIE}} || <center>0–'''3'''</center> || <center>0–6</center> || [[2011 AFC U-19 Women's Championship]]
+|-
+| 3. || 16 October 2011 || [[Ho Chi Minh City]], [[Vietnam]] || {{fbwu|19|VIE}} || <center>0–'''5'''</center> || <center>0–6</center> || [[2011 AFC U-19 Women's Championship]]
+|-
+| 4. || 16 October 2011 || [[Ho Chi Minh City]], [[Vietnam]] || {{fbwu|19|VIE}} || <center>0–'''6'''</center> || <center>0–6</center> || [[2011 AFC U-19 Women's Championship]]
+|-
+| 5. || 19 August 2012 || [[Miyagi Stadium]], [[Rifu, Miyagi|Rifu]], [[Japan]] || {{fbwu|20|MEX}} || <center>'''3'''–0</center> || <center>4–1</center> || [[2012 FIFA U-20 Women's World Cup]]
+|-
+|colspan="7"|<center>Category: Senior</center>
+|-
+| 1. || 6 March 2015 ||[[Faro, Portugal|Faro]], [[Portugal]] || {{fbw|PRT}} || <center>2–0</center> || <center>3–0</center>||[[2015 Algarve Cup]]
+|-
+| 2. || 8 August 2015 ||[[Wuhan]], [[China]] || {{fbw|CHN}} || <center>1–0</center> || <center>2–0</center>||[[2015 EAFF East Asian Cup]]
+|-
+| 3. || 4 March 2016 ||[[Osaka]], [[Japan]] || {{fbw|CHN}} || <center>1–2</center> || <center>1–2</center>||[[2016 AFC Women's Olympic Qualifying Tournament]]
+|-
+| 4. || 7 March 2016 ||[[Osaka]], [[Japan]] || {{fbw|VNM}} || <center>5–1</center> || <center>6–1</center>||[[2016 AFC Women's Olympic Qualifying Tournament]]
+|-
+| 5. || 2 June 2016 ||[[Commerce City, Colorado|Commerce City]], [[United States]] || {{fbw|USA}} || <center>3–3</center> || <center>3–3</center>||[[Exhibition game|Friendly]]
+|-
+| 6. || 1 March 2017 ||[[Parchal]], [[Portugal]] || {{fbw|ESP}} || <center>1–2</center> || <center>1–2</center>||[[2017 Algarve Cup]]
+|-
+| 7. || 6 March 2017 ||[[Faro, Portugal|Faro]], [[Portugal]] || {{fbw|NOR}} || <center>1–0</center> ||  <center>2–0</center>||[[2017 Algarve Cup]]
+|-
+| 8. || 6 March 2017 ||[[Faro, Portugal|Faro]], [[Portugal]] || {{fbw|NOR}} ||  <center>2–0</center> || <center>2–0</center>||[[2017 Algarve Cup]]
+|-
+| 9. || 8 March 2017 ||[[Faro, Portugal|Faro]], [[Portugal]] || {{fbw|NED}} || <center>1–2</center> || <center>2–3</center>||[[2017 Algarve Cup]]
+|-
+| 10. || 9 April 2017 ||[[Kumamoto]], [[Japan]] || {{fbw|CRI}} || <center>1–0</center> || <center>3–0</center>||Friendly
+|-
+| 11. || 10 June 2017 ||[[Breda]], [[Netherlands]] || {{fbw|NED}} || <center>1–0</center> || <center>1–0</center>||Friendly
+|-
+|}
+{{col-end}}
+
+==Honors==
+; Team
+* [[AFC U-19 Women's Championship]]
+: ''Champion (1)'' : [[2011 AFC U-19 Women's Championship|2011]]
+
+; Individual
+* [[2010 FIFA U-17 Women's World Cup]] : Silver Ball, Bronze Shoe
+* [[2014 L.League]] Division 2 : Top scorers
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{FIFA player|325971}}
+*{{Soccerway}}
+*{{WorldFootball.net}}
+*[http://www.jfa.jp/eng/nadeshikojapan/member/yokoyama_kumi.html Japan Football Association]
+* {{Instagram|yoko10_official}}
+
+{{Washington Spirit squad}}
+{{Navboxes
+|title=Japan squads
+|bg=#0000C8
+|fg=#FFFFFF
+|bordercolor=#FF0000
+|list1=
+{{Japan squad 2018 AFC Women's Asian Cup}}
+{{Japan squad 2019 FIFA Women's World Cup}}
+}}
+
+{{DEFAULTSORT:Yokoyama, Kumi}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:People from Tama, Tokyo]]
+[[Category:Association football people from Tokyo Metropolis]]
+[[Category:Japanese women's footballers]]
+[[Category:Japan women's international footballers]]
+[[Category:Nadeshiko League players]]
+[[Category:Okayama Yunogo Belle players]]
+[[Category:AC Nagano Parceiro Ladies players]]
+[[Category:Women's association football forwards]]
+[[Category:2019 FIFA Women's World Cup players]]
+[[Category:Washington Spirit players]]
+[[Category:National Women's Soccer League players]]

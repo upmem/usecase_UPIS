@@ -1,0 +1,54 @@
+{{Infobox NRHP
+ | name = Indian Valley Mine
+ | nrhp_type = hd   |  nocat = yes
+ | image =
+ | alt =
+ | caption =
+ | location = {{Address restricted}}
+ | nearest_city = [[Indian, Anchorage|Indian]], [[Anchorage, Alaska|Anchorage]], [[Alaska]]
+ | locmapin = Alaska
+ | map_alt = 
+ | map_caption =
+ | built = {{Start date|1920}}
+ | added = October 25, 1989
+ | area = {{convert|5|acre}}
+ | governing_body = Private 
+ | refnum = 89001762<ref name="nris">{{NRISref|version=2010a}}</ref>
+  | designated_other1 = Alaska Heritage Resources Survey
+  | designated_other1_name = Alaska Heritage Resources Survey
+  | designated_other1_color = #A8EDEF
+  | designated_other1_abbr = AHRS
+  | designated_other1_number = SEW-412
+  | designated_other1_num_position = bottom 
+}}
+
+The '''Indian Valley Mine''' is a historic [[quartz]] mine located at 27301 [[Seward Highway]] (mile marker 104) within the community of [[Indian, Anchorage|Indian]] in the [[Anchorage, Alaska|Municipality of Anchorage]], [[Alaska]], between the main area of Anchorage and the city of [[Seward, Alaska|Seward]] on the north shore of [[Turnagain Arm]].<ref>{{cite web|url=http://www.indianvalleymine.com/|title=Indian Valley Mine|website=indianvalleymine.com|publisher=Indian Valley Mine|accessdate=17 Dec 2014}}</ref>  The quartz vein was discovered in 1910 by Peter Strong, who had come to Alaska in 1898 during the [[Klondike Gold Rush]], and had previously staked a small gold claim in the area. Strong worked this claim through the 1920s and 1930s, building a cabin and an assay house that are the oldest known buildings in the Turnagain Arm region.<ref>{{cite web|url=http://www.indianvalleymine.com/mine_history.html|title=Mine history|website=indianvalleymine.com|publisher=Indian Valley Mine|accessdate=17 Dec 2014|archive-url=https://web.archive.org/web/20141217162041/http://www.indianvalleymine.com/mine_history.html|archive-date=17 December 2014|url-status=dead}}</ref>
+
+The mine was listed on the [[National Register of Historic Places]] in 1989.<ref name="nris"/> It now a tourist attraction that is open seven days a week during the summer season (mid-May to mid-September).<ref>{{cite web|url=http://indianvalleymine.com/contact/|title=Contact|website=indianvalleymine.com|publisher=Indian Valley Mine|accessdate=10 Nov 2015}}</ref>
+
+==See also==
+* [[Indian, Anchorage]]
+* [[National Register of Historic Places listings in Anchorage, Alaska]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.indianvalleymine.com Indian Valley Mine] (official website)
+* [https://www.facebook.com/pages/Indian-Valley-Mine-Gifts/86778674383 Indian Valley Mine] ([[Facebook]] page)
+
+{{NRHP in Alaska by borough and census area}}
+{{National Register of Historic Places}}
+
+[[Category:Buildings and structures completed in 1920]]
+[[Category:Gold mining in Alaska]]
+[[Category:Historic districts on the National Register of Historic Places in Alaska]]
+[[Category:Industrial buildings and structures on the National Register of Historic Places in Alaska]]
+[[Category:Mining in Alaska]]
+[[Category:Buildings and structures on the National Register of Historic Places in Anchorage, Alaska]]
+
+
+{{Alaska-NRHP-stub}}
+{{Alaska-struct-stub}}
+{{AnchorageAK-geo-stub}}
+{{Mining-stub}}

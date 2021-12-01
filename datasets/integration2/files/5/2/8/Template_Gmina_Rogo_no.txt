@@ -1,0 +1,47 @@
+{{Navbox
+|name=Gmina Rogoźno
+|state = {{{state|uncollapsed}}}
+|title=[[Gmina Rogoźno]]
+|listclass = hlist
+|image=[[Image:POL Rogoźno COA.svg|50px]]
+|group1=Town and seat
+|list1=
+* [[Rogoźno]]
+|group2=Villages
+|list2=
+* [[Budziszewko]] 
+* [[Cieśle, Oborniki County|Cieśle]] 
+* [[Drzonek, Oborniki County|Drzonek]] 
+* [[Dziewcza Struga]] 
+* [[Garbatka, Greater Poland Voivodeship|Garbatka]] 
+* [[Gościejewo, Greater Poland Voivodeship|Gościejewo]] 
+* [[Grudna, Oborniki County|Grudna]] 
+* [[Jaracz, Greater Poland Voivodeship|Jaracz]] 
+* [[Józefinowo, Oborniki County|Józefinowo]] 
+* [[Karolewo, Oborniki County|Karolewo]] 
+* [[Kaziopole]] 
+* [[Laskowo, Oborniki County|Laskowo]] 
+* [[Marlewo]] 
+* [[Międzylesie, Oborniki County|Międzylesie]] 
+* [[Nienawiszcz]] 
+* [[Nowy Młyn, Oborniki County|Nowy Młyn]] 
+* [[Olszyna, Oborniki County|Olszyna]] 
+* [[Owczegłowy]] 
+* [[Owieczki, Oborniki County|Owieczki]] 
+* [[Parkowo]] 
+* [[Pruśce]] 
+* [[Ruda, Oborniki County|Ruda]] 
+* [[Sierniki, Oborniki County|Sierniki]] 
+* [[Słomowo, Oborniki County|Słomowo]] 
+* [[Stare, Oborniki County|Stare]] 
+* [[Studzieniec, Oborniki County|Studzieniec]] 
+* [[Szczytno, Greater Poland Voivodeship|Szczytno]] 
+* [[Tarnowo, Oborniki County|Tarnowo]] 
+* [[Wełna, Greater Poland Voivodeship|Wełna]] 
+* [[Wojciechowo, Oborniki County|Wojciechowo]] 
+* [[Żołędzin]]
+}}<noinclude>
+{{collapsible option}}
+
+[[Category:Greater Poland Voivodeship gmina templates|Rogozno]]
+</noinclude>

@@ -1,0 +1,24 @@
+{{Infobox Organization
+|image        = Logo-CGIAR-Water,Land and Ecosystems.jpg
+|formation    = 2011
+|parent_organization =[[Consultative Group on International Agricultural Research]]
+|website = http://wle.cgiar.org/
+}}
+
+'''Water, Land and Ecosystems''' is one of several new research programmes approved by the [[CGIAR]] during 2011<ref>Vivienne Raper, [http://www.scidev.net/en/news/cgiar-announces-next-batch-of-research-programmes.html CGIAR announces next batch of research programmes], ''SciDevNet'', 21 July 2011</ref> after an extensive period of consultation that began in 2009. This research programme will draw on the resources of 14 [[CGIAR]] and numerous external partners to provide a more integrated approach to research into managing natural resources. The aim of the research programme is to increase agricultural productivity while protecting the environment, so [[food security]] is ensured for most of humanity and that [[poverty]] becomes history. The five main strands to the programme are: [[River basins]]; Irrigation systems; Information systems; Resource reuse and recovery; and [[Rainfed agriculture]] systems. 
+
+A report released by [[UNEP]] and the [[International Water Management Institute]] (IWMI – which comes under the [[CGIAR]] umbrella and will be a major contributor to the new research programme), exemplifies the concept of conducting [[agriculture]] within healthy [[ecosystems]]. Current farming methods have resulted in over-stretched water resources, high levels of erosion and reduced [[soil fertility]]. According to the report,<ref>Boelee, E. (Ed) [http://www.iwmi.cgiar.org/topics/ecosystems/ Ecosystems for water and food security], 2011, [[IWMI]], [[UNEP]]</ref> there is not enough water to continue farming using current practices; therefore how we use critical water, land, and ecosystem resources to boost crop yields must be reconsidered. The report suggested that we need to assign value to ecosystems, recognize environmental and livelihood tradeoffs, and balance the rights of a variety of users and interests. We would also need to address inequities that result when such measures are adopted, such as the reallocation of water from poor to rich, the clearing of land to make way for more productive farmland, or the preservation of a wetland system that limits fishing rights.<ref>Molden, D., [http://www.iwmi.cgiar.org/news_room/pdf/The-scientist_com-Opinion_The%20Water_Deficit.pdf Opinion: The Water Deficit], ''The Scientist'', 23 August 2011</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.iwmi.cgiar.org/]
+* [http://www.cgiar.org/]
+
+<!--- Categories --->
+
+[[Category:Agricultural research]]
+[[Category:Natural resources]]
+[[Category:Research projects]]
+[[Category:Water]]

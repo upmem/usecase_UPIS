@@ -1,0 +1,100 @@
+{{short description|Mexican racewalker}}
+{{Infobox sportsperson
+|headercolor      = lightblue
+|name             = Hernán Andrade
+|image            = <!-- name.jpg -->
+|image_size       = <!--Only for images narrower than 220 pixels.-->
+|caption          = 
+|birth_name       = 
+|fullname         = Hernán Andrade Yañez 
+|nationality      = 
+|residence        = 
+|birth_date       = {{birth date and age|1960|11|01}}
+|birth_place      = 
+|death_date       = 
+|death_place      = 
+|height           = {{convert|1.68|m|abbr=on}}
+|weight           = {{convert|55|kg|abbr=on}}  
+|country          = {{MEX}}
+|sport            = [[Track and field athletics|Athletics]]
+|event            = [[Racewalking]]
+|show-medals      = 
+|updated          = 25 July 2013
+|medaltemplates   = 
+}}
+{{family name hatnote|Andrade|Yañez|lang=Spanish}}
+'''Hernán Andrade Yañez''' (born November 1, 1960) is a retired [[racewalker]] from [[Mexico]].
+
+He competed, but was disqualified, in the 50 kilometres races at the [[1987 IAAF World Race Walking Cup|1987 World Race Walking Cup]] [[Athletics at the 1988 Summer Olympics - Men's 50 km walk|1988 Olympic Games]]. He competed at the [[1991 IAAF World Race Walking Cup|1991 World Race Walking Cup]], but did not finish.
+
+He set his personal best (3:49:38) in the men's 50&nbsp;km walk event in 1988.
+
+Competitions :
+
+World Cup Race Walking in San Jose California 1991
+
+Olympic Games South Korea 1988
+
+Panamerican Race Walking Cup Mar de Plata, Argentina 1988
+
+Panamerican Race Walking Cup Bucaramanga, Colombia 1984
+
+Track and Field Centro American Games Havana, Cuba 1982
+
+Semana Internacional de Caminata second place 50k 1987
+
+Semana Internacional de Caminata Best Personal Time 3:48:34 1988 D.F México
+
+Andrade is currently living in Quintana Roo, as a tourism promoter
+
+==Personal bests==
+*50&nbsp;km: '''3:49:38 hrs''' – {{flagicon|MEX}} [[Mexico City|Ciudad de México]], 3 April 1988
+
+==Achievements==
+{| {{AchievementTable|Event=yes|class=wikitable style="text-align:center; font-size: 90%;}}
+|-
+!bgcolor="#eeeeee" colspan="6"|Representing {{MEX}}
+|-
+|1984
+|[[1984 Pan American Race Walking Cup|Pan American Race Walking Cup]]
+|[[Bucaramanga]], [[Colombia]]
+|&mdash;
+|50&nbsp;km
+|DQ
+|-
+|rowspan=2|1988
+|[[Athletics at the 1988 Summer Olympics|Olympic Games]]
+|[[Seoul]], [[South Korea]]
+|&mdash;
+|[[Athletics at the 1988 Summer Olympics – Men's 50 km walk|50 km]]
+|DQ
+|-
+|[[1988 Pan American Race Walking Cup|Pan American Race Walking Cup]]
+|[[Mar del Plata]], [[Argentina]]
+|&mdash;
+|50&nbsp;km
+|DQ
+|-
+| 1990
+|[[1990 Pan American Race Walking Cup|Pan American Race Walking Cup]]
+|[[Xalapa]], [[Mexico|México]]
+| &mdash; 
+|50&nbsp;km
+|DNF
+|}
+
+==References==
+* {{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/an/hernan-andrade-1.html |title=Hernán Andrade |archive-url=https://web.archive.org/web/20091130070853/http://www.sports-reference.com/olympics/athletes/an/hernan-andrade-1.html |archive-date=2009-11-30 |url-status=dead}}
+* [https://web.archive.org/web/20091006132922/http://www.iaaf.org/mm/document/competitions/competition/cheboksary2008factsfigures_2481.pdf IAAF Fact & Figures]
+
+{{authority control}}
+
+{{DEFAULTSORT:Andrade, Hernan}}
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:Mexican male racewalkers]]
+[[Category:Athletes (track and field) at the 1988 Summer Olympics]]
+[[Category:Olympic athletes of Mexico]]
+
+
+{{Mexico-athletics-bio-stub}}

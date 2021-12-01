@@ -1,0 +1,13 @@
+==Summary==
+{{Non-free use rationale title-card
+| Article  = I Am a Singer (season 4)
+| Use      = Infobox
+| Used for = [[I Am a Singer (season 4)]]
+| Owner    = [[Hunan Television]]
+| Source   = 
+}}
+
+Rationale: To identify the subject of an article.
+
+==Licensing==
+{{Non-free television screenshot|image has rationale=yes}}

@@ -1,0 +1,71 @@
+{{Short description|Copenhagen metro station}}
+{{Infobox station
+ | name = Kongens Nytorv
+ | type          = [[List of Copenhagen Metro stations|Copenhagen Metro rapid transit station]]
+ | image = København Metro 20100507 0282F (8456364388).jpg
+ | image_caption =
+ | address = Kongens Nytorv 11
+ | coordinates   = {{coord|55|40|45.6|N|12|35|6.6|E|region:DK|display=inline,title}}
+| map_type = Denmark Copenhagen
+ | map_alt  = 
+ | map_caption = Location within Copenhagen
+ | line = 
+ | structure =
+ | platform = 2 [[island platform]]
+ | depth =
+ | levels =
+ | tracks = 4
+ | parking =
+ | bicycle = Yes
+ | opened = 19 October 2002
+ | closed        =
+ | rebuilt       =
+ | electrified   =
+ | ADA           = yes
+ | code          =
+ | owned         = Metroselskabet
+ | zone          = 1
+ | former        =
+ | passengers    =
+ | pass_year     =
+ | pass_percent  =
+ | pass_system   =
+ | mpassengers   =
+ | services      = 
+ | map_locator   =
+}}
+'''Kongens Nytorv''' ({{IPA-da|ˈkʰʌŋŋ̍s ˈnyˌtsʰɒˀw}}, lit. ''King's New Square'') is a [[Copenhagen Metro]] station located at [[Kongens Nytorv]] in downtown [[Copenhagen]], [[Denmark]]. The station is located at the intersection of the M1/M2 and [[City Circle Line|M3/M4]] lines and is in fare zone 1. The station affords direct access to the [[Magasin du Nord]] department store.
+
+==History==
+Kongens Nytorv station opened as part of the initial segment of the Copenhagen Metro, with trains running west to Nørreport and east to either Vestamager or [[Lergravsparken Station|Lergravsparken]]. Construction for the City Circle Line, which is carry the M3 and M4 Lines and for which Kongens Nytorv is acting as an interchange, began on 4 October 2009 with wire work and archaeological sites. The excavation is expected to begin in mid-2011 and the station was opened on 29 September 2019.
+
+==Station layout==
+[[File:Kongens Nytorv Station under jorden.JPG|thumb|left|160px|The escalators]] 
+Kongens Nytorv is built and designed in the same style as other underground stations on the Copenhagen Metro. There are two main levels below ground level; the first is a few steps down from the street. At this level, passengers take an escalator down to a mezzanine switchback that makes them turn around and go down another escalator to reach platform level. There is also a lift that transports passengers to the platform. There are two entrances to the station as well: the southwestern corner of the intersection of Kongens Nytorv, Lille Kongensgade, Holmens Kanal, and Store Kongensgade and the other inside the Magasin du Nord department store.
+
+==Service==
+Currently, both Copenhagen Metro lines, the [[M1 (Copenhagen)|M1]] and the [[M2 (Copenhagen)|M2]], serve Kongens Nytorv. Both operate westbound towards [[Vanløse station|Vanløse]] and eastbound towards [[Vestamager station|Vestamager]] on the M1 and [[Lufthavnen station|Lufthavnen]] on the M2. When the [[City Circle Line]] and [[M4 (Copenhagen)|M4]] was completed on 29 September 2019 and 28 March 2020, Kongens Nytorv acting as a connection between the existing metro lines and the M3 and M4 lines.
+
+
+{{s-start}}
+{{s-rail|title=CMT}}
+{{s-line|system=CML|line=M1|previous=Nørreport|next=Christianshavn|rows1=2}}
+{{s-line|system=CML|line=M2|next=Christianshavn|hide1=yes}}
+{{s-line|system=CML|line=M3|previous=Gammel Strand|next=Marmorkirken|type=København H|type2=Østerport}}
+{{s-line|system=CML|line=M4|previous=Gammel Strand|next=Marmorkirken|type=KH}}
+{{s-end}}
+
+==See also==
+* [[Kongens Nytorv]]
+
+==External links==
+{{commons category}}
+*[http://m.dk/stations/stationer/kongens+nytorv Kongens Nytorv station on www.m.dk]{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }} {{in lang|da}}
+*[https://web.archive.org/web/20170411112908/http://intl.m.dk/stations/stationer/kongens+nytorv Kongens Nytorv station on www.m.dk] {{in lang|en}}
+
+{{Copenhagen Metro}}
+
+[[Category:Copenhagen Metro stations]]
+[[Category:Railway stations opened in 2002]]
+[[Category:2002 establishments in Denmark]]
+[[Category:Railway stations located underground in Denmark]]

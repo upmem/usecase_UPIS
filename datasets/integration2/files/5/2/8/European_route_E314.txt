@@ -1,0 +1,74 @@
+{{short description|Road in Europe}}
+{{Infobox road
+| country = EUR
+| type    = E
+| route   = 314
+| length_km = 125
+| direction_a = 
+| terminus_a =  [[Leuven]] ([[Belgium]])
+| junction   = 
+| direction_b = 
+| terminus_b = [[Aachen]] ([[Germany]])
+| countries  = [[Belgium]], [[Netherlands]], [[Germany]]
+}}
+
+[[Image:Ecoducthogekempen.jpg|right|265px|thumb|The Kikbeek [[Wildlife crossing|Ecoduct]] (wild life crossing point) near [[Genk]] was opened to animals in 2005.]]
+The '''European route E&nbsp;314''' is a road in [[Europe]] and a part of the [[United Nations]] [[International E-road network]].  Approximately {{convert|125|km|mi|sp=us}} long, it connects the [[Belgium|Belgian]] university city of [[Leuven]] with [[Aachen]], [[Charlemagne|Charlemagne's]] capital during the early ninth century, and today a bustling commercial centre in [[Germany|Germany's]] [[North Rhine-Westphalia]].
+
+==Three Nations==
+For most of its length the E&nbsp;314 is in Belgium where it tracks the [[A2 motorway (Belgium)|A2]].   It then crosses briefly into [[Limburg (Netherlands)|Dutch Limburg]], the most southerly province of [[The Netherlands]] before an even briefer stretch between the Dutch-German frontier and Aachen:  the German section tracks the start of the [[Bundesautobahn 4|Autobahn A&nbsp;4]], which continues beyond Aachen all the way to [[Görlitz]].
+
+In Belgium the road is of standard autoroute quality with two lanes in each direction.   The Dutch section includes a short six lane section but also the only part of the E&nbsp;314 of sub-autoroute quality, though even here the road uses a dual carriageway lay-out.
+
+==Highlights of the route==
+[[Image:Knooppunt Kerensheide.jpg|right|265px|thumb|The junction with the north-south A2 Highway (here doubling with the [[European route E25|E&nbsp;25]]) connecting [[Maastricht]] with [[Amsterdam]] is a [[cloverleaf junction]].]] Between the end points, the road also serves the industrial city of [[Genk]] where [[Ford Motor Company|Ford]] once built their [[Ford Mondeo|Mondeo]] model.   The Belgian section continues through the [[Hoge Kempen National Park]]:  in 2005 the Kikbeek [[Wildlife crossing|Ecoduct]] was opened here, whereby the road runs through a short tunnel section above which wild life has space to cross the road in relative safety.
+
+The Dutch section is noteworthy for the sight of a large chemical plant shortly after crossing the frontier from Belgium.   In the Netherlands, near to [[Heerlen]], the E&nbsp;414 also crosses the Dutch [[A2 motorway (Netherlands)|A2 Highway]], a major artery of the Dutch roadway network, connecting nearby [[Maastricht]] with the heart of the country and [[Amsterdam]].
+
+==Language changes==
+The area covered by this road has historically been at the border of three different linguistic regions.  Place names on the E&nbsp;314 will be known to English speakers by different names according to when it was adopted into English language. Most known at the eastern end of the road is [[Aachen]] still known to English speakers (and in their nineteenth century literature)  by its French name as "Aix" or "Aix-la-Chapelle", while road signs in Belgian Limburg eventually still mention the Dutch name "Aken".
+
+At the western end of the road [[Leuven]] is located in the Dutch speaking region, although in foreign (French, English, German ...) maps or literature "Louvain" (which has never been the city's official name) may still appear.
+
+==The route==
+{| class="wikitable"
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''<big>E&nbsp;314 </big>      Leuven (Louvain) - Aachen (Aken, Aix la Chapelle)'''
+|- bgcolor="#FFDEAD"
+! width="10%"|
+! width="12%"|
+! width="26%"|
+! width="38%"|
+! width="14%"|
+|- bgcolor="#EEEEEE"
+|align="center"|<big>'''State'''</big>||align="center"|'''National <br>Road<br> Number'''||align="center"|<big>'''Section'''</big>||align="center"|<big>'''Junction'''</big> <br>(national numbering)||align="center"|''' [[International E-road network|Pan European]] road connections'''
+|- bgcolor="#FFDEAD"
+|[[Image:Flag of Europe.svg|25px]] [[Image:Flag of Belgium.svg|20px]] <br><br><small>......Province</small>|| || ||  ||
+|- bgcolor="#EEEEEE"
+|align="right"|<small>[[Flemish Brabant|Brabant (Flemish)]]<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>[[Limburg (Belgium)|Limburg]]<br><br><br><br><br><br></small>||[[Image:Italian traffic signs - autostrada.svg|24px|autostrada]] [[A2 motorway (Belgium)|A2]] ||[[Leuven]] - [[Lummen]] ||A 2 [[Image:AB-Vzw.svg|15px]]  [[Image:Tabliczka E40.svg|25px|]] [[Heverlee]]<br> A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 15 [[Leuven]]<br>A 2 [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 16 [[Leuven|Gasthuisberg]] <br>A 2 [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 17 [[Herent|Winksele]]<br>A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 18 [[Herent]] <br>A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 19 (Exit closed)<br>A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 20 [[Wilsele]]<br>A 2 [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 21 [[Holsbeek]]<br>A 2 [[Image:Zeichen 376.svg|15px]] [[Image:Zeichen 361-50 - Tankstelle, StVO 1992.svg|15px]]  [[Rotselaar|Wezemaal]]<br>A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 22 [[Aarschot]] <br>A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 23 [[Tielt-Winge]] <br>A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 24 [[Bekkevoort]] <br>A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 25 [[Halen]] <br>A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 26 [[Lummen]] centre<br>A 2 [[Image:Sinnbild Autobahnkreuz.svg|15px]]    [[Image:Tabliczka E313.svg|25px|]] [[Lummen]] ||[[European route E40|E&nbsp;40]] <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><small> </small><br>[[European route E313|E&nbsp;313]] 
+|- bgcolor="#EEEEEE"
+|align="right"|<small>[[Limburg (Belgium)|Limburg]]</small>||[[Image:Italian traffic signs - autostrada.svg|24px|autostrada]] [[A2 motorway (Belgium)|A2]] ||[[Lummen]] - [[Maasmechelen]] || A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 27 [[Zolder-Terlaemen]]<br>A 2 [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 28 [[Heusden-Zolder|Zolder]] <br>A 2 [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 29 [[Houthalen-Helchteren]]<br>A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 30 [[Park Midden-Limburg]] <br>A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 31 [[Genk]] centre<br>A 2  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 32 [[Genk]] east<br>A 2 [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 33 [[Maasmechelen]]||
+|- bgcolor="#FFDEAD"
+|[[Image:Flag of Europe.svg|25px]] [[Image:Flag of the Netherlands.svg|25px]] <br><br><small>......Province</small>|| || ||  ||
+|- bgcolor="#EEEEEE"
+|align="right"|<small>[[Limburg (Netherlands)|Limburg]]</small>||[[Image:Italian traffic signs - autostrada.svg|24px|autostrada]] [[List of motorways in the Netherlands|A76]] ||[[Maasmechelen]] - [[:nl:Knooppunt Kerensheide|Kerensheide]] || A 76  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 1 [[Stein, Limburg|Stein]]<br>A 76 [[Image:Sinnbild Autobahnkreuz.svg|15px]] [[Image:Tabliczka E25.svg|25px|]]  [[:nl:Knooppunt Kerensheide|Kerensheide]] ||<br>[[European route E25|E&nbsp;25]] 
+|- bgcolor="#EEEEEE"
+|align="right"|<small>[[Limburg (Netherlands)|Limburg]]</small>||[[Image:Italian traffic signs - autostrada.svg|24px|autostrada]] [[List of motorways in the Netherlands|A76]] ||[[:nl:Knooppunt Kerensheide|Kerensheide]] - [[Simpelveld]] || A 76  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 2 [[Geleen]]<br>A 76  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 3 [[Spaubeek]]<br>A 76  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 4 [[Schinnen]]<br>A 76  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 5 [[Nuth]]<br>A 76 [[Image:Sinnbild Autobahnkreuz.svg|15px]] [[:nl:Knooppunt Ten Esschen|Ten Esschen]] [[Image:Pfeil oben.svg|10px]]<br>A 76  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 6 [[Voerendaal]]<br>A 76 [[Image:Sinnbild Autobahnkreuz.svg|15px]]  [[:nl:Knooppunt Kunderberg|Kunderberg]] [[Image:Pfeil unten.svg|10px]]<br>A 76  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 7 [[Simpelveld]] ||
+|- bgcolor="#EEEEEE"
+|align="right"|<small>[[Limburg (Netherlands)|Limburg]]</small>||[[Image:Italian traffic signs - strada riservata ai veicoli a motore.svg|24px|autostrada]] [[List of motorways in the Netherlands|A76]] ||[[Simpelveld]] - [[Bocholtz]] || A 76  [[Image:Sinnbild Autobahnausfahrt.svg|15px]]  [[Bocholtz]] [[Image:Pfeil unten.svg|10px]]||
+|- bgcolor="#FFDEAD"
+|[[Image:Flag of Europe.svg|25px]] [[Image:Flag of Germany.svg|29px]] <br><br><small>...District ''(Kreis)''</small>|| || ||  ||
+|- bgcolor="#EEEEEE"
+|align="right"|[[Image:Coat of arms of North Rhine-Westfalia.svg|20px]] <small> [[District of Aachen|AC]]</small>||[[Image:Italian traffic signs - autostrada.svg|24px|autostrada]] [[Bundesautobahn 4|A&nbsp;4]] ||[[Bocholtz]] - [[Aachen]] || A 4  [[Image:Sinnbild Autobahnausfahrt.svg|15px]]  [[Bocholtz]] [[Image:Pfeil oben.svg|10px]]<br>A 4  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 2  [[Aachen]]-[[Laurensberg]]<br>A 4  [[Image:Sinnbild Autobahnausfahrt.svg|15px]] 3 [[Aachen]] centre<br>A 4 [[Image:Sinnbild Autobahnkreuz.svg|15px]] 4  [[Image:Tabliczka E40.svg|25px|]]  Kreuz [[Aachen]]||<br><br><br><br><br>[[European route E40|E&nbsp;40]] 
+|- bgcolor="#FFDEAD"
+|-
+|}
+
+
+{{E-road}}
+
+{{DEFAULTSORT:European Route E314}}
+[[Category:International E-road network|399314]]
+[[Category:Roads in Belgium|E314]]
+[[Category:European routes in the Netherlands|E314]]
+[[Category:Roads in North Rhine-Westphalia|E314]]

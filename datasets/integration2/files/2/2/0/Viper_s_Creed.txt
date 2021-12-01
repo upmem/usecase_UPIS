@@ -1,0 +1,111 @@
+{{Infobox animanga/Header
+| name            = Viper's Creed
+| image           = Viper's Creed Title.jpg
+| image_size      = 230px
+| caption         = ''Viper's Creed'' title card
+| ja_kanji        = ヴァイパーズ・クリード 
+| ja_romaji       = Vaipāzu Kurīdo
+| genre           = 
+| creator         = [[Sony Pictures Entertainment Japan]]<br/>[[Anime International Company|AIC Spirits]]<br/>[[Digital Frontier]]
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| director        = [[Shinji Aramaki]] <small>({{tooltip|Chief|Chief director}})</small><br>[[Hiroyuki Kanbe|Hiroyuki]] [[:ja:神戸洋行|Kanbe]]
+| producer        = Tooru Miura<br/>Hidenori Ueki
+| writer          = Masanao Akahoshi
+| music           = Tetsuya Takahashi<br/>Naoyuki Horiuchi<br/>Rinka<br/>Shōgo Ōnishi
+| studio          = AIC Spirits<br/>Digital Frontier
+| licensee        = {{English anime licensee|NA=[[Sony Pictures Television|Sony Pictures Television International]]}}
+| network         = [[Animax]], [[Nippon BS Broadcasting|BS11]]
+| network_en      = {{English anime network|US=[[G4 (U.S. TV channel)|G4]]}}
+| first           = January 6, 2009
+| last            = March 24, 2009
+| episode_list    = List of Viper's Creed episodes
+| episodes        = 12
+}}
+{{Infobox animanga/Footer}}
+
+{{nihongo|'''Viper's Creed'''|ヴァイパーズ・クリード|Vaipāzu Kurīdo}} is a [[mecha]] [[Action (fiction)|action]] anime series created by [[Sony Pictures Entertainment Japan]]<ref name="Schedule"/> with animation by [[Anime International Company|AIC Spirits]] and [[Digital Frontier]].<ref name="News">{{cite web|url=http://www.animenewsnetwork.com/news/2008-11-14/viper-creed-sci-fi-anime-pilot-footage-streamed|title=Viper's Creed Sci-Fi Anime's Pilot Footage Streamed (Updated)|date=2008-11-14|accessdate=2009-02-27|publisher=[[Anime News Network]]}}</ref> Though [[Hiroyuki Kanbe|Hiroyuki]] [[:ja:神戸洋行|Kanbe]] is the main director of the show,<ref name="BS11">{{cite web|url=http://www.bs11.jp/anime/374/|title=Staff/Cast Section, Official BS11 Viper's Creed Page|accessdate=2009-07-08|language=Japanese}}</ref> [[Shinji Aramaki]] is solely responsible for the creation and conception of the show.<ref name="News"/><ref name="BS11"/>  G4 aired the show in the United States, but later pulled it from the schedule after only four episodes.{{citation needed|date=February 2013}}<ref>The appearance of Viper's Creed on G4 follows the North American television debut of Marvel Anime.</ref>
+
+==Plot==
+With most of the Earth's cities underwater due to the [[Global warming|onset of global warming]] followed by a [[World war|third world war]] which brought calamity and turmoil to the people, [[Private military company|various PMCs]] are one of the few remaining organizations able to [[Law enforcement agency powers|provide law enforcement]] and [[Self-defense|self-defense protection]] for cities that are trying to rebuild again from the war and the floods.<ref>{{cite web|archiveurl=https://web.archive.org/web/20081201125601/http://www.animax.co.jp/10th/special/vc.php|archivedate=December 1, 2008|url=http://www.animax.co.jp/10th/special/vc.php|title=Official Animax Japan Viper's Creed summary|accessdate=2015-11-20|language=Japanese}}</ref> One of the PMCs [[Law enforcement agency powers|providing law enforcement]] is the Arqon Global Security corporation, responsible for protecting Fort Daiva City from terrorism, armed crimes, and renegade unmanned machines called Bug Mechs,<ref>{{cite web|url=http://www.animax.co.jp/feature/index.php?program=NN10000760|title=Official Animax Japan Viper's Creed Features Page|language=Japanese|accessdate=2009-02-27|publisher=[[Animax]]}}</ref> by deploying its elite military unit called Viper{{ref||Ep 02}} led by its operatives called Blademen.{{ref|E01|Ep 01}}
+
+==Mecha==
+
+===Maneuver Blades===
+Maneuver Blades are humanoid mecha used by Blademen that are capable of transforming into motorcycles. These mecha are primarily armed with an assault rifle, a rocket launcher in each shoulder, and a 6-tube missile pod on the left shoulder. While in motorcycle form they can easily reach speeds over 80 kilometers an hour. Most maneuver blades are equipped with a secondary weapon depending on the combat tactics of the pilot including a grenade launcher attachment to the assault rifle, heat chainsaw, a gatling gun, or a sniper rifle. The head of the mecha also serves as cameras with highly detailed targeting scanners.
+
+===Bug Mechs===
+Bug Mechs are unmanned mecha based after insects that were used as autonomous war machines during the great war. However, due to their AI they became unable to differentiate between friend and foe and became very difficult to be reprogrammed. The bug mechs are usually armed with gatling guns and homing mines called Spider Mines or "Ticker Bombs" in which they use their spider-like legs to attach to enemies before exploding. As demonstrated in episodes 2 and 11, bug mechs are very versatile and can easily move around in dark and underground environments. Five types of bug mechs were used during the events of the series and with the exception of the sputnik every bug mech returns in the final episode by the military.
+
+*'''Mega Soma''': Armed with twin gatling guns, ticker bombs, spider mines, and spear legs.
+*'''Gelus''': Armed with twin gatling guns.
+*'''Sputnik''': Armed with twin gatling guns and spear legs.
+*'''Acromantis''': Armed with scythe arms, gatling gun, and spider mines.
+*'''Mobilius''': Armed with spider mines, back missile pod, a left arm machine gun, and a right arm claw.
+
+==Production==
+News of Viper's Creed went on the internet when screenplay writer Ai Ōta announced on her official blog that [[Shinji Aramaki]] would be involved in the creation of the show.<ref>{{cite web|url=http://ameblo.jp/gralphan3/entry-10150135267.html|script-title=ja:オンエア予定|date=2008-10-11|accessdate=2009-02-27|language=Japanese}}</ref><ref name="Blog">{{cite web|url=http://www.animenewsnetwork.com/news/2008-10-31/appleseed-aramaki-to-direct-vipers-creed-in-january|title=Appleseed's Aramaki to Direct Viper's Creed in January|date=2008-10-31|accessdate=2009-02-27|publisher=[[Anime News Network]]}}</ref> An announcement was then circulated on November 11, 2008 that [[Hiroyuki Kanbe|Hiroyuki]] [[:ja:神戸洋行|Kanbe]] would direct Viper's Creed with [[Shinji Aramaki]] being named as the main chief director to work on the show.<ref name="News"/><ref>{{cite web|url=http://www.saiani.net/article/109679175.html|title=『VIPER'S CREED』製作発表会の模様をストリーミング配信|accessdate=2009-02-27|date=2008-11-14|language=Japanese|archive-url=https://web.archive.org/web/20090328100610/http://www.saiani.net/article/109679175.html|archive-date=2009-03-28|url-status=dead}}</ref> The roles of Saiki Cryde and Kariya Sakurako were given to voice actors [[Takaya Kuroda]] and [[Megumi Toyoguchi]].<ref>{{cite web|url=http://www.zakzak.co.jp/anime/news/0812/081205-002.html|title=ヒロインに豊口めぐみ、総監督に荒牧伸志！ 『VIPER'S CREED』制作記者会見|accessdate=2009-02-27|date=2008-12-05|language=Japanese|archive-url=https://web.archive.org/web/20090328095420/http://www.zakzak.co.jp/anime/news/0812/081205-002.html|archive-date=2009-03-28|url-status=dead}}</ref><ref>{{cite web|url=http://www.sonypictures.jp/blogs/sonypicturesplus/2008/11/vipers_creed.php|title=「VIPER'S CREED」製作発表記者会見開催！|date=2008-11-10|accessdate=2009-02-27|language=Japanese|publisher=[[Sony Pictures Entertainment|Sony Pictures Japan]]}}</ref>
+
+A special advance screening was shown on [[Animax]] on December 30, 2008 at 11:30 PM.<ref name="Blog"/><ref name="Animax Schedule">{{cite web|url=http://www.animax.co.jp/program/index.php?target_year=2008&target_month=12&target_day=30|title=Animax Japan TV Schedule for December 30, 2008|accessdate=2009-02-27|publisher=[[Animax]]|language=Japanese}}</ref> ''Viper's Creed'' was subsequently broadcast on [[Animax]] and [[Nippon BS Broadcasting|BS11]] channels, the former being the first to air it on January 6, 2009 at 10:00 PM before BS11 aired it on its channel on January 10, 2009 at 11:30 PM.<ref name="Schedule">{{cite web|url=http://www.anitsu.co.jp/newanime/newanime0901/viperscreed.html|title=VIPER'S CREED-ヴァイパーズ・クリード-|accessdate=2009-02-27|language=Japanese|archive-url=https://web.archive.org/web/20090225065543/http://anitsu.co.jp/newanime/newanime0901/viperscreed.html|archive-date=2009-02-25|url-status=dead}}</ref> The opening song is called ''R.O.C.K.'' by iLL<ref>{{cite web|url=http://music.goo.ne.jp/cd/CDDORID800444-1/index.html|title=R.O.C.K. - iLL|accessdate=2009-02-27|language=Japanese|archive-url=https://web.archive.org/web/20090817222744/http://music.goo.ne.jp/cd/CDDORID800444-1/index.html|archive-date=2009-08-17|url-status=dead}}</ref> with a  CD single released on January 28, 2009<ref>{{cite web|url=http://www.illtheworld.jp/disco/|title=Official iLL Discography|language=Japanese|accessdate=2009-02-27}}</ref> while the ending song ''Ai no Oto'' is sung in English by moumoon.<ref>{{cite web|url=http://www.sonypictures.jp/corp/pr/20081110_1.html|title=アニマックス開局１０周年記念作品 VIPER'S CREED 2009年1月6日（火）放送開始|accessdate=2009-02-27|language=Japanese|publisher=[[Sony Pictures Entertainment|Sony Pictures Japan]]|date=2008-11-10|archive-url=https://web.archive.org/web/20101230104332/http://www.sonypictures.jp/corp/pr/20081110_1.html|archive-date=2010-12-30|url-status=dead}}</ref> It was released as a CD single and as a CD single with a DVD on February 25, 2009.<ref>{{cite web|url=http://www.moumoon.com/discography/newrelease/index.html|title=moumoon's official new release index|language=Japanese|accessdate=2009-02-27|archive-url=https://web.archive.org/web/20090303140843/http://www.moumoon.com/discography/newrelease/index.html|archive-date=2009-03-03|url-status=dead}}</ref>
+
+An official podcast webpage dedicated to ''Viper's Creed'' was subsequently established.<ref>{{cite web|url=http://viperscreed.jp/podcast/index.html|title=Official Viper's Creed podcast page|accessdate=2009-02-27|language=Japanese}}</ref>
+
+==Media==
+
+===DVD===
+
+Region 2 DVDs of ''Viper's Creed'' have been released in Japan with 3 episodes each. As of October 2009, Volume 1 was released on August 5, 2009<ref>{{cite web|url=https://www.amazon.co.jp/gp/product/B00201F7NW/ |title=Amazon Japan's Viper's Creed DVD: Volume 1 Page|accessdate=2009-10-16|language=Japanese|publisher=[[Amazon.com]]}}</ref> with Volume 2 released on September 2, 2009.<ref>{{cite web|url=https://www.amazon.co.jp/dp/B002DKMS2S/ |title=Amazon Japan's Viper's Creed DVD: Volume 2 Page|accessdate=2009-10-16|language=Japanese|publisher=[[Amazon.com|Amazon Japan]]}}</ref> Volume 3 was released on October 7, 2009.<ref>{{cite web|url=https://www.amazon.co.jp/dp/B002GK6B5K/ |title=Amazon Japan's Viper Creed: Volume 3 Page|accessdate=2009-10-16|language=Japanese|publisher=[[Amazon.com|Amazon Japan]]}}</ref>
+
+In 2018, [[Mill Creek Entertainment]] released the complete series in Region 1 as part of their ''Anime 3-Series Collection'' along with [[Kurozuka (novel)|Kurozuka]] and [[Ultraviolet: Code 044]].<ref name="https://www.millcreekent.com/anime-3-series-collection.html">{{cite web|title=ANIME 3 SERIES COLLECTION|url=https://www.millcreekent.com/anime-3-series-collection.html|website=Millcreekent.com|accessdate=16 May 2018}}</ref>
+
+==Cast==
+
+===Japanese voices=== 
+* [[Shinji Kawada]] as Rudra Schenkel
+* [[Megumi Toyoguchi]] as Sakurako Kariya
+* [[Takaya Kuroda]] as Saiki Creed
+* [[Yuki Kaida]] as Isp. Theresia Strauss
+* [[Junko Minagawa]] as Norma
+* [[Jun Fukuyama]] as Haruki Oguma
+* [[Sachiko Kojima]] as Maika
+* [[Tamio Ohki]] as Fuyuhiko
+* [[Hiroshi Yanaka]] as Chief Supervisor Walter
+
+===English voices===
+* [[Brendan Hunter]]&nbsp;– Rudra 
+* [[Carol-Anne Day]]&nbsp;– Sakurako
+* [[Jonathan Love]]&nbsp;– Saiki
+* [[Onalea Gilbertson]]&nbsp;– Thelesia 
+* [[Meredith Taylor-Parry]]&nbsp;– Norma
+* [[Richard Meen]]&nbsp;– Ulla Chiaki
+* [[Scott Roberts (voice actor)|Scott Roberts]]&nbsp;– Haruki
+* [[Tony Valdez]]&nbsp;– Chief Supervisor Walter
+
+==References==
+{{reflist}}
+
+===Episodes===
+{{refbegin}}
+
+*{{Note|E01}}{{cite episode | title = dokugan -cyclops- | episodelink = List of Viper's Creed episodes#ep01 | series = Viper's Creed | network = [[Animax]] and BS11 | airdate = January 6, 2009 | seriesno = 1 | number = 1}}
+*{{Note|E02}}{{cite episode | title = shin hei -unknown- | episodelink = List of Viper's Creed episodes#ep02 | series = Viper's Creed | network = [[Animax]] and BS11 | airdate = January 13, 2009 | seriesno = 1 | number = 2}}
+
+{{refend}}
+
+==External links==
+* [http://www.bs11.jp/anime/374/ Official BS11 Site] {{in lang|ja}}
+* [http://blog.livedoor.jp/viperscreed/ Official Blog] {{in lang|ja}}
+* {{ann|anime|10351}}
+
+{{Anime International Company}}
+{{Animax}}
+
+[[Category:2009 anime television series]]
+[[Category:Animax]]
+[[Category:Anime International Company]]
+[[Category:Anime with original screenplays]]
+[[Category:Cyberpunk anime and manga]]
+[[Category:Mecha anime and manga]]
+[[Category:Post-apocalyptic anime and manga]]
+[[Category:Science fiction anime and manga]]

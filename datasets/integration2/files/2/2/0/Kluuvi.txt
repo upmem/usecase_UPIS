@@ -1,0 +1,66 @@
+{{Unreferenced|date=May 2019|bot=noref (GreenC bot)}}
+{{Infobox settlement
+| name = {{lang|fi|Kluuvi}}
+| other_name = {{lang|sv|Gloet}}
+| settlement_type = [[Subdivisions of Helsinki|Helsinki Subdivision]]
+| image_skyline= Visit-suomi-2009-05-by-RalfR-256.jpg
+| image_caption = Kaivokatu at Kluuvi
+| image_map = Helsinki_districts-Kluuvi.png
+| map_caption =  Position of Kluuvi within Helsinki
+| subdivision_type = Country
+| subdivision_name = {{flag|Finland}}
+| subdivision_type1 = [[Regions of Finland|Region]]
+| subdivision_name1 = [[Uusimaa]]
+| subdivision_type2 = [[Sub-regions of Finland|Sub-region]]
+| subdivision_name2 = [[Greater Helsinki]]
+| subdivision_type3 = Municipality
+| subdivision_name3 = [[Helsinki]]
+| subdivision_type4 = District
+| subdivision_name4 = Southern
+| parts_type = Subdivision regions
+| parts_style = para
+| p1 = none
+| total_type = &nbsp;
+| area_total_km2 = 0.93
+| population_total = 391 
+| population_as_of = 2003
+| population_footnotes = 
+| population_density_km2 = 420
+| postal_code_type = [[Postal codes in Finland|Postal codes]]
+| postal_code = 00100
+| blank_name_sec1 = Subdivision number
+| blank_info_sec1 = 02
+| blank1_name_sec1 = Neighbouring subdivisions
+| blank1_info_sec1 = [[Kruununhaka]]<br>[[Siltasaari]]<br>[[Kaartinkaupunki]]<br>[[Kamppi]]<br>[[Etu-Töölö]]<br>[[Linjat]]
+}}
+
+'''Kluuvi''' ({{lang-sv|Gloet}}) is the commercial centre of [[Helsinki]], [[Finland]], and a [[Subdivisions of Helsinki#Neighbourhoods|neighbourhood]] in the [[Vironniemi]] [[Subdivisions of Helsinki#Districts|district]] of Helsinki. The [[Helsinki Central railway station]], [[Hotel Kämp]], the Helsinki main post office, the [[Stockmann, Helsinki centre|Stockmann]] and [[Sokos]] [[department store]]s, the [[Kluuvi shopping centre]] and the main offices of Finnish banks are located in Kluuvi. Kluuvi includes the central campus of the [[University of Helsinki]], the [[Ateneum]] art museum, and the [[movie theatre]]s Maxim, [[Kinopalatsi]] and Bristol.
+
+The neighbourhood is home to 23,000 jobs and several hundred inhabitants.
+
+The official name of the neighbourhood is very seldom used in everyday speech, Helsinkians usually refer to the area as "the centre" (''keskusta'') or "the core centre" (''ydinkeskusta'').
+
+==History==
+The [[Finnish language|Finnish]] word ''kluuvi'' and the [[Swedish language|Swedish]] word ''glo'' mean a [[gloe lake]] - a bay that is closed up or closing up. The district was originally a bay in the [[Gulf of Finland]], which eventually became swampy. The bay was filled in the middle of the 19th century. The odour of rotting [[seaweed]] and other plants can still be smelled near construction sites.
+ 
+The [[Helsinki Metro]] construction found a ''kluuvi'' in the district, when it turned out the planned site for a metro tunnel was supposed to go didn't have a solid rock base. The soft ground had to be artificially frozen before it was possible to dig through it to construct a solid base for the metro track.
+{{Gallery
+|title=Kluuvi
+|width=150
+|height=150
+|lines=4
+|File:Sanomatalo Helsinki.jpg|Sanomatalo press building houses the editorial offices of several newspapers such as [[Helsingin Sanomat]]
+|File:Stockmann department store in Helsinki at dawn in December 2004.jpg|The [[Stockmann]] department store with its Christmas decorations
+|File:Aleksi61wb.jpg|Aleksanterinkatu Christmas lighting
+|File:Edificio de Correos, Helsinki, Finlandia, 2012-08-14, DD 01.JPG|Main post office
+}}
+
+== External links ==
+{{Commons category|Kluuvi}}
+
+{{Helsinki}}
+
+{{coord|60|10|N|24|57|E|region:FI_type:city_source:GNS-enwiki|display=title}}
+
+[[Category:Kluuvi| ]]
+[[Category:Vironniemi district]]

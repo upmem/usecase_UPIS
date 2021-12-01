@@ -1,0 +1,57 @@
+{{short description|Order of microscopic, spore-forming, single-celled parasites in the apicomplex phylum}}
+{{Automatic taxobox
+| image = Toxoplasma gondii tachy.jpg
+| image_alt = "Toxoplasma gondii" tachyzoites
+| image_caption = ''[[Toxoplasma gondii]]'' [[tachyzoite]]s
+| taxon = Eucoccidiorida
+| authority = Léger & Duboscq, 1910
+| synonyms = 
+| synonyms_ref = 
+| subdivision_ranks = Suborders
+| subdivision =
+*[[Adeleorina]]
+*[[Eimeriorina]]
+}}
+
+The '''Eucoccidiorida''' are an [[Order (biology)|order]] of microscopic, spore-forming, single-celled parasites belonging to the [[apicomplexa]]n class [[Conoidasida]]. Protozoans of this order include parasites of humans, and both domesticated and wild animals including birds. Among these parasites are the ''[[Toxoplasma gondii]]'' that cause [[toxoplasmosis]] and ''[[Isospora belli]]'', which results in [[isosporiasis]].
+
+==Definition==
+This is the largest order in the class Conoidasida and contains those species that all undergo [[Protozoal merogony|merogony]] (asexual), [[gametogony]] (sexual) and [[sporogony]] (spore formation) during their lifecycles.
+
+==Genera==
+Nineteen families, three subfamilies, and 70 genera are recognised in this order.  The genera include:
+
+''[[Adelea]]'', ''[[Adelina (genus)|Adelina]]'', ''[[Aggregata]]'', ''[[Alveocystis]]'', ''[[Atoxoplasma]]'', ''[[Babesiosoma]]'', ''[[Barrouxia]]'', ''[[Bartazoon]]'', ''[[Besnoitia]]'', ''[[Calyptospora]]'', ''[[Caryospora (protozoa)|Caryospora]]'', ''[[Caryotropha]]'', ''[[Chagasella]]'', ''[[Choleoeimeria]]'', ''[[Cryptosporidium]]'', ''[[Crystallospora]]'', ''[[Cyclospora]]'', ''[[Cyrilia]]'', ''[[Cystoisospora]]'', ''[[Dactylosoma]]'', ''[[Desseria]]'', ''[[Diaspora (protozoa)|Diaspora]]'', ''[[Dorisa]]'', ''[[Dorisiella]]'', ''[[Eimeria]]'', ''[[Elleipsisoma]]'', ''[[Epieimeria]]'', ''[[Frenkelia]]'', ''[[Ganapatiella]]'', ''[[Gibbsia (apicomplexan)|Gibbsia]]'', ''[[Goussia]]'', ''[[Gousseffia]]'', ''[[Grasseella]]'', ''[[Hammondia]]'', ''[[Haemogregarina]]'', ''[[Hemolivia]]'', ''[[Hepatozoon]]'', ''[[Heydornia]]'', ''[[Hoarella]]'', ''[[Hyaloklossia]]'', ''[[Isospora]]'', ''[[Ithania (protozoa)|Ithania]]'', ''[[Karyolysus]]'', ''[[Klossia]]'',  ''[[Klossiella]]'', ''[[Lankesterella (protozoa)|Lankesterella]]'', ''[[Legerella]]'', ''[[Margolisiella]]'', ''[[Mantonella]]'', ''[[Merocystis]]'', ''[[Nephroisospora]]'', ''[[Neospora]]'', ''[[Octosporella (protozoa)|Octosporella]]'', ''[[Orcheobius]]'', ''[[Ovivora]]'', ''[[Pfeifferinella]]'', ''[[Polysporella]]'', ''[[Pseudoklossia]]'', ''[[Pythonella]]'', ''[[Rasajeyna]]'', ''[[Sarcocystis]]'', ''[[Schellackia]]'', ''[[Selenococcidium]]'', ''[[Selysina]]'', ''[[Sivatoshella]]'', ''[[Skrjabinella]]'', ''[[Spirocystis]]'', ''[[Toxoplasma]]'', ''[[Tyzzeria]]'', ''[[Wenyonella]]''
+
+Among the [[heteroxenous]] and [[cyst]]-forming genera are: ''Besnoitia'', ''Cystoisospora'', ''Frenkelia'', ''Hammondia'', ''Neospora'', ''Sarcocystis'', and ''Toxoplasma''.
+
+==Taxonomy==
+The taxonomy of this group is complex and only partly understood. Two major clades have been identified: the isosporoid coccidia (''Toxoplasma'', ''Neospora'', ''Isospora'' [in part], and ''Sarcocystis'') and a second clade containing ''Lankesterella'', ''Caryospora'' and the eimeriid coccidia (''Cyclospora'', ''Isospora'' [in part] and ''Eimeria'').<ref name=Barta2001>{{cite journal |vauthors=Barta JR, Martin DS, Carreno RA |title=Molecular phylogeny of the other tissue coccidia: Lankesterella and Caryospora |journal=J. Parasitol. |volume=87 |issue=1 |pages=121–7 |date=February 2001 |pmid=11227876 |doi=10.1645/0022-3395(2001)087[0121:MPOTOT]2.0.CO;2 |display-authors=etal}}</ref> ''Isospora'' is more closely related to the ''Toxoplasma''/''Neospora'' clade than to ''Sarcocystis''.<ref name=Carreno1998>{{cite journal |vauthors=Carreno RA, Schnitzler BE, Jeffries AC, Tenter AM, Johnson AM, Barta JR |title=Phylogenetic analysis of coccidia based on 18S rDNA sequence comparison indicates that Isospora is most closely related to Toxoplasma and Neospora |journal=J. Eukaryot. Microbiol. |volume=45 |issue=2 |pages=184–8 |year=1998 |pmid=9561772 |doi=10.1111/j.1550-7408.1998.tb04523.x}}</ref>
+
+==Families==
+About 1,000 species are in the genus ''Eimeria''.
+
+Some of the genera have been organised into families.
+
+*Family ''[[Barrouxiidae]]''
+**Genera
+***''Barrouxia''
+***''Goussia''
+*Family [[Sarcocystidae]] 
+**Genera
+***''Besnoitia''
+***''Cystoisospora''
+***''Neospora''
+***''Sarcocystis''
+***''Toxoplasma''
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.taxonomy.nl/Taxonomicon/TaxonTree.aspx?id=123998  Taxon: Order Eucoccidiorida Léger & Duboscq, 1910], The Taxonomicon.
+
+{{Alveolata}}
+{{Taxonbar|from=Q3734141}}
+
+[[Category:Apicomplexa orders]]

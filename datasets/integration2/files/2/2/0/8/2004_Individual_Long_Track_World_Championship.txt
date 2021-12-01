@@ -1,0 +1,116 @@
+{{infobox sport event
+|name           = 2004 [[Individual Long Track World Championship]]
+|image          = 
+|size           = 
+|caption        = 
+|date_start     = 
+|date_end       = 
+|competitors    =
+|nations        =
+|prize_money    =
+|other          =
+|venue          = 
+|location       = 
+|prev = [[2003 Individual Long Track World Championship|2003]]
+|next = [[2005 Individual Long Track World Championship|2005]]
+}}
+The '''2004 Individual Long Track/Grasstrack World Championship''' was the 34th edition of the [[Fédération Internationale de Motocyclisme|FIM]] [[Motorcycle speedway|speedway]] [[Individual Long Track World Championship]].<ref>{{cite web|url=http://www.speedway.org/history/|title=SPEEDWAY and LONGTRACK|publisher=Speedway.org}}</ref><ref>{{cite web|url=http://grasstrackgb.co.uk/world-longtrack/|title=World Longtrack World Champions|publisher=Grasstrack GB}}</ref>
+
+The world title was won by [[Gerd Riss]] of Germany for the fifth time.<ref>{{cite web|url=http://www.speedwaychampions.com/long-track-champions.php|title=Long Track Racing|publisher=Speedway Champions}}</ref><ref>{{cite book|last=Montague|first=Trevor|title=A To Z of Sport, page 512|year=2004|publisher=Little Brown|isbn=0-316-72946-9}}</ref>
+== Venues ==
+{|class="wikitable" style="font-size: 100%"
+|-
+!width=30|Round
+!width=100| Date
+!width=200| Venue
+|-
+|1|| 12 Jun    ||   {{flagicon|GER}} [[Bielefeld]]
+|-
+|2|| 13 Jul   || {{flagicon|FRA}} [[Marmande]]
+|-
+|3|| 28 Aug  ||   {{flagicon|GER}} [[Pfarrkirchen]]
+|-
+|4|| 4 Sep   || {{flagicon|FRA}} [[Morizès]]
+|-
+|5|| 6 Nov   || {{flagicon|NZL}} [[New Plymouth]]
+|}
+
+== Final Classification ==
+{|class="wikitable" style="font-size: 100%"
+|-
+!width=20| Pos
+!width=300| Rider
+!width=40| Round 1
+!width=40| Round 2
+!width=40| Round 3
+!width=40| Round 4
+!width=40| Round 5
+!width=100| Total Pts
+|-align=center style="background-color: gold;"   
+|1 || align="left"| {{flagicon|GER}} [[Gerd Riss]] ||25	||13	||20	||20	||25	||103
+|-align=center style="background-color: silver;"
+|2 || align="left"| {{flagicon|ENG}} [[Kelvin Tatum]]  ||13	||25	||25	||25	||13	||101
+|-align=center style="background-color: #cc9966;"
+|3 || align="left"| {{flagicon|GER}} [[Bernd Diener]]  ||14	||18	||16	||14	||9	||71
+|-align=center
+|4 || align="left"| {{flagicon|GER}} [[Enrico Janoschka]]   ||18	||16	||7	||13	||11	||65
+|-align=center 
+|5 || align="left"| {{flagicon|NED}} [[Theo Pijper]]  ||16	||10	||11	||6	||20	||63
+|-align=center 
+|6 || align="left"| {{flagicon|ENG}} [[Andrew Appleton]]  ||12	||12	||9	||12	||14	||59
+|-align=center   
+|7 || align="left"| {{flagicon|GER}} [[Herbert Rudolph]]  ||10	||8	||14	||10	||6	||48
+|-align=center 
+|8 || align="left"| {{flagicon|CZE}} [[Zdenek Schneiderwind]]   ||11	||20	||6	||7.5||	x 	||44.5
+|-align=center 
+|9 || align="left"| {{flagicon|GER}} [[Stephan Katt]]  ||x	||7	||13	||16	||7	||43
+|-align=center   
+|10 || align="left"| {{flagicon|GER}} [[Matthias Kröger]] ||20	||x	||x	||4	||18	||42
+|-align=center  
+|11 || align="left"| {{flagicon|NED}} [[Maik Groen]] ||6	||4	||10	||11	||8	||39
+|-align=center 
+|12 || align="left"| {{flagicon|GER}} [[Robert Barth]] ||x 	||x 	||18	||18	|| x	||36
+|-align=center   
+|13 || align="left"| {{flagicon|GER}} [[Jörg Tebbe]] ||8	||9	||x	||x	||16	||33
+|-align=center 
+|14 || align="left"| {{flagicon|ITA}} [[Massimo Mora]] ||7	||11	||2	||1.5	||10	||31.5
+|-align=center 
+|15 || align="left"| {{flagicon|ENG}} [[Matt Read (speedway rider)|Matt Read]] ||9	||6	||12	||1.5	 ||x	||28.5
+|-align=center   
+|16 || align="left"| {{flagicon|FRA}} [[Stephane Tresarrieu]] ||3	||14	||1	||5	||4	||27
+|-align=center 
+|17 || align="left"| {{flagicon|ENG}} [[Glen Phillips (speedway rider)|Glen Phillips]] ||x    ||  5	||5	||9	||3	||22
+|-align=center   
+|18 || align="left"| {{flagicon|GER}} [[Sirg Schutzbach]] ||5	||x 	||8	||0	||x	||13
+|-align=center   
+|19 || align="left"| {{flagicon|NED}} [[Uppie Bos]] || 1	||x 	||4	||7.5	||x 	||12.5
+|-align=center 
+|20 || align="left"| {{flagicon|AUS}} [[Jason Crump]]  ||x 	||x 	|| x	||x 	||12	||12
+|-align=center   
+|21 || align="left"| {{flagicon|NED}} [[Dirk Fabriek]] ||2	||2	||3	||3	||x 	||10
+|-align=center   
+|22 || align="left"| {{flagicon|AUS}} [[Troy Batchelor]]  ||x 	 ||x	||x 	||x	||5	||5
+|-align=center 
+|23 || align="left"| {{flagicon|GER}} [[Christian Hulshorst]] ||4	 ||x	||x 	||x 	||x 	||4
+|-align=center   
+|24 || align="left"| {{flagicon|ENG}} [[Richard Hall (speedway rider)|Richard Hall]] || x     || 3	||x 	||x 	||x	||3
+|-align=center   
+|25 || align="left"| {{flagicon|AUS}} [[Strider Horton]] || x	||x 	||x 	||x 	||2	||2
+|-align=center   
+|26 || align="left"| {{flagicon|DEN}} [[John Jørgensen]]  ||x 	||x 	|| x	||x 	||1	||1
+|-align=center 
+|27 || align="left"| {{flagicon|FRA}} [[Philippe Ostyn]]    ||x 	||1	|| x	||x 	||x 	||1
+|}
+
+== References ==
+{{Reflist}}
+
+{{Long Track World Championship}}
+{{International speedway}}
+
+[[Category:Individual Long Track World Championship|2004]]
+[[Category:Speedway competitions in France]]
+[[Category:Speedway competitions in Germany]]
+[[Category:Motorsport in New Zealand]]
+[[Category:Sports competitions in New Zealand]]
+[[Category:2004 in track racing|Long]]

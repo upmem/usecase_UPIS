@@ -1,0 +1,20 @@
+<div class="boilerplate metadata vfd" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.  ''
+<!--
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result of the debate was '''merge and redirect; merging and deleting is not valid because of the GFDL'''. [[User:Johnleemk|Johnleemk]] | [[User talk:Johnleemk|Talk]] 14:30, 10 February 2006 (UTC)
+
+===[[Chisholm Hall]]===
+Again, a stub about a housing complex in a university. [[User:WhisperToMe|WhisperToMe]] 17:43, 4 February 2006 (UTC)
+*'''Keep''': it is a real place. Somebody might want be looking through Wikipedia for info on it. [[User:Where|Where]] [[User talk:Where|(talk)]] 18:02, 4 February 2006 (UTC)
+*'''Merge into [[UTSA#Housing]] and delete'''. --[[User:Aaron|Aaron]] 18:25, 4 February 2006 (UTC)
+*'''Merge and delete''' per [[User:Aaron|Aaron]].  Colleges/houses at places with a residential system (Yale/Harvard/Oxford/Cambridge) are one thing; this is another.  Anyone who wants to find out information about housing at UTSA would be better off looking at [[UTSA#Housing]].  --[[User:Kinu|Kinu]] 18:31, 4 February 2006 (UTC)
+*'''Merge''' per Aaron - leave a redirect per GFDL. Please note that merge and delete cannot both be done. ([[User:ESkog|ESkog]])<sup>([[User talk:ESkog|Talk]])</sup> 21:17, 4 February 2006 (UTC)
+*'''Merge''' per Aaron -- [[User:Thesquire|Thesquire]] <small>([[User_talk:Thesquire|talk]] - [[Special:Contributions/Thesquire|contribs]])</small> 22:14, 4 February 2006 (UTC)
+*'''Comment''', There is more than one "Chisholm Hall": [[California State University, Northridge]] [http://www-admn.csun.edu/ehos/evacuation_locations.htm] has one, as does [[Monash University]] [http://www.sport.monash.edu.au/sports/clubs-caulfield.html]. Some sort of  Merge and disambiguate may be in order. (Disambiguation lonks should lead to the schools, not the buildings). [[User:Dsmdgold|Dsmdgold]] 15:30, 7 February 2006 (UTC)
+*'''Merge'''.  The disambig would not be appropriate. [[User:Peyna|Peyna]] 02:44, 9 February 2006 (UTC)
+*'''Merge''' per above --<font color="0000CC">[[User:Dysepsion|† Ðy§ep§ion †]]</font> 20:34, 9 February 2006 (UTC)
+
+
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page.</div>

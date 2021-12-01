@@ -1,0 +1,66 @@
+{{Use dmy dates|date=September 2019}}
+{{Infobox hospital
+| Name        = Hollymoor Hospital
+| Org/Group   = 
+| Image       = Water Tower, Hollymoor Hospital, Northfield, Birmingham - geograph.org.uk - 52194.jpg
+| Caption     = The Water Tower, Hollymoor Hospital, Northfield, Birmingham
+| map_type    = West Midlands
+| map_caption = Location within West Midlands
+| latitude    = 
+| longitude   = 
+| Logo        = 
+| Logo Size   = 
+| Location    = [[Northfield, Birmingham|Northfield]]
+| Region      = [[West Midlands (region)|West Midlands]]
+| State       = England
+| Country     = UK
+| Coordinates = {{coord|52.4044|-1.9968|type:landmark_region:GB-BIR|display=inline,title}}
+| HealthCare  = [[National Health Service (England)|NHS England]]
+| Type        = Mental health
+| Speciality  = 
+| Standards   = 
+| Emergency   = 
+| Affiliation = 
+| Patron      = 
+| Beds        = 
+| Founded     = 1905
+| Closed      = 1994
+| Website     = 
+| Wiki-Links  = 
+}}
+'''Hollymoor Hospital''' was a [[psychiatric hospital]] located at Tessall Lane, [[Northfield, Birmingham|Northfield]] in [[Birmingham]], England, and is famous primarily for the work on [[group psychotherapy]] that took place there in the years of the [[World War II|Second World War]]. It closed in 1994.
+
+==History==
+===Construction and expansion===
+The hospital, which was designed by [[William Martin (architect)|William Martin]] and [[Frederick Martin (architect)|Frederick Martin]] using a Compact Arrow layout, was built as an annexe to [[Rubery Hill Hospital|Rubery Lunatic Asylum]] by [[Birmingham Corporation]] and opened 6 May 1905.<ref name=county>{{cite web|url=https://www.countyasylums.co.uk/hollymoor-birmingham/|title=Hollymoor Hospital|publisher=County Asylums|accessdate=13 April 2019}}</ref> During the [[World War I|First World War]], Hollymoor was commandeered and became known as the '''2nd Birmingham War Hospital'''.<ref name="BHist">[http://www.bhamb14.co.uk/index_files/HollymoorHospital.htm  Hollymoor Hospital] Birmingham History, Retrieved 1 September 2010</ref>
+
+===The Northfield experiments===
+During the Second World War, the hospital was again converted to a military hospital in 1940. In April 1942 it became a military psychiatric hospital and became known as '''Northfield Military Hospital'''.<ref name="BHist"/> In 1942, while Northfield was serving as a military hospital, psychoanalysts [[Wilfred Bion]] and [[John Rickman (psychoanalyst)|John Rickman]] set up the first Northfield experiment. Bion and Rickman were in charge of the training and rehabilitation wing of Northfield, and ran the unit along the principles of [[group dynamics]]. Their aim was to improve morale by creating a "good group spirit" (esprit de corps). Though he sounded like a traditional army officer Bion's means were very unconventional. He was in charge of around one hundred men. He told them that they had to do an hour's exercise every day and that each had to join a group: "handicrafts, Army courses, carpentry, map-reading, sand-tabling etc.... or form a fresh group if he wanted to do so".<ref name="Bion, W. 1961 p16">{{cite book|last=Bion|first=W. |year=1961|title= Experiences in Groups|location= London|publisher=Tavistock|page=16|isbn=978-0465021741}}</ref> While this may have looked like traditional occupational therapy, the real therapy was the struggle to manage the interpersonal strain of organising things together, rather than simply weaving baskets. Those unable to join a group would have to go to the rest-room, where a nursing orderly would supervise a quiet regime of "reading, writing or games such as draughts... any men who felt unfit for any activity whatever could lie down".<ref name="Bion, W. 1961 p16"/> The focus of every day was a meeting of all the men, referred to as a parade.
+
+<blockquote>".. a parade would be held every day at 12.10 p.m. for making announcements and conducting other business of the training wing. Unknown to the patients, it was intended that this meeting, strictly limited to 30 minutes, should provide an occasion for the men to step outside their framework and look upon its working with the detachment of spectators. In short it was intended to be the first step towards the elaboration of therapeutic seminars. For the first few days little happened; but it was evident that amongst patients a great deal of discussion and thinking was taking place"<ref name="Bion, W. 1961 p16"/></blockquote>
+
+The experiment had to close after six weeks as the military authorities did not approve of it and ordered the transfer of Bion and Rickman (who were members of the [[Royal Army Medical Corps]]).<ref name="Campling">P Campling 2001 Therapeutic communities. ''Advances in Psychiatric Treatment'' '''7''': 365-372</ref> The second Northfield experiment, which was based on the ideas of Bion and Rickman and used group psychotherapy, was started the following year by [[S. H. Foulkes|Siegfried Foulkes]], who was more successful at gaining the support of the military authorities.<ref>{{cite book|first=Diane|last= Waller|year= 1993|title=Group Interactive Art Therapy: its use in training and treatment|publisher=Routledge|location=London|page= 5|isbn=978-0415048446}}</ref> One of the military psychiatrists involved in the project was Lt. Col. [[Thomas Main|T.F. Main]], who coined the term ''[[therapeutic community]]'', and saw the potential of the experiments in the development of future therapeutic communities.<ref name="Campling"/>
+
+Northfield Military Hospital was the setting for Sheila Llewellyn's novel ''Walking Wounded'', published in 2018.<ref>{{cite web|url=https://www.theguardian.com/books/2018/feb/01/walking-wounded-sheila-llewellyn-review |title=Walking wounded by Sheila Llewellyn review - beautiful and humane debut|publisher=The Guardian|date=1 February 2018|accessdate=9 October 2018}}</ref>
+
+===Decline and closure===
+Poet [[Vernon Scannell]] was a patient at the hospital in 1947.<ref>{{cite web|url=https://www.iwm.org.uk/collections/item/object/80019596|title=Scannell, Vernon (Oral history)|publisher=Imperial war Museum|accessdate=9 October 2018}}</ref> By 1949 Hollymoor Hospital was recognisably distinct from Rubery Hill Hospital. It held 590 patients, falling slowly to 490 by 1984, and then dropping rapidly to 139 by 1994. After the introduction of [[Care in the Community]] in the early 1980s, the hospital went into a period of decline and closed in July 1994.<ref name=county/> It was subsequently largely demolished.<ref name="BHist"/><ref>{{cite web|url=http://www.nationalarchives.gov.uk/hospitalrecords/details.asp?id=2113&page=28|title=Details: Hollymoor Hospital, Birmingham|work=Hospital records database|publisher=[[The National Archives (United Kingdom)|The National Archives]]|accessdate=13 September 2010}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.businesscoachinstitute.com/library/bion_and_foulkes_at_northfield.shtml Bion and Foulkes at Northfield]
+
+{{authority control}}
+
+[[Category:Hospital buildings completed in 1905]]
+[[Category:Hospitals established in 1905]]
+[[Category:1905 establishments in England]]
+[[Category:1994 disestablishments in England]]
+[[Category:Hospitals disestablished in 1994]]
+[[Category:Defunct hospitals in England]]
+[[Category:Former psychiatric hospitals in England]]
+[[Category:History of mental health in the United Kingdom]]
+[[Category:Hospitals in Birmingham, West Midlands]]
+[[Category:Therapeutic community]]

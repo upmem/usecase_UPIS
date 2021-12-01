@@ -1,0 +1,47 @@
+{{Infobox settlement
+|official_name =Nerkin Giratagh
+|native_name =Ներքին Գիրաթաղ 
+|settlement_type        = [[Community (Armenia)|community]]
+|pushpin_map            =Armenia
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name       = {{flag|Armenia}}
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      =[[Syunik Province|Syunik]]
+|subdivision_type2      = [[List of municipalities of Armenia|Municipality]]
+|subdivision_name2      = [[Kajaran Municipality]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2011
+|population_total =0
+|population_density_km2   =
+|timezone =&nbsp;
+|utc_offset             = +4
+|timezone_DST           =
+|utc_offset_DST         = 
+|coordinates            = {{coord|39|13|10|N|46|16|22|E|region:AM|display=inline,title}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+|footnotes              ={{GEOnet2|32FA881E6C123774E0440003BA962ED3}}
+}}
+
+'''Nerkin Giratagh''' ({{lang-hy|Ներքին Գիրաթաղ}}), is an abandoned village in the [[Kajaran Municipality]] of [[Syunik Province]], [[Armenia]]. 
+
+
+== See also ==
+* [[Lernadzor]]
+
+==History==
+Nerkin Giratagh was formerly part of the [[Community (Armenia)|rural community]] of [[Verin Giratagh]], which was merged into the community of Lernadzor.<ref>{{ARMSTATdata|44}}</ref>  The [[National Statistical Service of the Republic of Armenia]] (ARMSTAT) reported that Nerqin Giratagh was uninhabited at the 2001 and 2011 censuses.<ref>{{ArmenianCensus|210}}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:Former populated places in Syunik Province]]
+
+{{Syunik-geo-stub}}

@@ -1,0 +1,22 @@
+{{Documentation subpage}}
+{{2015 CONCACAF Gold Cup group table mbox}}
+== Usage ==
+This template is designed to collect information, which is used in several articles, in one location. The [[2015 CONCACAF Gold Cup]] group tables are shown on the overall Gold Cup article, as well as the articles for each Group, if not other articles as well. This template should replace the need to update the same information on several articles.
+===In article===
+To add this table to an article, type {{tl|2015 CONCACAF Gold Cup Group A table}}.
+==Display options==
+If a smaller displayed table is desired, the parameter {{para|only_pld_pts}} can be defined in the template call to display only the position, team, games played, and points columns. This display may be desired when multiple groups must be displayed, but the full details are not required. Valid values of {{para|only_pld_pts}} to display a truncated table are '''1''', '''yes''', '''y''', '''true''', and '''t'''. For example:
+{|class="wikitable" style="background:white;"
+|-
+!What you type
+|<pre><nowiki>{{2015 CONCACAF Gold Cup Group A table|only_pld_pts=true}}</nowiki></pre>
+|-
+!What you see
+|{{2015 CONCACAF Gold Cup Group A table|only_pld_pts=true}}
+|}
+
+==Additional information==
+Additional information regarding how this module works is available in the documentation of [[Module:Sports table/WDL]].
+<includeonly>{{Sandbox other||{{#ifeq:{{SUBPAGENAME}}|talk | |
+[[Category:2015 CONCACAF Gold Cup group table templates|A]]
+}}}}</includeonly>

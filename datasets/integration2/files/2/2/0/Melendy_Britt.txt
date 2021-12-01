@@ -1,0 +1,44 @@
+{{short description|American actress|bot=PearBOT 5}}
+{{more footnotes|date=February 2008}}
+{{infobox person
+| name = Melendy Britt
+| image = Melendy Britt by Gage Skidmore.jpg
+| caption = Britt at the 2015 [[Phoenix Comicon]]
+| birth_date = {{birth date and age|mf=yes|1943|10|31}}
+| birth_place = [[Charlotte, North Carolina]], U.S.
+| years_active = 1967&ndash;present
+| occupation = Television and voice actress
+| children = 2
+}}
+
+'''Melendy Britt''' (born October 31, 1943) is an [[Americans|American]] actress active in television and [[voice acting]] since the 1970s.<ref>{{cite web|url=http://newsok.com/article/3790275|title=She-Ra actress Melendy Britt remembers series|work=NewsOK.com|accessdate=26 October 2014}}</ref> Her most notable animated work is for [[Filmation]], voicing characters such as [[She-Ra]], and the second animated [[Barbara Gordon|Batgirl]] ([[Jane Webb]] was the first).<ref>{{cite news|title= Ahead Of Power-Con, She-Ra Star Melendy Britt Looks Back On Show |work= [[Comic Book Resources]]|date=|url= http://spinoff.comicbookresources.com/2011/09/14/ahead-of-power-con-she-ra-star-melendy-britt-looks-back-on-series/|accessdate=2012-03-23}}</ref><ref>{{cite news|title= Female superhero 'She-Ra' marks 25th anniversary |publisher= [[CNN]]|date=|url= http://edition.cnn.com/2010/SHOWBIZ/TV/10/06/she.ra.anniversary/index.html|accessdate=2012-12-14}}</ref><ref>{{cite web|url=https://blogs.wsj.com/speakeasy/2010/09/28/she-ra-melendy-britt-on-being-the-voice-behind-the-princess-of-power/|title=‘She-Ra’: Melendy Britt on Being the Voice Behind the ‘Princess of Power’ and L’Oreal|author=Michelle Kung|work=WSJ|accessdate=26 October 2014}}</ref><ref>{{cite web|url=http://www.out.com/entertainment/television/2010/09/27/catching-voice-she-ra-melendy-britt|title=Catching Up With the Voice of She-Ra, Melendy Britt|work=Out Magazine|accessdate=26 October 2014}}</ref>  She also provided the voice for Penny, would-be love interest and aide to [[Plastic Man]] on ''[[The Plastic Man Comedy/Adventure Show]]'', which was produced by [[Ruby-Spears]]. She was also the voice of Gran Gran in ''[[Avatar: The Last Airbender]]''.
+
+Her film credits include roles in ''[[Gray Lady Down]]'' (1978) and ''[[Being There]]'' (1979). In the TV series ''[[Cheers]]'' she played Kelly Gaines' mother, Roxanne Gaines, in the episode "''Woody Or Won't He''".
+
+Britt was born in [[Charlotte, North Carolina]] on October 31, 1943, and grew up in [[Houston, Texas]]. She has two daughters.
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* http://melendybritt.com
+* {{IMDb name|0110068}}
+* {{tcmdb name|id=22531|name=Melendy Britt}}
+* https://www.facebook.com/pages/Fans-of-She-Ra-Melendy-Britt/241822104406
+
+{{authority control}}
+
+{{DEFAULTSORT:Britt, Melendy}}
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:American film actresses]]
+[[Category:American television actresses]]
+[[Category:American video game actresses]]
+[[Category:American voice actresses]]
+[[Category:Actresses from Houston]]
+[[Category:Filmation people]]
+[[Category:Actresses from Charlotte, North Carolina]]
+
+
+{{US-tv-actor-1940s-stub}}
+{{US-voice-actor-1940s-stub}}

@@ -1,0 +1,22 @@
+{{User:COIBot/Summary/LinkReports}}
+Reporting statistics of link thehiphopdeal.com; 0 records.
+* {{LinkSummary|thehiphopdeal.com}}.
+* thehiphopdeal.com resolves to [http://174.120.29.61 174.120.29.61] - {{LinkSummary|174.120.29.61}}.
+* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+
+Reports
+COIBot reported 0 links.
+----
+Below a full report on all use of the link thehiphopdeal.com.
+
+This list is intended to see how the [[:en:WP:EL|external link]] gets used, it does '''not''' imply that involved accounts are having a [[:en:WP:COI|conflict of interest]] in adding the link, or that the involved accounts are [[:en:WP:SPAM|spamming]] the link.
+
+LinkWatcher records:
+
+# 2009-06-12 15:12:33 (UTC): User [[User:24.254.33.146|24.254.33.146]] ([[User talk:24.254.33.146|talk]] - [[Special:Contributions/24.254.33.146|contribs]]; 1) to [[J.U.S.T.I.C.E. League]] ([http://en.wikipedia.org/w/index.php?diff=295989240&oldid=291122399 diff] - [http://en.wikipedia.org/w/index.php?diff=295989240&action=edit&undoafter=291122399&undo=295989240 undo]) - Link: www.thehiphopdeal.com/2009/06/11/justice-leauge-studio-session/.<!--ID 26702023--><br/>* Links added in this diff: <nowiki>www.thehiphopdeal.com/2009/06/11/justice-leauge-studio-session/</nowiki> (1, 6, 1, 0) 
+# 2009-07-08 12:47:48 (UTC): User [[User:68.227.135.67|68.227.135.67]] ([[User talk:68.227.135.67|talk]] - [[Special:Contributions/68.227.135.67|contribs]]; 2) to [[Underground Kingz]] ([http://en.wikipedia.org/w/index.php?diff=300981585&oldid=298709557 diff] - [http://en.wikipedia.org/w/index.php?diff=300981585&action=edit&undoafter=298709557&undo=300981585 undo]) - Link: www.thehiphopdeal.com/2009/07/08/why-is-there-so-much-hate-towards-southern-hip-hop/.<!--ID 28294686--><br/>* Links added in this diff: <nowiki>www.thehiphopdeal.com/2009/07/08/why-is-there-so-much-hate-towards-southern-hip-hop/</nowiki> (2, 6, 2, 0) 
+# 2009-07-08 12:51:30 (UTC): User [[User:68.227.135.67|68.227.135.67]] ([[User talk:68.227.135.67|talk]] - [[Special:Contributions/68.227.135.67|contribs]]; 2) to [[Southern hip hop]] ([http://en.wikipedia.org/w/index.php?diff=300982054&oldid=300905257 diff] - [http://en.wikipedia.org/w/index.php?diff=300982054&action=edit&undoafter=300905257&undo=300982054 undo]) - Link: www.thehiphopdeal.com/2009/07/08/why-is-there-so-much-hate-towards-southern-hip-hop/.<!--ID 28294687--><br/>* Links added in this diff: <nowiki>www.thehiphopdeal.com/2009/07/08/why-is-there-so-much-hate-towards-southern-hip-hop/</nowiki> (2, 6, 2, 0) 
+# 2010-07-30 15:18:25 (UTC): User [[User:72.219.6.241|72.219.6.241]] ([[User talk:72.219.6.241|talk]] - [[Special:Contributions/72.219.6.241|contribs]]; 2) to [[Exhibit C]] ([http://en.wikipedia.org/w/index.php?diff=376274205&oldid=376036488 diff] - [http://en.wikipedia.org/w/index.php?diff=376274205&action=edit&undoafter=376036488&undo=376274205 undo]) - Link: www.thehiphopdeal.com/2010/07/29/sample-video-of-the-day-jay-electronicas-exhibit-cbilly-stewart-cross-my-heart/.<!--ID 18874898--><br/>* Links added in this diff: <nowiki>www.thehiphopdeal.com/2010/07/29/sample-video-of-the-day-jay-electronicas-exhibit-cbilly-stewart-cross-my-heart/</nowiki> (2, 6, 2, 0) 
+# 2010-07-30 15:24:59 (UTC): User [[User:72.219.6.241|72.219.6.241]] ([[User talk:72.219.6.241|talk]] - [[Special:Contributions/72.219.6.241|contribs]]; 2) to [[Exhibit C]] ([http://en.wikipedia.org/w/index.php?diff=376275121&oldid=376274973 diff] - [http://en.wikipedia.org/w/index.php?diff=376275121&action=edit&undoafter=376274973&undo=376275121 undo]) - Link: www.thehiphopdeal.com/2010/07/29/sample-video-of-the-day-jay-electronicas-exhibit-cbilly-stewart-cross-my-heart/.<!--ID 18875287--><br/>* Links added in this diff: <nowiki>www.thehiphopdeal.com/2010/07/29/sample-video-of-the-day-jay-electronicas-exhibit-cbilly-stewart-cross-my-heart/</nowiki> (2, 6, 2, 0) 
+# <s>2010-07-30 20:14:30 (UTC): User [[User:Esanchez7587|Esanchez7587]] ([[User talk:Esanchez7587|talk]] - [[Special:Contributions/Esanchez7587|contribs]]; -1) to [[Exhibit C]] ([http://en.wikipedia.org/w/index.php?diff=376315942&oldid=376275821 diff] - [http://en.wikipedia.org/w/index.php?diff=376315942&action=edit&undoafter=376275821&undo=376315942 undo]) - Link: www.thehiphopdeal.com/2010/07/29/sample-video-of-the-day-jay-electronicas-exhibit-cbilly-stewart-cross-my-heart/.<!--ID 18887063--></s><br />* User is on global [[:en:User:COIBot#Whitelist|Whitelist]]: Esanchez7587 <-> * (Over 5000 edits on en wikipedia) 
+<!-- tags: -->{{NOINDEX}}

@@ -1,0 +1,41 @@
+{{Infobox park
+| name = Alberta Park
+| photo = Alberta Park (Portland, Oregon).jpg
+| photo_width = 
+| photo_caption = 
+| map = 
+| map_width = 
+| type = 
+| location = NE 22nd Avenue and Killingsworth Street
+| nearest_city = [[Portland, Oregon]], U.S.
+| coords_ref = 
+| area = 16.7 acres
+| created = 1921
+| operator = [[Portland Parks & Recreation]]
+| visitation_num = 
+| status = 
+| open =
+| coords= {{coord|45.564349|N|122.644844|W|region:US-OR_source:googlemaps|format=dms|display=inline,title}}
+}}
+'''Alberta Park''' is a park located in northeast [[Portland, Oregon|Portland]], [[Oregon]]. Acquired in 1921, the park includes a basketball court, dog off-leash area, playground, soccer field, softball field and tennis court, as well as paved and unpaved paths and picnic tables. The park is maintained by a volunteer group known as Friends of Alberta Park.<ref name=PPR>{{Cite web|url=http://www.portlandonline.com/parks/finder/index.cfm?action=ViewPark&PropertyID=49|title=Alberta Park|accessdate=December 9, 2011|publisher=[[Portland Parks & Recreation]]}}</ref>
+
+==See also==
+{{Portal|Oregon}}
+* [[List of parks in Portland, Oregon]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Commons category-inline|Alberta Park}}
+*[https://pdx.maps.arcgis.com/apps/MapJournal/index.html?appid=8b9926722bf24dd5bc3bebc13ec45a11 Trees of Alberta Park]
+
+{{Parks in Portland, Oregon}}
+{{Vernon, Portland, Oregon}}
+
+[[Category:1921 establishments in Oregon]]
+[[Category:Parks in Portland, Oregon]]
+[[Category:Protected areas established in 1921]]
+[[Category:Vernon, Portland, Oregon]]
+
+{{Oregon-stub}}

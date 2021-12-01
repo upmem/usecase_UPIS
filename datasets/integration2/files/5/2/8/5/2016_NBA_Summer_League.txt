@@ -1,0 +1,1911 @@
+{{Infobox sports season
+| title              = 2016 NBA Summer League
+| color              = 
+| color_text         = 
+| league             = [[National Basketball Association]]
+| sport              = [[Basketball]]
+| logo               = 
+| pixels             = 
+| caption            = 
+| duration           = July 2–18, 2016
+| no_of_games        = 98 total games<br>Orlando-25<br>Utah-6<br>Las Vegas-67
+| no_of_teams        = Orlando-10<br>Utah-4<br>Las Vegas-24
+| attendance         = 
+| TV                 = [[NBA TV]] & [[ESPN]]
+| season2            = Orlando Pro Summer League
+| season_champs2     = [[Orlando Magic|Orlando Magic (White)]]
+| second_place2      = [[Detroit Pistons]]
+| top_seed2          = 
+| MVP2               = [[Arinze Onuaku]]
+| top_scorer2        = [[Cameron Payne]]
+| season3            = Las Vegas NBA Summer League
+| season_champs3     = [[Chicago Bulls]]
+| second_place3      = [[Minnesota Timberwolves]]
+| top_seed3          = [[Toronto Raptors]]
+| MVP3               = [[Tyus Jones]] (league)<br />[[Jerian Grant]] (championship game)
+| top_scorer3        = [[Trey Lyles]]
+| season4            = Utah Jazz Summer League
+| season_champs4     = [[Boston Celtics]]
+| second_place4      = [[San Antonio Spurs]]
+| top_seed4          = 
+| MVP4               = [[Denzel valentine]]
+| top_scorer4        = [[Chicago Bulls]]
+| seasonslistnames   = NBA Summer League
+| prevseason_link    = 2015 NBA Summer League
+| prevseason_year    = 2015
+| nextseason_link    = 2017 NBA Summer League
+| nextseason_year    = 2017
+}}
+
+The '''2016 [[NBA Summer League]]''' consisted of three [[professional sports|pro]] [[basketball]] [[sports league|leagues]] organized by the [[National Basketball Association]] (NBA): the [[Orlando Magic|Orlando]] Pro Summer League, [[Utah Jazz]] Summer League, and Las Vegas Summer League.<ref>[http://www.nba.com/summerleague/ 2016 NBA Summer League | Schedules, Stats, Scores and Highlights | July 2-18 in Orlando, Salt Lake City and Las Vegas on NBA.com]</ref>
+
+Ten teams participated in the week-long Orlando Pro Summer League at [[Amway Center]] in [[Orlando, Florida]], from July 2 to 8, 2016. The [[Orlando Magic|Orlando Magic (White)]] won the Orlando Pro Summer League championship over the [[Detroit Pistons]], 87–84 in overtime. [[Arinze Onuaku]] of Orlando Magic (White) was named the MVP. The [[Dallas Mavericks]] and [[Miami Heat]] also participated in the Las Vegas Summer League.<ref name="Orlando">{{cite web |url=http://www.nba.com/magic/news/orlando-magic-host-southwest-airlines-orlando-pro-summer-league |title=Orlando Magic to Host Southwest Airlines Orlando Pro Summer League |work=NBA.com/magic |date=May 19, 2016 |accessdate=May 20, 2016}}</ref>
+
+The [[Utah Jazz]] Summer League was introduced for the first time last year, marking the first summer league to be played in Utah since the [[Rocky Mountain Revue]] was last held in 2008. Four teams participated in a [[round-robin tournament|round-robin]] format from July 4 to 7, 2016. No tournament was held, nor was there a champion named, but the [[Boston Celtics]] had the best record of the four teams with an undefeated record of 3–0. All four teams ([[Utah Jazz]], [[Boston Celtics]], [[Philadelphia 76ers]], and [[San Antonio Spurs]]) also participated in the Las Vegas Summer League.<ref name="Utah">{{cite web |url=http://www.nba.com/jazz/summerleague/2016?ls=nba:specialsfull4 |title=2016 Utah Jazz Summer League |work=NBA.com/jazz |accessdate=May 20, 2016}}</ref>
+
+The Las Vegas NBA Summer League is the official summer league of the National Basketball Association. It is the premier summer league of the three, with a total of 23 teams, plus a Select Team from the [[NBA Development League]], participating. A total of 67 games were played from July 8 to 18, 2016, at the [[Thomas & Mack Center]] and [[Cox Pavilion]], both located in [[Paradise, Nevada]] ([[Las Vegas Valley|near Las Vegas]]). The [[Chicago Bulls]] won the championship by defeating the [[Minnesota Timberwolves]] in the final, 84–82, on a buzzer-beater by [[Denzel Valentine]] in overtime. [[Tyus Jones]] was named the league's Most Valuable Player, with [[Jerian Grant]] of the Bulls being named the championship game MVP.<ref name="Vegas">{{cite web |url=http://www.nba.com/2016/news/05/18/las-vegas-summer-league-particpants-official-release/ |title=NBA stars of tomorrow return to Las Vegas in Samsung NBA Summer League 2016 |work=NBA.com |date=May 18, 2016 |accessdate=May 20, 2016}}</ref>
+
+==Orlando Pro Summer League==
+Officially known as the '''Southwest Airlines Orlando Pro Summer League''' for sponsorship reasons, this 25-game, week-long event will feature ten teams. Each team will play five games over the course of the week, with a championship day being played on the final day of the league. A point system will establish the standings leading up to the final day, with eight points awarded each game based on: four points for winning the game and one point for winning a quarter (in the event of a tied quarter, each team will receive 0.5 points). In the event of ties in seeding heading into championship day, three tiebreakers will be in place: 1) total point differential; 2) total points allowed; 3) coin flip.<ref name="Orlando" />
+
+===Teams===
+
+*[[Orlando Magic|Orlando Magic White]] (host)
+*[[Orlando Magic|Orlando Magic Blue]] (host)
+*[[Charlotte Hornets]]
+*[[Dallas Mavericks]]
+*[[Detroit Pistons]]
+*[[Indiana Pacers]]
+*[[Los Angeles Clippers]]
+*[[Miami Heat]]
+*[[New York Knicks]]
+*[[Oklahoma City Thunder]]
+
+===Orlando Schedule===
+:''All times are in [[Eastern Time Zone|Eastern Daylight Time]] ([[UTC−4]])''
+
+====Day 1====
+----
+{{Basketballbox|bg=#eee |date=July 2 |time=9:00 am |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1='''[[Oklahoma City Thunder]]''' |score1='''86'''
+|team2=[[Dallas Mavericks]] |score2=85
+|report=[http://www.nba.com/games/20160702/OKCDAL/gameinfo.html Boxscore]
+|Q1=21–'''24''' |Q2='''27'''–20 |Q3=17–'''19''' |Q4=21–'''22''' 
+|points1=[[Cameron Payne]] 16 |points2=[[Andre Dawkins]] 16
+|rebounds1=[[Dakari Johnson]] 9  |rebounds2=[[Brandon Ashley|Ashley]], [[Cory Jefferson|Jefferson]] 11
+|assist1=[[Semaj Christon|Christon]], [[Cameron Payne|Payne]] 4  |assist2=[[Darius Adams]] 7
+|attendance=
+|referee=Lauren Holtkamp, Greg Danridge, Jacob Barnett
+}}
+
+{{Basketballbox|bg= |date=July 2 |time=11:00 am |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Charlotte Hornets]] |score1=74
+|team2='''[[Orlando Magic|Orlando Magic White]]''' |score2='''79'''
+|report=[http://www.nba.com/games/20160702/CHAORW/gameinfo.html Boxscore]
+|Q1=16–'''21''' |Q2=15–'''20''' |Q3=15–'''21''' |Q4='''28'''–17 
+|points1=[[Deshaun Thomas]] 19 |points2=[[Arinze Onuaku]] 16
+|rebounds1=[[James Kelly (basketball)|James Kelly]] 9  |rebounds2=[[Arinze Onuaku]] 8
+|assist1=''three players'' 2  |assist2=[[Brandon Fields (basketball)|Brandon Fields]] 4
+|attendance=
+|referee=Tyler Ricks, Nate Anderson, Tom Mauer, Mitchell Ervin
+}}
+
+{{Basketballbox|bg=#eee |date=July 2 |time=1:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Orlando Magic|Orlando Magic Blue]] |score1=66
+|team2='''[[Indiana Pacers]]''' |score2='''93'''
+|report=[http://www.nba.com/games/20160702/ORBIND/gameinfo.html Boxscore]
+|Q1=20–'''29''' |Q2=16–'''26''' |Q3=14–'''20''' |Q4=16–'''18''' 
+|points1=[[Devyn Marble]] 12 |points2=[[Joseph Young (basketball)|Joe Young]] 22
+|rebounds1=[[Ryan Anderson (basketball, born 1992)|Anderson]], [[Vincent Poirier|Poirier]] 5  |rebounds2=[[Georges Niang]] 12
+|assist1=[[Nick Johnson (basketball)|Nick Johnson]] 8  |assist2=[[Georges Niang]] 5
+|attendance=
+|referee=Dedric Taylor, Nate Green, Brandon Parker
+}}
+
+{{Basketballbox|bg= |date=July 2 |time=3:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[New York Knicks]] |score1=49
+|team2='''[[Detroit Pistons]]''' |score2='''81'''
+|report=[http://www.nba.com/games/20160702/NYKDET/gameinfo.html Boxscore]
+|Q1=15–'''18''' |Q2=12–'''20''' |Q3=9–'''21''' |Q4=13–'''22''' 
+|points1=[[DaJuan Summers]] 12 |points2=[[Stanley Johnson (basketball)|Stanley Johnson]] 15
+|rebounds1=[[Louis Labeyrie]] 6  |rebounds2=[[Phil Pressey]] 10
+|assist1=[[Mouloukou Diabate|Souleyman Diabate]] 4  |assist2=[[Michael Gbinije]] 5
+|attendance=
+|referee=Kevin Scott, Nelson Santiago, Ryan Sassano
+}}
+
+{{Basketballbox|bg=#eee |date=July 2 |time=5:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1='''[[Miami Heat]]''' |score1='''91'''
+|team2=[[Los Angeles Clippers]] |score2=71
+|report=[http://www.nba.com/games/20160702/MIALAC/gameinfo.html Boxscore]
+|Q1='''25'''–23 |Q2='''23'''–12 |Q3='''25'''–19 |Q4='''18'''–17 
+|points1=[[Justise Winslow]] 21 |points2=[[Branden Dawson]] 14
+|rebounds1=[[Norvel Pelle]] 7  |rebounds2=[[Branden Dawson]] 7
+|assist1=[[Josh Richardson|Richardson]], [[Justise Winslow|Winslow]] 4  |assist2=[[David Michineau]] 3
+|attendance=
+|referee=Kevin Cutler, Jonathan Sterling, Chris Merlo
+}}
+
+====Day 2====
+----
+{{Basketballbox|bg=#eee |date=July 3 |time=1:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Indiana Pacers]] |score1=70
+|team2='''[[Charlotte Hornets]]''' |score2='''80'''
+|report=[http://www.nba.com/games/20160703/INDCHA/gameinfo.html Boxscore]
+|Q1=18–'''19''' |Q2=14–14 |Q3=21–'''23''' |Q4=17–'''24''' 
+|points1=[[Glenn Robinson III]] 16 |points2= [[Gabe York]] 18
+|rebounds1=[[Shayne Whittington]] 7  |rebounds2=[[Wayne Blackshear]] 8
+|assist1=''three players'' 3  |assist2=[[Aaron Harrison]] 6
+|attendance=
+|referee=Jacob Barnett, Chris Pasci, Lauren Holtkamp
+}}
+
+{{Basketballbox|bg= |date=July 3 |time=3:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1='''[[Miami Heat]]''' |score1='''74'''
+|team2=[[New York Knicks]] |score2=48
+|report=[http://www.nba.com/games/20160703/MIANYK/gameinfo.html Boxscore]
+|Q1='''17'''–9 |Q2='''21'''–12 |Q3='''23'''–9 |Q4=13–'''18''' 
+|points1=[[Juwan Howard Jr.]] 17 |points2=[[Ron Baker (basketball)|Ron Baker]] 12
+|rebounds1=[[Kevin Tumba]] 7  |rebounds2=[[Marshall Plumlee]] 7
+|assist1=[[Brianté Weber]] 6  |assist2=[[Mouloukou Diabate|Souleyman Diabate]] 4
+|attendance=
+|referee=Saif Esho, Karleena Tobin, Kevin Scott
+}}
+
+{{Basketballbox|bg=#eee |date=July 3 |time=5:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Los Angeles Clippers]] |score1=72
+|team2='''[[Oklahoma City Thunder]]''' |score2='''81'''
+|report=[http://www.nba.com/games/20160703/LACOKC/gameinfo.html Boxscore]
+|Q1='''17'''–15 |Q2=15–'''19''' |Q3='''21'''–20 |Q4=19–'''27''' 
+|points1=[[Brice Johnson]] 23 |points2=[[Cameron Payne]] 25
+|rebounds1=[[Andrew Andrews]] 10  |rebounds2=[[Dakari Johnson]] 12
+|assist1=[[David Michineau]] 9  |assist2=[[Scottie Wilbekin|Wilbekin]], [[Reggie Williams (basketball, born 1986)|Williams]] 3
+|attendance=
+|referee=William Mensah, Natalie Sago, Chris Merlo
+}}
+
+====Day 3====
+----
+{{Basketballbox|bg=#eee |date=July 4 |time=1:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Dallas Mavericks]] |score1=85
+|team2='''[[Orlando Magic|Orlando Magic White]]''' |score2='''92'''
+|report=[http://www.nba.com/games/20160704/DALORW/gameinfo.html Boxscore]
+|Q1=19–'''27''' |Q2=21–'''22''' |Q3='''21'''–20 |Q4='''24'''–23 
+|points1=[[Vander Blue]] 23 |points2=[[Brandon Fields (basketball)|Fields]], [[Treveon Graham|Graham]] 14
+|rebounds1= [[Casey Prather]] 10  |rebounds2=[[Arinze Onuaku]] 9 
+|assist1=[[Marquis Teague]] 5  |assist2=[[Justin Dentmon|Dentmon]], [[Patricio Garino|Garino]] 5
+|attendance=
+|referee=Jonathan Sterling, William Mensah, Ryan Sassano, Mitchell Ervin, Greg Danridge, Brandon Parker
+}}
+
+{{Basketballbox|bg= |date=July 4 |time=3:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Orlando Magic|Orlando Magic Blue]] |score1=68
+|team2='''[[Detroit Pistons]]''' |score2='''73'''
+|report=[http://www.nba.com/games/20160704/ORBDET/gameinfo.html Boxscore]
+|Q1=18–'''19''' |Q2=10–'''13''' |Q3='''20'''–17 |Q4= 20–'''24'''
+|points1=[[Nick Johnson (basketball)|Nick Johnson]] 19 |points2=[[Lorenzo Brown]] 19
+|rebounds1=[[Vincent Poirier]] 11  |rebounds2=[[Stanley Johnson (basketball)|Stanley Johnson]] 10
+|assist1= [[Nick Johnson (basketball)|Nick Johnson]] 4 |assist2=[[Lorenzo Brown]] 2
+|attendance=
+|referee=Dedric Taylor, Natalie Sago, Wesley Ford, Karleena Tobin
+}}
+
+{{Basketballbox|bg=#eee |date=July 4 |time=5:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1='''[[Charlotte Hornets]]''' |score1='''78'''
+|team2=[[Oklahoma City Thunder]] |score2=74
+|report=[http://www.nba.com/games/20160704/CHAOKC/gameinfo.html Boxscore]
+|Q1='''20'''–11 |Q2=21–'''22''' |Q3='''18'''–16 |Q4=19–'''25'''
+|points1=[[Aaron Harrison]] 19 |points2=[[Semaj Christon]] 23
+|rebounds1=[[Brandon Paul]] 11  |rebounds2=[[Kameron Woods]] 8
+|assist1=[[Aaron Harrison]] 4  |assist2=[[Semaj Christon]] 6
+|attendance=
+|referee=Jonathan Sterling, William Mensah, Ryan Sassano
+}}
+
+====Day 4====
+----
+{{Basketballbox|bg=#eee |date=July 5 |time=1:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Orlando Magic|Orlando Magic Blue]] |score1=68
+|team2='''[[Miami Heat]]''' |score2='''84'''
+|report=[http://www.nba.com/games/20160705/ORBMIA/gameinfo.html Boxscore]
+|Q1='''26'''–24 |Q2=16–'''24''' |Q3=14–'''19''' |Q4=12–'''17''' 
+|points1=[[Nick Johnson (basketball)|Johnson]], [[Stephen Zimmerman|Zimmerman]] 10 |points2=[[Josh Richardson]] 22
+|rebounds1=[[Stephen Zimmerman]] 10  |rebounds2=[[Brianté Weber]] 10
+|assist1=[[Nick Johnson (basketball)|Nick Johnson]] 8  |assist2=[[Josh Richardson|Richardson]], [[Brianté Weber|Weber]] 6
+|attendance=
+|referee=Lauren Holtkamp, Mitchell Ervin, Chris Merlo
+}}
+
+{{Basketballbox|bg= |date=July 5 |time=3:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Los Angeles Clippers]] |score1=84
+|team2='''[[New York Knicks]]''' |score2='''92''' |overtime=OT
+|report=[http://www.nba.com/games/20160705/LACNYK/gameinfo.html Boxscore]
+|Q1='''24'''–20 |Q2=20–'''24''' |Q3='''25'''–17 |Q4=15–'''23''' |OT=0–'''8''' 
+|points1=[[Brice Johnson]] 23 |points2=[[Chasson Randle]] 24
+|rebounds1= [[Royce O'Neale]] 9 |rebounds2=[[Marshall Plumlee]] 6
+|assist1=[[David Michineau]] 7  |assist2=[[Chasson Randle]] 5
+|attendance=
+|referee=Nate Green, Nelson Santiago, Kevin Scott
+}}
+
+{{Basketballbox|bg=#eee |date=July 5 |time=5:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1='''[[Detroit Pistons]]''' |score1='''80'''
+|team2=[[Indiana Pacers]] |score2=76
+|report=[http://www.nba.com/games/20160705/DETIND/gameinfo.html Boxscore]
+|Q1=20–'''25''' |Q2='''18'''–14 |Q3='''19'''–14 |Q4=23–23 
+|points1=[[Stanley Johnson (basketball)|Stanley Johnson]] 16 |points2=[[Glenn Robinson III]] 20
+|rebounds1=''three players'' 5  |rebounds2=[[Rakeem Christmas|Christmas]], [[Glenn Robinson III|Robinson III]] 7
+|assist1=[[Lorenzo Brown]] 4  |assist2=[[Joseph Young (basketball)|Joe Young]] 5
+|attendance=
+|referee=Dedric Taylor, Jonathan Sterling, Tyler Ricks
+}}
+
+====Day 5====
+----
+{{Basketballbox|bg=#eee |date=July 6 |time=1:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1='''[[Orlando Magic|Orlando Magic White]]''' |score1='''95'''
+|team2=[[New York Knicks]] |score2=90
+|report=[http://www.nba.com/games/20160706/ORWNYK/gameinfo.html Boxscore]
+|Q1='''23'''–20 |Q2='''23'''–17 |Q3=20–'''25''' |Q4='''29'''–28 
+|points1=[[Treveon Graham]] 19 |points2=[[Ron Baker (basketball)|Ron Baker]] 22
+|rebounds1=[[Arinze Onuaku]] 13 |rebounds2=[[Ron Baker (basketball)|Ron Baker]] 9
+|assist1=''three players'' 3  |assist2=[[Ron Baker (basketball)|Ron Baker]] 5
+|attendance=
+|referee=Brandon Parker, Greg Danridge, Lauren Holtkamp
+}}
+
+{{Basketballbox|bg= |date=July 6 |time=3:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1='''[[Dallas Mavericks]]''' |score1='''84'''
+|team2=[[Charlotte Hornets]] |score2=81
+|report=[http://www.nba.com/games/20160706/DALCHA/gameinfo.html Boxscore]
+|Q1=15–'''17''' |Q2='''23'''–15 |Q3=16–'''24''' |Q4='''30'''–25 
+|points1=[[Darius Adams]] 25 |points2=[[Brandon Paul]] 17
+|rebounds1=[[Cory Jefferson]] 8  |rebounds2=[[Mike Tobey]] 14
+|assist1=[[Darius Adams]] 6  |assist2=[[Tim Quarterman]] 4
+|attendance=
+|referee=Kevin Cutler, Tim Greene, Saif Esho
+}}
+
+{{Basketballbox|bg=#eee |date=July 6 |time=5:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Indiana Pacers]] |score1=71
+|team2='''[[Oklahoma City Thunder]]''' |score2='''89'''
+|report=[http://www.nba.com/games/20160706/INDOKC/gameinfo.html Boxscore]
+|Q1='''20'''–18 |Q2=18–'''24''' |Q3=9–'''22''' |Q4=24–'''25''' 
+|points1=[[Jaron Johnson|Johnson]], [[Glenn Robinson III|Robinson III]] 12 |points2=[[Cameron Payne]] 19
+|rebounds1=[[Glenn Robinson III]] 6  |rebounds2=[[Dakari Johnson]] 9
+|assist1=[[Joseph Young (basketball)|Joe Young]] 4 |assist2=[[Cameron Payne]] 6
+|attendance=
+|referee=Brent Barnaky, Tyler Ricks, Ryan Sassano
+}}
+
+====Day 6====
+----
+{{Basketballbox|bg=#eee |date=July 7 |time=1:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Dallas Mavericks]] |score1=94
+|team2='''[[Orlando Magic|Orlando Magic Blue]]''' |score2='''96'''
+|report=[http://www.nba.com/games/20160707/DALORB/gameinfo.html Boxscore]
+|Q1=28–'''29''' |Q2='''30'''–27 |Q3=17–'''20''' |Q4=19–'''20''' 
+|points1=[[Vander Blue]] 17 |points2=[[Devyn Marble]] 21
+|rebounds1=[[Tyler Honeycutt]] 13  |rebounds2=[[Okaro White]] 10
+|assist1=[[Marquis Teague]] 5  |assist2=[[Nick Johnson (basketball)|Nick Johnson]] 9
+|attendance=
+|referee=Nate Anderson, Nick Buchert, Mitchell Ervin
+}}
+
+{{Basketballbox|bg= |date=July 7 |time=3:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Los Angeles Clippers]] |score1=69
+|team2='''[[Orlando Magic|Orlando Magic White]]''' |score2='''79'''
+|report=[http://www.nba.com/games/20160707/LACORW/gameinfo.html Boxscore]
+|Q1='''27'''–16 |Q2=19–'''22''' |Q3=9–'''30''' |Q4='''14'''–11 
+|points1=[[Brice Johnson]] 19 |points2=[[Treveon Graham]] 24
+|rebounds1=[[Brice Johnson]] 8  |rebounds2=[[Arinze Onuaku]] 7
+|assist1=[[Alex Hamilton (basketball)|Alex Hamilton]] 4  |assist2=[[Justin Dentmon]] 4
+|attendance=
+|referee=Dedric Taylor, Jonathan Sterling, Wesley Ford
+}}
+
+{{Basketballbox|bg=#eee |date=July 7 |time=5:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1='''[[Detroit Pistons]]''' |score1='''71'''
+|team2=[[Miami Heat]] |score2=58
+|report=[http://www.nba.com/games/20160707/DETMIA/gameinfo.html Boxscore]
+|Q1='''17'''–8 |Q2='''20'''–12 |Q3='''22'''–21 |Q4=12–'''17''' 
+|points1=[[Stanley Johnson (basketball)|Stanley Johnson]] 20 |points2=[[Rodney McGruder]] 14
+|rebounds1=[[Stanley Johnson (basketball)|Stanley Johnson]] 9  |rebounds2=[[Rodney McGruder]] 8
+|assist1=[[Lorenzo Brown]] 3  |assist2=[[Josh Richardson]] 4
+|attendance=
+|referee=Kevin Scott, Nelson Santiago, Chris Pacsi
+}}
+
+===Championship day===
+Each team will play one game on the league's final day for either first, third, fifth, seventh or ninth place.
+
+;Seeding Criteria
+The [[seed (sports)|seeding]] will be determined by a team's total points after the first five days. Eight points will be awarded in each game: four points for winning a game and one point for every quarter a team won. In the event of a tied quarter, each team is awarded half a point.<ref name="Orlando" /> If two or more teams had equal points, then the following [[tiebreaker]]s applied:
+#Total [[point (basketball)|point]] differential
+#Least total points allowed
+#[[coin flipping|Coin flip]]
+Each [[parity (mathematics)|odd-numbered]] seed will be paired with the team seeded immediately below it. For example, the top two seeds will play in the [[championship]] game, the third and fourth seeds will play in the third-place game, etc.
+
+====Standings/seedings====
+{| class="wikitable" style="text-align:center"
+|-
+!width="25px"| #
+!width="175px"| Team
+!width="25px"| {{tooltip|GP|Games played}}
+!width="25px"| {{tooltip|W|Games won}}
+!width="25px"| {{tooltip|L|Games lost}}
+!width="25px"| {{tooltip|PTS|Points}}
+!width="150px"| Tiebreaker Notes
+|-
+| 1 ||align="left"| [[Detroit Pistons]] || 4 || 4 || 0 ||  28.5  ||  
+|-
+| 2 ||align="left"| [[Orlando Magic|Orlando Magic White]] || 4 || 4 || 0 || 26 ||  
+|-
+| 3 ||align="left"| [[Miami Heat]] || 4 || 3 || 1 || 23 ||  
+|- 
+| 4 ||align="left"| [[Oklahoma City Thunder]] || 4 || 3 || 1 || 20 || 
+|-
+| 5 ||align="left"| [[Charlotte Hornets]] || 4 || 2 || 2 || 16.5 || 
+|-
+| 6 ||align="left"| [[Dallas Mavericks]] || 4 || 1 || 3 || 12 || 
+|-
+| 7 ||align="left"| [[Indiana Pacers]] || 4 || 1 || 3 || 11 ||
+|-
+| 8 ||align="left"| [[Orlando Magic|Orlando Magic Blue]] || 4 || 1 || 3 || 9 || 
+|-
+| 9 ||align="left"| [[New York Knicks]] || 4 || 1 || 3 || 8 || 
+|-
+| 10 ||align="left"| [[Los Angeles Clippers]] || 4 || 0 || 4 || 6 ||  
+|}
+
+====Championship Day Schedule====
+:''All times are in [[Eastern Time Zone|Eastern Daylight Time]] ([[UTC−4]])''
+
+=====Ninth Place Game=====
+{{Basketballbox|bg=#eee |date=July 8 |time=4:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Los Angeles Clippers]] |score1=77
+|team2='''[[New York Knicks]]''' |score2='''106'''
+|report=[http://www.nba.com/games/20160708/LACNYK/gameinfo.html Boxscore]
+|Q1=15–'''26''' |Q2=22–'''23''' |Q3=20–'''27''' |Q4= 20–'''30'''
+|points1=[[Branden Dawson]] 18 |points2=[[Ron Baker (basketball)|Ron Baker]] 20
+|rebounds1=[[Brice Johnson|Johnson]], [[Diamond Stone|Stone]] 7 |rebounds2=[[Louis Labeyrie]] 12
+|assist1=[[Brice Johnson]] 4 |assist2=[[Chasson Randle]] 6
+|attendance=
+|referee=Brent Barnaky, Jacob Barnett, Joe Prince, Tyler Ricks 
+}}
+
+=====Seventh Place Game=====
+{{Basketballbox|bg=#eee |date=July 8 |time=2:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1=[[Orlando Magic|Orlando Magic Blue]] |score1=79
+|team2='''[[Indiana Pacers]]''' |score2='''85'''
+'''|report=[http://www.nba.com/games/20160708/ORBIND/gameinfo.html Boxscore]
+|Q1=11–'''24''' |Q2='''18'''–13 |Q3=19–'''27''' |Q4= '''31'''–21
+|points1=[[Nick Johnson (basketball)|Nick Johnson]] 20 |points2=[[Glenn Robinson III]] 14
+|rebounds1=[[Okaro White]] 7  |rebounds2= [[Jamari Traylor]] 7
+|assist1=[[Nick Johnson (basketball)|Nick Johnson]] 8  |assist2=[[Nate Wolters]] 5
+|attendance=
+|referee=Dedric Taylor, Tyler Ricks, Wesley Ford 
+}}
+
+=====Fifth Place Game=====
+{{Basketballbox|bg=#eee |date=July 8 |time=8:00 am |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1='''[[Dallas Mavericks]]''' |score1='''97'''
+|team2=[[Charlotte Hornets]] |score2=92
+|report=[http://www.nba.com/games/20160708/DALCHA/gameinfo.html Boxscore]
+|Q1=19–'''27''' |Q2=20–'''27''' |Q3='''30'''–18 |Q4='''28'''–20 
+|points1=[[Casey Prather]] 23 |points2=[[Ramon Galloway]] 25
+|rebounds1=[[Jaleel Cousins]] 7  |rebounds2=[[Tim Quarterman|Quarterman]], [[Joseph Uchebo|Uchebo]] 8
+|assist1=[[Darius Adams|Adams]], [[Vander Blue|Blue]] 6  |assist2=[[Ramon Galloway]] 4
+|attendance=
+|referee=Mitchell Ervin, Nate Green, Nate Anderson
+}}
+
+=====Third Place Game=====
+{{Basketballbox|bg=#fdb |date=July 8 |time=10:00 am |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1='''[[Oklahoma City Thunder]]''' |score1='''86'''
+|team2=[[Miami Heat]] |score2=72
+|report=[http://www.nba.com/games/20160708/OKCMIA/gameinfo.html Boxscore]
+|Q1=15–'''18''' |Q2='''23'''–19 |Q3='''27'''–18 |Q4='''21'''–17 
+|points1=[[Semaj Christon]] 22 |points2=[[Victor Rudd]] 22
+|rebounds1=[[Josh Huestis|Huestis]], [[Dakari Johnson|Johnson]] 7  |rebounds2=[[Victor Rudd]] 12
+|assist1=[[Semaj Christon|Christon]], [[Cameron Payne|Payne]] 4  |assist2=[[Victor Rudd]] 4
+|attendance=
+|referee=Chris Pacsi, Nelson Santiago, Lauren Holtkamp
+}}
+
+=====Championship=====
+{{Basketballbox|bg=#ffffd0 |date=July 8 |time=12:00 pm |place=[[Amway Center]], [[Orlando]], [[Florida]] |TV=[[NBA TV]]
+|team1='''[[Orlando Magic|Orlando Magic White]]''' |score1='''87'''
+|team2=[[Detroit Pistons]] |score2=84 |overtime=OT
+|report=[http://www.nba.com/games/20160708/ORWDET/gameinfo.html Boxscore]
+|Q1=26–26 |Q2='''20'''–12 |Q3=17–'''22''' |Q4=21–'''24''' |OT='''3'''–0
+|points1=[[Kevin Murphy (basketball)|Kevin Murphy]] 19 |points2=[[Henry Ellenson]] 22
+|rebounds1=[[Arinze Onuaku]] 12  |rebounds2=[[Henry Ellenson]] 11
+|assist1=[[Justin Dentmon]] 9  |assist2=[[Tekele Cotton|Cotton]], [[Stanley Johnson (basketball)|Johnson]] 5
+|attendance=
+|referee=Nick Buchert, Kevin Scott, Jonathan Sterling
+}}
+
+===Final Standings===
+{| class="wikitable" style="text-align:center"
+|-
+!width="25px"| #
+!width="175px"| Team
+!width="25px"| {{tooltip|GP|Games played}}
+!width="25px"| {{tooltip|W|Games won}}
+!width="25px"| {{tooltip|L|Games lost}}
+!width="25px"| {{tooltip|PCT|Winning percentage}}
+|- style="background:gold;"
+| 1 ||align="left"| [[Orlando Magic|Orlando Magic (White)]]  || 5 || 5 || 0 || 1.000
+|- style="background:silver;"
+| 2 ||align="left"| [[Detroit Pistons]] || 5 || 4 || 1 || .800
+|- style="background:#c96;"
+| 3 ||align="left"| [[Oklahoma City Thunder]]  || 5 || 4 || 1 || .800
+|-
+| 4 ||align="left"| [[Miami Heat]]  || 5 || 3 || 2 || .600
+|-
+| 5 ||align="left"| [[Dallas Mavericks]] || 5 || 2 || 3 || .400
+|-
+| 6 ||align="left"| [[Charlotte Hornets]] || 5 || 2 || 3 || .400
+|-
+| 7 ||align="left"|[[Indiana Pacers]]  || 5|| 2|| 3 || .400
+|-
+| 8 ||align="left"|[[Orlando Magic|Orlando Magic (Blue)]]  || 5 || 1 || 4 || .200
+|-
+| 9 ||align="left"|[[New York Knicks]]  || 5 || 2|| 3 || .400
+|-
+| 10 ||align="left"|[[Los Angeles Clippers]]  || 5 || 0 || 5 || .000
+|}
+
+===Statistical leaders===
+''Reference:'' <ref>{{cite web |url=http://www.nba.com/summerleague/2016/statistics/orlando/ |title=2016 Summer League Stats: Orlando |work=NBA.com |accessdate=July 9, 2016 |archive-url=https://web.archive.org/web/20160712103602/http://www.nba.com/summerleague/2016/statistics/orlando/ |archive-date=July 12, 2016 |url-status=dead }}</ref>
+{{col-begin|width=99%}}
+{{col-break|width=33%}}
+;Points
+{| class="wikitable" style="text-align:left"
+|-
+!width="150px"| Player
+!width="150px"| Team
+!width="25px"| {{tooltip|PPG|Points per game}}
+|-
+| [[Cameron Payne]] || [[Oklahoma City Thunder]] ||align="center"| 18.8
+|-
+| [[Chasson Randle]] || [[New York Knicks]] ||align="center"| 18.3
+|-
+| [[Vander Blue]] || [[Dallas Mavericks]] ||align="center"| 17.4
+|-
+| [[Semaj Christon]] || [[Oklahoma City Thunder]] ||align="center"| 16.8
+|-
+| [[Josh Richardson]] || [[Miami Heat]] ||align="center"| 16.7
+|-
+|}
+{{col-break|width=33%}}
+;[[rebound (basketball)|Rebounds]]
+{| class="wikitable" style="text-align:left"
+|-
+!width="150px"| Player
+!width="150px"| Team
+!width="25px"| {{tooltip|RPG|Rebounds per game}}
+|-
+| [[Brandon Ashley]] || [[Dallas Mavericks]] ||align="center"| 11.0
+|-
+| [[Arinze Onuaku]] || [[Orlando Magic|Orlando Magic White]] ||align="center"| 9.8
+|-
+| [[Tyler Honeycutt]] || [[Dallas Mavericks]] ||align="center"| 9.0 
+|-
+| [[Dakari Johnson]] || [[Oklahoma City Thunder]] ||align="center"| 8.6
+|-
+| [[Devin Booker (basketball, born 1991)|Devin Booker]] || [[New York Knicks]] ||align="center"| 8.0
+|}
+{{col-break|width=33%}}
+;[[assist (basketball)|Assists]]
+{| class="wikitable" style="text-align:left"
+|-
+!width="150px"| Player
+!width="150px"| Team
+!width="25px"| {{tooltip|APG|Assists per game}}
+|-
+| [[Nick Johnson (basketball)|Nick Johnson]] || [[Orlando Magic|Orlando Magic Blue]] ||align="center"| 7.4
+|-
+| [[Michael Gbinije]] || [[Detroit Pistons]] ||align="center"| 5.0
+|-
+| [[Chasson Randle]] || [[New York Knicks]] ||align="center"| 5.0
+|-
+| [[Josh Richardson]] || [[Miami Heat]] ||align="center"| 4.7
+|-
+| [[Darius Adams]] || [[Dallas Mavericks]] ||align="center"| 4.6
+|}
+{{col-end}}
+
+===Honors===
+Josh Cohen of the Orlando Magic's website ranked the top five most valuable players in the Orlando Pro Summer League <ref>{{cite web |url=http://www.nba.com/magic/gallery/5-most-valuable-players-2016-orlando-summer-league-cohen-20160708 |title=5 Most Valuable Players at 2016 Orlando Summer League |work=NBA.com/magic |date=July 8, 2016 |accessdate=July 9, 2016}}</ref>
+# [[Arinze Onuaku]], [[Orlando Magic|Orlando Magic White]] '''(MVP)'''
+# [[Stanley Johnson (basketball)|Stanley Johnson]], [[Detroit Pistons]] 
+# [[Cameron Payne]], [[Oklahoma City Thunder]] 
+# [[Josh Richardson]], [[Miami Heat]] 
+# [[Glenn Robinson III]], [[Indiana Pacers]]
+
+==Utah Jazz Summer League==
+In its now second year, the Utah Jazz Summer League will host four teams. Each team will play each other in a [[Round-robin tournament|round-robin]] format for a total of six games, with each team playing each day (July 4, 5, and 7).<ref name="Utah" />
+
+===Teams===
+
+*[[Utah Jazz]] (host)
+*[[Boston Celtics]]
+*[[Philadelphia 76ers]]
+*[[San Antonio Spurs]]
+
+===Utah Schedule===
+:''All times are in [[Eastern Time Zone|Eastern Daylight Time]] ([[UTC−4]])''
+
+====Day 1====
+----
+{{Basketballbox|bg=#eee |date=July 4 |time=7:00 pm |place=[[Vivint Smart Home Arena]], [[Salt Lake City]], [[Utah]] |TV=[[NBA TV]]
+|team1='''[[Boston Celtics]]''' |score1='''102'''
+|team2=[[Philadelphia 76ers]] |score2=94
+|report=[http://www.nba.com/games/20160704/BOSPHI/gameinfo.html Boxscore]
+|Q1='''23'''–20 |Q2=23–'''25''' |Q3='''29'''–26 |Q4='''27'''–23
+|points1=[[Terry Rozier]] 18 |points2=[[Christian Wood]] 20
+|rebounds1=''five players'' 6 |rebounds2=[[Ben Simmons]] 8
+|assist1=[[Terry Rozier]] 5 |assist2=[[T. J. McConnell]] 7
+|attendance=7,124
+|referee=Tre Maddox, Scott Twardoski, Brett Nansel
+}}
+
+{{Basketballbox|bg= |date=July 4 |time=9:00 pm |place=[[Vivint Smart Home Arena]], [[Salt Lake City]], [[Utah]] |TV=[[NBA TV]]
+|team1='''[[San Antonio Spurs]]''' |score1='''90'''
+|team2=[[Utah Jazz]] |score2=69
+|report=[http://www.nba.com/games/20160704/SASUTA/gameinfo.html Boxscore]
+|Q1=23–'''24''' |Q2='''26'''–16 |Q3='''20'''–13 |Q4='''21'''–16
+|points1=[[Kyle Anderson (basketball)|Kyle Anderson]] 25 |points2=[[Trey Lyles]] 13
+|rebounds1=[[Bryn Forbes]] 8  |rebounds2=[[Trey Lyles]] 12
+|assist1=[[Ryan Arcidiacono]] 4 |assist2=[[Olivier Hanlan]] 3
+|attendance=7,124
+|referee=Ben Taylor, Curtis Blair, Brandon Adair
+}}
+
+====Day 2====
+----
+{{Basketballbox|bg=#eee |date=July 5 |time=5:00 pm |place=[[Vivint Smart Home Arena]], [[Salt Lake City]], [[Utah]] |TV=[[NBA TV]]
+|team1=[[Philadelphia 76ers]] |score1=91
+|team2='''[[San Antonio Spurs]]''' |score2='''95'''
+|report=[http://www.nba.com/games/20160705/PHISAS/gameinfo.html Boxscore]
+|Q1='''18'''–16 |Q2=26–'''31''' |Q3=19–'''36''' |Q4='''28'''–12
+|points1=[[Christian Wood]] 19 |points2=[[Jonathon Simmons]] 35
+|rebounds1=[[James Webb III]] 8  |rebounds2=[[Kyle Anderson (basketball)|Kyle Anderson]] 8
+|assist1=[[Tomasz Gielo|Gielo]], [[Kwame Vaughn|Vaughn]] 3 |assist2=[[Ryan Arcidiacono|Arcidiacono]], [[Jonathon Simmons|Simmons]] 5
+|attendance=7,309
+|referee=Scott Twardoski, Brandon Adair, Brett Nansel
+}}
+
+{{Basketballbox|bg= |date=July 5 |time=7:00 pm |place=[[Vivint Smart Home Arena]], [[Salt Lake City]], [[Utah]] |TV=[[NBA TV]]
+|team1='''[[Boston Celtics]]''' |score1='''89'''
+|team2=[[Utah Jazz]] |score2=82
+|report=[http://www.nba.com/games/20160705/BOSUTA/gameinfo.html Boxscore]
+|Q1=23–23 |Q2=24–'''27''' |Q3='''18'''–10 |Q4='''24'''–22
+|points1=[[James Young (basketball)|James Young]] 17 |points2=[[Trey Lyles]] 26
+|rebounds1=[[Guerschon Yabusele]] 8 |rebounds2=[[Trey Lyles]] 11
+|assist1=[[Terry Rozier]] 4 |assist2=''three players'' 2
+|attendance=7,309
+|referee=Ben Taylor, Curtis Blair, Tre Maddox
+}}
+
+====Day 3====
+----
+{{Basketballbox|bg=#eee |date=July 7 |time=7:00 pm |place=[[Jon M. Huntsman Center]], [[Salt Lake City]], [[Utah]] |TV=[[NBA TV]]
+|team1='''[[Boston Celtics]]''' |score1='''87'''
+|team2=[[San Antonio Spurs]] |score2=86
+|report=[http://www.nba.com/games/20160707/BOSSAS/gameinfo.html Boxscore]
+|Q1='''27'''–18 |Q2=18–'''26''' |Q3='''23'''–21 |Q4=19–'''21'''
+|points1=[[Terry Rozier]] 23 |points2=[[Kyle Anderson (basketball)|Kyle Anderson]] 23
+|rebounds1=[[Terry Rozier|Rozier]], [[Guerschon Yabusele|Yabusele]] 7  |rebounds2=[[Kyle Anderson (basketball)|Kyle Anderson]] 10
+|assist1=[[Terry Rozier]] 6 |assist2=[[Kyle Anderson (basketball)|Kyle Anderson]] 7
+|attendance=6,267
+|referee=Scott Twardoski, Ben Taylor, Brandon Adair
+}}
+
+{{Basketballbox|bg= |date=July 7 |time=9:00 pm |place=[[Jon M. Huntsman Center]], [[Salt Lake City]], [[Utah]] |TV=[[NBA TV]]
+|team1='''[[Philadelphia 76ers]]''' |score1='''86'''
+|team2=[[Utah Jazz]] |score2=75
+|report=[http://www.nba.com/games/20160707/PHIUTA/gameinfo.html Boxscore]
+|Q1='''27'''–23 |Q2=16–'''20''' |Q3='''24'''–16 |Q4='''19'''–16
+|points1=[[Richaun Holmes|Holmes]], [[Christian Wood|Wood]] 17 |points2=[[Trey Lyles]] 22
+|rebounds1=[[Richaun Holmes|Holmes]], [[Ben Simmons|Simmons]] 7 |rebounds2=[[Trey Lyles]] 8
+|assist1=[[Ben Simmons]] 6 |assist2=[[Aaron Craft]] 6
+|attendance=6,267
+|referee=Tre Maddox, Curtis Blair, Brett Nansel
+}}
+
+===Final Results===
+{| class="wikitable" style="text-align:center"
+|-
+!width="25px"| #
+!width="175px"| Team
+!width="25px"| {{tooltip|GP|Games played}}
+!width="25px"| {{tooltip|W|Games won}}
+!width="25px"| {{tooltip|L|Games lost}}
+!width="25px"| {{tooltip|QW|Quarters Won}}
+|- style="background:gold;"
+| 1 ||align="left"| [[Boston Celtics]] || 3 || 3 || 0 || 7.5
+|-
+| 2 ||align="left"| [[San Antonio Spurs]] || 3 || 2 || 1 || 7
+|-
+| 3 ||align="left"| [[Philadelphia 76ers]] || 3 || 1 || 2 || 6
+|-
+| 4 ||align="left"| [[Utah Jazz]] || 3 || 0 || 3 || 3.5
+|}
+
+===Statistical leaders===
+''Reference:'' <ref>{{cite web |url=http://www.nba.com/summerleague/2016/statistics/utah/ |title=2016 Summer League Stats: Utah |work=NBA.com |date=July 7, 2016 |accessdate=July 7, 2016}}</ref>
+{{col-begin|width=99%}}
+{{col-break|width=33%}}
+;Points
+{| class="wikitable" style="text-align:left"
+|-
+!width="150px"| Player
+!width="150px"| Team
+!width="25px"| {{tooltip|PPG|Points per game}}
+|-
+| [[Kyle Anderson (basketball)|Kyle Anderson]] || [[San Antonio Spurs]] ||align="center"| 23.7 
+|-
+| [[Jonathon Simmons]] || [[San Antonio Spurs]] ||align="center"| 22.0
+|-
+| [[Dejounte Murray]] || [[San Antonio Spurs]] ||align="center"| 21.0
+|-
+| [[Trey Lyles]] || [[Utah Jazz]] ||align="center"| 20.3
+|-
+| [[Terry Rozier]] || [[Boston Celtics]] ||align="center"| 19.0
+|}
+{{col-break|width=33%}}
+;[[rebound (basketball)|Rebounds]]
+{| class="wikitable" style="text-align:left"
+|-
+!width="150px"| Player
+!width="150px"| Team
+!width="25px"| {{tooltip|RPG|Rebounds per game}}
+|-
+| [[Trey Lyles]] || [[Utah Jazz]] ||align="center"| 10.3
+|-
+| [[Kyle Anderson (basketball)|Kyle Anderson]] || [[San Antonio Spurs]] ||align="center"| 8.3
+|-
+| [[Ben Simmons]] || [[Philadelphia 76ers]] ||align="center"| 7.5
+|-
+| [[Guerschon Yabusele]] || [[Boston Celtics]] ||align="center"| 7.0
+|-
+| [[Terry Rozier]] || [[Boston Celtics]] ||align="center"| 6.3
+|}
+{{col-break|width=33%}}
+;[[assist (basketball)|Assists]]
+{| class="wikitable" style="text-align:left"
+|-
+!width="150px"| Player
+!width="150px"| Team
+!width="25px"| {{tooltip|APG|Assists per game}}
+|-
+| [[Ben Simmons]] || [[Philadelphia 76ers]] ||align="center"| 5.5
+|-
+| [[T. J. McConnell]] || [[Philadelphia 76ers]] ||align="center"| 5.0 
+|-
+| [[Terry Rozier]] || [[Boston Celtics]] ||align="center"| 5.0
+|-
+| [[Kyle Anderson (basketball)|Kyle Anderson]] || [[San Antonio Spurs]] ||align="center"| 4.3
+|-
+| [[Ryan Arcidiacono]] || [[San Antonio Spurs]] ||align="center"| 3.7
+|}
+{{col-end}}
+
+==Las Vegas NBA Summer League==
+Officially known as the '''Samsung NBA Summer League''' for sponsorship reasons, the Las Vegas NBA Summer League is the official summer league of the [[National Basketball Association|NBA]]. It is the premier summer league of the three, with a total of 23 teams, plus a Select Team from the [[NBA Development League]], participating. A total of 67 games will be played from July 8 to 18, 2016, at the [[Thomas & Mack Center]] and [[Cox Pavilion]], both located in [[Paradise, Nevada]] ([[Las Vegas Valley|near Las Vegas]]). Teams will compete in three preliminary games beginning on July 8 before being seeded in a tournament that leads to the Championship Game on July 18. Each team will play at least five games in Las Vegas.<ref name="Vegas" />
+
+===Teams===
+{{col-begin}}
+{{col-3}}
+*[[Atlanta Hawks]]
+*[[Boston Celtics]]
+*[[Brooklyn Nets]]
+*[[Chicago Bulls]]
+*[[Cleveland Cavaliers]]
+*[[Dallas Mavericks]]
+*[[Denver Nuggets]]
+*[[Golden State Warriors]]
+{{col-3}}
+*[[Houston Rockets]]
+*[[Los Angeles Lakers]]
+*[[Memphis Grizzlies]]
+*[[Miami Heat]]
+*[[Milwaukee Bucks]]
+*[[Minnesota Timberwolves]]
+*[[NBA Development League|NBA D-League Select]]
+*[[New Orleans Pelicans]]
+{{col-3}}
+*[[Philadelphia 76ers]]
+*[[Phoenix Suns]]
+*[[Portland Trail Blazers]]
+*[[Sacramento Kings]]
+*[[San Antonio Spurs]]
+*[[Toronto Raptors]]
+*[[Utah Jazz]]
+*[[Washington Wizards]]
+{{col-end}}
+
+===Las Vegas Schedule===
+''Source:'' <ref>{{cite web |url=http://www.nba.com/2016/news/06/21/summer-league-schedule-official-release/index.html?ls=iref:nba:specials |title=Top 10 Draft selections set to compete at Samsung NBA Summer League 2016 |work=NBA.com |date=June 21, 2016 |accessdate=June 28, 2016}}</ref><br />
+''All times are in [[Eastern Time Zone|Eastern Daylight Time]] ([[UTC−4]])''
+
+====Day 1====
+----
+{{Basketballbox|bg=#eee |date=July 8 |time=6:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Milwaukee Bucks]]''' |score1='''81'''
+|team2=[[Cleveland Cavaliers]] |score2=75
+|report=[http://www.nba.com/games/20160708/MILCLE/gameinfo.html Boxscore]
+|Q1='''24'''–20 |Q2= '''24'''–21 |Q3=16–'''17''' |Q4=17–17
+|points1=[[Terran Petteway]] 15 |points2=[[Jordan McRae]] 23
+|rebounds1=[[Thon Maker]] 13 |rebounds2=[[DeAndre Liggins]] 7
+|assist1=[[Julyan Stone]] 4 |assist2=[[Kay Felder]] 5
+|attendance=
+|referee=Marat Kogut, John Conley, Jemel Spearman 
+}}
+{{Basketballbox|bg= |date=July 8 |time=6:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1=[[NBA Development League|NBA D-League Select]] |score1=79
+|team2='''[[Memphis Grizzlies]]''' |score2='''99'''
+|report=[http://www.nba.com/games/20160708/DLSMEM/gameinfo.html Boxscore]
+|Q1=16–'''26'''|Q2= 14–'''26'''|Q3=19–'''26''' |Q4='''30'''–21
+|points1=[[Verdell Jones]] 12 |points2=[[Andrew Harrison (basketball)|Andrew Harrison]] 23
+|rebounds1= [[Joel Wright (basketball)|Joel Wright]] 6 |rebounds2=[[Jonathan Holmes (basketball)|Jonathan Holmes]] 9
+|assist1=[[Brandon Fields (basketball)|Brandon Fields]] 4 |assist2=[[Andrew Harrison (basketball)|Andrew Harrison]] 4
+|attendance=
+|referee=JT Orr, Randy Richardson, Kevin Fahy
+}}
+{{Basketballbox|bg=#eee |date=July 8 |time=8:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Atlanta Hawks]]''' |score1='''83'''
+|team2=[[Houston Rockets]] |score2=78
+|report=[http://www.nba.com/games/20160708/ATLHOU/gameinfo.html Boxscore]
+|Q1=12–'''22''' |Q2= '''25'''–22|Q3='''26'''–12 |Q4=20–'''22'''
+|points1=[[Kevin Pangos]] 16 |points2=[[Sam Dekker]] 18
+|rebounds1=[[Brandon Ashley|Ashley]], [[Walter Tavares|Tavares]] 8 |rebounds2=[[Michael Beasley]] 9
+|assist1=[[Lamar Patterson]] 6 |assist2=[[Gary Payton II]] 5
+|attendance=
+|referee=Karl Lane, John Butler, Ray Bullock
+}}
+{{Basketballbox|bg= |date=July 8 |time=8:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN]]
+|team1=[[Minnesota Timberwolves]] |score1=82
+|team2='''[[Denver Nuggets]]''' |score2='''88'''
+|report=[http://www.nba.com/games/20160708/MINDEN/gameinfo.html Boxscore]
+|Q1='''26'''–15 |Q2=20–'''24''' |Q3=24–'''28''' |Q4=12–'''21'''
+|points1=[[Kris Dunn]] 27 |points2=[[Emmanuel Mudiay]] 23
+|rebounds1=[[Tyus Jones]] 10 |rebounds2=[[Emmanuel Mudiay]] 8
+|assist1=[[Tyus Jones]] 4 |assist2=[[Jimmer Fredette|Fredette]], [[Emmanuel Mudiay|Mudiay]] 8
+|attendance=
+|referee=Vladimir Voyard-Tadal, Ray Acosta, Phenizee Ransom 
+}}
+{{Basketballbox|bg=#eee |date=July 8 |time=10:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=[[Sacramento Kings]] |score1=47
+|team2='''[[Toronto Raptors]]''' |score2='''88'''
+|report=[http://www.nba.com/games/20160708/SACTOR/gameinfo.html Boxscore]
+|Q1=16–'''27''' |Q2=7–'''18''' |Q3=6–'''22''' |Q4=18–'''21'''
+|points1=''three players'' 7 |points2= [[Norman Powell]] 13
+|rebounds1=[[Skal Labissière]] 8 |rebounds2=[[Jakob Pöltl|Jakob Poeltl]] 9
+|assist1=[[Willie Cauley-Stein]] 3 |assist2=[[Delon Wright]] 6
+|attendance=
+|referee=Aaron Smith, Jason Goldenberg, Anthony Burkes
+}}
+{{Basketballbox|bg= |date=July 8 |time=10:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN]]
+|team1='''[[Los Angeles Lakers]]''' |score1='''85'''
+|team2=[[New Orleans Pelicans]] |score2=65
+|report=[http://www.nba.com/games/20160708/LALNOP/gameinfo.html Boxscore]
+|Q1=17–17 |Q2='''27'''–12 |Q3='''19'''–17 |Q4='''22'''–19
+|points1=[[D'Angelo Russell]] 20 |points2=[[Buddy Hield]] 13
+|rebounds1=[[D'Angelo Russell]] 11 |rebounds2=[[Cheick Diallo]] 7
+|assist1=[[D'Angelo Russell]] 6 |assist2=''three players'' 2 
+|attendance=
+|referee=Gediminas Petraitis, Charles Watson, Suyash Mehta
+}}
+
+====Day 2====
+----
+{{Basketballbox|bg=#eee |date=July 9 |time=4:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Phoenix Suns]]''' |score1='''86'''
+|team2=[[Portland Trail Blazers]] |score2=73
+|report=[http://www.nba.com/games/20160709/PHXPOR/gameinfo.html Boxscore]
+|Q1='''16'''–13 |Q2='''26'''–22 |Q3='''26'''–18|Q4=18–'''20'''
+|points1=[[Devin Booker]] 28  |points2=[[Pat Connaughton]] 14
+|rebounds1=[[Alan Williams (basketball)|Alan Williams]] 12 |rebounds2=[[Noah Vonleh]] 11
+|assist1=[[Tyler Ulis]] 7  |assist2=[[Pierre Jackson]] 4
+|attendance=
+|referee=Eric Dalen, Jeff Wooten, Burris Anthony 
+}}
+{{Basketballbox|bg= |date=July 9 |time=4:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1=[[Cleveland Cavaliers]] |score1=73
+|team2='''[[Brooklyn Nets]]''' |score2='''79'''
+|report=[http://www.nba.com/games/20160709/CLEBKN/gameinfo.html Boxscore]
+|Q1=11–'''13''' |Q2=22–'''25''' |Q3='''19'''–15 |Q4=21–'''26'''
+|points1=[[Jordan McRae]] 27  |points2=[[Sean Kilpatrick]] 19
+|rebounds1=[[Sir'Dominic Pointer]] 8 |rebounds2=[[Rondae Hollis-Jefferson|Hollis-Jefferson]], [[Chris McCullough|McCullough]] 8
+|assist1=[[Kay Felder]] 4 |assist2= [[Yogi Ferrell|Ferrell]], [[Rondae Hollis-Jefferson|Hollis-Jefferson]] 4
+|attendance=
+|referee= Vladimir Voyard-Tadal, Matthew Myers, John Conley 
+}}
+{{Basketballbox|bg=#eee |date=July 9 |time=6:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=[[Boston Celtics]] |score1=62
+|team2='''[[Chicago Bulls]]''' |score2='''71'''
+|report=[http://www.nba.com/games/20160709/BOSCHI/gameinfo.html Boxscore]
+|Q1=10–'''20''' |Q2='''28'''–18 |Q3=12–'''13''' |Q4=12–'''20'''
+|points1=[[Terry Rozier]] 13 |points2=[[Bobby Portis]] 17
+|rebounds1=[[Jordan Mickey|Mickey]], [[Guerschon Yabusele|Yabusele]] 7 |rebounds2=[[Bobby Portis]] 13
+|assist1=[[Terry Rozier]] 2 |assist2=[[Spencer Dinwiddie|Dinwiddie]], [[Patrick Miller (basketball)|Miller]] 3
+|attendance=
+|referee=CJ Washington, Jaston Carter, Evan Scott
+}}
+{{Basketballbox|bg= |date=July 9 |time=6:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1='''[[Washington Wizards]]''' |score1='''88'''
+|team2=[[Utah Jazz]] |score2=73
+|report=[http://www.nba.com/games/20160709/WASUTA/gameinfo.html Boxscore]
+|Q1=19–19 |Q2='''21'''–16 |Q3='''29'''–14 |Q4=19–'''24'''
+|points1=[[Kelly Oubre Jr.]] 20 |points2=[[Trey Lyles]] 28
+|rebounds1=[[Kelly Oubre Jr.]] 8 |rebounds2=[[Mike Tobey]] 7
+|assist1=[[D. J. Cooper]] 5 |assist2=[[Aaron Craft]] 8
+|attendance=
+|referee=Kevin Fahy, Don Hudson, Phenizee Ransom
+}}
+{{Basketballbox|bg=#eee |date=July 9 |time=8:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Denver Nuggets]]''' |score1='''106'''
+|team2=[[Memphis Grizzlies]] |score2=62
+|report=[http://www.nba.com/games/20160709/DENMEM/gameinfo.html Boxscore]
+|Q1=28–28 |Q2='''37'''–10 |Q3='''24'''–16 |Q4='''17'''–8
+|points1=[[Jimmer Fredette]] 26 |points2=[[Wade Baldwin IV]] 10
+|rebounds1=[[Mateusz Ponitka]] 10 |rebounds2=''four players'' 4
+|assist1=[[Jamal Murray]] 4 |assist2=[[Andrew Harrison (basketball)|Andrew Harrison]] 3
+|attendance=
+|referee=Aaron Smith, John Butler, Ray Bullock
+}}
+{{Basketballbox|bg= |date=July 9 |time=8:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1=[[Philadelphia 76ers]] |score1=69
+|team2='''[[Los Angeles Lakers]]''' |score2='''70'''
+|report=[http://www.nba.com/games/20160709/PHILAL/gameinfo.html Boxscore]
+|Q1='''14'''–13 |Q2='''16'''–12 |Q3='''22'''–21 |Q4=17–'''24'''
+|points1=[[T. J. McConnell]] 12 |points2=[[D'Angelo Russell]] 22
+|rebounds1=[[Ben Simmons]] 10 |rebounds2=[[Larry Nance Jr.|Nance Jr.]], [[Ivica Zubac|Zubac]] 8
+|assist1=[[Ben Simmons]] 8 |assist2=[[D'Angelo Russell]] 5
+|attendance=
+|referee=Matt Kallio, William Mensah, Gediminas Petraitis
+}}
+{{Basketballbox|bg=#eee |date=July 9 |time=10:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Dallas Mavericks]]''' |score1='''83'''
+|team2=[[Miami Heat]] |score2=64
+|report=[http://www.nba.com/games/20160709/DALMIA/gameinfo.html Boxscore]
+|Q1='''19'''–15 |Q2=17–'''18''' |Q3='''21'''–18 |Q4='''26'''–13
+|points1=[[Jonathan Gibson (basketball)|Jonathan Gibson]] 30 |points2=[[Rodney McGruder]] 18
+|rebounds1=[[Jameel Warney]] 7 |rebounds2=[[Victor Rudd]] 6
+|assist1=[[Kyle Collinsworth]] 3 |assist2=[[Brianté Weber]] 5
+|attendance=
+|referee=Brandon Schwab, Scott Twardoski, Ray Acosta
+}}
+{{Basketballbox|bg= |date=July 9 |time=10:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1='''[[San Antonio Spurs]]''' |score1='''63'''
+|team2=[[Golden State Warriors]] |score2=61
+|report=[http://www.nba.com/games/20160709/SASGSW/gameinfo.html Boxscore]
+|Q1=14–'''18''' |Q2=13–'''15''' |Q3='''25'''–19 |Q4='''11'''–9
+|points1=[[Kyle Anderson (basketball)|Kyle Anderson]] 14 |points2=[[Keifer Sykes]] 15
+|rebounds1=[[Dejounte Murray]] 10 |rebounds2=[[Darion Atkins|Atkins]], [[David Laury|Laury]] 8
+|assist1=[[Kyle Anderson (basketball)|Kyle Anderson]] 2 |assist2=[[Darion Atkins]] 3
+|attendance=
+|referee=Marat Kogut, Greg Danridge, Brandon Adair
+}}
+
+====Day 3====
+----
+{{Basketballbox|bg=#eee |date=July 10 |time=4:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Atlanta Hawks]]''' |score1='''88'''
+|team2=[[Washington Wizards]] |score2=80
+|report=[http://www.nba.com/games/20160710/ATLWAS/gameinfo.html Boxscore]
+|Q1='''29'''–18 |Q2=20–'''23''' |Q3=17–'''24''' |Q4='''22'''–15
+|points1=[[Bryce Cotton]] 21 |points2=[[Kelly Oubre Jr.]] 21
+|rebounds1=[[DeAndre' Bembry|Bembry]], [[Matt Costello|Costello]] 6 |rebounds2=[[Micheal Eric]] 8
+|assist1=[[DeAndre' Bembry]] 7 |assist2=[[D. J. Cooper]] 3
+|attendance=
+|referee=Ben Taylor, Kevin Fahy, Jamel Spearman
+}}
+{{Basketballbox|bg= |date=July 10 |time=4:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1=[[Milwaukee Bucks]] |score1=86
+|team2='''[[NBA Development League|NBA D-League Select]]''' |score2='''91'''
+|report=[http://www.nba.com/games/20160710/MILDLS/gameinfo.html Boxscore]
+|Q1='''21'''–19 |Q2='''28'''–26 |Q3=19–'''22''' |Q4=18–'''24'''
+|points1=[[Rashad Vaughn]] 24 |points2=[[Jabril Trawick]] 15
+|rebounds1=[[Thon Maker]] 17 |rebounds2=[[Patrick Christopher]] 6
+|assist1=[[Malcolm Brogdon|Brogdon]], [[Rashad Vaughn|Vaughn]] 4 |assist2=[[Jaron Johnson]] 5
+|attendance=
+|referee=Evan Scott, Karl Lane, Brandon Adair
+}}
+{{Basketballbox|bg=#eee |date=July 10 |time=6:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=[[Minnesota Timberwolves]] |score1=80
+|team2='''[[Toronto Raptors]]''' |score2='''82'''
+|report=[http://www.nba.com/games/20160710/MINTOR/gameinfo.html Boxscore]
+|Q1=13–'''19''' |Q2='''22'''–14 |Q3='''30'''–24 |Q4=15–'''25'''
+|points1=[[Kris Dunn]] 21 |points2=[[Norman Powell]] 29
+|rebounds1=[[Kris Dunn]] 9 |rebounds2=[[Norman Powell]] 8
+|assist1=[[Kris Dunn|Dunn]], [[Tyus Jones|Jones]] 4 |assist2=[[Norman Powell|Powell]], [[Delon Wright|Wright]] 3
+|attendance=
+|referee=Nick Meyer, Scott Twardoski, Jason Goldenberg
+}}
+{{Basketballbox|bg= |date=July 10 |time=6:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1='''[[Houston Rockets]]''' |score1='''85'''
+|team2=[[Sacramento Kings]] |score2=73
+|report=[http://www.nba.com/games/20160710/HOUSAC/gameinfo.html Boxscore]
+|Q1='''23'''–18 |Q2=15–'''23''' |Q3='''21'''–15 |Q4='''26'''–17
+|points1=[[Sam Dekker]] 19 |points2=[[Malachi Richardson]] 20
+|rebounds1=[[Chinanu Onuaku]] 9 |rebounds2=[[Malachi Richardson]] 7
+|assist1=[[Isaiah Taylor]] 5 |assist2=[[David Stockton]] 5
+|attendance=
+|referee=Evan Scott, Justin VanDuyne, JB DeRosa
+}}
+{{Basketballbox|bg=#eee |date=July 10 |time=8:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Utah Jazz]]''' |score1='''79'''
+|team2=[[New Orleans Pelicans]] |score2=72
+|report=[http://www.nba.com/games/20160710/UTANOP/gameinfo.html Boxscore]
+|Q1='''16'''–14 |Q2='''21'''–18 |Q3='''22'''–20 |Q4=20–20
+|points1=[[Tyrone Wallace]] 15 |points2=[[Buddy Hield]] 21
+|rebounds1=[[Joel Bolomboy]] 11 |rebounds2=[[Cheick Diallo]] 11
+|assist1=[[Quincy Ford|Ford]], [[Marcus Paige|Paige]] 3 |assist2=[[Larry Drew II]] 6
+|attendance=
+|referee=CJ Washington, Phenizee Ransom, Charles Rubia″
+}}
+{{Basketballbox|bg= |date=July 10 |time=8:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1='''[[Chicago Bulls]]''' |score1='''83'''
+|team2=[[Philadelphia 76ers]] |score2=70
+|report=[http://www.nba.com/games/20160710/CHIPHI/gameinfo.html Boxscore]
+|Q1='''13'''–12 |Q2=18–'''19''' |Q3='''27'''–18 |Q4='''25'''–21
+|points1=[[Cristiano Felício]] 17 |points2=[[Ben Simmons]] 18
+|rebounds1=[[Cristiano Felício]] 10 |rebounds2=[[T. J. McConnell|McConnell]], [[Christian Wood|Wood]] 6
+|assist1=[[Spencer Dinwiddie|Dinwiddie]], [[Cristiano Felício|Felício]] 4 |assist2=[[T. J. McConnell]] 4
+|attendance=
+|referee= Eric Dalen, Randy Richardson, Isaac Barnett
+}}
+{{Basketballbox|bg=#eee |date=July 10 |time=10:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[San Antonio Spurs]]''' |score1='''85'''
+|team2=[[Portland Trail Blazers]] |score2=69
+|report=[http://www.nba.com/games/20160710/SASPOR/gameinfo.html Boxscore]
+|Q1='''18'''–9 |Q2='''30'''–24 |Q3=13–'''17''' |Q4='''24'''–19
+|points1=[[Kyle Anderson (basketball)|Kyle Anderson]] 23 |points2=[[Noah Vonleh]] 16
+|rebounds1=[[Cady Lalanne]] 9 |rebounds2=[[Noah Vonleh]] 12
+|assist1=''five players'' 2 |assist2=[[Russ Smith (basketball)|Russ Smith]] 4
+|attendance=
+|referee=Suyash Mehta, JT Orr, Jaston Carter
+}}
+{{Basketballbox|bg= |date=July 10 |time=10:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1='''[[Phoenix Suns]]''' |score1='''87'''
+|team2=[[Boston Celtics]] |score2=74
+|report=[http://www.nba.com/games/20160710/PHXBOS/gameinfo.html Boxscore]
+|Q1='''24'''–16 |Q2=20–'''24''' |Q3='''21'''–10 |Q4=22–'''24'''
+|points1=[[Devin Booker]] 24 |points2=[[Jordan Mickey]] 18
+|rebounds1=[[Marquese Chriss]] 14 |rebounds2=[[Jordan Mickey|Mickey]], [[Abdel Nader|Nader]] 6
+|assist1=[[Devin Booker]] 7 |assist2=[[Jaylen Brown|Brown]], [[Corey Walden|Walden]] 3
+|attendance=
+|referee=Jacyn Goble, Steven Perry, Haywoode Workman
+}}
+
+====Day 4====
+----
+{{Basketballbox|bg=#eee |date=July 11 |time=4:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1=[[Milwaukee Bucks]] |score1=81
+|team2='''[[Memphis Grizzlies]]''' |score2='''85'''
+|report=[http://www.nba.com/games/20160711/MILMEM/gameinfo.html Boxscore]
+|Q1='''18'''–14 |Q2=20–'''24''' |Q3=25–'''27''' |Q4=18–'''20'''
+|points1=[[Terran Petteway]] 21 |points2=[[D. J. Stephens]] 21
+|rebounds1=[[Thon Maker|Maker]], [[Terran Petteway|Petteway]] 6 |rebounds2=[[Jonathan Holmes (basketball)|Jonathan Holmes]] 9
+|assist1=[[Malcolm Brogdon]] 5 |assist2=[[Andrew Harrison (basketball)|Andrew Harrison]] 6
+|attendance=
+|referee=Jemel Spearman, Jacyn Goble, Justin VanDuyne
+}}
+{{Basketballbox|bg= |date=July 11 |time=4:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Brooklyn Nets]]''' |score1='''72'''
+|team2=[[Atlanta Hawks]] |score2=65
+|report=[http://www.nba.com/games/20160711/BKNATL/gameinfo.html Boxscore]
+|Q1='''18'''–14 |Q2='''27'''–15 |Q3=13–'''21''' |Q4=14–'''15'''
+|points1=[[Chris McCullough]] 16 |points2=[[Brandon Ashley]] 11
+|rebounds1=[[Chris McCullough]] 8 |rebounds2=[[Walter Tavares|Edy Tavares]] 8
+|assist1=[[Rondae Hollis-Jefferson]] 4 |assist2=[[DeAndre' Bembry]] 3
+|attendance=
+|referee=JT Orr, Ray Acosta, John Butler
+}}
+{{Basketballbox|bg=#eee |date=July 11 |time=6:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1=[[Houston Rockets]] |score1=71
+|team2='''[[NBA Development League|NBA D-League Select]]''' |score2='''89'''
+|report=[http://www.nba.com/games/20160711/HOUDLS/gameinfo.html Boxscore]
+|Q1='''26'''–23 |Q2=15–'''20''' |Q3=15–'''28''' |Q4=15–'''18'''
+|points1=[[Montrezl Harrell]] 18 |points2=[[Joel Wright (basketball)|Joel Wright]] 19
+|rebounds1=[[Montrezl Harrell]] 8 |rebounds2=[[Jaron Johnson]] 8
+|assist1=[[Sam Dekker]] 6 |assist2=[[Brandon Fields (basketball)|Fields]], [[Tu Holloway|Holloway]] 3
+|attendance=
+|referee=Marat Kogut, Jason Goldenberg, Mousa Dagher
+}}
+{{Basketballbox|bg= |date=July 11 |time=6:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Toronto Raptors]]''' |score1='''80'''
+|team2=[[Dallas Mavericks]] |score2=69
+|report=[http://www.nba.com/games/20160711/TORDAL/gameinfo.html Boxscore]
+|Q1='''20'''–15 |Q2='''16'''–6 |Q3=18–'''28''' |Q4='''26'''–20
+|points1=[[Norman Powell]] 23 |points2=[[Jameel Warney]] 14
+|rebounds1=[[Jakob Pöltl|Jakob Poeltl]] 7 |rebounds2=[[Jameel Warney]] 8
+|assist1=[[Delon Wright]] 5 |assist2=''three players'' 3
+|attendance=
+|referee=Gediminas Petraitis, John Conley, Suyash Mehta
+}}
+{{Basketballbox|bg=#eee |date=July 11 |time=8:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1='''[[Miami Heat]]''' |score1='''92'''
+|team2=[[Denver Nuggets]] |score2=81
+|report=[http://www.nba.com/games/20160711/MIADEN/gameinfo.html Boxscore]
+|Q1=19–19 |Q2=20–'''25''' |Q3='''27'''–21 |Q4='''26'''–16
+|points1=[[Rodney McGruder]] 23 |points2=[[Jamal Murray]] 29
+|rebounds1=[[Okaro White]] 8 |rebounds2=[[Juan Hernangómez]] 12
+|assist1=[[Brianté Weber]] 7 |assist2=[[Juan Hernangómez]] 5
+|attendance=
+|referee=Brent Barnaky, JB DeRosa, Kevin Fahy
+}}
+{{Basketballbox|bg= |date=July 11 |time=8:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Cleveland Cavaliers]]''' |score1='''99'''
+|team2=[[Minnesota Timberwolves]] |score2=68
+|report=[http://www.nba.com/games/20160711/CLEMIN/gameinfo.html Boxscore]
+|Q1='''20'''–14 |Q2='''24'''–20 |Q3='''29'''–9 |Q4='''26'''–25
+|points1=[[Raphiael Putney]] 19 |points2=[[Tyus Jones]] 15
+|rebounds1=[[Cory Jefferson]] 8 |rebounds2=[[Devin Thomas (basketball)|Devin Thomas]] 8
+|assist1=[[DeAndre Liggins]] 5 |assist2=[[Tyus Jones|Jones]], [[Xavier Silas|Silas]] 3
+|attendance=
+|referee=Nick Buchert, Vladimir Voyard-Tadal, William Mensah
+}}
+{{Basketballbox|bg=#eee |date=July 11 |time=10:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1=[[Sacramento Kings]] |score1=66
+|team2='''[[New Orleans Pelicans]]''' |score2='''70'''
+|report=[http://www.nba.com/games/20160711/SACNOP/gameinfo.html Boxscore]
+|Q1='''20'''–13 |Q2=14–14 |Q3=11–'''27''' |Q4='''21'''–16
+|points1=[[Skal Labissière]] 16 |points2=[[Buddy Hield]] 23
+|rebounds1=[[Willie Cauley-Stein]] 8 |rebounds2=[[Cheick Diallo|Diallo]], [[Buddy Hield|Hield]] 7
+|assist1=[[David Stockton]] 4 |assist2=[[Larry Drew II|Drew II]], [[Buddy Hield|Hield]] 5
+|attendance=
+|referee=Karl Lane, Bharat Ramnanan, Randy Richardson
+}}
+{{Basketballbox|bg= |date=July 11 |time=10:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=[[Golden State Warriors]] |score1=65
+|team2='''[[Los Angeles Lakers]]''' |score2='''78'''
+|report=[http://www.nba.com/games/20160711/GSWLAL/gameinfo.html Boxscore]
+|Q1=11–'''17''' |Q2=16–'''26''' |Q3='''20'''–17 |Q4=18–18
+|points1=[[Keifer Sykes]] 16 |points2=[[D'Angelo Russell]] 26
+|rebounds1=[[Robert Carter (basketball)|Robert Carter]] 7 |rebounds2=[[Jarvis Varnado]] 10
+|assist1=[[Keifer Sykes]] 3 |assist2=[[Xavier Munford]] 4
+|attendance=
+|referee=Steve Anderson, Tyler Ford, Chance Moore
+}}
+
+====Day 5====
+----
+{{Basketballbox|bg=#eee |date=July 12 |time=4:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1='''[[Washington Wizards]]''' |score1='''87'''
+|team2=[[Brooklyn Nets]] |score2=85
+|report=[http://www.nba.com/games/20160712/WASBKN/gameinfo.html Boxscore]
+|Q1='''21'''–20 |Q2=18–'''24''' |Q3=21–'''22''' |Q4='''27'''–19
+|points1=[[Jarell Eddie|Eddie]], [[Kelly Oubre Jr.|Oubre Jr.]] 16 |points2=[[Rondae Hollis-Jefferson]] 19
+|rebounds1=''three players'' 6 |rebounds2=[[Jerrelle Benimon]] 9
+|assist1=[[Sterling Gibbs]] 5 |assist2=[[Josh Magette]] 5
+|attendance=
+|referee=Ben Taylor, Aaron Smith, Amit Balak
+}}
+{{Basketballbox|bg= |date=July 12 |time=4:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Portland Trail Blazers]]''' |score1='''92'''
+|team2=[[Utah Jazz]] |score2=89  |overtime=2OT
+|report=[http://www.nba.com/games/20160712/PORUTA/gameinfo.html Boxscore]
+|Q1='''19'''–11 |Q2=19–'''24''' |Q3=22–'''23''' |Q4=22–'''24''' |OT=7–7, '''3'''–0
+|points1=[[C. J. Fair]] 20 |points2=[[Trey Lyles]] 30
+|rebounds1=[[Noah Vonleh]] 10 |rebounds2=[[Quincy Ford]] 12
+|assist1=[[Pierre Jackson]] 5 |assist2=[[Aaron Craft]] 6
+|attendance=
+|referee=Haywoode Workman, Phenizee Ransom, Harja Jaladri
+}}
+{{Basketballbox|bg=#eee |date=July 12 |time=6:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1='''[[Boston Celtics]]''' |score1='''88'''
+|team2=[[Dallas Mavericks]] |score2=82
+|report=[http://www.nba.com/games/20160712/BOSDAL/gameinfo.html Boxscore]
+|Q1='''19'''–14 |Q2=18–'''22''' |Q3='''26'''–17 |Q4=25–'''29'''
+|points1=[[Terry Rozier]] 26 |points2=[[Justin Anderson (basketball)|Justin Anderson]] 29
+|rebounds1=[[Jaylen Brown]] 10 |rebounds2=[[Justin Anderson (basketball)|Justin Anderson]] 11
+|assist1=[[R. J. Hunter]] 4 |assist2=[[Kyle Collinsworth]] 4
+|attendance=
+|referee=Jacob Barnett, Marat Kogut, CJ Washington
+}}
+{{Basketballbox|bg= |date=July 12 |time=6:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''[[Miami Heat]]''' |score1='''80'''
+|team2=[[Phoenix Suns]] |score2=71
+|report=[http://www.nba.com/games/20160712/MIAPHX/gameinfo.html Boxscore]
+|Q1=15–'''16''' |Q2='''23'''–17 |Q3='''24'''–13 |Q4=18–'''25'''
+|points1=[[Michael Carrera]] 16 |points2=[[Alan Williams (basketball)|Alan Williams]] 18
+|rebounds1=[[Okaro White]] 12 |rebounds2=[[Alan Williams (basketball)|Alan Williams]] 10
+|assist1=[[Brianté Weber]] 6 |assist2=[[Tyler Ulis]] 7
+|attendance=
+|referee=Wesley Ford, Steve Anderson, Ray Acosta
+}}
+{{Basketballbox|bg=#eee |date=July 12 |time=8:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN]]
+|team1=[[San Antonio Spurs]] |score1=76
+|team2='''[[Chicago Bulls]]''' |score2='''79'''
+|report=[http://www.nba.com/games/20160712/SASCHI/gameinfo.html Boxscore]
+|Q1='''20'''–14 |Q2=21–'''25''' |Q3=18–'''21''' |Q4=17–'''19'''
+|points1=[[Jonathon Simmons]] 22 |points2=[[Bobby Portis]] 18
+|rebounds1=[[Jarnell Stokes]] 7 |rebounds2=[[Bobby Portis]] 8
+|assist1=[[Jonathon Simmons]] 3 |assist2=[[Denzel Valentine]] 3
+|attendance=
+|referee=Nick Buchert, Jaston Carter, Bharat Ramnanan
+}}
+{{Basketballbox|bg= |date=July 12 |time=8:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=[[Philadelphia 76ers]] |score1=77
+|team2='''[[Golden State Warriors]]''' |score2='''85'''
+|report=[http://www.nba.com/games/20160712/PHIGSW/gameinfo.html Boxscore]
+|Q1=20–'''22''' |Q2='''18'''–17 |Q3=19–'''26''' |Q4=20–20
+|points1=[[Christian Wood]] 22 |points2=[[Royce O'Neale|O'Neale]], [[Keifer Sykes|Sykes]] 16
+|rebounds1=[[Richaun Holmes|Holmes]], [[Ben Simmons|Simmons]] 8 |rebounds2=[[Ognjen Kuzmić]] 11
+|assist1=[[Ben Simmons]] 6 |assist2=[[Thomas Walkup]] 4
+|attendance=
+|referee=Brent Barnaky, Brandon Adair, Matt Kallio
+}}
+
+===Championship===
+The championship is determined by a [[single-elimination tournament]]; the top 8 teams receive a first-round [[bye (sports)|bye]].
+
+;Seeding criteria
+<!--''Reference:''-->
+
+Teams are seeded first by overall record, then by a tiebreaker system
+#Head-to-head result (applicable only to ties between two teams, not to multiple-team ties)
+#Quarter point system (1 point for win, .5 for tie, 0 for loss, 0 for overtime periods)
+#Point differential
+#Coin flip
+
+First-round losers will play consolation games to determine 17th through 24th places based on the tiebreaker system stated above. Second-round losers will play consolation games to determine ninth through 16th places.
+
+====Standings/seedings====
+<!---PLEASE REFRAIN FROM EDITING STANDINGS TIL COMPLETION OF ALL GAMES THAT DAY-->
+{| class="wikitable" style="text-align:center"
+|-
+!width="25px"| #
+!width="200px"| Team
+!width="25px"| {{tooltip|GP|Games played}}
+!width="25px"| {{tooltip|W|Games won}}
+!width="25px"| {{tooltip|L|Games lost}}
+!width="25px"| {{tooltip|PCT|Winning percentage}}
+!width="25px"| {{tooltip|QP|Quarter points}}
+!width="50px"| {{tooltip|PD|Point Differential (Tiebreaker)}}
+|- style="background:#eee;"
+| 1 || align="left"| [[Toronto Raptors]] || 3 || 3 || 0 || 1.000 || 9 || +54
+|- style="background:#eee;"
+| 2 || align="left"| [[Chicago Bulls]] || 3 || 3 || 0 || 1.000 || 9 || +25
+|- style="background:#eee;"
+| 3 || align="left"| [[Los Angeles Lakers]] || 3 || 3 || 0 || 1.000 || 7 ||  
+|- style="background:#eee;"
+| 4 || align="left"| [[Denver Nuggets]] || 3 || 2 || 1 || .667 || 8 ||
+|- style="background:#eee;"
+| 5 || align="left"| [[Phoenix Suns]] || 3 || 2 || 1 || .667 || 7 || +17
+|- style="background:#eee;"
+| 6 || align="left"| [[Brooklyn Nets]] || 3 || 2 || 1 || .667 || 7 || +11
+|- style="background:#eee;"
+| 7 || align="left"| [[Washington Wizards]] || 3 || 2 || 1 || .667 || 6.5 || +9
+|- style="background:#eee;"
+| 8 || align="left"| [[Memphis Grizzlies]] || 3 || 2 || 1 || .667 || 6.5 || -20
+|- 
+| 9 || align="left"| [[San Antonio Spurs]] || 3 || 2 || 1 || .667 || 6 || +15
+|- 
+| 10 || align="left"| [[Atlanta Hawks]] || 3 || 2 || 1 || .667 || 6 || +6
+|- 
+| 11 || align="left"| [[NBA Development League|NBA D-League Select]] || 3 || 2 || 1 || .667 || 6 || +3
+|- 
+| 12 || align="left"| [[Miami Heat]] || 3 || 2 || 1 || .667 || 5.5 ||
+|- 
+| 13 || align="left"| [[Utah Jazz]] || 3 || 1 || 2 || .333 || 8 || 
+|- 
+| 14 || align="left"| [[Cleveland Cavaliers]] || 3 || 1 || 2 || .333 || 6.5 ||
+|- 
+| 15 || align="left"| [[Dallas Mavericks]] || 3 || 1 || 2 || .333 || 6 || +2
+|-
+| 16 || align="left"| [[Golden State Warriors]] || 3 || 1 || 2 || .333 || 6 || -7
+|- 
+| 17 || align="left"| [[Houston Rockets]] || 3 || 1 || 2 || .333 || 6 || -11
+|-
+| 18 || align="left"| [[Milwaukee Bucks]] || 3 || 1 || 2 || .333 || 5.5 || 
+|- 
+| 19 || align="left"| [[Boston Celtics]] || 3 || 1 || 2 || .333 || 5 ||
+|- 
+| 20 || align="left"| [[Portland Trail Blazers]] || 3 || 1 || 2 || .333 || 3 ||
+|-
+| 21 || align="left"| [[New Orleans Pelicans]] || 3 || 1 || 2 || .333 || 2.5 ||
+|-
+| 22 || align="left"| [[Philadelphia 76ers]] || 3 || 0 || 3 || .000 || 5.5 ||  
+|- 
+| 23 || align="left"| [[Sacramento Kings]] || 3 || 0 || 3 || .000 || 3.5 ||  
+|-
+| 24 || align="left"| [[Minnesota Timberwolves]] || 3 || 0 || 3 || .000 || 3 ||       
+|}
+
+====Bracket====
+{{32TeamBracket-Byes
+| RD1=First Round<br>(July 13)
+| RD2=Second Round<br>(July 14)
+| RD3=Quarterfinals<br>(July 16)
+| RD4=Semifinals<br>(July 17)
+| RD5=Final<br>(July 18)
+
+| RD1-seed03=16
+| RD1-team03='''Golden State Warriors'''
+| RD1-score03='''80'''
+| RD1-seed04=17
+| RD1-team04=Houston Rockets
+| RD1-score04=76
+
+| RD1-seed05=9
+| RD1-team05=San Antonio Spurs
+| RD1-score05=71
+| RD1-seed06=24
+| RD1-team06='''Minnesota Timberwolves'''
+| RD1-score06='''80'''
+
+| RD1-seed11=12
+| RD1-team11='''Miami Heat'''
+| RD1-score11='''81'''
+| RD1-seed12=21
+| RD1-team12=New Orleans Pelicans
+| RD1-score12=77
+
+| RD1-seed13=13
+| RD1-team13='''Utah Jazz'''
+| RD1-score13='''86'''
+| RD1-seed14=20
+| RD1-team14=Portland Trail Blazers
+| RD1-score14=71
+
+| RD1-seed19=14
+| RD1-team19='''Cleveland Cavaliers'''
+| RD1-score19='''98'''
+| RD1-seed20=19
+| RD1-team20=Boston Celtics
+| RD1-score20=94
+
+| RD1-seed21=11
+| RD1-team21=NBA D-League Select
+| RD1-score21=71
+| RD1-seed22=22
+| RD1-team22='''Philadelphia 76ers'''
+| RD1-score22='''108'''
+
+| RD1-seed27=10
+| RD1-team27='''Atlanta Hawks'''
+| RD1-score27='''81'''
+| RD1-seed28=23
+| RD1-team28=Sacramento Kings
+| RD1-score28=61
+
+| RD1-seed29=15
+| RD1-team29='''Dallas Mavericks'''
+| RD1-score29='''81'''
+| RD1-seed30=18
+| RD1-team30=Milwaukee Bucks
+| RD1-score30=64
+
+| RD2-seed01=1
+| RD2-team01='''Toronto Raptors'''
+| RD2-score01='''75'''
+| RD2-seed02=16
+| RD2-team02=Golden State Warriors
+| RD2-score02=69
+
+| RD2-seed03=24
+| RD2-team03='''Minnesota Timberwolves'''
+| RD2-score03='''89'''
+| RD2-seed04=8
+| RD2-team04=Memphis Grizzlies
+| RD2-score04=85
+
+| RD2-seed05=5
+| RD2-team05='''Phoenix Suns'''
+| RD2-score05='''77'''
+| RD2-seed06=12
+| RD2-team06=Miami Heat
+| RD2-score06=74
+
+| RD2-seed07=13
+| RD2-team07=Utah Jazz
+| RD2-score07=60
+| RD2-seed08=4
+| RD2-team08='''Denver Nuggets'''
+| RD2-score08='''80'''
+
+| RD2-seed09=3
+| RD2-team09=Los Angeles Lakers
+| RD2-score09=80
+| RD2-seed10=14
+| RD2-team10='''Cleveland Cavaliers'''
+| RD2-score10='''88'''
+
+| RD2-seed11=22
+| RD2-team11=Philadelphia 76ers
+| RD2-score11=84
+| RD2-seed12=6
+| RD2-team12='''Brooklyn Nets'''
+| RD2-score12='''87'''
+
+| RD2-seed13=7
+| RD2-team13='''Washington Wizards'''
+| RD2-score13='''71'''
+| RD2-seed14=10
+| RD2-team14=Atlanta Hawks
+| RD2-score14=60
+
+| RD2-seed15=15
+| RD2-team15=Dallas Mavericks
+| RD2-score15=73
+| RD2-seed16=2
+| RD2-team16='''Chicago Bulls'''
+| RD2-score16='''86'''
+
+| RD3-seed01=1
+| RD3-team01=Toronto Raptors
+| RD3-score01=79
+| RD3-seed02=24
+| RD3-team02='''Minnesota Timberwolves'''
+| RD3-score02='''81'''
+
+| RD3-seed03=5
+| RD3-team03='''Phoenix Suns'''
+| RD3-score03='''82'''*
+| RD3-seed04=4
+| RD3-team04=Denver Nuggets
+| RD3-score04=81
+
+| RD3-seed05=14
+| RD3-team05='''Cleveland Cavaliers'''
+| RD3-score05='''91'''*
+| RD3-seed06=6
+| RD3-team06=Brooklyn Nets
+| RD3-score06=83
+
+| RD3-seed07=7
+| RD3-team07=Washington Wizards
+| RD3-score07=85
+| RD3-seed08=2
+| RD3-team08='''Chicago Bulls'''
+| RD3-score08='''88'''
+
+| RD4-seed01=24
+| RD4-team01='''Minnesota Timberwolves''' 
+| RD4-score01='''93'''
+| RD4-seed02=5
+| RD4-team02=Phoenix Suns
+| RD4-score02=83
+
+| RD4-seed03=14
+| RD4-team03=Cleveland Cavaliers
+| RD4-score03=79
+| RD4-seed04=2
+| RD4-team04='''Chicago Bulls'''
+| RD4-score04='''85'''
+
+| RD5-seed01=24
+| RD5-team01=Minnesota Timberwolves
+| RD5-score01=82
+| RD5-seed02=2
+| RD5-team02='''Chicago Bulls'''
+| RD5-score02='''84*'''
+}}
+
+====Tournament schedule====
+''All times are in [[Eastern Time Zone|Eastern Daylight Time]] ([[UTC−4]])''<br />
+''Source:'' <ref>{{cite web|url=http://www.nba.com/2016/news/07/13/las-vegas-summer-league-tournament-seeding-announced/index.html|title=Las Vegas Summer League tournament seeding announced|work=NBA.com|date=July 13, 2016|accessdate=July 13, 2016}}</ref>
+
+=====First Round=====
+----
+{{Basketballbox|bg=#eee |date=July 13 |time=4:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1=#23 [[Sacramento Kings]] |score1=61
+|team2='''#10 [[Atlanta Hawks]]''' |score2='''81'''
+|report=[http://www.nba.com/games/20160713/SACATL/gameinfo.html Boxscore]
+|Q1=18–'''22''' |Q2=19–'''20''' |Q3=16–'''22''' |Q4=8–'''17'''
+|points1=[[Retin Obasohan]] 12 |points2=[[Taurean Prince]] 21
+|rebounds1=[[Skal Labissière|Labissière]], [[Georgios Papagiannis|Papagiannis]] 5 |rebounds2=[[Taurean Prince|Prince]], [[Walter Tavares|Tavares]] 9
+|assist1=[[Isaiah Cousins]] 6 |assist2=[[Kevin Pangos]] 7
+|attendance=
+|referee=Jemel Spearman, William Mensah, Ben Taylor
+}}
+{{Basketballbox|bg= |date=July 13 |time=4:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=#21 [[New Orleans Pelicans]] |score1=77
+|team2='''#12 [[Miami Heat]]''' |score2='''81'''
+|report=[http://www.nba.com/games/20160713/NOPMIA/gameinfo.html Boxscore]
+|Q1=19–'''20''' |Q2=17–'''23''' |Q3='''25'''–14 |Q4=16–'''24'''
+|points1=[[Buddy Hield]] 16 |points2=[[Brianté Weber]] 18
+|rebounds1=[[Cheick Diallo]] 12 |rebounds2=[[Stefan Janković (basketball)|Stefan Janković]] 6
+|assist1=[[Buddy Hield]] 5 |assist2=''six players'' 2
+|attendance=
+|referee=Brandon Schwab, Tyler Ford, Jacyn Goble
+}}
+{{Basketballbox|bg=#eee |date=July 13 |time=6:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1='''#24 [[Minnesota Timberwolves]]''' |score1='''80'''
+|team2=#9 [[San Antonio Spurs]] |score2=71
+|report=[http://www.nba.com/games/20160713/MINSAS/gameinfo.html Boxscore]
+|Q1='''28'''–19 |Q2='''19'''–17 |Q3='''24'''–21 |Q4=9–'''14'''
+|points1=[[Adreian Payne]] 20 |points2=[[Jonathon Simmons]] 19
+|rebounds1=[[Adreian Payne]] 7 |rebounds2=[[Jarnell Stokes]] 8
+|assist1=[[Tyus Jones]] 9 |assist2=[[Ryan Arcidiacono]] 2
+|attendance=
+|referee=Tre Maddox, Jaston Carter, Brandon Adair
+}}
+{{Basketballbox|bg= |date=July 13 |time=6:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''#22 [[Philadelphia 76ers]]''' |score1='''108'''
+|team2=#11 [[NBA Development League|NBA D-League Select]] |score2=71
+|report=[http://www.nba.com/games/20160713/PHIDLS/gameinfo.html Boxscore]
+|Q1='''27'''–16 |Q2='''29'''–26 |Q3='''25'''–14 |Q4='''27'''–15
+|points1=[[Shawn Long]] 21 |points2=[[Brandon Fields (basketball)|Brandon Fields]] 15
+|rebounds1=[[Brandon Paul|Paul]], [[James Webb III|Webb III]] 6 |rebounds2=[[Jabril Trawick]] 7
+|assist1=[[T. J. McConnell]] 9 |assist2=[[Jaron Johnson]] 2
+|attendance=
+|referee=JT Orr, Brett Nansel, Isaac Barnett
+}}
+{{Basketballbox|bg=#eee |date=July 13 |time=8:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1=#19 [[Boston Celtics]] |score1=94
+|team2='''#14 [[Cleveland Cavaliers]]''' |score2='''98'''
+|report=[http://www.nba.com/games/20160713/BOSCLE/gameinfo.html Boxscore]
+|Q1='''23'''–20 |Q2=20–'''25''' |Q3=22–'''27''' |Q4='''29'''–26
+|points1=[[Jaylen Brown]] 25 |points2=[[Jordan McRae]] 32
+|rebounds1=[[Jaylen Brown]] 9 |rebounds2=[[Sir'Dominic Pointer]] 6
+|assist1=[[Terry Rozier|Rozier]], [[Guerschon Yabusele|Yabusele]] 2 |assist2=[[Kay Felder|Felder]], [[Michael Stockton|Stockton]] 3
+|attendance=
+|referee=JB DeRosa, John Butler, Charles Rubia
+}}
+{{Basketballbox|bg= |date=July 13 |time=8:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=#20 [[Portland Trail Blazers]] |score1=71
+|team2='''#13 [[Utah Jazz]]''' |score2='''86'''
+|report=[http://www.nba.com/games/20160713/PORUTA/gameinfo.html Boxscore]
+|Q1=18–18 |Q2=19–'''28''' |Q3=14–'''19''' |Q4=20–'''21'''
+|points1=[[Pierre Jackson]] 18 |points2=[[Tibor Pleiß|Tibor Pleiss]] 20
+|rebounds1=[[Jordan Bachynski|Bachynski]], [[Pierre Jackson|Jackson]] 6 |rebounds2=[[Joel Bolomboy]] 9
+|assist1=''three players'' 3 |assist2=[[Joel Bolomboy]] 3
+|attendance=
+|referee=Sir Allen Conner, Jason Goldenberg, Gediminas Petraitis
+}}
+{{Basketballbox|bg=#eee |date=July 13 |time=10:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1=#18 [[Milwaukee Bucks]] |score1=64
+|team2='''#15 [[Dallas Mavericks]]''' |score2='''81'''
+|report=[http://www.nba.com/games/20160713/MILDAL/gameinfo.html Boxscore]
+|Q1=17–17 |Q2=18–'''19''' |Q3=8–'''24''' |Q4=21–21
+|points1=[[Thon Maker]] 17 |points2=[[Jonathan Gibson (basketball)|Jonathan Gibson]] 14
+|rebounds1=[[Joshua Smith (basketball)|Joshua Smith]] 7 |rebounds2=[[Jameel Warney]] 12
+|assist1=[[Malcolm Brogdon]] 5 |assist2=''three players'' 3
+|attendance=
+|referee=Karl Lane, Aaron Smith, Matthew Myers
+}}
+{{Basketballbox|bg= |date=July 13 |time=10:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=#17 [[Houston Rockets]] |score1=76
+|team2='''#16 [[Golden State Warriors]]''' |score2='''80'''
+|report=[http://www.nba.com/games/20160713/HOUGSW/gameinfo.html Boxscore]
+|Q1=18–'''21''' |Q2=16–'''23''' |Q3='''24'''–20 |Q4='''18'''–16
+|points1=[[K. J. McDaniels]] 25 |points2=[[Keifer Sykes]] 17
+|rebounds1=[[K. J. McDaniels]] 9 |rebounds2=[[Ognjen Kuzmić]] 10
+|assist1=[[Trey Freeman|Freeman]], [[Isaiah Taylor|Taylor]] 5 |assist2=[[Ognjen Kuzmić]] 4
+|attendance=
+|referee=Vladimir Voyard-Tadal, Randy Richardson, Charles Watson
+}}
+
+=====Second Round=====
+----
+{{Basketballbox|bg=#eee |date=July 14 |time=4:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=#10 [[Atlanta Hawks]] |score1=60
+|team2='''#7 [[Washington Wizards]]''' |score2='''71'''
+|report=[http://www.nba.com/games/20160714/ATLWAS/gameinfo.html Boxscore]
+|Q1=14–'''15''' |Q2='''23'''–10 |Q3=11–'''20''' |Q4=12–'''26'''
+|points1=[[Brandon Ashley]] 12 |points2=[[Kelly Oubre Jr.]] 22
+|rebounds1=[[Taurean Prince|Prince]], [[Walter Tavares|Tavares]] 7 |rebounds2=''three players'' 6
+|assist1=[[DeAndre' Bembry]] 4 |assist2=[[Nate Wolters]] 3
+|attendance=
+|referee=Marat Kogut, Matthew Myers, Jemel Spearman
+}}
+{{Basketballbox|bg= |date=July 14 |time=4:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1='''#24 [[Minnesota Timberwolves]]''' |score1='''89'''
+|team2=#8 [[Memphis Grizzlies]] |score2=85
+|report=[http://www.nba.com/games/20160714/MINMEM/gameinfo.html Boxscore]
+|Q1='''22'''–19 |Q2='''20'''–18 |Q3=17–'''19''' |Q4='''30'''–29
+|points1=[[Tyus Jones]] 26 |points2=[[Levi Randolph]] 26
+|rebounds1=[[Devin Thomas (basketball)|Devin Thomas]] 10 |rebounds2=[[Vince Hunter]] 10
+|assist1=[[Tyus Jones]] 10 |assist2=[[Wade Baldwin IV]] 3
+|attendance=
+|referee=JT Orr, Phenizee Ransom, Nick Meyer
+}}
+{{Basketballbox|bg=#eee |date=July 14 |time=6:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=#12 [[Miami Heat]] |score1=74
+|team2='''#5 [[Phoenix Suns]]''' |score2='''77'''
+|report=[http://www.nba.com/games/20160714/MIAPHX/gameinfo.html Boxscore]
+|Q1=23–23 |Q2=14–'''23''' |Q3='''16'''–14 |Q4='''21'''–17
+|points1=[[Victor Rudd]] 24 |points2=[[Tyler Ulis]] 20
+|rebounds1=[[Brianté Weber]] 7 |rebounds2=[[Alan Williams (basketball)|Alan Williams]] 11
+|assist1=[[Brianté Weber]] 3 |assist2=[[Tyler Ulis]] 8
+|attendance=
+|referee=Haywoode Workman, Isaac Barnett, Evan Scott
+}}
+{{Basketballbox|bg= |date=July 14 |time=6:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPNU]]
+|team1=#22 [[Philadelphia 76ers]] |score1=84
+|team2='''#6 [[Brooklyn Nets]]''' |score2='''87'''
+|report=[http://www.nba.com/games/20160714/PHIBKN/gameinfo.html Boxscore]
+|Q1=20–'''22''' |Q2='''24'''–19 |Q3='''24'''–23 |Q4=16–'''23'''
+|points1=[[Brandon Paul]] 18 |points2=[[Sean Kilpatrick]] 24
+|rebounds1=[[Richaun Holmes]] 8 |rebounds2=[[Chris McCullough]] 10
+|assist1=[[T. J. McConnell]] 8 |assist2=[[Isaiah Whitehead]] 5
+|attendance=
+|referee=Steve Anderson, John Conley, Nick Heater
+}}
+{{Basketballbox|bg=#eee |date=July 14 |time=8:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=#13 [[Utah Jazz]] |score1=60
+|team2='''#4 [[Denver Nuggets]]''' |score2='''80'''
+|report=[http://www.nba.com/games/20160714/UTADEN/gameinfo.html Boxscore]
+|Q1=21–'''23''' |Q2=12–'''14''' |Q3=12–'''27''' |Q4=15–'''16'''
+|points1=''three players'' 10 |points2=[[Jamal Murray]] 20
+|rebounds1=[[Joel Bolomboy]] 8 |rebounds2=[[Petr Cornelie|Cornelie]], [[JaKarr Sampson|Sampson]] 6
+|assist1=[[Tyrone Wallace]] 4 |assist2=[[Jimmer Fredette]] 4
+|attendance=
+|referee=CJ Washington, Jacyn Goble, Suyash Mehta
+}}
+{{Basketballbox|bg= |date=July 14 |time=8:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1=#15 [[Dallas Mavericks]] |score1=73
+|team2='''#2 [[Chicago Bulls]]''' |score2='''86'''
+|report=[http://www.nba.com/games/20160714/DALCHI/gameinfo.html Boxscore]
+|Q1=15–'''19''' |Q2=14–'''19''' |Q3=23–'''25''' |Q4=21–'''23'''
+|points1=[[Justin Anderson (basketball)|Justin Anderson]] 17 |points2=[[Bobby Portis]] 19
+|rebounds1=''three players'' 5 |rebounds2=[[Cristiano Felício|Felício]], [[Bobby Portis|Portis]] 8
+|assist1=''three players'' 3 |assist2=[[Jerian Grant]] 6
+|attendance=
+|referee=Steven Perry, Justin VanDuyne, Andy Nagy
+}}
+{{Basketballbox|bg=#eee |date=July 14 |time=10:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=#16 [[Golden State Warriors]] |score1=69
+|team2='''#1 [[Toronto Raptors]]''' |score2='''75'''
+|report=[http://www.nba.com/games/20160714/GSWTOR/gameinfo.html Boxscore]
+|Q1=15–'''21''' |Q2='''20'''–18 |Q3=15–15 |Q4=19–'''21'''
+|points1=[[Patrick McCaw]] 28 |points2=[[Norman Powell]] 17
+|rebounds1=[[Royce O'Neale]] 14 |rebounds2=[[Jakob Pöltl|Jakob Poeltl]] 7
+|assist1=[[Royce O'Neale|O'Neale]], [[Keifer Sykes|Sykes]] 5 |assist2=[[Delon Wright]] 4
+|attendance=
+|referee=Vladimir Voyard-Tadal, Bharat Ram, Chance Moore
+}}
+{{Basketballbox|bg= |date=July 14 |time=10:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1='''#14 [[Cleveland Cavaliers]]''' |score1='''88'''
+|team2=#3 [[Los Angeles Lakers]] |score2=80
+|report=[http://www.nba.com/games/20160714/CLELAL/gameinfo.html Boxscore]
+|Q1=21–21 |Q2=15–'''31''' |Q3='''29'''–15 |Q4='''23'''–13
+|points1=[[Jordan McRae]] 36 |points2=[[D'Angelo Russell]] 19
+|rebounds1=[[DeAndre Liggins]] 11 |rebounds2=[[Larry Nance Jr.]] 10
+|assist1=[[Kay Felder]] 3 |assist2=[[D'Angelo Russell]] 4
+|attendance=
+|referee=JB DeRosa, Sir Allen Conner, Matt Kallio
+}}
+
+=====Consolation Round=====
+----
+{{Basketballbox|bg=#eee |date=July 15 |time=4:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1=#23 [[Sacramento Kings]] |score1=86
+|team2='''#9 [[San Antonio Spurs]]''' |score2='''90'''  |overtime=OT
+|report=[http://www.nba.com/games/20160715/SACSAS/gameinfo.html Boxscore]
+|Q1='''19'''–15 |Q2='''23'''–20 |Q3='''24'''–21 |Q4=18–'''28''' |OT=2–'''6'''
+|points1=[[Skal Labissière]] 19 |points2=[[Dejounte Murray]] 20
+|rebounds1=''three players'' 5 |rebounds2=[[Landry Nnoko]] 6
+|assist1=[[Duje Dukan]] 4 |assist2=[[Dejounte Murray]] 9
+|attendance=
+|referee=Haywoode Workman, Aaron Smith, Charles Rubia
+}}
+{{Basketballbox|bg= |date=July 15 |time=4:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=#21 [[New Orleans Pelicans]] |score1=76
+|team2='''#11 [[NBA Development League|NBA D-League Select]]''' |score2='''88'''
+|report=[http://www.nba.com/games/20160715/NOPDLS/gameinfo.html Boxscore]
+|Q1='''25'''–15 |Q2=21–21 |Q3=17–'''31''' |Q4=13–'''21'''
+|points1=[[Jameel McKay]] 16 |points2=[[Quinn Cook]] 19
+|rebounds1=[[Jameel McKay]] 13 |rebounds2=[[Joel Wright (basketball)|Joel Wright]] 8
+|assist1=[[Ryan Boatright]] 9 |assist2=[[Quinn Cook]] 6
+|attendance=
+|referee=Chance Moore, Karl Lane, Jason Goldenberg
+}}
+{{Basketballbox|bg=#eee |date=July 15 |time=6:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN3]]
+|team1='''#20 [[Portland Trail Blazers]]''' |score1='''80'''
+|team2=#19 [[Boston Celtics]] |score2=75
+|report=[http://www.nba.com/games/20160715/PORBOS/gameinfo.html Boxscore]
+|Q1=17–17 |Q2='''27'''–18 |Q3=16–'''23''' |Q4='''20'''–17
+|points1=[[Pat Connaughton]] 23 |points2=[[Jaylen Brown]] 21
+|rebounds1=[[Jake Layman]] 7 |rebounds2=[[Jordan Mickey]] 13
+|assist1=[[Pierre Jackson]] 8 |assist2=[[Demetrius Jackson|Jackson]], [[Corey Walden|Walden]] 3
+|attendance=
+|referee=CJ Washington, Jaston Carter, Kevin Fahy
+}}
+{{Basketballbox|bg= |date=July 15 |time=6:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1=#18 [[Milwaukee Bucks]] |score1=89
+|team2='''#17 [[Houston Rockets]]''' |score2='''92'''
+|report=[http://www.nba.com/games/20160715/MILHOU/gameinfo.html Boxscore]
+|Q1=20–'''23''' |Q2='''24'''–15 |Q3=22–'''26''' |Q4=23–'''28'''
+|points1=[[Ra'Shad James]] 19 |points2=[[Montrezl Harrell]] 20
+|rebounds1=[[Thon Maker]] 9 |rebounds2=[[Sam Dekker|Dekker]], [[Montrezl Harrell|Harrell]] 8
+|assist1=[[Malcolm Brogdon]] 5 |assist2=[[Isaiah Taylor]] 7
+|attendance=
+|referee=Matt Kallio, Bharat Ramnanan, Gediminas Petraitis
+}}
+{{Basketballbox|bg=#eee |date=July 15 |time=8:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1='''#10 [[Atlanta Hawks]]''' |score1='''89'''
+|team2=#8 [[Memphis Grizzlies]] |score2=79
+|report=[http://www.nba.com/games/20160715/ATLMEM/gameinfo.html Boxscore]
+|Q1='''23'''–14 |Q2=14–'''19''' |Q3='''24'''–21 |Q4='''28'''–25
+|points1=[[Bryce Cotton]] 18 |points2=[[Vince Hunter]] 18
+|rebounds1=[[Walter Tavares|Edy Tavares]] 10 |rebounds2=[[Vince Hunter]] 8
+|assist1=[[Darington Hobson]] 6 |assist2=[[Andrew Harrison (basketball)|Andrew Harrison]] 5
+|attendance=
+|referee=Nick Meyer, Tyler Ford, John Butler
+}}
+{{Basketballbox|bg= |date=July 15 |time=8:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''#22 [[Philadelphia 76ers]]''' |score1='''74'''
+|team2=#12 [[Miami Heat]] |score2=66
+|report=[http://www.nba.com/games/20160715/PHIMIA/gameinfo.html Boxscore]
+|Q1='''21'''–20 |Q2='''22'''–17 |Q3='''20'''–16 |Q4=11–'''13'''
+|points1=[[Shawn Long]] 18 |points2=[[Damion Lee]] 17
+|rebounds1=[[Shawn Long|Long]], [[Ben Simmons|Simmons]] 10 |rebounds2=[[Michael Carrera]] 10
+|assist1=[[Ben Simmons]] 6 |assist2=[[Nic Moore]] 6
+|attendance=
+|referee=Ray Acosta, Steven Perry, Andy Nagy
+}}
+{{Basketballbox|bg=#eee |date=July 15 |time=10:00 pm |place=[[Cox Pavilion]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1=#16 [[Golden State Warriors]] |score1=74
+|team2='''#15 [[Dallas Mavericks]]''' |score2='''80'''
+|report=[http://www.nba.com/games/20160715/GSWDAL/gameinfo.html Boxscore]
+|Q1=14–'''20''' |Q2=15–'''23''' |Q3='''20'''–18 |Q4='''25'''–19
+|points1=[[Winston Shepard]] 17 |points2=[[Chane Behanan]] 14
+|rebounds1=[[Winston Shepard]] 6 |rebounds2=[[Jameel Warney]] 10
+|assist1=[[David Laury]] 4 |assist2=[[Kyle Collinsworth|Collinsworth]], [[Dorian Finney-Smith|Finney-Smith]] 3
+|attendance=
+|referee=Brett Nansel, John Conley, Suyash Mehta
+}}
+{{Basketballbox|bg= |date=July 15 |time=10:30 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[NBA TV]]
+|team1='''#13 [[Utah Jazz]]''' |score1='''92'''
+|team2=#3 [[Los Angeles Lakers]] |score2=88
+|report=[http://www.nba.com/games/20160715/UTALAL/gameinfo.html Boxscore]
+|Q1=19–'''20''' |Q2=20–'''24''' |Q3='''28'''–19 |Q4=25–25
+|points1=[[Joel Bolomboy]] 20 |points2=[[Brandon Ingram]] 22
+|rebounds1=[[Joel Bolomboy|Bolomboy]], [[Tibor Pleiß|Pleiss]] 7 |rebounds2=[[Ivica Zubac]] 11
+|assist1=[[Dionte Christmas]] 4 |assist2=[[Brandon Ingram|Ingram]], [[Xavier Munford|Munford]] 4
+|attendance=
+|referee=Steve Anderson, Randy Richardson, Nick Heater
+}}
+
+=====Quarterfinals=====
+----
+{{Basketballbox|bg=#eee |date=July 16 |time=4:00 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPNU]]
+|team1='''#24 [[Minnesota Timberwolves]]''' |score1='''81'''
+|team2=#1 [[Toronto Raptors]] |score2=79
+|report=[http://www.nba.com/games/20160716/MINTOR/gameinfo.html Boxscore]
+|Q1='''20'''–15 |Q2=14–'''27''' |Q3=23–23 |Q4='''24'''–14
+|points1=[[Xavier Silas]] 22 |points2=[[Norman Powell]] 17
+|rebounds1=[[Adreian Payne]] 10 |rebounds2=[[Delon Wright]] 8
+|assist1=[[Tyus Jones]] 8 |assist2=[[Fred VanVleet|VanVleet]], [[Delon Wright|Wright]] 3
+|attendance=
+|referee=Gediminas Petraitis, JB DeRosa, Phenizee Ransom
+}}
+{{Basketballbox|bg= |date=July 16 |time=6:00 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1='''#5 [[Phoenix Suns]]''' |score1='''82'''
+|team2=#4 [[Denver Nuggets]] |score2=81
+|report=[http://www.nba.com/games/20160716/PHXDEN/gameinfo.html Boxscore]
+|Q1=15–'''22''' |Q2='''19'''–15 |Q3='''27'''–25 |Q4='''18'''–17 |OT='''3'''–2
+|points1=[[Troy Williams]] 22 |points2=[[Jamal Murray]] 29
+|rebounds1=[[Alan Williams (basketball)|Alan Williams]] 16 |rebounds2=[[Juan Hernangómez]] 12
+|assist1=[[Tyler Ulis]] 4 |assist2=[[Juan Hernangómez]] 4
+|attendance=
+|referee=Karl Lane, Jaston Carter, Brandon Adair
+}}
+{{Basketballbox|bg=#eee |date=July 16 |time=8:00 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1=#7 [[Washington Wizards]] |score1=85
+|team2='''#2 [[Chicago Bulls]]''' |score2='''88'''
+|report=[http://www.nba.com/games/20160716/WASCHI/gameinfo.html Boxscore]
+|Q1=23–'''25''' |Q2=15–'''18''' |Q3=24–'''28''' |Q4='''23'''–17
+|points1=[[Jarell Eddie]] 22 |points2=[[Bobby Portis]] 17
+|rebounds1=[[Aaron White (basketball)|Aaron White]] 8 |rebounds2=[[Denzel Valentine]] 10
+|assist1=[[Nate Wolters]] 7 |assist2=[[Jerian Grant]] 8
+|attendance=
+|referee=Vladimir Voyard-Tadal, Jacyn Goble, Jason Goldenberg
+}}
+{{Basketballbox|bg= |date=July 16 |time=10:00 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1='''#14 [[Cleveland Cavaliers]]''' |score1='''91'''
+|team2=#6 [[Brooklyn Nets]] |score2=83 |overtime=OT
+|report=[http://www.nba.com/games/20160716/CLEBKN/gameinfo.html Boxscore]
+|Q1='''29'''–20 |Q2=12–'''21''' |Q3=18–'''20''' |Q4='''24'''–22 |OT='''8'''–0
+|points1=[[Jordan McRae]] 25 |points2=[[Sean Kilpatrick]] 25
+|rebounds1=[[Kenny Gabriel]] 11 |rebounds2=[[Chris McCullough]] 10
+|assist1=[[Kay Felder]] 4 |assist2=[[Isaiah Whitehead]] 4
+|attendance=
+|referee=Justin VanDuyne, Ray Acosta, John Butler
+}}
+
+=====Semifinals=====
+----
+{{Basketballbox|bg=#eee |date=July 17 |time=6:00 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1='''#24 [[Minnesota Timberwolves]]''' |score1='''93'''
+|team2=#5 [[Phoenix Suns]] |score2=83
+|report=[http://www.nba.com/games/20160717/MINPHX/gameinfo.html Boxscore]
+|Q1=19–'''23''' |Q2=24–'''25''' |Q3='''24'''–18 |Q4='''26'''–17
+|points1=[[Tyus Jones]] 29 |points2=[[Troy Williams]] 24
+|rebounds1=[[Adreian Payne]] 10 |rebounds2=[[Alan Williams (basketball)|A. Williams]], [[Troy Williams|T. Williams]] 6
+|assist1=[[Toure' Murry]] 7 |assist2=[[Tyler Ulis]] 7
+|attendance=
+|referee=Douglas Christie, CJ Washington, JB DeRosa
+}}
+{{Basketballbox|bg= |date=July 17 |time=8:00 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN2]]
+|team1=#14 [[Cleveland Cavaliers]] |score1=79
+|team2='''#2 [[Chicago Bulls]]''' |score2='''85'''
+|report=[http://www.nba.com/games/20160717/CLECHI/gameinfo.html Boxscore]
+|Q1='''29'''–25 |Q2='''17'''–11 |Q3=13–'''21''' |Q4=20–'''28'''
+|points1=[[Kay Felder]] 22 |points2=[[Cristiano Felício]] 18
+|rebounds1=[[Jordan McRae|McRae]], [[Raphiael Putney|Putney]] 6 |rebounds2=[[Bobby Portis]] 9
+|assist1=[[Kay Felder]] 5 |assist2=''three players'' 3
+|attendance=
+|referee=Tre Maddox, Brett Nansel, Aaron Smith
+}}
+
+=====Final=====
+----
+{{Basketballbox|bg=#ffff00 |date=July 18 |time=9:00 pm |place=[[Thomas & Mack Center]], [[Paradise, Nevada|Paradise]], [[Nevada]] |TV=[[ESPN]]
+|team1=#24 [[Minnesota Timberwolves]] |score1=82
+|team2='''#2 [[Chicago Bulls]]''' |score2='''84'''
+|report=[http://www.nba.com/games/20160718/MINCHI/gameinfo.html Boxscore]
+|Q1=13–'''18''' |Q2='''29'''–14 |Q3=16–'''27''' |Q4='''19'''–18 |OT=5–'''7'''
+|points1=[[Tyus Jones]] 27 |points2=[[Bobby Portis]] 26
+|rebounds1=[[Adreian Payne]] 16 |rebounds2=[[Jerian Grant|Grant]], [[Bobby Portis|Portis]] 10
+|assist1=[[Tyus Jones]] 10 |assist2=[[Jerian Grant]] 5
+|attendance=
+|referee=Tre Maddox, Justin VanDuyne, Tyler Ford
+}}
+
+===Final standings===
+{| class="wikitable" style="text-align:center"
+|-
+!width="25px"| #
+!width="200px"| Team
+!width="25px"| {{tooltip|GP|Games played}}
+!width="25px"| {{tooltip|W|Games won}}
+!width="25px"| {{tooltip|L|Games lost}}
+!width="25px"| {{tooltip|PCT|Winning percentage}}
+!width="25px"| {{tooltip|QP|Quarter points}}
+!width="225px"| Explanation
+|- style="background:gold;"
+| 1 ||align="left"| [[Chicago Bulls]] || 7 || 7 || 0 || 1.000 || 20 || Won Championship Game
+|- style="background:silver;"
+| 2 ||align="left"| [[Minnesota Timberwolves]] || 8 || 4 || 4 || .500 || 15.5 || Lost Championship Game
+|- style="background:#cd7f32;"
+| 3 ||align="left"| [[Phoenix Suns]] || 6 || 4 || 2 || .667 || 13.5 || Lost in Semifinals
+|-
+| 4 ||align="left"| [[Cleveland Cavaliers]] || 7 || 4 || 3 || .571 || 15 || Lost in Semifinals
+|-
+| 5 ||align="left"| [[Toronto Raptors]] || 5 || 4 || 1 || .800 || 13 || Lost in Quarterfinals
+|-
+| 6 ||align="left"| [[Denver Nuggets]] || 5 || 3 || 2 || .600 || 13 || Lost in Quarterfinals
+|-
+| 7 ||align="left"| [[Brooklyn Nets]] || 5 || 3 || 2 || .600 || 11 || Lost in Quarterfinals
+|-
+| 8 ||align="left"| [[Washington Wizards]] || 5 || 3 || 2 || .600 || 10.5 || Lost in Quarterfinals
+|-
+| 9 ||align="left"| [[Atlanta Hawks]] || 6 || 4 || 2 || .667 || 14 || Lost in Second Round
+|-
+| 10 ||align="left"| [[Los Angeles Lakers]] || 5 || 3 || 2 || .600 || 11 || Lost in Second Round
+|-
+| 11 ||align="left"| [[Utah Jazz]] || 6 || 3 || 3 || .500 || 13 || Lost in Second Round
+|-
+| 12 ||align="left"| [[Miami Heat]] || 6 || 3 || 3 || .500 || 12 || Lost in Second Round
+|-
+| 13 ||align="left"| [[Dallas Mavericks]] || 6 || 3 || 3 || .500 || 11 || Lost in Second Round
+|-
+| 14 ||align="left"| [[Memphis Grizzlies]] || 5 || 2 || 3 || .400 || 8.5 || Lost in Second Round
+|-
+| 15 ||align="left"| [[Philadelphia 76ers]] || 6 || 2 || 4 || .333 || 14.5 || Lost in Second Round
+|-
+| 16 ||align="left"| [[Golden State Warriors]] || 6 || 2 || 4 || .333 || 11.5 || Lost in Second Round
+|-
+| 17 ||align="left"| [[NBA Development League|NBA D-League Select]] || 5 || 3 || 2 || .600 || 8.5 || Lost in First Round
+|-
+| 18 ||align="left"| [[San Antonio Spurs]] || 5 || 3 || 2 || .600 || 8 || Lost in First Round
+|-
+| 19 ||align="left"| [[Houston Rockets]] || 5 || 2 || 3 || .400 || 11 || Lost in First Round
+|-
+| 20 ||align="left"| [[Portland Trail Blazers]] || 5 || 2 || 3 || .400 || 6 || Lost in First Round 
+|-
+| 21 ||align="left"| [[Boston Celtics]] || 5 || 1 || 4 || .200 || 8.5 || Lost in First Round
+|-
+| 22 ||align="left"| [[Milwaukee Bucks]] || 5 || 1 || 4 || .200 || 7.5 || Lost in First Round
+|-
+| 23 ||align="left"| [[New Orleans Pelicans]] || 5 || 1 || 4 || .200 || 5 || Lost in First Round
+|-
+| 24 ||align="left"| [[Sacramento Kings]]  || 5 || 0 || 5 || .000 || 6.5 || Lost in First Round
+|}
+
+===Statistical leaders===
+''Reference:'' <ref>{{cite web |url=http://www.nba.com/summerleague/2016/statistics/las_vegas/ |title=2016 Summer League Stats: Las Vegas |work=NBA.com |accessdate=July 18, 2016}}</ref>
+{{col-begin|width=99%}}
+{{col-break|width=33%}}
+;Points
+{| class="wikitable" style="text-align:left"
+|-
+!width="150px"| Player
+!width="150px"| Team
+!width="25px"| {{tooltip|PPG|Points per game}}
+|-
+| [[Trey Lyles]] || [[Utah Jazz]] ||align="center"| 29.0
+|-
+| [[Devin Booker]] || [[Phoenix Suns]] ||align="center"| 26.0
+|-
+| [[Jordan McRae]] || [[Cleveland Cavaliers]] ||align="center"| 24.3
+|-
+| [[Kris Dunn]] || {{nowrap|[[Minnesota Timberwolves]]}} ||align="center"| 24.0
+|-
+| [[Emmanuel Mudiay]] || [[Denver Nuggets]] ||align="center"| 23.0
+|-
+|}
+{{col-break|width=33%}}
+;[[rebound (basketball)|Rebounds]]
+{| class="wikitable" style="text-align:left"
+|-
+!width="150px"| Player
+!width="150px"| Team
+!width="25px"| {{tooltip|RPG|Rebounds per game}}
+|-
+| [[Alan Williams (basketball)|Alan Williams]] || [[Phoenix Suns]] ||align="center"| 11.2
+|-
+| [[Thon Maker]] || [[Milwaukee Bucks]] ||align="center"| 9.6
+|-
+| [[Cheick Diallo]] || [[New Orleans Pelicans]] ||align="center"| 9.4 
+|-
+| [[Bobby Portis]] || [[Chicago Bulls]] ||align="center"| 9.4
+|-
+| [[Michael Beasley]] || [[Houston Rockets]] ||align="center"| 9.0
+|}
+{{col-break|width=33%}}
+;[[assist (basketball)|Assists]]
+{| class="wikitable" style="text-align:left"
+|-
+!width="150px"| Player
+!width="150px"| Team
+!width="25px"| {{tooltip|APG|Assists per game}}
+|-
+| [[Tyus Jones]] || {{nowrap|[[Minnesota Timberwolves]]}} ||align="center"| 6.8
+|-
+| [[Devin Booker]] || [[Phoenix Suns]] ||align="center"| 6.5
+|-
+| [[Tyler Ulis]] || [[Phoenix Suns]] ||align="center"| 6.3
+|-
+| [[Emmanuel Mudiay]] || [[Denver Nuggets]] ||align="center"| 6.0
+|-
+| [[T. J. McConnell]] || [[Philadelphia 76ers]] ||align="center"| 5.8
+|}
+{{col-end}}
+
+===Honors===
+The All-Summer League First and Second Teams were selected by a panel of media members in attendance at the Las Vegas NBA Summer League.<ref>{{cite web|url=http://www.nba.com/2016/news/07/18/2016-all-summer-league-team/index.html|title=Wolves' Tyus Jones named 2016 Summer League MVP|work=NBA.com|date=July 18, 2016|accessdate=July 18, 2016|archive-url=https://web.archive.org/web/20160720191756/http://www.nba.com/2016/news/07/18/2016-all-summer-league-team/index.html|archive-date=July 20, 2016|url-status=dead}}</ref>
+
+'''All-NBA Summer League First Team'''
+*[[Tyus Jones]], [[Minnesota Timberwolves]] '''(2016 Tournament MVP)'''
+*[[Jordan McRae]], [[Cleveland Cavaliers]]
+*[[Bobby Portis]], [[Chicago Bulls]]
+*[[Ben Simmons]], [[Philadelphia 76ers]]
+*[[Alan Williams (basketball)|Alan Williams]], [[Phoenix Suns]]
+
+'''All-NBA Summer League Second Team'''
+*[[Jaylen Brown]], [[Boston Celtics]]
+*[[Thon Maker]], [[Milwaukee Bucks]]
+*[[Kelly Oubre Jr.]], [[Washington Wizards]]
+*[[Norman Powell]], [[Toronto Raptors]]
+*[[Tyler Ulis]], [[Phoenix Suns]]
+
+'''Championship Game MVP:''' [[Jerian Grant]], [[Chicago Bulls]]
+
+== References ==
+{{reflist|30em}}
+
+==External links==
+*[http://www.nba.com/summerleague Official site]
+
+{{2016–17 NBA season by team |state=collapsed}}
+{{NBA Summer League seasons}}
+
+{{DEFAULTSORT:NBA Summer League, 2016}}
+[[Category:NBA Summer League seasons|2016]]
+[[Category:2016–17 NBA season|Summer League]]
+[[Category:2016–17 in American basketball by league]]
+[[Category:2016 in sports in Florida]]
+[[Category:2016 in sports in Nevada]]
+[[Category:2016 in sports in Utah]]
+[[Category:July 2016 sports events in the United States]]

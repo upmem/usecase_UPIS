@@ -1,0 +1,3489 @@
+The '''2014 mid-year rugby union internationals''' (also known as the '''summer internationals''' in the [[Northern Hemisphere]]) were international [[rugby union]] matches mostly played in the [[Southern Hemisphere]] during the June international window.
+
+These matches were part of the [[International Rugby Board]] (IRB) global rugby calendar (2012–19) that includes [[Test match (rugby union)|test matches]] between touring Northern Hemisphere nations and home Southern Hemisphere nations, whilst some of the touring teams played mid-week matches against provincial or regional sides. In addition to this, the calendar gave Tier 2 nations the opportunity to host Tier 1 nations outside the [[End-of-year rugby union tests|November international window]] leading up to the [[2015 Rugby World Cup]].
+
+All [[Six Nations Championship|Six Nations]] teams were in action, with [[England national rugby union team|England]] playing a three-test series against [[New Zealand national rugby union team|New Zealand]], whilst playing a mid-week match against the [[Crusaders (rugby union)|Crusaders]]. [[France national rugby union team|France]] played [[Australia national rugby union team|Australia]] in a three-test series, whilst [[Italy national rugby union team|Italy]] played [[Fiji national rugby union team|Fiji]], [[Samoa national rugby union team|Samoa]] and [[Japan national rugby union team|Japan]]. [[Wales national rugby union team|Wales]] played [[South Africa national rugby union team|South Africa]] in a two-test series, with an additional mid-week match against the {{Rut Eastern Province Kings}}, and [[Ireland national rugby union team|Ireland]] played [[Argentina national rugby union team|Argentina]] in a two-test series. [[Scotland national rugby union team|Scotland]], the only nation that played four tests, visited the Americas, playing the [[United States national rugby union team|United States]], [[Canada national rugby union team|Canada]] and [[Argentina national rugby union team|Argentina]], before playing South Africa outside the IRB international window. Unlike previous June windows, 2014 saw Tier 3 fixtures with [[Uruguay national rugby union team|Uruguay]] hosting Canadian side [[BC Bears]], to celebrate the 125th Anniversary of the [[British Columbia Rugby Union]]. It also acted as a preparation match for Uruguay, ahead of their [[2015 Rugby World Cup – Repechage qualification|2015 Rugby World Cup Repechage play-offs]] in August against [[Hong Kong national rugby union team|Hong Kong]].
+
+[[Tonga national rugby union team|Tonga]] played a test match against a Pacific Barbarians side in Auckland to fill a shortfall in their international calendar leading into the World Cup.<ref>{{cite web|url=http://www.radionz.co.nz/international/pacific-news/242334/sport-tonga-to-play-pacific-barbarians,-accuse-irb-of-'starving'-island-teams|title=Sport: Tonga to play Pacific Barbarians, accuse IRB of 'starving' Island teams|date=22 April 2014|work=Radio New Zealand}}</ref>
+
+==Overview==
+
+===Series===
+{| class="wikitable" style="text-align:center"
+! style="width=320" | Event
+! style="width=70" | Result
+! style="width=100" | Victor
+|-
+| [[2014 Ireland rugby union tour of Argentina|Argentina v Ireland test series]]
+| 0–2
+| align=center|{{ru|IRE}}
+|-
+| [[2014 France rugby union tour of Australia|Australia v France test series]]
+| 3–0
+| align=center|{{ru|AUS}}
+|-
+| [[2014 England rugby union tour of New Zealand|New Zealand v England test series]]
+| 3–0
+| align=center|{{ru|NZL}}
+|-
+| [[2014 Wales rugby union tour of South Africa|South Africa v Wales test series]]
+| 2–0
+| align=center|{{ru|RSA}}
+|}
+
+===Other tours===
+{|class="wikitable" style="text-align:center;" border="1"
+! style="width="100" | Team/Tour
+! style="width"390" | Opponents
+|-
+| Italy tour
+| align=center|{{ru|FIJ}} (lost) – {{ru|JPN}} – (lost) {{ru|SAM}} (lost)
+|-
+| [[2014 Scotland rugby union tour of the Americas and South Africa|Scotland tour]]
+| align=center|{{ru|ARG}} (won) – {{ru|CAN}} (won) – {{ru|RSA}} (lost) – {{ru|USA}} (won)
+|}
+
+==Fixtures==
+===30 May–1 June===
+{{Rugbybox
+|date = 30 May 2014
+|time = 19:05 [[Japan Standard Time|JST]] ([[UTC+09]])
+|home = {{Ru-rt|JPN}}
+|score = 33–14
+|report = Report<ref>http://www.planetrugby.co.uk/story/0,25883,9817_9332232,00.html</ref>
+|away = {{Ru|SAM}}
+|try1 = [[Yoshikazu Fujita|Fujita]] (2) 11' c, 25' c<br />[[Kotaro Matsushima|Matsushima]] 70' c
+|con1 = [[Ayumu Goromaru|Goromaru]] (3/3) 12', 26', 71
+|pen1 = [[Ayumu Goromaru|Goromaru]] (4/4) 15', 40', 41', 67'
+|try2 = [[Tua Otto|Otto]] 6' c<br />[[Brando Va'aulu|Va'aulu]] 42' c
+|con2 = [[Patrick Fa'apale|Fa'apale]] (2/2) 7', 42'
+|stadium = [[Chichibunomiya Rugby Stadium]], [[Tokyo]] <ref name=JPNvSAM>{{cite web|url=http://www.japonrugby.net/le-japon-rencontrera-les-samoa-le-30-mai.php|title=Le Japon rencontrera les Samoa le 30 mai|publisher=www.japonrugby.net|date=24 March 2014|accessdate=25 March 2014}}</ref>
+|attendance = 8,460
+|referee = [[John Lacey (rugby union referee)|John Lacey]] ([[Irish Rugby Football Union|Ireland]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Ayumu Goromaru]]
+|-
+|RW ||'''14'''||[[Yoshikazu Fujita]]
+|-
+|OC ||'''13'''||[[Kotaro Matsushima]]
+|-
+|IC ||'''12'''||[[Yuu Tamura]] || || {{suboff|77}}
+|-
+|LW ||'''11'''||[[Akihito Yamada]]
+|-
+|FH ||'''10'''||[[Harumichi Tatekawa]]
+|-
+|SH ||'''9''' ||[[Atsushi Hiwasa]]
+|-
+|N8 ||'''8''' ||[[Ryu Holani]]
+|-
+|OF ||'''7''' ||[[Michael Leitch]] ([[Captain (sports)|c]]) || || {{suboff|72}}
+|-
+|BF ||'''6''' ||[[Hendrik Tui]]
+|-
+|RL ||'''5''' ||[[Shinya Makabe (rugby union)|Shinya Makabe]] || || {{suboff|49}}
+|-
+|LL ||'''4''' ||[[Hitoshi Ono]] || || {{suboff|67}}
+|-
+|TP ||'''3''' ||[[Kensuke Hatakeyama]] || || {{suboff|77}}
+|-
+|HK ||'''2''' ||[[Takeshi Kizu]] || || {{suboff|74}}
+|-
+|LP ||'''1''' ||[[Masataka Mikami]] || || {{suboff|67}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|PR ||'''16'''||[[Hisateru Hirashima]] || || {{subon|67}}
+|-
+|HK ||'''17'''||[[Hiroki Yuhara]] || || {{subon|74}}
+|-
+|PR ||'''18'''||[[Hiroshi Yamashita]] || || {{subon|77}}
+|-
+|LK ||'''19'''||[[Shoji Ito]] || || {{subon|67}}
+|-
+|FL ||'''20'''||[[Luke Thompson (rugby union)|Luke Thompson]] || {{sin bin|52|62}} || {{subon|49}}
+|-
+|LK ||'''21'''||[[Justin Ives]] || || {{subon|72}}
+|-
+|FH ||'''22'''||[[Keisuke Uchida]]
+|-
+|CE ||'''23'''||[[Ryoto Nakamura]] || || {{subon|77}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|AUS}} [[Eddie Jones (rugby union)|Eddie Jones]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Tulolo Tulolo]]
+|-
+|RW ||'''14'''||[[Tua Otto]]
+|-
+|OC ||'''13'''||[[Brando Va'aulu]] || || {{suboff|77}}
+|-
+|IC ||'''12'''||[[Anitelea Tuilagi]] ([[Captain (sports)|c]]) || || {{suboff|67}}
+|-
+|LW ||'''11'''||[[Reupena Levasa]]
+|-
+|FH ||'''10'''||[[Patrick Fa'apale]] || || {{suboff|73}}
+|-
+|SH ||'''9''' ||[[Vavao Afemai]]
+|-
+|N8 ||'''8''' ||[[Misioka Timoteo]] || || {{suboff|29}}
+|-
+|OF ||'''7''' ||[[Oneone Fa'afou]] || || {{suboff|67}}
+|-
+|BF ||'''6''' ||[[Faalemiga Selesele]]
+|-
+|RL ||'''5''' ||[[Maselino Paulino]] || {{sin bin|17|27}}
+|-
+|LL ||'''4''' ||[[Fa'atiga Lemalu]]
+|-
+|TP ||'''3''' ||[[Jake Grey]] || || {{suboff|72}}
+|-
+|HK ||'''2''' ||[[Andrew Williams (rugby player)|Andrew Williams]] || || {{suboff|77}}
+|-
+|LP ||'''1''' ||[[Aniseko Sio]]
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Ropeti Lafo]] || || {{subon|77}}
+|-
+|PR ||'''17'''||[[Manu Leiataua]] || || {{subon|29}}
+|-
+|PR ||'''18'''||[[Sam Aiono]] || || {{subon|72}}
+|-
+|LK ||'''19'''||[[Levi Asifa'amatala]]
+|-
+|FL ||'''20'''||[[Lio Lolo]] || || {{subon|67}}
+|-
+|SH ||'''21'''||[[Vaiofoga Simanu]] || || {{subon|73}}
+|-
+|CE ||'''22'''||[[Meki Magele]] || || {{subon|67}}
+|-
+|CE ||'''23'''||[[Kaino Thomsen]] || || {{subon|77}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|SAM}} [[Stephen Betham]]
+|}
+|}
+{| style="width:100%"
+|
+<!--'''Man of the Match:'''
+<br />
+-->
+'''Touch judges:'''
+<br />[[Dudley Phillips]] ([[Irish Rugby Football Union|Ireland]])
+<br />[[Michael Black (rugby union referee)|Michael Black]] ([[Irish Rugby Football Union|Ireland]])
+<br />'''Television match official:'''
+<br />[[Simon McDowell]] ([[Irish Rugby Football Union|Ireland]])
+|}
+|}
+'''Notes:'''
+* Twelve players made their international debuts for Samoa, eight in the starting XV; [[Vavao Afemai]], [[Oneone Fa'afou]], [[Patrick Fa'apale]], [[Jake Grey]], [[Reupena Levasa]], [[Faalemiga Selesele]], [[Aniseko Sio]] and [[Tulolo Tulolo]], and four off the bench; [[Sam Aiono]], [[Lio Lolo]], [[Vaiofoga Simanu]] and [[Kaino Thomsen]].
+* Japan's [[Hitoshi Ono]] surpassed [[Hirotoki Onozawa]]'s 81 caps to become Japan's most capped player with 82 caps.
+* This was Japan's seventh consecutive win, the longest winning streak they have ever had.
+----
+{{Rugbybox
+|date = 31 May 2014
+|time = 16:00 [[Time in Argentina|ART]] ([[UTC-03]])
+|home = {{Ru-rt|ARG}}
+|score = 40–0
+|report = Report<ref>{{Cite web |url=http://www.uar.com.ar/noticias/noticias.asp?idinfo=2917 |title=Archived copy |access-date=2014-05-31 |archive-url=https://web.archive.org/web/20140601041956/http://www.uar.com.ar/noticias/noticias.asp?idinfo=2917 |archive-date=2014-06-01 |url-status=dead }}</ref><br />''(In Spanish)''
+|away = [[South American XV]]
+|try1 = [[Santiago Cordero|Cordero]] 19' c<br />[[Joaquín Tuculet|Tuculet]] 38' c<br />[[Santiago González Iglesias|González Iglesias]] 58' m<br />[[Bruno Postiglioni|Postiglioni]] (2) 66' c, 71' c<br />[[Manuel Montero|Montero]] 75' c
+|con1 = [[Nicolás Sánchez (rugby union)|Sánchez]] (2/2) 20', 39'<br />[[Santiago González Iglesias|González Iglesias]] (3/4) 67', 71', 76'
+|stadium = Santo Tomé, [[Santa Fe, Argentina|Santa Fe]] <ref name=SouthAmericanXV>{{cite web|url=http://www.consur.org/index.php/component/k2/item/2042-se-viene-los-pumas-sudamerica-xv|title=Se viene LOS PUMAS - SUDAMÉRICA XV|publisher=www.consur.org|date=22 May 2014|accessdate=25 May 2014|archive-url=https://web.archive.org/web/20140528105936/http://www.consur.org/index.php/component/k2/item/2042-se-viene-los-pumas-sudamerica-xv|archive-date=2014-05-28|url-status=dead}}</ref>
+|attendance =
+|referee = [[Francisco Pastrana]] ([[Argentine Rugby Union|Argentina]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Joaquín Tuculet]] || || {{suboff|40}}
+|-
+|RW ||'''14'''||[[Matías Orlando]] || || {{suboff|40}}
+|-
+|OC ||'''13'''||[[Jerónimo de la Fuente]]
+|-
+|IC ||'''12'''||[[Gabriel Ascárate]] || || {{suboff|40}}
+|-
+|LW ||'''11'''||[[Santiago Cordero]] || || {{suboff|40}}
+|-
+|FH ||'''10'''||[[Nicolás Sánchez (rugby union)|Nicolás Sánchez]] || || {{suboff|49}}
+|-
+|SH ||'''9''' ||[[Martín Landajo]] ([[Captain (sports)|c]]) || || {{suboff|61}}
+|-
+|N8 ||'''8''' ||[[Benjamín Macome]] || || {{suboff|47}}
+|-
+|OF ||'''7''' ||[[Facundo Isa]] || || {{suboff|40}} || {{subon|61}}
+|-
+|BF ||'''6''' ||[[Rodrigo Báez (rugby union)|Rodrigo Báez]] || || || {{suboff|61}}
+|-
+|RL ||'''5''' ||[[Tomás Lavanini]]
+|-
+|LL ||'''4''' ||[[Matías Alemano]] || || {{suboff|58}}
+|-
+|TP ||'''3''' ||[[Tetaz Chaparro]] || || {{suboff|49}}
+|-
+|HK ||'''2''' ||[[Matías Cortese]] || || {{suboff|50}} || {{subon|73}}
+|-
+|LP ||'''1''' ||[[Lucas Noguera Paz]] || || {{suboff|73}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Julián Montoya]] || || {{subon|50}} || {{suboff|73}}
+|-
+|HK ||'''17'''||[[Santiago Iglesias (rugby union)|Santiago Iglesias]] || || {{subon|73}}
+|-
+|PR ||'''18'''||[[Bruno Postiglioni]] || || {{subon|49}}
+|-
+|LK ||'''19'''||[[Lucas Ponce]] || || {{subon|58}}
+|-
+|FL ||'''20'''||[[Javier Ortega Desio]] || || {{subon|40}}
+|-
+|N8 ||'''21'''||[[Antonio Ahualli de Chazal]] || || {{subon|47}}
+|-
+|SH ||'''22'''||[[Felipe Ezcurra]] || || {{subon|61}}
+|-
+|FH ||'''23'''||[[Santiago González Iglesias]] || || {{subon|49}}
+|-
+|CE ||'''24'''||[[Javier Rojas]] || || {{subon|40}}
+|-
+|WG ||'''25'''||[[Manuel Montero]] || || {{subon|40}}
+|-
+|WG ||'''26'''||[[Ramiro Moyano]] || || {{subon|40}}
+|-
+|FB ||'''27'''||[[Lucas González Amorosino]] || || {{subon|40}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Daniel Hourcade]]
+|-
+|colspan="4"|{{noflag}}
+|-
+|colspan="4"|'''Touch judges:'''
+|-
+|colspan="4"|[[Juan Sylvestre]] ([[Argentine Rugby Union|Argentina]])<br />[[Emilio Traverso]] ([[Argentine Rugby Union|Argentina]])
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||{{flagicon|ARG}} [[Gonzalo Gutiérrez Taboada]]
+|-
+|RW ||'''14'''||{{flagicon|ARG}} [[Facundo Barrea]] || || {{suboff|40}}
+|-
+|OC ||'''13'''||{{flagicon|ARG}} [[Matías Masera]] || || {{suboff|65}}
+|-
+|IC ||'''12'''||{{flagicon|ARG}} [[Juan Ignacio Brex]]
+|-
+|LW ||'''11'''||{{flagicon|ARG}} [[Tomás Carrió]] || || {{suboff|65}}
+|-
+|FH ||'''10'''||{{flagicon|ARG}} [[Sebastián Poet]] || || {{suboff|46}}
+|-
+|SH ||'''9''' ||{{flagicon|ARG}} [[Marcos Bollini]] || || {{suboff|60}}
+|-
+|N8 ||'''8''' ||{{flagicon|ARG}} [[Lisandro Ahualli de Chazal]] ([[Captain (sports)|c]]) || || || {{suboff|65}}
+|-
+|OF ||'''7''' ||{{flagicon|ARG}} [[Lautaro Casado]] || || {{suboff|38}}
+|-
+|BF ||'''6''' ||{{flagicon|ARG}} [[Lucas Maguire]]
+|-
+|RL ||'''5''' ||{{flagicon|ARG}} [[Franco Baldoni]] || || {{suboff|35}}
+|-
+|LL ||'''4''' ||{{flagicon|ARG}} [[Martin Chiappesoni]] || || {{suboff|46}}
+|-
+|TP ||'''3''' ||{{flagicon|ARG}} [[Santiago García Botta]]
+|-
+|HK ||'''2''' ||{{flagicon|ARG}} [[Tomás Baravalle]] || || {{suboff|33}}
+|-
+|LP ||'''1''' ||{{flagicon|ARG}} [[Ignacio Sáenz Lancuba]] || || {{suboff|55}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||{{flagicon|ARG}} [[Facundo Bosch]] || || {{subon|33}}
+|-
+|PR ||'''17'''||{{flagicon|ARG}} [[Facundo Maina]] || || {{subon|55}}
+|-
+|LK ||'''18'''||{{flagicon|ARG}} [[Juan Martín Guerineau]] || || {{subon|46}}
+|-
+|LK ||'''19'''||{{flagicon|ARG}} [[Santiago Rocchia Ferro]] || || {{subon|35}} || {{suboff|61}}
+|-
+|FL ||'''20'''||{{flagicon|COL}} [[Gil Mejia]] || || || {{subon|61}}
+|-
+|FL ||'''21'''||{{flagicon|ARG}} [[Nicolás Proto]] || || {{subon|38}} || {{suboff|55}}
+|-
+|FL ||'''22'''||{{flagicon|CHI}} [[Ignacio Silva]] || || || {{subon|55}}
+|-
+|N8 ||'''23'''||{{flagicon|BRA}} [[João Luiz Daros]] || || || {{subon|65}}
+|-
+|SH ||'''24'''||{{flagicon|ARG}} [[Gonzalo Bertranou]] || || {{subon|60}}
+|-
+|FH ||'''25'''||{{flagicon|ARG}} [[Bautista Güemes]] || || {{subon|46}}
+|-
+|CE ||'''26'''||{{flagicon|PAR}} [[Diego Argaña]] || || {{subon|65}}
+|-
+|WG ||'''27'''||{{flagicon|VEN}} [[Carlos Eloy Barbosa]] || || {{subon|65}}
+|-
+|WG ||'''28'''||{{flagicon|ARG}} [[Dan Isaack]] || || {{subon|40}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|ARG}} Bernardo Urdaneta<br />{{flagicon|ARG}} Pablo Gómez Cora<br />{{flagicon|ARG}} Elías Santillán
+|}
+|}
+|}
+----
+{{Rugbybox
+|date = 1 June 2014
+|time = 15:00 [[British Summer Time|BST]] ([[UTC+01]])
+|home = {{Ru-rt|ENG}}
+|score = 29–39
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/england/rugby/story/227943.html|title=Barbarians take it up a gear|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = [[Barbarians F.C.|Barbarians]]
+|try1 = [[Dave Ewers|Ewers]] 11' c<br />[[Charlie Sharples|Sharples]] 23' m<br />[[Henry Slade (rugby player)|Slade]] 55' m
+|con1 = [[Henry Slade (rugby player)|Slade]] (1/2) 13'
+|pen1 = [[Elliot Daly|Daly]] (1/1) 21'<br />[[Henry Slade (rugby player)|Slade]] (3/3) 36', 61', 67'
+|try2 = [[Benson Stanley|Stanley]] 17' c<br />[[Juan Martín Hernández|Hernández]]  26' c<br />[[Mamuka Gorgodze|Gorgodze]] 45' c<br />[[Hosea Gear|Gear]] (2) 63' c, 76' m
+|con2 = [[Brock James|James]] (3/3) 18', 28', 46'<br />[[François Trinh-Duc|Trinh-Duc]] (1/2) 64'
+|pen2 = [[Brock James|James]] (1/1) 51'<br />[[François Trinh-Duc|Trinh-Duc]] (1/1) 58'
+|stadium = [[Twickenham Stadium|Twickenham]], [[London]]
+|attendance = 50,498
+|referee = [[Mathieu Raynal]] ([[French Rugby Federation|France]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Elliot Daly]]
+|-
+|RW ||'''14'''||[[Semesa Rokoduguni]]
+|-
+|OC ||'''13'''||[[Jonathan Joseph (rugby union)|Jonathan Joseph]] || || || || {{suboff|53}}
+|-
+|IC ||'''12'''||[[Sam Hill (rugby union)|Sam Hill]]
+|-
+|LW ||'''11'''||[[Charlie Sharples]] || || {{suboff|53}}
+|-
+|FH ||'''10'''||[[Henry Slade (rugby player)|Henry Slade]] || ||colspan=2| {{blood bin|18|28}}
+|-
+|SH ||'''9''' ||[[Joe Simpson (rugby union, born 1988)|Joe Simpson]] || || {{suboff|51}}
+|-
+|N8 ||'''8''' ||[[Dave Ewers]] || || || || {{suboff|72}}
+|-
+|OF ||'''7''' ||[[Luke Wallace]]
+|-
+|BF ||'''6''' ||[[Jamie Gibson]] || || {{suboff|30}}
+|-
+|RL ||'''5''' ||[[Graham Kitchener]] ([[Captain (sports)|c]])
+|-
+|LL ||'''4''' ||[[Michael Paterson]] || || {{suboff|57}} || {{subon|66}}
+|-
+|TP ||'''3''' ||[[Kyle Sinckler]] || || {{suboff|51}}
+|-
+|HK ||'''2''' ||[[Rob Buchanan]] || || {{suboff|46}} || {{subon|64}}
+|-
+|LP ||'''1''' ||[[Ross Harrison (rugby union)|Ross Harrison]] || || {{suboff|51}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Tommy Taylor (rugby union)|Tommy Taylor]] || || {{subon|46}} || {{suboff|64}}
+|-
+|PR ||'''17'''||[[Fraser Balmain]] || || {{subon|51}}
+|-
+|PR ||'''18'''||[[Will Collier]] || || {{subon|51}}
+|-
+|LK ||'''19'''||[[Charlie Matthews]] || || {{subon|57}} || {{suboff|66}} || {{subon|72}}
+|-
+|FL ||'''20'''||[[James Gaskell]] || || {{subon|30}}
+|-
+|SH ||'''21'''||[[Dan Robson]] || || {{subon|51}}
+|-
+|FH ||'''22'''||[[Ollie Devoto]] || || {{subon|18}} || {{suboff|28}} || {{subon|53}}
+|-
+|FB ||'''23'''||[[Rob Miller (rugby union)|Rob Miller]] || || {{subon|53}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Jon Callard]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||{{flagicon|ARG}} [[Juan Martín Hernández]]
+|-
+|RW ||'''14'''||{{flagicon|NZL}} [[Joe Rokocoko]] || || {{suboff|47}}
+|-
+|OC ||'''13'''||{{flagicon|NZL}} [[Rene Ranger]]
+|-
+|IC ||'''12'''||{{flagicon|NZL}} [[Benson Stanley]]
+|-
+|LW ||'''11'''||{{flagicon|NZL}} [[Hosea Gear]]
+|-
+|FH ||'''10'''||{{flagicon|AUS}} [[Brock James]] || || {{suboff|52}}
+|-
+|SH ||'''9''' ||{{flagicon|NZL}} [[Jimmy Cowan]] || || {{suboff|47}} || {{subon|66}}
+|-
+|N8 ||'''8''' ||{{flagicon|GEO}} [[Mamuka Gorgodze]]
+|-
+|OF ||'''7''' ||{{flagicon|FRA}} [[Alexandre Lapandry]] || || {{suboff|55}}
+|-
+|BF ||'''6''' ||{{flagicon|ARG}} [[Juan Manuel Leguizamón]] ([[Captain (sports)|c]])
+|-
+|RL ||'''5''' ||{{flagicon|RSA}} [[Juandré Kruger]]
+|-
+|LL ||'''4''' ||{{flagicon|IRE|rugby union}} [[Donncha O'Callaghan]] || || {{suboff|52}}
+|-
+|TP ||'''3''' ||{{flagicon|GEO}} [[Davit Zirakashvili]] || || {{suboff|74}}
+|-
+|HK ||'''2''' ||{{flagicon|SAM}} [[Ti’i Paulo]] || || {{suboff|64}}
+|-
+|LP ||'''1''' ||{{flagicon|TON}} [[Sona Taumalolo]] || || {{suboff|47}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||{{flagicon|NZL}} [[Andrew Hore]] || || {{subon|64}}
+|-
+|PR ||'''17'''||{{flagicon|FRA}} [[Julien Brugnaut]] || || {{subon|47}}
+|-
+|PR ||'''18'''||{{flagicon|ARG}} [[Nahuel Lobo]] || || {{subon|74}}
+|-
+|LK ||'''19'''||{{flagicon|SAM}} [[Joe Tekori]] || || {{subon|52}}
+|-
+|N8 ||'''20'''||{{flagicon|IRE|rugby union}} [[Roger Wilson (rugby union)|Roger Wilson]] || || {{subon|55}}
+|-
+|SH ||'''21'''||{{flagicon|ARG}} [[Tomás Cubelli]] || || {{subon|47}} || {{suboff|66}}
+|-
+|FH ||'''22'''||{{flagicon|FRA}} [[François Trinh-Duc]] || || {{subon|52}}
+|-
+|CE ||'''23'''||{{flagicon|NZL}} [[Anthony Tuitavake]] || || {{subon|47}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Dean Ryan]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />{{flagicon|NZL}} [[Hosea Gear]] (Barbarians)
+
+'''Touch judges:'''
+<br />[[Neil Hennessey]] ([[Welsh Rugby Union|Wales]])
+<br />[[Ben Whitehouse]] ([[Welsh Rugby Union|Wales]])
+<br />'''Television match official:'''
+<br />[[Gareth Simmonds]] ([[Welsh Rugby Union|Wales]])
+|}
+|}
+'''Notes:'''
+* [[Jon Callard]] coached England, with [[Stuart Lancaster (rugby union)|Lancaster]] in New Zealand with the touring 30-man squad.<ref>{{cite web|url=http://www1.skysports.com/rugby-union/news/12504/9328985/leicesters-graham-kitchener-to-captain-england-against-barbarians|title=Leicester's Graham Kitchener to captain England against Barbarians|work=SkySports}}</ref>
+* This was the Barbarians first back to back win since their back to back wins over England and Wales in 2011, which was the last time the Baa Baas beat England.
+
+===7 June===
+{{Rugbybox
+|date = 7 June 2014
+|time = 15:10 [[UTC+12|FJT]] ([[UTC+12]])
+|home = {{Ru-rt|FIJ}}
+|score = 25–14
+|report = Report<ref>{{Cite web |url=http://www.federugby.it/index.php?option=com_content&view=article&id=6958:italia-battuta-25-14-dalle-fiji-a-suva-nella-prima-gara-del-tour&catid=252:slide&Itemid=811 |title=Archived copy |access-date=2014-06-07 |archive-url=https://web.archive.org/web/20140714225233/http://www.federugby.it/index.php?option=com_content&view=article&id=6958:italia-battuta-25-14-dalle-fiji-a-suva-nella-prima-gara-del-tour&catid=252:slide&Itemid=811 |archive-date=2014-07-14 |url-status=dead }}</ref><br />''(In Italian)''
+|away = {{Ru|ITA}}
+|try1 = [[Nemani Nadolo|Nadolo]] 19' m<br />[[Dominiko Waqaniburotu|Waqaniburotu]] 60' c<br />[[Napolioni Nalaga|Nalaga]] 78' c
+|con1 = [[Jonetani Ralulu|Ralulu]] (1/2) 61'<br />[[Nemani Nadolo|Nadolo]] (1/1) 79'
+|pen1 = [[Nemani Nadolo|Nadolo]] (2/2) 66', 71'
+|try2 = [[Try (rugby)|Penalty try]] (2) 10' c, 76' c
+|con2 = [[Luciano Orquera|Orquera]] (2/2) 10', 77'
+|stadium = [[ANZ National Stadium]], [[Suva]] <ref name=ITA>{{cite web|url=http://www.onrugby.it/2013/12/31/test-match-di-giugno-italrugby-contro-fiji-samoa-e-giappone/|title=Test-match di giugno: Italrugby contro Fiji, Samoa e Giappone|publisher=www.onrugby.it|date=31 December 2013|accessdate=31 December 2013}}</ref>
+|attendance = 12,000
+|referee = [[JP Doyle]] ([[Rugby Football Union|England]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Metuisela Talebula]] || || || || {{suboff|77}}
+|-
+|RW ||'''14'''||[[Napolioni Nalaga]]
+|-
+|OC ||'''13'''||[[Asaeli Tikoirotuma]]
+|-
+|IC ||'''12'''||[[Nemani Nadolo]] || ||colspan=2| {{blood bin|44|50}}
+|-
+|LW ||'''11'''||[[Timoci Nagusa]] || || {{suboff|70}}
+|-
+|FH ||'''10'''||[[Jonetani Ralulu]]
+|-
+|SH ||'''9''' ||[[Nemia Kenatale]] || || {{suboff|40}}
+|-
+|N8 ||'''8''' ||[[Nemani Nagusa]] || || {{suboff|76}}
+|-
+|OF ||'''7''' ||[[Akapusi Qera]] ([[Captain (sports)|c]])
+|-
+|BF ||'''6''' ||[[Dominiko Waqaniburotu]]
+|-
+|RL ||'''5''' ||[[Apisai Naikatini]] || || {{suboff|63}}
+|-
+|LL ||'''4''' ||[[Apisalome Ratuniyarawa]]
+|-
+|TP ||'''3''' ||[[Manasa Saulo]] || || {{suboff|40}}
+|-
+|HK ||'''2''' ||[[Talemaitoga Tuapati]] || || {{suboff|40}}
+|-
+|LP ||'''1''' ||[[Campese Ma'afu]] || || {{suboff|47}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Sunia Koto]] || || {{subon|40}}
+|-
+|PR ||'''17'''||[[Jerry Yanuyanutawa]] || || {{subon|47}}
+|-
+|PR ||'''18'''||[[Isei Colati]] || || {{subon|40}}
+|-
+|LK ||'''19'''||[[Wame Lewaravu]] || || {{subon|63}}
+|-
+|FL ||'''20'''||[[Malakai Ravulo]] || || {{subon|76}}
+|-
+|SH ||'''21'''||[[Nikola Matawalu]] || || {{subon|40}}
+|-
+|WG ||'''22'''||[[Watisoni Votu]] || || {{subon|44}} || {{suboff|50}} || {{subon|77}}
+|-
+|CE ||'''23'''||[[Adriu Delai]] || || {{subon|70}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[John McKee (rugby union)|John McKee]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Luke McLean]]
+|-
+|RW ||'''14'''||[[Leonardo Sarto]] || || {{suboff|67}}
+|-
+|OC ||'''13'''||[[Michele Campagnaro]]
+|-
+|IC ||'''12'''||[[Alberto Sgarbi]]
+|-
+|LW ||'''11'''||[[Giovanbattista Venditti]]
+|-
+|FH ||'''10'''||[[Luciano Orquera]]
+|-
+|SH ||'''9''' ||[[Guglielmo Palazzani]]
+|-
+|N8 ||'''8''' ||[[Manoa Vosawai]] || || {{suboff|66}}
+|-
+|OF ||'''7''' ||[[Mauro Bergamasco]]
+|-
+|BF ||'''6''' ||[[Joshua Furno]]
+|-
+|RL ||'''5''' ||[[Marco Bortolami]] || || {{suboff|61}}
+|-
+|LL ||'''4''' ||[[Quintin Geldenhuys]] ([[Captain (sports)|c]])
+|-
+|TP ||'''3''' ||[[Lorenzo Cittadini]] || || {{suboff|53}}
+|-
+|HK ||'''2''' ||[[Leonardo Ghiraldini]] || || {{suboff|53}}
+|-
+|LP ||'''1''' ||[[Matías Agüero]] || || {{suboff|53}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Davide Giazzon]] || || {{subon|53}}
+|-
+|PR ||'''17'''||[[Andrea de Marchi]] || || {{subon|53}}
+|-
+|PR ||'''18'''||[[Alberto De Marchi]] || || {{subon|53}}
+|-
+|LK ||'''19'''||[[George Biagi]] || || {{subon|61}}
+|-
+|FL ||'''20'''||[[Paul Derbyshire]] || || {{subon|66}}
+|-
+|SH ||'''21'''||[[Tito Tebaldi]]
+|-
+|FH ||'''22'''||[[Tommaso Allan]]
+|-
+|FB ||'''23'''||[[Andrea Masi]] || || {{subon|67}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|FRA}} [[Jacques Brunel (rugby player)|Jacques Brunel]]
+|}
+|}
+{| style="width:100%"
+|
+<!--'''Man of the Match:'''
+<br />
+-->
+'''Touch judges:'''
+<br />[[Johan Hoffmann]] ([[Australian Rugby Union|Australia]])
+<br />[[James Leckie]] ([[Australian Rugby Union|Australia]])
+|}
+|}
+'''Notes:'''
+* [[Isei Colati]] made his international debut for Fiji.
+* [[Andrea de Marchi]] and [[Guglielmo Palazzani]] made their international debuts for Italy.
+----
+{{Rugbybox
+|date = 7 June 2014
+|time = 19:35 [[Time in New Zealand|NZST]] ([[UTC+12]])
+|home = {{Ru-rt|NZL}}
+|score = 20–15
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/228765.html|title=Late try sinks gutsy England|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|ENG}}
+|try1 = [[Conrad Smith|C. Smith]] 77' m
+|pen1 = [[Aaron Cruden|Cruden]] (5/5) 9', 24', 38', 66', 70'
+|pen2 = [[Freddie Burns|Burns]] (4/4) 2', 18', 21', 63'<br />[[Danny Cipriani|Cipriani]] (1/1) 73'
+|stadium = [[Eden Park]], [[Auckland]] <ref name=NZL>{{cite web|url=http://www.rfu.com/news/2013/december/news-articles/021213_nz_tour_dates|title=England confirm three-Test New Zealand tour in June 2014|publisher=www.rfu.com|date=2 December 2013|accessdate=20 December 2013|archive-url=https://web.archive.org/web/20131221010140/http://www.rfu.com/news/2013/december/news-articles/021213_nz_tour_dates|archive-date=2013-12-21|url-status=dead}}</ref>
+|attendance = 47,195
+|referee = [[Nigel Owens]] ([[Welsh Rugby Union|Wales]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Israel Dagg]] || || {{suboff|54}}
+|-
+|RW ||'''14'''||[[Ben Smith (rugby union)|Ben Smith]]
+|-
+|OC ||'''13'''||[[Conrad Smith]]
+|-
+|IC ||'''12'''||[[Ma'a Nonu]] || || {{suboff|59}}
+|-
+|LW ||'''11'''||[[Cory Jane]]
+|-
+|FH ||'''10'''||[[Aaron Cruden]]
+|-
+|SH ||'''9''' ||[[Aaron Smith (rugby union)|Aaron Smith]] || || {{suboff|70}}
+|-
+|N8 ||'''8''' ||[[Jerome Kaino]]
+|-
+|OF ||'''7''' ||[[Richie McCaw]] ([[Captain (sports)|c]])
+|-
+|BF ||'''6''' ||[[Liam Messam]] || || {{suboff|71}}
+|-
+|RL ||'''5''' ||[[Sam Whitelock]]
+|-
+|LL ||'''4''' ||[[Brodie Retallick]]
+|-
+|TP ||'''3''' ||[[Owen Franks]] || || {{suboff|54}}
+|-
+|HK ||'''2''' ||[[Dane Coles]] || || {{suboff|59}}
+|-
+|LP ||'''1''' ||[[Tony Woodcock (rugby player)|Tony Woodcock]] || || {{suboff|59}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Keven Mealamu]] || || {{subon|59}}
+|-
+|PR ||'''17'''||[[Wyatt Crockett]] || || {{subon|59}}
+|-
+|PR ||'''18'''||[[Charlie Faumuina]] || || {{subon|54}}
+|-
+|LK ||'''19'''||[[Patrick Tuipulotu]]
+|-
+|FL ||'''20'''||[[Victor Vito (rugby union)|Victor Vito]] || || {{subon|71}}
+|-
+|SH ||'''21'''||[[TJ Perenara]] || || {{subon|70}}
+|-
+|FH ||'''22'''||[[Beauden Barrett]] || || {{subon|54}}
+|-
+|CE ||'''23'''||[[Malakai Fekitoa]] || || {{subon|59}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Steve Hansen]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Mike Brown (rugby union)|Mike Brown]]
+|-
+|RW ||'''14'''||[[Marland Yarde]] || {{sin bin|69|79}}
+|-
+|OC ||'''13'''||[[Manu Tuilagi]]
+|-
+|IC ||'''12'''||[[Kyle Eastmond]]
+|-
+|LW ||'''11'''||[[Jonny May]] || || {{suboff|79}}
+|-
+|FH ||'''10'''||[[Freddie Burns]] || || {{suboff|71}}
+|-
+|SH ||'''9''' ||[[Ben Youngs]] || || {{suboff|79}}
+|-
+|N8 ||'''8''' ||[[Ben Morgan]]
+|-
+|OF ||'''7''' ||[[Chris Robshaw]] ([[Captain (sports)|c]])
+|-
+|BF ||'''6''' ||[[James Haskell]] || || {{suboff|70}}
+|-
+|RL ||'''5''' ||[[Geoff Parling]]
+|-
+|LL ||'''4''' ||[[Joe Launchbury]] || || {{suboff|70}}
+|-
+|TP ||'''3''' ||[[David Wilson (English rugby union prop)|David Wilson]] || || {{suboff|70}}
+|-
+|HK ||'''2''' ||[[Rob Webber]] || || {{suboff|70}}
+|-
+|LP ||'''1''' ||[[Joe Marler]]
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Joe Gray (rugby union)|Joe Gray]] || || {{subon|70}}
+|-
+|PR ||'''17'''||[[Matt Mullan]]
+|-
+|PR ||'''18'''||[[Henry Thomas (rugby union)|Henry Thomas]] || || {{subon|70}}
+|-
+|LK ||'''19'''||[[Dave Attwood]] || || {{subon|70}}
+|-
+|FL ||'''20'''||[[Tom Johnson (rugby union)|Tom Johnson]] || || {{subon|70}}
+|-
+|SH ||'''21'''||[[Lee Dickson]] || || {{subon|79}}
+|-
+|FH ||'''22'''||[[Danny Cipriani]] || || {{subon|71}}
+|-
+|FB ||'''23'''||[[Chris Pennell]] || || {{subon|79}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Stuart Lancaster (rugby union)|Stuart Lancaster]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Conrad Smith]] (New Zealand)
+
+'''Touch judges:'''
+<br />[[Jaco Peyper]] ([[South African Rugby Union|South Africa]])
+<br />[[Jérôme Garcès]] ([[French Rugby Federation|France]])
+<br />'''Television match official:'''
+<br />[[George Ayoub]] ([[Australian Rugby Union|Australia]])
+|}
+|}
+'''Notes:'''
+* [[Malakai Fekitoa]] and [[TJ Perenara]] made their international debuts for New Zealand.
+* [[Chris Pennell]] and [[Joe Gray (rugby union)|Joe Gray]] made their international debuts for England.
+* With this win, New Zealand win 31 consecutive home matches, a world record by a test team.
+----
+{{Rugbybox
+|date = 7 June 2014
+|time = 20:00 [[Time in Australia|AEST]] ([[UTC+10]])
+|home = {{Ru-rt|AUS}}
+|score = 50–23
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/australia/rugby/story/228761.html|title=Wallabies overpower limp France|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|FRA}}
+|try1 = [[Israel Folau|Folau]] 18' c<br />[[Adam Ashley-Cooper|Ashley-Cooper]] 23' m<br />[[Michael Hooper (rugby union)|Hooper]] 32' c<br />[[Matt Toomua|Toomua]] 38' c<br />[[Nick Cummins|Cummins]] 55' c<br />[[Kurtley Beale|Beale]] 67' c<br />[[Pat McCabe (rugby union)|McCabe]] 70' c
+|con1 = [[Bernard Foley|Foley]] (6/7) 20', 32', 39', 57', 68', 71'
+|pen1 = [[Bernard Foley|Foley]] (1/2) 3'
+|try2 = [[Morgan Parra|Parra]] 72' c<br />[[Try (rugby)|Penalty try]] 80' c
+|con2 = [[Frédéric Michalak|Michalak]] (2/2) 73', 80'
+|pen2 = [[Frédéric Michalak|Michalak]] (2/2) 26', 36'
+|drop2 = [[Frédéric Michalak|Michalak]] (1/1) 4'
+|stadium = [[Lang Park|Suncorp Stadium]], [[Brisbane]] <ref name=AUS>{{cite web|url=http://www.planetrugby.co.uk/story/0,25883,3559_8846811,00.html|title=France to face Australia in 2014|publisher=www.planetrugby.co.uk|date=29 July 2013|accessdate=5 November 2013}}</ref>
+|attendance = 33,718
+|referee = [[Craig Joubert]] ([[South African Rugby Union|South Africa]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Israel Folau]]
+|-
+|RW ||'''14'''||[[Adam Ashley-Cooper]]
+|-
+|OC ||'''13'''||[[Tevita Kuridrani]] || || {{suboff|70}}
+|-
+|IC ||'''12'''||[[Matt Toomua]] || || {{suboff|62}}
+|-
+|LW ||'''11'''||[[Nick Cummins]]
+|-
+|FH ||'''10'''||[[Bernard Foley]]
+|-
+|SH ||'''9''' ||[[Nic White]] || || {{suboff|62}}
+|-
+|N8 ||'''8''' ||[[Wycliff Palu]] || || {{suboff|54}}
+|-
+|OF ||'''7''' ||[[Michael Hooper (rugby union)|Michael Hooper]]
+|-
+|BF ||'''6''' ||[[Scott Fardy]]
+|-
+|RL ||'''5''' ||[[Rob Simmons (rugby union)|Rob Simmons]] || || {{suboff|70}}
+|-
+|LL ||'''4''' ||[[Sam Carter (rugby union)|Sam Carter]]
+|-
+|TP ||'''3''' ||[[Sekope Kepu]] || || {{suboff|53}}
+|-
+|HK ||'''2''' ||[[Stephen Moore (rugby union)|Stephen Moore]] ([[Captain (sports)|c]]) || || {{suboff|5}}
+|-
+|LP ||'''1''' ||[[James Slipper]] || || {{suboff|62}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Tatafu Polota-Nau]] || || {{subon|5}}
+|-
+|PR ||'''17'''||[[Pekahou Cowan]] || || {{subon|62}}
+|-
+|PR ||'''18'''||[[Paddy Ryan (rugby union, born 1988)|Paddy Ryan]] || || {{subon|53}}
+|-
+|LK ||'''19'''||[[James Horwill]] || || {{subon|70}}
+|-
+|N8 ||'''20'''||[[Ben McCalman]] || || {{subon|54}}
+|-
+|SH ||'''21'''||[[Nick Phipps (rugby union)|Nick Phipps]] || || {{subon|62}}
+|-
+|FH ||'''22'''||[[Kurtley Beale]] || || {{subon|62}}
+|-
+|CE ||'''23'''||[[Pat McCabe (rugby union)|Pat McCabe]] || || {{subon|70}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|AUS}} [[Ewen McKenzie]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Hugo Bonneval]]
+|-
+|RW ||'''14'''||[[Yoann Huget]]
+|-
+|OC ||'''13'''||[[Gaël Fickou]] || || {{suboff|73}}
+|-
+|IC ||'''12'''||[[Wesley Fofana (rugby union)|Wesley Fofana]]
+|-
+|LW ||'''11'''||[[Felix Le Bourhis]] || || {{suboff|53}}
+|-
+|FH ||'''10'''||[[Frédéric Michalak]]
+|-
+|SH ||'''9''' ||[[Maxime Machenaud]] || || {{suboff|69}}
+|-
+|N8 ||'''8''' ||[[Damien Chouly]]
+|-
+|OF ||'''7''' ||[[Bernard Le Roux]] || || {{suboff|61}}
+|-
+|BF ||'''6''' ||[[Fulgence Ouedraogo]]
+|-
+|RL ||'''5''' ||[[Yoann Maestri]]
+|-
+|LL ||'''4''' ||[[Sébastien Vahaamahina]] || || {{suboff|53}}
+|-
+|TP ||'''3''' ||[[Nicolas Mas]] ([[Captain (sports)|c]]) || || {{suboff|53}}
+|-
+|HK ||'''2''' ||[[Guilhem Guirado]] || || {{suboff|69}}
+|-
+|LP ||'''1''' ||[[Thomas Domingo]] || || {{suboff|53}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Christopher Tolofua]] || || {{subon|69}}
+|-
+|PR ||'''17'''||[[Vincent Debaty]] || || {{subon|53}}
+|-
+|PR ||'''18'''||[[Rabah Slimani]] || || {{subon|53}}
+|-
+|LK ||'''19'''||[[Alexandre Flanquart]] || || {{subon|53}}
+|-
+|FL ||'''20'''||[[Antoine Burban]] || || {{subon|61}}
+|-
+|SH ||'''21'''||[[Morgan Parra]] || || {{subon|69}}
+|-
+|CE ||'''22'''||[[Rémi Lamerat]] || || {{subon|73}}
+|-
+|FB ||'''23'''||[[Brice Dulin]] || || {{subon|53}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|FRA}} [[Philippe Saint-André]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Sam Carter (rugby union)|Sam Carter]] (Australia)
+
+'''Touch judges:'''
+<br />[[Chris Pollock]] ([[New Zealand Rugby Union|New Zealand]])
+<br />[[Garratt Williamson]] ([[New Zealand Rugby Union|New Zealand]])
+<br />'''Television match official:'''
+<br />[[Ben Skeen]] ([[New Zealand Rugby Union|New Zealand]])
+|}
+|}
+'''Notes:'''
+* [[James Slipper]] and [[Wycliff Palu]] earned their 50th test cap for Australia.
+* [[Sam Carter (rugby union)|Sam Carter]] made his international debut for Australia.
+* [[Felix Le Bourhis]] and [[Rémi Lamerat]] made their international debuts for France.
+----
+{{Rugbybox
+|date = 7 June 2014
+|time = 17:00 [[South African Standard Time|SAST]] ([[UTC+02]])
+|home = {{Ru-rt|RSA}}
+|score = 47–13
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/228871.html|title=South Africa flattered in warm-up match|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = [[World XV]]
+|try1 = [[Bryan Habana|Habana]] 16' m<br />[[Bakkies Botha|Botha]] 32' c<br />[[Bismarck du Plessis|B. Du Plessis]] (2) 48' m, 58' c<br />[[Johan Goosen|Goosen]] 77' c<br />[[Willie le Roux|Le Roux]] 79' c
+|con1 = [[Morné Steyn|M. Steyn]] (2/4) 33', 59'<br />[[Johan Goosen|Goosen]] (2/2) 78', 79'
+|pen1 = [[Morné Steyn|M. Steyn]] (3/3) 16', 30', 44'
+|try2 = [[Alistair Hargreaves|Hargreaves]] 5' c
+|con2 = [[James O'Connor (rugby union)|O'Connor]] (1/1) 5'
+|pen2 = [[James O'Connor (rugby union)|O'Connor]] (2/2) 23', 40'
+|stadium = [[Newlands Stadium|Newlands]], [[Cape Town]] <ref name="RSA">{{cite web | url=http://www.espn.co.uk/southafrica/rugby/story/217013.html|title=Busy year ahead for Springboks|publisher=ESPN Scrum|date=5 March 2014|accessdate=5 March 2014}}</ref>
+|attendance = 31,500
+|referee = [[George Clancy (rugby union)|George Clancy]] ([[Irish Rugby Football Union|Ireland]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Willie le Roux]]
+|-
+|RW ||'''14'''||[[Cornal Hendricks]]
+|-
+|OC ||'''13'''||[[JP Pietersen]]
+|-
+|IC ||'''12'''||[[François Steyn]]
+|-
+|LW ||'''11'''||[[Bryan Habana]] || || {{suboff|68}}
+|-
+|FH ||'''10'''||[[Morné Steyn]] || || {{suboff|68}}
+|-
+|SH ||'''9''' ||[[Ruan Pienaar]] || || {{suboff|50}}
+|-
+|N8 ||'''8''' ||[[Duane Vermeulen]]
+|-
+|OF ||'''7''' ||[[Willem Alberts]] || || {{suboff|59}}
+|-
+|BF ||'''6''' ||[[Francois Louw]]
+|-
+|RL ||'''5''' ||[[Victor Matfield]] ([[Captain (sports)|c]])
+|-
+|LL ||'''4''' ||[[Bakkies Botha]] || || {{suboff|50}}
+|-
+|TP ||'''3''' ||[[Jannie du Plessis]] || || {{suboff|64}}
+|-
+|HK ||'''2''' ||[[Bismarck du Plessis]] || || {{suboff|59}}
+|-
+|LP ||'''1''' ||[[Tendai Mtawarira]] || || {{suboff|64}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Schalk Brits]] || || {{subon|59}}
+|-
+|PR ||'''17'''||[[Gurthrö Steenkamp]] || || {{subon|64}}
+|-
+|PR ||'''18'''||[[Coenie Oosthuizen]] || || {{subon|64}}
+|-
+|LK ||'''19'''||[[Flip van der Merwe]] || || {{subon|50}}
+|-
+|FL ||'''20'''||[[Schalk Burger]] || || {{subon|59}}
+|-
+|SH ||'''21'''||[[Fourie du Preez]] || || {{subon|50}}
+|-
+|FH ||'''22'''||[[Johan Goosen]] || || {{subon|68}}
+|-
+|WG ||'''23'''||[[Lwazi Mvovo]] || || {{subon|68}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|RSA}} [[Heyneke Meyer]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||{{flagicon|AUS}} [[James O'Connor (rugby union)|James O'Connor]]
+|-
+|RW ||'''14'''||{{flagicon|AUS}} [[Drew Mitchell]] || || {{suboff|61}}
+|-
+|OC ||'''13'''||{{flagicon|NZL}} [[Rene Ranger]]
+|-
+|IC ||'''12'''||{{flagicon|RSA}} [[Wynand Olivier]]
+|-
+|LW ||'''11'''||{{flagicon|NZL}} [[Hosea Gear]]
+|-
+|FH ||'''10'''||{{flagicon|AUS}} [[Matt Giteau]] ([[Captain (sports)|c]]) || || {{suboff|58}}
+|-
+|SH ||'''9''' ||{{flagicon|RSA}} [[Rory Kockott]] || || {{suboff|64}}
+|-
+|N8 ||'''8''' ||{{flagicon|IRE|rugby union}} [[Roger Wilson (rugby union)|Roger Wilson]]
+|-
+|OF ||'''7''' ||{{flagicon|ENG}} [[Steffon Armitage]] || || {{suboff|61}}
+|-
+|BF ||'''6''' ||{{flagicon|GEO}} [[Mamuka Gorgodze]] || {{sin bin|47|57}}
+|-
+|RL ||'''5''' ||{{flagicon|RSA}} [[Alistair Hargreaves]]
+|-
+|LL ||'''4''' ||{{flagicon|RSA}} [[Juandré Kruger]] || || {{suboff|40}}
+|-
+|TP ||'''3''' ||{{flagicon|NZL}} [[Carl Hayman]] || || {{suboff|57}}
+|-
+|HK ||'''2''' ||{{flagicon|RSA}} [[Craig Burden]] || || {{suboff|47}}
+|-
+|LP ||'''1''' ||{{flagicon|TON}} [[Sona Taumalolo]] || || {{suboff|54}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||{{flagicon|NZL}} [[Andrew Hore]] || || {{subon|47}}
+|-
+|PR ||'''17'''||{{flagicon|RSA}} [[Schalk Ferreira]] || || {{subon|54}}
+|-
+|PR ||'''18'''||{{flagicon|RSA}} [[Pat Cilliers]] || || {{subon|54}}
+|-
+|LK ||'''19'''||{{flagicon|SAM}} [[Joe Tekori]] || || {{subon|40}}
+|-
+|FL ||'''20'''||{{flagicon|FRA}} [[Alexandre Lapandry]] || || {{subon|61}}
+|-
+|SH ||'''21'''||{{flagicon|NZL}} [[Jimmy Cowan]] || {{sin bin|73|80}} || {{subon|64}}
+|-
+|FH ||'''22'''||{{flagicon|FRA}} [[François Trinh-Duc]] || || {{subon|58}}
+|-
+|CE ||'''23'''||{{flagicon|NZL}} [[Benson Stanley]] || || {{subon|61}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|RSA}} [[Nick Mallett]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Bakkies Botha]] (South Africa)
+
+'''Touch judges:'''
+<br />[[Lourens van der Merwe]] ([[South African Rugby Union|South Africa]])
+<br />[[Quinton Immelman]] ([[South African Rugby Union|South Africa]])
+<br />'''Television match official:'''
+<br />[[Deon van Blommestein]] ([[South African Rugby Union|South Africa]])
+|}
+|}
+----
+{{Rugbybox
+|date = 7 June 2014
+|time = 15:40 [[Time in Argentina|ART]] ([[UTC-03]])
+|home = {{Ru-rt|ARG}}
+|score = 17–29
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/228879.html|title=Sexton injury mars Ireland win|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|IRE}}
+|try1 = [[Manuel Montero|Montero]] 30' c<br />[[Tomás de la Vega|De la Vega]] 78' c
+|con1 = [[Nicolás Sánchez (rugby union)|Sánchez]] (1/1) 31'<br />[[Santiago González Iglesias|González Iglesias]] (1/1) 79'
+|pen1 = [[Nicolás Sánchez (rugby union)|Sánchez]] (1/2) 26'
+|try2 = [[Chris Henry (rugby union)|Henry]] 34' m<br />[[Jonathan Sexton|Sexton]] 42' m<br />[[Andrew Trimble|Trimble]] 57' c
+|con2 = [[Jonathan Sexton|Sexton]] (1/3) 58'
+|pen2 = [[Jonathan Sexton|Sexton]] (2/2) 9', 18'<br />[[Ian Madigan|Madigan]] (2/2) 67', 70'
+|stadium = [[Estadio Centenario (Resistencia)|Estadio Centenario]], [[Resistencia, Chaco|Resistencia]] <ref name=ARG>{{cite web|url=http://uar.com.ar/noticias/noticias.asp?idinfo=2864|title=Venta de entradas para la ventana de junio|publisher=uar.com.ar|date=14 May 2014|accessdate=14 May 2014|archive-url=https://web.archive.org/web/20140514235529/http://uar.com.ar/noticias/noticias.asp?idinfo=2864|archive-date=2014-05-14|url-status=dead}}</ref>
+|attendance = 21,000
+|referee = [[Glen Jackson (rugby union)|Glen Jackson]] ([[New Zealand Rugby Union|New Zealand]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Joaquín Tuculet]] || || || {{suboff|73}}
+|-
+|RW ||'''14'''||[[Santiago Cordero]] || || {{suboff|64}} || {{subon|73}}
+|-
+|OC ||'''13'''||[[Jerónimo de la Fuente]]
+|-
+|IC ||'''12'''||[[Gabriel Ascárate]]
+|-
+|LW ||'''11'''||[[Manuel Montero]]
+|-
+|FH ||'''10'''||[[Nicolás Sánchez (rugby union)|Nicolás Sánchez]] || || {{suboff|69}}
+|-
+|SH ||'''9''' ||[[Martín Landajo]] ([[Captain (sports)|c]]) || || {{suboff|63}}
+|-
+|N8 ||'''8''' ||[[Benjamín Macome]] || {{sin bin|28|38}}
+|-
+|OF ||'''7''' ||[[Tomás de la Vega]]
+|-
+|BF ||'''6''' ||[[Rodrigo Baez (rugby union)|Rodrigo Baez]] || || {{suboff|63}}
+|-
+|RL ||'''5''' ||[[Tomás Lavanini]]
+|-
+|LL ||'''4''' ||[[Manuel Carizza]] || || {{suboff|40}}
+|-
+|TP ||'''3''' ||[[Ramiro Herrera]] || || {{suboff|56}}
+|-
+|HK ||'''2''' ||[[Matías Cortese]] || || {{suboff|58}}
+|-
+|LP ||'''1''' ||[[Lucas Noguera Paz]] || || {{suboff|75}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Julián Montoya]] || || {{subon|58}}
+|-
+|PR ||'''17'''||[[Bruno Postiglioni]] || || {{subon|75}}
+|-
+|PR ||'''18'''||[[Tetaz Chaparro]] || || {{subon|56}}
+|-
+|LK ||'''19'''||[[Matías Alemano]] || || {{subon|40}}
+|-
+|FL ||'''20'''||[[Javier Ortega Desio]] || || {{subon|63}}
+|-
+|SH ||'''21'''||[[Tomás Cubelli]] || || {{subon|63}}
+|-
+|FH ||'''22'''||[[Santiago González Iglesias]] || || {{subon|69}}
+|-
+|FB ||'''23'''||[[Lucas González Amorosino]] || || {{subon|64}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Daniel Hourcade]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Felix Jones (rugby union)|Felix Jones]]
+|-
+|RW ||'''14'''||[[Andrew Trimble]]
+|-
+|OC ||'''13'''||[[Darren Cave]]
+|-
+|IC ||'''12'''||[[Luke Marshall]] || || {{suboff|56}}
+|-
+|LW ||'''11'''||[[Simon Zebo]]
+|-
+|FH ||'''10'''||[[Jonathan Sexton]] || || {{suboff|63}}
+|-
+|SH ||'''9''' ||[[Conor Murray]] || || {{suboff|58}}
+|-
+|N8 ||'''8''' ||[[Jordi Murphy]] || || {{suboff|58}}
+|-
+|OF ||'''7''' ||[[Chris Henry (rugby union)|Chris Henry]]
+|-
+|BF ||'''6''' ||[[Robbie Diack]]
+|-
+|RL ||'''5''' ||[[Paul O'Connell]] ([[Captain (sports)|c]]) || || {{suboff|67}}
+|-
+|LL ||'''4''' ||[[Iain Henderson]]
+|-
+|TP ||'''3''' ||[[Mike Ross (rugby union)|Mike Ross]] || || {{suboff|67}}
+|-
+|HK ||'''2''' ||[[Rory Best]] || || {{suboff|67}}
+|-
+|LP ||'''1''' ||[[Jack McGrath (rugby union)|Jack McGrath]] || || {{suboff|60}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Damien Varley]] || || {{subon|67}}
+|-
+|PR ||'''17'''||[[Dave Kilcoyne]] || || {{subon|60}}
+|-
+|PR ||'''18'''||[[Rodney Ah You]] || || {{subon|67}}
+|-
+|LK ||'''19'''||[[Devin Toner]] || || {{subon|67}}
+|-
+|N8 ||'''20'''||[[Jamie Heaslip]] || || {{subon|58}}
+|-
+|SH ||'''21'''||[[Kieran Marmion]] || || {{subon|58}}
+|-
+|FH ||'''22'''||[[Ian Madigan]] || || {{subon|63}}
+|-
+|WG ||'''23'''||[[Fergus McFadden]] || || {{subon|56}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Joe Schmidt (rugby union)|Joe Schmidt]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Jonathan Sexton]] (Ireland)
+
+'''Touch judges:'''
+<br />[[Mike Fraser (rugby referee)|Mike Fraser]] ([[New Zealand Rugby Union|New Zealand]])
+<br />[[Jaco van Heerden]] ([[South African Rugby Union|South Africa]])
+<br />'''Television match official:'''
+<br />[[Shaun Veldsman]] ([[South African Rugby Union|South Africa]])
+|}
+|}
+'''Notes:'''
+* [[Ramiro Herrera]] made his international debut for Argentina.
+* [[Rodney Ah You]], [[Robbie Diack]] and [[Kieran Marmion]] made their international debuts for Ireland.
+* [[Paul O'Connell]] played his 100th test match; 93 for Ireland and 7 for the [[British and Irish Lions]].
+* This was Ireland's first victory over Argentina, when playing on Argentine soil, in a fully test capped match.
+----
+{{Rugbybox
+|date = 7 June 2014
+|time = 19:30 [[Central Time Zone (North America)|CDT]] ([[UTC-05]])
+|home = {{Ru-rt|USA}}
+|score = 6–24
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/228909.html|title=Sloppy Scotland prevail in Houston heat|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|SCO}}
+|pen1 = [[Chris Wyles|Wyles]] (2/3) 11', 51'
+|try2 = [[Tim Visser|Visser]] 15' c<br />[[Try (rugby)|Penalty try]] 30' c<br />[[Stuart Hogg (rugby player)|Hogg]] 66' c
+|con2 = [[Greig Laidlaw|Laidlaw]] (3/3) 16', 31', 67'
+|pen2 = [[Greig Laidlaw|Laidlaw]] (1/2) 6'
+|stadium = [[BBVA Compass Stadium]], [[Houston]] <ref name=SCO>{{cite web|url=http://www.espn.co.uk/scotland/rugby/story/209451.html|title=Scotland confirm 2014 Test schedule|publisher=www.ESPN.com|date=20 December 2013|accessdate=20 December 2013}}</ref>
+|attendance = 20,001
+|referee = [[Pascal Gaüzère]] ([[French Rugby Federation|France]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Chris Wyles]]
+|-
+|RW ||'''14'''||[[Blaine Scully]]
+|-
+|OC ||'''13'''||[[Seamus Kelly (rugby)|Seamus Kelly]]
+|-
+|IC ||'''12'''||[[Andrew Suniula]] || || {{suboff|19}}
+|-
+|LW ||'''11'''||[[Luke Hume]]
+|-
+|FH ||'''10'''||[[Shalom Suniula]]
+|-
+|SH ||'''9''' ||[[Mike Petri]] || || {{suboff|70}}
+|-
+|N8 ||'''8''' ||[[Cam Dolan]]
+|-
+|OF ||'''7''' ||[[Scott LaValla]]
+|-
+|BF ||'''6''' ||[[Todd Clever]] ([[Captain (sports)|c]]) || ||colspan=2| {{blood bin|77|79}}
+|-
+|RL ||'''5''' ||[[Hayden Smith]] || || {{suboff|29}} || {{subon|39}} || {{suboff|53}}
+|-
+|LL ||'''4''' ||[[Louis Stanfill]] || || {{suboff|63}}
+|-
+|TP ||'''3''' ||[[Eric Fry]] || || || || {{suboff|40}}
+|-
+|HK ||'''2''' ||[[Phil Thiel]] || || {{suboff|18}}
+|-
+|LP ||'''1''' ||[[Olive Kilifi]] || {{sin bin|29|39}} || {{suboff|52}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Tom Coolican]] || || {{subon|18}}
+|-
+|PR ||'''17'''||[[Nicholas Wallace]] || || {{subon|29}} || {{suboff|39}} || {{subon|40}}
+|-
+|PR ||'''18'''||[[Titi Lamositele]] || || {{subon|52}}
+|-
+|LK ||'''19'''||[[Tai Tuisamoa]] || || {{subon|63}}
+|-
+|FL ||'''20'''||[[Danny Barrett (rugby)|Danny Barrett]] || || || || {{subon|53}}
+|-
+|CE ||'''21'''||[[Folau Niua]] || || {{subon|19}}
+|-
+|CE ||'''22'''||[[Chad London]] || || {{subon|77}} || {{suboff|79}}
+|-
+|WG ||'''23'''||[[Tim Maupin]] || || {{subon|70}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|USA}} [[Mike Tolkin]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Stuart Hogg (rugby player)|Stuart Hogg]] || || {{suboff|74}}
+|-
+|RW ||'''14'''||[[Sean Maitland]]
+|-
+|OC ||'''13'''||[[Sean Lamont]]
+|-
+|IC ||'''12'''||[[Duncan Taylor (rugby union)|Duncan Taylor]] || || {{suboff|62}}
+|-
+|LW ||'''11'''||[[Tim Visser]]
+|-
+|FH ||'''10'''||[[Finn Russell]]
+|-
+|SH ||'''9''' ||[[Greig Laidlaw]] ([[Captain (sports)|c]])
+|-
+|N8 ||'''8''' ||[[Johnnie Beattie]]
+|-
+|OF ||'''7''' ||[[Blair Cowan (rugby union)|Blair Cowan]]
+|-
+|BF ||'''6''' ||[[Alasdair Strokosch]] || || {{suboff|62}}
+|-
+|RL ||'''5''' ||[[Jim Hamilton (rugby union)|Jim Hamilton]] || || {{suboff|37}}
+|-
+|LL ||'''4''' ||[[Richie Gray (rugby union, born 1989)|Richie Gray]]
+|-
+|TP ||'''3''' ||[[Geoff Cross]] || || {{suboff|44}}
+|-
+|HK ||'''2''' ||[[Scott Lawson]] || || {{suboff|62}}
+|-
+|LP ||'''1''' ||[[Gordon Reid (rugby union)|Gordon Reid]] || || {{suboff|55}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Pat MacArthur]] || || {{subon|62}}
+|-
+|PR ||'''17'''||[[Alex Allan (rugby union)|Alex Allan]] || || {{subon|55}}
+|-
+|PR ||'''18'''||[[Moray Low]] || || {{subon|44}}
+|-
+|LK ||'''19'''||[[Grant Gilchrist]] || || {{subon|37}}
+|-
+|FL ||'''20'''||[[Kieran Low]] || || {{subon|62}}
+|-
+|SH ||'''21'''||[[Grayson Hart]]
+|-
+|FH ||'''22'''||[[Ruaridh Jackson]] || || {{subon|74}}
+|-
+|CE ||'''23'''||[[Max Evans (rugby union)|Max Evans]] || || {{subon|62}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Vern Cotter]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Stuart Hogg (rugby player)|Stuart Hogg]] (Scotland)
+
+'''Touch judges:'''
+<br />[[Francisco Pastrana]] ([[Argentine Rugby Union|Argentina]])
+<br />[[Chris Assmus]] ([[Rugby Canada|Canada]])
+<br />'''Television match official:'''
+<br />[[Andrew Hosie (rugby union)|Andrew Hosie]] ([[Rugby Canada|Canada]])
+|}
+|}
+'''Notes:'''
+* [[Danny Barrett (rugby)|Danny Barrett]] made his international debut for the United States.
+* [[Alex Allan (rugby union)|Alex Allan]], [[Blair Cowan (rugby union)|Blair Cowan]], [[Gordon Reid (rugby union)|Gordon Reid]] and [[Finn Russell]] made their international debuts for Scotland.
+
+===14 June===
+{{Rugbybox
+|date = 14 June 2014
+|time = 14:00 [[Samoa Time Zone|WST]] ([[UTC+13]])
+|home = {{Ru-rt|SAM}}
+|score = 15–0
+|report = Report<ref>[https://archive.today/20140621094459/http://www.federugby.it/index.php?option=com_content&view=article&id=6988:la-mischia-samoana-domina-gli-azzurri-ad-apia-finisce-15-0&catid=252:slide&Itemid=811&lang=it]</ref><br />''(In Italian)''
+|away = {{Ru|ITA}}
+|pen1 = [[Tusi Pisi|T. Pisi]] (5/7) 10', 24', 30', 47', 69'
+|stadium = [[Apia Park]], [[Apia]] <ref name=ITA/>
+|attendance = 7,000
+|referee = [[George Clancy (rugby union)|George Clancy]] ([[Irish Rugby Football Union|Ireland]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Fa'atoina Autagavaia]]
+|-
+|RW ||'''14'''||[[Tua Otto]] || || {{suboff|71}}
+|-
+|OC ||'''13'''||[[George Pisi]]
+|-
+|IC ||'''12'''||[[Alapati Leiua]]
+|-
+|LW ||'''11'''||[[David Lemi]] ([[Captain (sports)|c]])
+|-
+|FH ||'''10'''||[[Tusi Pisi]]
+|-
+|SH ||'''9''' ||[[Kahn Fotuali'i]] || || {{suboff|71}}
+|-
+|N8 ||'''8''' ||[[Kane Thompson]] || || {{suboff|55}}
+|-
+|OF ||'''7''' ||[[Jack Lam]]
+|-
+|BF ||'''6''' ||[[Ofisa Treviranus]]
+|-
+|RL ||'''5''' ||[[Daniel Leo]]
+|-
+|LL ||'''4''' ||[[Fa'atiga Lemalu]] || || {{suboff|63}}
+|-
+|TP ||'''3''' ||[[James Johnston (rugby union)|James Johnston]] || || {{suboff|55}}
+|-
+|HK ||'''2''' ||[[Ti’i Paulo]] || || {{suboff|55}}
+|-
+|LP ||'''1''' ||[[Logovi'i Mulipola]] || || {{suboff|71}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Ole Avei]] || || {{subon|55}}
+|-
+|PR ||'''17'''||[[Sakaria Taulafo]] || || {{subon|71}}
+|-
+|PR ||'''18'''||[[Census Johnston]] || || {{subon|55}}
+|-
+|FL ||'''19'''||[[Maurie Fa'asavalu]] || || {{subon|55}}
+|-
+|LK ||'''20'''||[[Piula Fa'asalele]] || || {{subon|63}}
+|-
+|FH ||'''21'''||[[Patrick Fa'apale]]
+|-
+|SH ||'''22'''||[[Vavao Afemai]] || || {{subon|71}}
+|-
+|CE ||'''23'''||[[Johnny Leota]] || || {{subon|71}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|SAM}} [[Stephen Betham]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Luke McLean]]
+|-
+|RW ||'''14'''||[[Angelo Esposito (rugby union)|Angelo Esposito]]
+|-
+|OC ||'''13'''||[[Andrea Masi]]
+|-
+|IC ||'''12'''||[[Gonzalo Garcia (rugby player)|Gonzalo Garcia]] || || {{suboff|77}}
+|-
+|LW ||'''11'''||[[Giovanbattista Venditti]]
+|-
+|FH ||'''10'''||[[Tommaso Allan]] || || {{suboff|68}}
+|-
+|SH ||'''9''' ||[[Tito Tebaldi]] || || {{suboff|72}}
+|-
+|N8 ||'''8''' ||[[Robert Barbieri]] || || {{suboff|68}}
+|-
+|OF ||'''7''' ||[[Mauro Bergamasco]]
+|-
+|BF ||'''6''' ||[[Joshua Furno]]
+|-
+|RL ||'''5''' ||[[George Biagi]] || || {{suboff|71}}
+|-
+|LL ||'''4''' ||[[Quintin Geldenhuys]] ([[Captain (sports)|c]])
+|-
+|TP ||'''3''' ||[[Lorenzo Cittadini]] || || {{suboff|53}}
+|-
+|HK ||'''2''' ||[[Leonardo Ghiraldini]] || || {{suboff|61}}
+|-
+|LP ||'''1''' ||[[Alberto De Marchi]] || || {{suboff|53}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Andrea Manici]] || || {{subon|61}}
+|-
+|PR ||'''17'''||[[Matías Agüero]] || || {{subon|53}}
+|-
+|PR ||'''18'''||[[Dario Chistolini]] || || {{subon|53}}
+|-
+|LK ||'''19'''||[[Marco Bortolami]] || || {{subon|71}}
+|-
+|N8 ||'''20'''||[[Manoa Vosawai]] || || {{subon|68}}
+|-
+|SH ||'''21'''||[[Guglielmo Palazzani]] || || {{subon|72}}
+|-
+|FH ||'''22'''||[[Luciano Orquera]] || || {{subon|68}}
+|-
+|WG ||'''23'''||[[Tommaso Iannone]] || || {{subon|77}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|FRA}} [[Jacques Brunel (rugby player)|Jacques Brunel]]
+|}
+|}
+{| style="width:100%"
+|
+<!--'''Man of the Match:'''
+<br />
+-->
+'''Touch judges:'''
+<br />[[Andrew Lees (rugby referee)|Andrew Lees]] ([[Australian Rugby Union|Australia]])
+<br />[[James Leckie]] ([[Australian Rugby Union|Australia]])
+|}
+|}
+'''Notes:'''
+* [[Dario Chistolini]] made his international debut for Italy.
+* [[Marco Bortolami]] surpassed [[Martin Castrogiovanni]] and [[Sergio Parisse]], to become Italy's most capped player with 106 caps.
+----
+{{Rugbybox
+|date = 14 June 2014
+|time = 19:35 [[Time in New Zealand|NZST]] ([[UTC+12]])
+|home = {{Ru-rt|NZL}}
+|score = 28–27
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/newzealand/rugby/story/229635.html|title=All Blacks fight back to beat England|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|ENG}}
+|try1 = [[Ben Smith (rugby union)|B. Smith]] 43' c<br />[[Julian Savea|Savea]] 49' m<br />[[Ma'a Nonu|Nonu]] 63' c
+|con1 = [[Aaron Cruden|Cruden]] (1/2) 44'<br />[[Beauden Barrett|Barrett]] (1/1) 65'
+|pen1 = [[Aaron Cruden|Cruden]] (2/3) 11', 40'<br />[[Beauden Barrett|Barrett]] (1/2) 59'
+|try2 = [[Marland Yarde|Yarde]] 7' c<br />[[Mike Brown (rugby union)|Brown]] 71' c<br />[[Chris Ashton|Ashton]] 80' c
+|con2 = [[Owen Farrell|Farrell]] (3/3) 8', 71', 80'
+|pen2 = [[Owen Farrell|Farrell]] (2/3) 2', 47'
+|stadium = [[Forsyth Barr Stadium]], [[Dunedin]] <ref name=NZL/>
+|attendance = 28,470 
+|referee = [[Jaco Peyper]] ([[South African Rugby Union|South Africa]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Ben Smith (rugby union)|Ben Smith]]
+|-
+|RW ||'''14'''||[[Cory Jane]]
+|-
+|OC ||'''13'''||[[Conrad Smith]]
+|-
+|IC ||'''12'''||[[Ma'a Nonu]]
+|-
+|LW ||'''11'''||[[Julian Savea]]
+|-
+|FH ||'''10'''||[[Aaron Cruden]] || || {{suboff|50}}
+|-
+|SH ||'''9''' ||[[Aaron Smith (rugby union)|Aaron Smith]] || || {{suboff|76}}
+|-
+|N8 ||'''8''' ||[[Jerome Kaino]]
+|-
+|OF ||'''7''' ||[[Richie McCaw]] ([[Captain (sports)|c]])
+|-
+|BF ||'''6''' ||[[Liam Messam]] || || {{suboff|65}}
+|-
+|RL ||'''5''' ||[[Sam Whitelock]]
+|-
+|LL ||'''4''' ||[[Brodie Retallick]] || || {{suboff|76}}
+|-
+|TP ||'''3''' ||[[Owen Franks]] || || {{suboff|65}}
+|-
+|HK ||'''2''' ||[[Dane Coles]] || || {{suboff|59}}
+|-
+|LP ||'''1''' ||[[Tony Woodcock (rugby player)|Tony Woodcock]] || || {{suboff|65}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Keven Mealamu]] || || {{subon|59}}
+|-
+|PR ||'''17'''||[[Wyatt Crockett]] || || {{subon|65}}
+|-
+|PR ||'''18'''||[[Charlie Faumuina]] || || {{subon|65}}
+|-
+|LK ||'''19'''||[[Patrick Tuipulotu]] || || {{subon|76}}
+|-
+|FL ||'''20'''||[[Victor Vito (rugby union)|Victor Vito]] || || {{subon|65}}
+|-
+|SH ||'''21'''||[[TJ Perenara]] || || {{subon|76}}
+|-
+|FH ||'''22'''||[[Beauden Barrett]] || || {{subon|50}}
+|-
+|CE ||'''23'''||[[Malakai Fekitoa]]
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Steve Hansen]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Mike Brown (rugby union)|Mike Brown]]
+|-
+|RW ||'''14'''||[[Manu Tuilagi]]
+|-
+|OC ||'''13'''||[[Luther Burrell]] || || {{suboff|74}}
+|-
+|IC ||'''12'''||[[Billy Twelvetrees]]
+|-
+|LW ||'''11'''||[[Marland Yarde]]
+|-
+|FH ||'''10'''||[[Owen Farrell]] || {{sin bin|58|68}}
+|-
+|SH ||'''9''' ||[[Danny Care]] || || {{suboff|71}}
+|-
+|N8 ||'''8''' ||[[Ben Morgan]]
+|-
+|OF ||'''7''' ||[[Chris Robshaw]] ([[Captain (sports)|c]])
+|-
+|BF ||'''6''' ||[[Tom Wood (rugby union)|Tom Wood]] || || {{suboff|56}}
+|-
+|RL ||'''5''' ||[[Geoff Parling]]
+|-
+|LL ||'''4''' ||[[Joe Launchbury]] || || {{suboff|56}}
+|-
+|TP ||'''3''' ||[[David Wilson (English rugby union prop)|David Wilson]] || || {{suboff|76}}
+|-
+|HK ||'''2''' ||[[Rob Webber]] || || {{suboff|47}}
+|-
+|LP ||'''1''' ||[[Joe Marler]] || || {{suboff|71}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Dylan Hartley]] || || {{subon|47}}
+|-
+|PR ||'''17'''||[[Matt Mullan]] || || {{subon|71}}
+|-
+|PR ||'''18'''||[[Kieran Brookes]] || || {{subon|76}}
+|-
+|LK ||'''19'''||[[Courtney Lawes]] || || {{subon|56}}
+|-
+|N8 ||'''20'''||[[Billy Vunipola]] || || {{subon|56}}
+|-
+|SH ||'''21'''||[[Ben Youngs]] || || {{subon|71}}
+|-
+|FH ||'''22'''||[[Freddie Burns]]
+|-
+|WG ||'''23'''||[[Chris Ashton]] || || {{subon|74}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Stuart Lancaster (rugby union)|Stuart Lancaster]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Ben Smith (rugby union)|Ben Smith]] (New Zealand)
+
+'''Touch judges:'''
+<br />[[Nigel Owens]] ([[Welsh Rugby Union|Wales]])
+<br />[[Jérôme Garcès]] ([[French Rugby Federation|France]])
+<br />'''Television match official:'''
+<br />[[George Ayoub]] ([[Australian Rugby Union|Australia]])
+|}
+|}
+'''Notes:'''
+* [[Jerome Kaino]] earned his 50th test cap for New Zealand.
+* [[Patrick Tuipulotu]] made his international debut for New Zealand.
+* [[Kieran Brookes]] made his international debut for England.
+* New Zealand retain the [[Hillary Shield]], the fifth time they have held the trophy.
+----
+{{Rugbybox
+|date = 14 June 2014
+|time = 20:00 [[Time in Australia|AEST]] ([[UTC+10]])
+|home = {{Ru-rt|AUS}}
+|score = 6–0
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/229567.html|title=Wallabies grind to victory|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|FRA}}
+|pen1 = [[Nic White|White]] (1/4) 64'<br />[[Bernard Foley|Foley]] (1/1) 52'
+|stadium = [[Docklands Stadium|Etihad Stadium]], [[Melbourne]] <ref name=AUS/>
+|attendance = 27,189
+|referee = [[Wayne Barnes]] ([[Rugby Football Union|England]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Israel Folau]]
+|-
+|RW ||'''14'''||[[Adam Ashley-Cooper]]
+|-
+|OC ||'''13'''||[[Tevita Kuridrani]] || || {{suboff|59}}
+|-
+|IC ||'''12'''||[[Matt Toomua]]
+|-
+|LW ||'''11'''||[[Nick Cummins]]
+|-
+|FH ||'''10'''||[[Bernard Foley]] || || {{suboff|60}}
+|-
+|SH ||'''9''' ||[[Nic White]] || || {{suboff|78}}
+|-
+|N8 ||'''8''' ||[[Ben McCalman]]
+|-
+|OF ||'''7''' ||[[Michael Hooper (rugby union)|Michael Hooper]] ([[Captain (sports)|c]])
+|-
+|BF ||'''6''' ||[[Scott Fardy]] || || {{suboff|66}}
+|-
+|RL ||'''5''' ||[[James Horwill]] || || {{suboff|59}}
+|-
+|LL ||'''4''' ||[[Rob Simmons (rugby union)|Rob Simmons]]
+|-
+|TP ||'''3''' ||[[Sekope Kepu]] || || {{suboff|74}}
+|-
+|HK ||'''2''' ||[[Tatafu Polota-Nau]] || || {{suboff|74}}
+|-
+|LP ||'''1''' ||[[James Slipper]] || || {{suboff|71}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Nathan Charles]] || || {{subon|74}}
+|-
+|PR ||'''17'''||[[Pekahou Cowan]] || || {{subon|71}}
+|-
+|PR ||'''18'''||[[Laurie Weeks (rugby)|Laurie Weeks]] || || {{subon|74}}
+|-
+|LK ||'''19'''||[[Luke Jones (rugby union)|Luke Jones]] || || {{subon|59}}
+|-
+|N8 ||'''20'''||[[Scott Higginbotham]] || || {{subon|66}}
+|-
+|SH ||'''21'''||[[Nick Phipps (rugby union)|Nick Phipps]] || || {{subon|78}}
+|-
+|FH ||'''22'''||[[Kurtley Beale]] || || {{subon|60}}
+|-
+|CE ||'''23'''||[[Pat McCabe (rugby union)|Pat McCabe]] || || {{subon|59}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|AUS}} [[Ewen McKenzie]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Brice Dulin]]
+|-
+|RW ||'''14'''||[[Yoann Huget]]
+|-
+|OC ||'''13'''||[[Mathieu Bastareaud]]
+|-
+|IC ||'''12'''||[[Wesley Fofana (rugby union)|Wesley Fofana]]
+|-
+|LW ||'''11'''||[[Maxime Médard]] || || {{suboff|76}}
+|-
+|FH ||'''10'''||[[Rémi Tales]]
+|-
+|SH ||'''9''' ||[[Morgan Parra]] || || {{suboff|74}}
+|-
+|N8 ||'''8''' ||[[Damien Chouly]]
+|-
+|OF ||'''7''' ||[[Yannick Nyanga]] || || {{suboff|46}}
+|-
+|BF ||'''6''' ||[[Thierry Dusautoir]] ([[Captain (sports)|c]]) || || {{suboff|66}}
+|-
+|RL ||'''5''' ||[[Yoann Maestri]]
+|-
+|LL ||'''4''' ||[[Alexandre Flanquart]] || || {{suboff|65}}
+|-
+|TP ||'''3''' ||[[Rabah Slimani]] || || {{suboff|49}}
+|-
+|HK ||'''2''' ||[[Guilhem Guirado]] || || {{suboff|70}}
+|-
+|LP ||'''1''' ||[[Alexandre Menini]] || || {{suboff|49}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Brice Mach]] || || {{subon|70}}
+|-
+|PR ||'''17'''||[[Thomas Domingo]] || || {{subon|49}}
+|-
+|PR ||'''18'''||[[Nicolas Mas]] || || {{subon|49}}
+|-
+|FL ||'''19'''||[[Bernard Le Roux]] || {{sin bin|68|78}} || {{subon|65}}
+|-
+|N8 ||'''20'''||[[Louis Picamoles]] || || {{subon|66}}
+|-
+|FL ||'''21'''||[[Antoine Burban]] || || {{subon|46}}
+|-
+|FH ||'''22'''||[[Frédéric Michalak]] || || {{subon|74}}
+|-
+|CE ||'''23'''||[[Rémi Lamerat]] || || {{subon|76}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|FRA}} [[Philippe Saint-André]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Nic White]] (Australia)
+
+'''Touch judges:'''
+<br />[[Craig Joubert]] ([[South African Rugby Union|South Africa]])
+<br />[[Chris Pollock]] ([[New Zealand Rugby Union|New Zealand]])
+<br />'''Television match official:'''
+<br />[[Ben Skeen]] ([[New Zealand Rugby Union|New Zealand]])
+|}
+|}
+'''Notes:'''
+* [[James Horwill]] earned his 50th test cap for Australia.
+* [[Nathan Charles]], [[Luke Jones (rugby union)|Luke Jones]] and [[Laurie Weeks (rugby)|Laurie Weeks]] made their international debuts for Australia.
+* [[Alexandre Menini]] made his international debut for France.
+* Australia reclaim the [[Trophée des Bicentenaires]] for the first time since 2010, after losing it in 2012.
+* This was the first time France has failed to score any points against Australia, in the 44 meetings between the two teams.
+* Fewest points in an Australian win since their 6–3 win over New Zealand in 1958, and first Australian win without a try since their 21–13 win over Wales in 2001.
+----
+{{Rugbybox
+|date = 14 June 2014
+|time = 17:00 [[South African Standard Time|SAST]] ([[UTC+02]])
+|home = {{Ru-rt|RSA}}
+|score = 38–16
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/229705.html|title=South Africa far too strong for Wales|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|WAL}}
+|try1 = [[Bryan Habana|Habana]] (2) 6' c, 20' c<br />[[Duane Vermeulen|Vermeulen]] 15' c<br />[[Willie le Roux|Le Roux]] 37' c<br />[[Cornal Hendricks|Hendricks]] 51' c
+|con1 = [[Morné Steyn|Steyn]] (5/5) 7', 17', 21', 38', 52'
+|pen1 = [[Morné Steyn|Steyn]] (1/1) 44'
+|try2 = [[Alex Cuthbert|Cuthbert]] 68' c
+|con2 = [[James Hook (rugby union)|Hook]] (1/1) 69'
+|pen2 = [[Dan Biggar|Biggar]] (1/1) 40'
+|drop2 = [[Dan Biggar|Biggar]] (2/2) 2', 19'
+|stadium = [[Kings Park Stadium|Growthpoint Kings Park]], [[Durban]] <ref name="RSA"/>
+|attendance =
+|referee = [[Romain Poite]] ([[French Rugby Federation|France]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Willie le Roux]] || || {{suboff|70}}
+|-
+|RW ||'''14'''||[[Cornal Hendricks]]
+|-
+|OC ||'''13'''||[[JP Pietersen]]
+|-
+|IC ||'''12'''||[[Jan Serfontein]]
+|-
+|LW ||'''11'''||[[Bryan Habana]]
+|-
+|FH ||'''10'''||[[Morné Steyn]] || || {{suboff|70}}
+|-
+|SH ||'''9''' ||[[Fourie du Preez]]
+|-
+|N8 ||'''8''' ||[[Duane Vermeulen]]
+|-
+|OF ||'''7''' ||[[Willem Alberts]] || || {{suboff|58}}
+|-
+|BF ||'''6''' ||[[Francois Louw]]
+|-
+|RL ||'''5''' ||[[Victor Matfield]] ([[Captain (sports)|c]])
+|-
+|LL ||'''4''' ||[[Bakkies Botha]] || || {{suboff|40}}
+|-
+|TP ||'''3''' ||[[Jannie du Plessis]] || || {{suboff|58}}
+|-
+|HK ||'''2''' ||[[Bismarck du Plessis]] || || {{suboff|70}}
+|-
+|LP ||'''1''' ||[[Gurthrö Steenkamp]] || || {{suboff|44}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Schalk Brits]] || || {{subon|70}}
+|-
+|PR ||'''17'''||[[Tendai Mtawarira]] || || {{subon|44}}
+|-
+|PR ||'''18'''||[[Coenie Oosthuizen]] || || {{subon|58}}
+|-
+|LK ||'''19'''||[[Lood de Jager]] || || {{subon|40}}
+|-
+|FL ||'''20'''||[[Schalk Burger]] || || {{subon|58}}
+|-
+|SH ||'''21'''||[[Ruan Pienaar]] || || || {{subon|73}}
+|-
+|FH ||'''22'''||[[Johan Goosen]] || || {{subon|70}} || {{suboff|73}}
+|-
+|WG ||'''23'''||[[Lwazi Mvovo]] || || {{subon|70}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|RSA}} [[Heyneke Meyer]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Liam Williams (rugby player)|Liam Williams]] || || {{suboff|55}}
+|-
+|RW ||'''14'''||[[Alex Cuthbert]]
+|-
+|OC ||'''13'''||[[Jonathan Davies (rugby player born 1988)|Jonathan Davies]]
+|-
+|IC ||'''12'''||[[Jamie Roberts]] || {{sin bin|12|22}}
+|-
+|LW ||'''11'''||[[George North]]
+|-
+|FH ||'''10'''||[[Dan Biggar]] || || {{suboff|64}}
+|-
+|SH ||'''9''' ||[[Mike Phillips (rugby player)|Mike Phillips]] || || {{suboff|55}}
+|-
+|N8 ||'''8''' ||[[Taulupe Faletau]]
+|-
+|OF ||'''7''' ||[[Aaron Shingler]] || || {{suboff|55}}
+|-
+|BF ||'''6''' ||[[Dan Lydiate]]
+|-
+|RL ||'''5''' ||[[Alun Wyn Jones]] ([[Captain (sports)|c]])
+|-
+|LL ||'''4''' ||[[Luke Charteris]] || || {{suboff|55}}
+|-
+|TP ||'''3''' ||[[Adam Rhys Jones|Adam Jones]] || || {{suboff|31}}
+|-
+|HK ||'''2''' ||[[Ken Owens]] || || {{suboff|58}}
+|-
+|LP ||'''1''' ||[[Gethin Jenkins]] || || {{suboff|58}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Matthew Rees]] || || {{subon|58}}
+|-
+|PR ||'''17'''||[[Paul James (rugby union)|Paul James]] || || {{subon|58}}
+|-
+|PR ||'''18'''||[[Samson Lee]] || || {{subon|31}}
+|-
+|LK ||'''19'''||[[Ian Evans (rugby player)|Ian Evans]] || || {{subon|55}}
+|-
+|FL ||'''20'''||[[Josh Turnbull]] || || {{subon|55}}
+|-
+|SH ||'''21'''||[[Gareth Davies (rugby player born 1990)|Gareth Davies]] || || {{subon|55}}
+|-
+|FH ||'''22'''||[[James Hook (rugby union)|James Hook]] || || {{subon|64}}
+|-
+|FB ||'''23'''||[[Matthew Morgan (rugby player)|Matthew Morgan]] || || {{subon|55}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Warren Gatland]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Willie le Roux]] (South Africa)
+
+'''Touch judges:'''
+<br />[[Steve Walsh (rugby referee)|Steve Walsh]] ([[Australian Rugby Union|Australia]])
+<br />[[Marius Mitrea]] ([[Italian Rugby Federation|Italy]])
+<br />'''Television match official:'''
+<br />[[Vinny Munro]] ([[New Zealand Rugby Union|New Zealand]])
+|}
+|}
+'''Notes:'''
+* [[Cornal Hendricks]] and [[Lood de Jager]] made their international debuts for South Africa.
+* [[Victor Matfield]] joined [[John Smit]] as the most capped South African player with 111 caps.
+* [[Gareth Davies (rugby player born 1990)|Gareth Davies]] and [[Matthew Morgan (rugby player)|Matthew Morgan]] made their international debuts for Wales.
+* [[Adam Rhys Jones|Adam Jones]] played his 100th test match; 95 for Wales and 5 for the [[British and Irish Lions]].
+----
+{{Rugbybox
+|date = 14 June 2014
+|time = 14:10 [[Eastern Time Zone (North America)|EDT]] ([[UTC-04]])
+|home = {{Ru-rt|CAN}}
+|score = 17–19
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/229715.html|title=Scotland win but draw few positives|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|SCO}}
+|try1 = [[Jeff Hassler|Hassler]] 22' m
+|con1 = [[James Pritchard (rugby)|Pritchard]] (0/1)
+|pen1 = [[James Pritchard (rugby)|Pritchard]] (4/5) 20', 43', 51', 70'
+|try2 = [[Grant Gilchrist|Gilchrist]] 27' c
+|con2 = [[Greig Laidlaw|Laidlaw]] (1/1) 28'
+|pen2 = [[Greig Laidlaw|Laidlaw]] (3/3) 2', 38', 71'<br />[[Stuart Hogg (rugby player)|Hogg]] (1/1) 60'
+|stadium = [[BMO Field]], [[Toronto]] <ref name=SCO/><ref name=CAN>{{cite web|url=http://www.rugbycanada.ca/leagues/newsletter.cfm?clientID=3817&leagueID=0&page=74670|title=CANADA TO FACE SCOTLAND IN 2014|publisher=www.rugbycanada.ca|date=3 November 2013|accessdate=5 November 2013}}{{Dead link|date=December 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|attendance = 18,788
+|referee = [[Mike Fraser (rugby referee)|Mike Fraser]] ([[New Zealand Rugby Union|New Zealand]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[James Pritchard (rugby)|James Pritchard]]
+|-
+|RW ||'''14'''||[[Jeff Hassler]] || || {{suboff|43}}
+|-
+|OC ||'''13'''||[[Ciaran Hearn]]
+|-
+|IC ||'''12'''||[[Nick Blevins]] || || {{suboff|63}}
+|-
+|LW ||'''11'''||[[Taylor Paris]]
+|-
+|FH ||'''10'''||[[Harry Jones (rugby union)|Harry Jones]]
+|-
+|SH ||'''9''' ||[[Phil Mack]] || || {{suboff|70}}
+|-
+|N8 ||'''8''' ||[[Tyler Ardron]] ([[Captain (sports)|c]])
+|-
+|OF ||'''7''' ||[[John Moonlight]]
+|-
+|BF ||'''6''' ||[[Jebb Sinclair]] || {{sent off|0|75}}
+|-
+|RL ||'''5''' ||[[Jamie Cudmore]]
+|-
+|LL ||'''4''' ||[[Tyler Hotson]]
+|-
+|TP ||'''3''' ||[[Jason Marshall (rugby union)|Jason Marshall]] || || {{suboff|77}}
+|-
+|HK ||'''2''' ||[[Aaron Carpenter (rugby player)|Aaron Carpenter]] || || {{suboff|58}}
+|-
+|LP ||'''1''' ||[[Hubert Buydens]] || || {{suboff|54}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Ray Barkwill]] || || {{subon|58}}
+|-
+|PR ||'''17'''||[[Andrew Tiedemann]] || || {{subon|54}}
+|-
+|PR ||'''18'''||[[Jake Illnicki]] || || {{subon|77}}
+|-
+|FL ||'''19'''||[[Kyle Gilmour]]
+|-
+|LK ||'''20'''||[[Jon Phelan]]
+|-
+|SH ||'''21'''||[[Gordon McRorie]] || || {{subon|70}}
+|-
+|FB ||'''22'''||[[Connor Braid]] || || {{subon|63}}
+|-
+|WG ||'''23'''||[[D. T. H. van der Merwe]] || || {{subon|43}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Kieran Crowley]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Stuart Hogg (rugby player)|Stuart Hogg]]
+|-
+|RW ||'''14'''||[[Sean Maitland]]
+|-
+|OC ||'''13'''||[[Sean Lamont]]
+|-
+|IC ||'''12'''||[[Peter Horne]]
+|-
+|LW ||'''11'''||[[Tim Visser]] || || {{suboff|73}}
+|-
+|FH ||'''10'''||[[Finn Russell]] || || {{suboff|61}}
+|-
+|SH ||'''9''' ||[[Greig Laidlaw]] ([[Captain (sports)|c]])
+|-
+|N8 ||'''8''' ||[[Johnnie Beattie]] || || {{suboff|59}}
+|-
+|OF ||'''7''' ||[[Kelly Brown]] || || {{suboff|47}}
+|-
+|BF ||'''6''' ||[[Alasdair Strokosch]] || || {{suboff|30}}
+|-
+|RL ||'''5''' ||[[Grant Gilchrist]]
+|-
+|LL ||'''4''' ||[[Richie Gray (rugby union, born 1989)|Richie Gray]]
+|-
+|TP ||'''3''' ||[[Moray Low]] || || {{suboff|51}}
+|-
+|HK ||'''2''' ||[[Scott Lawson]]
+|-
+|LP ||'''1''' ||[[Gordon Reid (rugby union)|Gordon Reid]]
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Kevin Bryce]] || || {{subon|59}}
+|-
+|PR ||'''17'''||[[Kyle Traynor]]
+|-
+|PR ||'''18'''||[[Geoff Cross]] || || {{subon|51}}
+|-
+|FL ||'''19'''||[[Kieran Low]] || || {{subon|47}}
+|-
+|FL ||'''20'''||[[Blair Cowan (rugby union)|Blair Cowan]] || || {{subon|30}}
+|-
+|SH ||'''21'''||[[Grayson Hart]] || || || {{subon|75}}
+|-
+|FH ||'''22'''||[[Ruaridh Jackson]] || || {{subon|61}} || {{suboff|75}}
+|-
+|CE ||'''23'''||[[Max Evans (rugby union)|Max Evans]] || || {{subon|73}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Vern Cotter]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Greig Laidlaw]] (Scotland)
+
+'''Touch judges:'''
+<br />[[Stuart Berry]] ([[South African Rugby Union|South Africa]])
+<br />[[Nick Ricono]] ([[USA Rugby|United States]])
+<br />'''Television match official:'''
+<br />[[Davey Ardrey]] ([[USA Rugby|United States]])
+|}
+|}
+'''Notes:'''
+* [[Kevin Bryce]] and [[Grayson Hart]] made their international debuts for Scotland.
+----
+{{Rugbybox
+|date = 14 June 2014
+|time = 15:40 [[Time in Argentina|ART]] ([[UTC-03]])
+|home = {{Ru-rt|ARG}}
+|score = 17–23
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/229719.html|title=Ireland battle to hard-fought win|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{ru|IRE}}
+|try1 = [[Joaquín Tuculet|Tuculet]] 24' c<br />[[Lucas González Amorosino|González Amorosino]] 79' c
+|con1 = [[Nicolás Sánchez (rugby union)|Sánchez]] (1/1) 25'<br />[[Santiago González Iglesias|González Iglesias]] (1/1) 79'
+|pen1 = [[Nicolás Sánchez (rugby union)|Sánchez]] (1/1) 16'
+|try2 = [[Simon Zebo|Zebo]] 50' c<br />[[Ian Madigan|Madigan]] 72' c
+|con2 = [[Jonathan Sexton|Sexton]] (1/1) 51'<br />[[Ian Madigan|Madigan]] (1/1) 73'
+|pen2 = [[Jonathan Sexton|Sexton]] (3/5) 4', 9', 31'
+|stadium = [[Estadio Monumental José Fierro]], [[San Miguel de Tucumán|Tucumán]] <ref name=ARG/>
+|attendance =
+|referee = [[Pascal Gaüzère]] ([[French Rugby Federation|France]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Joaquín Tuculet]] || ||colspan=2| {{blood bin|55|65}}
+|-
+|RW ||'''14'''||[[Lucas González Amorosino]]
+|-
+|OC ||'''13'''||[[Jerónimo de la Fuente]]
+|-
+|IC ||'''12'''||[[Gabriel Ascárate]] || || {{suboff|60}}
+|-
+|LW ||'''11'''||[[Manuel Montero]]
+|-
+|FH ||'''10'''||[[Nicolás Sánchez (rugby union)|Nicolás Sánchez]] || || || {{suboff|65}}
+|-
+|SH ||'''9''' ||[[Martín Landajo]] ([[Captain (sports)|c]]) || || {{suboff|63}}
+|-
+|N8 ||'''8''' ||[[Antonio Ahualli de Chazal]] || || {{suboff|11}} || {{subon|19}} || {{suboff|63}}
+|-
+|OF ||'''7''' ||[[Tomás de la Vega]]
+|-
+|BF ||'''6''' ||[[Rodrigo Baez (rugby union)|Rodrigo Báez]]
+|-
+|RL ||'''5''' ||[[Tomás Lavanini]] || || {{suboff|69}}
+|-
+|LL ||'''4''' ||[[Manuel Carizza]]
+|-
+|TP ||'''3''' ||[[Ramiro Herrera]] || || {{suboff|51}} || {{subon|68}}
+|-
+|HK ||'''2''' ||[[Matías Cortese]] || {{sin bin|8|18}} || || || {{suboff|26}}
+|-
+|LP ||'''1''' ||[[Lucas Noguera Paz]] || || || {{suboff|68}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Santiago Iglesias (rugby union)|Santiago Iglesias]] || || {{subon|11}} || {{suboff|19}} || {{subon|26}} || {{suboff|63}}
+|-
+|PR ||'''17'''||[[Bruno Postiglioni]] || || || || || {{subon|63}}
+|-
+|PR ||'''18'''||[[Matías Díaz]] || || {{subon|51}}
+|-
+|LK ||'''19'''||[[Matías Alemano]] || || {{subon|69}}
+|-
+|FL ||'''20'''||[[Javier Ortega Desio]] || || || || {{subon|63}}
+|-
+|SH ||'''21'''||[[Tomás Cubelli]] || || {{subon|63}}
+|-
+|FB ||'''22'''||[[Santiago González Iglesias]] || || {{subon|60}}
+|-
+|WG ||'''23'''||[[Matías Orlando]] || || {{subon|55}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Daniel Hourcade]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Rob Kearney]]
+|-
+|RW ||'''14'''||[[Andrew Trimble]] || {{sin bin|15|25}}
+|-
+|OC ||'''13'''||[[Fergus McFadden]]
+|-
+|IC ||'''12'''||[[Darren Cave]] || || {{suboff|73}}
+|-
+|LW ||'''11'''||[[Simon Zebo]]
+|-
+|FH ||'''10'''||[[Jonathan Sexton]] || || {{suboff|64}}
+|-
+|SH ||'''9''' ||[[Eoin Reddan]] || || {{suboff|77}}
+|-
+|N8 ||'''8''' ||[[Jamie Heaslip]]
+|-
+|OF ||'''7''' ||[[Chris Henry (rugby union)|Chris Henry]] || || {{suboff|63}}
+|-
+|BF ||'''6''' ||[[Rhys Ruddock]]
+|-
+|RL ||'''5''' ||[[Paul O'Connell]] ([[Captain (sports)|c]])
+|-
+|LL ||'''4''' ||[[Devin Toner]] || || {{suboff|42}}
+|-
+|TP ||'''3''' ||[[Mike Ross (rugby union)|Mike Ross]] || || {{suboff|73}}
+|-
+|HK ||'''2''' ||[[Rory Best]] || || {{suboff|73}}
+|-
+|LP ||'''1''' ||[[Dave Kilcoyne]] || || {{suboff|57}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Rob Herring (rugby union)|Rob Herring]] || || {{subon|77}}
+|-
+|PR ||'''17'''||[[James Cronin (rugby union)|James Cronin]] || || {{subon|73}}
+|-
+|PR ||'''18'''||[[Jack McGrath (rugby union)|Jack McGrath]] || || {{subon|57}}
+|-
+|LK ||'''19'''||[[Iain Henderson]] || || {{subon|42}}
+|-
+|FL ||'''20'''||[[Jordi Murphy]] || || {{subon|63}}
+|-
+|SH ||'''21'''||[[Kieran Marmion]] || || {{subon|77}}
+|-
+|FH ||'''22'''||[[Ian Madigan]] || || {{subon|64}}
+|-
+|CE ||'''23'''||[[Noel Reid]] || || {{subon|73}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Joe Schmidt (rugby union)|Joe Schmidt]]
+|}
+|}
+{| style="width:100%"
+|
+<!--'''Man of the Match:'''
+<br />
+-->
+'''Touch judges:'''
+<br />[[Glen Jackson (rugby union)|Glen Jackson]] ([[New Zealand Rugby Union|New Zealand]])
+<br />[[John Lacey (rugby union referee)|John Lacey]] ([[Ireland Rugby Football Union|Ireland]])
+<br />'''Television match official:'''
+<br />[[Shaun Veldsman]] ([[South African Rugby Union|South Africa]])
+|}
+|}
+'''Notes:'''
+* [[James Cronin (rugby union)|James Cronin]], [[Rob Herring (rugby union)|Rob Herring]] and [[Noel Reid]] made their international debuts for Ireland.
+* This was Ireland's first test series victory over Argentina, and with it, they retain the [[Admiral Brown Cup]].
+----
+
+===17–22 June===
+{{Rugbybox
+|date = 17 June 2014
+|time = 19:35 [[Time in New Zealand|NZST]] ([[UTC+12]])
+|home = [[Crusaders (rugby union)|Crusaders]] {{flagicon|NZL}}
+|score = 7–38
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/230061.html|title=Six-try England ease to victory|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|ENG}}
+|try1 = [[Matt Todd|Todd]] 21' c
+|con1 = [[Tom Taylor (rugby union)|Taylor]] (1/1) 23'
+|try2 = [[Joe Gray (rugby union)|Gray]] 1' c<br />[[Ben Foden|Foden]] 6' m<br />[[Brad Barritt|Barritt]] 28' c<br />[[Alex Goode|Goode]] 33' c<br />[[Anthony Watson (rugby union)|Watson]] 58' c<br />[[Chris Pennell|Pennell]] 80' m
+|con2 = [[Danny Cipriani|Cipriani]] (3/4) 2', 30', 35'<br />[[Stephen Myler|Myler]] (1/2) 59'
+|stadium = [[Rugby League Park|AMI Stadium]], [[Christchurch]] <ref name=NZL/>
+|attendance = 17,500
+|referee = [[Nigel Owens]] ([[Welsh Rugby Union|Wales]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||{{flagicon|NZL}} [[Tom Taylor (rugby union)|Tom Taylor]]
+|-
+|RW ||'''14'''||{{flagicon|NZL}} [[Johnny McNicholl]]
+|-
+|OC ||'''13'''||{{flagicon|SAM}} [[Rey Lee-Lo]] || || {{suboff|67}}
+|-
+|IC ||'''12'''||{{flagicon|NZL}} [[Kieron Fonotia]] || || {{suboff|50}}
+|-
+|LW ||'''11'''||{{flagicon|NZL}} [[Nafi Tuitavake]]
+|-
+|FH ||'''10'''||{{flagicon|NZL}} [[Tyler Bleyendaal]]
+|-
+|SH ||'''9''' ||{{flagicon|NZL}} [[Willi Heinz]] || || {{suboff|50}}
+|-
+|N8 ||'''8''' ||{{flagicon|NZL}} [[Luke Whitelock]]
+|-
+|OF ||'''7''' ||{{flagicon|NZL}} [[George Whitelock]] ([[Captain (sports)|c]]) || || {{suboff|18}}
+|-
+|BF ||'''6''' ||{{flagicon|NZL}} [[Jordan Taufua]]
+|-
+|RL ||'''5''' ||{{flagicon|NZL}} [[Joel Everson]]
+|-
+|LL ||'''4''' ||{{flagicon|NZL}} [[Jimmy Tupou]] || || {{suboff|30}}
+|-
+|TP ||'''3''' ||{{flagicon|NZL}} [[Nepo Laulala]] || || {{suboff|76}}
+|-
+|HK ||'''2''' ||{{flagicon|NZL}} [[Corey Flynn]] || || {{suboff|56}}
+|-
+|LP ||'''1''' ||{{flagicon|NZL}} [[Tim Perry (rugby union)|Tim Perry]] || || {{suboff|56}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||{{flagicon|NZL}} [[Ben Funnell]] || || {{subon|56}}
+|-
+|PR ||'''17'''||{{flagicon|NZL}} [[Joe Moody]] || || {{subon|56}}
+|-
+|PR ||'''18'''||{{flagicon|TON}} [[Siate Tokolahi]] || || {{subon|76}}
+|-
+|LK ||'''19'''||{{flagicon|NZL}} [[Scott Barrett (rugby union)|Scott Barrett]] || || {{subon|30}}
+|-
+|FL ||'''20'''||{{flagicon|NZL}} [[Matt Todd]] || || {{subon|18}}
+|-
+|SH ||'''21'''||{{flagicon|NZL}} [[Andrew Ellis]] || || {{subon|50}}
+|-
+|CE ||'''22'''||{{flagicon|NZL}} [[Adam Whitelock]] || || {{subon|50}}
+|-
+|WG ||'''23'''||{{flagicon|NZL}} [[Rob Thompson (rugby union)|Rob Thompson]] || || {{subon|67}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Todd Blackadder]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Alex Goode]] || || {{suboff|56}}
+|-
+|RW ||'''14'''||[[Ben Foden]]
+|-
+|OC ||'''13'''||[[Henry Trinder]] || || {{suboff|56}}
+|-
+|IC ||'''12'''||[[Brad Barritt]]
+|-
+|LW ||'''11'''||[[Anthony Watson (rugby union)|Anthony Watson]]
+|-
+|FH ||'''10'''||[[Danny Cipriani]] || || {{suboff|47}}
+|-
+|SH ||'''9''' ||[[Lee Dickson]] || || {{suboff|47}}
+|-
+|N8 ||'''8''' ||[[Tom Johnson (rugby union)|Tom Johnson]]
+|-
+|OF ||'''7''' ||[[Matt Kvesic]]
+|-
+|BF ||'''6''' ||[[James Haskell]]
+|-
+|RL ||'''5''' ||[[Dave Attwood]] || || {{suboff|67}}
+|-
+|LL ||'''4''' ||[[Ed Slater]] ([[Captain (sports)|c]])
+|-
+|TP ||'''3''' ||[[Henry Thomas (rugby union)|Henry Thomas]] || || {{suboff|56}}
+|-
+|HK ||'''2''' ||[[Joe Gray (rugby union)|Joe Gray]] || || {{suboff|59}}
+|-
+|LP ||'''1''' ||[[Alex Waller]] || || {{suboff|56}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Dave Ward (rugby union)|Dave Ward]] || || {{subon|59}}
+|-
+|PR ||'''17'''||[[Nathan Catt]] || || {{subon|56}}
+|-
+|PR ||'''18'''||[[Kyle Sinckler]] || || {{subon|56}}
+|-
+|LK ||'''19'''||[[Michael Paterson]] || || {{subon|67}}
+|-
+|SH ||'''20'''||[[Richard Wigglesworth (rugby union)|Richard Wigglesworth]] || || {{subon|47}}
+|-
+|FH ||'''21'''||[[Stephen Myler]] || || {{subon|47}}
+|-
+|WG ||'''22'''||[[Jonny May]] || || {{subon|56}}
+|-
+|FB ||'''23'''||[[Chris Pennell]] || || {{subon|56}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Stuart Lancaster (rugby union)|Stuart Lancaster]]
+|}
+|}
+{| style="width:100%"
+|
+<!--'''Man of the Match:'''
+<br />
+-->
+'''Touch judges:'''
+<br />[[Andrew Lees (rugby referee)|Andrew Lees]] ([[Australian Rugby Union|Australia]])
+<br />[[James Leckie]] ([[Australian Rugby Union|Australia]])
+<br />'''Television match official:'''
+<br />[[George Ayoub]] ([[Australian Rugby Union|Australia]])
+|}
+|}
+----
+{{Rugbybox
+|date = 20 June 2014
+|time = 16:10 [[Time in Argentina|ART]] ([[UTC-03]])
+|home = {{Ru-rt|ARG}}
+|score = 19–21
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/230457.html|title=Weir stays cool as Scotland again leave it late|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{ru|SCO}}
+|try1 = [[Javier Ortega Desio|Ortega Desio]] 13' m<br />[[Joaquín Tuculet|Tuculet]] 59' m
+|pen1 = [[Nicolás Sánchez (rugby union)|Sánchez]] (2/2) 42', 57'
+|drop1 = [[Nicolás Sánchez (rugby union)|Sánchez]] (1/3) 27'
+|try2 = [[Stuart Hogg (rugby player)|Hogg]] 6' c<br />[[Henry Pyrgos|Pyrgos]] 73' m
+|con2 = [[Duncan Weir|Weir]] (1/2) 7'
+|pen2 = [[Duncan Weir|Weir]] (3/4) 55', 70', 78'
+|stadium = [[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]] <ref name=ARG/>
+|attendance = 22,000
+|referee = [[John Lacey (rugby union referee)|John Lacey]] ([[Irish Rugby Football Union|Ireland]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Lucas González Amorosino]]
+|-
+|RW ||'''14'''||[[Santiago Cordero]] || || {{suboff|57}}
+|-
+|OC ||'''13'''||[[Matías Orlando]] || || {{suboff|61}}
+|-
+|IC ||'''12'''||[[Santiago González Iglesias]]
+|-
+|LW ||'''11'''||[[Manuel Montero]]
+|-
+|FH ||'''10'''||[[Nicolás Sánchez (rugby union)|Nicolás Sánchez]] || || || {{suboff|64}} || {{subon|71}}
+|-
+|SH ||'''9''' ||[[Tomás Cubelli]] ([[Captain (sports)|c]]) || || {{suboff|57}} || {{subon|64}} || {{suboff|71}}
+|-
+|N8 ||'''8''' ||[[Tomás de la Vega]]
+|-
+|OF ||'''7''' ||[[Javier Ortega Desio]] || || {{suboff|56}}
+|-
+|BF ||'''6''' ||[[Rodrigo Baez (rugby union)|Rodrigo Baez]]
+|-
+|RL ||'''5''' ||[[Matías Alemano]] || || {{suboff|55}}
+|-
+|LL ||'''4''' ||[[Manuel Carizza]]
+|-
+|TP ||'''3''' ||[[Matías Díaz]] || || {{suboff|46}}
+|-
+|HK ||'''2''' ||[[Julián Montoya]] || || {{suboff|50}}
+|-
+|LP ||'''1''' ||[[Bruno Postiglioni]] || || {{suboff|57}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Santiago Iglesias (rugby union)|Santiago Iglesias]] || || {{subon|50}}
+|-
+|PR ||'''17'''||[[Lucas Noguera Paz]] || || {{subon|57}}
+|-
+|PR ||'''18'''||[[Tetaz Chaparro]] || || {{subon|46}}
+|-
+|LK ||'''19'''||[[Tomás Lavanini]] || || {{subon|55}}
+|-
+|N8 ||'''20'''||[[Antonio Ahualli de Chazal]] || || {{subon|56}}
+|-
+|SH ||'''21'''||[[Martín Landajo]] || || {{subon|57}}
+|-
+|CE ||'''22'''||[[Matías Moroni]] || || {{subon|61}}
+|-
+|FB ||'''23'''||[[Joaquín Tuculet]] || || {{subon|57}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Daniel Hourcade]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Stuart Hogg (rugby player)|Stuart Hogg]]
+|-
+|RW ||'''14'''||[[Sean Maitland]]
+|-
+|OC ||'''13'''||[[Nick De Luca]]
+|-
+|IC ||'''12'''||[[Peter Horne]] || || {{suboff|64}}
+|-
+|LW ||'''11'''||[[Tommy Seymour]]
+|-
+|FH ||'''10'''||[[Duncan Weir]]
+|-
+|SH ||'''9''' ||[[Grayson Hart]] || || {{suboff|47}}
+|-
+|N8 ||'''8''' ||[[Kieran Low]]
+|-
+|OF ||'''7''' ||[[Blair Cowan (rugby union)|Blair Cowan]] || || {{suboff|61}}
+|-
+|BF ||'''6''' ||[[Rob Harley]]
+|-
+|RL ||'''5''' ||[[Grant Gilchrist]] ([[Captain (sports)|c]])
+|-
+|LL ||'''4''' ||[[Jonny Gray]] || || {{suboff|55}}
+|-
+|TP ||'''3''' ||[[Geoff Cross]] || || {{suboff|61}}
+|-
+|HK ||'''2''' ||[[Ross Ford]] || || {{suboff|61}}
+|-
+|LP ||'''1''' ||[[Alasdair Dickinson]] || || {{suboff|61}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Pat MacArthur]] || || {{subon|61}}
+|-
+|PR ||'''17'''||[[Gordon Reid (rugby union)|Gordon Reid]] || || {{subon|61}}
+|-
+|PR ||'''18'''||[[Jon Welsh]] || || {{subon|61}}
+|-
+|LK ||'''19'''||[[Tim Swinson]] || || {{subon|55}}
+|-
+|FL ||'''20'''||[[Chris Fusaro]] || || {{subon|61}}
+|-
+|SH ||'''21'''||[[Henry Pyrgos]] || || {{subon|47}}
+|-
+|FH ||'''22'''||[[Tom Heathcote]]
+|-
+|WG ||'''23'''||[[Dougie Fife]] || || {{subon|64}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Vern Cotter]]
+|}
+|}
+{| style="width:100%"
+|
+<!--'''Man of the Match:'''
+<br />
+-->
+'''Touch judges:'''
+<br />[[Pascal Gaüzère]] ([[French Rugby Federation|France]])
+<br />[[Lourens van der Merwe]] ([[South African Rugby Union|South Africa]])
+<br />'''Television match official:'''
+<br />[[Deon van Bloomestein]] ([[South African Rugby Union|South Africa]])
+|}
+|}
+'''Notes:'''
+* [[Matías Moroni]] made his international debut for Argentina.
+----
+{{Rugbybox
+|date = 21 June 2014
+|time = 14:00 [[Japan Standard Time|JST]] ([[UTC+09]])
+|home = {{Ru-rt|JPN}}
+|score = 26–23
+|report = Report<ref>http://www.federugby.it/index.php?option=com_content&view=article&id=7021:nazionale-battuta-26-23-dal-giappone-a-tokyo-il-tour-finisce-senza-vittorie&catid=252:slide&Itemid=811</ref>{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}<br />''(In Italian)''
+|away = {{Ru|ITA}}
+|try1 = [[Akihito Yamada|Yamada]] 4' c<br />[[Male Sa'u|Sa'u]] 59' c
+|con1 = [[Ayumu Goromaru|Goromaru]] (2/2) 5', 60'
+|pen1 = [[Ayumu Goromaru|Goromaru]] (4/5) 13', 22', 42', 48'
+|try2 = [[Try (rugby)|Penalty try]] 17' c<br />[[Robert Barbieri|Barbieri]] 74' c
+|con2 = [[Luciano Orquera|Orquera]] (1/1) 17'<br />[[Tommaso Allan|Allan]] (1/1) 75'
+|pen2 = [[Luciano Orquera|Orquera]] (3/3) 7', 35', 52'
+|stadium = [[Chichibunomiya Rugby Stadium]], [[Tokyo]] <ref name=ITA/>
+|attendance = 13,816
+|referee = [[Jaco Peyper]] ([[South African Rugby Union|South Africa]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Ayumu Goromaru]]
+|-
+|RW ||'''14'''||[[Akihito Yamada]] || {{sin bin|17|27}}
+|-
+|OC ||'''13'''||[[Male Sa'u]]
+|-
+|IC ||'''12'''||[[Yuu Tamura]]
+|-
+|LW ||'''11'''||[[Kenki Fukuoka]]
+|-
+|FH ||'''10'''||[[Harumichi Tatekawa]]
+|-
+|SH ||'''9''' ||[[Fumiaki Tanaka]]
+|-
+|N8 ||'''8''' ||[[Ryu Holani]] || ||colspan=2| {{blood bin|59|64}} || {{suboff|74}}
+|-
+|OF ||'''7''' ||[[Michael Leitch]] ([[Captain (sports)|c]])
+|-
+|BF ||'''6''' ||[[Justin Ives]]
+|-
+|RL ||'''5''' ||[[Luke Thompson (rugby union)|Luke Thompson]] || || {{suboff|74}}
+|-
+|LL ||'''4''' ||[[Shoji Ito]] || || {{suboff|64}}
+|-
+|TP ||'''3''' ||[[Kensuke Hatakeyama]] || || {{suboff|74}}
+|-
+|HK ||'''2''' ||[[Shota Horie]]
+|-
+|LP ||'''1''' ||[[Masataka Mikami]] || || {{suboff|63}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|PR ||'''16'''||[[Hisateru Hirashima]] || || {{subon|63}}
+|-
+|HK ||'''17'''||[[Takeshi Kizu]]
+|-
+|PR ||'''18'''||[[Hiroshi Yamashita]] || || {{subon|74}}
+|-
+|LK ||'''19'''||[[Shinya Makabe (rugby union)|Shinya Makabe]] || || {{subon|59}} || {{suboff|64}} || {{subon|74}}
+|-
+|LK ||'''20'''||[[Hitoshi Ono]] || || {{subon|64}}
+|-
+|FL ||'''21'''||[[Hendrik Tui]] || || {{subon|74}}
+|-
+|SH ||'''22'''||[[Atsushi Hiwasa]]
+|-
+|WG ||'''23'''||[[Toshiaki Hirose]]
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|AUS}} [[Eddie Jones (rugby union)|Eddie Jones]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Luke McLean]]
+|-
+|RW ||'''14'''||[[Leonardo Sarto]] || || {{suboff|74}}
+|-
+|OC ||'''13'''||[[Michele Campagnaro]]
+|-
+|IC ||'''12'''||[[Andrea Masi]]
+|-
+|LW ||'''11'''||[[Giovanbattista Venditti]] || {{sin bin|42|52}}
+|-
+|FH ||'''10'''||[[Luciano Orquera]] || || {{suboff|74}}
+|-
+|SH ||'''9''' ||[[Tito Tebaldi]] || || {{suboff|64}}
+|-
+|N8 ||'''8''' ||[[Robert Barbieri]]
+|-
+|OF ||'''7''' ||[[Mauro Bergamasco]] || || {{suboff|60}}
+|-
+|BF ||'''6''' ||[[Joshua Furno]]
+|-
+|RL ||'''5''' ||[[Marco Bortolami]] || || {{suboff|68}}
+|-
+|LL ||'''4''' ||[[Quintin Geldenhuys]] ([[Captain (sports)|c]])
+|-
+|TP ||'''3''' ||[[Lorenzo Cittadini]] || || {{suboff|59}}
+|-
+|HK ||'''2''' ||[[Leonardo Ghiraldini]] || || {{suboff|67}}
+|-
+|LP ||'''1''' ||[[Alberto De Marchi]] || || {{suboff|59}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Andrea Manici]] || || {{subon|67}}
+|-
+|PR ||'''17'''||[[Andrea de Marchi]] || || {{subon|59}}
+|-
+|PR ||'''18'''||[[Dario Chistolini]] || || {{subon|59}}
+|-
+|LK ||'''19'''||[[Marco Fuser]] || || {{subon|68}}
+|-
+|N8 ||'''20'''||[[Manoa Vosawai]] || || {{subon|60}}
+|-
+|SH ||'''21'''||[[Guglielmo Palazzani]] || || {{subon|64}}
+|-
+|FH ||'''22'''||[[Tommaso Allan]] || || {{subon|74}}
+|-
+|CE ||'''23'''||[[Gonzalo Garcia (rugby player)|Gonzalo Garcia]] || || {{subon|74}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|FRA}} [[Jacques Brunel (rugby player)|Jacques Brunel]]
+|}
+|}
+{| style="width:100%"
+|
+<!--'''Man of the Match:'''
+<br />
+-->
+'''Touch judges:'''
+<br />[[Garratt Williamson]] ([[New Zealand Rugby Union|New Zealand]])
+<br />[[Brendon Pickerill]] ([[New Zealand Rugby Union|New Zealand]])
+<br />'''Television match official:'''
+<br />[[Peter Marshall (rugby referee)|Peter Marshall]] ([[Australian Rugby Union|Australia]])
+|}
+|}
+'''Notes:'''
+* [[Mauro Bergamasco]] becomes the sixth Italian player to earn 100 test caps.
+* This win was Japan's tenth consecutive win, a record for a Tier 2 nation. 
+----
+{{Rugbybox
+|date = 21 June 2014
+|time = 15:00 [[Time in Australia|AEST]] ([[UTC+10]])
+|home = {{Ru-rt|AUS}}
+|score = 39–13
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/230477.html|title=Wallabies record comprehensive win to sweep France|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|FRA}}
+|try1 = [[Will Skelton|Skelton]] 7' c<br />[[Israel Folau|Folau]] (2) 26' c, 41' c<br />[[Michael Hooper (rugby union)|Hooper]] 60' c<br />[[Nick Phipps (rugby union)|Phipps]] 73' m
+|con1 = [[Bernard Foley|Foley]] (4/5) 9', 27', 42', 61'
+|pen1 = [[Bernard Foley|Foley]] (2/2) 2', 17'
+|try2 = [[Guilhem Guirado|Guirado]] 65' c
+|con2 = [[Maxime Machenaud|Machenaud]] (1/1) 65'
+|pen2 = [[Maxime Machenaud|Machenaud]] (1/2) 34'<br />[[Brice Dulin|Dulin]] (1/1) 15'
+|stadium = [[Sydney Football Stadium|Allianz Stadium]], [[Sydney]] <ref name=AUS/>
+|attendance = 43,188
+|referee = [[Chris Pollock]] ([[New Zealand Rugby Union|New Zealand]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Israel Folau]]
+|-
+|RW ||'''14'''||[[Adam Ashley-Cooper]]
+|-
+|OC ||'''13'''||[[Tevita Kuridrani]] || || {{suboff|70}}
+|-
+|IC ||'''12'''||[[Matt Toomua]] || || {{suboff|54}}
+|-
+|LW ||'''11'''||[[Nick Cummins]]
+|-
+|FH ||'''10'''||[[Bernard Foley]]
+|-
+|SH ||'''9''' ||[[Nic White]] || || {{suboff|58}}
+|-
+|N8 ||'''8''' ||[[Wycliff Palu]] || || {{suboff|63}}
+|-
+|OF ||'''7''' ||[[Michael Hooper (rugby union)|Michael Hooper]] ([[Captain (sports)|c]])
+|-
+|BF ||'''6''' ||[[Scott Fardy]]
+|-
+|RL ||'''5''' ||[[Rob Simmons (rugby union)|Rob Simmons]]
+|-
+|LL ||'''4''' ||[[Will Skelton]] || || {{suboff|56}}
+|-
+|TP ||'''3''' ||[[Sekope Kepu]] || || {{suboff|58}}
+|-
+|HK ||'''2''' ||[[Tatafu Polota-Nau]] || || {{suboff|68}}
+|-
+|LP ||'''1''' ||[[James Slipper]] || || {{suboff|52}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Nathan Charles]] || || {{subon|68}}
+|-
+|PR ||'''17'''||[[Scott Sio]] || || {{subon|52}}
+|-
+|PR ||'''18'''||[[Laurie Weeks (rugby)|Laurie Weeks]] || || {{subon|58}}
+|-
+|LK ||'''19'''||[[James Horwill]] || || {{subon|56}}
+|-
+|N8 ||'''20'''||[[Ben McCalman]] || || {{subon|63}}
+|-
+|SH ||'''21'''||[[Nick Phipps (rugby union)|Nick Phipps]] || || {{subon|58}}
+|-
+|FH ||'''22'''||[[Kurtley Beale]] || || {{subon|54}}
+|-
+|WG ||'''23'''||[[Rob Horne]] || || {{subon|70}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|AUS}} [[Ewen McKenzie]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Brice Dulin]]
+|-
+|RW ||'''14'''||[[Yoann Huget]]
+|-
+|OC ||'''13'''||[[Mathieu Bastareaud]]
+|-
+|IC ||'''12'''||[[Wesley Fofana (rugby union)|Wesley Fofana]]
+|-
+|LW ||'''11'''||[[Hugo Bonneval]] || || {{suboff|43}}
+|-
+|FH ||'''10'''||[[Rémi Tales]] || || {{suboff|70}}
+|-
+|SH ||'''9''' ||[[Maxime Machenaud]]
+|-
+|N8 ||'''8''' ||[[Damien Chouly]] || || {{suboff|58}}
+|-
+|OF ||'''7''' ||[[Fulgence Ouedraogo]] || || {{suboff|50}}
+|-
+|BF ||'''6''' ||[[Thierry Dusautoir]] ([[Captain (sports)|c]])
+|-
+|RL ||'''5''' ||[[Yoann Maestri]]
+|-
+|LL ||'''4''' ||[[Alexandre Flanquart]] || || {{suboff|59}}
+|-
+|TP ||'''3''' ||[[Rabah Slimani]] || {{sin bin|26|36}} || {{suboff|47}}
+|-
+|HK ||'''2''' ||[[Guilhem Guirado]] || || {{suboff|68}}
+|-
+|LP ||'''1''' ||[[Alexandre Menini]] || || {{suboff|47}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Christopher Tolofua]] || || {{subon|68}}
+|-
+|PR ||'''17'''||[[Vincent Debaty]] || || {{subon|47}}
+|-
+|PR ||'''18'''||[[Thomas Domingo]] || || {{subon|47}}
+|-
+|FL ||'''19'''||[[Bernard Le Roux]] || || {{subon|59}}
+|-
+|N8 ||'''20'''||[[Louis Picamoles]] || || {{subon|58}}
+|-
+|FL ||'''21'''||[[Yannick Nyanga]] || || {{subon|50}}
+|-
+|FH ||'''22'''||[[Frédéric Michalak]] || || {{subon|70}}
+|-
+|CE ||'''23'''||[[Rémi Lamerat]] || || {{subon|43}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|FRA}} [[Phillipe Saint-Andre]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Wycliff Palu]] (Australia)
+
+'''Touch judges:'''
+<br />[[Wayne Barnes]] ([[Rugby Football Union|England]])
+<br />[[George Clancy (rugby union)|George Clancy]] ([[Irish Rugby Football Union|Ireland]])
+<br />'''Television match official:'''
+<br />[[Ben Skeen]] ([[New Zealand Rugby Union|New Zealand]])
+|}
+|}
+'''Notes:'''
+* [[Will Skelton]] made his international debut for Australia.
+* The 43,188-person crowd was a record crowd for an Australian test at Allianz Stadium.
+----
+{{Rugbybox
+|date = 21 June 2014
+|time = 19:35 [[Time in New Zealand|NZST]] ([[UTC+12]])
+|home = {{Ru-rt|NZL}}
+|score = 36–13
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/newzealand/rugby/story/230505.html|title=Resurgent All Blacks leave England wilting|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|ENG}}
+|try1 = [[Julian Savea|Savea]] (3) 3' m, 8' c, 80' c<br />[[Aaron Smith (rugby union)|Smith]] (2) 26' c, 33' c
+|con1 = [[Aaron Cruden|Cruden]] (3/4) 9', 27', 34'<br />[[Beauden Barrett|Barrett]] (1/1) 80'
+|pen1 = [[Aaron Cruden|Cruden]] (1/1) 17'
+|try2 = [[Marland Yarde|Yarde]] 42' c
+|con2 = [[Freddie Burns|Burns]] (1/1) 43'
+|pen2 = [[Freddie Burns|Burns]] (2/3) 7', 19'
+|stadium = [[Waikato Stadium]], [[Hamilton, New Zealand|Hamilton]] <ref name=NZL/>
+|attendance =
+|referee = [[Jérôme Garcès]] ([[French Rugby Federation|France]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Ben Smith (rugby union)|Ben Smith]]
+|-
+|RW ||'''14'''||[[Cory Jane]]
+|-
+|OC ||'''13'''||[[Malakai Fekitoa]] || || {{suboff|63}}
+|-
+|IC ||'''12'''||[[Ma'a Nonu]]
+|-
+|LW ||'''11'''||[[Julian Savea]]
+|-
+|FH ||'''10'''||[[Aaron Cruden]] || || {{suboff|44}}
+|-
+|SH ||'''9''' ||[[Aaron Smith (rugby union)|Aaron Smith]] || || {{suboff|74}}
+|-
+|N8 ||'''8''' ||[[Kieran Read]] || || {{suboff|40}}
+|-
+|OF ||'''7''' ||[[Richie McCaw]] ([[Captain (sports)|c]])
+|-
+|BF ||'''6''' ||[[Jerome Kaino]] || || || {{suboff|74}}
+|-
+|RL ||'''5''' ||[[Sam Whitelock]]
+|-
+|LL ||'''4''' ||[[Brodie Retallick]] || || {{suboff|76}}
+|-
+|TP ||'''3''' ||[[Owen Franks]] || || {{suboff|58}}
+|-
+|HK ||'''2''' ||[[Dane Coles]] || || {{suboff|44}}
+|-
+|LP ||'''1''' ||[[Tony Woodcock (rugby player)|Tony Woodcock]] || || {{suboff|63}} || {{subon|74}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Keven Mealamu]] || || {{subon|44}}
+|-
+|PR ||'''17'''||[[Wyatt Crockett]] || {{sin bin|72|80}} || {{subon|63}}
+|-
+|PR ||'''18'''||[[Charlie Faumuina]] || || {{subon|58}}
+|-
+|LK ||'''19'''||[[Patrick Tuipulotu]] || || {{subon|76}}
+|-
+|FL ||'''20'''||[[Liam Messam]] || || {{subon|40}}
+|-
+|SH ||'''21'''||[[TJ Perenara]] || || {{subon|74}}
+|-
+|FH ||'''22'''||[[Beauden Barrett]] || || {{subon|44}}
+|-
+|CE ||'''23'''||[[Ryan Crotty]] || || {{subon|63}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Steve Hansen]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Mike Brown (rugby union)|Mike Brown]]
+|-
+|RW ||'''14'''||[[Chris Ashton]]
+|-
+|OC ||'''13'''||[[Manu Tuilagi]]
+|-
+|IC ||'''12'''||[[Kyle Eastmond]] || || {{suboff|40}}
+|-
+|LW ||'''11'''||[[Marland Yarde]]
+|-
+|FH ||'''10'''||[[Freddie Burns]] || || {{suboff|59}}
+|-
+|SH ||'''9''' ||[[Ben Youngs]] || || {{suboff|71}}
+|-
+|N8 ||'''8''' ||[[Billy Vunipola]] || {{sin bin|20|30}} || {{suboff|56}}
+|-
+|OF ||'''7''' ||[[Chris Robshaw]] ([[Captain (sports)|c]])
+|-
+|BF ||'''6''' ||[[Tom Wood (rugby union)|Tom Wood]]
+|-
+|RL ||'''5''' ||[[Courtney Lawes]]
+|-
+|LL ||'''4''' ||[[Joe Launchbury]] || || {{suboff|21}} || {{subon|28}} || {{suboff|65}}
+|-
+|TP ||'''3''' ||[[David Wilson (English rugby union prop)|David Wilson]] || || {{suboff|56}}
+|-
+|HK ||'''2''' ||[[Dylan Hartley]] || || {{suboff|58}}
+|-
+|LP ||'''1''' ||[[Joe Marler]] || || {{suboff|65}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Rob Webber]] || || {{subon|58}}
+|-
+|PR ||'''17'''||[[Matt Mullan]] || || {{subon|65}}
+|-
+|PR ||'''18'''||[[Kieran Brookes]] || || {{subon|56}}
+|-
+|LK ||'''19'''||[[Dave Attwood]] || || {{subon|21}} || {{suboff|28}} || {{subon|65}}
+|-
+|N8 ||'''20'''||[[Ben Morgan]] || || {{subon|56}}
+|-
+|SH ||'''21'''||[[Lee Dickson]] || || {{subon|71}}
+|-
+|FH ||'''22'''||[[Danny Cipriani]] || || {{subon|59}}
+|-
+|CE ||'''23'''||[[Luther Burrell]] || || {{subon|40}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Stuart Lancaster (rugby union)|Stuart Lancaster]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Julian Savea]] (New Zealand)
+
+'''Touch judges:'''
+<br />[[Nigel Owens]] ([[Welsh Rugby Union|Wales]])
+<br />[[James Leckie]] ([[Australian Rugby Union|Australia]])
+<br />'''Television match official:'''
+<br />[[George Ayoub]] ([[Australian Rugby Union|Australia]])
+|}
+|}
+----
+{{Rugbybox
+|date = 21 June 2014
+|time = 15:00 [[South African Standard Time|SAST]] ([[UTC+02]])
+|home = {{Ru-rt|RSA}}
+|score = 31–30
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/230587.html|title=Late penalty-try leaves gutsy Wales broken|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|WAL}}
+|try1 = [[Try (rugby)|Penalty try]] (2) 32' c, 77' c<br />[[Cornal Hendricks|Hendricks]] 33' c<br />[[Willie le Roux|Le Roux]] 71' c
+|con1 = [[Morné Steyn|Steyn]] (4/4) 32', 35', 72', 78'
+|pen1 = [[Morné Steyn|Steyn]] (1/2) 55'
+|try2 = [[Jamie Roberts|Roberts]] 18' c<br />[[Alex Cuthbert|Cuthbert]] 21' c<br />[[Ken Owens|Owens]] 45' c
+|con2 = [[Dan Biggar|Biggar]] (3/3) 19', 22', 45'
+|pen2 = [[Dan Biggar|Biggar]] (3/4) 12', 56', 65'
+|stadium = [[Mbombela Stadium]], [[Nelspruit]] <ref name="RSA"/>
+|attendance = 25,424
+|referee = [[Steve Walsh (rugby referee)|Steve Walsh]] ([[Australian Rugby Union|Australia]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Willie le Roux]]
+|-
+|RW ||'''14'''||[[Cornal Hendricks]]
+|-
+|OC ||'''13'''||[[JP Pietersen]]
+|-
+|IC ||'''12'''||[[Jan Serfontein]] || || {{suboff|74}}
+|-
+|LW ||'''11'''||[[Bryan Habana]]
+|-
+|FH ||'''10'''||[[Morné Steyn]] || ||colspan=2| {{blood bin|23|29}}
+|-
+|SH ||'''9''' ||[[Fourie du Preez]]
+|-
+|N8 ||'''8''' ||[[Duane Vermeulen]]
+|-
+|OF ||'''7''' ||[[Willem Alberts]] || || {{suboff|24}}
+|-
+|BF ||'''6''' ||[[Francois Louw]]
+|-
+|RL ||'''5''' ||[[Victor Matfield]] ([[Captain (sports)|c]])
+|-
+|LL ||'''4''' ||[[Flip van der Merwe]] || {{sin bin|57|67}} ||colspan=2| {{blood bin|45|49}}
+|-
+|TP ||'''3''' ||[[Jannie du Plessis]] || || {{suboff|58}}
+|-
+|HK ||'''2''' ||[[Bismarck du Plessis]] || || {{suboff|65}}
+|-
+|LP ||'''1''' ||[[Tendai Mtawarira]] || || {{suboff|65}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Schalk Brits]] || || {{subon|65}}
+|-
+|PR ||'''17'''||[[Gurthrö Steenkamp]] || || {{subon|65}}
+|-
+|PR ||'''18'''||[[Coenie Oosthuizen]] || || {{subon|58}}
+|-
+|LK ||'''19'''||[[Lood de Jager]] || || {{subon|45}} || {{suboff|49}}
+|-
+|FL ||'''20'''||[[Schalk Burger]] || || {{subon|24}}
+|-
+|SH ||'''21'''||[[Ruan Pienaar]] || || {{subon|23}} || {{suboff|29}}
+|-
+|CE ||'''22'''||[[Wynand Olivier]] || || {{subon|74}}
+|-
+|WG ||'''23'''||[[Lwazi Mvovo]]
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|RSA}} [[Heyneke Meyer]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Liam Williams (rugby player)|Liam Williams]]
+|-
+|RW ||'''14'''||[[Alex Cuthbert]]
+|-
+|OC ||'''13'''||[[Jonathan Davies (rugby player born 1988)|Jonathan Davies]]
+|-
+|IC ||'''12'''||[[Jamie Roberts]]
+|-
+|LW ||'''11'''||[[George North]]
+|-
+|FH ||'''10'''||[[Dan Biggar]] || {{sin bin|32|42}}
+|-
+|SH ||'''9''' ||[[Mike Phillips (rugby player)|Mike Phillips]]
+|-
+|N8 ||'''8''' ||[[Taulupe Faletau]]
+|-
+|OF ||'''7''' ||[[Josh Turnbull]]
+|-
+|BF ||'''6''' ||[[Dan Lydiate]]
+|-
+|RL ||'''5''' ||[[Alun Wyn Jones]] ([[Captain (sports)|c]])
+|-
+|LL ||'''4''' ||[[Luke Charteris]] || {{sin bin|29|39}} || {{suboff|74}}
+|-
+|TP ||'''3''' ||[[Samson Lee]] || || {{suboff|51}}
+|-
+|HK ||'''2''' ||[[Ken Owens]] || || {{suboff|74}}
+|-
+|LP ||'''1''' ||[[Gethin Jenkins]] || || {{suboff|74}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Matthew Rees]] || || {{subon|74}}
+|-
+|PR ||'''17'''||[[Paul James (rugby union)|Paul James]] || || {{subon|74}}
+|-
+|PR ||'''18'''||[[Aaron Jarvis (rugby union)|Aaron Jarvis]] || || {{subon|51}}
+|-
+|LK ||'''19'''||[[Jake Ball (rugby player)|Jake Ball]] || || {{subon|74}}
+|-
+|N8 ||'''20'''||[[Dan Baker (rugby player)|Dan Baker]]
+|-
+|SH ||'''21'''||[[Gareth Davies (rugby player born 1990)|Gareth Davies]]
+|-
+|FH ||'''22'''||[[James Hook (rugby union)|James Hook]]
+|-
+|FB ||'''23'''||[[Matthew Morgan (rugby player)|Matthew Morgan]]
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Warren Gatland]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[Duane Vermeulen]] (South Africa)
+
+'''Touch judges:'''
+<br />[[Romain Poite]] ([[French Rugby Federation|France]])
+<br />[[Francisco Pastrana]] ([[Argentine Rugby Union|Argentina]])
+<br />'''Television match official:'''
+<br />[[Glenn Newman]] ([[New Zealand Rugby Union|New Zealand]])
+|}
+|}
+'''Notes:'''
+* [[Victor Matfield]] surpassed [[John Smit]], to become South Africa's most capped player with 112 caps.
+* South Africa retain the [[Prince William Cup]] for the seventh time.
+----
+{{Rugbybox
+|date = 22 June 2014
+|time = 15:00 [[Time in New Zealand|NZST]] ([[UTC+12]])
+|home = Pacific Barbarians
+|score = 14–36
+|report =
+|away = {{Ru|TON}}
+|try1 =
+|con1 =
+|pen1 =
+|drop1 =
+|try2 =
+|con2 =
+|pen2 =
+|drop2 =
+|stadium = [[Mount Smart Stadium]], [[Auckland]]
+|attendance =
+|referee = [[Nick Briant]] ([[New Zealand Rugby Union|New Zealand]])
+}}
+
+===28 June===
+{{Rugbybox
+|date = 28 June 2014
+|time = 17:00 [[South African Standard Time|SAST]] ([[UTC+02]])
+|home = {{Ru-rt|RSA}}
+|score = 55–6
+|report = Report<ref>{{cite web|url=http://www.espn.co.uk/scrum/rugby/story/231299.html|title=Outclassed Scotland put to the sword|first=ESPN|last=Staff|website=espn.co.uk|accessdate=14 September 2017}}</ref>
+|away = {{Ru|SCO}}
+|try1 = [[Marcell Coetzee|Coetzee]] (2) 3' c, 51' c<br />[[Willie le Roux|Le Roux]] 10' c<br />[[Lwazi Mvovo|Mvovo]] (2) 16' m, 61' c<br />[[JP Pietersen|Pietersen]] 56' m<br />[[Lood de Jager|De Jager]] (2) 64' c, 78' c
+|con1 = [[Handré Pollard|Pollard]] (5/7) 4', 11', 52', 62', 65'<br />[[Marnitz Boshoff|Boshoff]] 79'
+|pen1 = [[Handré Pollard|Pollard]] (1/1) 44'
+|pen2 = [[Duncan Weir|Weir]] (2/2) 7', 36'
+|stadium = [[Nelson Mandela Bay Stadium]], [[Port Elizabeth]] <ref name="RSA"/>
+|attendance = 40,973
+|referee = [[Glen Jackson (rugby union)|Glen Jackson]] ([[New Zealand Rugby Union|New Zealand]])
+}}
+{| border="0" width="100%" class="collapsible collapsed"
+|-
+!Team details
+|-
+|
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Willie le Roux]] || ||colspan=2| {{blood bin|21|27}} || {{suboff|75}}
+|-
+|RW ||'''14'''||[[Cornal Hendricks]]
+|-
+|OC ||'''13'''||[[JP Pietersen]]
+|-
+|IC ||'''12'''||[[Jan Serfontein]]
+|-
+|LW ||'''11'''||[[Lwazi Mvovo]]
+|-
+|FH ||'''10'''||[[Handré Pollard]] || || {{suboff|70}}
+|-
+|SH ||'''9''' ||[[Fourie du Preez]] || || {{suboff|28}}
+|-
+|N8 ||'''8''' ||[[Duane Vermeulen]] || || {{suboff|66}}
+|-
+|OF ||'''7''' ||[[Schalk Burger]]
+|-
+|BF ||'''6''' ||[[Marcell Coetzee]]
+|-
+|RL ||'''5''' ||[[Victor Matfield]] ([[Captain (sports)|c]]) || || {{suboff|70}}
+|-
+|LL ||'''4''' ||[[Lood de Jager]]
+|-
+|TP ||'''3''' ||[[Jannie du Plessis]] || || {{suboff|70}}
+|-
+|HK ||'''2''' ||[[Bismarck du Plessis]] || || {{suboff|54}}
+|-
+|LP ||'''1''' ||[[Coenie Oosthuizen]] || || {{suboff|50}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Adriaan Strauss]] || || {{subon|54}}
+|-
+|PR ||'''17'''||[[Trevor Nyakane]] || || {{subon|70}}
+|-
+|PR ||'''18'''||[[Marcel van der Merwe]] || || {{subon|50}}
+|-
+|LK ||'''19'''||[[Stephan Lewies]] || || {{subon|70}}
+|-
+|FL ||'''20'''||[[Oupa Mohojé]] || || {{subon|66}}
+|-
+|SH ||'''21'''||[[Francois Hougaard]] || || {{subon|29}}
+|-
+|FH ||'''22'''||[[Marnitz Boshoff]] || || {{subon|70}}
+|-
+|FB ||'''23'''||[[Zane Kirchner]] || || {{subon|21}} || {{suboff|27}} || {{subon|75}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|RSA}} [[Heyneke Meyer]]
+|}
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|FB ||'''15'''||[[Stuart Hogg (rugby player)|Stuart Hogg]] || || {{suboff|71}}
+|-
+|RW ||'''14'''||[[Sean Maitland]] || || {{suboff|53}}
+|-
+|OC ||'''13'''||[[Nick De Luca]]
+|-
+|IC ||'''12'''||[[Peter Horne]]
+|-
+|LW ||'''11'''||[[Tommy Seymour]]
+|-
+|FH ||'''10'''||[[Duncan Weir]]
+|-
+|SH ||'''9''' ||[[Henry Pyrgos]] || || {{suboff|76}}
+|-
+|N8 ||'''8''' ||[[Adam Ashe]]
+|-
+|OF ||'''7''' ||[[Chris Fusaro]] || || {{suboff|49}}
+|-
+|BF ||'''6''' ||[[Rob Harley]]
+|-
+|RL ||'''5''' ||[[Grant Gilchrist]] ([[Captain (sports)|c]])
+|-
+|LL ||'''4''' ||[[Tim Swinson]] || {{sin bin|50|60}} || {{suboff|60}}
+|-
+|TP ||'''3''' ||[[Geoff Cross]] || || {{suboff|50}}
+|-
+|HK ||'''2''' ||[[Ross Ford]] || || {{suboff|60}}
+|-
+|LP ||'''1''' ||[[Alasdair Dickinson]] || || {{suboff|79}}
+|-
+|colspan=3|'''Replacements:'''
+|-
+|HK ||'''16'''||[[Kevin Bryce]] || || {{subon|60}}
+|-
+|PR ||'''17'''||[[Moray Low]] || || {{subon|79}}
+|-
+|PR ||'''18'''||[[Euan Murray]] || || {{subon|50}}
+|-
+|LK ||'''19'''||[[Jonny Gray]] || || {{subon|60}}
+|-
+|FL ||'''20'''||[[Tyrone Holmes]] || || {{subon|49}}
+|-
+|SH ||'''21'''||[[Grayson Hart]] || || {{subon|76}}
+|-
+|WG ||'''22'''||[[Dougie Fife]] || || {{subon|53}}
+|-
+|FB ||'''23'''||[[Peter Murchie]] || || {{subon|71}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan="4"|{{flagicon|NZL}} [[Vern Cotter]]
+|}
+|}
+{| style="width:100%"
+|
+'''Man of the Match:'''
+<br />[[JP Pietersen]] (South Africa)
+
+'''Touch judges:'''
+<br />[[Romain Poite]] ([[French Rugby Federation|France]])
+<br />[[Marius Mitrea]] ([[Italian Rugby Federation|Italy]])
+<br />'''Television match official:'''
+<br />[[Glenn Newman]] ([[New Zealand Rugby Union|New Zealand]])
+|}
+|}
+'''Notes:'''
+* [[Marnitz Boshoff]], [[Stephan Lewies]], [[Marcel van der Merwe]], [[Oupa Mohojé]] and [[Handré Pollard]] made their international debuts for South Africa.
+* [[Adam Ashe]] and [[Tyrone Holmes]] made their international debuts for Scotland.
+
+==See also==
+* [[Mid-year rugby union tests]]
+* [[End-of-year rugby union tests]]
+* [[2014 Africa Cup]]
+* [[2014 Asian Five Nations]]
+* [[2014 IRB Nations Cup]]
+* [[2014 IRB Tbilisi Cup]]
+* [[2014 end-of-year rugby union tests]]
+
+==References==
+{{reflist|30em}}
+
+{{Mid-year rugby union tests}}
+
+{{DEFAULTSORT:Mid-Year}}
+[[Category:Mid-year rugby union internationals|2014]]
+[[Category:2014–15 in European rugby union]]
+[[Category:2014–15 in Japanese rugby union]]
+[[Category:2014 in Oceanian rugby union]]
+[[Category:2014 in North American rugby union]]
+[[Category:2014 in South American rugby union]]
+[[Category:2014 in African rugby union]]

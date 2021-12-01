@@ -1,0 +1,84 @@
+{{Main|1828 United States presidential election}}
+{{Infobox election
+| election_name = 1828 [[United States presidential election]] in Louisiana
+| country = Louisiana
+| type = presidential
+| ongoing = no
+| previous_election = 1824 United States presidential election in Louisiana
+| previous_year = 1824
+| next_election = 1832 United States presidential election in Louisiana
+| next_year = 1832
+| election_date = October 31 – December 2, 1828
+| image_size = x200px
+| image1 = Andrew Jackson.jpg
+| nominee1 = '''[[Andrew Jackson]]'''
+| party1 = Democratic Party (United States)
+| home_state1 = [[Tennessee]]
+| running_mate1 = '''[[John C. Calhoun]]'''
+| electoral_vote1 = '''5'''
+| popular_vote1 = '''4,605'''
+| percentage1 = '''53.01%'''
+| image2 = JohnQAdams.jpg
+| nominee2 = [[John Quincy Adams]]
+| party2 = National Republican Party (United States)
+| home_state2 = [[Massachusetts]]
+| running_mate2 = [[Richard Rush]]
+| electoral_vote2 = 0
+| popular_vote2 = 4,082
+| percentage2 = 46.99%
+| title = President
+| before_election = [[John Quincy Adams]]
+| before_party = Democratic-Republican Party
+| after_election = [[Andrew Jackson]]
+| after_party = Democratic Party (United States)
+}} 
+{{ElectionsLA}}
+The '''1828 United States presidential election in Louisiana''' took place between October 31 and December 2, 1828, as part of the [[1828 United States presidential election]]. Voters chose five representatives, or electors to the [[United States Electoral College|Electoral College]], who voted for [[President of the United States|President]] and [[Vice President of the United States|Vice President]].
+
+[[Louisiana]] voted for the [[Democratic Party (United States)|Democratic]] candidate, [[Andrew Jackson]], over the [[National Republican Party|National Republican]] candidate, [[John Quincy Adams]]. Jackson won Louisiana by a margin of 6.02%.
+
+In January 1828, Jackson had visited New Orleans to celebrate the 13th anniversary of the Battle of New Orleans in response to an invitation from the Louisiana legislature; he and his supporters financed the visit, as the legislature rejected providing any money,<ref name="parsons">Parsons, Lynn Hudson.  ''The birth of modern politics : Andrew Jackson, John Quincy Adams, and the election of 1828''.  [[Oxford]]: [[Oxford University Press|Oxford UP]], 2009.</ref>{{rp|147}} and lingering anger against Jackson's conduct in 1815 prompted the legislature to disclaim any adherence to Jackson as a political candidate.  The legislature remained dominated by Adams supporters.<ref name=parsons />{{rp|148}}  His supporters had a mixed record in the fall elections, winning the governor's mansion and the legislature but losing two seats in the federal House of Representatives.<ref name=parsons />{{rp|150}}  And while the presidential election ultimately saw Adams defeated in Louisiana, it was a slim defeat, in contrast to nearly unanimous support for Jackson throughout the other southern states.<ref name=parsons />{{rp|181}}
+
+==Results==
+{| border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="6" | United States presidential election in Louisiana, 1828<ref name=results>{{cite web|title=1828 Presidential General Election Results - Louisiana|url=http://uselectionatlas.org/RESULTS/state.php?year=1828&f=1&off=0&elect=0&fips=22&submit=Retrieve|publisher=U.S. Election Atlas|accessdate=28 February 2013}}</ref>
+|-bgcolor="#EEEEEE" align="center"
+! colspan="2" style="width: 15em" |Party
+! style="width: 17em" |Candidate
+! style="width: 5em" |Votes
+! style="width: 7em" |Percentage
+! style="width: 5em" |Electoral votes
+|-
+! style="background-color:#3333FF; width: 3px" |
+| style="width: 130px" | '''[[Democratic Party (United States)|Democratic]]'''
+| '''[[Andrew Jackson]]'''
+| align="right" | '''4,605'''
+| align="right" | '''53.01%'''
+| align="right" | '''5'''
+|-
+! style="background-color:#F0F071; width: 3px" |
+| style="width: 130px" | [[National Republican Party|National Republican]]
+| [[John Quincy Adams]]
+| align="right" | 4,082
+| align="right" | 46.99%
+| align="right" | 0
+|-
+|-bgcolor="#EEEEEE"
+| colspan="3" align="right" | '''Totals'''
+| align="right" | '''8,687'''
+| align="right" | '''100.0%'''
+| align="right" | '''5'''
+|}
+
+==References==
+{{reflist}}
+
+{{State Results of the 1828 U.S. presidential election}}
+
+[[Category:1828 United States presidential election by state|Louisiana]]
+[[Category:United States presidential elections in Louisiana|1828]]
+[[Category:1828 Louisiana elections]]
+
+
+{{Louisiana-election-stub}}

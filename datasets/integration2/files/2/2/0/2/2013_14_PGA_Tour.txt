@@ -1,0 +1,629 @@
+{{Infobox golf season
+| year           = 2013–14
+| tour           = PGA Tour
+| regular_season = {{Start date|2013|10|10}} – {{end date|2014|9|14}}
+| no_of_events   = 45
+| most_wins      = 3 (tie):<br>{{flagicon|NIR}} [[Rory McIlroy]]<br>{{flagicon|USA}} [[Jimmy Walker (golfer)|Jimmy Walker]]
+| honor1         = FedEx Cup winner
+| honoree1       = {{flagicon|USA}} [[Billy Horschel]]
+| honor2         = Money leader
+| honoree2       = {{flagicon|NIR}} [[Rory McIlroy]]
+| honor3         = Player of the Year
+| honoree3       = {{flagicon|NIR}} [[Rory McIlroy]]
+| honor4         = Rookie of the Year
+| honoree4       = {{flagicon|USA}} [[Chesson Hadley]]
+| prevseason     = [[2013 PGA Tour|2013]]
+| nextseason     = [[2014–15 PGA Tour|2014–15]]
+}}
+The '''2014 PGA Tour''' is the 99th season of the [[PGA Tour]], and the 47th since separating from the [[PGA of America]]. The season, which began on October 10, 2013, is the first to span two calendar years, with an October–September format.
+
+==Schedule==
+The following table lists the main season events for 2013–14.<ref>{{cite web |url=http://www.pgatour.com/news/2013/09/09/pga-tour-schedule-2013-2014.html |title=2013–14 PGA Tour schedule |publisher=PGA Tour |accessdate=September 9, 2013}}</ref> "Date" is the ending date of each event. The numbers in parentheses after the winners' names are the number of wins they had on tour up to and including that event. The "Status" column contains the [[PGA Tour#Event categories|PGA Tour event category]]. OWGR is the number of [[Official World Golf Ranking]] points awarded for that tournament.<ref>Each tournament is allocated a certain number of [[Official World Golf Ranking]] points for its champion, and points for lower finishes are based on a sliding scale. The major championships and the Players Championship have fixed allocations, but the points of the other tournaments depend on the strength of the field so they are not available in advance.</ref>
+
+The 2013–14 schedule includes 45 official money tournaments, and runs from October 10, 2013 to September 28, 2014.
+
+{| class="wikitable sortable" style="font-size:95%"
+!Date!!Tournament!!Location!!Winner!!OWGR<br/>points!!Purse ($)!!Winner's<br/>share ($)!!Notes
+|-
+|Oct 13
+|[[Frys.com Open (California)|Frys.com Open]]
+|[[California]]
+|{{flagicon|USA}} [[Jimmy Walker (golfer)|Jimmy Walker]] (1)
+|align=center|28
+|align=right|5,000,000
+|align=right|900,000
+|
+|-
+|Oct 20
+|[[Shriners Hospitals for Children Open]]
+|[[Nevada]]
+|{{flagicon|USA}} [[Webb Simpson]] (4)
+|align=center|36
+|align=right|6,000,000
+|align=right|1,080,000
+|
+|-
+|Oct 28
+|[[CIMB Classic]]
+|[[Malaysia]]
+|{{flagicon|USA}} [[Ryan Moore (golfer)|Ryan Moore]] (3)
+|align=center|48
+|align=right|7,000,000
+|align=right|1,260,000
+|Co-sanctioned with the [[Asian Tour]]
+|-style="background:#dfe2e9;"
+|Nov 3
+|[[2013 WGC-HSBC Champions|WGC-HSBC Champions]]
+|[[China]]
+|{{flagicon|USA}} [[Dustin Johnson]] (8)
+|align=center|66
+|align=right|8,500,000
+|align=right|1,400,000
+|[[World Golf Championships]]
+|-
+|Nov 10
+|[[McGladrey Classic]]
+|[[Georgia (U.S. state)|Georgia]]
+|{{flagicon|USA}} [[Chris Kirk]] (2)
+|align=center|32
+|align=right|5,500,000
+|align=right|990,000
+|
+|-
+|Nov 17
+|[[OHL Classic at Mayakoba]]
+|[[Mexico]]
+|{{flagicon|USA}} [[Harris English]] (2)
+|align=center|24
+|align=right|6,000,000
+|align=right|1,080,000
+|
+|-
+|Jan 6
+|[[Hyundai Tournament of Champions]]
+|[[Hawaii]]
+|{{flagicon|USA}} [[Zach Johnson]] (11) 
+|align=center|46
+|align=right|5,700,000
+|align=right|1,140,000
+|Winners-only event
+|-
+|Jan 12
+|[[Sony Open in Hawaii]]
+|[[Hawaii]]
+|{{flagicon|USA}} [[Jimmy Walker (golfer)|Jimmy Walker]] (2)
+|align=center|42
+|align=right|5,600,000
+|align=right|1,008,000
+|
+|-
+|Jan 19
+|[[Humana Challenge]]
+|[[California]]
+|{{flagicon|USA}} [[Patrick Reed]] (2) 
+|align=center|40
+|align=right|5,700,000
+|align=right|1,026,000
+|Pro-am
+|-
+|Jan 26
+|[[Farmers Insurance Open]]
+|[[California]]
+|{{flagicon|USA}} [[Scott Stallings]] (3) 
+|align=center|52
+|align=right|6,100,000
+|align=right|1,098,000
+|
+|-
+|Feb 2
+|[[Waste Management Phoenix Open]]
+|[[Arizona]]
+|{{flagicon|USA}} [[Kevin Stadler]] (1) 
+|align=center|52
+|align=right|6,200,000
+|align=right|1,116,000
+|
+|-
+|Feb 9
+|[[AT&T Pebble Beach National Pro-Am]]
+|[[California]]
+|{{flagicon|USA}} [[Jimmy Walker (golfer)|Jimmy Walker]] (3) 
+|align=center|44
+|align=right|6,600,000
+|align=right|1,188,000
+|Celebrity pro-am
+|-
+|Feb 16
+|[[Northern Trust Open]]
+|[[California]]
+|{{flagicon|USA}} [[Bubba Watson]] (5)
+|align=center|56
+|align=right|6,700,000
+|align=right|1,206,000
+|
+|-style="background:#dfe2e9;"
+|Feb 23
+|[[2014 WGC-Accenture Match Play Championship|WGC-Accenture Match Play Championship]]
+|[[Arizona]]
+|{{flagicon|AUS}} [[Jason Day]] (2) 
+|align=center|72
+|align=right|9,000,000
+|align=right|1,530,000
+|[[World Golf Championships]]
+|-
+|Mar 2
+|[[The Honda Classic]]
+|[[Florida]]
+|{{flagicon|USA}} [[Russell Henley]] (2)
+|align=center|60
+|align=right|6,000,000
+|align=right|1,080,000
+|
+|-style="background:#dfe2e9;"
+|Mar 9
+|[[2014 WGC-Cadillac Championship|WGC-Cadillac Championship]]
+|[[Florida]]
+|{{flagicon|USA}} [[Patrick Reed]] (3)
+|align=center|76
+|align=right|9,000,000
+|align=right|1,530,000
+|[[World Golf Championships]]
+|-
+|Mar 9
+|[[Puerto Rico Open]]
+|[[Puerto Rico]]
+|{{flagicon|USA}} [[Chesson Hadley]] (1) 
+|align=center|24
+|align=right|3,500,000
+|align=right|630,000
+|Alternate event
+|-
+|Mar 16
+|[[Valspar Championship]]
+|[[Florida]]
+|{{flagicon|AUS}} [[John Senden]] (2) 
+|align=center|50
+|align=right|5,700,000
+|align=right|1,026,000
+|
+|-
+|Mar 23
+|[[Arnold Palmer Invitational]]
+|[[Florida]]
+|{{flagicon|USA}} [[Matt Every]] (1) 
+|align=center|56
+|align=right|6,200,000
+|align=right|1,116,000
+|Invitational
+|-
+|Mar 30
+|[[Valero Texas Open]]
+|[[Texas]]
+|{{flagicon|AUS}} [[Steven Bowditch]] (1) 
+|align=center|40
+|align=right|6,200,000
+|align=right|1,116,000
+|
+|-
+|Apr 6
+|[[Shell Houston Open]]
+|[[Texas]]
+|{{flagicon|AUS}} [[Matt Jones (golfer)|Matt Jones]] (1)
+|align=center|58
+|align=right|6,400,000
+|align=right|1,152,000
+|
+|- style="background:#e5d1cb;"
+|Apr 13
+|'''[[2014 Masters Tournament|Masters Tournament]]'''
+|[[Georgia (U.S. state)|Georgia]]
+|{{flagicon|USA}} '''[[Bubba Watson]]''' (6)
+|align=center|100
+|align=right|9,000,000
+|align=right|1,620,000
+|[[Men's major golf championships|Major championship]]
+|-
+|Apr 20
+|[[RBC Heritage]]
+|[[South Carolina]]
+|{{flagicon|USA}} [[Matt Kuchar]] (7) 
+|align=center|50
+|align=right|5,800,000
+|align=right|1,044,000
+|Invitational
+|-
+|Apr 27
+|[[Zurich Classic of New Orleans]]
+|[[Louisiana]]
+|{{flagicon|KOR}} [[Noh Seung-yul]] (1) 
+|align=center|36
+|align=right|6,800,000
+|align=right|1,224,000
+|
+|-
+|May 4
+|[[Wells Fargo Championship]]
+|[[North Carolina]]
+|{{flagicon|USA}} [[J. B. Holmes]] (3) 
+|align=center|50
+|align=right|6,900,000
+|align=right|1,242,000
+|
+|- style="background:#f2ecce;"
+|May 11
+|[[2014 Players Championship|The Players Championship]]
+|[[Florida]]
+|{{flagicon|DEU}} [[Martin Kaymer]] (2) 
+|align=center|80
+|align=right|10,000,000
+|align=right|1,800,000
+|Flagship event
+|-
+|May 18
+|[[HP Byron Nelson Championship]]
+|[[Texas]]
+|{{flagicon|USA}} [[Brendon Todd]] (1) 
+|align=center|44
+|align=right|6,900,000
+|align=right|1,242,000
+|
+|-
+|May 25
+|[[Crowne Plaza Invitational at Colonial]]
+|[[Texas]]
+|{{flagicon|AUS}} [[Adam Scott (golfer)|Adam Scott]] (11) 
+|align=center|54
+|align=right|6,400,000
+|align=right|1,152,000
+|Invitational
+|-
+|Jun 1
+|[[The Memorial Tournament]]
+|[[Ohio]]
+|{{flagicon|JPN}} [[Hideki Matsuyama]] (1) 
+|align=center|64
+|align=right|6,200,000
+|align=right|1,116,000
+|Invitational
+|-
+|Jun 8
+|[[FedEx St. Jude Classic]]
+|[[Tennessee]]
+|{{flagicon|USA}} [[Ben Crane]] (5) 
+|align=center|42
+|align=right|5,800,000
+|align=right|1,044,000
+|
+|- style="background:#e5d1cb;"
+|Jun 15
+|'''[[2014 U.S. Open (golf)|U.S. Open]]'''
+|[[North Carolina]]
+|{{flagicon|DEU}} '''[[Martin Kaymer]]''' (3)
+|align=center|100
+|align=right|9,000,000
+|align=right|1,620,000
+|[[Men's major golf championships|Major championship]]
+|-
+|Jun 22
+|[[Travelers Championship]]
+|[[Connecticut]]
+|{{flagicon|USA}} [[Kevin Streelman]] (2) 
+|align=center|48
+|align=right|6,200,000
+|align=right|1,116,000
+|
+|-
+|Jun 29
+|[[Quicken Loans National]]
+|[[Maryland]]
+|{{flagicon|ENG}} [[Justin Rose]] (6) 
+|align=center|48
+|align=right|6,500,000
+|align=right|1,170,000
+|Invitational
+|-
+|Jul 6
+|[[Greenbrier Classic]]
+|[[West Virginia]]
+|{{flagicon|ARG}} [[Ángel Cabrera]] (3) 
+|align=center|42
+|align=right|6,500,000
+|align=right|1,170,000
+|
+|-
+|Jul 13
+|[[John Deere Classic]]
+|[[Illinois]]
+|{{flagicon|USA}} [[Brian Harman]] (1)
+|align=center|34
+|align=right|4,700,000
+|align=right|846,000
+|
+|- style="background:#e5d1cb;"
+|Jul 20
+|'''[[2014 Open Championship|The Open Championship]]''' (British Open) 
+|[[England]]
+|{{flagicon|NIR}} '''[[Rory McIlroy]]''' (7) 
+|align=center|100
+|align=right|9,226,000
+|align=right|1,665,788
+|[[Men's major golf championships|Major championship]]
+|-
+|Jul 27
+|[[RBC Canadian Open]]
+|[[Quebec]]
+|{{flagicon|ZAF}} [[Tim Clark (golfer)|Tim Clark]] (2)
+|align=center|36
+|align=right|5,700,000
+|align=right|1,026,000
+|
+|-style="background:#dfe2e9;"
+|Aug 3
+|[[2014 WGC-Bridgestone Invitational|WGC-Bridgestone Invitational]]
+|[[Ohio]]
+|{{flagicon|NIR}} [[Rory McIlroy]] (8) 
+|align=center|76
+|align=right|9,000,000
+|align=right|1,530,000
+|[[World Golf Championships]]
+|-
+|Aug 3
+|[[Barracuda Championship]]
+|[[Nevada]]
+|{{flagicon|AUS}} [[Geoff Ogilvy]] (8) 
+|align=center|24
+|align=right|3,000,000
+|align=right|540,000
+|Alternate event
+|- style="background:#e5d1cb;"
+|Aug 10
+|'''[[2014 PGA Championship|PGA Championship]]'''
+|[[Kentucky]]
+|{{flagicon|NIR}} '''[[Rory McIlroy]]''' (9) 
+|align=center|100
+|align=right|10,000,000
+|align=right|1,800,000
+|[[Men's major golf championships|Major championship]]
+|-
+|Aug 17
+|[[Wyndham Championship]]
+|[[North Carolina]]
+|{{flagicon|COL}} [[Camilo Villegas]] (4)
+|align=center|34
+|align=right|5,300,000
+|align=right|954,000
+|
+|- style="background:thistle;"
+|Aug 24
+|[[The Barclays]]
+|[[New Jersey]]
+|{{flagicon|USA}} [[Hunter Mahan]] (6)
+|align=center|74
+|align=right|8,000,000
+|align=right|1,440,000
+|[[2014 FedEx Cup Playoffs|FedEx Cup Playoffs]]
+|- style="background:thistle;"
+|Sep 1
+|[[Deutsche Bank Championship]]
+|[[Massachusetts]]
+|{{flagicon|USA}} [[Chris Kirk]] (3)
+|align=center|68
+|align=right|8,000,000
+|align=right|1,440,000
+|FedEx Cup Playoffs
+|- style="background:thistle;"
+|Sep 7
+|[[BMW Championship (PGA Tour)|BMW Championship]]
+|[[Colorado]]
+|{{flagicon|USA}} [[Billy Horschel]] (2)
+|align=center|70
+|align=right|8,000,000
+|align=right|1,440,000
+|FedEx Cup Playoffs
+|- style="background:thistle;"
+|Sep 14
+|[[Tour Championship]]
+|[[Georgia (U.S. state)|Georgia]]
+|{{flagicon|USA}} [[Billy Horschel]] (3)
+|align=center|58
+|align=right|8,000,000
+|align=right|1,440,000
+|FedEx Cup Playoffs
+|}
+
+===Unofficial events===
+The following events did not carry FedEx Cup points or official money.
+{| class="wikitable sortable" style="font-size:95%"
+!Date!!Tournament!!Location!!Winner(s)!!OWGR<br>points!!Purse ($)!!Winner's<br>share ($)!!Notes
+|-
+|Oct 16
+|[[PGA Grand Slam of Golf]]
+|[[Bermuda]]
+|{{flagicon|AUS}} [[Adam Scott (golfer)|Adam Scott]]
+|align=center|n/a
+|align=right|1,350,000
+|align=right|600,000
+|Four-player field
+|-
+|Nov 12
+|[[Wendy's 3-Tour Challenge]]
+|[[Nevada]]
+|[[LPGA Tour]] team
+|align=center|n/a
+|align=right|1,000,000
+|align=right|166,666
+|Three three-player teams
+|-
+|Nov 24
+|[[2013 World Cup of Golf|ISPS Handa World Cup of Golf]]
+|[[Australia]]
+|Individual: {{flagicon|AUS}} [[Jason Day]]<br/>Team: {{flagicon|AUS}} [[Jason Day]] & [[Adam Scott (golfer)|Adam Scott]]
+|align=center|40
+|align=right|7,000,000<br>1,000,000
+|align=right|1,200,000<br>600,000
+|Hybrid individual/team event
+|-
+|Dec 8
+|[[Northwestern Mutual World Challenge]]
+|[[California]]
+|{{flagicon|USA}} [[Zach Johnson]]
+|align=center|46
+|align=right|3,500,000
+|align=right|1,000,000
+|18-player field
+|-
+|Dec 15
+|[[Franklin Templeton Shootout]]
+|[[Florida]]
+|{{flagicon|USA}} [[Harris English]] &<br/>{{flagicon|USA}} [[Matt Kuchar]]
+|align=center|n/a
+|align=right|3,100,000
+|align=right|385,000
+|12 two-player teams
+|-
+|Dec 15
+|[[PNC Father-Son Challenge]]
+|[[Florida]]
+|{{flagicon|USA}} [[Stewart Cink]]<br/> & Connor Cink
+|align=center|n/a
+|align=right|1,085,000
+|align=right|200,000
+|20 two-player teams
+|-
+|Jun 24
+|[[CVS Caremark Charity Classic]]
+|[[Rhode Island]]
+|{{flagicon|USA}} [[Steve Stricker]] &<br/>{{flagicon|USA}} [[Bo Van Pelt]]
+|align=center|n/a
+|align=right|1,500,000
+|align=right|150,000<br>each
+|10 two-player teams
+|-
+|Sep 28
+|[[2014 Ryder Cup|Ryder Cup]]
+|[[Scotland]]
+|{{flagicon|Europe}} [[2014 Ryder Cup#Teams|Team Europe]]
+|align=center colspan=3|n/a
+|Two 12-man teams
+|}
+Source:<ref>{{cite web |url=https://www.pgatour.com/tournaments/schedule.history.2014.html |title=2014 Schedule |publisher=PGA Tour}}</ref>
+
+==Location of tournaments==
+
+{{Col-start}}
+{{Col-2}}
+{{Location map+ |United States |float=center |width=500 |caption=Location of official tournaments of the '''2014 PGA Tour''' in the continental United States and Canada.<br />[[File:Blue pog.svg|8px]] 600-point event ([[The Players Championship|Players]] & [[Men's major golf championships|Majors]])<br />[[File:Green pog.svg|8px]] 550-point event ([[World Golf Championships]])<br />[[File:Red pog.svg|8px]] 500-point event (Regular events)<br />[[File:Pink pog.svg|8px]] 300-point event (Alternate events)<br />[[File:Yellow pog.svg|8px]] FedEx Cup playoff event|places=
+{{location map~ |United States |lat=37.068 |long=-121.633 <!--|label= <div style="font-size:80%;">[[Frys.com Open]]</div>|position=left-->}}
+{{location map~ |United States |lat=36.188 |long=-115.298 <!--|label=<div style="font-size:80%;">[[Shriners Hospitals for Children Open]]</div> |position=right-->}}
+{{location map~ |United States |lat=31.138 |long=-81.406 <!--|label=<div style="font-size:80%;">[[McGladrey Classic]]</div> |position=right-->}}
+{{location map~ |United States |lat=33.643 |long=-116.268 <!--|label=<div style="font-size:80%;">[[Humana Challenge]]</div> |position=right-->}}
+{{location map~ |United States |lat=32.903 |long=-117.245 <!--|label=<div style="font-size:80%;">[[Farmers Insurance Open]]</div> |position=left-->}}
+{{location map~ |United States |lat=33.64 |long=-111.91 <!--|label=<div style="font-size:80%;">[[Waste Management Phoenix Open]]</div> |position=right-->}}
+{{location map~ |United States |lat=36.568 |long=-121.950 <!--|label=<div style="font-size:80%;">[[AT&T Pebble Beach National Pro-Am]]</div> |position=right-->}}
+{{location map~ |United States |lat=34.05 |long=-118.50 <!--|label=<div style="font-size:80%;">[[Northern Trust Open]]</div> |position=left-->}}
+{{location map~ |United States |lat=32.471 |long=-111.105|mark=Green pog.svg <!--|label=<div style="font-size:80%;">[[WGC-Accenture Match Play Championship]]</div> |position=left-->}}
+{{location map~ |United States |lat=26.829 |long=-80.141 <!--|label=<div style="font-size:80%;">[[The Honda Classic]]</div> |position=right-->}}
+{{location map~ |United States |lat=25.815 |long=-80.34|mark=Green pog.svg <!--|label=<div style="font-size:80%;">[[WGC-Cadillac Championship]]</div>|position=left-->}}
+{{location map~ |United States |lat=28.11 |long=-82.76 <!--|label=<div style="font-size:80%;">[[Valspar Championship]]</div> |position=left-->}}
+{{location map~ |United States |lat=28.458 |long=-81.511 <!--|label=<div style="font-size:80%;">[[Arnold Palmer Invitational]]</div> |position=right-->}}
+{{location map~ |United States |lat=29.665 |long=-98.40 <!--|label=<div style="font-size:80%;">[[Valero Texas Open]]</div> |position=left-->}}
+{{location map~ |United States |lat=29.924 |long=-95.261 <!--|label=<div style="font-size:80%;">[[Shell Houston Open]]</div> |position=left-->}}
+{{location map~ |United States |lat=33.503 |long=-82.020|mark=Blue pog.svg <!--|label=<div style="font-size:80%;">'''[[Masters Tournament]]'''</div> |position=right-->}}
+{{location map~ |United States |lat=32.136 |long=-80.810 <!--|label=<div style="font-size:80%;">[[RBC Heritage]]</div> |position=right-->}}
+{{location map~ |United States |lat=29.902 |long=-90.190 <!--|label=<div style="font-size:80%;">[[Zurich Classic of New Orleans]]</div> |position=left-->}}
+{{location map~ |United States |lat=35.1164 |long=-80.8425 <!--|label=<div style="font-size:80%;">[[Wells Fargo Championship]]</div> |position=right-->}}
+{{location map~ |United States |lat=30.198 |long=-81.394|mark=Blue pog.svg <!--|label=<div style="font-size:80%;">'''[[The Players Championship]]'''</div> |position=left-->}}
+{{location map~ |United States |lat=32.864 |long=-96.958 <!--|label=<div style="font-size:80%;">[[HP Byron Nelson Championship]]</div> |position=right-->}}
+{{location map~ |United States |lat=32.7170 |long=-97.3728 <!--|label=<div style="font-size:80%;">[[Crowne Plaza Invitational]]</div> |position=left-->}}
+{{location map~ |United States |lat=40.1404 |long=-83.1414 <!--|label=<div style="font-size:80%;">[[The Memorial Tournament]]</div> |position=left-->}}
+{{location map~ |United States |lat=35.057 |long=-89.779 <!--|label=<div style="font-size:80%;">[[FedEx St. Jude Classic]]</div> |position=left-->}}
+{{location map~ |United States |lat=35.19 |long=-79.468|mark=Blue pog.svg <!--|label=<div style="font-size:80%;">'''[[U.S. Open (golf)|U.S. Open]]'''</div> |position=right-->}}
+{{location map~ |United States |lat=38.996 |long=-77.177 <!--|label=<div style="font-size:80%;">[[Quicken Loans National]]</div> |position=left-->}}
+{{location map~ |United States |lat=41.632 |long=-72.639 <!--|label=<div style="font-size:80%;">[[Travelers Championship]]</div> |position=right-->}}
+{{location map~ |United States |lat=37.787 |long=-80.314 <!--|label=<div style="font-size:80%;">[[Greenbrier Classic]]</div> |position=left-->}}
+{{location map~ |United States |lat=41.477 |long=-90.392 <!--|label=<div style="font-size:80%;">[[John Deere Classic]]</div> |position=left-->}}
+{{location map~ |United States |lat=45.493 |long=-73.902 <!--|label=<div style="font-size:80%;">[[RBC Canadian Open]]</div> |position=left-->}}
+{{location map~ |United States |lat=39.3645 |long=-119.828|mark=Pink pog.svg <!--|label=<div style="font-size:80%;">[[Barracuda Championship]]</div> |position=right-->}}
+{{location map~ |United States |lat=41.008 |long=-81.508|mark=Green pog.svg <!--|label=<div style="font-size:80%;">[[WGC-Bridgestone Invitational]]</div> |position=left-->}}
+{{location map~ |United States |lat=38.242 |long=-85.472|mark=Blue pog.svg <!--|label=<div style="font-size:80%;">'''[[PGA Championship]]'''</div> |position=right-->}}
+{{location map~ |United States |lat=36.014 |long=-79.887 <!--|label=<div style="font-size:80%;">[[Wyndham Championship]]</div> |position=left-->}}
+{{location map~ |United States |lat=40.948 |long=-74.078|mark=Yellow pog.svg <!--|label=<div style="font-size:80%;">[[The Barclays]]</div> |position=left-->}}
+{{location map~ |United States |lat=41.982 |long=-71.223|mark=Yellow pog.svg <!--|label=<div style="font-size:80%;">[[Deutsche Bank Championship]]</div> |position=left-->}}
+{{location map~ |United States |lat=39.643 |long=-104.963|mark=Yellow pog.svg <!--|label=<div style="font-size:80%;">[[BMW Championship]]</div> |position=left-->}}
+{{location map~ |United States |lat=33.743 |long=-84.303|mark=Yellow pog.svg <!--|label=<div style="font-size:80%;">[[Tour Championship]]</div> |position=left-->}}
+}}
+{{Col-2}}
+{{Location map+ |World |float=center |width=500 |caption=Location of official tournaments of the '''2014 PGA Tour''' outside the continental United States and Canada.<br />[[File:Blue pog.svg|8px]] 600-point event ([[The Players Championship|Players]] & [[Men's major golf championships|Majors]])<br />[[File:Green pog.svg|8px]] 550-point event ([[World Golf Championships]])<br />[[File:Red pog.svg|8px]] 500-point event (Regular events)<br />[[File:Pink pog.svg|8px]] 300-point event (Alternate events)|places=
+ {{Location map~ |World |lat=18.405 |long=-65.799|mark=Pink pog.svg <!--|label=<div style="font-size:80%;">[[Puerto Rico Open]]</div>|position=right-->}}
+ {{Location map~ |World |lat=20.6895 |long=-87.0312 <!--|label=<div style="font-size:80%;">[[Mayakoba Golf Classic]]</div>|position=left-->}}
+ {{Location map~ |World |lat=3.139 |long=101.640 <!--|label=<div style="font-size:80%;">[[CIMB Classic]]</div>|position=left-->}}
+ {{Location map~ |World |lat=31.109 |long=121.216|mark=Green pog.svg <!--|label=<div style="font-size:80%;">[[WGC-HSBC Champions]]</div>|position=left-->}}
+ {{Location map~ |World |lat=21.006 |long=-156.64 <!--|label=<div style="font-size:80%;">[[Tournament of Champions (golf)|Tournament of Champions]]</div>|position=right-->}}
+ {{Location map~ |World |lat=21.27 |long=-157.77 <!--|label=<div style="font-size:80%;">[[Sony Open in Hawaii]]</div>|position=left-->}}
+ {{Location map~ |World |lat=53.385 |long=-3.19|mark=Blue pog.svg <!--|label=<div style="font-size:80%;">'''[[The Open Championship]]'''</div>|position=left-->}}
+}}
+{{col-end}}
+
+==Money leaders==
+This section shows the final money leaders table.
+
+{| class="wikitable"
+!Rank !! Player !! Country !! Events !! Prize money ([[United States dollar|$]])
+|-
+| align=center|1 || [[Rory McIlroy]] || {{NIR}} || align=center|17 || align=center|8,280,096
+|-
+| align=center|2 || [[Bubba Watson]] || {{USA}} || align=center|21 || align=center|6,336,978
+|-
+| align=center|3 || [[Jim Furyk]] || {{USA}} || align=center|21 || align=center|5,987,395
+|-
+| align=center|4 || [[Jimmy Walker (golfer)|Jimmy Walker]] || {{USA}} || align=center|27 || align=center|5,787,016
+|-
+| align=center|5 || [[Sergio García]] || {{ESP}} || align=center|16 || align=center|4,939,606
+|-
+| align=center|6 || [[Chris Kirk]] || {{USA}} || align=center|28 || align=center|4,854,777
+|-
+| align=center|7 || [[Billy Horschel]] || {{USA}} || align=center|27 || align=center|4,814,787
+|-
+| align=center|8 || [[Rickie Fowler]] || {{USA}} || align=center|26 || align=center|4,806,117
+|-
+| align=center|9 || [[Matt Kuchar]] || {{USA}} || align=center|24 || align=center|4,695,515
+|-
+| align=center|10 || [[Martin Kaymer]] || {{DEU}} || align=center|19 || align=center|4,532,537
+|} 
+Source:<ref>{{cite web |url=https://www.pgatour.com/stats/stat.109.2014.html |title=Money Leaders – 2014 |publisher=PGA Tour}}</ref>
+
+==Awards==
+{| class="wikitable"
+!Award!!Winner!!Country
+|-
+| [[PGA Tour Player of the Year|PGA Tour Player of the Year (Jack Nicklaus Trophy)]] || [[Rory McIlroy]] || {{NIR}}
+|-
+| [[PGA Player of the Year]] || [[Rory McIlroy]] || {{NIR}}
+|-
+| [[PGA Tour#Money winners and most wins leaders|Money winner (Arnold Palmer Award)]] || [[Rory McIlroy]] || {{NIR}}
+|-
+| [[Vardon Trophy|Scoring leader (PGA – Vardon Trophy)]] || [[Rory McIlroy]] || {{NIR}}
+|-
+| [[Vardon Trophy|Scoring leader (PGA Tour – Byron Nelson Award)]] || [[Rory McIlroy]] || {{NIR}}
+|-
+| [[PGA Tour Rookie of the Year|Rookie of the Year]] || [[Chesson Hadley]] || {{USA}}
+|-
+| [[FedEx Cup]] || [[Billy Horschel]] || {{USA}}
+|}
+
+==See also==
+*[[2014 European Tour]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.pgatour.com/tournaments/schedule.html Official Site]
+*[http://espn.go.com/golf/schedule 2014 PGA Tour at ESPN]
+
+{{PGA Tour Seasons}}
+
+{{DEFAULTSORT:2013-14 PGA Tour}}
+[[Category:PGA Tour seasons]]
+[[Category:2013 in golf|PGA Tour]]
+[[Category:2014 in golf|PGA Tour]]

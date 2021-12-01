@@ -1,0 +1,53 @@
+{{SSPa}}
+===[[User:Yankees10]]===
+;Suspected sockpuppeteer
+{{user5|1=Yankees10}}<br>
+<!-- Do not edit above this line.  Add suspected sock puppets and IP addresses below this line -->
+
+;Suspected sockpuppets
+<s>{{user5|1=Bucs10}}</s><br>
+{{user5|1=Star QB}}<br>
+
+<!--If there are additional suspected sockpuppets to be included, add them above this comment using the form {{user5|1=SOCKPUPPET}}<br>, replacing SOCKPUPPET in each case with the user name that you suspect is a sockpuppet of the puppetmaster. (Leave out the "User:" prefix.)  Leave the <br> tag after each one and add or remove lines as necessary.  Remove this comment once completed. -->
+
+;Report submission by 
+<!--Sign your name BELOW this comment line with 4 tilde characters "~~~~" -->
+
+<!--Do not use "==" or "===" style headers in this report.  Such headers disorganize the report page.  Please use ";" style (as below)-->
+
+;Evidence
+<s>The first sockpuppet is pretty cut and dry.  Yankees10 even says on the very beginning of his [http://en.wikipedia.org/wiki/User:Yankees10 user page] that he used to be Bucs10.  This alone wouldn't be a problem but Yankees10 was [http://en.wikipedia.org/w/index.php?title=Special:Log&type=block&page=User:Yankees10 blocked] a couple of weeks ago for edit warring (something he was [http://en.wikipedia.org/w/index.php?title=Special:Log&type=block&page=User:Bucs10 blocked for under Bucs10 also] in the past.)  During this time Yankees10 was blocked he did not stop editing, he just edited with Bucs10 instead.  Altogether he made [http://en.wikipedia.org/w/index.php?title=Special:Contributions&limit=500&target=Bucs10&month=&year= 88 edits while blocked.]  This, of course, violates Wikipedia rules on [http://en.wikipedia.org/wiki/Wikipedia:Sockpuppet#Circumventing_policy circumventing policy with sockpuppets.]  A day after his block was over, he stopped using Bucs10.  Aday after that he redirected his Bucs10 user page and talk page to Yankees10's user page and talk page.
+
+Not only that, but Wikipedia policy is for a block of 24hrs on the first 3RR violation and longer for subsequent violations.  Yankees10 was only blocked for 24hrs because the admins didn't know he'd been blocked twice before.  If they had known this he would've been blocked for longer.  In addition to this, when he was being reported for violating 3RR he [http://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators%27_noticeboard/3RR&diff=prev&oldid=208448183 claimed he didn't know about the 3RR rule] when in fact he had been blocked before for violating 3RR on his Bucs10 account.  Because he claimed he didn't know any better they were a lot more leniant and it took another incident to finally incurr the block.</s> Bucs10 last post was 2007 not 2008[[User:Fromos|Fromos]] ([[User talk:Fromos|talk]]) 19:47, 17 May 2008 (UTC)
+
+The 2nd sockpuppet keeps coming in to side with Yankees10 during his disputes (when often it is only him and Yankees10 on his side.)  This can be seen [http://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Baseball&diff=prev&oldid=212350195 here] and [http://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_National_Football_League&diff=prev&oldid=210496697 here].  If he is indeed an additional sockpuppet, this would violate [http://en.wikipedia.org/wiki/Wikipedia:Sockpuppet#Voting_and_other_shows_of_support Wikipedia policy on using sockpuppets for the purpose of deception, distraction, or to create the illusion of broader support for a position than actually exists.]  He also has a similar writing style and posts on all the same topics.
+
+
+;Comments
+What the hell is this, I dont use the name Bucs10 anymore because I forgot the password, and secondly I dont know who the hell this Star QB guy is--[[User:Yankees10|Yankees10]] 19:21, 17 May 2008 (UTC)
+
+:Whether or not Yankees10 remembers the password for Bucs10 anymore, Bucs10's last edit was in that time frame in '''2007''', so there's no way that Bucs10 could've possibly been used to circumvent a block. ''[[User:Ksy92003|<font color="darkred">Ksy92003</font>]]'' ([[User talk:Ksy92003|<font color="#083c6b">talk</font>]]) 19:23, 17 May 2008 (UTC)
+
+::Ksy, you were another one I was thinking maybe was a sockpuppet of Yankees10 because I notice you in on a lot of his discussions and a lot of similar habits.  I didn't have enough evidence to list you so I didn't.  But now that you post here within 5 mins of this page being created (and just two minutes after Yankees10 first posted) it makes me think again about it. [[User:Fromos|Fromos]] ([[User talk:Fromos|talk]]) 19:27, 17 May 2008 (UTC)
+
+:::I can say with 100% certainty that I am not a sockpuppet of Yankees10. I have encountered Yankees10 in the past, and his talk page is on my watchlist. I saw a post made to his talk page and was directed to this link from that location. ''[[User:Ksy92003|<font color="darkred">Ksy92003</font>]]'' ([[User talk:Ksy92003|<font color="#083c6b">talk</font>]]) 19:32, 17 May 2008 (UTC)
+
+::::Yeah, that encounter with him in the past is what changed my mind in not grouping you with StarQB, and looking back you're right about his last post as Bucs10- it was 2007 not 2008 [[User:Fromos|Fromos]] ([[User talk:Fromos|talk]]) 19:39, 17 May 2008 (UTC)
+
+Also looking at this Star QB guys page, there are so many differences its not even funny, hes black, I am white, he creates a bunch of football players articles that I would never think about creating, hes a Broncos fan, Im a Packers, the only similarity I see is we both are Yankee fans, which millions of other people like--[[User:Yankees10|Yankees10]] 19:29, 17 May 2008 (UTC)
+
+:We'll see what the admins say when they check into it.  I have a feeling StarQB is used by you to build a little more consensus toward your side.  If not, then that's cool, it just appears like he's a sockpuppet account is all. [[User:Fromos|Fromos]] ([[User talk:Fromos|talk]]) 19:43, 17 May 2008 (UTC)
+
+Well I can tell you right now its not--[[User:Yankees10|Yankees10]] 19:45, 17 May 2008 (UTC)
+
+What is this--[[User:Star QB|Star QB]] ([[User talk:Star QB|talk]]) 03:26, 21 May 2008 (UTC)
+
+:Haha wow, Fromos sure does seem to be starting up some shit. He has to be a sock of a somebody.►'''[[User:Chrisjnelson|<span style="color: #005e6a">Chris </span><span style="color: #DF6108">Nelson</span>]]'''<sup>''[[User talk:Chrisjnelson|Holla!]]''</sup> 21:14, 21 May 2008 (UTC)
+
+;Conclusions
+I've spent about 15 minutes reviewing this case including a look at the contribution logs in May 2008.  It's extremely unlikely that these two user accounts could be the same person.  If I absolutely must run a statistical analysis going back to 2007, because both accounts have been editing for a year, I can do it.  <s>In order to make me do that, though, you'll have to come up with diffs showing collusion (e.g. double voting) among these accounts.  You haven't even done that.  So basically, there is nothing to discuss.</s> [[User:Shalom|Shalom]] ([[User talk:Shalom|Hello]] • [[Special:Contributions/Shalom|Peace]]) 05:04, 30 May 2008 (UTC)
+:'''Clarification:''' the two diffs above are insufficient to prove that these are the same person.  Based on the essence of those statements, as well as the statistical evidence, it's likely that these are two different people, and I don't think any wrongdoing has occurred. [[User:Shalom|Shalom]] ([[User talk:Shalom|Hello]] • [[Special:Contributions/Shalom|Peace]]) 05:07, 30 May 2008 (UTC)
+
+----
+</div>
+<!-- DO NOT EDIT THE "----" NOR THE </div> KEEP THEM WHERE THEY ARE. REMEMBER TO SIGN! USING FOUR TILDES -->

@@ -1,0 +1,12 @@
+== Summary ==
+{{Non-free use rationale
+|Article=Zubin Khan
+|Description=A promotional photograph of [[Art Malik]] as [[Zubin Khan]] from the [[BBC]] television show ''[[Holby City]].''
+|Source=For promotion of the television show ''Holby City''.
+|Portion=Cropped and resized version of original, to use as little of the copyrighted work without misrepresenting the intended use or message.
+|Low_resolution=Yes, so as not to violate copyright laws. Copies made from it will be of inferior quality due to the reduction in size, and thus this image is unsuitable as artwork for pirated versions of series DVDs or other uses that would compete with the commercial purpose of the original artwork.
+|Purpose=The image serves as the primary means of visual identification of the subject, illustrating a single educational article. It is virtually impossible to accurately describe the character for a sufficient picture in one's mind with mere words.
+|Replaceability=As a promotional (nonfree) image, the image is not replaceable by free content; the copyright holders have not released similar images into public domain or allowed free use, and any other screenshot would be similarly copyrighted. While a free image of the actor could be found, any such version is not true to the original character and would be inadequate for identification or commentary.
+|other_information=Use will not affect the value of the original work that has been published elsewhere on the Internet or limit the copyright holder's rights or ability to distribute the original. In particular, copies could not be used to make illegal copies of the video.
+}}
+{{Non-free promotional|image has rationale=yes}}

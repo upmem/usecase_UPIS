@@ -1,0 +1,75 @@
+{{Infobox port
+| name = Malta Freeport
+| image =047.Freeport.jpg
+| image_size =230px
+| image_caption = View of the Malta Freeport
+| country =[[Malta]]
+| location =
+| coordinates =
+| opened = 1988<ref name="About"/>
+| operated = Malta Freeport Terminals Ltd
+| owner = Malta Freeport Corporation Ltd 
+| type = 
+| sizewater =
+| sizeland = about {{convert|0.771|km2|ha}}
+| size = 	
+| berths =
+| wharfs =
+| piers =
+| employees =
+| leadershiptitle =
+| leader =
+| blankdetailstitle1 =
+| blankdetails1 =
+| blankdetailstitle2 =
+| blankdetails2 =
+| blankdetailstitle3 =
+| blankdetails3 =
+| arrivals = 2,189<ref name="ContainerTerminals"/>
+| cargotonnage =
+| containervolume =3,060,000 [[Twenty-foot equivalent unit|TEU's]]<ref name="ContainerTerminals"/>
+| cargovalue =
+| passengertraffic = 
+| revenue = 
+| profit =
+| blankstatstitle1 =
+| blankstats1 =
+| blankstatstitle2 =
+| blankstats2 =
+| blankstatstitle3 =
+| blankstats3 =
+| website = http://www.maltafreeport.com.mt
+}}
+
+'''Malta Freeport''' is an international [[port]] on the island of [[Malta]] with a trade volume of 3.06 million [[Twenty-foot equivalent unit|TEUs]] in 2015.<ref name="ContainerTerminals">[http://www.maltafreeport.com.mt/content.aspx?id=107940 Container Terminals, Traffic] - Malta Freeport site</ref> It is one of [[List of busiest ports in Europe|busiest ports in Europe]]. It lies in [[Birżebbuġa]] in the southeastern part of Malta, on the site of the former seaplane base [[RAF Kalafrana]].
+
+Having been established in 1988, Malta Freeport was the first [[transshipment]] hub in the Mediterranean region. The company has experienced remarkable growth over the years and currently ranks twelfth among the top European ports and is the third largest transshipment and logistics centre in the Mediterranean region.  Over 95% of the [[Free trade zone|Freeport]]'s container traffic is transshipment business with demand growth triggering successive rounds of funding and ownership changes.
+
+As the [[Mediterranean Sea|Mediterranean's]] third largest transshipment port, Malta Freeport represents a strategic platform for the shipping lines that have chosen it as their Mediterranean [[Transport hub|hub]] port being located at the crossroads of some of the world's greatest shipping routes and in the heart of the [[Europe]], [[Africa]] and [[Asia]]n's [[Middle East]] triangle. Malta Freeport terminals will be increasing its quay length on both terminals from the present operational length of 2.2 kilometres to over 3 kilometres and the total area (from 680,000) to 790,000 square metres (0.79&nbsp;km<sup>2</sup>).<ref name="About">[http://www.maltafreeport.com.mt/freeport/content.aspx?id=107934 About Us] {{webarchive|url=https://web.archive.org/web/20100918030102/http://www.maltafreeport.com.mt/freeport/content.aspx?id=107934 |date=2010-09-18 }} - Malta Freeport site</ref>
+
+<gallery  widths="140px" heights="145px">
+File:Malta - Birzebbuga - Triq Kalafrana - Freeport centre 05 ies.jpg|Freeport Centre
+File:Malta_-_Birzebbuga_-_Triq_Kalafrana_-_Freeport_centre_02_ies.jpg|Freeport Monument
+File:Freeport, Malta.jpg
+File:Malta - Birzebbuga - Triq Kalafrana - Freeport (Triq San Patrizju) 05 ies.jpg
+</gallery>
+
+== See also ==
+*[[Grand Harbour]]
+*[[Marsamxett Harbour]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{commons category|Malta freeport}}
+*[https://web.archive.org/web/20100814160921/http://www.maltafreeport.com.mt/freeport/ Site of Malta Freeport]
+
+{{coord|35.818|14.54|display=title}}
+
+[[Category:Ports and harbours of Malta]]
+[[Category:Free ports]]
+[[Category:Birżebbuġa]]
+
+
+{{Malta-stub}}

@@ -1,0 +1,84 @@
+{{Infobox settlement
+|official_name          = Itaubal
+|nickname               =
+|motto                  =
+|image_skyline          =
+|imagesize              = 
+|image_caption          =
+|image_flag             = Itaubalbandeiraamabra.PNG
+|image_seal             = Itaubalbrasaoamapabra.jpg
+|image_map              = Amapa Municip Itaubal.jpg
+|mapsize                = 250px
+|map_caption            = Location of Itaubal in Amapá
+|subdivision_type  = [[List of sovereign states|Country]]
+|subdivision_type1 = [[Regions of Brazil|Region]]
+|subdivision_type2 = [[States of Brazil|State]]
+|subdivision_name  = {{flagicon|BRA}}  [[Brazil]]
+|subdivision_name1 = [[North Region, Brazil|North]]
+|subdivision_name2 = [[File:Bandeira do Amapá.svg|border|22px]] [[Amapá]]
+|leader_title           = Mayor
+|leader_name            = Victor Hugo Lopes Rodrigues
+|leader_party           = [[Brazilian Democratic Movement Party|PMDB]]
+|leader_title1          =
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|established_title      = 
+|established_date       = May 1, 1992
+|established_title2     =
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|area_magnitude         =
+|area_total_km2         = 1704
+|area_total_sq_mi       =
+|area_land_km2          =
+|area_land_sq_mi        =
+|area_water_km2         =
+|area_water_sq_mi       =
+|area_water_percent     =
+|area_urban_km2         =
+|area_urban_sq_mi       =
+|area_metro_km2         =
+|area_metro_sq_mi       =
+|pushpin_map            = Brazil
+|population_as_of       = 2010
+|population_note        =
+|population_total       = 4,026
+|population_density_km2 = 
+|population_density_sq_mi =
+|population_metro       =
+|population_footnotes   =
+|population_density_metro_km2 =
+|population_density_metro_sq_mi =
+|population_urban       =
+|timezone               = 
+|utc_offset             = -3
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|00|35|45|N|50|40|15|W|region:BR|display=inline}}
+|elevation_m            = 8.11
+|elevation_ft           =
+|postal_code_type       =
+|postal_code            =
+|blank_name             = 
+|blank_info             = 
+|website                = 
+}}
+'''Itaubal''' ({{IPA-pt|itawˈbaw|native}}) is a [[municipality]] located in the southeast of the state of [[Amapá]] in [[Brazil]]. Its population is 4,026 and its area is {{convert|1,704|km2|mi2}}. Itaubal is located {{Convert|112|km|mi}} from the state capitol of [[Macapá]]. It takes its name from the itaúba (''[[Mezilaurus itauba]]''), a valuable species of laurel. The tree was once found in great abundance in the region, but is now endangered. Itaubal is bordered to the southeast by the delta of the [[Amazon River]], and surrounded by Macapá to the southwest, west, and north.<ref name="gov"/>
+
+==References==
+
+{{reflist|2|refs=
+
+<ref name="gov">{{cite web | url = http://www.ap.gov.br/pagina.asp?id_pagina=65 | title = Itaubal do Piririm | year = 2015 | publisher = Governo do Estado do Amapá | location = Macapá, Amapá, Brazil | accessdate = 2015-02-12 | language = Portuguese | url-status = dead | archiveurl = https://web.archive.org/web/20150213043250/http://www.ap.gov.br/pagina.asp?id_pagina=65 | archivedate = 2015-02-13 }}</ref>
+
+}}
+{{Municipalities of Amapá}}
+
+[[Category:Municipalities in Amapá]]
+
+
+{{AmapáBR-geo-stub}}

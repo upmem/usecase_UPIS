@@ -1,0 +1,56 @@
+{{Infobox officeholder
+|name                = R. Kevin Clinton
+|image               = 
+|office = 45th [[Michigan State Treasurer|Treasurer of Michigan]]
+|governor = [[Rick Snyder]]
+|term_start          = November 1, 2013
+|term_end           = 2015
+|predecessor        = [[Andy Dillon]]
+|successor          = [[Nick Khouri]]
+|birth_date          = 
+|birth_place         = [[Detroit, Michigan]]
+|residence           = 
+|death_date          = 
+|death_place         = 
+|spouse              = 
+|children            = 
+|profession          =
+|website             = 
+|party               = 
+|alma_mater          = [[University of Michigan]]
+}}
+
+'''R. Kevin Clinton''' served as the 45th [[Michigan State Treasurer|Treasurer of Michigan]].
+
+==Early life==
+Clinton was born in [[Detroit, Michigan]].<ref name="mlive">{{cite web |URL=https://www.mlive.com/politics/2013/10/incoming_michigan_treasurer_ke.html|title=Next Michigan Treasurer Kevin Clinton plans 'mathematical models' to predict financial crises|publisher=[[mLive]] |accessdate=May 1, 2020}}</ref>
+
+==Education==
+Clinton earned a  B.A. in business administration and an M.A. in actuarial sciences from the [[University of Michigan]].<ref name="ballot">{{cite web |URL=https://ballotpedia.org/Kevin_Clinton|title=Kevin Clinton|publisher=[[Ballotpedia]] |accessdate=May 1, 2020}}</ref>
+
+==Career==
+Clinton has worked in the insurance business, serving as president and CEO of two companies, Americans Physicians Capital Inc. and MEEMIC.<ref name="mlive"/><ref name="ballot"/> Clinton appointed to the position of Michigan Commissioner of Insurance by Governor [[Rick Snyder]] on April 16, 2011 and served in this position until 2013.<ref name="mlive"/> On November 1, 2013, Clinton was again appointed by Governor Snyder, this time to the position of [[Michigan State Treasurer|Treasurer of Michigan]] on November 1, 2013, and served in this position until his resignation in 2015.<ref name="treas">{{cite web |URL=https://web.archive.org/web/20150115132850/http://michigan.gov/treasury/0,4679,7-121-1755---,00.html|title=Inside Treasury|publisher=[[Michigan State Treasurer]] |accessdate=May 1, 2020}}</ref><ref name="ballot"/> Clinton resigned to once again pursue business in the private sector. In 2017, Clinton was named director of the Michigan Catastrophic Claims Association.<ref name="detr">{{cite web |URL=https://www.crainsdetroit.com/article/20170222/NEWS/170229949/michigan-catastrophic-claims-association-names-new-executive-director|title=Michigan Catastrophic Claims Association names new executive director|publisher=[[Crain's Detroit Business]] |accessdate=May 1, 2020}}</ref>
+
+==References==
+{{reflist}}
+{{s-start}}
+{{s-off}}
+{{s-bef|before=[[Andy Dillon]]}}
+{{s-ttl|title=[[Michigan State Treasurer|Treasurer of Michigan]]|years=2013–2015}}
+{{s-aft|after=[[Nick Khouri]]}}
+{{s-end}}
+{{MITreasurers}}
+{{Authority control}}
+
+{{DEFAULTSORT:Clinton, R. Clinton}}
+[[Category:Living people]]
+[[Category:American actuaries]]
+[[Category:Businesspeople from Detroit]]
+[[Category:Politicians from Detroit]]
+[[Category:State treasurers of Michigan]]
+[[Category:University of Michigan alumni]]
+[[Category:21st-century American politicians]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{Michigan-politician-stub}}

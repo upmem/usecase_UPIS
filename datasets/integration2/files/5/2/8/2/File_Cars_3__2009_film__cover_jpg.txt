@@ -1,0 +1,11 @@
+==Summary==
+{{Non-free use rationale video cover
+| Article = Cars 3 (2009 film)
+| Use     = Infobox
+| Name    = [[Cars 3 (2009 film)|Cars 3]]
+| Owner   = [[Troma Entertainment]]
+| Source  = 
+}}
+
+==Licensing==
+{{non-free video cover|image has rationale=yes}}

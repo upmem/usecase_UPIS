@@ -1,0 +1,121 @@
+{{short description|Dutch cyclist}}
+{{Infobox cyclist
+| name           = Cees Bol
+| image          = Oudenaarde_-_Ronde_van_Vlaanderen_Beloften,_9_april_2016_(B125).JPG
+| image_size     =
+| caption        = Bol in 2016.
+| fullname       = Cees Bol
+| nickname       =
+| birth_date     = {{birth date and age|1995|7|27}}
+| birth_place    = [[Zaandam]], Netherlands
+| height         = 1.94m
+| weight         =
+| currentteam    = {{ct|SUN}}
+| discipline     = Road
+| role           = Rider
+| ridertype      = Sprinter
+| amateuryears1  =
+| amateurteam1   =
+| amateuryears2  =
+| amateurteam2   =
+| proyears1      = 2014–2016
+| proteam1       = {{ct|RB3|2014}}
+| proyears2      = 2017–2018
+| proteam2       = {{ct|SEG|2017}}
+| proyears3      = 2018
+| proteam3       = {{ct|SUN|2018}} ''(stagiaire)''
+| proyears4      = 2019–
+| proteam4       = {{ct|SUN|2019}}<ref>{{cite news|url=http://www.cyclingnews.com/news/team-sunweb-confirm-2019-mens-and-womens-rosters/|title=Team Sunweb confirm 2019 men's and women's rosters|work=[[Cyclingnews.com]]|publisher=[[Immediate Media Company]]|date=23 November 2018|accessdate=5 January 2019}}</ref>
+| majorwins      = '''[[Classic cycle races|One-day races and Classics]]'''
+:[[Nokere Koerse]] (2019)
+| medaltemplates =
+| show-medals    =
+}}
+'''Cees Bol''' (born 27 July 1995) is a Dutch cyclist, who currently rides for [[UCI WorldTeam]] {{ct|SUN}}.<ref>{{cite web|url=https://www.uci.org/road/teams/TeamDetail/13995/1000596/260|title=Team Sunweb|work=UCI.org|publisher=[[Union Cycliste Internationale]]|accessdate=3 January 2020|archiveurl=https://web.archive.org/web/20200103143329/https://www.uci.org/road/teams/TeamDetail/13995/1000596/260|archivedate=3 January 2020}}</ref> In July 2019, he was named in the startlist for the [[2019 Tour de France]].<ref>{{Cite web|url=https://www.procyclingstats.com/race/tour-de-france/2019/gc/startlist|title=2019: 106th Tour de France: Start List |accessdate=1 July 2019|work=ProCyclingStats}}</ref>
+
+==Major results==
+{{div col|colwidth=22em}}
+;2014
+: 10th Baronie Breda Classic
+;2016
+: 1st [[File:Jersey white.svg|20px]] Overall [[Olympia's Tour]]
+: 4th Overall [[Ronde de l'Oise]]
+: 4th Overall [[Paris–Arras Tour]]
+: 8th Overall [[Boucles de la Mayenne]]
+: 10th [[Grand Prix de la ville de Pérenchies]]
+: 10th [[Ronde van Vlaanderen U23]]
+;2018
+: 1st [[Flèche Ardennaise]]
+: 2nd Overall [[Circuit des Ardennes (cycling)|Circuit des Ardennes]]
+: 2nd [[Grote Prijs Marcel Kint]]
+: 2nd [[Arno Wallaard Memorial]]
+: 2nd [[Ronde van Noord-Holland]]
+: 3rd [[Lillehammer GP]]
+: 4th Overall [[Tour de Bretagne]]
+::1st [[File:Jersey green.svg|20px]] Points classification
+::1st Stage 5
+: 4th [[Midden–Brabant Poort Omloop]]
+: 5th [[Heistse Pijl]]
+: 5th [[Ronde van Overijssel]]
+: 7th [[Slag om Norg]]
+: 8th [[Gylne Gutuer]]
+: 9th [[Famenne Ardenne Classic]]
+: 10th [[Binche–Chimay–Binche]]
+;2019
+: 1st [[2019 Nokere Koerse|Nokere Koerse]]
+: 1st Stage 7 [[2019 Tour of California|Tour of California]]
+: 5th Overall [[2019 Tour of Norway|Tour of Norway]]
+::1st Stage 1
+: 5th [[Kampioenschap van Vlaanderen]]
+;2020
+: 1st Stage 3 [[2020 Volta ao Algarve|Volta ao Algarve]] 
+{{div col end}}
+
+===Grand Tour general classification results timeline===
+
+{| class="wikitable plainrowheaders"
+|-
+! scope="col" | [[Grand Tour (cycling)|Grand Tour]]
+! scope="col" | 2019
+! scope="col" | 2020
+|- style="text-align:center;"
+! scope="row" | [[File:Jersey pink.svg|20px|link=|alt=A pink jersey]] [[General classification in the Giro d'Italia|Giro d'Italia]]
+|—
+|—
+|- style="text-align:center;"
+! scope="row" | [[File:Jersey yellow.svg|20px|link=|alt=A yellow jersey]] [[General classification in the Tour de France|Tour de France]]
+|[[2019 Tour de France|DNF]]
+|[[2020 Tour de France|140]]
+|- style="text-align:center;"
+! scope="row" | [[File:Jersey red.svg|20px|link=|alt=A red jersey]] [[General classification in the Vuelta a España|Vuelta a España]]
+|—
+|—
+|}
+
+{| class="wikitable"
+|+ Legend
+|-
+! scope="row" | —
+| Did not compete
+|-
+! scope="row" | [[Did Not Finish|DNF]]
+| Did not finish
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons}}
+*{{Procyclingstats}}
+
+{{Team Sunweb (men's team) riders}}
+
+{{DEFAULTSORT:Bol, Cees}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Zaanstad]]
+[[Category:Dutch male cyclists]]
+[[Category:Tour de France cyclists]]
+
+{{Netherlands-cycling-bio-1990s-stub}}

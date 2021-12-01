@@ -1,0 +1,29 @@
+{{short description|Genus of beetles}}
+{{Taxobox
+| regnum = [[Animalia]]
+| phylum = [[Arthropoda]]
+| classis = [[Insecta]]
+| ordo = [[Coleoptera]]
+| subordo = [[Polyphaga]]
+| familia = [[Cerambycidae]]
+| genus = '''''Phacellocera'''''
+| genus_authority = Laporte, 1840
+| species = '''''P. plumicornis'''''
+| binomial = ''Phacellocera plumicornis''
+| binomial_authority = ([[Johann Christoph Friedrich Klug|Klug]], 1825)
+| synonyms = 
+}}
+
+'''''Phacellocera''''' is a [[monotypic]] beetle genus in the family [[Cerambycidae]] described by Laporte in 1840.<ref>[https://www.biolib.cz/en/taxon/id305913/ "Genus ''Phacellocera'' Laporte, 1840"]. ''BioLib''. Retrieved 9 November 2019.</ref> Its only species, '''''Phacellocera plumicornis''''', was described by [[Johann Christoph Friedrich Klug]] in 1825.<ref>Bezark, Larry G. [http://plant.cdfa.ca.gov/byciddb/bycidview.asp ''A Photographic Catalog of the Cerambycidae of the World''] {{Webarchive|url=https://web.archive.org/web/20130827211041/http://plant.cdfa.ca.gov/byciddb/bycidview.asp |date=2013-08-27 }}. Retrieved 22 May 2012.</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar |from=Q14814800}}
+
+[[Category:Anisocerini]]
+[[Category:Beetles described in 1825]]
+[[Category:Monotypic beetle genera]]
+
+
+{{Anisocerini-stub}}

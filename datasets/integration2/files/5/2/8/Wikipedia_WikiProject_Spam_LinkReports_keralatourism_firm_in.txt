@@ -1,0 +1,9 @@
+Reporting statistics of link keralatourism.firm.in; 1 records.
+* {{spamlink|keralatourism.firm.in}}.
+* keralatourism.firm.in resolves to [http://67.15.254.243 67.15.254.243] - {{spamlink|67.15.254.243}}.
+* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+* Link would be caught by rule \bkeralatourism\.firm\.in on the [[en:User:COIBot#Monitor list|monitor list]] ([[:en:User:COIBot#Monitor list|Automonitor]]: [[:en:WP:COI|conflict of interest]]? (calculated overlap Keralatourism <-> keralatourism.firm.in; [http://en.wikipedia.org/w/index.php?title=Tourism_in_Kerala&diff=172119884&oldid=171883286 diff])).
+
+Reports
+# 18:14:04, Sat Nov 17, 2007 [[:en:user:Keralatourism]] <-> keralatourism.firm.in (100%/68.42%/68.4% - calculated overlap Keralatourism <-> keralatourism.firm.in) - [[:en:Tourism_in_Kerala]] - [http://en.wikipedia.org/w/index.php?title=Tourism_in_Kerala&diff=172119884&oldid=171883286 diff] - [[Wikipedia:WikiProject Spam/UserReports/Keralatourism|COIBot UserReport]] - [[:en:Special:Contributions/Keralatourism]].
+COIBot reported 1 links.

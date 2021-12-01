@@ -1,0 +1,74 @@
+{{Use dmy dates|date=December 2017}}
+{{Use British English|date=December 2017}}
+{{Infobox album
+| name       = The Future Now
+| type       = studio
+| artist     = [[Peter Hammill]]
+| cover      = Peter Hammill The Future Now.jpg
+| released   = September 1978
+| recorded   = 18 March – 26 April 1978
+| genre      = [[Art rock]]
+| length     = 41:21
+| label      = [[Charisma Records|Charisma]]
+| producer   = Peter Hammill
+| prev_title = [[Over (album)|Over]]
+| prev_year  = 1977
+| year       = 1978
+| next_title = [[PH7 (Peter Hammill album)|pH7]]
+| next_year  = 1979
+}}
+{{Album ratings
+| rev1      = [[Allmusic]]
+| rev1Score = {{Rating|4.5|5}}<ref>{{Allmusic|class=album|id=r8894|first=François|last=Couture}}</ref>
+| rev2 = 
+| rev2score = 
+}}
+'''''The Future Now''''' is the seventh studio album by [[Peter Hammill]], released on Charisma Records in 1978. It was the first solo album Hammill released following the 1978 breakup of his band [[Van der Graaf Generator]], although he had released numerous solo albums while VdGG were active. The album contains twelve short songs, several in the [[new wave music|new wave]] style of VdGG's last studio album, ''[[The Quiet Zone/The Pleasure Dome]]''.
+
+The album cover shows a set of photographs by [[Brian_Griffin_(photographer) |Brian Griffin]], portraying Peter Hammill with half of his moustache and beard shaven.
+
+"If I Could" was re-worked for Hammill's 1984 album ''[[The Love Songs (Peter Hammill album)|The Love Songs]]''.
+
+==Track listing==
+All songs written by Peter Hammill.
+
+#"Pushing Thirty"
+#"The Second Hand"
+#"Trappings"
+#"The Mousetrap (Caught In)"
+#"Energy Vampires"
+#"If I Could"
+#"The Future Now"
+#"Still in the Dark"
+#"Mediaevil"
+#"A Motor-bike in Afrika"
+#"The Cut"
+#"Palinurus (Castaway)"
+
+;Bonus tracks:Recorded live at the All Souls Unitarian Church, [[Kansas City, Missouri|Kansas City]], on 16 February 1978
+#<li value="13">"If I Could"
+#"The Mousetrap (Caught In)"
+
+== Personnel ==
+*Peter Hammill – guitars, vocals, keyboards, harmonica, electronics
+*[[David Jackson (rock musician)|David Jackson]] – saxophone (1, 2, 12)
+*[[String Driven Thing|Graham Smith]] – violin (5, 6, 12)
+
+===Technical===
+*Peter Hammill - recording engineer (Sofa Sound, Byfleet, Surrey)<ref>{{cite web|url=http://sofasound.com/phcds/tfncd.htm|first=Peter|last=Hammill|title=''The Future Now''|website=Sofa Sound|date=23 October 2006|accessdate=3 July 2019}}</ref>
+*Pat Moran – mixing ([[Rockfield Studios]], Monmouth)
+*[[Brian_Griffin_(photographer) |Brian Griffin]] – photography
+
+==References==
+{{Reflist}}
+
+== External links ==
+*[http://www.sofasound.com/phcds/tfncd.htm Peter Hammill's notes on the album]
+
+{{Peter Hammill}}
+
+{{DEFAULTSORT:Future Now, The}}
+[[Category:Peter Hammill albums]]
+[[Category:1978 albums]]
+[[Category:Songs against racism and xenophobia]]
+[[Category:Charisma Records albums]]

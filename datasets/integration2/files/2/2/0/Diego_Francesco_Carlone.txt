@@ -1,0 +1,36 @@
+{{short description|Italian sculptor}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox person
+| name          = Diego Francesco Carlone
+| birth_date    = {{Birth year|1674}}
+| birth_place   = [[Alta Valle Intelvi|Scaria]]
+| death_date    = {{Death year and age|1750|1674|06}}
+| death_place   = 
+| nationality   = Italian
+| other_names   = 
+| occupation    = sculptor
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}
+[[File:Ellwangen St Vitus 3851.jpg|thumb|right|"Savior of the World", St. Vitus Basilica, [[Ellwangen]].]]
+ 
+'''Diego Francesco Carlone''' (1674 &ndash; 25 June 1750) was an Italian sculptor. He was born in [[Alta Valle Intelvi|Scaria]] into a family of artists. His father owned a workshop where Carlone learned the sculpting trade and eventually inherited the business. The workshop produced [[stucco]] decorations for a number of churches in the neighboring area. He died in 1750.<ref name="ref1">{{cite web|url=http://www.answers.com/topic/diego-francesco-carlone-1|title=Brief Bio Diego Francesco Carlone|accessdate=27 October 2009}}</ref>
+
+==References==
+{{Reflist}}
+
+{{commons category}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Carlone, Diego Francesco}}
+[[Category:1674 births]]
+[[Category:1750 deaths]]
+[[Category:People from the Province of Como]]
+[[Category:17th-century Italian sculptors]]
+[[Category:Italian male sculptors]]
+[[Category:18th-century Italian sculptors]]
+
+
+{{Italy-sculptor-stub}}

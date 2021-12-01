@@ -1,0 +1,65 @@
+{{Infobox film
+| name           = The Dead Don't Dream
+| image          = The Dead Don't Dream poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[George Archainbaud]]
+| producer       = [[Lewis J. Rachmil]]
+| screenplay     = Francis Rosenwald 	
+| starring       = [[William Boyd (actor)|William Boyd]]<br>[[Andy Clyde]]<br>[[Rand Brooks]]<br>Mary Ware<br>John Parrish<br>[[Leonard Penn]]
+| music          = [[Darrell Calker]]
+| cinematography = [[Mack Stengler]]
+| editing        = Fred W. Berger
+| studio         = Hopalong Cassidy Productions
+| distributor    = [[United Artists]]
+| released       = {{Film date|1948|4|30}}
+| runtime        = 62 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = 
+}}
+
+'''''The Dead Don't Dream''''' is a 1948 American [[Western (genre)|Western]] film directed by [[George Archainbaud]] and written by Francis Rosenwald. The picture stars [[William Boyd (actor)|William Boyd]], [[Andy Clyde]], [[Rand Brooks]], Mary Ware, John Parrish and [[Leonard Penn]], and was released in 1948 by [[United Artists]].<ref>{{cite web|url=http://www.tcm.com/tcmdb/title/72484/The-Dead-Don-t-Dream/|title=The Dead Don't Dream (1948) - Overview - TCM.com|work=Turner Classic Movies|accessdate=16 October 2014}}</ref><ref>{{cite web|url=http://movies.tvguide.com/the-dead-dont-dream/112454|title=The Dead Don't Dream|work=TV Guide|accessdate=16 October 2014}}</ref>
+
+==Plot==
+{{Expand section|date=October 2014}}
+
+== Cast ==
+* [[William Boyd (actor)|William Boyd]] as [[Hopalong Cassidy]]
+* [[Andy Clyde]] as California Carlson
+* [[Rand Brooks]] as Lucky Jenkins
+* Mary Ware as Mary Benton
+* John Parrish as Jeff Potter
+* [[Leonard Penn]] as Earl Wesson
+* [[Francis McDonald]] as Bart Lansing
+* [[Richard Alexander (actor)|Richard Alexander]] as Duke 
+* Bob Gabriel as Larry Potter
+* [[Stanley Andrews]] as Jesse Williams
+* Forbes Murray as Sheriff Tompson
+* [[Don Haggerty]] as Deputy Sheriff
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{IMDb title|0040276|The Dead Don't Dream}}
+* {{amg movie|23102}}
+* {{tcmdb title|id=72484}}
+* {{AFI film|id=25510|title=The Dead Don't Dream}}
+
+{{George Archainbaud}}
+
+{{DEFAULTSORT:Dead Don't Dream, The}}
+[[Category:1948 films]]
+[[Category:American films]]
+[[Category:American black-and-white films]]
+[[Category:English-language films]]
+[[Category:Films directed by George Archainbaud]]
+[[Category:United Artists films]]
+[[Category:American Western (genre) films]]
+[[Category:1948 Western (genre) films]]
+[[Category:Hopalong Cassidy films]]
+
+
+{{1940s-Western-film-stub}}

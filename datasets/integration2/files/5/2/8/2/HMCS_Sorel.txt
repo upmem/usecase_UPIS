@@ -1,0 +1,116 @@
+{{Use dmy dates|date=August 2013}}
+{{Use British English|date=August 2013}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= HMCS Sorel.jpg
+|Ship caption= HMCS ''Sorel''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Canada
+|Ship flag={{shipboxflag|Canada|naval-1911}}
+|Ship name= ''Sorel''
+|Ship namesake= [[Sorel-Tracy|Sorel, Quebec]]
+|Ship ordered= 22 January 1940
+|Ship awarded=
+|Ship builder= [[Marine Industries|Marine Industries Ltd.]], [[Sorel, Quebec]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down= 24 August 1940
+|Ship launched= 16 November 1940
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned= 19 August 1941
+|Ship recommissioned=
+|Ship decommissioned= 22 June 1945
+|Ship maiden voyage=
+|Ship in service=
+|Ship out of service= 
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=[[Pennant number]]: K153
+|Ship motto=
+|Ship nickname=
+|Ship honours= Atlantic 1941–45, North Sea 1942<ref name=Britain>{{cite web|title= Battle Honours | url=http://www.britainsnavy.co.uk/Battle%20Honours/A%20Battle%20Honour%20Date.htm#1900|work=Britain's Navy|accessdate=24 August 2013}}</ref>
+|Ship honors=
+|Ship captured=
+|Ship fate= sold for scrapping.
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass2-|Flower|corvette}}(original)<ref name=lenton>{{cite book|last=Lenton |first=H.T. |last2=Colledge |first2=J.J |year=1968 |title=British and Dominion Warships of World War II |publisher=Doubleday & Company |pages=201, 212 |isbn=}}</ref>
+|Ship displacement= {{convert|950|LT|t ST|lk=in}}
+|Ship length=  {{convert|205|ft|m|2|abbr=on}}
+|Ship beam=  {{convert|33|ft|m|2|abbr=on}}
+|Ship height=
+|Ship draught= {{convert|11.5|ft|m|2|abbr=on}}
+|Ship power=
+|Ship propulsion= Single shaft;
+2 water tube boilers;
+1 4-cyl. triple expansion steam engine, {{convert|2750|hp|abbr=on}}
+|Ship speed= {{convert|16|kn|km/h|1}}
+|Ship range= {{convert|3,450|nmi|abbr=on}} at {{convert|12|kn|abbr=on}}
+|Ship endurance=
+|Ship complement= 6 officers, 79 enlisted
+|Ship sensors=*Radar – SW1C or 2C (later)
+*Sonar – Type 123A, later Type 127DV
+|Ship EW=
+|Ship armament=*1 × [[BL 4 inch Mk IX naval gun|BL {{convert|4|in|mm|abbr=on|0}} Mk.IX]] single gun
+* 2 [[Vickers .50 machine gun|.50 cal machine gun]] twin
+* 2 [[Lewis gun|Lewis .303 cal]] mg twin
+* 2 Mk.II depth charge throwers
+* 2 depth charge rails with 40 depth charges.
+*Originally fitted with minesweeping gear, later removed.
+|Ship armour=
+|Ship notes=
+}}
+|}
+
+'''HMCS ''Sorel''''' was a {{sclass2-|Flower|corvette}} that served with the [[Royal Canadian Navy]] during the [[World War II|Second World War]]. She served primarily in the [[Battle of the Atlantic]] as an ocean escort. She is named for [[Sorel-Tracy|Sorel, Quebec]].<ref>When ''Sorel'' was built, Sorel was an independent town and was not associated yet with Tracy.</ref>
+
+==Background==
+{{main|Flower-class corvette}}
+Flower-class corvettes like ''Sorel'' serving with the Royal Canadian Navy during the Second World War were different from earlier and more traditional sail-driven corvettes.<ref>{{cite web |last=Ossian |first=Robert |url=http://www.thepirateking.com/ships/ship_types.htm |title=Complete List of Sailing Vessels |website=The Pirate King |accessdate=13 April 2011}}</ref><ref>{{cite book |editor-last=Fitzsimons |editor-first=Bernard |title=The Illustrated Encyclopedia of 20th Century Weapons & Warfare |location=London |publisher=Phoebus |year=1978 |volume=11 |pages=1137–1142 |isbn=}}</ref><ref name=Jane>{{cite book |title=Jane's Fighting Ships of World War II |location=New Jersey |publisher=Random House |year=1996 |isbn=0-517-67963-9 |page=[https://archive.org/details/janesfightingshi00fran/page/68 68] |url-access=registration |url=https://archive.org/details/janesfightingshi00fran/page/68 }}</ref> The "corvette" designation was created by the French for classes of small warships; the Royal Navy borrowed the term for a period but discontinued its use in 1877.<ref>{{cite book |last=Blake |first=Nicholas |last2=Lawrence |first2=Richard |title=The Illustrated Companion to Nelson's Navy |url=https://books.google.com/books?id=I59v6rkg8egC&pg=PA39 |publisher=Stackpole Books |year=2005 |pages=39–63 |isbn=0-8117-3275-4}}</ref> During the hurried preparations for war in the late 1930s, [[Winston Churchill]] reactivated the corvette class, needing a name for smaller ships used in an escort capacity, in this case based on a [[whaling ship]] design.<ref>{{cite book |last=Chesneau |first=Roger |last2=Gardiner |first2=Robert |title=Conway's All the World's Fighting Ships (1922–1946) |url=https://books.google.com/books?id=bJBMBvyQ83EC&pg=PA62 |publisher=Naval Institute Press |date=June 1980 |page=62 |isbn=0-87021-913-8}}</ref> The generic name "flower" was used to designate the class of these ships, which – in the Royal Navy – were named after flowering plants.<ref name=Milner>{{cite book |title=North Atlantic Run |last=Milner |first=Marc |publisher=Naval Institute Press |year=1985 |pages=117–119, 142–145, 158, 175–176, 226, 235, 285–291 |isbn=0-87021-450-0}}</ref>
+
+Corvettes commissioned by the Royal Canadian Navy during the Second World War were named after communities for the most part, to better represent the people who took part in building them. This idea was put forth by Admiral [[Percy W. Nelles]]. Sponsors were commonly associated with the community for which the ship was named. Royal Navy corvettes were designed as open sea escorts, while Canadian corvettes were developed for coastal auxiliary roles which was exemplified by their minesweeping gear. Eventually the Canadian corvettes would be modified to allow them to perform better on the open seas.<ref name=Macpherson2>{{cite book |last=Macpherson |first=Ken |last2=Milner |first2=Marc |year=1993 |title=Corvettes of the Royal Canadian Navy 1939–1945|publisher=Vanwell Publishing |location=St. Catharines |pages=|isbn=1-55125-052-7}}</ref>
+
+==Construction==
+''Sorel'' was ordered on 22 January 1940 as part of the 1939–1940 Flower-class building program. She was laid down by [[Marine Industries|Marine Industries Ltd.]] at [[Sorel, Quebec]] on 24 August 1940 and launched 16 November later that year.<ref name=uboat>{{cite web | url = http://uboat.net/allies/warships/ship/5579.html | work = Uboat.net | title = HMCS ''Sorel'' (K 153) | accessdate = 24 August 2013}}</ref> She was commissioned at Sorel on 19 August 1941.<ref name=Macpherson>{{cite book |last=Macpherson |first=Ken |last2=Burgess |first2=John |year=1981 |title=The ships of Canada's naval forces 1910–1981 : a complete pictorial history of Canadian warships |publisher=Collins |location=Toronto|pages=86, 231–232 |isbn=0-00216-856-1}}</ref>
+
+''Sorel'' had three major refits during her career. Her first took place after developing mechanical defects while on escort duty. She spent ten weeks beginning in January 1942 at [[Leith]] repairing. The second major overhaul took place between October 1942 and February 1943. It began at [[Liverpool, Nova Scotia]] but she was eventually transferred to [[Pictou, Nova Scotia|Pictou]] and [[Halifax, Nova Scotia|Halifax]] for completion.<ref name=Macpherson/> The final refit began in November 1943 and took until 31 March 1944 to complete.<ref name=uboat/> During this refit, begun at Halifax and completed at [[Dartmouth, Nova Scotia|Dartmouth]], ''Sorel'' had her [[fo'c'sle]] extended.<ref name=Macpherson/>
+
+==Service history==
+After arriving at Halifax for deployment, ''Sorel'' joined Sydney Force initially. In November 1941 she transferred to Newfoundland Command and became an ocean escort, protecting convoys between [[St. John's, Newfoundland and Labrador|St. John's]] and [[Iceland]]. On her second convoy she developed mechanical problems and continued on to the [[United Kingdom]] for repairs in January 1942. She returned to service briefly as an ocean escort in April 1942.<ref name=Macpherson/>
+
+In May 1942, ''Sorel'' joined the [[Western Local Escort Force]] (WLEF). She left the force in October 1942 after departing for a major refit. After workups, she became a training ship in February 1943. She was posted at [[Digby, Nova Scotia|Digby]], [[St. Margaret's Bay, Nova Scotia|St. Margaret's]] and Pictou for training purposes. In September 1943, she was temporarily assigned to [[Mid-Ocean Escort Force]] escort group C-3 before undergoing another refit beginning in November 1943.<ref name=Macpherson/>
+
+After returning to service in mid-1944 she was posted to the Western Escort Force escort group W-4. She remained with this unit for the rest of the war.<ref name=Macpherson/>
+
+''Sorel'' was [[paid off]] at [[Sydney, Nova Scotia]] on 22 June 1945. She was sold for scrap on 16 November 1945 and [[Ship breaking|broken up]] at [[Moncton, New Brunswick]].<ref name=uboat/><ref name=Macpherson/><ref name=miramar>{{csr|register=MSI|id=6112407|shipname=Sorel|accessdate=14 July 2016}}</ref>
+
+==Notes==
+{{reflist|30em}}
+
+==External links==
+{{refbegin}}
+* {{Cite web|url=http://www.hazegray.org/navhist/canada/ww2/flower/ |title= Flower Class|author=Hazegray |date=|work= Canadian Navy of Yesterday and Today |accessdate=24 August 2013}}
+* {{Cite web|url=http://www.readyayeready.com/ships/shipview.php?id=1388&ship=SOREL |title= HMCS Sorel |author=Ready, Aye, Ready |date=|work= |accessdate=24 August 2013}}
+{{refend}}
+
+{{Flower class corvette|original}}
+
+{{DEFAULTSORT:Sorel, HMCS}}
+[[Category:Ships of the Royal Canadian Navy]]
+[[Category:Flower-class corvettes of the Royal Canadian Navy]]
+[[Category:1940 ships]]

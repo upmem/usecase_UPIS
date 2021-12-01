@@ -1,0 +1,31 @@
+{{Infobox website
+|name             = {{Wiki favicon}} Kabyle Wikipedia
+|logo             = Wikipedia-logo-v2-kab.svg
+|screenshot       = 
+|collapsible      = yes
+|caption          =
+|url              = {{URL|kab.wikipedia.org}}
+|commercial       = [[Charity (practice)|Charitable]]
+|location         = [[Miami, Florida]]
+|launch_date      = April 2007
+|type             = [[Internet encyclopedia project]]
+|language         = [[Kabyle language]]
+|registration     = Optional
+|content_license  = [[Creative Commons]] [[ShareAlike]] License 3.0
+|owner            = [[Wikimedia Foundation]]
+|author           = 
+}}
+{{InterWiki|code=kab}}
+The '''Kabyle Wikipedia''' is the [[Kabyle language]] edition of [[Wikipedia]]. Launched in April 2007,<ref>[https://stats.wikimedia.org/EN/TablesWikipediaKAB.htm Statistics Table]</ref> It currently has {{NUMBEROF|ARTICLES|kab|N}} articles, making it the 209th largest [[Wikipedia]] by article count. This Wikipedia has 3 administrators along with 13,671 registered users and 25 active users.<ref>[https://wikistats.wmcloud.org/display.php?t=wp&s=good_desc List of Wikipedias]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[[:kab:Wikipedia:Fandraisana|Kabyle Wikipedia]]
+{{Wikipedias}}
+
+[[Category:Wikipedias by language]]
+
+
+{{wikipedia-stub}}

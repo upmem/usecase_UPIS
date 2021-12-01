@@ -1,0 +1,47 @@
+{{short description|Former railway station in Devon, England}}
+{{Use dmy dates|date=February 2018}}
+{{Use British English|date=February 2018}}
+{{Infobox station
+| name                = Hatherleigh
+| status              = Disused
+| image               = Hatherleigh Railway Station.jpg
+| caption             = Note the two platforms
+| borough             = [[Hatherleigh]], [[West Devon]]
+| country             = United Kingdom
+| coordinates         = {{coord|50|49|47.91|N|4|5|3.48|W|type:railwaystation_region:GB|display=inline,title|format=dec}}
+| grid_name           = [[Ordnance Survey National Grid|Grid reference]]
+| grid_position       = {{gbmapscaled|SS533054|25|SS533054}}
+| platforms           = Two
+| postgroup           = [[North Devon and Cornwall Junction Light Railway]] (1925 to 1948)<br />[[Southern Region of British Railways]] (1948 to 1965)
+| years               = 27 July 1925
+| events              = Opened
+| years1              = 1 March 1965
+| events1             = Closed
+}}
+
+'''Hatherleigh Railway Station'''<ref>[http://www.hfstephens-museum.org.uk/pages/topics/budget/budget.htm Line engineer's residence]</ref> was a station<ref>[http://myweb.tiscali.co.uk/bobbacktrack/page/vol19magazineindexbutton.html Feature details]</ref> on the [[North Devon and Cornwall Junction Light Railway]] between [[Torrington railway station|Torrington]] and [[Halwill Junction railway station|Halwill Junction]], serving the town of [[Hatherleigh]]. Hatherleigh was the largest place with a station on the line, though the town was almost two miles away. Like others on this line, the station itself was small but it was a passing place on the mainly single-track railway. The stationmaster at Hatherleigh also looked after the other stations on the line, even those, such as [[Petrockstow railway station|Petrockstow]] and [[Hole railway station|Hole]], that were staffed.
+
+The line was opened in 1925 and was operated by the Southern Railway, though it remained a private line until it became part of the [[Southern Region of British Railways]] <ref>'''Branch Lines to Torrington''' Mitchell,V & Smith,K: Midhurst, Middleton Press,1994 {{ISBN|1-873793-37-5}}</ref> in 1948. The line closed in 1965<ref>"Discovering Britain's lost railways" Atterbury,P: Basingstoke, AA Publishing {{ISBN|978-0-7495-6370-7}}</ref> as part of the [[Beeching Axe|Beeching]] proposals, goods services having been withdrawn the previous year.
+
+==References==
+<references/>
+
+{{Disused Rail Start}}
+{{Rail line|previous=[[Meeth Halt railway station|Meeth]]|next=[[Hole railway station|Hole]]|route=  [[North Devon and Cornwall Junction Light Railway]] (1925 to 1948)<br /><small> [[Southern Region of British Railways]] (1948 to 1965)</small> |col=00008B}}
+{{end}}
+
+== See also ==
+*[[List of closed railway stations in Britain]]
+*[https://web.archive.org/web/20080705105424/http://www.colonelstephenssociety.org.uk/webpages/History.htm The Colonel Stephens Society]
+
+{{Ex stations on the North Devon and Cornwall Junction Light Railway}}
+
+[[Category:Disused railway stations in Devon]]
+[[Category:Former Southern Railway (UK) stations]]
+[[Category:Railway stations in Great Britain opened in 1925]]
+[[Category:Railway stations in Great Britain closed in 1965]]
+[[Category:Beeching closures in England]]
+[[Category:Hatherleigh]]
+
+
+{{SouthWestEngland-railstation-stub}}

@@ -1,0 +1,388 @@
+{{Infobox artist discography
+| Artist       = [[FKA Twigs]]
+| Image        = FKA Twigs 2015.jpg
+| Caption      = FKA Twigs performing in March 2015
+| Studio       = 2
+| EP           = 3
+| Singles      = 12
+| Music videos = 18
+| Option       = 1
+| Option name  = Promotional singles
+}}
+
+English singer and songwriter [[FKA Twigs]] has released two [[studio album]]s, three [[extended play]]s, twelve [[Single (music)|singles]] (including two as a featured artist), one [[promotional single]] and eighteen [[music video]]s.
+
+==Studio albums==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions and sales figures
+! scope="col" rowspan="2" style="width:6em;"| Title
+! scope="col" rowspan="2" style="width:16em;"| Details
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:11em;"| Sales
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Albums Chart|UK]]<br><ref name="UK">{{cite web |url=https://www.officialcharts.com/artist/30710/fka-twigs/ |title=FKA twigs {{!}} full Official Chart History |publisher=[[Official Charts Company]] |accessdate=5 June 2018}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br><ref>{{cite web |url=https://australian-charts.com/showinterpret.asp?interpret=FKA+Twigs |title=Discography FKA Twigs |website=australian-charts.com |accessdate=20 August 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ö3 Austria Top 40|AUT]]<br><ref>{{cite web |url=https://austriancharts.at/showinterpret.asp?interpret=FKA+Twigs |title=Discographie FKA Twigs |language=German |website=austriancharts.at |accessdate=23 August 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br>(FL)]]<br><ref name="BEL-FL">{{cite web |url=https://www.ultratop.be/nl/showinterpret.asp?interpret=FKA+Twigs |title=Discografie FKA Twigs |language=Dutch |publisher=[[Ultratop]] |accessdate=20 August 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br><ref name="FRA">{{cite web |url=https://lescharts.com/showinterpret.asp?interpret=FKA+Twigs |title=Discographie FKA Twigs |language=French |website=lescharts.com |accessdate=24 August 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br><ref>{{cite web |url=https://www.offiziellecharts.de/suche?artistId=FKA+Twigs |title=Discographie von FKA Twigs |language=German |publisher=Offizielle Deutsche Charts |accessdate=19 February 2016}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Albums Chart|IRE]]<br><ref name="IRE">{{cite web |url=http://irish-charts.com/showinterpret.asp?interpret=FKA+Twigs |title=Discography FKA Twigs |website=irish-charts.com |accessdate=20 August 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[MegaCharts|NL]]<br><ref>{{cite web |url=https://dutchcharts.nl/showinterpret.asp?interpret=FKA+Twigs |title=Discografie FKA Twigs |language=Dutch |website=dutchcharts.nl |accessdate=20 August 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br><ref name="NZ">{{cite web |url=https://charts.nz/showinterpret.asp?interpret=FKA+Twigs |title=Discography FKA Twigs |website=charts.nz |accessdate=20 August 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br><ref name="US">{{cite web |url={{BillboardURLbyName|artist=fka twigs|chart=Billboard 200}} |title=FKA Twigs Chart History: Billboard 200 |work=[[Billboard (magazine)|Billboard]] |accessdate=21 August 2014}}</ref>
+|-
+! scope="row"| ''[[LP1 (FKA Twigs album)|LP1]]''
+|
+* Released: 6 August 2014
+* Label: [[Young Turks (record label)|Young Turks]]
+* Formats: [[Compact disc|CD]], [[LP record|LP]], [[Music download|digital download]]
+| 16 || 30 || 42 || 16 || 94 || 50 || 33 || 60 || 38 || 30
+|
+* UK: 12,750<ref>{{cite web |last=Copsey |first=Rob |url=https://www.officialcharts.com/chart-news/barclaycard-mercury-prize-2014-the-real-winners-revealed-3243/ |title=Barclaycard Mercury Prize 2014: The real winners revealed |publisher=Official Charts Company |date=29 October 2014 |accessdate=29 October 2014}}</ref>
+* US: 77,000<ref name="billboard">{{cite web |url=https://www.billboard.com/articles/columns/chart-beat/6678337/dillon-francis-fires-up-first-no-1-on-top-danceelectronic-albums |title=Dillon Francis Fires Up First No. 1 on Top Dance/Electronic Albums |last=Murray |first=Gordon |work=Billboard |date=27 August 2015 |accessdate=19 September 2019}}</ref>
+|-
+! scope="row"| ''[[Magdalene (album)|Magdalene]]''
+|
+* Released: 8 November 2019
+* Label: Young Turks
+* Formats: CD, LP, digital download
+| 21 || 22 || 56 || 23 || 11 || 78 || 39 || 55 || 27 || 54
+|
+|}
+
+==Extended plays==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of extended plays, with selected chart positions and sales figures
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:21em;"| Details
+! scope="col" colspan="6"| Peak chart positions
+! scope="col" rowspan="2" style="width:9em;"| Sales
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br>(FL)]]<br><ref name="BEL-FL"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br><ref name="FRA"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br><ref name="NZ"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br><ref name="US"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dance/Electronic Albums|US<br>Dance]]<br><ref>{{cite web |url={{BillboardURLbyName|artist=fka twigs|chart=Dance Electronic Albums}} |title=FKA Twigs Chart History: Dance/Electronic Albums |work=Billboard |accessdate=23 August 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Independent Albums|US<br>Indie]]<br><ref>{{cite web |url={{BillboardURLbyName|artist=fka twigs|chart=Independent Albums}} |title=FKA Twigs Chart History: Independent Albums |work=Billboard |accessdate=22 October 2019}}</ref>
+|-
+! scope="row"| ''[[EP1 (FKA Twigs EP)|EP1]]''
+|
+* Released: 4 December 2012
+* Label: Self-released
+* Formats: [[Gramophone record|12-inch vinyl]], digital download
+| — || — || — || — || 11 || — 
+|
+|-
+! scope="row"| ''[[EP2 (FKA Twigs EP)|EP2]]''
+|
+* Released: 17 September 2013
+* Label: Young Turks
+* Formats: 12-inch vinyl, digital download
+| — || — || — || —{{efn|group=upper-alpha|"EP2" did not enter the Billboard 200, but peaked at number 13 on the [[Heatseekers Albums]] chart.<ref>{{cite web|url=https://www.billboard.com/music/fka-twigs/chart-history/TLN|title=FKA Twigs Chart History: Heatseekers Albums|work=Billboard|accessdate=17 January 2020}}</ref>}} || 5 || —
+|
+|-
+! scope="row"| ''[[M3LL155X]]''
+|
+* Released: 13 August 2015
+* Label: Young Turks
+* Formats: 12-inch vinyl, digital download
+| 193 || 184 || 30 || 63 || 2 || 5
+|
+* US: 7,000<ref name="billboard"/>
+|-
+| colspan="9" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory
+|}
+
+==Singles==
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:11em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="5"| Peak chart positions
+! scope="col" rowspan="2" style="width:11em;"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[UK Singles Chart|UK]]<br><ref>Peak chart positions for singles in the United Kingdom:
+* "Two Weeks": {{cite web |last=Zywietz |first=Tobias |url=http://www.zobbel.de/cluk/140809cluk.txt |title=CHART: CLUK Update 9.08.2014 (wk31) |website=Zobbel.de |accessdate=24 August 2014}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[UK Indie Chart|UK<br>Indie]]<br><ref>Peak chart positions for singles on the UK Indie Singles Chart:
+* "Two Weeks": {{cite web |url=https://www.officialcharts.com/charts/independent-singles-chart/20140817/130 |title=Official Independent Singles Chart Top 50 |publisher=Official Charts Company |date=17 August 2014 |accessdate=24 March 2015}}
+* "Cellophane": {{cite web |url=https://www.officialcharts.com/charts/independent-singles-chart/20190503/130/ |title=Official Independent Singles Chart Top 50 |publisher=Official Charts Company |date=3 May 2019 |accessdate=10 May 2019}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br>(FL)<br>Tip]]<br><ref name="BEL-FL"/>
+! scope="col" style="width:3em;font-size:90%;"| [[Official New Zealand Music Chart|NZ<br>Hot]]<br><ref name="NZHot">
+* "Cellophane":{{cite web|url=https://nztop40.co.nz/chart/hotsingles?chart=4628|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=May 6, 2019|accessdate=May 3, 2019}}
+* "Sad Day": {{cite web|url=https://nztop40.co.nz/chart/hotsingles?chart=4777|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=18 November 2019|accessdate=16 November 2019}}
+* "Ego Death": {{cite web|url=https://nztop40.co.nz/chart/hotsingles?chart=4880|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=6 July 2020|accessdate=3 July 2020}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Dance/Electronic Songs|US<br>Dance/<br>Elect.]]<br><ref name="DES">{{cite web|url=https://www.billboard.com/music/fka-twigs/chart-history/dance-electronic-songs|title=FKA Twigs Chart History: Dance/Electronic Songs|work=Billboard|accessdate=24 September 2019}}</ref>
+|-
+! scope="row"| "FKA x inc."<ref>{{cite web |url=https://itunes.apple.com/gb/album/fka-x-inc.-single/id826256136 |title=FKA x inc. – Single by FKA x inc. |website=[[iTunes Store]] |location=United Kingdom |accessdate=1 March 2016}}</ref> <br> {{small|(with [[inc. (band)|inc.]])}}
+| rowspan="4"| 2014
+| — || — || — || — || —
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "[[Two Weeks (FKA Twigs song)|Two Weeks]]"
+| 200 || 9 || 54 || — || —{{efn|group=upper-alpha|"Two Weeks" did not enter the Dance/Electronic Songs chart, but peaked at number 42 on the [[Dance/Electronic Digital Song Sales]] chart.<ref>{{cite web|url=https://www.billboard.com/music/fka-twigs/chart-history/dance-electronic-digital-song-sales|title=FKA Twigs Chart History: Dance/Electronic Digital Songs|work=Billboard|accessdate=28 May 2019}}</ref>}}
+| rowspan="3"| ''LP1''
+|-
+! scope="row"| "[[Pendulum (song)|Pendulum]]"
+| — || — || 91 || — || —
+|-
+! scope="row"| "Video Girl"<ref>{{cite web |url=http://www.bbc.co.uk/radio1/playlist?filter=new |title=BBC – Radio 1 – Playlist |publisher=[[BBC Radio 1]] |archiveurl=https://web.archive.org/web/20141014175536/http://www.bbc.co.uk/radio1/playlist?filter=new |archivedate=14 October 2014 |accessdate=3 March 2016}}</ref>
+| — || — || — || — || —
+|-
+! scope="row"| "In Time"<ref>{{cite web |url=http://www.bbc.co.uk/radio1/playlist?filter=new |title=BBC – Radio 1 – Playlist |publisher=BBC Radio 1 |archiveurl=https://web.archive.org/web/20150901220552/http://www.bbc.co.uk/radio1/playlist?filter=new |archivedate=1 September 2015 |accessdate=3 March 2016}}</ref>
+| 2015
+| — || — || — || — || —
+| ''M3LL155X''
+|-
+! scope="row"| "Good to Love"<ref>{{cite web |url=https://itunes.apple.com/gb/album/good-to-love-single/id1083092413 |title=Good to Love – Single by FKA twigs |website=iTunes Store |location=United Kingdom |accessdate=19 February 2016}}</ref>
+| 2016
+| — || — || — || — || —
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "[[Cellophane (FKA Twigs song)|Cellophane]]"
+|rowspan="4"| 2019
+| — || 46 || — || 30 || —
+| rowspan="4"| ''Magdalene''
+|-
+! scope="row"| "Holy Terrain"<br />{{small|(featuring [[Future (rapper)|Future]])}}<ref>{{cite web|url=https://www.highsnobiety.com/p/fka-twigs-holy-terrain-ft-future-release-date/|title=FKA twigs' Track "Holy Terrain" Ft. Future Drops This Monday|last=Hore-Thorburn|first=Isabelle|website=[[Highsnobiety]]|date=7 September 2019|accessdate=8 September 2019}}</ref>
+| — || — || — || — || 18
+|-
+! scope="row"| "Home with You"<ref>{{cite web|last1=Minsker|first1=Evan|last2=Monroe|first2=Jazz|url=https://pitchfork.com/news/fka-twigs-shares-video-for-new-song-home-with-you-watch/|title=FKA twigs Shares Video for New Song "Home With You": Watch|website=[[Pitchfork (website)|Pitchfork]]|date=7 October 2019|accessdate=23 October 2019}}</ref>
+| — || — || — || — || 32
+|-
+! scope="row"| "[[Sad Day (FKA Twigs song)|Sad Day]]"
+| — || — || — || 30 || 16
+|-
+| colspan="8" style="font-size:90%"| "—" denotes a recording that did not chart.
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of featured singles, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[UK Singles Chart|UK]]<br><ref>{{cite web|url=https://www.officialcharts.com/artist/58014/ty-dolla-sign-kanye-fka-twigs/|title=Ty Dollar Sign, Kanye West, FKA twigs {{!}} full Official Chart History|publisher=[[Official Charts Company]]|accessdate=10 July 2020}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br><ref>{{cite magazine|title=The ARIA Report: Week Commencing 13 July 2020|publisher=[[Australian Recording Industry Association]]|issue=1584|date=13 July 2020}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br/><ref name="CAN-singles"/>
+! scope="col" style="width:3em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref>{{cite web|url=https://www.offiziellecharts.de/suche?artistId=FKA+Twigs|title=Discographie von FKA Twigs|publisher=GfK Entertainment|accessdate=10 July 2020}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Irish Albums Chart|IRE]]<br><ref name="IRE"/>
+! scope="col" style="width:3em;font-size:90%;"| [[Official New Zealand Music Chart|NZ<br>Hot]]<br><ref>{{cite web|url=https://nztop40.co.nz/chart/hotsingles?chart=4889|title=Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=13 July 2020|accessdate=10 July 2020}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Scottish Singles and Albums Charts|SCO]]<br/><ref>{{cite web|url=http://www.officialcharts.com/charts/scottish-singles-chart/20200710/41/|title=Official Scottish Singles Sales Chart Top 100: 10 July 2020 – 16 July 2020|publisher=Official Charts Company|accessdate=10 July 2020}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWEVecka28">{{cite web|url=https://www.sverigetopplistan.se/chart/41?dspy=2020&dspp=28|title=Veckolista Singlar, vecka 28|publisher=[[Sverigetopplistan]]|accessdate=10 July 2020}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Bubbling Under Hot 100|US<br>Bub.]]<br/><ref name="BBUH100">{{cite web|url=https://www.billboard.com/music/fka-twigs/chart-history/bubbling-under-hot-100|title=FKA Twigs Chart History: Bubbling Under Hot 100|work=Billboard|accessdate=14 July 2020}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Hot R&B Songs|US<br>R&B]]<br/><ref>{{cite web|url=https://www.billboard.com/music/fka-twigs/chart-history/BST|title=FKA Twigs Chart History: Hot R&B Songs|work=Billboard|accessdate=14 July 2020}}</ref>
+|-
+! scope="row"| "[[Ego Death (song)|Ego Death]]"<br />{{small|([[Ty Dolla Sign|Ty Dolla $ign]] featuring [[Kanye West]], FKA twigs & [[Skrillex]])}}
+| rowspan="2" | 2020
+| 34 || 68 || 65 || 92 || 41 || 6 || 54 || 54 || 7 || 10
+| ''[[Featuring Ty Dolla $ign]]''
+|-
+! scope="row"| "Sum Bout U"<ref>{{cite web|last=Schatz|first=Lake|url=https://consequenceofsound.net/2020/08/stream-fka-twigs-645ar-sum-bout-u/|title=FKA twigs Links Up With Rapper 645AR for New Song "Sum Bout U": Stream|website=[[Consequence of Sound]]|date=4 August 2020|accessdate=14 August 2020}}</ref><br />{{small|(645AR featuring FKA twigs)}}
+| — || — || — || — || — || — || — || — || — || —
+| {{TBA}}
+|}
+
+==Promotional singles==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:10em;"| Title
+! scope="col"| Year
+! scope="col" style="width:8em;"| Album
+|-
+! scope="row"| "[[Water Me (FKA Twigs song)|Water Me]]"<ref>{{cite AV media notes |title="Water Me" |type=promotional CD-R single |others=[[FKA Twigs]] |publisher=[[Young Turks (record label)|Young Turks]] |year=2013 |id=YT098}}</ref>
+| 2013
+| ''EP2''
+|}
+
+==Guest appearances==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of non-single guest appearances, with other performing artists
+! scope="col" rowspan="1" style="width:15em;"| Title
+! scope="col" rowspan="1" style="width:1em;"| Year
+! scope="col" rowspan="1" style="width:20em;"| Other artist(s)
+! scope="col" rowspan="1" style="width:17em;"| Album
+|-
+! scope="row"| "Fukk Sleep"
+| 2018
+| [[ASAP Rocky]]
+| ''[[Testing (album)|Testing]]''
+|-
+! scope="row"| "Alucinao"
+| rowspan="4" |2020
+| [[Nicolas Jaar|Against All Logic]], Estado Unido
+| ''Illusions of Shameless Abundance''
+|-
+! scope="row"| "Judge Me (Interlude)"
+| [[Headie One]], [[Fred Again]]
+| ''GANG''
+|-
+! scope="row"| "[[If You're Too Shy (Let Me Know)]]" <br><small>(Uncredited background vocals)</small>
+| [[The 1975]]
+|''[[Notes on a Conditional Form]]''
+|-
+! scope="row"| "Strangers"
+| Slingbaum, [[Oumou Sangaré]], [[Nick Hakim]]
+| ''Slingbaum One''
+|}
+
+==Other charted songs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of other charted songs, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="7"| Peak chart positions
+! scope="col" rowspan="2" style="width:9em;"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Official Singles Chart|UK]]<br/><ref name="UK"/>
+! scope="col" style="width:3em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br/><ref name="CAN-singles">{{cite web|url=https://www.billboard.com/music/fka-twigs/chart-history/CAN|title=FKA Twigs Chart History: Canadian Hot 100|work=Billboard|accessdate=17 January 2020}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Official New Zealand Music Chart|NZ<br>Heat.]]<br/><ref>{{cite web|url=https://nztop40.co.nz/chart/singles?chart=4484|title=NZ Heatseeker Singles Chart|publisher=Recorded Music NZ|date=4 June 2018|accessdate=5 June 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br/><ref>{{cite web|url=http://swisscharts.com/showinterpret.asp?interpret=FKA+Twigs|title=Discography FKA Twigs|website=swisscharts.com|accessdate=5 June 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Bubbling Under Hot 100|US<br>Bub.]]<br/><ref name="BBUH100"/>
+! scope="col" style="width:3em;font-size:90%;"| [[Bubbling Under R&B/Hip-Hop Singles|US<br>R&B/HH<br>Bub.]]<br/><ref>{{cite web|url=https://www.billboard.com/music/fka-twigs/chart-history/bubbling-under-r-b-hip-hop-songs|title=FKA Twigs Chart History: Bubbling Under R&B/Hip-Hop Singles|work=Billboard|accessdate=5 June 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Dance/Electronic Songs|US<br>Dance/<br>Elect.]]<br><ref name="DES"/>
+|-
+! scope="row"| "[[Fukk Sleep]]"<br>{{small|([[ASAP Rocky]] featuring FKA Twigs)}}
+| 2018
+| 99 || 89 || 3 || 65 || 4 || 2 || — 
+| ''[[Testing (album)|Testing]]''
+|-
+! scope="row"| "Thousand Eyes"
+| rowspan="4"| 2019
+| — || — || — || — || — || — || 31
+| rowspan="4"| ''Magdalene''
+|-
+! scope="row"| "Mary Magdalene"
+| — || — || — || — || — || — || 32
+|-
+! scope="row"| "Fallen Alien"
+| — || — || — || — || — || — || 36
+|-
+! scope="row"| "Mirrored Heart"
+| — || — || — || — || — || — || 37
+|-
+| colspan="10" style="font-size:90%"| "—" denotes a recording that did not chart.
+|}
+
+==Music videos==
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of music videos, showing year released and directors
+! scope="col" style="width:10em;"| Title
+! scope="col"| Year
+! scope="col"| Director(s)
+! scope="col"| {{abbr|Ref.|References}}
+|-
+! scope="row"| "Hide" 
+| rowspan="4"| 2012
+| rowspan="4"| Grace Ladoja and FKA Twigs
+| <ref>{{cite web |last=Friedlander |first=Emilie |url=https://www.thefader.com/2013/10/14/miley-cyrus-sinead-o-connor-female-se/ |title=How FKA Twigs is Pushing Female Sexuality Beyond Miley Cyrus and Sinead |work=[[The Fader]] |date=14 October 2013 |accessdate=21 August 2014}}</ref>
+|-
+! scope="row"| "Ache"
+| <ref>{{cite web |last=Schnipper |first=Matthew |url=https://www.thefader.com/2012/08/20/video-twigs-ache/ |title=Video: Twigs, "Ache" |work=The Fader |date=20 August 2012 |accessdate=21 August 2014}}</ref>
+|-
+! scope="row"| "Breathe"
+| <ref name="fader">{{cite web |last=Zeichner |first=Naomi |url=https://www.thefader.com/2012/12/05/video-twigs-weak-spot/ |title=Video: Twigs, "Weak Spot" |work=The Fader |date=5 December 2012 |accessdate=21 August 2014}}</ref>
+|-
+! scope="row"| "Weak Spot"
+| <ref name="fader"/>
+|-
+! scope="row"| "How's That"
+| rowspan="3"| 2013
+| rowspan="2"| Jesse Kanda
+| <ref>{{cite web |url=http://www.promonews.tv/videos/2013/05/07/twigs-%E2%80%98how%E2%80%99s-that%E2%80%99-jesse-kanda |title=Twigs 'How's That' by Jesse Kanda |website=Promo News |date=7 May 2013 |accessdate=21 August 2014 |archive-url=https://web.archive.org/web/20180205000907/http://www.promonews.tv/videos/2013/05/07/twigs-%E2%80%98how%E2%80%99s-that%E2%80%99-jesse-kanda |archive-date=5 February 2018}}</ref>
+|-
+! scope="row"| "Water Me"
+| <ref>{{cite web |last=Gottlieb |first=Steven |url=http://www.videostatic.com/watch-it/2013/08/02/fka-twigs-water-me-jesse-kanda-dir |title=FKA Twigs "Water Me" (Jesse Kanda, dir.) |publisher=VideoStatic |date=2 August 2013 |accessdate=21 August 2014}}</ref>
+|-
+! scope="row"| "Papi Pacify"
+| Tom Beard and FKA Twigs
+| <ref>{{cite web |last=Knight |first=David |url=https://www.promonews.tv/videos/2013/10/02/fka-twigs-papi-pacify-tom-beard-and-fka-twigs/22032 |title=FKA Twigs 'Papi Pacify' by Tom Beard and FKA Twigs |website=Promo News |date=2 October 2013 |accessdate=15 November 2019}}</ref>
+|-
+! scope="row"| "FKA x inc."
+| rowspan="4"| 2014
+| Nick Walker and FKA Twigs
+| <ref>{{cite web |last=Rabineau |first=Jamie |url=https://www.videostatic.com/watch-it/2014/02/25/fka-twigs-nick-walker-fka-twigs-dir |title=FKA Twigs x INC (Nick Walker & FKA Twigs, dir.) |website=VideoStatic |date=25 February 2014 |accessdate=21 August 2014}}</ref>
+|-
+! scope="row"| "tw-Ache"
+| Tom Beard and FKA Twigs
+| <ref>{{cite web |url=https://www.dazeddigital.com/artsandculture/article/20382/1/fka-twigs-tw-ache |title=FKA twigs – tw-ache |work=[[Dazed]] |date=19 June 2014 |accessdate=21 August 2014}}</ref>
+|-
+! scope="row"| "Two Weeks"
+| [[Nabil Elderkin|Nabil]]
+| <ref>{{cite web |last=Gordon |first=Jeremy |url=https://pitchfork.com/news/55677-fka-twigs-shares-new-song-two-weeks/ |title=FKA twigs Shares New Song/Video "Two Weeks" |website=Pitchfork |date=23 June 2014 |accessdate=20 August 2014}}</ref>
+|-
+! scope="row"| "Video Girl"
+| Kahlil Joseph
+| <ref>{{cite web |last=Gordon |first=Jeremy |url=https://pitchfork.com/news/57250-fka-twigs-shares-video-girl-video/ |title=FKA Twigs Shares "Video Girl" Video |website=Pitchfork |date=29 October 2014 |accessdate=29 October 2014}}</ref>
+|-
+! scope="row"| "Pendulum"
+| rowspan="3"| 2015
+| rowspan="3"| FKA Twigs
+| <ref>{{cite web |last=Minsker |first=Evan |url=https://pitchfork.com/news/56194-fka-twigs-gets-tied-up-in-pendulum-video/ |title=FKA twigs Gets Tied Up in "Pendulum" Video |website=Pitchfork |date=14 January 2015 |accessdate=14 January 2015}}</ref>
+|-
+! scope="row"| "Glass & Patron"
+| <ref>{{cite web |last=Gordon |first=Jeremy |url=https://pitchfork.com/news/58932-fka-twigs-gives-birth-to-a-vogue-battle-in-the-glass-patron-video/ |title=FKA twigs Gives Birth to a Vogue Battle in the "Glass & Patron" Video |website=Pitchfork |date=23 March 2015 |accessdate=28 March 2015}}</ref>
+|-
+! scope="row"| "M3LL155X"
+| <ref>{{cite web |last=Reed |first=Ryan |url=https://www.rollingstone.com/music/news/watch-fka-twigs-lynchian-short-film-for-new-ep-20150813 |title=Watch FKA Twigs' Lynchian Short Film for New EP |work=[[Rolling Stone]] |date=13 August 2015 |accessdate=13 August 2015}}</ref>
+|-
+! scope="row"| "Good to Love"
+| 2016
+| FKA Twigs and Imma
+| <ref>{{cite web |last=Leight |first=Elias |url=https://www.thefader.com/2016/02/18/fka-twigs-good-to-love |title=FKA Twigs Shares "Good To Love" |work=The Fader |date=18 February 2016 |accessdate=19 February 2016}}</ref>
+|-
+! scope="row"| "Cellophane"
+| rowspan="3"| 2019
+| Andrew Thomas Huang
+| <ref>{{cite web |last=Darville |first=Jordan |url=https://www.thefader.com/2019/04/29/andrew-thomas-huang-fka-twigs-cellophane-music-video-director |title=The director of FKA twigs's "Cellophane" video on the long, painful journey to excellence |work=The Fader |date=29 April 2019 |accessdate=15 November 2019}}</ref>
+|-
+! scope="row"| "Holy Terrain"
+| FKA Twigs and Nick Walker
+| <ref>{{cite web |last=Hussey |first=Allison |url=https://pitchfork.com/news/watch-fka-twigs-and-future-video-for-new-song-holy-terrain/ |title=Watch FKA twigs and Future’s Video for New Song "holy terrain" |website=Pitchfork |date=9 September 2019 |accessdate=15 November 2019}}</ref>
+|-
+! scope="row"| "Home with You"
+| FKA Twigs
+| <ref>{{cite web |url=https://www.wonderlandmagazine.com/2019/10/07/fka-home-with-you-video/ |title=7 WONDERS: FKA TWIGS – “HOME WITH YOU” |website=Wonderland Magazine |date=7 October 2019 |accessdate=18 May 2020}}</ref>
+|-
+! scope="row"| "Sad Day"
+| 2020
+| [[Hiro Murai]]
+|
+|-
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of music videos, showing year released and directors
+! scope="col"| Title
+! scope="col"| Year
+! scope="col"| Director(s)
+! scope="col"| {{abbr|Ref.|References}}
+|-
+! scope="row"|"Fukk Sleep"<br/><small>(ASAP Rocky featuring FKA Twigs)</small>
+| 2018
+| Diana Kunst
+| <ref>https://www.xxlmag.com/asap-rocky-sleep-video-fka-twigs/</ref>
+|-
+|}
+
+==Notes==
+{{Notelist-ua}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://fkatwi.gs/}}
+* {{AllMusic|id=fka-twigs-mn0003145761|label=FKA Twigs}}
+* {{Discogs artist|FKA Twigs|FKA Twigs}}
+* {{MusicBrainz artist|id=1e4e9db7-5068-4a9c-bdd0-5777e47172c8|name=FKA Twigs}}
+
+{{FKA Twigs}}
+
+[[Category:Discographies of British artists]]
+[[Category:Electronic music discographies]]
+[[Category:Rhythm and blues discographies]]

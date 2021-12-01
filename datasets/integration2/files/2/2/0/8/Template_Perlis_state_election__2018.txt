@@ -1,0 +1,73 @@
+{{electiontable|Perlis state election, 2018|Summary of the 9 May 2018 [[Perlis State Legislative Assembly]] [[Perlis state election, 2018|election results]]}}
+|-
+! rowspan=2 colspan=4 style="background-color:#E9E9E9;text-align:center;" | Party
+! rowspan=2 style="background-color:#E9E9E9;text-align:center;" |Candidates
+! colspan=2 style="background-color:#E9E9E9;text-align:center;" |Vote
+! colspan=3 style="background-color:#E9E9E9;text-align:center;" |Seats
+|-
+! style="background-color:#E9E9E9;text-align:center;" |Votes
+! style="background-color:#E9E9E9;text-align:center;" |%
+! style="background-color:#E9E9E9;text-align:center;" |Won
+! style="background-color:#E9E9E9;text-align:center;" |%
+! style="background-color:#E9E9E9;text-align:center;" |+/–
+|-
+| style="background-color: {{Barisan Nasional/meta/color}};" |
+| colspan=2 style="text-align:left;" | '''[[Barisan Nasional|National Front]]'''{{efn|name=BN}} || '''BN''' || '''15''' || '''47,151''' || '''39.02''' || '''10''' || '''66.67''' || '''{{decrease}}3'''
+|-style="background:#EFEFEF;"
+| rowspan=2|
+| style="background-color: #E62020;" | 
+| style="text-align:left;" |[[File:UMNO (Malaysia).svg|frameless|30x30px]] [[United Malays National Organisation]] || UMNO || 13 || 42,543 || 35.21 || 9 || 60.00 || {{decrease}}3
+|-style="background:#EFEFEF;"
+| style="background-color: #0000FF;" | 
+| style="text-align:left;" |[[File:Flag of the Malaysian Chinese Association.svg|frameless|30x30px]] [[Malaysian Chinese Association]] || MCA || 2 || 4,608 || 3.81 || 1 || 6.67 || {{steady}}
+|-
+| style="background-color: {{Pakatan Harapan/meta/color}};" |
+| colspan=2 style="text-align:left;" |[[File:Pakatan Harapan Logo.svg|frameless|30x30px]] '''[[Pakatan Harapan]]'''{{efn|name=PH}} || '''PH''' || '''15''' || '''42,220''' || '''34.94''' || '''3''' || '''20.00''' ||'''{{increase}}2'''
+|-style="background:#EFEFEF;"
+| rowspan=4|
+| style="background-color: {{Parti Keadilan Rakyat/meta/color}};" |
+| style="text-align:left;" |[[File:Parti Keadilan Rakyat logo.svg|frameless|30x30px]] [[People's Justice Party]] || PKR || 5 || 17,935 || 14.84 || 3 || 20.00 || {{increase}}2
+|-style="background:#EFEFEF;"
+| style="background-color: {{Democratic Action Party/meta/color}};" |
+| style="text-align:left;" |[[File:Democratic Action Party Flag.svg|frameless|30x30px]] [[Democratic Action Party (Malaysia)|Democratic Action Party]]||DAP|| 1 || 2,620 || 2.17 || 0 || 0.00 || {{steady}}
+|-style="background:#EFEFEF;"
+| style="background-color: {{Malaysian United Indigenous Party/meta/color}};" |
+| style="text-align:left;" |[[File:Parti Pribumi Bersatu Malaysia Flag.svg|frameless|30x30px]] [[Malaysian United Indigenous Party]]||PPBM|| 5 || 12,562 || 10.40 || 0 || 0.00 || {{steady}}
+|-style="background:#EFEFEF;"
+| style="background-color: {{National Trust Party (Malaysia)/meta/color}};" |
+| style="text-align:left;" |[[File:Parti Amanah Negara Flag.svg|frameless|30x30px]] [[National Trust Party (Malaysia)|National Trust Party]]||AMANAH|| 4 || 9,103 || 7.53 || 0 || 0.00 || {{steady}}
+|-
+| style="background-color: {{Pan-Malaysian Islamic Party/meta/color}};" |
+| colspan=2 style="text-align:left;" |[[File:PAS logo.svg|frameless|30x30px]] '''[[Pan-Malaysian Islamic Party]]'''|| '''PAS''' || '''15''' || '''31,335''' || '''25.93''' || '''2''' || '''13.33''' ||'''{{increase}}1'''
+|-
+| style="background-color: {{Independent (politician)/meta/color}};" |
+| colspan=2 style="text-align:left;" |'''Independents'''||'''IND'''|| '''1''' || '''132''' || '''0.11''' || '''0''' || '''0.00''' || '''{{steady}}'''
+|-
+| style="text-align:left;" colspan="5" |Valid votes|| 120,838 ||rowspan=2 colspan="4" style="background-color:#dcdcdc"|
+|-
+| style="text-align:left;" colspan="5" |[[Spoilt vote|Invalid]]/[[blank vote]]s|| 2198
+|-
+| colspan="5" style="text-align:left;" | '''Total votes''' ([[voter turnout]]: 81.90%) || '''123,036''' || '''100.00''' || '''15''' || '''100.00''' || '''0'''
+|-
+| style="text-align:left;" colspan="5" |[[Abstention|Did not vote]]|| 27,185 ||rowspan="4" colspan="4" style="background-color:#dcdcdc"|
+|-
+| style="text-align:left;" colspan="5" |'''[[Voter registration|Registered voters]]'''||'''150,221'''
+|-
+| style="text-align:left;" colspan="5" |'''[[Voting age|Voting age population]]''' (aged 21 years and above)||''' '''
+|-
+| style="text-align:left;" colspan="5" |'''[[Demographics of Perlis|Perlis's population]]'''||''' '''
+|-
+| style="text-align:left;" colspan=10 |
+Source:<ref>{{cite web|title=GE14 Results|url=http://pru14result.bernama.com/result2018/perlis.php|website=pru14result.bernama.com|publisher=[[BERNAMA]]|accessdate=24 May 2018}}</ref><ref>{{cite web|title=Keputusan Terkini Dewan Undangan Negeri Perlis|url=http://pru14.spr.gov.my/#!/dun/9|website=pru14.spr.gov.my|publisher=[[Election Commission of Malaysia]]|accessdate=24 May 2018}}</ref>
+|}
+{{notes
+| refs =
+{{efn
+| name = BN
+| Contested using ''dacing'' election symbol on the ballot papers.
+}}
+{{efn
+| name = PH
+| Contested using [[People's Justice Party]] election symbol on the ballot papers.
+}}
+}}

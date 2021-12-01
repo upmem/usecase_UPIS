@@ -1,0 +1,72 @@
+{{Biathlon World Championships 2012}}
+The men's relay competition of the [[Biathlon World Championships 2012]] was held on March 9, 2012 at 15:15 local time.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SMRL/BT_C51B2_1.1.pdf Start list]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+== Results ==
+The race was started at 15:15.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SMRL/BT_C73C_1.0.pdf Final Results] {{webarchive |url=https://web.archive.org/web/20120317001300/http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SMRL/BT_C73C_1.0.pdf |date=March 17, 2012 }}</ref>
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Bib !! Team !! Time  !! Penalties (P+S) !! Deficit
+|-
+| {{gold01}} || 5 || align=left|{{NOR}}<br><small>[[Ole Einar Bjørndalen]]<br>[[Rune Brattsveen]]<br>[[Tarjei Bø]]<br>[[Emil Hegle Svendsen]]</small> ||'''1:17:26.8'''<br />20:13.5<br />19:19.5<br />19:02.4<br />18:51.4 ||'''0+1 1+6'''<br />0+0 1+3<br />0+0 0+2<br />0+1 0+1<br />0+0 0+0  ||
+|-
+| {{silver02}}|| 2 || align=left|{{FRA}}<br><small>[[Jean-Guillaume Béatrix]]<br>[[Simon Fourcade]]<br>[[Alexis Bœuf]]<br>[[Martin Fourcade]]</small> || '''1:17:56.5'''<br />19:23.4<br />19:35.1<br />19:18.1<br />19:39.9 ||'''0+5 0+5'''<br />0+1 0+1<br />0+1 0+1<br />0+1 0+0<br />0+2 0+3 ||+29.7
+|-
+| {{bronze03}} || 3 || align=left|{{GER}}<br><small>[[Simon Schempp]]<br>[[Andreas Birnbacher]]<br>[[Michael Greis]]<br>[[Arnd Peiffer]]</small> ||  '''1:18:19.8'''<br />19:33.6<br />19:35.8<br />19:34.0<br />19:36.4 ||'''0+4 0+6'''<br />0+0 0+1<br />0+1 0+3<br />0+2 0+0<br />0+1 0+2 ||+53.0
+|-
+| {{sort|04|4}}|| 7 || align=left|{{ITA}}<br><small>[[Christian de Lorenzi]]<br>[[Markus Windisch]]<br>[[Dominik Windisch]]<br>[[Lukas Hofer]]</small> || '''1:18:55.7'''<br />20:08.6<br />19:25.1<br />19:54.3<br />19:27.7 ||'''0+5 0+5'''<br />0+2 0+1<br />0+1 0+2<br />0+2 0+1<br />0+0 0+1 ||+1:28.9
+|-
+| {{sort|05|5}} || 6 || align=left|{{AUT}}<br><small>[[Simon Eder]]<br>[[Christoph Sumann]]<br>[[Daniel Mesotitsch]]<br>[[Dominik Landertinger]]</small> || '''1:19:05.7'''<br />19:48.8<br />19:57.9<br />19:19.0<br />20:00.0 ||'''0+1 0+2'''<br />0+0 0+0<br />0+1 0+0<br />0+0 0+0<br />0+0 0+2 ||+1:38.9
+|-
+| {{sort|06|6}}|| 1 || align=left|{{RUS}}<br><small>[[Anton Shipulin]]<br>[[Andrei Makoveev]]<br>[[Evgeniy Garanichev]]<br>[[Dmitry Malyshko]]</small> || '''1:19:10.9'''<br />19:21.9<br />19:37.2<br />20:18.0<br />19:53.8 ||'''0+7 1+5'''<br />0+1 0+1<br />0+1 0+1<br />0+2 1+3<br />0+3 0+0 ||+1:44.1
+|-
+| {{sort|07|7}}|| 13 || align=left|{{SUI}}<br><small>[[Ivan Joller]]<br>[[Benjamin Weger]]<br>[[Claudio Böckli]]<br>[[Simon Hallenbarter]]</small> || '''1:19:27.2'''<br />20:13.2<br />19:19.4<br />20:18.9<br />19:35.7 ||'''0+7 0+6'''<br />0+2 0+2<br />0+2 0+0<br />0+3 0+3<br />0+0 0+1 ||+2:00.4
+|-
+| {{sort|08|8}}|| 10 || align=left|{{UKR}}<br><small>[[Serhiy Semenov]]<br>[[Serguei Sednev]]<br>[[Artem Pryma]]<br>[[Andriy Deryzemlya]]</small> || '''1:19:53.6'''<br />19:23.1<br />20:11.1<br />20:18.1<br />20:01.3 ||'''0+2 0+7'''<br />0+0 0+0<br />0+0 0+3<br />0+1 0+2<br />0+1 0+2 ||+2:26.8
+|-
+| {{sort|09|9}}|| 11 || align=left|{{CZE}}<br><small>[[Michal Šlesingr]]<br>[[Zdeněk Vítek]]<br>[[Jaroslav Soukup]]<br>[[Ondřej Moravec]]</small> || '''1:20:15.0'''<br />19:27.5<br />21:37.1<br />19:27.5<br />19:42.9 ||'''0+2 3+7'''<br />0+1 0+2<br />0+0 3+3<br />0+0 0+1<br />0+1 0+1 ||+2:48.2
+|-
+| 10|| 12 || align=left|{{USA}}<br><small>[[Lowell Bailey]]<br>[[Jay Hakkinen]]<br>[[Tim Burke (biathlete)|Tim Burke]]<br>[[Leif Nordgren]]</small> || '''1:20:32.9'''<br />19:35.8<br />20:37.3<br />19:59.5<br />20:20.3 ||'''0+5 0+9'''<br />0+0 0+1<br />0+3 0+3<br />0+2 0+2<br />0+0 0+3 ||+3:06.1
+|-
+| 11|| 8 || align=left|{{BLR}}<br><small>[[Sergey Novikov (biathlete)|Sergey Novikov]]<br>[[Aliaksandr Babchyn]]<br>[[Vladimir Alenishko]]<br>[[Evgeny Abramenko]]</small> || '''1:20:36.1'''<br />20:13.5<br />20:13.4<br />20:10.9<br />19:58.3 ||'''0+5 0+4'''<br />0+2 0+1<br />0+2 0+1<br />0+0 0+2<br />0+1 0+0 ||+3:09.3
+|-
+| 12|| 15 || align=left|{{SVK}}<br><small>[[Dušan Šimočko]]<br>[[Matej Kazar]]<br>[[Martin Otcenas]]<br>[[Pavol Hurajt]]</small> || '''1:20:36.3'''<br />19:48.2<br />19:51.7<br />20:36.6<br />20:19.8 ||'''0+6 0+6'''<br />0+1 0+0<br />0+3 0+2<br />0+2 0+3<br />0+0 0+1 ||+3:09.5
+|-
+| 13|| 20 || align=left|{{CAN}}<br><small>[[Marc-André Bedard (biathlete)|Marc-André Bedard]]<br>[[Jean-Philippe Leguellec]]<br>[[Scott Perras]]<br>[[Nathan Smith (biathlete)|Nathan Smith]]</small> || '''1:20:47.2'''<br />20:48.9<br />19:37.5<br />19:58.1<br />20:22.7 ||'''1+6 0+4'''<br />1+3 0+1<br />0+0 0+1<br />0+2 0+1<br />0+1 0+1 ||+3:20.4
+|-
+| 14|| 9 || align=left|{{SLO}}<br><small>[[Klemen Bauer]]<br>[[Janez Marič]]<br>[[Vasja Rupnik]]<br>[[Peter Dokl]]</small> || '''1:21:45.9'''<br />19:30.7<br />20:37.9<br />20:28.2<br />21:09.1 ||'''0+5 1+11'''<br />0+1 0+2<br />0+3 0+3<br />0+1 0+3<br />0+0 1+3 ||+4:19.1
+|-
+| 15|| 24 || align=left|{{KAZ}}<br><small>[[Alexsandr Chervyhkov]]<br>[[Yan Savitskiy]]<br>[[Sergey Naumik]]<br>[[Alexandr Trifonov]]</small> || '''1:22:09.3'''<br />20:32.0<br />19:59.2<br />20:28.8<br />21:09.3 ||'''0+3 0+8'''<br />0+1 0+2<br />0+1 0+1<br />0+0 0+3<br />0+1 0+2 ||+4:42.5
+|-
+| 16|| 4 || align=left|{{SWE}}<br><small>[[Ted Armgren]]<br>[[Björn Ferry]]<br>[[Carl-Johan Bergman]]<br>[[Fredrik Lindström (biathlete)|Fredrik Lindström]]</small> || '''1:22:16.5'''<br />23:22.5<br />20:10.6<br />19:18.8<br />19:24.6 ||'''2+4 1+5'''<br />2+3 1+3<br />0+1 0+1<br />0+0 0+0<br />0+0 0+1 ||+4:49.7
+|-
+| 17|| 14 || align=left|{{BUL}}<br><small>[[Michail Kletcherov]]<br>[[Miroslav Kenanov]]<br>[[Vladimir Iliev]]<br>[[Krasimir Anev]]</small> || '''1:22:40.6'''<br />20:14.4<br />21:21.9<br />20:49.2<br />20:15.1 ||'''0+8 0+5'''<br />0+3 0+1<br />0+1 0+3<br />0+3 0+1<br />0+1 0+0 ||+5:13.8
+|-
+| 18|| 17 || align=left|{{EST}}<br><small>[[Kauri Koiv]]<br>[[Indrek Tobreluts]]<br>[[Roland Lessing]]<br>[[Danil Steptsenko]]</small> || '''1:23:41.8'''<br />20:25.0<br />20:45.0<br />20:00.7<br />22:31.1 ||'''0+3 4+6'''<br />0+0 0+0<br />0+0 1+3<br />0+0 0+0<br />0+3 3+3 ||+6:15.0
+|-
+| 19|| 19 || align=left|{{LAT}}<br><small>[[Edgars Piksons]]<br>[[Andrejs Rastorgujevs]]<br>[[Arturs Kolesnikovs]]<br>[[Rolands Puzulis]]</small> || '''LAP'''<br />20:17.5<br />20:48.6<br />22:08.8<br /><br />  ||'''0+5 1+6'''<br />0+1 0+0<br />0+3 0+3<br />0+1 1+3<br />0+0 0+0 || 
+|-
+| 20|| 23 || align=left|{{FIN}}<br><small>[[Jarkko Kauppinen]]<br>[[Timo Antila]]<br>[[Ahti Toivanen]]<br>[[Ville Simola]]</small> || '''LAP'''<br />20:36.2<br />21:56.7<br />21:04.4<br /><br />  ||'''2+6 2+11'''<br />0+0 1+3<br />1+3 1+3<br />1+3 0+2<br />0+0 0+3 || 
+|-
+| 21|| 21 || align=left|{{LTU}}<br><small>[[Tomas Kaukėnas]]<br>[[Karol Dombrovski]]<br>[[Karolis Zlatkauskas]]<br>[[Aleksandr Lavrinovic]]</small> || '''LAP'''<br />20:25.6<br />21:12.2<br />22:12.9<br /><br />  ||'''0+5 1+7'''<br />0+1 0+1<br />0+0 0+2<br />0+3 1+3<br />0+1 0+1 ||
+|-
+| 22|| 18 || align=left|{{POL}}<br><small>[[Krzysztof Plywaczyk]]<br>[[Tomasz Sikora]]<br>[[Adam Kwak]]<br>[[Lukasz Szczurek]]</small> ||  '''LAP'''<br />21:23.4<br />20:09.9<br />22:16.2<br /><br />  ||'''2+6 2+7'''<br />1+3 0+1<br />0+0 0+0<br />1+3 0+3<br />0+0 2+3 ||
+|-
+| 23|| 16 || align=left|{{JPN}}<br><small>[[Junji Nagai]]<br>[[Kazuya Inomata]]<br>[[Hidenori Isa]]<br>[[Ryo Tsunoda]]</small> || '''LAP'''<br />21:46.7<br />21:12.1<br />20:27.6<br /><br />  ||'''2+7 3+9'''<br />1+3 1+3<br />0+0 0+3<br />0+1 0+0<br />1+3 2+3 ||
+|-
+| 24|| 26 || align=left|{{CHN}}<br><small>[[Chen Haibin]]<br>[[Li Zhonghai]]<br>[[Ren Long]]<br>[[Zhang Chengye (biathlete)|Zhang Chengye]]</small> ||'''LAP'''<br />21:32.5<br />21:35.8<br />21:47.7<br /><br />  ||'''0+5 0+9'''<br />0+0 0+3<br />0+2 0+2<br />0+3 0+1<br />0+0 0+3 ||
+|-
+| 25|| 25 || align=left|{{SRB}}<br><small>[[Milanko Petrović]]<br>[[Damir Rastić]]<br>[[Edin Hodzić]]<br>[[Emir Hrkalović]]</small> ||  '''LAP'''<br />21:08.0<br />21:42.2<br />22:43.3<br /><br />  ||'''0+7 0+8'''<br />0+2 0+1<br />0+1 0+3<br />0+1 0+1<br />0+3 0+3 ||
+|-
+| 26|| 28 || align=left|{{BEL}}<br><small>[[Thorsten Langer]]<br>[[Pascal Langer]]<br>[[Thierry Langer]]<br>[[Vincent Naveau]]</small> || '''LAP'''<br />22:10.6<br />23:19.5<br />22:26.5<br /><br />  ||'''1+6 0+3'''<br />0+1 0+0<br />1+3 0+2<br />0+1 0+1<br />0+1 0+0 ||
+|-
+| 27|| 27 || align=left|{{KOR}}<br><small>[[Jun Je-Uk]]<br>[[Lee In-Bok]]<br>[[Kim Yong-Gyu]]<br>[[Kim Jong-Min (biathlete)|Kim Jong-Min]]</small> || '''LAP'''<br />22:16.1<br />22:18.7<br />23:03.1<br /><br />  ||'''3+10 1+7'''<br />2+3 0+0<br />0+2 0+3<br />0+2 1+3<br />1+3 0+1 ||
+|-
+| 28|| 22 || align=left|{{GBR2}}<br><small>[[Lee-Steve Jackson]]<br>[[Pete Beyer]]<br>[[Marcel Laponder]]<br>[[Ben Woolley]]</small> || '''LAP'''<br />20:53.2<br />22:49.4<br />22:12.8<br /><br />  ||'''0+7 3+7'''<br />0+3 0+0<br />0+1 0+2<br />0+2 0+2<br />0+1 3+3 ||
+|-
+| 29|| 29 || align=left|{{CRO}}<br><small>[[Jurica Veverec]]<br>[[Tomislav Crnković (biathlete)|Tomislav Crnković]]<br>[[Zvonimir Tadejević]]<br>[[Dino Butković]]</small> || '''LAP'''<br />24:00.9<br />25:57.4<br />26:14.6<br /><br />  ||'''1+5 3+9'''<br />0+0 2+3<br />1+3 1+3<br />0+1 0+2<br />0+1 0+1 ||
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Biathlon World Championships 2012 - Men's relay}}
+[[Category:Biathlon World Championships 2012]]

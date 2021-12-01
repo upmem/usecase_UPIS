@@ -1,0 +1,965 @@
+{{Use mdy dates|date=December 2018}}
+{{Infobox settlement
+| official_name                   = Racine, Wisconsin
+| settlement_type                 = [[City]]
+| nickname                        = The Belle City of the Lakes, The Kringle Capital of America, Kringleville, Invention City<ref>{{cite web |url=http://www.wisconsinhistory.org/Content.aspx?dsNav=Ny:True,Ro:0,N:4294963828-4294963805&dsNavOnly=Ntk:All%7cRacine%7c3%7c,Ny:True,Ro:0&dsRecordDetails=R:CS2534&dsDimensionSearch=D:Racine,Dxm:All,Dxp:3&dsCompoundDimensionSearch=D:Racine,Dxm:All,Dxp:3 |accessdate=July 15, 2007 |title=Racine, Wisconsin -- A Brief History|publisher=The Wisconsin Historical Society}}</ref>
+| image_skyline                   = City of Racine Monument Square.jpg
+| imagesize                       = 
+| image_caption                   = Monument Square
+| image_flag                      = Flag of Racine, Wisconsin.gif
+| image_seal                      = 
+| image_map                       = File:Racine County Wisconsin Incorporated and Unincorporated areas Racine Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Racine in Racine County, Wisconsin.
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| subdivision_type                = Country
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|Wisconsin}}
+| subdivision_type2               = [[List of counties in Wisconsin|County]]
+| subdivision_name2               = [[Racine County, Wisconsin|Racine]]
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = [[Cory Mason]] ([[Democratic Party (United States)|D]])
+| established_date                = 
+| area_magnitude                  = 1 E9
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_55.txt|publisher=United States Census Bureau|accessdate=August 7, 2020}}</ref>
+| area_total_km2                  = 40.56
+| area_land_km2                   = 40.08
+| area_water_km2                  = 0.48
+| population_footnotes            = <ref name="wwwcensusgov" />
+| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 76760
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_total                = 78860
+| population_rank                 = US: 421st
+| population_density_sq_mi        = 4960.26
+| population_density_km2          = 1915.13
+| population_urban                = 133,700 (US: [[List of United States urban areas|239th]])
+| population_metro                = 195,041 (US: [[List of Metropolitan Statistical Areas|221st]])
+| timezone                        = [[North American Central Time Zone|CST]]
+| utc_offset                      = &minus;6
+| timezone_DST                    = [[North American Central Time Zone|CDT]]
+| utc_offset_DST                  = &minus;5
+| area_total_sq_mi                = 15.66
+| area_land_sq_mi                 = 15.47
+| area_water_sq_mi                = 0.18
+| elevation_m                     = 188
+| elevation_ft                    = 618
+| coordinates                     = {{coord|42|43|34|N|87|48|21|W|region:US-WI_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP Code]]s
+| postal_code                     = 53401-53408<ref>{{cite web|title=Look Up a ZIP Code™|url=https://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&companyName=&address1=&address2=&city=racine&state=WI&urbanCode=&postalCode=&zip=|accessdate=November 12, 2012}}</ref>
+| area_code                       = [[Area code 262|262]]B
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 55-66000<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=January 31, 2008|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1572015<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| website                         = {{URL|cityofracine.org}}
+| footnotes                       = 
+| unit_pref                       = Imperial
+| name                            = 
+}}
+
+'''Racine''' ({{IPAc-en|r|ə|ˈ|s|i:|n|}} {{respell|rə|SEEN|'}})<ref>{{cite web|url=http://www.misspronouncer.com/cities/racine.html|title=Miss Pronouncer: How do you pronounce  Racine, Wisconsin?}}</ref> is a city in and the [[county seat]] of [[Racine County, Wisconsin|Racine County]], [[Wisconsin]], United States. It is located on the shore of [[Lake Michigan]] at the mouth of the [[Root River (Wisconsin)|Root River]].<ref>{{cite web |url=http://reference.allrefer.com/gazetteer/R/R00086-racine.html |title=Racine, Wisconsin (WI), United States |accessdate=April 5, 2007 |work=AllRefer.com |url-status=dead |archive-url=https://web.archive.org/web/20070312015218/http://reference.allrefer.com/gazetteer/R/R00086-racine.html |archive-date=March 12, 2007 }}</ref>  Racine is located 22 miles south of [[Milwaukee]] and is part of the Greater Milwaukee Area. As of the 2010 U.S. census, the city had a population of 78,860,<ref name="uscb_quickfacts">{{cite web|url=http://quickfacts.census.gov/qfd/states/55/5566000.html|title=Racine (city) QuickFacts|publisher=U.S. Census Bureau|accessdate=April 16, 2010}}</ref> making it the fifth-largest city in Wisconsin. Its median home price of $103,625<ref>[http://www.realestate.com/state/wi/ "Wisconsin Homes For Sale By City".] {{webarchive|url=https://web.archive.org/web/20131214140411/http://www.realestate.com/state/wi/ |date=December 14, 2013 }} RealEstate.com. Retrieved August 13, 2013.</ref> makes it one of the most affordable cities in Wisconsin to buy a home.  In January 2017, it was rated "the most affordable place to live in the world" by the Demographia International Housing Affordability survey, which was however based on only nine English-speaking countries.<ref>{{cite news|last1=Rook|first1=Brandon|title=Study: Racine most affordable place to live in the world|url=http://www.tmj4.com/news/local-news/study-racine-most-affordable-place-to-live-in-the-world|accessdate=January 26, 2017|publisher=WTMJ-TV Milwaukee|date=January 24, 2017}}</ref><ref>http://demographia.com/dhimedia2020.pdf</ref>
+
+Racine is the headquarters of a number of industries, including [[Case Corporation|J. I. Case]] heavy equipment, [[S. C. Johnson & Son]] cleaning and chemical products, [[Dremel]] Corporation, [[Reliance Controls]] Corporation time controls and transfer switches, [[Twin Disc]], and [[Arthur B. Modine]] heat exchangers. The [[Mitchell & Lewis Company]], a wagonmaker in the 19th century, began making motorcycles and automobiles as [[Mitchell-Lewis Motor Company]] at the start of the 20th century. Racine is also home to [[InSinkErator]], manufacturers of the first garbage disposal.<ref>{{cite news | url=https://www.washingtonpost.com/wp-dyn/content/article/2007/08/22/AR2007082200724.html | title=Grist for the Daily Grind | newspaper=[[The Washington Post]] | author=Denise DiFulco | date=August 23, 2007 | accessdate=October 22, 2009}}</ref> Racine was also historically home to the [[Horlicks]] malt factory, where [[malted milk balls]] were first developed, and the Western Publishing factory where [[Little Golden Books]] were printed. Prominent architects in Racine's history include [[A. Arthur Guilbert]] and [[Edmund Bailey Funston]], and the city is home to several works by [[Frank Lloyd Wright]]. It has several immigrant communities, and is among the most diverse cities in Wisconsin.<ref>Mauk, Alyssa. [https://journaltimes.com/news/local/report-cites-racine-as-fourth-worst-city-for-blacks/article_b8056e0c-e4cf-51fe-a69c-6c0c1a68c6d0.html "Report cites Racine as fourth worst city for blacks"], [[Racine Journal Times]], November 25, 2017.</ref>
+
+== History ==
+Native Americans inhabited the area of Racine for thousands of years. Artifacts that have survived include the burial mounds in what is now Mound Cemetery. Historians separate the natives living in the Root watershed at that time into Woodland people and Hopewell people. After European contact, the Miami and later the Potawatomi expanded into the area, taking part in the French fur trade.
+
+In November 1674, while traveling from [[Green Bay (Lake Michigan)|Green Bay]] to the territory of the [[Illinois Confederation]], Father [[Jacques Marquette]] and his assistants, Jacques Largillier and Pierre Porteret, camped at the mouth of the Root River.<ref>[Racine: Growth and Change in a Wisconsin County]</ref> These were the first Europeans known to visit what is now Racine County. Further expeditions were made in the area by [[René-Robert Cavelier, Sieur de La Salle]] in 1679 and by François Jolliet De Montigny and [[Jean Baptiste Bissot, Sieur de Vincennes]] in 1698. Nearly a century later, in 1791, a trading post would be established along [[Lake Michigan]] near where the [[Root River (Wisconsin)|Root River]] empties into it.
+
+[[File:Root River Racine 070107.jpg|thumb|left|The mouth of the [[Root River (Wisconsin)|Root River]], Racine, Wisconsin]]
+Following the [[Blackhawk War]], the area surrounding Racine, which had previously been off-limits, was settled by [[Yankee]]s from upstate [[New York (state)|New York]] and [[New England]]. In 1834 Captain [[Gilbert Knapp]] [[United States Revenue Cutter Service|USRM]], who was from [[Chatham, Massachusetts]], founded the settlement of "Port Gilbert" at the place where the [[Root River (Wisconsin)|Root River]] empties into [[Lake Michigan]].<ref>{{cite news|title=Tablet to Honor Racine's Founder at Knapp School |url=https://www.newspapers.com/clip/857397/gilbert_knapp_founder_of_racine/|newspaper=The Racine Journal-Times|date=February 13, 1936|page=4|via = [[Newspapers.com]]|accessdate = August 14, 2014 }} {{Open access}}</ref> Knapp had first explored the area of the Root River valley in 1818, and returned with financial backing when the war ended. Within a year of Knapp's settlement hundreds of other settlers from [[New England]] and western [[New York (state)|New York]] had arrived and built log cabins in the area surrounding his own.  Some of the settlers were from the town of [[Derby, Connecticut]], and others came from the [[New England]] states of Connecticut, Massachusetts, Vermont, New Hampshire and Maine.<ref>Rosenberry, Lois Kimball Mathews. [https://books.google.com/books?id=B8YMAAAAYAAJ&pg=PR9 ''The Expansion of New England: The Spread of New England Settlement and Institutions to the Mississippi River, 1620-1865''],</ref>  The area was previously called "Kipi Kawi" and "Chippecotton" by the indigenous peoples, both names for the Root River. The name "Port Gilbert" was never really accepted, and in 1841 the community was incorporated as the village of Racine, after the [[French language|French]] word for "root". After Wisconsin was admitted to the Union in 1848, the new legislature voted in August to incorporate Racine as a city.
+
+In 1852, [[Racine College]], an [[Episcopal Church (United States)|Episcopal]] college, was founded; it closed in 1933.<ref>[http://www.wisconsinhistory.org/wmh/archives/search.aspx?area=browse&volume=35&articleID=19098 Wisconsinhistory.org]</ref> Its location and many of its buildings are preserved today by the [[Community of St. Mary]] as part of the DeKoven Center.
+
+Also in 1852, [[Racine High School]], the first public high school in Wisconsin, opened. The high school operated until 1926, when it was torn down to make way for the new Racine County Courthouse. [[Washington Park High School]] was built to replace it.<ref>[http://www.vindustries.com/racinehistory/features/racine-high-school/ Racine History]</ref>
+
+Before the [[American Civil War|Civil War]], Racine was well known for its strong opposition to [[slavery]], with many slaves escaping to freedom via the [[Underground Railroad]] passing through the city. In 1854 [[Joshua Glover]], an escaped slave who had made a home in Racine, was arrested by [[United States Marshals Service|federal marshals]] and jailed in [[Milwaukee]]. One hundred men from Racine, and ultimately 5,000 Wisconsinites, rallied and broke into the jail to free him. He was helped to escape to [[Canada]]. Glover's rescue gave rise to many legal complications and a great deal of litigation. This eventually led to the [[Wisconsin Supreme Court]] declaring the [[Fugitive Slave Law of 1850]] unconstitutional, and later, the [[Wisconsin State Legislature]] refusing to recognize the authority of the [[Supreme Court of the United States|U.S. Supreme Court]].
+
+=== Immigrant culture ===
+Waves of immigrants, including [[Danes]], [[German people|Germans]], and [[Czech people|Czechs]], began to settle in Racine between the Civil War and the [[First World War]]. African Americans started arriving in large numbers during World War I, as they did in other [[Midwestern]] industrial towns, and [[Hispanics]] migrated to Racine from roughly 1925 onward.
+
+[[Unitarianism|Unitarians]], [[Episcopal Church (United States)|Episcopalians]] and [[Congregationalist Church|Congregationalists]] from [[New England]] initially dominated Racine's religious life. Racine's Emmaus Lutheran Church, the oldest Danish Lutheran Church in North America, was founded on August 22, 1851. Originally a founding member of the Danish American Lutheran Church, it has subsequently been a member of the United Danish Evangelical Lutheran Church in America (UDELCA), the [[American Lutheran Church]] (ALC), and, since 1988, the [[Evangelical Lutheran Church in America]] (ELCA). There was also a large Catholic movement to the city, opening up churches for their own ethnicity, such as St. Stanislaus (Polish), St. Rose (Irish), Holy Name (German), St. Patrick (Irish), Sacred Heart (Italian), St. Joseph (German), St. Mary (German), Holy Trinity (Slovak), St. Casimir (Lithuanian), and others. As years passed, populations moved and St. Stanislaus, Holy Name, Holy Trinity, St. Rose, and St. Casimir merged in 1998, forming St. Richard. With new waves of people arriving, older parishes received a boost from the [[Hispanic]] community, which formed [[Cristo Rey Parish|Cristo Rey]], re-energizing St. Patrick's into the strong Catholic community of today.
+
+[[File:Kringle.jpeg|thumb|Kringle from Racine, Wisconsin]]
+Racine has the largest [[North America]]n settlement of Danes outside of [[Greenland]].{{citation needed|date=February 2013}} The city has become known for its Danish pastries, particularly [[kringle]]. Several local bakeries have been featured on the [[Food Network]]<ref>{{cite web |url=http://www.foodnetwork.com/food/show_rd/episode/0,2857,FOOD_26716_45958,00.html |title=Road Tasted |accessdate=April 5, 2007 |work=FoodNetwork.com }}</ref><ref>{{cite web |url=http://www.foodnetwork.com/food/show_fi/episode/0,1976,FOOD_9962_18881,00.html |title=Food Finds |accessdate=April 5, 2007 |work=FoodNetwork.com }}</ref> highlighting the pastry. In June 2010, President [[Barack Obama]] stopped at an [[O & H Danish Bakery]] before hosting a town hall meeting on the economy and jobs later that afternoon.<ref>Don Walker, [http://www.jsonline.com/news/wisconsin/97544334.html "Obama brakes for a bite at Racine kringle bakery"] ''Milwaukee Journal Sentinel'', July 1, 2010.</ref>
+
+=== Industry ===
+Racine was a factory town almost from the beginning. The first industry in Racine County included the manufacture of fanning mills, machines that separate [[wheat]] grain from [[chaff]]. Racine also had its share of captains of industry, including [[Case Corporation|J. I. Case]] (heavy equipment), [[S. C. Johnson & Son]] (cleaning and chemical products), and Arthur B. Modine (Heat Exchangers). Racine's harbor was central to the shipping industry in Wisconsin in the late 19th century. Racine was also an early [[car manufacturing]] center. One of the world's first [[automobile]]s was built there in 1871 or 1872 by Dr. J. W. Cathcart,<ref>Clymer, Floyd. ''Treasury of Early American Automobiles, 1877–1925'' (New York: Bonanza Books, 1950), p.2 & 153.</ref> as was the [[E. J. Pennington|Pennington]] Victoria [[tricycle]],<ref>It had no less than two 4.75 hp (3.5 kW) engines. Clymer, p.6.</ref><ref>{{cite web |url=http://www.gracesguide.co.uk/Pennington |website=Grace's Guide to British Industrial History |title=Pennington |accessdate=April 4, 2016 }}</ref> the [[Mitchell Motor Car Company|Mitchell]],<ref>Before 1926. Clymer, p.36.</ref> and the Case.<ref>Also before 1926. Clymer, p.153.</ref>
+
+In 1887, [[malted milk]] was invented in Racine by English immigrant [[William Horlick]], and [[Horlicks]] remains a global brand. The [[garbage disposal]] was invented in 1927 by [[architect]] John Hammes of Racine, who founded the company [[InSinkErator]], which still produces millions of garbage disposers every year in Racine.<ref>James R. Hagerty, ''Disposal Maker Gives China a Whirl'', The Wall Street Journal, March 27, 2014, p. B6.</ref> Racine is also the home of [[S.C. Johnson & Son]], whose [[Johnson Wax Headquarters|headquarters]] were designed in 1936 by [[Frank Lloyd Wright]]. Wright also designed the [[Wingspread]] Conference Center and several homes and other buildings in Racine. The city is also home to the [[Dremel]] Corporation, Reliance Controls Corporation and  [[Twin Disc]].  [[Case New Holland]]’s Racine manufacturing facility, which builds two types of tractors (the New Holland T8 and the Case IH Magnum), offers public tours throughout the year.<ref>Lee Roberts, [http://journaltimes.com/lifestyles/leisure/be-a-tourist-in-racine-county/article_61c57fc2-6b1f-11e2-ac6e-0019bb2963f4.html ‘’Be a tourist in Racine County’’], Racine Journal Times, January 31, 2013.</ref>
+
+=== Historic districts and buildings ===
+[[File:MainStreetRacine.jpg|thumb|Main Street, looking north]]
+Racine includes the [[Old Main Street Historic District (Racine, Wisconsin)|Old Main Street Historic District]]. Historic buildings in Racine include the [[Badger Building]], [[Racine Elks Club, Lodge No. 252]], [[St. Patrick's Roman Catholic Church (Racine, Wisconsin)|St. Patrick's Roman Catholic Church]], [[YMCA Building (Racine, Wisconsin)|YMCA Building]], [[Chauncey Hall House]], [[Eli R. Cooley House]], [[George Murray House (Racine, Wisconsin)|George Murray House]], [[Hansen House (Racine, Wisconsin)|Hansen House]], [[Racine College]], [[McClurg Building (Racine, Wisconsin)|McClurg Building]], [[First Presbyterian Church (Racine, Wisconsin)|First Presbyterian Church]], [[Memorial Hall (Racine, Wisconsin)|Memorial Hall]], [[Racine Depot]], [[United Laymen Bible Student Tabernacle]], [[Chauncey Hall Building]], [[Thomas P. Hardy House]], and [[Horlick Field]]. The area is home to several National Register of Historic Places listed structures: [[National Register of Historic Places listings in Racine County, Wisconsin]]. The city is also home to [[Regency Mall (Racine)|Regency Mall]].
+
+[[Frank Lloyd Wright]] designed and built the [[Johnson Wax Headquarters]] building in Racine. The building was and still is considered a marvel of design innovation, despite its many practical annoyances such as rainwater leaks. Wright urged then-president Hib Johnson to build the structure outside of Racine, a city that Wright, a Wisconsin native, thought of as "backwater." Johnson refused to have the Johnson Wax Headquarters sited anywhere other than Racine. {{Citation needed|date=December 2015}}
+
+== Geography ==
+
+Racine is located at {{Coord|42|43|34|N|87|48|21|W|type:city}} (42.726052, −87.805873).<ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|accessdate=April 23, 2011|date=February 12, 2011|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|18.68|sqmi|sqkm|2}}, of which, {{convert|15.48|sqmi|sqkm|2}} is land and {{convert|3.20|sqmi|sqkm|2}} is water.<ref name="Gazetteer files">{{cite web|title=US Gazetteer files 2010|url=https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt|publisher=[[United States Census Bureau]]|accessdate=November 18, 2012|url-status=dead |archive-url=https://www.webcitation.org/699nOulzi?url=http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt|archive-date=July 14, 2012}}</ref>
+
+== Climate ==
+Racine has a warm-summer [[Continental climate]] ([[Köppen climate classification]]: ''Dfb''). Summers are warm and short while winters are cold. Precipitation is dispersed evenly throughout the year, although summers are slightly wetter and more humid than winters.
+{{Weather box|width=auto
+| name         = Climate Data for Racine, Wisconsin 
+| location     =  Racine, Wisconsin
+| single line  = Y
+| Jan high F = 29
+| Feb high F = 32
+| Mar high F = 41
+| Apr high F = 52
+| May high F = 62
+| Jun high F = 73
+| Jul high F = 79
+| Aug high F = 78
+| Sep high F = 71
+| Oct high F = 59
+| Nov high F = 46
+| Dec high F = 34
+| year high F =
+| Jan low F  = 14
+| Feb low F  = 18
+| Mar low F  = 28
+| Apr low F  = 37
+| May low F  = 46
+| Jun low F  = 56
+| Jul low F  = 64
+| Aug low F  = 64
+| Sep low F  = 56
+| Oct low F  = 44
+| Nov low F  = 32
+| Dec low F  = 20
+| year low F =
+| precipitation colour = green
+| Jan precipitation inch  = 2.77
+| Feb precipitation inch  = 2.28
+| Mar precipitation inch  = 2.63
+| Apr precipitation inch  = 3.9
+| May precipitation inch  = 3.8
+| Jun precipitation inch  = 4.1
+| Jul precipitation inch  = 3.5
+| Aug precipitation inch  = 3.8
+| Sep precipitation inch  = 3.5
+| Oct precipitation inch  = 2.81
+| Nov precipitation inch  = 2.77
+| Dec precipitation inch  = 3.07
+| year precipitation inch =
+| rain colour = green
+| Jan rain inch  = 1.7
+| Feb rain inch  = 1.7
+| Mar rain inch  = 2.5 
+| Apr rain inch  = 3.9
+| May rain inch  = 3.8
+| Jun rain inch  = 4.1
+| Jul rain inch  = 3.5
+| Aug rain inch  = 3.8
+| Sep rain inch  = 3.5
+| Oct rain inch  = 2.8
+| Nov rain inch  = 2.6
+| Dec rain inch  = 2.2
+| year rain inch = 13.9
+| Jan snow inch  = 10.7
+| Feb snow inch  = 5.8
+| Mar snow inch  = 1.3
+| Apr snow inch  = 0
+| May snow inch  = 0
+| Jun snow inch  = 0
+| Jul snow inch  = 0
+| Aug snow inch  = 0
+| Sep snow inch  = 0
+| Oct snow inch  = 0.1
+| Nov snow inch  = 1.7
+| Dec snow inch  = 8.7
+| year snow inch =
+| Jan precipitation days  = 11
+| Feb precipitation days  = 9
+| Mar precipitation days  = 9
+| Apr precipitation days  = 8
+| May precipitation days  = 8
+| Jun precipitation days  = 8
+| Jul precipitation days  = 7
+| Aug precipitation days  = 7
+| Sep precipitation days  = 6
+| Oct precipitation days  = 7
+| Nov precipitation days  = 8
+| Dec precipitation days  = 10
+| year precipitation days =
+| Jan rain days  = 5
+| Feb rain days  = 5
+| Mar rain days  = 6
+| Apr rain days  = 8
+| May rain days  = 8
+| Jun rain days  = 8
+| Jul rain days  = 7
+| Aug rain days  = 7
+| Sep rain days  = 6
+| Oct rain days  = 7
+| Nov rain days  = 7
+| Dec rain days  = 6
+| year rain days =
+| Jan snow days  = 6
+| Feb snow days  = 4
+| Mar snow days  = 3 
+| Apr snow days  = 0
+| May snow days  = 0
+| Jun snow days  = 0
+| Jul snow days  = 0
+| Aug snow days  = 0
+| Sep snow days  = 0
+| Oct snow days  = 0
+| Nov snow days  = 1
+| Dec snow days  = 4
+| year snow days =
+| source 1 = Racine, WI - Weather Averages<ref>{{cite web|url=https://www.google.com/search?safe=active&sxsrf=ALeKk016ScplisdGgWjlN0xQn_ylMJVpbA%3A1591160698493&ei=ei_XXsjVHcH29AP1ubmwBw&q=racine+wisconsin+climate+data&oq=racine+wisconsin+climate+data&gs_lcp=CgZwc3ktYWIQAzoFCAAQzQJQ9tEBWLrpAWDJ6wFoAHAAeACAAeMBiAH8BJIBBTUuMC4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjI-trB7-TpAhVBO30KHfVcDnYQ4dUDCAw&uact=5|title=Racine, Wi - Weather Averages}}</ref>
+}}
+
+== Demographics ==
+{{US Census population
+|1850= 5107
+|1860= 7822
+|1870= 9880
+|1880= 16031
+|1890= 21014
+|1900= 29102
+|1910= 38002
+|1920= 58593
+|1930= 67542
+|1940= 67195
+|1950= 71193
+|1960= 89144
+|1970= 95162
+|1980= 85725
+|1990= 84298
+|2000= 81855
+|2010= 78860
+|estyear=2019
+|estimate=76760
+|estref=<ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|date=May 24, 2020|title=Population and Housing Unit Estimates|publisher=United States Census Bureau|accessdate=May 27, 2020}}</ref>
+|align-fn=center
+|footnote=U.S. Decennial Census<ref>{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|author=[[United States Census Bureau]]|accessdate=August 22, 2014}}</ref><br />2018 Estimate<ref name="2018 Pop Estimate">{{cite web|title=Population Estimates|url=https://census.gov/data/tables/2018/demo/popest/total-cities-and-towns.html|publisher=[[United States Census Bureau]]|accessdate=June 8, 2018}}</ref>
+}}
+
+As of 2000 the median income for a household in the city was $37,164, and the median income for a family was $45,150. Males had a median income of $35,079 versus $24,279 for females. The [[per capita income]] for the city was $17,705. About 10.8% of families and 13.9% of the population were below the [[poverty line]], including 20.6% of those under age 18 and 6.6% of those aged 65 or over.
+
+=== 2010 census ===
+As of the [[census]]<ref name="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=November 18, 2012}}</ref> of 2010, there were 78,860 people, 30,530 households, and 19,222 families residing in the city. The [[population density]] was {{convert|5094.3|PD/sqmi|PD/km2|1}}. There were 33,887 housing units at an average density of {{convert|2189.1|/sqmi|/km2|1}}. The racial makeup of the city was 61.8% [[White (U.S. Census)|White]], 22.6% [[African American (U.S. Census)|African American]], 0.5% [[Native American (U.S. Census)|Native American]], 0.8% [[Asian (U.S. Census)|Asian]], 10.3% from [[Race (U.S. Census)|other races]], and 4.0% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 20.7% of the population.
+
+There were 30,530 households, of which 35.8% had children under the age of 18 living with them, 36.5% were [[Marriage|married couples]] living together, 20.1% had a female householder with no husband present, 6.3% had a male householder with no wife present, and 37.0% were non-families. 30.5% of all households were made up of individuals, and 9.4% had someone living alone who was 65 years of age or older. The average household size was 2.53 and the average family size was 3.17.
+
+The median age in the city was 33 years. 27.9% of residents were under the age of 18; 9.8% were between the ages of 18 and 24; 27.6% were from 25 to 44; 23.8% were from 45 to 64; and 10.9% were 65 years of age or older. The gender makeup of the city was 48.8% male and 51.2% female.
+
+* Population estimates, July 1, 2017: 77,542<ref name="census.gov">census.gov</ref>
+* Population estimates base, April 1, 2010: 78,860<ref name="census.gov" />
+* Veterans, 2011–2015: 4,861<ref name="census.gov" />
+
+;Income and poverty<ref name="census.gov" />
+* Median household income for Racine (in 2015 dollars), 2011–2015: $41,455<ref name="census.gov" />
+* Per capita income in past 12 months in Racine (in 2015 dollars), 2011–2015: $20,580<ref name="census.gov" />
+* Poverty rate in Racine: 21.6%<ref name="census.gov" />
+
+=== Crime rates ===
+Racine employs [[Community policing|community-oriented policing]], the systematic use of partnerships and problem-solving techniques to address the immediate conditions that give rise to crime. The number of crimes committed in the city in 2013 dropped in several categories to the lowest point in decades. Racine saw a 38.3 percent drop in violent crime from 2009 to 2013, making it the 10th largest decrease in the country. Property crimes were at their lowest point since 1965, while the number of violent crimes was the lowest for any year on record.<ref>Aaron Knapp, [http://journaltimes.com/news/local/crime-and-courts/fewest-violent-crimes-on-record-in/article_84cee170-8d97-11e3-b18b-001a4bcf887a.html "Fewest violent crimes on record in 2013"], ''Racine Journal Times'', February 4, 2014.</ref><ref>The Journal Times Editorial Board, [http://journaltimes.com/news/opinion/editorial/friday-finishers-good-news-on-crime/article_d6180acc-8f7f-11e3-9e22-0019bb2963f4.html "Friday Finishers: Good news on crime"], ''Racine Journal Times'', February 7, 2014.</ref><ref>Heather Asiyanbi, [http://racinecountyeye.com/2014/02/04/city-robberies-property-crime-homicide-lowest-decades/ "City Robberies, Property Crime, Homicide Lowest in Decades"], ''Racine County Eye'', February 4, 2012. {{webarchive |url=https://web.archive.org/web/20140407073008/http://racinecountyeye.com/2014/02/04/city-robberies-property-crime-homicide-lowest-decades/ |date=April 7, 2014 }}</ref>
+
+However, that trend has since changed. As of 2018, the chance of becoming a victim of either violent or property crime in Racine is 1 in 37, thus making the city's crime rate higher than 92% of Wisconsin's other cities and towns.<ref>{{Cite web|title=Racine, WI Crime Rates and Statistics - NeighborhoodScout|url=https://www.neighborhoodscout.com/wi/racine/crime#:~:text=The%20chance%20of%20becoming%20a,and%20towns%20of%20all%20sizes.|access-date=2020-06-19|website=www.neighborhoodscout.com}}</ref>
+
+== Infrastructure ==
+Racine's municipal water is drawn from [[Lake Michigan]]. In 2011, the city's water was named the best tasting tap water in the United States by a panel of the [[U.S. Conference of Mayors]].<ref>[http://journaltimes.com/news/local/racine-s-water-hailed-as-best-tasting-city-wins/article_a7b348d4-9b78-11e0-8ea3-001cc4c002e0.html "Racine's water hailed as best tasting, city wins $15,000"], ''Racine Journal Times'', June 20, 2011.</ref>
+
+== Public safety ==
+Fire protection and ambulance service is provided by the Racine Fire Department with six fire stations. Law enforcement services are provided by the Racine Police Department.
+
+== Government ==
+Racine has a mayor-council form of government. The mayor is the chief executive, elected for a term of four years. The mayor appoints commissioners and other officials who oversee the departments, subject to Common Council approval. On October 17, 2017, [[Cory Mason]] was elected as mayor of Racine, completing the term of [[John Dickert]].
+
+Racine's other citywide elected official is the Municipal Judge. The city council, the legislative branch, is made up of 15 aldermen, one elected from each district in the city. The council enacts local ordinances and approves the city budget. Government priorities and activities are established in a budget ordinance usually adopted each November. Being a diverse community with a history of organized labor, the city predominantly votes for the [[Democratic Party (United States)]]. The City's youngest City Council President was Tom Mortenson, 28, who was a leading Progressive Republican who led ethical reform that served as a model for other municipal governments.
+
+Racine is represented by [[Bryan Steil]] (R) in the [[United States House of Representatives]], and by [[Ron Johnson (Wisconsin politician)|Ron Johnson]] (R) and [[Tammy Baldwin]] (D) in the [[United States Senate]]. [[Robert Wirch]] (D) and [[Van H. Wanggaard]] (R) represent Racine in the [[Wisconsin State Senate]], and [[Tom Weatherston]] (R), [[Peter Barca]] (D), and [[Greta Neubauer]] (D) represent Racine in the [[Wisconsin State Assembly]].
+ 
+=== Mayors of Racine ===
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center"
+|+ class="nowrap" | Mayors of Racine, Wisconsin, since statehood 
+! Order
+! Years
+! Mayor
+! Notes
+|- style="height:3em"
+| 1
+| 1848
+|  align=left |Reuben M. Norton 
+| 
+|- style="height:3em"
+| 2
+| 1849
+|  align=left |Henry Bryan 
+| 
+|- style="height:3em"
+| 3
+| 1850
+|  align=left |Eli R. Cooley
+| 
+|- style="height:3em"
+| 4
+| 1851
+| align=left |William H. Waterman 
+| 
+|- style="height:3em"
+| 5
+| 1852
+|  align=left |William T. Richmond
+| 
+|- style="height:3em"
+| rowspan="2"|6
+| 1853
+| rowspan="2" align=left |David McDonald 
+| rowspan="2"|
+|- style="height:3em"
+| 1854
+|- style="height:3em"
+| 7
+| 1855
+| align=left | George Wustum
+| 
+|- style="height:3em"
+| 8
+| 1856
+|  align=left |[[Jerome Case|Jerome I. Case]]
+| 
+|- style="height:3em"
+| 9
+| 1857
+|  align=left |[[John W. Cary]] 
+| 
+|- style="height:3em"
+| 10
+| 1858
+|  align=left |[[Jerome Case|Jerome I. Case]]
+| 
+|- style="height:3em"
+| 11
+| 1859
+|  align=left |W. W. Vaughan
+| 
+|- style="height:3em"
+| 12
+| 1860
+|  align=left |[[Jerome Case|Jerome I. Case]]
+| 
+|- style="height:3em"
+| 13
+| 1861 
+|  align=left |George C. Northrup
+| 
+|- style="height:3em"
+| 14
+| 1862 
+|  align=left |Alvin Raymond
+| 
+|- style="height:3em"
+| 15
+| 1863 
+|  align=left |George C. Northrup
+| 
+|- style="height:3em"
+| 16
+| 1864
+|  align=left |Robert M. Liapis
+| 
+|- style="height:3em"
+| 17
+| 1865
+|  align=left |John W. Hart
+| 
+|- style="height:3em"
+| rowspan="3"|18
+| 1866
+| rowspan="3" align=left |George A. Thompson
+| rowspan="3"|
+|- style="height:3em"
+| 1867
+|- style="height:3em"
+| 1868 
+|- style="height:3em"
+| rowspan="3"|19
+| 1869
+| rowspan="3" align=left |Massena B. Erskine 
+| rowspan="3"|
+|- style="height:3em"
+| 1870
+|- style="height:3em"
+| 1871
+|- style="height:3em"
+| rowspan="2"|20
+| 1872
+| rowspan="2" align=left |[[Reuben G. Doud]]
+| rowspan="2"|
+|- style="height:3em"
+| 1873
+|- style="height:3em"
+| 21
+| 1874 
+| align=left |[[Robert Hall Baker]]
+|
+|- style="height:3em"
+| 22
+| 1875
+|  align=left |[[Reuben G. Doud]]
+|
+|- style="height:3em"
+| rowspan="3"|23
+| 1876
+| rowspan="3" align=left |John G. Meachem
+| rowspan="3"|
+|- style="height:3em"
+| 1877
+|- style="height:3em"
+| 1878
+|- style="height:3em"
+| 24
+| 1879
+|  align=left |Christopher J. Krupp
+|
+|- style="height:3em"
+| 25
+| 1880
+|  align=left |Massena B. Erskine
+|
+|- style="height:3em"
+| rowspan="2"|26
+| 1881
+| rowspan="2" align=left |[[William P. Packard]]
+| rowspan="2"|
+|- style="height:3em"
+| 1882
+|- style="height:3em"
+| 27
+| 1883 
+|  align=left |Titus G. Fish
+|
+|- style="height:3em"
+| 28
+| 1884
+|  align=left |[[Martin Mathias Secor|Martin M. Secor]]
+|
+|- style="height:3em"
+| 29
+| 1885
+|  align=left |Joseph Miller
+|
+|- style="height:3em"
+| rowspan="2"|30
+| 1886
+| rowspan="2" align=left |Daniel A. Olin
+| rowspan="2"|
+|- style="height:3em"
+| 1887
+|- style="height:3em"
+| 31
+| 1888 
+|  align=left |[[Martin Mathias Secor|Martin M. Secor]]
+|
+|- style="height:3em"
+| 32
+| 1889 
+|  align=left |Cole J. Dixon
+| Died From Chlamydia in Office
+|- style="height:3em"
+| 33
+| 1890
+|  align=left |Adolph Weber
+|
+|- style="height:3em"
+| rowspan="5"|34
+| 1891
+| rowspan="5" align=left |Jackson I. Case
+| rowspan="5"|
+|- style="height:3em"
+| 1892
+|- style="height:3em"
+| 1893
+|- style="height:3em"
+| 1894
+|- style="height:1em"
+| rowspan="2"|1895
+|- style="height:2em"
+| rowspan="3"|35
+| rowspan="3" align=left |David G. Janes
+| rowspan="3"|
+|- style="height:3em"
+| 1896
+|- style="height:1em"
+| rowspan="2"|1897
+|- style="height:2em"
+| rowspan="3"|36
+| rowspan="3" align=left |Fred Graham
+| rowspan="3"|
+|- style="height:3em"
+| 1898
+|- style="height:1em"
+| rowspan="2"|1899
+|- style="height:2em"
+| rowspan="5"|37
+| rowspan="5" align=left |Michael Higgins
+| rowspan="5"|
+|- style="height:3em"
+| 1900
+|- style="height:3em"
+| 1901
+|- style="height:3em"
+| 1902
+|- style="height:1em"
+| rowspan="2"|1903
+|- style="height:2em"
+| rowspan="5"|38
+| rowspan="5" align=left |Peter B. Nelson
+| rowspan="5"|
+|- style="height:3em"
+| 1904
+|- style="height:3em"
+| 1905
+|- style="height:3em"
+| 1906
+|- style="height:1em"
+| rowspan="2"|1907
+|- style="height:2em"
+| rowspan="5"|39
+| rowspan="5" align=left |Alex J. Horlick
+| rowspan="5"|
+|- style="height:3em"
+| 1908
+|- style="height:3em"
+| 1909
+|- style="height:3em"
+| 1910
+|- style="height:1em"
+| rowspan="2"|1911
+|- style="height:2em"
+| rowspan="5"|40
+| rowspan="5" align=left |[[Walter Samuel Goodland]]
+| rowspan="5"|''31st Governor of Wisconsin''
+|- style="height:3em"
+| 1912
+|- style="height:3em"
+| 1913
+|- style="height:3em"
+| 1914
+|- style="height:1em"
+| rowspan="2"|1915
+|- style="height:2em"
+|  rowspan="5"|41
+|  rowspan="5" align=left |T. W. Thiesen
+|  rowspan="5"|
+|- style="height:3em"
+| 1916
+|- style="height:3em"
+| 1917
+|- style="height:3em"
+| 1918
+|- style="height:1em"
+| rowspan="2"|1919
+|- style="height:2em"
+|  rowspan="3"|42
+|  rowspan="3" align=left |William H. Armstrong
+|  rowspan="3"|
+|- style="height:3em"
+| 1920
+|- style="height:1em"
+|  rowspan="2"|1921
+|- style="height:2em"
+|  rowspan="3"|43
+|  rowspan="3" align=left |A. J. Lunt
+|  rowspan="3"|
+|- style="height:3em"
+| 1922
+|- style="height:1em"
+|  rowspan="2"|1923
+|- style="height:2em"
+|  rowspan="9"|44
+|  rowspan="9" align=left |William H. Armstrong
+|  rowspan="9"|
+|- style="height:3em"
+| 1924
+|- style="height:3em"
+| 1925
+|- style="height:3em"
+| 1926
+|- style="height:3em"
+| 1927
+|- style="height:3em"
+| 1928
+|- style="height:3em"
+| 1929
+|- style="height:3em"
+| 1930
+|- style="height:1em"
+| rowspan="2"|1931
+|- style="height:2em"
+| rowspan="7"|45
+| rowspan="7" align=left |William J. Swoboda
+| rowspan="7"|
+|- style="height:3em"
+| 1932
+|- style="height:3em"
+| 1933
+|- style="height:3em"
+| 1934
+|- style="height:3em"
+| 1935
+|- style="height:3em"
+| 1936
+|- style="height:1em"
+| rowspan="2"|1937
+|- style="height:2em"
+| rowspan="3"|46
+| rowspan="3" align=left |Roy A. Spencer
+| rowspan="3"|
+|- style="height:3em"
+| 1938
+|- style="height:1em"
+| rowspan="2"|1939
+|- style="height:2em"
+| rowspan="5"|47
+| rowspan="5" align=left |T. G. Morris
+| rowspan="5"|
+|- style="height:3em"
+| 1940
+|- style="height:3em"
+| 1941
+|- style="height:3em"
+| 1942
+|- style="height:1em"
+| rowspan="2"| 1943
+|- style="height:2em"
+| rowspan="7"|48
+| rowspan="7" align=left |Francis H. Wendt
+| rowspan="7"|
+|- style="height:3em"
+| 1944
+|- style="height:3em"
+| 1945
+|- style="height:3em"
+| 1946
+|- style="height:3em"
+| 1947
+|- style="height:3em"
+| 1948
+|- style="height:1em"
+| rowspan="2"| 1949
+|- style="height:2em"
+|  rowspan="7"|49
+|  rowspan="7" align=left |John E. Gothner
+|  rowspan="7"|
+|- style="height:3em"
+| 1950
+|- style="height:3em"
+| 1951
+|- style="height:3em"
+| 1952
+|- style="height:3em"
+| 1953
+|- style="height:3em"
+| 1954
+|- style="height:1em"
+| rowspan="2"|1955
+|- style="height:2em"
+| rowspan="9"|50
+| rowspan="9" align=left |Jack H. Humble
+| rowspan="9"|
+|- style="height:3em"
+| 1956
+|- style="height:3em"
+| 1957
+|- style="height:3em"
+| 1958
+|- style="height:3em"
+| 1959
+|- style="height:3em"
+| 1960
+|- style="height:3em"
+| 1961
+|- style="height:3em"
+| 1962
+|- style="height:1em"
+| rowspan="2"| 1963
+|- style="height:2em"
+| rowspan="7"|51
+| rowspan="7" align=left |William H. Beyer
+| rowspan="7"|
+|- style="height:3em"
+| 1964
+|- style="height:3em"
+| 1965
+|- style="height:3em"
+| 1966
+|- style="height:3em"
+| 1967
+|- style="height:3em"
+| 1968
+|- style="height:1em"
+| rowspan="2"|1969
+|- style="height:2em"
+|  rowspan="5"|52
+| rowspan="5" align=left |Kenneth L. Huck
+| rowspan="5"|
+|- style="height:3em"
+| 1970
+|- style="height:3em"
+| 1971
+|- style="height:3em"
+| 1972
+|- style="height:1em"
+| rowspan="2"|1973
+|- style="height:2em"
+| rowspan="15"|53
+| rowspan="15" align=left |Stephen F. Olsen
+| rowspan="15"|
+|- style="height:3em"
+| 1974
+|- style="height:3em"
+| 1975
+|- style="height:3em"
+| 1976
+|- style="height:3em"
+| 1977
+|- style="height:3em"
+| 1978
+|- style="height:3em"
+| 1979
+|- style="height:3em"
+| 1980
+|- style="height:3em"
+| 1981
+|- style="height:3em"
+| 1982
+|- style="height:3em"
+| 1983
+|- style="height:3em"
+| 1984
+|- style="height:3em"
+| 1985
+|- style="height:3em"
+| 1986
+|- style="height:1em"
+| rowspan="2"|1987
+|- style="height:2em"
+| rowspan="9"|54
+| rowspan="9" align=left |N. Owen Davies
+| rowspan="9"|
+|- style="height:3em"
+| 1988
+|- style="height:3em"
+| 1989
+|- style="height:3em"
+| 1990
+|- style="height:3em"
+| 1991
+|- style="height:3em"
+| 1992
+|- style="height:3em"
+| 1993
+|- style="height:3em"
+| 1994
+|- style="height:1em"
+| rowspan="2"|1995
+|- style="height:2em"
+| rowspan="9"|55
+| rowspan="9" align=left |James M. Smith 
+| rowspan="9"|
+|- style="height:3em"
+| 1996
+|- style="height:3em"
+| 1997
+|- style="height:3em"
+| 1998
+|- style="height:3em"
+| 1999
+|- style="height:3em"
+| 2000
+|- style="height:3em"
+| 2001
+|- style="height:3em"
+| 2002
+|- style="height:1em"
+| rowspan="2"|2003
+|- style="height:2em"
+| rowspan="7"|56
+| rowspan="7" align=left |Gary Becker
+| rowspan="7"|
+|- style="height:3em"
+| 2004
+|- style="height:3em"
+| 2005
+|- style="height:3em"
+| 2006
+|- style="height:3em"
+| 2007
+|- style="height:3em"
+| 2008
+|- style="height:1em"
+| rowspan="3"|2009
+|- style="height:1em"
+| 
+|  align=left |Tom Friedel
+| ''Interim.''
+|- style="height:1em"
+| rowspan="9"|57
+| rowspan="9" align=left |[[John Dickert]]
+| rowspan="9"|
+|- style="height:3em"
+| 2010
+|- style="height:3em"
+| 2011
+|- style="height:3em"
+| 2012
+|- style="height:3em"
+| 2013
+|- style="height:3em"
+| 2014
+|- style="height:3em"
+| 2015
+|- style="height:3em"
+| 2016
+|- style="height:1em"
+| rowspan="3"| 2017
+|- style="height:1em"
+| 
+|  align=left |Dennis Wiser
+|  ''Acting.''
+|- style="height:1em"
+| rowspan="3"|58
+| rowspan="3" align=left |[[Cory Mason]]
+| rowspan="3"| 
+|- style="height:3em"
+| 2018
+|- style="height:3em"
+| 2019
+|}
+
+== Education ==
+
+=== Public schools ===
+{{Main|Racine Unified School District}}
+
+Racine's public schools are administered by the Racine Unified School District, which oversees 21 elementary schools, eight middle schools, and six high schools with a combined student enrollment of around 17,500. Programs such as [[International Baccalaureate]]<ref>https://www.rusd.org/district/international-baccalaureate</ref> and [[Montessori]] are widely utilized in the District.
+
+=== Private schools ===
+Private schools in the city include:
+* [[Racine Lutheran High School]]
+* [[St. Catherine's High School (Racine, Wisconsin)|St. Catherine's High School]]
+* Wisconsin Lutheran Middle School
+
+[[The Prairie School]] is in nearby [[Wind Point, Wisconsin|Wind Point]]. It was co-founded by [[Imogene Powers Johnson|Imogene "Gene" Powers Johnson]], described by Michael Burke of ''[[The Journal Times]]'' as "one of the Racine community’s major benefactors".<ref>{{cite web|author=Burke, Michael|url=https://journaltimes.com/news/local/gene-johnson-widow-of-the-late-sam-johnson-dies/article_d89a89e8-25a0-5540-979a-20c5d314d2b7.html#5|title='Gene' Johnson, widow of the late Sam Johnson, dies |work=[[The Journal Times]]|date=2018-03-04|accessdate=2019-07-02}}</ref>
+
+=== Higher education ===
+[[University of Wisconsin–Parkside]] is located south of Racine in the Town of [[Somers, Wisconsin|Somers]]. Prior to Parkside's creation there were state college campuses in both Racine and Kenosha, but with their proximity it was decided they would be better served by one larger campus in between the two cities. A campus of [[Gateway Technical College]], which serves the tri-county area of the southeastern corner of Wisconsin, is located in the downtown district on Lake Michigan.
+
+== Transportation ==
+{{CSS image crop
+|Image = ISS030-E-223828.jpg|bSize = 4256|cWidth = 340|cHeight = 276|oTop = 1677|oLeft =1500 |Location      = right
+|Description   = Racine, 11:23:40 PM CDT in 2012 during [[Expedition 30]] at the International Space Station}}
+{{See also|Streetcars in Kenosha, Wisconsin}}
+Mass transit is provided by the [[Belle Urban System]] or "BUS" for short.<ref>{{cite web|url=http://www.racinetransit.com/ |title=City of Racine |publisher=Racine Transit |accessdate=December 17, 2015}}</ref> Taxi service is provided by Racine Taxi.<ref>Michael Burke, [http://journaltimes.com/news/local/racine-taxi-open-for-business/article_3028d61a-2fac-11e3-a69b-0019bb2963f4.html "Racine Taxi open for business"], ''Racine Journal Times'', October 7, 2013.</ref>
+
+Racine is also served by [[Amtrak]]'s [[Hiawatha (Amtrak)|Hiawatha Line]] from the [[Sturtevant (Amtrak station)|Sturtevant station]] in [[Racine County, WI|Racine County]].<ref>Lydia Mulvany, [http://www.jsonline.com/news/wisconsin/amtraks-hiawatha-route-tops-monthly-ridership-record-in-july-b9975764z1-219778801.html "Amtrak's Hiawatha route tops monthly ridership record"], ''Milwaukee Journal Sentinel'', August 15, 2013</ref>  Additional train service to Chicago is provided by [[Metra]]'s [[Union Pacific/North Line]] from the downtown [[Kenosha (Metra station)|Kenosha station]], which is located 6 miles from the [[Racine County, WI|Racine County]] line and 11 miles from downtown Racine.
+
+===Airport===
+[[John H. Batten Airport|Batten International Airport]] (KRAC) is a public use airport located in Racine, and the largest privately-owned airport in the United States.  Racine is one of only three Wisconsin cities, along with Milwaukee and Green Bay, to have airports with customs intake capabilities.<ref>Michael Burke, [http://journaltimes.com/news/local/batten-to-build-new-space-would-be-for-customs-clearances/article_09faa61e-4f44-11e3-bd4d-0019bb2963f4.html "Batten to build — New space would be for Customs clearances on international flights"], ''Racine Journal Times'', November 16, 2013</ref>  Commercial air service is provided by [[O'Hare International Airport]] and [[Mitchell Airport|General Mitchell International Airport]].
+
+== Architecture ==
+Racine has several examples of [[Frank Lloyd Wright]]'s work, including the [[Johnson Wax Headquarters]], [[Wingspread]], the [[Thomas P. Hardy House]] and the [[Keland House]]. S.C. Johnson offers free tours of its corporate campus, and receives about 9,000 visitors per year.  The [[Johnson Wax Headquarters#Research Tower|Research Tower]], which is located on the SC Johnson campus,  is one of only 2 existing high rise buildings designed by [[Frank Lloyd Wright]].<ref>Robert Sharoff, [https://www.nytimes.com/2014/04/30/realestate/commercial/memorializing-a-frank-lloyd-wright-corporate-legacy.html "A Corporate Paean to Frank Lloyd Wright"], ''The New York Times'', April 29, 2014.</ref><ref>Blair Kamin, [http://articles.chicagotribune.com/2014-04-23/entertainment/ct-frank-lloyd-wright-tower-preview-20140423_1_fortaleza-hall-sikorsky-s-38-frank-lloyd-wright "Frank Lloyd Wright's tower worthy of debate, and a trip"], ''Chicago Tribune'', April 23, 2014.</ref>  Fortaleza Hall, designed by [[Norman Foster]], houses the "SC Johnson Gallery: Frank Lloyd Wright At Home" and a [[Frank Lloyd Wright]] library.<ref>Blair Kamin, "[http://articles.chicagotribune.com/2010-01-28/classified/ct-live-0128-kamin-johnson-20100128_1_son-ceo-son-administration-building-frank-lloyd-wright Frank Lloyd Wright's legacy lifts off anew: Norman Foster's Fortaleza Hall an update of iconic S.C. Johnson campus in Racine, Wis.]", ''Chicago Tribune'', January 28, 2010.</ref> The Johnson Wax disc-shaped [[Golden Rondelle Theater]] was originally constructed as the Johnson Wax pavilion for the [[1964 New York World's Fair]] and then [[1964 New York World's Fair#Reuse of pavilions and major exhibits elsewhere|relocated]] to Racine.<ref>Bill Cotter, Bill Young, ''The 1964–1965 New York World's Fair: Creation and Legacy'', Arcadia Publishing, 2008, p. 90.</ref>
+
+The [[Racine Art Museum]], designed by the Chicago architecture firm [[Brininstool + Lynch]], is a modern reuse of an existing structure to house RAM's permanent collection of contemporary craft. The building has an exterior façade of translucent acrylic panels that are illuminated at night, making the museum glow in the dark like a Japanese lantern.<ref>Philip Berger, [http://articles.chicagotribune.com/2003-04-20/news/0304200420_1_art-classes-art-center-american-craft "Racine Art Museum aims high"], ''Chicago Tribune'', April 20, 2003.</ref>
+
+The OS House, a private residence designed by the Milwaukee architecture firm [[Johnsen Schmaling Architects]], was recognized in 2011 as one of the top 10 residential projects in the United States by the [[American Institute of Architects]].<ref>Craig Nakano, [http://latimesblogs.latimes.com/home_blog/2011/03/aia-housing-awards-2011.html "AIA names housing design award winners for 2011"], ''Los Angeles Times'', March 19, 2011.</ref>  The [[Leadership in Energy and Environmental Design|LEED Platinum]]-certified home was also named in 2011 as one of the top 10 green projects in the country by the AIA,<ref>Katie Weeks, [http://www.architectmagazine.com/awards/aia-cote-2011-top-ten-green-projects--os-house.aspx "AIA COTE 2011 Top Ten Green Projects: OS House: A single-family residence in Racine, Wisc., designed by Johnsen Schmaling Architects:], ''Architect: The Magazine of the American Institute of Architects'', April 12, 2011.</ref><ref>Mary Louise Schumacher, [http://www.jsonline.com/blogs/entertainment/119836964.html "Two of nation's top 10 green buildings in Wisconsin"], ''Milwaukee Journal Sentinel'', April 14, 2011.</ref><ref>[http://www.jsonline.com/multimedia/photos/103798859.html "Photos: OS House in Racine is one of Wisconsin's greenest homes"], ''Milwaukee Journal Sentinel'', September 25, 2010.</ref> and in 2012 as one of 11 national winners in the Small Projects category.<ref>Karissa Rosenfield, [http://www.archdaily.com/?p=258981 "AIA selects the 2012 Recipients of the Small Project Awards"], ''ArchDaily'', July 31, 2012.</ref> The OS House has been featured in the ''New York Times''.<ref>Fred Bernstein, [https://www.nytimes.com/2010/08/26/garden/26racine.html "A Box of Fresh Air"], ''The New York Times'', August 25, 2010.</ref> The house, an example of 21st-century modern architecture, is located on the shore of Lake Michigan in Racine's south side historic district.<ref>David Steinkraus, [http://journaltimes.com/lifestyles/home-and-garden/modern-squared-main-street-house-boasts-both-modern-architecture-and/article_5c5d680c-b167-11df-8467-001cc4c03286.html "Modern squared: Main Street house boasts both modern architecture and green technologies"], ''Racine Journal Times'', August 27, 2010.</ref>
+
+=== Buildings on the National Register of Historic Places ===
+[[File:Wind Point Lighthouse 071104 edit2.jpg|thumb|right|Wind Point Lighthouse]]
+* [[Hansen House (Racine, Wisconsin)|Hansen House]]
+* [[Memorial Hall (Racine, Wisconsin)|Memorial Hall]]
+* [[St. Luke's Episcopal Church, Chapel, Guildhall, and Rectory]]
+* [[St. Patrick's Roman Catholic Church (Racine, Wisconsin)|St. Patrick's Roman Catholic Church]]
+* [[Wind Point Lighthouse]]
+* [[YMCA Building (Racine, Wisconsin)|YMCA Building]]
+* [[Racine Elks Club, Lodge No. 252|Racine Elks Club, Lodge No. 252 (Racine, Wisconsin)]]
+* [[McClurg Building (Racine, Wisconsin)|McClurg Building (Main Place)]]
+
+== Arts and culture ==
+[[File:Aerial Racine Lakefront.jpg|thumb|Downtown and marina]]
+
+Racine is home to museums, theater companies, visual arts organizations, galleries, performance groups, music organizations, dance studios, concert series and special art events<ref>Mary Billard, [https://www.nytimes.com/2007/11/30/travel/escapes/30american.html?pagewanted=all&_r=0 ''On Lake Michigan, a Port of Call for Art''], ''The New York Times'', November 30, 2007.</ref> (for a complete list see [[List of Arts and Culture Resources in Racine, Wisconsin]].)
+
+The [[Racine Art Museum]] is the site of the largest collection of contemporary craft in America, with over 4,000 pieces in art jewelry, ceramics, fibers, glass, metals, polymer, and wood, and over 4,000 works on paper and sculptures.<ref>Rafael Francisco Salas,[http://www.jsonline.com/entertainment/magic-mud-at-racine-art-museum-a-must-during-nceca-b99229951z1-251276191.html "Magic Mud at Racine Art Museum a must during NCECA"], ''Milwaukee Journal Sentinel'', March 20, 2014.</ref> RAM's satellite campus, Wustum Museum of Fine Arts, presents exhibitions of regional artists along with art classes and workshops.<ref>Peggy Sue Dunigan, [http://expressmilwaukee.com/article-permalink-19610.html ''Wustum Museum Highlights Wisconsin Photography''], ''Express Milwaukee'', August 20, 2012.</ref><ref>Lee Roberts, [http://journaltimes.com/lifestyles/senior_news/learn-something-new/article_bfa1d6f0-3fb0-11e0-b6df-001cc4c03286.html ''Learn something new: Local Continuing Education Opportunities Abound''], ''Racine Journal Times'', February 23, 2011.</ref><ref>[http://www.ramart.org/education/art-classes ''Wustum Studio Art Program''], Racine Art Museum.</ref>  The Racine Arts Council's exhibitions feature local and regional artists.<ref>Lee Roberts, [http://journaltimes.com/lifestyles/leisure/scene-heard-racine-county-potters-play-with-fire-for-artspace/article_39fbc5c4-af1f-11e3-849f-001a4bcf887a.html "Scene & Heard: Racine County potters play with fire for ArtSpace show"], ''Racine Journal Times'', March 20, 2014.</ref> The annual Get Behind the Arts Studio Tours offer a look inside artists’ workspaces in Racine and Kenosha.<ref>Lee Roberts, [http://journaltimes.com/lifestyles/leisure/studio-tour-offers-an-inside-look-at-local-visual-and/article_b94c40a2-9683-11e2-a8c4-001a4bcf887a.html "Studio tour offers an inside look at local visual and performing arts"], ''Racine Journal Times'', March 28, 2013.</ref>
+
+The Racine Theater Guild annually offers a season of seven to eight main-stage plays and musicals, Racine Children's Theatre, Jean's Jazz Series and Comedy Tonight.<ref>Lee Roberts, [http://journaltimes.com/lifestyles/leisure/local-theater-groups-ready-to-take-the-stage/article_a4d2b7f2-1a75-11e3-945d-0019bb2963f4.html ''Local theater groups ready to take the stage''], ''Racine Journal Times'', September 12, 2013.</ref> Every winter, Over Our Head Players at 6th Street Theatre hosts Snowdance, a playwriting contest in which audience members determine the winning plays. Entries for the contest come from all over the world.<ref>Jessica Tuttle, [http://www.kenoshanews.com/entertainment/laughs_by_the_minute_475409195.html "Laughs by the minute: Racine’s Sixth Street Theatre site of annual Snowdance 10-Minute Comedy Festival"], ''Kenosha News'', January 30, 2014.</ref>
+
+The Racine Symphony Orchestra performs 2-3 Masterworks concerts per year, several free pops concerts, and an annual concert for fifth graders.<ref>Lee Roberts, [http://journaltimes.com/lifestyles/leisure/trio-of-upcoming-rso-concerts-feature-music-for-a-lifetime/article_75b4eef4-a98b-11e3-93c7-0019bb2963f4.html ''Trio of upcoming RSO concerts feature music for a lifetime''], ''Racine Journal Times'', March 13, 2014.</ref> Local bands perform free noontime and evening concerts at downtown's centrally located Monument Square throughout the summer.<ref>Lee Roberts, [http://journaltimes.com/lifestyles/leisure/free-outdoor-concerts-abound-this-summer/article_34a597ba-c804-11e2-8640-0019bb2963f4.html "Free outdoor concerts abound this summer"], ''Racine Journal Times'', May 30, 2013.</ref> Weekly open mic opportunities for musicians and other performers are hosted by Family Power Music.<ref>[http://journaltimes.com/calendar/music/live-music-by-family-power-music-with-bryan-cherry/event_b6a0b2b6-18bf-11e3-bf73-10604b9f2f3c.html "Live Music by Family Power Music with Bryan Cherry"], ''Racine Journal Times'', September 27, 2013.</ref>
+
+The monthly BONK! Performance Series showcases local, regional and national poets.<ref>Lee Roberts, [http://journaltimes.com/lifestyles/leisure/bonk-series-to-present-its-th-show/article_f02728d0-9385-11e3-a3e1-0019bb2963f4.html "BONK! series to present its 65th show"], ''Racine Journal Times'', February 13, 2014.</ref><ref>The Library as Incubator Project, [http://www.libraryasincubatorproject.org/?p=8833 ''BONK! Performance Series at Racine Public Library''], February 8, 2013.</ref>
+
+There are three opportunities for area artists and poets to receive recognition for their work: The RAM Artist Fellowship Program awards four $2,500 fellowships and solo shows every two years to artists working in a variety of media who are at all stages of their careers;<ref>Lee Roberts, [http://journaltimes.com/lifestyles/leisure/ram-artist-fellowship-exhibit-at-wustum-spotlights-work-of-four/article_6652574e-410d-11e3-959f-001a4bcf887a.html ''RAM Artist Fellowship exhibit at Wustum spotlights work of four local artists''], ''Racine Journal Times'', October 31, 2013.</ref> The Racine Arts Council ArtSeed Program provides grants ranging from $500 to $1,500 to projects that are new, innovative, experimental and collaborative;<ref>Lee Roberts, [http://journaltimes.com/news/local/grant-program-seeks-to-expand-local-arts-scene/article_53793e0a-9436-11e2-ab19-001a4bcf887a.html ''Grant program seeks to expand local arts scene''], Racine Journal Times, March 23, 2013.</ref> the Racine/Kenosha Poet Laureate Program chooses one poet from Racine and one poet from Kenosha every 2 years.<ref>Lee Roberts, [http://journaltimes.com/lifestyles/faith-and-values/a-passion-for-poetry-racine-s-first-co-poets-laureate/article_c0c6e7bc-831e-11e0-83c0-001cc4c002e0.html ''A passion for poetry: Racine’s first co-poets laureate want to enlighten, entertain''], ''Racine Journal Times'', May 21, 2011.</ref><ref>[http://journaltimes.com/news/local/poets-laureate-for-racine-and-kenosha-to-be-announced-at/article_c6be8bec-3ce5-11e3-96c3-001a4bcf887a.html ''Poets Laureate for Racine and Kenosha to be announced at Oct. 25 event''], ''Racine Journal Times'', October 24, 2013.</ref>
+
+'''4th Fest Parade'''
+
+Racine is nationally known for its 4 July Parade. The 4th Fest Parade in Racine is the Largest in the Midwest. 4th Fest of Greater Racine, Inc. is a non-profit organization with an entirely volunteer board of directors. This group is responsible for all celebratory activities in Racine associated with the 4th of July. In 2008, USA Today ranked Racine's 4th Fest Parade as one of the Top 10 Places to celebrate the 4th of July.
+
+==Sports==
+The [[Racine Legion]], a professional [[American football|football]] team and part of the [[National Football League]], played here from 1922 to 1924. Its official name was the Horlick-Racine Legion.<ref>{{cite book|last1=Snyder|first1=Matthew|title=Welcome To Horlickville!|date=November 19, 2014|publisher=Matthew C. Snyder publishing|isbn=9781634523684|page=1|edition=First|url=http://www.RacineLegion.com|accessdate=November 20, 2014}}</ref> The team then operated as the '''Racine Tornadoes''' in 1926. They played at [[Horlick Field]].
+
+The Racine Elks was an amateur basketball team.
+  
+===Prom===
+The city is known for its large prom celebration, at which students from all the high schools in the city participate in an after prom party. This was featured on the radio show ''[[This American Life]]'' in Episode #186 "Prom", which originally aired on June 8, 2001;<ref>{{cite web |url=http://www.thislife.org/Radio_Episode.aspx?sched=875 |title=This American Life |accessdate=May 28, 2008 |work=ThisLife.org }}</ref> Racine's prom tradition was also the subject of the 2006 documentary ''[[The World's Best Prom]]''. In addition to the large prom Racine has become known for, the city has also been hosting a special needs prom called A Night To Remember every year since 2013. The A Night To Remember prom always takes place on the Sunday following Racine's larger prom and includes those from age 13 to 30.<ref>{{Cite web|url=https://journaltimes.com/news/local/special-needs-prom-now-in-its-sixth-year-transitions-into/article_fc0d16cc-16c3-519a-a0b8-7f849c5adfaf.html|title=Special-needs prom, now in its sixth year, transitions into new era|last=Rogan|first=Adam|website=Journal Times|language=en|access-date=2020-03-01}}</ref>
+
+== Media ==
+Racine is served by the daily newspaper ''The Journal Times'',<ref>[http://www.journaltimes.com/ Journaltimes.com]</ref> which is the namesake (but not current owner) of radio station [[WRJN]] (1400). The ''[[Milwaukee Journal Sentinel]]'' formerly published a Racine-specific page on Thursdays and a Racine County section on Sundays, but dropped those in a series of downsizings that began in 2007. ''The Insider News'' covers issues specific to the African-American community. ''Racinenews.org''<ref>[http://www.racinenews.org/ Racinenews.org]</ref> offers web-based coverage for Racine.<ref>[http://news.racinepost.com/2010/11/patch-joins-online-local-local-news.html News.racinepost.com]</ref>
+
+The city has one television station owned by [[Weigel Broadcasting]], [[WMLW-TV]] (Channel 49), an [[Independent station (North America)|independent station]] which airs syndicated product, and had its analog transmitter just north of the Milwaukee County line in [[Oak Creek, Wisconsin|Oak Creek]]. For all intents and purposes the station serves all of southeastern Wisconsin, with the station offices located in [[West Allis, Wisconsin|West Allis]] and the station's current transmitter is located on the Weigel tower in Milwaukee's Lincoln Park. WMLW airs a Saturday morning [[public affairs (broadcasting)|public affairs]] program called ''Racine & Me'', which is produced and hosted by Jessica Tighe of sister station [[WDJT-TV]], and is devoted to topics of interest to Racine residents. The station's fourth subchannel also rebroadcasts [[Telemundo]] affiliate [[WYTU-LD]].
+
+FM radio stations serving the area are [[country music]] [[WVTY]] (92.1 FM) and [[urban contemporary]] [[WKKV]]-FM (100.7). WVTY specifically targets Racine and Kenosha and is locally owned, while WKKV is a station owned by [[iHeartMedia]] that, although licensed to Racine and having a transmitter in north-central Racine County, is targeted towards Milwaukee audiences and has its offices in [[Greenfield, Wisconsin|Greenfield]]. [[Sturtevant, Wisconsin|Sturtevant]]-licensed [[WDDW]]-FM (104.7) broadcasts a traditional Mexican music format targeting the metro area's [[Mexican-American]] population.
+
+==Sister cities==
+Racine's [[sister cities]] are:<ref>{{cite web |title=Our Sister Cities|url=https://racinesistercities.weebly.com/our-sister-cities.html|publisher=Racine's Sister Cities Planning Committee|accessdate=2020-10-29}}</ref>
+*{{flagicon|DEN}} [[Aalborg Municipality|Aalborg]], Denmark
+*{{flagicon|FRA}} [[Montélimar]], France
+*{{flagicon|JPN}} [[Ōiso]], Japan
+*{{flagicon|MEX}} [[Zapotlanejo]], Mexico
+
+== Notable people ==
+{{Main|List of people from Racine, Wisconsin}}
+
+== See also ==
+* [[New Holland Agriculture#Global market presence|New Holland Agriculture]]
+{{Clear}}
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{Commons category}}
+{{NIE Poster|Racine}}
+* [http://www.cityofracine.org City of Racine]
+* [http://www.racine.org/ Racine County Convention and Visitors Bureau]
+* {{cite NSRW|wstitle=Racine, Wis.}}
+{{Racine, Wisconsin}}
+{{Racine County, Wisconsin}}
+{{Wisconsin}}
+{{Great Lakes Megalopolis}}
+{{Authority control}}
+
+[[Category:Racine, Wisconsin| ]]
+[[Category:Cities in Wisconsin]]
+[[Category:Cities in Racine County, Wisconsin]]
+[[Category:Populated places on the Underground Railroad]]
+[[Category:Wisconsin populated places on Lake Michigan]]
+[[Category:County seats in Wisconsin]]
+[[Category:Populated places established in 1834]]
+[[Category:1834 establishments in Michigan Territory]]

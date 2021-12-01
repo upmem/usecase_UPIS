@@ -1,0 +1,17 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Artwork for Kylie Minogue's single, "Never Too Late"
+|Source = iTunes
+|Author = PWL / Kylie Minogue
+|Article = Never Too Late (Kylie Minogue song)
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = It will be one of few files, used once, and is an appropriate excerpt at an appropriate size.
+|Commercial = n.a.
+|Other information = Replacing a previous .jpg file that had an inaccurate aspect ratio and smaller size.
+}}
+
+==Licensing==
+{{Non-free album cover|image has rationale=yes|auto=yes}}
+
+[[Category:Kylie Minogue album covers|Never Too Late]]

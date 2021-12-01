@@ -1,0 +1,28 @@
+{{short description|Genus of beetles}}
+{{Italic title}}
+{{Taxobox
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Beetle|Coleoptera]]
+| subordo = [[Polyphaga]]
+| familia = [[Cerambycidae]]
+| genus = '''''Parachalastinus'''''
+}}
+
+'''''Parachalastinus''''' is a genus of [[beetle]]s in the family [[Cerambycidae]], containing the following species:<ref>Bezark, Larry G. [http://plant.cdfa.ca.gov/byciddb/bycidview.asp A Photographic Catalog of the Cerambycidae of the World] {{Webarchive|url=https://web.archive.org/web/20130827211041/http://plant.cdfa.ca.gov/byciddb/bycidview.asp |date=2013-08-27 }}. Retrieved on 22 May 2012.</ref>
+
+* ''[[Parachalastinus championi]]'' <small>(Bates, 1885)</small>
+* ''[[Parachalastinus flavescens]]'' <small>Julio, 2005</small>
+* ''[[Parachalastinus nigrescens]]'' <small>Galileo & Martins, 2001</small>
+* ''[[Parachalastinus rubrocinctus]]'' <small>(Bates, 1869)</small>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q14817876}}
+
+[[Category:Anisocerini]]
+
+
+{{Anisocerini-stub}}

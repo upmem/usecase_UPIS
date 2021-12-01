@@ -1,0 +1,79 @@
+{{Infobox royalty
+| consort = yes
+| name = Jeshm Afet Hanim
+| image = Jesham Affet Hanemefendi.jpg
+| alt =
+| caption = 
+| reign-type  = Tenure
+| predecessor = Title created
+| successor   = Title abolished
+| succession = Princess Consort of [[Egypt]]
+| reign = 1863 – 26 June 1879
+|regent      = Shehret Feza<br>[[Jananiyar Hanim|Jananiyar]]<br>[[Shafaq Nur Hanim|Shafaq Nur]]
+|reg-type     = Co-Princess
+| spouse = [[Isma'il Pasha]]
+| issue = [[Melek Tourhan]] (adoptive)
+| full name = 
+| house = [[Muhammad Ali dynasty|Muhammad Ali]] (by marriage)
+| father =
+| mother =
+| birth_date = 
+| birth_place = 
+| death_date = 11 November 1907 
+| death_place = [[Egypt]]
+| place of burial = Khedival Mausoleum, [[Al-Rifa'i Mosque]], [[Cairo]], [[Egypt]]
+| signature =
+| religion = [[Sunni Islam]] 
+}}
+
+'''Jeshm Afet Hanim''' ({{Lang-ar|جشم آفت هانم}}; {{Lang-tr|Çeşm İfet Hanım}}; died 11 November 1907) was the Princess consort of [[Khedive]] [[Isma'il Pasha]] of [[Egypt]]. She was the adoptive mother of the future Sultana of Egypt [[Melek Tourhan]].
+
+==Marriage==
+Jeshm Afet married Isma'il Pasha as his third wife just after his accession to the throne in 1863.{{sfn|Doumani|2003|p=258}}<ref>{{cite book|first=Kenneth M.|last=Cuno|title=Modernizing Marriage: Family, Ideology, and Law in Nineteenth- and Early Twentieth-Century Egypt|publisher=Syracuse University Press|date=April 1, 2015|pages=33|isbn=978-0-815-65316-5}}</ref> She was given the title of "Third Princess",{{sfn|Doumani|2003|p=258}} a position at which she remained throughout his entire reign, until his deposition in 1879.{{sfn|Doumani|2003|p=270}} She was widowed at his death in 1895.{{sfn|Doumani|2003|p=270}}
+
+Al-Tahtawi’s book on the education of women, titled al-Murshid al-Amin lil Banat wa al-Banin (the faithful guide for girls and boys) published in 1873, was commissioned by Khedive Ismail after Jeshm Afet Hanim, used her own money to establish the first general public school for girls at al-Suyufiya in 1873, which claimed additional fame to her.<ref name="Taymur">{{Cite book|author=Mervat F. Hatem|title=Literature, Gender, and Nation-Building in Nineteenth-Century Egypt: The Life and Works of `A'isha Taymur|url=https://archive.org/details/literaturegender00hate|url-access=limited|publisher=Palgrave Macmillan|year=12 April 2011|pages=[https://archive.org/details/literaturegender00hate/page/n18 2], 198|isbn=978-0-230-11860-7}}</ref> 
+
+The genealogy of the dynasty revealed that Jeshm Afet had no children of her own,
+<ref>{{Cite book|last=Hassan|first=Hassan|authorlink=Hassan Aziz Hassan|title=In the House of Muhammad Ali: A Family Album, 1805–1952|year=2000|publisher=American University in Cairo Press|isbn=978-977-424-554-1|oclc=45016821|ref=Has00}}</ref> which might explain her interest in the education of young girls. Hasan Tourhan Pasha, a captain in the [[Ottoman Navy]] offered an adoption of his daughter [[Melek Tourhan|Melek]], in order to improve her lot in life. Melek was adopted by Jeshm Afet, during the 1870s. While they lost touch with each other following the exile of Khedive Ismail, when Melek Hanim became the second wife of [[Hussein Kamel of Egypt|Prince Husein Kamel]] in 1887 returning to Egypt with him, she resumed her acquaintance and a relationship with [[Aisha Taymur]]. There was no doubt that the relationship between Jeshm Afet Hanim and Taymur was shaped by their mutual interest in women's education and poetry that reflected the changing interests and concerns of some royal and upper-class women beyond mothering and feminine crafts.<ref name="Taymur"/>
+
+==Death==
+Jeshm Afet Hanim died on 11 November 1907,<ref>http://www.geocities.ws/hazemsakr/royal/ismail.html His Highness Hidiv Ismail Paşa Hidiv of Misir (Egypt), Sudan and Taşoz</ref> and was buried at the Khedival Mausoleum, [[Al-Rifa'i Mosque]], [[Cairo]], [[Egypt]].<ref>http://amorbidfascination.blogspot.com/2010/05/royal-tombs-rifai-mosque-cairo-egypt.html Royal Tombs, Rifa'i Mosque, Cairo, Egypt</ref>
+
+==Gallery==
+<gallery mode="packed">
+File:Pssetchachma.jpg|Jeshm Afet Hanim and her female orchestra, circa 1872
+File:Tomb of Jeshem Afet Hanem.JPG|The tomb of Jeshm Afet Hanim
+</gallery>
+
+==See also==
+*[[List of consorts of the Muhammad Ali Dynasty]]
+
+==References==
+{{Reflist|2}}
+
+==Source==
+*{{cite book|first=Beshara|last=Doumani|title=Family History in the Middle East: Household, Property, and Gender|publisher=SUNY Press|date=2003|isbn=978-0-791-48707-5}}
+
+==External links==
+{{Commons category}}
+*{{Cite web |last=Soszynski |first=Henry |title=HH Khedive Ismail I Pasha |url=http://freepages.genealogy.rootsweb.ancestry.com/~royalty/islamic/i654.html#I654| publisher=[[Ancestry.com, Inc.]] |accessdate=2010-02-27}}
+
+{{s-start}}
+{{s-roy|eg}}
+{{s-new|reason=Title created}}
+{{s-ttl|title=Princess consort of [[Egypt]]
+       |years=1863 – 26 June 1879<br />''concurrently with Shehret Feza, [[Jananiyar Hanim|Jananiyar]], and [[Shafaq Nur Hanim|Shafaq Nur]]''}}
+{{s-vac|next=Title abolished}}
+{{s-end}}
+
+{{Muhammad Ali Dynasty}}
+
+{{DEFAULTSORT:Hanemefendi, Cheshm Afet}}
+[[Category:1830 births]]
+[[Category:1907 deaths]]
+[[Category:Egyptian concubines]]
+[[Category:Kidnapped Egyptian people]]
+[[Category:Egyptian people of Circassian descent]]
+[[Category:Egyptian princesses]]
+[[Category:Muhammad Ali dynasty]]
+[[Category:Burials in Egypt]]

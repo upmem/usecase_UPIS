@@ -1,0 +1,12 @@
+==Summary==
+{{Information
+|Description = company logo
+|Source = I created the image at the founding of the company<br/>
+'''Previously published:''' Facebook, Twitter, etc (https://www.facebook.com/FortyThreePR)
+|Date = 2006/01/15
+|Author = [[User:Noahjohn|Noahjohn]]
+}}
+
+==Licensing==
+{{self|GFDL|cc-by-sa-3.0|migration=redundant}}
+{{Copy to Wikimedia Commons|bot=ContinuityBot}}

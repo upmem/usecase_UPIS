@@ -1,0 +1,18 @@
+'''Mount Shëndelli''' ([[Literal translation|lit.]] "Mount Holy-Sun") is a mountain in southern [[Albania]] in the geographical region of [[Southern Albanian Highlands]].<ref>{{cite web|last=Geonames|title=Shëndelli mountain|url=http://www.geonames.org/maps/google_40.35_20.083.html}}</ref> It is part of the mountain chain Shëndelli-[[Mount Lunxhëri|Lunxhëri]]-[[Mount Bureto|Bureto]] chain, which goes parallel to the [[Mount Trebeshinë|Trebeshinë]]-[[Mount Dhembel|Dhembel]]-[[Mount Nemërçkë|Nemërçkë]] chain. Its highest elevation is 1,802 m.<ref>Soviet military map К-34-125-В (1:50.000)</ref> Its orientation is north to south. The valley of the river [[Vjosë]], with the city [[Tepelenë]], lies to its south and west. 
+
+==Folklore==
+The mountain is considered by Albanians as a sacred place. In [[Albanian folk beliefs|local folk beliefs]] it is associated with the cult of the mountain peaks and the cult of the sun.{{sfn|Gjoni|2012|pp=85–86}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*{{cite thesis|type=PhD|last=Gjoni|first=Irena|title=Marrëdhënie të miteve dhe kulteve të bregdetit të Jonit me areale të tjera mitike|publisher=University of Tirana, Faculty of History and Philology|language=Albanian|year=2012|place=Tirana}}
+
+{{coord|40.3385|20.0594|display=title}}
+
+{{DEFAULTSORT:Shendelli}}
+[[Category:Mountains of Albania]]
+
+
+{{Vlorë-geo-stub}}

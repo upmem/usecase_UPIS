@@ -1,0 +1,73 @@
+{{Use dmy dates|date=November 2012}}
+{{infobox rugby biography
+| name           = Tom Davies
+| image          = 
+| image_size     = 
+| caption        = 
+| alt            = 
+| birth_name     = Tom Davies
+| birth_date     = {{birth date and age|1986|3|24|df=yes}}
+| birth_place    = [[Doncaster]], [[England]]
+| death_date     = 
+| death_place    = 
+| height         = {{convert|180|cm|ftin|abbr=on}}
+| weight         = {{convert|110|kg|stlb lb|0|abbr=on}}
+| school         = 
+| university     = 
+| spouse         = 
+| children       = 
+| relatives      = 
+| occupation     = 
+| ru_currentteam         = [[Doncaster R.F.C.|Doncaster Knights]]
+| ru_position            = [[Prop (rugby union)|Prop]]
+| ru_youthyears          = &nbsp;
+| ru_youthclubs          = 
+| ru_clubyears           = 2010–2011<br>2011–
+| ru_proclubs            = [[Cardiff Blues]]<br>[[Doncaster R.F.C.|Doncaster Knights]]
+| ru_clubcaps            = 7 
+| ru_clubpoints          = (0)
+| ru_clubupdate          = 18:00, 10 November 2012 (UTC)
+| ru_provinceyears       = 
+| ru_province            = 
+| ru_provincecaps        = 
+| ru_provincepoints      = 
+| super14years           = &nbsp;
+| super14                = 
+| super14caps            = 
+| super14points          = 
+| ru_nationalyears       = &nbsp;
+| ru_nationalteam        = 
+| ru_nationalcaps        = 
+| ru_nationalpoints      = 
+| ru_ntupdate            = 
+| ru_sevensnationalyears = &nbsp;
+| ru_sevensnationalteam  = 
+| ru_sevensnationalcomp  = 
+| ru_coachyears          = 
+| ru_coachclubs          = 
+| ru_refereeyears        = 
+| ru_refereecomps        = 
+| ru_refereeapps         = 
+}}
+
+'''Tomas Arthwr Davies''' (born 24 March 1986) is a [[rugby union]] player. A [[Rugby union positions#Prop|prop forward]], he played club rugby for [[Doncaster R.F.C.|Doncaster Knights]] from 2005 to 2015,<ref name=drfc>[http://www.drfc.co.uk/news/davies-to-start-in-castle-park-bow/ www.drfc.co.uk April 17, 2015] Davies hoping to bow out on a high.</ref> having previously played for [[Cardiff Blues]]. Davies qualifies for [[Wales]] as both his parents were born in [[Aberdare]] and he represented Wales at Under 18 level<ref name=Whitchurch>[http://www.pitchero.com/clubs/whitchurchrugbyfootballclub/news/memorable-international-debut-763865.html Whitchurch Rugby Club] Nick Kennard 5 Nov 2003 "Memorable International Debut For Thomas Davies"</ref> and Yorkshire Under 20s.<ref name=DoncasterFree>[http://www.doncasterfreepress.co.uk/sport/tom-is-first-home-grown-barbarian-1-503271 Donaster Free Press 16 Nov 2006] TOM IS FIRST HOME GROWN BARBARIAN</ref>  He has also played for the [[Barbarian F.C.|Barbarians]].<ref name=DoncasterFree/><ref name=TheStar2008>[http://www.thestar.co.uk/sport/football/rotherham/barbarians_call_up_for_knights_ace_1_235903  The Star (Sheffield) 28 February 2008] Barbarians call up for Knights ace</ref>
+
+He retired from professional rugby in 2015 for a career in [[chemical engineering]], following a degree in that subject at the [[University of Sheffield]].<ref name=drfc/>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.cardiffblues.com/rugby/blues_squad.php?player=9339&includeref=dynamic Cardiff Blues profile]
+
+{{DEFAULTSORT:Davies, Tom}}
+[[Category:Welsh rugby union players]]
+[[Category:Cardiff Blues players]]
+[[Category:Barbarian F.C. players]]
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Doncaster]]
+[[Category:Alumni of the University of Sheffield]]
+
+
+{{Wales-rugbyunion-bio-stub}}

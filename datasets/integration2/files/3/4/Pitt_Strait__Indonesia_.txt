@@ -1,0 +1,62 @@
+{{Infobox body of water
+| name                   = Pitt Strait
+| native_name        = {{lang-id|Selat Sagewin}} 
+| native_name_lang   = [[Indonesian]]
+| image                  = Karta ID RajaAmpat Isl.PNG
+| caption                = 
+| image_bathymetry       = 
+| caption_bathymetry     = 
+| depth                  = 
+| max-depth              = 
+| inflow                 =
+| outflow                =
+| catchment              =
+| basin_countries        = [[Indonesia]]
+| length                 =
+| width                  = 
+| min_width              =
+| islands                = 
+| etymology              = 
+| location               = 
+| pushpin_map            = Indonesia Western New Guinea
+| pushpin_label_position = 
+| pushpin_map_alt        =
+| pushpin_map_caption    = 
+| coordinates            = {{coord|00|55|00|S|130|45|00|E|type:ID|display=inline,title}}
+| coor_pinpoint          =
+| part_of                =
+| alt                    =
+| type                   = [[strait]]
+| cities                 = 
+| area                   = 
+| oceans                 = 
+| website            = 
+| reference          = [https://geographic.org/geographic_names/name.php?uni=-3735768&fid=2432&c=Indonesia Straat Sagewin: Indonesia] National Geospatial-Intelligence Agency, Bethesda, MD, USA 
+}}
+
+'''Pitt Strait''' (Indonesia)  (a.k.a. '''Pitt's Strait''', '''Sagewin Strait'''),{{sfnp|Andaya|1993|p=229}} falls within the waters of the  [[Indonesia]]n province of [[West Papua (province)|West Papua]]. The strait separates the [[Raja Ampat]] islands of [[Batanta]] and [[Salawati]] and links the [[Ceram Sea]] to the Pacific Ocean.{{sfnp|United States Hydrographic Office|1916|p=272}}{{sfnp|Moore|2003|p=87}} To its west lies [[Dampier Strait (Indonesia)|Dampier Strait]], which separates [[Batanta]] island from [[Waigeo]] island.{{sfnp|Moore|2003|p=87}}{{sfnp|United States Hydrographic Office|1916|pp=266–268}} The Sagewin Strait name refers to [[Sagewin Island]], which lies at the south east side of Pitt Strait, close to Salawati.
+
+== History ==
+In 1759 Captain William Wilson sailing in the [[East Indiaman]] [[Pondichéry (1754 ship)|''Pitt'']] navigated these waters and named the channel between Batanta and Salawati Pitt Strait, after his vessel, or equally, her namesake.{{sfnp|Moore|2003|p=87}} He also named the two islands King George's Island and Prince of Wales's Island,<ref>''Naval Chronicle'' (Jul-Dec 1805), Vol. 14, p.140.</ref> but these names did not prove as durable as that of the strait.
+
+The area of the Dampier Strait and Pitt Strait are a Marine Protected Area for [[cetacea]]ns.{{sfnp|Hoyt|2013|p=309}}
+
+==Citations and references==
+===Citations===
+{{reflist}}
+===References===
+* {{cite book |last1=Andaya |first1=Leonard Y. |year=1993 |title=The world of Maluku: eastern Indonesia in the early modern period | publisher=University of Hawaii Press |isbn=978-0824814908}}
+* {{cite journal |last1=Crowhurst |first1=R.P. |year=1969  |title=The voyage of the Pitt – a turning point in the East India navigation |journal=Mariner's Mirror |volume=55 |issue= |pages=43–56}}
+* {{cite book |last1=Hoyt |first1=Erich |year=2013 |title=Marine Protected Areas for Whales, Dolphins and Porpoises: A World Handbook for Cetacean Habitat Conservation and Planning |publisher=Routledge |isbn=978-1844077625}} 
+* {{cite book |last1=Moore |first1=Clive |year=2003 |title=New Guinea: Crossing Boundaries and History |publisher=University of Hawaii Press |isbn=978-0824824853}}
+* {{cite book |author=United States Hydrographic Office under the authority of the secretary of the navy |year=1916 |title=East Indies Pilot: Southern part |ref={{SfnRef|United States Hydrographic Office|1916}}}}
+
+{{List of Indonesian seas}}
+
+[[Category:Straits of Indonesia]]
+[[Category:Landforms of West Papua (province)]]
+[[Category:Landforms of Western New Guinea]]
+[[Category:Straits of the Pacific Ocean]]
+
+
+{{Papua-geo-stub}}

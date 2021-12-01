@@ -1,0 +1,56 @@
+{{Infobox religious building
+| name = Minase Shrine<br>水無瀬神宮
+| image = Minasejingu02bs5s2010.jpg
+| caption = Front view
+| map_type = Japan
+| map_alt = 
+| coordinates = {{coord|34.8849|N|135.673|E|source:kolossus-jawiki|display=title,inline}}
+| map_relief  = 
+| map_size = 
+| map_caption = 
+| religious_affiliation = [[Shinto]]
+| type = Imperial Shrine
+| deity = [[Emperor Go-Toba]], [[Emperor Tsuchimikado]] and [[Emperor Juntoku]]
+| founded_by = 
+| established = 1240
+| date_destroyed = 
+| location = 
+| website = 
+| architecture_style = 
+| festival = 
+| leadership = 
+}}
+
+{{nihongo|'''Minase Shrine'''|水無瀬神宮|Minase jingū}} is a Shinto Shrine in [[Shimamoto, Osaka]]<ref name="kanpei-taisha1940">Ponsonby-Fane, Richard. (1959). ''The Imperial House of Japan,'' p. 126.</ref>
+
+The Shrine is dedicated to the veneration of the ''kami'' of [[Emperor Go-Toba]], [[Emperor Tsuchimikado]] and [[Emperor Juntoku]].<ref name="kanpei-taisha1940"/>   In the struggle with the [[Kamakura shogunate]], the three historical figures are united by one common factor—each was overpowered and banished from the Imperial center in Kyoto: Go-Toba was banished to [[Oki Island]], where he died.<ref>Brownlee, John S. (1991). [https://books.google.com/books?id=P1OZUmnLTdoC&pg=PA104&dq=  ''Political Thought in Japanese Historical Writing: From Kojiki (712) to Tokushi Yoron (1712),'' p.104.]</ref> Tsuchimikado felt compelled to abandon Kyoto, traveling first to [[Tosa province]] (now known as [[Kōchi Prefecture]]); and later, he removed himself to [[Awa Province (Tokushima)|Awa province]], where he died in exile.<ref>Takekoshi, Yosaburō. (2004). [https://books.google.com/books?id=2ujfVq9v4zoC&pg=PA186&dq=  ''The Economic Aspects of the History of the Civilization of Japan,'' Volume 1, p. 186.]</ref> Juntoku was forced to end his days at [[Sado, Niigata|Sado Island]].<ref>Bornoff, Nicholas. (2005). ''National Geographic Traveler Japan,'' p. 193.</ref>
+In 1873, the ''kami'' of Go-Daigo and Tushimikado were enshrined, and the ''kami'' of Juntoku was enshrined in 1874.<ref>Holton, Daniel Clarence. (1922). [https://books.google.com/books?id=SRwNAAAAYAAJ&pg=PA273&dq=minase+jingu&lr=&client=firefox-a#v=onepage&q=minase%20jingu&f=false  ''The Political Philosophy of Modern Shintō, a Study of the State Religion of Japan,'' p. 273.]</ref>
+
+==Kanpei-sha==
+In 1871, the {{nihongo|''Kanpei-sha''|官幣社}} identified the hierarchy of government-supported shrines most closely associated with the Imperial family.<ref name="imperial124">Ponsonby-Fane, Richard. (1959). ''The Imperial House of Japan,'' p. 124.</ref>  The ''kampeisha'' were shrines venerated by the imperial family.  This category encompasses those sanctuaries enshrining emperors, imperial family members, or meritorious retainers of the Imperial family.<ref name="system">Institute for Japanese Culture and Classics, Kokugakuin University: [http://www2.kokugakuin.ac.jp/ijcc/wp/glossary/def_K.html  Glossary of Shinto Names and Terms, ''Kampei Taisha.'']</ref>  Up through 1940, the mid-range of Imperial shrines or {{nihongo|''Kanpei-chūsha''|官幣中社}} included  the shrine; and it was then known as Minase''-gū''<ref name="imperial125">Ponsonby-Fane. ''Imperial,'' p. 125.</ref> In 1940, Minase's status was changed {{nihongo|''Kanpei-taisha''|官幣大社}}, which is the highest rank; and since then, it has been known as Minase ''jingū.''<ref>Ponsonby-Fane, Richard. (1963). ''The Vicissitudes of Shinto,'' p. 394.</ref>
+
+==See also==
+* [[List of Jingū]]
+* [[Modern system of ranked Shinto Shrines]]
+* [[List of National Treasures of Japan (ancient documents)]]
+
+==Notes==
+{{reflist|2}}
+
+==References==
+* Bornoff, Niholas. (2005). ''National Geographic Traveler Japan.'' Washington, D.C.: [[National Geographic Society]].
+* Brownlee, John S. (1991). ''Political Thought in Japanese Historical Writing: From Kojiki (712) to Tokushi Yoron (1712).'' Waterloo, Ontario: Wilfrid Laurier University Press. {{ISBN|0-88920-997-9}}
+* Holton, Daniel Clarence. (1922). ''The Political Philosophy of Modern Shintō, a Study of the State Religion of Japan.'' Chicago: University of Chicago Libraries. [http://www.worldcat.org/oclc/2857479  OCLC 2857479]
+* [[Richard Ponsonby-Fane|Ponsonby-Fane]], Richard Arthur Brabazon. (1959). [https://books.google.com/books?id=SLAeAAAAMAAJ&q=The+Imperial+House+of+Japan&dq=The+Imperial+House+of+Japan&client=firefox-a&pgis=1  ''The Imperial House of Japan.''] Kyoto: Ponsonby Memorial Society. [http://www.worldcat.org/wcpa/oclc/194887 OCLC 194887]
+* _______________. (1962). [https://books.google.com/books?id=tjEvAAAAYAAJ&dq=Studies+in+Shinto+and+Shrines&ei=O6yMSZu3HKD2MsWNhdwC&client=firefox-a  ''Studies in Shinto and Shrines.''] Kyoto: Ponsonby Memorial Society. [http://www.worldcat.org/wcpa/oclc/3994492 OCLC 399449]
+* _______________. (1963). [https://books.google.com/books?id=Uru8GMeblXgC&q=sapporo+shrine+yoshihisa-shinno&dq=sapporo+shrine+yoshihisa-shinno&client=firefox-a  ''The Vicissitudes of Shinto.''] Kyoto: Ponsonby Memorial Society.  {{OCLC|186605327}}
+* Takekoshi, Yosaburō. (2004). ''The Economic Aspects of the History of the Civilization of Japan,'' Volume 1. London: Taylor & Francis. {{ISBN|978-0-415-32379-6}}
+
+
+
+{{Shinto shrine}}
+
+[[Category:Jingū]]
+[[Category:Shinto shrines in Osaka Prefecture]]
+[[Category:Important Cultural Properties of Japan]]
+[[Category:Emperor Go-Toba]]

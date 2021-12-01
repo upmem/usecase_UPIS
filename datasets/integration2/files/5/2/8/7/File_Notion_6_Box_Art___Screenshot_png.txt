@@ -1,0 +1,14 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = The box art and corresponding screenshot for the Notion 6 software.
+|Source = https://pae-web.presonusmusic.com/uploads/products/media/images/Notion_6_-_Main1_thumbnail.png
+|Author = PreSonus
+|Article = Notion (software)
+|Purpose = Will be used as lead image for the article specifically on Notion software.
+|Replaceability = n.a.
+|Minimality = Will be used specifically as the key image for the article on Notion software. Not intended for use elsewhere.
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free software screenshot}}

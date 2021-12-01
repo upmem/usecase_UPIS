@@ -1,0 +1,27 @@
+{{Cite Russian law
+|id=699
+|ru_entity=Законодательное Собрание Вологодской области
+|ru_type=Закон
+|ru_number=1113-ОЗ
+|ru_date=6 декабря 2004 г.
+|ru_title=Об установлении границ Вытегорского муниципального района, границах и статусе муниципальных образований, входящих в его состав
+|ru_effective_date=через 10&nbsp;дней со дня официального опубликования
+|ru_published_in="Красный Север", №242
+|ru_published_date=11 декабря 2004 г
+|ru_url=
+|ru_amendment_type=Закона
+|ru_amendment_number=3058-ОЗ
+|ru_amendment_date=30 мая 2013 г.
+|ru_amendment_title=О преобразовании некоторых муниципальных образований Вытегорского муниципального района Вологодской области и о внесении изменений в Закон области "Об установлении границ Вытегорского муниципального района, границах и статусе муниципальных образований, входящих в его состав"
+|en_entity=Legislative Assembly of Vologda Oblast
+|en_type=Law
+|en_number=1113-OZ
+|en_date=December&nbsp;6, 2004
+|en_title=On Establishing the Borders of Vytegorsky Municipal District, on the Borders and Status of the Municipal Formations It Comprises
+|en_effective_date=after 10&nbsp;days from the day of the official publication
+|en_url=
+|en_amendment_type=Law
+|en_amendment_number=3058-OZ
+|en_amendment_date=May&nbsp;30, 2013
+|en_amendment_title=On the Transformation of Several Municipal Formations in Vytegorsky Municipal District of Vologda Oblast and on Amending the Law of Vologda Oblast "On Establishing the Borders of Vytegorsky Municipal District, on the Borders and Status of the Municipal Formations It Comprises"
+}}<noinclude>[[Category:Subtemplates of Template RussiaAdmMunRef]]</noinclude>

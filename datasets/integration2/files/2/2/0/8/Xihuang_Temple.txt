@@ -1,0 +1,81 @@
+{{Infobox religious building
+| name        = Xihuang Temple
+| native_name = 西黄寺
+| native_name_lang = zh-hans
+| image      = Marble Pagoda in Yellow Temple.jpg
+| caption    = A white pagoda at Xihuang Temple.
+| map_type   = Beijing#China Beijing
+| map_caption = 
+| coordinates = {{coord|39.969649|N|116.396917|E|type:landmark_region:CN-11|format=dms|display=title,inline}}
+| coordinates_footnotes = 
+| religious_affiliation =  [[Buddhism]]
+| deity       = [[Tibetan Buddhism]]&ndash;[[Gelug]]
+| leadership  = 
+| festival    = <!-- or | festivals = -->
+| location    = [[Chaoyang District, Beijing]]
+| country = China
+| consecration_year = 
+| website = <!--  {{URL|}}  -->
+| architect = 
+| architecture_type = 
+| architecture_style = [[Chinese architecture]]
+| founded_by = [[Shunzhi Emperor]]
+| creator   = 
+| funded_by = 
+| general_contractor = 
+| established    = 1652
+| groundbreaking = 
+| year_completed = 
+| construction_cost = 
+| date_demolished = <!-- or | date_destroyed = -->
+| footnotes = 
+}}
+'''Xihuang Temple''' ({{zh|s=西黄寺|t=西黃寺|p=Xīhuáng Sì}}) is a [[Buddhist temple]] located in [[Chaoyang District, Beijing]].{{sfnb|Tong Xun|1997|p=253}}
+
+==History==
+[[File:Felice Beato (British, born Italy - (Arch in the Lama Temple near Peking) - Google Art Project.jpg|thumb|The [[paifang]] at Xihuang Temple, photoed by Felice Beato.]]
+
+===Qing dynasty===
+In 1644, [[Shunzhi Emperor]] established the [[Qing dynasty]] (1644&ndash;1911) in [[Beijing]]. In order to deal with military and political affairs, he invited the [[5th Dalai Lama]] to Beijing in 1651. Shunzhi Emperor issued the decree building the temple as the residence for the 5th Dalai Lama.{{sfnb|Tong Xun|1997|p=253&ndash;264}}
+
+In 1780, after the Parinirvana of the [[Lobsang Palden Yeshe, 6th Panchen Lama|6th Panchen Lama]], [[Qianlong Emperor]] ordered to built a white pagoda to commemorate him. The construction completed in 1982, Qianlong Emperor named it "Qingjing Huacheng Pagoda" ({{zh|s=清净化成塔|l=|labels=no}}).{{sfnb|Tong Xun|1997|p=253&ndash;264}}
+
+Xihuang Temple was devastated by the combined armies of the English and French during the [[Second Opium War]] in 1860. Forty years later in 1900, the [[Eight-Nation Alliance]] ransacked Xihuang Temple during the Invasion of Beijing.{{sfnb|Tong Xun|1997|p=253&ndash;264}}
+
+In 1908, the [[13th Dalai Lama]] lived here for almost three months.{{sfnb|Tong Xun|1997|p=253&ndash;264}}
+
+===Republic of China===
+In 1923, the [[Thubten Choekyi Nyima, 9th Panchen Lama|9th Panchen Lama]] came to Beijing and lived in Xihuang Temple.{{sfnb|Tong Xun|1997|p=253&ndash;264}}{{sfnb|Shi Miaozhou|2009|p=264}}
+
+===People's Republic of China===
+After the establishment of the Communist State in 1954, the [[Choekyi Gyaltsen, 10th Panchen Lama|10th Panchen Lama]] and [[14th Dalai Lama]] paid religious homage to Xihuang Temple while they attending the [[1st National People's Congress]].{{sfnb|Tong Xun|1997|p=253&ndash;264}}
+
+In 1979, Xihuang Temple was inscribed to the Beijing Municipal Cultural Preservation Pnit List. The Beijing Municipal Government refurbished and redecorated the temple in the following year.{{sfnb|Tong Xun|1997|p=253&ndash;264}}
+
+Xihuang Temple has been designated as a [[National Key Buddhist Temples in Han Chinese Area|National Key Buddhist Temple in Han Chinese Area]] by the [[State Council of the People's Republic of China|State Council of China]] in 1983.
+
+In September 1987, the 10th Panchen Lama set up the [http://www.zyxgjfxy.cn/ High-Level Tibetan Buddhism College of China] at the temple.
+
+In 2001, the white pagoda was listed among the "[[List of Major National Historical and Cultural Sites in Beijing|Major National Historical and Cultural Sites in Beijing]]" by the State Council of China.
+
+On May 18, 2018, the Museum of Xihuang Temple was officially opened to the public.<ref>{{cite news|author=Xu Na |url=http://www.tibet.cn/cn/travel/201805/t20180524_5879932.html |script-title=zh:回溯藏传佛教历史源流 西黄寺博物馆开馆大展等你来 |newspaper=tibet.cn |date=2018-05-24 |language=zh}}</ref>
+
+==Architecture==
+Along the central axis are the [[Shanmen|Shanmen Hall]], [[Hall of Four Heavenly Kings]], [[Mahavira Hall|Main Hall]], [[Paifang]], East Side Hall and West Side Hall.<ref>{{cite news|author= |url=http://news.163.com/11/0602/02/75GS6VFR00014AED.html |script-title=zh:西黄寺：禅意隐匿于闹市(图) |newspaper=163.com |date=2011-06-02 |language=zh}}</ref>
+
+==References==
+{{reflist}}
+
+===Bibliography===
+* {{cite book |author=Tong Xun |script-title=zh:《佛教与北京寺庙文化》|trans-title=Buddhism and Culture of Beijing Buddhist Temples |year=1997 |publisher=Minzu University of China Press |location=Beijing |isbn=9787810560634|language=zh|ref=harv}}
+* {{cite book |language=zh|author=Shi Miaozhou |script-title=zh:《蒙藏佛教史》|trans-title=History of Buddhism in Mongolia and Tibet|year=2009 |publisher=Guangling Publishing House|ref=harv|location=Suzhou, Jiangsu |isbn=9787806942987}}
+
+{{National Key Buddhist Temples in Han Chinese Area}}
+
+{{DEFAULTSORT:Xihuang Temple}}
+[[Category:Tibetan Buddhist temples in Beijing]]
+[[Category:Buildings and structures in Beijing]]
+[[Category:Tourist attractions in Beijing]]
+[[Category:17th-century establishments in China]]
+[[Category:17th-century Buddhist temples]]
+[[Category:Religious buildings and structures completed in 1662]]

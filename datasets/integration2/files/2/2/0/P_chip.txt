@@ -1,0 +1,105 @@
+{{one source|date=February 2015}}
+{{update|date=May 2018}}
+The term '''P chip''' ({{zh|c=P股}}) refers to Chinese companies listed on the [[Hong Kong Stock Exchange]] which are incorporated in the [[Cayman Islands]], [[Bermuda]] and the [[British Virgin Islands]] with operations in mainland China, and are run by [[private sector]] Chinese businessmen. During the [[financial crisis of 2007–2010]], P chips showed a dramatic increase in the rate of [[P chips frauds|bankruptcy failures]] as compared to [[H share]]s or [[red chip]]s.
+
+Since the main difference among private sector Chinese companies incorporated abroad is the exchange in which they are [[Listing (finance)|listed]], the following terms are used to differentiate them:
+
+* '''P chip''' if traded in Hong Kong (P stands for "private").
+* [[S chip]] if traded in Singapore.
+* [[N share]] if traded in the [[NYSE]], [[NASDAQ]], or the [[American Stock Exchange|AMEX]].
+* [[L share]] if traded in London.
+
+Therefore, the main difference between P chips and [[S chip]]s is the exchange on which they are traded.
+
+However, a few [[financial market participants|market participants]] may use the term "P chips" to refer to the entire universe of private sector Chinese companies incorporated abroad, regardless of the exchange in which they are traded. Therefore, these market participants may refer to [[S chip]]s or [[N share]]s as P chips.
+
+An index that covers prices of P chips is the MSCI P Chip Index.<ref>http://www.mscibarra.com/products/indices/china/en/</ref>
+
+== Recent IPOs of P chips ==
+''As of August 2010''
+
+*Bright Smart Securities & Commodities Group Ltd. [1428] (Cayman Islands) (25/08/2010)
+*West China Cement Ltd. [2233] (Jersey) (23/08/2010) (It is also an [[L share]])
+*Infinity Chemical Holdings Co. Ltd. [640] (Cayman Islands) (12/08/2010)
+*Manta Holdings Co. Ltd. [936] (Cayman Islands)  (19/07/2010)
+*China ITS (Holdings) Co., Ltd. [1900] (Cayman Islands) (15/07/2010)
+*Tian Shan Development (Holding) Ltd. [2118] (Cayman Islands) (15/07/2010)
+*Convoy Financial Services Holdings Ltd. [1019] (Cayman Islands) (13/07/2010)
+*Chiho-Tiande Group Ltd. [976] (Cayman Islands) (12/07/2010)
+*Sinoref Holdings Ltd. [1020] (Cayman Islands) (07/07/2010)
+*Chaowei Power Holdings Ltd. [951] (Cayman Islands) (07/07/2010)
+*Trauson Holdings Co. Ltd. [325] (Cayman Islands) (29/06/2010)
+*China Liansu Group Holdings Ltd. [2128] (Cayman Islands) (23/06/2010)
+
+== Partial list of suspended or delisted P chips ==
+''This list includes name of company, stock symbol, and place of incorporation. The Hong Kong Exchange might have reassigned to other companies the stock symbols in this list.''
+
+*[[Asia Aluminum]] ({{hkex|930}}) (Bermuda)
+*Bep International ({{hkex|2326}}) (Bermuda)
+*Fu Ji Food and Catering ({{hkex|1175}}) (Cayman Islands)
+*Peace Mark ({{hkex|304}}) (Bermuda)
+*Smart Union ({{hkex|2700}}) (Cayman Islands)
+*Tack Fat ({{hkex|928}}) (Cayman Islands)
+*U-right International ({{hkex|627}}) (Bermuda)
+*A-S China Plumbing Products Ltd. ({{hkex|8262}}) (Cayman Islands)
+*ABC Communications (Holdings) Ltd. ({{hkex|30}}) (Bermuda)
+*Automated Systems Holdings Ltd. ({{hkex|771}}) (Bermuda)
+*China Information Technology Development Ltd. ({{hkex|8178}}) (Cayman Islands)
+*China Jin Hui Mining Corporation Ltd. ({{hkex|462}}) (Cayman Islands)
+*China Medical and Bio Science Ltd. ({{hkex|8120}}) (Cayman Islands)
+*China Nickel Resources Holdings Co. Ltd. ({{hkex|2889}}) (Cayman Islands)
+*China Packaging Group Co. Ltd. ({{hkex|572}}) (Cayman Islands)
+*China Post E-Commerce (Holdings) Ltd. ({{hkex|8041}}) (Cayman Islands)
+*China Star Film Group Ltd. ({{hkex|8172}}) (Bermuda)
+*China Trends Holdings Ltd. ({{hkex|8171}}) (Cayman Islands)
+*CIL Holdings Ltd. ({{hkex|479}}) (Bermuda)
+*Climax International Co. Ltd. ({{hkex|439}}) (Bermuda)
+*EganaGoldpfeil (Holdings) Ltd. ({{hkex|48}}) (Cayman Islands)
+*Extrawell Pharmaceutical Holdings Ltd. ({{hkex|858}}) (Bermuda)
+*Grand Field Group Holdings Ltd. ({{hkex|115}}) (Bermuda)
+*Hong Kong Resources Holdings Co. Ltd. ({{hkex|2882}}) (Bermuda)
+*Info Communication Holdings Ltd. ({{hkex|8082}}) (Cayman Islands)
+*Jackin International Holdings Ltd. ({{hkex|630}}) (Bermuda)
+*Kith Holdings Ltd. ({{hkex|1201}}) (Bermuda)
+*M Dream Inworld Ltd. ({{hkex|8100}}) (Cayman Islands)
+*Mitsumaru East Kit (Holdings) Ltd. ({{hkex|2358}}) (Cayman Islands)
+*Nam Fong International Holdings Ltd. ({{hkex|1176}}) (Bermuda)
+*Nam Hing Holdings Ltd. ({{hkex|986}}) (Bermuda)
+*New City (China) Development Ltd. ({{hkex|456}}) (Cayman Islands)
+*Ngai Lik Industrial Holdings Ltd. ({{hkex|332}}) (Bermuda)
+*Ocean Grand Holdings Ltd. ({{hkex|1220}}) (Bermuda)
+*Pan Asia Mining Ltd. ({{hkex|8173}}) (Cayman Islands)
+*Pan Sino International Holding Ltd. ({{hkex|502}}) (Cayman Islands)
+*Peaktop International Holdings Ltd. ({{hkex|925}}) (Bermuda)
+*Prosten Technology Holdings Ltd. ({{hkex|8026}}) (Cayman Islands)
+*QPL International Holdings Ltd. ({{hkex|243}}) (Bermuda)
+*Rojam Entertainment Holdings Ltd. ({{hkex|8075}}) (Cayman Islands)
+*SMI Publishing Group Ltd. ({{hkex|8010}}) (Cayman Islands)
+*Wai Chun Group Holdings Ltd. ({{hkex|1013}}) (Bermuda)
+
+;former suspended companies
+* [[Warderly International Holdings]] ({{hkex|607}}) (Cayman Islands)
+
+== References ==
+{{reflist}}
+
+==See also==
+*[[Chip (stock market)|Chip]]
+* [[A share (mainland China)|A share]]
+* [[B share (mainland China)|B share]]
+* [[H share]]
+* [[Blue chip (stock market)|Blue chip]]
+* [[Red chip]]
+* [[Green chip]]
+* [[S chip]]
+* [[N share]]
+* [[L share]]
+* [[G share]]
+* [[China Concepts Stock]]
+* [[P chips frauds]]
+* [[S chips scandals]]
+* [[China Stock Frauds]]
+
+[[Category:Stock market terminology]]
+[[Category:Finance in Hong Kong]]
+[[Category:Finance in China]]

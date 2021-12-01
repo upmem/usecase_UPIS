@@ -1,0 +1,17 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Lilias Torrance Newton, Self-portrait, c. 1929
+|Source = '''Original publication''': unknown<br/>
+'''Immediate source''': https://www.gallery.ca/collection/artwork/self-portrait-117
+|Date = unknown
+|Author = Lilias Torrance Newton
+|Article = Lilias Torrance Newton
+|Purpose = for visual identification of the person in question, at the top of his/her biographical article
+|Replaceability = best youngest self portrait available on the web
+|Minimality = small file for infobox
+|Commercial = small file for infobox
+|Other information = The subject of the photograph has been deceased since: 1980
+}}
+
+==Licensing==
+{{Non-free biog-pic|Lilias Torrance Newton}}

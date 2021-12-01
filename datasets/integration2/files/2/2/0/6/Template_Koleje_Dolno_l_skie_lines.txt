@@ -1,0 +1,37 @@
+{{#switch:{{{1}}}
+ | D#default=''[[Koleje Dolnośląskie|KD]]''
+ | D1 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D1'''</span>
+ | D2 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D2'''</span>
+ | D3 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D3'''</span>
+ | D4 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D4'''</span>
+ | D5 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D5'''</span>
+ | D6 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D6'''</span>
+ | D7 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D7'''</span>
+ | D8 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D8'''</span>
+ | D9 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D9'''</span>
+ | D10 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D10'''</span>
+ | D11 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D11'''</span>
+ | D12 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D12'''</span>
+ | D13 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D13'''</span>
+ | D14 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D14'''</span>
+ | D15 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D15'''</span>
+ | D16 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D16'''</span>
+ | D17 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D17'''</span>
+ | D18 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D18'''</span>
+ | D19 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D19'''</span>
+ | D20 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D20'''</span>
+ | D21 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D21'''</span>
+ | D22 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D22'''</span>
+ | D23 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D23'''</span>
+ | D24 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D24'''</span>
+ | D25 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D25'''</span>
+ | D26 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D26'''</span>
+ | D27 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D27'''</span>
+ | D28 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D28'''</span>
+ | D29 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D29'''</span>
+ | D99 = <span style="color:#FFFFFF; background:#{{Koleje Dolnośląskie color}}; padding-left:.3em; padding-right:.3em;">'''D99'''</span>
+
+}}<noinclude>
+{{Rail succession links}}
+[[Category:Koleje Dolnośląskie templates]]
+</noinclude>

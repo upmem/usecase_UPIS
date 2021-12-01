@@ -1,0 +1,30 @@
+{{Speciesbox
+| image = Carditamera gracilis (Shuttleworth, 1856) 000.jpg
+| genus = Carditamera
+| species = gracilis
+| authority = (Shuttleworth, 1856)
+| display_parents = 3
+}}
+
+'''''Carditamera gracilis''''', or the West Indian cardita, is a species of [[bivalve]] [[mollusc]] in the [[family (biology)|family]] [[Carditidae]]. It can be found off the coast of the [[West Indies]].<ref>Abbott, R.T. & Morris, P.A. ''A Field Guide to Shells: Atlantic and Gulf Coasts and the West Indies.'' New York: Houghton Mifflin, 1995. 45.</ref>
+
+==Description==
+''Carditamera gracilis'' has an elongated shell, strong medium size about 40 mm. It has more pronounced radial rib and high in the back. Its color is white with brown spots; inside is pearly.<ref name="Lodeiro y col 1999">Lodeiros Seijos, J.M., Marin Espinosa, Baumar. y Prieto Arcas, Antulio. 1999: Catalogo de moluscos marinos de las costas nororientales de Venezuela: Clase Bivalvia. Asociacion de Profesores de la Universidad de Oriente, Cumana-Venezuela.</ref><ref name="Macsotay & Campos 2003">Macsotay O. & Campos. R. 2001. Moluscos representativos de la plataforma de Margarita. Editora Rivolta. Valencia. 280p. {{ISBN|980-328-808-3}}</ref>
+
+==Distribution==
+''Carditamera gracilis'' is distributed through the [[Gulf of Mexico]] and the [[Caribbean Sea]].<ref name="Lodeiro y col 1999"/><ref name="Macsotay & Campos 2003"/>
+
+==Habitat==
+It usually inhabits shallow water, attached to rocky substrates.<ref name="Lodeiro y col 1999"/><ref name="Macsotay & Campos 2003"/>
+
+==References==
+{{Reflist}}
+
+{{commonscat}}
+
+{{Taxonbar|from=Q3016243}}
+
+[[Category:Carditidae]]
+[[Category:Bivalves described in 1856]]
+
+{{bivalve-stub}}

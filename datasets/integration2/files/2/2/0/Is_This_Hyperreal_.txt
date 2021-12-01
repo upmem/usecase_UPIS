@@ -1,0 +1,84 @@
+{{Infobox album
+| name       = Is This Hyperreal?
+| type       = Studio
+| artist     = [[Atari Teenage Riot]]
+| cover      = ATR - Is This Hyperreal.jpg
+| alt        =
+| released   = June 7, 2011<ref>{{cite web|url=http://links.visibli.com/links/9ddad4|title=Atari Teenage Riot to release Is This Hyperreal?|date=April 5, 2011|publisher=MusicRemedy|author=Jermy Leeuwis}}{{Dead link|date=January 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| recorded   = The Hellish Vortex
+| venue      =
+| studio     =
+| genre      = [[Digital hardcore]], [[Noise music|noise]], [[electronic music|electronic]]
+| length     = {{Duration|m=43|s=30}}
+| label      = [[Digital Hardcore Recordings|Digital Hardcore]], [[Dim Mak Records|Dim Mak]]
+| producer   = [[Alec Empire]]
+| prev_title = [[Atari Teenage Riot: 1992–2000]]
+| prev_year  = 2006
+| next_title = [[Reset (Atari Teenage Riot album)|Reset]]
+| next_year  = 2014
+}}
+
+'''''Is This Hyperreal?''''' is the fourth studio album from [[Atari Teenage Riot]], and their first album since they effectively disbanded in 2000. It is the first ATR album featuring [[CX KiDTRONiK]], and the first album without former vocalists [[Hanin Elias]] and the late [[Carl Crack]].
+
+==Track listing==
+{{Tracklist
+| title1 = Activate!
+| length1 = 3:36
+| title2 = Blood in My Eyes
+| length2 = 3:47
+| title3 = Black Flags 
+| length3 = 4:00
+| title4 = Is This Hyperreal?
+| length4 = 4:12
+| title5 = Codebreaker
+| note5 = feat. [[Steve Aoki]]
+| length5 = 5:16
+| title6 = Shadow Identity
+| length6 = 4:12
+| title7 = Re-Arrange Your Synapses
+| length7 = 3:14
+| title8 = Digital Decay
+| length8 = 4:23
+| title9 = The Only Slight Glimmer of Hope
+| length9 = 3:53
+| title10 = Collapse of History
+| length10 = 6:57
+}}
+
+===Notes===
+*The single version of "Black Flags" features vocals from [[Boots Riley]].<ref name = "quietus">{{cite web|url=http://thequietus.com/articles/06071-atari-teenage-riot-is-this-hyperreal|title=Atari Teenage Riot's Guide To Is This Hyperreal?|date=April 12, 2011|publisher=TheQuietus.com|author=Luke Turner}}</ref>
+
+==Reception==
+{{Album ratings
+| MC = 65/100<ref name=MC/>
+| rev1 = [[AllMusic]]
+| rev1score = {{Rating|3.5|5}}<ref name=AllMusic>{{Cite web |url=https://www.allmusic.com/album/is-this-hyperreal-mw0002136563 |title=Is This Hyperreal? - Atari Teenage Riot |publisher=[[AllMusic]] |accessdate=7 December 2017}}</ref>
+| rev2 = ''[[Beats Per Minute (website)|Beats Per Minute]]''
+| rev2score = 60%<ref name=BPM>{{Cite web |url=https://beatsperminute.com/reviews/album-review-atari-teenage-riot-%E2%80%93-is-this-hyperreal/ |title=Album Review: Atari Teenage Riot - Is This Hyperreal? |publisher=[[Beats Per Minute (website)|Beats Per Minute]] |accessdate=7 December 2017}}</ref>
+| rev3 = ''[[Consequence of Sound]]''
+| rev3score = F<ref>{{cite web |last1=Young |first1=Alex |title=Atari Teenage Riot – Is This Hyperreal? |url=https://consequenceofsound.net/2011/06/album-review-atari-teenage-riot-is-this-hyperreal/ |website=[[Consequence of Sound]] |accessdate=December 3, 2019 |date=June 15, 2011}}</ref> 
+| rev4 = ''[[Drowned in Sound]]''
+| rev4score = 8/10<ref name=DiS>{{Cite web |url=http://drownedinsound.com/releases/16281/reviews/4142899 |title=Album Review: Atari Teenage Riot - Is This Hyperreal? |publisher=[[Drowned in Sound]] |accessdate=7 December 2017}}</ref>
+| rev5 = ''[[Pitchfork (website)|Pitchfork]]''
+| rev5score = 5.1/10<ref name=Pitchfork>{{Cite web |url=https://pitchfork.com/reviews/albums/15610-is-this-hyperreal/ |title=Atari Teenage Riot: Is This Hyperreal? Album Review |publisher=[[Pitchfork Media]] |accessdate=7 December 2017}}</ref>
+| rev6 = ''[[PopMatters]]''
+| rev6score = {{Rating|5|10}}<ref name=PopMatters>{{Cite web |url=https://www.popmatters.com/145327-atari-teenage-riot-is-this-hyperreal-2495981153.html |title=Atari Teenage Riot: Is This Hyperreal? |publisher=[[PopMatters]] |accessdate=7 December 2017}}</ref>
+| rev7 = ''[[Tiny Mix Tapes]]''
+| rev7score = {{Rating|3|5}}<ref name=TMT>{{Cite web |url=https://www.tinymixtapes.com/music-review/atari-teenage-riot-hyperreal |title=Atari Teenage Riot - Is This Hyperreal? |publisher=[[Tiny Mix Tapes]] |accessdate=7 December 2017}}</ref>
+}}
+
+The album received mixed to positive reviews from critics. [[Metacritic]] assigned it an average score of 65 out of 100, based on 13 reviews.<ref name=MC>{{cite web|url=http://www.metacritic.com/music/is-this-hyperreal/critic-reviews|title=Critic Reviews for Is This Hyperreal? at Metacritic|publisher=Metacritic|accessdate=June 22, 2011}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://myspace.com/atr922000 Atari Teenage Riot] on [[Myspace]]
+*[http://www.digitalhardcore.com Official Digital Hardcore Recordings site]
+
+{{Atari Teenage Riot}}
+
+[[Category:2011 albums]]
+[[Category:Atari Teenage Riot albums]]
+
+{{2010s-electronic-album-stub}}

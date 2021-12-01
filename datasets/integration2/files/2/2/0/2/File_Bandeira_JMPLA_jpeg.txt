@@ -1,0 +1,24 @@
+== Summary ==
+{{logo fur
+<!-- REQUIRED -->
+ |Article           = Youth of MPLA
+ |Use               = Infobox
+<!-- HIGHLY RECOMMENDED -->
+ |Source            = http://www.mpla.ao/jmpla.39/simbolos.41/bandeira.48.html
+<!-- ADDITIONAL INFORMATION -->
+ |Used for          = 
+ |Owner             = 
+ |Website           = 
+ |History           = 
+ |Commentary        = 
+<!-- OVERRIDE FIELDS -->
+ |Description       = 
+ |Portion           = 
+ |Low_resolution    = 
+ |Purpose           = 
+ |Replaceability    = 
+ |other_information = 
+}}
+
+== Licensing ==
+{{Non-free logo|image has rationale=yes}}

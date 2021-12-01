@@ -1,0 +1,274 @@
+{{Use dmy dates|date=March 2018}}
+{{Infobox planet
+ | minorplanet     = yes
+ | name            = 1050 Meta
+ | background      = #D6D6D6
+ | image           = 001050-asteroid shape model (1050) Meta.png
+ | image_size      = 250
+ | caption         = Modelled shape of ''Meta'' from its [[lightcurve]]
+ | discovery_ref   = &thinsp;<ref name="MPC-object" />
+ | discoverer      = [[Karl Reinmuth|K. Reinmuth]]
+ | discovery_site  = [[Heidelberg-Königstuhl State Observatory|Heidelberg Obs.]]
+ | discovered      = 14 September 1925
+ | mpc_name        = (1050) Meta
+ | alt_names       = 1925 RC{{·}}A908 SE
+ | pronounced      = 
+ | named_after     = ''[[:Category:Minor planets with names of unknown origin|unknown]]''<ref name="springer" />
+ | mp_category     = [[main-belt]]&thinsp;<ref name="MPC-object" /><ref name="jpldata" />{{·}}{{small|([[Kirkwood gap|middle]])}}<br />[[Eunomia family|Eunomia]]&thinsp;<ref name="lcdb" /><ref name="Ferret" />
+ | orbit_ref       = &thinsp;<ref name="jpldata" />
+ | epoch           = 23 March 2018 ([[Julian day|JD]] 2458200.5)
+ | uncertainty     = 0
+ | observation_arc = 108.68 [[Julian year (astronomy)|yr]] (39,694 d)
+ | aphelion        = 3.0904 [[Astronomical unit|AU]]
+ | perihelion      = 2.1599 AU
+ | semimajor       = 2.6252 AU
+ | eccentricity    = 0.1772
+ | period          = 4.25 yr (1,554 d)
+ | mean_anomaly    = 233.12[[Degree (angle)|°]]
+ | mean_motion     = {{Deg2DMS|0.2317|sup=ms}} / day
+ | inclination     = 12.496°
+ | asc_node        = 342.33°
+ | arg_peri        = 66.282°
+ | mean_diameter   = {{val|8.773|0.115|ul=km}}<ref name="Masiero-2014" /><br />{{val|9.196|0.079|u=km}}<ref name="WISE" /><br />{{val|10.03|0.65|u=km}}<ref name="AKARI" /><br />{{val|10.53|u=km}} {{small|(calculated)}}<ref name="lcdb" />
+ | rotation        = {{val|6.14188|0.00001|ul=h}}<ref name="Durech-2016" /><br />{{val|6.142|0.001|u=h}}<ref name="geneva-obs" />
+ | albedo          = 0.21 {{small|(assumed)}}<ref name="lcdb" /><br />{{val|0.294|0.042}}<ref name="AKARI" /><br />{{val|0.3346|0.0284}}<ref name="WISE" /><br />{{val|0.364|0.062}}<ref name="Masiero-2014" />
+ | spectral_type   = [[S-type asteroid|S]] {{small|(assumed)}}<ref name="lcdb" />
+ | abs_magnitude   = 12.00<ref name="WISE" /><ref name="AKARI" />{{·}}12.2<ref name="jpldata" /><ref name="lcdb" /><br />{{val|12.34|0.09}}<ref name="Veres-2015" />
+}}
+
+'''1050 Meta''', provisional designation {{mp|1925 RC}}, is a stony [[Eunomia asteroid]] from the central regions of the [[asteroid belt]], approximately {{convert|10|km|mi|abbr=off|sigfig=1|sp=us}} in diameter. It was discovered on 14 September 1925, by German astronomer [[Karl Reinmuth]] at the [[Heidelberg Observatory]] in southwest Germany.<ref name="MPC-object" /> The [[Meanings of minor planet names|meaning]] of the asteroids's name is [[:Category:Minor planets with names of unknown origin|unknown]].<ref name="springer" /> The presumably [[S-type asteroid]] has a [[rotation period]] of 6.14 hours and possibly an elongated shape.<ref name="lcdb" />
+
+== Orbit and classification ==
+
+''Meta'' is a member of the [[Eunomia family]] ({{small|[[FIN tbl#502|502]]}}),<ref name="lcdb" /><ref name="Ferret" /> a prominent [[Asteroid family|family]] of stony [[S-type asteroid]] and the largest one in the intermediate main belt with more than 5,000 members.<ref name="Nesvorny-2014" />{{rp|23}} It orbits the Sun in the [[Kirkwood gap|central]] asteroid belt at a distance of 2.2–3.1&nbsp;[[Astronomical unit|AU]] once every 4 years and 3 months (1,554 days; [[semi-major axis]] of 2.63&nbsp;AU). Its orbit has an [[orbital eccentricity|eccentricity]] of 0.18 and an [[orbital inclination|inclination]] of 12[[Degree (angle)|°]] with respect to the [[ecliptic]].<ref name="jpldata" />
+
+The body's [[observation arc]] begins with its first observation as {{mp|A908 SE}} at Heidelberg in October 1908, or 17 years prior to its official discovery observation.<ref name="MPC-object" />
+
+== Naming ==
+
+Any reference of this [[minor planet]]'s name to a person or occurrence is unknown.<ref name="springer" />
+
+=== Unknown meaning ===
+
+Among the many thousands of [[List of named minor planets (alphabetical)|named minor planets]], ''Meta'' is one of 120 asteroids, for which no official naming citation has been published. All of these asteroids have low numbers between {{MoMP|164|164 Eva}} and {{MoMP|1514|1514 Ricouxa}} and were discovered between 1876 and the 1930s, predominantly by astronomers [[Auguste Charlois]], [[Johann Palisa]], [[Max Wolf]] and [[Karl Reinmuth]] ''(also see [[:Category:Minor planets with names of unknown origin|category of asteroid names with unknown origin]])''.<ref name="DOMPN-unknown" />
+
+== Physical characteristics ==
+
+According to the overall [[Asteroid spectral type|spectral type]] for members of the Eunomia family, ''Meta'' is an assumed [[S-type asteroid]].<ref name="lcdb" />
+
+=== Rotation period and poles ===
+
+In October 2006, a rotational [[lightcurve]] of ''Meta'' was obtained from photometric observations by French amateur astronomer [[René Roy (astronomer)|René Roy]]. Lightcurve analysis gave a well-defined [[rotation period]] of 6.142 hours with a brightness amplitude of 0.46 [[Magnitude (astronomy)|magnitude]], indicating that the asteroid has an elongated shape ({{small|[[LCDB quality code|U=3]]}}).<ref name="geneva-obs" />
+
+A modeled lightcurve using photometric data from the Lowell Photometric Database was published in 2016. It gave a concurring period of 6.14188 hours, as well as two [[Poles of astronomical bodies|spin axes]] at (60.0°, −42.0°) and (198.0°, −79.0°) in [[Ecliptic coordinate system|ecliptic coordinates]] (λ,&thinsp;β).<ref name="Durech-2016" />
+
+=== Diameter and albedo ===
+
+According to the surveys carried out by the Japanese [[Akari (satellite)|Akari satellite]] and the [[NEOWISE]] mission of NASA's [[Wide-field Infrared Survey Explorer]], ''Meta'' measures between 8.773 and 10.03 kilometers in diameter  and its surface has an [[astronomical albedo|albedo]] between 0.294 and 0.364.<ref name="Masiero-2014" /><ref name="WISE" /><ref name="AKARI" />
+
+The ''Collaborative Asteroid Lightcurve Link'' assumes an albedo of 0.21 – derived from [[15&nbsp;Eunomia]], the namesake and [[parent body]] of the Eunomia family – and calculates a diameter of 10.53 kilometers based on an [[absolute magnitude]] of 12.2.<ref name="lcdb" />
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name="jpldata">{{cite web
+  |type       = 2017-06-05 last obs.
+  |title      = JPL Small-Body Database Browser: 1050 Meta (1925 RC)
+  |url        = https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2001050
+  |publisher  = [[Jet Propulsion Laboratory]]
+  |accessdate = 21 March 2018}}</ref>
+
+<ref name="springer">{{cite book
+  |title      = Dictionary of Minor Planet Names – (1050) Meta
+  |last       = Schmadel | first = Lutz D.
+  |publisher  = Springer Berlin Heidelberg
+  |chapter    = (1050) Meta 
+  |page       = 90
+  |date       = 2007
+  |isbn       = 978-3-540-00238-3
+  |doi        = 10.1007/978-3-540-29925-7_1051}}</ref>
+
+<ref name="DOMPN-unknown">{{cite book
+  |title      = Dictionary of Minor Planet Names – Fifth Revised and Enlarged revision
+  |chapter    = Appendix 11 – Minor Planet Names with Unknown Meaning
+  |last       = Schmadel | first = Lutz D.
+  |publisher  = Springer Berlin Heidelberg
+  |pages      = 927–929
+  |date       = 2007
+  |isbn       = 978-3-540-00238-3
+  |author-link= Lutz D. Schmadel}}</ref>
+
+<ref name="MPC-object">{{cite web
+  |title      = 1050 Meta (1925 RC)
+  |work       = Minor Planet Center
+  |url        = https://www.minorplanetcenter.net/db_search/show_object?object_id=1050
+  |accessdate = 21 March 2018}}</ref>
+
+<ref name="geneva-obs">{{cite web
+  |title      = Asteroids and comets rotation curves – (1050) Meta
+  |last       = Behrend |first = Raoul
+  |publisher  = [[Geneva Observatory]]
+  |url        = http://obswww.unige.ch/~behrend/page3cou.html#001050
+  |accessdate = 21 March 2018}}</ref>
+
+<ref name="Masiero-2014">{{cite journal
+  |display-authors = 6
+  |first1     = Joseph R. |last1 = Masiero
+  |first2     = T. |last2 = Grav
+  |first3     = A. K. |last3 = Mainzer
+  |first4     = C. R. |last4 = Nugent
+  |first5     = J. M. |last5 = Bauer
+  |first6     = R. |last6 = Stevenson
+  |first7     = S. |last7 = Sonnett
+  |date       = August 2014
+  |title      = Main-belt Asteroids with WISE/NEOWISE: Near-infrared Albedos
+  |journal    = The Astrophysical Journal
+  |volume     = 791
+  |issue      = 2
+  |page       = 11
+  |bibcode    = 2014ApJ...791..121M
+  |doi        = 10.1088/0004-637X/791/2/121
+  |arxiv      = 1406.6645}}</ref>
+
+<ref name="Ferret">{{cite web
+  |title      = Asteroid 1050 Meta – Nesvorny HCM Asteroid Families V3.0
+  |work       = Small Bodies Data Ferret
+  |url        = https://sbntools.psi.edu/ferret/SimpleSearch/results.action?targetName=1050+Meta
+  |accessdate = 24 October 2019}}</ref>
+
+<ref name="Nesvorny-2014">{{Cite book
+  |first1     = D. |last1 = Nesvorný
+  |first2     = M. |last2 = Broz
+  |first3     = V. |last3 = Carruba
+  |date       = December 2014
+  |title      = Identification and Dynamical Properties of Asteroid Families
+  |journal    = Asteroids IV
+  |pages      = 297–321
+  |bibcode    = 2015aste.book..297N
+  |doi        = 10.2458/azu_uapress_9780816532131-ch016
+  |arxiv      = 1502.01628
+  |isbn       = 9780816532131}}</ref>
+
+<ref name="lcdb">{{cite web
+  |title      = LCDB Data for (1050) Meta
+  |publisher  = Asteroid Lightcurve Database (LCDB)
+  |url        = http://www.minorplanet.info/PHP/generateOneAsteroidInfo.php?AstInfo=1050%7CMeta
+  |accessdate = 21 March 2018}}</ref>
+
+<ref name="AKARI">{{cite journal
+  |display-authors = 6
+  |first1     = Fumihiko |last1 = Usui
+  |first2     = Daisuke |last2 = Kuroda
+  |first3     = Thomas G. |last3 = Müller
+  |first4     = Sunao |last4 = Hasegawa
+  |first5     = Masateru |last5 = Ishiguro
+  |first6     = Takafumi |last6 = Ootsubo
+  |first7     = Daisuke |last7 = Ishihara
+  |first8     = Hirokazu |last8 = Kataza
+  |first9     = Satoshi |last9 = Takita
+  |first10    = Shinki |last10 = Oyabu
+  |first11    = Munetaka |last11 = Ueno
+  |first12    = Hideo |last12 = Matsuhara
+  |first13    = Takashi |last13 = Onaka
+  |date       = October 2011
+  |title      = Asteroid Catalog Using Akari: AKARI/IRC Mid-Infrared Asteroid Survey
+  |url        = http://pasj.oxfordjournals.org/content/63/5/1117.full.pdf+html
+  |journal    = Publications of the Astronomical Society of Japan
+  |volume     = 63
+  |issue      = 5
+  |pages      = 1117–1138
+  |bibcode    = 2011PASJ...63.1117U
+  |doi        = 10.1093/pasj/63.5.1117
+  |access-date= 17 October 2019|doi-access= free
+  }} ([http://vizier.cfa.harvard.edu/viz-bin/VizieR-5?-source=J/PASJ/63/1117/acua_v1&Num=1050 online], [https://core.ac.uk/download/pdf/43545172.pdf AcuA catalog p. 153])</ref>
+
+<ref name="WISE">{{cite journal
+  |display-authors = 6
+  |first1     = A. |last1 = Mainzer
+  |first2     = T. |last2 = Grav
+  |first3     = J. |last3 = Masiero
+  |first4     = E. |last4 = Hand
+  |first5     = J. |last5 = Bauer
+  |first6     = D. |last6 = Tholen
+  |first7     = R. S. |last7 = McMillan
+  |first8     = T. |last8 = Spahr
+  |first9     = R. M. |last9 = Cutri
+  |first10    = E. |last10 = Wright
+  |first11    = J. |last11 = Watkins
+  |first12    = W. |last12 = Mo
+  |first13    = C. |last13 = Maleszewski
+  |date       = November 2011
+  |title      = NEOWISE Studies of Spectrophotometrically Classified Asteroids: Preliminary Results
+  |journal    = The Astrophysical Journal
+  |volume     = 741
+  |issue      = 2
+  |page       = 25
+  |bibcode    = 2011ApJ...741...90M
+  |doi        = 10.1088/0004-637X/741/2/90
+  |arxiv      = 1109.6407}}</ref>
+
+<ref name="Durech-2016">{{cite journal
+  |first1     = J. |last1 = Durech
+  |first2     = J. |last2 = Hanus
+  |first3     = D. |last3 = Oszkiewicz
+  |first4     = R. |last4 = Vanco
+  |date       = March 2016
+  |title      = Asteroid models from the Lowell photometric database
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2016A&A...587A..48D
+  |journal    = Astronomy and Astrophysics
+  |volume     = 587
+  |page       = 6
+  |bibcode    = 2016A&A...587A..48D
+  |doi        = 10.1051/0004-6361/201527573
+  |arxiv      = 1601.02909
+  |access-date= 21 March 2018}}</ref>
+
+<ref name="Veres-2015">{{cite journal
+  |display-authors = 6
+  |first1     = Peter |last1 = Veres
+  |first2     = Robert |last2 = Jedicke
+  |first3     = Alan |last3 = Fitzsimmons
+  |first4     = Larry |last4 = Denneau
+  |first5     = Mikael |last5 = Granvik
+  |first6     = Bryce |last6 = Bolin
+  |first7     = Serge |last7 = Chastel
+  |first8     = Richard J. |last8 = Wainscoat
+  |first9     = William S. |last9 = Burgett
+  |first10    = Kenneth C. |last10 = Chambers
+  |first11    = Heather |last11 = Flewelling
+  |first12    = Nick |last12 = Kaiser
+  |first13    = Eugen A. |last13 = Magnier
+  |first14    = Jeff S. |last14 = Morgan
+  |first15    = Paul A. |last15 = Price
+  |first16    = John L. |last16 = Tonry
+  |first17    = Christopher |last17 = Waters
+  |date       = November 2015
+  |title      = Absolute magnitudes and slope parameters for 250,000 asteroids observed by Pan-STARRS PS1 - Preliminary results
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2015Icar..261...34V
+  |journal    = Icarus
+  |volume     = 261
+  |pages      = 34–47
+  |bibcode    = 2015Icar..261...34V
+  |doi        = 10.1016/j.icarus.2015.08.007
+  |arxiv      = 1506.00762
+  |access-date= 21 March 2018}}</ref>
+
+}} <!-- end of reflist -->
+
+== External links ==
+* [http://www.minorplanet.info/PHP/OneAsteroidInfo.php Lightcurve Database Query] (LCDB), at ''www.minorplanet.info''
+* [https://books.google.com/books?id=aeAg1X7afOoC&pg Dictionary of Minor Planet Names], Google books
+* [http://obswww.unige.ch/~behrend/page_cou.html Asteroids and comets rotation curves, CdR] – ''Geneva Observatory'', [[Raoul Behrend]]
+* [https://www.minorplanetcenter.net/iau/lists/NumberedMPs000001.html Discovery Circumstances: Numbered Minor Planets (1)-(5000)] – Minor Planet Center
+* {{AstDys|1050}}
+* {{JPL small body}}
+
+{{Minor planets navigator |1049 Gotho |number=1050 |1051 Merope}}
+{{Small Solar System bodies}}
+
+{{DEFAULTSORT:Meta}}
+[[Category:Eunomia asteroids|001050]]
+[[Category:Discoveries by Karl Wilhelm Reinmuth]]
+[[Category:Named minor planets]]
+[[Category:Minor planets with names of unknown origin]]
+[[Category:Astronomical objects discovered in 1925|19250914]]

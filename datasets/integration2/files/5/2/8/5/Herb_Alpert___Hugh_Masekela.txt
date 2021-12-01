@@ -1,0 +1,117 @@
+{{Infobox album
+| name       = Herb Alpert / Hugh Masekela
+| type       = studio
+| artist     = [[Herb Alpert]] and [[Hugh Masekela]]
+| cover      = Herb Alpert - Hugh Masekela (album cover).jpg
+| border     = yes
+| alt        =
+| released   = 1978
+| recorded   = in [[Hollywood, California]]
+| venue      =
+| studio     =
+| genre      = [[Jazz]]
+| length     =
+| label      = [[A&M Records|A&M]] <small>SP-728</small> <br />[[Horizon Records|Horizon]] <small>SP-728</small>
+| producer   = [[Caiphus Semenya]], [[Herb Alpert]], [[Stewart Levine]]
+| chronology = [[Hugh Masekela]]
+| prev_title = [[You Told Your Mama Not to Worry]]
+| prev_year  = 1977
+| next_title = [[Main Event Live]]
+| next_year  = 1978
+| misc       = {{Extra chronology
+ | artist     = [[Herb Alpert]]
+ | type       = studio
+ | prev_title = Greatest Hits Vol. 2
+ | prev_year  = 1977
+ | title      = Herb Alpert / Hugh Masekela
+ | year       = 1978
+ | next_title = [[Main Event Live]]
+ | next_year  = 1978
+}}
+}}
+{{Album ratings
+|rev1 = [[AllMusic]]
+|rev1score = {{Rating|3|5}}<ref>{{cite web|title=Herb Alpert/Hugh Masekela|url=http://www.allmusic.com/album/herb-alpert-hugh-masekela-mw0000199410|website=[[Allmusic]]|publisher=allmusic.com|accessdate=20 May 2016|first=Richard S. |last=Ginell}}</ref>
+|rev2 = ''[[The Encyclopedia of Popular Music]]''
+|rev2score = {{Rating|2|5}}<ref>{{cite book|last1=Larkin|first1=Colin|title=The Encyclopedia of Popular Music|date=May 27, 2011|url=https://books.google.com/books?id=_NNmFiUnSmUC&q=The+Encyclopedia+of+Popular+Music+-+hugh+masekela&pg=PA1202|publisher=Omnibus Press|isbn=9780857125958|page=1203|accessdate=26 April 2017}}</ref>
+}}
+
+'''''Herb Alpert / Hugh Masekela''''' is collaborative studio album by [[Herb Alpert]] and [[Hugh Masekela]].<ref>{{cite web|title=Hugh Masekela - Biography|url=https://www.amoeba.com/hugh-masekela/artist/116209/bio|website=[[Amoeba Music]]|publisher=amoeba.com|accessdate=13 July 2017}}</ref> It was recorded in Hollywood, California and released in 1978 via [[A&M Records]] and [[Horizon Records]] labels.<ref>{{cite web|title=Herb Alpert / Hugh Masekela – Herb Alpert / Hugh Masekela |url=https://www.discogs.com/Herb-Alpert-Hugh-Masekela-Herb-Alpert-Hugh-Masekela/release/712123|website=[[Discogs]]|publisher=discogs.com|accessdate=20 May 2016}}</ref><ref>{{cite web|title=DISCOGRAPHY: 1970-1979|url=http://www.dougpayne.com/hmd7079.htm#RECONSTRUCTION|publisher=dougpayne.com|accessdate=20 May 2016}}</ref>
+
+==Track listing==
+{{Track listing
+| collapsed       = 
+| headline        = 
+| title1          = [[Skokiaan]]
+| writer1         = [[Tom Glazer]], [[August Msarurgwa]]
+| length1         = 3:37
+
+| title2          = Moonza
+| writer2         = [[Caiphus Semenya]], [[Herb Alpert]]
+| length2         = 4:38
+
+| title3          = Ring Bell
+| writer3         = [[George David Weiss]], [[Jerry Ragovoy]]
+| length3         = 3:24
+
+| title4          = Happy Hanna
+| writer4         = Caiphus Semenya, Hotep Cecil Barnard
+| length4         = 4:58
+
+| title5          = El Lobo
+| note5           = The Wolf
+| writer5         = [[Edu Lobo]]
+| length5         = 7:20
+
+| title6          = African Summer
+| writer6         = Caiphus Semenya
+| length6         = 3:20
+
+| title7          = I'll Be There for You
+| writer7         = Caiphus Semenya
+| length7         = 7:05
+}}
+
+==Personnel==
+{{colbegin}}
+*Acoustic guitar – [[Tommy Tedesco]] (tracks: 5)
+*Arranged by – [[Caiphus Semenya]], [[Herb Alpert]], [[Hugh Masekela]], [[Stewart Levine]]
+*Backing vocals – [[Caiphus Semenya]], [[Herb Alpert]], [[Hugh Masekela]], [[Lani Hall]], [[Letta Mbulu]]
+*Bass – [[Chuck Domanico]]
+*Bass – [[Louis Johnson (bassist)|Louis Johnson]] (tracks: 1)
+*Co-producer – [[Hugh Masekela]]
+*Concertmaster – Gerald Vinci
+*Design – Chuck Beeson
+*Drums – Carlos Vega (tracks: 5), [[James Gadson]], [[Spider Webb (jazz drummer)|Spider Webb]] (tracks: 6)
+*Flugelhorn – [[Hugh Masekela]]
+*Flugelhorn, trumpet – [[Herb Alpert]]
+*French horn – Marylin L. Robinson, Sidney Isaac Muldrow
+*Guitar – [[Arthur Adams (singer)|Arthur Adams]], Freddie Harris, [[Lee Ritenour]]
+*Guitar – Arthur Adams (tracks: 7)
+*Mastered by – [[Bernie Grundman]]
+*Orchestrated By – Donald Cooke
+*Percussion – [[Paulinho Da Costa]]
+*Piano – [[Caiphus Semenya]], Hotep Cecil Barnard
+*Producer – [[Caiphus Semenya]], [[Herb Alpert]], [[Stewart Levine]]
+*Synthesizer – Craig Hindley (tracks: 4), [[Michael Boddicker]] (tracks: 6)
+*Synthesizer – [[Ian Underwood]]
+*Trombone – Donald Cooke, [[George Bohanon]]
+*Trombone (bass) – Maurice Spears
+{{colend}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://www.hughmasekela.co.za/index.php/discography}}
+
+{{Herb Alpert}}{{Hugh Masekela|state=autocollapse}}
+{{DEFAULTSORT:Herb Alpert Hugh Masekela}}
+[[Category:1978 albums]]
+[[Category:Hugh Masekela albums]]
+[[Category:Herb Alpert albums]]
+[[Category:albums produced by Stewart Levine]]
+[[Category:albums produced by Herb Alpert]]
+[[Category:Horizon Records albums]]
+[[Category:A&M Records albums]]
+[[Category:Collaborative albums]]

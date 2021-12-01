@@ -1,0 +1,114 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Anle Yi and Gelao Ethnic Township
+| native_name             = 安乐彝族仡佬族乡
+| native_name_lang        = zh-cn
+| settlement_type         = [[Ethnic townships, towns, and sumu of China|Ethnic township]]
+| image_skyline           =
+| image_alt               =
+| image_caption           =
+| image_flag              =
+| flag_alt                =
+| image_seal              =
+| seal_alt                =
+| image_shield            =
+| shield_alt              =
+| nickname                =
+| motto                   =
+| image_map               =
+| map_alt                 =
+| map_caption             =
+| pushpin_map             =China
+| pushpin_label_position  =
+| pushpin_map_alt         =
+| pushpin_map_caption     =Location in China
+| coordinates             = {{coord|27|14|39|N|105|39|28|E|region:CN-22|display=inline,title}}
+| coor_pinpoint           =
+| coordinates_footnotes   =
+| subdivision_type        = Country
+| subdivision_name        = People's Republic of China
+| subdivision_type1       = [[Provinces of the People's Republic of China|Province]]
+| subdivision_name1       = [[Guizhou]]
+| subdivision_type2       = [[Prefecture-level city]]
+| subdivision_name2       = [[Bijie]]
+| subdivision_type3       = [[Counties of China|County]]
+| subdivision_name3       = [[Dafang County]]
+| subdivision_type4       = 
+| subdivision_name4       = 
+| established_title       =
+| established_date        =
+| founder                 =
+| seat_type               =
+| seat                    =
+| government_footnotes    =
+| leader_party            =
+| leader_title            =
+| leader_name             =
+| unit_pref               = Metric<!-- or US or UK -->
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = 
+| area_urban_footnotes    = <!-- <ref> </re> -->
+| area_rural_footnotes    = <!-- <ref> </re> -->
+| area_metro_footnotes    = <!-- <ref> </re> -->
+| area_magnitude          = <!-- <ref> </re> -->
+| area_note               =
+| area_water_percent      =
+| area_rank               =
+| area_blank1_title       =
+| area_blank2_title       =
+<!-- square kilometers -->
+| area_total_km2          = 
+| area_land_km2           =
+| area_water_km2          =
+| area_urban_km2          =
+| area_rural_km2          =
+| area_metro_km2          =
+| area_blank1_km2         =
+| area_blank2_km2         =
+| length_km               =
+| width_km                =
+| dimensions_footnotes    =
+| elevation_footnotes     =
+| elevation_m             = 
+| population_footnotes    =
+| population_total        =
+| population_as_of        =
+| population_density_km2  = auto
+| population_demonym      =
+| population_note         =
+| timezone1               = [[China Standard Time|China Standard]]
+| utc_offset1             = 
+| postal_code_type        =[[List of postal codes in China|Postal code]]
+| postal_code             =
+| area_code_type          =
+| area_code               = 
+| iso_code                =
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               =
+}}
+
+'''Anle Yi and Gelao Ethnic Township''' ({{zh|s=安乐彝族仡佬族乡 |t=安樂彝族仡佬族鄉 |p=Ānlè Yí Zú Gēlǎo Zú Xiāng}}) is an [[Ethnic townships, towns, and sumu of China|ethnic township]] for [[Yi people]] and [[Gelao people]], under the administration of [[Dafang County]] in western [[Guizhou]] province, [[China]].<ref>{{cite web
+ |url = http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/05/520521.html
+ |script-title=zh:2018年统计用区划代码和城乡划分代码：大方县
+ |publisher = National Bureau of Statistics of the People's Republic of China
+ |language = Chinese
+ |accessdate = 2019-02-24}}</ref> {{asof|2018}}, it has 2 residential communities and 6 villages under its administration.<ref>{{cite web
+ |url=http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/52/05/21/520521212.html
+ |script-title=zh:2018年统计用区划代码和城乡划分代码：安乐彝族仡佬族乡
+ |publisher=National Bureau of Statistics of the People's Republic of China 
+ |language=Chinese 
+ |accessdate=2019-02-24
+}}</ref>
+
+== See also ==
+* [[List of township-level divisions of Guizhou]]
+
+== References ==
+{{reflist}}
+
+
+[[Category:Township-level divisions of Guizhou]]
+[[Category:Dafang County]]
+
+{{Guizhou-geo-stub}}

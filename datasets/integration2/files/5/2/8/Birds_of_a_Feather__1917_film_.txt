@@ -1,0 +1,59 @@
+{{short description|1917 film}}
+{{more citations needed|date=May 2019}}
+{{Use mdy dates|date=April 2020}}
+{{Infobox film
+| name           = Birds of a Feather
+| image          =
+| caption        =
+| director       =
+| producer       = [[Hal Roach]]
+| writer         = [[H. M. Walker]]
+| starring       = [[Harold Lloyd]]
+| music          =
+| cinematography =
+| editing        =
+| distributor    =
+| released       = {{film date|1917|10|7}}
+| runtime        =
+| country        = United States
+| language       = Silent with English intertitles
+}}
+'''''Birds of a Feather''''' is a 1917 American [[short film|short]] [[comedy film]] featuring [[Harold Lloyd]].
+
+==Cast==
+* [[Harold Lloyd]] as Lonesome Luke
+* [[Snub Pollard]]
+* [[Bebe Daniels]]
+* [[Gilbert Pratt]]
+* Billy Fay
+* [[Bud Jamison]]
+* [[Charles Stevenson (actor)|Charles Stevenson]] (as Charles E. Stevenson)
+* [[Sammy Brooks]]
+* [[Dorothea Wolbert]]
+* Lottie Case
+* Max Hamburger
+* W.L. Adams
+* David Voorhees
+* [[Fred C. Newmeyer]]
+* [[Denton Vane]]
+
+==See also==
+* [[List of American films of 1917]]
+* [[Harold Lloyd filmography]]
+
+==External links==
+*{{IMDb title|id=0006430|title=Birds of a Feather}}
+
+{{DEFAULTSORT:Birds Of A Feather (Film)}}
+[[Category:1917 films]]
+[[Category:1917 comedy films]]
+[[Category:1917 short films]]
+[[Category:American films]]
+[[Category:American short films]]
+[[Category:American silent short films]]
+[[Category:American black-and-white films]]
+[[Category:Films directed by Hal Roach]]
+[[Category:American comedy films]]
+[[Category:Lonesome Luke films]]
+[[Category:Comedy short films]]
+{{1910s-short-comedy-film-stub}}

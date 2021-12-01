@@ -1,0 +1,5 @@
+#REDIRECT [[Laili (horse)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

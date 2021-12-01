@@ -1,0 +1,62 @@
+{{Use mdy dates|date=September 2020}}
+{{short description|1925 film}}
+{{Infobox film
+| name =Tessie 
+| image =
+| image_size =
+| caption =
+| director = [[Dallas M. Fitzgerald]]
+| producer =
+| writer =  [[Sewell Ford]]
+| narrator =
+| starring = [[May McAvoy]] <br> [[Robert Agnew]] <br> [[Lee Moran]]
+| music = 
+| cinematography = [[Merritt B. Gerstad]]
+| editing = 
+| studio =[[Arrow Film Corporation]] 
+| distributor = Arrow Film Corporation 
+| released =  September 18, 1925
+| runtime = 70 minutes
+| country = United States
+| language = Silent <br> English intertitles
+| budget =
+| gross =
+| preceded_by =
+| followed_by =
+| website =
+}}
+'''''Tessie''''' is a 1925 American [[silent film|silent]] [[comedy drama film]] directed by [[Dallas M. Fitzgerald]] and starring [[May McAvoy]], [[Robert Agnew]] and [[Lee Moran]].<ref>Munden p.792</ref>
+
+==Cast==
+* [[May McAvoy]] as Tessie 
+* [[Robert Agnew]] as Roddy Wells
+* [[Lee Moran]] as Barney Taylor 
+* [[Myrtle Stedman]] as Mrs. Wells 
+* [[Gertrude Short]] as Mame McQuire 
+* [[Mary Gordon (actress)|Mary Gordon]] as Aunt Maggie 
+* [[Walter Perry (actor)|Walter Perry]] as Uncle Dan
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* Munden, Kenneth White. ''The American Film Institute Catalog of Motion Pictures Produced in the United States, Part 1''. University of California Press, 1997.
+
+==External links==
+* {{IMDb title|0016415}}
+
+{{Dallas M. Fitzgerald}}
+
+[[Category:1925 films]]
+[[Category:1925 comedy-drama films]]
+[[Category:English-language films]]
+[[Category:American films]]
+[[Category:American silent feature films]]
+[[Category:American comedy-drama films]]
+[[Category:Films directed by Dallas M. Fitzgerald]]
+[[Category:American black-and-white films]]
+[[Category:1925 comedy films]]
+[[Category:1925 drama films]]
+
+
+{{silent-comedy-drama-film-stub}}

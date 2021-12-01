@@ -1,0 +1,54 @@
+{{Speciesbox
+| image = Bembix_fg01.jpg
+| taxon = Bembix rostrata
+| authority = ([[Carl Linnaeus|Linnaeus]], 1758)
+| synonyms = *''Apis rostrata'' <small>Linnaeus, 1758</small>
+*''Bembex dissecta'' <small>[[Anders Gustaf Dahlbom|Dahlbom]], 1845</small> 
+*''Bembex gallica'' <small>[[Alexander Mocsáry|Mocsáry]], 1883</small> 
+*''Bembex paradoxa'' <small>Giner Marí, 1943</small> 
+*''Bembex rostrata'' <small>(Linnaeus, 1758)</small> 
+*''Bembex tarsata'' (<small>Giner Marí, 1943)</small> 
+*''Bembex vidua'' <small>[[Amédée Louis Michel le Peletier, comte de Saint-Fargeau|Lepeletier]]</small> 1845 
+*''Epibembex rostrata'' <small>(Linnaeus, 1758)</small>
+*''Vespa armata'' <small>[[Johann Heinrich Sulzer|Sulzer]], 1776</small>
+| synonyms_ref = <ref name = CoL>{{cite web | url = http://www.catalogueoflife.org/col/details/species/id/e155a4277b66d1114182cafd875afbe3/source/tree| title = ''Bembix rostrata'' (Linnaeus, 1758) (accepted name) | accessdate = 17 May 2017 | publisher = Catalog of Life}}</ref>
+}}
+
+'''''Bembix rostrata''''' is a protected species of [[Bembicini|sand wasp]] native to Central [[Europe]]. The genus ''Bembix'' - of which ''B. rostrata'' is among the most distinctive species - has over 340 species worldwide and is found mostly in warm regions with open, sandy soils; [[Australia]] and [[Africa]] have a particularly rich variety of species.
+
+== Distribution ==
+''B. rostrata'' ranges in distribution from Europe and the [[Mediterranean]] to Central [[Asia]], and as far north as [[Denmark]] and [[Sweden]]. 
+<!-- Germany-specific parts; probably shouldn't be included unless similar information can be found for other regions to balance....
+In Germany, the main focus of distribution is in the Rhine region. There is increasing evidence from Brandenburg to contradict suggestions of the species not having been observed in Westfalia since 1960. In Germany overall, a strong decrease in those species requiring warm, dry sand areas has been observed. -->
+
+== Characteristics ==
+''B. rostrata'' displays distinctive behaviour in front of its nest, digging its burrows with fast, synchronised movements of its forelegs. In addition, the insect can turn very rapidly about its own axis, the flapping of its wings as it does this producing a buzzing sound reminiscent of a gyroscope. Its size ({{cvt|15|–|24|mm|disp=or}}), striking yellow and black-striped abdomen and the [[Insect mouthparts#Labrum|labrum]], extended into a narrow beak, are distinctive features.
+
+== Behaviour ==
+''B. rostrata'' forms colonies between a dozen and several hundred insects, where the females each construct a tube up to {{cvt|20|cm}} long containing a single brood cell. This is stocked with dozens of insects, predominantly large flies ([[Tabanidae]], [[Syrphidae]]), which provide the larva with food for its two-week development to the [[imago]] stage. The female carefully re-seals the nest tube after each feeding. Because of this intensive maternal care, a female can raise at most only eight larvae during the high summer. ''B. rostata'' is very faithful to its nest sites, often nesting in the same places year-on-year, even if these change over time and alternative habitats are available.
+
+The species has become rare due to loss of large open-sand surfaces in warm areas, such as in the sand dunes of the upper Rhine Graben. It is also the host for several [[parasitoid]]s in families such as [[Bombyliidae]], [[Conopidae]], and [[Mutillidae]]. A [[cuckoo wasp]] which specialises in ''B. rostrata'' is ''[[Parnopes grandior]]''.
+
+The behaviour of ''B. rostrata'' led the famous naturalist [[Jean-Henri Fabre]] to conduct intensive studies of the species.
+
+[[Image:Bembix fg02.jpg|thumb|right|300px|A sand dune near [[Darmstadt]], in the [[Rhine]] [[Graben]]: open sandy areas like this are the typical habitat for ''B. rostrata''.]]
+
+== References ==
+{{Reflist}}
+*{{cite book |author=Evans, H. E. |year=1957 |title=Studies on the comparative ethology of digger wasps of the genus ''Bembix'' |url=https://archive.org/details/studiesoncompara0000evan|url-access=registration|publisher=Ithaca: Comstock |page=[https://archive.org/details/studiesoncompara0000evan/page/248 248] pp|author-link=Howard Ensign Evans }}
+*{{cite journal |author=Guichard, K. M. |year=1989 |title=The genus ''Bembix'' (Hymenoptera: Sphecidae) in Arabia |journal=Fauna of Saudi Arabia |volume=10 |pages=134–151}}
+*{{cite journal |author1=Hemmingson, A. M.  |author2=Nielson, E. T.  |name-list-style=amp |year=1925 |title=Über die Lebensinstinkte der dänischen ''Bembix rostrata'' L. |journal=Entomologiske Meddelelser |volume=16 |pages=14–127|language=de}}
+*Larsson, F. K. (1986). Increased nest density of the digger wasp ''Bembix rostrata'' as a response to parasites and predators (Hymenoptera: Sphecidae), Entomol. Gener. 12:71-75.[https://web.archive.org/web/20120829162613/http://md1.csa.com/partners/viewrecord.php?requester=gs&collection=ENV&recid=1560663&q=%22+Larsson%2C+F.+K.%22&uid=790961500&setcookie=yes]
+*Larsson, F. K. (1990). Female body size relationships with fecundity and egg size in two solitary species of fossorial Hymenoptera (Colletidae and Sphecidae). Entomol. Gener. 15:167-171.[https://archive.today/20130112210319/http://www.cabdirect.org/abstracts/19930233399.html;jsessionid=AC3A9BB97B702D0A385C8D14D41466FB]
+*Larsson, F. K. (1991). Some take it cool, some like it hot — A comparative study of male mate searching tactics in two species of hymenoptera (Colletidae and Sphecidae). J. Therm. Biol. 16:45-51.[http://www.sciencedirect.com/science/article/pii/0306456591900513]
+*Larsson, F. K. & Tengö J. (1989). It is not always good to be large; some female fitness components in a temperate digger wasp, ''Bembix rostrata'' (Hymenoptera: Sphecidae) J Kansas Entomol Soc. 62:490–495.[https://www.jstor.org/pss/25085125]
+
+==External links==
+{{Commons|Bembix rostrata|Bembix rostrata}}
+
+{{Taxonbar|from=Q1686586}}
+
+[[Category:Crabronidae]]
+[[Category:Hymenoptera of Europe]]
+[[Category:Insects described in 1758]]
+[[Category:Taxa named by Carl Linnaeus]]

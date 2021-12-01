@@ -1,0 +1,252 @@
+{{EngvarB|date=September 2014}}
+{{Use dmy dates|date=September 2014}}
+[[File:St Etheldreda.jpg|thumb|St Etheldreda, a work by Trena Cox in St Stephen, Prenton, Birkenhead]]
+'''Trena Mary Cox''' (1895–1980) was an English stained glass artist.  She was born Emma Trina Cox on 3 March 1895, in the Lower Bebington Urban District (i.e. not Bebbington), on the [[Wirral Peninsula]] and grew up around Birkenhead.<ref name="Jones 2012 11–14">{{Harvnb|Jones|2012|pp=11–14.}}</ref> She trained at the [[Laird School of Art]]. In 1924 she moved to Chester and set up her studio in Victoria Road [[Chester]], Cheshire, either adjacent to, or within, the Kaleyard works of Williams, Gamon & Co., with whom she remained associated until the Second World War.<ref group=note>Cox's first known stained glass window is in the Chester College (now University) chapel and was installed in October 1924 (Minutes of the Joint Committee, Chester Training College, 15 October 1924). This window has Trena Cox's monogram on it, yet the window was contracted to Williams, Gamon & Co. (The Collegian, Vol 38, No 1, 1925).</ref> In about 1945, Trena Cox moved to 96 Watergate Street, Chester,<ref group=note>Cox exhibited several times in the Walker Gallery Autumn Exhibitions in Liverpool. In the exhibition catalogue for the 1923 Autumn Exhibition, her home address is given as her parents' address in Birkenhead, as it also is for her 1924 exhibit at the Royal Academy in London. However, in the 1924 Walker Gallery Autumn Exhibition catalogue her address is given as being in Chester.
+
+Trena Cox moved to 96 Watergate Street at some time around the Second World War. During the years up to and including 1939, electoral registers confirm that she was living at other addresses in Chester. However, by the time of the first electoral register after the war, in May 1945, she had moved to 96 Watergate St. However, she apparently continued using the Victoria Road studio alongside or within the Williams, Gamon & Co. works during the war and until at least 1946, with evidence including, for example, the Kelly's Directory of Cheshire, 1939 (p.&nbsp;94, p.&nbsp;584), the Kelly's Chester Directory of 1940 (p.&nbsp;112) and Chester Area telephone directories in January – February 1945 and March 1946. This suggests that she may not have used her new home as a studio immediately. By the time of the January 1947 telephone directory, however, the only telephone number for Trena Cox is at the Watergate Street address, suggesting a break from the Victoria Road studio.</ref> which remained her home and, at least later, her studio, until she retired in 1972 (at the age of 77) and died, on 11 February 1980<ref name="Jones 2012 11–14"/><ref>GRO 1980, Jan–Mar, Chester, v.35, p.0290</ref> (not in 1977, as frequently quoted). Most of her works are in churches in the old counties of Cheshire and Lancashire.<ref name="Jones 2012 11–14"/> She was a fellow of the [[British Society of Master Glass Painters]].<ref>{{Citation| url = http://www.sussexparishchurches.org/content/view/332/40| title = Architects and Artists C| access-date = 9 December 2011| publisher = Sussex Parish Shurches| url-status = dead| archive-url = https://web.archive.org/web/20120305012935/http://www.sussexparishchurches.org/content/view/332/40| archive-date = 5 March 2012| df = dmy-all}}</ref> The authors of the ''[[Pevsner Architectural Guides|Buildings of England]]'' series comment that "her windows are usually small, her figures modest, often with small-scale detail in the quarries" (small pieces of square or diamond-shaped glass set diagonally).<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=72.}}</ref>
+
+Until the publication of Jones (2012),<ref name="Jones 2012 11–14"/> there was very little coherent information available about the life of Trena Cox and errors in some earlier references, concerning, for example, the year of her death, have unfortunately been perpetuated by later authors.
+
+{{GeoGroupTemplate}}
+{{clear}}
+
+==Works==
+{| class="wikitable sortable"
+! style="width:200px" |Building
+! style="width:200px" |Location
+! style="width:60px" |Date
+! style="width:550px" class="unsortable"|Subject, notes and references
+|-
+|[[Chester College Chapel]]
+||[[Chester]], Cheshire<br><small>{{coord|53.1989|-2.8966|name=Chester College Chapel}}</small>
+|1923, 1933, 1962
+|A number of windows in the chapel and in its corridor.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=277.}}</ref>
+|-
+|Cloister, [[Chester Cathedral]]
+|[[Chester]], Cheshire<br><small>{{coord|53.1919|-2.8905|name=Chester Cathedral}}</small>
+|1925–27
+|Eight figures in the southwest corner of the [[cloister]].<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=233.}}</ref>
+|-
+|Slype, [[Chester Cathedral]]
+|[[Chester]], Cheshire<br><small>{{coord|53.1919|-2.8905|name=Chester Cathedral}}</small>
+|1927
+|''[[Saint Christopher]]''.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=234.}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5450878244/| title = Saint Christopher| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|[[Church of St Mary and All Saints, Whalley|Church of St Mary and All Saints]]
+|[[Whalley, Lancashire|Whalley]], Lancashire<br><small>{{coord|53.8241|-2.4041|name=Church of St Mary and All Saints, Whalley}}</small>
+|1928
+|East window in the north chapel, depicting [[Saint George]], [[Saint Nicholas]], and [[King Arthur]].<ref>{{Harvnb|Hartwell|Pevsner|2009|p=687.}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5450106237/| title = King Arthur & St George| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|Trevor Church
+|[[Trevor, Wrexham|Trevor]], [[Wrexham County Borough|Wrexham]], Wales<br><small>{{coord|52.9723|-3.1065|name=Trevor Church}}</small>
+|1930
+|''[[Crucifixion of Jesus|Crucifixion]]''.<ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/6224668688/| title = Crucifixion (1930) by Trena Cox| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/6141863678/| title = Detail of a Trena Cox stained glass window| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|[[St Stephen's Church, Prenton|St Stephen's Church]]
+|[[Prenton]], [[Birkenhead]], Merseyside<br><small>{{coord|53.3691|-3.0415|name=St Stephen's Church, Prenton}}</small>
+|1932
+|Several small windows.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=158.}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5450643388/| title = St Etheldreda| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|St Michael's Church
+|[[Blundellsands]], Merseyside<br><small>{{coord|53.4946|-3.0433|name=St Michael's Church, Blundellsands}}</small>
+|1932; 1933
+|''[[Annunciation]]''; ''[[Saint Christopher]]''.<ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5480169682/| title = Annunciation| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5480170058/| title = St Christopher| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|[[Church of the Resurrection and All Saints, Caldy|Church of the Resurrection and All Saints]]
+|[[Caldy]], [[Metropolitan Borough of Wirral|Wirral]], Merseyside<br><small>{{coord|53.3584|-3.1641|name=Church of the Resurrection and All Saints, Caldy}}</small>
+|1933; 1946
+|''[[Saint George]]'', ''[[Werburh|Saint Werburgh]]'', ''[[Bridget of Sweden|Saint Bridget]]'', and ''[[Martin of Tours|Saint Martin]]''.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=199.}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5455253551/| title = SS George, Werburgh, Bridget & Martin| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|St Michael's Church
+|[[Huyton]], Merseyside<br><small>{{coord|53.4140|-2.8400|name=St Michael's Church, Huyton}}</small>
+|1933
+|''[[Simeon (Gospel of Luke)|Simeon]] with Jesus''; ''Mary sitting at Jesus' feet''.<ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5480170912/| title = Simeon with Jesus| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5479570443/| title = Mary sitting at Jesus' feet| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|St Bartholomew's Church
+|[[Thurstaston]], [[Metropolitan Borough of Wirral|Wirral]]. [[Merseyside]]<br><small>{{coord|53.3485|-3.1321|name=St Bartholomew's Church, Thurstaston}}</small>
+|1934; 1951
+|Two windows.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=637.}}</ref>
+|-
+|[[St Werburgh's Church, Chester|St Werburgh's Church]]
+|[[Chester]], Cheshire<br><small>{{coord|53.1911|-2.8824|name=St Werburgh's Church, Chester}}</small>
+|1936
+|A set of eight small windows in the [[narthex]].<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=244.}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5561566660/| title = St Christopher| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|Holy Trinity Church
+|[[Lower Beeding]], West Sussex<br><small>{{coord|51.0332|-0.2610|name=Holy Trinity Church, Lower Beeding}}</small>
+|1936
+|''[[Good Shepherd]]''.<ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/6031484991/| title = The Good Shepherd, a stained glass window by Trena Cox| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/6032044092/| title = Detail of a Trena Cox stained glass window| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/6032043618/| title = A Nativity vignette, by Trena Cox| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|[[St Michael's Church, Shotwick|St Michael's Church]]
+|[[Shotwick]], Cheshire<br><small>{{coord|53.2388|-2.9951|name= St Michael's Church, Shotwick}}</small>
+|1938
+|''[[Michael (archangel)|Saint Michael]]''.<ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5452809665/| title = St Michael| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|Chapel of St Mary de Castro,<br>[[Chester Castle]]
+|[[Chester]], Cheshire<br><small>{{coord|53.1854|-2.8918|name=Chapel of St Mary de Castro, Chester Castle}}</small>
+|1939
+|A small version of the ''[[Madonna (art)|Mother and Child]]''.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=247.}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/6141376797/| title = Mary & the baby Jesus| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|[[St Matthew's Church, Stretton|St Matthew's Church]]
+|[[Stretton, Warrington|Stretton]], Cheshire<br><small>{{coord|53.3404|-2.5717|name=St Matthew's Church, Stretton}}</small>
+|1939
+|West window.<ref>{{Harvnb|Pollard|Pevsner|2006|p=629.}}</ref>
+|-
+|[[Holy Trinity Church, Bickerton|Holy Trinity Church]]
+|[[Bickerton, Cheshire|Bickerton]], Cheshire<br><small>{{coord|53.0769|-2.7327|name=Holy Trinity Church, Bickerton}}</small>
+|c. 1940
+|<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=130.}}</ref>
+|-
+|[[Christ Church, Crowton|Christ Church]]
+|[[Crowton]], Cheshire<br><small>{{coord|53.2664|-2.6312|name=Christ Church, Crowton}}</small>
+|1946
+|''[[Madonna (art)|Mother and Child]]''.<ref name=norley/>
+|-
+|[[St Oswald's Church, Bidston|St Oswald's Church]]
+|[[Bidston]], [[Birkenhead]], Merseyside<br><small>{{coord|53.4024|-3.0671|name=St Oswald's Church, Bidston}}</small>
+|1947
+|''[[Epiphany (holiday)|Epiphany]]''.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=152.}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5450634582/| title = Adoration of the Magi| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|[[St Ambrose Church, Widnes|St Ambrose Church]]
+|[[Widnes]], Cheshire<br><small>{{coord|53.3725|-2.7123|name=St Ambrose Church, Widnes}}</small>
+|1947
+|A window given by German prisoners of war, depicting ''[[Saint Boniface]]''.<ref>{{Harvnb|Pollard|Pevsner|2006|pp=656–657.}}</ref>
+|-
+||[[St Matthew's Church, Buckley|St Matthew's Church]]
+|[[Buckley, Flintshire|Buckley]], Flintshire, Wales<br><small>{{coord|53.1745|-3.0726|name=St Matthew's Church, Buckley}}</small>
+|1948
+|''Christ in Glory as a Child'' in the south wall of the south [[aisle]].<ref>{{Citation | url = http://stainedglass.llgc.org.uk/object/95| title = Christ in Glory as a Child| access-date = 9 December 2011| publisher = [[University of Wales]]}}</ref>
+|-
+|[[St Lawrence's Church, Stoak|St Lawrence's Church]]
+|[[Stoak]], Cheshire<br><small>{{coord|53.2534|-2.8654|name=St Lawrence's Church, Stoak}}</small>
+|1948
+|''[[Saint Christopher]]'' and ''[[Saint George]]'' moved here from [[Christ Church, Chester]], in 1997.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=591.}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/6141377813/| title = St Christopher & St George| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|St James' Church
+|[[Leyland, Lancashire|Leyland]], Lancashire<br><small>{{coord|53.6900|-2.7325|name=St James' Church, Leyland}}</small>
+|1949
+|''[[Michael (archangel)|Saint Michael]]''; ''[[Saint George]]''.<ref name="Hartwell 2009 422">{{Harvnb|Hartwell|Pevsner|2009|p=422.}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/6200470525/| title = St Michael & St George| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/6200982812/| title = Tracery of a Trena Cox window| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|[[St John the Evangelist's Church, Norley|St John the Evangelist's Church]]
+|[[Norley]], Cheshire<br><small>{{coord|53.2496|-2.6579|name=St John the Evangelist's Church, Norley}}</small>
+|1949
+|The west window of the north [[aisle]].<ref name=norley>{{Citation | url = http://www.stjohnskingsley.org.uk/crowtons-page/32| title = Stained Glass Windows at Christ Church Crowton and St John's Norley | access-date = 9 December 2011| publisher = United Benefice of Norley, Crowton and Kingsley}}</ref><ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=510.}}</ref>
+|-
+|Emmanuel Church
+|[[Buckley, Flintshire|Buckley]], Flintshire, Wales<br><small>{{coord|53.1678|-3.0882|name=Emmanuel Church, Buckley}}</small>
+|1950; 1962
+|Scenes from the birth and early life of Christ on the south wall.<ref>{{Citation | url = http://stainedglass.llgc.org.uk/object/199| title = Scenes from the Birth of Christ| access-date = 9 December 2011| publisher = [[University of Wales]]}}</ref><ref>{{Citation | url =http://stainedglass.llgc.org.uk/object/198| title = Scenes from the Early Life of Christ| access-date = 9 December 2011| publisher = [[University of Wales]]}}</ref>
+|-
+|All Saints Church
+|[[Bubwith]], [[East Riding of Yorkshire|East Yorkshire]]<br><small>{{coord|53.8170|-0.9206|name=All Saints Church, Bubwith}}</small>
+|1951
+|''[[Te Deum]]''.<ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5480172224/| title = Te Deum window| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|Shrine of Our Lady of Walsingham
+|[[Walsingham]], Norfolk<br><small>{{coord|52.8947|0.8758|name=Shrine of Our Lady of Walsingham}}</small>
+|1955
+|''[[Annunciation]]''.<ref>{{Citation | last = Cobb| first = Fr Peter| title = Stained Glass in the Shrine Church| publisher = Shrine of Our Lady of Walsingham| url = http://www.walsinghamanglicanarchives.org.uk/cobbstainedglass.htm| access-date =9 December 2011}}</ref>
+|-
+|St Aiden's Church
+|[[Wheatley Hills]], [[Doncaster]],<br>[[South Yorkshire]]<br><small>{{coord|53.5364|-1.0990|name=St Aiden's Church, Wheatley Hills}}</small>
+|1957
+|''[[Vision of St. John on Patmos]]''.<ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5450157515/| title = The vision of St John| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|[[Shrewsbury Cathedral]]
+|[[Shrewsbury]], Shropshire<br><small>{{coord|52.7053|-2.7540|name=St John the Evangelist's Church, Norley}}</small>
+|1960
+|A window with [[Roll of arms|armorial]] items in the porch.<ref>{{Harvnb|Newman|Pevsner|2006|p=533.}}</ref>
+|-
+|[[All Saints' Church, Daresbury|All Saints' Church]]
+|[[Daresbury]], Cheshire<br><small>{{coord|53.3406|-2.6312|name=All Saints' Church, Daresbury}}</small>
+|c. 1960
+|Two windows.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=325.}}</ref>
+|-
+|[[St John the Baptist's Church, Chester|St John the Baptist's Church]]
+|[[Chester]], Cheshire<br><small>{{coord|53.1890|-2.8856|name=St John the Baptist's Church, Chester}}</small>
+|1969
+|''[[Æthelred of Mercia|Aethelred]] and the Hind'', in the [[narthex]].<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=239.}}</ref><ref>{{Citation | url = https://www.flickr.com/photos/trena-cox/5603328421/| title = King Ethelred & the White Hynde| access-date = 9 December 2011| publisher = [[Yahoo!]]}}</ref>
+|-
+|St Mary Magdalen's Church
+|Tallern Green, [[Wrexham County Borough|Wrexham]], Wales<br><small>{{coord|52.9920|-2.8273|name=St Mary Magdalen's Church, Tallern Green}}</small>
+|1970
+|''An Angel Greets the Three Women at the Empty Tomb'' in the south wall of the [[nave]].<ref>{{Citation | url = http://stainedglass.llgc.org.uk/object/2076| title = An Angel Greets the Three Women at the Empty Tomb| access-date = 9 December 2011| publisher = [[University of Wales]]}}</ref>
+|-
+|[[Wrexham Cathedral]]
+|[[Wrexham]], Wales<br><small>{{coord|53.0473|-2.9989|name=Wrexham Cathedral}}</small>
+|1970
+|''[[Michael (archangel)|Saint Michael and angels]]'' on the east wall of the south [[transept]].<ref>{{Citation | url = http://stainedglass.llgc.org.uk/object/1617| title = St Michael| access-date = 9 December 2011| publisher = [[University of Wales]]}}</ref>
+|-
+|[[The Priory and Parish Church of Saint Mary (Beddgelert)]]
+|[[Beddgelert]], [[Gwynedd]], Wales<br><small>{{coord|53.0111|-4.1017|name=Priory Church of St Mary, Beddgelert}}</small>
+|Undated
+|''[[Madonna (art)|Virgin and Child]]'' and ''[[David]]'' on the north wall of the [[nave]].<ref>{{Citation | url = http://stainedglass.llgc.org.uk/object/3923| title = Virgin and Child with St David| access-date = 9 December 2011| publisher = [[University of Wales]]}}</ref>
+|-
+|[[St Peter's Church, Chester|St Peter's Church]]
+|[[Chester]], Cheshire<br><small>{{coord|53.1904|-2.8918|name=St Peter's Church, Chester}}</small>
+|Undated
+|On the west side of the church.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=243.}}</ref>
+|-
+|[[St Chad's Church, Farndon|St Chad's Church]]
+|[[Farndon, Cheshire|Farndon]], Cheshire<br><small>{{coord|53.0840|-2.8774|name=St Chad's Church, Farndon}}</small>
+|Undated
+|Three windows.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=359.}}</ref>
+|-
+|[[St James' Church, Ince|St James' Church]]
+|[[Ince, Cheshire|Ince]], Cheshire<br><small>{{coord|53.2813|-2.8266|name=St James' Church, Ince}}</small>
+|Undated
+|''[[Francis of Assisi|Saint Francis]]'' and ''[[Werburh|Saint Werburgh]]''.<ref>{{Citation | url = http://www.achurchnearyou.com/stjamesthegreat0/| title = St. James the Great, Ince| access-date = 9 December 2011| publisher = [[Church of England]]}}</ref>
+|-
+|[[St Michael and All Angels Church, Little Leigh|St Michael and All Angels Church]]
+|[[Little Leigh]], Cheshire<br><small>{{coord|53.2790|-2.5783|name=St Michael and All Angels Church, Little Leigh}}</small>
+|Undated
+|<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=432.}}</ref>
+|-
+|[[St Stephen's Church, Moulton|St Stephen's Church]]
+|[[Moulton, Cheshire|Moulton]], Cheshire<br><small>{{coord|53.2227|-2.5168|name=St Stephen's Church, Moulton}}</small>
+|Undated
+|Two west windows and two in the north [[aisle]].<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=490.}}</ref>
+|- 
+|[[Holy Trinity Church, Northwich|Holy Trinity Church]]
+|[[Northwich]], Cheshire<br><small>{{coord|53.2577|-2.5188|name=Holy Trinity Church, Northwich}}</small>
+|Undated
+|Christmas scenes.<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=513.}}</ref>
+|-
+|[[Rhos-on-Sea#St Trillo's Chapel|St Trillo's Chapel]]
+|[[Rhos-on-Sea]], [[Conwy County Borough|Conwy]], Wales<br><small>{{coord|53.3144|-3.7406|name=St Trillo's Chapel, Rhos-on-Sea}}</small>
+|Undated
+|''[[Saint Elian (Wales)|Saint Elian]]'' in the south wall.<ref>{{Citation | url = http://stainedglass.llgc.org.uk/object/2428| title = St Elian| access-date = 9 December 2011| publisher = [[University of Wales]]}}</ref>
+|-
+|[[Holy Cross Church, Woodchurch|Holy Cross Church]]
+|[[Woodchurch]], [[Birkenhead]], Merseyside<br><small>{{coord|53.3725|-3.0892|name=Holy Cross Church, Woodchurch}}</small>
+|Undated
+|A window in the north [[aisle]].<ref>{{Harvnb|Hartwell|Hyde|Hubbard|Pevsner|2011|p=684.}}</ref>
+|-
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+'''Citations'''
+{{Reflist|30em}}
+'''Sources'''
+*{{Citation | last = Hartwell | first = Clare |last2 = Hyde | first2 = Matthew |last3 = Hubbard | first3 = Edward | author3-link=Edward Hubbard | last4 =Pevsner | first4 =Nikolaus | author4-link =Nikolaus Pevsner | series= The Buildings of England| title = Cheshire | publisher =[[Yale University Press]]| year =2011| orig-year=1971| location =New Haven and London| isbn =978-0-300-17043-6 }}
+*{{Citation | last =Hartwell| first =Clare| last2 = Pevsner | first2 = Nikolaus | series= The Buildings of England| title =Lancashire: North | publisher =Yale University Press | year =2009 | orig-year=1969 | location = New Haven and London| isbn = 978-0-300-12667-9}}
+*{{Citation | last =Jones| first =Peter| series = Historic Churches| title = Trena Cox: Emergence of a stained glass artist | volume = 19 | year = 2012 | pages = 11–14 | publisher = Cathedral Communications Limited | isbn = 978-190091562-5| url =http://www.buildingconservation.com/articles/trena-cox/trena-cox.htm}}
+*{{Citation | last =Newman| first =John| last2 = Pevsner | first2 = Nikolaus | series= The Buildings of England| title =Shropshire | publisher =Yale University Press | year =2006 | location =New Haven and London | isbn =0-300-12083-4 }}
+*{{Citation | last =Pollard| first =Richard | last2 = Pevsner | first2 = Nikolaus | series= The Buildings of England|title =Lancashire: Liverpool and the South-West | publisher =Yale University Press | year =2006 | location =New Haven and London | isbn =0-300-10910-5 }}
+
+{{Commons category|position=left}}
+
+{{British and Irish stained glass}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Cox, Trena}}
+[[Category:1895 births]]
+[[Category:1980 deaths]]
+[[Category:English artists]]
+[[Category:British stained glass artists and manufacturers]]
+[[Category:English women artists]]
+[[Category:20th-century British women artists]]

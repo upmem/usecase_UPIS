@@ -1,0 +1,14 @@
+==Summary==
+{{Non-free use rationale
+|Article=Potez 28
+|Description=Potez 28, a French successful  distance record setting aircraft
+|Source={{cite magazine|url=http://www.flightglobal.com/pdfarchive/view/1926/1926%20-%200886.html|title=Specification of the Potez 28 G.R. Aeroplane|magazine=[[Flight International]]|date=2 December 1926|volume=XVIII|issue=48|page=786}}
+|Portion=Cropped portion of page
+|Low_resolution=Yes
+|Purpose=To illustrate historic aircraft article
+|Replaceability=No known existing examples of this aircraft
+|other_information=
+}}
+
+==Licensing==
+{{Non-free aircraft image|Potez 28}}

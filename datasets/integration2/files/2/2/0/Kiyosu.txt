@@ -1,0 +1,205 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Kiyosu}}
+| official_name           = 
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|清須市}}}}}}
+| native_name_lang        = ja
+| settlement_type         = [[Cities of Japan|City]]
+<!-- images, nickname, motto -->
+| image_skyline           = Kiyosu-jo&ote-bashi.jpg
+| imagesize               = 
+| image_alt               = 
+| image_caption           = Kiyosu Castle
+| image_flag              = Flag of Kiyosu, Aichi.svg
+| flag_alt                = 
+| image_blank_emblem      = Emblem of Kiyosu, Aichi.svg
+| blank_emblem_type       = Emblem
+| nickname                = 
+| motto                   = 
+<!-- maps and coordinates -->
+| image_map               = Kiyosu in Aichi Prefecture Ja.svg
+| map_alt                 = 
+| map_caption             = Location of Kiyosu in Aichi Prefecture
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         = 
+| pushpin_map_caption     = &nbsp; 
+| coordinates             = {{coord|35|11|59.3|N|136|51|10.3|E|region:JP|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Chūbu region|Chūbu]] ([[Tōkai region|Tōkai]])
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Aichi Prefecture|Aichi]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+<!-- established -->
+| established_title       = <!-- Settled -->
+| established_date        = 
+| founder                 = 
+| named_for               = 
+<!-- seat, smaller parts -->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    = 
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             =  Sumio Nagata (since 2017)
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 17.35
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+<!-- population -->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 69687
+| population_as_of        = October 1, 2019
+| population_density_km2  = auto
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         = 
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+<!-- postal codes, area code -->
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = City Symbols
+| blank1_name_sec1        = - Tree
+| blank1_info_sec1        = [[Cornus florida]]
+| blank2_name_sec1        = - Flower
+| blank2_info_sec1        = [[Tulip]], [[Cherry blossom]]
+| blank3_name_sec1        =
+| blank3_info_sec1        = 
+| blank4_name_sec1        = 
+| blank4_info_sec1        = 
+| blank5_name_sec1        = 
+| blank5_info_sec1        = 
+| blank6_name_sec1        = 
+| blank6_info_sec1        = 
+| blank7_name_sec1        = 
+| blank7_info_sec1        = 
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 052-400-2911
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 1238 Sukaguchi, Kiyosu-shi, Aichi-ken 452-8569
+<!-- website, footnotes -->
+| website                 = {{Official|http://www.city.kiyosu.aichi.jp/}}
+| footnotes               = 
+}}
+[[file:Kiyosu city office.JPG|thumb|200px|Kiyosu City Hall]]
+[[File:Aichi Prefectural Road Route 126 (Kiyosu Sukaguchi s2).jpg|thumb|200px|DownTown of Kiyosu]]
+[[File:Kiyosujuku.JPG|thumb|200px|Remains of Kiyosu-juku's ''honjin'']]
+{{nihongo|'''Kiyosu'''|清須市|Kiyosu-shi}} is a [[Cities of Japan|city]] located in [[Aichi Prefecture]], [[Japan]]. {{As of|2019|10|01}}, the city had an estimated [[population]] of 69,687 in 29,477 households,<ref>[https://www.city.kiyosu.aichi.jp/shisei_joho/jinko_setai/jinko_setai.html Kiyosu City official statistics] {{in lang|ja}}</ref> and a [[population density]] of 4,017 persons per km². The total area of the city is {{convert|17.35|sqkm|sqmi}}.  
+
+==Geography==
+Kiyosu is located in far western Aichi Prefecture, in the western portion of the [[Nōbi Plain]] on the [[Shōnai River]]. It is bordered by the Nagoya metropolis to the east. Most of the city has an altitude of under 10 meters above sea level. 
+
+===Surrounding municipalities===
+*Aichi Prefecture
+**[[Ichinomiya, Aichi|Ichinomiya]]
+**[[Inazawa, Aichi|Inazawa]]
+**[[Kitanagoya, Aichi|Kitanagoya]]
+**[[Ama, Aichi|Ama]]
+**[[Nishi-ku, Nagoya]]
+**[[Nakamura-ku, Nagoya]]
+
+==Demographics==
+Per Japanese census data,<ref>[https://www.citypopulation.de/php/japan-aichi.php Kiyosu population statistics]</ref> the population of Kiyosu has grown steadily over the past 60 years.
+
+{{Historical populations
+| 1950 | 36,294
+| 1960 | 46,433
+| 1970 | 59,752
+| 1980 | 61,138
+| 1990 | 61,578
+| 2000 | 63,009
+| 2010 | 65,864
+|align       = none
+| footnote = 
+}}
+
+===Climate===
+The city has a climate characterized by hot and humid summers, and relatively mild winters ([[Köppen climate classification]] ''Cfa'').  The average annual temperature in Kiyosu is 15.8&nbsp;°C. The average annual rainfall is 1688&nbsp;mm with September as the wettest month. The temperatures are highest on average in August, at around 28.1&nbsp;°C, and lowest in January, at around 4.4&nbsp;°C.<ref>[https://en.climate-data.org/asia/japan/aichi/kiyosu-4924/ Kiyosu climate data]</ref>
+
+==History==
+Kiyosu was the location of a [[shukuba|post town]] ([[Kiyosu-juku]]) on the junction of the [[Nakasendō]] and the [[Minoji]] connecting [[Kamakura, Kanagawa|Kamakura]] with [[Kyoto]] and the [[Ise Shrine]] during the [[Kamakura period]]. In the [[Muromachi period]], the area was fortified with the construction of [[Kiyosu Castle]], which subsequently became a stronghold of the [[Oda clan]] and the base from which [[Oda Nobunaga]] consolidated his control over [[Owari Province]] during the [[Sengoku period]]. After the start of the [[Edo period]], Kiyosu Castle was dismantled by order of [[Tokugawa Ieyasu]], and most of the population relocated to [[Nagoya]]. By the start of the [[Meiji period]], the area was a rural area organized into villages within [[Nishikasugai District, Aichi|Nishikasugai District]] of Aichi Prefecture. The town of [[Kiyosu, Aichi (town)|Kiyosu]] was proclaimed on August 1, 1889 with the establishment of the modern municipalities system..
+
+The city of Kiyosu was established on July 7, 2005 from the merger of the former town [[Kiyosu, Aichi (town)|Kiyosu]] with the towns of [[Shinkawa, Aichi|Shinkawa]] and [[Nishibiwajima, Aichi|Nishibiwajima]] (all from [[Nishikasugai District, Aichi|Nishikasugai District]]).
+
+On October 1, 2009, the neighboring town of [[Haruhi, Aichi|Haruhi]] (also from [[Nishikasugai District, Aichi|Nishikasugai District]]) was merged into Kiyosu.<ref name="Plannedmerge">{{Cite web |url=http://www.kokudo.or.jp/new/cities/sub/chubu/23.htm |title=Archived copy |access-date=2008-09-08 |archive-url=https://web.archive.org/web/20070728082555/http://www.kokudo.or.jp/new/cities/sub/chubu/23.htm |archive-date=2007-07-28 |url-status=dead }}</ref>
+
+==Government==
+Kiyosu has a [[mayor-council]] form of government with a directly elected mayor and a [[unicameral]] city legislature of 22 members. The city contributes two members to the Aichi Prefectural Assembly.  In terms of national politics, the city is part of Aichi District 5 of the [[House of Representatives of Japan|lower house]] of the [[Diet of Japan]].
+
+==Economy==
+Kiyosu is a regional commercial center with a mixed economy. Due to its proximity to the Nagoya metropolis, it is increasingly becoming a [[commuter town|bedroom community]].
+
+==Education==
+Kiyosu has eight public elementary schools and four public junior high schools operated by the city government, and two public high schools operated by the Aichi Prefectural Board of Education. The [[Aichi Medical College for Physical and Occupational Therapy]] is also located in Kiyosu.
+
+==Transportation==
+===Railways===
+[[File:JR logo (central).svg|20px]] [[Central Japan Railway Company]] -  [[Tōkaidō Main Line]]
+*{{STN|Biwajima}} 
+[[File:Meitetsu logomark 2.svg|20px]] [[Meitetsu]] – [[Meitetsu Nagoya Main Line|Nagoya Main Line]]
+*{{STN|Nishi-Biwajima}} – {{STN|Futatsuiri}} – {{STN|Shinkawabashi}} – {{STN|Sukaguchi}} – {{STN|Marunouchi|Kiyosu}} – {{STN|Shin-Kiyosu}}  
+[[File:Meitetsu logomark 2.svg|20px]] [[Meitetsu]] – [[Meitetsu Inuyama Line|Inuyama Line]]
+*{{STN|Shimo-Otai}} 
+[[File:Meitetsu logomark 2.svg|20px]] [[Meitetsu]] – [[Meitetsu Tsushima Line|Tsushima Line]]
+*{{STN|Sukaguchi}}
+
+===Highways===
+* [[Image:C2 Expressway (Japan).png|24px|link=|alt=C2]]  Nagoya Dai-ni Kanjo Expressway
+*[[file:Japanese Urban Expwy Sign 0006.svg|24px]] [[Route 6 (Nagoya Expressway)]]
+*[[file:Japanese Urban Expwy Sign 0016.svg|24px]] [[Route 16 (Nagoya Expressway)]]
+*{{jct|country=JPN|Route|22}}
+*{{jct|country=JPN|Route|302}}
+
+==Sister city relations==
+* {{ESP}} - [[Jerez de la Frontera]], Spain,<ref name=International>{{cite web|url=http://www.clair.or.jp/cgi-bin/simai/e/03.cgi?p=23&n=Aichi%20Prefecture|title=International Exchange|work=List of Affiliation Partners within Prefectures|publisher=Council of Local Authorities for International Relations (CLAIR)|accessdate=21 November 2015|url-status=dead|archiveurl=https://web.archive.org/web/20151224052656/http://www.clair.or.jp/cgi-bin/simai/e/03.cgi?p=23&n=Aichi%20Prefecture|archivedate=24 December 2015}}</ref>  from January 1994
+
+==Local attractions==
+*[[Kiyosu Castle]]
+*site of Odani Castle
+*[[Kaigarayama Shell Midden]], National Historic Site
+
+==Notable people from Kiyosu==
+*[[Yoshio Ishida]], professional go player
+*[[Ai Kato]], actress and model
+*[[Akira Toriyama]], manga, game artist and character designer. The creator of [[Dragon Ball]].
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category-inline}}
+* {{official|http://www.city.kiyosu.aichi.jp}} {{in lang|ja}}
+
+{{Aichi}}
+{{Authority control}}
+
+[[Category:Cities in Aichi Prefecture]]
+[[Category:Kiyosu, Aichi]]

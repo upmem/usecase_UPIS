@@ -1,0 +1,35 @@
+{{Infobox settlement
+| name = Prosity
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| coordinates = 
+| pushpin_map = Poland 
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Bartoszyce County|Bartoszyce]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Bisztynek|Bisztynek]]
+| elevation_m =
+| population_total =
+| website = }}
+'''Prosity''' {{IPAc-pl|p|r|o|'|ś|i|t|y}} (German ''Prossitten'') is a [[village]] in the administrative district of [[Gmina Bisztynek]], within [[Bartoszyce County]], [[Warmian-Masurian Voivodeship]], in northern Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref>
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Bisztynek}}
+
+{{coord|54.035|N|20.4816666667|E|source:dewiki_region:PL-WN_scale:100000_type:city|format=dms|display=title}}
+
+[[Category:Villages in Bartoszyce County|Prosity]]
+
+
+{{Bartoszyce-geo-stub}}

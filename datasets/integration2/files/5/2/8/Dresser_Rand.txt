@@ -1,0 +1,66 @@
+{{short description|Siemens-owned engineering and manufacturing company}}
+{{Infobox company
+| name      = Dresser-Rand Group, Inc.
+| logo      = File:Dr-siemens-logo.svg
+| type      = [[Subsidiary]] 
+| fate = Acquired by the [[Siemens]]
+| foundation        = 2004 (see [[Dresser-Rand Group#History|history]])
+| location          = [[Houston]], [[Texas]], U.S. 
+| key_people        = Paulo Ruiz <small>([[Chief executive officer|CEO]])</small> 
+| num_employees     = Over 11,000 (2016)
+| parent            = [[Siemens Energy]]
+| industry          = [[Manufacturing]], Technical Services
+| products          = [[Gas compressor|Compressors]], [[turbines]], [[diesel engine|diesel]] and [[gas engine]]s, and other industrial equipment.
+| subsid            =  
+| homepage          = [http://www.dresser-rand.com Dresser-Rand.com]
+}}
+
+'''Dresser-Rand''' is an engineering and manufacturing company owned by [[Germany|German]] company [[Siemens Energy]]. The company designs, manufactures, and services equipment used in the extraction of [[petroleum]] and [[natural gas]].<ref name="Bloomberg">{{cite web|title=Company Overview of Dresser-Rand Group Inc.|url=https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=20496676|publisher=Bloomberg|accessdate=6 December 2017}}</ref> The company was formed in 1986 as a [[joint venture]] of [[Dresser Industries]] and [[Ingersoll Rand]].<ref name="Clark">{{cite news|last1=Clark|first1=Bob|title=25 Dresser-Rand jobs to leave Olean|url=http://www.oleantimesherald.com/news/dresser-rand-jobs-to-leave-olean/article_586bb93e-258b-11e7-8510-37eb9131fcab.html|accessdate=6 December 2017|work=Olean Times Herald|date=April 20, 2017}}</ref>
+
+==History==
+
+===Ingersoll Rand===
+[[Ingersoll Rand]]'s roots date back to 1871 when [[Simon Ingersoll]] formed the Ingersoll Rock Drill Company after patenting a steam-powered rock drill design.<ref name="Mahmud">{{cite web|last1=Mahmud|first1=Arshad|title=Simon Ingersoll|url=https://www.asme.org/engineering-topics/articles/construction-and-building/simon-ingersoll|website=ASME.org|publisher=The American Society of Mechanical Engineers|accessdate=6 December 2017}}</ref><ref name="Russell">{{Cite news|url=http://www.mindat.org/article.php/227/The+Ingersoll+Rock+Drill+%282%29+1879|title=Daniel Russell - The Ingersoll Rock Drill|publisher=Manufacturer and Builder Magazine|date = July 1879|accessdate = 5 December 2017}}</ref> The company merged with the Sergeant Drill Company in 1888 and became the Ingersoll-Sergeant Drill Company.<ref name=I-R_History>{{cite web|title=Ingersoll Rand: Our Company History|url=http://company.ingersollrand.com/aboutus/Pages/History.aspx|accessdate=4 February 2013|archive-url=https://web.archive.org/web/20080113044352/http://company.ingersollrand.com/aboutus/Pages/History.aspx|archive-date=13 January 2008|url-status=dead}}</ref> In 1905, the company merged with Rand Drill Company, which six years prior had begun manufacturing compressors in [[Painted Post, New York]]. The result was the Ingersoll Rand Company.<ref name=D-R_History1/>
+
+===Dresser Industries===
+[[Dresser Industries]] was created from the 1938 merger of the [[Solomon Robert Dresser|Solomon R. Dresser]] Company (founded in [[Bradford, Pennsylvania|Bradford]], Pennsylvania) and the Clark Brothers Company (founded in 1880 in [[Belmont, New York|Belmont]], New York; moved to [[Olean, New York|Olean]], New York in 1912).<ref name="Clark"/><ref name=D-R_History1>{{cite web|title=History of Dresser-Rand: 1800 to 1920s|url=http://www.dresser-rand.com/company/history/1800_1920.php|accessdate=4 February 2013}}</ref>
+
+The Dresser Clark Company, which was incorporated in 1956 as Dresser Industries, manufactured [[steam engine|steam]], [[diesel engine|diesel]], and reciprocating engines as well as centrifugal compressors in Olean, and in a facility in [[Le Havre|Le Havre, France]].<ref name=D-R_History2>{{cite web|title=History of Dresser-Rand: 1930s and 1940s|url=http://www.dresser-rand.com/company/history/1930_1940.php|accessdate=4 February 2013}}</ref><ref name=D-R_History3>{{cite web|title=History of Dresser-Rand: 1950s, 1960s, and 1970s|url=http://www.dresser-rand.com/company/history/1950_1970.php|accessdate=4 February 2013}}</ref>
+
+In 1984, Dresser Industries acquired Turbodyne Corporation from the [[McGraw-Edison|McGraw-Edison Company]], which had previously purchased the [[Studebaker-Worthington|Studebaker-Worthington Company]] in 1979.<ref name=D-R_History4/> In 1985, Dresser Industries acquired a 50% share of the [[Kongsberg Gruppen|Kongsberg Våpenfabrikk]] [[gas turbine]] division, the producer of the KG2, the world's first [[radial turbine|radial gas turbine]].<ref name=D-R_History3 /> The remaining 50% share of Kongsberg's gas turbine division was purchased by Dresser-Rand in 1989.<ref name=D-R_History4 />
+
+===Dresser-Rand===
+Dresser-Rand Company was formed in 1986 as an equally-owned [[joint venture]] between Dresser Industries and Ingersoll Rand.<ref name="Clark"/>
+
+In September 1999, Dresser Industries merged with [[Halliburton|Halliburton Industries]], and transferred its 51% ownership interest of Dresser-Rand Company to Halliburton.<ref>{{cite news|publisher=CNN Money|title=Halliburton, Dresser merge
+|url=https://money.cnn.com/1998/02/26/deals/halliburton/|accessdate=4 February 2013|date=26 February 1998}}</ref> Due to agreements made in the original venture, Dresser Industries, then a unit of Halliburton, was required to either purchase the remaining interest in Dresser-Rand Company or sell it to Ingersoll Rand.<ref>{{cite news|last=New York Times|title=Ingersoll-Rand Ending Dresser Partnership|url=https://www.nytimes.com/1999/08/13/business/ingersoll-rand-ending-dresser-partnership.html|accessdate=4 February 2013|date=13 August 1999|work=The New York Times}}</ref> In February 2000, the 51% ownership of Dresser-Rand Company was sold to Ingersoll Rand.<ref name=D-R_History4>{{cite web|title=History of Dresser-Rand: 1980s, 1990s, and Early 2000s|url=http://www.dresser-rand.com/company/history/1980_1990.php|accessdate=4 February 2013|archive-url=https://web.archive.org/web/20130123173415/http://dresser-rand.com/company/history/1980_1990.php|archive-date=23 January 2013|url-status=dead}}</ref>
+
+On August 25, 2004, [[First Reserve Corporation]], a private equity firm, entered into an equity purchase agreement with Ingersoll Rand to purchase the equity interests in Dresser-Rand Company for approximately $1.2 billion.<ref name=F-R>{{cite web|title=First Reserve to Acquire Energy Infrastructure Leader from Ingersoll-Rand for $1.2 Billion|url=http://firstreserve.com/go.asp?Go=!SiteStation&x=TPLGen&ResType=Page&ResID=1929&TPL=NewsPageTemplate.htm|archive-url=https://archive.today/20131024001840/http://firstreserve.com/go.asp?Go=!SiteStation&x=TPLGen&ResType=Page&ResID=1929&TPL=NewsPageTemplate.htm|url-status=dead|archive-date=24 October 2013|date=25 August 2004|accessdate=4 February 2013}}</ref> Following the purchase agreement, Dresser-Rand Group, Inc. was registered as corporation in the state of [[Delaware]], and the acquisition closed on October 29, 2004. On August 4, 2005, First Reserve took Dresser-Rand Group, Inc. public through an [[initial public offering|IPO]], selling at $21.00 per share.
+
+In 2012 the company acquired Spanish engine supplier Grupo Guascor SL for $690 million,<ref name="Grupo">{{cite news|title=Dresser-Rand buying Grupo Guascor|url=https://www.bizjournals.com/houston/news/2011/03/04/dresser-rand-buying-grupo-guascor.html|accessdate=6 December 2017|work=Houston Business Journal|date=March 4, 2011}}</ref> as well as Synchrony, Inc.<ref name="Roanoke">{{cite news|last1=Adams|first1=Duncan|title=Roanoke County entrepreneur studies mystery of missing Malaysian airliner|url=http://www.roanoke.com/business/news/roanoke-county-entrepreneur-studies-mystery-of-missing-malaysian-airliner/article_8a45a9e7-61f7-50c5-a890-ce2f2ed7f671.html|accessdate=6 December 2017|work=The Roanoke Times|date=July 3, 2016}}</ref>
+
+In September 2014 [[Germany|German]] [[conglomerate (company)|conglomerate]] [[Siemens AG]] announced plans to acquire Dresser-Rand Group Inc for $7.6 billion in cash.<ref name="Prodham">{{cite news|last1=Prodhan|first1=Georgina|last2=Burger|first2=Ludwig|title=Siemens splurges $7.6 billion on Dresser-Rand in U.S. shale market bet|url=https://www.reuters.com/article/us-siemens-dresser-rand-grp/siemens-splurges-7-6-billion-on-dresser-rand-in-u-s-shale-market-bet-idUSKBN0HH01320140922|accessdate=6 December 2017|work=Reuters|date=September 21, 2014}}</ref><ref name="Gelles">{{cite news|last1=Gelles|first1=David|title=Siemens Agrees to Buy Dresser-Rand, an Oil Services Company, for $7.6 Billion|url=https://dealbook.nytimes.com/2014/09/21/siemens-agrees-to-buy-dresser-rand-an-oil-services-company-for-7-6-billion/|accessdate=6 December 2017|work=The New York Times|date=September 21, 2014}}</ref> The deal was completed on June 30, 2015.<ref name="Pulsinelli">{{cite news|last1=Pulsinelli|first1=Olivia|title=Dresser-Rand to close Houston facility, cut jobs|url=https://www.bizjournals.com/houston/morning_call/2015/12/dresser-rand-to-close-houston-facility-cut-jobs.html|accessdate=6 December 2017|work=Houston Business Journal|date=December 22, 2015}}</ref>
+
+==Operations==
+
+Dresser-Rand products include turbo and [[reciprocating compressor]]s, [[steam turbines]], industrial and aero-derivative [[gas turbines]], high-speed [[engines]], and modular power substations.<ref name="Company about">{{cite web|title=About Dresser-Rand|url=http://www.dresser-rand.com/company/about-us/|website=Dresser-Rand.com|accessdate=6 December 2017}}</ref>
+
+The company is headquartered in [[Houston]], [[Texas]]<ref name="Bloomberg"/><ref name="Clark"/><ref name="fact sheet">{{cite web|title=The Dresser-Rand Business Fact Sheet|url=http://www.dresser-rand.com/wp-content/uploads/2015/01/facts-flier.pdf|website=Dresser-Rand.com|accessdate=6 December 2017}}</ref> and has a presence in over 150 countries, including the United States, France, Spain, Germany, Norway, Brazil, [[India]], [[Russia]], [[Poland]], [[Saudi Arabia]], [[China]], and the [[Netherlands]].<ref name="fact sheet"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|https://www.dresser-rand.com}}
+
+[[Category:Engineering companies of the United States]]
+[[Category:Companies based in Houston]]
+[[Category:2015 mergers and acquisitions]]
+[[Category:Companies formerly listed on the New York Stock Exchange]]
+[[Category:2004 mergers and acquisitions]]
+[[Category:2005 initial public offerings]]
+[[Category:American subsidiaries of foreign companies]]
+[[Category:Steam turbine manufacturers]]
+[[Category:Ingersoll Rand]]
+[[Category:Siemens]]
+[[Category:Engine manufacturers of the United States]]

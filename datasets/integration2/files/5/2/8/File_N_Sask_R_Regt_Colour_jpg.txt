@@ -1,0 +1,12 @@
+{{Non-free Canadian Crown Copyright|image has rationale=yes}}
+
+{{Non-free use rationale
+| Description       = The regimental colour of The North Saskatchewan Regiment.
+| Source            = Canadian Forces.
+| Article           = The North Saskatchewan Regiment
+| Portion           = All
+| Low resolution    = Yes
+| Purpose           = Illustration
+| Replaceability    = No
+| Other information = 
+}}

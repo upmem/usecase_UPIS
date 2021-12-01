@@ -1,0 +1,11 @@
+'''Mount Bureto''' is a mountain in southern [[Albania]] in the geographical region of [[Southern Albanian Highlands]].<ref>{{cite web|last=Geonames|title=Bureto mountain|url=http://www.geonames.org/783502/mal-bureto.html}}</ref> It is part of the mountain chain [[Mount Shëndelli|Shëndelli]]-[[Mount Lunxhëri|Lunxhëri]]-Bureto chain, which goes parallel to the [[Mount Trebeshinë|Trebeshinë]]-[[Mount Dhembel|Dhembel]]-[[Mount Nemërçkë|Nemërçkë]] chain. Its highest elevation is 1,763 m.<ref>Soviet military map К-34-137-Г (1:50.000)</ref> Its orientation is north to south. The valley of the river [[Drino]] and the town [[Libohovë]] lie to its west.  
+
+==References==
+{{reflist}}
+
+{{coord|40.0289|20.2990|display=title}}
+
+[[Category:Mountains of Albania]]
+{{DEFAULTSORT:Bureto}}
+
+{{Vlorë-geo-stub}}

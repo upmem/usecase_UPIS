@@ -1,0 +1,50 @@
+{{Infobox person
+| name          = Inga-Brita Castrén
+| image         = Inga-Brita Castren.jpg.png
+| alt           = 
+| caption       = 
+| birth_name    = Inga-Brita Ulrika Elisabet Castrén
+| birth_date    = {{birth date|1919|03|26|df=y}}
+| birth_place   = [[Helsinki]] [[Finland]]
+| death_date    = {{death date and age|2003|12|31|1919|03|26|df=y}}
+| death_place   = Helsinki, Finland
+| nationality   = Finnish
+| other_names   = 
+| occupation    = theologian
+| years_active  = 1940-1984
+| notable_works =
+}}
+'''Inga-Brita Castrén''' (1919-2003) was a Finnish theologian who spent ten years abroad working in Geneva for the [[World Student Christian Federation]], the [[YWCA|World YWCA]], and the [[World Council of Churches]] as an [[ecumenical]] adviser. Returning to Finland, she worked in adult education and served as the General Secretary of the Finnish Ecumenical Council. After retirement, Castrén continued writing for a decade.
+
+==Biography==
+Inga-Brita Ulrika Elisabet Castrén was born 26 March 1919 in [[Helsinki]], Finland. She was the daughter of [[Supreme Administrative Court of Finland]] President and one-time interim Prime Minister [[Urho Castrén]].<ref name=father>{{cite web|title=Castrén, Urho Joonas|url=http://arkisto.kokoomus.net/kokoomusbiografia/elamakerta-artikkelit/castren-urho-joonas/|website=arkisto|publisher=Porvarillisen Työn Arkisto|accessdate=16 July 2015|location=Finland|language=Finnish}}</ref>
+
+Castrén earned a master's degree in theology and philosophy and entered the foreign service,<ref name=obituary>{{cite news|last1=Cantell|first1=Risto|title=Inga-Brita Castrén|url=http://www.hs.fi/muistot/a1364355950076|accessdate=16 July 2015|publisher=Helsingin Sanomat|date=31 December 2003|location=Helsinki, Finland|language=Finnish}}</ref> in the 1940s,<ref name="brief bio">{{cite web|title=Castrén, Inga-Brita (1919 - 2003)|url=http://www.kansallisbiografia.fi/kb/artikkeli/8084/|website=Kansallisbiografia|publisher=Kansallisbiografia|accessdate=16 July 2015|location=Helsinki, Finland|language=Finnish}}</ref> serving as Secretary of Foreign Affairs, overseeing women's work and the Finnish Christian Student Association.<ref name=obituary />
+
+She worked in Geneva between 1958<ref name="1958 Secy to Africa">{{cite web|title=213.14.85 Secretaries, 1956-1958, Dirks-Yazikoff, Correspondence, 1956 - 1958 (Box)|url=http://archives.wcc-coe.org/query/detail.aspx?ID=38532|website=World Council of Churches|publisher=World Council of Churches|accessdate=16 July 2015}}</ref> and 1962 as the [[World Student Christian Federation]]'s Secretary to Africa.<ref name=obituary /> Between 1962 and 1969 she served as the World YWCA Consultant on Christian Education and Ecumenical Affairs.<ref name=YWCA>{{cite journal|title=In Memoriam|journal=Common Concern|date=March 2004|issue=121|page=26|url=http://www.worldywca.org/content/download/707/8190/version/1/file/cc121.pdf|accessdate=16 July 2015|publisher=World Young Women’s Christian Association|location=Geneva, Switzerland|language=|issn=1025-4099|archive-url=https://web.archive.org/web/20160304194153/http://www.worldywca.org/content/download/707/8190/version/1/file/cc121.pdf|archive-date=4 March 2016|url-status=dead}}</ref> Then in 1969 she joined the [[World Council of Churches]] as executive secretary for mission education. After four years, she left Geneva, returning to Finland in 1973.<ref name=WCC>{{cite web|title=In Memoriam|url=https://www.oikoumene.org/en/resources/documents/central-committee/2005/reports-and-documents/in-memoriam|website=World Council of Churches|publisher=World Council of Churches|accessdate=16 July 2015|location=Geneva, Switzerland|date=22 February 2005}}</ref>
+
+Arriving back in Finland, Castrén supervised adult educational learning activities and from 1974-1984 served as the General Secretary of the {{Interlanguage link multi|Finnish Ecumenical Council|fi|3=Suomen ekumeeninen neuvosto}} (SEN). Even after her retirement, Castrén attended conferences and remained abreast of changes in the professional field. In 2000, Castrén was awarded an honorary PhD in Theology from the [[University of Helsinki]].<ref name=obituary />
+
+Castrén died in Helsinki on 31 December 2003.<ref name=obituary />
+
+==Selected works==
+*''Uudet silmät'' (with Hans-Ruedi Weber) Helsinki: Suomen lähetysseura, (1959) (in Finnish)
+*''Madagascar and Basutoland travel diary'' Geneva]: [s.n.], (1962) (in English)
+*''Jeesus Kristus vapauttaa ja yhdistää: kirkkojen maailmanneuvoston 5. yleiskokous ; Nairobi, Kenia 23.11.-10.12.1975; valmisteluaineistoa'' (with Leena Brummer; et al.) Helsinki: Suomen ekumeeninen neuvosto, (1974) (in Finnish)
+* ''Avoimuuteen sidottu: Näköaloja ja kokemuksia kansainvälisessä ekumeenisessa työssä'' Pieksämäki: Kirjaneliö, (1990) (in Finnish)
+*''Anna meidät toisillemme: Hartauksia yhteisellä tiellä'' Lapua: Herättäjä-Yhdistys, (1994) (in Finnish)
+
+==External links==
+* [https://www.worldcat.org/search?qt=worldcat_org_all&q=Inga-Brita+Castr%C3%A9n World Cat]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Castren, Inga Brita}}
+[[Category:1919 births]]
+[[Category:2003 deaths]]
+[[Category:Writers from Helsinki]]
+[[Category:Finnish theologians]]
+[[Category:Finnish women writers]]

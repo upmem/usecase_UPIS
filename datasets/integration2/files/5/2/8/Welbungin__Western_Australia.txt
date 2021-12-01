@@ -1,0 +1,46 @@
+{{Use dmy dates|date=August 2012}}
+{{Use Australian English|date=August 2012}}
+{{Infobox Australian place| type = town
+| name     = Welbungin
+| state    = wa
+| image    =
+| caption  =
+| lga      = [[Shire of Mount Marshall]]
+| coordinates = {{coord|30|50|S|117|59|E|display=inline,title}}
+| postcode = 6477
+| est      = 1923
+| pop      =
+| elevation= 348
+| maxtemp  =
+| mintemp  =
+| rainfall =
+| stategov = [[Electoral district of Central Wheatbelt|Central Wheatbelt]]
+| fedgov   = [[Division of Durack|Durack]]
+| dist1    = 287
+| dir1     = ENE
+| location1= [[Perth]]
+| dist2    = 13
+| dir2     = east
+| location2= [[Bencubbin, Western Australia|Bencubbin]]
+| dist3    =
+| dir3     =
+| location3=
+}}
+
+'''Welbungin''' is a small town located just off the [[Koorda, Western Australia|Koorda]]–[[Southern Cross, Western Australia|Southern Cross]] road {{convert|287|km|abbr=on}} from [[Perth]] in the [[Wheatbelt (Western Australia)|Wheatbelt]] region of [[Western Australia]].
+
+Land was reserved in the area for a town hall as early as 1915 but it was not until the extension of the [[railway]] line from Mount Mashall to Lake Brown was planned to pass close by and that a station would be established in 1921 that the local primary producers association began to campaign for a town to be gazetted. The area was also known locally as '''Polkinghome's Corner''' but was gazetted in 1923 as Welbunging. The spelling was later changed to its current spelling in 1944.<ref>{{LandInfo WA|c|W|7 February 2011}}</ref> The name of the town is [[Aboriginal Australians|Aboriginal]] in origin and was first recorded in 1889 by early surveyors after the name of a nearby hill.
+
+In 1932 the [[CBH Group|Wheat Pool of Western Australia]] announced that the town would have two [[grain elevators]], each fitted with an engine, installed at the railway siding.<ref>{{cite news |url=http://nla.gov.au/nla.news-article32560140 |title=Country elevators |newspaper=[[The West Australian]]|location=Perth|date=6 July 1932|accessdate=6 April 2013|page=10|publisher=National Library of Australia}}</ref>
+
+The surrounding areas produce [[wheat]] and other [[cereal]] crops. The town is a [[CBH grain receival points|receival site]] for [[Cooperative Bulk Handling]].<ref>{{cite web|url=https://www.cbh.com.au/media/120302/cbh%20receival%20sites%20-%20contact%20details.pdf|title=CBH receival sites|year=2011|accessdate=1 April 2013}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Towns Wheatbelt South WA}}
+
+{{authority control}}
+
+[[Category:Wheatbelt (Western Australia)]]
+[[Category:Grain receival points of Western Australia]]

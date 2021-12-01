@@ -1,0 +1,80 @@
+{{About|the original British television channel|the brand as a whole|Cartoonito}}
+{{short description|British television channel aimed at pre-school viewers}}
+{{Use dmy dates|date=June 2014}}
+{{Infobox television channel
+| name              = Cartoonito
+| logo              = Cartoonito_logo.svg
+| logo_size         = 250px
+| logo_caption      =
+| launch_date       = 4 September 2006 (block)<br>24 May 2007 (channel)
+| headquarters      = [[London]], [[England]], [[United Kingdom]]
+| closed_date       =
+| picture_format    = [[576i]] ([[16:9]] [[Standard-definition television|SDTV]])
+| slogan            =
+| network           = [[Cartoon Network Too]] (2006-2007)
+| owner             = [[WarnerMedia|WarnerMedia International]]
+| language          = English
+| country           = [[United Kingdom]]
+| area              = [[United Kingdom]]<br/>[[Ireland]]
+| sister_channels   = [[Cartoon Network (UK & Ireland)|Cartoon Network]]<br />[[Boomerang (UK & Ireland)|Boomerang]]<br />[[CNN International]]<br />[[Turner Classic Movies (UK & Ireland)|Turner Classic Movies]]
+| replaced          = [[Cartoon Network Too]] (original version)
+| replaced_by       =
+| timeshift_service =
+| web               = {{URL|http://www.cartoonito.co.uk}}
+| sat_serv_1        = [[Sky UK|Sky]]
+| sat_chan_1        = Channel 610
+| cable_serv_1      = [[Virgin Media]] (UK)
+| cable_chan_1      = Channel 706
+| cable_serv_3      = [[WightFibre]]
+| cable_chan_3      = Channel 109
+| cable_serv_4      = [[Virgin Media Ireland|Virgin Media]] ([[Republic of Ireland|ROI]])
+| cable_chan_4      = Channel 618
+| iptv_serv_1       = [[BT TV|BT]]
+| iptv_chan_1       = Channel 488
+| iptv_serv_2       = [[BT TV|BT]] (via [[Now TV (Sky)|Now TV]])
+| iptv_chan_2       = Channel 471
+| iptv_serv_3       = [[TalkTalk Plus TV]]
+| iptv_chan_3       = Channel 488
+| iptv_chan_5       = Channel 619
+| iptv_serv_5       = [[Eir (telecommunications)|Eir Vision]]
+| iptv_serv_4       = [[Plusnet]]
+| iptv_chan_4       = Channel 488
+| iptv_serv_6       = [[Freesat]]
+| iptv_chan_6       = Channel 568
+| online_serv_1     = [[Sky Go]]
+| online_chan_1     = [http://go.sky.com/ Watch live]<br />(UK and Ireland only)
+| online_serv_2     = [[Now TV (Sky plc)|Now TV]]
+| online_chan_2     = [http://www.nowtv.com/ Watch live] (UK only)
+| online_serv_3     = [[TVPlayer]]
+| online_chan_3     = [http://www.tvplayer.com/watch/cartoonito Watch live] (UK only) (TVPlayer Plus subscription required)
+| online_serv_4     = Virgin TV Anywhere
+| online_chan_4     = [http://anywhere.virginmedia.com/channels/live/cartoonito/ Watch live] (UK only)
+}}
+'''Cartoonito''' is a British [[television channel]] which targets children between the ages of 2 and 6.<ref name="demographic">{{Cite web |url=https://www.awn.com/news/turner-broadcasting-launch-cartoonito-across-emea |title=Turner Broadcasting To Launch Cartoonito Across EMEA |last=DeMott |first=Rick |date=21 April 2011 |archive-url=https://web.archive.org/web/20190808065459/https://www.awn.com/news/turner-broadcasting-launch-cartoonito-across-emea |archive-date=8 August 2019 |access-date=17 November 2019}}</ref> It is run by [[AT&T]]'s [[WarnerMedia]] under its international division.
+
+==History==
+Cartoonito began as a programming block on [[Cartoon Network Too]] on 4 September 2006, running from 6 AM to 3 PM. It later expanded into its own channel on 24 May 2007, now running between 3 AM and 7 PM in a time-sharing agreement with [[Turner Classic Movies (UK & Ireland)#TCM 2|Turner Classic Movies 2]] (which later became Turner Classic Movies +1 after 13 August 2013).{{citation needed|date=August 2020}}
+
+On 25 March 2010, Cartoonito was added to Virgin Media.<ref>{{cite web|url=http://pressoffice.virginmedia.com/phoenix.zhtml?c=205406&p=irol-newsArticle&ID=1396640&highlight=|title=Virgin Media Expands Kids' Line-up with Cartoonito|publisher=Virgin Media|date=1 March 2010}}{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> In early 2011, the channel's runtime was changed, now running from 4 AM to 8 PM. On 15 December 2016, it was added to [[TalkTalk TV|TalkTalk]].<ref>{{cite web|title=Cartoonito UK Now Available On TalkTalk TV|url=https://www.regularcapital.com/2016/12/cartoonito-uk-now-available-on-talktalk-tv/|website=Regular Capital|accessdate=19 April 2018}}</ref>
+
+Cartoonito shifted its aspect ratio to 16:9 widescreen on 1 November 2017. The channel moved to a full 24-hour schedule on 15 January 2018.<ref>{{cite web|title=Cartoonito UK Now Available 24 Hours A Day|url=https://www.regularcapital.com/2018/01/cartoonito-uk-now-available-24-hours-day/|website=Regular Capital|accessdate=26 January 2018}}</ref>
+
+== Mascots ==
+Lolly (Purple Cylinder), Ringo (Green Ring) and Cuba (Red Cube) are voiced by [[Maria Darling]] while Spike (Blue Pyramid), Ting (Pink Star) and Bubble (Yellow Sphere) are voiced by [[Shelley Longworth]].
+
+== Programming ==
+{{Main|Cartoonito#Current programming}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://www.cartoonito.co.uk/}}
+
+{{Children's channels in UK & Ireland}}
+
+[[Category:Children's television networks]]
+[[Category:Children's television channels in the United Kingdom]]
+[[Category:Cartoon Network]]
+[[Category:Turner Broadcasting System UK & Ireland]]
+[[Category:Television channels and stations established in 2006]]

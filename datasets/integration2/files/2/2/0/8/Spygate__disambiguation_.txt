@@ -1,0 +1,7 @@
+#REDIRECT [[Spygate]]
+
+{{Rcat shell|
+{{R from move}}
+{{R to disambiguation page}}
+{{R unprintworthy}}
+}}

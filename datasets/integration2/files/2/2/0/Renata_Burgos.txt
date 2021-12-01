@@ -1,0 +1,49 @@
+{{short description|Brazilian swimmer}}
+{{Infobox swimmer|
+| name=Renata Burgos
+| image=
+| imagesize=
+| caption =
+| fullname = Renata de Oliveira Burgos
+| nicknames =
+| nationality = {{BRA}}
+| strokes = Freestyle
+| club =
+| collegeteam =
+| birth_date = {{birth date and age|mf=yes|1982|01|3}}
+| birth_place = [[Jaú]], [[São Paulo (state)|São Paulo]], [[Brazil]]
+| death_date =
+| death_place =
+| height = {{height|m=1.69|precision=0}}
+| weight = {{convert|65|kg|lb|abbr=on}}
+| medaltemplates =
+{{MedalSport|Women's [[Swimming (sport)|swimming]]}}
+{{MedalCountry|{{BRA}}}}
+}}
+
+'''Renata de Oliveira Burgos''' (born January 3, 1982 in [[Jaú]], [[São Paulo (state)|São Paulo]]) is a [[freestyle swimming|freestyle]] [[swimmer]] from [[Brazil]]. She represented her native country in the women's 4×100-metre freestyle relay at the [[2004 Summer Olympics]] in [[Athens, Greece]], finishing 12th<ref>{{cite web|title = Sports Reference Profile|work=Sports Reference|year = 2013|url = https://www.sports-reference.com/olympics/athletes/bu/renata-burgos-1.html|archive-url = https://web.archive.org/web/20200418032543/https://www.sports-reference.com/olympics/athletes/bu/renata-burgos-1.html|url-status = dead|archive-date = April 18, 2020|accessdate =April 23, 2013}}</ref> and breaking the South American record with a time of 3:45.38.<ref>{{cite web|title = UOL Profile|work=UOL|year = 2004|url = http://esporte.uol.com.br/olimpiadas/brasileiros/natacao/burgos.jhtm|accessdate =April 23, 2013|language=pt}}</ref> She's as resident of [[Ribeirão Preto]].
+
+Participating in the [[2006 Pan Pacific Swimming Championships]], in [[Victoria, British Columbia|Victoria]], Burgos finished 10th in the 50-metre freestyle,<ref>{{cite web | title = Results of the 50-metre freestyle at 2006 Pan Pac in Victoria | work = OmegaTiming | date = August 20, 2006 | url = http://www.omegatiming.com/File/Download?id=000106050038000000FFFFFFFFFFFF01 | accessdate = April 28, 2013}}</ref> 40th in the 100-metre freestyle,<ref>{{cite web | title = Results of the 100-metre freestyle at 2006 Pan Pac in Victoria | work = OmegaTiming | date = August 18, 2006 | url = http://www.omegatiming.com/File/Download?id=000106050010000000FFFFFFFFFFFF01 | accessdate = April 28, 2013}}</ref> and 45th in the 200-metre freestyle.<ref>{{cite web | title = Results of the 200-metre freestyle at 2006 Pan Pac in Victoria | work = OmegaTiming | date = August 17, 2006 | url = http://www.omegatiming.com/File/Download?id=000106050000000000FFFFFFFFFFFF01 | accessdate = April 28, 2013}}</ref>
+
+==Doping Suspension==
+
+Tested positive for the substance Stanozolol and given a two-year suspension by the Brazilian Swimming Confederation commencing December 14, 2006.<ref name="FINA">http://www.fina.org/project/index.php?option=com_content&task=view&id=111&Itemid=126
+</ref> She was guaranteed in [[2007 World Aquatics Championships]], and would participate in the [[2007 Pan American Games]]. Burgos was caught after a test conducted during the Brazilian Championship, in December 2006, when she won the gold medal in the 50-metre freestyle with the best time of her career: 25.56 seconds.<ref>{{cite web | title = Doping takes Renata Burgos out of Pan | work = Globoesporte | date = March 12, 2007 | url = http://globoesporte.globo.com/ESP/Noticia/Arquivo/0,,AA1485501-4020,00-DOPING+TIRA+RENATA+BURGOS+DO+PAN.html|accessdate = April 23, 2013|language=pt}}</ref>
+
+==Return==
+
+Burgos returned to swimming in 2009. In 2011, would participate in decision-time for vacancy for the [[2011 Pan American Games]] and [[2011 World Aquatics Championships]], however, she contracted [[Dengue fever|dengue]] and got no vacancy in these competitions.<ref>{{cite web | title = Dengue takes Burgos outside the World and Pan | work = ESPBR | date = May 25, 2011 | url = http://www.espbr.com/noticias/dengue-tira-renata-burgos-mundial-pan | accessdate = April 23, 2013 | language = pt | url-status = dead | archiveurl = https://archive.today/20130629030815/http://www.espbr.com/noticias/dengue-tira-renata-burgos-mundial-pan | archivedate = June 29, 2013 }}</ref>
+
+==References==
+* [http://esporte.uol.com.br/olimpiadas/brasileiros/natacao/burgos.jhtm UOL Profile]
+{{Reflist}}
+
+{{DEFAULTSORT:Burgos, Renata}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Brazilian female swimmers]]
+[[Category:Olympic swimmers of Brazil]]
+[[Category:Swimmers at the 2004 Summer Olympics]]
+
+
+{{Brazil-swimming-bio-stub}}

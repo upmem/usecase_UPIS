@@ -1,0 +1,32 @@
+{{Speciesbox
+|image = Mahonia napaulensis Nepal.JPG
+|genus = Mahonia
+|species = napaulensis
+|authority = [[DC.]]
+|synonyms_ref = <ref name=k/>
+|synonyms = * ''Berberis napaulensis'' <small>([[DC.]]) [[Laferr.]]</small>
+*''Berberis acanthifolia'' <small>(Wallich ex G. Don) Wallich ex Walpers</small>
+*''Berberis gautamae'' <small>Laferr.</small>
+*''Mahonia manipurensis'' <small>Takeda</small>
+*''Mahonia sikkimensis'' <small>Takeda</small>
+*''Mahonia salweenensis'' <small>Ahrendt</small>
+*''Mahonia pomensis'' <small>Ahrendt</small>
+*''Mahonia griffithii'' <small>Takeda</small>
+etc.
+}}
+
+'''''Mahonia napaulensis''''' {{lang-ne|जमाने मान्द्रो}} is a shrub in the family [[Berberidaceae]] described as a species in 1821.<ref>Candolle, Augustin Pyramus de. 1821.  Regni Vegetabilis Systema Naturale 2: 21</ref> It is native to [[China]] ([[Tibet]], [[Yunnan]], [[Sichuan]]) and the [[Himalayas]] ([[Nepal]], [[Bhutan]], [[Sikkim]], [[Assam]], [[Myanmar]]).<ref name=k>[http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008401 Flora of China Vol. 19 Page 779 <big>尼泊尔十大功劳</big> ni bo er shi da gong lao ''Mahonia napaulensis'' Candolle]</ref> This species is used medicinally throughout the Sikkim Eastern Himalayas. <ref name="O'Neill_al2017">{{cite journal |last1=O'Neill |first1=A. R.|last2=Badola |first2=H.K. |last3=Dhyani |first3=P. P. |last4=Rana |first4=S. K. |date=2017 |title=Integrating ethnobiological knowledge into biodiversity conservation in the Eastern Himalayas |journal=Journal of Ethnobiology and Ethnomedicine |volume=13 |issue=1 |pages=21 |doi=10.1186/s13002-017-0148-9 |pmid=28356115 |pmc=5372287}}</ref>
+
+==References==
+{{reflist}}
+
+{{Commons category|Berberis napaulensis}}
+{{Taxonbar|from=Q15225313}}
+
+[[Category:Mahonia|napaulensis]]
+[[Category:Flora of Asia]]
+[[Category:Shrubs]]
+[[Category:Plants described in 1821]]
+
+
+{{Ranunculales-stub}}

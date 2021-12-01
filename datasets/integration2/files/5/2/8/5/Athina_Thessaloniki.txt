@@ -1,0 +1,54 @@
+{{more citations needed|date=May 2016}}
+
+{{Infobox television
+  | name = Athina-Thessaloniki 
+  | alt_name =
+  | image =
+  | caption =
+  | runtime = 45 minutes
+  | creator = Nikos Mouratidis
+  | developer = 
+  | director = Christos Paligiannopoulos
+  | executive_producer =
+  | producer = 
+  | starring = [[Spyros Papadopoulos]]<br>[[Filareti Komninou]]
+  | narrated = 
+  | theme_music_composer = 
+  | composer = 
+  | opentheme = 
+  | endtheme = 
+  | country = [[Greece]]
+  | location = 
+  | language = [[Greek language|Greek]]
+  | network = [[ERT1]]
+  | picture_format = 
+  | first_aired =  {{start date|1997}}
+  | last_aired = {{end date|1998}}
+  | num_seasons = 1
+  | preceded_by = 
+  | followed_by = 
+  | related =
+  | website =
+  }}
+'''Athina-Thessaloniki''' (Athens to Thessaloniki) is a Greek television series, that was aired in season 1997-98 by [[ERT1]]. The series was written by Nikos Mouratidis and it starred [[Spyros Papadopoulos]] and [[Filareti Komninou]]. It stood out for its soundtrack composed by [[Evanthia Reboutsika]] and performed by [[Nana Mouskouri]].<ref name="ertgr">{{cite web|title=Αθήνα-Θεσσαλονίκη |url=http://program.ert.gr/details.asp?pid=3467755&chid=49 |publisher=program.ert.gr |accessdate=20 May 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20160624235325/http://program.ert.gr/details.asp?pid=3467755&chid=49 |archivedate=24 June 2016 }}</ref>
+
+==Plot==
+A musician and a philologist live in the two biggest Greek cities, [[Athens]] and [[Thessaloniki]]. They are both married, but when they fall in love between them, they collide with their families. Eventually, their relationship ends to a dead-end mostly because of the distance of their residence places.<ref name="ertgr"/>
+
+==Cast==
+*[[Spyros Papadopoulos]]
+*[[Filareti Komninou]]
+*[[Katerina Didaskalou]]
+*[[Louiza Podimata]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|0293724}}
+
+[[Category:Hellenic Broadcasting Corporation original programming]]
+[[Category:Greek drama television series]]
+[[Category:1997 Greek television series debuts]]
+[[Category:1998 Greek television series endings]]
+[[Category:1990s Greek television series]]

@@ -1,0 +1,58 @@
+==Course information==
+<!-- Please replace the following bullets with the appropriate information. -->
+* University: Georgetown University
+* Course title: New Media: Innovation, Community, and Dissidence
+* Professor name: Adel Iskandar
+* Professor's Wikipedia username: {{User|Minotaurlives}} <!-- You may use the following format: {{User|ExampleUser}}. -->
+
+==Course description==
+The last decade has been marked by significant transformations in the way communication is forged by institutions and individuals. This course will focus on the theoretical premises of such trends and movements, the fashion by which they utilize media trends, their patterns and content. Readings and class discussions will examine the categorical definitions of radical, independent, alternative, social, network and user-produced media and their contextualization within local, global and hybrid locales. From the use of video-sharing portals for self-memorialization and historicization to major public events (e.g Twitter during and after the 2009 Iranian Presidential elections) to the utilization of microblogging both as commodification and subversion to authority, the course will explore how new media technology can be perceived/appropriated as simultaneously hegemonic and counterhegemonic.
+
+==Wikipedia assignment==
+[[Biopolitics]]--Cory Benavente's major edits Wikipedia page
+
+[[RunKeeper]]--Corey McKeon's new Wikipedia article (http://en.wikipedia.org/wiki/Runkeeper)
+
+[[Media activism]]--Carrie Saracini's major edits
+
+[[Goodreads]]--Emily Muth's major edits
+
+[[Refinery29]]--Alisa Wiersema's major edits
+
+[http://en.wikipedia.org/wiki/User:Monde17/sandbox Networked Feminism]--Sarah Friedmann's new Wikipedia article
+
+[[China Broadcast Corporation]]--Man Zhu's major edits (http://en.wikipedia.org/wiki/User:Gracemanman/China_broadcast_Corporation)
+
+<!-- Please replace this section. This is where you briefly describe how your students will contribute to Wikipedia. Please include whether they will create new articles or expand an existing article, the quantity of content prescribed by the assignment, and the general goals of this work. If you have a list of articles for the students to edit, please copy the list to this section.-->
+
+==Student usernames==
+''Student usernames should follow the ExampleUser format below.''
+*{{User|ExampleUser}} <!-- This is the format for listing students. It creates a link to the userpage, the talk page, and the contribution history.-->
+*[[User:Kommunication|Kommunication]] ([[User talk:Kommunication|talk]]) 14:29, 16 October 2012 (UTC)
+*{{User|Xmckeon}} [[User:Xmckeon|Corey McKeon]] ([[User talk:Xmckeon|talk]]) 14:29, 16 October 2012 (UTC)
+*{{User|lime30}}
+*{{User|viviangong}}
+*{{User|Vaneb}}
+*{{User|Rachelrenren}}
+*{{User|Aw792}}
+*{{User|Gracemanman}}
+*{{User|sarcl1}}
+*{{User|monde17}}
+*{{User|LadyKatieA}}
+*{{User|Yvonne1212}}
+*{{User|Wiki0658}}
+*{{User|Happyday1}}
+
+==Student resources==
+For on-wiki help, please refer to '''[[Wikipedia:Training/For_students|this student orientation]]''' and [[User:JMathewson (WMF)/Student resources|this brief resource page]]. 
+
+==Immediate help==
+[[File:Button Icon Violet - CLICK HERE for live help.svg|{{{size|200px}}}|right|link=http://webchat.freenode.net/?channels=wikipedia-en-classroom]]
+Looking for immediate help from a Wikipedia Ambassador?  Click the big purple button on the right.
+
+Enter your Wikipedia username, fill out the CAPTCHA, and click "Connect" to enter chat. Then explain what you need help with.
+
+If no one replies within about 3-5 minutes, try [http://webchat.freenode.net/?channels=wikipedia-en-help this help channel] instead.
+
+
+[[Category:Wikipedia United States Education Program courses, 2012 Q4|{{SUBPAGENAME}}]]

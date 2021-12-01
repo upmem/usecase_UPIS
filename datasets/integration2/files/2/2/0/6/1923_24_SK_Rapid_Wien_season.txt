@@ -1,0 +1,225 @@
+{{Infobox football club season
+| club               = [[SK Rapid Wien|Rapid Wien]]
+| season             = 1923-24
+| manager            = [[Dionys Schönecker]]
+| mgrtitle           = Coach
+| stadium            = [[Pfarrwiese]],<br/>[[Vienna]], [[Austria]]
+| league             = [[1923-24 Austrian football championship|First class]]
+| league result      = 4th
+| cup1               = [[1923-24 Austrian Cup|Austrian Cup]]
+| cup1 result        = 2nd round
+| league topscorer   = [[Josef Uridil]], [[Ferdinand Wesely]] (14)
+| season topscorer   = [[Josef Uridil]], [[Ferdinand Wesely]] (14)
+| highest attendance = 40,000
+| lowest attendance  = 3,500
+| average attendance = 15,500
+| prevseason         = [[1922–23 SK Rapid Wien season|1922–23]]
+| nextseason         = [[1924–25 SK Rapid Wien season|1924–25]]
+}}
+
+The '''1923–24 [[SK Rapid Wien]] season''' was the 26th season in club history.
+
+==Squad==
+
+===Squad and statistics===
+<ref name=ref>{{cite web|title=Saison 1923/24 |url=http://www.rapidarchiv.at/saisonen/1924.html|publisher=rapidarchiv.at|accessdate=19 July 2016}}</ref>
+
+===Squad statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan="2" valign="bottom"|Nat.
+!rowspan="2" valign="bottom"|Name
+!colspan="2" width="85"|League
+!colspan="2" width="85"|Cup
+!colspan="2" width="85"|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+!colspan=15|Goalkeepers
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Kolar]] || 11|| || 1|| || 12|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Ernst Pauler]] || 7|| || || || 7|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Ignaz Tiller]] || 4|| || 1|| || 5|| 
+|-
+!colspan=15|Defenders
+|-
+|{{flagicon|AUT}}||align="left"|[[Vinzenz Dittrich]] || 11|| 1|| 1|| || 12|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Emil Regnard]] || 9|| 2|| || || 9|| 2
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Schlosser]] || 12|| || || || 12|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Uridil]] || 11|| || 2|| || 13|| 
+|-
+!colspan=15|Midfielders
+|-
+|{{flagicon|AUT}}||align="left"|[[Hans Beran]] || 2|| || 1|| || 3|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Brandstetter]] || 11|| || || || 11|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Otto Hamacek]] || || || 1|| || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Klär]] || 18|| || 2|| || 20|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Johann Külf]] || 5|| || 1|| || 6|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Machek]] || 10|| || 2|| 1|| 12|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Nitsch]] || 9|| || || || 9|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Engelbert Silbeck]] || 1|| || || || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Johann Täuber]] || 3|| || || || 3|| 
+|-
+!colspan=15|Forwards
+|-
+|{{flagicon|AUT}}||align="left"|[[Eduard Bauer]] || 11|| 5|| || || 11|| 5
+|-
+|{{flagicon|AUT}}||align="left"|[[Johann Hanusch]] || 1|| || || || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Kirbes]] || || || 1|| 1|| 1|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Willibald Kirbes]] || 3|| || 2|| || 5|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Richard Kuthan]] || 19|| 7|| 2|| 5|| 21|| 12
+|-
+|{{flagicon|AUT}}||align="left"|[[Ludwig Lacina]] || 2|| || || || 2|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Anton Lebeda]] || 3|| 1|| || || 3|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Podpiera]] || 1|| || || || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Prohaska]] || 2|| || || || 2|| 
+|-
+|{{flagicon|AUT}}||align="left"|Johann Richter || 13|| || || || 13|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Uridil]] || 14|| 14|| 1|| || 15|| 14
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Uridil]] || || || 1|| 1|| 1|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Anton Wagner]] || 7|| 2|| || || 7|| 2
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Weselik]] || 10|| 8|| 2|| 1|| 12|| 9
+|-
+|{{flagicon|AUT}}||align="left"|[[Ferdinand Wesely]] || 22|| 14|| 1|| || 23|| 14
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Wondrak]] || 10|| 1|| || || 10|| 1
+|}
+
+==Fixtures and results==
+<ref name=results>{{cite web|title=Spiele 1923/24 |url=http://www.rapidarchiv.at/spiele/1924.html|publisher=rapidarchiv.at|accessdate=25 July 2016}}</ref>
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+===League===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#cfc"
+| {{tooltip|1|Round 1}} || 26.08.1923 || A || align="left"| [[ASV Hertha Wien|Hertha Wien]] || 4-3 || align="right"|16,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|6}} {{goal|35}}, [[Eduard Bauer|Bauer E.]] {{goal|20}}, [[Josef Uridil|Uridil J.]] {{goal|73}}
+|- style="background:#ffc"
+| {{tooltip|2|Round 2}} || 02.09.1923 || [[Hohe Warte Stadium|A]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 2-2 || align="right"|30,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|25|pen.}} {{goal|55}}
+|- style="background:#cfc"
+| {{tooltip|3|Round 3}} || 16.09.1923 || [[Hohe Warte Stadium|H]] || align="left"| [[FK Austria Wien|Amateure]] || 3-1 || align="right"|40,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|12}} {{goal|61}}, [[Ferdinand Wesely|Wesely]] {{goal|25|pen.}}
+|- style="background:#fcc"
+| {{tooltip|4|Round 4}} || 07.10.1923 || [[Sportplatz Simmering|A]] || align="left"| [[1. Simmeringer SC|Simmering]] || 2-4 || align="right"|15,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|9}}, [[Vinzenz Dittrich|Dittrich]] {{goal|64|pen.}}
+|- style="background:#cfc"
+| {{tooltip|5|Round 5}} || 30.09.1923 || [[Pfarrwiese|H]] || align="left"| [[Wiener AF]] || 7-1 || align="right"|10,000
+| align="left"|[[Eduard Bauer|Bauer E.]] {{goal|22}}, [[Ferdinand Wesely|Wesely]] {{goal|38|pen.}} {{goal|46}} {{goal|49}}, [[Josef Uridil|Uridil J.]] {{goal|65}} {{goal|75}}, [[Richard Kuthan|Kuthan]] {{goal|90}}
+|- style="background:#fcc"
+| {{tooltip|6|Round 6}} || 02.12.1923 || A || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 2-4 || align="right"|12,000
+| align="left"|[[Emil Regnard|Regnard]] {{goal|22|pen.}}, [[Josef Uridil|Uridil J.]] {{goal|23}}
+|- style="background:#ffc"
+| {{tooltip|7|Round 7}} || 20.10.1923 || [[Pfarrwiese|H]] || align="left"| [[Hakoah Vienna|Hakoah]] || 2-2 || align="right"|25,000
+| align="left"|[[Eduard Bauer|Bauer E.]] {{goal|18}}, [[Josef Uridil|Uridil J.]] {{goal|82}}
+|- style="background:#cfc"
+| {{tooltip|8|Round 8}} || 04.11.1923 || A || align="left"| [[FC Ostmark Wien|Ostmark]] || 3-0 || align="right"|15,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|57}} {{goal|69}} {{goal|80}}
+|- style="background:#cfc"
+| {{tooltip|9|Round 9}} || 11.11.1923 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Admira]] || 2-0 || align="right"|8,000
+| align="left"|[[Eduard Bauer|Bauer E.]] {{goal|27}}, [[Josef Uridil|Uridil J.]] {{goal|49}}
+|- style="background:#cfc"
+| {{tooltip|10|Round 10}} || 27.10.1923 || [[Pfarrwiese|H]] || align="left"| [[First Vienna FC|Vienna]] || 3-1 || align="right"|22,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|11}} {{goal|47}}, [[Josef Uridil|Uridil J.]] {{goal|21}}
+|- style="background:#cfc"
+| {{tooltip|11|Round 11}} || 25.11.1923 || [[Pfarrwiese|H]] || align="left"| [[SK Slovan Wien|Slovan Wien]] || 6-4 || align="right"|8,000
+| align="left"|[[Eduard Bauer|Bauer E.]] {{goal|8}}, [[Josef Uridil|Uridil J.]] {{goal|16}} {{goal|30}}, [[Emil Regnard|Regnard]] {{goal|70|pen.}}, [[Richard Kuthan|Kuthan]] {{goal|78}}, [[Ferdinand Wesely|Wesely]] {{goal|89}}
+|- style="background:#cfc"
+| {{tooltip|12|Round 12}} || 24.02.1924 || [[Pfarrwiese|H]] || align="left"| [[FC Ostmark Wien|Ostmark]] || 3-2 || align="right"|12,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|13}} {{goal|23}}, [[Richard Kuthan|Kuthan]] {{goal|21}}
+|- style="background:#ffc"
+| {{tooltip|13|Round 13}} || 30.03.1924 || [[Hohe Warte Stadium|A]] || align="left"| [[FK Austria Wien|Amateure]] || 2-2 || align="right"|45,000
+| align="left"|[[Anton Wagner|Wagner A.]] {{goal|1}}, [[Franz Weselik|Weselik]] {{goal|66}}
+|- style="background:#cfc"
+| {{tooltip|14|Round 14}} || 09.03.1924 || A || align="left"| [[FC Admira Wacker Mödling|Admira]] || 2-1 || align="right"|5,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|23}} {{goal|52}}
+|- style="background:#cfc"
+| {{tooltip|15|Round 15}} || 16.03.1924 || [[Pfarrwiese|H]] || align="left"| [[ASV Hertha Wien|Hertha Wien]] || 3-2 || align="right"|15,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|48}} {{goal|86}}, [[Anton Lebeda|Lebeda]] {{goal|90}}
+|- style="background:#fcc"
+| {{tooltip|16|Round 16}} || 05.04.1924 || [[Hohe Warte Stadium|A]] || align="left"| [[First Vienna FC|Vienna]] || 1-5 || align="right"|25,000
+| align="left"|[[Anton Wagner|Wagner A.]] {{goal|70}}
+|- style="background:#fcc"
+| {{tooltip|17|Round 17}} || 13.04.1924 || [[Hohe Warte Stadium|A]] || align="left"| [[Hakoah Vienna|Hakoah]] || 0-3 || align="right"|30,000
+| align="left"|
+|- style="background:#fcc"
+| {{tooltip|18|Round 18}} || 22.05.1924 || [[Pfarrwiese|A]] || align="left"| [[SK Slovan Wien|Slovan Wien]] || 2-3 || align="right"|10,000
+| align="left"|[[Karl Wondrak|Wondrak]] {{goal|44}}, [[Franz Weselik|Weselik]] {{goal|75}}
+|- style="background:#fcc"
+| {{tooltip|19|Round 19}} || 18.05.1924 || [[Pfarrwiese|H]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 0-3 || align="right"|15,000
+| align="left"|
+|- style="background:#ffc"
+| {{tooltip|20|Round 20}} || 12.06.1924 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 2-2 || align="right"|8,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|34}} {{goal|37|pen.}}
+|- style="background:#ffc"
+| {{tooltip|21|Round 21}} || 19.06.1924 || H || align="left"| [[1. Simmeringer SC|Simmering]] || 1-1 || align="right"|7,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|82|pen.}}
+|- style="background:#cfc"
+| {{tooltip|22|Round 22}} || 29.06.1924 || A || align="left"| [[Wiener AF]] || 3-2 || align="right"|5,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|57}} {{goal|63|pen.}} {{goal|65}}
+|}
+
+===Cup===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#cfc"
+| {{tooltip|R1|1st round}} || 10.02.1924 || [[Pfarrwiese|H]] || align="left"| [[Ober St. Veiter Sportfreunde|Ober St. Veit]] || 8-0 || align="right"|3,500
+| align="left"|[[Franz Machek|Machek]] {{goal|18}}, [[Richard Kuthan|Kuthan]] {{goal|20|pen.}} {{goal|42}} {{goal|53}} {{goal|66}} {{goal|}}, [[Franz Weselik|Weselik]] {{goal|}}, [[Karl Uridil|Uridil K.]] {{goal|}}
+|- style="background:#fcc"
+| {{tooltip|R16|Round of 16}} || 23.03.1924 || [[Pfarrwiese|H]] || align="left"| [[1. Simmeringer SC|Simmering]] || 1-2 ([[Overtime (sports)|a.e.t.]]) || align="right"|25,000
+| align="left"|[[Karl Kirbes|Kirbes K.]] {{goal|7}}
+|}
+
+==References==
+{{Reflist}}
+
+{{SK Rapid Wien seasons |state=expanded}}
+
+{{DEFAULTSORT:1923-24 SK Rapid Wien season}}
+[[Category:SK Rapid Wien seasons|1923-24 Rapid Wien Season]]
+[[Category:Austrian football clubs 1923–24 season|Rapid]]

@@ -1,0 +1,38 @@
+{{Infobox NRHP
+  | name = Fireman's Hall
+  | nrhp_type = 
+  | image = Fireman's Hall Alfred NY Apr 12.jpg
+  | caption = Fireman's Hall, April 2012
+  | location= 7 W. University St., [[Alfred (village), New York|Alfred, New York]]
+  | coordinates = {{coord|42|15|13|N|77|47|29|W|display=inline,title}}
+| locmapin = New York#USA
+  | built = 1890
+  | architect = A.E. Crandall Hook & Ladder Co.
+  | architecture = 
+  | added = March 18, 1980
+  | area = {{convert|0.7|acre}}
+  | governing_body = Local
+  | refnum = 80004275<ref name="nris">{{NRISref|2009a}}</ref>
+}}
+
+'''Fireman's Hall''' is a historic [[Fire station|fire hall]] located at [[Alfred (village), New York|Alfred]] in [[Allegany County, New York]].  It was built in 1890-1891 by volunteer firemen as the first home of the A.E. Crandall Hook & Ladder Co.  It is a massive three story brick and sandstone structure that features an imposing [[bell tower|bell / clock tower]]. The clock, designed by [[Seth Thomas (clockmaker)|Seth Thomas]], was donated by the Samuel Stillman family after the Village ran out of funds for the hall.<ref>{{cite book|last=Rausmussen|first=Thomas|title=Walking the Village of Alfred|year=2001|publisher=Alfred Historical Society|pages=6}}</ref> The weather vane atop depicts a firefighter on a ladder. The building has housed village offices since the 1970s, as well as village court, police station and meeting hall today.<ref name="NysNrhpNom">{{cite web|url=https://cris.parks.ny.gov/ |archive-url=https://archive.today/20150701003048/http://cris.parks.ny.gov/ |url-status=dead |archive-date=2015-07-01 |title=Cultural Resource Information System (CRIS) |publisher=[[New York State Office of Parks, Recreation and Historic Preservation]] |format=Searchable database |accessdate=2016-05-01 }} ''Note:'' This includes {{cite web|url=https://cris.parks.ny.gov/Uploads/ViewDoc.aspx?mode=A&id=26672&q=false |title=National Register of Historic Places Registration Form: Firemen's Hall |accessdate=2016-05-01 |author=Claire L. Ross |format=PDF |date=November 1979 }} and [https://cris.parks.ny.gov/Uploads/ViewDoc.aspx?mode=A&id=26674&q=false ''Accompanying seven photographs'']</ref>
+
+It was listed on the [[National Register of Historic Places]] in 1980.<ref name="nris"/>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Fireman's Hall (Alfred, New York)}}
+
+{{National Register of Historic Places in New York}}
+
+[[Category:Fire stations on the National Register of Historic Places in New York (state)]]
+[[Category:Fire stations completed in 1891]]
+[[Category:Buildings and structures in Allegany County, New York]]
+[[Category:1891 establishments in New York (state)]]
+[[Category:Defunct fire stations in New York (state)]]
+[[Category:National Register of Historic Places in Allegany County, New York]]
+
+
+{{AlleganyCountyNY-NRHP-stub}}

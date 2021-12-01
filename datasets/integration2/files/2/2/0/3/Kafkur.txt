@@ -1,0 +1,53 @@
+{{Infobox settlement
+|official_name =Kafkur
+|native_name =كفكور
+|settlement_type        = village
+|pushpin_map            =Iran
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name = {{flag|Iran}}
+|subdivision_type1 =[[Provinces of Iran|Province]]
+|subdivision_name1 =[[Mazandaran Province|Mazandaran]]
+|subdivision_type2 =[[Counties of Iran|County]]
+|subdivision_name2 = [[Neka County|Neka]]
+|subdivision_type3 =[[Bakhsh]]
+|subdivision_name3 =[[Hezarjarib District|Hezarjarib]]
+|subdivision_type4 =[[Rural Districts of Iran|Rural District]]
+|subdivision_name4 =[[Zarem Rud Rural District|Zarem Rud]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2006
+|population_total =10
+|population_density_km2   =auto
+|timezone               = [[Iran Standard Time|IRST]]
+|utc_offset             = +3:30
+|timezone_DST           = [[Iran Daylight Time|IRDT]]
+|utc_offset_DST         = +4:30
+|coordinates            = {{coord|36|32|08|N|53|39|39|E|region:IR|display=inline,title}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+|footnotes              =
+}}
+'''Kafkur''' ({{lang-fa|كفكور}}, also [[Romanize]]d as '''Kafkūr'''; also known as '''Kabkūr''')<ref>{{GEOnet3|-3837100|Kafkur}}</ref> is a village in [[Zarem Rud Rural District]], [[Hezarjarib District]], [[Neka County]], [[Mazandaran Province]], [[Iran]].
+
+It is located in the [[Alborz|Alborz (''Elburz'') mountain range]].
+
+At the 2006 census, its population was  10, in 2 families.<ref>{{IranCensus2006|02}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Neka County}}
+{{Mazandaran Province}}
+
+{{Portal|Iran}}
+
+[[Category:Populated places in Neka County]]
+[[Category:Settled areas of Elburz]]
+
+{{Neka-geo-stub}}

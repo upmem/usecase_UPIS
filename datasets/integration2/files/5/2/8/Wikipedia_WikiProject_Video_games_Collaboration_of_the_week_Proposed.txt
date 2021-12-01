@@ -1,0 +1,26 @@
+{{historical}}
+
+{{Wikipedia:WikiProject Video games/Sidebar}}
+<div style="float: right; width: 100px; margin-bottom: 1em; "> {{Shortcut|WP:GCOTW}}</div>
+Each week an article is chosen to be the '''Video Game Collaboration of the week'''. The process is simple. A bot chooses one video game-related article that is rated '''Stub''' ''or'' '''Start''' ''or'' '''C''' class, ''and'' '''Top''' or '''High''' priority for [[WP:VG]]. The bot then updates [[Template:Collab-gaming]] with the pick, and editors start editing. The ''aim'' of this collaboration is to get these articles to '''B''' class or better, but the goal is simply improvement. If the article has been noticeably improved in this time, then the week was successful.
+
+For a discussion on the correct format of video game articles, please see [[Wikipedia:WikiProject Video games|WikiProject Video games]].
+
+The project is also used to fill gaps in Wikipedia, to give users a focus, and to give us all something to be proud of. Any user can be a part of it. The article is announced every Monday morning on the below template.
+
+{{tl|CurrentGCOTW}}
+:Add the above template to your [[Special:MyPage|user page]] by adding: '''{{tl|CurrentGCOTW}}'''
+
+If an article is chosen that is not felt to appropriate (either not really [[WP:VG]] related, or not really '''High''' or '''Top''' importance), simply bring it up on the talk page. If the consensus is that the article should be changed, the bot we be requested to "re-roll". Also note that, although it is random, articles that have already been GCotW or that have been rejected will not be chosen again.
+
+Previous collaborations can be found at [[/History]].<br>
+Removed nominations can be found at [[/Removed]].
+
+===How to update===
+A guide to updating the GCOTW can be found [[Wikipedia:Gaming Collaboration of the week/Update guide|here]].
+
+{{Wikipedia:Version 1.0 Editorial Team/Video game articles by quality statistics}}
+To see the criteria by which video games are rated, see the [[Wikipedia:WikiProject_Video_games/Assessment#Quality_scale|quality scale]].
+
+[[Category:Wikipedia collaborations|Video Games]]
+[[Category:WikiProject Video games|Collaboration Of The Week Proposed]]

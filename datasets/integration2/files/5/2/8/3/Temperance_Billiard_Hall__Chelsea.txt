@@ -1,0 +1,29 @@
+[[File:Temperance Billiard Hall, Chelsea 01.JPG|thumb|Temperance Billiard Hall, Chelsea]]
+{{commons category|Temperance Billiard Hall, Chelsea}}
+
+The '''Temperance Billiard Hall''' at 131–141 [[King's Road]], [[Chelsea, London|Chelsea]], London, is a [[Grade II listed]] building with [[English Heritage]].<ref>{{NHLE|num=1392863 |desc=|accessdate= 14 August 2014}}</ref>
+
+It was built around 1912–14 to a design by [[Thomas Somerford|Thomas Retford Somerford]] for [[Temperance Billiard Halls|Temperance Billiards Halls Ltd.]], and became an antiques centre in the 1960s. It is still retail premises.<ref>[http://www.victorianweb.org/art/architecture/london/145.html ''Former Temperance Billiard Hall''] The Victorian Web, 29 September 2012. Retrieved 14 August 2014.</ref> It is now connected to the former [[Chelsea Garage]] in 15 Flood Street, which is also Grade II listed.<ref name=EnglishHeritage02>{{NHLE |num= 1392893|desc= Former Motorcar Garage|access-date= 27 September 2014}}</ref>
+
+== Gallery ==
+<gallery>
+File:Temperance Billiard Hall, Chelsea 09.JPG|Side view
+File:Temperance Billiard Hall, Chelsea 05.JPG|Entrance
+File:Temperance Billiard Hall, Chelsea 11.JPG|Exterior stained glass
+File:Temperance Billiard Hall, Chelsea 17.JPG|Interior of the same window
+File:Temperance Billiard Hall, Chelsea 06.JPG|Stained glass window
+File:Temperance Billiard Hall, Chelsea 13.JPG|Stained glass skylight
+File:Temperance Billiard Hall, Chelsea 18.JPG|Roof supports
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{coord|51.4882|-0.1664|type:landmark_region:GB-KEC|display=title}}
+
+[[Category:Grade II listed buildings in the Royal Borough of Kensington and Chelsea]]
+[[Category:Billiard halls]]
+[[Category:Temperance movement]]
+[[Category:Buildings and structures completed in 1914]]
+
+{{London-struct-stub}}

@@ -1,0 +1,46 @@
+{{use dmy dates|date=October 2014}}
+{{Infobox football biography
+|name        = Jimmy Lyske
+|image       =
+|image_size  =
+|caption     = 
+|fullname    = James Herbert Alexander Lyske<ref name=Hugman/>
+|birth_date  = {{birth date|1932|10|7|df=y}}<ref name=Hugman/>
+|birth_place = [[Portadown]],<ref name=Hugman/> Northern Ireland
+|death_date  = {{death year and age|1974|1932}}{{efn|Lyske's death was registered in the fourth quarter of 1974, in the Yeovil registration district,<ref>{{cite web |url=http://search.findmypast.co.uk/record?id=bmd/d/1974/4/az/000713/085 |url-access=subscription |via=[[Findmypast]] |title=England & Wales deaths 1837–2007 Transcription |at=James Herbert A Lyske. District: Yeovil. County: Somerset. Volume: 23. Page: 1770 |accessdate=16 October 2014}}</ref> which covers the town of [[Yeovil]], Somerset, and the surrounding area.<ref>{{cite web |title=Yeovil registration district |url=http://www.ukbmd.org.uk/genuki/reg/districts/yeovil.html |publisher=UKBMD |accessdate=16 October 2014}}</ref>|name=deathcert}}
+|death_place = [[Yeovil]],{{efn|name=deathcert}} England
+|height      = 
+|position    = [[Full back (association football)|Full back]]
+|youthyears1 = –         |youthclubs1 = Portadown BC
+|years1      = 19??–1957 |clubs1 = [[Glenavon F.C.|Glenavon]]       |caps1 =    |goals1 = 
+|years2      = 1957–1958 |clubs2 = [[Sunderland A.F.C.|Sunderland]] |caps2 = 0  |goals2 = 0
+|years3      = 1958–1959 |clubs3 = [[Darlington F.C.|Darlington]]   |caps3 = 16 |goals3 = 0
+|years4      = 1959–1960 |clubs4 = [[Yeovil Town F.C.|Yeovil Town]] |caps4 =    |goals4 = 0
+}}
+'''James Herbert Alexander Lyske''' (7 October 1932&nbsp;– 1974) was a Northern Irish [[association football|footballer]] who played as a [[full back (association football)|full back]] in the [[Irish Football League]] for [[Glenavon F.C.|Glenavon]], in the [[the Football League|English Football League]] for [[Darlington F.C.|Darlington]],<ref name=Hugman>{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Premier & Football League Players' Records 1946–1998 |date=1998 |publisher=Queen Anne Press |isbn=978-1-85291-585-8 |page=339}}</ref> and for [[Southern Football League|Southern League]] club [[Yeovil Town F.C.|Yeovil Town]].<ref>{{cite web |url=http://www.ciderspace.co.uk/asp/history/yeovil-town-story23.asp |title=The Yeovil Town Story: Part 23: Season 1958–59: The Southern League expands |website=Ciderspace |date=27 July 2009 |accessdate=16 October 2014}}</ref> He was on the books of [[Sunderland A.F.C.|Sunderland]] without playing for them in the League.<ref name=Hugman/>
+
+Lyske played four times for Ireland Schools in 1947<ref>{{cite news |url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000564/19470605/096/0005 |title=Dens Park will show who's top of the class |newspaper=The Courier |location=Dundee |date=5 June 1947 |page=5 |url-access=subscription |via=[[British Newspaper Archive]]}}</ref><ref>{{cite web |url=http://myweb.tiscali.co.uk/nisfa/U15%20Caps.htm |title=NISFA U15 & U16 international players |work=Northern Ireland Schools' Football Association |accessdate=16 October 2014}}</ref> and represented [[Northern Ireland national under-19 football team|Northern Ireland youth]] in 1951.<ref>{{cite web |url=http://nifootball.blogspot.co.uk/2012/01/northern-ireland-youth-match-details.html |title=Northern Ireland Youth match details 1948–1980 |work=Northern Ireland's Footballing Greats |editor=Dewart, Jonny |date=2 January 2012 |accessdate=16 October 2014}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Lyske, Jimmy}}
+[[Category:1932 births]]
+[[Category:1974 deaths]]
+[[Category:People from Portadown]]
+[[Category:Association footballers from Northern Ireland]]
+[[Category:Northern Ireland youth international footballers]]
+[[Category:Association football fullbacks]]
+[[Category:Glenavon F.C. players]]
+[[Category:Sunderland A.F.C. players]]
+[[Category:Darlington F.C. players]]
+[[Category:Yeovil Town F.C. players]]
+[[Category:NIFL Premiership players]]
+[[Category:English Football League players]]
+[[Category:Date of death missing]]
+
+
+{{NorthernIreland-footy-bio-stub}}

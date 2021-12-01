@@ -1,0 +1,110 @@
+{{infobox sport event
+|name           = 2005 [[Individual Long Track World Championship]]
+|image          = 
+|size           = 
+|caption        = 
+|date_start     = 
+|date_end       = 
+|competitors    =
+|nations        =
+|prize_money    =
+|other          =
+|venue          = 
+|location       = 
+|prev = [[2004 Individual Long Track World Championship|2004]]
+|next = [[2006 Individual Long Track World Championship|2006]]
+}}
+The '''2005 Individual Long Track/Grasstrack World Championship''' was the 35th edition of the [[Fédération Internationale de Motocyclisme|FIM]] [[Motorcycle speedway|speedway]] [[Individual Long Track World Championship]].<ref>{{cite web|url=http://www.speedway.org/history/|title=SPEEDWAY and LONGTRACK|publisher=Speedway.org}}</ref><ref>{{cite web|url=http://grasstrackgb.co.uk/world-longtrack/|title=World Longtrack World Champions|publisher=Grasstrack GB}}</ref>
+
+The world title was won by [[Robert Barth]] of Germany for the third time.<ref>{{cite web|url=http://www.speedwaychampions.com/long-track-champions.php|title=Long Track Racing|publisher=Speedway Champions}}</ref> 
+
+== Venues ==
+{|class="wikitable" style="font-size: 100%"
+|-
+!width=30|Round
+!width=100| Date
+!width=200| Venue
+|-
+|1|| 26 Jun    ||   {{flagicon|GER}} [[Mühldorf]] 
+|-
+|2|| 13 Jul   || {{flagicon|FRA}} [[Marmande]]
+|-
+|3|| 21 Aug  ||   {{flagicon|GER}} [[Parchim]]
+|-
+|4|| 3 Sep   || {{flagicon|FRA}} [[Morizès]]
+|-
+|5|| 3 Nov   || {{flagicon|NZL}} [[New Plymouth]] (Cancelled)
+|}
+
+== Final Classification ==
+{|class="wikitable" style="font-size: 100%"
+|-
+!width=20| Pos
+!width=300| Rider
+!width=40| Round 1
+!width=40| Round 2
+!width=40| Round 3
+!width=40| Round 4
+!width=100| Total Pts
+|-align=center style="background-color: gold;"   
+|1 || align="left"| {{flagicon|GER}} [[Robert Barth]] ||20	||25	||18	||20	||83
+|-align=center style="background-color: silver;"
+|2 || align="left"| {{flagicon|GER}} [[Gerd Riss]]  || 25	||11	||25	||14	||75
+|-align=center style="background-color: #cc9966;"
+|3 || align="left"| {{flagicon|ENG}} [[Paul Hurry]]  ||8	||20	||12	||18	||58
+|-align=center
+|4 || align="left"| {{flagicon|FIN}} [[Joonas Kylmäkorpi]]   ||12	||18	||11	||12	||53
+|-align=center 
+|5 || align="left"| {{flagicon|CZE}} [[Antonín Šváb Jr.]]  ||1	||13	||6	||25	||45
+|-align=center 
+|6 || align="left"| {{flagicon|GER}} [[Matthias Kröger]]  ||3	||12	||14	||13	||42
+|-align=center   
+|7 || align="left"| {{flagicon|NED}} [[Theo Pijper]]  ||18	||x	||16	||6	||40
+|-align=center 
+|8 || align="left"| {{flagicon|GER}} [[Enrico Janoschka]]   ||4	||16	||8	||8	||36
+|-align=center 
+|9 || align="left"| {{flagicon|GER}} [[Stephan Katt]]  ||11	||x	||13	||10	||34
+|-align=center   
+|10 || align="left"| {{flagicon|ENG}} [[Andrew Appleton]] ||13	||10	||7	||4	||34
+|-align=center  
+|11 || align="left"| {{flagicon|ENG}} [[Kelvin Tatum]] || 14	||x	||20	 ||x	||34
+|-align=center 
+|12 || align="left"| {{flagicon|NED}} [[Jannick de Jong]]  ||9	||9	||4	||9	||31
+|-align=center   
+|13 || align="left"| {{flagicon|GER}} [[Bernd Diener]] ||7	||4	||9	||7	||27
+|-align=center 
+|14 || align="left"| {{flagicon|GER}} [[Herbert Rudolph]] ||6	||5	||3	||11	||25
+|-align=center 
+|15 || align="left"| {{flagicon|GER}} [[Jörg Tebbe]] ||x	||8	||10	||3	||21
+|-align=center   
+|16 || align="left"| {{flagicon|GER}} [[Daniel Bacher]] ||16	||3	||x	||x 	||19
+|-align=center 
+|17 || align="left"| {{flagicon|ITA}} [[Massimo Mora]] ||10	||6	||1	||1	||18
+|-align=center   
+|18 || align="left"| {{flagicon|GER}} [[Sirg Schutzbach]] ||5	||2	||5	||5	||17
+|-align=center   
+|19 || align="left"| {{flagicon|FRA}} [[Matthieu Tresarrieu]] ||x 	|| x	||x 	||16	||16
+|-align=center 
+|20 || align="left"| {{flagicon|FRA}} [[Stephane Tresarrieu]]  ||x	||14	||x	||x	||14
+|-align=center   
+|21 || align="left"| {{flagicon|FRA}} [[Philipe Ostyn]] ||x	||7	|| x	||X	||7
+|-align=center   
+|22 || align="left"| {{flagicon|FRA}} [[Christophe Dubernard]]  ||x 	||x	||x 	||2	||2
+|-align=center 
+|23 || align="left"| {{flagicon|GER}} [[Markus Eibl]] || x	|| x	||2	||x 	||2
+|-align=center   
+|24 || align="left"| {{flagicon|GER}} [[Hans-Jorg Muller]] ||2	 ||x	|| x	||x	||2
+|-align=center   
+|25 || align="left"| {{flagicon|NED}} [[Dirk Fabriek]]  ||x	||1	|| x	||x 	||1
+|}
+
+== References ==
+{{Reflist}}
+
+{{Long Track World Championship}}
+{{International speedway}}
+
+[[Category:Individual Long Track World Championship|2005]]
+[[Category:Speedway competitions in France]]
+[[Category:Speedway competitions in Germany]]
+[[Category:2005 in track racing|Long]]

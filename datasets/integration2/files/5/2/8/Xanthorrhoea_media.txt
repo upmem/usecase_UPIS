@@ -1,0 +1,33 @@
+{{Speciesbox
+|taxon = Xanthorrhoea media
+|name = ''Gulgadya''
+|image = XanthorrhoeaMedia SydBG-20171107-2b.jpg
+|image_caption = Growing in [[Ku-ring-gai Chase National Park]], [[Australia]]
+|authority = [[R.Br.]]
+}}
+
+'''''Xanthorrhoea media''''', known as a '''Grass Tree''', or '''Gulgadya''' in the [[Cadigal]] language, is a mid-sized plant in the genus ''[[Xanthorrhoea]]''.<ref>{{cite web |title=''Xanthorrhoea media''|work= PlantNET - NSW Flora Online, retrieved February 8th, 2011|url=http://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?page=nswfl&lvl=sp&name=Xanthorrhoea~media}}</ref> The specific epithet ''media'' (meaning "middle") is from the [[Latin]], and refers to the fact that this species is in the middle of the taxonomic range for this group.<ref>Les Robinson - Field Guide to the Native Plants of Sydney, {{ISBN|978-0-7318-1211-0}} page 278</ref>
+
+This [[Perennial plant|perennial]] shrub is found in [[heathland]] or [[eucalyptus]] forest on [[Hawkesbury sandstone|sandstone]]. It occurs most often in dry sites such as exposed ridges and the sides of hills. The distribution is from near [[Sydney]] to the [[Blue Mountains (Australia)|Blue Mountains]].
+
+This plant usually has no trunk, or only a small trunk about 30&nbsp;cm (12&nbsp;in) high, under the skirt of leaves. It may grow to 2.5 metres (8&nbsp;ft) tall. The leaves are a mid to dark green, but not [[glaucous]]. Flowering occurs between August and March, dependent on fire.
+
+This species first appeared in the scientific literature in 1810, in the ''[[Prodromus Florae Novae Hollandiae]]'', authored by the prolific Scottish botanist, [[Robert Brown (botanist, born 1773)|Robert Brown]].
+
+<!-- images categorised as “unidentified X.” on commons!
+<gallery>
+File:Xanthorrhoea Ku-ring-gai Chase Naitonal Park3.JPG|Plant with flowering shoot
+File:Xanthorrhoea Ku-ring-gai Chase Naitonal Park.jpg|Close-up of flower
+File:Xanthorrhoea Ku-ring-gai Chase National Park2.JPG|Close-up of fruit
+</gallery>
+-->
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q8043104}}
+
+[[Category:Flora of New South Wales]]
+[[Category:Xanthorrhoeoideae|media]]
+[[Category:Plants described in 1810]]
+[[Category:Taxa named by Robert Brown (botanist, born 1773)]]

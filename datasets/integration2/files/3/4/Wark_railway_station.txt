@@ -1,0 +1,21 @@
+{{Use dmy dates|date=April 2017}}
+{{Use British English|date=April 2017}}
+'''Wark railway station''' is a [[disused railway station]] which served the village of [[Wark on Tyne]], [[Northumberland]], [[England]]. Located on the [[Border Counties Railway]], the station was possibly opened on 1 December 1859, but was definitely open by 1 April 1860.<ref>[http://www.disused-stations.org.uk/w/wark/ The station's entry on disused-stations.org.uk]</ref> The station was originally connected to the village by a wooden [[bridge]] over the [[River Tyne]] but this was replaced by an iron bridge in 1878. There was a single [[Railway platform|platform]], a small [[goods shed]] with a [[signal box]] being added in 1896. It was closed to passengers on 15 October 1956<ref>[http://www.northumberland-tales.com/Northumberland-Central-Railway.html Information on the line from a Northumberland website]</ref> and completely on 1 September 1958.
+
+The [[station building]] and [[Railway platform|platforms]] are still intact, the former now used as a private residence.<ref>[https://www.geograph.org.uk/photo/3274584 Photo of former station and platforms on geograph.org.uk]</ref>
+
+<center>'''Former services'''</center>{{Disused Rail Start}}
+{{rail line|next={{stnlnk|Barrasford}}|previous={{stnlnk|Reedsmouth}}|route=[[London and North Eastern Railway|LNER]]<br /><small>[[Border Counties Railway]]</small>|col={{LNER colour}}}}
+{{end}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+{{Closed stations Northumberland}}
+
+{{coord|55.085602|-2.202940|type:railwaystation_region:GB|display=title}}
+
+[[Category:Disused railway stations in Northumberland]]
+[[Category:Former North British Railway stations]]
+[[Category:Railway stations in Great Britain opened in 1860]]
+[[Category:Railway stations in Great Britain closed in 1956]]

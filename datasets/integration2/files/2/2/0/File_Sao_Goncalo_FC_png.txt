@@ -1,0 +1,13 @@
+== Summary ==
+{{Non-free use rationale| Article           = São Gonçalo Futebol Clube
+| Description       = Logo of [[São Gonçalo Futebol Clube]].
+| Source            = http://www.brandsoftheworld.com/brands/0021/0322/brand.gif
+| Portion           = Entire logo.
+| Resolution        = No.
+| Purpose           = To identify the logo of São Gonçalo Futebol Clube.
+| Replaceability    = Not replaceable; logos are always presumed non-free
+| other_information = 
+}}
+
+== Licensing ==
+{{Non-free logo|Brazilian football logos|image has rationale=yes}}

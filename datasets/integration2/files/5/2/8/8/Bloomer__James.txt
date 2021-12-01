@@ -1,0 +1,4 @@
+#redirect[[James Bloomer]]
+{{Redirect shell |
+  {{R from sort name|B|J}}
+}}

@@ -1,0 +1,806 @@
+{{short description|American college basketball season}}
+{{Infobox NCAA team season
+  |mode=Basketball
+  |year=2012–13
+  |prev_year=2011–12
+  |next_year=2013–14
+  |team=Arkansas–Little Rock Trojans
+  |image=Arkansas Little Rock LR Wordmark.png
+  |image_size=150
+  |conference=Sun Belt Conference
+  |division=West Division
+  |short_conf=Sun Belt
+  |CoachRank=
+  |APRank=
+  |record=17–15
+  |conf_record=11–9
+  |head_coach=[[Steve Shields (basketball)|Steve Shields]]
+  |hc_year = 10th
+  |asst_coach1=[[Joe Kleine]]
+  |asst_coach2=Charles Cunningham
+  |asst_coach3=Robert Lee
+  |asst_coach4=
+  |stadium=[[Jack Stephens Center]]
+  |champion=
+  |bowl=
+  |bowl_result=
+}}
+{{2012–13 Sun Belt Conference men's basketball standings}}
+The '''2012–13 Arkansas–Little Rock Trojans men's basketball team''' represented the [[University of Arkansas at Little Rock]] during the [[2012–13 NCAA Division I men's basketball season]]. The Trojans, led by tenth year head coach [[Steve Shields (basketball)|Steve Shields]], played their home games at the [[Jack Stephens Center]], and were members of the West Division of the [[Sun Belt Conference]]. They finished the season 17–15, 11–9 in Sun Belt play to finish in second place in the West Division. They lost in the quarterfinals of the [[2013 Sun Belt Conference Men's Basketball Tournament|Sun Belt Tournament]] to FIU. Despite the 17 wins and winning record, they did not participate in a post season tournament.
+
+==Roster==
+{| class="wikitable"
+|-
+|'''Number'''
+|'''Name'''
+|'''Position'''
+|'''Height'''
+|'''Weight'''
+|'''Year'''
+|'''Hometown'''
+|-
+| 1
+| Casey Wilmath
+| Guard
+| 6–2
+| 176
+| Freshman
+| [[Searcy, Arkansas]]
+|-
+| 2
+| [[John Gillon]]
+| Guard
+| 6–0
+| 166
+| Freshman
+| [[Houston]], [[Texas]]
+|-
+| 3
+| Josh Hagins
+| Guard
+| 6–1
+| 168
+| Freshman
+| [[Bossier City, Louisiana]]
+|-
+| 5
+| Kemy Osse
+| Guard
+| 6–1
+| 190
+| Freshman
+| [[Montreal]], [[Quebec]]
+|-
+| 11
+| Ted Crass
+| Guard
+| 5–10
+| 166
+| Senior
+| [[Little Rock, Arkansas]]
+|-
+| 12
+| Legroy Isler
+| Guard/Forward
+| 6–5
+| 196
+| Junior
+| [[Brooklyn]], [[New York (state)|New York]]
+|-
+| 15
+| Stetson Billings
+| Forward
+| 6–5
+| 190
+| Freshman
+| [[Strong, Arkansas]]
+|-
+| 21
+| Mareik Isom
+| Guard/Forward
+| 6–7
+| 193
+| Freshman
+| [[Austin, Texas]]
+|-
+| 23
+| Taggart Lockhard
+| Forward
+| 6–4
+| 220
+| Sophomore
+| [[Talihina, Oklahoma]]
+|-
+| 24
+| Ben Dillard
+| Guard
+| 6–2
+| 190
+| Sophomore
+| [[Frisco, Texas]]
+|-
+| 33
+| James White
+| Forward
+| 6–8
+| 215
+| Freshman
+| [[Jonesboro, Arkansas]]
+|-
+| 35
+| Jalen Washington
+| Guard
+| 6–5
+| 175
+| Sophomore
+| [[Austin, Texas]]
+|-
+| 40
+| Mike Evans
+| Forward
+| 6–8
+| 215
+| Junior
+| [[Jacksonville, Arkansas]]
+|-
+| 44
+| Michael Javes
+| Forward
+| 6–10
+| 239
+| Sophomore
+| [[Cali]], [[Colombia]]
+|-
+| 50
+| Andrew Poulter
+| Center
+| 6–11
+| 282
+| Freshman
+| [[New Braunfels, Texas]]
+|-
+| 53
+| Will Neighbour
+| Forward
+| 6–10
+| 219
+| Junior
+| [[Grayshott]], [[England]]
+|-
+| 55
+| Gus Leeper
+| Forward
+| 6–10
+| 249
+| Sophomore
+| [[Austin, Texas]]
+|}
+
+{{Clear}}
+
+==Schedule==
+{{CBB schedule start|time=|rank=no|ranklink=[[2012-13 NCAA Division I men's basketball rankings]]|rankyear=2012|tv=|record=yes|attend=yes}} 
+|-
+!colspan=9| Regular Season
+{{CBB schedule entry
+| date         = 11/09/2012
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 Tennessee–Martin Skyhawks men's basketball team|Tennessee–Martin]]
+| opprank      =
+| site_stadium = [[Jack Stephens Center]]
+| site_cityst  = [[Little Rock, Arkansas|Little Rock, AR]]
+| gamename     =
+| attend       = 3,812
+| tv           = 
+| score        = 84–68
+| overtime     =
+| record       = 1–0
+}}
+{{CBB schedule entry
+| date         = 11/14/2012
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2012–13 Louisiana Tech Bulldogs basketball team|Louisiana Tech]]
+| opprank      =
+| site_stadium = [[Thomas Assembly Center]]
+| site_cityst  = [[Ruston, Louisiana|Ruston, LA]]
+| gamename     = 
+| attend       = 2,465
+| tv           = 
+| score        = 52–70
+| overtime     =
+| record       = 1–1
+}}
+{{CBB schedule entry
+| date         = 11/16/2012
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2012–13 Ole Miss Rebels men's basketball team|Ole Miss]]
+| opprank      =
+| site_stadium = [[Tad Smith Coliseum]]
+| site_cityst  = [[Oxford, Mississippi|Oxford, MS]]
+| gamename     = 
+| attend       = 3,251
+| tv           = 
+| score        = 52–92
+| overtime     =
+| record       = 1–2
+}}
+{{CBB schedule entry
+| date         = 11/19/2012
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 Milwaukee Panthers men's basketball team|Milwaukee]]
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     = Hoops for Hope Classic
+| attend       = 2,811
+| tv           = 
+| score        = 59–43
+| overtime     =
+| record       = 2–2
+}}
+{{CBB schedule entry
+| date         = 11/21/2012
+| time         = 7:30&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         =
+| neutral      = 
+| rank         = no
+| opponent     = [[2012–13 Jacksonville Dolphins men's basketball team|Jacksonville]]
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     = Hoops for Hope Classic
+| attend       = 2,905
+| tv           = 
+| score        = 78–56
+| overtime     =
+| record       = 3–2
+}}
+{{CBB schedule entry
+| date         = 11/24/2012
+| time         = 8:30&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         =
+| neutral      = yes
+| rank         = no
+| opponent     = [[2012–13 SMU Mustangs men's basketball team|SMU]]
+| opprank      =
+| site_stadium = 
+| site_cityst  = [[Puerto Vallarta|Puerto Vallarta, Mexico]]
+| gamename     = Hoops for Hope Classic
+| attend       = 261
+| tv           = 
+| score        = 69–56
+| overtime     =
+| record       = 4–2
+}}
+{{CBB schedule entry
+| date         = 11/25/2012
+| time         = 8:30&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         =
+| neutral      = yes
+| rank         = no
+| opponent     = [[2012–13 South Carolina Gamecocks men's basketball team|South Carolina]]
+| opprank      =
+| site_stadium = 
+| site_cityst  = [[Puerto Vallarta|Puerto Vallarta, Mexico]]
+| gamename     = Hoops for Hope Classic
+| attend       = 276
+| tv           = 
+| score        = 62–74
+| overtime     =
+| record       = 4–3
+}}
+{{CBB schedule entry
+| date         = 11/29/2012
+| time         = 7:30&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 Troy Trojans men's basketball team|Troy]]
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = 3,492
+| tv           = 
+| score        = 58–56
+| overtime     =
+| record       = 5–3 (1–0)
+}}
+{{CBB schedule entry
+| date         = 12/01/2012
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 Louisiana–Monroe Warhawks men's basketball team|Louisiana–Monroe]]
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = 3,982
+| tv           = 
+| score        = 83–58
+| overtime     =
+| record       = 6–3 (2–0)
+}}
+{{CBB schedule entry
+| date         = 12/04/2012
+| time         = 5:15&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = [[St. Gregory's University|St. Gregory's]]
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = N/A
+| tv           = 
+| score        = 91–30
+| overtime     =
+| record       = 7–3
+}}
+{{CBB schedule entry
+| date         = 12/06/2012
+| time         = 6:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 Cincinnati Bearcats men's basketball team|Cincinnati]]
+| opprank      = 11
+| site_stadium = [[Fifth Third Arena]]
+| site_cityst  = [[Cincinnati|Cincinnati, OH]]
+| gamename     =
+| attend       = 6,127
+| tv           = 
+| score        = 53–87
+| overtime     =
+| record       = 7–4
+}}
+{{CBB schedule entry
+| date         = 12/15/2012
+| time         = 2:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 Tulsa Golden Hurricane men's basketball team|Tulsa]]
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = N/A
+| tv           = 
+| score        = 72–65
+| overtime     =
+| record       = 8–4
+}}
+{{CBB schedule entry
+| date         = 12/17/2012
+| time         = 7:00&nbsp;pm
+| nonconf      = yes
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = Louisiana Tech
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = 3,734
+| tv           = 
+| score        = 73–75
+| overtime     =
+| record       = 8–5
+}}
+{{CBB schedule entry
+| date         = 12/22/2012
+| time         = 2:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 South Alabama Jaguars basketball team|South Alabama]]
+| opprank      = 
+| site_stadium = [[Mitchell Center]]
+| site_cityst  = [[Mobile, Alabama|Mobile, AL]]
+| gamename     =
+| attend       = 1,875
+| tv           = 
+| score        = 62–77
+| overtime     =
+| record       = 8–6 (2–1)
+}}
+{{CBB schedule entry
+| date         = 12/29/2012
+| time         = 7:45&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 Louisiana–Lafayette Ragin' Cajuns men's basketball team|Louisiana–Lafayette]]
+| opprank      =
+| site_stadium = [[Cajundome]]
+| site_cityst  = [[Lafayette, Louisiana|Lafayette, LA]]
+| gamename     =
+| attend       = 2,436
+| tv           = 
+| score        = 70–79
+| overtime     =
+| record       = 8–7 (2–2)
+}}
+{{CBB schedule entry
+| date         = 01/03/2013
+| time         = 7:30&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 WKU Hilltoppers basketball team|WKU]]
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = 3,871
+| tv           = [[ESPN3]]
+| score        = 75–67
+| overtime     =
+| record       = 9–7 (3–2)
+}}
+{{CBB schedule entry
+| date         = 01/05/2013
+| time         = 7:30&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = Troy
+| opprank      = 
+| site_stadium = [[Sartain Hall (Old Trojan Arena)|Sartain Hall]]
+| site_cityst  = [[Troy, Alabama|Troy, AL]]
+| gamename     =
+| attend       = 1,673
+| tv           = 
+| score        = 64–67
+| overtime     =
+| record       = 9–8 (3–3)
+}}
+{{CBB schedule entry
+| date         = 01/10/2013
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 North Texas Mean Green men's basketball team|North Texas]]
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = 3,288
+| tv           = 
+| score        = 67–53
+| overtime     =
+| record       = 10–8 (4–3)
+}}
+{{CBB schedule entry
+| date         = 01/12/2013
+| time         = 3:30&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 FIU Panthers men's basketball team|FIU]]
+| opprank      = 
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = 3,318
+| tv           = ESPN3
+| score        = 88–76
+| overtime     =
+| record       = 11–8 (5–3)
+}}
+{{CBB schedule entry
+| date         = 01/17/2013
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 Middle Tennessee Blue Raiders men's basketball team|Middle Tennessee]]
+| opprank      = 
+| site_stadium = [[Murphy Center]]
+| site_cityst  = [[Murfreesboro, Tennessee|Murfreesboro, TN]]
+| gamename     =
+| attend       = 5,215
+| tv           = ESPN3
+| score        = 50–82
+| overtime     =
+| record       = 11–9 (5–4)
+}}
+{{CBB schedule entry
+| date         = 01/19/2013
+| time         = 5:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = WKU
+| opprank      =
+| site_stadium = [[E. A. Diddle Arena]]
+| site_cityst  = [[Bowling Green, Kentucky|Bowling Green, KY]]
+| gamename     =
+| attend       = 5,221
+| tv           = ESPN3
+| score        = 59–54
+| overtime     =
+| record       = 12–9 (6–4)
+}}
+{{CBB schedule entry
+| date         = 01/24/2013
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 Florida Atlantic Owls men's basketball team|Florida Atlantic]]
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = 3,347
+| tv           = 
+| score        = 65–62
+| overtime     =
+| record       = 13–9 (7–4)
+}}
+{{CBB schedule entry
+| date         = 01/26/2013
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = North Texas
+| opprank      = 
+| site_stadium = [[UNT Coliseum|The Super Pit]]
+| site_cityst  = [[Denton, Texas|Denton, TX]]
+| gamename     =
+| attend       = 3,997
+| tv           = 
+| score        = 62–57
+| overtime     =
+| record       = 14–9 (8–4)
+}}
+{{CBB schedule entry
+| date         = 02/02/2013
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = South Alabama
+| opprank      = 
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = 3,935
+| tv           = 
+| score        = 66–70
+| overtime     =
+| record       = 14–10 (8–5)
+}}
+{{CBB schedule entry
+| date         = 02/07/2013
+| time         = 7:30&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = Louisiana–Monroe
+| opprank      =
+| site_stadium = [[Fant–Ewing Coliseum]]
+| site_cityst  = [[Monroe, Louisiana|Monroe, LA]]
+| gamename     =
+| attend       = 1,114
+| tv           = 
+| score        = 70–60
+| overtime     =
+| record       = 15–10 (9–5)
+}}
+{{CBB schedule entry
+| date         = 02/14/2013
+| time         = 7:05&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2012–13 Arkansas State Red Wolves men's basketball team|Arkansas State]]
+| opprank      = 
+| site_stadium = [[Convocation Center (Arkansas State University)|Convocation Center]]
+| site_cityst  = [[Jonesboro, Arkansas|Jonesboro, AR]]
+| gamename     =
+| attend       = 4,625
+| tv           = 
+| score        = 62–86
+| overtime     =
+| record       = 15–11 (9–6)
+}}
+{{CBB schedule entry
+| date         = 02/16/2013
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = Middle Tennessee
+| opprank      = 
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = 3,985
+| tv           = 
+| score        = 61–66
+| overtime     =
+| record       = 15–12 (9–7)
+}}
+{{CBB schedule entry
+| date         = 02/21/2013
+| time         = 6:45&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = FIU
+| opprank      =
+| site_stadium = [[U.S. Century Bank Arena]]
+| site_cityst  = [[Miami|Miami, FL]]
+| gamename     =
+| attend       = 1,207
+| tv           = 
+| score        = 52–65
+| overtime     =
+| record       = 15–13 (9–8)
+}}
+{{CBB schedule entry
+| date         = 02/23/2013
+| time         = 6:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = Florida Atlantic
+| opprank      = 
+| site_stadium = [[FAU Arena]]
+| site_cityst  = [[Boca Raton, Florida|Boca Raton, FL]]
+| gamename     =
+| attend       = 1,248
+| tv           = 
+| score        = 59–73
+| overtime     =
+| record       = 15–14 (9–9)
+}}
+{{CBB schedule entry
+| date         = 02/28/2013
+| time         = 7:30&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = Louisiana–Lafayette
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = 3,577
+| tv           = 
+| score        = 77–68
+| overtime     =
+| record       = 16–14 (10–9)
+}}
+{{CBB schedule entry
+| date         = 03/02/2013
+| time         = 7:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = Arkansas State
+| opprank      =
+| site_stadium = Jack Stephens Center
+| site_cityst  = Little Rock, AR
+| gamename     =
+| attend       = 5,337
+| tv           = 
+| score        = 78–71
+| overtime     =
+| record       = 17–14 (11–9)
+}}
+|-
+!colspan=9| [[2013 Sun Belt Conference Men's Basketball Tournament|2013 Sun Belt Tournament]]
+{{CBB schedule entry
+| date         = 03/09/2013
+| time         = 6:00&nbsp;pm
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      = yes
+| rank         = no
+| opponent     = FIU
+| opprank      = 
+| site_stadium = [[Summit Arena|Convention Center Court]]
+| site_cityst  = [[Hot Springs, Arkansas|Hot Springs, AR]]
+| gamename     = Quarterfinals
+| attend       = N/A
+| tv           = 
+| score        = 54–69
+| overtime     =
+| record       = 17–15
+}}
+{{CBB schedule end|rank=| poll=[[AP Poll]]|timezone=[[Central Time Zone|Central Time]]}}
+
+==References==
+{{reflist}}
+
+{{Arkansas–Little Rock Trojans men's basketball navbox}}
+
+{{DEFAULTSORT:2012-13 Arkansas-Little Rock Trojans men's basketball team}}
+[[Category:2012–13 Sun Belt Conference men's basketball season|Arkansas-Little Rock]]
+[[Category:Little Rock Trojans men's basketball seasons]]
+[[Category:2012 in sports in Arkansas|TRoj]]
+[[Category:2013 in sports in Arkansas|TRoj]]

@@ -1,0 +1,3 @@
+#REDIRECT [[Wikipedia:Writing better articles#Information style and tone]]
+{{Redirect category shell|
+{{R to section}}{{R from shortcut}}}}

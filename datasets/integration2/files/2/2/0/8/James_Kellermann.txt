@@ -1,0 +1,63 @@
+{{short description|English footballer}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox football biography
+|name        = James Kellermann
+|image       = 
+|image_size  = 
+|caption     = 
+|fullname    = 
+|birth_date  = {{birth date and age|1995|12|11|df=y}}
+|birth_place = [[Hendon]], England
+|height      = {{convert|1.85|m|order=flip}}<ref name = "SW"/>
+|position    = [[Midfielder]]
+|currentclub = [[Kidderminster Harriers F.C.|Kidderminster Harriers]]
+|clubnumber  = 
+|youthyears1 = 
+|youthclubs1 = Kidderminster Lions
+|youthyears2 = 
+|youthclubs2 = [[Stourport Swifts F.C.|Stourport Swifts]]
+|youthyears3 = 2010–2016
+|youthclubs3 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|years1      = 2016–2018
+|clubs1      = [[Aldershot Town F.C.|Aldershot Town]]
+|caps1       = 68
+|goals1      = 8
+|years2      = 2018–2019
+|clubs2      = [[St Mirren F.C.|St Mirren]]
+|caps2       = 3
+|goals2      = 0
+|years3      = 2018–2019
+|clubs3      = → [[AFC Fylde]] (loan)
+|caps3       = 13
+|goals3      = 0
+|years4      = 2020–
+|clubs4      = [[Kidderminster Harriers F.C.|Kidderminster Harriers]]
+|caps4       = 0
+|goals4      = 0
+|club-update = 18:47, 10 March 2020 (UTC)
+}}
+'''James Kellermann''' (born 11 December 1995) is an English professional [[association football|footballer]] who plays for [[Kidderminster Harriers F.C.|Kidderminster Harriers]] as a [[midfielder]].
+
+==Career==
+Born in [[Hendon]],<ref name = "SW">{{Soccerway|james-kellerman/334050|accessdate=24 May 2018}}</ref> Kellermann spent his early career with Kidderminster Lions and [[Stourport Swifts F.C.|Stourport Swifts]] before signing for [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] at the age of 14.<ref name = "Aldershot">{{cite web|url=https://www.theshots.co.uk/jim-kellermann/|title=SHOTS SIGN WOLVES' KELLERMANN|date=5 July 2016|accessdate=24 May 2018|publisher=Aldershot Town F.C.}}</ref> Following his release from Wolves he signed for [[Aldershot Town F.C.|Aldershot Town]].<ref name = "Aldershot"/> He signed a two-year contract with Scottish club [[St Mirren F.C.|St Mirren]] in May 2018.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/44215783|title=JJames Kellermann: St Mirren sign midfielder from Aldershot Town|date=23 May 2018|accessdate=24 May 2018|publisher=BC Sport}}</ref> He made his debut for St Mirren on 13 July 2018 in the [[Scottish League Cup]].<ref>{{soccerbase season|94096|2018|accessdate=12 July 2018}}</ref> He moved on loan to [[AFC Fylde]] in August 2018.<ref>{{cite web|url=http://www.afcfylde.co.uk/jim-kellermann-signs-on-loan/|title=JIM KELLERMANN SIGNS ON LOAN|date=17 August 2018|accessdate=17 August 2018|publisher=AFC Fylde}}</ref> He left St Mirren by mutual consent on 29 October 2019.<ref>{{Cite web|url=https://www.dailyrecord.co.uk/sport/football/st-mirren-midfielder-reaches-agreement-20751390|title=St Mirren midfielder reaches agreement with club to end contract early|first=Ben|last=Ramage|date=29 October 2019|website=dailyrecord}}</ref>
+
+In March 2020 he signed for [[Kidderminster Harriers F.C.|Kidderminster Harriers]].<ref>{{Cite web|url=https://harriers-online.co.uk/khfc/09-03-20-news-the-harriers-bring-in-a-new-midfielder/|title=09-03-20 - News - The Harriers bring in a new midfielder|date=9 March 2020}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Kellermann, James}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:English footballers]]
+[[Category:Stourport Swifts F.C. players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Aldershot Town F.C. players]]
+[[Category:St Mirren F.C. players]]
+[[Category:A.F.C. Fylde players]]
+[[Category:Kidderminster Harriers F.C. players]]
+[[Category:Association football midfielders]]
+[[Category:Scottish Professional Football League players]]
+[[Category:National League (English football) players]]
+
+{{England-footy-midfielder-1990s-stub}}

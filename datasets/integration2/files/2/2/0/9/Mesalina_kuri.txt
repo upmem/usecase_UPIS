@@ -1,0 +1,24 @@
+{{speciesbox
+| image =
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>Sindaco, R., Grieco, C. & Riservato, E. 2011. Mesalina kuri. The IUCN Red List of Threatened Species 2011: e.T199740A9124581. https://doi.org/10.2305/IUCN.UK.2011-2.RLTS.T199740A9124581.en. Downloaded on 13 May 2019.</ref> 
+| genus = Mesalina
+| species = kuri
+| authority = Joger & Mayer, 2002
+| }}
+
+'''''Mesalina kuri''''' is a species of sand-dwelling [[lizard]] in the family [[Lacertidae]]. It is endemic to the island of [[Abd al Kuri]] in the [[Socotra Archipelago]] of [[Yemen]].<ref name=RDB>{{NRDB species|genus=Mesalina |species=kuri|accessdate=13 May 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5083861}}
+
+[[Category:Mesalina|kuri]]
+[[Category:Reptiles described in 2002]]
+[[Category:Taxa named by Ulrich Joger]]
+[[Category:Taxa named by Werner Mayer (herpetologist)]]
+[[Category:Endemic fauna of Socotra]]
+
+{{Lacertidae-stub}}

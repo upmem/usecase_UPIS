@@ -1,0 +1,61 @@
+{{Infobox station
+| name = [[File:Indian_Railways_Suburban_Railway_Logo.svg|50px]]<br>{{fontcolor|blue|Jhapandanga}}
+| type = [[Kolkata Suburban Railway]]
+| style = Indian railway
+| image = Jhapandanga railway station IMG 20200214 140114 02.jpg
+| image_caption =Jhapandanga railway station
+| address = Panch Shimul, Jhapandanga, [[Purba Bardhaman district]], [[West Bengal]]
+| country = [[India]]
+| coordinates = {{Coord|23.063741|88.091118|type:railwaystation_region:IN|format=dms|display=inline,title}}
+| elevation = {{convert|21|m|ft}}
+| line = [[Howrah-Bardhaman chord]]
+| other = 
+| structure = Standard (on ground station)
+| platform = 3
+| tracks = 3
+| entrances = 
+| parking = No
+| bicycle = 
+| opened = 1917
+| closed = 
+| rebuilt = 
+| electrified = 1964
+| ADA = 
+| code = {{Indian railway code
+  | code = JPQ
+  | zone = 
+  | division = [[Howrah railway division]]
+  }}
+| owned = [[Indian Railways]]
+| operator = [[Eastern Railway zone|Eastern Railway]]
+| status = Functioning
+| former = [[East Indian Railway Company]]
+| passengers = 
+| pass_year = 
+| pass_percent = 
+| pass_system = India
+| map_type      = India West Bengal#India
+| map_caption   = Location in West Bengal##Location in India
+| map_dot_label = Jhapandanga
+| map_size      = 300
+| services = {{s-rail|title=Kolkata Suburban Railway}}
+{{s-line|system=Kolkata Suburban Railway|previous= Gurap|next= Jaugram|line= Eastern |branch= [[Howrah-Bardhaman chord]]|type= Howrah Junction|type2= Barddhaman Junction}}
+|route_map = {{Howrah–Bardhaman chord}}
+|map_state = collapsed
+}}
+'''Jhapandanga railway station''' is a [[Kolkata Suburban Railway]] station on the [[Howrah-Bardhaman chord]] line operated by [[Eastern Railway zone]] of [[Indian Railways]]. It is situated at Panch Shimul, Jhapandanga in [[Purba Bardhaman district]] in the [[India]]n [[States and territories of India|state]] of [[West Bengal]]. This railway station serves in Abujhati Gram Panchayet and Jhapandanga village area.<ref>{{Cite web|url=https://indiarailinfo.com/station/map/jhapandanga-jpq/9570|title=JPQ/Jhapandanga|last=|first=|date=|website=|archive-url=|archive-date=|access-date=May 13, 2019}}</ref><ref>{{Cite web|url=https://www.ndtv.com/indian-railway/jhapandanga-jpq-station|title=JHAPANDANGA (JPQ) Railway Station|last=|first=|date=|website=ndtv.com|archive-url=|archive-date=|access-date=May 13, 2019}}</ref>
+
+==History==
+The Howrah–Bardhaman chord, the 95 kilometers railway line was constructed in 1917. It was connected with [[Sealdah railway station|Sealdah]] through [[Dankuni Junction railway station|Dankuni]] after construction of [[Vivekananda Setu]] in 1932.<ref>{{Cite web|url=https://er.indianrailways.gov.in/print_section.jsp?lang=0&id=0,6,441,737|title=HISTORICAL PERSPECTIVE - THE FIRST JOURNEY|last=|first=|date=|website=|archive-url=|archive-date=|access-date=May 13, 2019}}</ref> [[Howrah Junction railway station|Howrah]] to [[Barddhaman Junction railway station|Bardhaman]] chord line including Jhapandanga railway station was electrified in 1964–66.<ref>{{Cite web|url=https://www.irfca.org/docs/electrification-history.html|title=History of Electrification|last=|first=|date=|website=|archive-url=|archive-date=|access-date=May 13, 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Kolkata Suburban Railway, Eastern}}
+{{Use dmy dates|date=May 2019}}
+
+[[Category:Railway stations in Purba Bardhaman district]]
+[[Category:Howrah railway division]]
+[[Category:Kolkata Suburban Railway stations]]
+
+{{WestBengal-railstation-stub}}

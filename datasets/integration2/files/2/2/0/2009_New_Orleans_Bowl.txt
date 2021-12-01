@@ -1,0 +1,122 @@
+{{Infobox NCAA football yearly game
+| Game Name          = New Orleans Bowl
+| Optional Subheader =
+| Title Sponsor      = [[R+L Carriers]]
+| Image              = 
+| image_size         =
+| caption            = 
+| Date Game Played = December 20
+| Year Game Played = 2009
+| Football Season = 2009
+| Stadium = [[Louisiana Superdome]]
+| City = [[New Orleans]], [[Louisiana]]
+| Visitor School     = University of Southern Mississippi
+| Visitor Name Short = Southern Miss
+| Visitor Nickname   = Golden Eagles
+| Visitor Record     = 7-5
+| Visitor Coach      = [[Larry Fedora]]
+| Visitor Conference = [[Conference USA|C-USA]]
+| Visitor1           =14
+| Visitor2           =3
+| Visitor3           =3
+| Visitor4           =12
+| Home School = Middle Tennessee State University
+| Home Name Short = Middle Tennessee
+| Home Nickname = Blue Raiders
+| Home Record = 9–3
+| Home Coach = [[Rick Stockstill]]
+| Home Conference  = [[Sun Belt Conference|Sun Belt]]
+| Home1              =0
+| Home2              =14
+| Home3              =14
+| Home4              =14
+| MVP                =[[Quarterback|QB]] [[Dwight Dasher]], MTSU
+| Anthem             =
+| Referee            = Jeff Maconaghy ([[Big East Conference (1979–2013)|Big East]])
+| Halftime           =
+| Attendance         = 30,228
+| Payout             = 325,000 per team
+| US Network         = [[ESPN]]
+| US Announcers      = Dave Lamont & JC Pearson
+| Ratings            =
+| Intl Network       =
+| Intl Announcers    =
+}}
+
+The '''2009 [[R+L Carriers]] [[New Orleans Bowl]]''' was the ninth edition of the bowl.  The game was played at the [[Louisiana Superdome]] in [[New Orleans|New Orleans, Louisiana]] on Sunday, December 20, [[2009 NCAA Division I FBS football season|2009]]. The game was televised live on [[ESPN]].  The [[2009 Middle Tennessee Blue Raiders football team|Middle Tennessee Blue Raiders]], the [[2009 Sun Belt Conference football season|Sun Belt Conference]] runners-up, defeated the [[2009 Southern Miss Golden Eagles football team|Southern Miss Golden Eagles]], a team from [[2009 Conference USA football season|Conference USA]], by a score of 42–32.  The kickoff took place at 7:30&nbsp;p.m., [[Central Time Zone|Central Time]].
+
+Southern Miss returned to the New Orleans Bowl for the second straight season and faced one of the nation's hottest teams, Middle Tennessee.  Middle Tennessee reached nine wins for the first time since moving to the [[Football Bowl Subdivision]] in 1999 and was on a six-game winning streak going into the game, also a team high in that span.  The New Orleans Bowl's [[Sun Belt Conference|Sun Belt]] slot typically goes to the conference champion, but [[2009 Troy Trojans football team|Troy]], who lost 30–27 to Southern Miss in the  [[2008 New Orleans Bowl]], played in the [[2010 GMAC Bowl|GMAC Bowl]] in [[Mobile, Alabama]], instead, opening the opportunity for Middle Tennessee. The bowl marked the Blue Raiders' second bowl appearance in four seasons.  Southern Miss was playing in their 12th bowl in 13 years. It was also the fourth time Southern Miss played in the New Orleans Bowl in the game's nine-year history.  They were  3–0 in New Orleans Bowl games before the loss.<ref>{{cite web|url=http://sports.espn.go.com/ncf/news/story?id=4719464|title=Southern California Trojans to meet Boston College Eagles in Emerald Bowl}}</ref>  The game also marked the first meeting between the two schools.
+
+==Game summary==
+
+Middle Tennessee wore their home blue jerseys, Southern Mississippi wore their away white jerseys.
+
+The star of the game was MTSU quarterback [[Dwight Dasher]], who rushed for 201 yards, the most ever by a quarterback in a bowl game.<ref>{{cite web|url=http://blog.al.com/press-register-sports/2009/12/dwight_dasher_leads_middle_ten.html|title=Dwight Dasher leads Middle Tennessee to 42-32 victory over Southern Miss in New Orleans Bowl}}</ref> He broke the [[quarterback]] bowl rushing record of 200 yards set by Texas' [[Vince Young]] in the [[2006 Rose Bowl]] against Southern California. Dasher also rushed for 2 touchdowns and passed for 2 more. Southern Miss quarterback [[Martevious Young]] completed 18 of 34 passes for 271 yards, three touchdowns and two interceptions.
+
+Southern Miss running back [[Damion Fletcher]] ran for 78 yards. He finished the season with 1,015 to become the ninth player in major college football to reach 1,000 in all four seasons.  With 5,302 yards rushing overall, Fletcher passed [[Herschel Walker]] (5,259) and [[LaDainian Tomlinson]] (5,263) for eighth on the NCAA's career list.<ref>{{cite web|url=http://sports-ak.espn.go.com/ncf/recap?gameId=293542393|title=Dasher runs and throws for two scores as MTSU wraps up best FBS season}}</ref>
+
+===Scoring summary===
+{| class="wikitable"
+|-
+! Scoring Play
+! Score
+|-
+|colspan="4" align="center"| '''1st Quarter'''
+|-
+|USM - Tory Harrison 2 Yd Run (Two-Point Run Conversion Failed), 10:42
+|USM 6-0
+|-
+|USM - DeAndre Brown 24 Yd Pass From Martevious Young (Martevious Young Pass To Deandre Brown For Two-Point Conversion), 6:35
+|USM 14-0
+|-
+|colspan="4" align="center"| '''2nd Quarter'''
+|-
+|MTSU - Garrett Andrews 11 Yd Pass From Dwight Dasher ([[Alan Gendreau]] Kick), 13:25
+|USM 14-7
+|-
+|MTSU - Shane Blissard 9 Yd Pass From Dwight Dasher (Alan Gendreau Kick), 4:41
+|Tie 14-14
+|-
+|USM - [[Daniel Hrapmann]] 20 Yd, 00:00
+|USM 17-14
+|-
+|colspan="4" align="center"| '''3rd Quarter'''
+|-
+|MTSU - Dwight Dasher 35 Yd Run (Alan Gendreau Kick), 10:12
+|MTSU 21-17
+|-
+|USM - Daniel Hrapmann 38 Yd, 7:36
+|MTSU 21-20
+|-
+|MTSU - Chris McClover 23 Yd Pass From Brent Burnette (Alan Gendreau Kick), 00:00
+|MTSU 28-20
+|-
+|colspan="4" align="center"| '''4th Quarter'''
+|-
+|USM - DeAndre Brown 7 Yd Pass From Martevious Young (Two-Point Pass Conversion Failed), 6:52
+|MTSU 28-26
+|-
+|MTSU - Benjamin Cunningham 2 Yd Run (Alan Gendreau Kick), 3:14
+|MTSU 35-26
+|-
+|MTSU - Dwight Dasher 1 Yd Run (Alan Gendreau Kick), 1:13
+|MTSU 42-26
+|-
+|USM - Freddie Parham 33 Yd Pass From Martevious Young (Two-Point Pass Conversion Failed), 00:27
+|MTSU 42-32
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{2009 bowl game navbox}}
+{{New Orleans Bowl navbox}}
+{{Middle Tennessee Blue Raiders bowl game navbox}}
+{{Southern Miss Golden Eagles bowl game navbox}}
+
+[[Category:2009–10 NCAA football bowl games|New Orleans Bowl]]
+[[Category:New Orleans Bowl]]
+[[Category:Middle Tennessee Blue Raiders football bowl games]]
+[[Category:Southern Miss Golden Eagles football bowl games]]
+[[Category:2009 in sports in Louisiana]]

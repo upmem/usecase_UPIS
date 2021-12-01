@@ -1,0 +1,12 @@
+{{Valid SVG}}
+== Summary ==
+{{Information
+| Description    = A&W Canada Logo
+| Source         = http://www.aw.ca/publicinfo.nsf/7498beb984d26531882571d40051578d/$FILE/demande%20d'emploi.pdf
+| Date           = 
+| Author         = A&W (Canada)
+| other_versions = 
+}}
+== Licensing ==
+{{PD-textlogo}}
+{{Trademarked}}

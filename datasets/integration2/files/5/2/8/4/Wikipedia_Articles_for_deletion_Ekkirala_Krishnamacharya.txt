@@ -1,0 +1,18 @@
+<div class="boilerplate afd vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result was '''delete'''.  [[User:Jackmcbarn|Jackmcbarn]] ([[User talk:Jackmcbarn|talk]]) 19:01, 23 July 2015 (UTC)
+===[[Ekkirala Krishnamacharya]]===
+
+
+:{{la|Ekkirala Krishnamacharya}} – (<includeonly>[[Wikipedia:Articles for deletion/Ekkirala Krishnamacharya|View AfD]]</includeonly><noinclude>[[Wikipedia:Articles for deletion/Log/2015 July 16#{{anchorencode:Ekkirala Krishnamacharya}}|View log]]</noinclude>{{int:dot-separator}} <span class="plainlinks">[https://tools.wmflabs.org/jackbot/snottywong/cgi-bin/votecounter.cgi?page=Wikipedia:Articles_for_deletion/Ekkirala_Krishnamacharya Stats]</span>)
+:({{Find sources AFD|Ekkirala Krishnamacharya}})
+'''Delete:''' as non-notable individual. [[User:Rms125a@hotmail.com|<font color="orange">'''''Quis separabit?'''''</font>]] 21:33, 16 July 2015 (UTC)
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/India|list of India-related deletion discussions]]. [[User:Gene93k|• Gene93k]] ([[User talk:Gene93k|talk]]) 15:17, 18 July 2015 (UTC)</small>
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Authors|list of Authors-related deletion discussions]]. [[User:Gene93k|• Gene93k]] ([[User talk:Gene93k|talk]]) 15:17, 18 July 2015 (UTC)</small>
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Medicine|list of Medicine-related deletion discussions]]. [[User:Gene93k|• Gene93k]] ([[User talk:Gene93k|talk]]) 15:17, 18 July 2015 (UTC)</small>
+{{clear}}
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. <!--Template:Afd bottom--></div>

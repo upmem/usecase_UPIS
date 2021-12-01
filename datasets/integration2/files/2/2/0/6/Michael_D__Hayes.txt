@@ -1,0 +1,102 @@
+{{Infobox officeholder
+ | honorific-prefix = The Honorable
+ | name         = Michael D. Hayes
+ | honorific-suffix = 
+ | image        = 
+ | alt          = 
+ | state_house  =  Michigan
+ | district     =  [[Michigan's 102nd House of Representatives district|102nd]]
+ | term_start   =  January 1, 1981
+ | term_end     =  December 31, 1988
+ | predecessor  =  Louis Cramton
+ | successor    =  [[Dave Camp]]
+ | pronunciation   = 
+ | birth_name      = 
+ | birth_date      =  {{Birth date and age|1951|01|12}}
+ | birth_place     =  [[Owosso, Michigan]]
+ | death_date      =  <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+ | death_place     = 
+ | resting_place   = 
+ | resting_place_coordinates = 
+ | citizenship     = 
+ | nationality     = 
+ | party           = [[Michigan Republican Party|Republican]]
+ | height          =  <!-- "X cm", "X m"  or "X ft Y in" plus optional reference (conversions are automatic) -->
+ | spouse          = Debra
+ | relations       = 
+ | children        = 
+ | parents         =  <!-- overrides mother and father parameters -->
+ | mother          =  <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+ | father          =  <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+ | relatives       = 
+ | residence       = 
+ | education       = 
+ | alma_mater      = [[Central Michigan University]]
+ | occupation      = 
+ | profession      = 
+ | known_for       = 
+ | cabinet         = 
+ | committees      = 
+ | portfolio       = 
+ | religion        =  Congregational
+ | awards          =  <!-- For civilian awards - appears as "Awards" if |mawards= is not set -->
+ | blank1          = 
+ | data1           = 
+ | blank2          = 
+ | data2           = 
+ | blank3          = 
+ | data3           = 
+ | blank4          = 
+ | data4           = 
+ | blank5          = 
+ | data5           = 
+ | signature       = 
+ | signature_alt   = 
+ | website         = 
+<!--Military service-->
+ | nickname        = 
+ | allegiance      = 
+ | branch          = 
+ | serviceyears    = 
+ | rank            = 
+ | unit            = 
+ | commands        = 
+ | battles         = 
+ | mawards         =  <!-- for military awards - appears as "Awards" if |awards= is not set -->
+ | military_blank1 = 
+ | military_data1  = 
+ | military_blank2 = 
+ | military_data2  = 
+ | military_blank3 = 
+ | military_data3  = 
+ | military_blank4 = 
+ | military_data4  = 
+ | military_blank5 = 
+ | military_data5  = 
+<!--Embedded templates / Footnotes-->
+ | module          = 
+ | module2         = 
+ | module3         = 
+ | module4         = 
+ | module5         = 
+ | footnotes       = 
+}}
+
+'''Michael D. Hayes''' is a [[Republican Party (United States)|Republican]] member of the [[Michigan State Transportation Commission]] and former member of the [[Michigan House of Representatives]].
+
+A native of [[Owosso, Michigan|Owosso]], Hayes graduated from [[Central Michigan University]] with both a bachelor's and master's degree. He was elected [[Midland County, Michigan|Midland County]] Clerk in 1976 and served one term before being elected to the House in 1980. Hayes was re-elected three times and was succeeded by [[Dave Camp]].<ref>1987–1988 Michigan Manual: [http://legislature.mi.gov/documents/1987-1988/michiganmanual/1987-MM-P0139-P0166.pdf#page=22 Michael D. Hayes]</ref>
+
+After leaving the Legislature, Hayes joined the [[Dow Chemical Company]] and worked there in several capacities over two decades, retiring as vice president of executive relations. In late 2011, Governor [[Rick Snyder]] appointed Hayes to the [[Michigan State Transportation Commission]] and to the authority overseeing the [[Gordie Howe International Bridge]].<ref>Michigan Department of Transportation: [http://www.michigan.gov/mdot/0,4616,7-151-9623_31969_31970-270273--,00.html Commissioner Michael D. Hayes]</ref>
+
+Hayes helped bring the [[Great Lakes Loons]] to Midland, and serves as vice president and secretary of the Michigan Baseball Foundation. He is also president and CEO of the [[Midland Center for the Arts]] and serves on several community boards.<ref>Great Lakes Loons: [http://www.milb.com/content/page.jsp?ymd=20130418&content_id=45138018&fext=.jsp&sid=t456&vkey= Michael D. Hayes]</ref>
+
+Hayes was a delegate to the [[1988 Republican National Convention]] which nominated [[George H. W. Bush]] for [[President of the United States]].<ref>The Political Graveyard: [http://politicalgraveyard.com/bio/hayes.html#897.66.47 Hayes, Michael D.]</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Hayes, Michael D.}}
+[[Category:Members of the Michigan House of Representatives]]
+[[Category:Michigan Republicans]]
+[[Category:1951 births]]
+[[Category:Living people]]

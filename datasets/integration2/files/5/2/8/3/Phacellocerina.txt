@@ -1,0 +1,27 @@
+{{short description|Genus of beetles}}
+{{Italic title}}
+{{Taxobox
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Beetle|Coleoptera]]
+| subordo = [[Polyphaga]]
+| familia = [[Cerambycidae]]
+| genus = '''''Phacellocerina'''''
+}}
+
+'''''Phacellocerina''''' is a genus of [[beetle]]s in the family [[Cerambycidae]], containing the following species:<ref>Bezark, Larry G. [http://plant.cdfa.ca.gov/byciddb/bycidview.asp A Photographic Catalog of the Cerambycidae of the World] {{Webarchive|url=https://web.archive.org/web/20130827211041/http://plant.cdfa.ca.gov/byciddb/bycidview.asp |date=2013-08-27 }}. Retrieved on 22 May 2012.</ref>
+
+* ''[[Phacellocerina limosa]]'' <small>(Bates, 1862)</small>
+* ''[[Phacellocerina seclusa]]'' <small>Lane, 1964</small>
+* ''[[Phacellocerina silvanae]]'' <small>Julio, 2003</small>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q14814805}}
+
+[[Category:Anisocerini]]
+
+
+{{Anisocerini-stub}}

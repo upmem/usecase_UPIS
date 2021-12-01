@@ -1,0 +1,92 @@
+{{Infobox college
+| name         = Saidu Medical College<br>{{Nastaliq|سیدو طبی کالج}} 
+| image        = Saidu Medical College Swat.jpg
+| motto        = 
+| established  = 1998
+| parent       = [[Khyber Medical University]]
+| type         = [[public university|Public Institute]] 
+| faculty      = 
+| students     = 480
+| undergraduate = 
+| postgraduate = 
+| location     = [[Saidu Sharif]], [[Pakistan]]
+| campus       = Urban
+| colours      = {{color box|#800000}}{{color box|White}}
+| affiliations = [[Khyber Medical University|KMU]], [[Pakistan Medical and Dental Council|PMDC]], [[College of Physicians and Surgeons Pakistan|CPSP]], [[Pakistan Nursing Council|PNC]], [[Higher Education Commission (Pakistan)|HEC]] [[World Health Organization|WHO]]
+| website      = [http://www.smcswat.edu.pk/ smcswat.edu.pk]
+|city=|coordinates=[https://plus.codes/8J6JQ924+GC Q924+GC]|principal=Prof. Dr. Israr Ul Haq}}
+'''Saidu Medical College''' ('''SMC''') ({{lang-ur|{{Nastaliq|'''سیدو طبی کالج'''}}}}, {{lang-ps|'''د سیدو طب پوهنځی'''}}) is a public sector medical institute located in [[Saidu Sharif]], [[Swat District]], [[Khyber Pakhtunkhwa]], [[Pakistan]]. It is one of several medical colleges affiliated with [[Khyber Medical University]].
+==History==
+[[File:Saidu Sharif x 003.jpg|280px|thumbnail|Entrance way of Saidu medical college]]
+The first batch started in December 1998 with enrollment of 50 students in MBBS Programme.
+Initially, Saidu Medical College was affiliated with [[University of Peshawar]], but now it is affiliated with [[Khyber Medical University]]. The Medical College is adjacent to [[Saidu Teaching Hospital]]. Till now it has produced more than 1,000 graduates.
+== Teaching Hospital ==
+Saidu Teaching Hospital Saidu Sharif Swat is declared as Teaching Hospital of Saidu Medical College Swat, Vide Notification No. SOH-II/2-58/2000/PMDC, dated September 25, 2000. 
+
+Up-gradation/Development of Saidu Teaching Hospital for the purpose of teaching hospital of Saidu Medical College is under process and will be completed soon.
+==Admissions==
+Saidu Medical College enrolls 100 students yearly.
+==Departments==
+{{col-begin}}{{col-2}}
+===Basic Sciences===
+* Anatomy
+* Physiology
+* Biochemistry
+* Pharmacology 
+* Pathology 
+* Forensic Medicine 
+* Community Medicine
+* Medical Education
+
+{{col-break}}
+
+===Clinical Sciences===
+* Medicine
+* Surgery
+* Gynaecology
+* Paediatrics
+* Ophthalmology
+* ENT
+* Radiology
+* Anesthesia
+* Paediatrics Surgery
+* Plastic Surgery
+* Nephrology
+* Orthopedics
+* Cardiology
+* Pulmonology
+* Dermatology
+* Psychiatry
+{{col-end}}
+==Societies==
+* Islami Jamiat Talaba: It arranges different events throughout the year to facilitate and entertain the students. These events include annual book fairs, mega events and talent award shows.
+* Bacha Khan Welfare Society: The first society and the largest society of the college, founded by Dr. Rehmanullah Wazir. It arranges many events from sports events to medical camps and study circles. Its members have played a vital part in the Khyber Pakhtunkhwa province where many ex-member of this society went on to become elected leaders of Doctor Associations in the province.
+* Social Welfare Society: The main objective of SWS of SMC is to give financial support to poor patients, arranging free medical camps in remote areas of Khyber Pakhtunkhwa (including FATA) and to promote public awareness about serious social problems like smoking, AIDS, Drugs and Narcotics.
+* Public Health Society: The purpose of Public Health Society in SMC is to play a significant role in preventing health related issues like AIDS/HIV, Hepatitis, Polio, Tuberculosis, Population, Nutrition Program, Bird Flu etc.
+* Literary Society: To enhance Literary interest of the students.
+* Sports Society: This society is responsible for conducting annual sports day each year. It organizes sports week for inter-class tournament each year.
+
+==Events==
+Many events are organized by the various societies of the college. The literary society arranges Literary Week, Sports Week, Fun Fair and Crazy Week. Mega Events, Blood Camps, Medical Camps and recreational tours are arranged by other societies like the Bacha Khan Welfare Society.
+
+== See also ==
+* [[Khyber Medical College]]
+* [[Khyber Medical University]]
+* [[Ayub Medical College]]
+* [[List of medical schools in Pakistan]]
+
+==External links==
+* [http://www.kgmc.edu.pk/sites/default/files/downloads/Prospectus.pdf Kgmc.edu.pk]
+* [http://www.pmdc.org.pk/LinkClick.aspx?link=333&tabid=147&mid=572 Pmdc.org.pk]
+* [https://imed.faimer.org/results.asp?country=704&school=Saidu+medical+college&currpage=1&cname=PAKISTAN&city=&region=AS&rname=Asia&psize=25 Imed.faimer.org]
+* [http://www.smcswat.edu.pk/ Imed.faimer.org]
+
+{{Khyber Medical University}}
+{{Medical Colleges in Pakistan}}
+
+[[Category:1998 establishments in Pakistan]]
+[[Category:Educational institutions established in 1998]]
+[[Category:Khyber Medical University]]
+[[Category:Medical colleges in Khyber Pakhtunkhwa]]
+[[Category:Public universities and colleges in Khyber Pakhtunkhwa]]
+[[Category:Swat District]]

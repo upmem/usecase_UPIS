@@ -1,0 +1,32 @@
+{{Infobox NRHP
+  | name = Thomas Telford House
+  | nrhp_type = 
+  | image = Thomas-Telford-House-tn1.jpg
+  | caption = The Thomas Telford House in 2015
+  | nearest_city= [[Limestone, Tennessee]]
+  | coordinates = {{coord|36|12|30|N|82|36|17|W|region:US_type:landmark|name=Thomas Telford House|display=inline,title}}
+  | locmapin = 
+  | built = {{Start date|1815}}
+  | architecture = Federal
+  | added = February 10, 1982
+  | area = {{convert|1|acre}}
+  | refnum = 82004064<ref name="nris">{{NRISref|version=2013a}}</ref>
+}}
+The '''Thomas Telford House''' is a historic house near [[Limestone, Tennessee]], U.S..
+
+The house was built in 1815 for Thomas Telford, a settler who died in 1816.<ref name="nrhpdoc">{{cite web|url={{NRHP url|id=82004064}}|title=National Register of Historic Places Inventory/Nomination: Thomas Telford House |publisher=[[National Park Service]]|author= |date= |accessdate=May 24, 2018}} With {{NRHP url|id=82004064|photos=y|title=accompanying pictures}}</ref> It was inherited by his son George Whitfield Telford, who lived here with his wife Amanda Duff Hannah and their 12 daughters.<ref name="nrhpdoc"/> From 1881 to his death in 1887, he lived here with his second wife, the former M.A. Hughes.<ref name="heraldandtribuneobit">{{cite news|title=Obituary. Col. G. W. Telford.|url=https://www.newspapers.com/image/171499373/?terms=%22g.%2Bw.%2Btelford%22|accessdate=May 24, 2018|work=Herald and Tribune|location=Jonesborough, Tennessee|date=April 21, 1887|page=2|via=[[Newspapers.com]]|url-access=registration }}</ref> Telford was the owner of the Telford Manufacturing Company.<ref name="nrhpdoc"/> He was also a co-founder and director of the [[East Tennessee and Virginia Railroad]],<ref name="heraldandtribuneobit"/> and he served in the [[Tennessee General Assembly]] from 1853 to 1857.<ref name="nrhpdoc"/> He became known as "Colonel" G. W. Telford.<ref name="heraldandtribuneobit"/> The house was sold out of the Telford family shortly after his death.<ref name="nrhpdoc"/>
+
+The house was designed in the [[Federal architecture|Federal architectural style]].<ref name="nrhpdoc"/> It has been listed on the [[National Register of Historic Places listings in Washington County, Tennessee|National Register of Historic Places]] since February 10, 1982.<ref name="nris"/>
+
+==References==
+{{reflist}}
+
+{{National Register of Historic Places}}
+
+{{DEFAULTSORT:Telford, Thomas, House}}
+[[Category:National Register of Historic Places in Washington County, Tennessee]]
+[[Category:Federal architecture in Tennessee]]
+[[Category:Houses completed in 1815]]
+
+
+{{WashingtonCountyTN-NRHP-stub}}

@@ -1,0 +1,12 @@
+{{asbox 
+| image = Tamil film clapperboard.svg 
+| pix = 40x30 
+| subject = 
+| qualifier = about a Tamil-language film of the 1940s
+| category = Tamil-language film stubs 
+| name = Template:1940s-Tamil-film-stub 
+}}
+<noinclude> 
+[[Category:Tamil Nadu stub templates]]
+[[Category:India stub templates|{{PAGENAME}}]]
+[[Category:Film stub templates|{{PAGENAME}}]] </noinclude>

@@ -1,0 +1,39 @@
+{{Infobox Sailing yacht
+| title        =Mar Mostro
+| image        =Volvo Ocean Race - Puma (1).JPG
+| caption      = ''Mar Mostro'' during the [[2011–12 Volvo Ocean Race]].
+| othernames   = 
+| club         = 
+| nat          = {{flagcountry|USA}}
+| class        =[[Volvo Open 70]]
+| sailno       =
+| designer     = 
+| builder      = 
+| launched     = 
+| owner        =
+| fate         =
+| skip         =[[Ken Read]]
+| wins         =
+| ac_year      =
+| lc_year      =
+| cc_year      =
+| og_year      =
+| rr_year      =
+| type         =
+| crew         =
+| length       = 
+| beam         = 
+| draft        =
+| height       =
+| displacement =
+| sail         =
+}}
+
+'''''Mar Mostro''''' is a [[Volvo Open 70]] yacht. She finished third in the [[2011–12 Volvo Ocean Race]] skippered by [[Ken Read]].<ref>[http://www.sailing.org/volvo-ocean-race-2011-12.php?view=eventoa&rgtaid=10019&regattaid=10019&evntid=18972#results__10019 Volvo Ocean Race 2011-2012 | ISAF | World Sailing]</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Volvo Ocean Race yachts]]
+[[Category:Volvo Open 70 yachts]]
+[[Category:Sailing yachts of the United States]]

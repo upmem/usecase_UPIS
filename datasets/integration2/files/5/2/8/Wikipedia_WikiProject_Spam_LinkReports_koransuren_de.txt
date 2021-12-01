@@ -1,0 +1,13 @@
+{{User:COIBot/Summary/LinkReports}}
+Reporting statistics of link koransuren.de; 4 records.
+* {{spamlink|koransuren.de}}.
+* koransuren.de resolves to [http://85.13.137.46 85.13.137.46] - {{spamlink|85.13.137.46}}.
+* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+* Link would be caught by rule \bkoransuren\.de on the [[en:User:COIBot#Monitor list|monitor list]] ([[:en:User:COIBot#Monitor list|Automonitor]]: [[:en:WP:COI|conflict of interest]]? (calculated overlap Koransuren <-> koransuren.de; [http://de.wikipedia.org/w/index.php?title=Koran&diff=39077458&oldid=39037073 diff])).
+
+Reports
+# 04:00:51, Fri Nov 23, 2007 [[:de:user:78.51.97.86]] <-> koransuren.de (0%/0%/0% - Added link: www.koransuren.de/ (Monitored rule: \bkoransuren\.de - reason for monitoring \bkoransuren\.de: [[:en:User:COIBot#Monitor list|Automonitor]]: [[:en:WP:COI|conflict of interest]]? (calculated overlap Koransuren <-> koransuren.de; [http://de.wikipedia.org/w/index.php?title=Koran&diff=39077458&oldid=39037073 diff])) - [[:de:Koranübersetzung]] - [http://de.wikipedia.org/w/index.php?title=Koran%C3%BCbersetzung&diff=39273911&oldid=39273839 diff] - [[Wikipedia:WikiProject Spam/UserReports/78.51.97.86|COIBot UserReport]] - [[:de:Special:Contributions/78.51.97.86]].
+# 18:47:33, Tue Nov 20, 2007 [[:de:user:Koransuren]] <-> koransuren.de (100%/83.33%/83.3% - calculated overlap Koransuren <-> koransuren.de) - [[:de:Koran]] - [http://de.wikipedia.org/w/index.php?title=Koran&diff=39188299&oldid=39179924 diff] - [[Wikipedia:WikiProject Spam/UserReports/Koransuren|COIBot UserReport]] - [[:de:Special:Contributions/Koransuren]].
+# 04:54:24, Mon Nov 19, 2007 [[:de:user:78.51.99.10]] <-> koransuren.de (0%/0%/0% - Monitored link www.koransuren.de/koran/sure97.html - rule: \bkoransuren\.de - reason: [[:en:User:COIBot#Monitor list|Automonitor]]: [[:en:WP:COI|conflict of interest]]? (calculated overlap Koransuren <-> koransuren.de; [http://de.wikipedia.org/w/index.php?title=Koran&diff=39077458&oldid=39037073 diff])) - [[:de:Koranübersetzung]] - [http://de.wikipedia.org/w/index.php?title=Koran%C3%BCbersetzung&diff=39130826&oldid=39028876 diff] - [[Wikipedia:WikiProject Spam/UserReports/78.51.99.10|COIBot UserReport]] - [[:de:Special:Contributions/78.51.99.10]].
+# 18:09:50, Sat Nov 17, 2007 [[:de:user:Koransuren]] <-> koransuren.de (100%/83.33%/83.3% - calculated overlap Koransuren <-> koransuren.de) - [[:de:Koran]] - [http://de.wikipedia.org/w/index.php?title=Koran&diff=39077458&oldid=39037073 diff] - [[Wikipedia:WikiProject Spam/UserReports/Koransuren|COIBot UserReport]] - [[:de:Special:Contributions/Koransuren]].
+COIBot reported 4 links.

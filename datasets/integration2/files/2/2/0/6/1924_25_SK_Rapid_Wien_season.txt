@@ -1,0 +1,194 @@
+{{Infobox football club season
+| club               = [[SK Rapid Wien|Rapid Wien]]
+| season             = 1924-25
+| manager            = [[Dionys Schönecker]]
+| mgrtitle           = Coach
+| stadium            = [[Pfarrwiese]],<br/>[[Vienna]], [[Austria]]
+| league             = [[1924-25 Austrian football championship|First class]]
+| league result      = 4th
+| cup1               = [[1924-25 Austrian Cup|Austrian Cup]]
+| cup1 result        = 1st round
+| league topscorer   = [[Franz Weselik]] (16)
+| season topscorer   = [[Franz Weselik]] (17)
+| highest attendance = 30,000
+| lowest attendance  = 8,000
+| average attendance = 15,300
+| prevseason         = [[1923–24 SK Rapid Wien season|1923–24]]
+| nextseason         = [[1925–26 SK Rapid Wien season|1925–26]]
+}}
+
+The '''1924–25 [[SK Rapid Wien]] season''' was the 27th season in club history.
+
+==Squad==
+
+===Squad and statistics===
+<ref name=ref>{{cite web|title=Saison 1924/25 |url=http://www.rapidarchiv.at/saisonen/1925.html|publisher=rapidarchiv.at|accessdate=19 July 2016}}</ref>
+
+===Squad statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan="2" valign="bottom"|Nat.
+!rowspan="2" valign="bottom"|Name
+!colspan="2" width="85"|League
+!colspan="2" width="85"|Cup
+!colspan="2" width="85"|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+!colspan=15|Goalkeepers
+|-
+|{{flagicon|AUT}}||align="left"|[[Walter Feigl]] || 1|| || || || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Griftner]] || 4|| || || || 4|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Otto Janczik]] || 10|| || 1|| || 11|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Köhler]] || 5|| || || || 5|| 
+|-
+!colspan=15|Defenders
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Czejka]] || || || 1|| || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Vinzenz Dittrich]] || 12|| || || || 12|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Otto Jellinek]] || || || 1|| || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Emil Regnard]] || 11|| || || || 11|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Solil]] || 17|| || || || 17|| 
+|-
+!colspan=15|Midfielders
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Brandstetter]] || 20|| || 1|| || 21|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Nitsch]] || 20|| || 1|| || 21|| 
+|-
+|{{flagicon|AUT}}||align="left"|Johann Richter || 20|| || 1|| || 21|| 
+|-
+!colspan=15|Forwards
+|-
+|{{flagicon|AUT}}||align="left"|[[Eduard Bauer]] || 6|| 1|| 1|| || 7|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Hofbauer]] || 9|| 9|| || || 9|| 9
+|-
+|{{flagicon|AUT}}||align="left"|[[Willibald Kirbes]] || 4|| 1|| 1|| || 5|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Richard Kuthan]] || 16|| 6|| 1|| 1|| 17|| 7
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Uridil]] || 5|| 3|| || || 5|| 3
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Weselik]] || 12|| 16|| 1|| 1|| 13|| 17
+|-
+|{{flagicon|AUT}}||align="left"|[[Ferdinand Wesely]] || 20|| 8|| 1|| 2|| 21|| 10
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Wondrak]] || 18|| 2|| || || 18|| 2
+|-
+|{{flagicon|AUT}}||align="left"|[[Anton Zach]] || 10|| 3|| || || 10|| 3
+|}
+
+==Fixtures and results==
+<ref name=results>{{cite web|title=Spiele 1924/25 |url=http://www.rapidarchiv.at/spiele/1925.html|publisher=rapidarchiv.at|accessdate=25 July 2016}}</ref>
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+===League===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#cfc"
+| {{tooltip|1|Round 1}} || 21.09.1924 || [[Pfarrwiese|H]] || align="left"| [[SK Slovan Wien|Slovan Wien]] || 4-2 || align="right"|12,000
+| align="left"|[[Josef Hofbauer|Hofbauer]] {{goal|17}} {{goal||pen.}}, [[Richard Kuthan|Kuthan]] {{goal|}}, [[Anton Zach|Zach]] {{goal|83}}
+|- style="background:#ffc"
+| {{tooltip|2|Round 2}} || 28.09.1924 || [[Pfarrwiese|H]] || align="left"| [[Hakoah Vienna|Hakoah]] || 1-1 || align="right"|30,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|58}}
+|- style="background:#fcc"
+| {{tooltip|3|Round 3}} || 05.10.1924 || [[Sportplatz Simmering|A]] || align="left"| [[1. Simmeringer SC|Simmering]] || 4-5 || align="right"|18,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|27}} {{goal|29|pen.}}, [[Karl Wondrak|Wondrak]] {{goal|54}}, [[Richard Kuthan|Kuthan]] {{goal|74}}
+|- style="background:#cfc"
+| {{tooltip|4|Round 4}} || 12.10.1924 || [[Pfarrwiese|H]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 2-1 || align="right"|10,000
+| align="left"|[[Anton Zach|Zach]] {{goal|50}}, [[Ferdinand Wesely|Wesely]] {{goal|62}}
+|- style="background:#fcc"
+| {{tooltip|5|Round 5}} || 19.10.1924 || A || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 1-2 || align="right"|15,000
+| align="left"|[[Anton Zach|Zach]] {{goal|43}}
+|- style="background:#cfc"
+| {{tooltip|6|Round 6}} || 01.11.1924 || [[Pfarrwiese|H]] || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 4-2 || align="right"|8,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|8}} {{goal|29}}, [[Eduard Bauer|Bauer E.]] {{goal|70}}, [[Ferdinand Wesely|Wesely]] {{goal|76|pen.}}
+|- style="background:#cfc"
+| {{tooltip|7|Round 7}} || 15.11.1924 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Admira]] || 3-0 || align="right"|10,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|3}}, [[Josef Hofbauer|Hofbauer]] {{goal|22}} {{goal|70}}
+|- style="background:#cfc"
+| {{tooltip|8|Round 8}} || 23.11.1924 || [[Pfarrwiese|H]] || align="left"| [[FK Austria Wien|Amateure]] || 3-0 || align="right"|25,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|26}} {{goal|57}} {{goal|70}}
+|- style="background:#fcc"
+| {{tooltip|9|Round 9}} || 30.11.1924 || A || align="left"| [[Wiener AC]] || 1-2 || align="right"|18,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|37}}
+|- style="background:#fcc"
+| {{tooltip|11|Round 11}} || 14.12.1924 || [[Hohe Warte Stadium|A]] || align="left"| [[First Vienna FC|Vienna]] || 0-2 || align="right"|8,000
+| align="left"|
+|- style="background:#fcc"
+| {{tooltip|12|Round 12}} || 25.03.1925 || [[Hohe Warte Stadium|A]] || align="left"| [[Hakoah Vienna|Hakoah]] || 1-4 || align="right"|30,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|83|pen.}}
+|- style="background:#cfc"
+| {{tooltip|13|Round 13}} || 01.03.1925 || A || align="left"| [[FK Austria Wien|Amateure]] || 3-1 || align="right"|27,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|44}} {{goal|59}}, [[Franz Weselik|Weselik]] {{goal||pen.}}
+|- style="background:#ffc"
+| {{tooltip|14|Round 14}} || 08.03.1925 || [[Pfarrwiese|H]] || align="left"| [[Wiener AC]] || 3-3 || align="right"|18,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|39}} {{goal|40}}, [[Josef Uridil|Uridil J.]] {{goal|70}}
+|- style="background:#ffc"
+| {{tooltip|15|Round 15}} || 21.05.1925 || [[Pfarrwiese|H]] || align="left"| [[1. Simmeringer SC|Simmering]] || 4-4 || align="right"|12,000
+| align="left"|[[Josef Hofbauer|Hofbauer]] {{goal|15}} {{goal|21}}, [[Franz Weselik|Weselik]] {{goal|36}}, [[Karl Wondrak|Wondrak]] {{goal|62}}
+|- style="background:#ffc"
+| {{tooltip|16|Round 16}} || 29.03.1925 || [[Pfarrwiese|A]] || align="left"| [[SK Slovan Wien|Slovan Wien]] || 1-1 || align="right"|15,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|}}
+|- style="background:#cfc"
+| {{tooltip|17|Round 17}} || 05.04.1925 || A || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 3-2 || align="right"|8,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|}} {{goal|72|pen.}}, [[Willibald Kirbes|Kirbes W.]] {{goal|85}}
+|- style="background:#ffc"
+| {{tooltip|18|Round 18}} || 26.04.1925 || [[Pfarrwiese|H]] || align="left"| [[First Vienna FC|Vienna]] || 1-1 || align="right"|18,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|86}}
+|- style="background:#cfc"
+| {{tooltip|19|Round 19}} || 10.05.1925 || [[Hohe Warte Stadium|A]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 4-1 || align="right"|20,000
+| align="left"|[[Josef Hofbauer|Hofbauer]] {{goal|29}} {{goal|46}}, [[Franz Weselik|Weselik]] {{goal|}} {{goal|}}
+|- style="background:#fcc"
+| {{tooltip|20|Round 20}} || 17.05.1925 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 3-5 || align="right"|10,000
+| align="left"|[[Franz Weselik|Weselik]] {{goal|9}}, [[Josef Hofbauer|Hofbauer]] {{goal|43}}, [[Richard Kuthan|Kuthan]] {{goal|57}}
+|- style="background:#cfc"
+| {{tooltip|22|Round 22}} || 07.06.1925 || A || align="left"| [[FC Admira Wacker Mödling|Admira]] || 3-0 || align="right"|15,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|48}}, [[Josef Uridil|Uridil J.]] {{goal|50}}, [[Ferdinand Wesely|Wesely]] {{goal|65}}
+|}
+
+===Cup===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#fcc"
+| {{tooltip|R1|1st round}} || 19.08.1925 || [[Pfarrwiese|H]] || align="left"| [[Hakoah Vienna|Hakoah]] || 4-5 || align="right"|18,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|58}}, [[Ferdinand Wesely|Wesely]] {{goal|61|pen.}} {{goal|71|pen.}}, [[Franz Weselik|Weselik]] {{goal|74}}
+|}
+
+==References==
+{{Reflist}}
+
+{{SK Rapid Wien seasons |state=expanded}}
+
+{{DEFAULTSORT:1924-25 SK Rapid Wien season}}
+[[Category:SK Rapid Wien seasons|1924-25 Rapid Wien Season]]
+[[Category:Austrian football clubs 1924–25 season|Rapid]]

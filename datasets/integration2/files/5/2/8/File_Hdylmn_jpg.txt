@@ -1,0 +1,13 @@
+== Summary ==
+{{Non-free use rationale
+|Description= Album cover for Toby Keith's album ''How Do You Like Me Now?!''
+|Source= Uploaded from {{Allmusic|class=album|id=r431425|pure_url=yes}}
+|Portion= Entire album cover; entire cover must be used to avoid misrepresentation.
+|Low_resolution= Image is of inferior quality to the original, and would not be suitable to create unauthorized copies of the album
+|Article=How Do You Like Me Now?!
+|Purpose= Solely to illustrate the cover of a commercially available album, for identification purposes on its Wikipedia article; see [[How Do You Like Me Now?!]]
+|Replaceability= Image cannot be replaced with a free alternative, as no free alternative could adequately serve the same purpose
+|other_information=
+}}
+== Licensing ==
+{{Non-free album cover|image has rationale=yes}}

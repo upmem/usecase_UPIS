@@ -1,0 +1,61 @@
+{{short description|1917 film}}
+{{Use mdy dates|date=April 2020}}
+{{Infobox film
+| name           = Bliss
+| image          = 
+| caption        = Full film
+| director       = [[Alfred J. Goulding]]
+| producer       = [[Hal Roach]]
+| writer         = 
+| starring       = [[Harold Lloyd]]
+| music          = Borodin and Bach
+| cinematography = [[Walter Lundin]]
+| editing        = Della Mullady
+| distributor    = 
+| released       = {{film date|1917|10|14}}
+| runtime        = 
+| country        = United States
+| language       = Silent with English intertitles
+}}
+
+'''''Bliss''''' is a 1917 American [[short film|short]] [[comedy film]] featuring [[Harold Lloyd]].<ref name="silentera">{{cite web |url=http://www.silentera.com/PSFL/data/B/Bliss1917.html |title=Progressive Silent Film List: Bliss |accessdate=April 22, 2009|work=Silent Era}}</ref> The film was thought [[Lost film|lost]] until a copy was discovered in 1978 in [[Dawson City]], Yukon, Canada.<ref name="Yukon News">{{cite web |url=http://www.yukon-news.com/letters-opinions/dawson-film-find-yields-more-secrets/ |title=Dawson film find yields more secrets |accessdate=June 4, 2016|work=Yukon News}}</ref>
+
+==Plot==
+Harold and Bebe meet each other by chance while out walking.  Equally smitten, they exchange calling cards.  Harold is a man of modest means while the well-to-do Bebe is "the most eligible girl in town."  Bebe is besieged by wealthy suitors but none of them measure up to her father's standards; he insists his future son-in-law be of noble blood.  Harold rents evening clothes from his laundry man before heading off to Bebe's house to woo her.  When he arrives, Bebe's father assumes Harold is another unsuitable beau and attempts to violently eject him from the house.  Bebe intervenes.  Harold happens to find a calling card in his suit pocket bearing the name "Count Rusva" on it, which convinces Bebe's father that Harold is prime husband material for his daughter. Wanting his daughter to marry Harold quickly, Bebe's father tricks the two of them into thinking each wants to elope. They quickly head to the nearest pastor and are wed.
+
+==Cast==
+[[File:Bliss 1917 HAROLD LLOYD BEBE DANIELS SNUB POLLARD Alfred J Goulding.webm|thumb|right]]
+* [[Harold Lloyd]] as Harold
+* [[Snub Pollard]] as Snub
+* [[Bebe Daniels]] as The Girl
+* [[Gus Leonard]]
+* [[Belle Mitchell]]
+
+==See also==
+* [[List of American films of 1917]]
+* [[Harold Lloyd filmography]]
+* [[List of rediscovered films]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|id=0007709|title=Bliss}}
+*{{Internet Archive short film|id=Bliss_844|name=Bliss}}
+* [https://www.youtube.com/watch?v=IKEchtWmYE8 ''Bliss''] on [[YouTube]]
+
+{{DEFAULTSORT:Bliss (1917 Film)}}
+[[Category:1917 films]]
+[[Category:1917 comedy films]]
+[[Category:1917 short films]]
+[[Category:1910s rediscovered films]]
+[[Category:American films]]
+[[Category:American comedy films]]
+[[Category:American silent short films]]
+[[Category:American black-and-white films]]
+[[Category:Films directed by Alfred J. Goulding]]
+[[Category:Articles containing video clips]]
+[[Category:Comedy short films]]
+[[Category:Rediscovered American films]]
+[[Category:Surviving American silent films]]
+{{1910s-short-comedy-film-stub}}

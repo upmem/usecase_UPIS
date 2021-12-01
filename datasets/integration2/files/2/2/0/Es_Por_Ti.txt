@@ -1,0 +1,77 @@
+{{Use mdy dates|date=July 2020}}
+{{Infobox song
+| name       = Es Por Ti
+| cover      =
+| alt        =
+| type       = single
+| artist     = [[Juanes]]
+| album      = [[Un Día Normal]]
+| released   = {{start date|2002|09|23}}
+| format     = Digital download · CD
+| recorded   = December 2001 – February 2002
+| studio     = Larabee East<br>La Casa Studios <br>(Los Angeles, California)
+| venue      =
+| genre      = [[Rock en Español|Latin rock]]
+| length     = 4:11
+| label      = [[Universal Records|Universal Music Latino]]
+| writer     = [[Juanes]]
+| producer   = [[Juanes]] · [[Gustavo Santaolalla]]
+| prev_title = [[A Dios le Pido]]
+| prev_year  = 2002
+| next_title = [[Mala Gente (song)|Mala Gente]]
+| next_year  = 2003
+}}
+
+"'''Es Por Ti'''" (English: ''Because of You'') is a song written and performed by Colombian singer-songwriter [[Juanes]]. It's the second radio single from his sophomore studio album ''[[Un Día Normal]]'' (2002). It was released on September 23, 2002 (see [[2002 in music]]).
+
+The single earned him two [[Latin Grammy Awards]] for [[Latin Grammy Award for Song of the Year|Song of the Year]] and [[Latin Grammy Award for Record of the Year|Record of the Year]].<ref name=LatinGrammy3>{{cite web|url= http://www.grammy.com/nominees/latin/search?artist=&title=&year=All&genre=45|title=Past Winners Search|publisher=[[National Academy of Recording Arts and Sciences]]|accessdate=July 11, 2011}}</ref> The song is a slow-rock pop ballad that revolves around love towards a romantic partner. 
+
+==Chart performance==
+{| class="wikitable sortable"
+!align="left"|Chart (2002)
+!align="left"|Peak<br />position
+|-
+{{singlechart|Flanders Tip|10|artist=Juanes|song=Es Por Tí}}
+|-
+{{singlechart|Wallonia Tip|14|artist=Juanes|song=Es Por Tí}}
+|-
+{{singlechart|Dutch100|97|artist=Juanes|song=Es Por Tí|accessdate=December 10, 2012}}
+|-
+|Spain ([[Productores de Música de España|PROMUSICAE]])<ref>{{Citation|title = Los Discos No. 1 En España de 1950 and 2010 – NEWALENCIA | url=http://nicolasramospintado.wordpress.com/2009/12/01/los-discos-n%C2%BA1-en-espana-de-1950-a-2010/|accessdate = September 2, 2010 }}</ref>
+|align="center"|1
+|-
+{{singlechart|Billboardlatinsongs|4|artist=Juanes|artistid=416141|accessdate=2 September 2010}}
+|-
+{{singlechart|Billboardlatinpopsongs|2|artist=Juanes|artistid=416141|accessdate=2 September 2010}}
+|-
+|}
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{MetroLyrics song|juanes|es-por-ti-letras}}<!-- Licensed lyrics provider -->
+
+{{Juanes singles}}
+{{Navboxes
+|title = Awards for "Es Por Ti"
+|titlestyle = background: lightblue
+|list1 =
+{{Latin Grammy Award for Record of the Year}}
+{{Latin Grammy Award for Song of the Year}}
+}}
+
+[[Category:2002 singles]]
+[[Category:2002 songs]]
+[[Category:Juanes songs]]
+[[Category:Number-one singles in Spain]]
+[[Category:Song recordings produced by Gustavo Santaolalla]]
+[[Category:Songs written by Juanes]]
+[[Category:Spanish-language songs]]
+[[Category:Universal Music Latino singles]]
+[[Category:2000s ballads]]
+[[Category:Rock ballads]]
+[[Category:Latin Grammy Award for Record of the Year]]
+[[Category:Latin Grammy Award for Song of the Year]]
+
+{{Latin-song-stub}}

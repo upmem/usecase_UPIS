@@ -1,0 +1,41 @@
+{{Taxobox
+| image = Rhinophoridae - Paykullia maculata.JPG
+| image_caption =
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Diptera]]
+| familia = [[Rhinophoridae]]
+| genus = ''[[Paykullia]]''
+| species = '''''P. maculata'''''
+| binomial = ''Paykullia maculata''
+| binomial_authority = ([[Carl Fredrik Fallén|Fallen]], 1815)
+| synonyms = *''Ocyptera maculata'' <small>[[Carl Fredrik Fallén|Fallen]], 1815</small>
+*''Paykullia riparia'' <small>[[Jean-Baptiste Robineau-Desvoidy|Robineau-Desvoidy]], 1830</small><ref name="Robineau-Desvoidy1830">{{cite journal |last1=Robineau-Desvoidy |first1=André Jean Baptiste |title=Essai sur les myodaires |journal=Mémoires presentés a L'Institut des Sciences, Lettres et Arts, par divers savants èt lus dans ses assemblées : Sciences, Mathématiques et Physique |date=1830 |volume=2 |issue=2 |pages=1–813 |url=https://www.biodiversitylibrary.org/page/3472165#page/9/mode/1up |accessdate=15 July 2018}}</ref>
+*''Paykullia rubricornis'' <small>[[Jean-Baptiste Robineau-Desvoidy|Robineau-Desvoidy]], 1830</small><ref name="Robineau-Desvoidy1830"/>
+}}
+
+'''''Paykullia maculata''''' is a species of [[fly]] in the family [[Rhinophoridae]] [[Species description|first described]] by [[Carl Fredrik Fallén]] in 1815.<ref>{{Cite book|url=http://www.edvis.sk/diptera2009/|title=Checklist of Diptera of the Czech Republic and Slovakia. Electronic version 2. |last=Jedlička|first=Ladislav|last2=Kúdela|first2=Matúš|last3=Stloukalová|first3=Viera|date=2009-01-01|publisher=Comenius University|year=|isbn=978-80-969629-4-5|location=Bratislava, Slovakia|pages=|chapter=Rhinophoridae Robineau-Desvoidy, 1863|chapter-url=http://www.edvis.sk/diptera2009/families/rhinophoridae.htm}}</ref><ref>{{Cite web|url=http://www.catalogueoflife.org/annual-checklist/2011/details/species/id/8699090|title=Catalogue of Life - 2011 Annual Checklist|last=|first=|date=|website=www.catalogueoflife.org|language=en|archive-url=|archive-date=|access-date=2018-07-30}}</ref>
+
+==Distribution==
+This species can be found in most of Europe ([[Austria]], [[Great Britain]], [[Czech Republic]], [[Denmark]], [[France]], [[Germany]], [[Hungary]], [[Ireland]], [[Italy]], [[Norway]], [[Poland]], [[Slovakia]], [[Sweden]], [[Switzerland]], [[Netherlands]]) <ref>{{Cite web|url=https://fauna-eu.org/cdm_dataportal/taxon/008fff9d-00c3-430b-8d20-49f095a57056|title=''Paykullia maculata'' (Fallen, 1815) {{!}} Fauna Europaea|website=fauna-eu.org|language=en|access-date=2018-07-30}}</ref><ref name=":0">{{Cite book|url=https://www.researchgate.net/publication/270566829_Diptera_Stelviana_A_dipterological_perspective_on_a_changing_alpine_landscape_Results_from_a_survey_of_the_biodiversity_of_Diptera_Insecta_in_the_Stilfserjoch_National_Park_Italy_Volume_1|title=Diptera Stelviana. A dipterological perspective on a changing alpine landscape. Results from a survey of the biodiversity of Diptera (Insecta) in the Stilfserjoch National Park (Italy)|date=2008|publisher=Ampyx-Verlag|year=|isbn=9783932795305|editor-last=Joachim Ziegler|location=Halle|pages=221–228|chapter=4.3.20 Rhinophoridae|oclc=554886269|chapter-url=https://www.researchgate.net/publication/270566512_4320_Rhinophoridae}}</ref> Habitats include wetlands, woodlands, parks and gardens.<ref name=NS/>
+
+==Description==
+''Paykullia maculata'' can reach a length of {{convert|5|-|6|mm}}. The adults of this species are very variable, especially in size and in the pattern of wing markings.<ref name=":0" /> These small flies have a shining black body with bristly hair. The apical half of the wings show darkened veins and costal area.<ref name="NS">{{Cite web|url=https://www.naturespot.org.uk/species/paykullia-maculata|title=''Paykullia maculata'' {{!}} NatureSpot|website=www.naturespot.org.uk|language=en|access-date=2018-07-30}}</ref><ref>Bei-Bienko, G.Y. & Steyskal, G.C. (1988) ''Keys to the Insects of the European Part of the USSR'', Volume V: Diptera and Siphonaptera, Parts I, II. Amerind Publishing Co., New Delhi.{{ISBN|81-205-0080-6}}  {{ISBN|81-205-0081-4}}</ref>{{Page needed|date=July 2018}}<ref>{{Cite book|url=https://www.royensoc.co.uk/sites/default/files/Vol10_Part04a_2_Calliphoridae.pdf|title=Diptera - Cyclorrhapha. Calyptrata (I) Section (a). Tachinidae and Calliphoridae.|last=F. I. van Emden|first=|publisher=Royal Entomological Society|year=1954|isbn=|series=Handbooks for the Identification of British Insects|volume=10 Part 4a ii|location=London|pages=}}</ref>{{Page needed|date=July 2018}}
+
+==Biology==
+Adults can be seen from May to September, with several generations. Usually they rest or run around on stones or among the foliage.<ref name=":0" /> The larvae are intestinal parasites of ''[[Porcellio scaber]]'' and ''[[Oniscus asellus]]'',<ref name=NS/> and woodlice from ''[[Protracheoniscus]]'' and ''[[Trachelipus]]'' genera.<ref name=":0" />
+
+==References==
+{{Wikispecies}}
+{{Commons}}
+{{Reflist}}
+
+{{Taxonbar|from=Q14086868}}
+
+[[Category:Rhinophoridae]]
+[[Category:Insects described in 1815]]
+[[Category:Brachyceran flies of Europe]]
+
+
+{{Oestroidea-stub}}

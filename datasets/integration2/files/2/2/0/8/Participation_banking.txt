@@ -1,0 +1,21 @@
+{{Banking}}
+'''Participation banking''' is the name given to [[Islamic bank]]s mainly in [[Turkey]]<ref>{{cite news|title=What is Participation Banking|url=https://www.igi-global.com/dictionary/participation-banking/58363|accessdate=24 May 2018|publisher=IGI global}}</ref><ref>{{cite news|title=Performance comparison of Islamic (participation) banks and commercial banks in Turkish banking sector|publisher=[[Emerald Group Publishing Limited|Emerald Insight]]|doi=10.1108/EMJB-05-2013-0024}}</ref><ref>{{cite news|title=Megabank project to support Turkey's aim to increase share in participation banking|url=https://www.dailysabah.com/finance/2017/05/20/megabank-project-to-support-turkeys-aim-to-increase-share-in-participation-banking|accessdate=24 May 2018|publisher=[[Daily Sabah]]}}</ref> as well as [[MENA]] region and in other [[pan-Islamic]] countries. Beginning of the era 2000, while participation banks reach only 2%of the net assets, in 2010 the rate increased up to 4,3%. As a result of the momentum of high growth in the last 5 years, the rate increased up to 6, 1% with 90,7 billion TL asset in the third quarter of 2013. Although, regarding the profit margins of the participation banks, [[Malaysia]], [[Indonesia]] and Gulf countries have more than 50% of the market share, it is stated that Turkey has more potential in growth. Also, Turkey, [[Pakistan]], [[Bangladesh]] and Indonesia stand as the leading countries among the participation banks.<ref>{{cite news|title=Participation Banking in Turkey - Deloitte|url=https://www2.deloitte.com/tr/en/pages/financial-services/articles/participant-banking-in-turkey-article.html|accessdate=24 May 2018|publisher=[[Deloitte]]}}</ref> [[Saudi Arabia]], the [[UAE]] and Malaysia are the three largest participation banking markets, in terms of assets.<ref name=ey>{{cite news|title=Global participation banking assets reached US$930 billion in 2015|url=http://www.ey.com/em/en/newsroom/news-releases/news-global-participation-banking-assets-reached-us-924-billion-in-2015-ey|accessdate=24 May 2018|agency=[[Ernst & Young]]}}</ref> Iran has 36% of the worldwide assets of the participation banks, Malaysia has 17%, Saudi Arabia has 14% and Turkey has 3,1% of the market share. According to [[Ernst & Young|EY]]’s ‘Banking in emerging markets’ report, the assets of global participation banking reached US$930b in 2015, with growth rates declining across all regions compared to previous years.<ref name=ey/>
+
+==List of participation banks==
+*[[Ziraat Katılım|Ziraat Participation Bank]]
+*[[Vakıf Katılım|Vakıf Participation Bank]]
+*[[Türkiye Finans|Turkey Finance Participation Bank]]
+*[[Albaraka Türk|Albaraka Türk Participation Bank]]
+*[[Kuveyt Türk Katılım Bankası|Kuwait Turk Participation Bank]]
+
+===Defunct===
+*[[Bank Asya|Asia Participation Bank]] (Est. 1996, closed in 2016)
+
+==References==
+{{reflist}}
+{{Islamic banking and finance}}
+
+[[Category:Participation banking| ]]
+[[Category:Islamic banking]]
+[[Category:Banking in Turkey]]
+[[Category:Banking terms]]

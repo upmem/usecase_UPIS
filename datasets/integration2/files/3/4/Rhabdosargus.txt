@@ -1,0 +1,31 @@
+{{Italic title}}
+{{Automatic_taxobox
+| name = ''Rhabdosargus''
+| image = Rhabdosargus holubi.jpg
+| image_caption = ''Rhabdosargus holubi''
+| taxon = Rhabdosargus
+| authority = [[Henry Weed Fowler|Fowler]], 1933
+}}
+
+'''''Rhabdosargus''''' is a [[genus]] of fish in the [[family (biology)|family]] [[Sparidae]].
+
+==Species==
+There are currently 6 recognized species in this genus:
+* ''[[Rhabdosargus globiceps]]'' <small>[[Achille Valenciennes|Valenciennes]], 1830</small> (White stumpnose)
+* ''[[Rhabdosargus haffara]]'' <small>[[Peter Forsskål|Forsskål]], 1775</small> (Haffara seabream)
+* ''[[Rhabdosargus holubi]]'' <small>[[Franz Steindachner|Steindachner]], 1881</small> (Cape stumpnose)
+* ''[[Rhabdosargus niger]]'' <small>[[Fumiya Tanaka (biologist)|F. Tanaka]] & [[Yukio Iwatsuki|Iwatsuki]], 2013</small> (Blackish stumpnose) <ref name=Tanaka2013>Tanaka, F. & Iwatsuki, Y. (2013):''Rhabdosargus niger'' (Perciformes: Sparidae), a new sparid species from Indonesia, with taxonomic status of the nominal species synonymized under ''Rhabdosargus sarba''. ''Ichthyological Research, 60 (4): 343-352.''</ref>
+* ''[[Rhabdosargus sarba]]'' <small>[[Peter Forsskål|Forsskål]], 1775</small> (Goldlined seabream)
+* ''[[Rhabdosargus thorpei]]'' <small>[[Margaret Mary Smith|M. M. Smith]], 1979</small> (Bigeye stumpnose)
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2279773}}
+
+[[Category:Rhabdosargus| ]]
+[[Category:Marine fish genera]]
+[[Category:Taxa named by Henry Weed Fowler]]
+
+
+{{Perciformes-stub}}

@@ -1,0 +1,44 @@
+{{Expand German|Hans Lange (Dirigent)|date=August 2015}}
+{{Infobox person
+| name        = Hans Lange
+| image       = <!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] -->
+| alt         = 
+| caption     = 
+| birth_name  = 
+| birth_date  = {{Birth date|1884|02|17}}
+| birth_place = Istanbul, Ottoman Empire
+| death_date  = {{Death date and age|1960|08|13|1884|02|17}}
+| death_place = [[Albuquerque]], [[New Mexico]], United States
+| nationality = Prussian, since 1916 German, USA
+| other_names = 
+| occupation  = musician, violinist, conductor
+| known_for   = assistant of Arturo Toscanini at the New York Philharmonic Orchestra, conductor at Chicago Symphony Orchestra, founder of New Mexico Symphony Orchestra
+| parents = [[Paul Lange (musician)|Paul Lange]]
+}}
+
+'''Hans Lange''' (February 17, 1884 in [[Istanbul]] &ndash; August 13, 1960 in [[Albuquerque, New Mexico]]) was a German-American [[Conducting|conductor]] and [[musician]]. He was a son of [[Paul Lange (musician)|Paul Lange]], who had been a lecturer for music at the [[American College for Girls]] and [[German High School Istanbul]] in the 1890s, and later was appointed the Sultan's director of music. Hans Lange himself was an alumnus of German High School Istanbul.
+
+Lange was educated in Prague and other European cities. After assignments in several German cities, one being in [[Bielefeld]], he entered the United States in 1925 with a German orchestra to give concerts. The orchestra was dissolved during the tour, and Lange had to restart his career.
+
+Lange joined the New York Philharmonic Orchestra as a violinist in 1927, but began soon to conduct as well. He became assistant to [[Arturo Toscanini]], and rehearsed almost all his performances.<ref>[http://www.time.com/time/magazine/article/0,9171,755401,00.html Music: Lange's own:''TIME'', 25 November 1935]</ref> At that time, he also worked on his own as a conductor: besides numerous assignments as conductor of the New York Philharmonic in concerts at Carnegie Hall until 1936, he recorded a concert of Wagner excerpts with the famous soprano [[Kirsten Flagstad]] for [[HMV Records]].
+
+In 1936–1946 he worked as ''Associate Conductor'' <ref>{{cite web |url=https://cso.org/search/?q=hans+lange|title=Search cso.org - Chicago Symphony Orchestra|access-date=17 March 2020|url-status=live}}</ref>of the [[Chicago Symphony Orchestra]]. As he had not taken up US citizenship during the war, his contract with CSO was not extended after 1946. On May 12, 1940, he recorded with the CSO and the Polish American piano virtuoso [[Jozef Hofmann]] [[Beethoven]]s [[Piano Concerto No. 5 (Beethoven)|Piano Concert No. 5 ("Emperor").]] The recording (35 minutes) has been published in CSO's own historic series and in Jozef Hofmann anthologies. In the same year Lange conducted the CSO during its legendary concert with U.S. piano legend [[Liberace]] at the [[Pabst Theater]] in [[Milwaukee]].<ref>Before the candelabra: Liberace's only performance with the CSO in 1940: From the CSO Rosenthal Archives [https://csoarchives.wordpress.com/tag/hans-lange/ (Blog)]</ref>
+
+In 1946-1949 Lange worked in [[Toledo (Ohio)|Toledo, Ohio]], with the local Friends of Music Orchestra (later [[Toledo Symphony Orchestra]]).<ref>Lee Steele: Hans Lange remembered in Toledo: Toledo Blade, August 117th, 1960 [https://news.google.com/newspapers?nid=1350&dat=19600816&id=Jv1OAAAAIBAJ&sjid=AAEEAAAAIBAJ&pg=7442,3908247&hl=de (Link)]</ref> On April 13, 1947, he was invited again by his former boss Toscanini to New York to perform as guest conductor at the [[NBC Symphony Orchestra]].<ref>[https://news.google.com/newspapers?nid=1350&dat=19470411&id=R-ROAAAAIBAJ&sjid=4P8DAAAAIBAJ&pg=1088,3456170 Toledo Blade: Hans Lange to conduct Toscanini Orchestra on Sunday, 11.4.1947]</ref>
+
+In 1950, Lange started to work with the [[Albuquerque Civic Symphony]], less than two years after his predecessor Kurt Frederick had managed to bring the world premiere of [[Arnold Schoenberg|Schoenberg's]] "[[A Survivor from Warsaw]]" to Albuquerque in November 1948. Lange transformed the ACS from an amateur ensemble into what is today known as [[New Mexico Symphony Orchestra]] (NMSO) and one of the leading professional orchestras in the United States.
+
+He was a National Patron of [[Delta Omicron]], an international professional music fraternity.<ref>[http://delta-omicron.org/index00.html Delta Omicron] {{webarchive|url=https://web.archive.org/web/20100127130549/http://delta-omicron.org/index00.html |date=2010-01-27 }}</ref>
+
+During his tenure in Chicago, Lange was one of the teachers and mentors of composer [[Leon Stein]].
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lange, Hans}}
+[[Category:1884 births]]
+[[Category:1960 deaths]]
+[[Category:German male musicians]]
+[[Category:Deutsche Schule Istanbul alumni]]

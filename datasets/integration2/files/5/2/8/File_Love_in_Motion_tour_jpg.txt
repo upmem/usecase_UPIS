@@ -1,0 +1,14 @@
+== Summary ==
+{{Non-free use rationale
+ |Article           = Love in Motion (Anika Moa album)
+ |Description       = A poster of the Love in Motion tour
+ |Source            = http://www.anikamoa.com/
+ |Portion           = The entire image is used
+ |Low_resolution    = No
+ |Purpose           = To illustrate the text about a concert tour, depicting the image(s), logo(s) and colour schemes used
+ |Replaceability    = No
+ |other_information = 
+}}
+
+== Licensing ==
+{{Non-free poster|image has rationale=yes}}

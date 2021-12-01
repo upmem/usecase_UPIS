@@ -1,0 +1,28 @@
+{{Unreferenced|date=July 2017}}
+{{Expand Chinese|王世英|date=July 2017}}
+{{Infobox Politician|name=Wang Shiying|office=Governor of Shanxi|order=5th|native_name={{nobold|{{lang|zh|王世英}}}} |image=Wang Shiying.jpg|predecessor=[[Pei Lisheng]]|successor=[[Wei Heng]]|birth_date={{birth date|1905|11|13}}|birth_place=Dufu Village, [[Hongtong County]], [[Shanxi]] |death_date={{death date and age|1968|03|26|1905|11|13}}|death_place=[[Beijing]]|party=[[Communist Party of China]]|spouse=Li Guoyi|children=1 son|alma_mater=[[Republic of China Military Academy|Whampoa Military Academy]]|allegiance=[[Communist Party of China]]|serviceyears=1925-1949}}
+'''Wang Shiying''' ({{zh|王世英}}) (November 13, 1905 – March 26, 1968) was a [[People's Republic of China]] politician. He was born in [[Hongtong County]], [[Linfen]], [[Shanxi]]. He was a graduate of the [[Whampoa Military Academy]]. He participated in the [[Northern Expedition]], [[Second Sino-Japanese War]] and [[Chinese Civil War]]. He was a delegate to the [[1st National People's Congress]] and [[2nd National People's Congress]]. He was governor of his home province.
+
+He was interrogated by radical elements during the Cultural Revolution and died during the struggle in 1968.
+
+{{s-start}}
+{{s-bef|before=[[Pei Lisheng]]}}
+{{s-ttl|title=Governor of Shanxi|years=1956–1958}}
+{{s-aft|after=[[Wei Heng]]}}
+{{s-end}}
+
+==References==
+{{reflist}}
+
+{{Shanxi leaders}}
+
+[[Category:1905 births]]
+[[Category:1968 deaths]]
+[[Category:Governors of Shanxi]]
+[[Category:Delegates to the 1st National People's Congress]]
+[[Category:Delegates to the 2nd National People's Congress]]
+[[Category:Members of the Standing Committee of the 3rd Chinese People's Political Consultative Conference]]
+[[Category:Members of the Standing Committee of the 4th Chinese People's Political Consultative Conference]]
+
+
+{{China-politician-stub}}

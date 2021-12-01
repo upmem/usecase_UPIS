@@ -1,0 +1,55 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          = Ravendale
+|other_name             =
+|native_name            =  
+|nickname               = 
+|settlement_type        =[[Unincorporated area|Unincorporated community]]
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|pushpin_map            =California#USA
+|pushpin_label_position =bottom
+|pushpin_mapsize        =
+|pushpin_map_caption    =Location in California
+|pushpin_image=California Locator Map with US.PNG
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       =[[United States]] 
+|subdivision_type1      = State
+|subdivision_name1      = [[California]]
+|subdivision_type2      =County
+|subdivision_name2      = [[Lassen County, California|Lassen County]]
+|subdivision_type3      =
+|subdivision_name3      = 
+|<!-- Politics ----------------->
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|coordinates            = {{coord|40|47|55|N|120|21|55|W|region:US-CA|display=inline,title}}
+|elevation_footnotes    =  <ref name=gnis>{{gnis|231279}}</ref>
+|elevation_m            =1617 
+|elevation_ft           =5305
+|footnotes              = 
+}}
+'''Ravendale''' is an [[unincorporated area|unincorporated community]] in [[Lassen County, California|Lassen County]], [[California]].<ref name=gnis /> It is located {{convert|7|mi|km|0}} southeast of [[Termo, California|Termo]],<ref name=CGN>{{California's Geographic Names|411}}</ref> at an elevation of 5305 feet (1617 m).<ref name=gnis /> The town was a station on the [[Nevada-California-Oregon Railway]] line, but unlike many such towns, survived past the abandonment of the line in the late 1990s.<ref>{{cite book|url=https://www.google.com/books/edition/Railroads_of_Nevada_and_Eastern_Californ/dCyVDwAAQBAJ?hl=en&gbpv=1&dq=ravendale+california+railroad&pg=PT197&printsec=frontcover|title=Railroads of Nevada and Eastern California|volume=III: More on the Northern Roads|first=David F.|last=Myrick|publisher=University of Nevada Press|year=2016|location=Reno|accessdate=2020-07-06}}</ref>
+
+The Ravendale US post office opened in 1910, closed in 1920, and re-opened in 1921.<ref name=CGN /> The ZIP Code is 96123.
+
+The county maintains an unattended airstrip at the town with the FAA identifier ''O39''.<ref>{{cite web|url=https://www.airnav.com/airport/O39|publisher=AirNav.com|title=O39–Ravendale Airport|accessdate=2020-07-06}}</ref>
+
+Susanville District, Ravendale Resource Area, [[Bureau of Land Management]] operates a fire station here. The fire station transmitter call sign is KMC407. There is also a Ravendale Volunteer Fire Department.<ref>''California Department of Forestry, Lassen-Modoc Ranger Unit 2005'' annual report</ref>
+
+In 1939, Ravendale Elementary School school attendance dropped to zero students. The trustees questioned whether they were obligated to pay a teacher's salary and this matter was referred to [[California Attorney General]] [[Earl Warren]].  Warren ruled in favor of the teacher.<ref name="timpurdy">{{cite web |last1=Purdy |first1=Tim |title=Exploring Lassen County's Past: A Ravendale School Story  |url=https://www.tipurdy.org/a-ravendale-school-story/ |website=tipurdy |accessdate=14 July 2020}}</ref>
+==References==
+{{reflist}}
+
+{{Lassen County, California}}
+
+{{authority control}}
+
+[[Category:Unincorporated communities in California]]
+[[Category:Unincorporated communities in Lassen County, California]]
+
+
+{{LassenCountyCA-geo-stub}}

@@ -1,0 +1,15 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Cover art for 2013 album ''Aims'' by Vienna Teng
+|Source = https://www.amazon.com/Aims-Vienna-Teng/dp/B00FCISTRG/ref=sr_1_1?ie=UTF8&qid=1383679050&sr=8-1&keywords=aims+vienna+teng
+|Date = September 24, 2013 
+|Author = Vienna Teng
+|Article = Aims (album)
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = Small pic
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free album cover|image has rationale=yes}}

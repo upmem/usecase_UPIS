@@ -1,0 +1,48 @@
+{{Infobox Politician
+| image = 
+| name = François Croteau
+| caption = 
+| birth_date = {{Birth date and age|mf=yes|1972|01|29}}
+| birth_place =
+| death_date = 
+| residence = [[Montreal]], [[Quebec]]
+| office = Borough mayor for [[Rosemont–La Petite-Patrie]] and [[Montreal City Council]]lor
+| term_start = January 1, 2010
+| term_end = 
+| predecessor = [[André Lavallée]]
+| successor = incumbent
+| party = [[Vision Montréal]] <small>(2009-2011)</small> <br>[[Projet Montréal]] <small>(2011-)</small>
+| religion =
+| occupation = Professor
+}}
+'''François Croteau''' (born January 29, 1972) is a [[Montreal City Council|city councillor]] from [[Montreal]], [[Quebec]], Canada. He has served as the borough mayor of [[Rosemont–La Petite-Patrie]] since 2009. Elected as a member of the [[Vision Montreal]] municipal political party he crossed the floor to [[Projet Montréal]] in November 2011.<ref name="gazette">{{cite web|url=https://montrealgazette.com/news/Fran%C3%A7ois+Croteau+join+Projet+Montreal/5638147/story.html|title=Borough mayor François Croteau to join Projet Montréal |last=RAVENSBERGEN|first=JAN|date=2011-11-04|publisher=[[The Gazette (Montreal)]]|accessdate=12 February 2012}}</ref>
+
+Croteau was born and raised in [[Terrebonne, Quebec]].<ref name="official">{{cite web|url=http://ville.montreal.qc.ca/portal/page?_pageid=7357,76283683&_dad=portal&_schema=PORTAL&id=94691802|title=Détail d'un élu: Monsieur François W. Croteau|work=Arrondissement Rosemont–La Petite-Patrie|publisher=[[Montreal|Ville de Montréal]]|accessdate=12 February 2012}}</ref>
+
+He received a bachelor's degree in history, art history and sociology from the [[Université de Montréal]].<ref name="official"/><ref name="Vision">{{cite web|url=http://www.visionmtl.com/?module=directory&action=get&subMod=COM&type=2&pclass=2&uid=109|title=Un maire rockeur ! - Portrait de François Croteau|first=Les|last=jeunes|first2=Louise|last2=Harel|date=2009-10-09|publisher=[[Vision Montreal]]|accessdate=12 February 2012}}</ref> He also holds a [[Master of Business Administration]] from the [[Université du Québec à Montréal]] (UQAM).<ref name="gazette" /><ref name="official"/> He was a session lecturer at UQAM, teaching courses on city management,<ref name="Vision" /><ref name="gazette" /><ref name="official"/> and also earned a Doctorate in Urban Governance.<ref>{{cite web |title=Francois Croteau |url=http://www.projetmontreal.org/francoiscroteau |website=projetmontreal.org |publisher=Projet Montreal |accessdate=27 July 2020}}</ref> He has also served as a political staff member of [[Nicolas Girard]] the [[Parti Québécois]] MNA for [[Gouin (electoral district)|Gouin]] prior to being elected to city council.<ref name="Vision" />
+
+On June 19, 2013, he declared himself a candidate for the job of interim [[mayor of Montreal]] after the resignation of [[Michael Applebaum]].<ref>[https://montrealgazette.com/news/Coalition+crumbles+candidates+emerge+Montreal+mayor/8549892/story.html "Coalition crumbles as candidates emerge for Montreal mayor"]. ''[[The Gazette (Montreal)|The Gazette]]'', June 20, 2013.</ref> However, in the council session on June 25 to select the new interim mayor, Croteau withdrew his candidacy before the vote, supporting eventual winner [[Laurent Blanchard]].<ref>[https://montrealgazette.com/news/Laurent+Blanchard+interim+mayor+Montreal/8576137/story.html "Laurent Blanchard new interim mayor of Montreal"] {{webarchive |url=https://web.archive.org/web/20130628235448/http://www.montrealgazette.com/news/Laurent+Blanchard+interim+mayor+Montreal/8576137/story.html |date=June 28, 2013 }}. ''[[The Gazette (Montreal)|The Gazette]]'', June 25, 2013.</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.francoiscroteau.com/ Official Website]
+
+{{Montreal City Council}}
+
+{{DEFAULTSORT:Croteau, Francois}}
+[[Category:1972 births]]
+[[Category:People from Terrebonne, Quebec]]
+[[Category:Université de Montréal alumni]]
+[[Category:Université du Québec à Montréal alumni]]
+[[Category:Université du Québec à Montréal faculty]]
+[[Category:Montreal city councillors]]
+[[Category:Living people]]
+[[Category:Mayors of places in Quebec]]
+[[Category:People from Rosemont–La Petite-Patrie]]
+[[Category:21st-century Canadian politicians]]
+
+
+{{Montreal-stub}}
+{{Quebec-mayor-stub}}

@@ -1,0 +1,34 @@
+{{Infobox NRHP
+  | name = M. J. Ward Feed Mill Complex
+  | nrhp_type = hd  | nocat = yes  
+  | image = Ward Feed Mill Complex Oct 09.JPG
+  | caption = M. J. Ward Feed Mill Complex, October 2009
+  | location= 1-9 Cameron St., [[Bath (village), New York|Bath, New York]]
+  | coordinates = {{coord|42|19|57|N|77|19|24|W|display=inline,title}}
+| locmapin = New York#USA
+  | built = 1909
+  | architecture = Italianate
+  | added = March 18, 1991
+  | area = less than one acre
+  | governing_body = Private
+  | mpsub = {{NRHP url|id=64000534|title=Bath Village MRA}}
+  | refnum = 91000236<ref name="nris">{{NRISref|2009a}}</ref>
+}}
+'''M. J. Ward Feed Mill Complex''' is a national [[Historic district (United States)|historic district]] located at [[Bath (village), New York|Bath]] in [[Steuben County, New York]]. The district is a single property containing a three-story feed mill and store (1909) with attached grain handling and storage facilities (1976), a storage barn (ca 1870), and a residence (ca. 1870).<ref name="nrhpinv_ny">{{cite web|url=http://www.oprhp.state.ny.us/hpimaging/hp_view.asp?GroupView=8538|title=National Register of Historic Places Registration: M. J. Ward Feed Mill Complex|date=n.d.|accessdate=2009-10-26 |author=Kathleen LaFrank|publisher=[[New York State Office of Parks, Recreation and Historic Preservation]]}} ''See also:'' {{cite web|url=http://www.oprhp.state.ny.us/hpimaging/hp_view.asp?GroupView=8542|title=Accompanying five photos}}</ref>
+
+It was listed on the [[National Register of Historic Places]] in 1991.<ref name="nris"/>
+
+==References==
+{{reflist}}
+
+{{National Register of Historic Places in New York}}
+
+{{DEFAULTSORT:Ward, M. J., Feed Mill Complex}}
+[[Category:Grinding mills on the National Register of Historic Places in New York (state)]]
+[[Category:Historic districts on the National Register of Historic Places in New York (state)]]
+[[Category:Italianate architecture in New York (state)]]
+[[Category:Buildings and structures in Steuben County, New York]]
+[[Category:National Register of Historic Places in Steuben County, New York]]
+
+
+{{SteubenCountyNY-NRHP-stub}}

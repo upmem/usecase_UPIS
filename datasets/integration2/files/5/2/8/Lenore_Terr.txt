@@ -1,0 +1,62 @@
+{{short description|American psychiatrist}}
+
+{{Infobox scientist
+| name              = Lenore C. Terr
+| birth_date        = {{Birth year and age|1936}}
+| birth_place       = [[New York City]]<ref name="Berkmoes 1991" />
+| nationality       = American
+| fields            = Psychiatry
+| workplaces        = 
+| alma_mater        = [[University of Michigan]]
+| known_for         = 
+| awards            = Blanche F. Ittleson Award, Agnes Purcell McGavin Award
+}}
+'''Lenore C. Terr''' (born [[New York City]], 1936) is a [[psychiatrist]] and author known for her research into childhood trauma.<ref name="Berkmoes 1991">{{cite news |last1=Ver Berkmoes |first1=Ryan |title=Can you outgrow childhood trauma? |url=https://www.chicagotribune.com/news/ct-xpm-1991-06-04-9102190729-story.html |accessdate=2019-10-12 |work=[[Chicago Tribune]] |date=June 4, 1991}}</ref> Terr graduated from the [[University of Michigan]] Medical School with an MD.<ref name="Berkmoes 1991" /> She is the winner of the Blanche Ittleson Award for her research on childhood trauma.<ref>{{cite web |url=http://www.terrmd.com/LenoreTerr/AboutLenoreTerr.htm |title=About Lenore Terr, M.D. ~ Adult and Child Psychiatry |archiveurl=https://web.archive.org/web/20090419230659/http://www.terrmd.com/LenoreTerr/AboutLenoreTerr.htm |archivedate=2009-04-19}}</ref> Terr is noted for her work studying the after-effects of the [[1976 Chowchilla kidnapping]] on the 26 children who were buried alive for 16 hours after being kidnapped from a bus.<ref name="LA">{{cite news |first=Lois |last=Timnick |date=October 21, 1990|title=Coping With Trauma's Fallout : TOO SCARED TO CRY: Psychic Trauma in Childhood By Lenore Terr (Harper & Row: $21.95; 372 pp.) |url=https://www.latimes.com/archives/la-xpm-1990-10-21-bk-4114-story.html |accessdate=2019-10-12 |work=[[Los Angeles Times]]}}</ref>
+
+==''Too Scared To Cry''==
+
+Terr's book ''Too Scared to Cry'' (Basic Books, 1990) is divided into four parts focusing on childhood psychic trauma: emotions, mental work, behavior and treatment and contagion. The book describes several cases that illustrate the problem of children's statements and behaviors that are based in factitious traumatic events. Terr concludes children who suffered trauma before the age of three years are rarely able fully describe it verbally, instead reenacting events behaviorally. Terr draws on her interviews and follow-up with the victims of the [[1976 Chowchilla kidnapping]] and with a number of similar children from surrounding towns, used as a control group. Lastly, Terr notes the distinction between a single, sudden traumatic event which is accessible to verbal remembering, versus repetitive or prolonged trauma that severely compromises accurate verbal recall.
+
+==Repressed memory theory==
+
+Terr has been actively involved in advocating the psychological theory of [[repressed memory]], a controversial proposition which asserts people can recall memories which have been repressed, frequently because of trauma. According to the theory, the memory can be suddenly recalled through visual or auditory stimuli and psychological therapeutic treatment. Terr was the primary expert witness for the prosecution in the criminal case of ''[[People v. Franklin]]'' (1990)&mdash;wherein [[George Thomas Franklin]] was convicted by a jury in 1990 for the homicide of nine-year-old [[Susan Nason]], a murder that took place more than 20 years previously near [[Foster City, Calif.]] The prosecution and ultimate conviction was based solely upon the supposed recovered memory of Franklin's daughter, Eileen, who alleged she witnessed the murder and then for some reason repressed the memory for 21 years before suddenly recovering the memory of the murder and then reporting her recollection of the incident to the [[San Mateo County]], Calif., sheriff's department. Terr was the prosecution's expert witness to support the theory of repressed memory and its corresponding recovery, which was instrumental in the conviction of Franklin.<ref>{{cite book |first=Harry H. |last=McLean |author-link=Harry N. MacLean |title=Once Upon a Time: A True Story of Memory, Murder and the Law |year=1993 |location=New York |publisher=Harper Collins |isbn=9780060165437 |oclc=27265335 |url-access=registration |url=https://archive.org/details/onceupontimetru000macl }}</ref> The conviction was later reversed by a federal appeals court, partially because so-called repressed memory is not acceptable as a contributing factor to conviction in a criminal proceeding.<ref>Los Angeles Times http://articles.latimes.com/keyword/george-thomas-sr-franklin</ref><ref>Franklin v. Duncan Court Order https://scholar.google.com/scholar_case?case=3066228776991890480</ref><ref>Repressed Memory versus False Memory: Going to Court. Library Index. http://www.libraryindex.com/pages/1437/Repressed-Memory-Versus-False-Memory-GOING-COURT.html</ref><ref>Victims of the State: George Franklin. http://www.victimsofthestate.org/CA/Franklin.htm</ref><ref>Franklin v. Fox, Murray, et al. 312 F2d 423. Justia U.S. Law. http://law.justia.com/cases/federal/appellate-courts/F3/312/423/608793/</ref> 
+George Franklin was later exonerated by DNA evidence collected at the crime scene, casting further doubt on the use of repressed memories in criminal trials.  This statement is false.  There was no DNA found at the crime scene of Susan Nason's murder, other than her own.  
+
+Terr was also the chief witness of the defense in the [[Gary Ramona]] trial.<ref name=Smolowe>{{cite web |last=Smolowe |first=Jill |url=http://content.time.com/time/magazine/article/0,9171,980759,00.html |archiveurl=https://web.archive.org/web/20080421040558/http://www.time.com/time/magazine/article/0,9171,980759,00.html |archivedate=21 April 2008 |title=Dubious Memories |publisher=[[Time (magazine)|Time]] |date=23 May 1994 |accessdate=2019-10-12 |url-status=live }}</ref>
+
+==Awards==
+* 1967 — Career teacher award from the [[National Institute of Mental Health]] (NIMH).<ref>{{cite book |last1=Liu |first1=Howard Y. |last2=Hilty |first2=Donald |title=Professional Development for Psychiatrists, An Issue of Psychiatric Clinics of North America, Ebook |date=2019 |publisher=Elsevier Health Sciences |isbn=9780323661072 |url=https://books.google.com/books?id=w2yoDwAAQBAJ&pg=PA365 |page=365}}</ref>
+* Blanche F. Ittleson Award from the [[American Psychiatric Association]].
+* 2011 — Agnes Purcell McGavin Award for a Distinguished Career in Child and Adolescent Psychiatry, from the  American Psychiatric Association.<ref>{{cite journal |title=APA Council Reports |journal=American Journal of Psychiatry |date=February 2012 |volume=169 |issue=2 |pages=229–236 |doi=10.1176/appi.ajp.2012.169.2.229|doi-access=free }}</ref>
+
+==Works==
+===Scientific publications===
+* {{cite journal |last1=Terr |first1=LC |title=Children of Chowchilla: a study of psychic trauma |journal=[[The Psychoanalytic Study of the Child]] |date=1979 |volume=34 |pages=547–623 |doi=10.1080/00797308.1979.11823018 |pmid=504534}}
+* {{cite journal |last1=Terr |first1=LC |title=Medical lessons from the schoolchildren of Chowchilla |journal=[[The Journal of Pediatrics]] |date=August 1980 |volume=97 |issue=2 |pages=251–2 |doi=10.1016/s0022-3476(80)80484-7 |pmid=7400891}}
+* {{cite journal |last1=Terr |first1=LC |title=Psychic trauma in children: observations following the Chowchilla school-bus kidnapping |journal=[[The American Journal of Psychiatry]] |date=January 1981 |volume=138 |issue=1 |pages=14–9 |doi=10.1176/ajp.138.1.14 |pmid=7446775}}
+* {{cite journal |last1=Terr |first1=Lenore C. |title=Time sense following psychic trauma: A clinical study of ten adults and twenty children. |journal=American Journal of Orthopsychiatry |date=April 1983 |volume=53 |issue=2 |pages=244–261 |doi=10.1111/j.1939-0025.1983.tb03369.x}}
+* {{cite journal |last1=Terr |first1=Lenore |title=What happens to early memories of trauma? A study of twenty children under age five at the time of documented traumatic events |journal=[[Journal of the American Academy of Child and Adolescent Psychiatry]] |date=January 1988 |volume=27 |issue=1 |pages=96–104 |doi=10.1097/00004583-198801000-00015 |pmid=3343214}}
+* {{cite journal |last1=Terr |first1=Lenore C. |title=Treating psychic trauma in children: A preliminary discussion |journal=Journal of Traumatic Stress |date=January 1989 |volume=2 |issue=1 |pages=3–20 |doi=10.1007/BF00975763|s2cid=144217910 }}
+* {{cite journal |last1=Terr |first1=Lenore C. |last2=Bloch |first2=Daniel A. |last3=Michel |first3=Beat A. |last4=Shi |first4=Hong |last5=Reinhardt |first5=John A. |last6=Metayer |first6=SuzAnne |title=Children's symptoms in the wake of Challenger: a field study of distant-traumatic effects and an outline of related conditions |journal=American Journal of Psychiatry |date=October 1999 |volume=156 |issue=10 |pages=1536–1544 |doi=10.1176/ajp.156.10.1536 |doi-access=free |pmid=10518163}}
+* {{cite journal |last1=Terr |first1=LC |title=What becomes of infantile traumatic memories? An adult "wild child" is asked to remember |journal=[[The Psychoanalytic Study of the Child]] |date=2013 |volume=67 |pages=197–214 |doi=10.1080/00797308.2014.11785495 |pmid=26072564|s2cid=42468640 }}</ref>
+
+===Books===
+* {{cite book |title=Too Scared to Cry: Psychic Trauma in Childhood |date=1992 |publisher=Basic Books |isbn=9780465086443 |url-access=registration |url=https://archive.org/details/tooscaredtocryps00terr }}
+* {{ cite book |title=Unchained Memories: True Stories of Traumatic Memories Lost and Found |publisher=Basic Books |year=1995 |isbn=9780465088232 |oclc=819605666}}
+* {{cite book |title=Beyond Love and Work |publisher=Scribner |location=New York |year=1999 |isbn=9780684822396 |oclc=924270945 |url-access=registration |url=https://archive.org/details/beyondloveworkwh00terr }}
+* {{cite book |first=Lenore |last=Terr |display-authors=0 |editor-last1=Figley |editor-first1=Charles R. |title=Mapping Trauma and its Wake: Autobiographic Essays by Pioneer Trauma Scholars |date=2006 |publisher=Routledge |isbn=978-0-415-95140-1 |chapter=13. Memoirs of a childhood trauma hunter}}
+* {{cite book |title=Magical Moments of Change: How Psychotherapy Turns Kids Around |publisher=WW Norton & Company |location=New York |year=2008 |isbn=9780393705300 |oclc=476908893 |url-access=registration |url=https://archive.org/details/magicalmomentsof00terr }}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Terr, Lenore}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:American psychiatrists]]
+[[Category:University of California, San Francisco faculty]]
+[[Category:Child psychologists]]
+[[Category:University of Michigan Medical School alumni]]
+[[Category:American women psychiatrists]]

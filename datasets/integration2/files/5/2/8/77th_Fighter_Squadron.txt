@@ -1,0 +1,195 @@
+{{Redirect|77th Aero Squadron|the 77th Aero Squadron established in August 1917|489th Attack Squadron}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox military unit
+|unit_name= 77th Fighter Squadron
+<center>[[File:Air Combat Command.png|60px]]</center>
+|image=77th Fighter Squadron - General Dynamics F-16C Block 50C Fighting Falcon - 91-0359.jpg
+|image_size=300
+|caption=77th Fighter Squadron [[F-16C Fighting Falcon]]<ref group=note>Aircraft is General Dynamics F-16C Block 50C serail 91-359.  Taken during Red Flag 09-4 at [[Nellis AFB]], Nevada on 14 July 2009</ref>
+|dates=1918; 1930–1945; 1946–1993; 1994–present
+|country={{USA}}
+|branch={{air force|USA}}
+|type= 
+|role=[[Fighter aircraft|Fighter]]
+|size=
+|command_structure=[[Air Combat Command]]
+|current_commander=
+|garrison= [[Shaw Air Force Base]]
+|ceremonial_chief=
+|colonel_of_the_regiment=
+|nickname= "The Gamblers"<BR>"All Aces, No Jokers"{{citation needed|date=September 2017}}
+|patron=
+|motto=
+|colors=
+|march=
+|mascot=
+|battles=[[European Theater of Operations]]<br/>[[Desert Storm]]<br/>[[Global War on Terror]]<ref name=77FSfacts>{{cite web |url= http://www.afhra.af.mil/About-Us/Fact-Sheets/Display/Article/433637/77-fighter-squadron-acc/ |last1=Dollman|first1=David|title=Factsheet 77 Fighter Squadron (ACC)|date=13 October 2016|publisher=Air Force Historical Research Agency|url-status=live |accessdate=23 September 2017}}</ref>
+|notable_commanders=[[General (United States)|General]] [[F. Michael Rogers]]
+|anniversaries=
+|decorations=[[Distinguished Unit Citation]]<br/>[[Air Force Meritorious Unit Award]]<br/>[[Air Force Outstanding Unit Award]]<ref name=77FSfacts/>
+|battle_honours=
+<!-- Insignia -->
+|identification_symbol=[[File:77th Fighter Squadron.png|150px]]
+|identification_symbol_label=77th Fighter Squadron emblem <small>(revised 9 March 1995)</small><ref name=77FSfacts/>
+|identification_symbol_2=[[File:77 Pursuit Sq emblem.png|150px]]
+|identification_symbol_2_label=77th Pursuit Squadron emblem <small>(approved 29 August 1931)</small><ref name=Maurer77FS>Maurer, ''Combat Squadrons'', pp. 277–278</ref>
+}}
+
+The '''77th Fighter Squadron''' is part of the [[20th Fighter Wing]] at [[Shaw Air Force Base]], South Carolina.  It operates the [[General Dynamics F-16 Fighting Falcon]] aircraft conducting air superiority missions.
+
+The squadron is one of the oldest in the United States Air Force, its origins dating to 20 February 1918, being organized at [[Rich Field]], Waco Texas, as a pilot training Squadron during [[World War I]].   The squadron saw combat during [[World War II]], and became part of the [[United States Air Forces in Europe]] during the [[Cold War]].
+
+==History==
+===Early history===
+The 77th Aero Service Squadron was organized at [[Rich Field]], Texas on 20 February 1918 with 2Lt. George P. Southworth as the squadron's first commander.  On 28 February the squadron along with the [[78th Fighter Squadron|78th]] and [[79th Aero Squadron]]s (which had also been born at Rich Field) moved by train on the [[Missouri–Kansas–Texas Railroad]] (commonly known as the Katy Railway) to Taliaferro Field #1 (later named [[Hicks Field]]), Texas.  The 77th would then move to Taliaferro Field # 2 (later named [[Barron Field]]), Texas on 18 March 1918.  In May 1918 2Lt. John Mason Tilney became squadron commander.  On 21 July 1918 the 77th was redesignated '''Squadron A, Barron Field, Texas'''.  A letter dated 24 July 1918 states "The use of numerical designations of squadrons will be restricted to those overseas and the eighty reserve squadrons authorized to be established at all times in this country".{{citation needed|date=September 2017}}  The vacated numbers were to be assigned to new squadrons as they were organized to replace squadrons shipped overseas.  Some time after the squadrons designation was changed 2Lt. Edward S. Winfree took command and finally 2Lt. Hugh C. Downey became the squadron's last commander.
+
+The 77th and later Squadron "A" provided personnel for base administrative activities and for various positions needed to maintain operations on Barron Field.  The squadron was officially demobilized on 18 November 1918, but recently found documents seem to show the unit was not demobilized until March 1919.
+
+There is also evidence that another 77th Aero Service Squadron may have existed.  A letter from the Office Director Military Aeronautics Operations Section to Commander Barron Field dated 23 September 1918 requests that the records for the 77th Aero Service Squadron (renamed Squadron "A" by this time) be sent to Aviation General Supply Depot and Concentration Camp, Garden City, Long Island, New York for reorganization of the 77th.
+
+The 77th (Squadron A) was reconstituted and consolidated with the 77th Observation squadron in 1936.  The 77th Observations Squadron was constituted on 8 May 1929 and then was redesignated as the 77th Pursuit Squadron on 8 May 1929 but not activated.  On 15 November the 77th Pursuit Squadron activated as the first tactical unit assigned to the [[20th Pursuit Group]] at [[Mather Field]], California, with an officer strength of four.  Basically in 1936 the 77th Pursuit Squadron had its history merged with that of the 77 Aero Squadron (Squadron A).
+
+===World War II===
+[[File:20fg-p38-lc-c.jpg|thumb|77th Fighter Squadron P-38 (LC-C) at RAF Kings Cliffe, England during World War II.]]
+From 1930 until 1943, the squadron moved back and forth across the country with the 20th Group, flying several different aircraft, including the [[Boeing P-26 Peashooter]], [[Curtiss P-36 Hawk]], [[Lockheed P-38 Lightning]], [[Bell P-39 Airacobra]] and the [[Curtiss P-40 Warhawk]]. In January 1943, the 77th settled at [[March Field]], California, in time to be reassigned to England and the European Theater of Operations during World War II. The 77th, now designated a fighter squadron, arrived at [[RAF Kings Cliffe]], Northamptonshire, England, in August 1943, flying the P-38. The 77th entered combat operations in November 1943, flying combat missions until 25 April 1945, when, armed with P-51 Mustangs, they began escorting "heavies" to Pilzen, Czechoslovakia, in one of the last raids of the war.
+
+The 77th was instrumental in the 20th Group achieving its kill record of 432 enemy aircraft, 400 locomotives, 1,555 freight cars, 94 ammunition cars and 536 motor vehicles destroyed. The 77th left King's Cliffe, England, in the summer of 1945 and was inactivated in October 1945.
+
+===Cold War===
+[[File:77th Fighter Squadron F-84Gs RAF Wethersfield.jpg|thumb|F-84Gs of the 77th Tactical Fighter Squadron/20th Tactical Fighter Wing at RAF Wethersfeld, UK - Early 1950s]]
+The 77th and the 20th Group were reactivated in July 1946 at [[Biggs Field]], Texas. Between 1946 and 1952 the squadron moved to [[Shaw Field]], South Carolina, and then to [[Langley Air Force Base]], Virginia, becoming the '''77th Fighter-Bomber Squadron''' and transitioning to the [[Republic F-84 Thunderjet]].
+
+In May 1952, the 77th and the 20th were reassigned to [[RAF Wethersfield]], England. In 1957, the squadron transitioned to the [[North American F-100 Super Sabre]] and a year later was designated a tactical fighter squadron flying the "Hun" for 11 more years in support of the [[North Atlantic Treaty Organization]] commitment. In 1969, the 77th and the [[-20th Tactical Fighter Wing]] began moving to [[RAF Upper Heyford]] and converted to the fighter-bomber version of the [[General Dynamics F-111 Aardvark]], utilizing the F-111E model.
+
+===Modern era===
+The 77th Fighter Squadron was inactivated on 30 September 1993 and then reactivated at Shaw Air Force Base, South Carolina, on 1 January 1994. The squadron acquired F-16 aircraft and Airmen of the 17th Fighter Squadron that inactivated that same day. In 1996, the 77th deployed to Southwest Asia.
+
+In 1999 and 2001, the 77th deployed to Southwest Asia flying missions over Iraq in support of [[Operation Northern Watch]]. The squadron also deployed in support of [[Operation Allied Force]] and [[Operation Desert Fox]] in 1999. In 1997 and 2000, the 77th deployed to Southwest Asia flying missions over Iraq in support of [[Operation Southern Watch]]. In between deployments from 2001 to 2006, the 77th Fighter Squadron provided escort security to the President of the United States and [[Air Force One]] as part of [[Operation Noble Eagle]] and flew security missions daily over the Eastern Seaboard.
+
+The 77th was awarded the 20th Fighter Wing Fighter Squadron of the Year in 1998 and 2000. In 2001, the squadron participated in many other deployments. From July to Sept. 2002, the 77th deployed to Operation Northern WatchH. From February 2003 to May 2003, the squadron deployed to [[Prince Sultan Air Base]], Saudi Arabia Asia in support of [[Operation Iraqi Freedom]].
+
+Two F-16s from the squadron collided during a training flight on 15 October 2009.  One F-16, piloted by Captain Lee Bryant, was able to land safely at [[Charleston Air Force Base]], South Carolina.<ref>''[[The Washington Post]]'', "Plane Search Expands; Debris Seen in Atlantic", 17 October 2009.</ref> The other jet, piloted by Captain Nicholas Giglio, 32, apparently crashed into the ocean.  Authorities believe that Giglio was killed instantly in the collision and did not eject.<ref>{{cite web|url= http://militarytimes.com/news/2009/10/ap_f16_collision_101809/ |last1=Collins|first1=Jeffrey (Associated Press)|title=Missing F-16 pilot had no chance to eject|date=18 October 2009|work=Military Times|url-status=dead|archiveurl= https://web.archive.org/web/20120321043940/http://militarytimes.com/news/2009/10/ap_f16_collision_101809/ |archivedate=21 March 2012|accessdate=23 September 2017}}</ref>
+
+====2013 Sequestration====
+[[Air Combat Command]] officials announced a stand down and reallocation of flying hours for the rest of the fiscal year 2013 due to mandatory budget cuts.   The across-the board spending cuts, called sequestration, took effect 1 March when Congress failed to agree on a deficit-reduction plan.<ref name="AFT">{{Cite news|url=http://www.militarytimes.com/story/military/archives/2013/04/08/reduced-flying-hours-forces-grounding-of-17-usaf-combat-air/78539120/|title=Reduced flying hours forces grounding of 17 USAF combat air squadrons|last=Everstein|first=Brian|date=8 April 2013|work=Military Times|last2=Weisgerber|first2=Marcus|access-date=4 October 2016}}</ref>
+
+Squadrons either stood down on a rotating basis or kept combat ready or at a reduced readiness level called "basic mission capable" for part or all of the remaining months in fiscal 2013.<ref name="AFT"/> This affected the 77th Fighter Squadron with a stand-down grounding from 9 April-30 September 2013.<ref name="AFT"/>
+
+==Lineage==
+; Squadron A, Barron Field
+* Organized as the '''77th Aero Squadron''' on 20 February 1918<ref group=note>This squadron is not related to an earlier 77th Aero Squadron, which was formed at [[Kelly Field]] in August 1917, and became the [[489th Aero Squadron]] (Construction).</ref>
+: Redesignated '''Squadron A, Barron Field, Texas''' on 21 July 1918
+: Demobilized on 18 November 1918
+: Reconstituted and consolidated with the '''77th Pursuit Squadron''' as the '''77th Pursuit Squadron''' on 1 October 1936<ref name="Clay">Clay, pp. 1426–1427</ref><ref name=77FSfacts2>Lineage information in Dollman, except as indicated.</ref>
+
+; 77th Fighter Squadron
+* Constituted as the '''77th Observation Squadron''' on 18 October 1927
+: Organized with reserve personnel on 16 May 1928<ref name="Clay"/>
+: Redesignated '''77th Pursuit Squadron''' on 8 May 1929
+: Activated on 15 November 1930
+: Consolidated with Squadron A, Barron Field, Texas on 1 October 1936<ref name="Clay"/>
+: Redesignated '''77th Pursuit Squadron''' (Fighter) on 6 December 1939
+: Redesignated '''77th Pursuit Squadron''' (Interceptor) on 12 March 1941
+: Redesignated '''77th Fighter Squadron''' on 15 May 1942
+: Redesignated '''77th Fighter Squadron (Twin Engine)''' on 30 December 1942
+: Redesignated '''77th Fighter Squadron''', Two Engine on 20 August 1943
+: Redesignated '''77th Fighter Squadron''', Single Engine on 5 September 1944
+: Inactivated on 18 October 1945
+* Activated on 29 July 1946
+: Redesignated '''77th Fighter Squadron''', Jet on 15 June 1948
+: Redesignated '''77th Fighter-Bomber Squadron''' on 20 January 1950
+: Redesignated '''77th Tactical Fighter Squadron''' on 8 July 1958
+: Redesignated '''77th Fighter Squadron''' on 1 October 1991
+: Inactivated on 30 September 1993
+* Activated on 1 January 1994<ref name="77FSfacts2"/>
+
+===Assignments===
+* Post Headquarters, Rich Field, 20 February 1918<ref name="OOB">Order of Battle of the United States Land Forces in the First World War, Vol. 3, Part 3, p. 1014</ref>
+* Post Headquarters, Hicks Field, February 1918<ref name="OOB"/>
+* Post Headquarters, Barron Field, March-18 November 1918<ref name="OOB"/>
+* VIII Corps Area, 16 May 1928<ref name="Clay"/>
+* [[20th Pursuit Group]] (later 20th Fighter Group), 15 November 1930&nbsp;– 18 Oct 1945
+* 20th Fighter Group (later 20th Fighter-Bomber Group), 29 July 1946 (attached to [[20th Fighter-Bomber Wing]] after 15 November 1952)
+* 20th Fighter-Bomber Wing (later 20th Tactical Fighter Wing), 8 February 1955 (attached to [[39th Tactical Group]], 1–31 August 1990 and February 1991)
+* 20th Operations Group, 31 March 1992&nbsp;– 30 September 1993
+* 20th Operations Group, 1 January 1994 – present<ref>Assignment information in Dollman, except as indicated.</ref>
+
+===Stations===
+{{col-begin}}
+{{col-break|width=50%}}
+* Rich Field, Texas, 20 February 1918
+* Taliaferro Field No. 1 (later, Hicks Field), Texas, February 1918
+* Taliaferro Field No. 2, (later, Barron Field) Texas, March-18 November 1918
+* Mather Field, California, 15 November 1930
+* [[Barksdale Field]], Louisiana, 31 October 1932
+* [[Moffett Field]], California. 19 November 1939
+* [[Hamilton Air Force Base|Hamilton Field]], California, 9 September 1940
+* [[Bluethenthal Field]], North Carolina, c. 21 February 1942
+* [[Morris Field]], North Carolina, 24 April 1942
+* [[Drew Field]], Florida, August 1942
+* [[Paine Field]], Washington, 30 September 1942
+* March Field, California, c. 1 January–11 August 1943
+{{col-break|width=50%}}
+* RAF Kings Cliffe (AAF-367), England, c. 27 August 1943&nbsp;– 11 October 1945
+* [[Camp Kilmer]], New Jersey, 16–18 October 1945
+* Biggs Field, Texas, 29 July 1946
+* Shaw Field (later Shaw Air Force Base), South Carolina, c. 25 October 1946
+* Langley Air Force Base, Virginia, 19 November 1951&nbsp;– 22 May 1952
+* [[RAF Wethersfield]], England, 1 June 1952
+* [[RAF Shepherds Grove]], England, 9 August 1955
+* RAF Wethersfield, England, 27 April 1956
+* RAF Upper Heyford, England, c. 1 May 1970&nbsp;– 30 September 1993
+: Deployed at [[Incirlik Air Base]], Turkey, 1–31 August 1990 and February 1991
+* Shaw Air Force Base, South Carolina, 1 January 1994 – present<ref name=77FSfacts/>
+{{col-end}}
+
+===Aircraft===
+{{col-begin}}
+{{col-break|width=50%}}
+* [[Curtiss JN-4]], JN-6, and perhaps [[Thomas-Morse S-4]] during 1918
+* [[Boeing P-12]], 1930–1935
+* [[Dayton-Wright DH-4]] during 1931
+* Boeing P-26 Peashooter, 1934–1938
+* Curtiss P-36 Hawk, 1938–1940
+* Curtiss P-40 Warhawk, 1940–1942
+* Bell P-39D Airacobra, 1942–1943
+* Lockheed P-38H Lightning, 1943–1944
+* Lockheed P-38J Lightning, 1943–1944
+{{col-break|width=50%}}
+* [[North American P-51C Mustang]], 1944–1945
+* North American P-51D Mustang, 1944–1945
+* North American P-51K Mustang 1946–1948
+* Republic F-84D Thunderjet, 1948–1951
+* Republic F-84G Thunderjet, 1951–1957
+* [[F-100D Super Sabre]], 1957–1970
+* [[General Dynamics F-111E]], 1970–1993
+* [[F-16C/D Fighting Falcon]] (Block 50), 1994–Present<ref name=77FSfacts/><ref>{{cite web |url= http://www.f-16.net/units_article91.html |title=77th Fighter Squadron (USAF, ACC) "The Gamblers"|publisher=F-16.net The Ultimate F-16 Site|url-status=live |accessdate=23 September 2017}}</ref>
+{{col-end}}
+
+==See also==
+{{Portal|World War I|World War II}}
+* [[List of American Aero Squadrons]]
+* [[Dan "Two Dogs" Hampton]]
+
+==References==
+===Notes===
+; Explanatory notes
+{{reflist|group=note}}
+
+; Citations
+{{reflist|40em}}
+
+===Bibliography===
+{{Air Force Historical Research Agency}}
+* {{cite book|url =http://usacac.army.mil/cac2/cgsc/carl/download/csipubs/OrderOfBattle/OrderofBattle3.pdf|title=US Army Order of Battle 1919-1941|last=Clay|first=Steven E.|publisher=Combat Studies Institute Press|year=2011|isbn=978-0-98419-014-0|volume=Vol. 3 The Services: Air Service, Engineers, and Special Troops 1919-1941|location=Fort Leavenworth, KS|lccn=2010022326|oclc=637712205|accessdate=16 October 2012}}
+* {{cite book|editor=Maurer, Maurer|title=Air Force Combat Units of World War II|origyear= 1961|url= http://media.defense.gov/2010/Sep/21/2001330256/-1/-1/0/AFD-100921-044.pdf|accessdate= 17 December 2016|edition=reprint|year=1983|publisher= Office of Air Force History|location=Washington, DC|isbn=0-912799-02-1|lccn=61060979}}
+* {{cite book|editor=Maurer, Maurer|title=Combat Squadrons of the Air Force, World War II|origyear=1969|url= http://media.defense.gov/2010/Dec/02/2001329899/-1/-1/0/AFD-101202-002.pdf |edition= reprint|accessdate= 17 December 2016|year=1982|publisher=Office of Air Force History|location=Washington, DC|isbn=0-405-12194-6|oclc=72556|lccn=70605402}}
+* {{cite book|last=Ravenstein|first=Charles A.|title=Air Force Combat Wings, Lineage & Honors Histories 1947-1977|url=https://archive.org/details/airforcecombatwi0000rave|accessdate=17 December 2016|year=1984|publisher=Office of Air Force History|location=Washington, DC|isbn=0-912799-12-9|url-access=registration}}
+* {{cite book|title=Order of Battle of the United States Land Forces in the World War|url= http://www.history.army.mil/html/books/023/23-5/index.html |accessdate=22 January 2017|edition=Reprint|volume=Vol. 3, Part 3 Zone of the Interior: Directory of Troops|origyear=1949|year=1988|publisher=Center of Military History|location=Washington, DC}}
+
+==External links==
+{{Commons category|77th Fighter Squadron (United States Air Force)}}
+
+[[Category:Fighter squadrons of the United States Air Force|077]]
+[[Category:Military units and formations in South Carolina]]
+[[Category:Fighter squadrons of the United States Army Air Forces|077]]

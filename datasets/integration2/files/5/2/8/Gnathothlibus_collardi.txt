@@ -1,0 +1,30 @@
+{{Taxobox
+|image = Gnathothlibus x collardi, male, upperside. Tahiti, Vallee de Paperoo.jpg
+|regnum = [[Animalia]]
+|phylum = [[Arthropoda]]
+|classis = [[Insecta]]
+|ordo = [[Lepidoptera]]
+|familia = [[Sphingidae]]
+|genus = ''[[Gnathothlibus]]''
+|species = '''''G. collardi'''''
+|binomial = ''Gnathothlibus collardi''
+|binomial_authority = Haxaire, 2002<ref>{{cite web|url=http://www.cate-sphingidae.org/taxonomy/Gnathothlibus/collardi.html|archiveurl=https://web.archive.org/web/20131202231254/http://www.cate-sphingidae.org/taxonomy/Gnathothlibus/collardi.html|archivedate=2013-12-02|url-status=dead|title=CATE Creating a Taxonomic eScience - Sphingidae|publisher=Cate-sphingidae.org|accessdate=October 20, 2011}}</ref>
+}}
+'''''Gnathothlibus collardi''''' is a [[moth]] of the family [[Sphingidae]]. It is a hybrid between a female ''[[Philodila astyanor]]'' and a male ''[[Gnathothlibus eras]]''. It is known from [[Tahiti]].
+
+The length of the forewings is about {{convert|35|mm}}. It is similar to ''[[Gnathothlibus eras]]'' but the forewings are rather more similar to ''[[Gnathothlibus saccoi]]'' and the hindwings are identical to ''[[Gnathothlibus dabrera]]''. The forewing outer margin is slightly angled. The underside of the thorax are darker and more orange-pink, thus contrasting less with the underside of the abdomen than in ''Gnathothlibus eras''. The forewing upperside pattern is more contrasting than in ''Gnathothlibus dabrera'' or ''Gnathothlibus eras'', but most similar to ''Gnathothlibus saccoi''. The forewing underside is lacking the narrow black line running inward from the apex of ''Gnathothlibus eras'' and the basal yellow area is barely extending to the end of the discal cell. There is a brown and broad marginal band on the hindwing, with an irregular inner margin produced as narrow streaks along the veins.
+
+==Taxonomy==
+''Gnathothlibus collardi'' was described as a species, but by combining barcodes, [[morphology (biology)|morphology]] and a nuclear marker, research has shown that it is actually an F1 hybrid between two closely related species.<ref>{{cite journal|url= http://www.publish.csiro.au/view/journals/dsp_journal_fulltext.cfm?nid=120&f=IS12029|title=DNA barcodes and morphology reveal a hybrid hawkmoth in Tahiti (Lepidoptera: Sphingidae)|publisher=[[CSIRO Publishing|CSIRO]]}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5574167}}
+
+[[Category:Gnathothlibus|collardi]]
+[[Category:Moths described in 2002]]
+[[Category:Endemic fauna of Tahiti]]
+
+
+{{Macroglossini-stub}}

@@ -1,0 +1,48 @@
+{{navbox
+|name   = Catholic Church in Switzerland
+|title  = [[Catholic Church in Switzerland]]
+|listclass = hlist
+| basestyle = background-color:gold
+|image = [[File:Fribourg Kathedrale.JPG|103px|Fribourg Cathedral]]
+
+|group1 = [[List of Catholic dioceses in Switzerland|Dioceses]]
+|list1  =
+* [[Roman Catholic Diocese of Basel|Basel]]
+* [[Roman Catholic Diocese of Chur|Chur]]
+* [[Roman Catholic Diocese of Lausanne, Geneva and Fribourg|Lausanne, Geneva and Fribourg]]
+* [[Roman Catholic Diocese of Lugano|Lugano]]
+* [[Roman Catholic Diocese of Saint Gallen|Saint Gallen]]
+* [[Roman Catholic Diocese of Sion|Sion]]
+
+|group2 = Cathedrals
+|list2  =
+* [[Solothurn Cathedral|Solothurn]]
+* [[Chur Cathedral|Chur]]
+* [[Fribourg Cathedral|Fribourg]]
+* [[Lugano Cathedral|Lugano]]
+* [[Abbey of Saint Gall|Saint Gallen]]
+* [[Sion Cathedral|Sion]]
+
+|group3 = [[Territorial abbey]]s 
+|list3  =
+* [[Abbey of St. Maurice, Agaunum|St. Maurice's Abbey]]
+* [[Einsiedeln Abbey]]
+
+|group4 = [[Catholic lay organisations]]
+|list4  =
+* [[Jungwacht Blauring]]
+* See also: [[Swiss Guard]]
+
+| belowclass = hlist
+| below =
+* See also: [[Swiss Bishops Conference]]
+* {{portal-inline|Catholicism|size=tiny}}
+* {{portal-inline|Switzerland|size=tiny}}
+
+}}
+<noinclude>
+{{collapsible option}}
+[[Category:Catholic navigational boxes by region]]
+[[Category:Switzerland templates]]
+[[Category:Switzerland navigational boxes]]
+</noinclude>

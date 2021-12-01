@@ -1,0 +1,36 @@
+{{Infobox settlement
+| name = Paustry
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline = Paustry-bocianie gniazdo 2.jpg
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Bartoszyce County|Bartoszyce]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Górowo Iławeckie]]
+| elevation_m =
+| population_total =
+| website = }}
+'''Paustry''' {{IPAc-pl|'|p|a|U|s|t|r|y}} ({{lang-de|Paustern}}) is a [[village]] in the administrative district of [[Gmina Górowo Iławeckie]], within [[Bartoszyce County]], [[Warmian-Masurian Voivodeship]], in northern Poland, close to the border with the [[Kaliningrad Oblast]] of [[Russia]].<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref>
+
+Before 1945 the area was part of Germany ([[East Prussia]]).
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Górowo Iławeckie}}
+
+{{coord|54|18|09|N|20|27|16|E|type:city_source:kolossus-plwiki|display=title}}
+
+[[Category:Villages in Bartoszyce County|Paustry]]
+
+
+{{Bartoszyce-geo-stub}}

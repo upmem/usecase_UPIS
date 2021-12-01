@@ -1,0 +1,11 @@
+{{#if:yes|<noinclude>[[Category:Passed DYK nominations&nbsp;from December 2012]]<div style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived discussion of the DYK nomination of the article below. <span style="color:red">'''Please do not modify this page.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as [[{{TALKPAGENAME}}|this nomination's talk page]], [[Talk:{{SUBPAGENAME}}|the article's talk page]] or [[Wikipedia talk:Did you know]]), unless there is consensus to re-open the discussion at this page.  '''No further edits should be made to this page'''.''
+
+The result was: '''promoted''' by [[User:BlueMoonset|BlueMoonset]] ([[User talk:BlueMoonset|talk]]) 19:40, 13 December 2012 (UTC)<br />}}
+====Sam Pek Eng Tay====
+{{DYK nompage links|nompage=Sam Pek Eng Tay|Sam Pek Eng Tay}}
+*... that '''''[[Sam Pek Eng Tay]]''''' was [[The Teng Chun]]'s first in a series of film adaptations of [[Chinese myths]]?
+:*''Reviewed'': [[Template:Did you know nominations/Obamadon|Obamadon]]
+<small>Created/expanded  by [[User:Crisco 1492|Crisco 1492]] ([[User talk:Crisco 1492|talk]]).  Self nom at 14:57, 11 December 2012 (UTC)</small>
+
+:*[[File:Pictogram voting keep.svg|16px]] AGF on the Indonesian, age and size check out. Hook referenced. [[User:Casliber|Casliber]] ([[User talk:Casliber|talk]] '''·''' [[Special:Contributions/Casliber|contribs]]) 00:40, 13 December 2012 (UTC){{#if:yes|</div></noinclude>|{{#ifeq:{{FULLPAGENAME}}|Template talk:Did you know/{{SUBPAGENAME}}|[[Category:Pending DYK nominations]]|{{#ifeq:{{FULLPAGENAME}}|Template:Did you know nominations/{{SUBPAGENAME}}|[[Category:Pending DYK nominations]]}}}}}}<!--Please do not write below this line or remove this line. Place comments above this line.-->

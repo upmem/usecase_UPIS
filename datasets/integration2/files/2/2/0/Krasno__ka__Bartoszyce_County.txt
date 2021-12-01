@@ -1,0 +1,40 @@
+{{see also|Krasnołąka, Działdowo County}}
+{{Infobox settlement
+| name = Krasnołąka
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Bartoszyce County|Bartoszyce]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Górowo Iławeckie]]
+| pushpin_map = Poland
+| coordinates = {{coord|54|19|N|20|31|E|region:PL|display=inline}}
+| elevation_m =
+| population_total = 320
+| website = }}
+'''Krasnołąka''' {{IPAc-pl|k|r|a|s|n|o|'|ł|o|n|k|a}} ({{lang-de|Schönwiese}})<ref name="Former Territory of Germany">{{cite web |url=http://gov.genealogy.net/item/show/SCHESEKO04GH |title=Former Territory of Germany|date=2017-11-08 |language=German}}</ref> is a [[village]] in the administrative district of [[Gmina Górowo Iławeckie]], within [[Bartoszyce County]], [[Warmian-Masurian Voivodeship]], in northern Poland, close to the border with the [[Kaliningrad Oblast]] of [[Russia]].<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|6|km|mi|0}} north of [[Górowo Iławeckie]], {{convert|20|km|mi|0|abbr=on}} west of [[Bartoszyce]], and {{convert|60|km|mi|0|abbr=on}} north of the regional capital [[Olsztyn]].
+
+The village has a population of 320.
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Górowo Iławeckie}}
+
+{{coord|54.3186|N|20.5172|E|region:PL_type:city_source:enwiki-GNS-gminamatcher|display=title}}
+
+{{DEFAULTSORT:Krasnolaka, Bartoszyce County}}
+[[Category:Villages in Bartoszyce County]]
+
+
+{{Bartoszyce-geo-stub}}

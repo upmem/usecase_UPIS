@@ -1,0 +1,69 @@
+{{coord|40|36|N|44|01|E|display=title}}
+{{Infobox settlement
+|official_name =Nahapetavan
+|native_name =Նահապետավան 
+|pushpin_map =Armenia
+|mapsize =150px
+|subdivision_type = Country
+|subdivision_name = [[Armenia]]
+|subdivision_type1 = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1 =[[Shirak Province|Shirak]]
+|leader_title = 
+|leader_name = 
+|established_title =
+|established_date = 
+|area_total_km2 = 
+|area_footnotes = 
+|population_as_of = 2001
+|population_total =817
+|population_density_km2 =
+|timezone =&nbsp;
+|utc_offset = +4
+|timezone_DST =&nbsp; 
+|utc_offset_DST = +5
+|coordinates = {{coord|40|36|N|44|01|E|region:AM|display=inline}}
+|elevation_m = 
+|area_code = 
+|website = 
+}}
+'''Nahapetavan''' ({{lang-hy|Նահապետավան}}, also [[Romanize]]d as '''Nagapetavan'''; until 1935, '''Khachakilisa''', from 1935 to 1961, '''Paros''') is a village in the [[Shirak Province]] of [[Armenia]]. The town was renamed in 1961 in honor of [[Nahapet Kurghinian|Nagapet (or Nahapet) Kurghinian]], a participant in the Bolshevik uprising in May 1920.<ref>Kiesling, ''Rediscovering Armenia'', p. 77, available online at the [http://yerevan.usembassy.gov/armenia.pdf US embassy to Armenia's website] {{webarchive|url=https://web.archive.org/web/20080626205330/http://yerevan.usembassy.gov/armenia.pdf |date=2008-06-26 }}</ref>
+
+==Population==
+Population per years is the following.<ref name=arm_gyux>{{cite web|url=http://www.cadastre.am/storage/files/pages/pg_907871769_HH_bnak._bar..pdf |title=Dictionary of Armenian residences (Հայաստանի հանրապետության բնակավայրերի բառարան), page 143|date= |accessdate=April 18, 2014}}</ref>
+
+{| class="wikitable"
+! Year
+| 1873
+| 1897
+| 1926
+| 1939
+| 1959
+| 1970
+| 1979
+| 2001
+| 2004
+|-
+! Pop.
+| 293
+| 465
+| 622
+| 518
+| 647
+| 655
+| 650
+| 817
+| 1032
+|-
+|}
+
+== References ==
+{{reflist}}
+*{{GEOnet|32FA881E6C363774E0440003BA962ED3}}
+*{{ArmenianCensus|194}}
+
+{{Shirak}}
+
+[[Category:Populated places in Shirak Province]]
+
+
+{{Shirak-geo-stub}}

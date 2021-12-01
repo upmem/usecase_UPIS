@@ -1,0 +1,35 @@
+<!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|djevara.bandcamp.com]]
+== Links ==
+* {{LinkSummary|djevara.bandcamp.com}}
+:* djevara.bandcamp.com resolves to [//67.228.60.226 67.228.60.226]
+:*: {{LinkSummary|67.228.60.226}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Djevbunny2}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=75421018|lang=en|wikidomain=w|namespace=|pagename=Djevara|username=Djevbunny2|link=djevara.bandcamp.com/album/god-is-white|sortdomain=com.bandcamp.djevara.|domain=djevara.bandcamp.com|origdiff=https://en.wikipedia.org/w/index.php?diff=681780856&oldid=681779829|resolved=X|isIP=0|date=2015-09-19|time=13:41:40|wiki=en.wikipedia.org|revid=681780856|oldid=681779829|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=6|top=1|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=djevara.bandcamp.com/album/viva-punk-is-not-a-sound|domain=djevara.bandcamp.com|U=6|L=6|UL=6|WUL=0}}{{User:COIBot/OtherLinks|link=djevara.bandcamp.com/album/redux-divided-we-fall|domain=djevara.bandcamp.com|U=6|L=6|UL=6|WUL=0}}{{User:COIBot/OtherLinks|link=djevara.bandcamp.com/album/the-rising-tide-part-2-hear-no-evil|domain=djevara.bandcamp.com|U=6|L=6|UL=6|WUL=0}}{{User:COIBot/OtherLinks|link=djevara.bandcamp.com/album/the-rising-tide-part-1-corsa-al-ribasso|domain=djevara.bandcamp.com|U=6|L=6|UL=6|WUL=0}}{{User:COIBot/OtherLinks|link=djevara.bandcamp.com/album/third-world-war-cast-the-first-stone|domain=djevara.bandcamp.com|U=6|L=6|UL=6|WUL=0}}{{User:COIBot/OtherLinks|link=djevara.bandcamp.com/album/god-is-white|domain=djevara.bandcamp.com|U=6|L=6|UL=6|WUL=0}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 1 additions out of 1 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/djevara.bandcamp.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bdjevara\.bandcamp\.com\b&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/djevara.bandcamp.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/djevara.bandcamp.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 13:46, 19 September 2015 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 16:12, 27 September 2015 (UTC)

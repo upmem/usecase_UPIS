@@ -1,0 +1,107 @@
+The '''rank insignia of the Italian Air Force''' are worn  on jackets and mantels sleeves. 
+__NOTOC__
+
+==Rank structure==
+<div class="noprint" style="clear:both; margin-bottom:.5em; border:1px solid #CCC; padding:2px 4px 3px; text-align:left; background:white"><center>[[File:Nuvola_apps_important.svg|40px|left]][[File:Nuvola_apps_important.svg|40px|right]]'''''Warning:'''''  ''The table below shows a simple literal translation of the Italian Air Force military ranks into English language,''<br />
+<u>'''''DOES NOT''''' ''represent a military ranks comparisons among [[NATO]] armed forces as officially stated by the - [[STANAG|STANAG 2116]]''</u>.</center></div>
+
+=== Officers ===
+{| style="border:1px solid #8888aa; background-color:#f7f8ff; padding:5px; font-size:95%; margin: 0px 12px 12px 0px;"
+{{Ranks and Insignia of NATO Air Forces/OF/Blank}}
+|- bgcolor="#007FFF" style="color: white"
+! Role || colspan=10|Generals|| colspan=6| Senior officers ||colspan=8| Junior officers ||colspan=12|Officer cadets
+{{Ranks and Insignia of NATO Air Forces/OF/Italy}}
+|- align="center" align="center"
+! <small>English rank name translation</small>
+| colspan=2| <small>[[General officer|General]]</small>
+| colspan=2| <small>Air squadron general (s.a.)</small>
+| colspan=2| <small>[[Generale di Squadra Aerea|Air squadron general]]</small>
+| colspan=2| <small>Air [[divisional general]]</small>
+| colspan=2| <small>Air [[brigade general]]</small>
+| colspan=2| <small>[[Colonel]]</small>
+| colspan=2| <small>[[Lieutenant colonel]]</small>
+| colspan=2| <small>[[Major]]</small>
+| colspan=1| <small>[[Captain (armed forces)|First captain]]</small>
+| colspan=1| <small>[[Captain (armed forces)|Captain]]</small>
+| colspan=3| <small>[[Lieutenant]]</small>
+| colspan=3| <small>[[Second lieutenant]]</small>
+|}
+
+<small>'''Notes''':<br /></small>
+<sup>1</sup> <small>The rank of ''"generale"'' (general) is assigned to the only air force officer promoted as marshal of the defense staff.</small>
+
+<sup>2</sup> <small>The rank of ''"generale di squadra aerea con incarichi speciali"'' (air squadron general with special assignments) is assigned to the air force officer promoted as marshal of the air force staff and/or as secretary of defense.</small>
+
+=== Non-commissioned officers and ratings ===
+{| style="border:1px solid #8888aa; background-color:#f7f8ff; padding:5px; font-size:95%; margin: 0px 12px 12px 0px;"
+{{Ranks and Insignia of NATO Air Forces/OR/Blank}}
+|- bgcolor="#007FFF" style="color: white"
+! Role || colspan=8|Marshals|| colspan=14| Sergeants||colspan=6| Permanent service volunteers ||colspan=12|Temporary service volunteers
+{{Ranks and Insignia of NATO Air Forces/OR/Italy}}
+|- align="center" align="center"
+! <small>English rank name translation</small>
+| colspan=2| <small>sub-lieutenant</small>
+| colspan=2| <small><br />first<br /> [[marshal]]</small>
+| colspan=2| <small>marshal<br /> 1st<br /> class</small>
+| colspan=1| <small>marshal<br /> 2nd<br />class</small>
+| colspan=1| <small>marshal<br /> 3rd<br /> class</small>
+| Colspan=2| <small>[[Sergeant major|chief<br />sergeant<br />major]]</small>
+| colspan=6| <small>[[Sergeant major|sergeant<br />major]]</small>
+| colspan=6| <small>[[sergeant]]</small>
+| colspan=1| <small>1st senior chief<br />airman<br /></small>
+| colspan=1| <small>1st chief airman</small>
+| colspan=1| <small>1st chosen airman</small>
+| colspan=1| <small>chief airman</small>
+| colspan=2| <small>airman first class</small>
+| colspan=6| <small>chosen airman</small>
+| colspan=2| <small>[[airman]]</small>
+|}
+
+<small>'''Notes''':<br /></small>
+<sup>1</sup> <small>The function of ''"luogotenente"'' (sub-lieutenant) is not a rank but a position attributed only to NCO's with the rank of ''"primo maresciallo"'' (first marshal) with at least 15 years of permanence in it.</small>
+
+<sup>2</sup> <small>No rank insignia, airmen just wears category or specialty badge.</small>
+
+==== Enlisted ranks introduced in 2018====
+{|  style="border:1px solid #8888aa; background:#fff; padding:5px; font-size:95%; margin:0 12px 12px 0;"
+|- style="background:#ccc;"
+! colspan=9| Other rank insignia
+|- style="background-color:#CCCCCC; text-align:center;"
+! NATO Code||OR-9||OR-7||OR-4
+|- style="text-align:center; background:#efefef;"
+| Shoulder board
+| 
+| [[File:Rank insignia of sergente maggiore capo qualif sp of the Italian Air Force.svg|50px]]
+| [[File:Rank insignia of primo aviere capo scelto qualif sp of the Italian Air Force.svg|50px]]
+|- style="text-align:center;"
+! Italian
+| ''Primo luogotenente q.s.''<ref>q.s. - (qualifica speciale - special rank)</ref><ref name=":0">{{Cite web|url=https://www.forzearmate.eu/wp-content/uploads/2018/02/94_36-2-Lettera-nuovi-gradi-al-COCER.pdf|title=Riordino delle carriere del 27/02/2018}}</ref>
+| ''Sergente maggiore capo q.s.''
+| ''Primo aviere capo scelto q.s.''
+|- style="background:#ccc;"
+| colspan=10|
+|- style="text-align:center;"
+! English
+| Sub-lieutenant first class
+| Chief Sergeant Major<br>(special class)
+| 1st senior chief airman<br> (special class)
+|}
+
+== References ==
+{{Reflist}}
+
+==Bibliography==
+* ''Decreto legislativo 15 marzo 2010 n.66''
+* ''[[NATO]] – STANAG 2116 ed. 6, 25 February 2010''
+
+== See also ==
+* [[Italian Army ranks]]
+* [[Italian Navy ranks]]
+* [[Military ranks of the Arm of Carabineers]]
+
+{{Military ranks by country}}
+
+{{DEFAULTSORT:Italian Navy Ranks}}
+[[Category:Italian Air Force]]
+[[Category:Military insignia]]
+[[Category:Military ranks of Italy]]

@@ -1,0 +1,148 @@
+{{redirect|Taleqani|the places in Iran|Taleqan (disambiguation){{!}}Taleqan}}
+{{Use dmy dates|date=August 2013}}
+{{Infobox officeholder
+| name = Seyyed Mahmoud Taleghani
+| image = Portrait of Mahmoud Taleghani - c 1979.jpg
+| image_size = 220px
+| caption = 
+| birth_name  = Seyyed Mahmoud Alaei Taleghani
+| birth_date  = {{birth date|1911|03|05|df=y}}
+| birth_place = [[Galird, Alborz|Galird]], Iran
+| death_date  = {{death date and age|1979|9|9|1911|03|05|df=y}}
+| death_place = [[Tehran]], Iran
+| resting_place = [[Behesht-e-Zahra]]
+
+| order1 = [[Assembly of Experts for Constitution|Member of the Assembly of Experts for Constitution]]
+| term_start1  = 15 August 1979 
+| term_end1    = 15 November 1979
+| majority1    = 2,016,801 (79.3%)
+| constituency1= [[Tehran Province]]
+
+| order2= [[List of Tehran's Friday Prayer Imams|Tehran's Friday Prayer Imam]]
+| term_start2= 27 July 1979
+| term_end2= 9 September 1979
+| appointer2 = [[Ruhollah Khomeini]]
+| predecessor2 = [[Hassan Emami]]
+| successor2 = [[Hussein-Ali Montazeri]]
+
+| order3       = [[Council of the Islamic Revolution#Presidents|Head of Council of the Islamic Revolution]]
+| term_start3  = 1 May 1979		 
+| term_end3    = 9 September 1979	
+| predecessor3 = [[Morteza Motahari]]
+| successor3 =  [[Abolhassan Banisadr]]
+
+| spouse = 
+| children = 
+| party = {{plainlist|
+*[[Freedom Movement of Iran]] {{small|(1961–1979)}}
+*[[National Front (Iran)|National Front]] {{small|(1951–1961)}}
+}}
+| nationality = Iranian
+| module = 
+{{Infobox | decat = yes | child = yes
+    | title = '''Theological work'''
+    | label1= Religion
+    | data1 = [[Islam]]
+    | label2= [[List of Islamic schools and branches|Denomination]]
+    | data2 = [[Twelver]] [[Shia Islam|Shīʿā]]
+    | label3= School
+    | data3 = [[Ja'fari jurisprudence|Jaʿfari]]
+    | label4= Main interests
+    | data4 = [[Tafsir]]
+    | label5= Notable ideas
+    | data5 = 
+    | label6= Years active
+    | data6 = 1921–1979 
+    | label7= [[Alma mater]]
+    | data7 = [[Najaf Seminary]]<br>[[Feyziyeh School|Feyziyeh Seminary]]
+    | label8= Taught at
+    | data8 = [[Sepahsalar Mosque|Sepahsalar School]]
+    | label10= 
+    | data10 = {{Collapsible list |title=Influenced|[[Ali Shariati]],<ref>{{citation|title=The Princeton Encyclopedia of Islamic Political Thought|author=Gerhard Böwering, Patricia Crone, Mahan Mirza|publisher=Princeton University Press|year=2013|page=505|isbn=9780691134840}}</ref> [[Azam Taleghani]]<ref>{{Citation|first1=Sanam |last1=Vakil|title=Women and Politics in the Islamic Republic of Iran: Action and Reaction|publisher=A&C Black|year=2011|page=85|isbn=9781441197344}}</ref>
+}}
+    | label11= 
+    | data11 = {{Collapsible list |title=Influenced by|[[Muhammad Husayn Tabataba'i]],<ref>{{citation|title=Islam in World Cultures: Comparative Perspectives|author=R. Michael Feener|publisher=ABC-CLIO|year=2004|page=[https://archive.org/details/islaminworldcult0000unse/page/89 89]|isbn=9781576075166|url=https://archive.org/details/islaminworldcult0000unse/page/89}}</ref> [[Muhammad Abduh]]<ref>{{citation|title=Theological Approaches to Qur'anic Exegesis: A Practical Comparative-contrastive Analysis|author=Hussein Abdul-Raof|publisher=Routledge|year=2012|page=3|isbn=9780415449588}}</ref>
+}}
+}}
+}}
+'''Sayyid Mahmoud Alaee Taleghani''' ({{lang-fa|محمود طالقانی}}, {{pronunciation|Fa-ir-taleghani_(1).ogg}}, also [[Romanization|Romanized]] as “Seyed Mahmūd Tāleqānī”; 5 March 1911 – 9 September 1979) was an [[Iranian peoples|Iranian]] theologian, Muslim reformer, democracy advocate and a senior [[Shi'a]] cleric of [[Iran]]. Taleghani was a contemporary of the [[Iranian Revolution]]ary leader [[Ayatollah]] [[Ruhollah Khomeini]] and a leader in his own right of the movement against Shah [[Mohammad Reza Pahlavi]]. A founding member of the [[Freedom Movement of Iran]], he has been described as a representative of the tendency of many "Shia clerics to blend [[Shia]] with [[Marxist]] ideals in order to compete with leftist movements for youthful supporters" during the 1960s and 1970s.<ref>Nasr, Vali, ''The Shia Revival'', Norton, (2006), pp. 126–7</ref> His "greatest influence" has been said to have been in "his teaching of [[Tafsir|Quranic exegesis]]," as many later revolutionaries were his students.<ref name="Bakhash, Shaul 1984 p.168">Bakhash, Shaul, ''Reign of the Ayatollahs'' (1984), p. 168</ref>
+
+He was notably [[Tehran]]'s [[List of Tehran's Friday Prayer Imams|first Friday Prayer Imam]] after the Iranian Revolution.
+
+==Biography and education==
+Taleghani was born to a religious family in the village of [[Galird, Alborz|Galird]] of [[Taleqan County]] in [[Alborz Province]] on 5 March 1911.<ref name=pbs9>{{cite news|last=Sahimi|first=Mohammad|title=The power behind the scene: Khoeiniha|url=https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2009/10/power-behind-the-scene-khoeiniha.html|accessdate=3 August 2013|newspaper=PBS|date=30 October 2009}}</ref> His father Abu'l-Hasan Taleghani, who had published a magazine called ''Balagh'' in the context of the ''[[Kashf-e hijab]]'' protests at the time of [[Reza Shah]],<ref name="e">{{cite book | title=Society and Economics in Islam | publisher=Mizan Press | author=Mahmoud Taleghani | pages=10}}</ref>  taught him Islamic sciences. Taleghani continued his studies in Qom, studying the same subject at the Razaviya and [[Feyziyeh School|Feyziyeh]] schools. He obtained his [[Ijtihad]] Certification from his teachers, [[Abu l-Hasan al-Isfahani]] and [[Abdul-Karim Ha'eri Yazdi]], there.<ref name="a">{{cite book | url=https://books.google.com/?id=anMbTSwEb38C&dq=mahmoud+taleghani | title=Contemporary Islamic Economic Thought: A Selected Comparative Analysis | publisher=Alhoda UK | year=1995 | pages=93| isbn=9789839960440 }}</ref><ref name="d">{{cite book | title=Taleghani and history | publisher=Niloofar | author=Afrasiabi, Bahram | location=Tehran | pages=31}}</ref>
+
+==Political activities==
+
+===Before Islamic Revolution===
+In 1938 he went to [[Tehran]] to preach and lecture on Islam and was arrested and imprisoned the next year for opposing the regime of [[Reza Shah]]. From 1948 onwards he held classes at [[Hedayat Mosque]] in Tehran. Ayatollah Taleghani had the responsibility of educating revolutionary folks from the very beginning.<ref>the Karizma of Hedayt Mosque,Mohsen Saeedi,Zamaneh Magazine,Tir 1383 solar,in persian,number 22</ref>   He traveled abroad to Jordan and Egypt in 1951 and 1952, to the Peoples Muslim Congress in [[Karachi]], and twice to [[Jerusalem]] as the head of an Iranian delegation to the annual [[Islamic Congress of Quds]]. He supported [[Mohammed Mosaddeq]]'s nationalization of the oil industry. Following the [[1953 Iranian coup d'état]] that overthrew Mossaedegh and restored the Shah he was arrested and — according to the Islamic Republic's [[IRIB]] website — "accused of hiding [[Navvab Safavi]], the founder and leader of the [[Fadayan-e Islam]]" Islamist assassination group.<ref name="IRIB-Tale">[http://www2.irib.ir/occasions/Taleghani%5cTaleqaniEN.HTM Ayatollah Mahmood Taleqani]{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }} [[Islamic Republic of Iran Broadcasting]] (official government biography of Taleghani)</ref>
+
+Politically active from his student days, Taleghani was a veteran in the struggle against the [[Pahlavi era|Pahlavi regime]]. He was imprisoned on several occasions over the decades, "as a young preacher, as a mid-ranking cleric, and as a senior religious leader just before the revolution,"<ref name="Nasr, Vali 2006 p.127">Nasr, Vali, ''The Shia Revival'', Norton, (2006), p. 127</ref> and served a total of a dozen years in prison.<ref name="TIMEobit">{{cite web|url=http://www.time.com/time/magazine/article/0,9171,947428,00.html|title=Milestones, Sep. 24, 1979|date=24 September 1979|publisher=|via=time.com}}</ref> In his time in prison he met many leftist political prisoners and "was particularly fond of talking about his interactions with leftists." The influence of the left on his thinking was reflected in his famous book ''Islam and Ownership (Islam va Malekiyat)'' which argued in support of collective ownership "as if it were an article of faith in Islam."<ref name="Nasr, Vali 2006 p.127"/> He helped found [[National Resistance Movement of Iran|the National Resistance Movement]] in 1957 and along with [[Mehdi Bazargan]], [[Yadollah Sahabi]] and [[Ali Shariati]] he founded the [[Iran Freedom Movement]] in May 1961.<ref name="b">{{cite book | url=https://books.google.com/?id=gaa_AAAAQBAJ&dq=Yadollah+Sahabi+mahmoud+taleghani | title=Civilian Jihad: Nonviolent Struggle, Democratization, and Governance in the Middle East | author=M. Stephan | pages=188| isbn=9780230101753 | date=7 December 2009 }}</ref><ref name="f">{{cite book | url=https://books.google.com/?id=zKKNBQAAQBAJ&dq=ali+shariati+Freedom+Movement+of+Iran | title=The secret history of Iran | publisher=Lulu.com | author=Hamad Subani | year=2013 | pages=268| isbn=9781304082893 }}</ref><ref name="g">{{cite book | url=https://books.google.com/?id=yoQQ2YzmMyMC&dq=ali+shariati+Freedom+Movement+of+Iran | title=An Islamic Utopian: A Political Biography of Ali Shariati | publisher=I.B.Tauris | author=Ali Rahnema | pages=98| isbn=9781860645525 | date=3 June 2000 }}</ref> In 1971 he exiled to [[Zabol]], a city in [[Sistan and Baluchestan Province]] and then to [[Baft]] a city of [[Kerman Province]].<ref name="i">{{cite web | url=http://www.irdc.ir/en/calendar/366/default.aspx | title=Demise of Ayatollah Taleghani | publisher=Islamic Revolution Document Center | accessdate=21 June 2016 | url-status=dead | archiveurl=https://archive.is/20130413064337/http://www.irdc.ir/en/calendar/366/default.aspx | archivedate=13 April 2013 | df=dmy-all }}</ref> Between 1964 and 1978 he spent nearly a decade in jail. Altogether he spent nearly 15 years behind bars.<ref name="Bakhash, Shaul 1984 p.168"/> Finally, Taleghani after the rise of the Islamic Revolution in November 1978 was released.
+
+===In the Islamic Revolution===
+Although not as influential as Ayatollah [[Ruhollah Khomeini]], Taleghani was instrumental in "shaping the groundswell movement" that led to the Iranian Revolution and brought Khomeini to power. During the [[Iranian Revolution|Islamic Revolution]] he became chairman of the "secretive" [[Council of Islamic revolution (Iran)|Revolutionary Council]], Iran's chief ruling body — a fact not revealed until his death.<ref name="TIMEobit"/> In order of Ayatollah Khomeini, he was the first Imam for [[Friday Prayer]] in Tehran after the fall of Iran's interim government, In the late July 1979.<ref name="i"/>
+
+Taleghani was "known for his tolerance" and "served as Khomeini's mediator in disputes with the Kurds and other dissident groups."<ref name="TIMEobit"/> He also had differences with Khomeini, which led to a clash between them in April 1979. "To popular acclaim, Taleghani warned then against a 'return to despotism.'" Two of Taleghani's sons were arrested<ref name="TIMEobit"/> by revolutionary Guards, but thousands of his supporters marched in the streets chanting "Taleghani, you are the soul of the revolution! Down with the reactionaries!'ì" Khomeini summoned Taleghani to Qom where he was given a severe criticism after which the press was called and told by Khomeini: "Mr. Taleghani is with us and he is sorry for what happened." Khomeini pointedly did not refer to him as Ayatollah Taleghani.<ref>Mackay, ''Iranians'', (1998), p. 291</ref>
+
+==Opinions==
+{{refimprove section|date=July 2017}}
+[[File:Banisadr and Taleghani.jpg|thumb|Banisadr and Taleghani]]
+Taleghani argued that the colonization as a primary reason of totalitarism and dictatorship in different countries. While not an ultimate aim ''per se'', nationalism was seen as an instrument of anti-colonialist practices. Taleghani emphasized the resistance against Zionist regime, and travelled many times to [[Palestine (region)|Palestine]].<ref>the ideas of Anti colonization of the late taleghani, Hosein Khamsehei, 1389 solar, number 56, contemporary history of Iran{{clarify|date=July 2017}}</ref> 
+
+There is an important place for rationality in Taleghani's thought. According to him, every judgment in Islam has a reason. Also, Islam is seen in his sermons and writings as a religion that set up progressive rules in societal and individual life<ref>http://lib.eshia.ir/10253/143/4/%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86%DB%8C</ref> 
+
+According to Taleghani, the redaction of [[Quran]] occurred under the caliphate of the fourth Caliph [[Ali]]. Taleghani also emphasized the continuous form of the Quran, and the strict relation between the verses of the [[Quran]].<ref>inquiry on the Gathering and consistency of verses from orientalists and Ayatollah Taleghani,Abolfazl khoshmanesh,Pajoheshnameh olum Quran karim,in persian,number 8,fall 1389 solar{{clarify|date=July 2017}}</ref> 
+
+His [[tafsir]], or Quranic commentary, was innovative in language and clearly designed to appeal to a wide audience, with the use of narrations and juridical reports. Taleghani insisted that believers have to contemplate the meaning of the verses of the Quran.<ref>the commentary of Ayatollah Taleghani,an sophisticated and topical one,the magazine of Quranic sciences and Hadith,fall and winter 1387 solar,number 3,p.55-94</ref> He talso sought to translate and explain the ''[[Nahj al-Balagha]]'' against the grain of contemporary social analyses and phenomena.<ref>{{cite journal|url=http://www.noormags.ir/view/fa/articlepage/897516/%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%AA-%D8%A8%D9%87-%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%BA%D9%87-%D8%AF%D8%B1-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%A7%D8%B2-%D8%B1%D9%87%D8%A8%D8%B1%D8%A7%D9%86-%D9%86%D9%87%D8%B6%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%A7%D8%B3%D9%84%D8%A7%D9%85-%D9%85%D8%B9%D8%A7%D8%B5%D8%B1?q=%D8%B3%DB%8C%D8%AF%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86%DB%8C&score=1042.7335&rownumber=37|title=التفات به نهج البلاغه در آثار برخی از رهبران نهضت های بیداری جهان اسلام معاصر|last=خوش‌منش,ابو‌الفضل|date=4 January 1391|publisher=|volume=1|issue=10}}</ref>
+
+==Death==
+[[File:Mahmoud Taleghani tomb (1).jpg|thumb|Taleghani's tomb at [[Behesht-e Zahra Cemetery]]]]
+Taleghani died on 9 September 1979.<ref name=pbs9/> Two sons of Taleghani claimed that he was murdered but this claim was not proven.<ref name="c">{{cite book | url=https://books.google.com/?id=5m0kyPc18l4C&dq=mahmoud+taleghani | title=Guests of the Ayatollah: The Iran Hostage Crisis: The First Battle in America's War with Militant Islam | publisher=Grove/Atlantic | author=Mark Bowden | pages=26| isbn=9781555846084 | date=December 2007 }}</ref> His mysterious death and lifetime achievements were the occasion of huge crowds and much emotion before and during his funeral,<ref name="IRIB-Tale"/> and was said to be "a blow to moderation and progressive thought" in the revolution.<ref>Keddie, ''Modern Iran'', (2006), p. 245</ref>
+
+He has been described as a "chain smoker" and having a "gaunt face with a serious demeanor."<ref>Nasr, Vali, ''The Shia Revival'', Norton, (2006), p. 126</ref>
+
+[[Ayatollah Ruhollah Khomeini]] described him  "[[Abu Dhar al-Ghifari]] in the time" in the message on the occasion of his death: "He was for Islam, Abuzar of the time. His expressive tongue was as trenchant and pounding as the sword of [[Malik al-Ashtar]]."<ref name="i"/>
+
+==Works==
+* ''[[A shining ray from Quran]],  It was written while he was imprisoned by the Muhammad Reza Pahlavi.<ref name="i"/>
+* ''Introduction- explanation on Tanbih Al-Omah va Tanzih Al-Mellah,''
+* ''Islam and Ownership,''
+* ''Translation of the first volume of Imam Ali Ibn Abi Talib’s Book,''
+* ''A light of Nahj-ul-Balaq,''
+* ''Authority and Judicial Decree,''
+* ''Freedom and Despotism,''
+* ''Unity Lesson,''
+* ''A Lesson from Quran,''
+* ''Days and Lectures,''
+* ''Sermons of Friday'' Prayers<ref name="IRIB-Tale"/>
+
+==References==
+{{Reflist|33em}}
+
+==External links==
+{{commonscatinline}}
+
+{{s-start}}
+{{s-off}}
+{{s-bef|before=[[Morteza Motahari]]}}
+{{s-ttl|title=President of [[Council of Islamic Revolution (Iran)|Council of Islamic Revolution]]|years=1979}}
+{{s-aft|after=[[Abolhassan Banisadr]]}}
+{{s-rel}}
+{{succession box|before=[[Hassan Emami]]|title=Friday prayers Imam of [[Tehran]]|years=1979|after=[[Hussein-Ali Montazeri]]}}
+{{s-end}}
+{{Authority control}}
+
+{{DEFAULTSORT:Taleghani, Mahmoud}}
+[[Category:1911 births]]
+[[Category:1979 deaths]]
+[[Category:Iranian ayatollahs]]
+[[Category:Muslim reformers]]
+[[Category:Iranian reformists]]
+[[Category:Iranian democracy activists]]
+[[Category:Muslim theologians]]
+[[Category:Freedom Movement of Iran politicians]]
+[[Category:People of the Iranian Revolution]]
+[[Category:Iranian revolutionaries]]
+[[Category:National Front (Iran) politicians]]
+[[Category:Council of the Islamic Revolution members]]
+[[Category:Members of the Assembly of Experts for Constitution]]

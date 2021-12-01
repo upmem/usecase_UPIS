@@ -1,0 +1,36 @@
+{{2015AsianAthleticsChampionships}}
+The '''women's triple jump''' event at the [[2015 Asian Athletics Championships]] was held on June 7.<ref>{{Cite web |url=http://athleticsasia.org/index.php/results/21st-asian-athletics-championships-3-7-june-2015/41-asian-athletics-championship-2015-final-results/file |title=Results |access-date=2015-07-18 |archive-url=https://web.archive.org/web/20160105214009/http://athleticsasia.org/index.php/results/21st-asian-athletics-championships-3-7-june-2015/41-asian-athletics-championship-2015-final-results/file |archive-date=2016-01-05 |url-status=dead }}</ref>
+
+==Results==
+{| class="wikitable sortable" style="text-align:center;font-size:95%"
+|-
+!Rank !! Name !! Nationality !! #1 !! #2 !! #3 !! #4 !! #5 !! #6 !! Result !! Notes
+|-
+| {{Gold1}} ||align=left| [[Wang Wupin]] ||align=left| {{CHN}} || 13.27 || 13.38 || 13.23 || '''13.76''' || x || 13.44 || '''13.76''' ||
+|-
+| {{Silver2}} ||align=left| [[Li Yanmei]] ||align=left| {{CHN}} || '''13.57''' || x || x || 13.45 || x || 13.45 || '''13.57''' ||
+|-
+| {{Bronze3}} ||align=left| [[Wang Rong (athlete)|Wang Rong]] ||align=left| {{CHN}} || '''13.44''' || 13.25 || 13.17 || 13.43 || 13.34 || 13.40 || '''13.44''' ||
+|-
+| 4 ||align=left| [[Aleksandra Kotlyarova]] ||align=left| {{UZB}} || x || 13.00 || '''13.40''' || x || 13.16 || x || '''13.40''' ||
+|-
+| 5 ||align=left| [[Irina Ektova]] ||align=left| {{KAZ}} || x || 12.08 || x || 13.20 || x || '''13.27''' || '''13.27''' ||
+|-
+| 6 ||align=left| [[Bae Chan-mi]] ||align=left| {{KOR}} || x || 12.37 || x || '''12.76''' || x || x || '''12.76''' ||
+|-
+| 7 ||align=left| [[Vidusha Lakshani]] ||align=left| {{SRI}} || x || '''12.69''' || 12.12 || x || x || x || '''12.69''' ||
+|-
+| 8 ||align=left| [[Nadia Mohd Zuki]] ||align=left| {{MAS}} || '''12.59''' || x || x || x || x || x || '''12.59''' ||
+|-
+| {{hs|9}} ||align=left| [[Anastasiya Juravleva]] ||align=left| {{UZB}} || || || || || || || '''{{sort|00.00|DNS}}''' ||
+|}
+
+==References==
+{{Reflist}}
+
+{{AsianCTripleJump}}
+
+{{DEFAULTSORT:2015 Asian Athletics Championships - Women's triple jump}}
+[[Category:2015 Asian Athletics Championships|Triple]]
+[[Category:Triple jump at the Asian Athletics Championships]]
+[[Category:2015 in women's athletics]]

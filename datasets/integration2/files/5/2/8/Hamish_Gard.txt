@@ -1,0 +1,64 @@
+{{short description|New Zealand rugby union player}}
+{{Use dmy dates|date=June 2014}}
+{{Use New Zealand English|date=June 2014}}
+{{infobox Rugby biography
+| image = Hamish Gard 2013.JPG
+| birthname = 
+| birth_date = {{birth date and age|df=yes|1985|6|21}}
+| birth_place = 
+| height = {{height| m=1.84}}
+| weight = {{convert|95|kg|lb st|abbr=on}}
+| ru_position = Stand off / Inside Centre
+| ru_amateuryears = 
+| ru_amateurclubs =
+| ru_clubyears = 2009–13,<br>2013–14,<br>2014–15,<br>2015–present 
+| ru_proclubs = [[NTT Docomo]] [[Montpellier]] [[Stade Rochelais|La Rochelle]] <br> [[Mitsubishi Heavy Industries]]
+| ru_clubcaps = 40 9 32 
+| ru_clubpoints = 
+| super14years = 2008–09
+| super14 = [[Crusaders (rugby union)|Crusaders]]
+| super14caps = 9
+| super14points = (11)
+| ru_provinceyears = 2006–09
+| ru_province = [[Canterbury Rugby Football Union|Canterbury]]
+| ru_provincecaps = 23
+| ru_provincepoints = 
+| ru_nationalyears = 
+| ru_nationalteam =
+| ru_nationalcaps = 
+| ru_nationalpoints = 
+}}
+'''Hamish Gard''' (born 21 June 1985) is a New Zealand [[rugby union]] player. He plays as a [[Centre (rugby union)|centre]].
+
+==Career==
+Gard attended [[Palmerston North Boys' High School]] where he was known as "the mudgard" and "T-Form". In 2003 Gard made the Hurricanes Secondary Schools Team and his rugby began a meteoric rise. He played for [[Montpellier Hérault RC|Montpellier]]   <ref>{{cite web|url= http://www.lnr.fr/hamish-gard,15756.html|title= Hamish Gard LNR Profile |work=web page |publisher= LNR |accessdate =18 April 2013}}</ref> in the French league [[Top 14]] from February 2013 to December 2013. He signed for [[Stade Rochelais|La Rochelle]] in December 2013. He previously played  for the [[Crusaders (rugby)|Crusaders]] in the [[Super Rugby]] competition and then for the [[NTT DoCoMo Red Hurricanes]] ([[Japan]]).
+
+Following his professional rugby career, Hamish accepted a lucrative offer to join Xigo as both a Project Manager in the construction industry and also a midfielder in the Div 3, 7 aside football team, The Xigoals. Hamish rewarded the investment early in his stint at Xigo netting 10 goals on the way to securing the Div 3 Championship and also the Golden Boot.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.crusaders.co.nz/profile/hamish-gard/13/player-details.aspx Crusaders profile]
+
+
+{{DEFAULTSORT:Gard, Hamish}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:Rugby union centres]]
+[[Category:Crusaders (rugby union) players]]
+[[Category:Canterbury rugby union players]]
+[[Category:NTT DoCoMo Red Hurricanes players]]
+[[Category:Mitsubishi Sagamihara Dynaboars players]]
+[[Category:Montpellier Hérault Rugby players]]
+[[Category:Stade Rochelais players]]
+[[Category:People educated at Palmerston North Boys' High School]]
+[[Category:New Zealand rugby union players]]
+[[Category:New Zealand expatriate rugby union players]]
+[[Category:Expatriate rugby union players in Japan]]
+[[Category:Expatriate rugby union players in France]]
+[[Category:New Zealand expatriate sportspeople in Japan]]
+[[Category:New Zealand expatriate sportspeople in France]]
+[[Category:Rugby union fly-halves]]
+
+{{NewZealand-rugbyunion-bio-1980s-stub}}

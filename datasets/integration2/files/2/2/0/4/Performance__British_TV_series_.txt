@@ -1,0 +1,156 @@
+{{Use dmy dates|date=October 2016}}
+{{Use British English|date=October 2016}}
+
+{{multiple|
+
+{{Missing information|three further short series|date=November 2020}}
+
+{{unsourced|date=April 2016}}
+}}
+{{Infobox television
+| name                = Performance
+| image                    = <!-- include ALT text per [[WP:ALT]] guideline -->
+| caption                  = 
+| alt_name              = 
+| genre                    = Stage drama
+| country                  = UK
+| language                 = English (including translations)
+| num_series               = 
+| num_episodes             = 
+| company                  = BBC (some co-productions)
+| distributor              = 
+| channel                  = [[BBC Two|BBC 2]]
+| picture_format           = 
+| audio_format             = 
+| first_aired              = {{Start date|df=yes|1991|10|12}}
+| last_aired               = {{End date|df=yes|1998|03|21}}
+| preceded_by              = ''[[Theatre Night]]''
+| followed_by              = 
+}}
+
+'''''Performance''''' was a [[UK]] television anthology series produced by [[Simon Curtis (filmmaker)|Simon Curtis]] for the [[BBC]].  Twenty-six episodes aired on the BBC between 12 October 1991 and 21 March 1998, almost all of which were  productions of classic and contemporary plays, including ''[[Uncle Vanya]]'' by [[Anton Chekhov]], ''[[A Doll's House]]'' and ''[[Hedda Gabler]]'' by [[Henrik Ibsen]], ''[[Six Characters in Search of an Author]]'' by [[Luigi Pirandello]], ''[[King Lear]]'' by [[William Shakespeare]], and ''[[The Deep Blue Sea (play)|The Deep Blue Sea]]'' by [[Terence Rattigan]].
+
+Among its directors were [[Karel Reisz]], [[Anthony Page]], [[Richard Eyre]], [[Simon Curtis (filmmaker)|Simon Curtis]], and [[Harold Pinter]].  
+
+Its high-profile cast included [[Colin Firth]], [[Kenneth Branagh]], [[Elizabeth McGovern]], [[Jeremy Irons]], [[Judi Dench]], [[Hugh Grant]], [[Alec Guinness]], [[Tom Wilkinson]], [[Miranda Richardson]], [[Ian Holm]], [[Bill Nighy]], [[John Gielgud]], and [[Juliet Stevenson]]. 
+
+==List of episodes==
+The main source for compiling this list was the BFI Film and TV Database.<ref>[http://ftvdb.bfi.org.uk/sift/series/14439 BFI Film and TV Database]</ref>
+
+Legend: '''Se''' = Season; '''Ep''' = Episode
+{| class="wikitable" style="text-align:left;"
+|-
+! Se
+! Ep
+! Title
+! Author
+! Producer/<br />Director
+! Performers
+! UK<br />Transmission<br />date
+|-
+|1
+|1
+|''Absolute Hell''
+|
+|
+|
+|5 October 1991
+|-
+|1
+|2
+|''[[Uncle Vanya]]''
+|[[Anton Chekhov]]
+|
+|
+|12 October 1991
+|-
+|1
+|3
+|''Nona''
+|Roberto Cossa
+|
+|
+|19 October 1991
+|-
+|1
+|4
+|''[[Old Times]]''
+|[[Harold Pinter]]
+|
+|
+|26 October 1991
+|-
+|1
+|5
+|''[[Top Girls]]''
+|[[Caryl Churchill]]
+|
+|
+|2 November 1991
+|-
+|1
+|6
+|''The Trials of Oz''
+|
+|
+|
+|9 November 
+|-
+|2
+|1
+|''Tales from Hollywood''
+|[[Christopher Hampton]]
+|
+|[[Jeremy Irons]],<br />[[Alec Guinness]]
+|19 October 1992
+|-
+|2
+|2
+|''[[A Doll's House]]''
+|[[Henrik Ibsen]]
+|
+|[[Juliet Stevenson]]<br />[[Trevor Eve]]
+|21 November 1992
+|-
+|2
+|3
+|''Roots''
+|[[Arnold Wesker]]
+|
+|
+|28 November 1992
+|-
+|2
+|4
+|''After the Dance''
+|[[Terence Rattigan]]
+|
+|
+|5 December 1992
+|-
+|2
+|5
+|''[[Six Characters in Search of an Author]]''
+|[[Luigi Pirandello]]
+|
+|
+|12 December 1992
+|-
+|}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*{{IMDb title|id=0298685|title=Performance}}
+
+{{DEFAULTSORT:Performance}}
+[[Category:1991 British television series debuts]]
+[[Category:1998 British television series endings]]
+[[Category:1990s British drama television series]]
+[[Category:BBC television dramas]]
+[[Category:British anthology television series]]
+[[Category:English-language television shows]]
+
+
+{{UK-tv-prog-stub}}

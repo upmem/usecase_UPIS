@@ -1,0 +1,64 @@
+{{use dmy dates|date=February 2016}}
+{{infobox country at games
+| NOC = CRC
+| NOCname = Comité Olímpico de Costa Rica
+| games = Summer Olympics
+| year = 1972
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.concrc.org }}&nbsp;{{in lang|es}}
+| location = [[Munich]]
+| competitors = 3
+| sports = 3
+| flagbearer = 
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+'''[[Costa Rica]]''' competed at the '''[[1972 Summer Olympics]]''' in [[Munich]], [[West Germany]]. Three competitors, all men, took part in four events in three sports.<ref name="SportsRef">{{cite web |url=https://www.sports-reference.com/olympics/countries/CRC/summer/1972/ |archive-url=https://web.archive.org/web/20200417093613/https://www.sports-reference.com/olympics/countries/CRC/summer/1972/ |url-status=dead |archive-date=17 April 2020 |title=Costa Rica at the 1972 Munich Summer Games |accessdate=14 February 2016 |work=Sports Reference}}</ref>
+
+==Athletics==
+{{main|Athletics at the 1972 Summer Olympics}}
+'''Men's 10,000 metres'''
+* [[Rafael Pérez (athlete)|Rafael Ángel Pérez]] 
+** Round 1 &mdash; 29:36.6 min (→ 13th in heat, did not advance)
+
+==Judo==
+{{main|Judo at the 1972 Summer Olympics}}
+'''Men's Half-Heavyweight'''
+*[[Roberto Solorzano]]
+
+==Shooting==
+{{main|Shooting at the 1972 Summer Olympics}}
+One shooter represented Costa Rica in 1972.
+
+;[[Shooting at the 1972 Summer Olympics – Mixed 50 metre rifle three positions|50 m rifle, three positions]]
+* [[Hugo Chamberlain]]
+
+;[[Shooting at the 1972 Summer Olympics – Mixed 50 metre rifle, prone|50 m rifle, prone]]
+* [[Hugo Chamberlain]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080522105330/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+
+{{Nations at the 1972 Summer Olympics}}
+
+[[Category:Nations at the 1972 Summer Olympics]]
+[[Category:Costa Rica at the Summer Olympics by year|1972 Summer Olympics]]
+[[Category:1972 in Costa Rica]]
+
+
+{{CostaRica-sport-stub}}
+{{1972-Olympic-stub}}

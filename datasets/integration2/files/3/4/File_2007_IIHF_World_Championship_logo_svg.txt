@@ -1,0 +1,17 @@
+{{Valid SVG}}
+==Summary==
+{{Non-free use rationale 2
+|Description = IIHF World Championsip 2007 logo
+|Source = Finnish Wikipedia
+|Article = 2007 IIHF World Championship
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.
+|Replaceability = n.a.
+|Minimality = Use only in article: "2007 IIHF World Championship"
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free logo|image has rationale=yes}}
+
+[[Category:IIHF World Championship logos|2007]]
+{{SVG-Logo}}

@@ -1,0 +1,70 @@
+{{Distinguish|Nokia N810}} 
+{{Infobox mobile phone
+| name         = Nokia Lumia 810
+| logo         = File:Nokia Lumia logo.svg
+| logosize     = 100px
+| image        = 
+| imagesize    = 0px
+| alt          = 
+| caption      = 
+| brand        = 
+| manufacturer = [[Nokia]]
+| series       = [[Nokia Lumia|Lumia]]
+| os           = [[Windows Phone 8]]
+| type         = [[Smartphone]]
+| predecessor  = [[Nokia Lumia 800]]
+| successor    = 
+| related      = [[Nokia Lumia 820]], [[Nokia Lumia 822]], [[Nokia Lumia 920]]
+| released     = Q4 2012
+| price        = 
+| available    = <!-- Country {{Start date|YYYY|MM|DD}} (Retailer) -->
+| discontinued = Q2 2013<ref>[http://www.wpcentral.com/t-mobile-eols-lumia-810-getting-lumia-521-april-24th Out with the old, in with the new: T-Mobile EOLs Lumia 810, getting Lumia 521 April 24th | Windows Phone Central]</ref>
+| form         = 
+| size         = {{convert|127.8|mm|abbr=on}} H <br /> {{convert|68.4|mm|abbr=on}} W <br /> {{convert|10.9|mm|abbr=on}} D 
+| weight       = {{convert|145|g|abbr=on}}
+| soc          = [[Qualcomm]] [[Qualcomm Snapdragon|Snapdragon]] S4
+| cpu          = 1.5 GHz [[Qualcomm]] [[Qualcomm Snapdragon|Snapdragon]] S4, dual-core
+| gpu          = [[Qualcomm]] [[Adreno]] 225
+| display      = 4.3" [[AMOLED]] ClearBlack capacitive touchscreen, <br /> 800 x 480 [[pixel]]s at 216.97 [[Pixel density|ppi]], <br /> 16.7m-color, <br /> RGB Stripe, <br /> [[Gorilla Glass]] 2
+| memory       = 1 GB [[RAM]]
+| storage      = 8 GB internal [[flash memory|flash]]
+| memory_card  = microSD, up to 64 GB
+| networks     = [[HSPA+]]
+| carrier      = [[T-Mobile USA]]
+| connectivity = [[Bluetooth 3.0]], <br />[[Wi-Fi]] [[IEEE 802.11|802.11]][[IEEE 802.11a-1999|a]]/[[IEEE 802.11b-1999|b]]/[[IEEE 802.11g-2003|g]]/[[IEEE 802.11n-2009|n]], [[Near Field Communication|NFC]], [[microUSB]] v2.0 
+| battery      = Rechargeable BP-4W 3.7V 6.7Wh 1800mAh [[Lithium polymer battery]]
+| input        = [[Multi-touch]] capacitive [[touchscreen]]
+| ext_display  = 
+| camera       = 8.0 [[Pixel#Megapixel|Megapixel]],  <br /> 3264 x 2448 [[pixel]]s, f/2.2, <br /> Short Pulse High Power Dual-LED flash, <br /> [[autofocus]], [[Carl Zeiss AG|Carl Zeiss]] optics, <br /> [[1080p]] video capture
+| front_camera = 1.3-megapixel, 1280 x 960 [[pixel]]s, [[720p]] video capture
+| other        = Talk time: Up to 10.2 hours <br /> Standby time: Up to 360 hours (approx. 15 days)
+| website      = {{url|http://www.nokia.com/us-en/products/phone/lumia810|Nokia Lumia 810}}
+}}
+The '''Nokia Lumia 810''' is a [[Windows Phone]] [[smartphone]] made by [[Nokia]] exclusively for wireless carrier [[T-Mobile US]].<ref>{{cite web |url=http://mashable.com/2012/10/08/nokia-lumia-810/ |title=Surprise! Nokia Has a Special Lumia Phone for T-Mobile |publisher=[[Mashable]] |first=Peter |last=Pachal |date=October 8, 2012 |accessdate=October 9, 2012}}</ref> It was announced on October 8, 2012. The device runs the then-new [[Windows Phone 8]] operating system (despite being numbered in the x10 series which is used for [[Windows Phone 7]]) and features a 4.3-inch [[AMOLED]] WVGA ClearBlack display, an 8-megapixel rear-facing [[camera]], a 1.5Ghz [[Snapdragon]] processor, exchangeable shells (cyan and black<ref name="t-mobile">{{cite press release |title=T-Mobile and Nokia Introduce the Nokia Lumia 810 |publisher=[[T-Mobile]] |date=2012-10-08 |url=http://newsroom.t-mobile.com/articles/t-mobile-announces-nokia-lumia-810 |accessdate=2012-10-09}}</ref>) and supports [[Qi (standard)|Qi]] [[inductive charging]] when equipped with a specific shell.<ref>{{cite web |url=http://www.latimes.com/business/technology/la-fi-tn-tmobile-nokia-lg-20121008,0,5906363.story |title=T-Mobile to offer Nokia Lumia 810 and LG Optimus L9 smartphones |work=[[Los Angeles Times]] |first=Salvador |last=Rodriguez |date=October 8, 2012 |accessdate=October 9, 2012}}</ref> It supports [[T-Mobile]]'s 4G network.
+
+The phone includes an enhanced [[HERE Drive+|Nokia Drive]] package with voice-guided [[turn-by-turn navigation]], and Nokia Transit, which allows navigation through local [[public transportation]]. [[Nokia City Lens]] offers a hybrid mapping/photography feature that overlays various points of interest in an image, such as businesses.<ref name="t-mobile"/> Additional photography-related features are [[Nokia Cinemagraph]], which is "a lens that creates animated GIFs"; panorama settings, and Group Shot. The phone includes a dedicated camera button that allows activating the camera from a sleeping or even locked device.<ref>{{cite news |title=Nokia Lumia 810 interesting WP8 phone for T-Mobile |publisher=phones review |date=2012-10-15 |url=http://www.phonesreview.co.uk/2012/10/15/nokia-lumia-810-interesting-wp8-phone-for-t-mobile/ |accessdate=2012-10-17}}</ref> The October 8 announcement included [[Nokia Music]], which can also be used offline.<ref name="t-mobile"/>
+
+The Lumia 810 was discontinued in stores on April 2013. As of April 4, 2014, the day Microsoft introduced its [[Windows Phone 8.1]] OS update, T-Mobile US stated that "no updates" for the 810 will be made available.<ref>[http://www.wpcentral.com/t-mobile-eols-lumia-810-getting-lumia-521-april-24th Out with the old, in with the new: T-Mobile EOLs Lumia 810, getting Lumia 521 April 24th | Windows Phone Central]</ref>  In February 2015, T-Mobile confirmed that Windows Phone 8.1 would not come to devices other than the Lumia 521 and Lumia 925.<ref name=WinBeta>{{cite news|last1=Shanahan|first1=Dave|title=T-Mobile will soon release Windows Phone 8.1 only to Lumia 521 and Lumia 925|url=http://www.winbeta.org/news/t-mobile-will-soon-release-windows-phone-81-only-lumia-521-and-lumia-925|accessdate=30 March 2015|work=WinBeta|date=Feb 9, 2015|ref=WinBeta}}</ref>
+
+Windows Phone 8.1 was not released for the phone, making the Lumia 810 the only Nokia Windows phone to not be updated to Windows Phone 8.1. However, it's possible to install Windows Phone 8.1 on the Lumia 810 through Microsoft's [[Windows Phone 8.1#Preview for Developers|Preview for Developers]] app.
+
+== See also ==
+*[[Microsoft Lumia]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://www.nokia.com/us-en/products/phone/lumia810/}}
+* [http://developer.nokia.com/devices/device-specifications/nokia-lumia-810 Nokia developer - specifications]
+
+{{Windows Phone}}
+{{Nokia Lumia}}
+
+[[Category:Nokia mobile phones|Lumia 810]]
+[[Category:Microsoft Lumia]]
+[[Category:Windows Phone devices]]
+[[Category:Mobile phones introduced in 2012]]
+[[Category:Discontinued smartphones]]
+[[Category:Videotelephony]]
+[[Category:Smartphones]]

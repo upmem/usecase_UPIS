@@ -1,0 +1,44 @@
+'''John Rodney Turner''' (born 21 January 1953)<ref name="JRT-CV 2013">[http://www.polimi.it/fileadmin/_migrated/content_uploads/CV_Turner_Rodney.pdf John Rodney TURNER Summary Education and Qualifications], at ''polimi.it.'' 03.10.2013. Accessed 26.06.2017.</ref> is a British/New Zealand [[organizational theorist]] and Professor of [[Project Management]] at [[Skema Business School]] since 2004 and at the [[Kingston Business School]] since 2013.<ref name="PRT 2017">[http://business.kingston.ac.uk/staff/professor-rodney-turner Professor Rodney Turner] at ''business.kingston.ac.uk.'' Accessed 27.06.2017</ref> He is known for his work of [[project management]].<ref>Chapman, Chris, and Stephen Ward. ''Project risk management: processes, techniques, and insights.'' Wiley, 2003.</ref><ref>Jugdev, Kam, and Ralf Müller. "A retrospective look at our evolving understanding of project success." ''Project Management Institute,'' 2005.</ref>
+
+== Biography ==
+Turner obtained his [[B.Eng]] from the [[University of Auckland]] in 1973, his DPhil in Engineering Science and MSc in mathematics from in [[Worcester College, Oxford]] in 1977, and another Msc from [[Brasenose College, Oxford]] in 1979.<ref name="JRT-CV 2013"/> 
+
+Turner started his academic career as IBM Post-doctoral Research Fellow in 1977 at [[Oxford University]] in its Department of Engineering Science and at [[Brasenose College]]. After his graduation in 1979 he moved into industry, starting as mechanical engineer at [[Imperial Chemical Industries]]. The next six years he worked in management positions in process development, project management, machine design, construction and maintenance. In 1985 he moved into consultancy branch and was management consultant for [[Coopers & Lybrand Associates]] in the fields of manufacturing and project management.<ref name="JRT-CV 2013"/> There for three years he worked in the areas of shipbuilding, manufacturing, telecommunications, computing, finance, and government.<ref name="PRT 2017"/>
+
+In 1989 he moved back to the academic world to the [[Henley Business School]] at the [[University of Reading]] as Director of Project Management, appointed Professor in 1994. In 1997 he moved to the [[Erasmus University Rotterdam]], where he served as Professor of Project Management until 2005. In those days he was also Operations Director in the process plant industry at the European Construction Institute. Since 2004 he is Professor of Project Management at the [[Skema Business School]]. From 2005 to 2009 he was also Professor of Project Management at [[Kemmy Business School]] at the [[University of Limerick]], at since 2013 Professor of Project Management at the [[Kingston Business School]].<ref name="JRT-CV 2013"/><ref name="PRT 2017"/> 
+
+Rodney served as chairman of the [[Association for Project Management]], and as chairman of the International Project Management Association from 1998-2000. 
+
+Turners research areas cover "project management in small to medium-enterprises, the management of complex projects, the governance of project management, including ethics and trust, project leadership and Human Resource Management in the project-oriented firm."<ref name="PRT 2017"/>
+
+== Selected publications ==
+* Turner, John Rodney. ''The handbook of project-based management: improving the processes for achieving strategic objectives.'' McGraw-Hill, 1993.
+* Turner, J. Rodney. ''Handbook of project-based management.'' McGraw-Hill Professional Publishing, 2008.
+
+;Articles, a selection
+* Turner, J. Rodney, and Robert A. Cochrane. "Goals-and-methods matrix: coping with projects with ill defined goals and/or methods of achieving them." International Journal of project management 11.2 (1993): 93-102.
+* Turner, J. Rodney, and Ralf Müller. "On the nature of the project as a temporary organization." ''International journal of project management'' 21.1 (2003): 1-8.
+* Turner, John Rodney, and Ralf Müller. "The project manager's leadership style as a success factor on projects: A literature review." Project Management Institute, 2005.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://business.kingston.ac.uk/staff/professor-rodney-turner Professor Rodney Turner] at ''business.kingston.ac.uk.''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Turner, Rodney}}
+[[Category:1953 births]]
+[[Category:Living people]]
+[[Category:British business theorists]]
+[[Category:University of Auckland alumni]]
+[[Category:Alumni of Worcester College, Oxford]]
+[[Category:Alumni of Brasenose College, Oxford]]
+[[Category:Academics of the University of Oxford]]
+[[Category:Academics of the University of Reading]]
+[[Category:Erasmus University Rotterdam faculty]]
+[[Category:Academics of the University of Limerick]]
+[[Category:Academics of Kingston University]]
+[[Category:Imperial Chemical Industries people]]
+[[Category:Coopers and Lybrand people]]

@@ -1,0 +1,79 @@
+{{short description|American equestrian}}
+{{Infobox sportsperson
+| name             = Kevin Freeman
+| image            = 
+| caption          = 
+| headercolor      = lightsteelblue
+| birth_date       = {{birth-date and age| October 21, 1941}}
+| birth_place      = [[Portland, Oregon]], U.S.
+| medaltemplates   = 
+{{MedalSport | [[Equestrian at the Summer Olympics|Equestrian]] }}
+{{MedalCountry | {{USA}} }}
+{{MedalOlympics}}
+{{MedalSilver | [[1964 Summer Olympics|1964 Tokyo]] | [[Equestrian at the 1964 Summer Olympics|Team eventing]] }}
+{{MedalSilver | [[1968 Summer Olympics|1968 Mexico]]   | [[Equestrian at the 1968 Summer Olympics|Team eventing]] }}
+{{MedalSilver | [[1972 Summer Olympics|1972 Munich]] | [[Equestrian at the 1972 Summer Olympics|Team eventing]] }}
+{{MedalCompetition | [[Equestrian at the Pan American Games|Pan American Games]] }}
+{{MedalGold | [[1963 Pan American Games|1963 São Paulo]] | [[Equestrian at the 1963 Pan American Games|Team eventing]] }}
+{{MedalSilver | [[1963 Pan American Games|1963 São Paulo]] | [[Equestrian at the 1963 Pan American Games|Individual eventing]] }}
+| show-medals      = yes
+| fullname         = Kevin John Freeman
+}}
+
+'''Kevin John Freeman''' (born October 21, 1941) is an American [[equestrianism|equestrian]] who competed at three Olympic Games, winning silver medals in team eventing in 1964 and 1972.
+
+==Early life==
+Born in [[Portland, Oregon]], Freeman grew up on a farm in nearby [[Molalla, Oregon|Molalla]]. After attending [[Cornell University]], Freeman developed his equestrian skills in [[California]].<ref name=oshof>{{cite web
+ |url=http://www.oregonsportshall.org/kevin_freeman.html 
+ |title=Kevin Freeman – Equestrian 
+ |accessdate=April 6, 2011 
+ |publisher=[[Oregon Sports Hall of Fame]] 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20111002171632/http://www.oregonsportshall.org/kevin_freeman.html 
+ |archivedate=October  2, 2011 
+}}</ref> He competed in the [[1963 Pan American Games]], earning a gold medal in team competition, and a silver as an individual.<ref name=oshof />
+
+==Olympics==
+In 1964, Freeman competed in [[eventing]] for the United States at the [[1964 Summer Olympics]] in [[Tokyo, Japan|Tokyo]] aboard Gallopade, earning a silver medal in team competition and finishing 12th individually.<ref name=oshof /> Freeman competed again on the US Team in the [[1968 Summer Olympics]] in [[Mexico City, Mexico|Mexico City]] riding Chalan. Kevin had ridden Chalan only one time before the Olympics and that was the day before the team shipped out for Mexico. In spite of a torrential rain storm on cross-country which obliterated some of the take-offs and landings, the team still won the silver medal.  <ref name="oshof" /><ref name="sr">{{cite web|url=https://www.sports-reference.com/olympics/athletes/fr/kevin-freeman-1.html|archive-url=https://web.archive.org/web/20200418000929/https://www.sports-reference.com/olympics/athletes/fr/kevin-freeman-1.html|url-status=dead|archive-date=April 18, 2020|title=Kevin Freeman Biography and Olympic Results|publisher=sports-reference.com|accessdate=April 6, 2011}}</ref>
+
+==After competition==
+He was inducted into the [[Oregon Sports Hall of Fame]] in 1991,<ref name=oshof /> and in 2009, was inducted into the [[United States Eventing Association]] Hall of Fame along with Good Mixture, his horse at the 1972 Olympics.<ref name=gilmer>{{cite news
+| url=http://www.oregonlive.com/washingtoncounty/index.ssf/2009/12/olympic_horseman_from_oregon_i.html
+| title=Olympic horseman from Oregon inducted into eventing hall of fame
+| last=Gilmer
+| first=Ellen
+| date=December 17, 2009
+| accessdate=April 6, 2011
+}}</ref><ref name=usea>{{cite web
+| url=http://useventing.com/hof/index.php?id=26
+| title=Kevin Freeman
+| accessdate=April 6, 2011
+| publisher=U.S. Eventing Association
+| archive-url=https://web.archive.org/web/20170603042250/http://useventing.com/hof/index.php?id=26
+| archive-date=June 3, 2017
+| url-status=dead
+}}</ref> Freeman lives in the [[Garden Home-Whitford, Oregon|Garden Home]] neighborhood of Portland.<ref name=gilmer />
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Freeman, Kevin}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Portland, Oregon]]
+[[Category:People from Molalla, Oregon]]
+[[Category:Cornell University alumni]]
+[[Category:American male equestrians]]
+[[Category:Olympic equestrians of the United States]]
+[[Category:Olympic silver medalists for the United States in equestrian]]
+[[Category:Equestrians at the 1964 Summer Olympics]]
+[[Category:Equestrians at the 1968 Summer Olympics]]
+[[Category:Equestrians at the 1972 Summer Olympics]]
+[[Category:Olympic medalists in equestrian]]
+[[Category:Sportspeople from the Portland metropolitan area]]
+[[Category:Medalists at the 1972 Summer Olympics]]
+[[Category:Medalists at the 1964 Summer Olympics]]
+[[Category:Pan American Games medalists in equestrian]]
+[[Category:Pan American Games gold medalists for the United States]]
+[[Category:Pan American Games silver medalists for the United States]]
+[[Category:Equestrians at the 1963 Pan American Games]]

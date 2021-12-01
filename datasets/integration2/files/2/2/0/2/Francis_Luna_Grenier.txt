@@ -1,0 +1,70 @@
+{{short description|Canadian weightlifter}}
+{{Infobox sportsperson
+| headercolor    = lightblue
+| name           = Francis Luna-Grenier
+| image          = Francis Luna-Grenier.jpg
+| imagesize      = 250
+| caption        = Luna-Grenier lifts during the men's 69 kg weightlifting competition at the [[2015 Pan American Games]] in Toronto
+| birth_name     = 
+| fullname       = 
+| nickname       = 
+| nationality    = {{CAN}}
+| residence      = 
+| birth_date     = {{Birth date and age|1987|5|12}}
+| birth_place    = [[Montreal, Quebec]], Canada
+| death_date     = 
+| death_place    = 
+| height         = {{height|m=1.70|abbr=on}}
+| weight         = {{convert|69|kg|lb|0|abbr=on}}
+| website        = 
+| country        = 
+| sport          = [[Olympic weightlifting|Weightlifting]]
+| event          = 69 kg
+| collegeteam    = 
+| club           = Club d'Haltérophilie de Montréal
+| team           = 
+| turnedpro      = 
+| coach          = Andre Kulesza (CAN)
+| retired        = 
+| coaching       = 
+| worlds         = 
+| regionals      = 
+| nationals      = 
+| olympics       = 
+| paralympics    = 
+| highestranking = 
+| pb             = 
+| medaltemplates = 
+{{MedalCompetition | [[Pan American Games]]}}
+{{MedalBronze| [[2015 Pan American Games|2015 Toronto]] | &ndash; 69 kg }}
+}}
+
+'''Francis Luna-Grenier''' (born May 24, 1987 in [[Montreal]], [[Quebec]]) is a Canadian [[weightlifter]].<ref>{{cite sports-reference|title = Francis Luna-Grenier|url = https://www.sports-reference.com/olympics/athletes/lu/francis-luna-grenier-1.html|archive-url = https://web.archive.org/web/20200418062948/https://www.sports-reference.com/olympics/athletes/lu/francis-luna-grenier-1.html|url-status = dead|archive-date = 2020-04-18|access-date = 11  December 2012}}</ref> He qualified for the [[Weightlifting at the 2008 Summer Olympics – Men's 69 kg|men's lightweight category]] at the [[2008 Summer Olympics]] in [[Beijing]], by finishing fourth from the Pan American Weightlifting Championships in [[Callao, Peru]].<ref>{{cite news|title=U.S. weightlifting men's team qualifies for two Olympic slots|url=http://news.xinhuanet.com/english/2008-03/24/content_7848730.htm|publisher=Xinhua News Agency|date=24 March 2008|accessdate=11 December 2012}}</ref> He also achieved two top-ten finishes at the Junior World Championships in 2006 and in 2007.
+
+Luna-Grenier started his sporting career at the age of thirteen, when he was discovered at a summer day camp by Mario Parente, a certified national Olympic weightlifter from the [[1984 Summer Olympics]] in [[Los Angeles]], and a coach, who quickly shaped him into an elite athlete. Two years later, Luna-Grenier became a Canadian senior national champion, and aimed to become the nation's first weightlifter to capture an Olympic gold medal, when he was featured as The Gazette's Amateur Athlete of the Week.<ref>{{cite news|last=Basu|first=Arpon|title=Weightlifter's coach left a legacy|url=http://www2.canada.com/edmontonjournal/news/sports/beijing2008/story.html?id=2d3d6a6a-8b64-4af2-91b0-bcb580c74018|archive-url=https://archive.today/20130118231757/http://www2.canada.com/edmontonjournal/news/sports/beijing2008/story.html?id=2d3d6a6a-8b64-4af2-91b0-bcb580c74018|url-status=dead|archive-date=18 January 2013|publisher=Canada.com|date=28 May 2008|accessdate=11 December 2012}}</ref> In 2006, Luna-Grenier, however, was devastated upon the death of his coach Parente from an apparent heart attack, but had forged on with the guidance of Andre Kulesza, who administered and worked as the head coach for Club d'Haltérophilie de Montréal.<ref name=luna-grenier>{{cite news|last=Stubbs|first=Dave|title=Olympic debut lifts weight off Luna-Grenier's shoulders|url=http://www2.canada.com/topics/sports/beijing2008/story.html?id=b18cb5a0-dab7-4c7a-8ea6-6e9e4a582de5|archive-url=https://archive.today/20130118205623/http://www2.canada.com/topics/sports/beijing2008/story.html?id=b18cb5a0-dab7-4c7a-8ea6-6e9e4a582de5|url-status=dead|archive-date=18 January 2013|publisher=Canada.com|date=11 August 2008|accessdate=11 December 2012}}</ref> Despite of his former coach's sudden loss, Luna-Grenier had captured numerous sporting successes, including his seventh-place finish at the [[2006 Commonwealth Games]] in [[Melbourne, Australia]], and top-ten finishes from the Junior World Championships.
+
+At the 2008 Summer Olympics, Luna-Grenier successfully lifted 131&nbsp;kg in the single-motion [[snatch (weightlifting)|snatch]], and hoisted 172&nbsp;kg more in the two-part, shoulder-to-overhead [[clean and jerk]], to combine a total of 293&nbsp;kg, finishing in seventeenth place.<ref>{{cite web |title=Men's 69kg (152 lbs) |url=http://www.2008.nbcolympics.com/weightlifting/resultsandschedules/rsc=WLM069000/standings.html |publisher=[[NBC Olympics]] |accessdate=11 December 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120730233112/http://www.2008.nbcolympics.com/weightlifting/resultsandschedules/rsc%3DWLM069000/standings.html |archivedate=30 July 2012 }}</ref> His sporting effort tied him with Sri Lanka's [[Chinthana Vidanage]], who ranked atop the group for weighing seven hundredths of a kilogram less than his weight.<ref name=luna-grenier/>
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[http://olympic.ca/team-canada/francis-luna-grenier Profile – Canadian Olympic Team]
+*[http://www.jftintl.com/athletes/francis-luna-grenier/ Profile – JFT International] {{in lang|fr}}
+*[https://web.archive.org/web/20120819143410/http://www.2008.nbcolympics.com/athletes/athlete=66331/bio/index.html NBC 2008 Olympics profile]
+
+{{DEFAULTSORT:Luna-Grenier, Francis}}
+[[Category:Canadian male weightlifters]]
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Olympic weightlifters of Canada]]
+[[Category:Weightlifters at the 2008 Summer Olympics]]
+[[Category:Sportspeople from Montreal]]
+[[Category:Weightlifters at the 2014 Commonwealth Games]]
+[[Category:Commonwealth Games competitors for Canada]]
+[[Category:Weightlifters at the 2015 Pan American Games]]
+[[Category:Pan American Games bronze medalists for Canada]]
+[[Category:Pan American Games medalists in weightlifting]]
+
+
+{{Canada-weightlifting-bio-stub}}

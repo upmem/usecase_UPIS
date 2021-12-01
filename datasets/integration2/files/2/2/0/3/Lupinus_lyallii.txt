@@ -1,0 +1,21 @@
+{{Speciesbox
+|image = Dwarf Lupine at Frozen Lake.jpg
+|image_caption = Dwarf Lupine at Frozen Lake
+|genus = Lupinus
+|species = lyallii
+|authority = [[Sereno Watson|S. Watson]]
+}}
+
+'''''Lupinus lyallii''''', common names of which are '''dwarf mountain lupine''',<ref>{{PLANTS|id=LULY|taxon=Lupinus lyallii|accessdate=24 June 2015}}</ref> '''Lobb's lupine''', and '''Lobb's tidy lupine''', is a species of [[flowering plant]] from the order of [[Lamiales]] which can be found in [[California]] and elsewhere in western [[North America]].<ref>{{cite web|url=http://www.calflora.org/cgi-bin/species_query.cgi?where-taxon=Lupinus+sellulus+var.+lobbii|title=''Lupinus lyallii'' S. Watson|publisher=CalFlora|accessdate=November 5, 2013}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikispecies|Lupinus lyallii|''Lupinus lyallii''}}
+
+{{Taxonbar|from=Q3064160}}
+
+[[Category:Lupinus|lyallii]]
+[[Category:Flora of British Columbia]]
+[[Category:Flora of the Western United States]]

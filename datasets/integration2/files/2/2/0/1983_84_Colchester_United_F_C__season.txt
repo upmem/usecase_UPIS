@@ -1,0 +1,1645 @@
+{{Use dmy dates|date=April 2018}}
+{{Use British English|date=April 2018}}
+{{Infobox football club season
+|club               = [[Colchester United F.C.|Colchester United]]
+|season             = 1983–84
+|chairman           = Maurice Cadman<ref name="WWCU">{{cite book |last1=Whitehead |first1=Jeff |last2=Drury |first2=Kevin |title=The Who's Who of Colchester United: The Layer Road Years |year=2008 |publisher=Breedon Books |location=Derby |isbn=978-1-85983-629-3 |page=279}}</ref>
+|owner              = 
+|manager            = [[Cyril Lea]]
+|stadium            = [[Layer Road]]
+|league             = [[1983–84 Football League Fourth Division|Fourth Division]]
+|league result      = 8th
+|cup1               = [[FA Cup]]
+|cup1 result        = 3rd round<br />(eliminated by<br />[[Charlton Athletic F.C.|Charlton Athletic]])
+|cup2               = [[EFL Cup|League Cup]]
+|cup2 result        = 3rd round<br />(eliminated by<br />[[Manchester United F.C.|Manchester United]])
+|cup3               = [[EFL Trophy|Associate Members' Cup]]
+|cup3 result        = 2nd round (southern section)<br />(eliminated by<br />[[Southend United F.C.|Southend United]]
+|league topscorer   = <br />[[Tony Adcock]] (26)
+|season topscorer   = <br />[[Tony Adcock]] (33)
+|highest attendance = 13,031<br />v [[Manchester United F.C.|Manchester United]], 9 November 1983<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=match&pd=1022&sort=shan&order=asc&fsea=44&frt=all&fhan=all&it=2061 |title=Colchester Utd 0–2 Manchester United |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>
+|lowest attendance  = 1,226<br />v [[Torquay United F.C.|Torquay United]], 28 April 1984<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=match&pd=1022&sort=shan&order=asc&fsea=44&frt=all&fhan=all&it=2093 |title=Colchester Utd 3–0 Torquay United |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>
+|average attendance = 2,847<ref>{{cite web |url=http://coludaybyday.co.uk/Statistics/Club%20Stats/LeagueAveragesAttendance.html |title=Average Attendance Figures Per Season |publisher=Coludaybyday.co.uk |accessdate=29 April 2018 }}</ref>
+|largest win        = 6–0<br />v [[Hartlepool United F.C.|Hartlepool United]], 3 December 1983
+|largest loss       = 1–5<br />v [[Aldershot F.C.|Aldershot]], 23 April 1984
+|pattern_name1      = Home
+|pattern_la1        = _blue_stripes4
+|pattern_b1         = _bluestripes4
+|pattern_ra1        = _blue_stripes4
+|pattern_sh1        = 
+|pattern_so1        = 
+|leftarm1           = 0000FF
+|body1              = 0000FF
+|rightarm1          = 0000FF
+|shorts1            = FFFFFF
+|socks1             = FFFFFF
+|alt1               = 
+|prevseason         = [[1982–83 Colchester United F.C. season|1982–83]]
+|nextseason         = [[1984–85 Colchester United F.C. season|1984–85]]
+}}
+The '''1983–84 season''' was [[Colchester United F.C.|Colchester United's]] 42nd season in their history and third consecutive season in fourth tier of [[Football in England|English football]], the [[Football League Fourth Division|Fourth Division]]. Alongside competing in the Fourth Division, the club also participated in the [[FA Cup]], the [[EFL Cup|League Cup]] and the [[Football League Trophy|Associate Members' Cup]].
+
+Another promotion push ended a long way short with an eighth-placed finish, 15 points shy of the promotion places. Colchester reached the third round of the League Cup, where they faced [[Manchester United F.C.|Manchester United]] at [[Layer Road]] only to suffer a 2–0 defeat. They also reached the third round of the FA Cup, exiting to [[Charlton Athletic F.C.|Charlton Athletic]]. In the inaugural [[EFL Trophy|Associate Members' Cup]], the U's fell to a 2–0 defeat to Essex rivals [[Southend United F.C.|Southend United]] in the second round.
+
+==Season overview==
+[[Cyril Lea]] began his first full season in charge by bringing in assistant [[Stewart Houston]] in a [[player-coach]] capacity. He had however already seen the frustrating exit of last seasons top scorer [[Ian Allinson]], who was allowed to leave the club for [[Arsenal F.C.|Arsenal]] on a free transfer following an administrative error.
+
+In the early stages of the season, Colchester kept pace with the leaders as they embarked on a [[EFL Cup|League Cup]] run. Following a 1–1 draw at [[Football League Second Division|Second Division]] [[Swansea City A.F.C.|Swansea City]], chairman Maurice Cadman pledged Lea funds to purchase two players if there was an attendance greater than 5,000 in the second leg of the tie. As such, 5,204 were in attendance to see the U's beat the Swans 1–0. They were drawn at home to [[Manchester United F.C.|Manchester United]] in the third round as [[Layer Road]] saw its final-ever five figure gate when 13,031 saw the 2–0 defeat for the U's.
+
+Colchester's form tailed off in the latter stages of the season as they ended the season 15 points adrift of the promotion places in eighth position, despite [[Tony Adcock]]'s 33 goals. Now frustrated at his board's successive attempts to fund promotion that ultimately ended in failure, Maurice Cadman announced that win bonuses would be dropped for the [[1984–85 Colchester United F.C. season|1984–85]] season replaced by an insurance-backed promotion bonus. He also announced that the club had been put up for sale at a value of £150,000.
+
+Attendances on average were up, largely in thanks to the cup runs, but otherwise league attendances dropped off, and a new low of 1,226 witnessed Colchester's 3–0 win over [[Torquay United F.C.|Torquay United]] on 28 April 1984. Meanwhile, stalwarts [[Micky Cook (footballer, born 1951)|Micky Cook]], who had set a club record of 614 league appearances, and [[Steve Leslie (footballer, born 1952)|Steve Leslie]] both retired through injury.<ref>{{cite web |url=https://www.cu-fc.com/news/2012/july/the-1970s-and-1980s/ |title=The 1970s and 1980s |last=Hudson |first=Matt |date=11 July 2012 |publisher=Colchester United FC |accessdate=29 April 2018 }}</ref>
+
+==Players==
+{{updated|match played 11 May 1984.}}<ref name="apps">{{cite web |url=http://coludata.co.uk/content.php?pg=appearances&pd=1010#frmft=True&pg=appearances&pd=1010&fsea=44&fplist=all&flgcup=all&fcompstShowAll=&fdfaShowAll= |title=Appearances |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>
+{| class="wikitable" style="text-align:center; font-size:90%; width:100%;"
+|-
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Name
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Position
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Nationality
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Place of birth
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Date of birth
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Apps
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Goals
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Signed from
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Date signed
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Fee
+|-
+! colspan="12" style="background:#dcdcdc; text-align:center;"| Goalkeepers
+|-
+|[[Alec Chamberlain]]||[[Goalkeeper (association football)|GK]]||{{flagicon|ENG}}||[[March, Cambridgeshire|March]]||{{birth date and age2 |1983|6|1|1964|6|20|df=y}}||4||0||{{flagicon|ENG}} [[Ipswich Town F.C.|Ipswich Town]]||Summer 1982||Undisclosed
+|-
+! colspan="12" style="background:#dcdcdc; text-align:center;"| Defenders
+|-
+|[[Phil Coleman (footballer)|Phil Coleman]]||[[Full back (association football)|FB]]||{{flagicon|ENG}}||[[Woolwich]]||{{birth date and age2 |1983|6|1|1960|9|8|df=y}}||96||7||{{flagicon|ENG}} [[Millwall F.C.|Millwall]]||February 1981||£15,000
+|-
+|[[Tony Hadley (footballer)|Tony Hadley]]||[[Centre-back|CB]]||{{flagicon|ENG}}||[[Upminster]]||{{birth date and age2 |1983|6|1|1955|7|5|df=y}}||0||0||{{flagicon|ENG}} [[Southend United F.C.|Southend United]]||August 1983||Undisclosed
+|-
+|[[Rudi Hedman]]||[[Centre-back|CB]]||{{flagicon|ENG}}||[[Lambeth]]||{{birth date and age2 |1983|6|1|1964|11|16|df=y}}||0||0||Apprentice||February 1984||Free transfer
+|-
+|[[Stewart Houston]]||[[Centre-back|CB]]||{{flagicon|SCO}}||[[Dunoon]]||{{birth date and age2 |1983|6|1|1949|8|20|df=y}}||0||0||{{flagicon|ENG}} [[Sheffield United F.C.|Sheffield United]]||Summer 1983||Undisclosed
+|-
+|[[Ian Phillips]]||[[Full back (association football)|FB]]||{{flagicon|SCO}}||[[Cumnock]]||{{birth date and age2 |1983|6|1|1959|4|23|df=y}}||0||0||{{flagicon|ENG}} [[Northampton Town F.C.|Northampton Town]]||September 1983||£5,000
+|-
+|[[Steve Wignall]]||[[Centre-back|CB]]||{{flagicon|ENG}}||[[Liverpool]]||{{birth date and age2 |1983|6|1|1954|9|17|df=y}}||288||17||{{flagicon|ENG}} [[Doncaster Rovers F.C.|Doncaster Rovers]]||September 1977||£5,000
+|-
+! colspan="12" style="background:#dcdcdc; text-align:center;"| Midfielders
+|-
+|[[Andy Farrell (footballer)|Andy Farrell]]||[[Midfielder|MF]]/[[Full back (association football)|FB]]||{{flagicon|ENG}}||[[Colchester]]||{{birth date and age2 |1983|6|1|1965|10|7|df=y}}||0||0||Apprentice||Summer 1982||Free transfer
+|-
+|[[Jeff Hull]]||[[Midfielder|MF]]||{{flagicon|ENG}}||[[Rochford]]||{{birth date and age2 |1983|6|1|1960|8|25|df=y}}||27||4||{{flagicon|ENG}} [[Basildon United F.C.|Basildon United]]||17 December 1982{{efn|name=DG|Date of signing refers to the date of the player's first game for the club}}||Undisclosed
+|-
+|[[Steve Leslie (footballer, born 1952)|Steve Leslie]]||[[Midfielder|MF]]||{{flagicon|ENG}}||[[Hornsey]]||{{birth date and age2 |1983|6|1|1952|9|4|df=y}}||471||45||Apprentice||20 April 1971{{efn|name=DG}}||Free transfer
+|-
+|[[Roger Osborne]]||[[Midfielder|MF]]||{{flagicon|ENG}}||[[Otley, Suffolk|Otley]]||{{birth date and age2 |1983|6|1|1950|3|9|df=y}}||113||7||{{flagicon|ENG}} [[Ipswich Town F.C.|Ipswich Town]]||February 1981||£25,000
+|-
+! colspan="12" style="background:#dcdcdc; text-align:center;"| Forwards
+|-
+|[[Tony Adcock]]||[[Forward (association football)|FW]]||{{flagicon|ENG}}||[[Bethnal Green]]||{{birth date and age2 |1983|6|1|1963|3|27|df=y}}||83||23||Apprentice||31 March 1981||Free transfer
+|-
+|[[Keith Bowen]]||[[Forward (association football)|FW]]||{{flagicon|WAL}}||{{flagicon|ENG}} [[Northampton]]||{{birth date and age2 |1983|6|1|1958|2|26|df=y}}||13||4||{{flagicon|ENG}} [[Brentford F.C.|Brentford]]||25 March 1983{{efn|name=SDG|Date of signing refers to the date of the player's first game in his second spell for the club}}||£10,000
+|-
+|[[Perry Groves]]||[[Winger (association football)|WG]]||{{flagicon|ENG}}||[[Bow, London|Bow]]||{{birth date and age2 |1983|6|1|1965|4|19|df=y}}||31||3||{{flagicon|ENG}} Cornard Dynamos||Summer 1981||Free transfer
+|-
+|[[Dave Hubbick]]||[[Forward (association football)|FW]]||{{flagicon|ENG}}||[[South Shields]]||{{birth date and age2 |1983|6|1|1960|3|16|df=y}}||0||0||{{flagicon|ENG}} [[Dagenham F.C.|Dagenham]]||15 October 1983{{efn|name=DG}}||Free transfer
+|-
+|[[Les Mutrie]]||[[Forward (association football)|FW]]||{{flagicon|ENG}}||[[Newcastle upon Tyne]]||{{birth date and age2 |1983|6|1|1951|4|1|df=y}}||0||0||{{flagicon|ENG}} [[Hull City A.F.C.|Hull City]]||January 1984||£10,000
+|-
+|[[Craig Oldfield]]||[[Forward (association football)|FW]]||{{flagicon|ENG}}||[[Warley, Essex|Warley]]||{{birth date and age2 |1983|6|1|1963|11|24|df=y}}||0||0||{{flagicon|ENG}} [[Stowmarket Town F.C.|Stowmarket Town]]||Summer 1982||Free transfer
+|-
+|[[John Taylor (footballer, born 1964)|John Taylor]]||[[Forward (association football)|FW]]||{{flagicon|ENG}}||[[Norwich]]||{{birth date and age2 |1983|6|1|1964|10|24|df=y}}||0||0||Apprentice||Summer 1981||Free transfer
+|}
+
+{{notelist}}
+
+==Transfers==
+
+===In===
+{| class="wikitable" style="text-align:center; font-size:90%; width:100%;"
+|-
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Date
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Position
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Nationality
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Name
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| From
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Fee
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Ref.
+|-
+|Summer 1983
+|CB
+|{{flagicon|SCO}}
+|[[Stewart Houston]]
+|{{flagicon|ENG}} [[Sheffield United F.C.|Sheffield United]]
+|Undisclosed
+|<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=410 |title=Stewart Houston |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>
+|-
+|August 1983
+|CB
+|{{flagicon|ENG}}
+|[[Tony Hadley (footballer)|Tony Hadley]]
+|{{flagicon|ENG}} [[Southend United F.C.|Southend United]]
+|Undisclosed
+|<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=409 |title=Tony Hadley |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>
+|-
+|September 1983
+|FB
+|{{flagicon|SCO}}
+|[[Ian Phillips]]
+|{{flagicon|ENG}} [[Northampton Town F.C.|Northampton Town]]
+|£5,000
+|<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=412 |title=Ian Phillips |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>
+|-
+|October 1983
+|CB
+|{{flagicon|ENG}}
+|[[Adam Nichols]]
+|{{flagicon|ENG}} [[Bidvest Wits F.C.|Wits University]]
+|Free transfer
+|<ref name=Nichols>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=415 |title=Adam Nichols |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>
+|-
+|15 October 1983
+|FW
+|{{flagicon|ENG}}
+|[[Dave Hubbick]]
+|{{flagicon|ENG}} [[Dagenham F.C.|Dagenham]]
+|Free transfer
+|<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=414 |title=Dave Hubbick |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>{{efn|name=DG|Date of signing refers to the date of the player's first game for the club}}
+|-
+|January 1984
+|FW
+|{{flagicon|ENG}}
+|[[Les Mutrie]]
+|{{flagicon|ENG}} [[Hull City A.F.C.|Hull City]]
+|£10,000
+|<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=416 |title=Les Mutrie |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>
+|-
+|February 1984
+|CB
+|{{flagicon|ENG}}
+|[[Rudi Hedman]]
+|Apprentice
+|Free transfer
+|<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=417 |title=Rudi Hedman |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>
+|}
+* Total spending: {{loss}} ~ £15,000
+{{notelist}}
+
+===Out===
+{| class="wikitable" style="text-align:center; font-size:90%; width:100%;"
+|-
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Date
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Position
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Nationality
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Name
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| To
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Fee
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Ref.
+|-
+|End of season
+|GK
+|{{Flagicon|ENG}}
+|Ian Cranstone
+|{{flagicon|ENG}} [[Wealdstone F.C.|Wealdstone]]
+|Free transfer
+|<ref>{{cite web |url=http://archive.mehstg.com/fact_cranstone.htm |title=Ian Cranstone – fact file |publisher=mehstg.com |accessdate=29 April 2018 }}</ref>
+|-
+|End of season
+|GK
+|
+|Bobby Hamilton
+|[[Free agent]]
+|Released
+|<ref>{{cite book |last1=Whitehead |first1=Jeff |last2=Drury |first2=Kevin |title=The Who's Who of Colchester United: The Layer Road Years |year=2008 |publisher=Breedon Books |location=Derby |isbn=978-1-85983-629-3 |page=239}}</ref>
+|-
+|End of season
+|CB
+|{{Flagicon|ENG}}
+|[[Adrian Keith]]
+|{{flagicon|ENG}} [[Haverhill Rovers F.C.|Haverhill Rovers]]
+|Released
+|<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=404 |title=Adrian Keith |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>
+|-
+|End of season
+|FB
+|{{Flagicon|ENG}}
+|[[Wayne Ward]]
+|{{flagicon|ENG}} [[Wivenhoe Town F.C.|Wivenhoe Town]]
+|Released
+|<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=400 |title=Wayne Ward |publisher=Coludata.co.uk |accessdate=25 April 2018 }}</ref>
+|-
+|End of season
+|MF
+|
+|Andy Gooding
+|{{flagicon|ENG}} [[Wivenhoe Town F.C.|Wivenhoe Town]]
+|Released
+|<ref>{{cite web |url=https://memoriesofadragon.wordpress.com/2015/08/02/essex-senior-league-dragons-a-z-part-three/ |title=ESSEX SENIOR LEAGUE DRAGONS A – Z PART THREE |date=2 August 2015 |publisher=Welcome To The Dragons' Den |accessdate=29 April 2018 }}</ref>
+|-
+|Summer 1983
+|FW
+|{{Flagicon|ENG}}
+|[[Roy McDonough]]
+|{{flagicon|ENG}} [[Southend United F.C.|Southend United]]
+|Undisclosed
+|<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=394 |title=Roy McDonough |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>
+|-
+|2 January 1984
+|CB
+|{{Flagicon|ENG}}
+|[[Adam Nichols]]
+|Free agent
+|Released
+|<ref name=Nichols/>{{efn|name=FG|Date of departure refers to the date of the player's final game for the club}}
+|-
+|14 April 1984
+|FB
+|{{Flagicon|ENG}}
+|[[Micky Cook (footballer, born 1951)|Micky Cook]]
+|Free agent
+|Retired
+|<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=310 |title=Micky Cook |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref>{{efn|name=FG}}{{efn|Stayed on with Colchester United as coach}}
+|}
+* Total incoming: {{gain}} ~ £0
+{{notelist}}
+
+===Loans out===
+{| class="wikitable" style="text-align:center; font-size:90%; width:100%;"
+|-
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Date
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Position
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Nationality
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Name
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| To
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| End date
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Ref.
+|-
+|September 1983
+|FB
+|{{Flagicon|ENG}}
+|[[Phil Coleman (footballer)|Phil Coleman]]
+|{{Flagicon|WAL}} [[Wrexham A.F.C.|Wrexham]]
+|March 1984
+|<ref>{{cite web |url=http://coludata.co.uk/item.php?pg=player&it=396 |title=Phil Coleman |publisher=Coludata.co.uk |accessdate=29 April 2018 }}</ref><ref>{{cite web |url=http://www.neilbrown.newcastlefans.com/player/philcoleman.html |title=Phil Coleman |publisher=Post War English & Scottish Football League A–Z Player's Transfer Database |accessdate=29 April 2018 }}</ref>
+|}
+
+{{notelist}}
+
+==Match details==
+
+===Fourth Division===
+{{Main|1983–84 Football League}}
+
+====Results round by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+|res1=A/H/H/A/H/A/A/H/A/H/H/A/H/A/H/A/A/H/H/A/H/H/H/H/A/H/H/A/H/A/A/H/H/A/A/A/H/A/A/H/A/H/A/A/H/A
+|label2= Result
+|res2=W/W/D/D/W/D/L/W/L/D/W/L/W/D/W/D/L/W/W/L/W/D/W/D/W/W/D/D/D/D/L/W/L/L/L/D/L/D/D/D/L/W/L/W/W/L
+|label3= Position
+|res3=5/3/2/2/2/4/4/3/3/5/3/4/4/4/2/4/7/4/3/6/4/6/5/7/7/5/5/6/6/6/6/6/6/7/9/8/9/9/9/9/10/9/9/8/7/7
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_-4=green1|color_21-=red1
+
+|source=[https://www.11v11.com/league-tables/league-division-four/1984/ 11v11.com] 
+|date=8 July 2018
+}}
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+====League table====
+{{:1983–84 Football League|transcludesection=Fourth Division|only_totals=y|showteam=COL}}
+====Matches====
+{{football box collapsible
+|date = {{Start date|1983|8|27|df=y}}
+|time =
+|round = 1
+|team1 = [[Darlington F.C.|Darlington]]
+|score = 0–2
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2042 Report]
+|team2 = Colchester United
+|goals1 =
+|goals2 = [[Tony Adcock|Adcock]] {{goal|74}}<br />[[Stewart Houston|Houston]] {{goal|86}}
+|stadium = [[Feethams]]
+|location = [[Darlington]]
+|attendance = 1,441
+|referee = [[Roger Dilkes]]
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1983|9|3|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 2
+|team1 = Colchester United
+|score = 2–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2044 Report]
+|team2 = [[Blackpool F.C.|Blackpool]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|14|pen.}}<br />[[Dave Serella|Serella]] {{goal|87|o.g.}}
+|goals2 = [[Dave Serella|Serella]] {{goal|46}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,169
+|referee = J Ashworth
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1983|9|6|df=y}}
+|time = 19:30 [[British Summer Time|BST]]
+|round = 3
+|team1 = Colchester United
+|score = 0–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2045 Report]
+|team2 = [[Bristol City F.C.|Bristol City]]
+|goals1 =
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,120
+|referee = M James
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1983|9|9|df=y}}
+|time =
+|round = 4
+|team1 = [[Stockport County F.C.|Stockport County]]
+|score = 0–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2046 Report]
+|team2 = Colchester United
+|goals1 =
+|goals2 =
+|stadium = [[Edgeley Park]]
+|location = [[Stockport]]
+|attendance = 2,077
+|referee = Vic Callow
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1983|9|17|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 5
+|team1 = Colchester United
+|score = 4–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2048 Report]
+|team2 = [[Rochdale A.F.C.|Rochdale]]
+|goals1 = [[Keith Bowen|Bowen]] {{goal|30}}<br />[[Tony Adcock|Adcock]] {{goal|38||51}}<br />[[Steve Wignall|Wignall]] {{goal|53}}
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 1,955
+|referee = Colin Downey
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1983|9|24|df=y}}
+|time =
+|round = 6
+|team1 = [[Chesterfield F.C.|Chesterfield]]
+|score = 1–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2049 Report]
+|team2 = Colchester United
+|goals1 = [[Alan Birch (footballer)|Birch]] {{goal|66}}
+|goals2 = [[Steve Wignall|Wignall]] {{goal|73}}
+|stadium = [[Saltergate]]
+|location = [[Chesterfield]]
+|attendance = 4,106
+|referee = D Scott
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1983|9|26|df=y}}
+|time =
+|round = 7
+|team1 = [[Tranmere Rovers F.C.|Tranmere Rovers]]
+|score = 2–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2050 Report]
+|team2 = Colchester United
+|goals1 = [[Gary Williams (footballer, born 1959)|Williams]] {{goal|18|pen.}}<br />[[Mark Ferguson (footballer)|Ferguson]] {{goal|89}}
+|goals2 = [[Tony Adcock|Adcock]] {{goal|60|pen.}}
+|stadium = [[Prenton Park]]
+|location = [[Birkenhead]]
+|attendance = 1,866
+|referee = M Heath
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1983|10|1|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 8
+|team1 = Colchester United
+|score = 1–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2051 Report]
+|team2 = [[Chester City F.C.|Chester City]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|55}}
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 1,976
+|referee = [[Martin Bodenham]]
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1983|10|7|df=y}}
+|time =
+|round = 9
+|team1 = [[York City F.C.|York City]]
+|score = 3–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2053 Report]
+|team2 = Colchester United
+|goals1 = McPhail {{goal|41}}<br />[[Brian Pollard|Pollard]] {{goal|72|pen.}}<br />[[Keith Walwyn|Walwyn]] {{goal|85}}
+|goals2 =
+|stadium = [[Bootham Crescent]]
+|location = [[York]]
+|attendance = 6,207
+|referee = R Guy
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1983|10|15|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 10
+|team1 = Colchester United
+|score = 2–2
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2054 Report]
+|team2 = [[Northampton Town F.C.|Northampton Town]]
+|goals1 = [[Stewart Houston|Houston]] {{goal|16}}<br />[[Micky Cook (footballer, born 1951)|Cook]] {{goal|78}}
+|goals2 = [[Terry Austin (footballer)|Austin]] {{goal|11}}<br />O'Neill {{goal|81}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 1,964
+|referee = D Letts
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1983|10|18|df=y}}
+|time = 19:30 [[British Summer Time|BST]]
+|round = 11
+|team1 = Colchester United
+|score = 1–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2055 Report]
+|team2 = [[Bury F.C.|Bury]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|20}}
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 1,969
+|referee = Ian Borrett
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1983|10|22|df=y}}
+|time =
+|round = 12
+|team1 = [[Swindon Town F.C.|Swindon Town]]
+|score = 2–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2056 Report]
+|team2 = Colchester United
+|goals1 = [[Andy Rowland|Rowland]] {{goal|52}}<br />[[Dave Hockaday|Hockaday]] {{goal|77}}
+|goals2 = [[Tony Adcock|Adcock]] {{goal|44|pen.}}
+|stadium = [[County Ground (Swindon)|County Ground]]
+|location = [[Swindon]]
+|attendance = 3,079
+|referee = A Crickmore
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1983|10|29|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = 13
+|team1 = Colchester United
+|score = 2–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2058 Report]
+|team2 = [[Crewe Alexandra F.C.|Crewe Alexandra]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|50||89|pen.}}
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 3,402
+|referee = M Taylor
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1983|11|1|df=y}}
+|time =
+|round = 14
+|team1 = [[Doncaster Rovers F.C.|Doncaster Rovers]]
+|score = 3–3
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2059 Report]
+|team2 = Colchester United
+|goals1 = [[Colin Douglas (footballer)|Douglas]] {{goal|21}}<br />[[Mark Miller (footballer)|Miller]] {{goal|50}}<br />[[Ian Snodin|Snodin]] {{goal|87|pen.}}<br />[[Glenn Humphries|Humphries]] {{sent off}}
+|goals2 = [[Keith Bowen|Bowen]] {{goal|6}}<br />[[Glenn Humphries|Humphries]] {{goal|13|o.g.}}<br />[[Tony Adcock|Adcock]] {{goal|62|pen.}}
+|stadium = [[Belle Vue (Doncaster)|Belle Vue]]
+|location = [[Doncaster]]
+|attendance = 3,491
+|referee = I Hendrick
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1983|11|5|df=y}}
+|time =
+|round = 15
+|team1 = Colchester United
+|score = 3–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2060 Report]
+|team2 = [[Reading F.C.|Reading]]
+|goals1 = [[Stewart Houston|Houston]] {{goal|15}}<br />[[Steve Leslie (footballer, born 1952)|Leslie]] {{goal|17}}<br />[[Tony Adcock|Adcock]] {{goal|62}}
+|goals2 = [[Mark White (footballer)|White]] {{sent off|0|74}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,433
+|referee = E Scales
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1983|11|12|df=y}}
+|time =
+|round = 16
+|team1 = [[Mansfield Town F.C.|Mansfield Town]]
+|score = 0–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2062 Report]
+|team2 = Colchester United
+|goals1 =
+|goals2 =
+|stadium = [[Field Mill]]
+|location = [[Mansfield]]
+|attendance = 3,042
+|referee = J Hough
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1983|11|26|df=y}}
+|time =
+|round = 17
+|team1 = [[Torquay United F.C.|Torquay United]]
+|score = 2–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2064 Report]
+|team2 = Colchester United
+|goals1 = [[Keith Curle|Curle]] {{goal|38|pen.|45|pen.}}
+|goals2 = [[Micky Cook (footballer, born 1951)|Cook]] {{goal|32}}
+|stadium = [[Plainmoor]]
+|location = [[Torquay]]
+|attendance = 1,364
+|referee = J Deakin
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1983|12|3|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = 18
+|team1 = Colchester United
+|score = 6–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2065 Report]
+|team2 = [[Hartlepool United F.C.|Hartlepool United]]
+|goals1 = [[Steve Wignall|Wignall]] {{goal|14||82}}<br />[[Adam Nichols|Nichols]] {{goal|58}}<br />[[Ian Phillips|Phillips]] {{goal|69||89}}<br />[[Perry Groves|Groves]] {{goal|79}}
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 1,935
+|referee = Alan Gunn
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1983|12|17|df=y}}
+|time =
+|round = 19
+|team1 = Colchester United
+|score = 4–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2067 Report]
+|team2 = [[Halifax Town A.F.C.|Halifax Town]]
+|goals1 = [[Stewart Houston|Houston]] {{goal|5}}<br />[[Tony Adcock|Adcock]] {{goal|34}}<br />[[Keith Bowen|Bowen]] {{goal|88}}
+|goals2 = Greenaway {{goal|54}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 1,866
+|referee = Alf Buksh
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1983|12|26|df=y}}
+|time =
+|round = 20
+|team1 = [[Peterborough United F.C.|Peterborough United]]
+|score = 2–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2068 Report]
+|team2 = Colchester United
+|goals1 = Beech {{goal|75}}<br />[[Alan Waddle|Waddle]] {{goal|89}}
+|goals2 =
+|stadium = [[London Road Stadium]]
+|location = [[Peterborough]]
+|attendance = 6,527
+|referee = H Taylor
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1983|12|27|df=y}}
+|time =
+|round = 21
+|team1 = Colchester United
+|score = 4–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2069 Report]
+|team2 = [[Aldershot F.C.|Aldershot]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|1|pen.|23}}<br />[[Steve Wignall|Wignall]] {{goal|20}}<br />[[Keith Bowen|Bowen]] {{goal|51}}
+|goals2 = [[Ian McDonald (footballer, born 1953)|McDonald]] {{goal|22}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 3,123
+|referee = J Bray
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1983|12|31|df=y}}
+|time =
+|round =
+|team1 = [[Hereford United F.C.|Hereford United]]
+|score = A–A
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2098 Report]
+|team2 = Colchester United
+|goals1 =
+|goals2 =
+|stadium = [[Edgar Street]]
+|location = [[Hereford]]
+|attendance =
+|referee =
+|result  = V
+|note = Match abandoned after 68-minutes with the score at 1–0 to Hereford United due to a floodlight failure.
+}}
+{{football box collapsible
+|date = {{Start date|1984|1|2|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = 22
+|team1 = Colchester United
+|score = 1–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2070 Report]
+|team2 = [[Wrexham A.F.C.|Wrexham]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|43}}
+|goals2 = [[John Muldoon (footballer)|Muldoon]] {{goal|60}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 3,182
+|referee = D Hedges
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1984|1|14|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = 23
+|team1 = Colchester United
+|score = 2–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2072 Report]
+|team2 = [[Darlington F.C.|Darlington]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|63|pen.|65}}
+|goals2 = [[Alan Walsh (footballer)|Walsh]] {{goal|66}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,151
+|referee = J Martin
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1984|1|28|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = 24
+|team1 = Colchester United
+|score = 1–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2073 Report]
+|team2 = [[Stockport County F.C.|Stockport County]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|43}}
+|goals2 = [[Tommy Sword|Sword]] {{goal|9}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,213
+|referee = D Reeves
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1984|2|4|df=y}}
+|time =
+|round = 25
+|team1 = [[Chester City F.C.|Chester City]]
+|score = 1–4
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2074 Report]
+|team2 = Colchester United
+|goals1 = [[Paul Blackwell (footballer)|Blackwell]] {{goal|82}}
+|goals2 = [[Keith Bowen|Bowen]] {{goal|10||66}}<br />[[Ian Phillips|Phillips]] {{goal|32}}<br />[[Les Mutrie|Mutrie]] {{goal|50}}
+|stadium = [[Sealand Road]]
+|location = [[Chester]]
+|attendance = 1,179
+|referee = J Key
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1984|2|11|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = 26
+|team1 = Colchester United
+|score = 2–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2075 Report]
+|team2 = [[Chesterfield F.C.|Chesterfield]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|28}}<br />[[Steve Wignall|Wignall]] {{goal|29}}
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,358
+|referee = Rob Lewis
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1984|2|14|df=y}}
+|time = 19:30 [[Greenwich Mean Time|GMT]]
+|round = 27
+|team1 = Colchester United
+|score = 1–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2076 Report]
+|team2 = [[Doncaster Rovers F.C.|Doncaster Rovers]]
+|goals1 = [[Keith Bowen|Bowen]] {{goal|21}}
+|goals2 = [[Glynn Snodin|Snodin]] {{goal|48}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,821
+|referee = [[Tony Ward (referee)|Tony Ward]]
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1984|2|18|df=y}}
+|time =
+|round = 28
+|team1 = [[Crewe Alexandra F.C.|Crewe Alexandra]]
+|score = 1–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2077 Report]
+|team2 = Colchester United
+|goals1 = [[John Crabbe|Crabbe]] {{goal|86|pen.}}
+|goals2 = [[Keith Bowen|Bowen]] {{goal|12}}
+|stadium = [[Gresty Road]]
+|location = [[Crewe]]
+|attendance = 2,532
+|referee = M Scott
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1984|2|25|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = 29
+|team1 = Colchester United
+|score = 0–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2079 Report]
+|team2 = [[Swindon Town F.C.|Swindon Town]]
+|goals1 =
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,448
+|referee = Ian Borrett
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1984|3|4|df=y}}
+|time =
+|round = 30
+|team1 = [[Bury F.C.|Bury]]
+|score = 1–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2080 Report]
+|team2 = Colchester United
+|goals1 = [[Craig Madden|Madden]] {{goal|72}}
+|goals2 = [[Tony Adcock|Adcock]] {{goal|54|pen.}}
+|stadium = [[Gigg Lane]]
+|location = [[Bury, Greater Manchester|Bury]]
+|attendance = 1,576
+|referee = [[David Hutchinson (referee)|David Hutchinson]]
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1984|3|7|df=y}}
+|time =
+|round = 31
+|team1 = [[Reading F.C.|Reading]]
+|score = 1–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2081 Report]
+|team2 = Colchester United
+|goals1 = [[Trevor Senior|Senior]] {{goal|67}}
+|goals2 =
+|stadium = [[Elm Park (stadium)|Elm Park]]
+|location = [[Reading, Berkshire|Reading]]
+|attendance = 3,360
+|referee = [[Martin Bodenham]]
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1984|3|10|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = 32
+|team1 = Colchester United
+|score = 2–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2082 Report]
+|team2 = [[Mansfield Town F.C.|Mansfield Town]]
+|goals1 = [[Keith Bowen|Bowen]] {{goal|66}}
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,007
+|referee = M James
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1984|3|17|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = 33
+|team1 = Colchester United
+|score = 1–3
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2084 Report]
+|team2 = [[York City F.C.|York City]]
+|goals1 = [[Keith Bowen|Bowen]] {{goal|86}}
+|goals2 = McPhail {{goal|30}}<br />[[Keith Walwyn|Walwyn]] {{goal|32}}<br />[[Alan Pearce|Pearce]] {{goal|84}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 3,032
+|referee = T Spencer
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1984|3|24|df=y}}
+|time =
+|round = 34
+|team1 = [[Northampton Town F.C.|Northampton Town]]
+|score = 3–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2085 Report]
+|team2 = Colchester United
+|goals1 = [[Terry Austin (footballer)|Austin]] {{goal|2}}<br />[[Wakeley Gage|Gage]] {{goal|59}}<br />Belfon {{goal|64}}
+|goals2 = [[Ian Phillips|Phillips]] {{goal|14}}
+|stadium = [[County Cricket Ground, Northampton|County Ground]]
+|location = [[Northampton]]
+|attendance = 1,499
+|referee = N Ashley
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1984|3|31|df=y}}
+|time =
+|round = 35
+|team1 = [[Bristol City F.C.|Bristol City]]
+|score = 4–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2086 Report]
+|team2 = Colchester United
+|goals1 = [[Tom Ritchie|Ritchie]] {{goal|26||65}}<br />[[Glyn Riley|Riley]] {{goal|67||81}}
+|goals2 = [[Steve Wignall|Wignall]] {{goal|78}}
+|stadium = [[Ashton Gate Stadium]]
+|location = [[Bristol]]
+|attendance = 6,504
+|referee = M Heath
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1984|4|4|df=y}}
+|time =
+|round = 36
+|team1 = [[Hereford United F.C.|Hereford United]]
+|score = 1–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2087 Report]
+|team2 = Colchester United
+|goals1 = [[Stewart Phillips|Phillips]] {{goal|50}}
+|goals2 = [[Steve WignallWignall]] {{goal|35}}
+|stadium = [[Edgar Street]]
+|location = [[Hereford]]
+|attendance = 2,501
+|referee = [[Joe Worrall (referee)|Joe Worrall]]
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1984|4|7|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 37
+|team1 = Colchester United
+|score = 0–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2088 Report]
+|team2 = [[Tranmere Rovers F.C.|Tranmere Rovers]]
+|goals1 =
+|goals2 = [[Mark Palios|Palios]] {{goal|47}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 1,679
+|referee = L Burden
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1984|4|14|df=y}}
+|time =
+|round = 38
+|team1 = [[Hartlepool United F.C.|Hartlepool United]]
+|score = 0–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2089 Report]
+|team2 = Colchester United
+|goals1 =
+|goals2 =
+|stadium = [[Victoria Park (Hartlepool)|Victoria Park]]
+|location = [[Hartlepool]]
+|attendance = 1,001
+|referee = A Robinson
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1984|4|17|df=y}}
+|time =
+|round = 39
+|team1 = [[Rochdale A.F.C.|Rochdale]]
+|score = 0–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2090 Report]
+|team2 = Colchester United
+|goals1 = [[Vernon Allatt|Allatt]] {{sent off|0|64}}
+|goals2 =
+|stadium = [[Spotland Stadium]]
+|location = [[Rochdale]]
+|attendance = 1,020
+|referee = [[Peter Willis]]
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1984|4|21|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 40
+|team1 = Colchester United
+|score = 1–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2091 Report]
+|team2 = [[Peterborough United F.C.|Peterborough United]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|26}}
+|goals2 = [[Jimmy Holmes (footballer, born 1953)|Holmes]] {{goal|88|pen.}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 1,746
+|referee = M Dimblebee
+|result  = D
+}}
+{{football box collapsible
+|date = {{Start date|1984|4|23|df=y}}
+|time =
+|round = 41
+|team1 = [[Aldershot F.C.|Aldershot]]
+|score = 5–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2092 Report]
+|team2 = Colchester United
+|goals1 = [[Glenn Burvill|Burvill]] {{goal|8}}<br />[[Dale Banton|Banton]] {{goal|26||66}}<br />[[Les Lawrence|Lawrence]] {{goal|30}}<br />Lucas {{goal|74}}
+|goals2 = [[Tony Adcock|Adcock]] {{goal|44}}
+|stadium = [[Recreation Ground (Aldershot)|Recreation Ground]]
+|location = [[Aldershot]]
+|attendance = 2,443
+|referee = [[Keren Barratt]]
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1984|4|28|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 42
+|team1 = Colchester United
+|score = 3–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2093 Report]
+|team2 = [[Torquay United F.C.|Torquay United]]
+|goals1 = [[Paul Compton|Compton]] {{goal|8|o.g.}}<br />[[Ian Phillips|Phillips]] {{goal|28|pen.}}<br />[[Tony Adcock|Adcock]] {{goal|46}}
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 1,226
+|referee = I Hunting
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1984|5|1|df=y}}
+|time =
+|round = 43
+|team1 = [[Blackpool F.C.|Blackpool]]
+|score = 3–2
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2094 Report]
+|team2 = Colchester United
+|goals1 = [[David McNiven (footballer, born 1955)|McNiven]] {{goal|10}}<br />[[Kevin Stonehouse|Stonehouse]] {{goal|42||86}}
+|goals2 = [[Jeff Hull|Hull]] {{goal|12}}<br />[[Tony Adcock|Adcock]] {{goal|26}}
+|stadium = [[Bloomfield Road]]
+|location = [[Blackpool]]
+|attendance = 3,111
+|referee = C Seel
+|result  = L
+}}
+{{football box collapsible
+|date = {{Start date|1984|5|5|df=y}}
+|time =
+|round = 44
+|team1 = [[Wrexham A.F.C.|Wrexham]]
+|score = 0–2
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2095 Report]
+|team2 = Colchester United
+|goals1 =
+|goals2 = [[Roger Osborne|Osborne]] {{goal|55}}<br />[[Perry Groves|Groves]] {{goal|58}}
+|stadium = [[Racecourse Ground]]
+|location = [[Wrexham]]
+|attendance = 1,016
+|referee = T Fitzharris
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1984|5|7|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 45
+|team1 = Colchester United
+|score = 3–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2096 Report]
+|team2 = [[Hereford United F.C.|Hereford United]]
+|goals1 = [[Keith Bowen|Bowen]] {{goal|19}}<br />[[Tony Adcock|Adcock]] {{goal|55}}<br />[[Tony Larkin|Larkin]] {{goal|72|o.g.}}
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 1,286
+|referee = D Letts
+|result  = W
+}}
+{{football box collapsible
+|date = {{Start date|1984|5|11|df=y}}
+|time =
+|round = 46
+|team1 = [[Halifax Town A.F.C.|Halifax Town]]
+|score = 4–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=13&fcomp1ShowAll=&frt=all&fhan=all&it=2097 Report]
+|team2 = Colchester United
+|goals1 = Ward {{goal|10}}<br />[[Barry Gallagher|Gallagher]] {{goal|44||47}}<br />[[Stewart Mell|Mell]] {{goal|87}}
+|goals2 = [[Les Mutrie|Mutrie]] {{goal|90}}
+|stadium = [[The Shay]]
+|location = [[Halifax, West Yorkshire|Halifax]]
+|attendance = 1,248
+|referee = D Owen
+|result  = L
+}}
+
+===League Cup===
+{{Main|1983–84 Football League Cup}}
+
+{{footballbox collapsible
+|date = {{Start date|1983|8|30|df=y}}
+|time = 19:30 [[British Summer Time|BST]]
+|round = [[1983–84 Football League Cup#First Leg|1st round 1st leg]]
+|team1 = Colchester United
+|score = 3–2
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=7&fcomp1ShowAll=&frt=all&fhan=all&it=2043 Report]
+|team2 = [[Reading F.C.|Reading]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|27||50}}<br />[[Steve Wignall|Wignall]] {{goal|36}}
+|goals2 = Barnes {{goal|41}}<br />[[Trevor Senior|Senior]] {{goal|83}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,418
+|referee = M Scott
+|result  = W
+|stack = yes
+}}
+{{footballbox collapsible
+|date = {{Start date|1983|9|14|df=y}}
+|time =
+|round = [[1983–84 Football League Cup#Second Leg|1st round 2nd leg]]
+|team1 = [[Reading F.C.|Reading]]
+|score = 4–3
+|aet = yes
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=7&fcomp1ShowAll=&frt=all&fhan=all&it=2047 Report]
+|team2 = Colchester United
+|goals1 = [[Stuart Beavon (footballer, born 1958)|Beavon]] {{goal|15}}<br />[[Trevor Senior|Senior]] {{goal|47||48||103}}
+|goals2 = [[Tony Adcock|Adcock]] {{goal|22}}<br />[[Steve Wignall|Wignall]] {{goal|30}}<br />[[Keith Bowen|Bowen]] {{goal|119}}
+|stadium = [[Elm Park (stadium)|Elm Park]]
+|location = [[Reading, Berkshire|Reading]]
+|attendance = 3,460
+|referee = [[Tony Ward (referee)|Tony Ward]]
+|result  = L
+|stack = yes
+|note = Match drawn at 6–6. Colchester won on the [[away goals rule]].
+}}
+{{footballbox collapsible
+|date = {{Start date|1983|10|4|df=y}}
+|time =
+|round = [[1983–84 Football League Cup#First Leg 2|2nd round 1st leg]]
+|team1 = [[Swansea City A.F.C.|Swansea City]]
+|score = 1–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=7&fcomp1ShowAll=&frt=all&fhan=all&it=2052 Report]
+|team2 = Colchester United
+|goals1 = Gale {{goal|45}}
+|goals2 = [[Tony Adcock|Adcock]] {{goal|15}}
+|stadium = [[Vetch Field]]
+|location = [[Swansea]]
+|attendance = 3,758
+|referee = A Saville
+|result  = D
+|stack = yes
+}}
+{{footballbox collapsible
+|date = {{Start date|1983|10|25|df=y}}
+|time = 19:30 [[Greenwich Mean Time|GMT]]
+|round = [[1983–84 Football League Cup#Second Leg 2|2nd round 2nd leg]]
+|team1 = Colchester United
+|score = 1–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=7&fcomp1ShowAll=&frt=all&fhan=all&it=2057 Report]
+|team2 = [[Swansea City A.F.C.|Swansea City]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|40}}
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 5,204
+|referee = K Salmon
+|result  = W
+|stack = yes
+|note = Colchester won 2–1 on aggregate
+}}
+{{footballbox collapsible
+|date = {{Start date|1983|11|8|df=y}}
+|time = 19:30 [[Greenwich Mean Time|GMT]]
+|round = [[1983–84 Football League Cup#Third round|3rd round]]
+|team1 = Colchester United
+|score = 0–2
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=7&fcomp1ShowAll=&frt=all&fhan=all&it=2061 Report]
+|team2 = [[Manchester United F.C.|Manchester United]]
+|goals1 =
+|goals2 = [[Gordon McQueen|McQueen]] {{goal|8}}<br />[[Remi Moses|Moses]] {{goal|24}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 13,031
+|referee = Tom Bune
+|result  = L
+|stack =
+}}
+
+===FA Cup===
+{{Main|1983–84 FA Cup}}
+
+{{footballbox collapsible
+|date = {{Start date|1983|11|19|df=y}}
+|time =
+|round = [[1983–84 FA Cup#First round proper|1st round]]
+|team1 = [[Torquay United F.C.|Torquay United]]
+|score = 1–2
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=5&fcomp1ShowAll=&frt=all&fhan=all&it=2063 Report]
+|team2 = Colchester United
+|goals1 = [[Keith Curle|Curle]] {{goal|55}}
+|goals2 = [[Keith Bowen|Bowen]] {{goal|17||78}}<br />[[Tony Hadley (footballer)|Hadley]] {{sent off|1|85}}
+|stadium = [[Plainmoor]]
+|location = [[Torquay]]
+|attendance = 2,126
+|referee = [[Keith Cooper]]
+|result  = W
+|stack = yes
+}}
+{{footballbox collapsible
+|date = {{Start date|1983|12|10|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = [[1983–84 FA Cup#Second Round Proper|2nd round]]
+|team1 = Colchester United
+|score = 4–0
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=5&fcomp1ShowAll=&frt=all&fhan=all&it=2066 Report]
+|team2 = [[Wealdstone F.C.|Wealdstone]]
+|goals1 = [[Keith Bowen|Bowen]] {{goal|4||23||43}}<br />[[Stewart Houston|Houston]] {{goal|12}}
+|goals2 =
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,673
+|referee = [[Martin Bodenham]]
+|result  = W
+|stack = yes
+}}
+{{footballbox collapsible
+|date = {{Start date|1984|1|12|df=y}}
+|time =
+|round = [[1983–84 FA Cup#Third round proper|3rd round]]
+|team1 = Colchester United
+|score = 0–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=5&fcomp1ShowAll=&frt=all&fhan=all&it=2071 Report]
+|team2 = [[Charlton Athletic F.C.|Charlton Athletic]]
+|goals1 =
+|goals2 = [[Ian Phillips|Phillips]] {{goal|79|o.g.}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 6,296
+|referee = T Spencer
+|result  = L
+|stack =
+}}
+
+===Associate Members' Cup===
+{{Main|1983–84 Football League Trophy}}
+
+{{footballbox collapsible
+|date = {{Start date|1984|2|21|df=y}}
+|time = 19:30 [[Greenwich Mean Time|GMT]]
+|round = [[1983–84 Football League Trophy#Southern Section|1st round (southern section)]]
+|team1 = Colchester United
+|score = 2–1
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=6&fcomp1ShowAll=&frt=all&fhan=all&it=2078 Report]
+|team2 = [[Wimbledon F.C.|Wimbledon]]
+|goals1 = [[Tony Adcock|Adcock]] {{goal|20|pen.|40|pen.}}
+|goals2 = [[Paul Fishenden|Fishenden]] {{goal|26}}<br />[[Gary Peters (footballer)|Peters]] {{sent off|0|30}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 1,888
+|referee = M Taylor
+|result  = W
+|stack = yes
+}}
+{{footballbox collapsible
+|date = {{Start date|1984|3|13|df=y}}
+|time = 19:30 [[Greenwich Mean Time|GMT]]
+|round = [[1983–84 Football League Trophy#Southern Section 2|2nd round (southern section)]]
+|team1 = Colchester United
+|score = 0–2
+|report = [http://coludata.co.uk/item.php?frmft=True&pg=match&pd=1022&fsea=44&fdfaShowAll=&frefShowAll=&fcomp1=6&fcomp1ShowAll=&frt=all&fhan=all&it=2083 Report]
+|team2 = [[Southend United F.C.|Southend United]]
+|goals1 =
+|goals2 = [[Trevor Whymark|Whymark]] {{goal|66}}<br />[[Billy Kellock (footballer, born 1954)|Kellock]] {{goal|88}}
+|stadium = [[Layer Road]]
+|location = [[Colchester]]
+|attendance = 2,841
+|referee = [[Keith Hackett]]
+|result  = L
+|stack =
+}}
+
+==Squad statistics==
+
+===Appearances and goals===
+<ref name="apps"/><ref name="goals">{{cite web | url=http://coludata.co.uk/content.php?pg=goals&pd=1014#frmft=True&pg=goals&pd=1014&fsea=44&fplist=all&flgcup=all&fcompstShowAll=&fdfaShowAll= | title=Goals | publisher=Coludata.co.uk |accessdate=1 May 2018 }}</ref>
+{{Efs start|Fourth Division|FA Cup|League Cup|Football League Trophy}}
+{{Efs player|no=|name=[[Alec Chamberlain]]|nat=ENG|pos=GK |46|0|3|0|5|0|2|0}}
+{{Efs player|no=|name=[[Phil Coleman (footballer)|Phil Coleman]]|nat=ENG|pos=DF |7+1|0|0|0|0|0|1|0}}
+{{Efs player|no=|name=[[Tony Hadley (footballer)|Tony Hadley]]|nat=ENG|pos=DF |44+1|0|3|0|5|0|2|0}}
+{{Efs player|no=|name=[[Rudi Hedman]]|nat=ENG|pos=DF |3+1|0|0|0|0|0|0|0}}
+{{Efs player|no=|name=[[Stewart Houston]]|nat=SCO|pos=DF |42|4|3|1|5|0|1|0}}
+{{Efs player|no=|name=[[Ian Phillips]]|nat=SCO|pos=DF |43|5|3|0|0|0|2|0}}
+{{Efs player|no=|name=[[Steve Wignall]]|nat=ENG|pos=DF |36|8|3|0|4|2|2|0}}
+{{Efs player|no=|name=[[Andy Farrell (footballer)|Andy Farrell]]|nat=ENG|pos=MF |15|0|1|0|5|0|0|0}}
+{{Efs player|no=|name=[[Jeff Hull]]|nat=ENG|pos=MF |33|1|0|0|4|0|2|0}}
+{{Efs player|no=|name=[[Steve Leslie (footballer, born 1952)|Steve Leslie]]|nat=ENG|pos=MF |25|1|3|0|2|0|1+1|0}}
+{{Efs player|no=|name=[[Roger Osborne]]|nat=ENG|pos=MF |34+2|1|3|0|4|0|1|0}}
+{{Efs player|no=|name=[[Tony Adcock]]|nat=ENG|pos=FW |41+2|26|3|0|5|5|2|2}}
+{{Efs player|no=|name=[[Keith Bowen]]|nat=WAL|pos=FW |46|12|3|5|4|1|2|0}}
+{{Efs player|no=|name=[[Perry Groves]]|nat=ENG|pos=FW |38+4|2|2|0|4+1|0|1|0}}
+{{Efs player|no=|name=[[Dave Hubbick]]|nat=ENG|pos=FW |3+7|0|1+1|0|2|0|0|0}}
+{{Efs player|no=|name=[[Les Mutrie]]|nat=ENG|pos=FW |10+4|2|0|0|0|0|1+1|0}}
+{{Efs player|no=|name=[[Craig Oldfield]]|nat=ENG|pos=FW |0+3|0|0|0|0|0|0+1|0}}
+{{Efs player|no=|name=[[John Taylor (footballer, born 1964)|John Taylor]]|nat=ENG|pos=FW |0|0|0|0|0+1|0|0|0}}
+|-
+!colspan="16"|''Players who appeared for Colchester who left during the season''
+{{Efs player|no=|name=[[Micky Cook (footballer, born 1951)|Micky Cook]]|nat=ENG|pos=DF |36|2|2|0|5|0|2|0}}
+{{Efs player|no=|name=[[Adam Nichols]]|nat=ENG|pos=DF |4+2|1|0|0|1|0|0|0}}
+|}
+
+===Goalscorers===
+<ref name="goals"/>
+{| class="wikitable" style="text-align:center; font-size:90%; width:100%;"
+|-
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Place
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Nationality
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Position
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Name
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Fourth Division
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| FA Cup
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| League Cup
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Football League Trophy
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Total
+|-
+|1
+|{{Flagicon|ENG}}
+|FW
+|align="left"|[[Tony Adcock]]
+|26
+|0
+|5
+|2
+|'''33'''
+|-
+|2
+|{{Flagicon|WAL}}
+|FW
+|align="left"|[[Keith Bowen]]
+|12
+|5
+|1
+|0
+|'''18'''
+|-
+|3
+|{{Flagicon|ENG}}
+|CB
+|align="left"|[[Steve Wignall]]
+|8
+|0
+|2
+|0
+|'''10'''
+|-
+|rowspan=2|4
+|{{Flagicon|SCO}}
+|CB
+|align="left"|[[Stewart Houston]]
+|4
+|1
+|0
+|0
+|'''5'''
+|-
+|{{Flagicon|SCO}}
+|FB
+|align="left"|[[Ian Phillips]]
+|5
+|0
+|0
+|0
+|'''5'''
+|-
+|rowspan=3|6
+|{{Flagicon|ENG}}
+|FB
+|align="left"|[[Micky Cook (footballer, born 1951)|Micky Cook]]
+|2
+|0
+|0
+|0
+|'''2'''
+|-
+|{{Flagicon|ENG}}
+|WG
+|align="left"|[[Perry Groves]]
+|2
+|0
+|0
+|0
+|'''2'''
+|-
+|{{Flagicon|ENG}}
+|FW
+|align="left"|[[Les Mutrie]]
+|2
+|0
+|0
+|0
+|'''2'''
+|-
+|rowspan=4|9
+|{{Flagicon|ENG}}
+|MF
+|align="left"|[[Jeff Hull]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|{{Flagicon|ENG}}
+|MF
+|align="left"|[[Steve Leslie (footballer, born 1952)|Steve Leslie]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|{{Flagicon|ENG}}
+|CB
+|align="left"|[[Adam Nichols]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|{{Flagicon|ENG}}
+|MF
+|align="left"|[[Roger Osborne]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|colspan="3"|
+|'''Own goals'''
+|4
+|0
+|0
+|0
+|'''4'''
+|-
+|colspan="3"|
+|'''TOTALS'''
+|69
+|6
+|8
+|2
+|'''85'''
+|}
+
+===Disciplinary record===
+<ref>{{cite web | url=http://coludata.co.uk/content.php?pg=discipline&pd=1013#frmft=True&pg=discipline&pd=1013&fsea=44&fplist=all&flgcup=all&fcompstShowAll=&fdfaShowAll= | title=Discipline | publisher=Coludata.co.uk |accessdate=1 May 2018 }}</ref>
+<!-- Red cards = 3 disciplinary points, Yellow cards = 1 disciplinary point : Table sorted as per points -->
+{| class="wikitable" style="text-align:center; font-size:90%; width:100%;"
+|-
+!rowspan="2" style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Nationality
+!rowspan="2" style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Position
+!rowspan="2" style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Name
+!colspan="2" style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Fourth Division
+!colspan="2" style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| FA Cup
+!colspan="2" style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| League Cup
+!colspan="2" style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Football League Trophy
+!colspan="2" style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Total
+|-
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+|-
+|{{Flagicon|ENG}}
+|CB
+|align="left"|[[Tony Hadley (footballer)|Tony Hadley]]
+|0
+|0
+|1
+|1
+|0
+|0
+|0
+|0
+|1
+|1
+|-
+|{{Flagicon|ENG}}
+|FB
+|align="left"|[[Micky Cook (footballer, born 1951)|Micky Cook]]
+|2
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|2
+|0
+|-
+|colspan="2"|
+|'''TOTALS'''
+|'''2'''
+|'''0'''
+|'''1'''
+|'''1'''
+|'''0'''
+|'''0'''
+|'''0'''
+|'''0'''
+|'''3'''
+|'''1'''
+|}
+
+===Clean sheets===
+Number of games goalkeepers kept a [[Shutout|clean sheet]].<ref>{{cite web |url=http://coludata.co.uk/content.php?pg=cleansheets&pd=1035#frmft=True&pg=cleansheets&pd=1035&fsea=44&fplist=all&flgcup=all&fcompstShowAll=&fdfa=1 |title=Clean sheets (1st team) |publisher=Coludata.co.uk |accessdate=1 May 2018 }}</ref>
+{| class="wikitable" style="text-align:center; font-size:90%; width:100%;"
+|-
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Place
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Nationality
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Player
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Fourth Division
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| FA Cup
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| League Cup
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Football League Trophy
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Total
+|-
+|1
+|{{Flagicon|ENG}}
+|align="left"|[[Alec Chamberlain]]
+|18
+|1
+|1
+|0
+|'''20'''
+|-
+|colspan="2"|
+|'''TOTALS'''
+|'''18'''
+|'''1'''
+|'''1'''
+|'''0'''
+|'''20'''
+|}
+
+===Player debuts===
+Players making their first-team Colchester United debut in a fully competitive match.<ref>{{cite web |url=http://coludaybyday.co.uk/Statistics/Player%20Stats/PlayersDebuts/Alldebut.html |title=Alltime- List of Debuts |publisher=Coludaybyday.co.uk |accessdate=1 May 2018 |archive-url=https://web.archive.org/web/20150626101319/http://coludaybyday.co.uk/Statistics/Player%20Stats/PlayersDebuts/Alldebut.html |archive-date=26 June 2015 |url-status=dead }}</ref>
+{| class="wikitable" style="text-align:center; font-size:90%; width:100%;"
+|-
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Position
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Nationality
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Player
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Date
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Opponent
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Ground
+! style="background:#2191CC; color:white; border:1px solid #F7C408; text-align:center;"| Notes
+|-
+|CB
+|{{flagicon|ENG}}
+|[[Tony Hadley (footballer)|Tony Hadley]]
+|27 August 1983
+|[[Darlington F.C.|Darlington]]
+|[[Feethams]]
+|
+|-
+|CB
+|{{flagicon|SCO}}
+|[[Stewart Houston]]
+|27 August 1983
+|Darlington
+|Feethams
+|
+|-
+|MF
+|{{flagicon|ENG}}
+|[[Andy Farrell (footballer)|Andy Farrell]]
+|27 August 1983
+|Darlington
+|Feethams
+|
+|-
+|FW
+|{{flagicon|ENG}}
+|[[Craig Oldfield]]
+|3 September 1983
+|[[Blackpool F.C.|Blackpool]]
+|[[Layer Road]]
+|
+|-
+|FB
+|{{flagicon|SCO}}
+|[[Ian Phillips]]
+|9 September 1983
+|[[Stockport County F.C.|Stockport County]]
+|[[Edgeley Park]]
+|
+|-
+|FW
+|{{flagicon|ENG}}
+|[[John Taylor (footballer, born 1964)|John Taylor]]
+|14 September 1983
+|[[Reading F.C.|Reading]]
+|[[Elm Park (stadium)|Elm Park]]
+|
+|-
+|FW
+|{{flagicon|ENG}}
+|[[Dave Hubbick]]
+|15 October 1983
+|[[Northampton Town F.C.|Northampton Town]]
+|Layer Road
+|
+|-
+|CB
+|{{flagicon|ENG}}
+|[[Adam Nichols]]
+|18 October 1983
+|[[Bury F.C.|Bury]]
+|Layer Road
+|
+|-
+|FW
+|{{flagicon|ENG}}
+|[[Les Mutrie]]
+|28 January 1984
+|Stockport County
+|Layer Road
+|
+|-
+|CB
+|{{flagicon|ENG}}
+|[[Rudi Hedman]]
+|4 March 1984
+|Bury
+|[[Gigg Lane]]
+|
+|-
+|}
+
+{{notelist|2}}
+
+==See also==
+*[[List of Colchester United F.C. seasons]]
+
+==References==
+===General===
+'''Books'''
+*{{cite book |last1=Whitehead |first1=Jeff |last2=Drury |first2=Kevin |title=The Who's Who of Colchester United: The Layer Road Years |year=2008 |publisher=Breedon Books |location=Derby |isbn=978-1-85983-629-3 |page=}}
+
+'''Websites'''
+*{{cite web |url=http://www.11v11.com/teams/colchester-united/tab/matches/season/1984/ |title=Colchester United football club match record: 1984 |publisher=11v11.com |accessdate=1 May 2018 }}
+
+===Specific===
+{{reflist|2}}
+
+{{Colchester United F.C.}}
+{{1983–84 in English football}}
+
+{{DEFAULTSORT:Colchester United F.C. Season 1983-84}}
+[[Category:Colchester United F.C. seasons|1983-84]]
+[[Category:English football clubs 1983–84 season]]

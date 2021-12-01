@@ -1,0 +1,30 @@
+{{Navbox
+|name = The Teng Chun
+|title = Works by [[The Teng Chun]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+
+|group1 = 
+|list1 =
+*''[[Boenga Roos dari Tjikembang (1931 film)|Boenga Roos dari Tjikembang]]'' (1931)
+*''[[Sam Pek Eng Tay]]'' (1931)
+*''Pat Kiam Hap'' (1933)
+*''Pat Bie To'' (1933)
+*''[[Ouw Peh Tjoa]]'' (1934)
+*''Tie Pat Kai Kawin'' (1935)
+*''Pan Sie Tong'' (1935)
+*''Ang Hai Djie'' (1935)
+*''Pembakaran Bio "Hong Lian Sie"'' (1936)
+*''Lima Siloeman Tikoes'' (1936)
+*''Anaknja Siloeman Oeler Poeti'' (1936)
+*''[[Gadis jang Terdjoeal]]'' (1937)
+*''Tjiandjoer'' (1938)
+*''[[Oh Iboe]]'' (1938)
+*''[[Roesia si Pengkor]]'' (1939)
+*''[[Alang-Alang (film)|Alang-Alang]]'' (1939)
+*''[[Rentjong Atjeh]]'' (1940)
+*''Genangan Air Mata'' (1954)
+}}<noinclude>
+{{collapsible option}}
+[[Category:Indonesian film director navigational boxes|The Teng Chun]]
+</noinclude>

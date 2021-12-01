@@ -1,0 +1,66 @@
+{{Use dmy dates|date=October 2015}}
+{{Use Indian English|date=October 2015}}
+
+{{Infobox film
+| name           = Hum Tum Aur Mom
+| image          = 
+| alt            =
+| caption        = 
+| native_name      = 
+| director       = Ashok Nanda
+| producer       = Ashok Nanda
+| writer         = Ashok Nanda
+| screenplay     = Ashok Nanda
+| story          = Ashok Nanda
+| based_on       = <!-- {{based on |[title of the original work] |[writer of the original work]}} -->
+| starring       = [[#Cast|See below]]
+| narrator       = 
+| music          = K. P.
+| cinematography = Ramesh Nautiyal
+| editing        = Uma Shankar
+| studio         =      <!-- or: | production_companies = -->
+| distributor    = 
+| released       = {{film date|df=yes|2005|07|22}}
+| runtime        = 
+| country        = [[India]]
+| language       = Hindi
+| budget         = 
+| gross          = <!-- Please use condensed and rounded values, e.g. "£11.6 million" not "£11,586,221" -->
+}}
+'''''Hum Tum Aur Mom''''' is a 2005 film.
+
+== Cast ==
+* [[Mohnish Bahl]] as Madhav
+* Sonali Goswami
+* [[Mushtaq Khan]] as Pannit
+* [[Tiku Talsania]]
+* [[Reema Lagoo]] as Mom
+* [[Krishna Abhishek]] as Keshav
+* [[Mehr Hassan]] as Reena
+* [[Ekta Sohini]]
+* Raj Vasudeva
+* [[Tej Sapru]] as Ashish's father
+* Rohini Kapoor
+* Shabnam Kapoor
+
+==Songs==
+#"Bikhri Zulfein" - [[Udit Narayan]], [[Alka Yagnik]]
+#"Dekha Har Phool" - [[Babul Supriyo]], Rajshree Biswas
+#"Dil Mera" - Saurabh P. Srinivasan
+#"Ek Ladki" - Udit Narayan, [[Sadhana Sargam]], Poet: [[Raees Warsi]]
+#"Jaan-E-Chaman" - Saurabh P. Srinivasan, Alka Yagnik
+#"Mujhko Yoon" - N/A
+#"Pyar Agar Hai Koi Bhool" - [[Shreya Ghoshal]]
+#"Pyar Ka Taraana" - Saurabh P. Srinivasan, Sadhana Sargam
+
+== External links ==
+* {{IMDb movie}}
+* {{Bollywood Hungama movie|hum-tum-aur-mom<!-- id# 534905 -->}}
+* {{Rotten Tomatoes}}
+
+[[Category:2005 films]]
+[[Category:Indian films]]
+[[Category:2000s Hindi-language films]]
+
+
+{{2000s-Hindi-film-stub}}

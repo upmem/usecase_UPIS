@@ -1,0 +1,43 @@
+{{Navbox
+| name      = Berber diaspora
+| title     = [[File:Berber flag.svg|22px|border]] [[Berber diaspora]]
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+
+| group1 = [[Berber homeland]]
+| list1  = 
+* [[Berbers in Algeria|Algeria]]
+* [[Guanches|Canary Islands]]
+* [[Berbers in Libya|Libya]]
+* [[Berbers in Mali|Mali]]
+* [[Berbers in Morocco|Morocco]]
+* [[Tuareg in Niger|Niger]]
+* [[Berbers in Tunisia|Tunisia]]
+
+
+| group2 = Diaspora elsewhere in Africa
+| list2  = 
+* [[Tuareg in Burkina Faso|Burkina Faso]]
+* [[Berbers in Egypt|Egypt]]
+* [[Berbers in Mauritania|Mauritania]]
+* [[Languages of Western Sahara|Western Sahara]]
+
+| group3 = Europe
+| list3  = 
+* [[Berbers in France|France]]
+** [[North African communities of Paris|Paris]]
+* [[Berbers in Belgium|Belgium]]
+* [[Berbers in the Netherlands|Netherlands]]
+
+| group4 = North America and Oceania
+| list4  = 
+* [[Berbers in Canada|Canada]]
+* [[Algerians of the Pacific|New Caledonia]]
+* [[Berber American|United States]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Diaspora templates]]
+[[Category:Africa ethnic group templates|Berber]]
+[[Category:Berber diaspora|τ]]
+</noinclude>

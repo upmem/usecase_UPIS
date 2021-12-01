@@ -1,0 +1,182 @@
+{{Infobox football match
+|                   title = 2009 Bulgarian Supercup
+|                   image = 
+|                   event = 
+|                   team1 = [[PFC Levski Sofia|Levski Sofia]]
+|        team1association = [[Bulgarian A Football Group|A Group]]
+|              team1score = 1
+|                   team2 = [[PFC Litex Lovech|Litex Lovech]]
+|        team2association = [[Bulgarian A Football Group|A Group]]
+|              team2score = 0
+|                 details = 
+|                    date = 1 August 2009
+|                 stadium = [[Vasil Levski National Stadium]]
+|                    city = [[Sofia]], [[Bulgaria]]
+|      man_of_the_match1a = [[Cedric Bardon]] ([[Levski Sofia]])
+| man_of_the_match1atitle =
+|      man_of_the_match1b = 
+| man_of_the_match1btitle =
+|                 referee = Stefan Spasov ([[Pernik]])
+|              attendance = 7,000
+|                 weather = 
+|                previous = [[2008 Bulgarian Supercup|2008]]
+|                    next = [[2010 Bulgarian Supercup|2010]]
+}}
+
+The '''2009 Bulgarian Supercup''' was the seventh [[Bulgarian Supercup]] match, a [[Football (soccer)|football]] match which was contested between the [[A PFG 2008–09|2008-09 A Professional Football Group]] champion, [[Levski Sofia]], and the [[Bulgarian Cup 2008–09|2008-09 Bulgarian Cup]] holder, [[Litex Lovech]].<ref>{{cite web|publisher=Sofiaecho.com|title=Bulgarian Super Cup Final: Levski Sofia v Litex Lovech, August 1|url=http://sofiaecho.com/2009/07/29/763234_bulgarian-super-cup-final-levski-sofia-v-litex-lovech-august-1|accessdate=2009-07-29}}</ref> The match was held on 1 August 2009 at the [[Vasil Levski National Stadium]] in [[Sofia]], [[Bulgaria]]. Levski beat Litex 1–0 thanks to a second-half goal from [[France|Frenchman]] [[Cédric Bardon]] to win their third Bulgarian Supercup.<ref>{{cite web|publisher=Sofiaecho.com|title=Levski Sofia lift Bulgarian Supercup|url=http://sofiaecho.com/2009/08/02/764842_levski-sofia-lift-bulgarian-supercup?ref=rss|accessdate=2009-08-02}}</ref>
+
+==Match details==
+{{football box
+|date = 1 August 2009
+|time = 20:30 [[Eastern European Time|EET]]
+|team1 = [[PFC Levski Sofia|Levski Sofia]]
+|score = 1 – 0
+|report= [http://sportni.bg/?tid=40&oid=2527750&cid=4302 Report]
+|team2 = [[PFC Litex Lovech|Litex Lovech]]
+|goals1 = [[Cedric Bardon|Bardon]] {{goal|65}}
+|goals2 = 
+|stadium = [[Vasil Levski National Stadium]], [[Sofia]]
+|attendance = 7,000
+|referee = Stefan Spasov ([[Pernik]])
+}}
+
+{| width=92% |
+|-
+|{{Football kit 
+ |pattern_la = _levski_sofia_08_09
+ |pattern_b  = _levski_sofia_08_09
+ |pattern_ra = _levski_sofia_08_09
+ |leftarm    = 436EEE 
+ |body       = 436EEE 
+ |rightarm   = 436EEE 
+ |shorts     = 436EEE 
+ |socks      = 436EEE 
+ |title      = Levski Sofia
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _litex home 0910
+ |pattern_ra = 
+ |pattern_sh = _litex home 1011  
+ |pattern_so = 
+ |leftarm    = ee6611
+ |body       = ee6611
+ |rightarm   = ee6611
+ |shorts     = FFFFFF
+ |socks      = ee6611 
+ |title      = Litex Lovech
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|'''Levski Sofia:''' 
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1'''||{{flagicon|BUL}} [[Georgi Petkov (footballer, born 1976)|Georgi Petkov]] ([[Captain (association football)|c]]) {{yel|80}}
+|-
+|DF ||'''15'''||{{flagicon|Morocco}} [[Chakib Benzoukane]]
+|-
+|DF ||'''2''' ||{{flagicon|BUL}} [[Victor Genev]]
+|-
+|DF ||'''11'''||{{flagicon|BUL}} [[Elin Topuzakov]]
+|-
+|DF ||'''25'''||{{flagicon|BUL}} [[Lúcio Wagner]] {{suboff|74}}
+|-
+|MF ||'''8'''||{{flagicon|BUL}} [[Georgi Sarmov]] {{suboff|51}}
+|-
+|MF ||'''6'''||{{flagicon|Morocco}} [[Rachid Tiberkanine]] {{sent off|2|35|69}}
+|-
+|MF ||'''27'''||{{flagicon|France}} [[Cédric Bardon]] 
+|-
+|FW ||'''24'''||{{flagicon|BUL}} [[Nikolay Dimitrov (footballer born 1987)|Nikolay Dimitrov]] {{suboff|60}}
+|-
+|FW ||'''21'''||{{flagicon|BRA}} [[José Soares da Silva Filho|Zé Soares]]
+|-
+|FW ||'''99'''||{{flagicon|BUL}} [[Georgi Hristov (footballer, born 1985)|Georgi Hristov]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12''' ||{{flagicon|BUL}} [[Bozhidar Mitrev]]
+|-
+|DF ||'''14''' ||{{flagicon|BUL}} [[Veselin Minev]] {{subon|74}}
+|-
+|MF ||'''16'''||{{flagicon|BUL}} [[Marian Ognyanov]] 
+|-
+|FW ||'''17'''||{{flagicon|NGR}} [[Deniran Ortega]]
+|-
+|MF ||'''20'''||{{flagicon|BRA}} [[João Natailton Ramos dos Santos|Joãozinho]] {{subon|60}}
+|-
+|FW ||'''29'''||{{flagicon|BUL}} [[Ismail Isa Mustafa|Ismail Isa]]
+|-
+|MF ||'''45'''||{{flagicon|BUL}} [[Vladimir Gadzhev]] {{subon|51}} [[File:Injury icon.svg|10px|Injured]]<span style="font-size: 10px; vertical-align: middle;"> 83'</span>
+
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SRB}} [[Ratko Dostanić]] 
+|}
+|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|'''Litex Lovech:'''
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|SRB}} [[Uroš Golubović]]
+|-
+|DF ||'''33''' ||{{flagicon|BUL}} [[Nikolay Bodurov]] 
+|-
+|DF ||'''2''' ||{{flagicon|FRA}} [[Alexandre Barthe]] 
+|-
+|DF ||'''22'''||{{flagicon|BUL}} [[Plamen Nikolov (footballer, born 1985)|Plamen Nikolov]]
+|-
+|DF ||'''5'''||{{flagicon|BUL}} [[Mihail Venkov]] {{yel|51}} {{suboff|84}}
+|-
+|MF ||'''10''' ||{{flagicon|BRA}} [[Alessandro Correa|Sandrinho]]
+|-
+|MF ||'''25'''||{{flagicon|BUL}} [[Radostin Kishishev]] ([[Captain (association football)|c]])
+|-
+|MF ||'''23''' ||{{flagicon|SRB}} [[Nebojša Jelenković]] {{suboff|81}}
+|-
+|FW ||'''7'''||{{flagicon|BUL}} [[Hristo Yanev]] {{yel|89}}
+|-
+|FW ||'''32'''||{{flagicon|BUL}} [[Ivelin Popov]] 
+|-
+|FW ||'''9'''||{{flagicon|BUL}} [[Svetoslav Todorov]] {{suboff|62}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|BUL}} [[Todor Todorov (footballer, born May 1982)|Todor Todorov]]
+|-
+|DF ||'''3'''||{{flagicon|BUL}} [[Petar Zanev]] {{subon|84}}
+|-
+|DF ||'''6'''||{{flagicon|BUL}} [[Ivaylo Petkov]]
+|-
+|MF ||'''13''' ||{{flagicon|BUL}} [[Maksim Stoykov]]
+|-
+|MF||'''17''' ||{{flagicon|BUL}} [[Georgi Milanov (footballer)|Georgi Milanov]] {{subon|81}}
+|-
+|MF ||'''23'''||{{flagicon|BRA}} [[Diego Ferraresso|Diego]] {{subon|62}}
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4|{{flagicon|BUL}} [[Stanimir Stoilov]]
+|- 
+|}
+|}
+
+== References ==
+{{Reflist}}
+
+{{Bulgarian Supercup matches}}
+{{2009–10 in Bulgarian football}}
+{{PFC Levski Sofia matches}}
+{{PFC Litex Lovech}}
+
+[[Category:Bulgarian Supercup]]
+[[Category:PFC Levski Sofia matches]]
+[[Category:PFC Litex Lovech matches]]
+[[Category:2009–10 in Bulgarian football|Supercup]]

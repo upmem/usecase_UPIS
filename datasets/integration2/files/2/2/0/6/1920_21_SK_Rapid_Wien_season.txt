@@ -1,0 +1,215 @@
+{{Infobox football club season
+| club               = [[SK Rapid Wien|Rapid Wien]]
+| season             = 1920-21
+| manager            = [[Dionys Schönecker]]
+| mgrtitle           = Coach
+| stadium            = [[Pfarrwiese]],<br/>[[Vienna]], [[Austria]]
+| league             = [[1920-21 Austrian football championship|First class]]
+| league result      = '''Champions''' (7th title)
+| cup1               = [[1920-21 Austrian Cup|Austrian Cup]]
+| cup1 result        = 1st round
+| league topscorer   = [[Josef Uridil]] (35)
+| season topscorer   = [[Josef Uridil]] (35)
+| highest attendance = 15,000
+| lowest attendance  = 700
+| average attendance = 7,100
+| prevseason         = [[1919–20 SK Rapid Wien season|1919–20]]
+| nextseason         = [[1921–22 SK Rapid Wien season|1921–22]]
+}}
+
+The '''1920–21 [[SK Rapid Wien]] season''' was the 23rd season in club history.
+
+==Squad==
+
+===Squad and statistics===
+<ref name=ref>{{cite web|title=Saison 1920/21 |url=http://www.rapidarchiv.at/saisonen/1921.html|publisher=rapidarchiv.at|accessdate=19 July 2016}}</ref>
+
+===Squad statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan="2" valign="bottom"|Nat.
+!rowspan="2" valign="bottom"|Name
+!colspan="2" width="85"|League
+!colspan="2" width="85"|Cup
+!colspan="2" width="85"|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+!colspan=15|Goalkeepers
+|-
+|{{flagicon|AUT}}||align="left"|[[Anton Bujnoch]] || || || 1|| || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[August Kraupar]] || 21|| || 1|| || 22|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Julius Tomsche]] || 3|| || || || 3|| 
+|-
+!colspan=15|Defenders
+|-
+|{{flagicon|AUT}}||align="left"|[[Vinzenz Dittrich]] || 21|| || 2|| || 23|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Hans Geiger (footballer)|Hans Geiger]] || 1|| || || || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Johann Nießner]] || 2|| || || || 2|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Schediwy]] || 5|| || || || 5|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Schlosser]] || 4|| || || || 4|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Stefan Sudrich]] || 3|| || 1|| || 4|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Hans Werner]] || 1|| || || || 1|| 
+|-
+!colspan=15|Midfielders
+|-
+|{{flagicon|AUT}}||align="left"|[[Hans Beran]] || 5|| || || || 5|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Brandstetter]] || 24|| || 2|| || 26|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Dworak]] || 1|| || || || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Klär]] || 20|| || 2|| || 22|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Nitsch]] || 23|| || 2|| || 25|| 
+|-
+!colspan=15|Forwards
+|-
+|{{flagicon|AUT}}||align="left"|[[Eduard Bauer]] || 21|| 13|| 1|| 1|| 22|| 14
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Grundwald]] || 11|| || 1|| || 12|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Heinz Körner]] || 10|| 2|| || || 10|| 2
+|-
+|{{flagicon|AUT}}||align="left"|[[Richard Kuthan]] || 24|| 19|| 2|| 2|| 26|| 21
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Uridil]] || 22|| 35|| 2|| || 24|| 35
+|-
+|{{flagicon|AUT}}||align="left"|[[Ferdinand Wesely]] || 7|| 1|| 1|| || 8|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Gustav Wieser]] || 5|| 4|| || || 5|| 4
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Witka]] || 7|| 3|| 2|| 1|| 9|| 4
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Wondrak]] || 23|| 8|| 2|| || 25|| 8
+|}
+
+==Fixtures and results==
+<ref name=results>{{cite web|title=Spiele 1920/21 |url=http://www.rapidarchiv.at/spiele/1921.html|publisher=rapidarchiv.at|accessdate=25 July 2016}}</ref>
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+===League===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#ffc"
+| {{tooltip|1|Round 1}} || 05.09.1920 || A || align="left"| [[ASV Hertha Wien|Hertha Wien]] || 2-2 || align="right"|
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|31}} {{goal|42}}
+|- style="background:#ffc"
+| {{tooltip|2|Round 2}} || 12.09.1920 || A || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 3-3 || align="right"|5,000
+| align="left"|[[Gustav Wieser|Wieser]] {{goal|35}}, [[Josef Uridil|Uridil J.]] {{goal|49}}, [[Eduard Bauer|Bauer E.]] {{goal|63}}
+|- style="background:#fcc"
+| {{tooltip|3|Round 3}} || 19.09.1920 || A || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 3-4 || align="right"|9,000
+| align="left"|[[Heinz Körner|Körner H.]] {{goal|15}}, [[Josef Uridil|Uridil J.]] {{goal|35}}, [[Richard Kuthan|Kuthan]] {{goal|59}}
+|- style="background:#cfc"
+| {{tooltip|4|Round 4}} || 03.10.1920 || [[Sportplatz Simmering|A]] || align="left"| [[1. Simmeringer SC|Simmering]] || 2-1 || align="right"|
+| align="left"|[[Gustav Wieser|Wieser]] {{goal|25}}, [[Josef Uridil|Uridil J.]] {{goal|75}}
+|- style="background:#cfc"
+| {{tooltip|5|Round 5}} || 10.10.1920 || [[Pfarrwiese|H]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 6-0 || align="right"|6,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|5}} {{goal|76}}, [[Gustav Wieser|Wieser]] {{goal|43}} {{goal|90}}, [[Richard Kuthan|Kuthan]] {{goal|45}}, [[Eduard Bauer|Bauer E.]] {{goal|46}}
+|- style="background:#cfc"
+| {{tooltip|7|Round 7}} || 24.10.1920 || [[Pfarrwiese|H]] || align="left"| [[FK Austria Wien|Amateure]] || 1-0 || align="right"|10,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|41}}
+|- style="background:#ffc"
+| {{tooltip|8|Round 8}} || 14.11.1920 || [[FAC-Platz|A]] || align="left"| [[Hakoah Vienna|Hakoah]] || 1-1 || align="right"|20,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|60}}
+|- style="background:#cfc"
+| {{tooltip|9|Round 9}} || 21.11.1920 || [[Pfarrwiese|H]] || align="left"| [[Wiener AF]] || 4-2 || align="right"|3,000
+| align="left"|Armesberger {{goal|38|o.g.}}, [[Josef Uridil|Uridil J.]] {{goal|39}} {{goal|44}} {{goal|87}}
+|- style="background:#cfc"
+| {{tooltip|10|Round 10}} || 28.11.1920 || [[Pfarrwiese|H]] || align="left"| [[Floridsdorfer AC|FAC]] || 4-1 || align="right"|2,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|64}} {{goal|68}} {{goal|77}}, [[Karl Wondrak|Wondrak]] {{goal|72}}
+|- style="background:#cfc"
+| {{tooltip|11|Round 11}} || 05.12.1920 || [[Pfarrwiese|A]] || align="left"| [[First Vienna FC|Vienna]] || 8-2 || align="right"|2,000
+| align="left"|[[Karl Wondrak|Wondrak]] {{goal||pen.}}, [[Josef Uridil|Uridil J.]] {{goal|31}} {{goal|36}} {{goal|}} {{goal|}}, [[Eduard Bauer|Bauer E.]] {{goal||pen.}} {{goal|}}, [[Richard Kuthan|Kuthan]] {{goal|}}
+|- style="background:#cfc"
+| {{tooltip|12|Round 12}} || 12.12.1920 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Admira]] || 4-2 || align="right"|700
+| align="left"|[[Eduard Bauer|Bauer E.]] {{goal|16}}, [[Josef Uridil|Uridil J.]] {{goal|20}}, [[Karl Wondrak|Wondrak]] {{goal|27}}, [[Richard Kuthan|Kuthan]] {{goal|68}}
+|- style="background:#cfc"
+| {{tooltip|13|Round 13}} || 02.01.1921 || A || align="left"| [[Wiener AC]] || 9-0 || align="right"|18,000
+| align="left"|[[Heinz Körner|Körner H.]] {{goal|7}}, [[Josef Uridil|Uridil J.]] {{goal|9}}, [[Richard Kuthan|Kuthan]] {{goal|29}} {{goal|52}} {{goal|72|pen.}}, [[Eduard Bauer|Bauer E.]] {{goal|47}} {{goal|87|pen.}} {{goal|89}}, [[Karl Wondrak|Wondrak]] {{goal|75}}
+|- style="background:#ffc"
+| {{tooltip|14|Round 14}} || 14.05.1921 || [[Sportplatz Simmering|H]] || align="left"| [[1. Simmeringer SC|Simmering]] || 2-2 || align="right"|15,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|12}} {{goal|36}}
+|- style="background:#cfc"
+| {{tooltip|15|Round 15}} || 20.02.1921 || [[Pfarrwiese|H]] || align="left"| [[Hakoah Vienna|Hakoah]] || 1-0 || align="right"|12,000
+| align="left"|[[Karl Wondrak|Wondrak]] {{goal|31}}
+|- style="background:#cfc"
+| {{tooltip|16|Round 16}} || 06.03.1921 || A || align="left"| [[FC Admira Wacker Mödling|Admira]] || 3-1 || align="right"|3,500
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|34}}, [[Leopold Witka|Witka]] {{goal|36}}, [[Richard Kuthan|Kuthan]] {{goal|40}}
+|- style="background:#ffc"
+| {{tooltip|17|Round 17}} || 13.03.1921 || [[FAC-Platz|A]] || align="left"| [[Floridsdorfer AC|FAC]] || 3-3 || align="right"|15,000
+| align="left"|[[Eduard Bauer|Bauer E.]] {{goal|44}}, [[Richard Kuthan|Kuthan]] {{goal|78}}, [[Ferdinand Wesely|Wesely]] {{goal|85}}
+|- style="background:#cfc"
+| {{tooltip|18|Round 18}} || 03.04.1921 || [[Pfarrwiese|H]] || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 5-3 || align="right"|10,000
+| align="left"|[[Eduard Bauer|Bauer E.]] {{goal|43}} {{goal|74}}, [[Richard Kuthan|Kuthan]] {{goal|44}}, [[Josef Uridil|Uridil J.]] {{goal|79}}, [[Leopold Witka|Witka]] {{goal|81}}
+|- style="background:#cfc"
+| {{tooltip|19|Round 19}} || 10.04.1921 || [[Pfarrwiese|H]] || align="left"| [[Wiener AC]] || 7-5 || align="right"|4,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|8}} {{goal|20}} {{goal|55}} {{goal|67}} {{goal|72}} {{goal|77}} {{goal|89}}
+|- style="background:#ffc"
+| {{tooltip|20|Round 20}} || 29.06.1921 || [[Sportplatz Simmering|A]] || align="left"| [[FK Austria Wien|Amateure]] || 1-1 || align="right"|25,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|71}}
+|- style="background:#cfc"
+| {{tooltip|21|Round 21}} || 15.06.1921 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 4-0 || align="right"|5,000
+| align="left"|[[Eduard Bauer|Bauer E.]] {{goal|1}} {{goal|20}}, [[Josef Uridil|Uridil J.]] {{goal|65}} {{goal|82}}
+|- style="background:#cfc"
+| {{tooltip|22|Round 22}} || 26.06.1921 || [[Pfarrwiese|H]] || align="left"| [[ASV Hertha Wien|Hertha Wien]] || 4-1 || align="right"|8,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|}} {{goal||pen.}}, [[Karl Wondrak|Wondrak]] {{goal|}}, [[Richard Kuthan|Kuthan]] {{goal|}}
+|- style="background:#cfc"
+| {{tooltip|23|Round 23}} || 22.05.1921 || [[Sportklub Stadium|A]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 3-2 || align="right"|10,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|31}}, [[Karl Wondrak|Wondrak]] {{goal|}}, [[Richard Kuthan|Kuthan]] {{goal|}}
+|- style="background:#cfc"
+| {{tooltip|24|Round 24}} || 29.05.1921 || [[Pfarrwiese|H]] || align="left"| [[First Vienna FC|Vienna]] || 3-2 || align="right"|10,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|28}} {{goal|42}}, [[Karl Wondrak|Wondrak]] {{goal|71}}
+|- style="background:#cfc"
+| {{tooltip|25|Round 25}} || 20.03.1921 || A || align="left"| [[Wiener AF]] || 3-1 || align="right"|5,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|}} {{goal|}}, [[Leopold Witka|Witka]] {{goal|}}
+|}
+
+===Cup===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#ffc"
+| {{tooltip|R1|1st round}} || 27.02.1921 || [[Pfarrwiese|H]] || align="left"| [[FK Austria Wien|Amateure]] || 3-3 ([[Overtime (sports)|a.e.t.]]) || align="right"|15,000
+| align="left"|[[Leopold Witka|Witka]] {{goal|}}, [[Richard Kuthan|Kuthan]] {{goal|}}, [[Eduard Bauer|Bauer E.]] {{goal|}}
+|- style="background:#fcc"
+| {{tooltip|R1-PO|1st round Playoff}} || 08.03.1921 || [[Pfarrwiese|H]] || align="left"| [[FK Austria Wien|Amateure]] || 1-2 || align="right"|12,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|8}}
+|}
+
+==References==
+{{Reflist}}
+
+{{SK Rapid Wien seasons |state=expanded}}
+
+{{DEFAULTSORT:1920-21 SK Rapid Wien season}}
+[[Category:SK Rapid Wien seasons|1920-21 Rapid Wien Season]]
+[[Category:Austrian football clubs 1920–21 season|Rapid]]

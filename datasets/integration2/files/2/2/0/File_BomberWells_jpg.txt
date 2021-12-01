@@ -1,0 +1,13 @@
+== Summary ==
+{{Non-free use rationale
+ |Article           = Bomber Wells
+ |Description       = His likeness
+ |Source            = Hulton Archive
+ |Portion           = No
+ |Low_resolution    = Yes
+ |Purpose           = To illustrate subject of article 
+ |Replaceability    = No, subject is deceased.
+ |other_information = 
+}}
+== Licensing ==
+{{Non-free historic image|image has rationale=yes}}

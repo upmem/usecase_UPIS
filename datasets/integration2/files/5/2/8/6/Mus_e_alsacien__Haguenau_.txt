@@ -1,0 +1,60 @@
+{{Infobox museum
+| name             = Musée alsacien de Haguenau
+| image            = Musée alsacien de Haguenau.jpg
+| image_upright    = 1.15
+| caption          = Façade of the museum in February 2010
+| alt              = 
+| map_type         = 
+| map_caption      = 
+| map_size         = 
+| coordinates      = {{coord|48|48|53|N|7|47|21|E|display=inline,title}}
+| established      = 1972
+| location         = 1 Place Joseph Thierry, 67500 [[Haguenau]], [[France]]
+| type             = [[Ethnography]]<br>[[Folk art]]
+| collection       = 
+| visitors         = 
+| director         = 
+| president        = 
+| owner            =
+| publictransit    = Bus Ritmo lines 1 and 2, stop ''Ancienne Douane''<ref>{{cite web|title=MA - Informations pratiques|url=http://www.ville-haguenau.fr/ma-infos-pratiques|publisher=Ville de Haguenau|accessdate=13 February 2017}}</ref>
+| car_park         = 
+| network          = 
+| website          = [http://www.ville-haguenau.fr/musee-alsacien www.ville-haguenau.fr/musee-alsacien]
+}}
+
+The '''''Museé alsacien''''' ([[Alsace|Alsatian]] museum) is one of the three museums of [[Haguenau]], France. Like its [[Musée alsacien (Strasbourg)|older and much larger counterpart]] in [[Strasbourg]], it is dedicated to local, mostly rural customs, furniture, and [[folk art]].<ref>{{cite web|title=MA - Collections|url=http://www.ville-haguenau.fr/ma-batiment|publisher=Ville de Haguenau|accessdate=13 April 2017}}</ref>
+
+The museum was established in 1972 when the [[Ethnography|ethnographic collection]] of the [[Musée historique de Haguenau]] was separated from the rest of the collections in order to reorganise the existing space. It was moved into the former [[Chancery (medieval office)|chancery]] ({{lang-fr|chancellerie}}), a late 15th-century building.<ref>{{cite web|title=MA - Bâtiment|url=http://www.ville-haguenau.fr/ma-batiment|publisher=Ville de Haguenau|accessdate=13 April 2017}}</ref>
+
+==Gallery==
+<gallery perrow=5>
+Haguenau MuséeAlsacien 2.JPG|Upper part of the façade
+Haguenau MuséeAlsacien 13.JPG|Detail of the façade
+Haguenau MuséeAlsacien 14.JPG|[[Astronomical clock]] on the façade
+Enfant Jésus-Cire habillée-Musée alsacien de Haguenau.jpg|Wax [[statuette]] of Infant Jesus (19th century)
+Musée alsacien de Haguenau-Souhaits de baptême 2.jpg|[[Baptism]] wishes (1812)
+Poterie de Soufflenheim-Musée alsacien de Haguenau.jpg|Pottery from [[Soufflenheim]]
+Plaque-Armoiries des comtes de Hanau-Lichtenberg.jpg|[[Fireplace fireback]] (1684) with [[coat of arms]] of the [[List of rulers of Hanau|Counts of Hanau-Lichtenberg]]
+Peinture sous verre-Saint Martin-Musée alsacien de Haguenau.jpg|[[Reverse glass painting]] (18th century) of St Martin and the beggar
+Moule à Springerle-Musée alsacien de Haguenau.jpg|Mould for ''Springerle'' cookies
+Musée alsacien de Haguenau-Bonnet 1.jpg|Embroidered cap (early 19th century)
+</gallery>
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commonscat|Musée alsacien de Haguenau}}
+*[http://www.ville-haguenau.fr/musee-alsacien Website] of the Musée alsacien
+
+{{Alsace topics|state=collapsed}}
+
+{{DEFAULTSORT:Haguenau Alsacien}}
+[[Category:Haguenau|Museum]]
+[[Category:Museums in Bas-Rhin]]
+[[Category:Ethnographic museums in France]]
+[[Category:Museums established in 1972]]
+[[Category:1972 establishments in France]]
+
+
+{{France-museum-stub}}

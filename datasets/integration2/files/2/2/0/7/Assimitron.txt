@@ -1,0 +1,14 @@
+The '''Assimitron''' was a Japanese device uses to measure fluctuating CO2 levels at crop canopies. Led by E. Inoue at the National Institute of Agricultural Sciences in [[Tsukuba]], [[Japan]], the device itself was an offshoot of an earlier Australian invention, the Evapotron that first found mention in a 1958 article in the journal ''Nature.'' The Evaporimeter, as it was first called, was used to measure the evaporations from natural surfaces.<ref>R.J. Taylor & A.J. Dyer, An Instrument for Measuring Evaporation from Natural Surfaces, Nature 181 (Feb 8, 1958): 408-409.</ref> As for the Assimitron, it “instantaneously” performed “the necessary calculations for determining water vapour flux by correlation of humidity fluctuations with vertical wind fluctuations.”.<ref>E. Inoue, Z. Uchijima, T. Saito, S. Isobe, and K. Uemura, ‘The “Assimitron”, a Newly Devised Instrument for Measuring CO2 flux in the Surface Air Layer,’ Journal of Agricultural Meteorology, Tokyo 25 (1969): 165-171, 165.</ref> Such calculations required the use of a complex centralized computer to process the enormous quantities of data. Part of this stemmed from the need to perform two different equations to deal with turbulent and low flows, depending on whether it was a windy or sunny day.<ref>Z. Uchijima, “Carbon dioxide environment and flux within a corn crop canopy,” in Prediction and Measurement of Photosynthetic Productivity (Wageningen: Centre for Agricultural Publishing and Documentation, 1970): 179-196, 188.</ref>
+
+==See also==
+*[[Phytotron]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.worldoftrons.com/blog/2017/3/8/from-evapotron-to-assimitron-or-how-to-measure-co2-in-a-canopy The Assimitron at World of Trons]
+* [https://www.amazon.com/Engineering-Environment-Phytotrons-Climate-Control/dp/082294474X/ref=sr_1_1?ie=UTF8&qid=1481033911&sr=8-1&keywords=david+pd+munns David P.D. Munns, ''Engineering the Environment: Phytotrons and the Quest to Control Climate in the Cold War'' (University of Pittsburgh Press, 2017).]
+
+[[Category:Environmental science]]
+[[Category:Atmospheric chemistry]]

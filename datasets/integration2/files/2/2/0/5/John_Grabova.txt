@@ -1,0 +1,74 @@
+{{short description|Albanian footballer}}
+{{Orphan|date=December 2018}}
+
+{{Infobox football biography
+| name = John Grabova
+| image =
+| fullname = John Grabova
+| birth_date  = {{Birth date and age|df=yes|1995|12|17}}
+| birth_place = [[Vlorë]], [[Albania]]
+| height =
+| position = [[Forward (association football)|Striker]]
+| currentclub =
+| clubnumber = 
+| youthyears1= 2011–2013
+| youthclubs1= [[KF Tirana Reserves and Academy|Tirana]]
+| youthyears2= 2013
+| youthclubs2= [[Besa Kavajë]]
+| years1 = 2013
+| clubs1 = [[Besa Kavajë|Besa]]
+| caps1 = 1
+| goals1 = 0 
+| years2 = 2013
+| clubs2 = [[Olimpic CF|Olimpic]]
+| caps2 = 
+| goals2 = 
+| years3 = 2014
+| clubs3 = [[GC Biaschesi|Biaschesi]]
+| caps3 = 8
+| goals3 = 0 
+| years4 = 2014
+| clubs4 = [[KS Kastrioti|Kastrioti]]
+| caps4 = 4
+| goals4 = 0 
+| years5 = 2015
+| clubs5 = [[KF Elbasani|Elbasani]]
+| caps5 = 7
+| goals5 = 1
+| years6 = 2015–2017
+| clubs6 = [[FK Partizani Tirana B|Partizani B]]
+| caps6 = 
+| goals6 = 
+| nationalyears1 = 
+| nationalteam1 = 
+| nationalcaps1 =  | nationalgoals1 = 
+| pcupdate =
+| ntupdate = 
+}}
+
+'''John Grabova''' (born 17 December 1995 in [[Vlorë]]) is an [[Albanians|Albanian]] football player who most recently played for [[FK Partizani Tirana B|Partizani Tirana B]] in the [[Albanian Second Division]].<ref>{{Cite news|url=https://int.soccerway.com/players/john-grabova/314763/ |title=John Grabova profile |date= |accessdate=19 September 2015 |author= |work=Soccerway }}</ref><ref>{{Cite news|url=http://www.fshf.org/garat/components/lojtar.php?player_id=222142 |title=John Grabova profile |date= |accessdate=19 September 2015 |language=Albanian |author= |work=FSHF }}</ref>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Grabova, John}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Footballers from Vlorë]]
+[[Category:Association football forwards]]
+[[Category:Albanian footballers]]
+[[Category:KF Tirana players]]
+[[Category:Besa Kavajë players]]
+[[Category:KF Olimpik Tirana players]]
+[[Category:KS Kastrioti players]]
+[[Category:KF Elbasani players]]
+[[Category:FK Partizani Tirana players]]
+[[Category:Albanian Superliga players]]
+[[Category:Albanian First Division players]]
+[[Category:Albanian Second Division players]]
+[[Category:Albanian expatriate footballers]]
+[[Category:Expatriate footballers in Switzerland]]
+[[Category:Albanian expatriate sportspeople in Switzerland]]
+
+
+{{Albania-footy-forward-stub}}

@@ -1,0 +1,19 @@
+{{Information
+| description = 
+Betjemans gravestone.
+
+
+
+
+
+| source      = {{own}}
+| date        = 05 December 2004
+| author      = [[User:Paste|Paste]] ([[User talk:Paste|talk]]) ([[Special:ListFiles/Paste|Uploads]])
+}}
+== Summary ==
+Betjemans gravestone.
+{{PD-self|date=June 2007}}
+== Licensing ==
+{{PD-self|date=June 2007}}
+
+{{Copy to Wikimedia Commons|bot=Fbot|priority=true|date=March 2012}}

@@ -1,0 +1,35 @@
+'''Magoroh Maruyama''' (April 29, 1929 – March 16, 2018)<ref>[https://www.dignitymemorial.com/obituaries/san-diego-ca/magoroh-maruyama-7793686 dignitymemorial.com], accessed 21.03.2018.</ref> was a Japanese/American business educator, consultant and researcher, best known for his contributions to [[cybernetics]].<ref name=":0">Holloman, R. E., & Arutiunov, S. A. (Eds.). (1978). ''Perspectives on ethnicity''. Walter de Gruyter.</ref>
+
+== Biography ==
+Maruyama was born in 1929 in Tokyo, Japan, son of Shinsaku Maruyama and Toyoko (Takashima) Maruyama, and moved to the United States in 1950. He received his B.A. from the University of California at Berkeley in 1951. After postgraduate studies at the [[Ludwig Maximilian University of Munich]] and the [[University of Heidelberg]], he obtained his Ph.D. from the [[University of Lund]] in Sweden.
+
+Maruyama started his academic career as assistant professor in human development at the [[University of California at Berkeley]] in 1960. Among his many academic appointments he was professor for Systems Science at [[Portland State University]] from 1973 to 1976.{{cn|date=April 2018}} He was also Professor in the School of International Politics, Economics and Communication at [[Aoyama Gakuin University]] in Japan and was on the faculty of [[Stanford University]], [[Brandeis University]], [[Antioch College]], the [[University of Hawaii at Manoa]] and the [[University of Illinois]].<ref name=":0" />
+
+== Work ==
+Magoroh Maruyama is the author of over a hundred publications.<ref>{{Cite web|url=http://heterogenistics.org/maruyama/bibliography/bibliography.html|title=Professor Maruyama's bibliography|website=heterogenistics.org|access-date=2018-03-20}}</ref> The subjects of his research include [[cybernetics]], [[systems science]],  [[philosophy]], [[psychology]], [[neuroscience]], [[anthropology]], [[sociology]], [[social change]], [[business management]], [[architectural design]] and [[urban planning]].<ref name="heterogenistics.org">{{Cite web|url=http://heterogenistics.org/maruyama/index.html|title=Some notes about the research of Professor Magoroh Maruyma|website=heterogenistics.org|access-date=2018-03-20}}</ref> He has been consulting companies and institutions such as [[NASA]], the [[US Department of Commerce]] and the [[US Department of Interior]] in the United States, the [[OECD]], [[Volvo]] and [[Michelin]] in Europe, the [[Ministry of International Trade and Industry|MITI]] of Japan, the City of Baghdad, the Government of [[Ivory Coast]] and Federal Motors of [[Indonesia]].<ref name="heterogenistics.org"/>
+
+His highly cited paper from 1963 "The second cybernetics: Deviation-amplifying mutual causal processes" describes a theory of increase of heterogeneity by [[causal loops]].{{citation needed|date=March 2018}}
+
+== Publications ==
+Some of Maruyama's best known publications are:
+
+* Maruyama, Magoroh. "Morphogenesis and morphostasis." ''Methodos'' 12.48 (1960): 251-296.
+* Maruyama, Magoroh. "The second cybernetics: Deviation-amplifying mutual causal processes." ''American scientist'' 51.2 (1963): 164-179.
+* Maruyama, Magoroh. "Paradigmatology and its Application to Cross‐Disciplinary, Cross‐Professional and Cross‐Cultural Communication." ''Dialectica'' 28.3‐4 (1974): 135-196.
+* Maruyama, Magoroh. "Heterogenistics and morphogenetics." ''Theory and society'' 5.1 (1978): 75-96.
+* Maruyama, Magoroh, Beals, K.L. & Bharati, A. "Mindscapes and Science Theories [and Comments and Reply]." ''Current anthropology'' 21.5 (1980): 589-608.
+* Maruyama, Magoroh. "Alternative concepts of management: Insights from Asia and Africa." ''Asia Pacific Journal of Management'' 1.2 (1984): 100-111.
+* Maruyama, Magoroh (editor). "Context and Complexity: cultivating contextual understanding". New York: Springer-Verlag. 1991.
+
+== References ==
+{{reflist|2}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Maruyama, Magoroh}}
+[[Category:1929 births]]
+[[Category:2018 deaths]]
+[[Category:Communication theorists]]
+[[Category:American business theorists]]
+[[Category:Japanese business theorists]]
+[[Category:Cyberneticists]]

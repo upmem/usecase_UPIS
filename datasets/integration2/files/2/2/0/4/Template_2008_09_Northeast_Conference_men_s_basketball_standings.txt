@@ -1,0 +1,19 @@
+{{CBB Standings Start|2008–09 Northeast Conference men's basketball standings}}
+{{CBB Standings Entry| {{cbb link|year=2008 |school=Robert Morris University|team=Robert Morris Colonials|title=Robert Morris}}†     |15|3 |24|11}}
+{{CBB Standings Entry| {{cbb link|year=2008 |school=Mount St. Mary's University|team=Mount St. Mary's Mountaineers|title=Mount St. Mary's}} |12|6 |19|14}}
+{{CBB Standings Entry| {{cbb link|year=2008 |school=Sacred Heart University|team=Sacred Heart Pioneers|title=Sacred Heart}}          |12|6 |17|14}}
+{{CBB Standings Entry| {{cbb link|year=2008 |school=Long Island University|team=Long Island Blackbirds|title=Long Island}}           |12|6 |16|14}}
+{{CBB Standings Entry| {{cbb link|year=2008 |school=Quinnipiac University|team=Quinnipiac Bobcats|title=Quinnipiac}}                 |10|8 |15|16}}
+{{CBB Standings Entry| {{nowrap|{{cbb link|year=2008 |school=Central Connecticut State University|team=Central Connecticut Blue Devils|title=Central Connecticut}}}} |8 |10|13|17}}
+{{CBB Standings Entry| {{cbb link|year=2008 |school=Wagner College|team=Wagner Seahawks|title=Wagner}}                               |8 |10|16|14}}
+{{CBB Standings Entry| [[2008–09 St. Francis Terriers men's basketball team|St. Francis (NY)]]                                       |7 |11|10|20}}
+{{CBB Standings Entry| {{cbb link|year=2008 |school=Monmouth University|team=Monmouth Hawks|title=Monmouth}}                         |6 |12|8 |23}}
+{{CBB Standings Entry| {{cbb link|year=2008 |school=Fairleigh Dickinson University|team=Fairleigh Dickinson Knights|title=Fairleigh Dickinson}} |6|12|7 |23}}
+{{CBB Standings Entry| {{cbb link|year=2008 |school=Saint Francis University|team=Saint Francis Red Flash|title=Saint Francis (PA)}} |3 |15|6 |23}}
+| colspan=6 style="text-align:left;" |
+{{CBB Standings End|tourney=[[2009 Northeast Conference Men's Basketball Tournament|2009 NEC Tournament]]|date=|poll=}}
+<!--<small>† NEC Tournament winner:<nowiki>*</nowiki> NEC Tournament #1 seed --><!-- Use this if there is a tie for first place -->
+<noinclude>
+[[Category:2008–09 American college basketball standings templates|Northeast Conference]]
+[[Category:Northeast Conference men's basketball standings templates]]
+</noinclude>

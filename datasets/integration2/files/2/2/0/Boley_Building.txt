@@ -1,0 +1,36 @@
+{{Infobox NRHP
+  | name = Boley Building
+  | nrhp_type = 
+  | image = Boley Clothing Co Building 1909 Kansas City MO.jpg
+  | caption = Boley Clothing Company Building, Kansas City, Missouri.
+  | location= 1130 Walnut St., [[Kansas City, Missouri]]
+  | coordinates = {{coord|39|6|0|N|94|34|56|W|display=inline,title}}
+| locmapin = Missouri#USA
+  | built = 1909
+  | architect = [[Louis Curtiss]]
+  | architecture = Metal & Glass Curtain-Wall
+  | added = March 09, 1971
+  | area = {{convert|9.9|acre}}
+  | governing_body = Private
+  | refnum = 71000467<ref name="nris">{{NRISref|2009a}}</ref>
+}}
+
+The '''Boley Building''' in [[Kansas City, Missouri]] was designed by Canadian-born American architect [[Louis Curtiss]] and built in 1909. It was listed on the [[National Register of Historic Places]] in 1971.<ref name=nris/> It is the world headquarters for [[Andrews McMeel Universal]], parent company to [[Universal Uclick]], [[Andrews McMeel Publishing]] and [[GoComics]].
+
+==Architecture==
+The six-story steel frame building was constructed in 1909 and was designed in the [[Art-Nouveau]] style by architect Louis Curtiss. The building is notable for being one of the world's first metal-and-glass curtain-wall buildings and the first to use rolled-steel columns.<ref>{{cite web |url=https://www.bizjournals.com/kansascity/news/2018/02/23/andrews-mcmeel-headquarters-photo-tour.html |title=Andrews McMeel's historic HQ reflects the company's mission |publisher=Kansas City Business Journal |accessdate=August 16, 2018}}</ref> It was listed on the [[National Register of Historic Places]] in 1971. 
+
+The six-story building also features [[cantilever]] floor slabs, [[cast iron]] structural detailing, and [[terra cotta]] decorative elements. The interior of the building features many of the comic strips and other publications from Andrews McMeel Publishing including [[Calvin and Hobbes]] and [[Doonesbury]].
+
+==References==
+{{reflist}}
+
+{{National Register of Historic Places}}
+
+[[Category:Commercial buildings completed in 1909]]
+[[Category:Buildings and structures in Kansas City, Missouri]]
+[[Category:Commercial buildings on the National Register of Historic Places in Missouri]]
+[[Category:National Register of Historic Places in Kansas City, Missouri]]
+
+
+{{KansasCityMO-NRHP-stub}}

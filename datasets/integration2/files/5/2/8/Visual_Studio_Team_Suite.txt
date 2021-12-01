@@ -1,0 +1,3 @@
+#REDIRECT [[Microsoft Visual Studio#Application Lifecycle Management]]
+
+{{R to section}}

@@ -1,0 +1,122 @@
+{{otherships|Snaefell (ship)}}
+{{Use dmy dates|date=December 2017}}
+{{Use British English|date=December 2017}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image =[[File:RMS Snaefell.JPG|300px|RMS Snaefell]]
+| Ship caption =''Snaefell.'' 
+}}
+{{Infobox ship career
+| Hide header =
+|Ship flag={{shipboxflag|Isle of Man|civil}}
+| Ship name = ''Snaefell''
+| Ship namesake = [[Snaefell]]
+| Ship owner = 1910–1914: [[Isle of Man Steam Packet Company|IOMSPCo]]1914-1918: Operated by [[The Admiralty]]
+| Ship operator = 1910–1914: IOMSPCo. 1914-1918: The Admiralty
+| Ship registry = {{flagicon|Isle of Man|civil}} [[Douglas, Isle of Man]].
+| Ship route =
+| Ship ordered =
+| Ship builder = [[Cammell Laird]]
+| Ship original cost = £59,275
+| Ship yard number = 758<ref>http://oceania.pbworks.com/w/page/8450793/Cammell%20Laird</ref>
+| Ship way number =118606
+| Ship laid down =
+| Ship launched =
+| Ship completed = 1910
+| Ship christened =
+| Ship acquired =
+| Ship maiden voyage = Thursday, 28 July 1910
+| Ship in service = 1910
+| Ship out of service = 1914
+| Ship identification =
+| Ship fate = Acquired by The Admiralty in 1914, and refitted as an Armed Patrol Vessel. Torpedoed and sunk in the Mediterranean 5 June 1918.
+| Ship status = War Grave
+| Ship notes =
+}}
+{{Infobox ship characteristics
+| Hide header =
+| Header caption =
+| Ship type =Passenger Steamer
+| Ship tonnage = {{GRT|1,368|disp=long}}
+| Ship displacement =
+| Ship length = {{convert|270|ft|0|in|m|1|abbr=on}}270'
+| Ship beam ={{convert|41|ft|4|in|m|1|abbr=on}} 
+| Ship draught = 
+| Ship depth = {{convert|16|ft|6|in|m|1|abbr=on}} 
+| Ship decks =
+| Ship power = {{convert|5300|ihp|lk=in|abbr=on}}.
+| Ship propulsion = Direct-acting inverted triple expansion engines.
+| Ship speed = {{convert|19|kn|mph|lk=in}}
+| Ship capacity = 1241 passengers
+| Ship crew = 43
+| Ship notes =
+}}
+|}
+
+'''RMS ''Snaefell'' (III)''' – the third ship in the line's history to be so named – was a [[packet steamer]] operated by the [[Isle of Man Steam Packet Company]] from 1910 to 1914. She was then acquired by the [[Admiralty]] at the outbreak of the [[First World War]], until she was torpedoed and sunk in the [[Mediterranean]] on 5 June 1918.
+
+==Dimensions==
+''Snaefell'' had a registered [[tonnage]] of {{GRT|1368}}, length 270 ft; beam 41 ft 4 in; depth 16 ft 6 in; and with a designed service speed of 19 [[knots]]. Water-tight sub-divisions were carefully designed; and there were seven water-tight bulkheads extending up to the main deck. The vessel was fitted with a cellular bottom for carrying water ballast when in summer service.
+
+==History==
+''Snaefell'' was built at [[Cammell Laird]] at [[Birkenhead]] in 1910, with engines and boilers also being acquired from her manufacturer. She was certified for 1241 passengers, and had a crew complement of 43.
+
+She was fitted with two sets of vertical 4-cylinder [[triple-expansion engine]]s - the first of this type in the company's ships. These developed a total [[indicated horsepower]] of 5,300 and made her a very economical and useful ship.
+
+==Service life==
+''Snaefell'', despite her modest size, being a dual vessel was of some importance of marine evolution in the company's list. Designed for both cargo and passenger work, she was put on the main [[Douglas, Isle of Man|Douglas]]–[[Liverpool]] winter service. However, the ship was with the [[Isle of Man Steam Packet]] fleet for only four years.
+
+During the summer months, she worked from both Douglas and [[Ramsey, Isle of Man|Ramsey]], usually on the company's secondary routes.
+[[File:RMS Snaefell pictured leaving Douglas..JPG|thumb|left|''Snaefell'' pictured leaving Douglas.]]
+
+==Mail and cargo==
+''Snaefell'' was designed to carry a mixture of passengers and cargo.
+Her designation as a [[Royal Mail Ship]] (RMS) indicated that she carried mail under contract with the [[Royal Mail]].
+A specified area was allocated for the storage of letters, parcels and specie ([[bullion]], coins and other valuables).
+In addition, there was a considerable quantity of regular cargo, ranging from furniture to foodstuffs and even motor cars.
+
+A popular ship, she was taken over and refitted as an [[Ocean boarding vessel|Armed Boarding Vessel (A.B.V.)]] at the outbreak of war. This work was undertaken by the yards at [[Cammell Laird]], and she left the [[Mersey]] in [[Christmas]] week 1914, to embark on her war service.
+
+==War service and loss==
+The record of ''Snaefell'' is typical of the work of the steam packet company's ships in [[World War I]]. She was one, if not the first, of the company's fleet to go off on active service, and "''active service''" is something she witnessed in no small measure.
+
+On being chartered by [[The Admiralty]], she was sent to Cammell Lairds – ''her original builders'' – and was fitted with [[armament]] and given the necessary alterations. She sailed for [[Plymouth]] on 18 December 1914, armed with a rather modest complement of two [[QF 12 pounder 12 cwt naval gun|12-pounder guns]], one [[QF 2-pounder naval gun|2-pounder anti aircraft gun]];<ref name=wrecksite>http://www.wrecksite.eu/wreck.aspx?164959</ref> and with a [[ship's company]] of 105.
+
+''Snaefell'' became one of four coastal steamers in the Plymouth Patrol, and had a reasonably uneventful introduction to the war, steaming from [[Start Point, Devon|Start Point]] to [[Land's End]] and then to a position in mid-Channel, on the other side of which the [[French Navy]] took over the patrol. Her duty was to intercept all shipping and issue any necessary instructions covering the likely position of enemy [[submarines]] and other such matters. It meant four days at sea and two days in port.
+[[File:Snaefell pictured on war service..JPG|thumb|left|''Snaefell'' pictured on active service.]]
+In April 1915, the ''Snaefell'' had a minor brush with a [[German submarine]] but failed to find her target, despite being able to discharge a shot at the enemy from what seemed to be close range.
+
+During June of that year, she received orders concerning more desperate matters, and the ''Sanefell'' was tasked to escort the [[monitor (warship)|monitor]] ''Ragalan'' to [[Gallipoli]]. Once at the [[Dardanelles]] she worked in the monitor's squadron, even carrying [[seaplanes]] which were sent up as [[artillery]] spotters for the ''Raglan's'' gunners.
+
+It was an eventful summer for the [[Isle of Man|Manx]] ship. She was soon based at [[Mudros]], on [[Lemnos]], some 60 miles from the Daredenelles. From the island she carried troops and stores to the combat area in [[Suvla Bay]].
+
+Early in August she was damaged by shellfire, after which she was switched to shore patrol work, closely watching the Turkish movements. During this time, she went aground and was holed. After emergency repairs, ''Snaefell'' eventually reached [[Alexandria]], where she underwent more extensive repairs which were completed after six weeks.
+
+Upon the completion of the repairs, she was again dispatched to active service, this time patrolling the [[Bulgarian Coast]]. This work entailed danger from floating [[Naval mine|mines]], [[shore batteries]] and Bulgarian aircraft, against which at first, the ''Snaefell'' had little or no defence.
+
+During this chapter of her service, she was holed by a six-inch shell from a [[Ottoman Empire|Turkish]] battery, but once more she was lucky.
+
+''Snafell'' then assisted in the evacuation of the [[British Forces]] from [[Gallipoli]], after which the ship was given troop-carrying duties for several months, on one occasion being heavily shelled by a [[submarine]] when laden with Turkish prisoners of war which she had embarked in [[Cyprus]]. She escaped during the night, and made for Alexandria.
+
+Re-fitted in Alexandria in the spring of 1918, and after being held up by a serious fire that broke out while she was in harbour, she was finally able to leave for [[Malta]] early in June. During her voyage to Malta, the [[Imperial German Navy]] [[submarine]] {{SMU|UB-105||6}} torpedoed and sank her in the [[Mediterranean Sea]] {{convert|240|nmi|km}} east-southeast of Malta<ref name=Snaefell>{{cite web |url=http://uboat.net/wwi/ships_hit/5615.html |title=Snaefell |publisher=Uboat.net |accessdate=14 November 2012}}</ref> with the loss of three of her crew members.
+
+''Snaefell''′s wreck position is calculated as [[Geographic coordinate system|LAT:43°36'N LON:042°49'E]], 240 [[Nautical mile|miles]] [[Points of the compass|east-southeast]] (112.5°) of Malta.<ref name=wrecksite />
+
+==References==
+{{reflist}}
+* {{cite book|last=Corbett|first=Julian|authorlink=Julian Corbett|title=Naval Operations|edition=reprint of the 1940 second|series=History of the Great War: Based on Official Documents|volume=III|year=1997|publisher=Imperial War Museum in association with the Battery Press|location=London and Nashville, TN|isbn=1-870423-50-X}}
+
+{{Steam Packet Ships}}
+{{June 1918 shipwrecks}}
+
+{{DEFAULTSORT:Snaefell (1910)}}
+[[Category:Ships of the Isle of Man Steam Packet Company]]
+[[Category:1910 ships]]
+[[Category:Passenger ships of the United Kingdom]]
+[[Category:Ferries of the United Kingdom]]
+[[Category:Ferries of the Isle of Man]]
+[[Category:World War I merchant ships of the United Kingdom]]
+[[Category:Ships built in Merseyside]]
+[[Category:Maritime incidents in 1918]]
+[[Category:Armed boarding steamers of the Royal Navy]]
+[[Category:Steamships of the United Kingdom]]

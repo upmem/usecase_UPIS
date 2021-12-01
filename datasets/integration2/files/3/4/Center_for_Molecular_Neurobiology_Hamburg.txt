@@ -1,0 +1,59 @@
+The '''Center for Molecular Neurobiology Hamburg''' (ZMNH), founded in 1988, is an internationally recognized molecular neuroscience research center, part of the [[University Medical Center Hamburg-Eppendorf]] (UKE), [[Germany]]. Headed by Prof. Dr. Matthias Kneussel, the ZMNH is currently home to 200 scientists and staff from 20 different countries (2018).
+[[File:ZMNH.png|alt=The ZMNH research building in Hamburg|right|frameless|440x440px]]
+
+==Research==
+The focus of the ZMNH is basic research in [[neurobiology]] and [[neuroimmunology]], combining [[molecular genetics]] with anatomical, biochemical and physiological approaches. The ZMNH is structured into six departments and several independent research groups.
+
+Departments/Institutes
+* Molecular and Cellular [[Cognition]]  (Prof. Dr. Dietmar Kuhl)
+* Molecular [[Neurogenetics]] (Prof. Dr. Matthias Kneussel)
+* Neuroimmunology and [[Multiple sclerosis|Multiple]] Sclerosis (Prof. Dr. Manuel A. Friese)
+* [[Synaptic transmission|Synaptic]] Physiology (Prof. Dr. Thomas G. Oertner)
+*Medical Systems Biology (Prof. Dr. Stefan Bonn)
+*Developmental [[Neurophysiology]] (Prof. Dr. Ileana Hanganu-Opatz)
+
+Independent Research Groups
+* [[Neural development|Neuronal]] Development (Dr. Froylan Calderon de Anda)
+* [[Behavioral neuroscience|Behavioral]] Biology Unit (Dr. Fabio Morellini)
+* Neuronal and Cellular Signal Transduction (Prof. Dr. Meliha Karsak)
+* Neuronal Protein Transport (Dr. Marina Mikhaylova)
+* Experimental Neuropediatrics (Dr. Axel Neu)
+*Synaptic Wiring and Information Processing (Prof. Dr. J. Simon Wiegert)
+
+Emeritus Group
+* Biosynthesis of Neural Structures (Prof. Dr. Dr. h.c. Melitta Schachner)
+
+Guest Groups
+* Dendritic Organelles and Synaptic Function (Dr. Michael Kreutz)
+* Fraunhofer IME ScreeningPort (Dr. Ole Pless)
+
+Research is supported by in-house facilities for Bioanalytics, Systems Biology, Morphology, [[Transgenic animal|Transgenic]] Animals, and Information Technology. The center has its own administration, machine shop, and library.
+
+==Education==
+
+Training of graduate students and postdoctoral fellows is an integral part of the mission of the ZMNH. A ''Graduate Program in Molecular Biology'' was established at the [[University Medical Center Hamburg-Eppendorf]] in 1986 to promote in a multi-disciplinary approach the ability for scientific thinking and working. This Graduate Program presents molecular biology and neuroscience within a broader context of the basic sciences and biomedicine. Fundamental (basic) and clinical (applied) aspects are explored and are integrated with relevant areas of other disciplines. This course, which is organized by the ZMNH, is of particular value to those who plan an academic career in biomedical research or in a related industry.
+
+==Major discoveries==
+Several proteins that are key to ''synaptic function'' were first cloned and characterized at the ZMNH, for example the presynaptic proteins Piccolo ([[PCLO]]) and Bassoon and the major organizer of the [[Postsynaptic density|postsynaptic]] density, [[PSD-95]] (a.k.a. SAP90).<ref>{{cite journal|last1=Dieck|first1=S.|title=Bassoon, a Novel Zinc-finger CAG/Glutamine-repeat Protein Selectively Localized at the Active Zone of Presynaptic Nerve Terminals|journal=The Journal of Cell Biology|date=27 July 1998|volume=142|issue=2|pages=499–509|doi=10.1083/jcb.142.2.499|pmid=9679147|pmc=2133055}}</ref><ref>{{cite journal|last1=Kistner|first1=U|last2=Wenzel|first2=BM|last3=Veh|first3=RW|last4=Cases-Langhoff|first4=C|last5=Garner|first5=AM|last6=Appeltauer|first6=U|last7=Voss|first7=B|last8=Gundelfinger|first8=ED|last9=Garner|first9=CC|title=SAP90, a rat presynaptic protein related to the product of the Drosophila tumor suppressor gene dlg-A.|journal=The Journal of Biological Chemistry|date=5 March 1993|volume=268|issue=7|pages=4580–3|pmid=7680343}}</ref> 
+Synaptic activity controls the activity of certain genes, the so-called [[immediate early gene]]s. Arg3.1/[[Arc (protein)|Arc]], a prominent example of this gene family, was discovered at the ZMNH and found to have important functions in learning and memory.<ref>{{cite journal|last1=Link|first1=W.|last2=Konietzko|first2=U.|last3=Kauselmann|first3=G.|last4=Krug|first4=M.|last5=Schwanke|first5=B.|last6=Frey|first6=U.|last7=Kuhl|first7=D.|title=Somatodendritic expression of an immediate early gene is regulated by synaptic activity.|journal=Proceedings of the National Academy of Sciences|date=6 June 1995|volume=92|issue=12|pages=5734–5738|doi=10.1073/pnas.92.12.5734|pmid=7777577|pmc=41771}}</ref><ref>{{cite journal|last1=Plath|first1=Niels|last2=Ohana|first2=Ora|last3=Dammermann|first3=Björn|last4=Errington|first4=Mick L.|last5=Schmitz|first5=Dietmar|last6=Gross|first6=Christina|last7=Mao|first7=Xiaosong|last8=Engelsberg|first8=Arne|last9=Mahlke|first9=Claudia|last10=Welzl|first10=Hans|title=Arc/Arg3.1 Is Essential for the Consolidation of Synaptic Plasticity and Memories|journal=Neuron|date=9 November 2006|volume=52|issue=3|pages=437–444|doi=10.1016/j.neuron.2006.08.024|pmid=17088210}}</ref>
+
+An early focus of the center was understanding the structure and function of ''ion channels''. The famous 'ball-and-chain' mechanism of [[Potassium channel|potassium]] channel inactivation was discovered at the ZMNH.<ref>{{cite journal|last1=Rettig|first1=Jens|last2=Heinemann|first2=Stefan H.|last3=Wunder|first3=Frank|last4=Lorra|first4=Christoph|last5=Parcej|first5=David N.|last6=Dolly|first6=J. O.|last7=Pongs|first7=Olaf|title=Inactivation properties of voltage-gated K+ channels altered by presence of β-subunit|journal=Nature|date=26 May 1994|volume=369|issue=6478|pages=289–294|doi=10.1038/369289a0|pmid=8183366}}</ref> A number of human diseases (hereditary forms of [[myotonia]], [[osteopetrosis]], [[Retinal diseases|retinal]] degeneration, [[Kidney stone|kidney]] stone diseases, [[epilepsy]], [[deafness]]) could be mapped to mutations in specific ion channels.<ref>{{cite journal|last1=Kubisch|first1=Christian|last2=Schroeder|first2=Björn C|last3=Friedrich|first3=Thomas|last4=Lütjohann|first4=Björn|last5=El-Amraoui|first5=Aziz|last6=Marlin|first6=Sandrine|last7=Petit|first7=Christine|last8=Jentsch|first8=Thomas J|title=KCNQ4, a Novel Potassium Channel Expressed in Sensory Outer Hair Cells, Is Mutated in Dominant Deafness|journal=Cell|date=February 1999|volume=96|issue=3|pages=437–446|doi=10.1016/S0092-8674(00)80556-5|pmid=10025409|doi-access=free}}</ref><ref>{{cite journal|last1=Biervert|first1=C.|title=A Potassium Channel Mutation in Neonatal Human Epilepsy|journal=Science|date=16 January 1998|volume=279|issue=5349|pages=403–406|doi=10.1126/science.279.5349.403|pmid=9430594}}</ref><ref>{{cite journal|last1=Koch|first1=M.|last2=Steinmeyer|first2=K|last3=Lorenz|first3=C|last4=Ricker|first4=K|last5=Wolf|first5=F|last6=Otto|first6=M|last7=Zoll|first7=B|last8=Lehmann-Horn|first8=F|last9=Grzeschik|first9=K.|last10=Jentsch|first10=T.|title=The skeletal muscle chloride channel in dominant and recessive human myotonia|journal=Science|date=7 August 1992|volume=257|issue=5071|pages=797–800|doi=10.1126/science.1379744|pmid=1379744}}</ref><ref>{{cite journal|last1=Kornak|first1=Uwe|last2=Kasper|first2=Dagmar|last3=Bösl|first3=Michael R|last4=Kaiser|first4=Edelgard|last5=Schweizer|first5=Michaela|last6=Schulz|first6=Ansgar|last7=Friedrich|first7=Wilhelm|last8=Delling|first8=Günter|last9=Jentsch|first9=Thomas J|title=Loss of the ClC-7 Chloride Channel Leads to Osteopetrosis in Mice and Man|journal=Cell|date=January 2001|volume=104|issue=2|pages=205–215|doi=10.1016/S0092-8674(01)00206-9|pmid=11207362|doi-access=free}}</ref> These fundamental insights allowed researchers to mimic important aspects of human diseases in genetically accurate animal models, a key step in the development of new drugs.<ref>{{cite journal|last1=Dahme|first1=Miriam|last2=Bartsch|first2=Udo|last3=Martini|first3=Rudolf|last4=Anliker|first4=Brigitte|last5=Schachner|first5=Melitta|last6=Mantei|first6=Ned|title=Disruption of the mouse L1 gene leads to malformations of the nervous system|journal=Nature Genetics|date=November 1997|volume=17|issue=3|pages=346–349|doi=10.1038/ng1197-346|pmid=9354804}}</ref>
+
+More recently, ZMNH researchers developed novel genetic tools to control neuronal activity with light ([[optogenetics]]), including the first [[Anion-conducting channelrhodopsin|light-gated chloride channel]] ChloC and the light-activated potassium channel PACK.<ref>{{Cite journal|last=Wietek|first=Jonas|last2=Wiegert|first2=J. Simon|last3=Adeishvili|first3=Nona|last4=Schneider|first4=Franziska|last5=Watanabe|first5=Hiroshi|last6=Tsunoda|first6=Satoshi P.|last7=Vogt|first7=Arend|last8=Elstner|first8=Marcus|last9=Oertner|first9=Thomas G.|date=2014-04-25|title=Conversion of Channelrhodopsin into a Light-Gated Chloride Channel|journal=Science|language=en|volume=344|issue=6182|pages=409–412|doi=10.1126/science.1249375|issn=0036-8075|pmid=24674867}}</ref>
+
+==External links==
+* [https://www.uke.de/english/departments-institutes/centers/center-for-molecular-neurobiology-hamburg-(zmnh)/index.html Homepage] of the ZMNH
+* [http://www.zmnh.uni-hamburg.de/blankenese_conferences/ Blankenese conferences], organized by the ZMNH
+* [https://www.uke.de/english/departments-institutes/centers/center-for-molecular-neurobiology-hamburg-(zmnh)/teaching/index.html Teaching] at the ZMNH
+
+==References==
+{{Reflist}}
+
+{{Coord|display=title}}
+
+{{authority control}}
+
+[[Category:Medical research institutes in Germany]]
+[[Category:Neuroscience research centers in Germany]]
+[[Category:Education in Hamburg]]
+[[Category:Medical and health organisations based in Hamburg]]

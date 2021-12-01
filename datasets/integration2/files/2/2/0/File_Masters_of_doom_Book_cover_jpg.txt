@@ -1,0 +1,27 @@
+== Summary ==
+{{Non-free use rationale book cover 
+| Article           = Masters of Doom
+| Use               = Infobox
+<!-- OPTIONAL FIELDS -->
+| Title             = Masters of Doom
+| Author            = [[David Kushner]]
+| Publisher         = [[Random House]]
+| Cover_artist      = 
+| Website           = 
+| Owner             = 
+| Commentary        = 
+| Year              = 2003,2004
+<!--OVERRIDE FIELDS -->
+| Description       = Cover to the book ''[[Masters of Doom]]'' by [[David Kushner]] ([[2003 in literature|2003]]).
+| Source            = 
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = 
+| Replaceability    = 
+| Other_information = 
+}}
+
+{{media|Doom (franchise)}}
+
+== Licensing ==
+{{Non-free book cover|Masters of Doom|image has rationale=yes|category=Non-fiction book cover images}}

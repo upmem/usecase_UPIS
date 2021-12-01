@@ -1,0 +1,34 @@
+{{Infobox settlement
+| name = Nieczajna
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline = Nieczajna park dworski 1 ewaj.JPG
+| image_caption = Manor park in Nieczajna
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Oborniki|Oborniki]]
+|pushpin_map=Poland
+|coordinates = {{coord|52|35|N|16|46|E|region:PL|display=inline}}
+| elevation_m =
+| population_total =
+| website = }}
+'''Nieczajna''' {{IPAc-pl|ń|e1|'|cz|a|I|n|a}} ({{lang-de|Niendorf}}) is a [[village]] in the administrative district of [[Gmina Oborniki]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) &ndash; TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|9|km|mi|0}} south-west of [[Oborniki]] and {{convert|23|km|mi|0|abbr=on}} north-west of the regional capital [[Poznań]].
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Oborniki}}
+
+{{coord|52.5821|N|16.7580|E|type:city_region:PL_source:GNS-enwiki|display=title}}
+
+[[Category:Villages in Oborniki County|Nieczajna]]
+{{Oborniki-geo-stub}}

@@ -1,0 +1,199 @@
+{{Infobox settlement
+|official_name = Herman, Michigan
+|settlement_type = [[Unincorporated area|Unincorporated community]] 
+|nickname = 
+|motto =
+
+<!-- Images -->
+|image_skyline =
+|imagesize = 
+|image_caption = 
+|image_flag = 
+|image_seal =
+
+<!-- Maps -->
+|image_map = 
+|mapsize = 
+|map_caption = 
+|image_map1 = 
+|mapsize1 = 
+|map_caption1 = 
+|pushpin_map = Michigan
+|pushpin_label = Herman
+|pushpin_map_caption    =Location within the state of Michigan
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name = United States
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[Michigan]]
+|subdivision_type2 = [[List of counties in Michigan|County]]
+|subdivision_name2 = [[Baraga County, Michigan|Baraga]]
+|subdivision_type3 = [[Civil township|Township]]
+|subdivision_name3 = [[L'Anse Township, Michigan|L'Anse]]
+
+<!-- General information -->
+|timezone = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes = 
+|elevation_m = 508
+|elevation_ft = 1667
+|coordinates = {{coord|46|40|01|N|88|22|01|W|type:city_scale:30000_source:GNIS|display=it}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type = [[ZIP code]]
+|postal_code = 49946
+|area_code = [[Area code 906|906]]
+|blank_name = [[Geographic Names Information System|GNIS]] feature ID
+|blank_info = 628133<ref name="GR2"/>
+|blank1_name =
+|blank1_info = 
+|website = 
+|footnotes = 
+}}
+'''Herman''' is an [[Unincorporated area|unincorporated community]] in [[L'Anse Township, Michigan|L'Anse Township]] of [[Baraga County, Michigan|Baraga County]] in the [[U.S. state]] of [[Michigan]]. It was established in 1901 along a branch of the [[Duluth, South Shore and Atlantic Railway]] approximately midway between [[Nestoria, Michigan|Nestoria]] and [[L'Anse, Michigan|L'Anse]].<ref name="GR2">{{GNIS|628133}}</ref>  A post office opened January 13, 1903, and was discontinued on December 5, 1970.<ref>{{gnis|2129295|Herman Post Office (historical)}}</ref>
+
+The settlement was founded by Herman Keranen (born November 5, 1862 in Puolanka, Oulun Laani, Finland), who had been working in the lumber camps when he bought several {{convert|40|acre|m2|adj=on}} plots and constructed a crude log cabin. With the money he earned from lumbering, he established the largest and most productive farm in the area, which led to the community being named for him. For a number of years, the primary access to the area was via the Duluth, South Shore and Atlantic Railroad Company. A school was built in 1903, and a post office followed in 1904. The Herman Athletic Association was organized in 1912, and a farmer's cooperative association in 1919. The area boasted at least one store and one mercantile business.<ref>{{cite book | title = Baragaland Bicentennial 1776-1976 | publisher = The Lumberjacks | year = 1976 | location = Baraga, Michigan }}</ref>
+
+On December 19, 1996, the town received the single largest snowfall in Michigan history, with {{convert|30|in|cm}} falling in the single day.<ref>{{cite web|last=Dolce|first=Chris|title=50 States' Biggest Snow Days|url=http://www.weather.com/sports-rec/ski-conditions/50-states-biggest-snow-days-20130112?pageno=28|publisher=Weather.com|accessdate=18 January 2014|date=3 January 2014}}</ref>
+
+Other early residents included Matt Anderson, Gust Kontio, Erkki Kayramo, Nels Majhannu, Jacob Kuusisto, Henry Pasanen, Joseph Pekkala and Eli Korpi.
+
+{{Weather box
+|single line = y
+|location = Herman, Michigan
+| Jan record high F  = 54
+| Feb record high F  = 61
+| Mar record high F  = 78
+| Apr record high F  = 91
+| May record high F  = 93
+| Jun record high F  = 96
+| Jul record high F  = 96
+| Aug record high F  = 95
+| Sep record high F  = 95
+| Oct record high F  = 86
+| Nov record high F  = 73
+| Dec record high F  = 58
+
+| Jan high F  = 19.9
+| Feb high F  = 24.9
+| Mar high F  = 35.5
+| Apr high F  = 49.7
+| May high F  = 63.8
+| Jun high F  = 72.2
+| Jul high F  = 76.0
+| Aug high F  = 73.7
+| Sep high F  = 64.9
+| Oct high F  = 52.3
+| Nov high F  = 36.4
+| Dec high F  = 23.6
+
+| Jan mean F  = 11.7
+| Feb mean F  = 14.4
+| Mar mean F  = 24.0
+| Apr mean F  = 38.1
+| May mean F  = 51.3
+| Jun mean F  = 60.3
+| Jul mean F  = 64.6
+| Aug mean F  = 62.6
+| Sep mean F  = 54.2
+| Oct mean F  = 42.7
+| Nov mean F  = 28.8
+| Dec mean F  = 16.5
+
+| Jan low F  = 3.5
+| Feb low F  = 3.8
+| Mar low F  = 12.5
+| Apr low F  = 26.5
+| May low F  = 38.7
+| Jun low F  = 48.5
+| Jul low F  = 53.3
+| Aug low F  = 51.5
+| Sep low F  = 43.6
+| Oct low F  = 33.1
+| Nov low F  = 21.2
+| Dec low F  = 9.3
+
+| Jan record low F  = -36
+| Feb record low F  = -40
+| Mar record low F  = -35
+| Apr record low F  = -17
+| May record low F  = 12
+| Jun record low F  = 22
+| Jul record low F  = 26
+| Aug record low F  = 27
+| Sep record low F  = 11
+| Oct record low F  = 1
+| Nov record low F  = -18
+| Dec record low F  = -37
+
+| precipitation colour    =  green
+| Jan precipitation inch  = 2.27
+| Feb precipitation inch  = 1.69
+| Mar precipitation inch  = 2.33
+| Apr precipitation inch  = 2.47
+| May precipitation inch  = 3.23
+| Jun precipitation inch  = 3.43
+| Jul precipitation inch  = 4.34
+| Aug precipitation inch  = 3.83
+| Sep precipitation inch  = 4.09
+| Oct precipitation inch  = 4.11
+| Nov precipitation inch  = 2.87
+| Dec precipitation inch  = 2.58
+
+| Jan snow inch  = 50.0
+| Feb snow inch  = 35.2
+| Mar snow inch  = 32.5
+| Apr snow inch  = 13.9
+| May snow inch  = 2.4
+| Jun snow inch  = 0.0
+| Jul snow inch  = 0.0
+| Aug snow inch  = 0.0
+| Sep snow inch  = 0.2
+| Oct snow inch  = 9.0
+| Nov snow inch  = 28.9
+| Dec snow inch  = 47.5
+
+| Jan precipitation days = 19
+| Feb precipitation days = 14
+| Mar precipitation days = 13
+| Apr precipitation days = 11
+| May precipitation days = 12
+| Jun precipitation days = 13
+| Jul precipitation days = 13
+| Aug precipitation days = 12
+| Sep precipitation days = 14
+| Oct precipitation days = 15
+| Nov precipitation days = 16
+| Dec precipitation days = 19
+
+| Jan snow days  = 20
+| Feb snow days  = 14
+| Mar snow days  = 11
+| Apr snow days  = 5
+| May snow days  = 1
+| Jun snow days  = 0
+| Jul snow days  = 0
+| Aug snow days  = 0
+| Sep snow days  = 0
+| Oct snow days  = 4
+| Nov snow days  = 12
+| Dec snow days  = 19
+|source = https://w2.weather.gov/climate/xmacis.php?wfo=mqt
+}}
+
+==References==
+{{reflist}}
+
+== Further reading ==
+* {{cite book |last=L'Anse High School |title=History of L'Anse township, by the American history class of L'Anse high school |origyear=1922 |url=http://name.umdl.umich.edu/3249280.0001.001 |accessdate=2008-08-31 |year=2005 |publisher=[[University of Michigan Library]] |location=Ann Arbor, Mich. |chapter=Outlying Districts: Summit and Herman |chapterurl=http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=micounty&cc=micounty&idno=3249280.0001.001&frm=frameset&view=image&seq=49 |page=N/A }}
+* {{cite book |last=Holmio |first=Armas K. E. |others=trans. Ellen M. Ryynanen |title=History of the Finns in Michigan |url=https://archive.org/details/historyoffinnsin0000holm/page/106 |format=pdf |accessdate=2008-08-31 |year=2001 |publisher=[[Wayne State University Press]] |location=Detroit |pages=[https://archive.org/details/historyoffinnsin0000holm/page/106 106–107] |chapter=Copper Country |chapterurl=https://books.google.com/books?id=JcJVNoE3BuUC&printsec=frontcover#PPA106,M1 |isbn=0-8143-2974-8 }}
+
+{{Baraga County, Michigan}}
+
+{{authority control}}
+
+[[Category:Unincorporated communities in Baraga County, Michigan]]
+[[Category:Unincorporated communities in Michigan]]

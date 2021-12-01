@@ -1,0 +1,28 @@
+{{short description|Air surveillance branch of Iceland's military}}
+[[Image:IADSRADAR.jpg|thumb|Iceland Air Defence System Radar Site.]]
+[[Image:IADS_RADAR_and_AD_Zone.png|thumb|Iceland Air Defence System Radar Coverage and Air Defence Zone.
+{{legend|#007BA7|Air Defence Zone}}
+{{legend|#6495ED|Approximate Radar coverage}}]]
+{{More footnotes|date=August 2010}}
+The '''Iceland Air Defence System''' ({{lang-is|'''Íslenska Loftvarnarkerfið'''}}) is a part of the [[Icelandic Coast Guard]]. It was founded in 1987 under the Office of Defence of the Icelandic Ministry for Foreign Affairs,<ref name="nato.int">http://www.aco.nato.int/page142085426.aspx</ref> and between 2009–2011, it was a part of the Icelandic Defence Agency (''Varnarmálastofnun Íslands'').   It operates four [[radar]] complexes, a [[software]] and support facility as well as a command and report centre.<ref name="nato.int"/> {{As of|2008}}, it does not independently possess any offensive capabilities, but is primarily used instead to monitor air traffic and direct allied [[interceptors]] based out of country. 
+
+According to the U.S. Department of State website (Office of Public Diplomacy, Iceland page, updated August 2008), the 2008 budget for the Government of Iceland is the first in the country's history to include funding for defence ([[US$]]8.2 million); the money is earmarked for support of cooperative defence activities, military exercises in Iceland, and maintenance of defence-related facilities. This funding is in addition to roughly US$12 million in new expenditures for the operation of the Iceland Air Defence System radar sites, which the United States handed over to Iceland on August 15, 2007. At the start of 2010 Iceland Air Defence reported having a force of 25 employees.
+
+== See also ==
+
+* [[Military of Iceland]]
+* [[Icelandic Coast Guard]]
+* [[Icelandic Air Policing]]
+
+== References ==
+{{Reflist}}
+* [https://web.archive.org/web/20090420130141/http://www.iads.is/ Iceland Air Defence System]
+
+{{Law enforcement in Iceland}}
+
+[[Category:Military of Iceland]]
+[[Category:1987 establishments in Iceland]]
+
+
+{{iceland-stub}}
+{{europe-mil-stub}}

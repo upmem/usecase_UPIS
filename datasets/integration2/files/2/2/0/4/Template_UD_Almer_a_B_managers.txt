@@ -1,0 +1,28 @@
+{{Football manager history
+|name=UD Almería B managers
+|teamname=UD Almería B
+|state= {{{state|}}}
+|bgcolor=red|textcolor=white|bordercolor=white
+|list =
+[[Alfonsín (football manager)|Alfonsín]] 2000 to 02
+[[Pepe Morales|Morales]] 2002 to 05
+[[Ángel Pérez García|P. García]] 2005 to 06
+[[Pepe Morales|Morales]] 2006 to 07
+[[Rafael Berges|Berges]] 2007
+[[Alfonsín (football manager)|Alfonsín]] 2007 to 08
+[[Carlos Ríos (footballer)|Ríos]] 2008 to 09
+[[Constantin Gâlcă|Gâlcă]] 2009 to 10
+[[José María Salmerón|Salmerón]] 2010
+[[Alfonsín (football manager)|Alfonsín]] 2010 to 2011
+[[Francisco (footballer, born 1978)|Francisco]] 2011 to 13
+[[Juan Carlos Cintas|Cintas]] 2013 to 14
+[[Miguel Rivera Mora|Rivera]] 2014 to 15
+[[Fernando Estévez Martín|Estévez]] 2015 to 16
+[[Fran Fernández|Fernández]] 2016 to 18
+[[Esteban Navarro (footballer)|Esteban]] 2018 to 19
+[[Nandinho (footballer, born 1973)|Nandinho]] 2019
+}}<noinclude>
+{{collapsible option}}
+[[Category:UD Almería B managers|*]]
+[[Category:Spain football manager history navigational boxes|Almeria B]]
+</noinclude>

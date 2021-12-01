@@ -1,0 +1,47 @@
+{{Infobox settlement
+|official_name =Ilbegi
+|native_name =ايلبگي
+|settlement_type        = village
+|pushpin_map            =Iran
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name = {{flag|Iran}}
+|subdivision_type1 =[[Provinces of Iran|Province]]
+|subdivision_name1 =[[Chaharmahal and Bakhtiari Province|Chaharmahal and Bakhtiari]]
+|subdivision_type2 =[[Counties of Iran|County]]
+|subdivision_name2 = [[Saman County|Saman]]
+|subdivision_type3 =[[Bakhsh]]
+|subdivision_name3 =
+|subdivision_type4 =[[Rural Districts of Iran|Rural District]]
+|subdivision_name4 =[[Saman Rural District|Saman]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2006
+|population_total =443
+|population_density_km2   =auto
+|timezone               = [[Iran Standard Time|IRST]]
+|utc_offset             = +3:30
+|timezone_DST           = [[Iran Daylight Time|IRDT]]
+|utc_offset_DST         = +4:30
+|coordinates            = {{coord|32|29|58|N|50|53|54|E|region:IR|display=inline,title}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+|footnotes              =
+}}
+'''Ilbegi''' ({{lang-fa|ايلبگي}}, also [[Romanize]]d as '''Īlbegī''' and '''Īlbagī'''; also known as '''Īlbeygī''')<ref>{{GEOnet3|-3067210|Ilbegi}}</ref> is a village in [[Saman Rural District]], [[Saman County]], [[Chaharmahal and Bakhtiari Province]], [[Iran]]. At the 2006 census, its population was 443, in 120 families.<ref>{{IranCensus2006|14}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Shahrekord County}}
+
+{{Portal|Iran}}
+
+[[Category:Populated places in Saman County]]
+
+{{Shahrekord-geo-stub}}

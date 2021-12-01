@@ -1,0 +1,41 @@
+{{short description|1971 book by B.S. Johnson}}
+{{Unreferenced|date=June 2019}}
+{{Infobox book
+| image         = File:HouseMotherNormal.jpg
+| caption       = First edition
+| name          = House Mother Normal
+| author        = [[B. S. Johnson]]
+| country       = United Kingdom
+| language      = English
+| publisher     = [[William Collins, Sons|Collins]] 
+| pub_date      = 1971
+| media_type    = [[Hardcover|Hardback]] and [[Paperback]]
+| pages         = 201
+| isbn          = 0-906427-62-2 
+| dewey         = 823/.9/14
+| congress      = PZ4.J668 Ho PR6060.O3
+| oclc          = 221859
+| preceded_by   = 
+| followed_by   = 
+}}
+
+'''''House Mother Normal''''' (subtitle - ''"A [[Geriatric]] Comedy"'') is a novel by the experimental writer [[B. S. Johnson]].  As is typical of Johnson's work the novel is written in an unorthodox style.
+
+==Plot summary==
+The novel is set in a [[nursing home]].  It follows part of a typical day for a group of elderly people, both male and female.  Their thoughts, memories and opinions of each other and the House Mother (head matron) are explored as they go about their activities, from playing pass-the-parcel to dancing.
+
+==Style==
+Each character in the book has their own section.  Each of these sections starts at the same point in the day, and likewise each section ends at the same point at the end of the day.  Therefore, the reader is given insight into each character's unique interpretation of the same string of events.  This method of writing allows for the characters' actions and conversations to mingle and intertwine.  Johnson provides each character with a mixture of dialogue and interior monologue to express their personalities during the course of their section.
+
+At the beginning of each character's section is an explanatory table, providing us with information on the character, including age, condition and mental faculty.  As the reader progresses through the sections each character is increasingly older and/or more senile than the characters in the preceding sections.  Finally we get the House Mother's section, and we learn her opinions of those in her care.
+
+Johnson frequently uses humour in this novel, though it is at times written with a serious tone.
+
+==External links==
+*[http://www.complete-review.com/reviews/johnsonbs/housemn.htm A review of ''House Mother Normal'']
+
+{{B. S. Johnson}}
+
+[[Category:1971 British novels]]
+[[Category:English novels]]
+[[Category:William Collins, Sons books]]

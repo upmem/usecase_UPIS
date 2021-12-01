@@ -1,0 +1,40 @@
+<noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Miscellaneous|Miscellaneous desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Miscellaneous/2019 February 16|February 16]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Miscellaneous/January 2019|Jan]] | [[Wikipedia:Reference desk/Archives/Miscellaneous/February 2019|February]] | [[Wikipedia:Reference desk/Archives/Miscellaneous/March 2019|Mar]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Miscellaneous/2019 February 18|[[Wikipedia:Reference desk/Archives/Miscellaneous/2019 February 18|February 18]]|[[Wikipedia:Reference desk/Miscellaneous|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center; font-family:Arial; color:#FFFFFF;" | '''Welcome to the Wikipedia Miscellaneous Reference Desk Archives'''
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Miscellaneous/2019 February 27|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= February 17 =
+
+== Elucidation ==
+
+Good morning.
+Perhaps you are the right people to solve this question. I'll come straight to the point: the photo of the game in question is Italy - West Germany, the final of the World Cup in 1982.
+If you notice the football goal, from the back, you will see that the net has been fixed "hermetically" so as not to let the ball out, of course. But I ask myself: is there a pillar - pass me the term - under the pitch, then covered and rolled up, where the net is well "fastened"?
+Thank you.
+https://www.google.it/search?q=italy+west+germany+3+1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjs3OfA6cLgAhUR3aQKHcTFAXYQ_AUIDygC&biw=1768&bih=887#imgdii=UHNrrIfdOfyE_M:&imgrc=XFtt3drn6UMDIM:  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/93.41.100.198|93.41.100.198]] ([[User talk:93.41.100.198#top|talk]]) 13:08, 17 February 2019 (UTC)</small> <!--Autosigned by SineBot-->
+
+:Rather than linking to the search results, could you link to an actual picture? I clicked on a few of the ones your link sent me to, but none of them seemed to have anything like what you're describing. [[User:Matt Deres|Matt Deres]] ([[User talk:Matt Deres|talk]]) 14:15, 17 February 2019 (UTC)
+
+I'm not familiar with the images, but also the links could be enough, they also open photos. This could go. They are always the World Cup in 1982, the pariaquestion this time is Italy Brazil, the quarterfinal. The system is the same, I refer to the footbal goal nets.
+http://www.tabsernews.it/soccer-world-cup-spain-1982-group-c-brazil-v-italy-sarria-stadium/  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/93.41.100.198|93.41.100.198]] ([[User talk:93.41.100.198#top|talk]]) 14:48, 17 February 2019 (UTC)</small> <!--Autosigned by SineBot-->
+:The bottom rear of the net at Sarria stadium appears to be pegged to the ground at intervals of 5 net squares. Suitable plastic and steel pegs are [http://www.networldsoccer.com/soccer-net-accessories.html sold here by a UK supplier] where the plastic type are described as "FA [[The Football Association|(Football Association)]] proffered (<i>preferred?</i>)". [[User:DroneB|DroneB]] ([[User talk:DroneB|talk]]) 18:45, 17 February 2019 (UTC)
+
+== billboard ==
+
+im sorry but i need help finding information for all popular musical genres like hip hop, country, latin, alternative rock, ect....  how can i find not only singles but album information on wikipedia that cites singles and albums as though i were getting the information from billboard itself.  billboard all acess, https://subscribe.billboard.com/sub/?p=BBL&f=sale&s=IB1404NS03
+
+if wikipedia is citing its information from billboard like singles and albums, then how can i find this information from 2011 and onward via wikipedia since billboard charges a fee and since wikipedia is citing information from them anyway, how could i find the top singles and top albums assuming wikipedia has cited such prior information online already from billboard???  how could i find such information on wikipedia???  top singles and albums for all musical genres and years 2011, 2012, ect....????  can someone or anyone please tell me how to cross reference such information by using the cited information from billboard on wikipedia????  can someone please help me out here, please!  rsvp.  thank you.  <!-- Template:Unsigned --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Lw1453220|Lw1453220]] ([[User talk:Lw1453220#top|talk]] • [[Special:Contributions/Lw1453220|contribs]]) 20:21, 17 February 2019 (UTC)</small> <!--Autosigned by SineBot-->

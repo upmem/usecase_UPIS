@@ -1,0 +1,50 @@
+{{Infobox building
+|name               = Tour Défense 2000
+|image              = Défense 2000.JPG
+|image_size         = 175px
+|caption            = Tour Défense 2000
+|location           = [[La Défense]]<br /><small>([[Puteaux]])</small>
+|coordinates        = {{coord|48|53|15|N|2|14|12|E|region:FR|display=inline,title}}
+|status             = 
+|start_date         = 
+|completion_date    = 1974
+|opening            = 
+|building_type      = Dwelling
+|antenna_spire      = {{convert|134|m|ft|abbr=on}}
+|roof               = 
+|top_floor          = 
+|floor_count        = 47
+|elevator_count     = 
+|cost               = 
+|floor_area         = 
+|architect          = Proux, Demones, Srot
+|structural_engineer= 
+|main_contractor    = 
+|developer          = 
+|owner              = 
+|management         = 
+|references         = 
+}}
+The '''Tour Défense 2000''' is one of the tallest residential buildings in France. The tower is situated in the [[La Défense]] section of [[Puteaux]], a suburb of [[Paris]].
+
+The tower was constructed between April 1971 and November 1974. Its success as a residence was not immediate: two years into its opening only a quarter of its apartments had been sold. In comparison to the other buildings of La Défense, Tour Défense 2000 is relatively isolated, and thus benefits from a beautiful panoramic view.
+
+In total, there are 370 apartments occupying 47 floors, and the building is capable of housing about 700 people. Apartments range in size from 19m² to 140m².<ref>http://www.tourdefense2000.net/j15/index.php?option=com_content&view=section&layout=blog&id=2&Itemid=100003&lang=en</ref>
+
+== See also ==
+* [[Skyscraper]]
+* [[List of tallest structures in Paris]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{in lang|fr}} [http://www.tourdefense2000.com/ Official site]
+{{La Défense}}
+{{Puteaux}}
+
+{{DEFAULTSORT:Tour Defense 2000}}
+[[Category:Skyscrapers in France|Defense 2000]]
+[[Category:La Défense|Defense 2000]]
+[[Category:Buildings and structures completed in 1974]]
+[[Category:Apartment buildings in France]]

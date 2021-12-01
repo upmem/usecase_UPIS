@@ -1,0 +1,54 @@
+{{Orphan|date=June 2020}}
+
+{{short description|Andorran footballer}}
+{{Infobox football biography
+| name           = Èrica Gonçalves
+| image          = 
+| image_size     = 
+| caption        =
+| fullname       = Èrica Gonçalves Do Canto
+| birth_date     = {{Birth date and age|df=yes|2002|5|9}}<ref name=UEFA>{{UEFA player|id=250125309|accessdate=1 May 2020}}</ref>
+| birth_place    = 
+| height         = 
+| position       = [[Defender (association football)|Defender]]<ref name=UEFA/><ref name=SW>{{Soccerway|id=572040|accessdate=1 May 2020}}</ref>
+| currentclub    = ENFAF<ref>{{Cite web|url=http://dev.fcf.cat/fcf/equip/1920/1f/enfaf-credit-andorra-a|website=FCF|title=Equip ENFAF CREDIT ANDORRA,A|language=ca|accessdate=27 April 2020}}</ref>
+| clubnumber     = 
+| youthyears1    = 
+| youthclubs1    = ENFAF
+| collegeyears1  = 
+| college1       = 
+| collegecaps1   = | collegegoals1 = 
+| years1         = 
+| clubs1         = ENFAF
+| caps1          = 
+| goals1         = 
+| nationalyears1 = 2018
+| nationalteam1  = {{Nwftu|17|Andorra}}
+| nationalcaps1  = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2018
+| nationalteam2  = [[Andorra women's national football team|Andorra]]
+| nationalcaps2  = 1
+| nationalgoals2 = 0
+| pcupdate = 
+| ntupdate = 10 November 2018
+}}
+{{family name hatnote|Gonçalves|Do Canto|lang=Catalan}}
+'''Èrica Gonçalves Do Canto''' (born 9 May 2002) is an Andorran [[women's association football|footballer]] who plays as a [[Defender (association football)|defender]] for Andorran-based Spanish Women's First Division of Catalonia club ENFAF and the [[Andorra women's national football team|Andorra women's national team]].
+
+==International career==
+Gonçalves capped for Andorra at senior level in a 0–2 [[Exhibition game|friendly]] loss to [[Luxembourg women's national football team|Luxembourg]] on 10 November 2018.<ref>{{YouTube|id=kbnR1A2MBtg|title=Andorra vs Luxemburg}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Gonçalves, Èrica}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Women's association football defenders]]
+[[Category:Andorran women's footballers]]
+[[Category:Andorra women's international footballers]]
+[[Category:Andorran people of Portuguese descent]]
+
+
+{{Andorra-women-footy-bio-stub}}

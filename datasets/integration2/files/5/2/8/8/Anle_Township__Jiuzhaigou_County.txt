@@ -1,0 +1,97 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Anle Township
+| native_name             = 安乐乡
+| native_name_lang        = zh-cn
+| settlement_type         = [[Townships of the People's Republic of China|Township]]
+| image_skyline           =
+| image_alt               =
+| image_caption           =
+| flag_alt                =
+| image_seal              =
+| seal_alt                =
+| image_shield            =
+| shield_alt              =
+| nickname                =
+| motto                   =
+| image_map               =
+| map_alt                 =
+| map_caption             =
+| pushpin_map             =China Sichuan
+| pushpin_label_position  =top
+| pushpin_map_alt         =
+| pushpin_map_caption     =Location in Sichuan
+| coordinates             = {{coord|33.2816|N|104.2299|E|region:CN-51_source:Gaode|format=dms|display=it}}
+| coor_pinpoint           =Anle Township government
+| coordinates_footnotes   =
+| subdivision_type        = Country
+| subdivision_name        = People's Republic of China
+| subdivision_type1       = [[Provinces of China|Province]]
+| subdivision_name1       = [[Sichuan]]
+| subdivision_type2       = [[Autonomous Prefecture]]
+| subdivision_name2       = [[Ngawa Tibetan and Qiang Autonomous Prefecture|Ngawa]]
+| subdivision_type3       = [[CPRC|County]]
+| subdivision_name3       = [[Jiuzhaigou County|Jiuzhaigou]]
+| established_title       =
+| established_date        =
+| founder                 =
+| seat_type               =
+| seat                    =
+| government_footnotes    =
+| leader_party            =
+| leader_title            =
+| leader_name             =
+| unit_pref               = Metric<!-- or US or UK -->
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = 
+| area_urban_footnotes    = <!-- <ref> </re> -->
+| area_rural_footnotes    = <!-- <ref> </re> -->
+| area_metro_footnotes    = <!-- <ref> </re> -->
+| area_magnitude          = <!-- <ref> </re> -->
+| area_note               =
+| area_water_percent      =
+| area_rank               =
+| area_blank1_title       =
+| area_blank2_title       =
+<!-- square kilometers -->
+| area_total_km2          = 
+| area_land_km2           =
+| area_water_km2          =
+| area_urban_km2          =
+| area_rural_km2          =
+| area_metro_km2          =
+| area_blank1_km2         =
+| area_blank2_km2         =
+| length_km               =
+| width_km                =
+| dimensions_footnotes    =
+| elevation_footnotes     =
+| elevation_m             = 
+| population_footnotes    =
+| population_total        =
+| population_as_of        =
+| population_density_km2  = auto
+| population_demonym      =
+| population_note         =
+| timezone1               = [[China Standard Time|China Standard]]
+| utc_offset1             = +8
+| postal_code_type        =[[List of postal codes in China|Postal code]]
+| postal_code             =
+| area_code_type          =
+| area_code               =
+| iso_code                =
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               =
+}}
+'''Anle Township''' ({{zh|s=安乐乡 |t=安樂鄉 |p=Ānlè Xiāng}}) is a [[Townships of the People's Republic of China|township]] under the administration of [[Jiuzhaigou County]] in [[Ngawa Tibetan and Qiang Autonomous Prefecture]], northern [[Sichuan]], China.<ref>{{cite web |url = http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/513225.html |script-title=zh:2018年统计用区划代码和城乡划分代码：九寨沟县 |publisher = National Bureau of Statistics of the People's Republic of China |language = Chinese |accessdate = 2019-02-24}}</ref> {{asof|2018}}, it has 11 villages under its administration.<ref>{{cite web |url=http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/51/32/25/513225202.html |script-title=zh:2018年统计用区划代码和城乡划分代码：安乐乡 |publisher=National Bureau of Statistics of the People's Republic of China |language=Chinese |accessdate=2019-02-24
+}}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:Township-level divisions of Sichuan]]
+[[Category:Jiuzhaigou County]]
+
+
+{{Sichuan-geo-stub}}

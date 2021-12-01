@@ -1,0 +1,22 @@
+{{italic title}}
+{{Speciesbox
+| name = 
+| image = 
+| taxon = Gnathothlibus australiensis
+| authority = [[Robert B. Lachlan|Lachlan]], 2004<ref>{{cite web|url=http://www.cate-sphingidae.org/taxonomy/Gnathothlibus/australiensis.html |archiveurl=https://web.archive.org/web/20121106090746/http://www.cate-sphingidae.org/taxonomy/Gnathothlibus/australiensis.html|archivedate=2012-11-06|url-status=dead|title=CATE Creating a Taxonomic eScience - Sphingidae |publisher=Cate-sphingidae.org |accessdate=2011-10-20}}</ref>
+| synonyms = 
+}}
+'''''Gnathothlibus australiensis''''' is a [[moth]] of the  family [[Sphingidae]]. It is known from the [[Northern Territory]] and [[Queensland]].
+
+The length of the forewings is 33–38&nbsp;mm. It is similar to ''[[Gnathothlibus eras]]'' but differs in its smaller size and the complete absence of any long hair scales on the foretarsi and a clear reduction in length and thickness of long hair scales covering the foretibiae in males. It differs from ''[[Gnathothlibus vanuatuensis]]'' in smaller size and more unicolorous appearance. The head and thorax are dorsally medium brown, the abdomen is slightly lighter brown and there is a small dark median spot on the prothorax. The thorax has a ventral whitish patch immediately posterior to labial palps, the remainder is light creamy-brown. The underside of the abdomen is light pinkish-brown, with three or four lateral tiny black spots surrounded by white. The ground colour of the forewing upperside is brown, with faint darker markings. The small black discal spot with lighter centre is barely visible. The forewing underside is yellow-brown in the basal half and without markings. It is brown distally and slightly speckled with dark brown. The hindwing upperside is orange with a thin dark brown marginal band. The hindwing underside is orange-brown and heavily speckled with dark brown.
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5574164}}
+
+[[Category:Gnathothlibus]]
+[[Category:Moths described in 2004]]
+
+
+{{Macroglossini-stub}}

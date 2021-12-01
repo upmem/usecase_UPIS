@@ -1,0 +1,83 @@
+{{More citations needed|date=November 2019}}
+{{Use mdy dates|date=April 2013}}
+{{Infobox university school
+ |name              = School of Theology and Religious Studies
+ |native_name       = 
+ |image_name        = Logo of The Catholic University of America 2c.svg
+ |image_size        = 100px
+ |image_alt         = 
+ |caption           = 
+ |latin_name        = 
+ |motto             = 
+ |mottoeng          = 
+ |established       = 1887
+ |closed            = 
+ |parent            = [[The Catholic University of America]]
+ |type              = 
+ |namesake          = 
+ |affiliation       = Roman Catholic
+ |endowment         = 
+ |chairman          = 
+ |dean              = William C. Mattison III (interim)
+ |director          = 
+ |faculty           = 43
+ |staff             = 10
+ |students          =  
+ |undergrad         = 
+ |postgrad          = 
+ |doctoral          = 
+ |other             = 
+ |city              = [[Washington, D.C.]]
+ |state             = 
+ |province          = 
+ |country           = United States
+ |coor              = {{coord|38|55|52.7|N|76|59|54.4|W|type:edu_region:US-DC|display=title,inline}}
+ |campus            = 
+ |former_names      = 
+ |affiliations      = 
+ |website           = [http://trs.cua.edu/ trs.cua.edu]
+ |logo              = 
+ |footnotes         = 
+}}
+The '''School of Theology and Religious Studies''' is one of the twelve schools at [[The Catholic University of America]], located in Washington, D.C.<ref name="Schools at The Catholic University of America">[http://www.cua.edu/academics/schools-colleges.cfm Schools at The Catholic University of America] {{webarchive|url=https://web.archive.org/web/20140625112221/http://www.cua.edu/academics/schools-colleges.cfm |date=June 25, 2014 }}</ref> and one of the three [[Ecclesiastical university|ecclesiastical schools]] at the university, together with the [[School of Canon Law]] and the School of Philosophy. The school is part of the main campus in the [[Brookland (Washington, D.C.)|Brookland]] neighborhood in Northeast D.C.
+
+On September 24, 2014, CUA president John Garvey announced that he had appointed the Very Reverend Mark Morozowich, Dean of the School of Theology and Religious Studies, as interim provost of The Catholic University of America for the remainder of the 2014-2015 academic year. Fr Morozowich has served as dean of the School of Theology and Religious Studies since July 2012. President Garvey also announced that Monsignor Paul McPartlan, the Carl J. Peter Professor of Systematic Theology and Ecumenism, had agreed to serve as the acting dean of the School of Theology and Religious studies during this interim period.
+
+==Programs of study==
+
+===Undergraduate programs===
+*Bachelor of Arts in Theology & Religious Studies
+*BA/MA Combination Degree Program in Theology & Religious Studies
+*[[Minor (academic)|Minor]] in Theology & Religious Studies
+*[[Certificate of Higher Education|Certificate]] in Pastoral Ministry.
+
+===Graduate programs===
+The School of Theology and Religious Studies offers either Civil, Ecclesiastical, or Pastoral degrees:
+*Civil
+**M.A.
+**Ph.D.
+*Ecclesiastical
+**[[Bachelor of Sacred Theology|S.T.B.]]
+**[[Licentiate of Sacred Theology|S.T.L.]]
+**[[Doctor of Sacred Theology|S.T.D.]]
+*Pastoral
+**[[Master of Divinity|M.Div.]]
+**[[Master of Religious Education|M.R.E.]]
+**[[Doctor of Ministry|D.Min.]]
+
+==References==
+<references />
+
+==External links==
+*[http://trs.cua.edu/ Official website]
+
+{{The Catholic University of America}}
+
+
+{{authority control}}
+
+[[Category:Colleges and schools of the Catholic University of America]]
+[[Category:Seminaries and theological colleges in Washington, D.C.]]
+
+
+{{WashingtonDC-stub}}

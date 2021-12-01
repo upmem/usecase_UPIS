@@ -1,0 +1,122 @@
+{{Use dmy dates|date=July 2020}}
+{{Infobox planet
+ | minorplanet     = yes
+ | name            = 1052 Belgica
+ | background      = #D6D6D6
+ | image           = 
+ | caption         = 
+ | discovery_ref   = &thinsp;<ref name="jpldata" />
+ | discovered      = 15 November 1925
+ | discoverer      = [[Eugène Delporte|E. Delporte]]
+ | discovery_site  = [[Royal Observatory of Belgium|Uccle Obs.]]
+ | mpc_name        = (1052) Belgica
+ | pronounced      = {{IPAc-en|'|b|E|l|dZ|ᵻ|k|@}}<ref>{{OED|Belgic}}</ref>
+ | alt_names       = 1925 VD{{·}}{{mp|1965 UO|1}}<br />A908 TB
+ | named_after     = [[Belgium]] {{small|(country)}}<ref name="Schmadel-Belgica" />
+ | mp_category     = [[main-belt]]{{·}}[[Flora family|Flora]]&thinsp;<ref name="lcdb" />
+ | orbit_ref       = &thinsp;<ref name="jpldata" />
+ | epoch           = 16 February 2017 ([[Julian day|JD]] 2457800.5)
+ | uncertainty     = 0
+ | observation_arc = 108.27 yr (39,545 days)
+ | aphelion        = 2.5565 [[Astronomical unit|AU]]
+ | perihelion      = 1.9166 AU
+ | semimajor       = 2.2366 AU
+ | eccentricity    = 0.1431
+ | period          = 3.34 [[Julian year (astronomy)|yr]] (1,222 days)
+ | mean_anomaly    = 120.60[[Degree (angle)|°]]
+ | mean_motion     = {{Deg2DMS|0.2947|sup=ms}} / day
+ | inclination     = 4.6949°
+ | asc_node        = 99.631°
+ | arg_peri        = 297.54°
+ | satellites      = 1&thinsp;<ref name="Franco-2013b" /><ref name="Franco-2013c" /><ref name="johnstonsarchive" />
+ | dimensions      = {{val|9.785|0.123}} km<ref name="MasieroGrav2014" /><br />{{val|10.406|0.077}} km<ref name="MainzerGrav2011" /><br />10.94&nbsp;km {{small|(derived)}}<ref name="lcdb" /><br />{{val|11|2}} km<ref name="Franco-2013c" />
+ | rotation        = {{val|2.70933|0.0003}} [[Hour|h]]<ref name="geneva-obs" /><br />{{val|2.7097|0.0001}} h<ref name="Franco-2013b" /><br />{{val|2.7097|0.0001}} h<ref name="Franco-2013c" />
+ | albedo          = 0.20 {{small|(assumed)}}<ref name="lcdb" /><br />{{val|0.2734|0.0736}}<ref name="MainzerGrav2011" /><br />{{val|0.301|0.028}}<ref name="MasieroGrav2014" />
+ | spectral_type   = [[Asteroid color indices|B–V]] = 0.900<ref name="jpldata" /><br />[[Asteroid color indices|U–B]] = 0.540<ref name="jpldata" /><br />[[S-type asteroid|S]] {{small|([[Tholen classification|Tholen]])}}<ref name="jpldata" />{{·}}[[S-type asteroid|S]] {{small|([[SMASS classification|SMASS]])}}<ref name="jpldata" /><br />[[S-type asteroid|S]]&thinsp;<ref name="lcdb" />
+ | abs_magnitude   = 11.97<ref name="jpldata" /><ref name="MainzerGrav2011" />{{·}}{{val|12.09|0.25}}<ref name="VerešJedicke2015" />{{·}}{{val|12.17|0.05}}<ref name="lcdb" /><ref name="Franco-2013c" />
+}}
+
+'''1052 Belgica''', provisional designation {{mp|1925 VD}}, is a [[binary asteroid|binary]] Florian [[asteroid]] from the inner regions of the [[asteroid belt]], approximately 10 kilometers in diameter. It was discovered on 15 November 1925, by Belgian astronomer [[Eugène Delporte]] at [[Uccle Observatory]] in Belgium.<ref name="MPC-Belgica" /> It was the first minor planet discovered at Uccle Observatory, after which the minor planet [[1276 Ucclia]] was named.
+
+1052 is named after the Western European state of [[Belgium]].<ref name="Schmadel-Belgica" />
+
+== Classification and orbit ==
+
+''Belgica'' is a member of the [[Flora family]], one of the largest groups of stony asteroids in the main-belt. It orbits the Sun at a distance of 1.9–2.6&nbsp;[[Astronomical unit|AU]] once every 3 years and 4 months (1,222 days). Its orbit has an [[orbital eccentricity|eccentricity]] of 0.14 and an [[orbital inclination|inclination]] of 5[[Degree (angle)|°]] with respect to the [[ecliptic]].<ref name="jpldata" /> ''Belgica'' was first identified as {{mp|A908 TB}} at [[Heidelberg Observatory|Heidelberg]] in 1908. The body's [[observation arc]] begins with its first used observation taken at Uccle/[[Hamburg Observatory|Bergedorf]] in 1933, or 8 years after its official discovery at Uccle.<ref name="MPC-Belgica" />
+
+== Physical characteristics ==
+
+In both the [[Tholen classification|Tholen]] and [[SMASS classification|SMASS]] taxonomy, ''Belgica'' is classified as a common stony [[S-type asteroid]].<ref name="jpldata" />
+
+=== Rotation period ===
+
+Between December 2012, and January 2013, photometric observations of ''Belgica'' were taken at several observatories in Italy, the Czech Republic, Spain and the United States. They gave three concurring [[lightcurve]]s with a [[rotation period]] of 2.709 hours and a brightness variation of 0.08 to 0.10 [[Magnitude (astronomy)|magnitude]], indicating a nearly spheroidal shape for the asteroid's body ({{small|[[LCDB quality code|U=2/3/n.a.]]}}).
+
+=== Satellite ===
+
+The photometric observations also revealed, that ''Belgica'' is a [[Binary asteroid|binary system]] with an [[asteroid moon]], approximately 36% the diameter of its primary, [[orbital period|orbiting]] it every {{val|47.26|0.02}} hours.<ref name="Franco-2013b" /><ref name="Franco-2013c" /> Johnston's archive derives a diameter of 3.53 kilometers and estimates a [[semi-major axis]] of 34 kilometer for the moon.<ref name="johnstonsarchive" />
+
+=== Diameter and albedo ===
+
+According to the survey carried out by NASA's [[Wide-field Infrared Survey Explorer]] with its subsequent [[NEOWISE]] mission, ''Belgica'' measures 9.78 and 10.406 kilometers in diameter and its surface has an [[astronomical albedo|albedo]] of 0.301 and 0.273, respectively,<ref name="MasieroGrav2014" /><ref name="MainzerGrav2011" /> while the ''Collaborative Asteroid Lightcurve Link'' assumes a standard albedo for stony asteroids of 0.20 and derives a diameter of 10.94 kilometers with an [[absolute magnitude]] of 12.17.<ref name="lcdb" /> This agrees with the estimated diameter of {{val|11|2}} kilometers by Franco et al.<ref name="Franco-2013c" />
+
+== Naming ==
+
+This [[minor planet]] was named in honor of the state of [[Belgium]]. The name "Belgica" was suggested during the height of [[World War I]] by American astronomer [[Joel Hastings Metcalf]], but the Director of the German [[Astronomisches Rechen-Institut]] in Berlin, [[Fritz Cohn]], rejected the proposal based on political considerations, as Belgium was [[German occupation of Belgium during World War I|occupied]] by German troops at the time.<ref name="Schmadel-Belgica" />
+
+In his ''Dictionary of Minor Planets Names'', astronomer [[Lutz Schmadel]] described this piece of history involving minor planet names in detail. Naming citation was first mentioned in ''[[The Names of the Minor Planets]]'' by [[Paul Herget]] in 1955 ({{small|[[Herget's discovery circumstances|H 100]]}}).<ref name="Schmadel-Belgica" />
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name="jpldata">{{cite web   |type       = 2017-01-09 last obs.   |title      = JPL Small-Body Database Browser: 1052 Belgica (1925 VD)   |url        = https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2001052
+  |publisher  = [[Jet Propulsion Laboratory]]   |accessdate = 27 January 2017}}</ref>
+
+<ref name="Schmadel-Belgica">{{cite book     |last1      = Schmadel | first1 = Lutz D.  |title      = Dictionary of Minor Planet Names  |publisher  = [[Springer Berlin Heidelberg]]    |page       = 90   |date       = 2003   |isbn       = 978-3-540-29925-7  |doi       = 10.1007/978-3-540-29925-7_1053  |chapter       = (1052) Belgica |url        = https://books.google.com/books?id=aeAg1X7afOoC&pg=PA89}}</ref>
+
+<ref name="MPC-Belgica">{{cite web  |title      = 1052 Belgica (1925 VD)   |work       = Minor Planet Center   |url        = https://www.minorplanetcenter.net/db_search/show_object?object_id=1052
+  |accessdate = 27 January 2017}}</ref>
+
+<ref name="geneva-obs">{{cite web   |title      = Asteroids and comets rotation curves – (1052) Belgica   |last       = Behrend |first = Raoul   |publisher  = [[Geneva Observatory]]   |url        = http://obswww.unige.ch/~behrend/page3cou.html#001052   |accessdate = 27 January 2017}}</ref>
+
+<ref name="MasieroGrav2014">{{cite journal   |display-authors = 6   |first1     = Joseph R. |last1 = Masiero   |first2     = T. |last2 = Grav   |first3     = A. K. |last3 = Mainzer   |first4     = C. R. |last4 = Nugent   |first5     = J. M. |last5 = Bauer   |first6     = R. |last6 = Stevenson   |first7     = S. |last7 = Sonnett   |date       = August 2014   |title      = Main-belt Asteroids with WISE/NEOWISE: Near-infrared Albedos   |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2014ApJ...791..121M   |journal    = The Astrophysical Journal   |volume     = 791   |issue      = 2   |page       = 11   |bibcode    = 2014ApJ...791..121M   |doi        = 10.1088/0004-637X/791/2/121   |arxiv      = 1406.6645   |access-date= 27 January 2017}}</ref>
+
+<ref name="johnstonsarchive">{{cite web   |first1     = Robert |last1 = Johnston   |title      = (1052) Belgica   |publisher  = johnstonsarchive.net   |date       = 21 September 2014   |url        = http://www.johnstonsarchive.net/astro/astmoons/am-01052.html   |accessdate = 10 April 2017}}</ref>
+
+<ref name="lcdb">{{cite web   |title      = LCDB Data for (1052) Belgica   |publisher  = Asteroid Lightcurve Database (LCDB)   |url        = http://www.minorplanet.info/PHP/generateOneAsteroidInfo.php?AstInfo=1052%7CBelgica   |accessdate = 27 January 2017}}</ref>
+
+<ref name="MainzerGrav2011">{{cite journal   |display-authors = 6  |first1     = A. |last1 = Mainzer  |first2     = T. |last2 = Grav  |first3     = J. |last3 = Masiero  |first4     = E. |last4 = Hand  |first5     = J. |last5 = Bauer  |first6     = D. |last6 = Tholen  |first7     = R. S. |last7 = McMillan  |first8     = T. |last8 = Spahr  |first9     = R. M. |last9 = Cutri  |first10    = E. |last10 = Wright  |first11    = J. |last11 = Watkins  |first12    = W. |last12 = Mo   |first13    = C. |last13 = Maleszewski  |date       = November 2011  |title      = NEOWISE Studies of Spectrophotometrically Classified Asteroids: Preliminary Results  |journal    = The Astrophysical Journal  |volume     = 741   |issue      = 2  |page       = 25  |bibcode    = 2011ApJ...741...90M  |doi        = 10.1088/0004-637X/741/2/90  |arxiv      = 1109.6407   }}</ref>
+
+<ref name="Franco-2013b">{{Cite journal   |first1     = L. |last1 = Franco  |first2     = P. |last2 = Pravec  |first3     = A. |last3 = Ferrero  |first4     = L. |last4 = Martinez  |date       = January 2013
+  |title      = (1052) Belgica   |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2013CBET.3372....1F    |journal    = Central Bureau Electronic Telegrams   |volume = 3372   |issue      = 3372  |pages = 1   |bibcode    = 2013CBET.3372....1F  |access-date= 27 January 2017}}</ref>
+
+<ref name="Franco-2013c">{{Cite journal   |first1     = Lorenzo |last1 = Franco  |first2     = Andrea |last2 = Ferrero  |first3     = Luis |last3 = Martinez  |first4     = Petr |last4 = Pravec
+  |first5     = Stefano |last5 = Padovan  |date       = July 2013  |title      = Binary Nature for the Asteroid 1052 Belgica  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2013MPBu...40..151F  |journal    = The Minor Planet Bulletin  |volume     = 40  |issue      = 3  |pages      = 151–153  |issn       = 1052-8091  |bibcode    = 2013MPBu...40..151F  |access-date= 27 January 2017}}</ref>
+
+<ref name="VerešJedicke2015">{{cite journal  |display-authors = 6  |first1     = Peter |last1 = Veres  |first2     = Robert |last2 = Jedicke  |first3     = Alan |last3 = Fitzsimmons  |first4     = Larry |last4 = Denneau  |first5     = Mikael |last5 = Granvik  |first6     = Bryce |last6 = Bolin  |first7     = Serge |last7 = Chastel  |first8     = Richard J. |last8 = Wainscoat  |first9     = William S. |last9 = Burgett  |first10    = Kenneth C. |last10 = Chambers  |first11    = Heather |last11 = Flewelling  |first12    = Nick |last12 = Kaiser  |first13    = Eugen A. |last13 = Magnier |first14    = Jeff S. |last14 = Morgan
+  |first15    = Paul A. |last15 = Price  |first16    = John L. |last16 = Tonry  |first17    = Christopher |last17 = Waters  |date       = November 2015  |title      = Absolute magnitudes and slope parameters for 250,000 asteroids observed by Pan-STARRS PS1 - Preliminary results  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2015Icar..261...34V  |journal    = Icarus
+  |volume     = 261  |pages      = 34–47  |bibcode    = 2015Icar..261...34V  |doi        = 10.1016/j.icarus.2015.08.007  |arxiv      = 1506.00762  |access-date= 27 January 2017}}</ref>
+
+}} <!-- end of reflist -->
+
+== External links ==
+* [http://www.johnstonsarchive.net/astro/asteroidmoons.html Asteroids with Satellites], Robert Johnston, johnstonsarchive.net
+* [http://www.minorplanet.info/PHP/lcdbsummaryquery.php Asteroid Lightcurve Database (LCDB)], query form ([http://www.minorplanet.info/lightcurvedatabase.html info])
+* [https://books.google.com/books?id=aeAg1X7afOoC&pg Dictionary of Minor Planet Names], Google books
+* [http://obswww.unige.ch/~behrend/page_cou.html Asteroids and comets rotation curves, CdR] – Observatoire de Genève, Raoul Behrend
+* [https://www.minorplanetcenter.net/iau/lists/NumberedMPs000001.html Discovery Circumstances: Numbered Minor Planets (1)-(5000)]  – Minor Planet Center
+* {{AstDys|1052}}
+* {{JPL small body}}
+
+{{Minor planets navigator |1051 Merope |number=1052 |1053 Vigdis}}
+{{Small Solar System bodies}}
+
+{{DEFAULTSORT:Belgica}}
+[[Category:Flora asteroids|001052]]
+[[Category:Discoveries by Eugène Joseph Delporte]]
+[[Category:Minor planets named for places]]
+[[Category:Named minor planets]]
+[[Category:Binary asteroids|001052]]
+[[Category:S-type asteroids (Tholen)|001052]]
+[[Category:S-type asteroids (SMASS)|001052]]
+[[Category:Astronomical objects discovered in 1925|19251115]]

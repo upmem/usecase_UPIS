@@ -1,0 +1,279 @@
+{{short description|American college basketball season}}
+{{Infobox NCAA team season
+  |mode=Basketball
+  |year=1908–09
+  |prev_year=1907–08
+  |next_year= 1909–10
+  |team=Illinois Fighting Illini
+  |image=File:1908-09_Fighting_Illini_men's_basketball_team.jpg
+  |image_size= 300px
+  |conference=Big Ten Conference
+  |division=
+  |short_conf= Big Ten
+  |CoachRank=
+  |APRank=
+  |record=7–6
+  |conf_record=5–6
+  |head_coach=[[Herb Juul|Herb V. Juul]]
+  |asst_coach1=
+  |asst_coach2=
+  |asst_coach3=
+  | captain = Henry Popperfuss
+  | mvp = 
+  | mvp2 = 
+  |stadium=[[Kenney Gym]]
+  |champion=   
+  |bowl=
+  |bowl_result= 
+}}
+{{1908–09 Western Conference men's basketball standings}}
+The '''1908–09 Illinois Fighting Illini men's basketball team''' represented the [[University of Illinois]].
+
+==Regular season==
+The 1908–09 season witnessed the fourth coach in just four years to head up the University of [[Illinois Fighting Illini men's basketball]] team.  The only difference for this season, however; was that [[Herb Juul|Herb V. Juul]] became the first coach to stay for more than one year.<ref>A Century of Orange and Blue: Celebrating 100 Years of Fighting Illini Basketball By [[Loren Tate]], Jared Gelfond pg.20 {{ISBN|1-58261-793-7}}</ref> He also became the first former Fighting Illini player to head the Illinois basketball program, serving as captain of the 1906–07 team. The starting lineup for the team included ''captain'' [[H. J. Popperfuss]] and [[Carl P. Watson]] at the forward positions, [[Emmett V. Poston]] as the center, and a combination of [[Roy G. Rennacker]], [[Louis S. Bernstein]] and [[Thomas E. Thompson]] at guard. The Illini finished their season with an overall record of seven wins and six losses with a conference record of five wins, six losses and a fourth-place finish in the [[Big Ten|Western Conference]].<ref>Fighting Illini Basketball: A Hardwood History By [[The News-Gazette (Champaign-Urbana)|News-Gazette]], Sports Publishing LLC {{ISBN|1-58261-356-7}}</ref>
+
+===Roster===
+[[File:1908-09 Fighting Illini Basketball Team.png|thumb|''"1908-09 Fighting Illini team"'']]
+{{CBB roster/Header|year=1908|team=Illinois Fighting Illini|teamcolors=y}}
+{{CBB roster/Player|first=Carl|last=Watson|num=|pos=F|ft=|in=|lbs=|class=SO|rs=|home=[[DeKalb, Illinois]]|link=n}}
+{{CBB roster/Player|first=Emmett|last=V. Poston|num=|pos=C|ft=|in=|lbs=|class=SO|rs=|home=[[Springfield, Illinois]]|link=n}}
+{{CBB roster/Player|first=Henry|last=Popperfuss|num=|pos=F|ft=|in=|lbs=|class=JR|rs=|home=[[Tomah, Wisconsin]]|link=n|note=C}}
+{{CBB roster/Player|first=Roy|last=Rennacker|num=|pos=G|ft=|in=|lbs=|class=JR|rs=|home=[[Winnetka, Illinois]]|link=n}}
+{{CBB roster/Player|first=Thomas|last=E. Thompson|num=|pos=G|ft=|in=|lbs=|class=JR|rs=|home=[[Williams Bay, Wisconsin]]|link=y}}
+{{CBB roster/Player|first=Avery|last=Brundage|num=|pos=F|ft=|in=|lbs=|class=SR|rs=|home=[[Chicago, Illinois]]|link=y}}
+{{CBB roster/Player|first=Louis|last=S. Bernstein|num=|pos=G|ft=|in=|lbs=|class=SO|rs=|home=[[Niagara Falls, New York]]|link=n}}
+{{CBB roster/Player|first=Charles|last=M. Bunn|num=|pos=F|ft=|in=|lbs=|class=JR|rs=|home=[[DeKalb, Illinois]]|link=n}}
+{{CBB roster/Player|first=Chester|last=Arthur Lord|num=|pos=F|ft=|in=|lbs=|class=JR|rs=|home=[[Sioux Falls, South Dakota]]|link=n}}
+{{CBB roster/Player|first=David|last=Roy Palmquist|num=|pos=G|ft=|in=|lbs=|class=SO|rs=|home=[[Moline, Illinois]]|link=n}}
+
+{{CBB roster/Footer
+|head_coach=
+* [[Herb Juul|Herb V. Juul]] ([[University of Illinois]]) (1st year)
+|asst_coach=
+|roster_url=http://fightingillini.com/sports/2015/7/18/mbb_alltimerosters_1906_1924.aspx All-Time Illini Rosters
+|accessdate=
+}}
+<small>Source<ref>[http://fightingillini.com/sports/2015/7/18/mbb_alltimerosters_1906_1924.aspx FightingIllini.com]</ref></small>
+
+==Schedule==
+<small>												
+Source<ref>[http://www.fightingillini.com/sports/m-baskbl/records/year-1908.html University of Illinois Fighting Illini Statistics Summary for 1908-09] {{Webarchive|url=https://web.archive.org/web/20150210104958/http://www.fightingillini.com/sports/m-baskbl/records/year-1908.html |date=2015-02-10 }}, FightingIllini.com</ref>					
+</small>											
+
+{{CBB schedule start|attend=no|rank=no|tv=no|gamehighs=no|time=no}}
+|-	
+!colspan=12 style="background:#DF4E38; color:white;"| Non-Conference regular season
+|- align="center" bgcolor=""
+{{CBB schedule entry 
+| date = 12/22/1908 
+|time =	no	
+|tv =	no	
+|rank =	no	
+|nonconf = yes	
+| opponent = vs. [[Shelbyville Business College]]
+| site_stadium = [[Kenney Gym]]
+| site_cityst  = [[Urbana, IL]]	
+| gamename =		
+| score = 93–19
+| overtime =		
+| attend = 	
+| record = 1-0}}
+
+{{CBB schedule entry 
+| date = 12/23/1908  
+|time	= no 
+|tv = no 
+|rank	= no	
+|nonconf = yes	
+| opponent =  @ [[Mt. Vernon Township High School (Illinois)|Mt. Vernon]]
+| site_stadium = Mt. Vernon High School
+| site_cityst  = [[Mount Vernon, Illinois|Mt. Vernon, IL]]
+| gamename =  
+| score = 47–25
+| overtime = 
+| attend = 
+| record = 2-0 }}
+|-
+!colspan=9 style="background:#DF4E38; color:#FFFFFF;"|[[1908–09 Big Ten Conference men's basketball season|<span style="color:#FFFFFF;">Big Ten regular season</span>]]					
+{{CBB schedule entry 
+| date 	= 1/9/1909 
+|time =	no	
+|tv = no	
+|rank	= no	
+|nonconf = no
+| opponent = vs. [[Indiana Hoosiers men's basketball|'''''Indiana''''']]
+| site_stadium = Kenney Gym
+| site_cityst  = Urbana, IL
+| gamename =	[[Illinois–Indiana men's basketball rivalry|Rivalry]]		
+| score = 30–2
+| overtime =	 	
+| attend = 	
+| record = 3-0 (1-0)}}
+
+{{CBB schedule entry 
+| date = 1/16/1909  
+|time =	no	
+|tv =	no	
+|rank =	no	
+|nonconf = no	
+| opponent = [[1908–09 Wisconsin Badgers men's basketball team|'''''Wisconsin''''']] 
+| site_stadium = Kenney Gym
+| site_cityst  = Urbana, IL	
+| gamename =		
+| score = 28–19
+| overtime =		
+| attend = 	
+| record = 4-0 (2-0)}}
+
+{{CBB schedule entry 
+| date = 1/22/1909  
+|time	= no 
+|tv = no 
+|rank	= no	
+|nonconf = no	
+| opponent =  @ [[Minnesota Golden Gophers men's basketball|'''''Minnesota''''']]
+| site_stadium = [[University of Minnesota Armory]]
+| site_cityst  = [[Minneapolis, MN]]
+| gamename =  
+| score = 17–18
+| overtime = 
+| attend = 
+| record = 4-1 (2-1)}}
+					
+{{CBB schedule entry 
+| date = 1/23/1909  
+|time =	no	
+|tv =	no	
+|rank =	no	
+|nonconf = no	
+| opponent = @ [[Wisconsin Badgers men's basketball|'''''Wisconsin''''']]
+| site_stadium = [[University of Wisconsin Armory and Gymnasium]]
+| site_cityst  = [[Madison, WI]]
+| gamename =		
+| score = 10–20
+| overtime =		
+| attend = 	
+| record = 4-2 (2-2)}}
+
+{{CBB schedule entry 
+| date 	= 2/10/1909
+|time	= no	
+|tv	= no	
+|rank	= no
+|nonconf = no	
+| opponent = vs. [[Minnesota Golden Gophers men's basketball|'''''Minnesota''''']]
+| site_stadium = Kenney Gym
+| site_cityst  = Urbana, IL	
+| gamename =		
+| score = 21–20
+| overtime =	 	
+| attend = 	
+| record = 5-2 (3-2)}}
+
+{{CBB schedule entry 
+| date 	= 2/13/1909|||||
+|'''Loss'''||[[Kenney Gym|Urbana, IL]]
+|time	= no
+|tv	= no
+|rank	= no
+|nonconf = no	
+| opponent = vs. [[1908–09 Chicago Maroons men's basketball team|'''''University of Chicago''''']]
+| site_stadium = Kenney Gym
+| site_cityst  = Urbana, IL
+| gamename =		
+| score = 15–17
+| overtime =	 	
+| attend = 	
+| record = 5-3 (3-3)}}
+
+{{CBB schedule entry 
+| date 	= 2/17/1909  
+|time	= no
+|tv	= no
+|rank	= no
+|nonconf = no
+| opponent = vs. [[Purdue Boilermakers men's basketball|'''''Purdue''''']] 
+| site_stadium = Kenney Gym
+| site_cityst  = Urbana, IL
+| gamename =		
+| score = 24–18
+| overtime =	 	
+| attend = 	
+| record = 6-3 (4-3)}}
+
+{{CBB schedule entry 
+| date 	= 2/26/1909
+|time	= no	
+|tv	= no	
+|rank	= no	
+|nonconf  = no
+| opponent = @ [[Chicago Maroons men's basketball|'''''University of Chicago''''']]
+| site_stadium = [[Bartlett Gymnasium]]
+| site_cityst  = [[Chicago, IL]]
+| gamename     	= 
+| score 	= 10–23
+| overtime 	=	 	
+| attend 	= 
+| record 	= 6-4 (4-4)}}
+
+{{CBB schedule entry 
+| date 	= 2/27/1909
+|time	= no	
+|tv	= no	
+|rank	= no	
+|nonconf  = no
+| opponent = @ [[Northwestern Wildcats men's basketball|'''''Northwestern''''']]
+| site_stadium = [[Patten Gymnasium]]
+| site_cityst  = [[Evanston, IL]]
+| gamename     	= 	
+| score 	= 35–4
+| overtime 	=	 	
+| attend 	= 
+| record 	= 7-4 (5-4)}}
+
+{{CBB schedule entry 
+| date 	= 3/5/1909 
+|time	=	no	
+|tv	=	no	
+|rank	=	no	
+|nonconf =   no
+| opponent = @ [[Purdue Boilermakers men's basketball|'''''Purdue''''']]
+| site_stadium = [[Purdue Boilermakers men's basketball#Boilermaker home courts|Lafayette Colliseum]]
+| site_cityst  = [[West Lafayette, IN]]
+| gamename     	= 	
+| score 	= 20–30
+| overtime 	=	 	
+| attend 	= 
+| record 	= 7-5 (5-5)}}
+
+{{CBB schedule entry 
+| date 	= 3/6/1909  
+|time =	no	
+|tv = no	
+|rank	= no	
+|nonconf = no
+| opponent = @ [[1908–09 Indiana Hoosiers men's basketball team|'''''Indiana''''']]
+| site_stadium = [[Indiana Hoosiers men's basketball#Old Assembly Hall .281900.E2.80.931917.29|Old Assembly Hall]]
+| site_cityst  = [[Bloomington, IN]]
+| gamename =	[[Illinois–Indiana men's basketball rivalry|Rivalry]]	
+| score = 12–20
+| overtime =	 	
+| attend = 	
+| record = 7-6 (5-6)}}
+|-													
+{{CBB schedule end||timezone=[[Central Time Zone (Americas)|Central Time]]}}
+<small>'''''Bold Italic''''' connotes conference game</small>
+
+==References==
+{{Reflist}}
+
+{{Illinois Fighting Illini men's basketball navbox}}
+
+{{DEFAULTSORT:1908-09 Illinois Fighting Illini Men's Basketball Team}}
+[[Category:1908–09 Western Conference men's basketball season|Illinois Fighting Illini]]
+[[Category:Illinois Fighting Illini men's basketball seasons]]
+[[Category:1908 in sports in Illinois]]
+[[Category:1909 in sports in Illinois]]
+
+
+{{collegebasketball-stub}}

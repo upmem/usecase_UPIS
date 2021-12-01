@@ -1,0 +1,63 @@
+{{short description|Type of battery}}
+[[File:6 most common battery types-1.jpg|thumb|[[D battery|D]], [[C battery|C]], [[AA battery|AA]], [[AAA battery|AAA]], '''AAAA''', [[Nine-volt battery|9-Volt]] batteries]]
+The '''AAAA''' [[Battery (electricity)|battery]] (usually read as ''quadruple-A'') is 42.5&nbsp;mm long and 8.3&nbsp;mm in diameter. The alkaline cell weighs around 6.5 g and produces 1.5 [[Volt|V]]. This size battery is also classified as '''R8D425''' ([[International Electrotechnical Commission|IEC]]) <ref>IEC 60086-2-2011 p.15</ref> and '''25''' ([[ANSI]]/[[National Electronic Distributors Association|NEDA]]).  The alkaline battery in this size is also known by [[Duracell]] type number '''MN2500''' or '''MX2500''' and [[Energizer]] type number '''E96'''.
+
+{| class="wikitable"
+|-
+! &nbsp; !! [[Zinc–carbon battery|Zinc–carbon]] !! [[Alkaline battery|Alkaline]] !! [[Nickel–cadmium battery|NiCd]] !! [[Nickel–metal hydride battery|NiMH]] !! [[Lithium-ion battery|Li-Ion]]<ref name="GP Batteries">{{cite web
+ |url=http://www.gpina.com/pdf/miniature.pdf 
+ |format=PDF 
+ |title=Miniature Rechargeable Series 
+ |accessdate=28 November 2011 
+ |publisher=[[GP Batteries]] 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20111206133522/http://gpina.com/pdf/miniature.pdf 
+ |archivedate=6 December 2011 
+}}</ref><ref name=" GP Rechargeable Batteries">{{cite web
+ |url=http://www.gpbatteries.com/html/techinfo/li_ion.asp 
+ |format=Web 
+ |title=GP Rechargeable Batteries 
+ |accessdate=28 November 2011 
+ |publisher=[[GP Batteries]] 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20120307174740/http://www.gpbatteries.com/html/techinfo/li_ion.asp 
+ |archivedate=7 March 2012 
+}}</ref>
+|-
+| IEC name            || R8D425      || LR8D425         || KR8D425 || HR8D425 || &nbsp;
+|-
+| ANSI/NEDA name      || 25D         || 25A             || &nbsp;  || &nbsp;  || &nbsp;
+|-
+| Typical capacity    || 300 [[mAh]] || 500–600 [[mAh]] || &nbsp;  || 325–500 [[mAh]] || 160–170 [[mAh]]
+|-
+| Nominal [[voltage]] || 1.50 V      || 1.50 V          || 1.25 V  || 1.25 V          || 3.7 V
+|}
+
+==Uses==
+[[File:9V innards AAAA removal-1.jpg|thumb|The opening of a 9-volt battery to reveal six LR61 cells, which are similar to AAAA cells.|263x263px]]
+This battery size is most often used in small devices such as [[laser pointer]]s, [[LED penlights]], [[powered computer stylus]]es, [[glucose meters]], and small [[headphone amplifier]]s. These batteries are not as popular as [[AAA battery|AAA]] or [[AA battery|AA]] type batteries, and consequently are not as commonly available.
+
+Some models of alkaline [[nine-volt battery]] contain six LR61 cells<ref name="Jostes">{{cite web |
+url=http://www.varta-microbattery.com/applications/mb_data/documents/material_safety_data_sheets/MSDS_03_Primary_Alkaline_Cylindrical_Series_p_en.pdf
+|format=PDF
+|title=MSDS  03  alkaline manganese cylindrical
+|author=Jostes, Dr. Rainer
+|accessdate=2014-02-08
+|publisher=[[VARTA]]}}</ref> connected by welded tabs. These cells are similar to AAAA cells and can be used in their place in some devices, even though they are {{convert|3.5|mm}} shorter.
+
+==See also==
+* [[Battery (electricity)]]
+* [[Battery nomenclature]]
+* [[Battery recycling]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[http://www.batteryholders.org/aaaa.pdf Technical drawing of AAAA alkaline battery, based on ANSI specifications]
+
+{{Battery sizes}}
+{{Portal bar|Energy|Electronics}}
+
+{{DEFAULTSORT:Aaaa Battery}}
+[[Category:Battery shapes]]

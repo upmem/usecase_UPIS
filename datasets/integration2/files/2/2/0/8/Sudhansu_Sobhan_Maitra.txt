@@ -1,0 +1,42 @@
+{{Use dmy dates|date=July 2019}}
+{{Infobox person
+| name                    = Sudhansu Sobhan Maitra
+| image                   = 
+| imagesize               =
+| caption                 = 
+| birth_date              = 
+| birth_place             = India
+| death_date              = 
+| death_place             = 
+| restingplace            =
+| restingplacecoordinates =
+| othername               =
+| occupation              = Physician
+| yearsactive             =
+| influences              = 
+| influenced              =
+| known_for               = 
+| awards                  = {{ublist|1962&nbsp;[[Padma Bhushan]] }}
+}}
+'''Sudhansu Sobhan Maitra''' was an Indian physician and a faculty member of Willingdon Hospital (present-day [[Ram Manohar Lohia Hospital]]).<ref name="Obituaries">{{Cite web |url=https://www.rcpe.ac.uk/sites/default/files/vol29_2.1_15.pdf |title=Obituaries |date=1999 |website=Royal College of Physicians of England |access-date=2018-05-24}}</ref> He was a graduate of [[Patna University]] and a [[World War II]] veteran for which he received a War Medal in 1944. The [[Government of India]] awarded him [[Padma Bhushan]], the third highest Indian civilian award, in 1962.<ref name="Padma Awards">{{Cite web |url=http://www.dashboard-padmaawards.gov.in/ |title=Padma Awards |date=2018-05-17 |website=Padma Awards |publisher=Government of India |access-date=2018-05-17}}</ref> The [[Royal College of Physicians of Edinburgh]] elected him as a fellow in 1964.<ref name="Obituaries" />
+
+{{portal|India|Medicine}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+{{PadmaBhushanAwardRecipients 1960–69}}
+
+{{DEFAULTSORT:Maitra, Sudhansu Sobhan}}
+[[Category:Recipients of the Padma Bhushan in medicine]]
+[[Category:20th-century Indian medical doctors]]
+[[Category:Indian medical academics]]
+[[Category:University of Delhi faculty]]
+[[Category:Fellows of the Royal College of Surgeons of Edinburgh]]
+[[Category:Patna University alumni]]
+[[Category:Year of birth missing]]
+[[Category:Year of death missing]]
+[[Category:20th-century surgeons]]
+
+
+{{India-med-bio-stub}}

@@ -1,0 +1,58 @@
+{{short description|Australian geographer}}
+{{Use dmy dates|date=April 2018}}
+{{Use Australian English|date=April 2018}}
+{{Infobox scientist
+|name = Ruth Fincher
+|birth_date = 1951
+|birth_place = Victoria, Australia
+|nationality = [[Australia]]n
+|field = [[Urban Geography]]<br />[[Feminist geography]]
+|work_institutions = [[McMaster University]], [[University of Melbourne]]
+|doctoral_advisor = Gerry Karaska?
+|doctoral_students = 
+|known_for = 
+|influences =
+|prizes = Order of Australia, Member of the Australian Academy of Social Sciences
+|influenced =
+}}
+
+'''Ruth B. Fincher''' (born 1951 in Victoria, Australia) is a leader in the field of [[feminist geography]] and [[urban geography]].<ref name="Costello">Lauren Costello, Jane M. Jacobs, Katherine Gibson, Janice Monk & Brendan Gleeson (2009)[https://www.iag.org.au/about/awards-of-the-iag/ruth-fincher-distinguished-fellowship/ Ruth Fincher (Distinguished Fellowship) Citation for Distinguished Fellowship of the IAG Ruth Fincher] {{webarchive|url=https://web.archive.org/web/20140814060549/https://www.iag.org.au/about/awards-of-the-iag/ruth-fincher-distinguished-fellowship/ |date=14 August 2014 }} Conferred Cairns, September 2009</ref> She is Foundation Professor of Geography at the University of Melbourne, Australia.
+
+==Background==
+Fincher was raised in Western Victoria, Australia. She received her undergraduate degree at the [[University of Melbourne]], her master's degree in geography at [[McMaster University]] in Ontario, Canada, and her PhD at the Graduate School of Geography at [[Clark University]], Massachusetts, United States, in 1979 ("The local state and the urban built environment: the case of Boston in late capitalism").<ref name="Costello" /> She taught geography at McGill University and McMaster University before joining the University of Melbourne in the 1980s. In the early 1990s she took a secondment as Manager of Research at the federal government’s Bureau of Immigration Research. At the University of Melbourne she was Director of the Australia Centre, Dean of the Faculty of Architecture, Building and Planning (2003-2006) and Professor of Urban Planning (1997-2006), before becoming Foundation Chair of Geography in 2006. From 2012-14 she served as President of the Academic Board of the University.
+
+==Contributions==
+Fincher specialises in the analysis of ethnicity and gender in the urban built environment, and the interaction between state institutions and the public.<ref name="assa.edu.au">{{cite web|url=http://www.assa.edu.au/fellowship/fellow/405|title=Professor Ruth Fincher AM, Academy of the Social Sciences in Australia.|website=assa.edu.au|url-status=live|archiveurl=https://web.archive.org/web/20140814070704/http://www.assa.edu.au/fellowship/fellow/405|archivedate=14 August 2014|df=dmy-all}}</ref> She has research and teaching interests in the impact of immigration, multiculturalism, and diversity in urban areas.<ref>{{cite web|url=http://www.sustainable.unimelb.edu.au/content/people/ruth_fincher-am|title=Ruth Fincher AM|website=unimelb.edu.au|url-status=live|archiveurl=https://web.archive.org/web/20140814065743/http://www.sustainable.unimelb.edu.au/content/people/ruth_fincher-am|archivedate=14 August 2014|df=dmy-all}}</ref> More recently she has worked on a joint project on public attitudes to [[sea level rise]] in Gippsland, Victoria.
+
+==Awards==
+*Member (AM) in the General Division of the [[Order of Australia]] in 2014 for "significant service to education, particularly geography and urban studies, and international geographic associations". 
+*Distinguished Fellow of the Institute of Australian Geographers, 2009.<ref>{{cite web |url=http://www.iag.org.au/about/awards-of-the-iag/ruth-fincher-distinguished-fellowship/ |title=Archived copy |accessdate=2015-02-12 |url-status=dead |archiveurl=https://web.archive.org/web/20150212141856/http://www.iag.org.au/about/awards-of-the-iag/ruth-fincher-distinguished-fellowship/ |archivedate=12 February 2015 |df=dmy-all }}</ref>
+*Elected Fellow of the Australian Academy of Social Sciences in Australia, 2002.<ref name="assa.edu.au"/>
+
+==Selected publications==
+*Fincher R.B., J. Barnett, S. Graham, A. Hurlimann 2014. Time stories: Making sense of futures in anticipation of sea-level rise. ''Geoforum''. 56:201–210.
+*Fincher, R., & Iveson, K. 2008. ''Planning and Diversity in the City: Redistribution, Recognition and Encounter''. London: Palgrave Macmillan. {{ISBN|978-1403938107}}
+*Fincher R and Saunders P. (ed.). 2001. ''Creating Unequal Futures Rethinking Inequality, Poverty and Disadvantage''. Sydney: Allen and Unwin.
+*Fincher, R. 2004. Gender and life course in the narratives of Melbourne's high‐rise housing developers. ''Australian Geographical Studies'', 42(3): 325-338.
+*Fincher, R., & Panelli, R. 2001. Making space: women's urban and rural activism and the Australian state. ''Gender, Place and Culture: A Journal of Feminist Geography'' 8(2): 129-148.
+*Fincher, R., & Jacobs, J. M. (Eds.). 1998. ''Cities of difference''. Guildford Press.
+*Fincher, R. and J. Nieuwenhuysen. 1998.  ''Australian Poverty: Then and Now'' Melbourne: Melbourne University Press.
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Fincher, Ruth}}
+[[Category:Living people]]
+[[Category:Australian geographers]]
+[[Category:Clark University alumni]]
+[[Category:McMaster University alumni]]
+[[Category:Members of the Order of Australia]]
+[[Category:University of Melbourne alumni]]
+[[Category:University of Melbourne faculty]]
+[[Category:Australian feminists]]
+[[Category:Australian women scientists]]
+[[Category:Fellows of the Academy of the Social Sciences in Australia]]
+[[Category:1951 births]]
+[[Category:Women geographers]]

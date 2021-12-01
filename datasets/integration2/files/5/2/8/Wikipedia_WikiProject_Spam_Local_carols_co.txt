@@ -1,0 +1,38 @@
+<!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|0|0|0|0|}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|carols.co]]
+== Links ==
+* {{LinkSummary|carols.co}}
+:* carols.co resolves to [http://96.30.13.168 96.30.13.168]
+:*: {{LinkSummary|96.30.13.168}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Incka}}
+
+== Selected additions ==
+No additions recorded.
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bcarols\.co\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/carols.co]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/carols.co|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 15:54, 9 December 2011 (UTC)
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 16:05, 9 December 2011 (UTC)
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 16:08, 9 December 2011 (UTC)
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 16:11, 9 December 2011 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale. . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 06:32, 28 January 2012 (UTC)

@@ -1,0 +1,150 @@
+{{infobox country at games
+| NOC = MOZ
+| NOCname = Comité Olímpico Nacional de Moçambique
+| games = Summer Olympics
+| year = 2004
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[Athens]]
+| competitors = '''4'''
+| sports = 2
+| flagbearer = [[Kurt Couto]]<ref>{{cite news|title=2004 Athens: Flag Bearers for the Opening Ceremony|url=http://www.olympic.org/content/news/media-resources/manual-news/1999-2009/2004/08/13/flag-bearers-for-the-opening-ceremony/|publisher=[[Olympics]]|date=13 August 2004|accessdate=11 September 2013}}</ref>
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1980
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+'''[[Mozambique]]''' competed at the '''[[2004 Summer Olympics]]''' in [[Athens]], [[Greece]], from 13 to 29 August 2004.
+
+==Athletics==
+{{main|Athletics at the 2004 Summer Olympics}}
+Mozambican athletes have so far achieved qualifying standards in the following athletics events (up to a maximum of 3 athletes in each event at the 'A' Standard, and 1 at the 'B' Standard).<ref>{{cite web|title=iaaf.org – Top Lists|url=http://www.iaaf.org/statistics/toplists/index.html|publisher=IAAF|accessdate=June 4, 2011}}</ref><ref>{{cite web|title=IAAF Games of the XXX Olympiad – Athens 2004 Entry Standards|url=http://www.iaaf.org/news/news/olympic-games-athens|publisher=[[IAAF]]|accessdate=4 June 2011}}</ref>
+
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Kurt Couto]]
+|align=left|[[Athletics at the 2004 Summer Olympics – Men's 400 metres hurdles|400 m hurdles]]
+|51.18 '''[[List of Mozambican records in athletics|NR]]'''
+|7
+|colspan=4|Did not advance
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Maria de Lurdes Mutola]]
+|align=left|[[Athletics at the 2004 Summer Olympics – Women's 800 metres|800 m]]
+|2:01.50
+|2 '''Q'''
+|1:59.30
+|1 '''Q'''
+|1:56.51
+|'''4'''
+|}
+
+;Key
+*'''Note'''&ndash;Ranks given for track events are within the athlete's heat only
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''NR''' = National record
+*N/A = Round not applicable for the event
+*Bye = Athlete not required to compete in round
+
+==Swimming==
+{{main|Swimming at the 2004 Summer Olympics}}
+
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Leonel Matonse]]
+|align=left|[[Swimming at the 2004 Summer Olympics – Men's 100 metre freestyle|100 m freestyle]]
+|57.79
+|65
+|colspan=4|Did not advance
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Ermelinda Zamba]]
+|align=left|[[Swimming at the 2004 Summer Olympics – Women's 50 metre freestyle|50 m freestyle]]
+|29.34
+|55
+|colspan=4|Did not advance
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080611091801/http://www.la84foundation.org/6oic/OfficialReports/2004/Results/ Official Report of the XXVIII Olympiad]
+
+{{Nations at the 2004 Summer Olympics}}
+
+[[Category:Nations at the 2004 Summer Olympics]]
+[[Category:Mozambique at the Summer Olympics by year|2004]]
+[[Category:2004 in Mozambican sport|Summer Olympics]]
+
+{{2004-Olympic-stub}}

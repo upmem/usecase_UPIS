@@ -1,0 +1,90 @@
+{{Use dmy dates|date=December 2018}}
+{{Use New Zealand English|date=June 2014}}
+{{Infobox rugby biography
+| name = Callum Gibbins
+| image =
+| birth_name = 
+| birth_date = {{birth date and age|1988|09|14|df=y}}
+| birth_place = [[New Plymouth]], New Zealand
+| height = {{convert|185|cm|ftin|abbr=on}}
+| weight = {{convert|101|kg|stlb|abbr=on}}
+| school = [[Inglewood High School (New Zealand)|Inglewood High School]]
+| university = [[Massey University]]
+| relatives =
+| occupation =
+| ru_position = [[Flanker (rugby union)|Flanker]]
+| ru_nationalyears =
+| ru_nationalteam =
+| ru_sevensnationalcomp  =
+| ru_sevensnationalyears =
+| ru_sevensnationalteam  =
+| ru_amateurclubs = [[Stirling County RFC|Stirling County]]<br/>[[Glasgow Hawks RFC|Glasgow Hawks]]
+| ru_clubyears = 2017–20
+| ru_proclubs = {{nowrap|[[Glasgow Warriors]]}}
+| ru_clubpoints = (65)
+| ru_clubcaps = 46
+| ru_clubupdate = 
+| super14 = {{Rut Hurricanes}}
+| super14years = 2015–17
+| ru_province = {{Rut Manawatu}}
+| ru_provinceyears = 2009–17
+| website =
+| spouse =
+| children =
+| ru_amateuryears = 2017–18<br/>2018–20
+| ru_amupdate =
+| super14caps = 25
+| super14points = (15)
+| super14update = 6 August 2016
+| ru_provincecaps = 66
+| ru_provincepoints = (95)
+| ru_provinceupdate = 16 October 2016
+| ru_nationalcaps =
+| ru_nationalpoints =
+| ru_ntupdate =
+}}
+
+'''Callum Gibbins''' (born 14 September 1988) is a New Zealand [[rugby union]] player who played as a [[Flanker (rugby union)|flanker]] for [[Glasgow Warriors]] in the [[Pro14]].<ref>[http://www.glasgowwarriors.com/articles/player/009838.php Callum Gibbins]. Glasgow Warriors. Retrieved on 24 December 2018.</ref>
+
+==Rugby union career==
+
+===Amateur career===
+
+Gibbins was drafted to [[Stirling County RFC|Stirling County]] in the [[Scottish Premiership (rugby)|Scottish Premiership]] for the 2017–18 season.<ref>[http://www.glasgowwarriors.com/articles/news/009919.php Pro-player draft]. Glasgow Warriors. Retrieved on 24 December 2018.</ref>
+
+Gibbins has been drafted to [[Glasgow Hawks RFC|Glasgow Hawks]] in the [[Scottish Premiership (rugby)|Scottish Premiership]] for the 2018–19 season.<ref>[http://www.scottishrugby.org/news/18/08/21/tennent%E2%80%99s-premiership-clubs-decide-pro-player-draft Tennent’s Premiership clubs decide pro-player draft | Scottish Rugby Union] {{Webarchive|url=https://web.archive.org/web/20180902115759/http://www.scottishrugby.org/news/18/08/21/tennent%E2%80%99s-premiership-clubs-decide-pro-player-draft |date=2 September 2018 }}. Scottishrugby.org (19 December 2018). Retrieved on 2018-12-24.</ref>
+
+===Professional career===
+
+Gibbins moved to [[Palmerston North]] in 2007 to study for a Bachelor of Sport and Exercise at Massey University.{{citation needed|date=April 2016}} He made his [[Manawatu Rugby Union|Manawatu Turbos]] debut in 2009 against Wellington.<ref>{{cite web|title = Callum Gibbins {{!}} The Official Website of the 2014 Investec Super Rugby Hurricanes|url = http://www.hurricanes.co.nz/team/players/callum-gibbins|website = www.hurricanes.co.nz|accessdate = 12 December 2015}}</ref>
+
+He was named in the {{Rut Hurricanes}} Wider Training Group for the [[2013 Super Rugby season]].<ref name="Wider Training Groups named">{{cite press release |date=7 December 2012 |url=http://www.chiefs.co.nz/news/investec-super-rugby-wider-training-groups.html |title=Super Rugby Wider Training Groups named |publisher=Chiefs |accessdate=10 December 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20121210080135/http://www.chiefs.co.nz/news/investec-super-rugby-wider-training-groups.html |archivedate=10 December 2012  }}</ref> In 2015 Gibbins signed a full contract to be in the Hurricanes first team squad after two strong years in the Wider Training Group.<ref>{{cite web|title = Gibbins grabs full Canes contract {{!}} The Official Website of the 2014 Investec Super Rugby Hurricanes|url = http://www.hurricanes.co.nz/news/2014/05/28/gibbins-grabs-full-canes-contract|website = www.hurricanes.co.nz|accessdate = 12 December 2015}}</ref> He went on to play in all but one of the Hurricanes fixtures in 2015. He extended his Hurricanes contract to the end of the 2016 season.<ref>{{cite web|title = Gibbins to remain a 'Cane {{!}} The Official Website of the 2014 Investec Super Rugby Hurricanes|url = http://www.hurricanes.co.nz/news/2015/04/13/gibbins-remain-cane|website = www.hurricanes.co.nz|accessdate = 12 December 2015}}</ref>
+
+Gibbins made his debut for Glasgow Warriors in September 2017 in their league match versus Ospreys.<ref>{{Cite news|url=https://www.scottishrugbyblog.co.uk/2017/09/glasgow-31-10-ospreys/|title=Glasgow 31–10 Ospreys – Scottish Rugby Blog|date=10 September 2017|work=Scottish Rugby Blog|access-date=11 September 2017|language=en-GB}}</ref>
+
+He was made co-captain of the club for season 2018–19.<ref>[http://www.glasgowwarriors.org/news/18/08/17/gibbins-and-wilson-named-captains Gibbins and Wilson named captains]. Glasgow Warriors (15 February 2018). Retrieved on 2018-12-24.</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.itsrugby.co.uk/player_18539.html itsrugby.co.uk (player statistics)]
+
+{{DEFAULTSORT:Gibbins, Callum}}
+[[Category:Living people]]
+[[Category:New Zealand rugby union players]]
+[[Category:Manawatu rugby union players]]
+[[Category:1988 births]]
+[[Category:Rugby union flankers]]
+[[Category:Hurricanes (rugby union) players]]
+[[Category:Rugby union players from New Plymouth]]
+[[Category:Glasgow Warriors players]]
+[[Category:Stirling County RFC players]]
+[[Category:People educated at Inglewood High School, New Zealand]]
+[[Category:Massey University alumni]]
+[[Category:Glasgow Hawks players]]
+[[Category:Expatriate rugby union players in Scotland]]
+[[Category:New Zealand expatriate sportspeople in Scotland]]
+
+
+{{NewZealand-rugbyunion-bio-1980s-stub}}

@@ -1,0 +1,171 @@
+{{Infobox racing driver
+| name              = Yoshioka Toshiki
+| image             = 
+| imagesize         = <!-- defaults to 180px unless a value is entered -->
+| caption           = 
+| nationality       = {{JPN}}
+| birth_date        = {{Birth date and age|1976|12|21}}
+| birth_place       = [[Hiroshima]], [[Japan]]
+| related to        = 
+| current series    = [[D1 Grand Prix]]
+| first year        = 2002, Round 1
+| current team      = Team DRoo-P
+| former teams      = 
+| starts            = 
+| wins              = 1
+| poles             = 
+| fastest laps      = (if known)
+| best finish       = 5th
+| year              = [[2006 D1 Grand Prix season|2006]]
+| prev series       = (previous series with line breaks)
+| prev series years = 
+| titles            = (championship titles)
+| title years       = 
+| awards            = 
+| award years       = 
+}}
+{{nihongo|'''Toshiki Yoshioka'''|吉岡稔記|Yoshioka Toshiki|21 December 1976, [[Hiroshima]]}} is a [[Japan]]ese professional drifting driver, currently competing in the [[D1 Grand Prix]] series for Team DRoo-P and Yamasa.
+
+Even before he started drifting professionally he always used the [[Toyota AE86]]. He first competed in the [[D1 Grand Prix]] in the first round of 2002 and has always scored points in every season. He got his first victory in Round 4 of the 2005 season at [[Autopolis]]. His [[Toyota AE86|Toyota Sprinter Trueno]] (later switching to [[Hideo Hiraoka (racing driver)|Hideo Hiraoka's]] Corolla Levin AE85 which was converted to an AE86 and a Sprinter Trueno) was normally aspirated and uses [[nitrous oxide]], which led to many collisions. In 2007 he had an average season being best of the AE86 drivers, finishing in 8th place overall. In 2008 he switched from his AE86 to a [[Lexus SC430]], prepared by the renowned tuning garage Tom's.
+
+==Complete Drifting Results==
+<!-- Championship rounds only -->
+([[:Template:Drifting driver results legend|key]])
+
+===D1 Grand Prix===
+{| class="wikitable" style="text-align:center; font-size:95%"
+! Year
+! Entrant
+! Car
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! Position
+! Points
+|-
+| {{D1|2002}}
+! 
+! [[Toyota AE86|Toyota Corolla Levin AE86]]
+|style="background:#CFCFFF;"| [[Bihoku Highland|BHH]]<br /><small>7</small>
+|| [[Ebisu Circuit|EBS]]<br /><small>TAN</small>
+|style="background:#FFCFCF;"| [[Sportsland SUGO|SGO]]<br /><small>DNQ</small>
+|style="background:#FFDF9F;"| [[Tsukuba Circuit|TKB]]<br /><small>3</small>
+|| [[Ebisu Circuit|EBS]]<br /><small>TAN</small>
+|| [[Sekia Hills|SEK]]<br /><small>TAN</small>
+|| [[Nikkō Circuit|NIK]]<br /><small>TAN</small>
+|
+! 12 
+! 24 
+|-
+| {{D1|2003}}
+! 
+! [[Toyota AE86|Toyota Corolla Levin AE86]]
+|style="background:#EFCFFF;"| [[Tsukuba Circuit|TKB]]<br /><small>16</small>
+|style="background:#DFDFDF;"| [[Bihoku Highland|BHH]]<br /><small>2</small>
+|style="background:#EFCFFF;"| [[Sportsland SUGO|SGO]]<br /><small>16</small>
+|style="background:#CFCFFF;"| [[Fuji Speedway|FUJ]]<br /><small>6</small>
+|style="background:#EFCFFF;"| [[Ebisu Circuit|EBS]]<br /><small>16</small>
+|style="background:#DFFFDF;"| [[Sekia Hills|SEK]]<br /><small>4</small>
+|style="background:#CFCFFF;"| [[Tsukuba Circuit|TKB]]<br /><small>7</small>
+|
+! 6
+! 50
+|-
+| {{D1|2004}}
+! DRoo-P w/ Espelier
+! [[Toyota AE86|Toyota Sprinter Trueno AE86]]
+|style="background:#EFCFFF;"| [[Irwindale Speedway|IRW]]<br /><small>16</small>
+|style="background:#FFCFCF;"| [[Sportsland SUGO|SGO]]<br /><small>DNQ</small>
+|| [[Ebisu Circuit|EBS]]<br /><small>TAN</small>
+|style="background:#DFDFDF;"| [[Autopolis|APS]]<br /><small>2</small>
+|style="background:#EFCFFF;"| [[Odaiba|ODB]]<br /><small>16</small>
+|| [[Ebisu Circuit|EBS]]<br /><small>TAN</small>
+|style="background:#EFCFFF;"| [[Tsukuba Circuit|TKB]]<br /><small>16</small>
+|
+! 13
+! 18
+|-
+| {{D1|2005}}
+! DRoo-P w/ Espelier
+! [[Toyota AE85|Toyota Corolla Levin AE85]]
+|style="background:#EFCFFF;"| [[Irwindale Speedway|IRW]]<br /><small>16</small>
+|style="background:#CFCFFF;"| [[Odaiba|ODB]]<br /><small>7</small>
+|style="background:#FFCFCF;"| [[Sportsland SUGO|SGO]]<br /><small>DNQ</small>
+|style="background:#FFFFBF;"| [[Autopolis|APS]]<br /><small>1</small>
+|style="background:#EFCFFF;"| [[Ebisu Circuit|EBS]]<br /><small>16</small>
+|| [[Fuji Speedway|FUJ]]<br /><small>TAN</small>
+|style="background:#CFCFFF;"| [[Tsukuba Circuit|TKB]]<br /><small>6</small>
+|
+! 8
+! 40
+|-
+| {{D1|2006}}
+! DRoo-P w/ Espelier
+! [[Toyota AE85|Toyota Corolla Levin AE85]]
+|style="background:#EFCFFF;"| [[Irwindale Speedway|IRW]]<br /><small>9</small>
+|style="background:#DFFFDF;"| [[Sportsland SUGO|SGO]]<br /><small><span style="color:blue;">4</span></small>
+|style="background:#EFCFFF;"| [[Fuji Speedway|FUJ]]<br /><small>9</small>
+|style="background:#CFCFFF;"| [[Autopolis|APS]]<br /><small>7</small>
+|| [[Ebisu Circuit|EBS]]<br /><small>TAN</small>
+|style="background:#CFCFFF;"| [[Suzuka Circuit|SUZ]]<br /><small><span style="color:blue;">5</span></small>
+|style="background:#FFDF9F;"| [[Fuji Speedway|FUJ]]<br /><small><span style="color:blue;">3</span></small>
+|| [[Irwindale Speedway|IRW]]<br /><small>TAN</small>
+! 5
+! 61
+|-
+| {{D1|2007}}
+! DRoo-P w/ Yamasa
+! [[Toyota AE85|Toyota Corolla Levin AE85]]
+|style="background:#EFCFFF;"| [[Ebisu Circuit|EBS]]<br /><small>11</small>
+|style="background:#EFCFFF;"| [[Fuji Speedway|FUJ]]<br /><small>14</small>
+|style="background:#EFCFFF;"| [[Suzuka Circuit|SUZ]]<br /><small><span style="color:blue;">12</span></small>
+|style="background:#CFCFFF;"| [[Sportsland SUGO|SGO]]<br /><small>8</small>
+|style="background:#EFCFFF;"| [[Ebisu Circuit|EBS]]<br /><small>9</small>
+|style="background:#CFCFFF;"| [[Autopolis|APS]]<br /><small><span style="color:blue;">5</span></small>
+|style="background:#CFCFFF;"| [[Fuji Speedway|FUJ]]<br /><small>5</small>
+|
+! 8
+! 31
+|-
+| rowspan="2" | {{D1|2008}}
+! rowspan="2" | DRoo-P w/ Yamasa
+! [[Toyota AE85|Toyota Corolla Levin AE85]]
+|style="background:#EFCFFF;"| [[Ebisu Circuit|EBS]]<br /><small></span>10</small>
+|style="background:#CFCFFF;"| [[Fuji Speedway|FUJ]]<br /><small>5</small>
+|style="background:#FFDF9F;"| [[Suzuka Circuit|SUZ]]<br /><small><span style="color:blue;">3</span></small>
+|
+|
+|
+|
+|
+! rowspan="2" | 10
+! rowspan="2" | 42
+|-
+! [[Lexus SC430|Lexus SC430 UZZ40]]
+|
+|
+|
+|| [[Okayama International Circuit|OKY]]<br /><small>TAN</small>
+|style="background:#EFCFFF;"| [[Autopolis|APS]]<br /><small>14</small>
+|| [[Ebisu Circuit|EBS]]<br /><small></small>
+|| [[Fuji Speedway|FUJ]]<br /><small></small>
+|
+|}
+
+==External links==
+*[http://www.d1gp.co.jp/ D1 Grand Prix]
+*[http://www.droo-p.com/ Team DRoo-P]
+*[http://www.yamasa.co.jp/ Yamasa]
+
+{{DEFAULTSORT:Yoshioka, Toshiki}}
+[[Category:Japanese racing drivers]]
+[[Category:Drifting drivers]]
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:D1 Grand Prix drivers]]
+[[Category:Formula D drivers]]

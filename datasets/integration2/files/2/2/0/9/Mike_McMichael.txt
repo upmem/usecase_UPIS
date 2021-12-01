@@ -1,0 +1,41 @@
+{{short description|American basketball player}}
+{{Infobox basketball biography
+| name               = Mike McMichael
+| image              = 
+| image_size         = 
+| caption            = 
+| height_ft          = 6
+| height_in          = 2
+| weight_lb          = 195
+| birth_date         = {{birth date|1915|7|4}}
+| birth_place        = [[Des Moines, Iowa]]
+| death_date         = {{death date and age|1997|11|13|1915|7|4}}
+| death_place        = [[Harlingen, Texas]]
+| nationality        = American
+| high_school        = [[Theodore Roosevelt High School (Des Moines)|Roosevelt]] (Des Moines, Iowa)
+| college            = [[Northwestern Wildcats men's basketball|Northwestern]] (1934–1938)
+| career_start       = 
+| career_end         = 
+| career_position    = [[Guard (basketball)|Guard]]
+| career_number      = 
+| years1             = 1938–1939
+| team1              = [[Akron Goodyear Wingfoots]]
+| highlights         = 
+}}
+'''Marcellus Martin''' "'''Mike'''" '''McMichael''' (July 4, 1915 – November 13, 1997) was an American professional [[basketball]] player.<ref name=bbr>{{cite web| title =Marcellus McMichael NBL stats| work =basketball-reference.com| publisher =Sports Reference LLC| date = | url =https://www.basketball-reference.com/nbl/players/m/mcmicma01n.html | accessdate = May 13, 2019}}</ref> He played for the [[Akron Goodyear Wingfoots]] in the [[National Basketball League (United States)|National Basketball League]] during the 1938–39 season and averaged 3.9 points per game.<ref name=bbr/><ref name=peach>{{cite web| title =Mike McMichael | work =Peach Basket Society| publisher =| date = October 15, 2015 | url =http://peachbasketsociety.blogspot.com/2015/10/marcellus-mcmichael.html| accessdate = May 13, 2019}}</ref><ref>{{cite web| title = Marcellus McMichael Statistics| work =Just Sports Stats| publisher =| date = | url =https://www.justsportsstats.com/basketballstatsindex.php?player_id=mcmicmi01| accessdate = May 13, 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Mcmichael, Mike}}
+[[Category:1915 births]]
+[[Category:1997 deaths]]
+[[Category:Akron Goodyear Wingfoots players]]
+[[Category:American men's basketball players]]
+[[Category:Basketball players from Iowa]]
+[[Category:Guards (basketball)]]
+[[Category:Northwestern Wildcats men's basketball players]]
+[[Category:Sportspeople from Des Moines, Iowa]]
+
+
+{{1910s-US-basketball-bio-stub}}

@@ -1,0 +1,267 @@
+{{Infobox planet
+ | minorplanet     = yes
+ | name            = 1049 Gotho
+ | background      = #D6D6D6
+ | image           = 
+ | image_size      = 
+ | caption         = 
+ | discovery_ref   = &thinsp;<ref name="jpldata" />
+ | discovered      = 14 September 1925
+ | discoverer      = [[Karl Reinmuth|K. Reinmuth]]
+ | discovery_site  = [[Heidelberg-Königstuhl State Observatory|Heidelberg Obs.]]
+ | mpc_name        = (1049) Gotho
+ | alt_names       = 1925 RB{{·}}A906 DD
+ | pronounced      = 
+ | named_after     = ''[[:Category:Minor planets with names of unknown origin|unknown]]''&thinsp;<ref name="springer" />
+ | mp_category     = [[main-belt]]{{·}}{{small|([[Kirkwood gap|outer]])}}&thinsp;<ref name="lcdb" />
+ | orbit_ref       = &thinsp;<ref name="jpldata" />
+ | epoch           = 4 September 2017 ([[Julian day|JD]] 2458000.5)
+ | uncertainty     = 0
+ | observation_arc = 91.64 yr (33,470 days)
+ | aphelion        = 3.5133 [[Astronomical unit|AU]]
+ | perihelion      = 2.6726 AU
+ | semimajor       = 3.0930 AU
+ | eccentricity    = 0.1359
+ | period          = 5.44 [[Julian year (astronomy)|yr]] (1,987 days)
+ | mean_anomaly    = 295.00[[Degree (angle)|°]]
+ | mean_motion     = {{Deg2DMS|0.1812|sup=ms}} / day
+ | inclination     = 15.110°
+ | asc_node        = 342.86°
+ | arg_peri        = 41.244°
+ | dimensions      = 51.05 km {{small|(derived)}}<ref name="lcdb" /><br />{{val|53.56|16.68}} km<ref name="Nugent-2015" /><br />{{val|53.84|19.48}} km<ref name="Nugent-2016" /><br />{{val|54.77|0.76}} km<ref name="AKARI" /><br />{{val|56.296|0.204}} km<ref name="Masiero-2014" /><br />{{val|63.874|0.177}} km<ref name="WISE" />
+ | rotation        = {{val|8.470|0.007}} [[Hour|h]]<ref name="Albers-2010" />
+ | albedo          = {{val|0.0069|0.0005}}<ref name="WISE" /><br />{{val|0.008|0.001}}<ref name="Masiero-2014" /><br />{{val|0.03|0.03}}<ref name="Nugent-2015" /><br />{{val|0.04|0.06}}<ref name="Nugent-2016" /><br />{{val|0.045|0.001}}<ref name="AKARI" /><br />0.0469 {{small|(derived)}}<ref name="lcdb" />
+ | spectral_type   = [[C-type asteroid|C]]&thinsp;<ref name="lcdb" />
+ | abs_magnitude   = 10.30<ref name="AKARI" />{{·}}10.4<ref name="jpldata" /><ref name="lcdb" /><ref name="Nugent-2015" />{{·}}10.42<ref name="Nugent-2016" />{{·}}12.0<ref name="WISE" />
+}}
+
+'''1049 Gotho''', provisional designation {{mp|1925 RB}}, is a carbonaceous [[asteroid]] from the outer region of the [[asteroid belt]], approximately 53 kilometers in diameter. It was discovered on 14 September 1925, by German astronomer [[Karl Reinmuth]] at [[Heidelberg Observatory]] in southwest Germany.<ref name="MPC-Gotho" /> Although the name of the asteroid is a masculine German name, it is not known to refer to a particular individual.<ref name="springer" />
+
+== Orbit and classification ==
+
+''Gotho'' orbits the Sun in the [[Kirkwood gap|outer]] main-belt at a distance of 2.7–3.5&nbsp;[[Astronomical unit|AU]] once every 5 years and 5 months (1,987 days). Its orbit has an [[orbital eccentricity|eccentricity]] of 0.14 and an [[orbital inclination|inclination]] of 15[[Degree (angle)|°]] with respect to the [[ecliptic]].<ref name="jpldata" /> First identified as {{mp|A906 DD}} at Heidelberg in February 1906, the body's [[observation arc]] begins much later at [[Johannesburg Observatory|Johannesburg]] in 1952, or 27 years after its official discovery observation.<ref name="MPC-Gotho" />
+
+== Physical characteristics ==
+
+''Gotho'' has been characterized as a [[C-type asteroid]].<ref name="lcdb" />
+
+=== Lightcurves ===
+
+In April 2010, a rotational [[lightcurve]] of ''Gotho'' was obtained by astronomer Kenda Albers at the Oakley Southern Sky Observatory, Australia. Lightcurve analysis gave a [[rotation period]] of 8.470 hours with a brightness variation of 0.17 [[Magnitude (astronomy)|magnitude]] ({{small|[[LCDB quality code|U=3-]]}}).<ref name="Albers-2010" />
+
+=== Diameter and albedo ===
+
+According to the surveys carried out by the Japanese [[Akari (satellite)|Akari]] satellite and NASA's [[Wide-field Infrared Survey Explorer]] with its subsequent [[NEOWISE]] mission, ''Gotho'' measures between 53.56 and 56.296 kilometers in diameter and its surface has an [[astronomical albedo|albedo]] between 0.008 and 0.045 (without preliminary results).<ref name="Nugent-2015" /><ref name="Nugent-2016" /><ref name="AKARI" /><ref name="Masiero-2014" /> The ''Collaborative Asteroid Lightcurve Link'' derives an albedo of 0.0469 and a diameter of 51.05 kilometers using an [[absolute magnitude]] of 10.4.<ref name="lcdb" />
+
+== Naming ==
+
+For this [[minor planet]], any reference of its name to a person or occurrence is unknown.<ref name="springer" />
+
+=== Unknown meaning ===
+
+Among the many thousands of [[List of named minor planets (alphabetical)|named minor planets]], ''Gotho'' is one of 120 asteroids, for which no official naming citation has been published. All of these low-numbered asteroids have numbers between {{mp|{{MoMP|164|164 Eva}}}} and {{mp|{{MoMP|1514|1514 Ricouxa}}}} and were discovered between 1876 and the 1930s, predominantly by astronomers [[Auguste Charlois]], [[Johann Palisa]], [[Max Wolf]] and [[Karl Reinmuth]] ''(also see [[:Category:Minor planets with names of unknown origin|category]])''.<ref name="DOMPN-unknown" />
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name="jpldata">{{cite web
+  |type       = 2017-05-04 last obs.
+  |title      = JPL Small-Body Database Browser: 1049 Gotho (1925 RB)
+  |url        = https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2001049
+  |publisher  = [[Jet Propulsion Laboratory]]
+  |accessdate = 26 July 2017}}</ref>
+
+<ref name="springer">{{cite book
+  |title      = Dictionary of Minor Planet Names – (1049) Gotho
+  |last       = Schmadel | first = Lutz D.
+  |publisher  = [[Springer Berlin Heidelberg]]
+  |page       = 90
+  |date       = 2007
+  |isbn       = 978-3-540-00238-3
+  |doi       = 10.1007/978-3-540-29925-7_1050 |chapter       = (1049) Gotho }}</ref>
+
+<ref name="DOMPN-unknown">{{cite book
+  |title      = Dictionary of Minor Planet Names – Fifth Revised and Enlarged revision
+  |chapter    = Appendix 11 – Minor Planet Names with Unknown Meaning
+  |last       = Schmadel | first = Lutz D.
+  |publisher  = Springer Berlin Heidelberg
+  |pages      = 927–929
+  |date       = 2007
+  |isbn       = 978-3-540-00238-3
+  |author-link= Lutz D. Schmadel}}</ref>
+
+<ref name="MPC-Gotho">{{cite web
+  |title      = 1049 Gotho (1925 RB)
+  |work       = Minor Planet Center
+  |url        = https://www.minorplanetcenter.net/db_search/show_object?object_id=1049
+  |accessdate = 12 February 2017}}</ref>
+
+<ref name="Masiero-2014">{{cite journal
+  |display-authors = 6
+  |first1     = Joseph R. |last1 = Masiero
+  |first2     = T. |last2 = Grav
+  |first3     = A. K. |last3 = Mainzer
+  |first4     = C. R. |last4 = Nugent
+  |first5     = J. M. |last5 = Bauer
+  |first6     = R. |last6 = Stevenson
+  |first7     = S. |last7 = Sonnett
+  |date       = August 2014
+  |title      = Main-belt Asteroids with WISE/NEOWISE: Near-infrared Albedos
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2014ApJ...791..121M
+  |journal    = The Astrophysical Journal
+  |volume     = 791
+  |issue      = 2
+  |page       = 11
+  |bibcode    = 2014ApJ...791..121M
+  |doi        = 10.1088/0004-637X/791/2/121
+  |arxiv      = 1406.6645
+  |access-date= 12 February 2017}}</ref>
+
+<ref name="lcdb">{{cite web
+  |title      = LCDB Data for (1049) Gotho
+  |publisher  = Asteroid Lightcurve Database (LCDB)
+  |url        = http://www.minorplanet.info/PHP/generateOneAsteroidInfo.php?AstInfo=1049%7CGotho
+  |accessdate = 12 February 2017}}</ref>
+
+<ref name="AKARI">{{cite journal
+  |display-authors = 6
+  |first1     = Fumihiko |last1 = Usui
+  |first2     = Daisuke |last2 = Kuroda
+  |first3     = Thomas G. |last3 = Müller
+  |first4     = Sunao |last4 = Hasegawa
+  |first5     = Masateru |last5 = Ishiguro
+  |first6     = Takafumi |last6 = Ootsubo
+  |first7     = Daisuke |last7 = Ishihara
+  |first8     = Hirokazu |last8 = Kataza
+  |first9     = Satoshi |last9 = Takita
+  |first10    = Shinki |last10 = Oyabu
+  |first11    = Munetaka |last11 = Ueno
+  |first12    = Hideo |last12 = Matsuhara
+  |first13    = Takashi |last13 = Onaka
+  |date       = October 2011
+  |title      = Asteroid Catalog Using Akari: AKARI/IRC Mid-Infrared Asteroid Survey
+  |url        = http://pasj.oxfordjournals.org/content/63/5/1117.full.pdf+html
+  |journal    = Publications of the Astronomical Society of Japan
+  |volume     = 63
+  |issue      = 5
+  |pages      = 1117–1138
+  |bibcode    = 2011PASJ...63.1117U
+  |doi        = 10.1093/pasj/63.5.1117
+  |access-date= 17 October 2019|doi-access= free
+  }} ([http://vizier.cfa.harvard.edu/viz-bin/VizieR-5?-source=J/PASJ/63/1117/acua_v1&Num=1049 online], [https://core.ac.uk/download/pdf/43545172.pdf AcuA catalog p. 153])</ref>
+
+<ref name="WISE">{{cite journal
+  |display-authors = 6
+  |first1     = A. |last1 = Mainzer
+  |first2     = T. |last2 = Grav
+  |first3     = J. |last3 = Masiero
+  |first4     = E. |last4 = Hand
+  |first5     = J. |last5 = Bauer
+  |first6     = D. |last6 = Tholen
+  |first7     = R. S. |last7 = McMillan
+  |first8     = T. |last8 = Spahr
+  |first9     = R. M. |last9 = Cutri
+  |first10    = E. |last10 = Wright
+  |first11    = J. |last11 = Watkins
+  |first12    = W. |last12 = Mo
+  |first13    = C. |last13 = Maleszewski
+  |date       = November 2011
+  |title      = NEOWISE Studies of Spectrophotometrically Classified Asteroids: Preliminary Results
+  |journal    = The Astrophysical Journal
+  |volume     = 741
+  |issue      = 2
+  |page       = 25
+  |bibcode    = 2011ApJ...741...90M
+  |doi        = 10.1088/0004-637X/741/2/90
+  |arxiv      = 1109.6407}}</ref>
+
+<ref name="Nugent-2015">{{cite journal
+  |display-authors = 6
+  |first1     = C. R. |last1 = Nugent
+  |first2     = A. |last2 = Mainzer
+  |first3     = J. |last3 = Masiero
+  |first4     = J. |last4 = Bauer
+  |first5     = R. M. |last5 = Cutri
+  |first6     = T. |last6 = Grav
+  |first7     = E. |last7 = Kramer
+  |first8     = S. |last8 = Sonnett
+  |first9     = R. |last9 = Stevenson
+  |first10    = E. L. |last10 = Wright
+  |date       = December 2015
+  |title      = NEOWISE Reactivation Mission Year One: Preliminary Asteroid Diameters and Albedos
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2015ApJ...814..117N
+  |journal    = The Astrophysical Journal
+  |volume     = 814
+  |issue      = 2
+  |page       = 13
+  |bibcode    = 2015ApJ...814..117N
+  |doi        = 10.1088/0004-637X/814/2/117
+  |arxiv      = 1509.02522
+  |access-date= 12 February 2017}}</ref>
+
+<ref name="Nugent-2016">{{cite journal
+  |display-authors = 6
+  |first1     = C. R. |last1 = Nugent
+  |first2     = A. |last2 = Mainzer
+  |first3     = J. |last3 = Bauer
+  |first4     = R. M. |last4 = Cutri
+  |first5     = E. A. |last5 = Kramer
+  |first6     = T. |last6 = Grav
+  |first7     = J. |last7 = Masiero
+  |first8     = S. |last8 = Sonnett
+  |first9     = E. L. |last9 = Wright
+  |date       = September 2016
+  |title      = NEOWISE Reactivation Mission Year Two: Asteroid Diameters and Albedos
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2016AJ....152...63N
+  |journal    = The Astronomical Journal
+  |volume     = 152
+  |issue      = 3
+  |page       = 12
+  |bibcode    = 2016AJ....152...63N
+  |doi        = 10.3847/0004-6256/152/3/63
+  |arxiv      = 1606.08923
+  |access-date= 12 February 2017}}</ref>
+
+<ref name="Albers-2010">{{Cite journal
+  |display-authors = 6
+  |first1     = Kenda |last1 = Albers
+  |first2     = Katherine |last2 = Kragh
+  |first3     = Adam |last3 = Monnier
+  |first4     = Zachary |last4 = Pligge
+  |first5     = Kellen |last5 = Stolze
+  |first6     = Josh |last6 = West
+  |first7     = Arnold |last7 = Yim
+  |first8     = Richard |last8 = Ditteon
+  |date       = October 2010
+  |title      = Asteroid Lightcurve Analysis at the Oakley Southern Sky Observatory: 2009 October thru 2010 April
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2010MPBu...37..152A
+  |journal    = The Minor Planet Bulletin
+  |volume     = 37
+  |issue      = 4
+  |pages      = 152–158
+  |issn       = 1052-8091
+  |bibcode    = 2010MPBu...37..152A
+  |access-date= 12 February 2017}}</ref>
+
+}} <!-- end of reflist -->
+
+== External links ==
+* [https://archive.is/20130412024302/http://comets.universetoday.com/l/4061/1049-Gotho-1925-RB 1049-Gotho-1925-RB], universetoday.com
+* [http://comets-asteroids.findthedata.org/q/4061/1102/When-was-the-comet-or-asteroid-1049-Gotho-1925-RB-Gotho-first-and-last-observed When was the comet or asteroid 1049 Gotho (1925 RB) (Gotho) first and last observed], universetoday.com
+* [http://www.minorplanet.info/PHP/lcdbsummaryquery.php Asteroid Lightcurve Database (LCDB)], query form ([http://www.minorplanet.info/lightcurvedatabase.html info])
+* [https://books.google.com/books?id=aeAg1X7afOoC&pg Dictionary of Minor Planet Names], Google books
+* [http://obswww.unige.ch/~behrend/page_cou.html Asteroids and comets rotation curves, CdR] – Observatoire de Genève, Raoul Behrend
+* [https://www.minorplanetcenter.net/iau/lists/NumberedMPs000001.html Discovery Circumstances: Numbered Minor Planets (1)-(5000)] – Minor Planet Center
+* {{AstDys|1049}}
+* {{JPL small body}}
+
+{{Use dmy dates|date=October 2019}}
+{{Minor planets navigator |1048 Feodosia |number=1049 |1050 Meta}}
+{{Small Solar System bodies}}
+
+{{DEFAULTSORT:Gotho}}
+[[Category:Background asteroids|001049]]
+[[Category:Discoveries by Karl Wilhelm Reinmuth]]
+[[Category:Minor planets with names of unknown origin]]
+[[Category:Named minor planets]]
+[[Category:Astronomical objects discovered in 1925|19250914]]

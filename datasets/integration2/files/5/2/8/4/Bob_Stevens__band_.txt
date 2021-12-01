@@ -1,0 +1,50 @@
+{{BLP sources|date=July 2015}}
+'''Bob Stevens''' is a Swedish [[dansband]] established in 1958 in [[Scania]], Sweden continuing until the late 1970s. The band was revived under new management in 1987 with new members. In the 1990s, the band released a number of albums that charted on the [[Svensktoppen]] chart. Famous singles from the period include "Ett litet under" and cover for "No more Bolero", with Mats Kärrlid on main vocals. After a brief stop in the mid-2000s, is "Bobbarna 're in the process of writing music, touring and recording discs. In 2010s, they returned with albums ''För bra för att va'sann'' (2012), ''Mitt skåne'' (2014) and ''Skåne är ett härligt land'' (2015) that all charted on [[Sverigetopplistan]], the official Swedish Albums chart.
+
+Most recent members of the band are: Mats Kärrlid (main vocals and guitar), Dan Gustafsson (guitar, saxophone and backing vocals), Mats Olsson (saxophone and keyboards) and Micke Langen (drums).
+
+==Discography==
+===Albums===
+*1994: ''Bob Stevens''
+*1996: ''2''
+*1998: ''Samma leende som du''
+*2001: ''Ljusblåa ögon''
+*2005: ''Barndomsåren''
+*2008: ''Här igen!''
+*2010: ''Bolero''
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="140"|Album
+!align="center" colspan="1" width="20"|Peak positions
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Sverigetopplistan|SWE]]<br><ref name="swe">{{cite web | url=http://swedishcharts.com/showinterpret.asp?interpret=Bob+Stevens | title=Bob Stevens discography | publisher=Hung Medien | work=swedishcharts.com |accessdate=17 July 2015}}</ref>
+|-
+| style="text-align:center;"|2012
+|''För bra för att va' sann''
+| style="text-align:center;"|12
+|-
+| style="text-align:center;"|2014
+|''Mitt Skåne''
+| style="text-align:center;"|29
+|-
+| style="text-align:center;"|2014
+|''Skåne är ett härligt land''
+| style="text-align:center;"|41
+|-
+|}
+
+===EPs===
+*1989: ''Räck ut din hand / Nidälven''
+*1990: ''Månskenskyssen / Gitarr-medley''
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.bobstevens.se/ Official website]
+
+{{Authority control}}
+
+[[Category:Musical groups established in 1958]]
+[[Category:Dansbands]]
+[[Category:1958 establishments in Sweden]]

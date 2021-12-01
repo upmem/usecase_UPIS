@@ -1,0 +1,103 @@
+{{Infobox settlement
+|official_name            = New London, New Hampshire
+|settlement_type          = [[Census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = 
+|mapsize                  = 
+|map_caption              = 
+|pushpin_map              = New Hampshire#USA
+|pushpin_label            = New<br>London
+|pushpin_label_position   =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New Hampshire]]
+|subdivision_type2        = [[List of counties in New Hampshire|County]]
+|subdivision_name2        = [[Merrimack County, New Hampshire|Merrimack]]
+|subdivision_type3        = [[List of cities and towns in New Hampshire|Town]]
+|subdivision_name3        = [[New London, New Hampshire|New London]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 2.63
+|area_land_km2            = 2.63
+|area_water_km2           = 0.0
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         =
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 1403
+|population_density_km2   = 534.3
+|population_density_sq_mi =
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 1291
+|coordinates              = {{coord|43|24|51|N|71|59|6|W|region:US-NH|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 03257
+|area_code                = [[Area code 603|603]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 33-52020
+|blank1_name              = [[GNIS]] feature ID
+|blank1_info              = 2629733
+|website                  = 
+|footnotes                = 
+}}
+'''New London''' is a [[census-designated place]] (CDP) and the primary village in the [[New England town|town]] of [[New London, New Hampshire|New London]] in [[Merrimack County, New Hampshire|Merrimack County]], [[New Hampshire]], United States. The population of the CDP was 1,403 at the [[2010 United States Census|2010 census]],<ref name="Census 2010">{{Cite web| url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US3352020| title=Geographic Identifiers: 2010 Demographic Profile Data (G001): New London CDP, New Hampshire (revised 11-21-2012)| publisher=U.S. Census Bureau, American Factfinder| accessdate=September 27, 2017| archive-url=https://archive.today/20200213040304/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US3352020| archive-date=February 13, 2020| url-status=dead}}</ref> out of 4,397 in the entire town of New London. The CDP includes the campus of [[Colby–Sawyer College]].
+
+==Geography==
+The CDP occupies the central part of the town of New London, extending northwest to County Road and southeast past Squires Lane but not as far as Ridgeview Road. To the north the CDP extends beyond Seamans Road but not as far as Birch Acres Road, while to the south the CDP reaches to Lion Brook, south of Balsam Acres.<ref>{{Cite web| url=https://tigerweb.geo.census.gov/tigerweb/| title=TIGERweb: New London CDP, New Hampshire| publisher=Geography Division, U.S. Census Bureau| access-date=September 27, 2017}}</ref>
+
+[[New Hampshire Route 114]] is Main Street through the village, leading northwest {{convert|13|mi}} to [[Grantham, New Hampshire|Grantham]] and south {{convert|12|mi}} to [[Bradford (CDP), New Hampshire|Bradford]]. [[Interstate 89]] passes {{convert|2|mi|0}} southwest of the CDP, with access from Exits 11 and 12.
+
+According to the [[U.S. Census Bureau]], the New London CDP has a total area of {{convert|2.6|sqkm|order=flip}}, all land.<ref name="Census 2010"/>
+
+==Demographics==
+As of the census of 2010, there were 1,403 people,<ref>Revised 11-21-2012 (r46244); Census Count Question Resolution Program</ref> 309 households, and 130 families residing in the CDP. There were 342 housing units, of which 33, or 9.6%, were vacant. The racial makeup of the CDP was 93.8% [[White Americans|white]], 2.8% [[African American]], 0.1% [[Native Americans of the United States|Native American]], 1.6% [[Asia]]n, 0.1% Pacific Islander, 0.2% some other race, and 1.4% from two or more races. 2.3% of the population were [[Hispanic]] or [[Hispanic and Latino Americans|Latino]] of any race.<ref name="Census 2010 DP">{{Cite web| url=https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/SF1DP1/1600000US3352020| title=Profile of General Population and Housing Characteristics: 2010 Census Summary File 1 (DP-1): New London CDP, New Hampshire| publisher=U.S. Census Bureau, American Factfinder| accessdate=September 27, 2017| archive-url=https://archive.today/20200213131142/https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/SF1DP1/1600000US3352020| archive-date=February 13, 2020| url-status=dead}}</ref>
+
+Of the 309 households in the CDP, 12.9% had children under the age of 18 living with them, 34.6% were headed by [[Marriage|married couples]] living together, 5.5% had a female householder with no husband present, and 57.9% were non-families. 49.2% of all households were made up of individuals, and 32.0% were someone living alone who was 65 years of age or older. The average household size was 1.80, and the average family size was 2.51. 846 residents (60.6% of the CDP population) lived in group quarters such as dormitories or nursing facilities.<ref name="Census 2010 DP"/>
+
+4.8% of residents in the CDP were under the age of 18, 63.8% were from age 18 to 24, 5.3% were from 25 to 44, 10.8% were from 45 to 64, and 15.2% were 65 years of age or older. The median age was 20.9 years. For every 100 females, there were 55.0 males. For every 100 females age 18 and over, there were 53.2 males.<ref name="Census 2010 DP"/>
+
+For the period 2011-15, the estimated median annual income for a household was $31,985, and the median income for a family was $68,950. <!--Male full-time workers had a median income of $___ versus $___ for females.--> The [[per capita income]] for the CDP was $18,052. <!--__% of the population and __% of families were below the poverty line, along with __% of people under the age of 18 and __% of people 65 or older.--><ref>{{Cite web| url=https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/DP03/1600000US3352020| title=Selected Economic Characteristics: 2011-2015 American Community Survey 5-Year Estimates (DP03): New London CDP, New Hampshire| publisher=U.S. Census Bureau, American Factfinder| accessdate=September 27, 2017| archive-url=https://archive.today/20200213095222/https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/DP03/1600000US3352020| archive-date=February 13, 2020| url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+{{Merrimack County, New Hampshire}}
+
+{{authority control}}
+
+[[Category:Census-designated places in New Hampshire]]
+[[Category:Census-designated places in Merrimack County, New Hampshire]]

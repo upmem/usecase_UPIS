@@ -1,0 +1,323 @@
+{{Infobox government cabinet
+| cabinet_name            = First Cabinet of Mohammad Mosaddegh
+| cabinet_number          = 
+| jurisdiction            = [[Iran]]
+| flag                    = Flag of Iran (1925).svg
+| flag_border             = true
+| image                   = Mossadegh1stcabin.jpg
+| caption                 = Mosaddegh and his first cabinet members
+| date_formed             = {{Start date|1951|04|28|df=y}}
+| date_dissolved          = {{End date|1952|07|16|df=y}}
+| government_head         = [[Mohammad Mosaddegh]]
+| government_head_history = 
+| deputy_government_head  = [[Bagher Kazemi]]
+| state_head              = [[Mohammad Reza Pahlavi]]
+| members_number          = 12
+| former_members_number   = 10
+| total_number            = 22
+| political_party         = <!-- or | political_parties = -->
+| legislature_status      = 16th term:<ref>{{Citation|last=Penner Angrist|first=Michele|year=2011|title=Party Building in the Modern Middle East|series=Publications on the Near East|publisher=University of Washington Press|page=131|isbn=0295801123}}</ref><ref>{{Citation|last=Limbert|first=John W.|authorlink=John Limbert|year=2009|title=Negotiating with Iran: Wrestling the Ghosts of History|series=Cross-Cultural Negotiation Bks|publisher=US Institute of Peace Press|page=[https://archive.org/details/negotiatingwithi00limb/page/65 65]|isbn=1601270437|url-access=registration|url=https://archive.org/details/negotiatingwithi00limb/page/65}}</ref><br />8-seats [[minority influence]]<br />{{Composition bar|8|136|hex=black|per=1}}
+| opposition_cabinet      = 
+| opposition_party        = <!-- or | opposition_parties = -->
+| opposition_leader       = <!-- or | opposition_leaders = -->
+| election                = [[1950 Iranian legislative election|1950 legislative election]]
+| last_election           = 
+| legislature_term        = [[16th Iranian Majlis|16th]] ({{small|1950–52}})<br />[[17th Iranian Majlis|17th]] ({{small|1952}})
+| budget                  = 
+| advice_and_consent1     = 
+| advice_and_consent2     = <!-- up to 5 times -->
+| incoming_formation      = 
+| outgoing_formation      = 
+| predecessor             = [[First Government of Hossein Ala'|Ala']] (I)
+| successor               = [[Fifth Government of Ahmad Qavam|Qavam]] (V)
+}}
+{{Infobox government cabinet
+| cabinet_name            = Second Cabinet of Mohammad Mosaddegh
+| cabinet_number          = 
+| jurisdiction            = [[Iran]]
+| flag                    = Flag of Iran (1925).svg
+| flag_border             = true
+| image                   = 2ndMossadegh'scabinet.jpg
+| caption                 = Mosaddegh and his second cabinet members
+| date_formed             = {{Start date|1952|07|21|df=y}}
+| date_dissolved          = {{End date|1953|08|19|df=y}}
+| government_head         = [[Mohammad Mosaddegh]]
+| government_head_history = 
+| deputy_government_head  = [[Gholam Hossein Sadighi]]
+| state_head              = [[Mohammad Reza Pahlavi]]
+| members_number          = 12
+| former_members_number   = 2
+| total_number            = 14
+| political_parties = [[National Front of Iran|National Front]]<ref>{{Citation|last=Abrahamian|first=Ervand|authorlink=Ervand Abrahamian|year=2013|title=The Coup: 1953, the CIA, and the Roots of Modern U.S.-Iranian Relations|publisher=The New Press|pages=143–147|isbn=1595588264}}</ref>
+| legislature_status      = 30-seats minority<br />{{small|resorted to [[rule by decree]]}}<ref>{{Citation|last=Nohlen|first=Dieter|authorlink=Dieter Nohlen|last2=Grotz|first2=Florian|last3=Hartmann|first3=Christof|year=2001|title=Elections in Asia: A data handbook|volume=I|publisher=US Institute of Peace Press|page=73|isbn=0-19-924958-X}}</ref><br />{{Composition bar|30|136|hex=black|per=1}}
+| opposition_cabinet      = 
+| opposition_party        = Monarchists <!-- or | opposition_parties = -->
+| opposition_leader       = <!-- or | opposition_leaders = -->
+| election                = [[1952 Iranian legislative election|1952 legislative election]]<br />[[1953 Iranian parliamentary dissolution referendum|1953 referendum]]
+| last_election           = 
+| legislature_term        = [[17th Iranian Majlis|17th]]
+| budget                  = 
+| advice_and_consent1     = 
+| advice_and_consent2     = <!-- up to 5 times -->
+| incoming_formation      = 
+| outgoing_formation      = [[1953 Iranian coup d'état|Coup of 1953]]
+| predecessor             = [[Fifth Government of Ahmad Qavam|Qavam]] (V)
+| successor               = [[Government of Fazlollah Zahedi|Zahedi]]
+}}
+The premiership of [[Mohammad Mosaddegh]] began when his first [[Cabinet of Iran|government]] was formed on 28 April 1951 and ended on 19 August 1953, when his second [[Cabinet of Iran|government]] was overthrown by the American–British backed [[1953 Iranian coup d'état|coup d'état]]. During the time, the two cabinets of Mosaddegh took control except for a brief period between 16 and 21 July 1952, in which [[Ahmad Qavam]] was the [[Prime Minister of Iran|Prime Minister]], taking office due to resignation of Mosaddegh from premiership and deposed by [[Mohammad Reza Shah|Shah]] after five days of mass demonstrations.<ref>{{Citation|last=Rahnema|first=Ali|authorlink=Ali Rahnema|year=2014|title=Behind the 1953 Coup in Iran: Thugs, Turncoats, Soldiers, and Spooks
+|publisher=Cambridge University Press|page=xv–xxii|isbn=1107076064}}</ref>
+
+== First cabinet ==
+{{Cabinet table start|hiderefcol=y}}
+{{Cabinet table minister
+ | title                 = [[Prime Minister of Iran|Prime Minister]]
+ | minister1             = [[Mohammad Mosaddegh]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 16 July 1952
+ | minister1_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Minister of Foreign Affairs (Iran)|Foreign Minister]]
+ | minister1             = [[Bagher Kazemi]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 16 July 1952
+ | minister1_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Defense (Iran)|War Minister]]
+ | minister1             = [[Ali-Asghar Naghdi]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 16 December 1951
+ | minister1_party       = Military
+ | minister2             = [[Morteza Yazdanpanah]] 
+ | minister2_termstart   = 16 December 1951
+ | minister2_termend     = 16 July 1952
+ | minister2_party       = Military
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Interior (Iran)|Interior Minister]]
+ | minister1             = [[Fazlollah Zahedi]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 5 August 1951 
+ | minister1_party       = Military
+ | minister2             = [[Shamseddin Amir-Alaei]] 
+ | minister2_termstart   = 5 August 1951
+ | minister2_termend     = 16 December 1951
+ | minister2_party       = National Front (Iran)
+ | minister3             = [[Amirteymour Kalali]] 
+ | minister3_termstart   = 16 December 1951
+ | minister3_termend     = 16 July 1952
+ | minister3_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Justice (Iran)|Justice Minister]]
+ | minister1             = [[Ali Heyat]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 16 December 1951
+ | minister1_party       = Independent (politician)
+ | minister2             = [[Shamseddin Amir-Alaei]] 
+ | minister2_termstart   = 16 December 1951
+ | minister2_termend     = 16 July 1952
+ | minister2_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Labour and Social Affairs (Iran)|Labor Minister]]
+ | minister1             = [[Amirteymour Kalali]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 16 July 1952
+ | minister1_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Economic Affairs and Finance (Iran)|National Economy Minister]]
+ | minister1             = [[Shamseddin Amir-Alaei]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 5 August 1951
+ | minister1_party       = National Front (Iran)
+ | minister2             = [[Ali Amini]] 
+ | minister2_termstart   = 5 August 1951
+ | minister2_termend     = 16 July 1952
+ | minister2_party       = Independent (politician)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Health and Medical Education|Public Health Minister]]
+ | minister1             = [[Hassan Loghman-Adham]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 4 October 1951
+ | minister1_party       = Independent (politician)
+ | minister2             = [[Mohammad-Ali Maleki]] 
+ | minister2_termstart   = 4 October 1951
+ | minister2_termend     = 16 July 1952
+ | minister2_party       = Independent (politician)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Roads and Transportation (Iran)|Roads Minister]]
+ | minister1             = [[Javad Bushehri]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 16 July 1952
+ | minister1_party       = Independent (politician)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Agriculture (Iran)|Agriculture Minister]]
+ | minister1             = [[Hassan-Ali Farmand]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 6 May 1951
+ | minister1_party       = Independent (politician)
+ | minister2             = [[Khalil Taleghani]] 
+ | minister2_termstart   = 6 May 1951
+ | minister2_termend     = 16 July 1952
+ | minister2_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Culture (Iran)|Culture Minister]]
+ | minister1             = [[Karim Sanjabi]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 6 May 1951
+ | minister1_party       = National Front (Iran)
+ | minister2             = [[Mahmoud Hessabi]] 
+ | minister2_termstart   = 6 May 1951
+ | minister2_termend     = 16 July 1952
+ | minister2_party       = Independent (politician)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Economic Affairs and Finance (Iran)|Finance Minister]]
+ | minister1             = [[Mohammad-Ali Varasteh]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 4 October 1951
+ | minister1_party       = Independent (politician)
+ | minister2             = [[Mahmoud Nariman]] 
+ | minister2_termstart   = 4 October 1951
+ | minister2_termend     = 16 July 1952
+ | minister2_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Information and Communications Technology of Iran|Post & Telegraph Minister]]
+ | minister1             = [[Yousef Moshar]] 
+ | minister1_termstart   = 28 April 1951
+ | minister1_termend     = 6 May 1951
+ | minister1_party       = National Front (Iran)
+ | minister2             = [[Gholam Hossein Sadighi]] 
+ | minister2_termstart   = 6 May 1951
+ | minister2_termend     = 16 July 1952
+ | minister2_party       = National Front (Iran)
+}}
+{{Cabinet table end}}
+
+== Second cabinet ==
+{{Cabinet table start|hiderefcol=y}}
+{{Cabinet table minister
+ | title                 = [[Prime Minister of Iran|Prime Minister]]
+ | minister1             = [[Mohammad Mosaddegh]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 19 August 1953
+ | minister1_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Minister of Foreign Affairs (Iran)|Foreign Minister]]
+ | minister1             = [[Hossein Navab]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 16 September 1952
+ | minister1_party       = Independent (politician)
+ | minister2             = [[Hossein Fatemi]] 
+ | minister2_termstart   = 16 September 1952
+ | minister2_termend     = 19 August 1953
+ | minister2_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Defense (Iran)|National Defense Minister]]
+ | minister1             = [[Mohammad Mosaddegh]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 19 August 1953
+ | minister1_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Interior (Iran)|Interior Minister]]
+ | minister1             = [[Gholam Hossein Sadighi]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 19 August 1953
+ | minister1_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Justice (Iran)|Justice Minister]]
+ | minister1             = [[Abdolali Lotfi]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 19 August 1953
+ | minister1_party       = Independent (politician)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Labour and Social Affairs (Iran)|Labor Minister]]
+ | minister1             = [[Ebrahim Alemi]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 19 August 1953
+ | minister1_party       = Independent (politician)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Economic Affairs and Finance (Iran)|National Economy Minister]]
+ | minister1             = [[Ali-Akbar Akhavi]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 19 August 1953
+ | minister1_party       = Independent (politician)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Health and Medical Education|Public Health Minister]]
+ | minister1             = [[Sabar Mirza Farman Farmaian|Sabar Farmanfarmaian]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 19 August 1953
+ | minister1_party       = Independent (politician)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Roads and Transportation (Iran)|Roads Minister]]
+ | minister1             = [[Davoud Rajabi]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 6 January 1953
+ | minister1_party       = National Front (Iran)
+ | minister2             = [[Jahangir Haghshenas]] 
+ | minister2_termstart   = 6 January 1953
+ | minister2_termend     = 19 August 1953
+ | minister2_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Agriculture (Iran)|Agriculture Minister]]
+ | minister1             = [[Khalil Taleghani]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 19 August 1953
+ | minister1_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Culture (Iran)|Culture Minister]]
+ | minister1             = [[Mehdi Azar]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 19 August 1953
+ | minister1_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Economic Affairs and Finance (Iran)|Finance Minister]]
+ | minister1             = [[Bagher Kazemi]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 19 August 1953
+ | minister1_party       = National Front (Iran)
+}}
+{{Cabinet table minister
+ | title                 = [[Ministry of Information and Communications Technology of Iran|Post & Telegraph Minister]]
+ | minister1             = [[Seyfollah Moazzami]] 
+ | minister1_termstart   = 21 July 1952
+ | minister1_termend     = 19 August 1953
+ | minister1_party       = National Front (Iran)
+}}
+{{Cabinet table end}}
+
+== See also ==
+* [[The nationalization of the Iran oil industry movement]]
+
+== References ==
+{{reflist}}
+{{Cabinets of Iran}}
+
+[[Category:Cabinets established in 1951]]
+[[Category:Cabinets disestablished in 1952]]
+[[Category:Cabinets established in 1952]]
+[[Category:Cabinets disestablished in 1953]]
+[[Category:Cold War history of Iran]]
+[[Category:Pahlavi dynasty]]
+[[Category:Nationalism in Iran]]
+[[Category:National Front (Iran)]]
+[[Category:Cabinets of Iran]]

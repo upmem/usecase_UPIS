@@ -1,0 +1,39 @@
+{{Infobox NRHP
+  | name = Commandant's House
+  | nrhp_type = 
+  | image = 
+  | caption = 
+  | location = 264 McClellan Dr., [[Walnut Ridge, Arkansas]]
+  | coordinates = {{coord|36|7|52|N|90|56|17|W|display=inline,title}}
+  | locmapin = Arkansas#USA
+  | map_caption    = Location in [[Arkansas]]##Location in United States
+  | built = {{Start date|1942}}
+  | builder = U.S. Army
+  | architecture = [[Colonial Revival]]
+  | added = January 21, 2010
+  | area = {{convert|4|acre}}
+  | governing_body = Private 
+  | mpsub = World War II Home Front Efforts in Arkansas, MPS
+  | refnum = 09001251<ref name="nris">{{NRISref|version=2010a}}</ref>
+}}
+The '''Commandant's House''' is a historic house at 264 McClellan Drive in [[Walnut Ridge, Arkansas]].  It is a single story wood frame structure, with a side-gable main block flanked by front gable wings, giving it a U shape.  The house was built in 1942 by the [[United States Army]] as the residence of the commander of the [[Walnut Ridge Army Airfield|Walnut Ridge Army Flying School]], and is the only building known to survive from that endeavor.  It was also later the home of H.E. Williams, the founder of the nearby [[Williams Baptist College]].<ref name=NRHP>{{cite web|url=http://www.arkansaspreservation.com/National-Register-Listings/PDF/LW0090.nr.pdf|title=NRHP nomination for Commandant's House|publisher=Arkansas Preservation|accessdate=2014-12-17}}</ref>
+
+The house was listed on the [[National Register of Historic Places]] in 2010.<ref name="nris"/>
+
+==See also==
+*[[National Register of Historic Places listings in Lawrence County, Arkansas]]
+
+==References==
+{{reflist}}
+
+{{National Register of Historic Places}}
+
+[[Category:Houses on the National Register of Historic Places in Arkansas]]
+[[Category:Colonial Revival architecture in Arkansas]]
+[[Category:Houses completed in 1942]]
+[[Category:Houses in Lawrence County, Arkansas]]
+[[Category:1942 establishments in Arkansas]]
+[[Category:National Register of Historic Places in Lawrence County, Arkansas]]
+
+
+{{LawrenceCountyAR-NRHP-stub}}

@@ -1,0 +1,45 @@
+{{Infobox Christian leader
+| honorific-prefix = The Revd.
+| name            = Midgley John Jennings
+| image           = 
+| imagesize       = 
+| alt             =
+| caption         = 
+| title           = Missionary
+| birth_date      = {{birth date|1846|6|26}}
+| birth_place     = Stevenage, England
+| death_date      = {{Death date and age|1902|3|13|1846|6|26|df=y}}
+| death_place     = Delhi, India
+| buried           = 
+|ordination = deacon in December 1830<br/>priest in February 1831
+}}
+
+'''Midgley John Jennings M.A.''' (8 June 1806 – 11 May 1857) a minister of the [[Church of England]] remembered for his work as a Christian missionary in India. Founder of the [[United Society|Society for the Propagation of the Gospel]]'s Mission to Delhi.
+
+Killed in Delhi along with family and other members of the mission at the outbreak of the [[Indian Rebellion of 1857]].
+
+==Background and Early Life==
+Born in [[Stevenage]], [[England]] on 8 June 1806, son of Midgley Jennings.
+
+Educated at [[Christ's College, Cambridge]] graduating with a B.A. in 1829 and received his master's degree in 1832. Ordained deacon at Lincoln in December 1830 and ordained priest in February 1831.<ref>{{cite book|last1=Venn|first1=John|title=Alumni Cantabrigienses: A Biographical List of All Known Students|date=July 2011|publisher=Cambridge University Press|location=Cambridge|isbn=978-1108036146|page=566|edition=Vol. 2}}</ref>
+
+==Missionary Work in India==
+Chaplain with the [[East India Company]] from 1832. Served variously at [[Cawnpore]] and other locations prior to a posting to Delhi in 1851. In Delhi as well as serving as chaplain to expatriate Europeans he focused on educational initiatives benefitting local students. Murdered on 11 May 1857 at the start of the [[Indian Rebellion of 1857|uprising against East India Company rule]].<ref>{{cite book|last1=Harris|first1=John|title=The Indian Mutiny|date=1973|publisher=Wordsworth Editions Limited|isbn=1 84022 232 8|page=[https://archive.org/details/indianmutiny0000harr/page/44 44]|url=https://archive.org/details/indianmutiny0000harr/page/44}}</ref>
+
+==See also==
+* [[Indian Rebellion of 1857]]
+
+== References ==
+{{Reflist}}
+
+*{{cite web|url=http://anglicanhistory.org/india/henderson1931/01.html|title=The Cambridge Mission to Delhi, by Lilian F. Henderson (1931)|work=anglicanhistory.org|accessdate=14 September 2018}}
+
+{{DEFAULTSORT:Jennings, Midgley John}}
+[[Category:English Anglican missionaries]]
+[[Category:Alumni of Christ's College, Cambridge]]
+[[Category:1806 births]]
+[[Category:1857 deaths]]
+[[Category:Anglican missionaries in India]]
+[[Category:British people murdered abroad]]
+[[Category:People murdered in India]]
+[[Category:Murdered missionaries]]

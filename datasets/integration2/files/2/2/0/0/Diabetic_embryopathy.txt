@@ -1,0 +1,65 @@
+{{Infobox medical condition (new)
+| name          = 
+| causes        = maternal hyperglycemia
+| frequency     = 
+| prognosis     = 
+| medication    = 
+| treatment     = 
+| prevention    = 
+| differential  = 
+| diagnosis     = 
+| risks         = 
+| types         = 
+| synonyms      = 
+| duration      = 
+| onset         = 
+| complications = major birth defects and spontaneous abortions
+| symptoms      = 
+| field         = 
+| pronounce     = embrēˈäpəTHē
+| caption       = Fetus of mother with diabetes
+| image         = Six weeks embryo.JPG
+| deaths        = 
+| alt           = 
+}}
+
+'''Diabetic embryopathy''' refers to [[congenital]] maldevelopments that are linked to maternal [[diabetes]].<ref>{{Cite journal|last=Eriksson|first=Ulf J.|last2=Wentzel|first2=Parri|date=2016|title=The status of diabetic embryopathy|journal=Upsala Journal of Medical Sciences|volume=121|issue=2|pages=96–112|doi=10.3109/03009734.2016.1165317|issn=0300-9734|pmc=4900070|pmid=27117607}}</ref> Prenatal exposure to hyperglycemia can result in [[spontaneous abortions]], [[perinatal mortality]], and [[malformations]]. [[Type 1 diabetes|Type 1]] and [[Type 2 diabetes|Type 2 diabetic]] pregnancies both increase the risk of diabetes induced [[teratogenicity]].<ref>{{Cite journal|last=Balsells|first=Montserrat|last2=García-Patterson|first2=A.|last3=Gich|first3=I.|last4=Corcoy|first4=R.|date=2009|title=Maternal and fetal outcome in women with type 2 versus type 1 diabetes mellitus: a systematic review and metaanalysis|journal=The Journal of Clinical Endocrinology and Metabolism|volume=94|issue=11|pages=4284–4291|doi=10.1210/jc.2009-1231|issn=1945-7197|pmid=19808847|doi-access=free}}</ref> The rate of [[congenital malformation]]s is similar in Type 1 and 2 mothers because of increased [[adiposity]] and the age of women with type 2 diabetes.<ref>{{Cite journal|last=Rankin|first=J.|last2=Tennant|first2=P. W. G.|last3=Stothard|first3=K. J.|last4=Bythell|first4=M.|last5=Summerbell|first5=C. D.|last6=Bell|first6=R.|date=2010|title=Maternal body mass index and congenital anomaly risk: a cohort study|url=https://www.nature.com/articles/ijo201066|journal=International Journal of Obesity|language=en|volume=34|issue=9|pages=1371–1380|doi=10.1038/ijo.2010.66|pmid=20368710|issn=1476-5497|via=|doi-access=free}}</ref> [[Genetic predisposition]] and different environmental factors both play a significant role in the development of diabetic embryopathy. [[Metabolic dysfunction]] in pregnant mothers also increases the risk of fetal malformations.<ref>{{Cite journal|last=Miller|first=Edith|last2=Hare|first2=John W.|last3=Cloherty|first3=John P.|last4=Dunn|first4=Peter J.|last5=Gleason|first5=Ray E.|last6=Soeldner|first6=J. Stuart|last7=Kitzmiller|first7=John L.|date=1981-05-28|title=Elevated Maternal Hemoglobin A1C in Early Pregnancy and Major Congenital Anomalies in Infants of Diabetic Mothers|journal=New England Journal of Medicine|volume=304|issue=22|pages=1331–1334|doi=10.1056/NEJM198105283042204|issn=0028-4793|pmid=7012627}}</ref>
+
+== Risk factors ==
+
+Women with pregestational [[diabetes]] are at the highest risk for fetal malformations. The risk of [[congenital malformation]]s in pregestational [[type 1 diabetes]] is directly correlated with [[glucose]] and [[glycohemoglobin]] levels in the blood. It is also inversely related to the gestational age at first exposure. The [[comorbidities]] associated with pregestational [[type 2 diabetes]] include advanced maternal age, lipid preroxidation and [[obesity]].<ref name="Kitzmiller 2010 791–803">{{Cite journal|last=Kitzmiller|first=John L.|last2=Wallerstein|first2=Robert|last3=Correa|first3=Adolfo|last4=Kwan|first4=Saiyin|date=2010|title=Preconception care for women with diabetes and prevention of major congenital malformations|journal=Birth Defects Research Part A: Clinical and Molecular Teratology|language=en|volume=88|issue=10|pages=791–803|doi=10.1002/bdra.20734|pmid=20890938|issn=1542-0760}}</ref> Overweight women ([[Body mass index|BMI]] ≥ 25) who develop gestational diabetes have an intermediate risk for malformations. Pregnant women who have gestational diabetes but don't have prediabetic markers experience perinatal outcomes that are similar to women without diabetes.<ref>{{Cite journal|last=Correa|first=Adolfo|last2=Gilboa|first2=Suzanne M.|last3=Besser|first3=Lilah M.|last4=Botto|first4=Lorenzo D.|last5=Moore|first5=Cynthia A.|last6=Hobbs|first6=Charlotte A.|last7=Cleves|first7=Mario A.|last8=Riehle-Colarusso|first8=Tiffany J.|last9=Waller|first9=D. Kim|last10=Reece|first10=E. Albert|date=2008|title=Diabetes mellitus and birth defects|journal=American Journal of Obstetrics and Gynecology|volume=199|issue=3|pages=237.e1–237.e9|doi=10.1016/j.ajog.2008.06.028|issn=0002-9378|pmc=4916956|pmid=18674752}}</ref>
+
+== Gestational consequences ==
+
+=== Malformations ===
+Type 1 diabetes in pregnant women can result in malformations that affect the [[Human musculoskeletal system|musculoskeletal]] , [[urogenital]], and [[central nervous system]]s. Most of these malformations occur within the first 4 weeks of gestation.<ref name=":0">{{Cite journal|last=Opitz|first=John M.|last2=Zanni|first2=Ginevra|last3=Reynolds|first3=James F.|last4=Gilbert‐Barness|first4=Enid|date=2002|title=Defects of blastogenesis|journal=American Journal of Medical Genetics|language=en|volume=115|issue=4|pages=269–286|doi=10.1002/ajmg.10983|pmid=12503120|issn=1096-8628}}</ref> Caudal dysgenesis is one of the most strongly associated diseases to diabetes.<ref>{{Cite journal|last=Martínez‐Frías|first=María Luisa|date=1994|title=Epidemiological analysis of outcomes of pregnancy in diabetic mothers: Identification of the most characteristic and most frequent congenital anomalies|journal=American Journal of Medical Genetics|language=en|volume=51|issue=2|pages=108–113|doi=10.1002/ajmg.1320510206|pmid=8092185|issn=1096-8628}}</ref> This malformation has the highest risk for diabetic embryopathy. Infants from diabetic mothers usually have several [[blastogenic]] malformations. Diabetic embryopathy is therefore an etiological subgroup of defects of [[blastogenesis]] that present different monotopic and polytopic developmental defects.<ref name=":0" />
+
+=== Abortion and perinatal deaths ===
+Diabetic embryopathy may result in early or late [[spontaneous abortion]] and [[stillbirth]]. In maternal diabetes, 90% of pregnancy losses happen in the [[first trimester]] due to [[oxidative stress]]. Diabetic embryopathy abortions in the [[Second trimester|second-trimester]] are most likely due to severe [[birth defect]], maternal metabolic derangement, [[placental insufficiency]] and [[fetal hypoxia]] due to membrane rupture.<ref name="Castori 2013 74–86">{{Cite journal|last=Castori|first=M.|date=2013|title=Diabetic Embryopathy: A Developmental Perspective from Fertilization to Adulthood|journal=Molecular Syndromology|volume=4|issue=1–2|pages=74–86|doi=10.1159/000345205|issn=1661-8769|pmc=3638774|pmid=23653578}}</ref>
+
+== Pathogenesis ==
+The development of birth defects associated with maternal [[hyperglycemia]] is multi-factorial. Environmental factors and [[genetic predisposition]] (paternal, maternal and offspring [[genome]]) are important in diabetic embryopathy. The diets of diabetic mothers impacts the rate at which malformations form in their offspring. Furthermore, there is evidence that resistance to certain malformations caused by diabetes is genetic. [[Epigenetic]]s and its relationship with various environmental factors such as metabolism and diet play a significant role in [[teratogenesis]].<ref>{{Cite journal|last=Salbaum|first=J. Michael|last2=Kappen|first2=Claudia|date=2010|title=Neural Tube Defect Genes and Maternal Diabetes during Pregnancy|journal=Birth Defects Research. Part A, Clinical and Molecular Teratology|volume=88|issue=8|pages=601–611|doi=10.1002/bdra.20680|issn=1542-0752|pmc=3509193|pmid=20564432}}</ref> Hyperglycemia and associated teratogenic mediators influence [[DNA methylation]],, [[non-coding RNA]] expression, [[histone modification]]s and other [[epigenetic regulation]] mechanisms.
+
+== Prevention ==
+
+=== Preconception ===
+The probability of major birth defects in offspring of mothers with diabetes is 0.7-4.4% for glycohemoglobin levels <7%. For glycohemoglobin levels >10% the probability of major birth defects is 16.1-100% with an average of 26.6%.<ref name="Kitzmiller 2010 791–803"/> The National Institute of Health and Clinical Excellence in the [[United Kingdom|UK]] indicated that glycohemoglobin levels <6.1% are correlated with the lowest risk of malformations while the reproductive risks are higher in women above this threshold and prohibitive for glycohemoglobin levels >10%.<ref name=":1">{{Cite journal|last=Kitzmiller|first=John L.|last2=Wallerstein|first2=Robert|last3=Correa|first3=Adolfo|last4=Kwan|first4=Saiyin|date=2010|title=Preconception care for women with diabetes and prevention of major congenital malformations|journal=Birth Defects Research. Part A, Clinical and Molecular Teratology|volume=88|issue=10|pages=791–803|doi=10.1002/bdra.20734|issn=1542-0760|pmid=20890938}}</ref>
+
+Consumption of [[folic acid]] and [[antioxidant]] substances before fertilization result in a reduced rate of malformations in the offspring of mothers with diabetes.<ref name=":1" /> Antioxidants such as [[lipoic acid]], [[vitamin C]], and [[vitamin E]], increase the probability of favorable prenatal outcomes in offspring of diabetic mothers because oxidative stress is a teratogenic mediator of hyperglycemia in mothers with diabetes.<ref>{{Cite journal|last=Sugimura|first=Y.|last2=Murase|first2=T.|last3=Kobayashi|first3=K.|last4=Oyama|first4=K.|last5=Hayasaka|first5=S.|last6=Kanou|first6=Y.|last7=Oiso|first7=Y.|last8=Murata|first8=Y.|date=2009|title=Alpha-lipoic acid reduces congenital malformations in the offspring of diabetic mice|journal=Diabetes/Metabolism Research and Reviews|volume=25|issue=3|pages=287–294|doi=10.1002/dmrr.947|issn=1520-7560|pmid=19242917}}</ref><ref>{{Cite journal|last=Gäreskog|first=Mattias|last2=Eriksson|first2=Ulf J.|last3=Wentzel|first3=Parri|date=2006|title=Combined supplementation of folic acid and vitamin E diminishes diabetes-induced embryotoxicity in rats|journal=Birth Defects Research. Part A, Clinical and Molecular Teratology|volume=76|issue=6|pages=483–490|doi=10.1002/bdra.20278|issn=1542-0752|pmid=16933212}}</ref>
+
+=== After fertilization ===
+Optimal weight and [[glycemic]] management encourage good outcomes because diabetes has the potential to influence the mother and fetus during the entire pregnancy. The integrity of embryofetal development and placental function can be monitored by [[fetal echocardiography]] and [[ultrasound]] scanning.<ref name="Castori 2013 74–86"/>
+
+== See also ==
+
+* [[Diabetic diet]]
+
+== References ==
+{{Reflist}}
+
+{{Diabetes}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Diabetic Embryopathy}}
+[[Category:Diabetes]]

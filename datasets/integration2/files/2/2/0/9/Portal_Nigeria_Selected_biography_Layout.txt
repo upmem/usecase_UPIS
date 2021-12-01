@@ -1,0 +1,21 @@
+{{#if:{{{image}}}|<div style="float:left;margin-right:1em">[[Image:{{{image}}}|{{#if:{{{size}}}|{{{size|115px}}}|115px}}|{{{caption}}}]]
+</div>}}{{{text}}}
+
+{| class="noprint" width="100%"  border="0" style="padding: 0; margin: 0; background-color:transparent"
+|-
+|<div style="text-align:right;margin-right:10px;margin-bottom:0px;">
+'''[[{{{link}}}|Read more...]]'''
+ </div >
+|}<noinclude>
+
+== Layout template ==
+<pre>
+{{Portal:Nigeria/Selected biography/Layout
+  |image=
+  |size=
+  |caption=
+  |text=
+  |link=
+}}
+</pre>
+</noinclude>

@@ -1,0 +1,20 @@
+== Fair use rationales ==
+{{Non-free use rationale
+|Article           = Orrgo
+|Description       = This is a scan of the cover to ''Strange Tales'' #1, art by [[Jack Kirby]], copyright [[Marvel Comics]]
+|Source            = http://www.marvunapp.com/Appendix/orrgopre1.jpg
+|Portion           = Cover portion
+|Purpose           = Image is used for purposes of illustration in the above-named article, a subject of public interest.
+|Resolution        = Small size unsuitable to use for high quality reproduction
+|Replaceability    = Image is protected by copyright, therefore a free use alternative won't exist.
+|other_information = Although the picture is originally copyright, it is covered by fair use because: 
+# It is a low resolution copy of a comic book cover, hence, only a small portion of the commercial product; 
+# The use of the image will not affect the value of the original work or limit the copyright holder's rights or ability to sell or distribute the original comic book;
+# Copies of this image could not be used to make illegal copies of the comic book; 
+# The image is used as the primary means of visual identification of topics in the article. For a visual medium such as comic books, words alone cannot adequately describe the subject;
+}}
+
+== Summary ==
+All [[Marvel Comics|Marvel]] characters and the distinctive likeness(es) thereof are Trademarks & Copyright © 1941–2006 Marvel Characters, Inc. ALL RIGHTS RESERVED. Image believed to be sourced from http://www.marvunapp.com/Appendix/orrgopre1.jpg
+== Licensing ==
+{{Non-free comic}}

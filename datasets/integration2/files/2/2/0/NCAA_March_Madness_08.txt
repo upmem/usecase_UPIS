@@ -1,0 +1,89 @@
+{{short description|2007 video game}}
+{{prose|date=September 2020}}
+
+{{Infobox VG
+| image = [[Image:NCCA 08 front.jpg|250px]]
+| developer = [[EA Vancouver|EA Canada]]
+| publisher = [[Electronic Arts]]
+| designer =
+| engine =
+| series = ''[[NCAA Basketball series|NCAA March Madness]]''
+| released = {{vgrelease|NA|December 11, 2007}}
+| genre = [[Sports game|Sports]]
+| modes = [[Single-player]], [[multiplayer]], multiplayer [[online]]
+| platforms = [[PlayStation 3]], [[PlayStation 2]], [[Xbox 360]]
+}}
+
+'''''NCAA March Madness 08''''' is the 2007 installment in the [[NCAA Basketball series|''NCAA March Madness'' series]]. Former [[University of Texas at Austin|University of Texas]] and current Brooklyn Nets forward [[Kevin Durant]] is featured on the cover. It was the only ''March Madness'' game available for the [[PlayStation 3]] until the name change.
+
+==Features==
+* New "Dynamic Post Control". 
+* New recruiting system modeled after ''[[NCAA Football 08]]''. Players are searchable by position, type, and size.
+* The new "EA Sports Lockdown Stick" enables players to pressure the ball, force turnovers and harass opponents on the court.
+* Dynasty mode enhancements include the pre and post season [[National Invitation Tournament|NIT]] and the [[McDonald's]] High School All American game.
+* More authentic arenas.
+* New player models with form-fitting uniforms.
+* Breakaway basketball hoop rims.
+* Custom playbooks.
+* [[ESPN]] on Demand.
+
+==Reception==
+{{Video game reviews
+| PS2 = true
+| PS3 = true
+| X360 = true
+| na = true
+| EGM_PS3 = 6.67/10<ref name=EGM>{{cite magazine |author=EGM staff |title=NCAA March Madness 08 (PS3, X360) |magazine=[[Electronic Gaming Monthly]] |publisher=[[Ziff Davis]] |issue=223 |date=January 2008 |page=79}}</ref>
+| EGM_X360 = 6.67/10<ref name=EGM/>
+| GI_PS3 = 7.25/10<ref name=GI>{{cite magazine |last=Bertz |first=Matt |url=http://gameinformer.com/NR/exeres/692A03E2-5693-4C9C-A8F9-1104FC311F4E.htm |title=NCAA March Madness 08 (PS3, X360) |magazine=[[Game Informer]] |publisher=[[GameStop]] |issue=178 |date=February 2008 |archiveurl=https://web.archive.org/web/20080124120548/http://gameinformer.com/NR/exeres/692A03E2-5693-4C9C-A8F9-1104FC311F4E.htm |archivedate=January 24, 2008 |accessdate=September 20, 2020}}</ref>
+| GI_X360 = 7.25/10<ref name=GI/>
+| GSpot_PS3 = 6/10<ref>{{cite web |last=Thomas |first=Aaron |date=January 11, 2008 |url=https://www.gamespot.com/reviews/ncaa-march-madness-08-review/1900-6184630/ |title=NCAA March Madness 08 Review (PS3) |website=[[GameSpot]] |publisher=[[CBS Interactive]] |accessdate=September 20, 2020}}</ref>
+| GSpot_X360 = 6.5/10<ref>{{cite web |last=Thomas |first=Aaron |date=January 11, 2008 |url=https://www.gamespot.com/reviews/ncaa-march-madness-08-review/1900-6184628/ |title=NCAA March Madness 08 Review (X360) |website=GameSpot |publisher=CBS Interactive |accessdate=September 20, 2020}}</ref>
+| GT_PS3 = 7.9/10<ref name=GT>{{cite web |url=http://www.gametrailers.com/gamereview.php?id=5080 |title=NCAA March Madness 08 Review (PS3, X360) |website=[[GameTrailers]] |publisher=[[Viacom (2005–2019)|Viacom]] |date=January 29, 2008 |archiveurl=https://web.archive.org/web/20081010232139/http://www.gametrailers.com/gamereview.php?id=5080 |archivedate=October 10, 2008 |accessdate=September 20, 2020}}</ref>
+| GT_X360 = 7.9/10<ref name=GT/>
+| GameZone_X360 = 7.5/10<ref>{{cite web |last=Lafferty |first=Michael |date=December 11, 2007 |url=https://www.gamezone.com/reviews/ncaa_march_madness_08_360_review/ |title=NCAA March Madness 08 - 360 - Review |website=GameZone |archiveurl=https://web.archive.org/web/20081006035705/http://xbox360.gamezone.com/gzreviews/r32896.htm |archivedate=October 6, 2008 |url-status=live |accessdate=September 21, 2020}}</ref>
+| IGN_PS2 = 4.9/10<ref>{{cite web |last=Ahearn |first=Nate |date=January 11, 2008 |url=https://www.ign.com/articles/2008/01/11/march-madness-08-review |title=[NCAA] March Madness 08 Review (PS2) |website=[[IGN]] |publisher=[[Ziff Davis]] |accessdate=September 20, 2020}}</ref>
+| IGN_PS3 = 6.9/10<ref>{{cite web |last=Ahearn |first=Nate |date=December 11, 2007 |url=http://ps3.ign.com/articles/840/840829p1.html |title=NCAA March Madness 08 Review (PS3) |website=IGN |publisher=IGN Entertainment |archiveurl=https://web.archive.org/web/20071214224127/http://ps3.ign.com/articles/840/840829p1.html |archivedate=December 14, 2007 |accessdate=September 20, 2020}}</ref>
+| IGN_X360 = 7.4/10<ref>{{cite web |last=Ahearn |first=Nate |date=December 11, 2007 |url=https://www.ign.com/articles/2007/12/11/ncaa-march-madness-08-review |title=NCAA March Madness 08 Review (X360) |website=IGN |publisher=Ziff Davis |accessdate=September 20, 2020}}</ref>
+| OXM_X360 = 7/10<ref>{{cite magazine |title=NCAA March Madness 08 |magazine=[[Official Xbox Magazine]] |publisher=[[Future US]] |date=January 2008 |page=67}}</ref>
+| PSM_PS3 = {{Rating|3.5|5}}<ref>{{cite magazine |title=Review: NCAA March Madness 08 (PS3) |magazine=[[PlayStation: The Official Magazine]] |publisher=[[Future plc]] |issue=3 |date=February 2008 |page=79}}</ref>
+| TX_X360 = 7.9/10<ref>{{cite web |last=Nardozzi |first=Dale |date=December 11, 2007 |url=http://reviews.teamxbox.com/xbox-360/1444/NCAA-March-Madness-08/p1/ |title=NCAA March Madness 08 Review (Xbox 360) |website=[[TeamXbox]] |publisher=IGN Entertainment |archiveurl=https://web.archive.org/web/20090517135910/http://reviews.teamxbox.com/xbox-360/1444/NCAA-March-Madness-08/p1/ |archivedate=May 17, 2009 |accessdate=September 21, 2020}}</ref>
+| rev1 = ''[[Maxim (magazine)|Maxim]]''
+| rev1_PS3 = {{Rating|4|5}}<ref name=Maxim>{{cite web |last=Jones |first=Scott |date=December 12, 2007 |url=http://www.maximonline.com/entertainment/reviews.aspx?p_id=13337 |title=NCAA March Madness 08 (PS3, X360) |website=[[Maxim (magazine)|Maxim]] |publisher=[[Biglari Holdings]] |archiveurl=https://web.archive.org/web/20071230182354/http://www.maximonline.com/entertainment/reviews.aspx?p_id=13337 |archivedate=December 30, 2007 |accessdate=September 20, 2020}}</ref>
+| rev1_X360 = {{Rating|4|5}}<ref name=Maxim/>
+| rev2 = ''[[The New York Times]]''
+| rev2_PS3 = (average)<ref name=NYTimes>{{cite news |last=Herold |first=Charles |date=December 20, 2007 |url=https://www.nytimes.com/2007/12/20/technology/personaltech/20game.html?ex=1198818000&en=214d7181989ea322&ei=5070&emc=eta1 |title=Fighting It Out on the Battlefield and on the Court |newspaper=[[The New York Times]] |publisher=[[The New York Times Company]] |accessdate=September 20, 2020}}</ref>
+| rev2_X360 = (average)<ref name=NYTimes/>
+| MC_PS2 = 56/100<ref name=MCPS2>{{cite web |url=https://www.metacritic.com/game/playstation-2/ncaa-march-madness-08 |title=NCAA March Madness 08 for PlayStation 2 Reviews |website=[[Metacritic]] |publisher=CBS Interactive |accessdate=September 20, 2020}}</ref>
+| MC_PS3 = 67/100<ref name=MCPS3>{{cite web |url=https://www.metacritic.com/game/playstation-3/ncaa-march-madness-08 |title=NCAA March Madness 08 for PlayStation 3 Reviews |website=Metacritic |publisher=CBS Interactive |accessdate=September 20, 2020}}</ref>
+| MC_X360 = 69/100<ref name=MCX360>{{cite web |url=https://www.metacritic.com/game/xbox-360/ncaa-march-madness-08 |title=NCAA March Madness 08 for Xbox 360 Reviews |website=Metacritic |publisher=CBS Interactive |accessdate=September 20, 2020}}</ref>
+}}
+
+The game received "mixed or average reviews" on all platforms according to the [[Review aggregator|review aggregation]] website [[Metacritic]].<ref name=MCPS2/><ref name=MCPS3/><ref name=MCX360/>
+
+{{clear}}
+
+==See also==
+*[[NBA Live 08]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{moby game|id=/ncaa-march-madness-08}}
+
+{{NCAA Basketball series}}
+
+{{DEFAULTSORT:Ncaa March Madness 08}}
+
+[[Category:2007 video games]]
+[[Category:Basketball video games]]
+[[Category:EA Sports games]]
+[[Category:NCAA video games]]
+[[Category:North America-exclusive video games]]
+[[Category:PlayStation 2 games]]
+[[Category:PlayStation 3 games]]
+[[Category:Video games developed in Canada]]
+[[Category:Xbox 360 games]]
+
+{{basketball-videogame-stub}}

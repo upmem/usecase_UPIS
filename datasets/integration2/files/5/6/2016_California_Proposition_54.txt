@@ -1,0 +1,33 @@
+{{Infobox referendum
+| name = Proposition 54
+| title = '''Legislative Procedure Requirements'''
+| yes = 8607266
+| no = 4559903
+| total = 14610509
+| electorate = 19411771
+| map = 2016CaliforniaProposition54.svg
+| mapdivision =
+| notes = Source: [[California Secretary of State]]<ref>{{cite web |title=Statement of Vote - November 8, 2016, General Election |date=December 16, 2016 |url=http://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-8-2016/statement-vote/ |accessdate=January 7, 2017 }}</ref>
+}}
+{{Elections in California}}
+
+'''Proposition 54''' is a [[California ballot proposition]] that passed on the November 8, 2016 ballot. It requires the recording and posting of videos of public meetings of the [[California State Legislature|State Legislature]]. The measure requires the recordings to be posted on the internet within 24 hours of a meeting, available online for at least 72 hours before a [[bill (law)|bill]] can be passed, and downloadable for at least 20 years. The measure also allows members of the public to record meetings.<ref>{{cite web|title=Proposition 54. Legislature. Legislation and Proceedings. Initiative Constitutional Amendment and Statute.|url=http://www.lao.ca.gov/BallotAnalysis/Proposition?number=54&year=2016|website=Legislative Analyst's Office|accessdate=9 October 2016}}</ref>
+
+Arguments for the measure stated that it would increase transparency in the Legislature and provide time for bills to be reviewed by the public before going to vote.<ref>{{cite web|last1=Noon|first1=Alison|date=8 October 2016|title=Proposition 54 would put California bills online for 3 days|url=http://www.times-standard.com/government-and-politics/20161008/proposition-54-would-put-california-bills-online-for-3-days|website=Eureka Times-Standard|agency=Associated Press|accessdate=7 January 2017}}</ref><ref>{{cite web|last1=Hutchison|first1=Helen|last2=Casazza|first2=Teresa|title=Prop. 54 will make Legislature more transparent, accountable|url=http://www.sacbee.com/opinion/op-ed/soapbox/article106241787.html|website=The Sacramento Bee|accessdate=9 October 2016}}</ref> Arguments against the measure stated that it would slow down the legislative process, and give [[lobbying]] efforts time to campaign after a bill has already been completed.<ref>{{cite web|last1=Torres|first1=Art|title=Prop. 54 plays into the hands of special interests|url=http://www.sacbee.com/opinion/op-ed/soapbox/article106228617.html|website=The Sacramento Bee|accessdate=9 October 2016}}</ref>
+
+Proposition 54 was approved by voters.<ref>{{cite news|last=Myers|first=John|title=Legislature will have to pass bills under new transparency rules set by Proposition 54|date=November 9, 2016|work=Los Angeles Times|url=http://www.latimes.com/nation/politics/trailguide/la-na-election-day-2016-proposition-54-legislature-transparency-1478449512-htmlstory.html|access-date=December 7, 2016}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://yesprop54.org Yes on Proposition 54]
+* [http://www.noonproposition54.com/about-us No on Proposition 54]
+
+<!--- Categories --->
+
+[[Category:2016 California ballot propositions]]
+
+{{California-poli-stub}}
+[[Category:California State Legislature]]
+[[Category:California politics stubs]]

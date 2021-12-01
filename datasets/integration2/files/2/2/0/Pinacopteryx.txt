@@ -1,0 +1,65 @@
+{{Short description|Monotypic butterfly genus in family Pieridae}}
+{{Italic title}}
+{{Taxobox
+| name = Zebra white
+| image = Zebra white (Pinacopteryx eriphia tritogenia).jpg
+| image caption =
+| image2 = Zebra white (Pinacopteryx eriphia tritogenia) underside.jpg
+| image2_caption = both ''P. e. tritogenia''<br>[[Senegal]]
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Lepidoptera]]
+| familia = [[Pieridae]]
+| tribus = [[Teracolini]]
+| genus = '''''Pinacopteryx'''''
+| genus_authority = [[Hans Daniel Johan Wallengren|Wallengren]], 1857
+| species = '''''P. eriphia'''''
+| binomial = ''Pinacopteryx eriphia''
+| binomial_authority = ([[Jean Baptiste Godart|Godart]], [1819])
+| synonyms =
+*''Pieris eriphia'' <small>Godart, [1819]</small>
+*''Herpaenia eriphia'' var. ''nyassae'' <small>Lanz, 1896</small>
+*''Herpaenia eriphia'' var. ''mabillei'' <small>Aurivillius, [1899]</small>
+*''Pieris [Herpaenia] callianira'' <small>Mabille, 1899</small>
+*''Herpaenia melanarge'' <small>Butler, 1886</small>
+*''Herpaenia iterata'' <small>Butler, 1888</small>
+*''Pontia tritogenia'' <small>Klug, 1829</small>
+*''Herpaenia lacteipennis'' <small>Butler, 1876</small>
+*''Herpaenia eriphia'' var. ''straminea'' <small>Aurivillius, 1904</small>
+*''Pinacopteryx eriphia wittei'' <small>Berger, 1940</small>
+| subdivision_ranks = [[Subspecies]]
+| subdivision =
+}}
+
+'''''Pinacopteryx''''' is a [[monotypic]] genus of [[Pieridae|pierid]] [[butterfly|butterflies]] found in [[Africa]] containing '''''Pinacopteryx eriphia''''', the '''zebra white'''.<ref name=funet>[http://www.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/papilionoidea/pieridae/pierinae/pinacopteryx/index.html ''Pinacopteryx''] at Markku Savela's ''Lepidoptera and Some Other Life Forms''</ref>
+
+The [[wingspan]] is 40–55&nbsp;mm in males and 42–47&nbsp;mm in females. Its flight period is year-round.<ref name=Woodhall>{{cite book|last=Woodhall |first=Steve |title=Field Guide to Butterflies of South Africa |year=2005 |location=Cape Town, South Africa |publisher=Struik |isbn=978-1-86872-724-7 }}</ref>
+
+Larva feed on ''[[Maerua cafra]]'', ''[[Boscia]]'' species, ''[[Capparis oleoides]]'', and ''[[Maerua triphylla]]''.<ref name=funet/><ref name=Woodhall/>
+
+==Subspecies==
+*''P. e. eriphia'' <small>(Godart, [1819])</small> (South Africa, Zimbabwe, Botswana, Mozambique, Malawi, southern Tanzania)
+*''P. e. mabillei'' <small>(Aurivillius, [1898])</small> (Madagascar)
+*''P. e. melanarge'' <small>(Butler, 1886)</small> (southern Sudan, southern Ethiopia, central Ethiopia, Somalia, Kenya, northern Uganda, northern Tanzania)
+*''P. e. tritogenia'' <small>(Klug, 1829)</small> (Mauritania to Senegal, Upper Volta, Niger, Chad, Sudan, northern Ethiopia, Arabia)
+*''P. e. wittei'' <small>Berger, 1940</small> (western Uganda, north-eastern DRC)
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://archive.org/stream/diegrossschmett13seit#page/n29/mode/2up Seitz, A. ''Die Gross-Schmetterlinge der Erde'' 13: Die Afrikanischen Tagfalter. Plate XIII 10]
+*[http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=55220 images representing ''Pinacopteryx''] at [[Consortium for the Barcode of Life]]
+
+{{commonscat|Pinacopteryx}}
+{{Wikispecies}}
+
+{{Taxonbar|from=Q2134815}}
+
+[[Category:Teracolini]]
+[[Category:Taxa named by Hans Daniel Johan Wallengren]]
+[[Category:Monotypic butterfly genera]]
+[[Category:Pieridae genera]]
+
+{{Pieridae-stub}}

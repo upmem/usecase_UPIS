@@ -1,0 +1,122 @@
+{{infobox sport event
+|name           = 2003 [[Individual Long Track World Championship]]
+|image          = 
+|size           = 
+|caption        = 
+|date_start     = 
+|date_end       = 
+|competitors    =
+|nations        =
+|prize_money    =
+|other          =
+|venue          = 
+|location       = 
+|prev = [[2002 Individual Long Track World Championship|2002]]
+|next = [[2004 Individual Long Track World Championship|2004]]
+}}
+The '''2003 Individual Long Track/Grasstrack World Championship''' was the 33rd edition of the [[Fédération Internationale de Motocyclisme|FIM]] [[Motorcycle speedway|speedway]] [[Individual Long Track World Championship]].<ref>{{cite web|url=http://www.speedway.org/history/|title=SPEEDWAY and LONGTRACK|publisher=Speedway.org}}</ref><ref>{{cite web|url=http://grasstrackgb.co.uk/world-longtrack/|title=World Longtrack World Champions|publisher=Grasstrack GB}}</ref>
+
+The world title was won by [[Robert Barth]] of Germany for the second time.<ref>{{cite web|url=http://www.speedwaychampions.com/long-track-champions.php|title=Long Track Racing|publisher=Speedway Champions}}</ref><ref>{{cite book|last=Montague|first=Trevor|title=A To Z of Sport|page=512|year=2004|publisher=Little Brown|isbn=0-316-72946-9}}</ref>
+
+== Venues ==
+{|class="wikitable" style="font-size: 100%"
+|-
+!width=30|Round
+!width=100| Date
+!width=200| Venue
+|-
+|1|| 15 Jun    || {{flagicon|GER}} [[Bielefeld]]
+|-
+|2|| 29 Jun   || {{flagicon|GER}} [[Mühldorf]]
+|-
+|3|| 13 Jul  ||   {{flagicon|FRA}} [[Marmande]]
+|-
+|4|| 24 Aug   || {{flagicon|ENG}} [[Tonbridge]]
+|-
+|5|| 6 Sep   || {{flagicon|FRA}} [[Morizès]]
+|-
+|6|| 1 Nov  ||   {{flagicon|NZL}} [[New Plymouth]]
+|}
+
+== Final Classification ==
+{|class="wikitable" style="font-size: 100%"
+|-
+!width=20| Pos
+!width=300| Rider
+!width=40| Round 1
+!width=40| Round 2
+!width=40| Round 3
+!width=40| Round 4
+!width=40| Round 5
+!width=40| Round 6
+!width=100| Total Pts
+|-align=center style="background-color: gold;"   
+|1 || align="left"| {{flagicon|GER}} [[Robert Barth]] ||25	||25	||18	||20	||25	||18  || 131
+|-align=center style="background-color: silver;"
+|2 || align="left"| {{flagicon|ENG}} [[Kelvin Tatum]]  ||20	||7	||25	||25	||18	||25   ||120
+|-align=center style="background-color: #cc9966;"
+|3 || align="left"| {{flagicon|GER}} [[Gerd Riss]]  ||18	||18	||10	||18	||14	||20	||98
+|-align=center
+|4 || align="left"| {{flagicon|GER}} [[Matthias Kröger]]   ||16	||4	||14	||14	||20	||14	||82
+|-align=center 
+|5 || align="left"| {{flagicon|CZE}} [[Zdenek Schneiderwind]]  ||7	||13	||16	||12	||9	||8	||65
+|-align=center 
+|6 || align="left"| {{flagicon|NED}} [[Theo Pijper]]  ||13	||10	||12	||9	||16	||4	||64
+|-align=center   
+|7 || align="left"| {{flagicon|GER}} [[Bernd Diener]]  ||14	||8	||13	||7	||5	||11	||58
+|-align=center 
+|8 || align="left"| {{flagicon|ENG}} [[Paul Hurry]]   ||11	||14	||20	||13	|| x	||x 	||58
+|-align=center 
+|9 || align="left"| {{flagicon|GER}} [[Ralf Loding]]  ||3	||20	||6	||6	||7	||12	||54
+|-align=center   
+|10 || align="left"| {{flagicon|NED}} [[Uppie Bos]] ||10	||5	||11	||1	||10	||16	||53
+|-align=center  
+|11 || align="left"| {{flagicon|DEN}} [[Brian Karger ]]  ||5	||12	||7	||11	||11	||7	||53
+|-align=center 
+|12 || align="left"| {{flagicon|GER}} [[Enrico Janoschka]] ||12	||6	||9	||4	||13	||5	||49
+|-align=center   
+|13 || align="left"| {{flagicon|FRA}} [[Stephane Tresarrieu]] ||2	||x	||4	||16	||12	||10	||44
+|-align=center 
+|14 || align="left"| {{flagicon|NED}} [[Maik Groen]] ||8	||3	||5	||8	||1	||9	||34
+|-align=center 
+|15 || align="left"| {{flagicon|GER}} [[Stephan Katt]] ||9	||2	||x	||10	||3	||x 	||24
+|-align=center   
+|16 || align="left"| {{flagicon|CZE}} [[Antonín Šváb Jr.]] ||1	||11	||3	||0	||8	||x 	||23
+|-align=center 
+|17 || align="left"| {{flagicon|GER}} [[Herbert Rudolph]] ||x 	||16	||x 	||x 	||6	||x 	||22
+|-align=center   
+|18 || align="left"| {{flagicon|ENG}} [[Andrew Appleton]] ||x	||1	||8	||5	||4	||x 	||18
+|-align=center   
+|19 || align="left"| {{flagicon|GER}} [[Sirg Schutzbach]] ||4	||9	||1	||2	||x 	||x 	||16
+|-align=center 
+|20 || align="left"| {{flagicon|ENG}} [[Oliver Allen (speedway rider)|Oliver Allen]]  ||x     || x  ||x ||x ||x 	||13	||13
+|-align=center   
+|21 || align="left"| {{flagicon|NZL}} [[Mitch Shirra]] ||x 	||x 	||x 	 ||x	||x 	||6	||6
+|-align=center   
+|22 || align="left"| {{flagicon|HUN}} [[Csaba Hell]]  ||6	||x 	||x 	||x 	||x 	||x 	||6
+|-align=center 
+|23 || align="left"| {{flagicon|AUS}} [[Shane Parker (speedway rider)|Shane Parker]] ||x ||x 	 ||x	||3	||x 	||x 	||3
+|-align=center   
+|24 || align="left"| {{flagicon|FRA}} [[Christophe Dubernard]] ||x	 ||x	|| x	||2	||x 	||2 	||4
+|-align=center   
+|25 || align="left"| {{flagicon|AUS}} [[Chris Watson (speedway rider)|Chris Watson]]  ||x ||x	 ||x	||x 	||x 	||3	||3
+|-align=center   
+|26 || align="left"| {{flagicon|NZL}} [[Sam Taylor (speedway rider)|Sam Taylor]]   ||x      ||x	 ||x	||x 	||x 	||2	||2
+|-align=center 
+|27 || align="left"| {{flagicon|AUS}} [[Craig Watson (speedway rider)|Craig Watson]]  ||x ||x	|| x	||x 	||x 	||1	||1
+|}
+
+== References ==
+{{Reflist}}
+
+{{Long Track World Championship}}
+{{International speedway}}
+
+[[Category:Individual Long Track World Championship|2003]]
+[[Category:Motorsport in England]]
+[[Category:Speedway competitions in France]]
+[[Category:Speedway competitions in Germany]]
+[[Category:Motorsport in New Zealand]]
+[[Category:Sports competitions in England]]
+[[Category:Sports competitions in New Zealand]]
+[[Category:2003 in track racing|Long]]

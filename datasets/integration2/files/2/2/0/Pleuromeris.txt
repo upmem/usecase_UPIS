@@ -1,0 +1,39 @@
+{{Automatic taxobox
+| image =
+| taxon = Pleuromeris
+| authority = Conrad, 1867
+| display_parents = 3
+| synonyms =
+''Cycloglans'' <small>Gorodiski & Freneix, 1959</small>
+}}
+
+'''''Pleuromeris''''' is a genus of [[molluscs]] in the family [[Carditidae]].<ref>Abbott, R.T. & Morris, P.A. ''A Field Guide to Shells: Atlantic and Gulf Coasts and the West Indies.'' New York: Houghton Mifflin, 1995. 46.</ref><ref>http://www.marinespecies.org/aphia.php?p=taxdetails&id=415840</ref>
+
+==Species==
+* ''[[Pleuromeris armilla]]'' <small>(Dall, 1903)</small>
+* ''[[Pleuromeris benthicola]]'' <small>Powell, 1937</small>
+* †''[[Pleuromeris decemcostata]]'' <small>Conrad, 1867</small>
+* †''[[Pleuromeris koruahinensis]] ''<small>(Bartrum & Powell, 1928)</small> (synonym: ''Venericardia koruahinensis'' <small>Bartrum & Powell, 1928</small>)
+* ''[[Pleuromeris latiuscula]]'' <small>Powell, 1937</small>
+* ''[[Pleuromeris marshalli]]'' <small>(Marwick, 1924)</small>
+* ''[[Pleuromeris micella]]'' <small>Olsson & McGinty, 1958</small>
+* ''[[Pleuromeris paucicostata]]'' <small>Laws, 1940</small>
+* ''[[Pleuromeris pygmaea]]'' <small>(Kuroda & Habe, 1951)</small>
+* ''[[Pleuromeris sanmartini]]'' <small>Klappenbach, 1970</small>
+* ''[[Pleuromeris tridentata]]'' <small>(Say, 1826)</small> – three-toothed cardita
+* ''[[Pleuromeris ultima]]'' <small>Dell, 1956</small>
+* ''[[Pleuromeris zelandica]]'' <small>(Deshayes, 1854)</small>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://rsnz.natlib.govt.nz/volume/rsnz_59/rsnz_59_01_001450.pdf Bartrum & Powell (1928), Mollusca from Kaawa Creek; Transactions and Proceedings of the Royal Society of New Zealand 1868-1961]
+
+{{Taxonbar|from=Q3017370}}
+
+[[Category:Carditidae]]
+[[Category:Bivalve genera]]
+
+
+{{bivalve-stub}}

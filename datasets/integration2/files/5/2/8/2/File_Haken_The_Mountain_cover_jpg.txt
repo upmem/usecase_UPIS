@@ -1,0 +1,14 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Cover art for progressive metal band Haken's third album The Mountain
+|Source = http://www.haken.fr/nouveautes6_en.html
+|Author = Haken
+|Article = The Mountain (Haken album)
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = No lower resolution available
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free album cover|image has rationale=yes}}

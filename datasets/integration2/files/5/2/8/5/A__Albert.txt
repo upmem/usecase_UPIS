@@ -1,0 +1,18 @@
+{{MedalTop}}
+{{MedalSport|Men's [[Rugby union at the Summer Olympics|rugby union]]}}
+{{MedalCountry | {{FRA}} }}
+{{MedalGold|[[1900 Summer Olympics|1900 Paris]] | [[Rugby union at the 1900 Summer Olympics|Team competition]]}}
+{{MedalBottom}}
+'''A. Albert''' was a [[France|French]] [[rugby union]] player. He competed at the [[1900 Summer Olympics]] and won [[olympic medal|gold]] as part of the French team in what was the [[Rugby union at the 1900 Summer Olympics|first rugby union competition]] at an [[Olympic Games]].<ref name="SR">{{cite web | url=https://www.sports-reference.com/olympics/athletes/al/a-albert-1.html | archive-url=https://web.archive.org/web/20200417200312/https://www.sports-reference.com/olympics/athletes/al/a-albert-1.html | url-status=dead | archive-date=17 April 2020 | title=A. Albert Bio Stats and Results | publisher=sports-reference | accessdate=20 May 2016}}</ref>
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Albert, A.}}
+[[Category:Year of birth missing]]
+[[Category:Year of death missing]]
+[[Category:Olympic rugby union players of France]]
+[[Category:French rugby union players]]
+[[Category:Olympic gold medalists for France]]
+[[Category:Rugby union players at the 1900 Summer Olympics]]
+
+{{France-rugbyunion-bio-stub}}

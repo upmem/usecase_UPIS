@@ -1,0 +1,57 @@
+{{about|the book|comedy series of 1971|The Partners}}
+{{Infobox book 
+| name          = The Partners: Inside America's Most Powerful Law Firms
+| title_orig    = 
+| translator    = 
+| image         = The-partners-cover.JPG
+| caption       = Front cover
+| author        = [[James B. Stewart]]
+| illustrator   = 
+| cover_artist  = 
+| country       = United States
+| language      = English
+| series        = 
+| subject       = [[Law]]
+| genre         = 
+| publisher     = [[Simon & Schuster]]
+| release_date  = 1983
+| english_release_date =
+| media_type    = [[Hardcover]]
+| pages         = 395
+| isbn          = 0-671-42023-2 
+| dewey= 338.7/6134973 s 338.7/613473 19
+| congress= KF300 .S73 1983
+| oclc= 8785200
+| preceded_by   = 
+| followed_by   = 
+}}
+
+'''''The Partners: Inside America's Most Powerful Law Firms''''' (1983) is a bestselling book by [[James B. Stewart]]. The book is a product of two years of investigation of the role of prominent law firms in society. The book describes and discusses several famous cases. There have been five editions of the book as of 2008.<ref>{{Cite web|url=https://www.worldcat.org/title/partners-inside-americas-most-powerful-law-firms/oclc/8785200?referer=brief_results|title=The partners: inside America's most powerful law firms|first=James B|last=Stewart|date=August 14, 1983|publisher=Simon and Schuster|via=Open WorldCat}}</ref>
+
+==Contents==
+* Part One. [[Iran hostage crisis|Iran]] — [[Shearman & Sterling]], [[Davis Polk & Wardwell]]
+* Part Two. [[IBM]] — [[Cravath, Swaine & Moore]]
+* Part Three. [[Genentech]] — [[Pillsbury, Madison & Sutro]]
+* Part Four. [[Westinghouse Electric Company|Westinghouse]] — [[Kirkland & Ellis]]
+* Part Five. [[Chrysler]] — [[Debevoise & Plimpton|Debevoise, Plimpton, Lyons & Gates]]
+* Part Six. [[Kennecott Utah Copper|Kennecott]] — [[Sullivan & Cromwell]]
+* Part Seven. [[Rockefeller family|Rockefeller]] — [[Milbank, Tweed, Hadley & McCloy]]
+* Part Eight. [[Kodak]] — [[Donovan, Leisure, Newton & Irvine]]
+
+==Official information==
+*{{cite book | author=Stewart, James | title=The Partners: Inside America's Most Powerful Law Firms | publisher=[[Simon & Schuster]] | location=New York | year=1983 | isbn=0-671-42023-2 | url-access=registration | url=https://archive.org/details/partner_ste_1983_00_9567 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080517124255/http://www.roycecarlton.com/speakers/stewart_bio.html Author, Editor-at-Large & Columnist], ''[[SmartMoney|Smart Money]]''
+*[https://web.archive.org/web/20090923195640/http://www.anderson.ucla.edu/x15009.xml UCLA — James B. Stewart]
+*[http://www.librarything.com/work/242742 www.librarything.com]
+
+{{DEFAULTSORT:Partners, The}}
+[[Category:1983 non-fiction books]]
+[[Category:Business books]]
+[[Category:Law books]]
+[[Category:Simon & Schuster books]]
+[[Category:Books by James B. Stewart]]

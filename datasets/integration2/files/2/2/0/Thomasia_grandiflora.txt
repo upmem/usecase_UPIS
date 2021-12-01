@@ -1,0 +1,29 @@
+{{Use dmy dates|date=July 2019}}
+{{Speciesbox
+|image = Thomasia grandiflora 1187.jpg
+|genus = Thomasia
+|species = grandiflora
+|authority = [[John Lindley|Lindl.]]<ref name="APC">{{cite web |title=''Thomasia grandiflora'' |url=https://biodiversity.org.au/nsl/services/apc-format/display/65456 |website=Australian Plant Census |accessdate=15 September 2019}}</ref>  
+| synonyms = 
+|}}
+
+'''''Thomasia grandiflora''''', commonly known as '''large-flowered thomasia''',<ref name="GREIG">{{cite book |last1=Greig |first1=Denise |title=Field Guide to Australian Wildflowers |date=1999 |publisher=Avery Chase-New Holland |isbn=1-86436-334-7}}</ref> is [[botanical name|endemic]] to the [[Southwest Australia|south-west of Western Australia]]. The flowers are pinkish-purple with a papery appearance hanging in pendents from the leaf axils.  The [[calyx (botany)|calyx]] lobes are prominent and larger than the petals.  
+
+==Description==
+''Thomasia grandiflora'' is a small shrub that grows to about {{cvt|1|m}} high and wide. The dark, bright green leaves vary in shape, usually heart-shaped or occasionally narrowly elliptic, slightly flexible, leathery and {{cvt|15-25|mm}} long.  The flowers have wide, conspicuous, pinkish-purple calyx lobes that are more prominent than the petals. The calyx is thicker near the mid-vein. The small petals are densely covered with star-shaped hairs, occasionally with only a few scattered hairs. The flowers have a papery texture and about {{cvt|2|cm}} across on short pendant stalks. The flowers are followed by capsules containing black seeds that are shed from the plant when ripe. Flowering occurs from winter to spring.<ref name=WA>{{FloraBase|name=''Thomasia grandiflora''|id=5084}}</ref><ref name="NUYTSIA">{{cite journal |last1=Shepherd |first1=Kelly A. |title=''Thomasia grandiflora'' |journal=Nuytsia |date=2019 |issue=30 |url=https://www.researchgate.net/publication/335028058 |accessdate=15 September 2019}}</ref><ref name="HARRIS"/>
+
+==Taxonomy and naming==
+''Thomasia grandiflora'' was first formally described by botanist John Lindley in 1839 who published the description in ''[[A sketch of the vegetation of the Swan River Colony]]'' in 1839.<ref name=APNI>{{cite web |url=http://www.anbg.gov.au/cgi-bin/apni?TAXON_NAME=THOMASIA+GRANDIFLORA|title=''Thomasia grandifolia'' |accessdate=2009-02-27 |work= [[Australian Plant Name Index]] (APNI), IBIS database|publisher = Centre for Plant Biodiversity Research, Australian Government, Canberra}}</ref><ref name="IA">{{cite web |last1=Lyndley |first1=John |title=A Sketch of the Vegetation of the Swan River Colony |url=https://archive.org/details/sketchvegetatio00goog/page/n26 |accessdate=15 September 2019}}</ref> The [[botanical name|specific epithet]] (''grandiflora'') is from the [[Latin]] ''grandis'' meaning "large" or "great" <ref name="RWB">{{cite book |last1=Brown |first1=Roland W. |title=The Composition of Scientific Words |date=1956 |publisher=Smithsonian Institution Press |location=Washington D.C}}</ref>{{rp|378}}  and ''flos'' meaning "flower"<ref name="RWB"/>{{rp|338}} referring to the large flowers of the species.<ref name="HARRIS">{{cite book |last1=Harris |first1=Thistle Y. |title=Gardening with Australian Plants |date=1979 |publisher=Thomas Nelson Australia |location=Melbourne, Victoria |isbn=0-17-005120-X}}</ref>
+ 
+==Distribution and habitat==
+Large-flowered tomasia is a widespread species,  mostly near coastal locations growing in open forest in the south-west of Western Australia.<ref name="HARRIS"/> 
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q7795559}}
+
+[[Category:Thomasia|grandiflora]]
+[[Category:Rosids of Western Australia]]
+[[Category:Plants described in 1839]]
+[[Category:Taxa named by John Lindley]]

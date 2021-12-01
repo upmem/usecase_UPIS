@@ -1,0 +1,210 @@
+{{Use dmy dates|date=July 2020}}
+{{Infobox planet
+ | minorplanet     = yes
+ | name            = 1047 Geisha
+ | background      = #D6D6D6
+ | image           = 
+ | image_size      = 
+ | caption         = 
+ | discovery_ref   = &thinsp;<ref name="jpldata" />
+ | discoverer      = [[Karl Reinmuth|K. Reinmuth]]
+ | discovery_site  = [[Heidelberg-Königstuhl State Observatory|Heidelberg Obs.]]
+ | discovered      = 17 November 1924
+ | mpc_name        = (1047) Geisha
+ | alt_names       = 1924 TE{{·}}1932 BP<br />1941 YG{{·}}1947 NC<br />1950 JF{{·}}{{mp|1974 HU|2}}<br />A916 HB
+ | pronounced      = 
+ | named_after     = ''[[The Geisha]]''&thinsp;<ref name="springer" /><br />{{small|(British musical)}}
+ | mp_category     = [[main-belt]]{{·}}{{small|([[Kirkwood gap|inner]])}}<br />[[Flora family|Flora]]&thinsp;<ref name="lcdb" /><ref name="Ferret" />
+ | orbit_ref       = &thinsp;<ref name="jpldata" />
+ | epoch           = 4 September 2017 ([[Julian day|JD]] 2458000.5)
+ | uncertainty     = 0
+ | observation_arc = 92.63 yr (33,833 [[Day|d]])
+ | aphelion        = 2.6723 [[Astronomical unit|AU]]
+ | perihelion      = 1.8094 AU
+ | semimajor       = 2.2409 AU
+ | eccentricity    = 0.1925
+ | period          = 3.35 [[Julian year (astronomy)|yr]] (1,225 days)
+ | mean_anomaly    = 256.96[[Degree (angle)|°]]
+ | mean_motion     = {{Deg2DMS|0.2938|sup=ms}} / day
+ | inclination     = 5.6667°
+ | asc_node        = 78.223°
+ | arg_peri        = 300.39°
+ | dimensions      = {{val|9.96|2.15}} km<ref name="Nugent-2016" /><br />{{val|10.555|0.095}} km<ref name="WISE" /><br />{{val|10.729|0.112}} km<ref name="Masiero-2014" /><br />11.52&nbsp;km {{small|(calculated)}}<ref name="lcdb" />
+ | rotation        = {{val|25.62|0.02}} [[Hour|h]]<ref name="geneva-obs" />
+ | albedo          = 0.24 {{small|(assumed)}}<ref name="lcdb" /><br />{{val|0.277|0.029}}<ref name="Masiero-2014" /><br />{{val|0.2897|0.0802}}<ref name="WISE" /><br />{{val|0.30|0.13}}<ref name="Nugent-2016" />
+ | spectral_type   = [[Tholen classification|Tholen]] {{=}} [[S-type asteroid|S]]&thinsp;<ref name="jpldata" />{{·}}[[S-type asteroid|S]]&thinsp;<ref name="lcdb" /><br />[[Asteroid color indices|B–V]] {{=}} 0.913<ref name="jpldata" /><br />[[Asteroid color indices|U–B]] {{=}} 0.541<ref name="jpldata" />
+ | abs_magnitude   = 11.86<ref name="jpldata" /><ref name="lcdb" /><ref name="WISE" />{{·}}12.20<ref name="Nugent-2016" />
+}}
+
+'''1047 Geisha''', provisional designation {{mp|1924 TE}}, is a stony Florian [[asteroid]] from the inner regions of the [[asteroid belt]], approximately 11 kilometers in diameter. It was discovered on 17 November 1924, by German astronomer [[Karl Reinmuth]] at the [[Heidelberg-Königstuhl State Observatory]] in southwest Germany.<ref name="MPC-object" /> The asteroid was named after the British musical ''[[The Geisha]]''.<ref name="springer" />
+
+== Orbit and classification ==
+
+''Geisha'' is a member of the [[Flora family]] ({{small|[[FIN tbl#402|402]]}}),<ref name="lcdb" /><ref name="Ferret" /> a giant [[asteroid family]] and the largest family of stony asteroids in the main-belt.<ref name="Nesvorny-2014" />{{rp|23}} It orbits the Sun in the [[Kirkwood gap|inner]] main-belt at a distance of 1.8–2.7&nbsp;[[Astronomical unit|AU]] once every 3 years and 4 months (1,225 days; [[semi-major axis]] 2.24&nbsp;AU). Its orbit has an [[orbital eccentricity|eccentricity]] of 0.19 and an [[orbital inclination|inclination]] of 6[[Degree (angle)|°]] with respect to the [[ecliptic]].<ref name="jpldata" />
+
+The asteroid was first observed as {{mp|A916 HB}} at Heidelberg in April 1916. The body's [[observation arc]] begins with its official discovery observation in November 1924.<ref name="MPC-object" />
+
+== Physical characteristics ==
+
+In the [[Tholen classification]], ''Geisha'' is stony [[S-type asteroid]],<ref name="jpldata" /> which is also the overall [[Asteroid spectral type|spectral type]] for members of the Flora family.<ref name="Nesvorny-2014" />{{rp|23}}
+
+=== Rotation period ===
+
+In February 2006, a rotational [[lightcurve]] of ''Geisha'' was obtained from photometric observations by Italian amateur astronomer [[Laurent Bernasconi]]. Lightcurve analysis gave a somewhat longer-than-average [[rotation period]] of 25.62 hours with a brightness amplitude of 0.33 [[Magnitude (astronomy)|magnitude]] ({{small|[[LCDB quality code|U=3-]]}}).<ref name="geneva-obs" />
+
+=== Diameter and albedo ===
+
+According to the survey carried out by the [[NEOWISE]] mission of NASA's [[Wide-field Infrared Survey Explorer]], ''Geisha'' measures between 9.96 and 10.729 kilometers in diameter and its surface has an [[astronomical albedo|albedo]] between 0.277 and 0.30.<ref name="Nugent-2016" /><ref name="WISE" /><ref name="Masiero-2014" />
+
+The ''Collaborative Asteroid Lightcurve Link'' assumes an albedo of 0.24 – derived from [[8&nbsp;Flora]], namesake and [[parent body]] of the Flora family – and calculates a diameter of 11.52 kilometers based on an [[absolute magnitude]] of 11.86.<ref name="lcdb" />
+
+== Naming ==
+
+This [[minor planet]] was named after the British musical ''[[The Geisha|The Geisha, a story of a tea house]]'' (1896). 
+The official naming citation was mentioned in ''[[The Names of the Minor Planets]]'' by [[Paul Herget]] in 1955 ({{small|[[Herget's discovery circumstances|H 100]]}}).<ref name="springer" />
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name="jpldata">{{cite web
+  |type       = 2017-07-05 last obs.
+  |title      = JPL Small-Body Database Browser: 1047 Geisha (1924 TE)
+  |url        = https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2001047
+  |publisher  = [[Jet Propulsion Laboratory]]
+  |accessdate = 11 January 2018}}</ref>
+
+<ref name="springer">{{cite book
+  |title      = Dictionary of Minor Planet Names – (1047) Geisha
+  |last       = Schmadel | first = Lutz D.
+  |publisher  = Springer Berlin Heidelberg
+  |page       = 89
+  |date       = 2007
+  |url        = https://books.google.com/?id=aeAg1X7afOoC&pg=PA89&dq=1047+Geisha#v=onepage  |isbn       = 978-3-540-00238-3}}</ref>
+
+<ref name="MPC-object">{{cite web
+  |title      = 1047 Geisha (1924 TE)
+  |work       = Minor Planet Center
+  |url        = https://www.minorplanetcenter.net/db_search/show_object?object_id=1047
+  |accessdate = 11 January 2018}}</ref>
+
+<ref name="geneva-obs">{{cite web
+  |title      = Asteroids and comets rotation curves – (1047) Geisha
+  |last       = Behrend |first = Raoul
+  |publisher  = Geneva Observatory
+  |url        = http://obswww.unige.ch/~behrend/page3cou.html#001047
+  |accessdate = 11 January 2018}}</ref>
+
+<ref name="Masiero-2014">{{cite journal
+  |display-authors = 6
+  |first1     = Joseph R. |last1 = Masiero
+  |first2     = T. |last2 = Grav
+  |first3     = A. K. |last3 = Mainzer
+  |first4     = C. R. |last4 = Nugent
+  |first5     = J. M. |last5 = Bauer
+  |first6     = R. |last6 = Stevenson
+  |first7     = S. |last7 = Sonnett
+  |date       = August 2014
+  |title      = Main-belt Asteroids with WISE/NEOWISE: Near-infrared Albedos
+  |journal    = The Astrophysical Journal
+  |volume     = 791
+  |issue      = 2
+  |page       = 11
+  |bibcode    = 2014ApJ...791..121M
+  |doi        = 10.1088/0004-637X/791/2/121
+  |arxiv      = 1406.6645
+  }}</ref>
+
+<ref name="Ferret">{{cite web
+  |title      = Asteroid 1047 Geisha – Nesvorny HCM Asteroid Families V3.0
+  |work       = Small Bodies Data Ferret
+  |url        = https://sbntools.psi.edu/ferret/SimpleSearch/results.action?targetName=1047+Geisha
+  |accessdate = 24 October 2019}}</ref>
+
+<ref name="Nesvorny-2014">{{Cite book
+  |first1     = D. |last1 = Nesvorný
+  |first2     = M. |last2 = Broz
+  |first3     = V. |last3 = Carruba
+  |date       = December 2014
+  |title      = Identification and Dynamical Properties of Asteroid Families
+  |journal    = Asteroids IV
+  |pages      = 297–321
+  |bibcode    = 2015aste.book..297N
+  |doi        = 10.2458/azu_uapress_9780816532131-ch016
+  |arxiv      = 1502.01628
+  |isbn = 9780816532131
+ }}</ref>
+
+<ref name="lcdb">{{cite web
+  |title      = LCDB Data for (1047) Geisha
+  |publisher  = Asteroid Lightcurve Database (LCDB)
+  |url        = http://www.minorplanet.info/PHP/generateOneAsteroidInfo.php?AstInfo=1047%7CGeisha
+  |accessdate = 11 January 2018}}</ref>
+
+<ref name="WISE">{{cite journal
+  |display-authors = 6
+  |first1     = A. |last1 = Mainzer
+  |first2     = T. |last2 = Grav
+  |first3     = J. |last3 = Masiero
+  |first4     = E. |last4 = Hand
+  |first5     = J. |last5 = Bauer
+  |first6     = D. |last6 = Tholen
+  |first7     = R. S. |last7 = McMillan
+  |first8     = T. |last8 = Spahr
+  |first9     = R. M. |last9 = Cutri
+  |first10    = E. |last10 = Wright
+  |first11    = J. |last11 = Watkins
+  |first12    = W. |last12 = Mo
+  |first13    = C. |last13 = Maleszewski
+  |date       = November 2011
+  |title      = NEOWISE Studies of Spectrophotometrically Classified Asteroids: Preliminary Results
+  |journal    = The Astrophysical Journal
+  |volume     = 741
+  |issue      = 2
+  |page       = 25
+  |bibcode    = 2011ApJ...741...90M
+  |doi        = 10.1088/0004-637X/741/2/90
+  |arxiv      = 1109.6407
+  }}</ref>
+
+<ref name="Nugent-2016">{{cite journal
+  |display-authors = 6
+  |first1     = C. R. |last1 = Nugent
+  |first2     = A. |last2 = Mainzer
+  |first3     = J. |last3 = Bauer
+  |first4     = R. M. |last4 = Cutri
+  |first5     = E. A. |last5 = Kramer
+  |first6     = T. |last6 = Grav
+  |first7     = J. |last7 = Masiero
+  |first8     = S. |last8 = Sonnett
+  |first9     = E. L. |last9 = Wright
+  |date       = September 2016
+  |title      = NEOWISE Reactivation Mission Year Two: Asteroid Diameters and Albedos
+  |journal    = The Astronomical Journal
+  |volume     = 152
+  |issue      = 3
+  |page       = 12
+  |bibcode    = 2016AJ....152...63N
+  |doi        = 10.3847/0004-6256/152/3/63
+  |arxiv      = 1606.08923
+  }}</ref>
+
+}} <!-- end of reflist -->
+
+== External links ==
+* [http://www.minorplanet.info/PHP/lcdbsummaryquery.php Asteroid Lightcurve Database (LCDB)], query form ([http://www.minorplanet.info/lightcurvedatabase.html info])
+* [https://books.google.com/books?id=aeAg1X7afOoC&pg Dictionary of Minor Planet Names], Google books
+* [http://obswww.unige.ch/~behrend/page_cou.html Asteroids and comets rotation curves, CdR] – Observatoire de Genève, Raoul Behrend
+* [https://www.minorplanetcenter.net/iau/lists/NumberedMPs000001.html Discovery Circumstances: Numbered Minor Planets (1)-(5000)] – Minor Planet Center
+* {{AstDys|1047}}
+* {{JPL small body}}
+
+{{Minor planets navigator |1046 Edwin |number=1047 |1048 Feodosia}}
+{{Small Solar System bodies}}
+
+{{DEFAULTSORT:Geisha}}
+[[Category:Flora asteroids|001047]]
+[[Category:Discoveries by Karl Wilhelm Reinmuth]]
+[[Category:Named minor planets]]
+[[Category:S-type asteroids (Tholen)|001047]]
+[[Category:Astronomical objects discovered in 1924|19241117]]
+[[Category:Minor planets named for fictional characters|Geisha]]

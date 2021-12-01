@@ -1,0 +1,19 @@
+<div class="boilerplate metadata afd vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result was    '''delete'''. '''[[User:MBisanz|<span style='color: #FFFF00;background-color: #0000FF;'>MBisanz</span>]]''' <sup>[[User talk:MBisanz|<span style='color: #FFA500;'>talk</span>]]</sup> 20:46, 18 December 2012 (UTC)
+===[[Kwon Chang-Hoon]]===
+
+:{{la|Kwon Chang-Hoon}} – (<includeonly>[[Wikipedia:Articles for deletion/Kwon Chang-Hoon|View AfD]]</includeonly><noinclude>[[Wikipedia:Articles for deletion/Log/2012 December 11#{{anchorencode:Kwon Chang-Hoon}}|View log]]</noinclude>{{int:dot-separator}} <span class="plainlinks">[http://toolserver.org/~snottywong/cgi-bin/votecounter.cgi?page=Wikipedia:Articles_for_deletion/Kwon_Chang-Hoon Stats]</span>)
+:({{Find sources|Kwon Chang-Hoon}})
+Previously nominated for BLPPROD. This article fails [[WP:GNG]] and [[WP:NFOOTBALL]]. [[User:GiantSnowman|Giant]][[User talk:GiantSnowman|Snowman]] 15:54, 11 December 2012 (UTC)
+:<small>Note: This discussion has been included in [[Wikipedia:WikiProject Football#Nominations for deletion and page moves|WikiProject Football]]'s list of association football-related deletions. [[User:GiantSnowman|Giant]][[User talk:GiantSnowman|Snowman]] 15:55, 11 December 2012 (UTC)</small>
+*'''Delete''' - He has not played in a fully pro league or received significant coverage, meaning the article fails [[WP:NSPORT]] and [[WP:GNG]]. [[User:Sir Sputnik|Sir Sputnik]] ([[User talk:Sir Sputnik|talk]]) 16:15, 11 December 2012 (UTC)
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Football|list of Football-related deletion discussions]]. — [[User:Frankie|Frankie]] ([[User talk:Frankie|talk]]) 19:28, 12 December 2012 (UTC)</small>
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Korea|list of Korea-related deletion discussions]]. — [[User:Frankie|Frankie]] ([[User talk:Frankie|talk]]) 19:28, 12 December 2012 (UTC)</small>
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Sportspeople|list of Sportspeople-related deletion discussions]]. — [[User:Frankie|Frankie]] ([[User talk:Frankie|talk]]) 19:28, 12 December 2012 (UTC)</small>
+*'''Delete''' - article is about a footballer who hasn't played in a [[WP:FPL|fully pro league]] or represented his country at senior level, which means that the articles fails [[WP:NFOOTBALL]]. Also fails [[WP:GNG]] due to lack of coverage in reliable sources. [[User:Mentoz86|Mentoz86]] ([[User talk:Mentoz86|talk]]) 02:32, 18 December 2012 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. <!--Template:Afd bottom--></div>

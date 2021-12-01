@@ -1,0 +1,13 @@
+{{CANelec/top|BC|1949|Vancouver-Burrard|percent=yes|elected=yes}}
+{{CANelec|BC|Coalition |Donald Cameron Brown |20,230 |31.8 |elected=yes}}
+{{CANelec|BC|Coalition |[[John Groves Gould]]|19,926 |31.3 |elected=yes}}
+{{CANelec|BC|CCF |Macdonald |11,037 |17.3}}
+{{CANelec|BC|CCF |[[Charles Grant MacNeil]]|10,737 |16.7}}
+{{CANelec|BC|Social Credit |[[Eric Charles Fitzgerald Martin|Eric Martin]]|727 |1.1}}
+{{CANelec|BC|Social Credit |Wardrop |531 |0.8}}
+{{CANelec|BC|Independent |Finkleman |396 |0.6}}
+{{CANelec|BC|Union of Electors |Adam |95 |0.1}}
+{{CANelec/total|Total valid votes |63,679 |100.00}}
+{{CANelec/total|Total rejected ballots |312}}
+{{CANelec/total|Turnout |66.9}}
+{{end}}

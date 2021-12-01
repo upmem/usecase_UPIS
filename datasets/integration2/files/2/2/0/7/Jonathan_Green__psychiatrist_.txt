@@ -1,0 +1,20 @@
+'''Jonathan Green''' is a British professor of [[child and adolescent psychiatry]] at the [[University of Manchester]]. He is a specialist in [[Autism spectrum|autism spectrum disorder]]s. He co-led the first study in the United Kingdom into ICD Asperger syndrome and has written research studies about social and language development in Autism Spectrum Disorder, co-morbidity and treatment intervention.<ref>{{cite web|title=Prof Jonathan Green: Professor of Child/Adolescent Psychiatry|work=Researchers|publisher=The University of Manchester|url=https://www.research.manchester.ac.uk/portal/Jonathan.Green.html|accessdate=20 January 2019}}</ref><ref>{{cite web|title=Professor Jonathan Green|work=People|publisher=University of Manchester|url=http://www.autism.manchester.ac.uk/about/people/professor-jonathan-green/|accessdate=20 January 2019}}</ref><ref name="NationalAutismProject.org.uk">{{cite web|title=Autism Experts|publisher=National Autism Project|year=2015|url=http://nationalautismproject.org.uk/autism-experts|accessdate=20 January 2019}}</ref>
+
+In 2015, Green's research tracked 54 young children from infancy to understand how autism develops in the earliest childhood years including what happens during the months and years before a diagnosis of the disorder.<ref>{{cite news|author=Zeliadt, Nicholette|title=Can parental training improve the course of autism?|newspaper=[[The Guardian]]|location=London|publisher=[[Guardian Media Group]]|date=26 March 2015|url=https://www.theguardian.com/science/2015/mar/26/can-parental-training-improve-the-course-of-autism|accessdate=20 January 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{GoogleScholar|W3ElNXsAAAAJ}}
+
+{{DEFAULTSORT:Green, Jonathan}}
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Autism researchers]]
+[[Category:British psychiatrists]]
+[[Category:Living people]]
+[[Category:Academics of the University of Manchester]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{UK-psychiatrist-stub}}

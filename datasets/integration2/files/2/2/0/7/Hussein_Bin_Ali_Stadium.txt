@@ -1,0 +1,53 @@
+{{ infobox stadium
+| nickname            = 
+| image               = 
+| fullname            = 
+| former_names        = 
+| location            = [[Hebron]], [[West Bank]]
+| coordinates         = {{coord|31|32|14|N|35|05|57|E|display=inline, title|region:NG-RI_type:landmark_source:dewiki}}
+| broke_ground        = 
+| built               = 
+| opened              = 1940
+| renovated           = 2009
+| expanded            = 
+| closed              = 
+| demolished          = 
+| owner               = 
+| operator            = 
+| surface             = Artificial turf
+| scoreboard          =  
+| suites              = 
+| architect           = 
+| project_manager     = 
+| structural engineer = 
+| services engineer   = 
+| general_contractor  = 
+| main_contractors    = 
+| capacity            = 8000
+| record_attendance   = 11,000<ref name="cupfinal">{{cite news|last1=Mendel|first1=Yoni|title=PHOTOS: Gaza and Hebron go head-to-head in Palestine's soccer championship|url=https://972mag.com/photos-palestines-best-meet-for-first-soccer-championship-in-15-years/110405/|accessdate=26 June 2017}}</ref>
+| executive_suites    = 
+| dimensions          = 
+| acreage             = 
+| tenants             = [[Ahli Al-Khaleel]], [[Shabab Al-Khalil SC]], [[Shabab Alsamu]]
+}}
+
+'''Hussein Bin Ali Stadium''' is an [[association football]] stadium in [[Hebron]].
+
+==West Bank Premier League==
+The stadium is home to [[Ahli Al-Khaleel]], [[Shabab Al-Khalil SC]] and [[Shabab Alsamu]] in the [[West Bank Premier League]]. Playing for Shabab, [[Palestine national football team]] player [[Ashraf Nu'man]] scored two goals at the venue against [[Thaqafi Tulkarem]] in the 2016-17 season.<ref>{{cite web|last1=Levy|first1=Uri|title=Good news and tragedy in Mideast football this week|url=https://www.alaraby.co.uk/english/blog/2016/12/11/good-news-and-tragedy-in-mideast-football-this-week|website=The New Arab|accessdate=26 June 2017}}</ref>
+
+==Palestine Cup==
+The 2015 [[Palestine Cup]] final between Ahli Al-Khaleel and [[Ittihad Shujaiyah]] took place at the stadium - the first final to be contested by the top teams from the [[West Bank Premier League]] and [[Gaza Strip League]] in 15 years.<ref name=cupfinal /> The intervention of [[FIFA]], [[UEFA]] and the [[Asian Football Confederation|AFC]] was necessary to secure permission from Israeli authorities for players to travel from the [[Gaza Strip]] to the [[West Bank]].<ref name="Final">{{cite web|title=Ahli Al-Khaleel lift Palestine Cup in dramatic fashion|url=http://www.footballpalestine.com/2015/08/ahli-al-khaleel-lift-palestine-cup-in.html|website=Football Palestine|accessdate=26 June 2017}}</ref> The match was attended by President of the [[Palestinian Football Association]] [[Jibril Rajoub]], MK [[Ahmad Tibi]] and the mayors of [[Bethlehem]] and [[Hebron]],<ref name=cupfinal /> and sponsored by the [[Bank of Palestine]].<ref>{{cite web|title=Bank of Palestine, the primary sponsor of the final game in Palestine Cup, congratulates Ahli Club for winning the Cup|url=https://www.bankofpalestine.com/en/media-center/newsroom/details/498|website=Bank of Palestine|accessdate=26 June 2017}}</ref>
+
+The stadium was again the venue for the 2016 cup final, won by Ahli Al-Khaleel against [[Shabab Khan Yunis]].<ref>{{cite web|last1=Levy|first1=Uri|title=Hebron's Ahli defeat Khan Younis to win Palestine Cup|url=https://www.alaraby.co.uk/english/society/2016/8/2/hebrons-ahli-defeat-khan-younis-to-win-palestine-cup|website=The New Arab|accessdate=26 June 2017}}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+
+[[Category:National stadiums]]
+[[Category:Sport in the West Bank]]
+[[Category:Football venues in the State of Palestine]]
+[[Category:Sports venues completed in 1940]]
+[[Category:1940 establishments in Mandatory Palestine]]

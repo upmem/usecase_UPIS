@@ -1,0 +1,36 @@
+{{short description|Measles outbreak in Antananarivo, Madagascar}}
+{{infobox epidemic
+| name= 2018 Madagascar measles outbreak 
+| dates= September 2018–present<ref name= Ministere>{{cite web| url= http://www.sante.gov.mg/home/n | title= Vainquons Ensemble la Rougeole à Madagascar  | publisher= Ministère de la Santé Publique | date= 1 March 2019 | access-date= 13 May 2019}}</ref>
+| location= [[Madagascar]] 
+| confirmed_cases= 118,000+
+| deaths = 1,688+<ref name= cbc>{{cite news| url= https://www.cbc.ca/news/health/madagascar-measles-epidemic-1.5097610 | title= Madagascar measles epidemic kills more than 1,200 despite desire for vaccinations | publisher= The Associated Press | date= 14 April 2019 | access-date= 1 July 2019}}</ref>
+| first_case= 3 family members in Antananarivo-Renivohitra District
+| disease= [[Measles]]
+| virus_strain= ''Measles morbillivirus''
+}}
+
+In early September 2018, cases of [[measles]] began to appear in [[Antananarivo]], [[Madagascar]]. Capitol health authorities challenged by the district's poverty and Madagascar's relatively-low vaccination rate<ref name= maf>{{cite web| url= https://www.globenewswire.com/news-release/2019/05/28/1853597/0/en/MAF-Flights-Support-Measles-Prevention-in-Madagascar.html | website= Globalnewspublisher.com | title= MAF Flights Support Measles Prevention in Madagascar | date= 28 May 2019 | access-date= 16 June 2019}}</ref> were unable to contain the highly-contagious disease, and what followed became the largest measles outbreak yet in Madagascar's history.<ref name="AP">{{cite news|url=https://www.apnews.com/0cd4deb8141742b5903fbef3cb0e8afa|title=Measles outbreak kills more than 1200 in Madagascar|last=Bezain|first=Laetitia|date=14 April 2019|access-date=13 May 2019|publisher=Associated Press}}</ref> With more than 115,000 people infected and more than 1,200 dying, the outbreak has become Madagascar's most serious outbreak of measles in the 21st century.
+
+==Outbreak==
+Measles cases were first detected in the urban, downtown district of Antananarivo-Renivohetra on 3 September 2018. At the time, health authorities were still heavily engaged in the remnants of last year's plague epidemic, and public resources were identified to tracking down remaining cases. On 4 October, the [[Pasteur Institute|Institute Pasteur]] de Madagascar confirmed the presence of [[measles morbillivirus]] in samples from 3 patients<ref name= reliefweb>{{cite web | url= https://reliefweb.int/disaster/ep-2018-000417-mdg |title= Madagascar: Measles Outbreak - Oct 2018 |publisher= Relief Web |date= March 2019 |access-date= 13 May 2019 |archive-url=https://web.archive.org/web/20200413080008/https://reliefweb.int/disaster/ep-2018-000417-mdg |archive-date=13 April 2020 }}</ref> and identified the B3 strain.<ref name= WHO>{{cite web| url= https://www.who.int/csr/don/17-january-2019-measles-madagascar/en/ | title= Emergencies preparedness, response: Measles - Madagascar | publisher= World Health Organization | date= 17 January 2019 | access-date= 15 May 2019 |archive-url=https://web.archive.org/web/20191020060839/https://www.who.int/csr/don/17-january-2019-measles-madagascar/en/ |archive-date= 20 October 2019}}</ref> The virus had already spread outwards to the capital's Tanà South, Tanà North, Ambohidramito districts, and by 18 November there were over 3,200 recorded cases in Madagascar.<ref name= reliefweb/>
+
+== Response ==
+Measles immunity rates are below average in Madagascar at 83%, versus the 95% recommended by the [[World Health Organization]]. Availability of the [[MMR vaccine]] is patchy in Madagascar due to the island's mountainous geography, presenting a challenge to distributors.<ref>{{Cite journal|last=Mensah|first=K.|last2=Heraud|first2=J. M.|last3=Takahashi|first3=S.|last4=Winter|first4=A. K.|last5=Metcalf|first5=C. J. E.|last6=Wesolowski|first6=A.|date=2019-04-24|title=Seasonal gaps in measles vaccination coverage in Madagascar|journal=Vaccine|volume=37|issue=18|pages=2511–2519|doi=10.1016/j.vaccine.2019.02.069|pmid=30940486|pmc=6466641|issn=0264-410X}}</ref>
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
+
+==See also==
+* [[2019 Philippines measles outbreak]]
+* [[2019 Samoa measles outbreak]]
+* [[2019 New Zealand measles outbreak]]
+* [[Measles resurgence in the United States]]
+
+{{Epidemics}}
+
+[[Category:21st-century epidemics]]
+[[Category:Measles outbreaks]]
+[[Category:Health in Madagascar]]
+[[Category:2018 in Madagascar]]

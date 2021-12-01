@@ -1,0 +1,76 @@
+{{Infobox legislation
+|short_title            = Development Financial Institutions Act 2002
+|legislature            = [[Parliament of Malaysia]]
+|image                  = MalaysianParliament.jpg
+|imagesize              = 
+|imagealt               = 
+|caption                = 
+|long_title             = An Act to make provisions for the regulation and supervision of development financial institutions and for matters connected therewith.
+|citation               = [http://www.agc.gov.my/agcportal/uploads/files/Publications/LOM/EN/Act_618.pdf Act 618]
+|territorial_extent     = Throughout [[Malaysia]]
+|considered_by          =
+|enacted_by             = [[Dewan Rakyat]]
+|date_enacted           = 
+|date_passed            = 11 December 2001
+|enacted_by2            = [[Dewan Negara]]
+|date_enacted2          = 
+|date_passed2           = 13 December 2001
+|date_assented          = 
+|royal_assent           = 29 January 2002
+|date_signed            = 
+|signed_by              = 
+|date_commenced         = 7 February 2002
+|date_effective         = [15 February 2002, P.U. (B) 51/2002]
+|date_of_expiry         = 
+|date_repealed          = 
+|administered_by        = 
+|bill                   = Development Financial Institutions Bill 2001
+|bill_citation          = D.R. 48/2001
+|bill_date              = 
+|introduced_by          = [[Shafie Salleh]], [[Minister of Finance (Malaysia)|Deputy Minister of Finance]]
+|1st_reading            = [http://www.parlimen.gov.my/files/hindex/pdf/DR-03122001.pdf 3 December 2001]
+|2nd_reading            = [http://www.parlimen.gov.my/files/hindex/pdf/DR-11122001.pdf 11 December 2001]
+|3rd_reading            = [http://www.parlimen.gov.my/files/hindex/pdf/DR-11122001.pdf 11 December 2001]
+|conf_committee_passed  = 
+|committee_report       = 
+|bill2                  = Development Financial Institutions Bill 2001
+|bill_citation2         = D.R. 48/2001
+|bill_date2             = 
+|introduced_by2         = [[Shafie Salleh]], [[Minister of Finance (Malaysia)|Deputy Minister of Finance]]
+|1st_reading2           = [http://www.parlimen.gov.my/files/hindex/pdf/DN-12122001.pdf 12 December 2001]
+|2nd_reading2           = [http://www.parlimen.gov.my/files/hindex/pdf/DN-13122001.pdf 13 December 2001]
+|3rd_reading2           = [http://www.parlimen.gov.my/files/hindex/pdf/DN-13122001.pdf 13 December 2001]
+|conf_committee_passed2 = 
+|committee_report2      = 
+|date_conf_committee    = 
+|white_paper            = 
+|amendments             = Development Financial Institutions (Amendment of Schedule) Order 2007 [P.U. (A) 285/2007]
+|repeals                = 
+|related_legislation    = Banking and Financial Institutions Act 1989 [Act 372]<br>Bank Kerjasama Rakyat Malaysia Berhad (Special Provisions) Act 1978 [Act 202]<br>Companies Act 1965 [Act 125]<br>Co-operative Societies Act 1993 [Act 502]
+|summary                = 
+|keywords               = 
+|status                 = In force
+}}
+The '''Development Financial Institutions Act 2002''' ({{lang-ms|Akta Institusi Kewangan Pembangunan 2002}}), is a [[Malaysia]]n laws which enacted to make provisions for the regulation and supervision of development financial institutions and for matters connected therewith.  .
+
+==Structure==
+The Development Financial Institutions Act 2002, in its current form (1 October 2008), consists of 9 Parts containing 130 sections and 1 schedule (including 1 amendment).
+* Part I: Preliminary
+* Part II: Management, Ownership and Control
+* Part III: Restrictions on Business
+* Part IV: Obligations and Sourcing of Funds
+* Part V: Dealings with Government Funds
+* Part VI: Control of Defaulter
+* Part VII: Auditor and Accounts
+* Part VIII: Examination and Investigation
+* Part IX: Miscellaneous
+* Schedule
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.agc.gov.my/agcportal/uploads/files/Publications/LOM/EN/Act_618.pdf Development Financial Institutions Act 2002] {{PD-notice}}
+
+[[Category:2002 in Malaysian law]]
+[[Category:Malaysian federal legislation]]

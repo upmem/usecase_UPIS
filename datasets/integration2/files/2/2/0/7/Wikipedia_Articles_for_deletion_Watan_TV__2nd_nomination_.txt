@@ -1,0 +1,21 @@
+<div class="boilerplate afd vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the article below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.''
+<!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. -->
+
+The result was '''delete'''.  <span class="smallcaps" style="font-variant:small-caps;">[[User:Northamerica1000|North America]]<sup>[[User talk:Northamerica1000|<font size="-2">1000</font>]]</sup></span> 01:08, 4 July 2017 (UTC)
+===[[:Watan TV]]===
+
+<div class="infobox" style="width:50%">AfDs for this article:<ul class="listify">{{Special:Prefixindex/Wikipedia:Articles for deletion/Watan TV}}</ul></div>
+:{{la|Watan TV}} – (<includeonly>[[Wikipedia:Articles for deletion/Watan TV (2nd nomination)|View AfD]]</includeonly><noinclude>[[Wikipedia:Articles for deletion/Log/2017 June 26#{{anchorencode:Watan TV}}|View log]]</noinclude>{{int:dot-separator}} <span class="plainlinks">[https://tools.wmflabs.org/jackbot/snottywong/cgi-bin/votecounter.cgi?page=Wikipedia:Articles_for_deletion/Watan_TV_(2nd_nomination) Stats]</span>)
+:({{Find sources AFD|Watan TV}})
+This television station appears to fail [[WP:GNG]]. Coverage in sources not found. [[User:GeoffreyT2000|GeoffreyT2000]] ([[User talk:GeoffreyT2000|talk]]) 23:48, 26 June 2017 (UTC)
+*'''Delete'''. Not overtly spammy, but certainly a 'Business listing' and not supported by any claims of notability or importance. Fails [[WP:ORG]].[[User:Kudpung|Kudpung กุดผึ้ง]] ([[User talk:Kudpung|talk]]) 09:07, 27 June 2017 (UTC)
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Television|list of Television-related deletion discussions]]. '''[[User:Wcquidditch|<font color="red">WC</font>''<font color="#999933">Quidditch</font>'']]''' <big>[[User talk:Wcquidditch|<font color="red">&#9742;</font>]] [[Special:Contributions/Wcquidditch|<font color="#999933">&#9998;</font>]]</big> 01:17, 28 June 2017 (UTC)</small>
+:<small class="delsort-notice">Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Pakistan|list of Pakistan-related deletion discussions]]. '''[[User:Wcquidditch|<font color="red">WC</font>''<font color="#999933">Quidditch</font>'']]''' <big>[[User talk:Wcquidditch|<font color="red">&#9742;</font>]] [[Special:Contributions/Wcquidditch|<font color="#999933">&#9998;</font>]]</big> 01:18, 28 June 2017 (UTC)</small>
+*'''Delete''' fails [[WP:NCORP]] and written in mostly promotional tone. [[User:Ajf773|Ajf773]] ([[User talk:Ajf773|talk]]) 01:28, 28 June 2017 (UTC)
+*'''Delete''' unless any references show up. May be worth salting given the recent re-creation. [[User:A Train|<b><span style="background:#324B91;color:white">A</span></b> <span style="color:#324B91">Train</span>]]<sup>''[[User talk:A Train|talk]]</sup> 16:59, 2 July 2017 (UTC)
+*'''Delete''' un notable. [[User:L3X1|L3X1]] [[User talk:L3X1|<small>(distænt write)</small>]] [[Special:Contributions/L3X1|<small>)evidence(</small>]] 14:08, 3 July 2017 (UTC)
+{{clear}}
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the article's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. <!--Template:Afd bottom--></div>

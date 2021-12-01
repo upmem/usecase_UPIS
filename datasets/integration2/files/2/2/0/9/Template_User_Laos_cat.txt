@@ -1,0 +1,4 @@
+<noinclude>'''<big>This template provides shared documentation for the {{nobreak|[[:Category:Laos user categories|Laos user categories]]}}.</big>'''[[Category:Category shared documentation templates|Laos]]<br/><br/></noinclude>
+{{User Laos/boxes}}
+{{User category header|{{{1|1}}}|[[Laos]]|{{nobreak|[[Wikipedia:WikiProject Laos|WikiProject Laos]]}}|Wikipedia:WikiProject Laos/Members}}
+<includeonly>[[Category:Laos user categories]]</includeonly>

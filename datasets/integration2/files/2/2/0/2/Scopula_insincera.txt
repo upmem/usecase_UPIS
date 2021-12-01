@@ -1,0 +1,27 @@
+{{short description|Species of geometer moth in subfamily Sterrhinae}}
+{{Speciesbox
+| name = 
+| image = 
+| image_caption = 
+| image2 = 
+| image2_caption = 
+| taxon = Scopula insincera
+| authority = [[Louis Beethoven Prout|Prout]], 1920<ref>{{cite journal |last=Sihvonen |first=Pasi |date=April 1, 2005 |title=Phylogeny and classification of the Scopulini moths (Lepidoptera: Geometridae, Sterrhinae) |journal=Zoological Journal of the Linnean Society |volume=143 |issue=4 |pages=473–530 |doi=10.1111/j.1096-3642.2005.00153.x|doi-access=free }}</ref>
+| synonyms =
+}}
+
+'''''Scopula insincera''''' is a [[moth]] of the  family [[Geometridae]]. It is found in [[South Africa]].<ref>[http://www.afromoths.net/species_by_code/SCOPINSI Afro Moths]</ref>
+
+==References==
+{{Commons}}
+{{Wikispecies}}
+{{Reflist}}
+
+{{Taxonbar|from=Q7434809}}
+
+[[Category:Moths described in 1920]]
+[[Category:Scopula|insincera]]
+[[Category:Moths of Africa]]
+
+
+{{Scopula-stub}}

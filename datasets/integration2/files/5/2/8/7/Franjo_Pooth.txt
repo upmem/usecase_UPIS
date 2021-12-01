@@ -1,0 +1,48 @@
+{{Use mdy dates|date=June 2018}}
+{{Infobox person
+| name          = Franjo Pooth
+| image         = Franjo Pooth (10582859166).jpg
+| caption       = Pooth in 2013
+| birth_name    = 
+| birth_date    = {{birth date and age|1969|7|20|df=y}}
+| birth_place   = [[Meerbusch]], Germany
+| death_date    = 
+| death_place   = 
+| other_names   = 
+| occupation    = Businessman
+| years_active  = 
+| nationality   = German
+| spouse        = [[Verona Pooth]]
+| partner       =
+| children      = 2
+| website       = 
+}}
+'''Franjo Pooth''' (born July 20, 1969) is a German businessman and former [[Chief executive officer|CEO]] of ''Maxfield''.
+
+==Early life==
+
+Pooth was born on July 20, 1969 and is originally from [[Meerbusch]], a city near [[Düsseldorf]]. His father is the architect Franz-Josef Pooth.<ref>{{cite web|url=http://www.wz.de/lokales/duesseldorf/das-bistro-victorian-muss-weichen-1.1975307 |title=Das Bistro Victorian muss weichen |trans-title=Victorian Bistro must go |work=WESTDEUTSCHE ZEITUNG |language=German |first=Marion |last=Seele-Leichert |date=July 15, 2015 |accessdate=March 18, 2018}}</ref> Franjo Pooth went to the Mataré-School in Meerbusch<ref>{{cite web|url=http://www.rp-online.de/nrw/staedte/meerbusch/matare-schwerpunkt-bei-den-sprachen-aid-1.6529809 |title=Mataré: Schwerpunkt bei den Sprachen |trans-title=Mataré: Focus on languages |work=RP Online |language=German |first=Verena |last=Kensbock |date=January 13, 2017 |accessdate=March 19, 2018}}</ref> and the Otto-Kühne-School in [[Bonn]]. His brother Mano is also a businessman.<ref>{{cite web|url=http://www.news-on-tour.de/77070/verona-privat-zuhause-bei-den-pooths-neues-dokuspecial-sonntag-30-maerz-um-1905-uhr-auf-rtl/ |title=Verona privat – Zuhause bei den Pooths |trans-title=Private insights – Verona Pooth at home |work=News on tour |language=German |first= |last= |date=March 26, 2014 |accessdate=March 19, 2018}}</ref>
+
+==Business==
+
+After his studies at the [[Architectural Association School of Architecture]] in London, Pooth joined the Firstgate Internet AG (subsidiary company of [[Deutsche Telekom]] in [[Cologne]].<ref>{{cite web|url=http://www.horizont.net/medien/nachrichten/-Firstgate-baut-Business-Development-Unit-aus-24935 |title=Firstgate baut Business Development Unit aus |trans-title=Firstgate expands Business Development Unit |work=HORIZONT ONLINE |language=German |first= |last= |date=September 11, 2000 |accessdate=March 20, 2018}}</ref> He then founded the brand agency ''MPFC'', together with his partners Coordt von Mannstein and Patrik Graf von Faber Castell.<ref>{{cite web|url=http://www.horizont.net/agenturen/nachrichten/-Von-Mannstein-gruendet-mit-Von-Faber-Castell-und-Franjo-Pooth-die-Markenagentur-MPFC-40702  |title=Von Mannstein gründet mit Von Faber-Castell und Franjo Pooth die Markenagentur MPFC |trans-title=Von Mannstein founding brand agency MFPC together with Von Faber-Castell and Franjo Pooth |work=HORIZONT ONLINE |language=German |first= |last= |date=October 31, 2002 |accessdate=March 18, 2018}}</ref>
+
+In 2003, Pooth founded the consumer electronic brand ''Maxfield'', whose core business was to produce unique designed [[MP3 player]]s and trend-orientated electronical devices in the European market. Pooth was its CEO until 2008 and was the finalist of the 2006 [[Ernst & Young Entrepreneur of the Year Award]] contest,<ref>{{cite web|url=http://www.manager-magazin.de/unternehmen/entrepreneur/a-438427.html |title=Die Finalisten |trans-title=The Finalists |work=Manager Magazin |language=German |first= |last= |date=September 22, 2006 |accessdate=March 19, 2018}}</ref> representing ''Maxfield GmbH''.
+
+In 2009 Franjo Pooth was sentenced to one year on probation and a 100.000 Euro fine by a court in Düsseldorf due to corruption and bribery. He was convicted of having bribed key personnell of the bank Sparkasse Düsseldorf to sign off on bank loans for his company ''Maxfield GmbH''. <ref>{{cite web|url=https://www.spiegel.de/panorama/leute/urteil-franjo-pooth-muss-eine-million-euro-zahlen-a-610721.html |title=Urteil: Franjo Pooth muss eine Million Euro zahlen |trans-title=Ruling: Franjo Pooth must pay one million Euros |work=SPIEGEL ONLINE |language=German |first= |last= |date=March 2, 2009| accessdate=August 13, 2020}}</ref>
+
+==Personal life==
+
+Pooth has been married to German television personality [[Verona Pooth]] since 2004.<ref name="FraserHoffmann2006">{{cite book|last1=Fraser|first1=Catherine C.|last2=Hoffmann|first2=Dierk O.|title=Pop Culture Germany!: Media, Arts, and Lifestyle|url=https://books.google.com/books?id=YGgaLBLodH0C&pg=PA238|accessdate=March 20, 2018|year=2006|publisher=ABC-CLIO|isbn=9781851097388|pages=238}}</ref> They have two children together, San Diego (b. September 10, 2003)<ref>{{Cite web|title=San Diego Franjo Pooth|url=https://www.promiflash.de/thema/san-diego-franjo-pooth/|access-date=2020-07-12|website=Promiflash.de|language=de}}</ref> and Rocco Ernesto (b. June 4, 2011).<ref>{{Cite web|title=Rocco Pooth|url=https://www.promiflash.de/thema/rocco-pooth/|access-date=2020-07-12|website=Promiflash.de|language=de}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commonscat-inline}}
+
+{{DEFAULTSORT:Pooth, Franjo}}
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:Businesspeople from North Rhine-Westphalia]]
+[[Category:People from Rhein-Kreis Neuss]]

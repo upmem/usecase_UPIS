@@ -1,0 +1,75 @@
+{{infobox rugby biography
+| name           = Herbert Loveitt
+| image          = 
+| image_size     = 
+| caption        = 
+| alt            = 
+| birth_name     = Herbert Arthur Loveitt
+| birth_date     = 8 March 1874<ref name="SR">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/lo/herbert-loveitt-1.html |title=Herbert Loveitt |accessdate=20 May 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20160304123929/http://www.sports-reference.com/olympics/athletes/lo/herbert-loveitt-1.html |archivedate=4 March 2016 }}</ref>
+| birth_place    = [[Easenhall]], [[Warwickshire]], [[Great Britain]]<ref name="SR" />
+| death_date     = 18 February 1909 (aged 34)<ref name="SR" />
+| death_place    = [[Coventry]], [[Great Britain]]<ref name="SR" />
+| height         = 180 cm<ref name="SR" />
+| weight         = 71 kg<ref name="SR" />
+| school         = 
+| university     = 
+| spouse         = 
+| children       = 
+| relatives      = 
+| occupation     = 
+| ru_currentteam         = 
+| ru_position            = Full-back
+| youthyears1          = &nbsp;
+| youthclubs1          = 
+| years1           = ?
+| clubs1            = [[Coventry RFC]]
+| apps1            = ? (?)
+| points1          = ? (?)
+| ru_clubupdate          = 
+| ru_provinceyears1       = 
+| ru_province1            = 
+| ru_provinceapps1        = 
+| ru_provincepoints1      = 
+| superyears1           = &nbsp;
+| super1                = 
+| superapps1            = 
+| superpoints1          = 
+| repyears1       = &nbsp;
+| repteam1        = 
+| repcaps1        = 
+| reppoints1      = 
+| ru_ntupdate            = 
+| ru_sevensnationalyears1 = &nbsp;
+| ru_sevensnationalteam1  = 
+| ru_sevensnationalcomp1  = 
+| coachyears1          = 
+| coachteams1          = 
+| ru_refereeyears1        = 
+| ru_refereecomps1        = 
+| ru_refereeapps1         = 
+| medals = 
+{{MedalSport|Men's [[rugby union]]}}
+{{MedalCountry | {{GBR2}} }}
+{{MedalCompetition|[[Rugby union at the Summer Olympics|Olympic Games]]}}
+{{MedalSilver|[[1900 Summer Olympics|1900 Paris]] | [[Rugby union at the 1900 Summer Olympics|Team competition]]}}
+}}
+
+'''Herbert Loveitt''' (8 March 1874 &ndash; 18 February 1909) was a [[Great Britain|British]] [[rugby union]] player. He competed at the [[1900 Summer Olympics]] and won [[olympic medal|silver]] as part of the Great Britain team in what was the [[Rugby union at the 1900 Summer Olympics|first rugby union competition]] at an [[Olympic Games]].<ref name="SR" />
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IOC profile|h-a-loveitt|H.A. Loveitt}}
+
+{{DEFAULTSORT:Loveitt, Herbert}}
+[[Category:1874 births]]
+[[Category:1909 deaths]]
+[[Category:Olympic rugby union players of Great Britain]]
+[[Category:British rugby union players]]
+[[Category:Olympic silver medallists for Great Britain]]
+[[Category:Rugby union players at the 1900 Summer Olympics]]
+[[Category:Medalists at the 1900 Summer Olympics]]
+
+
+{{England-rugbyunion-bio-stub}}

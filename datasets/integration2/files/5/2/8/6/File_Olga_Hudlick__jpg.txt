@@ -1,0 +1,17 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Olga Hudlická
+|Source = '''Original publication''': Hoboken, New Jersey, December 1991, The Journal of Physiology<br/>
+'''Immediate source''': http://onlinelibrary.wiley.com/doi/10.1113/jphysiol.1991.sp018863/abstract
+|Date = December 1991
+|Author = unknown
+|Article = Olga Hudlická
+|Purpose = for visual identification of the person in question, at the top of his/her biographical article
+|Replaceability = While there may be images which are freely distributable in the Czech Republic or England, am unable to ascertain if any web images meet that criteria.
+|Minimality = Sole use on biographical sketch of subject's life.
+|Commercial = Image being used to improve and enhance recognition of a biographical subject.
+|Other information = The subject of the photograph has been deceased since: 3 May 2014
+}}
+
+==Licensing==
+{{Non-free biog-pic|Olga Hudlická}}

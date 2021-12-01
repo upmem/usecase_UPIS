@@ -1,0 +1,103 @@
+{{Infobox album
+| name       = Still Life
+| type       = Studio
+| artist     = [[Kevin Morby]]
+| cover      = Still Life, Kevin Morby.jpg
+| alt        =
+| released   = October 14, 2014
+| recorded   = March–June 2014
+| venue      =
+| studio     =
+| genre      = [[Indie rock]]
+| length     = 42:57
+| label      = [[Woodsist]]
+| producer   = Rob Barbato
+| prev_title = [[Harlem River (album)|Harlem River]]
+| prev_year  = 2013
+| next_title = [[Singing Saw (album)|Singing Saw]]
+| next_year  = 2016
+}}
+
+'''''Still Life''''' is the second studio album by American [[indie rock]] musician [[Kevin Morby]], released on October 14, 2014 by [[Woodsist|Woodsist Records]]. The album's title and cover were taken from an art piece by Maynard Monrow titled "Still Life with the Rejects from the Land of Misfit Toys".<ref name=allmusic />
+
+==Critical reception==
+{{Album ratings
+| MC        = 80/100<ref name="MC">{{cite web |url=http://www.metacritic.com/music/still-life/kevin-morby |title=Still Life – Kevin Morby |publisher=[[Metacritic]]. [[CBS Interactive]] |accessdate=April 9, 2016}}</ref>
+| rev1      = [[AllMusic]]
+| rev1Score = {{Rating|4|5}}<ref name=allmusic>{{cite web|url=http://www.allmusic.com/album/still-life-mw0002733461|title=Still Life|publisher=[[AllMusic]]|last=Thomas|first=Fred|accessdate=2014-10-16}}</ref>
+| rev2      = [[Pitchfork Media]]
+| rev2Score = 7.9/10<ref>{{cite web|url=http://pitchfork.com/reviews/albums/19927-kevin-morby-still-life/|title=Kevin Morby: Still Life|publisher=[[Pitchfork Media]]|last=Thompson|first=Paul|date=2014-10-17|accessdate=2014-10-17}}</ref>
+| rev3      = [[Wondering Sound]]
+| rev3Score = 7/10<ref>{{cite web|url=http://www.wonderingsound.com/review/kevin-morby-still-life-woodsist/|title=Kevin Morby, Still Life|publisher=[[Wondering Sound]]|last=Grimm|first=Becca|date=2014-10-14|accessdate=2013-10-16}}</ref>
+| rev4      = [[Consequence of Sound]]
+| rev4Score = B-<ref>{{cite web|url=http://consequenceofsound.net/2014/10/album-review-kevin-morby-still-life/|title=Kevin Morby – Still Life|publisher=[[Consequence of Sound]]|last=Terry|first=Josh|date=2014-10-16|accessdate=2014-10-16}}</ref>
+| rev5      = Soundblab
+| rev5Score = 80%<ref>{{cite web|url=http://soundblab.com/reviews/albums/6492-kevin-morby-still-life-kevin-morby|title=Still Life - Kevin Morby|publisher=Soundblab|last=Stubbs|first=Warwick|date=2014-10-13|accessdate=2014-10-16}}</ref>
+}}
+
+''Still Life'' received wide acclaim from contemporary music critics. At [[Metacritic]], which assigns a [[standard score|normalized]] rating out of 100 to reviews from mainstream critics, the album received an [[weighted mean|average]] score of 80, based on 7 reviews, which indicates "generally favorable reviews".<ref name="MC"/>
+
+==Track list==
+All songs written by [[Kevin Morby]].<ref name=allmusic />
+{{Track listing
+| total_length = 42:57
+|-
+| title1       = The Jester, The Tramp & The Acrobat
+| length1      = 4:21
+|-
+| title2       = The Ballad of Arlo Jones
+| length2      = 2:46
+|-
+| title3       = Motors Running
+| length3      = 3:21
+|-
+| title4       = All of My Life
+| length4      = 3:30
+|-
+| title5       = Drowning
+| length5      = 5:19
+|-
+| title6       = Bloodsucker
+| length6      = 4:25
+|-
+| title7       = Parade
+| length7      = 5:25
+|-
+| title8       = Dancer
+| length8      = 3:04
+|-
+| title9       = Amen
+| length9      = 7:55
+|-
+| title10      = Our Moon
+| length10     = 2:51
+}}
+
+==Personnel==
+;Musicians
+*[[Kevin Morby]] – [[vocals]], [[guitar]], [[bass guitar|bass]] {{small|(track 5)}}, [[piano]] {{small|(1)}}
+*Justin Sullivan – [[drums]], [[percussion]]
+*[[H. Hawkline|Huw Evans]] - bass {{small|(1, 2, 4)}}, [[backing vocals]] {{small|(7)}}
+*Will Canzoneri - [[organ (music)|organ]] {{small|(1, 2, 4, 9)}}, piano {{small|(7, 9, 10)}}, backing vocals {{small|(7)}}
+*A. Conrad - [[baritone saxophone]] {{small|(7, 9)}}
+*J. Santamaria - [[alto saxophone]] {{small|(7, 9)}}
+*B. Sherman - [[trumpet]] {{small|(7, 9)}}
+*[[Alex Lilly]] - backing vocals {{small|(7)}}
+
+;Production and artwork
+*Rob Barbato – [[Record producer|producer]], bass {{small|(3, 7, 9)}}, guitar, [[double bass]] {{small|(6)}}, organ {{small|(3)}}, percussion {{small|(5)}}, backing vocals {{small|(7)}}
+*Drew Fischer - [[Audio engineering|engineer]], [[Audio mixing (recorded music)|mixing]]
+*Maynard Monroe – cover photography
+*Robbie Simon – cover layout
+*Amy Harrity - back cover photography
+*Nicole Bonneau - back cover layout
+*Eleanor Swordy - paintings
+
+==References==
+{{reflist}}
+
+{{Kevin Morby}}
+
+[[Category:2014 albums]]
+[[Category:Kevin Morby albums]]
+[[Category:Woodsist albums]]

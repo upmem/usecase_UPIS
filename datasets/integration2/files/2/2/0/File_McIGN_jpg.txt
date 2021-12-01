@@ -1,0 +1,15 @@
+== Summary ==
+{{Non-free use rationale
+| Description       = Screenshot of IGN under McDonalds branding agreement
+| Source            = https://web.archive.org/web/20041023025704/http://www.blurbco.com/~kevin/McIGN.jpg
+| Article           = McWords
+| Portion           = partial screenshot of webpage
+| Low_resolution    = yes
+| Purpose           = visual example of McBranding
+| Replaceability    = Irreplaceable
+| other_information = 
+}}
+
+== Licensing ==
+{{Non-free web screenshot|image has rationale=yes}}
+[[Category:McDonald's]]

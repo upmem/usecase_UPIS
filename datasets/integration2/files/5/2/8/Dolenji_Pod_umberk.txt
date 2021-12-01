@@ -1,0 +1,128 @@
+{{Infobox settlement
+|official_name          = Dolenji Podšumberk 
+|other_name             =
+|native_name            = 
+|nickname               =
+|settlement_type        = 
+|motto                  =
+|image_skyline          =  
+|imagesize              = 250px
+|image_caption          =
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+||pushpin_map           = Slovenia
+|pushpin_label_position = left
+|pushpin_map_caption    = Location in Slovenia
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of Slovenia.svg|25px]] [[Slovenia]]
+|subdivision_type1      = Traditional region
+|subdivision_name1      = [[Lower Carniola]]
+|subdivision_type2      = [[Statistical regions of Slovenia|Statistical region]]
+|subdivision_name2      = [[Southeast Slovenia Statistical Region|Southeast Slovenia]]
+|subdivision_type3      = [[Municipalities of Slovenia|Municipality]]
+|subdivision_name3      = [[Municipality of Trebnje|Trebnje]]
+|subdivision_type4      =
+|subdivision_name4      =
+|leader_name            =
+|leader_title1          =
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =
+|established_date       =
+|established_title2     =
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|area_magnitude         =
+|unit_pref                = 
+|area_footnotes           =
+|area_total_km2           = 0.4
+|area_land_km2            =
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+|population_as_of               =2002
+|population_footnotes           =
+|population_note                =
+|population_total               = 32
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_blank2_title        =Religions
+|population_blank2              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+|timezone               =
+|utc_offset             =
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|45|53|18.83|N|14|54|15.32|E|region:SI|display=inline,title}}
+|elevation_footnotes    =
+|elevation_m            = 359.6
+|elevation_ft           =
+|postal_code_type       =
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                =
+|footnotes              = <ref>[http://www.stat.si/eng/index.asp Statistical Office of the Republic of Slovenia]</ref>
+}}
+
+'''Dolenji Podšumberk''' ({{IPA-sl|dɔˈleːnji pɔˈtʃuːmbɛɾk|pron}}) is a small settlement in the [[Municipality of Trebnje]] in eastern [[Slovenia]]. The municipality is included in the [[Southeast Slovenia Statistical Region]]. The entire area was traditionally part of [[Lower Carniola]]. <ref>[http://www.trebnje.si/ Trebnje municipal site]</ref>
+
+==Name==
+The name ''Dolenji Podšumberk'' means 'lower Podšumberk', differentiating the village from neighboring ''[[Gorenji Podšumberk]]'' ('upper Podšumberk'), which stands about {{convert|40|m|sp=us}} higher in elevation. The two villages were attested in historical sources as ''Gebuuicz'' in 1424, ''Gewobicz'' in 1440, and ''Jebabicz'' in 1463, among other transcriptions.<ref>{{cite web |title=Gorenji Podšumberk |url=https://topografija.zrc-sazu.si/ |website=Slovenska historična topografija |publisher=ZRC SAZU Zgodovinski inštitut Milka Kosa |accessdate=August 24, 2020}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.geopedia.si/Geopedia_en.html?params=L410_F10142326_T105_vF_b4_x493012.49950000003_y82761.7515_s15 Dolenji Podšumberk at Geopedia]
+
+{{Trebnje}}
+
+{{DEFAULTSORT:Dolenji Podsumberk}}
+[[Category:Populated places in the Municipality of Trebnje]]
+
+{{Trebnje-geo-stub}}

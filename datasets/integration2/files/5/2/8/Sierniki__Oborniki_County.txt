@@ -1,0 +1,37 @@
+{{Other places3|Sierniki (disambiguation){{!}}Sierniki}}
+{{Infobox settlement
+| name = Sierniki
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Greater Poland Voivodeship|Greater Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Oborniki County|Oborniki]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Rogoźno|Rogoźno]]
+| coordinates = {{coord|52|44|25|N|17|4|44|E|region:PL|display=inline}}
+| pushpin_map = Poland
+| pushpin_label_position = right
+| elevation_m =
+| population_total = 280
+| website = }}
+'''Sierniki''' {{IPAc-pl|ś|e1|r|'|n|i|k|i}} is a [[village]] in the administrative district of [[Gmina Rogoźno]], within [[Oborniki County]], [[Greater Poland Voivodeship]], in west-central Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|6|km|mi|0}} east of [[Rogoźno]], {{convert|21|km|mi|0|abbr=on}} north-east of [[Oborniki]], and {{convert|40|km|mi|0|abbr=on}} north of the regional capital [[Poznań]]. The village has a population of 280.
+
+According to tradition, Sierniki was the place of the death of King [[Przemysł II]] in 1296. Having been severely wounded in the course of his kidnap in Rogoźno, it is said that the king was unable to travel further, and was killed in this place by his captors. 
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Rogoźno}}
+{{Oborniki-geo-stub}}
+{{coord|52|44|25|N|17|4|44|E|region:PL_type:city|display=title}}
+
+[[Category:Villages in Oborniki County|Sierniki]]

@@ -1,0 +1,87 @@
+{{Infobox military unit
+|unit_name=German 297th Infantry Division<br/>
+''297. Infanteriedivision''
+| image=297. Inf Div.png
+| image_size = 200
+|caption=297. Infanterie Division Vehicle Insignia
+|dates=February 1940 - January 1943<br/>April 1943 - May 1945
+|country={{flag|Nazi Germany}}
+|branch=[[German Army (Wehrmacht)|Army]]
+|type=[[Infantry]]
+|role=
+|size=[[Division (military)|Division]]
+|command_structure=
+|battles=[[Battle of Stalingrad]]
+|decorations=
+|battle_honours=
+|disbanded=
+|notable_commanders=''General of the Artillery'' [[Max Pfeffer]]
+}}
+{{command structure
+|name=297th Infantry Division<br>''297. Infanteriedivision''
+|date=February 1940 - January 1943<br/>April 1943 - May 1945
+|parent=
+|subordinate=
+522nd Infantry Regiment<br/>
+523rd Infantry Regiment<br/>
+524th Infantry Regiment<br/>
+297th Artillery Regiment<br/>
+297th Anti-tank Battalion<br/>
+297th Reconnaissance Battalion<br/>
+297th Anti-tank Battalion<br/>
+297th Engineer Battalion<br/>
+297th Signals Battalion
+}}
+
+The '''297th Infantry Division''' ({{lang-de|297. Infanterie-Division}}) was an Infantry Division within the [[German Army (Wehrmacht)|German Army]], active during the Second World War. It was one of the components of the [[6th Army (Wehrmacht)|6th Army]] during its failed [[Battle of Stalingrad|attack on Stalingrad]].
+
+==Operational history==
+The 297th Infantry Division was activated on January 31, 1940, and raised in March as part of the eighth wave of Wehrmacht divisions, assembled from the men of [[Military district (Germany)|Military district "WK VII"]], which is now [[Bruck an der Leitha]] and the surrounding [[Lower Austria]]n areas, out of men from the [[17th Panzer Division (Wehrmacht)|27th]]; [[44th Infantry Division (Wehrmacht)|44th]]; [[45th Infantry Division (Wehrmacht)|45th]]; [[57th Infantry Division (Wehrmacht)|57th]] and [[268th Infantry Division (Wehrmacht)|268th Infantry Divisions]].<ref name="Mitcham1"/><ref name="Mitcham2"/> The divisions of the eighth wave were referred to by some as the "class of 1918", as they consisted largely of young men born in that year, who would be the ages of 21 and 22 upon being called-up.<ref name="Dunn"/>
+
+The division served as an OKH reserve division throughout the Western Campaign of 1940, later being re-stationed in Poland in July 1940 as the initial preparations for [[Operation Barbarossa]] were made.<ref name="Mitcham2"/>
+
+===Barbarossa, Stalingrad and capitulation===
+The 297th Infantry Division attacked through Ukraine as part of [[Army Group South]] to meet its objective in conquering [[Kiev]]. The division first aided in the capture of [[Zhytomyr]] in July, followed by [[Battle of Uman|Uman]] the following month before [[Battle of Kiev (1941)|taking out Kiev in September]]. It then proceeded to go through a war-torn [[Kharkov]] and into [[Battle of Rostov (1941)|Rostov]] before the year ended.<ref name="Mitcham2"/> During the take-over of Ukraine, the division served as part of the 6th Army's [[XLIV Army Corps]], under ''General of the Infantry'' Koch.<ref name="Kamenir"/>
+
+The division survived the hazards of the Soviet winter offensive, being moved around the 6th Army in January as the Wehrmacht prepared to continue their assault on the Soviet Union, helping to re-take [[Second Battle of Kharkov|Kharkov]] in May.<ref name="Mitcham2"/> The division's commander, ''Lieutenant General'' [[Max Pfeffer]], anticipating a long upcoming struggle, joked to a Captain under his command over the latter's reluctance to accept a transfer offer to France, saying "just be happy that you're getting a break. The war will last long enough and be terrible enough for you to get a good taste of it."<ref name="Beevor"/> On June 10, the division began crossing the [[Seversky Donets River]] by assault boat, constructing a bridge for other units, including the [[14th Panzer Division]].<ref name="Beevor"/> The division continued to make inroads around the black sea to take down the industrial city of Stalingrad, serving in IV corps under ''General of the Engineers'' [[Erwin Jaenecke]].<ref name="Dennis"/>
+
+During the [[Battle of Stalingrad]], some units within the division were seen to construct caves which would later be transformed into a field hospital and an equipment storage room.<ref name="Beevor"/> The division fought in the ruined city until ''Field Marshal'' [[Friedrich Paulus]]' surrender in January 1943, with the 297th division's and IV Army Corps mutual commander, General Pfeffer, following suit into Soviet captivity on the 16th.<ref name="Hitler"/> With the airfield lost to the Red Army, the division was so badly-beaten it could hardly be considered a proper fighting force.<ref name="Dennis"/> Pfeffer's successor as division commander, ''Major General'' [[Moritz von Drebber]], finally surrendered to the Red Army a mere nine days later.<ref name="Mitcham2"/> A photograph of Drebber and several other Axis commanders was taken; one of the men photographed was Dr. Otto Renoldi, the chief surgeon for the 6th Army.<ref name="Dennis"/> A chaplain for the division was executed by a Soviet officer when he bent over to treat a wounded man.<ref name="Beevor"/>
+
+===Reformation and the Balkans===
+The division was recreated in [[Bordeaux]] in the spring of 1943 before being sent over to [[Yugoslavia]] in July, where it took part in anti-partisan activities. In November, elements of the division were transferred-over to the newly formed [[367th Infantry Division (Wehrmacht)|367th Infantry Division]]. In February 1944, its commanding officer, ''Lieutenant General'' Deutsch, was injured in a car accident in [[Vlorë]], dying the following month; ''Lieutenant General'' Gullmann took over for several days before command transferred to ''Lieutenant General'' Baier. By the Autumn of 1944, the division was in a retreat to Montenegro from the growing forces of [[Josip Broz Tito]], soon after being under attacked from the approaching [[Soviet Armed Forces|Soviet Army]]. The division remained active up until German surrender in May, 1945, when its men gave themselves up to the Yugoslavs.<ref name="Mitcham2"/>
+
+==Commanders==
+The following officers commanded 297th Infantry Division:<ref name="Mitcham2"/>
+*Lieutenant General [[Max Pfeffer]] (5 Apr 1940 - 16 Jan 1943)
+*Lieutenant General [[Moritz von Drebber]] (16 Jan 1943 - 25 Jan 1943)
+*Lieutenant General Friedrich-Wilhelm Deutsch (1 Apr 1943 - 17 Feb 1944)
+*Lieutenant General Otto Gullmann (17 Feb 1944 - 20 Feb 1944)
+*Lieutenant General Albrecht Baier (20 Feb 1944 - 8 May 1945)
+
+==Sources==
+{{Reflist|refs=
+<ref name="Beevor">{{cite book |last1=Beevor | first1=Antony| title = Stalingrad | publisher = Penguin UK | year = 2007}}</ref>
+<ref name="Dennis">{{cite book |last1=Antill| first1=Peter | last2=Dennis |first2=Peter| title = Stalingrad 1942 | publisher = Osprey Publishing | year = 2007 |pages=10–11, 73}}</ref>
+<ref name="Dunn">{{cite book |last1=Dunn | first1=Walter Scott| title = Heroes or traitors: the German replacement army, the July plot, and Adolf Hitler | publisher = Greenwood Publishing Group | year = 2003 |page=11}}</ref>
+<ref name="Hitler">{{cite book |last1=Hitler| first1=Adolf| last2=Heiber |first2= Helmut |title = Hitler and his generals: military conferences 1942-1945 : the first complete stenographic record of the military situation conferences, from Stalingrad to Berlin | publisher = Enigma Books| year = 2003 |page=1106}}</ref>
+<ref name="Kamenir">{{cite book |last1=Kamenir | first1=Victor| title = The Bloody Triangle: The Defeat of Soviet Armor in the Ukraine, June 1941 | publisher = Zenith Imprint | year = 2009 |page=264}}</ref>
+<ref name="Mitcham1">{{cite book |last=Mitcham| first=Samuel W. | title = German Order of Battle: 1st-290th Infantry divisions in World War II | publisher = Stackpole Books | year = 2007 |page=91}}</ref>
+<ref name="Mitcham2">{{cite book |last=Mitcham| first=Samuel W. | title = German Order of Battle: 291st-999th Infantry divisions in World War II | publisher = Stackpole Books | year = 2007 |pages=16, 27, 83}}</ref>
+}}
+
+==See also==
+* [[List of German divisions in World War II]]
+
+{{Infantry Divisions of the Wehrmacht}}
+{{Knight's Cross recipients of the 297th ID}}
+{{Authority control}}
+{{Subject bar
+| portal1=Military of Germany
+| portal2=World War II
+}}
+
+{{DEFAULTSORT:297th Infantry Division (Wehrmacht)}}
+[[Category:Infantry divisions of Germany during World War II]]
+[[Category:Military units and formations established in 1940]]
+[[Category:Military units and formations disestablished in 1945]]
+[[Category:Military units and formations of Germany in Yugoslavia in World War II]]

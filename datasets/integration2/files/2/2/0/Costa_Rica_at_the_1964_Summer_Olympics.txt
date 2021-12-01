@@ -1,0 +1,39 @@
+{{infobox country at games
+| NOC = CRC
+| NOCname = Comité Olímpico de Costa Rica
+| games = Summer Olympics
+| year = 1964
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.concrc.org }}&nbsp;{{in lang|es}}
+| location = [[Tokyo]]
+| competitors = 
+| sports = 
+| flagbearer = 
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+'''[[Costa Rica]]''' competed at the '''[[1964 Summer Olympics]]''' in [[Tokyo]], [[Japan]].
+
+==References==
+*[https://web.archive.org/web/20080522105330/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+
+{{Nations at the 1964 Summer Olympics}}
+
+[[Category:Nations at the 1964 Summer Olympics]]
+[[Category:Costa Rica at the Summer Olympics by year|1964]]
+[[Category:1964 in Costa Rican sport]]
+
+
+{{CostaRica-sport-stub}}
+{{1964-Olympic-stub}}

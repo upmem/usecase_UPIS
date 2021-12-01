@@ -1,0 +1,40 @@
+{{Infobox settlement
+| name                            = Nysted, Nebraska
+| settlement_type                 = [[Unincorporated area|Unincorporated Community]]
+| image_skyline                   = St Peder (Nysted, Nebraska) from SE 2.JPG
+| image_caption                   = [[St. Peder's Dansk Evangelical Lutheran Kirke]]
+| pushpin_map                     = USA Nebraska
+| coordinates                     = {{coord}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[List of U.S. states|State]]
+| subdivision_type2               = [[List of counties in Nebraska|County]]
+| subdivision_name1               = {{flag|Nebraska}}
+| subdivision_name2               = [[Howard County, Nebraska|Howard]]
+| established_title               = Founded
+| established_date                = 
+}}
+'''Nysted''' is an [[unincorporated community]] in [[Howard County, Nebraska|Howard County]], [[Nebraska]], United States.<ref>{{GNIS|831778}}</ref>
+
+==History==
+Nysted was founded in 1883.<ref>{{cite book|author=Federal Writers' Project|title=Nebraska: A Guide to the Cornhusker State|url=https://books.google.com/books?id=AZln_ns0-qIC&pg=PA293|year=1939|publisher=WPA|isbn=0-8032-6918-8|page=293}}</ref> A majority of the early settlers being natives of Denmark caused the name [[Nysted]] to be selected.<ref>{{cite book|last1=Hickey|first1=Donald R.|last2=Wunder|first2=Susan A.|last3=Wunder|first3=John R.|title=Nebraska Moments|url=https://books.google.com/books?id=5dtgP41CyK4C&pg=PA118|year=2007|publisher=U of Nebraska Press|isbn=978-0-8032-1572-6|page=118}}</ref><ref>{{cite book | url=https://books.google.com/books?id=Dlas_EPVGFEC | title=Nebraska Place-Names | publisher=University of Nebraska Press | author=Fitzpatrick, Lillian L. | year=1960 |isbn=0-8032-5060-6 | pages=81}} A [http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1000&context=englishunsllc 1925 edition] is available for download at [http://digitalcommons.unl.edu/ University of Nebraska—Lincoln Digital Commons.]</ref>
+
+A post office was established at Nysted in 1883, and remained in operation until it was discontinued in 1918.<ref>{{cite web | url=http://www.postalhistory.com/postoffices.asp?task=display&state=NE&county=Howard | title=Howard County | publisher=Jim Forte Postal History | accessdate=13 August 2014}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Howard County, Nebraska}}
+
+{{coord|41|08|04|N|98|36|52|W|type:city_region:US-NE_source:GNIS-enwiki|display=title}}
+
+{{authority control}}
+
+[[Category:Danish-American culture in Nebraska]]
+[[Category:Unincorporated communities in Howard County, Nebraska]]
+[[Category:Unincorporated communities in Nebraska]]
+[[Category:Populated places established in 1883]]
+[[Category:1883 establishments in Nebraska]]
+
+
+{{HowardCountyNE-geo-stub}}

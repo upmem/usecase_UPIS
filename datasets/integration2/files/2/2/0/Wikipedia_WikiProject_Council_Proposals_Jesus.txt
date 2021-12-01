@@ -1,0 +1,28 @@
+<div class="boilerplate metadata afd vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived proposal of the WikiProject below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the project's talk page (if created) or the [[Wikipedia:WikiProject Council|WikiProject Council]]).  No further edits should be made to this page.''
+<!--Template:Archived WikiProject Proposal top
+
+Note:  If you are seeing this page as a result of an attempt to propose a project, you must manually edit the Proposal links in order to create a new discussion page using the name format of [[Wikipedia:WikiProject Council/Proposals/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your proposal. -->
+
+The resulting WikiProject was '''not created'''
+
+----
+[[Category:Archived WikiProject proposals|{{SUBPAGENAME}}]]<!--Template:Archived WikiProject Proposal notcreated-->
+<small>{{#ifexist:Wikipedia:WikiProject ProjectName|[[Wikipedia:WikiProject ProjectName]]<br>}} {{#ifexist:Wikipedia:ProjectName|[[Wikipedia:ProjectName]]}}</small>
+
+===Description===
+ProjectDescription [[User:ACEOREVIVED|ACEOREVIVED]] ([[User talk:ACEOREVIVED|talk]]) 00:15, 28 October 2009 (UTC)
+
+===Support===
+<small>Please specify whether or not you would join the project.</small>
+#[[User:ACEOREVIVED|ACEOREVIVED]] ([[User talk:ACEOREVIVED|talk]]) 00:15, 28 October 2009 (UTC)
+
+===Discussion===
+
+
+WikiProject Jesus.
+The article on [[Jesus]] is currently under the auspices of several WikiProjects - including, not surprisingly,that for Christianity and a number of mainstream denominations. Surely such a figure, who had such a profound influence on world history, could become the subject of a WikiProject - after all, there is a discipline called [[Christology]]? The article on Jesus says that it is called Jesus, rather than Jesus Christ, and this would make sense for this WikiProject, as it could then oversee questions about how Jesus is seen in non-Christian faiths such as [[Islam]]. [[User:ACEOREVIVED|ACEOREVIVED]] ([[User talk:ACEOREVIVED|talk]]) 00:15, 28 October 2009 (UTC)
+
+
+----
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the project's talk page (if created) or at the [[Wikipedia:WikiProject Council|WikiProject Council]]). No further edits should be made to this page. <!--Template:Archived WikiProject Proposal bottom--></div>

@@ -1,0 +1,29 @@
+{{Navbox
+|name  = 27th Government of Ireland
+|title = <noinclude><small>&laquo; ''[[Template:26th Government of Ireland|26th Government]]'' &laquo;</small> &nbsp; </noinclude><span style="padding:0 4.5em">[[Government of the 30th Dáil#27th Government of Ireland|Ahern Cabinet]] (2007–2008)</span><noinclude> &nbsp; <small>&raquo; ''[[Template:28th Government of Ireland|28th Government]]'' &raquo;</small></noinclude>
+|image = 
+|state = {{{state<includeonly>|collapsed</includeonly>}}}
+|bodyclass = hlist
+
+|above = 
+* '''[[Taoiseach]]:''' [[Bertie Ahern]]
+
+|list1 = 
+* [[Dermot Ahern]]
+* [[Séamus Brennan]]
+* [[Brian Cowen]]
+* [[Mary Coughlan (politician)|Mary Coughlan]]
+* [[Martin Cullen]]
+* [[Noel Dempsey]]
+* [[John Gormley]]
+* [[Mary Hanafin]]
+* [[Mary Harney]]
+* [[Brian Lenihan Jnr|Brian Lenihan]]
+* [[Micheál Martin]]
+* [[Éamon Ó Cuív]]
+* [[Willie O'Dea]]
+* [[Eamon Ryan]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Ireland cabinet templates|Government 27]]
+</noinclude>

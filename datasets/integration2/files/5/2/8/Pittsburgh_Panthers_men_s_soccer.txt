@@ -1,0 +1,286 @@
+{{Infobox college soccer team
+|name = Pittsburgh Panthers<br>men's soccer
+|current=2020 Pittsburgh Panthers men's soccer team
+|logo = Pitt Panthers wordmark.svg
+|logo_size = 150px
+|university = University of Pittsburgh
+|conference = Atlantic Coast Conference
+|conference_short = ACC
+|founded = {{Start date and age|1954}}
+|division = 
+|city = Pittsburgh
+|stateabb = PA
+|state = Pennsylvania
+|coach =  [[Jay Vidovich]]
+|tenure = 5th
+|stadium = [[Petersen Sports Complex#Ambrose Urbanic Field|Ambrose Urbanic Field]]
+|capacity = 735
+|nickname = Panthers
+| pattern_la1= 
+|pattern_b1= 
+|pattern_ra1=
+| leftarm1=FFFFFF
+|body1=FFFFFF
+|rightarm1=FFFFFF
+|shorts1=FFFFFF
+|socks1=FFFFFF
+| pattern_la2= 
+|pattern_b2= 
+|pattern_ra2=
+| leftarm2= 003594
+|body2= 003594
+|rightarm2= 003594
+|shorts2= 003594
+|socks2= 003594
+|NCAAchampion = 
+|NCAArunnerup =
+|NCAAcollegecup =
+|NCAAeliteeight = 1962
+|NCAAsweetsixteen = 1965
+|NCAAtourneys = 1962, 1965, 2019
+|conference_season=1981, 1985, 2020
+}}
+'''Pittsburgh Panthers men's soccer''' is the [[NCAA Division I]] [[College athletics|intercollegiate]] men's [[college soccer|soccer (association football)]] team of the [[University of Pittsburgh]], often referred to as "'''Pitt'''", located in [[Pittsburgh]], [[Pennsylvania]]. The Pitt men's soccer competes in the [[Atlantic Coast Conference]] (ACC) and plays their home games at Ambrose Urbanic Field in the university's [[Petersen Sports Complex]]. Pitt soccer players have had eight selections as [[All-American]]s and multiple former Panthers have gone on to play professionally. The Panthers have appeared in two [[NCAA Division I Men's Soccer Championship|NCAA tournaments]] and have been coached by [[Jay Vidovich]] since 2015.
+
+==History==
+The Pitt men's soccer program has it origins in 1951 when [[Leo Bemis]], who was then serving as Pitt's director of men's [[intramural sports]],<ref>{{cite book|url=http://digital.library.pitt.edu/cgi-bin/t/text/pageviewer-idx?sort=datea;xc=1;g=documentingpitt;xg=1;type=simple;c=pittyearbooks;didno=1955e49702;idno=1955e49702;view=image;seq=0330|title=The 1955 Owl|year=1955|editor-first=John T.|editor-last=Caldwell Jr.|publisher=The Students of the University of Pittsburgh|chapter=Athletic Department|page=318|accessdate=August 28, 2013}}</ref> created a pick-up team at the university which played [[Slippery Rock University]] to a 1-1 draw.<ref name="O'Brienbook">{{cite book | first=Norm|last=Vargo|chapter=Leo Bemis Behind Soccer From the Start at Pitt|editor-last = O'Brien | editor-first = Jim | title = Hail to Pitt: A Sports History of the University of Pittsburgh | pages = 232–235 | year = 1982 | isbn = 0-916114-08-2 | publisher = Wolfson Publishing Co}}</ref> Through 1953, Bemis continued coaching the team which competed intercollegiately as a non-varsity [[collegiate club sports|club sport]].<ref>{{cite book|url=http://digital.library.pitt.edu/cgi-bin/t/text/pageviewer-idx?sort=datea;xc=1;g=documentingpitt;xg=1;type=simple;c=pittyearbooks;didno=1954e49702;idno=1954e49702;view=image;seq=0335|title=The 1954 Owl|editor-first=Charles|editor-last=Spurock|publisher=University of Pittsburgh|year=1954|chapter=Soccer|page=330|accessdate=August 28, 2013}}</ref> However, Bemis was able to convince then Pitt athletic director [[Tom Hamilton (American football)|Tom Hamilton]] to elevate the club team to varsity status in 1954.<ref name="O'Brienbook"/> Despite starting with no scholarships<ref>{{cite news |url=https://news.google.com/newspapers?id=oMVRAAAAIBAJ&sjid=5msDAAAAIBAJ&pg=6334%2C4284920|title=Pitt Soccer Coach Looks Ahead Despite Lack of Scholarships |first=Jimmy |last=Jordan|newspaper=Pittsburgh Post-Gazette|location=Pittsburgh, PA|date=September 26, 1958|page=18|accessdate=August 28, 2013}}</ref> and no feeder system in place to recruit players,<ref name="O'Brienbook"/> Pitt's first team went 8-1 in 1954,<ref>{{cite book|url=http://digital.library.pitt.edu/cgi-bin/t/text/pageviewer-idx?sort=datea;xc=1;g=documentingpitt;xg=1;cc=pittyearbooks;didno=1955e49702;idno=1955e49702;view=image;seq=0349|title=The 1955 Owl|year=1955|editor-first=John T.|editor-last=Caldwell Jr.|publisher=The Students of the University of Pittsburgh|chapter=Soccer|page=337|accessdate=August 28, 2013}}</ref> and by 1955, the program had its first [[All-America]]n selection, Jerome Bressanelli.<ref name="O'Brienbook"/> For the first 20 years of the program, Pitt played their games at various facilities including Trees Field, [[Forbes Field]], Kennard Field in the lower [[Hill District]] neighborhood of Pittsburgh,<ref>{{cite news|url=https://news.google.com/newspapers?id=9sZRAAAAIBAJ&sjid=3GsDAAAAIBAJ&pg=7333%2C3671835|title=Pitt Soccer Team has United Nations Flavor|first=Jimmy|last=Jordan|newspaper=Pittsburgh Post-Gazette|location=Pittsburgh, PA|page=43|date=November 22, 1956|accessdate=August 28, 2013}}</ref> and even various high schools, with occasional games played at [[Pitt Stadium]], which at the time was primarily reserved for [[Pittsburgh Panthers football|Pitt's football team]].<ref name="PittStadiumbook">{{cite book|title=Pitt Stadium Memories 1925–1999|editor-first=Sam|editor-last=Sciullo, Jr.|chapter=Soccer|first=Sean|last=Heilman|location=Pittsburgh, PA|publisher=University of Pittsburgh|pages=44–50|year=2000|asin=B0006RFHJQ}}</ref>
+
+[[File:PittSoccer1965 NCAAPittStadium.jpg|thumb|right|Pitt playing [[East Stroudsburg University of Pennsylvania|East Stoudsburg]] in muddy conditions in [[Pitt Stadium]] during the first round of the [[1965 NCAA Division I Men's Soccer Championship|1965 NCAA soccer tournament]]]]
+In 1961, the soccer program received funding to provide its first scholarships,<ref name="O'Brienbook"/> and in 1962, Pitt earned its first bid to the [[1962 NCAA Division I Men's Soccer Championship|NCAA soccer championship tournament]], where it lost to [[Maryland Terrapins men's soccer|Maryland]], 3-4.<ref>{{cite book |url=http://fs.ncaa.org/Docs/stats/m_soccer_RB/2011/D1Brackets.pdf|title=NCAA Men's Division I Championship Brackets|pages=3–5|publisher=NCAA.org|year=2011|accessdate=August 28, 2013}}</ref>  Pitt again qualified for the [[1965 NCAA Division I Men's Soccer Championship|NCAA soccer tournament championship in 1965]], but lost 0-2 on a late goal to [[East Stroudsburg University of Pennsylvania|East Stoudsburg]] in game played in muddy conditions at Pitt Stadium.<ref name="O'Brienbook"/> Beginning in 1970, Pitt began play in the Western Pennsylvania Collegiate Soccer Conference (also known as the West Penn Intercollegiate Soccer Conference, or WPISC),<ref>{{cite news|url=https://news.google.com/newspapers?id=ouIeAAAAIBAJ&sjid=v1YEAAAAIBAJ&pg=6930%2C1753460|title=Soccer Stars Collide at Pitt|newspaper=The Pittsburgh Press|location=Pittsburgh, PA|date=November 21, 1976|page=D-4|accessdate=August 28, 2013}}</ref> a conference that Leo Bemis helped to found and in which he would eventually lead Pitt to a conference championship in 1981.<ref name="O'Brienbook"/><ref>{{cite news|url=https://news.google.com/newspapers?id=XuEhAAAAIBAJ&sjid=-V4EAAAAIBAJ&pg=4663%2C381961|title=Pitt's Soccer Coach Sends Program on a Youth Kick|first=Tom|last=Wheatley|newspaper=The Pittsburgh Press|location=Pittsburgh, PA|page=S-14|date=September 16, 1982|accessdate=August 28, 2013}}</ref> When Pitt Stadium had [[artificial turf]] installed in 1970 and flood lighting installed in 1973, the soccer team began regularly playing its home games in the stadium, which remained its home through the 1990s.<ref name="PittStadiumbook"/>
+
+After a 30-year tenure as head coach, Bemis was succeeded in 1984 by [[Joe Luxbacher]], a former standout player and captain for the program who also served as an assistant under Bemis.<ref name="Lux">{{cite news|url=https://news.google.com/newspapers?id=vsdaAAAAIBAJ&sjid=p20DAAAAIBAJ&pg=3953%2C3840572|title=Luxbacher succeeds Bemis|newspaper=Pittsburgh Post-Gazette|date=February 16, 1984|location=Pittsburgh, PA|accessdate=August 28, 2013}}</ref> Pitt moved from the West Penn conference to the [[Big East Conference (1979–2013)|Big East Conference]] for the 1985 season.<ref>{{cite news|url=https://news.google.com/newspapers?id=AlQNAAAAIBAJ&sjid=HW4DAAAAIBAJ&pg=6503%2C2910590|title=Luxbacher tackles job of rebuilding Pitt soccer program|first=Paul|last=Dangelo|newspaper=Pittsburgh Post-Gazette South|date=June 14, 1984|page=12|volume=5|number=13|accessdate=August 28, 2013}}</ref> In that first season in the Big East, Pitt finished atop the Big East South Division with an undefeated 4-0 record<ref>{{cite book|url=http://digital.library.pitt.edu/cgi-bin/t/text/pageviewer-idx?c=pittyearbooks;idno=31735038311407;cc=pittyearbooks;rgn=full%20text;didno=31735038311407;view=image;seq=259;node=31735038311407%3A1.9|chapter=Teamwork is the Key|first=Teresa|last=Varley|page=255|title=1986 Panther Prints|year=1986|publisher=University of Pittsburgh|accessdate=August 28, 2013}}</ref> and appeared in the 1985 Big East Tournament where they lost their first game eventual Big East tournament champion [[Syracuse Orange men's soccer|Syracuse]].  Pitt followed that with a second place in the South Division in 1986. Pitt would also finish second in the regular season conference standings in 1992 and 1995, years when the Big East was not broken into divisions, with Luxbacher winning Big East Coach of the Year in each of those seasons.<ref name="BEMediaGuide">{{cite book|archiveurl=https://web.archive.org/web/20130326021152/http://www.bigeast.org/Sports/MensSoccer/2012MensSoccerMediaGuide.aspx|url=http://www.bigeast.org/Sports/MensSoccer/2012MensSoccerMediaGuide.aspx|archivedate=March 26, 2013|title=2012 Big East Men's Soccer Media Guide|first=Sara|last=Naggar|publisher=Big East Conference|year=2012|pages=47–57|accessdate=August 28, 2013}}</ref> While a member of the Big East, Pitt would advance to the Big East soccer tournament six times, including in 1995, when an injury riddled team<ref>{{cite news|url=https://news.google.com/newspapers?id=Kq9RAAAAIBAJ&sjid=qG4DAAAAIBAJ&pg=6731%2C913988|title=Pitt soccer team fails in first shot at mark|first=Shelly|last=Anderson|newspaper=Pittsburgh Post-Gazette|location=Pittsburgh, PA|date=November 2, 1995|accessdate=August 28, 2013}}</ref> set a program record for number of wins, including victories over 11th-ranked [[St. John's Red Storm men's soccer|St. John's]] and 4th-ranked [[Rutgers Scarlet Knights men's soccer|Rutgers]].<ref name="PittStadiumbook"/> The 1995 team lost in the Big East tournament championship game to St. John's,<ref name="BEMediaGuide"/> but finished the season ranked 22nd in the nation in the final Coaches' Poll.<ref>{{cite book|url=http://fs.ncaa.org/Docs/stats/m_soccer_RB/2013/d1.pdf|title=2013 NCAA Division I Men's Soccer Records|chapter=Final Coaches' Polls|publisher=National Collegiate Athletic Association|page=16|year=2013|accessdate=August 27, 2013}}</ref>
+
+[[File:PeteSportsComplexBuilding.jpg|thumb|right|The [[Petersen Sports Complex]] is the home to Pitt soccer]]
+Following the demolition of Pitt Stadium in 1999, the soccer team moved its games to various locations, but primarily played home games at Founder's Field in [[Harmarville, Pennsylvania]], an off-campus venue.<ref>{{cite news|url=http://triblive.com/x/pittsburghtrib/sports/college/pitt/s_696067.html|title=Pitt sports complex to be ready next spring|first=Jerry|last=DiPaola|newspaper=Pittsburgh Tribune-Review|date=August 23, 2010|accessdate=August 28, 2013}}</ref> The program returned to campus when it moved into the [[Petersen Sports Complex]], which houses the Ambrose Urbanic Field soccer facility, in the spring of 2011.<ref>{{cite news | url=http://triblive.com/x/pittsburghtrib/sports/s_731025.html | title=Pitt antes up on facilities for other university sports | first=Jerry | last=DiPaola | newspaper=Pittsburgh Tribune-Review | date=April 7, 2011 | accessdate=August 27, 2013}}</ref> Ambrose Urbanic Field, which serves as both the practice and competition venue for the Pitt soccer team, contains 735 seats and a [[FIFA]]-certified "[[FieldTurf|Duraspine]]" pitch.<ref name="OSCbrochure">{{citation | url=http://grfx.cstv.com/photos/schools/pitt/genrel/auto_pdf/OSCBrochure092409.pdf | title=The Olympic Sports Complex: Only Big Dreams | publisher=University of Pittsburgh | year=2009 | accessdate=2010-05-03}}</ref> The first game held at the soccer facility was an exhibition played by the men's team against the [[Pittsburgh Riverhounds]] on March 20, 2011.<ref>{{cite web | url=http://www.pittsburghpanthers.com/sports/m-soccer/recaps/032111aaa.html | title=Men's Soccer Sees First Action At Petersen Sports Complex | publisher=PittsburghPanthers.com | date=2011-03-21 | accessdate=2011-03-21}}</ref> The team also uses the on-campus [[Cost Sports Center]] for indoor practice during inclement weather.<ref>{{cite book|url=http://issuu.com/greghotchkiss/docs/pittmediaguide2012/24|title=2012-13 Pitt Commons Section|page=C26|editor-first=Greg|editor-last=Hotchkiss|publisher=University of Pittsburgh Department of Athletics Media Relations Office|year=2012|accessdate=August 28, 2013}}</ref>
+
+In 2013, Pitt moved to the [[Atlantic Coast Conference]] (ACC), bringing the Panthers into another historically strong league with 15 national championships in men's soccer.<ref>{{cite news|url=http://triblive.com/sports/college/pitt/4542743-74/acc-pitt-soccer|title=Pitt soccer prepares for rigors of ACC|first=Jeff|last=Vella|newspaper=Pittsburgh Tribune-Review|date=August 21, 2013|accessdate=August 27, 2013}}</ref> Luxbacher retired as coach following the 2015 season.<ref>{{cite web|url=http://www.pittsburghpanthers.com/sports/m-soccer/spec-rel/110315aac.html|title=Joe Luxbacher Retires as Pitt Men's Soccer Coach|date=November 3, 2015|publisher=PittsburghPanthers.com|accessdate=December 4, 2015}}</ref> [[Jay Vidovich]], a former national collegiate coach of the year, was hired as Pitt's head soccer coach in 2015,<ref>{{cite web|url=http://www.pittsburghpanthers.com/sports/m-soccer/spec-rel/120415aaa.html|title=Barnes Taps Vidovich As New Pitt Men's Soccer Coach|publisher=PittsburghPanthers.com|date=December 4, 2015|accessdate=December 4, 2015}}</ref> and led Pitt to a top 25 ranking<ref>{{cite web|url=https://unitedsoccercoaches.org/rankings/college-rankings/ncaa-di-men/|title=Top 25 NCAA DI Men — National - Poll 11|website=United Soccer Coaches|date=November 12, 2019|accessdate=November 18, 2019}}</ref> and an NCAA tournament appearance in 2019.<ref>{{cite web|url=https://pittsburghsoccernow.com/2019/11/18/pitt-is-in-panthers-earn-at-large-bid-to-ncaa-tournament-will-host-lehigh-in-1st-round-on-thursday/|title=Pitt is in! Panthers earn at-large bid to NCAA tournament, will host Lehigh in 1st Round on Thursday|website=Pittsburhg Soccer Now|date=November 18, 2019|accessdate=November 18, 2019}}</ref>
+
+==Awards and honors==
+
+===All-Americans===
+Pitt has had six different players and eight all-time [[All-America]]n selections.<ref>{{cite book|url=http://grfx.cstv.com/photos/schools/pitt/sports/m-soccer/auto_pdf/2013-14/misc_non_event/PittSoccerHistory.pdf|title=Pitt Soccer Records & History|publisher=University of Pittsburgh Athletic Media Relations Office|page=7|year=2013|accessdate=August 27, 2013}}</ref>
+*1955 Jerome Bressanelli, halfback
+*1956 Jerome Bressanelli, halfback
+*1958 Ronald Wyatt, fullback
+*1959 Ronald Wyatt, fullback
+*1959 George Zanicoupolous, goalkeeper
+*1962 Paul Liberati, left halfback
+*1963 Dave Reichenbach, outside left
+*1965 George N.J. Sommer, III, left halfback
+
+===Big East honors===
+[[File:PittSoccer2019NCAA.jpg|thumb|right|Pitt soccer at Georgetown in the second round of the [[2019 NCAA Division I Men's Soccer Tournament]]]]
+Pitt played soccer as a member of the [[Big East Conference (1979–2013)|Big East Conference]] from 1985 to 2012. During this time, Pitt's Joe Luxbacher won the Big East Coach of the Year award twice, Ben Garry was named to the Big East All-Rookie team, and Pitt had seven other All-Big East Team selections.<ref name="BEMediaGuide"/> Players all garnered multiple Big East Scholar-Athlete Awards with over 100 players being named Big East Academic All-Stars.<ref>{{cite book|url=http://grfx.cstv.com/photos/schools/pitt/sports/m-soccer/auto_pdf/2011-12/misc_non_event/msoccerhistory.pdf|title=2011-12 Pitt Men's Soccer History|publisher=University of Pittsburgh Department of Athletics Media Relations Office|year=2011|accessdate=August 28, 2013}}</ref>
+
+{{col-begin|width=90%}}
+{{col-3}}
+*'''Coach of the Year'''<ref name="BEMediaGuide"/>
+:[[Joe Luxbacher]], 1992
+:Joe Luxbacher, 1995
+&nbsp;
+
+*'''All-Rookie Team'''<ref name="BEMediaGuide"/>
+*Ben Garry, 1997
+
+{{col-3}}
+*'''All-Big East Team selections'''<ref name="BEMediaGuide"/>
+:Charlie Wasson, B, Second Team, 1993
+:Jeff Porter, M, Second Team, 1995
+:Chris Churchill, B, Second Team, 2000
+:Ben Gary, M, Second Team, 2000
+:Justin Gaul, GK, Third Team, 2002
+:Keeyan Young, F, Second Team, 2003
+:Keeyan Young, F, Second Team, 2004
+
+{{col-3}}
+*'''Scholar-Athlete Award winners'''<ref name="BEMediaGuide"/>
+:Peter Veltri, 2001-02
+:Jacob Kring, 2004-05
+:Thomas DeCato, 2005-06
+:Brendon Smith, 2006-07
+:[[Matthew Baker (soccer)|Matt Baker]], 2009-10 
+{{col-end}}
+
+==Players==
+
+===Professional players===
+Pitt has had at least 22 former soccer players go on to play professionally.<ref name="pros">{{cite book|url=http://grfx.cstv.com/photos/schools/pitt/sports/m-soccer/auto_pdf/2013-14/misc_non_event/PittSoccerHistory.pdf|title=Pitt Soccer Records & History|publisher=University of Pittsburgh Athletic Media Relations Office|page=8|year=2013|accessdate=August 27, 2013}}</ref>
+
+{| | class="wikitable collapsible" cellpadding="0" border="0" cellspacing="0" width="90%"
+! colspan="2" style="background:#192857; color:white" | <span style="color:white;">Panthers in the Pros</span>
+|-  style="vertical-align:top; background:white;"
+|
+{| cellpadding="4" border="0" cellspacing="0" style="width:100%;"
+! style="background:#192857; border:0; text-align:left;"| <span style="color:white;">Name</span>
+! style="background:#192857; border:0; text-align:left;"| <span style="color:white;">Team(s)</span>
+! style="background:#192857; border:0; text-align:left;"| <span style="color:white;">Year(s)</span>
+|-
+|Dan Lynd 
+| [[Rochester Rhinos]] || 2016
+|-
+| [[Matthew Baker (soccer)|Matt Baker]] 
+| [[Pittsburgh Riverhounds]]<br>[[Reading United A.C.]] || 2010<br>2011-12<ref>{{cite web|url=http://www.uslsoccer.com/teams/2013/22373.html#ROSTER|title=Reading United AC: Team Roster|publisher=USLSoccer.com|accessdate=August 28, 2013|url-status=dead|archiveurl=https://web.archive.org/web/20130910083200/http://www.uslsoccer.com/teams/2013/22373.html#ROSTER|archivedate=September 10, 2013}}</ref>
+|-
+|Eric Barnes 
+| [[Pittsburgh Riverhounds]] || 2009
+|-
+|Reagen Bender 
+| [[Hershey Wildcats]] || 2001-02
+|-
+| [[Frank Bucci]] 
+| [[Connecticut Yankees (soccer)|Connecticut Yankees]]<br>[[Pittsburgh Spirit]]<br>[[Denver Avalanche]] || 1978<ref name="Bucci">{{cite web |url=http://www.nasljerseys.com/MISL/Players/B/Bucci.Frank.htm|title=Major Indoor Soccer League Players: Frank Bucci|publisher=Dave Morrison|accessdate=August 28, 2013}}</ref><br>1978-80<br>1980-81<ref name="Bucci"/>
+|-
+| Ben Garry 
+| [[Pittsburgh Riverhounds]] || 2001-02
+|-
+|Bill Haines 
+|[[Pittsburgh Miners]] || 1975
+|-
+|Matt Langton 
+| [[Pittsburgh Riverhounds]] || 2008-09<ref>{{cite web|url=http://www.riverhounds.com/pro/Roster/317228.html|title=14 Matt Langton|publisher=Pittsburgh Riverhounds|accessdate=August 28, 2013|url-status=dead|archiveurl=https://web.archive.org/web/20120222054625/http://www.riverhounds.com/pro/Roster/317228.html|archivedate=February 22, 2012}}</ref>
+|-
+| Denny Kohlmeyer 
+| [[Pittsburgh Miners]]<br>[[Pittsburgh Stingers]] || 1975<br>Asst. Coach 1994-95
+|-
+|Drew Kopp 
+| [[Hershey Wildcats]] ||1999-01
+|-
+|Travis Kruse 
+|[[Pittsburgh Riverhounds]] || 2000-01
+|-
+| [[Joe Luxbacher]]
+|[[Philadelphia Atoms]]<br>[[Pittsburgh Miners]]<br>[[Pittsburgh Spirit]] ||1974-75<br>1975-76<br>1977-78,<ref name="Lux"/> 1979-81
+|}
+|  style="text-align:left; vertical-align:top;"|
+{| cellpadding="4" border="0" cellspacing="0" style="width:100%;"
+! style="background:#192857; border:0; text-align:left;"| <span style="color:white;">Name</span>
+! style="background:#192857; border:0; text-align:left;"| <span style="color:white;">Team(s)</span>
+! style="background:#192857; border:0; text-align:left;"| <span style="color:white;">Year(s)</span>
+|-
+|Phil Matilla 
+| [[Reading Rage]] || 2001
+|-
+| Mark Nigh<ref name="O'Brienbook"/>
+| [[Pennsylvania Stoners]] || 1980<ref>{{cite web|url=http://lvironpigs.wordpress.com/|title=Oh, What A Nwokocha!|work=Pennsylvania Stoners Official Line-Up Card June 15, 1980|date=June 15, 2013|accessdate=August 28, 2013}}</ref>
+|-
+| Ted Noethling 
+| [[Pittsburgh Stingers]]||1994
+|-
+| [[John O'Hara (soccer, born 1959)|John O'Hara]] 
+| [[Pennsylvania Stoners]]<br>[[Pittsburgh Spirit]]<br> [[Cleveland Force (1978–1988)|Cleveland Force]] ||1978<br>1979-81<br>1980-81
+|-
+| Heinz Pak 
+| [[Pittsburgh Stingers]] || 1994
+|-
+| Eric Prex 
+| [[Pittsburgh Stingers]] || 1995
+|-
+| Bill Rex 
+| [[Pittsburgh Miners]] || 1975
+|-
+| Art Richardson 
+| [[Pittsburgh Canons]]<br>[[Pittsburgh Miners]]  ||1973<br>1975
+|-
+|Todd Smith 
+| [[Fort Wayne Flames]] || 1988<ref>{{cite news|url=https://news.google.com/newspapers?nid=1129&dat=19891005&id=2OZRAAAAIBAJ&sjid=Ym4DAAAAIBAJ&pg=6677,1580066|title=Can Pitt soccer team help Mike Blatz reach his goal?|first=Paul|last=Dangelo|newspaper=Pittsburgh Post-Gazette|date=October 5, 1989|page=18|accessdate=August 27, 2013}}</ref>
+|}
+|-
+| colspan="2" style="text-align:center;"| <span style="color:#192857;"> Ref:<ref name="pros"/> unless otherwise noted.
+|}
+
+===Current squad===
+
+Updated October 28, 2020<ref>{{cite web |title=2020 Men's Soccer Roster |url=https://pittsburghpanthers.com/sports/mens-soccer/roster/2020 |website=pittsburghpanthers.com |publisher=University of Pittsburgh Athletics|accessdate=October 28, 2020}}</ref>
+
+{{fs start}}
+{{fs player |no=0  |nat=ESP |pos=GK |name=Nico Campuzano}}
+{{fs player |no=1  |nat=USA |pos=GK |name=Alexander Steinbach}}
+{{fs player |no=2  |nat=GER |pos=DF |name=Jasper Löeffelsend}}
+{{fs player |no=3  |nat=FRA |pos=DF |name=Raphaël Crivello}}
+{{fs player |no=4  |nat=USA |pos=DF |name=Bryce Washington}}
+{{fs player |no=5  |nat=ESP |pos=DF |name=Arturo Ordoñez}}
+{{fs player |no=6  |nat=MAR |pos=MF |name=Anass Amrani}}
+{{fs player |no=7  |nat=MEX |pos=MF |name=Luis Lara}}
+{{fs player |no=8  |nat=FRA |pos=MF |name=Valentin Noel}}
+{{fs player |no=10 |nat=FRA |pos=FW |name=Bertin Jacquesson}}
+{{fs player |no=11 |nat=BRA |pos=MF |name=Rodrigo Almeida}}
+{{fs player |no=12 |nat=USA |pos=FW |name=Brandon Clagette}}
+{{fs player |no=13 |nat=USA |pos=FW |name=Alexander Dexter}}
+{{fs player |no=14 |nat=ESP |pos=DF |name=Sito Sena}}
+{{fs mid}}
+{{fs player |no=15 |nat=USA |pos=FW |name=Luke Mort}}
+{{fs player |no=16 |nat=USA |pos=DF |name=Lucas Matuszewski}}
+{{fs player |no=17 |nat=ENG |pos=MF |name=Louis Spicer}}
+{{fs player |no=18 |nat=JPN |pos=MF |name=Soshun Shigaki}}
+{{fs player |no=19 |nat=SRB |pos=MF |name=Veljko Petkovic}}
+{{fs player |no=20 |nat=USA |pos=MF |name=Matt Bailey}}
+{{fs player |no=21 |nat=SRB |pos=MF |name=Filip Mirkovic}}
+{{fs player |no=22 |nat=USA |pos=DF |name=Sebastian Serpa}}
+{{fs player |no=23 |nat=BRA |pos=DF |name=Vinicius Belon}}
+{{fs player |no=24 |nat=SUI |pos=MF |name=Jackson Walti}}
+{{fs player |no=25 |nat=USA |pos=FW |name=Luke Peperak}}
+{{fs player |no=26 |nat=USA |pos=DF |name=Dominic Reiter}}
+{{fs player |no=27 |nat=USA |pos=DF |name=Anthony Harding}}
+{{fs player |no=28 |nat=USA |pos=MF |name=Nathan Stricker}}
+{{fs end}}
+
+==Coaching staff==
+[[File:Leo Bemis.jpg|thumb|right|upright|[[Leo Bemis]] founded soccer as a varsity sport at Pitt]]
+
+===Current technical staff===
+{| class="wikitable"
+! Position !! Staff
+|-
+| Athletic Director || [[Heather Lyke]]
+|-
+| Head Coach || [[Jay Vidovich]]
+|-
+| Assistant Coach || Michael Behonick
+|-
+| Assistant Coach|| Rich Costanzo
+|}
+
+Source:<ref name="auto">{{cite web |title=2019 Men's Soccer Roster |url=https://pittsburghpanthers.com/sports/mens-soccer/roster/2019 |website=pittsburghpanthers.com |publisher=University of Pittsburgh Athletics|accessdate=August 20, 2019}}</ref>
+
+===Head coaches===
+{{updated|November 26, 2019}} <ref>{{cite web |url=http://grfx.cstv.com/photos/schools/pitt/sports/m-soccer/auto_pdf/2013-14/misc_non_event/PittSoccerHistory.pdf |title=Pitt Soccer Records & History |publisher= University of Pittsburgh |accessdate=July 12, 2013 }}</ref>
+{| class="wikitable" <!-- sortable --> style="text-align: center"
+|-
+!Name!!Nationality!!From!!class="unsortable"|To!!P!!W!!L!!D!!class="unsortable"|Honours
+|-
+|align=left|[[Leo Bemis]]
+|{{flagicon|United States}}
+|align=left|1954
+|align=left|1983
+|355||166||163||26
+|
+|-
+|align=left|[[Joe Luxbacher]]
+|{{flagicon|United States}}
+|align=left|1984
+|align=left|2015
+|560||224||267||69
+|1992 Big East Coach of the Year
+1995 Big East Coach of the Year <ref>{{cite web |url=http://www.pittsburghpanthers.com/sports/m-soccer/mtt/joe_luxbacher_46320.html |title=Joe Luxbacher Profile |publisher= University of Pittsburgh |accessdate=July 12, 2013 }}</ref>
+|-
+|align=left|[[Jay Vidovich]]
+|{{flagicon|United States}}
+|align=left|2015
+|align=left|''Present''
+|75||28||41||6
+|<ref>{{cite web |url=http://www.pittsburghpanthers.com/sports/m-soccer/mtt/jay_vidovich_994650.html |title=Jay Vidovich Profile |publisher= University of Pittsburgh |accessdate=December 4, 2015 }}</ref>
+|-
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{official website|http://www.pittsburghpanthers.com/sports/m-soccer/}}
+
+{{University of Pittsburgh}}
+{{Atlantic Coast Conference men's soccer navbox}}
+
+[[Category:Pittsburgh Panthers men's soccer| ]]
+[[Category:Association football clubs established in 1954]]
+[[Category:1954 establishments in Pennsylvania]]

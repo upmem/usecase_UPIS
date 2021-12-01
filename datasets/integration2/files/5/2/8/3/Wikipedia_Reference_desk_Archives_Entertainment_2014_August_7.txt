@@ -1,0 +1,69 @@
+<noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Entertainment|Entertainment desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Entertainment/2014 August 6|August 6]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Entertainment/July 2014|Jul]] | [[Wikipedia:Reference desk/Archives/Entertainment/August 2014|August]] | [[Wikipedia:Reference desk/Archives/Entertainment/September 2014|Sep]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Entertainment/2014 August 8|[[Wikipedia:Reference desk/Archives/Entertainment/2014 August 8|August 8]]|[[Wikipedia:Reference desk/Entertainment|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Entertainment Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Entertainment/2014 August 17|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= August 7 =
+
+== Lambeth Walk-Bristol Stomp ==
+
+The[[The Lambeth Walk]] was a dance of 1937 which had a strong "1-2-123" rhythm. It was used by British propagandists to [http://publicdomainreview.org/collections/lambeth-walk-nazi-style-1942/ make fun of German goose-stepping].  Was it the basis for the [https://www.youtube.com/watch?v=POwJNsb7g64 "Bristol Stomp"] by the Dovells in 1961? [[User:Edison|Edison]] ([[User talk:Edison|talk]]) 03:25, 7 August 2014 (UTC)
+
+== Popularity of different sports ==
+
+Given the huge popularity of [[association football]] around the globe (as could be seen at this year's World Cup for instance) and the number of countries engaged in winter sports, how come the winter equivalent of football, namely [[bandy]], is not as popular? [[User:Irony iron|Irony iron]] ([[User talk:Irony iron|talk]]) 06:53, 7 August 2014 (UTC)
+:Looks more like (ice) hockey played with a ball instead of a puck. ←[[User:Baseball Bugs|Baseball Bugs]] <sup>''[[User talk:Baseball Bugs|What's up, Doc?]]''</sup> [[Special:Contributions/Baseball_Bugs|carrots]]→ 07:27, 7 August 2014 (UTC)
+::Perhaps so, but the rules are much more like the rules of association football and the pitch is the same size. Bandy is a much quicker game than ice hockey. [[User:Irony iron|Irony iron]] ([[User talk:Irony iron|talk]]) 09:33, 8 August 2014 (UTC)
+:::How fast can a bandy skater get from one end of the rink to the other? ←[[User:Baseball Bugs|Baseball Bugs]] <sup>''[[User talk:Baseball Bugs|What's up, Doc?]]''</sup> [[Special:Contributions/Baseball_Bugs|carrots]]→ 10:11, 8 August 2014 (UTC)
+::::That's an interesting question, [[User:Baseball Bugs|Baseball Bugs]]. I did some math. The bandy rink is 300–360 ft long and a bandy player can come up in speeds exceeding 20 mph, so it doesn't take long, about 10-20 seconds perhaps, given that it takes some time to reach that speed too. [[User:Irony iron|Irony iron]] ([[User talk:Irony iron|talk]]) 12:45, 13 August 2014 (UTC)
+:::::They can go from one end of a hockey rink to the other in under 10 seconds. So hockey is faster than this bandy. ←[[User:Baseball Bugs|Baseball Bugs]] <sup>''[[User talk:Baseball Bugs|What's up, Doc?]]''</sup> [[Special:Contributions/Baseball_Bugs|carrots]]→ 17:43, 13 August 2014 (UTC)
+::::::Not really, [[User:Baseball Bugs|Baseball Bugs]], since a [[ice hockey rink|hockey rink]] is much smaller than a [[bandy field]]. Bandy skates allow for quicker speeds than ice hockey skates. [[User:Irony iron|Irony iron]] ([[User talk:Irony iron|talk]]) 14:58, 14 August 2014 (UTC)
+
+:Anyone can play association football with little or no real equipment.  "Jumpers for goalposts" and a ball are all that most require to have a game.  Bandy has environmental requirements, equipment requirements and isn't the sort of the thing that you could just turn up and play in the middle of a playing field. [[User:The Rambling Man|The Rambling Man]] ([[User talk:The Rambling Man|talk]]) 07:31, 7 August 2014 (UTC)
+::True, but the same can be said about many other sports too, like ice hockey. Actually, you just need skates and sticks, then you pour water on the football field in the winter time so it freezes and you have all what it takes to play bandy. Most people already have skates, don't they? [[User:Irony iron|Irony iron]] ([[User talk:Irony iron|talk]]) 09:33, 8 August 2014 (UTC)
+:In Europe, Association football is considered a winter sport itself.  [[User:Rojomoke|Rojomoke]] ([[User talk:Rojomoke|talk]]) 12:02, 7 August 2014 (UTC)
+::No, it is not. A sport is not a winter sport just because it is played in the winter time, a winter sport is played on snow or ice. [[User:Irony iron|Irony iron]] ([[User talk:Irony iron|talk]]) 09:33, 8 August 2014 (UTC)
+:::Where I come from, basketball is a winter sport, and is seldom played on snow or ice. ←[[User:Baseball Bugs|Baseball Bugs]] <sup>''[[User talk:Baseball Bugs|What's up, Doc?]]''</sup> [[Special:Contributions/Baseball_Bugs|carrots]]→ 10:10, 8 August 2014 (UTC)
+
+:[[Mixed martial arts]] is rapidly approaching (but still a fair deal behind) soccer, as far as [[sport in Brazil]] goes. Even simpler to set up. Just need gloves and a referee, basically (a cage helps if you plan on turning pro). Two teams of soccer players whose ball pops can easily transition to a <s>seven</s> eleven-bout card, with the <s>22nd guy playing the ref and the</s> soccer ref becoming <s>promoter (or ring girl or something)</s> fight ref.
+
+:Soccer practice also naturally helps the MMA game. Just ask all the challengers UFC Featherweight Champion [[Jose Aldo]] has [http://www.foxsports.com/ufc/haymaker/ricardo-lamas-posts-picture-of-bruised-leg-thanks-to-jose-aldo-s-kicks-020614 kicked aside.] Good cardio training, too. [[User:InedibleHulk|InedibleHulk]] [[User_Talk:InedibleHulk|(talk)]] 10:23, 8 August 2014 (UTC)
+
+:I just have to bring this up, something Keith Olbermann said on a Letterman rerun last night: "Soccer is the sport of the future in America... ''and always will be.''" If that sounds short-sighted, his source for that quote was a writer in the 1960s or 1970s. ←[[User:Baseball Bugs|Baseball Bugs]] <sup>''[[User talk:Baseball Bugs|What's up, Doc?]]''</sup> [[Special:Contributions/Baseball_Bugs|carrots]]→ 16:45, 9 August 2014 (UTC)
+
+== Defensive wall in [[association football]] ==
+
+Why don't [[association football]] players put their hands up when forming a defensive wall? Is it against the rules? I get that male players might want to protect their nether regions, but when I searched for pictures of women's association football games they just link their arms together.[[User:WinterWall|WinterWall]] ([[User talk:WinterWall|talk]]) 07:45, 7 August 2014 (UTC)
+:See [[Fouls and misconduct (association football)#Direct free kick offences|handball]]. '''[[User:Bzweebl|<font color="#D60047">B</font><font color="#F0A000">zw</font><font color="#00A300">ee</font><font color="#0A47FF">bl</font>]]'''  ([[User talk:Bzweebl|talk]] • [[Special:Contributions/Bzweebl|contribs]]) 07:48, 7 August 2014 (UTC)
+
+:<s>What's the penalty for touching the ball with the hands? A penalty kick maybe? If so, it's pretty obvious that you wouldn't want to put your hands up to block a kick.</s> [Looks like.] ←[[User:Baseball Bugs|Baseball Bugs]] <sup>''[[User talk:Baseball Bugs|What's up, Doc?]]''</sup> [[Special:Contributions/Baseball_Bugs|carrots]]→ 07:52, 7 August 2014 (UTC)
+
+:There's nothing stopping them from putting their hands up but as Bzweebl has indicated, this would vastly increase the likelihood of the ball striking a hand which would result in another free kick further up the pitch, or a penalty, and possibly a sending off of the defender in question. Goalkeepers often put their hands up when they are facing a penalty as obviously they are exempt from the idea of handball as long as they are within their area. [[User:The Rambling Man|The Rambling Man]] ([[User talk:The Rambling Man|talk]]) 07:53, 7 August 2014 (UTC)
+
+Thanks, you three.[[User:WinterWall|WinterWall]] ([[User talk:WinterWall|talk]])
+{{Resolved}}
+
+== 90s PC game casting question ==
+
+There was a time in the mid-1990s when game developers decided the coolest thing they could do with the relatively new (or newly widespread, anyway) technology of [[CD-ROM]]s was to take all of a game's exposition and non-gameplay-dependent storytelling and put it all into [[cutscenes]] which they filmed with live actors.  [[Myst]] was the first game I saw that did this; but [[Wing Commander 3]] was the first game I saw that went out of its way to get the very best actors they could.  [[Mark Hamill]] starred, and [[John Rhys-Davies]] and [[Malcolm McDowell]] both had substantial supporting roles.  My question is this: what game had the biggest name-recognition cast?  I hate that phrase "star-studded," but I guess that's what I'm asking.  Now I'm not interested in voice acting, I'm asking about instances where a film crew actually created sets and shot the scenes on film or video, with actors in costume and having to learn the script as though they were shooting a movie, and ''acting'' (not simply recording lines to stuff in the mouths of virtual characters or avatars).  Can anyone top [[Privateer 2: The Darkening]] ([http://www.imdb.com/title/tt0117391/fullcredits/ iMDB]) ([[Clive Owen]] starred, with [[Christopher Walken]], [[Jürgen Prochnow]], [[David Warner (actor)|David Warner]], and [[John Hurt]] each clocking several minutes of screen time)?  <span style="font-family:Garamond;">[[User:Zenswashbuckler|<font color="#000">☯.'''Zen'''</font>]][[User_talk:Zenswashbuckler|<font color="#a00">'''Swashbuckler'''</font>]][[Special:Contributions/Zenswashbuckler|<font color="#000">.☠]]</font></span> 14:52, 7 August 2014 (UTC)
+
+:<s>Well, I'm sure it all depends on which stars you define to be "bigger" than others, but ''[[Steven Spielberg's Director's Chair]]'' is certainly up there; along with da spielz there's Tarantino, Jennifer Anniston <b>''[[User:HelicopterLlama|<span style="font-family:Monotype Corsiva;color:black">~Helicopter</span>]] [[User talk:HelicopterLlama|<span style="font-family:Monotype Corsiva;color:black">Llama~</span>]]''</b> 15:23, 7 August 2014 (UTC)</s> actually a lot of them only did voices sorry
+::That's interesting, though, I'd never heard of that one.  I mainly wanted to avoid a slew of responses like "Well, the [[Grand Theft Auto]] franchise has everyone from [[Ray Liotta]] to [[Samuel L. Jackson|Sam Jackson]] to [[Burt Reynolds]] to [[Ice-T]] reading lines, and the [[Halo]] games have cast members from every TV sci-fi show you can think of!"  While I remain mostly concerned with full video, little gems like that one are worth mentioning.  Thanks.  <span style="font-family:Garamond;">[[User:Zenswashbuckler|<font color="#000">☯.'''Zen'''</font>]][[User_talk:Zenswashbuckler|<font color="#a00">'''Swashbuckler'''</font>]][[Special:Contributions/Zenswashbuckler|<font color="#000">.☠]]</font></span> 16:02, 7 August 2014 (UTC)
+:::''[[Night Trap]]'' had [[Dana Plato]], and [[Corey Haim]] was in another Sega CD one. [[User:InedibleHulk|InedibleHulk]] [[User_Talk:InedibleHulk|(talk)]] 16:22, 7 August 2014 (UTC)
+:::''[[Double Switch (video game)|Double Switch]]''. Corey Feldman wasn't there, but [[Deborah Harry]] was, and quite a few others with Wikipedia articles. [[User:InedibleHulk|InedibleHulk]] [[User_Talk:InedibleHulk|(talk)]] 16:25, 7 August 2014 (UTC)
+:::<small>And yes, I realize that wasn't technically a PC. But at the time, using CD-ROMs basically meant you weren't a console, either. The lines were blurry back then, onscreen and off. [[User:InedibleHulk|InedibleHulk]] [[User_Talk:InedibleHulk|(talk)]] 17:07, 7 August 2014 (UTC) </small>
+:::actually as i look back on my response it looks like spielberg, as well as magic duo penn & teller did live action <b>''[[User:HelicopterLlama|<span style="font-family:Monotype Corsiva;color:black">~Helicopter</span>]] [[User talk:HelicopterLlama|<span style="font-family:Monotype Corsiva;color:black">Llama~</span>]]''</b> 17:51, 8 August 2014 (UTC)

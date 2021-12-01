@@ -1,0 +1,91 @@
+{{Use dmy dates|date=July 2018}}
+{{Use Indian English|date=July 2018}}
+{{Orphan|date=May 2016}}
+{{unreferenced|date=May 2016}}
+
+{{Infobox settlement
+| name                    = Khothanwali
+| other_name              = 31 MOD
+| nickname                = 
+| settlement_type         = Village
+| image_skyline           = 
+| image_alt               = 
+[[thumbnail]]
+| image_caption           = 
+| pushpin_map             = India Rajasthan#India
+| pushpin_label_position  = right
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location in Rajasthan, India
+| coordinates             = {{coord|29.63|N|73.92|E|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[India]]
+| subdivision_type1       = [[States and territories of India|State]]
+| subdivision_name1       = [[Rajasthan]]
+| subdivision_type2       = [[List of districts of India|District]]
+| subdivision_name2       = [[Hanumangarh district|Hanumangarh]]
+| established_title       = <!-- Established -->
+| established_date        = 
+| founder                 = 
+| named_for               = 
+| government_type         = 
+| governing_body          = 
+| unit_pref               = Metric
+| area_footnotes          = 
+| area_rank               = 
+| area_total_km2          = 
+| elevation_footnotes     = 
+| elevation_m             = 176
+| population_total        = 2522
+| population_as_of        = 2011
+| population_rank         = 
+| population_density_km2  = auto
+| population_demonym      = 
+| population_footnotes    = 
+| demographics_type1      = Languages
+| demographics1_title1    = Official
+| demographics1_info1     = [[Hindi language|Hindi]]
+| timezone1               = [[Indian Standard Time|IST]]
+| utc_offset1             = +5:30
+| postal_code_type        = [[Postal Index Number|PIN]]
+| postal_code             = 335802
+| area_code_type          = Telephone code
+| area_code               = 911508
+| registration_plate      = RJ-31
+| website                 = 
+| footnotes               = 
+}}
+'''Khothanwali''' is a village in [[Hanumangarh]] district of [[Rajasthan]], [[India]]. It belongs to Bikaner division. It is 48&nbsp;km west of Hanumangarh. Suratgarh is the nearest railway station. It is 3&nbsp;km from National Highway NH-15 (62)and 440&nbsp;km from state capital [[Jaipur]]. In 2008 awarded the Nirmal Gram.
+
+==Education==
+The village has two government Higher School separately for boys and girls, one co-education school, one Middle and one secondary school. There are a number of non Government Middle and Secondary Schools.
+
+* Govt. Sr. Secondary School
+* Balaji Higher Primary School
+* Swami vivekanand Higher Primary School
+
+==Hospitals==
+* Govt. deputy Health Centre
+
+==Chemists and Laboratories==
+More than a dozone Chemists and 1 Laboratories fulfills primary medical needs for the village
+ 
+==Language==
+Bagri is the major language in Hanumangarh.{{Citation needed|date=May 2016}} It is also known as Khichdi language because of having Punjabi words and a Haryanvi accent. Punjabi language is also used as a second language of area and as the predominant language in northern areas along the border of Punjab. Hindi is the state language and English is also used among officials and children.
+
+==Climate==
+The climate of Khothanwali varies to extreme limits. Summer temperature can reach 50° degrees Celsius and winter temperature dips just around 0° Celsius. The average annual rainfall is only 200&nbsp;mm (7.9&nbsp;in). Average maximum temperature in summer is around 41.2&nbsp;°C and average minimum temperature in winter is around 6&nbsp;°C.{{citation needed|date=May 2016}}
+
+==Economy==
+The economy of the Village is based on grain market & agriculture, its main crops are wheat, mustard and cotton. Other crops are guar, bajra, sugar cane and grams. In recent years, farmers are also diverting towards horticulture. Kinnow(a citrus family fruit or a hybrid citrus fruit from [[Orange (fruit)|Orange]]) is a popular horticultural product; other fruits of the citrus family are also grown.
+
+==References==
+
+{{Empty section|date=January 2017}}
+
+== External links ==
+* [https://www.google.co.in/maps/place/Khothanwali,+Rajasthan+335802/data=!4m2!3m1!1s0x39164135622af195:0x6bdb1bfef9f40c2a?sa=X&ved=0ahUKEwj2mb6lxOjMAhVGkZQKHaM9AfEQ8gEIGjAA Map]
+
+[[Category:Villages in Hanumangarh district]]
+
+
+{{Rajasthan-geo-stub}}

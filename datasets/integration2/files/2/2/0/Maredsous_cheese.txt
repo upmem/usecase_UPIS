@@ -1,0 +1,39 @@
+{{short description|A semi-hard loaf-shaped cheese made in Belgium from cow's milk}}
+{{Infobox Cheese
+| name = Maredsous
+| image = 
+| othernames = 
+| country = [[Belgium]]
+| regiontown = [[Maredsous Abbey]]
+| region = [[Namur (province) |Namur]]
+| town = [[Anhée]] ([[Municipalities of Belgium|Commune/Gemeente]])
+| source = [[Cow]]'s [[Milk]]
+| pasteurised = Yes
+| texture = Semi-soft
+| fat = 45%
+| protein = 
+| dimensions = 
+| weight = 2.5 Kg
+| aging = 
+| certification = 
+}}
+'''Maredsous''' is a semi-hard loaf-shaped [[washed-rind cheese|washed-rind]] [[cheese]] made from [[cow's milk]].  It is suitable for slicing, and characterised by an orange coloured rind.  The cheese has been produced at [[Maredsous Abbey]] in [[Belgium]]<ref>{{cite book | last=Yenne | first=B. | title=Beer: The Ultimate World Tour | publisher=Race Point Publishing | year=2014 | isbn=978-1-62788-247-7 | url=https://books.google.com/books?id=qTb_AwAAQBAJ&pg=PA134 | access-date=29 December 2019 | page=134}}</ref> since 1953.   
+
+The cheese is lightly pressed, then washed in brine to create the firm, orange crust and pungent aroma.  Each cheese is washed by hand every two days, starting with the older cheeses.  The water used for the washing of the older cheeses picks up the appropriate bacteria which are then transferred to the younger cheeses when the same water is used for washing these. The maturing process in the cellar takes place over 22 days.
+
+Maredsous is now an industrially produced cheese, produced by [[Groupe Bel]].  It was formerly matured in the abbey cellars where the even temperature of {{convert|12|C}} and the 95% humidity favour the micro-organisms that transform the raw [[curd]] into cheese.<ref>{{Cite web |url=http://www.maredsousfromages.be/maredsous/savoir-faire-et-affinage/ |title=Archived copy |access-date=2013-10-30 |archive-url=https://web.archive.org/web/20131101124759/http://www.maredsousfromages.be/maredsous/savoir-faire-et-affinage/ |archive-date=2013-11-01 |url-status=dead }}</ref>  The only cheeses still manufactured at the abbey are in the traditional sizes of 390g, 800g and 2.5kg.
+
+The abbey currently makes seven varieties: Maredsous Tradition, Mi-Vieux (half old), Fumé (smoked), Fondu (fondue), Frais (the fresh cheese), Light, and Fagotin.
+
+==See also==
+* {{annotated link|List of cheeses}}
+* {{portal-inline|Food}}
+
+==References==
+{{reflist}}
+
+{{Belgian cheeses}}
+[[Category:Cow's-milk cheeses]]
+[[Category:Belgian cheeses]]
+[[Category:Walloon culture]]
+[[Category:Namur (province)]]

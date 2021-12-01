@@ -1,0 +1,4 @@
+#REDIRECT [[National symbols of Azerbaijan]] 
+{{Redirect category shell |
+  {{R from move}}
+}}

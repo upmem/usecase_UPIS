@@ -1,0 +1,54 @@
+{{Infobox NFL player
+|name=Frank Naylor
+|image=
+|image_size=
+|caption=
+|number=51
+|position=[[Center (American football)|Center]] / [[Long snapper]]  
+|birth_date={{birth date|1959|1|25}}
+|birth_place=Philadelphia, Pennsylvania 
+|death_date=
+|death_place=
+|high_school = [[Archbishop Wood Catholic High School|Archbishop Wood]]
+|height_ft = 6
+|height_in = 2
+|weight_lbs = 250
+|college=[[Rutgers Scarlet Knights football|Rutgers]]
+|draftyear=1982
+|draftround=12
+|draftpick=311
+|pastteams=
+* [[Seattle Seahawks]] ({{NFL Year|1982}})*
+* [[New Jersey Generals]] ({{USFL Year|1983}}–{{USFL Year|1985}})
+|pastteamsnote = yes
+|statseason=
+|statlabel1=
+|statvalue1=|nfl=NAY385627
+}}
+'''Frank Naylor''' was a player in the [[United States Football League]] for the [[New Jersey Generals]].  He played at the collegiate level at [[Rutgers University]].
+
+==Early years==
+Naylor was born Frank John Naylor on January 25, 1959 in [[Philadelphia, Pennsylvania]].
+
+==College career==
+He played [[Center (American football)|center]] at [[Rutgers University]] and graduated with a degree in communications. In 1981, his senior year, he was named AP All-East and was selected as the team MVP.<ref>[http://www.scarletknights.com/football/history/awards-ru.asp Scarlet Knights MVP History] {{webarchive|url=https://web.archive.org/web/20120224083149/http://www.scarletknights.com/football/history/awards-ru.asp |date=2012-02-24 }}, accessed February 8, 2012</ref>
+
+==NFL==
+=== Seattle Seahawks ===
+The [[Seattle Seahawks]] drafted Naylor in the twelfth round of the [[1982 NFL Draft]].<ref>[http://www.nfl.com/draft/history/fulldraft?season=1982&round=round12#round12 1982 NFL Draft Round 12], accessed February 8, 2012</ref> The Seahawks later released him on August 17, 1982.<ref>[https://news.google.com/newspapers?id=90NgAAAAIBAJ&sjid=k3ANAAAAIBAJ&pg=3051,733423&dq=frank+naylor+seahawks&hl=en Transactions August 18, 1982] ''The Phoenix'', accessed February 8, 2012</ref>
+
+==USFL==
+===New Jersey Generals===
+Naylor signed with the [[New Jersey Generals]] of the [[United States Football League]] on November 24, 1982 and played in 17 games during their 1983 Inaugural Season. He returned in 1984 and played in 18 regular season games and in the playoff loss to the [[Philadelphia/Baltimore Stars|Philadelphia Stars]].<ref>[https://news.google.com/newspapers?id=L_0jAAAAIBAJ&sjid=iacEAAAAIBAJ&pg=1559,154599&dq=frank+naylor+generals+playoff&hl=en Philadelphia Whips New Jersey] ''Anchorage Daily News'', accessed February 8, 2012</ref> In 1985 Naylor sustained an injury to his left leg during the Generals' training camp in [[Orlando, Florida]] and was out for the entire season.<ref>[https://www.nytimes.com/1985/02/02/sports/generals-naylor-out-for-year.html Generals’ Naylor Out for Year] ''The New York Times'', accessed February 8, 2012</ref> 
+During his time with the Generals, Naylor would wear jersey number 51.<ref>[http://www.jerseydatabase.com/wiki.php?id=US1955 Frank Naylor's Jersey], accessed February 8, 2012</ref>
+
+== References ==
+{{Reflist}}
+
+{{Seahawks1982DraftPicks}}
+
+{{DEFAULTSORT:Naylor, Frank}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:Rutgers Scarlet Knights football players]]
+[[Category:New Jersey Generals players]]

@@ -1,0 +1,14 @@
+{{one source|date=August 2015}}
+
+The '''Cherney incision''' is an [[Surgical incision|incision]] used in gynecologic surgery. It is similar to the [[Pfannenstiel incision]] but allows access to the [[space of Retzius]] and gives a larger area in which to operate.<ref name=":0">{{Cite book|title = Williams Gynecology, Second Edition|url = https://books.google.com/books?id=QFTeEWbqTbgC&q=williams+gynecology&dq=williams+gynecology&hl=en&sa=X&ved=0CBsQ6AEwAGoVChMI96G7nc7gxgIVi1eSCh1cjQZn|publisher = McGraw Hill Professional|date = 2012-04-12|isbn = 9780071716727|language = en|first = Barbara|last = Hoffman|first2 = John|last2 = Schorge|first3 = Joseph|last3 = Schaffer|first4 = Lisa|last4 = Halvorson|first5 = Karen|last5 = Bradshaw|first6 = F.|last6 = Cunningham}}</ref>
+
+== Technique ==
+The Cherney incision begins when the skin is cut 2-3 centimeters above the [[pubic symphysis]] and the surgeon dissects down to the [[rectus abdominis muscle]]. The surgeon then uses blunt dissection with the fingers to separate the tendons from the bladder before cutting the tendons 1-2 centimeters above the pubic symphysis. The muscles are then lifted away, toward the patient's head (cephalad). Then, the [[peritoneum]] can be cut and the surgery can proceed.<ref name=":0" />
+
+== Complications ==
+Complications can ensue. If [[surgical retractors]] are not placed carefully under the edges of the incision, they can damage the [[femoral nerve]] or other nerves in the area. If during wound closure, tendons are sewn directly to the pubic symphysis, [[osteitis pubis]] or [[osteomyelitis]] can result.<ref name=":0" />
+
+== References ==
+{{Reflist}}
+
+[[Category:Surgical procedures and techniques]]

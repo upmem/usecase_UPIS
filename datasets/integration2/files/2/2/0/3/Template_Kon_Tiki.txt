@@ -1,0 +1,30 @@
+{{Navbox
+|name      = Kon-Tiki
+|title     = The ''[[Kon-Tiki]]'' Expedition of 1947
+|image     = [[File:Expedition Kon-Tiki 1947. Across the Pacific. (8765728430).jpg|100px]]
+|listclass = hlist
+
+|group1  = Crewmembers
+|list1   = 
+* [[Thor Heyerdahl]]
+* [[Erik Hesselberg]]
+* [[Bengt Danielsson]]
+* [[Knut Haugland]]
+* [[Torstein Raaby]]
+* [[Herman Watzinger]]
+
+|group2  = Documentation
+|list2   = 
+*[[Kon-Tiki (1950 film)|''Kon-Tiki'' (1950 film)]]
+*''[[The Kon-Tiki Expedition: By Raft Across the South Seas]]''
+*[[Kon-Tiki Museum]]
+
+|group3  =Related articles
+|list3   = 
+* [[Kon-Tiki (2012 film)|''Kon-Tiki'' (2012 film)]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Expedition navigational boxes]]
+[[Category:Norway navigational boxes]]
+</noinclude>

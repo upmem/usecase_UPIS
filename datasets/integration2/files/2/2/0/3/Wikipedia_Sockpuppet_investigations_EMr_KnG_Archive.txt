@@ -1,0 +1,147 @@
+__TOC__
+{{SPIarchive notice|1=EMr KnG}}
+{{SPIpriorcases}}
+=====<big>04 November 2013</big>=====
+
+
+;Suspected sockpuppets
+
+* {{checkuser|1=Erim Turukku}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://toolserver.org/~betacommand/cgi-bin/uc?uc=EMr%20KnG User compare report] <small>''Auto-generated every hour.''</small>
+*[http://toolserver.org/~snottywong/editorinteract.html Editor interaction utility]
+
+Edit patterns of both EMr KnG and Erim Turukku looks quite similar ([[WP:DUCK]]) - both users engage in category spams, overcategorizations, Turkic/Turkish POV, edit warring, etc... From my point of view, it's enough to see edit histories of EMr KnG ([https://en.wikipedia.org/w/index.php?limit=50&tagfilter=&title=Special%3AContributions&contribs=user&target=EMr_KnG&namespace=&tagfilter=&year=2013&month=-1]) and Erim Turukku ([https://en.wikipedia.org/wiki/Special:Contributions/Erim_Turukku]) to get to the conclusion they are the same person. Also, [[User:Kansas Bear]] was the first to mention possible sock puppetry in this case, at Turukku's talk page. IMHO, this is a case of [[WP:SOCK]] without a doubt. [[User:Sundostund|Sundostund]] ([[User talk:Sundostund|talk]]) 19:31, 4 November 2013 (UTC)
+
+======<span style="font-size:150%">Comments by other users</span>======
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+======<span style="font-size:150%">Clerk, CheckUser, and/or patrolling admin comments</span>======
+*{{Cudecline}} - EMr KnG is {{StaleIP}} and globally locked. [[User:Reaper Eternal|Reaper Eternal]] ([[User talk:Reaper Eternal|talk]]) 19:44, 4 November 2013 (UTC)
+*I think a duck block might be reasonable. I'd like to get some input from someone more familiar with the two accounts though. [[User:Mark Arsten|Mark Arsten]] ([[User talk:Mark Arsten|talk]]) 19:56, 4 November 2013 (UTC)
+*{{adminnote}} Behavioral evidence suggests these are the same user, after looking at the way the user writes. I will handle the block as soon as I figure out how to handle an override of an [[WP:AE]] block. [[User:Shirik|<span style="color:#005">Sh</span><span style="color:#007">i</span><span style="color:#009">r</span><span style="color:#00A">ik</span>]] <small>([[User talk:Shirik|<span style="color:#88C">Questions or Comments?</span>]])</small> 03:08, 5 November 2013 (UTC)
+*{{on hold}} awaiting a response from {{admin|Dougweller}} --[[User:Shirik|<span style="color:#005">Sh</span><span style="color:#007">i</span><span style="color:#009">r</span><span style="color:#00A">ik</span>]] <small>([[User talk:Shirik|<span style="color:#88C">Questions or Comments?</span>]])</small> 03:16, 5 November 2013 (UTC)
+{{adminnote}}Endorsing this block as a duck block. [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 06:01, 5 November 2013 (UTC)
+*Blocked indef per DUCK, closing now. [[User:Mark Arsten|Mark Arsten]] ([[User talk:Mark Arsten|talk]]) 17:11, 5 November 2013 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+=====<big>23 July 2015</big>=====
+
+
+;Suspected sockpuppets
+* {{checkuser|1=Sturanos}}
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Tirgil34 User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+{{User|Sturanos}} returned from a three-month long wikibreak on 22 July to edit [[Avar Khaganate]].[https://en.wikipedia.org/wiki/Special:Contributions/Sturanos] [[User:BöriShad|BöriShad]], who the CheckUser considered {{possible}} to [[User:Dontbesogullible|Dontbesogullible]] and [[User:Böri|Böri]], was blocked per [[WP:NOTHERE]] after edit warring at Avar Khagnate just days earlier. At Avar Khaganate, Sturanos removes the same content[https://en.wikipedia.org/w/index.php?title=Avar_Khaganate&type=revision&diff=672625429&oldid=671047016][https://en.wikipedia.org/w/index.php?title=Avar_Khaganate&type=revision&diff=672633478&oldid=672630071] as BöriShad.[https://en.wikipedia.org/w/index.php?title=Avar_Khaganate&type=revision&diff=664402538&oldid=662350339][https://en.wikipedia.org/w/index.php?title=Avar_Khaganate&type=revision&diff=667352448&oldid=666648691][https://en.wikipedia.org/w/index.php?title=Avar_Khaganate&type=revision&diff=670955029&oldid=670889461][https://en.wikipedia.org/w/index.php?title=Avar_Khaganate&type=revision&diff=671025469&oldid=671022260][https://en.wikipedia.org/w/index.php?title=Avar_Khaganate&type=revision&diff=671031759&oldid=671031516] In May Sturanos added content at the article [[Saka]][https://en.wikipedia.org/w/index.php?title=Saka&diff=prev&oldid=663056764] identical to content added at [[:tr:Sakalar|Sakalar]] at [[:tr:Ana Sayfa|Turkish Wikipedia]] by sockmaster [[User:Tirgil34|Tirgil34]].[https://tr.wikipedia.org/w/index.php?title=Sakalar&type=revision&diff=10875858&oldid=10717250]. Sturanos promotes[https://en.wikipedia.org/w/index.php?title=Ottoman_Turkish_language&diff=prev&oldid=672576796] the [[Ural-Altaic languages]] theory just like Dolatjan.[https://en.wikipedia.org/w/index.php?title=Ural%E2%80%93Altaic_languages&diff=prev&oldid=626805574][https://en.wikipedia.org/w/index.php?title=Ural%E2%80%93Altaic_languages&diff=prev&oldid=627048571][https://en.wikipedia.org/w/index.php?title=Ural%E2%80%93Altaic_languages&diff=prev&oldid=627048571][https://en.wikipedia.org/w/index.php?title=Ural%E2%80%93Altaic_languages&diff=prev&oldid=641924906][https://en.wikipedia.org/w/index.php?title=Ural%E2%80%93Altaic_languages&diff=prev&oldid=641924906][https://en.wikipedia.org/w/index.php?title=Ural%E2%80%93Altaic_languages&diff=prev&oldid=642776326][https://en.wikipedia.org/w/index.php?title=Ural%E2%80%93Altaic_languages&diff=prev&oldid=642811217][https://en.wikipedia.org/w/index.php?title=Ural%E2%80%93Altaic_languages&diff=prev&oldid=642812535] Sturanos was in May [[Wikipedia:Sockpuppet investigations/Bamsi2929/Archive|listed]] as a possible sock of [[User:Bamsi2929|Bamsi2929]], but was found to be technically {{unrelated}} to both Bamsi2929 and Tirgil34. He was however appearantly {{possible}} to [[User:Madyas|Madyas]]. Madyas is another Turkic nationalist editor, who was blocked in February as per WP:NOTHERE and as a "likely sockpuppet". Curiously, suspected sock [[User:Gokhan Su|Gokhan Su]]'s only edit[https://en.wikipedia.org/w/index.php?title=Talk%3AScythians&type=revision&diff=668731659&oldid=668441105] is to defend claims made at [[Talk:Scythians]] by Madyas.[https://en.wikipedia.org/w/index.php?title=Talk%3AScythians&type=revision&diff=648104065&oldid=647123318] Sturanos is clearly the same person as Madyas. Compare Sturanos' recent edit at [[Nader Shah]][https://en.wikipedia.org/w/index.php?title=Nader_Shah&type=revision&diff=672610081&oldid=672151453] to an earlier edit by Madyas.[https://en.wikipedia.org/w/index.php?title=Nader_Shah&type=revision&diff=649238998&oldid=648768398] A pattern of inserting "Turkic" into the infobox and intro of various articles, adding [[List of Turkic dynasties and countries]] to ''See also'' sections, and adding various "Turkic" templates and categories can be observed from the edits of Madyas (many more diffs can be provided if needed)[https://en.wikipedia.org/w/index.php?title=First_Bulgarian_Empire&type=revision&diff=647086853&oldid=645346972][https://en.wikipedia.org/w/index.php?title=Qasim_Khanate&type=revision&diff=647086428&oldid=644089759][https://en.wikipedia.org/w/index.php?title=Khanate_of_Kokand&diff=prev&oldid=647077247][https://en.wikipedia.org/w/index.php?title=Emirate_of_Bukhara&type=revision&diff=647086569&oldid=644767203][https://en.wikipedia.org/w/index.php?title=Khanate_of_Khiva&diff=prev&oldid=647078147][https://en.wikipedia.org/w/index.php?title=Khanate_of_Bukhara&diff=prev&oldid=647086223][https://en.wikipedia.org/w/index.php?title=Seljuq_dynasty&type=revision&diff=647086885&oldid=646896616][https://en.wikipedia.org/w/index.php?title=Kazakh_Khanate&type=revision&diff=647086918&oldid=643915064][https://en.wikipedia.org/w/index.php?title=Yueban&diff=prev&oldid=647096045][https://en.wikipedia.org/w/index.php?title=Wei_%28Dingling%29&diff=prev&oldid=647096303][https://en.wikipedia.org/w/index.php?title=Western_Turkic_Khaganate&diff=prev&oldid=647096622][https://en.wikipedia.org/w/index.php?title=Western_Turkic_Khaganate&diff=prev&oldid=647096622][https://en.wikipedia.org/w/index.php?title=Xueyantuo&diff=prev&oldid=647097187][https://en.wikipedia.org/w/index.php?title=Kangar_union&diff=prev&oldid=647097697][https://en.wikipedia.org/w/index.php?title=Timurid_dynasty&diff=prev&oldid=647111200] and Sturanos.[https://en.wikipedia.org/w/index.php?title=Saka&diff=prev&oldid=663052827][https://en.wikipedia.org/w/index.php?title=Saka&diff=prev&oldid=663056764][https://en.wikipedia.org/w/index.php?title=Saka&diff=prev&oldid=663067049][https://en.wikipedia.org/w/index.php?title=Avar_Khaganate&type=revision&diff=672625429&oldid=671047016][https://en.wikipedia.org/w/index.php?title=Avar_Khaganate&diff=prev&oldid=672633478][https://en.wikipedia.org/w/index.php?title=Qajar_dynasty&diff=prev&oldid=672626117] The same pattern can also be observed in the edits of [[User:Erim Turukku|Erim Turukku]] (more diffs can be provided if needed).[https://en.wikipedia.org/w/index.php?title=First_Bulgarian_Empire&diff=prev&oldid=579501755][https://en.wikipedia.org/w/index.php?title=Crimean_Khanate&diff=prev&oldid=579500966][https://en.wikipedia.org/w/index.php?title=Mongol_Empire&diff=prev&oldid=579502224][https://en.wikipedia.org/w/index.php?title=Hephthalite_Empire&diff=prev&oldid=579503487][https://en.wikipedia.org/w/index.php?title=Khwarazmian_dynasty&diff=prev&oldid=579499955][https://en.wikipedia.org/w/index.php?title=Golden_Horde&diff=prev&oldid=579500225] Erim Turukku is a [[WP:DUCK]]-blocked sock of [[User:EMr KnG|EMr KnG]]. Given Sturanos' suspicious appearance at Avar Khaganate to push the agenda of recently blocked BöriShad, i'm primarily adding Sturanos to check him against BöriShad and Böri. A check against Gokhan Su, [[User:Wolfie87|Wolfie87]] and Dolatjan could however be helpful too. At any rate the obvious connection between Madyas/Sturanos and Erim Turukku/EMr KnG deserves administrator attention.<small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Krakkos|Krakkos]] ([[User talk:Krakkos|talk]] • [[Special:Contributions/Krakkos|contribs]]) 19:30, 23 July 2015‎ (UTC)</span></small><!-- Template:Unsigned -->
+
+======<span style="font-size:150%">Comments by other users</span>======
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+======<span style="font-size:150%">Clerk, CheckUser, and/or patrolling admin comments</span>======
+*{{clerknote}} {{ping|Krakkos}} I moved this case here from [[Wikipedia:Sockpuppet investigations/Tirgil34]]. With edits like [https://en.wikipedia.org/w/index.php?title=Nader_Shah&type=revision&diff=672610081&oldid=672151453 this] and [https://en.wikipedia.org/w/index.php?title=Nader_Shah&type=revision&diff=649238998&oldid=648768398 this], and with previous checkuser results showing "between Unlikely and Possible" ([[Wikipedia:Sockpuppet investigations/Bamsi2929/Archive|here]]), I think we can connect Sturanos to Madyas, who is blocked as a sock of EMr KnG. '''[[User:Vanjagenije|<font color="008B8B">Vanjagenije</font>]] [[User talk:Vanjagenije|<font color="F4A460">(talk)</font>]]''' 20:51, 23 July 2015 (UTC)
+*'''Admin action needed''' - Please, block Sturanos as a sock of EMr KnG. '''[[User:Vanjagenije|<font color="008B8B">Vanjagenije</font>]] [[User talk:Vanjagenije|<font color="F4A460">(talk)</font>]]''' 22:53, 4 August 2015 (UTC)
+*{{bnt}} - [[User:Cyphoidbomb|Cyphoidbomb]] ([[User talk:Cyphoidbomb|talk]]) 20:23, 5 August 2015 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+===11 December 2015===
+
+
+;Suspected sockpuppets
+
+* {{checkuser|1=Sökür}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=EMr%20KnG User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+Sökür is certainly a new sock of EMr KnG. Same pan-Turkic agenda, and adding same[https://en.wikipedia.org/w/index.php?title=Attila&diff=prev&oldid=580025701][https://en.wikipedia.org/w/index.php?title=Attila&diff=prev&oldid=648091971] categories to [[Attila]][https://tr.wikipedia.org/w/index.php?title=Attila&diff=prev&oldid=16272729] and promoting the same[https://tr.wikipedia.org/w/index.php?title=%C4%B0zlandal%C4%B1lar&type=revision&diff=15636698&oldid=14952679] (as [[User:Sturanos|Sturanos]]) view that [[Icelanders]] are [[Vikings]].[https://tr.wikipedia.org/w/index.php?title=?zlandal?lar&diff=prev&oldid=16365461] I'm adding a [[WP:CU|CU]] request to check for [[WP:SLEEPER|sleepers]]. [[User:Krakkos|Krakkos]] ([[User talk:Krakkos|talk]]) 21:06, 11 December 2015 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+*{{Decline}} - This user made no edits. We can't run a CU to connect him to the master because previous accounts are stale. We also can't link him based on behavior, as there is no behavior. If he is editing in Turkish Wikipedia, then you should report him there. '''[[User:Vanjagenije|<font color="008B8B">Vanjagenije</font>]] [[User talk:Vanjagenije|<font color="F4A460">(talk)</font>]]''' 22:04, 11 December 2015 (UTC)
+*Still no edits. Closing. '''[[User:Vanjagenije|<font color="008B8B">Vanjagenije</font>]] [[User talk:Vanjagenije|<font color="F4A460">(talk)</font>]]''' 01:36, 26 December 2015 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+===25 January 2016===
+
+
+;Suspected sockpuppets
+
+* {{checkuser|1=Dengesizz}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=EMr%20KnG User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+The new user's edits are similar to sockpuppeteer. Also, he targeted same article just like before, some diffs:
+*[[Khwarazmian dynasty]]: master [https://en.wikipedia.org/w/index.php?title=Khwarazmian_dynasty&diff=534810262&oldid=534526410]. sock [https://en.wikipedia.org/w/index.php?title=Khwarazmian_dynasty&diff=701502362&oldid=701197681]
+*[[Ghaznavids]]: master [https://en.wikipedia.org/w/index.php?title=Ghaznavids&diff=534683690&oldid=532942068], [https://en.wikipedia.org/w/index.php?title=Ghaznavids&diff=534808063&oldid=534726054]. sock [https://en.wikipedia.org/w/index.php?title=Ghaznavids&diff=701011363&oldid=694982487], [https://en.wikipedia.org/w/index.php?title=Ghaznavids&type=revision&diff=701588803&oldid=701128290]
+*[[Babur]]: master [https://en.wikipedia.org/w/index.php?title=Babur&diff=prev&oldid=535828065], [https://en.wikipedia.org/w/index.php?title=Babur&diff=prev&oldid=535688569]. sock [https://en.wikipedia.org/w/index.php?title=Babur&diff=prev&oldid=699155328]
+*[[Mughal Empire]]: master [https://en.wikipedia.org/w/index.php?title=Mughal_Empire&diff=prev&oldid=534859559]. sock [https://en.wikipedia.org/w/index.php?title=Mughal_Empire&diff=prev&oldid=701012725]
+The behavior of this new account is very similar to blocked sockmaster. For example same disruption on [[Template:History of the Turkic peoples pre-14th century]]. New accounts adds Turkish language to irrelevant articles just like the sockmaster. Similar edit summaries And he has same battleground behavior (reverting and ignoring edits by other editors). It's possible he registered multiple accounts again and uses them to evade block. [[User:Zyma|Zyma]] ([[User talk:Zyma|talk]]) 18:36, 25 January 2016 (UTC)
+
+====<big>Comments by other users</big>====
+I would have to agree with Zyma. Besides both pushing a Turkish/Turkic POV, both master[https://en.wikipedia.org/w/index.php?title=Talk:Hunnic_Empire&diff=prev&oldid=535218930] and sock[https://en.wikipedia.org/w/index.php?title=User_talk:Kansas_Bear&diff=701606483&oldid=701519442] suffer from the same broken illegible English. --[[User:Kansas Bear|Kansas Bear]] ([[User talk:Kansas Bear|talk]]) 19:45, 25 January 2016 (UTC)
+
+He's indef-blocked by an admin due to his disruptive edits. And checkuser was rejected. So how to check his possible active accounts? Is it possible to find them or should I submit another SPI case? --[[User:Zyma|Zyma]] ([[User talk:Zyma|talk]]) 09:07, 26 January 2016 (UTC)
+
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+*All accounts in the archive are {{IPstale}}, so there's no data sets for me to compare. {{Behav}}.--[[User:Ponyo|<font color="Navy">Jezebel's '''Ponyo'''</font>]]<sup>[[User_talk:Ponyo|<font color="Navy">''bons mots''</font>]]</sup>  21:44, 25 January 2016 (UTC)
+*This account is already blocked. Tagging as suspected sock and closing. {{ping|Zyma}} We are not running sleepers check unless there is some specific reason to believe there might be sleepers. {{notfishing}}. '''[[User:Vanjagenije|<font color="008B8B">Vanjagenije</font>]] [[User talk:Vanjagenije|<font color="F4A460">(talk)</font>]]''' 00:29, 30 January 2016 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+===17 February 2016===
+
+
+;Suspected sockpuppets
+
+* {{checkuser|1=Aslanstatistic1234}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=EMr%20KnG User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+Same edits just like the previous blocked socks. New account [https://en.wikipedia.org/w/index.php?title=Mahmud_of_Ghazni&type=revision&diff=705445926&oldid=705102298], blocked sock [https://en.wikipedia.org/w/index.php?title=Mahmud_of_Ghazni&diff=701011027&oldid=698982541]. Either it's ex-sleeper account of sockmaster (now active) or he's one of those typical nationalist and disruptive editors. The behavior is similar to sockmaster, e.g. he targeted several Turkic and Turkey/Ottoman related articles and he returned to his favorite article [[Mahmud of Ghazni]] just after recent blocks (previous SPI report). [[User:Zyma|Zyma]] ([[User talk:Zyma|talk]]) 23:02, 17 February 2016 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+* It's {{possible}} bordering on {{unlikely}}, though. I'd recommend waiting before blocking. [[User:Reaper Eternal|Reaper Eternal]] ([[User talk:Reaper Eternal|talk]]) 15:59, 18 February 2016 (UTC)
+*We've been waiting and nothing happened, so I'm closing this case. '''[[User:Vanjagenije|<font color="008B8B">Vanjagenije</font>]] [[User talk:Vanjagenije|<font color="F4A460">(talk)</font>]]''' 23:55, 8 March 2016 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+===30 March 2017===
+
+
+====Suspected sockpuppets====
+
+* {{checkuser|1=AlpAy}}
+* {{checkip|1=78.165.85.180}}
+* {{checkip|1=78.165.72.147}}
+* {{checkip|1=78.165.74.227}}
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=EMr%20KnG User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+Hi. Opening this SPI per {{u|Drmies}}' justified [https://en.wikipedia.org/w/index.php?title=User_talk:LouisAragon&diff=772152713&oldid=771870018 remark]. Hence this is just for the record. IP "78.165.85.180" was already blocked recently to prevent some of the disruption, while sock "AlpAy" was blocked per [[WP:DUCK]] as a result of [https://en.wikipedia.org/wiki/Wikipedia:Administrators%27_noticeboard/IncidentArchive947#Personal_attack_and_lobbying this] ANI discussion. Thanks - [[User:LouisAragon|LouisAragon]] ([[User talk:LouisAragon|talk]]) 01:47, 30 March 2017 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+Range blocked two weeks {{permalink|Wikipedia:Administrators' noticeboard/Incidents#Rangeblock requested|772920718|after a request at ANI}}.  The registered account is already blocked. [[User:NinjaRobotPirate|NinjaRobotPirate]] ([[User talk:NinjaRobotPirate|talk]]) 05:49, 30 March 2017 (UTC)
+
+----<!--- All comments go ABOVE this line, please. -->

@@ -1,0 +1,62 @@
+{{Infobox officeholder
+|name                = George Howard Williams
+|image               = Senator George Howard Williams.JPG
+|imagesize          =200px
+|jr/sr              = United States Senator
+|state               = [[Missouri]]
+|term_start          = May 25, 1925
+|term_end            = December 5, 1926
+|predecessor         = [[Selden P. Spencer]]
+|successor          = [[Harry B. Hawes]]
+|birth_date         = {{birth date|1871|12|1}}
+|birth_place        = [[California, Missouri]]
+|death_date         = {{death date and age|1963|11|25|1871|12|1}}
+|death_place        = [[Sarasota, Florida]]
+|party               = [[Republican Party (United States)|Republican]]
+|spouse              = Harriet C. (Stewart) Williams
+|children            = two sons; Howard Williams<br>Stewart Williams
+|alma_mater          = [[Drury College]]<br>[[Princeton University]]<br>[[Washington University in St. Louis|Washington University]]
+|occupation          = Attorney
+}}
+
+'''George Howard Williams''' (December 1, 1871{{spaced ndash}}November 25, 1963) was an [[United States of America|American]] politician and attorney from the state of [[Missouri]]. A [[Republican Party (United States)|Republican]], he served as [[United States Senate|U.S. Senator]] from [[Missouri]] from 1925 to 1926, completing the term of [[Selden P. Spencer]] following the latter's death.
+
+==Early life==
+George H. Williams was born in [[California, Missouri|California]], [[Moniteau County, Missouri]]<ref name="Congress">{{cite web|url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000499|title=George H. Williams Congressional biography|publisher=United States Congress website|year=2012|accessdate=30 August 2012}}</ref> to John Morrow and Alice Gray (Howard) Williams. His father was heavily involved in state and local politics, serving as a member of the [[Missouri Senate]], a prosecuting attorney, and circuit judge.<ref name="Christensen">{{cite book|last=Christensen|first=Lawrence O.|author2=Foley, William E. |author3=Kremer, Gary R. |title=Dictionary of Missouri Biography.|year=1999|publisher=University of Missouri Press|page=578|location=Columbia, Missouri|isbn=}}</ref>  Following his graduation from California High School in 1889, George Williams attended college preparatory classes at [[Drury College]] in [[Springfield, Missouri]]. He then attended [[Princeton University]], earning his degree in 1894.<ref name="Congress"/>  After Princeton George Williams taught for a short time at California High School while also studying law and clerking at his father's law office.<ref name="Christensen"/> He went on to further study at [[Washington University in St. Louis]], receiving his [[Bachelor of Laws|LLB]] in 1897. Williams was admitted to the Missouri Bar the same year, at which time he established a law practice in [[St. Louis, Missouri]]
+
+In June, 1900 Williams married Harriet Chase Stewart, daughter of prominent St. Louis attorney Alphonso Stewart and granddaughter of [[Confederate States Army|Confederate]] Civil War General [[Alexander P. Stewart]].<ref name="Christensen"/><ref>{{cite web|url=https://www.findagrave.com/memorial/18510|title=Alphonso C. Stewart bio|publisher=FindAGrave.com|date=21 November 2000|accessdate=30 August 2012}}</ref>  The couple would have two sons; Howard and Stewart.<ref>{{cite web|url=http://records.ancestry.com/Harriet_Chase_Stewart_records.ashx?pid=171403740|title=Harriet Stewart Williams|publisher=Ancestry.com|year=2012|accessdate=30 August 2012}}</ref> In 1902 Williams joined the law firm of his father-in-law.
+
+==Politics==
+George Williams, long involved in Missouri Republican politics, was appointed a circuit court judge for the St. Louis region in 1906, a position he would hold until 1912.<ref name="Congress"/> In that position he was a key player in developing a new juvenile code for Missouri, and took a strong interest in bettering the lives of children that lasted even after he left the court. As chair of the St. Louis Board of Children's Guardians, he helped establish Bellefontaine Farms, a home for troubled, orphaned, and abandoned children.<ref name="Christensen"/>
+
+In 1922 Williams was named as a delegate to the Missouri Constitutional Convention, where his acumen for business law proved especially valuable. The convention allowed Williams to gain some name recognition around the state as well as he chaired several important committees. In 1923, in appreciation for his service, [[Missouri Valley College]] awarded him an honorary Doctor of Laws degree.<ref name="Christensen"/>  With the unexpected death of Senator Selden Spencer in May, 1925 George H. Williams was tapped by Missouri Governor [[Sam Aaron Baker|Sam Baker]] to fill the remaining eighteen months of Spencer's term until the 1926 general election. As senator, Williams served as chairman of the Committee to Audit and Control the Contingent Expenses, and as a member of the Committee on Private Land Claims.<ref name="Congress"/> George Williams defeated two fellow Republicans, David M. Proctor and Blodgdett Priest, with 56-percent of the vote to win the August 1926 U.S. Senate primary.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=385465|title=Republican Primary, 1926 Missouri Senate|publisher=Our Campaigns.com|date=25 July 2011|accessdate=1 September 2012}}</ref> However, in the November general election he lost to Democratic challenger Harry B. Hawes 52-percent to 48-percent.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=261818|title=1926 Missouri U.S. Senate election|publisher=Our Campaigns.com|date=20 July 2005|accessdate=1 September 2012}}</ref>
+
+==Later life==
+Following his senate defeat, George Williams returned to his St. Louis law practice until 1943 when he retired and moved to [[Matson, Missouri]]. Long interested in state and national history, Williams led an effort to preserve a [[St. Charles County, Missouri]] farm once owned by [[Daniel Boone]].<ref name="Christensen"/> The effort was a success, with [[Lindenwood University]] now owning and operating the Historic Daniel Boone Home and Heritage Center near [[Defiance, Missouri]].<ref>{{cite web|url=http://www.danielboonehome.com/|title=Historic Daniel Boone Home & Heritage Center|publisher=Lindenwood University|year=2012|accessdate=1 September 2012}}</ref> During his life George Williams was a financial backer of several colleges and universities, including his alma maters Drury College and Princeton as well as [[Westminster College (Missouri)|Westminster College]] and [[College of the Ozarks]]<ref name="Christensen"/> In 1950, George Williams moved once again, to [[Sarasota, Florida]], where he died on November 25, 1963. He is buried in the Masonic Cemetery in California, Missouri.<ref name="Congress"/>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-ppo}}
+{{s-bef|before=[[Selden P. Spencer]]}}
+{{s-ttl|title=[[Republican Party (United States)|Republican]] nominee for [[List of United States Senators from Missouri|U.S. Senator]] from [[Missouri]]<br>([[Classes of United States Senators|Class 3]])|years=[[1926 United States Senate election in Missouri|1926]]}}
+{{s-aft|after=[[Henry Kiel]]}}
+{{s-par|us-sen}}
+{{U.S. Senator box | before = [[Selden P. Spencer]] | state=Missouri | class=3 | years=1925&ndash;1926 | after = [[Harry B. Hawes]] | alongside=[[James A. Reed]]}}
+{{s-end}}
+{{USSenMO}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Williams, George Howard}}
+[[Category:1871 births]]
+[[Category:1963 deaths]]
+[[Category:United States senators from Missouri]]
+[[Category:Republican Party United States senators]]
+[[Category:Missouri Republicans]]
+[[Category:Drury University alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Washington University School of Law alumni]]
+[[Category:People from California, Missouri]]
+[[Category:Missouri lawyers]]

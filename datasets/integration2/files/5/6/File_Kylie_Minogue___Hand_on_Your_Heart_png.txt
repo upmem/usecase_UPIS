@@ -1,0 +1,16 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Artwork for Kylie Minogue's single, "Hand on Your Heart". Replaced a former .jpg version - upscaled and now has accurate aspect ratio.
+|Source = iTunes
+|Author = PWL / Kylie Minogue
+|Article = Hand on Your Heart
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = It will be one of few files, used once, and is an appropriate excerpt at an appropriate size.
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free album cover|image has rationale=yes|auto=yes}}
+
+[[Category:Kylie Minogue album covers|Hand on Your Heart]]

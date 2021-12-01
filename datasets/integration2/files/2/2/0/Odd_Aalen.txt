@@ -1,0 +1,52 @@
+{{short description|Norwegian statistician and professor}}
+{{Infobox person
+| name          = Odd Aalen
+| image         = 
+| alt           = 
+| caption       = 
+| full_name     = 
+| birth_date    = {{Birth date and age|1947|05|06}}
+| birth_place   = [[Oslo]], Norway
+| nationality   = [[Norway|Norwegian]]
+| other_names   = 
+| occupation    = [[Statistician]], [[professor]]
+| years_active  = 
+| known_for     = 
+| notable_works = 
+| alma_mater    = [[University of Oslo]]
+}}
+'''Odd Olai Aalen''' (born 6 May 1947, in [[Oslo]]) is a [[Norway|Norwegian]] [[statistician]] and a [[professor]] at the Department of Biostatistics at the Institute of Basic Medical Sciences at the [[University of Oslo]].<ref>{{cite web|title=Odd Aalen Olai|url=http://www.uio.no/?vrtx=person-view&uid=oaalen|work=Universitetet i Oslo|accessdate=3 January 2011}}</ref>
+
+==Life==
+Aalen completed his [[examen artium]] in 1966 at [[Oslo Cathedral School]] before studying first mathematics and physics and then statistics in which he graduated at the [[University of Oslo]] in 1972.<ref>{{cite web | last =Borgan | first =Ørnulf | title =Odd Aalen | work =Norsk biografisk leksikon | publisher = Store norske leksikon | date =13 February 2009 | url =http://nbl.snl.no/Odd_Aalen | accessdate =30 April 2014 | language =Norwegian }}</ref>
+
+==Work==
+His research work is geared towards applications in [[bioscience]]s. Aalen's early work on [[counting process]]es and [[Martingale (probability theory)|martingales]], starting with his 1976 Ph.D. thesis at the [[University of California, Berkeley]], has had profound influence in [[biostatistics]]. Inferences for fundamental quantities associated with cumulative hazard rates, in [[survival analysis]] and models for analysis of event histories, are typically based on the [[Nelson–Aalen estimator]] or appropriate related statistics. The [[Nelson–Aalen estimator]] is related to the [[Kaplan-Meier estimator]] and generalisations thereof.
+
+Aalen is currently the leader of the Centre for Biostatistical Modelling in the Medical Sciences at the Faculty of Medicine at the [[University of Oslo]].
+
+==Honors and awards==
+He is an elected member of the [[Norwegian Academy of Science and Letters]].{{cn|date=August 2020}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{MathGenealogy|id=34526}}
+* [http://www.med.uio.no/imb/english/research/networks/bmms/ The BMMS Centre]
+* [http://www.med.uio.no/imb/english/people/aca/oaalen/index.html Aalen's home page]
+
+{{authority control}}
+
+{{DEFAULTSORT:Aalen, Odd Olai}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Members of the Norwegian Academy of Science and Letters]]
+[[Category:Norwegian statisticians]]
+[[Category:University of Oslo faculty]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:University of Oslo alumni]]
+[[Category:People educated at Oslo Cathedral School]]
+[[Category:People from Oslo]]
+[[Category:Norwegian expatriates in the United States]]
+[[Category:Fellows of the American Statistical Association]]

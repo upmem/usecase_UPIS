@@ -1,0 +1,45 @@
+{{Infobox artwork
+| image_file = Iron Man Statue small.jpg
+| image_size = 250px
+| caption = The statue in 2009
+| title              = Iron Man
+| artist             = [[Jack E. Anderson]]
+| year               = {{Start date|1987}}
+| type               = Sculpture
+| material = Iron
+| city               = [[Chisholm, Minnesota|Chisholm]], [[Minnesota]]
+| museum             = 
+| coordinates        = {{Coord|47.48139|-92.89618|type:landmark_region:US-MN|format=dms|display=inline,title}}
+}}
+{{short description|American statue of an iron miner}}
+
+The '''''Iron Man''''' statue<ref>[https://archive.is/20120730182510/http://www.flickr.com/photos/cpbills/2887309273/ photo]</ref> is a figure of an [[iron]] [[miner]] located at the entrance to the [[Minnesota Discovery Center]] {{convert|1.28|km}} outside of [[Chisholm, Minnesota]]. It is {{convert|85|ft|m|adj=mid|tall}} including the {{convert|36|ft|m|adj=mid|tall figure}}, and was completed in 1987 out of [[iron ore]] by [[Jack E. Anderson]].  The brass and copper 36' Iron Man is balanced atop a 49' structure of steel and is a tribute to the men who labored in the open pit mines when the mining industry boomed on the Iron Range of northern Minnesota.  The work is titled The Emergence of Man Through Steel.
+
+==Sculpture==
+
+The statue was created by [[Jack E. Anderson]] of [[Lake Linden, Michigan]], who also created a [[Bishop Baraga]] sculpture in [[L'Anse, Michigan]].<ref>[http://www.lakesuperior.com/online/221/221jrnl.html   The model for the statue was an iron miner named Dan Tolonen] {{webarchive |url=https://web.archive.org/web/20081201131943/http://www.lakesuperior.com/online/221/221jrnl.html |date=December 1, 2008 }}</ref><ref>[https://archive.is/20120731073441/http://www.flickr.com/photos/cpbills/2568071933/ photo of Bishop Baraga sculpture]</ref> Anderson said that the iron worker's posture represented the weariness of a day spent working in mines.<ref name=hibbingmn/>
+The Ironman's facial features were taken from the miner Daniel Tolonen, an immigrant from Finland who resided in and is buried in Chisholm MN.  Daniel Tolonen was present with five generations of his family on the day the statue was dedicated July 4, 1987, along with [[Governor of Minnesota|Governor]] [[Rudy Perpich]] and [[U.S. Representative]] [[James Oberstar]] among the day's speakers. It measures {{convert|85|ft}} tall, from the base to the top of the helmet.<ref name=hibbingmn>http://www.hibbingmn.com/iron-man-memorial-statue/article_0349d924-41c6-11e3-b670-001a4bcf887a.html</ref>
+
+==See also==
+*[[Vulcan statue|''Vulcan'']], the world's largest cast iron statue, in [[Birmingham, Alabama]], also known as ''Iron Man''
+*''[[Iron: Man]]'', a statue in Birmingham England
+*[[List of statues by height]]
+*[[List of the tallest statues in the United States]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.uslink.com/~0695vs/iron.man.html Chisholm's ''Iron Man'' Statue]
+
+[[Category:1987 establishments in Minnesota]]
+[[Category:1987 sculptures]]
+[[Category:Colossal statues in the United States]]
+[[Category:Iron sculptures in the United States]]
+[[Category:Outdoor sculptures in Minnesota]]
+[[Category:Statues in Minnesota]]
+[[Category:Sculptures of men in Minnesota]]
+
+
+{{Minnesota-stub}}
+{{US-sculpture-stub}}

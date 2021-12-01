@@ -1,0 +1,84 @@
+{{Infobox album
+| name       = The Flying Burrito Bros
+| type       = [[Album]]
+| artist     = [[The Flying Burrito Brothers]]
+| cover      = Flying Burrito Brothers Album.jpg
+| alt        =
+| released   = June 1971
+| recorded   = 1971
+| venue      =
+| studio     = [[Sunset Sound Studios]], [[Los Angeles|Los Angeles, California]]
+| genre      = [[Country rock]]
+| length     = 36:15
+| label      = [[A&M Records|A&M]]
+| producer   = [[Jim Dickson (producer)|Jim Dickson]], Bob Hughes
+| prev_title = [[Burrito Deluxe]]
+| prev_year  = 1970
+| next_title = [[Last of the Red Hot Burritos]]
+| next_year  = 1972
+}}
+
+{{Album ratings 
+| rev1 = [[Allmusic]]
+| rev1Score = {{Rating|3|5}} <ref name=Allmusic/>
+|rev2 = ''[[Christgau's Record Guide: Rock Albums of the Seventies|Christgau's Record Guide]]''
+|rev2Score = C+<ref>{{cite book|last=Christgau|first=Robert|authorlink=Robert Christgau|year=1981|title=[[Christgau's Record Guide: Rock Albums of the Seventies]]|publisher=[[Ticknor & Fields]]|isbn=089919026X|chapter=Consumer Guide '70s: F|chapter-url=https://www.robertchristgau.com/get_chap.php?k=F&bk=70|accessdate=February 24, 2019|via=robertchristgau.com}}</ref>
+}}
+
+'''''The Flying Burrito Bros''''' is the third [[album]] by the [[country rock]] group, [[The Flying Burrito Brothers]], released in the spring of 1971. Before recording sessions for the album began, [[Chris Hillman]] fired [[Gram Parsons]] from the band, leaving Hillman and [[Sneaky Pete Kleinow|"Sneaky" Pete Kleinow]] as the only original continuing members. In Parsons' place, the band hired a young unknown musician named [[Rick Roberts (musician)|Rick Roberts]],<ref>{{cite web|url=http://www.cmt.com/artists/the-flying-burrito-brothers/biography/|publisher=CMT|accessdate=2012-12-11|title=Flying Burrito Brothers Biography}}</ref> who later was the primary lead singer of [[Firefall]]. Guitarist [[Bernie Leadon]] would also leave the band shortly after the album's release, going on to co-found the [[Eagles (band)|Eagles]].
+
+Over the winter of 1970 to 1971 the band returned to Sunset Studios to record their third album. With Jim Dickson again the producer, assisted by Bob Hughes, the group developed original pieces mainly from Chris Hillman and Rick Roberts, along with a revisitation of a [[Bob Dylan]] composition. Several outtakes from the recording sessions later appeared on several compilations following the band's demise. Following the release of the album, further personnel changes occurred including Kleinow departing to focus solely on session recordings.<ref>{{cite web |url=http://www.burritobrother.com/fbb2.htm|title=The Byrds Fly in and Out|work=burritobrother.com|accessdate=March 17, 2015}}</ref>
+
+==Track listing==
+# "White Line Fever" ([[Merle Haggard]]) – 3:16
+# "Colorado" (Rick Roberts) – 4:52
+# "Hand to Mouth" (Rick Roberts, Chris Hillman) – 3:44
+# "Tried So Hard" ([[Gene Clark]]) – 3:08
+# "Just Can't Be" (Rick Roberts, Chris Hillman) – 4:58
+# "[[To Ramona]]" ([[Bob Dylan]]) – 3:40
+# "Four Days of Rain" (Rick Roberts) – 3:39
+# "Can't You Hear Me Calling" (Rick Roberts, Chris Hillman) – 2:23
+# "All Alone" (Rick Roberts, Chris Hillman) – 3:33
+# "Why Are You Crying" (Rick Roberts) – 3:02
+
+CD Bonus Tracks: 
+#"Tried So Hard" (single version) (Gene Clark) 
+#"Here Tonight" (Gene Clark)  
+#"Payday" (Jesse Winchester) 
+#"In My Own Small Way" (Rick Roberts) 
+#"Feel Good Music" (Rick Roberts) 
+#"Beat The Heat" (instrumental) (Pete Kleinow) 
+#"Did You See" (Rick Roberts) 
+#"Pick Me Up On Your Way Down" ([[Harlan Howard]])
+
+==Personnel==
+;The Flying Burrito Brothers
+* [[Rick Roberts (musician)|Rick Roberts]] - vocals, rhythm guitar
+* [[Chris Hillman]] - vocals, bass
+* [[Sneaky Pete Kleinow]] - pedal steel guitar
+* [[Bernie Leadon]] - vocals, guitars, banjo
+* [[Michael Clarke (musician)|Michael Clarke]] - drums
+
+;Additional musicians
+* Earl P. Ball - piano
+* [[Bob Gibson (musician)|Bob Gibson]] - guitar
+* [[Mike Deasy]] - guitar
+
+==Production==
+*Producer: Jim Dickson/Bob Hughes
+*Recording Engineer: Lillian Davis Douma / Bob Hughes
+*Art Direction: Roland Young
+*Photography: [[Jim McCrary]]
+*Design: Chuck Beeson
+
+== References ==
+{{Reflist|refs=
+<ref name=Allmusic>{{Allmusic |class=album |id=r7528 |tab=review |last=Hartenbach |first=Brett |label=''The Flying Burrito Brothers''}}</ref>
+}}
+{{The Flying Burrito Brothers}}
+{{DEFAULTSORT:Flying Burrito Brothers, The}}
+[[Category:The Flying Burrito Brothers albums]]
+[[Category:Rick Roberts (musician) albums]]
+[[Category:1971 albums]]
+[[Category:A&M Records albums]]
+[[Category:Albums recorded at Sunset Sound Recorders]]

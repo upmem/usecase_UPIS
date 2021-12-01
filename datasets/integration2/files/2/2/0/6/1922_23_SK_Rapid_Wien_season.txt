@@ -1,0 +1,219 @@
+{{Infobox football club season
+| club               = [[SK Rapid Wien|Rapid Wien]]
+| season             = 1922-23
+| manager            = [[Dionys Schönecker]]
+| mgrtitle           = Coach
+| stadium            = [[Pfarrwiese]],<br/>[[Vienna]], [[Austria]]
+| league             = [[1922-23 Austrian football championship|First class]]
+| league result      = '''Champions''' (8th title)
+| cup1               = [[1922-23 Austrian Cup|Austrian Cup]]
+| cup1 result        = Semifinal
+| league topscorer   = [[Josef Uridil]] (15)
+| season topscorer   = [[Richard Kuthan]] (16)
+| highest attendance = 50,000
+| lowest attendance  = 4,000
+| average attendance = 18,500
+| prevseason         = [[1921–22 SK Rapid Wien season|1921–22]]
+| nextseason         = [[1923–24 SK Rapid Wien season|1923–24]]
+}}
+
+The '''1922–23 [[SK Rapid Wien]] season''' was the 25th season in club history.
+
+==Squad==
+
+===Squad and statistics===
+<ref name=ref>{{cite web|title=Saison 1922/23 |url=http://www.rapidarchiv.at/saisonen/1923.html|publisher=rapidarchiv.at|accessdate=19 July 2016}}</ref>
+
+===Squad statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan="2" valign="bottom"|Nat.
+!rowspan="2" valign="bottom"|Name
+!colspan="2" width="85"|League
+!colspan="2" width="85"|Cup
+!colspan="2" width="85"|Total
+!valign="bottom"|Discipline
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+![[File:Red card.svg|13px]]
+|-
+!colspan=15|Goalkeepers
+|-
+|{{flagicon|AUT}}||align="left"|[[Rudolf Moche]] || 2|| || || || 2|| ||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Ernst Pauler]] || 13|| || 4|| || 17|| ||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Ignaz Tiller]] || 9|| || || || 9|| ||  
+|-
+!colspan=15|Defenders
+|-
+|{{flagicon|AUT}}||align="left"|[[Vinzenz Dittrich]] || 8|| || || || 8|| ||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Alexander Popovich]] || 13|| || 1|| || 14|| ||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Emil Regnard]] || 14|| || 4|| || 18|| ||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Willibald Stejskal]] || 6|| || 3|| || 9|| ||  
+|-
+!colspan=15|Midfielders
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Brandstetter]] || 24|| 7|| 4|| 2|| 28|| 9||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Klär]] || 15|| || 1|| || 16|| ||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Machek]] || 9|| || 3|| || 12|| ||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Nitsch]] || 24|| || 4|| || 28|| ||  
+|-
+!colspan=15|Forwards
+|-
+|{{flagicon|AUT}}||align="left"|[[Eduard Bauer]] || 9|| 4|| 1|| 1|| 10|| 5||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Heinrich Budin]] || 2|| || 1|| || 3|| ||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Thomas Chalupsky]] || 1|| || || || 1|| ||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Willibald Kirbes]] || 6|| 2|| 1|| || 7|| 2||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Richard Kuthan]] || 22|| 14|| 4|| 2|| 26|| 16||  
+|-
+|{{flagicon|AUT}}||align="left"|Johann Richter || 19|| 12|| 4|| 2|| 23|| 14||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Schlosser]] || 10|| 2|| 2|| 2|| 12|| 4||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Uridil]] || 10|| 15|| || || 10|| 15||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Ferdinand Wesely]] || 18|| 11|| 4|| 3|| 22|| 14||  1
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Witka]] || 8|| 3|| || || 8|| 3||  
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Wondrak]] || 22|| 6|| 3|| 2|| 25|| 8||  
+|}
+
+==Fixtures and results==
+<ref name=results>{{cite web|title=Spiele 1922/23 |url=http://www.rapidarchiv.at/spiele/1923.html|publisher=rapidarchiv.at|accessdate=25 July 2016}}</ref>
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+===League===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#cfc"
+| {{tooltip|1|Round 1}} || 03.09.1922 || A || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 5-1 || align="right"|15,000
+| align="left"|[[Karl Wondrak|Wondrak]] {{goal|15}}, [[Ferdinand Wesely|Wesely]] {{goal|25}}, [[Richard Kuthan|Kuthan]] {{goal|43}} {{goal|90}}, [[Leopold Witka|Witka]] {{goal|77}}
+|- style="background:#cfc"
+| {{tooltip|2|Round 2}} || 01.11.1922 || A || align="left"| [[Hakoah Vienna|Hakoah]] || 3-2 || align="right"|25,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|24}} {{goal|53}} {{goal|61}}
+|- style="background:#cfc"
+| {{tooltip|3|Round 3}} || 17.09.1922 || [[Hohe Warte Stadium|A]] || align="left"| [[First Vienna FC|Vienna]] || 8-0 || align="right"|40,000
+| align="left"|[[Leopold Witka|Witka]] {{goal|9}}, [[Josef Brandstetter|Brandstetter J.]] {{goal|17}}, [[Richard Kuthan|Kuthan]] {{goal|28}} {{goal|77}}, Richter {{goal|39}} {{goal|46}}, [[Ferdinand Wesely|Wesely]] {{goal|40}} {{goal|79}}
+|- style="background:#cfc"
+| {{tooltip|4|Round 4}} || 12.11.1922 || [[Hohe Warte Stadium|A]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 2-0 || align="right"|30,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|31}}, [[Ferdinand Wesely|Wesely]] {{goal|88}}
+|- style="background:#ffc"
+| {{tooltip|5|Round 5}} || 08.10.1922 || [[Sportplatz Simmering|A]] || align="left"| [[1. Simmeringer SC|Simmering]] || 1-1 || align="right"|15,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|57}}
+|- style="background:#ffc"
+| {{tooltip|6|Round 6}} || 29.10.1922 || [[Pfarrwiese|H]] || align="left"| [[ASV Hertha Wien|Hertha Wien]] || 3-3 || align="right"|18,000
+| align="left"|[[Josef Brandstetter|Brandstetter J.]] {{goal|50}}, [[Josef Uridil|Uridil J.]] {{goal|55}} {{goal|67}}
+|- style="background:#cfc"
+| {{tooltip|8|Round 8}} || 05.11.1922 || A || align="left"| [[FC Admira Wacker Mödling|Admira]] || 1-0 || align="right"|12,000
+| align="left"|Weigl {{goal|82|o.g.}}
+|- style="background:#ffc"
+| {{tooltip|9|Round 9}} || 19.11.1922 || [[Pfarrwiese|H]] || align="left"| [[Wiener AF]] || 2-2 || align="right"|16,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|29}} {{goal|87}}
+|- style="background:#fcc"
+| {{tooltip|10|Round 10}} || 15.10.1922 || [[Hohe Warte Stadium|H]] || align="left"| [[FK Austria Wien|Amateure]] || 3-7 || align="right"|50,000
+| align="left"|[[Eduard Bauer|Bauer E.]] {{goal|9}}, [[Karl Wondrak|Wondrak]] {{goal|}} {{goal|88|pen.}}
+|- style="background:#cfc"
+| {{tooltip|11|Round 11}} || 14.01.1923 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 6-2 || align="right"|18,000
+| align="left"|[[Franz Schlosser|Schlosser]] {{goal|1}}, Richter {{goal|5}} {{goal|40}} {{goal|71}}, [[Richard Kuthan|Kuthan]] {{goal|26}} {{goal|88|pen.}}
+|- style="background:#cfc"
+| {{tooltip|12|Round 12}} || 31.12.1922 || [[Pfarrwiese|H]] || align="left"| [[Floridsdorfer AC|FAC]] || 6-4 || align="right"|15,000
+| align="left"|Richter {{goal|26}} {{goal|61}}, [[Karl Wondrak|Wondrak]] {{goal|40}} {{goal|71}}, [[Josef Brandstetter|Brandstetter J.]] {{goal|49}}, [[Richard Kuthan|Kuthan]] {{goal|74}}
+|- style="background:#ffc"
+| {{tooltip|13|Round 13}} || 17.12.1922 || [[Pfarrwiese|H]] || align="left"| [[Wiener AC]] || 2-2 || align="right"|10,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|49}}, [[Karl Wondrak|Wondrak]] {{goal|72}}
+|- style="background:#cfc"
+| {{tooltip|14|Round 14}} || 18.02.1923 || [[Pfarrwiese|A]] || align="left"| [[ASV Hertha Wien|Hertha Wien]] || 4-3 || align="right"|20,000
+| align="left"|Richter {{goal|7}}, [[Franz Schlosser|Schlosser]] {{goal|27|pen.}}, [[Ferdinand Wesely|Wesely]] {{goal|57}}, Sevcik {{goal|72|o.g.}}
+|- style="background:#cfc"
+| {{tooltip|15|Round 15}} || 20.06.1923 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Admira]] || 5-1 || align="right"|8,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|4}} {{goal|10}} {{goal|23}} {{goal|}}, Richter {{goal|19}}
+|- style="background:#ffc"
+| {{tooltip|16|Round 16}} || 09.05.1923 || [[Pfarrwiese|H]] || align="left"| [[Hakoah Vienna|Hakoah]] || 1-1 || align="right"|20,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|}}
+|- style="background:#cfc"
+| {{tooltip|17|Round 17}} || 25.03.1923 || [[Pfarrwiese|H]] || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 6-0 || align="right"|20,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|22}} {{goal|70}} {{goal|90}}, Richter {{goal|46}}, [[Richard Kuthan|Kuthan]] {{goal|62}}, [[Eduard Bauer|Bauer E.]] {{goal|66}}
+|- style="background:#fcc"
+| {{tooltip|18|Round 18}} || 07.07.1923 || [[Pfarrwiese|H]] || align="left"| [[1. Simmeringer SC|Simmering]] || 3-4 || align="right"|10,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|15}}, [[Eduard Bauer|Bauer E.]] {{goal|80}}, [[Josef Uridil|Uridil J.]] {{goal|88}}
+|- style="background:#cfc"
+| {{tooltip|19|Round 19}} || 22.04.1923 || A || align="left"| [[Wiener AC]] || 2-0 || align="right"|25,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|12}}, [[Ferdinand Wesely|Wesely]] {{goal|40}}
+|- style="background:#cfc"
+| {{tooltip|21|Round 21}} || 27.05.1923 || A || align="left"| [[Wiener AF]] || 4-2 || align="right"|12,000
+| align="left"|[[Josef Brandstetter|Brandstetter J.]] {{goal||pen.}}, [[Ferdinand Wesely|Wesely]] {{goal|54}} {{goal|64|pen.}}, Richter {{goal|67}}
+|- style="background:#fcc"
+| {{tooltip|22|Round 22}} || 03.06.1923 || [[Hohe Warte Stadium|A]] || align="left"| [[FK Austria Wien|Amateure]] || 0-3 || align="right"|30,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{send off|0|30}}
+|- style="background:#ffc"
+| {{tooltip|23|Round 23}} || 10.06.1923 || A || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 1-1 || align="right"|18,000
+| align="left"|[[Josef Brandstetter|Brandstetter J.]] {{goal|75}}
+|- style="background:#cfc"
+| {{tooltip|24|Round 24}} || 17.06.1923 || [[Pfarrwiese|H]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 2-1 || align="right"|25,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|26}}, [[Willibald Kirbes|Kirbes W.]] {{goal|30}}
+|- style="background:#cfc"
+| {{tooltip|25|Round 25}} || 20.05.1923 || [[FAC-Platz|A]] || align="left"| [[Floridsdorfer AC|FAC]] || 3-0 || align="right"|6,000
+| align="left"|Richter {{goal|12}}, [[Josef Brandstetter|Brandstetter J.]] {{goal|27|pen.}}, [[Leopold Witka|Witka]] {{goal|}}
+|- style="background:#cfc"
+| {{tooltip|26|Round 26}} || 01.07.1923 || [[Pfarrwiese|H]] || align="left"| [[First Vienna FC|Vienna]] || 5-2 || align="right"|12,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|25}} {{goal|69}}, [[Josef Brandstetter|Brandstetter J.]] {{goal|61|pen.}}, [[Willibald Kirbes|Kirbes W.]] {{goal|67}}, [[Eduard Bauer|Bauer E.]] {{goal|71}}
+|}
+
+===Cup===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#cfc"
+| {{tooltip|R1|1st round}} || 11.02.1923 || [[Pfarrwiese|H]] || align="left"| [[Vienna Cricket and Football-Club|Cricket]] || 3-1 || align="right"|4,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|8}}, [[Franz Schlosser|Schlosser]] {{goal|54|pen.}}, Richter {{goal|86}}
+|- style="background:#cfc"
+| {{tooltip|R16|Round of 16}} || 04.03.1923 || [[Pfarrwiese|H]] || align="left"| [[Wiener Bewegungsspieler|Bewegungsspieler]] || 5-0 || align="right"|5,000
+| align="left"|[[Josef Brandstetter|Brandstetter J.]] {{goal|1}}, [[Ferdinand Wesely|Wesely]] {{goal|21}}, Unknown {{goal|59|o.g.}}, [[Franz Schlosser|Schlosser]] {{goal|74}}, [[Karl Wondrak|Wondrak]] {{goal|90}}
+|- style="background:#cfc"
+| {{tooltip|QF|Quarterfinal}} || 29.04.1923 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Admira]] || 5-1 || align="right"|20,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|12}}, [[Eduard Bauer|Bauer E.]] {{goal|37}}, [[Karl Wondrak|Wondrak]] {{goal|61}}, Richter {{goal|77}}, [[Richard Kuthan|Kuthan]] {{goal||pen.}}
+|- style="background:#fcc"
+| {{tooltip|SF|Semifinal}} || 31.05.1923 || [[Sportplatz Simmering|A]] || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 2-4 || align="right"|13,000
+| align="left"|[[Josef Brandstetter|Brandstetter J.]] {{goal|22|pen.}}, [[Ferdinand Wesely|Wesely]] {{goal|31}}
+|}
+
+==References==
+{{Reflist}}
+
+{{SK Rapid Wien seasons |state=expanded}}
+
+{{DEFAULTSORT:1922-23 SK Rapid Wien season}}
+[[Category:SK Rapid Wien seasons|1922-23 Rapid Wien Season]]
+[[Category:Austrian football clubs 1922–23 season|Rapid]]

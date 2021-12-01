@@ -1,0 +1,38 @@
+{{coord|40|51|30|N|44|09|41|E|display=title}}
+{{Infobox settlement
+|official_name =Nalband
+|native_name = 
+|pushpin_map            =Armenia
+|mapsize                =150px
+|subdivision_type       = Country
+|subdivision_name       = [[Armenia]]
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      = [[Lori Province|Lori]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 
+|population_total =
+|population_density_km2   =
+|timezone =&nbsp;
+|utc_offset             = +4
+|timezone_DST           =&nbsp; 
+|utc_offset_DST         = +5
+|coordinates            = {{coord|40|51|30|N|44|09|41|E|region:AM|display=inline}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+}}
+'''Nalband''' ({{lang-hy|Նալբանդի}} ''{{transl|hy|Nalbandi}}'') is a town in the [[Lori Province]] of [[Armenia]].
+
+==References==
+*{{GEOnet2|32FA881E6C333774E0440003BA962ED3}}
+
+
+[[Category:Populated places in Lori Province]]
+
+
+{{Lori-geo-stub}}

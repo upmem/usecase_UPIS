@@ -1,0 +1,33 @@
+{{short description|Italian mathematician}}
+'''Roberto Marcolongo''' (August 28, 1862 in [[Rome]] – May 16, 1943 in Rome) was an [[Italians|Italian]] [[mathematician]], known for his research in [[vector calculus]] and [[theoretical physics]].
+
+He graduated in 1886, and later he was an assistant of [[Valentino Cerruti]] in Rome. In 1895 he became professor of [[Classical mechanics|rational mechanics]] at the [[University of Messina]]. In 1908 he moved to the [[University of Naples]], where he remained until retirement in 1935.
+
+He worked on [[vector calculus]] together with [[Cesare Burali-Forti]], which was then known as "Italian notation". In 1906 he wrote an early work which used the [[spacetime|four-dimensional formalism]] to account for relativistic invariance under [[Lorentz transformation]]s.
+
+In 1921 he published to [[Messina]] one of the first treaties on the special relativity and general, where he used the absolute differential calculus without coordinates, developed with Burali-Forti, as opposed to the absolute differential calculus with coordinates of [[Tullio Levi-Civita]] and [[Gregorio Ricci-Curbastro]].
+
+He was a member of the [[Accademia dei Lincei]] and other Italian academies.
+
+== Works ==
+* ''[https://archive.org/details/teoriamatematic00marcgoog Teoria matematica dello equilibrio dei corpi elastici]'' (Milano: U. Hoepli, 1904)
+* ''[https://archive.org/details/meccanicarazion00marcgoog Meccanica razionale]'' (Milano: U. Hoepli, 1905)
+* ''Elementi di Calcolo vettoriale con numerose Applicazioni'' (with Burali-Forti) (Bologna, Nicola Zanichelli, 1909)<ref name=EBWilson1910>{{cite journal|author=Wilson, Edwin Bidwell|authorlink=Edwin Bidwell Wilson|title=The Unification of Vectorial Notations|journal=Bull. Amer. Math. Soc.|year=1910|volume=27|pages=415–436|url=http://www.ams.org/journals/bull/1910-16-08/S0002-9904-1910-01940-6/S0002-9904-1910-01940-6.pdf|doi=10.1090/S0002-9904-1910-01940-6}}</ref><ref>{{cite journal|author=Wilson, E. B.|title=Review of French translation of ''Elementi di Calcolo vettoriale''|year=1911|volume=17|journal=Bull. Amer. Math. Soc.|pages=256–257|url=http://www.ams.org/journals/bull/1911-17-05/S0002-9904-1911-02043-2/S0002-9904-1911-02043-2.pdf|doi=10.1090/S0002-9904-1911-02043-2}}</ref> {{cite book|title=2nd ed.|year=1920|url=https://catalog.hathitrust.org/Record/000576208}}
+* [https://catalog.hathitrust.org/Record/000576245 ''Omografie vettoriali con Applicazioni''] (with Burali-Forti) (Torino, G. B. Petrini, 1909)<ref name=EBWilson1910/>
+* ''[https://archive.org/stream/transformations00barigoog Analyse vectorielle générale: Transformations linéaires]'' (with [[Cesare Burali-Forti]], translated into French by Paul Baridon) (Pavia: Mattei & C., 1913)
+* [https://archive.org/details/applicationslam00bogggoog Analyse vectorielle générale: Applications à la mécanique et à la physique] (in French, with [[Cesare Burali-Forti]] and [[Tommaso Boggio]]) (Pavia:Mattei & C., 1913)
+* [https://catalog.hathitrust.org/Record/001990403 ''Il Problema dei Tre Corpi da Newton ai Nostri Giorni''] (Milano, Ulrico Hoepli, 1919)<ref>{{cite journal|author=Dowling, L. W.|title=Review of ''Il Problema dei Tre Corpi da Newton ai Nostri Giorni'' by R. Marcolongo|journal=Bull. Amer. Math. Soc.|year=1921|volume=27|pages=284–285|url=http://www.ams.org/journals/bull/1921-27-06/S0002-9904-1921-03415-X/S0002-9904-1921-03415-X.pdf|doi=10.1090/s0002-9904-1921-03415-x}}</ref>
+* [https://catalog.hathitrust.org/Record/000483334 ''Relatività''] (Messina, G. Principato, 1921)
+
+==Literature==
+*[https://web.archive.org/web/20110727025308/http://www.dm.unito.it/sism/m_italiani/biografie/tricomi/marcolongo.html Biography] by [[Francesco Tricomi]].
+
+==References==
+<references />
+
+{{Authority control}}
+{{DEFAULTSORT:Marcolongo, Roberto}}
+[[Category:1862 births]]
+[[Category:1943 deaths]]
+[[Category:19th-century Italian mathematicians]]
+[[Category:20th-century Italian mathematicians]]

@@ -1,0 +1,33 @@
+<noinclude>[[Category:Passed DYK nominations&nbsp;from April 2017]]<div style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following is an archived discussion of the DYK nomination of the article below. <span style="color:red">'''Please do not modify this page.'''</span> Subsequent comments should be made on the appropriate discussion page (such as [[{{TALKPAGENAME}}|this nomination's talk page]], [[Talk:{{SUBPAGENAME}}|the article's talk page]] or [[Wikipedia talk:Did you know]]), unless there is consensus to re-open the discussion at this page. '''No further edits should be made to this page'''.''
+
+The result was: '''promoted''' by [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 05:38, 18 June 2017 (UTC)<br />
+{{DYK conditions}}
+====Henry Wade (surgeon)====
+{{DYK nompage links|nompage=Henry Wade (surgeon)|Henry Wade (surgeon)}}
+<div style="float:right; margin-left:0.5em;" id="mp-dyk-img">
+{{main page image|image=Henry Wade military portrait.jpg|caption=Sir Henry Wade|width=120x133}}
+</div>
+* <s>... that '''[[Henry Wade (surgeon)|Sir Henry Wade]]''' ''(pictured)'' saved the leg of [[Norman Dott]] who then became an innovative surgeon too?</s>
+:* ''Reviewed'': [[Template:Did you know nominations/Onesimus Ustonson|Onesimus Ustonson]]
+:* ''Comment'': The hook facts can be verified at [https://lhsa.blogspot.co.uk/2015/06/ Lothian Health Services Archive].  The article was written for the [[Wikipedia:GLAM/Wellcome/Events and Workshops/BSHM|BHSM event]].
+<small>Created by [[User:Iainmacintyre|Iainmacintyre]] ([[User talk:Iainmacintyre|talk]]) and [[User:Axxter99|Axxter99]] ([[User talk:Axxter99|talk]]). Nominated by [[User:Andrew Davidson|Andrew Davidson]] ([[User talk:Andrew Davidson|talk]]) at 19:56, 13 April 2017 (UTC).</small>
+
+:* [[File:Symbol possible vote.svg|16px]] {{Ping|Andrew Davidson|Iainmacintyre|Axxter99}} New and long enough, QPQ done, Earwig detects no copyvios (but all of the sources are offline).  I'm concerned that 8 of the 13 references are papers by Wade himself, which runs afoul of point 5 of [[WP:SELFPUB]]; there need to be more third-party sources.  The "Urological surgeon", "Marriage", and "Death" sections lack references.  Also, is it reasonable to call him a "pioneer cancer researcher" when his theory about cancer was incorrect?  I think it's a good job at writing an article about an interesting subject, but it needs a wider variety of sources.  [[User:John P. Sadowski (NIOSH)|John P. Sadowski (NIOSH)]] ([[User talk:John P. Sadowski (NIOSH)|talk]]) 03:31, 22 April 2017 (UTC)
+
+Points well taken. I have added citations , mainly from BMJ Obituary available online. He is not remembered for his erroneous cancer theory so that has been deleted.
+Thanks
+[[User:Iainmacintyre|Papamac]] ([[User talk:Iainmacintyre|talk]]) 17:01, 22 April 2017 (UTC)
+
+:{{Ping|Andrew Davidson|Iainmacintyre|Axxter99}} I'd still like to see at least one secondary source per paragraph. [[User:John P. Sadowski (NIOSH)|John P. Sadowski (NIOSH)]] ([[User talk:John P. Sadowski (NIOSH)|talk]]) 00:26, 28 April 2017 (UTC)
+:{{Ping|Andrew Davidson|Iainmacintyre|Axxter99}} Pinging. [[User:John P. Sadowski (NIOSH)|John P. Sadowski (NIOSH)]] ([[User talk:John P. Sadowski (NIOSH)|talk]]) 21:29, 29 May 2017 (UTC)
+::* I'm quite busy with other commitments this week, alas.  I might get to it next week. [[user:Andrew Davidson|Andrew D.]] ([[user talk:Andrew Davidson|talk]]) 22:15, 29 May 2017 (UTC)
+[[File:Symbol redirect vote 4.svg|16px]]  I have been through the article, checking its citations.  I have checked that there's at least one secondary source per paragraph – in most cases, it's a reference to one of the obituaries.  I fixed up the one case of a {{tl|citation needed}}.  I reckon it's reasonably good now but, if more seems needed, please identify the specific passage. [[user:Andrew Davidson|Andrew D.]] ([[user talk:Andrew Davidson|talk]]) 09:34, 10 June 2017 (UTC)
+:*[[File:Symbol voting keep.svg|16px]] As this nomination has been hanging round for some time, I will finish the review. The article is long enough and was nominated in good time. The hook is interesting and the facts are cited inline. The article is neutral, seems to be adequately cited and is free of copyvios, as far as I can see. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 06:27, 12 June 2017 (UTC)
+::*[[File:Symbol question.svg|16px]] Hi, I came by to promote this, but don't see anything written in the article about Dott being an "innovative" surgeon. [[User:Yoninah|Yoninah]] ([[User talk:Yoninah|talk]]) 21:03, 14 June 2017 (UTC)
+:::*Below is an alt idea. <span class="smallcaps" style="font-variant:small-caps;">[[User:Northamerica1000|North America]]<sup>[[User talk:Northamerica1000|<span style="font-size:smaller">1000</span>]]</sup></span> 21:56, 16 June 2017 (UTC)
+:::*'''ALT1''': ... that '''[[Henry Wade (surgeon)|Sir Henry Wade]]''' ''(pictured)'' saved the leg of [[Norman Dott]], who then became a surgeon too?
+:::::Or this one? [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 05:02, 17 June 2017 (UTC)
+:*'''ALT2''':<s> ... that '''[[Henry Wade (surgeon)|Sir Henry Wade]]''' ''(pictured)'' saved the leg of teenage [[Norman Dott]], inspiring him to change his career from engineering to surgery? </s>
+::*[[File:Symbol voting keep.svg|16px]] It's not possible to infer the ALT2 hook fact from the sentence in the article, so I'll pass on that. ALT1 is succinct and hooky; offline ref AGF and cited inline. ALT1 good to go. [[User:Yoninah|Yoninah]] ([[User talk:Yoninah|talk]]) 21:52, 17 June 2017 (UTC)
+{{-}}</div></noinclude><!--Please do not write below this line or remove this line. Place comments above this line.-->

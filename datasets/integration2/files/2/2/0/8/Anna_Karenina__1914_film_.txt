@@ -1,0 +1,65 @@
+{{Infobox film
+| name           = Anna Karenina
+| native_name      = {{lang-ru|Анна Каренина}}
+| image          = Кадр из фильма Анна Каренина (1914), перешедший в общественное достояние.jpg
+| caption        = Scene from the movie "Anna Karenina"
+| director       = [[Vladimir Gardin]]
+| producer       = 
+| writer         = {{Plainlist|
+* [[Vladimir Gardin]]
+* [[Leo Tolstoy]]
+}}
+| starring       = {{Plainlist|
+* [[Maria Germanova]]
+* Vladimir Shaternikov
+* Mikhail Tamarov
+* [[Zoya Barantsevich]]
+* V. Obolensky
+* Vladimir Kvanin
+* Moreva
+* [[Vera Kholodnaya]]
+}}
+| music          = 
+| cinematography = 
+| editing        = 
+| released       = 
+| runtime        = 
+| country        = Russian Empire
+| language       = 
+| budget         = 
+}}
+'''''Anna Karenina''''' ({{lang-ru|Анна Каренина}}) is a 1914 Russian drama film directed and written by [[Vladimir Gardin]].<ref>[https://www.filmpro.ru/materials/38001 Елизавета Боярская сыграет Анну Каренину]</ref><ref>[http://ru.vpoltave.info/post/47642 123 года назад родился один из самых известных полтавских киноактеров]{{Dead link|date=September 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>[https://ria.ru/spravka/20130805/953901913.html Биография Веры Холодной]</ref><ref>[https://rian.com.ua/culture_society/20130805/338156436.html Исполняется 120 лет со дня рождения актрисы немого кино Веры Холодной]</ref>
+
+== Plot ==
+The film is based on [[Anna Karenina|the 1877 novel]] by [[Leo Tolstoy]].
+
+== Cast ==
+* [[Maria Germanova]] as Anna Karenina
+* Vladimir Shaternikov as Karenin
+* Mikhail Tamarov as Vronsky
+* [[Zoya Barantsevich]] as Kittie
+* V. Obolensky as Levin
+* Vladimir Kvanin as Stiva Oblonsky
+* Moreva as Dolly
+* [[Vera Kholodnaya]] as Italian wet-nurse (uncredited)<ref>[https://www.imdb.com/title/tt0003625/fullcredits/?ref_=tt_ov_st_sm Анна Каренина (1914) Full Cast & Crew]</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{IMDb title|id=0003625|title=«Anna Karenina»}}
+
+{{Anna Karenina}}
+
+[[Category:1914 films]]
+[[Category:Russian films]]
+[[Category:Russian-language films]]
+[[Category:Films based on Anna Karenina]]
+[[Category:Russian silent films]]
+[[Category:Russian black-and-white films]]
+[[Category:Films of the Russian Empire]]
+[[Category:Russian drama films]]
+[[Category:1914 drama films]]
+
+
+{{1910s-Russia-film-stub}}

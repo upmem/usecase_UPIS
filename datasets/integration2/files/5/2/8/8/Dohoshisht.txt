@@ -1,0 +1,43 @@
+{{Infobox settlement AL
+|type               = mu
+|official_name      = Dohoshisht
+|image_flag         = 
+|image_shield       = 
+|image_skyline      = 
+|image_caption      = 
+|image_location     = 
+|county             = [[Dibër County|Dibër]]
+|municipality       = [[Dibër, Albania|Dibër]]
+|leader_name        = 
+|leader_party       = 
+|coordinates        = {{coord|41|40|N|20|25|E|type:adm1st_region:AL_dim:100000|display=inline,title}}
+|elevation          = 
+|elevation_min      = 
+|elevation_max      = 
+|area_total         = 
+|population_as_of   = 
+|population_unit   = 2000
+|postal_code        = 
+|area_code          = 
+|car_plates         = DI
+|website            = 
+}}
+'''Dohoshisht''' is a village in [[Dibër County]], northeastern [[Albania]]. It is located 1 km southwest of the town of [[Peshkopi]], and is bisected by the Hot Springs Creek ({{lang-sq|Përroi i Llixhave}}). In the 2015 local government reform it became a subdivision of the municipality of [[Dibër, Albania|Dibër]].<ref>[http://www.reformaterritoriale.al/images/presentations/Ligji%20ndarja%20territoriale_Fletore_zyrtare.pdf Law nr. 115/2014] {{webarchive|url=https://web.archive.org/web/20150924085559/http://www.reformaterritoriale.al/images/presentations/Ligji%20ndarja%20territoriale_Fletore_zyrtare.pdf |date=2015-09-24 }}</ref> 
+
+The vast majority of residents are ethnic Albanians, with a small minority of [[Ashkali_and_Balkan_Egyptians|Jevgs]]. Islam is the dominant religious identity.
+
+==History==
+Dohoshisht is considered one of the oldest villages in the area. In the Ottoman period, the village was governed by [[beys]] and by families which were wealthy and renowned throughout the area. One of them was the Hysenagolli family, holders of the title of ''Oxhakllëk'', which represented primacy and leadership of the entire Dibër region. The family's descendants are now dispersed widely to places such as Peshkopi, Tirana, the USA, etc. In the modern day, other families have attempted to appropriate the surname.
+
+Other well-known families in Dohoshisht include the Alku, Kaja, and Kadriu.
+
+==References==
+<references/>
+
+{{Dibër County new}}
+{{Dibër div}}
+
+{{DEFAULTSORT:Dohoshisht}}
+[[Category:Villages in Dibër County]]
+
+{{Dibër-geo-stub}}

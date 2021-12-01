@@ -1,0 +1,15 @@
+[[File:Marshalls Heath 7.JPG|thumb]]
+'''Marshalls Heath''' is a 4 hectare [[Local Nature Reserve]] in [[Wheathampstead]] in [[Hertfordshire]]. It is owned by Wheathampstead Parish Council and managed by the council together with the Friends of Marshalls Heath.<ref name=LNR>{{cite web|url= http://www.lnr.naturalengland.org.uk/Special/lnr/lnr_details.asp?C=0&N=&ID=287|title=Marshalls Heath |series=Local Nature Reserves|publisher=Natural England| date = 14 March 2013 |accessdate=  16 July 2015}}</ref><ref>{{cite web|url=http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&activelayer=lnrIndex&query=REF_CODE%3D%271009023%27 |title=Map of Marshalls Heath|series=Local Nature Reserves|publisher=Natural England| accessdate=  16 July 2015}}</ref> It was purchased from [[The Queen's College, Oxford]], in 1966.<ref>{{cite web|url=http://www.wheathampstead.net/mh/keyfacts.htm|title=Marshalls Heath Nature Reserve: Key Facts|publisher=Wheathampstead.net| accessdate=  16 July 2015}}</ref>
+
+The site is acid heath on both sides of Marshalls Heath Lane. It is secondary woodland and scrub, but the many species recorded include forty on national lists of threatened species. [[Yellow hill ant]]s are very common, and it is one of the key Hertfordshire sites for butterflies and moths.<ref name=LNR/> The site was managed by the [[Herts and Middlesex Wildlife Trust]] between 1972 and 1993, when the council terminated the agreement with the trust.<ref>{{cite web|url=http://www.wheathampstead.net/mh/history.htm|title=Marshalls Heath Nature Reserve: History|publisher=Wheathampstead.net |accessdate=  16 July 2015}}</ref>
+
+{{commonscat}}
+==References==
+{{reflist}}
+
+{{coord|51.8207| -0.3169|type:landmark_region:GB-BNE|display=title}}
+{{Local Nature Reserves in Hertfordshire}}
+{{Herts and Middlesex Wildlife Trust}}
+
+[[Category:Local Nature Reserves in Hertfordshire]]
+[[Category:City of St Albans]]

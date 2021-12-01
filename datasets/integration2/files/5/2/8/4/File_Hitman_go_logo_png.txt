@@ -1,0 +1,21 @@
+== Summary ==
+{{Non-free use rationale logo
+| Article           = Hitman Go
+| Use               = Product
+| Purpose           = <!--Must be specified when Use is set to "Other"; otherwise, disregard -->
+<!-- ADDITIONAL INFORMATION -->
+| Used for          = 
+| Owner             = [[Square Enix]]
+| Description       = 
+| Website           = 
+| History           = 
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Source            = 
+| Portion           = 
+| Low resolution    = 
+| Replaceability    = 
+| Other information = 
+}}
+== Licensing ==
+{{Non-free logo|Video game logos|image has rationale=yes}}

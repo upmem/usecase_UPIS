@@ -1,0 +1,84 @@
+<!--FLtop--><div class="boilerplate metadata afd vfd xfd-closed" style="background-color: #FFF2E6; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following is an archived discussion of a [[Wikipedia:featured list candidates|featured list nomination]]. <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the article's talk page or in [[Wikipedia talk:Featured list candidates]]. No further edits should be made to this page.''
+
+The list was '''promoted''' by [[User:Giants2008|Giants2008]] 18:24, 26 March 2011 [http://en.wikipedia.org/w/index.php?diff=prev&oldid=420846532].
+----
+
+===[[List of Knight's Cross of the Iron Cross with Oak Leaves recipients (1944)]]===
+
+<noinclude>{{la|List of Knight's Cross of the Iron Cross with Oak Leaves recipients (1944)}}</noinclude>
+<noinclude>{{Wikipedia:Featured list tools|1=List of Knight's Cross of the Iron Cross with Oak Leaves recipients (1944)}}</noinclude>
+<!-- Please don't edit anything above here. Be sure to include your reasons for nominating below. -->
+:<small>''Nominator(s): [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 09:47, 8 February 2011 (UTC)''</small>
+
+I am nominating this as the fourth of five lists for featured list because I feel this list may meet the criteria already. The number of read links is 8% and within the limit of what I have seen to be acceptable here. Due to the few number of recipients in the years 1940 and 1941 the two years had to be merged into one list. Once completed the five lists 1940–1941 (currently a featured list), 1942 (currently a featured list), 1943 (currently a featured list), 1944 and 1945 will comprise all of the generally accepted 882 recipients of the Knight's Cross of the Iron Cross with Oak Leaves. I welcome any constructive feedback. Thanks in advance. [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 09:47, 8 February 2011 (UTC)
+
+<!-- cap created with [[Template:RC]] -->
+{{hidden/FC|headerstyle=background:#ccf;|contentstyle=border:1px #ccf solid; padding:10px;|header=Resolved comments from [[User:The Rambling Man|The Rambling Man]] ([[User talk:The Rambling Man|talk]]) 17:59, 2 March 2011 (UTC)|content=*Mildly confused why Dessloch was awarded in 1941 but is listed here?
+** Oops, fixed! should be 10 May 1944! [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 07:47, 17 February 2011 (UTC)
+*367 - Mulzer, his blue link is a bit of a cheat as it redirects back to this list... best make him a red link.
+** Strange? This was recently created and slipped by me. Fixed now. [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 08:36, 17 February 2011 (UTC)
+*"combat commander..." combat->Combat for consistency.
+** done [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 12:04, 17 February 2011 (UTC)
+*511 - Fitz, same as Mulzer.
+** fixed [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 09:58, 17 February 2011 (UTC)
+*518 - Dollman, would suggest note says "Committed suicide" and no need for linking that word.
+** done [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 12:43, 17 February 2011 (UTC)
+*522 - Fabian, same as Mulzer.
+** fixed [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 15:17, 17 February 2011 (UTC)
+*568 - Gansmeier - ditto.
+** done [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 12:57, 18 February 2011 (UTC)
+*604 - Burg, ditto.
+** done [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 14:53, 18 February 2011 (UTC)
+*Note 3 overlinks Leutnant.
+** done [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 12:43, 17 February 2011 (UTC)
+
+*Recent learning: we should use the {{tl|lang}} template for foreign-language phrases (assists screen-reading technology, see [[WP:ACCESS]] for more details).  Would be worth rolling this back into previous FLs of yours and into the 1945 list.
+** Question: what do you recommend here? Only the longer phrases such as ''Ritterkreuz des Eisernen Kreuzes mit Eichenlaub'', or all the ranks, positions and units as well? [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 13:13, 17 February 2011 (UTC)
+***I think the stuff in the prose needs the template, the ranks etc not so much, although if they're used a lot, I suggest an addition to the key. [[User:The Rambling Man|The Rambling Man]] ([[User talk:The Rambling Man|talk]]) 17:15, 20 February 2011 (UTC)
+**** Okay, I added it to the prose. [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 13:12, 21 February 2011 (UTC)
+*What does Dr.-jur. mean?  I'd just stick to names.
+** Academic titles are an inseparable item from the name in Germany. They cannot be omitted. I will add a note [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 15:22, 17 February 2011 (UTC)
+***Well Wikipedia manages to omit their academic titles in the article names.... [[User:The Rambling Man|The Rambling Man]] ([[User talk:The Rambling Man|talk]]) 17:15, 17 February 2011 (UTC)
+**** The article names themselves exclude the academic titles, but the references always use the titels, see Fellgiebel 2003, [http://books.google.com/books?id=inwd2rDaLm4C&pg=PA312#v=onepage&q&f=false p. 312] as an example [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 13:18, 21 February 2011 (UTC)
+*Same with Dipl.-Ing.  - if this is really important, it could go in the notes column.
+** See above [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 15:22, 17 February 2011 (UTC)
+*"Awarded 119th Swords..." etc.  Do you really mean "119th recipient of Swords"?
+**Yes, the same format/wording is used on the other articles too. Also note that the online reference linked above also uses this format. [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 13:15, 21 February 2011 (UTC)
+*Why is Staffelkapitän in italics?
+*Same with some other positions in the list?
+** Regarding both comments: I put specific German roles that pertain to positions with the Luftwaffe in italics. I used italics here because these positions/roles are somewhat unique and I felt that they semantically are not a 1:1 match to an equivalent in English. A Staffelkapitän is similar to a squadron leader but not fully identical, likewise Gruppenkommandeur and Geschwaderkommodore. It is consistent on the other lists. [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 09:08, 2 March 2011 (UTC)
+[[User:The Rambling Man|The Rambling Man]] ([[User talk:The Rambling Man|talk]]) 17:36, 16 February 2011 (UTC)}}
+*'''Support''' meets my expectations of this kind of list right now. [[User:The Rambling Man|The Rambling Man]] ([[User talk:The Rambling Man|talk]]) 19:40, 10 March 2011 (UTC)
+
+<!-- cap created with [[Template:RC]] -->
+{{hidden/FC|headerstyle=background:lightblue;|contentstyle=border:1px lightblue solid; padding:10px;|header=Resolved comments from '''[[User:Giants2008|<font color="blue">Giants2008</font>]]''' ([[User talk:Giants2008|<font color="darkblue">27 and counting</font>]]) 20:42, 6 March 2011 (UTC)|content='''Comments''' –
+*Several of the notes have unspaced em dashes. Style standards are style standards, even in notes. Try making the dashes like the one in note 34.
+** Assuming that I understood what you wanted I think that I addressed your comment [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 09:08, 2 March 2011 (UTC)
+***I don't think I made myself clear enough as to what I was asking for. What I wanted was for the dashes to be unspaced. There are dashes in notes 25, 30, 35, and two in 29. The note I referred to as a model is now number 39; either new notes were added or I botched the number to start with. '''[[User:Giants2008|<font color="blue">Giants2008</font>]]''' ([[User talk:Giants2008|<font color="darkblue">27 and counting</font>]]) 20:25, 4 March 2011 (UTC)
+****Okay understood and '''done''' [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 19:55, 6 March 2011 (UTC)
+*<s>Note 22: "According to Scherzer were the Swords to the Knight's Cross of the Iron Cross with Oak Leaves awarded on 3 August 1944." Move "were" to before "awarded"?</s> '''[[User:Giants2008|<font color="blue">Giants2008</font>]]''' ([[User talk:Giants2008|<font color="darkblue">27 and counting</font>]]) 02:50, 2 March 2011 (UTC)
+** '''Done''' [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 09:08, 2 March 2011 (UTC)}}
+
+*'''Support''' I didn't see any problems other than those already mentioned when I looked at this last week.  Since those are resolved... [[User:Courcelles|Courcelles]] 22:43, 7 March 2011 (UTC)
+
+{{collapse top|Resolved comments from [[User:Crzycheetah|<font color="#FE552E">'''Cheetah'''</font>]] <small>[[User_talk:Crzycheetah|<font color="#2A2722">'''(talk)'''</font>]]</small>|bg=white}}
+*'''Comments''' or more like questions because I am confused
+**''With the exception of Hermann Fegelein, all of the disputed recipients had received the award in 1945...'' - This sentence makes me feel stupid. If they all had received the award in 1945, why are some of them listed in this list (1944)?
+***Indeed if you take the sentence out of context it can make you feel stupid. Start reading with the sentence beginning with "A total of 7 awards were made in 1940, 50 in 1941, 111 in 1942, 192 in 1943, 328 in 1944, and 194 in 1945, giving a total of 882 recipients". You will understand that the sentence in question pertains to all of 882 recipients. [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 08:41, 22 March 2011 (UTC)
+****I read that sentence, but I also read the sentence that said Veit Scherzer disputed 27 of 882. Am I correct so far? The next sentence states that all(meaning 27 disputed recipients) but 1(Hermann Fegelein) had received the award in 1945. It means that 26 out of 27 disputed recipients had received the award in 1945, so in this list I expect to see one disputed recipient at the most. What confuses me is that in this list, that should contain those who had received the award in 1944, I see eight(!) recipients that were disputed by Scherzer. I am not trying to be rude, sarcastic, or funny. It's just eight does not equal to one for me.--[[User:Crzycheetah|<font color="#FE552E">'''Cheetah'''</font>]] <small>[[User_talk:Crzycheetah|<font color="#2A2722">'''(talk)'''</font>]]</small> 02:12, 23 March 2011 (UTC)
+***** Okay, I see the problem now! How about if I phrase it like this "With the exception of Hermann Fegelein, who had received the award in 1943, ..." Note: the disputes in column "Notes" refers to the disputed recipients of the Oak Leaves with Swords (not the Oak Leaves). You have a point that this needs to be made clearer. [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 08:20, 23 March 2011 (UTC)
+****** I added some (hopefully) clarifying sentences in the section "Recipients of 1944" [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 08:52, 23 March 2011 (UTC)
+*******Now, I understand. Two more comments before I support,
+*******# 8 or eight?
+******** '''done''' [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 08:07, 24 March 2011 (UTC)
+*******# In the "key", can you clarify that question mark indicates those who had received Oak Leaves ''and Swords''?
+******** '''done''' [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 08:07, 24 March 2011 (UTC)
+**<s>The dates from the "Date of award" column are taken from the Scherzer 2007 book. Am I right? I see that each date has a reference to that book. BUT what I don't understand is why the recipients 462, 463, 464 and 638 do not have Scherzer's dates. Also, I don't understand why the recipients 404, 526, 618 and 670's dates of award do not have a reference next to it.</s>
+***The sentence "The number of 882 Oak Leaves recipients is based on the analysis and acceptance of the order commission of the Association of Knight's Cross Recipients (AKCR)." defines the source of all ranks, roles, units and dates. I double checked every information with the information published by Scherzer. A discrepancy between Fellgiebel, former president of the AKCR, and Scherzer is commented as a footnote. [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 08:41, 22 March 2011 (UTC)
+**<s>Are those notes that start with "According to Scherzer..." complete sentences and need final periods?</s>
+***All footnotes should end with a final period. Omissions are not intentional. [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 08:41, 22 March 2011 (UTC)
+--[[User:Crzycheetah|<font color="#FE552E">'''Cheetah'''</font>]] <small>[[User_talk:Crzycheetah|<font color="#2A2722">'''(talk)'''</font>]]</small> 04:09, 22 March 2011 (UTC)
+|}
+*'''Support''' --[[User:Crzycheetah|<font color="#FE552E">'''Cheetah'''</font>]] <small>[[User_talk:Crzycheetah|<font color="#2A2722">'''(talk)'''</font>]]</small> 17:18, 24 March 2011 (UTC)
+:''The above discussion is preserved as an archive. <span style="color:red">'''Please do not modify it.'''</span> No further edits should be made to this page.''</div><!--FAbottom--><!--Tagged by FA bot-->

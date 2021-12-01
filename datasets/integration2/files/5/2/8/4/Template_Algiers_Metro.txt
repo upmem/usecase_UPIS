@@ -1,0 +1,60 @@
+{{Navbox 
+ | name = Algiers Metro
+ | state = {{{state|}}}
+ | title = {{flagicon|Algeria}}&nbsp;[[Algiers Metro]]
+ | image = [[File:Tafourah 3.JPG|110px|Algiers Metro.]]
+ | listclass = hlist
+
+|group1 = [[File:M1alger.png|50px|link=Line 1 (Algiers Metro)]]
+|list1 = 
+* [[Place des Martyrs Metro Station|Place des Martyrs]]
+* [[Ali Boumendjel Metro Station|Ali Boumendjel]]
+* [[Tafourah - Grande Poste (Algiers Metro)|Tafourah - Grande Poste]]
+* [[Khelifa Boukhalfa Station|Khelifa Boukhalfa]]
+* [[1er Mai Station|1er Mai]]
+* [[Aïssat Idir Station|Aïssat Idir]]
+* [[Hamma Station|Hamma]]
+* [[Jardin d'essai Station|Jardin d'essai]]
+* [[Les Fusillés Station|Les Fusillés]]
+* [[Cité Amirouche Station|Cité Amirouche]]
+* [[Cité Mer et Soleil Station|Cité Mer et Soleil]]
+* [[Haï El Badr Station|Haï El Badr]]
+* [[Bachdjarah - Tennis Station|Bachdjarah - Tennis]]
+* [[Bachdjarah Station|Bachdjarah]]
+* [[El Harrach Gare Station|El Harrach Gare]]
+* [[El Harrach Centre Station|El Harrach Centre]]
+* [[Hacen Badi Metro Station|<span style="color:#808080">Hacen Badi</span>]]
+* [[Pôle Universitaire Metro Station|<span style="color:#808080">Pôle Universitaire</span>]]
+* [[Beaulieu Metro Station|<span style="color:#808080">Beaulieu</span>]]
+* [[Oued Smar Metro Station|<span style="color:#808080">Oued Smar</span>]]
+* [[Université Houari Boumediene Metro Station|<span style="color:#808080">Université Houari Boumediene</span>]]
+* [[Rabia Tahar Metro Station|<span style="color:#808080">Rabia Tahar</span>]]
+* [[Smail Yefsah Metro Station|<span style="color:#808080">Smail Yefsah</span>]]
+* [[Centre des Affaires Metro Station|<span style="color:#808080">Centre des Affaires</span>]]
+* [[Aéroport Metro Station|<span style="color:#808080">Aéroport</span>]]
+
+|group2 =  Line 2 <br> {{small|(under construction)}}
+|list2 = 
+* [[Haï El Badr Station|Haï El Badr]]
+* [[Les Ateliers Metro Station|Les Ateliers]]
+* [[Gué de Constantine Metro Station|Gué de Constantine]]
+* [[Ain Naadja Metro Station|Ain Naadja]]
+* [[Mohamed Boudiaf Metro Station|<span style="color:#808080">Mohamed Boudiaf</span>]]
+* [[Ain Naâdja Gare Metro Station|<span style="color:#808080">Ain Naâdja Gare</span>]]
+* [[Parc Urbain Metro Station|<span style="color:#808080">Parc Urbain</span>]]
+* [[Mohamed Belarbi Metro Station|<span style="color:#808080">Mohamed Belarbi</span>]]
+* [[APC de Baraki Metro Station|<span style="color:#808080">APC de Baraki</span>]]
+* [[Cité 2004 logements Metro Station|<span style="color:#808080">Cité 2004 logements</span>]]
+
+
+|group3 =  Connecting services
+|list3 = * [[Algiers tramway]]
+* [[National Company for Rail Transport|Commuter rail]]
+* [[Entreprise de transport urbain et suburbain d'Alger|ETUSA public buses]]
+* Aerial tramways
+
+
+}}<noinclude>
+
+[[Category:Rail transport navigational boxes of Algeria]]
+</noinclude>

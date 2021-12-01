@@ -1,0 +1,26 @@
+{{worldwide|date=May 2014}}
+'''Drainage districts''' occur in [[England]] and [[Wales]], varying in size from a few hundred acres to over {{convert|100000|acre|km2}}, all in low-lying areas of the country where flood risk management and land drainage are sensitive issues. Most drainage districts are administered by an [[internal drainage board]] (IDB), which are single purpose local drainage authorities, dealing with the [[drainage]] and [[water level management]] of clean water only.<ref>[http://www.blacksluiceidb.gov.uk/what-is-an-idb.html What is an internal drainage board? section of the Black Sluice IDB website] {{webarchive |url=https://web.archive.org/web/20090622051421/http://www.blacksluiceidb.gov.uk/what-is-an-idb.html |date=June 22, 2009 }}</ref> Each drainage district has a defined area, and the IDB only has powers to deal with matters affecting that area.
+
+==British Isles==
+===Special drainage districts===
+Special drainage districts could be created for the built-up parts of rural area in England, under the provisions of the [[Sewage Utilization Act 1865]], [[Sewage Utilization Act 1867]], [[Sanitary Act 1866]] and [[Public Health Act 1872]]. The [[Public Health Act 1875]] consolidated this legislation. The purpose of the special drainage district was to create a tax raising body to provide works in areas where there was no sanitary authority. They were renamed "special purpose areas" when rural district councils were created in 1894. The [[Local Government Act 1929]] permitted rural district councils to absorb the district and pay for works out of the general rate. This was enforced for all such areas by the [[Rural Water Supplies and Sewerage Act 1944]] and those remaining were abolished.<ref>http://www.nationalarchives.gov.uk/a2a/records.aspx?cat=046-cp_1&cid=28-2-10-1#28-2-10-1</ref>
+
+==The Netherlands==
+[[The Netherlands]] has long been divided into approximately 35 ''waterschappen'', local authorities responsible for water quality and management, including [[Dike (construction)|dikes]] and drainage.  Of these, the ''[[Hoogheemraadschap van Rijnland]]'', headquartered in [[Leiden]] is the largest, and recent mergers have further enlarged it.  The Dutch water boards have been democratically elected for most of the past millennium, making them some of the oldest democratic institutions in the world.
+
+==United States==
+===Illinois===
+The state of [[Illinois]] established a system of drainage districts in 1871.  Drainage districts, run by drainage commissions, are able to levy [[property taxes]] to pay for the construction and maintenance drainage systems for the district.<ref>[http://www.cyberdriveillinois.com/departments/archives/IRAD/drainage.html Drainage Districts], Illinois State Archives, 2014</ref>  The [[Chicago]] regional [[Tunnel and Reservoir Plan]] has created an underground [[Reservoir (water)|reservoirs]] to hold [[stormwater]]; this plan combined a number of local drainage districts.
+
+===Louisiana===
+Article VI, Part III of the [[Louisiana]] constitution authorizes the legislature to create ''levee districts''.  Such districts have taxation power, they may borrow money, had they have extraordinary powers of [[eminent domain]] allowing expropriation of property before paying for it.<ref>[http://senate.legis.state.la.us/documents/constitution/Article6.htm Article VI], State Constitution of 1974, Louisiana.</ref>
+
+===Texas===
+The state of Texas authorized the formation of drainage districts in 1905.  Once formed by a 2/3 vote of the resident property-tax payers, the district may raise property taxes to construct and maintain ditches, canals and levees.<ref>Dick Smith, [http://www.tshaonline.org/handbook/online/articles/mwd01 Drainage Districts], The Handbook of Texas Online, Texas State Historical Association, 2013.</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Drainage District}}
+[[Category:Land management in the United Kingdom]]
+[[Category:Land management in the United States]]

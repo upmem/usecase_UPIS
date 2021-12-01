@@ -1,0 +1,46 @@
+{{Infobox person
+| name = Marion Keisker
+| image = Marion_Keisker.jpg
+| image_size = 
+| caption = 
+| birth_date = September 23, 1917
+| birth_place = [[Memphis, Tennessee]]
+| death_date  = {{death date and age|1989|12|29|1917|9|23|mf=y}}
+| death_place = 
+| other_names = 
+| known_for = First person to record [[Elvis Presley]] 
+| occupation = Radio show host; U.S. Air Force Captain.
+| nationality =
+}}
+'''Marion Keisker MacInnes''' (September 23, 1917 – December 29, 1989), born in [[Memphis, Tennessee]], graduated from Southwestern College with a degree in English and Medieval French. She was married to Angus Randall MacInnes and had a son, Angus David MacInnes,<ref>Buried in Huntsville Cemetery, Weber County, Utah, USA. https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=23349592</ref> before divorcing. She was a radio show host for WREC, where [[Sam Phillips]] worked as an announcer. She became a station manager and later Phillips's assistant at the Memphis Recording Service and [[Sun Records]]. She was later a [[United States Air Force|U.S. Air Force]] officer.
+
+[[Image:Sunoffice2005.jpg|thumb|right|The front office of the Sun Studio, where Keisker worked and greeted many artists on their first visit to the studio]]
+
+Keisker is best remembered as the first person to record [[Elvis Presley]], on July 18, 1953. She was alone in the office of Sun Records, which also served as office for the Memphis Recording Service, when Presley came there to record two songs, "My Happiness" and "That's When Your Heartaches Begin", for a fee of $3.25. Her exchange with Presley on that occasion has since become part of Elvis lore: "I said, 'What kind of singer are you?' He said, 'I sing all kinds.' I said, 'Who do you sound like?' He said, 'I don't sound like nobody.'"<ref>{{Cite web |url=http://www.biwa.ne.jp/~presley/elnews-Q.htm |title=Archived copy |access-date=2006-11-03 |archive-url=https://web.archive.org/web/20150923191219/http://www.biwa.ne.jp/~presley/elnews-Q.htm |archive-date=2015-09-23 |url-status=dead }}</ref>
+
+Keisker left Sun Records in February 1957 and joined the U.S. Air Force, in which she was commissioned as a captain and served as information officer in charge of the Armed Forces television station at the Ramstein base in Germany.<ref>Guralnick, Peter. (2016). ''Sam Phillips: The Man Who Invented Rock 'n' Roll.'' New York: Back Bay Books; Little, Brown. pp. 341–342.</ref>
+After leaving the Air Force in 1969, Keisker became active in the Memphis chapter of the National Organization for Women.<ref>Gilmore, Stephanie (2003). "The Dynamics of Second-Wave Feminist Activism in Memphis, 1971–1982: Rethinking the Liberal/Radical Divide." ''NWSA Journal'' 15, no. 1: 94–117.</ref> She was chapter president. Her correspondence is archived at the Memphis Public Library.<ref>NOW—Memphis Chapter Collection. Memphis and Shelby County Room, Memphis Public Libraries. http://memphislibrary.contentdm.oclc.org/cdm/ref/collection/p13039coll1/id/169</ref>
+
+She was portrayed by [[Ellen Travolta]] in the 1979 film ''[[Elvis (1979 film)|Elvis]]'', by Jill Jane Clements in the 2005 [[CBS]] miniseries ''[[Elvis (TV miniseries)|Elvis]]'', and by [[Margaret Anne Florence]] in the 2017 CMT series ''[[Sun Records (TV series)|Sun Records]]''.
+
+==References==
+*[[Peter Guralnick|Guralnick, Peter]] (1994). ''Last Train to Memphis: The Rise of Elvis Presley''. New York: Little, Brown. ({{ISBN|0-316-33220-8}}).
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Keisker, Marion}}
+[[Category:1917 births]]
+[[Category:1989 deaths]]
+[[Category:Sun Records]]
+[[Category:United States Air Force officers]]
+[[Category:Women in the United States Air Force]]
+[[Category:20th-century American musicians]]
+[[Category:National Organization for Women]]
+[[Category:American record producers]]
+[[Category:People from Memphis, Tennessee]]
+[[Category:Women audio engineers]]
+[[Category:Early Recording Engineers (1930-1959)]]
+
+
+{{US-music-bio-stub}}

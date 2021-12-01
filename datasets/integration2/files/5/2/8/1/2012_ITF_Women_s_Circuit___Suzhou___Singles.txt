@@ -1,0 +1,423 @@
+{{Tennis events|2012|ITF Women's Circuit – Suzhou|
+| defchamp = 
+| champ    = {{flagicon|TPE}} [[Hsieh Su-wei]]
+| runner   = {{flagicon|CHN}} [[Duan Yingying]]
+| score    = 6–2, 6–2
+| edition  = 
+| type     = singles doubles
+}}
+{{main|2012 ITF Women's Circuit – Suzhou}}
+This was a new event in 2012.
+
+[[Hsieh Su-wei]] won the title defeating [[Duan Yingying]] in the final 6–2, 6–2.
+
+==Seeds==
+{{columns-list|colwidth=30em|
+# {{flagicon|TPE}} '''[[Hsieh Su-wei]] (Champion)'''
+# {{flagicon|CHN}} [[Peng Shuai]] ''(Semifinals)''
+# {{flagicon|CRO}} [[Donna Vekić]] ''(Semifinals)''
+# {{flagicon|CHN}} [[Zhang Shuai (tennis)|Zhang Shuai]] ''(Quarterfinals)''
+# {{flagicon|CHN}} [[Zheng Saisai]] ''(Second Round)''
+# {{flagicon|CHN}} [[Duan Yingying]] ''(Final)''
+# {{flagicon|FRA}} [[Caroline Garcia]] ''(Quarterfinals)''
+# {{flagicon|TUR}} [[Çağla Büyükakçay]] ''(Second Round)''
+}}
+
+==Main draw==
+{{Draw key}}
+
+===Finals===
+{{4TeamBracket-Tennis3
+| RD1=Semifinals
+| RD2=Final
+
+| team-width=170
+
+| RD1-seed1=1
+| RD1-team1='''{{flagicon|TPE}} [[Hsieh Su-wei]]'''
+| RD1-score1-1='''7<sup>8</sup>'''
+| RD1-score1-2='''6'''
+| RD1-score1-3=&nbsp;
+| RD1-seed2=3
+| RD1-team2={{flagicon|CRO}} [[Donna Vekić]]
+| RD1-score2-1=6<sup>6</sup>
+| RD1-score2-2=1
+| RD1-score2-3=&nbsp;
+
+| RD1-seed3=6
+| RD1-team3='''{{flagicon|CHN}} [[Duan Yingying]]'''
+| RD1-score3-1=<small>w/o</small>
+| RD1-score3-2=&nbsp;
+| RD1-score3-3=&nbsp;
+| RD1-seed4=2
+| RD1-team4={{flagicon|CHN}} [[Peng Shuai]]
+| RD1-score4-1=&nbsp;
+| RD1-score4-2=&nbsp;
+| RD1-score4-3=&nbsp;
+
+| RD2-seed1=1
+| RD2-team1='''{{flagicon|TPE}} [[Hsieh Su-wei]]'''
+| RD2-score1-1='''6'''
+| RD2-score1-2='''6'''
+| RD2-score1-3=&nbsp;
+| RD2-seed2=6
+| RD2-team2={{flagicon|CHN}} [[Duan Yingying]]
+| RD2-score2-1=2
+| RD2-score2-2=2
+| RD2-score2-3=&nbsp;
+}}
+
+===Top half===
+{{16TeamBracket-Compact-Tennis3-Byes
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarterfinals
+| RD4=Semifinals
+
+| RD1-seed01=1
+| RD1-team01='''{{flagicon|TPE}} [[Hsieh Su-wei|S-w Hsieh]]'''
+| RD1-score01-1='''6'''
+| RD1-score01-2=6<sup>3</sup>
+| RD1-score01-3='''6'''
+| RD1-seed02=WC
+| RD1-team02={{flagicon|CHN}} [[Tian Ran|R Tian]]
+| RD1-score02-1=0
+| RD1-score02-2='''7<sup>7</sup>'''
+| RD1-score02-3=1
+
+| RD1-seed03=&nbsp;
+| RD1-team03={{flagicon|AUS}} [[Monique Adamczak|M Adamczak]]
+| RD1-score03-1='''7'''
+| RD1-score03-2=4
+| RD1-score03-3=4
+| RD1-seed04=&nbsp;
+| RD1-team04='''{{flagicon|CHN}} [[Han Xinyun|X Han]]'''
+| RD1-score04-1=5
+| RD1-score04-2='''6'''
+| RD1-score04-3='''6'''
+
+| RD1-seed05=&nbsp;
+| RD1-team05='''{{flagicon|CHN}} [[Sun Shengnan|S Sun]]'''
+| RD1-score05-1='''6'''
+| RD1-score05-2=4
+| RD1-score05-3='''6'''
+| RD1-seed06=&nbsp;
+| RD1-team06={{flagicon|HKG}} [[Chan Wing-yau|W-y Chan]]
+| RD1-score06-1=1
+| RD1-score06-2='''6'''
+| RD1-score06-3=4
+
+| RD1-seed07=Q
+| RD1-team07={{flagicon|CHN}} [[Guo Lu|L Guo]]
+| RD1-score07-1=5
+| RD1-score07-2=3
+| RD1-score07-3=&nbsp;
+| RD1-seed08=8
+| RD1-team08='''{{flagicon|TUR}} [[Çağla Büyükakçay|Ç Büyükakçay]]'''
+| RD1-score08-1='''7'''
+| RD1-score08-2='''6'''
+| RD1-score08-3=&nbsp;
+
+| RD1-seed09=3
+| RD1-team09='''{{flagicon|CRO}} [[Donna Vekić|D Vekić]]'''
+| RD1-score09-1='''6'''
+| RD1-score09-2='''6'''
+| RD1-score09-3=&nbsp;
+| RD1-seed10=&nbsp;
+| RD1-team10={{flagicon|CHN}} [[Hu Yueyue|Y Hu]]
+| RD1-score10-1=3
+| RD1-score10-2=4
+| RD1-score10-3=&nbsp;
+
+| RD1-seed11=&nbsp;
+| RD1-team11='''{{flagicon|SVK}} [[Michaela Hončová|M Hončová]]'''
+| RD1-score11-1='''6'''
+| RD1-score11-2='''6'''
+| RD1-score11-3=&nbsp;
+| RD1-seed12=&nbsp;
+| RD1-team12={{flagicon|TPE}} [[Chan Chin-wei|C-w Chan]]
+| RD1-score12-1=2
+| RD1-score12-2=3
+| RD1-score12-3=&nbsp;
+
+| RD1-seed13=&nbsp;
+| RD1-team13={{flagicon|CHN}} [[Tang Haochen|H Tang]]
+| RD1-score13-1=6<sup>2</sup>
+| RD1-score13-2=3
+| RD1-score13-3=&nbsp;
+| RD1-seed14=WC
+| RD1-team14='''{{flagicon|CHN}} [[Yang Zhaoxuan|Zh Yang]]'''
+| RD1-score14-1='''7<sup>7</sup>'''
+| RD1-score14-2='''6'''
+| RD1-score14-3=&nbsp;
+
+| RD1-seed15=WC
+| RD1-team15={{flagicon|CHN}} [[Zhu Lin (tennis)|L Zhu]]
+| RD1-score15-1=3
+| RD1-score15-2=3
+| RD1-score15-3=&nbsp;
+| RD1-seed16=7
+| RD1-team16='''{{flagicon|FRA}} [[Caroline Garcia|C Garcia]]'''
+| RD1-score16-1='''6'''
+| RD1-score16-2='''6'''
+| RD1-score16-3=&nbsp;
+
+| RD2-seed01=1
+| RD2-team01='''{{flagicon|TPE}} [[Hsieh Su-wei|S-w Hsieh]]'''
+| RD2-score01-1='''6'''
+| RD2-score01-2=5
+| RD2-score01-3='''6'''
+| RD2-seed02=
+| RD2-team02={{flagicon|CHN}} [[Han Xinyun|X Han]]
+| RD2-score02-1=1
+| RD2-score02-2='''7'''
+| RD2-score02-3=2
+
+| RD2-seed03=
+| RD2-team03='''{{flagicon|CHN}} [[Sun Shengnan|S Sun]]'''
+| RD2-score03-1='''6'''
+| RD2-score03-2=1
+| RD2-score03-3='''6'''
+| RD2-seed04=8
+| RD2-team04={{flagicon|TUR}} [[Çağla Büyükakçay|Ç Büyükakçay]]
+| RD2-score04-1=4
+| RD2-score04-2='''6'''
+| RD2-score04-3=3
+
+| RD2-seed05=3
+| RD2-team05='''{{flagicon|CRO}} [[Donna Vekić|D Vekić]]'''
+| RD2-score05-1=3
+| RD2-score05-2='''6'''
+| RD2-score05-3='''6'''
+| RD2-seed06=
+| RD2-team06={{flagicon|SVK}} [[Michaela Hončová|M Hončová]]
+| RD2-score06-1='''6'''
+| RD2-score06-2=4
+| RD2-score06-3=2
+
+| RD2-seed07=WC
+| RD2-team07={{flagicon|CHN}} [[Yang Zhaoxuan|Zh Yang]]
+| RD2-score07-1=5
+| RD2-score07-2=3
+| RD2-score07-3=
+| RD2-seed08=7
+| RD2-team08='''{{flagicon|FRA}} [[Caroline Garcia|C Garcia]]'''
+| RD2-score08-1='''7'''
+| RD2-score08-2='''6'''
+| RD2-score08-3=
+
+| RD3-seed01=1
+| RD3-team01='''{{flagicon|TPE}} [[Hsieh Su-wei|S-w Hsieh]]'''
+| RD3-score01-1='''6'''
+| RD3-score01-2='''6'''
+| RD3-score01-3=
+| RD3-seed02=
+| RD3-team02={{flagicon|CHN}} [[Sun Shengnan|S Sun]]
+| RD3-score02-1=0
+| RD3-score02-2=3
+| RD3-score02-3=
+
+| RD3-seed03=3
+| RD3-team03='''{{flagicon|CRO}} [[Donna Vekić|D Vekić]]'''
+| RD3-score03-1=2
+| RD3-score03-2='''6'''
+| RD3-score03-3='''6'''
+| RD3-seed04=7
+| RD3-team04={{flagicon|FRA}} [[Caroline Garcia|C Garcia]]
+| RD3-score04-1='''6'''
+| RD3-score04-2=2
+| RD3-score04-3=2
+
+| RD4-seed01=1
+| RD4-team01='''{{flagicon|TPE}} [[Hsieh Su-wei|S-w Hsieh]]'''
+| RD4-score01-1='''7<sup>8</sup>'''
+| RD4-score01-2='''6'''
+| RD4-score01-3=
+| RD4-seed02=3
+| RD4-team02={{flagicon|CRO}} [[Donna Vekić|D Vekić]]
+| RD4-score02-1=6<sup>6</sup>
+| RD4-score02-2=1
+| RD4-score02-3=
+}}
+
+===Bottom half===
+
+{{16TeamBracket-Compact-Tennis3-Byes
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarterfinals
+| RD4=Semifinals
+
+| RD1-seed01=6
+| RD1-team01='''{{flagicon|CHN}} [[Duan Yingying|Y Duan]]'''
+| RD1-score01-1='''6'''
+| RD1-score01-2='''6'''
+| RD1-score01-3=&nbsp;
+| RD1-seed02=&nbsp;
+| RD1-team02={{flagicon|HKG}} [[Zhang Ling (tennis)|L Zhang]]
+| RD1-score02-1=3
+| RD1-score02-2=3
+| RD1-score02-3=&nbsp;
+
+| RD1-seed03=&nbsp;
+| RD1-team03={{flagicon|CHN}} [[Zhao Yijing|Y Zhao]]
+| RD1-score03-1='''6'''
+| RD1-score03-2=3
+| RD1-score03-3=1
+| RD1-seed04=&nbsp;
+| RD1-team04='''{{flagicon|CHN}} [[Liu Chang (tennis)|C Liu]]'''
+| RD1-score04-1=4
+| RD1-score04-2='''6'''
+| RD1-score04-3='''6'''
+
+| RD1-seed05=Q
+| RD1-team05='''{{flagicon|CHN}} [[Liang Chen|C Liang]]'''
+| RD1-score05-1=3
+| RD1-score05-2='''6'''
+| RD1-score05-3='''6'''
+| RD1-seed06=&nbsp;
+| RD1-team06={{flagicon|CHN}} [[Xu Yifan|Y Xu]]
+| RD1-score06-1='''6'''
+| RD1-score06-2=2
+| RD1-score06-3=3
+
+| RD1-seed07=Q
+| RD1-team07={{flagicon|CHN}} [[Yang Zi (tennis)|Zi Yang]]
+| RD1-score07-1=0
+| RD1-score07-2=4
+| RD1-score07-3=&nbsp;
+| RD1-seed08=4
+| RD1-team08='''{{flagicon|CHN}} [[Zhang Shuai (tennis)|S Zhang]]'''
+| RD1-score08-1='''6'''
+| RD1-score08-2='''6'''
+| RD1-score08-3=&nbsp;
+
+| RD1-seed09=5
+| RD1-team09='''{{flagicon|CHN}} [[Zheng Saisai|S Zheng]]'''
+| RD1-score09-1='''6'''
+| RD1-score09-2='''6'''
+| RD1-score09-3=&nbsp;
+| RD1-seed10=&nbsp;
+| RD1-team10={{flagicon|USA}} [[Tetiana Luzhanska|T Luzhanska]]
+| RD1-score10-1=1
+| RD1-score10-2=4
+| RD1-score10-3=&nbsp;
+
+| RD1-seed11=&nbsp;
+| RD1-team11={{flagicon|CHN}} [[Wen Xin|X Wen]]
+| RD1-score11-1=4
+| RD1-score11-2=1
+| RD1-score11-3=&nbsp;
+| RD1-seed12=Q
+| RD1-team12='''{{flagicon|CHN}} [[Zhang Yuxuan|Y Zhang]]'''
+| RD1-score12-1='''6'''
+| RD1-score12-2='''6'''
+| RD1-score12-3=&nbsp;
+
+| RD1-seed13=&nbsp;
+| RD1-team13={{flagicon|KOR}} [[Jang Su-jeong|S-j Jang]]
+| RD1-score13-1=1
+| RD1-score13-2=2
+| RD1-score13-3=&nbsp;
+| RD1-seed14=&nbsp;
+| RD1-team14='''{{flagicon|SUI}} [[Timea Bacsinszky|T Bacsinszky]]'''
+| RD1-score14-1='''6'''
+| RD1-score14-2='''6'''
+| RD1-score14-3=&nbsp;
+
+| RD1-seed15=WC
+| RD1-team15={{flagicon|CHN}} [[Wang Yafan|Y Wang]]
+| RD1-score15-1=1
+| RD1-score15-2=2
+| RD1-score15-3=&nbsp;
+| RD1-seed16=2
+| RD1-team16='''{{flagicon|CHN}} [[Peng Shuai|S Peng]]'''
+| RD1-score16-1='''6'''
+| RD1-score16-2='''6'''
+| RD1-score16-3=&nbsp;
+
+| RD2-seed01=6
+| RD2-team01='''{{flagicon|CHN}} [[Duan Yingying|Y Duan]]'''
+| RD2-score01-1='''6'''
+| RD2-score01-2='''6'''
+| RD2-score01-3=
+| RD2-seed02=
+| RD2-team02={{flagicon|CHN}} [[Liu Chang (tennis)|C Liu]]
+| RD2-score02-1=2
+| RD2-score02-2=0
+| RD2-score02-3=
+
+| RD2-seed03=Q
+| RD2-team03={{flagicon|CHN}} [[Liang Chen|C Liang]]
+| RD2-score03-1=3
+| RD2-score03-2=0
+| RD2-score03-3=
+| RD2-seed04=4
+| RD2-team04='''{{flagicon|CHN}} [[Zhang Shuai (tennis)|S Zhang]]'''
+| RD2-score04-1='''6'''
+| RD2-score04-2='''6'''
+| RD2-score04-3=
+
+| RD2-seed05=5
+| RD2-team05={{flagicon|CHN}} [[Zheng Saisai|S Zheng]]
+| RD2-score05-1='''6'''
+| RD2-score05-2=4
+| RD2-score05-3=5
+| RD2-seed06=Q
+| RD2-team06='''{{flagicon|CHN}} [[Zhang Yuxuan|Y Zhang]]'''
+| RD2-score06-1=4
+| RD2-score06-2='''6'''
+| RD2-score06-3='''7'''
+
+| RD2-seed07=
+| RD2-team07={{flagicon|SUI}} [[Timea Bacsinszky|T Bacsinszky]]
+| RD2-score07-1=6<sup>1</sup>
+| RD2-score07-2=3
+| RD2-score07-3=
+| RD2-seed08=2
+| RD2-team08='''{{flagicon|CHN}} [[Peng Shuai|S Peng]]'''
+| RD2-score08-1='''7<sup>7</sup>'''
+| RD2-score08-2='''6'''
+| RD2-score08-3=
+
+| RD3-seed01=6
+| RD3-team01='''{{flagicon|CHN}} [[Duan Yingying|Y Duan]]'''
+| RD3-score01-1=5
+| RD3-score01-2='''6'''
+| RD3-score01-3='''7'''
+| RD3-seed02=4
+| RD3-team02={{flagicon|CHN}} [[Zhang Shuai (tennis)|S Zhang]]
+| RD3-score02-1='''7'''
+| RD3-score02-2=3
+| RD3-score02-3=5
+
+| RD3-seed03=Q
+| RD3-team03={{flagicon|CHN}} [[Zhang Yuxuan|Y Zhang]]
+| RD3-score03-1=2
+| RD3-score03-2=3
+| RD3-score03-3=
+| RD3-seed04=2
+| RD3-team04='''{{flagicon|CHN}} [[Peng Shuai|S Peng]]'''
+| RD3-score04-1='''6'''
+| RD3-score04-2='''6'''
+| RD3-score04-3=
+
+| RD4-seed01= 6
+| RD4-team01='''{{flagicon|CHN}} [[Duan Yingying|Y Duan]]'''
+| RD4-score01-1=<small>w/o</small>
+| RD4-score01-2=
+| RD4-score01-3=
+| RD4-seed02=2
+| RD4-team02={{flagicon|CHN}} [[Peng Shuai|S Peng]]
+| RD4-score02-1=
+| RD4-score02-2=
+| RD4-score02-3=
+}}
+
+==References==
+* [https://archive.is/20130127001403/http://beta.itftennis.com/itf/web/usercontrols/tournaments/tournamentprintabledrawsheets.aspx?eventid=1100167709&webletname=procircuit&tournamentId=1100027503&tenniscatecode=WT Main Draw]
+* [https://archive.is/20130126132025/http://beta.itftennis.com/itf/web/usercontrols/tournaments/tournamentprintabledrawsheets.aspx?eventid=1100167710&webletname=procircuit&tournamentId=1100027503&tenniscatecode=WT Qualifying Draw]
+
+{{DEFAULTSORT:2012 ITF Women's Circuit - Suzhou - Singles}}
+[[Category:2012 ITF Women's Circuit|ITF Women's Circuit - Suzhou - Singles]]
+[[Category:Suzhou Ladies Open]]

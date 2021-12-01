@@ -1,0 +1,39 @@
+{{coord|40|37|29|N|45|19|48|E|display=title}}
+{{Infobox settlement
+|official_name =Nerkin-Chambarak
+|native_name = 
+|pushpin_map            =Armenia
+|mapsize                =150px
+|subdivision_type       = Country
+|subdivision_name       = [[Armenia]]
+|subdivision_type1      = [[Administrative divisions of Armenia|Marz (Province)]]
+|subdivision_name1      = [[Gegharkunik Province|Gegharkunik]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 
+|population_total =
+|population_density_km2   =
+|timezone =
+|utc_offset             = +4
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|40|37|29|N|45|19|48|E|region:AM|display=inline}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+}}
+'''Nerkin-Chambarak''' (also, '''Nizhniy Chambarak''' {{lang-hy|Ներքին Ճամբարակ}}), was a village in the [[Gegharkunik Province]] of [[Armenia]], currently part of the town of [[Chambarak]].
+
+== See also ==
+*[[Gegharkunik Province]]
+
+== References ==
+*{{GEOnet2|32FA881E6C283774E0440003BA962ED3}}
+
+[[Category:Populated places in Gegharkunik Province]]
+
+{{Gegharkunik-geo-stub}}

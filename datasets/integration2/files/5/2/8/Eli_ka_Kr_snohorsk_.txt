@@ -1,0 +1,60 @@
+{{Infobox writer
+| name         = Eliška Krásnohorská
+| image        = Jan Vilímek - Eliška Krásnohorská.jpg
+| imagesize    = 
+| caption      = Portrait of Eliška Krásnohorská by [[Jan Vilímek]]
+| pseudonym    = 
+| birth_name    = Alžběta Pechová
+| birth_date    = {{Birth date|1847|11|18|df=yes}}
+| birth_place   = [[Prague]], [[Austrian Empire]]
+| death_date    = {{death date and age|1926|11|26|1847|11|18|df=yes}}
+| death_place   = [[Prague]], [[Czechoslovakia]]
+| resting_place = [[Olšany Cemetery]]
+| occupation   = Writer
+| nationality  = [[Czechs|Czech]]
+| period       = 
+| genre        = 
+| subject      = 
+| movement     = 
+| notableworks = 
+| spouse       = 
+| partner      = 
+| children     = 
+| relatives    = 
+| influences   = 
+| influenced   = 
+}}
+
+'''Eliška Krásnohorská''' (18 November 1847 in [[Prague]] – 26 November 1926 in Prague) was a [[Czech people|Czech]] [[feminist]] author. She was introduced to literature and [[feminism]] by [[Karolína Světlá]]. She wrote works of lyric poetry and literary criticism, however, she is usually associated with children's literature and translations, including works by [[Pushkin]], [[Adam Mickiewicz|Mickiewicz]] and [[Byron]].<ref name="bio">{{cite book|title=A Biographical Dictionary of Women's Movements and Feminisms |last1=de Haan |first1=Francisca |first2=Krasimira |last2=Daskalova |first3=Anna |last3=Loutfi|year= 2006|publisher=[[Central European University Press]] |isbn = 963-7326-39-1|url= https://books.google.com/books?id=hsgQjbgBOAkC&q=%22Eliska+Krasnohorska%22&pg=PA262 |pages=262–65 |accessdate=28 March 2016}}</ref>
+
+Krásnohorská wrote the libretti for four operas by [[Bedřich Smetana]]: ''[[The Kiss (opera)|The Kiss]]'', ''[[The Secret (opera)|The Secret]]'', ''[[The Devil's Wall]]'' and [[Viola (opera)|''Viola'']]. She also wrote the libretto for [[Zdeněk Fibich]]'s opera ''Blaník (Fibich)''.
+
+In 1890 Krásnohorská founded the [[Minerva School]] in Prague, the first ''[[Gymnasium (school)|gymnasium]]'' for girls in the [[Austro-Hungarian Empire]]. Its language of instruction was [[Czech language|Czech]].<ref name="bohemia">{{cite book |url=https://books.google.com/books?id=_yrxrO0lC0YC&q=minerva+school+prague&pg=PA90 |title=The Coasts of Bohemia: A Czech History |page=90 |last=Sayer |first=Derek |isbn=069105052X |date=2000 |publisher=[[Princeton University Press]] |accessdate=28 March 2016}}</ref><ref name="bio"/>
+
+==References==
+{{reflist}}
+
+{{Wikisource author}}
+{{commonscat|Eliška Krásnohorská}}
+
+{{Authority control}}
+{{DEFAULTSORT:Krasnohorska, Eliska}}
+[[Category:1847 births]]
+[[Category:1926 deaths]]
+[[Category:Writers from Prague]]
+[[Category:People from the Kingdom of Bohemia]]
+[[Category:Czech feminists]]
+[[Category:Czech women novelists]]
+[[Category:19th-century Czech poets]]
+[[Category:Czech translators]]
+[[Category:Czech opera librettists]]
+[[Category:19th-century Czech novelists]]
+[[Category:19th-century women writers]]
+[[Category:Women opera librettists]]
+[[Category:Czech women poets]]
+[[Category:19th-century translators]]
+[[Category:Czech educators]]
+[[Category:School founders]]
+
+{{Czech-writer-stub}}
+{{Opera-bio-stub}}

@@ -1,0 +1,84 @@
+{{Infobox library
+| name               = The Rare Book & Manuscript Library
+| name_en            = <!-- Name in English if different -->
+| logo               = <!-- file name only (no Image: or File:) -->
+| image              = Main Library Urbana Illinois 1518.jpg
+| caption            =
+| country            = United States
+| type               = [[Special collections]]
+| scope              = Rare Books
+| established        = 1936
+| ref_legal_mandate  =
+| location           = [[University of Illinois at Urbana–Champaign]],  [[Urbana, Illinois]]
+| coordinates        =
+| branch_of          = [[Main Library (University of Illinois at Urbana–Champaign)|The University Library]]
+| num_branches       =
+| items_collected    =
+| collection_size    = 600,000
+| criteria           =
+| legal_deposit      =
+| req_to_access      =
+| annual_circulation =
+| pop_served         =
+| members            =
+| budget             =
+| director           =
+| num_employees      =
+| phone_num          =
+| website            = {{official}}
+| references         =
+}}
+
+The '''Rare Book & Manuscript Library''' at the [[University of Illinois at Urbana–Champaign]] (RBML) is located on the 3rd floor of the [[Main Library (University of Illinois at Urbana–Champaign)|University Library]]. The library is one of the largest [[special collections]] repositories in the [[United States]].<ref>http://www.library.illinois.edu/rbx/collections.html</ref><ref>{{Cite web | url=http://www.clir.org/hiddencollections/registry/hc.0156 | title=CLIR Hidden Collections Registry}}</ref><ref>{{Cite web | url=http://www.rarebookschool.org/directories/#I |title = Rare Book School: Other Directories}}</ref> Its collections, consisting of over half a million volumes and three kilometers of [[manuscript]] material, encompass the broad areas of literature, history, art, theology, philosophy, technology and the natural sciences, and include large collections of [[emblem books]], writings of and works about [[John Milton]], and authors' personal papers.<ref>{{cite web |url=http://www.dailyillini.com/lifeandculture/aroundcampus/article_d7f413b8-d4a8-11e3-9ccd-0017a43b2370.html |title=Archived copy |accessdate=2014-12-22 |url-status=dead |archiveurl=https://web.archive.org/web/20150203034250/http://www.dailyillini.com/lifeandculture/aroundcampus/article_d7f413b8-d4a8-11e3-9ccd-0017a43b2370.html |archivedate=2015-02-03 }}</ref>
+
+== History ==
+From the founding of the University Library into the twentieth century, rare materials were housed within the main stacks.<ref>{{Cite web | url=http://www.library.illinois.edu/geninfo/history.html |title = Collections – University of Illinois Library}}</ref> Significant early acquisitions, now housed in the Rare Book & Manuscript Library, include the Richard Aron collection on German pedagogy (20,000 items),<ref>{{Cite web | url=http://www.library.illinois.edu/rbx/archon/?p=collections/controlcard&id=1155 |title = Richard Aron collection on European education &#124; Rare Book & Manuscript Library, University of Illinois at Urbana-Champaign}}</ref> acquired in 1913; the H. A. Rattermann collection of German-American literature (7,000 items),<ref>Donna-Christine Sell and Dennis Francis Walle, "Guide to the Heinrich A. Rattermann Collection of German-American Manuscripts", Urbana, University of Illinois, 1979</ref> acquired in 1915; the James Collins collection of [[Irish literature]] (over 7.000 items),<ref>{{Cite web | url=http://www.library.illinois.edu/rbx/archon/?p=collections/controlcard&id=1209 |title = James Collins collection &#124; Rare Book & Manuscript Library, University of Illinois at Urbana-Champaign}}</ref> acquired in 1917; the Julius Doerner collection on theology, history, and literature (50,000 items), acquired in 1918; and the Antonio Cavagna collection of Italian books and manuscripts (45,000 items),<ref>{{Cite web | url=http://www.library.illinois.edu/rbx/archon/?p=collections/controlcard&id=1149 |title = Antonio Cavagna collection of printed materials, 1116-1913 &#124; Rare Book & Manuscript Library, University of Illinois at Urbana-Champaign}}</ref> acquired in 1921.<ref>M.M. SEXTON (comp.), Manuscripts and Printed Documents of the Archivio Cavagna Sangiuliani,  Urbana, 1950.</ref>
+
+Professor [[Harris Fletcher|Harris F. Fletcher]], a member of the English faculty from 1926 to 1962, advised the library on the purchase of books by and about [[John Milton]], often assisting during his own visits to England. In 1937, the Library decided to designate a small space on the fourth floor ("The Seventeenth Century Room") to house Fletcher's collection of approximately 5,700 volumes.<ref>The John Milton collections at Illinois are now among the best in the world, with hundreds of different editions of his works, including first editions of each, as well as books from Milton's library, manuscript materials, and translations. Harris Fletcher described his part in creating the collection in H. F. FLETCHER, Collection of First Editions of Milton’s Works: An Exhibition, Urbana, 1953.</ref> In 1966, the Rare Book & Manuscript library acquired the large personal collection of Professor and [[Shakespeare]] scholar Thomas W. Baldwin, with strong holdings in [[Renaissance]] pedagogy, literature, drama, history, and politics in an attempt to collect books that Shakespeare and his contemporaries might have read in their lifetimes. As a result of these and other acquisitions, the library is a significant repository of English imprints from the 16th to 19th centuries<ref>For a description of the collection, see P. N.CRONENWETT, K. OSBORN, S.A.  STREIT  (eds.), Celebrating Research: Rare and Special Collections from the Membership of the Association of Research Libraries, Washington, DC, 2007, pp. 118-19.</ref> and incunabula, including numerous items from the New Haven firm of C. A. Stonehill.<ref>These and other monuments of English printing from the Illinois collections are featured in V. HOTCHKISS AND F. C. ROBINSON. English in Print from Caxton to Shakespeare to Milton, Urbana and Chicago, 2008.</ref> The library also began collecting incunabula; by 1950, its collection of pre-1501 imprints numbered nearly 400.
+
+The library developed some of its specialties following specific major acquisitions. An elephant [[folio]] of [[James Audubon|Audubon]]’s ''[[The Birds of America]]'' (1826–38) is the centerpiece of substantial ornithological holdings. The library acquired 82 cubic feet of [[H. G. Wells]] manuscripts in 1954 and has since added numerous related items and small collections to its Wells holdings. The RBML also holds a large collection of [[Marcel Proust]] correspondence, comprised in part of materials collected by professor-collector Philip Kolb; the current Proust collection includes over 1,100 holographic items, as well as additional resources for research on Proust and his contemporaries.<ref>C. SZYLOWICZ,  “Le fond Proust de la Rare Book and Special Collections Library de l’université d’Illinois,” Bulletin d’informations proustiennes (Editions de l’ENS ,Paris), 33, 2003, p. 111-19.</ref>
+
+Under the leadership of [[Robert B. Downs]] (1958–1974), the University Library began identifying rare titles throughout the general stacks and subject libraries, bringing them together in a new, larger space designated the Rare Book Room. Downs actively sought to enlarge the library's holdings in its areas of strength and to develop new areas of interest. During his tenure, the library acquired numerous major collections, including the Lloyd Francis Nickell collection of eighteenth-century English literature (2,000 volumes),<ref>{{Cite web | url=http://www.library.illinois.edu/rbx/archon/?p=collections/controlcard&id=1181 |title = Nickell, Lloyd Francis - Eighteenth Century English Literature collection &#124; Rare Book & Manuscript Library, University of Illinois at Urbana-Champaign}}</ref> the Ewin Cannon Baskette collection on freedom of expression (10,000 items);<ref>{{Cite web | url=http://www.library.illinois.edu/rbx/archon/?p=collections/controlcard&id=33 | title=Ewing Cannon Baskette collection of print materials, 1902-1959 &#124; Rare Book & Manuscript Library, University of Illinois at Urbana-Champaign}}</ref> the [[Spanish Civil War]] collection;<ref>{{Cite web | url=http://www.library.illinois.edu/rbx/archon/?p=collections/findingaid&id=1412&q=&rootcontentid=62614 | title=Spanish Civil War collection, 1936-1989 &#124; Rare Book & Manuscript Library, University of Illinois at Urbana-Champaign}}</ref> the Marvin T. Herrick collection of Italian plays from 1500 to 1700 (500 items),<ref>M. T. Herrick, Italian Plays, 1500–1700, in the University of Illinois Library, Urbana and Chicago, 1966.</ref> the [[Jacob Hollander]] collection of economic history (4,470 items);<ref>J. H. HOLLANDER AND E. MARSH, The Economic Library of Jacob H. Hollander. Baltimore, 1937.</ref> the Franklin J. Meine collection of [[Mark Twain]] (2,100 items);<ref>{{Cite web | url=http://www.library.illinois.edu/rbx/archon/index.php?p=collections/controlcard&id=1083 |title = Franklin J. Meine collection, 1841-1979 &#124; Rare Book & Manuscript Library, University of Illinois at Urbana-Champaign}}</ref> the Yamagiwa collection of Japanese illustrated books (1,800 items);<ref>{{Cite web | url=http://www.library.illinois.edu/rbx/archon/?p=collections/controlcard&id=1152 |title = Yamagiwa collection &#124; Rare Book & Manuscript Library, University of Illinois at Urbana-Champaign}}</ref> the Harwell collection of Confederate imprints and sheet music (2,500 items),<ref>{{Cite web | url=http://www.library.illinois.edu/rbx/archon/?p=collections/findingaid&id=21&q=&rootcontentid=61170 |title = Harwell Civil War collection &#124; Rare Book & Manuscript Library, University of Illinois at Urbana-Champaign}}</ref> and a large group of [[Carl Sandburg]] papers.<ref>{{Cite web | url=http://www.library.illinois.edu/rbx/sandburg.html |title = The Rare Book & Manuscript Library, University of Illinois}}</ref> By the end of Downs's career, the Rare Book Room had moved from its fourth-floor location to the library's west wing, where the RBML remains today.
+
+In 2017, [[Lynne M. Thomas]] was named the Juanita J. and Robert E. Simpson Rare Book & Manuscript Professor of the library.<ref>Jodi Heckel, [https://news.illinois.edu/blog/view/6367/535069 "University of Illinois alumna to head Rare Book and Manuscript Library"] ''Illinois News Bureau'' (July 25, 2017).</ref>
+
+== Collections ==
+
+=== Pre–1500 books ===
+The collection of over 1,200 ''[[incunabula]]'' from the fifteenth century is one of the largest university collections in the United States and is especially strong in classical texts, theology, pedagogy, and science.
+
+=== Early modern books (1500–1800) ===
+The library's strengths include materials from the sixteenth and seventeenth centuries. The library holds significant collections of books by and about writers such as [[Shakespeare]] and [[John Milton]], as well as various important editions of [[the Bible]] and pedagogical materials.
+
+=== Modern books (1800–present) ===
+Literature, history, and science are well represented, with strong holdings in first editions of nineteenth- and twentieth-century English authors, books related to travel and exploration, and social history. Also noteworthy are collections in radical literature and Anarchist newspapers,<ref>{{Cite web | url=http://www.library.illinois.edu/rbx/archon/?p=collections/findingaid&id=5&q=&rootcontentid=10278 | title=Anarchist Newspapers collection, 1849-1921 &#124; Rare Book & Manuscript Library, University of Illinois at Urbana-Champaign}}</ref> natural history, fine press and typography, and the history of publishing. The library also holds 162 cubic feet of unpublished film and television scripts.<ref>Nancy Allen and Robert L. Carringer, "An Annotated Catalog of Unpublished Film and Television Scripts at the University of Illinois Library at Urbana-Champaign", Urbana, University of Illinois, 1983.</ref>
+
+=== Manuscripts ===
+The library's manuscript collections contain materials dated from approximately 3000 BCE to the present day, including clay tablets, medieval illuminated manuscripts, early modern codices and documents, and modern records. Manuscript holdings are subdivided internally by size and date. The bulk of the RBML's early manuscripts are codices covering subjects such as religion, music, and history, but it also holds a [[cuneiform]] tablet, [[papyrus]] fragments, and individual and groups of manuscripts. Many of these early materials are written in [[Latin]].
+
+The library also has an extensive collection of manuscripts created after 1650, including codices, single-item and small collections, and large collections. The library owns the world's largest collection of [[Marcel Proust]] correspondence, as well as the personal papers of [[H. G. Wells]], [[Carl Sandburg]], [[William S. Merwin|W.S Merwin]], and [[Gwendolyn Brooks]].<ref>http://articles.chicagotribune.com/2014-01-03/site/chi-gwendolyn-brooks-archive-university-illinois-20140103_1_illinois-poet-laureate-poems-nora-brooks-blakely</ref> Several collections pertain to the [[Spanish Civil War]], and the library has a collection of materials created by the [[Combat Paper Project]]. The library's later manuscripts complement its other holdings in subjects such as literature, history, natural history, and music. Most of the manuscripts are in English, but languages such as [[German language|German]], [[French language|French]], and [[Italian language|Italian]] are well represented. The library also owns items in [[Arabic language|Arabic]], [[Hebrew language|Hebrew]], and a [[Batak languages|Batak language]].
+
+Collection of Count Antonio Cavagna Sangiuliani di Gualdana (1843–1913), Italian nobleman, writer and bibliophile consists of 90 cu. ft. of manuscripts and pamphlets on [[Italian history]] from 1116 to 1913 with special emphasis on the [[Italian Unification]] period around 1871. It is one of the largest collections of Italian language materials in the United States.<ref>http://www.library.illinois.edu/rbx/collections_manuscript_collections.html</ref>
+
+=== iSchool at Illinois ===
+The library is deeply involved in the training of new generations of curators and special collections librarians. Jointly with the [[UIUC School of Information Sciences]] (iSchool at Illinois), the library offers a Certificate in Special Collections Librarianship with courses on a wide range of topics, including special collections librarianship, exhibition preparation, bookbinding, medieval manuscripts, the history of paper, bibliographic description, and rare book cataloging.  The program emphasizes an apprenticeship model, and two to ten iSchool students work in the library every semester.
+
+== References ==
+{{reflist|30em}}
+<!--- After listing your sources please cite them using inline citations and place them after the information they cite. Please see [[Wikipedia:REFB]] for instructions on how to add citations. --->
+
+== External links ==
+*{{Official website}}
+* [http://nonsolusblog.wordpress.com/ ''Non Solus'' blog], a blog continuing the work of a publication of the same name about the collections of the University of Illinois Library published between 1974 and 1985
+
+{{University of Illinois at Urbana-Champaign campus}}
+{{Champaign, Illinois}}
+{{Authority control}}
+{{DEFAULTSORT:Rare Book and Manuscript Library (University of Illinois at Urbana-Champaign)}}
+[[Category:University and college academic libraries in the United States]]
+[[Category:Archives in the United States]]
+[[Category:Libraries in Illinois]]
+[[Category:Literary archives]]
+[[Category:Research libraries]]
+[[Category:Rare book libraries]]
+[[Category:Special collections libraries]]

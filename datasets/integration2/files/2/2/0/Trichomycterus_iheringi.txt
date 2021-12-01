@@ -1,0 +1,25 @@
+{{Speciesbox
+| taxon = Trichomycterus iheringi
+| authority = [[Carl H. Eigenmann|Eigenmann]], 1917
+| synonyms = *''Pygidium iheringi'' <small>Eigenmann, 1917</small> 
+}}
+
+'''''Trichomycterus iheringi''''' is a species of [[pencil catfish]] [[endemism|endemic]] to [[Brazil]] in [[São Paulo (state)|São Paulo]] and [[Paraná (state)|Paraná]] states, centred on [[Santos (São Paulo)|Santos]] where it is found in the [[Ribeira do Iguape River]] basin.
+
+This is an elongate catfish up to {{convert|16.1|cm|in}} [[fish measurement|standard length]]. It has no unique [[comparative anatomy|morphological]] features and can be distinguished from its congeners by a combination of characters including a uniformly buff colouring with small dark spots over the whole body, [[pelvic fin]] margin distant from the [[urogenital]] opening and rounded [[caudal fin]].
+
+==References==
+* {{cite journal| author=Wosiacki, W. B.| date=2005| title=A new species of ''Trichomycterus'' (Siluriformes: Trichomycteridae) from south Brazil and redescription of ''T. iheringi'' (Eigenmann)| journal=[[Zootaxa]]| volume=1040| pages=49–64| doi=10.11646/zootaxa.1040.1.5| url=http://www.mapress.com/zootaxa/2005f/zt01040p064.pdf}}
+* {{FishBase |genus= Trichomycterus|species= iheringi| month = February | year = 2012}}
+{{Reflist}}
+
+{{Taxonbar|from=Q3753733}}
+
+[[Category:Trichomycterus|iheringi]]
+[[Category:Fish of South America]]
+[[Category:Fish of Brazil]]
+[[Category:Fish described in 1917]]
+[[Category:Endemic fauna of Brazil]]
+
+
+{{Trichomycteridae-stub}}

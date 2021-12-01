@@ -1,0 +1,26 @@
+{{italic title}}
+{{Speciesbox
+| name = 
+| image = Gnathothlibus brendelli MHNT CUT 2010 0 64 palu sulawesi male dorsal.jpg
+| image_caption = ''Gnathothlibus brendelli'' dorsal [[MHNT]]
+| image2 = Gnathothlibus brendelli MHNT CUT 2010 0 64 palu sulawesi male ventral.jpg
+| image2_caption= ''Gnathothlibus brendelli'' ventral [[MHNT]]
+| taxon = Gnathothlibus brendelli
+| authority = Hayes, 1983<ref>{{cite web|url=http://www.cate-sphingidae.org/taxonomy/Gnathothlibus/brendelli.html |archiveurl=https://web.archive.org/web/20121106091522/http://www.cate-sphingidae.org/taxonomy/Gnathothlibus/brendelli.html|archivedate=2012-11-06|url-status=dead|title=CATE Creating a Taxonomic eScience - Sphingidae |publisher=Cate-sphingidae.org |accessdate=2011-10-20}}</ref>
+| synonyms = 
+}}
+'''''Gnathothlibus brendelli''''' is a [[moth]] of the  family [[Sphingidae]]. It is known from [[Sulawesi]].
+
+==Description==
+The length of the forewings is about 46&nbsp;mm. It is similar to ''[[Gnathothlibus meeki]]'' but differs in the longer, strongly falcate forewings, the red coloration on the underside of the thorax and the hindwing discal spot. The head has a red stripe anterior to the eye and a creamy yellow spot at the base of the antenna. The upperside of the thorax is dark brown with two prominent pale yellow spots. The outer margins of the tegulae are creamy yellow. The underside of the thorax is red laterally, pale yellow in the centre and dark brown near the legs. The forewing upperside pattern is reminiscent of ''[[Ampelophaga khasiana]]'' but with a strong greenish tint. The ground colour is dark green-brown with an obscure pattern of transverse lines and bands. The forewing underside is bright yellow with a brown outer margin and dark yellow irroration on the outer third of the wing. The hindwing upperside is bright yellow with a black spot at the base. The marginal band is dark brown.
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2682487}}
+
+[[Category:Gnathothlibus]]
+[[Category:Moths described in 1983]]
+
+
+{{Macroglossini-stub}}

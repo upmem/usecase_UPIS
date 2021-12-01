@@ -1,0 +1,158 @@
+{{Use dmy dates|date=March 2017}}
+{{Infobox album
+| name       = Celtic Woman: Home for Christmas
+| type       = Studio Album
+| artist     = [[Celtic Woman]]
+| cover      = Celtic Woman Home for Christmas.jpg
+| alt        =
+| released   = 9 October 2012
+| recorded   = July–August 2012
+| venue      =
+| studio     = RTE and STUDIOTWO
+| genre      = [[Celtic music|Celtic]], [[New-age music|new-age]], [[Adult contemporary music|Adult contemporary]], [[Classical music|classical]], [[Christmas music|Christmas]]
+| length     =
+| language   = English, [[Latin]], German, Italian
+| label      = [[Manhattan Records|Manhattan]]
+| producer   = [[David Downes (Irish composer)|David Downes]]
+| prev_title = [[Celtic Woman: Believe]]
+| prev_year  = 2011
+| next_title = [[Celtic Woman: Silent Night]]
+| next_year  = 2012
+}}
+
+'''''Celtic Woman: Home for Christmas''''' is the eighth album released by the group [[Celtic Woman]], released on 9 October 2012.<ref name="CW">[http://www.celticwoman.com/2012/09/holiday-album-to-be-released-october-9th/ Celtic Woman: Home for Christmas on official website] {{webarchive |url=https://web.archive.org/web/20121010124317/http://www.celticwoman.com/2012/09/holiday-album-to-be-released-october-9th/ |date=10 October 2012 }}</ref> It is the third Christmas album released by the group, but only the second available for international purchase.
+
+''Home for Christmas'' features vocalists [[Chloë Agnew]], [[Lisa Lambe]], [[Méav Ní Mhaolchatha]], and fiddler [[Máiréad Nesbitt]].<ref name="CW"/> This is the first album to feature Ní Mhaolchatha since her departure from the group in 2007 following the release of the DVD/PBS special ''[[Celtic Woman: A Christmas Celebration]]''. It is also the first album not to feature founding member [[Lisa Kelly]], who was at the time on maternity leave. The DVD was released on 29 October 2013 with [[Susan McFadden]], [[Lisa Lambe]], [[Méav Ní Mhaolchatha]], and fiddler [[Máiréad Nesbitt]]. It was released at the same date a special package (CD & DVD)
+
+==Track listing==
+{{tracklist
+| extra_column = Performer(s)
+| title1       = [[I'll Be Home for Christmas]]
+| extra1       = Lisa Lambe
+| length1      = 4:12
+| title2       = [[Hark! The Herald Angels Sing]]
+| extra2       = Chloë Agnew, Méav Ní Mhaolchatha, Lambe, Máiréad Nesbitt
+| length2      = 5:01
+| title3       = [[Santa Claus Is Coming to Town]] 
+| extra3       = Agnew, Nesbitt
+| length3      = 4:13
+| title4       = [[Silent Night]]
+| extra4       = Ní Mhaolchatha
+| length4      = 3:35
+| title5       = [[We Three Kings]]
+| extra5       = Agnew, Ní Mhaolchatha, Lambe
+| length5      = 3:37
+| title6       = [[We Wish You a Merry Christmas]]
+| extra6       = Agnew, Ní Mhaolchatha, Lambe, Nesbitt
+| length6      = 3:37
+| title7       = [[What Child Is This?]]
+| extra7       = Ní Mhaolchatha, Nesbitt
+| length7      = 4:31
+| title8       = [[O Come, All Ye Faithful|Adeste Fideles (O Come, All Ye Faithful)]]
+| extra8       = Agnew
+| length8      = 4:20
+| title9       = [[Winter Wonderland]]
+| extra9       = Agnew, Ní Mhaolchatha, Lambe, Nesbitt
+| length9      = 2:51
+| title10      = [[Mary's Boy Child]]
+| extra10      = Agnew, Ní Mhaolchatha, Lambe
+| length10     = 3:07
+| title11      = [[Auld Lang Syne]]
+| extra11      = Lambe
+| length11     = 3:27
+| title12      = [[Joy to the World]]
+| extra12      = Agnew, Ní Mhaolchatha, Lambe
+| length12     = 2:55
+}}
+
+== DVD track listing==
+{{tracklist
+| extra_column = Performer(s)
+| title1       = Winter Wonderland
+| extra1       = Susan McFadden, Méav Ní Mhaolchatha, Lisa Lambe, Máiréad Nesbitt
+| title2       = What Child Is This?
+| extra2       = Ní Mhaolchatha, Nesbitt
+| title3       = We Wish You a Merry Christmas
+| extra3       = McFadden, Ní Mhaolchatha, Lambe, Nesbitt
+| title4       = I'll Be Home for Christmas
+| extra4       = Lambe
+| title5       = Hark! The Herald Angels Sing
+| extra5       = McFadden, Ní Mhaolchatha, Lambe, Nesbitt
+| title6       = Santa Claus Is Coming to Town
+| extra6       = McFadden, Nesbitt
+| title7       = We Three Kings
+| extra7       = McFadden, Ní Mhaolchatha, Lambe
+| title8       = Carol of the Bells
+| extra8       = Nesbitt
+| title9       = O Tannenbaum (German, Italian and English)
+| extra9       = McFadden, Ní Mhaolchatha, Lambe
+| title10      = Silent Night
+| extra10      = Ní Mhaolchatha
+| title11      = [[It's Beginning to Look a Lot Like Christmas]]
+| extra11      = McFadden, Ní Mhaolchatha, Lambe
+| title12      = The Light of Christmas Morn
+| extra12      = Ní Mhaolchatha, Lambe, Nesbitt
+| title13      = [[It Came Upon a Midnight Clear]]
+| extra13      = McFadden
+| title14      = Auld Lang Syne
+| extra14      = Lambe
+| title15      = Joy to the World
+| extra15      = McFadden, Ní Mhaolchatha, Lambe, Nesbitt
+}}
+
+== Bonus Tracks on Special Edition ==
+{{tracklist
+| extra_column = Performer(s)
+| title13       = [[The First Tree In The Greenwood (The Sans Day Carol)]]
+| extra13      = Agnew, Ní Mhaolchatha, Lambe, Nesbitt
+| length13     = 3:24 
+| title14       = [[An Angel]]
+| extra14      = Agnew, Lambe, Nesbitt
+| length14     = 3:36
+| title15       = [[In the Bleak Midwinter]]
+| extra15      = Ní Mhaolchatha
+| length15     = 3:30
+| title16       = [[There Must Be an Angel (Playing with My Heart)]]
+| extra16      = Agnew, Lambe, Nesbitt
+| length16     = 4:29
+}}
+
+== Bonus Track on Japan Edition ==
+{{tracklist
+| extra_column = Performer(s)
+| title13       = [[You Raise Me Up (Hiroko Version)]]
+| extra13      = Agnew, Kelly, Lambe, Nesbitt
+| length13     = 4:39
+}}
+
+Home for Christmas was officially Vertified Platinum around 7 March 2013.<ref>{{cite web |url=http://www.celticwoman.com/2013/03/celtic-woman-christmas-album-goes-platinum/ |title=Archived copy |accessdate=7 March 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20130322151710/http://www.celticwoman.com/2013/03/celtic-woman-christmas-album-goes-platinum/ |archivedate=22 March 2013 }}</ref>
+
+==Charts==
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2012)
+! scope="col"| Peak<br /> position
+|-
+{{albumchart|Switzerland|16|artist=Celtic Woman |album=Home for Christmas|rowheader=true}}
+|-
+ {{albumchart|Billboard200|43|artist=Celtic Woman |rowheader=true}}
+|-
+ {{albumchart|BillboardHoliday|2|artist=Celtic Woman |rowheader=true}}
+|-
+ {{albumchart|BillboardWorld|1|artist=Celtic Woman |rowheader=true}}
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Celtic Woman}}
+
+[[Category:Celtic Woman albums]]
+[[Category:2012 Christmas albums]]
+[[Category:Christmas albums by Irish artists]]
+[[Category:Manhattan Records albums]]
+[[Category:Celtic Christmas albums]]
+
+
+{{2010s-album-stub}}

@@ -1,0 +1,26 @@
+{{Use Australian English|date=June 2020}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox station
+|name=Morrisons Hill
+|style=Australian closed station
+|services=
+{{Adjacent stations
+|system1=State Rail Authority
+|line5=Main Southern|left5=Jindalee|right5=Wallendbeen
+}}
+}}
+'''Morrisons Hill''' was a small railway station on the [[Main Southern railway line, New South Wales|Main South railway line]] in [[New South Wales, Australia]]. It was open between 1908 and 1975 and has now been demolished.<ref>[http://www.nswrail.net/locations/show.php?name=NSW:Morrisons+Hill&line=NSW:main_south:0 Morrisons Hill station]. NSWrail.net, accessed 29 August 2009.</ref>
+
+==References==
+{{reflist}}
+
+{{coord|34|31|57|S|148|07|02|E|display=title|scale:100000}}
+
+[[Category:Disused railway stations in New South Wales]]
+[[Category:1975 disestablishments in Australia]]
+[[Category:Railway stations in Australia opened in 1908]]
+[[Category:Railway stations closed in 1975]]
+[[Category:Main Southern railway line, New South Wales]]
+
+
+{{SouthernTablelands-geo-stub}}

@@ -1,0 +1,20 @@
+{{MedalTop}}
+{{MedalSport|Men's [[Rugby union at the Summer Olympics|rugby union]]}}
+{{MedalCountry | {{FRA}} }}
+{{MedalGold|[[1900 Summer Olympics|1900 Paris]] | [[Rugby union at the 1900 Summer Olympics|Team competition]]}}
+{{MedalBottom}}
+'''Jean Hervé''' was a [[France|French]] [[rugby union]] player. He competed at the [[1900 Summer Olympics]] and won [[olympic medal|gold]] as part of the French team in what was the [[Rugby union at the 1900 Summer Olympics|first rugby union competition]] at an [[Olympic Games]].<ref name="SR">{{cite web|url=https://www.sports-reference.com/olympics/athletes/he/jean-herve-1.html |title=Jean Hervé Bio, Stats and Results |publisher=sports-reference |accessdate=20 May 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20160304070038/http://www.sports-reference.com/olympics/athletes/he/jean-herve-1.html |archivedate= 4 March 2016 }}</ref>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Herve, Jean}}
+[[Category:Year of birth missing]]
+[[Category:Year of death missing]]
+[[Category:Olympic rugby union players of France]]
+[[Category:French rugby union players]]
+[[Category:Olympic gold medalists for France]]
+[[Category:Rugby union players at the 1900 Summer Olympics]]
+
+
+{{France-rugbyunion-bio-stub}}

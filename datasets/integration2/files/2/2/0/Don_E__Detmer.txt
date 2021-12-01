@@ -1,0 +1,83 @@
+{{Lead too short|date=August 2019}}
+{{Infobox scientist
+|image =
+|image_size = 122px
+|name = Don E. Detmer
+|birth_date = 
+|birth_place = United States 
+|residence = [[Virginia]], United States
+|fields = National health information policy, quality improvement, administrative medicine, medical informatics
+|workplaces = [[American Medical Informatics Association]], [[University of Virginia]]
+|known_for = [[Medical Informatics]], [[Health informatics]], [[electronic health records]]
+|alma_mater        = [http://www.kumc.edu/ University of Kansas Medical Center]
+|doctoral_advisor  = 
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|religion          =
+|signature         = <!--(filename only)-->
+|footnotes         = 
+}}
+
+'''Don E. Detmer''' is Professor Emeritus and Professor of Medical Education at the [[University of Virginia]].
+
+==Biography and career==
+<!-- to do - add early biographical info here -->
+Don Detmer chaired the 1991 study, ''The Computer-based Patient Record''.<ref>{{cite book |editor-last1=Dick |editor-first1=Richard S. |editor-last2=Steen |editor-first2=Elaine B. |editor-last3=Detmer |editor-first3=Don E. |title=The Computer-Based Patient Record: An Essential Technology for Health Care, Revised Edition |url=http://www.nap.edu/openbook.php?isbn=0309055326 |year=1997 |publisher=National Academies Press |isbn=978-0-309-05532-1}}</ref> He was a member of the committee that developed the IOM Reports, ''To Err is Human''<ref>{{cite book |editor-first1=Linda T. |editor-last1=Kohn |editor-first2=Janet M. |editor-last2=Corrigan |editor-first3=Molla S. |editor-last3=Donaldson |title=To Err Is Human: Building a Safer Health System |publisher=National Academies Press |date=2000 |isbn=0-309-06837-1 |url=http://www.nap.edu/openbook.php?isbn=0309068371}}</ref> and ''Crossing the Quality Chasm.''<ref>{{cite book |author=Committee on Quality of Health Care in America |title=Crossing the Quality Chasm: A New Health System for the 21st Century |publisher=National Academies Press |date=2001 |isbn=0-309-07280-8 |url=http://books.nap.edu/openbook.php?isbn=0309072808}}</ref>  From 1999-2003 he was the Dennis Gillings Professor of Health Management at [[Cambridge University]] and is a lifetime member of Clare Hall College, Cambridge. From 2005-2015 he was Visiting Professor, Centre for Health Informatics and Multi-professional Education, University College London.
+
+Considered to be a mover of the US National Health Information Infrastructure, Dr. Detmer has also been a consultant to the government of England and the Hospital Authority of Hong Kong. Prior to the years in England, he was Vice President for Health Sciences at the Universities of [[University of Virginia|Virginia]] and [[University of Utah|Utah]]. While at Virginia he led implementation of a physician order entry system and was principal investigator of its IAIMS grant. While at the [[University of Wisconsin–Madison]], he developed the nation’s first Administrative Medicine Program, a master's degree program for clinician-executives. As a surgeon, he was instrumental in the adoption and development of ambulatory surgery in the early 1970s and was team physician for the Wisconsin Badgers for ten years while also serving as President of the Medical Staff. He won a UW–Madison Chancellor’s Distinguished Teaching Award.
+
+Detmer was appointed as President and CEO of the [[American Medical Informatics Association]] in 2004 until 2009 when he became Senior Advisor to AMIA until 2011. He served as Medical Director for Advocacy and Health Policy of the American College of Surgeons from 2011-2013. In 2014, he was Director of Advanced Inter-professional Informatics Certification of AMIA. Currently, he serves on the Boards of the Corporation for National Research Initiatives, the University of Virginia Colonnade Club, and the Lewis and Clark Exploratory Center.
+
+Detmer's education includes a medical degree from the [[University of Kansas]] with subsequent training at the [[National Institutes of Health]], the [[Johns Hopkins Hospital]], [[Duke University Health System|Duke University Medical Center]], the [[Institute of Medicine]], and [[Harvard Business School]]. His MA is from the [[University of Cambridge]].
+
+Don's research interests include national health information policy, quality improvement, administrative medicine, [[vascular surgery]], [[sports medicine]], and management of academic health centers. He has written and edited a number of research articles, books, book chapters, and monographs on these topics. He enjoys grandchildren, horse riding, fly-fishing, reading biographies, and various crafts.
+
+==Advisory Activities==
+Don Detmer is a former trustee of the Nuffield Trust, a member of the [[Institute of Medicine]] as well as a lifetime Associate of the [[United States National Academies|US National Academies]], a fellow of [[American Association for the Advancement of Science|AAAS]], and the American Colleges of [[American College of Medical Informatics|Medical Informatics]], [[American College of Sports Medicine|Sports Medicine]], and [[American College of Surgeons|Surgeons]]. He founded the Blue Ridge Academic Health Group and co-chaired it through 2011. He chairs the board of Medbiquitous. He was on the steering committee of a policy report for the Office of the National Coordinator on Health Information Technology to create a national framework for clinical decision support.
+
+Dr. Detmer is past chairman of the Board on Health Care Services of the [[Institute of Medicine|IOM]], the National Committee on Vital and Health Statistics, and the Board of Regents of the [[United States National Library of Medicine|National Library of Medicine]]. He was a Commissioner on the Commission on Systemic Interoperability.<ref>{{cite web |title=Commissioners |website=Ending the Document Game |publisher=U.S. National Library of Medicine, National Institutes of Health, Health & Human Services |url=http://endingthedocumentgame.gov/commissioners_detmer.html |access-date=July 19, 2016}}</ref> In 2013 he stepped down from his position as the inaugural Medical Director for Advocacy and Health Policy of the American College of Surgeons.
+
+==Awards and honors==
+*Founding member, International Academy of Health Sciences Informatics, IASHI, 2017-
+*Fellow, American Academy of Nursing (Hon), 2012
+*Walsh McDermott Medal, Institute of Medicine, Washington, DC, 2009
+*Inaugural recipient, Don Eugene Detmer Signature Award in Health Policy Contributions in Informatics, AMIA, 2008
+*National Associate, National Academies, Washington, DC, 2002
+*Medal of Respect from Mongolian State University, Ulan Bator, 2001
+*Fellow, American Association for the Advancement of Science, 1998
+*President's Award, American Medical Informatics Association, 1996, 1998
+*Distinguished Alumnus, Duke University Medical Alumni Association
+
+==Publications==
+
+===Books===
+* {{cite book |editor-last1=Dick |editor-first1=Richard S. |editor-last2=Steen |editor-first2=Elaine B. |editor-last3=Detmer |editor-first3=Don E. |title=The Computer-Based Patient Record: An Essential Technology for Health Care, Revised Edition |url=https://books.google.com/books?id=AZ_Ia21-BosC&pg=PP1 |year=1997 |publisher=National Academies Press |isbn=978-0-309-05532-1}}
+* {{cite book |editor-last1=Lohr |editor-first1=Kathleen |editor-last2=Vanselow |editor-first2=Neal A. |editor-last3=Detmer |editor-first3=Don E. |title=The Nation's Physician Workforce: Options for Balancing Supply and Requirements |url=https://books.google.com/books?id=SU0rAAAAYAAJ&pg=PP1 |year=1996 |publisher=National Academies}}
+* {{cite book |editor-last1=Detmer |editor-first1=Don |editor-last2=Steen |editor-first2=Elaine |title=The Academic Health Center: Leadership and Performance |url=https://books.google.com/books?id=yVdra50Jow8C&pg=PP1 |year=2005 |publisher=Cambridge University Press |isbn=978-1-139-44379-1}}
+
+===Reports===
+* {{cite report |last1=Detmer |first1=Don |last2=Steen |first2=Elaine |title=Learning from Abroad: Lessons and Questions on Personal Health Records for National Policy |publisher=[[AARP]] |date=March 2006 |url=http://assets.aarp.org/rgcenter/health/2006_10_phr_abroad.pdf}}
+
+===Journal Articles===
+* [https://scholar.google.com/scholar?hl=en&lr=&sa=G&oi=qs&q=author:d-detmer Google Scholar publications]
+* [https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Search&term=Detmer+D Medline (Pubmed) publications]
+
+==References==
+{{reflist}}
+* {{cite web |title=Don E. Detmer, MD, MA |publisher=U.S. Department of Health & Human Services |date=January 1, 1999 |url=http://aspe.hhs.gov/sp/nhii/Conference03/DetmerBio.htm}}
+
+==External links==
+* [http://www.amia.org American Medical Informatics Association]
+* [http://www.medbiq.org/ Medbiquitous]
+
+{{DEFAULTSORT:Detmer, Don E.}}
+[[Category:American surgeons]]
+[[Category:Health informaticians]]
+[[Category:American medical academics]]
+[[Category:Living people]]
+[[Category:University of Virginia School of Medicine faculty]]
+[[Category:Year of birth missing (living people)]]

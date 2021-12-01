@@ -1,0 +1,75 @@
+{{short description|Physician and children's rights advocate}}
+{{cleanup-PR|1=article|date=February 2019}}
+{{Infobox person
+| name               = Ned Holstein
+| image              = 
+| alt                = 
+| caption            = 
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = 
+| birth_place        = 
+| death_date         = 
+| death_place        = 
+| nationality        = American
+| citizenship        = 
+| other_names        = Edwin C. Holstein
+| occupation         = Physician
+| known_for          = [[Children's rights]], [[Shared parenting]]
+| education          = B.S., M.D.
+| alma_mater         = [[Harvard University]], [[Mt. Sinai School of Medicine]]
+| organization       = [[National Parents Organization]]
+| residence          = 
+| home_town          = [[Newton, MA]]
+| children           = 3
+| spouse             = 
+}}
+'''Edwin C. "Ned" Holstein''' is an American [[physician]] and [[children's rights]] advocate. He is a founder and chairman of the [[National Parents Organization]], and an advocate for [[shared parenting]] as being in the best interest of most children after separation or divorce.
+
+==Education and medical career==
+Holstein holds a bachelor's degree from [[Harvard College]], a master's degree in psychology from the [[Massachusetts Institute of Technology]] and an M.D. degree from [[Mount Sinai School of Medicine]] (1971). He did his residency in [[internal medicine]] at [[Boston City Hospital]] and a fellowship in [[preventive medicine]] at Mt Sinai School of Medicine from 1976 to 1978.
+
+Holstein is board certified in internal medicine, preventive medicine and occupational medicine.<ref>Massachusetts Board of Registration in Medicine, [http://profiles.ehs.state.ma.us/Profiles/Pages/PhysicianProfile.aspx?PhysicianID=69250 Edwin C. Holstein, M.D.]</ref> He practices occupational medicine in [[Newton, Massachusetts]]. In addition to his clinical work, he has conducted environmental health research, studying e.g. the carcinogenic effects of [[asbestos]],<ref>Ehrlich A, Rohl AN, Holstein EC. Asbestos bodies in carcinoma of colon in an insulation worker with asbestosis. JAMA. 1985, 254:2932-2933.</ref>  public health responses to asbestos exposure,<ref>Holstein EC, Deuschle KW, Bosch S, Fischer E, Rohl AN, Selikoff IJ. Port Allegany Asbestos Health Program: a community response to a public health problem. Public Health Reports. 1984 Mar;99(2):193.</ref> liver function among dairy farmers,<ref>Anderson HA, Holstein EC, Daum SM, Sarkozi L, Selikoff IJ. Liver function tests among Michigan and Wisconsin dairy farmers. Environmental health perspectives. 1978 Apr;23:333-9.</ref> and techniques for measuring [[polybrominated biphenyl]] exposure.<ref>Daum SM, Knittle J, Roseman K, Rom WN, Holstein EC. A simple technique for fat biopsy of PBB-exposed individuals. Environmental health perspectives. 1978 Apr;23:183-5.</ref>
+
+==Organizational service==
+In 1998, Holstein founded the [[National Parents Organization]], an organization that promotes [[shared parenting]] after separation or divorce   He is the chairman of the board and he has at times also served as the national executive director.<ref>National Parents Organization, [https://nationalparentsorganization.org/our-team Our Team]</ref>
+
+He also serves on the board of directors for the [[International Council on Shared Parenting]].<ref>International Council on Shared Parenting, [https://twohomes.org/en_ICSP_board_of_directors ICSP Board of Directors] {{Webarchive|url=https://web.archive.org/web/20180905175710/https://twohomes.org/en_ICSP_board_of_directors |date=2018-09-05 }}</ref> In May 2017, he organized and hosted the ''Third International Conference on Shared Parenting'' in Boston.<ref>[https://focusonwomenmagazine.net/articles/2017/images/2017-international-conference-on-shared-parenting.pdf International Conference on Shared Parenting 2017]</ref>
+
+==Shared parenting advocacy==
+Holstein bases his advocacy for shared parenting on scientific studies from around the world. This research has shown that children with a shared parenting arrangement perform better on a variety of physical health, mental health and social relationship metrics, compared to children in sole custody.<ref>Ned Holstein, [https://www.baltimoresun.com/news/opinion/oped/bs-ed-child-custody-20141008-story.html Joint custody should be the rule, not the exception], [[The Baltimore Sun]], October 8, 2014.</ref>
+
+==Media coverage==
+Holstein has been interviewed and quoted by various media outlets, including:
+* Marilyn Gardner, [https://www.csmonitor.com/2004/0624/p11s02-lifp.html When equal custody is law, who gains?], [[Christian Science Monitor]], June 24, 2004.
+* Susanna Schrobsdorff, [https://www.newsweek.com/divorce-new-rules-child-custody-83545 Divorce: The New Rules of Child Custody], [[Newsweek]], December 14, 2008. 
+* Jennifer Ludden, [https://www.npr.org/2014/02/26/280758591/push-to-change-custody-laws-whats-best-for-kids Push To Change Custody Laws: What's Best For Kids?], [[Morning Edition]], [[National Public Radio]], February 26, 2014.
+* Mandy Oaklander, [http://time.com/3836627/divorced-parents-joint-custody/ This Divorce Arrangement Stresses Kids Out Most], [[Time Magazine]], April 27, 2015.
+* Dugan Arnett, [https://www.bostonglobe.com/metro/2015/07/31/massachusetts-and-elsewhere-push-for-child-custody-reform/Xh4NOwx2qWyZ12VMuYPf9J/story.html In Massachusetts and elsewhere, a push for custody reform], [[Boston Globe]], August 1, 2015.
+* Gail Rosenblum, [http://www.startribune.com/rosenblum-new-research-supports-shared-custody-for-children-in-divorce/442255323/ New research supports shared custody for children in divorce], [[Star Tribune|Minnesota Star Tribune]], September 3, 2017.
+* Jayne O'Donnell, Sierra Lewter, [https://www.usatoday.com/story/news/politics/2018/06/15/no-dad-fathers-day-role-models-fill-void-divorces-single-parents/692494002/ Fatherlessness is harder on Father's Day, but 'father figures,' other role models fill in], [[USA Today]], June 15, 2018.
+*[https://marylandreporter.com/2018/01/18/shared-parenting-brightens-the-lives-of-children-of-divorce/ s of children of divorce], Maryland Reporter, January 18, 2018.
+
+==See also==
+*[[Joint custody (United States)]]
+*[[Shared parenting]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://nationalparentsorganization.org/ National Parents Organization]
+* [https://twohomes.org/en_home International Council on Shared Parenting]
+* Video interview by Llewellyn King: [http://whchronicle.com/episodes/shared-parenting-after-divorce-dr-ned-holstein-white-house-chronicle/ Shared parenting after divorce, Dr. Ned Holstein], White House Chronicle, November 16, 2018.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Holstein, Ned}}
+[[Category:Living people]]
+[[Category:Children's rights activists]]
+[[Category:American human rights activists]]
+[[Category:Physicians from Massachusetts]]
+[[Category:American occupational health practitioners]]
+[[Category:People from Newton, Massachusetts]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Harvard College alumni]]
+[[Category:Year of birth missing (living people)]]

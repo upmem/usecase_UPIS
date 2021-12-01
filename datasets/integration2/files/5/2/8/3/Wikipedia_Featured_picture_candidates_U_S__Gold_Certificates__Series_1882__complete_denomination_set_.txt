@@ -1,0 +1,65 @@
+
+===[[Wikipedia:Featured picture candidates/U.S. Gold Certificates (Series 1882, complete denomination set)|U.S. Gold Certificates (Series 1882, complete denomination set)]]===
+{{FPCnom/VotingEnds|1408839310}}<small>Voting period ends on <b>24 Aug 2014 </b> at <b>00:15:10 (UTC)</b></small>
+;Reason:High quality, high EV (presented as a set). A complete denomination set of seven Series 1882  Gold certificates (only five are nominated for FP). There are two $5,000 and $10,000 notes known in other government institution collections. No high resolution image has ever been made available.<br/>''Note – The $100 and $1,000 images are already featured. They are part of this nomination only to be included in the set''.
+;Original:A seven-note complete denomination set of Series 1882 United States [[Gold Certificate]] 
+;Articles in which these images appear:[[Gold certificate]] (all), [[Large denominations of United States currency]] (4)
+;FP category for this image:[[Wikipedia:Featured pictures/Culture, entertainment, and lifestyle/Currency|Currency]]
+;Creator: [[Bureau of Engraving and Printing]]<br />From the [[National Numismatic Collection]], [[National Museum of American History]].<br />Images by [[User:Godot13|Godot13]].
+
+{{Gallery
+|title=Complete denomination set of Series 1882 Gold Certificates
+|width=175
+|height=175
+|lines=2
+|align=center
+|File:US-$20-GC-1882-Fr-1177.jpg
+|<center>$20<br/>[[James Garfield]]
+|File:US-$50-GC-1882-Fr-1195.jpg
+|<center>$50<br/>[[Silas Wright]]
+|File:US-$100-GC-1882-Fr.1207.jpg
+|<center>$100<br/>[[Thomas Hart Benton (politician)|Thomas Hart Benton]]
+}}
+
+{{Gallery
+|title=
+|width=175
+|height=175
+|lines=2
+|align=center
+|File:US-$500-GC-1882-Fr-1216a.jpg
+|<center>$500<br/>[[Abraham Lincoln]]
+|File:US-$1000-GC-1882-Fr.1218g.jpg
+|<center>$1,000<br/>[[Alexander Hamilton]]
+}}
+
+{{Gallery
+|title=
+|width=175
+|height=175
+|lines=2
+|align=center
+|File:US-$5000-GC-1882-Fr-1221a.jpg
+|<center>$5,000 (specimen)<br/>[[James Monroe]]
+|File:US-$10000-GC-1882-Fr-1223a.jpg
+|<center>$10,000 (specimen)<br/>[[Andrew Jackson]]
+}}
+
+
+* '''Support as nominator''' – [[User:Godot13|Godot13]] ([[User talk:Godot13|talk]]) 00:15, 14 August 2014 (UTC) 
+* '''Support''' - [[User:Coat of Many Colours|Coat of Many Colours]] ([[User talk:Coat of Many Colours|talk]]) 11:14, 14 August 2014 (UTC)
+*'''Support''' - more excellent work.&nbsp;—&nbsp;[[User:Crisco 1492|Crisco 1492]] ([[User talk:Crisco 1492|talk]]) 15:31, 14 August 2014 (UTC)
+*'''Support''' No-brainer. [[User:Brandmeister|Brandmeister]]<sup>[[User talk:Brandmeister|talk]]</sup>   10:42, 20 August 2014 (UTC)
+*'''Support'''. [[User:Rreagan007|Rreagan007]] ([[User talk:Rreagan007|talk]]) 19:57, 21 August 2014 (UTC)
+<!-- additional votes go above this line  -->
+{{FPCresult|Promoted|File:US-$20-GC-1882-Fr-1177.jpg}} --[[User:Armbrust|Armbrust]] <sup>[[User talk:Armbrust|<font color="#E3A857">The</font> <font color="#008000">Homunculus</font>]]</sup> 04:36, 24 August 2014 (UTC)<br/>
+{{FPCresult|Promoted|File:US-$50-GC-1882-Fr-1195.jpg}} --[[User:Armbrust|Armbrust]] <sup>[[User talk:Armbrust|<font color="#E3A857">The</font> <font color="#008000">Homunculus</font>]]</sup> 04:36, 24 August 2014 (UTC)<br/>
+{{FPCresult|Promoted|File:US-$500-GC-1882-Fr-1216a.jpg}} --[[User:Armbrust|Armbrust]] <sup>[[User talk:Armbrust|<font color="#E3A857">The</font> <font color="#008000">Homunculus</font>]]</sup> 04:36, 24 August 2014 (UTC)<br/>
+{{FPCresult|Promoted|File:US-$5000-GC-1882-Fr-1221a.jpg}} --[[User:Armbrust|Armbrust]] <sup>[[User talk:Armbrust|<font color="#E3A857">The</font> <font color="#008000">Homunculus</font>]]</sup> 04:36, 24 August 2014 (UTC)<br/>
+{{FPCresult|Promoted|File:US-$10000-GC-1882-Fr-1223a.jpg}} --[[User:Armbrust|Armbrust]] <sup>[[User talk:Armbrust|<font color="#E3A857">The</font> <font color="#008000">Homunculus</font>]]</sup> 04:36, 24 August 2014 (UTC)
+*Additionally [[:File:US-$100-GC-1882-Fr.1207.jpg]] and [[:File:US-$1000-GC-1882-Fr.1218g.jpg]] are also part of the set. [[User:Armbrust|Armbrust]] <sup>[[User talk:Armbrust|<font color="#E3A857">The</font> <font color="#008000">Homunculus</font>]]</sup> 04:36, 24 August 2014 (UTC)
+{{-}}
+
+
+
+<noinclude>[[Category:Featured picture nominations]] [[Category:Featured picture nominations/August 2014]]</noinclude>

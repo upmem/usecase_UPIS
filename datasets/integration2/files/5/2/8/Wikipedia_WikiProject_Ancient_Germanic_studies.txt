@@ -1,0 +1,278 @@
+{{short description|Wikimedia subject-area collaboration}}
+{{WikiProject status|inactive}}
+<!-- Basepage banner: please do not edit. -->
+<center>
+{| style="background:#463E41; border-style:solid; border-width:2px; border-color:#736F6E;"
+|<center>[[File:Seeland-II-C.jpg|100px|link=Wikipedia:WikiProject Ancient Germanic studies]]</center>
+|<center>
+<font face="Garamond" size="+2" color="#736F6E">Welcome to the</font>
+<br />
+<br />
+<font face="Garamond" size="+4" color="#CDCDCD">Ancient Germanic Studies</font>
+<br />
+<br />
+<font face="Garamond" size="+3" color="#736F6E">WikiProject</font>
+</center>
+|<center>[[File:Seeland-II-C.jpg|100px|link=Wikipedia:WikiProject Ancient Germanic studies]]</center>
+|-
+|
+|
+|
+|}
+<br />
+<hr />
+</center>
+<!-- End of banner. -->
+
+<!-- "Our Scope" -->
+{{shortcut|WP:AGS}}The '''Ancient Germanic studies WikiProject''' works to improve Wikipedia's coverage of the history, language and culture of the '''[[Germanic peoples|Ancient Germanic peoples]]''' from ca. 500 BCE to ca. 1000 CE. Our chronological scope is derived mainly from the field of linguistics, with the [[Grimm's Law|First Sound Shift]] (ca. 500 BCE) marking the beginning of the Ancient or Old Germanic period and the change from the 'Old' to the 'Middle' dialects (High German ca. 1000, English 1066, Norse ca. 1100) marking its end. In historical terms, this period stretches from the last phase of the [[Nordic Bronze Age]] to the [[Early Middle Ages]].
+<!-- End of "Our Scope" -->
+<!-- "Guidelines" navbox: please do not edit. -->
+
+{| class="navbox collapsible" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color: #9C9C9C;" | {{{reason|<span style="font-size:140%">Guidelines, Policies and Suggestions</span>}}}
+|-
+| style="border: solid 1px #463E41; padding: 8px; background-color: #CDCDCD;" |
+<noinclude>
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color: #9C9C9C;" | {{{reason|<span style="font-size:120%">General</span>}}}
+|-
+| style="border: solid 1px #463E41; padding: 8px; background-color: #CDCDCD;" |
+<noinclude><span style="font-size:140%">
+* '''[[WP:RS]]''': Only add information from '''[[WP:RS|reliable sources]]''', and '''[[WP:CS|cite them]]''' where it is '''[[Wikipedia:When to cite|appropriate]]''' to do so.
+* '''[[WP:V]]''': Make only those claims that can be '''[[WP:V|verified]]''' as stemming from '''[[WP:RS|reliable sources]]'''.
+* '''[[WP:OR]]''': Keep articles free of '''[[WP:OR|original research]]''', and be attentive to signs of '''[[WP:SYN|unwarranted synthesis]]'''.
+* '''[[WP:NPOV]]''': Maintain a '''[[WP:NPOV|neutral point of view]]''', being careful to distinguish between '''[[WP:ASF|fact and opinion]]''', and give '''[[WP:DUE|due weight]]''' to the views concerned.
+* '''[[WP:MOS]]''': Apply the guidelines given in the '''[[WP:MoS|manual of style]]''' in all your edits.</span>
+|}
+{| class="navbox collapsible collapsed" style="text-align: left; border: 0px; margin-top: 0.2em;"
+|-
+! style="background-color: #9C9C9C;" | {{{reason|<span style="font-size:120%">Specific</span>}}}
+|-
+| style="border: solid 1px #463E41; padding: 8px; background-color: #CDCDCD;" |
+<noinclude><span style="font-size:140%">
+* '''Quality''': The members of this WikiProject are dedicated to bringing about a dramatic improvement in the quality of the articles within its scope. The most tangible evidence of improved quality that Wikipedia offers is '''[[Wikipedia:WikiProject Council/Assessment FAQ|assessment]]'''. Our ideal should be to raise every article within our WikiProject's scope to '''[[Wikipedia:Good article criteria|GA-status]]''' or higher. Of course, in practice, this ideal will not always be attainable. But we should make an honest attempt to ''significantly improve'' each and every article we edit with an eye towards its eventual assessment.
+
+* '''Focus''': Though everyone has their preferred method of working, it is believed by some members of this WikiProject that individual editors can achieve better results by focusing upon one article - or a limited group of closely related articles - at a time, rather than adding sporadically to a great number of articles which cover a relatively large field, improving many a little but none a lot. Of course, 'article burnout' can arise, and when it does it is best to turn to another article of equal interest, to help out a fellow project member with copy-editing, or performing an internal peer-review. But don't forget to return to your former work and see the article through to the 'end'. Helping an article attain a higher assessment rating is, after all, a rather rewarding experience.
+
+* '''Collaborative work groups''': Ancient Germanic studies is a broad topic, encompassing research and discoveries from various fields of knowledge such as history, archaeology, linguistics and mythology. As a result, many of the articles which fall within the scope of this project would benefit most from treatment by contributors with specialised knowledge in those areas. This will often require '''[[Wikipedia:WikiProject_Council/Guide#Inter-project_collaboration|inter-project collaboration]]'''. To facilitate such collaboration, this WikiProject supports the creation of specialized work groups which work together with other WikiProjects to achieve common goals.
+
+* '''[[WP:MOS|MoS]] additions''': The breadth of the topic that this WikiProject covers entails that, if a healthy degree of uniformity is to be maintained among closely related articles, additional rules of style will need to be established. Rather than dictating these, however, this WikiProject makes it incumbent upon its work groups and daughter projects to formulate these on an as-needed basis. These guidelines are then made available on the project page of the related work group or daughter project.
+
+* '''Project templates''': Use '''caution''' when dealing with templates. We request that you do '''not''' launch a 'template campaign' and rifle through dozens or even hundreds of pages, putting up our WikiProject's banner template. A project banner is a sign of commitment to an article, and the number of articles we can maintain and improve is limited by our membership. Of course, project banners are a great way to quickly increase membership. Yet this often accomplishes little more than a temporary 'bloat' in membership numbers, and can actually contribute to its eventual demise. Therefore, only place banner templates on articles that you are personally willing to help improve - ideally to GA-status - and maintain.
+
+* '''Invitation templates''': Please '''do''' post an '''invitation template''' onto the talkpages of editors who you think might be interested in joining this WikiProject. With increased membership, we can tackle a wider range of articles.</span>
+|}
+|}
+<!-- End of "Guidelines" navbox. -->
+
+{| align="right"
+  | __TOC__
+  |}
+
+===Open tasks===
+As this is a new WikiProject covering a broad topic, a good deal of freedom is granted to members in terms of where they begin working. For the time being, we are relying primarily upon personal initiatives to improve individual articles or select groups of articles. There are many articles which fall under this project's scope, and looking through some of the related categories (such as [[:Category:History of the Germanic peoples|History of the Germanic peoples]]) is a good way to get an idea of where work needs to be done. Some initiatives may develop into [[Wikipedia:WikiProject Council/Guide/Task forces|task forces]] with their own work page. If you have a small project in mind which would encompass several interrelated articles (e.g. articles relating to one of the [[List of Germanic peoples|Ancient Germanic tribes]], one of the [[Germanic languages|Old Germanic languages]], or to a series of related historical events), you may propose creating such a task force on our talk page. Alternatively, you could adopt a particular article with a view towards raising its assessment rating, or pick a task from one of the lists below:
+
+====[[Portal:Ancient Germanic culture|WikiPortal]] Maintenance====
+* Add '''quality''' pictures to the [[Portal:Ancient_Germanic_culture/Selected_picture|Selected picture]] module, replacing the current choices as appropriate and paying special attention to our scope.
+* Add '''FA''', '''GA''' or '''B-class''' articles to the [[Portal:Ancient_Germanic_culture/Selected_article|Selected article]] module, replacing the current choices as appropriate and paying special attention to our scope.
+* Add '''quality''' articles to the [[Portal:Ancient Germanic culture/Runic inscription|Selected runic artefact]] module.
+* Update the [[Portal:Ancient_Germanic_culture/Did_you_know|'Did you know..?']] module with more interesting facts relevant to our scope.
+
+====Work group development====
+* [[Wikipedia:WikiProject Ancient Germanic studies/Runes|Runic studies]]: Currently under development. If you are interested in participating, please visit the [[Wikipedia:WikiProject Ancient Germanic studies/Runes|work group's page]].
+
+====Requests for collaboration====
+''(If you would like to invite fellow project members to collaborate with you on a particular article, please list it here.)''
+* [[Alu (runic)]]
+* [[Anglo-Saxon paganism]]
+* [[Bracteate]]
+* [[Brunhild]]
+* [[Germania (book)]]
+* [[Germanic paganism]]
+* [[Germanic calendar]]
+* [[Gudrun]]
+* [[Mannus]]
+* [[Nerthus]]
+* [[Nibelung]]
+* [[Suebian knot]]
+* [[Sigurd]]
+
+====Requests for peer review====
+''(If you would like to have a fellow project member perform a peer review on an article you are working on, please list it here)''
+* '''[[Wade's Causeway]]''' - I have taken this article from stub to its current state the last week or so, and would like to drive the article through GA to FA rating over the coming weeks. To that end, I think it would be useful for someone from this wikiproject to review the relevant sections of the article (particularly "Etymology" and "Legendary Interpretations" and provide any feedback/review as appropriate please. Many thanks, --[[User:PocklingtonDan|PocklingtonDan]] ([[User_talk:PocklingtonDan|talk]]) 18:47, 22 September 2013 (UTC)
+* ...
+
+===Members===
+''(If you would like to contribute to this WikiProject, please add your name to the list below.)''
+# [[User:John Carter|John Carter]]
+# [[User:Varoon Arya|Aryaman]]
+# [[User:Bloodofox|:bloodofox:]]
+# [[User:Holt|Holt]]
+# [[User:Berig|Berig]]
+# [[User:Pecopteris|Pecopteris]]
+# [[User:Sigurd Dragon Slayer|Sigurd Dragon Slayer]]
+# [[User:Srnec|Srnec]]
+# [[User:Deaþe gecweald|Deaþe gecweald]]
+# [[User:Shahbaze|shahbaze khurram]]
+# [[User:Nathraq|nathraq]]
+# [[User:Midnightblueowl|Midnightblueowl]]
+# {{User|Briangotts}}
+# {{User|Carlsefni}}
+# {{User|JanderVK}}
+# {{User|LokiClock}}
+# {{User|Æthelred}}
+# {{User|Hayden120}}
+# {{User|Jabberwoch}}
+# {{User|Kjell86}}
+# {{User|Iamthecheese44}}
+# {{User|Baća bez gaća}}
+# {{User|Cesdeva}}
+# {{User|Obenritter}}
+# [[User:CsikosLo|Csikos Lo]]
+# {{User|Iazyges}}
+# {{User|Ermenrich}}
+# {{User|JeBonSer}}
+
+===Work groups===
+* '''[[Wikipedia:WikiProject Ancient Germanic studies/Runes|Runic studies]]'''
+
+===Articles===
+{{Wikipedia:Version 1.0 Editorial Team/Ancient Germanic studies articles by quality statistics}}
+
+====Good articles====
+* [[Image:Symbol support vote.svg|10px]] [[Merseburg Incantations]]
+* [[Image:Symbol support vote.svg|10px]] [[Ring of Pietroassa]]
+* [[Image:Symbol support vote.svg|10px]] [[Tuisto]]
+* [[Image:Symbol support vote.svg|10px]] [[Sinthgunt]]
+* [[Image:Symbol support vote.svg|10px]] [[Sól (Sun)]]
+
+====DYKs====
+* ...
+
+===Projects===
+
+====Parent projects====
+* [[Wikipedia:WikiProject History]]
+
+====Sibling projects====
+* [[Wikipedia:WikiProject Celts]]
+* [[Wikipedia:WikiProject Anglo-Saxon Kingdoms]]
+
+====Related projects====
+* [[Wikipedia:WikiProject Norse history and culture]]
+* [[Wikipedia:WikiProject European history]]
+
+===Portals===
+
+====Project portal====
+* [[Portal:Ancient Germanic culture]]
+
+====Related portals====
+* [[Portal:History]]
+* [[Portal:Ancient Rome]]
+
+===Categories===
+
+====Main project category====
+* [[:Category:Ancient Germanic studies articles]]
+
+====Main article categories====
+{{refbegin|2}}
+* [[:Category:Ancient Germanic peoples]]
+* [[:Category:History of the Germanic peoples]]
+* [[:Category:Germanic languages]]
+* [[:Category:Anglo-Saxon people]]
+** [[:Category:Angles]]
+** [[:Category:Jutes]]
+*** [[:Category:Anglo-Saxon England]] 
+**** [[:Category:8th century in England]]
+**** [[:Category:9th century in England]]
+**** [[:Category:10th century in England]]
+**** [[:Category:11th century in England]]
+*** [[:Category:Anglo-Saxon paganism]]
+*** [[:Category:Anglo-Saxon archaeology]]
+*** [[:Category:Anglo-Saxon architecture]]
+*** [[:Category:Anglo-Saxon art]]
+*** [[:Category:Battles involving the Anglo-Saxons]]
+*** [[:Category:Anglo-Saxon Christianity]]
+*** [[:Category:Anglo-Saxon documents]]
+*** [[:Category:Anglo-Saxon law]]
+*** [[:Category:Monarchs of Anglo-Saxon England]]
+*** [[:Category:Norman conquest of England]]
+*** [[:Category:Anglo-Norse England]]
+**** [[:Category:Anglo-Norse people]]
+***** [[:Category:House of Godwin]]
+***** [[:Category:Anglo-Norse monarchs]]
+***** [[:Category:Norse monarchs of East Anglia]]
+***** [[:Category:Monarchs of Jorvik]]
+*** [[:Category:Old English language]]
+*** [[:Category:Old English literature]]
+*** [[:Category:Anglo-Saxon people]]
+*** [[:Category:Petty kingdoms of England]]
+*** [[:Category:Anglo-Saxon studies scholars]]
+*** [[:Category:Anglo-Saxon society]]
+*** [[:Category:Anglo-Saxon treaties]]
+*** [[:Category:Anglo-Saxon royalty]]
+*** [[:Category:Anglo-Saxon slaves]]
+**** [[:Category:Anglo-Saxon thegns]]
+*** [[:Category:Anglo-Saxon women]]
+*** [[:Category:Anglo-Saxon writers]]
+*** [[:Category:Anglo-Saxon poets]]
+{{refend}}
+
+====Assessment categories====
+{{dablink|See also: '''[[Wikipedia:WikiProject Ancient Germanic studies/Assessment|WPAGS Assessment scale]]'''}}
+{{refbegin|2}}
+* [[:Category:GA-Class Ancient Germanic studies articles]] (add: <nowiki>{{...|class=GA}}</nowiki>)
+* [[:Category:B-Class Ancient Germanic studies articles]] (add: <nowiki>{{...|class=B}}</nowiki>)
+* [[:Category:Start-Class Ancient Germanic studies articles]] (add: <nowiki>{{...|class=Start}}</nowiki>)
+* [[:Category:Stub-Class Ancient Germanic studies articles]] (add: <nowiki>{{...|class=Stub}}</nowiki>)
+* [[:Category:Unassessed Ancient Germanic studies articles]]
+* [[:Category:Template-Class Ancient Germanic studies articles]] (add: <nowiki>{{...|class=Template}}</nowiki>)
+* [[:Category:Disambig-Class Ancient Germanic studies articles]] (add: <nowiki>{{...|class=Disambig}}</nowiki>)
+* [[:Category:Category-Class Ancient Germanic studies articles]] (add: <nowiki>{{...|class=Category}}</nowiki>)
+* [[:Category:NA-Class Ancient Germanic studies articles]] (add: <nowiki>{{...|class=NA}}</nowiki>)
+{{refend}}
+
+===Article alerts===
+{{Wikipedia:WikiProject Ancient Germanic studies/Article alerts}}
+
+===Templates===
+
+====Project banner template====
+Adding {{tl|WPAGS}} to the top of an article's talkpage will produce the following:
+{{WikiProject Ancient Germanic studies|category=no|class=NA}}
+
+=====Runic studies coverage=====
+To indicate that an article is covered by the '''[[Wikipedia:WikiProject Ancient Germanic studies/Runes|Runic studies work group]]''', add the following parameter to the template code:
+<br /><nowiki>{{...|runes=yes}}</nowiki>
+
+====Project userbox template====
+Adding {{tl|User WPAGS-Member}} to your userpage will produce the following:
+{{User WPAGS-Member}}
+<br /><br />
+
+====Project invitation template====
+Adding {{tl|WPAGS-Invite}} to an editor's talkpage will produce the following:
+{{WPAGS-Invite}}
+
+
+==Tools==
+* [https://tools.wmflabs.org/dispenser/view/Reflinks Reflinks] -  Edits bare references - adds title/dates etc. automatically to references
+* [https://tools.wmflabs.org/dispenser/view/Checklinks Checklinks] - Edit and repair external links
+* [https://tools.wmflabs.org/dispenser/view/Dab_solver Dab solver] - Quickly resolve ambiguous links.
+* [https://tools.wmflabs.org/dispenser/view/Peer_reviewer Peer reviewer] - Provides hints and suggestion to improving articles.
+
+===External watchlist===
+* [https://tools.wmflabs.org/dispenser/cgi-bin/transcluded_changes.py?page=Template:WikiProject_Ancient_Germanic_studies Wikiproject Watchlist - WikiProject Ancient Germanic studies]
+
+{{Germanic peoples}}
+{{Wikipedia policies and guidelines}}
+{{WikiProject Footer}}
+
+{{DEFAULTSORT:Ancient Germanic studies}}
+
+[[Category:WikiProject Ancient Germanic studies]]

@@ -1,0 +1,54 @@
+{{no footnotes|date=January 2013}}
+{{Infobox military person
+|name=Paavo Berg
+|birth_date=23 November 1911
+|death_date= {{d-da|1 November 1941|23 November 1911}}
+|birth_place=[[Lahti]]
+|death_place=[[Hanko]]
+|image=
+|caption=
+|nickname=
+|allegiance={{flagicon|Finland}} [[Finland]]
+|branch=[[Finnish Air Force]]
+|serviceyears=1931–1941
+|rank=[[Captain (land and air)|Captain]]
+|commands=
+|unit=[[LeLv 26]], [[LeLv 32]]
+|battles=
+|awards=Freedom Cross, 4th Class
+|laterwork=
+}}
+'''Paavo Johanses "Peltonen" Berg''' (23 November 1911, in [[Lahti]] – 1 November 1941, in [[Hanko]]) was a [[Finland|Finnish]] [[fighter ace]]. He was the second most successful Finnish biplane fighter ace scoring 10.5 victories (5 while flying [[Gloster Gladiator]]s). The remaining 4.5 victories were with [[Curtiss Hawk 75]]s.  He was shot down and killed by anti-aircraft fire on 1 November 1941.
+
+==Victories==
+{| cellpadding="1" cellspacing="0"
+! Aircraft !! Victories   
+|-
+!bgcolor="#000000" colspan="2"|
+|-
+| [[Gloster Gladiator]] 
+| align="center"|5.5
+|-
+| [[Curtiss Hawk 75]] 
+| align="center"|4.5 plus one balloon
+|-
+! Total 
+! 9.5 plus 1 balloon
+|-
+|}
+
+==References==
+{{Reflist}}
+* Keskinen, Kalevi; Stenman, Kari and Niska, Klaus. ''Hävittäjä-ässät (Finnish Fighter Aces)''. Espoo, Finland: Tietoteas, 1978. {{ISBN|951-9035-37-0}}. (Finnish)
+* Stenman, Kari and Keskinen, Kalevi. ''Finnish Aces of World War 2 (Aircraft of the Aces 23)''. Oxford, UK: Osprey Publishing, 1998. {{ISBN|1-85532-783-X}}.
+
+{{DEFAULTSORT:Berg, Paavo}}
+[[Category:Finnish Air Force personnel]]
+[[Category:Finnish military personnel killed in World War II]]
+[[Category:Finnish World War II flying aces]]
+[[Category:1911 births]]
+[[Category:1941 deaths]]
+[[Category:Aviators killed by being shot down]]
+
+
+{{Finland-bio-stub}}

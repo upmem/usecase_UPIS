@@ -1,0 +1,89 @@
+{{Use New Zealand English|date=November 2012}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox rugby biography | name = Kade Poki
+| image = 
+| nickname = 
+| birth_name = Kade Poki
+| birth_date = {{Birth date and age|df=yes|1988|01|17}}
+| birth_place = [[Blenheim, New Zealand|Blenheim]], [[New Zealand]]
+| height = {{height|m=1.76|precision=0}}
+| weight = {{convert|85|kg|stlb|abbr=on}}
+| school = [[Hato Paora College]]
+| ru_position = [[rugby union/wing|Wing]]
+| ru_nationalteam = 
+| ru_nationalcaps =
+| ru_nationalpoints =
+| ru_nationalyears = 
+| super14 = [[Crusaders (rugby)|Crusaders]]<br/>[[Highlanders (rugby)|Highlanders]]
+| super14caps = 15 <br/> 27
+| super14points = (10) <br/> (50)
+| super14years = 2008–10<br/>2011–13
+| super14update = 
+| ru_province = [[Tasman Rugby Union|Tasman]]<br/> [[Southland Rugby Union|Southland]] <br> {{Rut Tasman}}
+| ru_provinceyears = 2006–10<br/>2011–12<br> 2015
+| ru_provincecaps = 40 <br/> 13 <br> 6
+| ru_provincepoints = (35) <br/> (0) <br> (0)
+| ru_provinceupdate = 
+| ru_clubyears = 2013–15 <br> 2015−
+| ru_proclubs = [[Kubota Spears]] <br> [[Aviron Bayonnais|Bayonne]]
+| ru_clubcaps = 18 <br> 20
+| ru_clubpoints = (25) <br> (30)
+| ru_clubupdate = 14 June 2017
+}}
+
+'''Kade Poki''' (born 17 January 1988 in [[Blenheim, New Zealand|Blenheim]], [[New Zealand]]) is a [[rugby union]] player who plays for the [[Aviron Bayonnais|Bayonne]] in the French [[Top 14]] competition. Prior to his move abroad, he had represented [[Tasman Rugby Union|Tasman]] in the [[ITM Cup]] and the [[Highlanders (rugby)|Highlanders]] in the [[Super Rugby]] competition.
+
+==Playing career==
+
+===Provincial Rugby===
+
+Poki made his Air New Zealand Cup debut for the [[Tasman Rugby Union|Tasman Makos]] in 2007 against Taranaki, but injury ruled him out of most of the season. He emerged as a starter in 2008, and spent three seasons as a starter on the wing for the Makos and one of the side's more dangerous players.
+
+For the [[2011 ITM Cup]], Poki signed with the [[Southland Stags]], where he lined up alongside a number of his teammates with the [[Highlanders (rugby)|Highlanders]].<ref name=stuff_5259664>{{cite news |url=http://www.stuff.co.nz/sport/rugby/provincial/5259664/Stags-secure-scorching-wing-Kade-Poki |title=Stags secure scorching wing Kade Poki |author=Savory, Logan |date=9 July 2011 |work=Southland Times  | publisher=Fairfax |accessdate=8 October 2011}}</ref> However, he never really hit his stride with in two seasons with Southland, playing just 13 games without scoring a try.
+
+Poki briefly returned to Tasman for the [[2015 ITM Cup]] in between stints in Japan and France, appearing in 6 matches for the Makos.
+
+===Super Rugby===
+
+Poki made his [[Super Rugby]] debut for the [[Crusaders (rugby)|Crusaders]] in 2008 when he played against ACT Brumbies. Aged only 20, he made 10 starts for the team over the course of the season and scored two tries, helping the team to the championship. However, injuries and squad depth limited his chances to build on his freshman season, and he made only 4 more appearances for the Crusaders over the next two seasons.
+
+Poki had to make a tough decision to stay with the crusaders on a one-year deal, or to join the highlanders under new coach Jamie Joseph on a 2-year deal. He chose the crusaders for one year. He received an offer from a Japanese club (Sanix) to come after the super rugby season. When Poki asked for an early release from NZRU to head to Japan straight after the Super rugby season the crusaders withdrew their deal and Poki was left with no super rugby team until his contract started in 2014. The highlanders had a bad injury to Kurt Baker so Jamie Joseph got in contact with Poki to see if he wanted to join the team for preseason and cover Kurts position if the injury was prolonged. He ended up having a good season with the Highlanders and emerged as one of the breakout players of the competition. The highlanders offered him a 2-year contract to sign on again. Poki had to terminate his contract with the Japanese club he had signed with. Highlights of his season include a two-try performance in a win over the defending champion [[Bulls (rugby)|Bulls]] and a sublime individual effort against the [[Melbourne Rebels|Rebels]] in which he shrugged off 11 tackles to score.
+With higher expectations for the [[2012 Super Rugby season|2012]] season, Poki was hobbled by a knee injury and missed much of the season, and was limited to a single try. However, he would rebound in the [[2013 Super Rugby season|2013 season]] scoring 5 tries from just 8 appearances. He played two-year more seasons with the highlanders then headed to Japan to play for the Kubota spears in the Japanese top league.
+
+===Japan===
+
+Following the 2013 Super Rugby season, Poki left New Zealand to sign in Japan for the [[Kubota Spears]] of the [[Top League]].
+
+===France===
+
+In 2015, Poki signed in France with [[Aviron Bayonnais|Bayonne]] of [[Pro D2]] in France. In his first season, he scored 4 tries from 12 matches to help earn promotion to the [[Top 14]]. He scored an additional two tries in [[2016–17 Top 14 season|2016–17]] as Bayonne were relegated back to Pro D2.
+
+===International Rugby===
+
+Kade Poki was a star in the 2007 Under-19 World Cup for New Zealand, and again for the New Zealand Under-20 squad in 2008.
+
+==References==
+{{reflist}}
+
+==External links==
+
+{{Aviron Bayonnais squad}}
+
+{{DEFAULTSORT:Poki, Kade}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:Rugby union wings]]
+[[Category:Crusaders (rugby union) players]]
+[[Category:Highlanders (rugby union) players]]
+[[Category:Tasman Mako players]]
+[[Category:Southland Stags players]]
+[[Category:Kubota Spears players]]
+[[Category:Aviron Bayonnais players]]
+[[Category:Rugby union players from Blenheim, New Zealand]]
+[[Category:People educated at Marlborough Boys' College]]
+[[Category:New Zealand rugby union players]]
+[[Category:New Zealand expatriate rugby union players]]
+[[Category:New Zealand expatriate sportspeople in Japan]]
+[[Category:New Zealand expatriate sportspeople in France]]
+[[Category:Expatriate rugby union players in Japan]]
+[[Category:Expatriate rugby union players in France]]

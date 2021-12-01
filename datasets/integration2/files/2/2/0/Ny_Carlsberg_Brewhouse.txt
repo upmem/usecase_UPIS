@@ -1,0 +1,55 @@
+{{Infobox Historic building
+|image= Ny Carlsberg Bryghus (Copenhagen).jpg
+|caption= Main facade
+|name= Ny Carlsberg Brewhouse
+|location_town= [[Copenhagen]]
+|location_country= [[Denmark]]
+|coordinates= {{coord|55.6674|12.5326|type:landmark_region:DK|display=inline,title}}
+|architect= [[Vilhelm Klein]]<br />[[Carl Harild]]
+|client= [[Carl Jacobsen]]
+|engineer=
+|construction_start_date= 
+|completion_date= 1901
+|date_demolished=
+|cost=
+|structural_system=
+|style=[[Historicism (art)|Historicism]]
+}}
+The '''Ny Carlsberg Brewhouse''' ([[Danish language|Danish]]: Ny Carlsberg Bryghus) is a historic, listed building in the [[Carlsberg (district)|Carlsberg]] district of [[Copenhagen]], [[Denmark]], on the border between [[Vesterbro, Copenhagen|Vesterbro]] and [[Valby]].
+
+==History==
+The Ny Carlsberg Brewhouse was built by [[Carl Jacobsen]] as the new [[brewhouse]] of his Ny Carlsberg Brewery which he had founded after a conflict with his father, [[Carlsberg Group|Carlsberg]]-founder [[J. C. Jacobsen]]. It was designed by [[Vilhelm Klein]] and completed in 1901, replacing a smaller brewhouse still to be seen on the opposite side of the road. The new brewhouse complex also included a straw storage house to the east and a hops store with a yeast cellar to the west.<ref name=Referat>{{cite web|url=http://www.kulturarv.dk/om-os/raad-og-udvalg/det-saerlige-bygningssyn/moedereferater/referat-2808-2008/|title=Referat|publisher=Det Særlige Bygningssyns |accessdate=2011-04-06}}</ref>
+
+In 1920 the brewhouse complex was extended northward by [[Carl Harild]] and then altered in 1949 and 1965.<ref name=Referat/> Later, when the facilities became outdated, the buildings were put to other use. In 2006, Carlsberg decided to close the Valby brewery and instead redevelop the area . In 2008, the year beer production on the site was discontinued, the brewhouse became a listed building. In early 2011 it was stripped of its inventory and most of its furnishings to prepare it for other use.<ref>{{cite web|url=http://www.carlsbergbyen.dk/nyheder/218/bryghus-tommes-for-indmad/|title=Bryghus tømmes for indmad|publisher=Carlsberg|accessdate=2011-04-06}}</ref>
+
+[[Image:Ny Carlsberg Bryghus.jpg|thumb|200px|The upper part of the facade]]
+
+==Architecture==
+The Ny Carlsberg Brewhouse is built in the [[Historicism (art)|Historicist]] style which also characterizes the rest of the Carlsberg area.
+
+The main source of inspiration comes from [[Renaissance architecture|Italian Renaissance architecture]]. The building's facade with its balcony is inspired by Palazzo Bevilacqua in [[Verona]].
+
+[[Image:Ny Carlsberg Bryghus - Thor sculpture.jpg|thumb|200px|left|The Thor sculpture on the roof]]
+
+==Roof-top sculpture==
+On the roof stands [[Carl Johan Bonnesen]]'s large group sculpture "[[Thor]]'s battle against the [[Jötunn]]s". The group of figures was originally a competition proposal for a monument at [[Langelinie]] which was won by [[Anders Bundgaard]]'s [[Gefion Fountain]]. Carl Jacobsen subsequently asked Bonnesen to produce a copy for his new brewhouse.<ref>{{cite web|url=http://www.visitcarlsberg.dk/aboutcarlsberg/Footprints/Valby/Pages/TheBrewHouse.aspx|title=The Brewhouse|publisher=Carlsberg|accessdate=2011-04-06}}</ref>
+
+==The Brewhouse today==
+
+{{Empty section|date=March 2013}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Ny Carlsberg Bryghus}}
+* [http://www.carlsbergbyen.dk/ Carlsberg district] (in Danish)
+
+{{Vesterbro/Kongens Enghave}}
+
+[[Category:Carlsberg (district)]]
+[[Category:Brewery buildings in Copenhagen]]
+[[Category:Listed industrial buildings in Denmark]]
+[[Category:Historicist architecture in Copenhagen]]
+[[Category:Vilhelm Klein buildings]]
+[[Category:Industrial buildings completed in 1901]]

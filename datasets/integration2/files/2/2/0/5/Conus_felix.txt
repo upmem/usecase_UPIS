@@ -1,0 +1,41 @@
+{{Speciesbox
+| taxon = Conus felix
+| image =
+| image_caption =
+| authority = Fenzan, 2012 
+| synonyms_ref = <ref name="WoRMS" />
+| synonyms =
+* ''Conus (Plicaustraconus) felix'' <small>Fenzan, 2012</small> · accepted, alternate representation
+* ''Plicaustraconus felix'' <small>(Fenzan, 2012)</small>
+| display_parents = 3
+}}
+
+'''''Conus felix''''' is a species of [[sea snail]], a [[marine (ocean)|marine]] [[gastropod]] [[mollusc]] in the [[family (biology)|family]] [[Conidae]], the [[Conus|cone snails]], cone shells or cones.<ref name="WoRMS">Bouchet, P. (2015). Conus felix. In: MolluscaBase (2015). Accessed through: World Register of Marine Species at http://www.marinespecies.org/aphia.php?p=taxdetails&id=599351 on 2015-09-19</ref>
+
+These snails are [[predatory]] and [[venomous]]. They are capable of "stinging" humans.
+
+==Description==
+The size of the shell varies between 25&nbsp;mm and 35&nbsp;mm.
+{{Expand section|date=June 2015}}
+
+==Distribution==
+This marine species of cone snail occurs in the Indian Ocean off [[KwaZulu-Natal]], South Africa
+
+==References==
+{{Reflist}}
+* Fenzan W.J. (2012) ''A new species of Conus from South Africa (Gastropoda: Conidae)''. Acta Conchyliorum 11: 11-15
+* [https://dx.doi.org/10.1093/mollus/eyu055 Puillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). ''One, four or 100 genera? A new classification of the cone snails.'' Journal of Molluscan Studies. 81: 1-23]
+
+==External links==
+* [http://www.marinespecies.org/aphia.php?p=taxdetails&id=599351 To World Register of Marine Species]
+* [http://www.coneshells-am.ru/ Cone Shells - Knights of the Sea]
+* {{Gastropods.com|key=0|id=68800|title=''Plicaustraconus felix''|access-date=16 January 2019}}
+* [https://science.mnhn.fr/institution/mnhn/collection/im/item/2000-24818?listIndex=37&listCount=5567 Holotype in MNHN, Paris]
+
+{{Taxonbar|from=Q13496072}}
+
+[[Category:Conus|felix]]
+[[Category:Gastropods described in 2012]]
+
+
+{{Conus-stub}}

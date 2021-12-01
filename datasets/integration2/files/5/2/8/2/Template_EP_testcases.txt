@@ -1,0 +1,516 @@
+{{template test cases notice}}
+== Testing sandbox version ==
+* parameter
+** <code><nowiki>{{</nowiki>ESp<nowiki>/sandbox|parameter}}</nowiki></code>
+** <code><nowiki>{{</nowiki>ETp<nowiki>/sandbox|parameter}}</nowiki></code>
+** <code><nowiki>{{</nowiki>EP<nowiki>/sandbox|parameter}}</nowiki></code>
+# page move
+#* {{ESp/sandbox|page move|demo=yes}}
+#* {{ETp/sandbox|page move|demo=yes}}
+#* {{EP/sandbox|page move|demo=yes}}
+# move request
+#* {{ESp/sandbox|move request|demo=yes}}
+#* {{ETp/sandbox|move request|demo=yes}}
+#* {{EP/sandbox|move request|demo=yes}}
+# pagemove
+#* {{ESp/sandbox|pagemove|demo=yes}}
+#* {{ETp/sandbox|pagemove|demo=yes}}
+#* {{EP/sandbox|pagemove|demo=yes}}
+# moverequest
+#* {{ESp/sandbox|moverequest|demo=yes}}
+#* {{ETp/sandbox|moverequest|demo=yes}}
+#* {{EP/sandbox|moverequest|demo=yes}}
+# move
+#* {{ESp/sandbox|move|demo=yes}}
+#* {{ETp/sandbox|move|demo=yes}}
+#* {{EP/sandbox|move|demo=yes}}
+# rpm
+#* {{ESp/sandbox|rpm|demo=yes}}
+#* {{ETp/sandbox|rpm|demo=yes}}
+#* {{EP/sandbox|rpm|demo=yes}}
+# rm
+#* {{ESp/sandbox|rm|demo=yes}}
+#* {{ETp/sandbox|rm|demo=yes}}
+#* {{EP/sandbox|rm|demo=yes}}
+# pm
+#* {{ESp/sandbox|pm|demo=yes}}
+#* {{ETp/sandbox|pm|demo=yes}}
+#* {{EP/sandbox|pm|demo=yes}}
+# m
+#* {{ESp/sandbox|m|demo=yes}}
+#* {{ETp/sandbox|m|demo=yes}}
+#* {{EP/sandbox|m|demo=yes}}
+# d
+#* {{ESp/sandbox|d|demo=yes}}
+#* {{ETp/sandbox|d|demo=yes}}
+#* {{EP/sandbox|d|demo=yes}}
+# do
+#* {{ESp/sandbox|do|demo=yes}}
+#* {{ETp/sandbox|do|demo=yes}}
+#* {{EP/sandbox|do|demo=yes}}
+# done
+#* {{ESp/sandbox|done|demo=yes}}
+#* {{ETp/sandbox|done|demo=yes}}
+#* {{EP/sandbox|done|demo=yes}}
+# pd
+#* {{ESp/sandbox|pd|demo=yes}}
+#* {{ETp/sandbox|pd|demo=yes}}
+#* {{EP/sandbox|pd|demo=yes}}
+# prtdo
+#* {{ESp/sandbox|prtdo|demo=yes}}
+#* {{ETp/sandbox|prtdo|demo=yes}}
+#* {{EP/sandbox|prtdo|demo=yes}}
+# partly done
+#* {{ESp/sandbox|partly done|demo=yes}}
+#* {{ETp/sandbox|partly done|demo=yes}}
+#* {{EP/sandbox|partly done|demo=yes}}
+# deny
+#* {{ESp/sandbox|deny|demo=yes}}
+#* {{ETp/sandbox|deny|demo=yes}}
+#* {{EP/sandbox|deny|demo=yes}}
+# not
+#* {{ESp/sandbox|not|demo=yes}}
+#* {{ETp/sandbox|not|demo=yes}}
+#* {{EP/sandbox|not|demo=yes}}
+# notdone
+#* {{ESp/sandbox|notdone|demo=yes}}
+#* {{ETp/sandbox|notdone|demo=yes}}
+#* {{EP/sandbox|notdone|demo=yes}}
+# not done
+#* {{ESp/sandbox|not done|demo=yes}}
+#* {{ETp/sandbox|not done|demo=yes}}
+#* {{EP/sandbox|not done|demo=yes}}
+# n
+#* {{ESp/sandbox|n|demo=yes}}
+#* {{ETp/sandbox|n|demo=yes}}
+#* {{EP/sandbox|n|demo=yes}}
+# nfn
+#* {{ESp/sandbox|nfn|demo=yes}}
+#* {{ETp/sandbox|nfn|demo=yes}}
+#* {{EP/sandbox|nfn|demo=yes}}
+# ndfn
+#* {{ESp/sandbox|ndfn|demo=yes}}
+#* {{ETp/sandbox|ndfn|demo=yes}}
+#* {{EP/sandbox|ndfn|demo=yes}}
+# not now
+#* {{ESp/sandbox|not now|demo=yes}}
+#* {{ETp/sandbox|not now|demo=yes}}
+#* {{EP/sandbox|not now|demo=yes}}
+# notnow
+#* {{ESp/sandbox|notnow|demo=yes}}
+#* {{ETp/sandbox|notnow|demo=yes}}
+#* {{EP/sandbox|notnow|demo=yes}}
+# now
+#* {{ESp/sandbox|now|demo=yes}}
+#* {{ETp/sandbox|now|demo=yes}}
+#* {{EP/sandbox|now|demo=yes}}
+# consensus
+#* {{ESp/sandbox|consensus|demo=yes}}
+#* {{ETp/sandbox|consensus|demo=yes}}
+#* {{EP/sandbox|consensus|demo=yes}}
+# c
+#* {{ESp/sandbox|c|demo=yes}}
+#* {{ETp/sandbox|c|demo=yes}}
+#* {{EP/sandbox|c|demo=yes}}
+# specific
+#* {{ESp/sandbox|specific|demo=yes}}
+#* {{ETp/sandbox|specific|demo=yes}}
+#* {{EP/sandbox|specific|demo=yes}}
+# spec
+#* {{ESp/sandbox|spec|demo=yes}}
+#* {{ETp/sandbox|spec|demo=yes}}
+#* {{EP/sandbox|spec|demo=yes}}
+# detail
+#* {{ESp/sandbox|detail|demo=yes}}
+#* {{ETp/sandbox|detail|demo=yes}}
+#* {{EP/sandbox|detail|demo=yes}}
+# ?
+#* {{ESp/sandbox|?|demo=yes}}
+#* {{ETp/sandbox|?|demo=yes}}
+#* {{EP/sandbox|?|demo=yes}}
+# ad
+#* {{ESp/sandbox|ad|demo=yes}}
+#* {{ETp/sandbox|ad|demo=yes}}
+#* {{EP/sandbox|ad|demo=yes}}
+# a
+#* {{ESp/sandbox|a|demo=yes}}
+#* {{ETp/sandbox|a|demo=yes}}
+#* {{EP/sandbox|a|demo=yes}}
+# already
+#* {{ESp/sandbox|already|demo=yes}}
+#* {{ETp/sandbox|already|demo=yes}}
+#* {{EP/sandbox|already|demo=yes}}
+# question
+#* {{ESp/sandbox|question|demo=yes}}
+#* {{ETp/sandbox|question|demo=yes}}
+#* {{EP/sandbox|question|demo=yes}}
+# ques
+#* {{ESp/sandbox|ques|demo=yes}}
+#* {{ETp/sandbox|ques|demo=yes}}
+#* {{EP/sandbox|ques|demo=yes}}
+# q
+#* {{ESp/sandbox|q|demo=yes}}
+#* {{ETp/sandbox|q|demo=yes}}
+#* {{EP/sandbox|q|demo=yes}}
+# rs
+#* {{ESp/sandbox|rs|demo=yes}}
+#* {{ETp/sandbox|rs|demo=yes}}
+#* {{EP/sandbox|rs|demo=yes}}
+# r
+#* {{ESp/sandbox|r|demo=yes}}
+#* {{ETp/sandbox|r|demo=yes}}
+#* {{EP/sandbox|r|demo=yes}}
+# rfpp
+#* {{ESp/sandbox|rfpp|demo=yes}}
+#* {{ETp/sandbox|rfpp|demo=yes}}
+#* {{EP/sandbox|rfpp|demo=yes}}
+# rfp
+#* {{ESp/sandbox|rfp|demo=yes}}
+#* {{ETp/sandbox|rfp|demo=yes}}
+#* {{EP/sandbox|rfp|demo=yes}}
+# doc
+#* {{ESp/sandbox|doc|demo=yes}}
+#* {{ETp/sandbox|doc|demo=yes}}
+#* {{EP/sandbox|doc|demo=yes}}
+# nlp
+#* {{ESp/sandbox|nlp|demo=yes}}
+#* {{ETp/sandbox|nlp|demo=yes}}
+#* {{EP/sandbox|nlp|demo=yes}}
+# no longer protected
+#* {{ESp/sandbox|no longer protected|demo=yes}}
+#* {{ETp/sandbox|no longer protected|demo=yes}}
+#* {{EP/sandbox|no longer protected|demo=yes}}
+# hr
+#* {{ESp/sandbox|hr|demo=yes}}
+#* {{ETp/sandbox|hr|demo=yes}}
+#* {{EP/sandbox|hr|demo=yes}}
+# haverights
+#* {{ESp/sandbox|haverights|demo=yes}}
+#* {{ETp/sandbox|haverights|demo=yes}}
+#* {{EP/sandbox|haverights|demo=yes}}
+# pr
+#* {{ESp/sandbox|pr|demo=yes}}
+#* {{ETp/sandbox|pr|demo=yes}}
+#* {{EP/sandbox|pr|demo=yes}}
+# promoted
+#* {{ESp/sandbox|promoted|demo=yes}}
+#* {{ETp/sandbox|promoted|demo=yes}}
+#* {{EP/sandbox|promoted|demo=yes}}
+# permission
+#* {{ESp/sandbox|permission|demo=yes}}
+#* {{ETp/sandbox|permission|demo=yes}}
+#* {{EP/sandbox|permission|demo=yes}}
+# perm
+#* {{ESp/sandbox|perm|demo=yes}}
+#* {{ETp/sandbox|perm|demo=yes}}
+#* {{EP/sandbox|perm|demo=yes}}
+# p
+#* {{ESp/sandbox|p|demo=yes}}
+#* {{ETp/sandbox|p|demo=yes}}
+#* {{EP/sandbox|p|demo=yes}}
+# note
+#* {{ESp/sandbox|note|demo=yes}}
+#* {{ETp/sandbox|note|demo=yes}}
+#* {{EP/sandbox|note|demo=yes}}
+# misplaced
+#* {{ESp/sandbox|misplaced|demo=yes}}
+#* {{ETp/sandbox|misplaced|demo=yes}}
+#* {{EP/sandbox|misplaced|demo=yes}}
+# mis
+#* {{ESp/sandbox|mis|demo=yes}}
+#* {{ETp/sandbox|mis|demo=yes}}
+#* {{EP/sandbox|mis|demo=yes}}
+# sandbox
+#* {{ESp/sandbox|sandbox|demo=yes}}
+#* {{ETp/sandbox|sandbox|demo=yes}}
+#* {{EP/sandbox|sandbox|demo=yes}}
+# sand
+#* {{ESp/sandbox|sand|demo=yes}}
+#* {{ETp/sandbox|sand|demo=yes}}
+#* {{EP/sandbox|sand|demo=yes}}
+# sb
+#* {{ESp/sandbox|sb|demo=yes}}
+#* {{ETp/sandbox|sb|demo=yes}}
+#* {{EP/sandbox|sb|demo=yes}}
+# talk protected
+#* {{ESp/sandbox|talk protected|demo=yes}}
+#* {{ETp/sandbox|talk protected|demo=yes}}
+#* {{EP/sandbox|talk protected|demo=yes}}
+# tp
+#* {{ESp/sandbox|tp|demo=yes}}
+#* {{ETp/sandbox|tp|demo=yes}}
+#* {{EP/sandbox|tp|demo=yes}}
+# xy
+#* {{ESp/sandbox|xy|demo=yes}}
+#* {{ETp/sandbox|xy|demo=yes}}
+#* {{EP/sandbox|xy|demo=yes}}
+# u
+#* {{ESp/sandbox|u|demo=yes}}
+#* {{ETp/sandbox|u|demo=yes}}
+#* {{EP/sandbox|u|demo=yes}}
+# unpr
+#* {{ESp/sandbox|unpr|demo=yes}}
+#* {{ETp/sandbox|unpr|demo=yes}}
+#* {{EP/sandbox|unpr|demo=yes}}
+# unprotected
+#* {{ESp/sandbox|unprotected|demo=yes}}
+#* {{ETp/sandbox|unprotected|demo=yes}}
+#* {{EP/sandbox|unprotected|demo=yes}}
+
+== Testing main template ==
+* parameter
+** <code><nowiki>{{</nowiki>ESp<nowiki>|parameter}}</nowiki></code>
+** <code><nowiki>{{</nowiki>ETp<nowiki>|parameter}}</nowiki></code>
+** <code><nowiki>{{</nowiki>EP<nowiki>|parameter}}</nowiki></code>
+# page move
+#* {{ESp|page move|demo=yes}}
+#* {{ETp|page move|demo=yes}}
+#* {{EP|page move|demo=yes}}
+# move request
+#* {{ESp|move request|demo=yes}}
+#* {{ETp|move request|demo=yes}}
+#* {{EP|move request|demo=yes}}
+# pagemove
+#* {{ESp|pagemove|demo=yes}}
+#* {{ETp|pagemove|demo=yes}}
+#* {{EP|pagemove|demo=yes}}
+# moverequest
+#* {{ESp|moverequest|demo=yes}}
+#* {{ETp|moverequest|demo=yes}}
+#* {{EP|moverequest|demo=yes}}
+# move
+#* {{ESp|move|demo=yes}}
+#* {{ETp|move|demo=yes}}
+#* {{EP|move|demo=yes}}
+# rpm
+#* {{ESp|rpm|demo=yes}}
+#* {{ETp|rpm|demo=yes}}
+#* {{EP|rpm|demo=yes}}
+# rm
+#* {{ESp|rm|demo=yes}}
+#* {{ETp|rm|demo=yes}}
+#* {{EP|rm|demo=yes}}
+# pm
+#* {{ESp|pm|demo=yes}}
+#* {{ETp|pm|demo=yes}}
+#* {{EP|pm|demo=yes}}
+# m
+#* {{ESp|m|demo=yes}}
+#* {{ETp|m|demo=yes}}
+#* {{EP|m|demo=yes}}
+# d
+#* {{ESp|d|demo=yes}}
+#* {{ETp|d|demo=yes}}
+#* {{EP|d|demo=yes}}
+# do
+#* {{ESp|do|demo=yes}}
+#* {{ETp|do|demo=yes}}
+#* {{EP|do|demo=yes}}
+# done
+#* {{ESp|done|demo=yes}}
+#* {{ETp|done|demo=yes}}
+#* {{EP|done|demo=yes}}
+# pd
+#* {{ESp|pd|demo=yes}}
+#* {{ETp|pd|demo=yes}}
+#* {{EP|pd|demo=yes}}
+# prtdo
+#* {{ESp|prtdo|demo=yes}}
+#* {{ETp|prtdo|demo=yes}}
+#* {{EP|prtdo|demo=yes}}
+# partly done
+#* {{ESp|partly done|demo=yes}}
+#* {{ETp|partly done|demo=yes}}
+#* {{EP|partly done|demo=yes}}
+# deny
+#* {{ESp|deny|demo=yes}}
+#* {{ETp|deny|demo=yes}}
+#* {{EP|deny|demo=yes}}
+# not
+#* {{ESp|not|demo=yes}}
+#* {{ETp|not|demo=yes}}
+#* {{EP|not|demo=yes}}
+# notdone
+#* {{ESp|notdone|demo=yes}}
+#* {{ETp|notdone|demo=yes}}
+#* {{EP|notdone|demo=yes}}
+# not done
+#* {{ESp|not done|demo=yes}}
+#* {{ETp|not done|demo=yes}}
+#* {{EP|not done|demo=yes}}
+# n
+#* {{ESp|n|demo=yes}}
+#* {{ETp|n|demo=yes}}
+#* {{EP|n|demo=yes}}
+# nfn
+#* {{ESp|nfn|demo=yes}}
+#* {{ETp|nfn|demo=yes}}
+#* {{EP|nfn|demo=yes}}
+# ndfn
+#* {{ESp|ndfn|demo=yes}}
+#* {{ETp|ndfn|demo=yes}}
+#* {{EP|ndfn|demo=yes}}
+# not now
+#* {{ESp|not now|demo=yes}}
+#* {{ETp|not now|demo=yes}}
+#* {{EP|not now|demo=yes}}
+# notnow
+#* {{ESp|notnow|demo=yes}}
+#* {{ETp|notnow|demo=yes}}
+#* {{EP|notnow|demo=yes}}
+# now
+#* {{ESp|now|demo=yes}}
+#* {{ETp|now|demo=yes}}
+#* {{EP|now|demo=yes}}
+# consensus
+#* {{ESp|consensus|demo=yes}}
+#* {{ETp|consensus|demo=yes}}
+#* {{EP|consensus|demo=yes}}
+# c
+#* {{ESp|c|demo=yes}}
+#* {{ETp|c|demo=yes}}
+#* {{EP|c|demo=yes}}
+# specific
+#* {{ESp|specific|demo=yes}}
+#* {{ETp|specific|demo=yes}}
+#* {{EP|specific|demo=yes}}
+# spec
+#* {{ESp|spec|demo=yes}}
+#* {{ETp|spec|demo=yes}}
+#* {{EP|spec|demo=yes}}
+# detail
+#* {{ESp|detail|demo=yes}}
+#* {{ETp|detail|demo=yes}}
+#* {{EP|detail|demo=yes}}
+# ?
+#* {{ESp|?|demo=yes}}
+#* {{ETp|?|demo=yes}}
+#* {{EP|?|demo=yes}}
+# ad
+#* {{ESp|ad|demo=yes}}
+#* {{ETp|ad|demo=yes}}
+#* {{EP|ad|demo=yes}}
+# a
+#* {{ESp|a|demo=yes}}
+#* {{ETp|a|demo=yes}}
+#* {{EP|a|demo=yes}}
+# already
+#* {{ESp|already|demo=yes}}
+#* {{ETp|already|demo=yes}}
+#* {{EP|already|demo=yes}}
+# question
+#* {{ESp|question|demo=yes}}
+#* {{ETp|question|demo=yes}}
+#* {{EP|question|demo=yes}}
+# ques
+#* {{ESp|ques|demo=yes}}
+#* {{ETp|ques|demo=yes}}
+#* {{EP|ques|demo=yes}}
+# q
+#* {{ESp|q|demo=yes}}
+#* {{ETp|q|demo=yes}}
+#* {{EP|q|demo=yes}}
+# rs
+#* {{ESp|rs|demo=yes}}
+#* {{ETp|rs|demo=yes}}
+#* {{EP|rs|demo=yes}}
+# r
+#* {{ESp|r|demo=yes}}
+#* {{ETp|r|demo=yes}}
+#* {{EP|r|demo=yes}}
+# rfpp
+#* {{ESp|rfpp|demo=yes}}
+#* {{ETp|rfpp|demo=yes}}
+#* {{EP|rfpp|demo=yes}}
+# rfp
+#* {{ESp|rfp|demo=yes}}
+#* {{ETp|rfp|demo=yes}}
+#* {{EP|rfp|demo=yes}}
+# doc
+#* {{ESp|doc|demo=yes}}
+#* {{ETp|doc|demo=yes}}
+#* {{EP|doc|demo=yes}}
+# nlp
+#* {{ESp|nlp|demo=yes}}
+#* {{ETp|nlp|demo=yes}}
+#* {{EP|nlp|demo=yes}}
+# no longer protected
+#* {{ESp|no longer protected|demo=yes}}
+#* {{ETp|no longer protected|demo=yes}}
+#* {{EP|no longer protected|demo=yes}}
+# hr
+#* {{ESp|hr|demo=yes}}
+#* {{ETp|hr|demo=yes}}
+#* {{EP|hr|demo=yes}}
+# haverights
+#* {{ESp|haverights|demo=yes}}
+#* {{ETp|haverights|demo=yes}}
+#* {{EP|haverights|demo=yes}}
+# pr
+#* {{ESp|pr|demo=yes}}
+#* {{ETp|pr|demo=yes}}
+#* {{EP|pr|demo=yes}}
+# promoted
+#* {{ESp|promoted|demo=yes}}
+#* {{ETp|promoted|demo=yes}}
+#* {{EP|promoted|demo=yes}}
+# permission
+#* {{ESp|permission|demo=yes}}
+#* {{ETp|permission|demo=yes}}
+#* {{EP|permission|demo=yes}}
+# perm
+#* {{ESp|perm|demo=yes}}
+#* {{ETp|perm|demo=yes}}
+#* {{EP|perm|demo=yes}}
+# p
+#* {{ESp|p|demo=yes}}
+#* {{ETp|p|demo=yes}}
+#* {{EP|p|demo=yes}}
+# note
+#* {{ESp|note|demo=yes}}
+#* {{ETp|note|demo=yes}}
+#* {{EP|note|demo=yes}}
+# misplaced
+#* {{ESp|misplaced|demo=yes}}
+#* {{ETp|misplaced|demo=yes}}
+#* {{EP|misplaced|demo=yes}}
+# mis
+#* {{ESp|mis|demo=yes}}
+#* {{ETp|mis|demo=yes}}
+#* {{EP|mis|demo=yes}}
+# sandbox
+#* {{ESp|sandbox|demo=yes}}
+#* {{ETp|sandbox|demo=yes}}
+#* {{EP|sandbox|demo=yes}}
+# sand
+#* {{ESp|sand|demo=yes}}
+#* {{ETp|sand|demo=yes}}
+#* {{EP|sand|demo=yes}}
+# sb
+#* {{ESp|sb|demo=yes}}
+#* {{ETp|sb|demo=yes}}
+#* {{EP|sb|demo=yes}}
+# talk protected
+#* {{ESp|talk protected|demo=yes}}
+#* {{ETp|talk protected|demo=yes}}
+#* {{EP|talk protected|demo=yes}}
+# tp
+#* {{ESp|tp|demo=yes}}
+#* {{ETp|tp|demo=yes}}
+#* {{EP|tp|demo=yes}}
+# xy
+#* {{ESp|xy|demo=yes}}
+#* {{ETp|xy|demo=yes}}
+#* {{EP|xy|demo=yes}}
+# u
+#* {{ESp|u|demo=yes}}
+#* {{ETp|u|demo=yes}}
+#* {{EP|u|demo=yes}}
+# unpr
+#* {{ESp|unpr|demo=yes}}
+#* {{ETp|unpr|demo=yes}}
+#* {{EP|unpr|demo=yes}}
+# unprotected
+#* {{ESp|unprotected|demo=yes}}
+#* {{ETp|unprotected|demo=yes}}
+#* {{EP|unprotected|demo=yes}}

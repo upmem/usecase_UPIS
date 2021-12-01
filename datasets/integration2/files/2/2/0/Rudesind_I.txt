@@ -1,0 +1,24 @@
+'''Rudesindus I''' (in office 877-907) was a medieval [[Galician people|Galician]] clergyman.
+
+{{s-start}}
+{{s-rel|ca}}
+{{succession box | title=[[Roman Catholic Diocese of Mondoñedo-Ferrol|Bishop of Dumium]] | before=[[Sabaricus I]] | after=[[Savaric II (Bishop of Mondoñedo)|Sabaricus II]] | years= 877&ndash;907 }}
+{{s-end}}
+
+== References ==
+* ''Episcopologio Mindoniense''. CAL PARDO, Enrique, 2003, {{ISBN|84-933023-1-7}}.
+
+== External links ==
+
+* {{in lang|es}} [http://www.mondonedoferrol.org/ Official web site of the Diocese of Mondoñedo-Ferrol]
+
+
+{{authority control}}
+
+[[Category:Galician clergy]]
+[[Category:9th-century bishops]]
+[[Category:907 deaths]]
+
+
+{{Galicia-bio-stub}}
+{{Spain-RC-bishop-stub}}

@@ -1,0 +1,39 @@
+{{short description|Ethiopian cyclist}}
+{{Use dmy dates|date=October 2014}}
+{{Infobox cyclist
+| name          = Suleman Abdul Rahman
+| image         = 
+| caption       = 
+| fullname      = 
+| birth_date    = {{birth date and age|1942|10|19|df=yes}}
+| birth_place   = 
+| death_date    = 
+| death_place   = 
+| height        = 
+| weight        = 
+| currentteam   = 
+| discipline    = 
+| role          = 
+| ridertype     = 
+| amateuryears1 = 
+| amateurteam1  = 
+| proyears1     = 
+| proteam1      = 
+| majorwins     = 
+}}
+
+'''Suleman Abdul Rahman''' (born 19 October 1942) is an Ethiopian former [[cycling|cyclist]]. He competed in the [[Cycling at the 1972 Summer Olympics – Men's individual road race|individual road race]] at the [[1972 Summer Olympics]].<ref name="sports-reference">{{cite web |url=https://www.sports-reference.com/olympics/athletes/ab/suleman-abdul-rahman-1.html |archive-url=https://web.archive.org/web/20200418111032/https://www.sports-reference.com/olympics/athletes/ab/suleman-abdul-rahman-1.html |url-status=dead |archive-date=18 April 2020 |title=Suleman Abdul Rahman Olympic Results |accessdate=16 October 2014 |work=sports-reference.com}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rahman, Suleman Abdul}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:Ethiopian male cyclists]]
+[[Category:Olympic cyclists of Ethiopia]]
+[[Category:Cyclists at the 1972 Summer Olympics]]
+[[Category:Place of birth missing (living people)]]
+{{Ethiopia-cycling-bio-stub}}

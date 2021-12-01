@@ -1,0 +1,28 @@
+{{Notability|date=September 2020}}
+{{Infobox company
+| name = Empower
+| logo = Empower_Logo_as_of_Oct_11,_2017.jpg
+| former_names = Media That Works {{!}} Empower MediaMarketing
+| type = Private
+| industry = [[Advertising]], [[Marketing]], [[Media (communication)|Media]]
+| founded = 1985
+| founder = Mary Beth Price
+| hq_location_city = [[Cincinnati, Ohio]]
+| hq_location_country = United States
+| num_locations = Two
+| area_served = [[United States]]
+| services = [[Advertising]], [[Marketing]]
+| num_employees = 200 (September 2019) across two locations<ref name="biz"/>
+| website = {{URL|www.empowermm.com}}
+}}'''Empower''' is an advertising and [[marketing agency]] headquartered in [[Cincinnati, Ohio]], founded in 1985 by Mary Beth Price.<ref name=":0">{{cite news|last=|first=|date=March 16, 2008|title=Special Report: The Deloitte Cincinnati 100|newspaper=The Enquirer|url=http://news.cincinnati.com/assets/AB1225521116.PDF|url-status=live|accessdate=5 April 2011|archive-url=https://web.archive.org/web/20110523102903/http://news.cincinnati.com/assets/AB1225521116.PDF|archive-date=May 23, 2011}}</ref> It was the 49th largest private employer in the Cincinnati region in 2019, having dropped from 36th in 2007.<ref name=":0">{{cite news|last=|first=|date=March 16, 2008|title=Special Report: The Deloitte Cincinnati 100|newspaper=The Enquirer|url=http://news.cincinnati.com/assets/AB1225521116.PDF|url-status=live|accessdate=5 April 2011|archive-url=https://web.archive.org/web/20110523102903/http://news.cincinnati.com/assets/AB1225521116.PDF|archive-date=May 23, 2011}}</ref> 
+
+==History==
+
+It was founded by Mary Beth Price in Cincinnati in 1985. Her son Jim Price has been the CEO since 2009. Mary Beth’s son, Jim Price<ref>{{Cite web|url=http://medialifemagazine.com/jim-price-joins-empower-mediamarketing-board-of-directors/|title=Jim Price joins Empower MediaMarketing board of directors - Media Life Magazine|website=medialifemagazine.com|language=en|access-date=2017-06-12}}</ref> has been the CEO since 2009.<ref name="biz">{{Cite web|last=McCartney|first=Hannah|date=September 5, 2019|title=Greater Cincinnati's largest woman-owned business sold|url=https://www.bizjournals.com/cincinnati/news/2019/09/05/greater-cincinnatis-largest-women-owned-business.html|url-status=live|archive-url=|archive-date=|access-date=2020-09-08|website=www.bizjournals.com}}</ref> Mary Price sold the company to her son in 2019 as part of the succession plan, but remains a board member.<ref name="biz" /> It was the largest woman-owned company in the region until the sale.<ref name="biz" /> It was the 49th largest private employer in the Cincinnati region in 2019,<ref name="Deloitte2019">{{Cite web|title=Deloitte Cincinnati 100: Which are the region's top private firms? Here's the list for 2019|url=https://www.cincinnati.com/story/money/2019/10/17/deloitte-cincinnati-100-who-regions-top-private-firms/4000705002/|access-date=2020-09-08|website=The Enquirer|language=en-US}}</ref> having dropped from 36th in 2007.<ref name=":0" /> It has declined to allow the [[The Cincinnati Enquirer|''Cincinnati Enquirer'']] to release its revenue for the Deloitte.<ref name="Deloitte2019" />
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Empower MediaMarketing}}
+[[Category:Advertising agencies of the United States]]
+[[Category:Digital marketing]]

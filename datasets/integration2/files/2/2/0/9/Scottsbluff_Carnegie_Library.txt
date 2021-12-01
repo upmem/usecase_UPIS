@@ -1,0 +1,30 @@
+{{Infobox NRHP
+  | name = Scottsbluff Carnegie Library
+  | nrhp_type = 
+  | image = Scottsbluff Carnegie Library N entrance.JPG
+  | caption = The building in 2010
+  | location= 106 East 18th Street, [[Scottsbluff, Nebraska]]
+  | coordinates = {{coord|41|51|51|N|103|39|38|W|region:US_type:landmark|name=Scottsbluff Carnegie Library|display=inline,title}}
+  | locmapin = Nebraska
+  | built = {{Start date|1922}}
+  | architect = Robert A. Bradley; [[Otto John Hehnke]]
+  | architecture = Classical Revival
+  | added = September 3, 1981
+  | area = less than one acre
+  | refnum = 81000373<ref name="nris">{{NRISref|version=2013a}}</ref>
+}}
+The '''Scottsbluff Carnegie Library''' is a historic building in [[Scottsbluff, Nebraska]]. It was built as a [[Carnegie library]] in 1922, and designed in the [[Classical Revival architecture|Classical Revival architectural style]] by architect Robert A. Bradley.<ref name="nrhpdoc">{{cite web|url={{NRHP url|id=81000373}}|title=National Register of Historic Places Inventory/Nomination: Scottsbluff Carnegie Library |publisher=[[National Park Service]]|author=Penelope Chatfield |date=April 1981 |accessdate=May 13, 2019}} With {{NRHP url|id=81000373|photos=y|title=accompanying pictures}}</ref> A 1936 extension was designed in the same style by architect [[Otto John Hehnke]].<ref name="nrhpdoc"/> The building was repurposed as the West Nebraska Arts Center in 1966.<ref name="nrhpdoc"/> It has been listed on the [[National Register of Historic Places listings in Scotts Bluff County, Nebraska|National Register of Historic Places]] since September 3, 1981.<ref name="nris"/>
+
+==References==
+{{Reflist}}
+
+{{commons category|Scottsbluff Carnegie Library}}
+
+{{National Register of Historic Places}}
+
+{{DEFAULTSORT:Scottsbluff Carnegie Library}}
+[[Category:National Register of Historic Places in Scotts Bluff County, Nebraska]]
+[[Category:Neoclassical architecture in Nebraska]]
+[[Category:Library buildings completed in 1922]]
+[[Category:Carnegie libraries in Nebraska]]
+{{Nebraska-NRHP-stub}}

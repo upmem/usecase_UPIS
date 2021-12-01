@@ -1,0 +1,68 @@
+{{Infobox settlement
+| name                    = Marchand
+| pushpin_map             = South Africa Northern Cape#South Africa
+| coordinates             = {{coord|28.716667|S|20.5|E|region:ZA|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[South Africa]]
+| subdivision_type1       = Province
+| subdivision_name1       = [[Northern Cape]]
+| subdivision_type2       = District
+| subdivision_name2       = [[ZF Mgcawu District Municipality|ZF Mgcawu]]
+| subdivision_type3       = Municipality
+| subdivision_name3       = [[Kai !Garib Local Municipality|Kai !Garib]]
+| subdivision_type4       = Main Place
+| established_title       = Established
+| area_footnotes          = <ref name="census2011">{{cite web |url=http://census2011.adrianfrith.com/place/378016 |title = Main Place Marchand |work=Census 2011}} </ref>
+| area_total_km2          = 4.45
+| population_footnotes    = <ref name="census2011" />
+| population_total        = 3222
+| population_as_of        = 2011
+| population_density_km2  = auto
+<!-- demographics (section 1) -->
+| demographics_type1      = Racial makeup (2011)
+| demographics1_footnotes = <ref name="census2011" />
+| demographics1_title1    = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1     = 15.4%
+| demographics1_title2    = [[Coloureds|Coloured]]
+| demographics1_info2     = 63.2%
+| demographics1_title3    = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3     = 0.7%
+| demographics1_title4    = [[White South African|White]]
+| demographics1_info4     = 7.9%
+| demographics1_title5    = Other
+| demographics1_info5     = 12.9%
+<!-- demographics (section 2) -->
+| demographics_type2      = [[First language]]s (2011)
+| demographics2_footnotes = <ref name="census2011" />
+| demographics2_title1    = [[Afrikaans]]
+| demographics2_info1     = 75.5%
+| demographics2_title2    = [[Tswana language|Tswana]]
+| demographics2_info2     = 20.1%
+| demographics2_title3    = [[Xhosa language|Xhosa]]
+| demographics2_info3     = 1.7%
+| demographics2_title4    = 
+| demographics2_info4     = 
+| demographics2_title5    = Other
+| demographics2_info5     = 2.8%
+<!-- blank fields (section 2) -->
+<!-- Other information -->
+| timezone1               = [[South African Standard Time|SAST]]
+| utc_offset1             = +2
+| postal_code_type        = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code             = 8873
+| postal2_code_type       = [[Post-office box|PO box]]
+| postal2_code            = 8873
+| area_code_type          = [[Telephone numbers in South Africa|Area code]]
+| area_code               = 054
+}}
+'''Marchand''' is a town in [[ZF Mgcawu District Municipality]] in the [[Northern Cape]] province of [[South Africa]].
+
+The town is located on the [[R359 road (South Africa)|R359 road]], on the way to the [[Augrabie Falls]].<ref name=satd>{{cite web|title=Marchand, Northern Cape|url=http://sa.travel-directory.co/1208/places/northern-cape/marchand|publisher=SA Travel Directory|accessdate=4 January 2014}}</ref> 
+
+==References==
+{{reflist}}
+
+{{NorthernCape-geo-stub}}
+{{ZF Mgcawu District Municipality}}
+
+[[Category:Populated places in the Kai !Garib Local Municipality]]

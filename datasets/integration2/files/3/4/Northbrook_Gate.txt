@@ -1,0 +1,54 @@
+{{Use dmy dates|date=October 2017}}
+{{Use Indian English|date=October 2017}}
+{{Infobox building
+|name                       = Northbrook Gate
+|image                      = Northbrook Gate.jpg
+|caption                    = Known as Gateway of Assam. The photographs was taken in early 20th century
+|coordinates                = {{coord|26.1879|91.7387|region:IN_type:landmark|display=inline,title}}
+|map_type                   = India Assam
+|location                   =  Sukreswar Park, [[Guwahati]]<br />[[Assam]], [[India]]
+|architect                  =
+|client                     = [[British India]] 
+|engineer                   = 
+|construction_start_date    =
+|completion_date            =
+|date_demolished            = 
+|cost                       =
+|structural_system          = Brick and white limestone
+|style                      = [[British architecture]]
+|size                       =
+}}
+
+'''The Northbrook Gate''', was constructed to welcome British viceroy [[Lord Northbrook]] who visited [[Guwahati]] in 1874. The gate was built near [[Sukreswar Ghat]] where the viceroy anchored his ship. It is the only monument of its kind in this part of Assam and the lone surviving brick architecture from colonial times. For the last 140 years, it has remained a silent spectator of many developments of Guwahati.
+
+British officials named the Northbrook Gate the 'Gateway of Assam'. It is alleged that the Lord Northbrook Gate is battling for survival, as no competent authority has stepped in to save the historic structure.<ref>{{Cite web|title=Northbrook Gate needs immediate restoration|url=http://www.assamtribune.com/scripts/detailsnew.asp?id=aug1312/city05|access-date=2020-11-29|website=The Assam Tribune Online}}</ref>
+Recently, State Govt. is taking initiative for restoration of the gate.
+
+==History==
+The Northbrook Gate in Guwahati, located on the banks of the [[Brahmaputra]], was built to mark the arrival of then Viceroy of [[India]] Thomas George Baring, better known as [[Lord Northbrook]], in Guwahati on 27 August 1874. The gate was constructed near Sukreswar Ghat, where Northbrook got down from the ship, which brought him from [[Calcutta]]. The gate has since then become an important landmark of the city.
+
+In 1874, when the then Governor General, Lord Northbrook decided to visit Assam, the local administration focused its attention on a grand welcome for Northbrook. They decided to welcome the Governor General by building an arch at the point of his embarkation in [[Guwahati]] which would be named the 'Gate of Honour'. Later the place adjacent to the [[Sukreswar Temple|Sukreswar Devalaya]], was selected as the spot where the Governor General's ship would anchor. And construction of the gate started at the location.<ref>[http://www.telegraphindia.com/1040925/asp/guwahati/story_3768660.asp An arch of honour for the gateway to the Northeast]{{dead link|date=November 2020}}</ref>
+
+The Governor General had arrived on a ship at the [[Sukreswar Ghat]] on 27 August 1874. After the gun salute, Lord Northbrook entered Guwahati, through the newly constructed Northbrook Gate. The gate became the landmark of [[Guwahati]].
+
+The same gate welcomed [[Lord Curzon]] during his visit to the city in December 1900 with [[Mary Curzon, Baroness Curzon of Kedleston|Lady Curzon]].<ref>{{cite web | url=http://www.rhinoresourcecenter.com/pdf_files/127/1273012625.pdf | title=Kurzon, Miri and Kaziranga | publisher=Kaziranga Centenary 1905-2005}}</ref>
+
+It is said the [[urn]] containing the ashes of Mahatma Gandhi was stored near the gate before its immersion in the Brahmaputra.
+
+==Design==
+[[United Kingdom|British]] government had decided that the gate would be designed after the famous King's College Chapel arches of [[England]]. The rectangular structure has a total of 12 [[arche]]s, five each in the two longer sides and one in each side of its breadth. The gate was built of brick and white limestone. The structure was enhanced by the simplicity of design and the unusual lack of decorative carving of the arches. The unique aspect of the gate is that while the arches are of [[gothic architecture|gothic]] design, the spires on the gate are inspired by Indian temple designs - so the overall impression is of an [[Indo-gothic architecture]].<ref name= Restoration/>
+
+==Restoration==
+The gate stands more than 140 years. From beginning, it had been restored several times. In 2015, [[Directorate of Tourism, Government of Assam], Kamrup District Administration owns the Sukreswar Park on which the gate stands, joined hands with the Assam Archaeology Department, the Archaeological Survey of India (ASI) and the state chapter of INTACH (Indian National Trust for Art and Cultural Heritage) restoration work was done only by 4 persons of INTACH, Late Rathin Borthakur (engineer), late Manik Borah (noted artist, news editor), Jayanta Sharma (Convenor, INTACH, Assam State Chapter) Bikash J. Goswami (life member INTACH) on behalf of the Government committee formed by the District Administration of Kamrup Metro. Fund was rooted through ATDC, INTACH took charge of supervising the repairs.  Accordingly, the restoration work has been done but unfinished as the sanctioned amount remained partially pending in the hand of ATDC.<ref name="Restoration">{{cite web|last=Pisharoty|first=Sangeeta Barooah|date=December 18, 2015|title=At Assam’s entrance|url=http://m.thehindubusinessline.com/blink/know/northbrook-gate-an-important-marker-of-colonial-history-in-the-northeast/article8000600.ece|url-status=live|archive-url=|archive-date=|access-date=29 November 2020|website=thehindubusinessline.com}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.bl.uk/onlinegallery/onlineex/apac/photocoll/g/019pho000000913u00024000.html Photograph of Northbrook in 1860 "Gowhatty from the River" by Mallitte, Oscar Jean Baptiste]
+
+[[Category:Gates in India]]
+[[Category:Monuments and memorials in Assam]]
+[[Category:Buildings and structures in Guwahati]]
+[[Category:Tourist attractions in Guwahati]]
+[[Category:Cultural history of Assam]]

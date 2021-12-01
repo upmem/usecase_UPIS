@@ -1,0 +1,16 @@
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This is the Thailand National Badminton 2nd Jersey in [[2016 Thomas & Uber Cup]]. }}
+|date=2016-05-20 15:28:26
+|source={{own}}
+|author=[[User:BTechTV|BTechTV]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+
+[[Category:Badminton images]]

@@ -1,0 +1,52 @@
+{{Infobox journal
+| title         = New Astronomy
+| cover         = 
+| editor        = 
+| discipline    = [[Astronomy]], [[astrophysics]]
+| abbreviation  = New Astron.
+| publisher     = [[Elsevier]]
+| country       =
+| frequency     = 8/year
+| history       = 1996-present
+| openaccess    = 
+| license       = 
+| impact        = 1.058
+| impact-year   = 2019
+| website       = https://www.journals.elsevier.com/new-astronomy
+| link1         = http://www.sciencedirect.com/science/journal/13841076
+| link1-name    = Online access
+| link2         = 
+| link2-name    = 
+| JSTOR         = 
+| OCLC          = 123402017
+| LCCN          = 
+| CODEN         = 
+| ISSN          = 1384-1076
+| eISSN         = 1384-1092
+}}
+'''''New Astronomy''''' is a [[Peer review|peer-reviewed]] [[scientific journal]] covering topics in [[astronomy]] and [[astrophysics]]. The journal was established in 1996 and is currently published by [[Elsevier]].
+
+==Abstracting and indexing==
+The journal is abstracted and indexed in the following databases:
+*[[Current Contents]]/Physics, Chemical, & Earth Sciences
+*[[INSPEC]]
+*[[SCISEARCH]]
+*[[Science Citation Index]]
+*[[Scopus]]
+
+According to the ''[[Journal Citation Reports]]'', the journal has a 2018 [[impact factor]] of 1.162.<ref name=WoS>{{cite book |year=2018 |chapter=New Astronomy |title=2018 Journal Citation Reports |publisher=[[Thomson Reuters]] |edition=Science |series=[[Web of Science]]|title-link=Journal Citation Reports }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://journals.elsevier.com/13841076/new-astronomy/}}
+
+{{DEFAULTSORT:New Astronomy}}
+[[Category:Astronomy journals]]
+[[Category:Elsevier academic journals]]
+[[Category:English-language journals]]
+[[Category:Publications established in 1996]]
+
+
+{{astronomy-journal-stub}}

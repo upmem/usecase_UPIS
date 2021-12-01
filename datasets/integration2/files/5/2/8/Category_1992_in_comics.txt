@@ -1,0 +1,11 @@
+{{Commons category|1992 in comics}}
+{{Portal|Comics|{{FindYDCportal|{{Title year}}}} }}
+This category is for '''[[comics]]''' in the '''year [[{{Title year}}]]'''
+{{Navseasoncats with decades below year}}
+{{Cat more if exists|{{Title year}} in comics}}
+{{CatAutoTOC}}
+
+[[Category:Comics by year|{{Title year}}]]
+[[Category:{{DECADE|{{Title year}}}} comics|{{Title year}}]]
+[[Category:{{Title year}} in art|Comics]]
+[[Category:{{Title year}} in mass media|Comics]]

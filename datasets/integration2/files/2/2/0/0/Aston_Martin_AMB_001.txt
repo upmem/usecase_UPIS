@@ -1,0 +1,42 @@
+{{short description|Limited edition sport motorcycle}}
+{{Infobox Motorcycle
+| name = Aston Martin AMB 001
+| image = 
+| caption = 
+| aka = 
+| manufacturer = [[Aston Martin]]
+| parent_company =
+| class = [[sport bike]]
+| engine = {{Convert|997|cc|cuin|abbr=on}} [[V-twin engine|V-twin]] 
+|bore_stroke      = {{convert|NNN|×|NNN|mm|abbr=on}}
+| power = {{convert|180|hp|abbr=on}}
+| torque = {{convert|NNN|Nm|abbr=on}}
+| transmission = 
+| suspension = 
+| brakes =
+| tires = 
+| rake_trail = 
+| wheelbase = {{convert|NNN|mm|abbr=on}}
+| length= {{convert|NNN|mm|abbr=on}} 
+| width= {{convert|NNN|mm|abbr=on}}
+| height= {{convert|NNN|mm|abbr=on}}
+| seat_height = {{convert|NNN|mm|abbr=on}}
+| dry_weight = {{convert|180|kg|abbr=on}}
+| wet_weight = {{convert|NNN|kg|abbr=on}}
+| fuel_capacity = {{convert|NNN|L|abbr=on}}
+| related = 
+}}
+
+The '''Aston Martin AMB 001''' is a [[sport bike|sport]] [[motorcycle]] produced by the [[United Kingdom|British]] manufacturer [[Aston Martin]] from 2020. It is Aston Martin's first motorcycle.<ref>{{cite web|title=Arrêtez tout, Aston Martin a fabriqué une moto|url=https://www.topgear-magazine.fr/aston-martin-moto-amb001/|author=Valentin Langard|agency=[[Top Gear (2002 TV series)|Top Gear]]|date=5 November 2019|publication-date=}}.</ref>
+
+== Presentation ==
+The AMB 001, presented in November 2019, is produced in a limited series of one hundred copies in [[Toulouse]], [[France]] by the motorcycle manufacturer [[Brough Superior]].<ref>{{cite web|title=AMB 001, une Aston Martin à 2 roues|url=https://www.turbo.fr/actualite-automobile/amb-001-une-aston-martin-2-roues-153270|author=Arnaud Peytier|agency=[[:fr:Turbo (émission de télévision)|Turbo]]|date=5 November 2019|publication-date=}}.</ref> It is sold at a price of [[Euro|€]]108000, which makes it the entry-level model of the English luxury brand.
+
+== Technical characteristics ==
+It uses a structure in carbon fiber and titanium, a double double wishbone fork and it is coated with a painting "Stirling Green" typical of the brand. The two-wheeled AMB 001 receives a [[V-twin]] of 997 cc [[turbocharged]] with a power of 180 hp.<ref>{{cite web|title=Aston Martin lance une moto… à {{euro|108000}} : l'AMB 001|url=https://www.automobile-magazine.fr/toute-l-actualite/article/26632-aston-martin-lance-une-moto-a-108-000-eur|author=Yohann Leblanc|agency=[[:fr:L'Automobile Magazine|L'Automobile Magazine]]|date=5 November 2019|publication-date=}}.</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Aston Martin vehicles|AMB 001]]
+[[Category:Motorcycles introduced in 2020]]

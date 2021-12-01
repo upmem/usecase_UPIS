@@ -1,0 +1,67 @@
+{{Infobox basketball club
+| name = US Gorée
+| color1 = white
+| color2 = blue
+| color3 = silver
+| logo =
+| nickname =
+| leagues = [[Nationale 1 (Senegal)|Nationale 1]]
+| conference =
+| division =
+| founded = <!-- or | established = -->
+| dissolved = <!-- or | folded = -->
+| history =
+| arena =[[Marius Ndiaye Stadium]]
+| capacity =
+| location =[[Gorée Island]], [[Dakar]], Senegal
+| colors = <!-- or | colours = -->
+| current =
+| sponsor =
+| media =
+| president =[[Augustin Senghor]]
+| vice-presidents =
+| manager =
+| coach =
+| captain =
+| ownership =
+| championships =
+| conf_champs =
+| div_champs =
+| season =
+| position =
+| website ={{URL|unionsportivegoreenne.com}}
+| 1_title =
+| 1_body =
+| 1_pattern_b =
+| 1_shorts =
+| 1_pattern_s =
+| 2_title =
+| 2_body =
+| 2_pattern_b =
+| 2_shorts =
+| 2_pattern_s =
+}}
+'''Union Sportive Gorée''' is a [[basketball]] club based in [[Gorée Island]], east of the city centre of [[Dakar]]. They play in the top division in Senegalese basketball, the [[Nationale 1 (Senegal)|Nationale 1]]. Their home arena is the [[Marius Ndiaye Stadium]]. The team president is [[Augustin Senghor]]. The club has won six national championships.<ref>[http://www.unionsportivegoreenne.com/ Website of US Gorée] {{in lang|fr}}</ref>
+
+==History==
+The basketball team was created in the 1960s and was one of the second sports department established. The club were the first participants in the national championships at the time only one division, the club was the first national champion. Gorée was the fourth club to have two titles in 1985.  Gorée won back to back in 1991. Their fifth was in 2000 and their sixth and recent was in 2003.
+
+==Arena==
+The team plays at [[Marius Ndiaye Stadium]] in the subdivision of Sicap Liberté II in [[Dakar]]. Teams based in the city that play in the arena include AS Douanes, Dakar Rapids and Sibac.<ref>{{cite web|url=http://www.worldstadiums.com/africa/countries/senegal.shtml|title=Information on the Structure|publisher=World Stadiums|accessdate=2018-03-20}}</ref>
+
+==Honours==
+*'''[[Senegalese Division I Basketball League|Nationale 1]]'''
+:Winners (6): 1971, 1985, 1989, 1991, 2000, 2003
+
+==See also==
+*[[US Gorée]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.unionsportivegoreenne.com/ Official website which includes basketball] {{in lang|fr}}
+
+[[Category:US Gorée| ]]
+[[Category:Basketball teams in Senegal]]
+[[Category:Sports clubs in Dakar]]

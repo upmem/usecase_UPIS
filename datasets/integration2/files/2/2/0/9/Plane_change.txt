@@ -1,0 +1,5 @@
+#REDIRECT [[Orbital inclination change]]
+
+{{Rcat shell|
+{{R to technical name}}
+}}

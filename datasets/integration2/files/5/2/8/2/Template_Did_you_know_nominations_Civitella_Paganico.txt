@@ -1,0 +1,12 @@
+{{#if:yes|<noinclude>[[Category:Passed DYK nominations&nbsp;from August 2013]]<div style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived discussion of the DYK nomination of the article below. <span style="color:red">'''Please do not modify this page.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as [[{{TALKPAGENAME}}|this nomination's talk page]], [[Talk:{{SUBPAGENAME}}|the article's talk page]] or [[Wikipedia talk:Did you know]]), unless there is consensus to re-open the discussion at this page.  '''No further edits should be made to this page'''.''
+
+The result was: '''promoted''' by ''[[User: Allen3|Allen3]]''&nbsp;<sup>[[User talk:Allen3|talk]]</sup> 17:32, 29 August 2013 (UTC)<br />}}
+{{DYKC}}
+====Civitella Paganico====
+{{DYK nompage links|nompage=Civitella Paganico|Civitella Paganico}}
+*... that '''[[Civitella Paganico]]''' is home to a third to second century BC [[Etruscan civilization|Etruscan]] tomb that was discovered and excavated by an amateur archeologist?
+:* ''Reviewed'': [[Template:Did you know nominations/Buurtpoes Bledder|Buurtpoes Bledder]]
+<small>5x expanded by [[User:ThaddeusB|ThaddeusB]] ([[User talk:ThaddeusB|talk]]).&nbsp;Self nominated at 01:17, 25 August 2013 (UTC)</small>.
+
+:* [[File:Symbol confirmed.svg|16px]] length, date and hook reference are in order. No copy vio. Good to go.--'''[[User talk:Nvvchar|<span style="font-variant:small-caps;color:#003366">Nvvchar</span>]]'''. 00:56, 28 August 2013 (UTC){{#if:yes|</div></noinclude>|{{#ifeq:{{FULLPAGENAME}}|Template talk:Did you know/{{SUBPAGENAME}}|[[Category:Pending DYK nominations]][[Category:DYK/Nominations|Pending]]|{{#ifeq:{{FULLPAGENAME}}|Template:Did you know nominations/{{SUBPAGENAME}}|[[Category:DYK/Nominations|Pending]][[Category:Pending DYK nominations]]}}}}}}<!--Please do not write below this line or remove this line. Place comments above this line.-->

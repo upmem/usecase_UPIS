@@ -1,0 +1,6 @@
+#REDIRECT [[Wikipedia:WikiProject Flag Template]]
+
+{{Redirect category shell|
+{{R to project}}
+{{R from shortcut}}
+}}

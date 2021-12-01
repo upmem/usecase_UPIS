@@ -1,0 +1,97 @@
+{{Coord|00|51|28|N|51|10|48|W|scale:30000|display=title}}
+{{Infobox settlement
+|name                   = Ferreira Gomes
+|settlement_type        = Municipality
+|official_name          = ''Municipio de Ferreira Gomes''
+|nickname               = 
+|motto                  = 
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = Bandeira de Ferreira Gomes AP.svg
+|image_seal             = Brasão_de_Ferreira_Gomes,_Amapá.png
+|image_map              = Amapa_Municip_FerreiraGomes.jpg
+|mapsize                = 250px
+|map_caption            = Location of Ferreira Gomes in the [[Amapá|State of Amapá]] 
+|pushpin_map            = 
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location in Brazil
+|subdivision_type       = Country
+|subdivision_type1      = [[Regions of Brazil|Region]]
+|subdivision_type2      = [[States of Brazil|State]]   
+|subdivision_name       = Brazil
+|subdivision_name1      = [[North Region, Brazil|North]]
+|subdivision_name2      = [[Image:Bandeira_do_Amap%C3%A1.svg|border|22px]] [[Amapá]]
+|leader_title           = Mayor
+|leader_name            = João Álvaro Rocha Rodrigues ([[Patriota|PATRI]])
+|established_title      = Founded
+|established_date       = December 17, 1987
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     = 
+|established_date3      = 
+|area_magnitude         = 
+|area_total_km2             = 5046.696
+|area_total_sq_mi        = 
+|area_land_km2              = 
+|area_land_sq_mi         = 
+|area_water_km2             = 
+|area_water_sq_mi        = 
+|area_water_percent     = 
+|area_urban_km2             = 
+|area_urban_sq_mi        = 
+|area_metro_km2             = 
+|area_metro_sq_mi        = 
+|population_as_of       = 2014
+|population_note        = 
+|population_total       =	6714
+|population_density_km2     = 1.15
+|population_density_sq_mi = 
+|population_metro       = 
+|population_footnotes   =
+|population_density_metro_km2 =
+|population_density_metro_sq_mi =
+|population_urban       = 
+|timezone               = [[UTC-4]]
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|00|51|28|N|51|10|48|W|region:BR|display=inline}}
+|elevation_m              = 
+|elevation_ft           = 
+|postal_code_type       = 
+|postal_code            = 
+|area_code              = 
+|blank_name         = 
+|blank_info         = 
+|website                = 
+|footnotes              = 
+}}
+'''Ferreira Gomes''' ({{IPA-pt|feˈʁejɾɐ ˈgomis|native}}) is a [[municipality]] located in the center of the state of [[Amapá]] in [[Brazil]]. Its population is 6,714 and its area is {{convert|5,047|km2|mi2}}.<ref name="i"/>
+
+The municipality contains 3.64% of the {{convert|2369400|ha}} [[Amapá State Forest]], a sustainable use conservation unit established in 2006.<ref>{{citation|ref={{harvid|FES do Amapá – ISA}}|language=Portuguese
+ |title=FES do Amapá|publisher=ISA: Instituto Socioambiental
+ |url=https://uc.socioambiental.org/uc/430|accessdate=2016-07-06}}</ref>
+It also contains 44.07% of the {{convert|460353|ha}} [[Amapá National Forest]], a sustainable use conservation unit created in 1989.<ref>{{citation|ref={{harvid|FLONA do Amapá – ISA}}|language=Portuguese
+ |title=FLONA do Amapá|publisher=ISA: Instituto Socioambiental
+ |url=https://uc.socioambiental.org/uc/398|accessdate=2016-07-06}}</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name="i">{{cite web
+| url = http://cidades.ibge.gov.br/painel/painel.php?codmun=160023
+| title = Ferreira Gomes
+| year = 2014
+| publisher = Instituto Brasileiro de Geografia e Estatística
+| location = Brasília
+| accessdate = 2014-08-31
+| language = Portuguese
+}}</ref>
+
+}}
+{{Municipalities of Amapá}}
+
+[[Category:Municipalities in Amapá]]
+
+{{AmapáBR-geo-stub}}

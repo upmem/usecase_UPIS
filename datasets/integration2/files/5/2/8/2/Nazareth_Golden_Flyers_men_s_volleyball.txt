@@ -1,0 +1,167 @@
+{{Infobox college volleyball team|AIAW=no
+|name = Nazareth Golden Flyers Men's Volleyball
+|logo =
+|logo_size = 175
+|university = Nazareth College (New York)
+|conference = United Volleyball Confernce
+|conference_short = UVC
+|division =
+|city = Pittsford
+|stateabb = NY
+|state = New York (state)
+|coach = Cal Wickens
+|tenure = 11th
+|arena = Kidera Gymnasium 
+|capacity = 1,200
+|nickname = Golden Flyers
+|hex1=800080
+|hex2=ffffff
+|hex3=FFD700
+|NCAAchampion = 2011
+|NCAArunnerup = 2013
+|NCAAfinalfour = 2010, 2011, 2013, 2015
+|NCAAtourneys = 2010, 2011, 2012, 2013, 2015
+|conference_tournament = NECVA: 2010, 2011 <br />UVC: 2012, 2013
+|conference_season = 
+}}
+The '''Nazareth College Golden Flyers men's volleyball team''' is the [[NCAA Division III]] volleyball team of [[Nazareth College (New York)|Nazareth College]]. The Golden Flyers won the [[Molten Division III Men's Invitational Volleyball Championship Tournament]] in 2011.<ref>[http://www.teamusa.org/USA-Volleyball/Features/2011/April/16/Nazareth-Wins-Final-Molten-Men-s-Title-Over-Springfield.aspx Nazareth Wins Final Molten Men-s Title Over Springfield<!-- Bot generated title -->]</ref> The Golden Flyers lost in the finals of the [[NCAA Men's Division III Volleyball Championship]] in 2013<ref>http://www.democratandchronicle.com/article/20130428/SPORTS09/304280060/naz-falls-short</ref> and both matches were
+against [[Springfield College]].
+
+{| class="wikitable"
+|-
+! style="background: #800080;color:white;"|Year
+! style="background: #800080;color:white;"|Head Coach
+! style="background: #800080;color:white;"|Overall <br> Record
+! style="background: #800080;color:white;"|Postseason/Notes
+|-
+
+| 2005
+| Cal Wickens
+| 10-13
+| First Men's Volleyball Season
+|-
+
+| 2006
+| Cal Wickens
+| 20-9
+| 
+|-
+
+| 2007
+| Cal Wickens
+| 23-7
+| 
+|-
+
+| 2008
+| Cal Wickens
+| 28-7
+| 
+|-
+
+| 2009
+| Cal Wickens
+| 28-5
+| 
+|-
+
+| 2010
+| Cal Wickens
+| 19-16
+| [[Molten Division III Men's Invitational Volleyball Championship Tournament]] Semi-Final
+|-
+
+|-style="background: #FFEF00;"
+| 2011
+| Cal Wickens
+| 31-3
+| [[Molten Division III Men's Invitational Volleyball Championship Tournament]] '''Champions'''
+|-
+
+| 2012
+| Cal Wickens
+| 27-9
+| [[NCAA Men's Division III Volleyball Championship]] Opening-Round
+|-
+
+|-style="background: #E9D66B;"
+| 2013
+| Cal Wickens
+| 36-2
+| [[NCAA Men's Division III Volleyball Championship]] Runner-Up
+|-
+
+| 2014
+| Cal Wickens
+| 15-10
+| 
+|-
+
+| 2015
+| Cal Wickens
+| 28-7
+| [[NCAA Men's Division III Volleyball Championship]] Semi-Final
+|-
+
+| 2016
+| Cal Wickens
+| 26-9
+| 
+|-
+
+| 2017
+| Cal Wickens
+| 21-13
+| 
+|-
+
+| 2018
+| Cal Wickens
+| 17-13
+| 
+|-
+|-style="background: #800080;color:white;"
+| '''Total'''
+|
+| 324-121
+| '''1 National Championship''' (2011)
+|-
+|}
+
+==All-Americans==
+
+In 5 of the last 6 seasons under Wickens, there has been at least one First Team All-American named from his team. Naz has had 10 First Team selections, 11 Second Team selections, 1 Player of the Year and 1 Newcomer of the Year. Coach Wickens is a two time Coach of the Year (2011 & 2013) and his assistant Kyle Salisbury was the 2011 Assistant Coach of the Year.
+
+{| class="wikitable"
+|-
+! Year
+! 1st Team All-Americans
+|-
+| 2009
+| Frank Leahy
+|-
+| 2011
+| Ellis Walsh; Hans Schroeder
+|-
+| 2012
+| Ellis Walsh
+|-
+|2013
+|EJ Wells-Spicer('''POY'''); Luke Lawatsch; Robert Kraft
+|-
+|2015
+|Luke Lawatsch; Tim Zyburt
+|-
+|2016
+|Tim Zyburt
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|1=http://www.nazathletics.com/index.aspx?path=mvball}}
+
+[[Category:Nazareth Golden Flyers men's volleyball| ]]
+[[Category:College men's volleyball teams in the United States]]

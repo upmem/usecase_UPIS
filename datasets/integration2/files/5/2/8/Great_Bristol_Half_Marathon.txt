@@ -1,0 +1,279 @@
+{{EngvarB|date=September 2013}}
+{{Use dmy dates|date=September 2013}}
+{{Infobox athletics race
+| bgcolour   =
+| image     = Image:Bristol Half Marathon.jpg
+| imagesize   =
+| caption    = Fun runners taking part in the 2006 Bristol Half Marathon
+| date     = September
+| location   = [[Bristol]]
+| type     = [[Half marathon]]
+| distance   = 13 miles, 192.5 yards (21,097.5 metres)
+| beneficiary  =
+| est      = {{start date and age|1989}}
+| record    = Men's: 1:00:03 ([[Haile Gebrselassie]], [[2001 IAAF World Half Marathon Championships|2001]])<br />Women's: 1:06:47 ([[Paula Radcliffe]], [[2001 IAAF World Half Marathon Championships|2001]])
+| homepage   = [http://www.greatrun.org/great-bristol-half-marathon Official Website]
+}}
+The '''Great Bristol Half Marathon''' is an annual [[road running]] event held on the streets of [[Bristol]], UK. The route is at sea level and starts on Anchor Road outside [[We The Curious]]. Participants make their way toward [[Hotwells]] before heading under the [[Clifton Suspension Bridge]] and along the [[Portway, Bristol|Portway]] toward [[Sea Mills, Bristol|Sea Mills]] before returning the same way then navigating around [[Cumberland Basin (Bristol)|Cumberland Basin]] then along [[Spike Island, Bristol|Spike Island]] before crossing Prince Street Bridge, circling [[Queen Square, Bristol|Queen Square]] then heading to [[Castle Park, Bristol|Castle Park]] via [[St Mary Redcliffe]] and Temple Circus. The final mile and a half take place in the Old City and [[Bristol city centre]] before crossing the finish line back at Anchor Road.
+
+The runner's village is located at [[Millennium Square (Bristol)|Millennium Square]]. The 2016 event took place on 25 September.
+
+==Race history==
+
+===Bristol Marathon===
+The half-marathon had been preceded locally by the Bristol Marathon, which was first run in 1982.<ref>{{cite web|title=Bristol Marathon returns after 29 years|url=https://www.bbc.co.uk/news/uk-england-bristol-14940365|publisher=BBC|accessdate=6 December 2015}}</ref> In 2014, a new marathon was launched in Bristol.<ref>{{cite news| url=http://www.athleticsweekly.com/featured/bristol-and-bath-marathon-set-2015-14473/ | work=Athletics Weekly | title=New marathon from Bristol to Bath set for 2015  | date=10 December 2014}}</ref> Organised by Go2Events, the [[Bristol + Bath Marathon]] follows much of the Bristol Half Marathon route before heading out of the city through [[South Gloucestershire]] and into [[Bath, Somerset|Bath]] finishing at [[Royal Victoria Park, Bath|Royal Victoria Park]].<ref>{{cite news| url=http://www.bristolbathmarathon.com/everything-you-need-to-know/the-run/ | work=Bristol+Bath Marathon | title=Everything You Need To Know}}</ref> The inaugural event took place on 25 October 2015.
+
+===Bristol Half Marathon===
+The first Bristol [[Half Marathon]] was held in 1989, with just 1,000 runners competing. The event grew with 12,000 competitors in 2005, 15,000 in 2006 and 16,000 in 2009, a figure around which the participation level has settled.<ref>http://www.runbristol.com</ref>
+
+Notable editions of the race include 1997, when the event was titled 'The Cabot 500 Run Through History' to celebrate the 500th anniversary of [[John Cabot]]'s first voyage to [[Newfoundland (island)|Newfoundland]] in 1497 and 2001, when the Bristol Half Marathon was also the 10th [[IAAF]] [[2001 IAAF World Half Marathon Championships|World Half Marathon Championships]], and attracted competitors such as [[Haile Gebrselassie]] and [[Paula Radcliffe]].
+
+In 2007 the race incorporated the [[UK Athletics]] team selection trial for the [[2007 IAAF World Road Running Championships]], as well as the [[Amateur Athletic Association]] championship half marathon.
+
+The first fatality in the race occurred in 2011, when a male runner collapsed and died.<ref>{{cite news| url=https://www.bbc.co.uk/news/uk-england-bristol-14866295 | work=BBC News | title=Bristol Half Marathon: Male runner dies | date=11 September 2011}}</ref>
+
+The names of various sponsors have prefixed the title of the race in the past, with names including the [[BUPA]] Bristol Half Marathon, the [[Reebok]] Bristol Half Marathon and the Run Bristol Half Marathon, being sponsored by [[Bristol City Council]]. On 14 December 2015, it was announced from 2016 the event, alongside sister event the Bristol 10k, would be organised by [[Great Run]] and renamed the Great Bristol Half Marathon.<ref>{{cite news| url=http://www.greatrun.org/news-and-media/news/great-run-launches-two-new-events | work=Great Run | title=GREAT RUN LAUNCHES TWO NEW EVENTS | date=14 December 2015}}</ref>
+
+In 2011 a business challenge was introduced, to stimulate participation by colleagues within Bristol companies.
+
+==Past winners==
+
+'''Key:'''
+{{legend2|#A9F5A9|'''Course record'''|border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center"
+|-
+!class=unsortable|Edition
+!Year
+!class=unsortable|Men's winner
+!Time ([[hour|h]]:[[minute|m]]:[[second|s]])
+!class=unsortable|Women's winner
+!Time ([[hour|h]]:[[minute|m]]:[[second|s]])
+|-
+|1st
+|1989
+|align=left|{{flagathlete|[[Steve Brace]]|GBR}}
+|1:08:36
+|align=left|{{flagathlete|[[Bronwen Cardy-Wise]]|GBR}}
+|1:20:05
+|-
+|2nd
+|1990
+|align=left|{{flagathlete|[[Wayne Buxton]]|GBR}}
+|1:11:22
+|align=left|{{flagathlete|[[Zina Marchant]]|GBR}}
+|1:18:47
+|-
+|3rd
+|1991
+|align=left|{{flagathlete|[[Nick Rose (runner)|Nick Rose]]|GBR}}
+|1:07:51
+|align=left|{{flagathlete|[[Cathy Newman]]|GBR}}
+|1:18:14
+|-
+|4th
+|1992
+|align=left|{{flagathlete|[[Gideon Mutisya]]|KEN}}
+|1:04:08
+|align=left|{{flagathlete|[[Lesley Morton]]|GBR}}
+|1:16:05
+|-
+|5th
+|1993
+|align=left|{{flagathlete|[[Lazarus Nyakeraka]]|KEN}}
+|1:03:39
+|align=left|{{flagathlete|[[Karen MacLeod]]|GBR}}
+|1:15:00
+|-
+|6th
+|1994
+|align=left|{{flagathlete|[[Charles Tangus]]|KEN}}
+|1:02:45
+|align=left|{{flagathlete|[[Danielle Sanderson]]|GBR}}
+|1:14:47
+|-
+|7th
+|1995
+|align=left|{{flagathlete|[[Bruce Chinnick]]|GBR}}
+|1:06:12
+|align=left|{{flagathlete|[[Maureen Laney]]|GBR}}
+|1:22:40
+|-
+|8th
+|1996
+|align=left|{{flagathlete|[[Martin Cox (athlete)|Martin Cox]]|GBR}}
+|1:04:16
+|align=left|{{flagathlete|[[Olga Mitchurina]]|RUS}}
+|1:13:56
+|-
+|9th<ref>Billed as the 'Cabot 500 Run Through History'</ref>
+|1997
+|align=left|{{flagathlete|[[Kassa Tadessa]]|GBR}}
+|1:04:52
+|align=left|{{flagathlete|[[Trudi Thomson]]|GBR}}
+|1:18:36
+|-
+|10th
+|1998
+|align=left|{{flagathlete|[[Kassa Tadessa]]|GBR}}
+|1:06:36
+|align=left|{{flagathlete|[[Laura Woffenden]]|GBR}}
+|1:20:08
+|-
+|11th
+|1999
+|align=left|{{flagathlete|[[Wilson Cheruiyot]]|KEN}}
+|1:05:44
+|align=left|{{flagathlete|[[Cathy Newman]]|GBR}}
+|1:17:37
+|-
+|12th
+|2000
+|align=left|{{flagathlete|[[Nick Wetheridge]]|GBR}}
+|1:04:09
+|align=left|{{flagathlete|[[Andrea Green (athlete)|Andrea Green]]|GBR}}
+|1:13:28
+|-
+|[[2001 IAAF World Half Marathon Championships|WHMC]]
+|2001
+|align=left|{{flagathlete|[[Haile Gebrselassie]]|ETH|1996}}
+|bgcolor=#A9F5A9|'''1:00:03'''
+|align=left|{{flagathlete|[[Paula Radcliffe]]|GBR}}
+|bgcolor=#A9F5A9|'''1:06:47'''
+|-
+|13th
+|2001
+|align=left|{{flagathlete|[[Geoffrey Kinyua]]|KEN}}
+|1:05:09
+|align=left|{{flagathlete|[[Andrea Green (athlete)|Andrea Green]]|GBR}}
+|1:14:56
+|-
+|14th
+|2002
+|align=left|{{flagathlete|[[Hilary Lelei]]|KEN}}
+|1:05:30
+|align=left|{{flagathlete|[[Emily Samoei]]|KEN}}
+|1:16:43
+|-
+|15th
+|2003
+|align=left|{{flagathlete|[[Julius Kibet]]|KEN}}
+|1:02:52
+|align=left|{{flagathlete|[[Meriem Wangari]]|KEN}}
+|1:12:22
+|-
+|16th
+|2004
+|align=left|{{flagathlete|[[Simon Tanui]]|KEN}}
+|1:04:18
+|align=left|{{flagathlete|[[Meriem Wangari]]|KEN}}
+|1:13:40
+|-
+|17th
+|2005
+|align=left|{{flagathlete|[[Wilfred Taragon]]|KEN}}
+|1:03:30
+|align=left|{{flagathlete|[[Birhan Dagne]]|GBR}}
+|1:12:53
+|-
+|18th
+|2006
+|align=left|{{flagathlete|[[Patrick Makau]]|KEN}}
+|1:03:38
+|align=left|{{flagathlete|[[Cathy Mutwa]]|KEN}}
+|1:12:35
+|-
+|19th
+|2007
+|align=left|{{flagathlete|[[Tewodros Shiferaw]]|ETH|1996}}
+|1:03:01
+|align=left|{{flagathlete|[[Jane Muia]]|KEN}}
+|1:10:26
+|-
+|20th
+|2008
+|align=left|{{flagathlete|[[Tom Payne (athlete)|Tom Payne]]|GBR}}
+|1:05:48
+|align=left|{{flagathlete|[[Birhan Dagne]]|GBR}}
+|1:14:18
+|-
+|21st
+|2009
+|align=left|{{flagathlete|[[Ezekiel Cherop]]|KEN}}
+|1:03:25
+|align=left|{{flagathlete|[[Claire Hallissey]]|GBR}}
+|1:12:03
+|-
+|22nd
+|2010
+|align=left|{{flagathlete|[[Edwin Kipyego]]|KEN}}
+|1:03:08
+|align=left|{{flagathlete|[[Claire Hallissey]]|GBR}}
+|1:12:02
+|-
+|23rd<ref>{{cite news |url=https://www.bbc.co.uk/news/uk-england-bristol-14866295 |title=Bristol Half Marathon: Male runner dies |publisher=BBC Bristol |date=11 September 2011 |accessdate=12 September 2011}}</ref>
+|2011
+|align=left|{{flagathlete|[[Edwin Kipyego]]|KEN}}
+|1:03:20
+|align=left|{{flagathlete|[[Gemma Steel]]|GBR}}
+|1:13:32
+|-
+|24th
+|2012
+|align=left|{{flagathlete|[[Dominic Ondoro]]|KEN}}
+|1:02:51
+|align=left|{{flagathlete|[[Emily Biwott]]|KEN}}
+|1:11:22
+|-
+|25th||2013
+|style="text-align:left;"|{{flagathlete|[[Bernard Rotich]]|KEN}}||1:03:56
+|style="text-align:left;"|{{flagathlete|[[Emma Stepto]]|GBR}}||1:13:40
+|-
+|26th||2014
+|style="text-align:left;"|{{flagathlete|[[Ben Siwa]]|UGA}}||1:03:55
+|style="text-align:left;"|{{flagathlete|[[Gladys Yator]]|KEN}}||1:13:01
+|-
+|27th||2015
+|style="text-align:left;"|{{flagathlete|[[Morris Gachaga]]|KEN}}||1:01:32
+|style="text-align:left;"|{{flagathlete|[[Teresiah Omosa]]|KEN}}||1:13:48
+|-
+|28th||2016
+|style="text-align:left;"|{{flagathlete|[[James Connor athlete|James Connor]]|GBR}}<ref>{{Power of 10 name|3329|James Connor}}</ref>||1:07:54
+|style="text-align:left;"|{{flagathlete|[[Jenny Spink]]|GBR}}<ref>{{Power of 10 name|14700|Jenny Spink}}</ref>||1:14:58
+|-
+|29th||2017
+|style="text-align:left;"|{{flagathlete|[[Aaron Richmond (athlete)|Aaron Richmond]]|GBR}}||1:08:07
+|style="text-align:left;"|{{flagathlete|[[Emma Stepto]]|GBR}}||1:17:42
+|-
+|30th||2018
+|style="text-align:left;"|{{flagathlete|[[Matt Clowes]]|GBR}}||1:05:10
+|style="text-align:left;"|{{flagathlete|[[Clara Evans (runner)|Clara Evans]]|GBR}}||1:16:26
+|-
+|31st||2019
+|style="text-align:left;"|{{flagathlete|[[Matt Clowes]]|GBR}}||1:05:08
+|style="text-align:left;"|{{flagathlete|[[Annabel Gummow]]|GBR}}||1:17:05
+|-
+|–||2020||colspan=4|''Cancelled''<ref>{{cite news |url=https://www.bristol247.com/news-and-features/news/bristol-half-marathon-cancelled-for-2020/ |title=BRISTOL HALF MARATHON CANCELLED FOR 2020 |author-first=Ellie |author-last=Pipe |date=1 July 2020 |work=Bristol 24/7 |accessdate=28 October 2020}}</ref>
+|}
+All information taken from ''runbristol,''<ref>''[http://www.runbristol.com/HalfMarathon/26/Race-history.aspx Bristol half marathon: Race history]''</ref> ARRS<ref>''[https://www.arrs.run/HP_BristolHM.htm Bristol Half Marathon]''</ref> and ''This is Bristol''<ref>''[https://archive.is/20130505100113/http://www.thisisbristol.co.uk/news/Bristol-half-marathon-winner-Claire-run-faster-says-coach/article-1332117-detail/article.html Bristol half marathon winner Claire can run even faster, says coach].'' 12. September 2009</ref>
+
+==See also==
+* [[2001 IAAF World Half Marathon Championships]]
+* [[Bristol + Bath Marathon]]
+
+==References==
+
+{{reflist|30em}}
+
+==External links==
+*[http://www.greatrun.org/great-bristol-half-marathon/ Official Website]
+*[https://www.bbc.co.uk/bristol/halfmarathon/index.shtml BBC race coverage]
+*''[https://web.archive.org/web/*/http://www.bristolhalfmarathon.co.uk/ bristolhalfmarathon.co.uk]'' (unofficial Bristol Half Marathon website, [[Internet Archive]])
+
+{{European half marathons}}
+
+{{coord|51.4508|-2.5986|display=title}}
+
+[[Category:Half marathons in the United Kingdom]]
+[[Category:Sports competitions in Bristol]]
+[[Category:Bristol Harbourside]]
+[[Category:Athletics competitions in England]]

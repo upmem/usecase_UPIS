@@ -1,0 +1,56 @@
+{{Infobox book | <!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books -->
+| name         = Quentins
+| title_orig   =
+| translator   =
+| image        = File:QuentinsNovel.jpg
+| border       = yes
+| caption = First edition
+| author       = [[Maeve Binchy]]
+| cover_artist =
+| country      = {{flagicon|Ireland}} [[Ireland]]
+| language     = [[English language|English]]
+| series       =
+| genre        = [[Novel]]
+| publisher    = [[Orion Books]]
+| release_date = 2002
+| media_type   = Print ([[Hardcover|Hardback]] & [[Paperback]])
+| pages        =
+| isbn         =
+| preceded_by  = 
+| followed_by  = 
+}}
+
+'''''Quentins''''' is a 2002 novel by the [[Ireland|Irish]] author [[Maeve Binchy]]. The title refers to Quentins Restaurant, a fictional upscale dining establishment in central [[Dublin]], Ireland. The restaurant was referenced numerous times in previous Binchy titles; this novel explores its 30-year history as well as the lives of its patrons. The novel was produced as a [[BBC]] ''Word for Word'' audiobook in 2003.
+
+==Plot==
+Ella Brady, a young science teacher, falls in love with a handsome, suave businessman (Don Richardson) who is married but assures her that his marriage is "dead". For some time she is happy with the torrid affair, and manages to overlook some inconsistencies in what he tells her. Until the moment when he is exposed as a corrupt swindler and runs away out of the country and out of her life – leaving Ella, her family, and many people in Dublin without their savings. Ella is disgraced and quits her teaching job to work more than 60 hours a week at Quentins restaurant, with the [[Scarlet Feather]] catering company, and with a film crew, to help out her family.
+
+The book mostly concentrates on Ella's attempt to get funding for her friends' film company for a documentary about the restaurant Quentins. She struggles to get over Richardson, whom she still loves, and with whether or not to give the [[Garda National Economic Crime Bureau|fraud squad]] access to a laptop he left in her possession. Eventually, her efforts to get funding lead her to meet a new man, Derry King, an American businessman with an Irish heritage which he hates because of the way his drunken Irish father treated him and his mother.
+
+Smaller plot points revolve around the background of Patrick and Brenda Brennan (the managers of Quentins), Ella's girlfriends Deirdre and Nuala, and many of the regulars at the restaurant; the main plot is interspersed with various vignettes in the lives of people who had been in contact with the restaurant in one way or another, these interweaving with each other and with Ella Brady's life in various unpredictable ways.
+
+==Themes==
+The novel explores themes of love, family, friendship, and the benefits of hard and honest work. It also examines the "[[Economy of the Republic of Ireland|economy]]-driven Ireland" of the late 20th and early 21st century, as well as themes of [[celibacy]] and [[infertility]].<ref name=irish/> The idea of [[Dublin]] as a village rather than a city is reinforced, as Binchy reveals it to be "a place where everyone knows everyone and no one's secrets are safe".<ref name=irish>{{cite web |url=https://www.irishtimes.com/news/stories-to-eat-out-on-1.1094673|title=Stories To Eat Out On|first=Rose|last=Doyle|date=7 September 2002|accessdate=30 June 2018|work=[[The Irish Times]]}}</ref>
+
+==Recurring characters==
+''Quentins'' features appearances by characters from previous Binchy novels, including:<ref name=crow>{{cite web |url=http://webcache.googleusercontent.com/search?q=cache:http://old.post-gazette.com/books/reviews/20021124binchy1124fnp3.asp|title=Quentins by Maeve Binchy|first=Kim|last=Crow|date=24 November 2002|accessdate=30 June 2018|work=[[Pittsburgh Post-Gazette]]}}</ref><ref>{{cite web |url=https://www.kirkusreviews.com/book-reviews/maeve-binchy/quentins/|title=Quentins by Maeve Binchy|date=1 October 2002|accessdate=30 June 2018|work=[[Kirkus Reviews]]}}</ref>
+*Nora O'Donoghue and Aidan Dunne from ''[[Evening Class (novel)|Evening Class]]''
+*Brenda and Patrick Brennan from ''[[Evening Class (novel)|Evening Class]]''
+*Tom Feather, Cathy Scarlet, and Maud and Simon Mitchell, from ''[[Scarlet Feather]]''
+*Ria Lynch and Colm Barry from ''[[Tara Road]]''
+
+On a humorous note, the novel also explains why the name Quentins is spelled without an apostrophe.<ref>{{cite journal|url=http://www.booksincanada.com/article_view.asp?id=3411|title=A Gathering at Quentins|first=Angela|last=Narth|date=January–February 2003|accessdate=30 June 2018|journal=[[Books in Canada]]}}</ref>
+
+==Publishing history==
+''Quentins'' is Binchy's 13th book.<ref name=book>{{cite web |url=https://www.bookreporter.com/reviews/quentins|title=Review: Quentins by Maeve Binchy|first=Kathy|last=Weissman|date=23 January 2011|accessdate=30 June 2018|work=bookreporter.com}}</ref> In 2000 she announced that her upcoming novel, ''[[Scarlet Feather]]'', would be her last;<ref name=book/><ref name=tele>{{cite web |url=https://www.telegraph.co.uk/news/obituaries/culture-obituaries/books-obituaries/9440604/Maeve-Binchy.html|title=Obituaries: Maeve Binchy|work=[[The Daily Telegraph]]|date=31 July 2012|accessdate=30 June 2018}}</ref> she also retired as a columnist at ''[[The Irish Times]]''.<ref name=irish/> While she decided to forego writing "big novels", with ''Quentins'' she continued producing short stories that link together to advance the plot.<ref name=irish/>
+
+Binchy's cousin, Kate Binchy, narrated the book for a [[BBC]] ''Word for Word'' audiobook (2003).<ref>{{cite web |url=https://www.independent.co.uk/arts-entertainment/books/reviews/a-word-in-your-ear-quentins-by-maeve-binchy-the-last-legion-by-valerio-massimo-manfredi-112329.html|title=A Word in Your Ear: Quentins, by Maeve Binchy; The Last Legion, by Valerio Massimo Manfredi|first=Christina|last=Hardyment|date=29 March 2003|accessdate=30 June 2018|work=[[The Independent]]}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{Maeve Binchy}}
+
+[[Category:2002 Irish novels]]
+[[Category:Novels by Maeve Binchy]]
+[[Category:Novels set in Dublin (city)]]

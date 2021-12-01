@@ -1,0 +1,24 @@
+{{Taxobox
+| image = Eucrassatella speciosa.jpg
+| regnum = [[Animalia]]
+| phylum = [[Mollusca]]
+| classis = [[Bivalvia]]
+| ordo = [[Venerida]]
+| familia = [[Crassatellidae]]
+| genus = ''[[Eucrassatella]]''
+| species = '''''E. speciosa'''''
+| binomial = ''Eucrassatella speciosa''
+| binomial_authority = (A. Adams, 1852)
+}}
+
+'''''Eucrassatella speciosa''''', or Gibbs' clam, is a species of [[bivalve]] [[mollusc]] in the [[family (biology)|family]] [[Crassatellidae]]. It can be found along the Atlantic coast of North America, ranging from [[North Carolina]] to the [[West Indies]].<ref>Abbott, R.T. & Morris, P.A. ''A Field Guide to Shells: Atlantic and Gulf Coasts and the West Indies.'' New York: Houghton Mifflin, 1995. 42.</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3016825}}
+
+[[Category:Crassatellidae]]
+
+
+{{bivalve-stub}}

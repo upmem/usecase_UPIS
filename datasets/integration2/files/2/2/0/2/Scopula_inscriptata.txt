@@ -1,0 +1,30 @@
+{{short description|Species of geometer moth in subfamily Sterrhinae}}
+{{Speciesbox
+| name = 
+| image = 
+| image_caption = 
+| image2 = 
+| image2_caption = 
+| taxon = Scopula inscriptata
+| authority = ([[Francis Walker (entomologist)|Walker]], [1863])<ref>{{cite journal |last=Sihvonen |first=Pasi |date=April 1, 2005 |url=https://academic.oup.com/zoolinnean/article/143/4/473/2726869 |title=Phylogeny and classification of the Scopulini moths (Lepidoptera: Geometridae, Sterrhinae) |journal=Zoological Journal of the Linnean Society |volume=143 |issue=4 |pages=473–530 |doi=10.1111/j.1096-3642.2005.00153.x|doi-access=free }}</ref>
+| synonyms =
+*''Acidalia inscriptata'' <small>Walker, 1862</small>
+*''Cinglis acentra'' <small>Warren, 1911</small> (preocc. ''[[Craspedia acentra]]'' <small>Warren, 1897</small>)
+}}
+
+'''''Scopula inscriptata''''' is a [[moth]] of the  family [[Geometridae]]. It is found in [[Nigeria]], [[Sierra Leone]] and [[South Africa]].<ref>[http://www.afromoths.net/species_by_code/SCOPINSC Afro Moths]</ref>
+
+==References==
+{{Commons}}
+{{Wikispecies}}
+{{Reflist}}
+
+{{Taxonbar|from=Q7434806}}
+
+[[Category:Moths described in 1863]]
+[[Category:Scopula|inscriptata]]
+[[Category:Moths of Africa]]
+[[Category:Insects of West Africa]]
+
+
+{{Scopula-stub}}

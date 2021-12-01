@@ -1,0 +1,25 @@
+== Summary ==
+{{Non-free use rationale album cover
+| Article           = Sway (The Kooks song)
+| Use               = Infobox
+<!-- ADDITIONAL INFORMATION -->
+| Name              = [[Sway (The Kooks song)|Sway]]
+| Artist            = [[The Kooks]]
+| Label             = Virgin Records
+| Graphic Artist    = 
+| Item              = 
+| Type              = single
+| Website           = 
+| Owner             = 
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low resolution    = 
+| Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section / Artist -->
+| Replaceability    = 
+| Other information = 
+}}
+== Licensing ==
+{{Non-free album cover|image has rationale=yes}}

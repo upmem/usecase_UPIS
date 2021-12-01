@@ -1,0 +1,2 @@
+'''SIZE=''' {{{size|}}} ''' - VARIANT=''' {{{variant|}}} ''' - FLAG=''' {{#invoke:Flagg|main|uxx|2={{{size}}}|3={{{variant|}}}}} ''' - '''
+<span class="flagicon">{{flagg|uxx|{{{size}}}|{{{variant|}}}}}&nbsp;</span>{{{name}}}&nbsp;<span style="font-size:90%;">(<abbr title="{{#if: {{{shortname alias|}}} | {{{shortname alias}}} | {{{alias}}} }}">{{{size}}}</abbr>)</span><noinclude>{{documentation}}</noinclude>

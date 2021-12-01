@@ -1,0 +1,86 @@
+{{Infobox settlement
+| name                    = Bohušovice nad Ohří
+| native_name             = 
+| other_name              = 
+| settlement_type         = Town
+<!-- images, nickname, motto -->
+| image_skyline           = Bohusovice_nad_Ohri_CZ_elementary_school_012.jpg
+| image_caption           = Elementary school on the Hus Square
+| image_flag              = Flag of Bohusovice nad Ohri.svg
+| image_shield            = Bohušovice nad Ohří znak.png
+| etymology               = 
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = {{CZE}}
+| subdivision_type1       = [[Regions of the Czech Republic|Region]]
+| subdivision_name1       = [[Ústí nad Labem Region|Ústí nad Labem]]
+| subdivision_type2       = [[Districts of the Czech Republic|District]]
+| subdivision_name2       = [[Litoměřice District|Litoměřice]]
+<!-- maps and coordinates -->
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Czech Republic
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location in the Czech Republic
+| coordinates             = {{coord|50|29|37|N|14|09|02|E|display=inline,title}}
+| coordinates_footnotes   = 
+<!-- government type, leaders -->
+| leader_title            = Mayor
+| leader_name             = Kamila Čvančarová
+<!-- established -->
+| established_title       = First mentioned
+| established_date        = 1057
+<!-- area -->
+| area_footnotes          = 
+| area_total_km2          = 8.62
+<!-- elevation -->
+| elevation_footnotes     = 
+| elevation_m             = 151
+<!-- population -->
+| population_as_of        = 2020-01-01<ref>{{cite web |title=Population of Municipalities – 1 January 2020|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2019|publisher=Czech Statistical Office|date=2020-04-30}}</ref>
+| population_footnotes    = 
+| population_total        = 2511
+| population_density_km2  = auto
+<!-- time zone(s) -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 411 56
+| area_code_type          = 
+| area_code               = 
+<!-- website, footnotes -->
+| website                 = {{URL|http://www.bohusovice.cz/}}
+| footnotes               = 
+}}
+'''Bohušovice nad Ohří''' ({{lang-de|Bauschowitz an der Eger}}) is a town in the [[Ústí nad Labem Region]] of the [[Czech Republic]]. It has about 2,500 inhabitants. It is located in a flat lowland near left bank of the [[Ohře]] River about 5 km south of [[Litoměřice]].
+
+==Gallery==
+{|
+|<gallery mode=packed heights=150>
+Image:Bohusovice_nad_Ohri_CZ_Masaryk_Street_towards_NNW_029.jpg|Masaryk Street
+Image:Bohusovice_nad_Ohri_CZ_Tyl_Street_towards_ESE_183.jpg|Tyl Street
+Image:Bohusovice_nad_Ohri_CZ_SS_Procopius_and_Nicholas_church_622.jpg|SS Procopius and Nicholas church
+Image:Bohusovice_nad_Ohri_CZ_town_hall_0616.jpg|Town hall
+Image:Bohusovice_nad_Ohri_CZ_Jan_Hus_memorial_from_S_015.jpg|Monument to [[Jan Hus]] (1911, by sculptor [[Ladislav Beneš (sculptor)|Ladislav Beneš]])
+Image:Bohusovice_nad_Ohri_CZ_railway_station_from_SE_004.jpg|Bohušovice nad Ohří railway station on main line from [[Prague]] to [[Dresden]]
+</gallery>
+|}
+==References==
+{{reflist}}
+
+==External links==
+*{{commonscat-inline|Bohušovice nad Ohří}}
+*[http://www.bohusovice.cz/ Official website]
+
+{{Litoměřice District}}
+
+{{DEFAULTSORT:Bohusovice nad Ohri}}
+[[Category:Cities and towns in the Czech Republic]]
+[[Category:Populated places in Litoměřice District]]
+{{Authority control}}
+
+
+{{ÚstíNadLabem-geo-stub}}

@@ -1,0 +1,32 @@
+{{navbox
+|name   = Religion in Switzerland
+|title  = [[Religion in Switzerland]]
+|listclass = hlist
+|image = [[File:Flag of Switzerland (Pantone).svg|103px|Flag of Switzerland]]
+
+|group1 = Major
+|list1  =
+* [[Religion in Switzerland#History|Christianity]]
+** [[Swiss Reformed Church]]
+** [[Roman Catholicism in Switzerland|Roman Catholicism]]
+** [[Christian Catholic Church of Switzerland|Old Catholic]]
+
+|group2 = Minor
+|list2  =
+* [[Buddhism in Switzerland|Buddhism]]
+* [[Hinduism in Switzerland|Hinduism]]
+* [[Islam in Switzerland|Islam]]
+**[[Ahmadiyya in Switzerland|Ahmadiyya]]
+* [[Judaism in Switzerland|Judaism]]
+* [[Sikhism in Switzerland|Sikhism]]
+
+|group3 = Related
+|list3  =
+* [[Irreligion in Switzerland]]
+* ''[[Landeskirche]]''
+* [[Reformation in Switzerland]]
+* [[Swiss Brethren]]
+}}
+<noinclude>
+[[Category:Religion by country templates|Switzerland]]
+</noinclude>

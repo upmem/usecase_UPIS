@@ -1,0 +1,26 @@
+{{italic title}}
+{{Speciesbox
+| name = 
+| image = 
+| genus = Gnathothlibus
+| species = fijiensis
+| authority = [[Robert B. Lachlan|Lachlan]], 2009<ref name="Lachlan">{{cite journal |last1= Lachlan|first1= Robert B. |year= 2009|title= Two New Species of ''Gnathothlibus'' Wallengren from Fiji and Samoa and a New Species of ''Theretra'' Hübner from New Guinea (Lepidoptera: Sphingidae)|journal=Records of the Australian Museum |volume= 61|issue= |pages= 73–87|publisher= Australian Museum |doi= 10.3853/j.0067-1975.61.2009.1523|url=  http://australianmuseum.net.au/Uploads/Journals/18068/1523_complete.pdf| location = Sydney|accessdate=22 October 2012}}</ref>
+| synonyms = 
+}}
+'''''Gnathothlibus fijiensis''''' is a [[moth]] of the  family [[Sphingidae]]. It is known from [[Fiji]].<ref name="Lachlan"/>
+
+The length of the forewings is 38–41&nbsp;mm for males and 40-44 for females. It is similar to ''[[Gnathothlibus eras]]'', ''[[Gnathothlibus saccoi]]'' and ''[[Gnathothlibus vanuatuensis]]'' but distinguishable by the distinctive olive green ground colour of the forewing upperside and the mauve outer edge to the tegula in the males.
+
+==Etymology==
+The specific name ''fijiensis'' is derived from the Pacific island nation of Fiji, the only known locality for the species.
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2015027}}
+
+[[Category:Gnathothlibus]]
+[[Category:Moths described in 2009]]
+
+
+{{Macroglossini-stub}}

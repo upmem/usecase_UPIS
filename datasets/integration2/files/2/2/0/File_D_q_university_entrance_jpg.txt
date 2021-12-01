@@ -1,0 +1,14 @@
+{{bsr}}
+== Summary ==
+{{Information
+| description = Entrance and mural at  Deganawidah-Quetzalcoatl University 
+| source      = Image from National Park Service web site. 
+| date        = 
+| author      = 
+| permission  = 
+| other_versions = 
+| additional_information = 
+}}
+
+== Licensing ==
+{{PD-USGov-Interior-NPS}}

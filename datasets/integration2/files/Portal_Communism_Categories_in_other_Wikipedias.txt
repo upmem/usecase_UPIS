@@ -1,0 +1,39 @@
+'''Communism''':
+*[[:ast:Categoría:Comunismu|Asturianu]]
+*[[:bg:Категория:Комунизъм|Български]]
+*[[:ca:Categoria:Comunisme|Català]]
+*[[:cs:Kategorie:Komunismus|Česky]]
+*[[:de:Kategorie:Kommunismus|Deutsch]]
+*[[:es:Categoría:Comunismo|Español]]
+*[[:eo:Kategorio:Komunismo|Esperanto]]
+*[[:fr:Catégorie:Communisme|Français]]
+*[[:he:קטגוריה:קומוניזם|עברית]]
+*[[:ko:분류:공산주의|한국어]]
+*[[:nl:Categorie:Communisme| Nederlands]]
+*[[:ja:Category:共産主義|日本語]]
+*[[:sk:Kategória:Komunizmus|Slovenčina]]
+*[[:sl:Kategorija:Komunizem|Slovenščina]]
+*[[:vi:Thể loại:Cộng sản|Tiếng Việt]]
+*[[:zh:Category:共产主义|中文 ]]
+
+'''Books''':
+*[[:tr:Kategori:Komünist kitaplar|Türkce]]
+
+'''Parties''':
+*[[:ar:تصنيف:أحزاب الشيوعية|العربية]]
+*[[:bg:Категория:Комунистически партии|Български]]
+*[[:de:Kategorie:Kommunistische Partei|Deutsch]]
+*[[:es:Categoría:Partidos comunistas|Español]]
+*[[:fa:Category:احزاب کمونیست جهان|فارسی]]
+*[[:fr:Catégorie:Parti communiste|Français]]
+*[[:he:קטגוריה:מפלגות קומוניסטיות|עברית]]
+*[[:ko:분류:공산당|한국어]]
+*[[:ja:Category:共産党|日本語]]
+*[[:ru:Категория:Коммунистические партии|Русский]]
+*[[:sv:Kategori:Kommunistpartier|Svenska]]
+*[[:vi:Thể loại:Đảng cộng sản|Tiếng Việt]]
+*[[:zh:Category:共产党|中文]]
+
+'''Misc.''':
+*[[:ca:Categoria:Estats comunistes colombians|Català: Estats comunistes colombians]]
+*[[:es:Categoría:Alcaldes del Partido Comunista|Español: Alcaldes del Partido Comunista]]

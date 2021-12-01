@@ -1,0 +1,208 @@
+{{Infobox football club season
+| club               = [[SK Rapid Wien|Rapid Wien]]
+| season             = 1921-22
+| manager            = [[Dionys Schönecker]]
+| mgrtitle           = Coach
+| stadium            = [[Pfarrwiese]],<br/>[[Vienna]], [[Austria]]
+| league             = [[1921-22 Austrian football championship|First class]]
+| league result      = 3rd
+| cup1               = [[1921-22 Austrian Cup|Austrian Cup]]
+| cup1 result        = 1st round
+| league topscorer   = [[Richard Kuthan]] (21)
+| season topscorer   = [[Richard Kuthan]] (21)
+| highest attendance = 25,000
+| lowest attendance  = 5,000
+| average attendance = 13,400
+| prevseason         = [[1920–21 SK Rapid Wien season|1920–21]]
+| nextseason         = [[1922–23 SK Rapid Wien season|1922–23]]
+}}
+
+The '''1921–22 [[SK Rapid Wien]] season''' was the 24th season in club history.
+
+==Squad==
+
+===Squad and statistics===
+<ref name=ref>{{cite web|title=Saison 1921/22 |url=http://www.rapidarchiv.at/saisonen/1922.html|publisher=rapidarchiv.at|accessdate=19 July 2016}}</ref>
+
+===Squad statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan="2" valign="bottom"|Nat.
+!rowspan="2" valign="bottom"|Name
+!colspan="2" width="85"|League
+!colspan="2" width="85"|Cup
+!colspan="2" width="85"|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+!colspan=15|Goalkeepers
+|-
+|{{flagicon|AUT}}||align="left"|[[Ernst Pauler]] || 24|| || 1|| || 25|| 
+|-
+!colspan=15|Defenders
+|-
+|{{flagicon|AUT}}||align="left"|Rudolf Beran || || || 1|| || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Vinzenz Dittrich]] || 13|| || || || 13|| 
+|-
+|{{flagicon|AUT}}||align="left"|Eisler II || 2|| || || || 2|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Schediwy]] || 6|| || || || 6|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Willibald Stejskal]] || 8|| 1|| || || 8|| 1
+|-
+!colspan=15|Midfielders
+|-
+|{{flagicon|AUT}}||align="left"|[[Hans Beran]] || 2|| || || || 2|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Brandstetter]] || 23|| 1|| 1|| || 24|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Machek]] || 1|| || || || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Nitsch]] || 16|| || 1|| || 17|| 
+|-
+!colspan=15|Forwards
+|-
+|{{flagicon|AUT}}||align="left"|[[Eduard Bauer]] || 15|| 7|| || || 15|| 7
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Grundwald]] || 7|| 1|| || || 7|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Klär]] || 20|| 1|| 1|| || 21|| 1
+|-
+|{{flagicon|GER|Weimar}}||align="left"|[[Josef Klupp]] || 1|| || || || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Richard Kuthan]] || 24|| 21|| 1|| || 25|| 21
+|-
+|{{flagicon|AUT}}||align="left"|[[Julius Lerch]] || || || 1|| || 1|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Neubauer]] || 11|| 1|| 1|| || 12|| 1
+|-
+|{{flagicon|AUT}}||align="left"|[[Franz Schlosser]] || 18|| || 1|| || 19|| 
+|-
+|{{flagicon|AUT}}||align="left"|[[Josef Uridil]] || 21|| 19|| || || 21|| 19
+|-
+|{{flagicon|AUT}}||align="left"|[[Ferdinand Wesely]] || 23|| 13|| 1|| 1|| 24|| 14
+|-
+|{{flagicon|AUT}}||align="left"|[[Leopold Witka]] || 12|| 2|| || || 12|| 2
+|-
+|{{flagicon|AUT}}||align="left"|[[Karl Wondrak]] || 17|| 5|| 1|| || 18|| 5
+|}
+
+==Fixtures and results==
+<ref name=results>{{cite web|title=Spiele 1921/22 |url=http://www.rapidarchiv.at/spiele/1922.html|publisher=rapidarchiv.at|accessdate=25 July 2016}}</ref>
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+===League===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#cfc"
+| {{tooltip|1|Round 1}} || 28.08.1921 || H || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 4-0 || align="right"|8,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|41|pen.}} {{goal|80}}, [[Josef Uridil|Uridil J.]] {{goal|43}}, [[Ferdinand Wesely|Wesely]] {{goal|68}}
+|- style="background:#cfc"
+| {{tooltip|2|Round 2}} || 10.09.1921 || A || align="left"| [[Wiener AF]] || 6-2 || align="right"|5,000
+| align="left"|[[Karl Wondrak|Wondrak]] {{goal|18}} {{goal|30}}, [[Richard Kuthan|Kuthan]] {{goal|50|pen.}} {{goal|66}} {{goal|77}}, [[Ferdinand Wesely|Wesely]] {{goal|75}}
+|- style="background:#cfc"
+| {{tooltip|3|Round 3}} || 08.09.1921 || A || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 1-0 || align="right"|15,000
+| align="left"|[[Karl Wondrak|Wondrak]] {{goal|58}}
+|- style="background:#cfc"
+| {{tooltip|5|Round 5}} || 02.10.1921 || [[Pfarrwiese|H]] || align="left"| [[Floridsdorfer AC|FAC]] || 6-4 || align="right"|15,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|5}} {{goal|63}} {{goal|70}} {{goal|78}}, [[Leopold Grundwald|Grundwald]] {{goal|32}}, [[Richard Kuthan|Kuthan]] {{goal|75}}
+|- style="background:#ffc"
+| {{tooltip|6|Round 6}} || 09.10.1921 || A || align="left"| [[Hakoah Vienna|Hakoah]] || 2-2 || align="right"|22,000
+| align="left"|[[Josef Brandstetter|Brandstetter J.]] {{goal|20}}, [[Josef Uridil|Uridil J.]] {{goal|}}
+|- style="background:#cfc"
+| {{tooltip|7|Round 7}} || 27.11.1921 || A || align="left"| [[ASV Hertha Wien|Hertha Wien]] || 4-3 || align="right"|5,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|43}}, [[Josef Uridil|Uridil J.]] {{goal|}}, [[Richard Kuthan|Kuthan]] {{goal|}}, [[Karl Wondrak|Wondrak]] {{goal|}}
+|- style="background:#cfc"
+| {{tooltip|8|Round 8}} || 08.12.1921 || [[Hohe Warte Stadium|A]] || align="left"| [[FK Austria Wien|Amateure]] || 3-2 || align="right"|18,000
+| align="left"|[[Karl Klär|Klär]] {{goal|37}}, [[Ferdinand Wesely|Wesely]] {{goal|44}}, [[Josef Uridil|Uridil J.]] {{goal|60}}
+|- style="background:#fcc"
+| {{tooltip|9|Round 9}} || 08.01.1922 || H || align="left"| [[Wiener Sport-Club|Wiener SC]] || 1-5 || align="right"|18,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|86}}
+|- style="background:#fcc"
+| {{tooltip|10|Round 10}} || 12.11.1921 || A || align="left"| [[FC Ostmark Wien|Ostmark]] || 3-5 || align="right"|5,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|40}}, [[Karl Wondrak|Wondrak]] {{goal|47}}, [[Josef Uridil|Uridil J.]] {{goal|}}
+|- style="background:#cfc"
+| {{tooltip|11|Round 11}} || 20.11.1921 || [[Pfarrwiese|H]] || align="left"| [[1. Simmeringer SC|Simmering]] || 4-1 || align="right"|5,000
+| align="left"|[[Leopold Witka|Witka]] {{goal|22}}, [[Ferdinand Wesely|Wesely]] {{goal|35}} {{goal|38}} {{goal|40}}
+|- style="background:#fcc"
+| {{tooltip|12|Round 12}} || 04.12.1921 || [[Hohe Warte Stadium|A]] || align="left"| [[FC Admira Wacker Mödling|Admira]] || 1-3 || align="right"|5,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|}}
+|- style="background:#fcc"
+| {{tooltip|13|Round 13}} || 10.12.1921 || [[Hohe Warte Stadium|A]] || align="left"| [[First Vienna FC|Vienna]] || 1-3 || align="right"|5,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|83}}
+|- style="background:#cfc"
+| {{tooltip|14|Round 14}} || 31.05.1922 || A || align="left"| [[FC Admira Wacker Mödling|Wacker Wien]] || 1-0 || align="right"|15,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|45}}
+|- style="background:#cfc"
+| {{tooltip|15|Round 15}} || 12.03.1922 || [[Pfarrwiese|H]] || align="left"| [[FC Admira Wacker Mödling|Admira]] || 10-2 || align="right"|17,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|20}} {{goal|43}}, [[Richard Kuthan|Kuthan]] {{goal|22}} {{goal|30}} {{goal|60}}, [[Eduard Bauer|Bauer E.]] {{goal|48}} {{goal|65}} {{goal|}}, [[Karl Neubauer|Neubauer]] {{goal|50|pen.}}, [[Ferdinand Wesely|Wesely]] {{goal|89}}
+|- style="background:#cfc"
+| {{tooltip|16|Round 16}} || 05.03.1922 || [[Pfarrwiese|H]] || align="left"| [[FK Austria Wien|Amateure]] || 2-1 || align="right"|20,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|22}} {{goal|36}}
+|- style="background:#fcc"
+| {{tooltip|18|Round 18}} || 02.04.1922 || [[Hohe Warte Stadium|A]] || align="left"| [[Wiener Sport-Club|Wiener SC]] || 2-3 || align="right"|40,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|37}}, [[Ferdinand Wesely|Wesely]] {{goal|39}}
+|- style="background:#fcc"
+| {{tooltip|19|Round 19}} || 09.04.1922 || [[Pfarrwiese|H]] || align="left"| [[Hakoah Vienna|Hakoah]] || 1-3 || align="right"|25,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|34|pen.}}
+|- style="background:#cfc"
+| {{tooltip|20|Round 20}} || 07.05.1922 || [[Sportplatz Simmering|A]] || align="left"| [[1. Simmeringer SC|Simmering]] || 2-0 || align="right"|8,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|70}}, [[Eduard Bauer|Bauer E.]] {{goal|90}}
+|- style="background:#ffc"
+| {{tooltip|21|Round 21}} || 14.05.1922 || [[Pfarrwiese|H]] || align="left"| [[ASV Hertha Wien|Hertha Wien]] || 1-1 || align="right"|10,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|72}}
+|- style="background:#cfc"
+| {{tooltip|22|Round 22}} || 28.05.1922 || [[Pfarrwiese|H]] || align="left"| [[Wiener AF]] || 4-1 || align="right"|14,000
+| align="left"|[[Josef Uridil|Uridil J.]] {{goal|10}} {{goal|52}}, [[Richard Kuthan|Kuthan]] {{goal|}}, [[Leopold Witka|Witka]] {{goal|}}
+|- style="background:#ffc"
+| {{tooltip|23|Round 23}} || 04.06.1922 || [[FAC-Platz|A]] || align="left"| [[Floridsdorfer AC|FAC]] || 1-1 || align="right"|12,000
+| align="left"|[[Eduard Bauer|Bauer E.]] {{goal|58}}
+|- style="background:#cfc"
+| {{tooltip|24|Round 24}} || 22.06.1922 || [[Pfarrwiese|H]] || align="left"| [[FC Ostmark Wien|Ostmark]] || 7-1 || align="right"|7,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|6}} {{goal|55}} {{goal|80}}, [[Ferdinand Wesely|Wesely]] {{goal|12}} {{goal|51}}, [[Eduard Bauer|Bauer E.]] {{goal|}} {{goal|28}}
+|- style="background:#cfc"
+| {{tooltip|25|Round 25}} || 25.05.1922 || [[Pfarrwiese|H]] || align="left"| [[First Vienna FC|Vienna]] || 4-1 || align="right"|10,000
+| align="left"|[[Richard Kuthan|Kuthan]] {{goal|44}} {{goal|52}}, [[Josef Uridil|Uridil J.]] {{goal|47}}, [[Ferdinand Wesely|Wesely]] {{goal|70}}
+|- style="background:#fcc"
+| {{tooltip|26|Round 26}} || 01.07.1922 || [[Pfarrwiese|H]] || align="left"| [[SpC Rudolfshügel|Rudolfshügel]] || 1-2 || align="right"|12,000
+| align="left"|[[Willibald Stejskal|Stejskal]] {{goal||pen.}}
+|}
+
+===Cup===
+{| class="wikitable" Style="text-align: center"
+|-
+!{{Tooltip|Rd|Round}}
+!Date
+!Venue
+!Opponent
+!{{Tooltip|Res.|Result Goals for–Goals against}}
+!{{Tooltip|Att.|Attendance}}
+!{{Tooltip|Goals and discipline|Rapid Wien Goals and disciplined players}}
+|- style="background:#fcc"
+| {{tooltip|R1|1st round}} || 19.03.1922 || [[Pfarrwiese|H]] || align="left"| [[SC Red Star Penzing|Red Star]] || 1-2 || align="right"|10,000
+| align="left"|[[Ferdinand Wesely|Wesely]] {{goal|19}}
+|}
+
+==References==
+{{Reflist}}
+
+{{SK Rapid Wien seasons |state=expanded}}
+
+{{DEFAULTSORT:1921-22 SK Rapid Wien season}}
+[[Category:SK Rapid Wien seasons|1921-22 Rapid Wien Season]]
+[[Category:Austrian football clubs 1921–22 season|Rapid]]

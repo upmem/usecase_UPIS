@@ -1,0 +1,71 @@
+{{short description|13th-century battle in Bulgaria}}
+{{Use dmy dates|date=May 2012}}
+{{Infobox military conflict
+| image       = Battle of Klokotnitsa.png
+| image_size  = 220px
+| caption     = 
+| conflict    = Battle of Klokotnitsa
+| partof      = the [[Byzantine-Bulgarian Wars]]
+| date        = 9 March 1230
+| place       = [[Klokotnitsa (Haskovo)|Klokotnitsa]], Bulgaria
+| result      = Bulgarian victory
+| combatant1  = [[Image:Coat of Arms of the Bulgarian Empire.PNG|30px]] [[Second Bulgarian Empire|Bulgarian Empire]]
+
+[[Cumans]]
+| combatant2  = [[Empire of Thessalonica]]
+| commander1  = [[Ivan Asen II of Bulgaria|Ivan Asen II]]
+| commander2  = [[Theodore Komnenos Doukas]]{{POW}}
+| strength1   = 25,000
+| strength2   = Larger forces
+| casualties1 = Light
+| casualties2 = A part of the army was killed or captured, but most men were allowed to return to their homelands unharmed.
+}}
+{{Byzantine-Bulgarian Wars}}
+
+The '''Battle of Klokotnitsa''' ({{lang-bg|Битката при Клокотница}}, ''Bitkata pri Klokotnitsa'') occurred on 9 March 1230 near the village of [[Klokotnitsa (Haskovo)|Klokotnitsa]] (today in [[Haskovo Province]], Bulgaria). As a result, the [[Second Bulgarian Empire]] emerged once again as the most powerful state in South-Eastern Europe. Nevertheless Bulgarian power was soon to be contested and surpassed by the rising [[Empire of Nicaea]].
+
+==Origins of the conflict==
+Around 1221–1222 Emperor [[Ivan Asen II of Bulgaria]] made an alliance with [[Theodore Komnenos Doukas]], the ruler of [[Despotate of Epirus|Epirus]]. Secured by the treaty, Theodore managed to conquer [[Thessalonica]] from the [[Latin Empire]], as well as lands in [[Macedonia (region)|Macedonia]] including [[Ohrid]], and establish the [[Empire of Thessalonica]]. After the death of the [[Latin Empire|Latin emperor]] [[Robert of Courtenay]] in 1228, Ivan Asen II was considered the most probable choice for regent of [[Baldwin II of Constantinople|Baldwin II]]. Theodore thought that Bulgaria was the only obstacle left on his way to [[Constantinople]] and in the beginning of March 1230 he invaded the country, breaking the peace treaty and without a declaration of war.
+
+==The battle==
+[[Image:Ivan Asen II of Bulgaria Column.jpg|thumb|left|200px|Turnovo inscription of Tsar Ivan Asen II in the Holy 40 Martyrs Church in honour of the victory at Klokotnitsa on 9 March 1230]]
+Theodore Komnenos summoned a large army, including western mercenaries. He was confident of victory that he took the whole royal court with him, including his wife and children. His army moved slowly and plundered the villages on its way. When the Bulgarian tsar learned that the state was invaded, he gathered a small army of a few thousand men (including Cumans, that Acropolites describes as Scyths<ref>{{Cite book|title=The History|last=Akropolites|first=George|first2=|publisher=Oxford University Press|year=2007|isbn=978-0-19-921067-1|location=Oxford|pages=178|translator-last=Macrides|translator-first=Ruth}}</ref>) and quickly marched southwards. In four days the [[Bulgarians]] covered a distance three times longer than Theodore's army had travelled in a week.
+
+On 9 March, the two armies met near the village of Klokotnitsa. It is said that Ivan Asen II ordered the broken mutual protection treaty to be stuck on his spear and used as a flag. He was a good tactician and managed to surround the enemy, who were surprised to meet the Bulgarians so soon. The battle continued until sunset. Theodore's men were completely defeated, only a small force under his brother [[Manuel Komnenos Doukas|Manuel]] managed to escape from the battlefield. The rest were killed in the battle or captured, including the royal court of Thessalonica and Theodore himself.
+
+[[File:Tsar Ivan Assen II before the Battle of Klokotnitsa - March 9, 1230 by Vasil Goranov.jpg|thumb|Tsar Ivan Assen II before the Battle of Klokotnitsa - March 9, 1230 Artist: Vasil Goranov]]
+
+{{Anchor|Ivan Asen II's Tarnovo Inscription|Column of Ivan Asen II}}
+
+==Ivan Asen II's Tarnovo Inscription==
+In order to commemorate the battle, the Bulgarian emperor had an inscription carved in one of the marble columns of the [[Holy Forty Martyrs Church, Veliko Tarnovo|Church "Holy Forty Martyrs"]] in the capital of the Bulgarian empire Veliko [[Tarnovo]]. Among all existing documents the text of this inscription is the most accurate evidence of the outcome and the aftermath of the battle:
+
+''"In the [[Etos Kosmou|Year of the World]] 6738 (1230), third [[indiction]]. John Asen in Christ God true Tsar and sovereign of the Bulgarians, son of the [[Ivan Asen I of Bulgaria|old Tsar Asen]], raised from the foundations and decorated with art this holy church in the name of the [[Forty Martyrs of Sebaste|Holy 40 Martyrs]], with the help of whom in the twelfth year of my reign when this temple was being decorated. I went to war in Romania and defeated the Greek army and captured their Tsar, Kyr Teodore Komnenos, together with all his [[boyar]]s. And I occupied all of his land from Odrin ([[Adrianople]]) to Drach ([[Dyrrhachium]]), Greek and also Albanian and Serbian; and the towns around Constantinople and this very town were ruled by the Frandzi (Latins), but they also were subjugated to my empire; because they had no other Tsar but me and thanks to me they spent their days, because God ordered this, because without Him neither a deed, nor a word is done. Glory to Him forever, Amen."''<ref>Turnovo inscription of Tsar Ivan Asen II in the Holy 40 Martyrs Church in honour of the victory at Klokotnitsa on 9 March 1230</ref>
+
+==Aftermath==
+Ivan Asen II immediately released the captured soldiers without any conditions and the nobles were taken to [[Tarnovo]]. His fame for being a merciful and just ruler went ahead of his march to the lands of Theodore Komnenos and Theodore's recently conquered territories in Thrace and Macedonia were regained by Bulgaria without resistance. Thessalonica itself became a Bulgarian vassal under Theodore's brother Manuel. Still Ivan Asen II was not able to subdue the heart of Epirus, neither Central Greece. Furthermore after the passing of Ivan Asen II, the vassalage of Epirus to the Bulgarian Empire ceased and Bulgaria passed into a rapid political decline, meanwhile the [[Despotate of Epirus]] grew once more under the leadership [[Michael II Komnenos Doukas|Michael II of Epirus]] who reconquered many lands from the decayed Tsardom.
+
+== Notes ==
+<references />
+{{More citations needed|date=November 2007}}
+
+== References ==
+
+* Acropolites George, The History, (Oxford, 2007), translated by Ruth Macrides
+*Дуйчев, Иван. Из старата българска книжнина, т.II, С. 1944, с.38–39
+* Златарски, Васил Н., История на българската държава през средните векове, Т.III, Второ българско царство, с. 587–596
+* [[Fyodor Uspensky|Uspensky, Fyodor]], О древностях города Тырнова, Известія Руского Археалогического Института в Константинополе, 1901, VII, вып 1, с.6–7 и табл. 5
+
+{{coord|41|59|N|25|30|E|region:BG_type:city_source:kolossus-elwiki|display=title}}
+
+{{DEFAULTSORT:Klokotnitsa, Battle of}}
+[[Category:1230 in Europe]]
+[[Category:13th century in Bulgaria]]
+[[Category:Battles involving the Second Bulgarian Empire]]
+[[Category:Battles of the Byzantine–Bulgarian Wars in Thrace]]
+[[Category:Military history of Bulgaria]]
+[[Category:History of Haskovo Province]]
+[[Category:Empire of Thessalonica]]
+[[Category:Battles involving the Despotate of Epirus]]
+[[Category:Conflicts in 1230]]
+[[Category:Haskovo]]

@@ -1,0 +1,449 @@
+{{main|1892 United States presidential election}}
+{{Infobox Election
+| election_name = 1892 [[United States presidential elections in Maryland|United States presidential election in Maryland]]
+| country = Maryland
+| flag_year = 1880
+| type = presidential
+| ongoing = no
+| previous_election = 1888 United States presidential election in Maryland
+| previous_year = 1888
+| next_election = 1896 United States presidential election in Maryland
+| next_year = 1896
+| election_date = November 8, 1892
+<!--       Grover Cleveland        -->
+| image_size = x159px
+| image1            = StephenGroverCleveland.png
+| colour1           = 
+| nominee1          = '''[[Grover Cleveland]]'''
+| party1            = Democratic Party (United States)
+| home_state1       = [[New York (state)|New York]]
+| running_mate1     = '''[[Adlai Stevenson I]]'''
+| electoral_vote1   = '''8'''
+| popular_vote1     = '''113,866'''
+| percentage1       = '''53.39%'''
+<!--       Benjamin Harrison       -->
+| image2            = Benjamin Harrison, head and shoulders bw photo, 1896.jpg
+| colour2           = 
+| nominee2          = [[Benjamin Harrison]]
+| party2            = Republican Party (United States)
+| home_state2       = [[Indiana]]
+| running_mate2     = [[Whitelaw Reid]]
+| electoral_vote2   = 0
+| popular_vote2     = 92,736
+| percentage2       = 43.48%
+<!-- map -->
+| map_image         = 
+| map_size          = 
+| map_alt           = 
+| map               = 
+| map_caption       = 
+<!-- bottom -->
+| title = President
+| before_election = [[Benjamin Harrison]]
+| before_party = Republican Party (United States)
+| after_election = [[Grover Cleveland]]
+| after_party = Democratic Party (United States)
+}}
+{{ElectionsMD}}'''The 1892 United States presidential election in Maryland''' took place on November 8, 1892. All contemporary 44 states were part of the [[1892 United States presidential election]]. Maryland voters chose 8 electors to the [[United States Electoral College|Electoral College]], which selected the [[President of the United States|president]] and [[Vice President of the United States|vice president]].
+
+[[United States presidential elections in Maryland|Maryland]] was won by the [[Democratic Party (United States)|Democratic]] nominees, [[President of the United States|former President]] [[Grover Cleveland]] of [[New York (state)|New York]] and his running mate [[Adlai Stevenson I]] of [[Illinois]].
+
+==Results==
+{| border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="6" | United States presidential election in Maryland, 1892<ref>Dave Leip's U.S. Election Atlas; [https://uselectionatlas.org/RESULTS/state.php?fips=24&year=1892&f=0&off=0&elect=0 1892 Presidential General Election Results – Maryland]</ref>
+|-bgcolor="#EEEEEE" align="center"
+! colspan="2" style="width: 15em" |Party
+! style="width: 17em" |Candidate
+! style="width: 5em" |Votes
+! style="width: 7em" |Percentage
+! style="width: 5em" |Electoral votes
+|-
+! style="background-color:#3333FF; width: 3px" |
+| style="width: 130px" | [[Democratic Party (United States)|Democratic]]
+| [[Grover Cleveland]]
+| align="right" | 113,866
+| align="right" | 53.39%
+| align="right" | 8
+|-
+! style="background-color:#FF3333; width: 3px" |
+| style="width: 130px" | [[Republican Party (United States)|Republican]]
+| [[Benjamin Harrison]] ([[incumbent]])
+| align="right" | 92,736
+| align="right" | 43.48%
+| align="right" | 0
+|-
+! style="background-color:#FF00FF; width: 3px" |
+| style="width: 130px" | [[Prohibition Party (United States)|Prohibition]]
+| [[John Bidwell]]
+| align="right" | 5,877 
+| align="right" | 2.76%
+| align="right" | 0
+|-
+! style="background-color:#CCFFCC; width: 3px" |
+| style="width: 130px" | [[Populist Party (United States)|People's]]
+| [[James B. Weaver|James Weaver]]
+| align="right" | 796
+| align="right" | 0.37%
+| align="right" | 0
+|-
+|-bgcolor="#EEEEEE"
+| colspan="3" align="right" | '''Totals'''
+| align="right" | '''213,275'''
+| align="right" | '''100.00%'''
+| align="right" | '''8'''
+|-bgcolor="#EEEEEE"
+| colspan="3" align="right" | Voter turnout
+| colspan="2" align="right" | 
+| align="right" | —
+|}
+===Results by county===
+{|width="65%" class="wikitable sortable" style="text-align:center"
+|-
+! style="text-align:center;" rowspan="2"| County
+! colspan="2" |Stephen Grover Cleveland<ref name="GeoelectionsI">Géoelections; [http://geoelections.free.fr/USA/elec_comtes/1892 Popular Vote at the Presidential Election for 1892] (.xlsx file for €15)</ref><br />Democratic
+! colspan="2" |Benjamin Harrison<ref name="GeoelectionsI"/><br/>Republican
+! style="text-align:center;" colspan="2"| John Bidwell<ref>Géoelections; [http://geoelections.free.fr/USA/elec_comtes/1892bidw Popular Vote for John Bidwell] (.xlsx file for €15)</ref><br/>Prohibition
+! style="text-align:center;" colspan="2"| James Baird Weaver<ref>Géoelections; [http://geoelections.free.fr/USA/elec_comtes/1892weav Popular Vote at the Presidential Election for 1892 for James B. Weaver] (.xlsx file for €15)</ref><br/>People’s
+! style="text-align:center;" colspan="2"| Margin
+! style="text-align:center;" rowspan="2"| Total votes cast
+|-
+! style="text-align:center;" data-sort-type="number" | #
+! style="text-align:center;" data-sort-type="number" | %
+! style="text-align:center;" data-sort-type="number"| #
+! style="text-align:center;" data-sort-type="number"| %
+! style="text-align:center;" data-sort-type="number"| #
+! style="text-align:center;" data-sort-type="number"| %
+! style="text-align:center;" data-sort-type="number"| #
+! style="text-align:center;" data-sort-type="number"| %
+! style="text-align:center;" data-sort-type="number"| #
+! style="text-align:center;" data-sort-type="number"| %
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Allegany County, Maryland|Allegany]]
+| {{party shading/Democratic}} | 3,638
+| {{party shading/Democratic}} | 43.77%
+| {{party shading/Republican}} | 4,415
+| {{party shading/Republican}} | 53.12%
+| {{party shading/Prohibition}}| 170
+| {{party shading/Prohibition}}| 2.05%
+| {{party shading/Populist}}| 89
+| {{party shading/Populist}}| 1.07%
+| {{party shading/Republican}} | -777
+| {{party shading/Republican}} | -9.35%
+| {{party shading/Republican}} | 8,312
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Anne Arundel County, Maryland|Anne Arundel]]
+| {{party shading/Democratic}} | 3,398
+| {{party shading/Democratic}} | 53.77%
+| {{party shading/Republican}} | 2,800
+| {{party shading/Republican}} | 44.31%
+| {{party shading/Prohibition}}| 113
+| {{party shading/Prohibition}}| 1.79%
+| {{party shading/Populist}}| 8
+| {{party shading/Populist}}| 0.13%
+| {{party shading/Democratic}} | 598
+| {{party shading/Democratic}} | 9.46%
+| {{party shading/Democratic}} | 6,319
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Baltimore County, Maryland|Baltimore County]]
+| {{party shading/Democratic}} | 7,225
+| {{party shading/Democratic}} | 56.09%
+| {{party shading/Republican}} | 5,165
+| {{party shading/Republican}} | 40.10%
+| {{party shading/Prohibition}}| 473
+| {{party shading/Prohibition}}| 3.67%
+| {{party shading/Populist}}| 17
+| {{party shading/Populist}}| 0.13%
+| {{party shading/Democratic}} | 2,060
+| {{party shading/Democratic}} | 15.99%
+| {{party shading/Democratic}} | 12,880
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Baltimore|Baltimore City]]
+| {{party shading/Democratic}} | 51,098
+| {{party shading/Democratic}} | 57.12%
+| {{party shading/Republican}} | 36,492
+| {{party shading/Republican}} | 40.79%
+| {{party shading/Prohibition}}| 1,678
+| {{party shading/Prohibition}}| 1.88%
+| {{party shading/Populist}}| 189
+| {{party shading/Populist}}| 0.21%
+| {{party shading/Democratic}} | 14,606
+| {{party shading/Democratic}} | 16.33%
+| {{party shading/Democratic}} | 89,457
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Calvert County, Maryland|Calvert]]
+| {{party shading/Democratic}} | 942
+| {{party shading/Democratic}} | 43.55%
+| {{party shading/Republican}} | 1,153
+| {{party shading/Republican}} | 53.31%
+| {{party shading/Prohibition}}| 66
+| {{party shading/Prohibition}}| 3.05%
+| {{party shading/Populist}}| 2
+| {{party shading/Populist}}| 0.09%
+| {{party shading/Republican}} | -211
+| {{party shading/Republican}} | -9.75%
+| {{party shading/Republican}} | 2,163
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Caroline County, Maryland|Caroline]]
+| {{party shading/Democratic}} | 1,453
+| {{party shading/Democratic}} | 49.32%
+| {{party shading/Republican}} | 1,344
+| {{party shading/Republican}} | 45.62%
+| {{party shading/Prohibition}}| 114
+| {{party shading/Prohibition}}| 3.87%
+| {{party shading/Populist}}| 35
+| {{party shading/Populist}}| 1.19%
+| {{party shading/Democratic}} | 109
+| {{party shading/Democratic}} | 3.70%
+| {{party shading/Democratic}} | 2,946
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Carroll County, Maryland|Carroll]]
+| {{party shading/Democratic}} | 3,721
+| {{party shading/Democratic}} | 51.15%
+| {{party shading/Republican}} | 3,328
+| {{party shading/Republican}} | 45.75%
+| {{party shading/Prohibition}}| 218
+| {{party shading/Prohibition}}| 3.00%
+| {{party shading/Populist}}| 7
+| {{party shading/Populist}}| 0.10%
+| {{party shading/Democratic}} | 393
+| {{party shading/Democratic}} | 5.40%
+| {{party shading/Democratic}} | 7,274
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Cecil County, Maryland|Cecil]]
+| {{party shading/Democratic}} | 2,898
+| {{party shading/Democratic}} | 53.09%
+| {{party shading/Republican}} | 2,310
+| {{party shading/Republican}} | 42.32%
+| {{party shading/Prohibition}}| 216
+| {{party shading/Prohibition}}| 3.96%
+| {{party shading/Populist}}| 35
+| {{party shading/Populist}}| 0.64%
+| {{party shading/Democratic}} | 588
+| {{party shading/Democratic}} | 10.77%
+| {{party shading/Democratic}} | 5,459
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Charles County, Maryland|Charles]]
+| {{party shading/Democratic}} | 1,051
+| {{party shading/Democratic}} | 43.96%
+| {{party shading/Republican}} | 1,279
+| {{party shading/Republican}} | 53.49%
+| {{party shading/Prohibition}}| 14
+| {{party shading/Prohibition}}| 0.59%
+| {{party shading/Populist}}| 47
+| {{party shading/Populist}}| 1.97%
+| {{party shading/Republican}} | -228
+| {{party shading/Republican}} | -9.54%
+| {{party shading/Republican}} | 2,391
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Dorchester County, Maryland|Dorchester]]
+| {{party shading/Democratic}} | 2,015
+| {{party shading/Democratic}} | 43.83%
+| {{party shading/Republican}} | 2,365
+| {{party shading/Republican}} | 51.45%
+| {{party shading/Prohibition}}| 166
+| {{party shading/Prohibition}}| 3.61%
+| {{party shading/Populist}}| 51
+| {{party shading/Populist}}| 1.11%
+| {{party shading/Republican}} | -350
+| {{party shading/Republican}} | -7.61%
+| {{party shading/Republican}} | 4,597
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Frederick County, Maryland|Frederick]]
+| {{party shading/Democratic}} | 5,643
+| {{party shading/Democratic}} | 49.35%
+| {{party shading/Republican}} | 5,502
+| {{party shading/Republican}} | 48.12%
+| {{party shading/Prohibition}}| 280
+| {{party shading/Prohibition}}| 2.45%
+| {{party shading/Populist}}| 9
+| {{party shading/Populist}}| 0.08%
+| {{party shading/Democratic}} | 141
+| {{party shading/Democratic}} | 1.23%
+| {{party shading/Democratic}} | 11,434
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Garrett County, Maryland|Garrett]]
+| {{party shading/Democratic}} | 1,323
+| {{party shading/Democratic}} | 44.70%
+| {{party shading/Republican}} | 1,556
+| {{party shading/Republican}} | 52.57%
+| {{party shading/Prohibition}}| 78
+| {{party shading/Prohibition}}| 2.64%
+| {{party shading/Populist}}| 3
+| {{party shading/Populist}}| 0.10%
+| {{party shading/Republican}} | -233
+| {{party shading/Republican}} | -7.87%
+| {{party shading/Republican}} | 2,960
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Harford County, Maryland|Harford]]
+| {{party shading/Democratic}} | 3,309
+| {{party shading/Democratic}} | 54.95%
+| {{party shading/Republican}} | 2,449
+| {{party shading/Republican}} | 40.67%
+| {{party shading/Prohibition}}| 254
+| {{party shading/Prohibition}}| 4.22%
+| {{party shading/Populist}}| 10
+| {{party shading/Populist}}| 0.17%
+| {{party shading/Democratic}} | 860
+| {{party shading/Democratic}} | 14.28%
+| {{party shading/Democratic}} | 6,022
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Howard County, Maryland|Howard]]
+| {{party shading/Democratic}} | 1,920
+| {{party shading/Democratic}} | 56.30%
+| {{party shading/Republican}} | 1,410
+| {{party shading/Republican}} | 41.35%
+| {{party shading/Prohibition}}| 75
+| {{party shading/Prohibition}}| 2.20%
+| {{party shading/Populist}}| 5
+| {{party shading/Populist}}| 0.15%
+| {{party shading/Democratic}} | 510
+| {{party shading/Democratic}} | 14.96%
+| {{party shading/Democratic}} | 3,410
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Kent County, Maryland|Kent]]
+| {{party shading/Democratic}} | 2,009
+| {{party shading/Democratic}} | 50.35%
+| {{party shading/Republican}} | 1,886
+| {{party shading/Republican}} | 47.27%
+| {{party shading/Prohibition}}| 92
+| {{party shading/Prohibition}}| 2.31%
+| {{party shading/Populist}}| 3
+| {{party shading/Populist}}| 0.08%
+| {{party shading/Democratic}} | 123
+| {{party shading/Democratic}} | 3.08%
+| {{party shading/Democratic}} | 3,990
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Montgomery County, Maryland|Montgomery]]
+| {{party shading/Democratic}} | 3,383
+| {{party shading/Democratic}} | 54.96%
+| {{party shading/Republican}} | 2,584
+| {{party shading/Republican}} | 41.98%
+| {{party shading/Prohibition}}| 181
+| {{party shading/Prohibition}}| 2.94%
+| {{party shading/Populist}}| 7
+| {{party shading/Populist}}| 0.11%
+| {{party shading/Democratic}} | 799
+| {{party shading/Democratic}} | 12.98%
+| {{party shading/Democratic}} | 6,155
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Prince George's County, Maryland|Prince George's]]
+| {{party shading/Democratic}} | 2,655
+| {{party shading/Democratic}} | 51.85%
+| {{party shading/Republican}} | 2,423
+| {{party shading/Republican}} | 47.31%
+| {{party shading/Prohibition}}| 23
+| {{party shading/Prohibition}}| 0.45%
+| {{party shading/Populist}}| 20
+| {{party shading/Populist}}| 0.39%
+| {{party shading/Democratic}} | 232
+| {{party shading/Democratic}} | 4.53%
+| {{party shading/Democratic}} | 5,121
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Queen Anne's County, Maryland|Queen Anne's]]
+| {{party shading/Democratic}} | 2,281
+| {{party shading/Democratic}} | 56.70%
+| {{party shading/Republican}} | 1,579
+| {{party shading/Republican}} | 39.25%
+| {{party shading/Prohibition}}| 162
+| {{party shading/Prohibition}}| 4.03%
+| {{party shading/Populist}}| 1
+| {{party shading/Populist}}| 0.02%
+| {{party shading/Democratic}} | 702
+| {{party shading/Democratic}} | 17.45%
+| {{party shading/Democratic}} | 4,023
+|- style="text-align:center;"
+| {{party shading/Republican}}|[[Somerset County, Maryland|Somerset]]
+| {{party shading/Democratic}} | 1,638
+| {{party shading/Democratic}} | 41.04%
+| {{party shading/Republican}} | 1,819
+| {{party shading/Republican}} | 45.58%
+| {{party shading/Prohibition}}| 487
+| {{party shading/Prohibition}}| 12.20%
+| {{party shading/Populist}}| 47
+| {{party shading/Populist}}| 1.18%
+| {{party shading/Republican}} | -181
+| {{party shading/Republican}} | -4.54%
+| {{party shading/Republican}} | 3,991
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[St. Mary's County, Maryland|St. Mary's]]
+| {{party shading/Democratic}} | 1,482
+| {{party shading/Democratic}} | 46.02%
+| {{party shading/Republican}} | 1,693
+| {{party shading/Republican}} | 52.58%
+| {{party shading/Prohibition}}| 43
+| {{party shading/Prohibition}}| 1.34%
+| {{party shading/Populist}}| 2
+| {{party shading/Populist}}| 0.06%
+| {{party shading/Republican}} | -211
+| {{party shading/Republican}} | -6.55%
+| {{party shading/Republican}} | 3,220
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Talbot County, Maryland|Talbot]]
+| {{party shading/Democratic}} | 1,974
+| {{party shading/Democratic}} | 45.96%
+| {{party shading/Republican}} | 2,137
+| {{party shading/Republican}} | 49.76%
+| {{party shading/Prohibition}}| 177
+| {{party shading/Prohibition}}| 4.12%
+| {{party shading/Populist}}| 7
+| {{party shading/Populist}}| 0.16%
+| {{party shading/Republican}} | -163
+| {{party shading/Republican}} | -3.80%
+| {{party shading/Republican}} | 4,295
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Washington County, Maryland|Washington]]
+| {{party shading/Democratic}} | 4,667
+| {{party shading/Democratic}} | 50.33%
+| {{party shading/Republican}} | 4,373
+| {{party shading/Republican}} | 47.16%
+| {{party shading/Prohibition}}| 210
+| {{party shading/Prohibition}}| 2.26%
+| {{party shading/Populist}}| 23
+| {{party shading/Populist}}| 0.25%
+| {{party shading/Democratic}} | 294
+| {{party shading/Democratic}} | 3.17%
+| {{party shading/Democratic}} | 9,273
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Wicomico County, Maryland|Wicomico]]
+| {{party shading/Democratic}} | 2,317
+| {{party shading/Democratic}} | 57.55%
+| {{party shading/Republican}} | 1,427
+| {{party shading/Republican}} | 35.44%
+| {{party shading/Prohibition}}| 228
+| {{party shading/Prohibition}}| 5.66%
+| {{party shading/Populist}}| 54
+| {{party shading/Populist}}| 1.34%
+| {{party shading/Democratic}} | 890
+| {{party shading/Democratic}} | 22.11%
+| {{party shading/Democratic}} | 4,026
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Worcester County, Maryland|Worcester]]
+| {{party shading/Democratic}} | 1,826
+| {{party shading/Democratic}} | 50.95%
+| {{party shading/Republican}} | 1,247
+| {{party shading/Republican}} | 34.79%
+| {{party shading/Prohibition}}| 386
+| {{party shading/Prohibition}}| 10.77%
+| {{party shading/Populist}}| 125
+| {{party shading/Populist}}| 3.49%
+| {{party shading/Democratic}} | 579
+| {{party shading/Democratic}} | 16.16%
+| {{party shading/Democratic}} | 3,584
+|- style="text-align:center;"
+!Totals!!113,866!!53.38%!!92,736!!43.48%!!5,904!!2.77%!!796!!0.37%!!21,130!!9.91%!!213,302
+|}
+
+==References==
+{{reflist|2}}
+
+== See also ==
+
+* [[United States presidential election|United States Presidential Election]]
+* [[1892 United States presidential election|1892 United States Presidential Election]]
+{{State Results of the 1892 U.S. presidential election}}
+{{United States elections}}
+
+[[Category:1892 United States presidential election by state|Maryland]]
+[[Category:United States presidential elections in Maryland|1892]]
+[[Category:1892 Maryland elections]]

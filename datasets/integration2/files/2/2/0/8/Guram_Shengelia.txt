@@ -1,0 +1,39 @@
+{{Infobox rugby biography
+| name = Guram Shengelia
+| image = 
+| image_size =
+| birth_place = [[Tbilisi]], [[Georgia (country)|Georgia]]
+| birth_date={{Birth date and age|1992|10|10|df=yes}}
+| death_date =
+| death_place =
+| height = {{convert|1.95|m|ftin|abbr=on}}
+| weight = {{convert|110|kg|stlb|abbr=on}}
+| ru_position = [[Flanker (rugby union)|Flanker]]
+| amatyears1 =
+| amatteam1 =
+| ru_amupdate =
+| years1 = 2014-
+| clubs1 = [[RC Jiki Gori|Jiki]]
+| apps1 = 54
+| points1 = 25
+| repteam1 = [[Georgia national rugby union team|Georgia]]
+| repyears1 = 2018-
+| repcaps1 = 2
+| reppoints1 = 0
+| ru_ntupdate = 19 April 2018
+| ru_clubupdate = 29/04/2017
+}}
+
+'''Guram Shengelia''' (born October 10, 1992) is a Georgian [[rugby union]] player. His position is [[flanker (rugby union)|flanker]], and he currently plays for [[RC Jiki Gori|Jiki Gori]] in the [[Didi 10]] and the [[Georgia national rugby union team]].<ref>{{cite web|url=http://www.eurosport.com/rugby/mikheil-gachechiladze_prs459540/person.shtml|title=Mikheil Gachechiladze - Player Profile - Rugby|publisher=}}</ref><ref>{{cite web|url=http://www.allrugby.com/joueurs/mikheil-gachechiladze-4872.html|title=La fiche rugby de : Mikheil GACHECHILADZE|publisher=}}</ref>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Shengelia, Guram}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:Rugby union players from Georgia (country)]]
+[[Category:Georgia international rugby union players]]
+
+
+{{Georgia-sport-bio-stub}}

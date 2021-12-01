@@ -1,0 +1,60 @@
+[[File:H. Gilbert Welch at Spotlight Health Aspen Ideas Festival 2015.JPG|thumb|H. Gilbert Welch in 2015]]
+'''H. Gilbert Welch''' is an American academic physician and cancer researcher. He was an [[internist]] at the [[Veterans Administration Medical Center]] in [[White River Junction, Vermont]], as well as a professor of medicine at the [[Dartmouth Institute for Health Policy and Clinical Practice]].<ref name=geisel>{{cite web | url=https://geiselmed.dartmouth.edu/faculty/facultydb/view.php?uid=74 | title=H. Gilbert Welch, M.D., M.P.H. | work=Geisel School of Medicine | accessdate=16 July 2015 | archive-url=https://web.archive.org/web/20150721195149/http://geiselmed.dartmouth.edu/faculty/facultydb/view.php?uid=74 | archive-date=21 July 2015 | url-status=dead }}</ref> In September 2018, Welch resigned from Dartmouth College after a 20-month long research misconduct investigation at Dartmouth concluded he had committed plagiarism.<ref>{{Cite news |url=https://www.statnews.com/2018/09/13/gilbert-welch-resigns-from-dartmouth-over-plagiarism-dispute/ |title=H. Gilbert Welch resigns from Dartmouth over 'idea plagiarism' dispute |last=Joseph |first=Andrew |date=2018-09-13 |work=STAT |access-date=2018-09-13 |language=en-US}}</ref>
+
+==Education==
+Welch received his BA from [[Harvard University]] in 1976, his MD from the [[University of Cincinnati]] in 1982, and his MPH from the [[University of Washington]] in 1990.<ref name=geisel/>
+
+==Career==
+Welch joined [[Dartmouth Medical School]] as an assistant professor in 1990.<ref name="cv">{{cite web | url=http://tdi.dartmouth.edu/documents/2014_Welch6pgCV.pdf | title=H. Gilbert Welch, M.D., M.P.H. Curriculum Vitae | accessdate=16 July 2015 | archive-url=https://web.archive.org/web/20140311131654/http://tdi.dartmouth.edu/documents/2014_Welch6pgCV.pdf | archive-date=11 March 2014 | url-status=dead }}</ref> He was promoted to associate professor there in 1995, and to full professor in 2000.<ref name=cv/>
+
+==Research==
+Welch is known for his research into [[cancer screening]]. In 2012, Welch co-authored a study which found that [[mammography]] was having little to no impact on breast cancer death rates. The study also concluded that substantial [[overdiagnosis]] was associated with mammographic screening, "accounting for nearly a third of all newly diagnosed breast cancers."<ref>{{cite journal|last1=Bleyer|first1=Archie|last2=Welch|first2=H. Gilbert|title=Effect of Three Decades of Screening Mammography on Breast-Cancer Incidence|journal=New England Journal of Medicine|date=22 November 2012|volume=367|issue=21|pages=1998–2005|doi=10.1056/NEJMoa1206809|pmid=23171096|doi-access=free}}</ref><ref>{{cite web | url=https://www.npr.org/sections/health-shots/2012/11/21/165668987/with-routine-mammograms-some-breast-cancers-may-be-overtreated | title=With Routine Mammograms, Some Breast Cancers May Be Overtreated | work=NPR | date=21 November 2012 | accessdate=16 July 2015 | author=Knox, Richard}}</ref> In 2014, Welch and two other researchers published a perspective piece in the ''[[New England Journal of Medicine]]'' examining trends in [[thyroid cancer]] incidence and mortality in [[South Korea]]. The piece found that thyroid-cancer mortality has not changed appreciably there from 1993 to 2011, despite the rate of diagnoses for this type of cancer increasing by a factor of 15 during the same time period.<ref>{{cite journal|last1=Ahn|first1=Hyeong Sik|last2=Kim|first2=Hyun Jung|last3=Welch|first3=H. Gilbert|title=Korea's Thyroid-Cancer "Epidemic" — Screening and Overdiagnosis|journal=New England Journal of Medicine|date=6 November 2014|volume=371|issue=19|pages=1765–1767|doi=10.1056/NEJMp1409841|pmid=25372084|url=https://semanticscholar.org/paper/251db14d4fd7dc84682bec26a0c819b3f6557346}}</ref><ref>{{cite web | url=http://fivethirtyeight.com/features/the-case-against-early-cancer-detection/ | title=The Case Against Early Cancer Detection | work=FiveThirtyEight | date=24 November 2014 | accessdate=16 July 2015 | author=Aschwanden, Christie}}</ref>
+
+In 2016, he led a study which concluded that women were more likely to be diagnosed with a small tumor that will never increase in size through mammography than they are to have a dangerous tumor detected through the practice.<ref>{{cite journal|last1=Welch|first1=H. Gilbert|last2=Prorok|first2=Philip C.|last3=O’Malley|first3=A. James|last4=Kramer|first4=Barnett S.|title=Breast-Cancer Tumor Size, Overdiagnosis, and Mammography Screening Effectiveness|journal=New England Journal of Medicine|date=13 October 2016|volume=375|issue=15|pages=1438–1447|doi=10.1056/NEJMoa1600249|pmid=27732805}}</ref><ref>{{cite web | url=http://www.cbsnews.com/news/new-study-questions-value-of-mammograms-for-breast-cancer-screening/ | title=New study questions value of mammograms for breast cancer screening | work=CBS News | date=12 October 2016 | accessdate=15 October 2016 | agency=Associated Press}}</ref> This 2016 study, which included two staff members of the [[National Cancer Institute]] (Barnett Kramer and Philip Prorok), was found to have contained uncredited data from a colleague, Samir Soneji.<ref>{{cite news
+|first=Owen
+|last=Dyer
+|title=Prominent US critic of cancer screening committed plagiarism, investigation finds
+|newspaper=BMJ
+|date=2018
+|url=https://www.bmj.com/content/362/bmj.k3616
+}}</ref>
+In 2018, after a 20-month investigation, Dartmouth College determined that Welch had "engaged in research misconduct, namely, plagiarism, by knowingly, intentionally, or recklessly appropriating the ideas, processes, results or words of Complainants without giving them appropriate credit, and that these actions represented a significant departure from accepted practices of the relevant research community." Welch disputed the investigation's finding, telling [[Retraction Watch]] that "the underlying data are publicly available — all the analyses, all the figures and all the writing in the article are my co-authors' and mine."<ref>{{cite news
+|first=Alison
+|last=McCook
+|title=Prominent health policy researcher plagiarized colleagues' work, Dartmouth investigation finds
+|newspaper=STAT
+|date=2018
+|url=https://www.statnews.com/2018/08/20/dartmouth-health-policy-researcher-plagiarized/
+}}</ref>
+Dartmouth College considered Welch's claims in a formal appeal process before concluding he engaged in research misconduct, specifically plagiarism.<ref>{{cite news
+|first=Dartmouth
+|last=College
+|title=Research Misconduct Policy and Procedures
+|date=2018
+|url=https://www.dartmouth.edu/~osp/resources/policies/dartmouth/MisconductPolicy.html
+}}</ref>
+
+==Views on early detection==
+Welch is critical of the concept of [[early detection]] in medicine,<ref>{{cite web | url=https://www.minnpost.com/second-opinion/2014/11/thyroid-cancer-south-korea-cautionary-tale-about-dangers-overdiagnosis | title=Thyroid cancer in South Korea: a cautionary tale about the dangers of overdiagnosis | work=MinnPost | date=6 November 2014 | accessdate=16 July 2015 | author=Perry, Susan}}</ref><ref>{{cite web | url=http://www.bu.edu/today/2011/medical-overdiagnosis-bad-for-you-good-for-business/ | title=Overdiagnosis: Bad for You, Good for Business | work=BU Today | date=26 October 2011 | accessdate=16 July 2015 | author=Chedekel, Lisa}}</ref> stating that "we have exaggerated the benefits of medical care, and we've underplayed — or ignored entirely — the harms. This is particularly true when it comes to early detection."<ref>{{cite web | url=https://www.vox.com/2015/4/16/8423051/too-much-cancer-screening | title=Celebrities keep pushing for more cancer screening. This Dartmouth professor makes the case for less. | work=Vox | date=16 April 2015 | accessdate=16 July 2015 | author=Belluz, Julia}}</ref> He has also argued that mammograms tend to detect abnormalities that are "not destined to cause them [women who undergo screening] any problems" but are still labeled cancer in these women.<ref>{{cite web | url=http://www.latimes.com/science/sciencenow/la-sci-sn-mammograms-breast-cancer-acr-gilbert-welch-20140219-story.html | title=Cancer screening expert to radiologists: Stop lying about mammograms | work=Los Angeles Times | date=19 February 2014 | accessdate=16 July 2015 | author=Kaplan, Karen}}</ref>
+
+==Books==
+*''Should I be Tested for Cancer? Maybe Not and Here's Why'' ([[University of California Press]], 2004)
+*''Overdiagnosed: Making People Sick in the Pursuit of Health'' ([[Beacon Press]], 2011)
+*''Less Medicine, More Health: 7 Assumptions That Drive Too Much Medical Care'' (Beacon Press, 2015)
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Google Scholar id|hsYuY2kAAAAJ}}
+{{Authority control}}
+
+{{DEFAULTSORT:Welch, H Gilbert}}
+[[Category:Cancer researchers]]
+[[Category:Geisel School of Medicine faculty]]
+[[Category:American internists]]
+[[Category:Living people]]
+[[Category:Harvard University alumni]]
+[[Category:University of Cincinnati alumni]]
+[[Category:University of Washington alumni]]
+[[Category:Year of birth missing (living people)]]

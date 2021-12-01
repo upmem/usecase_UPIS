@@ -1,0 +1,36 @@
+<noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Humanities|Humanities desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Humanities/2014 August 7|August 7]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Humanities/July 2014|Jul]] | [[Wikipedia:Reference desk/Archives/Humanities/August 2014|August]] | [[Wikipedia:Reference desk/Archives/Humanities/September 2014|Sep]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Humanities/2014 August 9|[[Wikipedia:Reference desk/Archives/Humanities/2014 August 9|August 9]]|[[Wikipedia:Reference desk/Humanities|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Humanities Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Humanities/2014 August 18|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= August 8 =
+
+== Elizabeth Sinclair ==
+
+Can anybody help me find some genealogical information on the three sons of [[Elizabeth Sinclair]]? I am having troubke since Elizabeth Sinclair is a pretty common name.--[[User:KAVEBEAR|KAVEBEAR]] ([[User talk:KAVEBEAR|talk]]) 04:00, 8 August 2014 (UTC)
+
+:It looks like none of them had children. George died at sea with his father in 1846; James was "an invalid" and apparently died unmarried and childless; Francis Sinclair (1833–1916) married twice but seems to have had no children. More on Francis Sinclair Jr. [http://press.anu.edu.au/apps/bookworm/view/Watriama+and+Co%3A+Further+Pacific+Islands+Portraits/10821/ch02.xhtml here].--[[User:Cam|Cam]] ([[User talk:Cam|talk]]) 14:21, 8 August 2014 (UTC)
+::When was James born and when did he die? And when was George born?--[[User:KAVEBEAR|KAVEBEAR]] ([[User talk:KAVEBEAR|talk]]) 04:24, 9 August 2014 (UTC)
+:And here's the family tree, although it omits the sons, only listing the daughters: [[Niihau#Sinclair-Robinson_family_tree]]. Presumably they are omitted due to their lack of issue. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 03:51, 9 August 2014 (UTC)
+::It's on her article too. That's why I asked about the sons.--[[User:KAVEBEAR|KAVEBEAR]] ([[User talk:KAVEBEAR|talk]]) 04:24, 9 August 2014 (UTC)
+:::I found dates for George (1820–1846) and James (1825–1873) on ancestry.com, perhaps not a reliable source in the Wikipedian sense.--[[User:Cam|Cam]] ([[User talk:Cam|talk]]) 12:42, 9 August 2014 (UTC)
+
+== Yellow River ==
+
+Was the Yellow River really a tributary of the Yangtze River in the 13th and 14th century? [http://www.paulnoll.com/China/Excursions/Huang-He-history.jpg]
+
+:According to [[Yellow_River#Medieval_times]], for a while it drained into a lake, which drained into the Yangtze. But the claim is flagged {{citation needed}}. Seems plausible enough to me, especially considering our article references several other documented changes in course. It seems to have been a rather dynamic river. [[User:SemanticMantis|SemanticMantis]] ([[User talk:SemanticMantis|talk]]) 22:02, 8 August 2014 (UTC)

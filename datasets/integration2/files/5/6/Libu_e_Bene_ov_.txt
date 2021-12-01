@@ -1,0 +1,40 @@
+{{Use dmy dates|date=October 2016}}
+{{Infobox officeholder
+| name          = Libuše Benešová
+| image         = 
+|office       = [[President of the Senate of the Czech Republic|President of the Senate]]
+|term_start   = 16 December 1998
+|term_end     = 23 November 2000
+|predecessor  = [[Petr Pithart]]
+|successor    = [[Ivan Havlíček]] (acting)
+|office1      = [[Senate of the Parliament of the Czech Republic|Senator]] from [[Benešov]]
+|term_start1  = 23 November 1996
+|term_end1    = 23 November 2000
+|predecessor1 = ''Seat established''
+|successor1   = [[Helena Rögnerová]]
+| birth_date    = {{birth date and age|df=yes|1948|7|5}}
+| birth_place   = [[Benešov]], [[Czechoslovakia]]
+| occupation    = [[politician]]
+| party         = [[Civic Democratic Party (Czech Republic)|Civic Democratic Party]]
+| alma_mater    = [[Charles University]]
+}}
+
+'''Libuše Benešová''' (born 5 July 1948) is a [[Czech Republic|Czech]] politician who served as the [[President of the Senate of the Czech Republic|President of the Senate]] from 1998 to 2000. Benešová was elected Senator from [[Benešov]] in the [[1996 Czech Senate election|1996 election]], serving until 2000.<ref>{{cite web|url=http://www.senat.cz/senatori/index.php?lng=cz&ke_dni=23.02.1997&par_3=41|title=PhDr. Libuše Benešová  (aktuální k 23.02.1997)|language=cs|date=23 February 1997|accessdate=9 October 2016}}</ref> After running for re-election as Senator for Benešov in 2000, she finished second behind [[Four-Coalition]] candidate [[Helena Rögnerová]], who resultantly succeeded her.<ref>{{cite web|url=http://www.volby.cz/pls/senat/se2111?xjazyk=CZ&xdatum=20001112&xobvod=41|title=Volby do Senátu Parlamentu ČR konané dne 12.11.2000|language=cs|date=|accessdate=9 October 2016}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Speaker of the Senate of the Czech Republic elections}}
+{{CZ-Senate-Presidents}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Benesova, Libuse}}
+[[Category:1948 births]]
+[[Category:People from Benešov]]
+[[Category:Charles University alumni]]
+[[Category:Civic Democratic Party (Czech Republic) Senators]]
+[[Category:Living people]]
+[[Category:Presidents of the Senate of the Czech Republic]]
+
+{{CzechRepublic-politician-stub}}

@@ -1,0 +1,84 @@
+{{Use dmy dates|date=December 2014}}{{Use British English|date=December 2014}}
+{{Infobox Christian leader
+| type             = 
+| honorific-prefix = [[The Right Reverend]]
+| name             = Anthony Crockett
+| honorific-suffix = 
+| title            = [[Bishop of Bangor]]
+| image            = Bishop Anthony Crockett.jpg
+| image_size       = 
+| alt              = 
+| caption          = 
+| church           = [[Church in Wales]]
+| diocese          = [[Diocese of Bangor]]
+| see              = 
+| elected          = <!-- or | appointed = -->
+| term             = 2004 to 2008
+| predecessor      = [[Saunders Davies]]
+| successor        = [[Andrew John]]
+| other_post       = 
+<!---------- Orders ---------->
+| ordination       = 1971 (deacon) <br /> 1972 (priest)
+| ordained_by      = 
+| consecration     = 2004
+| consecrated_by   = 
+<!---------- Personal details ---------->
+| birth_name       = Phillip Anthony Crockett 
+| birth_date       = {{Birth date|1945|8|23|df=y}}
+| birth_place      = <!-- City, administrative region, sovereign state (per [[Template:Infobox person]]) -->
+| death_date       = {{Death date and age|2008|6|30|1945|8|23|df=y}}
+| death_place      = <!-- as birth_place -->
+| buried           = <!-- or | tomb = -->
+| resting_place_coordinates = 
+| nationality      = Welsh
+| religion         = [[Anglicanism]]
+| residence        = 
+| parents          = 
+| spouse           = <!-- or | partner = -->
+| children         = 
+| occupation       = 
+| profession       = [[Clergyman]]
+| education        = [[Pontypridd County Grammar School]]
+| alma_mater       = [[King's College London]] <br /> [[St Michael's College, Llandaff]]
+}}
+'''Phillip Anthony''' "'''Tony'''" '''Crockett''' (23 August 1945 – 30 June 2008) was a [[Welsh people|Welsh]] [[Anglican]] bishop. He was the [[Bishop of Bangor]] from 2004 until his death from [[prostate cancer]] in 2008.
+
+==Early life and education==
+Crockett was born on 23 August 1945.<ref name="Who Was Who">{{cite web|title=CROCKETT, Rt Rev. (Phillip) Anthony|url=http://www.ukwhoswho.com/view/article/oupww/whowaswho/U44411|website=Who Was Who|publisher=Oxford University Press|accessdate=23 February 2017|date=April 2014}}</ref> He was educated at [[Pontypridd County Grammar School]], an all-boys [[State school|state]] [[grammar school]] in [[Pontypridd]].<ref>''Debrett's People of Today''. London: [[Debrett's]], 2008, {{ISBN|978-1-870520-95-9}}</ref> He studied [[classics]] at [[King's College London]], graduating with a [[Bachelor of Arts]] (BA) degree in 1967.<ref name="Who Was Who" /> He remained at King's to study theology in preparation for ordination, completing a [[Bachelor of Divinity]] (BD) degree and the [[Associateship of King's College]] (AKC) qualification in 1970.<ref name="Who Was Who" /><ref name="Crockford">{{Crockford| surname = Crockett | forenames = Phillip Anthony | id = 28832 | accessed = 23 February 2017}}</ref> He then underwent a year of training at [[St Michael's College, Llandaff]], an [[Anglican]] [[theological college]] in Wales, leaving in 1971 to be ordained.<ref name="Crockford" />
+
+==Ordained ministry==
+Crockett was [[ordained]] in the [[Church in Wales]] as a [[Deacon#Anglicanism|deacon]] in 1971 and as a [[Priest#Anglican or Episcopalian|priest]] in 1972.<ref name="Crockford" /> He was a [[curate]] at [[Aberdare]] and [[Whitchurch (Cardiff)]]. From 1978 to 1986 he was [[Vicar]] of Llanafan y Trawsgoed then [[Rector (ecclesiastical)|Rector]] of Dowlai before serving eight years as the [[Secretary]] of the Board of Ministry of the [[Church in Wales]]. A fluent Welsh speaker,<ref>[http://news.bbc.co.uk/welsh/hi/newsid_3680000/newsid_3687500/3687505.stm Esgob: Y cynta i ysgaru (Bishop: first to be divorced)]</ref> his final post before his ordination to the [[episcopate]] was as [[Archdeacon of Carmarthen]] (1999-2004).<ref>''[[Crockford's Clerical Directory]]'' 2008/2009 (100th edition), Church House Publishing, {{ISBN|978-0-7151-1030-0}})</ref>
+
+In 2004, Crockett became the [[Bishop of Bangor]].<ref>''[[Who's Who]]'' 2008: London: [[A & C Black]], 2008 {{ISBN|978-0-7136-8555-8}}</ref>
+
+==Personal life==
+Crockett was the first divorced person in the United Kingdom to be appointed as a bishop in a mainstream church, amidst some controversy.<ref>[https://www.independent.co.uk/news/obituaries/the-right-rev-anthony-crockett-forthright-bishop-of-bangor-865003.html - "The Right Rev Anthony Crockett: Forthright Bishop of Bangor"], ''[[The Independent]]'', 11 July 2008.</ref><ref name=BBC/> In 1985 he separated from his first wife, with whom he had three children. He married Caroline Ann Owen (born 1959) in 1999<ref name=BBC>{{cite web | url = http://news.bbc.co.uk/1/hi/wales/north_west/3683099.stm| title = First divorced bishop appointed| publisher = BBC News|accessdate = 2012-08-30}}</ref> and also ordained her in 2006.<ref>[https://www.telegraph.co.uk/news/obituaries/2230584/The-Right-Reverend-Anthony-Crockett.html "The Right Reverend Anthony Crockett"], ''[[The Daily Telegraph]]'', 1 July 2008.</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{Portal|Christianity}}
+
+{{S-start}}
+{{S-rel|wa}}
+{{S-bef|before=[[Saunders Davies]]}}
+{{S-ttl|title=[[Bishop of Bangor]]|years=2004–2008}}
+{{S-aft|after=[[Andrew John]]}}
+{{S-end}}
+
+{{Bishops of Bangor since 1908}}
+{{Archdeacons of Carmarthen}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Crockett, Anthony}}
+[[Category:1945 births]]
+[[Category:Alumni of King's College London]]
+[[Category:Associates of King's College]]
+[[Category:20th-century Welsh Anglican priests]]
+[[Category:Archdeacons of Carmarthen]]
+[[Category:Bishops of Bangor]]
+[[Category:21st-century Anglican bishops]]
+[[Category:2008 deaths]]
+[[Category:People educated at Pontypridd High School]]
+[[Category:Alumni of St Michael's College, Llandaff]]

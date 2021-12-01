@@ -1,0 +1,60 @@
+{{short description|French table tennis player}}
+{{Infobox table tennis player
+| name = Adrien Mattenet
+| image = GF8C1973Adrien Mattenet.JPG
+| caption = Mattenet in 2011
+| fullname = Adrien Mattenet
+| nationality = {{FRA}}
+| playingstyle = [[Table tennis styles#Shakehand styles|Shakehand]]
+| hrank = 19 (December 2011)<ref name="ITTF ranking" />
+| club = [[AS Pontoise-Cergy TT]]
+| birth_date = {{Birth date and age|1987|10|15}}
+| birth_place = [[Eaubonne]], France
+| height = {{height| m=1.87|precision=0}}<ref name="ITTF biography" />
+| weight = {{convert| 73|kg|lb st| abbr=on}}<ref name="ITTF biography" />
+| show-medals = yes
+| medaltemplates = 
+{{MedalSport | Men's [[table tennis]] }}
+{{MedalCountry | {{FRA}} }}
+{{MedalCompetition | [[European Games]] }}
+{{MedalSilver | [[2015 European Games|2015 Baku]] | [[Table tennis at the 2015 European Games – Men's team|Team]] }}
+{{MedalCompetition | European Championships }}
+{{MedalBronze | 2010 Ostrava | Men's Team }}
+{{MedalCompetition | [[Mediterranean Games]] }}
+{{MedalGold | [[2009 Mediterranean Games|2009 Pescara]] | Doubles }}
+}}
+
+'''Adrien Mattenet''' (born October 15, 1987) is a [[France|French]] [[table tennis]] player, currently playing for [[AS Pontoise-Cergy TT]].<ref name="ITTF biography">{{cite web |url=http://www.ittf.com/biography/biography_web_details.asp?Player_ID=105937 |title=MATTENET Adrien |publisher=ITTF |accessdate=January 16, 2012 |archive-url=https://web.archive.org/web/20160304230411/http://www.ittf.com/biography/biography_web_details.asp?Player_ID=105937 |archive-date=2016-03-04 |url-status=dead }}</ref><ref>{{cite web |url=http://www.ittf.com/ittf_stats/All_events3.asp?ID=10302 |title=MATTENET Adrien (FRA) |publisher=ITTF |accessdate=January 16, 2012 |archive-url=https://web.archive.org/web/20160303235848/http://www.ittf.com/ittf_stats/All_events3.asp?ID=10302 |archive-date=2016-03-03 |url-status=dead }}</ref> His World Ranking is at number 19 as of December 2011, the best ranking for a French player since [[Christophe Legout]] in 2001.<ref name="ITTF ranking">{{cite web |url=http://www.ittf.com/ittf_ranking/world_ranking_per_name.asp?Siniors=1&Player_ID=105937 |title=World ranking Record for MATTENET Adrien (FRA) |publisher=ITTF |accessdate=December 9, 2011}}</ref><ref>{{cite web |url=https://www.lequipe.fr/Aussi/breves2011/20111201_171945_mattenet-dans-le-top-20.html |title=Mattenet dans le Top 20 |date=December 1, 2011 |work=L'Equipe.fr |accessdate=January 16, 2012 |archive-url=https://web.archive.org/web/20120103110633/http://www.lequipe.fr/Aussi/breves2011/20111201_171945_mattenet-dans-le-top-20.html |archive-date=2012-01-03 |url-status=dead }}</ref>
+
+In May 2011, Mattenet was the first Frenchman to qualify for the [[London 2012 Olympic Games]] by beating [[Singapore]]'s [[Gao Ning]] to reach the Quarterfinals of the [[World Table Tennis Championships|2011 World Championships]]. At the 2012 Olympics, he lost to [[Chen Weixing]] in the fourth round.<ref>{{Cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/ma/adrien-mattenet-1.html |archive-url=https://web.archive.org/web/20200417194425/https://www.sports-reference.com/olympics/athletes/ma/adrien-mattenet-1.html |url-status=dead |archive-date=2020-04-17 |title=Adrien Mattenet |access-date=2017-05-06}}</ref>  In June 2015, he competed in the [[European Games 2015|inaugural European Games]], for [[France at the 2015 European Games|France]] in [[Table tennis at the 2015 European Games|table tennis]], more specifically, Men's team with [[Simon Gauzy]] and [[Emmanuel Lebesson]]. He earned a silver medal.
+
+==See also==
+* [[List of table tennis players]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{ITTF|105937}}
+** {{Cite web |url=http://www.old.ittf.com/biography/biography_web_details.asp?Player_ID=105937 |title=Adrien Mattenet at old.ittf.com |access-date=June 25, 2018 |archive-url=https://web.archive.org/web/20170111090343/http://www.old.ittf.com/biography/biography_web_details.asp?Player_ID=105937 |archive-date=January 11, 2017 |url-status=bot: unknown |df=mdy-all }}
+** {{Cite web |url=http://www.ittfranking.com/cgi-bin/ttplayer.cgi?number=105937&lang=0&format=summary |title=Adrien Mattenet at ittfranking.com |access-date=June 25, 2018 |archive-url=https://web.archive.org/web/20140801171231/http://www.ittfranking.com/cgi-bin/ttplayer.cgi?number=105937&lang=0&format=summary |archive-date=August 1, 2014 |url-status=bot: unknown |df=mdy-all }}
+* {{IOC profile|adrien-mattenet}}
+* {{CNOSF profile|7/mattenet-132197|Adrien Mattenet}}
+
+{{DEFAULTSORT:Mattenet, Adrien}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:French male table tennis players]]
+[[Category:Olympic table tennis players of France]]
+[[Category:Table tennis players at the 2012 Summer Olympics]]
+[[Category:European Games silver medalists for France]]
+[[Category:Table tennis players at the 2015 European Games]]
+[[Category:Mediterranean Games gold medalists for France]]
+[[Category:Competitors at the 2009 Mediterranean Games]]
+[[Category:Universiade medalists in table tennis]]
+[[Category:Mediterranean Games medalists in table tennis]]
+[[Category:Universiade silver medalists for France]]
+[[Category:Universiade bronze medalists for France]]
+[[Category:European Games medalists in table tennis]]
+[[Category:Medalists at the 2009 Summer Universiade]]
+[[Category:Medalists at the 2011 Summer Universiade]]

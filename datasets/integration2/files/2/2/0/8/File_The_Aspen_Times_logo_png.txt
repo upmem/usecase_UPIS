@@ -1,0 +1,24 @@
+== Summary ==
+{{logo fur
+<!-- REQUIRED -->
+ |Article           = The Aspen Times
+ |Use               = Org
+<!-- HIGHLY RECOMMENDED -->
+ |Source            = https://www.aspentimes.com/news/mcbrides-vertical-vision-doesnt-cut-too-deep/
+<!-- ADDITIONAL INFORMATION -->
+ |Used for          = 
+ |Owner             = 
+ |Website           = 
+ |History           = 
+ |Commentary        = 
+<!-- OVERRIDE FIELDS -->
+ |Description       = 
+ |Portion           = full logo
+ |Low_resolution    = yes
+ |Purpose           = 
+ |Replaceability    = 
+ |other_information = 
+}}
+{{non-free logo}}
+== Licensing ==
+{{Non-free logo}}

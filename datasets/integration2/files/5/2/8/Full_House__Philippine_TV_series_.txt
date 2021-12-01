@@ -1,0 +1,90 @@
+{{short description|Philippine television series}}
+{{Use mdy dates|date=July 2018}}
+{{Infobox television
+| name = Full House
+| image = Full House title card.jpg
+| caption = Title card
+| genre = {{plainlist|
+* [[Drama (film and television)|Drama]]
+* [[Romantic comedy]]}}
+| runtime = 30-45 minutes
+| creator = Won Soo-yeon
+| based_on = ''[[Full House (South Korean TV series)|Full House]]'' {{small|(2004)}}
+| developer = Denoy Navarro-Punio
+| director = [[Mark A. Reyes]]
+| executive_producer = Wilma Galvante
+| starring = {{plainlist|
+* [[Richard Gutierrez]]
+* [[Heart Evangelista]]}}
+| theme_music_composer = {{plainlist|
+* Arnold Buena
+* Janno Gibbs}}
+| opentheme = "Fallin'" by [[Janno Gibbs]]
+| endtheme = "I Haven't Stopped Loving You" by Janno Gibbs
+| country = Philippines
+| location = {{plainlist|
+* Philippines
+* Czech Republic}}
+| language = Tagalog
+| network = [[GMA Network]]
+| picture_format = [[480i]] ([[SDTV]])
+| company = GMA Entertainment TV
+| camera = [[Multiple-camera setup]]
+| first_aired = {{start date|2009|11|30}}
+| last_aired = {{end date|2010|2|26}}
+| num_episodes = 65
+}}
+
+'''''Full House''''' is a [[Philippine television drama]] romantic comedy series broadcast by [[GMA Network]]. The series is based on a 2004 South Korean television series of the [[Full House (South Korean TV series)|same title]]. Directed by [[Mark A. Reyes]], it stars [[Richard Gutierrez]] and [[Heart Evangelista]]. It premiered on November 30, 2009 on the network's Telebabad line up replacing ''[[Rosalinda (Philippine TV series)|Rosalinda]]''. The series concluded on February 26, 2010 with a total of 65 episodes. It was replaced by ''[[Diva (2010 TV series)|Diva]]'' in its timeslot.
+
+==Cast and characters==
+{{multiple image
+|direction = vertical
+|align = right
+|image1 = Heart Evangelista, 2012 (cropped).jpg
+|caption1 = Heart Evangelista portrays Jessie Asuncion.
+|width1 = 150
+|image2 = Shake, Rattle and Roll XV Official Trailer - John Lapus.jpg
+|caption2 = John Lapus portrays Chicky.
+|width2 = 150
+}}
+
+;Lead cast
+*[[Richard Gutierrez]] as Justin Lazatin<ref>{{Cite news|url=http://www.pep.ph/news/22615/Richard-Gutierrez-and-Heart-Evangelista-will-reunite-%E2%80%94-this-time-on-the-big-screen|title=Richard Gutierrez and Heart Evangelista will reunite — this time on the big screen |author=Erece, Dinno |date=July 27, 2009 |work=Pep.ph |accessdate=September 25, 2018}}</ref>
+*[[Heart Evangelista]] as Maria Jesusa "Jessie" Asuncion - Lazatin<ref>http://www.pep.ph/peparazzi/view/2680/Heart-Evangelista-tapped-to-play-lead-in-Full-House {{Webarchive|url=https://web.archive.org/web/20091002234554/http://www.pep.ph/peparazzi/view/2680/Heart-Evangelista-tapped-to-play-lead-in-Full-House |date=October 2, 2009 }} Heart Evangelista tapped to play lead in Full House</ref>
+
+;Supporting cast
+*[[Isabel Oli]] as Elaine Villavicencio<ref>http://www.igma.tv/shows/fullhouse</ref>
+*[[Patrick Garcia]] as Luigi Mondragon<ref>http://www.igma.tv/shows/fullhouse</ref>
+*[[Pilita Corrales]] as Anita Lazatin
+*[[Ronaldo Valdez]] as Lorenzo Lazatin
+*Raquel Villavicencio as Liling Lazatin
+*[[Sheena Halili]] as Lisette Montemayor - Asuncion
+*[[Rainier Castillo]] as Donald Asuncion
+*[[Keempee de Leon]] as Mr. H
+*[[Epi Quizon]] as Jerry
+*[[John Lapus]] as Chicky
+*[[Marky Lopez]] as Marlon
+*[[Chariz Solomon]] as Maya
+
+==Ratings==
+According to [[AGB Nielsen Philippines]]' Mega Manila household television ratings, the pilot episode of ''Full House'' earned a 24.5% rating.<ref>{{cite web|URL=https://www.pep.ph/guide/tv/5207/agb-mega-manila-tv-ratings-nov-27-dec-1-24-oras-and-darna-share-weeknight-primetime-leadership |title=AGB Mega Manila TV Ratings (Nov. 27-Dec. 1): 24 Oras and Darna share weeknight primetime leadership |author=Santiago, Erwin |date=December 2, 2009 |accessdate=March 7, 2018}}</ref> While the final episode scored a 29.8% rating.<ref>{{cite web|URL=https://www.pep.ph/news/24873/agb-mega-manila-tv-ratings-feb-26-march-1-pilipinas-got-talent-rules-weekend-primetime-viewing |title=AGB Mega Manila TV Ratings (Feb. 26-March 1): Pilipinas Got Talent rules weekend primetime viewing |author=Santiago, Erwin |date=March 2, 2010 |accessdate=March 6, 2018}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|1556772}}
+
+{{Mark A. Reyes}}
+
+[[Category:2009 Philippine television series debuts]]
+[[Category:2010 Philippine television series endings]]
+[[Category:Filipino-language television shows]]
+[[Category:GMA Network drama series]]
+[[Category:Philippine romantic comedy television series]]
+[[Category:Philippine television series based on South Korean television series]]
+[[Category:Television shows set in the Czech Republic]]
+[[Category:Television shows set in the Philippines]]
+
+{{Philippines-tv-prog-stub}}

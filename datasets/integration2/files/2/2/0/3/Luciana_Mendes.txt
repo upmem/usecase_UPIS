@@ -1,0 +1,266 @@
+'''Luciana de Paula Mendes''' (born 26 July 1971 in [[Rio de Janeiro]]<ref>[https://web.archive.org/web/20200418015321/https://www.sports-reference.com/olympics/athletes/me/luciana-mendes-1.html Sports-Reference profile]</ref>) is a retired [[Brazil]]ian athlete who competed predominantly in the [[400 metres|400]] and [[800 metres]].<ref>{{iaaf name|id=62648}}</ref> She represented her country at the [[1996 Summer Olympics|1996]] and [[2004 Summer Olympics]] reaching the semifinals on the second occasion. She also won multiple medals at the continental level.
+
+Her 800 and 1000 metres personal bests are the current [[Brazilian records in athletics|national records]].
+
+==Competition record==
+{| {{AchievementTable|Event=yes}}
+|-
+!colspan="6"|Representing {{BRA}}
+|-
+|rowspan=2|1988
+|rowspan=2|[[1988 South American Junior Championships in Athletics|South American Junior Championships]]
+|rowspan=2|[[Cubatão, Brazil]]
+|bgcolor=gold|1st
+|400 m
+|55.49
+|-
+|bgcolor=gold|1st
+|4x400 m relay
+|3:41.52
+|-
+|rowspan=4|1989
+|rowspan=2|[[1989 South American Junior Championships in Athletics|South American Junior Championships]]
+|rowspan=2|[[Montevideo, Uruguay]]
+|bgcolor=silver|2nd
+|400 m
+|55.49
+|-
+|bgcolor=gold|1st
+|4x400 m relay
+|3:40.7
+|-
+|rowspan=2|[[1989 Pan American Junior Athletics Championships|Pan American Junior Championships]]
+|rowspan=2|[[Santa Fe, Argentina]]
+|7th
+|400 m
+|55.28
+|-
+|bgcolor=cc9966|3rd
+|4x400 m relay
+|3:40.87
+|-
+|rowspan=2|1990
+|rowspan=2|[[1990 South American Junior Championships in Athletics|South American Junior Championships]]
+|rowspan=2|[[Bogotá, Colombia]]
+|bgcolor=gold|1st
+|400 m
+|54.85
+|-
+|bgcolor=gold|1st
+|4x400 m relay
+|3:45.12
+|-
+|1991
+|[[1991 South American Championships in Athletics|South American Championships]]
+|[[Manaus, Brazil]]
+|bgcolor=silver|2nd
+|800 m
+|2:04.44
+|-
+|rowspan=2|1992
+|rowspan=2|[[1992 Ibero-American Championships in Athletics|Ibero-American Championships]]
+|rowspan=2|[[Seville]], [[Spain]]
+|5th (h)<ref>Did not show in the final</ref>
+|400m
+|[[1992 Ibero-American Championships in Athletics – Results#400 meters 2|54.90]]
+|-
+|7th
+|800m
+|[[1992 Ibero-American Championships in Athletics – Results#800 meters 2|2:07.02]]
+|-
+|rowspan=3|1993
+|rowspan=2|[[1993 South American Championships in Athletics|South American Championships]]
+|rowspan=2|[[Lima, Peru]]
+|bgcolor=silver|2nd
+|400 m
+|53.06
+|-
+|bgcolor=silver|2nd
+|800 m
+|2:04.5
+|-
+|[[1993 World Championships in Athletics|World Championships]]
+|[[Stuttgart, Germany]]
+|24th (h)
+|800 m
+|[[1993 World Championships in Athletics – Women's 800 metres|2:03.55]]
+|-
+|rowspan=3|1994
+|[[1994 IAAF World Cup|World Cup]]
+|[[London, United Kingdom]]
+|bgcolor=silver|2nd
+|800 m
+|[[1994 IAAF World Cup results#800 m|2:00.13]]<ref>Representing the Americas</ref>
+|-
+|rowspan=2|[[Athletics at the 1994 South American Games|South American Games]]
+|rowspan=2|[[Valencia, Venezuela]]
+|bgcolor=cc9966|3rd
+|400 m
+|
+|-
+|bgcolor=silver|2nd
+|800 m
+|2:01.99
+|-
+|rowspan=5|1995
+|rowspan=3|[[Athletics at the 1995 Pan American Games|Pan American Games]]
+|rowspan=3|[[Mar del Plata, Argentina]]
+|10th (h)
+|400 m
+|[[Athletics at the 1995 Pan American Games – Women's 400 metres|55.56]]
+|-
+|bgcolor=silver|2nd
+|800 m
+|[[Athletics at the 1995 Pan American Games – Women's 800 metres|2:01.71]]
+|-
+| –
+|4x400 m relay
+|[[Athletics at the 1995 Pan American Games – Women's 4 × 400 metres relay|DQ]]
+|-
+|[[1995 South American Championships in Athletics|South American Championships]]
+|[[Manaus, Brazil]]
+|bgcolor=silver|2nd
+|400 m
+|2:03.56
+|-
+|[[1995 World Championships in Athletics|World Championships]]
+|[[Gothenburg, Sweden]]
+|21st (h)
+|800 m
+|[[1995 World Championships in Athletics – Women's 800 metres|2:01.82]]
+|-
+|rowspan=3|1996
+|rowspan=2|[[1996 Ibero-American Championships in Athletics|Ibero-American Championships]]
+|rowspan=2|[[Medellín, Colombia]]
+|9th (h)
+|400 m
+|[[1996 Ibero-American Championships in Athletics – Results#400 meters 2|55.44]]
+|-
+|bgcolor=silver|2nd
+|4x400 m relay
+|[[1996 Ibero-American Championships in Athletics – Results#4 x 400 meters relay 2|3:34.34]]
+|-
+|[[Athletics at the 1996 Summer Olympics|Olympic Games]]
+|[[Atlanta, United States]]
+|16th (h)
+|800 m
+|[[Athletics at the 1996 Summer Olympics – Women's 800 metres|2:00.25]]
+|-
+|rowspan=2|1997
+|[[1997 South American Championships in Athletics|South American Championships]]
+|[[Mar del Plata, Argentina]]
+|bgcolor=gold|1st
+|800 m
+|2:03.56
+|-
+|[[1997 World Championships in Athletics|World Championships]]
+|[[Athens, Greece]]
+|6th (sf)
+|800 m
+|[[1997 World Championships in Athletics – Women's 800 metres|1:59.45]]
+|-
+|rowspan=2|1999
+|rowspan=2|[[1999 South American Championships in Athletics|South American Championships]]
+|rowspan=2|[[Bogotá, Colombia]]
+|bgcolor=gold|1st
+|800 m
+|[[1999 South American Championships in Athletics – Results#800 meters|2:05.62]]
+|-
+|bgcolor=silver|2nd
+|4x400 m relay
+|[[1999 South American Championships in Athletics – Results#800 meters|3:37.88]]
+|-
+|rowspan=2|2000
+|rowspan=2|[[2000 Ibero-American Championships in Athletics|Ibero-American Championships]]
+|rowspan=2|[[Rio de Janeiro, Brazil]]
+|bgcolor=cc9966|3rd
+|400 m
+|[[2000 Ibero-American Championships in Athletics – Results#400 meters 2|53.18]]
+|-
+|bgcolor=gold|1st
+|800 m
+|[[2000 Ibero-American Championships in Athletics – Results#800 meters 2|2:01.77]]
+|-
+|rowspan=4|2001
+|rowspan=3|[[2001 South American Championships in Athletics|South American Championships]]
+|rowspan=3|[[Manaus, Brazil]]
+|bgcolor=gold|1st
+|400 m
+|[[2001 South American Championships in Athletics – Results#400 meters 2|52.76]]
+|-
+|bgcolor=gold|1st
+|800 m
+|[[2001 South American Championships in Athletics – Results#800 meters 2|2:00.04]]
+|-
+|bgcolor=gold|1st
+|4x400 m relay
+|[[2001 South American Championships in Athletics – Results#4 x 400 meters relay 2|3:32.43]]
+|-
+|[[2001 World Championships in Athletics|World Championships]]
+|[[Edmonton, Canada]]
+|8th (sf)
+|800 m
+|[[2001 World Championships in Athletics – Women's 800 metres|2:01.94]]
+|-
+|rowspan=3|2003
+|[[2003 South American Championships in Athletics|South American Championships]]
+|[[Barquisimeto, Venezuela]]
+|bgcolor=gold|1st
+|800 m
+|[[2003 South American Championships in Athletics – Results#800 meters 2|2:02.06]]
+|-
+|rowspan=2|[[Athletics at the 2003 Pan American Games|Pan American Games]]
+|rowspan=2|[[Santo Domingo, Dominican Republic]]
+|5th
+|800 m
+|[[Athletics at the 2003 Pan American Games – Women's 800 metres|2:05.52]]
+|-
+|8th
+|1500 m
+|[[Athletics at the 2003 Pan American Games – Women's 1500 metres|4:21.80]]
+|-
+|rowspan=2|2004
+|[[2004 Ibero-American Championships in Athletics|Ibero-American Championships]]
+|[[Huelva, Spain]]
+|5th
+|800 m
+|[[2004 Ibero-American Championships in Athletics – Results#800 meters 2|2:03.36]]
+|-
+|[[Athletics at the 2004 Summer Olympics|Olympic Games]]
+|[[Athens, Greece]]
+|21st (sf)
+|800 m
+|[[Athletics at the 2004 Summer Olympics – Women's 800 metres|2:02.00]]
+|}
+
+==Personal bests==
+*[[400 metres]] – 52.76 (Manaus 2001)
+*[[600 metres]] – 1:25.05 (Liège 2004)
+*[[800 metres]] – 1:58.27 (Hechtel 1994)
+*[[1000 metres]] – 2:36.30 (Brussels 1995)
+*[[1500 metres]] – 4:20.81 (São Paulo 2003)
+
+==References==
+{{Reflist}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Mendes, Luciana}}
+[[Category:1971 births]]
+[[Category:Brazilian female middle-distance runners]]
+[[Category:Sportspeople from Rio de Janeiro (city)]]
+[[Category:Athletes (track and field) at the 1996 Summer Olympics]]
+[[Category:Athletes (track and field) at the 2004 Summer Olympics]]
+[[Category:Olympic athletes of Brazil]]
+[[Category:Living people]]
+[[Category:Pan American Games medalists in athletics (track and field)]]
+[[Category:Pan American Games silver medalists for Brazil]]
+[[Category:Athletes (track and field) at the 1995 Pan American Games]]
+[[Category:Athletes (track and field) at the 2003 Pan American Games]]
+[[Category:South American Games bronze medalists for Brazil]]
+[[Category:South American Games medalists in athletics]]
+[[Category:Competitors at the 1994 South American Games]]
+
+
+{{Brazil-athletics-bio-stub}}

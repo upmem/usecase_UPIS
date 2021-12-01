@@ -1,0 +1,72 @@
+{{Use dmy dates|date=September 2020}}
+{{Infobox album
+| name       = Cosa resta... Un fiore
+| type       = studio
+| artist     = [[Alice (Italian singer)|Alice]]
+| cover      = Alice - Cosa Resta... Un Fiore.jpg
+| alt        =
+| released   = 1978
+| recorded   = 1977
+| venue      =
+| studio     =
+| genre      = Pop Music, [[Vocal music|vocal]]
+| length     =
+| label      = [[Columbia Records|CBS]]
+| producer   = Giancarlo Lucariello
+| prev_title = [[La mia poca grande età]]
+| prev_year  = 1975
+| next_title = [[Capo Nord (album)|Capo Nord]]
+| next_year  = 1980
+}}
+
+'''''Cosa resta... Un fiore''''' is the second studio album by Italian singer-songwriter [[Alice (Italian singer)|Alice]], released under the stage name 'Alice Visconti' in 1978 on [[Columbia Records|CBS Records]].
+
+The track "Io voglio vivere", which had been a minor hit in 1975, was again included on this album, and a Spanish-language version entitled "Dices que he sido infiel" was also released in Spain. Both were again moderately successful and "Dices que he sido infiel" remains the one and only Castilian recording in Alice's career to date.
+
+The ''Cosa resta... Un fiore'' album was re-released on CD in Japan in 2006 in [[Warner Music]]'s ''European Rock Collection'' series.
+
+==Track listing==
+;Side A
+#"Un fiore" (Luigi Lopez, Carla Vistarini) – 4:29
+#"Un'isola" (Luigi Lopez, Carla Vistarini) – 4:41
+#"Una mia semplice storia" ([[Pooh (band)|Stefano D'Orazio]], [[Renato Brioschi]]) – 3:37 
+#"Chi mi apprezza e chi disprezza" (Stefano D'Orazio, Marcello Aitiani, Mercurio) – 2:57
+#"Io voglio vivere" (Stefano D'Orazio, Renato Brioschi, [[Cristiano Minellono]]) – 5:22
+
+;Side B
+#"Senza l'amore" (Luigi Lopez, Carla Vistarini) – 4:26 
+#"Alberi" (Luigi Lopez) – 4:01
+#"Cose" (Luigi Lopez, Carla Vistarini) – 3:42 
+#"...E respiro" ([[Riccardo Fogli]], Danilo Vaona) – 4:21 
+#"Mondo a matita" (Luigi Lopez, Carla Vistarini) – 5:45
+
+==Personnel==
+* Alice Visconti – lead vocals, piano
+* Danilo Vaona –  piano, [[Polymoog]], [[Minimoog]], [[Hammond organ]], [[ARP String Ensemble|Eminent]], [[mellotron]], [[harpsichord]], [[Bell (instrument)|bells]], [[Hohner]], Celeste, Sistro, Fender piano
+* Mino Fabiano – bass guitar
+* Gianni D'Aquila – drums, [[timpani]], percussion instruments
+* Massimo Luca – electric and acoustic guitars
+* Enzo Giuffrè – electric and acoustic guitars
+* Luigi Lopez – electric and acoustic guitars
+* F. Mancini – harmonica
+* Marlaena Kessick – flute, Ottavino
+
+==Production==
+* Giancarlo Lucariello – record producer
+* Danilo Vaona – musical arranger, [[orchestral conductor]] 
+* Enzo Maffione – [[sound engineer]]
+* Recorded at Double Recording Studios, [[Milan]]
+* Luciano Tallarini – [[graphic design]]
+* Mauro Balletti – photography
+
+==Sources and external links==
+*[{{Allmusic|class=album|id=r28875|pure_url=yes}} Allmusic entry]
+*{{discogs master|371192|Cosa resta... Un fiore|type=album}}
+
+
+{{Alice (Italian singer)}}
+
+[[Category:1978 albums]]
+[[Category:Alice (singer) albums]]
+[[Category:Columbia Records albums]]
+[[Category:Italian-language albums]]

@@ -1,0 +1,120 @@
+{{Use dmy dates|date=August 2020}}
+{{Use Irish English|date=August 2020}}
+{{Infobox church
+| name                 = Killaloe Cathedral
+| fullname             = St Flannan's Cathedral, Killaloe 
+| image                = KillaloeCathedral.jpg
+| landscape            = 
+| caption              = St Flannan's Cathedral 
+| location             = [[Killaloe, County Clare]]
+| country              = [[Republic of Ireland|Ireland]]
+| coordinates          = 
+| denomination         = [[Church of Ireland]]
+| attendance           = Average of 25–30
+| website              = [http://cathedral.killaloe.anglican.org/ Official website]
+| founder              = 
+| dedication           = [[Saint Flannan]]
+| dedicated date       = 
+| consecrated date     = 
+| cult                 = 
+| relics               = 
+| events               = 
+| past bishop          = 
+| people               = 
+| status               = 
+| functional status    = In use
+| heritage designation = National Monument
+| designated date      = 
+| architect            = 
+| architectural type   = 
+| style                = 
+| groundbreaking       = 
+| completed date       = 1225
+| construction cost    = 
+| closed date          = 
+| demolished date      = 
+| capacity             = 400
+| length               = 
+| width                = 
+| width nave           = 
+| height               =
+| diameter             = 
+| other dimensions     = 
+| floor count          = 
+| floor area           = 
+| dome quantity        = 
+| dome height outer    = 
+| dome height inner    = 
+| dome dia outer       = 
+| dome dia inner       = 
+| spire quantity       = 
+| spire height         = 
+| materials            = 
+| parish               = 
+| deanery              = 
+| archdeaconry         = 
+| diocese              = [[United Diocese of Limerick and Killaloe]]
+| province             = [[Province of Dublin (Church of Ireland)|Province of Dublin]]
+| presbytery           = 
+| synod                = 
+| circuit              = 
+| district             = 
+| division             = 
+| subdivision          = 
+| archbishop           = 
+| bishop               = The Right Reverend [[Kenneth Kearon]]
+| dean                 = The Very Reverend Gary Paulsen
+| subdean              = 
+| provost              = 
+| provost-rector       = 
+| viceprovost          = 
+| canon                = 
+| canonpastor          = 
+| precentor            = 
+| archdeacon           = The Venerable R. W. Carney
+| prebendary           = 
+| rector               = 
+| vicar                = 
+| curate               = The Reverend L. Green
+| organistdom          = Trevor Selby
+}}
+'''The Cathedral Church of St Flannan, Killaloe''' ({{IPAc-en|ˌ|k|ɪ|l|ə|ˈ|l|uː}} {{respell|kil|ə|LOO}}) is a [[cathedral]] of the [[Church of Ireland]] in [[Killaloe, County Clare]] in [[Republic of Ireland|Ireland]]. It is in the [[ecclesiastical province]] of [[Province of Dublin (Church of Ireland)|Dublin]].
+
+Previously the cathedral of the [[Diocese of Killaloe]], it is now one of three cathedrals in the [[Diocese of Limerick and Killaloe|United Dioceses of Limerick and Killaloe]]. The Dean of the Cathedral is the Very Reverend Gary Paulsen who is also [[Dean of Killaloe]], [[Dean of Kilfenora]] and both Dean and Provost of [[Kilmacduagh]]
+
+==Architecture==
+Killaloe Cathedral dates from the transition between the Romanesque and Gothic periods.{{when|date=August 2016}} The font is decorated with arabesque ornaments.<ref>"[https://archive.org/details/cathedralsofthec027771mbp/page/n176/mode/1up The Cathedrals of the Church of Ireland"] [[John Godfrey FitzMaurice Day|Day, J.G.F./]] [[Henry Edmund Patton|Patton, H.E.]] p147: [[London]], [[SPCK|S.P.C.K.]], [[1932]]</ref> On the north side of the cathedral is a small oratory or chapel of a date far prior to the cathedral; and probably the original sanctuary of the holy man who founded the abbey. Its roof is very deep, and made entirely of stone; it has a belfry, and two doorways to the east and west.<ref>''Journal of a Tour in Ireland, A.D. 1806'' by Richard Colt Hoare</ref>
+
+In the bell tower is a chime of eight bells cast by Matthew O'Byrne of Dublin in 1896. The heaviest bell weighs just over 500 kilograms.<ref>{{Cite web|url=https://core.ac.uk/download/pdf/145042134.pdf|title=The Ringing World.|access-date=18 November 2018}}</ref>
+
+==Recent restoration==
+A £200,000 restoration project involving the repair of a Romanesque doorway and the reconstruction of a 12th-century high cross, was completed in 2001. The Kilfenora Cross, embedded in the walls of the Gothic cathedral in the 1930s, is once again free-standing. The imposing 12-ft monument is now in the nave of the building.<ref>[http://ireland.archiseek.com/news/2001/000032.htm Restoration project for St Flannan's Cathedral] {{webarchive|url=https://web.archive.org/web/20081013065828/http://ireland.archiseek.com/news/2001/000032.htm |date=2008-10-13 }}</ref> 
+
+==Burials==
+* [[John Rider (bishop)]]
+
+==Gallery==
+<gallery>
+File:KillaloeCathedralRomanesqueDoorway.jpg|Romanesque doorway
+File:KillaloeCathedralHighCross.jpg|Killaloe High Cross
+File:Killaloe Stone with Ogham and runic inscriptiion - Killaloe-Stein mit Ogham- und Runeninschrift.jpg|Killaloe Stone - front view with [[runic inscriptions|runic inscription]]
+File:Killaloe Stone with Ogham and runic inscription - Killaloe-Stein mit Ogham- und Runeninschrift 02.jpg|Killaloe Stone - side view with [[Ogham inscription]]
+</gallery>
+
+==See also==
+* [[Dean of Killaloe and Clonfert]]
+* [[Ennis Cathedral]]
+
+==References==
+{{reflist}}
+
+{{Tourism in County Clare}}
+{{Cathedrals of the Church of Ireland}}
+
+{{coord|52.8065|N|8.43925|W|source:kolossus-frwiki|display=title}}
+
+[[Category:Diocese of Limerick and Killaloe]]
+[[Category:Anglican cathedrals in the Republic of Ireland]]
+[[Category:National Monuments in County Clare]]
+[[Category:Churches in County Clare|Killaloe]]
+[[Category:Pre-Reformation Roman Catholic cathedrals]]

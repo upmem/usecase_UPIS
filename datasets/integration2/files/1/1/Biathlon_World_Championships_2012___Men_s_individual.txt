@@ -1,0 +1,293 @@
+{{Biathlon World Championships 2012}}
+The men's individual competition of the [[Biathlon World Championships 2012]] was held on March 6, 2012 at 15:15 local time.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SMIN/BT_C51A_1.0.pdf Start list]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+== Results ==
+The race was started at 15:15.<ref>[http://ibu.blob.core.windows.net/docs/1112/BT/SWRL/CH__/SMIN/BT_C73A_1.0.pdf Final Results]</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Bib !! Name !! Country !! Penalties (P+S+P+S) !! Time   !! Deficit
+|-
+| {{gold01}} || 15 || align=left|[[Jakov Fak]] || align=left|{{SLO}} || 1 (0+0+0+1) || 46:48.2 ||
+|-
+| {{silver02}} || 4 || align=left|[[Simon Fourcade]] || align=left|{{FRA}} || 1 (0+0+1+0) || 46:55.2 || +7.0
+|-
+| {{bronze03}} || 28 || align=left|[[Jaroslav Soukup]] || align=left|{{Nowrap|{{CZE}}}} || 1 (0+1+0+0) || 47:00.5 || +12.3
+|-
+| {{sort|04|4}} || 20 || align=left|[[Andreas Birnbacher]] || align=left|{{GER}} || 1 (0+0+0+1) || 47:01.3 || +13.1
+|-
+| {{sort|05|5}} || 9 || align=left|[[Klemen Bauer]] || align=left|{{SLO}} || 1 (0+0+0+1) || 47:04.8 || +16.6
+|-
+| {{sort|06|6}} || 13 || align=left|[[Michal Šlesingr]] || align=left|{{CZE}} || 1 (0+0+1+0) || 47:13.3 || +25.1
+|-
+| {{sort|07|7}} || 12 || align=left|[[Arnd Peiffer]] || align=left|{{GER}} || 2 (0+0+0+2) || 47:24.7 || +36.5
+|-
+| {{sort|08|8}} || 26 || align=left|[[Emil Hegle Svendsen]] || align=left|{{NOR}} || 2 (1+1+0+0) || 47:37.4 || +49.2
+|-
+| {{sort|09|9}} || 47 || align=left|[[Sergey Novikov (biathlete)|Sergey Novikov]] || align=left|{{BLR}} || 0 (0+0+0+0) || 47:38.0 || +49.8
+|-
+| 10 || 29 || align=left|[[Fredrik Lindström (biathlete)|Fredrik Lindström]] || align=left|{{SWE}} || 1 (0+1+0+0) || 47:40.2 || +52.0
+|-
+| 11 || 36 || align=left|[[Michael Greis]] || align=left|{{GER}} || 1 (0+0+0+1) || 47:46.4 || +58.2
+|-
+| 12 || 2 || align=left|[[Ondřej Moravec]] || align=left|{{CZE}} || 2 (1+1+0+0) || 47:47.9 || +59.7
+|-
+| 13 || 18 || align=left|[[Daniel Mesotitsch]] || align=left|{{AUT}} || 2 (1+0+1+0) || 48:05.3 || +1:17.1
+|-
+| 14 || 32 || align=left|[[Timofey Lapshin]] || align=left|{{RUS}} || 1 (1+0+0+0) || 48:25.3 || +1:37.1
+|-
+| 15 || 37 || align=left|[[Dominik Landertinger]] || align=left|{{AUT}} || 2 (0+2+0+0) || 48:30.5 || +1:42.3
+|-
+| 16 || 60 || align=left|[[Vladimir Iliev]] || align=left|{{BUL}} || 1 (0+0+0+1) || 48:31.6 || +1:43.4
+|-
+| 17 || 56 || align=left|[[Andriy Deryzemlya]] || align=left|{{UKR}} || 2 (0+1+0+1) || 48:36.1 || +1:47.9
+|-
+| 18 || 16 || align=left|[[Tarjei Bø]] || align=left|{{NOR}} || 4 (2+0+1+1) || 48:58.6 || +2:10.4
+|-
+| 19 || 1 || align=left|[[Krasimir Anev]] || align=left|{{BUL}} || 1 (0+0+1+0) || 49:02.0 || +2:13.8
+|-
+| 20 || 11 || align=left|[[Lukas Hofer]] || align=left|{{ITA}} || 3 (1+1+0+1) || 49:10.5 || +2:22.3
+|-
+| 21 || 35 || align=left|[[Alexey Volkov (biathlete)|Alexey Volkov]] || align=left|{{RUS}} || 2 (1+0+0+1) || 49:15.0 || +2:26.8
+|-
+| 22 || 25 || align=left|[[Markus Windisch]] || align=left|{{ITA}} || 2 (1+0+0+1) || 49:17.2 || +2:29.0
+|-
+| 23 || 38 || align=left|[[Simon Eder]] || align=left|{{AUT}} || 2 (1+0+1+0) || 49:20.5 || +2:32.3
+|-
+| 24 || 40 || align=left|[[Artem Pryma]] || align=left|{{UKR}} || 2 (0+0+1+1) || 49:25.4 || +2:37.2
+|-
+| 25 || 6 || align=left|[[Martin Fourcade]] || align=left|{{FRA}} || 5 (0+2+1+2) || 49:26.7 || +2:38.5
+|-
+| 26 || 99 || align=left|[[Kauri Koiv]] || align=left|{{EST}} || 1 (1+0+0+0) || 49:37.6 || +2:49.4
+|-
+| 27 || 10 || align=left|[[Michail Kletcherov]] || align=left|{{BUL}} || 1 (0+1+0+0) || 49:40.9 || +2:52.7
+|-
+| 28 || 51 || align=left|[[Yan Savitskiy]] || align=left|{{KAZ}} || 1 (0+1+0+0) || 49:52.8 || +3:04.6
+|-
+| 29 || 31 || align=left|[[Vincent Jay]] || align=left|{{FRA}} || 3 (1+0+1+1) || 49:56.5 || +3:08.3
+|-
+| 30 || 92 || align=left|[[Hidenori Isa]] || align=left|{{JPN}} || 0 (0+0+0+0) || 49:57.3 || +3:09.1
+|-
+| 31 || 33 || align=left|[[Jay Hakkinen]] || align=left|{{USA}} || 2 (1+0+0+1) || 50:06.0 || +3:17.8
+|-
+| 32 || 64 || align=left|[[Christian De Lorenzi]] || align=left|{{ITA}} || 3 (1+1+1+0) || 50:16.5 || +3:28.3
+|-
+| 33 || 58 || align=left|[[Tomáš Holubec]] || align=left|{{CZE}} || 2 (0+0+2+0) || 50:18.6 || +3:30.4
+|-
+| 34 || 43 || align=left|[[Janez Marič]] || align=left|{{SVN}} || 3 (0+1+0+2) || 50:21.3 || +3:33.1
+|-
+| 35 || 21 || align=left|[[Dmitry Malyshko]] || align=left|{{RUS}} || 4 (0+2+2+0) || 50:23.4 || +3:35.2
+|-
+| 36 || 5 || align=left|[[Simon Hallenbarter]] || align=left|{{SUI}} || 3 (0+1+0+2) || 50:24.2 || +3:36.0
+|-
+| 37 || 134 || align=left|[[Tomasz Sikora]] || align=left|{{POL}} || 1 (1+0+0+0) || 50:26.6 || +3:38.4
+|-
+| 38 || 23 || align=left|[[Lowell Bailey]] || align=left|{{USA}} || 4 (0+2+1+1) || 50:27.8 || +3:39.6
+|-
+| 39 || 50 || align=left|[[Lars Helge Birkeland]] || align=left|{{NOR}} || 2 (0+0+1+1) || 50:29.5 || +3:41.3
+|-
+| 40 || 45 || align=left|[[Matej Kazar]] || align=left|{{SVK}} || 3 (2+1+0+0) || 50:30.1 || +3:41.9
+|-
+| 41 || 3 || align=left|[[Benjamin Weger]] || align=left|{{SUI}} || 4 (2+1+1+0) || 50:31.0 || +3:42.8
+|-
+| 42 || 42 || align=left|[[Jarkko Kauppinen]] || align=left|{{FIN}} || 2 (0+0+1+1) || 50:41.9 || +3:53.7
+|-
+| 43 || 7 || align=left|[[Christoph Sumann]] || align=left|{{AUT}} || 3 (0+1+2+0) || 50:47.4 || +3:59.2
+|-
+| 44 || 84 || align=left|[[Aliaksandr Babchyn]] || align=left|{{BLR}} || 2 (0+1+1+0) || 50:47.9 || +3:59.7
+|-
+| 45 || 62 || align=left|[[Scott Perras]] || align=left|{{CAN}} || 3 (0+1+0+2) || 50:49.3 || +4:01.1
+|-
+| 46 || 30 || align=left|[[Rune Brattsveen]] || align=left|{{NOR}} || 4 (1+1+1+1) || 50:51.9 || +4:03.7
+|-
+| 47 || 27 || align=left|[[Ole Einar Bjørndalen]] || align=left|{{NOR}} || 5 (1+1+2+1) || 50:56.2 || +4:08.0
+|-
+| 48 || 22 || align=left|[[Björn Ferry]] || align=left|{{SWE}} || 4 (1+1+1+1) || 50:56.9 || +4:08.7
+|-
+| 49 || 49 || align=left|[[Evgeny Abramenko]] || align=left|{{BLR}} || 3 (1+0+1+1) || 50:57.3 || +4:09.1
+|-
+| 50 || 14 || align=left|[[Evgeny Ustyugov]] || align=left|{{RUS}} || 5 (0+1+1+3) || 51:01.0 || +4:12.8
+|-
+| 51 || 44 || align=left|[[Indrek Tobreluts]] || align=left|{{EST}} || 3 (0+0+0+3) || 51:03.3 || +4:15.1
+|-
+| 52 || 34 || align=left|[[Alexis Bœuf]] || align=left|{{FRA}} || 4 (0+2+1+1) || 51:05.4 || +4:17.2
+|-
+| 53 || 8 || align=left|[[Ted Armgren]] || align=left|{{SWE}} || 3 (1+1+0+1) || 51:19.5 || +4:31.3
+|-
+| 54 || 70 || align=left|[[Krzysztof Plywaczyk]] || align=left|{{POL}} || 2 (2+0+0+0) || 51:25.6 || +4:37.4
+|-
+| 55 || 52 || align=left|[[Ivan Joller]] || align=left|{{SUI}} || 3 (1+1+0+1) || 51:25.7 || +4:37.5
+|-
+| 56 || 24 || align=left|[[Tim Burke (biathlete)|Tim Burke]] || align=left|{{USA}} || 5 (0+2+1+2) || 51:26.3 || +4:38.1
+|-
+| 57 || 78 || align=left|[[Priit Viks]] || align=left|{{EST}} || 2 (0+0+1+1) || 51:41.3 || +4:53.1
+|-
+| 58 || 61 || align=left|[[Olexander Bilanenko]] || align=left|{{UKR}} || 3 (1+1+0+1) || 51:44.0 || +4:55.8
+|-
+| 59 || 54 || align=left|[[Alexandr Chervyhkov]] || align=left|{{KAZ}} || 3 (0+1+0+2) || 52:08.4 || +5:20.2
+|-
+| 60 || 19 || align=left|[[Serhiy Semenov]] || align=left|{{UKR}} || 5 (2+1+1+1) || 52:16.1 || +5:27.9
+|-
+| 61 || 100 || align=left|[[Nathan Smith (biathlete)|Nathan Smith]] || align=left|{{CAN}} || 4 (2+2+0+0) || 52:17.6 || +5:29.4
+|-
+| 62 || 59 || align=left|[[Junji Nagai]] || align=left|{{JPN}} || 3 (1+1+0+1) || 52:23.8 || +5:35.6
+|-
+| 63 || 109 || align=left|[[Vladimir Alenishko]] || align=left|{{BLR}} || 3 (1+1+0+1) || 52:24.1 || +5:35.9
+|-
+| 64 || 55 || align=left|[[Mario Dolder]] || align=left|{{SUI}} || 4 (1+2+1+0) || 52:26.5 || +5:38.3
+|-
+| 65 || 87 || align=left|[[Edgars Piksons]] || align=left|{{LAT}} || 1 (0+0+0+1) || 52:28.3 || +5:40.1
+|-
+| 66 || 72 || align=left|[[Martin Otcenas]] || align=left|{{SVK}} || 3 (2+1+0+0) || 52:45.5 || +5:57.3
+|-
+| 67 || 57 || align=left|[[Roland Lessing]] || align=left|{{EST}} || 4 (2+0+0+2) || 52:47.0 || +5:58.8
+|-
+| 68 || 46 || align=left|[[Andrejs Rastorgujevs]] || align=left|{{LAT}} || 5 (2+0+1+2) || 52:57.5 || +6:09.3
+|-
+| 69 || 89 || align=left|[[Marc-André Bédard (biathlete)|Marc-André Bédard]] || align=left|{{CAN}} || 4 (0+1+1+2) || 53:01.8 || +6:13.6
+|-
+| 70 || 53 || align=left|[[Dušan Šimočko]] || align=left|{{SVK}} || 5 (1+0+2+2) || 53:03.0 || +6:14.8
+|-
+| 71 || 17 || align=left|[[Jean-Philippe Leguellec]] || align=left|{{CAN}} || 6 (1+2+2+1) || 53:08.6 || +6:20.4
+|-
+| 72 || 63 || align=left|{{Nowrap|[[Rene Laurent Vuillermoz]]}} || align=left|{{ITA}} || 4 (1+1+1+1) || 53:10.8 || +6:22.6
+|-
+| 73 || 136 || align=left|[[Adam Kwak]] || align=left|{{POL}} || 2 (1+0+1+0) || 53:26.9 || +6:38.7
+|-
+| 74 || 69 || align=left|[[Tomas Kaukėnas]] || align=left|{{LTU}} || 4 (0+0+2+2) || 53:27.4 || +6:39.2
+|-
+| 75 || 74 || align=left|[[Anton Pantov]] || align=left|{{KAZ}} || 2 (1+1+0+0) || 53:28.3 || +6:40.1
+|-
+| 76 || 94 || align=left|[[Lee In-Bok]] || align=left|{{KOR}} || 1 (0+1+0+0) || 53:34.1 || +6:45.9
+|-
+| 77 || 95 || align=left|[[Rolands Pužulis]] || align=left|{{LAT}} || 2 (2+0+0+0) || 53:37.0 || +6:48.8
+|-
+| 78 || 83 || align=left|[[Pavol Hurajt]] || align=left|{{SVK}} || 5 (1+2+0+2) || 53:38.8 || +6:50.6
+|-
+| 79 || 82 || align=left|[[Łukasz Szczurek]] || align=left|{{POL}} || 3 (2+1+0+0) || 53:39.5 || +6:51.3
+|-
+| 80 || 65 || align=left|[[Timo Antila]] || align=left|{{FIN}} || 6 (2+2+0+2) || 53:56.2 || +7:08.0
+|-
+| 81 || 41 || align=left|[[Leif Nordgren]] || align=left|{{USA}} || 6 (0+1+2+3) || 54:07.1 || +7:18.9
+|-
+| 82 || 105 || align=left|[[Alexei Almoukov]] || align=left|{{AUS}} || 2 (0+0+1+1) || 54:09.4 || +7:21.2
+|-
+| 83 || 110 || align=left|[[Stefan Gavrila]] || align=left|{{ROU}} || 4 (0+3+0+1) || 54:13.3 || +7:25.1
+|-
+| =84 || 108 || align=left|[[Peter Dokl]] || align=left|{{SVN}} || 4 (1+1+1+1) || 54:17.3 || +7:29.1
+|-
+| =84 || 135 || align=left|[[Li Zhonghai]] || align=left|{{CHN}} || 2 (0+0+1+1) || 54:17.3 || +7:29.1
+|-
+| 86 || 107 || align=left|[[Ville Simola]] || align=left|{{FIN}} || 1 (0+1+0+0) || 54:20.2 || +7:32.0
+|-
+| 87 || 48 || align=left|[[Magnús Jónsson (biathlete)|Magnus Jonsson]] || align=left|{{SWE}} || 6 (3+2+0+1) || 54:47.4 || +7:59.2
+|-
+| 88 || 117 || align=left|[[Marcel Laponder]] || align=left|{{GBR}} || 1 (0+1+0+0) || 54:49.2 || +8:01.0
+|-
+| 89 || 88 || align=left|[[Ahti Toivanen]] || align=left|{{FIN}} || 6 (1+2+1+2) || 54:54.8 || +8:06.6
+|-
+| 90 || 30 || align=left|[[Simon Schempp]] || align=left|{{GER}} || 7 (3+1+1+2) || 54:55.3 || +8:07.1
+|-
+| 91 || 104 || align=left|[[Pedro Quintana Arias]] || align=left|{{ESP}} || 2 (0+1+0+1) || 55:04.8 || +8:16.6
+|-
+| 92 || 93 || align=left|[[Ahmet Üstüntaş]] || align=left|{{TUR}} || 1 (0+0+1+0) || 55:06.8 || +8:18.6
+|-
+| 93 || 130 || align=left|[[Karol Dombrovski]] || align=left|{{LTU}} || 3 (0+1+1+1) || 55:22.1 || +8:33.9
+|-
+| 94 || 86 || align=left|[[Chen Haibin]] || align=left|{{CHN}} || 3 (0+1+1+1) || 55:25.1 || +8:36.9
+|-
+| 95 || 97 || align=left|[[Damir Rastić]] || align=left|{{SRB}} || 4 (1+2+0+0) || 55:26.3 || +8:38.1
+|-
+| 96 || 125 || align=left|[[Ren Long]] || align=left|{{CHN}} || 3 (1+2+1+0) || 55:38.2 || +8:50.0
+|-
+| 97 || 123 || align=left|[[Arturs Kolesnikovs]] || align=left|{{LAT}} || 3 (0+1+0+2) || 55:50.6 || +9:02.4
+|-
+| 98 || 66 || align=left|[[Zhang Chengye (biathlete)|Zhang Chengye]] || align=left|{{CHN}} || 4 (0+1+1+1) || 56:10.7 || +9:22.5
+|-
+| 99 || 121 || align=left|[[Samuel Pulido Serrano]] || align=left|{{ESP}} || 3 (2+0+1+1) || 56:12.4 || +9:24.2
+|-
+| 100 || 85 || align=left|[[Sergey Naumik]] || align=left|{{KAZ}} || 6 (2+1+1+2) || 56:19.7 || +9:31.5
+|-
+| 101 || 106 || align=left|[[Kazuya Inomata]] || align=left|{{JPN}} || 6 (2+1+2+1) || 56:46.8 || +9:58.6
+|-
+| 102 || 127 || align=left|[[Herbert Cool]] || align=left|{{NED}} || 4 (1+0+2+1) || 56:52.1 || +10:03.9
+|-
+| 103 || 68 || align=left|[[Pete Beyer]] || align=left|{{GBR}} || 2 (0+0+1+1) || 57:19.5 || +10:31.3
+|-
+| 104 || 113 || align=left|[[Karolis Zlatkauskas]] || align=left|{{LTU}} || 5 (0+4+0+1) || 57:20.2 || +10:32.0
+|-
+| 105 || 112 || align=left|[[Thorsten Langer]] || align=left|{{BEL}} || 3 (0+0+1+2) || 57:27.0 || +10:38.8
+|-
+| 106 || 103 || align=left|[[Manuel Fernandez Musso]] || align=left|{{ESP}} || 5 (0+3+0+2) || 57:47.8 || +10:59.6
+|-
+| 107 || 114 || align=left|[[Ryo Tsunoda]] || align=left|{{JPN}} || 7 (2+2+1+2) || 58:00.4 || +11:12.2
+|-
+| 108 || 77 || align=left|[[Darko Damjanovski]] || align=left|{{MKD}} || 5 (0+4+0+1) || 58:00.9 || +11:12.7
+|-
+| 109 || 73 || align=left|[[Lee-Steve Jackson]] || align=left|{{GBR}} || 8 (2+2+3+1) || 58:11.5 || +11:23.3
+|-
+| 110 || 102 || align=left|[[Milan Szabó]] || align=left|{{HUN}} || 5 (0+0+2+3) || 58:24.8 || +11:36.6
+|-
+| 111 || 79 || align=left|[[Karoly Gombos]] || align=left|{{HUN}} || 6 (1+3+1+1) || 58:51.0 || +12:02.8
+|-
+| 112 || 71 || align=left|[[Milanko Petrović]] || align=left|{{SRB}} || 11 (5+0+4+2) || 59:40.9 || +12:52.7
+|-
+| 113 || 115 || align=left|[[Orhangazi Civil]] || align=left|{{TUR}} || 4 (0+1+0+3) || 59:51.8 || +13:03.6
+|-
+| 114 || 131 || align=left|[[Aleksandr Lavrinovič]] || align=left|{{LTU}} || 4 (2+1+0+1) || 59:52.0 || +13:03.8
+|-
+| 115 || 119 || align=left|[[Nemanja Košarac]] || align=left|{{BIH}} || 6 (2+1+1+2) || 1:00:12.1 || +13:23.9
+|-
+| 116 || 96 || align=left|[[Jun Je-Uk]] || align=left|{{KOR}} || 8 (4+2+2+0) || 1:00:13.3 || +13:25.1
+|-
+| 117 || 111 || align=left|[[Martin Bogdanov]] || align=left|{{BUL}} || 8 (3+3+1+1) || 1:00:20.7 || +13:32.5
+|-
+| 118 || 139 || align=left|[[Edin Hodžić]] || align=left|{{SRB}} || 5 (0+3+1+1) || 1:00:53.4 || +14:05.2
+|-
+| 119 || 132 || align=left|[[Thierry Langer]] || align=left|{{BEL}} || 5 (1+1+2+1) || 1:00:54.6 || +14:06.4
+|-
+| 120 || 120 || align=left|[[Kim Yong-Gyu]] || align=left|{{KOR}} || 7 (1+2+3+1) || 1:01:02.6 || +14:14.4
+|-
+| 121 || 133 || align=left|[[Athanassios Tsakiris]] || align=left|{{GRE}} || 3 (2+0+1+0) || 1:01:22.4 || +14:34.2
+|-
+| 122 || 116 || align=left|[[Øystein Slettemark]] || align=left|{{GRL}} || 7 (1+4+2+0) || 1:01:23.0 || +14:34.8
+|-
+| 123 || 124 || align=left|[[Vincent Naveau]] || align=left|{{BEL}} || 5 (2+2+1+0) || 1:01:29.5 || +14:41.3
+|-
+| 124 || 76 || align=left|[[Gjorgji Icoski]] || align=left|{{MKD}} || 4 (0+2+0+2) || 1:01:37.3 || +14:49.1
+|-
+| 125 || 67 || align=left|[[Kleanthis Karamichas]] || align=left|{{GRE}} || 2 (0+2+0+0) || 1:01:59.7 || +15:11.5
+|-
+| 126 || 126 || align=left|[[Jurica Veverec]] || align=left|{{CRO}} || 5 (1+0+3+1) || 1:02:48.0 || +15:59.8
+|-
+| 127 || 80 || align=left|[[Tomislav Crnković (biathlete)|Tomislav Crnković]] || align=left|{{CRO}} || 4 (0+1+2+1) || 1:03:07.8 || +16:19.6
+|-
+| 128 || 138 || align=left|[[Emir Hrkalović]] || align=left|{{SRB}} || 7 (1+2+2+2) || 1:03:34.7 || +16:46.5
+|-
+| 129 || 90 || align=left|[[Victor Pinzaru]] || align=left|{{MDA}} || 7 (0+2+2+3) || 1:04:13.4 || +17:25.2
+|-
+| 130 || 98 || align=left|[[Stefan Lopatić]] || align=left|{{BIH}} || 10 (4+2+0+4) || 1:04:31.4 || +17:43.2
+|-
+| 131 || 137 || align=left|[[Dyllan Harmer]] || align=left|{{AUS}} || 4 (1+1+0+2) || 1:04:36.0 || +17:47.8
+|-
+| 132 || 101 || align=left|[[Anuzar Yunusov]] || align=left|{{UZB}} || 11 (4+2+2+3) || 1:07:13.1 || +20:24.9
+|-
+| 133 || 81 || align=left|[[Aqqaluartaa Olsen]] || align=left|{{GRL}} || 11 (2+2+3+4) || 1:07:50.1 || +21:01.9
+|-
+| 134 || 91 || align=left|[[Dino Butković]] || align=left|{{CRO}} || 9 (2+2+2+3) || 1:08:04.9 || +21:16.7
+|-
+| 135 || 129 || align=left|[[István Muskatal]] || align=left|{{HUN}} || 13 (3+5+2+3) || 1:09:14.9 || +22:26.7
+|-
+| – || 118 || align=left|[[Ben Woolley]] || align=left|{{GBR}} || || DNS || 
+|-
+| – || 75 || align=left|[[Pascal Langer]] || align=left|{{BEL}} || (3+3) || DNF || 
+|-
+| – || 122 || align=left|[[Laurentiu Vamanu]] || align=left|{{ROU}} || (1+2+4) || DNF || 
+|-
+| – || 128 || align=left|[[Kim Jong-Min (biathlete)|Kim Jong-Min]] || align=left|{{KOR}} || (1+0) || DNF || 
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Biathlon World Championships 2012 - Men's individual}}
+[[Category:Biathlon World Championships 2012]]

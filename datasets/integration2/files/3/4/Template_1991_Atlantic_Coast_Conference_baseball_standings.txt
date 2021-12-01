@@ -1,0 +1,16 @@
+{{CBSB Standings Start|1991 Atlantic Coast Conference baseball standings|Atlantic Coast Conference}}
+{{CBSB Standings Entry|{{abbr|No.|Number}} 8 [[1991 Clemson Tigers baseball team|Clemson]] |conf-champ=y|tourney=y|ncaa-invited=y|18|3|60|10}}
+{{CBSB Standings Entry|{{abbr|No.|Number}} 26 {{CBSB link|year=1991|team=Georgia Tech Yellow Jackets|title=Georgia Tech}} |ncaa-invited=y|12|8|42|26}}
+{{CBSB Standings Entry|{{abbr|No.|Number}} 27 {{CBSB link|year=1991|team=NC State Wolfpack|title=NC State}} |ncaa-invited=y|11|10|48|20}}
+{{CBSB Standings Entry|{{CBSB link|year=1991|team=North Carolina Tar Heels|title=North Carolina}} |10|10|36|23}}
+{{CBSB Standings Entry|{{CBSB link|year=1991|team=Wake Forest Demon Deacons|title=Wake Forest}} |10|10|37|22}}
+{{CBSB Standings Entry|{{CBSB link|year=1991|team=Virginia Cavaliers|title=Virginia}} |10|11|28|27}}
+{{CBSB Standings Entry|{{CBSB link|year=1991|team=Duke Blue Devils|title=Duke}} |6|15|24|27}}
+{{CBSB Standings Entry|{{CBSB link|year=1991|team=Maryland Terrapins|title=Maryland}} |5|15|29|27}}
+{{CBSB Standings End|date=June 30, 1991<ref>{{cite web|url=http://www.boydsworld.com/data/standings/standings1991.html|title=College Baseball Conference Standings -- 1991|publisher=Boyd's World|accessdate=December 17, 2014}}</ref>|conf-champ=y|tourney=[[1991 Atlantic Coast Conference Baseball Tournament|Tournament]]|poll=[[1991 NCAA Division I baseball rankings#Collegiate Baseball|Collegiate Baseball]]|ncaa-invited=y|ncaa-tourney-link=[[1991 NCAA Division I Baseball Tournament|NCAA Tournament]]}}
+<noinclude>
+{{Template reference list}}
+[[Category:Atlantic Coast Conference baseball standings templates]]
+[[Category:1991 NCAA Division I baseball standings templates|Atlantic Coast Conference]]
+[[Category:1991 Atlantic Coast Conference baseball season|standings]]
+</noinclude>

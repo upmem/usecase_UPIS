@@ -1,0 +1,35 @@
+{{Infobox park
+| name = Whitaker Ponds Nature Park
+| photo = Whitaker Ponds Nature Park.jpg
+| photo_width = 
+| photo_caption = Park signage in 2008
+| map = 
+| map_width = 
+| type = 
+| location = 7040 NE 47th Avenue
+| nearest_city = [[Portland, Oregon]], United States
+| coords = {{coord|45.57384|-122.6119|region:US_type:landmark|display=inline,title}}
+| area = 24.75 acres (10.02 ha)
+| created = 1998
+| operator = [[Portland Parks & Recreation]]
+| visitation_num = 
+| status = 
+| open = 
+}}
+'''Whitaker Ponds Nature Park''' is a park located in northeast [[Portland, Oregon|Portland]], [[Oregon]]. The park is maintained by [[Portland Parks & Recreation]] and volunteers from the Columbia Slough Watershed Council.<ref name=PPR>{{Cite web|url=http://www.portlandonline.com/parks/finder/index.cfm?action=ViewPark&PropertyID=856|title=Whitaker Ponds Nature Park|accessdate=December 9, 2011|publisher=[[Portland Parks & Recreation]]}}</ref>
+
+==See also==
+{{Portal|Oregon}}
+* [[List of parks in Portland, Oregon]]
+
+==References==
+{{reflist}}
+
+{{Parks in Portland, Oregon}}
+
+[[Category:1998 establishments in Oregon]]
+[[Category:Cully, Portland, Oregon]]
+[[Category:Parks in Portland, Oregon]]
+[[Category:Protected areas established in 1998]]
+
+{{Oregon-stub}}

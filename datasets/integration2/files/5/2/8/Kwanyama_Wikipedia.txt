@@ -1,0 +1,4 @@
+#REDIRECT [[List of Wikipedias]]
+{{Redirect category shell|
+{{R to list entry}}
+}}

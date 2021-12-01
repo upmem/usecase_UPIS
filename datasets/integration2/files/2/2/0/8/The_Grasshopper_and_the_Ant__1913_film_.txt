@@ -1,0 +1,40 @@
+{{Infobox film
+| name = The Grasshopper and the Ant
+| native_name = {{lang-ru|Стрекоза и муравей}}
+| caption = Film poster
+| director = [[Wladyslaw Starewicz]]
+| producer = 
+| writer = [[Wladyslaw Starewicz]]
+| starring = 
+| music = 
+| cinematography =
+| editing = 
+| released = 
+| runtime = 
+| country = Russian Empire
+| image = The Grasshopper and the Ant (1913 film).jpg
+| language = 
+| budget = 
+}}
+'''The Grasshopper and the Ant''' ({{lang-ru|Стрекоза и муравей}}) is a 1913 Russian short animated film directed and written by [[Wladyslaw Starewicz]].<ref>[https://fraza.ua/analytics/265584-rozhdestvenskie-multfilmy-vladislava-starevicha- Рождественские мультфильмы Владислава Старевича]</ref><ref>[http://kuzbassnews.ru/news/blagotvoritelnoe-meropriyatie-dlya-detey-v-oblastnom-muzee-kino-0 БЛАГОТВОРИТЕЛЬНОЕ МЕРОПРИЯТИЕ ДЛЯ ДЕТЕЙ В ОБЛАСТНОМ МУЗЕЕ КИНО]</ref><ref>[https://russian.rt.com/nopolitics/article/416961-starevich-kukolnaya-animaciya Заклинатель мух: как любитель насекомых Владислав Старевич стал пионером кукольной анимации]</ref><ref>[https://www.culture.ru/news/56121/pervye-shagi-otechestvennogo-kino Первые шаги отечественного кино]</ref>
+
+== Plot ==
+The film is based on a fable by [[Ivan Krylov|I. Krylov]].
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{IMDb title|id=0002221}}
+
+{{DEFAULTSORT:Grasshopper And The Ant, The (1913 film)}}
+[[Category:1913 films]]
+[[Category:Russian films]]
+[[Category:Russian-language films]]
+[[Category:Russian silent films]]
+[[Category:Russian black-and-white films]]
+[[Category:1913 animated films]]
+[[Category:Films of the Russian Empire]]
+
+
+{{1910s-Russia-film-stub}}

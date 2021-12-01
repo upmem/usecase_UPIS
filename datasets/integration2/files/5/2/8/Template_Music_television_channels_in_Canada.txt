@@ -1,0 +1,70 @@
+{{Navbox Canada
+|name = Music television channels in Canada
+|title = [[Music television]] channels in [[Canada]]
+|leaf = yes
+|listclass = hlist
+
+|group1 = Entertainment
+|list1 =
+* [[A.Side TV]]
+
+|group2 = Music videos
+|list2 =
+*[[Stingray Group|Stingray]]
+** [[Stingray Country]]
+** [[Stingray Hits!]]
+** [[Stingray Juicebox]]
+** [[Stingray Loud]]
+** [[Stingray Retro]]
+** [[Stingray Now 4K]]
+** [[Stingray Vibe]]
+* [[Xite 4K (Canada)|XITE 4K]]
+
+|group3 = Multilingual/Third-language
+|list3 =
+* [[ATN B4U Music]]
+* [[ATN BritAsia]]
+* [[ATN PM One]]
+* [[ATN Sony Mix]]
+* [[ATN Zoom]]
+* [[Greek Music Channel]]
+* [[Melody Hits]]
+* [[PalmarèsADISQ par Stingray]]
+* [[Rotana Clip (Canada)|Rotana Clip]]
+* [[Rotana Mousica (Canada)|Rotana Mousica]]
+* [[SchlagerTV]]
+* [[Stingray Music]] (audio only)
+
+
+|group4 = Foreign
+|list4 =
+* [[Afrotainment|Afrotainment Music]]
+* [[ARY Musik]]
+* [[Channel V]]
+* [[Ritmoson Latino]]
+* [[Stingray Classica]]
+* [[Stingray Djazz]]
+* Stingray Festival 4K
+* [[Teleritmo]]
+
+|group5 = Former/Defunct/Changed formats
+|list5 =
+* [[bpm:tv]]
+* [[CoolTV]]
+* [[CMT (Canadian TV channel)|CMT]]
+* [[Edge TV]]
+* [[Max Trax]]
+* [[MTV (Canadian TV channel)|MTV]]
+* [[MTV2 (Canadian TV channel)|MTV2]]
+* [[Much (TV channel)|Much]]
+** [[M3 (Canadian TV channel)|MuchMoreMusic]]
+* [[Elle Fictions|MusiquePlus]]
+** [[Max (Canadian TV channel)|MusiMax]]
+* [[Video Italia (Canada)|Video Italia]]
+* [[Vintage TV (Canada)|Vintage TV]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Canada television navigational boxes]]
+[[Category:Television network and channel navigational boxes]]
+[[Category:Canadian music templates]]
+</noinclude>

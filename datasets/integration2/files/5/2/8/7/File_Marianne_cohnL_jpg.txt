@@ -1,0 +1,13 @@
+== Summary ==
+{{Non-free use rationale biog
+| name              = Marianne Cohn 
+| birth             = September 17, 1922 
+| death             = July 8, 1944
+| use               = Infobox
+| source            = http://www.ac-grenoble.fr/ecole/74/elementaire-cohn.annemasse/spip.php?article7
+| article           = Marianne Cohn 
+| purpose           = 
+}}
+
+== Licensing ==
+{{Non-free historic image}}

@@ -1,0 +1,74 @@
+{{Biathlon World Championships 2012}}
+The men's mass start competition of the [[Biathlon World Championships 2012]] was held on March 11, 2012 at 13:30 local time.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SMMS/BT_C51D2_1.0.pdf Start list]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+== Results ==
+The race started at 13:30.<ref>[http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SMMS/BT_C73E_1.0.pdf Final Results] {{webarchive |url=https://web.archive.org/web/20140202105322/http://docs.biathlonresults.com/1112/BT/SWRL/CH__/SMMS/BT_C73E_1.0.pdf |date=February 2, 2014 }}</ref>
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Bib !! Name !! Country !! Penalties (P+P+S+S) !! Time   !! Deficit
+|-
+|  {{gold01}} || 1 || align=left|[[Martin Fourcade]] || align=left|{{flag|France}} || 2 (0+1+1+0)  || 38:25.4 ||
+|-
+|  {{silver02}} || 20 || align=left|[[Björn Ferry]] || align=left|{{flag|Sweden}} || 0 (0+0+0+0) || 38:28.4 || +3.0	
+|-
+|  {{bronze03}} || 17 || align=left|[[Fredrik Lindström (biathlete)|Fredrik Lindström]] || align=left|{{flag|Sweden}} || 2 (0+1+1+0) || 38:28.8	 || +3.4
+|-
+|  {{sort|04|4}} || 7 || align=left|[[Andreas Birnbacher]] || align=left|{{flag|Germany}}  || 1 (0+0+0+1) || 38:30.0 || +4.6
+|-
+|  {{sort|05|5}} || 4 || align=left|[[Simon Fourcade]] || align=left|{{flag|France}}  || 2 (1+0+1+0)  || 38:35.2 || +9.8
+|-
+|  {{sort|06|6}} || 3 || align=left|[[Carl Johan Bergman]] || align=left|{{flag|Sweden}} || 1 (0+0+1+0) || 38:39.0	 ||+13.6
+|-
+|  {{sort|07|7}} || 9 || align=left|[[Arnd Peiffer]] || align=left|{{flag|Germany}}  || 2 (0+0+1+1) || 38:45.7	 ||+20.3
+|-
+|  {{sort|08|8}} || 12 || align=left|{{Nowrap|[[Ole Einar Bjørndalen]]}} || align=left|{{flag|Norway}} || 2 (0+0+1+1) || 38:49.4 || +24.0
+|-
+|  {{sort|09|9}} || 15 || align=left|[[Evgeniy Garanichev]] || align=left|{{flag|Russia}}  || 1 (0+0+0+1) || 38:52.2 || +26.8
+|-
+|  10 || 15 || align=left|[[Evgeny Ustyugov]] || align=left|{{flag|Russia}}   || 2 (2+0+0+0) || 38:59.8	 || +34.4
+|-
+|  11 || 6 || align=left|[[Jaroslav Soukup]] || align=left|{{flag|Czech Republic}} || 2 (0+1+0+1) || 39:02.9 || +37.5
+|-
+|  12 || 19 || align=left|[[Michal Šlesingr]] || align=left|{{Nowrap|{{flag|Czech Republic}}}} ||  2 (1+0+1+0) || 39:08.3 ||+42.9
+|-
+|  13 || 18 ||align=left|[[Ondřej Moravec]] || align=left|{{flag|Czech Republic}} || 3 (0+1+1+1) || 39:18.7 || +53.3
+|-
+|  14 || 16 || align=left|[[Daniel Mesotitsch]] || align=left|{{flag|Austria}} || 2 (1+0+1+0) || 39:26.9 || +1:01.5
+|-
+|  15 || 25 || align=left|[[Alexis Bœuf]] || align=left|{{flag|France}} || 3 (1+0+0+2) || 39:30.8 ||+1:05.4
+|-
+|  16 || 24 || align=left|[[Lukas Hofer]] || align=left|{{flag|Italy}} || 3 (0+0+1+2) || 39:37.8 || +1:12.4
+|-
+|  17 || 8 || align=left|[[Tarjei Bø]] || align=left|{{flag|Norway}} || 3 (0+0+2+1) || 39:40.8	 || +1:15.4
+|-
+|  18 || 2 || align=left|{{Nowrap|[[Emil Hegle Svendsen]]}} || align=left|{{flag|Norway}}  || 5 (2+0+1+2) || 39:41.0 ||1:15.6
+|-
+|  19 || 30 || align=left|[[Andriy Deryzemlya]] || align=left|{{flag|Ukraine}} || 3 (0+0+3+0) || 39:42.3 ||+1:16.9
+|-
+|  20 || 22 || align=left|[[Markus Windisch]] || align=left|{{flag|Italy}} || 4 (0+1+2+1) || 39:44.0 ||+1:18.6
+|-
+|  21 || 27 || align=left|[[Klemen Bauer]] || align=left|{{flag|Slovenia}}  || 4 (1+1+1+1) || 40:02.7 ||+1:37.3
+|-
+|  22 || 23 || align=left|[[Michael Greis]] || align=left|{{flag|Germany}}  || 4 (0+0+2+2) || 40:04.8 ||+1:39.4
+|-
+|  23 || 29 || align=left|[[Tim Burke (biathlete)|Tim Burke]] || align=left|{{flag|United States}}  || 4 (2+1+1+0) || 40:07.9	 ||+1:42.5
+|-
+|  24 || 28 || align=left|[[Dominik Landertinger]] || align=left|{{flag|Austria}} || 3 (1+0+2+0) || 40:09.2 || +1:43.8
+|-
+|  25 || 14 || align=left|[[Lowell Bailey]] || align=left|{{flag|United States}} || 5 (0+1+3+1) || 40:17.6 ||+1:52.2
+|-
+|  26 || 26 || align=left|[[Simon Schempp]] || align=left|{{flag|Germany}}  || 5 (1+0+3+1 || 40:22.0 ||+1:56.6
+|-
+|  27 || 21 || align=left|[[Sergey Novikov (biathlete)|Sergey Novikov]] || align=left|{{flag|Belarus}} || 5 (1+0+1+3) || 40:46.3	 || +2:20.9
+|-
+|  28 || 11 || align=left|[[Andrei Makoveev]] || align=left|{{flag|Russia}} || 5 (2+2+1+0) || 41:10.8	 ||+2:45.4
+|-
+|  29 || 5 ||align=left|[[Anton Shipulin]] || align=left|{{flag|Russia}} || 3 (0+0+1+2)|| 41:33.5 ||+3:08.1
+|-
+|  30 || 10 || align=left|[[Benjamin Weger]] || align=left|{{flag|Switzerland}} || 1 (1+ + +) || {{sort|99:99.99|DNF}} ||{{sort|+9:99.99|}}
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Biathlon World Championships 2012 - Men's mass start}}
+[[Category:Biathlon World Championships 2012]]

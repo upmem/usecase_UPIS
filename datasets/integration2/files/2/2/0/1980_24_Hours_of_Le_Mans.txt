@@ -1,0 +1,665 @@
+{{Le Mans Races
+| Previous = 1979
+| Current = 1980
+| Next = 1981
+}}
+The '''1980 [[24 Hours of Le Mans]]''' was the 48th Grand Prix of Endurance, and took place on 14 and 15 June 1980.  It was the seventh round of the [[1980 World Sportscar Championship season|1980 World Championship for Makes]].
+
+==Pre-race==
+[[Porsche]] again sent no works [[Group 6 (racing)|Group 6]] cars, in order to not compete against their many customers in their [[Porsche 935|935]] [[Group 5 (racing)|Group 5]] cars. The lone Group 6 Porsche, a [[Martini Racing]]-sponsored roadster entered by [[Joest Racing]] for [[Reinhold Joest]] himself and [[Jacky Ickx]], was christened the [[Porsche 908]]/80 by the team (and "FrankenPorsche" by journalists), but looked much like the 1977 version of the [[Porsche 936|936]]. For a long time the car was believed to be a [[Hacker (hobbyist)|hack]] on a 908 chassis until it was discovered that it was in fact built on a real 936 replacement chassis, the 936-004. As Porsche didn't wish to be in the business of selling 936s to customers, the secret was kept by using a 908 chassis number plate.
+
+The 908/80 was favorite but Porsche could also count on many 935, five Group 5 plus eight [[International Motor Sports Association|IMSA]] GTX, including three cars from the [[12 Hours of Sebring|Sebring]]-winning [[Dick Barbour]] team. Most of the opposition was in the GTP class: three [[Welter Racing|WM]]-[[Peugeot]] and a trio of local heroes, the Le Mans-built [[Jean Rondeau|Rondeau]]-[[Cosworth]].
+
+==Race==
+[[File:1980 Rondeau M379B - Le Mans Winner.jpg|thumb|The race winning [[Jean Rondeau|Rondeau M379]]]]
+The start was the probably wettest ever at Le Mans. Ickx laid back in his roadster until he could actually see something else other than the fog created by closed-cabin cars: Porsche 935s, [[BMW M1]]s and Rondeau coupes.
+
+[[John Fitzpatrick (racing driver)|John Fitzpatrick]] was leading with Dick Barbour's Porsche 935. [[Hans-Joachim Stuck|Hans Stuck]] had shoved his BMW M1 from 26th to second by 17:00. At that time [[Jean Rondeau]] had two of his made-in-Le Mans cars in the top 10.
+
+When the rain decreased Ickx and Joest picked off one car after another. By the end of the third hour, Joest found himself in the lead. When Ickx was back in the car he broke the fuel injection pump belt. But Joest had planned wisely; there was a set of basic tools and a spare belt in the car. Ickx restarted just 14 minutes later but this was enough to lose the lead.
+
+At nightfall, a Rondeau was leading the race but Ickx began the chase. By 01:00 Sunday, the 908/80 was on the same lap as the leaders. Two hours later, they were ahead and began to leave the French coupé behind. After numerous lead changes caused by refuelings and scheduled maintenance on the cars around 07:00, the Joest Martini Porsche had built a solid lead.
+
+But the Joest team had underestimated the Rondeaus, as they didn't expect the Cosworth to be very reliable. As a result, Joest and Ickx did not run fast enough and at 10:00 when the 908/80 had a gearbox failure, like the works 936s in [[1977 24 Hours of Le Mans|1977]], they had not built up a large enough lead. The Rondeau of Jean Rondeau himself and [[Jean-Pierre Jaussaud]] gained the lead with a gap of three laps over the second placed car. Ickx had to begin a third chase.
+
+When Jaussaud took over from Rondeau with an hour and a half remaining, the Rondeau had still a two laps advance but the Porsche was running faster. With 35 minutes left to race, the rain returned. Ickx pitted for wet tyres while Jaussaud kept the slicks. Jaussaud had made the right choice and remained in the lead. However, there was a final surprise: As the rain became heavier in the last lap, Jaussaud lost the control of his car. By luck he did not hit anything. For the first time a driver had won Le Mans on a car bearing his own name. At the end of the race Ickx announced his retirement, which he was to reverse a few months later.
+
+==Official results==
+[[File:Circuit de la Sarthe Le Mans 1979-1985.png|thumb|325px|Le Mans in 1980]]
+{| class="wikitable" style="font-size: 95%;"
+!rowspan=2| Pos
+!rowspan=2| Class
+!rowspan=2| No
+!rowspan=2| Team
+!rowspan=2| Drivers
+! Chassis
+!rowspan=2| Tyres
+!rowspan=2| Laps
+|-
+! Engine
+|- style="font-weight:bold"
+!rowspan=2| 1
+|rowspan=2| S<br>+2.0
+|rowspan=2| 16
+|rowspan=2| {{flagicon|FRA}} LePoint [[Jean Rondeau]]
+|rowspan=2| {{flagicon|FRA}} [[Jean Rondeau]]<br>{{flagicon|FRA}} [[Jean-Pierre Jaussaud]]
+| [[Jean Rondeau|Rondeau]] M379
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 338
+|- style="font-weight:bold"
+| [[Ford Motor Company|Ford]] [[Cosworth DFV]] 3.0 L V8
+|-
+!rowspan=2| 2
+|rowspan=2| S<br>+2.0
+|rowspan=2| 9
+|rowspan=2| {{flagicon|FRG}} [[Joest Racing|Equipe Liqui Moly]] - [[Martini Racing]]
+|rowspan=2| {{flagicon|BEL}} [[Jacky Ickx]]<br>{{flagicon|FRG}} [[Reinhold Joest]]
+| [[Porsche 936|Porsche 908/80]]
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 336
+|-
+| [[Porsche]] 2.1 L Turbo Flat-6
+|- style="font-weight:bold"
+!rowspan=2| 3
+|rowspan=2| GTP
+|rowspan=2| 17
+|rowspan=2| {{flagicon|FRA}} Belga [[Jean Rondeau]]
+|rowspan=2| {{flagicon|GBR}} [[Gordon Spice]]<br>{{flagicon|BEL}} [[Philippe Martin (racing driver)|Philippe Martin]]<br> {{flagicon|BEL}} [[Jean-Michel Martin]]
+| [[Jean Rondeau|Rondeau]] M379
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 329
+|- style="font-weight:bold"
+| [[Ford Motor Company|Ford]] [[Cosworth DFV]] 3.0 L V8
+|-
+!rowspan=2| 4
+|rowspan=2| GTP
+|rowspan=2| 5
+|rowspan=2| {{flagicon|FRA}} [[Welter Racing|WM]] [[Esso]]
+|rowspan=2| {{flagicon|FRA}} [[Guy Fréquelin]]<br>{{flagicon|FRA}} [[Roger Dorchy]]
+| [[Welter Racing|WM]] P79/80
+|rowspan=2| {{Michelin}}
+|rowspan=2| 316
+|-
+| [[Peugeot]] [[PRV engine|PRV]] 2.7 L Turbo V6
+|- style="font-weight:bold"
+!rowspan=2| 5
+|rowspan=2| IMSA
+|rowspan=2| 70
+|rowspan=2| {{flagicon|USA}} Dick Barbour Racing
+|rowspan=2| {{flagicon|GBR}} [[John Fitzpatrick (racing driver)|John Fitzpatrick]]<br> {{flagicon|GBR}} [[Brian Redman]]<br> {{flagicon|USA}} [[Dick Barbour]]
+| [[Porsche 935]] K3
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 316
+|- style="font-weight:bold"
+| [[Porsche]] Type-935 3.2 L Turbo Flat-6
+|-
+!rowspan=2| 6
+|rowspan=2| GTP
+|rowspan=2| 4
+|rowspan=2| {{flagicon|FRG}} [[Porsche in motorsport|Porsche System]]
+|rowspan=2| {{flagicon|LIE}} [[Manfred Schurti]]<br>{{flagicon|FRG}} [[Jürgen Barth]]
+| [[Porsche 924]] Carrera GT
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 316
+|-
+| [[Porsche]] 2.0 L Turbo I4
+|-
+!rowspan=2| 7
+|rowspan=2| S<br>+2.0
+|rowspan=2| 8
+|rowspan=2| {{flagicon|GBR}} [[Alain de Cadenet]]
+|rowspan=2| {{flagicon|GBR}} [[Alain de Cadenet]]<br>{{flagicon|FRA}} [[François Migault]]
+| [[Alain de Cadenet|De Cadenet]]-[[Lola Cars|Lola]] LM
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 313
+|-
+| [[Ford Motor Company|Ford]] [[Cosworth DFV]] 3.0 L V8
+|- style="font-weight:bold"
+!rowspan=2| 8
+|rowspan=2| Gr.5
+|rowspan=2| 49
+|rowspan=2| {{flagicon|FRG}} [[Joest Racing|Vegla Racing Team]]
+|rowspan=2| {{flagicon|FRG}} [[Harald Grohs]]<br>{{flagicon|FRG}} [[Dieter Schornstein]]
+| [[Porsche 935]]
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 313
+|- style="font-weight:bold"
+| [[Porsche]] Type-935 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 9
+|rowspan=2| IMSA
+|rowspan=2| 73
+|rowspan=2| {{flagicon|USA}} JLP Racing
+|rowspan=2| {{flagicon|USA}} [[John Paul, Sr. (racing driver)|John Paul Sr.]]<br>{{flagicon|USA}} [[John Paul, Jr. (racing driver)|John Paul Jr.]]<br> {{flagicon|GBR}} [[Guy Edwards]]
+| [[Porsche 935]] JLP-2
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 312
+|-
+| [[Porsche]] Type-935 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 10
+|rowspan=2| IMSA
+|rowspan=2| 76
+|rowspan=2| {{flagicon|FRA}} JMS Racing<br>{{flagicon|FRA}} [[Charles Pozzi]]
+|rowspan=2| {{flagicon|BEL}} [[Jean Xhenceval]]<br>{{flagicon|BEL}} [[Pierre Dieudonné]]<br>{{flagicon|BEL}} [[Hervé Regout]]
+| [[Ferrari 512BB]]/LM
+|rowspan=2| {{Michelin}}
+|rowspan=2| 312
+|-
+| [[Ferrari]] 4.9 L Flat-12
+|-
+!rowspan=2| 11
+|rowspan=2| GTP
+|rowspan=2| 6
+|rowspan=2| {{flagicon|FRA}} [[Welter Racing|WM]] [[Esso]]
+|rowspan=2| {{flagicon|FRA}} [[Jean-Daniel Raulet]]<br>{{flagicon|FRA}} [[Marcel Mamers]]
+| [[Welter Racing|WM]] P79/80
+|rowspan=2| {{Michelin}}
+|rowspan=2| 311
+|-
+| [[Peugeot]] [[PRV engine|PRV]] 2.7 L Turbo Flat-6
+|-
+!rowspan=2| 12
+|rowspan=2| GTP
+|rowspan=2| 2
+|rowspan=2| {{flagicon|FRG}} [[Porsche in motorsport|Porsche System]]
+|rowspan=2| {{flagicon|GBR}} [[Andy Rouse]]<br>{{flagicon|GBR}} [[Tony Dron]]
+| [[Porsche 924]] Carrera GT
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 310
+|-
+| [[Porsche]] 2.0 L Turbo I4
+|-
+!rowspan=2| 13
+|rowspan=2| GTP
+|rowspan=2| 3
+|rowspan=2| {{flagicon|FRG}} [[Porsche in motorsport|Porsche System]]
+|rowspan=2| {{flagicon|GBR}} [[Derek Bell (racing driver)|Derek Bell]]<br> {{flagicon|USA}} [[Al Holbert]]
+| [[Porsche 924]] Carrera GT
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 305
+|-
+| [[Porsche]] 2.0 L Turbo I4
+|-
+!rowspan=2| 14
+|rowspan=2| IMSA
+|rowspan=2| 83
+|rowspan=2| {{flagicon|FRA}} [[BMW]] France
+|rowspan=2| {{flagicon|FRA}} [[Didier Pironi]]<br>{{flagicon|AUT}} [[Dieter Quester]]<br> {{flagicon|FRA}} [[Marcel Mignot]]
+| [[BMW M1]]
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 293
+|-
+| [[BMW M88]] 3.5 L I6
+|-
+!rowspan=2| 15
+|rowspan=2| IMSA
+|rowspan=2| 84
+|rowspan=2| {{flagicon|FRA}} [[BMW Motorsport]] GmbH<br>{{flagicon|FRA}} Dominique Lacaud
+|rowspan=2| {{flagicon|FRG}} [[Hans-Joachim Stuck]]<br>{{flagicon|FRA}} [[Dominique Lacaud]]<br>{{flagicon|FRG}} [[Hans-Georg Bürger]]
+| [[BMW M1]]
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 283
+|-
+| [[BMW M88]] 3.5 L I6
+|- style="font-weight:bold"
+!rowspan=2| 16
+|rowspan=2| GT
+|rowspan=2| 93
+|rowspan=2| {{flagicon|FRA}} Thierry Perrier
+|rowspan=2| {{flagicon|FRA}} [[Thierry Perrier]]<br>{{flagicon|FRA}} [[Roger Carmillet]]
+| [[Porsche 911]] SC
+|rowspan=2| {{Kleber}}
+|rowspan=2| 280
+|- style="font-weight:bold"
+| [[Porsche]] 4.6 L Flat-6<br>([[Ethanol]])
+|- style="font-weight:bold"
+!rowspan=2| 17
+|rowspan=2| S<br>2.0
+|rowspan=2| 25
+|rowspan=2| {{flagicon|FRA}} ROC&nbsp;— Société Yacco
+|rowspan=2| {{flagicon|FRA}} [[Bruno Sotty]]<br>{{flagicon|FRA}} [[Daniel Laurent (racing driver)|Daniel Laurent]]<br>{{flagicon|FRA}} [[Philippe Hesnault]]
+| [[Chevron Cars Ltd|Chevron]] B36
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 276
+|- style="font-weight:bold"
+| ROC-[[Talbot]] 2.0 L I4
+|-
+!rowspan=2| 18
+|rowspan=2| S<br>2.0
+|rowspan=2| 23
+|rowspan=2| {{flagicon|FRA}} ROC&nbsp;— Société Yacco
+|rowspan=2| {{flagicon|FRA}} [[Michel Dubois (racing driver)|Michel Dubois]]<br>{{flagicon|FRA}} [[Christian Debias]]<br>{{flagicon|CHE}} [[Florian Vetsch]]
+| [[Lola Cars|Lola]] T298
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 272
+|-
+| ROC-[[Talbot]] 2.0 L I4
+|-
+!rowspan=2| 19
+|rowspan=2| Gr.5
+|rowspan=2| 53
+|rowspan=2| {{flagicon|ITA}} [[Jolly Club]] - [[Lancia]] Corse
+|rowspan=2| {{flagicon|ITA}} [[Carlo Facetti]]<br>{{flagicon|ITA}} [[Martino Finotto]]
+| [[Lancia Monte Carlo|Lancia Beta Monte Carlo]]
+|rowspan=2| {{Pirelli}}
+|rowspan=2| 272
+|-
+| [[Lancia]] 1.4 L Turbo I4
+|-
+!rowspan=2| 20
+|rowspan=2| IMSA
+|rowspan=2| 89
+|rowspan=2| {{flagicon|FRA}} Hervé Poulain
+|rowspan=2| {{flagicon|FRA}} [[Dany Snobeck]]<br>{{flagicon|FRA}} [[Hervé Poulain]]<br>{{flagicon|FRA}} [[Pierre Destic]]
+| [[Porsche 935]]
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 272
+|-
+| [[Porsche]] Type-935 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 21
+|rowspan=2| IMSA
+|rowspan=2| 86
+|rowspan=2| {{flagicon|USA}} Z & W Enterprises Inc.
+|rowspan=2| {{flagicon|VEN|1954}} [[Ernesto Soto]]<br> {{flagicon|USA}} [[Mark Hutchins]]<br> {{flagicon|USA}} [[Pierre Honegger]]
+| [[Mazda RX-7]]
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 266
+|-
+| [[Mazda]] 12A 1.2L 2-[[Wankel engine|Rotor]]
+|-
+!rowspan=2| 22
+|rowspan=2| S<br>2.0
+|rowspan=2| 29
+|rowspan=2| {{flagicon|GBR}} Dorset Racing Associates
+|rowspan=2| {{flagicon|GBR}} [[Peter Clarke (racing driver)|Peter Clarke]]<br>{{flagicon|GBR}} [[Nick Mason]]<br>{{flagicon|IRL}} [[Martin Birrane]]
+| [[Lola Cars|Lola]] T297
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 263
+|-
+| [[Ford Motor Company|Ford]] [[Cosworth]] BDG 2.0 L I4
+|-
+!rowspan=2| 23
+|rowspan=2| IMSA
+|rowspan=2| 78
+|rowspan=2| {{flagicon|GBR}} [[EMKA Racing|EMKA Productions]]
+|rowspan=2| {{flagicon|GBR}} [[Steve O'Rourke]]<br>{{flagicon|GBR}} [[Richard Down]]<br>{{flagicon|GBR}} [[Simon Phillips (racing driver)|Simon Phillips]]
+| [[Ferrari 512BB]]/LM
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 262
+|-
+| [[Ferrari]] 4.9 L Flat-12
+|-
+!rowspan=2| 24
+|rowspan=2| GT
+|rowspan=2| 90
+|rowspan=2| {{flagicon|FRA}} Georges Bourdillat
+|rowspan=2| {{flagicon|FRA}} [[Georges Bourdillat]]<br>{{flagicon|FRA}} [[Alain-Michel Bernhard]]<br> {{flagicon|FRA}} [[Pascal Ennequin]]
+| [[Porsche 934]]
+|rowspan=2| {{Michelin}}
+|rowspan=2| 248
+|-
+| [[Porsche]] 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 25
+|rowspan=2| S<br>+2.0
+|rowspan=2| 12
+|rowspan=2| {{flagicon|JPN}} [[Dome (constructor)|Dome Co. Ltd.]]
+|rowspan=2| {{flagicon|GBR}} [[Chris Craft (racing driver)|Chris Craft]]<br>{{flagicon|GBR}} [[Bob Evans (racing driver)|Bob Evans]]
+| [[Dome (constructor)|Dome]] RL80
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 246
+|-
+| [[Ford Motor Company|Ford]] [[Cosworth DFV]] 3.0 L V8
+|-
+!rowspan=2| 26<br>DNF
+|rowspan=2| GTP
+|rowspan=2| 7
+|rowspan=2| {{flagicon|FRA}} [[Welter Racing|WM]] [[Esso]]
+|rowspan=2| {{flagicon|FRA}} [[Serge Saulnier]]<br>{{flagicon|FRA}} [[Jean-Louis Bousquet]]<br>{{flagicon|FRA}} [[Denis Morin]]
+| [[Welter Racing|WM]] P79/80
+|rowspan=2| {{Michelin}}
+|rowspan=2| 264
+|-
+| [[Peugeot]] [[PRV engine|PRV]] 2.7 L Turbo V6
+|-
+!rowspan=2| 27<br>DNF
+|rowspan=2| S<br>2.0
+|rowspan=2| 27
+|rowspan=2| {{flagicon|FRA}} Michel Elkoubi / Primagaz
+|rowspan=2| {{flagicon|FRA}} [[Patrick Perrier]]<br>{{flagicon|FRA}} [[Pierre Yver]]
+| [[Lola Cars|Lola]] T298
+|rowspan=2| {{Michelin}}
+|rowspan=2| 255
+|-
+| [[BMW M12]] 2.0 L I4
+|-
+!rowspan=2| 28<br>DNF
+|rowspan=2| GT
+|rowspan=2| 94
+|rowspan=2| {{flagicon|FRA}} [[Equipe Alméras Frères]]
+|rowspan=2| {{flagicon|FRA}} [[Jacques Alméras]]<br>{{flagicon|FRA}} [[Jean-Marie Alméras]]<br>{{flagicon|FRA}} [[Marianne Hoepfner]]
+| [[Porsche 934]]
+|rowspan=2| {{Michelin}}
+|rowspan=2| 251
+|-
+| [[Porsche]] 3.3 L Turbo Flat-6
+|-
+!rowspan=2| 29<br>DNF
+|rowspan=2| IMSA
+|rowspan=2| 69
+|rowspan=2| {{flagicon|USA}} Racing Associates Inc.
+|rowspan=2| {{flagicon|USA}} [[Bob Akin]]<br>{{flagicon|USA}} [[Ralph Kent-Cooke]]<br>{{flagicon|USA}} [[Paul Miller (racing driver)|Paul Miller]]
+| [[Porsche 935]] K3
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 237
+|-
+| [[Porsche]] Type-935 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 30<br>DNF
+|rowspan=2| IMSA
+|rowspan=2| 95
+|rowspan=2| {{flagicon|FRA}} [[BMW]] Zol-Auto
+|rowspan=2| {{flagicon|FRA}} [[François Sérvanin]]<br>{{flagicon|FRA}} [[Laurent Ferrier]]<br>{{flagicon|FRA}} [[Pierre-François Rousselot]]
+| [[BMW M1]]
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 237
+|-
+| [[BMW M88]] 3.5 L I6
+|-
+!rowspan=2| 31<br>DNF
+|rowspan=2| Gr.5
+|rowspan=2| 43
+|rowspan=2| {{flagicon|FRG}} Malardeau [[Kremer Racing]]
+|rowspan=2| {{flagicon|FRA}} [[Xavier Lapeyre]]<br>{{flagicon|FRA}} [[Jean-Louis Trintignant]]<br>{{flagicon|FRA}} [[Anne-Charlotte Verney]]
+| [[Porsche 935]] K3
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 217
+|-
+| [[Porsche]] Type-935 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 32<br>DNF
+|rowspan=2| Gr.5
+|rowspan=2| 45
+|rowspan=2| {{flagicon|FRG}} [[Gelo Racing]] Team
+|rowspan=2| {{flagicon|FRA}} [[Bob Wollek]]<br>{{flagicon|FRG}} [[Helmut Kelleners]]
+| [[Porsche 935]]
+|rowspan=2| {{Pirelli}}
+|rowspan=2| 191
+|-
+| [[Porsche]] Type-935 3.2 L Turbo Flat-6
+|-
+!rowspan=2| 33<br>DNF
+|rowspan=2| Gr.5
+|rowspan=2| 42
+|rowspan=2| {{flagicon|FRG}} Gozzy [[Kremer Racing]]
+|rowspan=2| {{flagicon|JPN}} [[Tetsu Ikuzawa]]<br>{{flagicon|FRG}} [[Rolf Stommelen]]<br> {{flagicon|FRG}} [[Axel Plankenhorn]]
+| [[Porsche 935]] K3
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 167
+|-
+| [[Porsche]] Type-935 3.0L Turbo Flat-6
+|-
+!rowspan=2| 34<br>DNF
+|rowspan=2| GT
+|rowspan=2| 80
+|rowspan=2| {{flagicon|PRI}} Diego Febles Racing
+|rowspan=2| {{flagicon|PRI}} [[Armando Gonzales]]<br>{{flagicon|PRI}} [[Diego Febles]]<br> {{flagicon|VEN|1954}} [[Francisco Romero (racing driver)|Francisco Romero]]
+| [[Porsche 934]]
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 164
+|-
+| [[Porsche]] 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 35<br>DNF
+|rowspan=2| Gr.5
+|rowspan=2| 44
+|rowspan=2| {{flagicon|GBR}} Charles Ivey Racing
+|rowspan=2| {{flagicon|GBR}} [[Peter Lovett]]<br>{{flagicon|GBR}} [[Dudley Wood]]<br>{{flagicon|GBR}} [[John Cooper (racing driver)|John Cooper]]
+| [[Porsche 935]] K3
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 158
+|-
+| [[Porsche]] Type-935 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 36<br>DNF
+|rowspan=2| S<br>2.0
+|rowspan=2| 28
+|rowspan=2| {{flagicon|ITA}} Scuderia Torino Corse
+|rowspan=2| {{flagicon|ITA}} [[Lella Lombardi]]<br>{{flagicon|GBR}} [[Mark Thatcher]]
+| [[Osella]] PA8
+|rowspan=2| {{Pirelli}}
+|rowspan=2| 157
+|-
+| [[BMW M12]] 2.0 L I4
+|-
+!rowspan=2| 37<br>DNF
+|rowspan=2| IMSA
+|rowspan=2| 85
+|rowspan=2| {{flagicon|USA}} Sun System<br>{{flagicon|USA}} Whittington Brothers Racing
+|rowspan=2| {{flagicon|USA}} [[Hurley Haywood]]<br>{{flagicon|USA}} [[Don Whittington]]<br> {{flagicon|USA}} [[Dale Whittington]]
+| [[Porsche 935]] K3
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 151
+|-
+| [[Porsche]] Type-935 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 38<br>DNF
+|rowspan=2| GT
+|rowspan=2| 91
+|rowspan=2| {{flagicon|FRA}} ASA Cachia
+|rowspan=2| {{flagicon|FRA}} [[Christian Bussi]]<br>{{flagicon|FRA}} [[Bernard Salam]]<br> {{flagicon|FRA}} [[Cyril Grandet]]
+| [[Porsche 934]]
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 137
+|-
+| [[Porsche]] 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 39<br>DNF
+|rowspan=2| IMSA
+|rowspan=2| 71
+|rowspan=2| {{flagicon|USA}} Dick Barbour Racing
+|rowspan=2| {{flagicon|USA}} [[Bobby Rahal]]<br>{{flagicon|USA}} [[Bob Garretson]]<br> {{flagicon|CAN}} [[Allan Moffat]]
+| [[Porsche 935]] K3
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 134
+|-
+| [[Porsche]] Type-935 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 40<br>DNF
+|rowspan=2| IMSA
+|rowspan=2| 77
+|rowspan=2| {{flagicon|FRA}} JMS Racing<br>{{flagicon|FRA}} [[Charles Pozzi]]
+|rowspan=2| {{flagicon|FRA}} [[Jean-Claude Andruet]]<br>{{flagicon|FRA}} [[Claude Ballot-Léna]]
+| [[Ferrari 512BB]]/LM
+|rowspan=2| {{Michelin}}
+|rowspan=2| 129
+|-
+| [[Ferrari]] 4.9 L Flat-12
+|-
+!rowspan=2| 41<br>DNF
+|rowspan=2| S<br>+2.0
+|rowspan=2| 1
+|rowspan=2| {{flagicon|CHE}} André Chevalley Racing
+|rowspan=2| {{flagicon|FRA}} [[Patrick Gaillard]]<br>{{flagicon|FRA}} [[François Trisconi]]<br> {{flagicon|CHE}} [[André Chevalley]]
+| ACR 80 ([[Lola Cars|Lola]] T380)
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 126
+|-
+| [[Ford Motor Company|Ford]] [[Cosworth DFV]] 3.0 L V8
+|- style="font-weight:bold"
+!rowspan=2| 42<br>DNF
+|rowspan=2| GTX
+|rowspan=2| 96
+|rowspan=2| {{flagicon|FRA}} Garage du Bac
+|rowspan=2| {{flagicon|FRA}} [[Frédéric Alliot]]<br>{{flagicon|FRA}} [[Jacques Guérin]]
+| [[BMW M1]]
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 125
+|- style="font-weight:bold"
+| [[BMW M88]] 3.5 L I6
+|-
+!rowspan=2| 43<br>DNF
+|rowspan=2| S<br>+2.0
+|rowspan=2| 15
+|rowspan=2| {{flagicon|FRA}} ITT [[Jean Rondeau]]
+|rowspan=2| {{flagicon|FRA}} [[Henri Pescarolo]]<br>{{flagicon|FRA}} [[Jean Ragnotti]]
+| [[Jean Rondeau|Rondeau]] M379
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 124
+|-
+| [[Ford Motor Company|Ford]] [[Cosworth DFV]] 3.0 L V8
+|-
+!rowspan=2| 44<br>DNF
+|rowspan=2| Gr.5
+|rowspan=2| 41
+|rowspan=2| {{flagicon|FRG}} [[Porsche]] [[Kremer Racing]]
+|rowspan=2| {{flagicon|USA}} [[Ted Field]]<br>{{flagicon|USA}} [[Danny Ongais]]<br> {{flagicon|FRA}} [[Jean-Louis Lafosse]]
+| [[Porsche 935]] K3
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 89
+|-
+| [[Porsche]] 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 45<br>DNF
+|rowspan=2| S<br>2.0
+|rowspan=2| 22
+|rowspan=2| {{flagicon|FRA}} Hubert Striebig
+|rowspan=2| {{flagicon|FRA}} [[Michel Pignard]]<br>{{flagicon|FRG}} [[Mario Ketterer]]<br> {{flagicon|FRA}} [[Hubert Striebig]]
+| Toj SM01
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 79
+|-
+| [[BMW]] 2.0 L I4
+|-
+!rowspan=2| 46<br>DNF
+|rowspan=2| IMSA
+|rowspan=2| 75
+|rowspan=2| {{flagicon|FRA}} JMS Racing<br>{{flagicon|FRA}} [[Charles Pozzi]]
+|rowspan=2| {{flagicon|FRA}} [[Lucien Guitteny]]<br>{{flagicon|FRA}} [[Gérard Bleynie]]
+| [[Ferrari 512BB]]/LM
+|rowspan=2| {{Michelin}}
+|rowspan=2| 47
+|-
+| [[Ferrari]] 4.9 L Flat-12
+|-
+!rowspan=2| 47<br>DNF
+|rowspan=2| IMSA
+|rowspan=2| 82
+|rowspan=2| {{flagicon|GBR}} [[March Engineering|March Racing Ltd.]]
+|rowspan=2| {{flagicon|FRG}} [[Manfred Winkelhock]]<br>{{flagicon|BEL}} [[Patrick Nève]]<br> {{flagicon|FRG}} [[Michael Korton]]
+| [[BMW M1]]
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 38
+|-
+| [[BMW M88]] 3.5 L I6
+|-
+!rowspan=2| 48<br>DNF
+|rowspan=2| Gr.5
+|rowspan=2| 46
+|rowspan=2| {{flagicon|CHE}} Meccarillos Racing
+|rowspan=2| {{flagicon|CHE}} [[Claude Haldi]]<br>{{flagicon|FRA}} [[Bernard Béguin]]<br> {{flagicon|FRG}} [[Volkert Merl]]
+| [[Porsche 935]]
+|rowspan=2| {{Dunlop}}
+|rowspan=2| 37
+|-
+| [[Porsche]] Type-935 2.9 L Turbo Flat-6
+|-
+!rowspan=2| 49<br>DNF
+|rowspan=2| S<br>2.0
+|rowspan=2| 24
+|rowspan=2| {{flagicon|FRA}} ROC&nbsp;— Sociéte Yacco
+|rowspan=2| {{flagicon|FRA}} [[Marc Sourd]]<br>{{flagicon|FRA}} [[Bernard Verdier]]
+| [[Lola Cars|Lola]] T298
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 27
+|-
+| ROC-[[Talbot]] 2.0 L I4
+|-
+!rowspan=2| 50<br>DNF
+|rowspan=2| Gr.5
+|rowspan=2| 52
+|rowspan=2| {{flagicon|ITA}} Scuderia [[Lancia]] Corse
+|rowspan=2| {{flagicon|ITA}} [[Piercarlo Ghinzani]]<br>{{flagicon|FIN}} [[Markku Alén]]<br> {{flagicon|ITA}} [[Gianfranco Brancatelli]]
+| [[Lancia Monte Carlo|Lancia Beta Monte Carlo]]
+|rowspan=2| {{Pirelli}}
+|rowspan=2| 26
+|-
+| [[Lancia]] 1.4 L Turbo I4
+|-
+!rowspan=2| 51<br>DNF
+|rowspan=2| IMSA
+|rowspan=2| 79
+|rowspan=2| {{flagicon|ITA}} Scuderia Supercar Bellancauto
+|rowspan=2| {{flagicon|ITA}} [[Spartaco Dini]]<br>{{flagicon|ITA}} [[Fabrizio Violati]]<br>{{flagicon|ITA}} [[Maurizio Micangeli]]
+| [[Ferrari 512BB]]/LM
+|rowspan=2| {{Michelin}}
+|rowspan=2| 10
+|-
+| [[Ferrari]] 4.9 L Flat-12
+|-
+!rowspan=2| 52<br>DNF
+|rowspan=2| IMSA
+|rowspan=2| 68
+|rowspan=2| {{flagicon|USA}} Racing Associates Inc.
+|rowspan=2| {{flagicon|USA}} [[Skeeter McKitterick]]<br>{{flagicon|USA}} [[Charles Mendez]]<br> {{flagicon|ARG}} [[Leon Walger]]
+| [[Porsche 935]] K3
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 9
+|-
+| [[Porsche]] Type-935 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 53<br>DNF
+|rowspan=2| IMSA
+|rowspan=2| 72
+|rowspan=2| {{flagicon|USA}} Wynn's International<br> {{flagicon|USA}} Dick Barbour Racing
+|rowspan=2| {{flagicon|USA}} [[Robert Kirby (racing driver)|Robert Kirby]]<br>{{flagicon|USA}} [[Mike Sherwin]]<br> {{flagicon|USA}} [[Bob Harmon (racing driver)|Bob Harmon]]
+| [[Porsche 935]] K3
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 7
+|-
+| [[Porsche]] Type-935 3.0 L Turbo Flat-6
+|-
+!rowspan=2| 54<br>DNF
+|rowspan=2| S<br>2.0
+|rowspan=2| 20
+|rowspan=2| {{flagicon|FRA}} Jean-Philippe Grand
+|rowspan=2| {{flagicon|FRA}} [[Jean-Philippe Grand]]<br>{{flagicon|FRA}} [[Yves Courage]]
+| [[Chevron Cars Ltd|Chevron]] B36
+|rowspan=2| {{Goodyear}}
+|rowspan=2| 6
+|-
+| [[BMW M12]] 2.0 L I4
+|-
+!rowspan=2| 55<br>DNF
+|rowspan=2| Gr.5
+|rowspan=2| 51
+|rowspan=2| {{flagicon|ITA}} Scuderia [[Lancia]] Corse
+|rowspan=2| {{flagicon|FRG}} [[Hans Heyer]]<br>{{flagicon|FRA}} [[Bernard Darniche]]<br> {{flagicon|ITA}} [[Teo Fabi]]
+| [[Lancia Monte Carlo|Lancia Beta Monte Carlo]]
+|rowspan=2| {{Pirelli}}
+|rowspan=2| 6
+|-
+| [[Lancia]] 1.4 L Turbo I4
+|-
+|colspan=8 style="text-align:center;"| <ref>{{cite web |editor=Örnerdal, Stefan |title=XLVIII Grand Prix d'Endurance les 24 Heures du Mans 1980 |url=http://www.formula2.net/1980.htm |work=Le Mans Register |accessdate=17 January 2012 |date=1 March 2008 |archiveurl=https://www.webcitation.org/64lq1IySy?url=http://www.formula2.net/1980.htm |archivedate=17 January 2012 |url-status=dead }}</ref>
+|}
+
+==Statistics==
+* Pole Position - #70 Dick Barbour Racing - 3:40.02
+* Fastest Lap - #9 Equipe Liqui Moly&nbsp;— Martini Racing (Jacky Ickx) - 3:40.60
+* Distance - 4608.02&nbsp;km
+* Average Speed - 191.899&nbsp;km/h
+
+==Trophy Winners==
+* Index of Thermal Efficiency - #16 LePoint Jean Rondeau
+
+==References==
+{{reflist}}
+
+{{24 Hours of Le Mans}}
+
+[[Category:24 Hours of Le Mans races]]
+[[Category:1980 in motorsport|Le Mans]]
+[[Category:1980 in French motorsport]]

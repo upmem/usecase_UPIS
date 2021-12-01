@@ -1,0 +1,49 @@
+{{Use dmy dates|date=July 2019}}
+{{Use Australian English|date=July 2019}}
+{{Infobox radio station
+| name               = Mt. Helen FM
+| logo               =
+| city               = [[Murrurundi, New South Wales]]<br/>[[Muswellbrook, New South Wales]]
+| area               = [[Upper Hunter]] and [[Liverpool Plains]]
+| branding           = Mt. Helen FM
+| slogan             =
+| frequency          = 107.3 MHz Murrurundi<br/>101.7 MHz Muswellbrook
+| translator         =
+| repeater           =
+| airdate            = 1994-99 (weekends only)<br/>1999-August 2006 (fulltime)
+| format             = Community, Country music
+| language           =
+| power              =
+| erp                =
+| haat               =
+| class              =
+| facility_id        =
+| coordinates        =
+| callsign_meaning   = Unknown
+| former_callsigns   =
+| former_frequencies =
+| affiliations       =
+| owner              = Mt Helen FM and TV Upper Hunter and Liverpool Plains Community Broadcasting Telecasting & Tourism Association Inc.
+| licensee           =
+| sister_stations    =
+| webcast            =
+| website            = 
+}}
+'''Mt. Helen FM''' (callsign: '''2GGZ''') was a [[community radio]] station, serving the [[Upper Hunter]] and [[Liverpool Plains]] areas of [[New South Wales]]. It operated studios in [[Willow Tree, New South Wales|Willow Tree]] (near [[Murrurundi, New South Wales|Murrurundi]]) and [[Muswellbrook, New South Wales|Muswellbrook]], and operated from transmitters serving both areas.
+
+The station originally began broadcasting on a limited basis, usually only on weekends, in 1994. In 1999, the station was granted a full-time community licence.<ref>Mt Helen Permanently On Air, Newcastle Herald, 10/10/1999, {{cite web |url=http://www.transmitters.com.au/transmitters-articles/1999/9/10/mt-helen-permanently-on-air/ |title=Archived copy |accessdate=2009-08-30 |url-status=dead |archiveurl=https://web.archive.org/web/20110706112718/http://www.transmitters.com.au/transmitters-articles/1999/9/10/mt-helen-permanently-on-air/ |archivedate=2011-07-06 }}</ref> The station's format at its launch until its demise was [[country music]].
+
+When the station applied for its licence renewal in 2004, the [[Australian Broadcasting Authority]] found that the station had not been meeting required standards of community access. On 19 September 2005, the successor to the ABA, the [[Australian Communications and Media Authority]], announced that additional conditions were to be placed on Mt. Helen FM's licence, relating to community involvement and access to air time, and the station's corporate governance.<ref>ACMA imposes licence conditions on Muswellbrook community radio service, Australian Communications and Media Authority, 19/10/2005, http://www.acma.gov.au/WEB/STANDARD/1001/pc=PC_100185 {{dead link|date=January 2017}}</ref>
+
+Over the next year, dates set by ACMA for the station to comply with the new conditions were not met. As a result, the authority issued a formal notice on 31 August 2006 to comply with their additional conditions by 1 October 2006. Instead of complying, the station went off the air in August 2006.<ref>ACMA cancels Mt Helen FM licence in Muswellbrook, NSW, Australian Communications and Media Authority, 15/12/2006, http://www.acma.gov.au/WEB/STANDARD/1001/pc=PC_100998 {{dead link|date=January 2017}}</ref> ACMA cancelled the licence on 15 December 2006.<ref>ACMA cancels Mt Helen FM licence, Community Broadcasting Association of Australia, 08/01/2007, {{cite web |url=http://www.cbonline.org.au/index.cfm?pageId=12,37,3,996 |title=Archived copy |accessdate=2009-08-30 |url-status=dead |archiveurl=https://web.archive.org/web/20100919115133/http://cbonline.org.au/index.cfm?pageId=12,37,3,996 |archivedate=2010-09-19 }}</ref>
+
+The two frequencies used by Mt. Helen FM are still allocated for community use under the Muswellbrook radio licence area plan, and until recently, there were no stations broadcasting on those frequencies. However, since September 2009, 101.7&nbsp;MHz is being used under an unknown licensee as a full-time rebroadcaster of [[SBS Radio]], despite broadcasting from the same site as a proposed rebroadcaster of the same network on 107.7FM,<ref>Assignment Details, Australian Communications and Media Authority, {{cite web |url=http://web.acma.gov.au/pls/radcom/assignment_search.lookup?pACCESS_ID=1814229&pDEVICE_ID=2230939 |title=Archived copy |accessdate=2009-09-04 |url-status=dead |archiveurl=https://archive.is/20120717185514/http://web.acma.gov.au/pls/radcom/assignment_search.lookup?pACCESS_ID=1814229&pDEVICE_ID=2230939 |archivedate=2012-07-17 }}</ref> licensed to the [[Upper Hunter Shire|Upper Hunter Shire Council]].<ref>Licence Details, Australian Communications and Media Authority, {{cite web |url=http://web.acma.gov.au/pls/radcom/assignment_search.lookup?pACCESS_ID=1814229&pDEVICE_ID=2230939 |title=Archived copy |accessdate=2009-09-04 |url-status=dead |archiveurl=https://archive.is/20120717185514/http://web.acma.gov.au/pls/radcom/assignment_search.lookup?pACCESS_ID=1814229&pDEVICE_ID=2230939 |archivedate=2012-07-17 }}</ref> Country music can now be heard on the low-powered [[Hot Country Radio]] narrowcast station in Muswellbrook.
+
+==References==
+{{Reflist}}
+
+{{Upper Hunter Radio}}
+
+{{DEFAULTSORT:Mount Helen FM 101.7 107.3}}
+[[Category:Defunct radio stations in Australia]]
+[[Category:Mass media in the Hunter Region]]

@@ -1,0 +1,15 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Album cover for [[Blue Gene (Gene Pitney album)]]
+|Source = iTunes
+|Date = 1965
+|Author = Unknown
+|Article = Blue Gene (Gene Pitney album)
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = Shows album cover of Blue Gene (Gene Pitney album)
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free album cover|image has rationale=yes}}

@@ -1,0 +1,15 @@
+{{userbox
+| border-c = #0000cd
+| id       = WIKI
+| id-c     = #0000cd
+| id-fc    = {{{id-fc|white}}}
+| id-s     = {{{5|{{{id-s|14}}}}}}
+| info     = This user has a wiki, which can be found '''[http://{{{1}}} here]'''.
+| info-c   = #b0e0e6
+| info-fc  = {{{info-fc|black}}}
+| info-s   = {{{info-s|8}}}
+}}<noinclude>
+{{DEFAULTSORT:Wiki}}
+[[Category:Non-Wikimedia wiki user templates]]
+[[Category:External link user templates]]
+</noinclude>

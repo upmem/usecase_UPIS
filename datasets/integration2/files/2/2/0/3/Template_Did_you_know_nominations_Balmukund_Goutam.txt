@@ -1,0 +1,14 @@
+{{#if:yes|<noinclude>[[Category:Passed DYK nominations&nbsp;from November 2013]]<div style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived discussion of the DYK nomination of the article below. <span style="color:red">'''Please do not modify this page.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as [[{{TALKPAGENAME}}|this nomination's talk page]], [[Talk:{{SUBPAGENAME}}|the article's talk page]] or [[Wikipedia talk:Did you know]]), unless there is consensus to re-open the discussion at this page.  '''No further edits should be made to this page'''.''
+
+The result was: '''promoted''' by [[User:PFHLai|PFHLai]] ([[User talk:PFHLai|talk]]) 00:31, 7 November 2013 (UTC)<br />}}
+{{DYKC}}
+====Balmukund Goutam====
+{{DYK nompage links|nompage=Balmukund Goutam|Balmukund Goutam}}
+* ... that [[Indian National Congress]] politician and Member of the [[Madhya Pradesh Legislative Assembly]] for [[Dhar]] '''[[Balmukund Goutam]]''' was arrested in a [[Rum-running|bootlegging]] case?
+*'''ALT:''' ... that [[Indian National Congress]] politician '''[[Balmukund Goutam]]''' lost in the [[Madhya Pradesh Legislative Assembly Election 2008|2008 Madhya Pradesh Legislative Assembly election]] from [[Dhar]] by a margin of only one vote?
+
+:* ''Reviewed'': [[Template:Did you know nominations/Bevis Bulmer|Bevis Bulmer]]
+<small>Created by [[User:Bill william compton|Bill william compton]] ([[User talk:Bill william compton|talk]]).&nbsp;Self nominated at 19:03, 5 November 2013 (UTC)</small>.
+
+:*  [[File:Symbol voting keep.svg|16px]] Article length of 2300 characters and age of 1 day alright. QPQ done. Hook link of 160 characters is under the 200 maximum and accepted in good faith since I can not read Hindi for the reference. Original hook sounds good to me.--[[User:Doug Coldwell|Doug Coldwell]] ([[User talk:Doug Coldwell|talk]]) 20:15, 5 November 2013 (UTC){{#if:yes|</div></noinclude>|{{#ifeq:{{FULLPAGENAME}}|Template talk:Did you know/{{SUBPAGENAME}}|[[Category:Pending DYK nominations]][[Category:DYK/Nominations|Pending]]|{{#ifeq:{{FULLPAGENAME}}|Template:Did you know nominations/{{SUBPAGENAME}}|[[Category:DYK/Nominations|Pending]][[Category:Pending DYK nominations]]}}}}}}<!--Please do not write below this line or remove this line. Place comments above this line.-->

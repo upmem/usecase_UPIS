@@ -1,0 +1,45 @@
+{{Infobox settlement
+|official_name          = Färna
+|image_skyline          = Fernabruk.jpg
+|image_caption          = 
+|pushpin_map            = Sweden Västmanland#Sweden
+|pushpin_label_position = 
+|subdivision_type       = [[Country]]
+|subdivision_name       = [[Sweden]]
+|subdivision_type3      = [[Municipalities of Sweden|Municipality]]
+|subdivision_name3      = [[Skinnskatteberg Municipality]]
+|subdivision_type2      = [[Counties of Sweden|County]]
+|subdivision_name2      = [[Västmanland County]]
+|subdivision_type1      = [[Provinces of Sweden|Province]]
+|subdivision_name1      = [[Västmanland]]
+|area_footnotes         = <ref name=scb />
+|area_total_km2         = 0.29
+|population_as_of       = 31 December 2010
+|population_footnotes   = <ref name=scb />
+|population_total       = 145
+|population_density_km2 = 495
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|59|46|52|N|15|51|37|E|region:SE|display=inline,title}}
+|website                = 
+}}
+'''Färna''' (or ''"Färna + Bäck"'') is a village situated in [[Skinnskatteberg Municipality]], [[Västmanland County]], [[Sweden]] with 145 inhabitants in 2010.<ref name=scb>{{cite web |url=http://www.scb.se/Statistik/MI/MI0811/2010A01/Tabell_1_2010_web_eng_v2.xls |title=Area, population and density in smaller localities 2005 and 2010 |date=1 November 2012 |publisher=[[Statistics Sweden]] |archiveurl=https://www.webcitation.org/6DGmrc5G3?url=http://www.scb.se/Statistik/MI/MI0811/2010A01/Tabell_1_2010_web_eng_v2.xls |archivedate=29 December 2012 |url-status=live |df=dmy }}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Localities in Skinnskatteberg Municipality}}
+
+{{Use dmy dates|date=April 2012}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Farna}}
+[[Category:Populated places in Västmanland County]]
+[[Category:Populated places in Skinnskatteberg Municipality]]
+
+
+{{västmanland-geo-stub}}

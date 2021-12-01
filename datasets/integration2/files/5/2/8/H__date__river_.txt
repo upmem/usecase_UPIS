@@ -1,0 +1,78 @@
+{{Infobox river
+| name               = Hășdate
+| name_native        = 
+| name_native_lang   = 
+| name_other         = 
+| name_etymology     = 
+<!---------------------- IMAGE & MAP -->
+| image              = Hăşdate Gorge.jpg
+| image_size         = 
+| image_caption      = The Hășdate Gorge between [[Cheile Turzii]] and [[Mihai Viteazu, Cluj|Cornești]]
+| map                = 
+| map_size           = 
+| map_caption        = 
+| pushpin_map        = 
+| pushpin_map_size   = 
+| pushpin_map_caption= 
+<!---------------------- LOCATION -->
+| subdivision_type1  = Country
+| subdivision_name1  = [[Romania]]
+| subdivision_type2  = 
+| subdivision_name2  = 
+| subdivision_type3  = 
+| subdivision_name3  = 
+| subdivision_type4  = Counties
+| subdivision_name4  = [[Cluj County]]
+| subdivision_type5  = Villages
+| subdivision_name5  = [[Săvădisla|Hășdate]], [[Ciurila]], [[Petreștii de Jos]]
+<!---------------------- PHYSICAL CHARACTERISTICS -->
+| length             = {{convert|32|km|mi|abbr=on}} 
+| width_min          = 
+| width_avg          = 
+| width_max          = 
+| depth_min          = 
+| depth_avg          = 
+| depth_max          = 
+| discharge1_location= 
+| discharge1_min     = 
+| discharge1_avg     = 
+| discharge1_max     = 
+<!---------------------- BASIN FEATURES -->
+| source1            = 
+| source1_location   = 
+| source1_coordinates= 
+| source1_elevation  = 
+| mouth              = [[Arieș]]
+| mouth_location     = [[Mihai Viteazu, Cluj|Corneşti]]
+| mouth_coordinates  = {{coord|46.526|23.686|display=inline,title}}
+| mouth_elevation    = 
+| progression        = {{RArieș}}
+| river_system       = 
+| basin_size         = {{convert|213|km2|abbr=on}}
+| tributaries_left   = [[Micuș]]
+| tributaries_right  = 
+| custom_label       = 
+| custom_data        = 
+| extra              = 
+}}
+
+The '''Hășdate''' (also: ''Hăjdate'', {{lang-hu|Hesdát-patak}}) is a small river in the [[Apuseni Mountains]], [[Cluj County]], western [[Romania]]. It is a left [[tributary]] of the river [[Arieș]].{{GeoSource|RO|Annex7|325}}{{GeoSource|RO|Atlas|152-153|IV.1.81.31}} It flows through the municipalities [[Săvădisla]], [[Ciurila]] and [[Petreștii de Jos]], and joins the Arieș at [[Mihai Viteazu, Cluj|Corneşti]], near [[Turda]]. Its length is {{convert|32|km|abbr=on}} and its basin size is {{convert|213|km2|abbr=on}}.{{GeoSource|RO|Atlas|152-153|IV.1.81.31}} It formed the [[Cheile Turzii]], a narrow river gorge.
+
+==Tributaries==
+The following rivers are tributaries to the river Hășdate (from source to mouth):{{GeoSource|RO|Atlas|152-153|IV.1.81.31}}
+
+*Left: Sălicea, Săliște, [[Micuș]], Negoteasa 
+*Right: Filea, Livada, Petridul
+
+==References==
+{{Reflist}}
+{{commons category|Hășdate River}}
+* Trasee turistice - județul Cluj [http://www.e-calauza.ro/index.php?afiseaza=trasee-turistice-cluj]
+
+{{Portal bar|Romania}}
+
+[[Category:Rivers of Romania]]
+[[Category:Rivers of Cluj County]]
+
+
+{{Cluj-river-stub}}

@@ -1,0 +1,39 @@
+{{short description|English chemist}}
+'''John Philip Simons''' {{post-nominals|country=GBR|FRS|FRSC}} (born 20 April 1934)<ref name=LoC>{{cite web |url=https://id.loc.gov/authorities/names/no2011098218.html |title=Simons, John Philip |publisher=[[Library of Congress]] |accessdate=22 November 2020}}</ref> is a British [[physical chemistry|physical chemist]] known for his research in [[photochemistry]] and photophysics, molecular [[chemical reaction|reaction]] dynamics and the [[spectroscopy]] of biological molecules.<ref name=MolPhys_editorial /><ref name=RoyalSoc_bio /> He was professor of physical chemistry at the [[University of Nottingham]] (1981–93) and [[Dr Lee's Professorships|Dr. Lee's Professor of Chemistry]] at the [[University of Oxford]] (1993–99).
+
+==Education==
+Simons studied at the [[University of Cambridge]], graduating in 1955.{{cn|date=November 2020}} His PhD is from Cambridge, under the supervision of [[Ronald George Wreyford Norrish]].<ref name=Leach_bio>{{cite journal |url=https://royalsocietypublishing.org/doi/10.1098/rsbm.2020.0018 |title=Sydney Leach. 11 April 1924—24 December 2019 |authors=[[David Field (astrophysicist)|D. Field]], J. P. Simons and [[Charles S. Cockell|Charles Cockell]] |journal=[[Biographical Memoirs of Fellows of the Royal Society]] |date=16 September 2020 |doi=10.1098/rsbm.2020.0018}}</ref> 
+
+==Career==
+Simons first worked at the [[University of Birmingham]], successively holding positions as an [[Imperial Chemical Industries|ICI]] Fellow (1960), lecturer (1961–67),<ref name=Exeter_bio /> reader (from 1975) and professor of [[photochemistry]] from 1979.{{cn|date=November 2020}} In 1981 he became professor of physical chemistry at the [[University of Nottingham]]. In 1993 he was appointed [[Dr Lee's Professorships|Dr. Lee's Professor of Chemistry]] at the [[University of Oxford]] and fellow of [[Exeter College, Oxford|Exeter College]].<ref name=Leach_bio /><ref name=Exeter_bio>{{cite web |url=https://www.exeter.ox.ac.uk/people/professor-john-simons/ |title=Professor John Simons, MA Oxf, FRS |accessdate=22 November 2020}}</ref> He retired in 1999.<ref name=Exeter_bio />
+
+==Research==
+Simons' initial research at the University of Birmingham investigated the dynamics of molecular photodisassociation.<ref name=MolPhys_editorial /> The development of a high-speed rotor by [[Philip Burton Moon]] at Birmingham allowed Simons to apply this apparatus with crossed molecular beams at supersonic speed to examining the dynamics of photochemical reactions and bimolecular collisions.<ref name=MolPhys_editorial /><ref name=RoyalSoc_bio /> At Nottingham, he started to use tuneable lasers to investigate reaction dynamics.<ref name=MolPhys_editorial /> He was a pioneer of the use of Doppler-resolved, polarised laser spectroscopy to generate three-dimensional images of molecules colliding (stereodynamics),<ref name=RoyalSoc_bio /> and is regarded as "one of the founding fathers in the field of 'stereodynamics'".<ref name=MolPhys_editorial />
+
+His later research at Oxford used infrared and ultraviolet laser spectroscopy and quantum chemical calculations to investigate the three-dimensional structure and interactions of [[carbohydrate]]s, [[peptide]]s, [[neurotransmitter]]s and other small biomolecules in the absence of environmental noise.<ref name=MolPhys_editorial /><ref name=RoyalSoc_bio>{{cite web|url=https://royalsociety.org/people/john-simons-12283/ |title=John Simons &#124; Royal Society |website=royalsociety.org}}</ref>
+
+==Awards and honours==
+Simons was elected [[Fellow of the Royal Society of Chemistry]] in 1979,{{cn|date=November 2020}} and served as honorary secretary and president of the society's [[Faraday Society|Faraday Division]]<ref name=RoyalSoc_bio /> (1993–95). He became a [[Fellow of the Royal Society]] in 1989,<ref name=RoyalSoc_bio /> and served on the society's Council<ref name=RoyalSoc_bio /> (1999–2000). He gave the Royal Society's Humphry Davy Lecture<ref name=RoyalSoc_bio /> (2001) and received the society's [[Davy Medal]] in 2007.<ref name=RoyalSoc_bio /><ref>{{cite web |url=https://docs.google.com/spreadsheets/d/1dsunM9ukGLgaW3HdG9cvJ_QKd7pWjGI0qi_fCb1ROD4/pubhtml?gid=1021770356&single=true |title=Award winners: Davy Medal |publisher=Royal Society |accessdate=22 November 2020}}</ref> Other awards include the [[Royal Society of Chemistry]]'s [[Tilden Prize]] (1982–3),<ref name=RoyalSoc_bio /><ref>{{cite web |url=https://www.rsc.org/prizes-funding/prizes/find-a-prize/tilden-prizes/previous-winners/ |title=Tilden Prizes: Previous winners |publisher=Royal Society of Chemistry |accessdate=22 November 2020}}</ref> Chemical Dynamics Award<ref name=RoyalSoc_bio /> (1993), [[Polanyi Medal]] (1996),<ref name=RoyalSoc_bio /><ref>{{cite web |url=https://www.rsc.org/Membership/Networking/InterestGroups/GasKinetics/awards.asp |title=Gas Kinetics Awards: The Polanyi Medal |publisher=Royal Society of Chemistry |accessdate=22 November 2020}}</ref> [[Spiers Memorial Award]] (1999)<ref name=RoyalSoc_bio /><ref>{{cite web |url=https://www.rsc.org/prizes-funding/prizes/archives/spiers-memorial-award/ |title=Spiers Memorial Award |publisher=Royal Society of Chemistry |accessdate=22 November 2020}}</ref> and [[Liversidge Award]] (2007).<ref name=RoyalSoc_bio /><ref>{{cite web |url=https://web.archive.org/web/20200726233941/http://www.rsc.org/ScienceAndTechnology/Awards/LiversidgeAward/PreviousWinners.asp |title=Liversidge Award Previous Winners |publisher=Royal Society of Chemistry |accessdate=22 November 2020}}</ref> He held a visiting Miller Professorship at the [[University of California, Berkeley]].<ref name=RoyalSoc_bio /> 
+
+In 2002 he received an honorary doctorate (DSc) from the [[University of Birmingham]].<ref>{{cite web |url=https://www.birmingham.ac.uk/Documents/university/governance/Honorary-Degrees-of-the-University-of-Birmingham-since-2000.pdf |title=Honorary Graduates of the University of Birmingham since 2000 |publisher=[[University of Birmingham]] |accessdate=22 November 2020}}</ref> In 2005, a special edition of the journal ''[[Molecular Physics (journal)|Molecular Physics]]'' was published to honour Simons' seventieth birthday, the previous year.<ref name=MolPhys_editorial>{{cite journal |authors=Tim Softley, Brian Howard |title=Editorial|journal=[[Molecular Physics (journal)|Molecular Physics]] |volume=103 |year=2005 |page=1465 |doi=10.1080/00268970500137139}}</ref>
+
+==Publications==
+*''Photochemistry and Spectroscopy'' (Wiley-Interscience; 1971) ({{isbn|9780471792024}})
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://royalsociety.org/people/john-simons-12283/ John Simons | Royal Society]
+* [http://academictree.org/chemistry/peopleinfo.php?pid=72945 Chemistry Tree]
+{{DEFAULTSORT:Simons, John (chemist)}}
+[[Category:1934 births]]
+[[Category:20th-century chemists]]
+[[Category:Academics of the University of Birmingham]]
+[[Category:Academics of the University of Nottingham]]
+[[Category:Academics of the University of Oxford]]
+[[Category:Dr Lee's Professors of Chemistry]]
+[[Category:British physical chemists]]
+[[Category:Spectroscopists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Royal Society of Chemistry]]

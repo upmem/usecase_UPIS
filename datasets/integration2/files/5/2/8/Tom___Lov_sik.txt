@@ -1,0 +1,78 @@
+{{short description|Slovak footballer}}
+{{Orphan|date=March 2013}}
+
+{{Infobox football biography
+| name = Tomáš Lovásik
+| image =
+| fullname = 
+| birth_date  = {{Birth date and age|1974|7|31|df=yes}} 
+| birth_place =[[Czechoslovakia]]
+| height = {{height|m=1.91}}
+| currentclub =
+| clubnumber = 
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 1992–1993 
+| years2 = 1994 
+| years3 = 1995 
+| years4 = 1996–1997 
+| years5 = 1998–1999 
+| years6 = 2000 
+| years7 = 2000–2005 
+| years8 = 2005–2011
+| clubs1 = [[Spartak Trnava]] 
+| clubs2 = [[Dukla Trenčín]] 
+| clubs3 = [[Tauris Rimavská Sobota]] 
+| clubs4 = Spartak Trnava 
+| clubs5 = [[SC Weismain]] 
+| clubs6 = [[FC Svit Zlín]] 
+| clubs7 = [[FK Jablonec]] 
+| clubs8 = [[SK Sigma Olomouc]]
+| caps1 = 
+| caps2 = 
+| caps3 = 
+| caps4 = 
+| caps5 = 
+| caps6 = 
+| caps7 = 77  
+| caps8 = 58  
+| goals1 = 
+| goals2 = 
+| goals3 = 
+| goals4 = 
+| goals5 = 
+| goals6 = 
+| goals7 = 0  
+| goals8 = 0 
+| nationalyears1 = 
+| nationalteam1 = 
+| nationalcaps1 = 
+| nationalgoals1 = 
+| pcupdate = 17 May 2010
+| ntupdate =
+}}
+
+'''Tomáš Lovásik''' (born 31 July 1974) is a [[Slovakia|Slovak]] former [[association football|football]] [[Goalkeeper (association football)|goalkeeper]]. He spent most of his career at Czech football clubs, [[FK Jablonec]] and [[SK Sigma Olomouc]], playing over 100 matches in the [[Gambrinus liga]].
+
+==External links==
+* {{Fotbal DNES|id=3000523}}
+* [http://guardian.touch-line.com/StatsCentre.asp?Lang=0&CTID=27&CPID=89&pStr=Player&PLID=65284&TEID=3477 Guardian Football]
+
+{{DEFAULTSORT:Lovasik}}
+[[Category:Slovak footballers]]
+[[Category:SK Sigma Olomouc players]]
+[[Category:FK Jablonec players]]
+[[Category:FC Spartak Trnava players]]
+[[Category:FC Fastav Zlín players]]
+[[Category:Slovak Super Liga players]]
+[[Category:Czech First League players]]
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:Expatriate footballers in the Czech Republic]]
+[[Category:MŠK Rimavská Sobota players]]
+[[Category:AS Trenčín players]]
+[[Category:Association football goalkeepers]]
+
+
+{{Slovakia-footy-goalkeeper-stub}}

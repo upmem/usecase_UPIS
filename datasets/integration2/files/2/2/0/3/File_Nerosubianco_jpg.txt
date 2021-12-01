@@ -1,0 +1,15 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Theatrical poster for the [[Tinto Brass]] film [[Nerosubianco]].
+|Source = http://img843.imageshack.us/img843/5100/798470.jpg
+|Date = 1969
+|Author = Lion Film
+|Article = Nerosubianco
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = Restricted to use in the proper article.
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free poster|image has rationale=yes}}

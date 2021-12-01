@@ -1,0 +1,27 @@
+<!-- NOTE: 
+
+Before posting, please make sure you are familiar with posting guidelines:
+* Please log news events in the present tense.
+* Only list items with news sources; stories without links will be removed. 
+* News stories must be in the English; no other languages please.
+* For each item, please update the most relevant linked article if it is appropriate.
+* Stories added to the main portal page should be of national and regional interest for India. 
+* Do not list the ordinary deaths of prominent persons here. That's what [[Recent deaths]] is for. Exceptions to this rule are made for persons of extreme prominence, such as Jawaharlal Nehru, MS Subbulakshmi, or Mother Teresa.
+* Please do not link to subscription-only sites such as AOL or WSJ (except in the unlikely event that a story is covered substantially better there than anywhere else).
+* Please avoid Yahoo! news links, as those URLs are temporary and die quickly! (You can use a search engine to get the original source.)
+
+EXAMPLE NEWS ITEM:
+*Early elections in November are announced in the [[Netherlands]]. [http://dailytelegraph.news.com.au/story/0,20281,19657647-5001028,00.html (Daily Telegraph)]
+
+-->
+{{Portal:Current events/India/DateHeader2|2007|04|24}}
+<!-- All news items below this line -->
+* [[Indian Institutes of Management|IIMs]] likely to lose autonomy. [http://timesofindia.indiatimes.com/IIMs_likely_to_lose_autonomy/articleshow/1946866.cms  (Times of India)]
+* [[Bahujan Samaj Party|BSP]] surges, [[Samajwadi Party|SP]] losing steam after four rounds in [[Uttar Pradesh|UP]] elections, says exit polls. [http://timesofindia.indiatimes.com/BSP_surges_SP_losing_steam_after_4_rounds/articleshow/1947097.cms  (Times of India)]
+* Open your labs to us: India to [[Earth|global]] [[technology]] firms. [http://www.hindustantimes.com/storypage/storypage.aspx?id=39b94c63-6271-453a-ab60-196d90796c3b&  (Hindustan Times)]
+* [[Tata Motors]] may set up car unit in [[Egypt]]. [http://www.business-standard.com/common/storypage.php?autono=282236&leftnm=1&subLeft=0&chkFlg= (Business Standard)]
+* [[Sundarbans]] faces a threat from [[global warming]] and a mere 45 cm rise in the sea level will destroy 75 per cent of the forest. [http://www.hindu.com/thehindu/holnus/001200704240321.htm (The Hindu Update)]  
+* [[Supreme Court of India|Supreme Court]] to hear quota issue on May 8. [http://www.hindu.com/thehindu/holnus/001200704241510.htm (The Hindu Update)]  
+* [[Reserve Bank of India|RBI]] keeps rates unchanged; lowers growth forecast to 8.5 pc. [http://www.hindu.com/thehindu/holnus/000200704241201.htm (The Hindu Update)]
+* Quotas: [[Government of India |Government]] sees the first glimmer. [http://www.indianexpress.com/story/29268.html (Indian Express)]
+<!-- All news items above this line -->|}

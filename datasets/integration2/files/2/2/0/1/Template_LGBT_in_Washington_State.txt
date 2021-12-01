@@ -1,0 +1,43 @@
+{{Navbox
+|name = LGBT in Washington State
+|title = LGBT in Washington
+|listclass = hlist
+
+|group1 = [[LGBT rights in Washington (state)|LGBT rights]]
+|list1 =
+* [[Same-sex marriage in Washington state|Same-sex marriage]]
+* [[Domestic partnership in Washington (state)|Domestic partnership]]
+
+|group3 = Court cases, legislation, and ballot measures
+|list3 = 
+* ''[[Andersen v. King County]]''
+* [[Washington House Bill 2661]]
+* [[Washington Referendum 71]]
+* [[Washington Referendum 74]]
+
+|group4 = Organizations
+|list4 =
+* [[Citizens for Fairness Hands Off Washington]]
+* [[Equal Rights Washington]]
+* [[Washington Families Standing Together]]
+* [[Washington United for Marriage]]
+* [[Gay City Health Project]]
+* [[Greater Seattle Business Association]]
+* [[Pride Foundation]]
+
+|group5 = Culture
+|list5 =
+* [[LGBT culture in Seattle|Seattle]]
+* [[Seattle Pride]]
+* [[Seattle Lesbian & Gay Film Festival]]
+* [[Capital City Pride]]
+
+|group6 = Related
+|list6 =
+* [[History of the LGBT community in Seattle]]
+* [[Capitol Hill (Seattle)|Capitol Hill]]
+}}
+<noinclude>
+[[Category:LGBT in Washington (state)|Template]]
+[[Category:United States LGBT templates|Washington (state)]]
+</noinclude>

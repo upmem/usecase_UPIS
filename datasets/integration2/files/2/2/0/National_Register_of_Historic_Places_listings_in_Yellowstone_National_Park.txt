@@ -1,0 +1,336 @@
+This is a list of the '''National Register of Historic Places listings in Yellowstone National Park'''.
+
+This is intended to be a complete list of the properties and districts on the [[National Register of Historic Places]] in [[Yellowstone National Park]], [[Wyoming]] and [[Montana]], [[United States]].  The locations of National Register properties and districts for which the latitude and longitude coordinates are included below, may be seen in a Google map.<ref>{{NRHPGoogleMapFootnote}}</ref>
+
+There are 19 properties and districts listed on the National Register in the park, five of which are [[National Historic Landmark]]s.
+
+{{NRHP date for lists|Wyoming}}
+{{GeoGroupTemplate}}{{-}}
+
+== Current listings ==
+{{NRHP header}}
+{{NRHP row
+|pos=1
+|refnum=03001032
+|type=NHLD
+|article=Fort Yellowstone
+|name=Fort Yellowstone
+|address=Mammoth Hot Springs and Norris, Wyoming; Gardiner, Montana, near Buffalo Lake, Idaho
+|city=[[Mammoth Hot Springs, Wyoming|Mammoth Hot Springs]]
+|county=[[Park County, Wyoming]]
+|date=2003-07-31
+|image=Fortyellowstone.jpg
+|lat=44.975
+|lon=-110.698056
+|description=Built to accommodate the Army administration of Yellowstone before the creation of the [[National Park Service]]. National Historic Landmark.
+|commonscat=Fort Yellowstone
+}}
+{{NRHP row
+|pos=2
+|refnum=03001345
+|type=HD
+|article=Grand Loop Road Historic District
+|name=Grand Loop Road Historic District
+|address=Grand Loop Rd.
+|city=[[Yellowstone National Park]]
+|county=[[Park County, Wyoming]]
+|date=2003-12-23
+|image=Tower Creek Bridge Yellowstone.jpg
+|lat=44.637778
+|lon=-110.615
+|description=The primary road network of the park
+|commonscat=Grand Loop Road Historic District
+}}
+{{NRHP row
+|pos=3
+|refnum=85001416
+|type=HD
+|article=Lake Fish Hatchery Historic District
+|name=Lake Fish Hatchery Historic District
+|address=[[Yellowstone National Park]]
+|city=[[Canyon Village, Wyoming|Canyon Village]]
+|county=[[Teton County, Wyoming]]
+|date=1982-12-07
+|image=Lake Fish Hatchery, Yellowstone.jpg
+|lat=44.549444
+|lon=-110.403611
+|description=Former Fish and Wildlife hatchery
+|commonscat=Lake Fish Hatchery
+}}
+{{NRHP row
+|pos=4
+|refnum=91000637
+|type=NRHP
+|article=Lake Hotel
+|name=Lake Hotel
+|address=Northwestern shore of [[Lake Yellowstone]]
+|city=[[Yellowstone National Park]]
+|county=[[Teton County, Wyoming]]
+|date=1991-05-16
+|image=Lake Yellowstone Hotel portico.JPG
+|lat=44.549722
+|lon=-110.4
+|description=Grand hotel on the shores of Yellowstone Lake
+|commonscat=Lake Hotel
+}}
+{{NRHP row
+|pos=5
+|refnum=82001835
+|type=HD
+|article=Lamar Buffalo Ranch
+|name=Lamar Buffalo Ranch
+|address=East of Mammoth Hot Springs on Northeast Entrance Rd.
+|city=[[Mammoth Hot Springs, Wyoming|Mammoth Hot Springs]]
+|county=[[Park County, Wyoming]]
+|date=1982-12-07
+|image=Lamar Buffalo Ranch in landscape.jpg
+|lat=44.892222
+|lon=-110.239722
+|description=<!-- Description goes here -->
+|commonscat=Lamar Buffalo Ranch
+}}
+{{NRHP row
+|pos=6
+|refnum=82001720
+|type=NRHP
+|article=Madison Museum
+|name=Madison Museum
+|address=[[Yellowstone National Park]]
+|city=[[Madison Junction, Wyoming|Madison Junction]]
+|county=[[Teton County, Wyoming]]
+|date=1982-07-09
+|image=Madison Museum.jpg
+|lat=44.642222
+|lon=-110.861389
+|description=One of a series of "trailside museums", part of National Historic Landmark group
+|commonscat=Madison Museum
+}}
+{{NRHP row
+|pos=7
+|refnum=02000257
+|type=HD
+|article=Mammoth Hot Springs Historic District
+|name=Mammoth Hot Springs Historic District
+|address=North Entrance Rd. and Mammoth-Norris Rd.
+|city=[[Yellowstone National Park]]
+|county=[[Park County, Wyoming]]
+|date=2002-03-20
+|image=Mammoth Hot Springs Historic District.jpg
+|lat=44.976944
+|lon=-110.697778
+|description=National Park Service facilities built between [[Mammoth Hot Springs]] and Fort Yellowstone
+|commonscat=Mammoth Hot Springs Historic District
+}}
+{{NRHP row
+|pos=8
+|refnum=83003362
+|type=NRHP
+|article=Norris Geyser Basin Museum
+|name=Norris Museum/Norris Comfort Station
+|address=Grand Loop Rd.
+|city=[[Yellowstone National Park]]
+|county=[[Park County, Wyoming]]
+|date=1983-07-21
+|image=Norris Museum Winter.JPG
+|lat=44.726111
+|lon=-110.705833
+|description=One of a series of "trailside museums", part of National Historic Landmark group
+|commonscat=Norris Museum
+}}
+{{NRHP row
+|pos=9
+|refnum=87001445
+|type=NHLD
+|article=Norris, Madison, and Fishing Bridge Museums
+|name=Norris, Madison, and Fishing Bridge Museums
+|address=Norris Geyser Basin, Madison Junction, and Fishing Bridge
+|city=[[Yellowstone National Park]]
+|county=[[Teton County, Wyoming]]
+|date=1987-05-28
+|image=Fishing Bridge Museum Interior.JPG
+|lat=44.643889
+|lon=-110.646944
+|description=Three separate "trailside museums," each previously listed on the NRHP, collectively listed as a National Historic Landmark
+|commonscat=Norris, Madison, and Fishing Bridge Museums
+}}
+{{NRHP row
+|pos=10
+|refnum=02000529, 02000530
+|type=HD
+|article=North Entrance Road Historic District
+|name=North Entrance Road Historic District
+|address=[[Yellowstone National Park]]
+|city=[[Yellowstone National Park]]
+|county=[[Park County, Wyoming]] and [[Park County, Montana]]
+|date=2002-05-22
+|image=2003-08-19 Grand Loop Rd bridge over Gardner River in Yellowstone.jpg
+|lat=45.006667
+|lon=-110.699444
+|description=The road from Mammoth Hot Springs, Wyoming to [[Gardiner, Montana]] at the north entrance to the park
+|commonscat=North Entrance Road Historic District
+}}
+{{NRHP row
+|pos=11
+|refnum=87001435
+|type=NHL
+|article=Northeast Entrance Station
+|name=Northeast Entrance Station
+|address=[[Yellowstone National Park]]
+|city=[[Yellowstone National Park]]
+|county=Park County, Montana
+|date=1987-05-28
+|image=Yellowstone NP Northeast Entrance Station.jpg
+|lat=45.004722
+|lon=-110.009167
+|description=The park entrance at the [[Beartooth Highway]]. National Historic Landmark.
+|commonscat=Northeast Entrance Station
+}}
+{{NRHP row
+|pos=12
+|refnum=96000973
+|type=NHL
+|article=Obsidian Cliff
+|name=Obsidian Cliff
+|address=Approximately 13 miles south of Mammoth; eastern side of [[U.S. Route 89]], south of Obsidian Cliff Kiosk
+|city=[[Mammoth, Wyoming|Mammoth]]
+|county=[[Park County, Wyoming]]
+|date=1996-06-19
+|image=Obsidian cliff.jpg
+|lat=44.807778
+|lon=-110.697778
+|description=Source of arrow points for prehistoric Native Americans. National Historic Landmark.
+|commonscat=Obsidian Cliff
+}}
+{{NRHP row
+|pos=13
+|refnum=82001719
+|type=NRHP
+|article=Obsidian Cliff Kiosk
+|name=Obsidian Cliff Kiosk
+|address=[[Yellowstone National Park]]
+|city=[[Mammoth, Wyoming|Mammoth]]
+|county=[[Park County, Wyoming]]
+|date=1982-07-09
+|image=Obsidian Cliff Kiosk cropped.jpg
+|lat=44.822222
+|lon=-110.733889
+|description=Rustic interpretive display
+|commonscat=Obsidian Cliff Kiosk
+}}
+{{NRHP row
+|pos=14
+|refnum=82001839
+|type=HD
+|article=Old Faithful Historic District
+|name=Old Faithful Historic District
+|address=Both sides of Grand Loop Rd. at [[Old Faithful Geyser]]
+|city=[[Yellowstone National Park]]
+|county=[[Teton County, Wyoming]]
+|date=1982-12-07
+|image=Old Faithful HD laundry manager's residence.jpg
+|lat=44.453611
+|lon=-110.835833
+|description=Encompasses the Old Faithful Inn and surrounding historic structures
+|commonscat=Old Faithful facilities
+}}
+{{NRHP row
+|pos=15
+|refnum=73000226
+|type=NHL
+|article=Old Faithful Inn
+|name=Old Faithful Inn
+|address=West of West Thumb at [[Old Faithful Geyser]] on Grand Loop Rd.
+|city=[[West Thumb, Wyoming|West Thumb]]
+|county=[[Teton County, Wyoming]]
+|date=1973-07-23
+|image=Old Faithful Inn main facade.jpg
+|lat=44.459722
+|lon=-110.830278
+|description=Iconic log hotel. National Historic Landmark.
+|commonscat=Old Faithful Inn
+}}
+{{NRHP row
+|pos=16
+|refnum=01000790
+|type=NRHP
+|article=Queen's Laundry Bath House
+|name=Queen's Laundry Bath House
+|address=Sentinel Meadows, Lower Geyser Basin
+|city=[[Yellowstone National Park]]
+|county=[[Teton County, Wyoming]]
+|date=2001-07-25
+|image=Queen's Laundry 1964.jpg
+|lat=44.563889
+|lon=-110.869722
+|description=Ruins of a bathing facility at a hot spring
+}}
+{{NRHP row
+|pos=17
+|refnum=14000219
+|type=HD
+|article=Beartooth Highway
+|name=Red Lodge-Cooke City Approach Road Historic District
+|address=[[US 212]]
+|city=[[Cooke City, Montana|Cooke City]]
+|county=[[Park County, Montana]]
+|date=2014-05-08
+|image=BeartoothSign.jpg
+|lat=45.018237
+|lon=-109.940198
+|description=
+|commonscat=Beartooth Highway
+}}
+{{NRHP row
+|pos=18
+|refnum=83003363
+|type=HD
+|article=Roosevelt Lodge Historic District
+|name=Roosevelt Lodge Historic District
+|address=Grand Loop Rd.
+|city=[[Yellowstone National Park]]
+|county=[[Park County, Wyoming]]
+|date=1983-04-04
+|image=Roosevelt Lodge gable.jpg
+|lat=44.913056
+|lon=-110.415556
+|description=Historic lodge and cabins in the northern portion of the park
+|commonscat=Camp Roosevelt, Yellowstone National Park
+}}
+{{NRHP row
+|pos=19
+|refnum=87000789
+|type=NRHP
+|article=U.S. Post Office (Yellowstone National Park)
+|name=US Post Office-Yellowstone Main
+|address=Mammoth, off Grand Loop Rd.
+|city=[[Yellowstone National Park]]
+|county=[[Park County, Wyoming]]
+|date=1987-05-19
+|image=Post Office, Mammoth Hot Springs.jpg
+|lat=44.976944
+|lon=-110.697778
+|description=Post office facility at Fort Yellowstone, part of a series of post offices from the 1920s in Wyoming
+|commonscat=Mammoth Hot Springs Post Office
+}}
+|}
+
+== See also ==
+* [[National Register of Historic Places listings in Teton County, Wyoming]]
+* [[National Register of Historic Places listings in Park County, Wyoming]]
+* [[National Register of Historic Places listings in Park County, Montana]]
+* [[List of National Historic Landmarks in Wyoming]]
+* [[National Register of Historic Places listings in Wyoming]]
+* [[National Register of Historic Places listings in Montana]]
+
+== References ==
+*Culpin, Mary Shivers. ''National Register of Historic Places Multiple Property Documentation Form: Historic Resources of Yellowstone National Park.'' National Park Service 1995 {{NRHP url|id=64500741|title=}}
+{{reflist|2}}
+
+==External links==
+{{commonscat|position=left|National Register of Historic Places in Yellowstone National Park}}
+
+
+{{NRHP in Yellowstone NP}}
+{{National Register of Historic Places }}
+
+[[Category:National Register of Historic Places in Yellowstone National Park|*]]

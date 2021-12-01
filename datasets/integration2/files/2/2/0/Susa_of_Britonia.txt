@@ -1,0 +1,20 @@
+'''Susa of Britonia''' ({{fl.|653}}) was a medieval [[Britonia]]n priest and bishop in [[Galicia (Spain)|Galicia]].
+
+{{start box}}
+{{s-rel|ca}}
+{{succession box | title=[[Britonia|Bishop of Britonia]] | before=[[Sonna of Britonia]] | after=[[Bela of Britonia]] | years={{fl.|653}}}}
+{{end box}}
+
+== External links ==
+
+* {{in lang|es}} [http://www.mondonedoferrol.org/ Official web site of the Diocese of Mondoñedo-Ferrol]
+
+
+{{authority control}}
+
+[[Category:Galician clergy]]
+[[Category:7th-century bishops]]
+
+
+{{Galicia-bio-stub}}
+{{Spain-RC-bishop-stub}}

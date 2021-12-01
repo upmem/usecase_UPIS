@@ -1,0 +1,33 @@
+{{Infobox NRHP
+  | name =Pioneer Cemetery
+  | nrhp_type = 
+  | image = Pioneer Cemetery Apr 12.JPG
+  | caption = Pioneer Cemetery, April 2012
+  | location= West side of N. Main St. between Gold St. & Beach Rd., [[Evans Center, New York]]
+  | coordinates = {{coord|42|39|11|N|79|02|07|W|display=inline,title}}
+| locmapin = New York#USA
+  | area =less than one acre
+  | built = 
+  | architect=  
+  | architecture= 
+  | added = January 4, 2011
+  | governing_body = Local
+  | mpsub=
+  | refnum=11000997
+<ref name="nps">{{cite web|url=http://www.cr.nps.gov/nr/listings/20120113.htm|title=National Register of Historic Places Listings|date=2012-01-13|work=Weekly List of Actions Taken on Properties: 1/03/12 through 1/06/12|publisher=National Park Service}}</ref>
+}}
+'''Pioneer Cemetery''', also known as Evans Center Cemetery, is a historic [[cemetery]] located at [[Evans Center, New York|Evans Center]] in [[Erie County, New York]].  It consists of 10 to 11 rows of burials, with the oldest dating to 1810.  The majority of the burials date between 1810 and 1860, with the most recent burial in 1928. Most are marked with simple tablet headstones. It features hilly terrain with a prominent rise at the center of the cemetery.<ref name="NysNrhpNom">{{cite web| url = https://cris.parks.ny.gov/| title = Cultural Resource Information System (CRIS)| publisher = [[New York State Office of Parks, Recreation and Historic Preservation]]| format = Searchable database| accessdate = 2016-07-01| archive-url = http://webarchive.loc.gov/all/20190404141934/https://cris.parks.ny.gov/| archive-date = 2019-04-04| url-status = dead}} ''Note:'' This includes {{cite web | url = https://cris.parks.ny.gov/Uploads/ViewDoc.aspx?mode=A&id=26206&q=false | title = National Register of Historic Places Registration Form: Pioneer Cemetery | accessdate = 2016-07-01 | author = Virginia L. Bartos | format = PDF | date = October 2011 }} and [https://cris.parks.ny.gov/Uploads/ViewDoc.aspx?mode=A&id=26208&q=false ''Accompanying eight photographs'']</ref>
+
+It was added to the [[National Register of Historic Places]] in 2012.<ref name="nps"/>
+
+==References==
+{{reflist}}
+
+{{National Register of Historic Places in New York}}
+
+[[Category:Cemeteries on the National Register of Historic Places in New York (state)]]
+[[Category:Cemeteries in Erie County, New York]]
+[[Category:National Register of Historic Places in Erie County, New York]]
+
+
+{{ErieCountyNY-NRHP-stub}}

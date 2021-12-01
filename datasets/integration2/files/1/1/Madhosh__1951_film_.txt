@@ -1,0 +1,72 @@
+{{Use dmy dates|date=November 2015}}
+{{Use Indian English|date=November 2015}}
+{{multiple issues|
+{{Refimprove|date=September 2018}}
+{{Lead too short|date=July 2020}}
+{{No plot|date=July 2020}}
+{{Unreliable sources|date=July 2020}}
+}}
+{{Infobox film
+| name           = Madhosh
+| image          = Madhosh 1951.jpg
+| caption        = Poster
+| director       = [[J.B.H. Wadia]]
+| producer       = [[J.B.H. Wadia]]
+| writer         = [[R.V. Dighe]] (novel "Pankala")<br />[[J.B.H. Wadia]]
+| narrator       = 
+| starring       = [[Manher Desai]]<br />[[Meena Kumari]]<br />[[Usha Kiran]]<br />[[Rajan (actor)|Rajan]]
+| music          = [[Madan Mohan]]<br />[[Vilayat Khan|Khan Saheb Vilayat Khan]]
+| cinematography = [[R.D. Mathur]]
+| editing        = [[K. Sadanand]]
+| studio         = [[Wadia Films Pvt. Ltd.]]
+| distributor    = [[Baba Digital Media]]
+| released       = [[Bollywood films of 1951|1951]]
+| runtime        = 
+| country        = India
+| language       = Hindi
+}}
+
+'''''Madhosh''''' is a [[Bollywood films of 1951|1951]] Bollywood film. The story was loosely based on [[Romeo and Juliet]].
+
+== Cast ==
+* [[Manher Desai]]  :  Raya, the hero
+* [[Meena Kumari]] (as Manhar) :  Soni, the heroine
+* [[Usha Kiran]]  :  Raina, a girl who loves Raya
+* [[Rajan (actor)|Rajan]]  :  Anand, who Soni's parents want her to marry
+* [[Kuldeep Akhtar]]  :  Rambhaji, Raya's father
+* [[Mubarak]]  :  Bhujba or Bhujwa, Soni's father
+* [[Jilloo Maa]] (as Jiloo) :  Soni's mother and Bhujba's wife
+* [[S. Nazir]]  :  Shakriya
+* [[Habib Sandow]]  :  Pahadji
+* [[Shivdutt]]  :  Vamia
+* [[Bismillah (actor)|Bismillah]] (as Bismilla) :  Narayan
+* [[Ramakrishna]]  :  Panditji (as Ram Krishan)
+* Goldstein  :  Police Superintendent
+
+== Music ==
+#"Meri Yaad Me Tum Na Aansu Bahana" – [[Talat Mahmood]]
+#"Jab Aane Wale Aate Hain, Phir Aake Chale Kyo Jaate Hai" – [[Lata Mangeshkar]]
+#"Mere Dil Ki Nagariya Me Aana, Na Aa Ke Jana Balam Pardesiya" – Lata Mangeshkar
+#"Hame Ho Gaya Tumse Pyar Bedardi Balma" – Lata Mangeshkar
+#"Chhod Mujhe Na Jana, Dil Ko Na Mere Dukhana" – Lata Mangeshkar
+#"Pagdi Pahan Ke Turredar Akadta Kyo Hai" – [[S. D. Batish]], [[Shamshad Begum]]
+#"Meri Aankhon Ki Neend Le Gaya" – Lata Mangeshkar
+#"Nazro Ke Char Hote Der Nahi Lagti (Dil Dhak Dhak Dhak – 2)" – Lata Mangeshkar
+#"Dil Dhak Dhak Dhak" – Chandbala
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{IMDb title|0139443}}
+* [http://memsaabstory.com/2011/01/20/madhosh-1951/ Story synopsis]
+
+[[Category:Indian films]]
+[[Category:1951 films]]
+[[Category:Films scored by Madan Mohan]]
+[[Category:1950s Hindi-language films]]
+[[Category:Films scored by Vilayat Khan]]
+[[Category:Indian black-and-white films]]
+
+
+{{1950s-Hindi-film-stub}}

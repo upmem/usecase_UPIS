@@ -1,0 +1,64 @@
+{{unreferenced|date=December 2018}}
+{{Infobox album
+| name       = The Bourbon Legend
+| type       = studio
+| artist     = [[Jason Boland & The Stragglers]]
+| cover      = jbstbl.jpg
+| alt        =
+| released   = October 31, 2006
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Red Dirt (music)|Red Dirt]], [[Texas Country]]
+| length     =
+| label      = Sustain Records
+| producer   = [[Pete Anderson]]
+| prev_title = [[Somewhere in the Middle]]
+| prev_year  = 2004
+| next_title = [[Comal County Blue]]
+| next_year  = 2008
+}}
+
+'''''The Bourbon Legend''''' is [[Jason Boland & The Stragglers]]'s fifth album. It was released in the fall of 2006. The song "Rattlesnakes" is a cover, co-written with the late [[Bob Childers]].  It was produced by longtime [[Dwight Yoakam]] collaborator [[Pete Anderson]].
+
+==Track listing==
+#"Last Country Song" (Jason Boland, [[Pete Anderson]]) - 3:40
+#"The Bourbon Legend" (Boland, Drew Kennedy, Anderson) - 3:19
+#"No One Left To Blame" (Boland, Anderson) - 4:02
+#"Jesus and Ruger" (Boland) - 3:27
+#"Up and Gone" (Boland, Anderson) - 4:40
+#"Baby That's Just Me" (Boland, [[Mike McClure]]) - 4:11
+#"Can't Tell If I Drink" (Boland, Peter Dawson) - 3:29
+#"Lonely By Choice" (Roger Ray) - 2:59
+#"Rattlesnakes" ([[Bob Childers]], Boland) - 3:38
+#"Time In Hell" (Boland, Anderson) - 4:06
+#"Everyday Life" (Boland) - 5:22
+
+==Personnel==
+*Jason Boland - Vocals, Acoustic Guitar  
+*Roger Ray - Electric Guitar, Pedal Steel, Lap Steel
+*Brad Rice - Drums
+*Grant Tracy - Bass Guitar
+*Noah Jeffries - Fiddle, Mandolin
+*Pete Anderson - Electric Guitar, Acoustic Guitar, Bass Guitar, Mandolin, Dobro, Banjo, Percussion
+*Bob "Boo" Bernstein - Pedal Steel
+*Donny Reed - Fiddle
+*Anthony Crawford - Background Vocals
+*Tommy Funderburk - Background Vocals
+*Michael Murphy - Keyboards
+
+==Chart performance==
+{| class="wikitable"
+! Chart (2006)
+! Peak<br />position
+|-
+| U.S. ''Billboard'' Top Country Albums
+| align="center"| 67
+|}
+
+{{Jason Boland & the Stragglers}}
+{{DEFAULTSORT:Bourbon Legend}}
+[[Category:Jason Boland & The Stragglers albums]]
+[[Category:2006 albums]]
+[[Category:Albums produced by Pete Anderson]]
+{{2000s-country-album-stub}}

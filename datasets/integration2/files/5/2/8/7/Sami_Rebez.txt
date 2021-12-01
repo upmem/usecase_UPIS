@@ -1,0 +1,30 @@
+{{short description|Lebanese alpine skier}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox sportsperson
+| name           = Sami Rebez
+| full_name      = 
+| image          = 
+| caption        = 
+| nationality    = Lebanese
+| sport          = [[Alpine skiing]]
+| birth_date     = {{birth date and age|1960|9|12|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+}}
+
+'''Sami Rebez''' (born 12 September 1960) is a Lebanese [[Alpine skiing|alpine skier]]. He competed in [[Alpine skiing at the 1980 Winter Olympics|two events]] at the [[1980 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/re/sami-rebez-1.html |archive-url=https://web.archive.org/web/20200418064259/https://www.sports-reference.com/olympics/athletes/re/sami-rebez-1.html |url-status=dead |archive-date=18 April 2020 |title=Sami Rebez Olympic Results |accessdate=20 March 2018}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rebez, Sami}}
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:Lebanese male alpine skiers]]
+[[Category:Olympic alpine skiers of Lebanon]]
+[[Category:Alpine skiers at the 1980 Winter Olympics]]
+[[Category:Place of birth missing (living people)]]
+{{Lebanon-alpine-skiing-bio-stub}}

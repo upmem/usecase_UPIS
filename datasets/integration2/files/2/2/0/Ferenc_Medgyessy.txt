@@ -1,0 +1,54 @@
+{{Infobox artist
+| honorific_prefix = 
+| name             = Ferenc Medgyessy
+| honorific_suffix = 
+| image            = Ferenc Medgyessy plaque Bp08 Százados8.jpg
+| image_size       = 
+| alt              = 
+| caption          = Commemorative plaque to Mr. Ferenc Medgyessy (1881–1958) Hungarian sculptor and professor. It is affixed on a studio house of the artists’ colony of the Százados Street in Budapest where he lived and worked between 1911 and 1958. Author of the bronz relief is Mr. Iván Szabó. (Budapest, District VIII, Százados Street Nr 8).
+| native_name      = 
+| native_name_lang = 
+| birth_name       = <!-- only use if different from name -->
+| birth_date       = 1881
+| birth_place      = [[Debrecen]], [[Kingdom of Hungary|Hungary]]
+| death_date       = {{Death year and age|1958|1881}} 
+| death_place      = [[Budapest]], Hungary
+| resting_place    = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| nationality      = Hungary
+| residence        = 
+| education        = 
+| alma_mater       = 
+| known_for        = 
+| notable_works    = 
+| style            = [[Folk realism]]
+| home_town        = 
+| movement         = 
+| spouse           = 
+| partner          = 
+| awards           = <!-- {{awd|award|year|title|role|name}} (optional) -->
+| elected          = 
+| patrons          = 
+| memorials        = 
+| website          = <!-- {{URL|Example.com}} -->
+| module           = 
+}}
+
+'''Ferenc Medgyessy''' (1881 in [[Debrecen]], [[Kingdom of Hungary|Hungary]] – 1958 in [[Budapest]], Hungary) was a [[List of Hungarian sculptors|Hungarian sculptor]] and physician. After graduating in medicine he studied art in [[Paris]], later he studied [[Michelangelo]] and the [[Etruscan civilization|Etruscan]] art in [[Florence]]. His art was dominated by folk [[Realism (visual arts)|realism]].
+
+==External links==
+*[http://www.hung-art.hu/frames-e.html?/english/m/medgyess/ Short Biography and works by Ferenc Medgyessy]
+{{Commons category|Ferenc Medgyessy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Medgyessy, Ferenc}}
+[[Category:1881 births]]
+[[Category:1958 deaths]]
+[[Category:Hungarian sculptors]]
+[[Category:Artists from Budapest]]
+[[Category:Burials at Kerepesi Cemetery]]
+[[Category:20th-century sculptors]]
+
+
+{{Hungary-sculptor-stub}}

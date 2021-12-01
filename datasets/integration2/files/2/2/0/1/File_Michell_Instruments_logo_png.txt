@@ -1,0 +1,24 @@
+== Summary ==
+{{Non-free use rationale logo
+<!-- REQUIRED -->
+ |Article           = Michell Instruments
+ |Use               = Infobox
+<!-- HIGHLY RECOMMENDED -->
+ |Source            = http://www.michell.com/images/Michell_Logo.png
+<!-- ADDITIONAL INFORMATION -->
+ |Used for          = 
+ |Owner             = 
+ |Website           = 
+ |History           = 
+ |Commentary        = 
+<!-- OVERRIDE FIELDS -->
+ |Description       = 
+ |Portion           = 
+ |Low_resolution    = 
+ |Purpose           = 
+ |Replaceability    = 
+ |other_information = 
+}}
+
+== Licensing ==
+{{Non-free logo |image has rationale=yes}}

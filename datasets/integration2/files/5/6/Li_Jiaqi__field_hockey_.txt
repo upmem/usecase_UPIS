@@ -1,0 +1,26 @@
+{{short description|Chinese field hockey player}}
+{{MedalTableTop|medals=
+{{MedalSport | Women's [[field hockey]] }}
+{{MedalCountry | {{CHN}} }}
+{{MedalCompetition | [[Field hockey at the Asian Games|Asian Games]]}}
+{{MedalBronze | [[Field hockey at the 2018 Asian Games|2018 Jakarta]] | [[Field hockey at the 2018 Asian Games – Women|Team competition]]}}
+}}
+
+'''Li Jiaqi''' (born July 2, 1992) is a [[China|Chinese]] [[field hockey]] player. She competed for the [[China women's national field hockey team]] at the [[2016 Summer Olympics]].<ref>{{cite web |title=Jiaqi Li |url=https://www.rio2016.com/en/athlete/jiaqi-li |website=Rio 2016 |accessdate=October 9, 2016 |archiveurl=https://web.archive.org/web/20160826104022/https://www.rio2016.com/en/athlete/jiaqi-li |archivedate=August 26, 2016 |url-status=dead }}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Li, Jiaqi}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:Chinese female field hockey players]]
+[[Category:Field hockey players at the 2016 Summer Olympics]]
+[[Category:Olympic field hockey players of China]]
+[[Category:Field hockey players at the 2018 Asian Games]]
+[[Category:Asian Games bronze medalists for China]]
+[[Category:Asian Games medalists in field hockey]]
+[[Category:Medalists at the 2018 Asian Games]]
+
+
+{{PRChina-fieldhockey-bio-stub}}

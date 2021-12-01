@@ -1,0 +1,130 @@
+{{Infobox river
+| name               = Las Piedras River
+| name_native        = 
+| name_native_lang   = 
+| name_other         = Río Tacuatimanu
+| name_etymology     = 
+<!---------------------- IMAGE & MAP -->
+| image              = Las Piedras River Outlook.jpg
+| image_size         = 300
+| image_caption      = Drone photo from lower Las Piedras River
+| map                = Map of Las Piedras River and Pariamanu.png
+| map_size           = 300
+| map_caption        = 
+| pushpin_map        = 
+| pushpin_map_size   = 300
+| pushpin_map_caption= 
+<!---------------------- LOCATION -->
+| subdivision_type1  = Country
+| subdivision_name1  = [[Peru]]
+| subdivision_type2  = 
+| subdivision_name2  = 
+| subdivision_type3  = 
+| subdivision_name3  = 
+| subdivision_type4  = 
+| subdivision_name4  = 
+| subdivision_type5  = 
+| subdivision_name5  = 
+<!---------------------- PHYSICAL CHARACTERISTICS -->
+| length             = {{convert|640|km|mi|abbr=on}}<ref name=fao>{{cite book |last1=Ziesler |first1=R. |last2=Ardizzone |first2=G.D. |title=The Inland waters of Latin America |year=1979 |url=http://www.fao.org/docrep/008/ad770b/AD770B06.htm |publisher=[[Food and Agriculture Organization|Food and Agriculture Organization of the United Nations]] |isbn=92-5-000780-9 |chapter=Amazon River System |archiveurl=https://web.archive.org/web/20131021061745/http://www.fao.org/docrep/008/ad770b/AD770B06.htm |archivedate=21 October 2013 |url-status=live}}</ref> 
+| width_min          = 
+| width_avg          = 
+| width_max          = 
+| depth_min          = 
+| depth_avg          = 
+| depth_max          = 
+| discharge1_location= 
+| discharge1_min     = 
+| discharge1_avg     = 
+| discharge1_max     = 
+<!---------------------- BASIN FEATURES -->
+| source1            = 
+| source1_location   = 
+| source1_coordinates= 
+| source1_elevation  = 
+| mouth              = [[Madre de Dios River]]
+| mouth_location     = 
+| mouth_coordinates  = 
+| mouth_elevation    = 
+| progression        = 
+| river_system       = 
+| basin_size         = 
+| tributaries_left   = 
+| tributaries_right  = 
+| custom_label       = 
+| custom_data        = 
+| extra              = 
+}}
+
+The '''Las Piedras River''', (the "'''River of Stones'''"), is a major [[tributary]] of the [[Madre de Dios River]] in the southeast Peruvian [[Amazon rainforest|Amazon]].<ref name=":0">{{Cite book|title=Indigenous peoples in isolation in the Peruvian Amazon: Their struggle for survival and freedom.|last=Castillo|first=B.H|publisher=IWGIA|year=2004|isbn=|location=|pages=}}</ref>
+
+==Geography of the Piedras Region==
+The Las Piedras River is located in the department of [[Madre de Dios Region|Madre de Dios]], which is the official capital of biodiversity in [[Peru]]
+
+,<ref>{{Cite journal|last=Scullion|first=Jason|date=2014|title=Assessing the influence of land-cover change and conflicting land-use authorizations on ecosystem conversion on the forest frontier of Madre de Dios, Peru|url=|journal=Biological Conservation|volume=171|pages=247–258|via=|doi=10.1016/j.biocon.2014.01.036}}</ref> and is part of the Tropical Andes Biodiversity Hotspot.<ref name=":1">{{Cite journal|last=Meyers|first=Norman|date=|title=2000|url=|journal=Nature|volume=403.6772|pages=853–858|via=}}</ref> The Tropical Andes Biodiversity Hotspot contains the largest percentage of endemic plants and animals in the world.<ref name=":1" /> The Piedras River is the longest tributary of the Madre de Dios River and more than 99 percent of its drainage is in the Amazon lowlands, below 400 meters.<ref>{{Cite book|title=Amazon headwaters: Rivers, wildlife, and conservation in southeastern Peru|last=Goulding|first=M.|publisher=Amazon Conservation Association|year=2003|isbn=|location=|pages=}}</ref> The capital of the Las Piedras District is the town of Planchón, which is located in the province Tambopata in the Madre de Dios Department <ref name=":2">{{Cite book|title=Madre De Dios, Puerto Maldonado, 1902-2002: Cien Años De Historia|last=Santos|first=Kaway|publisher=Editorial Zignos|year=2011|isbn=|location=|pages=}}</ref>
+
+Large portions of the headwaters of the Piedras River are protected by [[Alto Purús National Park|Alto Purus National Park]].<ref>{{Cite web|url=https://protectedplanet.net/303316|title=Alto Purus in Peru|date=29 March 2018|website=Protected Planet}}</ref> Below Alto Purus on the Piedras River is the Reserva Territorial Madre de Dios, which is the official territory of Masco-Piro indigenous people, who have been living in voluntary isolation since at least the time of the rubber boom that began in the 1860s.<ref name=":0" /> Downriver from the Reserva Territorial Madre de Dios are commercial timber [[Concession (contract)|concessions]] and the indigenous territories of Monte Salvado and Puerto Nuevo. Below the timber concessions and indigenous communities are Brazil nut concessions and several small indigenous and mestizo communities, including the mestizo communities of Lucerna and Sabaluyoc.<ref name=":3">{{Cite web|url=http://conservetheamazon.org/las-piedras-river-peruvian-amazon/|title=Las Piedras River in Peru's Amazon Rainforest|date=28 March 2018}}</ref> In this part of the Piedras River watershed, there are also several large private conservation-oriented concessions, including the Las Piedras Amazon Center (LPAC) (11,021 acres - 4,460 ha), run by the Peruvian nonprofit ARCAmazon,<ref name=":3" /> the Arbio concession, run by Arbio Peru <ref>{{Cite web|url=http://www.conservamospornaturaleza.org/area/arbio/|title=Conservamos por Naturaleza. Arbio|date=28 March 2018}}</ref> the Jungle Keepers concession (2,180 acres - 882 ha), which is a Peru-based non-profit,<ref>{{Cite web|url=https://www.junglekeepers.com/whoweare/|title=Jungle Keepers Website. Who We Are|date=29 March 2018|website=Jungle Keepers}}</ref> and land protected by Hoja Nueva, which is a US-based nonprofit.<ref>{{Cite web|url=http://hojanueva.org/|title=Hoja Nueva Home|date=29 March 2018}}</ref>
+
+==History of the Piedras Region==
+[[File:Scarlet Macaw - IM.jpg|alt=Clay lick with scarlet macaws|thumb|353x353px|Scarlet Macaws (''Ara macao)'' at a clay lick]]
+The original indigenous name of the Piedras River is “Tacuatimanu”.<ref name=":2" /> Indigenous communities in the region include the Masco-Piro, Amahuaca and the Yine.<ref name=":0" /> In the first of many expeditions exploring the Piedras River, Father Pío Aza lead a group in 1911 to locate local indigenous groups and settle them in Christian missions.<ref name=":0" /> The Masco-Piro and Amahuaca were exploited and enslaved by rubber barons starting during the rubber boom. The rubber boom arrived in the Las Piedras in 1894 after large concentrations of high-quality rubber were found. Members of the Masco-Piro living in voluntary isolation today are thought to be related to members of the Masco-Piro groups who fled local rubber barons before enslavement or after they attacked the rubber barons for being mistreated and later fled into the forests to avoid persecution.<ref name=":0" />
+
+The Masco-Piro language is part of the Arawak and the Amahuaca is part of the Pano linguistic family.<ref name=":0" /> The Masco-Piro live on the tributaries of the Manu, Los Amigos, Las Piedras, and Tahuamanu Rivers (Castillo 2004). These semi-nomadic groups are believed to move seasonally between the headwaters of the Manu, Alto Púrus, and Las Piedras rivers.<ref>{{Cite book|title=An investigation of illegal mahogany logging in Peru’s Alto Purús National Park and its surroundings.|last=Fagan|first=C|publisher=Parks Watch|year=2005|isbn=|location=Durham NC|pages=}}</ref> The Amahuca live in the community of Boca Pariamanu and in communities in isolation in the upper Piedras River.<ref name=":0" /> The Yine live in the Monte Savado indigenous territory, which is on the border of the Reserva Territorial Madre de Dios. The Yine of Monte Salvado arrived from the Urubamba region of Peru around 1994. Members of the indigenous community of Monte Salvado and the nearby Puerto Nuevo were evacuated by the federal government in 2013 following the appearance of 200 armed indigenous men who raided the village. The raiders took blankets, machetes, rope, and food. It remains unclear what provoked the attack, but various proposals have been put forward, including increasing threats by drug traffickers and loggers and unusually cold weather related to recent climate change.<ref>{{Cite web|url=https://www.theguardian.com/world/2014/dec/23/peru-evacuates-village-tribal-raid|title=Peru evacuates Amazon village after raid by indigenous tribe|date=23 December 2014|website=The Guardian|access-date=28 March 2018}}</ref>
+
+The rubber boom in the Las Piedras River ended around 1912,<ref name=":0" /> but in recent decades the Las Piedras has been host to other forms of resource extraction, including oil prospecting, several timber booms, and the paving of the nearby [[Interoceanic Highway]]. In 1996, the Mobil Oil was granted a 1,500,0000 ha concession to prospect for oil. The company eventually pulled out of the region after insufficient quantities of oil were found.<ref name=":0" /> Logging of tropical hardwoods, particularly cedar and mahogany, has been a local commercial industry since the 1970s. The largest logging boom occurred in the 1990s due indirectly to international demand for mahogany and tropical cedar. In 2002, a study estimated there were 231 logging camps in the Piedras watershed with about 2,000 loggers operating in the area.<ref name=":4">Schulte-Herbrüggen, B., & Rossiter, H. (2003). Project Las Piedras: a socio-ecological investigation into the impact of illegal logging activity in Las Piedras, Madre de Dios, Peru. ''Report, University of Edinburgh, Edinburgh, UK''.</ref> At the time, researchers recorded more than $5 million USD worth of wood traveling to the local market in [[Puerto Maldonado]] and that in one month the logging camps on the Piedras River consumed more than 2,000 mammals and more than 2,000 birds. They also estimated the monthly harvest of bushmeat during this period was around 41,000&nbsp;kg.<ref name=":4" /> During the logging boom of the 1990s and early 2000s, there were increased reports of loggers encountering uncontacted indigenous people, with 17% of loggers interviewed reporting contact with indigenous people living in voluntary isolation.<ref name=":4" /> 
+[[File:Giant River Otter - IM.jpg|alt=Giant River Otter|left|thumb|357x357px|Giant River Otter (''Pteronura brasiliensis'')]]
+
+==Recent Land-Use Changes in the Middle Piedras River==
+
+More recently, the paving of the [[Interoceanic Highway]] has put increased pressure on the forests, wildlife, and indigenous communities of the Piedras region. The Interoceanic Highway was a $2.8 billion (USD) project that upgraded more than 20 bridges and thousands of kilometers of highway. These improvements now enable continuous road travel and the shipment of goods overland between ports in Brazil and ports in Peru.<ref>{{Cite news|url=https://www.nytimes.com/2014/02/23/magazine/south-america-road-trip.html|title=Traveling From Ocean to Ocean Across South America|date=19 February 2014|work=The New York Times|access-date=28 March 2018}}</ref> The full effects of the highway have not yet been experienced, because the highway was only completed in 2011, but portions of the lower and middle Las Piedras are now under increased threat of deforestation. This conclusion is based on the fact that across the border in Acre, Brazil the paved highway affects the forests 45&nbsp;km from the highway <ref>{{Cite journal|last=Southworth|first=J|date=2011|title=Roads as Drivers of Change: Trajectories across the Tri‑National Frontier in MAP, the Southwestern Amazon|url=|journal=Remote Sensing|volume=3.5|pages=1047–1066|via=|doi=10.3390/rs3051047|doi-access=free}}</ref> and there are points where the lower and middle Piedras are within 30&nbsp;km of the highway. In addition to logging, agriculture and ecotourism, Brazil nuts are a major industry in the Piedras watershed. Recent changes to forestry laws are thought to be affecting the increased amount of wood being harvested in Brazil nut concessions in Madre de Dios.<ref>Cossío-Solano, R. E., Guariguata, M. R., Menton, M., Capella, J. L., Rios, L., & Peña, P. (2011). ''El aprovechamiento de madera en las concesiones casta eras (Bertholletia excelsa) en Madre de Dios, Per : Un análisis de su situación normativa'' (No. CIFOR Working Paper no. 56, p. 29p). Center for International Forestry Research (CIFOR), Bogor, Indonesia.</ref>
+
+Since 2013, the ecotourism concessions near the Las Piedras Amazon Center (LPAC) continue to experience deforestation, but LPAC has remained unaffected thanks to the efforts of the Peruvian NGO ARCAmazon.<ref name=":5">{{Cite web|url=http://maaproject.org/2017/mdd_pope/|title=MAAP #75: Pope To Visit Madre De Dios, Region With Deforestation Crisis (Peru)|last=Finer|first=M|date=19 December 2017|website=Monitoring of the Andean Amazon Project}}</ref> The main threat to the forests around LPAC and the nearby community of Lucerna is forest clearing for cacao and cattle.<ref name=":5" /> Since 2013, 1,495 acres (605 hectares) have been cleared, including 300 acres (134 hectares) in 2017.<ref name=":5" /> 
+[[File:Spider Monkey - FHW.jpg|alt=Peruvian Spider Monkey|thumb|320x320px|Peruvian spider monkey (''Ateles chamek'')]]
+
+== Flora and Fauna ==
+The Las Piedras watershed is home to many different animal and plant species. Among these are the endangered Peruvian spider monkey and giant river otter. Giant anteaters, jaguars, ocelots also have been spotted within the watershed.
+
+The river is also home to clay licks, where birds and animals gather to consume sodium and other minerals.  
+[[File:Royal-Flycatcher - TA.jpg|alt=Amazonian Royal Flycatcher|left|thumb|292x292px|Amazonian Royal Flycatcher (''Onychorhynchus coronatus)'']]
+
+==Tributaries of the Piedras River==
+
+·      Ceticayo
+
+·      Chanchamayo
+
+·      Curiacu
+
+·      Huasca
+
+·      Panguana
+
+·      Pingachari
+
+·      Pumayacu
+
+·      Ronsoco
+
+·      Ronsoquito
+
+·      San Francisco
+
+·      Panguamayo
+
+·      Shahuana
+
+·      India
+
+·      Boleo
+
+·      Pariamanu
+
+<ref name=":4" />
+
+==References==
+{{reflist}}
+
+{{coord|11.0667|S|71.7667|W|source:wikidata|display=title}}
+
+[[Category:Rivers of Peru]]
+[[Category:Rivers of Madre de Dios Region]]

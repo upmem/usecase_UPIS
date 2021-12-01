@@ -1,0 +1,90 @@
+{{short description|Israeli film director, producer and screenwriter}}
+{{Infobox person
+| name = Guy Nattiv
+| image = File:Guy Nattiv-8421.jpg
+| caption = Guy Nattiv at the [[69th Berlin International Film Festival]] in 2019
+| birth_date = {{birth date and age|1973|05|24}}
+| birth_place = [[Tel Aviv]], Israel
+| death_date = 
+| death_place = 
+| occupation = {{hlist|Film director|screenwriter|film producer}}
+| spouse = {{marriage|[[Jaime Ray Newman]]|2012}}
+}}
+'''Guy Nattiv''' (born May 24, 1973) is an Israeli film director, screenwriter, and film producer.
+
+==Biography==
+Guy Nattiv was born in [[Tel Aviv]], Israel<ref>{{cite web|url=https://www.berlinale.de/en/archive/jahresarchive/2019/02_programm_2019/02_filmdatenblatt_2019_201910938.html#tab=filmStills|title=Skin|website=[[Berlin International Film Festival]]|date=2019|access-date=June 22, 2020}}</ref> on May 24, 1973.<ref>{{cite web|url=http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=258101.html|title=Guy Nattiv|website=[[AlloCiné]]|access-date=June 22, 2020}}</ref> He graduated from the Camera Obscura School of Arts in 2002.<ref>{{cite web|url=https://mjff.ru/films/362?lang=eng|title=Skin|website=[[Moscow Jewish Film Festival]]|date=2019|access-date=June 22, 2020}}</ref> His 2018 short film, ''[[Skin (2018 short film)|Skin]]'', won the [[Academy Award for Best Live Action Short Film]] at the [[91st Academy Awards]].<ref>{{cite web|url=https://variety.com/2019/film/news/2019-oscars-winners-list-academy-awards-1203145638/|title=Oscar Winners 2019: The Complete List|website=[[Variety (magazine)|Variety]]|date=February 24, 2019|access-date=June 22, 2020}}</ref> He also directed a feature film, ''[[Skin (2018 feature film)|Skin]]'', which had its world premiere at the [[2018 Toronto International Film Festival]].<ref>{{cite web|url=https://deadline.com/2018/09/skin-director-guy-nattiv-interview-toronto-studio-1202460235/|title='Skin' Director On His Connection To The Film's Story Of Redemption – Toronto Studio|website=[[Deadline Hollywood]]|first=Amanda|last=N'Duka|date=September 8, 2018|access-date=June 22, 2020}}</ref> At the 33rd [[Israel Film Festival]] in 2019, he received the IFF Achievement in Film Award.<ref>{{cite web|url=https://www.hollywoodreporter.com/news/israel-film-festival-la-honors-roger-corman-avi-nir-guy-nattiv-1219744|title=Roger Corman, Avi Nir and Guy Nattiv Honored at Israel Film Festival|website=[[The Hollywood Reporter]]|first=Lorraine|last=Wheat|date=June 15, 2019|access-date=June 22, 2020}}</ref>
+
+He is married to [[Jaime Ray Newman]].<ref>{{cite web|url=https://www.moviemaker.com/interview-skin-writer-director-guy-nattiv/|title=Skin Writer-Director Guy Nattiv On Turning His Oscar-Winning Short Into a Feature|website=[[MovieMaker]]|first=Paula|last=Schwartz|date=August 2, 2019|access-date=June 22, 2020}}</ref>
+
+==Filmography==
+===Feature films===
+{| class="wikitable plainrowheaders sortable"
+|-
+! Year 
+! Title 
+! Director
+! Writer
+! Producer
+|-
+| 2007
+| ''[[Strangers (2007 Israeli film)|Strangers]]''
+| {{yes}}
+| {{yes}}
+| {{no}}
+|-
+| 2010
+| ''[[Mabul (film)|Mabul]]''
+| {{yes}}
+| {{yes}}
+| {{no}}
+|-
+| 2014
+| ''Magic Men''
+| {{yes}}
+| {{yes}}
+| {{no}}
+|-
+| 2018
+| ''[[Skin (2018 feature film)|Skin]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|-
+|}
+
+===Short films===
+{| class="wikitable plainrowheaders sortable"
+|-
+! Year 
+! Title 
+! Director
+! Writer
+! Producer
+|-
+| 2018
+| ''[[Skin (2018 short film)|Skin]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|-
+|}
+
+==See also==
+* [[List of Israeli Academy Award winners and nominees]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Guy Nattiv}}
+* {{IMDb name|1142235|Guy Nattiv}}
+
+{{DEFAULTSORT:Nattiv, Guy}}
+[[Category:1973 births]]
+[[Category:Living people]]
+[[Category:People from Tel Aviv]]
+[[Category:Israeli film directors]]
+[[Category:Israeli film producers]]
+[[Category:Israeli screenwriters]]
+[[Category:Directors of Live Action Short Film Academy Award winners]]

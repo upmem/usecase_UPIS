@@ -1,0 +1,27 @@
+== Summary ==
+{{Information
+|Description=Frimley Manor, CTC Frimley Park
+|Source= *Source Site = [http://www.armycadets.com/]
+*Source URL: http://www.armycadets.com/county/frimleypark/assets/frimleypark/housemay07px1.jpg
+|Date=unknown
+|Author= Cadet Training Centre, Frimley Park
+|Permission= Fair Use in [[Cadet Training Centre, Frimley Park]]
+|other_versions=
+}}
+
+== Licensing: ==
+{{Non-free Crown copyright|image has rationale=yes}}
+{{Non-free fair use|image has rationale=yes}}
+
+
+== Fair use rationale ==
+{{Non-free use rationale
+|Description=This image, which is the definitive image of the Cadet Training Centre Main Building, contributes significantly to the article [[Cadet Training Centre, Frimley Park]]
+|Source=Stated above.
+|Article=Cadet Training Centre, Frimley Park
+|Portion=Used in full.
+|Low_resolution=This image is a low resolution copy of a larger artwork, suitable for use on the Internet.  Copies made from it will be of inferior quality.
+|Purpose=To illustrate the article [[Cadet Training Centre, Frimley Park]]
+|Replaceability=No free equivalent of this image can exist; use of this image on Wikipedia does not restrict its use by the copyright holder.
+|other_information=
+}}

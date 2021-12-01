@@ -1,0 +1,11 @@
+==Summary==
+{{Information
+|Description = Hoover showroom in the late 1920s. 
+|Source = I purchased this photo on ebay.
+|Date = 2011/5/6
+|Author = [[User:INTV1980|INTV1980]]
+}}
+
+==Licensing==
+{{self|GFDL|cc-by-sa-3.0|migration=redundant}}
+{{Copy to Wikimedia Commons|bot=ContinuityBot}}

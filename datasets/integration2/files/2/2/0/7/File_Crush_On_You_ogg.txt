@@ -1,0 +1,14 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Audio sample of "Crush on You", the first song on [[Roxette]]'s 1999 album ''[[Have a Nice Day (Roxette album)|Have a Nice Day]]''
+|Source = https://www.7digital.com/artist/roxette/release/have-a-nice-day-2009-version-613248
+|Author = [[Per Gessle]], [[Marie Fredriksson]], [[Roxette]], [[EMI]], Roxette Recordings
+|Article = Have a Nice Day (Roxette album)
+|Purpose = The song is one of four on the album sung by [[Per Gessle]]. It will be used to illustrate the paragraph specifically mentioning the song's composition, style and recording.
+|Replaceability = n.a.
+|Minimality = Its use will be limited to once in the above titled educational article, where it will be used to enhance the commentary on the song's composition.
+|Commercial = n.a.
+}}
+
+==Licensing==
+{{Non-free audio sample}}

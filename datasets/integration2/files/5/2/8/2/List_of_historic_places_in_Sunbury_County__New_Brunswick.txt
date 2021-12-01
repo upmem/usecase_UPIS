@@ -1,0 +1,242 @@
+[[Image:Map of New Brunswick highlighting Sunbury County.png|thumb|right|150px]]
+This article is a '''list of historic places in [[Sunbury County, New Brunswick]]''' entered on the [[Canadian Register of Historic Places]], whether they are federal, provincial, or municipal.
+{{GeoGroup}}
+
+==List of historic places==
+{{HPC header|prov_iso=CA-NB}}
+{{HPC row
+| name = Belmont House / R. Wilmot Home National Historic Site of Canada
+| coordname = Belmont House / R. Wilmot Home National Historic Site of Canada
+| address = Lincoln Road (NB Route 102)
+| municipality = [[Lincoln, New Brunswick|Lincoln]]
+| pc = E3B
+| lat = 45.9136
+| lon = -66.5871
+| region = NB
+| provinceId = 100036
+| idf = 1192
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = George Brown House
+| coordname = George Brown House
+| address = 325 MacDonald Avenue
+| municipality = [[Oromocto, New Brunswick|Oromocto]]
+| pc = E2V
+| lat = 45.8488
+| lon = -66.483370
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18391
+| image =
+}}
+{{HPC row
+| name = Building 2
+| coordname = Building 2 (Superintendent's Residence)
+| address = Acadia Forest Experimental Station
+| municipality = [[Maugerville, New Brunswick|Maugerville]]
+| pc =
+| lat = 46.1665
+| lon = -66.2834
+| region = NB
+| provinceId = 100036
+| idf = 4368
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Building 8
+| coordname = Building 8 (Kitchen)
+| address = Acadia Forest Experimental Station
+| municipality = [[Maugerville, New Brunswick|Maugerville]]
+| pc =
+| lat = 46.1669
+| lon = -66.2834
+| region = NB
+| provinceId = 100036
+| idf = 4371
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Building 10
+| coordname = Building 10 (Bunkhouse)
+| address = Acadia Forest Experimental Station
+| municipality = [[Maugerville, New Brunswick|Maugerville]]
+| pc =
+| lat = 46.1667
+| lon = -66.2832
+| region = NB
+| provinceId = 100036
+| idf = 4373
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Building 11
+| coordname = Building 11 (Four Car Garage)
+| address = Acadia Forest Experimental Station
+| municipality = [[Maugerville, New Brunswick|Maugerville]]
+| pc =
+| lat = 46.1667
+| lon = -66.2834
+| region = NB
+| provinceId = 100036
+| idf = 4372
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Building 12
+| coordname = Building 12 (Staff Housing, Former Stable)
+| address = Acadia Forest Experimental Station
+| municipality = [[Maugerville, New Brunswick|Maugerville]]
+| pc =
+| lat = 46.1667
+| lon = -66.2836
+| region = NB
+| provinceId = 100036
+| idf = 4369
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Building 15
+| coordname = Building 15 (Guest Cabin)
+| address = Acadia Forest Experimental Station
+| municipality = [[Maugerville, New Brunswick|Maugerville]]
+| pc =
+| lat = 45.91
+| lon = -66.33
+| region = NB
+| provinceId = 100036
+| idf = 3152
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = Burpee-Bridges House
+| coordname = Burpee-Bridges House
+| address = 2111 Rt. 105.
+| municipality = [[Sheffield, New Brunswick|Sheffield]]
+| pc = E3A
+| lat = 45.8853
+| lon = -66.3598
+| region = NB
+| provinceId = 100036
+| idf =
+| idp = 5837
+| idm =
+| image =
+}}
+{{HPC row
+| name = Christ Church Anglican National Historic Site of Canada
+| coordname = Christ Church Anglican National Historic Site of Canada
+| address =
+| municipality = [[Maugerville, New Brunswick|Maugerville]]
+| pc = E3A
+| lat = 45.8713
+| lon = -66.4463
+| region = NB
+| provinceId = 100036
+| idf = 12026
+| idp =
+| idm =
+| image =
+}}
+{{HPC row
+| name = History of Coal Mining Monument
+| coordname = History of Coal Mining Monument
+| address = 187 Main Street (adjacent)
+| municipality = [[Minto, New Brunswick|Minto]]
+| pc = E4B
+| lat = 46.0755
+| lon = -66.0734
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12242
+| image =
+}}
+{{HPC row
+| name = Oromocto Cenotaph
+| coordname = Oromocto Cenotaph
+| address = MacDonald Avenue
+| municipality = [[Oromocto, New Brunswick|Oromocto]]
+| pc = E2V
+| lat = 45.8509
+| lon = -66.4743
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18392
+| image =
+}}
+{{HPC row
+| name = St. John's Anglican Church and Graveyard
+| coordname = St. John's Anglican Church and Graveyard
+| address = 60 Broad Road
+| municipality = [[Oromocto, New Brunswick|Oromocto]]
+| pc = E2V
+| lat = 45.8497
+| lon = -66.4725
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 18389
+| image =
+}}
+{{HPC row
+| name = [[Wolastoq National Historic Site of Canada]]
+| coordname = Wolastoq National Historic Site of Canada
+| address = Entire watershed of [[Saint John River (Bay of Fundy)|Saint John River]]
+| municipality = central and western New Brunswick, parts of southeastern Quebec
+| pc = 
+| lat = 45.8630
+| lon = -66.4562
+| region = NB
+| provinceId = 100036
+| idf = 18954
+| idp =
+| idm =
+| image = Oromocto St John River.jpg
+| commonscat=Saint John River
+}}
+{{HPC row
+| name = Yeamans House
+| coordname = Yeamans House
+| address = 4 Yeamans Road
+| municipality = [[Minto, New Brunswick|Minto]]
+| pc = E4B
+| lat = 46.077
+| lon = -66.0499
+| region = NB
+| provinceId = 100036
+| idf =
+| idp =
+| idm = 12243
+| image = Minto 060.JPG
+}}
+{{HPC footer}}
+
+==See also==
+* [[List of historic places in New Brunswick]]
+* [[List of National Historic Sites of Canada in New Brunswick]]
+
+{{DEFAULTSORT:Historic places in Sunbury County, New Brunswick}}
+[[Category:Lists of historic places in New Brunswick|Sunbury County, New Brunswick]]
+[[Category:New Brunswick-related lists]]
+[[Category:Buildings and structures in Sunbury County, New Brunswick|*]]

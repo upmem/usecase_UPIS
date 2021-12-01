@@ -1,0 +1,3 @@
+#REDIRECT [[Template:COVID-19 pandemic data/United States/Massachusetts/Boston medical cases chart]]
+{{Redirect shell|{{R from modification|1={{-r|Template:2019–20 coronavirus pandemic data/Massachusetts/Boston medical cases chart}}}}}}
+{{User:AnomieBOT/Auto-G8|target=Template:2019–20 coronavirus pandemic data/Massachusetts/Boston medical cases chart}}

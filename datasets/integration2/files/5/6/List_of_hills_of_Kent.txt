@@ -1,0 +1,168 @@
+{{short description|Wikipedia list article}}
+This is a '''list of hills in Kent'''. Many of these hills are important historical, archaeological and nature conservation sites, as well as popular hiking and tourist destinations in the county of [[Kent]] in southeast [[England]].
+
+== Colour key==
+{| border=1 cellspacing=0 cellpadding=5 style="border-collapse: collapse; background:#f0f0f0; float: right;"
+!Class
+!Prominence
+
+|- {{BIHillListRow|Marilyn}}
+|[[Marilyn (hill)|Marilyns]]
+|150 – 599&nbsp;m
+
+|- {{BIHillListRow|HuMP}}
+|[[HuMP]]s
+|100 – 149&nbsp;m
+
+|- {{BIHillListRow|TuMP}}
+|[[TuMP]]s
+|30 – 99&nbsp;m
+
+|- {{BIHillListRow|None}}
+|Unclassified
+|0 – 29&nbsp;m
+
+|}
+The table is colour-coded based on the classification or "listing" of the hill. The types that occur in [[Kent]] are [[Marilyn (hill)|Marilyn]]s, [[HuMP]]s and [[TuMP]]s, listings based on [[topographical prominence]]. "Prominence" correlates strongly with the subjective significance of a summit. Peaks with low prominences are either subsidiary tops of a higher summit or relatively insignificant independent summits. Peaks with high prominences tend to be the highest points around and likely to have extraordinary views. A Marilyn is a hill with a prominence of at least 150 metres or about 500 feet.<ref name="rhb">{{cite book|last=Dawson |first=Alan |year=1992 |title=The Relative Hills of Britain |url=http://bubl.ac.uk/org/tacit/marilyns/ |publisher=Cicerone Press |location=Milnthorpe |isbn=1-85284-068-4 |url-status=dead |archiveurl=https://web.archive.org/web/20100921045806/http://bubl.ac.uk/org/tacit/marilyns/ |archivedate=2010-09-21 }}</ref> A "HuMP" (the acronym comes from "'''Hu'''ndred '''M'''etre '''P'''rominence) is a hill with a prominence of at least 100 but less than 150 metres.<ref>{{cite web|last=Jackson |first=Mark |title=More Relative Hills of Britain |url=http://www.rhb.org.uk/humps/humps_1_1_0c.pdf |work=Relative Hills of Britain |accessdate=31 March 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20131012150300/http://www.rhb.org.uk/humps/humps_1_1_0c.pdf |archivedate=12 October 2013 }}</ref> In this table Marilyns are in beige and HuMPs in lilac. A "TuMP" as defined here is a hill with a prominence of at least 30 but less than 100 metres. The term "sub-Marilyn" or "sub-HuMP" is used, e.g. in the online ''Database of British and Irish Hills'' to indicate hills that fall just below the threshold. To qualify for inclusion, hills must either be 200 metres or higher with a prominence of at least 30 metres, below 200 metres with a prominence of at least 90 metres (the threshold for a sub-HuMP) or be in some other way notable. For further information see the [[Lists of mountains and hills in the British Isles]] and the individual articles on [[Marilyn (hill)|Marilyn]]s, [[HuMP]]s, and [[TuMP]]s. In this context, "TuMP" is used to connote a hill with a prominence of at least 30 but less than 100 metres. By way of contrast, see also the article listing [[List of tumps|Tumps]] (a traditional term meaning a hillock, mound, barrow or tumulus).
+
+== Table ==
+{{clear}}
+{| class="wikitable sortable" style="border-collapse: collapse; background:#f0f0f0;":#f0f0f0;"
+!Hill
+!Height<br>(m)
+!Prom.<br>(m)
+!Grid ref.
+!Class
+!Parent
+!Range/Region
+!class="unsortable"|Remarks
+!class="unsortable"|Image
+
+|- {{BIHillListRow|None}}
+|[[Betsom's Hill]]<ref name="hill-bagging">Name, height, prominence, parent, grid and class data from: [http://www.hill-bagging.co.uk ''Database of British and Irish Hills''], retrieved 9 Oct 2016.</ref>
+|align=right|251
+|align=right|15
+|{{gbm4ibx|TQ435563}}
+|align=center|Kent [[county top]]<br>(historical and current)
+|[[Botley Hill]]
+|[[North Downs]]
+| Kent's [[county top]].<br />
+No feature; ground by lane.<br />
+Summit is 45 m N of site of old fort which is higher but on artificial ground.<br />
+Tiny cairn in middle of field may be inaccessible if crops present.
+|[[File:Betsom's Hill at Tatsfield, Kent.jpg|100px]]
+
+|- {{BIHillListRow|HuMP}}
+|[[Toys Hill]]<ref name="hill-bagging"/>
+|align=right|248
+|align=right|117
+|{{gbm4ibx|TQ469520}}
+|align=center|[[HuMP]], [[Tump (hill)|TuMP]]
+|[[Botley Hill]]
+|[[Wealden Greensand]]
+| Kent's second highest point<br />
+|[[File:Toy's Hill Information Panel - geograph.org.uk - 1757255.jpg|100px]]
+
+|- {{BIHillListRow|None}}
+|[[Westerham Heights]]<ref name="hill-bagging"/>
+|align=right|245
+|align=right|0
+|{{gbm4ibx|TQ436565}}
+|align=center|None
+|[[Botley Hill]]
+|[[North Downs]]
+| Kent's third highest point<br />Also Bromley's borough top and highest point in any Greater London borough<br />No ground feature; E verge of A233.
+|[[File:Westerham Heights Farm in Westerham, Kent, England.jpg|100px]]
+
+|- {{BIHillListRow|HuMP}}
+|[[Wrotham Hill]]<ref name="hill-bagging"/>
+|align=right|235
+|align=right|129
+|{{gbm4ibx|TQ436565}}
+|align=center|[[HuMP]], [[Tump (hill)|TuMP]]
+|[[Botley Hill]]
+|[[North Downs]]
+| Trig point at summit.
+|[[File:Wrotham Hill - geograph.org.uk - 660725.jpg|60px]]
+
+|- {{BIHillListRow|Tump}}
+|[[Bayley's Hill]]<ref name="hill-bagging"/>
+|align=right|216
+|align=right|40
+|{{gbm4ibx|TQ514519}}
+|align=center|[[Tump (hill)|TuMP]]
+|[[Botley Hill]]
+|[[Kent Downs]]
+| Alternative summits at TQ 491517 (unnamed) and TQ 487516 ([[Ide Hill]], 216 metres).<ref name="hill-bagging"/>
+|[[File:Greensand Way to the west of Sevenoaks Weald - geograph.org.uk - 222385.jpg|100px]]
+
+|- {{BIHillListRow|Tump}}
+|[[Crockham Hill]]<ref name="hill-bagging"/>
+|align=right|216
+|align=right|41
+|{{gbm4ibx|TQ445514}}
+|align=center|[[Tump (hill)|TuMP]]
+|[[Botley Hill]]
+|[[Kent Downs]]
+| No feature
+|[[File:Oast House at Brookfields, Crockham Hill, Kent - geograph.org.uk - 1096315.jpg|100px]]
+
+|- {{BIHillListRow|None}}
+|[[River Hill, Kent|River Hill]]<ref name="hill-bagging"/>
+|align=right|215
+|align=right|27
+|{{gbm4ibx|TQ541523}}
+|align=center|None
+|[[Botley Hill]]
+|[[Kent Downs]]
+| 
+|[[File:Telecomms Mast, River Hill, Sevenoaks, Kent - geograph.org.uk - 69994.jpg|60px]]
+
+|- {{BIHillListRow|Tump}}
+|[[Raspit Hill]]<ref name="hill-bagging"/>
+|align=right|207
+|align=right|34
+|{{gbm4ibx|TQ577548}}
+|align=center|[[Tump (hill)|TuMP]]
+|[[Botley Hill]]
+|[[Kent Downs]]
+| 
+|[[File:Large house at the foot of Raspit Hill, near Ivy Hatch - geograph.org.uk - 857439.jpg|100px]]
+
+|- {{BIHillListRow|Marilyn}}
+|[[Detling Hill]]<ref name="hill-bagging"/>
+|align=right|200
+|align=right|163
+|{{gbm4ibx|TQ804586}}
+|align=center|[[Marilyn (hill)|Marilyn]], [[HuMP]], [[Tump (hill)|TuMP]]
+|[[Botley Hill]]
+|[[Kent Downs]]
+| Junction of 3 paths. Long grass may hide true summit.
+|[[File:Detling Hill.jpg|100px]]
+
+|- {{BIHillListRow|Marilyn}}
+|[[Cheriton Hill]]<ref name="hill-bagging"/>
+|align=right|188
+|align=right|150
+|{{gbm4ibx|TQ511307}}
+|align=center|[[Marilyn (hill)|Marilyn]], [[HuMP]], [[Tump (hill)|TuMP]]
+|[[Crowborough#Geography|Crowborough]]
+|[[Kent Downs]]
+| Summit on gd 15 m N of fence corner and c. 250 m NW of trig point.
+|[[File:Cheriton Hill - geograph.org.uk - 161059.jpg|100px]]
+
+|}
+
+== See also ==
+* [[List of mountains and hills of the United Kingdom]]
+* [[List of Marilyns in England]]
+* [[Geography of Kent]]
+
+== References and footnotes ==
+{{Reflist}}
+<ref name="Jackson">Name, height, prominence, grid, class and parent data from: Jackson, Mark (2009). ''More Relative Hills of Britain'', Marilyn News Centre, UK, p. 168. [http://www.rhb.org.uk/humps/humps_1_1_0c.pdf E-book] {{webarchive|url=https://web.archive.org/web/20131012150300/http://www.rhb.org.uk/humps/humps_1_1_0c.pdf |date=2013-10-12 }}.</ref>
+
+{{Hills of Southern England}}
+[[Category:Hills of Kent| ]]
+[[Category:Lists of mountains and hills of England|Kent]]
+[[Category:Kent-related lists|Hills]]

@@ -1,0 +1,29 @@
+==Summary==
+{{Non-free use rationale 2
+|Description = Michonne, as depicted in the comic book, television series and game series.
+|Source = https://www.dailydot.com/parsec/walking-dead-video-games-telltale-michonne-miniseries/ (game)<br> http://danaigurira.net/gallery/displayimage.php?album=105&pid=10490#top_display_media (tv)<br>
+http://walkingdead.wikia.com/wiki/File:Michonne_Katana_2.jpg (comic)
+|Date = 2017
+|Author = Robert Kirkman, Scott Gimple, AMC, Telltale Games
+|Article = Michonne
+|Purpose = The image serves as the primary means of visual identification of the subject, illustrating a single educational article. It also displays the difference between mediums.
+|Replaceability = The work is copyrighted; thus, no free alternative is available.
+|Minimality = Intended for sole article.
+|Commercial = n.a.
+|other_information=Use will not affect the value of the original work that has been published elsewhere on the Internet or limit the copyright holder's rights or ability to distribute the original.  In particular, copies could not be used to make illegal copies of the video.
+}}
+
+== Licensing ==
+{{Non-free television screenshot}}
+{{Non-free comic}}
+{{Non-free video game screenshot}}
+
+== Fair use rationale ==
+
+This is being linked at the Michonne article on the English Wikipedia, and although it is subject to American copyright laws, I believe that it is covered by fair use laws because:
+*It is of web resolution, i.e. it is of a lower quality than the original copy
+*It clearly identifies the subject in question
+*It is accompanied by commentary on the episode and character
+*It features a significant character
+*AMC, Robert Kirkman or Image Comics does not lose any rights to sell and advertise the show
+--'''[[User:thelonggoneblues|thelonggoneblues]]''' <small>''[[User talk:thelonggoneblues|talk]] • [[Special:Contributions/Thelonggoneblues|edits]]''</small> 20:47, 13 April 2017 (UTC)

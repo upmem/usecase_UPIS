@@ -1,0 +1,35 @@
+{{short description|United States historic place}}
+{{Infobox NRHP
+ | name = US Post Office--Hebron
+ | nrhp_type = 
+ | image = Hebron, Nebraska post office from E.JPG
+ | caption = The building in 2010
+ | location= 145 North 5th Street,<br/>[[Hebron, Nebraska]]<ref>Address obtained from [https://tools.usps.com/go/POLocatorDetailsAction!input.action?locationTypeQ=all&address=hebron%2C+ne&radius=1&locationType=po&locationID=1366631&locationName=HEBRON&address2=&address1=145+N+5TH+ST&city=HEBRON&state=NE&zip5=68370&zip4=1513&tollFree=800-ASK-USPS%26reg%3B%26nbsp%3B%28800-275-8777%29&fax=&tAddress=&tAddress1Ams=&tAddress2Ams=&tCityAms=&tStateAms=&tZipAms=&tCarrierRouteAms=&latitude=40.1671389&longitude=-97.588905&sWithin=1 U.S. Postal Service website], accessed 2016-03-24.  The [http://www.nebraskahistory.org/histpres/nebraska/thayer/TY10-008_Hebron_USPO.pdf NRHP nominating form] incorrectly lists the address as "145 North 15th Street", but on the second page, gives the location as "the southwest corner of 5th and Olive Streets".</ref>
+ | coordinates = {{coord|40|10|03|N|97|35|20|W|region:US_type:landmark|name=US Post Office--Hebron|display=inline,title}}
+ | locmapin = Nebraska
+ | built = 1937
+ | architect = [[Louis A. Simon]]
+ | architecture = Moderne
+ | added = May 11, 1992
+ | area = less than one acre
+ | mpsub = [http://pdfhost.focus.nps.gov/docs/NRHP/Text/64500390.pdf Nebraska Post Offices Which Contain Section Artwork MPS]
+ | refnum = 92000473<ref name="nris">{{NRISref|version=2013a}}</ref>
+}}
+
+The '''Hebron United States Post Office''' is a historic building in [[Hebron, Nebraska]]. It was built in 1937, and designed in the [[Moderne architecture|Moderne style]] by U.S. supervising architect [[Louis A. Simon]].<ref name="nrhpdoc">{{cite web|url={{NRHP url|id=92000473}}|title=National Register of Historic Places Inventory/Nomination: Hebron United States Post Office / TY10-008 |publisher=[[National Park Service]]|author=Carol Ahlgren |date=August 1991 |accessdate=May 13, 2019}} With {{NRHP url|id=92000473|photos=y|title=accompanying three photos from 1989 (two with mural)}}</ref> Inside there is a mural by [[Eldora Lorenzini]], completed in 1939.<ref name="nrhpdoc"/> The building has been listed on the [[National Register of Historic Places]] since May 11, 1992, as '''US Post Office-Hebron'''.<ref name="nris"/>
+
+The mural's subject is a herd of stampeding buffalo, stopping a train.  An event of this type was asserted to have happened in the area.<ref name=mps>{{Cite web|url= {{NRHP url|id=64500390}} |format=pdf |title= National Register of Historic Places Multiple Property Documentation: Nebraska Post Offices Which Contain Section Artwork MPS |last= Ahlgren |first= Carol |date= August 1991 |publisher= [[National Park Service]] |accessdate=May 14, 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+{{commons category|Hebron, Nebraska post office}}
+
+{{National Register of Historic Places}}
+
+{{DEFAULTSORT:US Post Office-Hebron}}
+[[Category:National Register of Historic Places in Thayer County, Nebraska]]
+[[Category:Moderne architecture in the United States]]
+[[Category:Government buildings completed in 1937]]
+[[Category:Post office buildings on the National Register of Historic Places in Nebraska]]
+{{Nebraska-NRHP-stub}}

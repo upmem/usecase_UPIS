@@ -1,0 +1,40 @@
+{{Use dmy dates|date=November 2019}}
+{{Use Australian English|date=August 2019}}
+{{Infobox park
+| name = Hislop Park
+| photo = Hislop Park.JPG
+| photo_width = 250pxpx
+| photo_caption = Hislop Park looking west
+| coords = {{coord|-37.8001449|145.080696|type:landmark_region:AU|display=inline,title}}
+| type = 
+| location = [[Melbourne, Australia]]
+| area = 
+| opened =  
+| operator = [[City of Boroondara]]
+| visitation_num = 
+| visitation_year = 
+| visitation_ref = 
+| status = 
+| paths = 
+| transport = [[List of Melbourne bus routes|Bus route 285]]
+| terrain = Open ovals surrounded by vegetation
+| water = 
+| vegetation = [[Flora of Australia|Australian Native]]
+| free_label = Landmarks
+| free_data = 
+| facilities = [[Playground]], sports pavilion
+| website = 
+}}
+
+'''Hislop Park''', also known as '''Hislop Reserve''', is a park in the suburb of [[Balwyn North]], [[Melbourne]], [[Australia]]. It is situated between Balwyn Road and the North Balwyn Tennis Club in a portion of a valley through which the [[Glass Creek]] runs, now largely through underground drains.<ref>{{cite web|title=Stormwater Environment Management Plan|url=http://www.boroondara.vic.gov.au/our-city/environment/~/media/5050DF10EE464B12AA9F02C30A8A7A27.ashx|publisher=City of Boroondara|accessdate=14 August 2014|archive-url=https://web.archive.org/web/20140814061513/http://www.boroondara.vic.gov.au/our-city/environment/~/media/5050DF10EE464B12AA9F02C30A8A7A27.ashx|archive-date=14 August 2014|url-status=dead}}</ref> It has a number of entrances accessible on foot, including from Albury St and Balwyn Road. The park contains three informal ovals, which are used by sporting clubs throughout the year.<ref>{{cite web|title=Hislop Park|url=http://www.boroondara.vic.gov.au/community-directory/sports-and-leisure/parks-and-reserves/hislop-park|publisher=City of Boroondara|accessdate=14 August 2014}}</ref>
+
+== See also ==
+* [[Balwyn North]]
+
+== References ==
+{{Reflist}}
+
+[[Category:Parks in Melbourne]]
+
+
+{{park-stub}}

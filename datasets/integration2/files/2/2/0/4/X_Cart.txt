@@ -1,0 +1,85 @@
+{{Multiple issues|
+{{Notability|date=October 2020}}
+{{Cleanup-PR|date=October 2020}}
+}}
+
+{{Infobox company
+| name =X-Cart
+| logo = 
+| caption =
+| type = 
+| traded_as = 
+| genre = <!-- Only used with media and publishing companies -->
+| fate = 
+| predecessor =
+| successor = 
+| foundation = 2000
+| founder = Ruslan Fazlyev
+| defunct = 
+| location_city = 
+| location_country = 
+| location = [[Athens, Georgia]]
+| locations = 
+| area_served = 
+| key_people = Hank Harris (CEO)
+| industry = [[Shopping cart software|E-commerce Software]]
+| products = [[Shopping cart|Shopping Cart]]
+| services = 
+| revenue = 
+| operating_income = 
+| net_income = 
+| aum = <!-- Only used with financial services companies -->
+| assets = 
+| equity = 
+| owner = {{url|sellerlabs.com}}
+| num_employees = 120
+| parent = 
+| divisions = 
+| subsid = 
+| homepage = {{url|http://www.x-cart.com/}}
+| footnotes = 
+| intl = 
+}}
+
+X-Cart, a division of Seller Labs,<ref>{{cite web |last1=Vydrin |first1=Max |title=We’ve Joined the Seller Labs Family — and Here are the Details |url=https://www.x-cart.com/blog/we-joined-seller-labs-details.html |website=X-Cart |publisher=X-Cart |accessdate=17 November 2020}}</ref> is a US-based company headquartered in [[Athens, Georgia|Athens, GA]]. It is also the name of its commercial [[shopping cart]] platform for [[Online store|online stores]] and the [[development agency]]. X-Cart was designed to fit the needs of online stores of any size, but works best for large stores and marketplaces. 
+
+It was originally released in 2001 by Creative Technologies LLC, a web development company that later worked on Ecwid. Upon release, it was the world's first [[PHP]] shopping cart software.<ref name="rbth">{{cite web|title=E-commerce platform from Ulyanovsk goes global|url=http://in.rbth.com/economics/2014/09/12/e-commerce_platform_from_ulyanovsk_goes_global_38251.html|publisher=Russia Beyond The Headlines|author= Leonid Mikheyev|date=12 September 2014|accessdate=16 October 2014}}</ref> Today, X-Cart is reported to be used by over 30,000 [[E-Store|e-stores]] in 111 countries around the world.<ref name="interview">{{cite web|url=http://www.shopping-cart-migration.com/blog/73-experts-insights/22533-interview-with-x-cart-ceo-we-need-to-be-ready-for-the-mobile-age|title=Interview with X-Cart CEO: We Need to be Ready for the Mobile Age|publisher=Cart2Cart|author=|date=16 May 2014|accessdate=16 October 2014}}</ref>
+ 
+
+== History ==
+Back in 2001, a serial [[Entrepreneurship|entrepreneur]] [[Ruslan Fazlyev]] and his friends saw online stores emerging around the world and, at the same time, the lack of tools for building them quickly and efficiently. They developed X-Cart as the first-in-market open source PHP eCommerce platform. 
+
+In 2009, Creative Technologies released a [[freemium]] eCommerce solution Ecwid, in addition to the X-Cart line, which became an independent [[eCommerce]] solution later on.<ref name="reuters">{{cite web|title=Ecwid Completes First Venture Funding From Runa Capital, Announces Silicon Valley, London Presence|url=https://www.reuters.com/article/2011/12/14/idUS172637+14-Dec-2011+BW20111214|publisher=Reuters|author=|date=14 December 2011|accessdate=16 October 2014}}</ref><ref name="tfa">{{cite web|title=X-Cart ECommerce Software Review|url=http://ecommerce-software.topfiveawards.com/x-cart-ecommerce-software.htm|publisher=Top Five Awards|author=|date=2014|accessdate=16 October 2014}}</ref>
+
+In 2009, X-Cart launched its PCI Level 1 certified payment application, X-Payments, that is used for easier PCI DSS compliance by online retailers using X-Cart, [[Magento]], [[WooCommerce]], and Zoey.
+
+In 2011, [[Runa Capital]] invested in X-Cart. 
+
+In 2013, X-Cart launched its own hosting infrastructure, allowing all X-Cart users to host their online stores on their servers. 
+
+In 2014, X-Cart released its new product, named X-Cart 5, that quickly gained popularity for its modern modular architecture. At the same time, X-Cart Classic, also known as X-Cart 4, continued to be developed and updated.<ref name="interview"/> By September 2014 X-Cart Cloud was listed by SitePoint as one of the best hosted e-commerce platforms.<ref name="sitepoint">{{cite web|title=10 of the Best Hosted Ecommerce Platforms|url=http://www.sitepoint.com/10-best-ecommerce-platforms/|publisher=SitePoint|author=Jacco Blankenspoor|date=23 September 2014|accessdate=16 October 2014}}</ref> Among other features, X-Cart Cloud allows certified developers to add custom functionality to customers’ hosted shops.<ref name="interview"/><ref name="next">{{cite web|title=Look to the Cloud for X-Cart's NEXT Service|url=http://www.websitemagazine.com/content/blogs/ecommerce/archive/2013/03/14/look-to-the-cloud-for-x-cart-s-next-service.aspx|publisher=Website Magazine|author=|date=14 March 2014|accessdate=16 October 2014}}</ref>
+
+In 2017, X-Cart tech support and customer care teams expanded to offer 24/7 support for customers and businesses all over the globe. 
+
+In October 2019, the leading [[Amazon (company)|Amazon]] marketplace expert company. <ref>{{cite web |title=XCART- a PHP based shopping cart |url=https://aws.amazon.com/marketplace/pp/Miri-Infotech-XCART-a-PHP-based-shopping-cart/B07TJKFWLQ |website=AWS Marketplace |publisher=Miri Infotech |accessdate=17 November 2020}}</ref>
+
+In 2020, X-Cart moved to offering full solutions for enterprise online stores and [[B2B e-commerce|B2B]] companies. 
+
+== Products and Services ==
+{{bulleted list |X-Cart Classic, or X-Cart 4 (no longer available to new customers) |X-Cart 5 |X-Cart Hosting |Solution Services |[[Mobile app development|Mobile apps development]]|Full-service migration from other platforms}}
+
+X-Cart offers integration with various shipping carriers([[USPS]], [[United Parcel Service|UPS]], [[FedEx]]), payment providers and applications ([[PayPal]], [[Apple Pay]], [[Amazon Pay]]), tax automation systems (Avalara), marketing systems ([[Mailchimp]]). An additional X-Payments app makes it [[PA-DSS]] certified and adds support for 39 more payment providers in addition to the 14 in the basic package. It also ensures fraud screening for payments. Among other features, X-Cart allows certified developers to add custom functionality to customers’ hosted shops.<ref name="merchantmaverick">{{cite web|title=X-Cart Review|url= http://www.merchantmaverick.com/reviews/xcart-review/|publisher=Merchant Maverick|author=Amad Ebrahimi|date=1 August 2014|accessdate=16 October 2014}}</ref><ref name="monsterpost">{{cite web|title=Deeper Look into X-Cart eCommerce Engine |url=http://blog.templatemonster.com/2011/07/14/x-cart-ecommerce-review/|publisher=MonsterPost|author=Helga Weber|date=14 July 2011|accessdate=26 October 2014}}</ref><ref name="features">{{cite web|title=X-Cart's features|url= http://www.x-cart.com/features.html|publisher=X-Cart|author=|date=|accessdate=16 October 2014}}</ref>
+
+== See also ==
+* [[E-Commerce]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* [https://www.x-cart.com/ Official Website]
+
+[[Category:Online companies of Russia]]
+[[Category:Providers of services to on-line companies]]
+[[Category:Free e-commerce software]]
+[[Category:Free software programmed in PHP]]

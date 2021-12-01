@@ -1,0 +1,49 @@
+<small>{{#ifexist:Wikipedia:WikiProject East Asia|[[Wikipedia:WikiProject East Asia]]<br>}} {{#ifexist:Wikipedia:East Asia|[[Wikipedia:East Asia]]}}</small>
+<div class="boilerplate metadata afd vfd xfd-closed" style="background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived proposal of the WikiProject below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the project's talk page (if created) or the [[Wikipedia:WikiProject Council|WikiProject Council]]).  No further edits should be made to this page.''
+<!--Template:Archived WikiProject Proposal top
+
+Note:  If you are seeing this page as a result of an attempt to propose a project, you must manually edit the Proposal links in order to create a new discussion page using the name format of [[Wikipedia:WikiProject Council/Proposals/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your proposal. -->
+
+The resulting WikiProject was '''not created'''
+
+----
+[[Category:Archived WikiProject proposals|{{SUBPAGENAME}}]]<!--Template:Archived WikiProject Proposal notcreated-->
+[[File:LocationEastAsia.PNG|thumb|East Asia]]
+===Description===
+This project would cover East Asia, one of the few regions of the world without a supranational coordination project. It would cover East Asian culture and civilization, transnational issues, relations between nations, historical nations of the area which are no longer extant. As there seem to be disputes between editors at [[WP:CHINA]], [[WP:JAPAN]], [[WP:KOREA]], [[WP:VIETNAM]], [[WP:TAIWAN]] on which article falls under whose wikiprojects' purview, this can also help with editors' animosities. The region covered under the project would be the [[Russian Far East]], parts of the Empire of China ceded by the Qing dynasty to Russia outside of the Russian Far East, [[Korea]], [[Japan]], [[China]], [[Mongolia]], [[Tibet]], [[Ryu Kyu]], [[Karafuto]]/[[Sahkalin]]/[[Kuril]], [[Taiwan]], [[Hainan]], [[Tonkin]] Basin of [[Vietnam]]/[[Annam (Chinese province)|Ancient Annam]], [[Kokang]]/[[Shan Plateau]] , [[East China Sea]] , [[Sea of Japan]] , [[South China Sea]] , [[Sea of Okhotsk]] , [[Gulf of Tonkin]]  [[Special:Contributions/76.66.193.224|76.66.193.224]] ([[User talk:76.66.193.224|talk]]) 08:24, 4 June 2010 (UTC)
+
+===Support===
+<small>Please specify whether or not you would join the project.</small>
+#[[Special:Contributions/76.66.193.224|76.66.193.224]] ([[User talk:76.66.193.224|talk]]) 08:24, 4 June 2010 (UTC)
+# Not likely to join, but this is certainly sustainable. <small><span style="border:1px solid #0000ff;padding:1px;">[[User:Matthewedwards|<b>Matthewedwards</b>]] : [[User_talk:Matthewedwards|<font style="color:#accC10;background:#0000fa;">&nbsp;Chat&nbsp;</font>]] </span></small> 16:22, 5 July 2010 (UTC)
+#Definitely sustainable and of particular value. There is a similar WikiProject on the Chinese Wikipedia at [[:zh:维基百科:漢字文化圈專題]]. --<span style="border:1px solid yellow;padding:1px;">[[User:benlisquare|<font style="color:#FFFF00;background:red;">'''&nbsp;李博杰&nbsp;'''</font>]]</span> | <small>—[[User talk:benlisquare|Talk]] [[Special:Contributions/Benlisquare|contribs]] [[Special:EmailUser/User:Benlisquare|email]]</small> 10:57, 12 July 2010 (UTC)
+#This can definitely be a useful space to discuss East Asian regional topics.  [[User:HongQiGong|Hong Qi Gong]] <small>([[User talk:HongQiGong|Talk]] - [[Special:Contributions/HongQiGong|Contribs]])</small> 13:26, 16 July 2010 (UTC)
+#Long overdue. There are articles related to this sphere such as [[East Asia Summit]] and [[East Asian Community]]. The world's biggest emerging market China and also the (formerly) world's second biggest economy Japan is in this region, so its coverage is essential. [[User:Takamaxa|Takamaxa]] ([[User talk:Takamaxa|talk]]) 13:37, 16 July 2010 (UTC)
+#Very long overdue and ties in with the proposal for http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Council/Proposals/Asia - which would be a cover/parent project [[User:SatuSuro|Satu]][[User talk:SatuSuro|Suro]] 13:55, 6 September 2010 (UTC)
+#I would be an interested and likely active participant, and as this is my field of academic study, I can bring in resources and expertise. <span style="text-shadow:#2f4f4f 0.10em 0.10em 0.10em"><font color="black">[[User:Sven Manguard|Sven Manguard]]</font> <sub><span style="text-shadow:#ffd700 0.14em 0.14em 0.14em"><font color="black">[[User talk:Sven Manguard|'''Talk''']]</font></sub></span> 23:02, 23 October 2010 (UTC)
+
+===Discussion===
+
+Mongolia is already covered by WikiProject Central Asia. [[User:Yaan|Yaan]] ([[User talk:Yaan|talk]]) 09:24, 7 June 2010 (UTC)
+
+::True, though Mongolia is also part of East Asia, and this proposal deals with issues in East Asia. Central Asia wikiproject would not necessarily deal that easily with the Russian/Chinese/Japanese confluence of influences on Mongolia in WWII, for instance; or Mongolian conquest of Manchuria. [[Special:Contributions/76.66.193.224|76.66.193.224]] ([[User talk:76.66.193.224|talk]]) 03:53, 8 June 2010 (UTC)
+
+::Would you prefer to take Mongolia out of scope? I don't really see a problem with overlapping scopes. [[Special:Contributions/76.66.193.224|76.66.193.224]] ([[User talk:76.66.193.224|talk]]) 04:56, 8 June 2010 (UTC)
+
+:::I guess you are right about overlapping scopes. Maybe I just felt a bit argumentative. [[User:Yaan|Yaan]] ([[User talk:Yaan|talk]]) 16:41, 8 June 2010 (UTC)
+
+: Similarly, Vietnam is also covered by [[WP:SEASIA|WikiProject Southeast Asia]]. --'''[[User:Dragfyre|dragfyre]]'''_<span style="font-size:70%">[[User_talk:Dragfyre|ʞןɐʇ]]</span><span style="font-size:70%;vertical-align:top">[[Special:Contributions/Dragfyre|c]]</span> 18:50, 7 June 2010 (UTC)
+
+::True, though Vietnam is also part of East Asia, and this proposal deals with issues in East Asia. Further, CJKV shows the interrelationship between Vietnam and China/Korea/Japan. The scope is also restricted to northern Vietnam, the central highlands anc coast and southern delta are not covered. [[Special:Contributions/76.66.193.224|76.66.193.224]] ([[User talk:76.66.193.224|talk]]) 03:53, 8 June 2010 (UTC)
+
+::Would you prefer to take Vietnam out of scope? I don't really see a problem with overlapping scopes; and one of the conflicts I've noticed is between Vietanamese and other East Asian editors who remove each other's WikiProject banners, because one thinks a topic is Vietnamese and not Chinese or Japanese, and vice versa. (Per the notice between CJKV,Taiwan - and nationalistic conflicts on whether banners of each project should exist or not on an article) [[Special:Contributions/76.66.193.224|76.66.193.224]] ([[User talk:76.66.193.224|talk]]) 04:56, 8 June 2010 (UTC)
+:::I'm not particularly for or against; I guess I was just noting the overlap as [[User:Yaan|Yaan]] was, above. I think the East Asia WikiProject seems like a fine idea that would probably be quite beneficial to [[Wikipedia:WikiProject Disambiguation/CJKV task force|WP:CJKV]]; my own personal focus, though, is primarily within Southeast Asia, so I can't really say I could support this WikiProject in anything other than well-wishes. --'''[[User:Dragfyre|dragfyre]]'''_<span style="font-size:70%">[[User_talk:Dragfyre|ʞןɐʇ]]</span><span style="font-size:70%;vertical-align:top">[[Special:Contributions/Dragfyre|c]]</span> 15:52, 17 June 2010 (UTC)
+There doesn't need to be any clear lines of demarcation here.  It can be decided on a case-by-case basis whether or not an article should be supported by this WikiProject.  [[User:HongQiGong|Hong Qi Gong]] <small>([[User talk:HongQiGong|Talk]] - [[Special:Contributions/HongQiGong|Contribs]])</small> 13:25, 16 July 2010 (UTC)
+
+::Already [[WikiProject Southeast Asia]] exists - so any of the boundary issues can be worked out with that relatively quiet project anyways - currently Vietnam and Philippines are countries included in the Southeast Asia project - assuming that anything north of eiher is in the eastern asia project - unless negotiated [[User:SatuSuro|Satu]][[User talk:SatuSuro|Suro]] 13:58, 6 September 2010 (UTC)
+:::It's redlinked. <small><span style="border:1px solid #0000ff;padding:1px;">[[User:Matthewedwards|<b>Matthewedwards</b>]] : [[User_talk:Matthewedwards|<font style="color:#accC10;background:#0000fa;">&nbsp;Chat&nbsp;</font>]] </span></small> 15:28, 6 September 2010 (UTC)
+:::: Think you mean [[Wikipedia:WikiProject Southeast Asia]]. <small><span style="border:1px solid #0000ff;padding:1px;">[[User:Matthewedwards|<b>Matthewedwards</b>]] : [[User_talk:Matthewedwards|<font style="color:#accC10;background:#0000fa;">&nbsp;Chat&nbsp;</font>]] </span></small> 06:18, 26 October 2010 (UTC)
+
+----
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the project's talk page (if created) or at the [[Wikipedia:WikiProject Council|WikiProject Council]]). No further edits should be made to this page. <!--Template:Archived WikiProject Proposal bottom--></div>

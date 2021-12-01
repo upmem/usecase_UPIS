@@ -1,0 +1,178 @@
+{{Infobox album
+| name       = Among the Leaves
+| type       = [[Album]]
+| artist     = [[Sun Kil Moon]]
+| cover      = Amongtheleavessunkillmoon.jpg
+| alt        =
+| released   = May 29, 2012
+| recorded   = October 2011 - January 2012
+| venue      =
+| studio     =
+| genre      = [[Indie folk]]
+| length     = 73:20
+| language   = English
+| label      = [[Caldo Verde Records|Caldo Verde]]
+| producer   = [[Mark Kozelek]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+| misc       = {{Extra chronology
+ | artist     = [[Sun Kil Moon]]
+ | type       = studio
+ | prev_title = [[Admiral Fell Promises]]
+ | prev_year  = 2010
+ | title      = Among the Leaves
+ | year       = 2012
+ | next_title = [[Benji (album)|Benji]]
+ | next_year  = 2014
+}}
+{{Extra chronology
+ | artist     = [[Mark Kozelek]]
+ | type       = studio
+ | prev_title = [[Admiral Fell Promises]]
+ | prev_year  = 2010
+ | title      = Among the Leaves
+ | year       = 2012
+ | next_title = [[Like Rats]]
+ | next_year  = 2013
+}}
+}}
+'''''Among the Leaves''''' is the fifth studio album by American [[indie folk]] act [[Sun Kil Moon]], released on May 29, 2012 on [[Caldo Verde Records]]. Similar to Sun Kil Moon's previous studio album, ''[[Admiral Fell Promises]]'' (2010), the album is predominantly performed by founding member [[Mark Kozelek]] on a [[Classical guitar|nylon-string guitar]].<ref>[http://www.caldoverderecords.com/ Caldo Verde Records]</ref>
+
+In 2013, [[Mark Kozelek]] released a [[Album|live album]] recorded shortly after ''Among the Leaves''' release, entitled ''[[Live at Phoenix Public House Melbourne]]''. 
+
+The album was listed 41st on [[Stereogum]]'s list of top 50 albums of 2012.<ref>{{cite web|url=http://stereogum.com/1210661/stereogums-top-50-albums-of-2012/franchises/listomania/ |title=Stereogum’s Top 50 Albums Of 2012 |publisher=Stereogum |date=2012-12-05 |accessdate=2020-02-27}}</ref>
+
+==Background and recording==
+In a similar fashion to Sun Kil Moon's previous album, ''[[Admiral Fell Promises]]'' (2010), ''Among the Leaves'' was recorded primarily by founding member [[Mark Kozelek]] on a [[nylon string guitar]], with the assistance of session musicians on certain tracks. Regarding his decision to continue recording alone, Kozelek noted, "Nylon string is still a new love and I'm not tired of it yet. Record sales are on their way out and I can't afford to make ''[[The Dark Side of the Moon|Dark Side of the Moon]]'' nor do I have the interest. I'm 45 and I don't have time to spend two years of my life bringing in producers and dragging the record around the planet. I'm always moving forward creatively and don't like stalling, trying to find the perfect snare drum sound."<ref name=pitchfork>Snapes, Laura. [http://pitchfork.com/features/interviews/8845-mark-kozelek/ Interviews: Mark Kozelek]. [[Pitchfork Media]]. 23 May 2012. Retrieved 11 May 2013.</ref>
+
+Kozelek would record the album's songs quickly after writing them, noting, "I don't make demos. I don't have the interest or the energy or the time. Demos are something you do in the early stages of your career, but when you get going, you just go in and record the song. With this record, I wanted to give my first instincts a chance without shooting them down immediately, which I sometimes do. Songs like "Song For Richard Collopy" and "Not Much Rhymes With Everything's Awesome All the Time" were very impulsive, even my engineers were looking at me like, "What in the fuck are you doing?" And that's exactly the reaction I wanted. I didn't want to put myself, or anyone else, asleep with another quintessential Mark Kozelek album."<ref name=pitchfork/>
+
+==Writing and composition==
+Regarding the album's lengthy track listing, which includes seventeen tracks, [[Mark Kozelek]] noted, "Recording a standard ten-song album is a concept I chose to make fun of on this record. [...] As far as the length, I wanted to challenge myself and do something out of the ordinary. When I was young, a gatefold album by [[Pink Floyd]] or [[Led Zeppelin]] was something to get excited about, something you longed for. I wanted to remind people that there was a time when music required an attention span. I could have easily doubled my profit and made two records out of ''Among the Leaves'', but the songs represented a certain period and it made sense to get it out there as one piece."<ref name=pitchfork/>
+
+The album's lyrical content frequently focuses upon life as a touring musician and the nature of songwriting, with Kozelek stating, "When you're a touring musician, you're always turning over new rocks and there's always a certain level of tension in your life. The music business, and the travel that comes with it, is stressful, challenging, redundant, exhausting, exciting, and often very depressing. After all of these years, I'm still trying to cope with aspects of it."<ref name=pitchfork/>
+
+==Critical reception==
+{{Album ratings
+| ADM = 6.9/10<ref>{{cite web|url=http://anydecentmusic.com/review/4568/Sun-Kil-Moon-Among-the-Leaves.aspx|title=Among the Leaves by Sun Kil Moon reviews|publisher=[[AnyDecentMusic?]]|accessdate=December 23, 2019}}</ref> 
+| MC = 72/100<ref name=mc>{{cite web|url=http://www.metacritic.com/music/among-the-leaves/sun-kil-moon|title=Reviews for Among The Leaves by Sun Kil Moon|publisher=[[Metacritic]]|accessdate=August 15, 2013}}</ref> 
+| rev1 = [[AllMusic]]
+| rev1Score = {{Rating|3|5}}<ref name=allmusic>{{cite web|last=Monger|first=James Christopher|url=http://www.allmusic.com/album/among-the-leaves-mw0002315872|title=Among the Leaves – Sun Kil Moon|publisher=[[AllMusic]]|accessdate=December 22, 2013}}</ref> 
+| rev2 = ''[[The A.V. Club]]''
+| rev2Score = B<ref name=avclub>{{cite web|last1=Powers|first1=Colleen|last2=Greenwald|first2=David|url=http://www.avclub.com/review/sun-kil-moon-emamong-the-leaves-em-75646|title=Sun Kil Moon: Among the Leaves|work=[[The A.V. Club]]|date=May 29, 2012|accessdate=December 23, 2013}}</ref>
+| rev3 = ''[[The Boston Phoenix]]''
+| rev3Score = {{Rating|2.5|4}}<ref>{{cite news|last=Lundy|first=Zeth|url=http://thephoenix.com/boston/music/138941-sun-kil-moon-among-the-leaves/|title=Sun Kil Moon {{!}} Among the Leaves|work=[[The Boston Phoenix]]|date=May 22, 2012|accessdate=April 13, 2019|archiveurl=https://web.archive.org/web/20121026030450/http://thephoenix.com/boston/music/138941-sun-kil-moon-among-the-leaves/|archivedate=October 26, 2012|url-status=dead|df=mdy-all}}</ref>
+| rev4 = ''[[Consequence of Sound]]''
+| rev4Score = {{Rating|3.5|5}}<ref name="cos">{{cite web|last=Litowitz|first=Drew|url=http://consequenceofsound.net/2012/05/album-review-sun-kil-moon-among-the-leaves/|title=Album Review: Sun Kil Moon – Among the Leaves|work=[[Consequence of Sound]]|date=May 10, 2012|accessdate=October 12, 2014|archiveurl=https://web.archive.org/web/20120603234910/http://consequenceofsound.net/2012/05/album-review-sun-kil-moon-among-the-leaves/|archivedate=June 3, 2012|url-status=dead|df=mdy-all}}</ref>
+| rev5 = ''[[The Irish Times]]''
+| rev5Score = {{Rating|3|5}}<ref>{{cite news|last=Kane|first=Siobhan|url=https://www.irishtimes.com/culture/music/album-reviews/sun-kil-moon-1.1063271|title=Sun Kil Moon|work=[[The Irish Times]]|date=June 1, 2012|accessdate=April 13, 2019}}</ref>
+| rev6 = ''[[Mojo (magazine)|Mojo]]''
+| rev6Score = {{Rating|4|5}}<ref>{{cite journal|last=Simmons|first=Sylvie|authorlink=Sylvie Simmons|url=http://www.sunkilmoon.com/skm_press/MOJOreview_2012.jpg|title=Sun Kil Moon: Among the Leaves|work=[[Mojo (magazine)|Mojo]]|issue=226|date=September 2012|accessdate=April 13, 2019|page=95}}</ref>
+| rev7 = ''[[The Observer]]''
+| rev7Score = {{Rating|4|5}}<ref name=observer>{{cite news|last=Empire|first=Kitty|authorlink=Kitty Empire|url=https://www.theguardian.com/music/2012/jul/08/sun-kil-moon-among-review|title=Sun Kil Moon: Among the Leaves|work=[[The Observer]]|date=July 8, 2012|accessdate=December 22, 2013}}</ref>
+| rev8 = ''[[Pitchfork (website)|Pitchfork]]''
+| rev8Score = 6.8/10<ref name="p4k1">{{cite web|last=Snapes|first=Laura|author-link=Laura Snapes|url=http://pitchfork.com/reviews/albums/16674-among-the-leaves/|title=Sun Kil Moon: Among the Leaves|work=[[Pitchfork (website)|Pitchfork]]|date=June 1, 2012|accessdate=June 5, 2012}}</ref>
+| rev9 = ''[[Q (magazine)|Q]]''
+| rev9Score = {{Rating|3|5}}<ref>{{cite journal|last=Mason|first=Matt|url=http://www.sunkilmoon.com/skm_press/Qreview2012.jpg|title=Sun Kil Moon: Among the Leaves|work=[[Q (magazine)|Q]]|issue=314|date=September 2012|accessdate=April 13, 2019|page=112}}</ref>
+| rev10 = ''[[Uncut (magazine)|Uncut]]''
+| rev10Score = 8/10<ref>{{cite journal|title=Sun Kil Moon: Among the Leaves|work=[[Uncut (magazine)|Uncut]]|issue=183|date=August 2012|page=63}}</ref>
+}}
+Upon its release, ''Among the Leaves'' received fairly positive reviews. At [[Metacritic]], which assigns a weighted average score out of 100 to reviews and ratings from mainstream critics, the album has received a score of&nbsp;72, based on&nbsp;23 reviews, indicating "generally favorable reviews."<ref name=mc/>
+
+In a positive review, [[AllMusic]]'s James Christopher Monger stated: "The fifth outing for [[Mark Kozelek]] under the Sun Kil Moon moniker follows in the quiet footsteps of 2010's excellent ''[[Admiral Fell Promises]]''. Looser and less polished than its predecessor, ''Among the Leaves'' finds Kozelek in a mercilessly nostalgic mood, especially on the first three tracks, which play out like a [[post-rock]] & roll [[Lothario]] trilogy."<ref name=allmusic/> ''[[The A.V. Club]]''{{'}}s Colleen Powers praised the album's dark lyrical content, writing: " [The song, "Track Number 8", is] a crushing moment, and somehow more bravely biographical than another ballad for an absent woman. It’s on these darker songs that Kozelek’s fresh urgency provides a needed spark to his familiar sorrow."<ref name=avclub/> Similarly, ''[[The Observer]]'''s [[Kitty Empire]] wrote: "[Kozelek] can still drag tears from hardened hacks with his "Song for Richard Collopy", a threnody for his late guitar restorer, whose devastation lies in its affectionate detail."<ref name=observer/> Laura Snapes of [[Pitchfork Media|Pitchfork]] stated: "[Kozelek] is the kind of talented songwriter that can mostly pull that off; though for a record so spare and simple, ''Among the Leaves'' comes off as strangely confrontational."<ref name="p4k1"/> ''[[Stereogum]]'' named ''Among the Leaves'' "Album of the Week" upon its release, writing: "It’s art about, for the most part, shitty personality traits, but rendered beautifully."<ref name=stereogum>Breihan, Tom. [http://www.stereogum.com/1045732/album-of-the-week-sun-kil-moon-among-the-leaves/top-stories/ Album Of The Week: Sun Kil Moon - Among the Leaves]. [[Stereogum]]. Retrieved 22 December, 2013.</ref>
+
+''[[Consequence of Sound]]'' critic Drew Litowitz wrote: "With 17 tracks, Kozelek proves that he in fact can write a song under the five-minute mark, can be bright and bereaved in equal measure, and can even have a little fun doing this whole music thing."<ref name="cos" /> Daniel Paton of ''[[musicOMH]]'' described the album as "a bold, honest and carefree collection that, rather than announcing Kozelek’s frustrated retirement, seems set to point to new and exciting musical adventures."<ref name="omh">{{cite web | url=http://www.musicomh.com/reviews/albums/sun-kil-moon-among-the-leaves | title=Sun Kil Moon – Among The Leaves | work=[[musicOMH]] | date=May 28, 2012 | accessdate=October 12, 2014 | author=Paton, Daniel}}</ref> ''[[PopMatters]]'' critic Matthew Fiander stated: "The best parts of ''Among the Leaves'' show Kozelek stepping out from behind the blurry, echoing melancholy of his sound and showing us his humor, his insight, his knack for storytelling." Nevertheless, he also added: "There's enough of that to make this record solid, but the sad fact is that Mark Kozelek is also trying to put walls up between us and him through too much of this 73-minute record, and the truth is he succeeds there too, to his own detriment."<ref name="pop">{{cite web | url=http://www.popmatters.com/review/159084-sun-kil-moon-among-the-leaves/ | title=Sun Kil Moon: Among the Leaves | work=[[PopMatters]] | date=May 31, 2012 | accessdate=October 12, 2014 | author=Fiander, Matthew}}</ref> Beca Grimm of ''[[Paste (magazine)|Paste]]'' commented: "All the sullen lyricism dulls any chance of frisky spark. This does not make it a bad album, but it was a bit of a disappointment."<ref name="pasta">{{cite web|url=http://www.pastemagazine.com/articles/2012/05/sun-kil-moon-among-the-leaves.html|title=Sun Kil Moon: Among the Leaves|work=[[Paste (magazine)|Paste]] |date=May 30, 2012 |accessdate=May 30, 2012}}</ref> ''[[Slant Magazine]]'' reviewer Jesse Cataldo wrote: ''Among the Leaves'' may not be the most captivating way to spend 70 minutes, but it's a valuable effort nonetheless, a deeply felt record of one man's never-ending struggle with himself."<ref name="slant">{{cite web | url=http://www.slantmagazine.com/music/review/sun-kil-moon-among-the-leaves | title=Sun Kil Moon: Among the Leaves | work=[[Slant Magazine]] | date=May 25, 2012 | accessdate=October 12, 2014 | author=Cataldo, Jesse}}</ref>
+
+==Track listing==
+{{tracklist
+| collapsed       = 
+| headline        =
+| all_writing     =
+| writing_credits = 
+| title1          = I Know It's Pathetic but that Was the Greatest Night of My Life
+| length1         = 1:47
+| title2          = Sunshine in Chicago
+| length2         = 2:34
+| title3          = The Moderately Talented Yet Attractive Young Woman vs. The Exceptionally Talented Yet Not So Attractive Middle Aged Man
+| length3         = 3:44
+| title4          = That Bird Has a Broken Wing
+| length4         = 2:31
+| title5          = Elaine
+| length5         = 5:15
+| title6          = The Winery
+| length6         = 4:26
+| title7          = Young Love
+| length7         = 6:43
+| title8          = Song for Richard Collopy
+| length8         = 3:29
+| title9          = Among the Leaves
+| length9         = 3:31
+| title10         = Red Poison
+| length10        = 1:52
+| title11         = Track Number 8
+| length11        = 5:16
+| title12         = Not Much Rhymes with Everything's Awesome at All Times
+| length12        = 3:15
+| title13         = King Fish
+| length13        = 6:39
+| title14         = Lonely Mountain
+| length14        = 5:29
+| title15         = UK Blues
+| length15        = 6:16
+| title16         = UK Blues 2 
+| length16        = 4:58
+| title17         = Black Kite
+| length17        = 5:35
+}}
+
+==Personnel==
+;Sun Kil Moon
+*[[Mark Kozelek]] - vocals, guitars, additional instruments, production
+
+;Additional musicians
+*Michi Aceret - viola
+*Mike Stevens - drums 
+*Eric Embry - banjo and additional vocals <small>(''7'')</small>
+*Dave Muench - drums <small>(''15'')</small>
+
+;Recording personnel
+*Gabriel Shepard - recording, mixing
+*Aaron Prellwitz - recording, mixing
+
+;Artwork
+*Brian Azer - sleeve design
+*Barry Tribuzio - photography
+
+==Chart positions==
+{|class="wikitable"
+|-
+!Charts (2012)
+!Peak<br>position
+|-
+|US ''Billboard'' Folk Albums<ref>{{cite web | url=http://www.billboard.com/artist/280962/sun-kil-moon/chart?f=1071 | title=Sun Kil Moon - Folk Albums chart | publisher=[[Billboard (magazine)|Billboard]] | accessdate=October 10, 2014}}</ref>
+| style="text-align:center;"|8
+|-
+|US ''Billboard'' [[Top Heatseekers|Heatseekers Albums]]<ref>{{cite web | url=http://www.billboard.com/artist/280962/sun-kil-moon/chart?f=324 | title=Sun Kil Moon - Heatseekers Albums chart | publisher=[[Billboard (magazine)|Billboard]] | accessdate=October 12, 2014}}</ref>
+| style="text-align:center;"|6
+|-
+|US ''Billboard'' [[Independent Albums]]<ref>{{cite web | url=http://www.billboard.com/artist/280962/sun-kil-moon/chart?f=326 | title=Sun Kil Moon - Independent Albums chart | publisher=[[Billboard (magazine)|Billboard]] | accessdate=October 10, 2014}}</ref>
+| style="text-align:center;"|46
+|-
+|US ''Billboard'' Tastemaker Albums<ref>{{cite web | url=http://www.billboard.com/artist/280962/sun-kil-moon/chart?f=407 | title=Sun Kil Moon - Tastemaker Albums chart | publisher=[[Billboard (magazine)|Billboard]] | accessdate=October 12, 2014}}</ref>
+| style="text-align:center;"|25
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{official website}}
+
+{{Sun Kil Moon}}
+
+[[Category:2012 albums]]
+[[Category:Sun Kil Moon albums]]
+[[Category:Caldo Verde Records albums]]
+[[Category:Albums produced by Mark Kozelek]]

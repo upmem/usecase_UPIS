@@ -1,0 +1,64 @@
+{{short description|1968 film}}
+{{use dmy dates|date=February 2020}}
+{{Infobox film
+| name = Always Trouble with the Teachers
+| image =Always Trouble with the Teachers.jpg
+| caption = 
+| director = [[Harald Vock]]
+| producer =  
+| writer =  {{ubl|[[Janne Furch]]|[[August Rieger]]}}
+| narrator =
+| starring = {{ubl|[[Roy Black (singer)|Roy Black]]|[[Uschi Glas]]|[[Peter Weck]]}}
+| music = [[Claudius Alzner]] 
+| cinematography = [[Kurt Junek]] 
+| editing =     
+| studio =  [[Lisa Film]]
+| distributor = [[Gloria Film]]
+| released = {{film date|1968|10|18|df=y}}   
+| runtime = 80 minutes
+| country = West Germany 
+| language = [[German language|German]] 
+| budget =
+| gross =
+| preceded_by =
+| followed_by =
+| website =
+}}
+'''''Always Trouble with the Teachers''''' ({{lang-de|'''Immer Ärger mit den Paukern'''}}) is a 1968 West German [[comedy film]] directed by [[Harald Vock]] and starring [[Roy Black (singer)|Roy Black]], [[Uschi Glas]], and [[Peter Weck]].<ref>Blaney p. 209</ref>
+
+==Partial cast==
+{{cast listing|
+* [[Roy Black (singer)|Roy Black]] as Peter Hartung, Student
+* [[Uschi Glas]] as Dagmar, Modeschülerin
+* [[Georg Thomalla]] as Dr. Schwabmann
+* [[Peter Weck]] as Studienrat Dr. Berger
+* [[Franziska Oehme]] as Christa, Assistantin
+* [[Jan Koester]] as Paul Hartung, Schüler
+* [[Corinna Genest]] as Fräulein von Ebendorf
+* [[Sissy Löwinger]] as Therese
+* [[Roland Astor]] as Hans Werner
+* [[Monika Strauch]] as Modeschülerin
+* [[Klaus Hoeft]] as Schüler
+* [[Helga Tölle]] as Modeschülerin
+}}
+
+== References ==
+{{reflist}}
+
+== Bibliography ==
+* {{cite book | first = Martin | last = Blaney | title = Symbiosis Or Confrontation?: The Relationship Between the Film Industry and Television in the Federal Republic of Germany from 1950 to 1985 | publisher = Edition Sigma | year = 1992 | location = Berlin | isbn = 978-3-89404-906-5 }}
+
+== External links ==
+* {{IMDb title|0063126}}
+
+[[Category:1968 films]]
+[[Category:1968 comedy films]]
+[[Category:German comedy films]]
+[[Category:West German films]]
+[[Category:German-language films]]
+[[Category:Films about educators]]
+[[Category:Gloria Film films]]
+[[Category:Films directed by Harald Vock]]
+
+
+{{1960s-Germany-film-stub}}

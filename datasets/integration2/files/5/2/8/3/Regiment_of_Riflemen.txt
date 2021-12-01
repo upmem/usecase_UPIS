@@ -1,0 +1,135 @@
+{{about|the War of 1812 era unit|the Regiment of Mounted Riflemen|3d Cavalry Regiment|the early 1840s regiment|2nd Cavalry Regiment (United States)#Early organization{{!}}2nd Dragoons|the Mexican–American War era unit|Regiment of Voltigeurs and Foot Riflemen}}
+{{short description|US military unit of War of 1812 era}}
+{{Use American English|date=November 2014}}
+{{Use mdy dates|date=April 2016}}
+{{Infobox military unit
+| unit_name                    = Regiment of Riflemen
+| image                        = File:The American Soldier, 1814.jpeg
+| caption                      = Riflemen officer in gray (foreground) and troops in green smocks (background)
+| dates                        = 1808–1821
+| country={{flagu|United States}}
+| countries                    = 
+| allegiance                   = 
+| branch                       = {{Army|USA}}
+| type                         = [[Rifleman|Riflemen]]
+| role                         = [[Light infantry]]
+| size                         = Regiment
+| command_structure            =
+| garrison                     = New Orleans, Territory of Louisiana<br/>Washington, Mississippi Territory<br/>Fort Atkinson, Louisiana Purchase
+| garrison_label               = Posts
+| nickname =
+| patron =
+| motto                        = 
+| colors =
+| colors_label =
+| march =
+| mascot =
+| equipment                    = [[Harpers Ferry Model 1803]]<br/>[[U.S. Model 1814]]<br/>[[Scalping|scalping knife]]<br/>[[Tomahawk (axe)|tomahawk]],
+| equipment_label              = Weapons
+| battles                      = [[Battle of Tippecanoe]]<br/>[[Battle of York]]<br/>[[Battle of Fort George]]<br/>[[Battle of Big Sandy Creek]]<br/>[[Battle of Conjocta Creek]]<br/>[[Siege of Fort Erie]]
+| decorations =
+| battle_honours               = [[Battle of Tippecanoe]]<br/>[[War of 1812]]
+| battle_honours_label         = Campaigns
+| disbanded                    = March 2, 1821
+| flying_hours = 
+| website =
+<!-- Commanders -->
+| commander1                   = [[Alexander Smyth]] (1808–1812)<br/>[[Thomas Adams Smith]] (1812–1814, 1815–1818)<br/>George Washington Sevier(1814–1815)<br/>Talbot Chambers (1818–1821)
+| commander1_label             = Commanders
+| commander2                   = [[Benjamin Forsyth]]<br/>[[Daniel Appling]]<br/>Ludowick Morgan
+| commander2_label             = Key Subordinate Commanders
+| commander3                   = 
+| commander3_label             = 
+| commander4                   = 
+| commander4_label             = 
+| commander5                   = 
+| commander5_label             = 
+| commander6                   =
+| commander6_label             =
+| commander7                   =
+| commander7_label             =
+| commander8                   =
+| commander8_label             =
+| commander9                   =
+| commander9_label             =
+| notable_commanders           = 
+<!-- Insignia -->
+| identification_symbol         = [[File:Eagle over Horn - USRR.jpg|100px]]
+| identification_symbol_label   = Cap insignia authorized in 1817
+| identification_symbol_2       =
+| identification_symbol_2_label =
+| identification_symbol_3       =
+| identification_symbol_3_label =
+| identification_symbol_4       =
+| identification_symbol_4_label =
+}}
+
+The '''Regiment of Riflemen''' was a unit of the U.S. Army in the early nineteenth century. Unlike the regular US [[line infantry]] units with [[musket]]s and bright blue and white uniforms, this regiment was focused on specialist [[light infantry]] tactics, and were accordingly issued [[rifle]]s and dark green and black uniforms to take better advantage of cover. This was the first U.S. rifleman formation since the end of the [[American Revolutionary War]] 25 years earlier.<ref>John C. Fredriksen: ''The United States Army: A Chronology, 1775 to the Present''. ABC-CLIO, 2010, p. 63.</ref>
+
+{{Quote|Where can you find troops more efficient than Morgan's riflemen of the Revolution or Forsyth's riflemen of the last war with Great Britain?|Major [[Bennet Riley]], U.S. Army|Letter to [[Lewis F. Linn]]}}
+
+The regiment was first activated in 1808. During the War of 1812, it was temporarily designated as the 1st Regiment of Riflemen when the [[War Department (US)|War Department]] created three additional similar regiments. The regiment never fought as a unit. Companies, detachment from companies or collections of companies were stationed at a distance from each other and were often allocated to other commands. After the War, the other three regiments were inactivated and the regiment reverted to its unnumbered designation. The regiment was inactivated in June 1821.
+
+== Background ==
+On April 12, 1808, following the [[Chesapeake–Leopard Affair|''Chesapeake''–''Leopard'' Affair]], the U.S. Congress passed legislation authorizing an increase in the size of the U.S. Army, to include a regiment of riflemen.<ref name=fredriksen>{{cite book|last1=Fredriksen|first1=John C.|title=Green Coats and Glory: The United States Regiment of Riflemen, 1808–1821|date=November 2000|publisher=Old Fort Niagara Association, Inc.|location=Youngstown, New York|isbn=0-941967-22-0|edition=1st}}</ref>{{rp|12}}<ref name=Heitman>{{cite web|last1=Heitman|first1=Francis B.|title=Historical register and dictionary of the United States Army|url=https://archive.org/details/historicalregist01heitrich|publisher=War Department|accessdate=August 20, 2014|year=1903|quote=This is the unofficial work of a private compiler, purchased and published by direction of Congress}}</ref>{{rp|141}}
+
+== Organization ==
+The headquarters of the regiment was authorized one colonel, one lieutenant colonel, one major, and administrative and support officers.<ref name=fredriksen/>{{rp|12}} The winter uniform of the regiment was green jackets with black collars and cuffs; the summer uniform was green hunting shirts and pantaloons with buff fringe.<ref name=Tunnell>{{cite book |title=To Compel with Armed Force: A Staff Ride Handbook for the Battle of Tippecanoe |last=Tunnell, IV |first=H.D. |authorlink= |author2= |year=1998 |publisher=Combat Studies Institute, [[U.S. Army Command and General Staff College]] |location=Fort Leavenworth, Kansas |url=http://usacac.army.mil/cac2/cgsc/carl/download/csipubs/StaffRideHB_ToCompelWithArmedForce.pdf|accessdate=August 27, 2014}}</ref>
+{{rp|111}} In 1814, uniform regulations specified gray cloth.<ref name=Brenner>{{cite web|last1=Brenner|first1=James T.|title=The Green Against the British Red: U.S. Rifle Regiments in the Northwestern Army|url=http://warof1812.ohio.gov/_assets/docs/Rifles.pdf}}</ref>{{rp|9}}
+
+Companies were raised in various jurisdictions: three in New York and Vermont; three in the Louisiana and Mississippi Territories; and four in Ohio, Kentucky, and the Indiana Territory. Each company had an authorized strength of 84, including 68 privates; companies rarely attained their authorized strength.<ref name=Brenner/>{{rp|1}} Regimental depots were placed in [[Shepherdstown, West Virginia|Shepherdstown, Virginia]], and [[Savannah, Georgia]].<ref name=fredriksen/>{{rp|12}}
+
+On February 10, 1814, an act of Congress raised an additional three regiments of riflemen. The Regiment of Riflemen was subsequently redesignated as the 1st Regiment of Riflemen while the additional three were designated as the [[2nd Regiment of Riflemen|2nd]], [[3rd Regiment of Riflemen|3rd]] and [[4th Regiment of Riflemen|4th regiments]].<ref name=Heitman/>{{rp|141}} Nevertheless, the four regiments were consolidated again on March 3, 1815 by a further act of Congress. As a result, the 2nd, 3rd and 4th Regiments of Riflemen were disbanded and the 1st reverted to its unnumbered designation.<ref name=Heitman/>{{rp|141}}
+
+== Service ==
+[[File:General Thomas Adams Smith.jpg|thumb|left|General Thomas Adams Smith]]
+
+=== Pre-war ===
+By 1810, over half of the regiment's officers and men were stationed in [[New Orleans]] or in [[Washington, Mississippi|Washington, Mississippi Territory]].<ref name=Brenner/>{{rp|1}}
+
+On November 7, 1811, a detachment of riflemen attached to the [[4th Infantry Regiment (United States)|4th Infantry Regiment]] fought at Tippecanoe. Because rifles took longer to load than muskets, the riflemen were armed with muskets. During a night action, the riflemen inflicted heavy casualties of Native American forces.<ref name=fredriksen/>{{rp|24–27}}<ref name=Tunnell/>{{rp|112}}
+
+A group of [[Georgia (U.S. state)|Georgia]]ns, calling themselves "Patriots", crossed into Spanish [[East Florida]] and, on March 17, 1812, captured [[Amelia Island]] from the Spanish garrison. The Patriots then "ceded" Amelia Island and the surrounding area to the United States. On April 12, 1812, two companies of the regiment under the command of then Lieutenant Colonel Thomas A. Smith occupied [[Fort Mose|Fort Mose, Spanish East Florida]] as part of the [[Patriot War (Seminole Wars)|Patriot War]].<ref name=fredriksen/>{{rp|24–27}}<ref name="Davis">{{cite web|last1=Davis|first1=T. Frederick|title=United States Troops in Spanish East Florida, 1812–1813|url=http://fortmose.com/index.html|accessdate=August 30, 2014}}</ref> The riflemen received little support from the US Government or the Patriots. Smith attempted a siege of [[St. Augustine, Florida]], but his supply lines were not secure and the Spanish garrison of [[Castillo de San Marcos]] threatened his command. The Spanish counterattacked Fort Mose and Smith retreated to an encampment further from St. Augustine, Florida. On May 16, 1812, the Spanish set fire to Fort Mose to prevent its reoccupation. Troops retreated to [[St. Marys, Georgia|Point Petre, Georgia]] under the leadership of Captain Abraham A. Massias.<ref name=fredriksen/>{{rp|27–28}} All US troops were withdrawn from East Florida by May 1813.<ref name=Brenner/>{{rp|2}}<ref name="Davis"/>
+
+=== War of 1812 ===
+When [[War of 1812|war]] was declared on June 18, 1812, Captain [[Benjamin Forsyth]]'s company of the regiment was stationed in New York City. In July 1812,  Forsyth led his company to [[Sacketts Harbor, New York]] from which, on September 20–21, 1812, he, his company and supporting militia attacked British stores at [[Raid on Gananoque|Gananoque, Upper Canada]]. Forsyth surprised the Canadian militiamen and was able to capture muskets, ammunition and prisoners. Forsyth's party set fire to stores they could not carry and returned safely to Sackets Harbor from the raid. Forsyth's losses were one man killed and one wounded.<ref name=fredriksen/>{{rp|29}}<ref name=Elting>{{cite book|last1=Elting|first1=John R.|title=Amateurs to Arms! A Military History of the War of 1812|publisher=Algonquin Books of Chapel Hill|location=Chapel Hill, North Carolina|isbn=0-945575-08-4|edition=1st}}{{rp|52}}</ref><ref name=Rauch>{{cite book|last1=Rauch|first1=Steven J.|title=The Campaign of 1812|publisher=Center for Military History, United States Army|location=Washington, D.C.|url=http://www.history.army.mil/html/books/074/74-2/CMH_Pub_74-2.pdf|accessdate=September 3, 2014}}</ref>{{rp|50}}
+
+
+
+In October 1812, two companies of riflemen were assigned to participate in the [[Battle of Queenston Heights]]; however disagreement between Major General [[Stephen Van Rensselaer]] and Brigadier General [[Alexander Smyth]] resulted in those companies being withdrawn because Smyth thought it more important that they clean their camp following a storm. Ultimately, the U.S. attempt to take Queenston failed.<ref name=Rauch/>{{rp|42}}
+
+Forsyth was promoted to major during the winter and on February 6–7, 1813, led a multi-company force of the regiment in a [[raid on Elizabethtown]], Upper Canada, from [[Ogdensburg, New York]], which resulted in the freeing of American prisoners, the capture of Canadian prisoners and the re-capture of arms that had been taken by the British at the [[Battle of Detroit]]. Forsyth was brevetted to lieutenant colonel for distinguished service with a date of rank of February 6, 1813.<ref name=Heitman/>{{rp|430}}<ref name=Elting/>{{rp|92}}<ref name=Rauch/>{{rp|52}} Forsyth proved to be an aggravation to the British commanders in Upper Canada and on February 22, 1813, he and his troops were driven out of Ogdensburg by a superior force of British soldiers led by Lieutenant Colonel [[George MacDonnell]] after causing heavy casualties to one of the two attacking British columns. Forsyth requested re-enforcements from Colonel [[Alexander Macomb (general)|Alexander Macomb]] at Sacketts Harbor to retake Ogdensburg, but Macomb provided no troops and Forsyth led his riflemen back to Sacketts Harbor.<ref name=fredriksen/>{{rp|31–33}}<ref name=Rauch/>{{rp|53}}
+
+The riflemen under Forsyth later made an amphibious landing under a heavy fire from Indians and other troops near [[Battle of York|York, Upper Canada]] on April 27, 1813. The battle lasted nearly 30 minutes during which the British force, including a grenadier company of the [[8th (The King's) Regiment of Foot]] was repulsed with heavy losses. After Brigadier General [[Zebulon Pike]] landed re-enforcements, the British retreated to their fortifications. As U.S. troops approached the British, a magazine exploded, resulting in more than 100 casualties, including Pike. The American troops, including a column of the [[15th Infantry Regiment (United States)|15th Infantry Regiment]], then sacked and burned York.<ref name=fredriksen/>{{rp|34–35}}
+
+On May 27, 1813, a battalion of the regiment commanded by Forsyth executed another amphibious assault and participated in the capture of [[Battle of Fort George|Fort George, Upper Canada]]. After taking the fort, US troops attempted to pursue the retreating British forces but Major General [[Morgan Lewis (governor)|Morgan Lewis]] recalled the battalion when he feared an ambush.<ref name=cruikshank>{{cite web|last1=Cruikshank|first1=Ernest|title=Battle of Fort George|url=http://www.gutenberg.org/files/33621/33621-h/33621-h.htm|publisher=Niagara Historical Society|accessdate=August 16, 2014|year=1896}}</ref>{{rp|25}}  Forsyth's riflemen where then employed as an advance force and on November 7–9, 1813 they engaged a large Canadian force at Hoople's Creek near Cornwall, Upper Canada, concurrent with the [[Battle of Crysler's Farm]]. Although the riflemen performed well and the Americans persevered at Hoople's Creek, the Canadians drove the Americans from the farm and Major General [[James Wilkinson]] withdrew to winter quarters.<ref name=fredriksen/>{{rp|39–40}} Forsyth was killed in action on June 28, 1814.<ref name=Heitman/>{{rp|430}}
+
+Riflemen under the command of Major [[Daniel Appling]] participated in the [[Battle of Big Sandy Creek]] on May 30, 1814, during which they ambushed and captured a large detachment of British sailors, including two Royal Navy captains, and Royal Marines, sparing a shipment of large cannon from capture.<ref name=fredriksen/>{{rp|50–51}} Appling was brevetted to lieutenant colonel on May 30, 1814 for gallantry and to colonel on September 11, 1814 for distinguished service.<ref name=Heitman/>{{rp|168}}
+
+On August 3, 1814,  another detachment of riflemen under the command of Major Ludowick Morgan ambushed and repelled a British raid at Conjockta Creek near Buffalo, New York, prior to the [[Siege of Fort Erie]]. Morgan and his troops, along with elements of the 4th Regiment of Riflemen, helped relieve the siege.<ref name=fredriksen/>{{rp|56–60}} Morgan was killed in action on August 12, 1814.<ref name=Heitman/>{{rp|726}}
+
+The regiment's last wartime action occurred after Britain and the United States agreed to end the war in the [[Treaty of Ghent]]. On January 13, 1815, [[Royal Marines]] and troops of the [[2nd West India Regiment]] landed near [[Battle of Fort Peter|Fort Peter]], [[Saint Marys, Georgia|Saint Marys]], Georgia. Captain Abraham A. Massais, who was commanding a force consisting of a company of the Regiment of Riflemen and a company of the 42nd Infantry Regiment, decided his command was outnumbered and executed a fighting retreat. The British demolished Fort Peter and re-embarked.<ref name=fredriksen/>{{rp|66–67}}
+
+=== Post-war ===
+[[File:Cantonment Missouri Map.jpg|thumb|Plan of Cantonment Missouri]]Following resumption of peace with Great Britain, the consolidated regiment was assigned to [[St. Louis, Missouri|St. Louis, Missouri Territory]]. By 1817 the riflemen had contributed to the construction of [[Fort Armstrong, Illinois|Fort Armstrong]], Rock Island, Illinois; [[Fort Crawford]], Prairie du Chien, Wisconsin; [[Fort Howard, Wisconsin|Fort Howard]], Green Bay, Wisconsin and [[Fort Smith, Arkansas]]. The last was named after Thomas Adams Smith.<ref name=fredriksen/>{{rp|69}}
+
+In 1819, [[Secretary of War]] [[John C. Calhoun]] ordered the [[Yellowstone Expedition]], commanded by Colonel [[Henry Atkinson (soldier)|Henry Atkinson]], to act as a warning against British incursions. Companies of the Regiment of Riflemen and elements of the [[6th Infantry Regiment (United States)|6th Infantry Regiment]] worked together to build [[Fort Atkinson (Nebraska)|Fort Atkinson, Nebraska]] (then an unorganized area of the [[Louisiana Purchase]]). In 1820, Congress later declined to fund further advances.<ref name="Fort Atkinson">{{cite web|title=Fort Atkinson, Nebraska|url=http://www.nebraskahistory.org/lib-arch/research/public/federal_finding_aids/ft_atkinson.pdf|publisher=Nebraska State Historical Society|accessdate=August 17, 2014}}</ref><ref name=Johnson>{{Cite journal|last=Johnson|first=Sally A.|title=Cantonment Missouri|journal=Nebraska History|date=June 1956|volume= 37|issue= 2|accessdate=August 17, 2014|url=http://www.usgennet.org/usa/ne/topic/resources/NSHS/CMO/cantonmo.html}}
+</ref>
+
+== Inactivation ==
+On March 2, 1821, Congress passed an act establishing an Army with no provision for a rifle regiment. The regiment was inactivated on June 1, 1821.<ref name=Heitman/>{{rp|141}}
+
+Under an act of Congress dated August 23, 1842 the [[2nd Cavalry Regiment (United States)|2nd Cavalry Regiment]] was re-designated as the Regiment of Riflemen effective March 4, 1843. This act was repealed on April 4, 1844 and the 2nd Cavalry Regiment reverted to its previous designation. There is no clear connection between the earlier and later regiments.<ref name=Heitman/>{{rp|143}}
+
+==References==
+{{reflist|30em}}
+
+==External==
+*[http://www.gutenberg.org/files/38738/38738-h/38738-h.htm Insignia (Smithsonian Institution)]
+*[https://www.archives.gov/research/military/war-of-1812/1812-discharge-certificates/discharge-certificates.html War of 1812 Discharge Certificates]
+*[http://rbsc.slpl.org/firstbattalion.pdf First Battalion of the US Regiment of Riflemen Orderly Book] at [[St. Louis Public Library]]
+
+[[Category:Rifle regiments of the United States Army|1st Regiment of Riflemen (United States)]]
+[[Category:Military units and formations established in 1808]]
+[[Category:Military units and formations disestablished in 1821]]
+[[Category:American military units and formations of the War of 1812]]

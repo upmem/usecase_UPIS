@@ -1,0 +1,27 @@
+== Summary ==
+
+
+{{Non-free use rationale poster
+| Article           = Wise Guys (1961 film)
+| Use               = Infobox
+| Media             = film
+| Name              = 
+| Distributor       = 
+| Publisher         = 
+| Graphic artist    =
+| Type              = 
+| Website           = http://www.movieposterdb.com/poster/f13e1a67
+| Owner             = 
+| Commentary        = 
+<!--OVERRIDE FIELDS -->
+| Description       = 
+| Source            = 
+| Portion           = 
+| Low resolution    = 
+| Purpose           = <!-- Must be specified if Use is not Infobox / Header / Section -->
+| Replaceability    = 
+| Other information = 
+}}
+
+== Licensing ==
+{{Non-free poster|image has rationale=yes}}
