@@ -1,0 +1,15 @@
+2021-01-28 - 2021-12-01 Julien Legriel  <jlegriel@upmem.com>
+
+* Major code development, optimization to send the requests by batch and tasklet load balancing
+* New index builder program (C++) to load balance based on file size
+* Test average queries latency/throughput on wikipedia data set
+
+2019-03-25 - 2020-11-18  Romaric Jodin
+
+* Major code development, optimization, use of seqreader
+* Test on data set provided by industrial partner 
+
+2017-09-28 - 2018-12-13  David Furodet
+
+* Initial code development and demo
+
