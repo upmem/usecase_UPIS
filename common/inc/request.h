@@ -4,7 +4,6 @@
  * See LICENSE file for details.
  */
 
-
 #ifndef REQUEST_H
 #define REQUEST_H
 

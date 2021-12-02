@@ -32,8 +32,8 @@
 #include <time.h>
 #include <unistd.h>
 
-#include "request.h"
 #include "parser.h"
+#include "request.h"
 
 #define XSTR(x) #x
 #define STR(x) XSTR(x)
@@ -53,7 +53,7 @@ DPU_INCBIN(dpu_binary, DPU_BINARY)
 static FILE *stats_file;
 #endif
 
-static struct word_dictionnary * dict;
+static struct word_dictionnary *dict;
 static uint32_t nb_words = 0;
 
 static bool print_response_enabled = false;
